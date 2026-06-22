@@ -1,71 +1,66 @@
 {
-  "id": "ent.spell.x-d02bf574",
-  "type": "spell",
-  "name": "火球术",
+  "id": "ent.place.x-6f5b543e",
+  "type": "place",
+  "name": "天水城",
   "aliases": [],
-  "summary": "王林掐印施放的火系小法术，可凝婴儿拳大火球融化雪水，施法颇耗力。",
+  "summary": "赵国北方最大城市，驻军数十万，距恒岳峰上万里，王林凡人时代向往之地。",
   "attributes": {
-    "类型": "火系攻击法术",
-    "消耗": "较吃力（与引力术连用更甚）",
-    "威力": "可瞬间将凡人化为黑炭",
-    "适用境界": "凝气期第三层以下"
+    "所属界面": "赵国",
+    "类型": "大城/军事重镇",
+    "方位": "赵国北方",
+    "规模": "驻军数十万"
   },
   "observations": {
+    "所属界面": [
+      {
+        "value": "赵国",
+        "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
+        "seq": 55
+      }
+    ],
     "类型": [
       {
-        "value": "火系攻击/生火",
-        "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
-        "seq": 31
-      },
-      {
-        "value": "火系攻击法术",
+        "value": "大城/军事重镇",
         "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
         "seq": 55
       }
     ],
-    "消耗": [
+    "方位": [
       {
-        "value": "较吃力（与引力术连用更甚）",
-        "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
-        "seq": 31
-      }
-    ],
-    "威力": [
-      {
-        "value": "可瞬间将凡人化为黑炭",
+        "value": "赵国北方",
         "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
         "seq": 55
       }
     ],
-    "适用境界": [
+    "规模": [
       {
-        "value": "凝气期第三层以下",
+        "value": "驻军数十万",
         "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
         "seq": 55
       }
     ]
   },
-  "firstSeq": 31,
+  "firstSeq": 55,
   "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
+      "dated": false,
+      "seq": 55
+    },
     "类型": {
       "asOf": null,
       "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
       "dated": false,
       "seq": 55
     },
-    "消耗": {
-      "asOf": null,
-      "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
-      "dated": false,
-      "seq": 31
-    },
-    "威力": {
+    "方位": {
       "asOf": null,
       "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
       "dated": false,
       "seq": 55
     },
-    "适用境界": {
+    "规模": {
       "asOf": null,
       "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
       "dated": false,
@@ -75,8 +70,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch31-36-xueshui-jiaoyi",
     "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion"
   ],
-  "updatedAt": "2026-06-22T12:57:09.184Z"
+  "updatedAt": "2026-06-22T12:57:09.175Z"
 }
