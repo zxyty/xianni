@@ -1,34 +1,29 @@
 {
-  "id": "ent.person.x-f98f79a6",
+  "id": "ent.person.x-fdd74768",
   "type": "person",
-  "name": "道虚",
+  "name": "恒岳派掌门",
   "aliases": [
-    "道虚上仙",
-    "道虚仙人",
-    "道虚师叔"
+    "蓝衫男子",
+    "掌门师兄",
+    "掌门师伯"
   ],
-  "summary": "恒岳派修士，看中并收王卓为弟子。",
+  "summary": "约四十岁、身穿蓝色长衫、仙风道骨的恒岳派掌门；下令集训四年备战玄道宗交流，期望弟子中现紫衣核心弟子。",
   "attributes": {
-    "性别": "男",
-    "身份": "恒岳派高层",
+    "身份": "恒岳派掌门",
+    "外貌": "约四十岁，蓝色长衫，仙风道骨，目光如电",
     "阵营": "恒岳派"
   },
   "observations": {
-    "性别": [
-      {
-        "value": "男",
-        "docId": "plot.xianni-c01-06-wanglin-lixiang-celue-shibai",
-        "seq": 1
-      }
-    ],
     "身份": [
       {
-        "value": "恒岳派修士/王卓之师",
-        "docId": "plot.xianni-c01-06-wanglin-lixiang-celue-shibai",
-        "seq": 1
-      },
+        "value": "恒岳派掌门",
+        "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
+        "seq": 31
+      }
+    ],
+    "外貌": [
       {
-        "value": "恒岳派高层",
+        "value": "约四十岁，蓝色长衫，仙风道骨，目光如电",
         "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
         "seq": 31
       }
@@ -41,15 +36,15 @@
       }
     ]
   },
-  "firstSeq": 1,
+  "firstSeq": 31,
   "attrProvenance": {
-    "性别": {
-      "asOf": null,
-      "docId": "plot.xianni-c01-06-wanglin-lixiang-celue-shibai",
-      "dated": false,
-      "seq": 1
-    },
     "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
+      "dated": false,
+      "seq": 31
+    },
+    "外貌": {
       "asOf": null,
       "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
       "dated": false,
@@ -65,7 +60,6 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-c01-06-wanglin-lixiang-celue-shibai",
     "plot.xianni-ch31-36-xueshui-jiaoyi"
   ],
   "updatedAt": "2026-06-22T12:00:36.611Z"

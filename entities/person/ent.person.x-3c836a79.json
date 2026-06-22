@@ -3,11 +3,13 @@
   "type": "person",
   "name": "马长老",
   "aliases": [
-    "红面老者"
+    "红面老者",
+    "红脸老者"
   ],
   "summary": "恒岳派长老，反对为凡人破例收徒。",
   "attributes": {
-    "身份": "恒岳派长老"
+    "身份": "恒岳派长老",
+    "外貌": "红脸/红面"
   },
   "observations": {
     "身份": [
@@ -15,6 +17,13 @@
         "value": "恒岳派长老",
         "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
         "seq": 7
+      }
+    ],
+    "外貌": [
+      {
+        "value": "红脸/红面",
+        "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
+        "seq": 31
       }
     ]
   },
@@ -25,12 +34,19 @@
       "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
       "dated": false,
       "seq": 7
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
+      "dated": false,
+      "seq": 31
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch07-12-liushu-rumen-shizhu"
+    "plot.xianni-ch07-12-liushu-rumen-shizhu",
+    "plot.xianni-ch31-36-xueshui-jiaoyi"
   ],
-  "updatedAt": "2026-06-22T11:17:41.848Z"
+  "updatedAt": "2026-06-22T12:00:36.612Z"
 }
