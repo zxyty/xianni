@@ -1,33 +1,28 @@
 {
-  "id": "ent.person.x-3c836a79",
+  "id": "ent.person.x-8ffe1c3f",
   "type": "person",
-  "name": "马长老",
+  "name": "宋师叔",
   "aliases": [
-    "红面老者",
-    "红脸老者"
+    "宋道友",
+    "宋老家伙"
   ],
-  "summary": "恒岳派长老，反对为凡人破例收徒。",
+  "summary": "恒岳派长辈，善酿美酒，与玄道宗欧阳老者为二十年老友。",
   "attributes": {
-    "身份": "恒岳派长老",
-    "外貌": "红脸老者",
+    "身份": "恒岳派长辈",
+    "标志特征": "善酿美酒、满面皱纹、无精打采",
     "阵营": "恒岳派"
   },
   "observations": {
     "身份": [
       {
-        "value": "恒岳派长老",
-        "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
-        "seq": 7
+        "value": "恒岳派长辈",
+        "docId": "plot.xianni-ch37-42-sinian-guangban",
+        "seq": 37
       }
     ],
-    "外貌": [
+    "标志特征": [
       {
-        "value": "红脸/红面",
-        "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
-        "seq": 31
-      },
-      {
-        "value": "红脸老者",
+        "value": "善酿美酒、满面皱纹、无精打采",
         "docId": "plot.xianni-ch37-42-sinian-guangban",
         "seq": 37
       }
@@ -40,15 +35,15 @@
       }
     ]
   },
-  "firstSeq": 7,
+  "firstSeq": 37,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
+      "docId": "plot.xianni-ch37-42-sinian-guangban",
       "dated": false,
-      "seq": 7
+      "seq": 37
     },
-    "外貌": {
+    "标志特征": {
       "asOf": null,
       "docId": "plot.xianni-ch37-42-sinian-guangban",
       "dated": false,
@@ -64,9 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch07-12-liushu-rumen-shizhu",
-    "plot.xianni-ch31-36-xueshui-jiaoyi",
     "plot.xianni-ch37-42-sinian-guangban"
   ],
-  "updatedAt": "2026-06-22T12:17:36.010Z"
+  "updatedAt": "2026-06-22T12:17:36.024Z"
 }

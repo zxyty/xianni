@@ -11,12 +11,13 @@
   "attributes": {
     "性别": "男",
     "种族": "凡人",
-    "身份": "恒岳派内门弟子",
-    "性格": "傲慢轻蔑、刻薄嚣张、狂傲自大、瞧不起人、嚣张跋扈、轻蔑傲慢",
-    "外貌": "面目俊朗、仪表堂堂",
-    "小阶段": "凝气期第一层、凝气第一层、凝气期第一层巅峰、凝气期第三层",
+    "身份": "玄道宗访客接待人",
+    "性格": "傲慢轻蔑、刻薄嚣张、狂傲自大、瞧不起人、嚣张跋扈、轻蔑傲慢、恶毒、好羞辱人",
+    "外貌": "俊朗不凡",
+    "小阶段": "凝气期第一层、凝气第一层、凝气期第一层巅峰、凝气期第三层、凝气期第五层顶峰、凝气五层",
     "标志特征": "天资极佳、修炼神速",
-    "称号": "新人王、两年前新人王"
+    "称号": "新人王、两年前新人王",
+    "阵营": "恒岳派、敌视王林"
   },
   "observations": {
     "性别": [
@@ -49,6 +50,11 @@
         "value": "恒岳派内门弟子",
         "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
         "seq": 19
+      },
+      {
+        "value": "玄道宗访客接待人",
+        "docId": "plot.xianni-ch37-42-sinian-guangban",
+        "seq": 37
       }
     ],
     "性格": [
@@ -77,6 +83,11 @@
         "value": "轻蔑傲慢",
         "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
         "seq": 31
+      },
+      {
+        "value": "恶毒、好羞辱人",
+        "docId": "plot.xianni-ch37-42-sinian-guangban",
+        "seq": 37
       }
     ],
     "外貌": [
@@ -84,6 +95,11 @@
         "value": "面目俊朗、仪表堂堂",
         "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
         "seq": 19
+      },
+      {
+        "value": "俊朗不凡",
+        "docId": "plot.xianni-ch37-42-sinian-guangban",
+        "seq": 37
       }
     ],
     "小阶段": [
@@ -107,6 +123,16 @@
         "value": "凝气期第三层",
         "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
         "seq": 31
+      },
+      {
+        "value": "凝气期第五层顶峰",
+        "docId": "plot.xianni-ch37-42-sinian-guangban",
+        "seq": 37
+      },
+      {
+        "value": "凝气五层",
+        "docId": "plot.xianni-ch37-42-sinian-guangban",
+        "seq": 37
       }
     ],
     "标志特征": [
@@ -127,6 +153,18 @@
         "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
         "seq": 31
       }
+    ],
+    "阵营": [
+      {
+        "value": "恒岳派",
+        "docId": "plot.xianni-ch37-42-sinian-guangban",
+        "seq": 37
+      },
+      {
+        "value": "敌视王林",
+        "docId": "plot.xianni-ch37-42-sinian-guangban",
+        "seq": 37
+      }
     ]
   },
   "firstSeq": 1,
@@ -145,9 +183,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+      "docId": "plot.xianni-ch37-42-sinian-guangban",
       "dated": false,
-      "seq": 19
+      "seq": 37
     },
     "性格": {
       "asOf": null,
@@ -157,9 +195,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+      "docId": "plot.xianni-ch37-42-sinian-guangban",
       "dated": false,
-      "seq": 19
+      "seq": 37
     },
     "小阶段": {
       "asOf": null,
@@ -179,6 +217,12 @@
       "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
       "dated": false,
       "seq": 31
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch37-42-sinian-guangban",
+      "dated": false,
+      "seq": 37
     }
   },
   "contested": false,
@@ -188,7 +232,8 @@
     "plot.xianni-ch07-12-liushu-rumen-shizhu",
     "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
     "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
-    "plot.xianni-ch31-36-xueshui-jiaoyi"
+    "plot.xianni-ch31-36-xueshui-jiaoyi",
+    "plot.xianni-ch37-42-sinian-guangban"
   ],
-  "updatedAt": "2026-06-22T12:00:36.625Z"
+  "updatedAt": "2026-06-22T12:17:36.033Z"
 }

@@ -7,9 +7,9 @@
   ],
   "summary": "歹毒的搜魂仙术，被搜者多死亡或痴呆；受天地法则限制。",
   "attributes": {
-    "类型": "搜魂/神识类仙术",
+    "类型": "搜魂/神识类",
     "适用境界": "结丹期以上方可对凡人施展",
-    "消耗": "对修真者使用修为退步、一生限三次",
+    "消耗": "降低施法者修为",
     "威力": "十有立即魂飞魄散，最好终生痴呆"
   },
   "observations": {
@@ -18,6 +18,11 @@
         "value": "搜魂/神识类仙术",
         "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
         "seq": 19
+      },
+      {
+        "value": "搜魂/神识类",
+        "docId": "plot.xianni-ch37-42-sinian-guangban",
+        "seq": 37
       }
     ],
     "适用境界": [
@@ -32,6 +37,11 @@
         "value": "对修真者使用修为退步、一生限三次",
         "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
         "seq": 19
+      },
+      {
+        "value": "降低施法者修为",
+        "docId": "plot.xianni-ch37-42-sinian-guangban",
+        "seq": 37
       }
     ],
     "威力": [
@@ -46,9 +56,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+      "docId": "plot.xianni-ch37-42-sinian-guangban",
       "dated": false,
-      "seq": 19
+      "seq": 37
     },
     "适用境界": {
       "asOf": null,
@@ -58,9 +68,9 @@
     },
     "消耗": {
       "asOf": null,
-      "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+      "docId": "plot.xianni-ch37-42-sinian-guangban",
       "dated": false,
-      "seq": 19
+      "seq": 37
     },
     "威力": {
       "asOf": null,
@@ -72,7 +82,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling"
+    "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+    "plot.xianni-ch37-42-sinian-guangban"
   ],
-  "updatedAt": "2026-06-22T11:33:50.320Z"
+  "updatedAt": "2026-06-22T12:17:36.013Z"
 }

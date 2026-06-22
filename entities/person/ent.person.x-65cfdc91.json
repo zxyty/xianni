@@ -7,11 +7,12 @@
   ],
   "summary": "恒岳派记名弟子，砍柴杂务已三年，与王林同屋结交。",
   "attributes": {
-    "身份": "恒岳派记名弟子（砍柴）、恒岳派记名弟子、恒岳派弟子、恒岳派后山管事师兄",
+    "身份": "恒岳派记名弟子（砍柴）、恒岳派记名弟子、恒岳派弟子、恒岳派后山管事师兄、恒岳派内门弟子",
     "性格": "严厉、护短秉公",
     "标志特征": "嗜睡",
     "阵营": "恒岳派记名弟子",
-    "称号": "内门大比第一"
+    "称号": "内门大比第一",
+    "小阶段": "凝气期第六层"
   },
   "observations": {
     "身份": [
@@ -34,6 +35,11 @@
         "value": "恒岳派后山管事师兄",
         "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
         "seq": 31
+      },
+      {
+        "value": "恒岳派内门弟子",
+        "docId": "plot.xianni-ch37-42-sinian-guangban",
+        "seq": 37
       }
     ],
     "性格": [
@@ -74,6 +80,13 @@
         "seq": 31,
         "note": "因无紫衣弟子参加"
       }
+    ],
+    "小阶段": [
+      {
+        "value": "凝气期第六层",
+        "docId": "plot.xianni-ch37-42-sinian-guangban",
+        "seq": 37
+      }
     ]
   },
   "firstSeq": 7,
@@ -108,6 +121,12 @@
       "dated": false,
       "seq": 31,
       "note": "因无紫衣弟子参加"
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch37-42-sinian-guangban",
+      "dated": false,
+      "seq": 37
     }
   },
   "contested": false,
@@ -116,7 +135,8 @@
     "plot.xianni-ch07-12-liushu-rumen-shizhu",
     "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
     "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
-    "plot.xianni-ch31-36-xueshui-jiaoyi"
+    "plot.xianni-ch31-36-xueshui-jiaoyi",
+    "plot.xianni-ch37-42-sinian-guangban"
   ],
-  "updatedAt": "2026-06-22T12:00:36.625Z"
+  "updatedAt": "2026-06-22T12:17:35.998Z"
 }
