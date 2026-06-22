@@ -1,43 +1,38 @@
 {
-  "id": "ent.realm.x-3edac8d2",
-  "type": "realm",
-  "name": "元婴期",
+  "id": "ent.place.x-5370e686",
+  "type": "place",
+  "name": "恒岳峰",
   "aliases": [],
-  "summary": "高阶修真境界，恒岳派鼎盛时曾拥有数位元婴期老怪。",
+  "summary": "恒岳派山门所在主峰；玄道宗索要借用五百年。",
   "attributes": {
-    "阶序": "高阶（始祖级）",
-    "上一境": "结丹期"
+    "所属势力": "恒岳派",
+    "类型": "门派主峰"
   },
   "observations": {
-    "阶序": [
+    "所属势力": [
       {
-        "value": "高阶修真境界",
-        "docId": "plot.xianni-c01-06-wanglin-lixiang-celue-shibai",
-        "seq": 1
-      },
-      {
-        "value": "高阶（始祖级）",
+        "value": "恒岳派",
         "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
         "seq": 49
       }
     ],
-    "上一境": [
+    "类型": [
       {
-        "value": "结丹期",
+        "value": "门派主峰",
         "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
         "seq": 49
       }
     ]
   },
-  "firstSeq": 1,
+  "firstSeq": 49,
   "attrProvenance": {
-    "阶序": {
+    "所属势力": {
       "asOf": null,
       "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
       "dated": false,
       "seq": 49
     },
-    "上一境": {
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
       "dated": false,
@@ -47,8 +42,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-c01-06-wanglin-lixiang-celue-shibai",
     "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi"
   ],
-  "updatedAt": "2026-06-22T12:48:22.511Z"
+  "updatedAt": "2026-06-22T12:48:22.473Z"
 }

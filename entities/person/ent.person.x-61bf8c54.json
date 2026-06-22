@@ -5,16 +5,20 @@
   "aliases": [
     "苍老声音",
     "石珠内的前辈",
-    "六级修真国绝世高手"
+    "六级修真国绝世高手",
+    "前辈",
+    "老夫"
   ],
   "summary": "藏身于石珠（天逆珠子）内的高手，自称六级修真国绝世高手，肉身被毁后困于珠中三十余年，暗中以元婴精华助王林修炼，图谋待王林到婴变期为其寻肉身夺舍。",
   "attributes": {
     "性别": "男",
-    "身份": "六级修真国绝世高手、朱雀国第一强者",
+    "身份": "六级修真国绝世高手、朱雀国第一强者、天逆珠内残魂／王林暗中之师、黄泉升窍决传功者",
     "性格": "残暴狠辣、沧桑哀叹、桀骜不驯、嚣张跋扈",
     "存殁": "肉身已毁，元神/元婴藏身石珠",
-    "标志特征": "苍老声音，自称'老夫/老子'",
-    "出身地": "六级修真国朱雀国"
+    "标志特征": "存于石珠梦境之内",
+    "出身地": "六级修真国朱雀国",
+    "小阶段": "元婴期",
+    "称号": "前辈／老夫"
   },
   "observations": {
     "性别": [
@@ -34,6 +38,16 @@
         "value": "朱雀国第一强者",
         "docId": "plot.xianni-ch43-48-lishan-pilidan-shenshi",
         "seq": 43
+      },
+      {
+        "value": "天逆珠内残魂／王林暗中之师",
+        "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+        "seq": 49
+      },
+      {
+        "value": "黄泉升窍决传功者",
+        "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+        "seq": 49
       }
     ],
     "性格": [
@@ -66,6 +80,11 @@
         "value": "苍老声音，自称'老夫/老子'",
         "docId": "plot.xianni-ch43-48-lishan-pilidan-shenshi",
         "seq": 43
+      },
+      {
+        "value": "存于石珠梦境之内",
+        "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+        "seq": 49
       }
     ],
     "出身地": [
@@ -73,6 +92,21 @@
         "value": "六级修真国朱雀国",
         "docId": "plot.xianni-ch43-48-lishan-pilidan-shenshi",
         "seq": 43
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴期",
+        "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+        "seq": 49,
+        "note": "仅余元神/精华残留于天逆珠内，肉身已亡"
+      }
+    ],
+    "称号": [
+      {
+        "value": "前辈／老夫",
+        "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+        "seq": 49
       }
     ]
   },
@@ -105,21 +139,35 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch43-48-lishan-pilidan-shenshi",
+      "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
       "dated": false,
-      "seq": 43
+      "seq": 49
     },
     "出身地": {
       "asOf": null,
       "docId": "plot.xianni-ch43-48-lishan-pilidan-shenshi",
       "dated": false,
       "seq": 43
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+      "dated": false,
+      "seq": 49,
+      "note": "仅余元神/精华残留于天逆珠内，肉身已亡"
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+      "dated": false,
+      "seq": 49
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch43-48-lishan-pilidan-shenshi"
+    "plot.xianni-ch43-48-lishan-pilidan-shenshi",
+    "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi"
   ],
-  "updatedAt": "2026-06-22T12:30:04.325Z"
+  "updatedAt": "2026-06-22T12:48:22.502Z"
 }

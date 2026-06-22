@@ -1,43 +1,40 @@
 {
-  "id": "ent.realm.x-3edac8d2",
-  "type": "realm",
-  "name": "元婴期",
-  "aliases": [],
-  "summary": "高阶修真境界，恒岳派鼎盛时曾拥有数位元婴期老怪。",
+  "id": "ent.region.x-cd92906c",
+  "type": "region",
+  "name": "四级修真国域",
+  "aliases": [
+    "四级修真国域外战场"
+  ],
+  "summary": "更高层级的修真疆域，其域外战场上恒岳派数位始祖全部身亡。",
   "attributes": {
-    "阶序": "高阶（始祖级）",
-    "上一境": "结丹期"
+    "层次": "四级",
+    "特点": "域外有战场，恒岳派始祖战死于此"
   },
   "observations": {
-    "阶序": [
+    "层次": [
       {
-        "value": "高阶修真境界",
-        "docId": "plot.xianni-c01-06-wanglin-lixiang-celue-shibai",
-        "seq": 1
-      },
-      {
-        "value": "高阶（始祖级）",
+        "value": "四级",
         "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
         "seq": 49
       }
     ],
-    "上一境": [
+    "特点": [
       {
-        "value": "结丹期",
+        "value": "域外有战场，恒岳派始祖战死于此",
         "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
         "seq": 49
       }
     ]
   },
-  "firstSeq": 1,
+  "firstSeq": 49,
   "attrProvenance": {
-    "阶序": {
+    "层次": {
       "asOf": null,
       "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
       "dated": false,
       "seq": 49
     },
-    "上一境": {
+    "特点": {
       "asOf": null,
       "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
       "dated": false,
@@ -47,8 +44,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-c01-06-wanglin-lixiang-celue-shibai",
     "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi"
   ],
-  "updatedAt": "2026-06-22T12:48:22.511Z"
+  "updatedAt": "2026-06-22T12:48:22.474Z"
 }
