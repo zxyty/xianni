@@ -3,13 +3,16 @@
   "type": "item",
   "name": "下阶玉符",
   "aliases": [
-    "玉符"
+    "玉符",
+    "丹宝",
+    "九符玉符",
+    "古朴玉符"
   ],
   "summary": "可发挥三次类似地裂法术的玉符，本章以12粒夺灵丹成交。",
   "attributes": {
     "类型": "符箓",
     "用途": "释放地裂类法术三次",
-    "品阶": "下阶"
+    "品阶": "丹宝（结丹期所制）"
   },
   "observations": {
     "类型": [
@@ -31,6 +34,11 @@
         "value": "下阶",
         "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
         "seq": 31
+      },
+      {
+        "value": "丹宝（结丹期所制）",
+        "docId": "plot.xianni-ch61-66-strange-sword-baizhan",
+        "seq": 61
       }
     ]
   },
@@ -50,15 +58,16 @@
     },
     "品阶": {
       "asOf": null,
-      "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
+      "docId": "plot.xianni-ch61-66-strange-sword-baizhan",
       "dated": false,
-      "seq": 31
+      "seq": 61
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch31-36-xueshui-jiaoyi"
+    "plot.xianni-ch31-36-xueshui-jiaoyi",
+    "plot.xianni-ch61-66-strange-sword-baizhan"
   ],
-  "updatedAt": "2026-06-22T12:00:36.605Z"
+  "updatedAt": "2026-06-22T13:06:00.176Z"
 }
