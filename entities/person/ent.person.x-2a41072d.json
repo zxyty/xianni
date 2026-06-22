@@ -4,12 +4,14 @@
   "name": "张姓青年",
   "aliases": [
     "张师弟",
-    "白衣青年"
+    "白衣青年",
+    "张姓弟子"
   ],
   "summary": "接送王家三少年往返恒岳派的白衣修士。",
   "attributes": {
     "性别": "男",
-    "身份": "恒岳派弟子"
+    "身份": "恒岳派弟子",
+    "阵营": "恒岳派"
   },
   "observations": {
     "性别": [
@@ -24,6 +26,13 @@
         "value": "恒岳派弟子",
         "docId": "plot.xianni-c01-06-wanglin-lixiang-celue-shibai",
         "seq": 1
+      }
+    ],
+    "阵营": [
+      {
+        "value": "恒岳派",
+        "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
+        "seq": 7
       }
     ]
   },
@@ -40,12 +49,19 @@
       "docId": "plot.xianni-c01-06-wanglin-lixiang-celue-shibai",
       "dated": false,
       "seq": 1
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
+      "dated": false,
+      "seq": 7
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-c01-06-wanglin-lixiang-celue-shibai"
+    "plot.xianni-c01-06-wanglin-lixiang-celue-shibai",
+    "plot.xianni-ch07-12-liushu-rumen-shizhu"
   ],
-  "updatedAt": "2026-06-22T11:14:43.544Z"
+  "updatedAt": "2026-06-22T11:17:41.847Z"
 }
