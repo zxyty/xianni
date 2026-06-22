@@ -1,82 +1,73 @@
 {
-  "id": "ent.person.x-3180602b",
-  "type": "person",
-  "name": "刘姓青年",
+  "id": "ent.place.x-41523db1",
+  "type": "place",
+  "name": "药园子",
   "aliases": [
-    "黄鼠狼",
-    "刘师兄",
-    "黄衣青年",
-    "刘姓弟子"
+    "药园"
   ],
-  "summary": "已获修炼资格的黄衣记名弟子，负责安排记名弟子杂务，刻薄刁难王林。",
+  "summary": "孙大柱居处所在的药园，门派内灵气最浓之地，种有蓝线草、紫夜花等珍贵灵草；孙大柱禁王林在此吐纳。",
   "attributes": {
-    "身份": "恒岳派记名弟子(杂务处负责)",
-    "性格": "市侩势利",
-    "外貌": "尖嘴猴腮黄鼠狼脸",
-    "阵营": "恒岳派"
+    "所属势力": "恒岳派",
+    "类型": "药园",
+    "特产": "蓝线草、紫夜花",
+    "守护": "孙大柱"
   },
   "observations": {
-    "身份": [
-      {
-        "value": "黄衣记名弟子",
-        "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
-        "seq": 7,
-        "note": "已获修炼仙法资格，管杂务"
-      },
-      {
-        "value": "恒岳派记名弟子(杂务处负责)",
-        "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
-        "seq": 13
-      }
-    ],
-    "性格": [
-      {
-        "value": "刻薄势利",
-        "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
-        "seq": 7
-      },
-      {
-        "value": "市侩势利",
-        "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
-        "seq": 13
-      }
-    ],
-    "外貌": [
-      {
-        "value": "尖嘴猴腮黄鼠狼脸",
-        "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
-        "seq": 13
-      }
-    ],
-    "阵营": [
+    "所属势力": [
       {
         "value": "恒岳派",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
       }
+    ],
+    "类型": [
+      {
+        "value": "药园",
+        "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+        "seq": 13
+      }
+    ],
+    "特产": [
+      {
+        "value": "蓝线草",
+        "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+        "seq": 13
+      },
+      {
+        "value": "紫夜花",
+        "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+        "seq": 13
+      }
+    ],
+    "守护": [
+      {
+        "value": "孙大柱",
+        "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+        "seq": 13
+      }
     ]
   },
-  "firstSeq": 7,
+  "firstSeq": 13,
   "attrProvenance": {
-    "身份": {
+    "所属势力": {
       "asOf": null,
       "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
       "dated": false,
       "seq": 13
     },
-    "性格": {
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
       "dated": false,
       "seq": 13
     },
-    "外貌": {
+    "特产": {
       "asOf": null,
       "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
       "dated": false,
       "seq": 13
     },
-    "阵营": {
+    "守护": {
       "asOf": null,
       "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
       "dated": false,
@@ -86,8 +77,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch07-12-liushu-rumen-shizhu",
     "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly"
   ],
-  "updatedAt": "2026-06-22T11:25:57.785Z"
+  "updatedAt": "2026-06-22T11:25:57.789Z"
 }

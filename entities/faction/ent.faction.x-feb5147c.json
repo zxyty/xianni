@@ -7,10 +7,10 @@
   ],
   "summary": "赵国修真门派，500年前曾统领赵国修真界、有数位元婴期老怪，今已衰落。",
   "attributes": {
-    "等级": "已衰落的修真门派",
+    "等级": "已衰落的修真门派、记名/内门/二代/三代弟子体系、修仙门派",
     "所属界面": "赵国",
     "据点": "恒岳派山峰",
-    "理念": "强者为尊、需收凡人弟子"
+    "理念": "强者为尊、内门常比斗"
   },
   "observations": {
     "等级": [
@@ -18,6 +18,16 @@
         "value": "已衰落的修真门派",
         "docId": "plot.xianni-c01-06-wanglin-lixiang-celue-shibai",
         "seq": 1
+      },
+      {
+        "value": "记名/内门/二代/三代弟子体系",
+        "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+        "seq": 13
+      },
+      {
+        "value": "修仙门派",
+        "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+        "seq": 13
       }
     ],
     "所属界面": [
@@ -50,6 +60,11 @@
         "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
         "seq": 7,
         "note": "已没落"
+      },
+      {
+        "value": "强者为尊、内门常比斗",
+        "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+        "seq": 13
       }
     ]
   },
@@ -75,17 +90,17 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
+      "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
       "dated": false,
-      "seq": 7,
-      "note": "已没落"
+      "seq": 13
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-c01-06-wanglin-lixiang-celue-shibai",
-    "plot.xianni-ch07-12-liushu-rumen-shizhu"
+    "plot.xianni-ch07-12-liushu-rumen-shizhu",
+    "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly"
   ],
-  "updatedAt": "2026-06-22T11:17:41.850Z"
+  "updatedAt": "2026-06-22T11:25:57.788Z"
 }

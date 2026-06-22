@@ -4,14 +4,17 @@
   "name": "石珠",
   "aliases": [
     "五朵白云石珠",
-    "灰色石珠"
+    "灰色石珠",
+    "六朵云石珠",
+    "七朵云石珠",
+    "神秘珠子"
   ],
   "summary": "灰色刻五朵白云的神秘珠子，夜晚清晨表面凝出可疗伤强身的露水，并会自行吸收露水，疑致草木枯萎；王林视为命根隐藏。",
   "attributes": {
     "持有者": "王林",
-    "能力": "所生露水疗伤消肿、强身增力、吸收露水/水汽",
-    "外形": "婴儿拳头大灰色石珠，刻五朵白云",
-    "来历": "藏于被风眼撞死的飞鸟尸内"
+    "能力": "所生露水疗伤消肿、强身增力、吸收露水/水汽、吸收水分/雨露/泉水/人体水汽、浸泡之水露具滋养之效、浸泡凡水化为灵气充沛之水、可助炼丹",
+    "外形": "婴儿拳头大灰色石珠，刻五朵白云、刻白云图案的灰色石珠(云朵数递增)、灰色石珠",
+    "来历": "藏于被风眼撞死的飞鸟尸内、王林所得神秘宝物、王林遍寻大半山峰所得"
   },
   "observations": {
     "持有者": [
@@ -36,6 +39,21 @@
         "value": "吸收露水/水汽",
         "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
         "seq": 7
+      },
+      {
+        "value": "吸收水分/雨露/泉水/人体水汽",
+        "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+        "seq": 13
+      },
+      {
+        "value": "浸泡之水露具滋养之效",
+        "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+        "seq": 13
+      },
+      {
+        "value": "浸泡凡水化为灵气充沛之水、可助炼丹",
+        "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+        "seq": 13
       }
     ],
     "外形": [
@@ -43,6 +61,16 @@
         "value": "婴儿拳头大灰色石珠，刻五朵白云",
         "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
         "seq": 7
+      },
+      {
+        "value": "刻白云图案的灰色石珠(云朵数递增)",
+        "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+        "seq": 13
+      },
+      {
+        "value": "灰色石珠",
+        "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+        "seq": 13
       }
     ],
     "来历": [
@@ -50,6 +78,16 @@
         "value": "藏于被风眼撞死的飞鸟尸内",
         "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
         "seq": 7
+      },
+      {
+        "value": "王林所得神秘宝物",
+        "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+        "seq": 13
+      },
+      {
+        "value": "王林遍寻大半山峰所得",
+        "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+        "seq": 13
       }
     ]
   },
@@ -83,7 +121,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch07-12-liushu-rumen-shizhu"
+    "plot.xianni-ch07-12-liushu-rumen-shizhu",
+    "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly"
   ],
-  "updatedAt": "2026-06-22T11:17:41.852Z"
+  "updatedAt": "2026-06-22T11:25:57.791Z"
 }

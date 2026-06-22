@@ -1,20 +1,15 @@
 {
-  "id": "ent.material.x-a35e8604",
+  "id": "ent.material.x-965895b7",
   "type": "material",
-  "name": "蓝线草",
+  "name": "紫夜花",
   "aliases": [],
-  "summary": "孙长老药园中的草药，王林携石珠离去后无故枯萎，暗示与石珠吸收特性相关。",
+  "summary": "孙长老药园灵草，随蓝线草一同不同程度枯萎。",
   "attributes": {
     "类型": "灵草",
-    "产地": "恒岳派正院药园、孙长老药园、药园子"
+    "产地": "孙长老药园、药园子"
   },
   "observations": {
     "类型": [
-      {
-        "value": "草药",
-        "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
-        "seq": 7
-      },
       {
         "value": "灵草",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
@@ -22,11 +17,6 @@
       }
     ],
     "产地": [
-      {
-        "value": "恒岳派正院药园",
-        "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
-        "seq": 7
-      },
       {
         "value": "孙长老药园",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
@@ -39,7 +29,7 @@
       }
     ]
   },
-  "firstSeq": 7,
+  "firstSeq": 13,
   "attrProvenance": {
     "类型": {
       "asOf": null,
@@ -49,15 +39,14 @@
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
+      "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
       "dated": false,
-      "seq": 7
+      "seq": 13
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch07-12-liushu-rumen-shizhu",
     "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly"
   ],
   "updatedAt": "2026-06-22T11:25:57.794Z"

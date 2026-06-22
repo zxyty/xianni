@@ -2,11 +2,15 @@
   "id": "ent.person.x-65cfdc91",
   "type": "person",
   "name": "张虎",
-  "aliases": [],
+  "aliases": [
+    "张师兄"
+  ],
   "summary": "恒岳派记名弟子，砍柴杂务已三年，与王林同屋结交。",
   "attributes": {
-    "身份": "恒岳派记名弟子（砍柴）",
-    "性格": "直爽"
+    "身份": "恒岳派记名弟子",
+    "性格": "直爽",
+    "标志特征": "嗜睡",
+    "阵营": "恒岳派记名弟子"
   },
   "observations": {
     "身份": [
@@ -14,6 +18,11 @@
         "value": "恒岳派记名弟子（砍柴）",
         "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
         "seq": 7
+      },
+      {
+        "value": "恒岳派记名弟子",
+        "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+        "seq": 13
       }
     ],
     "性格": [
@@ -22,27 +31,54 @@
         "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
         "seq": 7
       }
+    ],
+    "标志特征": [
+      {
+        "value": "嗜睡",
+        "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+        "seq": 13
+      }
+    ],
+    "阵营": [
+      {
+        "value": "恒岳派记名弟子",
+        "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+        "seq": 13
+      }
     ]
   },
   "firstSeq": 7,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
+      "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
       "dated": false,
-      "seq": 7
+      "seq": 13
     },
     "性格": {
       "asOf": null,
       "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
       "dated": false,
       "seq": 7
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+      "dated": false,
+      "seq": 13
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+      "dated": false,
+      "seq": 13
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch07-12-liushu-rumen-shizhu"
+    "plot.xianni-ch07-12-liushu-rumen-shizhu",
+    "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly"
   ],
-  "updatedAt": "2026-06-22T11:17:41.845Z"
+  "updatedAt": "2026-06-22T11:25:57.786Z"
 }
