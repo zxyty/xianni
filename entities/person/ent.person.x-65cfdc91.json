@@ -7,10 +7,11 @@
   ],
   "summary": "恒岳派记名弟子，砍柴杂务已三年，与王林同屋结交。",
   "attributes": {
-    "身份": "恒岳派记名弟子",
-    "性格": "隐忍狠绝",
+    "身份": "恒岳派记名弟子（砍柴）、恒岳派记名弟子、恒岳派弟子、恒岳派后山管事师兄",
+    "性格": "严厉、护短秉公",
     "标志特征": "嗜睡",
-    "阵营": "恒岳派记名弟子"
+    "阵营": "恒岳派记名弟子",
+    "称号": "内门大比第一"
   },
   "observations": {
     "身份": [
@@ -23,6 +24,16 @@
         "value": "恒岳派记名弟子",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
+      },
+      {
+        "value": "恒岳派弟子",
+        "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
+        "seq": 31
+      },
+      {
+        "value": "恒岳派后山管事师兄",
+        "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
+        "seq": 31
       }
     ],
     "性格": [
@@ -35,6 +46,11 @@
         "value": "隐忍狠绝",
         "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
         "seq": 25
+      },
+      {
+        "value": "严厉、护短秉公",
+        "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
+        "seq": 31
       }
     ],
     "标志特征": [
@@ -50,21 +66,29 @@
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
       }
+    ],
+    "称号": [
+      {
+        "value": "内门大比第一",
+        "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
+        "seq": 31,
+        "note": "因无紫衣弟子参加"
+      }
     ]
   },
   "firstSeq": 7,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+      "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
       "dated": false,
-      "seq": 13
+      "seq": 7
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+      "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
       "dated": false,
-      "seq": 25
+      "seq": 31
     },
     "标志特征": {
       "asOf": null,
@@ -77,6 +101,13 @@
       "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
       "dated": false,
       "seq": 13
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
+      "dated": false,
+      "seq": 31,
+      "note": "因无紫衣弟子参加"
     }
   },
   "contested": false,
@@ -84,7 +115,8 @@
   "docs": [
     "plot.xianni-ch07-12-liushu-rumen-shizhu",
     "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
-    "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu"
+    "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+    "plot.xianni-ch31-36-xueshui-jiaoyi"
   ],
-  "updatedAt": "2026-06-22T11:42:21.242Z"
+  "updatedAt": "2026-06-22T12:00:36.625Z"
 }

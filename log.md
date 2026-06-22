@@ -7,3 +7,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-22T11:25:57.798Z** `ingest` plot.xianni-ch13-18-elder-investigation-and-bead-anomaly — 仙逆 第13-18章：孙长老查探、王林归家祝寿与石珠夜吸雨水异变 · kind=plot asOf=2026-06-22 entities=24 relations=34 src=00013-00018.md
 - **2026-06-22T11:33:50.339Z** `ingest` plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling — 仙逆 第19-24章 逐门·九云·夺灵·散功 剧情梳理 · kind=plot asOf=2026-06-22 entities=26 relations=37 src=00019-00024.md
 - **2026-06-22T11:42:21.272Z** `ingest` plot.xianni-ch25-30-ningqi-first-layer-and-xianfu — 《仙逆》第25-30章 王林踏入凝气第一层、张虎弑刘师兄与神秘仙符 · kind=plot asOf=2026-06-22 entities=25 relations=39 src=00025-00030.md
+- **2026-06-22T12:00:36.636Z** `ingest` plot.xianni-ch31-36-xueshui-jiaoyi — 仙逆 第31-36章：雪水与内门交易会前夜 · kind=plot asOf=2026-06-22 entities=40 relations=64 src=00031-00036.md
