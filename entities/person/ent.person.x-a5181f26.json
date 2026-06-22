@@ -10,7 +10,8 @@
   "attributes": {
     "性别": "男",
     "种族": "凡人",
-    "性格": "势利、轻视王天水一支"
+    "性格": "势利、轻视王天水一支",
+    "身份": "王氏家族长辈"
   },
   "observations": {
     "性别": [
@@ -33,6 +34,13 @@
         "docId": "plot.xianni-c01-06-wanglin-lixiang-celue-shibai",
         "seq": 1
       }
+    ],
+    "身份": [
+      {
+        "value": "王氏家族长辈",
+        "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
+        "seq": 7
+      }
     ]
   },
   "firstSeq": 1,
@@ -54,12 +62,19 @@
       "docId": "plot.xianni-c01-06-wanglin-lixiang-celue-shibai",
       "dated": false,
       "seq": 1
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
+      "dated": false,
+      "seq": 7
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-c01-06-wanglin-lixiang-celue-shibai"
+    "plot.xianni-c01-06-wanglin-lixiang-celue-shibai",
+    "plot.xianni-ch07-12-liushu-rumen-shizhu"
   ],
-  "updatedAt": "2026-06-22T11:14:43.539Z"
+  "updatedAt": "2026-06-22T11:17:41.841Z"
 }
