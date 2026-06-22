@@ -1,0 +1,5 @@
+# knowledge 活动日志 (activity log)
+
+Append-only; newest at the bottom. One line per pipeline action. Rotated to `log-<timestamp>.md` once it grows past ~1 MiB.
+
+- **2026-06-22T11:14:43.555Z** `ingest` plot.xianni-c01-06-wanglin-lixiang-celue-shibai — 《仙逆》第1-6章：王林离乡赴恒岳派收徒测试，三试俱败黯然回乡 · kind=plot asOf=2026-06-22 entities=16 relations=25 src=00001-00006.md
