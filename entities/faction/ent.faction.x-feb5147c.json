@@ -7,10 +7,11 @@
   ],
   "summary": "赵国修真门派，500年前曾统领赵国修真界、有数位元婴期老怪，今已衰落。",
   "attributes": {
-    "等级": "已衰落的修真门派、记名/内门/二代/三代弟子体系、修仙门派、凝气—结丹层级门派",
+    "等级": "已衰落的修真门派、记名/内门/二代/三代弟子体系、修仙门派、凝气—结丹层级门派、赵国大派(现没落)",
     "所属界面": "赵国",
     "据点": "恒岳派山门、恒岳派山峰、正院、五个副院、后山、丹房",
-    "理念": "强者为尊、内门常比斗"
+    "理念": "紫黑白红四色衣分实力等级",
+    "镇派之宝": "(大量修仙法门，藏经阁)"
   },
   "observations": {
     "等级": [
@@ -33,6 +34,11 @@
         "value": "凝气—结丹层级门派",
         "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
         "seq": 19
+      },
+      {
+        "value": "赵国大派(现没落)",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
       }
     ],
     "所属界面": [
@@ -90,6 +96,18 @@
         "value": "强者为尊、内门常比斗",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
+      },
+      {
+        "value": "紫黑白红四色衣分实力等级",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "(大量修仙法门，藏经阁)",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
       }
     ]
   },
@@ -115,9 +133,15 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+      "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
       "dated": false,
-      "seq": 13
+      "seq": 25
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+      "dated": false,
+      "seq": 25
     }
   },
   "contested": false,
@@ -126,7 +150,8 @@
     "plot.xianni-c01-06-wanglin-lixiang-celue-shibai",
     "plot.xianni-ch07-12-liushu-rumen-shizhu",
     "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
-    "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling"
+    "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+    "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu"
   ],
-  "updatedAt": "2026-06-22T11:33:50.316Z"
+  "updatedAt": "2026-06-22T11:42:21.261Z"
 }

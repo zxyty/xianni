@@ -6,19 +6,23 @@
     "铁柱",
     "Wang Lin",
     "王师弟",
-    "王林师弟"
+    "王林师弟",
+    "黑心王"
   ],
   "summary": "本书主角，凡人木匠家庭出身的聪慧少年，赴恒岳派收徒测试三项俱败。",
   "attributes": {
     "性别": "男",
     "种族": "凡人",
-    "身份": "恒岳派内门弟子",
+    "身份": "凡人少年/王氏家族子弟、恒岳派记名弟子、恒岳派内门弟子、恒岳派弟子、内门弟子、杂务处管事",
     "寿元": "15岁(过年16)",
     "出身地": "王家村",
-    "性格": "聪慧好读、心念坚毅、隐忍、隐忍记仇、坚毅、冷硬隐忍、隐忍、腹黑、冷硬、冷硬隐忍、外诺内冷、谨慎、执着、绝不轻易放弃",
-    "标志特征": "暗藏五朵白云石珠、佯傻装愚、内心冷笑、暗藏石珠与三葫芦露水、习惯一长三短特殊呼吸法",
+    "性格": "聪慧好读、心念坚毅、隐忍、隐忍记仇、坚毅、冷硬隐忍、隐忍、腹黑、冷硬、冷硬隐忍、外诺内冷、谨慎、执着、绝不轻易放弃、心念极坚、谨慎警惕",
+    "标志特征": "暗藏五朵白云石珠、佯傻装愚、内心冷笑、暗藏石珠与三葫芦露水、习惯一长三短特殊呼吸法、突破时毛孔排出黑色油脂",
     "阵营": "王氏家族",
-    "小阶段": "尚未凝气（向凝气期第一层逼近）"
+    "小阶段": "凝气期初修、尚未凝气（向凝气期第一层逼近）、凝气期第一层、凝气期第二层",
+    "存殁": "在世",
+    "称号": "黑心王",
+    "神识": "凝气第二层始有神识本能"
   },
   "observations": {
     "性别": [
@@ -53,6 +57,21 @@
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13,
         "note": "第17章起，原为记名弟子"
+      },
+      {
+        "value": "恒岳派弟子",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
+      },
+      {
+        "value": "内门弟子",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
+      },
+      {
+        "value": "杂务处管事",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
       }
     ],
     "寿元": [
@@ -109,6 +128,11 @@
         "value": "谨慎、执着、绝不轻易放弃",
         "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
         "seq": 19
+      },
+      {
+        "value": "心念极坚、谨慎警惕",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
       }
     ],
     "标志特征": [
@@ -131,6 +155,11 @@
         "value": "习惯一长三短特殊呼吸法",
         "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
         "seq": 19
+      },
+      {
+        "value": "突破时毛孔排出黑色油脂",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
       }
     ],
     "阵营": [
@@ -157,6 +186,37 @@
         "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
         "seq": 19,
         "note": "第24章；散功去化灵草后重修"
+      },
+      {
+        "value": "凝气期第一层",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
+      },
+      {
+        "value": "凝气期第二层",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
+      }
+    ],
+    "存殁": [
+      {
+        "value": "在世",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
+      }
+    ],
+    "称号": [
+      {
+        "value": "黑心王",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
+      }
+    ],
+    "神识": [
+      {
+        "value": "凝气第二层始有神识本能",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
       }
     ]
   },
@@ -176,10 +236,10 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+      "docId": "plot.xianni-c01-06-wanglin-lixiang-celue-shibai",
       "dated": false,
-      "seq": 13,
-      "note": "第17章起，原为记名弟子"
+      "seq": 1,
+      "note": "测试落选未入门"
     },
     "寿元": {
       "asOf": null,
@@ -213,10 +273,28 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+      "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
       "dated": false,
-      "seq": 19,
-      "note": "第24章；散功去化灵草后重修"
+      "seq": 13,
+      "note": "天资泛泛，初学久无灵气入体之感"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+      "dated": false,
+      "seq": 25
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+      "dated": false,
+      "seq": 25
+    },
+    "神识": {
+      "asOf": null,
+      "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+      "dated": false,
+      "seq": 25
     }
   },
   "contested": false,
@@ -225,7 +303,8 @@
     "plot.xianni-c01-06-wanglin-lixiang-celue-shibai",
     "plot.xianni-ch07-12-liushu-rumen-shizhu",
     "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
-    "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling"
+    "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+    "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu"
   ],
-  "updatedAt": "2026-06-22T11:33:50.330Z"
+  "updatedAt": "2026-06-22T11:42:21.257Z"
 }

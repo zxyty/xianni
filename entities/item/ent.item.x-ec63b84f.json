@@ -4,12 +4,15 @@
   "name": "千里符",
   "aliases": [
     "仙符",
-    "探亲仙符"
+    "探亲仙符",
+    "神秘仙符",
+    "黄纸仙符",
+    "探亲符"
   ],
   "summary": "恒岳派发给探亲记名弟子的劣质仙符，贴腿可增速，可用两次，用于在凡间展示仙术吸引收徒。",
   "attributes": {
-    "类型": "符箓",
-    "用途": "探亲赶路(贴腿生白光极速行走、驱避野兽)",
+    "类型": "探亲仙符",
+    "用途": "贴腿增速、展示仙术、探亲赶路(贴腿生白光极速行走、驱避野兽)、记名弟子探亲(普通版)；特殊版灵气极盛、来历不明、探亲传送",
     "品阶": "劣质"
   },
   "observations": {
@@ -18,6 +21,11 @@
         "value": "符箓",
         "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
         "seq": 7
+      },
+      {
+        "value": "探亲仙符",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
       }
     ],
     "用途": [
@@ -30,6 +38,16 @@
         "value": "探亲赶路(贴腿生白光极速行走、驱避野兽)",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
+      },
+      {
+        "value": "记名弟子探亲(普通版)；特殊版灵气极盛、来历不明",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
+      },
+      {
+        "value": "探亲传送",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
       }
     ],
     "品阶": [
@@ -44,15 +62,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
+      "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
       "dated": false,
-      "seq": 7
+      "seq": 25
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+      "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
       "dated": false,
-      "seq": 13
+      "seq": 7
     },
     "品阶": {
       "asOf": null,
@@ -65,7 +83,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch07-12-liushu-rumen-shizhu",
-    "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly"
+    "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+    "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu"
   ],
-  "updatedAt": "2026-06-22T11:25:57.777Z"
+  "updatedAt": "2026-06-22T11:42:21.267Z"
 }
