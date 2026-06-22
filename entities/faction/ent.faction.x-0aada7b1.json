@@ -1,22 +1,22 @@
 {
-  "id": "ent.faction.x-f9009e76",
+  "id": "ent.faction.x-0aada7b1",
   "type": "faction",
-  "name": "飘渺宗",
+  "name": "魔道四宗",
   "aliases": [],
-  "summary": "赵国修真界门派，太上长老无为真人为结丹期高手；传闻其掌门女弟子被无锋谷弟子勾引。",
+  "summary": "魔道四大宗派统称：天道门、合欢宗、无锋谷、尸阴宗。",
   "attributes": {
-    "阵营": "正派"
+    "阵营": "魔道"
   },
   "observations": {
     "阵营": [
       {
-        "value": "正派",
+        "value": "魔道",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
       }
     ]
   },
-  "firstSeq": 37,
+  "firstSeq": 80,
   "attrProvenance": {
     "阵营": {
       "asOf": null,
@@ -28,8 +28,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch37-42-sinian-guangban",
     "plot.xianni-ch80-84-wanglin-enters-shiyinzong"
   ],
-  "updatedAt": "2026-06-22T14:15:16.977Z"
+  "updatedAt": "2026-06-22T14:15:16.948Z"
 }

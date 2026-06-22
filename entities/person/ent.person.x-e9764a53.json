@@ -1,24 +1,26 @@
 {
-  "id": "ent.faction.x-f9009e76",
-  "type": "faction",
-  "name": "飘渺宗",
-  "aliases": [],
-  "summary": "赵国修真界门派，太上长老无为真人为结丹期高手；传闻其掌门女弟子被无锋谷弟子勾引。",
+  "id": "ent.person.x-e9764a53",
+  "type": "person",
+  "name": "紫大人",
+  "aliases": [
+    "紫"
+  ],
+  "summary": "五级宗国来的神识体，正吞噬吴宇夺舍其肉身。",
   "attributes": {
-    "阵营": "正派"
+    "身份": "神识体(夺舍者)"
   },
   "observations": {
-    "阵营": [
+    "身份": [
       {
-        "value": "正派",
+        "value": "神识体(夺舍者)",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
       }
     ]
   },
-  "firstSeq": 37,
+  "firstSeq": 80,
   "attrProvenance": {
-    "阵营": {
+    "身份": {
       "asOf": null,
       "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
       "dated": false,
@@ -28,8 +30,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch37-42-sinian-guangban",
     "plot.xianni-ch80-84-wanglin-enters-shiyinzong"
   ],
-  "updatedAt": "2026-06-22T14:15:16.977Z"
+  "updatedAt": "2026-06-22T14:15:16.945Z"
 }

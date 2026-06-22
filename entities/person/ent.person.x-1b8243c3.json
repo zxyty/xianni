@@ -1,32 +1,32 @@
 {
-  "id": "ent.faction.x-417ec30d",
-  "type": "faction",
-  "name": "合欢宗",
+  "id": "ent.person.x-1b8243c3",
+  "type": "person",
+  "name": "林奕",
   "aliases": [
-    "合huan宗"
+    "三级修真国监察使林奕"
   ],
-  "summary": "李山口中可凭信物前往双修的门派；其兜售一枚合欢宗信物。",
+  "summary": "赵国所在三级修真国监察使，恭迎联盟使者并宣布域外战场令牌任务与大战规矩。",
   "attributes": {
-    "理念": "双修",
-    "阵营": "魔道",
-    "所属界面": "赵国"
+    "身份": "三级修真国监察使",
+    "称号": "胖使者",
+    "阵营": "赵国"
   },
   "observations": {
-    "理念": [
+    "身份": [
       {
-        "value": "双修",
-        "docId": "plot.xianni-ch43-48-lishan-pilidan-shenshi",
-        "seq": 43
-      }
-    ],
-    "阵营": [
-      {
-        "value": "魔道",
+        "value": "三级修真国监察使",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
       }
     ],
-    "所属界面": [
+    "称号": [
+      {
+        "value": "胖使者",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80
+      }
+    ],
+    "阵营": [
       {
         "value": "赵国",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
@@ -34,21 +34,21 @@
       }
     ]
   },
-  "firstSeq": 43,
+  "firstSeq": 80,
   "attrProvenance": {
-    "理念": {
-      "asOf": null,
-      "docId": "plot.xianni-ch43-48-lishan-pilidan-shenshi",
-      "dated": false,
-      "seq": 43
-    },
-    "阵营": {
+    "身份": {
       "asOf": null,
       "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
       "dated": false,
       "seq": 80
     },
-    "所属界面": {
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "dated": false,
+      "seq": 80
+    },
+    "阵营": {
       "asOf": null,
       "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
       "dated": false,
@@ -58,8 +58,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch43-48-lishan-pilidan-shenshi",
     "plot.xianni-ch80-84-wanglin-enters-shiyinzong"
   ],
-  "updatedAt": "2026-06-22T14:15:16.962Z"
+  "updatedAt": "2026-06-22T14:15:16.972Z"
 }

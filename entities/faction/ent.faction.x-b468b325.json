@@ -3,14 +3,17 @@
   "type": "faction",
   "name": "尸阴宗",
   "aliases": [
-    "Shiyin Sect"
+    "Shiyin Sect",
+    "Shi Yin Sect"
   ],
   "summary": "本章标题所指势力（尸阴宗），疑与蓝皮肤怪人及废墟相关。",
   "attributes": {
-    "理念": "入门弟子须寻尸体祭炼成自身尸傀，尸傀随修为增长而变强，功法牵引下终生不叛、祭炼尸傀、神秘低调",
+    "理念": "入门弟子须寻尸体祭炼成自身尸傀，尸傀随修为增长而变强，功法牵引下终生不叛、祭炼尸傀、神秘低调、圈养弟子为炉鼎、提供夺舍肉身、神识体夺舍延续",
     "阵营": "魔道",
     "所属界面": "赵国",
-    "据点": "赵国极西平原中心地底溶洞群"
+    "据点": "赵国极西平原中心地底溶洞群、地底洞府、赵国地洞、溶洞群（含数十溶洞，分层）",
+    "镇派之宝": "蓝炎魔火、尸傀",
+    "掌门": "夜自在"
   },
   "observations": {
     "理念": [
@@ -23,6 +26,16 @@
         "value": "祭炼尸傀、神秘低调",
         "docId": "plot.xianni-ch091-jiyin-lingli",
         "seq": 76
+      },
+      {
+        "value": "圈养弟子为炉鼎、提供夺舍肉身",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80
+      },
+      {
+        "value": "神识体夺舍延续",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80
       }
     ],
     "阵营": [
@@ -44,6 +57,41 @@
         "value": "赵国极西平原中心地底溶洞群",
         "docId": "plot.xianni-ch091-jiyin-lingli",
         "seq": 76
+      },
+      {
+        "value": "地底洞府",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80
+      },
+      {
+        "value": "赵国地洞",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80
+      },
+      {
+        "value": "溶洞群（含数十溶洞，分层）",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "蓝炎魔火",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80
+      },
+      {
+        "value": "尸傀",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80
+      }
+    ],
+    "掌门": [
+      {
+        "value": "夜自在",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80,
+        "note": "赵国分支始祖"
       }
     ]
   },
@@ -72,12 +120,26 @@
       "docId": "plot.xianni-ch091-jiyin-lingli",
       "dated": false,
       "seq": 76
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "dated": false,
+      "seq": 80
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "dated": false,
+      "seq": 80,
+      "note": "赵国分支始祖"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch091-jiyin-lingli"
+    "plot.xianni-ch091-jiyin-lingli",
+    "plot.xianni-ch80-84-wanglin-enters-shiyinzong"
   ],
-  "updatedAt": "2026-06-22T13:56:11.125Z"
+  "updatedAt": "2026-06-22T14:15:16.990Z"
 }

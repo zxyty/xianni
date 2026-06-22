@@ -7,7 +7,9 @@
   ],
   "summary": "凡俗国度，恒岳派为其为数不多的修真门派之一。",
   "attributes": {
-    "类型": "修真国"
+    "类型": "三级修真国",
+    "规模": "一二级修真国",
+    "守护": "联盟盟约约束"
   },
   "observations": {
     "类型": [
@@ -30,6 +32,25 @@
         "value": "修真国",
         "docId": "plot.xianni-ch091-jiyin-lingli",
         "seq": 76
+      },
+      {
+        "value": "三级修真国",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80
+      }
+    ],
+    "规模": [
+      {
+        "value": "一二级修真国",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80
+      }
+    ],
+    "守护": [
+      {
+        "value": "联盟盟约约束",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80
       }
     ]
   },
@@ -37,9 +58,21 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch091-jiyin-lingli",
+      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
       "dated": false,
-      "seq": 76
+      "seq": 80
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "dated": false,
+      "seq": 80
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "dated": false,
+      "seq": 80
     }
   },
   "contested": false,
@@ -50,7 +83,8 @@
     "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
     "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
     "plot.xianni-ch61-66-strange-sword-baizhan",
-    "plot.xianni-ch091-jiyin-lingli"
+    "plot.xianni-ch091-jiyin-lingli",
+    "plot.xianni-ch80-84-wanglin-enters-shiyinzong"
   ],
-  "updatedAt": "2026-06-22T13:56:11.128Z"
+  "updatedAt": "2026-06-22T14:15:16.981Z"
 }

@@ -4,14 +4,16 @@
   "name": "吴宇",
   "aliases": [
     "童子状小人",
-    "尸阴宗始祖"
+    "尸阴宗始祖",
+    "吴宇始祖",
+    "吴宇师叔"
   ],
   "summary": "尸阴宗始祖之一，被自己尸傀叛变重伤，元婴出体藏于雕像内残存。",
   "attributes": {
-    "身份": "尸阴宗始祖之一、尸阴宗修士",
+    "身份": "尸阴宗始祖之一、尸阴宗修士、尸阴宗始祖",
     "小阶段": "元婴出体／离体、元婴期",
     "外貌": "一尺来高童子状小人，黯淡无光",
-    "存殁": "存活、存（危困）",
+    "存殁": "存活、存（危困）、危殆",
     "称号": "老夫",
     "标志特征": "仅余元婴之体、原肉身化尸傀追杀、与尸傀相距不可超百里"
   },
@@ -26,6 +28,11 @@
         "value": "尸阴宗修士",
         "docId": "plot.xianni-ch091-jiyin-lingli",
         "seq": 76
+      },
+      {
+        "value": "尸阴宗始祖",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80
       }
     ],
     "小阶段": [
@@ -60,6 +67,12 @@
         "docId": "plot.xianni-ch091-jiyin-lingli",
         "seq": 76,
         "note": "被尸傀追杀，钻入石人躲避"
+      },
+      {
+        "value": "危殆",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80,
+        "note": "尸傀叛变、被神识体紫大人吞噬中"
       }
     ],
     "称号": [
@@ -131,7 +144,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch091-jiyin-lingli"
+    "plot.xianni-ch091-jiyin-lingli",
+    "plot.xianni-ch80-84-wanglin-enters-shiyinzong"
   ],
-  "updatedAt": "2026-06-22T13:56:11.119Z"
+  "updatedAt": "2026-06-22T14:15:16.944Z"
 }

@@ -8,9 +8,10 @@
   "summary": "修仙第五层次，已知最高层次。",
   "attributes": {
     "阶序": "第五层次",
-    "上一境": "元婴",
+    "上一境": "元婴期",
     "下一境": "婴变期",
-    "突破关键": "与天地融合形成循环，非走极端"
+    "突破关键": "与天地融合形成循环，非走极端",
+    "寿元": "千年"
   },
   "observations": {
     "阶序": [
@@ -25,6 +26,11 @@
         "value": "元婴",
         "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
         "seq": 19
+      },
+      {
+        "value": "元婴期",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80
       }
     ],
     "下一境": [
@@ -40,6 +46,13 @@
         "docId": "plot.xianni-ch091-jiyin-lingli",
         "seq": 76
       }
+    ],
+    "寿元": [
+      {
+        "value": "千年",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80
+      }
     ]
   },
   "firstSeq": 19,
@@ -52,9 +65,9 @@
     },
     "上一境": {
       "asOf": null,
-      "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
       "dated": false,
-      "seq": 19
+      "seq": 80
     },
     "下一境": {
       "asOf": null,
@@ -67,6 +80,12 @@
       "docId": "plot.xianni-ch091-jiyin-lingli",
       "dated": false,
       "seq": 76
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "dated": false,
+      "seq": 80
     }
   },
   "contested": false,
@@ -74,7 +93,8 @@
   "docs": [
     "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
     "plot.xianni-ch43-48-lishan-pilidan-shenshi",
-    "plot.xianni-ch091-jiyin-lingli"
+    "plot.xianni-ch091-jiyin-lingli",
+    "plot.xianni-ch80-84-wanglin-enters-shiyinzong"
   ],
-  "updatedAt": "2026-06-22T13:56:11.108Z"
+  "updatedAt": "2026-06-22T14:15:16.969Z"
 }
