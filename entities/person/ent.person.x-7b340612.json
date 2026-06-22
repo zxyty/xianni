@@ -2,12 +2,16 @@
   "id": "ent.person.x-7b340612",
   "type": "person",
   "name": "阿呆",
-  "aliases": [],
+  "aliases": [
+    "怪人阿呆"
+  ],
   "summary": "守护吴宇的怪人随从，引王林至雕像；危急时撕九张黄纸爆发携王林遁入雕像内。",
   "attributes": {
     "标志特征": "身负九张黄纸，无风自动，可全部撕下爆发、体内有毁天灭地之力、身负九张纸符、苏醒后对吴宇相依为命",
     "性格": "忠于吴宇、对外人警惕",
-    "外貌": "怪人，不能言语（哇啦哇啦作声）"
+    "外貌": "怪人，不能言语（哇啦哇啦作声）",
+    "阵营": "尸阴宗",
+    "身份": "记名弟子"
   },
   "observations": {
     "标志特征": [
@@ -45,6 +49,20 @@
         "docId": "plot.xianni-ch091-jiyin-lingli",
         "seq": 76
       }
+    ],
+    "阵营": [
+      {
+        "value": "尸阴宗",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80
+      }
+    ],
+    "身份": [
+      {
+        "value": "记名弟子",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80
+      }
     ]
   },
   "firstSeq": 76,
@@ -66,12 +84,25 @@
       "docId": "plot.xianni-ch091-jiyin-lingli",
       "dated": false,
       "seq": 76
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "dated": false,
+      "seq": 80
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "dated": false,
+      "seq": 80
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch091-jiyin-lingli"
+    "plot.xianni-ch091-jiyin-lingli",
+    "plot.xianni-ch80-84-wanglin-enters-shiyinzong"
   ],
-  "updatedAt": "2026-06-22T13:56:11.120Z"
+  "updatedAt": "2026-06-22T14:15:16.955Z"
 }

@@ -7,12 +7,14 @@
   ],
   "summary": "玄道宗始祖，欧阳老者预告其次日将临恒岳派，未现身。",
   "attributes": {
-    "阵营": "玄道宗",
+    "阵营": "赵国正派",
     "身份": "玄道宗始祖",
-    "小阶段": "元婴期",
-    "外貌": "面宽耳大、颇具威严",
+    "小阶段": "元婴中期顶峰",
+    "外貌": "灰布褂子",
     "性格": "傲慢冷硬",
-    "本命法宝": "紫岳仙剑"
+    "本命法宝": "紫岳仙剑",
+    "称号": "赵国修真界第一人",
+    "寿元": "500年前结婴"
   },
   "observations": {
     "阵营": [
@@ -20,6 +22,11 @@
         "value": "玄道宗",
         "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
         "seq": 49
+      },
+      {
+        "value": "赵国正派",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80
       }
     ],
     "身份": [
@@ -33,7 +40,13 @@
       {
         "value": "元婴期",
         "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
-        "seq": 49
+        "seq": 49,
+        "note": "本章"
+      },
+      {
+        "value": "元婴中期顶峰",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80
       }
     ],
     "外貌": [
@@ -41,6 +54,11 @@
         "value": "面宽耳大、颇具威严",
         "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
         "seq": 49
+      },
+      {
+        "value": "灰布褂子",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80
       }
     ],
     "性格": [
@@ -56,15 +74,29 @@
         "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
         "seq": 55
       }
+    ],
+    "称号": [
+      {
+        "value": "赵国修真界第一人",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80
+      }
+    ],
+    "寿元": [
+      {
+        "value": "500年前结婴",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80
+      }
     ]
   },
   "firstSeq": 49,
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
       "dated": false,
-      "seq": 49
+      "seq": 80
     },
     "身份": {
       "asOf": null,
@@ -74,15 +106,15 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
       "dated": false,
-      "seq": 49
+      "seq": 80
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
       "dated": false,
-      "seq": 49
+      "seq": 80
     },
     "性格": {
       "asOf": null,
@@ -95,13 +127,26 @@
       "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
       "dated": false,
       "seq": 55
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "dated": false,
+      "seq": 80
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "dated": false,
+      "seq": 80
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
-    "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion"
+    "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
+    "plot.xianni-ch80-84-wanglin-enters-shiyinzong"
   ],
-  "updatedAt": "2026-06-22T12:57:09.153Z"
+  "updatedAt": "2026-06-22T14:15:16.974Z"
 }

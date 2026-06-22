@@ -9,11 +9,12 @@
   "summary": "张虎打算躲避即墨老人的城池。",
   "attributes": {
     "所属界面": "赵国",
-    "类型": "城池",
+    "类型": "交易城池",
     "方位": "赵国北方",
     "规模": "近似镇子",
     "守护": "始祖藤邢森",
-    "所属势力": "藤家"
+    "所属势力": "藤家",
+    "特产": "木属灵气材料（稀少昂贵）"
   },
   "observations": {
     "所属界面": [
@@ -33,6 +34,11 @@
         "value": "城池",
         "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
         "seq": 67
+      },
+      {
+        "value": "交易城池",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80
       }
     ],
     "方位": [
@@ -62,6 +68,13 @@
         "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
         "seq": 67
       }
+    ],
+    "特产": [
+      {
+        "value": "木属灵气材料（稀少昂贵）",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80
+      }
     ]
   },
   "firstSeq": 61,
@@ -74,9 +87,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
+      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
       "dated": false,
-      "seq": 67
+      "seq": 80
     },
     "方位": {
       "asOf": null,
@@ -101,13 +114,20 @@
       "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
       "dated": false,
       "seq": 67
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "dated": false,
+      "seq": 80
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch61-66-strange-sword-baizhan",
-    "plot.xianni-ch67-71-tengli-chase-lanxianteng"
+    "plot.xianni-ch67-71-tengli-chase-lanxianteng",
+    "plot.xianni-ch80-84-wanglin-enters-shiyinzong"
   ],
-  "updatedAt": "2026-06-22T13:25:25.117Z"
+  "updatedAt": "2026-06-22T14:15:16.994Z"
 }

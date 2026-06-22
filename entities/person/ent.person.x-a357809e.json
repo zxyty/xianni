@@ -3,11 +3,21 @@
   "type": "person",
   "name": "夜自在",
   "aliases": [
-    "吴宇师兄"
+    "吴宇师兄",
+    "夜始祖",
+    "夜前辈",
+    "夜自在始祖",
+    "吴宇师弟"
   ],
   "summary": "吴宇的师兄，尸阴宗修士；吴宇托王林前往尸阴宗寻其相救。",
   "attributes": {
-    "身份": "尸阴宗修士"
+    "身份": "尸阴宗修士、尸阴宗始祖、神识体",
+    "小阶段": "元婴期",
+    "外貌": "四十许岁英俊中年人",
+    "本命法宝": "蓝炎魔火",
+    "存殁": "存活、存",
+    "阵营": "尸阴宗",
+    "性格": "阴沉护短"
   },
   "observations": {
     "身份": [
@@ -15,6 +25,66 @@
         "value": "尸阴宗修士",
         "docId": "plot.xianni-ch091-jiyin-lingli",
         "seq": 76
+      },
+      {
+        "value": "尸阴宗始祖",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80,
+        "note": "实为外事弟子/炉鼎，正被罗刹吞噬"
+      },
+      {
+        "value": "神识体",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴期",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80
+      }
+    ],
+    "外貌": [
+      {
+        "value": "四十许岁英俊中年人",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80,
+        "note": "婴火凝成的投影相"
+      }
+    ],
+    "本命法宝": [
+      {
+        "value": "蓝炎魔火",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80,
+        "note": "神识正被尸傀罗刹缓慢吞噬"
+      },
+      {
+        "value": "存",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80
+      }
+    ],
+    "阵营": [
+      {
+        "value": "尸阴宗",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80
+      }
+    ],
+    "性格": [
+      {
+        "value": "阴沉护短",
+        "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+        "seq": 80
       }
     ]
   },
@@ -25,12 +95,51 @@
       "docId": "plot.xianni-ch091-jiyin-lingli",
       "dated": false,
       "seq": 76
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "dated": false,
+      "seq": 80
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "dated": false,
+      "seq": 80,
+      "note": "婴火凝成的投影相"
+    },
+    "本命法宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "dated": false,
+      "seq": 80
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "dated": false,
+      "seq": 80,
+      "note": "神识正被尸傀罗刹缓慢吞噬"
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "dated": false,
+      "seq": 80
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "dated": false,
+      "seq": 80
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch091-jiyin-lingli"
+    "plot.xianni-ch091-jiyin-lingli",
+    "plot.xianni-ch80-84-wanglin-enters-shiyinzong"
   ],
-  "updatedAt": "2026-06-22T13:56:11.121Z"
+  "updatedAt": "2026-06-22T14:15:16.991Z"
 }
