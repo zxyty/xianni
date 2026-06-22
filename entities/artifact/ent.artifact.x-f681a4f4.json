@@ -11,15 +11,18 @@
     "九朵云石珠",
     "十云石珠",
     "神秘石珠",
-    "天逆珠子"
+    "天逆珠子",
+    "天逆珠",
+    "天逆"
   ],
   "summary": "灰色刻五朵白云的神秘珠子，夜晚清晨表面凝出可疗伤强身的露水，并会自行吸收露水，疑致草木枯萎；王林视为命根隐藏。",
   "attributes": {
     "持有者": "王林",
-    "能力": "所生露水疗伤消肿、强身增力、吸收露水/水汽、吸收水分/雨露/泉水/人体水汽、浸泡之水露具滋养之效、浸泡凡水化为灵气充沛之水、可助炼丹、吸收水分增生云朵、浸泡泉水增灵气、吸纳灵气液体（露水/灵气泉水）增生云朵、现第十朵云后开启十倍时间梦境空间、盯视可催眠入梦、开启梦境空间、加速修炼时间、衍生梦境空间、引力操控、浸泡水生灵气液、开辟梦境空间、进入无边无际的梦境空间",
-    "外形": "婴儿拳头大灰色石珠，刻五朵白云、刻白云图案的灰色石珠(云朵数递增)、灰色石珠、表面九朵云、仅余指甲盖大小空位、灰色石珠，表面浮现云朵，十云后浮现歪扭数字小字",
+    "能力": "所生露水疗伤消肿、强身增力、吸收露水/水汽、吸收水分/雨露/泉水/人体水汽、浸泡之水露具滋养之效、浸泡凡水化为灵气充沛之水、可助炼丹、吸收水分增生云朵、浸泡泉水增灵气、吸纳灵气液体（露水/灵气泉水）增生云朵、现第十朵云后开启十倍时间梦境空间、盯视可催眠入梦、开启梦境空间、加速修炼时间、衍生梦境空间、引力操控、浸泡水生灵气液、开辟梦境空间、进入无边无际的梦境空间、内含梦境空间可加速修炼、按五行元素（水已圆满，需补木）逐步修复、内含梦境空间、可与司徒南交流并入梦",
+    "外形": "婴儿拳头大灰色石珠，刻五朵白云、刻白云图案的灰色石珠(云朵数递增)、灰色石珠、表面九朵云、仅余指甲盖大小空位、灰色石珠，表面浮现云朵，十云后浮现歪扭数字小字、外表字符消失、浮现淡淡树叶形状",
     "来历": "藏于被风眼撞死的飞鸟尸内、王林所得神秘宝物、王林遍寻大半山峰所得",
-    "禁制": "浸泡半柱香为效果极限，久泡无益"
+    "禁制": "浸泡半柱香为效果极限，久泡无益",
+    "器灵": "司徒南残魂寄居其中"
   },
   "observations": {
     "持有者": [
@@ -109,6 +112,21 @@
         "value": "进入无边无际的梦境空间",
         "docId": "plot.xianni-ch43-48-lishan-pilidan-shenshi",
         "seq": 43
+      },
+      {
+        "value": "内含梦境空间可加速修炼",
+        "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+        "seq": 49
+      },
+      {
+        "value": "按五行元素（水已圆满，需补木）逐步修复",
+        "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+        "seq": 49
+      },
+      {
+        "value": "内含梦境空间、可与司徒南交流并入梦",
+        "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+        "seq": 49
       }
     ],
     "外形": [
@@ -137,6 +155,12 @@
         "value": "灰色石珠，表面浮现云朵，十云后浮现歪扭数字小字",
         "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
         "seq": 19
+      },
+      {
+        "value": "外表字符消失、浮现淡淡树叶形状",
+        "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+        "seq": 49,
+        "note": "水元素圆满后变化"
       }
     ],
     "来历": [
@@ -166,6 +190,13 @@
         "value": "浸泡半柱香为效果极限，久泡无益",
         "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
         "seq": 31
+      }
+    ],
+    "器灵": [
+      {
+        "value": "司徒南残魂寄居其中",
+        "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+        "seq": 49
       }
     ]
   },
@@ -200,6 +231,12 @@
       "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
       "dated": false,
       "seq": 31
+    },
+    "器灵": {
+      "asOf": null,
+      "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+      "dated": false,
+      "seq": 49
     }
   },
   "contested": false,
@@ -211,7 +248,8 @@
     "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
     "plot.xianni-ch31-36-xueshui-jiaoyi",
     "plot.xianni-ch37-42-sinian-guangban",
-    "plot.xianni-ch43-48-lishan-pilidan-shenshi"
+    "plot.xianni-ch43-48-lishan-pilidan-shenshi",
+    "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi"
   ],
-  "updatedAt": "2026-06-22T12:30:04.308Z"
+  "updatedAt": "2026-06-22T12:48:22.507Z"
 }

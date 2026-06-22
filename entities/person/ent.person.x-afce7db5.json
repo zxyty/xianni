@@ -11,12 +11,13 @@
   ],
   "summary": "恒岳派二师兄，去年比试最强者；本章以紫衣冷峻形象现身交易会，气息远超孙大柱与张虎，以凝气4-9层口诀换走王林灵气泉水。",
   "attributes": {
-    "身份": "恒岳派内门弟子、恒岳派后山主事二师兄、恒岳派内门弟子（师兄）",
+    "身份": "恒岳派内门弟子、恒岳派后山主事二师兄、恒岳派内门弟子（师兄）、恒岳派二师兄、紫衣弟子",
     "称号": "二师兄",
     "小阶段": "凝气第六层、凝气期第六层",
     "外貌": "约二十岁、紫衣、神态冰冷、紫衣青年、冷峻",
     "标志特征": "气息极危险，远超孙大柱、张虎",
-    "性格": "心机深沉、伪作亲和"
+    "性格": "心机深沉、伪作亲和",
+    "阵营": "恒岳派"
   },
   "observations": {
     "身份": [
@@ -34,6 +35,16 @@
         "value": "恒岳派内门弟子（师兄）",
         "docId": "plot.xianni-ch37-42-sinian-guangban",
         "seq": 37
+      },
+      {
+        "value": "恒岳派二师兄",
+        "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+        "seq": 49
+      },
+      {
+        "value": "紫衣弟子",
+        "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+        "seq": 49
       }
     ],
     "称号": [
@@ -53,7 +64,8 @@
       {
         "value": "凝气期第六层",
         "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
-        "seq": 31
+        "seq": 31,
+        "note": "隐藏实力凝气期第八层"
       }
     ],
     "外貌": [
@@ -80,6 +92,13 @@
         "value": "心机深沉、伪作亲和",
         "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
         "seq": 31
+      }
+    ],
+    "阵营": [
+      {
+        "value": "恒岳派",
+        "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+        "seq": 49
       }
     ]
   },
@@ -121,13 +140,20 @@
       "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
       "dated": false,
       "seq": 31
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+      "dated": false,
+      "seq": 49
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch31-36-xueshui-jiaoyi",
-    "plot.xianni-ch37-42-sinian-guangban"
+    "plot.xianni-ch37-42-sinian-guangban",
+    "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi"
   ],
-  "updatedAt": "2026-06-22T12:17:35.999Z"
+  "updatedAt": "2026-06-22T12:48:22.479Z"
 }

@@ -9,7 +9,9 @@
   "attributes": {
     "阵营": "玄道宗",
     "标志特征": "单一水灵根，身覆迷雾隔绝神识",
-    "性格": "温文尔雅"
+    "性格": "温文尔雅",
+    "小阶段": "凝气期第六层",
+    "身份": "玄道宗弟子"
   },
   "observations": {
     "阵营": [
@@ -32,6 +34,20 @@
         "docId": "plot.xianni-ch43-48-lishan-pilidan-shenshi",
         "seq": 43
       }
+    ],
+    "小阶段": [
+      {
+        "value": "凝气期第六层",
+        "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+        "seq": 49
+      }
+    ],
+    "身份": [
+      {
+        "value": "玄道宗弟子",
+        "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+        "seq": 49
+      }
     ]
   },
   "firstSeq": 43,
@@ -53,12 +69,25 @@
       "docId": "plot.xianni-ch43-48-lishan-pilidan-shenshi",
       "dated": false,
       "seq": 43
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+      "dated": false,
+      "seq": 49
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+      "dated": false,
+      "seq": 49
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch43-48-lishan-pilidan-shenshi"
+    "plot.xianni-ch43-48-lishan-pilidan-shenshi",
+    "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi"
   ],
-  "updatedAt": "2026-06-22T12:30:04.320Z"
+  "updatedAt": "2026-06-22T12:48:22.459Z"
 }

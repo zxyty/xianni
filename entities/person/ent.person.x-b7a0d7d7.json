@@ -10,13 +10,16 @@
   ],
   "summary": "恒岳派长老，居正院药园种植草药，发放探亲千里符。",
   "attributes": {
-    "身份": "恒岳派长老、恒岳派二代弟子、恒岳派二代弟子（末流）、恒岳派记名弟子杂务处长老、恒岳派长老/师叔、恒岳派长老/王林师父、打理药园子、恒岳派师叔",
+    "身份": "恒岳派长老、恒岳派二代弟子、恒岳派二代弟子（末流）、恒岳派记名弟子杂务处长老、恒岳派长老/师叔、恒岳派长老/王林师父、打理药园子、恒岳派师叔、恒岳派长老／王林师父",
     "阵营": "恒岳派",
     "标志特征": "一生只收王林一徒",
     "称号": "孙长老、孙师叔",
     "性格": "高傲、势利",
     "外貌": "满脸皱纹、目光明亮、神情冷淡的老者",
-    "小阶段": "盘膝打坐中，未察王林神识"
+    "小阶段": "盘膝打坐中，未察王林神识",
+    "存殁": "死亡",
+    "死因": "被王林一掌拍碎头顶，七窍流血而亡（第52-61章缩改段）",
+    "结局": "尸体被弃于山涧，储物袋（内有好东西）被王林取走"
   },
   "observations": {
     "身份": [
@@ -60,6 +63,11 @@
         "value": "恒岳派师叔",
         "docId": "plot.xianni-ch37-42-sinian-guangban",
         "seq": 37
+      },
+      {
+        "value": "恒岳派长老／王林师父",
+        "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+        "seq": 49
       }
     ],
     "阵营": [
@@ -133,6 +141,27 @@
         "docId": "plot.xianni-ch37-42-sinian-guangban",
         "seq": 37
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+        "seq": 49
+      }
+    ],
+    "死因": [
+      {
+        "value": "被王林一掌拍碎头顶，七窍流血而亡（第52-61章缩改段）",
+        "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+        "seq": 49
+      }
+    ],
+    "结局": [
+      {
+        "value": "尸体被弃于山涧，储物袋（内有好东西）被王林取走",
+        "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+        "seq": 49
+      }
     ]
   },
   "firstSeq": 7,
@@ -179,6 +208,24 @@
       "docId": "plot.xianni-ch37-42-sinian-guangban",
       "dated": false,
       "seq": 37
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+      "dated": false,
+      "seq": 49
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+      "dated": false,
+      "seq": 49
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+      "dated": false,
+      "seq": 49
     }
   },
   "contested": false,
@@ -190,7 +237,8 @@
     "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
     "plot.xianni-ch31-36-xueshui-jiaoyi",
     "plot.xianni-ch37-42-sinian-guangban",
-    "plot.xianni-ch43-48-lishan-pilidan-shenshi"
+    "plot.xianni-ch43-48-lishan-pilidan-shenshi",
+    "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi"
   ],
-  "updatedAt": "2026-06-22T12:30:04.319Z"
+  "updatedAt": "2026-06-22T12:48:22.491Z"
 }
