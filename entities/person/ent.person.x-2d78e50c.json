@@ -1,71 +1,68 @@
 {
-  "id": "ent.spell.x-d02bf574",
-  "type": "spell",
-  "name": "火球术",
+  "id": "ent.person.x-2d78e50c",
+  "type": "person",
+  "name": "徐飞",
   "aliases": [],
-  "summary": "王林掐印施放的火系小法术，可凝婴儿拳大火球融化雪水，施法颇耗力。",
+  "summary": "原暗恋王卓的徐姓女孩，出身恒岳派，四年由凝气第四层升至第七层，欲夺墨晶兽与后山名额。",
   "attributes": {
-    "类型": "火系攻击法术",
-    "消耗": "较吃力（与引力术连用更甚）",
-    "威力": "可瞬间将凡人化为黑炭",
-    "适用境界": "凝气期第三层以下"
+    "小阶段": "凝气期第七层",
+    "阵营": "玄道宗",
+    "性别": "女",
+    "外貌": "容颜娇美、皓齿明眸"
   },
   "observations": {
-    "类型": [
+    "小阶段": [
       {
-        "value": "火系攻击/生火",
-        "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
-        "seq": 31
-      },
-      {
-        "value": "火系攻击法术",
+        "value": "凝气期第七层",
         "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
         "seq": 55
       }
     ],
-    "消耗": [
+    "阵营": [
       {
-        "value": "较吃力（与引力术连用更甚）",
-        "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
-        "seq": 31
+        "value": "玄道宗",
+        "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
+        "seq": 55,
+        "note": "出身恒岳派"
       }
     ],
-    "威力": [
+    "性别": [
       {
-        "value": "可瞬间将凡人化为黑炭",
+        "value": "女",
         "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
         "seq": 55
       }
     ],
-    "适用境界": [
+    "外貌": [
       {
-        "value": "凝气期第三层以下",
+        "value": "容颜娇美、皓齿明眸",
         "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
         "seq": 55
       }
     ]
   },
-  "firstSeq": 31,
+  "firstSeq": 55,
   "attrProvenance": {
-    "类型": {
+    "小阶段": {
       "asOf": null,
       "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
       "dated": false,
       "seq": 55
     },
-    "消耗": {
+    "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
+      "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
       "dated": false,
-      "seq": 31
+      "seq": 55,
+      "note": "出身恒岳派"
     },
-    "威力": {
+    "性别": {
       "asOf": null,
       "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
       "dated": false,
       "seq": 55
     },
-    "适用境界": {
+    "外貌": {
       "asOf": null,
       "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
       "dated": false,
@@ -75,8 +72,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch31-36-xueshui-jiaoyi",
     "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion"
   ],
-  "updatedAt": "2026-06-22T12:57:09.184Z"
+  "updatedAt": "2026-06-22T12:57:09.157Z"
 }
