@@ -2,12 +2,16 @@
   "id": "ent.artifact.x-d61dbf91",
   "type": "artifact",
   "name": "黄纸",
-  "aliases": [],
+  "aliases": [
+    "黄符纸",
+    "九张黄纸"
+  ],
   "summary": "蓝皮肤怪人身上的九张黄纸，撕下一张即可于濒死状态痊愈。",
   "attributes": {
     "持有者": "蓝皮肤怪人",
-    "能力": "撕一张可于濒死状态痊愈",
-    "外形": "黄纸，共九张"
+    "能力": "撕一张可于濒死状态痊愈、疗伤痊愈、实力增强一倍",
+    "外形": "黄纸，撕下涌现青色/青白双色气流",
+    "来历": "怪人身上共九张"
   },
   "observations": {
     "持有者": [
@@ -22,6 +26,16 @@
         "value": "撕一张可于濒死状态痊愈",
         "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
         "seq": 72
+      },
+      {
+        "value": "疗伤痊愈",
+        "docId": "plot.xianni-ch091-jiyin-lingli",
+        "seq": 76
+      },
+      {
+        "value": "实力增强一倍",
+        "docId": "plot.xianni-ch091-jiyin-lingli",
+        "seq": 76
       }
     ],
     "外形": [
@@ -29,6 +43,18 @@
         "value": "黄纸，共九张",
         "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
         "seq": 72
+      },
+      {
+        "value": "黄纸，撕下涌现青色/青白双色气流",
+        "docId": "plot.xianni-ch091-jiyin-lingli",
+        "seq": 76
+      }
+    ],
+    "来历": [
+      {
+        "value": "怪人身上共九张",
+        "docId": "plot.xianni-ch091-jiyin-lingli",
+        "seq": 76
       }
     ]
   },
@@ -48,15 +74,22 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+      "docId": "plot.xianni-ch091-jiyin-lingli",
       "dated": false,
-      "seq": 72
+      "seq": 76
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch091-jiyin-lingli",
+      "dated": false,
+      "seq": 76
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.huangquan-shengqiao-jue-jiyin-zhidi"
+    "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+    "plot.xianni-ch091-jiyin-lingli"
   ],
-  "updatedAt": "2026-06-22T13:37:13.443Z"
+  "updatedAt": "2026-06-22T13:56:11.105Z"
 }

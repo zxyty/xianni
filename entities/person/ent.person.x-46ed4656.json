@@ -4,13 +4,16 @@
   "name": "蓝皮肤怪人",
   "aliases": [
     "怪人",
-    "蓝皮肤的怪人"
+    "蓝皮肤的怪人",
+    "蓝皮肤野人",
+    "蓝皮肤异类"
   ],
   "summary": "废墟城市内的蓝皮肤异人，全身符号、力大无穷、语言不通；身负九张可治濒死的黄纸，夺走王林的小迷踪阵法后赠以幻术圆珠。",
   "attributes": {
-    "外貌": "蓝皮肤",
-    "标志特征": "全身符号一闪可碎断壁、力大无穷、发音尖锐、语言不通",
-    "身份": "废墟城市居者"
+    "外貌": "蓝色皮肤、身现诡异符号、血管鼓起",
+    "标志特征": "全身符号一闪可碎断壁、力大无穷、发音尖锐、语言不通、能吐出“劲”“极”等字",
+    "身份": "废墟城市居者",
+    "种族": "蓝皮肤异类"
   },
   "observations": {
     "外貌": [
@@ -18,6 +21,11 @@
         "value": "蓝皮肤",
         "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
         "seq": 72
+      },
+      {
+        "value": "蓝色皮肤、身现诡异符号、血管鼓起",
+        "docId": "plot.xianni-ch091-jiyin-lingli",
+        "seq": 76
       }
     ],
     "标志特征": [
@@ -35,6 +43,11 @@
         "value": "发音尖锐、语言不通",
         "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
         "seq": 72
+      },
+      {
+        "value": "能吐出“劲”“极”等字",
+        "docId": "plot.xianni-ch091-jiyin-lingli",
+        "seq": 76
       }
     ],
     "身份": [
@@ -43,15 +56,22 @@
         "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
         "seq": 72
       }
+    ],
+    "种族": [
+      {
+        "value": "蓝皮肤异类",
+        "docId": "plot.xianni-ch091-jiyin-lingli",
+        "seq": 76
+      }
     ]
   },
   "firstSeq": 72,
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+      "docId": "plot.xianni-ch091-jiyin-lingli",
       "dated": false,
-      "seq": 72
+      "seq": 76
     },
     "标志特征": {
       "asOf": null,
@@ -64,12 +84,19 @@
       "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
       "dated": false,
       "seq": 72
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch091-jiyin-lingli",
+      "dated": false,
+      "seq": 76
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.huangquan-shengqiao-jue-jiyin-zhidi"
+    "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+    "plot.xianni-ch091-jiyin-lingli"
   ],
-  "updatedAt": "2026-06-22T13:37:13.441Z"
+  "updatedAt": "2026-06-22T13:56:11.104Z"
 }
