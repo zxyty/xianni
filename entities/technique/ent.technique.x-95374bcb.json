@@ -2,13 +2,19 @@
   "id": "ent.technique.x-95374bcb",
   "type": "technique",
   "name": "黄泉升窍决",
-  "aliases": [],
+  "aliases": [
+    "黄泉升窍诀",
+    "诡功"
+  ],
   "summary": "司徒南掌握的功法，须筑基期方可修炼；司徒南承诺王林筑基后传授。",
   "attributes": {
     "适用境界": "筑基期、筑基期后修炼",
-    "出处": "司徒南",
-    "效果": "修出阴寒灵力威力无穷、结丹成功率最大",
-    "修炼条件": "极阴之地"
+    "出处": "司徒南、司徒南所传、六级修真国魔道",
+    "效果": "修出阴寒灵力威力无穷、结丹成功率最大、分九层，每三层凝一寒丹、三寒丹融合有几率直升结丹期、灵力转为阴寒之力、吸收阴寒之气、阴寒为力、开丹田/气海/祖窍三窍凝寒丹，化阴寒灵力",
+    "修炼条件": "需寻极阴之地、极阴之地、极阴之地（普通三品以上）、冲丹田/气海/祖窍三窍、身体须入濒死状态、极阴之地；不破不立、先破后立，每窍碎立三次",
+    "外显异象": "眉发汗毛结霜、阴寒透体、心跳渐缓近乎停止、疯狂吞噬方圆阴寒之气成真空带",
+    "品阶": "诡功",
+    "五行属性": "阴寒"
   },
   "observations": {
     "适用境界": [
@@ -28,6 +34,16 @@
         "value": "司徒南",
         "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
         "seq": 49
+      },
+      {
+        "value": "司徒南所传",
+        "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+        "seq": 72
+      },
+      {
+        "value": "六级修真国魔道",
+        "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+        "seq": 72
       }
     ],
     "效果": [
@@ -40,6 +56,31 @@
         "value": "结丹成功率最大",
         "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
         "seq": 49
+      },
+      {
+        "value": "分九层，每三层凝一寒丹",
+        "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+        "seq": 72
+      },
+      {
+        "value": "三寒丹融合有几率直升结丹期",
+        "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+        "seq": 72
+      },
+      {
+        "value": "灵力转为阴寒之力",
+        "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+        "seq": 72
+      },
+      {
+        "value": "吸收阴寒之气、阴寒为力",
+        "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+        "seq": 72
+      },
+      {
+        "value": "开丹田/气海/祖窍三窍凝寒丹，化阴寒灵力",
+        "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+        "seq": 72
       }
     ],
     "修炼条件": [
@@ -52,6 +93,57 @@
         "value": "极阴之地",
         "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
         "seq": 67
+      },
+      {
+        "value": "极阴之地（普通三品以上）",
+        "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+        "seq": 72
+      },
+      {
+        "value": "冲丹田/气海/祖窍三窍",
+        "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+        "seq": 72
+      },
+      {
+        "value": "身体须入濒死状态",
+        "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+        "seq": 72
+      },
+      {
+        "value": "极阴之地；不破不立、先破后立，每窍碎立三次",
+        "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+        "seq": 72
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "眉发汗毛结霜、阴寒透体",
+        "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+        "seq": 72
+      },
+      {
+        "value": "心跳渐缓近乎停止",
+        "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+        "seq": 72
+      },
+      {
+        "value": "疯狂吞噬方圆阴寒之气成真空带",
+        "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+        "seq": 72
+      }
+    ],
+    "品阶": [
+      {
+        "value": "诡功",
+        "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+        "seq": 72
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "阴寒",
+        "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+        "seq": 72
       }
     ]
   },
@@ -77,16 +169,35 @@
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
+      "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
       "dated": false,
-      "seq": 67
+      "seq": 49
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+      "dated": false,
+      "seq": 72
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+      "dated": false,
+      "seq": 72
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+      "dated": false,
+      "seq": 72
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
-    "plot.xianni-ch67-71-tengli-chase-lanxianteng"
+    "plot.xianni-ch67-71-tengli-chase-lanxianteng",
+    "lore.huangquan-shengqiao-jue-jiyin-zhidi"
   ],
-  "updatedAt": "2026-06-22T13:25:25.145Z"
+  "updatedAt": "2026-06-22T13:37:13.442Z"
 }

@@ -9,9 +9,10 @@
   "attributes": {
     "品阶": "超上品丹宝",
     "持有者": "王林",
-    "能力": "瞬移、有灵性",
+    "能力": "瞬移、有灵性、穿刺、瞬移、入鞘变色增威",
     "外形": "绿色小剑，瞬移时剑身由黑变蓝变绿",
-    "来历": "结丹后期者结婴一刻拼死所制"
+    "来历": "结丹后期者结婴一刻拼死所制",
+    "五行属性": "绿光为基"
   },
   "observations": {
     "品阶": [
@@ -38,6 +39,11 @@
         "value": "有灵性",
         "docId": "plot.xianni-ch61-66-strange-sword-baizhan",
         "seq": 61
+      },
+      {
+        "value": "穿刺、瞬移、入鞘变色增威",
+        "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+        "seq": 72
       }
     ],
     "外形": [
@@ -52,6 +58,13 @@
         "value": "结丹后期者结婴一刻拼死所制",
         "docId": "plot.xianni-ch61-66-strange-sword-baizhan",
         "seq": 61
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "绿光为基",
+        "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+        "seq": 72
       }
     ]
   },
@@ -86,12 +99,19 @@
       "docId": "plot.xianni-ch61-66-strange-sword-baizhan",
       "dated": false,
       "seq": 61
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+      "dated": false,
+      "seq": 72
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch61-66-strange-sword-baizhan"
+    "plot.xianni-ch61-66-strange-sword-baizhan",
+    "lore.huangquan-shengqiao-jue-jiyin-zhidi"
   ],
-  "updatedAt": "2026-06-22T13:06:00.191Z"
+  "updatedAt": "2026-06-22T13:37:13.432Z"
 }

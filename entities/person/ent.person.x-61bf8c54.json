@@ -16,12 +16,13 @@
     "性别": "男",
     "身份": "六级修真国绝世高手、朱雀国第一强者、天逆珠内残魂／王林暗中之师、黄泉升窍决传功者、石珠梦境中的存在、王林的指导者、天逆空间内的指点者、石珠内前辈残魂、石珠内残识/前辈、石珠内前辈、石珠内寄魂前辈",
     "性格": "残暴狠辣、沧桑哀叹、桀骜不驯、嚣张跋扈、狠辣务实、由狂妄转敬佩",
-    "存殁": "沉睡",
+    "存殁": "死亡（第61章）",
     "标志特征": "存于石珠梦境之内",
     "出身地": "异国(非赵国)",
     "小阶段": "元婴期",
     "称号": "六级修真国绝世高手",
-    "元神强度": "元婴精华损耗严重"
+    "元神强度": "元婴精华损耗严重",
+    "死因": "第61章身亡"
   },
   "observations": {
     "性别": [
@@ -134,6 +135,11 @@
         "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
         "seq": 67,
         "note": "耗费元婴精华掩盖诅咒后沉睡两年多，未醒"
+      },
+      {
+        "value": "死亡（第61章）",
+        "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+        "seq": 72
       }
     ],
     "标志特征": [
@@ -187,6 +193,13 @@
         "seq": 67,
         "note": "连续瞬移所致，第82章"
       }
+    ],
+    "死因": [
+      {
+        "value": "第61章身亡",
+        "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+        "seq": 72
+      }
     ]
   },
   "firstSeq": 43,
@@ -211,10 +224,9 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
+      "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
       "dated": false,
-      "seq": 67,
-      "note": "耗费元婴精华掩盖诅咒后沉睡两年多，未醒"
+      "seq": 72
     },
     "标志特征": {
       "asOf": null,
@@ -247,6 +259,12 @@
       "dated": false,
       "seq": 67,
       "note": "连续瞬移所致，第82章"
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+      "dated": false,
+      "seq": 72
     }
   },
   "contested": false,
@@ -256,7 +274,8 @@
     "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
     "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
     "plot.xianni-ch61-66-strange-sword-baizhan",
-    "plot.xianni-ch67-71-tengli-chase-lanxianteng"
+    "plot.xianni-ch67-71-tengli-chase-lanxianteng",
+    "lore.huangquan-shengqiao-jue-jiyin-zhidi"
   ],
-  "updatedAt": "2026-06-22T13:25:25.142Z"
+  "updatedAt": "2026-06-22T13:37:13.445Z"
 }
