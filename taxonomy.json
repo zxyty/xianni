@@ -1,0 +1,155 @@
+{
+  "version": 2,
+  "sequenced": true,
+  "guidance": "本知识库是耳根的修仙小说《仙逆》,按【章节】顺序连载(主角王林,乳名铁柱)。基调冷硬黑暗,核心母题=逆天/因果/轮回/虚幻。抽取要点:\n1) 序列化属性:许多属性随章节变化(境界小阶段/身份/称号/道号/性格/外貌/阵营/元神强度/神识/寿元…),只记【本片段当时】的值,系统按序号保留历史,后面变了不算矛盾;不要因为以后会变就不写。\n2) 演变且具关系性的状态——境界、所属势力、修炼的功法/神通、持有的法宝、收服的灵兽——用【关系】表达(reaches/memberOf/practices/casts/owns/tames…),可多条,各锚定其出现章节,不要塞进属性。\n3) 同一时刻并立的多个值(功效/能力/称号/特产…)给【数组】。\n4) 冒充/化名/伪装/暂时 的事实用对象带 note,如 外貌:{value:\"白发老者\",note:\"伪装\"}、身份:{value:\"散修\",note:\"潜入\"};关系同理可带 note。\n5) 人物务必给全 aliases(本名/化名/外号/尊称,如 王林/铁柱)。\n6) 分类选对否则关系会因类型不符被丢弃:经书/秘籍/口诀→technique 用 practices;实体法宝/飞剑/法器→artifact 用 owns;丹药→pill;炼器炼丹材料灵草矿石→material;一般随身物件钱财→item 用 possesses。owns 只接 artifact、practices 接 technique、possesses 接 item、controls 接 puppet。\n7) 包含/归属:势力的下属场所(分舵/大殿/药园)、子门派、所属联盟大派→partOf(对象=那个势力);地点之间方位包含→locatedIn;只有【人】入门派才用 memberOf。\n8) 【仙逆特有·分身体系】王林等强者有分身/本尊/真身之分。命名的分身视作独立 person 实体,用 avatarOf 指向其本尊(主语=分身,宾语=本尊),note 注明(如\"神识分身\"\"血分身\");勿把分身的行动并入本尊属性,但用关系连起来。\n9) 【仙逆特有·身份延续】reincarnationOf 用于轮回转世/寄魂/夺舍后身份延续(主语=当前行为体,宾语=前世/被夺舍者),note 写类型(转世/寄魂/夺舍/化形)与起始章。impersonates 仅用于【冒用某具体已命名人物的姓名身份】,主语=真实行为人,宾语=被冒者;严禁把泛泛诈称\"某某弟子\"抽成 impersonates。\n10) 【仙逆特有·因果与击杀】仙逆是巨大的恩怨因果网。人物击杀用 kills(主语=凶手,宾语=死者),锚定章节;吞噬夺取他人修为用 devours;炼制/操控傀儡用 controls(对象=puppet);获得传承用 inherits(对象=technique/artifact/faction)。人物死亡记属性 存殁=死亡(观测所在章即死亡章),死因写明,并尽量补 kills 关系标出死于谁手。\n11) 【仙逆特有·地图与空间】地理是宇宙尺度:星空>星域(region)>界面/大千世界(world)>国度·山脉·秘境·禁地(place)>门派·洞府。除包含关系外,务必抽取【横向空间关系】:传送阵/空间裂缝/通道连通两地用 connectsTo(双向);地域接壤相邻用 borders(双向);单向通道/裂缝通往某界用 leadsTo。重要的传送阵/裂缝/通道本身作 passage 实体。地点尽量补 方位 属性(相对父级,如\"修真界东部\"\"星域中心\")供绘图锚定。\n12) 【仙逆特有·时间线】仙逆重度闪回(当年/年前)且有古纪元(太古/远古/上古)。事件 event 记 章节(叙事锚点,必填)与 世内时序(故事真实时间次序/年代,闪回时与章节不一致);纪元用 era 实体;事件间先后用 precedes、因果用 causes(主语=因,宾语=果);事件/人物归属纪元用 duringEra。\n13) 兜底:两实体确有联系但无更合适具体关系时用 relatedTo,但能用具体关系优先具体关系;勿漏。\n14) 若提示词开头给出【世界状态须知】,必须严格据此归属:化名/分身/寄魂期间的名字归到真实本尊(并 note),已死之人再出场按回忆/被冒名/转世处理。",
+  "categories": [
+    { "kind": "plot", "title": "剧情", "desc": "章节剧情梳理、事件、转折" },
+    { "kind": "character", "title": "人物", "desc": "人物志、关系、际遇、分身" },
+    { "kind": "lore", "title": "设定", "desc": "境界体系、功法、法宝、势力等设定" },
+    { "kind": "geo", "title": "地理", "desc": "界面、星域、地点、空间连通与疆域" },
+    { "kind": "chronicle", "title": "编年", "desc": "纪元、时间线、因果事件链" }
+  ],
+  "entityTypes": [
+    {
+      "type": "person",
+      "title": "人物",
+      "attributes": [
+        "性别", "种族", "小阶段", "身份", "称号", "道号", "性格", "出身地",
+        "阵营", "寿元", "外貌", "标志特征", "元神强度", "神识", "本命法宝",
+        "分身", "存殁", "结局", "死因"
+      ]
+    },
+    {
+      "type": "artifact",
+      "title": "法宝",
+      "attributes": ["品阶", "持有者", "能力", "五行属性", "器灵", "来历", "禁制", "外形"]
+    },
+    {
+      "type": "technique",
+      "title": "功法",
+      "attributes": ["品阶", "五行属性", "出处", "效果", "适用境界", "修炼条件", "外显异象"]
+    },
+    {
+      "type": "spell",
+      "title": "神通",
+      "attributes": ["类型", "威力", "出处", "消耗", "适用境界"]
+    },
+    {
+      "type": "beast",
+      "title": "灵兽",
+      "attributes": ["种族", "等级", "主人", "血脉", "能力", "栖息地", "天敌", "外形"]
+    },
+    {
+      "type": "puppet",
+      "title": "傀儡",
+      "attributes": ["本体来源", "操控者", "炼制者", "品阶", "能力", "材料", "外形"]
+    },
+    {
+      "type": "faction",
+      "title": "势力",
+      "attributes": ["阵营", "等级", "掌门", "据点", "所属界面", "镇派之宝", "理念"]
+    },
+    {
+      "type": "place",
+      "title": "地点",
+      "attributes": ["所属界面", "所属势力", "类型", "方位", "规模", "上级区域", "危险度", "特产", "守护"]
+    },
+    {
+      "type": "passage",
+      "title": "通道",
+      "attributes": ["类型", "两端", "稳定性", "可通行境界", "坐标", "守护", "来历"]
+    },
+    {
+      "type": "world",
+      "title": "界面",
+      "attributes": ["层次", "所属星域", "灵气浓度", "主宰势力", "通道", "特点"]
+    },
+    {
+      "type": "region",
+      "title": "星域",
+      "attributes": ["层次", "规模", "主宰势力", "包含界面", "通道", "特点"]
+    },
+    {
+      "type": "realm",
+      "title": "境界",
+      "attributes": ["阶序", "小阶段", "寿元", "突破关键", "突破征兆", "上一境", "下一境"]
+    },
+    {
+      "type": "item",
+      "title": "物品",
+      "attributes": ["类型", "用途", "品阶", "产地"]
+    },
+    {
+      "type": "pill",
+      "title": "丹药",
+      "attributes": ["品阶", "功效", "适用境界", "炼制者", "主料", "副作用"]
+    },
+    {
+      "type": "material",
+      "title": "灵材",
+      "attributes": ["类型", "用途", "稀有度", "产地"]
+    },
+    {
+      "type": "formation",
+      "title": "阵法",
+      "attributes": ["品阶", "效果", "出处", "布置者", "破解法"]
+    },
+    {
+      "type": "race",
+      "title": "种族",
+      "attributes": ["特性", "聚居地", "阵营", "天赋神通", "代表人物", "天敌"]
+    },
+    {
+      "type": "era",
+      "title": "纪元",
+      "attributes": ["时序", "起止", "特征", "代表势力", "重大事件", "上一纪元", "下一纪元"]
+    },
+    {
+      "type": "event",
+      "title": "事件",
+      "attributes": ["章节", "世内时序", "纪元", "时长", "地点", "参与方", "起因", "经过", "结果", "影响"]
+    }
+  ],
+  "relationTypes": [
+    { "name": "master", "domain": "person", "range": "person", "inverse": "disciple", "card": "many" },
+    { "name": "companion", "domain": "person", "range": "person", "inverse": "companion", "card": "many" },
+    { "name": "fellow", "domain": "person", "range": "person", "inverse": "fellow", "card": "many" },
+    { "name": "sworn", "domain": "person", "range": "person", "inverse": "sworn", "card": "many" },
+    { "name": "kin", "domain": "person", "range": "person", "inverse": "kin", "card": "many" },
+    { "name": "enemy", "domain": "person", "range": "person", "inverse": "enemy", "card": "many" },
+    { "name": "ally", "domain": "person", "range": "person", "inverse": "ally", "card": "many" },
+    { "name": "owns", "domain": "person", "range": "artifact", "inverse": "ownedBy", "card": "many" },
+    { "name": "possesses", "domain": "person", "range": "item", "inverse": "possessedBy", "card": "many" },
+    { "name": "forges", "domain": "person", "range": "artifact", "inverse": "forgedBy", "card": "many" },
+    { "name": "practices", "domain": "person", "range": "technique", "inverse": "practicedBy", "card": "many" },
+    { "name": "casts", "domain": "person", "range": "spell", "inverse": "castBy", "card": "many" },
+    { "name": "refines", "domain": "person", "range": "pill", "inverse": "refinedBy", "card": "many" },
+    { "name": "memberOf", "domain": "person", "range": "faction", "inverse": "hasMember", "card": "many" },
+    { "name": "founded", "domain": "person", "range": "faction", "inverse": "foundedBy", "card": "many" },
+    { "name": "tames", "domain": "person", "range": "beast", "inverse": "tamedBy", "card": "many" },
+    { "name": "reaches", "domain": "person", "range": "realm", "inverse": "reachedBy", "card": "many" },
+    { "name": "ofRace", "domain": "person", "range": "race", "inverse": "raceMember", "card": "many" },
+    { "name": "avatarOf", "domain": "person", "range": "person", "inverse": "hasAvatar", "card": "many" },
+    { "name": "reincarnationOf", "domain": "person", "range": "person", "inverse": "reincarnatedAs", "card": "many", "borrowsIdentity": true },
+    { "name": "kills", "domain": "person", "range": "person", "inverse": "killedBy", "card": "many" },
+    { "name": "devours", "domain": "person", "range": "person", "inverse": "devouredBy", "card": "many" },
+    { "name": "controls", "domain": "person", "range": "puppet", "inverse": "controlledBy", "card": "many" },
+    { "name": "inherits", "domain": "person", "range": "*", "inverse": "inheritedBy", "card": "many" },
+    { "name": "advances", "domain": "realm", "range": "realm", "inverse": "precededBy", "card": "many" },
+    { "name": "locatedIn", "domain": "*", "range": "place", "inverse": "contains", "card": "many" },
+    { "name": "partOf", "domain": "*", "range": "*", "inverse": "hasPart", "card": "many" },
+    { "name": "connectsTo", "domain": "*", "range": "*", "inverse": "connectsTo", "card": "many" },
+    { "name": "borders", "domain": "place", "range": "place", "inverse": "borders", "card": "many" },
+    { "name": "leadsTo", "domain": "*", "range": "*", "inverse": "reachedFrom", "card": "many" },
+    { "name": "withinWorld", "domain": "*", "range": "world", "inverse": "holds", "card": "many" },
+    { "name": "withinRegion", "domain": "*", "range": "region", "inverse": "spans", "card": "many" },
+    { "name": "guards", "domain": "person", "range": "place", "inverse": "guardedBy", "card": "many" },
+    { "name": "relatedTo", "domain": "*", "range": "*", "inverse": "relatedTo", "card": "many" },
+    { "name": "impersonates", "domain": "*", "range": "person", "inverse": "impersonatedBy", "card": "many", "borrowsIdentity": true },
+    { "name": "occursAt", "domain": "event", "range": "place", "inverse": "hosts", "card": "many" },
+    { "name": "involves", "domain": "event", "range": "person", "inverse": "experienced", "card": "many" },
+    { "name": "precedes", "domain": "event", "range": "event", "inverse": "follows", "card": "many" },
+    { "name": "causes", "domain": "event", "range": "event", "inverse": "causedBy", "card": "many" },
+    { "name": "duringEra", "domain": "*", "range": "era", "inverse": "eraEvents", "card": "many" }
+  ]
+}
