@@ -1,82 +1,66 @@
 {
-  "id": "ent.person.x-3180602b",
-  "type": "person",
-  "name": "刘姓青年",
-  "aliases": [
-    "黄鼠狼",
-    "刘师兄",
-    "黄衣青年",
-    "刘姓弟子"
-  ],
-  "summary": "已获修炼资格的黄衣记名弟子，负责安排记名弟子杂务，刻薄刁难王林。",
+  "id": "ent.realm.x-c7605c0b",
+  "type": "realm",
+  "name": "凝气期",
+  "aliases": [],
+  "summary": "修仙基础境界，共十五层，吐纳天地灵气积灵入体、改造凡体，为筑基打基础；修至三层方得后续心法。",
   "attributes": {
-    "身份": "恒岳派记名弟子(杂务处负责)",
-    "性格": "市侩势利",
-    "外貌": "尖嘴猴腮黄鼠狼脸",
-    "阵营": "恒岳派"
+    "小阶段": "十五层",
+    "突破关键": "修至三层得后续心法、灵根天资充足",
+    "突破征兆": "灵气入体如蚁虫爬动感",
+    "下一境": "筑基期"
   },
   "observations": {
-    "身份": [
+    "小阶段": [
       {
-        "value": "黄衣记名弟子",
-        "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
-        "seq": 7,
-        "note": "已获修炼仙法资格，管杂务"
-      },
-      {
-        "value": "恒岳派记名弟子(杂务处负责)",
+        "value": "十五层",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
       }
     ],
-    "性格": [
+    "突破关键": [
       {
-        "value": "刻薄势利",
-        "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
-        "seq": 7
-      },
-      {
-        "value": "市侩势利",
+        "value": "修至三层得后续心法、灵根天资充足",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
       }
     ],
-    "外貌": [
+    "突破征兆": [
       {
-        "value": "尖嘴猴腮黄鼠狼脸",
+        "value": "灵气入体如蚁虫爬动感",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
       }
     ],
-    "阵营": [
+    "下一境": [
       {
-        "value": "恒岳派",
+        "value": "筑基期",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
       }
     ]
   },
-  "firstSeq": 7,
+  "firstSeq": 13,
   "attrProvenance": {
-    "身份": {
+    "小阶段": {
       "asOf": null,
       "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
       "dated": false,
       "seq": 13
     },
-    "性格": {
+    "突破关键": {
       "asOf": null,
       "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
       "dated": false,
       "seq": 13
     },
-    "外貌": {
+    "突破征兆": {
       "asOf": null,
       "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
       "dated": false,
       "seq": 13
     },
-    "阵营": {
+    "下一境": {
       "asOf": null,
       "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
       "dated": false,
@@ -86,8 +70,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch07-12-liushu-rumen-shizhu",
     "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly"
   ],
-  "updatedAt": "2026-06-22T11:25:57.785Z"
+  "updatedAt": "2026-06-22T11:25:57.790Z"
 }

@@ -10,8 +10,9 @@
   "summary": "接送王家三少年往返恒岳派的白衣修士。",
   "attributes": {
     "性别": "男",
-    "身份": "恒岳派弟子",
-    "阵营": "恒岳派"
+    "身份": "恒岳派弟子(正院当值)",
+    "阵营": "恒岳派",
+    "外貌": "白衣、白衣青年"
   },
   "observations": {
     "性别": [
@@ -26,6 +27,11 @@
         "value": "恒岳派弟子",
         "docId": "plot.xianni-c01-06-wanglin-lixiang-celue-shibai",
         "seq": 1
+      },
+      {
+        "value": "恒岳派弟子(正院当值)",
+        "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+        "seq": 13
       }
     ],
     "阵营": [
@@ -33,6 +39,18 @@
         "value": "恒岳派",
         "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
         "seq": 7
+      }
+    ],
+    "外貌": [
+      {
+        "value": "白衣",
+        "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+        "seq": 13
+      },
+      {
+        "value": "白衣青年",
+        "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+        "seq": 13
       }
     ]
   },
@@ -46,22 +64,29 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-c01-06-wanglin-lixiang-celue-shibai",
+      "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
       "dated": false,
-      "seq": 1
+      "seq": 13
     },
     "阵营": {
       "asOf": null,
       "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
       "dated": false,
       "seq": 7
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+      "dated": false,
+      "seq": 13
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-c01-06-wanglin-lixiang-celue-shibai",
-    "plot.xianni-ch07-12-liushu-rumen-shizhu"
+    "plot.xianni-ch07-12-liushu-rumen-shizhu",
+    "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly"
   ],
-  "updatedAt": "2026-06-22T11:17:41.847Z"
+  "updatedAt": "2026-06-22T11:25:57.785Z"
 }

@@ -1,82 +1,78 @@
 {
-  "id": "ent.person.x-3180602b",
-  "type": "person",
-  "name": "刘姓青年",
+  "id": "ent.event.x-f858967c",
+  "type": "event",
+  "name": "石珠夜吸雨水异变",
   "aliases": [
-    "黄鼠狼",
-    "刘师兄",
-    "黄衣青年",
-    "刘姓弟子"
+    "土字副院吸水异变"
   ],
-  "summary": "已获修炼资格的黄衣记名弟子，负责安排记名弟子杂务，刻薄刁难王林。",
+  "summary": "暴雨夜石珠疯狂吸收满屋雨水及张虎体内水分，张虎结霜几死，珠上云朵增至七朵。",
   "attributes": {
-    "身份": "恒岳派记名弟子(杂务处负责)",
-    "性格": "市侩势利",
-    "外貌": "尖嘴猴腮黄鼠狼脸",
-    "阵营": "恒岳派"
+    "章节": "第14章",
+    "地点": "土字副院",
+    "参与方": "王林、张虎、石珠",
+    "结果": "张虎获救、珠纹增至七朵、王林对珠生惧"
   },
   "observations": {
-    "身份": [
+    "章节": [
       {
-        "value": "黄衣记名弟子",
-        "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
-        "seq": 7,
-        "note": "已获修炼仙法资格，管杂务"
+        "value": "第14章",
+        "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+        "seq": 13
+      }
+    ],
+    "地点": [
+      {
+        "value": "土字副院",
+        "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+        "seq": 13
+      }
+    ],
+    "参与方": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+        "seq": 13
       },
       {
-        "value": "恒岳派记名弟子(杂务处负责)",
+        "value": "张虎",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
-      }
-    ],
-    "性格": [
-      {
-        "value": "刻薄势利",
-        "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
-        "seq": 7
       },
       {
-        "value": "市侩势利",
+        "value": "石珠",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
       }
     ],
-    "外貌": [
+    "结果": [
       {
-        "value": "尖嘴猴腮黄鼠狼脸",
-        "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
-        "seq": 13
-      }
-    ],
-    "阵营": [
-      {
-        "value": "恒岳派",
+        "value": "张虎获救、珠纹增至七朵、王林对珠生惧",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
       }
     ]
   },
-  "firstSeq": 7,
+  "firstSeq": 13,
   "attrProvenance": {
-    "身份": {
+    "章节": {
       "asOf": null,
       "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
       "dated": false,
       "seq": 13
     },
-    "性格": {
+    "地点": {
       "asOf": null,
       "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
       "dated": false,
       "seq": 13
     },
-    "外貌": {
+    "参与方": {
       "asOf": null,
       "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
       "dated": false,
       "seq": 13
     },
-    "阵营": {
+    "结果": {
       "asOf": null,
       "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
       "dated": false,
@@ -86,8 +82,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch07-12-liushu-rumen-shizhu",
     "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly"
   ],
-  "updatedAt": "2026-06-22T11:25:57.785Z"
+  "updatedAt": "2026-06-22T11:25:57.783Z"
 }

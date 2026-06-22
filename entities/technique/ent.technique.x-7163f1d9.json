@@ -1,114 +1,94 @@
 {
-  "id": "ent.person.x-b7a0d7d7",
-  "type": "person",
-  "name": "孙长老",
-  "aliases": [
-    "孙师叔",
-    "孙大柱"
-  ],
-  "summary": "恒岳派长老，居正院药园种植草药，发放探亲千里符。",
+  "id": "ent.technique.x-7163f1d9",
+  "type": "technique",
+  "name": "凝气三篇",
+  "aliases": [],
+  "summary": "恒岳派内门弟子基础功法，讲凝气期前三层心法；以'一长短三'呼吸法吐纳天地灵气入体。",
   "attributes": {
-    "身份": "恒岳派长老、恒岳派二代弟子、恒岳派二代弟子（末流）",
-    "阵营": "恒岳派",
-    "标志特征": "脚踏七彩祥云",
-    "称号": "孙长老、孙师叔",
-    "性格": "贪婪、伪善、阴狠",
-    "外貌": "满脸皱纹、目光明亮、神情冷淡的老者"
+    "品阶": "基础功法",
+    "出处": "恒岳派",
+    "效果": "吐纳天地灵气、积灵改凡体",
+    "适用境界": "凝气期（前三层）",
+    "修炼条件": "灵根天资",
+    "外显异象": "灵气入体时如蚁虫爬动"
   },
   "observations": {
-    "身份": [
+    "品阶": [
       {
-        "value": "恒岳派长老",
-        "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
-        "seq": 7,
-        "note": "掌管药园/草药"
-      },
-      {
-        "value": "恒岳派二代弟子",
-        "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
-        "seq": 13
-      },
-      {
-        "value": "恒岳派二代弟子（末流）",
+        "value": "基础功法",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
       }
     ],
-    "阵营": [
+    "出处": [
       {
         "value": "恒岳派",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
       }
     ],
-    "标志特征": [
+    "效果": [
       {
-        "value": "脚踏七彩祥云",
+        "value": "吐纳天地灵气、积灵改凡体",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
       }
     ],
-    "称号": [
+    "适用境界": [
       {
-        "value": "孙长老",
-        "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
-        "seq": 13
-      },
-      {
-        "value": "孙师叔",
+        "value": "凝气期（前三层）",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
       }
     ],
-    "性格": [
+    "修炼条件": [
       {
-        "value": "贪婪、伪善、阴狠",
+        "value": "灵根天资",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
       }
     ],
-    "外貌": [
+    "外显异象": [
       {
-        "value": "满脸皱纹、目光明亮、神情冷淡的老者",
+        "value": "灵气入体时如蚁虫爬动",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
       }
     ]
   },
-  "firstSeq": 7,
+  "firstSeq": 13,
   "attrProvenance": {
-    "身份": {
-      "asOf": null,
-      "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
-      "dated": false,
-      "seq": 7,
-      "note": "掌管药园/草药"
-    },
-    "阵营": {
+    "品阶": {
       "asOf": null,
       "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
       "dated": false,
       "seq": 13
     },
-    "标志特征": {
+    "出处": {
       "asOf": null,
       "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
       "dated": false,
       "seq": 13
     },
-    "称号": {
+    "效果": {
       "asOf": null,
       "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
       "dated": false,
       "seq": 13
     },
-    "性格": {
+    "适用境界": {
       "asOf": null,
       "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
       "dated": false,
       "seq": 13
     },
-    "外貌": {
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+      "dated": false,
+      "seq": 13
+    },
+    "外显异象": {
       "asOf": null,
       "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
       "dated": false,
@@ -118,8 +98,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch07-12-liushu-rumen-shizhu",
     "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly"
   ],
-  "updatedAt": "2026-06-22T11:25:57.784Z"
+  "updatedAt": "2026-06-22T11:25:57.791Z"
 }
