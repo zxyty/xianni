@@ -10,9 +10,10 @@
   "summary": "修仙第二层次，恒岳派不足十人，属中坚、享特权。",
   "attributes": {
     "阶序": "第二层次",
-    "上一境": "凝气期",
-    "下一境": "结丹期",
-    "突破关键": "庞大灵气／露水、幽静闭关、海量灵气、夺基/木属灵气/元婴高手相助"
+    "上一境": "结丹",
+    "下一境": "凝气期",
+    "突破关键": "庞大灵气／露水、幽静闭关、海量灵气、夺基/木属灵气/元婴高手相助",
+    "小阶段": "筑基后期、后期、筑基中期"
   },
   "observations": {
     "阶序": [
@@ -32,6 +33,11 @@
         "value": "凝气期",
         "docId": "plot.xianni-ch43-48-lishan-pilidan-shenshi",
         "seq": 43
+      },
+      {
+        "value": "结丹",
+        "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
+        "seq": 67
       }
     ],
     "下一境": [
@@ -44,6 +50,11 @@
         "value": "结丹期",
         "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
         "seq": 49
+      },
+      {
+        "value": "凝气期",
+        "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
+        "seq": 67
       }
     ],
     "突破关键": [
@@ -62,6 +73,23 @@
         "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
         "seq": 55
       }
+    ],
+    "小阶段": [
+      {
+        "value": "筑基后期",
+        "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
+        "seq": 67
+      },
+      {
+        "value": "后期",
+        "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
+        "seq": 67
+      },
+      {
+        "value": "筑基中期",
+        "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
+        "seq": 67
+      }
     ]
   },
   "firstSeq": 19,
@@ -74,21 +102,27 @@
     },
     "上一境": {
       "asOf": null,
-      "docId": "plot.xianni-ch43-48-lishan-pilidan-shenshi",
+      "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
       "dated": false,
-      "seq": 43
+      "seq": 67
     },
     "下一境": {
       "asOf": null,
-      "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+      "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
       "dated": false,
-      "seq": 49
+      "seq": 67
     },
     "突破关键": {
       "asOf": null,
       "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
       "dated": false,
       "seq": 49
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
+      "dated": false,
+      "seq": 67
     }
   },
   "contested": false,
@@ -98,7 +132,8 @@
     "plot.xianni-ch43-48-lishan-pilidan-shenshi",
     "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
     "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
-    "plot.xianni-ch61-66-strange-sword-baizhan"
+    "plot.xianni-ch61-66-strange-sword-baizhan",
+    "plot.xianni-ch67-71-tengli-chase-lanxianteng"
   ],
-  "updatedAt": "2026-06-22T13:06:00.199Z"
+  "updatedAt": "2026-06-22T13:25:25.150Z"
 }

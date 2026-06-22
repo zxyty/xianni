@@ -13,3 +13,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-22T12:48:22.516Z** `ingest` plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi — 恒岳派与玄道宗交流比试（第49-54章） · kind=plot asOf=2026-06-22 entities=50 relations=75 src=00049-00054.md
 - **2026-06-22T12:57:09.193Z** `ingest` plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion — 仙逆 第55-60章：恒岳派被玄道宗吞并、王林归乡探亲与二度闭关四年 · kind=plot asOf=2026-06-22 entities=48 relations=53 src=00055-00060.md
 - **2026-06-22T13:06:00.205Z** `ingest` plot.xianni-ch61-66-strange-sword-baizhan — 仙逆 第61-66章：古怪飞剑·白展之死·张虎重逢 · kind=plot asOf=2026-06-22 entities=37 relations=43 src=00061-00066.md
+- **2026-06-22T13:25:25.158Z** `ingest` plot.xianni-ch67-71-tengli-chase-lanxianteng — 仙逆 第67-71章 夺基（二·三）：藤厉追杀与蛮荒丛林蓝线藤 · kind=plot asOf=2026-06-22 entities=39 relations=52 src=00067-00071.md

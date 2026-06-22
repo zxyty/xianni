@@ -10,12 +10,13 @@
   "attributes": {
     "身份": "恒岳派记名弟子（砍柴）、恒岳派记名弟子、恒岳派弟子、恒岳派后山管事师兄、恒岳派内门弟子、白展弟子",
     "性格": "严厉、护短秉公",
-    "标志特征": "嗜睡",
+    "标志特征": "联合外人杀师",
     "阵营": "与王林同行",
     "称号": "大当家",
     "小阶段": "凝气期第三层",
     "出身地": "恒岳派记名弟子",
-    "存殁": "存活"
+    "存殁": "生死不明",
+    "性别": "男"
   },
   "observations": {
     "身份": [
@@ -72,6 +73,11 @@
         "value": "嗜睡",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
+      },
+      {
+        "value": "联合外人杀师",
+        "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
+        "seq": 67
       }
     ],
     "阵营": [
@@ -123,6 +129,19 @@
         "value": "存活",
         "docId": "plot.xianni-ch61-66-strange-sword-baizhan",
         "seq": 61
+      },
+      {
+        "value": "生死不明",
+        "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
+        "seq": 67,
+        "note": "本章仅被王林挂念"
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
+        "seq": 67
       }
     ]
   },
@@ -142,9 +161,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+      "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
       "dated": false,
-      "seq": 13
+      "seq": 67
     },
     "阵营": {
       "asOf": null,
@@ -172,9 +191,16 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch61-66-strange-sword-baizhan",
+      "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
       "dated": false,
-      "seq": 61
+      "seq": 67,
+      "note": "本章仅被王林挂念"
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
+      "dated": false,
+      "seq": 67
     }
   },
   "contested": false,
@@ -185,7 +211,8 @@
     "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
     "plot.xianni-ch31-36-xueshui-jiaoyi",
     "plot.xianni-ch37-42-sinian-guangban",
-    "plot.xianni-ch61-66-strange-sword-baizhan"
+    "plot.xianni-ch61-66-strange-sword-baizhan",
+    "plot.xianni-ch67-71-tengli-chase-lanxianteng"
   ],
-  "updatedAt": "2026-06-22T13:06:00.186Z"
+  "updatedAt": "2026-06-22T13:25:25.142Z"
 }
