@@ -4,12 +4,13 @@
   "name": "梦境空间",
   "aliases": [
     "石珠梦境",
-    "无边无际的梦境空间"
+    "无边无际的梦境空间",
+    "梦境"
   ],
   "summary": "石珠现第十朵云后开启的异度空间，无日月星辰、四周布满发光体；时间流速为现实十倍，内无灵气，仅凡物可带入，梦中锻炼成果能带回现实。",
   "attributes": {
-    "类型": "石珠开启的异度梦境/修炼空间",
-    "特产": "十倍时间流速、空间内无灵气、仅无灵气凡物可带入、梦中锻炼成果带回现实",
+    "类型": "石珠开启的异度梦境/修炼空间、珠内异空间、石珠衍生梦境",
+    "特产": "十倍时间流速、空间内无灵气、仅无灵气凡物可带入、梦中锻炼成果带回现实、加速修炼",
     "危险度": "灵气暴涨可致体内崩溃"
   },
   "observations": {
@@ -18,6 +19,16 @@
         "value": "石珠开启的异度梦境/修炼空间",
         "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
         "seq": 19
+      },
+      {
+        "value": "珠内异空间",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
+      },
+      {
+        "value": "石珠衍生梦境",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
       }
     ],
     "特产": [
@@ -40,6 +51,11 @@
         "value": "梦中锻炼成果带回现实",
         "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
         "seq": 19
+      },
+      {
+        "value": "加速修炼",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
       }
     ],
     "危险度": [
@@ -76,7 +92,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling"
+    "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+    "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu"
   ],
-  "updatedAt": "2026-06-22T11:33:50.331Z"
+  "updatedAt": "2026-06-22T11:42:21.264Z"
 }

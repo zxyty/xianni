@@ -2,13 +2,15 @@
   "id": "ent.technique.x-7163f1d9",
   "type": "technique",
   "name": "凝气三篇",
-  "aliases": [],
+  "aliases": [
+    "凝气篇"
+  ],
   "summary": "恒岳派内门弟子基础功法，讲凝气期前三层心法；以'一长短三'呼吸法吐纳天地灵气入体。",
   "attributes": {
     "品阶": "基础功法",
     "出处": "恒岳派",
-    "效果": "吐纳天地灵气、积灵改凡体",
-    "适用境界": "凝气期（前三层）",
+    "效果": "吐纳天地灵气、积灵改凡体、记载凝气各层心法与开启口诀及三种基础法术、凝气期修炼/记载神识",
+    "适用境界": "凝气期",
     "修炼条件": "灵根天资",
     "外显异象": "灵气入体时如蚁虫爬动"
   },
@@ -32,6 +34,16 @@
         "value": "吐纳天地灵气、积灵改凡体",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
+      },
+      {
+        "value": "记载凝气各层心法与开启口诀及三种基础法术",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
+      },
+      {
+        "value": "凝气期修炼/记载神识",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
       }
     ],
     "适用境界": [
@@ -39,6 +51,11 @@
         "value": "凝气期（前三层）",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
+      },
+      {
+        "value": "凝气期",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
       }
     ],
     "修炼条件": [
@@ -78,9 +95,9 @@
     },
     "适用境界": {
       "asOf": null,
-      "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+      "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
       "dated": false,
-      "seq": 13
+      "seq": 25
     },
     "修炼条件": {
       "asOf": null,
@@ -98,7 +115,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly"
+    "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+    "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu"
   ],
-  "updatedAt": "2026-06-22T11:25:57.791Z"
+  "updatedAt": "2026-06-22T11:42:21.265Z"
 }

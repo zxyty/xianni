@@ -10,10 +10,13 @@
   ],
   "summary": "已获修炼资格的黄衣记名弟子，负责安排记名弟子杂务，刻薄刁难王林。",
   "attributes": {
-    "身份": "恒岳派记名弟子(杂务处负责)",
+    "身份": "黄衣记名弟子、恒岳派记名弟子(杂务处负责)、恒岳派记名弟子杂务处管事、记名弟子",
     "性格": "市侩势利",
     "外貌": "尖嘴猴腮黄鼠狼脸",
-    "阵营": "恒岳派"
+    "阵营": "恒岳派",
+    "存殁": "死亡、失踪",
+    "死因": "被张虎用砍柴斧砸碎头颅",
+    "结局": "尸体被王林收入储物袋丢入山涧灭迹"
   },
   "observations": {
     "身份": [
@@ -27,6 +30,16 @@
         "value": "恒岳派记名弟子(杂务处负责)",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
+      },
+      {
+        "value": "恒岳派记名弟子杂务处管事",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
+      },
+      {
+        "value": "记名弟子",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
       }
     ],
     "性格": [
@@ -54,15 +67,43 @@
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
+      },
+      {
+        "value": "失踪",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25,
+        "note": "王林称其下山，去向不明"
+      }
+    ],
+    "死因": [
+      {
+        "value": "被张虎用砍柴斧砸碎头颅",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
+      }
+    ],
+    "结局": [
+      {
+        "value": "尸体被王林收入储物袋丢入山涧灭迹",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
+      }
     ]
   },
   "firstSeq": 7,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+      "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
       "dated": false,
-      "seq": 13
+      "seq": 7,
+      "note": "已获修炼仙法资格，管杂务"
     },
     "性格": {
       "asOf": null,
@@ -81,13 +122,32 @@
       "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
       "dated": false,
       "seq": 13
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+      "dated": false,
+      "seq": 25
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+      "dated": false,
+      "seq": 25
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+      "dated": false,
+      "seq": 25
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch07-12-liushu-rumen-shizhu",
-    "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly"
+    "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+    "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu"
   ],
-  "updatedAt": "2026-06-22T11:25:57.785Z"
+  "updatedAt": "2026-06-22T11:42:21.259Z"
 }

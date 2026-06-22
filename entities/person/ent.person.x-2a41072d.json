@@ -5,14 +5,19 @@
   "aliases": [
     "张师弟",
     "白衣青年",
-    "张姓弟子"
+    "张姓弟子",
+    "黑衣青年"
   ],
   "summary": "接送王家三少年往返恒岳派的白衣修士。",
   "attributes": {
     "性别": "男",
-    "身份": "恒岳派弟子(正院当值)",
+    "身份": "内门弟子",
     "阵营": "恒岳派",
-    "外貌": "白衣、白衣青年"
+    "外貌": "白衣、白衣青年、二十七八岁黑衣青年、神态冷淡",
+    "存殁": "在世",
+    "小阶段": "凝气期第五层",
+    "称号": "黑衣",
+    "本命法宝": "晶莹剔透小飞剑"
   },
   "observations": {
     "性别": [
@@ -32,6 +37,11 @@
         "value": "恒岳派弟子(正院当值)",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
+      },
+      {
+        "value": "内门弟子",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
       }
     ],
     "阵营": [
@@ -51,6 +61,41 @@
         "value": "白衣青年",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
+      },
+      {
+        "value": "二十七八岁黑衣青年、神态冷淡",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
+      }
+    ],
+    "存殁": [
+      {
+        "value": "在世",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "凝气期第五层",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25
+      }
+    ],
+    "称号": [
+      {
+        "value": "黑衣",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25,
+        "note": "月前由白衣荣升"
+      }
+    ],
+    "本命法宝": [
+      {
+        "value": "晶莹剔透小飞剑",
+        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+        "seq": 25,
+        "note": "御剑化长虹"
       }
     ]
   },
@@ -64,9 +109,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+      "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
       "dated": false,
-      "seq": 13
+      "seq": 25
     },
     "阵营": {
       "asOf": null,
@@ -79,6 +124,32 @@
       "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
       "dated": false,
       "seq": 13
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+      "dated": false,
+      "seq": 25
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+      "dated": false,
+      "seq": 25
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+      "dated": false,
+      "seq": 25,
+      "note": "月前由白衣荣升"
+    },
+    "本命法宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
+      "dated": false,
+      "seq": 25,
+      "note": "御剑化长虹"
     }
   },
   "contested": false,
@@ -86,7 +157,8 @@
   "docs": [
     "plot.xianni-c01-06-wanglin-lixiang-celue-shibai",
     "plot.xianni-ch07-12-liushu-rumen-shizhu",
-    "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly"
+    "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+    "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu"
   ],
-  "updatedAt": "2026-06-22T11:25:57.785Z"
+  "updatedAt": "2026-06-22T11:42:21.258Z"
 }
