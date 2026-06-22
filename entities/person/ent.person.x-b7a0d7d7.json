@@ -8,12 +8,13 @@
   ],
   "summary": "恒岳派长老，居正院药园种植草药，发放探亲千里符。",
   "attributes": {
-    "身份": "恒岳派长老、恒岳派二代弟子、恒岳派二代弟子（末流）",
+    "身份": "恒岳派长老、恒岳派二代弟子、恒岳派二代弟子（末流）、恒岳派记名弟子杂务处长老、恒岳派长老/师叔",
     "阵营": "恒岳派",
     "标志特征": "脚踏七彩祥云",
     "称号": "孙长老、孙师叔",
-    "性格": "贪婪、伪善、阴狠",
-    "外貌": "满脸皱纹、目光明亮、神情冷淡的老者"
+    "性格": "贪婪、心计、易怒",
+    "外貌": "满脸皱纹、目光明亮、神情冷淡的老者",
+    "小阶段": "凝气第五层"
   },
   "observations": {
     "身份": [
@@ -32,6 +33,16 @@
         "value": "恒岳派二代弟子（末流）",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
+      },
+      {
+        "value": "恒岳派记名弟子杂务处长老",
+        "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+        "seq": 19
+      },
+      {
+        "value": "恒岳派长老/师叔",
+        "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+        "seq": 19
       }
     ],
     "阵营": [
@@ -65,6 +76,11 @@
         "value": "贪婪、伪善、阴狠",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
+      },
+      {
+        "value": "贪婪、心计、易怒",
+        "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+        "seq": 19
       }
     ],
     "外貌": [
@@ -72,6 +88,13 @@
         "value": "满脸皱纹、目光明亮、神情冷淡的老者",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "凝气第五层",
+        "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+        "seq": 19
       }
     ]
   },
@@ -104,22 +127,29 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+      "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
       "dated": false,
-      "seq": 13
+      "seq": 19
     },
     "外貌": {
       "asOf": null,
       "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
       "dated": false,
       "seq": 13
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+      "dated": false,
+      "seq": 19
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch07-12-liushu-rumen-shizhu",
-    "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly"
+    "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+    "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling"
   ],
-  "updatedAt": "2026-06-22T11:25:57.784Z"
+  "updatedAt": "2026-06-22T11:33:50.334Z"
 }

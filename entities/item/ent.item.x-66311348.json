@@ -4,12 +4,15 @@
   "name": "葫芦",
   "aliases": [
     "泉水葫芦",
-    "探亲泉水葫芦"
+    "探亲泉水葫芦",
+    "三葫芦露水",
+    "露水葫芦",
+    "野葫芦"
   ],
   "summary": "装泉水的葫芦，经石珠浸泡后泉水灵气充沛、凡人饮之精神焕发；孙大柱误以为葫芦本身珍贵而觊觎。",
   "attributes": {
-    "类型": "容器",
-    "用途": "盛装经石珠浸泡的灵气泉水"
+    "类型": "容器、盛水葫芦、凡物容器",
+    "用途": "盛装经石珠浸泡的灵气泉水、盛装石珠浸泡之泉水露水、盛装露水、灵气泉水"
   },
   "observations": {
     "类型": [
@@ -17,6 +20,16 @@
         "value": "容器",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
+      },
+      {
+        "value": "盛水葫芦",
+        "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+        "seq": 19
+      },
+      {
+        "value": "凡物容器",
+        "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+        "seq": 19
       }
     ],
     "用途": [
@@ -24,6 +37,16 @@
         "value": "盛装经石珠浸泡的灵气泉水",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
+      },
+      {
+        "value": "盛装石珠浸泡之泉水露水",
+        "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+        "seq": 19
+      },
+      {
+        "value": "盛装露水、灵气泉水",
+        "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+        "seq": 19
       }
     ]
   },
@@ -45,7 +68,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly"
+    "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+    "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling"
   ],
-  "updatedAt": "2026-06-22T11:25:57.792Z"
+  "updatedAt": "2026-06-22T11:33:50.331Z"
 }

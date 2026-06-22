@@ -2,11 +2,13 @@
   "id": "ent.place.x-ca20ebf0",
   "type": "place",
   "name": "正院",
-  "aliases": [],
+  "aliases": [
+    "恒岳派正院"
+  ],
   "summary": "恒岳派正院，孙长老所在、由白衣青年当值接待。",
   "attributes": {
     "所属势力": "恒岳派",
-    "类型": "院落"
+    "类型": "门派主院"
   },
   "observations": {
     "所属势力": [
@@ -21,6 +23,11 @@
         "value": "院落",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
+      },
+      {
+        "value": "门派主院",
+        "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+        "seq": 19
       }
     ]
   },
@@ -34,15 +41,16 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+      "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
       "dated": false,
-      "seq": 13
+      "seq": 19
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly"
+    "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+    "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling"
   ],
-  "updatedAt": "2026-06-22T11:25:57.782Z"
+  "updatedAt": "2026-06-22T11:33:50.317Z"
 }
