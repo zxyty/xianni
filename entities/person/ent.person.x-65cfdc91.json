@@ -3,16 +3,19 @@
   "type": "person",
   "name": "张虎",
   "aliases": [
-    "张师兄"
+    "张师兄",
+    "冷峻青年"
   ],
   "summary": "恒岳派记名弟子，砍柴杂务已三年，与王林同屋结交。",
   "attributes": {
-    "身份": "恒岳派记名弟子（砍柴）、恒岳派记名弟子、恒岳派弟子、恒岳派后山管事师兄、恒岳派内门弟子",
+    "身份": "恒岳派记名弟子（砍柴）、恒岳派记名弟子、恒岳派弟子、恒岳派后山管事师兄、恒岳派内门弟子、白展弟子",
     "性格": "严厉、护短秉公",
     "标志特征": "嗜睡",
-    "阵营": "恒岳派记名弟子",
-    "称号": "内门大比第一",
-    "小阶段": "凝气期第六层"
+    "阵营": "与王林同行",
+    "称号": "大当家",
+    "小阶段": "凝气期第三层",
+    "出身地": "恒岳派记名弟子",
+    "存殁": "存活"
   },
   "observations": {
     "身份": [
@@ -40,6 +43,11 @@
         "value": "恒岳派内门弟子",
         "docId": "plot.xianni-ch37-42-sinian-guangban",
         "seq": 37
+      },
+      {
+        "value": "白展弟子",
+        "docId": "plot.xianni-ch61-66-strange-sword-baizhan",
+        "seq": 61
       }
     ],
     "性格": [
@@ -71,6 +79,11 @@
         "value": "恒岳派记名弟子",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
+      },
+      {
+        "value": "与王林同行",
+        "docId": "plot.xianni-ch61-66-strange-sword-baizhan",
+        "seq": 61
       }
     ],
     "称号": [
@@ -79,6 +92,11 @@
         "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
         "seq": 31,
         "note": "因无紫衣弟子参加"
+      },
+      {
+        "value": "大当家",
+        "docId": "plot.xianni-ch61-66-strange-sword-baizhan",
+        "seq": 61
       }
     ],
     "小阶段": [
@@ -86,6 +104,25 @@
         "value": "凝气期第六层",
         "docId": "plot.xianni-ch37-42-sinian-guangban",
         "seq": 37
+      },
+      {
+        "value": "凝气期第三层",
+        "docId": "plot.xianni-ch61-66-strange-sword-baizhan",
+        "seq": 61
+      }
+    ],
+    "出身地": [
+      {
+        "value": "恒岳派记名弟子",
+        "docId": "plot.xianni-ch61-66-strange-sword-baizhan",
+        "seq": 61
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch61-66-strange-sword-baizhan",
+        "seq": 61
       }
     ]
   },
@@ -111,22 +148,33 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+      "docId": "plot.xianni-ch61-66-strange-sword-baizhan",
       "dated": false,
-      "seq": 13
+      "seq": 61
     },
     "称号": {
       "asOf": null,
-      "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
+      "docId": "plot.xianni-ch61-66-strange-sword-baizhan",
       "dated": false,
-      "seq": 31,
-      "note": "因无紫衣弟子参加"
+      "seq": 61
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch37-42-sinian-guangban",
+      "docId": "plot.xianni-ch61-66-strange-sword-baizhan",
       "dated": false,
-      "seq": 37
+      "seq": 61
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch61-66-strange-sword-baizhan",
+      "dated": false,
+      "seq": 61
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch61-66-strange-sword-baizhan",
+      "dated": false,
+      "seq": 61
     }
   },
   "contested": false,
@@ -136,7 +184,8 @@
     "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
     "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
     "plot.xianni-ch31-36-xueshui-jiaoyi",
-    "plot.xianni-ch37-42-sinian-guangban"
+    "plot.xianni-ch37-42-sinian-guangban",
+    "plot.xianni-ch61-66-strange-sword-baizhan"
   ],
-  "updatedAt": "2026-06-22T12:17:35.998Z"
+  "updatedAt": "2026-06-22T13:06:00.186Z"
 }

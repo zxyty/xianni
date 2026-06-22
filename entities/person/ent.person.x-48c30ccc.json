@@ -10,7 +10,10 @@
   "summary": "枯瘦如柴老者，率数十黑衣人围攻威武镖局索要五百年人参，恭迎自称仙人的大当家。",
   "attributes": {
     "外貌": "枯瘦如柴",
-    "阵营": "黑衣人/绿林劫匪"
+    "阵营": "黑衣人/绿林劫匪",
+    "身份": "黑衣众",
+    "存殁": "死亡",
+    "死因": "被张虎火球焚杀（第78章）"
   },
   "observations": {
     "外貌": [
@@ -25,6 +28,27 @@
         "value": "黑衣人/绿林劫匪",
         "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
         "seq": 55
+      }
+    ],
+    "身份": [
+      {
+        "value": "黑衣众",
+        "docId": "plot.xianni-ch61-66-strange-sword-baizhan",
+        "seq": 61
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch61-66-strange-sword-baizhan",
+        "seq": 61
+      }
+    ],
+    "死因": [
+      {
+        "value": "被张虎火球焚杀（第78章）",
+        "docId": "plot.xianni-ch61-66-strange-sword-baizhan",
+        "seq": 61
       }
     ]
   },
@@ -41,12 +65,31 @@
       "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
       "dated": false,
       "seq": 55
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch61-66-strange-sword-baizhan",
+      "dated": false,
+      "seq": 61
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch61-66-strange-sword-baizhan",
+      "dated": false,
+      "seq": 61
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch61-66-strange-sword-baizhan",
+      "dated": false,
+      "seq": 61
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion"
+    "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
+    "plot.xianni-ch61-66-strange-sword-baizhan"
   ],
-  "updatedAt": "2026-06-22T12:57:09.182Z"
+  "updatedAt": "2026-06-22T13:06:00.173Z"
 }
