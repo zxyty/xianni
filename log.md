@@ -9,3 +9,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-22T11:42:21.272Z** `ingest` plot.xianni-ch25-30-ningqi-first-layer-and-xianfu — 《仙逆》第25-30章 王林踏入凝气第一层、张虎弑刘师兄与神秘仙符 · kind=plot asOf=2026-06-22 entities=25 relations=39 src=00025-00030.md
 - **2026-06-22T12:00:36.636Z** `ingest` plot.xianni-ch31-36-xueshui-jiaoyi — 仙逆 第31-36章：雪水与内门交易会前夜 · kind=plot asOf=2026-06-22 entities=40 relations=64 src=00031-00036.md
 - **2026-06-22T12:17:36.044Z** `ingest` plot.xianni-ch37-42-sinian-guangban — 仙逆 第37-42章：后山闭关四年、凝气瓶颈论与引力术初显威 · kind=plot asOf=2026-06-22 entities=42 relations=58 src=00037-00042.md
+- **2026-06-22T12:30:04.337Z** `ingest` plot.xianni-ch43-48-lishan-pilidan-shenshi — 仙逆 第43-48章：李山贩卖霹雳弹与王林神识留印的启发 · kind=plot asOf=2026-06-22 entities=45 relations=58 src=00043-00048.md
