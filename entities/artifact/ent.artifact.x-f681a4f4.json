@@ -7,14 +7,17 @@
     "灰色石珠",
     "六朵云石珠",
     "七朵云石珠",
-    "神秘珠子"
+    "神秘珠子",
+    "九朵云石珠",
+    "十云石珠"
   ],
   "summary": "灰色刻五朵白云的神秘珠子，夜晚清晨表面凝出可疗伤强身的露水，并会自行吸收露水，疑致草木枯萎；王林视为命根隐藏。",
   "attributes": {
     "持有者": "王林",
-    "能力": "所生露水疗伤消肿、强身增力、吸收露水/水汽、吸收水分/雨露/泉水/人体水汽、浸泡之水露具滋养之效、浸泡凡水化为灵气充沛之水、可助炼丹",
-    "外形": "婴儿拳头大灰色石珠，刻五朵白云、刻白云图案的灰色石珠(云朵数递增)、灰色石珠",
-    "来历": "藏于被风眼撞死的飞鸟尸内、王林所得神秘宝物、王林遍寻大半山峰所得"
+    "能力": "所生露水疗伤消肿、强身增力、吸收露水/水汽、吸收水分/雨露/泉水/人体水汽、浸泡之水露具滋养之效、浸泡凡水化为灵气充沛之水、可助炼丹、吸收水分增生云朵、浸泡泉水增灵气、吸纳灵气液体（露水/灵气泉水）增生云朵、现第十朵云后开启十倍时间梦境空间、盯视可催眠入梦",
+    "外形": "婴儿拳头大灰色石珠，刻五朵白云、刻白云图案的灰色石珠(云朵数递增)、灰色石珠、表面九朵云、仅余指甲盖大小空位、灰色石珠，表面浮现云朵，十云后浮现歪扭数字小字",
+    "来历": "藏于被风眼撞死的飞鸟尸内、王林所得神秘宝物、王林遍寻大半山峰所得",
+    "禁制": "坚不可摧，砸打、滴血、咬均无损"
   },
   "observations": {
     "持有者": [
@@ -54,6 +57,26 @@
         "value": "浸泡凡水化为灵气充沛之水、可助炼丹",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
+      },
+      {
+        "value": "吸收水分增生云朵、浸泡泉水增灵气",
+        "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+        "seq": 19
+      },
+      {
+        "value": "吸纳灵气液体（露水/灵气泉水）增生云朵",
+        "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+        "seq": 19
+      },
+      {
+        "value": "现第十朵云后开启十倍时间梦境空间",
+        "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+        "seq": 19
+      },
+      {
+        "value": "盯视可催眠入梦",
+        "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+        "seq": 19
       }
     ],
     "外形": [
@@ -71,6 +94,17 @@
         "value": "灰色石珠",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
+      },
+      {
+        "value": "表面九朵云、仅余指甲盖大小空位",
+        "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+        "seq": 19,
+        "note": "第十九至二十章吸湿气由七朵增至九朵"
+      },
+      {
+        "value": "灰色石珠，表面浮现云朵，十云后浮现歪扭数字小字",
+        "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+        "seq": 19
       }
     ],
     "来历": [
@@ -88,6 +122,13 @@
         "value": "王林遍寻大半山峰所得",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
+      }
+    ],
+    "禁制": [
+      {
+        "value": "坚不可摧，砸打、滴血、咬均无损",
+        "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+        "seq": 19
       }
     ]
   },
@@ -116,13 +157,20 @@
       "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
       "dated": false,
       "seq": 7
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+      "dated": false,
+      "seq": 19
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch07-12-liushu-rumen-shizhu",
-    "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly"
+    "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+    "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling"
   ],
-  "updatedAt": "2026-06-22T11:25:57.791Z"
+  "updatedAt": "2026-06-22T11:33:50.330Z"
 }

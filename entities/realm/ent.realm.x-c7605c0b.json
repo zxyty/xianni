@@ -2,11 +2,14 @@
   "id": "ent.realm.x-c7605c0b",
   "type": "realm",
   "name": "凝气期",
-  "aliases": [],
+  "aliases": [
+    "凝气期第一层",
+    "凝气第一层"
+  ],
   "summary": "修仙基础境界，共十五层，吐纳天地灵气积灵入体、改造凡体，为筑基打基础；修至三层方得后续心法。",
   "attributes": {
-    "小阶段": "十五层",
-    "突破关键": "修至三层得后续心法、灵根天资充足",
+    "小阶段": "第一层",
+    "突破关键": "引灵入体、凝聚灵气",
     "突破征兆": "灵气入体如蚁虫爬动感",
     "下一境": "筑基期"
   },
@@ -16,6 +19,11 @@
         "value": "十五层",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
+      },
+      {
+        "value": "第一层",
+        "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+        "seq": 19
       }
     ],
     "突破关键": [
@@ -23,6 +31,11 @@
         "value": "修至三层得后续心法、灵根天资充足",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
+      },
+      {
+        "value": "引灵入体、凝聚灵气",
+        "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+        "seq": 19
       }
     ],
     "突破征兆": [
@@ -44,15 +57,15 @@
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+      "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
       "dated": false,
-      "seq": 13
+      "seq": 19
     },
     "突破关键": {
       "asOf": null,
-      "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+      "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
       "dated": false,
-      "seq": 13
+      "seq": 19
     },
     "突破征兆": {
       "asOf": null,
@@ -70,7 +83,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly"
+    "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+    "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling"
   ],
-  "updatedAt": "2026-06-22T11:25:57.790Z"
+  "updatedAt": "2026-06-22T11:33:50.336Z"
 }

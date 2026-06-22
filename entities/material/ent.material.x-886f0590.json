@@ -3,12 +3,13 @@
   "type": "material",
   "name": "下品灵石",
   "aliases": [
-    "灵石"
+    "灵石",
+    "下品灵石碎片"
   ],
   "summary": "修仙资源，孙大柱以一块下品灵石作为'再交一个灵气葫芦'的诱饵；有助凝气修炼。",
   "attributes": {
-    "类型": "灵石",
-    "用途": "助凝气修炼"
+    "类型": "灵石、修炼资源、修炼辅助灵石",
+    "用途": "修炼/兑换"
   },
   "observations": {
     "类型": [
@@ -16,6 +17,16 @@
         "value": "灵石",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
+      },
+      {
+        "value": "修炼资源",
+        "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+        "seq": 19
+      },
+      {
+        "value": "修炼辅助灵石",
+        "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+        "seq": 19
       }
     ],
     "用途": [
@@ -23,6 +34,11 @@
         "value": "助凝气修炼",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
+      },
+      {
+        "value": "修炼/兑换",
+        "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+        "seq": 19
       }
     ]
   },
@@ -36,15 +52,16 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+      "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
       "dated": false,
-      "seq": 13
+      "seq": 19
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly"
+    "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
+    "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling"
   ],
-  "updatedAt": "2026-06-22T11:25:57.793Z"
+  "updatedAt": "2026-06-22T11:33:50.332Z"
 }
