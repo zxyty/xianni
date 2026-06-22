@@ -15,3 +15,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-22T13:06:00.205Z** `ingest` plot.xianni-ch61-66-strange-sword-baizhan — 仙逆 第61-66章：古怪飞剑·白展之死·张虎重逢 · kind=plot asOf=2026-06-22 entities=37 relations=43 src=00061-00066.md
 - **2026-06-22T13:25:25.158Z** `ingest` plot.xianni-ch67-71-tengli-chase-lanxianteng — 仙逆 第67-71章 夺基（二·三）：藤厉追杀与蛮荒丛林蓝线藤 · kind=plot asOf=2026-06-22 entities=39 relations=52 src=00067-00071.md
 - **2026-06-22T13:37:13.458Z** `ingest` lore.huangquan-shengqiao-jue-jiyin-zhidi — 黄泉升窍决与极阴之地体系（第87章） · kind=lore asOf=2026-06-22 entities=28 relations=34 src=00072-00075.md
+- **2026-06-22T13:56:11.139Z** `ingest` plot.xianni-ch091-jiyin-lingli — 仙逆 第91章·极阴灵力（古城废墟巨坑冲窍） · kind=plot asOf=2026-06-22 entities=45 relations=57 src=00076-00079.md

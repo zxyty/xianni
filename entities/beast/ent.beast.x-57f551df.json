@@ -4,15 +4,17 @@
   "name": "尸魅",
   "aliases": [
     "腐尸",
-    "怪物"
+    "怪物",
+    "臭味尸魅"
   ],
   "summary": "生前为四级修真国魔道中人，死前施秘法幻化成的初具智慧尸魅，体内炼有一枚绿丹，被藤厉雷球重创后吐绿丹自爆。",
   "attributes": {
-    "种族": "尸魅",
+    "种族": "尸属",
     "等级": "初具智慧",
-    "能力": "指尖绿芒、凝影警告、吐绿丹自爆、吞噬法器",
+    "能力": "指尖绿芒、凝影警告、吐绿丹自爆、吞噬法器、与主人本体存在微妙感应、枯茫丛林阴寒之气中修出神智",
     "天敌": "雷球（先天克制死物）",
-    "栖息地": "丛林地面裂痕"
+    "栖息地": "丛林地面裂痕",
+    "外形": "黑色身影、散发臭味，目露贪婪"
   },
   "observations": {
     "种族": [
@@ -20,6 +22,11 @@
         "value": "尸魅",
         "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
         "seq": 67
+      },
+      {
+        "value": "尸属",
+        "docId": "plot.xianni-ch091-jiyin-lingli",
+        "seq": 76
       }
     ],
     "等级": [
@@ -49,6 +56,16 @@
         "value": "吞噬法器",
         "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
         "seq": 67
+      },
+      {
+        "value": "与主人本体存在微妙感应",
+        "docId": "plot.xianni-ch091-jiyin-lingli",
+        "seq": 76
+      },
+      {
+        "value": "枯茫丛林阴寒之气中修出神智",
+        "docId": "plot.xianni-ch091-jiyin-lingli",
+        "seq": 76
       }
     ],
     "天敌": [
@@ -64,15 +81,27 @@
         "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
         "seq": 67
       }
+    ],
+    "外形": [
+      {
+        "value": "黑色身影",
+        "docId": "plot.xianni-ch091-jiyin-lingli",
+        "seq": 76
+      },
+      {
+        "value": "散发臭味，目露贪婪",
+        "docId": "plot.xianni-ch091-jiyin-lingli",
+        "seq": 76
+      }
     ]
   },
   "firstSeq": 67,
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
+      "docId": "plot.xianni-ch091-jiyin-lingli",
       "dated": false,
-      "seq": 67
+      "seq": 76
     },
     "等级": {
       "asOf": null,
@@ -97,12 +126,19 @@
       "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
       "dated": false,
       "seq": 67
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.xianni-ch091-jiyin-lingli",
+      "dated": false,
+      "seq": 76
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch67-71-tengli-chase-lanxianteng"
+    "plot.xianni-ch67-71-tengli-chase-lanxianteng",
+    "plot.xianni-ch091-jiyin-lingli"
   ],
-  "updatedAt": "2026-06-22T13:25:25.134Z"
+  "updatedAt": "2026-06-22T13:56:11.112Z"
 }
