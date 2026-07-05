@@ -3,12 +3,13 @@
   "type": "item",
   "name": "黄泉寒丹",
   "aliases": [
-    "寒丹"
+    "寒丹",
+    "蓝色寒丹"
   ],
   "summary": "修炼黄泉升窍决冲窍时于体内凝结的丹，每三层一枚，共三枚，融合可冲结丹期。",
   "attributes": {
-    "类型": "体内凝结之丹、丹田内寒丹",
-    "用途": "三枚融合有几率直升结丹期、黄泉升窍决核心，转化阴寒灵力"
+    "类型": "体内凝结之丹、丹田内寒丹、内丹(代金丹)",
+    "用途": "三枚融合有几率直升结丹期、黄泉升窍决核心，转化阴寒灵力、祭炼法宝，逼出并炼化剑鞘阵法"
   },
   "observations": {
     "类型": [
@@ -21,6 +22,11 @@
         "value": "丹田内寒丹",
         "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
         "seq": 72
+      },
+      {
+        "value": "内丹(代金丹)",
+        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+        "seq": 85
       }
     ],
     "用途": [
@@ -33,6 +39,11 @@
         "value": "黄泉升窍决核心，转化阴寒灵力",
         "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
         "seq": 72
+      },
+      {
+        "value": "祭炼法宝，逼出并炼化剑鞘阵法",
+        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+        "seq": 85
       }
     ]
   },
@@ -54,7 +65,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.huangquan-shengqiao-jue-jiyin-zhidi"
+    "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+    "plot.xianni-ch85-89-jilian-jianqiao"
   ],
-  "updatedAt": "2026-06-22T13:37:13.444Z"
+  "updatedAt": "2026-07-05T03:01:33.208Z"
 }

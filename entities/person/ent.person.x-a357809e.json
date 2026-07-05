@@ -7,17 +7,21 @@
     "夜始祖",
     "夜前辈",
     "夜自在始祖",
-    "吴宇师弟"
+    "吴宇师弟",
+    "尸阴宗宗主",
+    "尸阴宗夜自在"
   ],
   "summary": "吴宇的师兄，尸阴宗修士；吴宇托王林前往尸阴宗寻其相救。",
   "attributes": {
-    "身份": "尸阴宗修士、尸阴宗始祖、神识体",
+    "身份": "尸阴宗修士、尸阴宗始祖、神识体、尸阴宗宗主",
     "小阶段": "元婴期",
     "外貌": "四十许岁英俊中年人",
     "本命法宝": "蓝炎魔火",
     "存殁": "存活、存",
-    "阵营": "尸阴宗",
-    "性格": "阴沉护短"
+    "阵营": "尸阴宗、魔道、魔道·尸阴宗",
+    "性格": "阴沉护短",
+    "标志特征": "体内有沙哑声音的前辈(欲吞噬朴南子)",
+    "寿元": "不足三个月"
   },
   "observations": {
     "身份": [
@@ -36,6 +40,11 @@
         "value": "神识体",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
+      },
+      {
+        "value": "尸阴宗宗主",
+        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+        "seq": 85
       }
     ],
     "小阶段": [
@@ -78,6 +87,16 @@
         "value": "尸阴宗",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
+      },
+      {
+        "value": "魔道",
+        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+        "seq": 85
+      },
+      {
+        "value": "魔道·尸阴宗",
+        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+        "seq": 85
       }
     ],
     "性格": [
@@ -85,6 +104,21 @@
         "value": "阴沉护短",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "体内有沙哑声音的前辈(欲吞噬朴南子)",
+        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+        "seq": 85
+      }
+    ],
+    "寿元": [
+      {
+        "value": "不足三个月",
+        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+        "seq": 85,
+        "note": "域外战场开启之日即被吞噬"
       }
     ]
   },
@@ -133,13 +167,27 @@
       "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
       "dated": false,
       "seq": 80
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+      "dated": false,
+      "seq": 85
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+      "dated": false,
+      "seq": 85,
+      "note": "域外战场开启之日即被吞噬"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch091-jiyin-lingli",
-    "plot.xianni-ch80-84-wanglin-enters-shiyinzong"
+    "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+    "plot.xianni-ch85-89-jilian-jianqiao"
   ],
-  "updatedAt": "2026-06-22T14:15:16.991Z"
+  "updatedAt": "2026-07-05T03:01:33.215Z"
 }

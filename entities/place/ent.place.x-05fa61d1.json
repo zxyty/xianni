@@ -7,7 +7,7 @@
   ],
   "summary": "极阴之地，阴寒之气达绝阴十品（黄阴之地极限），雕像所在。",
   "attributes": {
-    "类型": "极阴丛林、废墟丛林",
+    "类型": "极阴丛林、废墟丛林、丛林",
     "特产": "阴寒之气达绝阴十品（黄阴之地极限）、黄阴品质阴寒之气",
     "危险度": "迷雾损害元婴之体"
   },
@@ -22,6 +22,11 @@
         "value": "废墟丛林",
         "docId": "plot.xianni-ch091-jiyin-lingli",
         "seq": 76
+      },
+      {
+        "value": "丛林",
+        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+        "seq": 85
       }
     ],
     "特产": [
@@ -68,7 +73,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch091-jiyin-lingli"
+    "plot.xianni-ch091-jiyin-lingli",
+    "plot.xianni-ch85-89-jilian-jianqiao"
   ],
-  "updatedAt": "2026-06-22T13:56:11.126Z"
+  "updatedAt": "2026-07-05T03:01:33.228Z"
 }

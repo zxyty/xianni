@@ -2,10 +2,13 @@
   "id": "ent.place.x-dc972e6b",
   "type": "place",
   "name": "域外战场",
-  "aliases": [],
+  "aliases": [
+    "域外战场资格赛",
+    "百年一次的域外战场"
+  ],
   "summary": "域外通道之外的厮杀战场，每百年清理一次，强者云集、生死一瞬。",
   "attributes": {
-    "类型": "战场",
+    "类型": "战场、战场/资格赛场、秘境·战场",
     "危险度": "极高",
     "所属势力": "联盟"
   },
@@ -15,6 +18,16 @@
         "value": "战场",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
+      },
+      {
+        "value": "战场/资格赛场",
+        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+        "seq": 85
+      },
+      {
+        "value": "秘境·战场",
+        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+        "seq": 85
       }
     ],
     "危险度": [
@@ -56,7 +69,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch80-84-wanglin-enters-shiyinzong"
+    "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+    "plot.xianni-ch85-89-jilian-jianqiao"
   ],
-  "updatedAt": "2026-06-22T14:15:16.981Z"
+  "updatedAt": "2026-07-05T03:01:33.229Z"
 }
