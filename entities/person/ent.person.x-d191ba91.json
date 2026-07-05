@@ -9,8 +9,10 @@
   "attributes": {
     "性别": "女",
     "身份": "战神殿弟子",
-    "外貌": "身材婀娜、美目如凤、瓜子脸",
-    "阵营": "战神殿"
+    "外貌": "珠圆玉润、姿色天然",
+    "阵营": "战神殿",
+    "小阶段": "御剑修士（结丹）",
+    "结局": "被王林种下神识痕迹，一月后发作必死"
   },
   "observations": {
     "性别": [
@@ -32,6 +34,11 @@
         "value": "身材婀娜、美目如凤、瓜子脸",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
+      },
+      {
+        "value": "珠圆玉润、姿色天然",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
       }
     ],
     "阵营": [
@@ -39,6 +46,21 @@
         "value": "战神殿",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "御剑修士（结丹）",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
+      }
+    ],
+    "结局": [
+      {
+        "value": "被王林种下神识痕迹，一月后发作必死",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119,
+        "note": "本章埋伏"
       }
     ]
   },
@@ -58,21 +80,35 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
       "dated": false,
-      "seq": 111
+      "seq": 119
     },
     "阵营": {
       "asOf": null,
       "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
       "seq": 111
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+      "dated": false,
+      "seq": 119
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+      "dated": false,
+      "seq": 119,
+      "note": "本章埋伏"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo"
+    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian"
   ],
-  "updatedAt": "2026-07-05T04:42:11.836Z"
+  "updatedAt": "2026-07-05T05:13:41.067Z"
 }

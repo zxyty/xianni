@@ -1,39 +1,19 @@
 {
-  "id": "ent.person.x-0d6659f7",
+  "id": "ent.person.x-d37462dc",
   "type": "person",
-  "name": "杨森",
+  "name": "周瑾",
   "aliases": [
-    "杨森始祖"
+    "苍发老者",
+    "苍老者"
   ],
-  "summary": "威武镖局年轻镖师，马术精湛，性浮躁，与王林投缘。",
+  "summary": "战神殿元婴初期修士，指控王林引来火兽、夺舍马良，因忌惮凤栾与杨森而罢手。",
   "attributes": {
-    "身份": "威武镖局镖师",
-    "标志特征": "云层化身、隔空破光幕",
     "性别": "男",
-    "小阶段": "元婴中期（顶峰）",
+    "小阶段": "元婴初期",
     "阵营": "战神殿",
-    "外貌": "中年文士"
+    "外貌": "苍发老者、目光阴沉"
   },
   "observations": {
-    "身份": [
-      {
-        "value": "威武镖局镖师",
-        "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
-        "seq": 55
-      }
-    ],
-    "标志特征": [
-      {
-        "value": "马术精湛",
-        "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
-        "seq": 55
-      },
-      {
-        "value": "云层化身、隔空破光幕",
-        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
-        "seq": 119
-      }
-    ],
     "性别": [
       {
         "value": "男",
@@ -43,7 +23,7 @@
     ],
     "小阶段": [
       {
-        "value": "元婴中期（顶峰）",
+        "value": "元婴初期",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
       }
@@ -57,26 +37,14 @@
     ],
     "外貌": [
       {
-        "value": "中年文士",
+        "value": "苍发老者、目光阴沉",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
       }
     ]
   },
-  "firstSeq": 55,
+  "firstSeq": 119,
   "attrProvenance": {
-    "身份": {
-      "asOf": null,
-      "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
-      "dated": false,
-      "seq": 55
-    },
-    "标志特征": {
-      "asOf": null,
-      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
-      "dated": false,
-      "seq": 119
-    },
     "性别": {
       "asOf": null,
       "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
@@ -105,8 +73,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
     "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian"
   ],
-  "updatedAt": "2026-07-05T05:13:41.069Z"
+  "updatedAt": "2026-07-05T05:13:41.070Z"
 }

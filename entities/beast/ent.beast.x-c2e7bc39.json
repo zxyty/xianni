@@ -4,14 +4,19 @@
   "name": "火兽",
   "aliases": [
     "火焰生物",
-    "三角眼火兽"
+    "三角眼火兽",
+    "火焚国火兽",
+    "火焰兽",
+    "火山巨兽"
   ],
   "summary": "火灵兽虚弱期散灵力催生的后代，成千上万栖于岩浆，擒修士供火灵兽吞噬；巨型者十六只，实力近元婴期，皆无灵魂神识。",
   "attributes": {
-    "种族": "火灵兽后代",
-    "栖息地": "火焚国地下岩浆及各火山口",
-    "能力": "土遁、吐白色炎液、以泥土溶液困修士成土球",
-    "外形": "三角眼、头生单角、全身火光；普通约三尺，巨型逾半丈"
+    "种族": "火灵兽",
+    "栖息地": "火焚国地下岩浆及各火山口、火焚国火山口、火焚国火山群祖地",
+    "能力": "土遁、吐白色炎液、以泥土溶液困修士成土球、不畏神识、肉身坚硬、喷熔液、十六兽可施联合神通、喷溶液、献祭蜕变增幅",
+    "外形": "三角眼、头生单角、全身火光；普通约三尺，巨型逾半丈、目光冰冷，不拦不攻只旁观、蜕变后十丈之躯",
+    "等级": "普通者约相当于凝气期",
+    "天敌": "重击类强力法宝"
   },
   "observations": {
     "种族": [
@@ -19,6 +24,11 @@
         "value": "火灵兽后代",
         "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
         "seq": 115
+      },
+      {
+        "value": "火灵兽",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
       }
     ],
     "栖息地": [
@@ -26,6 +36,16 @@
         "value": "火焚国地下岩浆及各火山口",
         "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
         "seq": 115
+      },
+      {
+        "value": "火焚国火山口",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
+      },
+      {
+        "value": "火焚国火山群祖地",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
       }
     ],
     "能力": [
@@ -43,6 +63,36 @@
         "value": "以泥土溶液困修士成土球",
         "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
         "seq": 115
+      },
+      {
+        "value": "不畏神识",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
+      },
+      {
+        "value": "肉身坚硬",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
+      },
+      {
+        "value": "喷熔液",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
+      },
+      {
+        "value": "十六兽可施联合神通",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
+      },
+      {
+        "value": "喷溶液",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
+      },
+      {
+        "value": "献祭蜕变增幅",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
       }
     ],
     "外形": [
@@ -50,6 +100,31 @@
         "value": "三角眼、头生单角、全身火光；普通约三尺，巨型逾半丈",
         "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
         "seq": 115
+      },
+      {
+        "value": "目光冰冷，不拦不攻只旁观",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
+      },
+      {
+        "value": "蜕变后十丈之躯",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119,
+        "note": "蜕变后"
+      }
+    ],
+    "等级": [
+      {
+        "value": "普通者约相当于凝气期",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
+      }
+    ],
+    "天敌": [
+      {
+        "value": "重击类强力法宝",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
       }
     ]
   },
@@ -57,9 +132,9 @@
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
+      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
       "dated": false,
-      "seq": 115
+      "seq": 119
     },
     "栖息地": {
       "asOf": null,
@@ -78,12 +153,25 @@
       "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
       "dated": false,
       "seq": 115
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+      "dated": false,
+      "seq": 119
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+      "dated": false,
+      "seq": 119
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch130-yuanying-huran-return-hunxue"
+    "plot.xianni-ch130-yuanying-huran-return-hunxue",
+    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian"
   ],
-  "updatedAt": "2026-07-05T04:54:28.717Z"
+  "updatedAt": "2026-07-05T05:13:41.074Z"
 }

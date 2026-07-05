@@ -1,52 +1,52 @@
 {
-  "id": "ent.faction.x-f50d3e19",
-  "type": "faction",
-  "name": "邪魔宗",
+  "id": "ent.artifact.x-e2928cd0",
+  "type": "artifact",
+  "name": "元婴级玉符",
   "aliases": [],
-  "summary": "火焚国四大宗派之一。",
+  "summary": "杨森早年炼制、已收回神识的元婴级护命法宝，赠予王林祭炼保命。",
   "attributes": {
-    "所属界面": "火焚国",
-    "阵营": "魔道",
-    "据点": "火焚国"
+    "品阶": "元婴级",
+    "持有者": "王林",
+    "外形": "玉符"
   },
   "observations": {
-    "所属界面": [
+    "品阶": [
       {
-        "value": "火焚国",
-        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
-        "seq": 111
-      }
-    ],
-    "阵营": [
-      {
-        "value": "魔道",
+        "value": "元婴级",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
       }
     ],
-    "据点": [
+    "持有者": [
       {
-        "value": "火焚国",
+        "value": "王林",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
+      }
+    ],
+    "外形": [
+      {
+        "value": "玉符",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
       }
     ]
   },
-  "firstSeq": 111,
+  "firstSeq": 119,
   "attrProvenance": {
-    "所属界面": {
-      "asOf": null,
-      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
-      "dated": false,
-      "seq": 111
-    },
-    "阵营": {
+    "品阶": {
       "asOf": null,
       "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
       "dated": false,
       "seq": 119
     },
-    "据点": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+      "dated": false,
+      "seq": 119
+    },
+    "外形": {
       "asOf": null,
       "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
       "dated": false,
@@ -56,9 +56,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
-    "plot.xianni-ch130-yuanying-huran-return-hunxue",
     "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian"
   ],
-  "updatedAt": "2026-07-05T05:13:41.078Z"
+  "updatedAt": "2026-07-05T05:13:41.073Z"
 }

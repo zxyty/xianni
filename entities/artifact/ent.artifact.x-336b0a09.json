@@ -6,7 +6,8 @@
   "summary": "王林随身法宝，能旋转开凿通道、化长虹飞行，助其挖道追击与冲出火山口。",
   "attributes": {
     "持有者": "王林",
-    "能力": "旋转挖凿地下通道、化长虹飞行"
+    "能力": "旋转挖凿地下通道、化长虹飞行、封印魔头、削凿山体开洞府、高速飞行",
+    "外形": "铁片、铁片状，已减半、边缘发黑"
   },
   "observations": {
     "持有者": [
@@ -26,6 +27,33 @@
         "value": "化长虹飞行",
         "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
         "seq": 115
+      },
+      {
+        "value": "封印魔头",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
+      },
+      {
+        "value": "削凿山体开洞府",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
+      },
+      {
+        "value": "高速飞行",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
+      }
+    ],
+    "外形": [
+      {
+        "value": "铁片",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
+      },
+      {
+        "value": "铁片状，已减半、边缘发黑",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
       }
     ]
   },
@@ -42,12 +70,19 @@
       "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
       "dated": false,
       "seq": 115
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+      "dated": false,
+      "seq": 119
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch130-yuanying-huran-return-hunxue"
+    "plot.xianni-ch130-yuanying-huran-return-hunxue",
+    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian"
   ],
-  "updatedAt": "2026-07-05T04:54:28.726Z"
+  "updatedAt": "2026-07-05T05:13:41.043Z"
 }

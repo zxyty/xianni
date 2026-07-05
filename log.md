@@ -24,3 +24,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-07-05T04:23:08.087Z** `ingest` plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang — 仙逆 第106-110章：吞魂现世、域外战场坍塌与王林夺舍马良 · kind=plot asOf=2026-07-05 entities=40 relations=48 src=00106-00110.md
 - **2026-07-05T04:42:11.919Z** `ingest` plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo — 《仙逆》第111-114章 王林极识夺舍马良入火焚国·火山闭关复修·焚金山脉夺果 · kind=plot asOf=2026-07-05 entities=54 relations=64 src=00111-00114.md
 - **2026-07-05T04:54:28.863Z** `ingest` plot.xianni-ch130-yuanying-huran-return-hunxue — 仙逆 第130章 元婴忽来——王林（化名马良）归还周紫虹魂血、结识孙有财 · kind=plot asOf=2026-07-05 entities=29 relations=32 src=00115-00118.md
+- **2026-07-05T05:13:41.095Z** `ingest` plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian — 第134章 收服魔头·建库洞府·参阅三玉简（王林入魔道之念） · kind=plot asOf=2026-07-05 entities=52 relations=77 src=00119-00122.md

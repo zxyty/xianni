@@ -2,12 +2,16 @@
   "id": "ent.faction.x-631bde03",
   "type": "faction",
   "name": "洛河门",
-  "aliases": [],
+  "aliases": [
+    "洛河门门派",
+    "洛河f"
+  ],
   "summary": "火焚国四大宗派之一。",
   "attributes": {
     "所属界面": "火焚国",
     "理念": "阵法、炼丹",
-    "镇派之宝": "炼丹（佳品）"
+    "镇派之宝": "炼丹（佳品）",
+    "据点": "火焚国"
   },
   "observations": {
     "所属界面": [
@@ -30,6 +34,13 @@
         "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
         "seq": 115
       }
+    ],
+    "据点": [
+      {
+        "value": "火焚国",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
+      }
     ]
   },
   "firstSeq": 111,
@@ -51,13 +62,20 @@
       "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
       "dated": false,
       "seq": 115
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+      "dated": false,
+      "seq": 119
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
-    "plot.xianni-ch130-yuanying-huran-return-hunxue"
+    "plot.xianni-ch130-yuanying-huran-return-hunxue",
+    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian"
   ],
-  "updatedAt": "2026-07-05T04:54:28.682Z"
+  "updatedAt": "2026-07-05T05:13:41.079Z"
 }

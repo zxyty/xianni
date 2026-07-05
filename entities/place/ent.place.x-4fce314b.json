@@ -3,16 +3,18 @@
   "type": "place",
   "name": "火焚国",
   "aliases": [
-    "火焚国修真界"
+    "火焚国修真界",
+    "火焚"
   ],
   "summary": "三级修真国，战神殿所在、马良出身国。",
   "attributes": {
-    "类型": "修真国度",
+    "类型": "国度",
     "方位": "朱雀星南部",
-    "特产": "焚金果、融灵丹、火山众多、火山、岩浆",
-    "危险度": "偏僻荒凉、高（火山遍生、地下火兽、火山有爆发之险）",
+    "特产": "焚金果、融灵丹、火山众多、火山、岩浆、火山、火山、燥热火灵力、火属性灵气与火山",
+    "危险度": "偏僻荒凉、高（火山遍生、地下火兽、火山有爆发之险）、火兽之乱期间极高、火兽成灾、灵气暴虐",
     "上级区域": "朱雀星",
-    "守护": "四大宗派元婴期始祖"
+    "守护": "锁国大阵",
+    "所属势力": "四大宗派（战神殿/洛河门/邪魔宗/尸阴宗）"
   },
   "observations": {
     "类型": [
@@ -30,6 +32,11 @@
         "value": "修真国度",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
+      },
+      {
+        "value": "国度",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
       }
     ],
     "方位": [
@@ -59,6 +66,21 @@
         "value": "火山、岩浆",
         "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
         "seq": 115
+      },
+      {
+        "value": "火山",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
+      },
+      {
+        "value": "火山、燥热火灵力",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
+      },
+      {
+        "value": "火属性灵气与火山",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
       }
     ],
     "危险度": [
@@ -71,6 +93,16 @@
         "value": "高（火山遍生、地下火兽、火山有爆发之险）",
         "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
         "seq": 115
+      },
+      {
+        "value": "火兽之乱期间极高",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
+      },
+      {
+        "value": "火兽成灾、灵气暴虐",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
       }
     ],
     "上级区域": [
@@ -85,6 +117,18 @@
         "value": "四大宗派元婴期始祖",
         "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
         "seq": 115
+      },
+      {
+        "value": "锁国大阵",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "四大宗派（战神殿/洛河门/邪魔宗/尸阴宗）",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
       }
     ]
   },
@@ -92,9 +136,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
       "dated": false,
-      "seq": 111
+      "seq": 119
     },
     "方位": {
       "asOf": null,
@@ -122,9 +166,15 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
+      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
       "dated": false,
-      "seq": 115
+      "seq": 119
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+      "dated": false,
+      "seq": 119
     }
   },
   "contested": false,
@@ -133,7 +183,8 @@
     "plot.xianni-ch117-wanglin-death",
     "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
     "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
-    "plot.xianni-ch130-yuanying-huran-return-hunxue"
+    "plot.xianni-ch130-yuanying-huran-return-hunxue",
+    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian"
   ],
-  "updatedAt": "2026-07-05T04:54:28.729Z"
+  "updatedAt": "2026-07-05T05:13:41.080Z"
 }
