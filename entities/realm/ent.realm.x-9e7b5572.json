@@ -3,13 +3,17 @@
   "type": "realm",
   "name": "结丹",
   "aliases": [
-    "结丹期"
+    "结丹期",
+    "结丹初期",
+    "结丹中期",
+    "结丹后期"
   ],
   "summary": "修仙第三层次，恒岳派仅两人，居后山闭关；可对凡人施搜魂术。",
   "attributes": {
     "阶序": "第三层次",
     "上一境": "筑基期",
-    "下一境": "元婴期"
+    "下一境": "元婴期",
+    "小阶段": "结丹初期、结丹中期、结丹后期"
   },
   "observations": {
     "阶序": [
@@ -42,6 +46,23 @@
         "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
         "seq": 49
       }
+    ],
+    "小阶段": [
+      {
+        "value": "结丹初期",
+        "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+        "seq": 96
+      },
+      {
+        "value": "结丹中期",
+        "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+        "seq": 96
+      },
+      {
+        "value": "结丹后期",
+        "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+        "seq": 96
+      }
     ]
   },
   "firstSeq": 19,
@@ -63,6 +84,12 @@
       "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
       "dated": false,
       "seq": 49
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+      "dated": false,
+      "seq": 96
     }
   },
   "contested": false,
@@ -76,7 +103,8 @@
     "lore.huangquan-shengqiao-jue-jiyin-zhidi",
     "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
     "plot.xianni-ch85-89-jilian-jianqiao",
-    "lore.xianni-ch105-jijing-realm"
+    "lore.xianni-ch105-jijing-realm",
+    "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery"
   ],
-  "updatedAt": "2026-07-05T03:14:59.652Z"
+  "updatedAt": "2026-07-05T03:50:16.501Z"
 }

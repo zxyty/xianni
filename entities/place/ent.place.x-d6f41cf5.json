@@ -9,9 +9,10 @@
   ],
   "summary": "石珠现第十朵云后开启的异度空间，无日月星辰、四周布满发光体；时间流速为现实十倍，内无灵气，仅凡物可带入，梦中锻炼成果能带回现实。",
   "attributes": {
-    "类型": "石珠开启的异度梦境/修炼空间、珠内异空间、石珠衍生梦境、石珠内修炼空间、珠中梦境/加速修炼空间、珠中梦境、石珠内空间、法宝内部空间、石珠内梦境、法宝内空间、珠中空间、石珠内部空间",
-    "特产": "十倍时间流速、空间内无灵气、仅无灵气凡物可带入、梦中锻炼成果带回现实、加速修炼、时间倍率约现实数倍、发光体/光斑",
-    "危险度": "灵气暴涨可致体内崩溃"
+    "类型": "石珠开启的异度梦境/修炼空间、珠内异空间、石珠衍生梦境、石珠内修炼空间、珠中梦境/加速修炼空间、珠中梦境、石珠内空间、法宝内部空间、石珠内梦境、法宝内空间、珠中空间、石珠内部空间、珠内空间",
+    "特产": "十倍时间流速、空间内无灵气、仅无灵气凡物可带入、梦中锻炼成果带回现实、加速修炼、时间倍率约现实数倍、发光体/光斑、发光体（灵气凝聚）",
+    "危险度": "灵气暴涨可致体内崩溃",
+    "所属势力": "王林（石珠内）"
   },
   "observations": {
     "类型": [
@@ -74,6 +75,11 @@
         "value": "石珠内部空间",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
+      },
+      {
+        "value": "珠内空间",
+        "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+        "seq": 96
       }
     ],
     "特产": [
@@ -111,6 +117,11 @@
         "value": "发光体/光斑",
         "docId": "plot.xianni-ch37-42-sinian-guangban",
         "seq": 37
+      },
+      {
+        "value": "发光体（灵气凝聚）",
+        "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+        "seq": 96
       }
     ],
     "危险度": [
@@ -119,6 +130,13 @@
         "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
         "seq": 19,
         "note": "误饮浓灵气露水后吐纳险死"
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "王林（石珠内）",
+        "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+        "seq": 96
       }
     ]
   },
@@ -142,6 +160,12 @@
       "dated": false,
       "seq": 19,
       "note": "误饮浓灵气露水后吐纳险死"
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+      "dated": false,
+      "seq": 96
     }
   },
   "contested": false,
@@ -154,7 +178,8 @@
     "plot.xianni-ch43-48-lishan-pilidan-shenshi",
     "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
     "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
-    "plot.xianni-ch80-84-wanglin-enters-shiyinzong"
+    "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+    "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery"
   ],
-  "updatedAt": "2026-06-22T14:15:16.983Z"
+  "updatedAt": "2026-07-05T03:50:16.463Z"
 }

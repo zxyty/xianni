@@ -2,16 +2,21 @@
   "id": "ent.place.x-af1f080a",
   "type": "place",
   "name": "决明谷",
-  "aliases": [],
+  "aliases": [
+    "决明谷出口",
+    "决明谷通道",
+    "决明谷阵法"
+  ],
   "summary": "位于赵国境内偏南、谷内极大且有密林流水、常年雾气缭绕，是每百年一次域外资格赛的战斗地点。",
   "attributes": {
     "所属界面": "赵国",
     "方位": "赵国境内偏南",
-    "类型": "山谷·资格赛战场、谷地、秘境/谷地、域外战场清理争夺地、域外战场入口、秘境/封印之地",
+    "类型": "山谷·资格赛战场、谷地、秘境/谷地、域外战场清理争夺地、域外战场入口、秘境/封印之地、秘境/战场入口、秘境/资格赛场地",
     "规模": "小地方",
     "所属势力": "赵国",
-    "守护": "封印阵法",
-    "危险度": "高"
+    "守护": "封印阵法、出口八角形阵法、阵法限制化神期以下方可进入",
+    "危险度": "高",
+    "特产": "开启时散出大量灵气"
   },
   "observations": {
     "所属界面": [
@@ -63,6 +68,16 @@
         "value": "秘境/封印之地",
         "docId": "lore.xianni-ch105-jijing-realm",
         "seq": 90
+      },
+      {
+        "value": "秘境/战场入口",
+        "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+        "seq": 96
+      },
+      {
+        "value": "秘境/资格赛场地",
+        "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+        "seq": 96
       }
     ],
     "规模": [
@@ -84,6 +99,17 @@
         "value": "封印阵法",
         "docId": "lore.xianni-ch105-jijing-realm",
         "seq": 90
+      },
+      {
+        "value": "出口八角形阵法",
+        "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+        "seq": 96
+      },
+      {
+        "value": "阵法限制化神期以下方可进入",
+        "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+        "seq": 96,
+        "note": "藤化元据此质疑王林修为"
       }
     ],
     "危险度": [
@@ -91,6 +117,13 @@
         "value": "高",
         "docId": "lore.xianni-ch105-jijing-realm",
         "seq": 90
+      }
+    ],
+    "特产": [
+      {
+        "value": "开启时散出大量灵气",
+        "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+        "seq": 96
       }
     ]
   },
@@ -137,13 +170,20 @@
       "docId": "lore.xianni-ch105-jijing-realm",
       "dated": false,
       "seq": 90
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+      "dated": false,
+      "seq": 96
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch85-89-jilian-jianqiao",
-    "lore.xianni-ch105-jijing-realm"
+    "lore.xianni-ch105-jijing-realm",
+    "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery"
   ],
-  "updatedAt": "2026-07-05T03:14:59.669Z"
+  "updatedAt": "2026-07-05T03:50:16.497Z"
 }

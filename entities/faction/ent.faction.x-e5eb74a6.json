@@ -2,10 +2,14 @@
   "id": "ent.faction.x-e5eb74a6",
   "type": "faction",
   "name": "无锋谷",
-  "aliases": [],
+  "aliases": [
+    "无锋谷门派"
+  ],
   "summary": "藤邢森任客卿的势力，地位令藤家城无人敢惹。",
   "attributes": {
-    "镇派之宝": "天雷风火伞"
+    "镇派之宝": "天雷风火伞",
+    "阵营": "赵国修真界",
+    "掌门": "黑脸老者（元婴期高手）"
   },
   "observations": {
     "镇派之宝": [
@@ -13,6 +17,20 @@
         "value": "天雷风火伞",
         "docId": "lore.xianni-ch105-jijing-realm",
         "seq": 90
+      }
+    ],
+    "阵营": [
+      {
+        "value": "赵国修真界",
+        "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+        "seq": 96
+      }
+    ],
+    "掌门": [
+      {
+        "value": "黑脸老者（元婴期高手）",
+        "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+        "seq": 96
       }
     ]
   },
@@ -23,6 +41,18 @@
       "docId": "lore.xianni-ch105-jijing-realm",
       "dated": false,
       "seq": 90
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+      "dated": false,
+      "seq": 96
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+      "dated": false,
+      "seq": 96
     }
   },
   "contested": false,
@@ -30,7 +60,8 @@
   "docs": [
     "plot.xianni-ch61-66-strange-sword-baizhan",
     "plot.xianni-ch85-89-jilian-jianqiao",
-    "lore.xianni-ch105-jijing-realm"
+    "lore.xianni-ch105-jijing-realm",
+    "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery"
   ],
-  "updatedAt": "2026-07-05T03:14:59.666Z"
+  "updatedAt": "2026-07-05T03:50:16.491Z"
 }

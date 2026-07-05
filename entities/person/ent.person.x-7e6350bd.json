@@ -1,71 +1,69 @@
 {
-  "id": "ent.realm.x-1fea61ed",
-  "type": "realm",
-  "name": "婴变期",
-  "aliases": [],
-  "summary": "高阶境界，四级修真国出婴变期人物即升五级修真国；持有者达此境方能放出困于天逆珠子的司徒南。",
+  "id": "ent.person.x-7e6350bd",
+  "type": "person",
+  "name": "无锋谷黑脸老者",
+  "aliases": [
+    "黑脸老者",
+    "无锋谷元婴期高手"
+  ],
+  "summary": "无锋谷元婴期高手，黑脸；一掌拍死逃回报信的筑基初期弟子，斥其不该独活。",
   "attributes": {
-    "上一境": "元婴期",
-    "阶序": "元婴之上、化神之下",
-    "突破关键": "元婴变异增大",
-    "下一境": "化神"
+    "身份": "无锋谷元婴期高手",
+    "小阶段": "元婴期",
+    "外貌": "黑脸",
+    "性格": "冷酷无情"
   },
   "observations": {
-    "上一境": [
+    "身份": [
       {
-        "value": "化神期",
-        "docId": "plot.xianni-ch43-48-lishan-pilidan-shenshi",
-        "seq": 43
-      },
+        "value": "无锋谷元婴期高手",
+        "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+        "seq": 96
+      }
+    ],
+    "小阶段": [
       {
         "value": "元婴期",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
       }
     ],
-    "阶序": [
+    "外貌": [
       {
-        "value": "元婴之上、化神之下",
+        "value": "黑脸",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
       }
     ],
-    "突破关键": [
+    "性格": [
       {
-        "value": "元婴变异增大",
-        "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
-        "seq": 96
-      }
-    ],
-    "下一境": [
-      {
-        "value": "化神",
+        "value": "冷酷无情",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
       }
     ]
   },
-  "firstSeq": 43,
+  "firstSeq": 96,
   "attrProvenance": {
-    "上一境": {
+    "身份": {
       "asOf": null,
       "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
       "dated": false,
       "seq": 96
     },
-    "阶序": {
+    "小阶段": {
       "asOf": null,
       "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
       "dated": false,
       "seq": 96
     },
-    "突破关键": {
+    "外貌": {
       "asOf": null,
       "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
       "dated": false,
       "seq": 96
     },
-    "下一境": {
+    "性格": {
       "asOf": null,
       "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
       "dated": false,
@@ -75,10 +73,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch43-48-lishan-pilidan-shenshi",
-    "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
-    "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
     "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery"
   ],
-  "updatedAt": "2026-07-05T03:50:16.478Z"
+  "updatedAt": "2026-07-05T03:50:16.486Z"
 }

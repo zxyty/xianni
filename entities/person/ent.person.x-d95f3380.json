@@ -1,71 +1,71 @@
 {
-  "id": "ent.realm.x-1fea61ed",
-  "type": "realm",
-  "name": "婴变期",
-  "aliases": [],
-  "summary": "高阶境界，四级修真国出婴变期人物即升五级修真国；持有者达此境方能放出困于天逆珠子的司徒南。",
+  "id": "ent.person.x-d95f3380",
+  "type": "person",
+  "name": "无锋谷逃回弟子",
+  "aliases": [
+    "筑基初期弟子",
+    "报信弟子"
+  ],
+  "summary": "无锋谷筑基初期弟子，因距离远逃过一劫回报王鹏等尽死，被黑脸老者一掌拍碎头颅而亡。",
   "attributes": {
-    "上一境": "元婴期",
-    "阶序": "元婴之上、化神之下",
-    "突破关键": "元婴变异增大",
-    "下一境": "化神"
+    "小阶段": "筑基初期",
+    "阵营": "无锋谷",
+    "存殁": "死亡",
+    "死因": "被无锋谷黑脸老者一掌拍碎头颅"
   },
   "observations": {
-    "上一境": [
+    "小阶段": [
       {
-        "value": "化神期",
-        "docId": "plot.xianni-ch43-48-lishan-pilidan-shenshi",
-        "seq": 43
-      },
-      {
-        "value": "元婴期",
+        "value": "筑基初期",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
       }
     ],
-    "阶序": [
+    "阵营": [
       {
-        "value": "元婴之上、化神之下",
+        "value": "无锋谷",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
       }
     ],
-    "突破关键": [
+    "存殁": [
       {
-        "value": "元婴变异增大",
+        "value": "死亡",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
-        "seq": 96
+        "seq": 96,
+        "note": "第115章被无锋谷黑脸老者拍碎头颅"
       }
     ],
-    "下一境": [
+    "死因": [
       {
-        "value": "化神",
+        "value": "被无锋谷黑脸老者一掌拍碎头颅",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
       }
     ]
   },
-  "firstSeq": 43,
+  "firstSeq": 96,
   "attrProvenance": {
-    "上一境": {
+    "小阶段": {
       "asOf": null,
       "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
       "dated": false,
       "seq": 96
     },
-    "阶序": {
+    "阵营": {
       "asOf": null,
       "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
       "dated": false,
       "seq": 96
     },
-    "突破关键": {
+    "存殁": {
       "asOf": null,
       "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
       "dated": false,
-      "seq": 96
+      "seq": 96,
+      "note": "第115章被无锋谷黑脸老者拍碎头颅"
     },
-    "下一境": {
+    "死因": {
       "asOf": null,
       "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
       "dated": false,
@@ -75,10 +75,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch43-48-lishan-pilidan-shenshi",
-    "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
-    "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
     "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery"
   ],
-  "updatedAt": "2026-07-05T03:50:16.478Z"
+  "updatedAt": "2026-07-05T03:50:16.486Z"
 }

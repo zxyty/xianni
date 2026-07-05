@@ -8,10 +8,11 @@
   ],
   "summary": "域外通道之外的厮杀战场，每百年清理一次，强者云集、生死一瞬。",
   "attributes": {
-    "类型": "战场、战场/资格赛场、秘境·战场、充满裂缝的空间、战场/域外之地",
-    "危险度": "极高（罡风熔化神、裂痕吞婴变）",
+    "类型": "战场、战场/资格赛场、秘境·战场、充满裂缝的空间、战场/域外之地、战场/秘境",
+    "危险度": "极高（去者十存一）",
     "所属势力": "联盟",
-    "规模": "赵国名额三个"
+    "规模": "赵国名额三个",
+    "所属界面": "赵国修真界"
   },
   "observations": {
     "类型": [
@@ -39,6 +40,11 @@
         "value": "战场/域外之地",
         "docId": "lore.xianni-ch105-jijing-realm",
         "seq": 90
+      },
+      {
+        "value": "战场/秘境",
+        "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+        "seq": 96
       }
     ],
     "危险度": [
@@ -51,6 +57,11 @@
         "value": "极高（罡风熔化神、裂痕吞婴变）",
         "docId": "lore.xianni-ch105-jijing-realm",
         "seq": 90
+      },
+      {
+        "value": "极高（去者十存一）",
+        "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+        "seq": 96
       }
     ],
     "所属势力": [
@@ -67,6 +78,13 @@
         "seq": 90,
         "note": "需资格令牌进入"
       }
+    ],
+    "所属界面": [
+      {
+        "value": "赵国修真界",
+        "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+        "seq": 96
+      }
     ]
   },
   "firstSeq": 80,
@@ -79,9 +97,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "lore.xianni-ch105-jijing-realm",
+      "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
       "dated": false,
-      "seq": 90
+      "seq": 96
     },
     "所属势力": {
       "asOf": null,
@@ -95,6 +113,12 @@
       "dated": false,
       "seq": 90,
       "note": "需资格令牌进入"
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+      "dated": false,
+      "seq": 96
     }
   },
   "contested": false,
@@ -102,7 +126,8 @@
   "docs": [
     "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
     "plot.xianni-ch85-89-jilian-jianqiao",
-    "lore.xianni-ch105-jijing-realm"
+    "lore.xianni-ch105-jijing-realm",
+    "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery"
   ],
-  "updatedAt": "2026-07-05T03:14:59.670Z"
+  "updatedAt": "2026-07-05T03:50:16.469Z"
 }
