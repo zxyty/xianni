@@ -3,17 +3,18 @@
   "type": "person",
   "name": "马良",
   "aliases": [
-    "战神殿马良"
+    "战神殿马良",
+    "马师弟"
   ],
   "summary": "火焚国战神殿修士，筑基中期，域外战场逗留三十余年；抱红色火梭追携珠墨光三日无果。",
   "attributes": {
     "小阶段": "筑基中期",
-    "身份": "战神殿修士、散修/途人、战神殿弟子",
+    "身份": "战神殿修士、散修/途人、战神殿弟子、火焚国战神殿弟子、火焚国修士",
     "出身地": "火焚国",
-    "性格": "谨慎惜命、好幻想",
+    "性格": "胆小怕死、脸皮厚",
     "外貌": "三十余岁青年",
     "存殁": "死亡",
-    "死因": "被葛阳飞剑穿胸而死（随后肉身被王林夺舍）",
+    "死因": "被葛阳飞剑穿胸而死（随后肉身被王林夺舍）、被王林夺舍、被许浩、葛阳所杀",
     "结局": "肉身被王林夺舍"
   },
   "observations": {
@@ -39,6 +40,16 @@
         "value": "战神殿弟子",
         "docId": "plot.xianni-ch117-wanglin-death",
         "seq": 102
+      },
+      {
+        "value": "火焚国战神殿弟子",
+        "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+        "seq": 106
+      },
+      {
+        "value": "火焚国修士",
+        "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+        "seq": 106
       }
     ],
     "出身地": [
@@ -53,6 +64,11 @@
         "value": "谨慎惜命、好幻想",
         "docId": "plot.xianni-ch117-wanglin-death",
         "seq": 102
+      },
+      {
+        "value": "胆小怕死、脸皮厚",
+        "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+        "seq": 106
       }
     ],
     "外貌": [
@@ -66,7 +82,8 @@
       {
         "value": "死亡",
         "docId": "plot.xianni-ch117-wanglin-death",
-        "seq": 102
+        "seq": 102,
+        "note": "被王林夺舍，第121章"
       }
     ],
     "死因": [
@@ -74,6 +91,16 @@
         "value": "被葛阳飞剑穿胸而死（随后肉身被王林夺舍）",
         "docId": "plot.xianni-ch117-wanglin-death",
         "seq": 102
+      },
+      {
+        "value": "被王林夺舍",
+        "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+        "seq": 106
+      },
+      {
+        "value": "被许浩、葛阳所杀",
+        "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+        "seq": 106
       }
     ],
     "结局": [
@@ -106,9 +133,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch117-wanglin-death",
+      "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
       "dated": false,
-      "seq": 102
+      "seq": 106
     },
     "外貌": {
       "asOf": null,
@@ -120,7 +147,8 @@
       "asOf": null,
       "docId": "plot.xianni-ch117-wanglin-death",
       "dated": false,
-      "seq": 102
+      "seq": 102,
+      "note": "被王林夺舍，第121章"
     },
     "死因": {
       "asOf": null,
@@ -138,7 +166,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch117-wanglin-death"
+    "plot.xianni-ch117-wanglin-death",
+    "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang"
   ],
-  "updatedAt": "2026-07-05T04:09:56.811Z"
+  "updatedAt": "2026-07-05T04:23:08.067Z"
 }

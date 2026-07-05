@@ -6,13 +6,16 @@
     "灵力极境",
     "极",
     "极境灵力",
-    "极境修为"
+    "极境修为",
+    "极境神识",
+    "极识"
   ],
   "summary": "上古灵力三境之一。同级灵力无敌、可不需法宝，但属性走极端不兼容、难入化神；元婴后期可为化神以下第一人。",
   "attributes": {
-    "阶序": "上古灵力境界(极/道/始)之一",
-    "突破关键": "元婴后期为修为终点,无法达化神期",
-    "突破征兆": "灵力属性彻底偏向极端、同境界无敌"
+    "阶序": "上限元婴后期",
+    "突破关键": "天地法则不容元婴期以上极境修士",
+    "突破征兆": "灵力属性彻底偏向极端、同境界无敌",
+    "小阶段": "无视初/中/后三期"
   },
   "observations": {
     "阶序": [
@@ -25,6 +28,11 @@
         "value": "上古灵力境界(极/道/始)之一",
         "docId": "lore.xianni-ch105-jijing-realm",
         "seq": 90
+      },
+      {
+        "value": "上限元婴后期",
+        "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+        "seq": 106
       }
     ],
     "突破关键": [
@@ -38,6 +46,11 @@
         "docId": "lore.xianni-ch105-jijing-realm",
         "seq": 90,
         "note": "上古仅一位超婴变期强者破例"
+      },
+      {
+        "value": "天地法则不容元婴期以上极境修士",
+        "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+        "seq": 106
       }
     ],
     "突破征兆": [
@@ -46,35 +59,48 @@
         "docId": "lore.xianni-ch105-jijing-realm",
         "seq": 90
       }
+    ],
+    "小阶段": [
+      {
+        "value": "无视初/中/后三期",
+        "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+        "seq": 106
+      }
     ]
   },
   "firstSeq": 76,
   "attrProvenance": {
     "阶序": {
       "asOf": null,
-      "docId": "lore.xianni-ch105-jijing-realm",
+      "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
       "dated": false,
-      "seq": 90
+      "seq": 106
     },
     "突破关键": {
       "asOf": null,
-      "docId": "lore.xianni-ch105-jijing-realm",
+      "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
       "dated": false,
-      "seq": 90,
-      "note": "上古仅一位超婴变期强者破例"
+      "seq": 106
     },
     "突破征兆": {
       "asOf": null,
       "docId": "lore.xianni-ch105-jijing-realm",
       "dated": false,
       "seq": 90
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+      "dated": false,
+      "seq": 106
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch091-jiyin-lingli",
-    "lore.xianni-ch105-jijing-realm"
+    "lore.xianni-ch105-jijing-realm",
+    "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang"
   ],
-  "updatedAt": "2026-07-05T03:14:59.625Z"
+  "updatedAt": "2026-07-05T04:23:08.071Z"
 }

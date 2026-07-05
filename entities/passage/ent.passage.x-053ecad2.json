@@ -1,29 +1,22 @@
 {
-  "id": "ent.place.x-4fce314b",
-  "type": "place",
-  "name": "火焚国",
-  "aliases": [
-    "火焚国修真界"
-  ],
-  "summary": "三级修真国，战神殿所在、马良出身国。",
+  "id": "ent.passage.x-053ecad2",
+  "type": "passage",
+  "name": "传送阵",
+  "aliases": [],
+  "summary": "域外战场内可离开的传送阵，即将开启；若战场彻底坍塌恐无法开启。",
   "attributes": {
-    "类型": "修真国"
+    "类型": "传送阵"
   },
   "observations": {
     "类型": [
       {
-        "value": "三级修真国",
-        "docId": "plot.xianni-ch117-wanglin-death",
-        "seq": 102
-      },
-      {
-        "value": "修真国",
+        "value": "传送阵",
         "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
         "seq": 106
       }
     ]
   },
-  "firstSeq": 102,
+  "firstSeq": 106,
   "attrProvenance": {
     "类型": {
       "asOf": null,
@@ -35,8 +28,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch117-wanglin-death",
     "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang"
   ],
-  "updatedAt": "2026-07-05T04:23:08.053Z"
+  "updatedAt": "2026-07-05T04:23:08.034Z"
 }

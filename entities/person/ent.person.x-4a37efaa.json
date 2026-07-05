@@ -9,7 +9,9 @@
   "attributes": {
     "小阶段": "筑基后期",
     "外貌": "黑衣中年人",
-    "性格": "阴狠、心思深、睚眦必报"
+    "性格": "阴狠、心思深、睚眦必报",
+    "存殁": "死亡",
+    "死因": "被游魂吞噬（第123-124章观测）"
   },
   "observations": {
     "小阶段": [
@@ -32,6 +34,20 @@
         "docId": "plot.xianni-ch117-wanglin-death",
         "seq": 102
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+        "seq": 106
+      }
+    ],
+    "死因": [
+      {
+        "value": "被游魂吞噬（第123-124章观测）",
+        "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+        "seq": 106
+      }
     ]
   },
   "firstSeq": 102,
@@ -53,12 +69,25 @@
       "docId": "plot.xianni-ch117-wanglin-death",
       "dated": false,
       "seq": 102
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+      "dated": false,
+      "seq": 106
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+      "dated": false,
+      "seq": 106
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch117-wanglin-death"
+    "plot.xianni-ch117-wanglin-death",
+    "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang"
   ],
-  "updatedAt": "2026-07-05T04:09:56.812Z"
+  "updatedAt": "2026-07-05T04:23:08.066Z"
 }

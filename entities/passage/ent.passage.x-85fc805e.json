@@ -5,13 +5,14 @@
   "aliases": [
     "空间裂痕",
     "域外战场空间裂缝",
-    "裂缝"
+    "裂缝",
+    "坍塌空间裂缝"
   ],
   "summary": "域外空间因万载战斗濒临崩溃而生的裂缝，连接无边星海；内部黑暗、神识被禁锢、有恐怖吸扯力，专出没吞噬性神秘物种。",
   "attributes": {
     "类型": "空间裂缝",
     "两端": "域外空间、星海",
-    "稳定性": "极不稳定，撞击可致崩溃后自动消失、极不稳定、时现时灭",
+    "稳定性": "极不稳定，撞击可致崩溃后自动消失、极不稳定、时现时灭、极不稳定（坍塌形成）",
     "可通行境界": "婴变期高手可趁吸力未开时短暂进出"
   },
   "observations": {
@@ -44,6 +45,11 @@
         "value": "极不稳定、时现时灭",
         "docId": "plot.xianni-ch117-wanglin-death",
         "seq": 102
+      },
+      {
+        "value": "极不稳定（坍塌形成）",
+        "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+        "seq": 106
       }
     ],
     "可通行境界": [
@@ -86,7 +92,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch117-wanglin-death"
+    "plot.xianni-ch117-wanglin-death",
+    "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang"
   ],
-  "updatedAt": "2026-07-05T04:09:56.815Z"
+  "updatedAt": "2026-07-05T04:23:08.033Z"
 }
