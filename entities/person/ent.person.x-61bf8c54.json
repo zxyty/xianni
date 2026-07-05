@@ -16,14 +16,14 @@
     "性别": "男",
     "身份": "六级修真国绝世高手、朱雀国第一强者、天逆珠内残魂／王林暗中之师、黄泉升窍决传功者、石珠梦境中的存在、王林的指导者、天逆空间内的指点者、石珠内前辈残魂、石珠内残识/前辈、石珠内前辈、石珠内寄魂前辈、石珠内残魂",
     "性格": "残暴狠辣、沧桑哀叹、桀骜不驯、嚣张跋扈、狠辣务实、由狂妄转敬佩",
-    "存殁": "死亡（第61章）",
+    "存殁": "残存元婴",
     "标志特征": "存于石珠梦境之内",
     "出身地": "异国(非赵国)",
-    "小阶段": "婴变期",
+    "小阶段": "元婴",
     "称号": "六级修真国绝世高手",
     "元神强度": "元婴精华损耗严重",
     "死因": "第61章死亡（残存神识寄于石珠）",
-    "外貌": "元婴高约三丈、半透明、胸口近乎全透明",
+    "外貌": "元婴仅常人十分之一大小",
     "本命法宝": "元婴（内含王林父母魂魄）"
   },
   "observations": {
@@ -147,6 +147,12 @@
         "value": "死亡（第61章）",
         "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
         "seq": 72
+      },
+      {
+        "value": "残存元婴",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111,
+        "note": "元婴缩小暗淡，第61章观测为亡"
       }
     ],
     "标志特征": [
@@ -184,6 +190,11 @@
         "value": "婴变期",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
+      },
+      {
+        "value": "元婴",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111
       }
     ],
     "称号": [
@@ -228,6 +239,11 @@
         "value": "元婴高约三丈、半透明、胸口近乎全透明",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
+      },
+      {
+        "value": "元婴仅常人十分之一大小",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111
       }
     ],
     "本命法宝": [
@@ -260,9 +276,10 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
-      "seq": 72
+      "seq": 111,
+      "note": "元婴缩小暗淡，第61章观测为亡"
     },
     "标志特征": {
       "asOf": null,
@@ -278,9 +295,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
-      "seq": 96
+      "seq": 111
     },
     "称号": {
       "asOf": null,
@@ -303,9 +320,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
-      "seq": 96
+      "seq": 111
     },
     "本命法宝": {
       "asOf": null,
@@ -328,7 +345,8 @@
     "lore.xianni-ch105-jijing-realm",
     "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
     "plot.xianni-ch117-wanglin-death",
-    "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang"
+    "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo"
   ],
-  "updatedAt": "2026-07-05T04:23:08.048Z"
+  "updatedAt": "2026-07-05T04:42:11.892Z"
 }

@@ -1,37 +1,30 @@
 {
-  "id": "ent.place.x-75f25235",
-  "type": "place",
-  "name": "极阴之地",
-  "aliases": [
-    "极阴之处"
-  ],
-  "summary": "修炼黄泉升窍决所需的特殊地脉，王林依司徒南所授法术追寻。",
+  "id": "ent.item.x-a2fd6a51",
+  "type": "item",
+  "name": "传讯玉符",
+  "aliases": [],
+  "summary": "杨雄手中的传讯法器，输入灵力可令战神殿师弟处另一块玉符亮起以传递方位，被王林没收。",
   "attributes": {
-    "类型": "阴寒秘境",
-    "特产": "阴寒灵气"
+    "类型": "传讯玉符",
+    "用途": "输入灵力令配对玉符亮起、传递方位"
   },
   "observations": {
     "类型": [
       {
-        "value": "极阴地脉",
-        "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
-        "seq": 67
-      },
-      {
-        "value": "阴寒秘境",
+        "value": "传讯玉符",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
       }
     ],
-    "特产": [
+    "用途": [
       {
-        "value": "阴寒灵气",
+        "value": "输入灵力令配对玉符亮起、传递方位",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
       }
     ]
   },
-  "firstSeq": 67,
+  "firstSeq": 111,
   "attrProvenance": {
     "类型": {
       "asOf": null,
@@ -39,7 +32,7 @@
       "dated": false,
       "seq": 111
     },
-    "特产": {
+    "用途": {
       "asOf": null,
       "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
@@ -49,8 +42,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch67-71-tengli-chase-lanxianteng",
     "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo"
   ],
-  "updatedAt": "2026-07-05T04:42:11.889Z"
+  "updatedAt": "2026-07-05T04:42:11.899Z"
 }

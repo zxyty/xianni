@@ -1,37 +1,35 @@
 {
-  "id": "ent.person.x-5276071c",
+  "id": "ent.person.x-d191ba91",
   "type": "person",
-  "name": "杨雄",
-  "aliases": [],
-  "summary": "被王林收为奴，恐惧王林舍弃马良而夺舍自己身体。",
+  "name": "徐思",
+  "aliases": [
+    "小师妹"
+  ],
+  "summary": "战神殿貌美少妇，与马良自幼同村并有父母世交婚约（深以为耻），曾以结双修道侣为饵骗马良入域外战场。",
   "attributes": {
-    "身份": "王林之奴、殿主得意弟子、战神殿弟子",
-    "小阶段": "筑基后期",
-    "阵营": "战神殿",
-    "性别": "男",
-    "性格": "沉稳"
+    "性别": "女",
+    "身份": "战神殿弟子",
+    "外貌": "身材婀娜、美目如凤、瓜子脸",
+    "阵营": "战神殿"
   },
   "observations": {
-    "身份": [
+    "性别": [
       {
-        "value": "王林之奴",
-        "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
-        "seq": 106
-      },
-      {
-        "value": "殿主得意弟子",
+        "value": "女",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
-      },
+      }
+    ],
+    "身份": [
       {
         "value": "战神殿弟子",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
       }
     ],
-    "小阶段": [
+    "外貌": [
       {
-        "value": "筑基后期",
+        "value": "身材婀娜、美目如凤、瓜子脸",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
       }
@@ -42,31 +40,23 @@
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
       }
-    ],
-    "性别": [
-      {
-        "value": "男",
-        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
-        "seq": 111
-      }
-    ],
-    "性格": [
-      {
-        "value": "沉稳",
-        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
-        "seq": 111
-      }
     ]
   },
-  "firstSeq": 106,
+  "firstSeq": 111,
   "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+      "dated": false,
+      "seq": 111
+    },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
-      "seq": 106
+      "seq": 111
     },
-    "小阶段": {
+    "外貌": {
       "asOf": null,
       "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
@@ -77,25 +67,12 @@
       "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
       "seq": 111
-    },
-    "性别": {
-      "asOf": null,
-      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
-      "dated": false,
-      "seq": 111
-    },
-    "性格": {
-      "asOf": null,
-      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
-      "dated": false,
-      "seq": 111
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
     "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo"
   ],
-  "updatedAt": "2026-07-05T04:42:11.896Z"
+  "updatedAt": "2026-07-05T04:42:11.836Z"
 }

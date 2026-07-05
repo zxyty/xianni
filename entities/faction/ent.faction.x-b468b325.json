@@ -9,12 +9,13 @@
   ],
   "summary": "本章标题所指势力（尸阴宗），疑与蓝皮肤怪人及废墟相关。",
   "attributes": {
-    "理念": "入门弟子须寻尸体祭炼成自身尸傀，尸傀随修为增长而变强，功法牵引下终生不叛、祭炼尸傀、神秘低调、圈养弟子为炉鼎、提供夺舍肉身、神识体夺舍延续、人傀秘法、夺舍恢复修为",
+    "理念": "入门弟子须寻尸体祭炼成自身尸傀，尸傀随修为增长而变强，功法牵引下终生不叛、祭炼尸傀、神秘低调、圈养弟子为炉鼎、提供夺舍肉身、神识体夺舍延续、人傀秘法、夺舍恢复修为、出售供夺舍的肉身、提供夺舍指导",
     "阵营": "赵国修真界",
-    "所属界面": "赵国修真界",
-    "据点": "赵国极西平原中心地底溶洞群、地底洞府、赵国地洞、溶洞群（含数十溶洞，分层）",
+    "所属界面": "火焚国",
+    "据点": "赵国极西平原中心地底溶洞群、地底洞府、赵国地洞、溶洞群（含数十溶洞，分层）、五级修真国（传闻总部）",
     "镇派之宝": "蓝炎魔火、尸傀、地阴阴寒之气(源自地底男尸紫青色植物)",
-    "掌门": "夜自在"
+    "掌门": "夜自在",
+    "等级": "四级以上修真国无人敢惹"
   },
   "observations": {
     "理念": [
@@ -42,6 +43,11 @@
         "value": "人傀秘法、夺舍恢复修为",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
+      },
+      {
+        "value": "出售供夺舍的肉身、提供夺舍指导",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111
       }
     ],
     "阵营": [
@@ -66,6 +72,11 @@
         "value": "赵国修真界",
         "docId": "plot.xianni-ch85-89-jilian-jianqiao",
         "seq": 85
+      },
+      {
+        "value": "火焚国",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111
       }
     ],
     "据点": [
@@ -88,6 +99,12 @@
         "value": "溶洞群（含数十溶洞，分层）",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
+      },
+      {
+        "value": "五级修真国（传闻总部）",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111,
+        "note": "各修真国宗主至多知总部在五级修真国"
       }
     ],
     "镇派之宝": [
@@ -114,6 +131,13 @@
         "seq": 80,
         "note": "赵国分支始祖"
       }
+    ],
+    "等级": [
+      {
+        "value": "四级以上修真国无人敢惹",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111
+      }
     ]
   },
   "firstSeq": 76,
@@ -132,9 +156,9 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
-      "seq": 85
+      "seq": 111
     },
     "据点": {
       "asOf": null,
@@ -154,6 +178,12 @@
       "dated": false,
       "seq": 80,
       "note": "赵国分支始祖"
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+      "dated": false,
+      "seq": 111
     }
   },
   "contested": false,
@@ -162,7 +192,8 @@
     "plot.xianni-ch091-jiyin-lingli",
     "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
     "plot.xianni-ch85-89-jilian-jianqiao",
-    "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery"
+    "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo"
   ],
-  "updatedAt": "2026-07-05T03:50:16.493Z"
+  "updatedAt": "2026-07-05T04:42:11.863Z"
 }

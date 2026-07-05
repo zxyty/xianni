@@ -1,69 +1,68 @@
 {
-  "id": "ent.place.x-4fce314b",
-  "type": "place",
-  "name": "火焚国",
+  "id": "ent.technique.x-6e3b1bd6",
+  "type": "technique",
+  "name": "次等神道之术",
   "aliases": [
-    "火焚国修真界"
+    "战神殿次等神道术"
   ],
-  "summary": "三级修真国，战神殿所在、马良出身国。",
+  "summary": "出自战神殿（马良记忆），王林因无阴寒液体暂修；所出灵力无属性、品质较逊但绵长柔韧。",
   "attributes": {
-    "类型": "修真国度",
-    "方位": "朱雀星南部",
-    "特产": "焚金果、融灵丹"
+    "品阶": "次等",
+    "出处": "战神殿(马良记忆)",
+    "效果": "灵力无属性、绵长柔韧、品质逊于阴寒灵力",
+    "适用境界": "筑基"
   },
   "observations": {
-    "类型": [
+    "品阶": [
       {
-        "value": "三级修真国",
-        "docId": "plot.xianni-ch117-wanglin-death",
-        "seq": 102
-      },
-      {
-        "value": "修真国",
-        "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
-        "seq": 106
-      },
-      {
-        "value": "修真国度",
+        "value": "次等",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
       }
     ],
-    "方位": [
+    "出处": [
       {
-        "value": "朱雀星南部",
+        "value": "战神殿(马良记忆)",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
       }
     ],
-    "特产": [
+    "效果": [
       {
-        "value": "焚金果",
+        "value": "灵力无属性、绵长柔韧、品质逊于阴寒灵力",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
-      },
+      }
+    ],
+    "适用境界": [
       {
-        "value": "融灵丹",
+        "value": "筑基",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
       }
     ]
   },
-  "firstSeq": 102,
+  "firstSeq": 111,
   "attrProvenance": {
-    "类型": {
+    "品阶": {
       "asOf": null,
       "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
       "seq": 111
     },
-    "方位": {
+    "出处": {
       "asOf": null,
       "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
       "seq": 111
     },
-    "特产": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+      "dated": false,
+      "seq": 111
+    },
+    "适用境界": {
       "asOf": null,
       "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
@@ -73,9 +72,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch117-wanglin-death",
-    "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
     "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo"
   ],
-  "updatedAt": "2026-07-05T04:42:11.900Z"
+  "updatedAt": "2026-07-05T04:42:11.883Z"
 }

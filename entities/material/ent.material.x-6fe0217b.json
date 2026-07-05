@@ -1,55 +1,46 @@
 {
-  "id": "ent.place.x-4fce314b",
-  "type": "place",
-  "name": "火焚国",
-  "aliases": [
-    "火焚国修真界"
-  ],
-  "summary": "三级修真国，战神殿所在、马良出身国。",
+  "id": "ent.material.x-6fe0217b",
+  "type": "material",
+  "name": "焚金果",
+  "aliases": [],
+  "summary": "融灵丹主料，木属性药材，只生于火山群脉深处、成熟期仅三天；生于紫色藤条上。",
   "attributes": {
-    "类型": "修真国度",
-    "方位": "朱雀星南部",
-    "特产": "焚金果、融灵丹"
+    "类型": "炼丹药材",
+    "用途": "炼制融灵丹主料",
+    "产地": "焚金山脉火山群深处",
+    "稀有度": "稀有（三天成熟期）"
   },
   "observations": {
     "类型": [
       {
-        "value": "三级修真国",
-        "docId": "plot.xianni-ch117-wanglin-death",
-        "seq": 102
-      },
-      {
-        "value": "修真国",
-        "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
-        "seq": 106
-      },
-      {
-        "value": "修真国度",
+        "value": "炼丹药材",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
       }
     ],
-    "方位": [
+    "用途": [
       {
-        "value": "朱雀星南部",
+        "value": "炼制融灵丹主料",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
       }
     ],
-    "特产": [
+    "产地": [
       {
-        "value": "焚金果",
+        "value": "焚金山脉火山群深处",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
-      },
+      }
+    ],
+    "稀有度": [
       {
-        "value": "融灵丹",
+        "value": "稀有（三天成熟期）",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
       }
     ]
   },
-  "firstSeq": 102,
+  "firstSeq": 111,
   "attrProvenance": {
     "类型": {
       "asOf": null,
@@ -57,13 +48,19 @@
       "dated": false,
       "seq": 111
     },
-    "方位": {
+    "用途": {
       "asOf": null,
       "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
       "seq": 111
     },
-    "特产": {
+    "产地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+      "dated": false,
+      "seq": 111
+    },
+    "稀有度": {
       "asOf": null,
       "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
@@ -73,9 +70,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch117-wanglin-death",
-    "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
     "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo"
   ],
-  "updatedAt": "2026-07-05T04:42:11.900Z"
+  "updatedAt": "2026-07-05T04:42:11.855Z"
 }

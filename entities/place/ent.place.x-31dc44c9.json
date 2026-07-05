@@ -1,22 +1,17 @@
 {
-  "id": "ent.place.x-30e9c96d",
+  "id": "ent.place.x-31dc44c9",
   "type": "place",
-  "name": "藏经阁",
+  "name": "炼器殿",
   "aliases": [
-    "战神殿藏经阁"
+    "战神殿炼器殿"
   ],
-  "summary": "恒岳派藏经处，内门弟子可任意选取修仙法门，长辈多劝选剑修。",
+  "summary": "战神殿专司炼器之处，王林欲往学炼器术。",
   "attributes": {
     "所属势力": "战神殿",
     "类型": "殿阁"
   },
   "observations": {
     "所属势力": [
-      {
-        "value": "恒岳派",
-        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
-        "seq": 25
-      },
       {
         "value": "战神殿",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
@@ -25,23 +20,13 @@
     ],
     "类型": [
       {
-        "value": "藏经阁",
-        "docId": "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
-        "seq": 25
-      },
-      {
-        "value": "藏书阁",
-        "docId": "plot.xianni-ch43-48-lishan-pilidan-shenshi",
-        "seq": 43
-      },
-      {
         "value": "殿阁",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
       }
     ]
   },
-  "firstSeq": 25,
+  "firstSeq": 111,
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
@@ -59,9 +44,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
-    "plot.xianni-ch43-48-lishan-pilidan-shenshi",
     "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo"
   ],
-  "updatedAt": "2026-07-05T04:42:11.901Z"
+  "updatedAt": "2026-07-05T04:42:11.888Z"
 }
