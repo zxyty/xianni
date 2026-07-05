@@ -5,7 +5,8 @@
   "aliases": [],
   "summary": "统辖各级修真国的联盟，资助四级以上修真国、分配域外修真星争夺资格；天逆珠子曾突现于此引发争夺。",
   "attributes": {
-    "据点": "通天塔"
+    "据点": "通天塔",
+    "理念": "维护/加固域外战场空间"
   },
   "observations": {
     "据点": [
@@ -13,6 +14,13 @@
         "value": "通天塔",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
+      }
+    ],
+    "理念": [
+      {
+        "value": "维护/加固域外战场空间",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
       }
     ]
   },
@@ -23,13 +31,20 @@
       "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
       "dated": false,
       "seq": 80
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.xianni-ch117-wanglin-death",
+      "dated": false,
+      "seq": 102
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch43-48-lishan-pilidan-shenshi",
-    "plot.xianni-ch80-84-wanglin-enters-shiyinzong"
+    "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+    "plot.xianni-ch117-wanglin-death"
   ],
-  "updatedAt": "2026-06-22T14:15:16.964Z"
+  "updatedAt": "2026-07-05T04:09:56.806Z"
 }

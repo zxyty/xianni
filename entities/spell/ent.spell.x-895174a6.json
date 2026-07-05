@@ -4,12 +4,13 @@
   "name": "瞬移",
   "aliases": [
     "瞬移法术",
-    "蓝光瞬移"
+    "蓝光瞬移",
+    "瞬移之术"
   ],
   "summary": "元婴期高手独有的空间法术，可瞬间移动千丈之外；本片段由石珠内前辈司徒南代王林施展，消耗元婴精华。",
   "attributes": {
-    "类型": "空间瞬移、身法/位移",
-    "适用境界": "元婴期",
+    "类型": "空间瞬移、身法/位移、空间移动",
+    "适用境界": "元婴期以上独有",
     "消耗": "元婴精华",
     "出处": "石珠（天逆珠子）之力"
   },
@@ -24,6 +25,11 @@
         "value": "身法/位移",
         "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
         "seq": 67
+      },
+      {
+        "value": "空间移动",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
       }
     ],
     "适用境界": [
@@ -31,6 +37,11 @@
         "value": "元婴期",
         "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
         "seq": 67
+      },
+      {
+        "value": "元婴期以上独有",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
       }
     ],
     "消耗": [
@@ -58,9 +69,9 @@
     },
     "适用境界": {
       "asOf": null,
-      "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
+      "docId": "plot.xianni-ch117-wanglin-death",
       "dated": false,
-      "seq": 67
+      "seq": 102
     },
     "消耗": {
       "asOf": null,
@@ -78,7 +89,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch67-71-tengli-chase-lanxianteng"
+    "plot.xianni-ch67-71-tengli-chase-lanxianteng",
+    "plot.xianni-ch117-wanglin-death"
   ],
-  "updatedAt": "2026-06-22T13:25:25.127Z"
+  "updatedAt": "2026-07-05T04:09:56.769Z"
 }

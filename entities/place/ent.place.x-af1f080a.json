@@ -11,7 +11,7 @@
   "attributes": {
     "所属界面": "赵国",
     "方位": "赵国境内偏南",
-    "类型": "山谷·资格赛战场、谷地、秘境/谷地、域外战场清理争夺地、域外战场入口、秘境/封印之地、秘境/战场入口、秘境/资格赛场地",
+    "类型": "山谷·资格赛战场、谷地、秘境/谷地、域外战场清理争夺地、域外战场入口、秘境/封印之地、秘境/战场入口、秘境/资格赛场地、山谷/通道口",
     "规模": "小地方",
     "所属势力": "赵国",
     "守护": "封印阵法、出口八角形阵法、阵法限制化神期以下方可进入",
@@ -78,6 +78,11 @@
         "value": "秘境/资格赛场地",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
+      },
+      {
+        "value": "山谷/通道口",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
       }
     ],
     "规模": [
@@ -183,7 +188,8 @@
   "docs": [
     "plot.xianni-ch85-89-jilian-jianqiao",
     "lore.xianni-ch105-jijing-realm",
-    "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery"
+    "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+    "plot.xianni-ch117-wanglin-death"
   ],
-  "updatedAt": "2026-07-05T03:50:16.497Z"
+  "updatedAt": "2026-07-05T04:09:56.791Z"
 }

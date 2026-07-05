@@ -12,8 +12,8 @@
   "summary": "白展所用变色飞剑，随入鞘深度由绿变蓝变黑带金、增威，有飞剑虚影与瞬移之能，战后归王林。",
   "attributes": {
     "持有者": "王林",
-    "能力": "变色增威、飞剑虚影、瞬移、化绿光偷袭、寒芒伤敌、无声偷袭、瞬息突袭、穿透内甲、御剑飞行、穿刺挖洞、瞬移追击、穿透紫气护体、瞬移刺杀、霸道寒气结晶万物、瞬移闪现、破空杀敌、穿体致敌化为冰晶、冻杀，一闪一杀",
-    "来历": "血炼之物",
+    "能力": "变色增威、飞剑虚影、瞬移、化绿光偷袭、寒芒伤敌、无声偷袭、瞬息突袭、穿透内甲、御剑飞行、穿刺挖洞、瞬移追击、穿透紫气护体、瞬移刺杀、霸道寒气结晶万物、瞬移闪现、破空杀敌、穿体致敌化为冰晶、冻杀，一闪一杀、遁光变向穿刺",
+    "来历": "仿品",
     "禁制": "已被血炼",
     "外形": "绿色小剑、绿色小剑、寒芒、一道绿色小剑、绿色小剑/绿光、绿色小剑，剑身冰凉刺骨",
     "五行属性": "木（绿）、木（绿光）、极·寒、极（冰）",
@@ -97,6 +97,11 @@
         "value": "冻杀，一闪一杀",
         "docId": "lore.xianni-ch105-jijing-realm",
         "seq": 90
+      },
+      {
+        "value": "遁光变向穿刺",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
       }
     ],
     "来历": [
@@ -114,6 +119,12 @@
         "value": "血炼之物",
         "docId": "lore.xianni-ch105-jijing-realm",
         "seq": 90
+      },
+      {
+        "value": "仿品",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102,
+        "note": "林奕评语"
       }
     ],
     "禁制": [
@@ -201,9 +212,10 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "lore.xianni-ch105-jijing-realm",
+      "docId": "plot.xianni-ch117-wanglin-death",
       "dated": false,
-      "seq": 90
+      "seq": 102,
+      "note": "林奕评语"
     },
     "禁制": {
       "asOf": null,
@@ -237,7 +249,8 @@
     "plot.xianni-ch67-71-tengli-chase-lanxianteng",
     "plot.xianni-ch091-jiyin-lingli",
     "plot.xianni-ch85-89-jilian-jianqiao",
-    "lore.xianni-ch105-jijing-realm"
+    "lore.xianni-ch105-jijing-realm",
+    "plot.xianni-ch117-wanglin-death"
   ],
-  "updatedAt": "2026-07-05T03:14:59.657Z"
+  "updatedAt": "2026-07-05T04:09:56.764Z"
 }

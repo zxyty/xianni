@@ -4,15 +4,19 @@
   "name": "域外战场",
   "aliases": [
     "域外战场资格赛",
-    "百年一次的域外战场"
+    "百年一次的域外战场",
+    "域外",
+    "域外空间"
   ],
   "summary": "域外通道之外的厮杀战场，每百年清理一次，强者云集、生死一瞬。",
   "attributes": {
-    "类型": "战场、战场/资格赛场、秘境·战场、充满裂缝的空间、战场/域外之地、战场/秘境",
-    "危险度": "极高（去者十存一）",
+    "类型": "战场、战场/资格赛场、秘境·战场、充满裂缝的空间、战场/域外之地、战场/秘境、战场/界外、古战场/域外空间、域外战场（星空战场）",
+    "危险度": "极高、极高（罡风熔化神、裂痕吞婴变）、极高（去者十存一）、高（生还率约30%）、极高（濒临崩溃、遍布裂缝）、极高（濒临空间崩溃，禁止四五级修真国修士进入）",
     "所属势力": "联盟",
     "规模": "赵国名额三个",
-    "所属界面": "赵国修真界"
+    "所属界面": "赵国修真界",
+    "特产": "材料、法宝、神识（征缴单前十的至珍之物）",
+    "守护": "修真联盟定期加固"
   },
   "observations": {
     "类型": [
@@ -45,6 +49,21 @@
         "value": "战场/秘境",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
+      },
+      {
+        "value": "战场/界外",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
+      },
+      {
+        "value": "古战场/域外空间",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
+      },
+      {
+        "value": "域外战场（星空战场）",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
       }
     ],
     "危险度": [
@@ -62,6 +81,21 @@
         "value": "极高（去者十存一）",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
+      },
+      {
+        "value": "高（生还率约30%）",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
+      },
+      {
+        "value": "极高（濒临崩溃、遍布裂缝）",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
+      },
+      {
+        "value": "极高（濒临空间崩溃，禁止四五级修真国修士进入）",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
       }
     ],
     "所属势力": [
@@ -85,6 +119,30 @@
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
       }
+    ],
+    "特产": [
+      {
+        "value": "材料",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
+      },
+      {
+        "value": "法宝",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
+      },
+      {
+        "value": "神识（征缴单前十的至珍之物）",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
+      }
+    ],
+    "守护": [
+      {
+        "value": "修真联盟定期加固",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
+      }
     ]
   },
   "firstSeq": 80,
@@ -97,9 +155,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
       "dated": false,
-      "seq": 96
+      "seq": 80
     },
     "所属势力": {
       "asOf": null,
@@ -119,6 +177,18 @@
       "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
       "dated": false,
       "seq": 96
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch117-wanglin-death",
+      "dated": false,
+      "seq": 102
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch117-wanglin-death",
+      "dated": false,
+      "seq": 102
     }
   },
   "contested": false,
@@ -127,7 +197,8 @@
     "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
     "plot.xianni-ch85-89-jilian-jianqiao",
     "lore.xianni-ch105-jijing-realm",
-    "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery"
+    "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+    "plot.xianni-ch117-wanglin-death"
   ],
-  "updatedAt": "2026-07-05T03:50:16.469Z"
+  "updatedAt": "2026-07-05T04:09:56.814Z"
 }
