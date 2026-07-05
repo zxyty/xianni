@@ -12,7 +12,8 @@
     "阶序": "结丹之上",
     "上一境": "结丹",
     "小阶段": "元婴期、后期、元婴初期、元婴中期",
-    "下一境": "化神"
+    "下一境": "筑基",
+    "突破关键": "凝结元婴"
   },
   "observations": {
     "阶序": [
@@ -81,6 +82,18 @@
         "value": "化神",
         "docId": "lore.xianni-ch105-jijing-realm",
         "seq": 90
+      },
+      {
+        "value": "筑基",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
+      }
+    ],
+    "突破关键": [
+      {
+        "value": "凝结元婴",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
       }
     ]
   },
@@ -106,9 +119,15 @@
     },
     "下一境": {
       "asOf": null,
-      "docId": "lore.xianni-ch105-jijing-realm",
+      "docId": "plot.xianni-ch117-wanglin-death",
       "dated": false,
-      "seq": 90
+      "seq": 102
+    },
+    "突破关键": {
+      "asOf": null,
+      "docId": "plot.xianni-ch117-wanglin-death",
+      "dated": false,
+      "seq": 102
     }
   },
   "contested": false,
@@ -122,7 +141,8 @@
     "plot.xianni-ch091-jiyin-lingli",
     "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
     "lore.xianni-ch105-jijing-realm",
-    "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery"
+    "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+    "plot.xianni-ch117-wanglin-death"
   ],
-  "updatedAt": "2026-07-05T03:50:16.500Z"
+  "updatedAt": "2026-07-05T04:09:56.795Z"
 }

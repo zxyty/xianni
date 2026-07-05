@@ -10,11 +10,12 @@
   ],
   "summary": "赵国所在三级修真国监察使，恭迎联盟使者并宣布域外战场令牌任务与大战规矩。",
   "attributes": {
-    "身份": "赵国使者",
+    "身份": "三级修真国监察使、赵国使者、旁观强者、赵国监察使者",
     "称号": "胖使者",
     "阵营": "赵国",
     "外貌": "身体肥胖如球、面带微笑",
-    "性格": "看似随和、洞悉全局"
+    "性格": "看似随和、洞悉全局",
+    "小阶段": "元婴期"
   },
   "observations": {
     "身份": [
@@ -27,6 +28,16 @@
         "value": "赵国使者",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
+      },
+      {
+        "value": "旁观强者",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
+      },
+      {
+        "value": "赵国监察使者",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
       }
     ],
     "称号": [
@@ -56,15 +67,22 @@
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
       }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴期",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
+      }
     ]
   },
   "firstSeq": 80,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
       "dated": false,
-      "seq": 96
+      "seq": 80
     },
     "称号": {
       "asOf": null,
@@ -89,13 +107,20 @@
       "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
       "dated": false,
       "seq": 96
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch117-wanglin-death",
+      "dated": false,
+      "seq": 102
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
-    "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery"
+    "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+    "plot.xianni-ch117-wanglin-death"
   ],
-  "updatedAt": "2026-07-05T03:50:16.482Z"
+  "updatedAt": "2026-07-05T04:09:56.780Z"
 }

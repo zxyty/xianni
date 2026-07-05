@@ -6,12 +6,13 @@
     "玉符",
     "丹宝",
     "九符玉符",
-    "古朴玉符"
+    "古朴玉符",
+    "防罡风玉符"
   ],
   "summary": "可发挥三次类似地裂法术的玉符，本章以12粒夺灵丹成交。",
   "attributes": {
     "类型": "符箓",
-    "用途": "释放地裂类法术三次",
+    "用途": "释放地裂类法术三次、防御罡风、50年期满传送回国",
     "品阶": "丹宝（结丹期所制）"
   },
   "observations": {
@@ -27,6 +28,16 @@
         "value": "释放地裂类法术三次",
         "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
         "seq": 31
+      },
+      {
+        "value": "防御罡风",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
+      },
+      {
+        "value": "50年期满传送回国",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
       }
     ],
     "品阶": [
@@ -67,7 +78,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch31-36-xueshui-jiaoyi",
-    "plot.xianni-ch61-66-strange-sword-baizhan"
+    "plot.xianni-ch61-66-strange-sword-baizhan",
+    "plot.xianni-ch117-wanglin-death"
   ],
-  "updatedAt": "2026-06-22T13:06:00.176Z"
+  "updatedAt": "2026-07-05T04:09:56.787Z"
 }

@@ -15,7 +15,8 @@
     "种族": "凡人",
     "身份": "凡人木匠",
     "出身地": "铁柱家乡山村",
-    "标志特征": "风寒落下阴雨天全身疼痛病根"
+    "标志特征": "魂魄被王林冰冻保存",
+    "存殁": "死亡、魂魄留存"
   },
   "observations": {
     "性别": [
@@ -76,6 +77,24 @@
         "value": "风寒落下阴雨天全身疼痛病根",
         "docId": "plot.xianni-ch43-48-lishan-pilidan-shenshi",
         "seq": 43
+      },
+      {
+        "value": "魂魄被王林冰冻保存",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
+      },
+      {
+        "value": "魂魄留存",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102,
+        "note": "凡人之魂被司徒南以元婴包裹保存"
       }
     ]
   },
@@ -107,9 +126,15 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch43-48-lishan-pilidan-shenshi",
+      "docId": "plot.xianni-ch117-wanglin-death",
       "dated": false,
-      "seq": 43
+      "seq": 102
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch117-wanglin-death",
+      "dated": false,
+      "seq": 102
     }
   },
   "contested": false,
@@ -119,7 +144,8 @@
     "plot.xianni-ch07-12-liushu-rumen-shizhu",
     "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
     "plot.xianni-ch43-48-lishan-pilidan-shenshi",
-    "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion"
+    "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
+    "plot.xianni-ch117-wanglin-death"
   ],
-  "updatedAt": "2026-06-22T12:57:09.150Z"
+  "updatedAt": "2026-07-05T04:09:56.801Z"
 }

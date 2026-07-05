@@ -2,11 +2,13 @@
   "id": "ent.passage.x-55ac58e2",
   "type": "passage",
   "name": "域外通道",
-  "aliases": [],
+  "aliases": [
+    "双蛟通道"
+  ],
   "summary": "由修真联盟使者打开、通往域外战场的通道。",
   "attributes": {
-    "类型": "通道",
-    "两端": "赵国—域外战场",
+    "类型": "空间通道",
+    "两端": "赵国—域外战场、赵国、域外战场",
     "守护": "修真联盟使者"
   },
   "observations": {
@@ -15,6 +17,11 @@
         "value": "通道",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
+      },
+      {
+        "value": "空间通道",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
       }
     ],
     "两端": [
@@ -22,6 +29,16 @@
         "value": "赵国—域外战场",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
+      },
+      {
+        "value": "赵国",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
+      },
+      {
+        "value": "域外战场",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
       }
     ],
     "守护": [
@@ -36,9 +53,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "docId": "plot.xianni-ch117-wanglin-death",
       "dated": false,
-      "seq": 80
+      "seq": 102
     },
     "两端": {
       "asOf": null,
@@ -56,7 +73,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch80-84-wanglin-enters-shiyinzong"
+    "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+    "plot.xianni-ch117-wanglin-death"
   ],
-  "updatedAt": "2026-06-22T14:15:16.967Z"
+  "updatedAt": "2026-07-05T04:09:56.790Z"
 }

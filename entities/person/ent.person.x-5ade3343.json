@@ -8,7 +8,8 @@
     "身份": "散修",
     "小阶段": "结丹期",
     "性格": "护短",
-    "标志特征": "控制门下弟子的秘术、推算秘术"
+    "标志特征": "控制门下弟子的秘术、推算秘术",
+    "阵营": "王林敌对"
   },
   "observations": {
     "身份": [
@@ -43,6 +44,14 @@
         "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
         "seq": 67
       }
+    ],
+    "阵营": [
+      {
+        "value": "王林敌对",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102,
+        "note": "藤化元单方所述"
+      }
     ]
   },
   "firstSeq": 61,
@@ -70,13 +79,21 @@
       "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
       "dated": false,
       "seq": 67
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch117-wanglin-death",
+      "dated": false,
+      "seq": 102,
+      "note": "藤化元单方所述"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch61-66-strange-sword-baizhan",
-    "plot.xianni-ch67-71-tengli-chase-lanxianteng"
+    "plot.xianni-ch67-71-tengli-chase-lanxianteng",
+    "plot.xianni-ch117-wanglin-death"
   ],
-  "updatedAt": "2026-06-22T13:25:25.109Z"
+  "updatedAt": "2026-07-05T04:09:56.759Z"
 }

@@ -5,14 +5,20 @@
   "aliases": [
     "巨魔族巨人",
     "巨人",
-    "联盟驾临使者"
+    "联盟驾临使者",
+    "中年汉子",
+    "眉心锤子图案者",
+    "褫"
   ],
   "summary": "巨魔族高手，借通天塔黑洞降临赵国，下达战场任务、悬赏石珠并夺走七彩法器。",
   "attributes": {
     "种族": "巨魔族",
-    "身份": "联盟使者",
-    "外貌": "巨大头颅/巨人",
-    "性格": "傲慢不耐"
+    "身份": "四级修真国名人",
+    "外貌": "巨大头颅/巨人、数十丈巨人、中年汉子",
+    "性格": "见物必取（不捡东西就算丢）",
+    "标志特征": "眉心锤子形图案",
+    "阵营": "四级修真国",
+    "小阶段": "化神中期"
   },
   "observations": {
     "种族": [
@@ -27,6 +33,11 @@
         "value": "联盟使者",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
+      },
+      {
+        "value": "四级修真国名人",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
       }
     ],
     "外貌": [
@@ -34,6 +45,17 @@
         "value": "巨大头颅/巨人",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
+      },
+      {
+        "value": "数十丈巨人",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102,
+        "note": "可缩至常人高"
+      },
+      {
+        "value": "中年汉子",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
       }
     ],
     "性格": [
@@ -41,6 +63,32 @@
         "value": "傲慢不耐",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
+      },
+      {
+        "value": "见物必取（不捡东西就算丢）",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "眉心锤子形图案",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
+      }
+    ],
+    "阵营": [
+      {
+        "value": "四级修真国",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "化神中期",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
       }
     ]
   },
@@ -54,9 +102,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "docId": "plot.xianni-ch117-wanglin-death",
       "dated": false,
-      "seq": 80
+      "seq": 102
     },
     "外貌": {
       "asOf": null,
@@ -66,15 +114,34 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "docId": "plot.xianni-ch117-wanglin-death",
       "dated": false,
-      "seq": 80
+      "seq": 102
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch117-wanglin-death",
+      "dated": false,
+      "seq": 102
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch117-wanglin-death",
+      "dated": false,
+      "seq": 102
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch117-wanglin-death",
+      "dated": false,
+      "seq": 102
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch80-84-wanglin-enters-shiyinzong"
+    "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+    "plot.xianni-ch117-wanglin-death"
   ],
-  "updatedAt": "2026-06-22T14:15:16.973Z"
+  "updatedAt": "2026-07-05T04:09:56.799Z"
 }

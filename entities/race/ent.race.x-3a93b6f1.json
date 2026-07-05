@@ -7,8 +7,9 @@
   ],
   "summary": "域外战场中的修真种族，全靠吞噬他人增长修为；恒岳派始祖即被其吞噬。",
   "attributes": {
-    "特性": "吞噬他人增长修为",
-    "聚居地": "域外战场"
+    "特性": "吞噬他人增长修为、天生拥有灵力、眉心锤子形图案、额头拓印锤子印记，体型庞大",
+    "聚居地": "域外战场",
+    "阵营": "四级修真国"
   },
   "observations": {
     "特性": [
@@ -16,6 +17,21 @@
         "value": "吞噬他人增长修为",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
+      },
+      {
+        "value": "天生拥有灵力",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
+      },
+      {
+        "value": "眉心锤子形图案",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
+      },
+      {
+        "value": "额头拓印锤子印记，体型庞大",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
       }
     ],
     "聚居地": [
@@ -23,6 +39,13 @@
         "value": "域外战场",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
+      }
+    ],
+    "阵营": [
+      {
+        "value": "四级修真国",
+        "docId": "plot.xianni-ch117-wanglin-death",
+        "seq": 102
       }
     ]
   },
@@ -39,12 +62,19 @@
       "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
       "dated": false,
       "seq": 80
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch117-wanglin-death",
+      "dated": false,
+      "seq": 102
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch80-84-wanglin-enters-shiyinzong"
+    "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+    "plot.xianni-ch117-wanglin-death"
   ],
-  "updatedAt": "2026-06-22T14:15:16.973Z"
+  "updatedAt": "2026-07-05T04:09:56.818Z"
 }
