@@ -7,16 +7,19 @@
     "黑袍老者",
     "腾化元",
     "藤家老祖",
-    "太爷爷"
+    "太爷爷",
+    "藤家老祖太"
   ],
   "summary": "藤厉的太爷爷，元婴期高手。借留于藤厉灵魂的神识放出虚外化身警告王林，无果后于数万里外耗元婴之气布下诅咒大阵立誓复仇。",
   "attributes": {
     "小阶段": "元婴期",
-    "外貌": "面目阴沉的老者，气息毁天灭地",
+    "外貌": "枯瘦黑袍、双目阴毒",
     "身份": "藤厉太爷爷、藤家高手、藤家老祖",
-    "性格": "阴沉、护短、记仇",
+    "性格": "阴毒记仇",
     "阵营": "追杀王林",
-    "称号": "太爷爷"
+    "称号": "太爷爷",
+    "标志特征": "以黑色小旗收摄亡魂",
+    "存殁": "存活"
   },
   "observations": {
     "小阶段": [
@@ -36,6 +39,11 @@
         "value": "面目阴沉的老者，气息毁天灭地",
         "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
         "seq": 72
+      },
+      {
+        "value": "枯瘦黑袍、双目阴毒",
+        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+        "seq": 85
       }
     ],
     "身份": [
@@ -60,6 +68,11 @@
         "value": "阴沉、护短、记仇",
         "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
         "seq": 67
+      },
+      {
+        "value": "阴毒记仇",
+        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+        "seq": 85
       }
     ],
     "阵营": [
@@ -86,6 +99,20 @@
         "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
         "seq": 72
       }
+    ],
+    "标志特征": [
+      {
+        "value": "以黑色小旗收摄亡魂",
+        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+        "seq": 85
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+        "seq": 85
+      }
     ]
   },
   "firstSeq": 67,
@@ -98,9 +125,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+      "docId": "plot.xianni-ch85-89-jilian-jianqiao",
       "dated": false,
-      "seq": 72
+      "seq": 85
     },
     "身份": {
       "asOf": null,
@@ -110,9 +137,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
+      "docId": "plot.xianni-ch85-89-jilian-jianqiao",
       "dated": false,
-      "seq": 67
+      "seq": 85
     },
     "阵营": {
       "asOf": null,
@@ -126,6 +153,18 @@
       "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
       "dated": false,
       "seq": 72
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+      "dated": false,
+      "seq": 85
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+      "dated": false,
+      "seq": 85
     }
   },
   "contested": false,
@@ -134,7 +173,8 @@
     "plot.xianni-ch67-71-tengli-chase-lanxianteng",
     "lore.huangquan-shengqiao-jue-jiyin-zhidi",
     "plot.xianni-ch091-jiyin-lingli",
-    "plot.xianni-ch80-84-wanglin-enters-shiyinzong"
+    "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+    "plot.xianni-ch85-89-jilian-jianqiao"
   ],
-  "updatedAt": "2026-06-22T14:15:16.959Z"
+  "updatedAt": "2026-07-05T03:01:33.259Z"
 }

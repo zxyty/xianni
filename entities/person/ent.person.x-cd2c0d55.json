@@ -5,19 +5,21 @@
   "aliases": [
     "大哥的儿子",
     "王师兄",
-    "新人王"
+    "新人王",
+    "卓少爷"
   ],
   "summary": "王林堂兄，被道虚上仙内定收为弟子，傲慢轻蔑王林。",
   "attributes": {
     "性别": "男",
     "种族": "凡人",
-    "身份": "玄道宗访客接待人",
-    "性格": "傲慢轻蔑、刻薄嚣张、狂傲自大、瞧不起人、嚣张跋扈、轻蔑傲慢、恶毒、好羞辱人",
-    "外貌": "俊朗不凡",
-    "小阶段": "凝气期第一层、凝气第一层、凝气期第一层巅峰、凝气期第三层、凝气期第五层顶峰、凝气五层",
+    "身份": "玄道宗弟子",
+    "性格": "傲慢轻蔑、刻薄嚣张、狂傲自大、瞧不起人、嚣张跋扈、轻蔑傲慢、恶毒、好羞辱人、由怯懦转为狰狞坚忍",
+    "外貌": "黑衣劲衫、背剑、眼角细纹、显沧桑",
+    "小阶段": "凝气期第一层、凝气第一层、凝气期第一层巅峰、凝气期第三层、凝气期第五层顶峰、凝气五层、凝气期第十一层",
     "标志特征": "天资极佳、修炼神速",
     "称号": "新人王、两年前新人王",
-    "阵营": "恒岳派、敌视王林、玄道宗"
+    "阵营": "恒岳派、敌视王林、玄道宗、王氏家族",
+    "存殁": "存活"
   },
   "observations": {
     "性别": [
@@ -55,6 +57,11 @@
         "value": "玄道宗访客接待人",
         "docId": "plot.xianni-ch37-42-sinian-guangban",
         "seq": 37
+      },
+      {
+        "value": "玄道宗弟子",
+        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+        "seq": 85
       }
     ],
     "性格": [
@@ -88,6 +95,12 @@
         "value": "恶毒、好羞辱人",
         "docId": "plot.xianni-ch37-42-sinian-guangban",
         "seq": 37
+      },
+      {
+        "value": "由怯懦转为狰狞坚忍",
+        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+        "seq": 85,
+        "note": "本章转变"
       }
     ],
     "外貌": [
@@ -100,6 +113,11 @@
         "value": "俊朗不凡",
         "docId": "plot.xianni-ch37-42-sinian-guangban",
         "seq": 37
+      },
+      {
+        "value": "黑衣劲衫、背剑、眼角细纹、显沧桑",
+        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+        "seq": 85
       }
     ],
     "小阶段": [
@@ -133,6 +151,11 @@
         "value": "凝气五层",
         "docId": "plot.xianni-ch37-42-sinian-guangban",
         "seq": 37
+      },
+      {
+        "value": "凝气期第十一层",
+        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+        "seq": 85
       }
     ],
     "标志特征": [
@@ -170,6 +193,18 @@
         "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
         "seq": 55,
         "note": "第64-70章恒岳派覆灭后留下加入"
+      },
+      {
+        "value": "王氏家族",
+        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+        "seq": 85
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+        "seq": 85
       }
     ]
   },
@@ -189,9 +224,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch37-42-sinian-guangban",
+      "docId": "plot.xianni-ch85-89-jilian-jianqiao",
       "dated": false,
-      "seq": 37
+      "seq": 85
     },
     "性格": {
       "asOf": null,
@@ -201,9 +236,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch37-42-sinian-guangban",
+      "docId": "plot.xianni-ch85-89-jilian-jianqiao",
       "dated": false,
-      "seq": 37
+      "seq": 85
     },
     "小阶段": {
       "asOf": null,
@@ -229,6 +264,12 @@
       "docId": "plot.xianni-ch37-42-sinian-guangban",
       "dated": false,
       "seq": 37
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+      "dated": false,
+      "seq": 85
     }
   },
   "contested": false,
@@ -242,7 +283,8 @@
     "plot.xianni-ch37-42-sinian-guangban",
     "plot.xianni-ch43-48-lishan-pilidan-shenshi",
     "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
-    "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion"
+    "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
+    "plot.xianni-ch85-89-jilian-jianqiao"
   ],
-  "updatedAt": "2026-06-22T12:57:09.152Z"
+  "updatedAt": "2026-07-05T03:01:33.261Z"
 }

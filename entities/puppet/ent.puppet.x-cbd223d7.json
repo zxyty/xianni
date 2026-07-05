@@ -5,15 +5,16 @@
   "aliases": [
     "阿木",
     "棺木男子",
-    "干枯男子"
+    "干枯男子",
+    "尸傀怪物"
   ],
   "summary": "吴宇祭炼的尸体傀儡，叛变重伤吴宇并脱离控制，已生神智达元婴中期，欲吞吴宇元婴脱束缚。",
   "attributes": {
     "本体来源": "尸体（吴宇所祭炼）",
-    "操控者": "尸阴宗",
+    "操控者": "罗刹",
     "炼制者": "吴宇",
-    "能力": "生神智、达元婴中期；离吴宇超百里则烟消云散；每活动一段须长眠百年",
-    "外形": "干枯躯体、面色冰冷，踩黑色棺木"
+    "能力": "生神智、达元婴中期；离吴宇超百里则烟消云散；每活动一段须长眠百年、吸食活人修为、拟态主人相貌",
+    "外形": "黑色长毛干尸，双眼绿光"
   },
   "observations": {
     "本体来源": [
@@ -34,6 +35,11 @@
         "value": "尸阴宗",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
+      },
+      {
+        "value": "罗刹",
+        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+        "seq": 85
       }
     ],
     "炼制者": [
@@ -48,6 +54,16 @@
         "value": "生神智、达元婴中期；离吴宇超百里则烟消云散；每活动一段须长眠百年",
         "docId": "plot.xianni-ch091-jiyin-lingli",
         "seq": 76
+      },
+      {
+        "value": "吸食活人修为",
+        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+        "seq": 85
+      },
+      {
+        "value": "拟态主人相貌",
+        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+        "seq": 85
       }
     ],
     "外形": [
@@ -55,6 +71,11 @@
         "value": "干枯躯体、面色冰冷，踩黑色棺木",
         "docId": "plot.xianni-ch091-jiyin-lingli",
         "seq": 76
+      },
+      {
+        "value": "黑色长毛干尸，双眼绿光",
+        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+        "seq": 85
       }
     ]
   },
@@ -68,9 +89,9 @@
     },
     "操控者": {
       "asOf": null,
-      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "docId": "plot.xianni-ch85-89-jilian-jianqiao",
       "dated": false,
-      "seq": 80
+      "seq": 85
     },
     "炼制者": {
       "asOf": null,
@@ -86,16 +107,17 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch091-jiyin-lingli",
+      "docId": "plot.xianni-ch85-89-jilian-jianqiao",
       "dated": false,
-      "seq": 76
+      "seq": 85
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch091-jiyin-lingli",
-    "plot.xianni-ch80-84-wanglin-enters-shiyinzong"
+    "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+    "plot.xianni-ch85-89-jilian-jianqiao"
   ],
-  "updatedAt": "2026-06-22T14:15:16.993Z"
+  "updatedAt": "2026-07-05T03:01:33.230Z"
 }

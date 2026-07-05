@@ -4,14 +4,15 @@
   "name": "木冗",
   "aliases": [
     "木冗长老",
-    "执事长老"
+    "执事长老",
+    "木兄"
   ],
   "summary": "赵国尸阴宗执事长老，守溶洞，因玉简颜色尊王林为师祖。",
   "attributes": {
-    "小阶段": "筑基中期",
-    "身份": "尸阴宗执事长老",
-    "阵营": "尸阴宗",
-    "性格": "恭敬"
+    "小阶段": "筑基初期",
+    "身份": "尸阴宗筑基期弟子",
+    "阵营": "尸阴宗、魔道、魔道·尸阴宗",
+    "性格": "心机深沉"
   },
   "observations": {
     "小阶段": [
@@ -19,6 +20,11 @@
         "value": "筑基中期",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
+      },
+      {
+        "value": "筑基初期",
+        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+        "seq": 85
       }
     ],
     "身份": [
@@ -26,6 +32,11 @@
         "value": "尸阴宗执事长老",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
+      },
+      {
+        "value": "尸阴宗筑基期弟子",
+        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+        "seq": 85
       }
     ],
     "阵营": [
@@ -33,6 +44,16 @@
         "value": "尸阴宗",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
+      },
+      {
+        "value": "魔道",
+        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+        "seq": 85
+      },
+      {
+        "value": "魔道·尸阴宗",
+        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+        "seq": 85
       }
     ],
     "性格": [
@@ -40,6 +61,11 @@
         "value": "恭敬",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
+      },
+      {
+        "value": "心机深沉",
+        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+        "seq": 85
       }
     ]
   },
@@ -47,15 +73,15 @@
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "docId": "plot.xianni-ch85-89-jilian-jianqiao",
       "dated": false,
-      "seq": 80
+      "seq": 85
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "docId": "plot.xianni-ch85-89-jilian-jianqiao",
       "dated": false,
-      "seq": 80
+      "seq": 85
     },
     "阵营": {
       "asOf": null,
@@ -65,15 +91,16 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "docId": "plot.xianni-ch85-89-jilian-jianqiao",
       "dated": false,
-      "seq": 80
+      "seq": 85
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch80-84-wanglin-enters-shiyinzong"
+    "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+    "plot.xianni-ch85-89-jilian-jianqiao"
   ],
-  "updatedAt": "2026-06-22T14:15:16.992Z"
+  "updatedAt": "2026-07-05T03:01:33.223Z"
 }

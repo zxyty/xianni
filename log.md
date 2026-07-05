@@ -17,3 +17,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-22T13:37:13.458Z** `ingest` lore.huangquan-shengqiao-jue-jiyin-zhidi — 黄泉升窍决与极阴之地体系（第87章） · kind=lore asOf=2026-06-22 entities=28 relations=34 src=00072-00075.md
 - **2026-06-22T13:56:11.139Z** `ingest` plot.xianni-ch091-jiyin-lingli — 仙逆 第91章·极阴灵力（古城废墟巨坑冲窍） · kind=plot asOf=2026-06-22 entities=45 relations=57 src=00076-00079.md
 - **2026-06-22T14:15:17.005Z** `ingest` plot.xianni-ch80-84-wanglin-enters-shiyinzong — 仙逆 第80-84章：王林诈称入尸阴宗·夜自在炉鼎秘闻 · kind=plot asOf=2026-06-22 entities=49 relations=60 src=00080-00084.md
+- **2026-07-05T03:01:33.281Z** `ingest` plot.xianni-ch85-89-jilian-jianqiao — 仙逆 第85-89章：尸阴宗地底探尸、祭炼剑鞘与寒丹 · kind=plot asOf=2026-07-05 entities=62 relations=79 src=00085-00089.md
