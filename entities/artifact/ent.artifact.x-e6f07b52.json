@@ -8,15 +8,16 @@
     "绿光飞剑",
     "绿色飞剑",
     "血炼飞剑",
-    "铁片"
+    "铁片",
+    "红光铁片"
   ],
   "summary": "白展所用变色飞剑，随入鞘深度由绿变蓝变黑带金、增威，有飞剑虚影与瞬移之能，战后归王林。",
   "attributes": {
     "持有者": "王林",
-    "能力": "变色增威、飞剑虚影、瞬移、化绿光偷袭、寒芒伤敌、无声偷袭、瞬息突袭、穿透内甲、御剑飞行、穿刺挖洞、瞬移追击、穿透紫气护体、瞬移刺杀、霸道寒气结晶万物、瞬移闪现、破空杀敌、穿体致敌化为冰晶、冻杀，一闪一杀、遁光变向穿刺、散黑色光刺隔绝灰雾、血炼飞剑、收纳魔头",
+    "能力": "变色增威、飞剑虚影、瞬移、化绿光偷袭、寒芒伤敌、无声偷袭、瞬息突袭、穿透内甲、御剑飞行、穿刺挖洞、瞬移追击、穿透紫气护体、瞬移刺杀、霸道寒气结晶万物、瞬移闪现、破空杀敌、穿体致敌化为冰晶、冻杀，一闪一杀、遁光变向穿刺、散黑色光刺隔绝灰雾、血炼飞剑、收纳魔头、高速飞击、封存/放出魔头",
     "来历": "血炼法宝",
     "禁制": "已被血炼",
-    "外形": "绿色小剑、绿色小剑、寒芒、一道绿色小剑、绿色小剑/绿光、绿色小剑，剑身冰凉刺骨、绿色三寸小剑，剑身带裂痕、铁片",
+    "外形": "绿色小剑、绿色小剑、寒芒、一道绿色小剑、绿色小剑/绿光、绿色小剑，剑身冰凉刺骨、绿色三寸小剑，剑身带裂痕、铁片、红光铁片",
     "五行属性": "木（绿）、木（绿光）、极·寒、极（冰）",
     "器灵": "若有灵性"
   },
@@ -118,6 +119,16 @@
         "value": "收纳魔头",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
+      },
+      {
+        "value": "高速飞击",
+        "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
+        "seq": 115
+      },
+      {
+        "value": "封存/放出魔头",
+        "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
+        "seq": 115
       }
     ],
     "来历": [
@@ -196,6 +207,11 @@
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111,
         "note": "由绿色小剑退化所化"
+      },
+      {
+        "value": "红光铁片",
+        "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
+        "seq": 115
       }
     ],
     "五行属性": [
@@ -283,7 +299,8 @@
     "lore.xianni-ch105-jijing-realm",
     "plot.xianni-ch117-wanglin-death",
     "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
-    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo"
+    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+    "plot.xianni-ch130-yuanying-huran-return-hunxue"
   ],
-  "updatedAt": "2026-07-05T04:42:11.880Z"
+  "updatedAt": "2026-07-05T04:54:28.675Z"
 }

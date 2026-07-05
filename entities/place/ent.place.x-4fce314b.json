@@ -9,7 +9,10 @@
   "attributes": {
     "类型": "修真国度",
     "方位": "朱雀星南部",
-    "特产": "焚金果、融灵丹"
+    "特产": "焚金果、融灵丹、火山众多、火山、岩浆",
+    "危险度": "偏僻荒凉、高（火山遍生、地下火兽、火山有爆发之险）",
+    "上级区域": "朱雀星",
+    "守护": "四大宗派元婴期始祖"
   },
   "observations": {
     "类型": [
@@ -46,6 +49,42 @@
         "value": "融灵丹",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
+      },
+      {
+        "value": "火山众多",
+        "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
+        "seq": 115
+      },
+      {
+        "value": "火山、岩浆",
+        "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
+        "seq": 115
+      }
+    ],
+    "危险度": [
+      {
+        "value": "偏僻荒凉",
+        "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
+        "seq": 115
+      },
+      {
+        "value": "高（火山遍生、地下火兽、火山有爆发之险）",
+        "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
+        "seq": 115
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
+        "seq": 115
+      }
+    ],
+    "守护": [
+      {
+        "value": "四大宗派元婴期始祖",
+        "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
+        "seq": 115
       }
     ]
   },
@@ -68,6 +107,24 @@
       "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
       "seq": 111
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
+      "dated": false,
+      "seq": 115
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
+      "dated": false,
+      "seq": 115
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
+      "dated": false,
+      "seq": 115
     }
   },
   "contested": false,
@@ -75,7 +132,8 @@
   "docs": [
     "plot.xianni-ch117-wanglin-death",
     "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
-    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo"
+    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+    "plot.xianni-ch130-yuanying-huran-return-hunxue"
   ],
-  "updatedAt": "2026-07-05T04:42:11.900Z"
+  "updatedAt": "2026-07-05T04:54:28.729Z"
 }
