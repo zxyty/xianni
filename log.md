@@ -22,3 +22,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-07-05T03:50:16.515Z** `ingest` plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery — 仙逆 第96-101章：血炼绿剑臻极·天逆珠子来历隐秘 · kind=plot asOf=2026-07-05 entities=47 relations=45 src=00096-00101.md
 - **2026-07-05T04:09:56.828Z** `ingest` plot.xianni-ch117-wanglin-death — 仙逆 第117章 王林身亡——决明谷前藤化元覆杀 · kind=plot asOf=2026-07-05 entities=54 relations=72 src=00102-00105.md
 - **2026-07-05T04:23:08.087Z** `ingest` plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang — 仙逆 第106-110章：吞魂现世、域外战场坍塌与王林夺舍马良 · kind=plot asOf=2026-07-05 entities=40 relations=48 src=00106-00110.md
+- **2026-07-05T04:42:11.919Z** `ingest` plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo — 《仙逆》第111-114章 王林极识夺舍马良入火焚国·火山闭关复修·焚金山脉夺果 · kind=plot asOf=2026-07-05 entities=54 relations=64 src=00111-00114.md

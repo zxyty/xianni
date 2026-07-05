@@ -1,57 +1,40 @@
 {
-  "id": "ent.place.x-4fce314b",
+  "id": "ent.place.x-84c490ab",
   "type": "place",
-  "name": "火焚国",
-  "aliases": [
-    "火焚国修真界"
-  ],
-  "summary": "三级修真国，战神殿所在、马良出身国。",
+  "name": "焚天火山",
+  "aliases": [],
+  "summary": "火焚国中心位置的火山，顶部有巨大传送阵，为战神殿接引域外战场归者之地。",
   "attributes": {
-    "类型": "修真国度",
-    "方位": "朱雀星南部",
-    "特产": "焚金果、融灵丹"
+    "所属界面": "火焚国",
+    "方位": "火焚国中心",
+    "所属势力": "战神殿"
   },
   "observations": {
-    "类型": [
+    "所属界面": [
       {
-        "value": "三级修真国",
-        "docId": "plot.xianni-ch117-wanglin-death",
-        "seq": 102
-      },
-      {
-        "value": "修真国",
-        "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
-        "seq": 106
-      },
-      {
-        "value": "修真国度",
+        "value": "火焚国",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
       }
     ],
     "方位": [
       {
-        "value": "朱雀星南部",
+        "value": "火焚国中心",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
       }
     ],
-    "特产": [
+    "所属势力": [
       {
-        "value": "焚金果",
-        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
-        "seq": 111
-      },
-      {
-        "value": "融灵丹",
+        "value": "战神殿",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
       }
     ]
   },
-  "firstSeq": 102,
+  "firstSeq": 111,
   "attrProvenance": {
-    "类型": {
+    "所属界面": {
       "asOf": null,
       "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
@@ -63,7 +46,7 @@
       "dated": false,
       "seq": 111
     },
-    "特产": {
+    "所属势力": {
       "asOf": null,
       "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
@@ -73,9 +56,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch117-wanglin-death",
-    "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
     "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo"
   ],
-  "updatedAt": "2026-07-05T04:42:11.900Z"
+  "updatedAt": "2026-07-05T04:42:11.848Z"
 }

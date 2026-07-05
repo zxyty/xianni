@@ -1,45 +1,38 @@
 {
-  "id": "ent.place.x-75f25235",
-  "type": "place",
-  "name": "极阴之地",
-  "aliases": [
-    "极阴之处"
-  ],
-  "summary": "修炼黄泉升窍决所需的特殊地脉，王林依司徒南所授法术追寻。",
+  "id": "ent.person.x-2e48d23b",
+  "type": "person",
+  "name": "鸾凤始祖",
+  "aliases": [],
+  "summary": "战神殿始祖，出关后特意吩咐域外战场幸存者前往汇报。",
   "attributes": {
-    "类型": "阴寒秘境",
-    "特产": "阴寒灵气"
+    "身份": "战神殿始祖",
+    "阵营": "战神殿"
   },
   "observations": {
-    "类型": [
+    "身份": [
       {
-        "value": "极阴地脉",
-        "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
-        "seq": 67
-      },
-      {
-        "value": "阴寒秘境",
+        "value": "战神殿始祖",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
       }
     ],
-    "特产": [
+    "阵营": [
       {
-        "value": "阴寒灵气",
+        "value": "战神殿",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
       }
     ]
   },
-  "firstSeq": 67,
+  "firstSeq": 111,
   "attrProvenance": {
-    "类型": {
+    "身份": {
       "asOf": null,
       "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
       "seq": 111
     },
-    "特产": {
+    "阵营": {
       "asOf": null,
       "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
@@ -49,8 +42,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch67-71-tengli-chase-lanxianteng",
     "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo"
   ],
-  "updatedAt": "2026-07-05T04:42:11.889Z"
+  "updatedAt": "2026-07-05T04:42:11.837Z"
 }

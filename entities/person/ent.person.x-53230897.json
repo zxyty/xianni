@@ -6,8 +6,10 @@
   "summary": "战神殿弟子，性急，第一个识破王林夺舍真相；被命游魂追杀后自愿成奴、献魂魄精血。",
   "attributes": {
     "阵营": "战神殿",
-    "性格": "聪明果决、审时度势",
-    "身份": "王林之奴"
+    "性格": "惶恐",
+    "身份": "战神殿弟子",
+    "小阶段": "凝气/筑基前",
+    "性别": "男"
   },
   "observations": {
     "阵营": [
@@ -22,6 +24,11 @@
         "value": "聪明果决、审时度势",
         "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
         "seq": 106
+      },
+      {
+        "value": "惶恐",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111
       }
     ],
     "身份": [
@@ -29,6 +36,26 @@
         "value": "王林之奴",
         "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
         "seq": 106
+      },
+      {
+        "value": "战神殿弟子",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "凝气/筑基前",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111,
+        "note": "突破在望"
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111
       }
     ]
   },
@@ -42,21 +69,35 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
-      "seq": 106
+      "seq": 111
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
-      "seq": 106
+      "seq": 111
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+      "dated": false,
+      "seq": 111,
+      "note": "突破在望"
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+      "dated": false,
+      "seq": 111
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang"
+    "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo"
   ],
-  "updatedAt": "2026-07-05T04:23:08.065Z"
+  "updatedAt": "2026-07-05T04:42:11.897Z"
 }

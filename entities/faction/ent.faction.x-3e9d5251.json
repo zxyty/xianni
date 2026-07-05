@@ -2,12 +2,16 @@
   "id": "ent.faction.x-3e9d5251",
   "type": "faction",
   "name": "战神殿",
-  "aliases": [],
+  "aliases": [
+    "战}申殿"
+  ],
   "summary": "三级修真国火焚国的宗派，马良所属。",
   "attributes": {
-    "等级": "三级修真国宗派",
+    "等级": "三级修真国宗派、火焚国第一派、火焚国四大派之首",
     "所属界面": "火焚国",
-    "镇派之宝": "战神决"
+    "镇派之宝": "神道",
+    "掌门": "鸾凤始祖",
+    "据点": "火焚国、火焚国东部直冲云霄的山峰"
   },
   "observations": {
     "等级": [
@@ -15,6 +19,16 @@
         "value": "三级修真国宗派",
         "docId": "plot.xianni-ch117-wanglin-death",
         "seq": 102
+      },
+      {
+        "value": "火焚国第一派",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111
+      },
+      {
+        "value": "火焚国四大派之首",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111
       }
     ],
     "所属界面": [
@@ -29,6 +43,30 @@
         "value": "战神决",
         "docId": "plot.xianni-ch117-wanglin-death",
         "seq": 102
+      },
+      {
+        "value": "神道",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111
+      }
+    ],
+    "掌门": [
+      {
+        "value": "鸾凤始祖",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111
+      }
+    ],
+    "据点": [
+      {
+        "value": "火焚国",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111
+      },
+      {
+        "value": "火焚国东部直冲云霄的山峰",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111
       }
     ]
   },
@@ -48,16 +86,29 @@
     },
     "镇派之宝": {
       "asOf": null,
-      "docId": "plot.xianni-ch117-wanglin-death",
+      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
-      "seq": 102
+      "seq": 111
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+      "dated": false,
+      "seq": 111
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+      "dated": false,
+      "seq": 111
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch117-wanglin-death",
-    "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang"
+    "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo"
   ],
-  "updatedAt": "2026-07-05T04:23:08.068Z"
+  "updatedAt": "2026-07-05T04:42:11.897Z"
 }

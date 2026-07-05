@@ -7,14 +7,16 @@
     "诡异生物",
     "双角游魂",
     "魔头",
-    "魂"
+    "魂",
+    "元神所化魔头"
   ],
   "summary": "吞魂带出的烟状神秘物种，见人就扑吞噬使人魂飞魄散成干尸，喜藏身干尸内，惧怕王林。",
   "attributes": {
-    "能力": "吞噬修士、使人成干尸、吞噬灵魂使人化干尸",
-    "外形": "烟状",
+    "能力": "吞噬修士、使人成干尸、吞噬灵魂使人化干尸、无视修为的吞噬、戾气魔头",
+    "外形": "暗红色光芒、红色虚影",
     "天敌": "吞魂/王林",
-    "栖息地": "域外战场"
+    "栖息地": "寂灭空间",
+    "种族": "游魂/魂体"
   },
   "observations": {
     "能力": [
@@ -27,6 +29,16 @@
         "value": "吞噬灵魂使人化干尸",
         "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
         "seq": 106
+      },
+      {
+        "value": "无视修为的吞噬",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111
+      },
+      {
+        "value": "戾气魔头",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111
       }
     ],
     "外形": [
@@ -34,6 +46,11 @@
         "value": "烟状",
         "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
         "seq": 106
+      },
+      {
+        "value": "暗红色光芒、红色虚影",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111
       }
     ],
     "天敌": [
@@ -48,6 +65,18 @@
         "value": "域外战场",
         "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
         "seq": 106
+      },
+      {
+        "value": "寂灭空间",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111
+      }
+    ],
+    "种族": [
+      {
+        "value": "游魂/魂体",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111
       }
     ]
   },
@@ -61,9 +90,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
-      "seq": 106
+      "seq": 111
     },
     "天敌": {
       "asOf": null,
@@ -73,15 +102,22 @@
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
-      "seq": 106
+      "seq": 111
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+      "dated": false,
+      "seq": 111
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang"
+    "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo"
   ],
-  "updatedAt": "2026-07-05T04:23:08.073Z"
+  "updatedAt": "2026-07-05T04:42:11.876Z"
 }

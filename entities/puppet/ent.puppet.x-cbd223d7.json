@@ -6,14 +6,15 @@
     "阿木",
     "棺木男子",
     "干枯男子",
-    "尸傀怪物"
+    "尸傀怪物",
+    "干尸"
   ],
   "summary": "吴宇祭炼的尸体傀儡，叛变重伤吴宇并脱离控制，已生神智达元婴中期，欲吞吴宇元婴脱束缚。",
   "attributes": {
-    "本体来源": "尸体（吴宇所祭炼）",
-    "操控者": "罗刹",
+    "本体来源": "干尸",
+    "操控者": "周刚",
     "炼制者": "吴宇",
-    "能力": "生神智、达元婴中期；离吴宇超百里则烟消云散；每活动一段须长眠百年、吸食活人修为、拟态主人相貌",
+    "能力": "生神智、达元婴中期；离吴宇超百里则烟消云散；每活动一段须长眠百年、吸食活人修为、拟态主人相貌、黑气抓击",
     "外形": "黑色长毛干尸，双眼绿光"
   },
   "observations": {
@@ -22,6 +23,11 @@
         "value": "尸体（吴宇所祭炼）",
         "docId": "plot.xianni-ch091-jiyin-lingli",
         "seq": 76
+      },
+      {
+        "value": "干尸",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111
       }
     ],
     "操控者": [
@@ -40,6 +46,11 @@
         "value": "罗刹",
         "docId": "plot.xianni-ch85-89-jilian-jianqiao",
         "seq": 85
+      },
+      {
+        "value": "周刚",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111
       }
     ],
     "炼制者": [
@@ -64,6 +75,11 @@
         "value": "拟态主人相貌",
         "docId": "plot.xianni-ch85-89-jilian-jianqiao",
         "seq": 85
+      },
+      {
+        "value": "黑气抓击",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111
       }
     ],
     "外形": [
@@ -83,15 +99,15 @@
   "attrProvenance": {
     "本体来源": {
       "asOf": null,
-      "docId": "plot.xianni-ch091-jiyin-lingli",
+      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
-      "seq": 76
+      "seq": 111
     },
     "操控者": {
       "asOf": null,
-      "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
-      "seq": 85
+      "seq": 111
     },
     "炼制者": {
       "asOf": null,
@@ -117,7 +133,8 @@
   "docs": [
     "plot.xianni-ch091-jiyin-lingli",
     "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
-    "plot.xianni-ch85-89-jilian-jianqiao"
+    "plot.xianni-ch85-89-jilian-jianqiao",
+    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo"
   ],
-  "updatedAt": "2026-07-05T03:01:33.230Z"
+  "updatedAt": "2026-07-05T04:42:11.870Z"
 }

@@ -7,15 +7,16 @@
     "变色飞剑",
     "绿光飞剑",
     "绿色飞剑",
-    "血炼飞剑"
+    "血炼飞剑",
+    "铁片"
   ],
   "summary": "白展所用变色飞剑，随入鞘深度由绿变蓝变黑带金、增威，有飞剑虚影与瞬移之能，战后归王林。",
   "attributes": {
     "持有者": "王林",
-    "能力": "变色增威、飞剑虚影、瞬移、化绿光偷袭、寒芒伤敌、无声偷袭、瞬息突袭、穿透内甲、御剑飞行、穿刺挖洞、瞬移追击、穿透紫气护体、瞬移刺杀、霸道寒气结晶万物、瞬移闪现、破空杀敌、穿体致敌化为冰晶、冻杀，一闪一杀、遁光变向穿刺",
-    "来历": "仿品",
+    "能力": "变色增威、飞剑虚影、瞬移、化绿光偷袭、寒芒伤敌、无声偷袭、瞬息突袭、穿透内甲、御剑飞行、穿刺挖洞、瞬移追击、穿透紫气护体、瞬移刺杀、霸道寒气结晶万物、瞬移闪现、破空杀敌、穿体致敌化为冰晶、冻杀，一闪一杀、遁光变向穿刺、散黑色光刺隔绝灰雾、血炼飞剑、收纳魔头",
+    "来历": "血炼法宝",
     "禁制": "已被血炼",
-    "外形": "绿色小剑、绿色小剑、寒芒、一道绿色小剑、绿色小剑/绿光、绿色小剑，剑身冰凉刺骨",
+    "外形": "绿色小剑、绿色小剑、寒芒、一道绿色小剑、绿色小剑/绿光、绿色小剑，剑身冰凉刺骨、绿色三寸小剑，剑身带裂痕、铁片",
     "五行属性": "木（绿）、木（绿光）、极·寒、极（冰）",
     "器灵": "若有灵性"
   },
@@ -102,6 +103,21 @@
         "value": "遁光变向穿刺",
         "docId": "plot.xianni-ch117-wanglin-death",
         "seq": 102
+      },
+      {
+        "value": "散黑色光刺隔绝灰雾",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111
+      },
+      {
+        "value": "血炼飞剑",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111
+      },
+      {
+        "value": "收纳魔头",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111
       }
     ],
     "来历": [
@@ -125,6 +141,11 @@
         "docId": "plot.xianni-ch117-wanglin-death",
         "seq": 102,
         "note": "林奕评语"
+      },
+      {
+        "value": "血炼法宝",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111
       }
     ],
     "禁制": [
@@ -164,6 +185,17 @@
         "value": "绿色小剑，剑身冰凉刺骨",
         "docId": "lore.xianni-ch105-jijing-realm",
         "seq": 90
+      },
+      {
+        "value": "绿色三寸小剑，剑身带裂痕",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111
+      },
+      {
+        "value": "铁片",
+        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+        "seq": 111,
+        "note": "由绿色小剑退化所化"
       }
     ],
     "五行属性": [
@@ -212,10 +244,9 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch117-wanglin-death",
+      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
-      "seq": 102,
-      "note": "林奕评语"
+      "seq": 111
     },
     "禁制": {
       "asOf": null,
@@ -251,7 +282,8 @@
     "plot.xianni-ch85-89-jilian-jianqiao",
     "lore.xianni-ch105-jijing-realm",
     "plot.xianni-ch117-wanglin-death",
-    "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang"
+    "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo"
   ],
-  "updatedAt": "2026-07-05T04:23:08.051Z"
+  "updatedAt": "2026-07-05T04:42:11.880Z"
 }
