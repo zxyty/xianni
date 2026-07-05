@@ -1,31 +1,26 @@
 {
-  "id": "ent.place.x-4fce314b",
-  "type": "place",
-  "name": "火焚国",
+  "id": "ent.world.x-ae5a808d",
+  "type": "world",
+  "name": "生灵空间",
   "aliases": [
-    "火焚国修真界"
+    "生灵界"
   ],
-  "summary": "三级修真国，战神殿所在、马良出身国。",
+  "summary": "生者所在的空间，游魂入内即成『魔头』大祸；传送阵为其入口，以界律法则守护。",
   "attributes": {
-    "类型": "修真国"
+    "特点": "有界律法则护界，禁魂过界"
   },
   "observations": {
-    "类型": [
+    "特点": [
       {
-        "value": "三级修真国",
-        "docId": "plot.xianni-ch117-wanglin-death",
-        "seq": 102
-      },
-      {
-        "value": "修真国",
+        "value": "有界律法则护界，禁魂过界",
         "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
         "seq": 106
       }
     ]
   },
-  "firstSeq": 102,
+  "firstSeq": 106,
   "attrProvenance": {
-    "类型": {
+    "特点": {
       "asOf": null,
       "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
       "dated": false,
@@ -35,8 +30,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch117-wanglin-death",
     "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang"
   ],
-  "updatedAt": "2026-07-05T04:23:08.053Z"
+  "updatedAt": "2026-07-05T04:23:08.069Z"
 }

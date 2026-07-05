@@ -10,13 +10,14 @@
   ],
   "summary": "域外通道之外的厮杀战场，每百年清理一次，强者云集、生死一瞬。",
   "attributes": {
-    "类型": "战场、战场/资格赛场、秘境·战场、充满裂缝的空间、战场/域外之地、战场/秘境、战场/界外、古战场/域外空间、域外战场（星空战场）",
-    "危险度": "极高、极高（罡风熔化神、裂痕吞婴变）、极高（去者十存一）、高（生还率约30%）、极高（濒临崩溃、遍布裂缝）、极高（濒临空间崩溃，禁止四五级修真国修士进入）",
+    "类型": "战场、战场/资格赛场、秘境·战场、充满裂缝的空间、战场/域外之地、战场/秘境、战场/界外、古战场/域外空间、域外战场（星空战场）、独立空间战场、秘境/战场空间、混乱之地",
+    "危险度": "极高、极高（罡风熔化神、裂痕吞婴变）、极高（去者十存一）、高（生还率约30%）、极高（濒临崩溃、遍布裂缝）、极高（濒临空间崩溃，禁止四五级修真国修士进入）、极高（坍塌与吞魂/游魂）、极高（坍塌中，游魂遍地）",
     "所属势力": "联盟",
     "规模": "赵国名额三个",
     "所属界面": "赵国修真界",
     "特产": "材料、法宝、神识（征缴单前十的至珍之物）",
-    "守护": "修真联盟定期加固"
+    "守护": "修真联盟定期加固",
+    "方位": "生灵空间与寂灭空间之间"
   },
   "observations": {
     "类型": [
@@ -64,6 +65,21 @@
         "value": "域外战场（星空战场）",
         "docId": "plot.xianni-ch117-wanglin-death",
         "seq": 102
+      },
+      {
+        "value": "独立空间战场",
+        "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+        "seq": 106
+      },
+      {
+        "value": "秘境/战场空间",
+        "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+        "seq": 106
+      },
+      {
+        "value": "混乱之地",
+        "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+        "seq": 106
       }
     ],
     "危险度": [
@@ -96,6 +112,16 @@
         "value": "极高（濒临空间崩溃，禁止四五级修真国修士进入）",
         "docId": "plot.xianni-ch117-wanglin-death",
         "seq": 102
+      },
+      {
+        "value": "极高（坍塌与吞魂/游魂）",
+        "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+        "seq": 106
+      },
+      {
+        "value": "极高（坍塌中，游魂遍地）",
+        "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+        "seq": 106
       }
     ],
     "所属势力": [
@@ -143,6 +169,13 @@
         "docId": "plot.xianni-ch117-wanglin-death",
         "seq": 102
       }
+    ],
+    "方位": [
+      {
+        "value": "生灵空间与寂灭空间之间",
+        "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+        "seq": 106
+      }
     ]
   },
   "firstSeq": 80,
@@ -189,6 +222,12 @@
       "docId": "plot.xianni-ch117-wanglin-death",
       "dated": false,
       "seq": 102
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+      "dated": false,
+      "seq": 106
     }
   },
   "contested": false,
@@ -198,7 +237,8 @@
     "plot.xianni-ch85-89-jilian-jianqiao",
     "lore.xianni-ch105-jijing-realm",
     "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
-    "plot.xianni-ch117-wanglin-death"
+    "plot.xianni-ch117-wanglin-death",
+    "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang"
   ],
-  "updatedAt": "2026-07-05T04:09:56.814Z"
+  "updatedAt": "2026-07-05T04:23:08.068Z"
 }
