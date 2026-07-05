@@ -5,7 +5,9 @@
   "aliases": [],
   "summary": "火焚国四大宗派之一。",
   "attributes": {
-    "所属界面": "火焚国"
+    "所属界面": "火焚国",
+    "理念": "阵法、炼丹",
+    "镇派之宝": "炼丹（佳品）"
   },
   "observations": {
     "所属界面": [
@@ -13,6 +15,20 @@
         "value": "火焚国",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
+      }
+    ],
+    "理念": [
+      {
+        "value": "阵法、炼丹",
+        "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
+        "seq": 115
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "炼丹（佳品）",
+        "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
+        "seq": 115
       }
     ]
   },
@@ -23,12 +39,25 @@
       "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
       "seq": 111
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
+      "dated": false,
+      "seq": 115
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
+      "dated": false,
+      "seq": 115
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo"
+    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+    "plot.xianni-ch130-yuanying-huran-return-hunxue"
   ],
-  "updatedAt": "2026-07-05T04:42:11.841Z"
+  "updatedAt": "2026-07-05T04:54:28.682Z"
 }

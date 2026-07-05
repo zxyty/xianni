@@ -2,15 +2,19 @@
   "id": "ent.person.x-fe4eabaf",
   "type": "person",
   "name": "周紫虹",
-  "aliases": [],
+  "aliases": [
+    "紫虹",
+    "虹儿",
+    "周紫薇"
+  ],
   "summary": "三级修真国火焚国战神殿弟子，一向恬静，域外战场坍塌中灵力枯竭被游魂追杀，被王林（马良之身）所救。",
   "attributes": {
     "性别": "女",
-    "身份": "火焚国战神殿弟子、王林之奴、战神殿相关弟子",
-    "性格": "好强",
+    "身份": "火焚国战神殿弟子、王林之奴、战神殿相关弟子、战神殿弟子",
+    "性格": "冷",
     "阵营": "战神殿",
     "出身地": "战神殿",
-    "外貌": "红唇俏脸",
+    "外貌": "美貌",
     "小阶段": "筑基后期"
   },
   "observations": {
@@ -36,6 +40,11 @@
         "value": "战神殿相关弟子",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
+      },
+      {
+        "value": "战神殿弟子",
+        "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
+        "seq": 115
       }
     ],
     "性格": [
@@ -48,6 +57,11 @@
         "value": "好强",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
+      },
+      {
+        "value": "冷",
+        "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
+        "seq": 115
       }
     ],
     "阵营": [
@@ -74,6 +88,11 @@
         "value": "红唇俏脸",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
+      },
+      {
+        "value": "美貌",
+        "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
+        "seq": 115
       }
     ],
     "小阶段": [
@@ -100,9 +119,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+      "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
       "dated": false,
-      "seq": 111
+      "seq": 115
     },
     "阵营": {
       "asOf": null,
@@ -118,9 +137,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+      "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
       "dated": false,
-      "seq": 111
+      "seq": 115
     },
     "小阶段": {
       "asOf": null,
@@ -133,7 +152,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
-    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo"
+    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+    "plot.xianni-ch130-yuanying-huran-return-hunxue"
   ],
-  "updatedAt": "2026-07-05T04:42:11.895Z"
+  "updatedAt": "2026-07-05T04:54:28.667Z"
 }

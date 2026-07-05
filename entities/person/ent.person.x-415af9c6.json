@@ -5,7 +5,8 @@
   "aliases": [
     "战神殿马良",
     "马师弟",
-    "马良师弟"
+    "马良师弟",
+    "战神殿弟子马良"
   ],
   "summary": "火焚国战神殿修士，筑基中期，域外战场逗留三十余年；抱红色火梭追携珠墨光三日无果。",
   "attributes": {
@@ -16,7 +17,7 @@
     "外貌": "三十余岁青年",
     "存殁": "死亡",
     "死因": "被葛阳飞剑穿胸而死（随后肉身被王林夺舍）、被王林夺舍、被许浩、葛阳所杀、被王林夺舍夺躯",
-    "结局": "肉身被王林夺舍"
+    "结局": "身份被王林冒用"
   },
   "observations": {
     "小阶段": [
@@ -40,7 +41,8 @@
       {
         "value": "战神殿弟子",
         "docId": "plot.xianni-ch117-wanglin-death",
-        "seq": 102
+        "seq": 102,
+        "note": "姓名身份被王林冒用"
       },
       {
         "value": "火焚国战神殿弟子",
@@ -119,6 +121,12 @@
         "value": "肉身被王林夺舍",
         "docId": "plot.xianni-ch117-wanglin-death",
         "seq": 102
+      },
+      {
+        "value": "身份被王林冒用",
+        "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
+        "seq": 115,
+        "note": "自第111章"
       }
     ]
   },
@@ -169,9 +177,10 @@
     },
     "结局": {
       "asOf": null,
-      "docId": "plot.xianni-ch117-wanglin-death",
+      "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
       "dated": false,
-      "seq": 102
+      "seq": 115,
+      "note": "自第111章"
     }
   },
   "contested": false,
@@ -179,7 +188,8 @@
   "docs": [
     "plot.xianni-ch117-wanglin-death",
     "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
-    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo"
+    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+    "plot.xianni-ch130-yuanying-huran-return-hunxue"
   ],
-  "updatedAt": "2026-07-05T04:42:11.894Z"
+  "updatedAt": "2026-07-05T04:54:28.641Z"
 }
