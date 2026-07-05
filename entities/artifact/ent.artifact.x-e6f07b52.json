@@ -12,11 +12,12 @@
   "summary": "白展所用变色飞剑，随入鞘深度由绿变蓝变黑带金、增威，有飞剑虚影与瞬移之能，战后归王林。",
   "attributes": {
     "持有者": "王林",
-    "能力": "变色增威、飞剑虚影、瞬移、化绿光偷袭、寒芒伤敌、无声偷袭、瞬息突袭、穿透内甲、御剑飞行、穿刺挖洞、瞬移追击、穿透紫气护体、瞬移刺杀、霸道寒气结晶万物、瞬移闪现、破空杀敌",
-    "来历": "孙浩师傅在古洞所得",
+    "能力": "变色增威、飞剑虚影、瞬移、化绿光偷袭、寒芒伤敌、无声偷袭、瞬息突袭、穿透内甲、御剑飞行、穿刺挖洞、瞬移追击、穿透紫气护体、瞬移刺杀、霸道寒气结晶万物、瞬移闪现、破空杀敌、穿体致敌化为冰晶、冻杀，一闪一杀",
+    "来历": "血炼之物",
     "禁制": "已被血炼",
-    "外形": "绿色小剑、绿色小剑、寒芒、一道绿色小剑",
-    "五行属性": "木（绿）、木（绿光）、极·寒"
+    "外形": "绿色小剑、绿色小剑、寒芒、一道绿色小剑、绿色小剑/绿光、绿色小剑，剑身冰凉刺骨",
+    "五行属性": "木（绿）、木（绿光）、极·寒、极（冰）",
+    "器灵": "若有灵性"
   },
   "observations": {
     "持有者": [
@@ -86,6 +87,16 @@
         "value": "瞬移闪现、破空杀敌",
         "docId": "plot.xianni-ch85-89-jilian-jianqiao",
         "seq": 85
+      },
+      {
+        "value": "穿体致敌化为冰晶",
+        "docId": "lore.xianni-ch105-jijing-realm",
+        "seq": 90
+      },
+      {
+        "value": "冻杀，一闪一杀",
+        "docId": "lore.xianni-ch105-jijing-realm",
+        "seq": 90
       }
     ],
     "来历": [
@@ -98,6 +109,11 @@
         "value": "孙浩师傅在古洞所得",
         "docId": "plot.xianni-ch85-89-jilian-jianqiao",
         "seq": 85
+      },
+      {
+        "value": "血炼之物",
+        "docId": "lore.xianni-ch105-jijing-realm",
+        "seq": 90
       }
     ],
     "禁制": [
@@ -127,6 +143,16 @@
         "value": "一道绿色小剑",
         "docId": "plot.xianni-ch091-jiyin-lingli",
         "seq": 76
+      },
+      {
+        "value": "绿色小剑/绿光",
+        "docId": "lore.xianni-ch105-jijing-realm",
+        "seq": 90
+      },
+      {
+        "value": "绿色小剑，剑身冰凉刺骨",
+        "docId": "lore.xianni-ch105-jijing-realm",
+        "seq": 90
       }
     ],
     "五行属性": [
@@ -144,6 +170,18 @@
         "value": "极·寒",
         "docId": "plot.xianni-ch85-89-jilian-jianqiao",
         "seq": 85
+      },
+      {
+        "value": "极（冰）",
+        "docId": "lore.xianni-ch105-jijing-realm",
+        "seq": 90
+      }
+    ],
+    "器灵": [
+      {
+        "value": "若有灵性",
+        "docId": "lore.xianni-ch105-jijing-realm",
+        "seq": 90
       }
     ]
   },
@@ -163,9 +201,9 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+      "docId": "lore.xianni-ch105-jijing-realm",
       "dated": false,
-      "seq": 85
+      "seq": 90
     },
     "禁制": {
       "asOf": null,
@@ -184,6 +222,12 @@
       "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
       "dated": false,
       "seq": 67
+    },
+    "器灵": {
+      "asOf": null,
+      "docId": "lore.xianni-ch105-jijing-realm",
+      "dated": false,
+      "seq": 90
     }
   },
   "contested": false,
@@ -192,7 +236,8 @@
     "plot.xianni-ch61-66-strange-sword-baizhan",
     "plot.xianni-ch67-71-tengli-chase-lanxianteng",
     "plot.xianni-ch091-jiyin-lingli",
-    "plot.xianni-ch85-89-jilian-jianqiao"
+    "plot.xianni-ch85-89-jilian-jianqiao",
+    "lore.xianni-ch105-jijing-realm"
   ],
-  "updatedAt": "2026-07-05T03:01:33.244Z"
+  "updatedAt": "2026-07-05T03:14:59.657Z"
 }

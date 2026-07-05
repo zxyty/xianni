@@ -12,7 +12,9 @@
     "阵营": "玄道宗",
     "性格": "古灵精怪",
     "称号": "玄道宗以制作稀奇古怪之物出名",
-    "身份": "玄道宗弟子"
+    "身份": "玄道宗弟子",
+    "小阶段": "凝气期",
+    "标志特征": "擅偷技与造假法宝药丸"
   },
   "observations": {
     "外貌": [
@@ -54,6 +56,20 @@
         "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
         "seq": 49
       }
+    ],
+    "小阶段": [
+      {
+        "value": "凝气期",
+        "docId": "lore.xianni-ch105-jijing-realm",
+        "seq": 90
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "擅偷技与造假法宝药丸",
+        "docId": "lore.xianni-ch105-jijing-realm",
+        "seq": 90
+      }
     ]
   },
   "firstSeq": 43,
@@ -87,13 +103,26 @@
       "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
       "dated": false,
       "seq": 49
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "lore.xianni-ch105-jijing-realm",
+      "dated": false,
+      "seq": 90
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "lore.xianni-ch105-jijing-realm",
+      "dated": false,
+      "seq": 90
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch43-48-lishan-pilidan-shenshi",
-    "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi"
+    "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+    "lore.xianni-ch105-jijing-realm"
   ],
-  "updatedAt": "2026-06-22T12:48:22.460Z"
+  "updatedAt": "2026-07-05T03:14:59.659Z"
 }

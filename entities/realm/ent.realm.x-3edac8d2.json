@@ -11,8 +11,8 @@
   "attributes": {
     "阶序": "结丹之上",
     "上一境": "结丹",
-    "小阶段": "元婴期",
-    "下一境": "化神期"
+    "小阶段": "后期",
+    "下一境": "化神"
   },
   "observations": {
     "阶序": [
@@ -49,6 +49,11 @@
         "value": "元婴期",
         "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
         "seq": 67
+      },
+      {
+        "value": "后期",
+        "docId": "lore.xianni-ch105-jijing-realm",
+        "seq": 90
       }
     ],
     "下一境": [
@@ -61,6 +66,11 @@
         "value": "化神期",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
+      },
+      {
+        "value": "化神",
+        "docId": "lore.xianni-ch105-jijing-realm",
+        "seq": 90
       }
     ]
   },
@@ -80,15 +90,15 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
+      "docId": "lore.xianni-ch105-jijing-realm",
       "dated": false,
-      "seq": 67
+      "seq": 90
     },
     "下一境": {
       "asOf": null,
-      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "docId": "lore.xianni-ch105-jijing-realm",
       "dated": false,
-      "seq": 80
+      "seq": 90
     }
   },
   "contested": false,
@@ -100,7 +110,8 @@
     "plot.xianni-ch61-66-strange-sword-baizhan",
     "plot.xianni-ch67-71-tengli-chase-lanxianteng",
     "plot.xianni-ch091-jiyin-lingli",
-    "plot.xianni-ch80-84-wanglin-enters-shiyinzong"
+    "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+    "lore.xianni-ch105-jijing-realm"
   ],
-  "updatedAt": "2026-06-22T14:15:16.968Z"
+  "updatedAt": "2026-07-05T03:14:59.653Z"
 }
