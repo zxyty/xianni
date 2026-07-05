@@ -5,9 +5,13 @@
   "aliases": [],
   "summary": "位于赵国境内偏南、谷内极大且有密林流水、常年雾气缭绕，是每百年一次域外资格赛的战斗地点。",
   "attributes": {
-    "所属界面": "赵国修真界",
+    "所属界面": "赵国",
     "方位": "赵国境内偏南",
-    "类型": "山谷·资格赛战场、谷地"
+    "类型": "山谷·资格赛战场、谷地、秘境/谷地、域外战场清理争夺地、域外战场入口、秘境/封印之地",
+    "规模": "小地方",
+    "所属势力": "赵国",
+    "守护": "封印阵法",
+    "危险度": "高"
   },
   "observations": {
     "所属界面": [
@@ -15,6 +19,11 @@
         "value": "赵国修真界",
         "docId": "plot.xianni-ch85-89-jilian-jianqiao",
         "seq": 85
+      },
+      {
+        "value": "赵国",
+        "docId": "lore.xianni-ch105-jijing-realm",
+        "seq": 90
       }
     ],
     "方位": [
@@ -34,6 +43,54 @@
         "value": "谷地",
         "docId": "plot.xianni-ch85-89-jilian-jianqiao",
         "seq": 85
+      },
+      {
+        "value": "秘境/谷地",
+        "docId": "lore.xianni-ch105-jijing-realm",
+        "seq": 90
+      },
+      {
+        "value": "域外战场清理争夺地",
+        "docId": "lore.xianni-ch105-jijing-realm",
+        "seq": 90
+      },
+      {
+        "value": "域外战场入口",
+        "docId": "lore.xianni-ch105-jijing-realm",
+        "seq": 90
+      },
+      {
+        "value": "秘境/封印之地",
+        "docId": "lore.xianni-ch105-jijing-realm",
+        "seq": 90
+      }
+    ],
+    "规模": [
+      {
+        "value": "小地方",
+        "docId": "lore.xianni-ch105-jijing-realm",
+        "seq": 90
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "赵国",
+        "docId": "lore.xianni-ch105-jijing-realm",
+        "seq": 90
+      }
+    ],
+    "守护": [
+      {
+        "value": "封印阵法",
+        "docId": "lore.xianni-ch105-jijing-realm",
+        "seq": 90
+      }
+    ],
+    "危险度": [
+      {
+        "value": "高",
+        "docId": "lore.xianni-ch105-jijing-realm",
+        "seq": 90
       }
     ]
   },
@@ -41,9 +98,9 @@
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+      "docId": "lore.xianni-ch105-jijing-realm",
       "dated": false,
-      "seq": 85
+      "seq": 90
     },
     "方位": {
       "asOf": null,
@@ -56,12 +113,37 @@
       "docId": "plot.xianni-ch85-89-jilian-jianqiao",
       "dated": false,
       "seq": 85
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "lore.xianni-ch105-jijing-realm",
+      "dated": false,
+      "seq": 90
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "lore.xianni-ch105-jijing-realm",
+      "dated": false,
+      "seq": 90
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "lore.xianni-ch105-jijing-realm",
+      "dated": false,
+      "seq": 90
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "lore.xianni-ch105-jijing-realm",
+      "dated": false,
+      "seq": 90
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch85-89-jilian-jianqiao"
+    "plot.xianni-ch85-89-jilian-jianqiao",
+    "lore.xianni-ch105-jijing-realm"
   ],
-  "updatedAt": "2026-07-05T03:01:33.254Z"
+  "updatedAt": "2026-07-05T03:14:59.669Z"
 }

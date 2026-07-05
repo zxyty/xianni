@@ -5,16 +5,18 @@
   "aliases": [
     "单一水灵根少女",
     "玄道宗紫衣女子",
-    "柳眉师姐"
+    "柳眉师姐",
+    "柳眉长老"
   ],
   "summary": "玄道宗内门弟子佼佼者，天生单一水灵根，拥有天生媚术；惊异于王林率先清醒。",
   "attributes": {
     "性别": "女",
     "标志特征": "天生单一水灵根、天生媚术",
-    "外貌": "美貌绝伦、秀发如瀑、凤眼樱唇",
+    "外貌": "娇媚绝代",
     "阵营": "玄道宗",
     "性格": "自信",
-    "小阶段": "凝气期第十二层"
+    "小阶段": "筑基",
+    "身份": "玄道宗长老/弟子"
   },
   "observations": {
     "性别": [
@@ -36,6 +38,11 @@
         "value": "美貌绝伦、秀发如瀑、凤眼樱唇",
         "docId": "plot.xianni-ch37-42-sinian-guangban",
         "seq": 37
+      },
+      {
+        "value": "娇媚绝代",
+        "docId": "lore.xianni-ch105-jijing-realm",
+        "seq": 90
       }
     ],
     "阵营": [
@@ -57,6 +64,18 @@
         "value": "凝气期第十二层",
         "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
         "seq": 55
+      },
+      {
+        "value": "筑基",
+        "docId": "lore.xianni-ch105-jijing-realm",
+        "seq": 90
+      }
+    ],
+    "身份": [
+      {
+        "value": "玄道宗长老/弟子",
+        "docId": "lore.xianni-ch105-jijing-realm",
+        "seq": 90
       }
     ]
   },
@@ -76,9 +95,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch37-42-sinian-guangban",
+      "docId": "lore.xianni-ch105-jijing-realm",
       "dated": false,
-      "seq": 37
+      "seq": 90
     },
     "阵营": {
       "asOf": null,
@@ -94,16 +113,23 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
+      "docId": "lore.xianni-ch105-jijing-realm",
       "dated": false,
-      "seq": 55
+      "seq": 90
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "lore.xianni-ch105-jijing-realm",
+      "dated": false,
+      "seq": 90
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch37-42-sinian-guangban",
-    "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion"
+    "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
+    "lore.xianni-ch105-jijing-realm"
   ],
-  "updatedAt": "2026-06-22T12:57:09.158Z"
+  "updatedAt": "2026-07-05T03:14:59.661Z"
 }

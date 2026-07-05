@@ -3,12 +3,16 @@
   "type": "realm",
   "name": "极境",
   "aliases": [
-    "灵力极境"
+    "灵力极境",
+    "极",
+    "极境灵力",
+    "极境修为"
   ],
   "summary": "上古灵力三境之一。同级灵力无敌、可不需法宝，但属性走极端不兼容、难入化神；元婴后期可为化神以下第一人。",
   "attributes": {
-    "阶序": "上古灵力三境之一（极/道/始）",
-    "突破关键": "属性走极端，无法兼容，难突破化神期"
+    "阶序": "上古灵力境界(极/道/始)之一",
+    "突破关键": "元婴后期为修为终点,无法达化神期",
+    "突破征兆": "灵力属性彻底偏向极端、同境界无敌"
   },
   "observations": {
     "阶序": [
@@ -16,6 +20,11 @@
         "value": "上古灵力三境之一（极/道/始）",
         "docId": "plot.xianni-ch091-jiyin-lingli",
         "seq": 76
+      },
+      {
+        "value": "上古灵力境界(极/道/始)之一",
+        "docId": "lore.xianni-ch105-jijing-realm",
+        "seq": 90
       }
     ],
     "突破关键": [
@@ -23,6 +32,19 @@
         "value": "属性走极端，无法兼容，难突破化神期",
         "docId": "plot.xianni-ch091-jiyin-lingli",
         "seq": 76
+      },
+      {
+        "value": "元婴后期为修为终点,无法达化神期",
+        "docId": "lore.xianni-ch105-jijing-realm",
+        "seq": 90,
+        "note": "上古仅一位超婴变期强者破例"
+      }
+    ],
+    "突破征兆": [
+      {
+        "value": "灵力属性彻底偏向极端、同境界无敌",
+        "docId": "lore.xianni-ch105-jijing-realm",
+        "seq": 90
       }
     ]
   },
@@ -30,21 +52,29 @@
   "attrProvenance": {
     "阶序": {
       "asOf": null,
-      "docId": "plot.xianni-ch091-jiyin-lingli",
+      "docId": "lore.xianni-ch105-jijing-realm",
       "dated": false,
-      "seq": 76
+      "seq": 90
     },
     "突破关键": {
       "asOf": null,
-      "docId": "plot.xianni-ch091-jiyin-lingli",
+      "docId": "lore.xianni-ch105-jijing-realm",
       "dated": false,
-      "seq": 76
+      "seq": 90,
+      "note": "上古仅一位超婴变期强者破例"
+    },
+    "突破征兆": {
+      "asOf": null,
+      "docId": "lore.xianni-ch105-jijing-realm",
+      "dated": false,
+      "seq": 90
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch091-jiyin-lingli"
+    "plot.xianni-ch091-jiyin-lingli",
+    "lore.xianni-ch105-jijing-realm"
   ],
-  "updatedAt": "2026-06-22T13:56:11.101Z"
+  "updatedAt": "2026-07-05T03:14:59.625Z"
 }

@@ -3,11 +3,12 @@
   "type": "realm",
   "name": "道境",
   "aliases": [
-    "灵力道境"
+    "灵力道境",
+    "道"
   ],
   "summary": "上古灵力三境之一，灵力入此境则化神期指日可见，是上古修炼者最大追求。",
   "attributes": {
-    "阶序": "上古灵力三境之一"
+    "阶序": "上古灵力境界(极/道/始)之一"
   },
   "observations": {
     "阶序": [
@@ -15,6 +16,11 @@
         "value": "上古灵力三境之一",
         "docId": "plot.xianni-ch091-jiyin-lingli",
         "seq": 76
+      },
+      {
+        "value": "上古灵力境界(极/道/始)之一",
+        "docId": "lore.xianni-ch105-jijing-realm",
+        "seq": 90
       }
     ]
   },
@@ -22,15 +28,16 @@
   "attrProvenance": {
     "阶序": {
       "asOf": null,
-      "docId": "plot.xianni-ch091-jiyin-lingli",
+      "docId": "lore.xianni-ch105-jijing-realm",
       "dated": false,
-      "seq": 76
+      "seq": 90
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch091-jiyin-lingli"
+    "plot.xianni-ch091-jiyin-lingli",
+    "lore.xianni-ch105-jijing-realm"
   ],
-  "updatedAt": "2026-06-22T13:56:11.101Z"
+  "updatedAt": "2026-07-05T03:14:59.629Z"
 }
