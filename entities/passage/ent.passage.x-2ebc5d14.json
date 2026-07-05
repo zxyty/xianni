@@ -1,71 +1,70 @@
 {
-  "id": "ent.realm.x-1fea61ed",
-  "type": "realm",
-  "name": "婴变期",
-  "aliases": [],
-  "summary": "高阶境界，四级修真国出婴变期人物即升五级修真国；持有者达此境方能放出困于天逆珠子的司徒南。",
+  "id": "ent.passage.x-2ebc5d14",
+  "type": "passage",
+  "name": "域外战场通道",
+  "aliases": [
+    "域外资格赛通道"
+  ],
+  "summary": "由黑云巨人开启的圆形通道，吸尽赵国灵气形成透明薄膜，膜后为堆满破碎尸体、残裂法宝、废弃材料的虚无空间，通往域外战场。",
   "attributes": {
-    "上一境": "元婴期",
-    "阶序": "元婴之上、化神之下",
-    "突破关键": "元婴变异增大",
-    "下一境": "化神"
+    "类型": "空间通道",
+    "两端": "决明谷—域外战场",
+    "可通行境界": "化神期以下不得入决明谷通道",
+    "来历": "黑云巨人以双蛟成环、血滴消融薄膜开启"
   },
   "observations": {
-    "上一境": [
+    "类型": [
       {
-        "value": "化神期",
-        "docId": "plot.xianni-ch43-48-lishan-pilidan-shenshi",
-        "seq": 43
-      },
-      {
-        "value": "元婴期",
+        "value": "空间通道",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
       }
     ],
-    "阶序": [
+    "两端": [
       {
-        "value": "元婴之上、化神之下",
+        "value": "决明谷—域外战场",
+        "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+        "seq": 96,
+        "note": "通往域外的虚无空间"
+      }
+    ],
+    "可通行境界": [
+      {
+        "value": "化神期以下不得入决明谷通道",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
       }
     ],
-    "突破关键": [
+    "来历": [
       {
-        "value": "元婴变异增大",
-        "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
-        "seq": 96
-      }
-    ],
-    "下一境": [
-      {
-        "value": "化神",
+        "value": "黑云巨人以双蛟成环、血滴消融薄膜开启",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
       }
     ]
   },
-  "firstSeq": 43,
+  "firstSeq": 96,
   "attrProvenance": {
-    "上一境": {
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
       "dated": false,
       "seq": 96
     },
-    "阶序": {
+    "两端": {
+      "asOf": null,
+      "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+      "dated": false,
+      "seq": 96,
+      "note": "通往域外的虚无空间"
+    },
+    "可通行境界": {
       "asOf": null,
       "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
       "dated": false,
       "seq": 96
     },
-    "突破关键": {
-      "asOf": null,
-      "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
-      "dated": false,
-      "seq": 96
-    },
-    "下一境": {
+    "来历": {
       "asOf": null,
       "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
       "dated": false,
@@ -75,10 +74,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch43-48-lishan-pilidan-shenshi",
-    "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
-    "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
     "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery"
   ],
-  "updatedAt": "2026-07-05T03:50:16.478Z"
+  "updatedAt": "2026-07-05T03:50:16.497Z"
 }

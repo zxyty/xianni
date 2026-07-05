@@ -2,10 +2,14 @@
   "id": "ent.faction.x-f9009e76",
   "type": "faction",
   "name": "飘渺宗",
-  "aliases": [],
+  "aliases": [
+    "缥缈宗"
+  ],
   "summary": "赵国修真界门派，太上长老无为真人为结丹期高手；传闻其掌门女弟子被无锋谷弟子勾引。",
   "attributes": {
-    "阵营": "正派"
+    "阵营": "正派、正道、赵国修真界",
+    "掌门": "辛海（始祖）",
+    "所属界面": "赵国修真界"
   },
   "observations": {
     "阵营": [
@@ -13,6 +17,30 @@
         "value": "正派",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
+      },
+      {
+        "value": "正道",
+        "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+        "seq": 96
+      },
+      {
+        "value": "赵国修真界",
+        "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+        "seq": 96
+      }
+    ],
+    "掌门": [
+      {
+        "value": "辛海（始祖）",
+        "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+        "seq": 96
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "赵国修真界",
+        "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+        "seq": 96
       }
     ]
   },
@@ -23,6 +51,18 @@
       "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
       "dated": false,
       "seq": 80
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+      "dated": false,
+      "seq": 96
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+      "dated": false,
+      "seq": 96
     }
   },
   "contested": false,
@@ -30,7 +70,8 @@
   "docs": [
     "plot.xianni-ch37-42-sinian-guangban",
     "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
-    "lore.xianni-ch105-jijing-realm"
+    "lore.xianni-ch105-jijing-realm",
+    "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery"
   ],
-  "updatedAt": "2026-07-05T03:14:59.668Z"
+  "updatedAt": "2026-07-05T03:50:16.493Z"
 }

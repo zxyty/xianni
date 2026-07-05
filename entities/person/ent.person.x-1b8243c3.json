@@ -3,13 +3,18 @@
   "type": "person",
   "name": "林奕",
   "aliases": [
-    "三级修真国监察使林奕"
+    "三级修真国监察使林奕",
+    "林某",
+    "留守赵国的使者",
+    "使者林奕"
   ],
   "summary": "赵国所在三级修真国监察使，恭迎联盟使者并宣布域外战场令牌任务与大战规矩。",
   "attributes": {
-    "身份": "三级修真国监察使",
+    "身份": "赵国使者",
     "称号": "胖使者",
-    "阵营": "赵国"
+    "阵营": "赵国",
+    "外貌": "身体肥胖如球、面带微笑",
+    "性格": "看似随和、洞悉全局"
   },
   "observations": {
     "身份": [
@@ -17,6 +22,11 @@
         "value": "三级修真国监察使",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
+      },
+      {
+        "value": "赵国使者",
+        "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+        "seq": 96
       }
     ],
     "称号": [
@@ -32,15 +42,29 @@
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
       }
+    ],
+    "外貌": [
+      {
+        "value": "身体肥胖如球、面带微笑",
+        "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+        "seq": 96
+      }
+    ],
+    "性格": [
+      {
+        "value": "看似随和、洞悉全局",
+        "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+        "seq": 96
+      }
     ]
   },
   "firstSeq": 80,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
       "dated": false,
-      "seq": 80
+      "seq": 96
     },
     "称号": {
       "asOf": null,
@@ -53,12 +77,25 @@
       "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
       "dated": false,
       "seq": 80
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+      "dated": false,
+      "seq": 96
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+      "dated": false,
+      "seq": 96
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch80-84-wanglin-enters-shiyinzong"
+    "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+    "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery"
   ],
-  "updatedAt": "2026-06-22T14:15:16.972Z"
+  "updatedAt": "2026-07-05T03:50:16.482Z"
 }

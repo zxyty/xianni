@@ -1,54 +1,55 @@
 {
-  "id": "ent.faction.x-bd9a77ea",
-  "type": "faction",
-  "name": "元天派",
+  "id": "ent.person.x-66419ec0",
+  "type": "person",
+  "name": "虚眉真人",
   "aliases": [
-    "元兲派"
+    "白发道人",
+    "飘渺宗第一高手"
   ],
-  "summary": "正道修真门派,弟子周权本章在决明谷斗法场向王林通名询问门派。",
+  "summary": "飘渺宗第一高手，白发道人，随林奕到场；接受辛海传音后神色如常点头，点评尸阴宗人傀。",
   "attributes": {
-    "阵营": "正道",
-    "掌门": "上官云（始祖之一）",
-    "所属界面": "赵国修真界"
+    "身份": "飘渺宗第一高手",
+    "小阶段": "元婴期",
+    "外貌": "白发道人"
   },
   "observations": {
-    "阵营": [
+    "身份": [
       {
-        "value": "正道",
-        "docId": "lore.xianni-ch105-jijing-realm",
-        "seq": 90
-      }
-    ],
-    "掌门": [
-      {
-        "value": "上官云（始祖之一）",
+        "value": "飘渺宗第一高手",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
       }
     ],
-    "所属界面": [
+    "小阶段": [
       {
-        "value": "赵国修真界",
+        "value": "元婴期",
+        "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+        "seq": 96
+      }
+    ],
+    "外貌": [
+      {
+        "value": "白发道人",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
       }
     ]
   },
-  "firstSeq": 90,
+  "firstSeq": 96,
   "attrProvenance": {
-    "阵营": {
-      "asOf": null,
-      "docId": "lore.xianni-ch105-jijing-realm",
-      "dated": false,
-      "seq": 90
-    },
-    "掌门": {
+    "身份": {
       "asOf": null,
       "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
       "dated": false,
       "seq": 96
     },
-    "所属界面": {
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+      "dated": false,
+      "seq": 96
+    },
+    "外貌": {
       "asOf": null,
       "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
       "dated": false,
@@ -58,8 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.xianni-ch105-jijing-realm",
     "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery"
   ],
-  "updatedAt": "2026-07-05T03:50:16.472Z"
+  "updatedAt": "2026-07-05T03:50:16.483Z"
 }
