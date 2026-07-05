@@ -1,52 +1,52 @@
 {
-  "id": "ent.faction.x-f50d3e19",
-  "type": "faction",
-  "name": "邪魔宗",
+  "id": "ent.person.x-aad621b9",
+  "type": "person",
+  "name": "美妇",
   "aliases": [],
-  "summary": "火焚国四大宗派之一。",
+  "summary": "战神殿元婴期女修，与王林有一面之缘；结丹期时随师傅见过火灵兽，通晓其习性。",
   "attributes": {
-    "所属界面": "火焚国",
-    "阵营": "魔道",
-    "据点": "火焚国"
+    "小阶段": "元婴期",
+    "身份": "女修",
+    "阵营": "战神殿/四大宗派"
   },
   "observations": {
-    "所属界面": [
+    "小阶段": [
       {
-        "value": "火焚国",
-        "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
-        "seq": 111
-      }
-    ],
-    "阵营": [
-      {
-        "value": "魔道",
+        "value": "元婴期",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
       }
     ],
-    "据点": [
+    "身份": [
       {
-        "value": "火焚国",
+        "value": "女修",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
+      }
+    ],
+    "阵营": [
+      {
+        "value": "战神殿/四大宗派",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
       }
     ]
   },
-  "firstSeq": 111,
+  "firstSeq": 119,
   "attrProvenance": {
-    "所属界面": {
-      "asOf": null,
-      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
-      "dated": false,
-      "seq": 111
-    },
-    "阵营": {
+    "小阶段": {
       "asOf": null,
       "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
       "dated": false,
       "seq": 119
     },
-    "据点": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+      "dated": false,
+      "seq": 119
+    },
+    "阵营": {
       "asOf": null,
       "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
       "dated": false,
@@ -56,9 +56,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
-    "plot.xianni-ch130-yuanying-huran-return-hunxue",
     "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian"
   ],
-  "updatedAt": "2026-07-05T05:13:41.078Z"
+  "updatedAt": "2026-07-05T05:13:41.037Z"
 }

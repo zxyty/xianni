@@ -1,49 +1,47 @@
 {
-  "id": "ent.person.x-0d6659f7",
+  "id": "ent.person.x-679360c7",
   "type": "person",
-  "name": "杨森",
+  "name": "凤栾",
   "aliases": [
-    "杨森始祖"
+    "凤栾始祖",
+    "峰峦",
+    "五彩凤车上妇人"
   ],
-  "summary": "威武镖局年轻镖师，马术精湛，性浮躁，与王林投缘。",
+  "summary": "战神殿元婴初期始祖，乘五彩凤车，庇护王林并收其为记名弟子。",
   "attributes": {
-    "身份": "威武镖局镖师",
-    "标志特征": "云层化身、隔空破光幕",
-    "性别": "男",
-    "小阶段": "元婴中期（顶峰）",
+    "性别": "女",
+    "小阶段": "元婴初期",
+    "称号": "始祖",
+    "身份": "战神殿始祖",
     "阵营": "战神殿",
-    "外貌": "中年文士"
+    "外貌": "宫装妇人、顾盼生辉",
+    "本命法宝": "五彩凤车"
   },
   "observations": {
-    "身份": [
-      {
-        "value": "威武镖局镖师",
-        "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
-        "seq": 55
-      }
-    ],
-    "标志特征": [
-      {
-        "value": "马术精湛",
-        "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
-        "seq": 55
-      },
-      {
-        "value": "云层化身、隔空破光幕",
-        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
-        "seq": 119
-      }
-    ],
     "性别": [
       {
-        "value": "男",
+        "value": "女",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
       }
     ],
     "小阶段": [
       {
-        "value": "元婴中期（顶峰）",
+        "value": "元婴初期",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
+      }
+    ],
+    "称号": [
+      {
+        "value": "始祖",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
+      }
+    ],
+    "身份": [
+      {
+        "value": "战神殿始祖",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
       }
@@ -57,26 +55,21 @@
     ],
     "外貌": [
       {
-        "value": "中年文士",
+        "value": "宫装妇人、顾盼生辉",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
+      }
+    ],
+    "本命法宝": [
+      {
+        "value": "五彩凤车",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
       }
     ]
   },
-  "firstSeq": 55,
+  "firstSeq": 119,
   "attrProvenance": {
-    "身份": {
-      "asOf": null,
-      "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
-      "dated": false,
-      "seq": 55
-    },
-    "标志特征": {
-      "asOf": null,
-      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
-      "dated": false,
-      "seq": 119
-    },
     "性别": {
       "asOf": null,
       "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
@@ -84,6 +77,18 @@
       "seq": 119
     },
     "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+      "dated": false,
+      "seq": 119
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+      "dated": false,
+      "seq": 119
+    },
+    "身份": {
       "asOf": null,
       "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
       "dated": false,
@@ -100,13 +105,18 @@
       "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
       "dated": false,
       "seq": 119
+    },
+    "本命法宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+      "dated": false,
+      "seq": 119
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
     "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian"
   ],
-  "updatedAt": "2026-07-05T05:13:41.069Z"
+  "updatedAt": "2026-07-05T05:13:41.068Z"
 }

@@ -4,14 +4,17 @@
   "name": "战神殿",
   "aliases": [
     "战}申殿",
-    "战神殿五殿"
+    "战神殿五殿",
+    "War God Hall",
+    "战神殿门派",
+    "战神殿始祖一脉"
   ],
   "summary": "三级修真国火焚国的宗派，马良所属。",
   "attributes": {
     "等级": "三级修真国宗派、火焚国第一派、火焚国四大派之首",
     "所属界面": "火焚国",
-    "镇派之宝": "神道",
-    "掌门": "鸾凤始祖",
+    "镇派之宝": "战神殿炼器术",
+    "掌门": "宋姓始祖",
     "据点": "火焚国、火焚国东部直冲云霄的山峰"
   },
   "observations": {
@@ -49,6 +52,11 @@
         "value": "神道",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
+      },
+      {
+        "value": "战神殿炼器术",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
       }
     ],
     "掌门": [
@@ -56,6 +64,11 @@
         "value": "鸾凤始祖",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
+      },
+      {
+        "value": "宋姓始祖",
+        "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+        "seq": 119
       }
     ],
     "据点": [
@@ -87,15 +100,15 @@
     },
     "镇派之宝": {
       "asOf": null,
-      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
       "dated": false,
-      "seq": 111
+      "seq": 119
     },
     "掌门": {
       "asOf": null,
-      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
       "dated": false,
-      "seq": 111
+      "seq": 119
     },
     "据点": {
       "asOf": null,
@@ -110,7 +123,8 @@
     "plot.xianni-ch117-wanglin-death",
     "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
     "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
-    "plot.xianni-ch130-yuanying-huran-return-hunxue"
+    "plot.xianni-ch130-yuanying-huran-return-hunxue",
+    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian"
   ],
-  "updatedAt": "2026-07-05T04:54:28.684Z"
+  "updatedAt": "2026-07-05T05:13:41.078Z"
 }
