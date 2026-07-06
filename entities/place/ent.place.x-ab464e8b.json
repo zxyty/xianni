@@ -9,7 +9,8 @@
   "attributes": {
     "上级区域": "尸谷",
     "类型": "极阴禁地",
-    "危险度": "灵魂神识可被瞬间冻碎"
+    "危险度": "灵魂神识可被瞬间冻碎",
+    "特产": "地底兽骨"
   },
   "observations": {
     "上级区域": [
@@ -32,6 +33,13 @@
         "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
         "seq": 129
       }
+    ],
+    "特产": [
+      {
+        "value": "地底兽骨",
+        "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+        "seq": 147
+      }
     ]
   },
   "firstSeq": 129,
@@ -53,12 +61,19 @@
       "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
       "dated": false,
       "seq": 129
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+      "dated": false,
+      "seq": 147
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch129-131-jiedan-sandan-heyi"
+    "plot.xianni-ch129-131-jiedan-sandan-heyi",
+    "plot.xianni-ch147-150-shendaoshu-deal"
   ],
-  "updatedAt": "2026-07-06T12:52:53.678Z"
+  "updatedAt": "2026-07-06T15:33:53.318Z"
 }

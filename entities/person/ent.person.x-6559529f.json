@@ -5,10 +5,11 @@
   "aliases": [],
   "summary": "四级修真国天罡宗弟子，生前元婴期，肉身被毁、元婴受损，于尸阴宗购筑基期肉身夺舍，现仅筑基后期实力；元神被王林抹去神识、逼作制游魂素材。",
   "attributes": {
-    "身份": "天罡宗弟子",
+    "身份": "天罡国天罡宗弟子（夺舍者）",
     "出身地": "四级修真国",
     "小阶段": "元婴期",
-    "存殁": "死亡"
+    "存殁": "死亡",
+    "结局": "元魂被王林擒住（追述）"
   },
   "observations": {
     "身份": [
@@ -16,6 +17,11 @@
         "value": "天罡宗弟子",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
+      },
+      {
+        "value": "天罡国天罡宗弟子（夺舍者）",
+        "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+        "seq": 147
       }
     ],
     "出身地": [
@@ -40,15 +46,22 @@
         "seq": 111,
         "note": "神识被王林抹去，元神沦为无意识之物、被逼制游魂"
       }
+    ],
+    "结局": [
+      {
+        "value": "元魂被王林擒住（追述）",
+        "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+        "seq": 147
+      }
     ]
   },
   "firstSeq": 111,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+      "docId": "plot.xianni-ch147-150-shendaoshu-deal",
       "dated": false,
-      "seq": 111
+      "seq": 147
     },
     "出身地": {
       "asOf": null,
@@ -69,12 +82,19 @@
       "dated": false,
       "seq": 111,
       "note": "神识被王林抹去，元神沦为无意识之物、被逼制游魂"
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+      "dated": false,
+      "seq": 147
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo"
+    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+    "plot.xianni-ch147-150-shendaoshu-deal"
   ],
-  "updatedAt": "2026-07-05T04:42:11.861Z"
+  "updatedAt": "2026-07-06T15:33:53.322Z"
 }
