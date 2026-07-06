@@ -6,13 +6,16 @@
     "火焚国入侵联盟",
     "火焚盟山峰",
     "火焚盟第十大队",
-    "第十大队"
+    "第十大队",
+    "火焚盟四大派",
+    "火焚盟门派"
   ],
   "summary": "战神殿、邪魔宗、洛河门、尸阴宗为侵入宣武国求生而结成的联盟。",
   "attributes": {
-    "据点": "火焚国边境割据区",
+    "据点": "火焚国",
     "理念": "为生存而侵略",
-    "所属界面": "火焚国"
+    "所属界面": "火焚国",
+    "镇派之宝": "护山大阵"
   },
   "observations": {
     "据点": [
@@ -30,6 +33,11 @@
         "value": "火焚国边境割据区",
         "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
         "seq": 129
+      },
+      {
+        "value": "火焚国",
+        "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
+        "seq": 142
       }
     ],
     "理念": [
@@ -45,15 +53,22 @@
         "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
         "seq": 123
       }
+    ],
+    "镇派之宝": [
+      {
+        "value": "护山大阵",
+        "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
+        "seq": 142
+      }
     ]
   },
   "firstSeq": 119,
   "attrProvenance": {
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+      "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
       "dated": false,
-      "seq": 129
+      "seq": 142
     },
     "理念": {
       "asOf": null,
@@ -66,6 +81,12 @@
       "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
       "dated": false,
       "seq": 123
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
+      "dated": false,
+      "seq": 142
     }
   },
   "contested": false,
@@ -75,7 +96,8 @@
     "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
     "plot.xianni-ch126-128-modohai-doupai-sangmuya",
     "plot.xianni-ch129-131-jiedan-sandan-heyi",
-    "plot.xianni-ch137-141-nandou-shafa-xuelu"
+    "plot.xianni-ch137-141-nandou-shafa-xuelu",
+    "plot.xianni-142-146-qimei-rongyan-wuqi-huahai"
   ],
-  "updatedAt": "2026-07-06T13:16:53.122Z"
+  "updatedAt": "2026-07-06T15:09:57.849Z"
 }
