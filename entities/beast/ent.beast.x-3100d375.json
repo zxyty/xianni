@@ -9,15 +9,17 @@
     "魔头",
     "魂",
     "元神所化魔头",
-    "红光魔头"
+    "红光魔头",
+    "红色影子"
   ],
   "summary": "吞魂带出的烟状神秘物种，见人就扑吞噬使人魂飞魄散成干尸，喜藏身干尸内，惧怕王林。",
   "attributes": {
-    "能力": "吞噬修士、使人成干尸、吞噬灵魂使人化干尸、无视修为的吞噬、戾气魔头、吞噬、吞噬活人以恢复修为",
+    "能力": "吞噬修士、使人成干尸、吞噬灵魂使人化干尸、无视修为的吞噬、戾气魔头、吞噬、吞噬活人以恢复修为、吞噬修士神识",
     "外形": "暗红色光芒、红色虚影",
     "天敌": "吞魂/王林",
-    "栖息地": "寂灭空间",
-    "种族": "游魂/魂体"
+    "栖息地": "王林的飞剑内",
+    "种族": "游魂/魂体",
+    "主人": "王林"
   },
   "observations": {
     "能力": [
@@ -50,6 +52,11 @@
         "value": "吞噬活人以恢复修为",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
+      },
+      {
+        "value": "吞噬修士神识",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
       }
     ],
     "外形": [
@@ -81,6 +88,11 @@
         "value": "寂灭空间",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
+      },
+      {
+        "value": "王林的飞剑内",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
       }
     ],
     "种族": [
@@ -88,6 +100,13 @@
         "value": "游魂/魂体",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
+      }
+    ],
+    "主人": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
       }
     ]
   },
@@ -113,15 +132,21 @@
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+      "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
       "dated": false,
-      "seq": 111
+      "seq": 123
     },
     "种族": {
       "asOf": null,
       "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
       "seq": 111
+    },
+    "主人": {
+      "asOf": null,
+      "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+      "dated": false,
+      "seq": 123
     }
   },
   "contested": false,
@@ -130,7 +155,8 @@
     "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
     "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
     "plot.xianni-ch130-yuanying-huran-return-hunxue",
-    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian"
+    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+    "plot.xianni-ch123-125-tianli-dan-huofen-invasion"
   ],
-  "updatedAt": "2026-07-05T05:13:41.014Z"
+  "updatedAt": "2026-07-06T12:31:07.436Z"
 }

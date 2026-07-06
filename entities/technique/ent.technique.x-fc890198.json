@@ -4,13 +4,15 @@
   "name": "伪土遁术",
   "aliases": [
     "土遁术",
-    "土遁"
+    "土遁",
+    "五行遁术末支"
   ],
   "summary": "五行遁术（土遁）的分支法术，非真正五行遁术，仅略胜皮毛法术；可瞬移遁行，王林一夜摸索即能拍地移形三丈。",
   "attributes": {
-    "效果": "土遁瞬移遁行",
-    "出处": "孙有财/黑衣中年人储物袋玉简",
-    "品阶": "五行遁术分支"
+    "效果": "遁地极速、可携人",
+    "出处": "五行遁术（末流分支）",
+    "品阶": "五行遁术分支",
+    "修炼条件": "耗灵力巨大、资质要求低"
   },
   "observations": {
     "效果": [
@@ -18,6 +20,11 @@
         "value": "土遁瞬移遁行",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
+      },
+      {
+        "value": "遁地极速、可携人",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
       }
     ],
     "出处": [
@@ -25,6 +32,11 @@
         "value": "孙有财/黑衣中年人储物袋玉简",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
+      },
+      {
+        "value": "五行遁术（末流分支）",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
       }
     ],
     "品阶": [
@@ -34,21 +46,28 @@
         "seq": 119,
         "note": "略胜皮毛法术，非真正五行遁术"
       }
+    ],
+    "修炼条件": [
+      {
+        "value": "耗灵力巨大、资质要求低",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
+      }
     ]
   },
   "firstSeq": 119,
   "attrProvenance": {
     "效果": {
       "asOf": null,
-      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+      "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
       "dated": false,
-      "seq": 119
+      "seq": 123
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+      "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
       "dated": false,
-      "seq": 119
+      "seq": 123
     },
     "品阶": {
       "asOf": null,
@@ -56,12 +75,19 @@
       "dated": false,
       "seq": 119,
       "note": "略胜皮毛法术，非真正五行遁术"
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+      "dated": false,
+      "seq": 123
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian"
+    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+    "plot.xianni-ch123-125-tianli-dan-huofen-invasion"
   ],
-  "updatedAt": "2026-07-05T05:13:41.055Z"
+  "updatedAt": "2026-07-06T12:31:07.466Z"
 }

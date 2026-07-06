@@ -8,7 +8,8 @@
   "summary": "介于筑基后期与结丹之间的境界，尸傀吞噬活人后及杜尘所处之境。",
   "attributes": {
     "上一境": "筑基",
-    "下一境": "结丹"
+    "下一境": "结丹",
+    "阶序": "筑基之上·结丹之前"
   },
   "observations": {
     "上一境": [
@@ -23,6 +24,13 @@
         "value": "结丹",
         "docId": "plot.xianni-ch85-89-jilian-jianqiao",
         "seq": 85
+      }
+    ],
+    "阶序": [
+      {
+        "value": "筑基之上·结丹之前",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
       }
     ]
   },
@@ -39,13 +47,20 @@
       "docId": "plot.xianni-ch85-89-jilian-jianqiao",
       "dated": false,
       "seq": 85
+    },
+    "阶序": {
+      "asOf": null,
+      "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+      "dated": false,
+      "seq": 123
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch85-89-jilian-jianqiao",
-    "lore.xianni-ch105-jijing-realm"
+    "lore.xianni-ch105-jijing-realm",
+    "plot.xianni-ch123-125-tianli-dan-huofen-invasion"
   ],
-  "updatedAt": "2026-07-05T03:14:59.671Z"
+  "updatedAt": "2026-07-06T12:31:07.421Z"
 }

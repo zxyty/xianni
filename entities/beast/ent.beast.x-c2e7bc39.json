@@ -7,16 +7,18 @@
     "三角眼火兽",
     "火焚国火兽",
     "火焰兽",
-    "火山巨兽"
+    "火山巨兽",
+    "火兽群",
+    "红云"
   ],
   "summary": "火灵兽虚弱期散灵力催生的后代，成千上万栖于岩浆，擒修士供火灵兽吞噬；巨型者十六只，实力近元婴期，皆无灵魂神识。",
   "attributes": {
     "种族": "火灵兽",
-    "栖息地": "火焚国地下岩浆及各火山口、火焚国火山口、火焚国火山群祖地",
-    "能力": "土遁、吐白色炎液、以泥土溶液困修士成土球、不畏神识、肉身坚硬、喷熔液、十六兽可施联合神通、喷溶液、献祭蜕变增幅",
-    "外形": "三角眼、头生单角、全身火光；普通约三尺，巨型逾半丈、目光冰冷，不拦不攻只旁观、蜕变后十丈之躯",
+    "栖息地": "火焚国地下岩浆及各火山口、火焚国火山口、火焚国火山群祖地、修魔海方向/国境外",
+    "能力": "土遁、吐白色炎液、以泥土溶液困修士成土球、不畏神识、肉身坚硬、喷熔液、十六兽可施联合神通、喷溶液、献祭蜕变增幅、群体来袭",
+    "外形": "三角眼、头生单角、全身火光；普通约三尺，巨型逾半丈、目光冰冷，不拦不攻只旁观、蜕变后十丈之躯、红色、聚为遮天红云",
     "等级": "普通者约相当于凝气期",
-    "天敌": "重击类强力法宝"
+    "天敌": "修魔海阴寒之气"
   },
   "observations": {
     "种族": [
@@ -46,6 +48,11 @@
         "value": "火焚国火山群祖地",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
+      },
+      {
+        "value": "修魔海方向/国境外",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
       }
     ],
     "能力": [
@@ -93,6 +100,11 @@
         "value": "献祭蜕变增幅",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
+      },
+      {
+        "value": "群体来袭",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
       }
     ],
     "外形": [
@@ -111,6 +123,11 @@
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119,
         "note": "蜕变后"
+      },
+      {
+        "value": "红色、聚为遮天红云",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
       }
     ],
     "等级": [
@@ -125,6 +142,11 @@
         "value": "重击类强力法宝",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
+      },
+      {
+        "value": "修魔海阴寒之气",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
       }
     ]
   },
@@ -162,16 +184,17 @@
     },
     "天敌": {
       "asOf": null,
-      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+      "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
       "dated": false,
-      "seq": 119
+      "seq": 123
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch130-yuanying-huran-return-hunxue",
-    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian"
+    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+    "plot.xianni-ch123-125-tianli-dan-huofen-invasion"
   ],
-  "updatedAt": "2026-07-05T05:13:41.074Z"
+  "updatedAt": "2026-07-06T12:31:07.467Z"
 }

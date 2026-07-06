@@ -1,104 +1,92 @@
 {
-  "id": "ent.place.x-abe46bfe",
-  "type": "place",
-  "name": "修魔海",
+  "id": "ent.pill.x-1488686f",
+  "type": "pill",
+  "name": "天离丹",
   "aliases": [
-    "雾海",
-    "Xiumohai",
-    "修魔海雾海"
+    "夭离丹"
   ],
-  "summary": "邻近火焚国的海域。",
+  "summary": "火焚国珍品灵丹，全国不超过三十粒，主药已断绝；可增加结丹几率，结丹期服下提升境界时可直接迈入稳定期。",
   "attributes": {
-    "类型": "雾海、海域秘境",
-    "方位": "周武大陆与赵国大陆之间、火焚国边境外",
-    "危险度": "极高(元婴期亦不敢轻入)、高",
-    "特产": "每年一月雾气复为海水、阴寒灵力、上古海洋植被",
-    "规模": "约相当于几千个火焚国"
+    "品阶": "火焚国珍品灵丹",
+    "功效": "增加结丹几率、结丹期服下提升境界可直接迈入稳定期、军功奖励(具体未明)",
+    "适用境界": "结丹期",
+    "炼制者": "洛河门",
+    "副作用": "成品不便储藏，须一年内服下否则效果大损"
   },
   "observations": {
-    "类型": [
+    "品阶": [
       {
-        "value": "雾海",
-        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
-        "seq": 123
-      },
-      {
-        "value": "海域秘境",
+        "value": "火焚国珍品灵丹",
         "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
         "seq": 123
       }
     ],
-    "方位": [
+    "功效": [
       {
-        "value": "周武大陆与赵国大陆之间",
+        "value": "增加结丹几率",
         "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
         "seq": 123
       },
       {
-        "value": "火焚国边境外",
-        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
-        "seq": 123
-      }
-    ],
-    "危险度": [
-      {
-        "value": "极高(元婴期亦不敢轻入)",
+        "value": "结丹期服下提升境界可直接迈入稳定期",
         "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
         "seq": 123
       },
       {
-        "value": "高",
+        "value": "军功奖励(具体未明)",
         "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
         "seq": 123
       }
     ],
-    "特产": [
+    "适用境界": [
       {
-        "value": "每年一月雾气复为海水",
-        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
-        "seq": 123
-      },
-      {
-        "value": "阴寒灵力、上古海洋植被",
+        "value": "结丹期",
         "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
         "seq": 123
       }
     ],
-    "规模": [
+    "炼制者": [
       {
-        "value": "约相当于几千个火焚国",
+        "value": "洛河门",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
+      }
+    ],
+    "副作用": [
+      {
+        "value": "成品不便储藏，须一年内服下否则效果大损",
         "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
         "seq": 123
       }
     ]
   },
-  "firstSeq": 111,
+  "firstSeq": 123,
   "attrProvenance": {
-    "类型": {
+    "品阶": {
       "asOf": null,
       "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
       "dated": false,
       "seq": 123
     },
-    "方位": {
+    "功效": {
       "asOf": null,
       "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
       "dated": false,
       "seq": 123
     },
-    "危险度": {
+    "适用境界": {
       "asOf": null,
       "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
       "dated": false,
       "seq": 123
     },
-    "特产": {
+    "炼制者": {
       "asOf": null,
       "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
       "dated": false,
       "seq": 123
     },
-    "规模": {
+    "副作用": {
       "asOf": null,
       "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
       "dated": false,
@@ -108,8 +96,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
     "plot.xianni-ch123-125-tianli-dan-huofen-invasion"
   ],
-  "updatedAt": "2026-07-06T12:31:07.468Z"
+  "updatedAt": "2026-07-06T12:31:07.466Z"
 }

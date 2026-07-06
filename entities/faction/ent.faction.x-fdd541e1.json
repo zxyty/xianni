@@ -2,11 +2,15 @@
   "id": "ent.faction.x-fdd541e1",
   "type": "faction",
   "name": "火焚盟",
-  "aliases": [],
+  "aliases": [
+    "火焚国入侵联盟",
+    "火焚盟山峰"
+  ],
   "summary": "战神殿、邪魔宗、洛河门、尸阴宗为侵入宣武国求生而结成的联盟。",
   "attributes": {
-    "据点": "宣武国",
-    "理念": "为生存而侵略"
+    "据点": "火焚盟山峰",
+    "理念": "为生存而侵略",
+    "所属界面": "火焚国"
   },
   "observations": {
     "据点": [
@@ -14,6 +18,11 @@
         "value": "宣武国",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
+      },
+      {
+        "value": "火焚盟山峰",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
       }
     ],
     "理念": [
@@ -22,27 +31,41 @@
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
       }
+    ],
+    "所属界面": [
+      {
+        "value": "火焚国",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
+      }
     ]
   },
   "firstSeq": 119,
   "attrProvenance": {
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+      "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
       "dated": false,
-      "seq": 119
+      "seq": 123
     },
     "理念": {
       "asOf": null,
       "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
       "dated": false,
       "seq": 119
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+      "dated": false,
+      "seq": 123
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian"
+    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+    "plot.xianni-ch123-125-tianli-dan-huofen-invasion"
   ],
-  "updatedAt": "2026-07-05T05:13:41.077Z"
+  "updatedAt": "2026-07-06T12:31:07.465Z"
 }
