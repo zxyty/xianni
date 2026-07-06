@@ -3,11 +3,17 @@
   "type": "person",
   "name": "李慕婉",
   "aliases": [
-    "李慕婉小娘子"
+    "李慕婉小娘子",
+    "洛河门女修",
+    "李慕婉师妹"
   ],
   "summary": "洛河门炼丹宗修士，孙有财欲夺其丹药/丹方的目标。",
   "attributes": {
-    "阵营": "洛河门炼丹宗"
+    "阵营": "洛河门炼丹宗、火焚国、洛河门",
+    "性别": "女",
+    "身份": "洛河门女修、炼丹师",
+    "外貌": "柔美飘逸如莲花仙子",
+    "性格": "冰雪聪明"
   },
   "observations": {
     "阵营": [
@@ -15,6 +21,49 @@
         "value": "洛河门炼丹宗",
         "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
         "seq": 115
+      },
+      {
+        "value": "火焚国",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
+      },
+      {
+        "value": "洛河门",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
+      }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
+      }
+    ],
+    "身份": [
+      {
+        "value": "洛河门女修",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
+      },
+      {
+        "value": "炼丹师",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
+      }
+    ],
+    "外貌": [
+      {
+        "value": "柔美飘逸如莲花仙子",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
+      }
+    ],
+    "性格": [
+      {
+        "value": "冰雪聪明",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
       }
     ]
   },
@@ -25,12 +74,37 @@
       "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
       "dated": false,
       "seq": 115
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+      "dated": false,
+      "seq": 123
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+      "dated": false,
+      "seq": 123
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+      "dated": false,
+      "seq": 123
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+      "dated": false,
+      "seq": 123
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch130-yuanying-huran-return-hunxue"
+    "plot.xianni-ch130-yuanying-huran-return-hunxue",
+    "plot.xianni-ch123-125-tianli-dan-huofen-invasion"
   ],
-  "updatedAt": "2026-07-05T04:54:28.659Z"
+  "updatedAt": "2026-07-06T12:31:07.462Z"
 }

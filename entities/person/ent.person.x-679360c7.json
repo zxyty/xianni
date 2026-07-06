@@ -5,17 +5,21 @@
   "aliases": [
     "凤栾始祖",
     "峰峦",
-    "五彩凤车上妇人"
+    "五彩凤车上妇人",
+    "风栾",
+    "风栾始祖",
+    "师尊"
   ],
   "summary": "战神殿元婴初期始祖，乘五彩凤车，庇护王林并收其为记名弟子。",
   "attributes": {
     "性别": "女",
-    "小阶段": "元婴初期",
+    "小阶段": "元婴期",
     "称号": "始祖",
-    "身份": "战神殿始祖",
-    "阵营": "战神殿",
+    "身份": "战神殿始祖、元婴修士、始祖",
+    "阵营": "火焚国/火焚盟",
     "外貌": "宫装妇人、顾盼生辉",
-    "本命法宝": "五彩凤车"
+    "本命法宝": "五彩凤车",
+    "标志特征": "温柔动听的声音"
   },
   "observations": {
     "性别": [
@@ -30,6 +34,11 @@
         "value": "元婴初期",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
+      },
+      {
+        "value": "元婴期",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
       }
     ],
     "称号": [
@@ -44,6 +53,16 @@
         "value": "战神殿始祖",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
+      },
+      {
+        "value": "元婴修士",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
+      },
+      {
+        "value": "始祖",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
       }
     ],
     "阵营": [
@@ -51,6 +70,11 @@
         "value": "战神殿",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
+      },
+      {
+        "value": "火焚国/火焚盟",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
       }
     ],
     "外貌": [
@@ -66,6 +90,13 @@
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
       }
+    ],
+    "标志特征": [
+      {
+        "value": "温柔动听的声音",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
+      }
     ]
   },
   "firstSeq": 119,
@@ -78,9 +109,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+      "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
       "dated": false,
-      "seq": 119
+      "seq": 123
     },
     "称号": {
       "asOf": null,
@@ -96,9 +127,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+      "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
       "dated": false,
-      "seq": 119
+      "seq": 123
     },
     "外貌": {
       "asOf": null,
@@ -111,12 +142,19 @@
       "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
       "dated": false,
       "seq": 119
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+      "dated": false,
+      "seq": 123
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian"
+    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+    "plot.xianni-ch123-125-tianli-dan-huofen-invasion"
   ],
-  "updatedAt": "2026-07-05T05:13:41.068Z"
+  "updatedAt": "2026-07-06T12:31:07.445Z"
 }

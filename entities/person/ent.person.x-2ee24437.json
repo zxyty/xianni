@@ -1,104 +1,97 @@
 {
-  "id": "ent.place.x-abe46bfe",
-  "type": "place",
-  "name": "修魔海",
+  "id": "ent.person.x-2ee24437",
+  "type": "person",
+  "name": "宣武国双修门长老",
   "aliases": [
-    "雾海",
-    "Xiumohai",
-    "修魔海雾海"
+    "油头粉面青年",
+    "双修门长老"
   ],
-  "summary": "邻近火焚国的海域。",
+  "summary": "宣武国双修门长老，结丹中期，为夺天离丹追杀李慕婉，见火兽红云弃追逃走。",
   "attributes": {
-    "类型": "雾海、海域秘境",
-    "方位": "周武大陆与赵国大陆之间、火焚国边境外",
-    "危险度": "极高(元婴期亦不敢轻入)、高",
-    "特产": "每年一月雾气复为海水、阴寒灵力、上古海洋植被",
-    "规模": "约相当于几千个火焚国"
+    "性别": "男",
+    "小阶段": "结丹中期",
+    "身份": "双修门长老",
+    "阵营": "宣武国",
+    "外貌": "油头粉面",
+    "标志特征": "擅飞剑、不擅速度"
   },
   "observations": {
-    "类型": [
+    "性别": [
       {
-        "value": "雾海",
-        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
-        "seq": 123
-      },
-      {
-        "value": "海域秘境",
+        "value": "男",
         "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
         "seq": 123
       }
     ],
-    "方位": [
+    "小阶段": [
       {
-        "value": "周武大陆与赵国大陆之间",
-        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
-        "seq": 123
-      },
-      {
-        "value": "火焚国边境外",
+        "value": "结丹中期",
         "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
         "seq": 123
       }
     ],
-    "危险度": [
+    "身份": [
       {
-        "value": "极高(元婴期亦不敢轻入)",
-        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
-        "seq": 123
-      },
-      {
-        "value": "高",
+        "value": "双修门长老",
         "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
         "seq": 123
       }
     ],
-    "特产": [
+    "阵营": [
       {
-        "value": "每年一月雾气复为海水",
-        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
-        "seq": 123
-      },
-      {
-        "value": "阴寒灵力、上古海洋植被",
+        "value": "宣武国",
         "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
         "seq": 123
       }
     ],
-    "规模": [
+    "外貌": [
       {
-        "value": "约相当于几千个火焚国",
+        "value": "油头粉面",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "擅飞剑、不擅速度",
         "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
         "seq": 123
       }
     ]
   },
-  "firstSeq": 111,
+  "firstSeq": 123,
   "attrProvenance": {
-    "类型": {
+    "性别": {
       "asOf": null,
       "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
       "dated": false,
       "seq": 123
     },
-    "方位": {
+    "小阶段": {
       "asOf": null,
       "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
       "dated": false,
       "seq": 123
     },
-    "危险度": {
+    "身份": {
       "asOf": null,
       "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
       "dated": false,
       "seq": 123
     },
-    "特产": {
+    "阵营": {
       "asOf": null,
       "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
       "dated": false,
       "seq": 123
     },
-    "规模": {
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+      "dated": false,
+      "seq": 123
+    },
+    "标志特征": {
       "asOf": null,
       "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
       "dated": false,
@@ -108,8 +101,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
     "plot.xianni-ch123-125-tianli-dan-huofen-invasion"
   ],
-  "updatedAt": "2026-07-06T12:31:07.468Z"
+  "updatedAt": "2026-07-06T12:31:07.463Z"
 }

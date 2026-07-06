@@ -10,11 +10,12 @@
   "attributes": {
     "类型": "国度",
     "方位": "朱雀星南部",
-    "特产": "焚金果、融灵丹、火山众多、火山、岩浆、火山、火山、燥热火灵力、火属性灵气与火山",
+    "特产": "焚金果、融灵丹、火山众多、火山、岩浆、火山、火山、燥热火灵力、火属性灵气与火山、燥热火属性灵气",
     "危险度": "偏僻荒凉、高（火山遍生、地下火兽、火山有爆发之险）、火兽之乱期间极高、火兽成灾、灵气暴虐",
     "上级区域": "朱雀星",
     "守护": "锁国大阵",
-    "所属势力": "四大宗派（战神殿/洛河门/邪魔宗/尸阴宗）"
+    "所属势力": "四大宗派（战神殿/洛河门/邪魔宗/尸阴宗）",
+    "所属界面": "周武大陆"
   },
   "observations": {
     "类型": [
@@ -81,6 +82,11 @@
         "value": "火属性灵气与火山",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
+      },
+      {
+        "value": "燥热火属性灵气",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
       }
     ],
     "危险度": [
@@ -130,6 +136,13 @@
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
       }
+    ],
+    "所属界面": [
+      {
+        "value": "周武大陆",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
+      }
     ]
   },
   "firstSeq": 102,
@@ -175,6 +188,12 @@
       "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
       "dated": false,
       "seq": 119
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+      "dated": false,
+      "seq": 123
     }
   },
   "contested": false,
@@ -184,7 +203,8 @@
     "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
     "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
     "plot.xianni-ch130-yuanying-huran-return-hunxue",
-    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian"
+    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+    "plot.xianni-ch123-125-tianli-dan-huofen-invasion"
   ],
-  "updatedAt": "2026-07-05T05:13:41.080Z"
+  "updatedAt": "2026-07-06T12:31:07.468Z"
 }

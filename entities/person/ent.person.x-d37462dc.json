@@ -4,14 +4,16 @@
   "name": "周瑾",
   "aliases": [
     "苍发老者",
-    "苍老者"
+    "苍老者",
+    "中年文士周瑾"
   ],
   "summary": "战神殿元婴初期修士，指控王林引来火兽、夺舍马良，因忌惮凤栾与杨森而罢手。",
   "attributes": {
     "性别": "男",
     "小阶段": "元婴初期",
     "阵营": "战神殿",
-    "外貌": "苍发老者、目光阴沉"
+    "外貌": "中年文士",
+    "身份": "赠玉符予王林者"
   },
   "observations": {
     "性别": [
@@ -40,6 +42,18 @@
         "value": "苍发老者、目光阴沉",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
+      },
+      {
+        "value": "中年文士",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
+      }
+    ],
+    "身份": [
+      {
+        "value": "赠玉符予王林者",
+        "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+        "seq": 123
       }
     ]
   },
@@ -65,15 +79,22 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+      "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
       "dated": false,
-      "seq": 119
+      "seq": 123
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+      "dated": false,
+      "seq": 123
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian"
+    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+    "plot.xianni-ch123-125-tianli-dan-huofen-invasion"
   ],
-  "updatedAt": "2026-07-05T05:13:41.070Z"
+  "updatedAt": "2026-07-06T12:31:07.446Z"
 }
