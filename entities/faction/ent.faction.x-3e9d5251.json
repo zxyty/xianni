@@ -14,9 +14,10 @@
   "attributes": {
     "等级": "三级修真国宗派、火焚国第一派、火焚国四大派之首",
     "所属界面": "火焚国",
-    "镇派之宝": "战神决、神道、战神殿炼器术、炼器术/反应炉、战神殿炼器术、天道术",
+    "镇派之宝": "战神决、神道、战神殿炼器术、炼器术/反应炉、战神殿炼器术、天道术、神道术",
     "掌门": "宋姓始祖",
-    "据点": "火焚国、火焚国东部直冲云霄的山峰"
+    "据点": "火焚国、火焚国东部直冲云霄的山峰、石府（三百六十五间水镜门石室）",
+    "阵营": "火焚盟四大派之一"
   },
   "observations": {
     "等级": [
@@ -68,6 +69,11 @@
         "value": "战神殿炼器术、天道术",
         "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
         "seq": 129
+      },
+      {
+        "value": "神道术",
+        "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+        "seq": 147
       }
     ],
     "掌门": [
@@ -92,6 +98,18 @@
         "value": "火焚国东部直冲云霄的山峰",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
+      },
+      {
+        "value": "石府（三百六十五间水镜门石室）",
+        "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+        "seq": 147
+      }
+    ],
+    "阵营": [
+      {
+        "value": "火焚盟四大派之一",
+        "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+        "seq": 147
       }
     ]
   },
@@ -126,6 +144,12 @@
       "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
       "seq": 111
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+      "dated": false,
+      "seq": 147
     }
   },
   "contested": false,
@@ -140,7 +164,8 @@
     "plot.xianni-ch126-128-modohai-doupai-sangmuya",
     "plot.xianni-ch129-131-jiedan-sandan-heyi",
     "plot.xianni-ch137-141-nandou-shafa-xuelu",
-    "plot.xianni-142-146-qimei-rongyan-wuqi-huahai"
+    "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
+    "plot.xianni-ch147-150-shendaoshu-deal"
   ],
-  "updatedAt": "2026-07-06T15:09:57.863Z"
+  "updatedAt": "2026-07-06T15:33:53.316Z"
 }

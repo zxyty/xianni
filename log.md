@@ -31,3 +31,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-07-06T12:55:39.931Z** `ingest` plot.xianni-ch147-151-jiedan-doupai-zhusha — 仙逆 第147-151章 结丹成功·斩杀斗邪派·万魔百日诛杀令 · kind=plot asOf=2026-07-06 entities=30 relations=35 src=00132-00136.md
 - **2026-07-06T13:16:53.214Z** `ingest` plot.xianni-ch137-141-nandou-shafa-xuelu — 仙逆 第137-141章 杀伐血路·扬威南斗 · kind=plot asOf=2026-07-06 entities=36 relations=44 src=00137-00141.md
 - **2026-07-06T15:09:57.881Z** `ingest` plot.xianni-142-146-qimei-rongyan-wuqi-huahai — 《仙逆》第142-146章 凄美的容颜·雾气化海 · kind=plot asOf=2026-07-06 entities=59 relations=83 src=00142-00146.md
+- **2026-07-06T15:33:53.359Z** `ingest` plot.xianni-ch147-150-shendaoshu-deal — 仙逆 第147-150章 与青衫老者达成协议·借观神道术 · kind=plot asOf=2026-07-06 entities=51 relations=65 src=00147-00150.md

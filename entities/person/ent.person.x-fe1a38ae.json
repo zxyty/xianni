@@ -6,13 +6,14 @@
     "鹰钩鼻老者",
     "七梅老者",
     "七梅城主",
-    "苍老声音(伏击者)"
+    "苍老声音(伏击者)",
+    "青衫前辈"
   ],
   "summary": "南斗城茶楼出现的元婴期高手，鹰钩鼻、青葛布长袍绣七朵金梅（花心红点），对王林、死咒术、神秘法宝极感兴趣，连杀议论者。",
   "attributes": {
-    "小阶段": "元婴期、元婴后期",
+    "小阶段": "元婴期、元婴后期、元婴后期假神境界/化神",
     "外貌": "鹰钩鼻、高瘦、阴霜、青衫老者、青衫老者，衣底三寸之上有七朵金色梅花",
-    "标志特征": "青葛布长袍绣七朵金梅、花心红点、魂血追踪、翠绿葫芦、嗜酒",
+    "标志特征": "青葛布长袍绣七朵金梅、花心红点、魂血追踪、翠绿葫芦、嗜酒、操控闪电雷光",
     "性格": "阴沉从容、狂傲",
     "身份": "修魔海内海七梅之城城主之一、追杀者",
     "阵营": "修魔海内海魔修"
@@ -28,6 +29,12 @@
         "value": "元婴后期",
         "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
         "seq": 142
+      },
+      {
+        "value": "元婴后期假神境界/化神",
+        "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+        "seq": 147,
+        "note": "王林推测，未确证"
       }
     ],
     "外貌": [
@@ -67,6 +74,11 @@
         "value": "嗜酒",
         "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
         "seq": 142
+      },
+      {
+        "value": "操控闪电雷光",
+        "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+        "seq": 147
       }
     ],
     "性格": [
@@ -143,7 +155,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-142-146-qimei-rongyan-wuqi-huahai"
+    "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
+    "plot.xianni-ch147-150-shendaoshu-deal"
   ],
-  "updatedAt": "2026-07-06T15:09:57.825Z"
+  "updatedAt": "2026-07-06T15:33:53.306Z"
 }

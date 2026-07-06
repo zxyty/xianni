@@ -2,18 +2,35 @@
   "id": "ent.technique.x-2e933852",
   "type": "technique",
   "name": "神道术",
-  "aliases": [],
+  "aliases": [
+    "神道术原始术",
+    "Shen Dao Shu"
+  ],
   "summary": "战神殿秘术，王林自马良记忆中最觊觎之物；疑筑基期无护法参看有害。",
   "attributes": {
-    "出处": "战神殿",
-    "修炼条件": "本派弟子须结丹期或为门派立大功且有长老护法方可参看；外派弟子交灵石即可参看"
+    "出处": "战神殿、战神殿创始祖富墨（宫始祖）所发现、战神殿石府",
+    "修炼条件": "本派弟子须结丹期或为门派立大功且有长老护法方可参看；外派弟子交灵石即可参看",
+    "效果": "增加结婴几率、只能领会无法以言语表达、无法拓印/描绘、石壁字迹仅存陈冲凭记忆刻画之一成",
+    "品阶": "大神通",
+    "外显异象": "观者记住的字符一看墙壁即凭空消失、阅后即忘、拒绝被拓印记载"
   },
   "observations": {
     "出处": [
       {
         "value": "战神殿",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
-        "seq": 111
+        "seq": 111,
+        "note": "原始神道术在天罡国"
+      },
+      {
+        "value": "战神殿创始祖富墨（宫始祖）所发现",
+        "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+        "seq": 147
+      },
+      {
+        "value": "战神殿石府",
+        "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+        "seq": 147
       }
     ],
     "修炼条件": [
@@ -21,6 +38,47 @@
         "value": "本派弟子须结丹期或为门派立大功且有长老护法方可参看；外派弟子交灵石即可参看",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
+      }
+    ],
+    "效果": [
+      {
+        "value": "增加结婴几率",
+        "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+        "seq": 147
+      },
+      {
+        "value": "只能领会无法以言语表达",
+        "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+        "seq": 147
+      },
+      {
+        "value": "无法拓印/描绘",
+        "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+        "seq": 147
+      },
+      {
+        "value": "石壁字迹仅存陈冲凭记忆刻画之一成",
+        "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+        "seq": 147
+      }
+    ],
+    "品阶": [
+      {
+        "value": "大神通",
+        "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+        "seq": 147
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "观者记住的字符一看墙壁即凭空消失",
+        "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+        "seq": 147
+      },
+      {
+        "value": "阅后即忘、拒绝被拓印记载",
+        "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+        "seq": 147
       }
     ]
   },
@@ -30,19 +88,39 @@
       "asOf": null,
       "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
-      "seq": 111
+      "seq": 111,
+      "note": "原始神道术在天罡国"
     },
     "修炼条件": {
       "asOf": null,
       "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
       "seq": 111
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+      "dated": false,
+      "seq": 147
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+      "dated": false,
+      "seq": 147
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+      "dated": false,
+      "seq": 147
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo"
+    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+    "plot.xianni-ch147-150-shendaoshu-deal"
   ],
-  "updatedAt": "2026-07-05T04:42:11.898Z"
+  "updatedAt": "2026-07-06T15:33:53.308Z"
 }

@@ -13,15 +13,16 @@
   ],
   "summary": "吴宇的师兄，尸阴宗修士；吴宇托王林前往尸阴宗寻其相救。",
   "attributes": {
-    "身份": "尸阴宗修士、尸阴宗始祖、神识体、尸阴宗宗主",
+    "身份": "尸阴宗修士、尸阴宗始祖、神识体、尸阴宗宗主、赵国尸阴宗宗主",
     "小阶段": "元婴期",
     "外貌": "四十许岁英俊中年人",
     "本命法宝": "蓝炎魔火",
     "存殁": "存活、存",
     "阵营": "尸阴宗、魔道、魔道·尸阴宗",
     "性格": "阴沉护短",
-    "标志特征": "体内有沙哑声音的前辈(欲吞噬朴南子)",
-    "寿元": "不足三个月"
+    "标志特征": "寄魂于赵传良体内",
+    "寿元": "不足三个月",
+    "结局": "夺舍失败"
   },
   "observations": {
     "身份": [
@@ -45,6 +46,12 @@
         "value": "尸阴宗宗主",
         "docId": "plot.xianni-ch85-89-jilian-jianqiao",
         "seq": 85
+      },
+      {
+        "value": "赵国尸阴宗宗主",
+        "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+        "seq": 147,
+        "note": "当年"
       }
     ],
     "小阶段": [
@@ -111,6 +118,11 @@
         "value": "体内有沙哑声音的前辈(欲吞噬朴南子)",
         "docId": "plot.xianni-ch85-89-jilian-jianqiao",
         "seq": 85
+      },
+      {
+        "value": "寄魂于赵传良体内",
+        "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+        "seq": 147
       }
     ],
     "寿元": [
@@ -119,6 +131,14 @@
         "docId": "plot.xianni-ch85-89-jilian-jianqiao",
         "seq": 85,
         "note": "域外战场开启之日即被吞噬"
+      }
+    ],
+    "结局": [
+      {
+        "value": "夺舍失败",
+        "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+        "seq": 147,
+        "note": "肉身被五级宗国收走"
       }
     ]
   },
@@ -170,9 +190,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+      "docId": "plot.xianni-ch147-150-shendaoshu-deal",
       "dated": false,
-      "seq": 85
+      "seq": 147
     },
     "寿元": {
       "asOf": null,
@@ -180,6 +200,13 @@
       "dated": false,
       "seq": 85,
       "note": "域外战场开启之日即被吞噬"
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+      "dated": false,
+      "seq": 147,
+      "note": "肉身被五级宗国收走"
     }
   },
   "contested": false,
@@ -188,7 +215,8 @@
     "plot.xianni-ch091-jiyin-lingli",
     "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
     "plot.xianni-ch85-89-jilian-jianqiao",
-    "lore.xianni-ch105-jijing-realm"
+    "lore.xianni-ch105-jijing-realm",
+    "plot.xianni-ch147-150-shendaoshu-deal"
   ],
-  "updatedAt": "2026-07-05T03:14:59.672Z"
+  "updatedAt": "2026-07-06T15:33:53.303Z"
 }
