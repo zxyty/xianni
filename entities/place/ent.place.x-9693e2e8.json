@@ -4,12 +4,13 @@
   "name": "黑塔",
   "aliases": [
     "递增黑塔",
-    "土行黑塔"
+    "土行黑塔",
+    "直插云霄的黑塔"
   ],
   "summary": "五行之地中通体黑石、吸光不反照、高度沿直线递增的塔；土行黑塔共三层，第三层桌面有前人留字，可供避风与查探痕迹。",
   "attributes": {
-    "类型": "关内避难/标记塔",
-    "上级区域": "土行之地"
+    "类型": "塔",
+    "上级区域": "飓风群"
   },
   "observations": {
     "类型": [
@@ -17,6 +18,11 @@
         "value": "关内避难/标记塔",
         "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
         "seq": 155
+      },
+      {
+        "value": "塔",
+        "docId": "plot.xianni-ch173-second-demon-head",
+        "seq": 158
       }
     ],
     "上级区域": [
@@ -24,6 +30,11 @@
         "value": "土行之地",
         "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
         "seq": 155
+      },
+      {
+        "value": "飓风群",
+        "docId": "plot.xianni-ch173-second-demon-head",
+        "seq": 158
       }
     ]
   },
@@ -31,21 +42,22 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
+      "docId": "plot.xianni-ch173-second-demon-head",
       "dated": false,
-      "seq": 155
+      "seq": 158
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
+      "docId": "plot.xianni-ch173-second-demon-head",
       "dated": false,
-      "seq": 155
+      "seq": 158
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch155-157-tuoli-duiwu-quisui"
+    "plot.xianni-ch155-157-tuoli-duiwu-quisui",
+    "plot.xianni-ch173-second-demon-head"
   ],
-  "updatedAt": "2026-07-06T16:00:48.987Z"
+  "updatedAt": "2026-07-06T16:27:55.062Z"
 }

@@ -2,11 +2,14 @@
   "id": "ent.pill.x-870fcceb",
   "type": "pill",
   "name": "婴变丹",
-  "aliases": [],
+  "aliases": [
+    "婴变丹药"
+  ],
   "summary": "传说中的丹药，只需服下一粒便有机会一跃成为婴变期强者；藏于青衫老者所言凶地之中。",
   "attributes": {
-    "功效": "一跃成为婴变期强者",
-    "品阶": "极珍贵"
+    "功效": "助结婴/由化神冲婴变期",
+    "品阶": "极珍贵",
+    "适用境界": "化神"
   },
   "observations": {
     "功效": [
@@ -14,6 +17,11 @@
         "value": "一跃成为婴变期强者",
         "docId": "plot.xianni-ch147-150-shendaoshu-deal",
         "seq": 147
+      },
+      {
+        "value": "助结婴/由化神冲婴变期",
+        "docId": "plot.xianni-ch173-second-demon-head",
+        "seq": 158
       }
     ],
     "品阶": [
@@ -22,28 +30,42 @@
         "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
         "seq": 151
       }
+    ],
+    "适用境界": [
+      {
+        "value": "化神",
+        "docId": "plot.xianni-ch173-second-demon-head",
+        "seq": 158
+      }
     ]
   },
   "firstSeq": 147,
   "attrProvenance": {
     "功效": {
       "asOf": null,
-      "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+      "docId": "plot.xianni-ch173-second-demon-head",
       "dated": false,
-      "seq": 147
+      "seq": 158
     },
     "品阶": {
       "asOf": null,
       "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
       "dated": false,
       "seq": 151
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-ch173-second-demon-head",
+      "dated": false,
+      "seq": 158
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch147-150-shendaoshu-deal",
-    "plot.xianni-ch151-154-ancient-teleport-array-suixingluan"
+    "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
+    "plot.xianni-ch173-second-demon-head"
   ],
-  "updatedAt": "2026-07-06T15:52:10.959Z"
+  "updatedAt": "2026-07-06T16:27:55.062Z"
 }

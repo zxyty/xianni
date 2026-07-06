@@ -9,9 +9,10 @@
   ],
   "summary": "土行之地飓风的构成体：拳头大小、尖嘴薄翅，以声音（音波）攻击，数量近乎无穷；聚集拍翅形成铺天飓风。",
   "attributes": {
-    "栖息地": "土行之地飓风中",
-    "能力": "音波攻击、可融合神识化利剑",
-    "外形": "拳头大小、尖嘴、一对薄翅"
+    "栖息地": "飓风群",
+    "能力": "神识凝集、拍翅飞行、被击中可重创化神期",
+    "外形": "拳头大小、尖嘴、一对薄翅",
+    "等级": "士兵"
   },
   "observations": {
     "栖息地": [
@@ -19,6 +20,11 @@
         "value": "土行之地飓风中",
         "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
         "seq": 155
+      },
+      {
+        "value": "飓风群",
+        "docId": "plot.xianni-ch173-second-demon-head",
+        "seq": 158
       }
     ],
     "能力": [
@@ -26,6 +32,11 @@
         "value": "音波攻击、可融合神识化利剑",
         "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
         "seq": 155
+      },
+      {
+        "value": "神识凝集、拍翅飞行、被击中可重创化神期",
+        "docId": "plot.xianni-ch173-second-demon-head",
+        "seq": 158
       }
     ],
     "外形": [
@@ -34,33 +45,47 @@
         "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
         "seq": 155
       }
+    ],
+    "等级": [
+      {
+        "value": "士兵",
+        "docId": "plot.xianni-ch173-second-demon-head",
+        "seq": 158
+      }
     ]
   },
   "firstSeq": 155,
   "attrProvenance": {
     "栖息地": {
       "asOf": null,
-      "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
+      "docId": "plot.xianni-ch173-second-demon-head",
       "dated": false,
-      "seq": 155
+      "seq": 158
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
+      "docId": "plot.xianni-ch173-second-demon-head",
       "dated": false,
-      "seq": 155
+      "seq": 158
     },
     "外形": {
       "asOf": null,
       "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
       "dated": false,
       "seq": 155
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-ch173-second-demon-head",
+      "dated": false,
+      "seq": 158
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch155-157-tuoli-duiwu-quisui"
+    "plot.xianni-ch155-157-tuoli-duiwu-quisui",
+    "plot.xianni-ch173-second-demon-head"
   ],
-  "updatedAt": "2026-07-06T16:00:48.982Z"
+  "updatedAt": "2026-07-06T16:27:55.060Z"
 }

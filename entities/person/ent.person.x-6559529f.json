@@ -2,14 +2,20 @@
   "id": "ent.person.x-6559529f",
   "type": "person",
   "name": "许立国",
-  "aliases": [],
+  "aliases": [
+    "魔头许立国",
+    "化形魔头"
+  ],
   "summary": "四级修真国天罡宗弟子，生前元婴期，肉身被毁、元婴受损，于尸阴宗购筑基期肉身夺舍，现仅筑基后期实力；元神被王林抹去神识、逼作制游魂素材。",
   "attributes": {
-    "身份": "天罡国天罡宗弟子（夺舍者）",
+    "身份": "天罡宗弟子、天罡国天罡宗弟子（夺舍者）、魔头、王林所控魔头",
     "出身地": "四级修真国",
     "小阶段": "元婴期",
-    "存殁": "死亡",
-    "结局": "元魂被王林擒住（追述）"
+    "存殁": "存活",
+    "结局": "元魂被王林擒住（追述）",
+    "死因": "第111章身亡",
+    "标志特征": "红气化成的尖嘴小兽头颅、速度极快",
+    "种族": "游魂/魔头"
   },
   "observations": {
     "身份": [
@@ -22,6 +28,18 @@
         "value": "天罡国天罡宗弟子（夺舍者）",
         "docId": "plot.xianni-ch147-150-shendaoshu-deal",
         "seq": 147
+      },
+      {
+        "value": "魔头",
+        "docId": "plot.xianni-ch173-second-demon-head",
+        "seq": 158,
+        "note": "死后化成游魂类魔头，记忆仅恢复一丝"
+      },
+      {
+        "value": "王林所控魔头",
+        "docId": "plot.xianni-ch173-second-demon-head",
+        "seq": 158,
+        "note": "本章"
       }
     ],
     "出身地": [
@@ -45,6 +63,12 @@
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111,
         "note": "神识被王林抹去，元神沦为无意识之物、被逼制游魂"
+      },
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch173-second-demon-head",
+        "seq": 158,
+        "note": "本章；与『许立国第111章已死』提示存在张力，此处按在场魔头如实记录"
       }
     ],
     "结局": [
@@ -53,15 +77,37 @@
         "docId": "plot.xianni-ch147-150-shendaoshu-deal",
         "seq": 147
       }
+    ],
+    "死因": [
+      {
+        "value": "第111章身亡",
+        "docId": "plot.xianni-ch173-second-demon-head",
+        "seq": 158,
+        "note": "据世界状态须知"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "红气化成的尖嘴小兽头颅、速度极快",
+        "docId": "plot.xianni-ch173-second-demon-head",
+        "seq": 158
+      }
+    ],
+    "种族": [
+      {
+        "value": "游魂/魔头",
+        "docId": "plot.xianni-ch173-second-demon-head",
+        "seq": 158
+      }
     ]
   },
   "firstSeq": 111,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
-      "seq": 147
+      "seq": 111
     },
     "出身地": {
       "asOf": null,
@@ -78,23 +124,43 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+      "docId": "plot.xianni-ch173-second-demon-head",
       "dated": false,
-      "seq": 111,
-      "note": "神识被王林抹去，元神沦为无意识之物、被逼制游魂"
+      "seq": 158,
+      "note": "本章；与『许立国第111章已死』提示存在张力，此处按在场魔头如实记录"
     },
     "结局": {
       "asOf": null,
       "docId": "plot.xianni-ch147-150-shendaoshu-deal",
       "dated": false,
       "seq": 147
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch173-second-demon-head",
+      "dated": false,
+      "seq": 158,
+      "note": "据世界状态须知"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch173-second-demon-head",
+      "dated": false,
+      "seq": 158
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch173-second-demon-head",
+      "dated": false,
+      "seq": 158
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
-    "plot.xianni-ch147-150-shendaoshu-deal"
+    "plot.xianni-ch147-150-shendaoshu-deal",
+    "plot.xianni-ch173-second-demon-head"
   ],
-  "updatedAt": "2026-07-06T15:33:53.322Z"
+  "updatedAt": "2026-07-06T16:27:55.058Z"
 }

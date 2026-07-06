@@ -4,13 +4,16 @@
   "name": "土行之地",
   "aliases": [
     "沙漠之地",
-    "土行沙漠"
+    "土行沙漠",
+    "土行之地禁制",
+    "第一关"
   ],
   "summary": "五行之地中的沙漠环境：无边黄沙、上接天下连地的黑色飓风、以及一列递增的黑塔；地底遁行有阻力，飓风由音波兽构成。王林与孟驼子先后进入。",
   "attributes": {
-    "类型": "五行关卡·沙漠",
-    "危险度": "极高（无穷音波兽飓风）",
-    "上级区域": "五行之地"
+    "类型": "五行关卡·沙漠、特殊地域/秘境、试炼区域、关卡/秘境",
+    "危险度": "极高（无穷音波兽飓风）、极高、高（飓风群、小兽、化神高手）",
+    "上级区域": "域外战场",
+    "特产": "飓风、土行小兽、黑塔、飓风小兽、荒兽蛟龙"
   },
   "observations": {
     "类型": [
@@ -18,6 +21,21 @@
         "value": "五行关卡·沙漠",
         "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
         "seq": 155
+      },
+      {
+        "value": "特殊地域/秘境",
+        "docId": "plot.xianni-ch173-second-demon-head",
+        "seq": 158
+      },
+      {
+        "value": "试炼区域",
+        "docId": "plot.xianni-ch173-second-demon-head",
+        "seq": 158
+      },
+      {
+        "value": "关卡/秘境",
+        "docId": "plot.xianni-ch173-second-demon-head",
+        "seq": 158
       }
     ],
     "危险度": [
@@ -25,6 +43,16 @@
         "value": "极高（无穷音波兽飓风）",
         "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
         "seq": 155
+      },
+      {
+        "value": "极高",
+        "docId": "plot.xianni-ch173-second-demon-head",
+        "seq": 158
+      },
+      {
+        "value": "高（飓风群、小兽、化神高手）",
+        "docId": "plot.xianni-ch173-second-demon-head",
+        "seq": 158
       }
     ],
     "上级区域": [
@@ -32,6 +60,33 @@
         "value": "五行之地",
         "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
         "seq": 155
+      },
+      {
+        "value": "域外战场",
+        "docId": "plot.xianni-ch173-second-demon-head",
+        "seq": 158
+      }
+    ],
+    "特产": [
+      {
+        "value": "飓风",
+        "docId": "plot.xianni-ch173-second-demon-head",
+        "seq": 158
+      },
+      {
+        "value": "土行小兽",
+        "docId": "plot.xianni-ch173-second-demon-head",
+        "seq": 158
+      },
+      {
+        "value": "黑塔",
+        "docId": "plot.xianni-ch173-second-demon-head",
+        "seq": 158
+      },
+      {
+        "value": "飓风小兽、荒兽蛟龙",
+        "docId": "plot.xianni-ch173-second-demon-head",
+        "seq": 158
       }
     ]
   },
@@ -51,15 +106,22 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
+      "docId": "plot.xianni-ch173-second-demon-head",
       "dated": false,
-      "seq": 155
+      "seq": 158
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch173-second-demon-head",
+      "dated": false,
+      "seq": 158
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch155-157-tuoli-duiwu-quisui"
+    "plot.xianni-ch155-157-tuoli-duiwu-quisui",
+    "plot.xianni-ch173-second-demon-head"
   ],
-  "updatedAt": "2026-07-06T16:00:48.986Z"
+  "updatedAt": "2026-07-06T16:27:55.074Z"
 }
