@@ -7,9 +7,10 @@
   ],
   "summary": "青衫老者法宝，迎风胀大百倍可乘坐飞行，葫芦口喷涌波纹冲击破阵开路，速度倍于瞬移。",
   "attributes": {
-    "持有者": "青衫老者",
-    "能力": "高速飞行、喷涌波纹碎阵破雾开路、缩至巴掌大盛酒",
-    "外形": "翠绿色巨大葫芦"
+    "持有者": "端木极",
+    "能力": "高速飞行、喷涌波纹碎阵破雾开路、缩至巴掌大盛酒、载人高速飞行",
+    "外形": "翠绿葫芦",
+    "来历": "得自碎星乱深处"
   },
   "observations": {
     "持有者": [
@@ -17,6 +18,11 @@
         "value": "青衫老者",
         "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
         "seq": 142
+      },
+      {
+        "value": "端木极",
+        "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
+        "seq": 151
       }
     ],
     "能力": [
@@ -34,6 +40,11 @@
         "value": "缩至巴掌大盛酒",
         "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
         "seq": 142
+      },
+      {
+        "value": "载人高速飞行",
+        "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
+        "seq": 151
       }
     ],
     "外形": [
@@ -41,6 +52,18 @@
         "value": "翠绿色巨大葫芦",
         "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
         "seq": 142
+      },
+      {
+        "value": "翠绿葫芦",
+        "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
+        "seq": 151
+      }
+    ],
+    "来历": [
+      {
+        "value": "得自碎星乱深处",
+        "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
+        "seq": 151
       }
     ]
   },
@@ -48,9 +71,9 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
+      "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
       "dated": false,
-      "seq": 142
+      "seq": 151
     },
     "能力": {
       "asOf": null,
@@ -60,15 +83,22 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
+      "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
       "dated": false,
-      "seq": 142
+      "seq": 151
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
+      "dated": false,
+      "seq": 151
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-142-146-qimei-rongyan-wuqi-huahai"
+    "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
+    "plot.xianni-ch151-154-ancient-teleport-array-suixingluan"
   ],
-  "updatedAt": "2026-07-06T15:09:57.798Z"
+  "updatedAt": "2026-07-06T15:52:10.925Z"
 }

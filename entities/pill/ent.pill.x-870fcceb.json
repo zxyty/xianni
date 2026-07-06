@@ -5,7 +5,8 @@
   "aliases": [],
   "summary": "传说中的丹药，只需服下一粒便有机会一跃成为婴变期强者；藏于青衫老者所言凶地之中。",
   "attributes": {
-    "功效": "一跃成为婴变期强者"
+    "功效": "一跃成为婴变期强者",
+    "品阶": "极珍贵"
   },
   "observations": {
     "功效": [
@@ -13,6 +14,13 @@
         "value": "一跃成为婴变期强者",
         "docId": "plot.xianni-ch147-150-shendaoshu-deal",
         "seq": 147
+      }
+    ],
+    "品阶": [
+      {
+        "value": "极珍贵",
+        "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
+        "seq": 151
       }
     ]
   },
@@ -23,12 +31,19 @@
       "docId": "plot.xianni-ch147-150-shendaoshu-deal",
       "dated": false,
       "seq": 147
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
+      "dated": false,
+      "seq": 151
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch147-150-shendaoshu-deal"
+    "plot.xianni-ch147-150-shendaoshu-deal",
+    "plot.xianni-ch151-154-ancient-teleport-array-suixingluan"
   ],
-  "updatedAt": "2026-07-06T15:33:53.263Z"
+  "updatedAt": "2026-07-06T15:52:10.959Z"
 }

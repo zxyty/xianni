@@ -3,12 +3,13 @@
   "type": "artifact",
   "name": "巨钟",
   "aliases": [
-    "小钟"
+    "小钟",
+    "古钟"
   ],
   "summary": "藤厉的防御法宝，半透明扣身护体，喷精血可瞬间凝实并现古朴符号；在绿丹波纹下坚持片刻即碎。",
   "attributes": {
-    "持有者": "藤厉",
-    "能力": "扣身防御，喷精血凝实强化",
+    "持有者": "古帝",
+    "能力": "钟响波纹碎石震敌",
     "禁制": "钟体现古朴符号"
   },
   "observations": {
@@ -17,6 +18,11 @@
         "value": "藤厉",
         "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
         "seq": 67
+      },
+      {
+        "value": "古帝",
+        "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
+        "seq": 151
       }
     ],
     "能力": [
@@ -24,6 +30,11 @@
         "value": "扣身防御，喷精血凝实强化",
         "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
         "seq": 67
+      },
+      {
+        "value": "钟响波纹碎石震敌",
+        "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
+        "seq": 151
       }
     ],
     "禁制": [
@@ -38,15 +49,15 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
+      "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
       "dated": false,
-      "seq": 67
+      "seq": 151
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
+      "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
       "dated": false,
-      "seq": 67
+      "seq": 151
     },
     "禁制": {
       "asOf": null,
@@ -58,7 +69,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch67-71-tengli-chase-lanxianteng"
+    "plot.xianni-ch67-71-tengli-chase-lanxianteng",
+    "plot.xianni-ch151-154-ancient-teleport-array-suixingluan"
   ],
-  "updatedAt": "2026-06-22T13:25:25.126Z"
+  "updatedAt": "2026-07-06T15:52:10.970Z"
 }
