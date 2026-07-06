@@ -10,15 +10,16 @@
     "修魔海中部",
     "修魔海中心",
     "修魔海内海",
-    "内海"
+    "内海",
+    "修魔内海"
   ],
   "summary": "邻近火焚国的海域。",
   "attributes": {
-    "类型": "雾海、海域秘境、海域/魔修之地、海域/修魔势力范围、海域/魔修聚集地、海域/凶地",
+    "类型": "雾海、海域秘境、海域/魔修之地、海域/修魔势力范围、海域/魔修聚集地、海域/凶地、海域",
     "方位": "周武大陆与赵国大陆之间、火焚国边境外",
     "危险度": "极高(元婴期亦不敢轻入)、高、高（海威、化海）",
-    "特产": "每年一月雾气复为海水、阴寒灵力、上古海洋植被、内海灵兽",
-    "规模": "城池近千（九百九十八城）"
+    "特产": "每年一月雾气复为海水、阴寒灵力、上古海洋植被、内海灵兽、远古古传送阵",
+    "规模": "约相当于几千个火焚国、城池近千（九百九十八城）、极大，飞行百年难达边缘、极大"
   },
   "observations": {
     "类型": [
@@ -51,6 +52,11 @@
         "value": "海域/凶地",
         "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
         "seq": 142
+      },
+      {
+        "value": "海域",
+        "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
+        "seq": 151
       }
     ],
     "方位": [
@@ -97,6 +103,11 @@
         "value": "内海灵兽",
         "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
         "seq": 142
+      },
+      {
+        "value": "远古古传送阵",
+        "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
+        "seq": 151
       }
     ],
     "规模": [
@@ -109,6 +120,16 @@
         "value": "城池近千（九百九十八城）",
         "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
         "seq": 129
+      },
+      {
+        "value": "极大，飞行百年难达边缘",
+        "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
+        "seq": 151
+      },
+      {
+        "value": "极大",
+        "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
+        "seq": 151
       }
     ]
   },
@@ -140,9 +161,9 @@
     },
     "规模": {
       "asOf": null,
-      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+      "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
       "dated": false,
-      "seq": 129
+      "seq": 123
     }
   },
   "contested": false,
@@ -155,7 +176,8 @@
     "plot.xianni-ch147-151-jiedan-doupai-zhusha",
     "plot.xianni-ch137-141-nandou-shafa-xuelu",
     "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
-    "plot.xianni-ch147-150-shendaoshu-deal"
+    "plot.xianni-ch147-150-shendaoshu-deal",
+    "plot.xianni-ch151-154-ancient-teleport-array-suixingluan"
   ],
-  "updatedAt": "2026-07-06T15:33:53.326Z"
+  "updatedAt": "2026-07-06T15:52:10.954Z"
 }
