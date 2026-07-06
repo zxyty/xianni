@@ -5,10 +5,10 @@
   "aliases": [],
   "summary": "藤化元所持法宝,囚困王林亲人的魂魄;藤化元以毁旗令其亲人魂飞魄散相要挟。",
   "attributes": {
-    "持有者": "藤化元",
-    "能力": "囚困王林亲人魂魄、封印魂魄",
+    "持有者": "王林",
+    "能力": "囚困王林亲人魂魄、封印魂魄、封印上百个灵魂",
     "品阶": "元婴期法宝",
-    "来历": "藤化元用以封王林全族"
+    "来历": "藤化元用以封王林全族、原为桑木崖所有、桑木崖所害斗邪派弟子"
   },
   "observations": {
     "持有者": [
@@ -16,6 +16,11 @@
         "value": "藤化元",
         "docId": "lore.xianni-ch105-jijing-realm",
         "seq": 90
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
+        "seq": 126
       }
     ],
     "能力": [
@@ -29,6 +34,11 @@
         "value": "封印魂魄",
         "docId": "lore.xianni-ch105-jijing-realm",
         "seq": 90
+      },
+      {
+        "value": "封印上百个灵魂",
+        "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
+        "seq": 126
       }
     ],
     "品阶": [
@@ -43,6 +53,16 @@
         "value": "藤化元用以封王林全族",
         "docId": "lore.xianni-ch105-jijing-realm",
         "seq": 90
+      },
+      {
+        "value": "原为桑木崖所有",
+        "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
+        "seq": 126
+      },
+      {
+        "value": "桑木崖所害斗邪派弟子",
+        "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
+        "seq": 126
       }
     ]
   },
@@ -50,9 +70,9 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "lore.xianni-ch105-jijing-realm",
+      "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
       "dated": false,
-      "seq": 90
+      "seq": 126
     },
     "能力": {
       "asOf": null,
@@ -77,7 +97,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.xianni-ch105-jijing-realm"
+    "lore.xianni-ch105-jijing-realm",
+    "plot.xianni-ch126-128-modohai-doupai-sangmuya"
   ],
-  "updatedAt": "2026-07-05T03:14:59.649Z"
+  "updatedAt": "2026-07-06T12:39:32.624Z"
 }

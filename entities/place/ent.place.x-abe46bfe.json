@@ -5,11 +5,14 @@
   "aliases": [
     "雾海",
     "Xiumohai",
-    "修魔海雾海"
+    "修魔海雾海",
+    "修魔海外围",
+    "修魔海中部",
+    "修魔海中心"
   ],
   "summary": "邻近火焚国的海域。",
   "attributes": {
-    "类型": "雾海、海域秘境",
+    "类型": "雾海、海域秘境、海域/魔修之地",
     "方位": "周武大陆与赵国大陆之间、火焚国边境外",
     "危险度": "极高(元婴期亦不敢轻入)、高",
     "特产": "每年一月雾气复为海水、阴寒灵力、上古海洋植被",
@@ -26,6 +29,11 @@
         "value": "海域秘境",
         "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
         "seq": 123
+      },
+      {
+        "value": "海域/魔修之地",
+        "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
+        "seq": 126
       }
     ],
     "方位": [
@@ -109,7 +117,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
-    "plot.xianni-ch123-125-tianli-dan-huofen-invasion"
+    "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+    "plot.xianni-ch126-128-modohai-doupai-sangmuya"
   ],
-  "updatedAt": "2026-07-06T12:31:07.468Z"
+  "updatedAt": "2026-07-06T12:39:32.617Z"
 }

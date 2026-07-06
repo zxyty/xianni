@@ -26,3 +26,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-07-05T04:54:28.863Z** `ingest` plot.xianni-ch130-yuanying-huran-return-hunxue — 仙逆 第130章 元婴忽来——王林（化名马良）归还周紫虹魂血、结识孙有财 · kind=plot asOf=2026-07-05 entities=29 relations=32 src=00115-00118.md
 - **2026-07-05T05:13:41.095Z** `ingest` plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian — 第134章 收服魔头·建库洞府·参阅三玉简（王林入魔道之念） · kind=plot asOf=2026-07-05 entities=52 relations=77 src=00119-00122.md
 - **2026-07-06T12:31:07.484Z** `ingest` plot.xianni-ch123-125-tianli-dan-huofen-invasion — 仙逆 第123-125章：天离丹与火焚国入侵宣武国之战 · kind=plot asOf=2026-07-06 entities=45 relations=68 src=00123-00125.md
+- **2026-07-06T12:39:32.640Z** `ingest` plot.xianni-ch126-128-modohai-doupai-sangmuya — 仙逆 第126-128章：修魔海斗邪派，死咒术显威、收桑木崖魂旗 · kind=plot asOf=2026-07-06 entities=38 relations=37 src=00126-00128.md
