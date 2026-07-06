@@ -2,11 +2,19 @@
   "id": "ent.place.x-f96ad94e",
   "type": "place",
   "name": "南斗城",
-  "aliases": [],
+  "aliases": [
+    "南斗",
+    "Nandou",
+    "南斗城主"
+  ],
   "summary": "距王林洞府四十余万里，设有炼器宗分部店铺。",
   "attributes": {
     "所属界面": "修魔海",
-    "方位": "洞府外四十余万里"
+    "方位": "洞府外四十余万里、极南、修魔海偏僻外围边缘",
+    "类型": "城池、修魔城池",
+    "规模": "距尸谷约三十万里、极大，一眼望不到边际",
+    "危险度": "无元婴期镇守、结丹期众多",
+    "守护": "全城禁制包裹（阻土遁）"
   },
   "observations": {
     "所属界面": [
@@ -21,6 +29,54 @@
         "value": "洞府外四十余万里",
         "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
         "seq": 126
+      },
+      {
+        "value": "极南",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
+      },
+      {
+        "value": "修魔海偏僻外围边缘",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
+      }
+    ],
+    "类型": [
+      {
+        "value": "城池",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
+      },
+      {
+        "value": "修魔城池",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
+      }
+    ],
+    "规模": [
+      {
+        "value": "距尸谷约三十万里",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
+      },
+      {
+        "value": "极大，一眼望不到边际",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
+      }
+    ],
+    "危险度": [
+      {
+        "value": "无元婴期镇守、结丹期众多",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
+      }
+    ],
+    "守护": [
+      {
+        "value": "全城禁制包裹（阻土遁）",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
       }
     ]
   },
@@ -37,12 +93,37 @@
       "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
       "dated": false,
       "seq": 126
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+      "dated": false,
+      "seq": 129
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+      "dated": false,
+      "seq": 129
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+      "dated": false,
+      "seq": 129
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+      "dated": false,
+      "seq": 129
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch126-128-modohai-doupai-sangmuya"
+    "plot.xianni-ch126-128-modohai-doupai-sangmuya",
+    "plot.xianni-ch129-131-jiedan-sandan-heyi"
   ],
-  "updatedAt": "2026-07-06T12:39:32.617Z"
+  "updatedAt": "2026-07-06T12:52:53.708Z"
 }

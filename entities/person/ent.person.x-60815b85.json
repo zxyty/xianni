@@ -7,14 +7,15 @@
     "洛河门女修",
     "李慕婉师妹",
     "慕婉",
-    "李师妹"
+    "李师妹",
+    "李姑娘"
   ],
   "summary": "洛河门炼丹宗修士，孙有财欲夺其丹药/丹方的目标。",
   "attributes": {
-    "阵营": "洛河门炼丹宗、火焚国、洛河门",
+    "阵营": "洛河门炼丹宗、火焚国、洛河门、受制于王林",
     "性别": "女",
-    "身份": "洛河门女修、炼丹师、王林同伴/炼丹布阵者",
-    "外貌": "美艳，细润如脂",
+    "身份": "洛河门女修、炼丹师、王林同伴/炼丹布阵者、炼丹修士、旧识",
+    "外貌": "紫衣秀发、颜色如朝霞映雪",
     "性格": "冰雪聪明",
     "小阶段": "筑基中期",
     "出身地": "洛河门"
@@ -35,6 +36,12 @@
         "value": "洛河门",
         "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
         "seq": 123
+      },
+      {
+        "value": "受制于王林",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129,
+        "note": "魂血被掌控"
       }
     ],
     "性别": [
@@ -59,6 +66,17 @@
         "value": "王林同伴/炼丹布阵者",
         "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
         "seq": 126
+      },
+      {
+        "value": "炼丹修士",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
+      },
+      {
+        "value": "旧识",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129,
+        "note": "本片段仅回忆提及"
       }
     ],
     "外貌": [
@@ -71,6 +89,11 @@
         "value": "美艳，细润如脂",
         "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
         "seq": 126
+      },
+      {
+        "value": "紫衣秀发、颜色如朝霞映雪",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
       }
     ],
     "性格": [
@@ -117,9 +140,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
+      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
       "dated": false,
-      "seq": 126
+      "seq": 129
     },
     "性格": {
       "asOf": null,
@@ -145,7 +168,8 @@
   "docs": [
     "plot.xianni-ch130-yuanying-huran-return-hunxue",
     "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
-    "plot.xianni-ch126-128-modohai-doupai-sangmuya"
+    "plot.xianni-ch126-128-modohai-doupai-sangmuya",
+    "plot.xianni-ch129-131-jiedan-sandan-heyi"
   ],
-  "updatedAt": "2026-07-06T12:39:32.613Z"
+  "updatedAt": "2026-07-06T12:52:53.710Z"
 }

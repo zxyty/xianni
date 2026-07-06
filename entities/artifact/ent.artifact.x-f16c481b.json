@@ -3,14 +3,18 @@
   "type": "artifact",
   "name": "反应炉",
   "aliases": [
-    "炼器反应炉"
+    "炼器反应炉",
+    "九品反应炉",
+    "碗状反应炉"
   ],
   "summary": "战神殿炼器核心器具，用灵力灵幕贴合灵兽头骨炉体制成，激发材料本源属性。",
   "attributes": {
-    "能力": "激发炼器材料本源属性",
-    "外形": "以灵兽头骨为炉体",
-    "来历": "战神殿炼器术",
-    "禁制": "炉体须用刚死灵兽/荒兽头骨，非灵兽成功率近乎为零"
+    "能力": "作炼器载体操控内部材料改变",
+    "外形": "以灵兽头骨为炉体、灵兽头骨炉胚、碗状",
+    "来历": "以尸谷骨海中一具罕见荒兽头骨炼成",
+    "禁制": "炉胚需承受灵丝熔炼",
+    "品阶": "九品",
+    "持有者": "王林"
   },
   "observations": {
     "能力": [
@@ -18,6 +22,11 @@
         "value": "激发炼器材料本源属性",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
+      },
+      {
+        "value": "作炼器载体操控内部材料改变",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
       }
     ],
     "外形": [
@@ -25,6 +34,16 @@
         "value": "以灵兽头骨为炉体",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
+      },
+      {
+        "value": "灵兽头骨炉胚",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
+      },
+      {
+        "value": "碗状",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
       }
     ],
     "来历": [
@@ -32,6 +51,11 @@
         "value": "战神殿炼器术",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
+      },
+      {
+        "value": "以尸谷骨海中一具罕见荒兽头骨炼成",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
       }
     ],
     "禁制": [
@@ -39,6 +63,26 @@
         "value": "炉体须用刚死灵兽/荒兽头骨，非灵兽成功率近乎为零",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
+      },
+      {
+        "value": "炉胚需承受灵丝熔炼",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
+      }
+    ],
+    "品阶": [
+      {
+        "value": "九品",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
+      }
+    ],
+    "持有者": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129,
+        "note": "化名马良"
       }
     ]
   },
@@ -46,9 +90,9 @@
   "attrProvenance": {
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
       "dated": false,
-      "seq": 119
+      "seq": 129
     },
     "外形": {
       "asOf": null,
@@ -58,21 +102,35 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
       "dated": false,
-      "seq": 119
+      "seq": 129
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
       "dated": false,
-      "seq": 119
+      "seq": 129
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+      "dated": false,
+      "seq": 129
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+      "dated": false,
+      "seq": 129,
+      "note": "化名马良"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian"
+    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+    "plot.xianni-ch129-131-jiedan-sandan-heyi"
   ],
-  "updatedAt": "2026-07-05T05:13:41.053Z"
+  "updatedAt": "2026-07-06T12:52:53.690Z"
 }

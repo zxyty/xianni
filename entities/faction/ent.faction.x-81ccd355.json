@@ -5,8 +5,9 @@
   "aliases": [],
   "summary": "修魔海内售卖器具(如熔炉)的宗门，分部众多、店铺遍布，最近者在南斗城。",
   "attributes": {
-    "据点": "南斗城等分部",
-    "所属界面": "修魔海"
+    "据点": "南斗城炼器阁",
+    "所属界面": "修魔海",
+    "理念": "炼器售宝"
   },
   "observations": {
     "据点": [
@@ -14,6 +15,11 @@
         "value": "南斗城等分部",
         "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
         "seq": 126
+      },
+      {
+        "value": "南斗城炼器阁",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
       }
     ],
     "所属界面": [
@@ -22,27 +28,41 @@
         "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
         "seq": 126
       }
+    ],
+    "理念": [
+      {
+        "value": "炼器售宝",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
+      }
     ]
   },
   "firstSeq": 126,
   "attrProvenance": {
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
+      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
       "dated": false,
-      "seq": 126
+      "seq": 129
     },
     "所属界面": {
       "asOf": null,
       "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
       "dated": false,
       "seq": 126
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+      "dated": false,
+      "seq": 129
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch126-128-modohai-doupai-sangmuya"
+    "plot.xianni-ch126-128-modohai-doupai-sangmuya",
+    "plot.xianni-ch129-131-jiedan-sandan-heyi"
   ],
-  "updatedAt": "2026-07-06T12:39:32.624Z"
+  "updatedAt": "2026-07-06T12:52:53.711Z"
 }

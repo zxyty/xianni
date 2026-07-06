@@ -4,13 +4,15 @@
   "name": "战神殿炼器术",
   "aliases": [
     "战神殿器法",
-    "调融合炼器术"
+    "调融合炼器术",
+    "War God Hall refining art"
   ],
   "summary": "战神殿独有炼器体系，讲究调、融、合三过程，核心器具为反应炉。",
   "attributes": {
-    "出处": "战神殿玉简",
-    "效果": "激发炼器材料本源属性以炼制法宝",
-    "修炼条件": "需以灵兽头骨制作反应炉"
+    "出处": "战神殿",
+    "效果": "以反应炉为载体操控材料炼制法器",
+    "修炼条件": "需以灵兽头骨制作反应炉",
+    "外显异象": "调融合三步、反应炉炼成时颜色变换定品"
   },
   "observations": {
     "出处": [
@@ -18,6 +20,11 @@
         "value": "战神殿玉简",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
+      },
+      {
+        "value": "战神殿",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
       }
     ],
     "效果": [
@@ -25,6 +32,11 @@
         "value": "激发炼器材料本源属性以炼制法宝",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
+      },
+      {
+        "value": "以反应炉为载体操控材料炼制法器",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
       }
     ],
     "修炼条件": [
@@ -33,33 +45,47 @@
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
       }
+    ],
+    "外显异象": [
+      {
+        "value": "调融合三步、反应炉炼成时颜色变换定品",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
+      }
     ]
   },
   "firstSeq": 119,
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
       "dated": false,
-      "seq": 119
+      "seq": 129
     },
     "效果": {
       "asOf": null,
-      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
       "dated": false,
-      "seq": 119
+      "seq": 129
     },
     "修炼条件": {
       "asOf": null,
       "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
       "dated": false,
       "seq": 119
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+      "dated": false,
+      "seq": 129
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian"
+    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+    "plot.xianni-ch129-131-jiedan-sandan-heyi"
   ],
-  "updatedAt": "2026-07-05T05:13:41.052Z"
+  "updatedAt": "2026-07-06T12:52:53.689Z"
 }

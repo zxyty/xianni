@@ -3,15 +3,16 @@
   "type": "pill",
   "name": "天离丹",
   "aliases": [
-    "夭离丹"
+    "夭离丹",
+    "天离"
   ],
   "summary": "火焚国珍品灵丹，全国不超过三十粒，主药已断绝；可增加结丹几率，结丹期服下提升境界时可直接迈入稳定期。",
   "attributes": {
     "品阶": "火焚国珍品灵丹",
-    "功效": "增加结丹几率、结丹期服下提升境界可直接迈入稳定期、军功奖励(具体未明)、冲刺结丹",
-    "适用境界": "筑基冲结丹",
-    "炼制者": "李慕婉",
-    "副作用": "普通丹炉成品率仅约一半",
+    "功效": "增加结丹几率、结丹期服下提升境界可直接迈入稳定期、军功奖励(具体未明)、冲刺结丹、增加结丹成功率",
+    "适用境界": "结丹期、筑基冲结丹、冲击结丹、结丹相关",
+    "炼制者": "王林",
+    "副作用": "低品阶丹炉易出大变故",
     "主料": "魔血藤"
   },
   "observations": {
@@ -42,6 +43,11 @@
         "value": "冲刺结丹",
         "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
         "seq": 126
+      },
+      {
+        "value": "增加结丹成功率",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
       }
     ],
     "适用境界": [
@@ -54,6 +60,16 @@
         "value": "筑基冲结丹",
         "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
         "seq": 126
+      },
+      {
+        "value": "冲击结丹",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
+      },
+      {
+        "value": "结丹相关",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
       }
     ],
     "炼制者": [
@@ -66,6 +82,12 @@
         "value": "李慕婉",
         "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
         "seq": 126
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129,
+        "note": "本章仅为前往炼制之意图"
       }
     ],
     "副作用": [
@@ -78,6 +100,12 @@
         "value": "普通丹炉成品率仅约一半",
         "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
         "seq": 126
+      },
+      {
+        "value": "低品阶丹炉易出大变故",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129,
+        "note": "须四品以上丹炉"
       }
     ],
     "主料": [
@@ -104,21 +132,23 @@
     },
     "适用境界": {
       "asOf": null,
-      "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
+      "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
       "dated": false,
-      "seq": 126
+      "seq": 123
     },
     "炼制者": {
       "asOf": null,
-      "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
+      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
       "dated": false,
-      "seq": 126
+      "seq": 129,
+      "note": "本章仅为前往炼制之意图"
     },
     "副作用": {
       "asOf": null,
-      "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
+      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
       "dated": false,
-      "seq": 126
+      "seq": 129,
+      "note": "须四品以上丹炉"
     },
     "主料": {
       "asOf": null,
@@ -131,7 +161,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
-    "plot.xianni-ch126-128-modohai-doupai-sangmuya"
+    "plot.xianni-ch126-128-modohai-doupai-sangmuya",
+    "plot.xianni-ch129-131-jiedan-sandan-heyi"
   ],
-  "updatedAt": "2026-07-06T12:39:32.620Z"
+  "updatedAt": "2026-07-06T12:52:53.716Z"
 }
