@@ -7,8 +7,10 @@
   ],
   "summary": "三级修真国，与火焚国接壤，势力复杂门派众多，为火焚国修士迁移目的地。",
   "attributes": {
-    "类型": "三级修真国、修真国度",
-    "方位": "火焚国边界相邻、火焚国边境相邻"
+    "类型": "三级修真国、修真国度、国度",
+    "方位": "火焚国边界相邻、火焚国边境相邻",
+    "所属界面": "朱雀星",
+    "所属势力": "四级修真国（背后）"
   },
   "observations": {
     "类型": [
@@ -21,6 +23,11 @@
         "value": "修真国度",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
+      },
+      {
+        "value": "国度",
+        "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
+        "seq": 142
       }
     ],
     "方位": [
@@ -33,6 +40,20 @@
         "value": "火焚国边境相邻",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
+        "seq": 142
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "四级修真国（背后）",
+        "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
+        "seq": 142
       }
     ]
   },
@@ -49,6 +70,18 @@
       "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
       "dated": false,
       "seq": 119
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
+      "dated": false,
+      "seq": 142
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
+      "dated": false,
+      "seq": 142
     }
   },
   "contested": false,
@@ -57,7 +90,8 @@
     "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
     "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
     "plot.xianni-ch126-128-modohai-doupai-sangmuya",
-    "plot.xianni-ch129-131-jiedan-sandan-heyi"
+    "plot.xianni-ch129-131-jiedan-sandan-heyi",
+    "plot.xianni-142-146-qimei-rongyan-wuqi-huahai"
   ],
-  "updatedAt": "2026-07-06T12:52:53.682Z"
+  "updatedAt": "2026-07-06T15:09:57.861Z"
 }

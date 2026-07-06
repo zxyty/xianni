@@ -5,9 +5,10 @@
   "aliases": [],
   "summary": "玄道宗弟子，约二十四五岁，白净眉清目秀；胸口贴元婴期始祖所制封印纸符。",
   "attributes": {
-    "身份": "玄道宗弟子",
+    "身份": "玄道宗弟子、目击王林的修士、告密修士",
     "外貌": "约二十四五岁，白净眉清目秀",
-    "阵营": "玄道宗、恒岳派"
+    "阵营": "玄道宗、恒岳派",
+    "小阶段": "结丹初期"
   },
   "observations": {
     "身份": [
@@ -15,6 +16,16 @@
         "value": "玄道宗弟子",
         "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
         "seq": 49
+      },
+      {
+        "value": "目击王林的修士",
+        "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
+        "seq": 142
+      },
+      {
+        "value": "告密修士",
+        "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
+        "seq": 142
       }
     ],
     "外貌": [
@@ -34,6 +45,13 @@
         "value": "恒岳派",
         "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
         "seq": 49
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "结丹初期",
+        "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
+        "seq": 142
       }
     ]
   },
@@ -56,12 +74,19 @@
       "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
       "dated": false,
       "seq": 49
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
+      "dated": false,
+      "seq": 142
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi"
+    "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+    "plot.xianni-142-146-qimei-rongyan-wuqi-huahai"
   ],
-  "updatedAt": "2026-06-22T12:48:22.478Z"
+  "updatedAt": "2026-07-06T15:09:57.795Z"
 }
