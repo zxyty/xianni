@@ -7,8 +7,8 @@
   ],
   "summary": "炼制天离丹的最重要主味药木，形似不起眼红色木条，极稀有。",
   "attributes": {
-    "类型": "药木",
-    "用途": "炼制天离丹主料、制次品天离丹",
+    "类型": "灵藤",
+    "用途": "炼制天离丹主料、制次品天离丹、炼制天离丹",
     "稀有度": "极稀有"
   },
   "observations": {
@@ -17,6 +17,11 @@
         "value": "药木",
         "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
         "seq": 126
+      },
+      {
+        "value": "灵藤",
+        "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
+        "seq": 132
       }
     ],
     "用途": [
@@ -29,6 +34,11 @@
         "value": "制次品天离丹",
         "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
         "seq": 126
+      },
+      {
+        "value": "炼制天离丹",
+        "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
+        "seq": 132
       }
     ],
     "稀有度": [
@@ -43,9 +53,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
+      "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
       "dated": false,
-      "seq": 126
+      "seq": 132
     },
     "用途": {
       "asOf": null,
@@ -63,7 +73,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch126-128-modohai-doupai-sangmuya"
+    "plot.xianni-ch126-128-modohai-doupai-sangmuya",
+    "plot.xianni-ch147-151-jiedan-doupai-zhusha"
   ],
-  "updatedAt": "2026-07-06T12:39:32.626Z"
+  "updatedAt": "2026-07-06T12:55:39.914Z"
 }

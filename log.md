@@ -28,3 +28,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-07-06T12:31:07.484Z** `ingest` plot.xianni-ch123-125-tianli-dan-huofen-invasion — 仙逆 第123-125章：天离丹与火焚国入侵宣武国之战 · kind=plot asOf=2026-07-06 entities=45 relations=68 src=00123-00125.md
 - **2026-07-06T12:39:32.640Z** `ingest` plot.xianni-ch126-128-modohai-doupai-sangmuya — 仙逆 第126-128章：修魔海斗邪派，死咒术显威、收桑木崖魂旗 · kind=plot asOf=2026-07-06 entities=38 relations=37 src=00126-00128.md
 - **2026-07-06T12:52:53.731Z** `ingest` plot.xianni-ch129-131-jiedan-sandan-heyi — 仙逆 第129-131章 结丹：三丹合一与反应炉 · kind=plot asOf=2026-07-06 entities=50 relations=51 src=00129-00131.md
+- **2026-07-06T12:55:39.931Z** `ingest` plot.xianni-ch147-151-jiedan-doupai-zhusha — 仙逆 第147-151章 结丹成功·斩杀斗邪派·万魔百日诛杀令 · kind=plot asOf=2026-07-06 entities=30 relations=35 src=00132-00136.md
