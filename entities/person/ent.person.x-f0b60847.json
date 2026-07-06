@@ -3,15 +3,18 @@
   "type": "person",
   "name": "上官墨",
   "aliases": [
-    "黑衣魔君"
+    "黑衣魔君",
+    "上官老魔"
   ],
   "summary": "散修魔君，结丹中期巅峰，与斗邪派掌教修为相当，黑衣圆脸中年胖子；玉符碎裂抵挡死咒术后跪地求饶，愿拜王林为师并献魂血。",
   "attributes": {
-    "小阶段": "结丹中期巅峰",
-    "称号": "黑衣魔君",
+    "小阶段": "结丹期",
+    "称号": "上官老魔",
     "阵营": "散修",
     "外貌": "黑发黑衣圆脸腹凸的中年胖子",
-    "结局": "跪地求饶、献魂血、愿拜王林为师"
+    "结局": "跪地求饶、献魂血、愿拜王林为师",
+    "身份": "王林弟子、斗邪派掌教",
+    "存殁": "存活、生"
   },
   "observations": {
     "小阶段": [
@@ -19,6 +22,11 @@
         "value": "结丹中期巅峰",
         "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
         "seq": 132
+      },
+      {
+        "value": "结丹期",
+        "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+        "seq": 137
       }
     ],
     "称号": [
@@ -26,6 +34,11 @@
         "value": "黑衣魔君",
         "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
         "seq": 132
+      },
+      {
+        "value": "上官老魔",
+        "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+        "seq": 137
       }
     ],
     "阵营": [
@@ -48,21 +61,47 @@
         "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
         "seq": 132
       }
+    ],
+    "身份": [
+      {
+        "value": "王林弟子",
+        "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+        "seq": 137,
+        "note": "拜师保命，实为献台阶之举，第152章"
+      },
+      {
+        "value": "斗邪派掌教",
+        "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+        "seq": 137,
+        "note": "由王林指派"
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+        "seq": 137
+      },
+      {
+        "value": "生",
+        "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+        "seq": 137
+      }
     ]
   },
   "firstSeq": 132,
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
+      "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
       "dated": false,
-      "seq": 132
+      "seq": 137
     },
     "称号": {
       "asOf": null,
-      "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
+      "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
       "dated": false,
-      "seq": 132
+      "seq": 137
     },
     "阵营": {
       "asOf": null,
@@ -81,12 +120,26 @@
       "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
       "dated": false,
       "seq": 132
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+      "dated": false,
+      "seq": 137,
+      "note": "拜师保命，实为献台阶之举，第152章"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+      "dated": false,
+      "seq": 137
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch147-151-jiedan-doupai-zhusha"
+    "plot.xianni-ch147-151-jiedan-doupai-zhusha",
+    "plot.xianni-ch137-141-nandou-shafa-xuelu"
   ],
-  "updatedAt": "2026-07-06T12:55:39.904Z"
+  "updatedAt": "2026-07-06T13:16:53.168Z"
 }

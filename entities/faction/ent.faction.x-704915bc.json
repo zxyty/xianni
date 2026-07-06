@@ -8,9 +8,10 @@
   "summary": "修魔海外围众多小门派之一，掌门刘森结丹中期巅峰。",
   "attributes": {
     "所属界面": "修魔海外围、修魔海",
-    "掌门": "刘森",
-    "阵营": "魔道",
-    "据点": "南斗城周边、南斗城、五丁峰"
+    "掌门": "上官墨",
+    "阵营": "修魔海",
+    "据点": "南斗城周边、南斗城、五丁峰、南斗城一带",
+    "镇派之宝": "斗龙大阵"
   },
   "observations": {
     "所属界面": [
@@ -30,6 +31,12 @@
         "value": "刘森",
         "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
         "seq": 126
+      },
+      {
+        "value": "上官墨",
+        "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+        "seq": 137,
+        "note": "解东来死后由王林指派，原掌教解东来"
       }
     ],
     "阵营": [
@@ -42,6 +49,11 @@
         "value": "魔道",
         "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
         "seq": 132
+      },
+      {
+        "value": "修魔海",
+        "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+        "seq": 137
       }
     ],
     "据点": [
@@ -59,6 +71,18 @@
         "value": "五丁峰",
         "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
         "seq": 132
+      },
+      {
+        "value": "南斗城一带",
+        "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+        "seq": 137
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "斗龙大阵",
+        "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+        "seq": 137
       }
     ]
   },
@@ -72,21 +96,28 @@
     },
     "掌门": {
       "asOf": null,
-      "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
+      "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
       "dated": false,
-      "seq": 126
+      "seq": 137,
+      "note": "解东来死后由王林指派，原掌教解东来"
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
+      "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
       "dated": false,
-      "seq": 132
+      "seq": 137
     },
     "据点": {
       "asOf": null,
       "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
       "dated": false,
       "seq": 129
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+      "dated": false,
+      "seq": 137
     }
   },
   "contested": false,
@@ -94,7 +125,8 @@
   "docs": [
     "plot.xianni-ch126-128-modohai-doupai-sangmuya",
     "plot.xianni-ch129-131-jiedan-sandan-heyi",
-    "plot.xianni-ch147-151-jiedan-doupai-zhusha"
+    "plot.xianni-ch147-151-jiedan-doupai-zhusha",
+    "plot.xianni-ch137-141-nandou-shafa-xuelu"
   ],
-  "updatedAt": "2026-07-06T12:55:39.906Z"
+  "updatedAt": "2026-07-06T13:16:53.158Z"
 }

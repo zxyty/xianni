@@ -15,11 +15,12 @@
   "summary": "吞魂带出的烟状神秘物种，见人就扑吞噬使人魂飞魄散成干尸，喜藏身干尸内，惧怕王林。",
   "attributes": {
     "能力": "吞噬修士、使人成干尸、吞噬灵魂使人化干尸、无视修为的吞噬、戾气魔头、吞噬、吞噬活人以恢复修为、吞噬修士神识、吞噬魂魄、反噬（被神识压制）",
-    "外形": "烟状、暗红色光芒、红色虚影、烟状虚影、烟状、双角",
+    "外形": "烟状、暗红色光芒、红色虚影、烟状虚影、烟状、双角、烟雾状",
     "天敌": "吞魂/王林",
     "栖息地": "金黄色蛟龙筋器物",
     "种族": "游魂",
-    "主人": "王林(暗中控制)"
+    "主人": "王林(暗中控制)",
+    "等级": "结丹（刚结丹）"
   },
   "observations": {
     "能力": [
@@ -89,6 +90,11 @@
         "value": "烟状、双角",
         "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
         "seq": 129
+      },
+      {
+        "value": "烟雾状",
+        "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+        "seq": 137
       }
     ],
     "天敌": [
@@ -144,6 +150,13 @@
         "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
         "seq": 126
       }
+    ],
+    "等级": [
+      {
+        "value": "结丹（刚结丹）",
+        "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+        "seq": 137
+      }
     ]
   },
   "firstSeq": 106,
@@ -184,6 +197,12 @@
       "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
       "dated": false,
       "seq": 126
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+      "dated": false,
+      "seq": 137
     }
   },
   "contested": false,
@@ -195,7 +214,8 @@
     "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
     "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
     "plot.xianni-ch126-128-modohai-doupai-sangmuya",
-    "plot.xianni-ch129-131-jiedan-sandan-heyi"
+    "plot.xianni-ch129-131-jiedan-sandan-heyi",
+    "plot.xianni-ch137-141-nandou-shafa-xuelu"
   ],
-  "updatedAt": "2026-07-06T12:52:53.691Z"
+  "updatedAt": "2026-07-06T13:16:53.171Z"
 }
