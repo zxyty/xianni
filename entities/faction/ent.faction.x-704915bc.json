@@ -8,7 +8,9 @@
   "summary": "修魔海外围众多小门派之一，掌门刘森结丹中期巅峰。",
   "attributes": {
     "所属界面": "修魔海外围、修魔海",
-    "掌门": "刘森"
+    "掌门": "刘森",
+    "阵营": "修魔海门派",
+    "据点": "南斗城周边"
   },
   "observations": {
     "所属界面": [
@@ -29,6 +31,20 @@
         "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
         "seq": 126
       }
+    ],
+    "阵营": [
+      {
+        "value": "修魔海门派",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
+      }
+    ],
+    "据点": [
+      {
+        "value": "南斗城周边",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
+      }
     ]
   },
   "firstSeq": 126,
@@ -44,12 +60,25 @@
       "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
       "dated": false,
       "seq": 126
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+      "dated": false,
+      "seq": 129
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+      "dated": false,
+      "seq": 129
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch126-128-modohai-doupai-sangmuya"
+    "plot.xianni-ch126-128-modohai-doupai-sangmuya",
+    "plot.xianni-ch129-131-jiedan-sandan-heyi"
   ],
-  "updatedAt": "2026-07-06T12:39:32.625Z"
+  "updatedAt": "2026-07-06T12:52:53.712Z"
 }

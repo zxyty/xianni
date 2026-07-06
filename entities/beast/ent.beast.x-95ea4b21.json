@@ -9,8 +9,10 @@
   "summary": "体长逾千丈、实力媲美元婴后期的巨蛟，重伤坠入尸谷十四谷力竭而亡，被王林扛出。",
   "attributes": {
     "种族": "蛟",
-    "等级": "媲美元婴后期",
-    "外形": "体长逾千丈"
+    "等级": "媲美元婴后期、中品灵兽、中品灵兽（≈元婴期大圆满）",
+    "外形": "体长逾千丈、巨大紫色晶体头骨、体长千丈以上",
+    "能力": "生身毒、死身宝",
+    "栖息地": "修魔海内部"
   },
   "observations": {
     "种族": [
@@ -25,6 +27,16 @@
         "value": "媲美元婴后期",
         "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
         "seq": 126
+      },
+      {
+        "value": "中品灵兽",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
+      },
+      {
+        "value": "中品灵兽（≈元婴期大圆满）",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
       }
     ],
     "外形": [
@@ -32,6 +44,30 @@
         "value": "体长逾千丈",
         "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
         "seq": 126
+      },
+      {
+        "value": "巨大紫色晶体头骨",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
+      },
+      {
+        "value": "体长千丈以上",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
+      }
+    ],
+    "能力": [
+      {
+        "value": "生身毒、死身宝",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
+      }
+    ],
+    "栖息地": [
+      {
+        "value": "修魔海内部",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
       }
     ]
   },
@@ -54,12 +90,25 @@
       "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
       "dated": false,
       "seq": 126
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+      "dated": false,
+      "seq": 129
+    },
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+      "dated": false,
+      "seq": 129
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch126-128-modohai-doupai-sangmuya"
+    "plot.xianni-ch126-128-modohai-doupai-sangmuya",
+    "plot.xianni-ch129-131-jiedan-sandan-heyi"
   ],
-  "updatedAt": "2026-07-06T12:39:32.618Z"
+  "updatedAt": "2026-07-06T12:52:53.718Z"
 }

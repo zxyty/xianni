@@ -9,17 +9,18 @@
     "绿色飞剑",
     "血炼飞剑",
     "铁片",
-    "红光铁片"
+    "红光铁片",
+    "水晶飞剑"
   ],
   "summary": "白展所用变色飞剑，随入鞘深度由绿变蓝变黑带金、增威，有飞剑虚影与瞬移之能，战后归王林。",
   "attributes": {
     "持有者": "王林",
-    "能力": "变色增威、飞剑虚影、瞬移、化绿光偷袭、寒芒伤敌、无声偷袭、瞬息突袭、穿透内甲、御剑飞行、穿刺挖洞、瞬移追击、穿透紫气护体、瞬移刺杀、霸道寒气结晶万物、瞬移闪现、破空杀敌、穿体致敌化为冰晶、冻杀，一闪一杀、遁光变向穿刺、散黑色光刺隔绝灰雾、血炼飞剑、收纳魔头、高速飞击、封存/放出魔头、神出鬼没偷袭",
-    "来历": "血炼法宝",
+    "能力": "变色增威、飞剑虚影、瞬移、化绿光偷袭、寒芒伤敌、无声偷袭、瞬息突袭、穿透内甲、御剑飞行、穿刺挖洞、瞬移追击、穿透紫气护体、瞬移刺杀、霸道寒气结晶万物、瞬移闪现、破空杀敌、穿体致敌化为冰晶、冻杀，一闪一杀、遁光变向穿刺、散黑色光刺隔绝灰雾、血炼飞剑、收纳魔头、高速飞击、封存/放出魔头、神出鬼没偷袭、封印魔头",
+    "来历": "历斩张虎师父、饮藤厉之血、大战决明谷；肉身破灭时剑胚碎、血炼剑灵存于神识",
     "禁制": "内封魔头",
-    "外形": "绿色小剑、绿色小剑、寒芒、一道绿色小剑、绿色小剑/绿光、绿色小剑，剑身冰凉刺骨、绿色三寸小剑，剑身带裂痕、铁片、红光铁片",
+    "外形": "绿色小剑、绿色小剑、寒芒、一道绿色小剑、绿色小剑/绿光、绿色小剑，剑身冰凉刺骨、绿色三寸小剑，剑身带裂痕、铁片、红光铁片、晶莹剔透水晶飞剑",
     "五行属性": "木（绿）、木（绿光）、极·寒、极（冰）",
-    "器灵": "若有灵性"
+    "器灵": "游魂（魔头/剑灵）"
   },
   "observations": {
     "持有者": [
@@ -134,6 +135,11 @@
         "value": "神出鬼没偷袭",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
+      },
+      {
+        "value": "封印魔头",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
       }
     ],
     "来历": [
@@ -162,6 +168,11 @@
         "value": "血炼法宝",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
+      },
+      {
+        "value": "历斩张虎师父、饮藤厉之血、大战决明谷；肉身破灭时剑胚碎、血炼剑灵存于神识",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
       }
     ],
     "禁制": [
@@ -222,6 +233,12 @@
         "value": "红光铁片",
         "docId": "plot.xianni-ch130-yuanying-huran-return-hunxue",
         "seq": 115
+      },
+      {
+        "value": "晶莹剔透水晶飞剑",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129,
+        "note": "本章熔35把飞剑作器胚重铸后"
       }
     ],
     "五行属性": [
@@ -251,6 +268,11 @@
         "value": "若有灵性",
         "docId": "lore.xianni-ch105-jijing-realm",
         "seq": 90
+      },
+      {
+        "value": "游魂（魔头/剑灵）",
+        "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+        "seq": 129
       }
     ]
   },
@@ -270,9 +292,9 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
       "dated": false,
-      "seq": 111
+      "seq": 129
     },
     "禁制": {
       "asOf": null,
@@ -294,9 +316,9 @@
     },
     "器灵": {
       "asOf": null,
-      "docId": "lore.xianni-ch105-jijing-realm",
+      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
       "dated": false,
-      "seq": 90
+      "seq": 129
     }
   },
   "contested": false,
@@ -312,7 +334,8 @@
     "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
     "plot.xianni-ch130-yuanying-huran-return-hunxue",
     "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
-    "plot.xianni-ch123-125-tianli-dan-huofen-invasion"
+    "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+    "plot.xianni-ch129-131-jiedan-sandan-heyi"
   ],
-  "updatedAt": "2026-07-06T12:31:07.436Z"
+  "updatedAt": "2026-07-06T12:52:53.690Z"
 }
