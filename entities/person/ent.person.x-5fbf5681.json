@@ -12,9 +12,11 @@
   "summary": "绿袍矮小驼背、满脸脓包擅用毒的魔君，坐骑碧绿巨蟾；曾被四级修真国巨魔族十大战魔追杀三百年反将其尽数毒死。",
   "attributes": {
     "外貌": "绿袍矮小、后背高鼓、三角眼尖嘴猴腮、满脸蟾蜍状脓包恶臭、驼背、脸生脓肿、声音沙哑",
-    "标志特征": "擅用毒、背驼峰、脸生脓包、肩伏蟾蜍",
-    "阵营": "修魔内海",
-    "身份": "碎星乱探险者之一、用毒高手"
+    "标志特征": "擅用毒、背驼峰、脸生脓包、肩伏蟾蜍、善毒功、肩负蟾蜍",
+    "阵营": "六欲魔君所率魔修队伍",
+    "身份": "碎星乱探险者之一、用毒高手",
+    "存殁": "生死不明",
+    "小阶段": "化神期"
   },
   "observations": {
     "外貌": [
@@ -59,6 +61,16 @@
         "value": "肩伏蟾蜍",
         "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
         "seq": 151
+      },
+      {
+        "value": "善毒功",
+        "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
+        "seq": 155
+      },
+      {
+        "value": "肩负蟾蜍",
+        "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
+        "seq": 155
       }
     ],
     "阵营": [
@@ -66,6 +78,11 @@
         "value": "修魔内海",
         "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
         "seq": 151
+      },
+      {
+        "value": "六欲魔君所率魔修队伍",
+        "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
+        "seq": 155
       }
     ],
     "身份": [
@@ -78,6 +95,20 @@
         "value": "用毒高手",
         "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
         "seq": 151
+      }
+    ],
+    "存殁": [
+      {
+        "value": "生死不明",
+        "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
+        "seq": 155
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "化神期",
+        "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
+        "seq": 155
       }
     ]
   },
@@ -97,21 +128,34 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
+      "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
       "dated": false,
-      "seq": 151
+      "seq": 155
     },
     "身份": {
       "asOf": null,
       "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
       "dated": false,
       "seq": 151
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
+      "dated": false,
+      "seq": 155
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
+      "dated": false,
+      "seq": 155
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch151-154-ancient-teleport-array-suixingluan"
+    "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
+    "plot.xianni-ch155-157-tuoli-duiwu-quisui"
   ],
-  "updatedAt": "2026-07-06T15:52:10.965Z"
+  "updatedAt": "2026-07-06T16:00:48.975Z"
 }
