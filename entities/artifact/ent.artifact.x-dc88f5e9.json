@@ -5,7 +5,8 @@
   "aliases": [
     "黑色剑鞘",
     "古朴剑鞘",
-    "古拙剑鞘"
+    "古拙剑鞘",
+    "古朴的剑鞘"
   ],
   "summary": "配古怪飞剑使用的黑色剑鞘，被司徒南指为真正的宝贝，战后归王林。",
   "attributes": {
@@ -13,7 +14,8 @@
     "外形": "黑色剑鞘、古朴，透萧杀剑意、古朴剑鞘、古拙无花纹",
     "禁制": "非结丹期不可重新祭炼",
     "来历": "孙浩师傅在古洞所得",
-    "能力": "承载古怪飞剑，随炼化度加深下沉更多、威力更大"
+    "能力": "增强瞬移飞剑威力",
+    "品阶": "疑超元婴/化神/婴变"
   },
   "observations": {
     "持有者": [
@@ -84,6 +86,19 @@
         "value": "承载古怪飞剑，随炼化度加深下沉更多、威力更大",
         "docId": "plot.xianni-ch85-89-jilian-jianqiao",
         "seq": 85
+      },
+      {
+        "value": "增强瞬移飞剑威力",
+        "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+        "seq": 137
+      }
+    ],
+    "品阶": [
+      {
+        "value": "疑超元婴/化神/婴变",
+        "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+        "seq": 137,
+        "note": "司徒南亦看不透"
       }
     ]
   },
@@ -115,9 +130,16 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+      "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
       "dated": false,
-      "seq": 85
+      "seq": 137
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+      "dated": false,
+      "seq": 137,
+      "note": "司徒南亦看不透"
     }
   },
   "contested": false,
@@ -126,7 +148,8 @@
     "plot.xianni-ch61-66-strange-sword-baizhan",
     "plot.xianni-ch67-71-tengli-chase-lanxianteng",
     "lore.huangquan-shengqiao-jue-jiyin-zhidi",
-    "plot.xianni-ch85-89-jilian-jianqiao"
+    "plot.xianni-ch85-89-jilian-jianqiao",
+    "plot.xianni-ch137-141-nandou-shafa-xuelu"
   ],
-  "updatedAt": "2026-07-05T03:01:33.200Z"
+  "updatedAt": "2026-07-06T13:16:53.173Z"
 }

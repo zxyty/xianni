@@ -2,12 +2,15 @@
   "id": "ent.person.x-4cc0294b",
   "type": "person",
   "name": "木南",
-  "aliases": [],
+  "aliases": [
+    "木氏兄弟"
+  ],
   "summary": "五丁峰斗邪派分部结丹长老，木北之兄，被迫为王林带路前往斗邪派总部。",
   "attributes": {
     "小阶段": "结丹期",
     "阵营": "斗邪派",
-    "身份": "五丁峰分部长老"
+    "身份": "五丁峰分部长老",
+    "存殁": "存活"
   },
   "observations": {
     "小阶段": [
@@ -30,6 +33,13 @@
         "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
         "seq": 132
       }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+        "seq": 137
+      }
     ]
   },
   "firstSeq": 132,
@@ -51,12 +61,19 @@
       "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
       "dated": false,
       "seq": 132
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+      "dated": false,
+      "seq": 137
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch147-151-jiedan-doupai-zhusha"
+    "plot.xianni-ch147-151-jiedan-doupai-zhusha",
+    "plot.xianni-ch137-141-nandou-shafa-xuelu"
   ],
-  "updatedAt": "2026-07-06T12:55:39.903Z"
+  "updatedAt": "2026-07-06T13:16:53.156Z"
 }

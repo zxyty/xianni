@@ -10,10 +10,11 @@
   "summary": "战神殿元婴初期修士，指控王林引来火兽、夺舍马良，因忌惮凤栾与杨森而罢手。",
   "attributes": {
     "性别": "男",
-    "小阶段": "元婴初期",
+    "小阶段": "元婴",
     "阵营": "战神殿",
     "外貌": "中年文士",
-    "身份": "赠玉符予王林者"
+    "身份": "赠玉符予王林者",
+    "出身地": "火焚国"
   },
   "observations": {
     "性别": [
@@ -28,6 +29,11 @@
         "value": "元婴初期",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
+      },
+      {
+        "value": "元婴",
+        "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+        "seq": 137
       }
     ],
     "阵营": [
@@ -55,6 +61,13 @@
         "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
         "seq": 123
       }
+    ],
+    "出身地": [
+      {
+        "value": "火焚国",
+        "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+        "seq": 137
+      }
     ]
   },
   "firstSeq": 119,
@@ -67,9 +80,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+      "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
       "dated": false,
-      "seq": 119
+      "seq": 137
     },
     "阵营": {
       "asOf": null,
@@ -88,13 +101,20 @@
       "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
       "dated": false,
       "seq": 123
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+      "dated": false,
+      "seq": 137
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
-    "plot.xianni-ch123-125-tianli-dan-huofen-invasion"
+    "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+    "plot.xianni-ch137-141-nandou-shafa-xuelu"
   ],
-  "updatedAt": "2026-07-06T12:31:07.446Z"
+  "updatedAt": "2026-07-06T13:16:53.170Z"
 }

@@ -14,14 +14,15 @@
   ],
   "summary": "洛河门炼丹宗修士，孙有财欲夺其丹药/丹方的目标。",
   "attributes": {
-    "阵营": "洛河门炼丹宗、火焚国、洛河门、受制于王林",
+    "阵营": "洛河门炼丹宗、火焚国、洛河门、受制于王林、洛河门/火焚盟",
     "性别": "女",
-    "身份": "洛河门女修、炼丹师、王林同伴/炼丹布阵者、炼丹修士、旧识",
-    "外貌": "紫衣淡雅美丽",
-    "性格": "冰雪聪明",
+    "身份": "洛河门女修、炼丹师、王林同伴/炼丹布阵者、炼丹修士、旧识、洛河门弟子",
+    "外貌": "肌若凝脂，气若幽兰",
+    "性格": "聪慧",
     "小阶段": "筑基期",
     "出身地": "洛河门",
-    "标志特征": "冰雪聪明"
+    "标志特征": "炼丹与阵法奇才",
+    "存殁": "存活"
   },
   "observations": {
     "阵营": [
@@ -45,6 +46,11 @@
         "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
         "seq": 129,
         "note": "魂血被掌控"
+      },
+      {
+        "value": "洛河门/火焚盟",
+        "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+        "seq": 137
       }
     ],
     "性别": [
@@ -80,6 +86,11 @@
         "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
         "seq": 129,
         "note": "本片段仅回忆提及"
+      },
+      {
+        "value": "洛河门弟子",
+        "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+        "seq": 137
       }
     ],
     "外貌": [
@@ -102,6 +113,11 @@
         "value": "紫衣淡雅美丽",
         "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
         "seq": 132
+      },
+      {
+        "value": "肌若凝脂，气若幽兰",
+        "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+        "seq": 137
       }
     ],
     "性格": [
@@ -109,6 +125,11 @@
         "value": "冰雪聪明",
         "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
         "seq": 123
+      },
+      {
+        "value": "聪慧",
+        "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+        "seq": 137
       }
     ],
     "小阶段": [
@@ -135,6 +156,18 @@
         "value": "冰雪聪明",
         "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
         "seq": 132
+      },
+      {
+        "value": "炼丹与阵法奇才",
+        "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+        "seq": 137
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+        "seq": 137
       }
     ]
   },
@@ -160,15 +193,15 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
+      "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
       "dated": false,
-      "seq": 132
+      "seq": 137
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+      "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
       "dated": false,
-      "seq": 123
+      "seq": 137
     },
     "小阶段": {
       "asOf": null,
@@ -184,9 +217,15 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
+      "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
       "dated": false,
-      "seq": 132
+      "seq": 137
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+      "dated": false,
+      "seq": 137
     }
   },
   "contested": false,
@@ -196,7 +235,8 @@
     "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
     "plot.xianni-ch126-128-modohai-doupai-sangmuya",
     "plot.xianni-ch129-131-jiedan-sandan-heyi",
-    "plot.xianni-ch147-151-jiedan-doupai-zhusha"
+    "plot.xianni-ch147-151-jiedan-doupai-zhusha",
+    "plot.xianni-ch137-141-nandou-shafa-xuelu"
   ],
-  "updatedAt": "2026-07-06T12:55:39.897Z"
+  "updatedAt": "2026-07-06T13:16:53.167Z"
 }

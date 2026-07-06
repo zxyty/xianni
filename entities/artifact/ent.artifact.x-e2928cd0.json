@@ -7,7 +7,8 @@
   "attributes": {
     "品阶": "元婴级",
     "持有者": "王林",
-    "外形": "玉符"
+    "外形": "玉符",
+    "来历": "周瑾所赠（火焚国）"
   },
   "observations": {
     "品阶": [
@@ -30,6 +31,13 @@
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
       }
+    ],
+    "来历": [
+      {
+        "value": "周瑾所赠（火焚国）",
+        "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+        "seq": 137
+      }
     ]
   },
   "firstSeq": 119,
@@ -51,12 +59,19 @@
       "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
       "dated": false,
       "seq": 119
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+      "dated": false,
+      "seq": 137
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian"
+    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+    "plot.xianni-ch137-141-nandou-shafa-xuelu"
   ],
-  "updatedAt": "2026-07-05T05:13:41.073Z"
+  "updatedAt": "2026-07-06T13:16:53.175Z"
 }
