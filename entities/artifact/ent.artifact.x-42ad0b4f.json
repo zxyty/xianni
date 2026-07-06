@@ -3,15 +3,17 @@
   "type": "artifact",
   "name": "百兽灵炉",
   "aliases": [
-    "西兽灵炉"
+    "西兽灵炉",
+    "百兽丹炉",
+    "五品丹炉"
   ],
   "summary": "以修魔海九十九只下品灵兽内丹融合炼制的五品丹炉，外拓九十九只狰狞灵兽，炼丹有几率吸纳灵兽丹气增品质。",
   "attributes": {
     "品阶": "五品",
-    "能力": "炼丹几率吸纳灵兽丹气、增添丹药品质",
+    "能力": "炼丹",
     "来历": "九十九只下品灵兽内丹融合炼制",
     "外形": "血红色丹炉、外拓九十九只狰狞灵兽",
-    "持有者": "王林"
+    "持有者": "王林→李慕婉"
   },
   "observations": {
     "品阶": [
@@ -26,6 +28,11 @@
         "value": "炼丹几率吸纳灵兽丹气、增添丹药品质",
         "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
         "seq": 129
+      },
+      {
+        "value": "炼丹",
+        "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
+        "seq": 132
       }
     ],
     "来历": [
@@ -47,6 +54,11 @@
         "value": "王林",
         "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
         "seq": 129
+      },
+      {
+        "value": "王林→李慕婉",
+        "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
+        "seq": 132
       }
     ]
   },
@@ -60,9 +72,9 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+      "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
       "dated": false,
-      "seq": 129
+      "seq": 132
     },
     "来历": {
       "asOf": null,
@@ -78,15 +90,16 @@
     },
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+      "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
       "dated": false,
-      "seq": 129
+      "seq": 132
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch129-131-jiedan-sandan-heyi"
+    "plot.xianni-ch129-131-jiedan-sandan-heyi",
+    "plot.xianni-ch147-151-jiedan-doupai-zhusha"
   ],
-  "updatedAt": "2026-07-06T12:52:53.714Z"
+  "updatedAt": "2026-07-06T12:55:39.909Z"
 }

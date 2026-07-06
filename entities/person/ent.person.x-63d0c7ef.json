@@ -5,10 +5,12 @@
   "aliases": [],
   "summary": "黑瘦修士，斗邪派派驻南斗城的采办弟子，盯上王林并传音招来同门与结丹长老图谋其宝。",
   "attributes": {
-    "身份": "斗邪派采办弟子",
+    "身份": "斗邪派弟子",
     "外貌": "黑瘦",
     "性格": "贪婪、卑躬",
-    "阵营": "斗邪派"
+    "阵营": "斗邪派",
+    "存殁": "死亡",
+    "死因": "被王林引爆体内神识（第147章）"
   },
   "observations": {
     "身份": [
@@ -16,6 +18,11 @@
         "value": "斗邪派采办弟子",
         "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
         "seq": 129
+      },
+      {
+        "value": "斗邪派弟子",
+        "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
+        "seq": 132
       }
     ],
     "外貌": [
@@ -38,15 +45,29 @@
         "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
         "seq": 129
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
+        "seq": 132
+      }
+    ],
+    "死因": [
+      {
+        "value": "被王林引爆体内神识（第147章）",
+        "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
+        "seq": 132
+      }
     ]
   },
   "firstSeq": 129,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+      "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
       "dated": false,
-      "seq": 129
+      "seq": 132
     },
     "外貌": {
       "asOf": null,
@@ -65,12 +86,25 @@
       "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
       "dated": false,
       "seq": 129
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
+      "dated": false,
+      "seq": 132
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
+      "dated": false,
+      "seq": 132
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch129-131-jiedan-sandan-heyi"
+    "plot.xianni-ch129-131-jiedan-sandan-heyi",
+    "plot.xianni-ch147-151-jiedan-doupai-zhusha"
   ],
-  "updatedAt": "2026-07-06T12:52:53.708Z"
+  "updatedAt": "2026-07-06T12:55:39.902Z"
 }
