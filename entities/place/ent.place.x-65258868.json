@@ -8,11 +8,12 @@
   ],
   "summary": "修魔海内城池，外来修士无本城身份居住受限；云妃有本城居住身份。",
   "attributes": {
-    "类型": "城池、主城/坊市",
+    "类型": "城池、主城/坊市、城市（兽背之城）",
     "所属界面": "修魔海",
     "特产": "本城居住身份准入",
-    "规模": "约数百个南斗城大小",
-    "守护": "城主府护卫（筑基中期）"
+    "规模": "极大",
+    "守护": "城主府护卫（筑基中期）",
+    "上级区域": "修魔海"
   },
   "observations": {
     "类型": [
@@ -25,6 +26,11 @@
         "value": "主城/坊市",
         "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
         "seq": 186
+      },
+      {
+        "value": "城市（兽背之城）",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
       }
     ],
     "所属界面": [
@@ -46,6 +52,11 @@
         "value": "约数百个南斗城大小",
         "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
         "seq": 186
+      },
+      {
+        "value": "极大",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
       }
     ],
     "守护": [
@@ -53,6 +64,13 @@
         "value": "城主府护卫（筑基中期）",
         "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
         "seq": 186
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "修魔海",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
       }
     ]
   },
@@ -78,21 +96,28 @@
     },
     "规模": {
       "asOf": null,
-      "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
+      "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
       "dated": false,
-      "seq": 186
+      "seq": 188
     },
     "守护": {
       "asOf": null,
       "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
       "dated": false,
       "seq": 186
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+      "dated": false,
+      "seq": 188
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch186-187-two-hundred-years-silence"
+    "plot.xianni-ch186-187-two-hundred-years-silence",
+    "plot.renfa-ch204-ancient-mirror-forbidden-banner"
   ],
-  "updatedAt": "2026-07-07T11:50:02.201Z"
+  "updatedAt": "2026-07-07T12:03:22.470Z"
 }

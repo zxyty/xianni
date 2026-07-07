@@ -6,19 +6,22 @@
     "岐黄门传人云妃",
     "墨云",
     "岐黄门遗徒墨云",
-    "云妃师妹"
+    "云妃师妹",
+    "墨姓女子",
+    "此女"
   ],
   "summary": "岐黄门余脉，曾为魔宫宫主侍妾，携岐黄门丹方玉简逃出，被钱昆追杀。",
   "attributes": {
     "性别": "女",
-    "小阶段": "结丹初期",
-    "身份": "魔宫宫主侍妾、岐黄门遗徒、岐黄门女修、魔宫处理修魔海事务者、王林引路人/受制者",
+    "小阶段": "结丹",
+    "身份": "魔宫宫主侍妾、岐黄门遗徒、岐黄门女修、魔宫处理修魔海事务者、王林引路人/受制者、麒麟城/修魔海女修、受禁制控制之女修、丹修女修",
     "外貌": "青纱红底衣裤、腰肢纤细、颇有姿色",
-    "阵营": "岐黄门",
-    "存殁": "存活",
+    "阵营": "受王林挟制",
+    "存殁": "死亡",
     "道号": "墨云",
     "出身地": "麒麟城",
-    "性格": "冰雪聪明、果断求生"
+    "性格": "阴狠、隐忍、作态",
+    "死因": "神识被第二魔头吸食（第205章）"
   },
   "observations": {
     "性别": [
@@ -33,6 +36,11 @@
         "value": "结丹初期",
         "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
         "seq": 183
+      },
+      {
+        "value": "结丹",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
       }
     ],
     "身份": [
@@ -62,6 +70,22 @@
         "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
         "seq": 186,
         "note": "被王林禁制"
+      },
+      {
+        "value": "麒麟城/修魔海女修",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
+      },
+      {
+        "value": "受禁制控制之女修",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188,
+        "note": "性命操于王林之手"
+      },
+      {
+        "value": "丹修女修",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
       }
     ],
     "外貌": [
@@ -76,6 +100,12 @@
         "value": "岐黄门",
         "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
         "seq": 183
+      },
+      {
+        "value": "受王林挟制",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188,
+        "note": "被下禁制"
       }
     ],
     "存殁": [
@@ -84,6 +114,11 @@
         "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
         "seq": 183,
         "note": "被王林三日一发的禁制操控"
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
       }
     ],
     "道号": [
@@ -105,6 +140,18 @@
         "value": "冰雪聪明、果断求生",
         "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
         "seq": 186
+      },
+      {
+        "value": "阴狠、隐忍、作态",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
+      }
+    ],
+    "死因": [
+      {
+        "value": "神识被第二魔头吸食（第205章）",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
       }
     ]
   },
@@ -118,9 +165,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+      "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
       "dated": false,
-      "seq": 183
+      "seq": 188
     },
     "身份": {
       "asOf": null,
@@ -137,16 +184,16 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+      "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
       "dated": false,
-      "seq": 183
+      "seq": 188,
+      "note": "被下禁制"
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+      "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
       "dated": false,
-      "seq": 183,
-      "note": "被王林三日一发的禁制操控"
+      "seq": 188
     },
     "道号": {
       "asOf": null,
@@ -162,16 +209,23 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
+      "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
       "dated": false,
-      "seq": 186
+      "seq": 188
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+      "dated": false,
+      "seq": 188
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
-    "plot.xianni-ch186-187-two-hundred-years-silence"
+    "plot.xianni-ch186-187-two-hundred-years-silence",
+    "plot.renfa-ch204-ancient-mirror-forbidden-banner"
   ],
-  "updatedAt": "2026-07-07T11:50:02.200Z"
+  "updatedAt": "2026-07-07T12:03:22.464Z"
 }

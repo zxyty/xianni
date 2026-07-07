@@ -2,12 +2,18 @@
   "id": "ent.artifact.x-ecc3119a",
   "type": "artifact",
   "name": "禁幡",
-  "aliases": [],
+  "aliases": [
+    "禁幅",
+    "白旌"
+  ],
   "summary": "古神赐予的法宝，玉简记载其制作法：以墨间石为必需材料，刻下九十九万九千九百九十九个禁制而成，威力资讯未明但推测极强。",
   "attributes": {
-    "来历": "以墨间石炼制",
+    "来历": "古神所赐，玉简记载制法、第二关所得炼制玉简、以墨间石炼制、王林自炼、依古神第二关所得玉简『养器』之法炼制",
     "禁制": "需刻九十九万九千九百九十九个禁制",
-    "持有者": "王林"
+    "持有者": "王林",
+    "外形": "白色小旗，成功印入禁制处显为黑点/黑斑",
+    "能力": "承载海量禁制；同一禁制最多吸收九次，第十次则先前九个消散",
+    "品阶": "九百九十九、九千九百九十九、九万九千九百九十九、九十九万九千九百九十九"
   },
   "observations": {
     "来历": [
@@ -25,6 +31,16 @@
         "value": "以墨间石炼制",
         "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
         "seq": 183
+      },
+      {
+        "value": "王林自炼",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
+      },
+      {
+        "value": "依古神第二关所得玉简『养器』之法炼制",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
       }
     ],
     "禁制": [
@@ -40,15 +56,51 @@
         "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
         "seq": 183
       }
+    ],
+    "外形": [
+      {
+        "value": "白色小旗，成功印入禁制处显为黑点/黑斑",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
+      }
+    ],
+    "能力": [
+      {
+        "value": "承载海量禁制；同一禁制最多吸收九次，第十次则先前九个消散",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
+      }
+    ],
+    "品阶": [
+      {
+        "value": "九百九十九",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
+      },
+      {
+        "value": "九千九百九十九",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
+      },
+      {
+        "value": "九万九千九百九十九",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
+      },
+      {
+        "value": "九十九万九千九百九十九",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
+      }
     ]
   },
   "firstSeq": 166,
   "attrProvenance": {
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+      "docId": "plot.xianni-ch181-jinzhi-baofa",
       "dated": false,
-      "seq": 183
+      "seq": 166
     },
     "禁制": {
       "asOf": null,
@@ -61,6 +113,24 @@
       "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
       "dated": false,
       "seq": 183
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+      "dated": false,
+      "seq": 188
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+      "dated": false,
+      "seq": 188
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+      "dated": false,
+      "seq": 188
     }
   },
   "contested": false,
@@ -68,7 +138,8 @@
   "docs": [
     "plot.xianni-ch181-jinzhi-baofa",
     "plot.xianni-ch185-blood-sea-lord",
-    "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng"
+    "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+    "plot.renfa-ch204-ancient-mirror-forbidden-banner"
   ],
-  "updatedAt": "2026-07-07T11:38:30.298Z"
+  "updatedAt": "2026-07-07T12:03:22.455Z"
 }

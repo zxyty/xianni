@@ -7,9 +7,9 @@
   "attributes": {
     "所属势力": "炼器宗",
     "所属界面": "修魔海",
-    "类型": "法宝店铺",
+    "类型": "商铺/据点",
     "方位": "南斗城城东",
-    "规模": "三层"
+    "规模": "五层"
   },
   "observations": {
     "所属势力": [
@@ -31,6 +31,11 @@
         "value": "法宝店铺",
         "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
         "seq": 129
+      },
+      {
+        "value": "商铺/据点",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
       }
     ],
     "方位": [
@@ -45,6 +50,11 @@
         "value": "三层",
         "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
         "seq": 129
+      },
+      {
+        "value": "五层",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
       }
     ]
   },
@@ -64,9 +74,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+      "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
       "dated": false,
-      "seq": 129
+      "seq": 188
     },
     "方位": {
       "asOf": null,
@@ -76,15 +86,16 @@
     },
     "规模": {
       "asOf": null,
-      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+      "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
       "dated": false,
-      "seq": 129
+      "seq": 188
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch129-131-jiedan-sandan-heyi"
+    "plot.xianni-ch129-131-jiedan-sandan-heyi",
+    "plot.renfa-ch204-ancient-mirror-forbidden-banner"
   ],
-  "updatedAt": "2026-07-06T12:52:53.711Z"
+  "updatedAt": "2026-07-07T12:03:22.451Z"
 }

@@ -3,13 +3,14 @@
   "type": "material",
   "name": "蛟龙皮",
   "aliases": [
-    "蛟龙皮甲"
+    "蛟龙皮甲",
+    "蛟皮"
   ],
   "summary": "中品灵兽蛟龙之整张皮甲（中品灵兽≈元婴期大圆满），极罕见，王林用以换取百兽灵炉。",
   "attributes": {
-    "类型": "灵兽皮甲/炼器材料",
+    "类型": "灵兽材料",
     "用途": "换取百兽灵炉",
-    "稀有度": "极罕见（整张中品灵兽皮）",
+    "稀有度": "极难得（完整且死后即生扒）",
     "产地": "中品灵兽蛟龙"
   },
   "observations": {
@@ -18,6 +19,11 @@
         "value": "灵兽皮甲/炼器材料",
         "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
         "seq": 129
+      },
+      {
+        "value": "灵兽材料",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
       }
     ],
     "用途": [
@@ -32,6 +38,11 @@
         "value": "极罕见（整张中品灵兽皮）",
         "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
         "seq": 129
+      },
+      {
+        "value": "极难得（完整且死后即生扒）",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
       }
     ],
     "产地": [
@@ -46,9 +57,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+      "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
       "dated": false,
-      "seq": 129
+      "seq": 188
     },
     "用途": {
       "asOf": null,
@@ -58,9 +69,9 @@
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+      "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
       "dated": false,
-      "seq": 129
+      "seq": 188
     },
     "产地": {
       "asOf": null,
@@ -73,7 +84,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch129-131-jiedan-sandan-heyi",
-    "plot.xianni-ch137-141-nandou-shafa-xuelu"
+    "plot.xianni-ch137-141-nandou-shafa-xuelu",
+    "plot.renfa-ch204-ancient-mirror-forbidden-banner"
   ],
-  "updatedAt": "2026-07-06T13:16:53.159Z"
+  "updatedAt": "2026-07-07T12:03:22.460Z"
 }
