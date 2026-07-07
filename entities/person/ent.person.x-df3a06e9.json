@@ -7,7 +7,10 @@
   ],
   "summary": "六欲魔君之师，千年前布下可跨越百丈禁制的漩涡通道之术。",
   "attributes": {
-    "称号": "天魔散人"
+    "称号": "天魔散人",
+    "身份": "六欲魔君的师傅",
+    "存殁": "死亡",
+    "死因": "古怪神识攻击"
   },
   "observations": {
     "称号": [
@@ -15,6 +18,28 @@
         "value": "天魔散人",
         "docId": "plot.xianni-ch181-jinzhi-baofa",
         "seq": 166
+      }
+    ],
+    "身份": [
+      {
+        "value": "六欲魔君的师傅",
+        "docId": "plot.xianni-ch183-yibian-chushi",
+        "seq": 168
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch183-yibian-chushi",
+        "seq": 168,
+        "note": "千年前开通道时被古怪神识秒杀；却现身血色世界"
+      }
+    ],
+    "死因": [
+      {
+        "value": "古怪神识攻击",
+        "docId": "plot.xianni-ch183-yibian-chushi",
+        "seq": 168
       }
     ]
   },
@@ -25,12 +50,32 @@
       "docId": "plot.xianni-ch181-jinzhi-baofa",
       "dated": false,
       "seq": 166
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch183-yibian-chushi",
+      "dated": false,
+      "seq": 168
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch183-yibian-chushi",
+      "dated": false,
+      "seq": 168,
+      "note": "千年前开通道时被古怪神识秒杀；却现身血色世界"
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch183-yibian-chushi",
+      "dated": false,
+      "seq": 168
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch181-jinzhi-baofa"
+    "plot.xianni-ch181-jinzhi-baofa",
+    "plot.xianni-ch183-yibian-chushi"
   ],
-  "updatedAt": "2026-07-07T02:54:01.397Z"
+  "updatedAt": "2026-07-07T04:12:19.256Z"
 }

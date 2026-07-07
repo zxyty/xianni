@@ -12,8 +12,9 @@
     "阵营": "四级修真国·阴阳宗、修魔海",
     "外貌": "面白如玉、葛布灰衫头戴方巾",
     "元神强度": "与八极魔君相当",
-    "性格": "狂人/残忍、嗜血贪婪",
-    "标志特征": "擅五行遁术、半透明直线穿石"
+    "性格": "狂人/残忍、嗜血贪婪、冷酷",
+    "标志特征": "擅五行遁术、半透明直线穿石",
+    "存殁": "生死不明"
   },
   "observations": {
     "身份": [
@@ -75,6 +76,12 @@
         "value": "嗜血贪婪",
         "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
         "seq": 151
+      },
+      {
+        "value": "冷酷",
+        "docId": "plot.xianni-ch183-yibian-chushi",
+        "seq": 168,
+        "note": "本章当时"
       }
     ],
     "标志特征": [
@@ -87,6 +94,14 @@
         "value": "半透明直线穿石",
         "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
         "seq": 151
+      }
+    ],
+    "存殁": [
+      {
+        "value": "生死不明",
+        "docId": "plot.xianni-ch183-yibian-chushi",
+        "seq": 168,
+        "note": "第168章被妖魔之手抓入裂缝"
       }
     ]
   },
@@ -128,6 +143,13 @@
       "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
       "dated": false,
       "seq": 151
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch183-yibian-chushi",
+      "dated": false,
+      "seq": 168,
+      "note": "第168章被妖魔之手抓入裂缝"
     }
   },
   "contested": false,
@@ -135,7 +157,8 @@
   "docs": [
     "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
     "plot.xianni-ch155-157-tuoli-duiwu-quisui",
-    "plot.xianni-ch179-180-jinshan-study-restrictions"
+    "plot.xianni-ch179-180-jinshan-study-restrictions",
+    "plot.xianni-ch183-yibian-chushi"
   ],
-  "updatedAt": "2026-07-07T02:42:08.958Z"
+  "updatedAt": "2026-07-07T04:12:19.264Z"
 }

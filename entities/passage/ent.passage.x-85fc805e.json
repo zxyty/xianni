@@ -6,14 +6,16 @@
     "空间裂痕",
     "域外战场空间裂缝",
     "裂缝",
-    "坍塌空间裂缝"
+    "坍塌空间裂缝",
+    "血色世界空间缝隙"
   ],
   "summary": "域外空间因万载战斗濒临崩溃而生的裂缝，连接无边星海；内部黑暗、神识被禁锢、有恐怖吸扯力，专出没吞噬性神秘物种。",
   "attributes": {
     "类型": "空间裂缝",
-    "两端": "域外空间、星海",
-    "稳定性": "极不稳定，撞击可致崩溃后自动消失、极不稳定、时现时灭、极不稳定（坍塌形成）",
-    "可通行境界": "婴变期高手可趁吸力未开时短暂进出"
+    "两端": "域外空间、星海、现实虚空—血色世界",
+    "稳定性": "极不稳定，撞击可致崩溃后自动消失、极不稳定、时现时灭、极不稳定（坍塌形成）、临时、随即合并",
+    "可通行境界": "婴变期高手可趁吸力未开时短暂进出",
+    "来历": "妖魔徒手撕开"
   },
   "observations": {
     "类型": [
@@ -33,6 +35,11 @@
         "value": "星海",
         "docId": "plot.xianni-ch117-wanglin-death",
         "seq": 102
+      },
+      {
+        "value": "现实虚空—血色世界",
+        "docId": "plot.xianni-ch183-yibian-chushi",
+        "seq": 168
       }
     ],
     "稳定性": [
@@ -50,6 +57,11 @@
         "value": "极不稳定（坍塌形成）",
         "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
         "seq": 106
+      },
+      {
+        "value": "临时、随即合并",
+        "docId": "plot.xianni-ch183-yibian-chushi",
+        "seq": 168
       }
     ],
     "可通行境界": [
@@ -58,6 +70,13 @@
         "docId": "plot.xianni-ch117-wanglin-death",
         "seq": 102,
         "note": "神识过庞大者无法从细缝钻出"
+      }
+    ],
+    "来历": [
+      {
+        "value": "妖魔徒手撕开",
+        "docId": "plot.xianni-ch183-yibian-chushi",
+        "seq": 168
       }
     ]
   },
@@ -87,13 +106,20 @@
       "dated": false,
       "seq": 102,
       "note": "神识过庞大者无法从细缝钻出"
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch183-yibian-chushi",
+      "dated": false,
+      "seq": 168
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch117-wanglin-death",
-    "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang"
+    "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+    "plot.xianni-ch183-yibian-chushi"
   ],
-  "updatedAt": "2026-07-05T04:23:08.033Z"
+  "updatedAt": "2026-07-07T04:12:19.254Z"
 }
