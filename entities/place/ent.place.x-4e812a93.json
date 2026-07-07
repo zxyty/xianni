@@ -3,14 +3,16 @@
   "type": "place",
   "name": "神识死海",
   "aliases": [
-    "死海"
+    "死海",
+    "涂司死海"
   ],
   "summary": "紫府识海灰黑一半，涂司所凝，藏忆之传承，外有无穷灰雾、雾底雷电层与黑海巨兽，凡力无法闯入。",
   "attributes": {
-    "类型": "禁地、神识/死海",
+    "类型": "禁地、神识/死海、神识所化海洋／秘境、神识死海",
     "危险度": "极高",
-    "守护": "灰色雾气、紫色雷电层、黑海似龙生物",
-    "特产": "忆之传承"
+    "守护": "灰色雾气、紫色雷电层、黑海似龙生物、死海守护生物",
+    "特产": "忆之传承",
+    "所属界面": "古神之地"
   },
   "observations": {
     "类型": [
@@ -23,6 +25,16 @@
         "value": "神识/死海",
         "docId": "plot.xianni-ch191-shenshi-sihai",
         "seq": 176
+      },
+      {
+        "value": "神识所化海洋／秘境",
+        "docId": "plot.xianni-ch194-blood-sea-seal-opening",
+        "seq": 179
+      },
+      {
+        "value": "神识死海",
+        "docId": "plot.xianni-ch194-blood-sea-seal-opening",
+        "seq": 179
       }
     ],
     "危险度": [
@@ -47,6 +59,11 @@
         "value": "黑海似龙生物",
         "docId": "plot.xianni-ch191-shenshi-sihai",
         "seq": 176
+      },
+      {
+        "value": "死海守护生物",
+        "docId": "plot.xianni-ch194-blood-sea-seal-opening",
+        "seq": 179
       }
     ],
     "特产": [
@@ -54,6 +71,13 @@
         "value": "忆之传承",
         "docId": "plot.xianni-ch191-shenshi-sihai",
         "seq": 176
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "古神之地",
+        "docId": "plot.xianni-ch194-blood-sea-seal-opening",
+        "seq": 179
       }
     ]
   },
@@ -82,12 +106,19 @@
       "docId": "plot.xianni-ch191-shenshi-sihai",
       "dated": false,
       "seq": 176
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch194-blood-sea-seal-opening",
+      "dated": false,
+      "seq": 179
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch191-shenshi-sihai"
+    "plot.xianni-ch191-shenshi-sihai",
+    "plot.xianni-ch194-blood-sea-seal-opening"
   ],
-  "updatedAt": "2026-07-07T11:14:57.429Z"
+  "updatedAt": "2026-07-07T11:26:36.822Z"
 }

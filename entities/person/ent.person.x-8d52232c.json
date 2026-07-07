@@ -6,16 +6,18 @@
     "妖神血海红发男子",
     "封印者",
     "通天石柱上的男子",
-    "主人"
+    "主人",
+    "拓某",
+    "红衣男子"
   ],
   "summary": "被封印在妖神血海数万年的远古强者，盘坐通天石锥，命妖神众修擒拿香魂。",
   "attributes": {
-    "外貌": "红发遮面、血肉模糊的脸、血色红发，气息睥睨狂傲",
-    "性格": "狂傲睥睨",
-    "身份": "被封印者、力之传承继承者、血海之主／游魂之主",
+    "外貌": "红发遮面、血肉模糊的脸、血色红发，气息睥睨狂傲、红发",
+    "性格": "狂傲睥睨、睥睨狂傲、狠毒",
+    "身份": "被封印者、力之传承继承者、血海之主／游魂之主、血海主人",
     "存殁": "存活",
-    "标志特征": "红发",
-    "阵营": "被封印于血海、血海／魔化势力"
+    "标志特征": "掌吉神之力，可为他人塑造人形",
+    "阵营": "被封印于血海、血海／魔化势力、寂灭界血海"
   },
   "observations": {
     "外貌": [
@@ -33,6 +35,11 @@
         "value": "血色红发，气息睥睨狂傲",
         "docId": "plot.xianni-ch191-shenshi-sihai",
         "seq": 176
+      },
+      {
+        "value": "红发",
+        "docId": "plot.xianni-ch194-blood-sea-seal-opening",
+        "seq": 179
       }
     ],
     "性格": [
@@ -40,6 +47,16 @@
         "value": "狂傲睥睨",
         "docId": "plot.xianni-ch185-blood-sea-lord",
         "seq": 170
+      },
+      {
+        "value": "睥睨狂傲",
+        "docId": "plot.xianni-ch194-blood-sea-seal-opening",
+        "seq": 179
+      },
+      {
+        "value": "狠毒",
+        "docId": "plot.xianni-ch194-blood-sea-seal-opening",
+        "seq": 179
       }
     ],
     "身份": [
@@ -57,6 +74,11 @@
         "value": "血海之主／游魂之主",
         "docId": "plot.xianni-ch191-shenshi-sihai",
         "seq": 176
+      },
+      {
+        "value": "血海主人",
+        "docId": "plot.xianni-ch194-blood-sea-seal-opening",
+        "seq": 179
       }
     ],
     "存殁": [
@@ -72,6 +94,11 @@
         "value": "红发",
         "docId": "plot.xianni-ch191-shenshi-sihai",
         "seq": 176
+      },
+      {
+        "value": "掌吉神之力，可为他人塑造人形",
+        "docId": "plot.xianni-ch194-blood-sea-seal-opening",
+        "seq": 179
       }
     ],
     "阵营": [
@@ -84,6 +111,11 @@
         "value": "血海／魔化势力",
         "docId": "plot.xianni-ch191-shenshi-sihai",
         "seq": 176
+      },
+      {
+        "value": "寂灭界血海",
+        "docId": "plot.xianni-ch194-blood-sea-seal-opening",
+        "seq": 179
       }
     ]
   },
@@ -116,9 +148,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch191-shenshi-sihai",
+      "docId": "plot.xianni-ch194-blood-sea-seal-opening",
       "dated": false,
-      "seq": 176
+      "seq": 179
     },
     "阵营": {
       "asOf": null,
@@ -131,7 +163,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch185-blood-sea-lord",
-    "plot.xianni-ch191-shenshi-sihai"
+    "plot.xianni-ch191-shenshi-sihai",
+    "plot.xianni-ch194-blood-sea-seal-opening"
   ],
-  "updatedAt": "2026-07-07T11:14:57.432Z"
+  "updatedAt": "2026-07-07T11:26:36.791Z"
 }

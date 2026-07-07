@@ -10,9 +10,10 @@
   ],
   "summary": "古神传承功法，重炼体，第一层分夺灵、番灵、化灵三阶段，以灵力固身、扩身、身体重组质变。",
   "attributes": {
-    "出处": "古神传承、古神一族、古神诀第一层",
-    "效果": "炼体固身、身体重组质变、夺灵吸纳灵气、反用灵气极速提升修为、瞬间完整吸收修丹",
-    "修炼条件": "第一层达化灵可突破第二层吸收星球能源"
+    "出处": "古神传承、古神一族、古神诀第一层、古神之地",
+    "效果": "炼体固身、身体重组质变、夺灵吸纳灵气、反用灵气极速提升修为、瞬间完整吸收修丹、消融吞噬所得分识",
+    "修炼条件": "第一层达化灵可突破第二层吸收星球能源",
+    "外显异象": "三个金色大字"
   },
   "observations": {
     "出处": [
@@ -30,6 +31,11 @@
         "value": "古神诀第一层",
         "docId": "plot.xianni-ch191-shenshi-sihai",
         "seq": 176
+      },
+      {
+        "value": "古神之地",
+        "docId": "plot.xianni-ch194-blood-sea-seal-opening",
+        "seq": 179
       }
     ],
     "效果": [
@@ -52,6 +58,11 @@
         "value": "瞬间完整吸收修丹",
         "docId": "plot.xianni-ch191-shenshi-sihai",
         "seq": 176
+      },
+      {
+        "value": "消融吞噬所得分识",
+        "docId": "plot.xianni-ch194-blood-sea-seal-opening",
+        "seq": 179
       }
     ],
     "修炼条件": [
@@ -59,6 +70,13 @@
         "value": "第一层达化灵可突破第二层吸收星球能源",
         "docId": "plot.xianni-ch191-shenshi-sihai",
         "seq": 176
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "三个金色大字",
+        "docId": "plot.xianni-ch194-blood-sea-seal-opening",
+        "seq": 179
       }
     ]
   },
@@ -81,12 +99,19 @@
       "docId": "plot.xianni-ch191-shenshi-sihai",
       "dated": false,
       "seq": 176
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.xianni-ch194-blood-sea-seal-opening",
+      "dated": false,
+      "seq": 179
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch191-shenshi-sihai"
+    "plot.xianni-ch191-shenshi-sihai",
+    "plot.xianni-ch194-blood-sea-seal-opening"
   ],
-  "updatedAt": "2026-07-07T11:14:57.401Z"
+  "updatedAt": "2026-07-07T11:26:36.822Z"
 }
