@@ -7,12 +7,14 @@
     "身份玉简",
     "青龙防御玉简",
     "记录手诀的玉简",
-    "岐黄门丹方玉简"
+    "岐黄门丹方玉简",
+    "丹方玉简",
+    "李慕婉玉简"
   ],
   "summary": "尸阴宗唯一身份凭证，按颜色分始祖青/师祖深蓝/长老淡蓝/弟子白；封印弟子魂魄以受上级控制。",
   "attributes": {
-    "类型": "记录玉简",
-    "用途": "记载岐黄门丹药配方",
+    "类型": "玉简",
+    "用途": "标识身份、封印魂魄、上控下、通过护山大阵光幕、记录离开第三关之手诀、记载岐黄门丹药配方、记录珍贵丹方、记录斗邪派青龙法阵",
     "产地": "岐黄门"
   },
   "observations": {
@@ -36,6 +38,11 @@
         "value": "记录玉简",
         "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
         "seq": 183
+      },
+      {
+        "value": "玉简",
+        "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
+        "seq": 186
       }
     ],
     "用途": [
@@ -58,6 +65,16 @@
         "value": "记载岐黄门丹药配方",
         "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
         "seq": 183
+      },
+      {
+        "value": "记录珍贵丹方",
+        "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
+        "seq": 186
+      },
+      {
+        "value": "记录斗邪派青龙法阵",
+        "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
+        "seq": 186
       }
     ],
     "产地": [
@@ -72,15 +89,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+      "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
       "dated": false,
-      "seq": 183
+      "seq": 186
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
       "dated": false,
-      "seq": 183
+      "seq": 80
     },
     "产地": {
       "asOf": null,
@@ -96,7 +113,8 @@
     "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
     "plot.xianni-ch176-duoqu-fengqun",
     "plot.xianni-ch183-yibian-chushi",
-    "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng"
+    "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+    "plot.xianni-ch186-187-two-hundred-years-silence"
   ],
-  "updatedAt": "2026-07-07T11:38:30.300Z"
+  "updatedAt": "2026-07-07T11:50:02.212Z"
 }

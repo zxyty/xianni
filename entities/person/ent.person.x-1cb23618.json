@@ -13,9 +13,10 @@
     "小阶段": "结丹中期",
     "外貌": "方脸粗眉、眼大如铃",
     "性格": "阴冷贪婪、阴险、见风使舵",
-    "存殁": "存活",
+    "存殁": "死亡",
     "身份": "毒王魔宫坐下五代弟子",
-    "阵营": "毒王魔宫"
+    "阵营": "毒王魔宫",
+    "死因": "疑被王林所杀"
   },
   "observations": {
     "性别": [
@@ -56,6 +57,11 @@
         "value": "存活",
         "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
         "seq": 183
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
+        "seq": 186
       }
     ],
     "身份": [
@@ -70,6 +76,14 @@
         "value": "毒王魔宫",
         "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
         "seq": 183
+      }
+    ],
+    "死因": [
+      {
+        "value": "疑被王林所杀",
+        "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
+        "seq": 186,
+        "note": "为掩盖出碎星乱之秘"
       }
     ]
   },
@@ -101,9 +115,9 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+      "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
       "dated": false,
-      "seq": 183
+      "seq": 186
     },
     "身份": {
       "asOf": null,
@@ -116,12 +130,20 @@
       "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
       "dated": false,
       "seq": 183
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
+      "dated": false,
+      "seq": 186,
+      "note": "为掩盖出碎星乱之秘"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng"
+    "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+    "plot.xianni-ch186-187-two-hundred-years-silence"
   ],
-  "updatedAt": "2026-07-07T11:38:30.309Z"
+  "updatedAt": "2026-07-07T11:50:02.175Z"
 }

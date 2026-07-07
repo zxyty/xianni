@@ -5,17 +5,20 @@
   "aliases": [
     "岐黄门传人云妃",
     "墨云",
-    "岐黄门遗徒墨云"
+    "岐黄门遗徒墨云",
+    "云妃师妹"
   ],
   "summary": "岐黄门余脉，曾为魔宫宫主侍妾，携岐黄门丹方玉简逃出，被钱昆追杀。",
   "attributes": {
     "性别": "女",
     "小阶段": "结丹初期",
-    "身份": "魔宫宫主侍妾、岐黄门遗徒",
+    "身份": "魔宫宫主侍妾、岐黄门遗徒、岐黄门女修、魔宫处理修魔海事务者、王林引路人/受制者",
     "外貌": "青纱红底衣裤、腰肢纤细、颇有姿色",
     "阵营": "岐黄门",
     "存殁": "存活",
-    "道号": "墨云"
+    "道号": "墨云",
+    "出身地": "麒麟城",
+    "性格": "冰雪聪明、果断求生"
   },
   "observations": {
     "性别": [
@@ -43,6 +46,22 @@
         "value": "岐黄门遗徒",
         "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
         "seq": 183
+      },
+      {
+        "value": "岐黄门女修",
+        "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
+        "seq": 186
+      },
+      {
+        "value": "魔宫处理修魔海事务者",
+        "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
+        "seq": 186
+      },
+      {
+        "value": "王林引路人/受制者",
+        "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
+        "seq": 186,
+        "note": "被王林禁制"
       }
     ],
     "外貌": [
@@ -63,7 +82,8 @@
       {
         "value": "存活",
         "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
-        "seq": 183
+        "seq": 183,
+        "note": "被王林三日一发的禁制操控"
       }
     ],
     "道号": [
@@ -71,6 +91,20 @@
         "value": "墨云",
         "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
         "seq": 183
+      }
+    ],
+    "出身地": [
+      {
+        "value": "麒麟城",
+        "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
+        "seq": 186
+      }
+    ],
+    "性格": [
+      {
+        "value": "冰雪聪明、果断求生",
+        "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
+        "seq": 186
       }
     ]
   },
@@ -111,19 +145,33 @@
       "asOf": null,
       "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
       "dated": false,
-      "seq": 183
+      "seq": 183,
+      "note": "被王林三日一发的禁制操控"
     },
     "道号": {
       "asOf": null,
       "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
       "dated": false,
       "seq": 183
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
+      "dated": false,
+      "seq": 186
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
+      "dated": false,
+      "seq": 186
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng"
+    "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+    "plot.xianni-ch186-187-two-hundred-years-silence"
   ],
-  "updatedAt": "2026-07-07T11:38:30.309Z"
+  "updatedAt": "2026-07-07T11:50:02.200Z"
 }

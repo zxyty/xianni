@@ -7,7 +7,8 @@
   "attributes": {
     "所属界面": "修魔海",
     "理念": "丹道",
-    "据点": "修魔海"
+    "据点": "修魔海",
+    "镇派之宝": "记录珍贵丹方的玉简"
   },
   "observations": {
     "所属界面": [
@@ -30,6 +31,13 @@
         "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
         "seq": 183
       }
+    ],
+    "镇派之宝": [
+      {
+        "value": "记录珍贵丹方的玉简",
+        "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
+        "seq": 186
+      }
     ]
   },
   "firstSeq": 183,
@@ -51,12 +59,19 @@
       "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
       "dated": false,
       "seq": 183
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
+      "dated": false,
+      "seq": 186
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng"
+    "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+    "plot.xianni-ch186-187-two-hundred-years-silence"
   ],
-  "updatedAt": "2026-07-07T11:38:30.314Z"
+  "updatedAt": "2026-07-07T11:50:02.188Z"
 }
