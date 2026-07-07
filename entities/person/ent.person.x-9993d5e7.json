@@ -12,11 +12,13 @@
   "summary": "本名古岚，修魔内海出名大魔头，貌似正道实则心狠手辣的疯子；修为略高于端木极，见面即偷袭王林。",
   "attributes": {
     "称号": "古帝",
-    "外貌": "高瘦、下巴三缕白发、仙风之气、持拂尘",
-    "性格": "心狠手辣/疯子",
+    "外貌": "手拿拂尘、头戴高冠、仙风道骨",
+    "性格": "心狠手辣/疯子、阴沉、心机极深",
     "阵营": "六欲魔君所率魔修队伍",
     "身份": "大魔头、碎星乱封印布置者、随队修士",
-    "本命法宝": "一大一小两只玉镯、巨钟"
+    "本命法宝": "一大一小两只玉镯、巨钟",
+    "小阶段": "化神中期",
+    "标志特征": "善用玄冰之法"
   },
   "observations": {
     "称号": [
@@ -32,6 +34,11 @@
         "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
         "seq": 151,
         "note": "貌似正道实则狰狞"
+      },
+      {
+        "value": "手拿拂尘、头戴高冠、仙风道骨",
+        "docId": "plot.xianni-ch179-180-jinshan-study-restrictions",
+        "seq": 164
       }
     ],
     "性格": [
@@ -39,6 +46,16 @@
         "value": "心狠手辣/疯子",
         "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
         "seq": 151
+      },
+      {
+        "value": "阴沉",
+        "docId": "plot.xianni-ch179-180-jinshan-study-restrictions",
+        "seq": 164
+      },
+      {
+        "value": "心机极深",
+        "docId": "plot.xianni-ch179-180-jinshan-study-restrictions",
+        "seq": 164
       }
     ],
     "阵营": [
@@ -82,6 +99,20 @@
         "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
         "seq": 151
       }
+    ],
+    "小阶段": [
+      {
+        "value": "化神中期",
+        "docId": "plot.xianni-ch179-180-jinshan-study-restrictions",
+        "seq": 164
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "善用玄冰之法",
+        "docId": "plot.xianni-ch179-180-jinshan-study-restrictions",
+        "seq": 164
+      }
     ]
   },
   "firstSeq": 151,
@@ -94,10 +125,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
+      "docId": "plot.xianni-ch179-180-jinshan-study-restrictions",
       "dated": false,
-      "seq": 151,
-      "note": "貌似正道实则狰狞"
+      "seq": 164
     },
     "性格": {
       "asOf": null,
@@ -123,13 +153,26 @@
       "dated": false,
       "seq": 151,
       "note": "大者略红、小者略灰"
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch179-180-jinshan-study-restrictions",
+      "dated": false,
+      "seq": 164
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch179-180-jinshan-study-restrictions",
+      "dated": false,
+      "seq": 164
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
-    "plot.xianni-ch155-157-tuoli-duiwu-quisui"
+    "plot.xianni-ch155-157-tuoli-duiwu-quisui",
+    "plot.xianni-ch179-180-jinshan-study-restrictions"
   ],
-  "updatedAt": "2026-07-06T16:00:48.961Z"
+  "updatedAt": "2026-07-07T02:42:08.956Z"
 }
