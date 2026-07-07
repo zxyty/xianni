@@ -10,10 +10,10 @@
   ],
   "summary": "域外通道之外的厮杀战场，每百年清理一次，强者云集、生死一瞬。",
   "attributes": {
-    "类型": "战场、战场/资格赛场、秘境·战场、充满裂缝的空间、战场/域外之地、战场/秘境、战场/界外、古战场/域外空间、域外战场（星空战场）、独立空间战场、秘境/战场空间、混乱之地、百年一次的域外战场、战场/试炼",
+    "类型": "战场、战场/资格赛场、秘境·战场、充满裂缝的空间、战场/域外之地、战场/秘境、战场/界外、古战场/域外空间、域外战场（星空战场）、独立空间战场、秘境/战场空间、混乱之地、百年一次的域外战场、战场/试炼、试炼战场、多关卡战场空间",
     "危险度": "极高、极高（罡风熔化神、裂痕吞婴变）、极高（去者十存一）、高（生还率约30%）、极高（濒临崩溃、遍布裂缝）、极高（濒临空间崩溃，禁止四五级修真国修士进入）、极高（坍塌与吞魂/游魂）、极高（坍塌中，游魂遍地）",
     "所属势力": "联盟",
-    "规模": "赵国名额三个",
+    "规模": "多关卡",
     "所属界面": "赵国修真界",
     "特产": "材料、法宝、神识（征缴单前十的至珍之物）",
     "守护": "修真联盟定期加固",
@@ -90,6 +90,16 @@
         "value": "战场/试炼",
         "docId": "plot.xianni-ch173-second-demon-head",
         "seq": 158
+      },
+      {
+        "value": "试炼战场",
+        "docId": "plot.xianni-ch176-duoqu-fengqun",
+        "seq": 161
+      },
+      {
+        "value": "多关卡战场空间",
+        "docId": "plot.xianni-ch176-duoqu-fengqun",
+        "seq": 161
       }
     ],
     "危险度": [
@@ -147,6 +157,11 @@
         "docId": "lore.xianni-ch105-jijing-realm",
         "seq": 90,
         "note": "需资格令牌进入"
+      },
+      {
+        "value": "多关卡",
+        "docId": "plot.xianni-ch176-duoqu-fengqun",
+        "seq": 161
       }
     ],
     "所属界面": [
@@ -210,10 +225,9 @@
     },
     "规模": {
       "asOf": null,
-      "docId": "lore.xianni-ch105-jijing-realm",
+      "docId": "plot.xianni-ch176-duoqu-fengqun",
       "dated": false,
-      "seq": 90,
-      "note": "需资格令牌进入"
+      "seq": 161
     },
     "所属界面": {
       "asOf": null,
@@ -251,7 +265,8 @@
     "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
     "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
     "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
-    "plot.xianni-ch173-second-demon-head"
+    "plot.xianni-ch173-second-demon-head",
+    "plot.xianni-ch176-duoqu-fengqun"
   ],
-  "updatedAt": "2026-07-06T16:27:55.075Z"
+  "updatedAt": "2026-07-07T02:39:51.864Z"
 }

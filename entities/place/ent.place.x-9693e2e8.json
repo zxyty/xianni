@@ -10,7 +10,8 @@
   "summary": "五行之地中通体黑石、吸光不反照、高度沿直线递增的塔；土行黑塔共三层，第三层桌面有前人留字，可供避风与查探痕迹。",
   "attributes": {
     "类型": "塔",
-    "上级区域": "飓风群"
+    "上级区域": "飓风群",
+    "所属势力": "无"
   },
   "observations": {
     "类型": [
@@ -36,6 +37,13 @@
         "docId": "plot.xianni-ch173-second-demon-head",
         "seq": 158
       }
+    ],
+    "所属势力": [
+      {
+        "value": "无",
+        "docId": "plot.xianni-ch176-duoqu-fengqun",
+        "seq": 161
+      }
     ]
   },
   "firstSeq": 155,
@@ -51,13 +59,20 @@
       "docId": "plot.xianni-ch173-second-demon-head",
       "dated": false,
       "seq": 158
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch176-duoqu-fengqun",
+      "dated": false,
+      "seq": 161
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch155-157-tuoli-duiwu-quisui",
-    "plot.xianni-ch173-second-demon-head"
+    "plot.xianni-ch173-second-demon-head",
+    "plot.xianni-ch176-duoqu-fengqun"
   ],
-  "updatedAt": "2026-07-06T16:27:55.062Z"
+  "updatedAt": "2026-07-07T02:39:51.839Z"
 }

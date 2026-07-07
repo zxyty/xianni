@@ -8,19 +8,23 @@
     "孟姓驼子",
     "猛驼子",
     "孟",
-    "驼峰老者"
+    "驼峰老者",
+    "毒王",
+    "孟驼子师父"
   ],
   "summary": "绿袍矮小驼背、满脸脓包擅用毒的魔君，坐骑碧绿巨蟾；曾被四级修真国巨魔族十大战魔追杀三百年反将其尽数毒死。",
   "attributes": {
     "外貌": "绿袍矮小、后背高鼓、三角眼尖嘴猴腮、满脸蟾蜍状脓包恶臭、驼背、脸生脓肿、声音沙哑",
-    "标志特征": "擅用毒、背驼峰、脸生脓包、肩伏蟾蜍、善毒功、肩负蟾蜍、瞒天而修；千年前同来者仅四人幸存、驼峰、三角形瞳孔、喷绿雾/毒血",
+    "标志特征": "擅用毒、背驼峰、脸生脓包、肩伏蟾蜍、善毒功、肩负蟾蜍、瞒天而修；千年前同来者仅四人幸存、驼峰、三角形瞳孔、喷绿雾/毒血、一身恶臭（毒身）",
     "阵营": "修魔海",
-    "身份": "碎星乱探险者之一、用毒高手、散修/同行修士、闯关高手、散修",
-    "存殁": "生死不明、在世（本章行动）、存活、在场、重伤濒死",
+    "身份": "碎星乱探险者之一、用毒高手、散修/同行修士、闯关高手、散修、炼丹炼毒修士、散修（原某三级修真国掌门弟子）",
+    "存殁": "生死不明、在世（本章行动）、存活、在场、重伤濒死、死亡",
     "小阶段": "化神中期",
     "称号": "修魔海第一毒",
     "性格": "狠毒",
-    "本命法宝": "绿鼎"
+    "本命法宝": "绿鼎、绿色小鼎、毒王鼎",
+    "结局": "被兽王擒获、本命法宝碎裂、眉心被金色手指骨点入",
+    "死因": "困于黑塔，多次催动法宝自爆突围失败而亡、第155章身死"
   },
   "observations": {
     "外貌": [
@@ -95,6 +99,11 @@
         "value": "喷绿雾/毒血",
         "docId": "plot.xianni-ch173-second-demon-head",
         "seq": 158
+      },
+      {
+        "value": "一身恶臭（毒身）",
+        "docId": "plot.xianni-ch176-duoqu-fengqun",
+        "seq": 161
       }
     ],
     "阵营": [
@@ -139,6 +148,16 @@
         "value": "散修",
         "docId": "plot.xianni-ch173-second-demon-head",
         "seq": 158
+      },
+      {
+        "value": "炼丹炼毒修士",
+        "docId": "plot.xianni-ch176-duoqu-fengqun",
+        "seq": 161
+      },
+      {
+        "value": "散修（原某三级修真国掌门弟子）",
+        "docId": "plot.xianni-ch176-duoqu-fengqun",
+        "seq": 161
       }
     ],
     "存殁": [
@@ -170,6 +189,11 @@
         "docId": "plot.xianni-ch173-second-demon-head",
         "seq": 158,
         "note": "本片段被兽王声波击中骨肉分离、储物袋被夺；据世界状态须知第155章死亡"
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch176-duoqu-fengqun",
+        "seq": 161
       }
     ],
     "小阶段": [
@@ -204,6 +228,36 @@
         "value": "绿鼎",
         "docId": "plot.xianni-ch173-second-demon-head",
         "seq": 158
+      },
+      {
+        "value": "绿色小鼎",
+        "docId": "plot.xianni-ch176-duoqu-fengqun",
+        "seq": 161
+      },
+      {
+        "value": "毒王鼎",
+        "docId": "plot.xianni-ch176-duoqu-fengqun",
+        "seq": 161
+      }
+    ],
+    "结局": [
+      {
+        "value": "被兽王擒获、本命法宝碎裂、眉心被金色手指骨点入",
+        "docId": "plot.xianni-ch176-duoqu-fengqun",
+        "seq": 161,
+        "note": "世界状态须知记其155章已死，本片段活跃在场，存疑"
+      }
+    ],
+    "死因": [
+      {
+        "value": "困于黑塔，多次催动法宝自爆突围失败而亡",
+        "docId": "plot.xianni-ch176-duoqu-fengqun",
+        "seq": 161
+      },
+      {
+        "value": "第155章身死",
+        "docId": "plot.xianni-ch176-duoqu-fengqun",
+        "seq": 161
       }
     ]
   },
@@ -263,6 +317,19 @@
       "docId": "plot.xianni-ch173-second-demon-head",
       "dated": false,
       "seq": 158
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch176-duoqu-fengqun",
+      "dated": false,
+      "seq": 161,
+      "note": "世界状态须知记其155章已死，本片段活跃在场，存疑"
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch176-duoqu-fengqun",
+      "dated": false,
+      "seq": 161
     }
   },
   "contested": false,
@@ -270,7 +337,8 @@
   "docs": [
     "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
     "plot.xianni-ch155-157-tuoli-duiwu-quisui",
-    "plot.xianni-ch173-second-demon-head"
+    "plot.xianni-ch173-second-demon-head",
+    "plot.xianni-ch176-duoqu-fengqun"
   ],
-  "updatedAt": "2026-07-06T16:27:55.066Z"
+  "updatedAt": "2026-07-07T02:39:51.847Z"
 }

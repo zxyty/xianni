@@ -4,13 +4,15 @@
   "name": "漩涡",
   "aliases": [
     "巨大漩涡",
-    "锥形石块终点漩涡"
+    "锥形石块终点漩涡",
+    "半空巨大漩涡",
+    "土行之地漩涡"
   ],
   "summary": "锥形石块旋涡状攀升的终点巨型漩涡，为进入第一关的通道；冲入后依次序随机落入五行之地某一环境。",
   "attributes": {
-    "类型": "闯关传送漩涡",
-    "两端": "石块虚无空间、五行之地/第一关",
-    "可通行境界": "结丹期以上（需能自保）"
+    "类型": "空间漩涡通道",
+    "两端": "石块虚无空间、五行之地/第一关、第一关/第二关",
+    "可通行境界": "需冲入"
   },
   "observations": {
     "类型": [
@@ -18,6 +20,11 @@
         "value": "闯关传送漩涡",
         "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
         "seq": 155
+      },
+      {
+        "value": "空间漩涡通道",
+        "docId": "plot.xianni-ch176-duoqu-fengqun",
+        "seq": 161
       }
     ],
     "两端": [
@@ -30,6 +37,11 @@
         "value": "五行之地/第一关",
         "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
         "seq": 155
+      },
+      {
+        "value": "第一关/第二关",
+        "docId": "plot.xianni-ch176-duoqu-fengqun",
+        "seq": 161
       }
     ],
     "可通行境界": [
@@ -37,6 +49,12 @@
         "value": "结丹期以上（需能自保）",
         "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
         "seq": 155
+      },
+      {
+        "value": "需冲入",
+        "docId": "plot.xianni-ch176-duoqu-fengqun",
+        "seq": 161,
+        "note": "青龙光圈可裹物同入"
       }
     ]
   },
@@ -44,9 +62,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
+      "docId": "plot.xianni-ch176-duoqu-fengqun",
       "dated": false,
-      "seq": 155
+      "seq": 161
     },
     "两端": {
       "asOf": null,
@@ -56,15 +74,17 @@
     },
     "可通行境界": {
       "asOf": null,
-      "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
+      "docId": "plot.xianni-ch176-duoqu-fengqun",
       "dated": false,
-      "seq": 155
+      "seq": 161,
+      "note": "青龙光圈可裹物同入"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch155-157-tuoli-duiwu-quisui"
+    "plot.xianni-ch155-157-tuoli-duiwu-quisui",
+    "plot.xianni-ch176-duoqu-fengqun"
   ],
-  "updatedAt": "2026-07-06T16:00:48.989Z"
+  "updatedAt": "2026-07-07T02:39:51.831Z"
 }

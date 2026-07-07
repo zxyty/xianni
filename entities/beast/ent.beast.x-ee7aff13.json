@@ -3,13 +3,15 @@
   "type": "beast",
   "name": "兽王",
   "aliases": [
-    "巨大飞兽"
+    "巨大飞兽",
+    "通天飓风兽王",
+    "飓风兽王"
   ],
   "summary": "土行之地飓风之王内约三丈的巨兽，利嘴喷波纹可裂空间，头部隐露半根金色手指骨。",
   "attributes": {
-    "栖息地": "土行之地飓风",
-    "能力": "利嘴喷裂空间波纹",
-    "外形": "约三丈飞兽，头部金光内含金色手指骨"
+    "栖息地": "域外战场第一关土行之地",
+    "能力": "利嘴喷裂空间波纹、统御飓风群、半根金色手指骨点眉心",
+    "外形": "三丈多高身体"
   },
   "observations": {
     "栖息地": [
@@ -17,6 +19,11 @@
         "value": "土行之地飓风",
         "docId": "plot.xianni-ch173-second-demon-head",
         "seq": 158
+      },
+      {
+        "value": "域外战场第一关土行之地",
+        "docId": "plot.xianni-ch176-duoqu-fengqun",
+        "seq": 161
       }
     ],
     "能力": [
@@ -24,6 +31,16 @@
         "value": "利嘴喷裂空间波纹",
         "docId": "plot.xianni-ch173-second-demon-head",
         "seq": 158
+      },
+      {
+        "value": "统御飓风群",
+        "docId": "plot.xianni-ch176-duoqu-fengqun",
+        "seq": 161
+      },
+      {
+        "value": "半根金色手指骨点眉心",
+        "docId": "plot.xianni-ch176-duoqu-fengqun",
+        "seq": 161
       }
     ],
     "外形": [
@@ -31,6 +48,11 @@
         "value": "约三丈飞兽，头部金光内含金色手指骨",
         "docId": "plot.xianni-ch173-second-demon-head",
         "seq": 158
+      },
+      {
+        "value": "三丈多高身体",
+        "docId": "plot.xianni-ch176-duoqu-fengqun",
+        "seq": 161
       }
     ]
   },
@@ -38,9 +60,9 @@
   "attrProvenance": {
     "栖息地": {
       "asOf": null,
-      "docId": "plot.xianni-ch173-second-demon-head",
+      "docId": "plot.xianni-ch176-duoqu-fengqun",
       "dated": false,
-      "seq": 158
+      "seq": 161
     },
     "能力": {
       "asOf": null,
@@ -50,15 +72,16 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch173-second-demon-head",
+      "docId": "plot.xianni-ch176-duoqu-fengqun",
       "dated": false,
-      "seq": 158
+      "seq": 161
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch173-second-demon-head"
+    "plot.xianni-ch173-second-demon-head",
+    "plot.xianni-ch176-duoqu-fengqun"
   ],
-  "updatedAt": "2026-07-06T16:27:55.073Z"
+  "updatedAt": "2026-07-07T02:39:51.827Z"
 }

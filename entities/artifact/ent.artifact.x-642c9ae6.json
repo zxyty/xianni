@@ -4,14 +4,17 @@
   "name": "绿鼎",
   "aliases": [
     "绿色小鼎",
-    "四脚小鼎"
+    "四脚小鼎",
+    "碎绿鼎"
   ],
   "summary": "孟驼子的本命法宝，喷浓密绿气，可感染并引爆神识，硬抗神识长枪后一碎为二。",
   "attributes": {
     "持有者": "孟驼子",
-    "能力": "喷绿气抗击、绿芒感染引爆神识",
-    "五行属性": "木/绿",
-    "外形": "四脚绿色小鼎"
+    "能力": "喷绿气抗击、绿芒感染引爆神识、含毒、绿雾灭神识",
+    "五行属性": "毒/木（绿）",
+    "外形": "碎为两半的绿色小鼎",
+    "品阶": "化神期本命法宝",
+    "来历": "夺自孟驼子"
   },
   "observations": {
     "持有者": [
@@ -31,6 +34,16 @@
         "value": "绿芒感染引爆神识",
         "docId": "plot.xianni-ch173-second-demon-head",
         "seq": 158
+      },
+      {
+        "value": "含毒",
+        "docId": "plot.xianni-ch176-duoqu-fengqun",
+        "seq": 161
+      },
+      {
+        "value": "绿雾灭神识",
+        "docId": "plot.xianni-ch176-duoqu-fengqun",
+        "seq": 161
       }
     ],
     "五行属性": [
@@ -38,6 +51,11 @@
         "value": "木/绿",
         "docId": "plot.xianni-ch173-second-demon-head",
         "seq": 158
+      },
+      {
+        "value": "毒/木（绿）",
+        "docId": "plot.xianni-ch176-duoqu-fengqun",
+        "seq": 161
       }
     ],
     "外形": [
@@ -45,6 +63,25 @@
         "value": "四脚绿色小鼎",
         "docId": "plot.xianni-ch173-second-demon-head",
         "seq": 158
+      },
+      {
+        "value": "碎为两半的绿色小鼎",
+        "docId": "plot.xianni-ch176-duoqu-fengqun",
+        "seq": 161
+      }
+    ],
+    "品阶": [
+      {
+        "value": "化神期本命法宝",
+        "docId": "plot.xianni-ch176-duoqu-fengqun",
+        "seq": 161
+      }
+    ],
+    "来历": [
+      {
+        "value": "夺自孟驼子",
+        "docId": "plot.xianni-ch176-duoqu-fengqun",
+        "seq": 161
       }
     ]
   },
@@ -64,21 +101,34 @@
     },
     "五行属性": {
       "asOf": null,
-      "docId": "plot.xianni-ch173-second-demon-head",
+      "docId": "plot.xianni-ch176-duoqu-fengqun",
       "dated": false,
-      "seq": 158
+      "seq": 161
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch173-second-demon-head",
+      "docId": "plot.xianni-ch176-duoqu-fengqun",
       "dated": false,
-      "seq": 158
+      "seq": 161
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-ch176-duoqu-fengqun",
+      "dated": false,
+      "seq": 161
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch176-duoqu-fengqun",
+      "dated": false,
+      "seq": 161
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch173-second-demon-head"
+    "plot.xianni-ch173-second-demon-head",
+    "plot.xianni-ch176-duoqu-fengqun"
   ],
-  "updatedAt": "2026-07-06T16:27:55.068Z"
+  "updatedAt": "2026-07-07T02:39:51.841Z"
 }
