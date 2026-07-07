@@ -5,14 +5,17 @@
   "aliases": [
     "古神涂司",
     "吉神",
-    "禁山第四位大领悟者授予者"
+    "禁山第四位大领悟者授予者",
+    "吉神涂司",
+    "远古修士涂司"
   ],
   "summary": "古神的远古分身显形，主宰禁山第二关，授予王林领悟者名号与禁幡制作玉简。",
   "attributes": {
-    "身份": "古神分身",
+    "身份": "远古修士",
     "外貌": "顶天立地的巨大虚幻之影，双光球为眼",
     "称号": "古神",
-    "存殁": "死亡"
+    "存殁": "死亡",
+    "标志特征": "死后神识分裂为六种欲念"
   },
   "observations": {
     "身份": [
@@ -21,6 +24,11 @@
         "docId": "plot.xianni-ch181-jinzhi-baofa",
         "seq": 166,
         "note": "本体沉睡，此为远古约定下的分身显形"
+      },
+      {
+        "value": "远古修士",
+        "docId": "plot.xianni-ch185-blood-sea-lord",
+        "seq": 170
       }
     ],
     "外貌": [
@@ -45,16 +53,22 @@
         "seq": 168,
         "note": "当年已死，死因诡异难明"
       }
+    ],
+    "标志特征": [
+      {
+        "value": "死后神识分裂为六种欲念",
+        "docId": "plot.xianni-ch185-blood-sea-lord",
+        "seq": 170
+      }
     ]
   },
   "firstSeq": 166,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch181-jinzhi-baofa",
+      "docId": "plot.xianni-ch185-blood-sea-lord",
       "dated": false,
-      "seq": 166,
-      "note": "本体沉睡，此为远古约定下的分身显形"
+      "seq": 170
     },
     "外貌": {
       "asOf": null,
@@ -75,13 +89,20 @@
       "dated": false,
       "seq": 168,
       "note": "当年已死，死因诡异难明"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch185-blood-sea-lord",
+      "dated": false,
+      "seq": 170
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch181-jinzhi-baofa",
-    "plot.xianni-ch183-yibian-chushi"
+    "plot.xianni-ch183-yibian-chushi",
+    "plot.xianni-ch185-blood-sea-lord"
   ],
-  "updatedAt": "2026-07-07T04:12:19.232Z"
+  "updatedAt": "2026-07-07T04:36:31.120Z"
 }
