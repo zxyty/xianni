@@ -7,10 +7,11 @@
   ],
   "summary": "六欲魔君之师，千年前布下可跨越百丈禁制的漩涡通道之术。",
   "attributes": {
-    "称号": "天魔散人",
-    "身份": "六欲魔君的师傅",
-    "存殁": "死亡",
-    "死因": "古怪神识攻击"
+    "称号": "天魔散人、妖神、玄天魔欲诀创始人",
+    "身份": "六欲魔君的师傅、六欲魔君之师、玄天魔欲诀传授者、追击者、六欲魔君之师父",
+    "存殁": "此片段存活",
+    "死因": "古怪神识攻击",
+    "外貌": "身高十丈、暗紫骨刺铠甲、黑发无风自动、相貌英俊妖邪"
   },
   "observations": {
     "称号": [
@@ -18,6 +19,16 @@
         "value": "天魔散人",
         "docId": "plot.xianni-ch181-jinzhi-baofa",
         "seq": 166
+      },
+      {
+        "value": "妖神",
+        "docId": "plot.xianni-ch185-blood-sea-lord",
+        "seq": 170
+      },
+      {
+        "value": "玄天魔欲诀创始人",
+        "docId": "plot.xianni-ch185-blood-sea-lord",
+        "seq": 170
       }
     ],
     "身份": [
@@ -25,6 +36,21 @@
         "value": "六欲魔君的师傅",
         "docId": "plot.xianni-ch183-yibian-chushi",
         "seq": 168
+      },
+      {
+        "value": "六欲魔君之师、玄天魔欲诀传授者",
+        "docId": "plot.xianni-ch185-blood-sea-lord",
+        "seq": 170
+      },
+      {
+        "value": "追击者",
+        "docId": "plot.xianni-ch185-blood-sea-lord",
+        "seq": 170
+      },
+      {
+        "value": "六欲魔君之师父",
+        "docId": "plot.xianni-ch185-blood-sea-lord",
+        "seq": 170
       }
     ],
     "存殁": [
@@ -33,6 +59,12 @@
         "docId": "plot.xianni-ch183-yibian-chushi",
         "seq": 168,
         "note": "千年前开通道时被古怪神识秒杀；却现身血色世界"
+      },
+      {
+        "value": "此片段存活",
+        "docId": "plot.xianni-ch185-blood-sea-lord",
+        "seq": 170,
+        "note": "世界状态须知载其于第168章死亡"
       }
     ],
     "死因": [
@@ -40,6 +72,13 @@
         "value": "古怪神识攻击",
         "docId": "plot.xianni-ch183-yibian-chushi",
         "seq": 168
+      }
+    ],
+    "外貌": [
+      {
+        "value": "身高十丈、暗紫骨刺铠甲、黑发无风自动、相貌英俊妖邪",
+        "docId": "plot.xianni-ch185-blood-sea-lord",
+        "seq": 170
       }
     ]
   },
@@ -59,23 +98,30 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch183-yibian-chushi",
+      "docId": "plot.xianni-ch185-blood-sea-lord",
       "dated": false,
-      "seq": 168,
-      "note": "千年前开通道时被古怪神识秒杀；却现身血色世界"
+      "seq": 170,
+      "note": "世界状态须知载其于第168章死亡"
     },
     "死因": {
       "asOf": null,
       "docId": "plot.xianni-ch183-yibian-chushi",
       "dated": false,
       "seq": 168
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch185-blood-sea-lord",
+      "dated": false,
+      "seq": 170
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch181-jinzhi-baofa",
-    "plot.xianni-ch183-yibian-chushi"
+    "plot.xianni-ch183-yibian-chushi",
+    "plot.xianni-ch185-blood-sea-lord"
   ],
-  "updatedAt": "2026-07-07T04:12:19.256Z"
+  "updatedAt": "2026-07-07T04:36:31.120Z"
 }

@@ -6,8 +6,8 @@
   "summary": "制作禁幡的必需材料，不产自任何星球，产自星空之中；古神体内识海存有数颗，每个领悟者可得一块。",
   "attributes": {
     "类型": "石材",
-    "用途": "制作禁幡的必需材料",
-    "产地": "星空之中（不产自任何星球）；古神体内识海亦有数颗",
+    "用途": "炼制禁幡主料",
+    "产地": "古神识海",
     "稀有度": "极珍贵"
   },
   "observations": {
@@ -23,6 +23,11 @@
         "value": "制作禁幡的必需材料",
         "docId": "plot.xianni-ch181-jinzhi-baofa",
         "seq": 166
+      },
+      {
+        "value": "炼制禁幡主料",
+        "docId": "plot.xianni-ch185-blood-sea-lord",
+        "seq": 170
       }
     ],
     "产地": [
@@ -30,6 +35,11 @@
         "value": "星空之中（不产自任何星球）；古神体内识海亦有数颗",
         "docId": "plot.xianni-ch181-jinzhi-baofa",
         "seq": 166
+      },
+      {
+        "value": "古神识海",
+        "docId": "plot.xianni-ch185-blood-sea-lord",
+        "seq": 170
       }
     ],
     "稀有度": [
@@ -50,15 +60,15 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch181-jinzhi-baofa",
+      "docId": "plot.xianni-ch185-blood-sea-lord",
       "dated": false,
-      "seq": 166
+      "seq": 170
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.xianni-ch181-jinzhi-baofa",
+      "docId": "plot.xianni-ch185-blood-sea-lord",
       "dated": false,
-      "seq": 166
+      "seq": 170
     },
     "稀有度": {
       "asOf": null,
@@ -70,7 +80,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch181-jinzhi-baofa"
+    "plot.xianni-ch181-jinzhi-baofa",
+    "plot.xianni-ch185-blood-sea-lord"
   ],
-  "updatedAt": "2026-07-07T02:54:01.420Z"
+  "updatedAt": "2026-07-07T04:36:31.113Z"
 }

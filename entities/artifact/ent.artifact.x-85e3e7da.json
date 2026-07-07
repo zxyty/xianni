@@ -9,7 +9,8 @@
   "attributes": {
     "持有者": "王林",
     "五行属性": "毒",
-    "外形": "黑色飞剑"
+    "外形": "黑色",
+    "能力": "折断刺、放毒"
   },
   "observations": {
     "持有者": [
@@ -31,6 +32,18 @@
         "value": "黑色飞剑",
         "docId": "plot.xianni-ch179-180-jinshan-study-restrictions",
         "seq": 164
+      },
+      {
+        "value": "黑色",
+        "docId": "plot.xianni-ch185-blood-sea-lord",
+        "seq": 170
+      }
+    ],
+    "能力": [
+      {
+        "value": "折断刺、放毒",
+        "docId": "plot.xianni-ch185-blood-sea-lord",
+        "seq": 170
       }
     ]
   },
@@ -50,15 +63,22 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch179-180-jinshan-study-restrictions",
+      "docId": "plot.xianni-ch185-blood-sea-lord",
       "dated": false,
-      "seq": 164
+      "seq": 170
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch185-blood-sea-lord",
+      "dated": false,
+      "seq": 170
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch179-180-jinshan-study-restrictions"
+    "plot.xianni-ch179-180-jinshan-study-restrictions",
+    "plot.xianni-ch185-blood-sea-lord"
   ],
-  "updatedAt": "2026-07-07T02:42:08.964Z"
+  "updatedAt": "2026-07-07T04:36:31.112Z"
 }

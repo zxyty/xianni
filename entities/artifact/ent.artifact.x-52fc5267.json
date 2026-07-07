@@ -8,8 +8,8 @@
   "summary": "药王鼎仿制品，被孟驼子以冥决炼成毒王鼎；剧毒无解，被王林熔炼取鼎灵。",
   "attributes": {
     "持有者": "孟驼子、王林",
-    "能力": "剧毒无解药",
-    "来历": "药王鼎仿制品",
+    "能力": "至毒",
+    "来历": "孟驼子曾经的本命法宝",
     "外形": "绿色小鼎"
   },
   "observations": {
@@ -30,6 +30,11 @@
         "value": "剧毒无解药",
         "docId": "plot.xianni-ch176-duoqu-fengqun",
         "seq": 161
+      },
+      {
+        "value": "至毒",
+        "docId": "plot.xianni-ch185-blood-sea-lord",
+        "seq": 170
       }
     ],
     "来历": [
@@ -37,6 +42,12 @@
         "value": "药王鼎仿制品",
         "docId": "plot.xianni-ch176-duoqu-fengqun",
         "seq": 161
+      },
+      {
+        "value": "孟驼子曾经的本命法宝",
+        "docId": "plot.xianni-ch185-blood-sea-lord",
+        "seq": 170,
+        "note": "本章仅追述"
       }
     ],
     "外形": [
@@ -57,15 +68,16 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-ch176-duoqu-fengqun",
+      "docId": "plot.xianni-ch185-blood-sea-lord",
       "dated": false,
-      "seq": 161
+      "seq": 170
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch176-duoqu-fengqun",
+      "docId": "plot.xianni-ch185-blood-sea-lord",
       "dated": false,
-      "seq": 161
+      "seq": 170,
+      "note": "本章仅追述"
     },
     "外形": {
       "asOf": null,
@@ -77,7 +89,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch176-duoqu-fengqun"
+    "plot.xianni-ch176-duoqu-fengqun",
+    "plot.xianni-ch185-blood-sea-lord"
   ],
-  "updatedAt": "2026-07-07T02:39:51.848Z"
+  "updatedAt": "2026-07-07T04:36:31.080Z"
 }
