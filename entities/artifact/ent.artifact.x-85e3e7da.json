@@ -3,14 +3,16 @@
   "type": "artifact",
   "name": "黑色毒剑",
   "aliases": [
-    "剧毒飞剑"
+    "剧毒飞剑",
+    "剧毒之剑"
   ],
   "summary": "王林随身飞剑，本章用以斩断化作蜈蚣的灵兽禁制。",
   "attributes": {
     "持有者": "王林",
     "五行属性": "毒",
-    "外形": "黑色",
-    "能力": "折断刺、放毒"
+    "外形": "黑色、造型古怪、遍布分刺",
+    "能力": "剧毒",
+    "禁制": "剑身有一丝裂缝"
   },
   "observations": {
     "持有者": [
@@ -37,6 +39,11 @@
         "value": "黑色",
         "docId": "plot.xianni-ch185-blood-sea-lord",
         "seq": 170
+      },
+      {
+        "value": "黑色、造型古怪、遍布分刺",
+        "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+        "seq": 183
       }
     ],
     "能力": [
@@ -44,6 +51,19 @@
         "value": "折断刺、放毒",
         "docId": "plot.xianni-ch185-blood-sea-lord",
         "seq": 170
+      },
+      {
+        "value": "剧毒",
+        "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+        "seq": 183
+      }
+    ],
+    "禁制": [
+      {
+        "value": "剑身有一丝裂缝",
+        "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+        "seq": 183,
+        "note": "被魔化的孟驼子击中所留"
       }
     ]
   },
@@ -63,22 +83,30 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch185-blood-sea-lord",
+      "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
       "dated": false,
-      "seq": 170
+      "seq": 183
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-ch185-blood-sea-lord",
+      "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
       "dated": false,
-      "seq": 170
+      "seq": 183
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+      "dated": false,
+      "seq": 183,
+      "note": "被魔化的孟驼子击中所留"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch179-180-jinshan-study-restrictions",
-    "plot.xianni-ch185-blood-sea-lord"
+    "plot.xianni-ch185-blood-sea-lord",
+    "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng"
   ],
-  "updatedAt": "2026-07-07T04:36:31.112Z"
+  "updatedAt": "2026-07-07T11:38:30.315Z"
 }

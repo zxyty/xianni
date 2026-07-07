@@ -5,8 +5,9 @@
   "aliases": [],
   "summary": "古神赐予的法宝，玉简记载其制作法：以墨间石为必需材料，刻下九十九万九千九百九十九个禁制而成，威力资讯未明但推测极强。",
   "attributes": {
-    "来历": "第二关所得炼制玉简",
-    "禁制": "需刻九十九万九千九百九十九个禁制"
+    "来历": "以墨间石炼制",
+    "禁制": "需刻九十九万九千九百九十九个禁制",
+    "持有者": "王林"
   },
   "observations": {
     "来历": [
@@ -19,6 +20,11 @@
         "value": "第二关所得炼制玉简",
         "docId": "plot.xianni-ch185-blood-sea-lord",
         "seq": 170
+      },
+      {
+        "value": "以墨间石炼制",
+        "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+        "seq": 183
       }
     ],
     "禁制": [
@@ -27,28 +33,42 @@
         "docId": "plot.xianni-ch181-jinzhi-baofa",
         "seq": 166
       }
+    ],
+    "持有者": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+        "seq": 183
+      }
     ]
   },
   "firstSeq": 166,
   "attrProvenance": {
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch185-blood-sea-lord",
+      "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
       "dated": false,
-      "seq": 170
+      "seq": 183
     },
     "禁制": {
       "asOf": null,
       "docId": "plot.xianni-ch181-jinzhi-baofa",
       "dated": false,
       "seq": 166
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+      "dated": false,
+      "seq": 183
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch181-jinzhi-baofa",
-    "plot.xianni-ch185-blood-sea-lord"
+    "plot.xianni-ch185-blood-sea-lord",
+    "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng"
   ],
-  "updatedAt": "2026-07-07T04:36:31.114Z"
+  "updatedAt": "2026-07-07T11:38:30.298Z"
 }
