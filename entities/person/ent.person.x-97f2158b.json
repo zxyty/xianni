@@ -3,12 +3,14 @@
   "type": "person",
   "name": "老者",
   "aliases": [
-    "黑袍老者·大哥一方"
+    "黑袍老者·大哥一方",
+    "领头老者"
   ],
   "summary": "『大哥』一方首领，交十件封印法器给王林并撕裂缝带众入血海；面对王林平和，对朵目戾冷。",
   "attributes": {
     "称号": "大哥",
-    "身份": "『大哥』一方首领"
+    "身份": "反叛十人之首",
+    "阵营": "反拓森十一人残余"
   },
   "observations": {
     "称号": [
@@ -23,6 +25,18 @@
         "value": "『大哥』一方首领",
         "docId": "plot.xianni-ch191-shenshi-sihai",
         "seq": 176
+      },
+      {
+        "value": "反叛十人之首",
+        "docId": "plot.xianni-ch194-blood-sea-seal-opening",
+        "seq": 179
+      }
+    ],
+    "阵营": [
+      {
+        "value": "反拓森十一人残余",
+        "docId": "plot.xianni-ch194-blood-sea-seal-opening",
+        "seq": 179
       }
     ]
   },
@@ -36,15 +50,22 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch191-shenshi-sihai",
+      "docId": "plot.xianni-ch194-blood-sea-seal-opening",
       "dated": false,
-      "seq": 176
+      "seq": 179
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch194-blood-sea-seal-opening",
+      "dated": false,
+      "seq": 179
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch191-shenshi-sihai"
+    "plot.xianni-ch191-shenshi-sihai",
+    "plot.xianni-ch194-blood-sea-seal-opening"
   ],
-  "updatedAt": "2026-07-07T11:14:57.433Z"
+  "updatedAt": "2026-07-07T11:26:36.816Z"
 }
