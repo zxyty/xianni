@@ -43,3 +43,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-07-07T11:14:57.461Z** `ingest` plot.xianni-ch191-shenshi-sihai — 仙逆 第191章 神识死海——王林闯死海失败，推断红发男子操控魔修寻番魂 · kind=plot asOf=2026-07-07 entities=50 relations=68 src=00176-00178.md
 - **2026-07-07T11:26:36.840Z** `ingest` plot.xianni-ch194-blood-sea-seal-opening — 仙逆 第194章 封印打开：王林吞噬分识助红发男子破血海封印 · kind=plot asOf=2026-07-07 entities=26 relations=50 src=00179-00182.md
 - **2026-07-07T11:38:30.335Z** `ingest` plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng — 仙逆 第183-185章：身体重组·古神涂司忆之传承（古神之地·终） · kind=plot asOf=2026-07-07 entities=31 relations=34 src=00183-00185.md
+- **2026-07-07T11:50:02.230Z** `ingest` plot.xianni-ch186-187-two-hundred-years-silence — 仙逆 第186-187章 二百年·杀人灭口 · kind=plot asOf=2026-07-07 entities=30 relations=31 src=00186-00187.md
