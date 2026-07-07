@@ -3,12 +3,13 @@
   "type": "item",
   "name": "金丹",
   "aliases": [
-    "结丹修士金丹"
+    "结丹修士金丹",
+    "结丹金丹"
   ],
   "summary": "结丹修士体内金丹，被王林吞服炼化以增修为（此为初期金丹）。",
   "attributes": {
-    "类型": "结丹修士本命金丹",
-    "用途": "吞服增修为"
+    "类型": "本命金丹",
+    "用途": "供分识夺取、喂养天劫细丝并壮大修为"
   },
   "observations": {
     "类型": [
@@ -16,6 +17,11 @@
         "value": "结丹修士本命金丹",
         "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
         "seq": 123
+      },
+      {
+        "value": "本命金丹",
+        "docId": "plot.xianni-ch207-killing-for-cores",
+        "seq": 191
       }
     ],
     "用途": [
@@ -23,6 +29,11 @@
         "value": "吞服增修为",
         "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
         "seq": 123
+      },
+      {
+        "value": "供分识夺取、喂养天劫细丝并壮大修为",
+        "docId": "plot.xianni-ch207-killing-for-cores",
+        "seq": 191
       }
     ]
   },
@@ -30,21 +41,22 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+      "docId": "plot.xianni-ch207-killing-for-cores",
       "dated": false,
-      "seq": 123
+      "seq": 191
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+      "docId": "plot.xianni-ch207-killing-for-cores",
       "dated": false,
-      "seq": 123
+      "seq": 191
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch123-125-tianli-dan-huofen-invasion"
+    "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+    "plot.xianni-ch207-killing-for-cores"
   ],
-  "updatedAt": "2026-07-06T12:31:07.441Z"
+  "updatedAt": "2026-07-07T12:22:41.841Z"
 }
