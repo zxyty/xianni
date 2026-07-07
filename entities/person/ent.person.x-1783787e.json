@@ -4,16 +4,20 @@
   "name": "邱四平",
   "aliases": [
     "锦袍中年",
-    "老祖"
+    "老祖",
+    "邱某",
+    "邱道友"
   ],
   "summary": "修魔海内高手，结丹后期大圆满，擅用兽皮小鼓操控黑雾化雾龙魔兵；识得上古禁制，被王林极境神识重创后以黑色木头奇宝护身逃生，抛出『归息中的元婴』诱饵。",
   "attributes": {
-    "小阶段": "结丹后期大圆满",
+    "小阶段": "结丹后期",
     "外貌": "中年，相貌堂堂，身穿锦袍，目光睿智",
-    "标志特征": "兽皮小鼓操控黑雾/紫色查禁石头/黑色木头护身奇宝",
+    "标志特征": "脚下生黑雾",
     "阵营": "修魔海",
     "存殁": "存活",
-    "结局": "本章被王林极境神识重创，以奇宝护身逃走并求生"
+    "结局": "本章被王林极境神识重创，以奇宝护身逃走并求生",
+    "性格": "阴狠、表里不一、拿得起放得下、狡猾、执念深、隐露癫狂",
+    "身份": "散修、上古禁制寻访者"
   },
   "observations": {
     "小阶段": [
@@ -21,6 +25,11 @@
         "value": "结丹后期大圆满",
         "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
         "seq": 188
+      },
+      {
+        "value": "结丹后期",
+        "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
+        "seq": 190
       }
     ],
     "外貌": [
@@ -35,6 +44,11 @@
         "value": "兽皮小鼓操控黑雾/紫色查禁石头/黑色木头护身奇宝",
         "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
         "seq": 188
+      },
+      {
+        "value": "脚下生黑雾",
+        "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
+        "seq": 190
       }
     ],
     "阵营": [
@@ -57,15 +71,39 @@
         "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
         "seq": 188
       }
+    ],
+    "性格": [
+      {
+        "value": "阴狠、表里不一、拿得起放得下",
+        "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
+        "seq": 190
+      },
+      {
+        "value": "狡猾、执念深、隐露癫狂",
+        "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
+        "seq": 190
+      }
+    ],
+    "身份": [
+      {
+        "value": "散修",
+        "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
+        "seq": 190
+      },
+      {
+        "value": "上古禁制寻访者",
+        "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
+        "seq": 190
+      }
     ]
   },
   "firstSeq": 188,
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+      "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
       "dated": false,
-      "seq": 188
+      "seq": 190
     },
     "外貌": {
       "asOf": null,
@@ -75,9 +113,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+      "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
       "dated": false,
-      "seq": 188
+      "seq": 190
     },
     "阵营": {
       "asOf": null,
@@ -96,12 +134,25 @@
       "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
       "dated": false,
       "seq": 188
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
+      "dated": false,
+      "seq": 190
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
+      "dated": false,
+      "seq": 190
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.renfa-ch204-ancient-mirror-forbidden-banner"
+    "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+    "plot.xianni-ch206-guixi-yuanying-qiusiping"
   ],
-  "updatedAt": "2026-07-07T12:03:22.465Z"
+  "updatedAt": "2026-07-07T12:09:47.103Z"
 }

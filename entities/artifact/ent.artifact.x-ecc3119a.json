@@ -4,15 +4,18 @@
   "name": "禁幡",
   "aliases": [
     "禁幅",
-    "白旌"
+    "白旌",
+    "禁旗",
+    "黑色禁幡",
+    "小旗"
   ],
   "summary": "古神赐予的法宝，玉简记载其制作法：以墨间石为必需材料，刻下九十九万九千九百九十九个禁制而成，威力资讯未明但推测极强。",
   "attributes": {
-    "来历": "古神所赐，玉简记载制法、第二关所得炼制玉简、以墨间石炼制、王林自炼、依古神第二关所得玉简『养器』之法炼制",
-    "禁制": "需刻九十九万九千九百九十九个禁制",
+    "来历": "古神所赐，玉简记载制法、第二关所得炼制玉简、以墨间石炼制、王林自炼、依古神第二关所得玉简『养器』之法炼制、王林以墨间石祭炼",
+    "禁制": "九禁制为一组，混合属性",
     "持有者": "王林",
-    "外形": "白色小旗，成功印入禁制处显为黑点/黑斑",
-    "能力": "承载海量禁制；同一禁制最多吸收九次，第十次则先前九个消散",
+    "外形": "白色小旗，成功印入禁制处显为黑点/黑斑、白色小旗、旗面由白变黑、淡金色符号绕杆旋转",
+    "能力": "承载海量禁制；同一禁制最多吸收九次，第十次则先前九个消散、攻击、防御、守护、寻物、困敌",
     "品阶": "九百九十九、九千九百九十九、九万九千九百九十九、九十九万九千九百九十九"
   },
   "observations": {
@@ -41,6 +44,11 @@
         "value": "依古神第二关所得玉简『养器』之法炼制",
         "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
         "seq": 188
+      },
+      {
+        "value": "王林以墨间石祭炼",
+        "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
+        "seq": 190
       }
     ],
     "禁制": [
@@ -48,6 +56,11 @@
         "value": "需刻九十九万九千九百九十九个禁制",
         "docId": "plot.xianni-ch181-jinzhi-baofa",
         "seq": 166
+      },
+      {
+        "value": "九禁制为一组，混合属性",
+        "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
+        "seq": 190
       }
     ],
     "持有者": [
@@ -62,6 +75,16 @@
         "value": "白色小旗，成功印入禁制处显为黑点/黑斑",
         "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
         "seq": 188
+      },
+      {
+        "value": "白色小旗",
+        "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
+        "seq": 190
+      },
+      {
+        "value": "旗面由白变黑、淡金色符号绕杆旋转",
+        "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
+        "seq": 190
       }
     ],
     "能力": [
@@ -69,6 +92,31 @@
         "value": "承载海量禁制；同一禁制最多吸收九次，第十次则先前九个消散",
         "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
         "seq": 188
+      },
+      {
+        "value": "攻击",
+        "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
+        "seq": 190
+      },
+      {
+        "value": "防御",
+        "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
+        "seq": 190
+      },
+      {
+        "value": "守护",
+        "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
+        "seq": 190
+      },
+      {
+        "value": "寻物",
+        "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
+        "seq": 190
+      },
+      {
+        "value": "困敌",
+        "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
+        "seq": 190
       }
     ],
     "品阶": [
@@ -104,9 +152,9 @@
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.xianni-ch181-jinzhi-baofa",
+      "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
       "dated": false,
-      "seq": 166
+      "seq": 190
     },
     "持有者": {
       "asOf": null,
@@ -139,7 +187,8 @@
     "plot.xianni-ch181-jinzhi-baofa",
     "plot.xianni-ch185-blood-sea-lord",
     "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
-    "plot.renfa-ch204-ancient-mirror-forbidden-banner"
+    "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+    "plot.xianni-ch206-guixi-yuanying-qiusiping"
   ],
-  "updatedAt": "2026-07-07T12:03:22.455Z"
+  "updatedAt": "2026-07-07T12:09:47.104Z"
 }
