@@ -4,12 +4,14 @@
   "name": "魂血",
   "aliases": [
     "周紫虹的魂血",
-    "杨雄的魂血"
+    "杨雄的魂血",
+    "极境魂血",
+    "极境神识魂血"
   ],
   "summary": "可用以操控他人的魂血，王林借归还/扣押魂血要挟杨雄、周紫虹。",
   "attributes": {
-    "类型": "限制手段/生死绑定",
-    "用途": "以魂血制人"
+    "类型": "魂血/神识寄托",
+    "用途": "护身、示警"
   },
   "observations": {
     "类型": [
@@ -22,6 +24,11 @@
         "value": "限制手段/生死绑定",
         "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
         "seq": 137
+      },
+      {
+        "value": "魂血/神识寄托",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
       }
     ],
     "用途": [
@@ -34,6 +41,11 @@
         "value": "以魂血制人",
         "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
         "seq": 137
+      },
+      {
+        "value": "护身、示警",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
       }
     ]
   },
@@ -41,22 +53,23 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+      "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
       "dated": false,
-      "seq": 137
+      "seq": 197
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+      "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
       "dated": false,
-      "seq": 137
+      "seq": 197
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
-    "plot.xianni-ch137-141-nandou-shafa-xuelu"
+    "plot.xianni-ch137-141-nandou-shafa-xuelu",
+    "plot.xianni-ch213-yuntianzong-zhoulin-shoutu"
   ],
-  "updatedAt": "2026-07-06T13:16:53.129Z"
+  "updatedAt": "2026-07-07T12:54:31.035Z"
 }

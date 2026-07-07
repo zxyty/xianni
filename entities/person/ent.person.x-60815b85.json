@@ -16,11 +16,11 @@
   "attributes": {
     "阵营": "洛河门炼丹宗、火焚国、洛河门、受制于王林、洛河门/火焚盟",
     "性别": "女",
-    "身份": "洛河门女修、炼丹师、王林同伴/炼丹布阵者、炼丹修士、旧识、洛河门弟子、洛河门女修/炼丹师",
-    "外貌": "肌若凝脂，气若幽兰",
+    "身份": "洛河门女修、炼丹师、王林同伴/炼丹布阵者、炼丹修士、旧识、洛河门弟子、洛河门女修/炼丹师、云天宗炼丹长老、非嫡系弟子",
+    "外貌": "绝世容姿，善抚古筝",
     "性格": "重情、感恩",
-    "小阶段": "筑基期",
-    "出身地": "洛河门",
+    "小阶段": "结丹初期",
+    "出身地": "火焚国",
     "标志特征": "冰雪聪明、炼丹与阵法奇才、擅布阵、炼丹、阵法造诣极高、擅炼丹",
     "存殁": "死亡",
     "寿元": "折损约五年",
@@ -98,6 +98,16 @@
         "value": "洛河门女修/炼丹师",
         "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
         "seq": 142
+      },
+      {
+        "value": "云天宗炼丹长老",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
+      },
+      {
+        "value": "非嫡系弟子",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
       }
     ],
     "外貌": [
@@ -125,6 +135,11 @@
         "value": "肌若凝脂，气若幽兰",
         "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
         "seq": 137
+      },
+      {
+        "value": "绝世容姿，善抚古筝",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
       }
     ],
     "性格": [
@@ -154,6 +169,11 @@
         "value": "筑基期",
         "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
         "seq": 132
+      },
+      {
+        "value": "结丹初期",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
       }
     ],
     "出身地": [
@@ -161,6 +181,11 @@
         "value": "洛河门",
         "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
         "seq": 126
+      },
+      {
+        "value": "火焚国",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
       }
     ],
     "标志特征": [
@@ -194,7 +219,8 @@
       {
         "value": "存活",
         "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
-        "seq": 137
+        "seq": 137,
+        "note": "本片段当面活跃出场；与世界须知第188章死亡记载存疑，以片段为准"
       },
       {
         "value": "存殁未知",
@@ -205,7 +231,8 @@
       {
         "value": "死亡",
         "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
-        "seq": 190
+        "seq": 190,
+        "note": "第188章已死；本章为回忆提及"
       }
     ],
     "寿元": [
@@ -246,9 +273,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+      "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
       "dated": false,
-      "seq": 137
+      "seq": 197
     },
     "性格": {
       "asOf": null,
@@ -258,15 +285,15 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
+      "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
       "dated": false,
-      "seq": 132
+      "seq": 197
     },
     "出身地": {
       "asOf": null,
-      "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
+      "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
       "dated": false,
-      "seq": 126
+      "seq": 197
     },
     "标志特征": {
       "asOf": null,
@@ -278,7 +305,8 @@
       "asOf": null,
       "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
       "dated": false,
-      "seq": 190
+      "seq": 190,
+      "note": "第188章已死；本章为回忆提及"
     },
     "寿元": {
       "asOf": null,
@@ -312,7 +340,8 @@
     "plot.xianni-ch186-187-two-hundred-years-silence",
     "plot.renfa-ch204-ancient-mirror-forbidden-banner",
     "plot.xianni-ch206-guixi-yuanying-qiusiping",
-    "plot.xianni-ch210-212-refine-avatar-yuntian-sect"
+    "plot.xianni-ch210-212-refine-avatar-yuntian-sect",
+    "plot.xianni-ch213-yuntianzong-zhoulin-shoutu"
   ],
-  "updatedAt": "2026-07-07T12:37:01.150Z"
+  "updatedAt": "2026-07-07T12:54:31.031Z"
 }

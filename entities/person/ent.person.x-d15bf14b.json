@@ -5,13 +5,18 @@
   "aliases": [
     "满脸皱纹的老者",
     "坟墓里爬出的老者",
-    "十人之首老者"
+    "十人之首老者",
+    "南苑李长老",
+    "李师祖",
+    "李姓长老"
   ],
   "summary": "恒岳派长老，受掌门全权委托处理王林事，主张破例收为记名弟子。",
   "attributes": {
-    "身份": "十人之首",
-    "外貌": "满脸皱纹、仿佛从坟墓爬出",
-    "性格": "沉稳老练"
+    "身份": "恒岳派长老、十人之首、云天宗南苑长老、五品炼丹师",
+    "外貌": "风华绝代，云天宗第一美女",
+    "性格": "沉稳老练",
+    "出身地": "火焚国洛河门",
+    "称号": "云天宗三位五品炼丹师之一"
   },
   "observations": {
     "身份": [
@@ -24,6 +29,16 @@
         "value": "十人之首",
         "docId": "plot.xianni-ch191-shenshi-sihai",
         "seq": 176
+      },
+      {
+        "value": "云天宗南苑长老",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
+      },
+      {
+        "value": "五品炼丹师",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
       }
     ],
     "外貌": [
@@ -31,6 +46,11 @@
         "value": "满脸皱纹、仿佛从坟墓爬出",
         "docId": "plot.xianni-ch191-shenshi-sihai",
         "seq": 176
+      },
+      {
+        "value": "风华绝代，云天宗第一美女",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
       }
     ],
     "性格": [
@@ -39,34 +59,61 @@
         "docId": "plot.xianni-ch191-shenshi-sihai",
         "seq": 176
       }
+    ],
+    "出身地": [
+      {
+        "value": "火焚国洛河门",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
+      }
+    ],
+    "称号": [
+      {
+        "value": "云天宗三位五品炼丹师之一",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
+      }
     ]
   },
   "firstSeq": 7,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch191-shenshi-sihai",
+      "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
       "dated": false,
-      "seq": 176
+      "seq": 7
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch191-shenshi-sihai",
+      "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
       "dated": false,
-      "seq": 176
+      "seq": 197
     },
     "性格": {
       "asOf": null,
       "docId": "plot.xianni-ch191-shenshi-sihai",
       "dated": false,
       "seq": 176
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+      "dated": false,
+      "seq": 197
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+      "dated": false,
+      "seq": 197
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch07-12-liushu-rumen-shizhu",
-    "plot.xianni-ch191-shenshi-sihai"
+    "plot.xianni-ch191-shenshi-sihai",
+    "plot.xianni-ch213-yuntianzong-zhoulin-shoutu"
   ],
-  "updatedAt": "2026-07-07T11:14:57.423Z"
+  "updatedAt": "2026-07-07T12:54:31.022Z"
 }

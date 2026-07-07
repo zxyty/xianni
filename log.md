@@ -49,3 +49,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-07-07T12:22:41.862Z** `ingest` plot.xianni-ch207-killing-for-cores — 仙逆 第207章 杀人取丹——禁幡引天劫、修魔海化盆地 · kind=plot asOf=2026-07-07 entities=25 relations=30 src=00191-00191.md
 - **2026-07-07T12:34:31.475Z** `ingest` plot.xianni-ch208-sundian-shoutu-guchuansongzhen — 仙逆 第208章 极境的终点——孙癫强收徒·洞府取元婴 · kind=plot asOf=2026-07-07 entities=26 relations=33 src=00192-00193.md
 - **2026-07-07T12:37:01.188Z** `ingest` plot.xianni-ch210-212-refine-avatar-yuntian-sect — 《仙逆》第210-212章 凝练分身·云天宗收徒 · kind=plot asOf=2026-07-07 entities=28 relations=29 src=00194-00196.md
+- **2026-07-07T12:54:31.060Z** `ingest` plot.xianni-ch213-yuntianzong-zhoulin-shoutu — 仙逆 第213章 故人：王林入云天宗，拜周林为师 · kind=plot asOf=2026-07-07 entities=41 relations=52 src=00197-00198.md

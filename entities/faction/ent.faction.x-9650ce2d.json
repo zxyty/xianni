@@ -3,14 +3,19 @@
   "type": "faction",
   "name": "云天宗",
   "aliases": [
-    "Yuntian Sect"
+    "Yuntian Sect",
+    "Yuntianzong",
+    "云天宗门派",
+    "云天宗内院",
+    "云天宗内院南苑"
   ],
   "summary": "楚国以炼丹闻名的门派之首，位于云天山脉顶端，开派八千余年，三十年一次收徒讲究缘法，房舍多以天然玉石打造。",
   "attributes": {
-    "等级": "楚国门派之首（三级修真国）",
-    "据点": "云天山脉顶端",
+    "等级": "楚国第一门派",
+    "据点": "云天山脉顶端、内宗东西南北四首环中央大殿；后山为闭关地、东苑、南苑、西苑、北苑",
     "所属界面": "楚国",
-    "理念": "以炼丹闻名，收徒讲究缘法而非天资灵根"
+    "理念": "以炼丹闻名，收徒讲究缘法而非天资灵根、内宗炼丹、外宗御敌、以炼丹为主、内院以炼丹之术衡量高低，非以修为",
+    "镇派之宝": "修魔丹（三宝之一）"
   },
   "observations": {
     "等级": [
@@ -18,6 +23,11 @@
         "value": "楚国门派之首（三级修真国）",
         "docId": "plot.xianni-ch210-212-refine-avatar-yuntian-sect",
         "seq": 194
+      },
+      {
+        "value": "楚国第一门派",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
       }
     ],
     "据点": [
@@ -25,6 +35,31 @@
         "value": "云天山脉顶端",
         "docId": "plot.xianni-ch210-212-refine-avatar-yuntian-sect",
         "seq": 194
+      },
+      {
+        "value": "内宗东西南北四首环中央大殿；后山为闭关地",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
+      },
+      {
+        "value": "东苑",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
+      },
+      {
+        "value": "南苑",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
+      },
+      {
+        "value": "西苑",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
+      },
+      {
+        "value": "北苑",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
       }
     ],
     "所属界面": [
@@ -39,6 +74,33 @@
         "value": "以炼丹闻名，收徒讲究缘法而非天资灵根",
         "docId": "plot.xianni-ch210-212-refine-avatar-yuntian-sect",
         "seq": 194
+      },
+      {
+        "value": "内宗炼丹",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
+      },
+      {
+        "value": "外宗御敌",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
+      },
+      {
+        "value": "以炼丹为主",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
+      },
+      {
+        "value": "内院以炼丹之术衡量高低，非以修为",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "修魔丹（三宝之一）",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
       }
     ]
   },
@@ -46,9 +108,9 @@
   "attrProvenance": {
     "等级": {
       "asOf": null,
-      "docId": "plot.xianni-ch210-212-refine-avatar-yuntian-sect",
+      "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
       "dated": false,
-      "seq": 194
+      "seq": 197
     },
     "据点": {
       "asOf": null,
@@ -67,12 +129,19 @@
       "docId": "plot.xianni-ch210-212-refine-avatar-yuntian-sect",
       "dated": false,
       "seq": 194
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+      "dated": false,
+      "seq": 197
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch210-212-refine-avatar-yuntian-sect"
+    "plot.xianni-ch210-212-refine-avatar-yuntian-sect",
+    "plot.xianni-ch213-yuntianzong-zhoulin-shoutu"
   ],
-  "updatedAt": "2026-07-07T12:37:01.155Z"
+  "updatedAt": "2026-07-07T12:54:31.031Z"
 }

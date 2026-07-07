@@ -5,8 +5,8 @@
   "aliases": [],
   "summary": "制作禁幡的必需材料，不产自任何星球，产自星空之中；古神体内识海存有数颗，每个领悟者可得一块。",
   "attributes": {
-    "类型": "炼器材料",
-    "用途": "制作禁幡的必需材料、炼制禁幡主料、制作禁幡、炼制禁幡（主料）、催化融合诸料以制禁幡、祭炼禁幡、炼入禁幡",
+    "类型": "灵石/引材",
+    "用途": "制作禁幡的必需材料、炼制禁幡主料、制作禁幡、炼制禁幡（主料）、催化融合诸料以制禁幡、祭炼禁幡、炼入禁幡、炼制禁制之门、连接本尊与分身",
     "产地": "古神识海",
     "稀有度": "难得"
   },
@@ -21,6 +21,11 @@
         "value": "炼器材料",
         "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
         "seq": 183
+      },
+      {
+        "value": "灵石/引材",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
       }
     ],
     "用途": [
@@ -58,6 +63,11 @@
         "value": "炼入禁幡",
         "docId": "plot.xianni-ch207-killing-for-cores",
         "seq": 191
+      },
+      {
+        "value": "炼制禁制之门、连接本尊与分身",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
       }
     ],
     "产地": [
@@ -94,9 +104,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+      "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
       "dated": false,
-      "seq": 183
+      "seq": 197
     },
     "用途": {
       "asOf": null,
@@ -125,7 +135,8 @@
     "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
     "plot.renfa-ch204-ancient-mirror-forbidden-banner",
     "plot.xianni-ch206-guixi-yuanying-qiusiping",
-    "plot.xianni-ch207-killing-for-cores"
+    "plot.xianni-ch207-killing-for-cores",
+    "plot.xianni-ch213-yuntianzong-zhoulin-shoutu"
   ],
-  "updatedAt": "2026-07-07T12:22:41.817Z"
+  "updatedAt": "2026-07-07T12:54:31.013Z"
 }
