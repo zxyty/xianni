@@ -7,17 +7,19 @@
     "古神之地的黑衣老者",
     "黑衣老者",
     "吉帝",
-    "吉帝／古帝"
+    "吉帝／古帝",
+    "古兄",
+    "古某"
   ],
   "summary": "本名古岚，修魔内海出名大魔头，貌似正道实则心狠手辣的疯子；修为略高于端木极，见面即偷袭王林。",
   "attributes": {
     "称号": "古帝",
     "外貌": "手拿拂尘、头戴高冠、仙风道骨",
-    "性格": "心狠手辣/疯子、阴沉、心机极深",
-    "阵营": "六欲魔君所率魔修队伍",
+    "性格": "心狠手辣/疯子、阴沉、心机极深、阴狠谨慎",
+    "阵营": "修魔内海、六欲魔君所率魔修队伍、王林之敌、王林仇敌",
     "身份": "大魔头、碎星乱封印布置者、随队修士",
-    "本命法宝": "一大一小两只玉镯、巨钟",
-    "小阶段": "化神中期",
+    "本命法宝": "一大一小两只玉镯、巨钟、八面小旗",
+    "小阶段": "化神期",
     "标志特征": "善用玄冰之法"
   },
   "observations": {
@@ -56,6 +58,11 @@
         "value": "心机极深",
         "docId": "plot.xianni-ch179-180-jinshan-study-restrictions",
         "seq": 164
+      },
+      {
+        "value": "阴狠谨慎",
+        "docId": "plot.xianni-ch181-jinzhi-baofa",
+        "seq": 166
       }
     ],
     "阵营": [
@@ -68,6 +75,17 @@
         "value": "六欲魔君所率魔修队伍",
         "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
         "seq": 155
+      },
+      {
+        "value": "王林之敌",
+        "docId": "plot.xianni-ch181-jinzhi-baofa",
+        "seq": 166,
+        "note": "对王林心存杀念"
+      },
+      {
+        "value": "王林仇敌",
+        "docId": "plot.xianni-ch181-jinzhi-baofa",
+        "seq": 166
       }
     ],
     "身份": [
@@ -98,6 +116,11 @@
         "value": "巨钟",
         "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
         "seq": 151
+      },
+      {
+        "value": "八面小旗",
+        "docId": "plot.xianni-ch181-jinzhi-baofa",
+        "seq": 166
       }
     ],
     "小阶段": [
@@ -105,6 +128,11 @@
         "value": "化神中期",
         "docId": "plot.xianni-ch179-180-jinshan-study-restrictions",
         "seq": 164
+      },
+      {
+        "value": "化神期",
+        "docId": "plot.xianni-ch181-jinzhi-baofa",
+        "seq": 166
       }
     ],
     "标志特征": [
@@ -137,9 +165,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
+      "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
       "dated": false,
-      "seq": 155
+      "seq": 151
     },
     "身份": {
       "asOf": null,
@@ -156,9 +184,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch179-180-jinshan-study-restrictions",
+      "docId": "plot.xianni-ch181-jinzhi-baofa",
       "dated": false,
-      "seq": 164
+      "seq": 166
     },
     "标志特征": {
       "asOf": null,
@@ -172,7 +200,8 @@
   "docs": [
     "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
     "plot.xianni-ch155-157-tuoli-duiwu-quisui",
-    "plot.xianni-ch179-180-jinshan-study-restrictions"
+    "plot.xianni-ch179-180-jinshan-study-restrictions",
+    "plot.xianni-ch181-jinzhi-baofa"
   ],
-  "updatedAt": "2026-07-07T02:42:08.956Z"
+  "updatedAt": "2026-07-07T02:54:01.418Z"
 }
