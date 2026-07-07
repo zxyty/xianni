@@ -1,0 +1,66 @@
+{
+  "id": "ent.artifact.x-c63c25db",
+  "type": "artifact",
+  "name": "传送手诀",
+  "aliases": [
+    "传承之物手诀",
+    "漩涡传送手诀",
+    "传承物碎片法诀"
+  ],
+  "summary": "源自传承之物碎片的一套法诀，打出后具传送功能，但必须在每关出口的漩涡处施展方能传送出古神之地。",
+  "attributes": {
+    "能力": "传送出古神之地",
+    "禁制": "仅可在每关出口漩涡处施展；入口漩涡无效",
+    "来历": "传承之物碎片所记，吉帝记下后碎片已捏碎"
+  },
+  "observations": {
+    "能力": [
+      {
+        "value": "传送出古神之地",
+        "docId": "plot.xianni-ch183-yibian-chushi",
+        "seq": 168
+      }
+    ],
+    "禁制": [
+      {
+        "value": "仅可在每关出口漩涡处施展；入口漩涡无效",
+        "docId": "plot.xianni-ch183-yibian-chushi",
+        "seq": 168
+      }
+    ],
+    "来历": [
+      {
+        "value": "传承之物碎片所记，吉帝记下后碎片已捏碎",
+        "docId": "plot.xianni-ch183-yibian-chushi",
+        "seq": 168
+      }
+    ]
+  },
+  "firstSeq": 168,
+  "attrProvenance": {
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch183-yibian-chushi",
+      "dated": false,
+      "seq": 168
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch183-yibian-chushi",
+      "dated": false,
+      "seq": 168
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch183-yibian-chushi",
+      "dated": false,
+      "seq": 168
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.xianni-ch183-yibian-chushi"
+  ],
+  "updatedAt": "2026-07-07T04:12:19.245Z"
+}

@@ -2,11 +2,15 @@
   "id": "ent.place.x-f4e266cc",
   "type": "place",
   "name": "寂灭界",
-  "aliases": [],
+  "aliases": [
+    "古神之地寂灭界"
+  ],
   "summary": "王林当年所在之地，无边黑色虚无，与古神尸身空间景象惊人相似（此处仅作类比参照）。",
   "attributes": {
-    "类型": "界面/空间",
-    "特产": "无边黑色虚无"
+    "类型": "古神之地／秘境",
+    "特产": "无边黑色虚无",
+    "规模": "极为庞大，分多关（含第二、三、四关）",
+    "危险度": "高（游魂群、守关妖魔）"
   },
   "observations": {
     "类型": [
@@ -14,6 +18,11 @@
         "value": "界面/空间",
         "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
         "seq": 151
+      },
+      {
+        "value": "古神之地／秘境",
+        "docId": "plot.xianni-ch183-yibian-chushi",
+        "seq": 168
       }
     ],
     "特产": [
@@ -22,28 +31,55 @@
         "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
         "seq": 151
       }
+    ],
+    "规模": [
+      {
+        "value": "极为庞大，分多关（含第二、三、四关）",
+        "docId": "plot.xianni-ch183-yibian-chushi",
+        "seq": 168
+      }
+    ],
+    "危险度": [
+      {
+        "value": "高（游魂群、守关妖魔）",
+        "docId": "plot.xianni-ch183-yibian-chushi",
+        "seq": 168
+      }
     ]
   },
   "firstSeq": 151,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
+      "docId": "plot.xianni-ch183-yibian-chushi",
       "dated": false,
-      "seq": 151
+      "seq": 168
     },
     "特产": {
       "asOf": null,
       "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
       "dated": false,
       "seq": 151
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch183-yibian-chushi",
+      "dated": false,
+      "seq": 168
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch183-yibian-chushi",
+      "dated": false,
+      "seq": 168
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
-    "plot.xianni-ch181-jinzhi-baofa"
+    "plot.xianni-ch181-jinzhi-baofa",
+    "plot.xianni-ch183-yibian-chushi"
   ],
-  "updatedAt": "2026-07-07T02:54:01.425Z"
+  "updatedAt": "2026-07-07T04:12:19.267Z"
 }

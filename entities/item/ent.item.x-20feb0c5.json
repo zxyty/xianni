@@ -5,12 +5,13 @@
   "aliases": [
     "尸阴宗玉简",
     "身份玉简",
-    "青龙防御玉简"
+    "青龙防御玉简",
+    "记录手诀的玉简"
   ],
   "summary": "尸阴宗唯一身份凭证，按颜色分始祖青/师祖深蓝/长老淡蓝/弟子白；封印弟子魂魄以受上级控制。",
   "attributes": {
-    "类型": "身份凭证",
-    "用途": "通过护山大阵光幕"
+    "类型": "记录法诀之物",
+    "用途": "记录离开第三关之手诀"
   },
   "observations": {
     "类型": [
@@ -23,6 +24,11 @@
         "value": "身份凭证",
         "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
         "seq": 142
+      },
+      {
+        "value": "记录法诀之物",
+        "docId": "plot.xianni-ch183-yibian-chushi",
+        "seq": 168
       }
     ],
     "用途": [
@@ -35,6 +41,11 @@
         "value": "通过护山大阵光幕",
         "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
         "seq": 142
+      },
+      {
+        "value": "记录离开第三关之手诀",
+        "docId": "plot.xianni-ch183-yibian-chushi",
+        "seq": 168
       }
     ]
   },
@@ -42,15 +53,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
+      "docId": "plot.xianni-ch183-yibian-chushi",
       "dated": false,
-      "seq": 142
+      "seq": 168
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
+      "docId": "plot.xianni-ch183-yibian-chushi",
       "dated": false,
-      "seq": 142
+      "seq": 168
     }
   },
   "contested": false,
@@ -58,7 +69,8 @@
   "docs": [
     "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
     "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
-    "plot.xianni-ch176-duoqu-fengqun"
+    "plot.xianni-ch176-duoqu-fengqun",
+    "plot.xianni-ch183-yibian-chushi"
   ],
-  "updatedAt": "2026-07-07T02:39:51.824Z"
+  "updatedAt": "2026-07-07T04:12:19.270Z"
 }
