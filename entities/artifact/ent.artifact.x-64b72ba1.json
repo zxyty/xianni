@@ -3,12 +3,13 @@
   "type": "artifact",
   "name": "丹炉",
   "aliases": [
-    "云妃丹炉"
+    "云妃丹炉",
+    "李慕婉所赠丹炉"
   ],
   "summary": "云妃所有的丹炉，具备躲避神识探查的法术，云妃刻意不放入储物袋；本章被王林收回怀中。",
   "attributes": {
-    "持有者": "王林",
-    "能力": "躲避神识探查"
+    "持有者": "王林（分身）",
+    "能力": "百次之内不崩裂"
   },
   "observations": {
     "持有者": [
@@ -17,6 +18,11 @@
         "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
         "seq": 188,
         "note": "第205章从云妃处夺回"
+      },
+      {
+        "value": "王林（分身）",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
       }
     ],
     "能力": [
@@ -24,6 +30,11 @@
         "value": "躲避神识探查",
         "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
         "seq": 188
+      },
+      {
+        "value": "百次之内不崩裂",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
       }
     ]
   },
@@ -31,22 +42,22 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+      "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
       "dated": false,
-      "seq": 188,
-      "note": "第205章从云妃处夺回"
+      "seq": 197
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+      "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
       "dated": false,
-      "seq": 188
+      "seq": 197
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.renfa-ch204-ancient-mirror-forbidden-banner"
+    "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+    "plot.xianni-ch213-yuntianzong-zhoulin-shoutu"
   ],
-  "updatedAt": "2026-07-07T12:03:22.468Z"
+  "updatedAt": "2026-07-07T12:54:31.033Z"
 }

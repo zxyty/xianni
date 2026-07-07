@@ -3,12 +3,15 @@
   "type": "place",
   "name": "碎石山脉",
   "aliases": [
-    "仙遗之地"
+    "仙遗之地",
+    "碎石山脉外围"
   ],
   "summary": "楚国紧靠的山脉，被称为仙遗之地。",
   "attributes": {
     "所属界面": "楚国",
-    "类型": "山脉/秘境"
+    "类型": "山脉/秘境、山脉、秘境/遗迹",
+    "上级区域": "仙遗之地",
+    "特产": "龙岩芝"
   },
   "observations": {
     "所属界面": [
@@ -23,6 +26,30 @@
         "value": "山脉/秘境",
         "docId": "plot.xianni-ch210-212-refine-avatar-yuntian-sect",
         "seq": 194
+      },
+      {
+        "value": "山脉",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
+      },
+      {
+        "value": "秘境/遗迹",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "仙遗之地",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
+      }
+    ],
+    "特产": [
+      {
+        "value": "龙岩芝",
+        "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+        "seq": 197
       }
     ]
   },
@@ -39,12 +66,25 @@
       "docId": "plot.xianni-ch210-212-refine-avatar-yuntian-sect",
       "dated": false,
       "seq": 194
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+      "dated": false,
+      "seq": 197
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+      "dated": false,
+      "seq": 197
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch210-212-refine-avatar-yuntian-sect"
+    "plot.xianni-ch210-212-refine-avatar-yuntian-sect",
+    "plot.xianni-ch213-yuntianzong-zhoulin-shoutu"
   ],
-  "updatedAt": "2026-07-07T12:37:01.163Z"
+  "updatedAt": "2026-07-07T12:54:31.039Z"
 }
