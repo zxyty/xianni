@@ -45,3 +45,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-07-07T11:38:30.335Z** `ingest` plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng — 仙逆 第183-185章：身体重组·古神涂司忆之传承（古神之地·终） · kind=plot asOf=2026-07-07 entities=31 relations=34 src=00183-00185.md
 - **2026-07-07T11:50:02.230Z** `ingest` plot.xianni-ch186-187-two-hundred-years-silence — 仙逆 第186-187章 二百年·杀人灭口 · kind=plot asOf=2026-07-07 entities=30 relations=31 src=00186-00187.md
 - **2026-07-07T12:03:22.489Z** `ingest` plot.renfa-ch204-ancient-mirror-forbidden-banner — 仙逆 第204章 古镜与禁幡——王林祭炼古镜、暗控云妃、图谋结婴与古传送阵 · kind=plot asOf=2026-07-07 entities=38 relations=41 src=00188-00189.md
+- **2026-07-07T12:09:47.127Z** `ingest` plot.xianni-ch206-guixi-yuanying-qiusiping — 仙逆 第206章 天劫：邱四平献归息元婴之约，王林习炼丹之道 · kind=plot asOf=2026-07-07 entities=24 relations=35 src=00190-00190.md
