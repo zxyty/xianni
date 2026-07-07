@@ -37,3 +37,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-07-06T16:27:55.096Z** `ingest` plot.xianni-ch173-second-demon-head — 仙逆 第173章 第二魔头——土行小兽神识与养魔头之法 · kind=plot asOf=2026-07-06 entities=43 relations=56 src=00158-00160.md
 - **2026-07-07T02:39:51.882Z** `ingest` plot.xianni-ch176-duoqu-fengqun — 仙逆 第176章 夺取风群 — 王林驱飓风闯域外战场第一关入第二关 · kind=plot asOf=2026-07-07 entities=41 relations=50 src=00161-00163.md
 - **2026-07-07T02:42:08.983Z** `ingest` plot.xianni-ch179-180-jinshan-study-restrictions — 仙逆 第179-180章 禁山学习禁制·古帝入关 · kind=plot asOf=2026-07-07 entities=18 relations=15 src=00164-00165.md
+- **2026-07-07T02:54:01.444Z** `ingest` plot.xianni-ch181-jinzhi-baofa — 仙逆 第181章 禁制大爆发——禁制之山闯关，王林引爆残影之圈算计古帝与六欲魔君 · kind=plot asOf=2026-07-07 entities=33 relations=37 src=00166-00167.md

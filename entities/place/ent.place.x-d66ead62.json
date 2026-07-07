@@ -3,13 +3,14 @@
   "type": "place",
   "name": "禁山",
   "aliases": [
-    "第二关"
+    "第二关",
+    "禁山第二关"
   ],
   "summary": "闯关第二关，整座山峰皆为禁制，越往上越复杂威力越大，山顶漩涡通往第三关。",
   "attributes": {
-    "类型": "闯关秘境/禁制之山",
-    "危险度": "极高（化神期亦可能死于连环禁制）",
-    "守护": "满山禁制、天空禁飞禁瞬移"
+    "类型": "禁地/试炼之地",
+    "危险度": "极高",
+    "守护": "涂司（古神分身）"
   },
   "observations": {
     "类型": [
@@ -17,6 +18,11 @@
         "value": "闯关秘境/禁制之山",
         "docId": "plot.xianni-ch179-180-jinshan-study-restrictions",
         "seq": 164
+      },
+      {
+        "value": "禁地/试炼之地",
+        "docId": "plot.xianni-ch181-jinzhi-baofa",
+        "seq": 166
       }
     ],
     "危险度": [
@@ -24,6 +30,11 @@
         "value": "极高（化神期亦可能死于连环禁制）",
         "docId": "plot.xianni-ch179-180-jinshan-study-restrictions",
         "seq": 164
+      },
+      {
+        "value": "极高",
+        "docId": "plot.xianni-ch181-jinzhi-baofa",
+        "seq": 166
       }
     ],
     "守护": [
@@ -31,6 +42,11 @@
         "value": "满山禁制、天空禁飞禁瞬移",
         "docId": "plot.xianni-ch179-180-jinshan-study-restrictions",
         "seq": 164
+      },
+      {
+        "value": "涂司（古神分身）",
+        "docId": "plot.xianni-ch181-jinzhi-baofa",
+        "seq": 166
       }
     ]
   },
@@ -38,27 +54,28 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch179-180-jinshan-study-restrictions",
+      "docId": "plot.xianni-ch181-jinzhi-baofa",
       "dated": false,
-      "seq": 164
+      "seq": 166
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch179-180-jinshan-study-restrictions",
+      "docId": "plot.xianni-ch181-jinzhi-baofa",
       "dated": false,
-      "seq": 164
+      "seq": 166
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch179-180-jinshan-study-restrictions",
+      "docId": "plot.xianni-ch181-jinzhi-baofa",
       "dated": false,
-      "seq": 164
+      "seq": 166
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch179-180-jinshan-study-restrictions"
+    "plot.xianni-ch179-180-jinshan-study-restrictions",
+    "plot.xianni-ch181-jinzhi-baofa"
   ],
-  "updatedAt": "2026-07-07T02:42:08.960Z"
+  "updatedAt": "2026-07-07T02:54:01.412Z"
 }
