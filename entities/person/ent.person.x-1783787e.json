@@ -12,12 +12,14 @@
   "attributes": {
     "小阶段": "结丹后期",
     "外貌": "中年，相貌堂堂，身穿锦袍，目光睿智",
-    "标志特征": "脚下生黑雾",
-    "阵营": "修魔海",
+    "标志特征": "擅禁制与制器",
+    "阵营": "王林盟友",
     "存殁": "存活",
     "结局": "本章被王林极境神识重创，以奇宝护身逃走并求生",
     "性格": "阴狠、表里不一、拿得起放得下、狡猾、执念深、隐露癫狂",
-    "身份": "散修、上古禁制寻访者"
+    "身份": "散修、上古禁制寻访者",
+    "出身地": "修魔内海",
+    "寿元": "修炼二百余年"
   },
   "observations": {
     "小阶段": [
@@ -49,6 +51,11 @@
         "value": "脚下生黑雾",
         "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
         "seq": 190
+      },
+      {
+        "value": "擅禁制与制器",
+        "docId": "plot.xianni-ch207-killing-for-cores",
+        "seq": 191
       }
     ],
     "阵营": [
@@ -56,6 +63,12 @@
         "value": "修魔海",
         "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
         "seq": 188
+      },
+      {
+        "value": "王林盟友",
+        "docId": "plot.xianni-ch207-killing-for-cores",
+        "seq": 191,
+        "note": "本章达成共识结盟"
       }
     ],
     "存殁": [
@@ -95,6 +108,20 @@
         "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
         "seq": 190
       }
+    ],
+    "出身地": [
+      {
+        "value": "修魔内海",
+        "docId": "plot.xianni-ch207-killing-for-cores",
+        "seq": 191
+      }
+    ],
+    "寿元": [
+      {
+        "value": "修炼二百余年",
+        "docId": "plot.xianni-ch207-killing-for-cores",
+        "seq": 191
+      }
     ]
   },
   "firstSeq": 188,
@@ -113,15 +140,16 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
+      "docId": "plot.xianni-ch207-killing-for-cores",
       "dated": false,
-      "seq": 190
+      "seq": 191
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+      "docId": "plot.xianni-ch207-killing-for-cores",
       "dated": false,
-      "seq": 188
+      "seq": 191,
+      "note": "本章达成共识结盟"
     },
     "存殁": {
       "asOf": null,
@@ -146,13 +174,26 @@
       "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
       "dated": false,
       "seq": 190
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch207-killing-for-cores",
+      "dated": false,
+      "seq": 191
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.xianni-ch207-killing-for-cores",
+      "dated": false,
+      "seq": 191
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.renfa-ch204-ancient-mirror-forbidden-banner",
-    "plot.xianni-ch206-guixi-yuanying-qiusiping"
+    "plot.xianni-ch206-guixi-yuanying-qiusiping",
+    "plot.xianni-ch207-killing-for-cores"
   ],
-  "updatedAt": "2026-07-07T12:09:47.103Z"
+  "updatedAt": "2026-07-07T12:22:41.833Z"
 }

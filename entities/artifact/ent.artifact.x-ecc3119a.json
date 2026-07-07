@@ -7,15 +7,16 @@
     "白旌",
     "禁旗",
     "黑色禁幡",
-    "小旗"
+    "小旗",
+    "禁幡法宝"
   ],
   "summary": "古神赐予的法宝，玉简记载其制作法：以墨间石为必需材料，刻下九十九万九千九百九十九个禁制而成，威力资讯未明但推测极强。",
   "attributes": {
-    "来历": "古神所赐，玉简记载制法、第二关所得炼制玉简、以墨间石炼制、王林自炼、依古神第二关所得玉简『养器』之法炼制、王林以墨间石祭炼",
+    "来历": "古神所赐，玉简记载制法、第二关所得炼制玉简、以墨间石炼制、王林自炼、依古神第二关所得玉简『养器』之法炼制、王林以墨间石祭炼、王林炼制",
     "禁制": "九禁制为一组，混合属性",
     "持有者": "王林",
-    "外形": "白色小旗，成功印入禁制处显为黑点/黑斑、白色小旗、旗面由白变黑、淡金色符号绕杆旋转",
-    "能力": "承载海量禁制；同一禁制最多吸收九次，第十次则先前九个消散、攻击、防御、守护、寻物、困敌",
+    "外形": "白色小旗，成功印入禁制处显为黑点/黑斑、白色小旗、旗面由白变黑、淡金色符号绕杆旋转、幡、黑色旗帜，可胀至十余丈或缩为小旗",
+    "能力": "承载海量禁制；同一禁制最多吸收九次，第十次则先前九个消散、攻击、防御、守护、寻物、困敌、包裹方圆百里、布设禁制符号",
     "品阶": "九百九十九、九千九百九十九、九万九千九百九十九、九十九万九千九百九十九"
   },
   "observations": {
@@ -49,6 +50,11 @@
         "value": "王林以墨间石祭炼",
         "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
         "seq": 190
+      },
+      {
+        "value": "王林炼制",
+        "docId": "plot.xianni-ch207-killing-for-cores",
+        "seq": 191
       }
     ],
     "禁制": [
@@ -85,6 +91,16 @@
         "value": "旗面由白变黑、淡金色符号绕杆旋转",
         "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
         "seq": 190
+      },
+      {
+        "value": "幡",
+        "docId": "plot.xianni-ch207-killing-for-cores",
+        "seq": 191
+      },
+      {
+        "value": "黑色旗帜，可胀至十余丈或缩为小旗",
+        "docId": "plot.xianni-ch207-killing-for-cores",
+        "seq": 191
       }
     ],
     "能力": [
@@ -117,6 +133,16 @@
         "value": "困敌",
         "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
         "seq": 190
+      },
+      {
+        "value": "包裹方圆百里",
+        "docId": "plot.xianni-ch207-killing-for-cores",
+        "seq": 191
+      },
+      {
+        "value": "布设禁制符号",
+        "docId": "plot.xianni-ch207-killing-for-cores",
+        "seq": 191
       }
     ],
     "品阶": [
@@ -188,7 +214,8 @@
     "plot.xianni-ch185-blood-sea-lord",
     "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
     "plot.renfa-ch204-ancient-mirror-forbidden-banner",
-    "plot.xianni-ch206-guixi-yuanying-qiusiping"
+    "plot.xianni-ch206-guixi-yuanying-qiusiping",
+    "plot.xianni-ch207-killing-for-cores"
   ],
-  "updatedAt": "2026-07-07T12:09:47.104Z"
+  "updatedAt": "2026-07-07T12:22:41.835Z"
 }
