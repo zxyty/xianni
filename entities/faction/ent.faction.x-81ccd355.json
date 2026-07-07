@@ -5,9 +5,9 @@
   "aliases": [],
   "summary": "修魔海内售卖器具(如熔炉)的宗门，分部众多、店铺遍布，最近者在南斗城。",
   "attributes": {
-    "据点": "南斗城炼器阁",
+    "据点": "南斗城等分部、南斗城炼器阁、麒麟城炼器阁、南斗城炼器阁分部",
     "所属界面": "修魔海",
-    "理念": "炼器售宝"
+    "理念": "炼器"
   },
   "observations": {
     "据点": [
@@ -20,6 +20,16 @@
         "value": "南斗城炼器阁",
         "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
         "seq": 129
+      },
+      {
+        "value": "麒麟城炼器阁",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
+      },
+      {
+        "value": "南斗城炼器阁分部",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
       }
     ],
     "所属界面": [
@@ -34,6 +44,11 @@
         "value": "炼器售宝",
         "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
         "seq": 129
+      },
+      {
+        "value": "炼器",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
       }
     ]
   },
@@ -41,9 +56,9 @@
   "attrProvenance": {
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+      "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
       "dated": false,
-      "seq": 129
+      "seq": 126
     },
     "所属界面": {
       "asOf": null,
@@ -53,16 +68,17 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+      "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
       "dated": false,
-      "seq": 129
+      "seq": 188
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch126-128-modohai-doupai-sangmuya",
-    "plot.xianni-ch129-131-jiedan-sandan-heyi"
+    "plot.xianni-ch129-131-jiedan-sandan-heyi",
+    "plot.renfa-ch204-ancient-mirror-forbidden-banner"
   ],
-  "updatedAt": "2026-07-06T12:52:53.711Z"
+  "updatedAt": "2026-07-07T12:03:22.449Z"
 }

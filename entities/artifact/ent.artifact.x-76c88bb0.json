@@ -4,13 +4,17 @@
   "name": "古镜",
   "aliases": [
     "古色镜子",
-    "天算古镜"
+    "天算古镜",
+    "古铜色镜子",
+    "古铜镜",
+    "吉镜"
   ],
   "summary": "启明的天算法宝，可吸收诅咒之气映照目标所在、放大后可载人穿行两地。",
   "attributes": {
-    "持有者": "启明",
-    "能力": "天算映照目标方位、吸收诅咒之气、放大载人穿行",
-    "外形": "古色镜子"
+    "持有者": "王林",
+    "能力": "天算映照目标方位、吸收诅咒之气、放大载人穿行、与分身相关",
+    "外形": "手掌大古铜色镜子",
+    "来历": "上古修士本命法宝"
   },
   "observations": {
     "持有者": [
@@ -18,6 +22,11 @@
         "value": "启明",
         "docId": "plot.xianni-ch85-89-jilian-jianqiao",
         "seq": 85
+      },
+      {
+        "value": "王林",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
       }
     ],
     "能力": [
@@ -35,6 +44,11 @@
         "value": "放大载人穿行",
         "docId": "plot.xianni-ch85-89-jilian-jianqiao",
         "seq": 85
+      },
+      {
+        "value": "与分身相关",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
       }
     ],
     "外形": [
@@ -42,6 +56,18 @@
         "value": "古色镜子",
         "docId": "plot.xianni-ch85-89-jilian-jianqiao",
         "seq": 85
+      },
+      {
+        "value": "手掌大古铜色镜子",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
+      }
+    ],
+    "来历": [
+      {
+        "value": "上古修士本命法宝",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
       }
     ]
   },
@@ -49,9 +75,9 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+      "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
       "dated": false,
-      "seq": 85
+      "seq": 188
     },
     "能力": {
       "asOf": null,
@@ -61,15 +87,22 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+      "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
       "dated": false,
-      "seq": 85
+      "seq": 188
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+      "dated": false,
+      "seq": 188
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch85-89-jilian-jianqiao"
+    "plot.xianni-ch85-89-jilian-jianqiao",
+    "plot.renfa-ch204-ancient-mirror-forbidden-banner"
   ],
-  "updatedAt": "2026-07-05T03:01:33.246Z"
+  "updatedAt": "2026-07-07T12:03:22.431Z"
 }

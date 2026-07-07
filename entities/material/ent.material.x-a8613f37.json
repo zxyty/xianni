@@ -6,9 +6,9 @@
   "summary": "制作禁幡的必需材料，不产自任何星球，产自星空之中；古神体内识海存有数颗，每个领悟者可得一块。",
   "attributes": {
     "类型": "炼器材料",
-    "用途": "制作禁幡",
+    "用途": "制作禁幡的必需材料、炼制禁幡主料、制作禁幡、炼制禁幡（主料）、催化融合诸料以制禁幡",
     "产地": "古神识海",
-    "稀有度": "极珍贵"
+    "稀有度": "较难得"
   },
   "observations": {
     "类型": [
@@ -38,6 +38,16 @@
         "value": "制作禁幡",
         "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
         "seq": 183
+      },
+      {
+        "value": "炼制禁幡（主料）",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
+      },
+      {
+        "value": "催化融合诸料以制禁幡",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
       }
     ],
     "产地": [
@@ -57,6 +67,11 @@
         "value": "极珍贵",
         "docId": "plot.xianni-ch181-jinzhi-baofa",
         "seq": 166
+      },
+      {
+        "value": "较难得",
+        "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+        "seq": 188
       }
     ]
   },
@@ -70,9 +85,9 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+      "docId": "plot.xianni-ch181-jinzhi-baofa",
       "dated": false,
-      "seq": 183
+      "seq": 166
     },
     "产地": {
       "asOf": null,
@@ -82,9 +97,9 @@
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.xianni-ch181-jinzhi-baofa",
+      "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
       "dated": false,
-      "seq": 166
+      "seq": 188
     }
   },
   "contested": false,
@@ -92,7 +107,8 @@
   "docs": [
     "plot.xianni-ch181-jinzhi-baofa",
     "plot.xianni-ch185-blood-sea-lord",
-    "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng"
+    "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+    "plot.renfa-ch204-ancient-mirror-forbidden-banner"
   ],
-  "updatedAt": "2026-07-07T11:38:30.298Z"
+  "updatedAt": "2026-07-07T12:03:22.459Z"
 }
