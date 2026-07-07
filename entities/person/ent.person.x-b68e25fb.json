@@ -8,13 +8,13 @@
   ],
   "summary": "四级修真国阴阳宗的下放使者，白衣文士面白如玉，修为与八极魔君端木极相当，脚下无法宝而速度极快。",
   "attributes": {
-    "身份": "阴阳宗下放使者、碎星乱探险者之一、随队修士",
+    "身份": "阴阳宗下放使者、碎星乱探险者之一、随队修士、血海魔化修士（出现）",
     "阵营": "四级修真国·阴阳宗、修魔海",
     "外貌": "面白如玉、葛布灰衫头戴方巾",
     "元神强度": "与八极魔君相当",
     "性格": "狂人/残忍、嗜血贪婪、冷酷",
     "标志特征": "擅五行遁术、半透明直线穿石",
-    "存殁": "生死不明"
+    "存殁": "死亡"
   },
   "observations": {
     "身份": [
@@ -32,6 +32,12 @@
         "value": "随队修士",
         "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
         "seq": 151
+      },
+      {
+        "value": "血海魔化修士（出现）",
+        "docId": "plot.xianni-ch191-shenshi-sihai",
+        "seq": 176,
+        "note": "第168章已死，此处为魔化/背景"
       }
     ],
     "阵营": [
@@ -102,6 +108,12 @@
         "docId": "plot.xianni-ch183-yibian-chushi",
         "seq": 168,
         "note": "第168章被妖魔之手抓入裂缝"
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch191-shenshi-sihai",
+        "seq": 176,
+        "note": "第168章已死；本章作被抓之谜提及"
       }
     ]
   },
@@ -146,10 +158,10 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch183-yibian-chushi",
+      "docId": "plot.xianni-ch191-shenshi-sihai",
       "dated": false,
-      "seq": 168,
-      "note": "第168章被妖魔之手抓入裂缝"
+      "seq": 176,
+      "note": "第168章已死；本章作被抓之谜提及"
     }
   },
   "contested": false,
@@ -158,7 +170,8 @@
     "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
     "plot.xianni-ch155-157-tuoli-duiwu-quisui",
     "plot.xianni-ch179-180-jinshan-study-restrictions",
-    "plot.xianni-ch183-yibian-chushi"
+    "plot.xianni-ch183-yibian-chushi",
+    "plot.xianni-ch191-shenshi-sihai"
   ],
-  "updatedAt": "2026-07-07T04:12:19.264Z"
+  "updatedAt": "2026-07-07T11:14:57.437Z"
 }

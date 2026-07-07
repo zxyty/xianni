@@ -4,12 +4,13 @@
   "name": "修丹",
   "aliases": [
     "灰色圆丹",
-    "灰色修丹"
+    "灰色修丹",
+    "结丹中期修士修为所化之丹"
   ],
   "summary": "万魔百里诛杀令凝成的灰色圆丹，蕴含一名结丹中期修士的全身修为，供结婴时服用增益成功率。",
   "attributes": {
-    "功效": "补益修为、提高结婴成功率",
-    "适用境界": "结婴/元婴期"
+    "功效": "提升修为至结丹中期顶峰",
+    "适用境界": "结丹期"
   },
   "observations": {
     "功效": [
@@ -17,6 +18,11 @@
         "value": "补益修为、提高结婴成功率",
         "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
         "seq": 142
+      },
+      {
+        "value": "提升修为至结丹中期顶峰",
+        "docId": "plot.xianni-ch191-shenshi-sihai",
+        "seq": 176
       }
     ],
     "适用境界": [
@@ -24,6 +30,11 @@
         "value": "结婴/元婴期",
         "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
         "seq": 142
+      },
+      {
+        "value": "结丹期",
+        "docId": "plot.xianni-ch191-shenshi-sihai",
+        "seq": 176
       }
     ]
   },
@@ -31,21 +42,22 @@
   "attrProvenance": {
     "功效": {
       "asOf": null,
-      "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
+      "docId": "plot.xianni-ch191-shenshi-sihai",
       "dated": false,
-      "seq": 142
+      "seq": 176
     },
     "适用境界": {
       "asOf": null,
-      "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
+      "docId": "plot.xianni-ch191-shenshi-sihai",
       "dated": false,
-      "seq": 142
+      "seq": 176
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-142-146-qimei-rongyan-wuqi-huahai"
+    "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
+    "plot.xianni-ch191-shenshi-sihai"
   ],
-  "updatedAt": "2026-07-06T15:09:57.828Z"
+  "updatedAt": "2026-07-07T11:14:57.405Z"
 }

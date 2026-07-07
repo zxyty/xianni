@@ -3,11 +3,15 @@
   "type": "person",
   "name": "李长老",
   "aliases": [
-    "满脸皱纹的老者"
+    "满脸皱纹的老者",
+    "坟墓里爬出的老者",
+    "十人之首老者"
   ],
   "summary": "恒岳派长老，受掌门全权委托处理王林事，主张破例收为记名弟子。",
   "attributes": {
-    "身份": "恒岳派长老"
+    "身份": "十人之首",
+    "外貌": "满脸皱纹、仿佛从坟墓爬出",
+    "性格": "沉稳老练"
   },
   "observations": {
     "身份": [
@@ -15,6 +19,25 @@
         "value": "恒岳派长老",
         "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
         "seq": 7
+      },
+      {
+        "value": "十人之首",
+        "docId": "plot.xianni-ch191-shenshi-sihai",
+        "seq": 176
+      }
+    ],
+    "外貌": [
+      {
+        "value": "满脸皱纹、仿佛从坟墓爬出",
+        "docId": "plot.xianni-ch191-shenshi-sihai",
+        "seq": 176
+      }
+    ],
+    "性格": [
+      {
+        "value": "沉稳老练",
+        "docId": "plot.xianni-ch191-shenshi-sihai",
+        "seq": 176
       }
     ]
   },
@@ -22,15 +45,28 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
+      "docId": "plot.xianni-ch191-shenshi-sihai",
       "dated": false,
-      "seq": 7
+      "seq": 176
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch191-shenshi-sihai",
+      "dated": false,
+      "seq": 176
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch191-shenshi-sihai",
+      "dated": false,
+      "seq": 176
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch07-12-liushu-rumen-shizhu"
+    "plot.xianni-ch07-12-liushu-rumen-shizhu",
+    "plot.xianni-ch191-shenshi-sihai"
   ],
-  "updatedAt": "2026-06-22T11:17:41.848Z"
+  "updatedAt": "2026-07-07T11:14:57.423Z"
 }

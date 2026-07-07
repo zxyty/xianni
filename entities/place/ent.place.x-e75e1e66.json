@@ -8,7 +8,8 @@
   ],
   "summary": "古神体内穴道，王林被传送至此之外。",
   "attributes": {
-    "上级区域": "古神之地"
+    "上级区域": "古神之地",
+    "类型": "识海穴位"
   },
   "observations": {
     "上级区域": [
@@ -16,6 +17,13 @@
         "value": "古神之地",
         "docId": "plot.xianni-ch185-blood-sea-lord",
         "seq": 170
+      }
+    ],
+    "类型": [
+      {
+        "value": "识海穴位",
+        "docId": "plot.xianni-ch191-shenshi-sihai",
+        "seq": 176
       }
     ]
   },
@@ -26,12 +34,19 @@
       "docId": "plot.xianni-ch185-blood-sea-lord",
       "dated": false,
       "seq": 170
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-ch191-shenshi-sihai",
+      "dated": false,
+      "seq": 176
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch185-blood-sea-lord"
+    "plot.xianni-ch185-blood-sea-lord",
+    "plot.xianni-ch191-shenshi-sihai"
   ],
-  "updatedAt": "2026-07-07T04:36:31.110Z"
+  "updatedAt": "2026-07-07T11:14:57.412Z"
 }

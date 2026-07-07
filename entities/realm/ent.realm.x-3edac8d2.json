@@ -11,11 +11,12 @@
   ],
   "summary": "高阶修真境界，恒岳派鼎盛时曾拥有数位元婴期老怪。",
   "attributes": {
-    "阶序": "元婴期",
+    "阶序": "元婴",
     "上一境": "化神",
     "小阶段": "元婴期、后期、元婴初期、元婴中期",
     "下一境": "筑基",
-    "突破关键": "婴变丹（外力路径）"
+    "突破关键": "金丹破碎化元婴(结婴)",
+    "突破征兆": "金丹带红/破碎"
   },
   "observations": {
     "阶序": [
@@ -38,6 +39,11 @@
         "value": "元婴期",
         "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
         "seq": 142
+      },
+      {
+        "value": "元婴",
+        "docId": "plot.xianni-ch191-shenshi-sihai",
+        "seq": 176
       }
     ],
     "上一境": [
@@ -116,6 +122,18 @@
         "value": "婴变丹（外力路径）",
         "docId": "plot.xianni-ch179-180-jinshan-study-restrictions",
         "seq": 164
+      },
+      {
+        "value": "金丹破碎化元婴(结婴)",
+        "docId": "plot.xianni-ch191-shenshi-sihai",
+        "seq": 176
+      }
+    ],
+    "突破征兆": [
+      {
+        "value": "金丹带红/破碎",
+        "docId": "plot.xianni-ch191-shenshi-sihai",
+        "seq": 176
       }
     ]
   },
@@ -123,9 +141,9 @@
   "attrProvenance": {
     "阶序": {
       "asOf": null,
-      "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
+      "docId": "plot.xianni-ch191-shenshi-sihai",
       "dated": false,
-      "seq": 142
+      "seq": 176
     },
     "上一境": {
       "asOf": null,
@@ -147,9 +165,15 @@
     },
     "突破关键": {
       "asOf": null,
-      "docId": "plot.xianni-ch179-180-jinshan-study-restrictions",
+      "docId": "plot.xianni-ch191-shenshi-sihai",
       "dated": false,
-      "seq": 164
+      "seq": 176
+    },
+    "突破征兆": {
+      "asOf": null,
+      "docId": "plot.xianni-ch191-shenshi-sihai",
+      "dated": false,
+      "seq": 176
     }
   },
   "contested": false,
@@ -176,7 +200,8 @@
     "plot.xianni-ch176-duoqu-fengqun",
     "plot.xianni-ch179-180-jinshan-study-restrictions",
     "plot.xianni-ch183-yibian-chushi",
-    "plot.xianni-ch185-blood-sea-lord"
+    "plot.xianni-ch185-blood-sea-lord",
+    "plot.xianni-ch191-shenshi-sihai"
   ],
-  "updatedAt": "2026-07-07T04:36:31.128Z"
+  "updatedAt": "2026-07-07T11:14:57.410Z"
 }
