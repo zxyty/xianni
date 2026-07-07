@@ -11,9 +11,11 @@
   "attributes": {
     "称号": "六欲魔君",
     "外貌": "俊朗薄唇、锦布碎纹红衣绣金丝、黑发散乱、全身寒气",
-    "阵营": "魔修",
+    "阵营": "魔道",
     "身份": "碎星乱探险主导者、魔道高手、魔君",
-    "标志特征": "善阵法、口喷紫色火焰熔材料、身化残影似分身、需受术人施展的黑气化剑之术"
+    "标志特征": "善阵法、口喷紫色火焰熔材料、身化残影似分身、需受术人施展的黑气化剑之术",
+    "小阶段": "化神中期",
+    "性格": "谨慎多算"
   },
   "observations": {
     "称号": [
@@ -40,6 +42,11 @@
         "value": "魔修",
         "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
         "seq": 155
+      },
+      {
+        "value": "魔道",
+        "docId": "plot.xianni-ch179-180-jinshan-study-restrictions",
+        "seq": 164
       }
     ],
     "身份": [
@@ -80,6 +87,20 @@
         "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
         "seq": 151
       }
+    ],
+    "小阶段": [
+      {
+        "value": "化神中期",
+        "docId": "plot.xianni-ch179-180-jinshan-study-restrictions",
+        "seq": 164
+      }
+    ],
+    "性格": [
+      {
+        "value": "谨慎多算",
+        "docId": "plot.xianni-ch179-180-jinshan-study-restrictions",
+        "seq": 164
+      }
     ]
   },
   "firstSeq": 151,
@@ -98,9 +119,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
+      "docId": "plot.xianni-ch179-180-jinshan-study-restrictions",
       "dated": false,
-      "seq": 155
+      "seq": 164
     },
     "身份": {
       "asOf": null,
@@ -113,13 +134,26 @@
       "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
       "dated": false,
       "seq": 151
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch179-180-jinshan-study-restrictions",
+      "dated": false,
+      "seq": 164
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch179-180-jinshan-study-restrictions",
+      "dated": false,
+      "seq": 164
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
-    "plot.xianni-ch155-157-tuoli-duiwu-quisui"
+    "plot.xianni-ch155-157-tuoli-duiwu-quisui",
+    "plot.xianni-ch179-180-jinshan-study-restrictions"
   ],
-  "updatedAt": "2026-07-06T16:00:48.977Z"
+  "updatedAt": "2026-07-07T02:42:08.955Z"
 }
