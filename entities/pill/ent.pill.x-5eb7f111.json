@@ -5,8 +5,9 @@
   "aliases": [],
   "summary": "结婴时服下可增加些许结婴几率的丹药；三级修真国极罕见，四级亦不多见，丹方掌握在五级修真国手中。",
   "attributes": {
-    "功效": "增加结婴成功率",
-    "适用境界": "结婴/元婴突破"
+    "功效": "增加结婴几率",
+    "适用境界": "结丹后期冲元婴",
+    "副作用": "本片段仅令金丹带红,未见结婴之效"
   },
   "observations": {
     "功效": [
@@ -14,6 +15,11 @@
         "value": "增加结婴成功率",
         "docId": "plot.xianni-ch147-150-shendaoshu-deal",
         "seq": 147
+      },
+      {
+        "value": "增加结婴几率",
+        "docId": "plot.xianni-ch191-shenshi-sihai",
+        "seq": 176
       }
     ],
     "适用境界": [
@@ -21,6 +27,18 @@
         "value": "结婴/元婴突破",
         "docId": "plot.xianni-ch147-150-shendaoshu-deal",
         "seq": 147
+      },
+      {
+        "value": "结丹后期冲元婴",
+        "docId": "plot.xianni-ch191-shenshi-sihai",
+        "seq": 176
+      }
+    ],
+    "副作用": [
+      {
+        "value": "本片段仅令金丹带红,未见结婴之效",
+        "docId": "plot.xianni-ch191-shenshi-sihai",
+        "seq": 176
       }
     ]
   },
@@ -28,22 +46,29 @@
   "attrProvenance": {
     "功效": {
       "asOf": null,
-      "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+      "docId": "plot.xianni-ch191-shenshi-sihai",
       "dated": false,
-      "seq": 147
+      "seq": 176
     },
     "适用境界": {
       "asOf": null,
-      "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+      "docId": "plot.xianni-ch191-shenshi-sihai",
       "dated": false,
-      "seq": 147
+      "seq": 176
+    },
+    "副作用": {
+      "asOf": null,
+      "docId": "plot.xianni-ch191-shenshi-sihai",
+      "dated": false,
+      "seq": 176
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch147-150-shendaoshu-deal",
-    "plot.xianni-ch151-154-ancient-teleport-array-suixingluan"
+    "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
+    "plot.xianni-ch191-shenshi-sihai"
   ],
-  "updatedAt": "2026-07-06T15:52:10.960Z"
+  "updatedAt": "2026-07-07T11:14:57.406Z"
 }

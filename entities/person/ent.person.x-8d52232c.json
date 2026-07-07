@@ -4,14 +4,18 @@
   "name": "红发男子",
   "aliases": [
     "妖神血海红发男子",
-    "封印者"
+    "封印者",
+    "通天石柱上的男子",
+    "主人"
   ],
   "summary": "被封印在妖神血海数万年的远古强者，盘坐通天石锥，命妖神众修擒拿香魂。",
   "attributes": {
-    "外貌": "红发遮面、血肉模糊的脸",
+    "外貌": "红发遮面、血肉模糊的脸、血色红发，气息睥睨狂傲",
     "性格": "狂傲睥睨",
-    "身份": "被封印者",
-    "存殁": "存活"
+    "身份": "被封印者、力之传承继承者、血海之主／游魂之主",
+    "存殁": "存活",
+    "标志特征": "红发",
+    "阵营": "被封印于血海、血海／魔化势力"
   },
   "observations": {
     "外貌": [
@@ -24,6 +28,11 @@
         "value": "血肉模糊的脸",
         "docId": "plot.xianni-ch185-blood-sea-lord",
         "seq": 170
+      },
+      {
+        "value": "血色红发，气息睥睨狂傲",
+        "docId": "plot.xianni-ch191-shenshi-sihai",
+        "seq": 176
       }
     ],
     "性格": [
@@ -38,6 +47,16 @@
         "value": "被封印者",
         "docId": "plot.xianni-ch185-blood-sea-lord",
         "seq": 170
+      },
+      {
+        "value": "力之传承继承者",
+        "docId": "plot.xianni-ch191-shenshi-sihai",
+        "seq": 176
+      },
+      {
+        "value": "血海之主／游魂之主",
+        "docId": "plot.xianni-ch191-shenshi-sihai",
+        "seq": 176
       }
     ],
     "存殁": [
@@ -46,6 +65,25 @@
         "docId": "plot.xianni-ch185-blood-sea-lord",
         "seq": 170,
         "note": "被封印于妖神血海"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "红发",
+        "docId": "plot.xianni-ch191-shenshi-sihai",
+        "seq": 176
+      }
+    ],
+    "阵营": [
+      {
+        "value": "被封印于血海",
+        "docId": "plot.xianni-ch191-shenshi-sihai",
+        "seq": 176
+      },
+      {
+        "value": "血海／魔化势力",
+        "docId": "plot.xianni-ch191-shenshi-sihai",
+        "seq": 176
       }
     ]
   },
@@ -75,12 +113,25 @@
       "dated": false,
       "seq": 170,
       "note": "被封印于妖神血海"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch191-shenshi-sihai",
+      "dated": false,
+      "seq": 176
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch191-shenshi-sihai",
+      "dated": false,
+      "seq": 176
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch185-blood-sea-lord"
+    "plot.xianni-ch185-blood-sea-lord",
+    "plot.xianni-ch191-shenshi-sihai"
   ],
-  "updatedAt": "2026-07-07T04:36:31.096Z"
+  "updatedAt": "2026-07-07T11:14:57.432Z"
 }

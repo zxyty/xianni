@@ -40,3 +40,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-07-07T02:54:01.444Z** `ingest` plot.xianni-ch181-jinzhi-baofa — 仙逆 第181章 禁制大爆发——禁制之山闯关，王林引爆残影之圈算计古帝与六欲魔君 · kind=plot asOf=2026-07-07 entities=33 relations=37 src=00166-00167.md
 - **2026-07-07T04:12:19.287Z** `ingest` plot.xianni-ch183-yibian-chushi — 仙逆 第183章 异变初始——王林寂灭界第三关吞游魂、布石山禁制潜行 · kind=plot asOf=2026-07-07 entities=46 relations=76 src=00168-00169.md
 - **2026-07-07T04:36:31.145Z** `ingest` plot.xianni-ch185-blood-sea-lord — 仙逆 第185章 血海之主——天魔散人复活、六欲血遁、王林诱孟驼子中毒 · kind=plot asOf=2026-07-07 entities=40 relations=59 src=00170-00172.md
+- **2026-07-07T11:14:57.461Z** `ingest` plot.xianni-ch191-shenshi-sihai — 仙逆 第191章 神识死海——王林闯死海失败，推断红发男子操控魔修寻番魂 · kind=plot asOf=2026-07-07 entities=50 relations=68 src=00176-00178.md
