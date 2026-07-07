@@ -7,16 +7,19 @@
     "碎星带",
     "碎石地带",
     "碎星乱平原",
-    "碎星乱内部平原"
+    "碎星乱内部平原",
+    "碎星环",
+    "碎星环内环"
   ],
   "summary": "修魔海内海极北平原上宽约百里的碎石地带，碎石间有奇异牵扯之力，为修魔海最危险的死亡禁地，被朱雀国大阵封印，擅入者杀无赦。",
   "attributes": {
     "所属界面": "修魔海内海、修魔海",
-    "类型": "禁地/死亡地带、秘境/禁地、秘境、古神尸身空间入口",
-    "方位": "内海极北平原",
-    "规模": "宽约百里碎石地带、环形碎石带宽约百里",
-    "危险度": "十死无生，最危险处之一、极高",
-    "守护": "朱雀星大阵封印、神秘力量凝出的高本体一境分身、椭圆形光圈封印禁制"
+    "类型": "禁地/死亡地带、秘境/禁地、秘境、古神尸身空间入口、凶地/环形碎石之地、险地/禁地",
+    "方位": "修魔内海",
+    "规模": "宽约百里碎石地带、环形碎石带宽约百里、内环百里",
+    "危险度": "十死无生，最危险处之一、极高、极高（曾吞噬元婴强者）",
+    "守护": "朱雀星大阵封印、神秘力量凝出的高本体一境分身、椭圆形光圈封印禁制、碎石凝结的复制分身",
+    "上级区域": "修魔内海"
   },
   "observations": {
     "所属界面": [
@@ -51,6 +54,16 @@
         "value": "古神尸身空间入口",
         "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
         "seq": 151
+      },
+      {
+        "value": "凶地/环形碎石之地",
+        "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+        "seq": 183
+      },
+      {
+        "value": "险地/禁地",
+        "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+        "seq": 183
       }
     ],
     "方位": [
@@ -58,6 +71,11 @@
         "value": "内海极北平原",
         "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
         "seq": 151
+      },
+      {
+        "value": "修魔内海",
+        "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+        "seq": 183
       }
     ],
     "规模": [
@@ -70,6 +88,11 @@
         "value": "环形碎石带宽约百里",
         "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
         "seq": 151
+      },
+      {
+        "value": "内环百里",
+        "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+        "seq": 183
       }
     ],
     "危险度": [
@@ -82,6 +105,11 @@
         "value": "极高",
         "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
         "seq": 151
+      },
+      {
+        "value": "极高（曾吞噬元婴强者）",
+        "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+        "seq": 183
       }
     ],
     "守护": [
@@ -99,6 +127,18 @@
         "value": "椭圆形光圈封印禁制",
         "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
         "seq": 151
+      },
+      {
+        "value": "碎石凝结的复制分身",
+        "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+        "seq": 183
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "修魔内海",
+        "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+        "seq": 183
       }
     ]
   },
@@ -118,9 +158,9 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
+      "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
       "dated": false,
-      "seq": 151
+      "seq": 183
     },
     "规模": {
       "asOf": null,
@@ -139,12 +179,19 @@
       "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
       "dated": false,
       "seq": 151
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+      "dated": false,
+      "seq": 183
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch151-154-ancient-teleport-array-suixingluan"
+    "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
+    "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng"
   ],
-  "updatedAt": "2026-07-06T15:52:10.953Z"
+  "updatedAt": "2026-07-07T11:38:30.312Z"
 }

@@ -9,15 +9,16 @@
     "冰焰",
     "蓝色晶芒",
     "蓝色冰晶",
-    "蓝色晶光"
+    "蓝色晶光",
+    "黄泉炎"
   ],
   "summary": "黄泉升窍决精髓，蓝色冰焰散发寒气而非热量，可消融蓝晶。",
   "attributes": {
-    "类型": "冰系",
-    "出处": "王林",
-    "威力": "可迅速消融蓝色冰晶、破坏力极强、秒杀结丹修士、重创元婴级，晶芒蛛网蔓延半身",
+    "类型": "火焰诡术",
+    "出处": "黄泉升窍决一脉",
+    "威力": "可迅速消融蓝色冰晶、破坏力极强、秒杀结丹修士、重创元婴级，晶芒蛛网蔓延半身、蓝焰凝聚、融炼残躯",
     "消耗": "过用损金丹",
-    "适用境界": "结丹"
+    "适用境界": "结丹以上"
   },
   "observations": {
     "类型": [
@@ -50,6 +51,11 @@
         "value": "冰系",
         "docId": "plot.xianni-ch183-yibian-chushi",
         "seq": 168
+      },
+      {
+        "value": "火焰诡术",
+        "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+        "seq": 183
       }
     ],
     "出处": [
@@ -62,6 +68,11 @@
         "value": "王林",
         "docId": "plot.xianni-ch173-second-demon-head",
         "seq": 158
+      },
+      {
+        "value": "黄泉升窍决一脉",
+        "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+        "seq": 183
       }
     ],
     "威力": [
@@ -84,6 +95,11 @@
         "value": "重创元婴级，晶芒蛛网蔓延半身",
         "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
         "seq": 137
+      },
+      {
+        "value": "蓝焰凝聚、融炼残躯",
+        "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+        "seq": 183
       }
     ],
     "消耗": [
@@ -103,6 +119,11 @@
         "value": "结丹",
         "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
         "seq": 137
+      },
+      {
+        "value": "结丹以上",
+        "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+        "seq": 183
       }
     ]
   },
@@ -110,15 +131,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch183-yibian-chushi",
+      "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
       "dated": false,
-      "seq": 168
+      "seq": 183
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch173-second-demon-head",
+      "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
       "dated": false,
-      "seq": 158
+      "seq": 183
     },
     "威力": {
       "asOf": null,
@@ -134,9 +155,9 @@
     },
     "适用境界": {
       "asOf": null,
-      "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+      "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
       "dated": false,
-      "seq": 137
+      "seq": 183
     }
   },
   "contested": false,
@@ -147,7 +168,8 @@
     "plot.xianni-ch137-141-nandou-shafa-xuelu",
     "plot.xianni-ch173-second-demon-head",
     "plot.xianni-ch176-duoqu-fengqun",
-    "plot.xianni-ch183-yibian-chushi"
+    "plot.xianni-ch183-yibian-chushi",
+    "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng"
   ],
-  "updatedAt": "2026-07-07T04:12:19.207Z"
+  "updatedAt": "2026-07-07T11:38:30.299Z"
 }

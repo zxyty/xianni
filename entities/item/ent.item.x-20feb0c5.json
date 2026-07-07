@@ -6,12 +6,14 @@
     "尸阴宗玉简",
     "身份玉简",
     "青龙防御玉简",
-    "记录手诀的玉简"
+    "记录手诀的玉简",
+    "岐黄门丹方玉简"
   ],
   "summary": "尸阴宗唯一身份凭证，按颜色分始祖青/师祖深蓝/长老淡蓝/弟子白；封印弟子魂魄以受上级控制。",
   "attributes": {
-    "类型": "记录法诀之物",
-    "用途": "记录离开第三关之手诀"
+    "类型": "记录玉简",
+    "用途": "记载岐黄门丹药配方",
+    "产地": "岐黄门"
   },
   "observations": {
     "类型": [
@@ -29,6 +31,11 @@
         "value": "记录法诀之物",
         "docId": "plot.xianni-ch183-yibian-chushi",
         "seq": 168
+      },
+      {
+        "value": "记录玉简",
+        "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+        "seq": 183
       }
     ],
     "用途": [
@@ -46,6 +53,18 @@
         "value": "记录离开第三关之手诀",
         "docId": "plot.xianni-ch183-yibian-chushi",
         "seq": 168
+      },
+      {
+        "value": "记载岐黄门丹药配方",
+        "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+        "seq": 183
+      }
+    ],
+    "产地": [
+      {
+        "value": "岐黄门",
+        "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+        "seq": 183
       }
     ]
   },
@@ -53,15 +72,21 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch183-yibian-chushi",
+      "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
       "dated": false,
-      "seq": 168
+      "seq": 183
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch183-yibian-chushi",
+      "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
       "dated": false,
-      "seq": 168
+      "seq": 183
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+      "dated": false,
+      "seq": 183
     }
   },
   "contested": false,
@@ -70,7 +95,8 @@
     "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
     "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
     "plot.xianni-ch176-duoqu-fengqun",
-    "plot.xianni-ch183-yibian-chushi"
+    "plot.xianni-ch183-yibian-chushi",
+    "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng"
   ],
-  "updatedAt": "2026-07-07T04:12:19.270Z"
+  "updatedAt": "2026-07-07T11:38:30.300Z"
 }
