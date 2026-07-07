@@ -6,7 +6,8 @@
   "summary": "孟驼子当日赠予王林的丹药，土行之地遇毒时含服防身。",
   "attributes": {
     "功效": "防毒",
-    "炼制者": "孟驼子（来源）"
+    "炼制者": "孟驼子（来源）",
+    "品阶": "中等"
   },
   "observations": {
     "功效": [
@@ -21,6 +22,13 @@
         "value": "孟驼子（来源）",
         "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
         "seq": 155
+      }
+    ],
+    "品阶": [
+      {
+        "value": "中等",
+        "docId": "plot.xianni-ch176-duoqu-fengqun",
+        "seq": 161
       }
     ]
   },
@@ -37,13 +45,20 @@
       "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
       "dated": false,
       "seq": 155
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-ch176-duoqu-fengqun",
+      "dated": false,
+      "seq": 161
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch155-157-tuoli-duiwu-quisui",
-    "plot.xianni-ch173-second-demon-head"
+    "plot.xianni-ch173-second-demon-head",
+    "plot.xianni-ch176-duoqu-fengqun"
   ],
-  "updatedAt": "2026-07-06T16:27:55.044Z"
+  "updatedAt": "2026-07-07T02:39:51.844Z"
 }

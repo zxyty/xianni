@@ -35,3 +35,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-07-06T15:52:10.998Z** `ingest` plot.xianni-ch151-154-ancient-teleport-array-suixingluan — 仙逆 第151-154章 古传送阵与碎星乱 · kind=plot asOf=2026-07-06 entities=50 relations=49 src=00151-00154.md
 - **2026-07-06T16:00:49.019Z** `ingest` plot.xianni-ch155-157-tuoli-duiwu-quisui — 仙逆 第155-157章：脱离队伍·荒兽取髓·虚无空间穿行 · kind=plot asOf=2026-07-06 entities=37 relations=31 src=00155-00157.md
 - **2026-07-06T16:27:55.096Z** `ingest` plot.xianni-ch173-second-demon-head — 仙逆 第173章 第二魔头——土行小兽神识与养魔头之法 · kind=plot asOf=2026-07-06 entities=43 relations=56 src=00158-00160.md
+- **2026-07-07T02:39:51.882Z** `ingest` plot.xianni-ch176-duoqu-fengqun — 仙逆 第176章 夺取风群 — 王林驱飓风闯域外战场第一关入第二关 · kind=plot asOf=2026-07-07 entities=41 relations=50 src=00161-00163.md
