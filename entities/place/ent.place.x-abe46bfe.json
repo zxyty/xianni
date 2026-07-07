@@ -16,10 +16,10 @@
   ],
   "summary": "邻近火焚国的海域。",
   "attributes": {
-    "类型": "雾海、海域秘境、海域/魔修之地、海域/修魔势力范围、海域/魔修聚集地、海域/凶地、海域、海域/险地、海域/大型秘境",
+    "类型": "雾海、海域秘境、海域/魔修之地、海域/修魔势力范围、海域/魔修聚集地、海域/凶地、海域、海域/险地、海域/大型秘境、凶险海域",
     "方位": "周武大陆与赵国大陆之间、火焚国边境外",
-    "危险度": "极高(元婴期亦不敢轻入)、高、高（海威、化海）、极高",
-    "特产": "每年一月雾气复为海水、阴寒灵力、上古海洋植被、内海灵兽、远古古传送阵、小兽兽群、飓风、雾气化海、异兽内丹、常年黑雨与天劫雷云",
+    "危险度": "极高(元婴期亦不敢轻入)、高、高（海威、化海）、极高、高（遍地危机）",
+    "特产": "每年一月雾气复为海水、阴寒灵力、上古海洋植被、内海灵兽、远古古传送阵、小兽兽群、飓风、雾气化海、异兽内丹、常年黑雨与天劫雷云、极品灵石",
     "规模": "约相当于几千个火焚国、城池近千（九百九十八城）、极大，飞行百年难达边缘、极大",
     "上级区域": "修魔海"
   },
@@ -69,6 +69,11 @@
         "value": "海域/大型秘境",
         "docId": "plot.xianni-ch207-killing-for-cores",
         "seq": 191
+      },
+      {
+        "value": "凶险海域",
+        "docId": "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
+        "seq": 192
       }
     ],
     "方位": [
@@ -103,6 +108,11 @@
         "value": "极高",
         "docId": "plot.xianni-ch176-duoqu-fengqun",
         "seq": 161
+      },
+      {
+        "value": "高（遍地危机）",
+        "docId": "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
+        "seq": 192
       }
     ],
     "特产": [
@@ -145,6 +155,11 @@
         "value": "常年黑雨与天劫雷云",
         "docId": "plot.xianni-ch207-killing-for-cores",
         "seq": 191
+      },
+      {
+        "value": "极品灵石",
+        "docId": "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
+        "seq": 192
       }
     ],
     "规模": [
@@ -238,7 +253,8 @@
     "plot.xianni-ch186-187-two-hundred-years-silence",
     "plot.renfa-ch204-ancient-mirror-forbidden-banner",
     "plot.xianni-ch206-guixi-yuanying-qiusiping",
-    "plot.xianni-ch207-killing-for-cores"
+    "plot.xianni-ch207-killing-for-cores",
+    "plot.xianni-ch208-sundian-shoutu-guchuansongzhen"
   ],
-  "updatedAt": "2026-07-07T12:22:41.843Z"
+  "updatedAt": "2026-07-07T12:34:31.454Z"
 }

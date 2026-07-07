@@ -47,3 +47,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-07-07T12:03:22.489Z** `ingest` plot.renfa-ch204-ancient-mirror-forbidden-banner — 仙逆 第204章 古镜与禁幡——王林祭炼古镜、暗控云妃、图谋结婴与古传送阵 · kind=plot asOf=2026-07-07 entities=38 relations=41 src=00188-00189.md
 - **2026-07-07T12:09:47.127Z** `ingest` plot.xianni-ch206-guixi-yuanying-qiusiping — 仙逆 第206章 天劫：邱四平献归息元婴之约，王林习炼丹之道 · kind=plot asOf=2026-07-07 entities=24 relations=35 src=00190-00190.md
 - **2026-07-07T12:22:41.862Z** `ingest` plot.xianni-ch207-killing-for-cores — 仙逆 第207章 杀人取丹——禁幡引天劫、修魔海化盆地 · kind=plot asOf=2026-07-07 entities=25 relations=30 src=00191-00191.md
+- **2026-07-07T12:34:31.475Z** `ingest` plot.xianni-ch208-sundian-shoutu-guchuansongzhen — 仙逆 第208章 极境的终点——孙癫强收徒·洞府取元婴 · kind=plot asOf=2026-07-07 entities=26 relations=33 src=00192-00193.md

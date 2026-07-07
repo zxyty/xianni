@@ -3,14 +3,17 @@
   "type": "place",
   "name": "王林火焚国洞府",
   "aliases": [
-    "洞府"
+    "洞府",
+    "山脉洞府",
+    "邱四平师门洞府"
   ],
   "summary": "王林在火焚国非火山山脉削凿的洞府，洞外布迷踪阵法、封死东门。",
   "attributes": {
-    "所属界面": "火焚国",
+    "所属界面": "修魔海",
     "类型": "洞府",
     "守护": "迷踪阵法",
-    "方位": "火焚国非火山山脉"
+    "方位": "山脉中段",
+    "危险度": "石室禁制以兽头守御"
   },
   "observations": {
     "所属界面": [
@@ -18,6 +21,11 @@
         "value": "火焚国",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
+      },
+      {
+        "value": "修魔海",
+        "docId": "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
+        "seq": 192
       }
     ],
     "类型": [
@@ -39,6 +47,18 @@
         "value": "火焚国非火山山脉",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
+      },
+      {
+        "value": "山脉中段",
+        "docId": "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
+        "seq": 192
+      }
+    ],
+    "危险度": [
+      {
+        "value": "石室禁制以兽头守御",
+        "docId": "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
+        "seq": 192
       }
     ]
   },
@@ -46,9 +66,9 @@
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+      "docId": "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
       "dated": false,
-      "seq": 119
+      "seq": 192
     },
     "类型": {
       "asOf": null,
@@ -64,15 +84,22 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+      "docId": "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
       "dated": false,
-      "seq": 119
+      "seq": 192
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
+      "dated": false,
+      "seq": 192
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian"
+    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+    "plot.xianni-ch208-sundian-shoutu-guchuansongzhen"
   ],
-  "updatedAt": "2026-07-05T05:13:41.023Z"
+  "updatedAt": "2026-07-07T12:34:31.429Z"
 }

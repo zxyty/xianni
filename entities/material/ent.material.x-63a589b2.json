@@ -4,14 +4,16 @@
   "name": "极品灵石",
   "aliases": [
     "菱形极品灵石",
-    "菱形晶石"
+    "菱形晶石",
+    "深紫色菱形石块",
+    "深紫色极品灵石"
   ],
   "summary": "菱形、散乳白色光圈的顶级灵石，蕴含灵力远超上品灵石，是修真星之间交流的主要货币，极为罕见。",
   "attributes": {
-    "类型": "顶级灵石、灵石",
-    "用途": "驱动古传送阵、修真星间货币、开启古传送阵、开启入口光圈、灵力来源、开启传送阵/顶级灵力来源",
+    "类型": "顶级灵石、灵石、极品灵石",
+    "用途": "驱动古传送阵、修真星间货币、开启古传送阵、开启入口光圈、灵力来源、开启传送阵/顶级灵力来源、启动古传送阵的灵力来源",
     "稀有度": "极品",
-    "产地": "朱雀园"
+    "产地": "修魔海"
   },
   "observations": {
     "类型": [
@@ -24,6 +26,11 @@
         "value": "灵石",
         "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
         "seq": 151
+      },
+      {
+        "value": "极品灵石",
+        "docId": "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
+        "seq": 192
       }
     ],
     "用途": [
@@ -56,6 +63,11 @@
         "value": "开启传送阵/顶级灵力来源",
         "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
         "seq": 188
+      },
+      {
+        "value": "启动古传送阵的灵力来源",
+        "docId": "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
+        "seq": 192
       }
     ],
     "稀有度": [
@@ -80,6 +92,11 @@
         "value": "朱雀园",
         "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
         "seq": 151
+      },
+      {
+        "value": "修魔海",
+        "docId": "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
+        "seq": 192
       }
     ]
   },
@@ -105,9 +122,9 @@
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
+      "docId": "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
       "dated": false,
-      "seq": 151
+      "seq": 192
     }
   },
   "contested": false,
@@ -117,7 +134,8 @@
     "plot.xianni-ch155-157-tuoli-duiwu-quisui",
     "plot.xianni-ch176-duoqu-fengqun",
     "plot.xianni-ch191-shenshi-sihai",
-    "plot.renfa-ch204-ancient-mirror-forbidden-banner"
+    "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+    "plot.xianni-ch208-sundian-shoutu-guchuansongzhen"
   ],
-  "updatedAt": "2026-07-07T12:03:22.437Z"
+  "updatedAt": "2026-07-07T12:34:31.451Z"
 }
