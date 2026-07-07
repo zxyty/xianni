@@ -6,15 +6,16 @@
     "神道法诀",
     "神道之术",
     "战神殿神道之术",
-    "神道之神通"
+    "神道之神通",
+    "分身法门"
   ],
   "summary": "战神殿顶级修炼秘术，筑基期方可修，据说增结丹几率并有驻颜之效；法诀不足百字、晦涩难悟。",
   "attributes": {
-    "品阶": "残缺",
-    "出处": "陈冲留下口诀",
-    "效果": "增结丹几率、驻颜、疑增益结婴几率、修炼分身、增结婴几率、分身寿元不足半甲子且初无修为",
-    "修炼条件": "需大量丹药填充分身修为",
-    "外显异象": "分身灵巧无呆板"
+    "品阶": "具大神通的分身法门",
+    "出处": "战神殿后山山洞（陈冲始祖凭记忆刻画）",
+    "效果": "增结丹几率、驻颜、疑增益结婴几率、修炼分身、增结婴几率、分身寿元不足半甲子且初无修为、凝练真身分身、分身本体可融合以提高结婴成功率",
+    "修炼条件": "看透即可修炼，与资质无关；分身需灵药供养",
+    "外显异象": "分身出现天生霞光异象经久不散"
   },
   "observations": {
     "品阶": [
@@ -27,6 +28,11 @@
         "value": "残缺",
         "docId": "plot.xianni-ch147-150-shendaoshu-deal",
         "seq": 147
+      },
+      {
+        "value": "具大神通的分身法门",
+        "docId": "plot.xianni-ch210-212-refine-avatar-yuntian-sect",
+        "seq": 194
       }
     ],
     "出处": [
@@ -39,6 +45,11 @@
         "value": "陈冲留下口诀",
         "docId": "plot.xianni-ch147-150-shendaoshu-deal",
         "seq": 147
+      },
+      {
+        "value": "战神殿后山山洞（陈冲始祖凭记忆刻画）",
+        "docId": "plot.xianni-ch210-212-refine-avatar-yuntian-sect",
+        "seq": 194
       }
     ],
     "效果": [
@@ -71,6 +82,16 @@
         "value": "分身寿元不足半甲子且初无修为",
         "docId": "plot.xianni-ch147-150-shendaoshu-deal",
         "seq": 147
+      },
+      {
+        "value": "凝练真身分身",
+        "docId": "plot.xianni-ch210-212-refine-avatar-yuntian-sect",
+        "seq": 194
+      },
+      {
+        "value": "分身本体可融合以提高结婴成功率",
+        "docId": "plot.xianni-ch210-212-refine-avatar-yuntian-sect",
+        "seq": 194
       }
     ],
     "修炼条件": [
@@ -83,6 +104,11 @@
         "value": "需大量丹药填充分身修为",
         "docId": "plot.xianni-ch147-150-shendaoshu-deal",
         "seq": 147
+      },
+      {
+        "value": "看透即可修炼，与资质无关；分身需灵药供养",
+        "docId": "plot.xianni-ch210-212-refine-avatar-yuntian-sect",
+        "seq": 194
       }
     ],
     "外显异象": [
@@ -90,6 +116,11 @@
         "value": "分身灵巧无呆板",
         "docId": "plot.xianni-ch147-150-shendaoshu-deal",
         "seq": 147
+      },
+      {
+        "value": "分身出现天生霞光异象经久不散",
+        "docId": "plot.xianni-ch210-212-refine-avatar-yuntian-sect",
+        "seq": 194
       }
     ]
   },
@@ -97,15 +128,15 @@
   "attrProvenance": {
     "品阶": {
       "asOf": null,
-      "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+      "docId": "plot.xianni-ch210-212-refine-avatar-yuntian-sect",
       "dated": false,
-      "seq": 147
+      "seq": 194
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+      "docId": "plot.xianni-ch210-212-refine-avatar-yuntian-sect",
       "dated": false,
-      "seq": 147
+      "seq": 194
     },
     "效果": {
       "asOf": null,
@@ -115,15 +146,15 @@
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+      "docId": "plot.xianni-ch210-212-refine-avatar-yuntian-sect",
       "dated": false,
-      "seq": 147
+      "seq": 194
     },
     "外显异象": {
       "asOf": null,
-      "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+      "docId": "plot.xianni-ch210-212-refine-avatar-yuntian-sect",
       "dated": false,
-      "seq": 147
+      "seq": 194
     }
   },
   "contested": false,
@@ -131,7 +162,8 @@
   "docs": [
     "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
     "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
-    "plot.xianni-ch147-150-shendaoshu-deal"
+    "plot.xianni-ch147-150-shendaoshu-deal",
+    "plot.xianni-ch210-212-refine-avatar-yuntian-sect"
   ],
-  "updatedAt": "2026-07-06T15:33:53.286Z"
+  "updatedAt": "2026-07-07T12:37:01.154Z"
 }
