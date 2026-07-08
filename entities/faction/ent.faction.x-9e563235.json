@@ -6,10 +6,10 @@
   "summary": "修魔海内以丹道著称的门派，后被神秘力量一夜之间摧毁，云妃为其传人。",
   "attributes": {
     "所属界面": "修魔海",
-    "理念": "炼丹流派",
+    "理念": "炼丹剑走偏锋",
     "据点": "修魔海",
-    "镇派之宝": "记录珍贵丹方的玉简",
-    "等级": "原属四级修真国宗派"
+    "镇派之宝": "丹道（青云丹等三大名丹）",
+    "等级": "四级修真国宗派"
   },
   "observations": {
     "所属界面": [
@@ -29,6 +29,11 @@
         "value": "炼丹流派",
         "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
         "seq": 203
+      },
+      {
+        "value": "炼丹剑走偏锋",
+        "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
+        "seq": 208
       }
     ],
     "据点": [
@@ -44,6 +49,11 @@
         "value": "记录珍贵丹方的玉简",
         "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
         "seq": 186
+      },
+      {
+        "value": "丹道（青云丹等三大名丹）",
+        "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
+        "seq": 208
       }
     ],
     "等级": [
@@ -51,6 +61,11 @@
         "value": "原属四级修真国宗派",
         "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
         "seq": 203
+      },
+      {
+        "value": "四级修真国宗派",
+        "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
+        "seq": 208
       }
     ]
   },
@@ -64,9 +79,9 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+      "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
       "dated": false,
-      "seq": 203
+      "seq": 208
     },
     "据点": {
       "asOf": null,
@@ -77,15 +92,15 @@
     },
     "镇派之宝": {
       "asOf": null,
-      "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
+      "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
       "dated": false,
-      "seq": 186
+      "seq": 208
     },
     "等级": {
       "asOf": null,
-      "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+      "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
       "dated": false,
-      "seq": 203
+      "seq": 208
     }
   },
   "contested": false,
@@ -93,7 +108,8 @@
   "docs": [
     "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
     "plot.xianni-ch186-187-two-hundred-years-silence",
-    "plot.xianni-ch219-dongyuan-lingyuan-heist"
+    "plot.xianni-ch219-dongyuan-lingyuan-heist",
+    "plot.xianni-ch224-jieying-fenshen-benzun-ronghe"
   ],
-  "updatedAt": "2026-07-08T13:41:20.923Z"
+  "updatedAt": "2026-07-08T14:07:21.005Z"
 }

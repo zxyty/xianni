@@ -14,14 +14,15 @@
     "古神传承",
     "古神诀神通",
     "掠夺神通",
-    "古神诀（吉神诀）"
+    "古神诀（吉神诀）",
+    "古神一族传承功法"
   ],
   "summary": "古神传承功法，重炼体，第一层分夺灵、番灵、化灵三阶段，以灵力固身、扩身、身体重组质变。",
   "attributes": {
     "出处": "古神传承、古神一族、古神诀第一层、古神之地、古神／古神之地、吉神涂司之记忆、远古功法",
-    "效果": "炼体固身、身体重组质变、夺灵吸纳灵气、反用灵气极速提升修为、瞬间完整吸收修丹、消融吞噬所得分识、生吞灵物直接炼化、瓦解元婴释放灵力、灵力可导向炼体或金丹、集齐力之传承与忆之传承即可成为新的古神、掠夺一切、吞噬灵力、灵力再多亦可承受、关联古神炼体（外炼）、吞噬平复灵力、灵力在体内循环（内修），可迅速恢复灵力、吞噬灵力/丹药，将本应消散的灵力无限放大吸收",
-    "修炼条件": "强行阻拦肉身外炼",
-    "外显异象": "三个金色大字",
+    "效果": "炼体固身、身体重组质变、夺灵吸纳灵气、反用灵气极速提升修为、瞬间完整吸收修丹、消融吞噬所得分识、生吞灵物直接炼化、瓦解元婴释放灵力、灵力可导向炼体或金丹、集齐力之传承与忆之传承即可成为新的古神、掠夺一切、吞噬灵力、灵力再多亦可承受、关联古神炼体（外炼）、吞噬平复灵力、灵力在体内循环（内修），可迅速恢复灵力、吞噬灵力/丹药，将本应消散的灵力无限放大吸收、吞噬无穷灵力、壮大金丹（第一层=吞噬）、第一层吞噬：转化各属性灵力为己用、第二层吸收：方圆无数里主动吸收他人修为",
+    "修炼条件": "第二层需获「力之传承」",
+    "外显异象": "如黑洞般吸扯灵力",
     "品阶": "古神功法",
     "适用境界": "结丹"
   },
@@ -143,6 +144,21 @@
         "value": "吞噬灵力/丹药，将本应消散的灵力无限放大吸收",
         "docId": "plot.xianni-ch222-wanglin-jiedan",
         "seq": 206
+      },
+      {
+        "value": "吞噬无穷灵力、壮大金丹（第一层=吞噬）",
+        "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
+        "seq": 208
+      },
+      {
+        "value": "第一层吞噬：转化各属性灵力为己用",
+        "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
+        "seq": 208
+      },
+      {
+        "value": "第二层吸收：方圆无数里主动吸收他人修为",
+        "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
+        "seq": 208
       }
     ],
     "修炼条件": [
@@ -161,6 +177,11 @@
         "value": "强行阻拦肉身外炼",
         "docId": "plot.xianni-ch222-wanglin-jiedan",
         "seq": 206
+      },
+      {
+        "value": "第二层需获「力之传承」",
+        "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
+        "seq": 208
       }
     ],
     "外显异象": [
@@ -173,6 +194,11 @@
         "value": "三个金色古字",
         "docId": "plot.xianni-ch188-gushen-chuancheng-2",
         "seq": 173
+      },
+      {
+        "value": "如黑洞般吸扯灵力",
+        "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
+        "seq": 208
       }
     ],
     "品阶": [
@@ -206,15 +232,15 @@
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.xianni-ch222-wanglin-jiedan",
+      "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
       "dated": false,
-      "seq": 206
+      "seq": 208
     },
     "外显异象": {
       "asOf": null,
-      "docId": "plot.xianni-ch194-blood-sea-seal-opening",
+      "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
       "dated": false,
-      "seq": 179
+      "seq": 208
     },
     "品阶": {
       "asOf": null,
@@ -239,7 +265,8 @@
     "plot.xianni-ch188-gushen-chuancheng-2",
     "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
     "plot.xianni-ch219-dongyuan-lingyuan-heist",
-    "plot.xianni-ch222-wanglin-jiedan"
+    "plot.xianni-ch222-wanglin-jiedan",
+    "plot.xianni-ch224-jieying-fenshen-benzun-ronghe"
   ],
-  "updatedAt": "2026-07-08T13:54:39.519Z"
+  "updatedAt": "2026-07-08T14:07:21.016Z"
 }
