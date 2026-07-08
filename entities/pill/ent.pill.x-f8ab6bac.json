@@ -2,10 +2,12 @@
   "id": "ent.pill.x-f8ab6bac",
   "type": "pill",
   "name": "培元丹",
-  "aliases": [],
+  "aliases": [
+    "大培元丹"
+  ],
   "summary": "王林自炼成功一炉（七粒），配合灵液助其修为由凝气三层跃至八层。",
   "attributes": {
-    "功效": "增益灵力、助凝气境修为",
+    "功效": "培元增灵力",
     "适用境界": "凝气期",
     "炼制者": "王林"
   },
@@ -15,6 +17,11 @@
         "value": "增益灵力、助凝气境修为",
         "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
         "seq": 197
+      },
+      {
+        "value": "培元增灵力",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199
       }
     ],
     "适用境界": [
@@ -36,9 +43,9 @@
   "attrProvenance": {
     "功效": {
       "asOf": null,
-      "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+      "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
       "dated": false,
-      "seq": 197
+      "seq": 199
     },
     "适用境界": {
       "asOf": null,
@@ -56,7 +63,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch213-yuntianzong-zhoulin-shoutu"
+    "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+    "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan"
   ],
-  "updatedAt": "2026-07-07T12:54:31.014Z"
+  "updatedAt": "2026-07-08T13:23:07.485Z"
 }

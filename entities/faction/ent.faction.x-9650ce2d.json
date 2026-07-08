@@ -7,14 +7,15 @@
     "Yuntianzong",
     "云天宗门派",
     "云天宗内院",
-    "云天宗内院南苑"
+    "云天宗内院南苑",
+    "Yun Tian Zong"
   ],
   "summary": "楚国以炼丹闻名的门派之首，位于云天山脉顶端，开派八千余年，三十年一次收徒讲究缘法，房舍多以天然玉石打造。",
   "attributes": {
-    "等级": "楚国第一门派",
-    "据点": "云天山脉顶端、内宗东西南北四首环中央大殿；后山为闭关地、东苑、南苑、西苑、北苑",
+    "等级": "高手至多元婴后期",
+    "据点": "云天山脉顶端、内宗东西南北四首环中央大殿；后山为闭关地、东苑、南苑、西苑、北苑、外院、内院",
     "所属界面": "楚国",
-    "理念": "以炼丹闻名，收徒讲究缘法而非天资灵根、内宗炼丹、外宗御敌、以炼丹为主、内院以炼丹之术衡量高低，非以修为",
+    "理念": "以炼丹闻名，收徒讲究缘法而非天资灵根、内宗炼丹、外宗御敌、以炼丹为主、内院以炼丹之术衡量高低，非以修为、内院修士精力多在炼丹闭关",
     "镇派之宝": "修魔丹（三宝之一）"
   },
   "observations": {
@@ -28,6 +29,11 @@
         "value": "楚国第一门派",
         "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
         "seq": 197
+      },
+      {
+        "value": "高手至多元婴后期",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199
       }
     ],
     "据点": [
@@ -60,6 +66,16 @@
         "value": "北苑",
         "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
         "seq": 197
+      },
+      {
+        "value": "外院",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199
+      },
+      {
+        "value": "内院",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199
       }
     ],
     "所属界面": [
@@ -94,6 +110,11 @@
         "value": "内院以炼丹之术衡量高低，非以修为",
         "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
         "seq": 197
+      },
+      {
+        "value": "内院修士精力多在炼丹闭关",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199
       }
     ],
     "镇派之宝": [
@@ -108,9 +129,9 @@
   "attrProvenance": {
     "等级": {
       "asOf": null,
-      "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+      "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
       "dated": false,
-      "seq": 197
+      "seq": 199
     },
     "据点": {
       "asOf": null,
@@ -141,7 +162,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch210-212-refine-avatar-yuntian-sect",
-    "plot.xianni-ch213-yuntianzong-zhoulin-shoutu"
+    "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+    "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan"
   ],
-  "updatedAt": "2026-07-07T12:54:31.031Z"
+  "updatedAt": "2026-07-08T13:23:07.512Z"
 }
