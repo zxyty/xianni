@@ -3,12 +3,15 @@
   "type": "place",
   "name": "藏经阁",
   "aliases": [
-    "战神殿藏经阁"
+    "战神殿藏经阁",
+    "云天宗藏经阁",
+    "藏经内阁"
   ],
   "summary": "恒岳派藏经处，内门弟子可任意选取修仙法门，长辈多劝选剑修。",
   "attributes": {
-    "所属势力": "战神殿",
-    "类型": "殿阁"
+    "所属势力": "云天宗",
+    "类型": "殿阁",
+    "守护": "外宗弟子"
   },
   "observations": {
     "所属势力": [
@@ -21,6 +24,11 @@
         "value": "战神殿",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
+      },
+      {
+        "value": "云天宗",
+        "docId": "plot.xianni-ch222-wanglin-jiedan",
+        "seq": 206
       }
     ],
     "类型": [
@@ -39,21 +47,34 @@
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
       }
+    ],
+    "守护": [
+      {
+        "value": "外宗弟子",
+        "docId": "plot.xianni-ch222-wanglin-jiedan",
+        "seq": 206
+      }
     ]
   },
   "firstSeq": 25,
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+      "docId": "plot.xianni-ch222-wanglin-jiedan",
       "dated": false,
-      "seq": 111
+      "seq": 206
     },
     "类型": {
       "asOf": null,
       "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
       "seq": 111
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch222-wanglin-jiedan",
+      "dated": false,
+      "seq": 206
     }
   },
   "contested": false,
@@ -61,7 +82,8 @@
   "docs": [
     "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
     "plot.xianni-ch43-48-lishan-pilidan-shenshi",
-    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo"
+    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+    "plot.xianni-ch222-wanglin-jiedan"
   ],
-  "updatedAt": "2026-07-05T04:42:11.901Z"
+  "updatedAt": "2026-07-08T13:54:39.496Z"
 }

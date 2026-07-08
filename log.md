@@ -53,3 +53,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-07-08T12:39:00.898Z** `ingest` plot.xianni-ch188-gushen-chuancheng-2 — 仙逆 第188章 古神传承（二）：天魔散人祭献六欲魔君 · kind=plot asOf=2026-07-08 entities=35 relations=54 src=00173-00175.md
 - **2026-07-08T13:23:07.540Z** `ingest` plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan — 仙逆 第215章《罗月》——王林云天宗东苑寻彤师姐、程贤斗程灵 · kind=plot asOf=2026-07-08 entities=47 relations=75 src=00199-00202.md
 - **2026-07-08T13:41:20.956Z** `ingest` plot.xianni-ch219-dongyuan-lingyuan-heist — 仙逆 第219章《两个月》——王林潜袭东苑、许立国取二女魂魄 · kind=plot asOf=2026-07-08 entities=45 relations=59 src=00203-00205.md
+- **2026-07-08T13:54:39.556Z** `ingest` plot.xianni-ch222-wanglin-jiedan — 仙逆·第222章 夺天七鼎——王林服天离丹突破结丹，李慕婉云天宗藏经阁寻开丹封之术 · kind=plot asOf=2026-07-08 entities=34 relations=41 src=00206-00207.md

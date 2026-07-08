@@ -19,10 +19,11 @@
   "summary": "古神传承功法，重炼体，第一层分夺灵、番灵、化灵三阶段，以灵力固身、扩身、身体重组质变。",
   "attributes": {
     "出处": "古神传承、古神一族、古神诀第一层、古神之地、古神／古神之地、吉神涂司之记忆、远古功法",
-    "效果": "炼体固身、身体重组质变、夺灵吸纳灵气、反用灵气极速提升修为、瞬间完整吸收修丹、消融吞噬所得分识、生吞灵物直接炼化、瓦解元婴释放灵力、灵力可导向炼体或金丹、集齐力之传承与忆之传承即可成为新的古神、掠夺一切、吞噬灵力、灵力再多亦可承受、关联古神炼体（外炼）、吞噬平复灵力",
-    "修炼条件": "第一层达化灵可突破第二层吸收星球能源",
+    "效果": "炼体固身、身体重组质变、夺灵吸纳灵气、反用灵气极速提升修为、瞬间完整吸收修丹、消融吞噬所得分识、生吞灵物直接炼化、瓦解元婴释放灵力、灵力可导向炼体或金丹、集齐力之传承与忆之传承即可成为新的古神、掠夺一切、吞噬灵力、灵力再多亦可承受、关联古神炼体（外炼）、吞噬平复灵力、灵力在体内循环（内修），可迅速恢复灵力、吞噬灵力/丹药，将本应消散的灵力无限放大吸收",
+    "修炼条件": "强行阻拦肉身外炼",
     "外显异象": "三个金色大字",
-    "品阶": "古神功法"
+    "品阶": "古神功法",
+    "适用境界": "结丹"
   },
   "observations": {
     "出处": [
@@ -132,6 +133,16 @@
         "value": "吞噬平复灵力",
         "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
         "seq": 203
+      },
+      {
+        "value": "灵力在体内循环（内修），可迅速恢复灵力",
+        "docId": "plot.xianni-ch222-wanglin-jiedan",
+        "seq": 206
+      },
+      {
+        "value": "吞噬灵力/丹药，将本应消散的灵力无限放大吸收",
+        "docId": "plot.xianni-ch222-wanglin-jiedan",
+        "seq": 206
       }
     ],
     "修炼条件": [
@@ -145,6 +156,11 @@
         "docId": "plot.xianni-ch188-gushen-chuancheng-2",
         "seq": 173,
         "note": "王林所得为残缺记忆"
+      },
+      {
+        "value": "强行阻拦肉身外炼",
+        "docId": "plot.xianni-ch222-wanglin-jiedan",
+        "seq": 206
       }
     ],
     "外显异象": [
@@ -165,6 +181,13 @@
         "docId": "plot.xianni-ch188-gushen-chuancheng-2",
         "seq": 173
       }
+    ],
+    "适用境界": [
+      {
+        "value": "结丹",
+        "docId": "plot.xianni-ch222-wanglin-jiedan",
+        "seq": 206
+      }
     ]
   },
   "firstSeq": 173,
@@ -183,9 +206,9 @@
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.xianni-ch191-shenshi-sihai",
+      "docId": "plot.xianni-ch222-wanglin-jiedan",
       "dated": false,
-      "seq": 176
+      "seq": 206
     },
     "外显异象": {
       "asOf": null,
@@ -198,6 +221,12 @@
       "docId": "plot.xianni-ch188-gushen-chuancheng-2",
       "dated": false,
       "seq": 173
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-ch222-wanglin-jiedan",
+      "dated": false,
+      "seq": 206
     }
   },
   "contested": false,
@@ -209,7 +238,8 @@
     "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
     "plot.xianni-ch188-gushen-chuancheng-2",
     "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
-    "plot.xianni-ch219-dongyuan-lingyuan-heist"
+    "plot.xianni-ch219-dongyuan-lingyuan-heist",
+    "plot.xianni-ch222-wanglin-jiedan"
   ],
-  "updatedAt": "2026-07-08T13:41:20.932Z"
+  "updatedAt": "2026-07-08T13:54:39.519Z"
 }
