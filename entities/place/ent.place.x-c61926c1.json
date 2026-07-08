@@ -3,12 +3,14 @@
   "type": "place",
   "name": "紫府识海",
   "aliases": [
-    "古神识海"
+    "古神识海",
+    "古神体内识海"
   ],
   "summary": "古神的识海，形如巨球，两半分为血海与神识死海。",
   "attributes": {
     "类型": "识海",
-    "所属界面": "古神躯体内"
+    "所属界面": "古神躯体内",
+    "危险度": "极高，非力之传承难以进入"
   },
   "observations": {
     "类型": [
@@ -16,6 +18,11 @@
         "value": "识海",
         "docId": "plot.xianni-ch191-shenshi-sihai",
         "seq": 176
+      },
+      {
+        "value": "古神识海",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
       }
     ],
     "所属界面": [
@@ -24,9 +31,16 @@
         "docId": "plot.xianni-ch191-shenshi-sihai",
         "seq": 176
       }
+    ],
+    "危险度": [
+      {
+        "value": "极高，非力之传承难以进入",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
+      }
     ]
   },
-  "firstSeq": 176,
+  "firstSeq": 173,
   "attrProvenance": {
     "类型": {
       "asOf": null,
@@ -39,12 +53,19 @@
       "docId": "plot.xianni-ch191-shenshi-sihai",
       "dated": false,
       "seq": 176
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+      "dated": false,
+      "seq": 173
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch191-shenshi-sihai"
+    "plot.xianni-ch191-shenshi-sihai",
+    "plot.xianni-ch188-gushen-chuancheng-2"
   ],
-  "updatedAt": "2026-07-07T11:14:57.387Z"
+  "updatedAt": "2026-07-08T12:39:00.864Z"
 }

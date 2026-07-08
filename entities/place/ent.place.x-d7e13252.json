@@ -15,16 +15,20 @@
     "古神涂司之地",
     "古神之地识海",
     "古神传承之地",
-    "存放忆之传承之地"
+    "存放忆之传承之地",
+    "古神神识之地",
+    "吉神体内",
+    "古神体内气海之外",
+    "古神身躯"
   ],
   "summary": "古神留下的三关闯关之地，含禁制之山（第二关）、三层宝塔奖励层与第三关寂灭界，历代仅四人获领悟者身份。",
   "attributes": {
-    "类型": "古神遗留闯关秘境、秘境/遗迹、秘境／绝地、凶险秘境、分关卡秘境、秘境/关卡秘境、传承秘境/巨躯世界、古神气海秘境、古神残躯内部空间/秘境、遗迹/禁地、秘境/古地、古神遗留秘境、古神传承秘境",
+    "类型": "古神遗留闯关秘境、秘境/遗迹、秘境／绝地、凶险秘境、分关卡秘境、秘境/关卡秘境、传承秘境/巨躯世界、古神气海秘境、古神残躯内部空间/秘境、遗迹/禁地、秘境/古地、古神遗留秘境、古神传承秘境、古神秘境/神识之地、古神躯壳内部空间、远古遗迹/秘境、古神身躯/秘境",
     "守护": "拓森",
-    "危险度": "高",
+    "危险度": "极高、极高（多重致命关卡）、极高（拓森封印开启众死）、高、极高（欲念波动会魔化修士）、有气海穴旋转气浪",
     "所属界面": "寂灭界",
     "规模": "比朱雀星更大",
-    "特产": "古神传承"
+    "特产": "传承之物手骨、六欲欲念、古神传承、古神之欲、手骨、香魂"
   },
   "observations": {
     "类型": [
@@ -92,6 +96,26 @@
         "value": "古神传承秘境",
         "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
         "seq": 183
+      },
+      {
+        "value": "古神秘境/神识之地",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
+      },
+      {
+        "value": "古神躯壳内部空间",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
+      },
+      {
+        "value": "远古遗迹/秘境",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
+      },
+      {
+        "value": "古神身躯/秘境",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
       }
     ],
     "守护": [
@@ -104,6 +128,11 @@
         "value": "拓森",
         "docId": "plot.xianni-ch191-shenshi-sihai",
         "seq": 176
+      },
+      {
+        "value": "天魔散人最强禁制",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
       }
     ],
     "危险度": [
@@ -125,7 +154,17 @@
       {
         "value": "高",
         "docId": "plot.xianni-ch194-blood-sea-seal-opening",
-        "seq": 179
+        "seq": 173
+      },
+      {
+        "value": "极高（欲念波动会魔化修士）",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
+      },
+      {
+        "value": "有气海穴旋转气浪",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
       }
     ],
     "所属界面": [
@@ -152,6 +191,16 @@
         "value": "古神传承",
         "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
         "seq": 188
+      },
+      {
+        "value": "古神之欲、手骨",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
+      },
+      {
+        "value": "香魂",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
       }
     ]
   },
@@ -171,9 +220,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch194-blood-sea-seal-opening",
+      "docId": "plot.xianni-ch181-jinzhi-baofa",
       "dated": false,
-      "seq": 179
+      "seq": 166
     },
     "所属界面": {
       "asOf": null,
@@ -189,9 +238,9 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+      "docId": "plot.xianni-ch185-blood-sea-lord",
       "dated": false,
-      "seq": 188
+      "seq": 170
     }
   },
   "contested": false,
@@ -203,7 +252,8 @@
     "plot.xianni-ch191-shenshi-sihai",
     "plot.xianni-ch194-blood-sea-seal-opening",
     "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
-    "plot.renfa-ch204-ancient-mirror-forbidden-banner"
+    "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+    "plot.xianni-ch188-gushen-chuancheng-2"
   ],
-  "updatedAt": "2026-07-07T12:03:22.438Z"
+  "updatedAt": "2026-07-08T12:39:00.869Z"
 }

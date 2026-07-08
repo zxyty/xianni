@@ -3,16 +3,20 @@
   "type": "person",
   "name": "天魔散人",
   "aliases": [
-    "六欲师傅"
+    "六欲师傅",
+    "夭魔散人"
   ],
   "summary": "六欲魔君之师，千年前布下可跨越百丈禁制的漩涡通道之术。",
   "attributes": {
     "称号": "天魔散人、妖神、玄天魔欲诀创始人",
-    "身份": "六欲魔君的师傅、六欲魔君之师、玄天魔欲诀传授者、追击者、六欲魔君之师父、六欲魔君之师、血海魔化修士（出现）",
-    "存殁": "此片段存活",
+    "身份": "六欲魔君的师傅、六欲魔君之师、玄天魔欲诀传授者、追击者、六欲魔君之师父、六欲魔君之师、血海魔化修士（出现）、六欲魔君师父",
+    "存殁": "死亡、此片段存活、在场活动、存疑",
     "死因": "第168章死亡（本章为死亡前叙事）",
     "外貌": "身高十丈、暗紫骨刺铠甲、黑发无风自动、相貌英俊妖邪",
-    "性格": "天纵奇才、老谋深算、从容不迫"
+    "性格": "天纵奇才、老谋深算、从容不迫、阴狠、深谋",
+    "标志特征": "妖魔般古怪肉身（与孟驼子相似）",
+    "阵营": "血海",
+    "种族": "魔化修士"
   },
   "observations": {
     "称号": [
@@ -63,6 +67,11 @@
         "docId": "plot.xianni-ch191-shenshi-sihai",
         "seq": 176,
         "note": "第168章已死，此处为魔化/背景"
+      },
+      {
+        "value": "六欲魔君师父",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
       }
     ],
     "存殁": [
@@ -77,6 +86,18 @@
         "docId": "plot.xianni-ch185-blood-sea-lord",
         "seq": 170,
         "note": "世界状态须知载其于第168章死亡"
+      },
+      {
+        "value": "在场活动",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173,
+        "note": "此前『身亡』为伪装，实为计划一环，本章现身"
+      },
+      {
+        "value": "存疑",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173,
+        "note": "世界须知标注第168章已死；本片段疑为回忆，片段内仍活动"
       }
     ],
     "死因": [
@@ -113,6 +134,32 @@
         "value": "从容不迫",
         "docId": "plot.xianni-ch194-blood-sea-seal-opening",
         "seq": 179
+      },
+      {
+        "value": "阴狠、深谋",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "妖魔般古怪肉身（与孟驼子相似）",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
+      }
+    ],
+    "阵营": [
+      {
+        "value": "血海",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
+      }
+    ],
+    "种族": [
+      {
+        "value": "魔化修士",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
       }
     ]
   },
@@ -132,10 +179,10 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch185-blood-sea-lord",
+      "docId": "plot.xianni-ch183-yibian-chushi",
       "dated": false,
-      "seq": 170,
-      "note": "世界状态须知载其于第168章死亡"
+      "seq": 168,
+      "note": "千年前开通道时被古怪神识秒杀；却现身血色世界"
     },
     "死因": {
       "asOf": null,
@@ -151,9 +198,27 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch191-shenshi-sihai",
+      "docId": "plot.xianni-ch188-gushen-chuancheng-2",
       "dated": false,
-      "seq": 176
+      "seq": 173
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+      "dated": false,
+      "seq": 173
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+      "dated": false,
+      "seq": 173
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+      "dated": false,
+      "seq": 173
     }
   },
   "contested": false,
@@ -163,7 +228,8 @@
     "plot.xianni-ch183-yibian-chushi",
     "plot.xianni-ch185-blood-sea-lord",
     "plot.xianni-ch191-shenshi-sihai",
-    "plot.xianni-ch194-blood-sea-seal-opening"
+    "plot.xianni-ch194-blood-sea-seal-opening",
+    "plot.xianni-ch188-gushen-chuancheng-2"
   ],
-  "updatedAt": "2026-07-07T11:26:36.806Z"
+  "updatedAt": "2026-07-08T12:39:00.858Z"
 }

@@ -17,9 +17,12 @@
     "阵营": "修魔内海、魔修、魔道、王林之敌、王林仇敌",
     "身份": "碎星乱探险主导者、魔道高手、魔君、传承之物持有者、第三关闯关高手、天魔散人弟子、魔修",
     "标志特征": "善阵法、口喷紫色火焰熔材料、身化残影似分身、需受术人施展的黑气化剑之术、掌天魔散人所传漩涡通道禁制、手持年轻人尸体驱使/消灭游魂、唯一执念为自身修为，誓成婴变期修士、欲念血遁、废欲念提速",
-    "小阶段": "化神中期、化神期、化神初期、已炼化五道先天欲念（缺执欲）、元婴",
+    "小阶段": "化神中期、化神期、化神初期、已炼化五道先天欲念（缺执欲）、元婴、化神期大圆满、元婴期",
     "性格": "谨慎多算、狂热贪婪、阴狠、果断、见机极快、对修为极度痴执（痴念）",
-    "出身地": "修魔海"
+    "出身地": "修魔海",
+    "存殁": "死亡",
+    "死因": "被师父天魔散人以全身精血为祭献、身体炸裂（第188章）、被天魔散人炼化夺元婴",
+    "结局": "修为被用作打开古神神识之地的『道路』"
   },
   "observations": {
     "称号": [
@@ -175,6 +178,16 @@
         "value": "元婴",
         "docId": "plot.xianni-ch185-blood-sea-lord",
         "seq": 170
+      },
+      {
+        "value": "化神期大圆满",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
+      },
+      {
+        "value": "元婴期",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
       }
     ],
     "性格": [
@@ -206,6 +219,33 @@
         "docId": "plot.xianni-ch181-jinzhi-baofa",
         "seq": 166,
         "note": "自称修魔之人"
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173,
+        "note": "第189章被师父天魔散人炼化，身化血雾、元婴化灵力"
+      }
+    ],
+    "死因": [
+      {
+        "value": "被师父天魔散人以全身精血为祭献、身体炸裂（第188章）",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
+      },
+      {
+        "value": "被天魔散人炼化夺元婴",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
+      }
+    ],
+    "结局": [
+      {
+        "value": "修为被用作打开古神神识之地的『道路』",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
       }
     ]
   },
@@ -259,6 +299,25 @@
       "dated": false,
       "seq": 166,
       "note": "自称修魔之人"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+      "dated": false,
+      "seq": 173,
+      "note": "第189章被师父天魔散人炼化，身化血雾、元婴化灵力"
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+      "dated": false,
+      "seq": 173
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+      "dated": false,
+      "seq": 173
     }
   },
   "contested": false,
@@ -272,7 +331,8 @@
     "plot.xianni-ch185-blood-sea-lord",
     "plot.xianni-ch191-shenshi-sihai",
     "plot.xianni-ch194-blood-sea-seal-opening",
-    "plot.xianni-ch186-187-two-hundred-years-silence"
+    "plot.xianni-ch186-187-two-hundred-years-silence",
+    "plot.xianni-ch188-gushen-chuancheng-2"
   ],
-  "updatedAt": "2026-07-07T11:50:02.183Z"
+  "updatedAt": "2026-07-08T12:39:00.836Z"
 }
