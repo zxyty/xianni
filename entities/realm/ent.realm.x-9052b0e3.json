@@ -1,52 +1,38 @@
 {
-  "id": "ent.realm.x-b23ab1ac",
+  "id": "ent.realm.x-9052b0e3",
   "type": "realm",
-  "name": "婴变",
+  "name": "问鼎",
   "aliases": [],
-  "summary": "超越元婴/化神的更高境界；本土出婴变修士可使修真国升五级，一人可灭四级修真国。",
+  "summary": "七境最高境。",
   "attributes": {
-    "上一境": "化神",
-    "阶序": "七境第六",
-    "下一境": "问鼎"
+    "阶序": "七境第七",
+    "上一境": "婴变"
   },
   "observations": {
-    "上一境": [
-      {
-        "value": "化神",
-        "docId": "lore.xianni-ch105-jijing-realm",
-        "seq": 90
-      }
-    ],
     "阶序": [
       {
-        "value": "七境第六",
+        "value": "七境第七",
         "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
         "seq": 208
       }
     ],
-    "下一境": [
+    "上一境": [
       {
-        "value": "问鼎",
+        "value": "婴变",
         "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
         "seq": 208
       }
     ]
   },
-  "firstSeq": 90,
+  "firstSeq": 208,
   "attrProvenance": {
-    "上一境": {
-      "asOf": null,
-      "docId": "lore.xianni-ch105-jijing-realm",
-      "dated": false,
-      "seq": 90
-    },
     "阶序": {
       "asOf": null,
       "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
       "dated": false,
       "seq": 208
     },
-    "下一境": {
+    "上一境": {
       "asOf": null,
       "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
       "dated": false,
@@ -56,8 +42,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.xianni-ch105-jijing-realm",
     "plot.xianni-ch224-jieying-fenshen-benzun-ronghe"
   ],
-  "updatedAt": "2026-07-08T14:07:21.011Z"
+  "updatedAt": "2026-07-08T14:07:21.013Z"
 }

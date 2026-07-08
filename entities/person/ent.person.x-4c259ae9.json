@@ -2,14 +2,20 @@
   "id": "ent.person.x-4c259ae9",
   "type": "person",
   "name": "孙镇伟",
-  "aliases": [],
+  "aliases": [
+    "孙锃伟"
+  ],
   "summary": "云天宗中年修士，结丹后期修为。此前曾来南苑，此章以白影拦下欲外出的李慕婉，自称乐意相陪。",
   "attributes": {
-    "小阶段": "结丹后期",
-    "身份": "云天宗中年男子、云天宗外宗弟子、外院长老之子",
-    "外貌": "俊朗中年男子，仙风脱尘",
+    "小阶段": "结丹后期、结婴门槛、结丹",
+    "身份": "云天宗中年男子、云天宗外宗弟子、外院长老之子、下一任外宗宗主人选之一、云天宗外宗结丹弟子",
+    "外貌": "红色长衫、温和俊气",
     "阵营": "云天宗",
-    "性格": "外温内阴森、多疑"
+    "性格": "外温内阴森、多疑",
+    "性别": "男",
+    "存殁": "死亡",
+    "结局": "第225章被王林极境神识震杀",
+    "死因": "王林极境神识震杀"
   },
   "observations": {
     "小阶段": [
@@ -17,6 +23,17 @@
         "value": "结丹后期",
         "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
         "seq": 199
+      },
+      {
+        "value": "结婴门槛",
+        "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
+        "seq": 208,
+        "note": "结丹后期冲刺元婴"
+      },
+      {
+        "value": "结丹",
+        "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
+        "seq": 208
       }
     ],
     "身份": [
@@ -34,6 +51,16 @@
         "value": "外院长老之子",
         "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
         "seq": 203
+      },
+      {
+        "value": "下一任外宗宗主人选之一",
+        "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
+        "seq": 208
+      },
+      {
+        "value": "云天宗外宗结丹弟子",
+        "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
+        "seq": 208
       }
     ],
     "外貌": [
@@ -46,6 +73,11 @@
         "value": "俊朗中年男子，仙风脱尘",
         "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
         "seq": 203
+      },
+      {
+        "value": "红色长衫、温和俊气",
+        "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
+        "seq": 208
       }
     ],
     "阵营": [
@@ -67,6 +99,34 @@
         "docId": "plot.xianni-ch222-wanglin-jiedan",
         "seq": 206
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
+        "seq": 208
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
+        "seq": 208
+      }
+    ],
+    "结局": [
+      {
+        "value": "第225章被王林极境神识震杀",
+        "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
+        "seq": 208
+      }
+    ],
+    "死因": [
+      {
+        "value": "王林极境神识震杀",
+        "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
+        "seq": 208
+      }
     ]
   },
   "firstSeq": 199,
@@ -85,9 +145,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+      "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
       "dated": false,
-      "seq": 203
+      "seq": 208
     },
     "阵营": {
       "asOf": null,
@@ -100,6 +160,30 @@
       "docId": "plot.xianni-ch222-wanglin-jiedan",
       "dated": false,
       "seq": 206
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
+      "dated": false,
+      "seq": 208
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
+      "dated": false,
+      "seq": 208
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
+      "dated": false,
+      "seq": 208
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
+      "dated": false,
+      "seq": 208
     }
   },
   "contested": false,
@@ -107,7 +191,8 @@
   "docs": [
     "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
     "plot.xianni-ch219-dongyuan-lingyuan-heist",
-    "plot.xianni-ch222-wanglin-jiedan"
+    "plot.xianni-ch222-wanglin-jiedan",
+    "plot.xianni-ch224-jieying-fenshen-benzun-ronghe"
   ],
-  "updatedAt": "2026-07-08T13:54:39.513Z"
+  "updatedAt": "2026-07-08T14:07:21.035Z"
 }

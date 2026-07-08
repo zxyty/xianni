@@ -1,43 +1,38 @@
 {
-  "id": "ent.faction.x-438092ca",
-  "type": "faction",
-  "name": "浩然宗",
+  "id": "ent.pill.x-8d781a03",
+  "type": "pill",
+  "name": "六道灵丹",
   "aliases": [],
-  "summary": "楚国门派，徐离、麦国荣所属，拥有数名炼丹大师与元婴期修士。",
+  "summary": "欧阳子以血祭六名炼丹师之魂炼成的金芒丹药，本章命名，为其尝试炼制六品灵丹之基石。",
   "attributes": {
-    "所属界面": "楚国修真界",
-    "掌门": "司马云南"
+    "炼制者": "欧阳子",
+    "主料": "六名炼丹师之魂（血祭）"
   },
   "observations": {
-    "所属界面": [
+    "炼制者": [
       {
-        "value": "楚国",
-        "docId": "plot.xianni-ch210-212-refine-avatar-yuntian-sect",
-        "seq": 194
-      },
-      {
-        "value": "楚国修真界",
+        "value": "欧阳子",
         "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
         "seq": 208
       }
     ],
-    "掌门": [
+    "主料": [
       {
-        "value": "司马云南",
+        "value": "六名炼丹师之魂（血祭）",
         "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
         "seq": 208
       }
     ]
   },
-  "firstSeq": 194,
+  "firstSeq": 208,
   "attrProvenance": {
-    "所属界面": {
+    "炼制者": {
       "asOf": null,
       "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
       "dated": false,
       "seq": 208
     },
-    "掌门": {
+    "主料": {
       "asOf": null,
       "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
       "dated": false,
@@ -47,8 +42,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch210-212-refine-avatar-yuntian-sect",
     "plot.xianni-ch224-jieying-fenshen-benzun-ronghe"
   ],
-  "updatedAt": "2026-07-08T14:07:21.038Z"
+  "updatedAt": "2026-07-08T14:07:21.000Z"
 }

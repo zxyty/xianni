@@ -16,9 +16,10 @@
   "attributes": {
     "等级": "楚国门派之首（三级修真国）、楚国第一门派、高手至多元婴后期、有元婴后期始祖坐镇、三级修真国门派、楚国第一宗",
     "据点": "云天山脉顶端、内宗东西南北四首环中央大殿；后山为闭关地、东苑、南苑、西苑、北苑、外院、内院、内宗、外宗、藏经阁、大殿丹鼎、藏经阁、藏经内阁、云天山脉",
-    "所属界面": "楚国",
-    "理念": "以炼丹闻名，收徒讲究缘法而非天资灵根、内宗炼丹、外宗御敌、以炼丹为主、内院以炼丹之术衡量高低，非以修为、内院修士精力多在炼丹闭关、炼丹立宗",
-    "镇派之宝": "修魔丹（三宝之一）、夺天七鼎、夺天鼎"
+    "所属界面": "楚国修真界",
+    "理念": "以炼丹闻名，收徒讲究缘法而非天资灵根、内宗炼丹、外宗御敌、以炼丹为主、内院以炼丹之术衡量高低，非以修为、内院修士精力多在炼丹闭关、炼丹立宗、内宗炼丹、外宗修道，两宗合作",
+    "镇派之宝": "修魔丹（三宝之一）、夺天七鼎、夺天鼎",
+    "掌门": "宋青（内宗）、柳斐（外宗）"
   },
   "observations": {
     "等级": [
@@ -130,6 +131,11 @@
         "value": "楚国",
         "docId": "plot.xianni-ch210-212-refine-avatar-yuntian-sect",
         "seq": 194
+      },
+      {
+        "value": "楚国修真界",
+        "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
+        "seq": 208
       }
     ],
     "理念": [
@@ -167,6 +173,11 @@
         "value": "炼丹立宗",
         "docId": "plot.xianni-ch222-wanglin-jiedan",
         "seq": 206
+      },
+      {
+        "value": "内宗炼丹、外宗修道，两宗合作",
+        "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
+        "seq": 208
       }
     ],
     "镇派之宝": [
@@ -184,6 +195,18 @@
         "value": "夺天鼎",
         "docId": "plot.xianni-ch222-wanglin-jiedan",
         "seq": 206
+      }
+    ],
+    "掌门": [
+      {
+        "value": "宋青（内宗）",
+        "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
+        "seq": 208
+      },
+      {
+        "value": "柳斐（外宗）",
+        "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
+        "seq": 208
       }
     ]
   },
@@ -203,9 +226,9 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch210-212-refine-avatar-yuntian-sect",
+      "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
       "dated": false,
-      "seq": 194
+      "seq": 208
     },
     "理念": {
       "asOf": null,
@@ -218,6 +241,12 @@
       "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
       "dated": false,
       "seq": 197
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
+      "dated": false,
+      "seq": 208
     }
   },
   "contested": false,
@@ -227,7 +256,8 @@
     "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
     "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
     "plot.xianni-ch219-dongyuan-lingyuan-heist",
-    "plot.xianni-ch222-wanglin-jiedan"
+    "plot.xianni-ch222-wanglin-jiedan",
+    "plot.xianni-ch224-jieying-fenshen-benzun-ronghe"
   ],
-  "updatedAt": "2026-07-08T13:54:39.529Z"
+  "updatedAt": "2026-07-08T14:07:21.037Z"
 }
