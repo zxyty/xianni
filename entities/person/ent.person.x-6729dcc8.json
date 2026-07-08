@@ -3,12 +3,20 @@
   "type": "person",
   "name": "程贤",
   "aliases": [
-    "程贤师兄"
+    "程贤师兄",
+    "Cheng Xian",
+    "贤哥哥",
+    "贤哥"
   ],
   "summary": "云天宗南苑弟子，善谈好色，已能炼二品丹药，暗恋王彤师姐，一心想进西苑。",
   "attributes": {
-    "身份": "云天宗南苑弟子、云天宗弟子",
-    "性格": "善谈、贼眉鼠眼、好色、阿谀圆滑、贪杯"
+    "身份": "云天宗南苑弟子、云天宗弟子、王林在楚国相识者、云天宗炼丹弟子",
+    "性格": "善谈、贼眉鼠眼、好色、阿谀圆滑、贪杯、轻佻好色、油嘴滑舌、重义气、痴情、执拗、豁得出去",
+    "性别": "男",
+    "本命法宝": "丹鼎",
+    "标志特征": "常骑灵猿代步",
+    "存殁": "下落不明",
+    "阵营": "云天宗南苑"
   },
   "observations": {
     "身份": [
@@ -21,6 +29,16 @@
         "value": "云天宗弟子",
         "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
         "seq": 197
+      },
+      {
+        "value": "王林在楚国相识者",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199
+      },
+      {
+        "value": "云天宗炼丹弟子",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199
       }
     ],
     "性格": [
@@ -43,6 +61,53 @@
         "value": "阿谀圆滑、贪杯",
         "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
         "seq": 197
+      },
+      {
+        "value": "轻佻好色、油嘴滑舌、重义气",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199
+      },
+      {
+        "value": "痴情、执拗、豁得出去",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199
+      }
+    ],
+    "本命法宝": [
+      {
+        "value": "丹鼎",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199,
+        "note": "药香之气可化带凶气灵猿御敌"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "常骑灵猿代步",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199
+      }
+    ],
+    "存殁": [
+      {
+        "value": "下落不明",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199,
+        "note": "第216章送玉简未亲来，疑遭变故"
+      }
+    ],
+    "阵营": [
+      {
+        "value": "云天宗南苑",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199
       }
     ]
   },
@@ -59,12 +124,45 @@
       "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
       "dated": false,
       "seq": 197
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+      "dated": false,
+      "seq": 199
+    },
+    "本命法宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+      "dated": false,
+      "seq": 199,
+      "note": "药香之气可化带凶气灵猿御敌"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+      "dated": false,
+      "seq": 199
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+      "dated": false,
+      "seq": 199,
+      "note": "第216章送玉简未亲来，疑遭变故"
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+      "dated": false,
+      "seq": 199
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch213-yuntianzong-zhoulin-shoutu"
+    "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+    "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan"
   ],
-  "updatedAt": "2026-07-07T12:54:31.032Z"
+  "updatedAt": "2026-07-08T13:23:07.508Z"
 }

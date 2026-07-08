@@ -9,8 +9,9 @@
   "attributes": {
     "所属势力": "云天宗",
     "方位": "云天宗南院",
-    "类型": "门派院区/禁地",
-    "守护": "雾气禁制，需令牌入内"
+    "类型": "门派院区/禁地、苑区、苑区/炼丹重地、门派辖区",
+    "守护": "雾气禁制，需令牌入内",
+    "特产": "白雾遮蔽、地下近地火"
   },
   "observations": {
     "所属势力": [
@@ -32,6 +33,21 @@
         "value": "门派院区/禁地",
         "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
         "seq": 197
+      },
+      {
+        "value": "苑区",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199
+      },
+      {
+        "value": "苑区/炼丹重地",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199
+      },
+      {
+        "value": "门派辖区",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199
       }
     ],
     "守护": [
@@ -39,6 +55,13 @@
         "value": "雾气禁制，需令牌入内",
         "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
         "seq": 197
+      }
+    ],
+    "特产": [
+      {
+        "value": "白雾遮蔽、地下近地火",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199
       }
     ]
   },
@@ -67,12 +90,19 @@
       "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
       "dated": false,
       "seq": 197
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+      "dated": false,
+      "seq": 199
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch213-yuntianzong-zhoulin-shoutu"
+    "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+    "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan"
   ],
-  "updatedAt": "2026-07-07T12:54:31.024Z"
+  "updatedAt": "2026-07-08T13:23:07.512Z"
 }

@@ -7,15 +7,17 @@
     "结丹初期",
     "结丹中期",
     "结丹后期",
-    "结丹后期大圆满假婴境界"
+    "结丹后期大圆满假婴境界",
+    "假婴境界"
   ],
   "summary": "修仙第三层次，恒岳派仅两人，居后山闭关；可对凡人施搜魂术。",
   "attributes": {
     "阶序": "结丹",
     "上一境": "元婴期",
     "下一境": "元婴期",
-    "小阶段": "结丹初期、结丹中期、结丹后期、结丹期、中期、初期、后期、结丹后期大圆满、结丹后期大圆满假婴",
-    "突破关键": "结婴（金丹裂而化婴）"
+    "小阶段": "结丹初期、结丹中期、结丹后期、结丹期、中期、初期、后期、结丹后期大圆满、结丹后期大圆满假婴、大圆满、假婴境界、假婴",
+    "突破关键": "碎丹立婴，需初婴之气（紫气）全覆金丹",
+    "突破征兆": "金丹内现淡淡紫线/紫气"
   },
   "observations": {
     "阶序": [
@@ -104,6 +106,21 @@
         "value": "结丹后期大圆满假婴",
         "docId": "plot.xianni-ch207-killing-for-cores",
         "seq": 191
+      },
+      {
+        "value": "大圆满",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199
+      },
+      {
+        "value": "假婴境界",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199
+      },
+      {
+        "value": "假婴",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199
       }
     ],
     "突破关键": [
@@ -116,6 +133,18 @@
         "value": "结婴（金丹裂而化婴）",
         "docId": "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
         "seq": 192
+      },
+      {
+        "value": "碎丹立婴，需初婴之气（紫气）全覆金丹",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199
+      }
+    ],
+    "突破征兆": [
+      {
+        "value": "金丹内现淡淡紫线/紫气",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199
       }
     ]
   },
@@ -147,9 +176,15 @@
     },
     "突破关键": {
       "asOf": null,
-      "docId": "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
+      "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
       "dated": false,
-      "seq": 192
+      "seq": 199
+    },
+    "突破征兆": {
+      "asOf": null,
+      "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+      "dated": false,
+      "seq": 199
     }
   },
   "contested": false,
@@ -190,7 +225,8 @@
     "plot.xianni-ch207-killing-for-cores",
     "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
     "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
-    "plot.xianni-ch188-gushen-chuancheng-2"
+    "plot.xianni-ch188-gushen-chuancheng-2",
+    "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan"
   ],
-  "updatedAt": "2026-07-08T12:39:00.833Z"
+  "updatedAt": "2026-07-08T13:23:07.519Z"
 }

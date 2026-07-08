@@ -3,12 +3,20 @@
   "type": "beast",
   "name": "灵猿",
   "aliases": [
-    "猿狮"
+    "猿狮",
+    "送玉简的灵猿",
+    "托程贤去东苑的灵猿",
+    "下品灵兽灵猿",
+    "第三魔头灵猿魂"
   ],
   "summary": "云天宗内一大一小两只灵猿，速度极快，被程贤召来代步前往东苑。",
   "attributes": {
-    "能力": "疾行如奔雷，可载人代步",
-    "栖息地": "云天宗"
+    "能力": "魂魄天生戾气，气息可使草木枯萎",
+    "栖息地": "云天宗",
+    "种族": "灵猿",
+    "外形": "多处剑伤、腹部碗大伤口、右腿断裂数处",
+    "等级": "下品灵兽",
+    "主人": "王林"
   },
   "observations": {
     "能力": [
@@ -16,6 +24,11 @@
         "value": "疾行如奔雷，可载人代步",
         "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
         "seq": 197
+      },
+      {
+        "value": "魂魄天生戾气，气息可使草木枯萎",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199
       }
     ],
     "栖息地": [
@@ -24,27 +37,82 @@
         "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
         "seq": 197
       }
+    ],
+    "种族": [
+      {
+        "value": "灵猿",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199
+      }
+    ],
+    "外形": [
+      {
+        "value": "多处剑伤、腹部碗大伤口、右腿断裂数处",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199
+      }
+    ],
+    "等级": [
+      {
+        "value": "下品灵兽",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199
+      }
+    ],
+    "主人": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199,
+        "note": "拟收为第三魔头，暂置禁幡内待祭炼"
+      }
     ]
   },
   "firstSeq": 197,
   "attrProvenance": {
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+      "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
       "dated": false,
-      "seq": 197
+      "seq": 199
     },
     "栖息地": {
       "asOf": null,
       "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
       "dated": false,
       "seq": 197
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+      "dated": false,
+      "seq": 199
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+      "dated": false,
+      "seq": 199
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+      "dated": false,
+      "seq": 199
+    },
+    "主人": {
+      "asOf": null,
+      "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+      "dated": false,
+      "seq": 199,
+      "note": "拟收为第三魔头，暂置禁幡内待祭炼"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch213-yuntianzong-zhoulin-shoutu"
+    "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+    "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan"
   ],
-  "updatedAt": "2026-07-07T12:54:31.040Z"
+  "updatedAt": "2026-07-08T13:23:07.501Z"
 }

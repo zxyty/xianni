@@ -51,3 +51,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-07-07T12:37:01.188Z** `ingest` plot.xianni-ch210-212-refine-avatar-yuntian-sect — 《仙逆》第210-212章 凝练分身·云天宗收徒 · kind=plot asOf=2026-07-07 entities=28 relations=29 src=00194-00196.md
 - **2026-07-07T12:54:31.060Z** `ingest` plot.xianni-ch213-yuntianzong-zhoulin-shoutu — 仙逆 第213章 故人：王林入云天宗，拜周林为师 · kind=plot asOf=2026-07-07 entities=41 relations=52 src=00197-00198.md
 - **2026-07-08T12:39:00.898Z** `ingest` plot.xianni-ch188-gushen-chuancheng-2 — 仙逆 第188章 古神传承（二）：天魔散人祭献六欲魔君 · kind=plot asOf=2026-07-08 entities=35 relations=54 src=00173-00175.md
+- **2026-07-08T13:23:07.540Z** `ingest` plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan — 仙逆 第215章《罗月》——王林云天宗东苑寻彤师姐、程贤斗程灵 · kind=plot asOf=2026-07-08 entities=47 relations=75 src=00199-00202.md

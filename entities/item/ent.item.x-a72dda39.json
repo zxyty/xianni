@@ -2,11 +2,15 @@
   "id": "ent.item.x-a72dda39",
   "type": "item",
   "name": "灵液",
-  "aliases": [],
+  "aliases": [
+    "天逆珠子灵液",
+    "灵液露水",
+    "那瓶灵液"
+  ],
   "summary": "比寻常丹药珍贵数倍的液体，服后转化为灵力，亦助分身打出完整禁制之圈。",
   "attributes": {
-    "类型": "灵液",
-    "用途": "转化灵力、助施展禁制"
+    "类型": "天逆珠子产物",
+    "用途": "转化灵力、助施展禁制、提升修为、提高炼丹成功率、替代草药入丹、维持生机"
   },
   "observations": {
     "类型": [
@@ -14,6 +18,11 @@
         "value": "灵液",
         "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
         "seq": 197
+      },
+      {
+        "value": "天逆珠子产物",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199
       }
     ],
     "用途": [
@@ -21,6 +30,26 @@
         "value": "转化灵力、助施展禁制",
         "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
         "seq": 197
+      },
+      {
+        "value": "提升修为",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199
+      },
+      {
+        "value": "提高炼丹成功率",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199
+      },
+      {
+        "value": "替代草药入丹",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199
+      },
+      {
+        "value": "维持生机",
+        "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+        "seq": 199
       }
     ]
   },
@@ -28,9 +57,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+      "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
       "dated": false,
-      "seq": 197
+      "seq": 199
     },
     "用途": {
       "asOf": null,
@@ -42,7 +71,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch213-yuntianzong-zhoulin-shoutu"
+    "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+    "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan"
   ],
-  "updatedAt": "2026-07-07T12:54:31.015Z"
+  "updatedAt": "2026-07-08T13:23:07.516Z"
 }
