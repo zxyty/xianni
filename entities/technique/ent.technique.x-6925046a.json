@@ -8,7 +8,8 @@
   "summary": "古神涂司成年期逆修、最终致死的分身/化神之术；其传承记录到决定修炼此术为止即为空白。",
   "attributes": {
     "出处": "古神涂司",
-    "修炼条件": "逆修，风险致死"
+    "修炼条件": "逆修，风险致死",
+    "效果": "神识分散、由一化十、化千万、化神亿万、每一分识修为不次于本体"
   },
   "observations": {
     "出处": [
@@ -16,6 +17,11 @@
         "value": "古神涂司",
         "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
         "seq": 183
+      },
+      {
+        "value": "古神一族",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
       }
     ],
     "修炼条件": [
@@ -23,10 +29,32 @@
         "value": "逆修，风险致死",
         "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
         "seq": 183
+      },
+      {
+        "value": "无数年来无人成功修成",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
+      }
+    ],
+    "效果": [
+      {
+        "value": "神识分散",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
+      },
+      {
+        "value": "由一化十、化千万、化神亿万",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
+      },
+      {
+        "value": "每一分识修为不次于本体",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
       }
     ]
   },
-  "firstSeq": 183,
+  "firstSeq": 173,
   "attrProvenance": {
     "出处": {
       "asOf": null,
@@ -39,12 +67,19 @@
       "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
       "dated": false,
       "seq": 183
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+      "dated": false,
+      "seq": 173
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng"
+    "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+    "plot.xianni-ch188-gushen-chuancheng-2"
   ],
-  "updatedAt": "2026-07-07T11:38:30.289Z"
+  "updatedAt": "2026-07-08T12:39:00.862Z"
 }

@@ -2,10 +2,14 @@
   "id": "ent.place.x-1bb73806",
   "type": "place",
   "name": "祖窍穴",
-  "aliases": [],
+  "aliases": [
+    "祖窍",
+    "祖窍穴紫府识海"
+  ],
   "summary": "古神识海内的穴位,王林离开天逆空间后现身于此,后撕缝转移。",
   "attributes": {
-    "类型": "识海穴位"
+    "类型": "识海穴位",
+    "上级区域": "古神之地"
   },
   "observations": {
     "类型": [
@@ -13,22 +17,41 @@
         "value": "识海穴位",
         "docId": "plot.xianni-ch191-shenshi-sihai",
         "seq": 176
+      },
+      {
+        "value": "神识死海/识海空间",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "古神之地",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
       }
     ]
   },
-  "firstSeq": 176,
+  "firstSeq": 173,
   "attrProvenance": {
     "类型": {
       "asOf": null,
       "docId": "plot.xianni-ch191-shenshi-sihai",
       "dated": false,
       "seq": 176
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+      "dated": false,
+      "seq": 173
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch191-shenshi-sihai"
+    "plot.xianni-ch191-shenshi-sihai",
+    "plot.xianni-ch188-gushen-chuancheng-2"
   ],
-  "updatedAt": "2026-07-07T11:14:57.411Z"
+  "updatedAt": "2026-07-08T12:39:00.871Z"
 }

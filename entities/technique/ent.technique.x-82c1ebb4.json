@@ -10,14 +10,18 @@
     "吉神诀",
     "古}申诀",
     "古神诀／吉神诀",
-    "古神诀法"
+    "古神诀法",
+    "古神传承",
+    "古神诀神通",
+    "掠夺神通"
   ],
   "summary": "古神传承功法，重炼体，第一层分夺灵、番灵、化灵三阶段，以灵力固身、扩身、身体重组质变。",
   "attributes": {
-    "出处": "古神传承、古神一族、古神诀第一层、古神之地、古神／古神之地",
-    "效果": "炼体固身、身体重组质变、夺灵吸纳灵气、反用灵气极速提升修为、瞬间完整吸收修丹、消融吞噬所得分识、生吞灵物直接炼化、瓦解元婴释放灵力、灵力可导向炼体或金丹",
+    "出处": "古神传承、古神一族、古神诀第一层、古神之地、古神／古神之地、吉神涂司之记忆",
+    "效果": "炼体固身、身体重组质变、夺灵吸纳灵气、反用灵气极速提升修为、瞬间完整吸收修丹、消融吞噬所得分识、生吞灵物直接炼化、瓦解元婴释放灵力、灵力可导向炼体或金丹、集齐力之传承与忆之传承即可成为新的古神、掠夺一切",
     "修炼条件": "第一层达化灵可突破第二层吸收星球能源",
-    "外显异象": "三个金色大字"
+    "外显异象": "三个金色大字",
+    "品阶": "古神功法"
   },
   "observations": {
     "出处": [
@@ -29,7 +33,7 @@
       {
         "value": "古神一族",
         "docId": "plot.xianni-ch191-shenshi-sihai",
-        "seq": 176
+        "seq": 173
       },
       {
         "value": "古神诀第一层",
@@ -45,6 +49,11 @@
         "value": "古神／古神之地",
         "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
         "seq": 190
+      },
+      {
+        "value": "吉神涂司之记忆",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
       }
     ],
     "效果": [
@@ -87,6 +96,16 @@
         "value": "灵力可导向炼体或金丹",
         "docId": "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
         "seq": 192
+      },
+      {
+        "value": "集齐力之传承与忆之传承即可成为新的古神",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
+      },
+      {
+        "value": "掠夺一切",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
       }
     ],
     "修炼条件": [
@@ -94,6 +113,12 @@
         "value": "第一层达化灵可突破第二层吸收星球能源",
         "docId": "plot.xianni-ch191-shenshi-sihai",
         "seq": 176
+      },
+      {
+        "value": "仅得前两层口诀",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173,
+        "note": "王林所得为残缺记忆"
       }
     ],
     "外显异象": [
@@ -101,22 +126,34 @@
         "value": "三个金色大字",
         "docId": "plot.xianni-ch194-blood-sea-seal-opening",
         "seq": 179
+      },
+      {
+        "value": "三个金色古字",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
+      }
+    ],
+    "品阶": [
+      {
+        "value": "古神功法",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
       }
     ]
   },
-  "firstSeq": 176,
+  "firstSeq": 173,
   "attrProvenance": {
     "出处": {
       "asOf": null,
       "docId": "plot.xianni-ch191-shenshi-sihai",
       "dated": false,
-      "seq": 176
+      "seq": 173
     },
     "效果": {
       "asOf": null,
-      "docId": "plot.xianni-ch191-shenshi-sihai",
+      "docId": "plot.xianni-ch188-gushen-chuancheng-2",
       "dated": false,
-      "seq": 176
+      "seq": 173
     },
     "修炼条件": {
       "asOf": null,
@@ -129,6 +166,12 @@
       "docId": "plot.xianni-ch194-blood-sea-seal-opening",
       "dated": false,
       "seq": 179
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+      "dated": false,
+      "seq": 173
     }
   },
   "contested": false,
@@ -137,7 +180,8 @@
     "plot.xianni-ch191-shenshi-sihai",
     "plot.xianni-ch194-blood-sea-seal-opening",
     "plot.xianni-ch206-guixi-yuanying-qiusiping",
-    "plot.xianni-ch208-sundian-shoutu-guchuansongzhen"
+    "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
+    "plot.xianni-ch188-gushen-chuancheng-2"
   ],
-  "updatedAt": "2026-07-07T12:34:31.441Z"
+  "updatedAt": "2026-07-08T12:39:00.866Z"
 }

@@ -9,8 +9,8 @@
   ],
   "summary": "古神力量传承，红发男子已得，故为唯一能入神识死海者。",
   "attributes": {
-    "出处": "古神、古神涂司气海穴、吉神涂司、古神涂司",
-    "效果": "可进入神识死海、赋予古神之力（需与忆之传承合方成全）"
+    "出处": "古神、古神涂司气海穴、吉神涂司、古神涂司、古神诀、古神之地·血海",
+    "效果": "可进入神识死海、赋予古神之力（需与忆之传承合方成全）、推动古神残余灵力、打开识海之地"
   },
   "observations": {
     "出处": [
@@ -33,6 +33,16 @@
         "value": "古神涂司",
         "docId": "plot.xianni-ch194-blood-sea-seal-opening",
         "seq": 179
+      },
+      {
+        "value": "古神诀",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
+      },
+      {
+        "value": "古神之地·血海",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
       }
     ],
     "效果": [
@@ -45,29 +55,35 @@
         "value": "赋予古神之力（需与忆之传承合方成全）",
         "docId": "plot.xianni-ch191-shenshi-sihai",
         "seq": 176
+      },
+      {
+        "value": "推动古神残余灵力、打开识海之地",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
       }
     ]
   },
-  "firstSeq": 176,
+  "firstSeq": 173,
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch191-shenshi-sihai",
+      "docId": "plot.xianni-ch188-gushen-chuancheng-2",
       "dated": false,
-      "seq": 176
+      "seq": 173
     },
     "效果": {
       "asOf": null,
-      "docId": "plot.xianni-ch191-shenshi-sihai",
+      "docId": "plot.xianni-ch188-gushen-chuancheng-2",
       "dated": false,
-      "seq": 176
+      "seq": 173
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch191-shenshi-sihai",
-    "plot.xianni-ch194-blood-sea-seal-opening"
+    "plot.xianni-ch194-blood-sea-seal-opening",
+    "plot.xianni-ch188-gushen-chuancheng-2"
   ],
-  "updatedAt": "2026-07-07T11:26:36.821Z"
+  "updatedAt": "2026-07-08T12:39:00.869Z"
 }

@@ -12,13 +12,14 @@
   ],
   "summary": "冰冷声音的中年男子，破坏了天魔散人大计；一喝制服孟驼子，认出王林为吞魂并撕裂缝将其单独带入古神密室；本为来此蛮荒星球十一人之一，形态人形未魔化。",
   "attributes": {
-    "身份": "来此蛮荒星球十一人之一、十名未低头修士之一、十大血海战将之一、潜伏死海十人之一",
-    "阵营": "魔修一方（人形未魔化）、『大哥』一方魔化修士、血海战将、与王林临时交易、反拓森十人",
+    "身份": "来此蛮荒星球十一人之一、十名未低头修士之一、十大血海战将之一、潜伏死海十人之一、上古修士",
+    "阵营": "魔修一方（人形未魔化）、『大哥』一方魔化修士、血海战将、与王林临时交易、反拓森十人、血海",
     "称号": "朵目大人",
     "外貌": "人形未魔化的中年男子",
     "性格": "谨慎、城府深",
     "存殁": "死亡",
-    "死因": "拓森血雾血丝钻体破坏内脏(第196章)"
+    "死因": "拓森血雾血丝钻体破坏内脏(第196章)",
+    "元神强度": "极强"
   },
   "observations": {
     "身份": [
@@ -36,12 +37,17 @@
       {
         "value": "十大血海战将之一",
         "docId": "plot.xianni-ch194-blood-sea-seal-opening",
-        "seq": 179
+        "seq": 173
       },
       {
         "value": "潜伏死海十人之一",
         "docId": "plot.xianni-ch194-blood-sea-seal-opening",
         "seq": 179
+      },
+      {
+        "value": "上古修士",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
       }
     ],
     "阵营": [
@@ -69,6 +75,11 @@
         "value": "反拓森十人",
         "docId": "plot.xianni-ch194-blood-sea-seal-opening",
         "seq": 179
+      },
+      {
+        "value": "血海",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
       }
     ],
     "称号": [
@@ -83,6 +94,11 @@
         "value": "人形未魔化的中年男子",
         "docId": "plot.xianni-ch191-shenshi-sihai",
         "seq": 176
+      },
+      {
+        "value": "紫发中年、红色道服、容貌普通、未魔化",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
       }
     ],
     "性格": [
@@ -111,21 +127,28 @@
         "docId": "plot.xianni-ch194-blood-sea-seal-opening",
         "seq": 179
       }
+    ],
+    "元神强度": [
+      {
+        "value": "极强",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
+      }
     ]
   },
-  "firstSeq": 176,
+  "firstSeq": 173,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch191-shenshi-sihai",
+      "docId": "plot.xianni-ch194-blood-sea-seal-opening",
       "dated": false,
-      "seq": 176
+      "seq": 173
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch191-shenshi-sihai",
+      "docId": "plot.xianni-ch188-gushen-chuancheng-2",
       "dated": false,
-      "seq": 176
+      "seq": 173
     },
     "称号": {
       "asOf": null,
@@ -157,6 +180,12 @@
       "docId": "plot.xianni-ch194-blood-sea-seal-opening",
       "dated": false,
       "seq": 179
+    },
+    "元神强度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+      "dated": false,
+      "seq": 173
     }
   },
   "contested": false,
@@ -164,7 +193,8 @@
   "docs": [
     "plot.xianni-ch191-shenshi-sihai",
     "plot.xianni-ch194-blood-sea-seal-opening",
-    "plot.renfa-ch204-ancient-mirror-forbidden-banner"
+    "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+    "plot.xianni-ch188-gushen-chuancheng-2"
   ],
-  "updatedAt": "2026-07-07T12:03:22.443Z"
+  "updatedAt": "2026-07-08T12:39:00.838Z"
 }

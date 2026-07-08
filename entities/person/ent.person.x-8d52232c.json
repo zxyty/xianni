@@ -8,16 +8,18 @@
     "通天石柱上的男子",
     "主人",
     "拓某",
-    "红衣男子"
+    "红衣男子",
+    "红发男",
+    "获力之传承者"
   ],
   "summary": "被封印在妖神血海数万年的远古强者，盘坐通天石锥，命妖神众修擒拿香魂。",
   "attributes": {
     "外貌": "红发遮面、血肉模糊的脸、血色红发，气息睥睨狂傲、红发",
     "性格": "狂傲睥睨、睥睨狂傲、狠毒",
-    "身份": "被封印者、力之传承继承者、血海之主／游魂之主、血海主人",
+    "身份": "被封印者、力之传承继承者、血海之主／游魂之主、血海主人、被封印血海困住",
     "存殁": "存活",
     "标志特征": "掌吉神之力，可为他人塑造人形",
-    "阵营": "被封印于血海、血海／魔化势力、寂灭界血海"
+    "阵营": "被封印于血海、血海／魔化势力、寂灭界血海、闯入古神体内的外来者"
   },
   "observations": {
     "外貌": [
@@ -39,7 +41,7 @@
       {
         "value": "红发",
         "docId": "plot.xianni-ch194-blood-sea-seal-opening",
-        "seq": 179
+        "seq": 173
       }
     ],
     "性格": [
@@ -68,7 +70,7 @@
       {
         "value": "力之传承继承者",
         "docId": "plot.xianni-ch191-shenshi-sihai",
-        "seq": 176
+        "seq": 173
       },
       {
         "value": "血海之主／游魂之主",
@@ -79,6 +81,12 @@
         "value": "血海主人",
         "docId": "plot.xianni-ch194-blood-sea-seal-opening",
         "seq": 179
+      },
+      {
+        "value": "被封印血海困住",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173,
+        "note": "抢得力之传承后被困"
       }
     ],
     "存殁": [
@@ -116,6 +124,11 @@
         "value": "寂灭界血海",
         "docId": "plot.xianni-ch194-blood-sea-seal-opening",
         "seq": 179
+      },
+      {
+        "value": "闯入古神体内的外来者",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
       }
     ]
   },
@@ -154,9 +167,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch191-shenshi-sihai",
+      "docId": "plot.xianni-ch188-gushen-chuancheng-2",
       "dated": false,
-      "seq": 176
+      "seq": 173
     }
   },
   "contested": false,
@@ -164,7 +177,8 @@
   "docs": [
     "plot.xianni-ch185-blood-sea-lord",
     "plot.xianni-ch191-shenshi-sihai",
-    "plot.xianni-ch194-blood-sea-seal-opening"
+    "plot.xianni-ch194-blood-sea-seal-opening",
+    "plot.xianni-ch188-gushen-chuancheng-2"
   ],
-  "updatedAt": "2026-07-07T11:26:36.791Z"
+  "updatedAt": "2026-07-08T12:39:00.868Z"
 }

@@ -5,9 +5,10 @@
   "aliases": [],
   "summary": "天魔散人所创、传授六欲魔君的魔功：炼化自身六种先天之欲，以己欲引动并借用他人之欲；歹毒略逊死咒术。",
   "attributes": {
-    "出处": "天魔散人、天魔散人所创",
-    "效果": "炼化自身欲念、以己欲为引引动/借用他人之欲、吞噬欲念（恐贪妄悦妒痴）增长修为",
-    "适用境界": "炼化四道欲念达化神期、六欲全炼达婴变期、魔修"
+    "出处": "天魔散人、天魔散人所创、天魔散人自创",
+    "效果": "炼化自身欲念、以己欲为引引动/借用他人之欲、吞噬欲念（恐贪妄悦妒痴）增长修为、吸收欲念、召欲念之灵/厉鬼、操控他人生死",
+    "适用境界": "炼化四道欲念达化神期、六欲全炼达婴变期、魔修",
+    "外显异象": "身后现异色烟柱化厉鬼"
   },
   "observations": {
     "出处": [
@@ -20,6 +21,11 @@
         "value": "天魔散人所创",
         "docId": "plot.xianni-ch185-blood-sea-lord",
         "seq": 170
+      },
+      {
+        "value": "天魔散人自创",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
       }
     ],
     "效果": [
@@ -37,6 +43,21 @@
         "value": "吞噬欲念（恐贪妄悦妒痴）增长修为",
         "docId": "plot.xianni-ch185-blood-sea-lord",
         "seq": 170
+      },
+      {
+        "value": "吸收欲念",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
+      },
+      {
+        "value": "召欲念之灵/厉鬼",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
+      },
+      {
+        "value": "操控他人生死",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
       }
     ],
     "适用境界": [
@@ -54,6 +75,13 @@
         "value": "魔修",
         "docId": "plot.xianni-ch194-blood-sea-seal-opening",
         "seq": 179
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "身后现异色烟柱化厉鬼",
+        "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+        "seq": 173
       }
     ]
   },
@@ -76,13 +104,20 @@
       "docId": "plot.xianni-ch185-blood-sea-lord",
       "dated": false,
       "seq": 170
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+      "dated": false,
+      "seq": 173
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch185-blood-sea-lord",
-    "plot.xianni-ch194-blood-sea-seal-opening"
+    "plot.xianni-ch194-blood-sea-seal-opening",
+    "plot.xianni-ch188-gushen-chuancheng-2"
   ],
-  "updatedAt": "2026-07-07T11:26:36.798Z"
+  "updatedAt": "2026-07-08T12:39:00.827Z"
 }
