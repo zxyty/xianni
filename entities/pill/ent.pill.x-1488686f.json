@@ -8,12 +8,12 @@
   ],
   "summary": "火焚国珍品灵丹，全国不超过三十粒，主药已断绝；可增加结丹几率，结丹期服下提升境界时可直接迈入稳定期。",
   "attributes": {
-    "品阶": "火焚国珍品灵丹",
-    "功效": "增加结丹几率、结丹期服下提升境界可直接迈入稳定期、军功奖励(具体未明)、冲刺结丹、增加结丹成功率、助结丹突破",
+    "品阶": "三品初阶丹药",
+    "功效": "增加结丹几率、结丹期服下提升境界可直接迈入稳定期、军功奖励(具体未明)、冲刺结丹、增加结丹成功率、助结丹突破、助力结丹",
     "适用境界": "结丹期、筑基冲结丹、冲击结丹、结丹相关",
     "炼制者": "王林",
     "副作用": "低品阶丹炉易出大变故",
-    "主料": "天离丹原料"
+    "主料": "火焚国已绝迹药材"
   },
   "observations": {
     "品阶": [
@@ -21,6 +21,11 @@
         "value": "火焚国珍品灵丹",
         "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
         "seq": 123
+      },
+      {
+        "value": "三品初阶丹药",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203
       }
     ],
     "功效": [
@@ -53,6 +58,11 @@
         "value": "助结丹突破",
         "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
         "seq": 132
+      },
+      {
+        "value": "助力结丹",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203
       }
     ],
     "适用境界": [
@@ -123,6 +133,12 @@
         "value": "天离丹原料",
         "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
         "seq": 132
+      },
+      {
+        "value": "火焚国已绝迹药材",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203,
+        "note": "材料近乎耗尽"
       }
     ]
   },
@@ -130,9 +146,9 @@
   "attrProvenance": {
     "品阶": {
       "asOf": null,
-      "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+      "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
       "dated": false,
-      "seq": 123
+      "seq": 203
     },
     "功效": {
       "asOf": null,
@@ -162,9 +178,10 @@
     },
     "主料": {
       "asOf": null,
-      "docId": "plot.xianni-ch147-151-jiedan-doupai-zhusha",
+      "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
       "dated": false,
-      "seq": 132
+      "seq": 203,
+      "note": "材料近乎耗尽"
     }
   },
   "contested": false,
@@ -174,7 +191,8 @@
     "plot.xianni-ch126-128-modohai-doupai-sangmuya",
     "plot.xianni-ch129-131-jiedan-sandan-heyi",
     "plot.xianni-ch147-151-jiedan-doupai-zhusha",
-    "plot.xianni-142-146-qimei-rongyan-wuqi-huahai"
+    "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
+    "plot.xianni-ch219-dongyuan-lingyuan-heist"
   ],
-  "updatedAt": "2026-07-06T15:09:57.829Z"
+  "updatedAt": "2026-07-08T13:41:20.931Z"
 }

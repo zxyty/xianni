@@ -5,12 +5,15 @@
   "aliases": [
     "天逆珠子灵液",
     "灵液露水",
-    "那瓶灵液"
+    "那瓶灵液",
+    "神秘灵液",
+    "王林灵液"
   ],
   "summary": "比寻常丹药珍贵数倍的液体，服后转化为灵力，亦助分身打出完整禁制之圈。",
   "attributes": {
     "类型": "天逆珠子产物",
-    "用途": "转化灵力、助施展禁制、提升修为、提高炼丹成功率、替代草药入丹、维持生机"
+    "用途": "转化灵力、助施展禁制、提升修为、提高炼丹成功率、替代草药入丹、维持生机、容颜不老/延寿、单独炼制成高效灵丹",
+    "品阶": "稀世（逾十滴在修真界卖天价）"
   },
   "observations": {
     "类型": [
@@ -50,6 +53,23 @@
         "value": "维持生机",
         "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
         "seq": 199
+      },
+      {
+        "value": "容颜不老/延寿",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203
+      },
+      {
+        "value": "单独炼制成高效灵丹",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203
+      }
+    ],
+    "品阶": [
+      {
+        "value": "稀世（逾十滴在修真界卖天价）",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203
       }
     ]
   },
@@ -66,13 +86,20 @@
       "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
       "dated": false,
       "seq": 197
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+      "dated": false,
+      "seq": 203
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
-    "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan"
+    "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+    "plot.xianni-ch219-dongyuan-lingyuan-heist"
   ],
-  "updatedAt": "2026-07-08T13:23:07.516Z"
+  "updatedAt": "2026-07-08T13:41:20.919Z"
 }

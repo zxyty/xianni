@@ -6,8 +6,10 @@
   "summary": "云天宗中年修士，结丹后期修为。此前曾来南苑，此章以白影拦下欲外出的李慕婉，自称乐意相陪。",
   "attributes": {
     "小阶段": "结丹后期",
-    "身份": "云天宗中年男子",
-    "外貌": "温和中年男子/白影"
+    "身份": "云天宗中年男子、云天宗外宗弟子、外院长老之子",
+    "外貌": "俊朗中年男子，仙风脱尘",
+    "阵营": "云天宗",
+    "性格": "表面和善，实则阴险"
   },
   "observations": {
     "小阶段": [
@@ -22,6 +24,16 @@
         "value": "云天宗中年男子",
         "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
         "seq": 199
+      },
+      {
+        "value": "云天宗外宗弟子",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203
+      },
+      {
+        "value": "外院长老之子",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203
       }
     ],
     "外貌": [
@@ -29,6 +41,26 @@
         "value": "温和中年男子/白影",
         "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
         "seq": 199
+      },
+      {
+        "value": "俊朗中年男子，仙风脱尘",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203
+      }
+    ],
+    "阵营": [
+      {
+        "value": "云天宗",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203
+      }
+    ],
+    "性格": [
+      {
+        "value": "表面和善，实则阴险",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203,
+        "note": "眼中寒芒，以赠剑行监视"
       }
     ]
   },
@@ -48,15 +80,29 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+      "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
       "dated": false,
-      "seq": 199
+      "seq": 203
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+      "dated": false,
+      "seq": 203
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+      "dated": false,
+      "seq": 203,
+      "note": "眼中寒芒，以赠剑行监视"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan"
+    "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+    "plot.xianni-ch219-dongyuan-lingyuan-heist"
   ],
-  "updatedAt": "2026-07-08T13:23:07.500Z"
+  "updatedAt": "2026-07-08T13:41:20.927Z"
 }

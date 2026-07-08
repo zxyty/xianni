@@ -11,9 +11,10 @@
   "attributes": {
     "所属界面": "修魔海",
     "类型": "洞府",
-    "守护": "迷踪阵法",
+    "守护": "阻拦神识的禁制",
     "方位": "山脉中段",
-    "危险度": "石室禁制以兽头守御"
+    "危险度": "石室禁制以兽头守御",
+    "所属势力": "云天宗"
   },
   "observations": {
     "所属界面": [
@@ -40,6 +41,11 @@
         "value": "迷踪阵法",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
+      },
+      {
+        "value": "阻拦神识的禁制",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203
       }
     ],
     "方位": [
@@ -60,6 +66,13 @@
         "docId": "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
         "seq": 192
       }
+    ],
+    "所属势力": [
+      {
+        "value": "云天宗",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203
+      }
     ]
   },
   "firstSeq": 119,
@@ -78,9 +91,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+      "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
       "dated": false,
-      "seq": 119
+      "seq": 203
     },
     "方位": {
       "asOf": null,
@@ -93,13 +106,20 @@
       "docId": "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
       "dated": false,
       "seq": 192
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+      "dated": false,
+      "seq": 203
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
-    "plot.xianni-ch208-sundian-shoutu-guchuansongzhen"
+    "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
+    "plot.xianni-ch219-dongyuan-lingyuan-heist"
   ],
-  "updatedAt": "2026-07-07T12:34:31.429Z"
+  "updatedAt": "2026-07-08T13:41:20.910Z"
 }

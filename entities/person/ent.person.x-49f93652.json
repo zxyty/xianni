@@ -12,10 +12,11 @@
   "summary": "王林以神道之术凝练的真身分身，凝气二三层，无本尊修为神识但保留全部法术与古神记忆，寿元三十年，入云天宗拜师。",
   "attributes": {
     "小阶段": "筑基初期顶峰",
-    "身份": "散修/门中修士",
+    "身份": "分身",
     "寿元": "不足半甲子（约三十年）",
     "外貌": "粗布衣衫山村少年",
-    "标志特征": "肉身健在未身体重组，走内修（正统）路线"
+    "标志特征": "肉身健在未身体重组，走内修（正统）路线",
+    "出身地": "北苑庭院"
   },
   "observations": {
     "小阶段": [
@@ -42,6 +43,11 @@
         "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
         "seq": 199,
         "note": "潜居李慕婉所赠庭院"
+      },
+      {
+        "value": "分身",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203
       }
     ],
     "寿元": [
@@ -69,6 +75,14 @@
         "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
         "seq": 199
       }
+    ],
+    "出身地": [
+      {
+        "value": "北苑庭院",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203,
+        "note": "驻地"
+      }
     ]
   },
   "firstSeq": 194,
@@ -82,10 +96,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+      "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
       "dated": false,
-      "seq": 199,
-      "note": "潜居李慕婉所赠庭院"
+      "seq": 203
     },
     "寿元": {
       "asOf": null,
@@ -104,13 +117,21 @@
       "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
       "dated": false,
       "seq": 199
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+      "dated": false,
+      "seq": 203,
+      "note": "驻地"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch210-212-refine-avatar-yuntian-sect",
-    "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan"
+    "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+    "plot.xianni-ch219-dongyuan-lingyuan-heist"
   ],
-  "updatedAt": "2026-07-08T13:23:07.473Z"
+  "updatedAt": "2026-07-08T13:41:20.898Z"
 }
