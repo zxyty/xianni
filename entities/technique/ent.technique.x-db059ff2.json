@@ -6,7 +6,8 @@
   "summary": "王林所掌握的上古禁制之术，可强行引出黑雾柱内物品，从而骗过云天宗以认主验人的机制。",
   "attributes": {
     "出处": "上古",
-    "效果": "强行引出黑雾柱内物品、伪装认主以骗过检验"
+    "效果": "强行引出黑雾柱内物品、伪装认主以骗过检验、禁制之圈分裂增殖、绕行重凝、内外夹攻使大型托举禁制失衡",
+    "适用境界": "结丹—元婴级施展"
   },
   "observations": {
     "出处": [
@@ -21,6 +22,23 @@
         "value": "强行引出黑雾柱内物品、伪装认主以骗过检验",
         "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
         "seq": 197
+      },
+      {
+        "value": "禁制之圈分裂增殖、绕行重凝",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203
+      },
+      {
+        "value": "内外夹攻使大型托举禁制失衡",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "结丹—元婴级施展",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203
       }
     ]
   },
@@ -37,12 +55,19 @@
       "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
       "dated": false,
       "seq": 197
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+      "dated": false,
+      "seq": 203
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch213-yuntianzong-zhoulin-shoutu"
+    "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+    "plot.xianni-ch219-dongyuan-lingyuan-heist"
   ],
-  "updatedAt": "2026-07-07T12:54:31.003Z"
+  "updatedAt": "2026-07-08T13:41:20.892Z"
 }

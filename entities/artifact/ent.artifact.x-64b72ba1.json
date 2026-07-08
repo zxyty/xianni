@@ -4,12 +4,16 @@
   "name": "丹炉",
   "aliases": [
     "云妃丹炉",
-    "李慕婉所赠丹炉"
+    "李慕婉所赠丹炉",
+    "岐黄门丹炉"
   ],
   "summary": "云妃所有的丹炉，具备躲避神识探查的法术，云妃刻意不放入储物袋；本章被王林收回怀中。",
   "attributes": {
     "持有者": "王林（分身）",
-    "能力": "百次之内不崩裂"
+    "能力": "百次之内不崩裂",
+    "品阶": "极高（疑为炼丹流派镇派至宝）",
+    "来历": "得自云妃，本属岐黄门",
+    "禁制": "以丹封黄纸封印，内藏未知丹药"
   },
   "observations": {
     "持有者": [
@@ -36,6 +40,27 @@
         "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
         "seq": 197
       }
+    ],
+    "品阶": [
+      {
+        "value": "极高（疑为炼丹流派镇派至宝）",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203
+      }
+    ],
+    "来历": [
+      {
+        "value": "得自云妃，本属岐黄门",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203
+      }
+    ],
+    "禁制": [
+      {
+        "value": "以丹封黄纸封印，内藏未知丹药",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203
+      }
     ]
   },
   "firstSeq": 188,
@@ -51,13 +76,32 @@
       "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
       "dated": false,
       "seq": 197
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+      "dated": false,
+      "seq": 203
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+      "dated": false,
+      "seq": 203
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+      "dated": false,
+      "seq": 203
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.renfa-ch204-ancient-mirror-forbidden-banner",
-    "plot.xianni-ch213-yuntianzong-zhoulin-shoutu"
+    "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+    "plot.xianni-ch219-dongyuan-lingyuan-heist"
   ],
-  "updatedAt": "2026-07-07T12:54:31.033Z"
+  "updatedAt": "2026-07-08T13:41:20.919Z"
 }

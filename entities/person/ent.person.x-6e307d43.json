@@ -11,7 +11,8 @@
     "小阶段": "结丹后期",
     "外貌": "一脸温和的中年人",
     "阵营": "云天宗",
-    "性格": "伪善、阴狠"
+    "性格": "心机深沉、谨慎",
+    "身份": "云天宗弟子"
   },
   "observations": {
     "小阶段": [
@@ -42,6 +43,18 @@
         "value": "伪善、阴狠",
         "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
         "seq": 199
+      },
+      {
+        "value": "心机深沉、谨慎",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203
+      }
+    ],
+    "身份": [
+      {
+        "value": "云天宗弟子",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203
       }
     ]
   },
@@ -69,15 +82,22 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+      "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
       "dated": false,
-      "seq": 199
+      "seq": 203
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+      "dated": false,
+      "seq": 203
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan"
+    "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+    "plot.xianni-ch219-dongyuan-lingyuan-heist"
   ],
-  "updatedAt": "2026-07-08T13:23:07.511Z"
+  "updatedAt": "2026-07-08T13:41:20.901Z"
 }

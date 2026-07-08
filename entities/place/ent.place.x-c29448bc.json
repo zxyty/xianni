@@ -8,9 +8,10 @@
   "summary": "云天宗几乎所有女修聚居之处,整体飘浮半空、云层覆盖、通体白玉阁楼,下有强大禁制托举飘浮并带障目之术,为禁地严禁外人入内。",
   "attributes": {
     "所属势力": "云天宗",
-    "类型": "女修聚居飘浮禁地、地点、门派辖区",
+    "类型": "女修聚居飘浮禁地、地点、门派辖区、悬空苑区",
     "方位": "飘浮半空、被云层覆盖",
-    "守护": "托举飘浮禁制+障目之术"
+    "守护": "大型托举禁制",
+    "特产": "仙鹤、女修"
   },
   "observations": {
     "所属势力": [
@@ -35,6 +36,11 @@
         "value": "门派辖区",
         "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
         "seq": 199
+      },
+      {
+        "value": "悬空苑区",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203
       }
     ],
     "方位": [
@@ -49,6 +55,18 @@
         "value": "托举飘浮禁制+障目之术",
         "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
         "seq": 199
+      },
+      {
+        "value": "大型托举禁制",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203
+      }
+    ],
+    "特产": [
+      {
+        "value": "仙鹤、女修",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203
       }
     ]
   },
@@ -74,15 +92,22 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+      "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
       "dated": false,
-      "seq": 199
+      "seq": 203
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+      "dated": false,
+      "seq": 203
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan"
+    "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+    "plot.xianni-ch219-dongyuan-lingyuan-heist"
   ],
-  "updatedAt": "2026-07-08T13:23:07.513Z"
+  "updatedAt": "2026-07-08T13:41:20.909Z"
 }

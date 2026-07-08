@@ -9,12 +9,14 @@
     "记录手诀的玉简",
     "岐黄门丹方玉简",
     "丹方玉简",
-    "李慕婉玉简"
+    "李慕婉玉简",
+    "云妃玉简",
+    "岐黄门玉简"
   ],
   "summary": "尸阴宗唯一身份凭证，按颜色分始祖青/师祖深蓝/长老淡蓝/弟子白；封印弟子魂魄以受上级控制。",
   "attributes": {
-    "类型": "玉简",
-    "用途": "标识身份、封印魂魄、上控下、通过护山大阵光幕、记录离开第三关之手诀、记载岐黄门丹药配方、记录珍贵丹方、记录斗邪派青龙法阵",
+    "类型": "记事玉简",
+    "用途": "标识身份、封印魂魄、上控下、通过护山大阵光幕、记录离开第三关之手诀、记载岐黄门丹药配方、记录珍贵丹方、记录斗邪派青龙法阵、记载岐黄门丹方",
     "产地": "岐黄门"
   },
   "observations": {
@@ -43,6 +45,11 @@
         "value": "玉简",
         "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
         "seq": 186
+      },
+      {
+        "value": "记事玉简",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203
       }
     ],
     "用途": [
@@ -75,6 +82,11 @@
         "value": "记录斗邪派青龙法阵",
         "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
         "seq": 186
+      },
+      {
+        "value": "记载岐黄门丹方",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203
       }
     ],
     "产地": [
@@ -89,9 +101,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
+      "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
       "dated": false,
-      "seq": 186
+      "seq": 203
     },
     "用途": {
       "asOf": null,
@@ -114,7 +126,8 @@
     "plot.xianni-ch176-duoqu-fengqun",
     "plot.xianni-ch183-yibian-chushi",
     "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
-    "plot.xianni-ch186-187-two-hundred-years-silence"
+    "plot.xianni-ch186-187-two-hundred-years-silence",
+    "plot.xianni-ch219-dongyuan-lingyuan-heist"
   ],
-  "updatedAt": "2026-07-07T11:50:02.212Z"
+  "updatedAt": "2026-07-08T13:41:20.921Z"
 }

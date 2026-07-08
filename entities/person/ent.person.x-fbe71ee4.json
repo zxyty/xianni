@@ -3,13 +3,18 @@
   "type": "person",
   "name": "公孙彤",
   "aliases": [
-    "彤丫头"
+    "彤丫头",
+    "彤姐",
+    "公孙彤姑娘"
   ],
   "summary": "云天宗东苑女修，接近程贤以骗取其灵猿大猿二猿，取灵猿内丹，大猿疑死。",
   "attributes": {
     "身份": "云天宗东苑女修",
     "阵营": "云天宗东苑",
-    "性格": "心机颇深"
+    "性格": "心机颇深",
+    "性别": "女",
+    "存殁": "死亡",
+    "死因": "魂魄被许立国摄取"
   },
   "observations": {
     "身份": [
@@ -33,6 +38,28 @@
         "seq": 199,
         "note": "程贤之师评价"
       }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203,
+        "note": "第219章被许立国取魂魄"
+      }
+    ],
+    "死因": [
+      {
+        "value": "魂魄被许立国摄取",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203
+      }
     ]
   },
   "firstSeq": 199,
@@ -55,12 +82,32 @@
       "dated": false,
       "seq": 199,
       "note": "程贤之师评价"
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+      "dated": false,
+      "seq": 203
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+      "dated": false,
+      "seq": 203,
+      "note": "第219章被许立国取魂魄"
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+      "dated": false,
+      "seq": 203
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan"
+    "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+    "plot.xianni-ch219-dongyuan-lingyuan-heist"
   ],
-  "updatedAt": "2026-07-08T13:23:07.509Z"
+  "updatedAt": "2026-07-08T13:41:20.902Z"
 }

@@ -7,9 +7,10 @@
   ],
   "summary": "王林自炼成功一炉（七粒），配合灵液助其修为由凝气三层跃至八层。",
   "attributes": {
-    "功效": "培元增灵力",
+    "功效": "培元固本",
     "适用境界": "凝气期",
-    "炼制者": "王林"
+    "炼制者": "王林",
+    "品阶": "初级丹药"
   },
   "observations": {
     "功效": [
@@ -22,6 +23,11 @@
         "value": "培元增灵力",
         "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
         "seq": 199
+      },
+      {
+        "value": "培元固本",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203
       }
     ],
     "适用境界": [
@@ -37,15 +43,22 @@
         "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
         "seq": 197
       }
+    ],
+    "品阶": [
+      {
+        "value": "初级丹药",
+        "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+        "seq": 203
+      }
     ]
   },
   "firstSeq": 197,
   "attrProvenance": {
     "功效": {
       "asOf": null,
-      "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+      "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
       "dated": false,
-      "seq": 199
+      "seq": 203
     },
     "适用境界": {
       "asOf": null,
@@ -58,13 +71,20 @@
       "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
       "dated": false,
       "seq": 197
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+      "dated": false,
+      "seq": 203
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
-    "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan"
+    "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+    "plot.xianni-ch219-dongyuan-lingyuan-heist"
   ],
-  "updatedAt": "2026-07-08T13:23:07.485Z"
+  "updatedAt": "2026-07-08T13:41:20.922Z"
 }
