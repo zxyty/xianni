@@ -2,12 +2,14 @@
   "id": "ent.artifact.x-58457e47",
   "type": "artifact",
   "name": "青铜古镜",
-  "aliases": [],
+  "aliases": [
+    "青铜镜"
+  ],
   "summary": "王林所持古铜色镜子，掐诀抛出散青光/青芒，可困住并擒回逃遁的元婴。",
   "attributes": {
     "持有者": "王林",
-    "能力": "青光困擒逃遁元婴",
-    "外形": "古铜色镜子，闪青芒"
+    "能力": "青光困擒逃遁元婴、射青光石化/攻击、镜背复制目标生物、青光定身牵制",
+    "外形": "青铜古镜"
   },
   "observations": {
     "持有者": [
@@ -22,6 +24,21 @@
         "value": "青光困擒逃遁元婴",
         "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
         "seq": 208
+      },
+      {
+        "value": "射青光石化/攻击",
+        "docId": "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
+        "seq": 213
+      },
+      {
+        "value": "镜背复制目标生物",
+        "docId": "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
+        "seq": 213
+      },
+      {
+        "value": "青光定身牵制",
+        "docId": "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
+        "seq": 213
       }
     ],
     "外形": [
@@ -29,6 +46,11 @@
         "value": "古铜色镜子，闪青芒",
         "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
         "seq": 208
+      },
+      {
+        "value": "青铜古镜",
+        "docId": "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
+        "seq": 213
       }
     ]
   },
@@ -48,15 +70,16 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
+      "docId": "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
       "dated": false,
-      "seq": 208
+      "seq": 213
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch224-jieying-fenshen-benzun-ronghe"
+    "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
+    "plot.xianni-ch213-215-wenshou-lianmocheng-shalv"
   ],
-  "updatedAt": "2026-07-08T14:07:21.040Z"
+  "updatedAt": "2026-07-18T10:47:11.134Z"
 }

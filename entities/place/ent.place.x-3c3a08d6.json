@@ -2,14 +2,17 @@
   "id": "ent.place.x-3c3a08d6",
   "type": "place",
   "name": "炼器阁",
-  "aliases": [],
+  "aliases": [
+    "连墨城炼器阁"
+  ],
   "summary": "炼器宗设于南斗城城东的三层法宝店铺，一层凝气、二层筑基、三层结丹坐镇。",
   "attributes": {
     "所属势力": "炼器宗",
     "所属界面": "修魔海",
-    "类型": "商铺/据点",
+    "类型": "炼器铺",
     "方位": "南斗城城东",
-    "规模": "五层"
+    "规模": "五层",
+    "上级区域": "连墨城"
   },
   "observations": {
     "所属势力": [
@@ -36,6 +39,11 @@
         "value": "商铺/据点",
         "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
         "seq": 188
+      },
+      {
+        "value": "炼器铺",
+        "docId": "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
+        "seq": 213
       }
     ],
     "方位": [
@@ -56,6 +64,13 @@
         "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
         "seq": 188
       }
+    ],
+    "上级区域": [
+      {
+        "value": "连墨城",
+        "docId": "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
+        "seq": 213
+      }
     ]
   },
   "firstSeq": 129,
@@ -74,9 +89,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+      "docId": "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
       "dated": false,
-      "seq": 188
+      "seq": 213
     },
     "方位": {
       "asOf": null,
@@ -89,13 +104,20 @@
       "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
       "dated": false,
       "seq": 188
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
+      "dated": false,
+      "seq": 213
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch129-131-jiedan-sandan-heyi",
-    "plot.renfa-ch204-ancient-mirror-forbidden-banner"
+    "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+    "plot.xianni-ch213-215-wenshou-lianmocheng-shalv"
   ],
-  "updatedAt": "2026-07-07T12:03:22.451Z"
+  "updatedAt": "2026-07-18T10:47:11.144Z"
 }

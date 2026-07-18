@@ -56,3 +56,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-07-08T13:54:39.556Z** `ingest` plot.xianni-ch222-wanglin-jiedan — 仙逆·第222章 夺天七鼎——王林服天离丹突破结丹，李慕婉云天宗藏经阁寻开丹封之术 · kind=plot asOf=2026-07-08 entities=34 relations=41 src=00206-00207.md
 - **2026-07-08T14:07:21.073Z** `ingest` plot.xianni-ch224-jieying-fenshen-benzun-ronghe — 仙逆 第224章 结婴——分身服丹突破结丹大圆满、本尊分身融合冲击结婴 · kind=plot asOf=2026-07-08 entities=43 relations=63 src=00208-00209.md
 - **2026-07-18T10:39:12.591Z** `ingest` plot.xianni-ch226-leave-chu-country — 仙逆 第226章 离开楚国——王林血洗云天宗始祖、结婴变故与身世坦白 · kind=plot asOf=2026-07-18 entities=46 relations=51 src=00210-00212.md
+- **2026-07-18T10:47:11.183Z** `ingest` plot.xianni-ch213-215-wenshou-lianmocheng-shalv — 仙逆 第213-215章 蚊兽坐骑与连墨城杀人取令 · kind=plot asOf=2026-07-18 entities=34 relations=35 src=00213-00215.md

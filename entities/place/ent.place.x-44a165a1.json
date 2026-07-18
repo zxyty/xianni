@@ -2,12 +2,15 @@
   "id": "ent.place.x-44a165a1",
   "type": "place",
   "name": "连墨城",
-  "aliases": [],
+  "aliases": [
+    "连墨城城池"
+  ],
   "summary": "修魔内海九十九座大城之一，远胜外海小城；城外三十万里有一座废弃古传送阵，王林北行约十天前往。",
   "attributes": {
     "所属界面": "修魔海",
-    "类型": "修真大城",
-    "方位": "修魔内海（王林处向北约十天路程）"
+    "类型": "修真大城、修士主城、城池",
+    "方位": "修魔内海（王林处向北约十天路程）",
+    "规模": "颇具规模、修士众多、多座传送阵"
   },
   "observations": {
     "所属界面": [
@@ -22,6 +25,16 @@
         "value": "修真大城",
         "docId": "plot.xianni-ch226-leave-chu-country",
         "seq": 210
+      },
+      {
+        "value": "修士主城",
+        "docId": "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
+        "seq": 213
+      },
+      {
+        "value": "城池",
+        "docId": "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
+        "seq": 213
       }
     ],
     "方位": [
@@ -29,6 +42,13 @@
         "value": "修魔内海（王林处向北约十天路程）",
         "docId": "plot.xianni-ch226-leave-chu-country",
         "seq": 210
+      }
+    ],
+    "规模": [
+      {
+        "value": "颇具规模、修士众多、多座传送阵",
+        "docId": "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
+        "seq": 213
       }
     ]
   },
@@ -51,12 +71,19 @@
       "docId": "plot.xianni-ch226-leave-chu-country",
       "dated": false,
       "seq": 210
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
+      "dated": false,
+      "seq": 213
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch226-leave-chu-country"
+    "plot.xianni-ch226-leave-chu-country",
+    "plot.xianni-ch213-215-wenshou-lianmocheng-shalv"
   ],
-  "updatedAt": "2026-07-18T10:39:12.541Z"
+  "updatedAt": "2026-07-18T10:47:11.156Z"
 }

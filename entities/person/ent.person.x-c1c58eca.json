@@ -3,13 +3,15 @@
   "type": "person",
   "name": "中年文士",
   "aliases": [
-    "沈腰潘鬓中年文士"
+    "沈腰潘鬓中年文士",
+    "秘市中年文士"
   ],
   "summary": "战神殿元婴期高手，面如冠玉、温文尔雅带傲气，主张六人联手收服火灵兽。",
   "attributes": {
-    "小阶段": "元婴期",
+    "小阶段": "元婴后期巅峰",
     "外貌": "面如冠玉、温文尔雅",
-    "性格": "傲气"
+    "性格": "傲气",
+    "标志特征": "神识强大"
   },
   "observations": {
     "小阶段": [
@@ -17,6 +19,12 @@
         "value": "元婴期",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
+      },
+      {
+        "value": "元婴后期巅峰",
+        "docId": "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
+        "seq": 213,
+        "note": "距化神一步；表面伪装元婴初期"
       }
     ],
     "外貌": [
@@ -32,15 +40,23 @@
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
       }
+    ],
+    "标志特征": [
+      {
+        "value": "神识强大",
+        "docId": "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
+        "seq": 213
+      }
     ]
   },
   "firstSeq": 119,
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+      "docId": "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
       "dated": false,
-      "seq": 119
+      "seq": 213,
+      "note": "距化神一步；表面伪装元婴初期"
     },
     "外貌": {
       "asOf": null,
@@ -53,12 +69,19 @@
       "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
       "dated": false,
       "seq": 119
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
+      "dated": false,
+      "seq": 213
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian"
+    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+    "plot.xianni-ch213-215-wenshou-lianmocheng-shalv"
   ],
-  "updatedAt": "2026-07-05T05:13:41.038Z"
+  "updatedAt": "2026-07-18T10:47:11.149Z"
 }
