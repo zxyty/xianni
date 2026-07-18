@@ -11,7 +11,9 @@
     "据点": "原恒岳派山门",
     "镇派之宝": "（始祖朴南子坐镇）",
     "阵营": "赵国修真界",
-    "所属界面": "赵国"
+    "所属界面": "赵国",
+    "等级": "赵国第一门派",
+    "掌门": "朴南子"
   },
   "observations": {
     "理念": [
@@ -84,6 +86,20 @@
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
       }
+    ],
+    "等级": [
+      {
+        "value": "赵国第一门派",
+        "docId": "plot.xianni-ch232-jian-qiao",
+        "seq": 216
+      }
+    ],
+    "掌门": [
+      {
+        "value": "朴南子",
+        "docId": "plot.xianni-ch232-jian-qiao",
+        "seq": 216
+      }
     ]
   },
   "firstSeq": 31,
@@ -117,6 +133,18 @@
       "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
       "dated": false,
       "seq": 80
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-ch232-jian-qiao",
+      "dated": false,
+      "seq": 216
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.xianni-ch232-jian-qiao",
+      "dated": false,
+      "seq": 216
     }
   },
   "contested": false,
@@ -133,7 +161,8 @@
     "lore.xianni-ch105-jijing-realm",
     "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
     "plot.xianni-ch117-wanglin-death",
-    "plot.xianni-ch213-yuntianzong-zhoulin-shoutu"
+    "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+    "plot.xianni-ch232-jian-qiao"
   ],
-  "updatedAt": "2026-07-07T12:54:31.005Z"
+  "updatedAt": "2026-07-18T11:04:18.654Z"
 }

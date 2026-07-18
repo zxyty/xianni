@@ -7,7 +7,9 @@
   "attributes": {
     "所属势力": "战神殿",
     "规模": "三百六十五间石室",
-    "守护": "水镜门"
+    "守护": "水镜门",
+    "所属界面": "宣武国",
+    "类型": "祖庭密府"
   },
   "observations": {
     "所属势力": [
@@ -30,6 +32,20 @@
         "docId": "plot.xianni-ch147-150-shendaoshu-deal",
         "seq": 147
       }
+    ],
+    "所属界面": [
+      {
+        "value": "宣武国",
+        "docId": "plot.xianni-ch232-jian-qiao",
+        "seq": 216
+      }
+    ],
+    "类型": [
+      {
+        "value": "祖庭密府",
+        "docId": "plot.xianni-ch232-jian-qiao",
+        "seq": 216
+      }
     ]
   },
   "firstSeq": 147,
@@ -51,12 +67,25 @@
       "docId": "plot.xianni-ch147-150-shendaoshu-deal",
       "dated": false,
       "seq": 147
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch232-jian-qiao",
+      "dated": false,
+      "seq": 216
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-ch232-jian-qiao",
+      "dated": false,
+      "seq": 216
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch147-150-shendaoshu-deal"
+    "plot.xianni-ch147-150-shendaoshu-deal",
+    "plot.xianni-ch232-jian-qiao"
   ],
-  "updatedAt": "2026-07-06T15:33:53.278Z"
+  "updatedAt": "2026-07-18T11:04:18.618Z"
 }

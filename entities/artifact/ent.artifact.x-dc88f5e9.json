@@ -7,15 +7,17 @@
     "古朴剑鞘",
     "古拙剑鞘",
     "古朴的剑鞘",
-    "古怪剑鞘"
+    "古怪剑鞘",
+    "杀气剑鞘",
+    "神秘剑鞘"
   ],
   "summary": "配古怪飞剑使用的黑色剑鞘，被司徒南指为真正的宝贝，战后归王林。",
   "attributes": {
     "持有者": "李姓男子",
-    "外形": "黑色剑鞘、古朴，透萧杀剑意、古朴剑鞘、古拙无花纹",
-    "禁制": "内蕴与众不同的古怪气息",
+    "外形": "黑色剑鞘、古朴，透萧杀剑意、古朴剑鞘、古拙无花纹、古朴、散发沧桑之气，正中符号与王林旧鞘不同",
+    "禁制": "封印杀气",
     "来历": "孙浩师傅在古洞所得",
-    "能力": "增强瞬移飞剑威力",
+    "能力": "配合飞剑增威、飞剑下沉变色：绿→蓝→黑（五分之二）→红（五分之三）增威、承载古怪飞剑，随炼化度加深下沉更多、威力更大、增强瞬移飞剑威力、封印杀气(泄出一丝即夷平盆地、犁沟数百丈)、刺入飞剑遇阻(五分之三处)",
     "品阶": "疑超元婴/化神/婴变"
   },
   "observations": {
@@ -51,6 +53,11 @@
         "value": "古拙无花纹",
         "docId": "plot.xianni-ch85-89-jilian-jianqiao",
         "seq": 85
+      },
+      {
+        "value": "古朴、散发沧桑之气，正中符号与王林旧鞘不同",
+        "docId": "plot.xianni-ch232-jian-qiao",
+        "seq": 216
       }
     ],
     "禁制": [
@@ -63,6 +70,11 @@
         "value": "内蕴与众不同的古怪气息",
         "docId": "plot.xianni-ch226-leave-chu-country",
         "seq": 210
+      },
+      {
+        "value": "封印杀气",
+        "docId": "plot.xianni-ch232-jian-qiao",
+        "seq": 216
       }
     ],
     "来历": [
@@ -102,6 +114,16 @@
         "value": "增强瞬移飞剑威力",
         "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
         "seq": 137
+      },
+      {
+        "value": "封印杀气(泄出一丝即夷平盆地、犁沟数百丈)",
+        "docId": "plot.xianni-ch232-jian-qiao",
+        "seq": 216
+      },
+      {
+        "value": "刺入飞剑遇阻(五分之三处)",
+        "docId": "plot.xianni-ch232-jian-qiao",
+        "seq": 216
       }
     ],
     "品阶": [
@@ -129,9 +151,9 @@
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.xianni-ch226-leave-chu-country",
+      "docId": "plot.xianni-ch232-jian-qiao",
       "dated": false,
-      "seq": 210
+      "seq": 216
     },
     "来历": {
       "asOf": null,
@@ -141,9 +163,9 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+      "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
       "dated": false,
-      "seq": 137
+      "seq": 67
     },
     "品阶": {
       "asOf": null,
@@ -161,7 +183,8 @@
     "lore.huangquan-shengqiao-jue-jiyin-zhidi",
     "plot.xianni-ch85-89-jilian-jianqiao",
     "plot.xianni-ch137-141-nandou-shafa-xuelu",
-    "plot.xianni-ch226-leave-chu-country"
+    "plot.xianni-ch226-leave-chu-country",
+    "plot.xianni-ch232-jian-qiao"
   ],
-  "updatedAt": "2026-07-18T10:39:12.528Z"
+  "updatedAt": "2026-07-18T11:04:18.605Z"
 }

@@ -9,8 +9,8 @@
   "attributes": {
     "类型": "远古传送阵",
     "两端": "修魔海、碎星乱",
-    "稳定性": "一次性（开启即自爆报废）",
-    "来历": "远古时期流传"
+    "稳定性": "多数破损，部分被近期修补完整",
+    "来历": "远古"
   },
   "observations": {
     "类型": [
@@ -37,6 +37,11 @@
         "value": "一次性（开启即自爆报废）",
         "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
         "seq": 151
+      },
+      {
+        "value": "多数破损，部分被近期修补完整",
+        "docId": "plot.xianni-ch232-jian-qiao",
+        "seq": 216
       }
     ],
     "来历": [
@@ -44,6 +49,11 @@
         "value": "远古时期流传",
         "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
         "seq": 151
+      },
+      {
+        "value": "远古",
+        "docId": "plot.xianni-ch232-jian-qiao",
+        "seq": 216
       }
     ]
   },
@@ -63,21 +73,22 @@
     },
     "稳定性": {
       "asOf": null,
-      "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
+      "docId": "plot.xianni-ch232-jian-qiao",
       "dated": false,
-      "seq": 151
+      "seq": 216
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
+      "docId": "plot.xianni-ch232-jian-qiao",
       "dated": false,
-      "seq": 151
+      "seq": 216
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch151-154-ancient-teleport-array-suixingluan"
+    "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
+    "plot.xianni-ch232-jian-qiao"
   ],
-  "updatedAt": "2026-07-06T15:52:10.955Z"
+  "updatedAt": "2026-07-18T11:04:18.635Z"
 }
