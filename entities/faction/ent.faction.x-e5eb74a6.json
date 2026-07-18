@@ -3,13 +3,16 @@
   "type": "faction",
   "name": "无锋谷",
   "aliases": [
-    "无锋谷门派"
+    "无锋谷门派",
+    "无锋谷宗派"
   ],
   "summary": "藤邢森任客卿的势力，地位令藤家城无人敢惹。",
   "attributes": {
     "镇派之宝": "天雷风火伞",
-    "阵营": "赵国修真界",
-    "掌门": "黑脸老者（元婴期高手）"
+    "阵营": "赵国魔道联盟",
+    "掌门": "黑脸老者（元婴期高手）",
+    "等级": "二流宗派",
+    "据点": "五仙山"
   },
   "observations": {
     "镇派之宝": [
@@ -24,6 +27,11 @@
         "value": "赵国修真界",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
+      },
+      {
+        "value": "赵国魔道联盟",
+        "docId": "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong",
+        "seq": 220
       }
     ],
     "掌门": [
@@ -31,6 +39,20 @@
         "value": "黑脸老者（元婴期高手）",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
+      }
+    ],
+    "等级": [
+      {
+        "value": "二流宗派",
+        "docId": "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong",
+        "seq": 220
+      }
+    ],
+    "据点": [
+      {
+        "value": "五仙山",
+        "docId": "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong",
+        "seq": 220
       }
     ]
   },
@@ -44,15 +66,27 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+      "docId": "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong",
       "dated": false,
-      "seq": 96
+      "seq": 220
     },
     "掌门": {
       "asOf": null,
       "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
       "dated": false,
       "seq": 96
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong",
+      "dated": false,
+      "seq": 220
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong",
+      "dated": false,
+      "seq": 220
     }
   },
   "contested": false,
@@ -61,7 +95,8 @@
     "plot.xianni-ch61-66-strange-sword-baizhan",
     "plot.xianni-ch85-89-jilian-jianqiao",
     "lore.xianni-ch105-jijing-realm",
-    "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery"
+    "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+    "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong"
   ],
-  "updatedAt": "2026-07-05T03:50:16.491Z"
+  "updatedAt": "2026-07-18T11:10:03.296Z"
 }

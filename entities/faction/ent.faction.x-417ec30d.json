@@ -4,13 +4,15 @@
   "name": "合欢宗",
   "aliases": [
     "合huan宗",
-    "合歡宗"
+    "合歡宗",
+    "合欢宗门派"
   ],
   "summary": "李山口中可凭信物前往双修的门派；其兜售一枚合欢宗信物。",
   "attributes": {
     "理念": "双修",
     "阵营": "赵国修真界",
-    "所属界面": "赵国"
+    "所属界面": "赵国",
+    "等级": "魔道第一门派"
   },
   "observations": {
     "理念": [
@@ -38,6 +40,13 @@
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
       }
+    ],
+    "等级": [
+      {
+        "value": "魔道第一门派",
+        "docId": "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong",
+        "seq": 220
+      }
     ]
   },
   "firstSeq": 43,
@@ -59,6 +68,12 @@
       "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
       "dated": false,
       "seq": 80
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong",
+      "dated": false,
+      "seq": 220
     }
   },
   "contested": false,
@@ -68,7 +83,8 @@
     "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
     "lore.xianni-ch105-jijing-realm",
     "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
-    "plot.xianni-ch235-because-he-is-surnamed-teng"
+    "plot.xianni-ch235-because-he-is-surnamed-teng",
+    "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong"
   ],
-  "updatedAt": "2026-07-18T11:07:09.232Z"
+  "updatedAt": "2026-07-18T11:10:03.297Z"
 }
