@@ -3,15 +3,19 @@
   "type": "person",
   "name": "即墨老人",
   "aliases": [
-    "即墨"
+    "即墨",
+    "即墨大仙"
   ],
   "summary": "散修，传闻已达结丹期，最护短，白展师尊，将追查白展之死。",
   "attributes": {
     "身份": "散修",
-    "小阶段": "结丹期",
+    "小阶段": "元婴中期",
     "性格": "护短",
     "标志特征": "控制门下弟子的秘术、推算秘术",
-    "阵营": "赵国修真界"
+    "阵营": "赵国修真界",
+    "外貌": "英俊精壮中年",
+    "存殁": "死亡",
+    "死因": "被王林极境神识秒杀（第237章）"
   },
   "observations": {
     "身份": [
@@ -26,6 +30,12 @@
         "value": "结丹期",
         "docId": "plot.xianni-ch61-66-strange-sword-baizhan",
         "seq": 61
+      },
+      {
+        "value": "元婴中期",
+        "docId": "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong",
+        "seq": 220,
+        "note": "真容/收缩肥肉后暴涨；平时伪装元婴初期"
       }
     ],
     "性格": [
@@ -64,6 +74,28 @@
         "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
         "seq": 190
       }
+    ],
+    "外貌": [
+      {
+        "value": "英俊精壮中年",
+        "docId": "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong",
+        "seq": 220,
+        "note": "真容；平时为油光肉山胖子"
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong",
+        "seq": 220
+      }
+    ],
+    "死因": [
+      {
+        "value": "被王林极境神识秒杀（第237章）",
+        "docId": "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong",
+        "seq": 220
+      }
     ]
   },
   "firstSeq": 61,
@@ -76,9 +108,10 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch61-66-strange-sword-baizhan",
+      "docId": "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong",
       "dated": false,
-      "seq": 61
+      "seq": 220,
+      "note": "真容/收缩肥肉后暴涨；平时伪装元婴初期"
     },
     "性格": {
       "asOf": null,
@@ -97,6 +130,25 @@
       "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
       "dated": false,
       "seq": 190
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong",
+      "dated": false,
+      "seq": 220,
+      "note": "真容；平时为油光肉山胖子"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong",
+      "dated": false,
+      "seq": 220
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong",
+      "dated": false,
+      "seq": 220
     }
   },
   "contested": false,
@@ -106,7 +158,8 @@
     "plot.xianni-ch67-71-tengli-chase-lanxianteng",
     "plot.xianni-ch117-wanglin-death",
     "plot.xianni-ch186-187-two-hundred-years-silence",
-    "plot.xianni-ch206-guixi-yuanying-qiusiping"
+    "plot.xianni-ch206-guixi-yuanying-qiusiping",
+    "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong"
   ],
-  "updatedAt": "2026-07-07T12:09:47.092Z"
+  "updatedAt": "2026-07-18T11:10:03.291Z"
 }
