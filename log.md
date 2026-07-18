@@ -58,3 +58,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-07-18T10:39:12.591Z** `ingest` plot.xianni-ch226-leave-chu-country — 仙逆 第226章 离开楚国——王林血洗云天宗始祖、结婴变故与身世坦白 · kind=plot asOf=2026-07-18 entities=46 relations=51 src=00210-00212.md
 - **2026-07-18T10:47:11.183Z** `ingest` plot.xianni-ch213-215-wenshou-lianmocheng-shalv — 仙逆 第213-215章 蚊兽坐骑与连墨城杀人取令 · kind=plot asOf=2026-07-18 entities=34 relations=35 src=00213-00215.md
 - **2026-07-18T11:04:18.683Z** `ingest` plot.xianni-ch232-jian-qiao — 仙逆 第232章 剑鞘 · kind=plot asOf=2026-07-18 entities=50 relations=60 src=00216-00218.md
+- **2026-07-18T11:07:09.264Z** `ingest` plot.xianni-ch235-because-he-is-surnamed-teng — 仙逆 第235章 因为，他姓藤——王林返乡祭亲，血洗藤家血脉起始 · kind=plot asOf=2026-07-18 entities=29 relations=28 src=00219-00219.md
