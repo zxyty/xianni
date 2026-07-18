@@ -18,9 +18,9 @@
   "attributes": {
     "类型": "雾海、海域秘境、海域/魔修之地、海域/修魔势力范围、海域/魔修聚集地、海域/凶地、海域、海域/险地、海域/大型秘境、凶险海域、海域/危险地带、海域/危险秘境、魔修海域",
     "方位": "周武大陆与赵国大陆之间、火焚国边境外",
-    "危险度": "极高(元婴期亦不敢轻入)、高、高（海威、化海）、极高、高（遍地危机）、极高（化神期修士活动）",
-    "特产": "每年一月雾气复为海水、阴寒灵力、上古海洋植被、内海灵兽、远古古传送阵、小兽兽群、飓风、雾气化海、异兽内丹、常年黑雨与天劫雷云、极品灵石",
-    "规模": "约相当于几千个火焚国、城池近千（九百九十八城）、极大，飞行百年难达边缘、极大",
+    "危险度": "极高(元婴期亦不敢轻入)、高、高（海威、化海）、极高、高（遍地危机）、极高（化神期修士活动）、妖灵兽乱、荒兽出没",
+    "特产": "每年一月雾气复为海水、阴寒灵力、上古海洋植被、内海灵兽、远古古传送阵、小兽兽群、飓风、雾气化海、异兽内丹、常年黑雨与天劫雷云、极品灵石、妖兽内丹、八爪兽",
+    "规模": "约相当于几千个火焚国、城池近千（九百九十八城）、极大，飞行百年难达边缘、极大、九百九十九座主城及庞大荒原",
     "上级区域": "修魔海"
   },
   "observations": {
@@ -133,6 +133,12 @@
         "value": "极高（化神期修士活动）",
         "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
         "seq": 208
+      },
+      {
+        "value": "妖灵兽乱、荒兽出没",
+        "docId": "plot.xianni-ch226-leave-chu-country",
+        "seq": 210,
+        "note": "天劫黑雨之后"
       }
     ],
     "特产": [
@@ -180,6 +186,16 @@
         "value": "极品灵石",
         "docId": "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
         "seq": 192
+      },
+      {
+        "value": "妖兽内丹",
+        "docId": "plot.xianni-ch226-leave-chu-country",
+        "seq": 210
+      },
+      {
+        "value": "八爪兽",
+        "docId": "plot.xianni-ch226-leave-chu-country",
+        "seq": 210
       }
     ],
     "规模": [
@@ -202,6 +218,11 @@
         "value": "极大",
         "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
         "seq": 151
+      },
+      {
+        "value": "九百九十九座主城及庞大荒原",
+        "docId": "plot.xianni-ch226-leave-chu-country",
+        "seq": 210
       }
     ],
     "上级区域": [
@@ -278,7 +299,8 @@
     "plot.xianni-ch210-212-refine-avatar-yuntian-sect",
     "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
     "plot.xianni-ch219-dongyuan-lingyuan-heist",
-    "plot.xianni-ch224-jieying-fenshen-benzun-ronghe"
+    "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
+    "plot.xianni-ch226-leave-chu-country"
   ],
-  "updatedAt": "2026-07-08T14:07:21.029Z"
+  "updatedAt": "2026-07-18T10:39:12.539Z"
 }
