@@ -2,13 +2,17 @@
   "id": "ent.person.x-e92c7cf5",
   "type": "person",
   "name": "黑衣中年修士",
-  "aliases": [],
+  "aliases": [
+    "黑衣人",
+    "薄唇刻薄中年修士"
+  ],
   "summary": "结丹后期修士，欲杀结丹中期的王林反被瞬杀、金丹被抓出吞下。",
   "attributes": {
-    "小阶段": "结丹后期",
-    "外貌": "黑衣中年",
+    "小阶段": "元婴中期",
+    "外貌": "中年，嘴唇略薄，刻薄之色",
     "存殁": "死亡",
-    "死因": "被王林夺魂抓金丹"
+    "死因": "自爆逃入空间裂缝后被王林极境神识追杀",
+    "标志特征": "擅隐匿气息神通"
   },
   "observations": {
     "小阶段": [
@@ -16,6 +20,11 @@
         "value": "结丹后期",
         "docId": "plot.xianni-ch207-killing-for-cores",
         "seq": 191
+      },
+      {
+        "value": "元婴中期",
+        "docId": "plot.xianni-ch232-jian-qiao",
+        "seq": 216
       }
     ],
     "外貌": [
@@ -23,6 +32,11 @@
         "value": "黑衣中年",
         "docId": "plot.xianni-ch207-killing-for-cores",
         "seq": 191
+      },
+      {
+        "value": "中年，嘴唇略薄，刻薄之色",
+        "docId": "plot.xianni-ch232-jian-qiao",
+        "seq": 216
       }
     ],
     "存殁": [
@@ -38,6 +52,18 @@
         "value": "被王林夺魂抓金丹",
         "docId": "plot.xianni-ch207-killing-for-cores",
         "seq": 191
+      },
+      {
+        "value": "自爆逃入空间裂缝后被王林极境神识追杀",
+        "docId": "plot.xianni-ch232-jian-qiao",
+        "seq": 216
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "擅隐匿气息神通",
+        "docId": "plot.xianni-ch232-jian-qiao",
+        "seq": 216
       }
     ]
   },
@@ -45,15 +71,15 @@
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch207-killing-for-cores",
+      "docId": "plot.xianni-ch232-jian-qiao",
       "dated": false,
-      "seq": 191
+      "seq": 216
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch207-killing-for-cores",
+      "docId": "plot.xianni-ch232-jian-qiao",
       "dated": false,
-      "seq": 191
+      "seq": 216
     },
     "存殁": {
       "asOf": null,
@@ -64,15 +90,22 @@
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.xianni-ch207-killing-for-cores",
+      "docId": "plot.xianni-ch232-jian-qiao",
       "dated": false,
-      "seq": 191
+      "seq": 216
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch232-jian-qiao",
+      "dated": false,
+      "seq": 216
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch207-killing-for-cores"
+    "plot.xianni-ch207-killing-for-cores",
+    "plot.xianni-ch232-jian-qiao"
   ],
-  "updatedAt": "2026-07-07T12:22:41.827Z"
+  "updatedAt": "2026-07-18T11:04:18.630Z"
 }
