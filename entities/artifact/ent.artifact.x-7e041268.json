@@ -3,14 +3,16 @@
   "type": "artifact",
   "name": "魂旗",
   "aliases": [
-    "魂旌"
+    "魂旌",
+    "崭新魂旗"
   ],
   "summary": "藤化元所持法宝,囚困王林亲人的魂魄;藤化元以毁旗令其亲人魂飞魄散相要挟。",
   "attributes": {
     "持有者": "王林",
-    "能力": "囚困王林亲人魂魄、封印魂魄、封印上百个灵魂、封印/释放魂魄、收纳/镇压魂魄魔头、收放/驱使魔头、收纳神识、制作魔头、收纳/收摄魂魄、摄取死者魂魄",
+    "能力": "囚困王林亲人魂魄、封印魂魄、封印上百个灵魂、封印/释放魂魄、收纳/镇压魂魄魔头、收放/驱使魔头、收纳神识、制作魔头、收纳/收摄魂魄、摄取死者魂魄、收摄魂魄以炼魔头",
     "品阶": "元婴期法宝",
-    "来历": "藤化元用以封王林全族、原为桑木崖所有、桑木崖所害斗邪派弟子"
+    "来历": "藤化元用以封王林全族、原为桑木崖所有、桑木崖所害斗邪派弟子",
+    "外形": "旗"
   },
   "observations": {
     "持有者": [
@@ -71,6 +73,11 @@
         "value": "摄取死者魂魄",
         "docId": "plot.xianni-ch235-because-he-is-surnamed-teng",
         "seq": 219
+      },
+      {
+        "value": "收摄魂魄以炼魔头",
+        "docId": "plot.xianni-ch222-225-core-clan-members",
+        "seq": 222
       }
     ],
     "品阶": [
@@ -95,6 +102,13 @@
         "value": "桑木崖所害斗邪派弟子",
         "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
         "seq": 126
+      }
+    ],
+    "外形": [
+      {
+        "value": "旗",
+        "docId": "plot.xianni-ch222-225-core-clan-members",
+        "seq": 222
       }
     ]
   },
@@ -124,6 +138,12 @@
       "docId": "lore.xianni-ch105-jijing-realm",
       "dated": false,
       "seq": 90
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.xianni-ch222-225-core-clan-members",
+      "dated": false,
+      "seq": 222
     }
   },
   "contested": false,
@@ -134,7 +154,8 @@
     "plot.xianni-ch173-second-demon-head",
     "plot.xianni-ch176-duoqu-fengqun",
     "plot.xianni-ch219-dongyuan-lingyuan-heist",
-    "plot.xianni-ch235-because-he-is-surnamed-teng"
+    "plot.xianni-ch235-because-he-is-surnamed-teng",
+    "plot.xianni-ch222-225-core-clan-members"
   ],
-  "updatedAt": "2026-07-18T11:07:09.239Z"
+  "updatedAt": "2026-07-23T04:38:21.904Z"
 }

@@ -8,8 +8,9 @@
   "summary": "赵国凡人望族，祖上木匠出身，在县城有木器店铺，有恒岳派推荐名额。",
   "attributes": {
     "阵营": "凡人望族",
-    "据点": "县城及周边村落",
-    "理念": "木匠望族"
+    "据点": "赵国京城东北",
+    "理念": "木匠望族",
+    "所属界面": "赵国"
   },
   "observations": {
     "阵营": [
@@ -24,6 +25,11 @@
         "value": "县城及周边村落",
         "docId": "plot.xianni-c01-06-wanglin-lixiang-celue-shibai",
         "seq": 1
+      },
+      {
+        "value": "赵国京城东北",
+        "docId": "plot.xianni-ch222-225-core-clan-members",
+        "seq": 222
       }
     ],
     "理念": [
@@ -31,6 +37,13 @@
         "value": "木匠望族",
         "docId": "plot.xianni-ch85-89-jilian-jianqiao",
         "seq": 85
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "赵国",
+        "docId": "plot.xianni-ch222-225-core-clan-members",
+        "seq": 222
       }
     ]
   },
@@ -44,15 +57,21 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-c01-06-wanglin-lixiang-celue-shibai",
+      "docId": "plot.xianni-ch222-225-core-clan-members",
       "dated": false,
-      "seq": 1
+      "seq": 222
     },
     "理念": {
       "asOf": null,
       "docId": "plot.xianni-ch85-89-jilian-jianqiao",
       "dated": false,
       "seq": 85
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch222-225-core-clan-members",
+      "dated": false,
+      "seq": 222
     }
   },
   "contested": false,
@@ -62,7 +81,8 @@
     "plot.xianni-ch07-12-liushu-rumen-shizhu",
     "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
     "plot.xianni-ch85-89-jilian-jianqiao",
-    "lore.xianni-ch105-jijing-realm"
+    "lore.xianni-ch105-jijing-realm",
+    "plot.xianni-ch222-225-core-clan-members"
   ],
-  "updatedAt": "2026-07-05T03:14:59.655Z"
+  "updatedAt": "2026-07-23T04:38:21.921Z"
 }

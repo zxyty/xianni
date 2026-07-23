@@ -5,14 +5,16 @@
   "aliases": [
     "藤家家族",
     "藤家城藤家",
-    "藤家全族"
+    "藤家全族",
+    "藤家血脉"
   ],
   "summary": "藤厉所属家族势力，据点藤家城，老太爷一辈持有保命元宝、金光内甲等护身法宝。",
   "attributes": {
     "等级": "赵国第一修真家族",
     "据点": "藤家城",
-    "所属界面": "赵国",
-    "阵营": "赵国修真界"
+    "所属界面": "赵国修真界",
+    "阵营": "赵国修真界",
+    "掌门": "藤化元"
   },
   "observations": {
     "等级": [
@@ -39,6 +41,11 @@
         "value": "赵国",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
+      },
+      {
+        "value": "赵国修真界",
+        "docId": "plot.xianni-ch222-225-core-clan-members",
+        "seq": 222
       }
     ],
     "阵营": [
@@ -46,6 +53,13 @@
         "value": "赵国修真界",
         "docId": "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong",
         "seq": 220
+      }
+    ],
+    "掌门": [
+      {
+        "value": "藤化元",
+        "docId": "plot.xianni-ch222-225-core-clan-members",
+        "seq": 222
       }
     ]
   },
@@ -65,15 +79,21 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "docId": "plot.xianni-ch222-225-core-clan-members",
       "dated": false,
-      "seq": 80
+      "seq": 222
     },
     "阵营": {
       "asOf": null,
       "docId": "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong",
       "dated": false,
       "seq": 220
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.xianni-ch222-225-core-clan-members",
+      "dated": false,
+      "seq": 222
     }
   },
   "contested": false,
@@ -85,7 +105,8 @@
     "plot.xianni-ch85-89-jilian-jianqiao",
     "plot.xianni-ch117-wanglin-death",
     "plot.xianni-ch232-jian-qiao",
-    "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong"
+    "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong",
+    "plot.xianni-ch222-225-core-clan-members"
   ],
-  "updatedAt": "2026-07-18T11:10:03.295Z"
+  "updatedAt": "2026-07-23T04:38:21.919Z"
 }
