@@ -2,11 +2,15 @@
   "id": "ent.artifact.x-e31f1844",
   "type": "artifact",
   "name": "星罗盘",
-  "aliases": [],
+  "aliases": [
+    "黑色罗盘",
+    "黑色星罗盘"
+  ],
   "summary": "古尸祖师所持法宝，配合其修为可破开星球防幕，用以返回母星。",
   "attributes": {
-    "持有者": "战神殿古尸祖师",
-    "能力": "破星球防幕"
+    "持有者": "纳多",
+    "能力": "裂开漆黑洞口通往星空、星际移动",
+    "外形": "巴掌大黑色罗盘，拍击可变大悬空"
   },
   "observations": {
     "持有者": [
@@ -14,6 +18,11 @@
         "value": "战神殿古尸祖师",
         "docId": "plot.xianni-ch232-jian-qiao",
         "seq": 216
+      },
+      {
+        "value": "纳多",
+        "docId": "plot.xianni-ch231-234-xieyi-nanzi",
+        "seq": 231
       }
     ],
     "能力": [
@@ -21,6 +30,18 @@
         "value": "破星球防幕",
         "docId": "plot.xianni-ch232-jian-qiao",
         "seq": 216
+      },
+      {
+        "value": "裂开漆黑洞口通往星空、星际移动",
+        "docId": "plot.xianni-ch231-234-xieyi-nanzi",
+        "seq": 231
+      }
+    ],
+    "外形": [
+      {
+        "value": "巴掌大黑色罗盘，拍击可变大悬空",
+        "docId": "plot.xianni-ch231-234-xieyi-nanzi",
+        "seq": 231
       }
     ]
   },
@@ -28,21 +49,28 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch232-jian-qiao",
+      "docId": "plot.xianni-ch231-234-xieyi-nanzi",
       "dated": false,
-      "seq": 216
+      "seq": 231
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-ch232-jian-qiao",
+      "docId": "plot.xianni-ch231-234-xieyi-nanzi",
       "dated": false,
-      "seq": 216
+      "seq": 231
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.xianni-ch231-234-xieyi-nanzi",
+      "dated": false,
+      "seq": 231
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch232-jian-qiao"
+    "plot.xianni-ch232-jian-qiao",
+    "plot.xianni-ch231-234-xieyi-nanzi"
   ],
-  "updatedAt": "2026-07-18T11:04:18.623Z"
+  "updatedAt": "2026-07-23T05:08:48.010Z"
 }

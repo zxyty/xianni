@@ -4,16 +4,19 @@
   "name": "桑木崖",
   "aliases": [
     "斗邪派桑木崖",
-    "邪异青年"
+    "邪异青年",
+    "邪异男子",
+    "相貌邪异的青年"
   ],
   "summary": "斗邪派弟子，以骨毒、夺基番猎杀师兄，被王林识破斩杀，魂旗被夺。",
   "attributes": {
     "小阶段": "凝气期十五层大圆满",
-    "身份": "斗邪派弟子",
-    "外貌": "面如玉、双眼细长、邪异",
+    "身份": "储物袋主人一方追杀者",
+    "外貌": "相貌邪异、目光阴沉，可化黑云",
     "存殁": "死亡",
     "死因": "被王林抽取魂魄",
-    "阵营": "斗邪派"
+    "阵营": "斗邪派",
+    "标志特征": "修为在神识下半点看不出、速度远超预判"
   },
   "observations": {
     "小阶段": [
@@ -28,6 +31,12 @@
         "value": "斗邪派弟子",
         "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
         "seq": 126
+      },
+      {
+        "value": "储物袋主人一方追杀者",
+        "docId": "plot.xianni-ch231-234-xieyi-nanzi",
+        "seq": 231,
+        "note": "身份未明"
       }
     ],
     "外貌": [
@@ -35,6 +44,11 @@
         "value": "面如玉、双眼细长、邪异",
         "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
         "seq": 126
+      },
+      {
+        "value": "相貌邪异、目光阴沉，可化黑云",
+        "docId": "plot.xianni-ch231-234-xieyi-nanzi",
+        "seq": 231
       }
     ],
     "存殁": [
@@ -62,6 +76,14 @@
         "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
         "seq": 126
       }
+    ],
+    "标志特征": [
+      {
+        "value": "修为在神识下半点看不出、速度远超预判",
+        "docId": "plot.xianni-ch231-234-xieyi-nanzi",
+        "seq": 231,
+        "note": "极度危险"
+      }
     ]
   },
   "firstSeq": 126,
@@ -74,15 +96,16 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
+      "docId": "plot.xianni-ch231-234-xieyi-nanzi",
       "dated": false,
-      "seq": 126
+      "seq": 231,
+      "note": "身份未明"
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
+      "docId": "plot.xianni-ch231-234-xieyi-nanzi",
       "dated": false,
-      "seq": 126
+      "seq": 231
     },
     "存殁": {
       "asOf": null,
@@ -101,6 +124,13 @@
       "docId": "plot.xianni-ch126-128-modohai-doupai-sangmuya",
       "dated": false,
       "seq": 126
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch231-234-xieyi-nanzi",
+      "dated": false,
+      "seq": 231,
+      "note": "极度危险"
     }
   },
   "contested": false,
@@ -108,7 +138,8 @@
   "docs": [
     "plot.xianni-ch126-128-modohai-doupai-sangmuya",
     "plot.xianni-ch129-131-jiedan-sandan-heyi",
-    "plot.xianni-ch155-157-tuoli-duiwu-quisui"
+    "plot.xianni-ch155-157-tuoli-duiwu-quisui",
+    "plot.xianni-ch231-234-xieyi-nanzi"
   ],
-  "updatedAt": "2026-07-06T16:00:48.976Z"
+  "updatedAt": "2026-07-23T05:08:47.985Z"
 }

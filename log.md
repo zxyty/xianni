@@ -62,3 +62,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-07-18T11:10:03.331Z** `ingest` plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong — 仙逆 第236-237章：王林血洗藤家、斩即墨老人、逼开合欢宗 · kind=plot asOf=2026-07-18 entities=23 relations=27 src=00220-00221.md
 - **2026-07-23T04:38:21.949Z** `ingest` plot.xianni-ch222-225-core-clan-members — 仙逆 第222-225章：核心族人·藤九出逃 · kind=plot asOf=2026-07-23 entities=36 relations=48 src=00222-00225.md
 - **2026-07-23T04:56:01.456Z** `ingest` plot.xianni-ch242-punanzi — 仙逆 第242章 朴南子 · kind=plot asOf=2026-07-23 entities=47 relations=65 src=00226-00230.md
+- **2026-07-23T05:08:48.052Z** `ingest` plot.xianni-ch231-234-xieyi-nanzi — 仙逆 第231-234章 · 邪异男子 / 修星之晶 · kind=plot asOf=2026-07-23 entities=40 relations=42 src=00231-00234.md
