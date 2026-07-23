@@ -2,11 +2,14 @@
   "id": "ent.person.x-d7a5a3f3",
   "type": "person",
   "name": "吕兴",
-  "aliases": [],
+  "aliases": [
+    "吕兄"
+  ],
   "summary": "天南商铺之人，护送车队赴京城，邀王林同行并许诺相助。",
   "attributes": {
-    "身份": "天南商铺护队之人",
-    "阵营": "凡人/武林"
+    "身份": "四级修真国车队成员",
+    "阵营": "凡人/武林",
+    "种族": "凡人"
   },
   "observations": {
     "身份": [
@@ -14,6 +17,11 @@
         "value": "天南商铺护队之人",
         "docId": "plot.xianni-ch231-234-xieyi-nanzi",
         "seq": 231
+      },
+      {
+        "value": "四级修真国车队成员",
+        "docId": "plot.xianni-ch235-238-guiyin-fabao",
+        "seq": 235
       }
     ],
     "阵营": [
@@ -22,27 +30,41 @@
         "docId": "plot.xianni-ch231-234-xieyi-nanzi",
         "seq": 231
       }
+    ],
+    "种族": [
+      {
+        "value": "凡人",
+        "docId": "plot.xianni-ch235-238-guiyin-fabao",
+        "seq": 235
+      }
     ]
   },
   "firstSeq": 231,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch231-234-xieyi-nanzi",
+      "docId": "plot.xianni-ch235-238-guiyin-fabao",
       "dated": false,
-      "seq": 231
+      "seq": 235
     },
     "阵营": {
       "asOf": null,
       "docId": "plot.xianni-ch231-234-xieyi-nanzi",
       "dated": false,
       "seq": 231
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch235-238-guiyin-fabao",
+      "dated": false,
+      "seq": 235
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch231-234-xieyi-nanzi"
+    "plot.xianni-ch231-234-xieyi-nanzi",
+    "plot.xianni-ch235-238-guiyin-fabao"
   ],
-  "updatedAt": "2026-07-23T05:08:48.025Z"
+  "updatedAt": "2026-07-23T05:16:44.466Z"
 }
