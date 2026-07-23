@@ -4,13 +4,18 @@
   "name": "四级修真国京都",
   "aliases": [
     "京都",
-    "都城"
+    "都城",
+    "京都城",
+    "西城",
+    "城西",
+    "京都西城"
   ],
   "summary": "四级修真国凡人都城，城中心立九根仙木，城内可见十余凝气期修士，有面向修士贩卖玉简法宝的店铺（凡人被禁制阻隔）。",
   "attributes": {
-    "类型": "凡人都城",
+    "类型": "都城",
     "所属势力": "四级修真国",
-    "特产": "仙木、灵气漩涡、修士店铺"
+    "特产": "仙木、灵气漩涡、修士店铺",
+    "方位": "王林店铺在城西"
   },
   "observations": {
     "类型": [
@@ -18,6 +23,11 @@
         "value": "凡人都城",
         "docId": "plot.xianni-ch235-238-guiyin-fabao",
         "seq": 235
+      },
+      {
+        "value": "都城",
+        "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
+        "seq": 239
       }
     ],
     "所属势力": [
@@ -43,15 +53,22 @@
         "docId": "plot.xianni-ch235-238-guiyin-fabao",
         "seq": 235
       }
+    ],
+    "方位": [
+      {
+        "value": "王林店铺在城西",
+        "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
+        "seq": 239
+      }
     ]
   },
   "firstSeq": 235,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch235-238-guiyin-fabao",
+      "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
       "dated": false,
-      "seq": 235
+      "seq": 239
     },
     "所属势力": {
       "asOf": null,
@@ -64,12 +81,19 @@
       "docId": "plot.xianni-ch235-238-guiyin-fabao",
       "dated": false,
       "seq": 235
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
+      "dated": false,
+      "seq": 239
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch235-238-guiyin-fabao"
+    "plot.xianni-ch235-238-guiyin-fabao",
+    "plot.xianni-ch239-243-huafan-jingdu-mudiao"
   ],
-  "updatedAt": "2026-07-23T05:16:44.463Z"
+  "updatedAt": "2026-07-23T05:28:58.570Z"
 }

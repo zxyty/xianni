@@ -1,48 +1,40 @@
 {
-  "id": "ent.place.x-0be6ea19",
-  "type": "place",
-  "name": "四级修真国",
-  "aliases": [],
-  "summary": "王林本章进入的修真国度，国土比赵国大出数倍，修士与凡人众多。",
+  "id": "ent.technique.x-2f8df7cf",
+  "type": "technique",
+  "name": "化凡",
+  "aliases": [
+    "化凡潜修"
+  ],
+  "summary": "修士入凡尘、化作凡人以感悟各人意境，从而突破元婴、迈向化神的修行过程。",
   "attributes": {
-    "类型": "修真国度",
-    "规模": "四级"
+    "适用境界": "元婴突破化神",
+    "效果": "感悟意境以突破化神"
   },
   "observations": {
-    "类型": [
+    "适用境界": [
       {
-        "value": "修真国",
-        "docId": "plot.xianni-ch231-234-xieyi-nanzi",
-        "seq": 231
-      },
-      {
-        "value": "修真国度",
+        "value": "元婴突破化神",
         "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
         "seq": 239
       }
     ],
-    "规模": [
+    "效果": [
       {
-        "value": "远大于赵国",
-        "docId": "plot.xianni-ch231-234-xieyi-nanzi",
-        "seq": 231
-      },
-      {
-        "value": "四级",
+        "value": "感悟意境以突破化神",
         "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
         "seq": 239
       }
     ]
   },
-  "firstSeq": 231,
+  "firstSeq": 239,
   "attrProvenance": {
-    "类型": {
+    "适用境界": {
       "asOf": null,
       "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
       "dated": false,
       "seq": 239
     },
-    "规模": {
+    "效果": {
       "asOf": null,
       "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
       "dated": false,
@@ -52,7 +44,6 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch231-234-xieyi-nanzi",
     "plot.xianni-ch239-243-huafan-jingdu-mudiao"
   ],
   "updatedAt": "2026-07-23T05:28:58.580Z"
