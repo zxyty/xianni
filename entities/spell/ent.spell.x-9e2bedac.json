@@ -4,14 +4,15 @@
   "name": "通天之术",
   "aliases": [
     "巨魔族的通天之术",
-    "古神神通"
+    "古神神通",
+    "金光巨人神通"
   ],
   "summary": "无需古神之力、仅凭血液即可发动的古神/巨魔族神通，召唤灵力巨人虚影，耗损赵国灵脉，将目标无声抹杀。",
   "attributes": {
-    "类型": "古神/巨魔族神通",
-    "威力": "召唤顶天立地灵力巨人虚影，瞬灭目标",
-    "消耗": "极大，需吉神血液并损耗赵国灵脉",
-    "出处": "古神涂司记忆"
+    "类型": "巨魔族神通",
+    "威力": "召金光巨人、笼罩一国、恐怖",
+    "消耗": "灵力疯狂消耗",
+    "出处": "巨魔族"
   },
   "observations": {
     "类型": [
@@ -19,6 +20,11 @@
         "value": "古神/巨魔族神通",
         "docId": "plot.xianni-ch242-punanzi",
         "seq": 226
+      },
+      {
+        "value": "巨魔族神通",
+        "docId": "plot.xianni-ch231-234-xieyi-nanzi",
+        "seq": 231
       }
     ],
     "威力": [
@@ -26,6 +32,11 @@
         "value": "召唤顶天立地灵力巨人虚影，瞬灭目标",
         "docId": "plot.xianni-ch242-punanzi",
         "seq": 226
+      },
+      {
+        "value": "召金光巨人、笼罩一国、恐怖",
+        "docId": "plot.xianni-ch231-234-xieyi-nanzi",
+        "seq": 231
       }
     ],
     "消耗": [
@@ -33,6 +44,11 @@
         "value": "极大，需吉神血液并损耗赵国灵脉",
         "docId": "plot.xianni-ch242-punanzi",
         "seq": 226
+      },
+      {
+        "value": "灵力疯狂消耗",
+        "docId": "plot.xianni-ch231-234-xieyi-nanzi",
+        "seq": 231
       }
     ],
     "出处": [
@@ -40,6 +56,11 @@
         "value": "古神涂司记忆",
         "docId": "plot.xianni-ch242-punanzi",
         "seq": 226
+      },
+      {
+        "value": "巨魔族",
+        "docId": "plot.xianni-ch231-234-xieyi-nanzi",
+        "seq": 231
       }
     ]
   },
@@ -47,33 +68,34 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch242-punanzi",
+      "docId": "plot.xianni-ch231-234-xieyi-nanzi",
       "dated": false,
-      "seq": 226
+      "seq": 231
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-ch242-punanzi",
+      "docId": "plot.xianni-ch231-234-xieyi-nanzi",
       "dated": false,
-      "seq": 226
+      "seq": 231
     },
     "消耗": {
       "asOf": null,
-      "docId": "plot.xianni-ch242-punanzi",
+      "docId": "plot.xianni-ch231-234-xieyi-nanzi",
       "dated": false,
-      "seq": 226
+      "seq": 231
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch242-punanzi",
+      "docId": "plot.xianni-ch231-234-xieyi-nanzi",
       "dated": false,
-      "seq": 226
+      "seq": 231
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch242-punanzi"
+    "plot.xianni-ch242-punanzi",
+    "plot.xianni-ch231-234-xieyi-nanzi"
   ],
-  "updatedAt": "2026-07-23T04:56:01.413Z"
+  "updatedAt": "2026-07-23T05:08:47.992Z"
 }

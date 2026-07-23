@@ -2,12 +2,14 @@
   "id": "ent.realm.x-1fea61ed",
   "type": "realm",
   "name": "婴变期",
-  "aliases": [],
+  "aliases": [
+    "婴变初期"
+  ],
   "summary": "高阶境界，四级修真国出婴变期人物即升五级修真国；持有者达此境方能放出困于天逆珠子的司徒南。",
   "attributes": {
     "上一境": "结丹",
     "阶序": "元婴之上、化神之下",
-    "突破关键": "玄天魔欲诀炼化全部六道先天欲念",
+    "突破关键": "星罗盘使用最低标准",
     "下一境": "元婴期"
   },
   "observations": {
@@ -45,6 +47,11 @@
         "value": "玄天魔欲诀炼化全部六道先天欲念",
         "docId": "plot.xianni-ch185-blood-sea-lord",
         "seq": 170
+      },
+      {
+        "value": "星罗盘使用最低标准",
+        "docId": "plot.xianni-ch231-234-xieyi-nanzi",
+        "seq": 231
       }
     ],
     "下一境": [
@@ -76,9 +83,9 @@
     },
     "突破关键": {
       "asOf": null,
-      "docId": "plot.xianni-ch185-blood-sea-lord",
+      "docId": "plot.xianni-ch231-234-xieyi-nanzi",
       "dated": false,
-      "seq": 170
+      "seq": 231
     },
     "下一境": {
       "asOf": null,
@@ -96,7 +103,8 @@
     "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
     "plot.xianni-ch183-yibian-chushi",
     "plot.xianni-ch185-blood-sea-lord",
-    "plot.xianni-ch232-jian-qiao"
+    "plot.xianni-ch232-jian-qiao",
+    "plot.xianni-ch231-234-xieyi-nanzi"
   ],
-  "updatedAt": "2026-07-18T11:04:18.660Z"
+  "updatedAt": "2026-07-23T05:08:48.013Z"
 }
