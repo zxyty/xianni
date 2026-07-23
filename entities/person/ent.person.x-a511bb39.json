@@ -8,8 +8,8 @@
   "summary": "凡人少年，十二岁，铁匠之子，每日携果子酒看王林雕刻，痴迷木雕手艺，愿看六十年学艺。",
   "attributes": {
     "种族": "凡人",
-    "身份": "铁匠之子",
-    "外貌": "十二岁，一年间长高一头、壮实"
+    "身份": "铁匠之子/学徒",
+    "外貌": "壮实少年"
   },
   "observations": {
     "种族": [
@@ -24,6 +24,11 @@
         "value": "铁匠之子",
         "docId": "plot.xianni-ch235-238-guiyin-fabao",
         "seq": 235
+      },
+      {
+        "value": "铁匠之子/学徒",
+        "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
+        "seq": 239
       }
     ],
     "外貌": [
@@ -31,6 +36,11 @@
         "value": "十二岁，一年间长高一头、壮实",
         "docId": "plot.xianni-ch235-238-guiyin-fabao",
         "seq": 235
+      },
+      {
+        "value": "壮实少年",
+        "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
+        "seq": 239
       }
     ]
   },
@@ -44,21 +54,22 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch235-238-guiyin-fabao",
+      "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
       "dated": false,
-      "seq": 235
+      "seq": 239
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch235-238-guiyin-fabao",
+      "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
       "dated": false,
-      "seq": 235
+      "seq": 239
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch235-238-guiyin-fabao"
+    "plot.xianni-ch235-238-guiyin-fabao",
+    "plot.xianni-ch239-243-huafan-jingdu-mudiao"
   ],
-  "updatedAt": "2026-07-23T05:16:44.474Z"
+  "updatedAt": "2026-07-23T05:28:58.564Z"
 }

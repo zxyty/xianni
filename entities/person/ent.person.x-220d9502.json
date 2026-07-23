@@ -1,54 +1,47 @@
 {
-  "id": "ent.person.x-6b11ad11",
+  "id": "ent.person.x-220d9502",
   "type": "person",
-  "name": "徐涛",
+  "name": "曾大哥",
   "aliases": [
-    "徐姓青年",
-    "徐家店铺大儿子",
-    "徐家少爷",
-    "徐家铺徐涛"
+    "大牛父亲",
+    "王家兄弟所称曾大哥"
   ],
-  "summary": "南王世子亲信随从，回乡探亲时购得王林蛟龙木雕，层层献予世子与南王而记大功。",
+  "summary": "京都西城铁具铺铁匠，大牛之父，家中地窖藏有祖传果子酒，向王林借钱扩店。",
   "attributes": {
     "种族": "凡人",
-    "身份": "为世子殿下办事者",
-    "阵营": "世子/王府一系"
+    "身份": "铁匠/铁具铺老板",
+    "性格": "爽朗憨厚"
   },
   "observations": {
     "种族": [
       {
         "value": "凡人",
-        "docId": "plot.xianni-ch235-238-guiyin-fabao",
-        "seq": 235
-      }
-    ],
-    "身份": [
-      {
-        "value": "南王世子亲信随从",
-        "docId": "plot.xianni-ch235-238-guiyin-fabao",
-        "seq": 235
-      },
-      {
-        "value": "为世子殿下办事者",
         "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
         "seq": 239
       }
     ],
-    "阵营": [
+    "身份": [
       {
-        "value": "世子/王府一系",
+        "value": "铁匠/铁具铺老板",
+        "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
+        "seq": 239
+      }
+    ],
+    "性格": [
+      {
+        "value": "爽朗憨厚",
         "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
         "seq": 239
       }
     ]
   },
-  "firstSeq": 235,
+  "firstSeq": 239,
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.xianni-ch235-238-guiyin-fabao",
+      "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
       "dated": false,
-      "seq": 235
+      "seq": 239
     },
     "身份": {
       "asOf": null,
@@ -56,7 +49,7 @@
       "dated": false,
       "seq": 239
     },
-    "阵营": {
+    "性格": {
       "asOf": null,
       "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
       "dated": false,
@@ -66,8 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch235-238-guiyin-fabao",
     "plot.xianni-ch239-243-huafan-jingdu-mudiao"
   ],
-  "updatedAt": "2026-07-23T05:28:58.566Z"
+  "updatedAt": "2026-07-23T05:28:58.565Z"
 }
