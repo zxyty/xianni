@@ -3,13 +3,14 @@
   "type": "faction",
   "name": "飘渺宗",
   "aliases": [
-    "缥缈宗"
+    "缥缈宗",
+    "飘渺宗门派"
   ],
   "summary": "赵国修真界门派，太上长老无为真人为结丹期高手；传闻其掌门女弟子被无锋谷弟子勾引。",
   "attributes": {
     "阵营": "正派、正道、赵国修真界",
     "掌门": "辛海（始祖）",
-    "所属界面": "赵国修真界"
+    "所属界面": "赵国"
   },
   "observations": {
     "阵营": [
@@ -41,6 +42,11 @@
         "value": "赵国修真界",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
+      },
+      {
+        "value": "赵国",
+        "docId": "plot.xianni-ch242-punanzi",
+        "seq": 226
       }
     ]
   },
@@ -60,9 +66,9 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+      "docId": "plot.xianni-ch242-punanzi",
       "dated": false,
-      "seq": 96
+      "seq": 226
     }
   },
   "contested": false,
@@ -72,7 +78,8 @@
     "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
     "lore.xianni-ch105-jijing-realm",
     "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
-    "plot.xianni-ch235-because-he-is-surnamed-teng"
+    "plot.xianni-ch235-because-he-is-surnamed-teng",
+    "plot.xianni-ch242-punanzi"
   ],
-  "updatedAt": "2026-07-18T11:07:09.234Z"
+  "updatedAt": "2026-07-23T04:56:01.429Z"
 }

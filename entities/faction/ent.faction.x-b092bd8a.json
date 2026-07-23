@@ -6,7 +6,10 @@
     "藤家家族",
     "藤家城藤家",
     "藤家全族",
-    "藤家血脉"
+    "藤家血脉",
+    "藤氏一族",
+    "藤家一族",
+    "藤家族"
   ],
   "summary": "藤厉所属家族势力，据点藤家城，老太爷一辈持有保命元宝、金光内甲等护身法宝。",
   "attributes": {
@@ -14,7 +17,8 @@
     "据点": "藤家城",
     "所属界面": "赵国修真界",
     "阵营": "赵国修真界",
-    "掌门": "藤化元"
+    "掌门": "藤化元",
+    "理念": "试验者一族"
   },
   "observations": {
     "等级": [
@@ -61,6 +65,14 @@
         "docId": "plot.xianni-ch222-225-core-clan-members",
         "seq": 222
       }
+    ],
+    "理念": [
+      {
+        "value": "试验者一族",
+        "docId": "plot.xianni-ch242-punanzi",
+        "seq": 226,
+        "note": "被使者大人指定"
+      }
     ]
   },
   "firstSeq": 67,
@@ -94,6 +106,13 @@
       "docId": "plot.xianni-ch222-225-core-clan-members",
       "dated": false,
       "seq": 222
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.xianni-ch242-punanzi",
+      "dated": false,
+      "seq": 226,
+      "note": "被使者大人指定"
     }
   },
   "contested": false,
@@ -106,7 +125,8 @@
     "plot.xianni-ch117-wanglin-death",
     "plot.xianni-ch232-jian-qiao",
     "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong",
-    "plot.xianni-ch222-225-core-clan-members"
+    "plot.xianni-ch222-225-core-clan-members",
+    "plot.xianni-ch242-punanzi"
   ],
-  "updatedAt": "2026-07-23T04:38:21.919Z"
+  "updatedAt": "2026-07-23T04:56:01.402Z"
 }

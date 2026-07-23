@@ -5,7 +5,8 @@
   "aliases": [],
   "summary": "玄道宗所在山脉，本章开篇场景，雨雾雷电笼罩。",
   "attributes": {
-    "所属势力": "玄道宗"
+    "所属势力": "玄道宗",
+    "所属界面": "赵国"
   },
   "observations": {
     "所属势力": [
@@ -13,6 +14,13 @@
         "value": "玄道宗",
         "docId": "plot.xianni-ch235-because-he-is-surnamed-teng",
         "seq": 219
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "赵国",
+        "docId": "plot.xianni-ch242-punanzi",
+        "seq": 226
       }
     ]
   },
@@ -23,12 +31,19 @@
       "docId": "plot.xianni-ch235-because-he-is-surnamed-teng",
       "dated": false,
       "seq": 219
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch242-punanzi",
+      "dated": false,
+      "seq": 226
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch235-because-he-is-surnamed-teng"
+    "plot.xianni-ch235-because-he-is-surnamed-teng",
+    "plot.xianni-ch242-punanzi"
   ],
-  "updatedAt": "2026-07-18T11:07:09.236Z"
+  "updatedAt": "2026-07-23T04:56:01.383Z"
 }

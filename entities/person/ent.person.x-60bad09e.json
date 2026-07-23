@@ -19,9 +19,11 @@
     "阵营": "藤家、追杀王林、魔道、藤家/无锋谷、赵国藤家、王林必杀名单、赵国",
     "称号": "藤家老祖",
     "标志特征": "金色内甲护身；血幕禁锢诅咒之力",
-    "存殁": "存活",
+    "存殁": "死亡",
     "本命法宝": "魂幡/血幕",
-    "出身地": "赵国"
+    "出身地": "赵国",
+    "死因": "被王林指尖晶芒点在眉心击杀",
+    "结局": "王藤两家恩怨一笔勾销，藤家血脉断绝"
   },
   "observations": {
     "小阶段": [
@@ -211,6 +213,12 @@
         "value": "存活",
         "docId": "plot.xianni-ch85-89-jilian-jianqiao",
         "seq": 85
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch242-punanzi",
+        "seq": 226,
+        "note": "第246章"
       }
     ],
     "本命法宝": [
@@ -230,6 +238,20 @@
         "value": "赵国",
         "docId": "plot.xianni-ch147-150-shendaoshu-deal",
         "seq": 147
+      }
+    ],
+    "死因": [
+      {
+        "value": "被王林指尖晶芒点在眉心击杀",
+        "docId": "plot.xianni-ch242-punanzi",
+        "seq": 226
+      }
+    ],
+    "结局": [
+      {
+        "value": "王藤两家恩怨一笔勾销，藤家血脉断绝",
+        "docId": "plot.xianni-ch242-punanzi",
+        "seq": 226
       }
     ]
   },
@@ -280,9 +302,10 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+      "docId": "plot.xianni-ch242-punanzi",
       "dated": false,
-      "seq": 85
+      "seq": 226,
+      "note": "第246章"
     },
     "本命法宝": {
       "asOf": null,
@@ -295,6 +318,18 @@
       "docId": "plot.xianni-ch147-150-shendaoshu-deal",
       "dated": false,
       "seq": 147
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch242-punanzi",
+      "dated": false,
+      "seq": 226
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch242-punanzi",
+      "dated": false,
+      "seq": 226
     }
   },
   "contested": false,
@@ -325,7 +360,8 @@
     "plot.xianni-ch232-jian-qiao",
     "plot.xianni-ch235-because-he-is-surnamed-teng",
     "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong",
-    "plot.xianni-ch222-225-core-clan-members"
+    "plot.xianni-ch222-225-core-clan-members",
+    "plot.xianni-ch242-punanzi"
   ],
-  "updatedAt": "2026-07-23T04:38:21.916Z"
+  "updatedAt": "2026-07-23T04:56:01.421Z"
 }
