@@ -9,13 +9,14 @@
   "summary": "玄道宗始祖，欧阳老者预告其次日将临恒岳派，未现身。",
   "attributes": {
     "阵营": "赵国",
-    "身份": "玄道宗始祖、玄道宗修士、玄道宗前辈",
-    "小阶段": "元婴后期",
+    "身份": "玄道宗始祖、玄道宗修士、玄道宗前辈、下级修真国修士、使者大人的下属",
+    "小阶段": "元婴后期／触及化神期边缘",
     "外貌": "灰布褂子",
     "性格": "傲慢冷硬",
     "本命法宝": "紫岳仙剑",
-    "称号": "赵国修真界第一人",
-    "寿元": "500年前结婴"
+    "称号": "赵国第一人",
+    "寿元": "500年前结婴",
+    "标志特征": "掐算天机、可凝固水滴改变灵力波动"
   },
   "observations": {
     "阵营": [
@@ -60,6 +61,16 @@
         "value": "玄道宗前辈",
         "docId": "plot.xianni-ch85-89-jilian-jianqiao",
         "seq": 85
+      },
+      {
+        "value": "下级修真国修士",
+        "docId": "plot.xianni-ch242-punanzi",
+        "seq": 226
+      },
+      {
+        "value": "使者大人的下属",
+        "docId": "plot.xianni-ch242-punanzi",
+        "seq": 226
       }
     ],
     "小阶段": [
@@ -78,6 +89,12 @@
         "value": "元婴后期",
         "docId": "plot.xianni-ch232-jian-qiao",
         "seq": 216
+      },
+      {
+        "value": "元婴后期／触及化神期边缘",
+        "docId": "plot.xianni-ch242-punanzi",
+        "seq": 226,
+        "note": "本章距化神仅一层窗户纸"
       }
     ],
     "外貌": [
@@ -111,6 +128,12 @@
         "value": "赵国修真界第一人",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
+      },
+      {
+        "value": "赵国第一人",
+        "docId": "plot.xianni-ch242-punanzi",
+        "seq": 226,
+        "note": "本章被王林取代"
       }
     ],
     "寿元": [
@@ -118,6 +141,13 @@
         "value": "500年前结婴",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "掐算天机、可凝固水滴改变灵力波动",
+        "docId": "plot.xianni-ch242-punanzi",
+        "seq": 226
       }
     ]
   },
@@ -137,9 +167,10 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch232-jian-qiao",
+      "docId": "plot.xianni-ch242-punanzi",
       "dated": false,
-      "seq": 216
+      "seq": 226,
+      "note": "本章距化神仅一层窗户纸"
     },
     "外貌": {
       "asOf": null,
@@ -161,15 +192,22 @@
     },
     "称号": {
       "asOf": null,
-      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "docId": "plot.xianni-ch242-punanzi",
       "dated": false,
-      "seq": 80
+      "seq": 226,
+      "note": "本章被王林取代"
     },
     "寿元": {
       "asOf": null,
       "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
       "dated": false,
       "seq": 80
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch242-punanzi",
+      "dated": false,
+      "seq": 226
     }
   },
   "contested": false,
@@ -184,7 +222,8 @@
     "plot.xianni-ch117-wanglin-death",
     "plot.xianni-ch186-187-two-hundred-years-silence",
     "plot.xianni-ch232-jian-qiao",
-    "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong"
+    "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong",
+    "plot.xianni-ch242-punanzi"
   ],
-  "updatedAt": "2026-07-18T11:10:03.294Z"
+  "updatedAt": "2026-07-23T04:56:01.422Z"
 }

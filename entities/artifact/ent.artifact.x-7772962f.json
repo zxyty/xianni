@@ -7,7 +7,8 @@
   "attributes": {
     "持有者": "王林",
     "能力": "护法、扫动侦测",
-    "外形": "青铜镜"
+    "外形": "青铜镜",
+    "来历": "古神之地上古修士之物"
   },
   "observations": {
     "持有者": [
@@ -30,6 +31,13 @@
         "docId": "plot.xianni-ch222-225-core-clan-members",
         "seq": 222
       }
+    ],
+    "来历": [
+      {
+        "value": "古神之地上古修士之物",
+        "docId": "plot.xianni-ch242-punanzi",
+        "seq": 226
+      }
     ]
   },
   "firstSeq": 222,
@@ -51,12 +59,19 @@
       "docId": "plot.xianni-ch222-225-core-clan-members",
       "dated": false,
       "seq": 222
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch242-punanzi",
+      "dated": false,
+      "seq": 226
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch222-225-core-clan-members"
+    "plot.xianni-ch222-225-core-clan-members",
+    "plot.xianni-ch242-punanzi"
   ],
-  "updatedAt": "2026-07-23T04:38:21.905Z"
+  "updatedAt": "2026-07-23T04:56:01.426Z"
 }
