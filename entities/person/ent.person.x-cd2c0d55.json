@@ -12,14 +12,16 @@
   "attributes": {
     "性别": "男",
     "种族": "凡人",
-    "身份": "藤家女婿",
+    "身份": "王林侄",
     "性格": "傲慢轻蔑、刻薄嚣张、狂傲自大、瞧不起人、嚣张跋扈、轻蔑傲慢、恶毒、好羞辱人、由怯懦转为狰狞坚忍",
     "外貌": "中年略老、英俊、白衣",
     "小阶段": "凝气期第一层、凝气第一层、凝气期第一层巅峰、凝气期第三层、凝气期第五层顶峰、凝气五层、凝气期第十一层、结丹后期",
     "标志特征": "天资极佳、修炼神速",
     "称号": "新人王、两年前新人王",
     "阵营": "恒岳派、敌视王林、玄道宗、王氏家族",
-    "存殁": "存活"
+    "存殁": "死亡",
+    "死因": "杀妻后自绝生机殉妻",
+    "结局": "魂魄被王林送入王家孕妇腹中转世"
   },
   "observations": {
     "性别": [
@@ -67,6 +69,11 @@
         "value": "藤家女婿",
         "docId": "plot.xianni-ch232-jian-qiao",
         "seq": 216
+      },
+      {
+        "value": "王林侄",
+        "docId": "plot.xianni-ch222-225-core-clan-members",
+        "seq": 222
       }
     ],
     "性格": [
@@ -221,6 +228,26 @@
         "value": "存活",
         "docId": "plot.xianni-ch85-89-jilian-jianqiao",
         "seq": 85
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch222-225-core-clan-members",
+        "seq": 222
+      }
+    ],
+    "死因": [
+      {
+        "value": "杀妻后自绝生机殉妻",
+        "docId": "plot.xianni-ch222-225-core-clan-members",
+        "seq": 222
+      }
+    ],
+    "结局": [
+      {
+        "value": "魂魄被王林送入王家孕妇腹中转世",
+        "docId": "plot.xianni-ch222-225-core-clan-members",
+        "seq": 222,
+        "note": "第241章"
       }
     ]
   },
@@ -240,9 +267,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch232-jian-qiao",
+      "docId": "plot.xianni-ch222-225-core-clan-members",
       "dated": false,
-      "seq": 216
+      "seq": 222
     },
     "性格": {
       "asOf": null,
@@ -283,9 +310,22 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+      "docId": "plot.xianni-ch222-225-core-clan-members",
       "dated": false,
-      "seq": 85
+      "seq": 222
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch222-225-core-clan-members",
+      "dated": false,
+      "seq": 222
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch222-225-core-clan-members",
+      "dated": false,
+      "seq": 222,
+      "note": "第241章"
     }
   },
   "contested": false,
@@ -302,7 +342,8 @@
     "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
     "plot.xianni-ch85-89-jilian-jianqiao",
     "plot.xianni-ch117-wanglin-death",
-    "plot.xianni-ch232-jian-qiao"
+    "plot.xianni-ch232-jian-qiao",
+    "plot.xianni-ch222-225-core-clan-members"
   ],
-  "updatedAt": "2026-07-18T11:04:18.643Z"
+  "updatedAt": "2026-07-23T04:38:21.912Z"
 }

@@ -60,3 +60,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-07-18T11:04:18.683Z** `ingest` plot.xianni-ch232-jian-qiao — 仙逆 第232章 剑鞘 · kind=plot asOf=2026-07-18 entities=50 relations=60 src=00216-00218.md
 - **2026-07-18T11:07:09.264Z** `ingest` plot.xianni-ch235-because-he-is-surnamed-teng — 仙逆 第235章 因为，他姓藤——王林返乡祭亲，血洗藤家血脉起始 · kind=plot asOf=2026-07-18 entities=29 relations=28 src=00219-00219.md
 - **2026-07-18T11:10:03.331Z** `ingest` plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong — 仙逆 第236-237章：王林血洗藤家、斩即墨老人、逼开合欢宗 · kind=plot asOf=2026-07-18 entities=23 relations=27 src=00220-00221.md
+- **2026-07-23T04:38:21.949Z** `ingest` plot.xianni-ch222-225-core-clan-members — 仙逆 第222-225章：核心族人·藤九出逃 · kind=plot asOf=2026-07-23 entities=36 relations=48 src=00222-00225.md

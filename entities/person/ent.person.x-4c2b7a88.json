@@ -1,56 +1,42 @@
 {
-  "id": "ent.person.x-1399a4b3",
+  "id": "ent.person.x-4c2b7a88",
   "type": "person",
-  "name": "藤秀秀",
-  "aliases": [
-    "藤家女子",
-    "秀秀",
-    "王卓之妻"
-  ],
-  "summary": "藤家女、王卓之妻，随夫返藤家城，劝王卓释怀，认为罪魁是王林。",
+  "name": "藤八",
+  "aliases": [],
+  "summary": "元婴中期藤家核心弟子，『藤八』名号第五任使用者，被王林吞魂灭杀。",
   "attributes": {
-    "身份": "藤三之女、王卓之妻",
-    "阵营": "赵国",
-    "外貌": "酷似藤三亡妻",
-    "性别": "女",
+    "小阶段": "元婴中期",
+    "阵营": "藤家",
+    "身份": "藤家核心弟子（藤八名号第五任使用者）",
+    "性格": "杀气重、善隐藏",
     "存殁": "死亡",
-    "死因": "被丈夫王卓拍碎天灵"
+    "死因": "被王林香魂黑雾吞魂，元婴被吞、魂魄入魂旗"
   },
   "observations": {
-    "身份": [
+    "小阶段": [
       {
-        "value": "藤家女",
-        "docId": "plot.xianni-ch232-jian-qiao",
-        "seq": 216
-      },
-      {
-        "value": "藤三之女、王卓之妻",
+        "value": "元婴中期",
         "docId": "plot.xianni-ch222-225-core-clan-members",
         "seq": 222
       }
     ],
     "阵营": [
       {
-        "value": "赵国",
-        "docId": "plot.xianni-ch232-jian-qiao",
-        "seq": 216
-      }
-    ],
-    "外貌": [
-      {
-        "value": "华贵之气、白衣",
-        "docId": "plot.xianni-ch232-jian-qiao",
-        "seq": 216
-      },
-      {
-        "value": "酷似藤三亡妻",
+        "value": "藤家",
         "docId": "plot.xianni-ch222-225-core-clan-members",
         "seq": 222
       }
     ],
-    "性别": [
+    "身份": [
       {
-        "value": "女",
+        "value": "藤家核心弟子（藤八名号第五任使用者）",
+        "docId": "plot.xianni-ch222-225-core-clan-members",
+        "seq": 222
+      }
+    ],
+    "性格": [
+      {
+        "value": "杀气重、善隐藏",
         "docId": "plot.xianni-ch222-225-core-clan-members",
         "seq": 222
       }
@@ -64,15 +50,15 @@
     ],
     "死因": [
       {
-        "value": "被丈夫王卓拍碎天灵",
+        "value": "被王林香魂黑雾吞魂，元婴被吞、魂魄入魂旗",
         "docId": "plot.xianni-ch222-225-core-clan-members",
         "seq": 222
       }
     ]
   },
-  "firstSeq": 216,
+  "firstSeq": 222,
   "attrProvenance": {
-    "身份": {
+    "小阶段": {
       "asOf": null,
       "docId": "plot.xianni-ch222-225-core-clan-members",
       "dated": false,
@@ -80,17 +66,17 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch232-jian-qiao",
+      "docId": "plot.xianni-ch222-225-core-clan-members",
       "dated": false,
-      "seq": 216
+      "seq": 222
     },
-    "外貌": {
+    "身份": {
       "asOf": null,
       "docId": "plot.xianni-ch222-225-core-clan-members",
       "dated": false,
       "seq": 222
     },
-    "性别": {
+    "性格": {
       "asOf": null,
       "docId": "plot.xianni-ch222-225-core-clan-members",
       "dated": false,
@@ -112,8 +98,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch232-jian-qiao",
     "plot.xianni-ch222-225-core-clan-members"
   ],
-  "updatedAt": "2026-07-23T04:38:21.913Z"
+  "updatedAt": "2026-07-23T04:38:21.897Z"
 }

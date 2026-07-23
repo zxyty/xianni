@@ -1,56 +1,53 @@
 {
-  "id": "ent.person.x-1399a4b3",
+  "id": "ent.person.x-4889267a",
   "type": "person",
-  "name": "藤秀秀",
+  "name": "藤三",
   "aliases": [
-    "藤家女子",
-    "秀秀",
-    "王卓之妻"
+    "藤海",
+    "海儿"
   ],
-  "summary": "藤家女、王卓之妻，随夫返藤家城，劝王卓释怀，认为罪魁是王林。",
+  "summary": "藤家核心族人，恋凡人妻被老祖拆散，铸悼韵剑，殉剑冲王林而死",
   "attributes": {
-    "身份": "藤三之女、王卓之妻",
-    "阵营": "赵国",
-    "外貌": "酷似藤三亡妻",
-    "性别": "女",
+    "性别": "男",
+    "身份": "藤家核心族人／老祖玄孙",
+    "外貌": "鬓发苍白、极为英俊",
+    "性格": "痴情、律己至严",
+    "本命法宝": "悼韵飞剑",
     "存殁": "死亡",
-    "死因": "被丈夫王卓拍碎天灵"
+    "死因": "驾悼韵冲王林黑雾，死于极境之下"
   },
   "observations": {
-    "身份": [
+    "性别": [
       {
-        "value": "藤家女",
-        "docId": "plot.xianni-ch232-jian-qiao",
-        "seq": 216
-      },
-      {
-        "value": "藤三之女、王卓之妻",
+        "value": "男",
         "docId": "plot.xianni-ch222-225-core-clan-members",
         "seq": 222
       }
     ],
-    "阵营": [
+    "身份": [
       {
-        "value": "赵国",
-        "docId": "plot.xianni-ch232-jian-qiao",
-        "seq": 216
+        "value": "藤家核心族人／老祖玄孙",
+        "docId": "plot.xianni-ch222-225-core-clan-members",
+        "seq": 222
       }
     ],
     "外貌": [
       {
-        "value": "华贵之气、白衣",
-        "docId": "plot.xianni-ch232-jian-qiao",
-        "seq": 216
-      },
-      {
-        "value": "酷似藤三亡妻",
+        "value": "鬓发苍白、极为英俊",
         "docId": "plot.xianni-ch222-225-core-clan-members",
         "seq": 222
       }
     ],
-    "性别": [
+    "性格": [
       {
-        "value": "女",
+        "value": "痴情、律己至严",
+        "docId": "plot.xianni-ch222-225-core-clan-members",
+        "seq": 222
+      }
+    ],
+    "本命法宝": [
+      {
+        "value": "悼韵飞剑",
         "docId": "plot.xianni-ch222-225-core-clan-members",
         "seq": 222
       }
@@ -64,25 +61,25 @@
     ],
     "死因": [
       {
-        "value": "被丈夫王卓拍碎天灵",
+        "value": "驾悼韵冲王林黑雾，死于极境之下",
         "docId": "plot.xianni-ch222-225-core-clan-members",
         "seq": 222
       }
     ]
   },
-  "firstSeq": 216,
+  "firstSeq": 222,
   "attrProvenance": {
-    "身份": {
+    "性别": {
       "asOf": null,
       "docId": "plot.xianni-ch222-225-core-clan-members",
       "dated": false,
       "seq": 222
     },
-    "阵营": {
+    "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch232-jian-qiao",
+      "docId": "plot.xianni-ch222-225-core-clan-members",
       "dated": false,
-      "seq": 216
+      "seq": 222
     },
     "外貌": {
       "asOf": null,
@@ -90,7 +87,13 @@
       "dated": false,
       "seq": 222
     },
-    "性别": {
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch222-225-core-clan-members",
+      "dated": false,
+      "seq": 222
+    },
+    "本命法宝": {
       "asOf": null,
       "docId": "plot.xianni-ch222-225-core-clan-members",
       "dated": false,
@@ -112,8 +115,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch232-jian-qiao",
     "plot.xianni-ch222-225-core-clan-members"
   ],
-  "updatedAt": "2026-07-23T04:38:21.913Z"
+  "updatedAt": "2026-07-23T04:38:21.914Z"
 }
