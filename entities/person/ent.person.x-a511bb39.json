@@ -16,13 +16,13 @@
   "summary": "凡人少年，十二岁，铁匠之子，每日携果子酒看王林雕刻，痴迷木雕手艺，愿看六十年学艺。",
   "attributes": {
     "种族": "凡人",
-    "身份": "铁匠之子、铁匠之子/学徒、铁具铺主人、京都铁具铺铺主、铁具铺子主人、被征清雪的京都百姓、被征集的清雪劳役（灾前为店铺掌柜）、四派联盟凡人",
+    "身份": "铁匠之子、铁匠之子/学徒、铁具铺主人、京都铁具铺铺主、铁具铺子主人、被征清雪的京都百姓、被征集的清雪劳役（灾前为店铺掌柜）、四派联盟凡人、凡人、铁具铺店主",
     "外貌": "四十多岁汉子",
     "性格": "纯朴重情、思念妻儿、易陷绝望",
-    "存殁": "在世",
+    "存殁": "本章为远观，后文叙述其身故",
     "出身地": "朱雀星京都",
     "性别": "男",
-    "结局": "在邻国边陲小城度过余生，至死再未见到王林"
+    "结局": "临终遗憾未能再见王林，两块木雕传给女儿成曾家传家之宝"
   },
   "observations": {
     "种族": [
@@ -72,6 +72,11 @@
         "value": "四派联盟凡人",
         "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
         "seq": 253
+      },
+      {
+        "value": "凡人、铁具铺店主",
+        "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+        "seq": 263
       }
     ],
     "外貌": [
@@ -113,6 +118,12 @@
         "value": "在世",
         "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
         "seq": 244
+      },
+      {
+        "value": "本章为远观，后文叙述其身故",
+        "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+        "seq": 263,
+        "note": "叙述者提前交代其一生结局"
       }
     ],
     "出身地": [
@@ -134,6 +145,11 @@
         "value": "在邻国边陲小城度过余生，至死再未见到王林",
         "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
         "seq": 253
+      },
+      {
+        "value": "临终遗憾未能再见王林，两块木雕传给女儿成曾家传家之宝",
+        "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+        "seq": 263
       }
     ]
   },
@@ -165,9 +181,10 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+      "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
       "dated": false,
-      "seq": 244
+      "seq": 263,
+      "note": "叙述者提前交代其一生结局"
     },
     "出身地": {
       "asOf": null,
@@ -183,9 +200,9 @@
     },
     "结局": {
       "asOf": null,
-      "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+      "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
       "dated": false,
-      "seq": 253
+      "seq": 263
     }
   },
   "contested": false,
@@ -195,7 +212,8 @@
     "plot.xianni-ch239-243-huafan-jingdu-mudiao",
     "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
     "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
-    "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing"
+    "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+    "plot.xianni-ch263-267-tianni-change-xueyu-country"
   ],
-  "updatedAt": "2026-08-02T09:59:32.920Z"
+  "updatedAt": "2026-08-02T10:56:50.721Z"
 }

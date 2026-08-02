@@ -4,14 +4,19 @@
   "name": "陈欢",
   "aliases": [
     "合huan宗陈欢",
-    "合欢宗始祖陈欢"
+    "合欢宗始祖陈欢",
+    "青年",
+    "水墨门老者弟子"
   ],
   "summary": "合欢宗弟子，三十余岁、邪异英俊。",
   "attributes": {
     "阵营": "合欢宗",
     "外貌": "邪异英俊",
-    "身份": "合huan宗始祖",
-    "小阶段": "元婴期"
+    "身份": "水墨门弟子、化神后期老者之徒",
+    "小阶段": "元婴期",
+    "性别": "男",
+    "性格": "悲愤刚烈，立誓复仇",
+    "存殁": "存活"
   },
   "observations": {
     "阵营": [
@@ -33,6 +38,11 @@
         "value": "合huan宗始祖",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
+      },
+      {
+        "value": "水墨门弟子、化神后期老者之徒",
+        "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+        "seq": 263
       }
     ],
     "小阶段": [
@@ -40,6 +50,27 @@
         "value": "元婴期",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+        "seq": 263
+      }
+    ],
+    "性格": [
+      {
+        "value": "悲愤刚烈，立誓复仇",
+        "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+        "seq": 263
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+        "seq": 263
       }
     ]
   },
@@ -59,22 +90,41 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+      "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
       "dated": false,
-      "seq": 96
+      "seq": 263
     },
     "小阶段": {
       "asOf": null,
       "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
       "dated": false,
       "seq": 96
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+      "dated": false,
+      "seq": 263
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+      "dated": false,
+      "seq": 263
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+      "dated": false,
+      "seq": 263
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
-    "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery"
+    "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+    "plot.xianni-ch263-267-tianni-change-xueyu-country"
   ],
-  "updatedAt": "2026-07-05T03:50:16.484Z"
+  "updatedAt": "2026-08-02T10:56:50.679Z"
 }

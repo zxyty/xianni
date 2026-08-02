@@ -14,9 +14,10 @@
   "summary": "石珠现第十朵云后开启的异度空间，无日月星辰、四周布满发光体；时间流速为现实十倍，内无灵气，仅凡物可带入，梦中锻炼成果能带回现实。",
   "attributes": {
     "类型": "石珠开启的异度梦境/修炼空间、珠内异空间、石珠衍生梦境、石珠内修炼空间、珠中梦境/加速修炼空间、珠中梦境、石珠内空间、法宝内部空间、石珠内梦境、法宝内空间、珠中空间、石珠内部空间、珠内空间、梦境空间、秘境／梦境空间、石珠内秘境、梦境/时间空间、随身空间/梦境空间、特殊空间",
-    "特产": "十倍时间流速、空间内无灵气、仅无灵气凡物可带入、梦中锻炼成果带回现实、加速修炼、时间倍率约现实数倍、发光体/光斑、发光体（灵气凝聚）、长条形发光体、内有发光体，达极限时渐暗、时间流速异于现实",
-    "危险度": "灵气暴涨可致体内崩溃",
-    "所属势力": "王林"
+    "特产": "十倍时间流速、空间内无灵气、仅无灵气凡物可带入、梦中锻炼成果带回现实、加速修炼、时间倍率约现实数倍、发光体/光斑、发光体（灵气凝聚）、长条形发光体、内有发光体，达极限时渐暗、时间流速异于现实、精纯灵气、五行光团",
+    "危险度": "王林单次停留上限五年",
+    "所属势力": "王林",
+    "上级区域": "石珠"
   },
   "observations": {
     "类型": [
@@ -171,6 +172,16 @@
         "value": "时间流速异于现实",
         "docId": "plot.xianni-ch191-shenshi-sihai",
         "seq": 176
+      },
+      {
+        "value": "精纯灵气",
+        "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+        "seq": 263
+      },
+      {
+        "value": "五行光团",
+        "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+        "seq": 263
       }
     ],
     "危险度": [
@@ -179,6 +190,11 @@
         "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
         "seq": 19,
         "note": "误饮浓灵气露水后吐纳险死"
+      },
+      {
+        "value": "王林单次停留上限五年",
+        "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+        "seq": 263
       }
     ],
     "所属势力": [
@@ -196,6 +212,13 @@
         "value": "王林",
         "docId": "plot.xianni-ch274-underground-ice-sculpture",
         "seq": 258
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "石珠",
+        "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+        "seq": 263
       }
     ]
   },
@@ -215,16 +238,21 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+      "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
       "dated": false,
-      "seq": 19,
-      "note": "误饮浓灵气露水后吐纳险死"
+      "seq": 263
     },
     "所属势力": {
       "asOf": null,
       "docId": "plot.xianni-ch274-underground-ice-sculpture",
       "dated": false,
       "seq": 258
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+      "dated": false,
+      "seq": 263
     }
   },
   "contested": false,
@@ -255,7 +283,8 @@
     "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
     "plot.xianni-ch231-234-xieyi-nanzi",
     "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
-    "plot.xianni-ch274-underground-ice-sculpture"
+    "plot.xianni-ch274-underground-ice-sculpture",
+    "plot.xianni-ch263-267-tianni-change-xueyu-country"
   ],
-  "updatedAt": "2026-08-02T10:32:25.387Z"
+  "updatedAt": "2026-08-02T10:56:50.606Z"
 }

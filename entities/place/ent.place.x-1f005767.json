@@ -12,8 +12,9 @@
   ],
   "summary": "六级修真国，司徒南为其第一强者。",
   "attributes": {
-    "类型": "修真国度",
-    "所属界面": "朱雀星"
+    "类型": "高阶修真国度/星球",
+    "所属界面": "朱雀星",
+    "特产": "灌顶大礼"
   },
   "observations": {
     "类型": [
@@ -31,6 +32,11 @@
         "value": "修真国度",
         "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
         "seq": 151
+      },
+      {
+        "value": "高阶修真国度/星球",
+        "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+        "seq": 263
       }
     ],
     "所属界面": [
@@ -39,21 +45,34 @@
         "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
         "seq": 151
       }
+    ],
+    "特产": [
+      {
+        "value": "灌顶大礼",
+        "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+        "seq": 263
+      }
     ]
   },
   "firstSeq": 43,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
+      "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
       "dated": false,
-      "seq": 151
+      "seq": 263
     },
     "所属界面": {
       "asOf": null,
       "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
       "dated": false,
       "seq": 151
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+      "dated": false,
+      "seq": 263
     }
   },
   "contested": false,
@@ -68,7 +87,8 @@
     "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
     "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
     "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
-    "plot.xianni-ch274-underground-ice-sculpture"
+    "plot.xianni-ch274-underground-ice-sculpture",
+    "plot.xianni-ch263-267-tianni-change-xueyu-country"
   ],
-  "updatedAt": "2026-08-02T10:32:25.408Z"
+  "updatedAt": "2026-08-02T10:56:50.717Z"
 }
