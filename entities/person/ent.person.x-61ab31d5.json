@@ -4,13 +4,20 @@
   "name": "青衫修士",
   "aliases": [
     "青衫道人",
-    "师弟"
+    "师弟",
+    "大罗剑宗青衫修士",
+    "背剑青衫修士",
+    "逃走的青衫修士",
+    "青衫化神修士"
   ],
   "summary": "南王府供奉修士，筑基中期，师弟；触碰蛟龙木雕险致筑基崩溃。",
   "attributes": {
-    "小阶段": "筑基中期",
-    "身份": "南王府供奉修士",
-    "外貌": "身穿青色道袍"
+    "小阶段": "筑基中期、化神初期、化神（神识仅化神初期）",
+    "身份": "南王府供奉修士、大罗剑宗采气使者、大罗剑宗弟子",
+    "外貌": "身穿青色道袍、青衫、背负宝剑、青衫",
+    "阵营": "大罗剑宗",
+    "存殁": "疑已死、死亡",
+    "死因": "被王林以上吉修士铃铛法宝困住并以手印法诀炼化元神、被王林以铃铛炼化，藏于宝剑内的元神被一击消散"
   },
   "observations": {
     "小阶段": [
@@ -18,6 +25,16 @@
         "value": "筑基中期",
         "docId": "plot.xianni-ch235-238-guiyin-fabao",
         "seq": 235
+      },
+      {
+        "value": "化神初期",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276
+      },
+      {
+        "value": "化神（神识仅化神初期）",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276
       }
     ],
     "身份": [
@@ -25,6 +42,16 @@
         "value": "南王府供奉修士",
         "docId": "plot.xianni-ch235-238-guiyin-fabao",
         "seq": 235
+      },
+      {
+        "value": "大罗剑宗采气使者",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276
+      },
+      {
+        "value": "大罗剑宗弟子",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276
       }
     ],
     "外貌": [
@@ -32,6 +59,48 @@
         "value": "身穿青色道袍",
         "docId": "plot.xianni-ch235-238-guiyin-fabao",
         "seq": 235
+      },
+      {
+        "value": "青衫、背负宝剑",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276
+      },
+      {
+        "value": "青衫",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276
+      }
+    ],
+    "阵营": [
+      {
+        "value": "大罗剑宗",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276
+      }
+    ],
+    "存殁": [
+      {
+        "value": "疑已死",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276,
+        "note": "第297章被铃铛炼化至惨叫消失，王林未开封查看，封于储物袋内持续炼化"
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276
+      }
+    ],
+    "死因": [
+      {
+        "value": "被王林以上吉修士铃铛法宝困住并以手印法诀炼化元神",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276
+      },
+      {
+        "value": "被王林以铃铛炼化，藏于宝剑内的元神被一击消散",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276
       }
     ]
   },
@@ -54,12 +123,32 @@
       "docId": "plot.xianni-ch235-238-guiyin-fabao",
       "dated": false,
       "seq": 235
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+      "dated": false,
+      "seq": 276
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+      "dated": false,
+      "seq": 276,
+      "note": "第297章被铃铛炼化至惨叫消失，王林未开封查看，封于储物袋内持续炼化"
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+      "dated": false,
+      "seq": 276
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch235-238-guiyin-fabao"
+    "plot.xianni-ch235-238-guiyin-fabao",
+    "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men"
   ],
-  "updatedAt": "2026-07-23T05:16:44.477Z"
+  "updatedAt": "2026-08-02T14:24:24.307Z"
 }

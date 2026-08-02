@@ -6,13 +6,20 @@
     "古仙人之界",
     "ancient immortal realm",
     "仙界碎片",
-    "古仙界碎片"
+    "古仙界碎片",
+    "仙界残片",
+    "破碎仙界",
+    "碎裂的仙界",
+    "Shattered Immortal Realm",
+    "王林所在的仙界碎片",
+    "Immortal Realm Fragment"
   ],
   "summary": "古仙的所在之界。古仙于远古时期死于一场纷战，界虽仍在却已空置，内中充满肆虐风暴，且整个界被分割成无数部分。",
   "attributes": {
-    "特点": "古仙已死绝、界内空置、充满肆虐无数的风暴、被分割成无数部分、藏有仙界之气、支离破碎化作无数碎片、天地法则完全混乱、化神后期以上法力波动会致碎片崩塌、碎片越大可承受的法力波动越高",
+    "特点": "古仙已死绝、界内空置、充满肆虐无数的风暴、被分割成无数部分、藏有仙界之气、支离破碎化作无数碎片、天地法则完全混乱、化神后期以上法力波动会致碎片崩塌、碎片越大可承受的法力波动越高、数量众多、由大灾难后的仙界破碎而成、藏有仙界之气、仙玉、仙人尸体、碎片成圆形分布如摔碎的镜子、死寂无生机",
     "通道": "风云雷电四大仙门（只连接其中一处部分）",
-    "层次": "仙界（已破碎）"
+    "层次": "仙界（已破碎）",
+    "灵气浓度": "仙界之气消散一空，仅个别碎片留有存余"
   },
   "observations": {
     "特点": [
@@ -55,6 +62,31 @@
         "value": "碎片越大可承受的法力波动越高",
         "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
         "seq": 253
+      },
+      {
+        "value": "数量众多",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276
+      },
+      {
+        "value": "由大灾难后的仙界破碎而成",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276
+      },
+      {
+        "value": "藏有仙界之气、仙玉、仙人尸体",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276
+      },
+      {
+        "value": "碎片成圆形分布如摔碎的镜子",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276
+      },
+      {
+        "value": "死寂无生机",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276
       }
     ],
     "通道": [
@@ -69,6 +101,14 @@
         "value": "仙界（已破碎）",
         "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
         "seq": 253
+      }
+    ],
+    "灵气浓度": [
+      {
+        "value": "仙界之气消散一空，仅个别碎片留有存余",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276,
+        "note": "破碎之后"
       }
     ]
   },
@@ -91,13 +131,21 @@
       "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
       "dated": false,
       "seq": 253
+    },
+    "灵气浓度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+      "dated": false,
+      "seq": 276,
+      "note": "破碎之后"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
-    "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing"
+    "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+    "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men"
   ],
-  "updatedAt": "2026-08-02T09:59:32.815Z"
+  "updatedAt": "2026-08-02T14:24:24.308Z"
 }
