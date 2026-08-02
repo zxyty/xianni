@@ -3,12 +3,13 @@
   "type": "item",
   "name": "逃命玉简",
   "aliases": [
-    "传送玉简"
+    "传送玉简",
+    "大罗派传送玉简"
   ],
   "summary": "四级修真国宗派发放给核心弟子的保命玉简，内蕴传送阵，一定范围内捏碎可瞬回宗派总坛。",
   "attributes": {
-    "类型": "传送保命玉简",
-    "用途": "捏碎瞬移回宗派总坛",
+    "类型": "传送凭信",
+    "用途": "开启传送阵、选择目标仙界碎片",
     "产地": "四级修真国宗派"
   },
   "observations": {
@@ -17,6 +18,11 @@
         "value": "传送保命玉简",
         "docId": "plot.xianni-ch231-234-xieyi-nanzi",
         "seq": 231
+      },
+      {
+        "value": "传送凭信",
+        "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
+        "seq": 281
       }
     ],
     "用途": [
@@ -24,6 +30,11 @@
         "value": "捏碎瞬移回宗派总坛",
         "docId": "plot.xianni-ch231-234-xieyi-nanzi",
         "seq": 231
+      },
+      {
+        "value": "开启传送阵、选择目标仙界碎片",
+        "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
+        "seq": 281
       }
     ],
     "产地": [
@@ -38,15 +49,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch231-234-xieyi-nanzi",
+      "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
       "dated": false,
-      "seq": 231
+      "seq": 281
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch231-234-xieyi-nanzi",
+      "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
       "dated": false,
-      "seq": 231
+      "seq": 281
     },
     "产地": {
       "asOf": null,
@@ -58,7 +69,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch231-234-xieyi-nanzi"
+    "plot.xianni-ch231-234-xieyi-nanzi",
+    "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush"
   ],
-  "updatedAt": "2026-07-23T05:08:47.996Z"
+  "updatedAt": "2026-08-02T14:43:22.140Z"
 }
