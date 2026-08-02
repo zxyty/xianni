@@ -22,16 +22,22 @@
     "古神身躯",
     "吉神之地遗迹",
     "古神遗迹",
-    "古神之地遗址"
+    "古神之地遗址",
+    "碎星乱古神之地",
+    "古神遗地",
+    "碎星环内古神之地",
+    "涂司体内世界",
+    "古神之地通道"
   ],
   "summary": "古神留下的三关闯关之地，含禁制之山（第二关）、三层宝塔奖励层与第三关寂灭界，历代仅四人获领悟者身份。",
   "attributes": {
-    "类型": "古神遗留闯关秘境、秘境/遗迹、秘境／绝地、凶险秘境、分关卡秘境、秘境/关卡秘境、传承秘境/巨躯世界、古神气海秘境、古神残躯内部空间/秘境、遗迹/禁地、秘境/古地、古神遗留秘境、古神传承秘境、古神秘境/神识之地、古神躯壳内部空间、远古遗迹/秘境、古神身躯/秘境、远古遗迹之地",
-    "守护": "拓森",
-    "危险度": "极高、极高（多重致命关卡）、极高（拓森封印开启众死）、高、极高（欲念波动会魔化修士）、有气海穴旋转气浪、极高，稍不谨慎便难以出来",
-    "所属界面": "寂灭界",
+    "类型": "古神遗留闯关秘境、秘境/遗迹、秘境／绝地、凶险秘境、分关卡秘境、秘境/关卡秘境、传承秘境/巨躯世界、古神气海秘境、古神残躯内部空间/秘境、遗迹/禁地、秘境/古地、古神遗留秘境、古神传承秘境、古神秘境/神识之地、古神躯壳内部空间、远古遗迹/秘境、古神身躯/秘境、远古遗迹之地、上古遗迹/秘境、禁地/体内世界、上古险地/通道空间",
+    "守护": "分关设卡",
+    "危险度": "极高、极高（多重致命关卡）、极高（拓森封印开启众死）、高、极高（欲念波动会魔化修士）、有气海穴旋转气浪、极高，稍不谨慎便难以出来、极高（设有关卡）、极高（下层为荒兽世界）",
+    "所属界面": "修魔海",
     "规模": "比朱雀星更大",
-    "特产": "传承之物手骨、六欲欲念、古神传承、古神之欲、手骨、香魂"
+    "特产": "传承之物手骨、六欲欲念、古神传承、古神之欲、手骨、香魂、强大灵兽、荒兽、上品灵兽",
+    "上级区域": "碎星乱"
   },
   "observations": {
     "类型": [
@@ -124,6 +130,21 @@
         "value": "远古遗迹之地",
         "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
         "seq": 253
+      },
+      {
+        "value": "上古遗迹/秘境",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      },
+      {
+        "value": "禁地/体内世界",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      },
+      {
+        "value": "上古险地/通道空间",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
       }
     ],
     "守护": [
@@ -141,6 +162,11 @@
         "value": "天魔散人最强禁制",
         "docId": "plot.xianni-ch188-gushen-chuancheng-2",
         "seq": 173
+      },
+      {
+        "value": "分关设卡",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
       }
     ],
     "危险度": [
@@ -178,6 +204,16 @@
         "value": "极高，稍不谨慎便难以出来",
         "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
         "seq": 253
+      },
+      {
+        "value": "极高（设有关卡）",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      },
+      {
+        "value": "极高（下层为荒兽世界）",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
       }
     ],
     "所属界面": [
@@ -185,6 +221,11 @@
         "value": "寂灭界",
         "docId": "plot.xianni-ch183-yibian-chushi",
         "seq": 168
+      },
+      {
+        "value": "修魔海",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
       }
     ],
     "规模": [
@@ -214,6 +255,28 @@
         "value": "香魂",
         "docId": "plot.xianni-ch188-gushen-chuancheng-2",
         "seq": 173
+      },
+      {
+        "value": "强大灵兽",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      },
+      {
+        "value": "荒兽",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      },
+      {
+        "value": "上品灵兽",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "碎星乱",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
       }
     ]
   },
@@ -227,9 +290,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch191-shenshi-sihai",
+      "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
       "dated": false,
-      "seq": 176
+      "seq": 273
     },
     "危险度": {
       "asOf": null,
@@ -239,9 +302,9 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch183-yibian-chushi",
+      "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
       "dated": false,
-      "seq": 168
+      "seq": 273
     },
     "规模": {
       "asOf": null,
@@ -254,6 +317,12 @@
       "docId": "plot.xianni-ch185-blood-sea-lord",
       "dated": false,
       "seq": 170
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+      "dated": false,
+      "seq": 273
     }
   },
   "contested": false,
@@ -267,7 +336,8 @@
     "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
     "plot.renfa-ch204-ancient-mirror-forbidden-banner",
     "plot.xianni-ch188-gushen-chuancheng-2",
-    "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing"
+    "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+    "plot.xianni-ch289-ancient-god-sacrifice-treasure"
   ],
-  "updatedAt": "2026-08-02T09:59:32.914Z"
+  "updatedAt": "2026-08-02T13:59:47.828Z"
 }

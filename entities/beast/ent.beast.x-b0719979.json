@@ -5,14 +5,18 @@
   "aliases": [
     "青黑妖兽",
     "蚊兽坐骑",
-    "长口器妖兽"
+    "长口器妖兽",
+    "狰狞蚊兽",
+    "王林的蚊兽",
+    "巨蚊"
   ],
   "summary": "修魔海妖兽，具灰气石化神通与吸食内丹的长口器；被王林喂内丹养大成坐骑，与古神记忆中的蚊兽同源。",
   "attributes": {
-    "能力": "散出灰色石化气体、长口器刺入吸食内丹/修为、高速遁行、口器吸破光幕、飞行坐骑、口器叼曳、俯冲攻击、高速飞行、载人飞行",
-    "外形": "蚊状",
+    "能力": "散出灰色石化气体、长口器刺入吸食内丹/修为、高速遁行、口器吸破光幕、飞行坐骑、口器叼曳、俯冲攻击、高速飞行、载人飞行、载人高速飞行，带起罡风、口器吸出妖兽内丹、吞噬融合极光火线、化乌芒入储物袋、口吐金线结网",
+    "外形": "青黑色、牛犊般大小、丈余巨翅、根部渐细的阴森长口器、庞大妖兽、拥有长口器的狰狞妖兽、蚊状、口器巨大、闪烁森森寒芒，样子极为狰狞、近三十丈如小山，巨大细长口器，身闪金芒",
     "主人": "王林",
-    "栖息地": "修魔海"
+    "栖息地": "王林的储物袋内",
+    "等级": "灵级中品、比雷蛙低一个等级，尚未成上品灵兽"
   },
   "observations": {
     "能力": [
@@ -50,6 +54,31 @@
         "value": "载人飞行",
         "docId": "plot.xianni-ch222-225-core-clan-members",
         "seq": 222
+      },
+      {
+        "value": "载人高速飞行，带起罡风",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      },
+      {
+        "value": "口器吸出妖兽内丹",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      },
+      {
+        "value": "吞噬融合极光火线",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      },
+      {
+        "value": "化乌芒入储物袋",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      },
+      {
+        "value": "口吐金线结网",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
       }
     ],
     "外形": [
@@ -72,6 +101,16 @@
         "value": "蚊状",
         "docId": "plot.xianni-ch222-225-core-clan-members",
         "seq": 222
+      },
+      {
+        "value": "口器巨大、闪烁森森寒芒，样子极为狰狞",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      },
+      {
+        "value": "近三十丈如小山，巨大细长口器，身闪金芒",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
       }
     ],
     "主人": [
@@ -86,6 +125,26 @@
         "value": "修魔海",
         "docId": "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
         "seq": 213
+      },
+      {
+        "value": "王林的储物袋内",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273,
+        "note": "平时收纳"
+      }
+    ],
+    "等级": [
+      {
+        "value": "灵级中品",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273,
+        "note": "本片段由灵级下品突破，相当于元婴后期大圆满"
+      },
+      {
+        "value": "比雷蛙低一个等级，尚未成上品灵兽",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273,
+        "note": "本章吞食金线后距上品不再遥远"
       }
     ]
   },
@@ -99,9 +158,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch222-225-core-clan-members",
+      "docId": "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
       "dated": false,
-      "seq": 222
+      "seq": 213
     },
     "主人": {
       "asOf": null,
@@ -111,9 +170,17 @@
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
+      "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
       "dated": false,
-      "seq": 213
+      "seq": 273,
+      "note": "平时收纳"
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+      "dated": false,
+      "seq": 273,
+      "note": "本片段由灵级下品突破，相当于元婴后期大圆满"
     }
   },
   "contested": false,
@@ -124,7 +191,8 @@
     "plot.xianni-ch235-because-he-is-surnamed-teng",
     "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong",
     "plot.xianni-ch222-225-core-clan-members",
-    "plot.xianni-ch231-234-xieyi-nanzi"
+    "plot.xianni-ch231-234-xieyi-nanzi",
+    "plot.xianni-ch289-ancient-god-sacrifice-treasure"
   ],
-  "updatedAt": "2026-07-23T05:08:47.996Z"
+  "updatedAt": "2026-08-02T13:59:47.823Z"
 }

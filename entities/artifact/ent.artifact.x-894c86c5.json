@@ -2,13 +2,16 @@
   "id": "ent.artifact.x-894c86c5",
   "type": "artifact",
   "name": "混元驱兽圈",
-  "aliases": [],
+  "aliases": [
+    "铜圈"
+  ],
   "summary": "古朴铜圈，传说宝物一级，可短时收服操控任何兽类（含仙兽，耗灵力随兽力递增）；来历不明，本章王林换得。",
   "attributes": {
     "品阶": "传说宝物级",
     "持有者": "王林",
-    "能力": "短时收服操控任意兽类（含仙兽）",
-    "外形": "如手镯大小的铜圈，刻众多狰狞仙兽"
+    "能力": "短时收服操控任意兽类（含仙兽）、短时间操控灵兽为己所用、锁住灵兽并收入圈中、反馈所锁灵兽的信息",
+    "外形": "手镯大小的古朴铜圈，刻满面目狰狞的仙兽",
+    "来历": "王林第一次入古神之地时，从几个上古修士手中作为相助代价获得"
   },
   "observations": {
     "品阶": [
@@ -30,6 +33,21 @@
         "value": "短时收服操控任意兽类（含仙兽）",
         "docId": "plot.xianni-ch191-shenshi-sihai",
         "seq": 176
+      },
+      {
+        "value": "短时间操控灵兽为己所用",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      },
+      {
+        "value": "锁住灵兽并收入圈中",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      },
+      {
+        "value": "反馈所锁灵兽的信息",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
       }
     ],
     "外形": [
@@ -37,6 +55,19 @@
         "value": "如手镯大小的铜圈，刻众多狰狞仙兽",
         "docId": "plot.xianni-ch191-shenshi-sihai",
         "seq": 176
+      },
+      {
+        "value": "手镯大小的古朴铜圈，刻满面目狰狞的仙兽",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273,
+        "note": "锁住雷蛙后仙兽雕刻消失，变为一只蛤蟆图案"
+      }
+    ],
+    "来历": [
+      {
+        "value": "王林第一次入古神之地时，从几个上古修士手中作为相助代价获得",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
       }
     ]
   },
@@ -62,15 +93,23 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch191-shenshi-sihai",
+      "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
       "dated": false,
-      "seq": 176
+      "seq": 273,
+      "note": "锁住雷蛙后仙兽雕刻消失，变为一只蛤蟆图案"
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+      "dated": false,
+      "seq": 273
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch191-shenshi-sihai"
+    "plot.xianni-ch191-shenshi-sihai",
+    "plot.xianni-ch289-ancient-god-sacrifice-treasure"
   ],
-  "updatedAt": "2026-07-07T11:14:57.428Z"
+  "updatedAt": "2026-08-02T13:59:47.821Z"
 }

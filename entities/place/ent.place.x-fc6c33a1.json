@@ -9,17 +9,23 @@
     "碎星乱平原",
     "碎星乱内部平原",
     "碎星环",
-    "碎星环内环"
+    "碎星环内环",
+    "修魔海碎星乱",
+    "Suixingluan",
+    "碎星乱环形地带",
+    "碎星环空间",
+    "碎星环内"
   ],
   "summary": "修魔海内海极北平原上宽约百里的碎石地带，碎石间有奇异牵扯之力，为修魔海最危险的死亡禁地，被朱雀国大阵封印，擅入者杀无赦。",
   "attributes": {
     "所属界面": "修魔海内海、修魔海",
-    "类型": "禁地/死亡地带、秘境/禁地、秘境、古神尸身空间入口、凶地/环形碎石之地、险地/禁地、危险秘域",
-    "方位": "修魔内海",
-    "规模": "宽约百里碎石地带、环形碎石带宽约百里、内环百里",
-    "危险度": "十死无生，最危险处之一、极高、极高（曾吞噬元婴强者）、高",
-    "守护": "朱雀星大阵封印、神秘力量凝出的高本体一境分身、椭圆形光圈封印禁制、碎石凝结的复制分身",
-    "上级区域": "修魔内海"
+    "类型": "禁地/死亡地带、秘境/禁地、秘境、古神尸身空间入口、凶地/环形碎石之地、险地/禁地、危险秘域、环形碎石秘境／幻化分身之地、秘境/特殊空间、特殊空间/秘境",
+    "方位": "内海极北平原、修魔内海、修魔内海传送阵向东十万里、距王林出发处约十万里",
+    "规模": "宽约百里碎石地带、环形碎石带宽约百里、内环百里、本就不大",
+    "危险度": "十死无生，最危险处之一、极高、极高（曾吞噬元婴强者）、高、入者遭碎石分身围攻、对元婴修士极高（极光火线专克元婴）",
+    "守护": "朱雀星大阵封印、神秘力量凝出的高本体一境分身、椭圆形光圈封印禁制、碎石凝结的复制分身、冥冥中的力量（阻止金线之祖外出）",
+    "上级区域": "修魔海",
+    "特产": "极光火线、金线"
   },
   "observations": {
     "所属界面": [
@@ -69,6 +75,21 @@
         "value": "危险秘域",
         "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
         "seq": 186
+      },
+      {
+        "value": "环形碎石秘境／幻化分身之地",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      },
+      {
+        "value": "秘境/特殊空间",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      },
+      {
+        "value": "特殊空间/秘境",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
       }
     ],
     "方位": [
@@ -81,6 +102,17 @@
         "value": "修魔内海",
         "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
         "seq": 183
+      },
+      {
+        "value": "修魔内海传送阵向东十万里",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273,
+        "note": "第289章地图玉简所示"
+      },
+      {
+        "value": "距王林出发处约十万里",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
       }
     ],
     "规模": [
@@ -98,6 +130,11 @@
         "value": "内环百里",
         "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
         "seq": 183
+      },
+      {
+        "value": "本就不大",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
       }
     ],
     "危险度": [
@@ -120,6 +157,16 @@
         "value": "高",
         "docId": "plot.xianni-ch186-187-two-hundred-years-silence",
         "seq": 186
+      },
+      {
+        "value": "入者遭碎石分身围攻",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      },
+      {
+        "value": "对元婴修士极高（极光火线专克元婴）",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
       }
     ],
     "守护": [
@@ -142,6 +189,11 @@
         "value": "碎石凝结的复制分身",
         "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
         "seq": 183
+      },
+      {
+        "value": "冥冥中的力量（阻止金线之祖外出）",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
       }
     ],
     "上级区域": [
@@ -149,6 +201,23 @@
         "value": "修魔内海",
         "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
         "seq": 183
+      },
+      {
+        "value": "修魔海",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      }
+    ],
+    "特产": [
+      {
+        "value": "极光火线",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      },
+      {
+        "value": "金线",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
       }
     ]
   },
@@ -168,9 +237,9 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+      "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
       "dated": false,
-      "seq": 183
+      "seq": 151
     },
     "规模": {
       "asOf": null,
@@ -192,9 +261,15 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+      "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
       "dated": false,
-      "seq": 183
+      "seq": 273
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+      "dated": false,
+      "seq": 273
     }
   },
   "contested": false,
@@ -203,7 +278,8 @@
     "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
     "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
     "plot.xianni-ch186-187-two-hundred-years-silence",
-    "plot.renfa-ch204-ancient-mirror-forbidden-banner"
+    "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+    "plot.xianni-ch289-ancient-god-sacrifice-treasure"
   ],
-  "updatedAt": "2026-07-07T12:03:22.434Z"
+  "updatedAt": "2026-08-02T13:59:47.828Z"
 }

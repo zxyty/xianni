@@ -4,14 +4,20 @@
   "name": "啼兽",
   "aliases": [
     "玄武（误认）",
-    "巨大乌龟"
+    "巨大乌龟",
+    "貌似玄武之兽",
+    "独角玄武兽",
+    "红云中的奇异之兽",
+    "红云啼兽"
   ],
   "summary": "古神记忆中的生物，以灵气为食，最强攻击为啼吼之鸣，一声可令寻常修士灵力瓦解；被邱四平误认作荒兽玄武。",
   "attributes": {
     "种族": "啼兽",
-    "能力": "以灵气为食、啼吼之鸣使修士灵力瓦解",
-    "外形": "巨大乌龟",
-    "血脉": "气息近似荒兽蛟龙"
+    "能力": "以灵气为食、啼吼之鸣使修士灵力瓦解、咆哮声波穿云裂石、吞噬四周灵力蓄力、喷出圆柱形声波轰开近百丈通道、可缩小化作黑光、身外凝聚红云、踏云极速飞行",
+    "外形": "貌似玄武、背无利刺、头生一根乌光弯角，身体极大",
+    "血脉": "气息近似荒兽蛟龙",
+    "主人": "灰布褂子老者、御兽老者",
+    "栖息地": "修魔海"
   },
   "observations": {
     "种族": [
@@ -31,6 +37,36 @@
         "value": "啼吼之鸣使修士灵力瓦解",
         "docId": "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
         "seq": 192
+      },
+      {
+        "value": "咆哮声波穿云裂石",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      },
+      {
+        "value": "吞噬四周灵力蓄力",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      },
+      {
+        "value": "喷出圆柱形声波轰开近百丈通道",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      },
+      {
+        "value": "可缩小化作黑光",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      },
+      {
+        "value": "身外凝聚红云",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      },
+      {
+        "value": "踏云极速飞行",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
       }
     ],
     "外形": [
@@ -38,6 +74,11 @@
         "value": "巨大乌龟",
         "docId": "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
         "seq": 192
+      },
+      {
+        "value": "貌似玄武、背无利刺、头生一根乌光弯角，身体极大",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
       }
     ],
     "血脉": [
@@ -45,6 +86,25 @@
         "value": "气息近似荒兽蛟龙",
         "docId": "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
         "seq": 192
+      }
+    ],
+    "主人": [
+      {
+        "value": "灰布褂子老者",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      },
+      {
+        "value": "御兽老者",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      }
+    ],
+    "栖息地": [
+      {
+        "value": "修魔海",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
       }
     ]
   },
@@ -64,21 +124,34 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
+      "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
       "dated": false,
-      "seq": 192
+      "seq": 273
     },
     "血脉": {
       "asOf": null,
       "docId": "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
       "dated": false,
       "seq": 192
+    },
+    "主人": {
+      "asOf": null,
+      "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+      "dated": false,
+      "seq": 273
+    },
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+      "dated": false,
+      "seq": 273
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch208-sundian-shoutu-guchuansongzhen"
+    "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
+    "plot.xianni-ch289-ancient-god-sacrifice-treasure"
   ],
-  "updatedAt": "2026-07-07T12:34:31.423Z"
+  "updatedAt": "2026-08-02T13:59:47.801Z"
 }

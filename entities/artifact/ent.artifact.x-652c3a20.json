@@ -5,14 +5,17 @@
   "aliases": [
     "黑画轴",
     "封印画轴",
-    "神秘画轴"
+    "神秘画轴",
+    "黑暗画轴",
+    "修魔海画轴"
   ],
   "summary": "两尺见长的黑色卷轴，本身只作封印之器，内封一只三角邪眼灵兽（咆哮不弱于蛟龙临死怒吼），故神识可烙印却无操控之感。",
   "attributes": {
-    "能力": "封印内中灵兽",
-    "外形": "两尺见长、臂粗，画面通体漆黑",
+    "能力": "封印内中灵兽、散发令人恐怖的气息、内蕴令人心颤的神秘力量",
+    "外形": "画轴，展开内为一片黑暗",
     "禁制": "疑封印强大生灵",
-    "持有者": "王林"
+    "持有者": "王林",
+    "来历": "当年得自修魔海一名普通修士（具体来源王林已忘记）"
   },
   "observations": {
     "能力": [
@@ -20,6 +23,16 @@
         "value": "封印内中灵兽",
         "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
         "seq": 137
+      },
+      {
+        "value": "散发令人恐怖的气息",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      },
+      {
+        "value": "内蕴令人心颤的神秘力量",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
       }
     ],
     "外形": [
@@ -27,6 +40,11 @@
         "value": "两尺见长、臂粗，画面通体漆黑",
         "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
         "seq": 137
+      },
+      {
+        "value": "画轴，展开内为一片黑暗",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
       }
     ],
     "禁制": [
@@ -52,6 +70,13 @@
         "docId": "plot.xianni-ch173-second-demon-head",
         "seq": 158
       }
+    ],
+    "来历": [
+      {
+        "value": "当年得自修魔海一名普通修士（具体来源王林已忘记）",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      }
     ]
   },
   "firstSeq": 137,
@@ -64,9 +89,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+      "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
       "dated": false,
-      "seq": 137
+      "seq": 273
     },
     "禁制": {
       "asOf": null,
@@ -79,6 +104,12 @@
       "docId": "plot.xianni-ch173-second-demon-head",
       "dated": false,
       "seq": 158
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+      "dated": false,
+      "seq": 273
     }
   },
   "contested": false,
@@ -86,7 +117,8 @@
   "docs": [
     "plot.xianni-ch137-141-nandou-shafa-xuelu",
     "plot.xianni-ch173-second-demon-head",
-    "plot.xianni-ch242-punanzi"
+    "plot.xianni-ch242-punanzi",
+    "plot.xianni-ch289-ancient-god-sacrifice-treasure"
   ],
-  "updatedAt": "2026-07-23T04:56:01.410Z"
+  "updatedAt": "2026-08-02T13:59:47.858Z"
 }
