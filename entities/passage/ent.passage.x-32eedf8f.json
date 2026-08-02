@@ -6,13 +6,19 @@
     "巨大漩涡",
     "锥形石块终点漩涡",
     "半空巨大漩涡",
-    "土行之地漩涡"
+    "土行之地漩涡",
+    "通往仙界碎片的漩涡",
+    "平台漩涡",
+    "平台上的漩涡",
+    "通往仙界的漩涡",
+    "仙界碎片漩涡"
   ],
   "summary": "锥形石块旋涡状攀升的终点巨型漩涡，为进入第一关的通道；冲入后依次序随机落入五行之地某一环境。",
   "attributes": {
-    "类型": "空间漩涡通道",
-    "两端": "石块虚无空间、五行之地/第一关、第一关/第二关",
-    "可通行境界": "需冲入"
+    "类型": "闯关传送漩涡、空间漩涡通道、空间通道、仙界异象/节点",
+    "两端": "石块虚无空间、五行之地/第一关、第一关/第二关、平台 ↔ 仙界碎片、漩涡平台 ↔ 仙界碎片",
+    "可通行境界": "结丹期以上（需能自保）、需冲入、持传送玉简者可指定目的碎片、元婴期修士多不敢进入",
+    "稳定性": "降落地点随机"
   },
   "observations": {
     "类型": [
@@ -25,6 +31,16 @@
         "value": "空间漩涡通道",
         "docId": "plot.xianni-ch176-duoqu-fengqun",
         "seq": 161
+      },
+      {
+        "value": "空间通道",
+        "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+        "seq": 285
+      },
+      {
+        "value": "仙界异象/节点",
+        "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+        "seq": 285
       }
     ],
     "两端": [
@@ -42,6 +58,16 @@
         "value": "第一关/第二关",
         "docId": "plot.xianni-ch176-duoqu-fengqun",
         "seq": 161
+      },
+      {
+        "value": "平台 ↔ 仙界碎片",
+        "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+        "seq": 285
+      },
+      {
+        "value": "漩涡平台 ↔ 仙界碎片",
+        "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+        "seq": 285
       }
     ],
     "可通行境界": [
@@ -55,6 +81,25 @@
         "docId": "plot.xianni-ch176-duoqu-fengqun",
         "seq": 161,
         "note": "青龙光圈可裹物同入"
+      },
+      {
+        "value": "持传送玉简者可指定目的碎片",
+        "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+        "seq": 285
+      },
+      {
+        "value": "元婴期修士多不敢进入",
+        "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+        "seq": 285,
+        "note": "平台众人只在外围守候"
+      }
+    ],
+    "稳定性": [
+      {
+        "value": "降落地点随机",
+        "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+        "seq": 285,
+        "note": "王林数次出入才落至西部"
       }
     ]
   },
@@ -62,9 +107,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch176-duoqu-fengqun",
+      "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
       "dated": false,
-      "seq": 161
+      "seq": 155
     },
     "两端": {
       "asOf": null,
@@ -74,17 +119,24 @@
     },
     "可通行境界": {
       "asOf": null,
-      "docId": "plot.xianni-ch176-duoqu-fengqun",
+      "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
       "dated": false,
-      "seq": 161,
-      "note": "青龙光圈可裹物同入"
+      "seq": 155
+    },
+    "稳定性": {
+      "asOf": null,
+      "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+      "dated": false,
+      "seq": 285,
+      "note": "王林数次出入才落至西部"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch155-157-tuoli-duiwu-quisui",
-    "plot.xianni-ch176-duoqu-fengqun"
+    "plot.xianni-ch176-duoqu-fengqun",
+    "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal"
   ],
-  "updatedAt": "2026-07-07T02:39:51.831Z"
+  "updatedAt": "2026-08-02T15:12:09.139Z"
 }

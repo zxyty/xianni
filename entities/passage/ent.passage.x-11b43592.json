@@ -6,13 +6,15 @@
     "降临阵法",
     "传送阵法",
     "碎片间传送阵",
-    "古老宗派传送阵"
+    "古老宗派传送阵",
+    "碎片传送点"
   ],
   "summary": "青衫修士降临时所用的阵法，掐诀可重现，进入后能在众多仙界碎片中随意挑选一处传送，是其逃生依仗。",
   "attributes": {
     "类型": "传送阵",
-    "两端": "本仙界碎片 ↔ 任选的其他仙界碎片、已探查的各仙界碎片之间",
-    "来历": "古老宗派多次进入仙界之门后搭建"
+    "两端": "本仙界碎片 ↔ 任选的其他仙界碎片、已探查的各仙界碎片之间、玉简所载各仙界碎片之间",
+    "来历": "古老宗派多次进入仙界之门后搭建",
+    "可通行境界": "（本章未限定，化神修士可用）"
   },
   "observations": {
     "类型": [
@@ -32,6 +34,11 @@
         "value": "已探查的各仙界碎片之间",
         "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
         "seq": 276
+      },
+      {
+        "value": "玉简所载各仙界碎片之间",
+        "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+        "seq": 285
       }
     ],
     "来历": [
@@ -40,6 +47,13 @@
         "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
         "seq": 276,
         "note": "王林的推测，尚未证实"
+      }
+    ],
+    "可通行境界": [
+      {
+        "value": "（本章未限定，化神修士可用）",
+        "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+        "seq": 285
       }
     ]
   },
@@ -63,12 +77,19 @@
       "dated": false,
       "seq": 276,
       "note": "王林的推测，尚未证实"
+    },
+    "可通行境界": {
+      "asOf": null,
+      "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+      "dated": false,
+      "seq": 285
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men"
+    "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+    "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal"
   ],
-  "updatedAt": "2026-08-02T14:24:24.312Z"
+  "updatedAt": "2026-08-02T15:12:09.142Z"
 }
