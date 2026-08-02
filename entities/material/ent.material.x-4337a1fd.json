@@ -3,13 +3,16 @@
   "type": "material",
   "name": "仙玉",
   "aliases": [
-    "仙界之玉"
+    "仙界之玉",
+    "玉石",
+    "无价之宝仙玉"
   ],
   "summary": "仙界碎片中的宝物，持葫芦中年人欲取以让『婷儿』肉身再储存千年。",
   "attributes": {
-    "类型": "仙界宝物",
-    "用途": "保存肉身千年",
-    "产地": "仙界碎片"
+    "类型": "仙界灵材",
+    "用途": "仙界之气凝结之精华",
+    "产地": "仙兽府骸骨洞穴",
+    "稀有度": "无价之宝"
   },
   "observations": {
     "类型": [
@@ -17,6 +20,11 @@
         "value": "仙界宝物",
         "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
         "seq": 276
+      },
+      {
+        "value": "仙界灵材",
+        "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
+        "seq": 281
       }
     ],
     "用途": [
@@ -24,6 +32,11 @@
         "value": "保存肉身千年",
         "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
         "seq": 276
+      },
+      {
+        "value": "仙界之气凝结之精华",
+        "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
+        "seq": 281
       }
     ],
     "产地": [
@@ -31,6 +44,18 @@
         "value": "仙界碎片",
         "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
         "seq": 276
+      },
+      {
+        "value": "仙兽府骸骨洞穴",
+        "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
+        "seq": 281
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "无价之宝",
+        "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
+        "seq": 281
       }
     ]
   },
@@ -38,27 +63,34 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+      "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
       "dated": false,
-      "seq": 276
+      "seq": 281
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+      "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
       "dated": false,
-      "seq": 276
+      "seq": 281
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+      "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
       "dated": false,
-      "seq": 276
+      "seq": 281
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
+      "dated": false,
+      "seq": 281
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men"
+    "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+    "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush"
   ],
-  "updatedAt": "2026-08-02T14:24:24.226Z"
+  "updatedAt": "2026-08-02T14:43:22.174Z"
 }
