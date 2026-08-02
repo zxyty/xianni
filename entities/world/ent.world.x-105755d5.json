@@ -3,12 +3,16 @@
   "type": "world",
   "name": "吉仙界",
   "aliases": [
-    "仙界"
+    "仙界",
+    "Immortal Realm",
+    "仙界之地碎片"
   ],
   "summary": "古神涂司记忆中提及的上层界面，风雨雷电四大仙门是进入其中的法门。",
   "attributes": {
-    "层次": "仙界",
-    "通道": "风雨雷电四大仙门"
+    "层次": "修士圣地（已灭）",
+    "通道": "风雨雷电四大仙门",
+    "灵气浓度": "远胜修真界，居民皆化神以上吐纳仙界之气",
+    "特点": "一切物事比修真界坚硬无数倍、天空有看不见的阻力限制飞行、已碎裂为众多碎片"
   },
   "observations": {
     "层次": [
@@ -16,6 +20,11 @@
         "value": "仙界",
         "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
         "seq": 248
+      },
+      {
+        "value": "修士圣地（已灭）",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276
       }
     ],
     "通道": [
@@ -24,27 +33,64 @@
         "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
         "seq": 248
       }
+    ],
+    "灵气浓度": [
+      {
+        "value": "远胜修真界，居民皆化神以上吐纳仙界之气",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276
+      }
+    ],
+    "特点": [
+      {
+        "value": "一切物事比修真界坚硬无数倍",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276
+      },
+      {
+        "value": "天空有看不见的阻力限制飞行",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276
+      },
+      {
+        "value": "已碎裂为众多碎片",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276
+      }
     ]
   },
   "firstSeq": 248,
   "attrProvenance": {
     "层次": {
       "asOf": null,
-      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+      "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
       "dated": false,
-      "seq": 248
+      "seq": 276
     },
     "通道": {
       "asOf": null,
       "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
       "dated": false,
       "seq": 248
+    },
+    "灵气浓度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+      "dated": false,
+      "seq": 276
+    },
+    "特点": {
+      "asOf": null,
+      "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+      "dated": false,
+      "seq": 276
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment"
+    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+    "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men"
   ],
-  "updatedAt": "2026-08-02T09:25:44.583Z"
+  "updatedAt": "2026-08-02T14:24:24.271Z"
 }

@@ -4,12 +4,20 @@
   "name": "仙界之门",
   "aliases": [
     "进入仙界之门",
-    "仙界门"
+    "仙界门",
+    "金光之门",
+    "巨大的金光之门",
+    "天道开启之门",
+    "Immortal Gate",
+    "仙界之门漩涡",
+    "仙门漩涡"
   ],
   "summary": "天道之曰来临时开启的通往仙界的门户；王林要在进入此门前把法宝布置齐全。",
   "attributes": {
-    "类型": "界面通道、通往仙界的门户",
-    "可通行境界": "未明"
+    "类型": "界面通道、通往仙界的门户、通往仙界碎片的门户、秘境/仙界碎片空间、界门/入口",
+    "可通行境界": "需持雨鼎并有仙界之气引导",
+    "两端": "修真界—仙界碎片、外界 ↔ 各仙界碎片",
+    "稳定性": "周期性开启"
   },
   "observations": {
     "类型": [
@@ -22,6 +30,21 @@
         "value": "通往仙界的门户",
         "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
         "seq": 273
+      },
+      {
+        "value": "通往仙界碎片的门户",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276
+      },
+      {
+        "value": "秘境/仙界碎片空间",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276
+      },
+      {
+        "value": "界门/入口",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276
       }
     ],
     "可通行境界": [
@@ -30,6 +53,30 @@
         "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
         "seq": 273,
         "note": "第289章仅提及天道之曰前需备齐法宝"
+      },
+      {
+        "value": "需持雨鼎并有仙界之气引导",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276
+      }
+    ],
+    "两端": [
+      {
+        "value": "修真界—仙界碎片",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276
+      },
+      {
+        "value": "外界 ↔ 各仙界碎片",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276
+      }
+    ],
+    "稳定性": [
+      {
+        "value": "周期性开启",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276
       }
     ]
   },
@@ -43,16 +90,28 @@
     },
     "可通行境界": {
       "asOf": null,
-      "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+      "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
       "dated": false,
-      "seq": 273,
-      "note": "第289章仅提及天道之曰前需备齐法宝"
+      "seq": 276
+    },
+    "两端": {
+      "asOf": null,
+      "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+      "dated": false,
+      "seq": 276
+    },
+    "稳定性": {
+      "asOf": null,
+      "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+      "dated": false,
+      "seq": 276
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch289-ancient-god-sacrifice-treasure"
+    "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+    "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men"
   ],
-  "updatedAt": "2026-08-02T13:59:47.831Z"
+  "updatedAt": "2026-08-02T14:24:24.311Z"
 }

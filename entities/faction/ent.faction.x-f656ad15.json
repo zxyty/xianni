@@ -5,12 +5,17 @@
   "aliases": [
     "风雨雷电四仙门",
     "风云雷电四仙门",
-    "四大仙门"
+    "四大仙门",
+    "风门",
+    "雨门",
+    "雷门",
+    "电门"
   ],
   "summary": "远古时期便已存在、来历无从考究的四大仙门，是进入吉仙界的法门；朱雀星位于其中雨之仙门附近。",
   "attributes": {
     "等级": "仙门",
-    "理念": "进入吉仙界的法门"
+    "理念": "统辖各自方位的修真星与仙界之门",
+    "据点": "星空四地"
   },
   "observations": {
     "等级": [
@@ -25,6 +30,18 @@
         "value": "进入吉仙界的法门",
         "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
         "seq": 248
+      },
+      {
+        "value": "统辖各自方位的修真星与仙界之门",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276
+      }
+    ],
+    "据点": [
+      {
+        "value": "星空四地",
+        "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+        "seq": 276
       }
     ]
   },
@@ -38,15 +55,22 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+      "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
       "dated": false,
-      "seq": 248
+      "seq": 276
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+      "dated": false,
+      "seq": 276
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment"
+    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+    "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men"
   ],
-  "updatedAt": "2026-08-02T09:25:44.578Z"
+  "updatedAt": "2026-08-02T14:24:24.236Z"
 }
