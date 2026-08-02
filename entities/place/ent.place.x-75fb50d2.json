@@ -12,17 +12,19 @@
     "京都街道",
     "四派联盟京都",
     "京都城西",
-    "凡人界京都"
+    "凡人界京都",
+    "凡俗京都"
   ],
   "summary": "四级修真国凡人都城，城中心立九根仙木，城内可见十余凝气期修士，有面向修士贩卖玉简法宝的店铺（凡人被禁制阻隔）。",
   "attributes": {
-    "类型": "凡人都城、都城、城池、凡人界都城、凡俗都城",
-    "所属势力": "四派联盟",
+    "类型": "凡人都城、都城、城池、凡人界都城、凡俗都城、凡人城池",
+    "所属势力": "四派联盟境内凡俗皇朝",
     "特产": "仙木、灵气漩涡、修士店铺",
     "方位": "王林店铺在城西",
     "所属界面": "朱雀星",
     "危险度": "严寒致死",
-    "守护": "九根黑木（已被雷劈毁）"
+    "守护": "九根黑木（已被雷劈毁）",
+    "上级区域": "四派联盟"
   },
   "observations": {
     "类型": [
@@ -50,6 +52,11 @@
         "value": "凡俗都城",
         "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
         "seq": 248
+      },
+      {
+        "value": "凡人城池",
+        "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+        "seq": 253
       }
     ],
     "所属势力": [
@@ -62,6 +69,11 @@
         "value": "四派联盟",
         "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
         "seq": 248
+      },
+      {
+        "value": "四派联盟境内凡俗皇朝",
+        "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+        "seq": 253
       }
     ],
     "特产": [
@@ -109,6 +121,13 @@
         "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
         "seq": 248
       }
+    ],
+    "上级区域": [
+      {
+        "value": "四派联盟",
+        "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+        "seq": 253
+      }
     ]
   },
   "firstSeq": 235,
@@ -121,9 +140,9 @@
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+      "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
       "dated": false,
-      "seq": 248
+      "seq": 253
     },
     "特产": {
       "asOf": null,
@@ -155,6 +174,12 @@
       "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
       "dated": false,
       "seq": 248
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+      "dated": false,
+      "seq": 253
     }
   },
   "contested": false,
@@ -163,7 +188,8 @@
     "plot.xianni-ch235-238-guiyin-fabao",
     "plot.xianni-ch239-243-huafan-jingdu-mudiao",
     "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
-    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment"
+    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+    "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing"
   ],
-  "updatedAt": "2026-08-02T09:25:44.551Z"
+  "updatedAt": "2026-08-02T09:59:32.832Z"
 }

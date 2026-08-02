@@ -4,12 +4,17 @@
   "name": "大牛之妻",
   "aliases": [
     "大牛媳妇",
-    "裁缝店掌柜的女儿"
+    "裁缝店掌柜的女儿",
+    "大牛的妻子",
+    "大牛妻"
   ],
   "summary": "裁缝店掌柜之女，贤惠，随夫君把王林当作长辈，每年过年同来为王林做年夜饭团圆。",
   "attributes": {
-    "身份": "大牛之妻",
-    "性格": "贤惠体贴"
+    "身份": "被征集清雪的凡人（推测）",
+    "性格": "贤惠体贴",
+    "性别": "女",
+    "种族": "凡人",
+    "存殁": "下落不明"
   },
   "observations": {
     "身份": [
@@ -17,6 +22,11 @@
         "value": "大牛之妻",
         "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
         "seq": 248
+      },
+      {
+        "value": "被征集清雪的凡人（推测）",
+        "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+        "seq": 253
       }
     ],
     "性格": [
@@ -25,27 +35,69 @@
         "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
         "seq": 248
       }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+        "seq": 253
+      }
+    ],
+    "种族": [
+      {
+        "value": "凡人",
+        "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+        "seq": 253
+      }
+    ],
+    "存殁": [
+      {
+        "value": "下落不明",
+        "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+        "seq": 253,
+        "note": "本章仅由大牛牵挂提及，生死未明"
+      }
     ]
   },
   "firstSeq": 248,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+      "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
       "dated": false,
-      "seq": 248
+      "seq": 253
     },
     "性格": {
       "asOf": null,
       "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
       "dated": false,
       "seq": 248
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+      "dated": false,
+      "seq": 253
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+      "dated": false,
+      "seq": 253
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+      "dated": false,
+      "seq": 253,
+      "note": "本章仅由大牛牵挂提及，生死未明"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment"
+    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+    "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing"
   ],
-  "updatedAt": "2026-08-02T09:25:44.517Z"
+  "updatedAt": "2026-08-02T09:59:32.920Z"
 }

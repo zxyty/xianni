@@ -67,3 +67,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-07-23T05:28:58.614Z** `ingest` plot.xianni-ch239-243-huafan-jingdu-mudiao — 仙逆 第239-243章 京都化凡·木雕店岁月 · kind=plot asOf=2026-07-23 entities=26 relations=30 src=00239-00243.md
 - **2026-08-02T08:12:08.936Z** `ingest` plot.xianni-ch244-247-zuling-pai-yijing-ganwu — 仙逆 第244-247章：祖灵牌换意境感悟，王林十年木雕入暮年 · kind=plot asOf=2026-08-02 entities=66 relations=108 src=00244-00247.md
 - **2026-08-02T09:25:44.758Z** `ingest` plot.xianni-ch264-samsara-heavenly-dao-enlightenment — 仙逆 第264章 轮回天道：王林凡尘悟道，元婴后期巅峰 · kind=plot asOf=2026-08-02 entities=95 relations=171 src=00248-00252.md
+- **2026-08-02T09:59:33.009Z** `ingest` plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing — 仙逆 第269章 天道无情：仙门法则限制、木雕之约与四派联盟清雪 · kind=plot asOf=2026-08-02 entities=120 relations=199 src=00253-00257.md

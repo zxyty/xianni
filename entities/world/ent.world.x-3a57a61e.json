@@ -4,12 +4,15 @@
   "name": "古仙界",
   "aliases": [
     "古仙人之界",
-    "ancient immortal realm"
+    "ancient immortal realm",
+    "仙界碎片",
+    "古仙界碎片"
   ],
   "summary": "古仙的所在之界。古仙于远古时期死于一场纷战，界虽仍在却已空置，内中充满肆虐风暴，且整个界被分割成无数部分。",
   "attributes": {
-    "特点": "古仙已死绝、界内空置、充满肆虐无数的风暴、被分割成无数部分、藏有仙界之气",
-    "通道": "风云雷电四大仙门（只连接其中一处部分）"
+    "特点": "古仙已死绝、界内空置、充满肆虐无数的风暴、被分割成无数部分、藏有仙界之气、支离破碎化作无数碎片、天地法则完全混乱、化神后期以上法力波动会致碎片崩塌、碎片越大可承受的法力波动越高",
+    "通道": "风云雷电四大仙门（只连接其中一处部分）",
+    "层次": "仙界（已破碎）"
   },
   "observations": {
     "特点": [
@@ -32,6 +35,26 @@
         "value": "藏有仙界之气",
         "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
         "seq": 248
+      },
+      {
+        "value": "支离破碎化作无数碎片",
+        "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+        "seq": 253
+      },
+      {
+        "value": "天地法则完全混乱",
+        "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+        "seq": 253
+      },
+      {
+        "value": "化神后期以上法力波动会致碎片崩塌",
+        "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+        "seq": 253
+      },
+      {
+        "value": "碎片越大可承受的法力波动越高",
+        "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+        "seq": 253
       }
     ],
     "通道": [
@@ -39,6 +62,13 @@
         "value": "风云雷电四大仙门（只连接其中一处部分）",
         "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
         "seq": 248
+      }
+    ],
+    "层次": [
+      {
+        "value": "仙界（已破碎）",
+        "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+        "seq": 253
       }
     ]
   },
@@ -55,12 +85,19 @@
       "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
       "dated": false,
       "seq": 248
+    },
+    "层次": {
+      "asOf": null,
+      "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+      "dated": false,
+      "seq": 253
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment"
+    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+    "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing"
   ],
-  "updatedAt": "2026-08-02T09:25:44.646Z"
+  "updatedAt": "2026-08-02T09:59:32.815Z"
 }
