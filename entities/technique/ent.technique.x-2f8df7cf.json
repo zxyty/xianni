@@ -3,12 +3,18 @@
   "type": "technique",
   "name": "化凡",
   "aliases": [
-    "化凡潜修"
+    "化凡潜修",
+    "化凡之道",
+    "红尘化凡",
+    "化凡之境",
+    "以凡人界化凡",
+    "以弟子化凡"
   ],
   "summary": "修士入凡尘、化作凡人以感悟各人意境，从而突破元婴、迈向化神的修行过程。",
   "attributes": {
     "适用境界": "元婴突破化神",
-    "效果": "感悟意境以突破化神"
+    "效果": "感悟天道、磨砺心境",
+    "修炼条件": "混迹凡尘、不干涉凡人生老病死"
   },
   "observations": {
     "适用境界": [
@@ -23,6 +29,18 @@
         "value": "感悟意境以突破化神",
         "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
         "seq": 239
+      },
+      {
+        "value": "感悟天道、磨砺心境",
+        "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+        "seq": 244
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "混迹凡尘、不干涉凡人生老病死",
+        "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+        "seq": 244
       }
     ]
   },
@@ -36,15 +54,22 @@
     },
     "效果": {
       "asOf": null,
-      "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
+      "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
       "dated": false,
-      "seq": 239
+      "seq": 244
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+      "dated": false,
+      "seq": 244
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch239-243-huafan-jingdu-mudiao"
+    "plot.xianni-ch239-243-huafan-jingdu-mudiao",
+    "plot.xianni-ch244-247-zuling-pai-yijing-ganwu"
   ],
-  "updatedAt": "2026-07-23T05:28:58.580Z"
+  "updatedAt": "2026-08-02T08:12:08.899Z"
 }

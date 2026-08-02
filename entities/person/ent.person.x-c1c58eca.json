@@ -4,14 +4,16 @@
   "name": "中年文士",
   "aliases": [
     "沈腰潘鬓中年文士",
-    "秘市中年文士"
+    "秘市中年文士",
+    "中年文士木雕原型"
   ],
   "summary": "战神殿元婴期高手，面如冠玉、温文尔雅带傲气，主张六人联手收服火灵兽。",
   "attributes": {
     "小阶段": "元婴后期巅峰",
     "外貌": "面如冠玉、温文尔雅",
     "性格": "傲气",
-    "标志特征": "神识强大"
+    "标志特征": "神识强大",
+    "身份": "王林木雕题材"
   },
   "observations": {
     "小阶段": [
@@ -47,6 +49,13 @@
         "docId": "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
         "seq": 213
       }
+    ],
+    "身份": [
+      {
+        "value": "王林木雕题材",
+        "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+        "seq": 244
+      }
     ]
   },
   "firstSeq": 119,
@@ -75,13 +84,20 @@
       "docId": "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
       "dated": false,
       "seq": 213
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+      "dated": false,
+      "seq": 244
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
-    "plot.xianni-ch213-215-wenshou-lianmocheng-shalv"
+    "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
+    "plot.xianni-ch244-247-zuling-pai-yijing-ganwu"
   ],
-  "updatedAt": "2026-07-18T10:47:11.149Z"
+  "updatedAt": "2026-08-02T08:12:08.881Z"
 }

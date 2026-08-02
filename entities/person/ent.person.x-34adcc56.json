@@ -2,10 +2,13 @@
   "id": "ent.person.x-34adcc56",
   "type": "person",
   "name": "世子殿下",
-  "aliases": [],
+  "aliases": [
+    "殿下"
+  ],
   "summary": "京都权贵，遣徐涛长年向王林进献财物示好，王林不感兴趣。",
   "attributes": {
-    "身份": "京都世子/王府贵胄"
+    "身份": "京都世子/王府贵胄、王室世子、皇族世子",
+    "存殁": "在世（藏于皇宫）、存活"
   },
   "observations": {
     "身份": [
@@ -13,6 +16,28 @@
         "value": "京都世子/王府贵胄",
         "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
         "seq": 239
+      },
+      {
+        "value": "王室世子",
+        "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+        "seq": 244
+      },
+      {
+        "value": "皇族世子",
+        "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+        "seq": 244
+      }
+    ],
+    "存殁": [
+      {
+        "value": "在世（藏于皇宫）",
+        "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+        "seq": 244
+      },
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+        "seq": 244
       }
     ]
   },
@@ -23,12 +48,19 @@
       "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
       "dated": false,
       "seq": 239
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+      "dated": false,
+      "seq": 244
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch239-243-huafan-jingdu-mudiao"
+    "plot.xianni-ch239-243-huafan-jingdu-mudiao",
+    "plot.xianni-ch244-247-zuling-pai-yijing-ganwu"
   ],
-  "updatedAt": "2026-07-23T05:28:58.567Z"
+  "updatedAt": "2026-08-02T08:12:08.897Z"
 }
