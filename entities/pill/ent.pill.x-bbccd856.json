@@ -2,14 +2,17 @@
   "id": "ent.pill.x-bbccd856",
   "type": "pill",
   "name": "筑基丹",
-  "aliases": [],
+  "aliases": [
+    "筑基丹药"
+  ],
   "summary": "一品灵丹，可助凝气期修士突破筑基。一炉出两粒、炼制需一整日；加灵液成功率约五六成。王林分身连服八粒始成筑基，再服五粒达筑基初期顶峰。",
   "attributes": {
     "品阶": "一品灵丹",
-    "功效": "助筑基",
-    "适用境界": "凝气期大圆满",
+    "功效": "助凡人/凝气修士凝结筑基",
+    "适用境界": "筑基之前",
     "炼制者": "王林",
-    "主料": "掺入灵液"
+    "主料": "掺入灵液",
+    "副作用": "不符合天道标准（借外力筑基）"
   },
   "observations": {
     "品阶": [
@@ -29,6 +32,11 @@
         "value": "助筑基",
         "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
         "seq": 203
+      },
+      {
+        "value": "助凡人/凝气修士凝结筑基",
+        "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
+        "seq": 268
       }
     ],
     "适用境界": [
@@ -36,6 +44,11 @@
         "value": "凝气期大圆满",
         "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
         "seq": 199
+      },
+      {
+        "value": "筑基之前",
+        "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
+        "seq": 268
       }
     ],
     "炼制者": [
@@ -57,6 +70,14 @@
         "seq": 203,
         "note": "王林所炼此炉"
       }
+    ],
+    "副作用": [
+      {
+        "value": "不符合天道标准（借外力筑基）",
+        "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
+        "seq": 268,
+        "note": "修真联盟称‘天道已死，自当逆天’，故无人深究"
+      }
     ]
   },
   "firstSeq": 199,
@@ -69,15 +90,15 @@
     },
     "功效": {
       "asOf": null,
-      "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
+      "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
       "dated": false,
-      "seq": 203
+      "seq": 268
     },
     "适用境界": {
       "asOf": null,
-      "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+      "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
       "dated": false,
-      "seq": 199
+      "seq": 268
     },
     "炼制者": {
       "asOf": null,
@@ -91,13 +112,21 @@
       "dated": false,
       "seq": 203,
       "note": "王林所炼此炉"
+    },
+    "副作用": {
+      "asOf": null,
+      "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
+      "dated": false,
+      "seq": 268,
+      "note": "修真联盟称‘天道已死，自当逆天’，故无人深究"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
-    "plot.xianni-ch219-dongyuan-lingyuan-heist"
+    "plot.xianni-ch219-dongyuan-lingyuan-heist",
+    "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu"
   ],
-  "updatedAt": "2026-07-08T13:41:20.921Z"
+  "updatedAt": "2026-08-02T13:31:26.097Z"
 }
