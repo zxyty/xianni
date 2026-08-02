@@ -5,13 +5,16 @@
   "aliases": [
     "白云宗宗派",
     "Baiyun Sect",
-    "白云宗门派"
+    "白云宗门派",
+    "白云宗三老"
   ],
   "summary": "第255章两名夜盗木雕的修士自称白云宗弟子（实为王府修士）。",
   "attributes": {
-    "等级": "多位化神修士坐镇",
+    "等级": "门派",
     "据点": "云上仙境楼阁群",
-    "镇派之宝": "祖灵牌"
+    "镇派之宝": "祖灵牌",
+    "所属界面": "朱雀星",
+    "阵营": "四派联盟成员"
   },
   "observations": {
     "等级": [
@@ -24,6 +27,11 @@
         "value": "多位化神修士坐镇",
         "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
         "seq": 244
+      },
+      {
+        "value": "门派",
+        "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+        "seq": 248
       }
     ],
     "据点": [
@@ -40,15 +48,29 @@
         "seq": 244,
         "note": "见牌奉行的宗门信物"
       }
+    ],
+    "所属界面": [
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+        "seq": 248
+      }
+    ],
+    "阵营": [
+      {
+        "value": "四派联盟成员",
+        "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+        "seq": 248
+      }
     ]
   },
   "firstSeq": 239,
   "attrProvenance": {
     "等级": {
       "asOf": null,
-      "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
       "dated": false,
-      "seq": 244
+      "seq": 248
     },
     "据点": {
       "asOf": null,
@@ -62,13 +84,26 @@
       "dated": false,
       "seq": 244,
       "note": "见牌奉行的宗门信物"
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+      "dated": false,
+      "seq": 248
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+      "dated": false,
+      "seq": 248
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch239-243-huafan-jingdu-mudiao",
-    "plot.xianni-ch244-247-zuling-pai-yijing-ganwu"
+    "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment"
   ],
-  "updatedAt": "2026-08-02T08:12:08.907Z"
+  "updatedAt": "2026-08-02T09:25:44.575Z"
 }

@@ -2,11 +2,13 @@
   "id": "ent.faction.x-b9858674",
   "type": "faction",
   "name": "修真联盟",
-  "aliases": [],
+  "aliases": [
+    "修真界联盟"
+  ],
   "summary": "统辖各级修真国的联盟，资助四级以上修真国、分配域外修真星争夺资格；天逆珠子曾突现于此引发争夺。",
   "attributes": {
-    "据点": "通天塔",
-    "理念": "弱肉强食、物竞天择",
+    "据点": "四大仙门几乎笼罩其境内",
+    "理念": "以星域为方式进行发展",
     "等级": "宇宙级统治组织"
   },
   "observations": {
@@ -15,6 +17,11 @@
         "value": "通天塔",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
+      },
+      {
+        "value": "四大仙门几乎笼罩其境内",
+        "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+        "seq": 248
       }
     ],
     "理念": [
@@ -27,6 +34,11 @@
         "value": "弱肉强食、物竞天择",
         "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
         "seq": 106
+      },
+      {
+        "value": "以星域为方式进行发展",
+        "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+        "seq": 248
       }
     ],
     "等级": [
@@ -41,15 +53,15 @@
   "attrProvenance": {
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
       "dated": false,
-      "seq": 80
+      "seq": 248
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
       "dated": false,
-      "seq": 106
+      "seq": 248
     },
     "等级": {
       "asOf": null,
@@ -65,7 +77,8 @@
     "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
     "plot.xianni-ch117-wanglin-death",
     "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
-    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian"
+    "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment"
   ],
-  "updatedAt": "2026-07-05T05:13:41.029Z"
+  "updatedAt": "2026-08-02T09:25:44.655Z"
 }

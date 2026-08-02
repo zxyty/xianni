@@ -5,15 +5,19 @@
   "aliases": [
     "王林所称的少年",
     "铁具铺大牛",
-    "虎头虎脑的少年"
+    "虎头虎脑的少年",
+    "曾大牛",
+    "铁匠大牛",
+    "铁具铺子主人大牛"
   ],
   "summary": "凡人少年，十二岁，铁匠之子，每日携果子酒看王林雕刻，痴迷木雕手艺，愿看六十年学艺。",
   "attributes": {
     "种族": "凡人",
-    "身份": "铁具铺主人",
+    "身份": "铁匠之子、铁匠之子/学徒、铁具铺主人、京都铁具铺铺主、铁具铺子主人",
     "外貌": "壮实少年",
-    "性格": "关切、通透（『你王爷爷喝的不是酒，是人生』）",
-    "存殁": "在世"
+    "性格": "重情、自豪、恋旧",
+    "存殁": "在世",
+    "出身地": "朱雀星京都"
   },
   "observations": {
     "种族": [
@@ -38,6 +42,16 @@
         "value": "铁具铺主人",
         "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
         "seq": 244
+      },
+      {
+        "value": "京都铁具铺铺主",
+        "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+        "seq": 248
+      },
+      {
+        "value": "铁具铺子主人",
+        "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+        "seq": 248
       }
     ],
     "外貌": [
@@ -57,6 +71,11 @@
         "value": "关切、通透（『你王爷爷喝的不是酒，是人生』）",
         "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
         "seq": 244
+      },
+      {
+        "value": "重情、自豪、恋旧",
+        "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+        "seq": 248
       }
     ],
     "存殁": [
@@ -64,6 +83,13 @@
         "value": "在世",
         "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
         "seq": 244
+      }
+    ],
+    "出身地": [
+      {
+        "value": "朱雀星京都",
+        "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+        "seq": 248
       }
     ]
   },
@@ -77,9 +103,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+      "docId": "plot.xianni-ch235-238-guiyin-fabao",
       "dated": false,
-      "seq": 244
+      "seq": 235
     },
     "外貌": {
       "asOf": null,
@@ -89,15 +115,21 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
       "dated": false,
-      "seq": 244
+      "seq": 248
     },
     "存殁": {
       "asOf": null,
       "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
       "dated": false,
       "seq": 244
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+      "dated": false,
+      "seq": 248
     }
   },
   "contested": false,
@@ -105,7 +137,8 @@
   "docs": [
     "plot.xianni-ch235-238-guiyin-fabao",
     "plot.xianni-ch239-243-huafan-jingdu-mudiao",
-    "plot.xianni-ch244-247-zuling-pai-yijing-ganwu"
+    "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment"
   ],
-  "updatedAt": "2026-08-02T08:12:08.873Z"
+  "updatedAt": "2026-08-02T09:25:44.616Z"
 }

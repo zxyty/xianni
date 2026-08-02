@@ -9,14 +9,20 @@
     "西城",
     "城西",
     "京都西城",
-    "京都街道"
+    "京都街道",
+    "四派联盟京都",
+    "京都城西",
+    "凡人界京都"
   ],
   "summary": "四级修真国凡人都城，城中心立九根仙木，城内可见十余凝气期修士，有面向修士贩卖玉简法宝的店铺（凡人被禁制阻隔）。",
   "attributes": {
-    "类型": "凡人都城、都城、城池、凡人界都城",
-    "所属势力": "四级修真国",
+    "类型": "凡人都城、都城、城池、凡人界都城、凡俗都城",
+    "所属势力": "四派联盟",
     "特产": "仙木、灵气漩涡、修士店铺",
-    "方位": "王林店铺在城西"
+    "方位": "王林店铺在城西",
+    "所属界面": "朱雀星",
+    "危险度": "严寒致死",
+    "守护": "九根黑木（已被雷劈毁）"
   },
   "observations": {
     "类型": [
@@ -39,6 +45,11 @@
         "value": "凡人界都城",
         "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
         "seq": 244
+      },
+      {
+        "value": "凡俗都城",
+        "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+        "seq": 248
       }
     ],
     "所属势力": [
@@ -46,6 +57,11 @@
         "value": "四级修真国",
         "docId": "plot.xianni-ch235-238-guiyin-fabao",
         "seq": 235
+      },
+      {
+        "value": "四派联盟",
+        "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+        "seq": 248
       }
     ],
     "特产": [
@@ -71,6 +87,28 @@
         "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
         "seq": 239
       }
+    ],
+    "所属界面": [
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+        "seq": 248
+      }
+    ],
+    "危险度": [
+      {
+        "value": "严寒致死",
+        "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+        "seq": 248,
+        "note": "第265章大雪期间"
+      }
+    ],
+    "守护": [
+      {
+        "value": "九根黑木（已被雷劈毁）",
+        "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+        "seq": 248
+      }
     ]
   },
   "firstSeq": 235,
@@ -83,9 +121,9 @@
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch235-238-guiyin-fabao",
+      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
       "dated": false,
-      "seq": 235
+      "seq": 248
     },
     "特产": {
       "asOf": null,
@@ -98,6 +136,25 @@
       "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
       "dated": false,
       "seq": 239
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+      "dated": false,
+      "seq": 248
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+      "dated": false,
+      "seq": 248,
+      "note": "第265章大雪期间"
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+      "dated": false,
+      "seq": 248
     }
   },
   "contested": false,
@@ -105,7 +162,8 @@
   "docs": [
     "plot.xianni-ch235-238-guiyin-fabao",
     "plot.xianni-ch239-243-huafan-jingdu-mudiao",
-    "plot.xianni-ch244-247-zuling-pai-yijing-ganwu"
+    "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment"
   ],
-  "updatedAt": "2026-08-02T08:12:08.905Z"
+  "updatedAt": "2026-08-02T09:25:44.551Z"
 }
