@@ -6,13 +6,16 @@
     "王爷",
     "殿上中年男子",
     "当年的南王",
-    "老南王"
+    "老南王",
+    "京都王爷",
+    "孝敬王林的王爷"
   ],
   "summary": "南王府之主，俊朗威严的中年王爷，唯一爱好为收藏各类雕刻品，供养两名道袍修士。",
   "attributes": {
-    "身份": "凡人界王爷（前任）",
+    "身份": "四派联盟境内凡俗王爷",
     "外貌": "俊朗威严的中年男子",
-    "性格": "爱好雕刻品"
+    "性格": "爱好雕刻品",
+    "种族": "凡人"
   },
   "observations": {
     "身份": [
@@ -25,6 +28,11 @@
         "value": "凡人界王爷（前任）",
         "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
         "seq": 248
+      },
+      {
+        "value": "四派联盟境内凡俗王爷",
+        "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+        "seq": 253
       }
     ],
     "外貌": [
@@ -40,15 +48,22 @@
         "docId": "plot.xianni-ch235-238-guiyin-fabao",
         "seq": 235
       }
+    ],
+    "种族": [
+      {
+        "value": "凡人",
+        "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+        "seq": 253
+      }
     ]
   },
   "firstSeq": 235,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+      "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
       "dated": false,
-      "seq": 248
+      "seq": 253
     },
     "外貌": {
       "asOf": null,
@@ -61,13 +76,20 @@
       "docId": "plot.xianni-ch235-238-guiyin-fabao",
       "dated": false,
       "seq": 235
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+      "dated": false,
+      "seq": 253
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch235-238-guiyin-fabao",
-    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment"
+    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+    "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing"
   ],
-  "updatedAt": "2026-08-02T09:25:44.520Z"
+  "updatedAt": "2026-08-02T09:59:32.812Z"
 }

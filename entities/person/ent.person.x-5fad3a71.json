@@ -9,9 +9,12 @@
   ],
   "summary": "大牛之子，天生具修仙灵脉且经王林以丹药改造体质，三年前被白云宗游方修士收为弟子带走，同年由游方道士赐名曾文卓。",
   "attributes": {
-    "身份": "白云宗弟子",
+    "身份": "白云宗新入门弟子",
     "标志特征": "具修仙灵脉，资质比王林当年好上数倍",
-    "出身地": "朱雀星京都"
+    "出身地": "朱雀星京都",
+    "性别": "男",
+    "小阶段": "凝气期",
+    "存殁": "在世"
   },
   "observations": {
     "身份": [
@@ -19,6 +22,11 @@
         "value": "白云宗弟子",
         "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
         "seq": 248
+      },
+      {
+        "value": "白云宗新入门弟子",
+        "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+        "seq": 253
       }
     ],
     "标志特征": [
@@ -34,15 +42,36 @@
         "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
         "seq": 248
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+        "seq": 253
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "凝气期",
+        "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+        "seq": 253
+      }
+    ],
+    "存殁": [
+      {
+        "value": "在世",
+        "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+        "seq": 253
+      }
     ]
   },
   "firstSeq": 248,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+      "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
       "dated": false,
-      "seq": 248
+      "seq": 253
     },
     "标志特征": {
       "asOf": null,
@@ -55,12 +84,31 @@
       "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
       "dated": false,
       "seq": 248
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+      "dated": false,
+      "seq": 253
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+      "dated": false,
+      "seq": 253
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+      "dated": false,
+      "seq": 253
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment"
+    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+    "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing"
   ],
-  "updatedAt": "2026-08-02T09:25:44.516Z"
+  "updatedAt": "2026-08-02T09:59:32.899Z"
 }

@@ -4,13 +4,16 @@
   "name": "凡人老街",
   "aliases": [
     "老街",
-    "王林居住的街道"
+    "王林居住的街道",
+    "王林居住的老街",
+    "十户九空的街道"
   ],
   "summary": "王林居住十多年的凡人街道，大部分店铺已成其产业，街坊几乎家家欠租。",
   "attributes": {
-    "类型": "凡俗街市",
-    "特产": "木雕、铁具",
-    "方位": "通向街口"
+    "类型": "凡人街道",
+    "特产": "木雕、铁具、王林的木雕",
+    "方位": "通向街口",
+    "所属势力": "四派联盟"
   },
   "observations": {
     "类型": [
@@ -18,6 +21,11 @@
         "value": "凡俗街市",
         "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
         "seq": 244
+      },
+      {
+        "value": "凡人街道",
+        "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+        "seq": 253
       }
     ],
     "特产": [
@@ -30,6 +38,11 @@
         "value": "铁具",
         "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
         "seq": 244
+      },
+      {
+        "value": "王林的木雕",
+        "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+        "seq": 253
       }
     ],
     "方位": [
@@ -38,15 +51,22 @@
         "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
         "seq": 244
       }
+    ],
+    "所属势力": [
+      {
+        "value": "四派联盟",
+        "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+        "seq": 253
+      }
     ]
   },
   "firstSeq": 244,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+      "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
       "dated": false,
-      "seq": 244
+      "seq": 253
     },
     "特产": {
       "asOf": null,
@@ -59,12 +79,19 @@
       "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
       "dated": false,
       "seq": 244
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+      "dated": false,
+      "seq": 253
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch244-247-zuling-pai-yijing-ganwu"
+    "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+    "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing"
   ],
-  "updatedAt": "2026-08-02T08:12:08.883Z"
+  "updatedAt": "2026-08-02T09:59:32.910Z"
 }
