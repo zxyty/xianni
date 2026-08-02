@@ -7,14 +7,18 @@
     "银光细丝",
     "仙界之粮",
     "细线",
-    "墙壁细线"
+    "墙壁细线",
+    "仙粮",
+    "仙界细丝",
+    "细丝群",
+    "线团"
   ],
   "summary": "仙兽最喜的食物型生物，呈细丝状，钻入修士眉心即吞噬全身血肉；纯靠攻击、无法术神通且畏惧法术神通，一道剑气可斩断。",
   "attributes": {
-    "能力": "钻入眉心吞噬血肉、伪装诱饵（藏于骸骨手中光团）、群体追击、附壁扑袭",
-    "栖息地": "仙兽府深处、仙兽府洞穴墙壁",
-    "天敌": "法术神通、剑气",
-    "外形": "细丝状，化作银光疾驰、细丝/细线"
+    "能力": "钻入眉心吞噬血肉、伪装诱饵（藏于骸骨手中光团）、群体追击、附壁扑袭、无穷无尽地涌出、扑食活物、吞噬血肉",
+    "栖息地": "仙兽府深处、仙兽府洞穴墙壁、仙兽府黑色洞穴内",
+    "天敌": "法术神通、剑气、七彩之烟、雷球、剑气",
+    "外形": "细丝状，化作银光疾驰、细丝/细线、巨大线团，其上飞出无数相互连接的蠕动细线"
   },
   "observations": {
     "能力": [
@@ -32,6 +36,16 @@
         "value": "群体追击、附壁扑袭",
         "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
         "seq": 281
+      },
+      {
+        "value": "无穷无尽地涌出",
+        "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+        "seq": 285
+      },
+      {
+        "value": "扑食活物、吞噬血肉",
+        "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+        "seq": 285
       }
     ],
     "栖息地": [
@@ -44,6 +58,11 @@
         "value": "仙兽府洞穴墙壁",
         "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
         "seq": 281
+      },
+      {
+        "value": "仙兽府黑色洞穴内",
+        "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+        "seq": 285
       }
     ],
     "天敌": [
@@ -51,6 +70,21 @@
         "value": "法术神通、剑气",
         "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
         "seq": 281
+      },
+      {
+        "value": "七彩之烟",
+        "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+        "seq": 285
+      },
+      {
+        "value": "雷球",
+        "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+        "seq": 285
+      },
+      {
+        "value": "剑气",
+        "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+        "seq": 285
       }
     ],
     "外形": [
@@ -63,6 +97,11 @@
         "value": "细丝/细线",
         "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
         "seq": 281
+      },
+      {
+        "value": "巨大线团，其上飞出无数相互连接的蠕动细线",
+        "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+        "seq": 285
       }
     ]
   },
@@ -96,7 +135,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush"
+    "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
+    "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal"
   ],
-  "updatedAt": "2026-08-02T14:43:22.180Z"
+  "updatedAt": "2026-08-02T15:12:09.033Z"
 }

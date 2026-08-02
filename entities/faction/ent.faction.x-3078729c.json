@@ -11,7 +11,8 @@
   "attributes": {
     "镇派之宝": "大罗剑宗七剑、洗灵葫、仙麒兽灵",
     "理念": "以不设禁制的隐蔽手法秘密独占仙气产地、剑修、弟子须完成收取仙界之气结晶的最低要求",
-    "据点": "仙界之门内活动"
+    "据点": "仙界之门内活动",
+    "所属界面": "朱雀星"
   },
   "observations": {
     "镇派之宝": [
@@ -56,6 +57,13 @@
         "seq": 276,
         "note": "第297章时四人已进入仙界碎片"
       }
+    ],
+    "所属界面": [
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+        "seq": 285
+      }
     ]
   },
   "firstSeq": 276,
@@ -79,13 +87,20 @@
       "dated": false,
       "seq": 276,
       "note": "第297章时四人已进入仙界碎片"
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+      "dated": false,
+      "seq": 285
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
-    "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush"
+    "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
+    "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal"
   ],
-  "updatedAt": "2026-08-02T14:43:22.155Z"
+  "updatedAt": "2026-08-02T15:12:09.105Z"
 }

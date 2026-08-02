@@ -12,12 +12,13 @@
     "李慕婉玉简",
     "云妃玉简",
     "岐黄门玉简",
-    "周武德玉简"
+    "周武德玉简",
+    "七彩之烟玉简"
   ],
   "summary": "尸阴宗唯一身份凭证，按颜色分始祖青/师祖深蓝/长老淡蓝/弟子白；封印弟子魂魄以受上级控制。",
   "attributes": {
-    "类型": "传讯物",
-    "用途": "标识身份、封印魂魄、上控下、通过护山大阵光幕、记录离开第三关之手诀、记载岐黄门丹药配方、记录珍贵丹方、记录斗邪派青龙法阵、记载岐黄门丹方、地理与传送阵信息、传递消息",
+    "类型": "一次性消耗法物",
+    "用途": "标识身份、封印魂魄、上控下、通过护山大阵光幕、记录离开第三关之手诀、记载岐黄门丹药配方、记录珍贵丹方、记录斗邪派青龙法阵、记载岐黄门丹方、地理与传送阵信息、传递消息、碎裂放出七彩之烟，令细丝扭曲坠地抽动",
     "产地": "岐黄门"
   },
   "observations": {
@@ -56,6 +57,11 @@
         "value": "传讯物",
         "docId": "plot.xianni-ch274-underground-ice-sculpture",
         "seq": 258
+      },
+      {
+        "value": "一次性消耗法物",
+        "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+        "seq": 285
       }
     ],
     "用途": [
@@ -103,6 +109,11 @@
         "value": "传递消息",
         "docId": "plot.xianni-ch274-underground-ice-sculpture",
         "seq": 258
+      },
+      {
+        "value": "碎裂放出七彩之烟，令细丝扭曲坠地抽动",
+        "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+        "seq": 285
       }
     ],
     "产地": [
@@ -117,9 +128,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch274-underground-ice-sculpture",
+      "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
       "dated": false,
-      "seq": 258
+      "seq": 285
     },
     "用途": {
       "asOf": null,
@@ -145,7 +156,8 @@
     "plot.xianni-ch186-187-two-hundred-years-silence",
     "plot.xianni-ch219-dongyuan-lingyuan-heist",
     "plot.xianni-ch232-jian-qiao",
-    "plot.xianni-ch274-underground-ice-sculpture"
+    "plot.xianni-ch274-underground-ice-sculpture",
+    "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal"
   ],
-  "updatedAt": "2026-08-02T10:32:25.385Z"
+  "updatedAt": "2026-08-02T15:12:09.030Z"
 }

@@ -4,14 +4,19 @@
   "name": "仙剑",
   "aliases": [
     "骸骨手中的飞剑",
-    "宝剑"
+    "宝剑",
+    "尸骸手中仙剑",
+    "金光仙剑",
+    "玉棺三把仙剑",
+    "骸骨手中的仙剑"
   ],
   "summary": "骸骨手持之飞剑，属性不明但绝非凡物；剑上有威力极大的禁制与庞大威压，非长时间祭炼无法拿起。",
   "attributes": {
-    "品阶": "仙器",
-    "禁制": "威力极大，触之出现血点，需长时间祭炼方可持有",
+    "品阶": "仙剑",
+    "禁制": "触碰即爆发金光，刺出血粼粼伤口并熔化护甲",
     "五行属性": "不明",
-    "来历": "仙兽府骸骨洞穴内的骸骨手持"
+    "来历": "仙界碎片洞穴内尸骸",
+    "外形": "尸骸手中所握之剑、三把插于玉石棺材之上"
   },
   "observations": {
     "品阶": [
@@ -19,6 +24,11 @@
         "value": "仙器",
         "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
         "seq": 281
+      },
+      {
+        "value": "仙剑",
+        "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+        "seq": 285
       }
     ],
     "禁制": [
@@ -26,6 +36,11 @@
         "value": "威力极大，触之出现血点，需长时间祭炼方可持有",
         "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
         "seq": 281
+      },
+      {
+        "value": "触碰即爆发金光，刺出血粼粼伤口并熔化护甲",
+        "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+        "seq": 285
       }
     ],
     "五行属性": [
@@ -40,6 +55,23 @@
         "value": "仙兽府骸骨洞穴内的骸骨手持",
         "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
         "seq": 281
+      },
+      {
+        "value": "仙界碎片洞穴内尸骸",
+        "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+        "seq": 285
+      }
+    ],
+    "外形": [
+      {
+        "value": "尸骸手中所握之剑",
+        "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+        "seq": 285
+      },
+      {
+        "value": "三把插于玉石棺材之上",
+        "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+        "seq": 285
       }
     ]
   },
@@ -47,15 +79,15 @@
   "attrProvenance": {
     "品阶": {
       "asOf": null,
-      "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
+      "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
       "dated": false,
-      "seq": 281
+      "seq": 285
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
+      "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
       "dated": false,
-      "seq": 281
+      "seq": 285
     },
     "五行属性": {
       "asOf": null,
@@ -65,15 +97,22 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
+      "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
       "dated": false,
-      "seq": 281
+      "seq": 285
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+      "dated": false,
+      "seq": 285
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush"
+    "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
+    "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal"
   ],
-  "updatedAt": "2026-08-02T14:43:22.173Z"
+  "updatedAt": "2026-08-02T15:12:09.091Z"
 }

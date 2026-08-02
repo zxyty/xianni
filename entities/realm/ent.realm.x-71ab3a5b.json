@@ -13,7 +13,8 @@
   "attributes": {
     "阶序": "婴变期之上",
     "小阶段": "问鼎初期、问鼎中期、问鼎后期",
-    "下一境": "婴变期"
+    "下一境": "婴变期",
+    "上一境": "婴变期"
   },
   "observations": {
     "阶序": [
@@ -46,6 +47,13 @@
         "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
         "seq": 273
       }
+    ],
+    "上一境": [
+      {
+        "value": "婴变期",
+        "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+        "seq": 285
+      }
     ]
   },
   "firstSeq": 273,
@@ -67,12 +75,19 @@
       "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
       "dated": false,
       "seq": 273
+    },
+    "上一境": {
+      "asOf": null,
+      "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+      "dated": false,
+      "seq": 285
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch289-ancient-god-sacrifice-treasure"
+    "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+    "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal"
   ],
-  "updatedAt": "2026-08-02T13:59:47.867Z"
+  "updatedAt": "2026-08-02T15:12:09.099Z"
 }
