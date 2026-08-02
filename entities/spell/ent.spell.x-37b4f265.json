@@ -2,12 +2,14 @@
   "id": "ent.spell.x-37b4f265",
   "type": "spell",
   "name": "水幕",
-  "aliases": [],
+  "aliases": [
+    "水幕术"
+  ],
   "summary": "玄道宗柳风的水系法术，聚水滴成幕可化解并原样折射反弹剑气。",
   "attributes": {
-    "类型": "防御",
+    "类型": "防御法术",
     "出处": "玄道宗",
-    "威力": "需凝气期八层以上方可破解",
+    "威力": "仅短暂阻挡该火焰",
     "适用境界": "凝气期"
   },
   "observations": {
@@ -21,6 +23,11 @@
         "value": "防御",
         "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
         "seq": 49
+      },
+      {
+        "value": "防御法术",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
       }
     ],
     "出处": [
@@ -35,6 +42,11 @@
         "value": "需凝气期八层以上方可破解",
         "docId": "plot.xianni-ch43-48-lishan-pilidan-shenshi",
         "seq": 43
+      },
+      {
+        "value": "仅短暂阻挡该火焰",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
       }
     ],
     "适用境界": [
@@ -49,9 +61,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+      "docId": "plot.xianni-ch274-underground-ice-sculpture",
       "dated": false,
-      "seq": 49
+      "seq": 258
     },
     "出处": {
       "asOf": null,
@@ -61,9 +73,9 @@
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-ch43-48-lishan-pilidan-shenshi",
+      "docId": "plot.xianni-ch274-underground-ice-sculpture",
       "dated": false,
-      "seq": 43
+      "seq": 258
     },
     "适用境界": {
       "asOf": null,
@@ -76,7 +88,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch43-48-lishan-pilidan-shenshi",
-    "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi"
+    "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+    "plot.xianni-ch274-underground-ice-sculpture"
   ],
-  "updatedAt": "2026-06-22T12:48:22.469Z"
+  "updatedAt": "2026-08-02T10:32:25.334Z"
 }

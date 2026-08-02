@@ -4,13 +4,15 @@
   "name": "黑色毛笔",
   "aliases": [
     "黑气毛笔",
-    "黑魂派毛笔"
+    "黑魂派毛笔",
+    "自行挥动的毛笔",
+    "黑魂派黑色毛笔"
   ],
   "summary": "黑魂派镇派底牌，由全派升起的无数黑色气体交错凝成，看似平凡却一出即风云色变，令铜鼎红衣老者与黑岩锁链老者露出惊容。",
   "attributes": {
-    "持有者": "黑魂派持笔青年",
-    "外形": "看似极为平凡的黑色毛笔",
-    "能力": "一出风云色变，威势镇住其余两派底牌持有者",
+    "持有者": "黑魂派毛笔年轻人",
+    "外形": "黑色毛笔",
+    "能力": "一出风云色变，威势镇住其余两派底牌持有者、自行挥动、虚空轻划伤敌",
     "来历": "由黑魂派内无数黑色气体交错凝成"
   },
   "observations": {
@@ -19,6 +21,11 @@
         "value": "黑魂派持笔青年",
         "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
         "seq": 253
+      },
+      {
+        "value": "黑魂派毛笔年轻人",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
       }
     ],
     "外形": [
@@ -26,6 +33,11 @@
         "value": "看似极为平凡的黑色毛笔",
         "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
         "seq": 253
+      },
+      {
+        "value": "黑色毛笔",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
       }
     ],
     "能力": [
@@ -33,6 +45,16 @@
         "value": "一出风云色变，威势镇住其余两派底牌持有者",
         "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
         "seq": 253
+      },
+      {
+        "value": "自行挥动",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
+      },
+      {
+        "value": "虚空轻划伤敌",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
       }
     ],
     "来历": [
@@ -47,15 +69,15 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+      "docId": "plot.xianni-ch274-underground-ice-sculpture",
       "dated": false,
-      "seq": 253
+      "seq": 258
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+      "docId": "plot.xianni-ch274-underground-ice-sculpture",
       "dated": false,
-      "seq": 253
+      "seq": 258
     },
     "能力": {
       "asOf": null,
@@ -73,7 +95,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing"
+    "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+    "plot.xianni-ch274-underground-ice-sculpture"
   ],
-  "updatedAt": "2026-08-02T09:59:32.948Z"
+  "updatedAt": "2026-08-02T10:32:25.308Z"
 }

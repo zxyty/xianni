@@ -12,15 +12,18 @@
     "雪域星",
     "Snow Domain",
     "雪域国修真界",
-    "Xueyu"
+    "Xueyu",
+    "Snow Domain cultivators",
+    "Xueyu Guo"
   ],
   "summary": "朱雀星上物资极为缺乏却攀升至四级的修真国，位于极北冰雪之地，功法多与冰雪相关，为利益发动对四派联盟的战争。",
   "attributes": {
     "等级": "谋求攀升至五级修真国",
-    "据点": "极北冰雪之地",
+    "据点": "雪域国",
     "所属界面": "朱雀星",
-    "理念": "为利益扩张，入侵前先降不化之雪、以灭国之战夺取四派联盟之地作为新国址、以冰雪寒气覆压全境、夺取四派联盟之地作为雪域修士新的国址",
-    "阵营": "雨鼎争夺战另一方、四派联盟之敌、入侵四派联盟一方、攻方（外来入侵）"
+    "理念": "为利益扩张，入侵前先降不化之雪、以灭国之战夺取四派联盟之地作为新国址、以冰雪寒气覆压全境、夺取四派联盟之地作为雪域修士新的国址、先降大雪再进攻，以冰雪为法宝与补给、族群体制，无门派",
+    "阵营": "雨鼎争夺战另一方、四派联盟之敌、入侵四派联盟一方、攻方（外来入侵）、与四派联盟交战方、与四派联盟敌对、进攻方",
+    "镇派之宝": "冰雪塔"
   },
   "observations": {
     "等级": [
@@ -41,6 +44,11 @@
         "value": "极北冰雪之地",
         "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
         "seq": 248
+      },
+      {
+        "value": "雪域国",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
       }
     ],
     "所属界面": [
@@ -70,6 +78,16 @@
         "value": "夺取四派联盟之地作为雪域修士新的国址",
         "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
         "seq": 253
+      },
+      {
+        "value": "先降大雪再进攻，以冰雪为法宝与补给",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
+      },
+      {
+        "value": "族群体制，无门派",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
       }
     ],
     "阵营": [
@@ -92,6 +110,28 @@
         "value": "攻方（外来入侵）",
         "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
         "seq": 253
+      },
+      {
+        "value": "与四派联盟交战方",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
+      },
+      {
+        "value": "与四派联盟敌对",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
+      },
+      {
+        "value": "进攻方",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "冰雪塔",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
       }
     ]
   },
@@ -106,9 +146,9 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+      "docId": "plot.xianni-ch274-underground-ice-sculpture",
       "dated": false,
-      "seq": 248
+      "seq": 258
     },
     "所属界面": {
       "asOf": null,
@@ -127,13 +167,20 @@
       "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
       "dated": false,
       "seq": 248
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch274-underground-ice-sculpture",
+      "dated": false,
+      "seq": 258
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
-    "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing"
+    "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+    "plot.xianni-ch274-underground-ice-sculpture"
   ],
-  "updatedAt": "2026-08-02T09:59:32.943Z"
+  "updatedAt": "2026-08-02T10:32:25.406Z"
 }
