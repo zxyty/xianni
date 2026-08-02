@@ -4,13 +4,16 @@
   "name": "红色蛟龙",
   "aliases": [
     "红光",
-    "红影"
+    "红影",
+    "红蛟",
+    "寄生于万丈蛟龙体内的红色蛟龙"
   ],
   "summary": "寄生蛟蛇的真正本体，具荒兽神通；如元婴出体般离蛇身而出，追杀孟驼子后返回搜寻取髓者未果，并与触角黑影大战受伤。",
   "attributes": {
     "血脉": "荒兽本体",
-    "能力": "荒兽神通、撞碎数百丈石块、一定灵智",
-    "外形": "红色蛟龙，电光闪烁"
+    "能力": "荒兽神通、撞碎数百丈石块、一定灵智、血球炼灵兽魂魄、血色波环碎石成末、身缩弹射急速",
+    "外形": "红色蛟龙，电光闪烁",
+    "栖息地": "古神之地通道深处黑暗之地"
   },
   "observations": {
     "血脉": [
@@ -35,6 +38,21 @@
         "value": "一定灵智",
         "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
         "seq": 155
+      },
+      {
+        "value": "血球炼灵兽魂魄",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      },
+      {
+        "value": "血色波环碎石成末",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      },
+      {
+        "value": "身缩弹射急速",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
       }
     ],
     "外形": [
@@ -42,6 +60,13 @@
         "value": "红色蛟龙，电光闪烁",
         "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
         "seq": 155
+      }
+    ],
+    "栖息地": [
+      {
+        "value": "古神之地通道深处黑暗之地",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
       }
     ]
   },
@@ -64,12 +89,19 @@
       "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
       "dated": false,
       "seq": 155
+    },
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+      "dated": false,
+      "seq": 273
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch155-157-tuoli-duiwu-quisui"
+    "plot.xianni-ch155-157-tuoli-duiwu-quisui",
+    "plot.xianni-ch289-ancient-god-sacrifice-treasure"
   ],
-  "updatedAt": "2026-07-06T16:00:48.983Z"
+  "updatedAt": "2026-08-02T13:59:47.824Z"
 }

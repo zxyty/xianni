@@ -3,12 +3,14 @@
   "type": "technique",
   "name": "残影禁制",
   "aliases": [
-    "残影禁制之法"
+    "残影禁制之法",
+    "残影禁制阵法"
   ],
   "summary": "王林所施的禁制手段，双手连连挥动打出一道道残影，可蒸腾破解掩饰虚空裂缝的禁制。",
   "attributes": {
     "效果": "破解、揭开掩饰性禁制",
-    "修炼条件": "精通禁制之道"
+    "修炼条件": "精通禁制之道",
+    "适用境界": "化神"
   },
   "observations": {
     "效果": [
@@ -23,6 +25,13 @@
         "value": "精通禁制之道",
         "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
         "seq": 248
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "化神",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
       }
     ]
   },
@@ -39,12 +48,19 @@
       "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
       "dated": false,
       "seq": 248
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+      "dated": false,
+      "seq": 273
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment"
+    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+    "plot.xianni-ch289-ancient-god-sacrifice-treasure"
   ],
-  "updatedAt": "2026-08-02T09:25:44.556Z"
+  "updatedAt": "2026-08-02T13:59:47.807Z"
 }

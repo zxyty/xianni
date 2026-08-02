@@ -2,10 +2,13 @@
   "id": "ent.beast.x-56300ad3",
   "type": "beast",
   "name": "荒兽",
-  "aliases": [],
+  "aliases": [
+    "古神之地荒兽"
+  ],
   "summary": "妖灵之兽在黑雨淋洒下实力攀升后出现的更强兽类。",
   "attributes": {
-    "栖息地": "修魔海"
+    "栖息地": "修魔海、古神之地通道内、古神之地通道更深处",
+    "等级": "高于寻常灵兽、相当于大神通修士"
   },
   "observations": {
     "栖息地": [
@@ -13,6 +16,28 @@
         "value": "修魔海",
         "docId": "plot.xianni-ch226-leave-chu-country",
         "seq": 210
+      },
+      {
+        "value": "古神之地通道内",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      },
+      {
+        "value": "古神之地通道更深处",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      }
+    ],
+    "等级": [
+      {
+        "value": "高于寻常灵兽",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
+      },
+      {
+        "value": "相当于大神通修士",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
       }
     ]
   },
@@ -23,12 +48,19 @@
       "docId": "plot.xianni-ch226-leave-chu-country",
       "dated": false,
       "seq": 210
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+      "dated": false,
+      "seq": 273
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch226-leave-chu-country"
+    "plot.xianni-ch226-leave-chu-country",
+    "plot.xianni-ch289-ancient-god-sacrifice-treasure"
   ],
-  "updatedAt": "2026-07-18T10:39:12.521Z"
+  "updatedAt": "2026-08-02T13:59:47.826Z"
 }

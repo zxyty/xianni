@@ -71,3 +71,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-02T10:32:25.461Z** `ingest` plot.xianni-ch274-underground-ice-sculpture — 仙逆 第274章 地下冰雕：五行之灵对阵四派、雪域修士冰雪巨人开战 · kind=plot asOf=2026-08-02 entities=97 relations=173 src=00258-00262.md
 - **2026-08-02T10:56:50.793Z** `ingest` plot.xianni-ch263-267-tianni-change-xueyu-country — 仙逆 第263-267章 天逆珠五行光团之变与雪域国冰雕傀儡 · kind=plot asOf=2026-08-02 entities=84 relations=157 src=00263-00267.md
 - **2026-08-02T13:31:26.176Z** `ingest` plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu — 仙逆 第268-272章 剥极·处化：本尊散功剥离极境，走上古神之路 · kind=plot asOf=2026-08-02 entities=75 relations=131 src=00268-00272.md
+- **2026-08-02T13:59:47.908Z** `ingest` plot.xianni-ch289-ancient-god-sacrifice-treasure — 仙逆 第289章 古神祭宝：王林乘蚊兽赴修魔海碎星乱 · kind=plot asOf=2026-08-02 entities=85 relations=136 src=00273-00275.md

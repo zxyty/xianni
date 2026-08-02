@@ -3,15 +3,18 @@
   "type": "artifact",
   "name": "青松岁月意境木雕",
   "aliases": [
-    "青衫老者木雕"
+    "青衫老者木雕",
+    "岁月雕像",
+    "青衫老者岁月雕像"
   ],
   "summary": "王林所雕木雕，其上刻出青松师叔的岁月意境，被评价为相当于元婴期中最顶级的法宝之流；曾赠周武泰又被退还。",
   "attributes": {
     "品阶": "相当于元婴期最顶级法宝之流",
     "持有者": "王林",
-    "能力": "承载岁月意境、可供旁人感悟岁月意境、施展时使剑气凝滞",
-    "外形": "青衫老者木雕",
-    "来历": "王林雕刻，刻出白云宗青松师叔的岁月意境"
+    "能力": "承载岁月意境、可供旁人感悟岁月意境、施展时使剑气凝滞、以血与晶芒逐条凝练血色经脉",
+    "外形": "青衫老者的岁月雕像，内有三十余条游走血色经脉",
+    "来历": "王林雕刻，刻出白云宗青松师叔的岁月意境",
+    "禁制": "内部血痕游走时一闪而过，彼此从不碰触"
   },
   "observations": {
     "品阶": [
@@ -43,6 +46,12 @@
         "value": "施展时使剑气凝滞",
         "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
         "seq": 248
+      },
+      {
+        "value": "以血与晶芒逐条凝练血色经脉",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273,
+        "note": "第289章仍在祭炼中，效用未明"
       }
     ],
     "外形": [
@@ -50,6 +59,11 @@
         "value": "青衫老者木雕",
         "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
         "seq": 248
+      },
+      {
+        "value": "青衫老者的岁月雕像，内有三十余条游走血色经脉",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
       }
     ],
     "来历": [
@@ -57,6 +71,13 @@
         "value": "王林雕刻，刻出白云宗青松师叔的岁月意境",
         "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
         "seq": 248
+      }
+    ],
+    "禁制": [
+      {
+        "value": "内部血痕游走时一闪而过，彼此从不碰触",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
       }
     ]
   },
@@ -82,21 +103,28 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+      "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
       "dated": false,
-      "seq": 248
+      "seq": 273
     },
     "来历": {
       "asOf": null,
       "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
       "dated": false,
       "seq": 248
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+      "dated": false,
+      "seq": 273
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment"
+    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+    "plot.xianni-ch289-ancient-god-sacrifice-treasure"
   ],
-  "updatedAt": "2026-08-02T09:25:44.586Z"
+  "updatedAt": "2026-08-02T13:59:47.755Z"
 }

@@ -3,14 +3,15 @@
   "type": "material",
   "name": "墨间石",
   "aliases": [
-    "祭炼禁幡之石"
+    "祭炼禁幡之石",
+    "墨涧石"
   ],
   "summary": "制作禁幡的必需材料，不产自任何星球，产自星空之中；古神体内识海存有数颗，每个领悟者可得一块。",
   "attributes": {
     "类型": "祭炼材料",
-    "用途": "制作禁幡的必需材料、炼制禁幡主料、制作禁幡、炼制禁幡（主料）、催化融合诸料以制禁幡、祭炼禁幡、炼入禁幡、炼制禁制之门、连接本尊与分身、炼制禁幡",
+    "用途": "制作禁幡的必需材料、炼制禁幡主料、制作禁幡、炼制禁幡（主料）、催化融合诸料以制禁幡、祭炼禁幡、炼入禁幡、炼制禁制之门、连接本尊与分身、炼制禁幡、祭炼禁幡的核心本体",
     "产地": "古神识海",
-    "稀有度": "极稀缺"
+    "稀有度": "稀有（王林认为若禁幡毁则难以再得）"
   },
   "observations": {
     "类型": [
@@ -80,6 +81,11 @@
         "value": "炼制禁幡",
         "docId": "plot.xianni-ch226-leave-chu-country",
         "seq": 210
+      },
+      {
+        "value": "祭炼禁幡的核心本体",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
       }
     ],
     "产地": [
@@ -115,6 +121,11 @@
         "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
         "seq": 268,
         "note": "王林手中仅余最后一块"
+      },
+      {
+        "value": "稀有（王林认为若禁幡毁则难以再得）",
+        "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+        "seq": 273
       }
     ]
   },
@@ -140,10 +151,9 @@
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
+      "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
       "dated": false,
-      "seq": 268,
-      "note": "王林手中仅余最后一块"
+      "seq": 273
     }
   },
   "contested": false,
@@ -157,7 +167,8 @@
     "plot.xianni-ch207-killing-for-cores",
     "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
     "plot.xianni-ch226-leave-chu-country",
-    "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu"
+    "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
+    "plot.xianni-ch289-ancient-god-sacrifice-treasure"
   ],
-  "updatedAt": "2026-08-02T13:31:26.128Z"
+  "updatedAt": "2026-08-02T13:59:47.804Z"
 }
