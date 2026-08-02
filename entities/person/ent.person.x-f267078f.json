@@ -3,14 +3,17 @@
   "type": "person",
   "name": "白云宗青衫老者",
   "aliases": [
-    "岁月意境老者"
+    "岁月意境老者",
+    "掌握岁月意境的青衫老者"
   ],
   "summary": "白云宗化神修士，意境为「岁月」，可自眉心黑口射出飞剑，使敌手灵力生命力飞速流逝。",
   "attributes": {
     "身份": "白云宗化神修士",
     "外貌": "青衫老者",
-    "标志特征": "藏于眉心的手掌大小飞剑",
-    "称号": "岁月意境"
+    "标志特征": "掌握岁月意境",
+    "称号": "岁月意境",
+    "性别": "男",
+    "阵营": "四派联盟"
   },
   "observations": {
     "身份": [
@@ -37,6 +40,11 @@
         "value": "藏于眉心的手掌大小飞剑",
         "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
         "seq": 244
+      },
+      {
+        "value": "掌握岁月意境",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
       }
     ],
     "称号": [
@@ -44,6 +52,20 @@
         "value": "岁月意境",
         "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
         "seq": 248
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
+      }
+    ],
+    "阵营": [
+      {
+        "value": "四派联盟",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
       }
     ]
   },
@@ -63,22 +85,35 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+      "docId": "plot.xianni-ch274-underground-ice-sculpture",
       "dated": false,
-      "seq": 244
+      "seq": 258
     },
     "称号": {
       "asOf": null,
       "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
       "dated": false,
       "seq": 248
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch274-underground-ice-sculpture",
+      "dated": false,
+      "seq": 258
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch274-underground-ice-sculpture",
+      "dated": false,
+      "seq": 258
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
-    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment"
+    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+    "plot.xianni-ch274-underground-ice-sculpture"
   ],
-  "updatedAt": "2026-08-02T09:25:44.469Z"
+  "updatedAt": "2026-08-02T10:32:25.347Z"
 }

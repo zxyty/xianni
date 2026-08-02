@@ -5,13 +5,15 @@
   "aliases": [
     "老妪",
     "白云宗化神老妪",
-    "老婆子"
+    "老婆子",
+    "白云宗老妇"
   ],
   "summary": "白云宗化神修士，意境为安逸之境，吐粉色灵气助王林感悟，感慨当年化神时无此机缘。",
   "attributes": {
     "性别": "女",
     "身份": "白云宗化神修士、王林木雕题材（旧识）",
-    "外貌": "目光昏暗的老妪"
+    "外貌": "老妪",
+    "阵营": "四派联盟"
   },
   "observations": {
     "性别": [
@@ -38,6 +40,18 @@
         "value": "目光昏暗的老妪",
         "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
         "seq": 244
+      },
+      {
+        "value": "老妪",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
+      }
+    ],
+    "阵营": [
+      {
+        "value": "四派联盟",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
       }
     ]
   },
@@ -57,15 +71,22 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+      "docId": "plot.xianni-ch274-underground-ice-sculpture",
       "dated": false,
-      "seq": 244
+      "seq": 258
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch274-underground-ice-sculpture",
+      "dated": false,
+      "seq": 258
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch244-247-zuling-pai-yijing-ganwu"
+    "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+    "plot.xianni-ch274-underground-ice-sculpture"
   ],
-  "updatedAt": "2026-08-02T08:12:08.878Z"
+  "updatedAt": "2026-08-02T10:32:25.350Z"
 }

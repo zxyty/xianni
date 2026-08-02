@@ -6,15 +6,26 @@
     "白衣女子",
     "白衣胜雪女子",
     "雪域女修",
-    "雪域领袖白衣女子"
+    "雪域领袖白衣女子",
+    "天空中的白衣女子",
+    "半空中的白衣女子",
+    "疑似天之骄女",
+    "疑似红蝶者",
+    "持七羽扇白衣女修"
   ],
   "summary": "自四派联盟正中裂缝走出的雪域修士，抬手点虚空即令遮天阵法如镜碎裂，率无数白衣修士降临。",
   "attributes": {
     "性别": "女",
-    "阵营": "雪域国、雪域",
-    "外貌": "身穿白衣好似胜雪，相貌并非绝美，气质寒冷如寒冬、白衣，目光冰冷",
-    "身份": "雪域降临的领头修士、雪域入侵大军的统领",
-    "标志特征": "掐印放五彩之光，化出五个一模一样的女子（非分身）"
+    "阵营": "雪域国、雪域、雪域修士、雪域一方",
+    "外貌": "身穿白衣好似胜雪，相貌并非绝美，气质寒冷如寒冬、白衣，目光冰冷、白衣、白衣女子",
+    "身份": "雪域降临的领头修士、雪域入侵大军的统领、疑似雪域天之骄女红蝶",
+    "标志特征": "掐印放五彩之光，化出五个一模一样的女子（非分身）",
+    "性格": "冷漠",
+    "称号": "天之骄女",
+    "本命法宝": "七根大羽毛组成的扇子",
+    "存殁": "死亡",
+    "死因": "被四派联盟九人杀阵（五名化神后期＋四名特殊意境者）合击，身体化作血雾",
+    "结局": "身死，宝扇被化神后期修士夺走"
   },
   "observations": {
     "性别": [
@@ -34,6 +45,16 @@
         "value": "雪域",
         "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
         "seq": 253
+      },
+      {
+        "value": "雪域修士",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
+      },
+      {
+        "value": "雪域一方",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
       }
     ],
     "外貌": [
@@ -46,6 +67,16 @@
         "value": "白衣，目光冰冷",
         "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
         "seq": 253
+      },
+      {
+        "value": "白衣",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
+      },
+      {
+        "value": "白衣女子",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
       }
     ],
     "身份": [
@@ -58,6 +89,12 @@
         "value": "雪域入侵大军的统领",
         "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
         "seq": 253
+      },
+      {
+        "value": "疑似雪域天之骄女红蝶",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258,
+        "note": "咒云当面询问，她未回答，本章未证实"
       }
     ],
     "标志特征": [
@@ -65,6 +102,49 @@
         "value": "掐印放五彩之光，化出五个一模一样的女子（非分身）",
         "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
         "seq": 253
+      }
+    ],
+    "性格": [
+      {
+        "value": "冷漠",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
+      }
+    ],
+    "称号": [
+      {
+        "value": "天之骄女",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258,
+        "note": "四派联盟猜测，尚无法确定"
+      }
+    ],
+    "本命法宝": [
+      {
+        "value": "七根大羽毛组成的扇子",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
+      }
+    ],
+    "死因": [
+      {
+        "value": "被四派联盟九人杀阵（五名化神后期＋四名特殊意境者）合击，身体化作血雾",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
+      }
+    ],
+    "结局": [
+      {
+        "value": "身死，宝扇被化神后期修士夺走",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
       }
     ]
   },
@@ -99,12 +179,50 @@
       "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
       "dated": false,
       "seq": 253
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch274-underground-ice-sculpture",
+      "dated": false,
+      "seq": 258
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch274-underground-ice-sculpture",
+      "dated": false,
+      "seq": 258,
+      "note": "四派联盟猜测，尚无法确定"
+    },
+    "本命法宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch274-underground-ice-sculpture",
+      "dated": false,
+      "seq": 258
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch274-underground-ice-sculpture",
+      "dated": false,
+      "seq": 258
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch274-underground-ice-sculpture",
+      "dated": false,
+      "seq": 258
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch274-underground-ice-sculpture",
+      "dated": false,
+      "seq": 258
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing"
+    "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+    "plot.xianni-ch274-underground-ice-sculpture"
   ],
-  "updatedAt": "2026-08-02T09:59:32.940Z"
+  "updatedAt": "2026-08-02T10:32:25.345Z"
 }

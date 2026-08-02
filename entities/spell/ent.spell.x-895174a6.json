@@ -5,14 +5,16 @@
   "aliases": [
     "瞬移法术",
     "蓝光瞬移",
-    "瞬移之术"
+    "瞬移之术",
+    "瞬间移动"
   ],
   "summary": "元婴期高手独有的空间法术，可瞬间移动千丈之外；本片段由石珠内前辈司徒南代王林施展，消耗元婴精华。",
   "attributes": {
-    "类型": "空间瞬移、身法/位移、空间移动",
+    "类型": "空间瞬移、身法/位移、空间移动、空间遁法",
     "适用境界": "元婴期以上独有",
     "消耗": "元婴精华",
-    "出处": "石珠（天逆珠子）之力"
+    "出处": "石珠（天逆珠子）之力",
+    "威力": "单次两千里"
   },
   "observations": {
     "类型": [
@@ -30,6 +32,11 @@
         "value": "空间移动",
         "docId": "plot.xianni-ch117-wanglin-death",
         "seq": 102
+      },
+      {
+        "value": "空间遁法",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
       }
     ],
     "适用境界": [
@@ -56,6 +63,13 @@
         "value": "石珠（天逆珠子）之力",
         "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
         "seq": 67
+      }
+    ],
+    "威力": [
+      {
+        "value": "单次两千里",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
       }
     ]
   },
@@ -84,13 +98,20 @@
       "docId": "plot.xianni-ch67-71-tengli-chase-lanxianteng",
       "dated": false,
       "seq": 67
+    },
+    "威力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch274-underground-ice-sculpture",
+      "dated": false,
+      "seq": 258
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch67-71-tengli-chase-lanxianteng",
-    "plot.xianni-ch117-wanglin-death"
+    "plot.xianni-ch117-wanglin-death",
+    "plot.xianni-ch274-underground-ice-sculpture"
   ],
-  "updatedAt": "2026-07-05T04:09:56.769Z"
+  "updatedAt": "2026-08-02T10:32:25.335Z"
 }

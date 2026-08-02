@@ -10,9 +10,9 @@
   "summary": "王林以店内全部木雕与三枚煞气血球在黑色漩涡中熔炼而成的一掌大小黑色方印，刻一尊无面貌人像，凝聚其四百年杀戮，是\"死\"这一含义的外在表现，炼成后融入其元婴。",
   "attributes": {
     "持有者": "王林",
-    "能力": "承载\"死\"之意境、凝聚四百年杀戮之意",
+    "能力": "承载\"死\"之意境、凝聚四百年杀戮之意、镇压轰击，可收回体内",
     "来历": "由店中无数木雕 + 储物袋内三个煞气血球于黑色漩涡中凝炼",
-    "外形": "一掌大小黑色方印，其上刻一尊无面貌、只有身影的人像"
+    "外形": "黑色印玺"
   },
   "observations": {
     "持有者": [
@@ -32,6 +32,11 @@
         "value": "凝聚四百年杀戮之意",
         "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
         "seq": 253
+      },
+      {
+        "value": "镇压轰击，可收回体内",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
       }
     ],
     "来历": [
@@ -46,6 +51,11 @@
         "value": "一掌大小黑色方印，其上刻一尊无面貌、只有身影的人像",
         "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
         "seq": 253
+      },
+      {
+        "value": "黑色印玺",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
       }
     ]
   },
@@ -71,15 +81,16 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+      "docId": "plot.xianni-ch274-underground-ice-sculpture",
       "dated": false,
-      "seq": 253
+      "seq": 258
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing"
+    "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+    "plot.xianni-ch274-underground-ice-sculpture"
   ],
-  "updatedAt": "2026-08-02T09:59:32.902Z"
+  "updatedAt": "2026-08-02T10:32:25.381Z"
 }

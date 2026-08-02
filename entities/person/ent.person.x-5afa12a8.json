@@ -4,13 +4,18 @@
   "name": "水墨门红衣老者",
   "aliases": [
     "红色长衫老者",
-    "铜鼎红衣老者"
+    "铜鼎红衣老者",
+    "铜鼎之上的老者",
+    "红衣老者",
+    "水墨门铜鼎老者"
   ],
   "summary": "水墨门压箱底底牌，端坐于自后山飘起的洪荒铜鼎之上，目光平静望着天空。",
   "attributes": {
-    "阵营": "四派联盟·水墨门",
-    "外貌": "身穿红色长衫的老者",
-    "性格": "沉静"
+    "阵营": "四派联盟",
+    "外貌": "红衣老者",
+    "性格": "沉静",
+    "性别": "男",
+    "标志特征": "立于铜鼎之上、按鼎催动符号"
   },
   "observations": {
     "阵营": [
@@ -18,6 +23,11 @@
         "value": "四派联盟·水墨门",
         "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
         "seq": 253
+      },
+      {
+        "value": "四派联盟",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
       }
     ],
     "外貌": [
@@ -25,6 +35,11 @@
         "value": "身穿红色长衫的老者",
         "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
         "seq": 253
+      },
+      {
+        "value": "红衣老者",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
       }
     ],
     "性格": [
@@ -33,33 +48,60 @@
         "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
         "seq": 253
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "立于铜鼎之上、按鼎催动符号",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
+      }
     ]
   },
   "firstSeq": 253,
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+      "docId": "plot.xianni-ch274-underground-ice-sculpture",
       "dated": false,
-      "seq": 253
+      "seq": 258
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+      "docId": "plot.xianni-ch274-underground-ice-sculpture",
       "dated": false,
-      "seq": 253
+      "seq": 258
     },
     "性格": {
       "asOf": null,
       "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
       "dated": false,
       "seq": 253
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch274-underground-ice-sculpture",
+      "dated": false,
+      "seq": 258
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch274-underground-ice-sculpture",
+      "dated": false,
+      "seq": 258
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing"
+    "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+    "plot.xianni-ch274-underground-ice-sculpture"
   ],
-  "updatedAt": "2026-08-02T09:59:32.941Z"
+  "updatedAt": "2026-08-02T10:32:25.295Z"
 }

@@ -3,13 +3,17 @@
   "type": "place",
   "name": "雪峰",
   "aliases": [
-    "高耸入云的雪峰"
+    "高耸入云的雪峰",
+    "千里外的雪峰",
+    "有黑洞的雪峰"
   ],
   "summary": "王林选定的闭关地点，以禁幡笼罩藏身其中冲刺化神。",
   "attributes": {
     "所属势力": "四派联盟",
     "类型": "山峰",
-    "所属界面": "四派联盟境内"
+    "所属界面": "四派联盟境内",
+    "方位": "战场千里之外",
+    "危险度": "极高（已化作冰峰）"
   },
   "observations": {
     "所属势力": [
@@ -32,6 +36,20 @@
         "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
         "seq": 253
       }
+    ],
+    "方位": [
+      {
+        "value": "战场千里之外",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高（已化作冰峰）",
+        "docId": "plot.xianni-ch274-underground-ice-sculpture",
+        "seq": 258
+      }
     ]
   },
   "firstSeq": 253,
@@ -53,12 +71,25 @@
       "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
       "dated": false,
       "seq": 253
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch274-underground-ice-sculpture",
+      "dated": false,
+      "seq": 258
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch274-underground-ice-sculpture",
+      "dated": false,
+      "seq": 258
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing"
+    "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+    "plot.xianni-ch274-underground-ice-sculpture"
   ],
-  "updatedAt": "2026-08-02T09:59:32.929Z"
+  "updatedAt": "2026-08-02T10:32:25.409Z"
 }
