@@ -69,3 +69,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-02T09:25:44.758Z** `ingest` plot.xianni-ch264-samsara-heavenly-dao-enlightenment — 仙逆 第264章 轮回天道：王林凡尘悟道，元婴后期巅峰 · kind=plot asOf=2026-08-02 entities=95 relations=171 src=00248-00252.md
 - **2026-08-02T09:59:33.009Z** `ingest` plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing — 仙逆 第269章 天道无情：仙门法则限制、木雕之约与四派联盟清雪 · kind=plot asOf=2026-08-02 entities=120 relations=199 src=00253-00257.md
 - **2026-08-02T10:32:25.461Z** `ingest` plot.xianni-ch274-underground-ice-sculpture — 仙逆 第274章 地下冰雕：五行之灵对阵四派、雪域修士冰雪巨人开战 · kind=plot asOf=2026-08-02 entities=97 relations=173 src=00258-00262.md
+- **2026-08-02T10:56:50.793Z** `ingest` plot.xianni-ch263-267-tianni-change-xueyu-country — 仙逆 第263-267章 天逆珠五行光团之变与雪域国冰雕傀儡 · kind=plot asOf=2026-08-02 entities=84 relations=157 src=00263-00267.md

@@ -5,16 +5,19 @@
   "aliases": [
     "雪域天之骄女",
     "Hongdie",
-    "红蝶仙子"
+    "红蝶仙子",
+    "雪域天之骄女红蝶",
+    "雪域国天之骄女"
   ],
   "summary": "雪域国天之骄女，百年内修至化神后期的绝世天才，受朱雀国招揽；本章仅被咒云提及并怀疑就是那名白衣女子。",
   "attributes": {
     "性别": "女",
     "阵营": "雪域国",
-    "称号": "雪域天之骄女",
-    "身份": "受朱雀国招揽者、雪域国核心人物／统兵者",
+    "称号": "雪域天之骄女、雪域国天之骄女、天之骄女",
+    "身份": "受朱雀国招揽者、雪域国核心人物／统兵者、已随朱雀国修士离开，赴朱雀国",
     "外貌": "白衣女子",
-    "标志特征": "先天伪五灵之体，五灵随身守护"
+    "标志特征": "先天伪五灵之体，五灵随身守护",
+    "出身地": "雪域国"
   },
   "observations": {
     "性别": [
@@ -36,6 +39,16 @@
         "value": "雪域天之骄女",
         "docId": "plot.xianni-ch274-underground-ice-sculpture",
         "seq": 258
+      },
+      {
+        "value": "雪域国天之骄女",
+        "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+        "seq": 263
+      },
+      {
+        "value": "天之骄女",
+        "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+        "seq": 263
       }
     ],
     "身份": [
@@ -48,6 +61,11 @@
         "value": "雪域国核心人物／统兵者",
         "docId": "plot.xianni-ch274-underground-ice-sculpture",
         "seq": 258
+      },
+      {
+        "value": "已随朱雀国修士离开，赴朱雀国",
+        "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+        "seq": 263
       }
     ],
     "外貌": [
@@ -62,6 +80,13 @@
         "value": "先天伪五灵之体，五灵随身守护",
         "docId": "plot.xianni-ch274-underground-ice-sculpture",
         "seq": 258
+      }
+    ],
+    "出身地": [
+      {
+        "value": "雪域国",
+        "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+        "seq": 263
       }
     ]
   },
@@ -102,12 +127,19 @@
       "docId": "plot.xianni-ch274-underground-ice-sculpture",
       "dated": false,
       "seq": 258
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+      "dated": false,
+      "seq": 263
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch274-underground-ice-sculpture"
+    "plot.xianni-ch274-underground-ice-sculpture",
+    "plot.xianni-ch263-267-tianni-change-xueyu-country"
   ],
-  "updatedAt": "2026-08-02T10:32:25.393Z"
+  "updatedAt": "2026-08-02T10:56:50.641Z"
 }

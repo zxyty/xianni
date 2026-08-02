@@ -4,13 +4,15 @@
   "name": "水墨门",
   "aliases": [
     "水墨门派",
-    "水墨门一派"
+    "水墨门一派",
+    "Shuimo Men"
   ],
   "summary": "四派联盟四大门派之一，参与广开山门征召修士备战。",
   "attributes": {
-    "阵营": "四派联盟",
+    "阵营": "四派联盟成员、四派联盟、四派余孽（与雪域国敌对）、抗击雪域国入侵一方",
     "据点": "四派联盟南方",
-    "镇派之宝": "洪荒铜鼎"
+    "镇派之宝": "洪荒铜鼎",
+    "所属界面": "雪域国所在修真界"
   },
   "observations": {
     "阵营": [
@@ -23,6 +25,16 @@
         "value": "四派联盟",
         "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
         "seq": 253
+      },
+      {
+        "value": "四派余孽（与雪域国敌对）",
+        "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+        "seq": 263
+      },
+      {
+        "value": "抗击雪域国入侵一方",
+        "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+        "seq": 263
       }
     ],
     "据点": [
@@ -38,15 +50,22 @@
         "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
         "seq": 253
       }
+    ],
+    "所属界面": [
+      {
+        "value": "雪域国所在修真界",
+        "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+        "seq": 263
+      }
     ]
   },
   "firstSeq": 248,
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
       "dated": false,
-      "seq": 253
+      "seq": 248
     },
     "据点": {
       "asOf": null,
@@ -59,6 +78,12 @@
       "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
       "dated": false,
       "seq": 253
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+      "dated": false,
+      "seq": 263
     }
   },
   "contested": false,
@@ -66,7 +91,8 @@
   "docs": [
     "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
     "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
-    "plot.xianni-ch274-underground-ice-sculpture"
+    "plot.xianni-ch274-underground-ice-sculpture",
+    "plot.xianni-ch263-267-tianni-change-xueyu-country"
   ],
-  "updatedAt": "2026-08-02T10:32:25.286Z"
+  "updatedAt": "2026-08-02T10:56:50.685Z"
 }

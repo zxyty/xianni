@@ -3,12 +3,13 @@
   "type": "spell",
   "name": "搜魂术",
   "aliases": [
-    "搜魂之术"
+    "搜魂之术",
+    "搜魂"
   ],
   "summary": "歹毒的搜魂仙术，被搜者多死亡或痴呆；受天地法则限制。",
   "attributes": {
-    "类型": "神识/搜魂",
-    "适用境界": "结丹期以上方可对凡人施展",
+    "类型": "神识类",
+    "适用境界": "施术者修为需高于目标",
     "消耗": "降低施法者修为",
     "威力": "十有立即魂飞魄散，最好终生痴呆"
   },
@@ -28,6 +29,11 @@
         "value": "神识/搜魂",
         "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
         "seq": 49
+      },
+      {
+        "value": "神识类",
+        "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+        "seq": 263
       }
     ],
     "适用境界": [
@@ -35,6 +41,11 @@
         "value": "结丹期以上方可对凡人施展",
         "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
         "seq": 19
+      },
+      {
+        "value": "施术者修为需高于目标",
+        "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+        "seq": 263
       }
     ],
     "消耗": [
@@ -61,15 +72,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+      "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
       "dated": false,
-      "seq": 49
+      "seq": 263
     },
     "适用境界": {
       "asOf": null,
-      "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+      "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
       "dated": false,
-      "seq": 19
+      "seq": 263
     },
     "消耗": {
       "asOf": null,
@@ -89,7 +100,8 @@
   "docs": [
     "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
     "plot.xianni-ch37-42-sinian-guangban",
-    "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi"
+    "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
+    "plot.xianni-ch263-267-tianni-change-xueyu-country"
   ],
-  "updatedAt": "2026-06-22T12:48:22.496Z"
+  "updatedAt": "2026-08-02T10:56:50.619Z"
 }

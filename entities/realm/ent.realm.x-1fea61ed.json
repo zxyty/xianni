@@ -10,8 +10,10 @@
   "attributes": {
     "上一境": "化神",
     "阶序": "元婴之上、化神之下",
-    "突破关键": "星罗盘使用最低标准",
-    "下一境": "元婴期"
+    "突破关键": "正常修炼，或以灌顶大礼速成（有重大代价）",
+    "下一境": "元婴期",
+    "小阶段": "婴变初期",
+    "寿元": "一百年"
   },
   "observations": {
     "上一境": [
@@ -58,6 +60,11 @@
         "value": "星罗盘使用最低标准",
         "docId": "plot.xianni-ch231-234-xieyi-nanzi",
         "seq": 231
+      },
+      {
+        "value": "正常修炼，或以灌顶大礼速成（有重大代价）",
+        "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+        "seq": 263
       }
     ],
     "下一境": [
@@ -70,6 +77,21 @@
         "value": "元婴期",
         "docId": "plot.xianni-ch232-jian-qiao",
         "seq": 216
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "婴变初期",
+        "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+        "seq": 263
+      }
+    ],
+    "寿元": [
+      {
+        "value": "一百年",
+        "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+        "seq": 263,
+        "note": "仅限经灌顶大礼速成者"
       }
     ]
   },
@@ -89,15 +111,28 @@
     },
     "突破关键": {
       "asOf": null,
-      "docId": "plot.xianni-ch231-234-xieyi-nanzi",
+      "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
       "dated": false,
-      "seq": 231
+      "seq": 263
     },
     "下一境": {
       "asOf": null,
       "docId": "plot.xianni-ch232-jian-qiao",
       "dated": false,
       "seq": 216
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+      "dated": false,
+      "seq": 263
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+      "dated": false,
+      "seq": 263,
+      "note": "仅限经灌顶大礼速成者"
     }
   },
   "contested": false,
@@ -113,7 +148,8 @@
     "plot.xianni-ch231-234-xieyi-nanzi",
     "plot.xianni-ch239-243-huafan-jingdu-mudiao",
     "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
-    "plot.xianni-ch274-underground-ice-sculpture"
+    "plot.xianni-ch274-underground-ice-sculpture",
+    "plot.xianni-ch263-267-tianni-change-xueyu-country"
   ],
-  "updatedAt": "2026-08-02T10:32:25.359Z"
+  "updatedAt": "2026-08-02T10:56:50.626Z"
 }

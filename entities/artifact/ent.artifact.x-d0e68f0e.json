@@ -4,14 +4,18 @@
   "name": "冰雪塔",
   "aliases": [
     "雪域冰雪塔",
-    "ice pagoda"
+    "ice pagoda",
+    "冰雪高塔",
+    "冰雪塔（雪域国）",
+    "冰雪之塔",
+    "雪域国冰雪塔"
   ],
   "summary": "雪域修士达化神后必制的修炼之地，造型各异大小不同，塔层越高代表主人修为越强；本次自裂缝降临三十六座。",
   "attributes": {
-    "能力": "化神修士的修炼之地、以塔层数直观显示主人修为、降临战场并输出其中的化神修士；塔层数标示塔主修为",
+    "能力": "化神修士的修炼之地、以塔层数直观显示主人修为、降临战场并输出其中的化神修士；塔层数标示塔主修为、收纳冰雕、内设禁制可囚人",
     "来历": "雪域化神修士自行制作",
-    "外形": "造型各异、层数不等的塔、冰雪宝塔，最高九十九层",
-    "持有者": "雪域国"
+    "外形": "造型各异、层数不等的塔、冰雪宝塔，最高九十九层、冰雪构成的高塔，层数越多地位越高，塔尖有发光圆珠",
+    "持有者": "各城池最高修为的修士"
   },
   "observations": {
     "能力": [
@@ -29,6 +33,11 @@
         "value": "降临战场并输出其中的化神修士；塔层数标示塔主修为",
         "docId": "plot.xianni-ch274-underground-ice-sculpture",
         "seq": 258
+      },
+      {
+        "value": "收纳冰雕、内设禁制可囚人",
+        "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+        "seq": 263
       }
     ],
     "来历": [
@@ -48,6 +57,11 @@
         "value": "冰雪宝塔，最高九十九层",
         "docId": "plot.xianni-ch274-underground-ice-sculpture",
         "seq": 258
+      },
+      {
+        "value": "冰雪构成的高塔，层数越多地位越高，塔尖有发光圆珠",
+        "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+        "seq": 263
       }
     ],
     "持有者": [
@@ -55,6 +69,11 @@
         "value": "雪域国",
         "docId": "plot.xianni-ch274-underground-ice-sculpture",
         "seq": 258
+      },
+      {
+        "value": "各城池最高修为的修士",
+        "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+        "seq": 263
       }
     ]
   },
@@ -80,15 +99,16 @@
     },
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch274-underground-ice-sculpture",
+      "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
       "dated": false,
-      "seq": 258
+      "seq": 263
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch274-underground-ice-sculpture"
+    "plot.xianni-ch274-underground-ice-sculpture",
+    "plot.xianni-ch263-267-tianni-change-xueyu-country"
   ],
-  "updatedAt": "2026-08-02T10:32:25.356Z"
+  "updatedAt": "2026-08-02T10:56:50.712Z"
 }
