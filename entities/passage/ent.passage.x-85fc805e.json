@@ -8,15 +8,19 @@
     "裂缝",
     "坍塌空间裂缝",
     "血色世界空间缝隙",
-    "降临裂缝"
+    "降临裂缝",
+    "虚空裂缝",
+    "空间裂缝内部",
+    "死灭之风裂缝"
   ],
   "summary": "域外空间因万载战斗濒临崩溃而生的裂缝，连接无边星海；内部黑暗、神识被禁锢、有恐怖吸扯力，专出没吞噬性神秘物种。",
   "attributes": {
-    "类型": "空间裂缝",
+    "类型": "空间夹缝",
     "两端": "域外空间、星海、现实虚空—血色世界、雪域一方所在之地 ↔ 四派联盟战场",
     "稳定性": "极不稳定，撞击可致崩溃后自动消失、极不稳定、时现时灭、极不稳定（坍塌形成）、临时、随即合并",
-    "可通行境界": "婴变期高手可趁吸力未开时短暂进出",
-    "来历": "妖魔徒手撕开"
+    "可通行境界": "化神可自由进入",
+    "来历": "妖魔徒手撕开",
+    "守护": "灭生之风（吹灭生机的寒风）"
   },
   "observations": {
     "类型": [
@@ -24,6 +28,11 @@
         "value": "空间裂缝",
         "docId": "plot.xianni-ch117-wanglin-death",
         "seq": 102
+      },
+      {
+        "value": "空间夹缝",
+        "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
+        "seq": 268
       }
     ],
     "两端": [
@@ -76,6 +85,12 @@
         "docId": "plot.xianni-ch117-wanglin-death",
         "seq": 102,
         "note": "神识过庞大者无法从细缝钻出"
+      },
+      {
+        "value": "化神可自由进入",
+        "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
+        "seq": 268,
+        "note": "元婴修士勉强抵抗其风、无法久处；结丹修士根本无法抵抗"
       }
     ],
     "来历": [
@@ -84,15 +99,22 @@
         "docId": "plot.xianni-ch183-yibian-chushi",
         "seq": 168
       }
+    ],
+    "守护": [
+      {
+        "value": "灭生之风（吹灭生机的寒风）",
+        "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
+        "seq": 268
+      }
     ]
   },
   "firstSeq": 102,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch117-wanglin-death",
+      "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
       "dated": false,
-      "seq": 102
+      "seq": 268
     },
     "两端": {
       "asOf": null,
@@ -108,16 +130,22 @@
     },
     "可通行境界": {
       "asOf": null,
-      "docId": "plot.xianni-ch117-wanglin-death",
+      "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
       "dated": false,
-      "seq": 102,
-      "note": "神识过庞大者无法从细缝钻出"
+      "seq": 268,
+      "note": "元婴修士勉强抵抗其风、无法久处；结丹修士根本无法抵抗"
     },
     "来历": {
       "asOf": null,
       "docId": "plot.xianni-ch183-yibian-chushi",
       "dated": false,
       "seq": 168
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
+      "dated": false,
+      "seq": 268
     }
   },
   "contested": false,
@@ -126,7 +154,8 @@
     "plot.xianni-ch117-wanglin-death",
     "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
     "plot.xianni-ch183-yibian-chushi",
-    "plot.xianni-ch274-underground-ice-sculpture"
+    "plot.xianni-ch274-underground-ice-sculpture",
+    "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu"
   ],
-  "updatedAt": "2026-08-02T10:32:25.411Z"
+  "updatedAt": "2026-08-02T13:31:26.137Z"
 }

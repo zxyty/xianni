@@ -5,13 +5,17 @@
   "aliases": [
     "恒岳派后山",
     "崖壁洞府闭关地",
-    "玄道宗后山"
+    "玄道宗后山",
+    "后山洞府石崖",
+    "玄道宗后山洞府"
   ],
   "summary": "二师兄(张狂)所居之处，他要王林再得灵气泉水后去此处寻他。",
   "attributes": {
     "所属势力": "玄道宗",
-    "类型": "闭关修炼地、闭关修炼秘地",
-    "特产": "浓郁灵气"
+    "类型": "闭关修炼地、闭关修炼秘地、洞府石崖、洞府／禁地",
+    "特产": "浓郁灵气",
+    "方位": "玄道宗山峰后侧、玄道宗后山",
+    "所属界面": "朱雀星"
   },
   "observations": {
     "所属势力": [
@@ -36,6 +40,16 @@
         "value": "闭关修炼秘地",
         "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
         "seq": 31
+      },
+      {
+        "value": "洞府石崖",
+        "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
+        "seq": 268
+      },
+      {
+        "value": "洞府／禁地",
+        "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
+        "seq": 268
       }
     ],
     "特产": [
@@ -48,6 +62,25 @@
         "value": "浓郁灵气",
         "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
         "seq": 55
+      }
+    ],
+    "方位": [
+      {
+        "value": "玄道宗山峰后侧",
+        "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
+        "seq": 268
+      },
+      {
+        "value": "玄道宗后山",
+        "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
+        "seq": 268
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
+        "seq": 268
       }
     ]
   },
@@ -70,13 +103,26 @@
       "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
       "dated": false,
       "seq": 55
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
+      "dated": false,
+      "seq": 268
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
+      "dated": false,
+      "seq": 268
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch31-36-xueshui-jiaoyi",
-    "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion"
+    "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
+    "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu"
   ],
-  "updatedAt": "2026-06-22T12:57:09.170Z"
+  "updatedAt": "2026-08-02T13:31:26.088Z"
 }
