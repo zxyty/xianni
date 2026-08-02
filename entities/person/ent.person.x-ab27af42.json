@@ -4,11 +4,13 @@
   "name": "南王",
   "aliases": [
     "王爷",
-    "殿上中年男子"
+    "殿上中年男子",
+    "当年的南王",
+    "老南王"
   ],
   "summary": "南王府之主，俊朗威严的中年王爷，唯一爱好为收藏各类雕刻品，供养两名道袍修士。",
   "attributes": {
-    "身份": "南王",
+    "身份": "凡人界王爷（前任）",
     "外貌": "俊朗威严的中年男子",
     "性格": "爱好雕刻品"
   },
@@ -18,6 +20,11 @@
         "value": "南王",
         "docId": "plot.xianni-ch235-238-guiyin-fabao",
         "seq": 235
+      },
+      {
+        "value": "凡人界王爷（前任）",
+        "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+        "seq": 248
       }
     ],
     "外貌": [
@@ -39,9 +46,9 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch235-238-guiyin-fabao",
+      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
       "dated": false,
-      "seq": 235
+      "seq": 248
     },
     "外貌": {
       "asOf": null,
@@ -59,7 +66,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch235-238-guiyin-fabao"
+    "plot.xianni-ch235-238-guiyin-fabao",
+    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment"
   ],
-  "updatedAt": "2026-07-23T05:16:44.476Z"
+  "updatedAt": "2026-08-02T09:25:44.520Z"
 }

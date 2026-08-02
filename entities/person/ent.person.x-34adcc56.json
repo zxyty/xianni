@@ -3,12 +3,15 @@
   "type": "person",
   "name": "世子殿下",
   "aliases": [
-    "殿下"
+    "殿下",
+    "雍贵中年人",
+    "徐涛的主子"
   ],
   "summary": "京都权贵，遣徐涛长年向王林进献财物示好，王林不感兴趣。",
   "attributes": {
     "身份": "京都世子/王府贵胄、王室世子、皇族世子",
-    "存殁": "在世（藏于皇宫）、存活"
+    "存殁": "在世（藏于皇宫）、存活",
+    "小阶段": "未筑基"
   },
   "observations": {
     "身份": [
@@ -39,6 +42,14 @@
         "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
         "seq": 244
       }
+    ],
+    "小阶段": [
+      {
+        "value": "未筑基",
+        "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+        "seq": 248,
+        "note": "稍有修炼"
+      }
     ]
   },
   "firstSeq": 239,
@@ -54,13 +65,21 @@
       "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
       "dated": false,
       "seq": 244
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+      "dated": false,
+      "seq": 248,
+      "note": "稍有修炼"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch239-243-huafan-jingdu-mudiao",
-    "plot.xianni-ch244-247-zuling-pai-yijing-ganwu"
+    "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment"
   ],
-  "updatedAt": "2026-08-02T08:12:08.897Z"
+  "updatedAt": "2026-08-02T09:25:44.462Z"
 }

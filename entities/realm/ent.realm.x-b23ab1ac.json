@@ -2,12 +2,17 @@
   "id": "ent.realm.x-b23ab1ac",
   "type": "realm",
   "name": "婴变",
-  "aliases": [],
+  "aliases": [
+    "婴变境界",
+    "婴变修为"
+  ],
   "summary": "超越元婴/化神的更高境界；本土出婴变修士可使修真国升五级，一人可灭四级修真国。",
   "attributes": {
     "上一境": "化神",
     "阶序": "七境第六",
-    "下一境": "问鼎"
+    "下一境": "问鼎",
+    "突破关键": "吸收足够的仙界之气、婴变丹（稀少）",
+    "小阶段": "婴变以上修士滞留本界"
   },
   "observations": {
     "上一境": [
@@ -30,6 +35,25 @@
         "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
         "seq": 208
       }
+    ],
+    "突破关键": [
+      {
+        "value": "吸收足够的仙界之气",
+        "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+        "seq": 248
+      },
+      {
+        "value": "婴变丹（稀少）",
+        "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+        "seq": 248
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "婴变以上修士滞留本界",
+        "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+        "seq": 248
+      }
     ]
   },
   "firstSeq": 90,
@@ -51,13 +75,26 @@
       "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
       "dated": false,
       "seq": 208
+    },
+    "突破关键": {
+      "asOf": null,
+      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+      "dated": false,
+      "seq": 248
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+      "dated": false,
+      "seq": 248
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "lore.xianni-ch105-jijing-realm",
-    "plot.xianni-ch224-jieying-fenshen-benzun-ronghe"
+    "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
+    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment"
   ],
-  "updatedAt": "2026-07-08T14:07:21.011Z"
+  "updatedAt": "2026-08-02T09:25:44.650Z"
 }

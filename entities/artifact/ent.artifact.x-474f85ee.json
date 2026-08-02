@@ -2,11 +2,16 @@
   "id": "ent.artifact.x-474f85ee",
   "type": "artifact",
   "name": "雨鼎",
-  "aliases": [],
+  "aliases": [
+    "风雨雷电四鼎之一",
+    "Yu Ding"
+  ],
   "summary": "周武泰向世子殿下索要之物；本章他留话「三日内把雨鼎送去道观，此事不再追究」，世子殿下早已想交出以保命。",
   "attributes": {
-    "来历": "世子殿下持有",
-    "外形": "鼎"
+    "来历": "每隔多年从天地之间蕴化而出；各修真星依距离哪座仙门近而酝化出不同之鼎",
+    "外形": "鼎",
+    "能力": "天道开启之日可进入风云雷电四大仙门、得之者有莫大机缘",
+    "持有者": "四派联盟一名修士"
   },
   "observations": {
     "来历": [
@@ -14,6 +19,11 @@
         "value": "世子殿下持有",
         "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
         "seq": 244
+      },
+      {
+        "value": "每隔多年从天地之间蕴化而出；各修真星依距离哪座仙门近而酝化出不同之鼎",
+        "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+        "seq": 248
       }
     ],
     "外形": [
@@ -22,27 +32,61 @@
         "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
         "seq": 244
       }
+    ],
+    "能力": [
+      {
+        "value": "天道开启之日可进入风云雷电四大仙门",
+        "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+        "seq": 248
+      },
+      {
+        "value": "得之者有莫大机缘",
+        "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+        "seq": 248
+      }
+    ],
+    "持有者": [
+      {
+        "value": "四派联盟一名修士",
+        "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+        "seq": 248,
+        "note": "夺自雪域修士，引发雪域国来抢"
+      }
     ]
   },
   "firstSeq": 244,
   "attrProvenance": {
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
       "dated": false,
-      "seq": 244
+      "seq": 248
     },
     "外形": {
       "asOf": null,
       "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
       "dated": false,
       "seq": 244
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+      "dated": false,
+      "seq": 248
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+      "dated": false,
+      "seq": 248,
+      "note": "夺自雪域修士，引发雪域国来抢"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch244-247-zuling-pai-yijing-ganwu"
+    "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment"
   ],
-  "updatedAt": "2026-08-02T08:12:08.903Z"
+  "updatedAt": "2026-08-02T09:25:44.643Z"
 }
