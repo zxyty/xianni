@@ -3,13 +3,17 @@
   "type": "person",
   "name": "大牛",
   "aliases": [
-    "王林所称的少年"
+    "王林所称的少年",
+    "铁具铺大牛",
+    "虎头虎脑的少年"
   ],
   "summary": "凡人少年，十二岁，铁匠之子，每日携果子酒看王林雕刻，痴迷木雕手艺，愿看六十年学艺。",
   "attributes": {
     "种族": "凡人",
-    "身份": "铁匠之子/学徒",
-    "外貌": "壮实少年"
+    "身份": "铁具铺主人",
+    "外貌": "壮实少年",
+    "性格": "关切、通透（『你王爷爷喝的不是酒，是人生』）",
+    "存殁": "在世"
   },
   "observations": {
     "种族": [
@@ -29,6 +33,11 @@
         "value": "铁匠之子/学徒",
         "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
         "seq": 239
+      },
+      {
+        "value": "铁具铺主人",
+        "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+        "seq": 244
       }
     ],
     "外貌": [
@@ -42,6 +51,20 @@
         "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
         "seq": 239
       }
+    ],
+    "性格": [
+      {
+        "value": "关切、通透（『你王爷爷喝的不是酒，是人生』）",
+        "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+        "seq": 244
+      }
+    ],
+    "存殁": [
+      {
+        "value": "在世",
+        "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+        "seq": 244
+      }
     ]
   },
   "firstSeq": 235,
@@ -54,22 +77,35 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
+      "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
       "dated": false,
-      "seq": 239
+      "seq": 244
     },
     "外貌": {
       "asOf": null,
       "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
       "dated": false,
       "seq": 239
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+      "dated": false,
+      "seq": 244
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+      "dated": false,
+      "seq": 244
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch235-238-guiyin-fabao",
-    "plot.xianni-ch239-243-huafan-jingdu-mudiao"
+    "plot.xianni-ch239-243-huafan-jingdu-mudiao",
+    "plot.xianni-ch244-247-zuling-pai-yijing-ganwu"
   ],
-  "updatedAt": "2026-07-23T05:28:58.564Z"
+  "updatedAt": "2026-08-02T08:12:08.873Z"
 }

@@ -8,11 +8,12 @@
     "京都城",
     "西城",
     "城西",
-    "京都西城"
+    "京都西城",
+    "京都街道"
   ],
   "summary": "四级修真国凡人都城，城中心立九根仙木，城内可见十余凝气期修士，有面向修士贩卖玉简法宝的店铺（凡人被禁制阻隔）。",
   "attributes": {
-    "类型": "都城",
+    "类型": "凡人都城、都城、城池、凡人界都城",
     "所属势力": "四级修真国",
     "特产": "仙木、灵气漩涡、修士店铺",
     "方位": "王林店铺在城西"
@@ -28,6 +29,16 @@
         "value": "都城",
         "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
         "seq": 239
+      },
+      {
+        "value": "城池",
+        "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+        "seq": 244
+      },
+      {
+        "value": "凡人界都城",
+        "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+        "seq": 244
       }
     ],
     "所属势力": [
@@ -66,9 +77,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
+      "docId": "plot.xianni-ch235-238-guiyin-fabao",
       "dated": false,
-      "seq": 239
+      "seq": 235
     },
     "所属势力": {
       "asOf": null,
@@ -93,7 +104,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch235-238-guiyin-fabao",
-    "plot.xianni-ch239-243-huafan-jingdu-mudiao"
+    "plot.xianni-ch239-243-huafan-jingdu-mudiao",
+    "plot.xianni-ch244-247-zuling-pai-yijing-ganwu"
   ],
-  "updatedAt": "2026-07-23T05:28:58.570Z"
+  "updatedAt": "2026-08-02T08:12:08.905Z"
 }

@@ -6,13 +6,16 @@
     "徐姓青年",
     "徐家店铺大儿子",
     "徐家少爷",
-    "徐家铺徐涛"
+    "徐家铺徐涛",
+    "世子随从徐涛"
   ],
   "summary": "南王世子亲信随从，回乡探亲时购得王林蛟龙木雕，层层献予世子与南王而记大功。",
   "attributes": {
     "种族": "凡人",
-    "身份": "为世子殿下办事者",
-    "阵营": "世子/王府一系"
+    "身份": "南王世子亲信随从、为世子殿下办事者、世子殿下的随从、世子殿下属下",
+    "阵营": "世子/王府一系",
+    "存殁": "重伤昏迷、存活",
+    "性别": "男"
   },
   "observations": {
     "种族": [
@@ -32,6 +35,16 @@
         "value": "为世子殿下办事者",
         "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
         "seq": 239
+      },
+      {
+        "value": "世子殿下的随从",
+        "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+        "seq": 244
+      },
+      {
+        "value": "世子殿下属下",
+        "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+        "seq": 244
       }
     ],
     "阵营": [
@@ -39,6 +52,26 @@
         "value": "世子/王府一系",
         "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
         "seq": 239
+      }
+    ],
+    "存殁": [
+      {
+        "value": "重伤昏迷",
+        "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+        "seq": 244,
+        "note": "第261章末"
+      },
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+        "seq": 244
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+        "seq": 244
       }
     ]
   },
@@ -52,22 +85,36 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
+      "docId": "plot.xianni-ch235-238-guiyin-fabao",
       "dated": false,
-      "seq": 239
+      "seq": 235
     },
     "阵营": {
       "asOf": null,
       "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
       "dated": false,
       "seq": 239
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+      "dated": false,
+      "seq": 244,
+      "note": "第261章末"
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+      "dated": false,
+      "seq": 244
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch235-238-guiyin-fabao",
-    "plot.xianni-ch239-243-huafan-jingdu-mudiao"
+    "plot.xianni-ch239-243-huafan-jingdu-mudiao",
+    "plot.xianni-ch244-247-zuling-pai-yijing-ganwu"
   ],
-  "updatedAt": "2026-07-23T05:28:58.566Z"
+  "updatedAt": "2026-08-02T08:12:08.896Z"
 }

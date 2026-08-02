@@ -65,3 +65,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-07-23T05:08:48.052Z** `ingest` plot.xianni-ch231-234-xieyi-nanzi — 仙逆 第231-234章 · 邪异男子 / 修星之晶 · kind=plot asOf=2026-07-23 entities=40 relations=42 src=00231-00234.md
 - **2026-07-23T05:16:44.505Z** `ingest` plot.xianni-ch235-238-guiyin-fabao — 仙逆 第235-238章 归隐凡尘·木雕寄情 · kind=plot asOf=2026-07-23 entities=26 relations=27 src=00235-00238.md
 - **2026-07-23T05:28:58.614Z** `ingest` plot.xianni-ch239-243-huafan-jingdu-mudiao — 仙逆 第239-243章 京都化凡·木雕店岁月 · kind=plot asOf=2026-07-23 entities=26 relations=30 src=00239-00243.md
+- **2026-08-02T08:12:08.936Z** `ingest` plot.xianni-ch244-247-zuling-pai-yijing-ganwu — 仙逆 第244-247章：祖灵牌换意境感悟，王林十年木雕入暮年 · kind=plot asOf=2026-08-02 entities=66 relations=108 src=00244-00247.md
