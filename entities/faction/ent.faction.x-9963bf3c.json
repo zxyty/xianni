@@ -2,10 +2,14 @@
   "id": "ent.faction.x-9963bf3c",
   "type": "faction",
   "name": "青龙国",
-  "aliases": [],
+  "aliases": [
+    "青龙",
+    "青龙修真国"
+  ],
   "summary": "朱雀星四级修真国，掌控赵国，背后受五级修真国巨魔族控制。",
   "attributes": {
-    "等级": "四级修真国"
+    "等级": "五级修真国",
+    "所属界面": "朱雀星"
   },
   "observations": {
     "等级": [
@@ -13,6 +17,18 @@
         "value": "四级修真国",
         "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
         "seq": 106
+      },
+      {
+        "value": "五级修真国",
+        "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+        "seq": 341
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+        "seq": 341
       }
     ]
   },
@@ -20,15 +36,22 @@
   "attrProvenance": {
     "等级": {
       "asOf": null,
-      "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+      "docId": "plot.xianni-ch361-zhuque-guo-arrival",
       "dated": false,
-      "seq": 106
+      "seq": 341
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+      "dated": false,
+      "seq": 341
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang"
+    "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+    "plot.xianni-ch361-zhuque-guo-arrival"
   ],
-  "updatedAt": "2026-07-05T04:23:08.024Z"
+  "updatedAt": "2026-08-08T14:53:00.595Z"
 }
