@@ -4,13 +4,23 @@
   "name": "巨魔族老祖",
   "aliases": [
     "巨魔族一名老祖",
-    "第一个婴变期巨魔族修士"
+    "第一个婴变期巨魔族修士",
+    "巨魔族婴变期老怪",
+    "巨魔一族老祖",
+    "巨魔族老者",
+    "臣魔族老祖"
   ],
   "summary": "巨魔族老祖，吸收叱虎拿回的仙玉后成功突破，成为朱雀星上第一个婴变期的巨魔族修士。",
   "attributes": {
     "种族": "巨魔族",
-    "小阶段": "婴变期",
-    "身份": "巨魔族老祖"
+    "小阶段": "婴变期、婴变初期、婴变中期",
+    "身份": "巨魔族老祖",
+    "外貌": "灰色头发、满脸皱纹、双目如皓月般明亮、身形可暴涨三丈如巨人",
+    "阵营": "巨魔族",
+    "标志特征": "身化十丈多高、天赋神通、身体强壮",
+    "性格": "隐忍、狠辣、灭口不留痕",
+    "存殁": "存活",
+    "结局": "肉身被魔童踏毁，元神卷储物袋逃走并被魔童追击"
   },
   "observations": {
     "种族": [
@@ -25,6 +35,16 @@
         "value": "婴变期",
         "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
         "seq": 336
+      },
+      {
+        "value": "婴变初期",
+        "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+        "seq": 346
+      },
+      {
+        "value": "婴变中期",
+        "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+        "seq": 346
       }
     ],
     "身份": [
@@ -32,6 +52,65 @@
         "value": "巨魔族老祖",
         "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
         "seq": 336
+      }
+    ],
+    "外貌": [
+      {
+        "value": "灰色头发、满脸皱纹、双目如皓月般明亮",
+        "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+        "seq": 346
+      },
+      {
+        "value": "身形可暴涨三丈如巨人",
+        "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+        "seq": 346,
+        "note": "施法时"
+      }
+    ],
+    "阵营": [
+      {
+        "value": "巨魔族",
+        "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+        "seq": 346
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "身化十丈多高",
+        "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+        "seq": 346
+      },
+      {
+        "value": "天赋神通",
+        "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+        "seq": 346
+      },
+      {
+        "value": "身体强壮",
+        "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+        "seq": 346
+      }
+    ],
+    "性格": [
+      {
+        "value": "隐忍、狠辣、灭口不留痕",
+        "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+        "seq": 346
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+        "seq": 346
+      }
+    ],
+    "结局": [
+      {
+        "value": "肉身被魔童踏毁，元神卷储物袋逃走并被魔童追击",
+        "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+        "seq": 346,
+        "note": "本章"
       }
     ]
   },
@@ -54,12 +133,50 @@
       "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
       "dated": false,
       "seq": 336
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+      "dated": false,
+      "seq": 346
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+      "dated": false,
+      "seq": 346
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+      "dated": false,
+      "seq": 346
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+      "dated": false,
+      "seq": 346
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+      "dated": false,
+      "seq": 346
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+      "dated": false,
+      "seq": 346,
+      "note": "本章"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch356-departure-immortal-remains-void-rift"
+    "plot.xianni-ch356-departure-immortal-remains-void-rift",
+    "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip"
   ],
-  "updatedAt": "2026-08-08T14:28:21.405Z"
+  "updatedAt": "2026-08-08T15:27:51.406Z"
 }
