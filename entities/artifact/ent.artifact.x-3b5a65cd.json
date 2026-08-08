@@ -5,13 +5,14 @@
   "aliases": [
     "两个铃铛",
     "铃铛法宝",
-    "青光铃铛铠甲"
+    "青光铃铛铠甲",
+    "铃铛战甲"
   ],
   "summary": "王林所持的一对铃铛法宝，抖动化音波可震碎冰刀与崖壁；灵诀催动可旋转互撞增威；对撞崩溃后碎片可收拢化作印有铃铛图案的青光铠甲。",
   "attributes": {
     "持有者": "王林",
-    "能力": "音波震碎攻击与山石、旋转互撞增幅震退敌手、碎裂后化青光铠甲护体",
-    "外形": "两个铃铛；化甲后铠甲上有两个铃铛图案"
+    "能力": "音波震碎攻击与山石、旋转互撞增幅震退敌手、碎裂后化青光铠甲护体、撞击发音波迟滞法宝、碎裂后化作护身战甲",
+    "外形": "一对铃铛"
   },
   "observations": {
     "持有者": [
@@ -36,6 +37,16 @@
         "value": "碎裂后化青光铠甲护体",
         "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
         "seq": 336
+      },
+      {
+        "value": "撞击发音波迟滞法宝",
+        "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+        "seq": 341
+      },
+      {
+        "value": "碎裂后化作护身战甲",
+        "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+        "seq": 341
       }
     ],
     "外形": [
@@ -43,6 +54,11 @@
         "value": "两个铃铛；化甲后铠甲上有两个铃铛图案",
         "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
         "seq": 336
+      },
+      {
+        "value": "一对铃铛",
+        "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+        "seq": 341
       }
     ]
   },
@@ -62,15 +78,16 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+      "docId": "plot.xianni-ch361-zhuque-guo-arrival",
       "dated": false,
-      "seq": 336
+      "seq": 341
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch356-departure-immortal-remains-void-rift"
+    "plot.xianni-ch356-departure-immortal-remains-void-rift",
+    "plot.xianni-ch361-zhuque-guo-arrival"
   ],
-  "updatedAt": "2026-08-08T14:28:21.322Z"
+  "updatedAt": "2026-08-08T14:53:00.634Z"
 }

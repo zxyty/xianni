@@ -4,15 +4,17 @@
   "name": "李慕婉魂兽",
   "aliases": [
     "魂兽",
-    "眉心黑雾小兽"
+    "眉心黑雾小兽",
+    "孽畜"
   ],
   "summary": "自李慕婉眉心涌出的黑雾所化小兽，一口吞噬展白的血虫，目光阴森护主，被展白认出为「魂兽」。",
   "attributes": {
     "种族": "魂兽",
-    "主人": "李慕婉",
-    "能力": "吞噬血虫",
+    "主人": "王林",
+    "能力": "吞噬血虫、大口化无穷大吞噬、身躯贯穿敌体、受黑芒滋养膨胀",
     "栖息地": "李慕婉眉心",
-    "外形": "黑雾化作的小兽"
+    "外形": "凶芒闪闪的巨大兽魂，身缚铁链",
+    "天敌": "昆极鞭本体（抽之即吃痛缩小）"
   },
   "observations": {
     "种族": [
@@ -27,6 +29,11 @@
         "value": "李慕婉",
         "docId": "plot.xianni-ch327-return-to-zhuque-star",
         "seq": 309
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+        "seq": 341
       }
     ],
     "能力": [
@@ -34,6 +41,21 @@
         "value": "吞噬血虫",
         "docId": "plot.xianni-ch327-return-to-zhuque-star",
         "seq": 309
+      },
+      {
+        "value": "大口化无穷大吞噬",
+        "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+        "seq": 341
+      },
+      {
+        "value": "身躯贯穿敌体",
+        "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+        "seq": 341
+      },
+      {
+        "value": "受黑芒滋养膨胀",
+        "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+        "seq": 341
       }
     ],
     "栖息地": [
@@ -48,6 +70,18 @@
         "value": "黑雾化作的小兽",
         "docId": "plot.xianni-ch327-return-to-zhuque-star",
         "seq": 309
+      },
+      {
+        "value": "凶芒闪闪的巨大兽魂，身缚铁链",
+        "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+        "seq": 341
+      }
+    ],
+    "天敌": [
+      {
+        "value": "昆极鞭本体（抽之即吃痛缩小）",
+        "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+        "seq": 341
       }
     ]
   },
@@ -61,9 +95,9 @@
     },
     "主人": {
       "asOf": null,
-      "docId": "plot.xianni-ch327-return-to-zhuque-star",
+      "docId": "plot.xianni-ch361-zhuque-guo-arrival",
       "dated": false,
-      "seq": 309
+      "seq": 341
     },
     "能力": {
       "asOf": null,
@@ -79,15 +113,22 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch327-return-to-zhuque-star",
+      "docId": "plot.xianni-ch361-zhuque-guo-arrival",
       "dated": false,
-      "seq": 309
+      "seq": 341
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+      "dated": false,
+      "seq": 341
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch327-return-to-zhuque-star"
+    "plot.xianni-ch327-return-to-zhuque-star",
+    "plot.xianni-ch361-zhuque-guo-arrival"
   ],
-  "updatedAt": "2026-08-08T06:22:47.778Z"
+  "updatedAt": "2026-08-08T14:53:00.679Z"
 }

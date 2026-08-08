@@ -4,15 +4,20 @@
   "name": "冰雪巨人",
   "aliases": [
     "冰雪巨人军",
-    "元婴冰雪巨人"
+    "元婴冰雪巨人",
+    "冰雕巨人",
+    "冰神",
+    "冰神巨人",
+    "雪域国重宝冰神"
   ],
   "summary": "雪域修士以咒语引狂风令方圆百丈雪原升空凝冰，再将自身元婴射入冰块催化而成的巨人，可震地聚雪成长矛。",
   "attributes": {
     "本体来源": "方圆百丈雪原凝结的冰块",
     "操控者": "雪域修士（元婴融入其中）",
-    "能力": "一拳震地、聚冰雪化长矛",
+    "能力": "一拳震地、聚冰雪化长矛、容纳主人入体、代受天劫、伤口瞬愈、挥拳带鞭影、巨力拳击、体内射出鞭子虚影抽取敌人元神、踏地龟裂",
     "材料": "冰雪",
-    "外形": "冰晶巨人"
+    "外形": "冰晶巨人、缩小后五丈大小、巨大冰质巨人，断一臂",
+    "品阶": "雪域国重宝"
   },
   "observations": {
     "本体来源": [
@@ -39,6 +44,41 @@
         "value": "聚冰雪化长矛",
         "docId": "plot.xianni-ch274-underground-ice-sculpture",
         "seq": 258
+      },
+      {
+        "value": "容纳主人入体",
+        "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+        "seq": 341
+      },
+      {
+        "value": "代受天劫",
+        "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+        "seq": 341
+      },
+      {
+        "value": "伤口瞬愈",
+        "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+        "seq": 341
+      },
+      {
+        "value": "挥拳带鞭影",
+        "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+        "seq": 341
+      },
+      {
+        "value": "巨力拳击",
+        "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+        "seq": 341
+      },
+      {
+        "value": "体内射出鞭子虚影抽取敌人元神",
+        "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+        "seq": 341
+      },
+      {
+        "value": "踏地龟裂",
+        "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+        "seq": 341
       }
     ],
     "材料": [
@@ -53,6 +93,24 @@
         "value": "冰晶巨人",
         "docId": "plot.xianni-ch274-underground-ice-sculpture",
         "seq": 258
+      },
+      {
+        "value": "缩小后五丈大小",
+        "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+        "seq": 341,
+        "note": "受天劫前更庞大"
+      },
+      {
+        "value": "巨大冰质巨人，断一臂",
+        "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+        "seq": 341
+      }
+    ],
+    "品阶": [
+      {
+        "value": "雪域国重宝",
+        "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+        "seq": 341
       }
     ]
   },
@@ -87,12 +145,19 @@
       "docId": "plot.xianni-ch274-underground-ice-sculpture",
       "dated": false,
       "seq": 258
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+      "dated": false,
+      "seq": 341
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch274-underground-ice-sculpture"
+    "plot.xianni-ch274-underground-ice-sculpture",
+    "plot.xianni-ch361-zhuque-guo-arrival"
   ],
-  "updatedAt": "2026-08-02T10:32:25.305Z"
+  "updatedAt": "2026-08-08T14:53:00.674Z"
 }

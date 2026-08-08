@@ -3,13 +3,15 @@
   "type": "person",
   "name": "红蝶师兄",
   "aliases": [
-    "红蝶的师兄"
+    "红蝶的师兄",
+    "天玉宗师兄"
   ],
   "summary": "朱雀国中年男修，相貌堂堂英武不凡，对红蝶怀有柔情；为其取来东海之灵，受朱雀山约束不便亲自出手，遂以玉简传讯派低级修真国修士对付曾牛。",
   "attributes": {
     "性别": "男",
     "外貌": "相貌堂堂，英武不凡",
-    "阵营": "朱雀国／朱雀山"
+    "阵营": "朱雀国／朱雀山",
+    "身份": "天玉宗弟子"
   },
   "observations": {
     "性别": [
@@ -32,6 +34,13 @@
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
       }
+    ],
+    "身份": [
+      {
+        "value": "天玉宗弟子",
+        "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+        "seq": 341
+      }
     ]
   },
   "firstSeq": 322,
@@ -53,12 +62,19 @@
       "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
       "dated": false,
       "seq": 322
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+      "dated": false,
+      "seq": 341
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree"
+    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+    "plot.xianni-ch361-zhuque-guo-arrival"
   ],
-  "updatedAt": "2026-08-08T10:00:26.234Z"
+  "updatedAt": "2026-08-08T14:53:00.663Z"
 }
