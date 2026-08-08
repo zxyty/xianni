@@ -3,15 +3,21 @@
   "type": "person",
   "name": "驼背老者",
   "aliases": [
-    "符文老者"
+    "符文老者",
+    "仙遗族驼背老者",
+    "老匹夫",
+    "驼背七叶术咒师"
   ],
   "summary": "仙遗族七叶术咒师，全身五分之四画满符文印记，戴兽骨手镯，可瞬移、封锁空间、以眉心七叶植物扫描全层；在第一层入口以金色符文封路截住王林。",
   "attributes": {
     "种族": "仙遗族",
-    "身份": "七叶术咒师",
-    "外貌": "驮背苍发，全身约五分之四布满符文印记",
-    "标志特征": "兽骨手镯、眉心可生出七叶植物、常伴咳嗽",
-    "神识": "七叶植物延展可覆盖整层，等同修士神识"
+    "身份": "追击者",
+    "外貌": "驼背老者",
+    "标志特征": "兽骨手镯、眉心可生出七叶植物、常伴咳嗽、全身符文、眉心可生七叶植物",
+    "神识": "七叶植物延展可覆盖整层，等同修士神识",
+    "阵营": "仙遗族",
+    "存殁": "存活、困于虚无",
+    "性格": "高傲、易怒"
   },
   "observations": {
     "种族": [
@@ -26,6 +32,11 @@
         "value": "七叶术咒师",
         "docId": "plot.xianni-ch347-xianyi-zu",
         "seq": 327
+      },
+      {
+        "value": "追击者",
+        "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+        "seq": 332
       }
     ],
     "外貌": [
@@ -33,6 +44,11 @@
         "value": "驮背苍发，全身约五分之四布满符文印记",
         "docId": "plot.xianni-ch347-xianyi-zu",
         "seq": 327
+      },
+      {
+        "value": "驼背老者",
+        "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+        "seq": 332
       }
     ],
     "标志特征": [
@@ -50,6 +66,16 @@
         "value": "常伴咳嗽",
         "docId": "plot.xianni-ch347-xianyi-zu",
         "seq": 327
+      },
+      {
+        "value": "全身符文",
+        "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+        "seq": 332
+      },
+      {
+        "value": "眉心可生七叶植物",
+        "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+        "seq": 332
       }
     ],
     "神识": [
@@ -57,6 +83,33 @@
         "value": "七叶植物延展可覆盖整层，等同修士神识",
         "docId": "plot.xianni-ch347-xianyi-zu",
         "seq": 327
+      }
+    ],
+    "阵营": [
+      {
+        "value": "仙遗族",
+        "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+        "seq": 332
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+        "seq": 332
+      },
+      {
+        "value": "困于虚无",
+        "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+        "seq": 332,
+        "note": "第333章"
+      }
+    ],
+    "性格": [
+      {
+        "value": "高傲、易怒",
+        "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+        "seq": 332
       }
     ]
   },
@@ -70,15 +123,15 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch347-xianyi-zu",
+      "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
       "dated": false,
-      "seq": 327
+      "seq": 332
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch347-xianyi-zu",
+      "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
       "dated": false,
-      "seq": 327
+      "seq": 332
     },
     "标志特征": {
       "asOf": null,
@@ -91,12 +144,31 @@
       "docId": "plot.xianni-ch347-xianyi-zu",
       "dated": false,
       "seq": 327
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+      "dated": false,
+      "seq": 332
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+      "dated": false,
+      "seq": 332
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+      "dated": false,
+      "seq": 332
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch347-xianyi-zu"
+    "plot.xianni-ch347-xianyi-zu",
+    "plot.xianni-ch352-fu-kui-space-rift-flight"
   ],
-  "updatedAt": "2026-08-08T10:30:36.443Z"
+  "updatedAt": "2026-08-08T10:48:57.952Z"
 }

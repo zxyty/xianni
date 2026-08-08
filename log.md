@@ -84,3 +84,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-08T09:25:37.041Z** `ingest` plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan — 仙逆 第337章《不舍》：次极品灵石血线、归元丹替代品与李慕婉衰老 · kind=plot asOf=2026-08-08 entities=95 relations=186 src=00317-00321.md
 - **2026-08-08T10:00:26.427Z** `ingest` plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree — 仙逆 第342章 野人余孽——仙遗之地、轮回树与轮回果 · kind=plot asOf=2026-08-08 entities=129 relations=250 src=00322-00326.md
 - **2026-08-08T10:30:36.542Z** `ingest` plot.xianni-ch347-xianyi-zu — 仙逆 第347章 仙遗族——六叶术咒师卡莫的警告与胡老失控 · kind=plot asOf=2026-08-08 entities=91 relations=195 src=00327-00331.md
+- **2026-08-08T10:48:58.025Z** `ingest` plot.xianni-ch352-fu-kui-space-rift-flight — 仙逆 第352章 符傀：王林撕裂空间裂缝逃遁，驼背野人老者以启蒙符文逼退兽魂并种下七叶寒气 · kind=plot asOf=2026-08-08 entities=64 relations=96 src=00332-00335.md
