@@ -3,16 +3,18 @@
   "type": "person",
   "name": "欧阳子",
   "aliases": [
-    "欧阳"
+    "欧阳",
+    "欧阳子前辈"
   ],
   "summary": "云天宗五品炼丹师、元婴初期，创祭丹术，服幽冥丹得幽冥之眼，毕生求炼九品神丹。",
   "attributes": {
     "小阶段": "元婴初期",
-    "身份": "炼丹长老",
+    "身份": "云天宗炼丹师",
     "外貌": "白发苍苍、灰袍，双目幽光",
     "标志特征": "以血祭六炼丹师之魂炼丹",
-    "性格": "只为炼丹、断绝凡念",
-    "阵营": "云天宗"
+    "性格": "痴狂于炼丹，弃权势、只为炼丹、断绝凡念、痴迷炼丹、废寝忘食、暴躁、忘却凡尘、专心一志于高阶灵丹",
+    "阵营": "云天宗",
+    "存殁": "存活"
   },
   "observations": {
     "小阶段": [
@@ -42,6 +44,11 @@
         "value": "炼丹长老",
         "docId": "plot.xianni-ch312-316-yinju-xinjia",
         "seq": 312
+      },
+      {
+        "value": "云天宗炼丹师",
+        "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+        "seq": 317
       }
     ],
     "外貌": [
@@ -73,6 +80,16 @@
         "value": "只为炼丹、断绝凡念",
         "docId": "plot.xianni-ch312-316-yinju-xinjia",
         "seq": 312
+      },
+      {
+        "value": "痴迷炼丹、废寝忘食",
+        "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+        "seq": 317
+      },
+      {
+        "value": "暴躁、忘却凡尘、专心一志于高阶灵丹",
+        "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+        "seq": 317
       }
     ],
     "阵营": [
@@ -80,6 +97,14 @@
         "value": "云天宗",
         "docId": "plot.xianni-ch327-return-to-zhuque-star",
         "seq": 309
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+        "seq": 317,
+        "note": "炼丹后倒下，非死亡而是心神憔悴"
       }
     ]
   },
@@ -93,9 +118,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch312-316-yinju-xinjia",
+      "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
       "dated": false,
-      "seq": 312
+      "seq": 317
     },
     "外貌": {
       "asOf": null,
@@ -111,15 +136,22 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch312-316-yinju-xinjia",
+      "docId": "plot.xianni-ch222-wanglin-jiedan",
       "dated": false,
-      "seq": 312
+      "seq": 206
     },
     "阵营": {
       "asOf": null,
       "docId": "plot.xianni-ch327-return-to-zhuque-star",
       "dated": false,
       "seq": 309
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+      "dated": false,
+      "seq": 317,
+      "note": "炼丹后倒下，非死亡而是心神憔悴"
     }
   },
   "contested": false,
@@ -128,7 +160,8 @@
     "plot.xianni-ch222-wanglin-jiedan",
     "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
     "plot.xianni-ch327-return-to-zhuque-star",
-    "plot.xianni-ch312-316-yinju-xinjia"
+    "plot.xianni-ch312-316-yinju-xinjia",
+    "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan"
   ],
-  "updatedAt": "2026-08-08T08:56:45.872Z"
+  "updatedAt": "2026-08-08T09:25:36.918Z"
 }
