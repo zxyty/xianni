@@ -4,13 +4,19 @@
   "name": "星罗盘",
   "aliases": [
     "黑色罗盘",
-    "黑色星罗盘"
+    "黑色星罗盘",
+    "伪星罗盘",
+    "巨魔族至宝星罗盘",
+    "Star Compass"
   ],
   "summary": "古尸祖师所持法宝，配合其修为可破开星球防幕，用以返回母星。",
   "attributes": {
-    "持有者": "纳多",
-    "能力": "裂开漆黑洞口通往星空、星际移动",
-    "外形": "巴掌大黑色罗盘，拍击可变大悬空"
+    "持有者": "叱虎",
+    "能力": "破星球防幕、裂开漆黑洞口通往星空、星际移动、于虚无中以极快速度滑行（非瞬移）、自带防御青色光幕、以奇异之力汇聚驱使者神识供交流、投映星图",
+    "外形": "巨大罗盘，刻画无数复杂深奥图案",
+    "品阶": "巨魔族至宝",
+    "禁制": "凝视其图案会令神识被吸扯而入",
+    "来历": "巨魔族至宝；涂司记忆中载有炼制之法，材料多已灭绝"
   },
   "observations": {
     "持有者": [
@@ -23,6 +29,11 @@
         "value": "纳多",
         "docId": "plot.xianni-ch231-234-xieyi-nanzi",
         "seq": 231
+      },
+      {
+        "value": "叱虎",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
       }
     ],
     "能力": [
@@ -35,6 +46,26 @@
         "value": "裂开漆黑洞口通往星空、星际移动",
         "docId": "plot.xianni-ch231-234-xieyi-nanzi",
         "seq": 231
+      },
+      {
+        "value": "于虚无中以极快速度滑行（非瞬移）",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
+      },
+      {
+        "value": "自带防御青色光幕",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
+      },
+      {
+        "value": "以奇异之力汇聚驱使者神识供交流",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
+      },
+      {
+        "value": "投映星图",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
       }
     ],
     "外形": [
@@ -42,6 +73,33 @@
         "value": "巴掌大黑色罗盘，拍击可变大悬空",
         "docId": "plot.xianni-ch231-234-xieyi-nanzi",
         "seq": 231
+      },
+      {
+        "value": "巨大罗盘，刻画无数复杂深奥图案",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
+      }
+    ],
+    "品阶": [
+      {
+        "value": "巨魔族至宝",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289,
+        "note": "叱虎所持为「伪星罗盘」，功效差不少"
+      }
+    ],
+    "禁制": [
+      {
+        "value": "凝视其图案会令神识被吸扯而入",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
+      }
+    ],
+    "来历": [
+      {
+        "value": "巨魔族至宝；涂司记忆中载有炼制之法，材料多已灭绝",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
       }
     ]
   },
@@ -49,28 +107,48 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch231-234-xieyi-nanzi",
+      "docId": "plot.xianni-ch307-shooting-god-chariot",
       "dated": false,
-      "seq": 231
+      "seq": 289
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-ch231-234-xieyi-nanzi",
+      "docId": "plot.xianni-ch232-jian-qiao",
       "dated": false,
-      "seq": 231
+      "seq": 216
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch231-234-xieyi-nanzi",
+      "docId": "plot.xianni-ch307-shooting-god-chariot",
       "dated": false,
-      "seq": 231
+      "seq": 289
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-ch307-shooting-god-chariot",
+      "dated": false,
+      "seq": 289,
+      "note": "叱虎所持为「伪星罗盘」，功效差不少"
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch307-shooting-god-chariot",
+      "dated": false,
+      "seq": 289
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch307-shooting-god-chariot",
+      "dated": false,
+      "seq": 289
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch232-jian-qiao",
-    "plot.xianni-ch231-234-xieyi-nanzi"
+    "plot.xianni-ch231-234-xieyi-nanzi",
+    "plot.xianni-ch307-shooting-god-chariot"
   ],
-  "updatedAt": "2026-07-23T05:08:48.010Z"
+  "updatedAt": "2026-08-08T04:03:20.874Z"
 }

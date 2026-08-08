@@ -75,3 +75,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-02T14:24:24.365Z** `ingest` plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men — 仙逆 第276-280章：天道开启，六道光柱同赴仙界之门 · kind=plot asOf=2026-08-02 entities=87 relations=150 src=00276-00280.md
 - **2026-08-02T14:43:22.222Z** `ingest` plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush — 仙逆 第281-284章：仙界碎片幻相与红蝶偷袭 · kind=plot asOf=2026-08-02 entities=68 relations=111 src=00281-00284.md
 - **2026-08-02T15:12:09.200Z** `ingest` plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal — 仙逆 第285-288章：仙兽府黑色仙粮之战与孙雷的背叛 · kind=plot asOf=2026-08-02 entities=95 relations=183 src=00285-00288.md
+- **2026-08-08T04:03:20.927Z** `ingest` plot.xianni-ch307-shooting-god-chariot — 仙逆 第307章 射神战车——天宝上人第十间石室与三具兽魂战车 · kind=plot asOf=2026-08-08 entities=89 relations=175 src=00289-00293.md

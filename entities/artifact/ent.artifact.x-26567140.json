@@ -5,12 +5,14 @@
   "aliases": [
     "巴掌大宝塔",
     "塔光",
-    "古帝本命法宝宝塔"
+    "古帝本命法宝宝塔",
+    "收尸宝塔",
+    "中年男子的宝塔"
   ],
   "summary": "古帝所持巴掌大宝塔，塔光和谐、游魂不敢近，用以护身困守。",
   "attributes": {
-    "持有者": "古帝",
-    "能力": "散发和谐光，游魂不敢入塔光范围、散发塔光形成阻力，阻挡游魂进入；需灵力持续维持、放出塔光护身",
+    "持有者": "恋尸中年男子",
+    "能力": "散发和谐光，游魂不敢入塔光范围、散发塔光形成阻力，阻挡游魂进入；需灵力持续维持、放出塔光护身、存放并释放女尸",
     "外形": "巴掌大小宝塔、宝塔"
   },
   "observations": {
@@ -19,6 +21,11 @@
         "value": "古帝",
         "docId": "plot.xianni-ch183-yibian-chushi",
         "seq": 168
+      },
+      {
+        "value": "恋尸中年男子",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
       }
     ],
     "能力": [
@@ -36,6 +43,11 @@
         "value": "放出塔光护身",
         "docId": "plot.xianni-ch183-yibian-chushi",
         "seq": 168
+      },
+      {
+        "value": "存放并释放女尸",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
       }
     ],
     "外形": [
@@ -55,9 +67,9 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch183-yibian-chushi",
+      "docId": "plot.xianni-ch307-shooting-god-chariot",
       "dated": false,
-      "seq": 168
+      "seq": 289
     },
     "能力": {
       "asOf": null,
@@ -75,7 +87,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch183-yibian-chushi"
+    "plot.xianni-ch183-yibian-chushi",
+    "plot.xianni-ch307-shooting-god-chariot"
   ],
-  "updatedAt": "2026-07-07T04:12:19.249Z"
+  "updatedAt": "2026-08-08T04:03:20.769Z"
 }

@@ -7,7 +7,8 @@
     "雪域冰雕傀儡",
     "元婴傀儡",
     "结丹傀儡",
-    "雪域国冰雕傀儡"
+    "雪域国冰雕傀儡",
+    "雪经脉冰雕"
   ],
   "summary": "雪域国凡人雕刻、修士刻阵激活而成的傀儡，按所显修为分级定价，元婴傀儡最贵且失败率极大，化神期傀儡无人能制。",
   "attributes": {
@@ -15,8 +16,8 @@
     "炼制者": "雪域修士（刻阵并以特殊方式激活）",
     "材料": "巨大冰块、雪经脉",
     "品阶": "元婴（最贵、极少、失败率高）、结丹、以下依次、元婴期极为少见",
-    "外形": "看似粗糙却有奇异之感的冰雕",
-    "能力": "四十九条雪经脉≈结丹中期攻击、八十一条雪经脉≈元婴期"
+    "外形": "冰雕，内含明暗雪经脉",
+    "能力": "四十九条雪经脉≈结丹中期攻击、八十一条雪经脉≈元婴期、点亮内部雪经脉抵御蓝雾寒气，散发阴冷之气"
   },
   "observations": {
     "本体来源": [
@@ -77,6 +78,11 @@
         "value": "看似粗糙却有奇异之感的冰雕",
         "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
         "seq": 263
+      },
+      {
+        "value": "冰雕，内含明暗雪经脉",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
       }
     ],
     "能力": [
@@ -89,6 +95,11 @@
         "value": "八十一条雪经脉≈元婴期",
         "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
         "seq": 263
+      },
+      {
+        "value": "点亮内部雪经脉抵御蓝雾寒气，散发阴冷之气",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
       }
     ]
   },
@@ -120,9 +131,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+      "docId": "plot.xianni-ch307-shooting-god-chariot",
       "dated": false,
-      "seq": 263
+      "seq": 289
     },
     "能力": {
       "asOf": null,
@@ -134,7 +145,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch263-267-tianni-change-xueyu-country"
+    "plot.xianni-ch263-267-tianni-change-xueyu-country",
+    "plot.xianni-ch307-shooting-god-chariot"
   ],
-  "updatedAt": "2026-08-02T10:56:50.709Z"
+  "updatedAt": "2026-08-08T04:03:20.877Z"
 }
