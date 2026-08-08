@@ -4,14 +4,17 @@
   "name": "冰雪神殿",
   "aliases": [
     "神殿",
-    "雪域国冰雪神殿"
+    "雪域国冰雪神殿",
+    "冰雪神殿宗",
+    "Ice Snow Temple"
   ],
   "summary": "雪域国处理外来者/四派余孽之事的机构，极为热衷此类上报，几乎今日上报明日即到。",
   "attributes": {
     "阵营": "雪域国",
-    "所属界面": "雪域国",
-    "据点": "雪域国",
-    "理念": "以仙旨号令结丹以上修士"
+    "所属界面": "朱雀星",
+    "据点": "雪域国·冰晶宫殿",
+    "理念": "以仙旨号令结丹以上修士",
+    "掌门": "冰雪神殿宗主"
   },
   "observations": {
     "阵营": [
@@ -26,6 +29,11 @@
         "value": "雪域国",
         "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
         "seq": 263
+      },
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
       }
     ],
     "据点": [
@@ -33,6 +41,11 @@
         "value": "雪域国",
         "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
         "seq": 263
+      },
+      {
+        "value": "雪域国·冰晶宫殿",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
       }
     ],
     "理念": [
@@ -40,6 +53,13 @@
         "value": "以仙旨号令结丹以上修士",
         "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
         "seq": 263
+      }
+    ],
+    "掌门": [
+      {
+        "value": "冰雪神殿宗主",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
       }
     ]
   },
@@ -53,27 +73,34 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+      "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
       "dated": false,
-      "seq": 263
+      "seq": 336
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+      "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
       "dated": false,
-      "seq": 263
+      "seq": 336
     },
     "理念": {
       "asOf": null,
       "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
       "dated": false,
       "seq": 263
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+      "dated": false,
+      "seq": 336
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch263-267-tianni-change-xueyu-country"
+    "plot.xianni-ch263-267-tianni-change-xueyu-country",
+    "plot.xianni-ch356-departure-immortal-remains-void-rift"
   ],
-  "updatedAt": "2026-08-02T10:56:50.711Z"
+  "updatedAt": "2026-08-08T14:28:21.366Z"
 }

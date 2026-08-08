@@ -11,13 +11,15 @@
     "蓝色冰晶",
     "蓝色晶光",
     "黄泉炎",
-    "冰炎"
+    "冰炎",
+    "黄泉冰炎",
+    "深蓝色火焰"
   ],
   "summary": "黄泉升窍决精髓，蓝色冰焰散发寒气而非热量，可消融蓝晶。",
   "attributes": {
-    "类型": "火焰诡术",
+    "类型": "阴寒异火",
     "出处": "黄泉升窍决一脉",
-    "威力": "可迅速消融蓝色冰晶、破坏力极强、秒杀结丹修士、重创元婴级，晶芒蛛网蔓延半身、蓝焰凝聚、融炼残躯",
+    "威力": "可迅速消融蓝色冰晶、破坏力极强、秒杀结丹修士、重创元婴级，晶芒蛛网蔓延半身、蓝焰凝聚、融炼残躯、驱散并吸收强于自身数倍的阴寒之气",
     "消耗": "过用损金丹",
     "适用境界": "结丹以上"
   },
@@ -62,6 +64,11 @@
         "value": "传承信物/香魂",
         "docId": "plot.xianni-ch188-gushen-chuancheng-2",
         "seq": 173
+      },
+      {
+        "value": "阴寒异火",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
       }
     ],
     "出处": [
@@ -106,6 +113,11 @@
         "value": "蓝焰凝聚、融炼残躯",
         "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
         "seq": 183
+      },
+      {
+        "value": "驱散并吸收强于自身数倍的阴寒之气",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
       }
     ],
     "消耗": [
@@ -137,9 +149,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
+      "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
       "dated": false,
-      "seq": 183
+      "seq": 336
     },
     "出处": {
       "asOf": null,
@@ -177,7 +189,8 @@
     "plot.xianni-ch183-yibian-chushi",
     "plot.xianni-ch183-185-shenti-chongzu-gushen-chuancheng",
     "plot.xianni-ch188-gushen-chuancheng-2",
-    "plot.xianni-ch226-leave-chu-country"
+    "plot.xianni-ch226-leave-chu-country",
+    "plot.xianni-ch356-departure-immortal-remains-void-rift"
   ],
-  "updatedAt": "2026-07-18T10:39:12.544Z"
+  "updatedAt": "2026-08-08T14:28:21.354Z"
 }

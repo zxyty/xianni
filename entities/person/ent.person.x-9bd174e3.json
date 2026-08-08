@@ -7,17 +7,18 @@
     "铁大长老",
     "铁岩师兄",
     "铁岩道友",
-    "铁岩师弟"
+    "铁岩师弟",
+    "打坐的老头"
   ],
   "summary": "云天宗另一位元婴后期大长老，与吕非同谋灭口，同样为化神可能追随王林。",
   "attributes": {
     "性别": "男",
-    "身份": "云天宗大长老、王林随从、王林麾下弟子/随行扈从、王林扈从、王林麾下守护者、受托守护者、王林麾下、女婴守护者",
-    "小阶段": "元婴期（未至圆满）",
-    "标志特征": "宝塔内只能进入约五十丈",
-    "阵营": "王林一方",
+    "身份": "云天宗大长老、王林随从、王林麾下弟子/随行扈从、王林扈从、王林麾下守护者、受托守护者、王林麾下、女婴守护者、受王林之命守护周茹者、王林追随者、王林随从/护卫",
+    "小阶段": "化神前最后阶段（婴变期圆满）",
+    "标志特征": "称王林为恩公，称周茹为婉茹儿小姐",
+    "阵营": "已离开云天宗",
     "寿元": "百年内不化神即归于尘土",
-    "性格": "执着、专注感悟"
+    "性格": "心无旁骛，只求化神"
   },
   "observations": {
     "性别": [
@@ -63,6 +64,22 @@
         "value": "王林麾下、女婴守护者",
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
+      },
+      {
+        "value": "受王林之命守护周茹者",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336,
+        "note": "本片段前一年已被遣回云天宗"
+      },
+      {
+        "value": "王林追随者",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
+      },
+      {
+        "value": "王林随从/护卫",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
       }
     ],
     "小阶段": [
@@ -76,6 +93,11 @@
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322,
         "note": "王林指其需元婴圆满方可望化神"
+      },
+      {
+        "value": "化神前最后阶段（婴变期圆满）",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
       }
     ],
     "标志特征": [
@@ -84,6 +106,11 @@
         "docId": "plot.xianni-ch312-316-yinju-xinjia",
         "seq": 312,
         "note": "第334章当时"
+      },
+      {
+        "value": "称王林为恩公，称周茹为婉茹儿小姐",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
       }
     ],
     "阵营": [
@@ -91,6 +118,12 @@
         "value": "王林一方",
         "docId": "plot.xianni-ch312-316-yinju-xinjia",
         "seq": 312
+      },
+      {
+        "value": "已离开云天宗",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336,
+        "note": "四年前放弃一切来到山谷"
       }
     ],
     "寿元": [
@@ -106,6 +139,11 @@
         "value": "执着、专注感悟",
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
+      },
+      {
+        "value": "心无旁骛，只求化神",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
       }
     ]
   },
@@ -125,23 +163,22 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+      "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
       "dated": false,
-      "seq": 322,
-      "note": "王林指其需元婴圆满方可望化神"
+      "seq": 336
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch312-316-yinju-xinjia",
+      "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
       "dated": false,
-      "seq": 312,
-      "note": "第334章当时"
+      "seq": 336
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch312-316-yinju-xinjia",
+      "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
       "dated": false,
-      "seq": 312
+      "seq": 336,
+      "note": "四年前放弃一切来到山谷"
     },
     "寿元": {
       "asOf": null,
@@ -152,9 +189,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+      "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
       "dated": false,
-      "seq": 322
+      "seq": 336
     }
   },
   "contested": false,
@@ -162,7 +199,8 @@
   "docs": [
     "plot.xianni-ch312-316-yinju-xinjia",
     "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
-    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree"
+    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+    "plot.xianni-ch356-departure-immortal-remains-void-rift"
   ],
-  "updatedAt": "2026-08-08T10:00:26.308Z"
+  "updatedAt": "2026-08-08T14:28:21.403Z"
 }

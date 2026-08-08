@@ -7,9 +7,10 @@
   ],
   "summary": "仙遗之地所出的珍稀木料，紫芯之父当年冒险入仙遗之地即为取之。",
   "attributes": {
-    "类型": "灵木",
+    "类型": "木材",
     "产地": "仙遗之地",
-    "稀有度": "极稀有"
+    "稀有度": "极稀有",
+    "用途": "制作岁月木雕"
   },
   "observations": {
     "类型": [
@@ -17,6 +18,11 @@
         "value": "灵木",
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
+      },
+      {
+        "value": "木材",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
       }
     ],
     "产地": [
@@ -32,15 +38,22 @@
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
       }
+    ],
+    "用途": [
+      {
+        "value": "制作岁月木雕",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
+      }
     ]
   },
   "firstSeq": 322,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+      "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
       "dated": false,
-      "seq": 322
+      "seq": 336
     },
     "产地": {
       "asOf": null,
@@ -53,12 +66,19 @@
       "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
       "dated": false,
       "seq": 322
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+      "dated": false,
+      "seq": 336
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree"
+    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+    "plot.xianni-ch356-departure-immortal-remains-void-rift"
   ],
-  "updatedAt": "2026-08-08T10:00:26.241Z"
+  "updatedAt": "2026-08-08T14:28:21.286Z"
 }

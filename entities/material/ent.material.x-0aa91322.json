@@ -7,13 +7,15 @@
     "轮回树果实",
     "Reincarnation Fruit",
     "三颗轮回果",
-    "黄色轮回果"
+    "黄色轮回果",
+    "黄芒之果",
+    "Samsara Fruit"
   ],
   "summary": "轮回树所结灵果，拳头大小、每两个时辰换一次颜色；化神后期大圆满服下可使婴变成功率增加三成以上。",
   "attributes": {
-    "类型": "灵果",
-    "用途": "化神后期大圆满服下，婴变成功率增加三成以上、增强本尊实力、王林此行索求之物、此行众人争夺目标、各方势力争夺之物",
-    "稀有度": "极稀有（数量最少两颗）",
+    "类型": "天材地宝·奇果",
+    "用途": "化神后期大圆满服下，婴变成功率增加三成以上、增强本尊实力、王林此行索求之物、此行众人争夺目标、各方势力争夺之物、本章判定最适合本尊服用（需求程度最高）、消去全身经脉、吸收天地灵力速度增加无数倍、成就古神一族之体",
+    "稀有度": "极稀有",
     "产地": "轮回树（仙遗之地地下）、仙遗之地、符文星、轮回树、第三层极西的轮回树、轮回树顶部（第三层）"
   },
   "observations": {
@@ -22,6 +24,11 @@
         "value": "灵果",
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
+      },
+      {
+        "value": "天材地宝·奇果",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
       }
     ],
     "用途": [
@@ -49,6 +56,26 @@
         "value": "各方势力争夺之物",
         "docId": "plot.xianni-ch347-xianyi-zu",
         "seq": 327
+      },
+      {
+        "value": "本章判定最适合本尊服用（需求程度最高）",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
+      },
+      {
+        "value": "消去全身经脉",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
+      },
+      {
+        "value": "吸收天地灵力速度增加无数倍",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
+      },
+      {
+        "value": "成就古神一族之体",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
       }
     ],
     "稀有度": [
@@ -61,6 +88,11 @@
         "value": "极稀有（数量最少两颗）",
         "docId": "plot.xianni-ch347-xianyi-zu",
         "seq": 327
+      },
+      {
+        "value": "极稀有",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
       }
     ],
     "产地": [
@@ -100,9 +132,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+      "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
       "dated": false,
-      "seq": 322
+      "seq": 336
     },
     "用途": {
       "asOf": null,
@@ -112,9 +144,9 @@
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.xianni-ch347-xianyi-zu",
+      "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
       "dated": false,
-      "seq": 327
+      "seq": 336
     },
     "产地": {
       "asOf": null,
@@ -127,7 +159,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
-    "plot.xianni-ch347-xianyi-zu"
+    "plot.xianni-ch347-xianyi-zu",
+    "plot.xianni-ch356-departure-immortal-remains-void-rift"
   ],
-  "updatedAt": "2026-08-08T10:30:36.429Z"
+  "updatedAt": "2026-08-08T14:28:21.285Z"
 }

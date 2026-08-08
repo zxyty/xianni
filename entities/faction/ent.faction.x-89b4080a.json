@@ -21,15 +21,16 @@
     "Snow Region Country",
     "雪域族",
     "雪域势力",
-    "雪域战场"
+    "雪域战场",
+    "Xue Yu Guo"
   ],
   "summary": "朱雀星上物资极为缺乏却攀升至四级的修真国，位于极北冰雪之地，功法多与冰雪相关，为利益发动对四派联盟的战争。",
   "attributes": {
-    "等级": "即将成为五级修真国",
+    "等级": "五级",
     "据点": "朱雀星",
     "所属界面": "朱雀星",
     "理念": "为利益扩张，入侵前先降不化之雪、以灭国之战夺取四派联盟之地作为新国址、以冰雪寒气覆压全境、夺取四派联盟之地作为雪域修士新的国址、先降大雪再进攻，以冰雪为法宝与补给、族群体制，无门派、师徒侍奉之事寻常公开，无人谴责、以天资卓绝者为门面",
-    "阵营": "雨鼎争夺战另一方、四派联盟之敌、入侵四派联盟一方、攻方（外来入侵）、与四派联盟交战方、与四派联盟敌对、进攻方、入侵方、与巨魔族结盟",
+    "阵营": "雨鼎争夺战另一方、四派联盟之敌、入侵四派联盟一方、攻方（外来入侵）、与四派联盟交战方、与四派联盟敌对、进攻方、入侵方、与巨魔族结盟、他国势力",
     "镇派之宝": "雪仙冰雕"
   },
   "observations": {
@@ -50,6 +51,12 @@
         "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
         "seq": 263,
         "note": "以红蝶交换，为期百年"
+      },
+      {
+        "value": "五级",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336,
+        "note": "因红蝶之事被硬提到五级"
       }
     ],
     "据点": [
@@ -168,6 +175,11 @@
         "value": "与巨魔族结盟",
         "docId": "plot.xianni-ch307-shooting-god-chariot",
         "seq": 289
+      },
+      {
+        "value": "他国势力",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
       }
     ],
     "镇派之宝": [
@@ -193,10 +205,10 @@
   "attrProvenance": {
     "等级": {
       "asOf": null,
-      "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+      "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
       "dated": false,
-      "seq": 263,
-      "note": "以红蝶交换，为期百年"
+      "seq": 336,
+      "note": "因红蝶之事被硬提到五级"
     },
     "据点": {
       "asOf": null,
@@ -242,7 +254,8 @@
     "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
     "plot.xianni-ch307-shooting-god-chariot",
     "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
-    "plot.xianni-ch312-316-yinju-xinjia"
+    "plot.xianni-ch312-316-yinju-xinjia",
+    "plot.xianni-ch356-departure-immortal-remains-void-rift"
   ],
-  "updatedAt": "2026-08-08T08:56:45.941Z"
+  "updatedAt": "2026-08-08T14:28:21.414Z"
 }
