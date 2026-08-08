@@ -15,12 +15,13 @@
     "种族": "巨魔族",
     "小阶段": "婴变期、婴变初期、婴变中期",
     "身份": "巨魔族老祖",
-    "外貌": "灰色头发、满脸皱纹、双目如皓月般明亮、身形可暴涨三丈如巨人",
+    "外貌": "灰色头发、满脸皱纹、双目如皓月般明亮、身形可暴涨三丈如巨人、老者（元神出窍形态化青光）",
     "阵营": "巨魔族",
     "标志特征": "身化十丈多高、天赋神通、身体强壮",
-    "性格": "隐忍、狠辣、灭口不留痕",
+    "性格": "阴沉、惜身、弃部属于不顾",
     "存殁": "存活",
-    "结局": "肉身被魔童踏毁，元神卷储物袋逃走并被魔童追击"
+    "结局": "肉身被魔童踏毁，元神卷储物袋逃走并被魔童追击",
+    "元神强度": "元神受创，留有三个拳印"
   },
   "observations": {
     "种族": [
@@ -65,6 +66,12 @@
         "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
         "seq": 346,
         "note": "施法时"
+      },
+      {
+        "value": "老者（元神出窍形态化青光）",
+        "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+        "seq": 356,
+        "note": "第376章已夺舍族人肉身，尚未完全融合"
       }
     ],
     "阵营": [
@@ -96,6 +103,11 @@
         "value": "隐忍、狠辣、灭口不留痕",
         "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
         "seq": 346
+      },
+      {
+        "value": "阴沉、惜身、弃部属于不顾",
+        "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+        "seq": 356
       }
     ],
     "存殁": [
@@ -111,6 +123,14 @@
         "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
         "seq": 346,
         "note": "本章"
+      }
+    ],
+    "元神强度": [
+      {
+        "value": "元神受创，留有三个拳印",
+        "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+        "seq": 356,
+        "note": "被孙泰的魔童所伤"
       }
     ]
   },
@@ -154,9 +174,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+      "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
       "dated": false,
-      "seq": 346
+      "seq": 356
     },
     "存殁": {
       "asOf": null,
@@ -170,13 +190,21 @@
       "dated": false,
       "seq": 346,
       "note": "本章"
+    },
+    "元神强度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+      "dated": false,
+      "seq": 356,
+      "note": "被孙泰的魔童所伤"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch356-departure-immortal-remains-void-rift",
-    "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip"
+    "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+    "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo"
   ],
-  "updatedAt": "2026-08-08T15:27:51.406Z"
+  "updatedAt": "2026-08-08T16:24:14.333Z"
 }

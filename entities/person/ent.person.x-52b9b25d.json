@@ -4,13 +4,16 @@
   "name": "魔童",
   "aliases": [
     "童子",
-    "红棺童子"
+    "红棺童子",
+    "孙泰的魔童"
   ],
   "summary": "孙泰以红色棺材封存的童子，被拍碎棺木唤醒；速度远超瞬移，一掌打出巨魔族老祖元神并踏毁其肉身，随后追杀其元神。",
   "attributes": {
     "外貌": "童子之身，双目妖异之光",
-    "身份": "孙泰的杀招/底牌",
-    "存殁": "存活"
+    "身份": "孙泰的魔童",
+    "存殁": "存活",
+    "标志特征": "一语不发、拳印直伤元神",
+    "性格": "沉默、执着追击"
   },
   "observations": {
     "外貌": [
@@ -25,6 +28,11 @@
         "value": "孙泰的杀招/底牌",
         "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
         "seq": 346
+      },
+      {
+        "value": "孙泰的魔童",
+        "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+        "seq": 356
       }
     ],
     "存殁": [
@@ -32,6 +40,25 @@
         "value": "存活",
         "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
         "seq": 346
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "一语不发",
+        "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+        "seq": 356
+      },
+      {
+        "value": "拳印直伤元神",
+        "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+        "seq": 356
+      }
+    ],
+    "性格": [
+      {
+        "value": "沉默、执着追击",
+        "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+        "seq": 356
       }
     ]
   },
@@ -45,21 +72,34 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+      "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
       "dated": false,
-      "seq": 346
+      "seq": 356
     },
     "存殁": {
       "asOf": null,
       "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
       "dated": false,
       "seq": 346
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+      "dated": false,
+      "seq": 356
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+      "dated": false,
+      "seq": 356
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip"
+    "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+    "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo"
   ],
-  "updatedAt": "2026-08-08T15:27:51.407Z"
+  "updatedAt": "2026-08-08T16:24:14.272Z"
 }
