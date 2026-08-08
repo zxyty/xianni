@@ -10,11 +10,11 @@
   ],
   "summary": "符文星上的原住种族，以符文吸收妖兽之力，修行者称「术咒师」，按叶数分阶，敌视外来修士。",
   "attributes": {
-    "特性": "以符文吸收妖兽之力、以「叶」数划分术咒师阶序、视死亡为回归符文之中、修炼符文之力，以叶数（四叶/五叶）划分修为、全身画符文印记、眉心生叶记境界、操控符文与空间",
+    "特性": "以符文吸收妖兽之力、以「叶」数划分术咒师阶序、视死亡为回归符文之中、修炼符文之力，以叶数（四叶/五叶）划分修为、全身画符文印记、眉心生叶记境界、操控符文与空间、眉心生妖异植物、种符成傀、受限无法离开仙遗第一层去地面、咒法诡异（符文植物寄生）、以族灵联系同族",
     "聚居地": "符文星·仙遗之地、第三层、仙遗之地",
     "阵营": "敌视外来修士",
-    "代表人物": "卡莫、胡老、驼背老者、齿木",
-    "天赋神通": "符文血录、观测符魂"
+    "代表人物": "卡莫、胡老、驼背老者、齿木、战咒士",
+    "天赋神通": "种下符种炼人为符傀"
   },
   "observations": {
     "特性": [
@@ -52,6 +52,31 @@
         "value": "操控符文与空间",
         "docId": "plot.xianni-ch347-xianyi-zu",
         "seq": 327
+      },
+      {
+        "value": "眉心生妖异植物",
+        "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+        "seq": 332
+      },
+      {
+        "value": "种符成傀",
+        "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+        "seq": 332
+      },
+      {
+        "value": "受限无法离开仙遗第一层去地面",
+        "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+        "seq": 332
+      },
+      {
+        "value": "咒法诡异（符文植物寄生）",
+        "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+        "seq": 332
+      },
+      {
+        "value": "以族灵联系同族",
+        "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+        "seq": 332
       }
     ],
     "聚居地": [
@@ -98,6 +123,11 @@
         "value": "齿木",
         "docId": "plot.xianni-ch347-xianyi-zu",
         "seq": 327
+      },
+      {
+        "value": "战咒士",
+        "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+        "seq": 332
       }
     ],
     "天赋神通": [
@@ -105,6 +135,11 @@
         "value": "符文血录、观测符魂",
         "docId": "plot.xianni-ch347-xianyi-zu",
         "seq": 327
+      },
+      {
+        "value": "种下符种炼人为符傀",
+        "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+        "seq": 332
       }
     ]
   },
@@ -136,15 +171,16 @@
     },
     "天赋神通": {
       "asOf": null,
-      "docId": "plot.xianni-ch347-xianyi-zu",
+      "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
       "dated": false,
-      "seq": 327
+      "seq": 332
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch347-xianyi-zu"
+    "plot.xianni-ch347-xianyi-zu",
+    "plot.xianni-ch352-fu-kui-space-rift-flight"
   ],
-  "updatedAt": "2026-08-08T10:30:36.465Z"
+  "updatedAt": "2026-08-08T10:48:57.952Z"
 }

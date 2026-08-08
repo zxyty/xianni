@@ -3,12 +3,16 @@
   "type": "beast",
   "name": "火灵",
   "aliases": [
-    "次荒兽"
+    "次荒兽",
+    "荒兽火灵"
   ],
   "summary": "半只脚踏入荒阶的次荒兽（上品灵级巅峰），曾被天逆珠子吸收。",
   "attributes": {
     "等级": "次荒兽/上品灵级巅峰",
-    "栖息地": "火焚国"
+    "栖息地": "火焚国地下岩浆",
+    "种族": "荒兽",
+    "能力": "吞噬修士以完善自身",
+    "外形": "火灵"
   },
   "observations": {
     "等级": [
@@ -23,6 +27,32 @@
         "value": "火焚国",
         "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
         "seq": 129
+      },
+      {
+        "value": "火焚国地下岩浆",
+        "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+        "seq": 332
+      }
+    ],
+    "种族": [
+      {
+        "value": "荒兽",
+        "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+        "seq": 332
+      }
+    ],
+    "能力": [
+      {
+        "value": "吞噬修士以完善自身",
+        "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+        "seq": 332
+      }
+    ],
+    "外形": [
+      {
+        "value": "火灵",
+        "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+        "seq": 332
       }
     ]
   },
@@ -36,15 +66,34 @@
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+      "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
       "dated": false,
-      "seq": 129
+      "seq": 332
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+      "dated": false,
+      "seq": 332
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+      "dated": false,
+      "seq": 332
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+      "dated": false,
+      "seq": 332
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch129-131-jiedan-sandan-heyi"
+    "plot.xianni-ch129-131-jiedan-sandan-heyi",
+    "plot.xianni-ch352-fu-kui-space-rift-flight"
   ],
-  "updatedAt": "2026-07-06T12:52:53.669Z"
+  "updatedAt": "2026-08-08T10:48:57.914Z"
 }

@@ -10,9 +10,10 @@
   "summary": "附于三辆射神战车之上的虚幻兽魂，头大如斗成三角形、身似牛、尾如蛟且尾端生口鼻眼，暴虐好斗，被魂链锁于车上。",
   "attributes": {
     "外形": "头大如斗成三角形，身似牛，尾如蛟且末端生口鼻眼，可称双头，红色巨眼",
-    "能力": "咆哮震人心魂并具穿透力、可使山峰晃动落下青灰",
-    "栖息地": "天宝上人洞府第十间石室的射神战车之上",
-    "主人": "天宝上人（封印者），本章王林正试图炼服"
+    "能力": "咆哮震人心魂并具穿透力、可使山峰晃动落下青灰、吞噬一切、冲击之威可推动七叶老者百丈",
+    "栖息地": "射神车内",
+    "主人": "王林",
+    "天敌": "启蒙符文"
   },
   "observations": {
     "外形": [
@@ -32,6 +33,16 @@
         "value": "可使山峰晃动落下青灰",
         "docId": "plot.xianni-ch307-shooting-god-chariot",
         "seq": 289
+      },
+      {
+        "value": "吞噬一切",
+        "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+        "seq": 332
+      },
+      {
+        "value": "冲击之威可推动七叶老者百丈",
+        "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+        "seq": 332
       }
     ],
     "栖息地": [
@@ -39,6 +50,11 @@
         "value": "天宝上人洞府第十间石室的射神战车之上",
         "docId": "plot.xianni-ch307-shooting-god-chariot",
         "seq": 289
+      },
+      {
+        "value": "射神车内",
+        "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+        "seq": 332
       }
     ],
     "主人": [
@@ -46,6 +62,19 @@
         "value": "天宝上人（封印者），本章王林正试图炼服",
         "docId": "plot.xianni-ch307-shooting-god-chariot",
         "seq": 289
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+        "seq": 332
+      }
+    ],
+    "天敌": [
+      {
+        "value": "启蒙符文",
+        "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+        "seq": 332,
+        "note": "自言全盛时期敢与之一斗，如今不得不退"
       }
     ]
   },
@@ -65,21 +94,29 @@
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.xianni-ch307-shooting-god-chariot",
+      "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
       "dated": false,
-      "seq": 289
+      "seq": 332
     },
     "主人": {
       "asOf": null,
-      "docId": "plot.xianni-ch307-shooting-god-chariot",
+      "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
       "dated": false,
-      "seq": 289
+      "seq": 332
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+      "dated": false,
+      "seq": 332,
+      "note": "自言全盛时期敢与之一斗，如今不得不退"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch307-shooting-god-chariot"
+    "plot.xianni-ch307-shooting-god-chariot",
+    "plot.xianni-ch352-fu-kui-space-rift-flight"
   ],
-  "updatedAt": "2026-08-08T04:03:20.750Z"
+  "updatedAt": "2026-08-08T10:48:57.885Z"
 }

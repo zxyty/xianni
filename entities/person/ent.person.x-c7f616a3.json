@@ -6,14 +6,16 @@
     "面带白纱的女子",
     "六品丹方买主",
     "小姐",
-    "姑娘"
+    "姑娘",
+    "脸带白纱的女子"
   ],
   "summary": "当年魔逆城外买下六品丹方之人；十年寻化神修士无果，向炼器阁胡姓老者透露当年未对王林言明的秘密，换其同赴仙遗之地。",
   "attributes": {
     "性别": "女",
-    "外貌": "面带白纱、身姿柔美、美眸如星光、眉目带疲惫、以白纱遮面",
+    "外貌": "面带白纱、身姿柔美、美眸如星光、眉目带疲惫、以白纱遮面、身材妙曼、脸带白纱",
     "身份": "有仆从随行的女修，与王林十年前相识",
-    "结局": "下落不明"
+    "结局": "下落不明",
+    "出身地": "自称周国"
   },
   "observations": {
     "性别": [
@@ -49,6 +51,11 @@
         "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
         "seq": 317,
         "note": "祖训不能轻易露出容颜"
+      },
+      {
+        "value": "身材妙曼、脸带白纱",
+        "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+        "seq": 332
       }
     ],
     "身份": [
@@ -64,6 +71,14 @@
         "docId": "plot.xianni-ch347-xianyi-zu",
         "seq": 327,
         "note": "第351章"
+      }
+    ],
+    "出身地": [
+      {
+        "value": "自称周国",
+        "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+        "seq": 332,
+        "note": "被王林本尊当场斥为一派胡言"
       }
     ]
   },
@@ -93,13 +108,21 @@
       "dated": false,
       "seq": 327,
       "note": "第351章"
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+      "dated": false,
+      "seq": 332,
+      "note": "被王林本尊当场斥为一派胡言"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
-    "plot.xianni-ch347-xianyi-zu"
+    "plot.xianni-ch347-xianyi-zu",
+    "plot.xianni-ch352-fu-kui-space-rift-flight"
   ],
-  "updatedAt": "2026-08-08T10:30:36.448Z"
+  "updatedAt": "2026-08-08T10:48:57.951Z"
 }

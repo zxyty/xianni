@@ -2,11 +2,17 @@
   "id": "ent.place.x-b9d42122",
   "type": "place",
   "name": "虚无之地",
-  "aliases": [],
+  "aliases": [
+    "漆黑虚无空间",
+    "仙遗虚无之地"
+  ],
   "summary": "王林此前随巨蛟沉入之处，成为古帝排除王林的依据。",
   "attributes": {
-    "类型": "虚无空间",
-    "危险度": "极高（危险之物太多）"
+    "类型": "虚空/空间",
+    "危险度": "极高（危险之物太多）",
+    "规模": "庞大无比，一月直线飞行不见尽头",
+    "特产": "无物质无生息",
+    "上级区域": "仙遗之地"
   },
   "observations": {
     "类型": [
@@ -14,6 +20,11 @@
         "value": "虚无空间",
         "docId": "plot.xianni-ch181-jinzhi-baofa",
         "seq": 166
+      },
+      {
+        "value": "虚空/空间",
+        "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+        "seq": 332
       }
     ],
     "危险度": [
@@ -22,28 +33,68 @@
         "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
         "seq": 299
       }
+    ],
+    "规模": [
+      {
+        "value": "庞大无比，一月直线飞行不见尽头",
+        "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+        "seq": 332
+      }
+    ],
+    "特产": [
+      {
+        "value": "无物质无生息",
+        "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+        "seq": 332
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "仙遗之地",
+        "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+        "seq": 332
+      }
     ]
   },
   "firstSeq": 166,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch181-jinzhi-baofa",
+      "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
       "dated": false,
-      "seq": 166
+      "seq": 332
     },
     "危险度": {
       "asOf": null,
       "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
       "dated": false,
       "seq": 299
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+      "dated": false,
+      "seq": 332
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+      "dated": false,
+      "seq": 332
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+      "dated": false,
+      "seq": 332
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch181-jinzhi-baofa",
-    "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet"
+    "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
+    "plot.xianni-ch352-fu-kui-space-rift-flight"
   ],
-  "updatedAt": "2026-08-08T05:08:08.185Z"
+  "updatedAt": "2026-08-08T10:48:57.917Z"
 }
