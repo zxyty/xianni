@@ -18,12 +18,13 @@
     "五品灵丹丹方玉简",
     "记录替代药材的玉简",
     "留神念的玉简",
-    "标注地点的玉简"
+    "标注地点的玉简",
+    "其师的玉简"
   ],
   "summary": "尸阴宗唯一身份凭证，按颜色分始祖青/师祖深蓝/长老淡蓝/弟子白；封印弟子魂魄以受上级控制。",
   "attributes": {
-    "类型": "传讯法器/玉简",
-    "用途": "标识身份、封印魂魄、上控下、通过护山大阵光幕、记录离开第三关之手诀、记载岐黄门丹药配方、记录珍贵丹方、记录斗邪派青龙法阵、记载岐黄门丹方、地理与传送阵信息、传递消息、碎裂放出七彩之烟，令细丝扭曲坠地抽动、拓印记录目标之地的位置、拓印秘境景象、指引路径、记录丹方、拓印阵图、记录替代药材配方、留神念传音、记录并指示曾牛所在之地",
+    "类型": "传讯／记录法器",
+    "用途": "标识身份、封印魂魄、上控下、通过护山大阵光幕、记录离开第三关之手诀、记载岐黄门丹药配方、记录珍贵丹方、记录斗邪派青龙法阵、记载岐黄门丹方、地理与传送阵信息、传递消息、碎裂放出七彩之烟，令细丝扭曲坠地抽动、拓印记录目标之地的位置、拓印秘境景象、指引路径、记录丹方、拓印阵图、记录替代药材配方、留神念传音、记录并指示曾牛所在之地、拓印传讯、凭证/取剑资格",
     "产地": "岐黄门"
   },
   "observations": {
@@ -77,6 +78,11 @@
         "value": "传讯法器/玉简",
         "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
         "seq": 317
+      },
+      {
+        "value": "传讯／记录法器",
+        "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+        "seq": 322
       }
     ],
     "用途": [
@@ -164,6 +170,16 @@
         "value": "记录并指示曾牛所在之地",
         "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
         "seq": 317
+      },
+      {
+        "value": "拓印传讯",
+        "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+        "seq": 322
+      },
+      {
+        "value": "凭证/取剑资格",
+        "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+        "seq": 322
       }
     ],
     "产地": [
@@ -178,9 +194,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+      "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
       "dated": false,
-      "seq": 317
+      "seq": 322
     },
     "用途": {
       "asOf": null,
@@ -211,7 +227,8 @@
     "plot.xianni-ch307-shooting-god-chariot",
     "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
     "plot.xianni-ch312-316-yinju-xinjia",
-    "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan"
+    "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree"
   ],
-  "updatedAt": "2026-08-08T09:25:36.983Z"
+  "updatedAt": "2026-08-08T10:00:26.284Z"
 }

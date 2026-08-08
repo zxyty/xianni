@@ -82,3 +82,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-08T06:22:47.875Z** `ingest` plot.xianni-ch327-return-to-zhuque-star — 仙逆 第327章 回归——王林重返朱雀星，闻「曾牛」之名传遍星域 · kind=plot asOf=2026-08-08 entities=114 relations=230 src=00309-00311.md
 - **2026-08-08T08:56:46.016Z** `ingest` plot.xianni-ch312-316-yinju-xinjia — 仙逆 第312-316章：封山救李慕婉·楚国深山隐居建新家 · kind=plot asOf=2026-08-08 entities=101 relations=192 src=00312-00316.md
 - **2026-08-08T09:25:37.041Z** `ingest` plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan — 仙逆 第337章《不舍》：次极品灵石血线、归元丹替代品与李慕婉衰老 · kind=plot asOf=2026-08-08 entities=95 relations=186 src=00317-00321.md
+- **2026-08-08T10:00:26.427Z** `ingest` plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree — 仙逆 第342章 野人余孽——仙遗之地、轮回树与轮回果 · kind=plot asOf=2026-08-08 entities=129 relations=250 src=00322-00326.md
