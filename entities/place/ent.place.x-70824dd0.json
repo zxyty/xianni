@@ -2,11 +2,18 @@
   "id": "ent.place.x-70824dd0",
   "type": "place",
   "name": "仙遗之地第三层",
-  "aliases": [],
+  "aliases": [
+    "第三层入口",
+    "火红色的世界"
+  ],
   "summary": "更深一层，入口位于第二层极北之处，为胡老约定的汇合点。",
   "attributes": {
-    "上级区域": "仙遗之地",
-    "类型": "秘境层"
+    "上级区域": "符文星",
+    "类型": "分层区域",
+    "方位": "入口位于第二层极北之处",
+    "危险度": "极高、疑有六叶术咒师、极大",
+    "守护": "七叶术咒师",
+    "特产": "可散发红芒的奇异物质"
   },
   "observations": {
     "上级区域": [
@@ -14,6 +21,11 @@
         "value": "仙遗之地",
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
+      },
+      {
+        "value": "符文星",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
       }
     ],
     "类型": [
@@ -21,6 +33,49 @@
         "value": "秘境层",
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
+      },
+      {
+        "value": "分层区域",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      }
+    ],
+    "方位": [
+      {
+        "value": "入口位于第二层极北之处",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      },
+      {
+        "value": "疑有六叶术咒师",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      },
+      {
+        "value": "极大",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      }
+    ],
+    "守护": [
+      {
+        "value": "七叶术咒师",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      }
+    ],
+    "特产": [
+      {
+        "value": "可散发红芒的奇异物质",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
       }
     ]
   },
@@ -28,21 +83,46 @@
   "attrProvenance": {
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+      "docId": "plot.xianni-ch347-xianyi-zu",
       "dated": false,
-      "seq": 322
+      "seq": 327
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+      "docId": "plot.xianni-ch347-xianyi-zu",
       "dated": false,
-      "seq": 322
+      "seq": 327
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch347-xianyi-zu",
+      "dated": false,
+      "seq": 327
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch347-xianyi-zu",
+      "dated": false,
+      "seq": 327
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch347-xianyi-zu",
+      "dated": false,
+      "seq": 327
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch347-xianyi-zu",
+      "dated": false,
+      "seq": 327
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree"
+    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+    "plot.xianni-ch347-xianyi-zu"
   ],
-  "updatedAt": "2026-08-08T10:00:26.359Z"
+  "updatedAt": "2026-08-08T10:30:36.463Z"
 }

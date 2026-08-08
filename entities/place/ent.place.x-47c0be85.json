@@ -3,13 +3,16 @@
   "type": "place",
   "name": "秘境第三层",
   "aliases": [
-    "第三层"
+    "第三层",
+    "第三层天地",
+    "第三层空间"
   ],
   "summary": "习祖分析中存在的更深一层，中年男子判断其中应有仙玉；水潭被王林认为是其入口。",
   "attributes": {
-    "类型": "秘境空间",
+    "类型": "分层空间",
     "上级区域": "朱雀星秘境",
-    "特产": "仙玉"
+    "特产": "仙玉、轮回树、轮回果",
+    "危险度": "极高（全层仙遗族争夺）"
   },
   "observations": {
     "类型": [
@@ -17,6 +20,11 @@
         "value": "秘境空间",
         "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
         "seq": 294
+      },
+      {
+        "value": "分层空间",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
       }
     ],
     "上级区域": [
@@ -32,6 +40,23 @@
         "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
         "seq": 294,
         "note": "中年男子推测"
+      },
+      {
+        "value": "轮回树",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      },
+      {
+        "value": "轮回果",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高（全层仙遗族争夺）",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
       }
     ]
   },
@@ -39,9 +64,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+      "docId": "plot.xianni-ch347-xianyi-zu",
       "dated": false,
-      "seq": 294
+      "seq": 327
     },
     "上级区域": {
       "asOf": null,
@@ -55,12 +80,19 @@
       "dated": false,
       "seq": 294,
       "note": "中年男子推测"
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch347-xianyi-zu",
+      "dated": false,
+      "seq": 327
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch294-298-void-voyage-first-fairy-fragment"
+    "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+    "plot.xianni-ch347-xianyi-zu"
   ],
-  "updatedAt": "2026-08-08T04:38:19.248Z"
+  "updatedAt": "2026-08-08T10:30:36.410Z"
 }

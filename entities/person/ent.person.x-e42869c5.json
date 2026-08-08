@@ -6,15 +6,23 @@
     "炼器阁执事许罗",
     "许罗掌事",
     "许罗师兄",
-    "许罗道友"
+    "许罗道友",
+    "许罗少女",
+    "许罗前辈",
+    "许罗弟子"
   ],
   "summary": "炼器阁内身属高位的中年修士，两个月前接待王林购买丹方，此次亲自恭迎并引王林一行上三楼，事后向二层雅间的『老祖』密报。",
   "attributes": {
-    "身份": "炼器阁高位执事、炼器阁拍卖主持、胡老的后辈、胡老一行成员",
+    "身份": "炼器阁高位执事、炼器阁拍卖主持、胡老的后辈、胡老一行成员、催化轮回果的关键人选、催化轮回树者、献寿催生轮回果者、胡老门下弟子",
     "性格": "机敏识时务、对强者极度恭谨",
-    "性别": "男",
-    "存殁": "存活",
-    "标志特征": "口吐飞剑、贴身穿内甲、贴身穿内甲"
+    "性别": "女",
+    "存殁": "存活、生死不明、死亡",
+    "标志特征": "口吐飞剑、贴身穿内甲、贴身穿内甲",
+    "外貌": "银甲破损、鲜血流下、脸有三道兽爪血痕、额生皱纹、头发由黑转灰的老态",
+    "寿元": "尚有百年",
+    "阵营": "炼器阁一方",
+    "死因": "被胡老抽取全部寿元催化轮回果",
+    "结局": "尸体被仙遗族取走另有用处"
   },
   "observations": {
     "身份": [
@@ -37,6 +45,26 @@
         "value": "胡老一行成员",
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
+      },
+      {
+        "value": "催化轮回果的关键人选",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      },
+      {
+        "value": "催化轮回树者",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      },
+      {
+        "value": "献寿催生轮回果者",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      },
+      {
+        "value": "胡老门下弟子",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
       }
     ],
     "性格": [
@@ -51,6 +79,11 @@
         "value": "男",
         "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
         "seq": 317
+      },
+      {
+        "value": "女",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
       }
     ],
     "存殁": [
@@ -58,6 +91,17 @@
         "value": "存活",
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
+      },
+      {
+        "value": "生死不明",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327,
+        "note": "被抽尽寿元后喷血倒地，文中未明言死亡"
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
       }
     ],
     "标志特征": [
@@ -70,6 +114,49 @@
         "value": "贴身穿内甲",
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
+      }
+    ],
+    "外貌": [
+      {
+        "value": "银甲破损、鲜血流下、脸有三道兽爪血痕",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327,
+        "note": "第347章受伤时"
+      },
+      {
+        "value": "额生皱纹、头发由黑转灰的老态",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327,
+        "note": "献寿催树后急速衰老"
+      }
+    ],
+    "寿元": [
+      {
+        "value": "尚有百年",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      }
+    ],
+    "阵营": [
+      {
+        "value": "炼器阁一方",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      }
+    ],
+    "死因": [
+      {
+        "value": "被胡老抽取全部寿元催化轮回果",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327,
+        "note": "第350章"
+      }
+    ],
+    "结局": [
+      {
+        "value": "尸体被仙遗族取走另有用处",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
       }
     ]
   },
@@ -89,9 +176,9 @@
     },
     "性别": {
       "asOf": null,
-      "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+      "docId": "plot.xianni-ch347-xianyi-zu",
       "dated": false,
-      "seq": 317
+      "seq": 327
     },
     "存殁": {
       "asOf": null,
@@ -104,6 +191,38 @@
       "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
       "dated": false,
       "seq": 322
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch347-xianyi-zu",
+      "dated": false,
+      "seq": 327,
+      "note": "第347章受伤时"
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.xianni-ch347-xianyi-zu",
+      "dated": false,
+      "seq": 327
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch347-xianyi-zu",
+      "dated": false,
+      "seq": 327
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch347-xianyi-zu",
+      "dated": false,
+      "seq": 327,
+      "note": "第350章"
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch347-xianyi-zu",
+      "dated": false,
+      "seq": 327
     }
   },
   "contested": false,
@@ -111,7 +230,8 @@
   "docs": [
     "plot.xianni-ch312-316-yinju-xinjia",
     "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
-    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree"
+    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+    "plot.xianni-ch347-xianyi-zu"
   ],
-  "updatedAt": "2026-08-08T10:00:26.347Z"
+  "updatedAt": "2026-08-08T10:30:36.446Z"
 }

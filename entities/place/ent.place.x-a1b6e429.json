@@ -5,9 +5,9 @@
   "aliases": [],
   "summary": "黑暗且散出令人烦躁的气息，遍布陌生妖兽兽骨与腐尸，有三叶、五叶术咒师活动。",
   "attributes": {
-    "上级区域": "仙遗之地",
-    "类型": "秘境层",
-    "危险度": "高",
+    "上级区域": "符文星",
+    "类型": "分层区域",
+    "危险度": "有五叶术咒师、暴虐之气侵体",
     "特产": "陌生妖兽兽骨、淤泥潭蛟龙"
   },
   "observations": {
@@ -16,6 +16,11 @@
         "value": "仙遗之地",
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
+      },
+      {
+        "value": "符文星",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
       }
     ],
     "类型": [
@@ -23,6 +28,11 @@
         "value": "秘境层",
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
+      },
+      {
+        "value": "分层区域",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
       }
     ],
     "危险度": [
@@ -30,6 +40,11 @@
         "value": "高",
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
+      },
+      {
+        "value": "有五叶术咒师、暴虐之气侵体",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
       }
     ],
     "特产": [
@@ -49,21 +64,21 @@
   "attrProvenance": {
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+      "docId": "plot.xianni-ch347-xianyi-zu",
       "dated": false,
-      "seq": 322
+      "seq": 327
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+      "docId": "plot.xianni-ch347-xianyi-zu",
       "dated": false,
-      "seq": 322
+      "seq": 327
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+      "docId": "plot.xianni-ch347-xianyi-zu",
       "dated": false,
-      "seq": 322
+      "seq": 327
     },
     "特产": {
       "asOf": null,
@@ -75,7 +90,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree"
+    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+    "plot.xianni-ch347-xianyi-zu"
   ],
-  "updatedAt": "2026-08-08T10:00:26.358Z"
+  "updatedAt": "2026-08-08T10:30:36.464Z"
 }

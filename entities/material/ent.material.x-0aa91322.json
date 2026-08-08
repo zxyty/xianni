@@ -2,13 +2,19 @@
   "id": "ent.material.x-0aa91322",
   "type": "material",
   "name": "轮回果",
-  "aliases": [],
+  "aliases": [
+    "轮回之果",
+    "轮回树果实",
+    "Reincarnation Fruit",
+    "三颗轮回果",
+    "黄色轮回果"
+  ],
   "summary": "轮回树所结灵果，拳头大小、每两个时辰换一次颜色；化神后期大圆满服下可使婴变成功率增加三成以上。",
   "attributes": {
     "类型": "灵果",
-    "用途": "化神后期大圆满服下，婴变成功率增加三成以上、增强本尊实力",
-    "稀有度": "重宝",
-    "产地": "轮回树（仙遗之地地下）、仙遗之地"
+    "用途": "化神后期大圆满服下，婴变成功率增加三成以上、增强本尊实力、王林此行索求之物、此行众人争夺目标、各方势力争夺之物",
+    "稀有度": "极稀有（数量最少两颗）",
+    "产地": "轮回树（仙遗之地地下）、仙遗之地、符文星、轮回树、第三层极西的轮回树、轮回树顶部（第三层）"
   },
   "observations": {
     "类型": [
@@ -28,6 +34,21 @@
         "value": "增强本尊实力",
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
+      },
+      {
+        "value": "王林此行索求之物",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      },
+      {
+        "value": "此行众人争夺目标",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      },
+      {
+        "value": "各方势力争夺之物",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
       }
     ],
     "稀有度": [
@@ -35,6 +56,11 @@
         "value": "重宝",
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
+      },
+      {
+        "value": "极稀有（数量最少两颗）",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
       }
     ],
     "产地": [
@@ -47,6 +73,26 @@
         "value": "仙遗之地",
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
+      },
+      {
+        "value": "符文星",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      },
+      {
+        "value": "轮回树",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      },
+      {
+        "value": "第三层极西的轮回树",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      },
+      {
+        "value": "轮回树顶部（第三层）",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
       }
     ]
   },
@@ -66,9 +112,9 @@
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+      "docId": "plot.xianni-ch347-xianyi-zu",
       "dated": false,
-      "seq": 322
+      "seq": 327
     },
     "产地": {
       "asOf": null,
@@ -80,7 +126,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree"
+    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+    "plot.xianni-ch347-xianyi-zu"
   ],
-  "updatedAt": "2026-08-08T10:00:26.241Z"
+  "updatedAt": "2026-08-08T10:30:36.429Z"
 }
