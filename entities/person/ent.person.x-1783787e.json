@@ -11,19 +11,20 @@
     "邱姓中年人",
     "邱姓男子",
     "邱四平道友",
-    "邱师兄"
+    "邱师兄",
+    "四平"
   ],
   "summary": "修魔海内高手，结丹后期大圆满，擅用兽皮小鼓操控黑雾化雾龙魔兵；识得上古禁制，被王林极境神识重创后以黑色木头奇宝护身逃生，抛出『归息中的元婴』诱饵。",
   "attributes": {
     "小阶段": "结丹后期大圆满、结丹后期、金丹、元婴期、元婴初期、元婴后期大圆满",
     "外貌": "身穿紫袍，头发花白，不怒自威",
-    "标志特征": "神识、功法、法宝、战斗经验俱强",
+    "标志特征": "额头不断生长的奇异印记",
     "阵营": "散修",
-    "存殁": "存活",
-    "结局": "本章被王林极境神识重创，以奇宝护身逃走并求生",
-    "性格": "阴狠、表里不一、拿得起放得下、狡猾、执念深、隐露癫狂、谨慎、忌惮王林、阴狠、算计、轻蔑同阶、心机极深、审时度势、自傲而识时务、识趣、仗义",
-    "身份": "散修、上古禁制寻访者、某派宗主辈人物（携弟子而来）、胡老随从、探索队伍成员",
-    "出身地": "修魔内海",
+    "存殁": "生死不明",
+    "结局": "被六叶修士催化成为傀儡",
+    "性格": "阴狠、表里不一、拿得起放得下、狡猾、执念深、隐露癫狂、谨慎、忌惮王林、阴狠、算计、轻蔑同阶、心机极深、审时度势、自傲而识时务、识趣、仗义、识时务、怯懦、惜命、识时务、能屈能伸",
+    "身份": "散修、上古禁制寻访者、某派宗主辈人物（携弟子而来）、胡老随从、探索队伍成员、随行修士、修士",
+    "出身地": "修魔海平原一带洞府",
     "寿元": "修炼二百余年",
     "性别": "男"
   },
@@ -103,6 +104,12 @@
         "value": "神识、功法、法宝、战斗经验俱强",
         "docId": "plot.xianni-ch226-leave-chu-country",
         "seq": 210
+      },
+      {
+        "value": "额头不断生长的奇异印记",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327,
+        "note": "被六叶术咒师催化所致"
       }
     ],
     "阵营": [
@@ -128,6 +135,12 @@
         "value": "存活",
         "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
         "seq": 188
+      },
+      {
+        "value": "生死不明",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327,
+        "note": "额头出现不断生长的奇异印记，昏迷被弃"
       }
     ],
     "结局": [
@@ -135,6 +148,11 @@
         "value": "本章被王林极境神识重创，以奇宝护身逃走并求生",
         "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
         "seq": 188
+      },
+      {
+        "value": "被六叶修士催化成为傀儡",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
       }
     ],
     "性格": [
@@ -177,6 +195,16 @@
         "value": "识趣、仗义",
         "docId": "plot.xianni-ch312-316-yinju-xinjia",
         "seq": 312
+      },
+      {
+        "value": "识时务、怯懦、惜命",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      },
+      {
+        "value": "识时务、能屈能伸",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
       }
     ],
     "身份": [
@@ -204,6 +232,16 @@
         "value": "探索队伍成员",
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
+      },
+      {
+        "value": "随行修士",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      },
+      {
+        "value": "修士",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
       }
     ],
     "出身地": [
@@ -211,6 +249,12 @@
         "value": "修魔内海",
         "docId": "plot.xianni-ch207-killing-for-cores",
         "seq": 191
+      },
+      {
+        "value": "修魔海平原一带洞府",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327,
+        "note": "王林当年暗中跟随时所见，洞府内古籍众多"
       }
     ],
     "寿元": [
@@ -244,9 +288,10 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch226-leave-chu-country",
+      "docId": "plot.xianni-ch347-xianyi-zu",
       "dated": false,
-      "seq": 210
+      "seq": 327,
+      "note": "被六叶术咒师催化所致"
     },
     "阵营": {
       "asOf": null,
@@ -256,15 +301,16 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+      "docId": "plot.xianni-ch347-xianyi-zu",
       "dated": false,
-      "seq": 188
+      "seq": 327,
+      "note": "额头出现不断生长的奇异印记，昏迷被弃"
     },
     "结局": {
       "asOf": null,
-      "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+      "docId": "plot.xianni-ch347-xianyi-zu",
       "dated": false,
-      "seq": 188
+      "seq": 327
     },
     "性格": {
       "asOf": null,
@@ -280,9 +326,10 @@
     },
     "出身地": {
       "asOf": null,
-      "docId": "plot.xianni-ch207-killing-for-cores",
+      "docId": "plot.xianni-ch347-xianyi-zu",
       "dated": false,
-      "seq": 191
+      "seq": 327,
+      "note": "王林当年暗中跟随时所见，洞府内古籍众多"
     },
     "寿元": {
       "asOf": null,
@@ -308,7 +355,8 @@
     "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
     "plot.xianni-ch312-316-yinju-xinjia",
     "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
-    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree"
+    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+    "plot.xianni-ch347-xianyi-zu"
   ],
-  "updatedAt": "2026-08-08T10:00:26.334Z"
+  "updatedAt": "2026-08-08T10:30:36.446Z"
 }

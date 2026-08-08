@@ -6,14 +6,16 @@
     "巨大铜铃",
     "上吉修士的铃铛",
     "炼化铃铛",
-    "七彩铃铛"
+    "七彩铃铛",
+    "铃铎",
+    "封人铃铛"
   ],
   "summary": "上吉修士遗留的法宝，可迎风化作数丈铜铃困住敌手，并以铃上记录的手印施法炼化，连元神都能彻底炼化。",
   "attributes": {
     "来历": "上吉修士的一件法宝",
     "持有者": "王林",
-    "能力": "困人、以手印炼化敌手、可彻底炼化元神、收摄修士、持续炼化肉身与元神",
-    "禁制": "持宝者修为须略高于被炼化者，否则易遭反噬",
+    "能力": "困人、以手印炼化敌手、可彻底炼化元神、收摄修士、持续炼化肉身与元神、罩落笼罩敌人、封禁收纳活物",
+    "禁制": "王林打出的印诀",
     "外形": "小铃铛，迎风见长可化作数丈大小铜铃、可变大的铃铛，底部散七彩之气"
   },
   "observations": {
@@ -56,6 +58,16 @@
         "value": "持续炼化肉身与元神",
         "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
         "seq": 276
+      },
+      {
+        "value": "罩落笼罩敌人",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      },
+      {
+        "value": "封禁收纳活物",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
       }
     ],
     "禁制": [
@@ -63,6 +75,11 @@
         "value": "持宝者修为须略高于被炼化者，否则易遭反噬",
         "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
         "seq": 276
+      },
+      {
+        "value": "王林打出的印诀",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
       }
     ],
     "外形": [
@@ -100,9 +117,9 @@
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+      "docId": "plot.xianni-ch347-xianyi-zu",
       "dated": false,
-      "seq": 276
+      "seq": 327
     },
     "外形": {
       "asOf": null,
@@ -114,7 +131,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men"
+    "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+    "plot.xianni-ch347-xianyi-zu"
   ],
-  "updatedAt": "2026-08-02T14:24:24.314Z"
+  "updatedAt": "2026-08-08T10:30:36.425Z"
 }

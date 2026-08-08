@@ -8,16 +8,20 @@
     "尸骸手中仙剑",
     "金光仙剑",
     "玉棺三把仙剑",
-    "骸骨手中的仙剑"
+    "骸骨手中的仙剑",
+    "王林的仙剑",
+    "黑光仙剑",
+    "黑色剑芒仙剑"
   ],
   "summary": "骸骨手持之飞剑，属性不明但绝非凡物；剑上有威力极大的禁制与庞大威压，非长时间祭炼无法拿起。",
   "attributes": {
     "品阶": "仙剑",
-    "禁制": "触碰即爆发金光，刺出血粼粼伤口并熔化护甲",
+    "禁制": "由许立国与游魂操控，使用过多操控者烟消云散",
     "五行属性": "不明",
     "来历": "仙界碎片洞穴内尸骸",
-    "外形": "尸骸手中所握之剑、三把插于玉石棺材之上",
-    "能力": "触之手指刺痛"
+    "外形": "尸骸手中所握之剑、三把插于玉石棺材之上、剑、出手时化作黑光",
+    "能力": "触之手指刺痛、斩出快若闪电的剑芒、斩出剑芒、上抛化黑光穿透铁盘、横斩腰斩敌人、黑色剑芒斩击、连发十道剑芒",
+    "持有者": "王林"
   },
   "observations": {
     "品阶": [
@@ -42,6 +46,11 @@
         "value": "触碰即爆发金光，刺出血粼粼伤口并熔化护甲",
         "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
         "seq": 285
+      },
+      {
+        "value": "由许立国与游魂操控，使用过多操控者烟消云散",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
       }
     ],
     "五行属性": [
@@ -73,6 +82,16 @@
         "value": "三把插于玉石棺材之上",
         "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
         "seq": 285
+      },
+      {
+        "value": "剑",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      },
+      {
+        "value": "出手时化作黑光",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
       }
     ],
     "能力": [
@@ -81,6 +100,43 @@
         "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
         "seq": 294,
         "note": "王林回忆中的触感"
+      },
+      {
+        "value": "斩出快若闪电的剑芒",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      },
+      {
+        "value": "斩出剑芒",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      },
+      {
+        "value": "上抛化黑光穿透铁盘",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      },
+      {
+        "value": "横斩腰斩敌人",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      },
+      {
+        "value": "黑色剑芒斩击",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      },
+      {
+        "value": "连发十道剑芒",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      }
+    ],
+    "持有者": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
       }
     ]
   },
@@ -94,9 +150,9 @@
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+      "docId": "plot.xianni-ch347-xianyi-zu",
       "dated": false,
-      "seq": 285
+      "seq": 327
     },
     "五行属性": {
       "asOf": null,
@@ -122,6 +178,12 @@
       "dated": false,
       "seq": 294,
       "note": "王林回忆中的触感"
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.xianni-ch347-xianyi-zu",
+      "dated": false,
+      "seq": 327
     }
   },
   "contested": false,
@@ -130,7 +192,8 @@
     "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
     "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
     "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
-    "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void"
+    "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
+    "plot.xianni-ch347-xianyi-zu"
   ],
-  "updatedAt": "2026-08-08T05:44:31.280Z"
+  "updatedAt": "2026-08-08T10:30:36.454Z"
 }

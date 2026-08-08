@@ -3,12 +3,16 @@
   "type": "technique",
   "name": "禁制",
   "aliases": [
-    "禁制之术"
+    "禁制之术",
+    "结印布禁",
+    "九十九个禁制",
+    "禁制大手"
   ],
   "summary": "阵法的一种，更倾向神念、灵活多变；掌握后可随手布置、诡异强大。王林在禁山系统钻研此术。",
   "attributes": {
-    "效果": "布防、杀敌、困敌、隐匿气息",
-    "修炼条件": "循序渐进、大量心神推演"
+    "效果": "布防、杀敌、困敌、隐匿气息、层层龟甲式防御（笼罩三十丈）、残影凝聚成巨手抓取并引爆目标",
+    "修炼条件": "循序渐进、大量心神推演",
+    "外显异象": "一个个禁制之圈自手中浮现飘散"
   },
   "observations": {
     "效果": [
@@ -31,6 +35,16 @@
         "value": "隐匿气息",
         "docId": "plot.xianni-ch179-180-jinshan-study-restrictions",
         "seq": 164
+      },
+      {
+        "value": "层层龟甲式防御（笼罩三十丈）",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      },
+      {
+        "value": "残影凝聚成巨手抓取并引爆目标",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
       }
     ],
     "修炼条件": [
@@ -38,6 +52,13 @@
         "value": "循序渐进、大量心神推演",
         "docId": "plot.xianni-ch179-180-jinshan-study-restrictions",
         "seq": 164
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "一个个禁制之圈自手中浮现飘散",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
       }
     ]
   },
@@ -54,12 +75,19 @@
       "docId": "plot.xianni-ch179-180-jinshan-study-restrictions",
       "dated": false,
       "seq": 164
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.xianni-ch347-xianyi-zu",
+      "dated": false,
+      "seq": 327
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch179-180-jinshan-study-restrictions"
+    "plot.xianni-ch179-180-jinshan-study-restrictions",
+    "plot.xianni-ch347-xianyi-zu"
   ],
-  "updatedAt": "2026-07-07T02:42:08.961Z"
+  "updatedAt": "2026-08-08T10:30:36.406Z"
 }

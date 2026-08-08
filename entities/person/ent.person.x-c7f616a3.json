@@ -12,7 +12,8 @@
   "attributes": {
     "性别": "女",
     "外貌": "面带白纱、身姿柔美、美眸如星光、眉目带疲惫、以白纱遮面",
-    "身份": "有仆从随行的女修，与王林十年前相识"
+    "身份": "有仆从随行的女修，与王林十年前相识",
+    "结局": "下落不明"
   },
   "observations": {
     "性别": [
@@ -56,6 +57,14 @@
         "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
         "seq": 317
       }
+    ],
+    "结局": [
+      {
+        "value": "下落不明",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327,
+        "note": "第351章"
+      }
     ]
   },
   "firstSeq": 317,
@@ -77,12 +86,20 @@
       "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
       "dated": false,
       "seq": 317
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch347-xianyi-zu",
+      "dated": false,
+      "seq": 327,
+      "note": "第351章"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan"
+    "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+    "plot.xianni-ch347-xianyi-zu"
   ],
-  "updatedAt": "2026-08-08T09:25:36.972Z"
+  "updatedAt": "2026-08-08T10:30:36.448Z"
 }

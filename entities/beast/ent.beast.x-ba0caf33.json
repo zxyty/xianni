@@ -3,12 +3,17 @@
   "type": "beast",
   "name": "饕兽",
   "aliases": [
-    "饕兽坐骑"
+    "饕兽坐骑",
+    "胡老的饕兽",
+    "类似玄武之兽",
+    "饕"
   ],
   "summary": "胡姓白发老者当年所骑的灵兽，是王林辨识其身份的重要标志。",
   "attributes": {
-    "主人": "胡姓白发老者",
-    "能力": "坐骑"
+    "主人": "胡老",
+    "能力": "坐骑、吞吸凝聚风球攻击、助主斗法、引开六叶术咒师",
+    "外形": "形似玄武的巨兽、凶悍咆哮的巨兽、类似玄武之兽",
+    "天敌": "术咒师野人"
   },
   "observations": {
     "主人": [
@@ -16,6 +21,11 @@
         "value": "胡姓白发老者",
         "docId": "plot.xianni-ch312-316-yinju-xinjia",
         "seq": 312
+      },
+      {
+        "value": "胡老",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
       }
     ],
     "能力": [
@@ -23,6 +33,46 @@
         "value": "坐骑",
         "docId": "plot.xianni-ch312-316-yinju-xinjia",
         "seq": 312
+      },
+      {
+        "value": "吞吸凝聚风球攻击",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      },
+      {
+        "value": "助主斗法",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      },
+      {
+        "value": "引开六叶术咒师",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      }
+    ],
+    "外形": [
+      {
+        "value": "形似玄武的巨兽",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      },
+      {
+        "value": "凶悍咆哮的巨兽",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      },
+      {
+        "value": "类似玄武之兽",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327
+      }
+    ],
+    "天敌": [
+      {
+        "value": "术咒师野人",
+        "docId": "plot.xianni-ch347-xianyi-zu",
+        "seq": 327,
+        "note": "野人贪其鲜血可强化符文之力"
       }
     ]
   },
@@ -30,21 +80,35 @@
   "attrProvenance": {
     "主人": {
       "asOf": null,
-      "docId": "plot.xianni-ch312-316-yinju-xinjia",
+      "docId": "plot.xianni-ch347-xianyi-zu",
       "dated": false,
-      "seq": 312
+      "seq": 327
     },
     "能力": {
       "asOf": null,
       "docId": "plot.xianni-ch312-316-yinju-xinjia",
       "dated": false,
       "seq": 312
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.xianni-ch347-xianyi-zu",
+      "dated": false,
+      "seq": 327
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch347-xianyi-zu",
+      "dated": false,
+      "seq": 327,
+      "note": "野人贪其鲜血可强化符文之力"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch312-316-yinju-xinjia"
+    "plot.xianni-ch312-316-yinju-xinjia",
+    "plot.xianni-ch347-xianyi-zu"
   ],
-  "updatedAt": "2026-08-08T08:56:45.917Z"
+  "updatedAt": "2026-08-08T10:30:36.436Z"
 }
