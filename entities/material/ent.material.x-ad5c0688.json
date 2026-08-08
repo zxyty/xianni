@@ -5,13 +5,14 @@
   "aliases": [
     "神秘液体",
     "泉水",
-    "露水"
+    "露水",
+    "石珠露水"
   ],
   "summary": "出自王林葫芦的灵气液体，一滴价值约一粒夺灵丹，可服用补灵气、亦可炼丹炼器增灵性。",
   "attributes": {
     "类型": "灵液",
-    "用途": "服用补灵气、炼丹炼器增灵性",
-    "产地": "葫芦"
+    "用途": "服用补灵气、炼丹炼器增灵性、延寿、助修行",
+    "产地": "天逆珠内"
   },
   "observations": {
     "类型": [
@@ -31,6 +32,11 @@
         "value": "炼丹炼器增灵性",
         "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
         "seq": 31
+      },
+      {
+        "value": "延寿、助修行",
+        "docId": "plot.xianni-ch327-return-to-zhuque-star",
+        "seq": 309
       }
     ],
     "产地": [
@@ -38,6 +44,11 @@
         "value": "葫芦",
         "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
         "seq": 31
+      },
+      {
+        "value": "天逆珠内",
+        "docId": "plot.xianni-ch327-return-to-zhuque-star",
+        "seq": 309
       }
     ]
   },
@@ -57,15 +68,16 @@
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.xianni-ch31-36-xueshui-jiaoyi",
+      "docId": "plot.xianni-ch327-return-to-zhuque-star",
       "dated": false,
-      "seq": 31
+      "seq": 309
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch31-36-xueshui-jiaoyi"
+    "plot.xianni-ch31-36-xueshui-jiaoyi",
+    "plot.xianni-ch327-return-to-zhuque-star"
   ],
-  "updatedAt": "2026-06-22T12:00:36.603Z"
+  "updatedAt": "2026-08-08T06:22:47.692Z"
 }

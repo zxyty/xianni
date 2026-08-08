@@ -17,12 +17,13 @@
   ],
   "summary": "邻近火焚国的海域。",
   "attributes": {
-    "类型": "雾海、海域秘境、海域/魔修之地、海域/修魔势力范围、海域/魔修聚集地、海域/凶地、海域、海域/险地、海域/大型秘境、凶险海域、海域/危险地带、海域/危险秘境、魔修海域、雾气海域、妖海、海域/凶险之地、海域/势力区、海域/凶险区域",
+    "类型": "雾海、海域秘境、海域/魔修之地、海域/修魔势力范围、海域/魔修聚集地、海域/凶地、海域、海域/险地、海域/大型秘境、凶险海域、海域/危险地带、海域/危险秘境、魔修海域、雾气海域、妖海、海域/凶险之地、海域/势力区、海域/凶险区域、海域/修真区域",
     "方位": "周武大陆与赵国大陆之间、火焚国边境外、修魔海内层",
-    "危险度": "极高(元婴期亦不敢轻入)、高、高（海威、化海）、极高、高（遍地危机）、极高（化神期修士活动）、妖灵兽乱、荒兽出没、妖兽极多，野外凶险、极高，弱肉强食",
+    "危险度": "极高(元婴期亦不敢轻入)、高、高（海威、化海）、极高、高（遍地危机）、极高（化神期修士活动）、妖灵兽乱、荒兽出没、妖兽极多，野外凶险、极高，弱肉强食、高，新生势力混杂",
     "特产": "每年一月雾气复为海水、阴寒灵力、上古海洋植被、内海灵兽、远古古传送阵、小兽兽群、飓风、雾气化海、异兽内丹、常年黑雨与天劫雷云、极品灵石、妖兽内丹、八爪兽、妖兽",
     "规模": "约相当于几千个火焚国、城池近千（九百九十八城）、极大，飞行百年难达边缘、极大、九百九十九座主城及庞大荒原",
-    "上级区域": "朱雀星"
+    "上级区域": "朱雀星",
+    "所属界面": "朱雀星"
   },
   "observations": {
     "类型": [
@@ -115,6 +116,11 @@
         "value": "海域/凶险区域",
         "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
         "seq": 273
+      },
+      {
+        "value": "海域/修真区域",
+        "docId": "plot.xianni-ch327-return-to-zhuque-star",
+        "seq": 309
       }
     ],
     "方位": [
@@ -180,6 +186,11 @@
         "value": "极高，弱肉强食",
         "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
         "seq": 273
+      },
+      {
+        "value": "高，新生势力混杂",
+        "docId": "plot.xianni-ch327-return-to-zhuque-star",
+        "seq": 309
       }
     ],
     "特产": [
@@ -282,6 +293,13 @@
         "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
         "seq": 273
       }
+    ],
+    "所属界面": [
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch327-return-to-zhuque-star",
+        "seq": 309
+      }
     ]
   },
   "firstSeq": 111,
@@ -321,6 +339,12 @@
       "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
       "dated": false,
       "seq": 273
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch327-return-to-zhuque-star",
+      "dated": false,
+      "seq": 309
     }
   },
   "contested": false,
@@ -359,7 +383,8 @@
     "plot.xianni-ch239-243-huafan-jingdu-mudiao",
     "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
     "plot.xianni-ch263-267-tianni-change-xueyu-country",
-    "plot.xianni-ch289-ancient-god-sacrifice-treasure"
+    "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+    "plot.xianni-ch327-return-to-zhuque-star"
   ],
-  "updatedAt": "2026-08-02T13:59:47.854Z"
+  "updatedAt": "2026-08-08T06:22:47.736Z"
 }
