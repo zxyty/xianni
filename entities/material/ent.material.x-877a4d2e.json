@@ -4,12 +4,14 @@
   "name": "中品灵石",
   "aliases": [
     "三块中品灵石",
-    "中品灵石（洞府租金）"
+    "中品灵石（洞府租金）",
+    "一块中品灵石",
+    "中品灵石块"
   ],
   "summary": "布置龟甲玄灭阵的耗材，二人储物袋合计约两千余块，一石画一符号。",
   "attributes": {
-    "类型": "灵石",
-    "用途": "洞府租金、修炼资源"
+    "类型": "灵石货币",
+    "用途": "布阵/修炼耗材、洞府租金、修炼资源、换取灵力更足的洞府、修炼与交易通货"
   },
   "observations": {
     "类型": [
@@ -17,6 +19,11 @@
         "value": "灵石",
         "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
         "seq": 106
+      },
+      {
+        "value": "灵石货币",
+        "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+        "seq": 356
       }
     ],
     "用途": [
@@ -29,6 +36,16 @@
         "value": "洞府租金、修炼资源",
         "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
         "seq": 351
+      },
+      {
+        "value": "换取灵力更足的洞府",
+        "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+        "seq": 356
+      },
+      {
+        "value": "修炼与交易通货",
+        "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+        "seq": 356
       }
     ]
   },
@@ -36,15 +53,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+      "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
       "dated": false,
-      "seq": 106
+      "seq": 356
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+      "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
       "dated": false,
-      "seq": 351
+      "seq": 106
     }
   },
   "contested": false,
@@ -52,7 +69,8 @@
   "docs": [
     "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
     "plot.xianni-ch356-departure-immortal-remains-void-rift",
-    "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north"
+    "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+    "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo"
   ],
-  "updatedAt": "2026-08-08T15:56:06.622Z"
+  "updatedAt": "2026-08-08T16:24:14.363Z"
 }

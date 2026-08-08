@@ -7,17 +7,19 @@
     "山寨",
     "火云寨山峰",
     "火云察",
-    "火云"
+    "火云",
+    "火云寨水潭"
   ],
   "summary": "第372章章名所指之地，为王林离村后行程中将涉及的场所。",
   "attributes": {
-    "类型": "山寨、山寨匪巢、山寨/匪寨",
+    "类型": "山寨、山寨匪巢、山寨/匪寨、山寨据点",
     "所属势力": "火云十八英",
     "方位": "毗卢国北部山峰半山腰",
     "规模": "二十余人",
     "危险度": "凡俗层级、凡俗匪寨，对修士无威胁",
     "所属界面": "毗卢国",
-    "守护": "蚊兽"
+    "守护": "蚊兽",
+    "特产": "以三块将废极品灵石布置的水潭"
   },
   "observations": {
     "类型": [
@@ -35,6 +37,11 @@
         "value": "山寨/匪寨",
         "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
         "seq": 351
+      },
+      {
+        "value": "山寨据点",
+        "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+        "seq": 356
       }
     ],
     "所属势力": [
@@ -83,6 +90,13 @@
         "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
         "seq": 351
       }
+    ],
+    "特产": [
+      {
+        "value": "以三块将废极品灵石布置的水潭",
+        "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+        "seq": 356
+      }
     ]
   },
   "firstSeq": 351,
@@ -128,12 +142,19 @@
       "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
       "dated": false,
       "seq": 351
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+      "dated": false,
+      "seq": 356
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north"
+    "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+    "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo"
   ],
-  "updatedAt": "2026-08-08T15:56:06.601Z"
+  "updatedAt": "2026-08-08T16:24:14.301Z"
 }
