@@ -5,17 +5,20 @@
   "aliases": [
     "尸阴宗老者",
     "尸阴宗老头",
-    "尸阴宗的老头"
+    "尸阴宗的老头",
+    "紫色棺材老者",
+    "婴变中期老者"
   ],
   "summary": "尸阴宗总部升空的白发老者，感叹仙人尸体难得；光柱中闭目背手、神态随意，忽睁眼对王林微微一笑。",
   "attributes": {
     "外貌": "老者",
     "身份": "尸阴宗修士",
-    "性格": "贪婪、见机极快",
+    "性格": "暴躁易怒、杀气浓重",
     "小阶段": "婴变中期",
     "标志特征": "以嗅觉辨识死气",
     "阵营": "尸阴宗",
-    "分身": "第三魂（年轻人形态）"
+    "分身": "第三魂（年轻人形态）",
+    "本命法宝": "巨大的紫色棺材"
   },
   "observations": {
     "外貌": [
@@ -62,6 +65,11 @@
         "value": "贪婪、见机极快",
         "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
         "seq": 299
+      },
+      {
+        "value": "暴躁易怒、杀气浓重",
+        "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
+        "seq": 304
       }
     ],
     "小阶段": [
@@ -92,6 +100,13 @@
         "seq": 294,
         "note": "由眉心放出，本章被周佚撞得魂飞魄散"
       }
+    ],
+    "本命法宝": [
+      {
+        "value": "巨大的紫色棺材",
+        "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
+        "seq": 304
+      }
     ]
   },
   "firstSeq": 276,
@@ -110,9 +125,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
+      "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
       "dated": false,
-      "seq": 299
+      "seq": 304
     },
     "小阶段": {
       "asOf": null,
@@ -138,6 +153,12 @@
       "dated": false,
       "seq": 294,
       "note": "由眉心放出，本章被周佚撞得魂飞魄散"
+    },
+    "本命法宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
+      "dated": false,
+      "seq": 304
     }
   },
   "contested": false,
@@ -145,7 +166,8 @@
   "docs": [
     "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
     "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
-    "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet"
+    "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
+    "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void"
   ],
-  "updatedAt": "2026-08-08T05:08:08.098Z"
+  "updatedAt": "2026-08-08T05:44:31.260Z"
 }

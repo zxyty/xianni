@@ -78,3 +78,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-08T04:03:20.927Z** `ingest` plot.xianni-ch307-shooting-god-chariot — 仙逆 第307章 射神战车——天宝上人第十间石室与三具兽魂战车 · kind=plot asOf=2026-08-08 entities=89 relations=175 src=00289-00293.md
 - **2026-08-08T04:38:19.382Z** `ingest` plot.xianni-ch294-298-void-voyage-first-fairy-fragment — 仙逆 第294-298章：虚无探路遇章鱼异物、拾金紫石、抵达第一层仙界碎片 · kind=plot asOf=2026-08-08 entities=102 relations=200 src=00294-00298.md
 - **2026-08-08T05:08:08.250Z** `ingest` plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet — 仙逆 第317章 闻道者，朝生夕死：红蝶断臂遁走，王林下沉第四层 · kind=plot asOf=2026-08-08 entities=84 relations=171 src=00299-00303.md
+- **2026-08-08T05:44:31.346Z** `ingest` plot.xianni-ch322-future-senior-brother-sword-swarm-in-void — 仙逆 第322章 未来师兄：仙剑群穿越虚无，贪剑者尽灭 · kind=plot asOf=2026-08-08 entities=113 relations=224 src=00304-00308.md
