@@ -7,16 +7,21 @@
     "石屋山谷",
     "王林山谷",
     "楚国山谷",
-    "王林炼器山谷"
+    "王林炼器山谷",
+    "王林隐居山谷",
+    "王林隐居的山谷",
+    "深山山谷",
+    "曾牛所居山谷"
   ],
   "summary": "王林与李慕婉暂居之地，谷中有石屋与宝塔；铁岩、吕非在此外百里悟道。",
   "attributes": {
-    "类型": "山谷",
+    "类型": "山谷、隐居地/战场、隐居之所、隐居洞府/山谷",
     "方位": "楚国境内",
     "上级区域": "楚国",
-    "守护": "留置的宝塔",
-    "所属界面": "楚国一带",
-    "危险度": "谷内灵压极大，仅可深入一里左右"
+    "守护": "留置的宝塔、宝塔内周佚神念、王林、宝塔禁制、铁岩、雷蛙、王林本尊",
+    "所属界面": "朱雀星",
+    "危险度": "谷内灵压极大，仅可深入一里左右",
+    "规模": "禁制笼罩百里"
   },
   "observations": {
     "类型": [
@@ -24,6 +29,21 @@
         "value": "山谷",
         "docId": "plot.xianni-ch312-316-yinju-xinjia",
         "seq": 312
+      },
+      {
+        "value": "隐居地/战场",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
+      },
+      {
+        "value": "隐居之所",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
+      },
+      {
+        "value": "隐居洞府/山谷",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
       }
     ],
     "方位": [
@@ -45,6 +65,36 @@
         "value": "留置的宝塔",
         "docId": "plot.xianni-ch312-316-yinju-xinjia",
         "seq": 312
+      },
+      {
+        "value": "宝塔内周佚神念",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
+      },
+      {
+        "value": "宝塔禁制",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
+      },
+      {
+        "value": "铁岩",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
+      },
+      {
+        "value": "雷蛙",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
+      },
+      {
+        "value": "王林本尊",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
       }
     ],
     "所属界面": [
@@ -57,6 +107,11 @@
         "value": "楚国一带",
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
+      },
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
       }
     ],
     "危险度": [
@@ -64,6 +119,13 @@
         "value": "谷内灵压极大，仅可深入一里左右",
         "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
         "seq": 317
+      }
+    ],
+    "规模": [
+      {
+        "value": "禁制笼罩百里",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
       }
     ]
   },
@@ -95,15 +157,21 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+      "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
       "dated": false,
-      "seq": 322
+      "seq": 336
     },
     "危险度": {
       "asOf": null,
       "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
       "dated": false,
       "seq": 317
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+      "dated": false,
+      "seq": 336
     }
   },
   "contested": false,
@@ -111,7 +179,8 @@
   "docs": [
     "plot.xianni-ch312-316-yinju-xinjia",
     "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
-    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree"
+    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+    "plot.xianni-ch356-departure-immortal-remains-void-rift"
   ],
-  "updatedAt": "2026-08-08T10:00:26.265Z"
+  "updatedAt": "2026-08-08T14:28:21.412Z"
 }

@@ -7,15 +7,18 @@
     "六品丹方买主",
     "小姐",
     "姑娘",
-    "脸带白纱的女子"
+    "脸带白纱的女子",
+    "白纱下的女修",
+    "蒙白纱的女子"
   ],
   "summary": "当年魔逆城外买下六品丹方之人；十年寻化神修士无果，向炼器阁胡姓老者透露当年未对王林言明的秘密，换其同赴仙遗之地。",
   "attributes": {
     "性别": "女",
-    "外貌": "面带白纱、身姿柔美、美眸如星光、眉目带疲惫、以白纱遮面、身材妙曼、脸带白纱",
+    "外貌": "面带白纱、身姿柔美、美眸如星光、眉目带疲惫、以白纱遮面、身材妙曼、脸带白纱、以白纱覆面，面孔苍白无血",
     "身份": "有仆从随行的女修，与王林十年前相识",
     "结局": "下落不明",
-    "出身地": "自称周国"
+    "出身地": "自称周国",
+    "存殁": "生死未卜"
   },
   "observations": {
     "性别": [
@@ -56,6 +59,11 @@
         "value": "身材妙曼、脸带白纱",
         "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
         "seq": 332
+      },
+      {
+        "value": "以白纱覆面，面孔苍白无血",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336
       }
     ],
     "身份": [
@@ -79,6 +87,14 @@
         "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
         "seq": 332,
         "note": "被王林本尊当场斥为一派胡言"
+      }
+    ],
+    "存殁": [
+      {
+        "value": "生死未卜",
+        "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+        "seq": 336,
+        "note": "第356章末被留在虚无空间自生自灭"
       }
     ]
   },
@@ -115,6 +131,13 @@
       "dated": false,
       "seq": 332,
       "note": "被王林本尊当场斥为一派胡言"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+      "dated": false,
+      "seq": 336,
+      "note": "第356章末被留在虚无空间自生自灭"
     }
   },
   "contested": false,
@@ -122,7 +145,8 @@
   "docs": [
     "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
     "plot.xianni-ch347-xianyi-zu",
-    "plot.xianni-ch352-fu-kui-space-rift-flight"
+    "plot.xianni-ch352-fu-kui-space-rift-flight",
+    "plot.xianni-ch356-departure-immortal-remains-void-rift"
   ],
-  "updatedAt": "2026-08-08T10:48:57.951Z"
+  "updatedAt": "2026-08-08T14:28:21.266Z"
 }
