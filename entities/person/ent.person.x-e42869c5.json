@@ -5,13 +5,16 @@
   "aliases": [
     "炼器阁执事许罗",
     "许罗掌事",
-    "许罗师兄"
+    "许罗师兄",
+    "许罗道友"
   ],
   "summary": "炼器阁内身属高位的中年修士，两个月前接待王林购买丹方，此次亲自恭迎并引王林一行上三楼，事后向二层雅间的『老祖』密报。",
   "attributes": {
-    "身份": "炼器阁高位执事、炼器阁拍卖主持",
+    "身份": "炼器阁高位执事、炼器阁拍卖主持、胡老的后辈、胡老一行成员",
     "性格": "机敏识时务、对强者极度恭谨",
-    "性别": "男"
+    "性别": "男",
+    "存殁": "存活",
+    "标志特征": "口吐飞剑、贴身穿内甲、贴身穿内甲"
   },
   "observations": {
     "身份": [
@@ -24,6 +27,16 @@
         "value": "炼器阁拍卖主持",
         "docId": "plot.xianni-ch312-316-yinju-xinjia",
         "seq": 312
+      },
+      {
+        "value": "胡老的后辈",
+        "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+        "seq": 322
+      },
+      {
+        "value": "胡老一行成员",
+        "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+        "seq": 322
       }
     ],
     "性格": [
@@ -38,6 +51,25 @@
         "value": "男",
         "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
         "seq": 317
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+        "seq": 322
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "口吐飞剑、贴身穿内甲",
+        "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+        "seq": 322
+      },
+      {
+        "value": "贴身穿内甲",
+        "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+        "seq": 322
       }
     ]
   },
@@ -60,13 +92,26 @@
       "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
       "dated": false,
       "seq": 317
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+      "dated": false,
+      "seq": 322
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+      "dated": false,
+      "seq": 322
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch312-316-yinju-xinjia",
-    "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan"
+    "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree"
   ],
-  "updatedAt": "2026-08-08T09:25:36.973Z"
+  "updatedAt": "2026-08-08T10:00:26.347Z"
 }

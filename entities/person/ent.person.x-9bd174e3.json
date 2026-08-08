@@ -12,11 +12,12 @@
   "summary": "云天宗另一位元婴后期大长老，与吕非同谋灭口，同样为化神可能追随王林。",
   "attributes": {
     "性别": "男",
-    "身份": "云天宗大长老、王林随从、王林麾下弟子/随行扈从、王林扈从、王林麾下守护者、受托守护者",
-    "小阶段": "元婴后期",
+    "身份": "云天宗大长老、王林随从、王林麾下弟子/随行扈从、王林扈从、王林麾下守护者、受托守护者、王林麾下、女婴守护者",
+    "小阶段": "元婴期（未至圆满）",
     "标志特征": "宝塔内只能进入约五十丈",
     "阵营": "王林一方",
-    "寿元": "百年内不化神即归于尘土"
+    "寿元": "百年内不化神即归于尘土",
+    "性格": "执着、专注感悟"
   },
   "observations": {
     "性别": [
@@ -57,6 +58,11 @@
         "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
         "seq": 317,
         "note": "守护杏花村李慕婉，至王林出关"
+      },
+      {
+        "value": "王林麾下、女婴守护者",
+        "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+        "seq": 322
       }
     ],
     "小阶段": [
@@ -64,6 +70,12 @@
         "value": "元婴后期",
         "docId": "plot.xianni-ch312-316-yinju-xinjia",
         "seq": 312
+      },
+      {
+        "value": "元婴期（未至圆满）",
+        "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+        "seq": 322,
+        "note": "王林指其需元婴圆满方可望化神"
       }
     ],
     "标志特征": [
@@ -88,6 +100,13 @@
         "seq": 312,
         "note": "本片段自述心境"
       }
+    ],
+    "性格": [
+      {
+        "value": "执着、专注感悟",
+        "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+        "seq": 322
+      }
     ]
   },
   "firstSeq": 312,
@@ -106,9 +125,10 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch312-316-yinju-xinjia",
+      "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
       "dated": false,
-      "seq": 312
+      "seq": 322,
+      "note": "王林指其需元婴圆满方可望化神"
     },
     "标志特征": {
       "asOf": null,
@@ -129,13 +149,20 @@
       "dated": false,
       "seq": 312,
       "note": "本片段自述心境"
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+      "dated": false,
+      "seq": 322
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch312-316-yinju-xinjia",
-    "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan"
+    "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree"
   ],
-  "updatedAt": "2026-08-08T09:25:36.946Z"
+  "updatedAt": "2026-08-08T10:00:26.308Z"
 }

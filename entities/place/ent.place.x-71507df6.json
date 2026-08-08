@@ -9,16 +9,19 @@
     "寂灭界血海",
     "神识血海",
     "血海势力",
-    "古神体内血海"
+    "古神体内血海",
+    "血海之地",
+    "碎星乱血海"
   ],
   "summary": "第三关内血色之地，历年死于古神之地者尽聚于此，有沙哑之声自内传出。",
   "attributes": {
-    "类型": "血色亡者聚集之地、血海/秘域、血海、封印之地、血色空间／秘境、神识所化海洋、体内血海",
+    "类型": "血色亡者聚集之地、血海/秘域、血海、封印之地、血色空间／秘境、神识所化海洋、体内血海、秘地/修炼场",
     "所属界面": "寂灭界古神之地、寂灭界、古神之地",
-    "特产": "分识/红芒",
-    "上级区域": "古神之地",
+    "特产": "血浆",
+    "上级区域": "碎星乱",
     "守护": "妖神众修、封印红发男子、拓森、红发男子、力之传承",
-    "危险度": "极高"
+    "危险度": "极高",
+    "所属势力": "拓森一系"
   },
   "observations": {
     "类型": [
@@ -56,6 +59,11 @@
         "value": "体内血海",
         "docId": "plot.xianni-ch188-gushen-chuancheng-2",
         "seq": 173
+      },
+      {
+        "value": "秘地/修炼场",
+        "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+        "seq": 322
       }
     ],
     "所属界面": [
@@ -90,6 +98,11 @@
         "value": "分识/红芒",
         "docId": "plot.xianni-ch194-blood-sea-seal-opening",
         "seq": 179
+      },
+      {
+        "value": "血浆",
+        "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+        "seq": 322
       }
     ],
     "上级区域": [
@@ -97,6 +110,11 @@
         "value": "古神之地",
         "docId": "plot.xianni-ch185-blood-sea-lord",
         "seq": 170
+      },
+      {
+        "value": "碎星乱",
+        "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+        "seq": 322
       }
     ],
     "守护": [
@@ -132,6 +150,14 @@
         "docId": "plot.xianni-ch191-shenshi-sihai",
         "seq": 176
       }
+    ],
+    "所属势力": [
+      {
+        "value": "拓森一系",
+        "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+        "seq": 322,
+        "note": "本片段"
+      }
     ]
   },
   "firstSeq": 168,
@@ -150,15 +176,15 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-ch194-blood-sea-seal-opening",
+      "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
       "dated": false,
-      "seq": 179
+      "seq": 322
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch185-blood-sea-lord",
+      "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
       "dated": false,
-      "seq": 170
+      "seq": 322
     },
     "守护": {
       "asOf": null,
@@ -171,6 +197,13 @@
       "docId": "plot.xianni-ch191-shenshi-sihai",
       "dated": false,
       "seq": 176
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+      "dated": false,
+      "seq": 322,
+      "note": "本片段"
     }
   },
   "contested": false,
@@ -180,7 +213,8 @@
     "plot.xianni-ch185-blood-sea-lord",
     "plot.xianni-ch191-shenshi-sihai",
     "plot.xianni-ch194-blood-sea-seal-opening",
-    "plot.xianni-ch188-gushen-chuancheng-2"
+    "plot.xianni-ch188-gushen-chuancheng-2",
+    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree"
   ],
-  "updatedAt": "2026-07-08T12:39:00.871Z"
+  "updatedAt": "2026-08-08T10:00:26.316Z"
 }
