@@ -8,15 +8,18 @@
     "朱雀星中年男子",
     "手持葫芦的中年男子",
     "婷儿之人",
-    "尾随的中年男子"
+    "尾随的中年男子",
+    "抱女尸的中年男子"
   ],
   "summary": "与王林同来自朱雀星的中年修士，携亡妻女尸「婷儿」返回地底阁楼；为她放弃门派掌权之位、叛出师门，欲取仙玉保其身体千年不变。",
   "attributes": {
     "性别": "男",
     "外貌": "中年男子，手持葫芦饮酒、中年男子，手持葫芦，行走慢悠悠",
     "出身地": "朱雀星",
-    "性格": "深情执着，被人称作疯子",
-    "身份": "叛出师门者、尾随者/仙玉争夺者"
+    "性格": "深情且忌惮强者",
+    "身份": "叛出师门者、尾随者/仙玉争夺者",
+    "小阶段": "婴变中期",
+    "标志特征": "手持葫芦、随身饮酒"
   },
   "observations": {
     "性别": [
@@ -50,6 +53,11 @@
         "value": "深情执着，被人称作疯子",
         "docId": "plot.xianni-ch307-shooting-god-chariot",
         "seq": 289
+      },
+      {
+        "value": "深情且忌惮强者",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294
       }
     ],
     "身份": [
@@ -64,6 +72,20 @@
         "docId": "plot.xianni-ch307-shooting-god-chariot",
         "seq": 289,
         "note": "暗中跟随，三人未正面照面"
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "婴变中期",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "手持葫芦、随身饮酒",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294
       }
     ]
   },
@@ -89,9 +111,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch307-shooting-god-chariot",
+      "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
       "dated": false,
-      "seq": 289
+      "seq": 294
     },
     "身份": {
       "asOf": null,
@@ -99,12 +121,25 @@
       "dated": false,
       "seq": 289,
       "note": "为婷儿放弃门派掌权之位"
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+      "dated": false,
+      "seq": 294
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+      "dated": false,
+      "seq": 294
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch307-shooting-god-chariot"
+    "plot.xianni-ch307-shooting-god-chariot",
+    "plot.xianni-ch294-298-void-voyage-first-fairy-fragment"
   ],
-  "updatedAt": "2026-08-08T04:03:20.850Z"
+  "updatedAt": "2026-08-08T04:38:19.235Z"
 }

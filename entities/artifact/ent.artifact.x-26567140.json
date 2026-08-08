@@ -7,13 +7,17 @@
     "塔光",
     "古帝本命法宝宝塔",
     "收尸宝塔",
-    "中年男子的宝塔"
+    "中年男子的宝塔",
+    "仙玉棺材所炼宝塔",
+    "周佚储物袋内的宝塔",
+    "装婷儿的宝塔"
   ],
   "summary": "古帝所持巴掌大宝塔，塔光和谐、游魂不敢近，用以护身困守。",
   "attributes": {
-    "持有者": "恋尸中年男子",
-    "能力": "散发和谐光，游魂不敢入塔光范围、散发塔光形成阻力，阻挡游魂进入；需灵力持续维持、放出塔光护身、存放并释放女尸",
-    "外形": "巴掌大小宝塔、宝塔"
+    "持有者": "古帝、恋尸中年男子、持葫芦中年男子、周佚、尸阴宗大长老（经其鬼爪所化青年转交）",
+    "能力": "散发和谐光，游魂不敢入塔光范围、散发塔光形成阻力，阻挡游魂进入；需灵力持续维持、放出塔光护身、存放并释放女尸、收纳并存放尸体、封存并放出仙人女尸",
+    "外形": "巴掌大小宝塔、宝塔",
+    "来历": "由仙玉棺材炼制而成"
   },
   "observations": {
     "持有者": [
@@ -26,6 +30,22 @@
         "value": "恋尸中年男子",
         "docId": "plot.xianni-ch307-shooting-god-chariot",
         "seq": 289
+      },
+      {
+        "value": "持葫芦中年男子",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294
+      },
+      {
+        "value": "周佚",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294,
+        "note": "本段被漆黑鬼爪夺走"
+      },
+      {
+        "value": "尸阴宗大长老（经其鬼爪所化青年转交）",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294
       }
     ],
     "能力": [
@@ -48,6 +68,16 @@
         "value": "存放并释放女尸",
         "docId": "plot.xianni-ch307-shooting-god-chariot",
         "seq": 289
+      },
+      {
+        "value": "收纳并存放尸体",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294
+      },
+      {
+        "value": "封存并放出仙人女尸",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294
       }
     ],
     "外形": [
@@ -61,15 +91,22 @@
         "docId": "plot.xianni-ch183-yibian-chushi",
         "seq": 168
       }
+    ],
+    "来历": [
+      {
+        "value": "由仙玉棺材炼制而成",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294
+      }
     ]
   },
   "firstSeq": 168,
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch307-shooting-god-chariot",
+      "docId": "plot.xianni-ch183-yibian-chushi",
       "dated": false,
-      "seq": 289
+      "seq": 168
     },
     "能力": {
       "asOf": null,
@@ -82,13 +119,20 @@
       "docId": "plot.xianni-ch183-yibian-chushi",
       "dated": false,
       "seq": 168
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+      "dated": false,
+      "seq": 294
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch183-yibian-chushi",
-    "plot.xianni-ch307-shooting-god-chariot"
+    "plot.xianni-ch307-shooting-god-chariot",
+    "plot.xianni-ch294-298-void-voyage-first-fairy-fragment"
   ],
-  "updatedAt": "2026-08-08T04:03:20.769Z"
+  "updatedAt": "2026-08-08T04:38:19.311Z"
 }

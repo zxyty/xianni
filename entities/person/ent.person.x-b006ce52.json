@@ -5,8 +5,11 @@
   "aliases": [],
   "summary": "隐于城池、气势骤升的高手，骑乘玄武穿行修魔海黑雾，身份未明。",
   "attributes": {
-    "外貌": "驼背白发老者",
-    "身份": "高手"
+    "外貌": "白发苍苍",
+    "身份": "高手",
+    "性别": "男",
+    "本命法宝": "紫红棺材",
+    "性格": "戏谑、纠缠不放"
   },
   "observations": {
     "外貌": [
@@ -15,6 +18,11 @@
         "docId": "plot.xianni-ch207-killing-for-cores",
         "seq": 191,
         "note": "隐藏气势时状"
+      },
+      {
+        "value": "白发苍苍",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294
       }
     ],
     "身份": [
@@ -23,28 +31,67 @@
         "docId": "plot.xianni-ch207-killing-for-cores",
         "seq": 191
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294
+      }
+    ],
+    "本命法宝": [
+      {
+        "value": "紫红棺材",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294
+      }
+    ],
+    "性格": [
+      {
+        "value": "戏谑、纠缠不放",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294
+      }
     ]
   },
   "firstSeq": 191,
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch207-killing-for-cores",
+      "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
       "dated": false,
-      "seq": 191,
-      "note": "隐藏气势时状"
+      "seq": 294
     },
     "身份": {
       "asOf": null,
       "docId": "plot.xianni-ch207-killing-for-cores",
       "dated": false,
       "seq": 191
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+      "dated": false,
+      "seq": 294
+    },
+    "本命法宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+      "dated": false,
+      "seq": 294
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+      "dated": false,
+      "seq": 294
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch207-killing-for-cores"
+    "plot.xianni-ch207-killing-for-cores",
+    "plot.xianni-ch294-298-void-voyage-first-fairy-fragment"
   ],
-  "updatedAt": "2026-07-07T12:22:41.820Z"
+  "updatedAt": "2026-08-08T04:38:19.259Z"
 }

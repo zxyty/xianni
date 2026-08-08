@@ -6,15 +6,18 @@
     "白衣女尸",
     "婷儿女尸",
     "女尸",
-    "婷"
+    "婷",
+    "仙人女尸",
+    "Tinger"
   ],
   "summary": "中年男子所爱之人的尸身，白衣、貌美出尘、肤白透红宛如生人；名字为男子所起，被收于宝塔中随身携带。",
   "attributes": {
     "性别": "女",
-    "外貌": "身穿白衣，肤色雪白略带红意，出尘如仙女",
+    "外貌": "身穿白衣，肤色雪白略带红意，出尘如仙女、白衣、一袭白衣胜雪、一缕幽发如幕、芳香醉人",
     "存殁": "死亡",
-    "标志特征": "尸身不腐，一出现便与阁楼环境融为一体、尸身不腐、多年容貌未变、身体极寒，寒意远胜蓝色雾气",
-    "身份": "持葫芦中年男子的牵挂之人"
+    "标志特征": "尸身不腐，一出现便与阁楼环境融为一体、尸身不腐、多年容貌未变、身体极寒，寒意远胜蓝色雾气、尸身散发死气，被认作仙人尸体、出现时令观者心神震动、生出夺取之念",
+    "身份": "仙人尸体",
+    "结局": "被尸阴宗大长老自宝塔中取出并抱走"
   },
   "observations": {
     "性别": [
@@ -29,13 +32,24 @@
         "value": "身穿白衣，肤色雪白略带红意，出尘如仙女",
         "docId": "plot.xianni-ch307-shooting-god-chariot",
         "seq": 289
+      },
+      {
+        "value": "白衣",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294
+      },
+      {
+        "value": "一袭白衣胜雪、一缕幽发如幕、芳香醉人",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294
       }
     ],
     "存殁": [
       {
         "value": "死亡",
         "docId": "plot.xianni-ch307-shooting-god-chariot",
-        "seq": 289
+        "seq": 289,
+        "note": "第289章已死；本片段以尸体形态被争夺"
       }
     ],
     "标志特征": [
@@ -53,6 +67,17 @@
         "value": "身体极寒，寒意远胜蓝色雾气",
         "docId": "plot.xianni-ch307-shooting-god-chariot",
         "seq": 289
+      },
+      {
+        "value": "尸身散发死气，被认作仙人尸体",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294,
+        "note": "尸阴宗老者据此判断"
+      },
+      {
+        "value": "出现时令观者心神震动、生出夺取之念",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294
       }
     ],
     "身份": [
@@ -61,6 +86,19 @@
         "docId": "plot.xianni-ch307-shooting-god-chariot",
         "seq": 289,
         "note": "仅在其自语中提及，未出场"
+      },
+      {
+        "value": "仙人尸体",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294
+      }
+    ],
+    "结局": [
+      {
+        "value": "被尸阴宗大长老自宝塔中取出并抱走",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294,
+        "note": "第316章"
       }
     ]
   },
@@ -82,7 +120,8 @@
       "asOf": null,
       "docId": "plot.xianni-ch307-shooting-god-chariot",
       "dated": false,
-      "seq": 289
+      "seq": 289,
+      "note": "第289章已死；本片段以尸体形态被争夺"
     },
     "标志特征": {
       "asOf": null,
@@ -92,16 +131,23 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch307-shooting-god-chariot",
+      "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
       "dated": false,
-      "seq": 289,
-      "note": "仅在其自语中提及，未出场"
+      "seq": 294
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+      "dated": false,
+      "seq": 294,
+      "note": "第316章"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch307-shooting-god-chariot"
+    "plot.xianni-ch307-shooting-god-chariot",
+    "plot.xianni-ch294-298-void-voyage-first-fairy-fragment"
   ],
-  "updatedAt": "2026-08-08T04:03:20.873Z"
+  "updatedAt": "2026-08-08T04:38:19.321Z"
 }

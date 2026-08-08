@@ -16,7 +16,8 @@
     "禁制": "触碰即爆发金光，刺出血粼粼伤口并熔化护甲",
     "五行属性": "不明",
     "来历": "仙界碎片洞穴内尸骸",
-    "外形": "尸骸手中所握之剑、三把插于玉石棺材之上"
+    "外形": "尸骸手中所握之剑、三把插于玉石棺材之上",
+    "能力": "触之手指刺痛"
   },
   "observations": {
     "品阶": [
@@ -73,6 +74,14 @@
         "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
         "seq": 285
       }
+    ],
+    "能力": [
+      {
+        "value": "触之手指刺痛",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294,
+        "note": "王林回忆中的触感"
+      }
     ]
   },
   "firstSeq": 281,
@@ -106,13 +115,21 @@
       "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
       "dated": false,
       "seq": 285
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+      "dated": false,
+      "seq": 294,
+      "note": "王林回忆中的触感"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
-    "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal"
+    "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+    "plot.xianni-ch294-298-void-voyage-first-fairy-fragment"
   ],
-  "updatedAt": "2026-08-02T15:12:09.091Z"
+  "updatedAt": "2026-08-08T04:38:19.327Z"
 }
