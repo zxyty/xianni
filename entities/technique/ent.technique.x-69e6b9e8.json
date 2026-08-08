@@ -2,10 +2,13 @@
   "id": "ent.technique.x-69e6b9e8",
   "type": "technique",
   "name": "五行之术",
-  "aliases": [],
+  "aliases": [
+    "五行术"
+  ],
   "summary": "汪清越所长，可克制冰川/火海/沙漠/刀山/丛林五行之地，助人轻松度关。",
   "attributes": {
-    "五行属性": "金、木、水、火、土"
+    "五行属性": "金、木、水、火、土、五行",
+    "出处": "五行宗"
   },
   "observations": {
     "五行属性": [
@@ -33,6 +36,18 @@
         "value": "土",
         "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
         "seq": 155
+      },
+      {
+        "value": "五行",
+        "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
+        "seq": 299
+      }
+    ],
+    "出处": [
+      {
+        "value": "五行宗",
+        "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
+        "seq": 299
       }
     ]
   },
@@ -43,12 +58,19 @@
       "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
       "dated": false,
       "seq": 155
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
+      "dated": false,
+      "seq": 299
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch155-157-tuoli-duiwu-quisui"
+    "plot.xianni-ch155-157-tuoli-duiwu-quisui",
+    "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet"
   ],
-  "updatedAt": "2026-07-06T16:00:48.985Z"
+  "updatedAt": "2026-08-08T05:08:08.102Z"
 }
