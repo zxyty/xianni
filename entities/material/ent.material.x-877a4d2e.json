@@ -3,12 +3,13 @@
   "type": "material",
   "name": "中品灵石",
   "aliases": [
-    "三块中品灵石"
+    "三块中品灵石",
+    "中品灵石（洞府租金）"
   ],
   "summary": "布置龟甲玄灭阵的耗材，二人储物袋合计约两千余块，一石画一符号。",
   "attributes": {
     "类型": "灵石",
-    "用途": "布阵/修炼耗材"
+    "用途": "洞府租金、修炼资源"
   },
   "observations": {
     "类型": [
@@ -23,6 +24,11 @@
         "value": "布阵/修炼耗材",
         "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
         "seq": 106
+      },
+      {
+        "value": "洞府租金、修炼资源",
+        "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+        "seq": 351
       }
     ]
   },
@@ -36,16 +42,17 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
+      "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
       "dated": false,
-      "seq": 106
+      "seq": 351
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
-    "plot.xianni-ch356-departure-immortal-remains-void-rift"
+    "plot.xianni-ch356-departure-immortal-remains-void-rift",
+    "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north"
   ],
-  "updatedAt": "2026-08-08T14:28:21.296Z"
+  "updatedAt": "2026-08-08T15:56:06.622Z"
 }

@@ -3,14 +3,18 @@
   "type": "place",
   "name": "朱雀大陆",
   "aliases": [
-    "Zhuque Continent"
+    "Zhuque Continent",
+    "朱雀大陆本土",
+    "Zhu Que Continent"
   ],
   "summary": "朱雀星最大的一块陆地，其上仅有四个修真国：中心的朱雀国（占二分之一）与青龙、千幻、毗卢三个五级修真国。",
   "attributes": {
     "所属界面": "朱雀星",
     "类型": "大陆",
     "规模": "朱雀星最大陆地",
-    "上级区域": "朱雀星"
+    "上级区域": "朱雀星",
+    "所属势力": "朱雀国",
+    "方位": "朱雀星域内"
   },
   "observations": {
     "所属界面": [
@@ -40,6 +44,20 @@
         "docId": "plot.xianni-ch361-zhuque-guo-arrival",
         "seq": 341
       }
+    ],
+    "所属势力": [
+      {
+        "value": "朱雀国",
+        "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+        "seq": 351
+      }
+    ],
+    "方位": [
+      {
+        "value": "朱雀星域内",
+        "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+        "seq": 351
+      }
     ]
   },
   "firstSeq": 341,
@@ -67,12 +85,25 @@
       "docId": "plot.xianni-ch361-zhuque-guo-arrival",
       "dated": false,
       "seq": 341
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+      "dated": false,
+      "seq": 351
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+      "dated": false,
+      "seq": 351
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch361-zhuque-guo-arrival"
+    "plot.xianni-ch361-zhuque-guo-arrival",
+    "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north"
   ],
-  "updatedAt": "2026-08-08T14:53:00.598Z"
+  "updatedAt": "2026-08-08T15:56:06.600Z"
 }

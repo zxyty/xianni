@@ -4,14 +4,16 @@
   "name": "朱雀大陆极北",
   "aliases": [
     "朱雀大陆极北之地",
-    "极北荒凉之地"
+    "极北荒凉之地",
+    "朱雀大陆极北之处"
   ],
   "summary": "一片荒凉之地，王林被斗转阵图抛落于此，李元封在此设下禁空杀局。",
   "attributes": {
     "所属界面": "朱雀星",
-    "方位": "朱雀大陆最北端",
+    "方位": "朱雀大陆北部／极北",
     "类型": "荒凉之地",
-    "危险度": "极高（空间被禁锢，无法撕裂空间与瞬移）"
+    "危险度": "极高（空间被禁锢，无法撕裂空间与瞬移）",
+    "上级区域": "朱雀大陆"
   },
   "observations": {
     "所属界面": [
@@ -26,6 +28,11 @@
         "value": "朱雀大陆最北端",
         "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
         "seq": 346
+      },
+      {
+        "value": "朱雀大陆北部／极北",
+        "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+        "seq": 351
       }
     ],
     "类型": [
@@ -41,6 +48,13 @@
         "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
         "seq": 346
       }
+    ],
+    "上级区域": [
+      {
+        "value": "朱雀大陆",
+        "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+        "seq": 351
+      }
     ]
   },
   "firstSeq": 346,
@@ -53,9 +67,9 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+      "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
       "dated": false,
-      "seq": 346
+      "seq": 351
     },
     "类型": {
       "asOf": null,
@@ -68,12 +82,19 @@
       "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
       "dated": false,
       "seq": 346
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+      "dated": false,
+      "seq": 351
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip"
+    "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+    "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north"
   ],
-  "updatedAt": "2026-08-08T15:27:51.329Z"
+  "updatedAt": "2026-08-08T15:56:06.527Z"
 }

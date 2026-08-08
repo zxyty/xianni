@@ -3,12 +3,17 @@
   "type": "faction",
   "name": "炼魂宗",
   "aliases": [
-    "毗卢国炼魂宗"
+    "毗卢国炼魂宗",
+    "Lianhun Sect",
+    "炼魂宗门派"
   ],
   "summary": "五级修真国毗卢国的门派，镇派之宝为含魂超十亿的魂幡，历数千年制成。",
   "attributes": {
-    "所属界面": "五级修真国毗卢国",
-    "镇派之宝": "含魂超十亿的魂幡"
+    "所属界面": "五级修真国毗卢国、朱雀大陆、朱雀星",
+    "镇派之宝": "含魂超十亿的魂幡",
+    "等级": "毗卢国三大宗派之一、毗声国三大宗派之一",
+    "据点": "毗卢国境内，山门外有数座灵力浓郁的大山、炼魂宗山门（山峰群，宫殿与无数房舍）",
+    "理念": "不在凡人中收童子、外围弟子缴灵石限期入驻、三年大比只取一名晋升核心、核心弟子淘汰制、炼魂之道（收集冤魂、炼制魂幡主魂）"
   },
   "observations": {
     "所属界面": [
@@ -16,6 +21,16 @@
         "value": "五级修真国毗卢国",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
+      },
+      {
+        "value": "朱雀大陆",
+        "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+        "seq": 351
+      },
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+        "seq": 351
       }
     ],
     "镇派之宝": [
@@ -23,6 +38,58 @@
         "value": "含魂超十亿的魂幡",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
+      }
+    ],
+    "等级": [
+      {
+        "value": "毗卢国三大宗派之一",
+        "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+        "seq": 351
+      },
+      {
+        "value": "毗声国三大宗派之一",
+        "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+        "seq": 351,
+        "note": "毗声国为五级修真国"
+      }
+    ],
+    "据点": [
+      {
+        "value": "毗卢国境内，山门外有数座灵力浓郁的大山",
+        "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+        "seq": 351
+      },
+      {
+        "value": "炼魂宗山门（山峰群，宫殿与无数房舍）",
+        "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+        "seq": 351
+      }
+    ],
+    "理念": [
+      {
+        "value": "不在凡人中收童子",
+        "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+        "seq": 351
+      },
+      {
+        "value": "外围弟子缴灵石限期入驻",
+        "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+        "seq": 351
+      },
+      {
+        "value": "三年大比只取一名晋升核心",
+        "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+        "seq": 351
+      },
+      {
+        "value": "核心弟子淘汰制",
+        "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+        "seq": 351
+      },
+      {
+        "value": "炼魂之道（收集冤魂、炼制魂幡主魂）",
+        "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+        "seq": 351
       }
     ]
   },
@@ -39,12 +106,31 @@
       "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
       "dated": false,
       "seq": 96
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+      "dated": false,
+      "seq": 351
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+      "dated": false,
+      "seq": 351
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+      "dated": false,
+      "seq": 351
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery"
+    "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+    "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north"
   ],
-  "updatedAt": "2026-07-05T03:50:16.496Z"
+  "updatedAt": "2026-08-08T15:56:06.617Z"
 }
