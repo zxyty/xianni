@@ -5,7 +5,8 @@
   "aliases": [],
   "summary": "王林此前随巨蛟沉入之处，成为古帝排除王林的依据。",
   "attributes": {
-    "类型": "虚无空间"
+    "类型": "虚无空间",
+    "危险度": "极高（危险之物太多）"
   },
   "observations": {
     "类型": [
@@ -13,6 +14,13 @@
         "value": "虚无空间",
         "docId": "plot.xianni-ch181-jinzhi-baofa",
         "seq": 166
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高（危险之物太多）",
+        "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
+        "seq": 299
       }
     ]
   },
@@ -23,12 +31,19 @@
       "docId": "plot.xianni-ch181-jinzhi-baofa",
       "dated": false,
       "seq": 166
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
+      "dated": false,
+      "seq": 299
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch181-jinzhi-baofa"
+    "plot.xianni-ch181-jinzhi-baofa",
+    "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet"
   ],
-  "updatedAt": "2026-07-07T02:54:01.404Z"
+  "updatedAt": "2026-08-08T05:08:08.185Z"
 }

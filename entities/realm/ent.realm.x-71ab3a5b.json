@@ -7,14 +7,18 @@
     "问鼎初期",
     "问鼎中期",
     "问鼎后期",
-    "鼎期"
+    "鼎期",
+    "问鼎境",
+    "问鼎之境"
   ],
   "summary": "传说中只存在于六级修真国的至高境界；朱雀国仅四人（初期二、中期一、后期大神通一），不问世事。",
   "attributes": {
-    "阶序": "婴变期之上",
+    "阶序": "高于婴变期与化神期",
     "小阶段": "问鼎初期、问鼎中期、问鼎后期",
     "下一境": "婴变期",
-    "上一境": "婴变期"
+    "上一境": "婴变期",
+    "突破关键": "感悟天道，经历问鼎的生死转变",
+    "突破征兆": "达成一刻天地自然酝化出问鼎之晶"
   },
   "observations": {
     "阶序": [
@@ -22,6 +26,11 @@
         "value": "婴变期之上",
         "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
         "seq": 273
+      },
+      {
+        "value": "高于婴变期与化神期",
+        "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
+        "seq": 299
       }
     ],
     "小阶段": [
@@ -54,15 +63,29 @@
         "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
         "seq": 285
       }
+    ],
+    "突破关键": [
+      {
+        "value": "感悟天道，经历问鼎的生死转变",
+        "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
+        "seq": 299
+      }
+    ],
+    "突破征兆": [
+      {
+        "value": "达成一刻天地自然酝化出问鼎之晶",
+        "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
+        "seq": 299
+      }
     ]
   },
   "firstSeq": 273,
   "attrProvenance": {
     "阶序": {
       "asOf": null,
-      "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+      "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
       "dated": false,
-      "seq": 273
+      "seq": 299
     },
     "小阶段": {
       "asOf": null,
@@ -81,6 +104,18 @@
       "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
       "dated": false,
       "seq": 285
+    },
+    "突破关键": {
+      "asOf": null,
+      "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
+      "dated": false,
+      "seq": 299
+    },
+    "突破征兆": {
+      "asOf": null,
+      "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
+      "dated": false,
+      "seq": 299
     }
   },
   "contested": false,
@@ -88,7 +123,8 @@
   "docs": [
     "plot.xianni-ch289-ancient-god-sacrifice-treasure",
     "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
-    "plot.xianni-ch294-298-void-voyage-first-fairy-fragment"
+    "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+    "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet"
   ],
-  "updatedAt": "2026-08-08T04:38:19.313Z"
+  "updatedAt": "2026-08-08T05:08:08.164Z"
 }

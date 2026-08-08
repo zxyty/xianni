@@ -6,7 +6,9 @@
   "summary": "背负麒麟城的巨大灵兽。",
   "attributes": {
     "外形": "巨大",
-    "栖息地": "承载麒麟城"
+    "栖息地": "承载麒麟城",
+    "主人": "大罗剑宗青衫老者",
+    "能力": "高速载行于虚无"
   },
   "observations": {
     "外形": [
@@ -21,6 +23,20 @@
         "value": "承载麒麟城",
         "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
         "seq": 188
+      }
+    ],
+    "主人": [
+      {
+        "value": "大罗剑宗青衫老者",
+        "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
+        "seq": 299
+      }
+    ],
+    "能力": [
+      {
+        "value": "高速载行于虚无",
+        "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
+        "seq": 299
       }
     ]
   },
@@ -37,12 +53,25 @@
       "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
       "dated": false,
       "seq": 188
+    },
+    "主人": {
+      "asOf": null,
+      "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
+      "dated": false,
+      "seq": 299
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
+      "dated": false,
+      "seq": 299
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.renfa-ch204-ancient-mirror-forbidden-banner"
+    "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+    "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet"
   ],
-  "updatedAt": "2026-07-07T12:03:22.454Z"
+  "updatedAt": "2026-08-08T05:08:08.189Z"
 }
