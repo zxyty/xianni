@@ -2,10 +2,13 @@
   "id": "ent.material.x-9cbd59a5",
   "type": "material",
   "name": "上品灵石",
-  "aliases": [],
+  "aliases": [
+    "上品灵石货币"
+  ],
   "summary": "孟驼子储物袋中存有逾三十万块，全为上品。",
   "attributes": {
-    "类型": "灵石"
+    "类型": "灵石",
+    "用途": "修真界货币/修炼资源"
   },
   "observations": {
     "类型": [
@@ -13,6 +16,13 @@
         "value": "灵石",
         "docId": "plot.xianni-ch176-duoqu-fengqun",
         "seq": 161
+      }
+    ],
+    "用途": [
+      {
+        "value": "修真界货币/修炼资源",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312
       }
     ]
   },
@@ -23,12 +33,19 @@
       "docId": "plot.xianni-ch176-duoqu-fengqun",
       "dated": false,
       "seq": 161
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.xianni-ch312-316-yinju-xinjia",
+      "dated": false,
+      "seq": 312
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch176-duoqu-fengqun"
+    "plot.xianni-ch176-duoqu-fengqun",
+    "plot.xianni-ch312-316-yinju-xinjia"
   ],
-  "updatedAt": "2026-07-07T02:39:51.843Z"
+  "updatedAt": "2026-08-08T08:56:45.946Z"
 }

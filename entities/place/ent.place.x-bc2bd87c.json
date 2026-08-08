@@ -3,14 +3,19 @@
   "type": "place",
   "name": "魔逆城",
   "aliases": [
-    "魔逆巨城"
+    "魔逆巨城",
+    "魔逆",
+    "Moni City",
+    "魔逆城城池",
+    "魔逆城城外"
   ],
   "summary": "修魔海内十大巨城之一，排名第三，规模庞大、修士众多，需缴灵石入城。",
   "attributes": {
-    "所属界面": "修魔海",
-    "类型": "巨城",
+    "所属界面": "朱雀星",
+    "类型": "巨城、修真城池、城池",
     "规模": "十大巨城第三",
-    "上级区域": "修魔海"
+    "上级区域": "修魔海",
+    "所属势力": "修魔海诸势力"
   },
   "observations": {
     "所属界面": [
@@ -18,6 +23,11 @@
         "value": "修魔海",
         "docId": "plot.xianni-ch327-return-to-zhuque-star",
         "seq": 309
+      },
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312
       }
     ],
     "类型": [
@@ -25,6 +35,16 @@
         "value": "巨城",
         "docId": "plot.xianni-ch327-return-to-zhuque-star",
         "seq": 309
+      },
+      {
+        "value": "修真城池",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312
+      },
+      {
+        "value": "城池",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312
       }
     ],
     "规模": [
@@ -40,15 +60,22 @@
         "docId": "plot.xianni-ch327-return-to-zhuque-star",
         "seq": 309
       }
+    ],
+    "所属势力": [
+      {
+        "value": "修魔海诸势力",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312
+      }
     ]
   },
   "firstSeq": 309,
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch327-return-to-zhuque-star",
+      "docId": "plot.xianni-ch312-316-yinju-xinjia",
       "dated": false,
-      "seq": 309
+      "seq": 312
     },
     "类型": {
       "asOf": null,
@@ -67,12 +94,19 @@
       "docId": "plot.xianni-ch327-return-to-zhuque-star",
       "dated": false,
       "seq": 309
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch312-316-yinju-xinjia",
+      "dated": false,
+      "seq": 312
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch327-return-to-zhuque-star"
+    "plot.xianni-ch327-return-to-zhuque-star",
+    "plot.xianni-ch312-316-yinju-xinjia"
   ],
-  "updatedAt": "2026-08-08T06:22:47.720Z"
+  "updatedAt": "2026-08-08T08:56:45.962Z"
 }

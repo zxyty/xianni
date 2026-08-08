@@ -80,3 +80,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-08T05:08:08.250Z** `ingest` plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet — 仙逆 第317章 闻道者，朝生夕死：红蝶断臂遁走，王林下沉第四层 · kind=plot asOf=2026-08-08 entities=84 relations=171 src=00299-00303.md
 - **2026-08-08T05:44:31.346Z** `ingest` plot.xianni-ch322-future-senior-brother-sword-swarm-in-void — 仙逆 第322章 未来师兄：仙剑群穿越虚无，贪剑者尽灭 · kind=plot asOf=2026-08-08 entities=113 relations=224 src=00304-00308.md
 - **2026-08-08T06:22:47.875Z** `ingest` plot.xianni-ch327-return-to-zhuque-star — 仙逆 第327章 回归——王林重返朱雀星，闻「曾牛」之名传遍星域 · kind=plot asOf=2026-08-08 entities=114 relations=230 src=00309-00311.md
+- **2026-08-08T08:56:46.016Z** `ingest` plot.xianni-ch312-316-yinju-xinjia — 仙逆 第312-316章：封山救李慕婉·楚国深山隐居建新家 · kind=plot asOf=2026-08-08 entities=101 relations=192 src=00312-00316.md

@@ -4,15 +4,16 @@
   "name": "仙玉宝塔",
   "aliases": [
     "仙玉塔",
-    "周佚宝塔"
+    "周佚宝塔",
+    "仙玉凝结的宝塔"
   ],
   "summary": "周佚以崩塌宫殿中的仙玉在半空凝成的宝塔，内封其亡妻女尸，交予王林保管。",
   "attributes": {
     "持有者": "王林",
-    "来历": "仙界之行所得",
-    "能力": "封存女尸、需置于阴寒之地放出",
-    "禁制": "内藏女尸，物品难以取出",
-    "外形": "宝塔，可缩小把持"
+    "来历": "周佚临终托付",
+    "能力": "封存女尸、需置于阴寒之地放出、内藏婷儿女尸、周佚问鼎期一丝意念笼罩四周百里、波纹压得元婴后期修士元婴欲崩",
+    "禁制": "只可在阴寒之地放出",
+    "外形": "高约百丈的仙玉巨塔"
   },
   "observations": {
     "持有者": [
@@ -32,6 +33,11 @@
         "value": "仙界之行所得",
         "docId": "plot.xianni-ch327-return-to-zhuque-star",
         "seq": 309
+      },
+      {
+        "value": "周佚临终托付",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312
       }
     ],
     "能力": [
@@ -44,6 +50,21 @@
         "value": "需置于阴寒之地放出",
         "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
         "seq": 299
+      },
+      {
+        "value": "内藏婷儿女尸",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312
+      },
+      {
+        "value": "周佚问鼎期一丝意念笼罩四周百里",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312
+      },
+      {
+        "value": "波纹压得元婴后期修士元婴欲崩",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312
       }
     ],
     "禁制": [
@@ -56,6 +77,11 @@
         "value": "内藏女尸，物品难以取出",
         "docId": "plot.xianni-ch327-return-to-zhuque-star",
         "seq": 309
+      },
+      {
+        "value": "只可在阴寒之地放出",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312
       }
     ],
     "外形": [
@@ -63,6 +89,11 @@
         "value": "宝塔，可缩小把持",
         "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
         "seq": 299
+      },
+      {
+        "value": "高约百丈的仙玉巨塔",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312
       }
     ]
   },
@@ -76,9 +107,9 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch327-return-to-zhuque-star",
+      "docId": "plot.xianni-ch312-316-yinju-xinjia",
       "dated": false,
-      "seq": 309
+      "seq": 312
     },
     "能力": {
       "asOf": null,
@@ -88,22 +119,23 @@
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.xianni-ch327-return-to-zhuque-star",
+      "docId": "plot.xianni-ch312-316-yinju-xinjia",
       "dated": false,
-      "seq": 309
+      "seq": 312
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
+      "docId": "plot.xianni-ch312-316-yinju-xinjia",
       "dated": false,
-      "seq": 299
+      "seq": 312
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
-    "plot.xianni-ch327-return-to-zhuque-star"
+    "plot.xianni-ch327-return-to-zhuque-star",
+    "plot.xianni-ch312-316-yinju-xinjia"
   ],
-  "updatedAt": "2026-08-08T06:22:47.657Z"
+  "updatedAt": "2026-08-08T08:56:45.851Z"
 }

@@ -9,7 +9,8 @@
   "summary": "王林手中共三把：一把由其亲手杀死的大罗剑宗弟子处所得，另两把与叱虎在虚无中收取储物袋时无意获得；将用于完善禁幡。",
   "attributes": {
     "持有者": "王林",
-    "来历": "斩杀大罗剑宗弟子与虚无中收取储物袋所得"
+    "来历": "大罗剑宗弟子",
+    "禁制": "与王林所学体系不同，被其参研借鉴"
   },
   "observations": {
     "持有者": [
@@ -24,6 +25,18 @@
         "value": "斩杀大罗剑宗弟子与虚无中收取储物袋所得",
         "docId": "plot.xianni-ch327-return-to-zhuque-star",
         "seq": 309
+      },
+      {
+        "value": "大罗剑宗弟子",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312
+      }
+    ],
+    "禁制": [
+      {
+        "value": "与王林所学体系不同，被其参研借鉴",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312
       }
     ]
   },
@@ -37,15 +50,22 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch327-return-to-zhuque-star",
+      "docId": "plot.xianni-ch312-316-yinju-xinjia",
       "dated": false,
-      "seq": 309
+      "seq": 312
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch312-316-yinju-xinjia",
+      "dated": false,
+      "seq": 312
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch327-return-to-zhuque-star"
+    "plot.xianni-ch327-return-to-zhuque-star",
+    "plot.xianni-ch312-316-yinju-xinjia"
   ],
-  "updatedAt": "2026-08-08T06:22:47.656Z"
+  "updatedAt": "2026-08-08T08:56:45.876Z"
 }
