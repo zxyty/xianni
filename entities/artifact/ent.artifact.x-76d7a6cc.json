@@ -4,12 +4,13 @@
   "name": "红色葫芦",
   "aliases": [
     "巨大红色葫芦",
-    "老者腰间红葫芦"
+    "老者腰间红葫芦",
+    "周佚的红葫芦"
   ],
   "summary": "灰布老者腰上别着的巨大红色葫芦，本章仅现其形未见其用。",
   "attributes": {
-    "持有者": "灰布褂子老者",
-    "外形": "巨大红色葫芦"
+    "持有者": "周佚",
+    "外形": "红色葫芦"
   },
   "observations": {
     "持有者": [
@@ -17,6 +18,11 @@
         "value": "灰布褂子老者",
         "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
         "seq": 273
+      },
+      {
+        "value": "周佚",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294
       }
     ],
     "外形": [
@@ -24,6 +30,11 @@
         "value": "巨大红色葫芦",
         "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
         "seq": 273
+      },
+      {
+        "value": "红色葫芦",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294
       }
     ]
   },
@@ -31,21 +42,22 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+      "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
       "dated": false,
-      "seq": 273
+      "seq": 294
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+      "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
       "dated": false,
-      "seq": 273
+      "seq": 294
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch289-ancient-god-sacrifice-treasure"
+    "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+    "plot.xianni-ch294-298-void-voyage-first-fairy-fragment"
   ],
-  "updatedAt": "2026-08-02T13:59:47.793Z"
+  "updatedAt": "2026-08-08T04:38:19.264Z"
 }

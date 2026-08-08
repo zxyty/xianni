@@ -3,13 +3,19 @@
   "type": "person",
   "name": "尸阴宗白发老者",
   "aliases": [
-    "尸阴宗老者"
+    "尸阴宗老者",
+    "尸阴宗老头",
+    "尸阴宗的老头"
   ],
   "summary": "尸阴宗总部升空的白发老者，感叹仙人尸体难得；光柱中闭目背手、神态随意，忽睁眼对王林微微一笑。",
   "attributes": {
-    "外貌": "白发老者，闭目背手",
-    "身份": "尸阴宗高层",
-    "性格": "随意从容，深不可测"
+    "外貌": "白发苍苍、一脸皱纹",
+    "身份": "尸阴宗修士",
+    "性格": "惜命、取舍果断",
+    "小阶段": "婴变中期",
+    "标志特征": "以嗅觉辨识死气",
+    "阵营": "尸阴宗",
+    "分身": "第三魂（年轻人形态）"
   },
   "observations": {
     "外貌": [
@@ -17,6 +23,11 @@
         "value": "白发老者，闭目背手",
         "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
         "seq": 276
+      },
+      {
+        "value": "白发苍苍、一脸皱纹",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294
       }
     ],
     "身份": [
@@ -24,6 +35,11 @@
         "value": "尸阴宗高层",
         "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
         "seq": 276
+      },
+      {
+        "value": "尸阴宗修士",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294
       }
     ],
     "性格": [
@@ -31,6 +47,40 @@
         "value": "随意从容，深不可测",
         "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
         "seq": 276
+      },
+      {
+        "value": "惜命、取舍果断",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "婴变中期",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "以嗅觉辨识死气",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294
+      }
+    ],
+    "阵营": [
+      {
+        "value": "尸阴宗",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294
+      }
+    ],
+    "分身": [
+      {
+        "value": "第三魂（年轻人形态）",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294,
+        "note": "由眉心放出，本章被周佚撞得魂飞魄散"
       }
     ]
   },
@@ -38,27 +88,53 @@
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+      "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
       "dated": false,
-      "seq": 276
+      "seq": 294
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+      "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
       "dated": false,
-      "seq": 276
+      "seq": 294
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+      "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
       "dated": false,
-      "seq": 276
+      "seq": 294
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+      "dated": false,
+      "seq": 294
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+      "dated": false,
+      "seq": 294
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+      "dated": false,
+      "seq": 294
+    },
+    "分身": {
+      "asOf": null,
+      "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+      "dated": false,
+      "seq": 294,
+      "note": "由眉心放出，本章被周佚撞得魂飞魄散"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men"
+    "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+    "plot.xianni-ch294-298-void-voyage-first-fairy-fragment"
   ],
-  "updatedAt": "2026-08-02T14:24:24.214Z"
+  "updatedAt": "2026-08-08T04:38:19.319Z"
 }

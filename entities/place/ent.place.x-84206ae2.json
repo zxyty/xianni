@@ -7,13 +7,15 @@
     "黑色的虚无",
     "吞噬虚无",
     "黑色虚无",
-    "虚无之中"
+    "虚无之中",
+    "星空虚无"
   ],
   "summary": "碎片极东齿痕之下的一片黑色虚无，隔在南端极寒碎片与第一层碎片之间；进入其中极易迷失，需罗盘锁定方向，且魂类手段（游魂/炼魂）在其中最为好用。",
   "attributes": {
-    "类型": "虚无空间、星空虚无空间",
+    "类型": "虚无空间、星空虚无空间、星空虚空",
     "方位": "碎片极东齿痕之下、冰川边缘之外",
-    "危险度": "会令人迷失方向、具吞噬之性、极高——多未知异物，散发神识即招大祸"
+    "危险度": "会令人迷失方向、具吞噬之性、极高——多未知异物，散发神识即招大祸、极高（异物遍布、危机四伏）",
+    "特产": "金紫石等炼器材料"
   },
   "observations": {
     "类型": [
@@ -26,6 +28,11 @@
         "value": "星空虚无空间",
         "docId": "plot.xianni-ch307-shooting-god-chariot",
         "seq": 289
+      },
+      {
+        "value": "星空虚空",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294
       }
     ],
     "方位": [
@@ -50,6 +57,18 @@
         "value": "极高——多未知异物，散发神识即招大祸",
         "docId": "plot.xianni-ch307-shooting-god-chariot",
         "seq": 289
+      },
+      {
+        "value": "极高（异物遍布、危机四伏）",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294
+      }
+    ],
+    "特产": [
+      {
+        "value": "金紫石等炼器材料",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294
       }
     ]
   },
@@ -72,12 +91,19 @@
       "docId": "plot.xianni-ch307-shooting-god-chariot",
       "dated": false,
       "seq": 289
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+      "dated": false,
+      "seq": 294
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch307-shooting-god-chariot"
+    "plot.xianni-ch307-shooting-god-chariot",
+    "plot.xianni-ch294-298-void-voyage-first-fairy-fragment"
   ],
-  "updatedAt": "2026-08-08T04:03:20.884Z"
+  "updatedAt": "2026-08-08T04:38:19.223Z"
 }

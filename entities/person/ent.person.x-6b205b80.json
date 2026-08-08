@@ -6,14 +6,16 @@
     "老夫天运子",
     "Tian Yun Zi",
     "天运子老道",
-    "老道"
+    "老道",
+    "天运子前辈"
   ],
   "summary": "乘巨石流星路过废弃修真星的白发老者，点醒追寻轮回天道的王林并将其神念推回，许诺若王林能走出此星可赴天运星做其记名弟子百年。",
   "attributes": {
     "外貌": "白发老者",
-    "身份": "天运星高人、留下星图之高人",
+    "身份": "天运星高人、留下星图之高人、王林欲拜的前辈",
     "标志特征": "坐于仿若流星的巨石之上",
-    "称号": "天运子老道"
+    "称号": "天运子",
+    "元神强度": "定然通神"
   },
   "observations": {
     "外貌": [
@@ -33,6 +35,11 @@
         "value": "留下星图之高人",
         "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
         "seq": 248
+      },
+      {
+        "value": "王林欲拜的前辈",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294
       }
     ],
     "标志特征": [
@@ -47,6 +54,19 @@
         "value": "天运子老道",
         "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
         "seq": 248
+      },
+      {
+        "value": "天运子",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294
+      }
+    ],
+    "元神强度": [
+      {
+        "value": "定然通神",
+        "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+        "seq": 294,
+        "note": "王林推测"
       }
     ]
   },
@@ -72,15 +92,23 @@
     },
     "称号": {
       "asOf": null,
-      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+      "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
       "dated": false,
-      "seq": 248
+      "seq": 294
+    },
+    "元神强度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+      "dated": false,
+      "seq": 294,
+      "note": "王林推测"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment"
+    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+    "plot.xianni-ch294-298-void-voyage-first-fairy-fragment"
   ],
-  "updatedAt": "2026-08-02T09:25:44.521Z"
+  "updatedAt": "2026-08-08T04:38:19.209Z"
 }
