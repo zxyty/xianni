@@ -4,12 +4,13 @@
   "name": "果子酒",
   "aliases": [
     "自酿果子酒",
-    "王林的果子酒"
+    "王林的果子酒",
+    "酒壶中的果子酒"
   ],
   "summary": "大牛父亲自酿之酒，甘甜带辛辣，成为王林每日必需之物，助其灵力流动、心境平和。",
   "attributes": {
-    "类型": "酒水",
-    "用途": "随身饮用、论道助兴"
+    "类型": "酒",
+    "用途": "怀旧饮用"
   },
   "observations": {
     "类型": [
@@ -22,6 +23,11 @@
         "value": "酒水",
         "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
         "seq": 263
+      },
+      {
+        "value": "酒",
+        "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+        "seq": 317
       }
     ],
     "用途": [
@@ -34,6 +40,11 @@
         "value": "随身饮用、论道助兴",
         "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
         "seq": 263
+      },
+      {
+        "value": "怀旧饮用",
+        "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+        "seq": 317
       }
     ]
   },
@@ -41,22 +52,23 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+      "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
       "dated": false,
-      "seq": 263
+      "seq": 317
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
+      "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
       "dated": false,
-      "seq": 263
+      "seq": 317
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch235-238-guiyin-fabao",
-    "plot.xianni-ch263-267-tianni-change-xueyu-country"
+    "plot.xianni-ch263-267-tianni-change-xueyu-country",
+    "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan"
   ],
-  "updatedAt": "2026-08-02T10:56:50.740Z"
+  "updatedAt": "2026-08-08T09:25:36.875Z"
 }

@@ -4,14 +4,18 @@
   "name": "宝塔山谷",
   "aliases": [
     "山谷",
-    "石屋山谷"
+    "石屋山谷",
+    "王林山谷",
+    "楚国山谷"
   ],
   "summary": "王林与李慕婉暂居之地，谷中有石屋与宝塔；铁岩、吕非在此外百里悟道。",
   "attributes": {
     "类型": "山谷",
     "方位": "楚国境内",
     "上级区域": "楚国",
-    "守护": "留置的宝塔"
+    "守护": "留置的宝塔",
+    "所属界面": "楚国",
+    "危险度": "谷内灵压极大，仅可深入一里左右"
   },
   "observations": {
     "类型": [
@@ -41,6 +45,20 @@
         "docId": "plot.xianni-ch312-316-yinju-xinjia",
         "seq": 312
       }
+    ],
+    "所属界面": [
+      {
+        "value": "楚国",
+        "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+        "seq": 317
+      }
+    ],
+    "危险度": [
+      {
+        "value": "谷内灵压极大，仅可深入一里左右",
+        "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+        "seq": 317
+      }
     ]
   },
   "firstSeq": 312,
@@ -68,12 +86,25 @@
       "docId": "plot.xianni-ch312-316-yinju-xinjia",
       "dated": false,
       "seq": 312
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+      "dated": false,
+      "seq": 317
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+      "dated": false,
+      "seq": 317
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch312-316-yinju-xinjia"
+    "plot.xianni-ch312-316-yinju-xinjia",
+    "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan"
   ],
-  "updatedAt": "2026-08-08T08:56:45.888Z"
+  "updatedAt": "2026-08-08T09:25:36.899Z"
 }

@@ -7,10 +7,11 @@
   ],
   "summary": "云天宗始祖之一，元婴后期，五品炼丹大师，本章被禁幡所困后被释放并交出魂血、承诺五百年内保李慕婉平安。",
   "attributes": {
-    "身份": "云天宗始祖、五品炼丹大师",
+    "身份": "云天宗始祖、五品炼丹大师、云天宗五品炼丹师",
     "小阶段": "元婴后期",
-    "存殁": "存活",
-    "结局": "交出魂血降服，承诺五百年内保李慕婉平安"
+    "存殁": "死亡",
+    "结局": "交出魂血降服，承诺五百年内保李慕婉平安",
+    "死因": "多年前化神失败而亡"
   },
   "observations": {
     "身份": [
@@ -23,6 +24,11 @@
         "value": "五品炼丹大师",
         "docId": "plot.xianni-ch226-leave-chu-country",
         "seq": 210
+      },
+      {
+        "value": "云天宗五品炼丹师",
+        "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+        "seq": 317
       }
     ],
     "小阶段": [
@@ -37,6 +43,11 @@
         "value": "存活",
         "docId": "plot.xianni-ch226-leave-chu-country",
         "seq": 210
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+        "seq": 317
       }
     ],
     "结局": [
@@ -44,6 +55,13 @@
         "value": "交出魂血降服，承诺五百年内保李慕婉平安",
         "docId": "plot.xianni-ch226-leave-chu-country",
         "seq": 210
+      }
+    ],
+    "死因": [
+      {
+        "value": "多年前化神失败而亡",
+        "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+        "seq": 317
       }
     ]
   },
@@ -63,21 +81,28 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch226-leave-chu-country",
+      "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
       "dated": false,
-      "seq": 210
+      "seq": 317
     },
     "结局": {
       "asOf": null,
       "docId": "plot.xianni-ch226-leave-chu-country",
       "dated": false,
       "seq": 210
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+      "dated": false,
+      "seq": 317
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch226-leave-chu-country"
+    "plot.xianni-ch226-leave-chu-country",
+    "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan"
   ],
-  "updatedAt": "2026-07-18T10:39:12.497Z"
+  "updatedAt": "2026-08-08T09:25:36.861Z"
 }

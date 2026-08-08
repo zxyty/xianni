@@ -4,13 +4,18 @@
   "name": "六品归元丹",
   "aliases": [
     "归元丹",
-    "六品归元丹药"
+    "六品归元丹药",
+    "六品灵丹",
+    "六品丹药",
+    "火红色丹药"
   ],
   "summary": "归元丹的六品版本，可在短时间内使服食者吸纳吞吐天地灵力速度加快数倍（六品加速堪称恐怖）；百年内限服一粒，过量则身体结晶化为人形晶石。",
   "attributes": {
     "品阶": "六品",
-    "功效": "短时间内使吸纳吞吐天地灵力速度加快数倍、六品加速幅度堪称恐怖",
-    "副作用": "百年内只能服一粒、服食过多身体结晶化、化为人形晶石且灵魂被封印其内"
+    "功效": "短时间内使吸纳吞吐天地灵力速度加快数倍、六品加速幅度堪称恐怖、王林用以救治李慕婉寿元断绝之望、为李慕婉续命而求、短时间内暴增吸收天地灵力速度、助力突破瓶颈",
+    "副作用": "百年内只能服一粒、服食过多身体结晶化、化为人形晶石且灵魂被封印其内、身体虚弱、寿元断绝者难以坚持",
+    "主料": "一百三十七种材料",
+    "炼制者": "欧阳子"
   },
   "observations": {
     "品阶": [
@@ -30,6 +35,27 @@
         "value": "六品加速幅度堪称恐怖",
         "docId": "plot.xianni-ch312-316-yinju-xinjia",
         "seq": 312
+      },
+      {
+        "value": "王林用以救治李慕婉寿元断绝之望",
+        "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+        "seq": 317
+      },
+      {
+        "value": "为李慕婉续命而求",
+        "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+        "seq": 317,
+        "note": "本片段仅炼成交付，尚未服用"
+      },
+      {
+        "value": "短时间内暴增吸收天地灵力速度",
+        "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+        "seq": 317
+      },
+      {
+        "value": "助力突破瓶颈",
+        "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+        "seq": 317
       }
     ],
     "副作用": [
@@ -47,6 +73,26 @@
         "value": "化为人形晶石且灵魂被封印其内",
         "docId": "plot.xianni-ch312-316-yinju-xinjia",
         "seq": 312
+      },
+      {
+        "value": "身体虚弱、寿元断绝者难以坚持",
+        "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+        "seq": 317,
+        "note": "李慕婉服用后仍在轮回天道之力下身亡"
+      }
+    ],
+    "主料": [
+      {
+        "value": "一百三十七种材料",
+        "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+        "seq": 317
+      }
+    ],
+    "炼制者": [
+      {
+        "value": "欧阳子",
+        "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+        "seq": 317
       }
     ]
   },
@@ -69,12 +115,25 @@
       "docId": "plot.xianni-ch312-316-yinju-xinjia",
       "dated": false,
       "seq": 312
+    },
+    "主料": {
+      "asOf": null,
+      "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+      "dated": false,
+      "seq": 317
+    },
+    "炼制者": {
+      "asOf": null,
+      "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+      "dated": false,
+      "seq": 317
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch312-316-yinju-xinjia"
+    "plot.xianni-ch312-316-yinju-xinjia",
+    "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan"
   ],
-  "updatedAt": "2026-08-08T08:56:45.966Z"
+  "updatedAt": "2026-08-08T09:25:36.921Z"
 }
