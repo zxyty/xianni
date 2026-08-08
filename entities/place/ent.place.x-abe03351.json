@@ -3,12 +3,15 @@
   "type": "place",
   "name": "毗卢国",
   "aliases": [
-    "五级修真国毗卢国"
+    "五级修真国毗卢国",
+    "毗声国"
   ],
   "summary": "五级修真国，炼魂宗所在，镇派魂幡含魂超十亿。",
   "attributes": {
-    "类型": "五级修真国",
-    "所属势力": "炼魂宗"
+    "类型": "修真国度",
+    "所属势力": "炼魂宗",
+    "所属界面": "朱雀星",
+    "规模": "五级修真国"
   },
   "observations": {
     "类型": [
@@ -16,6 +19,11 @@
         "value": "五级修真国",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
+      },
+      {
+        "value": "修真国度",
+        "docId": "plot.xianni-ch327-return-to-zhuque-star",
+        "seq": 309
       }
     ],
     "所属势力": [
@@ -24,27 +32,54 @@
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
       }
+    ],
+    "所属界面": [
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch327-return-to-zhuque-star",
+        "seq": 309
+      }
+    ],
+    "规模": [
+      {
+        "value": "五级修真国",
+        "docId": "plot.xianni-ch327-return-to-zhuque-star",
+        "seq": 309
+      }
     ]
   },
   "firstSeq": 96,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+      "docId": "plot.xianni-ch327-return-to-zhuque-star",
       "dated": false,
-      "seq": 96
+      "seq": 309
     },
     "所属势力": {
       "asOf": null,
       "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
       "dated": false,
       "seq": 96
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch327-return-to-zhuque-star",
+      "dated": false,
+      "seq": 309
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch327-return-to-zhuque-star",
+      "dated": false,
+      "seq": 309
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery"
+    "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+    "plot.xianni-ch327-return-to-zhuque-star"
   ],
-  "updatedAt": "2026-07-05T03:50:16.500Z"
+  "updatedAt": "2026-08-08T06:22:47.733Z"
 }

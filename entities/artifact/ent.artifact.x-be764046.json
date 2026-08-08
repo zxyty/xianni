@@ -4,13 +4,16 @@
   "name": "回鼎",
   "aliases": [
     "返回鼎",
-    "青衫修士的回鼎"
+    "青衫修士的回鼎",
+    "回鼎传送",
+    "回鼎法宝"
   ],
   "summary": "可返回所属修真星的法宝；青衫修士之回鼎指向大罗派所在，王林与自己的回鼎分开收存以免误用。",
   "attributes": {
-    "能力": "开启漩涡往返仙界",
+    "能力": "开启后返回所属修真星、开启漩涡往返仙界、跨星空传送、自仙界传送返回朱雀星",
     "持有者": "王林",
-    "来历": "夺自青衫修士"
+    "来历": "仙界之行所得/所用",
+    "禁制": "传送易出现偏移"
   },
   "observations": {
     "能力": [
@@ -23,6 +26,16 @@
         "value": "开启漩涡往返仙界",
         "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
         "seq": 304
+      },
+      {
+        "value": "跨星空传送",
+        "docId": "plot.xianni-ch327-return-to-zhuque-star",
+        "seq": 309
+      },
+      {
+        "value": "自仙界传送返回朱雀星",
+        "docId": "plot.xianni-ch327-return-to-zhuque-star",
+        "seq": 309
       }
     ],
     "持有者": [
@@ -37,6 +50,19 @@
         "value": "夺自青衫修士",
         "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
         "seq": 281
+      },
+      {
+        "value": "仙界之行所得/所用",
+        "docId": "plot.xianni-ch327-return-to-zhuque-star",
+        "seq": 309
+      }
+    ],
+    "禁制": [
+      {
+        "value": "传送易出现偏移",
+        "docId": "plot.xianni-ch327-return-to-zhuque-star",
+        "seq": 309,
+        "note": "展空落于修魔海、王林落于其他星球"
       }
     ]
   },
@@ -44,9 +70,9 @@
   "attrProvenance": {
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
+      "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
       "dated": false,
-      "seq": 304
+      "seq": 281
     },
     "持有者": {
       "asOf": null,
@@ -56,16 +82,24 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
+      "docId": "plot.xianni-ch327-return-to-zhuque-star",
       "dated": false,
-      "seq": 281
+      "seq": 309
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch327-return-to-zhuque-star",
+      "dated": false,
+      "seq": 309,
+      "note": "展空落于修魔海、王林落于其他星球"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
-    "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void"
+    "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
+    "plot.xianni-ch327-return-to-zhuque-star"
   ],
-  "updatedAt": "2026-08-08T05:44:31.275Z"
+  "updatedAt": "2026-08-08T06:22:47.740Z"
 }
