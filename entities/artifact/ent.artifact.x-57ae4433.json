@@ -4,14 +4,16 @@
   "name": "射神车",
   "aliases": [
     "射神車",
-    "She Shen Che"
+    "She Shen Che",
+    "天宝上人的战车"
   ],
   "summary": "天宝上人毕生研制的法宝，志在成为天地间威力最大之宝，但成品未达其满意要求，被封印于其洞府之内。",
   "attributes": {
-    "来历": "天宝上人毕生研制",
-    "能力": "意在成为天地中威力最大的法宝（成品未达其满意要求）",
-    "禁制": "被天宝上人封印于洞府之内",
-    "品阶": "未知"
+    "来历": "天宝上人遗留于洞府石室",
+    "能力": "意在成为天地中威力最大的法宝（成品未达其满意要求）、以兽魂魂力催发，无需灵石开启、可缩小至巴掌大小便于收纳",
+    "禁制": "车上兽魂被上百黑色光圈封印，处于睡眠状态",
+    "品阶": "未知",
+    "持有者": "王林"
   },
   "observations": {
     "来历": [
@@ -19,6 +21,11 @@
         "value": "天宝上人毕生研制",
         "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
         "seq": 285
+      },
+      {
+        "value": "天宝上人遗留于洞府石室",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
       }
     ],
     "能力": [
@@ -26,6 +33,16 @@
         "value": "意在成为天地中威力最大的法宝（成品未达其满意要求）",
         "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
         "seq": 285
+      },
+      {
+        "value": "以兽魂魂力催发，无需灵石开启",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
+      },
+      {
+        "value": "可缩小至巴掌大小便于收纳",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
       }
     ],
     "禁制": [
@@ -33,6 +50,12 @@
         "value": "被天宝上人封印于洞府之内",
         "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
         "seq": 285
+      },
+      {
+        "value": "车上兽魂被上百黑色光圈封印，处于睡眠状态",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289,
+        "note": "王林所施，因无法收服兽魂只能暂时封印"
       }
     ],
     "品阶": [
@@ -42,15 +65,22 @@
         "seq": 285,
         "note": "制法所需材料绝大部分已灭绝，无法再制作"
       }
+    ],
+    "持有者": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
+      }
     ]
   },
   "firstSeq": 285,
   "attrProvenance": {
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+      "docId": "plot.xianni-ch307-shooting-god-chariot",
       "dated": false,
-      "seq": 285
+      "seq": 289
     },
     "能力": {
       "asOf": null,
@@ -60,9 +90,10 @@
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+      "docId": "plot.xianni-ch307-shooting-god-chariot",
       "dated": false,
-      "seq": 285
+      "seq": 289,
+      "note": "王林所施，因无法收服兽魂只能暂时封印"
     },
     "品阶": {
       "asOf": null,
@@ -70,12 +101,19 @@
       "dated": false,
       "seq": 285,
       "note": "制法所需材料绝大部分已灭绝，无法再制作"
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.xianni-ch307-shooting-god-chariot",
+      "dated": false,
+      "seq": 289
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal"
+    "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+    "plot.xianni-ch307-shooting-god-chariot"
   ],
-  "updatedAt": "2026-08-02T15:12:09.113Z"
+  "updatedAt": "2026-08-08T04:03:20.756Z"
 }

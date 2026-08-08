@@ -10,12 +10,13 @@
   ],
   "summary": "飞升仙界的炼器痴人，毕生只为造出天地间威力最大的法宝，研制出射神车却不满意而封印于洞府；仙界浩劫前外出采材，一去生死两隔，临终留下金色铁片传法。",
   "attributes": {
-    "身份": "炼器修士／法宝炼制者、洞府主人（仙界西部碎片）",
+    "身份": "炼器修士／法宝炼制者、洞府主人（仙界西部碎片）、炼器高人、射神车原主人",
     "称号": "天宝上人",
     "性格": "痴迷炼器，对修炼毫无兴趣",
     "存殁": "死亡",
     "死因": "仙界浩劫期间外出收集材料时殒命",
-    "结局": "留下金色铁片记载射神车制法与洞府地址，留待有缘人"
+    "结局": "留下金色铁片记载射神车制法与洞府地址，留待有缘人",
+    "外貌": "仙风道骨、仙须无风自动、面貌英俊而威严"
   },
   "observations": {
     "身份": [
@@ -28,6 +29,16 @@
         "value": "洞府主人（仙界西部碎片）",
         "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
         "seq": 285
+      },
+      {
+        "value": "炼器高人",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
+      },
+      {
+        "value": "射神车原主人",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
       }
     ],
     "称号": [
@@ -48,7 +59,8 @@
       {
         "value": "死亡",
         "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
-        "seq": 285
+        "seq": 285,
+        "note": "第285章已死，本章为遗留铁片中的幻影演示，非本人行动"
       }
     ],
     "死因": [
@@ -63,6 +75,14 @@
         "value": "留下金色铁片记载射神车制法与洞府地址，留待有缘人",
         "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
         "seq": 285
+      }
+    ],
+    "外貌": [
+      {
+        "value": "仙风道骨、仙须无风自动、面貌英俊而威严",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289,
+        "note": "铁片所化虚幻人影"
       }
     ]
   },
@@ -90,7 +110,8 @@
       "asOf": null,
       "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
       "dated": false,
-      "seq": 285
+      "seq": 285,
+      "note": "第285章已死，本章为遗留铁片中的幻影演示，非本人行动"
     },
     "死因": {
       "asOf": null,
@@ -103,12 +124,20 @@
       "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
       "dated": false,
       "seq": 285
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch307-shooting-god-chariot",
+      "dated": false,
+      "seq": 289,
+      "note": "铁片所化虚幻人影"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal"
+    "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+    "plot.xianni-ch307-shooting-god-chariot"
   ],
-  "updatedAt": "2026-08-02T15:12:09.131Z"
+  "updatedAt": "2026-08-08T04:03:20.755Z"
 }

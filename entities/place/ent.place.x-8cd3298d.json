@@ -4,15 +4,21 @@
   "name": "天宝上人洞府",
   "aliases": [
     "天宝上人的洞府",
-    "虎形山峰洞府"
+    "虎形山峰洞府",
+    "第十间石室",
+    "紫红色门石室",
+    "紫红门洞府",
+    "天宝上人遗府"
   ],
   "summary": "位于仙界西部虎形山峰之下，射神车被封印其中，据铁片描述应尚有存货；仙界已碎，是否尚存、是否已被前人发现皆未知。",
   "attributes": {
     "所属界面": "仙界",
     "方位": "仙界西部，虎形山峰之下、虎形山峰山脚",
-    "类型": "洞府",
-    "守护": "射神车封印其中",
-    "危险度": "已被洗劫，遗迹状态"
+    "类型": "洞府/藏宝秘地",
+    "守护": "射神车封印其中、隐藏机关（需铁片开启）+ 紫红色门印诀 + 三具兽魂、紫红门与手诀升降禁制",
+    "危险度": "已被洗劫，遗迹状态",
+    "规模": "石室十间，第十间约几十丈",
+    "所属势力": "天宝上人"
   },
   "observations": {
     "所属界面": [
@@ -39,6 +45,11 @@
         "value": "洞府",
         "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
         "seq": 285
+      },
+      {
+        "value": "洞府/藏宝秘地",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
       }
     ],
     "守护": [
@@ -46,6 +57,16 @@
         "value": "射神车封印其中",
         "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
         "seq": 285
+      },
+      {
+        "value": "隐藏机关（需铁片开启）+ 紫红色门印诀 + 三具兽魂",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
+      },
+      {
+        "value": "紫红门与手诀升降禁制",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
       }
     ],
     "危险度": [
@@ -53,6 +74,20 @@
         "value": "已被洗劫，遗迹状态",
         "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
         "seq": 285
+      }
+    ],
+    "规模": [
+      {
+        "value": "石室十间，第十间约几十丈",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "天宝上人",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
       }
     ]
   },
@@ -72,9 +107,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+      "docId": "plot.xianni-ch307-shooting-god-chariot",
       "dated": false,
-      "seq": 285
+      "seq": 289
     },
     "守护": {
       "asOf": null,
@@ -87,12 +122,25 @@
       "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
       "dated": false,
       "seq": 285
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch307-shooting-god-chariot",
+      "dated": false,
+      "seq": 289
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch307-shooting-god-chariot",
+      "dated": false,
+      "seq": 289
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal"
+    "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+    "plot.xianni-ch307-shooting-god-chariot"
   ],
-  "updatedAt": "2026-08-02T15:12:09.139Z"
+  "updatedAt": "2026-08-08T04:03:20.763Z"
 }

@@ -4,14 +4,19 @@
   "name": "叱虎",
   "aliases": [
     "巨魔族叱虎",
-    "Chi Hu"
+    "Chi Hu",
+    "叱虎前辈",
+    "叱虎道友",
+    "叱虎兄"
   ],
   "summary": "巨魔族修士，化神修为，旁观王林反杀灰衣男子后上前结交，出示玉简邀王林同探仙玉棺材之地。",
   "attributes": {
     "种族": "巨魔族",
-    "身份": "巨魔族修士",
-    "性格": "谨慎、善于试探、目的明确",
-    "阵营": "巨魔族（四级修真国）"
+    "身份": "巨魔族修士、此行召集者/邀约人、此行三人之邀请者、仙界碎片探险的引路人/组局者、虚无寻宝之行的召集者与罗盘驱使者",
+    "性格": "谨慎、善于试探、目的明确、沉稳自信、有城府、沉吟持重、顾及各方、圆滑持重、重信义、善笑、藏私、有算计、豪爽而心细，善于制衡同伴",
+    "阵营": "巨魔族（四级修真国）",
+    "出身地": "朱雀星",
+    "标志特征": "身后浮现高十多丈的远古巨人虚影"
   },
   "observations": {
     "种族": [
@@ -26,6 +31,26 @@
         "value": "巨魔族修士",
         "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
         "seq": 285
+      },
+      {
+        "value": "此行召集者/邀约人",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
+      },
+      {
+        "value": "此行三人之邀请者",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
+      },
+      {
+        "value": "仙界碎片探险的引路人/组局者",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
+      },
+      {
+        "value": "虚无寻宝之行的召集者与罗盘驱使者",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
       }
     ],
     "性格": [
@@ -33,6 +58,41 @@
         "value": "谨慎、善于试探、目的明确",
         "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
         "seq": 285
+      },
+      {
+        "value": "沉稳自信、有城府",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
+      },
+      {
+        "value": "沉吟持重、顾及各方",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
+      },
+      {
+        "value": "圆滑持重、重信义",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
+      },
+      {
+        "value": "善笑",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
+      },
+      {
+        "value": "藏私",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
+      },
+      {
+        "value": "有算计",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
+      },
+      {
+        "value": "豪爽而心细，善于制衡同伴",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
       }
     ],
     "阵营": [
@@ -40,6 +100,20 @@
         "value": "巨魔族（四级修真国）",
         "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
         "seq": 285
+      }
+    ],
+    "出身地": [
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "身后浮现高十多丈的远古巨人虚影",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
       }
     ]
   },
@@ -68,12 +142,25 @@
       "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
       "dated": false,
       "seq": 285
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch307-shooting-god-chariot",
+      "dated": false,
+      "seq": 289
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch307-shooting-god-chariot",
+      "dated": false,
+      "seq": 289
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal"
+    "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+    "plot.xianni-ch307-shooting-god-chariot"
   ],
-  "updatedAt": "2026-08-02T15:12:09.084Z"
+  "updatedAt": "2026-08-08T04:03:20.871Z"
 }

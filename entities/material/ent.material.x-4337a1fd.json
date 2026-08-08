@@ -7,14 +7,17 @@
     "玉石",
     "无价之宝仙玉",
     "仙界玉石",
-    "仙界之气凝成之玉"
+    "仙界之气凝成之玉",
+    "仙界灵玉",
+    "巨大的仙玉",
+    "仙玉石"
   ],
   "summary": "仙界碎片中的宝物，持葫芦中年人欲取以让『婷儿』肉身再储存千年。",
   "attributes": {
-    "类型": "蕴含仙气之玉",
-    "用途": "保存肉身千年、仙界之气凝结之精华、散发仙气，作用类同灵石之于灵气、婴变期之后修炼所需的仙气来源",
+    "类型": "仙界宝物、仙界灵材、蕴含仙气之玉、能源灵材、仙界之物/宝材",
+    "用途": "保存肉身千年、仙界之气凝结之精华、散发仙气，作用类同灵石之于灵气、婴变期之后修炼所需的仙气来源、驱动高阶法宝的能源、使尸身千年不变、助益修炼，冲击婴变期",
     "产地": "仙界碎片、仙兽府骸骨洞穴、仙界／仙界碎片、仙界",
-    "稀有度": "极高（现于朱雀星即会引起浩劫）"
+    "稀有度": "无价之宝、极高（现于朱雀星即会引起浩劫）、极高、值得为之杀人争夺"
   },
   "observations": {
     "类型": [
@@ -32,6 +35,16 @@
         "value": "蕴含仙气之玉",
         "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
         "seq": 285
+      },
+      {
+        "value": "能源灵材",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
+      },
+      {
+        "value": "仙界之物/宝材",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
       }
     ],
     "用途": [
@@ -54,6 +67,21 @@
         "value": "婴变期之后修炼所需的仙气来源",
         "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
         "seq": 285
+      },
+      {
+        "value": "驱动高阶法宝的能源",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
+      },
+      {
+        "value": "使尸身千年不变",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
+      },
+      {
+        "value": "助益修炼，冲击婴变期",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
       }
     ],
     "产地": [
@@ -88,6 +116,16 @@
         "value": "极高（现于朱雀星即会引起浩劫）",
         "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
         "seq": 285
+      },
+      {
+        "value": "极高",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
+      },
+      {
+        "value": "值得为之杀人争夺",
+        "docId": "plot.xianni-ch307-shooting-god-chariot",
+        "seq": 289
       }
     ]
   },
@@ -95,9 +133,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+      "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
       "dated": false,
-      "seq": 285
+      "seq": 276
     },
     "用途": {
       "asOf": null,
@@ -113,9 +151,9 @@
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+      "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
       "dated": false,
-      "seq": 285
+      "seq": 281
     }
   },
   "contested": false,
@@ -123,7 +161,8 @@
   "docs": [
     "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
     "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
-    "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal"
+    "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+    "plot.xianni-ch307-shooting-god-chariot"
   ],
-  "updatedAt": "2026-08-02T15:12:09.115Z"
+  "updatedAt": "2026-08-08T04:03:20.863Z"
 }
