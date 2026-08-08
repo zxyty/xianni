@@ -3,14 +3,15 @@
   "type": "faction",
   "name": "斗邪派",
   "aliases": [
-    "斗邪派门派"
+    "斗邪派门派",
+    "斗邪派总教"
   ],
   "summary": "修魔海外围众多小门派之一，掌门刘森结丹中期巅峰。",
   "attributes": {
     "所属界面": "修魔海外围、修魔海",
     "掌门": "上官墨",
-    "阵营": "修魔海",
-    "据点": "南斗城周边、南斗城、五丁峰、南斗城一带、龙山",
+    "阵营": "已灭",
+    "据点": "南斗城周边、南斗城、五丁峰、南斗城一带、龙山、南斗城附近",
     "镇派之宝": "青龙及其法阵"
   },
   "observations": {
@@ -54,6 +55,12 @@
         "value": "修魔海",
         "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
         "seq": 137
+      },
+      {
+        "value": "已灭",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312,
+        "note": "总教之地成废墟"
       }
     ],
     "据点": [
@@ -81,6 +88,11 @@
         "value": "龙山",
         "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
         "seq": 142
+      },
+      {
+        "value": "南斗城附近",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312
       }
     ],
     "镇派之宝": [
@@ -113,9 +125,10 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch137-141-nandou-shafa-xuelu",
+      "docId": "plot.xianni-ch312-316-yinju-xinjia",
       "dated": false,
-      "seq": 137
+      "seq": 312,
+      "note": "总教之地成废墟"
     },
     "据点": {
       "asOf": null,
@@ -138,7 +151,8 @@
     "plot.xianni-ch147-151-jiedan-doupai-zhusha",
     "plot.xianni-ch137-141-nandou-shafa-xuelu",
     "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
-    "plot.xianni-ch186-187-two-hundred-years-silence"
+    "plot.xianni-ch186-187-two-hundred-years-silence",
+    "plot.xianni-ch312-316-yinju-xinjia"
   ],
-  "updatedAt": "2026-07-07T11:50:02.212Z"
+  "updatedAt": "2026-08-08T08:56:45.880Z"
 }

@@ -12,14 +12,17 @@
     "顶级灵石",
     "极品灵石块",
     "顶阶灵石",
-    "极品灵石碎块"
+    "极品灵石碎块",
+    "极品灵石(顶阶灵石)",
+    "极品灵石一块",
+    "真正的极品灵石"
   ],
   "summary": "菱形、散乳白色光圈的顶级灵石，蕴含灵力远超上品灵石，是修真星之间交流的主要货币，极为罕见。",
   "attributes": {
     "类型": "顶级灵石、灵石、极品灵石",
-    "用途": "驱动古传送阵、修真星间货币、开启古传送阵、开启入口光圈、灵力来源、开启传送阵/顶级灵力来源、启动古传送阵的灵力来源、保命、开启仙界内传送阵（每次两枚放入凹槽）、开启古传送阵与高阶消耗、开启古传送阵最近阵点、高价值交易与修炼",
-    "稀有度": "极高",
-    "产地": "稀少，朱雀星罕见"
+    "用途": "驱动古传送阵、修真星间货币、开启古传送阵、开启入口光圈、灵力来源、开启传送阵/顶级灵力来源、启动古传送阵的灵力来源、保命、开启仙界内传送阵（每次两枚放入凹槽）、开启古传送阵与高阶消耗、开启古传送阵最近阵点、高价值交易与修炼、疗伤辅助、提供灵力",
+    "稀有度": "极罕见、罕见/顶级、极品、极高、无价之物、数量不多、除天地酝酿外无从获得",
+    "产地": "朱雀园、修魔海、稀少，朱雀星罕见、天地酝酿、人形晶石祭炼（上古）"
   },
   "observations": {
     "类型": [
@@ -100,6 +103,11 @@
         "value": "高价值交易与修炼",
         "docId": "plot.xianni-ch327-return-to-zhuque-star",
         "seq": 309
+      },
+      {
+        "value": "疗伤辅助、提供灵力",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312
       }
     ],
     "稀有度": [
@@ -122,6 +130,16 @@
         "value": "极高",
         "docId": "plot.xianni-ch327-return-to-zhuque-star",
         "seq": 309
+      },
+      {
+        "value": "无价之物",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312
+      },
+      {
+        "value": "数量不多、除天地酝酿外无从获得",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312
       }
     ],
     "产地": [
@@ -139,6 +157,16 @@
         "value": "稀少，朱雀星罕见",
         "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
         "seq": 281
+      },
+      {
+        "value": "天地酝酿",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312
+      },
+      {
+        "value": "人形晶石祭炼（上古）",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312
       }
     ]
   },
@@ -158,15 +186,15 @@
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.xianni-ch327-return-to-zhuque-star",
+      "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
       "dated": false,
-      "seq": 309
+      "seq": 151
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
+      "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
       "dated": false,
-      "seq": 281
+      "seq": 151
     }
   },
   "contested": false,
@@ -182,7 +210,8 @@
     "plot.xianni-ch242-punanzi",
     "plot.xianni-ch289-ancient-god-sacrifice-treasure",
     "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
-    "plot.xianni-ch327-return-to-zhuque-star"
+    "plot.xianni-ch327-return-to-zhuque-star",
+    "plot.xianni-ch312-316-yinju-xinjia"
   ],
-  "updatedAt": "2026-08-08T06:22:47.723Z"
+  "updatedAt": "2026-08-08T08:56:45.968Z"
 }

@@ -8,13 +8,14 @@
     "金线",
     "火线",
     "金色细线",
-    "碎星环金线"
+    "碎星环金线",
+    "碎星乱火线"
   ],
   "summary": "灰布老者进入碎星环欲收集之物；古神记忆中无记录，王林修真多年亦从未听闻。",
   "attributes": {
-    "产地": "碎星环、碎星环内；空间裂缝另一端的金芒空间（巨大发光体四周）、碎星环内金线裂缝",
-    "稀有度": "极罕见，古神记忆无载、极稀有",
-    "类型": "炼器材料、灵物/兽食",
+    "产地": "碎星环、碎星环内；空间裂缝另一端的金芒空间（巨大发光体四周）、碎星环内金线裂缝、碎星乱外洞口",
+    "稀有度": "极罕见，古神记忆无载、极稀有、稀有",
+    "类型": "炼器材料、灵物/兽食、稀有材料",
     "用途": "炼器；被削弱后可供高阶妖兽融合改造体质、供蚊兽吞食进阶，助其成就上品灵兽"
   },
   "observations": {
@@ -33,6 +34,11 @@
         "value": "碎星环内金线裂缝",
         "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
         "seq": 273
+      },
+      {
+        "value": "碎星乱外洞口",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312
       }
     ],
     "稀有度": [
@@ -45,6 +51,11 @@
         "value": "极稀有",
         "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
         "seq": 273
+      },
+      {
+        "value": "稀有",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312
       }
     ],
     "类型": [
@@ -57,6 +68,11 @@
         "value": "灵物/兽食",
         "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
         "seq": 273
+      },
+      {
+        "value": "稀有材料",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312
       }
     ],
     "用途": [
@@ -102,7 +118,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch289-ancient-god-sacrifice-treasure"
+    "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+    "plot.xianni-ch312-316-yinju-xinjia"
   ],
-  "updatedAt": "2026-08-02T13:59:47.832Z"
+  "updatedAt": "2026-08-08T08:56:45.915Z"
 }

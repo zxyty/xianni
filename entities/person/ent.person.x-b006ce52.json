@@ -2,14 +2,17 @@
   "id": "ent.person.x-b006ce52",
   "type": "person",
   "name": "白发老者",
-  "aliases": [],
+  "aliases": [
+    "炼器阁白发老者",
+    "炼器阁的白发老者"
+  ],
   "summary": "隐于城池、气势骤升的高手，骑乘玄武穿行修魔海黑雾，身份未明。",
   "attributes": {
-    "外貌": "白发苍苍",
-    "身份": "高手",
+    "外貌": "白发老者",
+    "身份": "高手、炼器阁掌权之人、炼器阁相关人士",
     "性别": "男",
     "本命法宝": "紫红棺材",
-    "性格": "戏谑、纠缠不放"
+    "性格": "见多识广、爽朗好谈"
   },
   "observations": {
     "外貌": [
@@ -23,6 +26,11 @@
         "value": "白发苍苍",
         "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
         "seq": 294
+      },
+      {
+        "value": "白发老者",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312
       }
     ],
     "身份": [
@@ -30,6 +38,16 @@
         "value": "高手",
         "docId": "plot.xianni-ch207-killing-for-cores",
         "seq": 191
+      },
+      {
+        "value": "炼器阁掌权之人",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312
+      },
+      {
+        "value": "炼器阁相关人士",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312
       }
     ],
     "性别": [
@@ -51,6 +69,11 @@
         "value": "戏谑、纠缠不放",
         "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
         "seq": 294
+      },
+      {
+        "value": "见多识广、爽朗好谈",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312
       }
     ]
   },
@@ -58,9 +81,9 @@
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+      "docId": "plot.xianni-ch312-316-yinju-xinjia",
       "dated": false,
-      "seq": 294
+      "seq": 312
     },
     "身份": {
       "asOf": null,
@@ -82,16 +105,17 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+      "docId": "plot.xianni-ch312-316-yinju-xinjia",
       "dated": false,
-      "seq": 294
+      "seq": 312
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch207-killing-for-cores",
-    "plot.xianni-ch294-298-void-voyage-first-fairy-fragment"
+    "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+    "plot.xianni-ch312-316-yinju-xinjia"
   ],
-  "updatedAt": "2026-08-08T04:38:19.259Z"
+  "updatedAt": "2026-08-08T08:56:45.958Z"
 }

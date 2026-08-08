@@ -16,10 +16,11 @@
   "attributes": {
     "阶序": "结丹之上、化神之下",
     "上一境": "化神",
-    "小阶段": "元婴期、后期、元婴初期、元婴中期、元婴后期、初期、中期、元婴初期巅峰（王林本章）、元婴后期巅峰、后期大圆满",
+    "小阶段": "元婴期、后期、元婴初期、元婴中期、元婴后期、初期、中期、元婴初期巅峰（王林本章）、元婴后期巅峰、后期大圆满、元婴后期大圆满",
     "下一境": "筑基",
-    "突破关键": "凝结元婴、结婴功法/增益丹药、婴变丹（外力路径）、金丹破碎化元婴(结婴)、结婴、灵力需求极大，需灵气浓密之地或增结婴几率之物、达此境方可施展传毒神通根除天劫细丝、金丹融化结成元婴、感悟天道、领悟自身境地、化凡感悟意境、金丹碎裂、元婴诞生（取自怀胎生子之天道常伦，元＝玄＝道之始）",
-    "突破征兆": "可抵抗空间裂缝灭生之风（须尽全力）"
+    "突破关键": "凝结元婴、结婴功法/增益丹药、婴变丹（外力路径）、金丹破碎化元婴(结婴)、结婴、灵力需求极大，需灵气浓密之地或增结婴几率之物、达此境方可施展传毒神通根除天劫细丝、金丹融化结成元婴、感悟天道、领悟自身境地、化凡感悟意境、金丹碎裂、元婴诞生（取自怀胎生子之天道常伦，元＝玄＝道之始）、结婴成功可增寿元、凝结婴体，需身体条件支撑",
+    "突破征兆": "可抵抗空间裂缝灭生之风（须尽全力）",
+    "寿元": "结婴可增加寿元"
   },
   "observations": {
     "阶序": [
@@ -126,6 +127,11 @@
         "value": "后期大圆满",
         "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
         "seq": 285
+      },
+      {
+        "value": "元婴后期大圆满",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312
       }
     ],
     "下一境": [
@@ -205,6 +211,16 @@
         "value": "金丹碎裂、元婴诞生（取自怀胎生子之天道常伦，元＝玄＝道之始）",
         "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
         "seq": 268
+      },
+      {
+        "value": "结婴成功可增寿元",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312
+      },
+      {
+        "value": "凝结婴体，需身体条件支撑",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312
       }
     ],
     "突破征兆": [
@@ -222,6 +238,14 @@
         "value": "可抵抗空间裂缝灭生之风（须尽全力）",
         "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
         "seq": 268
+      }
+    ],
+    "寿元": [
+      {
+        "value": "结婴可增加寿元",
+        "docId": "plot.xianni-ch312-316-yinju-xinjia",
+        "seq": 312,
+        "note": "王林对李慕婉困局的判断"
       }
     ]
   },
@@ -262,6 +286,13 @@
       "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
       "dated": false,
       "seq": 268
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.xianni-ch312-316-yinju-xinjia",
+      "dated": false,
+      "seq": 312,
+      "note": "王林对李慕婉困局的判断"
     }
   },
   "contested": false,
@@ -316,7 +347,8 @@
     "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
     "plot.xianni-ch289-ancient-god-sacrifice-treasure",
     "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
-    "plot.xianni-ch327-return-to-zhuque-star"
+    "plot.xianni-ch327-return-to-zhuque-star",
+    "plot.xianni-ch312-316-yinju-xinjia"
   ],
-  "updatedAt": "2026-08-08T06:22:47.805Z"
+  "updatedAt": "2026-08-08T08:56:45.950Z"
 }
