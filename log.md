@@ -88,3 +88,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-08T14:28:21.478Z** `ingest` plot.xianni-ch356-departure-immortal-remains-void-rift — 仙逆 第356章 离开：本尊放血烙印驱二人入虚无寻王林，王林脱困取轮回果 · kind=plot asOf=2026-08-08 entities=112 relations=236 src=00336-00340.md
 - **2026-08-08T14:53:00.757Z** `ingest` plot.xianni-ch361-zhuque-guo-arrival — 仙逆 第361章 朱雀国：巨魔族升五级、王林以「曾牛」之名抵达朱雀国 · kind=plot asOf=2026-08-08 entities=85 relations=153 src=00341-00345.md
 - **2026-08-08T15:27:51.491Z** `ingest` plot.xianni-ch346-350-conspiracy-emerges-kunji-whip — 仙逆 第346-350章：意境之战险胜红蝶、昆极鞭得而复失与朱雀山禁地阴谋初现 · kind=plot asOf=2026-08-08 entities=120 relations=230 src=00346-00350.md
+- **2026-08-08T15:56:06.688Z** `ingest` plot.xianni-ch371-fanren-caoniu-disappear-liumei-north — 仙逆 第371章《凡人》：曾牛之名震朱雀星后失踪，王林重伤流落北方山村为「丑哑巴」 · kind=plot asOf=2026-08-08 entities=87 relations=165 src=00351-00355.md

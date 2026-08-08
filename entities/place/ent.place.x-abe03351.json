@@ -6,14 +6,20 @@
     "五级修真国毗卢国",
     "毗声国",
     "毗卢",
-    "毗卢修真国"
+    "毗卢修真国",
+    "毗卢国北部",
+    "Pilu Kingdom",
+    "毗声国修真界"
   ],
   "summary": "五级修真国，炼魂宗所在，镇派魂幡含魂超十亿。",
   "attributes": {
-    "类型": "修真国度",
+    "类型": "国度",
     "所属势力": "炼魂宗",
-    "所属界面": "朱雀星",
-    "规模": "五级修真国"
+    "所属界面": "朱雀大陆",
+    "规模": "修真家族众多，三大宗派",
+    "方位": "朱雀大陆北部、王林所在之地以南",
+    "上级区域": "朱雀大陆",
+    "特产": "山峰、寒冬风雪"
   },
   "observations": {
     "类型": [
@@ -26,6 +32,11 @@
         "value": "修真国度",
         "docId": "plot.xianni-ch327-return-to-zhuque-star",
         "seq": 309
+      },
+      {
+        "value": "国度",
+        "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+        "seq": 351
       }
     ],
     "所属势力": [
@@ -40,6 +51,11 @@
         "value": "朱雀星",
         "docId": "plot.xianni-ch327-return-to-zhuque-star",
         "seq": 309
+      },
+      {
+        "value": "朱雀大陆",
+        "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+        "seq": 351
       }
     ],
     "规模": [
@@ -47,6 +63,37 @@
         "value": "五级修真国",
         "docId": "plot.xianni-ch327-return-to-zhuque-star",
         "seq": 309
+      },
+      {
+        "value": "修真家族众多，三大宗派",
+        "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+        "seq": 351
+      }
+    ],
+    "方位": [
+      {
+        "value": "朱雀大陆北部",
+        "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+        "seq": 351
+      },
+      {
+        "value": "王林所在之地以南",
+        "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+        "seq": 351
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "朱雀大陆",
+        "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+        "seq": 351
+      }
+    ],
+    "特产": [
+      {
+        "value": "山峰、寒冬风雪",
+        "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+        "seq": 351
       }
     ]
   },
@@ -54,9 +101,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch327-return-to-zhuque-star",
+      "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
       "dated": false,
-      "seq": 309
+      "seq": 351
     },
     "所属势力": {
       "asOf": null,
@@ -66,15 +113,33 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch327-return-to-zhuque-star",
+      "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
       "dated": false,
-      "seq": 309
+      "seq": 351
     },
     "规模": {
       "asOf": null,
-      "docId": "plot.xianni-ch327-return-to-zhuque-star",
+      "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
       "dated": false,
-      "seq": 309
+      "seq": 351
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+      "dated": false,
+      "seq": 351
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+      "dated": false,
+      "seq": 351
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+      "dated": false,
+      "seq": 351
     }
   },
   "contested": false,
@@ -82,7 +147,8 @@
   "docs": [
     "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
     "plot.xianni-ch327-return-to-zhuque-star",
-    "plot.xianni-ch361-zhuque-guo-arrival"
+    "plot.xianni-ch361-zhuque-guo-arrival",
+    "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north"
   ],
-  "updatedAt": "2026-08-08T14:53:00.597Z"
+  "updatedAt": "2026-08-08T15:56:06.619Z"
 }

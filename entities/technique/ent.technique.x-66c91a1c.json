@@ -5,13 +5,16 @@
   "aliases": [
     "茶之意境",
     "品茶意境",
-    "茶叶意境"
+    "茶叶意境",
+    "茶之意境与封印",
+    "茶痕封印"
   ],
   "summary": "雪域国中年男子的大成意境，以茶香为形，中者脸现茶叶状印记，每闪烁一次身体与元神便虚弱一分。",
   "attributes": {
     "出处": "雪域国中年男子、李元封",
-    "效果": "以茶叶印记持续削弱敌人身体与元神、与封印结合锁死目标灵力、吸走服食丹药融化后的药力、在目标脸上留下茶叶痕迹",
-    "适用境界": "婴变期大成意境"
+    "效果": "以茶叶印记持续削弱敌人身体与元神、与封印结合锁死目标灵力、吸走服食丹药融化后的药力、在目标脸上留下茶叶痕迹、封印王林修为，与封印结合后异常霸道",
+    "适用境界": "婴变期大成意境",
+    "外显异象": "王林脸上茶痕"
   },
   "observations": {
     "出处": [
@@ -46,6 +49,11 @@
         "value": "在目标脸上留下茶叶痕迹",
         "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
         "seq": 346
+      },
+      {
+        "value": "封印王林修为，与封印结合后异常霸道",
+        "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+        "seq": 351
       }
     ],
     "适用境界": [
@@ -53,6 +61,13 @@
         "value": "婴变期大成意境",
         "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
         "seq": 346
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "王林脸上茶痕",
+        "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+        "seq": 351
       }
     ]
   },
@@ -75,12 +90,19 @@
       "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
       "dated": false,
       "seq": 346
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+      "dated": false,
+      "seq": 351
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip"
+    "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+    "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north"
   ],
-  "updatedAt": "2026-08-08T15:27:51.411Z"
+  "updatedAt": "2026-08-08T15:56:06.582Z"
 }
