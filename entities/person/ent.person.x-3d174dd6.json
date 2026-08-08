@@ -4,14 +4,18 @@
   "name": "邋遢老头",
   "aliases": [
     "全身邋遢的老者",
-    "卖令牌的老头"
+    "卖令牌的老头",
+    "啃鸡腿的邋遢老头",
+    "一级修真国的邋遢老头",
+    "老祖之师弟"
   ],
   "summary": "凡人城池中的神秘邋遢老者，向筑基小修士兜售“指点”与桑米国八大门派令牌，自称当年指点过尚在元婴期的王林；曾赠王林金光草帽。",
   "attributes": {
-    "外貌": "全身邋遢的老者",
-    "性格": "笑眯眯、油滑、屡遭驱赶仍不放弃",
-    "身份": "自称曾指点王林的高人",
-    "存殁": "在世"
+    "外貌": "邋遢，啃鸡腿",
+    "性格": "懒散而好胜，喜观棋局之趣",
+    "身份": "老祖的师弟、王林的选中者",
+    "存殁": "在世",
+    "性别": "男"
   },
   "observations": {
     "外貌": [
@@ -19,6 +23,11 @@
         "value": "全身邋遢的老者",
         "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
         "seq": 273
+      },
+      {
+        "value": "邋遢，啃鸡腿",
+        "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+        "seq": 346
       }
     ],
     "性格": [
@@ -26,6 +35,11 @@
         "value": "笑眯眯、油滑、屡遭驱赶仍不放弃",
         "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
         "seq": 273
+      },
+      {
+        "value": "懒散而好胜，喜观棋局之趣",
+        "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+        "seq": 346
       }
     ],
     "身份": [
@@ -34,6 +48,11 @@
         "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
         "seq": 273,
         "note": "自述，未经证实"
+      },
+      {
+        "value": "老祖的师弟、王林的选中者",
+        "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+        "seq": 346
       }
     ],
     "存殁": [
@@ -42,40 +61,53 @@
         "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
         "seq": 273
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+        "seq": 346
+      }
     ]
   },
   "firstSeq": 273,
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+      "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
       "dated": false,
-      "seq": 273
+      "seq": 346
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+      "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
       "dated": false,
-      "seq": 273
+      "seq": 346
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+      "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
       "dated": false,
-      "seq": 273,
-      "note": "自述，未经证实"
+      "seq": 346
     },
     "存殁": {
       "asOf": null,
       "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
       "dated": false,
       "seq": 273
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+      "dated": false,
+      "seq": 346
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch289-ancient-god-sacrifice-treasure"
+    "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+    "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip"
   ],
-  "updatedAt": "2026-08-02T13:59:47.764Z"
+  "updatedAt": "2026-08-08T15:27:51.322Z"
 }

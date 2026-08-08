@@ -4,13 +4,16 @@
   "name": "公孙破",
   "aliases": [
     "朱雀山长老公孙破",
-    "白发老者裁定者"
+    "白发老者裁定者",
+    "朱雀国公孙破"
   ],
   "summary": "朱雀山长老，王林与红蝶此战的裁定者，掐诀开出光门战场。",
   "attributes": {
-    "身份": "朱雀山长老、域外战场观战者",
+    "身份": "朱雀山长老、域外战场观战者、朱雀国长老",
     "称号": "此战裁定者",
-    "外貌": "白发苍苍的老者"
+    "外貌": "老者（自称老夫）",
+    "阵营": "朱雀国",
+    "性格": "冷傲、不徇私"
   },
   "observations": {
     "身份": [
@@ -23,6 +26,11 @@
         "value": "域外战场观战者",
         "docId": "plot.xianni-ch361-zhuque-guo-arrival",
         "seq": 341
+      },
+      {
+        "value": "朱雀国长老",
+        "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+        "seq": 346
       }
     ],
     "称号": [
@@ -37,6 +45,25 @@
         "value": "白发苍苍的老者",
         "docId": "plot.xianni-ch361-zhuque-guo-arrival",
         "seq": 341
+      },
+      {
+        "value": "老者（自称老夫）",
+        "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+        "seq": 346
+      }
+    ],
+    "阵营": [
+      {
+        "value": "朱雀国",
+        "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+        "seq": 346
+      }
+    ],
+    "性格": [
+      {
+        "value": "冷傲、不徇私",
+        "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+        "seq": 346
       }
     ]
   },
@@ -56,15 +83,28 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+      "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
       "dated": false,
-      "seq": 341
+      "seq": 346
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+      "dated": false,
+      "seq": 346
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+      "dated": false,
+      "seq": 346
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch361-zhuque-guo-arrival"
+    "plot.xianni-ch361-zhuque-guo-arrival",
+    "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip"
   ],
-  "updatedAt": "2026-08-08T14:53:00.649Z"
+  "updatedAt": "2026-08-08T15:27:51.325Z"
 }

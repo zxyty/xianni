@@ -4,12 +4,13 @@
   "name": "传讯玉简",
   "aliases": [
     "答复玉简",
-    "周武泰所留玉简"
+    "周武泰所留玉简",
+    "求援玉简"
   ],
   "summary": "周武泰离开前留给王林用于传音答复是否加入四派联盟的玉简。",
   "attributes": {
-    "类型": "玉简",
-    "用途": "传讯答复四派联盟邀请"
+    "类型": "传讯法器",
+    "用途": "远程求援传讯"
   },
   "observations": {
     "类型": [
@@ -17,6 +18,11 @@
         "value": "玉简",
         "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
         "seq": 248
+      },
+      {
+        "value": "传讯法器",
+        "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+        "seq": 346
       }
     ],
     "用途": [
@@ -24,6 +30,11 @@
         "value": "传讯答复四派联盟邀请",
         "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
         "seq": 248
+      },
+      {
+        "value": "远程求援传讯",
+        "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+        "seq": 346
       }
     ]
   },
@@ -31,21 +42,22 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+      "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
       "dated": false,
-      "seq": 248
+      "seq": 346
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+      "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
       "dated": false,
-      "seq": 248
+      "seq": 346
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment"
+    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+    "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip"
   ],
-  "updatedAt": "2026-08-02T09:25:44.592Z"
+  "updatedAt": "2026-08-08T15:27:51.366Z"
 }

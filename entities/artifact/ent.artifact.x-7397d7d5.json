@@ -11,8 +11,10 @@
   "attributes": {
     "品阶": "化神后期（此时）",
     "持有者": "红蝶",
-    "能力": "守护红蝶一生、随红蝶修为增强而同步突破",
-    "来历": "红蝶出生时天空异相、自然凝聚，具体来历无人得知"
+    "能力": "守护红蝶一生、随红蝶修为增强而同步突破、组成四灵杀阵、化残影冲撞、自爆产生毁灭性力量、被击溃后可由高手重新凝形",
+    "来历": "红蝶出生时天空异相、自然凝聚，具体来历无人得知",
+    "五行属性": "金、木、水、火",
+    "外形": "四团光芒化作的人形身影，列东西南北四角"
   },
   "observations": {
     "品阶": [
@@ -39,6 +41,26 @@
         "value": "随红蝶修为增强而同步突破",
         "docId": "plot.xianni-ch274-underground-ice-sculpture",
         "seq": 258
+      },
+      {
+        "value": "组成四灵杀阵",
+        "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+        "seq": 346
+      },
+      {
+        "value": "化残影冲撞",
+        "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+        "seq": 346
+      },
+      {
+        "value": "自爆产生毁灭性力量",
+        "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+        "seq": 346
+      },
+      {
+        "value": "被击溃后可由高手重新凝形",
+        "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+        "seq": 346
       }
     ],
     "来历": [
@@ -46,6 +68,35 @@
         "value": "红蝶出生时天空异相、自然凝聚，具体来历无人得知",
         "docId": "plot.xianni-ch274-underground-ice-sculpture",
         "seq": 258
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "金",
+        "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+        "seq": 346
+      },
+      {
+        "value": "木",
+        "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+        "seq": 346
+      },
+      {
+        "value": "水",
+        "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+        "seq": 346
+      },
+      {
+        "value": "火",
+        "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+        "seq": 346
+      }
+    ],
+    "外形": [
+      {
+        "value": "四团光芒化作的人形身影，列东西南北四角",
+        "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+        "seq": 346
       }
     ]
   },
@@ -74,12 +125,25 @@
       "docId": "plot.xianni-ch274-underground-ice-sculpture",
       "dated": false,
       "seq": 258
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+      "dated": false,
+      "seq": 346
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+      "dated": false,
+      "seq": 346
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch274-underground-ice-sculpture"
+    "plot.xianni-ch274-underground-ice-sculpture",
+    "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip"
   ],
-  "updatedAt": "2026-08-02T10:32:25.402Z"
+  "updatedAt": "2026-08-08T15:27:51.256Z"
 }
