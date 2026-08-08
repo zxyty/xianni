@@ -5,14 +5,16 @@
   "aliases": [
     "大罗剑宗门派",
     "Daluo Sword Sect",
-    "Da Luo Sword Sect"
+    "Da Luo Sword Sect",
+    "大罗剑寒（原文误写）"
   ],
   "summary": "三千年前发现宫殿群仙气阵眼的宗门，以丰碑镇压隐藏、每逢仙界之门开启派人固定采气；门中有「大罗剑宗七剑」等顶级灵器。",
   "attributes": {
-    "镇派之宝": "大罗剑宗七剑、洗灵葫、仙麒兽灵",
+    "镇派之宝": "大罗剑宗七剑、洗灵葫、仙麒兽灵、麒麟仙兽（护山之兽）",
     "理念": "以不设禁制的隐蔽手法秘密独占仙气产地、剑修、弟子须完成收取仙界之气结晶的最低要求、剑道",
-    "据点": "仙界之门内活动",
-    "所属界面": "朱雀星"
+    "据点": "天运星",
+    "所属界面": "天运星",
+    "等级": "与天运宗同级"
   },
   "observations": {
     "镇派之宝": [
@@ -30,6 +32,11 @@
         "value": "仙麒兽灵",
         "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
         "seq": 281
+      },
+      {
+        "value": "麒麟仙兽（护山之兽）",
+        "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
+        "seq": 304
       }
     ],
     "理念": [
@@ -61,6 +68,11 @@
         "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
         "seq": 276,
         "note": "第297章时四人已进入仙界碎片"
+      },
+      {
+        "value": "天运星",
+        "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
+        "seq": 304
       }
     ],
     "所属界面": [
@@ -68,6 +80,18 @@
         "value": "朱雀星",
         "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
         "seq": 285
+      },
+      {
+        "value": "天运星",
+        "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
+        "seq": 304
+      }
+    ],
+    "等级": [
+      {
+        "value": "与天运宗同级",
+        "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
+        "seq": 304
       }
     ]
   },
@@ -88,16 +112,21 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+      "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
       "dated": false,
-      "seq": 276,
-      "note": "第297章时四人已进入仙界碎片"
+      "seq": 304
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+      "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
       "dated": false,
-      "seq": 285
+      "seq": 304
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
+      "dated": false,
+      "seq": 304
     }
   },
   "contested": false,
@@ -106,7 +135,8 @@
     "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
     "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
     "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
-    "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet"
+    "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
+    "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void"
   ],
-  "updatedAt": "2026-08-08T05:08:08.188Z"
+  "updatedAt": "2026-08-08T05:44:31.254Z"
 }
