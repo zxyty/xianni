@@ -4,13 +4,18 @@
   "name": "法轮",
   "aliases": [
     "青红二法轮",
-    "两个法轮"
+    "两个法轮",
+    "巨魔族老祖的法轮",
+    "带符号的法轮",
+    "封魅姬之法轮"
   ],
   "summary": "藏于恒岳山脉两主峰的一对法宝，伸四斜刃、周身空间裂缝，疑为化神期以上修士亲制；被朴南子借取相助藤家。",
   "attributes": {
     "品阶": "疑似化神期以上法宝",
-    "外形": "法轮伸四根斜刃、寒芒、周身空间裂缝",
-    "能力": "抽引赵国大部分灵力"
+    "外形": "轮状，符号闪烁；碎裂前遍布龟裂",
+    "能力": "抽引赵国大部分灵力、封印魂魄、对魔头有强烈诱惑，使人『控制不住自己』",
+    "持有者": "巨魔族老祖、王林",
+    "禁制": "内封印一魂魄、符号处受按压会爆发大量青芒抵抗"
   },
   "observations": {
     "品阶": [
@@ -26,6 +31,11 @@
         "value": "法轮伸四根斜刃、寒芒、周身空间裂缝",
         "docId": "plot.xianni-ch242-punanzi",
         "seq": 226
+      },
+      {
+        "value": "轮状，符号闪烁；碎裂前遍布龟裂",
+        "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+        "seq": 377
       }
     ],
     "能力": [
@@ -33,6 +43,41 @@
         "value": "抽引赵国大部分灵力",
         "docId": "plot.xianni-ch242-punanzi",
         "seq": 226
+      },
+      {
+        "value": "封印魂魄",
+        "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+        "seq": 377
+      },
+      {
+        "value": "对魔头有强烈诱惑，使人『控制不住自己』",
+        "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+        "seq": 377
+      }
+    ],
+    "持有者": [
+      {
+        "value": "巨魔族老祖",
+        "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+        "seq": 377
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+        "seq": 377,
+        "note": "本章夺取并即刻毁去"
+      }
+    ],
+    "禁制": [
+      {
+        "value": "内封印一魂魄",
+        "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+        "seq": 377
+      },
+      {
+        "value": "符号处受按压会爆发大量青芒抵抗",
+        "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+        "seq": 377
       }
     ]
   },
@@ -47,21 +92,34 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch242-punanzi",
+      "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
       "dated": false,
-      "seq": 226
+      "seq": 377
     },
     "能力": {
       "asOf": null,
       "docId": "plot.xianni-ch242-punanzi",
       "dated": false,
       "seq": 226
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+      "dated": false,
+      "seq": 377
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+      "dated": false,
+      "seq": 377
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch242-punanzi"
+    "plot.xianni-ch242-punanzi",
+    "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays"
   ],
-  "updatedAt": "2026-07-23T04:56:01.385Z"
+  "updatedAt": "2026-08-15T10:50:34.067Z"
 }

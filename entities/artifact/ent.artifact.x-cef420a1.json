@@ -5,15 +5,18 @@
   "aliases": [
     "干魂幡",
     "普通千魂幡",
-    "炼魂幡"
+    "炼魂幡",
+    "王林自炼魂幡"
   ],
   "summary": "幡内魂魄达千数的魂幡，具备一些神通，威力大小与主魂关联极大；须有主魂方能炼成，故极为稀少。",
   "attributes": {
     "品阶": "千魂级（十/百/千/万之第三阶）",
-    "能力": "具备一些神通、威力随主魂强弱变化、储纳并驱使死魂",
+    "能力": "具备一些神通、威力随主魂强弱变化、储纳并驱使死魂、放出数千魂魄群攻，主魂带队",
     "禁制": "必须具备主魂方可炼成；主魂强度须超过幡上所有魂魄总和",
     "持有者": "王林",
-    "外形": "幡"
+    "外形": "幡",
+    "来历": "王林自己炼制",
+    "器灵": "李元封"
   },
   "observations": {
     "品阶": [
@@ -38,6 +41,11 @@
         "value": "储纳并驱使死魂",
         "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
         "seq": 363
+      },
+      {
+        "value": "放出数千魂魄群攻，主魂带队",
+        "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+        "seq": 377
       }
     ],
     "禁制": [
@@ -59,6 +67,21 @@
         "value": "幡",
         "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
         "seq": 363
+      }
+    ],
+    "来历": [
+      {
+        "value": "王林自己炼制",
+        "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+        "seq": 377
+      }
+    ],
+    "器灵": [
+      {
+        "value": "李元封",
+        "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+        "seq": 377,
+        "note": "作为主幡之魂"
       }
     ]
   },
@@ -93,12 +116,26 @@
       "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
       "dated": false,
       "seq": 363
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+      "dated": false,
+      "seq": 377
+    },
+    "器灵": {
+      "asOf": null,
+      "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+      "dated": false,
+      "seq": 377,
+      "note": "作为主幡之魂"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction"
+    "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+    "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays"
   ],
-  "updatedAt": "2026-08-15T09:19:09.967Z"
+  "updatedAt": "2026-08-15T10:50:33.950Z"
 }

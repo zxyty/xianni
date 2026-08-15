@@ -4,13 +4,16 @@
   "name": "云雀子",
   "aliases": [
     "送草帽的邋遢老头",
-    "云雀"
+    "云雀",
+    "云雀师叔",
+    "云雀子老前辈"
   ],
   "summary": "朱雀的师弟，当年以邋遢老头形象送王林草帽，修为通神；选取了四个朱雀继承人。",
   "attributes": {
     "外貌": "玉树临风、英俊潇洒、双目炯炯有神、邋遢老头",
-    "身份": "朱雀的师弟",
-    "标志特征": "修为通神"
+    "身份": "柳眉的师叔",
+    "标志特征": "修为通神",
+    "称号": "老前辈"
   },
   "observations": {
     "外貌": [
@@ -32,6 +35,11 @@
         "value": "朱雀的师弟",
         "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
         "seq": 368
+      },
+      {
+        "value": "柳眉的师叔",
+        "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+        "seq": 377
       }
     ],
     "标志特征": [
@@ -39,6 +47,13 @@
         "value": "修为通神",
         "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
         "seq": 368
+      }
+    ],
+    "称号": [
+      {
+        "value": "老前辈",
+        "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+        "seq": 377
       }
     ]
   },
@@ -53,21 +68,28 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
+      "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
       "dated": false,
-      "seq": 368
+      "seq": 377
     },
     "标志特征": {
       "asOf": null,
       "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
       "dated": false,
       "seq": 368
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+      "dated": false,
+      "seq": 377
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch368-372-three-great-gifts-dun-tian"
+    "plot.xianni-ch368-372-three-great-gifts-dun-tian",
+    "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays"
   ],
-  "updatedAt": "2026-08-15T09:48:01.514Z"
+  "updatedAt": "2026-08-15T10:50:33.974Z"
 }

@@ -13,18 +13,21 @@
     "黑光仙剑",
     "黑色剑芒仙剑",
     "许立国仙剑",
-    "含剑魂的仙剑"
+    "含剑魂的仙剑",
+    "巨魔族老祖夺走的仙剑",
+    "剑魂之剑",
+    "巨魔族老祖的仙剑"
   ],
   "summary": "骸骨手持之飞剑，属性不明但绝非凡物；剑上有威力极大的禁制与庞大威压，非长时间祭炼无法拿起。",
   "attributes": {
     "品阶": "仙剑",
     "禁制": "需独特传承手法开启使用",
     "五行属性": "不明",
-    "来历": "仙界碎片洞穴内尸骸",
-    "外形": "尸骸手中所握之剑、三把插于玉石棺材之上、剑、出手时化作黑光",
-    "能力": "触之手指刺痛、斩出快若闪电的剑芒、斩出剑芒、上抛化黑光穿透铁盘、横斩腰斩敌人、黑色剑芒斩击、连发十道剑芒、划破虚空开辟空间裂缝、剑芒轰击压制符文防御、斩出黑色剑芒、借内中魂魄脱手挥舞（三丈内）、斩碎出口符文、剑芒斩击、穿透黑气、开天辟地般巨大剑芒破封、御剑化长虹横扫、实斩穿透巨人身体、黑气涌现自行阻挡、内含剑魂",
+    "来历": "王林旧物，被巨魔族老祖夺去",
+    "外形": "尸骸手中所握之剑、三把插于玉石棺材之上、剑、出手时化作黑光、出鞘时黑雾涌现化作许立国",
+    "能力": "触之手指刺痛、斩出快若闪电的剑芒、斩出剑芒、上抛化黑光穿透铁盘、横斩腰斩敌人、黑色剑芒斩击、连发十道剑芒、划破虚空开辟空间裂缝、剑芒轰击压制符文防御、斩出黑色剑芒、借内中魂魄脱手挥舞（三丈内）、斩碎出口符文、剑芒斩击、穿透黑气、开天辟地般巨大剑芒破封、御剑化长虹横扫、实斩穿透巨人身体、黑气涌现自行阻挡、内含剑魂、散出黑芒化剑魂虚影、剑气如开天辟地、斩出剑气/剑芒、正面格挡先祖战斧一击",
     "持有者": "巨魔族老祖",
-    "器灵": "剑魂"
+    "器灵": "许立国魂魄、许立国（寄身其中的魔头）、剑魂、剑魂许立国、许立国、许立国（魔头剑魂）"
   },
   "observations": {
     "品阶": [
@@ -78,6 +81,11 @@
         "value": "仙界碎片洞穴内尸骸",
         "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
         "seq": 285
+      },
+      {
+        "value": "王林旧物，被巨魔族老祖夺去",
+        "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+        "seq": 377
       }
     ],
     "外形": [
@@ -100,6 +108,11 @@
         "value": "出手时化作黑光",
         "docId": "plot.xianni-ch347-xianyi-zu",
         "seq": 327
+      },
+      {
+        "value": "出鞘时黑雾涌现化作许立国",
+        "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+        "seq": 377
       }
     ],
     "能力": [
@@ -198,13 +211,29 @@
         "value": "内含剑魂",
         "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
         "seq": 346
+      },
+      {
+        "value": "散出黑芒化剑魂虚影、剑气如开天辟地",
+        "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+        "seq": 377
+      },
+      {
+        "value": "斩出剑气/剑芒",
+        "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+        "seq": 377
+      },
+      {
+        "value": "正面格挡先祖战斧一击",
+        "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+        "seq": 377
       }
     ],
     "持有者": [
       {
         "value": "王林",
         "docId": "plot.xianni-ch347-xianyi-zu",
-        "seq": 327
+        "seq": 327,
+        "note": "本片段由巨魔族老祖处夺得"
       },
       {
         "value": "巨魔族老祖",
@@ -228,6 +257,22 @@
         "value": "剑魂",
         "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
         "seq": 346
+      },
+      {
+        "value": "剑魂许立国",
+        "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+        "seq": 377
+      },
+      {
+        "value": "许立国",
+        "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+        "seq": 377,
+        "note": "许立国附身其上"
+      },
+      {
+        "value": "许立国（魔头剑魂）",
+        "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+        "seq": 377
       }
     ]
   },
@@ -253,9 +298,9 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+      "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
       "dated": false,
-      "seq": 285
+      "seq": 377
     },
     "外形": {
       "asOf": null,
@@ -279,9 +324,9 @@
     },
     "器灵": {
       "asOf": null,
-      "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+      "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
       "dated": false,
-      "seq": 346
+      "seq": 332
     }
   },
   "contested": false,
@@ -296,7 +341,8 @@
     "plot.xianni-ch356-departure-immortal-remains-void-rift",
     "plot.xianni-ch361-zhuque-guo-arrival",
     "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
-    "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms"
+    "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms",
+    "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays"
   ],
-  "updatedAt": "2026-08-15T10:16:30.833Z"
+  "updatedAt": "2026-08-15T10:50:34.043Z"
 }
