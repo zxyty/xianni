@@ -7,15 +7,20 @@
     "炼魂宗至宝",
     "遁天的大旗",
     "三丈旗",
-    "炼魂宗十亿尊魂幡"
+    "炼魂宗十亿尊魂幡",
+    "紫金魂幡",
+    "虚幻分幡",
+    "幡中之魂",
+    "真正的十亿尊魂幡"
   ],
   "summary": "炼魂宗至宝，三丈多高的大旗，内蕴历代婴变先祖自愿祭献的无意识魂魄；幡在宗不灭，幡碎宗将亡。",
   "attributes": {
-    "品阶": "炼魂宗至宝",
-    "持有者": "遁天、炼魂宗",
-    "能力": "放出相当于婴变修为的紫金魂魄、以魂力助人提升灵力修为、凭此幡婴变后期可与问鼎一战、收放紫金魂魄",
-    "来历": "炼魂宗历代婴变先祖临终前放弃肉身与神智，化为无意识魂魄祭献而成、在与符文种族的厮杀中大成",
-    "外形": "三丈多高的大旗，本片段中仅以虚影现身、三丈大旗"
+    "品阶": "炼魂宗至宝、炼魂宗第一宝、朱雀星顶阶法宝",
+    "持有者": "遁天、炼魂宗、王林",
+    "能力": "放出相当于婴变修为的紫金魂魄、以魂力助人提升灵力修为、凭此幡婴变后期可与问鼎一战、收放紫金魂魄、内含十二个婴变期紫金魂魄、数百化神魂魄与无数元婴魂魄、魂海冲击可崩溃元神",
+    "来历": "炼魂宗历代婴变先祖临终前放弃肉身与神智，化为无意识魂魄祭献而成、在与符文种族的厮杀中大成、炼魂宗历代修士临死前自愿祭献魂魄凝成",
+    "外形": "三丈多高的大旗，本片段中仅以虚影现身、三丈大旗、三丈多高紫金大旗，无风自动，鬼哭狼嚎之声透出",
+    "禁制": "须以锁神之法祭炼开启；分幡仅可使用两次，之后消散"
   },
   "observations": {
     "品阶": [
@@ -23,6 +28,16 @@
         "value": "炼魂宗至宝",
         "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
         "seq": 368
+      },
+      {
+        "value": "炼魂宗第一宝",
+        "docId": "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms",
+        "seq": 373
+      },
+      {
+        "value": "朱雀星顶阶法宝",
+        "docId": "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms",
+        "seq": 373
       }
     ],
     "持有者": [
@@ -35,6 +50,12 @@
         "value": "炼魂宗",
         "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
         "seq": 368
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms",
+        "seq": 373,
+        "note": "分幡，自遁天处借得，第396章"
       }
     ],
     "能力": [
@@ -57,6 +78,21 @@
         "value": "收放紫金魂魄",
         "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
         "seq": 368
+      },
+      {
+        "value": "内含十二个婴变期紫金魂魄",
+        "docId": "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms",
+        "seq": 373
+      },
+      {
+        "value": "数百化神魂魄与无数元婴魂魄",
+        "docId": "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms",
+        "seq": 373
+      },
+      {
+        "value": "魂海冲击可崩溃元神",
+        "docId": "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms",
+        "seq": 373
       }
     ],
     "来历": [
@@ -69,6 +105,11 @@
         "value": "在与符文种族的厮杀中大成",
         "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
         "seq": 368
+      },
+      {
+        "value": "炼魂宗历代修士临死前自愿祭献魂魄凝成",
+        "docId": "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms",
+        "seq": 373
       }
     ],
     "外形": [
@@ -81,6 +122,18 @@
         "value": "三丈大旗",
         "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
         "seq": 368
+      },
+      {
+        "value": "三丈多高紫金大旗，无风自动，鬼哭狼嚎之声透出",
+        "docId": "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms",
+        "seq": 373
+      }
+    ],
+    "禁制": [
+      {
+        "value": "须以锁神之法祭炼开启；分幡仅可使用两次，之后消散",
+        "docId": "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms",
+        "seq": 373
       }
     ]
   },
@@ -115,12 +168,19 @@
       "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
       "dated": false,
       "seq": 368
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms",
+      "dated": false,
+      "seq": 373
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch368-372-three-great-gifts-dun-tian"
+    "plot.xianni-ch368-372-three-great-gifts-dun-tian",
+    "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms"
   ],
-  "updatedAt": "2026-08-15T09:48:01.500Z"
+  "updatedAt": "2026-08-15T10:16:30.888Z"
 }

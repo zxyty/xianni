@@ -3,12 +3,13 @@
   "type": "artifact",
   "name": "传音玉简",
   "aliases": [
-    "周武泰的传音玉简"
+    "周武泰的传音玉简",
+    "传音玉筒"
   ],
   "summary": "当年周武泰留给王林之物，王林留下神念几句话后甩出传讯示警。",
   "attributes": {
-    "持有者": "王林",
-    "能力": "留神念远程传讯",
+    "持有者": "乾风",
+    "能力": "传讯",
     "来历": "当年周武泰所留"
   },
   "observations": {
@@ -17,6 +18,11 @@
         "value": "王林",
         "docId": "plot.xianni-ch274-underground-ice-sculpture",
         "seq": 258
+      },
+      {
+        "value": "乾风",
+        "docId": "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms",
+        "seq": 373
       }
     ],
     "能力": [
@@ -24,6 +30,11 @@
         "value": "留神念远程传讯",
         "docId": "plot.xianni-ch274-underground-ice-sculpture",
         "seq": 258
+      },
+      {
+        "value": "传讯",
+        "docId": "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms",
+        "seq": 373
       }
     ],
     "来历": [
@@ -38,15 +49,15 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch274-underground-ice-sculpture",
+      "docId": "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms",
       "dated": false,
-      "seq": 258
+      "seq": 373
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-ch274-underground-ice-sculpture",
+      "docId": "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms",
       "dated": false,
-      "seq": 258
+      "seq": 373
     },
     "来历": {
       "asOf": null,
@@ -59,7 +70,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch274-underground-ice-sculpture",
-    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree"
+    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+    "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms"
   ],
-  "updatedAt": "2026-08-08T10:00:26.324Z"
+  "updatedAt": "2026-08-15T10:16:30.817Z"
 }

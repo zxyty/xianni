@@ -93,3 +93,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-15T08:44:30.569Z** `ingest` plot.xianni-ch380-lianhunzong-search — 仙逆 第380章 寻查：炼魂宗查废脉，外围弟子受检 · kind=plot asOf=2026-08-15 entities=125 relations=219 src=00358-00362.md
 - **2026-08-15T09:19:10.073Z** `ingest` plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction — 仙逆 第385章 金色魂幡：上古魂禁与双角妖兽 · kind=plot asOf=2026-08-15 entities=108 relations=229 src=00363-00367.md
 - **2026-08-15T09:48:01.651Z** `ingest` plot.xianni-ch368-372-three-great-gifts-dun-tian — 仙逆 第368-372章：炼魂宗始祖遁天的三份大礼与王林恢复化神后期 · kind=plot asOf=2026-08-15 entities=93 relations=191 src=00368-00372.md
+- **2026-08-15T10:16:30.985Z** `ingest` plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms — 仙逆 第395章 朱雀星天资最高之人——王林封印双断臂、重创李元封逼其自爆抉择 · kind=plot asOf=2026-08-15 entities=89 relations=186 src=00373-00376.md
