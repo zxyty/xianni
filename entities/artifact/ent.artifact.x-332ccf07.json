@@ -6,14 +6,19 @@
     "黑色魂旗",
     "七尺大旗",
     "魂幡",
-    "血幕"
+    "血幕",
+    "炼魂宗魂幡",
+    "十亿魂幡",
+    "soul banner",
+    "王林魂幡"
   ],
   "summary": "藤化元本命法宝，七尺黑幡，内含约三万余痛苦游魂，可甩出求死游魂攻击；火候不足未达小成，藤化元亦借以捏碎灵魂并施加诅咒之力。",
   "attributes": {
     "品阶": "火候不足未达小成",
-    "持有者": "藤化元",
-    "能力": "甩出求死游魂攻击、捏碎其内灵魂、承载诅咒之力、禁锢移动、驱使三万阴魂吞噬",
-    "外形": "七尺黑幡，浮现成百上千痛苦人脸"
+    "持有者": "藤化元、遁天、王林",
+    "能力": "甩出求死游魂攻击、捏碎其内灵魂、承载诅咒之力、禁锢移动、驱使三万阴魂吞噬、收纳婴变修士魂魄、可抗衡朱雀、释放无数魂魄结成黑气屏障",
+    "外形": "幡",
+    "来历": "炼魂宗镇派之宝"
   },
   "observations": {
     "品阶": [
@@ -29,6 +34,17 @@
         "value": "藤化元",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
+      },
+      {
+        "value": "遁天",
+        "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
+        "seq": 368,
+        "note": "许诺寿元断绝之日转交王林"
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
+        "seq": 368
       }
     ],
     "能力": [
@@ -56,6 +72,21 @@
         "value": "驱使三万阴魂吞噬",
         "docId": "plot.xianni-ch117-wanglin-death",
         "seq": 102
+      },
+      {
+        "value": "收纳婴变修士魂魄",
+        "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
+        "seq": 368
+      },
+      {
+        "value": "可抗衡朱雀",
+        "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
+        "seq": 368
+      },
+      {
+        "value": "释放无数魂魄结成黑气屏障",
+        "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
+        "seq": 368
       }
     ],
     "外形": [
@@ -63,6 +94,18 @@
         "value": "七尺黑幡，浮现成百上千痛苦人脸",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
+      },
+      {
+        "value": "幡",
+        "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
+        "seq": 368
+      }
+    ],
+    "来历": [
+      {
+        "value": "炼魂宗镇派之宝",
+        "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
+        "seq": 368
       }
     ]
   },
@@ -89,16 +132,23 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+      "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
       "dated": false,
-      "seq": 96
+      "seq": 368
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
+      "dated": false,
+      "seq": 368
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
-    "plot.xianni-ch117-wanglin-death"
+    "plot.xianni-ch117-wanglin-death",
+    "plot.xianni-ch368-372-three-great-gifts-dun-tian"
   ],
-  "updatedAt": "2026-07-05T04:09:56.766Z"
+  "updatedAt": "2026-08-15T09:48:01.579Z"
 }

@@ -9,19 +9,21 @@
     "雪域国李元封",
     "茶之意境者",
     "李元封老祖",
-    "李元封前辈"
+    "李元封前辈",
+    "Li Yuanfeng",
+    "李宗主"
   ],
   "summary": "雪域国宗主，婴变期老怪；为替红蝶报仇而截杀「曾牛」，事先禁锢当地空间令星罗盘与瞬移俱废。",
   "attributes": {
     "性别": "男",
-    "身份": "雪域国宗主、雪域国修士",
+    "身份": "雪域国宗主、雪域国修士、雪域国唯一婴变修士",
     "小阶段": "婴变初期",
-    "外貌": "神情萎靡、脸色苍白无血",
+    "外貌": "面色苍白、双目通红青筋暴起",
     "性格": "从容缜密、不因敌弱而懈怠",
-    "存殁": "在世",
-    "阵营": "雪域国／受朱雀国相助",
+    "存殁": "存活",
+    "阵营": "王林之敌",
     "寿元": "将尽（自言红蝶百年出关时寿元已断）",
-    "标志特征": "意境实体化，可在他人身上留下茶痕"
+    "标志特征": "以秘术强行提升至婴变初期，此生再无突破之日；强于化神后期大圆满、弱于婴变、意境实体化，可在他人身上留下茶痕、长发无风自动；以八块散仙气巨冰护体疗伤、以茶为意境（茶痕、茶花、茶境）"
   },
   "observations": {
     "性别": [
@@ -41,13 +43,19 @@
         "value": "雪域国修士",
         "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
         "seq": 346
+      },
+      {
+        "value": "雪域国唯一婴变修士",
+        "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
+        "seq": 368
       }
     ],
     "小阶段": [
       {
         "value": "婴变期",
         "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
-        "seq": 346
+        "seq": 346,
+        "note": "王林评为强行提升、婴变期中最弱"
       },
       {
         "value": "婴变初期",
@@ -66,6 +74,12 @@
         "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
         "seq": 356,
         "note": "疗伤中"
+      },
+      {
+        "value": "面色苍白、双目通红青筋暴起",
+        "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
+        "seq": 368,
+        "note": "受伤透支仙力时"
       }
     ],
     "性格": [
@@ -80,6 +94,11 @@
         "value": "在世",
         "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
         "seq": 346
+      },
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
+        "seq": 368
       }
     ],
     "阵营": [
@@ -92,6 +111,11 @@
         "value": "雪域国／受朱雀国相助",
         "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
         "seq": 356
+      },
+      {
+        "value": "王林之敌",
+        "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
+        "seq": 368
       }
     ],
     "寿元": [
@@ -112,6 +136,16 @@
         "value": "意境实体化，可在他人身上留下茶痕",
         "docId": "plot.xianni-ch380-lianhunzong-search",
         "seq": 358
+      },
+      {
+        "value": "长发无风自动；以八块散仙气巨冰护体疗伤",
+        "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
+        "seq": 368
+      },
+      {
+        "value": "以茶为意境（茶痕、茶花、茶境）",
+        "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
+        "seq": 368
       }
     ]
   },
@@ -137,10 +171,10 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+      "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
       "dated": false,
-      "seq": 356,
-      "note": "疗伤中"
+      "seq": 368,
+      "note": "受伤透支仙力时"
     },
     "性格": {
       "asOf": null,
@@ -150,15 +184,15 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+      "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
       "dated": false,
-      "seq": 346
+      "seq": 368
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+      "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
       "dated": false,
-      "seq": 356
+      "seq": 368
     },
     "寿元": {
       "asOf": null,
@@ -169,9 +203,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch380-lianhunzong-search",
+      "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
       "dated": false,
-      "seq": 358
+      "seq": 356
     }
   },
   "contested": false,
@@ -179,7 +213,8 @@
   "docs": [
     "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
     "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
-    "plot.xianni-ch380-lianhunzong-search"
+    "plot.xianni-ch380-lianhunzong-search",
+    "plot.xianni-ch368-372-three-great-gifts-dun-tian"
   ],
-  "updatedAt": "2026-08-15T08:44:30.412Z"
+  "updatedAt": "2026-08-15T09:48:01.569Z"
 }
