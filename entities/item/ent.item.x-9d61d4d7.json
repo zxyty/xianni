@@ -4,12 +4,13 @@
   "name": "天壑石",
   "aliases": [
     "洞府封石",
-    "洞府天壑石"
+    "洞府天壑石",
+    "封府天壑石"
   ],
   "summary": "封闭洞府入口的石门，修士闭关时落下；需配套玉简开启。本片段王林故意只落一半作饵。",
   "attributes": {
-    "类型": "洞府门禁、洞府门禁石",
-    "用途": "封闭/开启洞府、洞府出入门户；被王林以禁制改作传送入口"
+    "类型": "洞府门禁、洞府门禁石、石料",
+    "用途": "封闭/开启洞府、洞府出入门户；被王林以禁制改作传送入口、封闭洞府"
   },
   "observations": {
     "类型": [
@@ -22,6 +23,11 @@
         "value": "洞府门禁石",
         "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
         "seq": 356
+      },
+      {
+        "value": "石料",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358
       }
     ],
     "用途": [
@@ -34,6 +40,11 @@
         "value": "洞府出入门户；被王林以禁制改作传送入口",
         "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
         "seq": 356
+      },
+      {
+        "value": "封闭洞府",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358
       }
     ]
   },
@@ -55,7 +66,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo"
+    "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+    "plot.xianni-ch380-lianhunzong-search"
   ],
-  "updatedAt": "2026-08-08T16:24:14.380Z"
+  "updatedAt": "2026-08-15T08:44:30.506Z"
 }

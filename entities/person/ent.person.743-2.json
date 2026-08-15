@@ -5,13 +5,19 @@
   "aliases": [
     "屠夫般的大汉",
     "莽汉",
-    "743洞府主人"
+    "743洞府主人",
+    "743洞府的莽汉",
+    "认输的莽汉"
   ],
   "summary": "占据743洞府的粗豪大汉，被王林点昏并以飞剑碎片禁制笼罩；事后见王林惊慌，被冷目一扫即恭敬不敢声张。",
   "attributes": {
-    "外貌": "好似屠夫的大汉",
+    "外貌": "莽汉",
     "阵营": "炼魂宗外围弟子",
-    "存殁": "存活"
+    "存殁": "在世",
+    "身份": "炼魂宗外围弟子",
+    "小阶段": "筑基后期",
+    "标志特征": "使用符纸法宝，凡与之对战者均被杀死",
+    "结局": "决战对阵王林即刻认输"
   },
   "observations": {
     "外貌": [
@@ -19,6 +25,11 @@
         "value": "好似屠夫的大汉",
         "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
         "seq": 356
+      },
+      {
+        "value": "莽汉",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358
       }
     ],
     "阵营": [
@@ -33,6 +44,41 @@
         "value": "存活",
         "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
         "seq": 356
+      },
+      {
+        "value": "在世",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358
+      }
+    ],
+    "身份": [
+      {
+        "value": "炼魂宗外围弟子",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "筑基后期",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358,
+        "note": "明面伪装；实为结丹初期"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "使用符纸法宝，凡与之对战者均被杀死",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358
+      }
+    ],
+    "结局": [
+      {
+        "value": "决战对阵王林即刻认输",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358,
+        "note": "本章"
       }
     ]
   },
@@ -40,9 +86,9 @@
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+      "docId": "plot.xianni-ch380-lianhunzong-search",
       "dated": false,
-      "seq": 356
+      "seq": 358
     },
     "阵营": {
       "asOf": null,
@@ -52,15 +98,42 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+      "docId": "plot.xianni-ch380-lianhunzong-search",
       "dated": false,
-      "seq": 356
+      "seq": 358
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch380-lianhunzong-search",
+      "dated": false,
+      "seq": 358
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch380-lianhunzong-search",
+      "dated": false,
+      "seq": 358,
+      "note": "明面伪装；实为结丹初期"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch380-lianhunzong-search",
+      "dated": false,
+      "seq": 358
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch380-lianhunzong-search",
+      "dated": false,
+      "seq": 358,
+      "note": "本章"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo"
+    "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+    "plot.xianni-ch380-lianhunzong-search"
   ],
-  "updatedAt": "2026-08-08T16:24:14.371Z"
+  "updatedAt": "2026-08-15T08:44:30.461Z"
 }

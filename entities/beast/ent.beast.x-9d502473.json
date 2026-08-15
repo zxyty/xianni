@@ -5,15 +5,16 @@
   "aliases": [
     "黑纹老虎",
     "虎精",
-    "老虎"
+    "老虎",
+    "满是黑纹的老虎"
   ],
   "summary": "修炼三百多年的黑纹虎精，仅具筑基期左右修为，被铁岩抓来给周茹作坐骑并由周茹起名。",
   "attributes": {
     "种族": "虎精",
     "等级": "约筑基期修为（三百多年道行）",
     "主人": "周茹",
-    "外形": "黑纹老虎",
-    "栖息地": "山谷及周边山林"
+    "外形": "满是黑纹的老虎",
+    "栖息地": "楚国仙遗之地外山谷"
   },
   "observations": {
     "种族": [
@@ -34,7 +35,8 @@
       {
         "value": "周茹",
         "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
-        "seq": 336
+        "seq": 336,
+        "note": "实为被其戏弄"
       }
     ],
     "外形": [
@@ -42,6 +44,11 @@
         "value": "黑纹老虎",
         "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
         "seq": 336
+      },
+      {
+        "value": "满是黑纹的老虎",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358
       }
     ],
     "栖息地": [
@@ -49,6 +56,11 @@
         "value": "山谷及周边山林",
         "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
         "seq": 336
+      },
+      {
+        "value": "楚国仙遗之地外山谷",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358
       }
     ]
   },
@@ -70,26 +82,28 @@
       "asOf": null,
       "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
       "dated": false,
-      "seq": 336
+      "seq": 336,
+      "note": "实为被其戏弄"
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+      "docId": "plot.xianni-ch380-lianhunzong-search",
       "dated": false,
-      "seq": 336
+      "seq": 358
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+      "docId": "plot.xianni-ch380-lianhunzong-search",
       "dated": false,
-      "seq": 336
+      "seq": 358
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch356-departure-immortal-remains-void-rift",
-    "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo"
+    "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+    "plot.xianni-ch380-lianhunzong-search"
   ],
-  "updatedAt": "2026-08-08T16:24:14.303Z"
+  "updatedAt": "2026-08-15T08:44:30.382Z"
 }

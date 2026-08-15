@@ -7,15 +7,18 @@
     "上吉神通死咒术",
     "死字咒",
     "死咒之术",
-    "咒术"
+    "咒术",
+    "死字诀",
+    "死咒之力"
   ],
   "summary": "上古魔道最歹毒神通，说『死』字目光所指之人立死；需阴气死气杀气三气归一，大成几率近零。",
   "attributes": {
     "品阶": "上吉神通（上古魔道）",
-    "效果": "说『死』字目光所指者立死、采补元阴、度过某处「必须以死咒术度过」的一关、专修神识，以神识为攻击、凶地某关键环节起大用处，需施术者自愿、第三关有大用、被视为破碎星乱第三关关键",
-    "修炼条件": "常吸纳三气",
-    "外显异象": "施术者目中红色闪电，化红色闪电攻入敌识海",
-    "出处": "端木极所述，通过第三关所需"
+    "效果": "说『死』字目光所指者立死、采补元阴、度过某处「必须以死咒术度过」的一关、专修神识，以神识为攻击、凶地某关键环节起大用处，需施术者自愿、第三关有大用、被视为破碎星乱第三关关键、口吐『死』字令所指之人立刻死亡、对低于施法者一击而亡、对同阶有一定几率成功、不成亦令其心神一震、对高于施法者作用甚微且可能反噬",
+    "修炼条件": "三气归一（死气、阴气、杀气），历九死一生淘汰，每三年再历一次，数循环方小成",
+    "外显异象": "所指虚空如湖面投石般荡开涟漪",
+    "出处": "端木极所述，通过第三关所需、上古修士模仿极境所创、炼魂宗",
+    "适用境界": "本章由结丹后期修士施展"
   },
   "observations": {
     "品阶": [
@@ -60,6 +63,26 @@
         "value": "被视为破碎星乱第三关关键",
         "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
         "seq": 151
+      },
+      {
+        "value": "口吐『死』字令所指之人立刻死亡",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358
+      },
+      {
+        "value": "对低于施法者一击而亡",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358
+      },
+      {
+        "value": "对同阶有一定几率成功、不成亦令其心神一震",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358
+      },
+      {
+        "value": "对高于施法者作用甚微且可能反噬",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358
       }
     ],
     "修炼条件": [
@@ -72,6 +95,11 @@
         "value": "常吸纳三气",
         "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
         "seq": 129
+      },
+      {
+        "value": "三气归一（死气、阴气、杀气），历九死一生淘汰，每三年再历一次，数循环方小成",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358
       }
     ],
     "外显异象": [
@@ -84,6 +112,11 @@
         "value": "施术者目中红色闪电，化红色闪电攻入敌识海",
         "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
         "seq": 142
+      },
+      {
+        "value": "所指虚空如湖面投石般荡开涟漪",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358
       }
     ],
     "出处": [
@@ -91,6 +124,24 @@
         "value": "端木极所述，通过第三关所需",
         "docId": "plot.xianni-ch181-jinzhi-baofa",
         "seq": 166
+      },
+      {
+        "value": "上古修士模仿极境所创",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358
+      },
+      {
+        "value": "炼魂宗",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "本章由结丹后期修士施展",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358,
+        "note": "修炼极为艰难，王林修道五百年首见"
       }
     ]
   },
@@ -110,21 +161,28 @@
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.xianni-ch129-131-jiedan-sandan-heyi",
+      "docId": "plot.xianni-ch380-lianhunzong-search",
       "dated": false,
-      "seq": 129
+      "seq": 358
     },
     "外显异象": {
       "asOf": null,
-      "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
+      "docId": "plot.xianni-ch380-lianhunzong-search",
       "dated": false,
-      "seq": 142
+      "seq": 358
     },
     "出处": {
       "asOf": null,
       "docId": "plot.xianni-ch181-jinzhi-baofa",
       "dated": false,
       "seq": 166
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-ch380-lianhunzong-search",
+      "dated": false,
+      "seq": 358,
+      "note": "修炼极为艰难，王林修道五百年首见"
     }
   },
   "contested": false,
@@ -137,7 +195,8 @@
     "plot.xianni-ch147-150-shendaoshu-deal",
     "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
     "plot.xianni-ch181-jinzhi-baofa",
-    "plot.xianni-ch185-blood-sea-lord"
+    "plot.xianni-ch185-blood-sea-lord",
+    "plot.xianni-ch380-lianhunzong-search"
   ],
-  "updatedAt": "2026-07-07T04:36:31.083Z"
+  "updatedAt": "2026-08-15T08:44:30.487Z"
 }

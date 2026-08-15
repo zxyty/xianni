@@ -4,12 +4,13 @@
   "name": "外围弟子令牌",
   "aliases": [
     "黑色令牌",
-    "炼魂宗弟子令牌"
+    "炼魂宗弟子令牌",
+    "弟子令牌"
   ],
   "summary": "常大伟交给王林的黑色令牌，对应第1090洞的使用权。",
   "attributes": {
-    "类型": "身份/洞府令牌",
-    "用途": "标识外围弟子身份与洞府归属"
+    "类型": "身份令牌",
+    "用途": "证明弟子身份、通行藏经阁"
   },
   "observations": {
     "类型": [
@@ -17,6 +18,11 @@
         "value": "身份/洞府令牌",
         "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
         "seq": 351
+      },
+      {
+        "value": "身份令牌",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358
       }
     ],
     "用途": [
@@ -24,6 +30,11 @@
         "value": "标识外围弟子身份与洞府归属",
         "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
         "seq": 351
+      },
+      {
+        "value": "证明弟子身份、通行藏经阁",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358
       }
     ]
   },
@@ -31,21 +42,22 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+      "docId": "plot.xianni-ch380-lianhunzong-search",
       "dated": false,
-      "seq": 351
+      "seq": 358
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+      "docId": "plot.xianni-ch380-lianhunzong-search",
       "dated": false,
-      "seq": 351
+      "seq": 358
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north"
+    "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+    "plot.xianni-ch380-lianhunzong-search"
   ],
-  "updatedAt": "2026-08-08T15:56:06.622Z"
+  "updatedAt": "2026-08-15T08:44:30.505Z"
 }

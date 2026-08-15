@@ -9,16 +9,18 @@
     "背剑青衫修士",
     "逃走的青衫修士",
     "青衫化神修士",
-    "大罗派青衫修士"
+    "大罗派青衫修士",
+    "逃跑的青衫修士"
   ],
   "summary": "南王府供奉修士，筑基中期，师弟；触碰蛟龙木雕险致筑基崩溃。",
   "attributes": {
     "小阶段": "筑基中期、化神初期、化神（神识仅化神初期）",
-    "身份": "南王府供奉修士、大罗剑宗采气使者、大罗剑宗弟子、大罗派修士",
-    "外貌": "身穿青色道袍、青衫、背负宝剑、青衫",
+    "身份": "南王府供奉修士、大罗剑宗采气使者、大罗剑宗弟子、大罗派修士、炼魂宗外围弟子",
+    "外貌": "身穿青色道袍、青衫、背负宝剑、青衫、身穿青衫",
     "阵营": "大罗剑宗",
     "存殁": "疑已死、死亡",
-    "死因": "被王林以上吉修士铃铛法宝困住并以手印法诀炼化元神、被王林以铃铛炼化，藏于宝剑内的元神被一击消散"
+    "死因": "被王林以上吉修士铃铛法宝困住并以手印法诀炼化元神、被王林以铃铛炼化，藏于宝剑内的元神被一击消散",
+    "结局": "被擒回制伏"
   },
   "observations": {
     "小阶段": [
@@ -58,6 +60,11 @@
         "value": "大罗派修士",
         "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
         "seq": 281
+      },
+      {
+        "value": "炼魂宗外围弟子",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358
       }
     ],
     "外貌": [
@@ -75,6 +82,11 @@
         "value": "青衫",
         "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
         "seq": 276
+      },
+      {
+        "value": "身穿青衫",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358
       }
     ],
     "阵营": [
@@ -107,6 +119,14 @@
         "value": "被王林以铃铛炼化，藏于宝剑内的元神被一击消散",
         "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
         "seq": 276
+      }
+    ],
+    "结局": [
+      {
+        "value": "被擒回制伏",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358,
+        "note": "第380章"
       }
     ]
   },
@@ -148,6 +168,13 @@
       "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
       "dated": false,
       "seq": 276
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch380-lianhunzong-search",
+      "dated": false,
+      "seq": 358,
+      "note": "第380章"
     }
   },
   "contested": false,
@@ -155,7 +182,8 @@
   "docs": [
     "plot.xianni-ch235-238-guiyin-fabao",
     "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
-    "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush"
+    "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
+    "plot.xianni-ch380-lianhunzong-search"
   ],
-  "updatedAt": "2026-08-02T14:43:22.110Z"
+  "updatedAt": "2026-08-15T08:44:30.361Z"
 }

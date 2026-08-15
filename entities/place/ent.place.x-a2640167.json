@@ -3,14 +3,16 @@
   "type": "place",
   "name": "炼魂宗外围山峰",
   "aliases": [
-    "外围弟子山峰"
+    "外围弟子山峰",
+    "废脉山峰",
+    "灵脉山峰"
   ],
   "summary": "炼魂宗外围弟子洞府所在的山峰，内有数千弟子石室，底部为庞大灵脉矿；本章被王林抽干，十息内成为废脉，山上树木尽枯。",
   "attributes": {
     "所属势力": "炼魂宗",
-    "类型": "洞府山峰",
+    "类型": "灵脉山峰",
     "规模": "内有数千外围弟子",
-    "特产": "灵脉矿（灵石矿）"
+    "特产": "灵脉晶石矿"
   },
   "observations": {
     "所属势力": [
@@ -25,6 +27,11 @@
         "value": "洞府山峰",
         "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
         "seq": 356
+      },
+      {
+        "value": "灵脉山峰",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358
       }
     ],
     "规模": [
@@ -40,6 +47,12 @@
         "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
         "seq": 356,
         "note": "本章后灵脉尽废"
+      },
+      {
+        "value": "灵脉晶石矿",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358,
+        "note": "第380章已被吸成碎末、灵脉尽废"
       }
     ]
   },
@@ -53,9 +66,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+      "docId": "plot.xianni-ch380-lianhunzong-search",
       "dated": false,
-      "seq": 356
+      "seq": 358
     },
     "规模": {
       "asOf": null,
@@ -65,16 +78,17 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+      "docId": "plot.xianni-ch380-lianhunzong-search",
       "dated": false,
-      "seq": 356,
-      "note": "本章后灵脉尽废"
+      "seq": 358,
+      "note": "第380章已被吸成碎末、灵脉尽废"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo"
+    "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+    "plot.xianni-ch380-lianhunzong-search"
   ],
-  "updatedAt": "2026-08-08T16:24:14.374Z"
+  "updatedAt": "2026-08-15T08:44:30.364Z"
 }

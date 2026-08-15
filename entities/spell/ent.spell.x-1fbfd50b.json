@@ -4,13 +4,15 @@
   "name": "生死意境·生",
   "aliases": [
     "生",
-    "轮回天道生死意境"
+    "轮回天道生死意境",
+    "轮回天道的生死意境"
   ],
   "summary": "王林由轮回天道繁衍出的生死意境，一指点出「生」字，可夺取飞剑控制、增强其灵力数倍并抹去其上神识。",
   "attributes": {
     "出处": "轮回天道",
     "类型": "天道意境",
-    "威力": "夺取法宝控制权、灵力增强数倍、抹去法宝上神识"
+    "威力": "夺取法宝控制权、灵力增强数倍、抹去法宝上神识",
+    "适用境界": "化神初期、化神中期、化神后期"
   },
   "observations": {
     "出处": [
@@ -43,6 +45,23 @@
         "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
         "seq": 263
       }
+    ],
+    "适用境界": [
+      {
+        "value": "化神初期",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358
+      },
+      {
+        "value": "化神中期",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358
+      },
+      {
+        "value": "化神后期",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358
+      }
     ]
   },
   "firstSeq": 263,
@@ -64,12 +83,19 @@
       "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
       "dated": false,
       "seq": 263
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-ch380-lianhunzong-search",
+      "dated": false,
+      "seq": 358
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch263-267-tianni-change-xueyu-country"
+    "plot.xianni-ch263-267-tianni-change-xueyu-country",
+    "plot.xianni-ch380-lianhunzong-search"
   ],
-  "updatedAt": "2026-08-02T10:56:50.644Z"
+  "updatedAt": "2026-08-15T08:44:30.430Z"
 }

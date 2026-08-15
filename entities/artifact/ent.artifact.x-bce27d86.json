@@ -3,13 +3,17 @@
   "type": "artifact",
   "name": "炼魂宗镇派魂幡",
   "aliases": [
-    "毗卢国炼魂宗魂幡"
+    "毗卢国炼魂宗魂幡",
+    "一亿之魂魂幡",
+    "镇派之宝"
   ],
   "summary": "五级修真国毗卢国炼魂宗镇派之宝，内蕴魂魄超过十亿，历经数千年方制成。",
   "attributes": {
     "持有者": "炼魂宗",
-    "能力": "蕴含超十亿魂魄",
-    "来历": "毗卢国炼魂宗镇派之宝，历数千年制成"
+    "能力": "蕴含超十亿魂魄、一挥天地色变、凝聚超过一亿之魂",
+    "来历": "毗卢国炼魂宗镇派之宝，历数千年制成",
+    "外形": "幡",
+    "品阶": "朱雀星排得上号的法宝"
   },
   "observations": {
     "持有者": [
@@ -24,6 +28,16 @@
         "value": "蕴含超十亿魂魄",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
+      },
+      {
+        "value": "一挥天地色变",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358
+      },
+      {
+        "value": "凝聚超过一亿之魂",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358
       }
     ],
     "来历": [
@@ -31,6 +45,20 @@
         "value": "毗卢国炼魂宗镇派之宝，历数千年制成",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
+      }
+    ],
+    "外形": [
+      {
+        "value": "幡",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358
+      }
+    ],
+    "品阶": [
+      {
+        "value": "朱雀星排得上号的法宝",
+        "docId": "plot.xianni-ch380-lianhunzong-search",
+        "seq": 358
       }
     ]
   },
@@ -53,12 +81,25 @@
       "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
       "dated": false,
       "seq": 96
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.xianni-ch380-lianhunzong-search",
+      "dated": false,
+      "seq": 358
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-ch380-lianhunzong-search",
+      "dated": false,
+      "seq": 358
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery"
+    "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+    "plot.xianni-ch380-lianhunzong-search"
   ],
-  "updatedAt": "2026-07-05T03:50:16.490Z"
+  "updatedAt": "2026-08-15T08:44:30.391Z"
 }
