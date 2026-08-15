@@ -3,14 +3,15 @@
   "type": "person",
   "name": "炼魂峰大长老",
   "aliases": [
-    "青色长衫老者"
+    "青色长衫老者",
+    "青石大殿内的老者"
   ],
   "summary": "炼魂峰大长老，元婴后期大圆满、距化神只差天道感悟；以威压与眉心探查考核「青木」，认定其确为结丹圆满并安排其入门事宜。",
   "attributes": {
     "性别": "男",
     "身份": "炼魂峰大长老",
-    "小阶段": "元婴后期大圆满",
-    "外貌": "身穿青色长衫、目光炯炯的老者",
+    "小阶段": "只差意境就可化神",
+    "外貌": "老者",
     "阵营": "炼魂宗",
     "存殁": "存活"
   },
@@ -34,6 +35,12 @@
         "value": "元婴后期大圆满",
         "docId": "plot.xianni-ch380-lianhunzong-search",
         "seq": 358
+      },
+      {
+        "value": "只差意境就可化神",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363,
+        "note": "本片段修为"
       }
     ],
     "外貌": [
@@ -41,6 +48,11 @@
         "value": "身穿青色长衫、目光炯炯的老者",
         "docId": "plot.xianni-ch380-lianhunzong-search",
         "seq": 358
+      },
+      {
+        "value": "老者",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
       }
     ],
     "阵营": [
@@ -74,15 +86,16 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch380-lianhunzong-search",
+      "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
       "dated": false,
-      "seq": 358
+      "seq": 363,
+      "note": "本片段修为"
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch380-lianhunzong-search",
+      "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
       "dated": false,
-      "seq": 358
+      "seq": 363
     },
     "阵营": {
       "asOf": null,
@@ -100,7 +113,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch380-lianhunzong-search"
+    "plot.xianni-ch380-lianhunzong-search",
+    "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction"
   ],
-  "updatedAt": "2026-08-15T08:44:30.479Z"
+  "updatedAt": "2026-08-15T09:19:09.930Z"
 }

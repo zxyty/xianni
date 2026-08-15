@@ -2,11 +2,15 @@
   "id": "ent.place.x-a4ba08b0",
   "type": "place",
   "name": "抽魄峰",
-  "aliases": [],
+  "aliases": [
+    "抽魄峰弟子驻地",
+    "炼魂宗抽魄峰"
+  ],
   "summary": "炼魂宗三巨峰之一，与魂幡三法之「抽魄」同名。",
   "attributes": {
     "所属势力": "炼魂宗",
-    "类型": "山峰"
+    "类型": "山峰、宗门山峰、宗门主峰",
+    "特产": "抽魄玉简、抽魄玉简、饲蛊之术"
   },
   "observations": {
     "所属势力": [
@@ -21,6 +25,28 @@
         "value": "山峰",
         "docId": "plot.xianni-ch380-lianhunzong-search",
         "seq": 358
+      },
+      {
+        "value": "宗门山峰",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
+      },
+      {
+        "value": "宗门主峰",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
+      }
+    ],
+    "特产": [
+      {
+        "value": "抽魄玉简",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
+      },
+      {
+        "value": "抽魄玉简、饲蛊之术",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
       }
     ]
   },
@@ -37,12 +63,19 @@
       "docId": "plot.xianni-ch380-lianhunzong-search",
       "dated": false,
       "seq": 358
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+      "dated": false,
+      "seq": 363
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch380-lianhunzong-search"
+    "plot.xianni-ch380-lianhunzong-search",
+    "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction"
   ],
-  "updatedAt": "2026-08-15T08:44:30.498Z"
+  "updatedAt": "2026-08-15T09:19:09.986Z"
 }

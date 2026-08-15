@@ -5,12 +5,14 @@
   "aliases": [
     "魂幡三法",
     "禁幡制作之法",
-    "炼魂·抽魄·锁神"
+    "炼魂·抽魄·锁神",
+    "炼魂、抽魄、锁神",
+    "魂幡之法"
   ],
   "summary": "炼魂宗真正的魂幡制作之法，分炼魂、抽魄、锁神三份，与三座巨峰同名，三法合一方为完整；全宗制作玉简仅十枚。",
   "attributes": {
-    "出处": "炼魂宗",
-    "效果": "炼制真正的魂幡（禁幡）",
+    "出处": "炼魂玉简",
+    "效果": "炼制真正的魂幡（禁幡）、炼魂：炼化死魂封幡且不散反长、抽魄：抽活人生魂封幡操控、锁神：未详",
     "修炼条件": "须集齐炼魂、抽魄、锁神三份方为完整"
   },
   "observations": {
@@ -19,6 +21,11 @@
         "value": "炼魂宗",
         "docId": "plot.xianni-ch380-lianhunzong-search",
         "seq": 358
+      },
+      {
+        "value": "炼魂玉简",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
       }
     ],
     "效果": [
@@ -26,6 +33,21 @@
         "value": "炼制真正的魂幡（禁幡）",
         "docId": "plot.xianni-ch380-lianhunzong-search",
         "seq": 358
+      },
+      {
+        "value": "炼魂：炼化死魂封幡且不散反长",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
+      },
+      {
+        "value": "抽魄：抽活人生魂封幡操控",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
+      },
+      {
+        "value": "锁神：未详",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
       }
     ],
     "修炼条件": [
@@ -40,9 +62,9 @@
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch380-lianhunzong-search",
+      "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
       "dated": false,
-      "seq": 358
+      "seq": 363
     },
     "效果": {
       "asOf": null,
@@ -60,7 +82,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch380-lianhunzong-search"
+    "plot.xianni-ch380-lianhunzong-search",
+    "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction"
   ],
-  "updatedAt": "2026-08-15T08:44:30.504Z"
+  "updatedAt": "2026-08-15T09:19:09.886Z"
 }

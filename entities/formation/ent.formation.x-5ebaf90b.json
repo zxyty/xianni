@@ -4,12 +4,15 @@
   "name": "上古魂禁",
   "aliases": [
     "灵脉黑雾禁制",
-    "疑似上古魂禁"
+    "疑似上古魂禁",
+    "魂禁",
+    "上吉魂禁"
   ],
   "summary": "炼魂峰下灵脉最深处的黑雾及其外围禁制，阻绝神识探入，持续以丝线状吸收灵脉灵力，内有凄厉惨叫与闪现魂魄；王林疑其为上古魂禁。",
   "attributes": {
-    "效果": "阻止神识探入、持续吸收灵脉灵力、内藏惨叫魂魄",
-    "出处": "上古"
+    "效果": "阻止神识探入、持续吸收灵脉灵力、内藏惨叫魂魄、以魂为禁，变化莫测、威力为寻常禁制数倍、本身为活物（一道魂魄）、咆哮可直冲元神",
+    "出处": "上古",
+    "品阶": "上吉禁制"
   },
   "observations": {
     "效果": [
@@ -27,6 +30,26 @@
         "value": "内藏惨叫魂魄",
         "docId": "plot.xianni-ch380-lianhunzong-search",
         "seq": 358
+      },
+      {
+        "value": "以魂为禁，变化莫测",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
+      },
+      {
+        "value": "威力为寻常禁制数倍",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
+      },
+      {
+        "value": "本身为活物（一道魂魄）",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
+      },
+      {
+        "value": "咆哮可直冲元神",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
       }
     ],
     "出处": [
@@ -35,6 +58,13 @@
         "docId": "plot.xianni-ch380-lianhunzong-search",
         "seq": 358,
         "note": "王林推测，未证实"
+      }
+    ],
+    "品阶": [
+      {
+        "value": "上吉禁制",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
       }
     ]
   },
@@ -52,12 +82,19 @@
       "dated": false,
       "seq": 358,
       "note": "王林推测，未证实"
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+      "dated": false,
+      "seq": 363
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch380-lianhunzong-search"
+    "plot.xianni-ch380-lianhunzong-search",
+    "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction"
   ],
-  "updatedAt": "2026-08-15T08:44:30.507Z"
+  "updatedAt": "2026-08-15T09:19:09.862Z"
 }

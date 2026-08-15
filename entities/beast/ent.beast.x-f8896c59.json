@@ -5,16 +5,18 @@
   "aliases": [
     "魂兽",
     "眉心黑雾小兽",
-    "孽畜"
+    "孽畜",
+    "拴铁链的魂兽",
+    "炼魂峰魂兽"
   ],
   "summary": "自李慕婉眉心涌出的黑雾所化小兽，一口吞噬展白的血虫，目光阴森护主，被展白认出为「魂兽」。",
   "attributes": {
     "种族": "魂兽",
     "主人": "王林",
-    "能力": "吞噬血虫、大口化无穷大吞噬、身躯贯穿敌体、受黑芒滋养膨胀",
-    "栖息地": "李慕婉眉心",
-    "外形": "凶芒闪闪的巨大兽魂，身缚铁链",
-    "天敌": "昆极鞭本体（抽之即吃痛缩小）"
+    "能力": "吞噬血虫、大口化无穷大吞噬、身躯贯穿敌体、受黑芒滋养膨胀、撞碎金色光团、吞噬魂类生灵、以魂漩吸收魂魄、吞噬",
+    "栖息地": "炼魂峰灵脉深处",
+    "外形": "拖曳无数黑色铁链的凶兽",
+    "天敌": "无（麒麟残魂视其为天敌）"
   },
   "observations": {
     "种族": [
@@ -56,6 +58,26 @@
         "value": "受黑芒滋养膨胀",
         "docId": "plot.xianni-ch361-zhuque-guo-arrival",
         "seq": 341
+      },
+      {
+        "value": "撞碎金色光团",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
+      },
+      {
+        "value": "吞噬魂类生灵",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
+      },
+      {
+        "value": "以魂漩吸收魂魄",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
+      },
+      {
+        "value": "吞噬",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
       }
     ],
     "栖息地": [
@@ -63,6 +85,11 @@
         "value": "李慕婉眉心",
         "docId": "plot.xianni-ch327-return-to-zhuque-star",
         "seq": 309
+      },
+      {
+        "value": "炼魂峰灵脉深处",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
       }
     ],
     "外形": [
@@ -75,6 +102,11 @@
         "value": "凶芒闪闪的巨大兽魂，身缚铁链",
         "docId": "plot.xianni-ch361-zhuque-guo-arrival",
         "seq": 341
+      },
+      {
+        "value": "拖曳无数黑色铁链的凶兽",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
       }
     ],
     "天敌": [
@@ -82,6 +114,11 @@
         "value": "昆极鞭本体（抽之即吃痛缩小）",
         "docId": "plot.xianni-ch361-zhuque-guo-arrival",
         "seq": 341
+      },
+      {
+        "value": "无（麒麟残魂视其为天敌）",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
       }
     ]
   },
@@ -107,28 +144,29 @@
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.xianni-ch327-return-to-zhuque-star",
+      "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
       "dated": false,
-      "seq": 309
+      "seq": 363
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+      "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
       "dated": false,
-      "seq": 341
+      "seq": 363
     },
     "天敌": {
       "asOf": null,
-      "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+      "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
       "dated": false,
-      "seq": 341
+      "seq": 363
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch327-return-to-zhuque-star",
-    "plot.xianni-ch361-zhuque-guo-arrival"
+    "plot.xianni-ch361-zhuque-guo-arrival",
+    "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction"
   ],
-  "updatedAt": "2026-08-08T14:53:00.679Z"
+  "updatedAt": "2026-08-15T09:19:09.975Z"
 }

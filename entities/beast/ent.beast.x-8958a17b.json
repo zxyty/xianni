@@ -4,13 +4,16 @@
   "name": "双角麒麟",
   "aliases": [
     "麒麟",
-    "紫袍老者的仙兽"
+    "紫袍老者的仙兽",
+    "凌天候的麒麟",
+    "仙界麒麟"
   ],
   "summary": "紫袍老者所拥仙兽，头生双角、体型巨大，鼻喷白气即令一层仙界碎片崩溃，可钻入虚无不受侵蚀。",
   "attributes": {
-    "主人": "紫袍老者",
-    "能力": "鼻喷白气崩碎仙界碎片、穿行虚无而不受吞噬",
-    "外形": "头生双角的巨大麒麟"
+    "主人": "凌天候",
+    "能力": "鼻喷白气崩碎仙界碎片、穿行虚无而不受吞噬、活物但无传承，无法施展法术",
+    "外形": "麒麟，与麒麟残魂仅颜色不同",
+    "栖息地": "仙界"
   },
   "observations": {
     "主人": [
@@ -18,6 +21,11 @@
         "value": "紫袍老者",
         "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
         "seq": 299
+      },
+      {
+        "value": "凌天候",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
       }
     ],
     "能力": [
@@ -30,6 +38,11 @@
         "value": "穿行虚无而不受吞噬",
         "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
         "seq": 299
+      },
+      {
+        "value": "活物但无传承，无法施展法术",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
       }
     ],
     "外形": [
@@ -37,6 +50,18 @@
         "value": "头生双角的巨大麒麟",
         "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
         "seq": 299
+      },
+      {
+        "value": "麒麟，与麒麟残魂仅颜色不同",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
+      }
+    ],
+    "栖息地": [
+      {
+        "value": "仙界",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
       }
     ]
   },
@@ -44,9 +69,9 @@
   "attrProvenance": {
     "主人": {
       "asOf": null,
-      "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
+      "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
       "dated": false,
-      "seq": 299
+      "seq": 363
     },
     "能力": {
       "asOf": null,
@@ -56,15 +81,22 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
+      "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
       "dated": false,
-      "seq": 299
+      "seq": 363
+    },
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+      "dated": false,
+      "seq": 363
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet"
+    "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
+    "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction"
   ],
-  "updatedAt": "2026-08-08T05:08:08.137Z"
+  "updatedAt": "2026-08-15T09:19:09.954Z"
 }

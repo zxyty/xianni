@@ -91,3 +91,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-08T15:56:06.688Z** `ingest` plot.xianni-ch371-fanren-caoniu-disappear-liumei-north — 仙逆 第371章《凡人》：曾牛之名震朱雀星后失踪，王林重伤流落北方山村为「丑哑巴」 · kind=plot asOf=2026-08-08 entities=87 relations=165 src=00351-00355.md
 - **2026-08-08T16:24:14.465Z** `ingest` plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo — 仙逆 第376章 旧年最后一天：巨魔族老祖夺舍闭关，收服剑魂许立国 · kind=plot asOf=2026-08-08 entities=90 relations=178 src=00356-00357.md
 - **2026-08-15T08:44:30.569Z** `ingest` plot.xianni-ch380-lianhunzong-search — 仙逆 第380章 寻查：炼魂宗查废脉，外围弟子受检 · kind=plot asOf=2026-08-15 entities=125 relations=219 src=00358-00362.md
+- **2026-08-15T09:19:10.073Z** `ingest` plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction — 仙逆 第385章 金色魂幡：上古魂禁与双角妖兽 · kind=plot asOf=2026-08-15 entities=108 relations=229 src=00363-00367.md

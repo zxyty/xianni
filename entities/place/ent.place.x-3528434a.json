@@ -4,14 +4,17 @@
   "name": "九道金环",
   "aliases": [
     "九圈金色光环",
-    "金环闭关地"
+    "金环闭关地",
+    "炼魂宗九金环",
+    "三峰深处金环",
+    "九大化神金环"
   ],
   "summary": "三峰之后的九圈巨大金色光环，环内另有乾坤、散发磅礴灵力与金芒，是炼魂宗九位化神期前辈的闭关之地。",
   "attributes": {
     "所属势力": "炼魂宗",
-    "类型": "化神修士闭关之地",
+    "类型": "禁地/居所",
     "上级区域": "炼魂宗内门",
-    "方位": "三座巨峰之后"
+    "方位": "炼魂宗三峰深处"
   },
   "observations": {
     "所属势力": [
@@ -26,6 +29,11 @@
         "value": "化神修士闭关之地",
         "docId": "plot.xianni-ch380-lianhunzong-search",
         "seq": 358
+      },
+      {
+        "value": "禁地/居所",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
       }
     ],
     "上级区域": [
@@ -40,6 +48,11 @@
         "value": "三座巨峰之后",
         "docId": "plot.xianni-ch380-lianhunzong-search",
         "seq": 358
+      },
+      {
+        "value": "炼魂宗三峰深处",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
       }
     ]
   },
@@ -53,9 +66,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch380-lianhunzong-search",
+      "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
       "dated": false,
-      "seq": 358
+      "seq": 363
     },
     "上级区域": {
       "asOf": null,
@@ -65,15 +78,16 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch380-lianhunzong-search",
+      "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
       "dated": false,
-      "seq": 358
+      "seq": 363
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch380-lianhunzong-search"
+    "plot.xianni-ch380-lianhunzong-search",
+    "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction"
   ],
-  "updatedAt": "2026-08-15T08:44:30.485Z"
+  "updatedAt": "2026-08-15T09:19:09.999Z"
 }

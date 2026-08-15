@@ -2,11 +2,18 @@
   "id": "ent.place.x-74c2aa93",
   "type": "place",
   "name": "王林洞府",
-  "aliases": [],
+  "aliases": [
+    "青木洞府",
+    "炼魂峰洞府",
+    "王林的洞府"
+  ],
   "summary": "玄道宗内王林闭关化神所在的山崖洞府；石壁封洞，出关时轰然打开。",
   "attributes": {
     "类型": "洞府",
-    "所属势力": "玄道宗"
+    "所属势力": "炼魂峰",
+    "方位": "偏僻之地，近灵脉",
+    "特产": "奇花异草、养金色小鱼的池水、错落厅阁",
+    "守护": "洞府禁制与幻化巨手"
   },
   "observations": {
     "类型": [
@@ -21,6 +28,42 @@
         "value": "玄道宗",
         "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
         "seq": 268
+      },
+      {
+        "value": "炼魂峰",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
+      }
+    ],
+    "方位": [
+      {
+        "value": "偏僻之地，近灵脉",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
+      }
+    ],
+    "特产": [
+      {
+        "value": "奇花异草",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
+      },
+      {
+        "value": "养金色小鱼的池水",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
+      },
+      {
+        "value": "错落厅阁",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
+      }
+    ],
+    "守护": [
+      {
+        "value": "洞府禁制与幻化巨手",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
       }
     ]
   },
@@ -34,15 +77,34 @@
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
+      "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
       "dated": false,
-      "seq": 268
+      "seq": 363
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+      "dated": false,
+      "seq": 363
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+      "dated": false,
+      "seq": 363
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+      "dated": false,
+      "seq": 363
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu"
+    "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
+    "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction"
   ],
-  "updatedAt": "2026-08-02T13:31:26.102Z"
+  "updatedAt": "2026-08-15T09:19:09.936Z"
 }

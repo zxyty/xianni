@@ -4,14 +4,17 @@
   "name": "许云",
   "aliases": [
     "碧色衣衫女修",
-    "许云师妹"
+    "许云师妹",
+    "许云师姐"
   ],
   "summary": "炼魂宗结丹中期女修，原为被夺洞府修士的双修小妾之一；向王林（青木）道破魂幡三法之秘，欲依附王林求安。",
   "attributes": {
     "性别": "女",
     "小阶段": "结丹中期",
-    "身份": "炼魂宗弟子",
-    "外貌": "身穿碧色衣衫，相貌上等"
+    "身份": "炼魂宗弟子、依附于「青木师兄」的女修、青木（王林）侍妾",
+    "外貌": "身穿碧色衣衫，相貌上等",
+    "性格": "从容镇定，应对不慌、先自信后畏怯、外强内柔",
+    "存殁": "在世"
   },
   "observations": {
     "性别": [
@@ -33,6 +36,17 @@
         "value": "炼魂宗弟子",
         "docId": "plot.xianni-ch380-lianhunzong-search",
         "seq": 358
+      },
+      {
+        "value": "依附于「青木师兄」的女修",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
+      },
+      {
+        "value": "青木（王林）侍妾",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363,
+        "note": "第385章自称"
       }
     ],
     "外貌": [
@@ -40,6 +54,30 @@
         "value": "身穿碧色衣衫，相貌上等",
         "docId": "plot.xianni-ch380-lianhunzong-search",
         "seq": 358
+      }
+    ],
+    "性格": [
+      {
+        "value": "从容镇定，应对不慌",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
+      },
+      {
+        "value": "先自信后畏怯",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
+      },
+      {
+        "value": "外强内柔",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
+      }
+    ],
+    "存殁": [
+      {
+        "value": "在世",
+        "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+        "seq": 363
       }
     ]
   },
@@ -68,12 +106,25 @@
       "docId": "plot.xianni-ch380-lianhunzong-search",
       "dated": false,
       "seq": 358
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+      "dated": false,
+      "seq": 363
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+      "dated": false,
+      "seq": 363
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch380-lianhunzong-search"
+    "plot.xianni-ch380-lianhunzong-search",
+    "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction"
   ],
-  "updatedAt": "2026-08-15T08:44:30.503Z"
+  "updatedAt": "2026-08-15T09:19:09.928Z"
 }
