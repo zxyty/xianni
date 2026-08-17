@@ -4,13 +4,21 @@
   "name": "仙遗族四祖",
   "aliases": [
     "四祖",
-    "四祖大人"
+    "四祖大人",
+    "北部主持的仙遗族老祖",
+    "仙遗族的四祖",
+    "第四祖"
   ],
   "summary": "仙遗族四祖，本片段中在祖灵树处开启祖灵树，与五祖的分树布阵同步进行。",
   "attributes": {
     "种族": "仙遗族",
-    "身份": "仙遗族四祖",
-    "存殁": "在世"
+    "身份": "仙遗族老祖、北部轮回祖灵树主持者",
+    "存殁": "在世",
+    "外貌": "白发老者，双目通红几欲滴血、白发老者",
+    "性格": "被仇恨冲昏头脑、疯狂",
+    "标志特征": "眉心浮现九叶植物；祭出巨大符文",
+    "阵营": "仙遗族",
+    "称号": "四祖"
   },
   "observations": {
     "种族": [
@@ -25,6 +33,11 @@
         "value": "仙遗族四祖",
         "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
         "seq": 401
+      },
+      {
+        "value": "仙遗族老祖、北部轮回祖灵树主持者",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
       }
     ],
     "存殁": [
@@ -32,6 +45,47 @@
         "value": "在世",
         "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
         "seq": 401
+      }
+    ],
+    "外貌": [
+      {
+        "value": "白发老者，双目通红几欲滴血",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
+      },
+      {
+        "value": "白发老者",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
+      }
+    ],
+    "性格": [
+      {
+        "value": "被仇恨冲昏头脑、疯狂",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405,
+        "note": "祖灵被吞后"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "眉心浮现九叶植物；祭出巨大符文",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
+      }
+    ],
+    "阵营": [
+      {
+        "value": "仙遗族",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
+      }
+    ],
+    "称号": [
+      {
+        "value": "四祖",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
       }
     ]
   },
@@ -45,21 +99,53 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
       "dated": false,
-      "seq": 401
+      "seq": 405
     },
     "存殁": {
       "asOf": null,
       "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
       "dated": false,
       "seq": 401
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "dated": false,
+      "seq": 405
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "dated": false,
+      "seq": 405,
+      "note": "祖灵被吞后"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "dated": false,
+      "seq": 405
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "dated": false,
+      "seq": 405
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "dated": false,
+      "seq": 405
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul"
+    "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+    "plot.xianni-ch427-ancestral-spirit-tree"
   ],
-  "updatedAt": "2026-08-17T18:32:24.522Z"
+  "updatedAt": "2026-08-17T19:16:48.614Z"
 }

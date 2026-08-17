@@ -3,14 +3,16 @@
   "type": "person",
   "name": "尸阴宗守尸执事",
   "aliases": [
-    "守尸执事"
+    "守尸执事",
+    "两个守尸执事"
   ],
   "summary": "随司马长老同行的两名尸阴宗执事，修为化神后期，头发花白，坐于巨棺之上。",
   "attributes": {
     "身份": "尸阴宗守尸执事",
     "小阶段": "化神后期",
     "外貌": "头发花白",
-    "存殁": "在世"
+    "存殁": "在世",
+    "阵营": "尸阴宗"
   },
   "observations": {
     "身份": [
@@ -40,6 +42,13 @@
         "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
         "seq": 401
       }
+    ],
+    "阵营": [
+      {
+        "value": "尸阴宗",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
+      }
     ]
   },
   "firstSeq": 401,
@@ -67,12 +76,19 @@
       "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
       "dated": false,
       "seq": 401
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "dated": false,
+      "seq": 405
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul"
+    "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+    "plot.xianni-ch427-ancestral-spirit-tree"
   ],
-  "updatedAt": "2026-08-17T18:32:24.525Z"
+  "updatedAt": "2026-08-17T19:16:48.567Z"
 }

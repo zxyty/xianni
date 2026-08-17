@@ -3,12 +3,14 @@
   "type": "place",
   "name": "朱雀星东部",
   "aliases": [
-    "朱雀星东"
+    "朱雀星东",
+    "朱雀星东部区域"
   ],
   "summary": "巨魔族老祖元神出窍逃遁时掠过的区域。",
   "attributes": {
     "所属界面": "朱雀星",
-    "方位": "朱雀星东部"
+    "方位": "朱雀星东部",
+    "所属势力": "仙遗族（本章）"
   },
   "observations": {
     "所属界面": [
@@ -23,6 +25,13 @@
         "value": "朱雀星东部",
         "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
         "seq": 356
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "仙遗族（本章）",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
       }
     ]
   },
@@ -39,12 +48,19 @@
       "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
       "dated": false,
       "seq": 356
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "dated": false,
+      "seq": 405
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo"
+    "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+    "plot.xianni-ch427-ancestral-spirit-tree"
   ],
-  "updatedAt": "2026-08-08T16:24:14.282Z"
+  "updatedAt": "2026-08-17T19:16:48.548Z"
 }

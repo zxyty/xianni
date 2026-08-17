@@ -18,18 +18,20 @@
     "仙遗之地山林",
     "仙遗之地正中心",
     "巨大深坑",
-    "仙遗族封印之地"
+    "仙遗族封印之地",
+    "仙遗族深坑",
+    "仙遗族祖地深坑"
   ],
   "summary": "楚国紧靠的山脉，被称为仙遗之地。",
   "attributes": {
     "所属界面": "朱雀星",
-    "类型": "山脉/秘境、山脉、秘境/遗迹、凶地/秘境、秘境/禁地、秘境／遗迹、分层秘境/禁地、分层秘境/遗迹、秘境／圣地、秘境/遗迹之地、秘地/禁地、封印禁地",
+    "类型": "山脉/秘境、山脉、秘境/遗迹、凶地/秘境、秘境/禁地、秘境／遗迹、分层秘境/禁地、分层秘境/遗迹、秘境／圣地、秘境/遗迹之地、秘地/禁地、封印禁地、秘境/族地深坑、多层地下秘境",
     "上级区域": "楚国边缘",
     "特产": "龙岩芝、轮回树、轮回果、轮回之木、野人符文、陌生妖兽、轮回树、轮回果",
     "危险度": "朱雀星两大凶地之一、极高（有连朱雀国都忌惮的力量）、极高、凶险异常、深层极险，外层尚可、高、极为危险、极高（第三层有七叶术咒师）、极高（七人入内仅二人生还）",
-    "方位": "楚国以北、楚国北方、王林居所之外，需飞行前往、楚国边缘",
-    "规模": "地面极大，地下更大、层数不明、连绵不绝的山脉",
-    "守护": "野人余孽、野人、术咒师、占咒士、仙遗族、本尊盘膝坐守深坑之外",
+    "方位": "楚国以北、楚国北方、王林居所之外，需飞行前往、楚国边缘、楚国境内",
+    "规模": "地面极大，地下更大、层数不明、连绵不绝的山脉、至少四层",
+    "守护": "野人余孽、野人、术咒师、占咒士、仙遗族、本尊盘膝坐守深坑之外、覆盖坑口的巨大植物、覆盖深坑的巨大植物",
     "所属势力": "仙遗族"
   },
   "observations": {
@@ -105,6 +107,16 @@
         "value": "封印禁地",
         "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
         "seq": 382
+      },
+      {
+        "value": "秘境/族地深坑",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
+      },
+      {
+        "value": "多层地下秘境",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
       }
     ],
     "上级区域": [
@@ -230,6 +242,11 @@
         "value": "楚国边缘",
         "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
         "seq": 382
+      },
+      {
+        "value": "楚国境内",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
       }
     ],
     "规模": [
@@ -242,6 +259,11 @@
         "value": "连绵不绝的山脉",
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
+      },
+      {
+        "value": "至少四层",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
       }
     ],
     "守护": [
@@ -269,6 +291,16 @@
         "value": "本尊盘膝坐守深坑之外",
         "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
         "seq": 336
+      },
+      {
+        "value": "覆盖坑口的巨大植物",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
+      },
+      {
+        "value": "覆盖深坑的巨大植物",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
       }
     ],
     "所属势力": [
@@ -349,7 +381,8 @@
     "plot.xianni-ch352-fu-kui-space-rift-flight",
     "plot.xianni-ch356-departure-immortal-remains-void-rift",
     "plot.xianni-ch380-lianhunzong-search",
-    "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict"
+    "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
+    "plot.xianni-ch427-ancestral-spirit-tree"
   ],
-  "updatedAt": "2026-08-17T15:34:17.207Z"
+  "updatedAt": "2026-08-17T19:16:48.756Z"
 }

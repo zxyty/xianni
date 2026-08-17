@@ -3,17 +3,50 @@
   "type": "person",
   "name": "上一代朱雀",
   "aliases": [
-    "十三代朱雀"
+    "十三代朱雀",
+    "前代朱雀"
   ],
   "summary": "现任朱雀子成为朱雀之前所面对的前代朱雀，其威压被比作天威，是朱雀子此刻恐惧感的参照。",
-  "attributes": {},
-  "observations": {},
+  "attributes": {
+    "身份": "朱雀国前代之主",
+    "阵营": "朱雀国"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "朱雀国前代之主",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
+      }
+    ],
+    "阵营": [
+      {
+        "value": "朱雀国",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
+      }
+    ]
+  },
   "firstSeq": 401,
-  "attrProvenance": {},
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "dated": false,
+      "seq": 405
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "dated": false,
+      "seq": 405
+    }
+  },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul"
+    "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+    "plot.xianni-ch427-ancestral-spirit-tree"
   ],
-  "updatedAt": "2026-08-17T18:32:24.551Z"
+  "updatedAt": "2026-08-17T19:16:48.700Z"
 }

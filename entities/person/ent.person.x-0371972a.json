@@ -3,14 +3,17 @@
   "type": "person",
   "name": "仙遗族虚祖",
   "aliases": [
-    "虚祖"
+    "虚祖",
+    "虚祖大人"
   ],
   "summary": "仙遗族先祖，放弃生命以肉身破除五剑封印，释放出祖灵树。",
   "attributes": {
     "种族": "仙遗族",
     "身份": "仙遗族先祖",
     "存殁": "死亡",
-    "死因": "自弃生命，以肉身破除封印祖灵树的五剑封印"
+    "死因": "自弃生命，以肉身破除封印祖灵树的五剑封印",
+    "称号": "虚祖",
+    "阵营": "仙遗族"
   },
   "observations": {
     "种族": [
@@ -40,6 +43,20 @@
         "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
         "seq": 401
       }
+    ],
+    "称号": [
+      {
+        "value": "虚祖",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
+      }
+    ],
+    "阵营": [
+      {
+        "value": "仙遗族",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
+      }
     ]
   },
   "firstSeq": 401,
@@ -67,12 +84,25 @@
       "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
       "dated": false,
       "seq": 401
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "dated": false,
+      "seq": 405
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "dated": false,
+      "seq": 405
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul"
+    "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+    "plot.xianni-ch427-ancestral-spirit-tree"
   ],
-  "updatedAt": "2026-08-17T18:32:24.524Z"
+  "updatedAt": "2026-08-17T19:16:48.698Z"
 }

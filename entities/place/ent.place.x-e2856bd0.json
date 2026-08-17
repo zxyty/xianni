@@ -11,7 +11,8 @@
     "朱雀大陆青幕之地",
     "朱雀星大陆",
     "朱雀大陆东部",
-    "朱雀国大陆"
+    "朱雀国大陆",
+    "朱雀大陆黑雾区"
   ],
   "summary": "朱雀星最大的一块陆地，其上仅有四个修真国：中心的朱雀国（占二分之一）与青龙、千幻、毗卢三个五级修真国。",
   "attributes": {
@@ -19,10 +20,10 @@
     "类型": "大陆",
     "规模": "以整个大陆为包围，每万里内有一阵眼",
     "上级区域": "朱雀星",
-    "所属势力": "朱雀国",
+    "所属势力": "仙遗族",
     "方位": "朱雀星域内",
     "守护": "朱雀阵",
-    "危险度": "被四颗祖灵分树合围"
+    "危险度": "极高"
   },
   "observations": {
     "所属界面": [
@@ -63,6 +64,11 @@
         "value": "朱雀国",
         "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
         "seq": 351
+      },
+      {
+        "value": "仙遗族",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
       }
     ],
     "方位": [
@@ -85,6 +91,12 @@
         "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
         "seq": 401,
         "note": "第424章仙遗族布阵中"
+      },
+      {
+        "value": "极高",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405,
+        "note": "仙遗族大军正向此凝聚"
       }
     ]
   },
@@ -116,9 +128,9 @@
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
       "dated": false,
-      "seq": 351
+      "seq": 405
     },
     "方位": {
       "asOf": null,
@@ -134,10 +146,10 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
       "dated": false,
-      "seq": 401,
-      "note": "第424章仙遗族布阵中"
+      "seq": 405,
+      "note": "仙遗族大军正向此凝聚"
     }
   },
   "contested": false,
@@ -148,7 +160,8 @@
     "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms",
     "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
     "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
-    "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul"
+    "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+    "plot.xianni-ch427-ancestral-spirit-tree"
   ],
-  "updatedAt": "2026-08-17T18:32:24.616Z"
+  "updatedAt": "2026-08-17T19:16:48.739Z"
 }

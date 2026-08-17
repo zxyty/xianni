@@ -3,13 +3,16 @@
   "type": "person",
   "name": "巨魔族先祖",
   "aliases": [
-    "先祖"
+    "先祖",
+    "尸阴宗所藏巨魔族先祖肉身",
+    "问鼎中期巨魔族先祖"
   ],
   "summary": "巨魔族迁移至朱雀星时的先祖，以红色巨斧破开天地、赴仙遗族斩杀两名九叶术咒师，换得巨魔族之地永久居住权，如今失踪。",
   "attributes": {
     "种族": "巨魔族",
     "身份": "巨魔族先祖",
-    "存殁": "失踪"
+    "存殁": "死亡",
+    "标志特征": "肉身达问鼎中期"
   },
   "observations": {
     "种族": [
@@ -32,6 +35,19 @@
         "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
         "seq": 377,
         "note": "老祖自述『先祖虽说失踪』"
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405,
+        "note": "仅余肉身，存于尸阴宗"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "肉身达问鼎中期",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
       }
     ]
   },
@@ -51,16 +67,23 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
       "dated": false,
-      "seq": 377,
-      "note": "老祖自述『先祖虽说失踪』"
+      "seq": 405,
+      "note": "仅余肉身，存于尸阴宗"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "dated": false,
+      "seq": 405
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays"
+    "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+    "plot.xianni-ch427-ancestral-spirit-tree"
   ],
-  "updatedAt": "2026-08-15T10:50:33.977Z"
+  "updatedAt": "2026-08-17T19:16:48.568Z"
 }

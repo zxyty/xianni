@@ -6,16 +6,21 @@
     "北炎极之地",
     "小北炎极",
     "朱雀星小北炎极之地",
-    "炎极之地"
+    "炎极之地",
+    "小北之地",
+    "红色冰原",
+    "小北之地与炎极之处"
   ],
   "summary": "朱雀星上的险地，存在朱雀星诞生之时就有的天然禁制，巨魔族老祖借此甩脱魔童追击。",
   "attributes": {
     "所属界面": "朱雀星",
-    "类型": "秘地",
-    "危险度": "极高",
-    "守护": "朱雀星诞生时即存在的天然禁制",
-    "方位": "朱雀星极北",
-    "上级区域": "朱雀星"
+    "类型": "天然禁制险地、秘地、天然禁地/极寒极炎之地、禁制之地/绝地",
+    "危险度": "极高，遍布禁制",
+    "守护": "朱雀星诞生时即存在的天然禁制、恒古以来的天然禁制、困于炎冰内的魔童",
+    "方位": "朱雀星之北",
+    "上级区域": "朱雀星",
+    "规模": "极大（雪域国仅探索三分之一）",
+    "特产": "九黎之气、极炎血之光、红色炎冰、吸收神识的奇异冰层、红色炎冰、极炎血之光禁制"
   },
   "observations": {
     "所属界面": [
@@ -35,6 +40,16 @@
         "value": "秘地",
         "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
         "seq": 401
+      },
+      {
+        "value": "天然禁地/极寒极炎之地",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
+      },
+      {
+        "value": "禁制之地/绝地",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
       }
     ],
     "危险度": [
@@ -42,6 +57,11 @@
         "value": "极高",
         "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
         "seq": 356
+      },
+      {
+        "value": "极高，遍布禁制",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
       }
     ],
     "守护": [
@@ -49,6 +69,16 @@
         "value": "朱雀星诞生时即存在的天然禁制",
         "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
         "seq": 356
+      },
+      {
+        "value": "恒古以来的天然禁制",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
+      },
+      {
+        "value": "困于炎冰内的魔童",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
       }
     ],
     "方位": [
@@ -56,6 +86,11 @@
         "value": "朱雀星极北",
         "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
         "seq": 401
+      },
+      {
+        "value": "朱雀星之北",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
       }
     ],
     "上级区域": [
@@ -63,6 +98,40 @@
         "value": "朱雀星",
         "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
         "seq": 401
+      }
+    ],
+    "规模": [
+      {
+        "value": "极大（雪域国仅探索三分之一）",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
+      }
+    ],
+    "特产": [
+      {
+        "value": "九黎之气",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
+      },
+      {
+        "value": "极炎血之光",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
+      },
+      {
+        "value": "红色炎冰",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
+      },
+      {
+        "value": "吸收神识的奇异冰层",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
+      },
+      {
+        "value": "红色炎冰、极炎血之光禁制",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
       }
     ]
   },
@@ -76,15 +145,15 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
-      "dated": false,
-      "seq": 401
-    },
-    "危险度": {
-      "asOf": null,
       "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
       "dated": false,
       "seq": 356
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "dated": false,
+      "seq": 405
     },
     "守护": {
       "asOf": null,
@@ -94,22 +163,35 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
       "dated": false,
-      "seq": 401
+      "seq": 405
     },
     "上级区域": {
       "asOf": null,
       "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
       "dated": false,
       "seq": 401
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "dated": false,
+      "seq": 405
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "dated": false,
+      "seq": 405
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
-    "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul"
+    "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+    "plot.xianni-ch427-ancestral-spirit-tree"
   ],
-  "updatedAt": "2026-08-17T18:32:24.592Z"
+  "updatedAt": "2026-08-17T19:16:48.658Z"
 }

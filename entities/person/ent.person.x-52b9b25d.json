@@ -5,12 +5,17 @@
   "aliases": [
     "童子",
     "红棺童子",
-    "孙泰的魔童"
+    "孙泰的魔童",
+    "魔重",
+    "尸阴宝鉴第一百七十一号肉身",
+    "炎冰中的童子",
+    "红色冰块内的魔童",
+    "九黎雾气内的童子"
   ],
   "summary": "孙泰以红色棺材封存的童子，被拍碎棺木唤醒；速度远超瞬移，一掌打出巨魔族老祖元神并踏毁其肉身，随后追杀其元神。",
   "attributes": {
-    "外貌": "童子之身，双目妖异之光",
-    "身份": "孙泰的魔童",
+    "外貌": "童子",
+    "身份": "被司徒南进入体内的肉身载体",
     "存殁": "存活",
     "标志特征": "一语不发、拳印直伤元神",
     "性格": "沉默、执着追击"
@@ -21,6 +26,11 @@
         "value": "童子之身，双目妖异之光",
         "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
         "seq": 346
+      },
+      {
+        "value": "童子",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
       }
     ],
     "身份": [
@@ -33,6 +43,12 @@
         "value": "孙泰的魔童",
         "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
         "seq": 356
+      },
+      {
+        "value": "被司徒南进入体内的肉身载体",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405,
+        "note": "本片段"
       }
     ],
     "存殁": [
@@ -66,15 +82,16 @@
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
       "dated": false,
-      "seq": 346
+      "seq": 405
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
       "dated": false,
-      "seq": 356
+      "seq": 405,
+      "note": "本片段"
     },
     "存殁": {
       "asOf": null,
@@ -99,7 +116,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
-    "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo"
+    "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+    "plot.xianni-ch427-ancestral-spirit-tree"
   ],
-  "updatedAt": "2026-08-08T16:24:14.272Z"
+  "updatedAt": "2026-08-17T19:16:48.613Z"
 }

@@ -9,11 +9,13 @@
   "summary": "仙遗族五祖，灰衣中年男子，全身几无符文印记，惟左脸颊有一枚闪紫光的紫色树叶烙印；主持朱雀大陆东部黑雾中的祖灵树大阵，誓灭朱雀国，并与尸阴宗司马长老会面。",
   "attributes": {
     "种族": "仙遗族",
-    "身份": "仙遗族五祖",
+    "身份": "仙遗族老祖",
     "外貌": "灰衣中年男子",
     "标志特征": "左脸颊紫色树叶烙印，时而闪烁紫光；全身几无符文印记",
-    "性格": "冷静、独断、冷峻、沉稳",
-    "存殁": "在世"
+    "性格": "冷静、独断、冷峻、沉稳、冷淡",
+    "存殁": "在世",
+    "小阶段": "九叶",
+    "阵营": "仙遗族"
   },
   "observations": {
     "种族": [
@@ -28,6 +30,11 @@
         "value": "仙遗族五祖",
         "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
         "seq": 401
+      },
+      {
+        "value": "仙遗族老祖",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
       }
     ],
     "外貌": [
@@ -54,6 +61,11 @@
         "value": "冷峻、沉稳",
         "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
         "seq": 401
+      },
+      {
+        "value": "冷淡",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
       }
     ],
     "存殁": [
@@ -61,6 +73,20 @@
         "value": "在世",
         "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
         "seq": 401
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "九叶",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
+      }
+    ],
+    "阵营": [
+      {
+        "value": "仙遗族",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
       }
     ]
   },
@@ -74,9 +100,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
       "dated": false,
-      "seq": 401
+      "seq": 405
     },
     "外貌": {
       "asOf": null,
@@ -101,12 +127,25 @@
       "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
       "dated": false,
       "seq": 401
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "dated": false,
+      "seq": 405
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "dated": false,
+      "seq": 405
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul"
+    "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+    "plot.xianni-ch427-ancestral-spirit-tree"
   ],
-  "updatedAt": "2026-08-17T18:32:24.609Z"
+  "updatedAt": "2026-08-17T19:16:48.676Z"
 }

@@ -10,10 +10,11 @@
   "summary": "由一代朱雀子临终指认的第二代朱雀星之主，雄才大略、不打压五级修真国，执掌千年而修为为历代朱雀子之最，与炼魂宗问鼎初期老祖联手迎战四名域外问鼎后期修士后被追杀、下落不明。",
   "attributes": {
     "称号": "二代朱雀、朱雀星古往今来第一强者",
-    "身份": "第二代朱雀子（朱雀星之主）",
+    "身份": "朱雀国第二代之主",
     "性格": "桀骜、雄才大略",
     "存殁": "下落不明",
-    "结局": "被域外问鼎后期修士追杀后失踪"
+    "结局": "被域外问鼎后期修士追杀后失踪",
+    "阵营": "朱雀国"
   },
   "observations": {
     "称号": [
@@ -33,6 +34,11 @@
         "value": "第二代朱雀子（朱雀星之主）",
         "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
         "seq": 397
+      },
+      {
+        "value": "朱雀国第二代之主",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
       }
     ],
     "性格": [
@@ -56,6 +62,13 @@
         "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
         "seq": 397
       }
+    ],
+    "阵营": [
+      {
+        "value": "朱雀国",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
+      }
     ]
   },
   "firstSeq": 397,
@@ -68,9 +81,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
       "dated": false,
-      "seq": 397
+      "seq": 405
     },
     "性格": {
       "asOf": null,
@@ -90,12 +103,19 @@
       "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
       "dated": false,
       "seq": 397
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "dated": false,
+      "seq": 405
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419"
+    "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+    "plot.xianni-ch427-ancestral-spirit-tree"
   ],
-  "updatedAt": "2026-08-17T17:15:30.373Z"
+  "updatedAt": "2026-08-17T19:16:48.699Z"
 }

@@ -1,0 +1,52 @@
+{
+  "id": "ent.faction.x-1a358d4a",
+  "type": "faction",
+  "name": "秦国",
+  "aliases": [
+    "五级修真国秦国"
+  ],
+  "summary": "五级修真国，在仙遗族进攻中全部叛变。",
+  "attributes": {
+    "等级": "五级修真国",
+    "阵营": "叛投仙遗族"
+  },
+  "observations": {
+    "等级": [
+      {
+        "value": "五级修真国",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405
+      }
+    ],
+    "阵营": [
+      {
+        "value": "叛投仙遗族",
+        "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+        "seq": 405,
+        "note": "全部叛变"
+      }
+    ]
+  },
+  "firstSeq": 405,
+  "attrProvenance": {
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "dated": false,
+      "seq": 405
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "dated": false,
+      "seq": 405,
+      "note": "全部叛变"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.xianni-ch427-ancestral-spirit-tree"
+  ],
+  "updatedAt": "2026-08-17T19:16:48.680Z"
+}
