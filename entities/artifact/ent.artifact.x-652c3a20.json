@@ -11,12 +11,13 @@
     "普通画轴",
     "王林的画轴",
     "黑幕画轴",
-    "无法参透的画轴"
+    "无法参透的画轴",
+    "一点画轴"
   ],
   "summary": "两尺见长的黑色卷轴，本身只作封印之器，内封一只三角邪眼灵兽（咆哮不弱于蛟龙临死怒吼），故神识可烙印却无操控之感。",
   "attributes": {
-    "能力": "封印内中灵兽、散发令人恐怖的气息、内蕴令人心颤的神秘力量、现身即令七叶野人老者动作一顿、自行挣脱储物袋、吸收骸骨逸出的紫光",
-    "外形": "画轴，展开内为一片黑幕，吸收紫光后多出闪烁不定的紫色印记",
+    "能力": "封印内中灵兽、散发令人恐怖的气息、内蕴令人心颤的神秘力量、现身即令七叶野人老者动作一顿、自行挣脱储物袋、吸收骸骨逸出的紫光、威慑同源符文兽",
+    "外形": "黑幕中仅有一个紫色星点",
     "禁制": "王林始终无法参透、无法使用",
     "持有者": "王林",
     "来历": "数百年前无意所得；当年出现时令仙遗族驼背老者动容；当年只在一名结丹期修士手中"
@@ -52,6 +53,12 @@
         "value": "吸收骸骨逸出的紫光",
         "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
         "seq": 351
+      },
+      {
+        "value": "威慑同源符文兽",
+        "docId": "plot.xianni-ch432-ancestral-rune-skull",
+        "seq": 410,
+        "note": "王林始终无法操控此物"
       }
     ],
     "外形": [
@@ -69,6 +76,11 @@
         "value": "画轴，展开内为一片黑幕，吸收紫光后多出闪烁不定的紫色印记",
         "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
         "seq": 351
+      },
+      {
+        "value": "黑幕中仅有一个紫色星点",
+        "docId": "plot.xianni-ch432-ancestral-rune-skull",
+        "seq": 410
       }
     ],
     "禁制": [
@@ -135,9 +147,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+      "docId": "plot.xianni-ch432-ancestral-rune-skull",
       "dated": false,
-      "seq": 351
+      "seq": 410
     },
     "禁制": {
       "asOf": null,
@@ -167,7 +179,8 @@
     "plot.xianni-ch289-ancient-god-sacrifice-treasure",
     "plot.xianni-ch347-xianyi-zu",
     "plot.xianni-ch352-fu-kui-space-rift-flight",
-    "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north"
+    "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+    "plot.xianni-ch432-ancestral-rune-skull"
   ],
-  "updatedAt": "2026-08-08T15:56:06.575Z"
+  "updatedAt": "2026-08-17T19:46:41.431Z"
 }

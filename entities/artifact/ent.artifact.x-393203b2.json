@@ -9,9 +9,10 @@
   ],
   "summary": "巨魔族先祖遗留之物，封于巨魔族极东之地最高峰内，老祖跪拜求取后山峰一分为二，闪烁红光的巨斧缓缓升空。",
   "attributes": {
-    "来历": "巨魔族先祖遗留",
-    "外形": "闪烁红光的巨大斧头",
-    "禁制": "封存于最高山峰之中，需族人跪拜请取"
+    "来历": "巨魔族先祖的武器",
+    "外形": "巨斧",
+    "禁制": "封存于最高山峰之中，需族人跪拜请取",
+    "持有者": "王林"
   },
   "observations": {
     "来历": [
@@ -19,6 +20,11 @@
         "value": "巨魔族先祖遗留",
         "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
         "seq": 377
+      },
+      {
+        "value": "巨魔族先祖的武器",
+        "docId": "plot.xianni-ch432-ancestral-rune-skull",
+        "seq": 410
       }
     ],
     "外形": [
@@ -26,6 +32,11 @@
         "value": "闪烁红光的巨大斧头",
         "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
         "seq": 377
+      },
+      {
+        "value": "巨斧",
+        "docId": "plot.xianni-ch432-ancestral-rune-skull",
+        "seq": 410
       }
     ],
     "禁制": [
@@ -34,33 +45,47 @@
         "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
         "seq": 377
       }
+    ],
+    "持有者": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch432-ancestral-rune-skull",
+        "seq": 410
+      }
     ]
   },
   "firstSeq": 377,
   "attrProvenance": {
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+      "docId": "plot.xianni-ch432-ancestral-rune-skull",
       "dated": false,
-      "seq": 377
+      "seq": 410
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+      "docId": "plot.xianni-ch432-ancestral-rune-skull",
       "dated": false,
-      "seq": 377
+      "seq": 410
     },
     "禁制": {
       "asOf": null,
       "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
       "dated": false,
       "seq": 377
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.xianni-ch432-ancestral-rune-skull",
+      "dated": false,
+      "seq": 410
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays"
+    "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+    "plot.xianni-ch432-ancestral-rune-skull"
   ],
-  "updatedAt": "2026-08-15T10:50:33.955Z"
+  "updatedAt": "2026-08-17T19:46:41.479Z"
 }

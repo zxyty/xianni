@@ -4,14 +4,20 @@
   "name": "八叶术咒师",
   "aliases": [
     "三名八叶老者",
-    "八叶驼背老者同阶老者"
+    "八叶驼背老者同阶老者",
+    "五祖身边的八叶术咒师",
+    "仙遗族八叶长老",
+    "八叶咒师"
   ],
   "summary": "随侍五祖的三名仙遗族老者，气息与当年追杀王林的八叶驼背老者一模一样。",
   "attributes": {
     "种族": "仙遗族",
-    "身份": "八叶术咒师",
+    "身份": "八叶术咒师、五祖大人身边的八叶术咒师、仙遗族长老",
     "外貌": "老者",
-    "存殁": "在世"
+    "存殁": "死亡",
+    "标志特征": "额头可放出祖符；头骨上烙有破损黑色祖符符号；体内无魂魄、头骨刻有符文",
+    "死因": "被王林以蕴含仙力的仙剑剑芒击碎祖符后斩首，头颅经幽火炼化只余头骨、被王林以尊魂幡魂魄轰毁轮回树后震杀",
+    "结局": "身死，头骨被王林取走"
   },
   "observations": {
     "种族": [
@@ -26,6 +32,16 @@
         "value": "八叶术咒师",
         "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
         "seq": 401
+      },
+      {
+        "value": "五祖大人身边的八叶术咒师",
+        "docId": "plot.xianni-ch432-ancestral-rune-skull",
+        "seq": 410
+      },
+      {
+        "value": "仙遗族长老",
+        "docId": "plot.xianni-ch432-ancestral-rune-skull",
+        "seq": 410
       }
     ],
     "外貌": [
@@ -40,6 +56,43 @@
         "value": "在世",
         "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
         "seq": 401
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch432-ancestral-rune-skull",
+        "seq": 410,
+        "note": "第五、六层共六名疗伤者于第433章被王林所杀"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "额头可放出祖符；头骨上烙有破损黑色祖符符号；体内无魂魄",
+        "docId": "plot.xianni-ch432-ancestral-rune-skull",
+        "seq": 410
+      },
+      {
+        "value": "头骨刻有符文",
+        "docId": "plot.xianni-ch432-ancestral-rune-skull",
+        "seq": 410
+      }
+    ],
+    "死因": [
+      {
+        "value": "被王林以蕴含仙力的仙剑剑芒击碎祖符后斩首，头颅经幽火炼化只余头骨",
+        "docId": "plot.xianni-ch432-ancestral-rune-skull",
+        "seq": 410
+      },
+      {
+        "value": "被王林以尊魂幡魂魄轰毁轮回树后震杀",
+        "docId": "plot.xianni-ch432-ancestral-rune-skull",
+        "seq": 410
+      }
+    ],
+    "结局": [
+      {
+        "value": "身死，头骨被王林取走",
+        "docId": "plot.xianni-ch432-ancestral-rune-skull",
+        "seq": 410
       }
     ]
   },
@@ -65,15 +118,35 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+      "docId": "plot.xianni-ch432-ancestral-rune-skull",
       "dated": false,
-      "seq": 401
+      "seq": 410,
+      "note": "第五、六层共六名疗伤者于第433章被王林所杀"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch432-ancestral-rune-skull",
+      "dated": false,
+      "seq": 410
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch432-ancestral-rune-skull",
+      "dated": false,
+      "seq": 410
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch432-ancestral-rune-skull",
+      "dated": false,
+      "seq": 410
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul"
+    "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+    "plot.xianni-ch432-ancestral-rune-skull"
   ],
-  "updatedAt": "2026-08-17T18:32:24.525Z"
+  "updatedAt": "2026-08-17T19:46:41.371Z"
 }

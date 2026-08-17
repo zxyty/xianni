@@ -5,11 +5,12 @@
   "aliases": [
     "符文",
     "仙遗族符文之力",
-    "叶数符文"
+    "叶数符文",
+    "符文力量"
   ],
   "summary": "仙遗族野人所修的力量体系，以『叶』计等阶（四叶约相当于元婴期，五叶为更高标准），可直接冲击禁制。",
   "attributes": {
-    "效果": "轰击破除禁制",
+    "效果": "轰击破除禁制、吸收妖兽而威、可由头骨符文逼出获取、以符文化生巨兽、构成仙遗族力量本源",
     "适用境界": "以叶数分阶（四叶≈元婴期，五叶更高）",
     "出处": "仙遗族"
   },
@@ -19,6 +20,26 @@
         "value": "轰击破除禁制",
         "docId": "plot.xianni-ch347-xianyi-zu",
         "seq": 327
+      },
+      {
+        "value": "吸收妖兽而威",
+        "docId": "plot.xianni-ch432-ancestral-rune-skull",
+        "seq": 410
+      },
+      {
+        "value": "可由头骨符文逼出获取",
+        "docId": "plot.xianni-ch432-ancestral-rune-skull",
+        "seq": 410
+      },
+      {
+        "value": "以符文化生巨兽",
+        "docId": "plot.xianni-ch432-ancestral-rune-skull",
+        "seq": 410
+      },
+      {
+        "value": "构成仙遗族力量本源",
+        "docId": "plot.xianni-ch432-ancestral-rune-skull",
+        "seq": 410
       }
     ],
     "适用境界": [
@@ -60,7 +81,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch347-xianyi-zu"
+    "plot.xianni-ch347-xianyi-zu",
+    "plot.xianni-ch432-ancestral-rune-skull"
   ],
-  "updatedAt": "2026-08-08T10:30:36.409Z"
+  "updatedAt": "2026-08-17T19:46:41.439Z"
 }

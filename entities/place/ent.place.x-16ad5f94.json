@@ -6,8 +6,9 @@
   "summary": "黑暗一片，野人多为一叶，入口通往第二层者位于其东部。",
   "attributes": {
     "上级区域": "仙遗之地",
-    "类型": "秘境层",
-    "危险度": "中"
+    "类型": "秘境分层",
+    "危险度": "中",
+    "方位": "最外层"
   },
   "observations": {
     "上级区域": [
@@ -22,6 +23,11 @@
         "value": "秘境层",
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
+      },
+      {
+        "value": "秘境分层",
+        "docId": "plot.xianni-ch432-ancestral-rune-skull",
+        "seq": 410
       }
     ],
     "危险度": [
@@ -29,6 +35,13 @@
         "value": "中",
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
+      }
+    ],
+    "方位": [
+      {
+        "value": "最外层",
+        "docId": "plot.xianni-ch432-ancestral-rune-skull",
+        "seq": 410
       }
     ]
   },
@@ -42,21 +55,28 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+      "docId": "plot.xianni-ch432-ancestral-rune-skull",
       "dated": false,
-      "seq": 322
+      "seq": 410
     },
     "危险度": {
       "asOf": null,
       "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
       "dated": false,
       "seq": 322
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch432-ancestral-rune-skull",
+      "dated": false,
+      "seq": 410
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree"
+    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+    "plot.xianni-ch432-ancestral-rune-skull"
   ],
-  "updatedAt": "2026-08-08T10:00:26.357Z"
+  "updatedAt": "2026-08-17T19:46:41.427Z"
 }

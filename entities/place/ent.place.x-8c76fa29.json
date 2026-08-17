@@ -4,12 +4,17 @@
   "name": "碎片空间第四层",
   "aliases": [
     "第四层",
-    "第四层碎片"
+    "第四层碎片",
+    "祖巢第四层",
+    "轮回树所在层"
   ],
   "summary": "王林由地面深坑下沉抵达之层；虽崩溃终将波及所有碎片，此刻被王林判断为最安全之处，其前方有光亮。",
   "attributes": {
     "方位": "第三层之下",
-    "危险度": "此刻最安全"
+    "危险度": "此刻最安全",
+    "所属势力": "仙遗族",
+    "类型": "分层空间",
+    "守护": "六叶术咒师与疗伤中的八叶术咒师"
   },
   "observations": {
     "方位": [
@@ -25,6 +30,27 @@
         "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
         "seq": 299,
         "note": "第317章王林判断"
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "仙遗族",
+        "docId": "plot.xianni-ch432-ancestral-rune-skull",
+        "seq": 410
+      }
+    ],
+    "类型": [
+      {
+        "value": "分层空间",
+        "docId": "plot.xianni-ch432-ancestral-rune-skull",
+        "seq": 410
+      }
+    ],
+    "守护": [
+      {
+        "value": "六叶术咒师与疗伤中的八叶术咒师",
+        "docId": "plot.xianni-ch432-ancestral-rune-skull",
+        "seq": 410
       }
     ]
   },
@@ -42,12 +68,31 @@
       "dated": false,
       "seq": 299,
       "note": "第317章王林判断"
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch432-ancestral-rune-skull",
+      "dated": false,
+      "seq": 410
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-ch432-ancestral-rune-skull",
+      "dated": false,
+      "seq": 410
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch432-ancestral-rune-skull",
+      "dated": false,
+      "seq": 410
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet"
+    "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
+    "plot.xianni-ch432-ancestral-rune-skull"
   ],
-  "updatedAt": "2026-08-08T05:08:08.083Z"
+  "updatedAt": "2026-08-17T19:46:41.349Z"
 }

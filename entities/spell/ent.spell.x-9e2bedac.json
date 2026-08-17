@@ -5,14 +5,16 @@
   "aliases": [
     "巨魔族的通天之术",
     "古神神通",
-    "金光巨人神通"
+    "金光巨人神通",
+    "古神之力神通"
   ],
   "summary": "无需古神之力、仅凭血液即可发动的古神/巨魔族神通，召唤灵力巨人虚影，耗损赵国灵脉，将目标无声抹杀。",
   "attributes": {
     "类型": "巨魔族神通",
     "威力": "召金光巨人、笼罩一国、恐怖",
     "消耗": "灵力疯狂消耗",
-    "出处": "巨魔族"
+    "出处": "巨魔族",
+    "适用境界": "本尊施展"
   },
   "observations": {
     "类型": [
@@ -62,6 +64,14 @@
         "docId": "plot.xianni-ch231-234-xieyi-nanzi",
         "seq": 231
       }
+    ],
+    "适用境界": [
+      {
+        "value": "本尊施展",
+        "docId": "plot.xianni-ch432-ancestral-rune-skull",
+        "seq": 410,
+        "note": "本片段"
+      }
     ]
   },
   "firstSeq": 226,
@@ -89,13 +99,21 @@
       "docId": "plot.xianni-ch231-234-xieyi-nanzi",
       "dated": false,
       "seq": 231
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-ch432-ancestral-rune-skull",
+      "dated": false,
+      "seq": 410,
+      "note": "本片段"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch242-punanzi",
-    "plot.xianni-ch231-234-xieyi-nanzi"
+    "plot.xianni-ch231-234-xieyi-nanzi",
+    "plot.xianni-ch432-ancestral-rune-skull"
   ],
-  "updatedAt": "2026-07-23T05:08:47.992Z"
+  "updatedAt": "2026-08-17T19:46:41.482Z"
 }

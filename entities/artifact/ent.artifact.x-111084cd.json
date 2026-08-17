@@ -4,14 +4,16 @@
   "name": "祖符",
   "aliases": [
     "仙遗族祖符",
-    "五祖祖符"
+    "五祖祖符",
+    "祖符符文",
+    "破损黑色符号"
   ],
   "summary": "手掌大小、纹路极为复杂的符文，蕴含开天辟地般的洪荒之气，为五祖达到九叶后完善而成，本章交予尸阴宗司马长老。",
   "attributes": {
-    "外形": "手掌大小的复杂符文",
-    "来历": "五祖达到九叶后完善而成",
-    "持有者": "尸阴宗司马长老",
-    "能力": "蕴含开天辟地时的一点洪荒之气"
+    "外形": "极为复杂、散发沧桑气息的符文；破损黑色符号",
+    "来历": "仙遗族术咒师所持，烙印于其头骨之上",
+    "持有者": "八叶术咒师",
+    "能力": "蕴含开天辟地时的一点洪荒之气、阻挡蕴含仙力的攻击、传出浩淼之力迟滞对手"
   },
   "observations": {
     "外形": [
@@ -19,6 +21,11 @@
         "value": "手掌大小的复杂符文",
         "docId": "plot.xianni-ch427-ancestral-spirit-tree",
         "seq": 405
+      },
+      {
+        "value": "极为复杂、散发沧桑气息的符文；破损黑色符号",
+        "docId": "plot.xianni-ch432-ancestral-rune-skull",
+        "seq": 410
       }
     ],
     "来历": [
@@ -26,6 +33,11 @@
         "value": "五祖达到九叶后完善而成",
         "docId": "plot.xianni-ch427-ancestral-spirit-tree",
         "seq": 405
+      },
+      {
+        "value": "仙遗族术咒师所持，烙印于其头骨之上",
+        "docId": "plot.xianni-ch432-ancestral-rune-skull",
+        "seq": 410
       }
     ],
     "持有者": [
@@ -34,6 +46,11 @@
         "docId": "plot.xianni-ch427-ancestral-spirit-tree",
         "seq": 405,
         "note": "本章由五祖依协议交付"
+      },
+      {
+        "value": "八叶术咒师",
+        "docId": "plot.xianni-ch432-ancestral-rune-skull",
+        "seq": 410
       }
     ],
     "能力": [
@@ -41,6 +58,16 @@
         "value": "蕴含开天辟地时的一点洪荒之气",
         "docId": "plot.xianni-ch427-ancestral-spirit-tree",
         "seq": 405
+      },
+      {
+        "value": "阻挡蕴含仙力的攻击",
+        "docId": "plot.xianni-ch432-ancestral-rune-skull",
+        "seq": 410
+      },
+      {
+        "value": "传出浩淼之力迟滞对手",
+        "docId": "plot.xianni-ch432-ancestral-rune-skull",
+        "seq": 410
       }
     ]
   },
@@ -48,22 +75,21 @@
   "attrProvenance": {
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "docId": "plot.xianni-ch432-ancestral-rune-skull",
       "dated": false,
-      "seq": 405
+      "seq": 410
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "docId": "plot.xianni-ch432-ancestral-rune-skull",
       "dated": false,
-      "seq": 405
+      "seq": 410
     },
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "docId": "plot.xianni-ch432-ancestral-rune-skull",
       "dated": false,
-      "seq": 405,
-      "note": "本章由五祖依协议交付"
+      "seq": 410
     },
     "能力": {
       "asOf": null,
@@ -75,7 +101,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch427-ancestral-spirit-tree"
+    "plot.xianni-ch427-ancestral-spirit-tree",
+    "plot.xianni-ch432-ancestral-rune-skull"
   ],
-  "updatedAt": "2026-08-17T19:16:48.541Z"
+  "updatedAt": "2026-08-17T19:46:41.341Z"
 }

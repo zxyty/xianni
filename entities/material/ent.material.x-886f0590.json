@@ -4,12 +4,13 @@
   "name": "下品灵石",
   "aliases": [
     "灵石",
-    "下品灵石碎片"
+    "下品灵石碎片",
+    "修士货币灵石"
   ],
   "summary": "修仙资源，孙大柱以一块下品灵石作为'再交一个灵气葫芦'的诱饵；有助凝气修炼。",
   "attributes": {
-    "类型": "灵石、修炼资源、修炼辅助灵石",
-    "用途": "修炼/兑换"
+    "类型": "灵石、修炼资源、修炼辅助灵石、灵力载体/货币",
+    "用途": "修士间货币与灵力补给"
   },
   "observations": {
     "类型": [
@@ -27,6 +28,11 @@
         "value": "修炼辅助灵石",
         "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
         "seq": 19
+      },
+      {
+        "value": "灵力载体/货币",
+        "docId": "plot.xianni-ch432-ancestral-rune-skull",
+        "seq": 410
       }
     ],
     "用途": [
@@ -39,6 +45,11 @@
         "value": "修炼/兑换",
         "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
         "seq": 19
+      },
+      {
+        "value": "修士间货币与灵力补给",
+        "docId": "plot.xianni-ch432-ancestral-rune-skull",
+        "seq": 410
       }
     ]
   },
@@ -52,16 +63,17 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+      "docId": "plot.xianni-ch432-ancestral-rune-skull",
       "dated": false,
-      "seq": 19
+      "seq": 410
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
-    "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling"
+    "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
+    "plot.xianni-ch432-ancestral-rune-skull"
   ],
-  "updatedAt": "2026-06-22T11:33:50.332Z"
+  "updatedAt": "2026-08-17T19:46:41.414Z"
 }
