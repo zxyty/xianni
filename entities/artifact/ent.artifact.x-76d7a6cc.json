@@ -5,12 +5,16 @@
   "aliases": [
     "巨大红色葫芦",
     "老者腰间红葫芦",
-    "周佚的红葫芦"
+    "周佚的红葫芦",
+    "朱雀子的葫芦",
+    "收剑葫芦"
   ],
   "summary": "灰布老者腰上别着的巨大红色葫芦，本章仅现其形未见其用。",
   "attributes": {
-    "持有者": "周佚",
-    "外形": "红色葫芦"
+    "持有者": "朱雀子",
+    "外形": "红色葫芦",
+    "能力": "喝『收』字强行收摄飞剑",
+    "禁制": "被五把仙力飞剑撑裂"
   },
   "observations": {
     "持有者": [
@@ -23,6 +27,11 @@
         "value": "周佚",
         "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
         "seq": 294
+      },
+      {
+        "value": "朱雀子",
+        "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+        "seq": 397
       }
     ],
     "外形": [
@@ -36,28 +45,57 @@
         "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
         "seq": 294
       }
+    ],
+    "能力": [
+      {
+        "value": "喝『收』字强行收摄飞剑",
+        "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+        "seq": 397
+      }
+    ],
+    "禁制": [
+      {
+        "value": "被五把仙力飞剑撑裂",
+        "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+        "seq": 397,
+        "note": "第422章当场崩碎失效"
+      }
     ]
   },
   "firstSeq": 273,
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+      "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
       "dated": false,
-      "seq": 294
+      "seq": 397
     },
     "外形": {
       "asOf": null,
       "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
       "dated": false,
       "seq": 294
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+      "dated": false,
+      "seq": 397
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+      "dated": false,
+      "seq": 397,
+      "note": "第422章当场崩碎失效"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch289-ancient-god-sacrifice-treasure",
-    "plot.xianni-ch294-298-void-voyage-first-fairy-fragment"
+    "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+    "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419"
   ],
-  "updatedAt": "2026-08-08T04:38:19.264Z"
+  "updatedAt": "2026-08-17T17:15:30.472Z"
 }

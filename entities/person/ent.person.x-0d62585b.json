@@ -3,13 +3,17 @@
   "type": "person",
   "name": "纳多",
   "aliases": [
-    "Naduo"
+    "Naduo",
+    "域外修士纳多"
   ],
   "summary": "来自其母星的强者，当前仅恢复三成修为（约婴变初期），欲夺回储物袋并偷袭王林，因见其极境而止杀，透露修星之晶可突破极境极限后乘星罗盘离去。",
   "attributes": {
     "小阶段": "婴变初期",
-    "出身地": "五行星（自称可去其母星五行星找他）",
-    "标志特征": "邪异青年外貌，双目射五彩光"
+    "出身地": "五行星",
+    "标志特征": "邪异青年外貌，双目射五彩光",
+    "身份": "域外修士",
+    "寿元": "存活数万年",
+    "称号": "老怪物"
   },
   "observations": {
     "小阶段": [
@@ -25,6 +29,11 @@
         "value": "五行星（自称可去其母星五行星找他）",
         "docId": "plot.xianni-ch231-234-xieyi-nanzi",
         "seq": 231
+      },
+      {
+        "value": "五行星",
+        "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+        "seq": 397
       }
     ],
     "标志特征": [
@@ -32,6 +41,28 @@
         "value": "邪异青年外貌，双目射五彩光",
         "docId": "plot.xianni-ch231-234-xieyi-nanzi",
         "seq": 231
+      }
+    ],
+    "身份": [
+      {
+        "value": "域外修士",
+        "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+        "seq": 397
+      }
+    ],
+    "寿元": [
+      {
+        "value": "存活数万年",
+        "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+        "seq": 397,
+        "note": "遁天推测"
+      }
+    ],
+    "称号": [
+      {
+        "value": "老怪物",
+        "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+        "seq": 397
       }
     ]
   },
@@ -46,21 +77,41 @@
     },
     "出身地": {
       "asOf": null,
-      "docId": "plot.xianni-ch231-234-xieyi-nanzi",
+      "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
       "dated": false,
-      "seq": 231
+      "seq": 397
     },
     "标志特征": {
       "asOf": null,
       "docId": "plot.xianni-ch231-234-xieyi-nanzi",
       "dated": false,
       "seq": 231
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+      "dated": false,
+      "seq": 397
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+      "dated": false,
+      "seq": 397,
+      "note": "遁天推测"
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+      "dated": false,
+      "seq": 397
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch231-234-xieyi-nanzi"
+    "plot.xianni-ch231-234-xieyi-nanzi",
+    "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419"
   ],
-  "updatedAt": "2026-07-23T05:08:48.025Z"
+  "updatedAt": "2026-08-17T17:15:30.400Z"
 }

@@ -5,16 +5,20 @@
   "aliases": [
     "Zhuque Continent",
     "朱雀大陆本土",
-    "Zhu Que Continent"
+    "Zhu Que Continent",
+    "朱雀星朱雀大陆",
+    "朱雀大陆北部边缘",
+    "朱雀大陆青幕之地"
   ],
   "summary": "朱雀星最大的一块陆地，其上仅有四个修真国：中心的朱雀国（占二分之一）与青龙、千幻、毗卢三个五级修真国。",
   "attributes": {
     "所属界面": "朱雀星",
     "类型": "大陆",
-    "规模": "朱雀星最大陆地",
+    "规模": "以整个大陆为包围，每万里内有一阵眼",
     "上级区域": "朱雀星",
     "所属势力": "朱雀国",
-    "方位": "朱雀星域内"
+    "方位": "朱雀星域内",
+    "守护": "朱雀阵"
   },
   "observations": {
     "所属界面": [
@@ -36,6 +40,11 @@
         "value": "朱雀星最大陆地",
         "docId": "plot.xianni-ch361-zhuque-guo-arrival",
         "seq": 341
+      },
+      {
+        "value": "以整个大陆为包围，每万里内有一阵眼",
+        "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+        "seq": 397
       }
     ],
     "上级区域": [
@@ -58,6 +67,13 @@
         "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
         "seq": 351
       }
+    ],
+    "守护": [
+      {
+        "value": "朱雀阵",
+        "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+        "seq": 397
+      }
     ]
   },
   "firstSeq": 341,
@@ -76,9 +92,9 @@
     },
     "规模": {
       "asOf": null,
-      "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+      "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
       "dated": false,
-      "seq": 341
+      "seq": 397
     },
     "上级区域": {
       "asOf": null,
@@ -97,6 +113,12 @@
       "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
       "dated": false,
       "seq": 351
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+      "dated": false,
+      "seq": 397
     }
   },
   "contested": false,
@@ -105,7 +127,8 @@
     "plot.xianni-ch361-zhuque-guo-arrival",
     "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
     "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms",
-    "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics"
+    "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+    "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419"
   ],
-  "updatedAt": "2026-08-17T16:51:11.886Z"
+  "updatedAt": "2026-08-17T17:15:30.429Z"
 }

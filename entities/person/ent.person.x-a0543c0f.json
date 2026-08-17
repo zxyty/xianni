@@ -6,16 +6,19 @@
     "炼魂宗第三十六个婴变修士",
     "预知意境修士",
     "遁天的师兄",
-    "炼魂宗神算师兄"
+    "炼魂宗神算师兄",
+    "慈眉善目的主魂",
+    "炼魂宗师兄主魂"
   ],
   "summary": "遁天的师兄，炼魂宗第三十六个婴变修士。意境为「预知」，无任何攻击性却是朱雀星唯一。两年前放弃百年寿元全力催发意境为宗门寻路，失败而亡；其死亡瞬间恰是王林抵达炼魂宗山门之刻。",
   "attributes": {
-    "小阶段": "婴变期",
+    "小阶段": "婴变",
     "称号": "第三十六个炼魂宗婴变修士",
-    "标志特征": "神算/推算",
+    "标志特征": "慈眉善目、仙风道骨",
     "存殁": "死亡",
     "死因": "放弃百年寿元全力催发预知意境，寿元断绝而亡",
-    "身份": "炼魂宗前辈"
+    "身份": "炼魂宗前辈",
+    "结局": "抹去神智成为尊魂幡主魂"
   },
   "observations": {
     "小阶段": [
@@ -23,6 +26,11 @@
         "value": "婴变期",
         "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
         "seq": 368
+      },
+      {
+        "value": "婴变",
+        "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+        "seq": 397
       }
     ],
     "称号": [
@@ -42,6 +50,11 @@
         "value": "神算/推算",
         "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
         "seq": 392
+      },
+      {
+        "value": "慈眉善目、仙风道骨",
+        "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+        "seq": 397
       }
     ],
     "存殁": [
@@ -65,15 +78,22 @@
         "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
         "seq": 392
       }
+    ],
+    "结局": [
+      {
+        "value": "抹去神智成为尊魂幡主魂",
+        "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+        "seq": 397
+      }
     ]
   },
   "firstSeq": 368,
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
+      "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
       "dated": false,
-      "seq": 368
+      "seq": 397
     },
     "称号": {
       "asOf": null,
@@ -83,9 +103,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+      "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
       "dated": false,
-      "seq": 392
+      "seq": 397
     },
     "存殁": {
       "asOf": null,
@@ -105,13 +125,20 @@
       "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
       "dated": false,
       "seq": 392
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+      "dated": false,
+      "seq": 397
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch368-372-three-great-gifts-dun-tian",
-    "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics"
+    "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+    "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419"
   ],
-  "updatedAt": "2026-08-17T16:51:11.905Z"
+  "updatedAt": "2026-08-17T17:15:30.444Z"
 }

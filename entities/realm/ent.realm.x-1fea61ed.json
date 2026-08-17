@@ -15,11 +15,11 @@
   "attributes": {
     "上一境": "问鼎",
     "阶序": "元婴之上、化神之下、化神之上、高于化神，低于问鼎",
-    "突破关键": "元婴变异增大、玄天魔欲诀炼化全部六道先天欲念、星罗盘使用最低标准、正常修炼，或以灌顶大礼速成（有重大代价）、王林视其为唤醒司徒南、谋取修星之晶的前提、道心圆满无瑕、吸收仙界之气、领悟意境、吸纳仙气、化神后期为基础、大量仙玉助力、化神后期大圆满服用轮回果，成功率+30%以上、体内灵力全部转化为仙气、仙气、远超化神层次的意境体悟、仙力、感悟天道、与婴变修士战斗以获体悟、仙力的凝聚程度、达此境方可突破罡风踏入星空（另需星罗盘）、生死意境大圆满并突破化神、仙玉充足（仙气浓）、意境圆满、对天道的领悟、海量仙玉之仙力；灵力或被挤出溃散，或被炼化至与仙力同质、仙玉足够、大量仙玉、大量仙玉（炼仙化气、凝骨褪肉之后）、灵力与仙力的交融、以仙力凝化身体骨肉经脉、消耗大量仙玉、驾驭仙力",
+    "突破关键": "元婴变异增大、玄天魔欲诀炼化全部六道先天欲念、星罗盘使用最低标准、正常修炼，或以灌顶大礼速成（有重大代价）、王林视其为唤醒司徒南、谋取修星之晶的前提、道心圆满无瑕、吸收仙界之气、领悟意境、吸纳仙气、化神后期为基础、大量仙玉助力、化神后期大圆满服用轮回果，成功率+30%以上、体内灵力全部转化为仙气、仙气、远超化神层次的意境体悟、仙力、感悟天道、与婴变修士战斗以获体悟、仙力的凝聚程度、达此境方可突破罡风踏入星空（另需星罗盘）、生死意境大圆满并突破化神、仙玉充足（仙气浓）、意境圆满、对天道的领悟、海量仙玉之仙力；灵力或被挤出溃散，或被炼化至与仙力同质、仙玉足够、大量仙玉、大量仙玉（炼仙化气、凝骨褪肉之后）、灵力与仙力的交融、以仙力凝化身体骨肉经脉、消耗大量仙玉、驾驭仙力、以仙玉去凡根、夺胎换骨成仙体、元神凝实后与肉身归一",
     "下一境": "问鼎",
-    "小阶段": "婴变初期、婴变中期、婴变后期、初期、婴变初期/中期/后期、婴变期、大圆满、中期、后期",
+    "小阶段": "婴变初期、婴变中期、婴变后期、初期、婴变初期/中期/后期、婴变期、大圆满、中期、后期、第一步肉身凝化 / 第二步元神凝练",
     "寿元": "一百年",
-    "突破征兆": "头发无风自动，仙气浓郁无数倍，磅礴威压外溢"
+    "突破征兆": "体内出现一丝仙力运转、体内蕴含奇异之力（婴变标志）、头发无风自动，仙气浓郁无数倍，磅礴威压外溢、肉身透明如水晶、散发诱人异香引妖兽厉魂、元神被震出体外三尺"
   },
   "observations": {
     "上一境": [
@@ -232,6 +232,16 @@
         "value": "驾驭仙力",
         "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
         "seq": 392
+      },
+      {
+        "value": "以仙玉去凡根、夺胎换骨成仙体",
+        "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+        "seq": 397
+      },
+      {
+        "value": "元神凝实后与肉身归一",
+        "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+        "seq": 397
       }
     ],
     "下一境": [
@@ -301,6 +311,11 @@
         "value": "后期",
         "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
         "seq": 392
+      },
+      {
+        "value": "第一步肉身凝化 / 第二步元神凝练",
+        "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+        "seq": 397
       }
     ],
     "寿元": [
@@ -326,6 +341,21 @@
         "value": "头发无风自动，仙气浓郁无数倍，磅礴威压外溢",
         "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
         "seq": 392
+      },
+      {
+        "value": "肉身透明如水晶",
+        "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+        "seq": 397
+      },
+      {
+        "value": "散发诱人异香引妖兽厉魂",
+        "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+        "seq": 397
+      },
+      {
+        "value": "元神被震出体外三尺",
+        "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+        "seq": 397
       }
     ]
   },
@@ -370,9 +400,9 @@
     },
     "突破征兆": {
       "asOf": null,
-      "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+      "docId": "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms",
       "dated": false,
-      "seq": 392
+      "seq": 373
     }
   },
   "contested": false,
@@ -416,7 +446,8 @@
     "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
     "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
     "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
-    "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics"
+    "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+    "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419"
   ],
-  "updatedAt": "2026-08-17T16:51:12.004Z"
+  "updatedAt": "2026-08-17T17:15:30.453Z"
 }

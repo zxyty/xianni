@@ -8,9 +8,10 @@
   ],
   "summary": "炼魂宗山门大阵，开启后化作黑色魂雾，内似有无数冤魂野鬼、时有凄厉吼叫，宛如幽冥之境。",
   "attributes": {
-    "效果": "形成黑色魂雾、似有冤魂野鬼与凄厉吼叫、令毗卢国修士绕道而行、生成黑色魂雾护山、对尊魂幡自动让路",
+    "效果": "形成黑色魂雾、似有冤魂野鬼与凄厉吼叫、令毗卢国修士绕道而行、生成黑色魂雾护山、对尊魂幡自动让路、阻挡妖兽、不阻魂魄（经遁天操控）",
     "出处": "炼魂宗",
-    "破解法": "以十亿尊魂幡包身通行"
+    "破解法": "以十亿尊魂幡包身通行",
+    "布置者": "炼魂宗"
   },
   "observations": {
     "效果": [
@@ -38,6 +39,16 @@
         "value": "对尊魂幡自动让路",
         "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
         "seq": 392
+      },
+      {
+        "value": "阻挡妖兽",
+        "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+        "seq": 397
+      },
+      {
+        "value": "不阻魂魄（经遁天操控）",
+        "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+        "seq": 397
       }
     ],
     "出处": [
@@ -52,6 +63,13 @@
         "value": "以十亿尊魂幡包身通行",
         "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
         "seq": 392
+      }
+    ],
+    "布置者": [
+      {
+        "value": "炼魂宗",
+        "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+        "seq": 397
       }
     ]
   },
@@ -74,12 +92,19 @@
       "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
       "dated": false,
       "seq": 392
+    },
+    "布置者": {
+      "asOf": null,
+      "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+      "dated": false,
+      "seq": 397
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics"
+    "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+    "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419"
   ],
-  "updatedAt": "2026-08-17T16:51:11.910Z"
+  "updatedAt": "2026-08-17T17:15:30.452Z"
 }
