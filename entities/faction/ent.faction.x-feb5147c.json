@@ -3,14 +3,15 @@
   "type": "faction",
   "name": "恒岳派",
   "aliases": [
-    "Hengyue Sect"
+    "Hengyue Sect",
+    "匾岳派"
   ],
   "summary": "赵国修真门派，500年前曾统领赵国修真界、有数位元婴期老怪，今已衰落。",
   "attributes": {
     "等级": "已衰落的修真门派、记名/内门/二代/三代弟子体系、修仙门派、凝气—结丹层级门派、赵国大派(现没落)、结丹期为最高、修真门派",
     "所属界面": "朱雀星",
-    "据点": "恒岳派山门、恒岳派山峰、正院、五个副院、后山、丹房、恒岳峰、恒岳峰/恒岳派山门、恒岳山",
-    "理念": "外围弟子生死宗派不过问",
+    "据点": "恒岳派山门、恒岳派山峰、正院、五个副院、后山、丹房、恒岳峰、恒岳峰/恒岳派山门、恒岳山、象蛇山内部洞府",
+    "理念": "生于恒岳，死于恒岳",
     "镇派之宝": "紫岳仙剑",
     "掌门": "黄龙真人"
   },
@@ -115,6 +116,11 @@
         "value": "恒岳山",
         "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
         "seq": 268
+      },
+      {
+        "value": "象蛇山内部洞府",
+        "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+        "seq": 392
       }
     ],
     "理念": [
@@ -148,6 +154,11 @@
         "value": "外围弟子生死宗派不过问",
         "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
         "seq": 356
+      },
+      {
+        "value": "生于恒岳，死于恒岳",
+        "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+        "seq": 392
       }
     ],
     "镇派之宝": [
@@ -202,9 +213,9 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+      "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
       "dated": false,
-      "seq": 356
+      "seq": 392
     },
     "镇派之宝": {
       "asOf": null,
@@ -252,7 +263,8 @@
     "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
     "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
     "plot.xianni-ch380-lianhunzong-search",
-    "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman"
+    "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+    "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics"
   ],
-  "updatedAt": "2026-08-17T16:12:05.520Z"
+  "updatedAt": "2026-08-17T16:51:11.843Z"
 }

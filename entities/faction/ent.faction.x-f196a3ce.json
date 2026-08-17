@@ -3,13 +3,16 @@
   "type": "faction",
   "name": "豸魔道",
   "aliases": [
-    "豸魔道门派"
+    "豸魔道门派",
+    "Zhimo Dao"
   ],
   "summary": "毗卢国的修真门派，展空的出身师门；藏有被展空窃走的宝典，门内有化神初期、化神中期乃至化神后期修士，曾多次追杀叛徒展空并被其反杀多人。",
   "attributes": {
-    "所属界面": "朱雀星",
-    "据点": "毗卢国",
-    "镇派之宝": "宝典"
+    "所属界面": "毗卢国",
+    "据点": "毗卢国、毗卢国西部沼泽之地、毗卢国沼泽一带",
+    "镇派之宝": "宝典",
+    "理念": "弟子少同门情谊，多独自修炼、以虫修之术为门派功法",
+    "阵营": "魔道"
   },
   "observations": {
     "所属界面": [
@@ -17,6 +20,11 @@
         "value": "朱雀星",
         "docId": "plot.xianni-ch327-return-to-zhuque-star",
         "seq": 309
+      },
+      {
+        "value": "毗卢国",
+        "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+        "seq": 392
       }
     ],
     "据点": [
@@ -24,6 +32,16 @@
         "value": "毗卢国",
         "docId": "plot.xianni-ch327-return-to-zhuque-star",
         "seq": 309
+      },
+      {
+        "value": "毗卢国西部沼泽之地",
+        "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+        "seq": 392
+      },
+      {
+        "value": "毗卢国沼泽一带",
+        "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+        "seq": 392
       }
     ],
     "镇派之宝": [
@@ -33,15 +51,34 @@
         "seq": 309,
         "note": "被展空偷取"
       }
+    ],
+    "理念": [
+      {
+        "value": "弟子少同门情谊，多独自修炼",
+        "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+        "seq": 392
+      },
+      {
+        "value": "以虫修之术为门派功法",
+        "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+        "seq": 392
+      }
+    ],
+    "阵营": [
+      {
+        "value": "魔道",
+        "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+        "seq": 392
+      }
     ]
   },
   "firstSeq": 309,
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch327-return-to-zhuque-star",
+      "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
       "dated": false,
-      "seq": 309
+      "seq": 392
     },
     "据点": {
       "asOf": null,
@@ -55,12 +92,25 @@
       "dated": false,
       "seq": 309,
       "note": "被展空偷取"
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+      "dated": false,
+      "seq": 392
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+      "dated": false,
+      "seq": 392
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch327-return-to-zhuque-star"
+    "plot.xianni-ch327-return-to-zhuque-star",
+    "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics"
   ],
-  "updatedAt": "2026-08-08T06:22:47.733Z"
+  "updatedAt": "2026-08-17T16:51:11.951Z"
 }

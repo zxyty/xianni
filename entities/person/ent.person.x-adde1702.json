@@ -8,7 +8,8 @@
   "summary": "仙遗族少族长，与乾风共同签订三级/四级修真国相关协约。",
   "attributes": {
     "种族": "仙遗族",
-    "身份": "少族长"
+    "身份": "仙遗族少族长",
+    "阵营": "仙遗族"
   },
   "observations": {
     "种族": [
@@ -23,6 +24,18 @@
         "value": "少族长",
         "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
         "seq": 387
+      },
+      {
+        "value": "仙遗族少族长",
+        "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+        "seq": 392
+      }
+    ],
+    "阵营": [
+      {
+        "value": "仙遗族",
+        "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+        "seq": 392
       }
     ]
   },
@@ -36,15 +49,22 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+      "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
       "dated": false,
-      "seq": 387
+      "seq": 392
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+      "dated": false,
+      "seq": 392
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman"
+    "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+    "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics"
   ],
-  "updatedAt": "2026-08-17T16:12:05.516Z"
+  "updatedAt": "2026-08-17T16:51:11.994Z"
 }

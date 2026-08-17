@@ -98,3 +98,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-17T14:25:16.610Z** `ingest` plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power — 《仙逆》第701章：王林现身冉云星，力抗雷仙殿使者雷道子 · kind=plot asOf=2026-08-17 entities=57 relations=103 src=00661-00664.md
 - **2026-08-17T15:34:17.294Z** `ingest` plot.xianni-ch404-zhouru-limuwan-yuanying-conflict — 仙逆 第404章 周茹——魅惑残魂入魂幡与周茹排斥李慕婉元婴 · kind=plot asOf=2026-08-17 entities=78 relations=149 src=00382-00386.md
 - **2026-08-17T16:12:05.596Z** `ingest` plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman — 仙逆 第409章「道心」：周茹寻叔与王林生死意境大圆满、突破化神备战婴变 · kind=plot asOf=2026-08-17 entities=110 relations=231 src=00387-00391.md
+- **2026-08-17T16:51:12.082Z** `ingest` plot.xianni-ch414-zhaoguo-farewell-hengyue-relics — 仙逆 第414章 巨富：王林受尊赵国始祖、别赵国、重返恒岳派 · kind=plot asOf=2026-08-17 entities=118 relations=249 src=00392-00396.md

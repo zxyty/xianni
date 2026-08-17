@@ -7,15 +7,17 @@
     "门板飞剑",
     "巨富剑",
     "赵国最夸张的飞剑",
-    "Ju Fu"
+    "Ju Fu",
+    "金光大剑",
+    "梦中之剑"
   ],
   "summary": "500年前恒岳派师祖以渡金生铁打造的噱头「飞剑」，门板状、镶巨钻金穗，纯属充场面之物，被王林取走。",
   "attributes": {
-    "持有者": "王林",
-    "外形": "通体金光（表面涂金）、柄嵌两大晶石、金丝剑穗",
-    "来历": "恒岳派剑阁，由一位元婴期前辈遗留待有缘人",
+    "持有者": "恒岳派铸剑前辈",
+    "外形": "金光闪闪的大剑",
+    "来历": "恒岳派铸剑前辈以凡铁铸成、熔金涂抹而成",
     "禁制": "不得贩卖，否则逐出师门",
-    "能力": "材质为最普通生铁，晶石无任何灵力，纯为好看"
+    "能力": "材质为最普通生铁，晶石无任何灵力，纯为好看、内存一道剑诀、持之者心神融入剑内、曾一剑解恒岳派大劫"
   },
   "observations": {
     "持有者": [
@@ -23,6 +25,12 @@
         "value": "王林",
         "docId": "plot.xianni-ch37-42-sinian-guangban",
         "seq": 37
+      },
+      {
+        "value": "恒岳派铸剑前辈",
+        "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+        "seq": 392,
+        "note": "铸成时；其死后遗留待有缘弟子"
       }
     ],
     "外形": [
@@ -40,6 +48,11 @@
         "value": "通体金光（表面涂金）、柄嵌两大晶石、金丝剑穗",
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
+      },
+      {
+        "value": "金光闪闪的大剑",
+        "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+        "seq": 392
       }
     ],
     "来历": [
@@ -52,6 +65,11 @@
         "value": "恒岳派剑阁，由一位元婴期前辈遗留待有缘人",
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
+      },
+      {
+        "value": "恒岳派铸剑前辈以凡铁铸成、熔金涂抹而成",
+        "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+        "seq": 392
       }
     ],
     "禁制": [
@@ -66,6 +84,21 @@
         "value": "材质为最普通生铁，晶石无任何灵力，纯为好看",
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
+      },
+      {
+        "value": "内存一道剑诀",
+        "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+        "seq": 392
+      },
+      {
+        "value": "持之者心神融入剑内",
+        "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+        "seq": 392
+      },
+      {
+        "value": "曾一剑解恒岳派大劫",
+        "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+        "seq": 392
       }
     ]
   },
@@ -73,21 +106,22 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch37-42-sinian-guangban",
+      "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
       "dated": false,
-      "seq": 37
+      "seq": 392,
+      "note": "铸成时；其死后遗留待有缘弟子"
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+      "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
       "dated": false,
-      "seq": 322
+      "seq": 392
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+      "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
       "dated": false,
-      "seq": 322
+      "seq": 392
     },
     "禁制": {
       "asOf": null,
@@ -107,7 +141,8 @@
   "docs": [
     "plot.xianni-ch37-42-sinian-guangban",
     "plot.xianni-ch43-48-lishan-pilidan-shenshi",
-    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree"
+    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+    "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics"
   ],
-  "updatedAt": "2026-08-08T10:00:26.278Z"
+  "updatedAt": "2026-08-17T16:51:11.833Z"
 }

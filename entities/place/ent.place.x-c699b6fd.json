@@ -4,13 +4,16 @@
   "name": "朱雀星南面三级修真国",
   "aliases": [
     "三级修真国",
-    "朱雀星南面某处三级修真国"
+    "朱雀星南面某处三级修真国",
+    "被放弃的三级修真国"
   ],
   "summary": "位于朱雀星南面的三级修真国，国内设有域外战场传送阵，需由四级修真国公孙国使者前来开启域外通道。",
   "attributes": {
     "类型": "三级修真国",
     "方位": "朱雀星南面",
-    "上级区域": "朱雀星"
+    "上级区域": "朱雀星",
+    "所属界面": "朱雀星",
+    "所属势力": "朱雀方放弃"
   },
   "observations": {
     "类型": [
@@ -33,6 +36,21 @@
         "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
         "seq": 273
       }
+    ],
+    "所属界面": [
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+        "seq": 392
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "朱雀方放弃",
+        "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+        "seq": 392,
+        "note": "协议后归仙遗族"
+      }
     ]
   },
   "firstSeq": 273,
@@ -54,12 +72,26 @@
       "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
       "dated": false,
       "seq": 273
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+      "dated": false,
+      "seq": 392
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+      "dated": false,
+      "seq": 392,
+      "note": "协议后归仙遗族"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch289-ancient-god-sacrifice-treasure"
+    "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+    "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics"
   ],
-  "updatedAt": "2026-08-02T13:59:47.839Z"
+  "updatedAt": "2026-08-17T16:51:12.002Z"
 }

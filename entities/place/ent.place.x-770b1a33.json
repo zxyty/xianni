@@ -7,14 +7,16 @@
     "王家祖宅大宅",
     "祖宅",
     "王家庄园",
-    "王氏祖宅"
+    "王氏祖宅",
+    "昔日的祖宅",
+    "王家老宅"
   ],
   "summary": "王家在小镇上最奢华的祖宅，被启明古镜映照为目标、藤化元穿镜降临之处。",
   "attributes": {
     "所属势力": "王氏一族",
-    "类型": "宅邸、凡人家族祖宅、家族祖宅/庄园",
-    "所属界面": "朱雀星",
-    "上级区域": "赵国",
+    "类型": "宅邸、凡人家族祖宅、家族祖宅/庄园、凡俗宅邸",
+    "所属界面": "赵国凡人界",
+    "上级区域": "赵国京都",
     "守护": "被认为是唯一安全之地、世代效忠王家的花甲老人",
     "规模": "庄园不大，深处一间普通房舍",
     "特产": "先祖遗留玉石"
@@ -47,6 +49,11 @@
         "value": "家族祖宅/庄园",
         "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
         "seq": 387
+      },
+      {
+        "value": "凡俗宅邸",
+        "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+        "seq": 392
       }
     ],
     "所属界面": [
@@ -54,6 +61,11 @@
         "value": "朱雀星",
         "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
         "seq": 387
+      },
+      {
+        "value": "赵国凡人界",
+        "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+        "seq": 392
       }
     ],
     "上级区域": [
@@ -61,6 +73,11 @@
         "value": "赵国",
         "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
         "seq": 387
+      },
+      {
+        "value": "赵国京都",
+        "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+        "seq": 392
       }
     ],
     "守护": [
@@ -106,15 +123,15 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+      "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
       "dated": false,
-      "seq": 387
+      "seq": 392
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+      "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
       "dated": false,
-      "seq": 387
+      "seq": 392
     },
     "守护": {
       "asOf": null,
@@ -139,7 +156,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch85-89-jilian-jianqiao",
-    "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman"
+    "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+    "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics"
   ],
-  "updatedAt": "2026-08-17T16:12:05.488Z"
+  "updatedAt": "2026-08-17T16:51:11.818Z"
 }
