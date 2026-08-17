@@ -4,15 +4,23 @@
   "name": "朱雀墓",
   "aliases": [
     "朱雀陵墓",
-    "Zhu Que Tomb"
+    "Zhu Que Tomb",
+    "历代朱雀墓",
+    "朱雀山下的漆黑通道",
+    "Zhuque Tomb",
+    "朱雀墓内界",
+    "朱雀之墓"
   ],
   "summary": "受修星之晶奇异之力笼罩的禁地，除朱雀子外问鼎修士无法踏入，只有婴变修士可进入。",
   "attributes": {
     "所属界面": "朱雀星",
     "所属势力": "朱雀国",
-    "类型": "陵墓/禁地",
-    "危险度": "高",
-    "守护": "修星之晶奇异之力（问鼎修士无法踏入）"
+    "类型": "陵墓/禁地、墓地/秘境、古墓/秘境、秘境/古墓",
+    "危险度": "高、极高（比王林想象危险数倍）、极高",
+    "守护": "修星之晶之力限制入内人数与境界",
+    "上级区域": "朱雀山",
+    "规模": "据司徒南称范围不大、极大，飞行三日神识不见边际",
+    "特产": "修星之晶、浓郁灵力、命魂"
   },
   "observations": {
     "所属界面": [
@@ -34,6 +42,21 @@
         "value": "陵墓/禁地",
         "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
         "seq": 414
+      },
+      {
+        "value": "墓地/秘境",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
+      },
+      {
+        "value": "古墓/秘境",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
+      },
+      {
+        "value": "秘境/古墓",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
       }
     ],
     "危险度": [
@@ -41,6 +64,16 @@
         "value": "高",
         "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
         "seq": 414
+      },
+      {
+        "value": "极高（比王林想象危险数倍）",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
+      },
+      {
+        "value": "极高",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
       }
     ],
     "守护": [
@@ -48,6 +81,48 @@
         "value": "修星之晶奇异之力（问鼎修士无法踏入）",
         "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
         "seq": 414
+      },
+      {
+        "value": "修星之晶之力限制入内人数与境界",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "朱雀山",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
+      }
+    ],
+    "规模": [
+      {
+        "value": "据司徒南称范围不大",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418,
+        "note": "王林实地所见远大于此说"
+      },
+      {
+        "value": "极大，飞行三日神识不见边际",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
+      }
+    ],
+    "特产": [
+      {
+        "value": "修星之晶",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
+      },
+      {
+        "value": "浓郁灵力",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
+      },
+      {
+        "value": "命魂",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
       }
     ]
   },
@@ -79,15 +154,35 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+      "docId": "plot.xianni-ch441-zhuquezi-madness-1",
       "dated": false,
-      "seq": 414
+      "seq": 418
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+      "dated": false,
+      "seq": 418
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+      "dated": false,
+      "seq": 418,
+      "note": "王林实地所见远大于此说"
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+      "dated": false,
+      "seq": 418
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo"
+    "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+    "plot.xianni-ch441-zhuquezi-madness-1"
   ],
-  "updatedAt": "2026-08-17T20:24:08.669Z"
+  "updatedAt": "2026-08-17T20:52:59.204Z"
 }

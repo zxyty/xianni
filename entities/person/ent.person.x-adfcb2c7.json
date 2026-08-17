@@ -4,14 +4,16 @@
   "name": "地魄门问鼎老怪",
   "aliases": [
     "地魄门中年男子",
-    "地魄门问鼎初期老怪"
+    "地魄门问鼎初期老怪",
+    "地魄门那位问鼎老怪",
+    "地魄门老怪"
   ],
   "summary": "地魄门的问鼎初期老怪，率数百人修士大军飞往朱雀大陆南部，苦笑于赶上战乱时机。",
   "attributes": {
     "小阶段": "问鼎初期",
-    "身份": "地魄门老怪",
+    "身份": "地魄门问鼎修士",
     "外貌": "中年男子",
-    "阵营": "地魄门"
+    "阵营": "朱雀国"
   },
   "observations": {
     "小阶段": [
@@ -26,6 +28,11 @@
         "value": "地魄门老怪",
         "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
         "seq": 401
+      },
+      {
+        "value": "地魄门问鼎修士",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
       }
     ],
     "外貌": [
@@ -40,6 +47,11 @@
         "value": "地魄门",
         "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
         "seq": 401
+      },
+      {
+        "value": "朱雀国",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
       }
     ]
   },
@@ -53,9 +65,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+      "docId": "plot.xianni-ch441-zhuquezi-madness-1",
       "dated": false,
-      "seq": 401
+      "seq": 418
     },
     "外貌": {
       "asOf": null,
@@ -65,15 +77,16 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+      "docId": "plot.xianni-ch441-zhuquezi-madness-1",
       "dated": false,
-      "seq": 401
+      "seq": 418
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul"
+    "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+    "plot.xianni-ch441-zhuquezi-madness-1"
   ],
-  "updatedAt": "2026-08-17T18:32:24.612Z"
+  "updatedAt": "2026-08-17T20:52:59.085Z"
 }

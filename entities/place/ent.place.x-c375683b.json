@@ -19,16 +19,21 @@
     "朱雀山典籍所在地",
     "朱雀山下",
     "朱雀山脉",
-    "朱雀之山"
+    "朱雀之山",
+    "朱雀大路尽头的朱雀山",
+    "朱雀山脚",
+    "朱雀墓入口"
   ],
   "summary": "朱雀国至高传讯来源，平时不传出任何信息，百年之内仅传讯三次（收红蝶为核心弟子、阻止寻找曾牛、告知曾牛所在并命其与红蝶一战）。",
   "attributes": {
     "所属势力": "朱雀国",
-    "类型": "圣地/传讯之源、圣地／灵山、圣地/山脉、宗门／圣地、中心控制点、宗门山门/圣地、山脉/闭关重地、决战之地、山脉/势力驻地、山脉/道场",
+    "类型": "圣地/传讯之源、圣地／灵山、圣地/山脉、宗门／圣地、中心控制点、宗门山门/圣地、山脉/闭关重地、决战之地、山脉/势力驻地、山脉/道场、山岳/核心据点、山脉/圣地、入口秘地",
     "所属界面": "朱雀国",
-    "方位": "朱雀国东部",
-    "守护": "朱雀",
-    "危险度": "禁地非朱雀首肯无人可入"
+    "方位": "朱雀大陆最中心",
+    "守护": "入口通道有资格甄别（可将修士弹出）",
+    "危险度": "婴变级别修士云集",
+    "上级区域": "朱雀大陆",
+    "特产": "山下通道通往朱雀墓"
   },
   "observations": {
     "所属势力": [
@@ -88,6 +93,21 @@
         "value": "山脉/道场",
         "docId": "plot.xianni-ch432-ancestral-rune-skull",
         "seq": 410
+      },
+      {
+        "value": "山岳/核心据点",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
+      },
+      {
+        "value": "山脉/圣地",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
+      },
+      {
+        "value": "入口秘地",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
       }
     ],
     "所属界面": [
@@ -107,6 +127,11 @@
         "value": "朱雀国东部",
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
+      },
+      {
+        "value": "朱雀大陆最中心",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
       }
     ],
     "守护": [
@@ -119,6 +144,11 @@
         "value": "朱雀",
         "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
         "seq": 346
+      },
+      {
+        "value": "入口通道有资格甄别（可将修士弹出）",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
       }
     ],
     "危险度": [
@@ -126,6 +156,25 @@
         "value": "禁地非朱雀首肯无人可入",
         "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
         "seq": 346
+      },
+      {
+        "value": "婴变级别修士云集",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "朱雀大陆",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
+      }
+    ],
+    "特产": [
+      {
+        "value": "山下通道通往朱雀墓",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
       }
     ]
   },
@@ -151,21 +200,33 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+      "docId": "plot.xianni-ch441-zhuquezi-madness-1",
       "dated": false,
-      "seq": 322
+      "seq": 418
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+      "docId": "plot.xianni-ch441-zhuquezi-madness-1",
       "dated": false,
-      "seq": 346
+      "seq": 418
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+      "docId": "plot.xianni-ch441-zhuquezi-madness-1",
       "dated": false,
-      "seq": 346
+      "seq": 418
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+      "dated": false,
+      "seq": 418
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+      "dated": false,
+      "seq": 418
     }
   },
   "contested": false,
@@ -182,7 +243,8 @@
     "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
     "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
     "plot.xianni-ch427-ancestral-spirit-tree",
-    "plot.xianni-ch432-ancestral-rune-skull"
+    "plot.xianni-ch432-ancestral-rune-skull",
+    "plot.xianni-ch441-zhuquezi-madness-1"
   ],
-  "updatedAt": "2026-08-17T19:46:41.459Z"
+  "updatedAt": "2026-08-17T20:52:59.170Z"
 }

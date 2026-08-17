@@ -4,18 +4,21 @@
   "name": "仙遗族五祖",
   "aliases": [
     "五祖",
-    "五祖大人"
+    "五祖大人",
+    "东部仙遗族五祖",
+    "金色印记青年"
   ],
   "summary": "仙遗族五祖，灰衣中年男子，全身几无符文印记，惟左脸颊有一枚闪紫光的紫色树叶烙印；主持朱雀大陆东部黑雾中的祖灵树大阵，誓灭朱雀国，并与尸阴宗司马长老会面。",
   "attributes": {
     "种族": "仙遗族",
-    "身份": "仙遗族祖级高层",
-    "外貌": "灰衣中年男子",
-    "标志特征": "左脸颊紫色树叶烙印，时而闪烁紫光；全身几无符文印记",
+    "身份": "仙遗族五祖、仙遗族老祖、仙遗族祖级高层、仙遗族东路大军统领、仙遗族少族长",
+    "外貌": "年纪不大、颇为年轻，全身充满金色符文印记",
+    "标志特征": "印记为金色而非黑色",
     "性格": "冷静、独断、冷峻、沉稳、冷淡",
-    "存殁": "在世",
+    "存殁": "死亡",
     "小阶段": "九叶",
-    "阵营": "仙遗族"
+    "阵营": "仙遗族",
+    "死因": "被朱雀子的朱雀攻印所化火凤凰击中，全身燃烧，三息后身亡（第442章）"
   },
   "observations": {
     "种族": [
@@ -40,6 +43,16 @@
         "value": "仙遗族祖级高层",
         "docId": "plot.xianni-ch432-ancestral-rune-skull",
         "seq": 410
+      },
+      {
+        "value": "仙遗族东路大军统领",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
+      },
+      {
+        "value": "仙遗族少族长",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
       }
     ],
     "外貌": [
@@ -47,6 +60,11 @@
         "value": "灰衣中年男子",
         "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
         "seq": 401
+      },
+      {
+        "value": "年纪不大、颇为年轻，全身充满金色符文印记",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
       }
     ],
     "标志特征": [
@@ -54,6 +72,11 @@
         "value": "左脸颊紫色树叶烙印，时而闪烁紫光；全身几无符文印记",
         "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
         "seq": 401
+      },
+      {
+        "value": "印记为金色而非黑色",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
       }
     ],
     "性格": [
@@ -78,6 +101,11 @@
         "value": "在世",
         "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
         "seq": 401
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
       }
     ],
     "小阶段": [
@@ -93,6 +121,13 @@
         "docId": "plot.xianni-ch427-ancestral-spirit-tree",
         "seq": 405
       }
+    ],
+    "死因": [
+      {
+        "value": "被朱雀子的朱雀攻印所化火凤凰击中，全身燃烧，三息后身亡（第442章）",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
+      }
     ]
   },
   "firstSeq": 401,
@@ -105,21 +140,21 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch432-ancestral-rune-skull",
+      "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
       "dated": false,
-      "seq": 410
+      "seq": 401
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+      "docId": "plot.xianni-ch441-zhuquezi-madness-1",
       "dated": false,
-      "seq": 401
+      "seq": 418
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+      "docId": "plot.xianni-ch441-zhuquezi-madness-1",
       "dated": false,
-      "seq": 401
+      "seq": 418
     },
     "性格": {
       "asOf": null,
@@ -129,9 +164,9 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+      "docId": "plot.xianni-ch441-zhuquezi-madness-1",
       "dated": false,
-      "seq": 401
+      "seq": 418
     },
     "小阶段": {
       "asOf": null,
@@ -144,6 +179,12 @@
       "docId": "plot.xianni-ch427-ancestral-spirit-tree",
       "dated": false,
       "seq": 405
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+      "dated": false,
+      "seq": 418
     }
   },
   "contested": false,
@@ -151,7 +192,8 @@
   "docs": [
     "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
     "plot.xianni-ch427-ancestral-spirit-tree",
-    "plot.xianni-ch432-ancestral-rune-skull"
+    "plot.xianni-ch432-ancestral-rune-skull",
+    "plot.xianni-ch441-zhuquezi-madness-1"
   ],
-  "updatedAt": "2026-08-17T19:46:41.331Z"
+  "updatedAt": "2026-08-17T20:52:59.114Z"
 }

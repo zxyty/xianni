@@ -2,12 +2,15 @@
   "id": "ent.beast.x-3250e74f",
   "type": "beast",
   "name": "射神车魂兽",
-  "aliases": [],
+  "aliases": [
+    "仙兽之魂"
+  ],
   "summary": "射神车上的兽魂，被铁链锁缚，蓄满黑芒后暴涨脱链，体内充斥毁灭之力，可瞬间穿透敌体咬出残魂吞噬；凶性极大，会反噬操控者。",
   "attributes": {
-    "主人": "王林",
-    "能力": "毁灭之力穿体夺魂、吞噬残魂、速度快至化神修士无法看清",
-    "栖息地": "射神车内"
+    "主人": "司徒南",
+    "能力": "毁灭之力穿体夺魂、吞噬残魂、速度快至化神修士无法看清、包裹射神车疾驰",
+    "栖息地": "射神车内",
+    "外形": "魂状仙兽"
   },
   "observations": {
     "主人": [
@@ -16,6 +19,11 @@
         "docId": "plot.xianni-ch347-xianyi-zu",
         "seq": 327,
         "note": "凭驱兽圈短期操控，长期恐反噬"
+      },
+      {
+        "value": "司徒南",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
       }
     ],
     "能力": [
@@ -33,6 +41,11 @@
         "value": "速度快至化神修士无法看清",
         "docId": "plot.xianni-ch347-xianyi-zu",
         "seq": 327
+      },
+      {
+        "value": "包裹射神车疾驰",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
       }
     ],
     "栖息地": [
@@ -41,16 +54,22 @@
         "docId": "plot.xianni-ch347-xianyi-zu",
         "seq": 327
       }
+    ],
+    "外形": [
+      {
+        "value": "魂状仙兽",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
+      }
     ]
   },
   "firstSeq": 327,
   "attrProvenance": {
     "主人": {
       "asOf": null,
-      "docId": "plot.xianni-ch347-xianyi-zu",
+      "docId": "plot.xianni-ch441-zhuquezi-madness-1",
       "dated": false,
-      "seq": 327,
-      "note": "凭驱兽圈短期操控，长期恐反噬"
+      "seq": 418
     },
     "能力": {
       "asOf": null,
@@ -63,12 +82,19 @@
       "docId": "plot.xianni-ch347-xianyi-zu",
       "dated": false,
       "seq": 327
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+      "dated": false,
+      "seq": 418
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch347-xianyi-zu"
+    "plot.xianni-ch347-xianyi-zu",
+    "plot.xianni-ch441-zhuquezi-madness-1"
   ],
-  "updatedAt": "2026-08-08T10:30:36.461Z"
+  "updatedAt": "2026-08-17T20:52:59.092Z"
 }

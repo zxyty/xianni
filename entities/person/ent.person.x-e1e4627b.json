@@ -10,9 +10,10 @@
   "attributes": {
     "种族": "仙遗族",
     "称号": "一祖",
-    "身份": "十一叶术咒师",
-    "外貌": "虚幻之影",
-    "阵营": "仙遗族"
+    "身份": "十一叶术咒师、仙遗族一祖、唯一的十一叶术咒师、仙遗族长老",
+    "外貌": "虚幻之影、全身几乎透明的虚影凝实而成、相貌极为平凡，没有任何出奇之处",
+    "阵营": "仙遗族",
+    "标志特征": "眉心绽开十一叶植物，可脱落叶片攻防"
   },
   "observations": {
     "种族": [
@@ -34,6 +35,16 @@
         "value": "十一叶术咒师",
         "docId": "plot.xianni-ch427-ancestral-spirit-tree",
         "seq": 405
+      },
+      {
+        "value": "仙遗族一祖、唯一的十一叶术咒师",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
+      },
+      {
+        "value": "仙遗族长老",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
       }
     ],
     "外貌": [
@@ -41,6 +52,16 @@
         "value": "虚幻之影",
         "docId": "plot.xianni-ch427-ancestral-spirit-tree",
         "seq": 405
+      },
+      {
+        "value": "全身几乎透明的虚影凝实而成",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
+      },
+      {
+        "value": "相貌极为平凡，没有任何出奇之处",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
       }
     ],
     "阵营": [
@@ -48,6 +69,13 @@
         "value": "仙遗族",
         "docId": "plot.xianni-ch427-ancestral-spirit-tree",
         "seq": 405
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "眉心绽开十一叶植物，可脱落叶片攻防",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
       }
     ]
   },
@@ -82,12 +110,19 @@
       "docId": "plot.xianni-ch427-ancestral-spirit-tree",
       "dated": false,
       "seq": 405
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+      "dated": false,
+      "seq": 418
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch427-ancestral-spirit-tree"
+    "plot.xianni-ch427-ancestral-spirit-tree",
+    "plot.xianni-ch441-zhuquezi-madness-1"
   ],
-  "updatedAt": "2026-08-17T19:16:48.692Z"
+  "updatedAt": "2026-08-17T20:52:59.133Z"
 }

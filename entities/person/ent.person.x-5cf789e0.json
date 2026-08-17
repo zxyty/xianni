@@ -6,15 +6,18 @@
     "三祖大人",
     "仙遗族三祖",
     "十一层的三祖",
-    "仙遗族女子三祖"
+    "仙遗族女子三祖",
+    "眼中带媚的女子"
   ],
   "summary": "仙遗族祖级高层，守护祖灵树时被朱雀子重伤，正在第十一层疗伤。",
   "attributes": {
     "种族": "仙遗族",
-    "身份": "祖灵树守护者、仙遗族三祖",
+    "身份": "祖灵树守护者、仙遗族三祖、仙遗族长老",
     "存殁": "重伤疗养",
     "性别": "女",
-    "标志特征": "点眉心后额头浮现一株九叶植物"
+    "标志特征": "点眉心后额头浮现一株九叶植物",
+    "外貌": "眼中带媚、相貌娇美",
+    "阵营": "仙遗族"
   },
   "observations": {
     "种族": [
@@ -34,6 +37,11 @@
         "value": "仙遗族三祖",
         "docId": "plot.xianni-ch432-ancestral-rune-skull",
         "seq": 410
+      },
+      {
+        "value": "仙遗族长老",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
       }
     ],
     "存殁": [
@@ -56,6 +64,20 @@
         "value": "点眉心后额头浮现一株九叶植物",
         "docId": "plot.xianni-ch432-ancestral-rune-skull",
         "seq": 410
+      }
+    ],
+    "外貌": [
+      {
+        "value": "眼中带媚、相貌娇美",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
+      }
+    ],
+    "阵营": [
+      {
+        "value": "仙遗族",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
       }
     ]
   },
@@ -91,12 +113,25 @@
       "docId": "plot.xianni-ch432-ancestral-rune-skull",
       "dated": false,
       "seq": 410
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+      "dated": false,
+      "seq": 418
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+      "dated": false,
+      "seq": 418
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch432-ancestral-rune-skull"
+    "plot.xianni-ch432-ancestral-rune-skull",
+    "plot.xianni-ch441-zhuquezi-madness-1"
   ],
-  "updatedAt": "2026-08-17T19:46:41.446Z"
+  "updatedAt": "2026-08-17T20:52:59.134Z"
 }

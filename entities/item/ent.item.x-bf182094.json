@@ -6,12 +6,15 @@
     "一丝命魂",
     "魂魄中的命魂",
     "王林的命魂",
-    "本命之魂"
+    "本命之魂",
+    "修士命魂",
+    "朱雀墓命魂"
   ],
   "summary": "生命魂魄的组成之一，被修星之晶在其出生一刻吸走；命魂在晶中者可被持修星之心者随意抹杀。",
   "attributes": {
-    "类型": "魂",
-    "用途": "本命根基"
+    "类型": "魂魄组成、魂、魂魄、魂类",
+    "用途": "被修星之晶扣押作为抹杀该生命的凭据、本命根基、与性命相连，抽回则可免于随修星之晶俱灭、推动朱雀墓扩张生长",
+    "产地": "封存于修星之晶"
   },
   "observations": {
     "类型": [
@@ -24,6 +27,16 @@
         "value": "魂",
         "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
         "seq": 414
+      },
+      {
+        "value": "魂魄",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
+      },
+      {
+        "value": "魂类",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
       }
     ],
     "用途": [
@@ -36,6 +49,23 @@
         "value": "本命根基",
         "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
         "seq": 414
+      },
+      {
+        "value": "与性命相连，抽回则可免于随修星之晶俱灭",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
+      },
+      {
+        "value": "推动朱雀墓扩张生长",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
+      }
+    ],
+    "产地": [
+      {
+        "value": "封存于修星之晶",
+        "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+        "seq": 418
       }
     ]
   },
@@ -43,22 +73,29 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
       "dated": false,
-      "seq": 414
+      "seq": 405
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
       "dated": false,
-      "seq": 414
+      "seq": 405
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+      "dated": false,
+      "seq": 418
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch427-ancestral-spirit-tree",
-    "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo"
+    "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+    "plot.xianni-ch441-zhuquezi-madness-1"
   ],
-  "updatedAt": "2026-08-17T20:24:08.670Z"
+  "updatedAt": "2026-08-17T20:52:59.173Z"
 }
