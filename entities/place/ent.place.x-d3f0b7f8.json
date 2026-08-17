@@ -4,14 +4,17 @@
   "name": "恒岳山",
   "aliases": [
     "恒岳山峰",
-    "圣山"
+    "圣山",
+    "恒岳",
+    "恒岳派恒岳山"
   ],
   "summary": "恒岳派所在山峰，因王林木雕与之合一而灵气无穷，被赵国修士尊称为圣山。",
   "attributes": {
-    "所属界面": "赵国修真界",
-    "所属势力": "恒岳派",
-    "类型": "山峰/圣地",
-    "守护": "王林所留木雕"
+    "所属界面": "朱雀星",
+    "所属势力": "天道宗",
+    "类型": "山脉/宗门驻地",
+    "守护": "王林所留木雕",
+    "上级区域": "赵国"
   },
   "observations": {
     "所属界面": [
@@ -19,6 +22,11 @@
         "value": "赵国修真界",
         "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
         "seq": 268
+      },
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+        "seq": 387
       }
     ],
     "所属势力": [
@@ -26,6 +34,11 @@
         "value": "恒岳派",
         "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
         "seq": 268
+      },
+      {
+        "value": "天道宗",
+        "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+        "seq": 387
       }
     ],
     "类型": [
@@ -33,6 +46,11 @@
         "value": "山峰/圣地",
         "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
         "seq": 268
+      },
+      {
+        "value": "山脉/宗门驻地",
+        "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+        "seq": 387
       }
     ],
     "守护": [
@@ -41,39 +59,53 @@
         "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
         "seq": 268
       }
+    ],
+    "上级区域": [
+      {
+        "value": "赵国",
+        "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+        "seq": 387
+      }
     ]
   },
   "firstSeq": 268,
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
+      "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
       "dated": false,
-      "seq": 268
+      "seq": 387
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
+      "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
       "dated": false,
-      "seq": 268
+      "seq": 387
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
+      "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
       "dated": false,
-      "seq": 268
+      "seq": 387
     },
     "守护": {
       "asOf": null,
       "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
       "dated": false,
       "seq": 268
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+      "dated": false,
+      "seq": 387
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu"
+    "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
+    "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman"
   ],
-  "updatedAt": "2026-08-02T13:31:26.114Z"
+  "updatedAt": "2026-08-17T16:12:05.521Z"
 }

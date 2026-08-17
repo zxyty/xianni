@@ -5,13 +5,18 @@
   "aliases": [
     "月星北部",
     "Moon Star",
-    "月星大地"
+    "月星大地",
+    "月星修真星",
+    "Yue Xing",
+    "月星星球",
+    "月星果物产地"
   ],
   "summary": "山脉众多、丛林较少、渺无人烟的星辰，无凡人，修真者亦极罕见；王林带周茹在此捕获小紫。",
   "attributes": {
-    "类型": "星辰、星辰／界面",
-    "特产": "紫色巨虎（神智未开、具奇异之力）",
-    "危险度": "无凡人、修真者罕见、战后方圆万里龟裂坍塌为巨坑"
+    "类型": "星辰、星辰／界面、修真星、星球",
+    "特产": "月星果物",
+    "危险度": "无凡人、修真者罕见、战后方圆万里龟裂坍塌为巨坑、有十多丈长凶兽出没的野外山脉",
+    "方位": "距朱雀星不远"
   },
   "observations": {
     "类型": [
@@ -24,6 +29,16 @@
         "value": "星辰／界面",
         "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
         "seq": 382
+      },
+      {
+        "value": "修真星",
+        "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+        "seq": 387
+      },
+      {
+        "value": "星球",
+        "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+        "seq": 387
       }
     ],
     "特产": [
@@ -31,6 +46,11 @@
         "value": "紫色巨虎（神智未开、具奇异之力）",
         "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
         "seq": 382
+      },
+      {
+        "value": "月星果物",
+        "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+        "seq": 387
       }
     ],
     "危险度": [
@@ -43,6 +63,18 @@
         "value": "战后方圆万里龟裂坍塌为巨坑",
         "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
         "seq": 382
+      },
+      {
+        "value": "有十多丈长凶兽出没的野外山脉",
+        "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+        "seq": 387
+      }
+    ],
+    "方位": [
+      {
+        "value": "距朱雀星不远",
+        "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+        "seq": 387
       }
     ]
   },
@@ -56,21 +88,28 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
+      "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
       "dated": false,
-      "seq": 382
+      "seq": 387
     },
     "危险度": {
       "asOf": null,
       "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
       "dated": false,
       "seq": 382
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+      "dated": false,
+      "seq": 387
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict"
+    "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
+    "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman"
   ],
-  "updatedAt": "2026-08-17T15:34:17.225Z"
+  "updatedAt": "2026-08-17T16:12:05.448Z"
 }

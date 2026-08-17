@@ -4,12 +4,20 @@
   "name": "王家祖宅",
   "aliases": [
     "王家大宅子",
-    "王家祖宅大宅"
+    "王家祖宅大宅",
+    "祖宅",
+    "王家庄园",
+    "王氏祖宅"
   ],
   "summary": "王家在小镇上最奢华的祖宅，被启明古镜映照为目标、藤化元穿镜降临之处。",
   "attributes": {
-    "所属势力": "王氏家族",
-    "类型": "宅邸"
+    "所属势力": "王氏一族",
+    "类型": "宅邸、凡人家族祖宅、家族祖宅/庄园",
+    "所属界面": "朱雀星",
+    "上级区域": "赵国",
+    "守护": "被认为是唯一安全之地、世代效忠王家的花甲老人",
+    "规模": "庄园不大，深处一间普通房舍",
+    "特产": "先祖遗留玉石"
   },
   "observations": {
     "所属势力": [
@@ -17,6 +25,11 @@
         "value": "王氏家族",
         "docId": "plot.xianni-ch85-89-jilian-jianqiao",
         "seq": 85
+      },
+      {
+        "value": "王氏一族",
+        "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+        "seq": 387
       }
     ],
     "类型": [
@@ -24,6 +37,56 @@
         "value": "宅邸",
         "docId": "plot.xianni-ch85-89-jilian-jianqiao",
         "seq": 85
+      },
+      {
+        "value": "凡人家族祖宅",
+        "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+        "seq": 387
+      },
+      {
+        "value": "家族祖宅/庄园",
+        "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+        "seq": 387
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+        "seq": 387
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "赵国",
+        "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+        "seq": 387
+      }
+    ],
+    "守护": [
+      {
+        "value": "被认为是唯一安全之地",
+        "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+        "seq": 387
+      },
+      {
+        "value": "世代效忠王家的花甲老人",
+        "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+        "seq": 387
+      }
+    ],
+    "规模": [
+      {
+        "value": "庄园不大，深处一间普通房舍",
+        "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+        "seq": 387
+      }
+    ],
+    "特产": [
+      {
+        "value": "先祖遗留玉石",
+        "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+        "seq": 387
       }
     ]
   },
@@ -31,21 +94,52 @@
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+      "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
       "dated": false,
-      "seq": 85
+      "seq": 387
     },
     "类型": {
       "asOf": null,
       "docId": "plot.xianni-ch85-89-jilian-jianqiao",
       "dated": false,
       "seq": 85
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+      "dated": false,
+      "seq": 387
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+      "dated": false,
+      "seq": 387
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+      "dated": false,
+      "seq": 387
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+      "dated": false,
+      "seq": 387
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+      "dated": false,
+      "seq": 387
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch85-89-jilian-jianqiao"
+    "plot.xianni-ch85-89-jilian-jianqiao",
+    "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman"
   ],
-  "updatedAt": "2026-07-05T03:01:33.255Z"
+  "updatedAt": "2026-08-17T16:12:05.488Z"
 }

@@ -3,14 +3,16 @@
   "type": "faction",
   "name": "天运宗",
   "aliases": [
-    "Tianyun Sect"
+    "Tianyun Sect",
+    "天运宗门派"
   ],
   "summary": "天运星上的顶级势力，与大罗剑宗同级；掌门级人物天运子推算出雨之仙剑出世并遣徒阻止大罗剑宗获取。",
   "attributes": {
     "等级": "与大罗剑宗同级",
     "掌门": "天运子",
     "所属界面": "天运星",
-    "理念": "维持天运星实力平衡"
+    "理念": "维持天运星实力平衡",
+    "据点": "天运星"
   },
   "observations": {
     "等级": [
@@ -40,6 +42,13 @@
         "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
         "seq": 304
       }
+    ],
+    "据点": [
+      {
+        "value": "天运星",
+        "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+        "seq": 387
+      }
     ]
   },
   "firstSeq": 304,
@@ -67,12 +76,19 @@
       "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
       "dated": false,
       "seq": 304
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+      "dated": false,
+      "seq": 387
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void"
+    "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
+    "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman"
   ],
-  "updatedAt": "2026-08-08T05:44:31.179Z"
+  "updatedAt": "2026-08-17T16:12:05.397Z"
 }

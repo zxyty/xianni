@@ -7,17 +7,20 @@
     "连墨城元婴护法",
     "缠蟒光头",
     "发白青年",
-    "光头修士"
+    "光头修士",
+    "王府光头护卫"
   ],
   "summary": "连墨城元婴护法之一，缠粗大蟒蛇的光头横肉大汉；因弟子被杀出关封城寻仇，与王林激战肉身被毁、元婴逃走。",
   "attributes": {
     "小阶段": "元婴初期、元婴后期",
-    "身份": "连墨城元婴护法",
+    "身份": "王府车夫兼护卫",
     "标志特征": "光头、缠粗大蟒蛇、满身储物袋、驱使虫子",
     "性格": "外粗犷内谨慎",
     "结局": "肉身被古怪飞剑击溃，元婴离体仓皇逃走、元婴被妖兽吞噬身死",
     "存殁": "死亡",
-    "死因": "被吞元婴妖兽吞噬元婴"
+    "死因": "被吞元婴妖兽吞噬元婴",
+    "性别": "男",
+    "种族": "凡人"
   },
   "observations": {
     "小阶段": [
@@ -37,6 +40,11 @@
         "value": "连墨城元婴护法",
         "docId": "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
         "seq": 213
+      },
+      {
+        "value": "王府车夫兼护卫",
+        "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+        "seq": 387
       }
     ],
     "标志特征": [
@@ -94,6 +102,20 @@
         "docId": "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
         "seq": 213
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+        "seq": 387
+      }
+    ],
+    "种族": [
+      {
+        "value": "凡人",
+        "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+        "seq": 387
+      }
     ]
   },
   "firstSeq": 213,
@@ -106,9 +128,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
+      "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
       "dated": false,
-      "seq": 213
+      "seq": 387
     },
     "标志特征": {
       "asOf": null,
@@ -140,12 +162,25 @@
       "docId": "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
       "dated": false,
       "seq": 213
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+      "dated": false,
+      "seq": 387
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+      "dated": false,
+      "seq": 387
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch213-215-wenshou-lianmocheng-shalv"
+    "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
+    "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman"
   ],
-  "updatedAt": "2026-07-18T10:47:11.151Z"
+  "updatedAt": "2026-08-17T16:12:05.484Z"
 }

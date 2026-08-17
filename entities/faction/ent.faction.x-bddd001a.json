@@ -4,15 +4,17 @@
   "name": "天道门",
   "aliases": [
     "天道宗",
-    "天道门藤家"
+    "天道门藤家",
+    "赵国天道宗",
+    "Tiandao Sect"
   ],
   "summary": "魔道第一宗，实力在尸阴宗之上，本章作对比提及。",
   "attributes": {
     "阵营": "赵国修真界",
     "等级": "魔道第一宗",
-    "镇派之宝": "始祖悬赏征集的云朵图案珠子",
+    "镇派之宝": "王林留下的木雕",
     "所属界面": "赵国",
-    "据点": "奇峰顶峰大殿"
+    "据点": "恒岳山"
   },
   "observations": {
     "阵营": [
@@ -45,6 +47,12 @@
         "docId": "lore.xianni-ch105-jijing-realm",
         "seq": 90,
         "note": "上缴者赠婴变级法宝、化神期炼尸十具、修真国升级"
+      },
+      {
+        "value": "王林留下的木雕",
+        "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+        "seq": 387,
+        "note": "第413章被仙遗族六叶术咒师夺走"
       }
     ],
     "所属界面": [
@@ -59,6 +67,11 @@
         "value": "奇峰顶峰大殿",
         "docId": "plot.xianni-ch235-because-he-is-surnamed-teng",
         "seq": 219
+      },
+      {
+        "value": "恒岳山",
+        "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+        "seq": 387
       }
     ]
   },
@@ -78,10 +91,10 @@
     },
     "镇派之宝": {
       "asOf": null,
-      "docId": "lore.xianni-ch105-jijing-realm",
+      "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
       "dated": false,
-      "seq": 90,
-      "note": "上缴者赠婴变级法宝、化神期炼尸十具、修真国升级"
+      "seq": 387,
+      "note": "第413章被仙遗族六叶术咒师夺走"
     },
     "所属界面": {
       "asOf": null,
@@ -91,9 +104,9 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-ch235-because-he-is-surnamed-teng",
+      "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
       "dated": false,
-      "seq": 219
+      "seq": 387
     }
   },
   "contested": false,
@@ -106,7 +119,8 @@
     "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
     "plot.xianni-ch235-because-he-is-surnamed-teng",
     "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong",
-    "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip"
+    "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+    "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman"
   ],
-  "updatedAt": "2026-08-08T15:27:51.307Z"
+  "updatedAt": "2026-08-17T16:12:05.502Z"
 }
