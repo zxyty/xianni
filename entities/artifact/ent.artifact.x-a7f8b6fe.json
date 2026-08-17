@@ -4,13 +4,16 @@
   "name": "大剑",
   "aliases": [
     "金龙所化大剑",
-    "男式大剑"
+    "男式大剑",
+    "王林的大剑",
+    "剑"
   ],
   "summary": "白衣女子点一条金龙所化的大剑，悬于半空；其上金光被送入最后一条金龙眉心，剑身随后与短剑并落女尸之旁。",
   "attributes": {
-    "外形": "大剑",
+    "外形": "大剑，剑尖斜下",
     "来历": "金龙所化",
-    "能力": "承载一团金光（传入金龙眉心）"
+    "能力": "承载一团金光（传入金龙眉心）、承载与元神结合的元力、施展斩罗决斩规则",
+    "持有者": "王林"
   },
   "observations": {
     "外形": [
@@ -18,6 +21,11 @@
         "value": "大剑",
         "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
         "seq": 304
+      },
+      {
+        "value": "大剑，剑尖斜下",
+        "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+        "seq": 661
       }
     ],
     "来历": [
@@ -32,6 +40,23 @@
         "value": "承载一团金光（传入金龙眉心）",
         "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
         "seq": 304
+      },
+      {
+        "value": "承载与元神结合的元力",
+        "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+        "seq": 661
+      },
+      {
+        "value": "施展斩罗决斩规则",
+        "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+        "seq": 661
+      }
+    ],
+    "持有者": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+        "seq": 661
       }
     ]
   },
@@ -39,9 +64,9 @@
   "attrProvenance": {
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
+      "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
       "dated": false,
-      "seq": 304
+      "seq": 661
     },
     "来历": {
       "asOf": null,
@@ -54,12 +79,19 @@
       "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
       "dated": false,
       "seq": 304
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+      "dated": false,
+      "seq": 661
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void"
+    "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
+    "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power"
   ],
-  "updatedAt": "2026-08-08T05:44:31.216Z"
+  "updatedAt": "2026-08-17T14:25:16.430Z"
 }
