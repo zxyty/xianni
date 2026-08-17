@@ -4,13 +4,16 @@
   "name": "巨大棺材",
   "aliases": [
     "老者的棺材",
-    "黑棺"
+    "黑棺",
+    "溶洞中心的棺材",
+    "无花纹棺材"
   ],
   "summary": "尸阴宗大长老的坐骑法宝；拍之则棺内传出指甲刮盖的刺耳声并放出黑气化作九幽巨大鬼爪，老者本尊亦盘坐其上打坐操控借体分身。",
   "attributes": {
     "持有者": "尸阴宗大长老",
-    "能力": "放出黑气化九幽鬼爪、作为本尊坐镇之所",
-    "外形": "巨大棺材"
+    "能力": "放出黑气化九幽鬼爪、作为本尊坐镇之所、散发磅礴阴寒之气、底部圆洞通往更深处",
+    "外形": "巨大、外表极为普通、无任何花纹装饰",
+    "禁制": "深处有淡蓝色阴寒气团凝成的门封死入口"
   },
   "observations": {
     "持有者": [
@@ -30,6 +33,16 @@
         "value": "作为本尊坐镇之所",
         "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
         "seq": 294
+      },
+      {
+        "value": "散发磅礴阴寒之气",
+        "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+        "seq": 414
+      },
+      {
+        "value": "底部圆洞通往更深处",
+        "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+        "seq": 414
       }
     ],
     "外形": [
@@ -37,6 +50,18 @@
         "value": "巨大棺材",
         "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
         "seq": 294
+      },
+      {
+        "value": "巨大、外表极为普通、无任何花纹装饰",
+        "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+        "seq": 414
+      }
+    ],
+    "禁制": [
+      {
+        "value": "深处有淡蓝色阴寒气团凝成的门封死入口",
+        "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+        "seq": 414
       }
     ]
   },
@@ -56,15 +81,22 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+      "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
       "dated": false,
-      "seq": 294
+      "seq": 414
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+      "dated": false,
+      "seq": 414
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch294-298-void-voyage-first-fairy-fragment"
+    "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+    "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo"
   ],
-  "updatedAt": "2026-08-08T04:38:19.284Z"
+  "updatedAt": "2026-08-17T20:24:08.567Z"
 }

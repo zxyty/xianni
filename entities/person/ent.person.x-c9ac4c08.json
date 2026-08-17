@@ -13,12 +13,13 @@
   "attributes": {
     "种族": "仙遗族",
     "身份": "仙遗族老祖、北部轮回祖灵树主持者",
-    "存殁": "在世",
+    "存殁": "死亡",
     "外貌": "白发老者，双目通红几欲滴血、白发老者",
     "性格": "被仇恨冲昏头脑、疯狂",
     "标志特征": "眉心浮现九叶植物；祭出巨大符文",
     "阵营": "仙遗族",
-    "称号": "四祖"
+    "称号": "四祖",
+    "死因": "被司徒南吞噬"
   },
   "observations": {
     "种族": [
@@ -45,6 +46,11 @@
         "value": "在世",
         "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
         "seq": 401
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+        "seq": 414
       }
     ],
     "外貌": [
@@ -87,6 +93,13 @@
         "docId": "plot.xianni-ch427-ancestral-spirit-tree",
         "seq": 405
       }
+    ],
+    "死因": [
+      {
+        "value": "被司徒南吞噬",
+        "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+        "seq": 414
+      }
     ]
   },
   "firstSeq": 401,
@@ -105,9 +118,9 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+      "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
       "dated": false,
-      "seq": 401
+      "seq": 414
     },
     "外貌": {
       "asOf": null,
@@ -139,13 +152,20 @@
       "docId": "plot.xianni-ch427-ancestral-spirit-tree",
       "dated": false,
       "seq": 405
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+      "dated": false,
+      "seq": 414
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
-    "plot.xianni-ch427-ancestral-spirit-tree"
+    "plot.xianni-ch427-ancestral-spirit-tree",
+    "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo"
   ],
-  "updatedAt": "2026-08-17T19:16:48.614Z"
+  "updatedAt": "2026-08-17T20:24:08.643Z"
 }

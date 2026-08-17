@@ -8,13 +8,15 @@
     "变异灵力",
     "黄阴之气",
     "地阴之气",
-    "九地之气"
+    "九地之气",
+    "九地气",
+    "九地之气息"
   ],
   "summary": "古城废墟特产的阴寒灵力，品质分普通/上佳/沉阴，用于王林冲窍修炼；品质越高精纯度越强。",
   "attributes": {
-    "类型": "阴属灵力、阴寒灵气",
-    "用途": "吐纳冲窍、阴寒功法修炼、尸傀进阶吸收",
-    "产地": "古城废墟巨坑",
+    "类型": "阴属灵力、阴寒灵气、天地异气",
+    "用途": "吐纳冲窍、阴寒功法修炼、尸傀进阶吸收、天然屏障，护持赵国尸阴宗驻地",
+    "产地": "赵国极西阴寒平原",
     "稀有度": "黄阴<地阴；九地之气为禁制级"
   },
   "observations": {
@@ -28,6 +30,11 @@
         "value": "阴寒灵气",
         "docId": "plot.xianni-ch091-jiyin-lingli",
         "seq": 76
+      },
+      {
+        "value": "天地异气",
+        "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+        "seq": 414
       }
     ],
     "用途": [
@@ -45,6 +52,11 @@
         "value": "尸傀进阶吸收",
         "docId": "plot.xianni-ch091-jiyin-lingli",
         "seq": 76
+      },
+      {
+        "value": "天然屏障，护持赵国尸阴宗驻地",
+        "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+        "seq": 414
       }
     ],
     "产地": [
@@ -52,6 +64,11 @@
         "value": "古城废墟巨坑",
         "docId": "plot.xianni-ch091-jiyin-lingli",
         "seq": 76
+      },
+      {
+        "value": "赵国极西阴寒平原",
+        "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+        "seq": 414
       }
     ],
     "稀有度": [
@@ -78,9 +95,9 @@
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.xianni-ch091-jiyin-lingli",
+      "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
       "dated": false,
-      "seq": 76
+      "seq": 414
     },
     "稀有度": {
       "asOf": null,
@@ -92,7 +109,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch091-jiyin-lingli"
+    "plot.xianni-ch091-jiyin-lingli",
+    "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo"
   ],
-  "updatedAt": "2026-06-22T13:56:11.130Z"
+  "updatedAt": "2026-08-17T20:24:08.539Z"
 }

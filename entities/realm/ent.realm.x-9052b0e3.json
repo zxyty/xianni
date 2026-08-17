@@ -7,15 +7,17 @@
     "问鼎境修士",
     "问鼎后期巅峰",
     "问鼎境界",
-    "问鼎之魂"
+    "问鼎之魂",
+    "封号问鼎"
   ],
   "summary": "七境最高境。",
   "attributes": {
-    "阶序": "高于化神",
+    "阶序": "大神通修士的巅峰境界",
     "上一境": "阴虚（阴阳虚实过渡）",
-    "小阶段": "问鼎初期、问鼎中期、问鼎后期、问鼎后期巅峰",
-    "下一境": "婴变期",
-    "突破关键": "超过问鼎方可从修星之晶抽出命魂"
+    "小阶段": "问鼎初期、问鼎中期、问鼎后期、问鼎后期巅峰、封号问鼎",
+    "下一境": "婴变期、问鼎之上、窥涅",
+    "突破关键": "越过门坎、摸索到下一境界边缘",
+    "寿元": "未突破者寿元断绝而亡"
   },
   "observations": {
     "阶序": [
@@ -38,6 +40,11 @@
         "value": "高于化神",
         "docId": "plot.xianni-ch432-ancestral-rune-skull",
         "seq": 410
+      },
+      {
+        "value": "大神通修士的巅峰境界",
+        "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+        "seq": 414
       }
     ],
     "上一境": [
@@ -55,6 +62,11 @@
         "value": "阴虚（阴阳虚实过渡）",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
+      },
+      {
+        "value": "碎涅期",
+        "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+        "seq": 414
       }
     ],
     "小阶段": [
@@ -77,6 +89,11 @@
         "value": "问鼎后期巅峰",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
+      },
+      {
+        "value": "封号问鼎",
+        "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+        "seq": 414
       }
     ],
     "下一境": [
@@ -84,6 +101,16 @@
         "value": "婴变期",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 392
+      },
+      {
+        "value": "问鼎之上",
+        "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+        "seq": 414
+      },
+      {
+        "value": "窥涅",
+        "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+        "seq": 414
       }
     ],
     "突破关键": [
@@ -96,6 +123,18 @@
         "value": "超过问鼎方可从修星之晶抽出命魂",
         "docId": "plot.xianni-ch427-ancestral-spirit-tree",
         "seq": 405
+      },
+      {
+        "value": "越过门坎、摸索到下一境界边缘",
+        "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+        "seq": 414
+      }
+    ],
+    "寿元": [
+      {
+        "value": "未突破者寿元断绝而亡",
+        "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+        "seq": 414
       }
     ]
   },
@@ -103,9 +142,9 @@
   "attrProvenance": {
     "阶序": {
       "asOf": null,
-      "docId": "plot.xianni-ch432-ancestral-rune-skull",
+      "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
       "dated": false,
-      "seq": 410
+      "seq": 414
     },
     "上一境": {
       "asOf": null,
@@ -127,9 +166,15 @@
     },
     "突破关键": {
       "asOf": null,
-      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
       "dated": false,
-      "seq": 405
+      "seq": 414
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+      "dated": false,
+      "seq": 414
     }
   },
   "contested": false,
@@ -143,7 +188,8 @@
     "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
     "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
     "plot.xianni-ch427-ancestral-spirit-tree",
-    "plot.xianni-ch432-ancestral-rune-skull"
+    "plot.xianni-ch432-ancestral-rune-skull",
+    "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo"
   ],
-  "updatedAt": "2026-08-17T19:46:41.442Z"
+  "updatedAt": "2026-08-17T20:24:08.713Z"
 }

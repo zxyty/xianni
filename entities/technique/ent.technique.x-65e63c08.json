@@ -2,10 +2,14 @@
   "id": "ent.technique.x-65e63c08",
   "type": "technique",
   "name": "朱雀诀",
-  "aliases": [],
+  "aliases": [
+    "朱雀决",
+    "历代朱雀功法"
+  ],
   "summary": "朱雀国核心功法，乾风所修；云雀子据此怀疑乾风是朱雀子的夺舍之物。",
   "attributes": {
-    "出处": "朱雀国"
+    "出处": "一代朱雀叶无忧由朱雀印推衍",
+    "效果": "加快修炼速度、加固与修星之心的融合，达到真正的封号问鼎实力"
   },
   "observations": {
     "出处": [
@@ -13,6 +17,23 @@
         "value": "朱雀国",
         "docId": "plot.xianni-ch427-ancestral-spirit-tree",
         "seq": 405
+      },
+      {
+        "value": "一代朱雀叶无忧由朱雀印推衍",
+        "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+        "seq": 414
+      }
+    ],
+    "效果": [
+      {
+        "value": "加快修炼速度",
+        "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+        "seq": 414
+      },
+      {
+        "value": "加固与修星之心的融合，达到真正的封号问鼎实力",
+        "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+        "seq": 414
       }
     ]
   },
@@ -20,15 +41,22 @@
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
       "dated": false,
-      "seq": 405
+      "seq": 414
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+      "dated": false,
+      "seq": 414
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch427-ancestral-spirit-tree"
+    "plot.xianni-ch427-ancestral-spirit-tree",
+    "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo"
   ],
-  "updatedAt": "2026-08-17T19:16:48.712Z"
+  "updatedAt": "2026-08-17T20:24:08.708Z"
 }

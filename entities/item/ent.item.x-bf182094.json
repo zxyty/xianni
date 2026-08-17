@@ -4,12 +4,14 @@
   "name": "命魂",
   "aliases": [
     "一丝命魂",
-    "魂魄中的命魂"
+    "魂魄中的命魂",
+    "王林的命魂",
+    "本命之魂"
   ],
   "summary": "生命魂魄的组成之一，被修星之晶在其出生一刻吸走；命魂在晶中者可被持修星之心者随意抹杀。",
   "attributes": {
-    "类型": "魂魄组成",
-    "用途": "被修星之晶扣押作为抹杀该生命的凭据"
+    "类型": "魂",
+    "用途": "本命根基"
   },
   "observations": {
     "类型": [
@@ -17,6 +19,11 @@
         "value": "魂魄组成",
         "docId": "plot.xianni-ch427-ancestral-spirit-tree",
         "seq": 405
+      },
+      {
+        "value": "魂",
+        "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+        "seq": 414
       }
     ],
     "用途": [
@@ -24,6 +31,11 @@
         "value": "被修星之晶扣押作为抹杀该生命的凭据",
         "docId": "plot.xianni-ch427-ancestral-spirit-tree",
         "seq": 405
+      },
+      {
+        "value": "本命根基",
+        "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+        "seq": 414
       }
     ]
   },
@@ -31,21 +43,22 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
       "dated": false,
-      "seq": 405
+      "seq": 414
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
       "dated": false,
-      "seq": 405
+      "seq": 414
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch427-ancestral-spirit-tree"
+    "plot.xianni-ch427-ancestral-spirit-tree",
+    "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo"
   ],
-  "updatedAt": "2026-08-17T19:16:48.620Z"
+  "updatedAt": "2026-08-17T20:24:08.670Z"
 }

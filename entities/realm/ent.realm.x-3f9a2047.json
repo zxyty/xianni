@@ -4,12 +4,18 @@
   "name": "问鼎之上",
   "aliases": [
     "问鼎之上境界",
-    "十二叶初开"
+    "十二叶初开",
+    "问鼎之上的境界",
+    "问鼎上境"
   ],
   "summary": "修士口中高于问鼎的境界，仙遗族以眉心第十二叶散开为标志；老者虽达此境却因资质有限无法完全吸收符文、未能真正迈出那一步。",
   "attributes": {
     "小阶段": "十二叶初开（散开三分之一）",
-    "下一境": "问鼎"
+    "下一境": "问鼎",
+    "阶序": "问鼎之后",
+    "寿元": "延长无数倍（不能与天地同寿）",
+    "上一境": "问鼎",
+    "突破征兆": "摸索到下一境界的边缘"
   },
   "observations": {
     "小阶段": [
@@ -24,6 +30,34 @@
         "value": "问鼎",
         "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
         "seq": 382
+      }
+    ],
+    "阶序": [
+      {
+        "value": "问鼎之后",
+        "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+        "seq": 414
+      }
+    ],
+    "寿元": [
+      {
+        "value": "延长无数倍（不能与天地同寿）",
+        "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+        "seq": 414
+      }
+    ],
+    "上一境": [
+      {
+        "value": "问鼎",
+        "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+        "seq": 414
+      }
+    ],
+    "突破征兆": [
+      {
+        "value": "摸索到下一境界的边缘",
+        "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+        "seq": 414
       }
     ]
   },
@@ -40,12 +74,37 @@
       "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
       "dated": false,
       "seq": 382
+    },
+    "阶序": {
+      "asOf": null,
+      "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+      "dated": false,
+      "seq": 414
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+      "dated": false,
+      "seq": 414
+    },
+    "上一境": {
+      "asOf": null,
+      "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+      "dated": false,
+      "seq": 414
+    },
+    "突破征兆": {
+      "asOf": null,
+      "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+      "dated": false,
+      "seq": 414
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict"
+    "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
+    "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo"
   ],
-  "updatedAt": "2026-08-17T15:34:17.181Z"
+  "updatedAt": "2026-08-17T20:24:08.673Z"
 }

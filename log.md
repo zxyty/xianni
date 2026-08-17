@@ -103,3 +103,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-17T18:32:24.697Z** `ingest` plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul — 仙逆 第423章 聪明莫若帝王——朱雀玄印与尊魂幡第四魂 · kind=plot asOf=2026-08-17 entities=98 relations=210 src=00401-00404.md
 - **2026-08-17T19:16:48.825Z** `ingest` plot.xianni-ch427-ancestral-spirit-tree — 仙逆 第427章 祖灵树：仙遗族以巨魔尸催生轮回树，楚云飞败退 · kind=plot asOf=2026-08-17 entities=150 relations=308 src=00405-00409.md
 - **2026-08-17T19:46:41.588Z** `ingest` plot.xianni-ch432-ancestral-rune-skull — 仙逆 第432章 祖符头骨：王林毁轮回树斩八叶术咒师 · kind=plot asOf=2026-08-17 entities=116 relations=217 src=00410-00413.md
+- **2026-08-17T20:24:08.805Z** `ingest` plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo — 仙逆 第436章 曹一斗：王林夜访赵国尸阴宗，撞破天运星弥勒宗残魂 · kind=plot asOf=2026-08-17 entities=109 relations=233 src=00414-00417.md
