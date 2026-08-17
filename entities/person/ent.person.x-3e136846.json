@@ -6,14 +6,18 @@
     "红云中的目光",
     "红云大手",
     "轮回使者",
-    "天道使者"
+    "天道使者",
+    "云层中的目光",
+    "云层中的巨大面孔",
+    "四星吉·古神"
   ],
   "summary": "天道轮回幻化而成的无情使者，现于漫天红云中的两道明亮目光，凝红云成支撑天地的巨掌，专司将妄图避过轮回者重新打入天道。",
   "attributes": {
-    "性格": "无任何情感，只遵守轮回",
-    "身份": "天道轮回幻化的使者",
-    "外貌": "漫天红云中的两道明亮之光，凝云成巨大手掌",
-    "标志特征": "指甲可划出五道巨大空间裂缝"
+    "性格": "冰冷无情，却首次流露迷茫",
+    "身份": "天道轮回幻化的使者、天道执行者、轮回天道之使者",
+    "外貌": "漫天红云中的两道明亮之光，凝云成巨大手掌、灰云中一道目光与探出的巨大手臂、面容平常无奇却令人自生敬畏；眉心七个星点，其中三个如被封印般黯淡",
+    "标志特征": "指甲可划出五道巨大空间裂缝、手臂缠绕红色闪电、以古神之语说话、催动灰芒巨大轮盘引动轮回之力",
+    "种族": "古神"
   },
   "observations": {
     "性格": [
@@ -21,6 +25,12 @@
         "value": "无任何情感，只遵守轮回",
         "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
         "seq": 317
+      },
+      {
+        "value": "冰冷无情，却首次流露迷茫",
+        "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
+        "seq": 382,
+        "note": "见到王林意境古神虚影后"
       }
     ],
     "身份": [
@@ -28,6 +38,16 @@
         "value": "天道轮回幻化的使者",
         "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
         "seq": 317
+      },
+      {
+        "value": "天道执行者",
+        "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
+        "seq": 382
+      },
+      {
+        "value": "轮回天道之使者",
+        "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
+        "seq": 382
       }
     ],
     "外貌": [
@@ -35,6 +55,16 @@
         "value": "漫天红云中的两道明亮之光，凝云成巨大手掌",
         "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
         "seq": 317
+      },
+      {
+        "value": "灰云中一道目光与探出的巨大手臂",
+        "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
+        "seq": 382
+      },
+      {
+        "value": "面容平常无奇却令人自生敬畏；眉心七个星点，其中三个如被封印般黯淡",
+        "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
+        "seq": 382
       }
     ],
     "标志特征": [
@@ -42,6 +72,29 @@
         "value": "指甲可划出五道巨大空间裂缝",
         "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
         "seq": 317
+      },
+      {
+        "value": "手臂缠绕红色闪电",
+        "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
+        "seq": 382,
+        "note": "第二次出手时"
+      },
+      {
+        "value": "以古神之语说话",
+        "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
+        "seq": 382
+      },
+      {
+        "value": "催动灰芒巨大轮盘引动轮回之力",
+        "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
+        "seq": 382
+      }
+    ],
+    "种族": [
+      {
+        "value": "古神",
+        "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
+        "seq": 382
       }
     ]
   },
@@ -49,9 +102,10 @@
   "attrProvenance": {
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+      "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
       "dated": false,
-      "seq": 317
+      "seq": 382,
+      "note": "见到王林意境古神虚影后"
     },
     "身份": {
       "asOf": null,
@@ -70,12 +124,19 @@
       "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
       "dated": false,
       "seq": 317
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
+      "dated": false,
+      "seq": 382
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan"
+    "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+    "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict"
   ],
-  "updatedAt": "2026-08-08T09:25:36.916Z"
+  "updatedAt": "2026-08-17T15:34:17.216Z"
 }

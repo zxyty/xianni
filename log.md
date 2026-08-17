@@ -96,3 +96,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-15T10:16:30.985Z** `ingest` plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms — 仙逆 第395章 朱雀星天资最高之人——王林封印双断臂、重创李元封逼其自爆抉择 · kind=plot asOf=2026-08-15 entities=89 relations=186 src=00373-00376.md
 - **2026-08-15T10:50:34.147Z** `ingest` plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays — 仙逆 第377-381章 巨魔族老祖现身与许立国反戈一击 · kind=plot asOf=2026-08-15 entities=99 relations=188 src=00377-00381.md
 - **2026-08-17T14:25:16.610Z** `ingest` plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power — 《仙逆》第701章：王林现身冉云星，力抗雷仙殿使者雷道子 · kind=plot asOf=2026-08-17 entities=57 relations=103 src=00661-00664.md
+- **2026-08-17T15:34:17.294Z** `ingest` plot.xianni-ch404-zhouru-limuwan-yuanying-conflict — 仙逆 第404章 周茹——魅惑残魂入魂幡与周茹排斥李慕婉元婴 · kind=plot asOf=2026-08-17 entities=78 relations=149 src=00382-00386.md

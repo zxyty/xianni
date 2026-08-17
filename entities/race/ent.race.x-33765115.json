@@ -6,16 +6,18 @@
     "Xianyi Clan",
     "第三层野人",
     "仙遗族野人",
-    "仙遗一族"
+    "仙遗一族",
+    "吾族",
+    "仙遗余孽"
   ],
   "summary": "符文星上的原住种族，以符文吸收妖兽之力，修行者称「术咒师」，按叶数分阶，敌视外来修士。",
   "attributes": {
-    "特性": "以符文吸收妖兽之力、以「叶」数划分术咒师阶序、视死亡为回归符文之中、修炼符文之力，以叶数（四叶/五叶）划分修为、全身画符文印记、眉心生叶记境界、操控符文与空间、眉心生妖异植物、种符成傀、受限无法离开仙遗第一层去地面、咒法诡异（符文植物寄生）、以族灵联系同族",
-    "聚居地": "符文星·仙遗之地、第三层、仙遗之地",
-    "阵营": "敌视外来修士",
+    "特性": "以符文吸收妖兽之力、以「叶」数划分术咒师阶序、视死亡为回归符文之中、修炼符文之力，以叶数（四叶/五叶）划分修为、全身画符文印记、眉心生叶记境界、操控符文与空间、眉心生妖异植物、种符成傀、受限无法离开仙遗第一层去地面、咒法诡异（符文植物寄生）、以族灵联系同族、眉心显植物虚影，以叶数计境界；无符文印记者亦可修符文、受封印限制，需秘术转化方可离开",
+    "聚居地": "符文星·仙遗之地、第三层、仙遗之地、朱雀星楚国边缘·仙遗之地深坑",
+    "阵营": "与朱雀国敌对",
     "代表人物": "卡莫、胡老、驼背老者、齿木、战咒士",
     "天赋神通": "种下符种炼人为符傀",
-    "天敌": "巨魔族先祖（曾斩其九叶术咒师）"
+    "天敌": "朱雀国"
   },
   "observations": {
     "特性": [
@@ -78,6 +80,16 @@
         "value": "以族灵联系同族",
         "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
         "seq": 332
+      },
+      {
+        "value": "眉心显植物虚影，以叶数计境界；无符文印记者亦可修符文",
+        "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
+        "seq": 382
+      },
+      {
+        "value": "受封印限制，需秘术转化方可离开",
+        "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
+        "seq": 382
       }
     ],
     "聚居地": [
@@ -95,6 +107,11 @@
         "value": "仙遗之地",
         "docId": "plot.xianni-ch347-xianyi-zu",
         "seq": 327
+      },
+      {
+        "value": "朱雀星楚国边缘·仙遗之地深坑",
+        "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
+        "seq": 382
       }
     ],
     "阵营": [
@@ -102,6 +119,11 @@
         "value": "敌视外来修士",
         "docId": "plot.xianni-ch347-xianyi-zu",
         "seq": 327
+      },
+      {
+        "value": "与朱雀国敌对",
+        "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
+        "seq": 382
       }
     ],
     "代表人物": [
@@ -148,6 +170,11 @@
         "value": "巨魔族先祖（曾斩其九叶术咒师）",
         "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
         "seq": 377
+      },
+      {
+        "value": "朱雀国",
+        "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
+        "seq": 382
       }
     ]
   },
@@ -167,9 +194,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch347-xianyi-zu",
+      "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
       "dated": false,
-      "seq": 327
+      "seq": 382
     },
     "代表人物": {
       "asOf": null,
@@ -185,9 +212,9 @@
     },
     "天敌": {
       "asOf": null,
-      "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+      "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
       "dated": false,
-      "seq": 377
+      "seq": 382
     }
   },
   "contested": false,
@@ -195,7 +222,8 @@
   "docs": [
     "plot.xianni-ch347-xianyi-zu",
     "plot.xianni-ch352-fu-kui-space-rift-flight",
-    "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays"
+    "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+    "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict"
   ],
-  "updatedAt": "2026-08-15T10:50:33.983Z"
+  "updatedAt": "2026-08-17T15:34:17.200Z"
 }

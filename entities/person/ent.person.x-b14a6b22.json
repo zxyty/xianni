@@ -7,13 +7,16 @@
     "Zhu Que Zi",
     "柳眉师尊",
     "朱雀国之主",
-    "朱雀子前辈"
+    "朱雀子前辈",
+    "第十四代朱雀子",
+    "红袍朱雀子"
   ],
   "summary": "朱雀星上的第一人，柳眉的师尊。本片段仅由柳眉口述提及。",
   "attributes": {
-    "称号": "朱雀星第一人",
-    "身份": "柳眉之师尊、柳眉之师、柳眉的师尊",
-    "阵营": "朱雀国"
+    "称号": "第十四代朱雀子",
+    "身份": "柳眉之师尊、柳眉之师、柳眉的师尊、朱雀国之主",
+    "阵营": "朱雀国",
+    "外貌": "身穿红袍，目光如炬"
   },
   "observations": {
     "称号": [
@@ -21,6 +24,11 @@
         "value": "朱雀星第一人",
         "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
         "seq": 363
+      },
+      {
+        "value": "第十四代朱雀子",
+        "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
+        "seq": 382
       }
     ],
     "身份": [
@@ -38,6 +46,11 @@
         "value": "柳眉的师尊",
         "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
         "seq": 368
+      },
+      {
+        "value": "朱雀国之主",
+        "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
+        "seq": 382
       }
     ],
     "阵营": [
@@ -46,15 +59,22 @@
         "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
         "seq": 363
       }
+    ],
+    "外貌": [
+      {
+        "value": "身穿红袍，目光如炬",
+        "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
+        "seq": 382
+      }
     ]
   },
   "firstSeq": 363,
   "attrProvenance": {
     "称号": {
       "asOf": null,
-      "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+      "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
       "dated": false,
-      "seq": 363
+      "seq": 382
     },
     "身份": {
       "asOf": null,
@@ -67,6 +87,12 @@
       "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
       "dated": false,
       "seq": 363
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
+      "dated": false,
+      "seq": 382
     }
   },
   "contested": false,
@@ -74,7 +100,8 @@
   "docs": [
     "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
     "plot.xianni-ch368-372-three-great-gifts-dun-tian",
-    "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms"
+    "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms",
+    "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict"
   ],
-  "updatedAt": "2026-08-15T10:16:30.882Z"
+  "updatedAt": "2026-08-17T15:34:17.190Z"
 }
