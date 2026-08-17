@@ -100,3 +100,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-17T16:12:05.596Z** `ingest` plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman — 仙逆 第409章「道心」：周茹寻叔与王林生死意境大圆满、突破化神备战婴变 · kind=plot asOf=2026-08-17 entities=110 relations=231 src=00387-00391.md
 - **2026-08-17T16:51:12.082Z** `ingest` plot.xianni-ch414-zhaoguo-farewell-hengyue-relics — 仙逆 第414章 巨富：王林受尊赵国始祖、别赵国、重返恒岳派 · kind=plot asOf=2026-08-17 entities=118 relations=249 src=00392-00396.md
 - **2026-08-17T17:15:30.574Z** `ingest` lore.zunhun-fan-second-zhuque-situ-nan-chapter-419 — 第419章 尊魂幡秘辛与二代朱雀子疑为司徒南 · kind=lore asOf=2026-08-17 entities=74 relations=168 src=00397-00400.md
+- **2026-08-17T18:32:24.697Z** `ingest` plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul — 仙逆 第423章 聪明莫若帝王——朱雀玄印与尊魂幡第四魂 · kind=plot asOf=2026-08-17 entities=98 relations=210 src=00401-00404.md

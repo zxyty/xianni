@@ -9,7 +9,8 @@
     "决明谷秘境",
     "决明谷山谷",
     "决明谷外",
-    "储物袋破碎之地"
+    "储物袋破碎之地",
+    "决明谷内"
   ],
   "summary": "位于赵国境内偏南、谷内极大且有密林流水、常年雾气缭绕，是每百年一次域外资格赛的战斗地点。",
   "attributes": {
@@ -19,7 +20,7 @@
     "规模": "小地方",
     "所属势力": "赵国",
     "守护": "封印阵法、出口八角形阵法、阵法限制化神期以下方可进入",
-    "危险度": "高",
+    "危险度": "极高（司徒南在此差点身亡）",
     "特产": "邻近空间裂缝"
   },
   "observations": {
@@ -146,6 +147,11 @@
         "value": "高",
         "docId": "lore.xianni-ch105-jijing-realm",
         "seq": 90
+      },
+      {
+        "value": "极高（司徒南在此差点身亡）",
+        "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+        "seq": 401
       }
     ],
     "特产": [
@@ -206,9 +212,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "lore.xianni-ch105-jijing-realm",
+      "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
       "dated": false,
-      "seq": 90
+      "seq": 401
     },
     "特产": {
       "asOf": null,
@@ -227,7 +233,8 @@
     "plot.xianni-ch129-131-jiedan-sandan-heyi",
     "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
     "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
-    "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics"
+    "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+    "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul"
   ],
-  "updatedAt": "2026-08-17T16:51:11.844Z"
+  "updatedAt": "2026-08-17T18:32:24.618Z"
 }

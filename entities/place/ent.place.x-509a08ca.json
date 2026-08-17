@@ -4,14 +4,18 @@
   "name": "小北炎极之地",
   "aliases": [
     "北炎极之地",
-    "小北炎极"
+    "小北炎极",
+    "朱雀星小北炎极之地",
+    "炎极之地"
   ],
   "summary": "朱雀星上的险地，存在朱雀星诞生之时就有的天然禁制，巨魔族老祖借此甩脱魔童追击。",
   "attributes": {
     "所属界面": "朱雀星",
-    "类型": "天然禁制险地",
+    "类型": "秘地",
     "危险度": "极高",
-    "守护": "朱雀星诞生时即存在的天然禁制"
+    "守护": "朱雀星诞生时即存在的天然禁制",
+    "方位": "朱雀星极北",
+    "上级区域": "朱雀星"
   },
   "observations": {
     "所属界面": [
@@ -26,6 +30,11 @@
         "value": "天然禁制险地",
         "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
         "seq": 356
+      },
+      {
+        "value": "秘地",
+        "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+        "seq": 401
       }
     ],
     "危险度": [
@@ -41,6 +50,20 @@
         "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
         "seq": 356
       }
+    ],
+    "方位": [
+      {
+        "value": "朱雀星极北",
+        "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+        "seq": 401
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+        "seq": 401
+      }
     ]
   },
   "firstSeq": 356,
@@ -53,9 +76,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+      "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
       "dated": false,
-      "seq": 356
+      "seq": 401
     },
     "危险度": {
       "asOf": null,
@@ -68,12 +91,25 @@
       "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
       "dated": false,
       "seq": 356
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+      "dated": false,
+      "seq": 401
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+      "dated": false,
+      "seq": 401
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo"
+    "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+    "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul"
   ],
-  "updatedAt": "2026-08-08T16:24:14.280Z"
+  "updatedAt": "2026-08-17T18:32:24.592Z"
 }

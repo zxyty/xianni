@@ -5,8 +5,9 @@
   "aliases": [],
   "summary": "朱雀国初代强者，与炼魂宗始祖订立借幡之约，并为「悠远」古剑赐名朱雀剑。",
   "attributes": {
-    "身份": "朱雀国初代",
-    "存殁": "死亡"
+    "身份": "朱雀国初代、朱雀一脉初代、朱雀国初代朱雀",
+    "存殁": "已死",
+    "结局": "第397章已死；本章仅作回忆/旧事提及"
   },
   "observations": {
     "身份": [
@@ -14,6 +15,16 @@
         "value": "朱雀国初代",
         "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
         "seq": 397
+      },
+      {
+        "value": "朱雀一脉初代",
+        "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+        "seq": 401
+      },
+      {
+        "value": "朱雀国初代朱雀",
+        "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+        "seq": 401
       }
     ],
     "存殁": [
@@ -22,6 +33,19 @@
         "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
         "seq": 397,
         "note": "已于第382章死亡，本章仅为追述"
+      },
+      {
+        "value": "已死",
+        "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+        "seq": 401,
+        "note": "本章仅被提及作对比"
+      }
+    ],
+    "结局": [
+      {
+        "value": "第397章已死；本章仅作回忆/旧事提及",
+        "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+        "seq": 401
       }
     ]
   },
@@ -35,16 +59,23 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+      "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
       "dated": false,
-      "seq": 397,
-      "note": "已于第382章死亡，本章仅为追述"
+      "seq": 401,
+      "note": "本章仅被提及作对比"
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+      "dated": false,
+      "seq": 401
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419"
+    "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+    "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul"
   ],
-  "updatedAt": "2026-08-17T17:15:30.468Z"
+  "updatedAt": "2026-08-17T18:32:24.613Z"
 }

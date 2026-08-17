@@ -3,13 +3,15 @@
   "type": "faction",
   "name": "地魄门",
   "aliases": [
-    "Dipo Sect"
+    "Dipo Sect",
+    "地魄"
   ],
   "summary": "朱雀国三大宗派之一，拥有一位问鼎期老怪。",
   "attributes": {
-    "等级": "朱雀国三宗之一",
+    "等级": "拥有一名问鼎初期老怪",
     "所属界面": "朱雀星",
-    "据点": "朱雀国西部"
+    "据点": "朱雀国西部",
+    "阵营": "朱雀星修真势力"
   },
   "observations": {
     "等级": [
@@ -17,6 +19,11 @@
         "value": "朱雀国三宗之一",
         "docId": "plot.xianni-ch361-zhuque-guo-arrival",
         "seq": 341
+      },
+      {
+        "value": "拥有一名问鼎初期老怪",
+        "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+        "seq": 401
       }
     ],
     "所属界面": [
@@ -32,15 +39,22 @@
         "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
         "seq": 382
       }
+    ],
+    "阵营": [
+      {
+        "value": "朱雀星修真势力",
+        "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+        "seq": 401
+      }
     ]
   },
   "firstSeq": 341,
   "attrProvenance": {
     "等级": {
       "asOf": null,
-      "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+      "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
       "dated": false,
-      "seq": 341
+      "seq": 401
     },
     "所属界面": {
       "asOf": null,
@@ -53,13 +67,20 @@
       "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
       "dated": false,
       "seq": 382
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+      "dated": false,
+      "seq": 401
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch361-zhuque-guo-arrival",
-    "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict"
+    "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
+    "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul"
   ],
-  "updatedAt": "2026-08-17T15:34:17.204Z"
+  "updatedAt": "2026-08-17T18:32:24.615Z"
 }
