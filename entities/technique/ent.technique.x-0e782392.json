@@ -4,13 +4,16 @@
   "name": "三式杀招神通",
   "aliases": [
     "司徒南三式杀招",
-    "凶魔之术"
+    "凶魔之术",
+    "司徒南杀招",
+    "司徒南的三式杀招"
   ],
   "summary": "司徒南数万年修道总结而出的凶魔之术，共三式，威力无穷，一生只传王林一人；寂灭指为其一。",
   "attributes": {
-    "出处": "司徒南",
-    "效果": "威力无穷的杀招",
-    "修炼条件": "仅传王林一人"
+    "出处": "司徒南所创并传授王林",
+    "效果": "三式杀招，末式为黄泉指",
+    "修炼条件": "仅传王林一人",
+    "适用境界": "第三式需婴变中期以上方可勉强施展"
   },
   "observations": {
     "出处": [
@@ -18,6 +21,11 @@
         "value": "司徒南",
         "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
         "seq": 457
+      },
+      {
+        "value": "司徒南所创并传授王林",
+        "docId": "plot.xianni-ch500-battle-against-wending-huangquan-finger",
+        "seq": 477
       }
     ],
     "效果": [
@@ -25,6 +33,11 @@
         "value": "威力无穷的杀招",
         "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
         "seq": 457
+      },
+      {
+        "value": "三式杀招，末式为黄泉指",
+        "docId": "plot.xianni-ch500-battle-against-wending-huangquan-finger",
+        "seq": 477
       }
     ],
     "修炼条件": [
@@ -34,21 +47,28 @@
         "seq": 457,
         "note": "司徒南一生独传"
       }
+    ],
+    "适用境界": [
+      {
+        "value": "第三式需婴变中期以上方可勉强施展",
+        "docId": "plot.xianni-ch500-battle-against-wending-huangquan-finger",
+        "seq": 477
+      }
     ]
   },
   "firstSeq": 457,
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
+      "docId": "plot.xianni-ch500-battle-against-wending-huangquan-finger",
       "dated": false,
-      "seq": 457
+      "seq": 477
     },
     "效果": {
       "asOf": null,
-      "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
+      "docId": "plot.xianni-ch500-battle-against-wending-huangquan-finger",
       "dated": false,
-      "seq": 457
+      "seq": 477
     },
     "修炼条件": {
       "asOf": null,
@@ -56,12 +76,19 @@
       "dated": false,
       "seq": 457,
       "note": "司徒南一生独传"
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-ch500-battle-against-wending-huangquan-finger",
+      "dated": false,
+      "seq": 477
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch457-461-tianyunzong-ziyunge"
+    "plot.xianni-ch457-461-tianyunzong-ziyunge",
+    "plot.xianni-ch500-battle-against-wending-huangquan-finger"
   ],
-  "updatedAt": "2026-08-21T06:26:48.940Z"
+  "updatedAt": "2026-08-21T09:14:22.761Z"
 }

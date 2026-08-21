@@ -2,10 +2,14 @@
   "id": "ent.artifact.x-756c389a",
   "type": "artifact",
   "name": "战神车",
-  "aliases": [],
+  "aliases": [
+    "战神战车"
+  ],
   "summary": "王林仙界之行的收获之一。",
   "attributes": {
-    "持有者": "王林"
+    "持有者": "王林",
+    "能力": "开启封印后化为攻击手段",
+    "禁制": "第一道封印"
   },
   "observations": {
     "持有者": [
@@ -13,6 +17,21 @@
         "value": "王林",
         "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
         "seq": 299
+      }
+    ],
+    "能力": [
+      {
+        "value": "开启封印后化为攻击手段",
+        "docId": "plot.xianni-ch500-battle-against-wending-huangquan-finger",
+        "seq": 477
+      }
+    ],
+    "禁制": [
+      {
+        "value": "第一道封印",
+        "docId": "plot.xianni-ch500-battle-against-wending-huangquan-finger",
+        "seq": 477,
+        "note": "本片段王林可开启的封印层级"
       }
     ]
   },
@@ -23,12 +42,26 @@
       "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
       "dated": false,
       "seq": 299
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch500-battle-against-wending-huangquan-finger",
+      "dated": false,
+      "seq": 477
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch500-battle-against-wending-huangquan-finger",
+      "dated": false,
+      "seq": 477,
+      "note": "本片段王林可开启的封印层级"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet"
+    "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
+    "plot.xianni-ch500-battle-against-wending-huangquan-finger"
   ],
-  "updatedAt": "2026-08-08T05:08:08.180Z"
+  "updatedAt": "2026-08-21T09:14:22.762Z"
 }

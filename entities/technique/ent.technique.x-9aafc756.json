@@ -4,12 +4,14 @@
   "name": "轮回之下的生死感悟",
   "aliases": [
     "轮回意境",
-    "曾牛的意境"
+    "曾牛的意境",
+    "轮回之意"
   ],
   "summary": "红蝶传回的情报所指「曾牛」所悟意境；宗主称能感悟此意境者即便化神期也不可小觑。",
   "attributes": {
-    "效果": "使化神期修士战力远超同阶",
-    "适用境界": "化神期"
+    "效果": "凝聚意境所化之指配合本体攻击",
+    "适用境界": "化神期",
+    "外显异象": "天空好似被飓风肆虐"
   },
   "observations": {
     "效果": [
@@ -17,6 +19,11 @@
         "value": "使化神期修士战力远超同阶",
         "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
         "seq": 336
+      },
+      {
+        "value": "凝聚意境所化之指配合本体攻击",
+        "docId": "plot.xianni-ch500-battle-against-wending-huangquan-finger",
+        "seq": 477
       }
     ],
     "适用境界": [
@@ -25,27 +32,41 @@
         "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
         "seq": 336
       }
+    ],
+    "外显异象": [
+      {
+        "value": "天空好似被飓风肆虐",
+        "docId": "plot.xianni-ch500-battle-against-wending-huangquan-finger",
+        "seq": 477
+      }
     ]
   },
   "firstSeq": 336,
   "attrProvenance": {
     "效果": {
       "asOf": null,
-      "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+      "docId": "plot.xianni-ch500-battle-against-wending-huangquan-finger",
       "dated": false,
-      "seq": 336
+      "seq": 477
     },
     "适用境界": {
       "asOf": null,
       "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
       "dated": false,
       "seq": 336
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.xianni-ch500-battle-against-wending-huangquan-finger",
+      "dated": false,
+      "seq": 477
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch356-departure-immortal-remains-void-rift"
+    "plot.xianni-ch356-departure-immortal-remains-void-rift",
+    "plot.xianni-ch500-battle-against-wending-huangquan-finger"
   ],
-  "updatedAt": "2026-08-08T14:28:21.393Z"
+  "updatedAt": "2026-08-21T09:14:22.722Z"
 }

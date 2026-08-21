@@ -116,3 +116,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-21T07:52:46.316Z** `ingest` plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin — 仙逆 第485章 仙术——天运子一语崩元神，点破王林身沾魔道气息 · kind=plot asOf=2026-08-21 entities=115 relations=275 src=00462-00466.md
 - **2026-08-21T08:12:23.231Z** `ingest` plot.xianni-ch467-471-ziqi-donglai-chuangyan — 仙逆 第467-471章：紫气东来·闯天运宗寿宴 · kind=plot asOf=2026-08-21 entities=73 relations=132 src=00467-00471.md
 - **2026-08-21T08:54:41.401Z** `ingest` lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao — 第472-476章 天运子讲道：修道三步与「他」；星痕貂与仙玉 · kind=lore asOf=2026-08-21 entities=69 relations=130 src=00472-00476.md
+- **2026-08-21T09:14:22.865Z** `ingest` plot.xianni-ch500-battle-against-wending-huangquan-finger — 仙逆 第500章 战问鼎！——射神车解第一封印，王林施展黄泉指战陈涛 · kind=plot asOf=2026-08-21 entities=68 relations=125 src=00477-00480.md
