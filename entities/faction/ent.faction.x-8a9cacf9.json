@@ -5,15 +5,17 @@
   "aliases": [
     "Tianyun Sect",
     "天运宗门派",
-    "Tian Yun Sect"
+    "Tian Yun Sect",
+    "夭运宗"
   ],
   "summary": "天运星上的顶级势力，与大罗剑宗同级；掌门级人物天运子推算出雨之仙剑出世并遣徒阻止大罗剑宗获取。",
   "attributes": {
     "等级": "与大罗剑宗同级",
     "掌门": "天运子",
     "所属界面": "天运星",
-    "理念": "世间一切运缘皆冥冥之中注定，不可强求，不可避过",
-    "据点": "运仙阁"
+    "理念": "入门须过三关之礼（道心·修为·意境）",
+    "据点": "天运星东部十万大山",
+    "镇派之宝": "入门三关"
   },
   "observations": {
     "等级": [
@@ -47,6 +49,11 @@
         "value": "世间一切运缘皆冥冥之中注定，不可强求，不可避过",
         "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
         "seq": 428
+      },
+      {
+        "value": "入门须过三关之礼（道心·修为·意境）",
+        "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+        "seq": 452
       }
     ],
     "据点": [
@@ -59,6 +66,19 @@
         "value": "运仙阁",
         "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
         "seq": 428
+      },
+      {
+        "value": "天运星东部十万大山",
+        "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+        "seq": 452
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "入门三关",
+        "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+        "seq": 452,
+        "note": "天运子劈虚无所布，非常规法宝"
       }
     ]
   },
@@ -84,15 +104,22 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+      "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
       "dated": false,
-      "seq": 428
+      "seq": 452
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+      "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
       "dated": false,
-      "seq": 428
+      "seq": 452
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+      "dated": false,
+      "seq": 452,
+      "note": "天运子劈虚无所布，非常规法宝"
     }
   },
   "contested": false,
@@ -100,7 +127,8 @@
   "docs": [
     "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
     "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
-    "plot.xianni-ch451-waner-mingpo-tianyun-star"
+    "plot.xianni-ch451-waner-mingpo-tianyun-star",
+    "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye"
   ],
-  "updatedAt": "2026-08-21T02:32:55.490Z"
+  "updatedAt": "2026-08-21T06:06:51.847Z"
 }

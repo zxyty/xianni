@@ -3,13 +3,15 @@
   "type": "material",
   "name": "墨雪液",
   "aliases": [
-    "墨雪"
+    "墨雪",
+    "Mo Xue Ye"
   ],
   "summary": "王林所需的第二样祭炼星罗盘之物，李丹南闻所未闻，疑可在商氏店铺寻得。",
   "attributes": {
-    "类型": "液态灵材",
-    "用途": "祭炼／修复星罗盘所需之物",
-    "稀有度": "极罕见，明玫城本地人未曾听闻"
+    "类型": "液态灵材、滋养元神的液态灵材、炼器液态材料",
+    "用途": "祭炼／修复星罗盘所需之物、滋养元神、加快夺舍时元神融合速度数倍、元神出窍时口含保元神不散、重创亦可返体、使坤木石与星罗盘彻底融合",
+    "稀有度": "极罕见，明玫城本地人未曾听闻、修真界顶级材料之一，对修士极为稀少（古神横渡星球搜寻则容易）、珍稀（需从交易星店铺抢夺）",
+    "产地": "商氏店铺有售，售价极高"
   },
   "observations": {
     "类型": [
@@ -17,6 +19,16 @@
         "value": "液态灵材",
         "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
         "seq": 447
+      },
+      {
+        "value": "滋养元神的液态灵材",
+        "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+        "seq": 452
+      },
+      {
+        "value": "炼器液态材料",
+        "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+        "seq": 452
       }
     ],
     "用途": [
@@ -24,6 +36,26 @@
         "value": "祭炼／修复星罗盘所需之物",
         "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
         "seq": 447
+      },
+      {
+        "value": "滋养元神",
+        "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+        "seq": 452
+      },
+      {
+        "value": "加快夺舍时元神融合速度数倍",
+        "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+        "seq": 452
+      },
+      {
+        "value": "元神出窍时口含保元神不散、重创亦可返体",
+        "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+        "seq": 452
+      },
+      {
+        "value": "使坤木石与星罗盘彻底融合",
+        "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+        "seq": 452
       }
     ],
     "稀有度": [
@@ -31,6 +63,23 @@
         "value": "极罕见，明玫城本地人未曾听闻",
         "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
         "seq": 447
+      },
+      {
+        "value": "修真界顶级材料之一，对修士极为稀少（古神横渡星球搜寻则容易）",
+        "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+        "seq": 452
+      },
+      {
+        "value": "珍稀（需从交易星店铺抢夺）",
+        "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+        "seq": 452
+      }
+    ],
+    "产地": [
+      {
+        "value": "商氏店铺有售，售价极高",
+        "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+        "seq": 452
       }
     ]
   },
@@ -53,12 +102,19 @@
       "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
       "dated": false,
       "seq": 447
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+      "dated": false,
+      "seq": 452
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch447-451-farewell-zhuque-star"
+    "plot.xianni-ch447-451-farewell-zhuque-star",
+    "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye"
   ],
-  "updatedAt": "2026-08-21T05:47:06.561Z"
+  "updatedAt": "2026-08-21T06:06:51.804Z"
 }

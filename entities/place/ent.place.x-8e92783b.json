@@ -6,13 +6,16 @@
     "交易之星",
     "自由交易星",
     "水蓝色修真星",
-    "Trading Star"
+    "Trading Star",
+    "交易星球",
+    "九城交易星",
+    "明玫城所在交易星"
   ],
   "summary": "王林与司徒南此行的目的地，可购置各类器具；司徒南将在此与王林分别。",
   "attributes": {
-    "类型": "星辰、交易场所、修真星/自由交易场",
+    "类型": "星辰、交易场所、修真星/自由交易场、星球/交易之地",
     "特产": "各类器具、各种法宝、各种材料",
-    "规模": "四周各修真星修士云集，极为热闹",
+    "规模": "共九个城池",
     "守护": "外围一圈环形柔和光幕（对强者无阻拦作用）",
     "危险度": "无强于司徒南者"
   },
@@ -27,6 +30,11 @@
         "value": "修真星/自由交易场",
         "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
         "seq": 447
+      },
+      {
+        "value": "星球/交易之地",
+        "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+        "seq": 452
       }
     ],
     "特产": [
@@ -51,6 +59,11 @@
         "value": "四周各修真星修士云集，极为热闹",
         "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
         "seq": 447
+      },
+      {
+        "value": "共九个城池",
+        "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+        "seq": 452
       }
     ],
     "守护": [
@@ -85,9 +98,9 @@
     },
     "规模": {
       "asOf": null,
-      "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+      "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
       "dated": false,
-      "seq": 447
+      "seq": 452
     },
     "守护": {
       "asOf": null,
@@ -106,7 +119,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch447-451-farewell-zhuque-star"
+    "plot.xianni-ch447-451-farewell-zhuque-star",
+    "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye"
   ],
-  "updatedAt": "2026-08-21T05:47:06.541Z"
+  "updatedAt": "2026-08-21T06:06:51.808Z"
 }

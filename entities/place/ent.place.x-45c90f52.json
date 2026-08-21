@@ -9,10 +9,13 @@
   ],
   "summary": "海洋修真星大陆上的巨城，城内无凡人全为修真者，西首自由坊市、北首九家奢华店铺，入城需缴灵石。",
   "attributes": {
-    "类型": "修真者交易城池",
+    "类型": "修真者交易城池、交易城池、城池",
     "规模": "巨大城池，店铺密布，修士众多",
     "特产": "自由坊市交易、商氏店铺搜罗万象",
-    "守护": "城主府可雇修士守护交易"
+    "守护": "城主府可雇修士守护交易",
+    "上级区域": "交易星",
+    "危险度": "北城设盘查、有波纹禁制",
+    "所属界面": "交易星"
   },
   "observations": {
     "类型": [
@@ -20,6 +23,16 @@
         "value": "修真者交易城池",
         "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
         "seq": 447
+      },
+      {
+        "value": "交易城池",
+        "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+        "seq": 452
+      },
+      {
+        "value": "城池",
+        "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+        "seq": 452
       }
     ],
     "规模": [
@@ -46,6 +59,27 @@
         "value": "城主府可雇修士守护交易",
         "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
         "seq": 447
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "交易星",
+        "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+        "seq": 452
+      }
+    ],
+    "危险度": [
+      {
+        "value": "北城设盘查、有波纹禁制",
+        "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+        "seq": 452
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "交易星",
+        "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+        "seq": 452
       }
     ]
   },
@@ -74,12 +108,31 @@
       "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
       "dated": false,
       "seq": 447
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+      "dated": false,
+      "seq": 452
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+      "dated": false,
+      "seq": 452
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+      "dated": false,
+      "seq": 452
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch447-451-farewell-zhuque-star"
+    "plot.xianni-ch447-451-farewell-zhuque-star",
+    "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye"
   ],
-  "updatedAt": "2026-08-21T05:47:06.556Z"
+  "updatedAt": "2026-08-21T06:06:51.810Z"
 }
