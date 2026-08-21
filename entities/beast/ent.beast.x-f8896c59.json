@@ -7,16 +7,19 @@
     "眉心黑雾小兽",
     "孽畜",
     "拴铁链的魂兽",
-    "炼魂峰魂兽"
+    "炼魂峰魂兽",
+    "尊天兽",
+    "百丈魂兽"
   ],
   "summary": "自李慕婉眉心涌出的黑雾所化小兽，一口吞噬展白的血虫，目光阴森护主，被展白认出为「魂兽」。",
   "attributes": {
     "种族": "魂兽",
     "主人": "王林",
-    "能力": "吞噬血虫、大口化无穷大吞噬、身躯贯穿敌体、受黑芒滋养膨胀、撞碎金色光团、吞噬魂类生灵、以魂漩吸收魂魄、吞噬",
+    "能力": "吞噬血虫、大口化无穷大吞噬、身躯贯穿敌体、受黑芒滋养膨胀、撞碎金色光团、吞噬魂类生灵、以魂漩吸收魂魄、吞噬、不屈咆哮震慑（方圆数万里可闻，阻断弟子灵力）、吞噬魂魄为祭品",
     "栖息地": "炼魂峰灵脉深处",
-    "外形": "拖曳无数黑色铁链的凶兽",
-    "天敌": "无（麒麟残魂视其为天敌）"
+    "外形": "高约百丈，硕大头颅，双目冰寒幽光，身缠粗大铁链",
+    "天敌": "无（麒麟残魂视其为天敌）",
+    "等级": "令婴变后期修士忌惮"
   },
   "observations": {
     "种族": [
@@ -78,6 +81,16 @@
         "value": "吞噬",
         "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
         "seq": 363
+      },
+      {
+        "value": "不屈咆哮震慑（方圆数万里可闻，阻断弟子灵力）",
+        "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
+        "seq": 457
+      },
+      {
+        "value": "吞噬魂魄为祭品",
+        "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
+        "seq": 457
       }
     ],
     "栖息地": [
@@ -107,6 +120,11 @@
         "value": "拖曳无数黑色铁链的凶兽",
         "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
         "seq": 363
+      },
+      {
+        "value": "高约百丈，硕大头颅，双目冰寒幽光，身缠粗大铁链",
+        "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
+        "seq": 457
       }
     ],
     "天敌": [
@@ -119,6 +137,13 @@
         "value": "无（麒麟残魂视其为天敌）",
         "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
         "seq": 363
+      }
+    ],
+    "等级": [
+      {
+        "value": "令婴变后期修士忌惮",
+        "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
+        "seq": 457
       }
     ]
   },
@@ -150,15 +175,21 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+      "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
       "dated": false,
-      "seq": 363
+      "seq": 457
     },
     "天敌": {
       "asOf": null,
       "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
       "dated": false,
       "seq": 363
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
+      "dated": false,
+      "seq": 457
     }
   },
   "contested": false,
@@ -166,7 +197,8 @@
   "docs": [
     "plot.xianni-ch327-return-to-zhuque-star",
     "plot.xianni-ch361-zhuque-guo-arrival",
-    "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction"
+    "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+    "plot.xianni-ch457-461-tianyunzong-ziyunge"
   ],
-  "updatedAt": "2026-08-15T09:19:09.975Z"
+  "updatedAt": "2026-08-21T06:26:48.965Z"
 }

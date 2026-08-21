@@ -6,15 +6,17 @@
     "Tianyun Sect",
     "天运宗门派",
     "Tian Yun Sect",
-    "夭运宗"
+    "夭运宗",
+    "天运宗七系",
+    "天运宗紫宗"
   ],
   "summary": "天运星上的顶级势力，与大罗剑宗同级；掌门级人物天运子推算出雨之仙剑出世并遣徒阻止大罗剑宗获取。",
   "attributes": {
     "等级": "与大罗剑宗同级",
     "掌门": "天运子",
     "所属界面": "天运星",
-    "理念": "入门须过三关之礼（道心·修为·意境）",
-    "据点": "天运星东部十万大山",
+    "理念": "七系七人、择一嫡传",
+    "据点": "天运星、运仙阁、天运星东部十万大山、紫宗山门、十万大山、天运宗总宗",
     "镇派之宝": "入门三关"
   },
   "observations": {
@@ -54,6 +56,12 @@
         "value": "入门须过三关之礼（道心·修为·意境）",
         "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
         "seq": 452
+      },
+      {
+        "value": "七系七人、择一嫡传",
+        "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
+        "seq": 457,
+        "note": "始祖尊者所定，胜出者为天运七子"
       }
     ],
     "据点": [
@@ -71,6 +79,21 @@
         "value": "天运星东部十万大山",
         "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
         "seq": 452
+      },
+      {
+        "value": "紫宗山门",
+        "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
+        "seq": 457
+      },
+      {
+        "value": "十万大山",
+        "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
+        "seq": 457
+      },
+      {
+        "value": "天运宗总宗",
+        "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
+        "seq": 457
       }
     ],
     "镇派之宝": [
@@ -104,15 +127,16 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+      "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
       "dated": false,
-      "seq": 452
+      "seq": 457,
+      "note": "始祖尊者所定，胜出者为天运七子"
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+      "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
       "dated": false,
-      "seq": 452
+      "seq": 387
     },
     "镇派之宝": {
       "asOf": null,
@@ -128,7 +152,8 @@
     "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
     "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
     "plot.xianni-ch451-waner-mingpo-tianyun-star",
-    "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye"
+    "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+    "plot.xianni-ch457-461-tianyunzong-ziyunge"
   ],
-  "updatedAt": "2026-08-21T06:06:51.847Z"
+  "updatedAt": "2026-08-21T06:26:48.903Z"
 }

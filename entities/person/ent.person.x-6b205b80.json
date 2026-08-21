@@ -17,19 +17,22 @@
     "白眉老者",
     "菩提树下老者",
     "夭运子",
-    "天运宗宗主"
+    "天运宗宗主",
+    "紫宗始祖",
+    "慈眉善目老者"
   ],
   "summary": "乘巨石流星路过废弃修真星的白发老者，点醒追寻轮回天道的王林并将其神念推回，许诺若王林能走出此星可赴天运星做其记名弟子百年。",
   "attributes": {
-    "外貌": "白发飘散、慈眉善目、眉毛如两条白龙自眉角垂下，双目明亮，出尘不显老态",
-    "身份": "天运星高人、留下星图之高人、王林欲拜的前辈、天运星上与大罗剑宗争锋者、天运宗师尊、天运星大能、天运星势力尊长、王林之师、天运宗高层、修真联盟席位者、天运宗尊长、天运星相关前辈、天运宗尊者、天运宗宗主／入门三关布置者",
+    "外貌": "慈眉善目、长眉飘散、白须老者",
+    "身份": "天运星高人、留下星图之高人、王林欲拜的前辈、天运星上与大罗剑宗争锋者、天运宗师尊、天运星大能、天运星势力尊长、王林之师、天运宗高层、修真联盟席位者、天运宗尊长、天运星相关前辈、天运宗尊者、天运宗宗主／入门三关布置者、天运宗宗主、王林记名之师、紫系一脉之主、赵星煞等人之师",
     "标志特征": "身上无半点死气，只有磅礴生机",
     "称号": "尊者大人",
     "元神强度": "定然通神",
     "阵营": "天运宗",
     "出身地": "天运星",
-    "存殁": "在世",
-    "性格": "出尘、平和"
+    "存殁": "存活",
+    "性格": "慈善从容、深不可测",
+    "性别": "男"
   },
   "observations": {
     "外貌": [
@@ -47,6 +50,11 @@
         "value": "白发飘散、慈眉善目、眉毛如两条白龙自眉角垂下，双目明亮，出尘不显老态",
         "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
         "seq": 452
+      },
+      {
+        "value": "慈眉善目、长眉飘散、白须老者",
+        "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
+        "seq": 457
       }
     ],
     "身份": [
@@ -119,6 +127,26 @@
         "value": "天运宗宗主／入门三关布置者",
         "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
         "seq": 452
+      },
+      {
+        "value": "天运宗宗主",
+        "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
+        "seq": 457
+      },
+      {
+        "value": "王林记名之师",
+        "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
+        "seq": 457
+      },
+      {
+        "value": "紫系一脉之主",
+        "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
+        "seq": 457
+      },
+      {
+        "value": "赵星煞等人之师",
+        "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
+        "seq": 457
       }
     ],
     "标志特征": [
@@ -187,6 +215,11 @@
         "value": "在世",
         "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
         "seq": 304
+      },
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
+        "seq": 457
       }
     ],
     "性格": [
@@ -194,6 +227,18 @@
         "value": "出尘、平和",
         "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
         "seq": 428
+      },
+      {
+        "value": "慈善从容、深不可测",
+        "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
+        "seq": 457
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
+        "seq": 457
       }
     ]
   },
@@ -201,9 +246,9 @@
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+      "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
       "dated": false,
-      "seq": 452
+      "seq": 457
     },
     "身份": {
       "asOf": null,
@@ -244,15 +289,21 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
+      "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
       "dated": false,
-      "seq": 304
+      "seq": 457
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+      "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
       "dated": false,
-      "seq": 428
+      "seq": 457
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
+      "dated": false,
+      "seq": 457
     }
   },
   "contested": false,
@@ -268,7 +319,8 @@
     "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
     "plot.xianni-ch427-ancestral-spirit-tree",
     "plot.xianni-ch451-waner-mingpo-tianyun-star",
-    "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye"
+    "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+    "plot.xianni-ch457-461-tianyunzong-ziyunge"
   ],
-  "updatedAt": "2026-08-21T06:06:51.842Z"
+  "updatedAt": "2026-08-21T06:26:48.949Z"
 }

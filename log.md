@@ -112,3 +112,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-21T04:01:24.753Z** `ingest` plot.xianni-ch466-tuosen-kills-qianfeng-mingpo — 仙逆 第466章 拓森的杀机：乾风祭古神铁剑、王林换回命魂 · kind=plot asOf=2026-08-21 entities=95 relations=186 src=00443-00446.md
 - **2026-08-21T05:47:06.665Z** `ingest` plot.xianni-ch447-451-farewell-zhuque-star — 仙逆 第447-451章：缘分已尽——王林辞别朱雀星 · kind=plot asOf=2026-08-21 entities=123 relations=203 src=00447-00451.md
 - **2026-08-21T06:06:51.947Z** `ingest` plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye — 仙逆 第452-456章：明玫城遇白薇、求墨雪液与九城被洗劫 · kind=plot asOf=2026-08-21 entities=80 relations=141 src=00452-00456.md
+- **2026-08-21T06:26:49.081Z** `ingest` plot.xianni-ch457-461-tianyunzong-ziyunge — 仙逆 第457-461章：弃关悟道·入紫云阁遭逐 · kind=plot asOf=2026-08-21 entities=71 relations=165 src=00457-00461.md

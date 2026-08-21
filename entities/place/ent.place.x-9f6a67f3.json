@@ -3,13 +3,15 @@
   "type": "place",
   "name": "地之关",
   "aliases": [
-    "地关"
+    "地关",
+    "天运宗地之关"
   ],
   "summary": "入门三关第二关，考验修为；王林出人之关后即受邀踏入。",
   "attributes": {
-    "类型": "考验幻境",
+    "类型": "入门试炼关卡",
     "上级区域": "入门三关",
-    "所属势力": "天运宗"
+    "所属势力": "天运宗",
+    "守护": "地之关第十护仙等火焰所化生灵"
   },
   "observations": {
     "类型": [
@@ -17,6 +19,11 @@
         "value": "考验幻境",
         "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
         "seq": 452
+      },
+      {
+        "value": "入门试炼关卡",
+        "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
+        "seq": 457
       }
     ],
     "上级区域": [
@@ -32,15 +39,22 @@
         "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
         "seq": 452
       }
+    ],
+    "守护": [
+      {
+        "value": "地之关第十护仙等火焰所化生灵",
+        "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
+        "seq": 457
+      }
     ]
   },
   "firstSeq": 452,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+      "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
       "dated": false,
-      "seq": 452
+      "seq": 457
     },
     "上级区域": {
       "asOf": null,
@@ -53,12 +67,19 @@
       "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
       "dated": false,
       "seq": 452
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
+      "dated": false,
+      "seq": 457
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye"
+    "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+    "plot.xianni-ch457-461-tianyunzong-ziyunge"
   ],
-  "updatedAt": "2026-08-21T06:06:51.849Z"
+  "updatedAt": "2026-08-21T06:26:48.881Z"
 }
