@@ -15,11 +15,13 @@
   "summary": "白纱女子，持有通往仙遗之地的地图玉简，以「轮回树可增轮回感悟」为由邀王林同行，暗叹王林心机深不可测。",
   "attributes": {
     "性别": "女",
-    "外貌": "白纱女子、身着白纱、身穿白纱、常年带着面纱",
+    "外貌": "白纱女子、身着白纱、身穿白纱、常年带着面纱、一道紫色身影、脸上带着紫纱",
     "身份": "仙遗之地地图持有者、此行引路人、此行向导、持托印玉简者、乾风提及的旧例人物、老头选取四人之一、云雀子选定的下代朱雀子第二候选人、云雀帽受赠者之一、入墓修士",
     "存殁": "存活",
     "性格": "沉默、恍惚",
-    "标志特征": "日后乾风的道心裂痕"
+    "标志特征": "日后乾风的道心裂痕",
+    "阵营": "云雀子一方、随侍云雀子身后",
+    "小阶段": "化神"
   },
   "observations": {
     "性别": [
@@ -49,6 +51,11 @@
         "value": "常年带着面纱",
         "docId": "plot.xianni-ch441-zhuquezi-madness-1",
         "seq": 418
+      },
+      {
+        "value": "一道紫色身影、脸上带着紫纱",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
       }
     ],
     "身份": [
@@ -119,6 +126,26 @@
         "docId": "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms",
         "seq": 373
       }
+    ],
+    "阵营": [
+      {
+        "value": "云雀子一方",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
+      },
+      {
+        "value": "随侍云雀子身后",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433,
+        "note": "本章"
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "化神",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
+      }
     ]
   },
   "firstSeq": 322,
@@ -158,6 +185,18 @@
       "docId": "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms",
       "dated": false,
       "seq": 373
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+      "dated": false,
+      "seq": 433
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+      "dated": false,
+      "seq": 433
     }
   },
   "contested": false,
@@ -169,7 +208,8 @@
     "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms",
     "plot.xianni-ch427-ancestral-spirit-tree",
     "plot.xianni-ch432-ancestral-rune-skull",
-    "plot.xianni-ch441-zhuquezi-madness-1"
+    "plot.xianni-ch441-zhuquezi-madness-1",
+    "plot.xianni-ch433-437-hongdie-yanhong-yunquezi"
   ],
-  "updatedAt": "2026-08-17T20:52:59.138Z"
+  "updatedAt": "2026-08-21T03:06:39.501Z"
 }

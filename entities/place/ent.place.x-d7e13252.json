@@ -35,8 +35,8 @@
   ],
   "summary": "古神留下的三关闯关之地，含禁制之山（第二关）、三层宝塔奖励层与第三关寂灭界，历代仅四人获领悟者身份。",
   "attributes": {
-    "类型": "古神遗留闯关秘境、秘境/遗迹、秘境／绝地、凶险秘境、分关卡秘境、秘境/关卡秘境、传承秘境/巨躯世界、古神气海秘境、古神残躯内部空间/秘境、遗迹/禁地、秘境/古地、古神遗留秘境、古神传承秘境、古神秘境/神识之地、古神躯壳内部空间、远古遗迹/秘境、古神身躯/秘境、远古遗迹之地、上古遗迹/秘境、禁地/体内世界、上古险地/通道空间、险地、远古秘境、妖兽聚居险地、禁地、古神遗留之地",
-    "守护": "困住拓森",
+    "类型": "古神遗留闯关秘境、秘境/遗迹、秘境／绝地、凶险秘境、分关卡秘境、秘境/关卡秘境、传承秘境/巨躯世界、古神气海秘境、古神残躯内部空间/秘境、遗迹/禁地、秘境/古地、古神遗留秘境、古神传承秘境、古神秘境/神识之地、古神躯壳内部空间、远古遗迹/秘境、古神身躯/秘境、远古遗迹之地、上古遗迹/秘境、禁地/体内世界、上古险地/通道空间、险地、远古秘境、妖兽聚居险地、禁地、古神遗留之地、古神秘境、禁地/古神之体",
+    "守护": "古神封印",
     "危险度": "极高、极高（多重致命关卡）、极高（拓森封印开启众死）、高、极高（欲念波动会魔化修士）、有气海穴旋转气浪、极高，稍不谨慎便难以出来、极高（设有关卡）、极高（下层为荒兽世界）、极高（几乎每日恶战）",
     "所属界面": "修魔海",
     "规模": "比朱雀星更大",
@@ -174,6 +174,16 @@
         "value": "古神遗留之地",
         "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
         "seq": 428
+      },
+      {
+        "value": "古神秘境",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
+      },
+      {
+        "value": "禁地/古神之体",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
       }
     ],
     "守护": [
@@ -201,6 +211,11 @@
         "value": "困住拓森",
         "docId": "plot.xianni-ch427-ancestral-spirit-tree",
         "seq": 405
+      },
+      {
+        "value": "古神封印",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
       }
     ],
     "危险度": [
@@ -329,9 +344,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
       "dated": false,
-      "seq": 405
+      "seq": 433
     },
     "危险度": {
       "asOf": null,
@@ -385,7 +400,8 @@
     "plot.xianni-ch380-lianhunzong-search",
     "plot.xianni-ch427-ancestral-spirit-tree",
     "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
-    "plot.xianni-ch451-waner-mingpo-tianyun-star"
+    "plot.xianni-ch451-waner-mingpo-tianyun-star",
+    "plot.xianni-ch433-437-hongdie-yanhong-yunquezi"
   ],
-  "updatedAt": "2026-08-21T02:32:55.614Z"
+  "updatedAt": "2026-08-21T03:06:39.484Z"
 }

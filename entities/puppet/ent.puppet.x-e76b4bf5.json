@@ -5,15 +5,17 @@
   "aliases": [
     "低阶符傀",
     "符种傀儡",
-    "符文傀儡"
+    "符文傀儡",
+    "额头闪烁符文的老者",
+    "云雀子所赠符傀"
   ],
   "summary": "仙遗族以符种侵蚀元神炼成的傀儡，双眼红芒、气息暴虐；因仙遗族本身无法上地面，符傀是其唯一能派往地面的手段。",
   "attributes": {
     "本体来源": "被种下符种、元神被黑纹包裹的修士或尸体、被擒修士",
-    "炼制者": "仙遗族、驼背老者",
-    "操控者": "仙遗族",
-    "能力": "可离开仙遗第一层前往地面",
-    "外形": "双眼红芒、气息暴虐、人不像人鬼不像鬼"
+    "炼制者": "仙遗族、驼背老者、云雀子",
+    "操控者": "仙遗族、紫芯、周武泰",
+    "能力": "可离开仙遗第一层前往地面、化神后期修为、保护持有者安全",
+    "外形": "额头闪烁符文的老者，身上多处伤痕"
   },
   "observations": {
     "本体来源": [
@@ -38,6 +40,11 @@
         "value": "驼背老者",
         "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
         "seq": 332
+      },
+      {
+        "value": "云雀子",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
       }
     ],
     "操控者": [
@@ -45,6 +52,16 @@
         "value": "仙遗族",
         "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
         "seq": 332
+      },
+      {
+        "value": "紫芯",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
+      },
+      {
+        "value": "周武泰",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
       }
     ],
     "能力": [
@@ -52,6 +69,16 @@
         "value": "可离开仙遗第一层前往地面",
         "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
         "seq": 332
+      },
+      {
+        "value": "化神后期修为",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
+      },
+      {
+        "value": "保护持有者安全",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
       }
     ],
     "外形": [
@@ -59,6 +86,12 @@
         "value": "双眼红芒、气息暴虐、人不像人鬼不像鬼",
         "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
         "seq": 332
+      },
+      {
+        "value": "额头闪烁符文的老者，身上多处伤痕",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433,
+        "note": "本章共四个随紫芯现身"
       }
     ]
   },
@@ -90,15 +123,17 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+      "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
       "dated": false,
-      "seq": 332
+      "seq": 433,
+      "note": "本章共四个随紫芯现身"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch352-fu-kui-space-rift-flight"
+    "plot.xianni-ch352-fu-kui-space-rift-flight",
+    "plot.xianni-ch433-437-hongdie-yanhong-yunquezi"
   ],
-  "updatedAt": "2026-08-08T10:48:57.942Z"
+  "updatedAt": "2026-08-21T03:06:39.439Z"
 }

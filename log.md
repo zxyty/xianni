@@ -107,3 +107,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-17T20:52:59.324Z** `ingest` plot.xianni-ch441-zhuquezi-madness-1 — 仙逆 第441章 朱雀子的疯狂（一）：射神车赠司徒南、仙遗族四方总攻朱雀山 · kind=plot asOf=2026-08-17 entities=89 relations=197 src=00418-00422.md
 - **2026-08-21T01:55:04.010Z** `ingest` plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits — 仙逆 第423-427章：朱雀墓祭坛陷阱与命魂灵物 · kind=plot asOf=2026-08-21 entities=103 relations=184 src=00423-00427.md
 - **2026-08-21T02:32:55.854Z** `ingest` plot.xianni-ch451-waner-mingpo-tianyun-star — 仙逆 第451章 婉儿命魂：命魂抽取之秘、天运星与天运子、朱雀墓中的伪装山道 · kind=plot asOf=2026-08-21 entities=112 relations=210 src=00428-00432.md
+- **2026-08-21T03:06:39.639Z** `ingest` plot.xianni-ch433-437-hongdie-yanhong-yunquezi — 仙逆 第433-437章：嫣红——王林与傀儡化红蝶之战、昆极鞭与巨魔战斧、云雀子现身 · kind=plot asOf=2026-08-21 entities=109 relations=228 src=00433-00437.md

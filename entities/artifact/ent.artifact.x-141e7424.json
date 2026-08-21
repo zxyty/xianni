@@ -7,29 +7,37 @@
     "昆极鞭本体",
     "天玉宗重宝昆极鞭",
     "通体雪白的鞭子",
-    "Kunji Whip"
+    "Kunji Whip",
+    "黑色鞭子",
+    "红蝶的昆极鞭"
   ],
   "summary": "红蝶藏于冰雪巨人体内的鞭形法宝，速度比闪电快三分，可将人元神抽出体外，并能削弱天劫细丝。",
   "attributes": {
-    "持有者": "公孙破",
-    "能力": "抽出敌人元神、削弱天劫细丝、速度比闪电快三分、虚影可绕过法宝抽击、抽出敌人元神、本体凝实可重创魂体",
-    "外形": "软鞭虚影，闪烁妖异之芒、通体雪白的长鞭；未现本体时为鞭子虚影、通体雪白的鞭子",
+    "持有者": "王林",
+    "能力": "抽出敌人元神、削弱天劫细丝、速度比闪电快三分、虚影可绕过法宝抽击、抽出敌人元神、本体凝实可重创魂体、挥出砰砰声如蛟龙游走、脱手化黑色闪电穿透气浪抽击",
+    "外形": "软鞭虚影，闪烁妖异之芒、通体雪白的长鞭；未现本体时为鞭子虚影、通体雪白的鞭子、黑色鞭子、长鞭",
     "品阶": "天玉宗重宝",
-    "来历": "天玉宗重宝，由红蝶师兄悄悄取出赠予红蝶",
-    "禁制": "天玉宗封印，未解封则无法使用"
+    "来历": "天玉宗重宝，由红蝶师兄悄悄取出赠予红蝶、王林曾一度得到又被迫交出、被爱慕红蝶的青年偷取、红蝶遗物",
+    "禁制": "一道问鼎期神念"
   },
   "observations": {
     "持有者": [
       {
         "value": "红蝶",
         "docId": "plot.xianni-ch361-zhuque-guo-arrival",
-        "seq": 341
+        "seq": 341,
+        "note": "乾风所给，用于对抗王林"
       },
       {
         "value": "公孙破",
         "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
         "seq": 346,
         "note": "第366章王林先夺得，随后被公孙破索走"
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
       }
     ],
     "能力": [
@@ -57,6 +65,16 @@
         "value": "本体凝实可重创魂体",
         "docId": "plot.xianni-ch361-zhuque-guo-arrival",
         "seq": 341
+      },
+      {
+        "value": "挥出砰砰声如蛟龙游走",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
+      },
+      {
+        "value": "脱手化黑色闪电穿透气浪抽击",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
       }
     ],
     "外形": [
@@ -74,6 +92,16 @@
         "value": "通体雪白的鞭子",
         "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
         "seq": 346
+      },
+      {
+        "value": "黑色鞭子",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
+      },
+      {
+        "value": "长鞭",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
       }
     ],
     "品阶": [
@@ -88,6 +116,21 @@
         "value": "天玉宗重宝，由红蝶师兄悄悄取出赠予红蝶",
         "docId": "plot.xianni-ch361-zhuque-guo-arrival",
         "seq": 341
+      },
+      {
+        "value": "王林曾一度得到又被迫交出",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
+      },
+      {
+        "value": "被爱慕红蝶的青年偷取",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
+      },
+      {
+        "value": "红蝶遗物",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
       }
     ],
     "禁制": [
@@ -95,6 +138,11 @@
         "value": "天玉宗封印，未解封则无法使用",
         "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
         "seq": 346
+      },
+      {
+        "value": "一道问鼎期神念",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
       }
     ]
   },
@@ -102,10 +150,9 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+      "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
       "dated": false,
-      "seq": 346,
-      "note": "第366章王林先夺得，随后被公孙破索走"
+      "seq": 433
     },
     "能力": {
       "asOf": null,
@@ -133,16 +180,17 @@
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+      "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
       "dated": false,
-      "seq": 346
+      "seq": 433
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch361-zhuque-guo-arrival",
-    "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip"
+    "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+    "plot.xianni-ch433-437-hongdie-yanhong-yunquezi"
   ],
-  "updatedAt": "2026-08-08T15:27:51.250Z"
+  "updatedAt": "2026-08-21T03:06:39.408Z"
 }

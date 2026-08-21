@@ -6,14 +6,16 @@
     "血海小猴",
     "红芒小猴",
     "小猴",
-    "老者肩头的小猴"
+    "老者肩头的小猴",
+    "阴森老者身旁的小猴",
+    "阴森老者肩上的小猴"
   ],
   "summary": "拓森狂笑后自血海跃出、落到其身边的两只小猴，双眼散发妖异红芒。",
   "attributes": {
     "栖息地": "碎星乱血海",
-    "外形": "小猴，双眼妖异红芒、小猴，双目红芒极盛",
-    "主人": "拓森、红芒老者",
-    "能力": "低吼制止老者行动、警觉遥望后方"
+    "外形": "小猴，双眼妖异红芒、小猴，双目红芒极盛、小猴、小猴，双眼红芒闪动",
+    "主人": "拓森、红芒老者、阴森老者",
+    "能力": "低吼制止老者行动、警觉遥望后方、双目时闪红芒、瞬移般的极速、双目红芒外放（一尺至三尺）震慑对手"
   },
   "observations": {
     "栖息地": [
@@ -33,6 +35,16 @@
         "value": "小猴，双目红芒极盛",
         "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
         "seq": 428
+      },
+      {
+        "value": "小猴",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
+      },
+      {
+        "value": "小猴，双眼红芒闪动",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
       }
     ],
     "主人": [
@@ -46,6 +58,11 @@
         "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
         "seq": 428,
         "note": "名义上，实则小猴一吼老者即从，主从关系存疑"
+      },
+      {
+        "value": "阴森老者",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
       }
     ],
     "能力": [
@@ -58,6 +75,22 @@
         "value": "警觉遥望后方",
         "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
         "seq": 428
+      },
+      {
+        "value": "双目时闪红芒",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433,
+        "note": "血海之地血污秽气息"
+      },
+      {
+        "value": "瞬移般的极速",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
+      },
+      {
+        "value": "双目红芒外放（一尺至三尺）震慑对手",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
       }
     ]
   },
@@ -91,7 +124,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch451-waner-mingpo-tianyun-star"
+    "plot.xianni-ch451-waner-mingpo-tianyun-star",
+    "plot.xianni-ch433-437-hongdie-yanhong-yunquezi"
   ],
-  "updatedAt": "2026-08-21T02:32:55.638Z"
+  "updatedAt": "2026-08-21T03:06:39.499Z"
 }

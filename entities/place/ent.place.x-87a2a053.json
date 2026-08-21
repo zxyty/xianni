@@ -6,14 +6,18 @@
     "灵山",
     "朱雀墓中心灵山",
     "七彩灵山",
-    "散发七彩之光的山峰"
+    "散发七彩之光的山峰",
+    "此地灵山",
+    "灵山顶"
   ],
   "summary": "据司徒南所述位于朱雀墓正中央的山，藏一代朱雀子的朱雀印道统与其尸身，每代朱雀继承封号须在此静修数月获传承。",
   "attributes": {
-    "方位": "朱雀墓盆地群之外深处",
-    "类型": "灵山/秘境山峰",
+    "方位": "朱雀墓正中间、朱雀墓盆地群之外深处、此地正中心位置、朱雀墓最中心位置",
+    "类型": "传承之地、灵山/秘境山峰、山、灵山、秘境山峰、山峰、山/避难要地",
     "上级区域": "朱雀墓",
-    "守护": "一代朱雀子尸身"
+    "守护": "一代朱雀子尸身、巨门（需修星之心开启）、虚空中的巨大之门",
+    "危险度": "未知，透着蹊跷、崩溃时爆发大范围次元缝隙",
+    "所属界面": "朱雀墓"
   },
   "observations": {
     "方位": [
@@ -26,6 +30,16 @@
         "value": "朱雀墓盆地群之外深处",
         "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
         "seq": 428
+      },
+      {
+        "value": "此地正中心位置",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
+      },
+      {
+        "value": "朱雀墓最中心位置",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
       }
     ],
     "类型": [
@@ -38,6 +52,31 @@
         "value": "灵山/秘境山峰",
         "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
         "seq": 428
+      },
+      {
+        "value": "山",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
+      },
+      {
+        "value": "灵山",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
+      },
+      {
+        "value": "秘境山峰",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
+      },
+      {
+        "value": "山峰",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
+      },
+      {
+        "value": "山/避难要地",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
       }
     ],
     "上级区域": [
@@ -52,6 +91,35 @@
         "value": "一代朱雀子尸身",
         "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
         "seq": 423
+      },
+      {
+        "value": "巨门（需修星之心开启）",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
+      },
+      {
+        "value": "虚空中的巨大之门",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
+      }
+    ],
+    "危险度": [
+      {
+        "value": "未知，透着蹊跷",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
+      },
+      {
+        "value": "崩溃时爆发大范围次元缝隙",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "朱雀墓",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
       }
     ]
   },
@@ -59,15 +127,15 @@
   "attrProvenance": {
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+      "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
       "dated": false,
-      "seq": 428
+      "seq": 423
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+      "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
       "dated": false,
-      "seq": 428
+      "seq": 423
     },
     "上级区域": {
       "asOf": null,
@@ -80,13 +148,26 @@
       "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
       "dated": false,
       "seq": 423
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+      "dated": false,
+      "seq": 433
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+      "dated": false,
+      "seq": 433
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
-    "plot.xianni-ch451-waner-mingpo-tianyun-star"
+    "plot.xianni-ch451-waner-mingpo-tianyun-star",
+    "plot.xianni-ch433-437-hongdie-yanhong-yunquezi"
   ],
-  "updatedAt": "2026-08-21T02:32:55.687Z"
+  "updatedAt": "2026-08-21T03:06:39.482Z"
 }

@@ -4,14 +4,16 @@
   "name": "朱雀墓通道",
   "aliases": [
     "朱雀山入口通道",
-    "朱雀墓入口通道"
+    "朱雀墓入口通道",
+    "进入朱雀墓的通道"
   ],
   "summary": "连接朱雀山与朱雀墓内界的唯一通道；墓内有人死亡时闪烁乌光、荡出青色波纹，表示可再次进入。",
   "attributes": {
-    "类型": "秘境入口通道",
+    "类型": "入口通道",
     "两端": "朱雀山 ↔ 朱雀墓",
     "可通行境界": "婴变期修士",
-    "来历": "一代朱雀子布置"
+    "来历": "一代朱雀子布置",
+    "稳定性": "极不稳定，入者尽死"
   },
   "observations": {
     "类型": [
@@ -19,6 +21,11 @@
         "value": "秘境入口通道",
         "docId": "plot.xianni-ch441-zhuquezi-madness-1",
         "seq": 418
+      },
+      {
+        "value": "入口通道",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
       }
     ],
     "两端": [
@@ -42,15 +49,22 @@
         "docId": "plot.xianni-ch441-zhuquezi-madness-1",
         "seq": 418
       }
+    ],
+    "稳定性": [
+      {
+        "value": "极不稳定，入者尽死",
+        "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+        "seq": 433
+      }
     ]
   },
   "firstSeq": 418,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+      "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
       "dated": false,
-      "seq": 418
+      "seq": 433
     },
     "两端": {
       "asOf": null,
@@ -70,12 +84,19 @@
       "docId": "plot.xianni-ch441-zhuquezi-madness-1",
       "dated": false,
       "seq": 418
+    },
+    "稳定性": {
+      "asOf": null,
+      "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+      "dated": false,
+      "seq": 433
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch441-zhuquezi-madness-1"
+    "plot.xianni-ch441-zhuquezi-madness-1",
+    "plot.xianni-ch433-437-hongdie-yanhong-yunquezi"
   ],
-  "updatedAt": "2026-08-17T20:52:59.171Z"
+  "updatedAt": "2026-08-21T03:06:39.418Z"
 }
