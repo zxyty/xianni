@@ -8,14 +8,17 @@
     "石林禁地",
     "石笋林",
     "困阵石林",
-    "荒凉石林"
+    "荒凉石林",
+    "石笋石林",
+    "困住王林的石林"
   ],
   "summary": "天运宗数十万里之外的荒凉之地，奇石密布如利剑插天，杀机充斥；巨石上刻有沟壑构成阵法禁制，四师姐将王林挪移至此欲困其三年。",
   "attributes": {
-    "方位": "天运宗数十万里之外",
-    "类型": "石林/囚禁禁地、荒凉石林秘境",
+    "方位": "天运宗山门以东约三十多万里",
+    "类型": "石林/囚禁禁地、荒凉石林秘境、石笋群/囚困之地",
     "危险度": "杀机滔天，散修不敢靠近、无法冲出的困地",
-    "守护": "以神通刻于巨石上的阵法禁制、银色光幕困阵"
+    "守护": "以神通刻于巨石上的阵法禁制、银色光幕困阵",
+    "所属界面": "天运星"
   },
   "observations": {
     "方位": [
@@ -23,6 +26,11 @@
         "value": "天运宗数十万里之外",
         "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
         "seq": 462
+      },
+      {
+        "value": "天运宗山门以东约三十多万里",
+        "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+        "seq": 467
       }
     ],
     "类型": [
@@ -35,6 +43,11 @@
         "value": "荒凉石林秘境",
         "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
         "seq": 462
+      },
+      {
+        "value": "石笋群/囚困之地",
+        "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+        "seq": 467
       }
     ],
     "危险度": [
@@ -60,15 +73,22 @@
         "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
         "seq": 462
       }
+    ],
+    "所属界面": [
+      {
+        "value": "天运星",
+        "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+        "seq": 467
+      }
     ]
   },
   "firstSeq": 462,
   "attrProvenance": {
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
+      "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
       "dated": false,
-      "seq": 462
+      "seq": 467
     },
     "类型": {
       "asOf": null,
@@ -87,12 +107,19 @@
       "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
       "dated": false,
       "seq": 462
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+      "dated": false,
+      "seq": 467
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin"
+    "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
+    "plot.xianni-ch467-471-ziqi-donglai-chuangyan"
   ],
-  "updatedAt": "2026-08-21T07:52:46.197Z"
+  "updatedAt": "2026-08-21T08:12:23.030Z"
 }

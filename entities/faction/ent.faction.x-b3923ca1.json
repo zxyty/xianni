@@ -15,15 +15,19 @@
     "紫宗一脉",
     "紫宗山峰",
     "天运宗紫宗一脉",
-    "紫宗之地"
+    "紫宗之地",
+    "紫宗山顶",
+    "紫宗白云宴席",
+    "紫宗紫系"
   ],
   "summary": "天运子七系弟子之一，据赵星煞所言为七系中实力最弱的一系，王林与赵星煞、白薇同属此系一辈。",
   "attributes": {
-    "等级": "七系中最弱一系",
-    "据点": "紫宗山",
+    "等级": "天运宗七系中最弱",
+    "据点": "紫宗山（山顶白云宴席）",
     "阵营": "天运宗",
-    "理念": "七人中夺嫡，胜者位列天运七子、门规禁止同门相残与妄用禁术神通、修天之大道、错综复杂、内斗激烈",
-    "掌门": "天运子"
+    "理念": "七人中夺嫡，胜者位列天运七子、门规禁止同门相残与妄用禁术神通、修天之大道、错综复杂、内斗激烈、以排行论位、争夺天运七子封号、内斗频繁、封号更迭过快导致没落",
+    "掌门": "天运子",
+    "所属界面": "天运星"
   },
   "observations": {
     "等级": [
@@ -37,6 +41,12 @@
         "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
         "seq": 462,
         "note": "白薇评价"
+      },
+      {
+        "value": "天运宗七系中最弱",
+        "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+        "seq": 467,
+        "note": "第494章"
       }
     ],
     "据点": [
@@ -49,6 +59,11 @@
         "value": "紫宗山",
         "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
         "seq": 462
+      },
+      {
+        "value": "紫宗山（山顶白云宴席）",
+        "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+        "seq": 467
       }
     ],
     "阵营": [
@@ -83,6 +98,16 @@
         "value": "错综复杂、内斗激烈",
         "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
         "seq": 462
+      },
+      {
+        "value": "以排行论位、争夺天运七子封号",
+        "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+        "seq": 467
+      },
+      {
+        "value": "内斗频繁、封号更迭过快导致没落",
+        "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+        "seq": 467
       }
     ],
     "掌门": [
@@ -91,22 +116,29 @@
         "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
         "seq": 457
       }
+    ],
+    "所属界面": [
+      {
+        "value": "天运星",
+        "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+        "seq": 467
+      }
     ]
   },
   "firstSeq": 457,
   "attrProvenance": {
     "等级": {
       "asOf": null,
-      "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
+      "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
       "dated": false,
-      "seq": 462,
-      "note": "白薇评价"
+      "seq": 467,
+      "note": "第494章"
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
+      "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
       "dated": false,
-      "seq": 462
+      "seq": 467
     },
     "阵营": {
       "asOf": null,
@@ -125,13 +157,20 @@
       "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
       "dated": false,
       "seq": 457
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+      "dated": false,
+      "seq": 467
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch457-461-tianyunzong-ziyunge",
-    "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin"
+    "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
+    "plot.xianni-ch467-471-ziqi-donglai-chuangyan"
   ],
-  "updatedAt": "2026-08-21T07:52:46.212Z"
+  "updatedAt": "2026-08-21T08:12:23.104Z"
 }

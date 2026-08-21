@@ -12,19 +12,23 @@
     "三师兄或同门",
     "老三老四之兄",
     "紫宗大师兄",
-    "紫系大师兄赵星煞"
+    "紫系大师兄赵星煞",
+    "赵道友",
+    "紫系赵星煞",
+    "紫系老大"
   ],
   "summary": "天运子紫字一辈中入门最早的大师兄，一脸和善、心思深沉；曾在人之关内化七彩霞光考较王林，出关后引王林入紫宗山门。",
   "attributes": {
     "性别": "男",
-    "身份": "天运子紫系首徒、紫系大师兄、天运宗弟子、紫宗大师兄、天运子弟子、紫系一脉首徒、紫宗一脉修士、天运宗紫系大师兄",
+    "身份": "天运子紫系首徒、紫系大师兄、天运宗弟子、紫宗大师兄、天运子弟子、紫系一脉首徒、紫宗一脉修士、天运宗紫系大师兄、天运宗紫系弟子、天运七子封号争夺者",
     "外貌": "紫袍绣金丝纹络，腰佩暖玉灵佩，背负一剑，儒雅",
-    "性格": "谈笑风生、和善表象下心思难测、一脸和善、行事持重、阴沉记恨、阴沉、阴险、工于算计、面色温和、温和儒雅、令人心生好感",
+    "性格": "谈笑风生、和善表象下心思难测、一脸和善、行事持重、阴沉记恨、阴沉、阴险、工于算计、面色温和、温和儒雅、令人心生好感、阴沉、借势、留有底牌",
     "阵营": "暗中敌对王林、天运宗/紫宗、紫宗紫系一脉、天运宗",
     "小阶段": "婴变中期",
     "存殁": "在世",
-    "标志特征": "伤势多年未复",
-    "称号": "大师兄"
+    "标志特征": "伤势多年未复、眉心古怪符文，可召古妖虚影、体内被种妖灵（刚蕴化）",
+    "称号": "大师兄",
+    "结局": "被赤裂抓走交师父惩罚，不参加天运七子封号争夺"
   },
   "observations": {
     "性别": [
@@ -74,6 +78,11 @@
         "value": "天运宗紫系大师兄",
         "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
         "seq": 462
+      },
+      {
+        "value": "天运宗紫系弟子、天运七子封号争夺者",
+        "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+        "seq": 467
       }
     ],
     "外貌": [
@@ -119,6 +128,11 @@
         "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
         "seq": 462,
         "note": "外在表象；内心算计七子封号，对同门暗藏手段"
+      },
+      {
+        "value": "阴沉、借势、留有底牌",
+        "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+        "seq": 467
       }
     ],
     "阵营": [
@@ -168,6 +182,16 @@
         "value": "伤势多年未复",
         "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
         "seq": 462
+      },
+      {
+        "value": "眉心古怪符文，可召古妖虚影",
+        "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+        "seq": 467
+      },
+      {
+        "value": "体内被种妖灵（刚蕴化）",
+        "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+        "seq": 467
       }
     ],
     "称号": [
@@ -175,6 +199,14 @@
         "value": "大师兄",
         "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
         "seq": 462
+      }
+    ],
+    "结局": [
+      {
+        "value": "被赤裂抓走交师父惩罚，不参加天运七子封号争夺",
+        "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+        "seq": 467,
+        "note": "本片段"
       }
     ]
   },
@@ -234,13 +266,21 @@
       "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
       "dated": false,
       "seq": 462
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+      "dated": false,
+      "seq": 467,
+      "note": "本片段"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch457-461-tianyunzong-ziyunge",
-    "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin"
+    "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
+    "plot.xianni-ch467-471-ziqi-donglai-chuangyan"
   ],
-  "updatedAt": "2026-08-21T07:52:46.205Z"
+  "updatedAt": "2026-08-21T08:12:23.078Z"
 }

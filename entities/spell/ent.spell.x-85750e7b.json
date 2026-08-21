@@ -5,13 +5,17 @@
   "aliases": [
     "化魔指",
     "拇指神通",
-    "司徒南第二式杀招神通"
+    "司徒南第二式杀招神通",
+    "魔火指",
+    "化魔神通",
+    "寂灭之指"
   ],
   "summary": "司徒南所传三式杀招神通之一，施展时天地光亮尽聚拇指，并令四周空间脆弱到无法瞬移；可吸收撞上来的分身增威，点中眉心即禁锢元神。",
   "attributes": {
-    "类型": "杀招指法神通、指诀杀招神通",
-    "出处": "司徒南三式杀招、司徒南所授",
-    "威力": "吸尽四周光亮、封锁空间致无法瞬移、吞吸分身增威、点眉心禁锢元神、等闲婴变中期修士遇之必亡（司徒南评价）"
+    "类型": "杀招指法神通、指诀杀招神通、指诀神通/魔道攻击、指诀神通",
+    "出处": "司徒南三式杀招、司徒南所授、司徒南所传",
+    "威力": "吸尽四周光亮、封锁空间致无法瞬移、吞吸分身增威、点眉心禁锢元神、等闲婴变中期修士遇之必亡（司徒南评价）、修为越高威力越大；婴变中期时较三月前强数倍、两击可令银幕禁制遍生裂纹，但未能破阵",
+    "消耗": "逆转体内仙力化为魔火"
   },
   "observations": {
     "类型": [
@@ -24,6 +28,16 @@
         "value": "指诀杀招神通",
         "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
         "seq": 457
+      },
+      {
+        "value": "指诀神通/魔道攻击",
+        "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+        "seq": 467
+      },
+      {
+        "value": "指诀神通",
+        "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+        "seq": 467
       }
     ],
     "出处": [
@@ -36,6 +50,11 @@
         "value": "司徒南所授",
         "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
         "seq": 457
+      },
+      {
+        "value": "司徒南所传",
+        "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+        "seq": 467
       }
     ],
     "威力": [
@@ -63,6 +82,23 @@
         "value": "等闲婴变中期修士遇之必亡（司徒南评价）",
         "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
         "seq": 457
+      },
+      {
+        "value": "修为越高威力越大；婴变中期时较三月前强数倍",
+        "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+        "seq": 467
+      },
+      {
+        "value": "两击可令银幕禁制遍生裂纹，但未能破阵",
+        "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+        "seq": 467
+      }
+    ],
+    "消耗": [
+      {
+        "value": "逆转体内仙力化为魔火",
+        "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+        "seq": 467
       }
     ]
   },
@@ -85,12 +121,19 @@
       "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
       "dated": false,
       "seq": 457
+    },
+    "消耗": {
+      "asOf": null,
+      "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+      "dated": false,
+      "seq": 467
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch457-461-tianyunzong-ziyunge"
+    "plot.xianni-ch457-461-tianyunzong-ziyunge",
+    "plot.xianni-ch467-471-ziqi-donglai-chuangyan"
   ],
-  "updatedAt": "2026-08-21T06:26:48.963Z"
+  "updatedAt": "2026-08-21T08:12:23.036Z"
 }

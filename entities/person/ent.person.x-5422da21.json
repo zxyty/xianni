@@ -6,17 +6,20 @@
     "四师姐",
     "紫系四师姐",
     "紫衣娇美女子",
-    "银光女修"
+    "银光女修",
+    "婴变后期的女子",
+    "天运宗紫系四师姐"
   ],
   "summary": "紫宗紫系一脉排行第四的女修，修为高深；被赵星煞选为出手重伤王林的棋子。",
   "attributes": {
     "性别": "女",
-    "身份": "紫系一脉老四、紫宗紫系排行第四、王林的师姐、大师兄同门师妹",
+    "身份": "紫系一脉老四、紫宗紫系排行第四、王林的师姐、大师兄同门师妹、天运宗紫系四师姐、天运宗紫系第四弟子",
     "称号": "老四",
     "小阶段": "婴变后期",
     "外貌": "相貌娇美，身穿紫衣，一头青丝飘散，好似仙子",
     "性格": "面露无奈、语气平静，对王林尚存善意（许诺传授神通）",
-    "标志特征": "化作银光遁走"
+    "标志特征": "化作银光遁走",
+    "阵营": "紫宗紫系一脉"
   },
   "observations": {
     "性别": [
@@ -41,6 +44,16 @@
         "value": "大师兄同门师妹",
         "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
         "seq": 462
+      },
+      {
+        "value": "天运宗紫系四师姐",
+        "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+        "seq": 467
+      },
+      {
+        "value": "天运宗紫系第四弟子",
+        "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+        "seq": 467
       }
     ],
     "称号": [
@@ -76,6 +89,13 @@
         "value": "化作银光遁走",
         "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
         "seq": 462
+      }
+    ],
+    "阵营": [
+      {
+        "value": "紫宗紫系一脉",
+        "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+        "seq": 467
       }
     ]
   },
@@ -122,12 +142,19 @@
       "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
       "dated": false,
       "seq": 462
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+      "dated": false,
+      "seq": 467
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin"
+    "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
+    "plot.xianni-ch467-471-ziqi-donglai-chuangyan"
   ],
-  "updatedAt": "2026-08-21T07:52:46.188Z"
+  "updatedAt": "2026-08-21T08:12:23.080Z"
 }

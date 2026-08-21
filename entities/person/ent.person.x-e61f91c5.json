@@ -3,14 +3,17 @@
   "type": "person",
   "name": "紫系排行老二的中年男子",
   "aliases": [
-    "紫系老二"
+    "紫系老二",
+    "紫系排行第二的中年男子"
   ],
   "summary": "紫宗紫系排行第二的中年男子，于王林右方低吼现身，面色阴沉，参与围堵并发出杀机。",
   "attributes": {
     "性别": "男",
-    "身份": "紫宗紫系排行第二",
+    "身份": "天运宗紫系排行第二",
     "外貌": "中年男子",
-    "性格": "面色阴沉"
+    "性格": "面色阴沉",
+    "存殁": "肉身溃散、元神被收入尊魂幡",
+    "死因": "被王林弯刀、仙剑与昆极鞭击溃黑雾，元神遭擒并投入魂幡"
   },
   "observations": {
     "性别": [
@@ -25,6 +28,11 @@
         "value": "紫宗紫系排行第二",
         "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
         "seq": 462
+      },
+      {
+        "value": "天运宗紫系排行第二",
+        "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+        "seq": 467
       }
     ],
     "外貌": [
@@ -40,6 +48,20 @@
         "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
         "seq": 462
       }
+    ],
+    "存殁": [
+      {
+        "value": "肉身溃散、元神被收入尊魂幡",
+        "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+        "seq": 467
+      }
+    ],
+    "死因": [
+      {
+        "value": "被王林弯刀、仙剑与昆极鞭击溃黑雾，元神遭擒并投入魂幡",
+        "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+        "seq": 467
+      }
     ]
   },
   "firstSeq": 462,
@@ -52,9 +74,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
+      "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
       "dated": false,
-      "seq": 462
+      "seq": 467
     },
     "外貌": {
       "asOf": null,
@@ -67,12 +89,25 @@
       "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
       "dated": false,
       "seq": 462
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+      "dated": false,
+      "seq": 467
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+      "dated": false,
+      "seq": 467
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin"
+    "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
+    "plot.xianni-ch467-471-ziqi-donglai-chuangyan"
   ],
-  "updatedAt": "2026-08-21T07:52:46.175Z"
+  "updatedAt": "2026-08-21T08:12:23.055Z"
 }

@@ -4,14 +4,16 @@
   "name": "仙魔体",
   "aliases": [
     "禁术神通仙魔体",
-    "禁法神通"
+    "禁法神通",
+    "禁术仙魔体"
   ],
   "summary": "二师兄施展的禁术神通：以咒语引天灵黑雾化七股钻入七窍，肉身刀斧不伤、可化黑雾席卷并吞噬一切物质，所过之处大地干裂草木枯萎；被魔火破解后崩溃反噬。",
   "attributes": {
-    "品阶": "禁术神通",
-    "效果": "肉身不伤、化黑雾吞噬一切物质、所过之处大地干裂草木枯萎",
+    "品阶": "禁术",
+    "效果": "肉身不伤、化黑雾吞噬一切物质、所过之处大地干裂草木枯萎、化身黑色雾气、被斩开后可重新融合、利于遁逃",
     "外显异象": "黑雾自天灵涌出、七股钻入七窍，双眼漆黑",
-    "修炼条件": "念咒引黑雾入七窍"
+    "修炼条件": "念咒引黑雾入七窍",
+    "出处": "天运宗紫系（老二所用）"
   },
   "observations": {
     "品阶": [
@@ -19,6 +21,11 @@
         "value": "禁术神通",
         "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
         "seq": 457
+      },
+      {
+        "value": "禁术",
+        "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+        "seq": 467
       }
     ],
     "效果": [
@@ -36,6 +43,21 @@
         "value": "所过之处大地干裂草木枯萎",
         "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
         "seq": 457
+      },
+      {
+        "value": "化身黑色雾气",
+        "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+        "seq": 467
+      },
+      {
+        "value": "被斩开后可重新融合",
+        "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+        "seq": 467
+      },
+      {
+        "value": "利于遁逃",
+        "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+        "seq": 467
       }
     ],
     "外显异象": [
@@ -51,15 +73,22 @@
         "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
         "seq": 457
       }
+    ],
+    "出处": [
+      {
+        "value": "天运宗紫系（老二所用）",
+        "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+        "seq": 467
+      }
     ]
   },
   "firstSeq": 457,
   "attrProvenance": {
     "品阶": {
       "asOf": null,
-      "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
+      "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
       "dated": false,
-      "seq": 457
+      "seq": 467
     },
     "效果": {
       "asOf": null,
@@ -78,12 +107,19 @@
       "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
       "dated": false,
       "seq": 457
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+      "dated": false,
+      "seq": 467
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch457-461-tianyunzong-ziyunge"
+    "plot.xianni-ch457-461-tianyunzong-ziyunge",
+    "plot.xianni-ch467-471-ziqi-donglai-chuangyan"
   ],
-  "updatedAt": "2026-08-21T06:26:48.965Z"
+  "updatedAt": "2026-08-21T08:12:23.069Z"
 }
