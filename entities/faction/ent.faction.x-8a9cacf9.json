@@ -4,15 +4,16 @@
   "name": "天运宗",
   "aliases": [
     "Tianyun Sect",
-    "天运宗门派"
+    "天运宗门派",
+    "Tian Yun Sect"
   ],
   "summary": "天运星上的顶级势力，与大罗剑宗同级；掌门级人物天运子推算出雨之仙剑出世并遣徒阻止大罗剑宗获取。",
   "attributes": {
     "等级": "与大罗剑宗同级",
     "掌门": "天运子",
     "所属界面": "天运星",
-    "理念": "维持天运星实力平衡",
-    "据点": "天运星"
+    "理念": "世间一切运缘皆冥冥之中注定，不可强求，不可避过",
+    "据点": "运仙阁"
   },
   "observations": {
     "等级": [
@@ -41,6 +42,11 @@
         "value": "维持天运星实力平衡",
         "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
         "seq": 304
+      },
+      {
+        "value": "世间一切运缘皆冥冥之中注定，不可强求，不可避过",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
       }
     ],
     "据点": [
@@ -48,6 +54,11 @@
         "value": "天运星",
         "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
         "seq": 387
+      },
+      {
+        "value": "运仙阁",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
       }
     ]
   },
@@ -73,22 +84,23 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
+      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
       "dated": false,
-      "seq": 304
+      "seq": 428
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
       "dated": false,
-      "seq": 387
+      "seq": 428
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
-    "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman"
+    "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+    "plot.xianni-ch451-waner-mingpo-tianyun-star"
   ],
-  "updatedAt": "2026-08-17T16:12:05.397Z"
+  "updatedAt": "2026-08-21T02:32:55.490Z"
 }

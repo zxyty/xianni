@@ -11,13 +11,17 @@
     "朱雀墓命魂",
     "命魂灵物",
     "命魂所化之物",
-    "指定的命魂"
+    "指定的命魂",
+    "水命魂",
+    "命魂水滴",
+    "灵物命魂",
+    "命魂之物"
   ],
   "summary": "生命魂魄的组成之一，被修星之晶在其出生一刻吸走；命魂在晶中者可被持修星之心者随意抹杀。",
   "attributes": {
-    "类型": "魂魄组成、魂、魂魄、魂类、魂类灵物",
-    "用途": "被修星之晶扣押作为抹杀该生命的凭据、本命根基、与性命相连，抽回则可免于随修星之晶俱灭、推动朱雀墓扩张生长、阻挠入墓修士夺取修星之晶、王林此行的目标；柳眉提议代其取回、王林入朱雀墓的目标之物、王林取回后即可离去",
-    "产地": "朱雀墓（对应朱雀星上的命魂主人）"
+    "类型": "魂魄组成、魂、魂魄、魂类、魂类灵物、魂类存在、命魂类灵物、本源灵物",
+    "用途": "被修星之晶扣押作为抹杀该生命的凭据、本命根基、与性命相连，抽回则可免于随修星之晶俱灭、推动朱雀墓扩张生长、阻挠入墓修士夺取修星之晶、王林此行的目标；柳眉提议代其取回、王林入朱雀墓的目标之物、王林取回后即可离去、聚合成灵物；可被禁制封印（对水命魂仅暂时禁锢）；可被术咒师生生炼化、聚合形成剑魂等灵物",
+    "产地": "封存于修星之晶、朱雀墓（对应朱雀星上的命魂主人）、朱雀墓、修星之晶残界"
   },
   "observations": {
     "类型": [
@@ -45,6 +49,21 @@
         "value": "魂类灵物",
         "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
         "seq": 423
+      },
+      {
+        "value": "魂类存在",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
+      },
+      {
+        "value": "命魂类灵物",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
+      },
+      {
+        "value": "本源灵物",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
       }
     ],
     "用途": [
@@ -87,6 +106,16 @@
         "value": "王林取回后即可离去",
         "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
         "seq": 423
+      },
+      {
+        "value": "聚合成灵物；可被禁制封印（对水命魂仅暂时禁锢）；可被术咒师生生炼化",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
+      },
+      {
+        "value": "聚合形成剑魂等灵物",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
       }
     ],
     "产地": [
@@ -99,6 +128,16 @@
         "value": "朱雀墓（对应朱雀星上的命魂主人）",
         "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
         "seq": 423
+      },
+      {
+        "value": "朱雀墓",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
+      },
+      {
+        "value": "修星之晶残界",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
       }
     ]
   },
@@ -118,9 +157,9 @@
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+      "docId": "plot.xianni-ch441-zhuquezi-madness-1",
       "dated": false,
-      "seq": 423
+      "seq": 418
     }
   },
   "contested": false,
@@ -129,7 +168,8 @@
     "plot.xianni-ch427-ancestral-spirit-tree",
     "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
     "plot.xianni-ch441-zhuquezi-madness-1",
-    "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits"
+    "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+    "plot.xianni-ch451-waner-mingpo-tianyun-star"
   ],
-  "updatedAt": "2026-08-21T01:55:03.900Z"
+  "updatedAt": "2026-08-21T02:32:55.667Z"
 }

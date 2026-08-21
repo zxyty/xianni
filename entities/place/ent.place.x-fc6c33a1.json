@@ -16,18 +16,20 @@
     "碎星环空间",
     "碎星环内",
     "碎星乱外",
-    "碑星乱"
+    "碑星乱",
+    "碎星乱之地",
+    "碎星乱吉神之地"
   ],
   "summary": "修魔海内海极北平原上宽约百里的碎石地带，碎石间有奇异牵扯之力，为修魔海最危险的死亡禁地，被朱雀国大阵封印，擅入者杀无赦。",
   "attributes": {
     "所属界面": "修魔海内海、修魔海",
-    "类型": "禁地/死亡地带、秘境/禁地、秘境、古神尸身空间入口、凶地/环形碎石之地、险地/禁地、危险秘域、环形碎石秘境／幻化分身之地、秘境/特殊空间、特殊空间/秘境、星空险地/秘境、海域险地",
+    "类型": "禁地/死亡地带、秘境/禁地、秘境、古神尸身空间入口、凶地/环形碎石之地、险地/禁地、危险秘域、环形碎石秘境／幻化分身之地、秘境/特殊空间、特殊空间/秘境、星空险地/秘境、海域险地、禁地/秘境",
     "方位": "内海极北平原、修魔内海、修魔内海传送阵向东十万里、距王林出发处约十万里",
     "规模": "宽约百里碎石地带、环形碎石带宽约百里、内环百里、本就不大",
     "危险度": "十死无生，最危险处之一、极高、极高（曾吞噬元婴强者）、高、入者遭碎石分身围攻、对元婴修士极高（极光火线专克元婴）",
     "守护": "朱雀星大阵封印、神秘力量凝出的高本体一境分身、椭圆形光圈封印禁制、碎石凝结的复制分身、冥冥中的力量（阻止金线之祖外出）",
-    "上级区域": "修魔海",
-    "特产": "极光火线、金线、火线、祖线"
+    "上级区域": "朱雀星",
+    "特产": "极光火线、金线、火线、祖线、上古修士的气息、深蓝色海水结晶"
   },
   "observations": {
     "所属界面": [
@@ -102,6 +104,11 @@
         "value": "海域险地",
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
+      },
+      {
+        "value": "禁地/秘境",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
       }
     ],
     "方位": [
@@ -218,6 +225,11 @@
         "value": "修魔海",
         "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
         "seq": 273
+      },
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
       }
     ],
     "特产": [
@@ -240,6 +252,17 @@
         "value": "祖线",
         "docId": "plot.xianni-ch312-316-yinju-xinjia",
         "seq": 312
+      },
+      {
+        "value": "上古修士的气息",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428,
+        "note": "死气修士自述可闻到"
+      },
+      {
+        "value": "深蓝色海水结晶",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
       }
     ]
   },
@@ -283,9 +306,9 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
       "dated": false,
-      "seq": 273
+      "seq": 428
     },
     "特产": {
       "asOf": null,
@@ -303,7 +326,8 @@
     "plot.renfa-ch204-ancient-mirror-forbidden-banner",
     "plot.xianni-ch289-ancient-god-sacrifice-treasure",
     "plot.xianni-ch312-316-yinju-xinjia",
-    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree"
+    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+    "plot.xianni-ch451-waner-mingpo-tianyun-star"
   ],
-  "updatedAt": "2026-08-08T10:00:26.318Z"
+  "updatedAt": "2026-08-21T02:32:55.611Z"
 }

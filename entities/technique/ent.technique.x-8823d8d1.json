@@ -4,13 +4,16 @@
   "name": "仙遗族符文之力咒法",
   "aliases": [
     "八叶术咒",
-    "仙遗族术咒"
+    "仙遗族术咒",
+    "八叶术咒师之术",
+    "祖灵符文"
   ],
   "summary": "仙遗族族人盘膝诵咒，催动体内符文离体聚合、绕四周高速盘旋并一圈圈上蔓的集体大阵之法；每两个时辰耗尽一批人，需轮换持续。",
   "attributes": {
-    "效果": "符文离体聚合成阵，持续数月以启动祖灵树布局",
+    "效果": "符文离体聚合成阵，持续数月以启动祖灵树布局、幽光符文结成巨大圆圈围困灵物、生生炼化命魂、祖灵符文远程沟通族人求援",
     "修炼条件": "体内需蕴符文之力",
-    "外显异象": "符文离体绕旋、黑雾弥漫"
+    "外显异象": "眉心生一株八叶植物妖异伸展",
+    "出处": "仙遗族"
   },
   "observations": {
     "效果": [
@@ -18,6 +21,21 @@
         "value": "符文离体聚合成阵，持续数月以启动祖灵树布局",
         "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
         "seq": 401
+      },
+      {
+        "value": "幽光符文结成巨大圆圈围困灵物",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
+      },
+      {
+        "value": "生生炼化命魂",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
+      },
+      {
+        "value": "祖灵符文远程沟通族人求援",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
       }
     ],
     "修炼条件": [
@@ -32,6 +50,18 @@
         "value": "符文离体绕旋、黑雾弥漫",
         "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
         "seq": 401
+      },
+      {
+        "value": "眉心生一株八叶植物妖异伸展",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
+      }
+    ],
+    "出处": [
+      {
+        "value": "仙遗族",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
       }
     ]
   },
@@ -51,15 +81,22 @@
     },
     "外显异象": {
       "asOf": null,
-      "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
       "dated": false,
-      "seq": 401
+      "seq": 428
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+      "dated": false,
+      "seq": 428
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul"
+    "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+    "plot.xianni-ch451-waner-mingpo-tianyun-star"
   ],
-  "updatedAt": "2026-08-17T18:32:24.539Z"
+  "updatedAt": "2026-08-21T02:32:55.530Z"
 }

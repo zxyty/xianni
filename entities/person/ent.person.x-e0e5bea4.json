@@ -7,18 +7,22 @@
     "仙遗族驼背老者",
     "老匹夫",
     "驼背七叶术咒师",
-    "仙遗族老者"
+    "仙遗族老者",
+    "驼背修士",
+    "驼背老人"
   ],
   "summary": "仙遗族七叶术咒师，全身五分之四画满符文印记，戴兽骨手镯，可瞬移、封锁空间、以眉心七叶植物扫描全层；在第一层入口以金色符文封路截住王林。",
   "attributes": {
     "种族": "仙遗族",
-    "身份": "追击者",
-    "外貌": "驼背老者",
+    "身份": "困囚水命魂的施术者",
+    "外貌": "驼背",
     "标志特征": "兽骨手镯、眉心可生出七叶植物、常伴咳嗽、全身符文、眉心可生七叶植物",
     "神识": "七叶植物延展可覆盖整层，等同修士神识",
     "阵营": "仙遗族",
-    "存殁": "存活、困于虚无",
-    "性格": "高傲、易怒"
+    "存殁": "存活、困于虚无、死亡",
+    "性格": "高傲、易怒",
+    "死因": "元神被次元裂缝吞噬（先失半截肉身与符文元神）",
+    "元神强度": "极为虚弱"
   },
   "observations": {
     "种族": [
@@ -38,6 +42,11 @@
         "value": "追击者",
         "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
         "seq": 332
+      },
+      {
+        "value": "困囚水命魂的施术者",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
       }
     ],
     "外貌": [
@@ -50,6 +59,11 @@
         "value": "驼背老者",
         "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
         "seq": 332
+      },
+      {
+        "value": "驼背",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
       }
     ],
     "标志特征": [
@@ -104,6 +118,11 @@
         "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
         "seq": 332,
         "note": "第333章"
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
       }
     ],
     "性格": [
@@ -111,6 +130,21 @@
         "value": "高傲、易怒",
         "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
         "seq": 332
+      }
+    ],
+    "死因": [
+      {
+        "value": "元神被次元裂缝吞噬（先失半截肉身与符文元神）",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
+      }
+    ],
+    "元神强度": [
+      {
+        "value": "极为虚弱",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428,
+        "note": "失去符文元神后"
       }
     ]
   },
@@ -124,15 +158,15 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
       "dated": false,
-      "seq": 332
+      "seq": 428
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
       "dated": false,
-      "seq": 332
+      "seq": 428
     },
     "标志特征": {
       "asOf": null,
@@ -163,6 +197,19 @@
       "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
       "dated": false,
       "seq": 332
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+      "dated": false,
+      "seq": 428
+    },
+    "元神强度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+      "dated": false,
+      "seq": 428,
+      "note": "失去符文元神后"
     }
   },
   "contested": false,
@@ -170,7 +217,8 @@
   "docs": [
     "plot.xianni-ch347-xianyi-zu",
     "plot.xianni-ch352-fu-kui-space-rift-flight",
-    "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north"
+    "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+    "plot.xianni-ch451-waner-mingpo-tianyun-star"
   ],
-  "updatedAt": "2026-08-08T15:56:06.586Z"
+  "updatedAt": "2026-08-21T02:32:55.581Z"
 }

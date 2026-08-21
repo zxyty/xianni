@@ -3,17 +3,18 @@
   "type": "event",
   "name": "司徒南封印修星之晶",
   "aliases": [
-    "当年封印修星之晶"
+    "当年封印修星之晶",
+    "修星之晶封印"
   ],
   "summary": "司徒南当年成为朱雀后知晓修星之晶真相，暗中将其封印，使后代朱雀子无法操控。",
   "attributes": {
-    "章节": "第429章（回忆）",
-    "世内时序": "司徒南成为朱雀之后、数万年前",
+    "章节": "第451章（追述）",
+    "世内时序": "数万年前/当年",
     "地点": "朱雀星",
     "参与方": "司徒南",
     "起因": "成为朱雀后知晓修星之晶歹毒，看其不顺眼",
-    "结果": "晶仍吸收命魂，但封印不破则无法被操控",
-    "影响": "朱雀星陷入混乱，历代朱雀对此恨之入骨"
+    "结果": "晶仍吸收命魂，但封印不破则无法被操控、朱雀子无法以修星之晶操控朱雀星、朱雀星无人可在问鼎之际抽回命魂",
+    "影响": "数万年来朱雀星诞生者（含仙遗族）无一抽出命魂"
   },
   "observations": {
     "章节": [
@@ -21,6 +22,11 @@
         "value": "第429章（回忆）",
         "docId": "plot.xianni-ch427-ancestral-spirit-tree",
         "seq": 405
+      },
+      {
+        "value": "第451章（追述）",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
       }
     ],
     "世内时序": [
@@ -28,6 +34,11 @@
         "value": "司徒南成为朱雀之后、数万年前",
         "docId": "plot.xianni-ch427-ancestral-spirit-tree",
         "seq": 405
+      },
+      {
+        "value": "数万年前/当年",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
       }
     ],
     "地点": [
@@ -56,6 +67,16 @@
         "value": "晶仍吸收命魂，但封印不破则无法被操控",
         "docId": "plot.xianni-ch427-ancestral-spirit-tree",
         "seq": 405
+      },
+      {
+        "value": "朱雀子无法以修星之晶操控朱雀星",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
+      },
+      {
+        "value": "朱雀星无人可在问鼎之际抽回命魂",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
       }
     ],
     "影响": [
@@ -63,6 +84,11 @@
         "value": "朱雀星陷入混乱，历代朱雀对此恨之入骨",
         "docId": "plot.xianni-ch427-ancestral-spirit-tree",
         "seq": 405
+      },
+      {
+        "value": "数万年来朱雀星诞生者（含仙遗族）无一抽出命魂",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
       }
     ]
   },
@@ -70,15 +96,15 @@
   "attrProvenance": {
     "章节": {
       "asOf": null,
-      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
       "dated": false,
-      "seq": 405
+      "seq": 428
     },
     "世内时序": {
       "asOf": null,
-      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
       "dated": false,
-      "seq": 405
+      "seq": 428
     },
     "地点": {
       "asOf": null,
@@ -106,15 +132,16 @@
     },
     "影响": {
       "asOf": null,
-      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
       "dated": false,
-      "seq": 405
+      "seq": 428
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch427-ancestral-spirit-tree"
+    "plot.xianni-ch427-ancestral-spirit-tree",
+    "plot.xianni-ch451-waner-mingpo-tianyun-star"
   ],
-  "updatedAt": "2026-08-17T19:16:48.628Z"
+  "updatedAt": "2026-08-21T02:32:55.515Z"
 }

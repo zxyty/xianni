@@ -6,13 +6,14 @@
     "山脉深处的山谷",
     "有祭坛的山谷",
     "朱雀墓山谷",
-    "战场山谷"
+    "战场山谷",
+    "囚困水命魂的山谷"
   ],
   "summary": "王林神识探查山脉时留意到的山谷，谷内有一座与山峰顶部祭坛一模一样的祭坛，柳眉在此拦路。",
   "attributes": {
     "类型": "山谷",
     "方位": "山脉深处",
-    "守护": "柳眉",
+    "守护": "符文圈",
     "上级区域": "朱雀墓"
   },
   "observations": {
@@ -36,6 +37,11 @@
         "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
         "seq": 423,
         "note": "第448章坐于祭坛边缘拦阻王林"
+      },
+      {
+        "value": "符文圈",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
       }
     ],
     "上级区域": [
@@ -62,10 +68,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
       "dated": false,
-      "seq": 423,
-      "note": "第448章坐于祭坛边缘拦阻王林"
+      "seq": 428
     },
     "上级区域": {
       "asOf": null,
@@ -77,7 +82,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits"
+    "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+    "plot.xianni-ch451-waner-mingpo-tianyun-star"
   ],
-  "updatedAt": "2026-08-21T01:55:03.873Z"
+  "updatedAt": "2026-08-21T02:32:55.554Z"
 }

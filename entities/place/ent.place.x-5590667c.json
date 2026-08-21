@@ -13,18 +13,21 @@
     "朱雀山朱雀墓",
     "朱雀子之墓",
     "朱雀墓地",
-    "朱雀陵"
+    "朱雀陵",
+    "朱雀墓中心点",
+    "朱雀古墓",
+    "朱雀墓内"
   ],
   "summary": "受修星之晶奇异之力笼罩的禁地，除朱雀子外问鼎修士无法踏入，只有婴变修士可进入。",
   "attributes": {
     "所属界面": "朱雀星",
     "所属势力": "朱雀国",
-    "类型": "陵墓/禁地、墓地/秘境、古墓/秘境、秘境/古墓、古墓／秘境、陵墓/秘境、墓葬/传承秘境",
-    "危险度": "高、极高（比王林想象危险数倍）、极高、极高（命魂灵物、祭坛陷阱、修星之晶碎裂之危）、高——命魂灵物更多更强且主动挑衅",
-    "守护": "修星之晶之力限制入内人数与境界",
+    "类型": "陵墓/禁地、墓地/秘境、古墓/秘境、秘境/古墓、古墓／秘境、陵墓/秘境、墓葬/传承秘境、秘境/禁地、古墓/秘境空间、古墓秘境",
+    "危险度": "高、极高（比王林想象危险数倍）、极高、极高（命魂灵物、祭坛陷阱、修星之晶碎裂之危）、高——命魂灵物更多更强且主动挑衅、极高，深处命魂生物众多且强大、极高（次元缝隙爆发）、极高，稍有不慎便丧命、极高（次元缝隙无声无息出现）",
+    "守护": "朱雀子",
     "上级区域": "朱雀山",
     "规模": "据司徒南称范围不大、极大，飞行三日神识不见边际、内部极大",
-    "特产": "修星之晶、浓郁灵力、命魂、命魂灵物、命魂凝聚的灵物"
+    "特产": "修星之晶、浓郁灵力、命魂、命魂灵物、命魂凝聚的灵物、命魂生物、命魂组成的灵物、金命魂、次元缝隙"
   },
   "observations": {
     "所属界面": [
@@ -76,6 +79,21 @@
         "value": "墓葬/传承秘境",
         "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
         "seq": 423
+      },
+      {
+        "value": "秘境/禁地",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
+      },
+      {
+        "value": "古墓/秘境空间",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
+      },
+      {
+        "value": "古墓秘境",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
       }
     ],
     "危险度": [
@@ -104,6 +122,27 @@
         "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
         "seq": 423,
         "note": "内部相较外围"
+      },
+      {
+        "value": "极高，深处命魂生物众多且强大",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
+      },
+      {
+        "value": "极高（次元缝隙爆发）",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
+      },
+      {
+        "value": "极高，稍有不慎便丧命",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428,
+        "note": "修星之晶崩溃后"
+      },
+      {
+        "value": "极高（次元缝隙无声无息出现）",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
       }
     ],
     "守护": [
@@ -116,6 +155,11 @@
         "value": "修星之晶之力限制入内人数与境界",
         "docId": "plot.xianni-ch441-zhuquezi-madness-1",
         "seq": 418
+      },
+      {
+        "value": "朱雀子",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
       }
     ],
     "上级区域": [
@@ -168,6 +212,26 @@
         "value": "命魂凝聚的灵物",
         "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
         "seq": 423
+      },
+      {
+        "value": "命魂生物",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
+      },
+      {
+        "value": "命魂组成的灵物",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
+      },
+      {
+        "value": "金命魂",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
+      },
+      {
+        "value": "次元缝隙",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
       }
     ]
   },
@@ -199,9 +263,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
       "dated": false,
-      "seq": 418
+      "seq": 428
     },
     "上级区域": {
       "asOf": null,
@@ -228,7 +292,8 @@
   "docs": [
     "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
     "plot.xianni-ch441-zhuquezi-madness-1",
-    "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits"
+    "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+    "plot.xianni-ch451-waner-mingpo-tianyun-star"
   ],
-  "updatedAt": "2026-08-21T01:55:03.912Z"
+  "updatedAt": "2026-08-21T02:32:55.688Z"
 }

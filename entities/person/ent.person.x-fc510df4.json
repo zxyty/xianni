@@ -13,21 +13,26 @@
     "古神之地的拓森",
     "古神之地拓森",
     "红发长及腰的男子",
-    "Tuo Sen"
+    "Tuo Sen",
+    "血红色乱发男子",
+    "血发男子",
+    "古神拓森",
+    "八星吉神"
   ],
   "summary": "修为极强的修士，当年在古神之外令联手的十一人亦非其敌手；未杀众人反邀其入古神之地，精通三关六道，却在最后一关被挡门外；与拓森封印相关。",
   "attributes": {
-    "身份": "古神之外遇到的强修士、古魔涂司怨念邪魔、涂司墨流分神术分离出的一丝魔念、古神涂司分离之魔念、古神之地内的看守/威胁性存在、古神之地修士、涂司力之传承的继承者",
+    "身份": "古神之外遇到的强修士、古魔涂司怨念邪魔、涂司墨流分神术分离出的一丝魔念、古神涂司分离之魔念、古神之地内的看守/威胁性存在、古神之地修士、涂司力之传承的继承者、被封印者",
     "标志特征": "以指甲在地面刻满「王林」二字",
-    "外貌": "红发男子、红发男子，双目妖异／狂傲、红发无风自动、红发长及腰部，红发遮面",
+    "外貌": "红发男子、红发男子，双目妖异／狂傲、红发无风自动、红发长及腰部，红发遮面、血红色乱发、血红双眼、绝世凶芒",
     "阵营": "受吉神束缚",
     "存殁": "存活",
-    "种族": "涂司之族／魔念",
-    "性格": "阴森、狂傲、狰狞",
+    "种族": "古神一族",
+    "性格": "凶戾残忍、狂傲",
     "本命法宝": "灭星矛、紫月、灭神矛、残月弯刀",
     "分身": "可一分为十",
     "出身地": "古神之地",
-    "性别": "男"
+    "性别": "男",
+    "称号": "八星吉神"
   },
   "observations": {
     "身份": [
@@ -67,6 +72,12 @@
         "value": "涂司力之传承的继承者",
         "docId": "plot.xianni-ch427-ancestral-spirit-tree",
         "seq": 405
+      },
+      {
+        "value": "被封印者",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428,
+        "note": "封印于碎星乱吉神之地血海石锥，图谋以修星之晶破封"
       }
     ],
     "标志特征": [
@@ -106,6 +117,11 @@
         "value": "红发长及腰部，红发遮面",
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
+      },
+      {
+        "value": "血红色乱发、血红双眼、绝世凶芒",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
       }
     ],
     "阵营": [
@@ -154,6 +170,11 @@
         "docId": "plot.xianni-ch194-blood-sea-seal-opening",
         "seq": 179,
         "note": "自称『吾族』本命之器"
+      },
+      {
+        "value": "古神一族",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
       }
     ],
     "性格": [
@@ -161,6 +182,11 @@
         "value": "阴森、狂傲、狰狞",
         "docId": "plot.xianni-ch194-blood-sea-seal-opening",
         "seq": 179
+      },
+      {
+        "value": "凶戾残忍、狂傲",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
       }
     ],
     "本命法宝": [
@@ -205,6 +231,14 @@
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
       }
+    ],
+    "称号": [
+      {
+        "value": "八星吉神",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428,
+        "note": "自称吞下王林传承后可成"
+      }
     ]
   },
   "firstSeq": 176,
@@ -241,16 +275,15 @@
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.xianni-ch194-blood-sea-seal-opening",
+      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
       "dated": false,
-      "seq": 179,
-      "note": "自称『吾族』本命之器"
+      "seq": 428
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch194-blood-sea-seal-opening",
+      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
       "dated": false,
-      "seq": 179
+      "seq": 428
     },
     "本命法宝": {
       "asOf": null,
@@ -275,6 +308,13 @@
       "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
       "dated": false,
       "seq": 322
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+      "dated": false,
+      "seq": 428,
+      "note": "自称吞下王林传承后可成"
     }
   },
   "contested": false,
@@ -289,7 +329,8 @@
     "plot.xianni-ch327-return-to-zhuque-star",
     "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
     "plot.xianni-ch427-ancestral-spirit-tree",
-    "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits"
+    "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+    "plot.xianni-ch451-waner-mingpo-tianyun-star"
   ],
-  "updatedAt": "2026-08-21T01:55:03.887Z"
+  "updatedAt": "2026-08-21T02:32:55.601Z"
 }

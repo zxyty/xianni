@@ -3,13 +3,16 @@
   "type": "beast",
   "name": "紫金麒麟残魂",
   "aliases": [
-    "紫金麒麟"
+    "紫金麒麟",
+    "尊魂幡内紫金麒麟",
+    "紫金麒麟魂"
   ],
   "summary": "十亿尊魂幡二十八主魂之一，巨大双目露出阵阵凶芒。",
   "attributes": {
     "种族": "麒麟",
     "主人": "王林",
-    "外形": "紫金色麒麟，巨目凶芒"
+    "外形": "紫金麒麟",
+    "能力": "咆哮惊动九天、穿透九地；扑咬敌手"
   },
   "observations": {
     "种族": [
@@ -31,6 +34,18 @@
         "value": "紫金色麒麟，巨目凶芒",
         "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
         "seq": 423
+      },
+      {
+        "value": "紫金麒麟",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
+      }
+    ],
+    "能力": [
+      {
+        "value": "咆哮惊动九天、穿透九地；扑咬敌手",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
       }
     ]
   },
@@ -50,15 +65,22 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
       "dated": false,
-      "seq": 423
+      "seq": 428
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+      "dated": false,
+      "seq": 428
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits"
+    "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+    "plot.xianni-ch451-waner-mingpo-tianyun-star"
   ],
-  "updatedAt": "2026-08-21T01:55:03.801Z"
+  "updatedAt": "2026-08-21T02:32:55.551Z"
 }

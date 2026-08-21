@@ -4,12 +4,14 @@
   "name": "朱雀墓灵山",
   "aliases": [
     "灵山",
-    "朱雀墓中心灵山"
+    "朱雀墓中心灵山",
+    "七彩灵山",
+    "散发七彩之光的山峰"
   ],
   "summary": "据司徒南所述位于朱雀墓正中央的山，藏一代朱雀子的朱雀印道统与其尸身，每代朱雀继承封号须在此静修数月获传承。",
   "attributes": {
-    "方位": "朱雀墓正中间",
-    "类型": "传承之地",
+    "方位": "朱雀墓盆地群之外深处",
+    "类型": "灵山/秘境山峰",
     "上级区域": "朱雀墓",
     "守护": "一代朱雀子尸身"
   },
@@ -19,6 +21,11 @@
         "value": "朱雀墓正中间",
         "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
         "seq": 423
+      },
+      {
+        "value": "朱雀墓盆地群之外深处",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
       }
     ],
     "类型": [
@@ -26,6 +33,11 @@
         "value": "传承之地",
         "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
         "seq": 423
+      },
+      {
+        "value": "灵山/秘境山峰",
+        "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+        "seq": 428
       }
     ],
     "上级区域": [
@@ -47,15 +59,15 @@
   "attrProvenance": {
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
       "dated": false,
-      "seq": 423
+      "seq": 428
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
       "dated": false,
-      "seq": 423
+      "seq": 428
     },
     "上级区域": {
       "asOf": null,
@@ -73,7 +85,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits"
+    "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+    "plot.xianni-ch451-waner-mingpo-tianyun-star"
   ],
-  "updatedAt": "2026-08-21T01:55:03.913Z"
+  "updatedAt": "2026-08-21T02:32:55.687Z"
 }
