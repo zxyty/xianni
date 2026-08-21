@@ -3,12 +3,15 @@
   "type": "person",
   "name": "邱四平大师兄",
   "aliases": [
-    "大师兄"
+    "大师兄",
+    "王林的大师兄"
   ],
   "summary": "刚结婴的元婴期修士，与师父一同被邱四平暗算归息三十年。",
   "attributes": {
     "小阶段": "元婴",
-    "存殁": "归息"
+    "存殁": "归息",
+    "身份": "王林大师兄、困阵布置者",
+    "阵营": "天运宗"
   },
   "observations": {
     "小阶段": [
@@ -25,6 +28,25 @@
         "docId": "plot.xianni-ch206-guixi-yuanying-qiusiping",
         "seq": 190,
         "note": "被师弟邱四平做手脚，归息三十年"
+      }
+    ],
+    "身份": [
+      {
+        "value": "王林大师兄",
+        "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
+        "seq": 462
+      },
+      {
+        "value": "困阵布置者",
+        "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
+        "seq": 462
+      }
+    ],
+    "阵营": [
+      {
+        "value": "天运宗",
+        "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
+        "seq": 462
       }
     ]
   },
@@ -43,12 +65,25 @@
       "dated": false,
       "seq": 190,
       "note": "被师弟邱四平做手脚，归息三十年"
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
+      "dated": false,
+      "seq": 462
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
+      "dated": false,
+      "seq": 462
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch206-guixi-yuanying-qiusiping"
+    "plot.xianni-ch206-guixi-yuanying-qiusiping",
+    "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin"
   ],
-  "updatedAt": "2026-07-07T12:09:47.086Z"
+  "updatedAt": "2026-08-21T07:52:46.189Z"
 }

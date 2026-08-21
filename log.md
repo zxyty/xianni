@@ -113,3 +113,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-21T05:47:06.665Z** `ingest` plot.xianni-ch447-451-farewell-zhuque-star — 仙逆 第447-451章：缘分已尽——王林辞别朱雀星 · kind=plot asOf=2026-08-21 entities=123 relations=203 src=00447-00451.md
 - **2026-08-21T06:06:51.947Z** `ingest` plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye — 仙逆 第452-456章：明玫城遇白薇、求墨雪液与九城被洗劫 · kind=plot asOf=2026-08-21 entities=80 relations=141 src=00452-00456.md
 - **2026-08-21T06:26:49.081Z** `ingest` plot.xianni-ch457-461-tianyunzong-ziyunge — 仙逆 第457-461章：弃关悟道·入紫云阁遭逐 · kind=plot asOf=2026-08-21 entities=71 relations=165 src=00457-00461.md
+- **2026-08-21T07:52:46.316Z** `ingest` plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin — 仙逆 第485章 仙术——天运子一语崩元神，点破王林身沾魔道气息 · kind=plot asOf=2026-08-21 entities=115 relations=275 src=00462-00466.md

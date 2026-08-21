@@ -4,12 +4,13 @@
   "name": "白薇的师尊",
   "aliases": [
     "天运宗师尊",
-    "师尊老人家"
+    "师尊老人家",
+    "天运宗之主"
   ],
   "summary": "白薇的师尊，一万年一寿，此次大寿将至，白薇为其在九城搜罗贺礼。",
   "attributes": {
-    "身份": "天运宗白薇之师",
-    "寿元": "一万年一寿"
+    "身份": "天运宗师尊",
+    "寿元": "在天运星无数万年"
   },
   "observations": {
     "身份": [
@@ -17,6 +18,11 @@
         "value": "天运宗白薇之师",
         "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
         "seq": 452
+      },
+      {
+        "value": "天运宗师尊",
+        "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
+        "seq": 462
       }
     ],
     "寿元": [
@@ -24,6 +30,12 @@
         "value": "一万年一寿",
         "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
         "seq": 452
+      },
+      {
+        "value": "在天运星无数万年",
+        "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
+        "seq": 462,
+        "note": "白薇口述"
       }
     ]
   },
@@ -31,21 +43,23 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+      "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
       "dated": false,
-      "seq": 452
+      "seq": 462
     },
     "寿元": {
       "asOf": null,
-      "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+      "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
       "dated": false,
-      "seq": 452
+      "seq": 462,
+      "note": "白薇口述"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye"
+    "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+    "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin"
   ],
-  "updatedAt": "2026-08-21T06:06:51.778Z"
+  "updatedAt": "2026-08-21T07:52:46.116Z"
 }

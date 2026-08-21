@@ -11,7 +11,8 @@
     "性别": "女",
     "小阶段": "婴变后期",
     "身份": "天运子弟子",
-    "存殁": "存活"
+    "存殁": "存活",
+    "阵营": "天运宗/紫宗"
   },
   "observations": {
     "性别": [
@@ -41,6 +42,13 @@
         "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
         "seq": 457
       }
+    ],
+    "阵营": [
+      {
+        "value": "天运宗/紫宗",
+        "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
+        "seq": 462
+      }
     ]
   },
   "firstSeq": 457,
@@ -68,12 +76,19 @@
       "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
       "dated": false,
       "seq": 457
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
+      "dated": false,
+      "seq": 462
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch457-461-tianyunzong-ziyunge"
+    "plot.xianni-ch457-461-tianyunzong-ziyunge",
+    "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin"
   ],
-  "updatedAt": "2026-08-21T06:26:48.954Z"
+  "updatedAt": "2026-08-21T07:52:46.068Z"
 }
