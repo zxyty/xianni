@@ -7,15 +7,19 @@
     "赵国通天塔",
     "使者居住的通天塔",
     "通天增",
-    "楚国通天塔"
+    "楚国通天塔",
+    "通夭塔",
+    "通夭堵"
   ],
   "summary": "修真联盟标志性八角建筑，位于赵国正中心，常驻联盟使者。",
   "attributes": {
-    "所属势力": "修真联盟",
-    "所属界面": "楚国",
+    "所属势力": "灵岳国",
+    "所属界面": "地星",
     "方位": "楚国中心点",
-    "类型": "高塔",
-    "守护": "上级使者"
+    "类型": "宝塔/使者驻地",
+    "守护": "上级使者",
+    "规模": "方圆万里禁区",
+    "危险度": "极高，婴变修士入内不足百丈即退"
   },
   "observations": {
     "所属势力": [
@@ -23,6 +27,11 @@
         "value": "修真联盟",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
+      },
+      {
+        "value": "灵岳国",
+        "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
+        "seq": 481
       }
     ],
     "所属界面": [
@@ -35,6 +44,11 @@
         "value": "楚国",
         "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
         "seq": 317
+      },
+      {
+        "value": "地星",
+        "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
+        "seq": 481
       }
     ],
     "方位": [
@@ -69,6 +83,11 @@
         "value": "高塔",
         "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
         "seq": 142
+      },
+      {
+        "value": "宝塔/使者驻地",
+        "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
+        "seq": 481
       }
     ],
     "守护": [
@@ -77,21 +96,36 @@
         "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
         "seq": 142
       }
+    ],
+    "规模": [
+      {
+        "value": "方圆万里禁区",
+        "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
+        "seq": 481
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高，婴变修士入内不足百丈即退",
+        "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
+        "seq": 481,
+        "note": "王林布下禁幡黑雾期间"
+      }
     ]
   },
   "firstSeq": 80,
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
       "dated": false,
-      "seq": 80
+      "seq": 481
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+      "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
       "dated": false,
-      "seq": 317
+      "seq": 481
     },
     "方位": {
       "asOf": null,
@@ -101,15 +135,28 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
+      "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
       "dated": false,
-      "seq": 142
+      "seq": 481
     },
     "守护": {
       "asOf": null,
       "docId": "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
       "dated": false,
       "seq": 142
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
+      "dated": false,
+      "seq": 481
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
+      "dated": false,
+      "seq": 481,
+      "note": "王林布下禁幡黑雾期间"
     }
   },
   "contested": false,
@@ -120,7 +167,8 @@
     "plot.xianni-142-146-qimei-rongyan-wuqi-huahai",
     "plot.xianni-ch242-punanzi",
     "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
-    "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan"
+    "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+    "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star"
   ],
-  "updatedAt": "2026-08-08T09:25:36.956Z"
+  "updatedAt": "2026-08-21T10:21:43.883Z"
 }

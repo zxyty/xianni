@@ -4,13 +4,16 @@
   "name": "三式杀招",
   "aliases": [
     "带魔姓的三式杀招",
-    "残卷仙术三式"
+    "残卷仙术三式",
+    "王林三式杀招",
+    "魔气扩散之式"
   ],
   "summary": "司徒南依据从叶无忧处所得残次下品仙术模仿多年而成的三式，因其修魔道而带魔姓，传授给王林。",
   "attributes": {
-    "出处": "由一代朱雀叶无忧处所得残次下品仙术模仿而来、司徒南依残卷仙术模仿",
+    "出处": "由一代朱雀叶无忧处所得残次下品仙术模仿而来、司徒南依残卷仙术模仿、王林成名神通",
     "五行属性": "魔姓",
-    "效果": "杀招三式、以残卷模仿即具惊人威力"
+    "效果": "杀招三式、以残卷模仿即具惊人威力、杀伐",
+    "外显异象": "滔天魔气扩散"
   },
   "observations": {
     "出处": [
@@ -23,6 +26,11 @@
         "value": "司徒南依残卷仙术模仿",
         "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
         "seq": 462
+      },
+      {
+        "value": "王林成名神通",
+        "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
+        "seq": 481
       }
     ],
     "五行属性": [
@@ -42,6 +50,18 @@
         "value": "以残卷模仿即具惊人威力",
         "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
         "seq": 462
+      },
+      {
+        "value": "杀伐",
+        "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
+        "seq": 481
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "滔天魔气扩散",
+        "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
+        "seq": 481
       }
     ]
   },
@@ -64,12 +84,19 @@
       "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
       "dated": false,
       "seq": 462
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
+      "dated": false,
+      "seq": 481
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin"
+    "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
+    "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star"
   ],
-  "updatedAt": "2026-08-21T07:52:46.126Z"
+  "updatedAt": "2026-08-21T10:21:43.860Z"
 }
