@@ -8,7 +8,8 @@
   "summary": "葬有一代朱雀遗物之地，历代朱雀子在此感悟朱雀玄印。",
   "attributes": {
     "所属势力": "朱雀国",
-    "类型": "墓葬／传承之地"
+    "类型": "墓葬",
+    "上级区域": "朱雀墓"
   },
   "observations": {
     "所属势力": [
@@ -23,6 +24,18 @@
         "value": "墓葬／传承之地",
         "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
         "seq": 401
+      },
+      {
+        "value": "墓葬",
+        "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+        "seq": 423
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "朱雀墓",
+        "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+        "seq": 423
       }
     ]
   },
@@ -36,15 +49,22 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+      "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
       "dated": false,
-      "seq": 401
+      "seq": 423
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+      "dated": false,
+      "seq": 423
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul"
+    "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+    "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits"
   ],
-  "updatedAt": "2026-08-17T18:32:24.512Z"
+  "updatedAt": "2026-08-21T01:55:03.892Z"
 }

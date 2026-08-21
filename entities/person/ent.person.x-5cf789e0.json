@@ -7,16 +7,17 @@
     "仙遗族三祖",
     "十一层的三祖",
     "仙遗族女子三祖",
-    "眼中带媚的女子"
+    "眼中带媚的女子",
+    "干娇百媚的女子"
   ],
   "summary": "仙遗族祖级高层，守护祖灵树时被朱雀子重伤，正在第十一层疗伤。",
   "attributes": {
     "种族": "仙遗族",
     "身份": "祖灵树守护者、仙遗族三祖、仙遗族长老",
-    "存殁": "重伤疗养",
+    "存殁": "存活",
     "性别": "女",
-    "标志特征": "点眉心后额头浮现一株九叶植物",
-    "外貌": "眼中带媚、相貌娇美",
+    "标志特征": "眉心本命植物，可放出符文",
+    "外貌": "干娇百媚",
     "阵营": "仙遗族"
   },
   "observations": {
@@ -50,6 +51,11 @@
         "docId": "plot.xianni-ch432-ancestral-rune-skull",
         "seq": 410,
         "note": "被朱雀子重伤，于第十一层疗伤"
+      },
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+        "seq": 423
       }
     ],
     "性别": [
@@ -64,6 +70,11 @@
         "value": "点眉心后额头浮现一株九叶植物",
         "docId": "plot.xianni-ch432-ancestral-rune-skull",
         "seq": 410
+      },
+      {
+        "value": "眉心本命植物，可放出符文",
+        "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+        "seq": 423
       }
     ],
     "外貌": [
@@ -71,6 +82,11 @@
         "value": "眼中带媚、相貌娇美",
         "docId": "plot.xianni-ch441-zhuquezi-madness-1",
         "seq": 418
+      },
+      {
+        "value": "干娇百媚",
+        "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+        "seq": 423
       }
     ],
     "阵营": [
@@ -97,10 +113,9 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch432-ancestral-rune-skull",
+      "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
       "dated": false,
-      "seq": 410,
-      "note": "被朱雀子重伤，于第十一层疗伤"
+      "seq": 423
     },
     "性别": {
       "asOf": null,
@@ -110,15 +125,15 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch432-ancestral-rune-skull",
+      "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
       "dated": false,
-      "seq": 410
+      "seq": 423
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+      "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
       "dated": false,
-      "seq": 418
+      "seq": 423
     },
     "阵营": {
       "asOf": null,
@@ -131,7 +146,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch432-ancestral-rune-skull",
-    "plot.xianni-ch441-zhuquezi-madness-1"
+    "plot.xianni-ch441-zhuquezi-madness-1",
+    "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits"
   ],
-  "updatedAt": "2026-08-17T20:52:59.134Z"
+  "updatedAt": "2026-08-21T01:55:03.908Z"
 }

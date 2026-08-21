@@ -9,18 +9,22 @@
     "朱雀山下的漆黑通道",
     "Zhuque Tomb",
     "朱雀墓内界",
-    "朱雀之墓"
+    "朱雀之墓",
+    "朱雀山朱雀墓",
+    "朱雀子之墓",
+    "朱雀墓地",
+    "朱雀陵"
   ],
   "summary": "受修星之晶奇异之力笼罩的禁地，除朱雀子外问鼎修士无法踏入，只有婴变修士可进入。",
   "attributes": {
     "所属界面": "朱雀星",
     "所属势力": "朱雀国",
-    "类型": "陵墓/禁地、墓地/秘境、古墓/秘境、秘境/古墓",
-    "危险度": "高、极高（比王林想象危险数倍）、极高",
+    "类型": "陵墓/禁地、墓地/秘境、古墓/秘境、秘境/古墓、古墓／秘境、陵墓/秘境、墓葬/传承秘境",
+    "危险度": "高、极高（比王林想象危险数倍）、极高、极高（命魂灵物、祭坛陷阱、修星之晶碎裂之危）、高——命魂灵物更多更强且主动挑衅",
     "守护": "修星之晶之力限制入内人数与境界",
     "上级区域": "朱雀山",
-    "规模": "据司徒南称范围不大、极大，飞行三日神识不见边际",
-    "特产": "修星之晶、浓郁灵力、命魂"
+    "规模": "据司徒南称范围不大、极大，飞行三日神识不见边际、内部极大",
+    "特产": "修星之晶、浓郁灵力、命魂、命魂灵物、命魂凝聚的灵物"
   },
   "observations": {
     "所属界面": [
@@ -57,6 +61,21 @@
         "value": "秘境/古墓",
         "docId": "plot.xianni-ch441-zhuquezi-madness-1",
         "seq": 418
+      },
+      {
+        "value": "古墓／秘境",
+        "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+        "seq": 423
+      },
+      {
+        "value": "陵墓/秘境",
+        "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+        "seq": 423
+      },
+      {
+        "value": "墓葬/传承秘境",
+        "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+        "seq": 423
       }
     ],
     "危险度": [
@@ -74,6 +93,17 @@
         "value": "极高",
         "docId": "plot.xianni-ch441-zhuquezi-madness-1",
         "seq": 418
+      },
+      {
+        "value": "极高（命魂灵物、祭坛陷阱、修星之晶碎裂之危）",
+        "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+        "seq": 423
+      },
+      {
+        "value": "高——命魂灵物更多更强且主动挑衅",
+        "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+        "seq": 423,
+        "note": "内部相较外围"
       }
     ],
     "守护": [
@@ -106,6 +136,11 @@
         "value": "极大，飞行三日神识不见边际",
         "docId": "plot.xianni-ch441-zhuquezi-madness-1",
         "seq": 418
+      },
+      {
+        "value": "内部极大",
+        "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+        "seq": 423
       }
     ],
     "特产": [
@@ -123,6 +158,16 @@
         "value": "命魂",
         "docId": "plot.xianni-ch441-zhuquezi-madness-1",
         "seq": 418
+      },
+      {
+        "value": "命魂灵物",
+        "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+        "seq": 423
+      },
+      {
+        "value": "命魂凝聚的灵物",
+        "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+        "seq": 423
       }
     ]
   },
@@ -182,7 +227,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
-    "plot.xianni-ch441-zhuquezi-madness-1"
+    "plot.xianni-ch441-zhuquezi-madness-1",
+    "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits"
   ],
-  "updatedAt": "2026-08-17T20:52:59.204Z"
+  "updatedAt": "2026-08-21T01:55:03.912Z"
 }

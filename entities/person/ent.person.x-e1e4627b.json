@@ -10,10 +10,11 @@
   "attributes": {
     "种族": "仙遗族",
     "称号": "一祖",
-    "身份": "十一叶术咒师、仙遗族一祖、唯一的十一叶术咒师、仙遗族长老",
+    "身份": "十一叶术咒师、仙遗族一祖、唯一的十一叶术咒师、仙遗族长老、仙遗族一祖",
     "外貌": "虚幻之影、全身几乎透明的虚影凝实而成、相貌极为平凡，没有任何出奇之处",
     "阵营": "仙遗族",
-    "标志特征": "眉心绽开十一叶植物，可脱落叶片攻防"
+    "标志特征": "肉身在仙遗族底层，可符文之神出窍",
+    "存殁": "存活"
   },
   "observations": {
     "种族": [
@@ -45,6 +46,11 @@
         "value": "仙遗族长老",
         "docId": "plot.xianni-ch441-zhuquezi-madness-1",
         "seq": 418
+      },
+      {
+        "value": "仙遗族一祖",
+        "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+        "seq": 423
       }
     ],
     "外貌": [
@@ -76,6 +82,18 @@
         "value": "眉心绽开十一叶植物，可脱落叶片攻防",
         "docId": "plot.xianni-ch441-zhuquezi-madness-1",
         "seq": 418
+      },
+      {
+        "value": "肉身在仙遗族底层，可符文之神出窍",
+        "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+        "seq": 423
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+        "seq": 423
       }
     ]
   },
@@ -113,16 +131,23 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+      "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
       "dated": false,
-      "seq": 418
+      "seq": 423
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+      "dated": false,
+      "seq": 423
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch427-ancestral-spirit-tree",
-    "plot.xianni-ch441-zhuquezi-madness-1"
+    "plot.xianni-ch441-zhuquezi-madness-1",
+    "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits"
   ],
-  "updatedAt": "2026-08-17T20:52:59.133Z"
+  "updatedAt": "2026-08-21T01:55:03.885Z"
 }

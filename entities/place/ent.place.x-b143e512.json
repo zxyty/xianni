@@ -8,7 +8,7 @@
   "summary": "据慕容云所述，乾风与仙遗族八叶术咒师由此进入朱雀墓内部；位置偏僻且极为危险，已有三名八叶术咒师与两名婴变老怪死于此处而不见敌踪。",
   "attributes": {
     "上级区域": "朱雀墓",
-    "类型": "祭坛/入口",
+    "类型": "传送祭坛",
     "方位": "朱雀墓内偏僻之处",
     "危险度": "极高，疑有强大存在坐镇"
   },
@@ -25,6 +25,11 @@
         "value": "祭坛/入口",
         "docId": "plot.xianni-ch441-zhuquezi-madness-1",
         "seq": 418
+      },
+      {
+        "value": "传送祭坛",
+        "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+        "seq": 423
       }
     ],
     "方位": [
@@ -52,9 +57,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+      "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
       "dated": false,
-      "seq": 418
+      "seq": 423
     },
     "方位": {
       "asOf": null,
@@ -72,7 +77,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch441-zhuquezi-madness-1"
+    "plot.xianni-ch441-zhuquezi-madness-1",
+    "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits"
   ],
-  "updatedAt": "2026-08-17T20:52:59.211Z"
+  "updatedAt": "2026-08-21T01:55:03.891Z"
 }

@@ -12,8 +12,9 @@
     "身份": "仙遗族先祖",
     "存殁": "死亡",
     "死因": "自弃生命，以肉身破除封印祖灵树的五剑封印",
-    "称号": "虚祖",
-    "阵营": "仙遗族"
+    "称号": "仙遗族有史以来第三个十二叶术咒师",
+    "阵营": "仙遗族",
+    "小阶段": "十二叶术咒师"
   },
   "observations": {
     "种族": [
@@ -49,6 +50,11 @@
         "value": "虚祖",
         "docId": "plot.xianni-ch427-ancestral-spirit-tree",
         "seq": 405
+      },
+      {
+        "value": "仙遗族有史以来第三个十二叶术咒师",
+        "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+        "seq": 423
       }
     ],
     "阵营": [
@@ -56,6 +62,13 @@
         "value": "仙遗族",
         "docId": "plot.xianni-ch427-ancestral-spirit-tree",
         "seq": 405
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "十二叶术咒师",
+        "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+        "seq": 423
       }
     ]
   },
@@ -87,22 +100,29 @@
     },
     "称号": {
       "asOf": null,
-      "docId": "plot.xianni-ch427-ancestral-spirit-tree",
+      "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
       "dated": false,
-      "seq": 405
+      "seq": 423
     },
     "阵营": {
       "asOf": null,
       "docId": "plot.xianni-ch427-ancestral-spirit-tree",
       "dated": false,
       "seq": 405
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+      "dated": false,
+      "seq": 423
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
-    "plot.xianni-ch427-ancestral-spirit-tree"
+    "plot.xianni-ch427-ancestral-spirit-tree",
+    "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits"
   ],
-  "updatedAt": "2026-08-17T19:16:48.698Z"
+  "updatedAt": "2026-08-21T01:55:03.886Z"
 }
