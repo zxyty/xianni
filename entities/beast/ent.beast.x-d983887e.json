@@ -3,14 +3,17 @@
   "type": "beast",
   "name": "麒麟兽",
   "aliases": [
-    "青光麒麟兽"
+    "青光麒麟兽",
+    "凌天候的麒麟兽",
+    "眉心麒麟"
   ],
   "summary": "背负麒麟城的巨大灵兽。",
   "attributes": {
-    "外形": "巨大、麒麟形、化作一道青光",
+    "外形": "巨大、麒麟形、化作一道青光、巨大神武、四蹄踏地、硕大头颅",
     "栖息地": "承载麒麟城",
-    "主人": "大罗剑宗青衫老者、大罗剑宗骑麒麟兽老者、钻入裂缝的老者",
-    "能力": "虚无中载人飞行"
+    "主人": "大罗剑宗青衫老者、大罗剑宗骑麒麟兽老者、钻入裂缝的老者、剑尊凌天候",
+    "能力": "虚无中载人飞行",
+    "种族": "麒麟"
   },
   "observations": {
     "外形": [
@@ -28,6 +31,11 @@
         "value": "化作一道青光",
         "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
         "seq": 304
+      },
+      {
+        "value": "巨大神武、四蹄踏地、硕大头颅",
+        "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+        "seq": 472
       }
     ],
     "栖息地": [
@@ -52,6 +60,11 @@
         "value": "钻入裂缝的老者",
         "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
         "seq": 304
+      },
+      {
+        "value": "剑尊凌天候",
+        "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+        "seq": 472
       }
     ],
     "能力": [
@@ -64,6 +77,13 @@
         "value": "虚无中载人飞行",
         "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
         "seq": 304
+      }
+    ],
+    "种族": [
+      {
+        "value": "麒麟",
+        "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+        "seq": 472
       }
     ]
   },
@@ -92,6 +112,12 @@
       "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
       "dated": false,
       "seq": 304
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+      "dated": false,
+      "seq": 472
     }
   },
   "contested": false,
@@ -99,7 +125,8 @@
   "docs": [
     "plot.renfa-ch204-ancient-mirror-forbidden-banner",
     "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
-    "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void"
+    "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
+    "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao"
   ],
-  "updatedAt": "2026-08-08T05:44:31.246Z"
+  "updatedAt": "2026-08-21T08:54:41.245Z"
 }

@@ -7,15 +7,19 @@
     "仿九转炼仙诀禁法",
     "无名禁法",
     "九转炼仙决",
-    "Jiu Zhuan Lian Xian Jue"
+    "Jiu Zhuan Lian Xian Jue",
+    "九转炼仙",
+    "金仙之力之术",
+    "Nine Turns Immortal Refining Art"
   ],
   "summary": "下品下术；四师姐所赠为天运子仿制而成的无名禁法，仙力在体内螺旋九转后释出，炼出金仙之力。",
   "attributes": {
     "品阶": "下品下术",
-    "出处": "天运子从下品下术《九转炼仙诀》模仿而出",
-    "效果": "仙力体内螺旋九转，蕴化越久离体威力越大、所炼为金仙之力、仿制版九转仅相当于真仙术三转威力、每转提升仙力尖锐之感（二转扩大十倍）、三转后仙力由白色变为散发金芒的金色、炼出的金色仙力与寻常白色仙力等级森严、互不相容",
-    "修炼条件": "需退凡骨、具备仙体（婴变后仙力凝聚）、耗时逐转递增：二转三炷香、三转近一个时辰",
-    "外显异象": "三转时金仙之力体内狂走，五脏六腑揪心刺痛"
+    "出处": "赵欣梦传授王林",
+    "效果": "仙力体内螺旋九转，蕴化越久离体威力越大、所炼为金仙之力、仿制版九转仅相当于真仙术三转威力、每转提升仙力尖锐之感（二转扩大十倍）、三转后仙力由白色变为散发金芒的金色、炼出的金色仙力与寻常白色仙力等级森严、互不相容、凝出金色漩涡，按转数叠加威力，可逆向旋转、凝聚金仙之力并逐转叠加威力、极限为九转、可凝为漩涡攻击并被高手接管转向",
+    "修炼条件": "需退凡骨、具备仙体（婴变后仙力凝聚）、耗时逐转递增：二转三炷香、三转近一个时辰、需以体内仙力逐道注入催转，转数越高越难操控、伴随剧痛",
+    "外显异象": "浩瀚金光呼啸而出，右手如金铸散发金芒",
+    "五行属性": "金"
   },
   "observations": {
     "品阶": [
@@ -31,6 +35,11 @@
         "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
         "seq": 467,
         "note": "四师姐转赠的仿制版"
+      },
+      {
+        "value": "赵欣梦传授王林",
+        "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+        "seq": 472
       }
     ],
     "效果": [
@@ -63,6 +72,26 @@
         "value": "炼出的金色仙力与寻常白色仙力等级森严、互不相容",
         "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
         "seq": 467
+      },
+      {
+        "value": "凝出金色漩涡，按转数叠加威力，可逆向旋转",
+        "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+        "seq": 472
+      },
+      {
+        "value": "凝聚金仙之力并逐转叠加威力",
+        "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+        "seq": 472
+      },
+      {
+        "value": "极限为九转",
+        "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+        "seq": 472
+      },
+      {
+        "value": "可凝为漩涡攻击并被高手接管转向",
+        "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+        "seq": 472
       }
     ],
     "修炼条件": [
@@ -75,6 +104,11 @@
         "value": "耗时逐转递增：二转三炷香、三转近一个时辰",
         "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
         "seq": 467
+      },
+      {
+        "value": "需以体内仙力逐道注入催转，转数越高越难操控、伴随剧痛",
+        "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+        "seq": 472
       }
     ],
     "外显异象": [
@@ -82,6 +116,18 @@
         "value": "三转时金仙之力体内狂走，五脏六腑揪心刺痛",
         "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
         "seq": 467
+      },
+      {
+        "value": "浩瀚金光呼啸而出，右手如金铸散发金芒",
+        "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+        "seq": 472
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "金",
+        "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+        "seq": 472
       }
     ]
   },
@@ -95,10 +141,9 @@
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+      "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
       "dated": false,
-      "seq": 467,
-      "note": "四师姐转赠的仿制版"
+      "seq": 472
     },
     "效果": {
       "asOf": null,
@@ -114,15 +159,22 @@
     },
     "外显异象": {
       "asOf": null,
-      "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+      "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
       "dated": false,
-      "seq": 467
+      "seq": 472
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+      "dated": false,
+      "seq": 472
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch467-471-ziqi-donglai-chuangyan"
+    "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+    "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao"
   ],
-  "updatedAt": "2026-08-21T08:12:23.101Z"
+  "updatedAt": "2026-08-21T08:54:41.283Z"
 }

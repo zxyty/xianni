@@ -4,12 +4,13 @@
   "name": "远古时期",
   "aliases": [
     "远古",
-    "远古纪元"
+    "远古纪元",
+    "古神年代"
   ],
   "summary": "古神存续的纪元，新生古神由成年古神以一滴鲜血相助进入星球中心；涂司身亡后浩劫爆发，仙界不存、古仙断绝、古神灭亡。",
   "attributes": {
-    "特征": "古神辈出、成年古神以一滴鲜血助新生古神入星球中心",
-    "重大事件": "涂司身亡、仙界不存、古仙断绝、古神灭亡、天地异变、修真联盟出现"
+    "特征": "古神辈出、成年古神以一滴鲜血助新生古神入星球中心、仙界为修士圣地、古神以星痕貂为宠物",
+    "重大事件": "涂司身亡、仙界不存、古仙断绝、古神灭亡、天地异变、修真联盟出现、仙界不在，修仙之说失去意义，转为修真"
   },
   "observations": {
     "特征": [
@@ -22,6 +23,16 @@
         "value": "成年古神以一滴鲜血助新生古神入星球中心",
         "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
         "seq": 268
+      },
+      {
+        "value": "仙界为修士圣地",
+        "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+        "seq": 472
+      },
+      {
+        "value": "古神以星痕貂为宠物",
+        "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+        "seq": 472
       }
     ],
     "重大事件": [
@@ -39,6 +50,11 @@
         "value": "天地异变、修真联盟出现",
         "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
         "seq": 268
+      },
+      {
+        "value": "仙界不在，修仙之说失去意义，转为修真",
+        "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+        "seq": 472
       }
     ]
   },
@@ -60,7 +76,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu"
+    "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
+    "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao"
   ],
-  "updatedAt": "2026-08-02T13:31:26.089Z"
+  "updatedAt": "2026-08-21T08:54:41.216Z"
 }

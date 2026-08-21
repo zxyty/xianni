@@ -4,13 +4,16 @@
   "name": "碎涅之境",
   "aliases": [
     "虚实二意",
-    "虚实二意境界"
+    "虚实二意境界",
+    "虚意",
+    "实意",
+    "虚实二境"
   ],
   "summary": "传说中问鼎之上的境界，虚实二意、碎涅之境；开篇神秘人被推测达此修为。",
   "attributes": {
-    "上一境": "问鼎",
-    "阶序": "问鼎之上",
-    "突破关键": "超越之后为传说中的那一步"
+    "上一境": "问鼎期",
+    "阶序": "修道第二步",
+    "突破关键": "把「修」字上的神完整过度至「道」字"
   },
   "observations": {
     "上一境": [
@@ -18,6 +21,11 @@
         "value": "问鼎",
         "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
         "seq": 452
+      },
+      {
+        "value": "问鼎期",
+        "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+        "seq": 472
       }
     ],
     "阶序": [
@@ -25,6 +33,11 @@
         "value": "问鼎之上",
         "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
         "seq": 452
+      },
+      {
+        "value": "修道第二步",
+        "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+        "seq": 472
       }
     ],
     "突破关键": [
@@ -32,6 +45,11 @@
         "value": "超越之后为传说中的那一步",
         "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
         "seq": 462
+      },
+      {
+        "value": "把「修」字上的神完整过度至「道」字",
+        "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+        "seq": 472
       }
     ]
   },
@@ -39,28 +57,29 @@
   "attrProvenance": {
     "上一境": {
       "asOf": null,
-      "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+      "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
       "dated": false,
-      "seq": 452
+      "seq": 472
     },
     "阶序": {
       "asOf": null,
-      "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+      "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
       "dated": false,
-      "seq": 452
+      "seq": 472
     },
     "突破关键": {
       "asOf": null,
-      "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
+      "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
       "dated": false,
-      "seq": 462
+      "seq": 472
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
-    "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin"
+    "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
+    "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao"
   ],
-  "updatedAt": "2026-08-21T07:52:46.220Z"
+  "updatedAt": "2026-08-21T08:54:41.206Z"
 }

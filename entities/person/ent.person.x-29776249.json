@@ -4,11 +4,15 @@
   "name": "鲲鹏子",
   "aliases": [
     "黄宗鲲鹏子",
-    "黄系第一人"
+    "黄系第一人",
+    "黄系二师弟",
+    "Kun Peng Zi"
   ],
   "summary": "黄系一脉第一人，获天运子转赐孙长老所赠的中上品仙器金色飞剑。",
   "attributes": {
-    "身份": "天运宗黄宗第一人"
+    "身份": "天运宗黄系天运七子",
+    "称号": "天运七子",
+    "阵营": "天运宗黄系"
   },
   "observations": {
     "身份": [
@@ -16,6 +20,25 @@
         "value": "天运宗黄宗第一人",
         "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
         "seq": 467
+      },
+      {
+        "value": "天运宗黄系天运七子",
+        "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+        "seq": 472
+      }
+    ],
+    "称号": [
+      {
+        "value": "天运七子",
+        "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+        "seq": 472
+      }
+    ],
+    "阵营": [
+      {
+        "value": "天运宗黄系",
+        "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+        "seq": 472
       }
     ]
   },
@@ -23,15 +46,28 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+      "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
       "dated": false,
-      "seq": 467
+      "seq": 472
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+      "dated": false,
+      "seq": 472
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+      "dated": false,
+      "seq": 472
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch467-471-ziqi-donglai-chuangyan"
+    "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+    "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao"
   ],
-  "updatedAt": "2026-08-21T08:12:23.115Z"
+  "updatedAt": "2026-08-21T08:54:41.257Z"
 }

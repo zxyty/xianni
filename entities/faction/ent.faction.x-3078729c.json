@@ -11,10 +11,11 @@
   "summary": "三千年前发现宫殿群仙气阵眼的宗门，以丰碑镇压隐藏、每逢仙界之门开启派人固定采气；门中有「大罗剑宗七剑」等顶级灵器。",
   "attributes": {
     "镇派之宝": "大罗剑宗七剑、洗灵葫、仙麒兽灵、麒麟仙兽（护山之兽）",
-    "理念": "以不设禁制的隐蔽手法秘密独占仙气产地、剑修、弟子须完成收取仙界之气结晶的最低要求、剑道",
+    "理念": "以不设禁制的隐蔽手法秘密独占仙气产地、剑修、弟子须完成收取仙界之气结晶的最低要求、剑道、剑修，弟子皆黑衣负古朴剑鞘、脚踏飞剑",
     "据点": "天运星",
     "所属界面": "天运星",
-    "等级": "与天运宗同级"
+    "等级": "天运星第二",
+    "掌门": "剑尊凌天候"
   },
   "observations": {
     "镇派之宝": [
@@ -60,6 +61,11 @@
         "value": "剑道",
         "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
         "seq": 299
+      },
+      {
+        "value": "剑修，弟子皆黑衣负古朴剑鞘、脚踏飞剑",
+        "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+        "seq": 472
       }
     ],
     "据点": [
@@ -92,6 +98,19 @@
         "value": "与天运宗同级",
         "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
         "seq": 304
+      },
+      {
+        "value": "天运星第二",
+        "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+        "seq": 472,
+        "note": "仅次于天运宗"
+      }
+    ],
+    "掌门": [
+      {
+        "value": "剑尊凌天候",
+        "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+        "seq": 472
       }
     ]
   },
@@ -124,9 +143,16 @@
     },
     "等级": {
       "asOf": null,
-      "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
+      "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
       "dated": false,
-      "seq": 304
+      "seq": 472,
+      "note": "仅次于天运宗"
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+      "dated": false,
+      "seq": 472
     }
   },
   "contested": false,
@@ -138,7 +164,8 @@
     "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
     "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
     "plot.xianni-ch327-return-to-zhuque-star",
-    "plot.xianni-ch312-316-yinju-xinjia"
+    "plot.xianni-ch312-316-yinju-xinjia",
+    "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao"
   ],
-  "updatedAt": "2026-08-08T08:56:45.881Z"
+  "updatedAt": "2026-08-21T08:54:41.234Z"
 }
