@@ -5,15 +5,22 @@
   "aliases": [
     "玄渊派少宗许云山",
     "许兄",
-    "许云山道友"
+    "许云山道友",
+    "孙云山",
+    "玄渊派少宗",
+    "少宗许云山"
   ],
   "summary": "地星玄渊派少宗，婴变中期修为，手持翠玉宝扇，提前得知王林来地星后主动率长老迎接结交，并送其至灵岳国。",
   "attributes": {
     "小阶段": "婴变中期",
-    "身份": "玄渊派少宗、与王林相识的修士",
-    "性格": "善谈、谈笑风趣、长于结交",
+    "身份": "玄渊派少宗、与王林相识的修士、玄渊派子弟（其父可对宗派下令，家世显赫）",
+    "性格": "善谈、谈笑风趣、长于结交、平静、无半点不耐、机敏圆滑、七窍玲珑，对妹妹管束严厉、温和",
     "本命法宝": "翠玉宝扇",
-    "存殁": "在世"
+    "存殁": "在世",
+    "性别": "男",
+    "标志特征": "手持翠玉扇子敲打手心、由三名玄渊派长老随行护卫",
+    "阵营": "玄渊派",
+    "外貌": "手持扇子、一脸尘色"
   },
   "observations": {
     "小阶段": [
@@ -33,6 +40,11 @@
         "value": "与王林相识的修士",
         "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
         "seq": 481
+      },
+      {
+        "value": "玄渊派子弟（其父可对宗派下令，家世显赫）",
+        "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+        "seq": 491
       }
     ],
     "性格": [
@@ -40,6 +52,21 @@
         "value": "善谈、谈笑风趣、长于结交",
         "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
         "seq": 481
+      },
+      {
+        "value": "平静、无半点不耐",
+        "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+        "seq": 491
+      },
+      {
+        "value": "机敏圆滑、七窍玲珑，对妹妹管束严厉",
+        "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+        "seq": 491
+      },
+      {
+        "value": "温和",
+        "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+        "seq": 491
       }
     ],
     "本命法宝": [
@@ -55,6 +82,45 @@
         "value": "在世",
         "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
         "seq": 481
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+        "seq": 491
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "手持翠玉扇子敲打手心",
+        "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+        "seq": 491
+      },
+      {
+        "value": "由三名玄渊派长老随行护卫",
+        "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+        "seq": 491
+      }
+    ],
+    "阵营": [
+      {
+        "value": "玄渊派",
+        "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+        "seq": 491
+      }
+    ],
+    "外貌": [
+      {
+        "value": "手持扇子",
+        "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+        "seq": 491
+      },
+      {
+        "value": "一脸尘色",
+        "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+        "seq": 491,
+        "note": "紧急赶路所致"
       }
     ]
   },
@@ -90,12 +156,37 @@
       "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
       "dated": false,
       "seq": 481
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+      "dated": false,
+      "seq": 491
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+      "dated": false,
+      "seq": 491
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+      "dated": false,
+      "seq": 491
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+      "dated": false,
+      "seq": 491
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star"
+    "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
+    "plot.xianni-ch514-target-donghai-yaoling-gate"
   ],
-  "updatedAt": "2026-08-21T10:21:43.872Z"
+  "updatedAt": "2026-08-21T12:01:42.207Z"
 }

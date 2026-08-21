@@ -4,11 +4,15 @@
   "name": "剑魂",
   "aliases": [
     "那道剑魂",
-    "Sword Soul"
+    "Sword Soul",
+    "追杀剑尊的剑魂",
+    "崩溃剑魂",
+    "仙界女君之剑魂",
+    "那剑魂"
   ],
   "summary": "二百年前不知从何处出现的一道剑魂，与剑尊凌天候一战后失去踪影、结果未知，是王林追查的线索。",
   "attributes": {
-    "能力": "可与剑尊一战",
+    "能力": "威力惊人，纠缠不休，凌天候无法驱使",
     "栖息地": "下落不明"
   },
   "observations": {
@@ -17,6 +21,11 @@
         "value": "可与剑尊一战",
         "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
         "seq": 486
+      },
+      {
+        "value": "威力惊人，纠缠不休，凌天候无法驱使",
+        "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+        "seq": 491
       }
     ],
     "栖息地": [
@@ -31,9 +40,9 @@
   "attrProvenance": {
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+      "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
       "dated": false,
-      "seq": 486
+      "seq": 491
     },
     "栖息地": {
       "asOf": null,
@@ -45,7 +54,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit"
+    "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+    "plot.xianni-ch514-target-donghai-yaoling-gate"
   ],
-  "updatedAt": "2026-08-21T10:41:37.824Z"
+  "updatedAt": "2026-08-21T12:01:42.174Z"
 }

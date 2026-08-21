@@ -5,16 +5,19 @@
   "aliases": [
     "矮个老者",
     "大罗剑宗剑阁长老（矮）",
-    "矮个长老"
+    "矮个长老",
+    "矮个修士"
   ],
   "summary": "大罗剑宗剑阁长老，婴变初期，逼问千琴耀金果数目，听闻百粒后双眼爆出精光。",
   "attributes": {
     "性别": "男",
-    "身份": "大罗剑宗长老",
+    "身份": "大罗剑宗修士",
     "外貌": "白发苍苍，黑衣，背古朴宝剑，身形矮",
     "小阶段": "婴变初期",
     "阵营": "大罗剑宗",
-    "性格": "阴沉果决、重抢先机"
+    "性格": "贪婪、惜命、记仇",
+    "存殁": "死亡",
+    "死因": "被王林以许立国所化弯刀穿透头颅击杀；靠三分神识之术复活后逃遁，被王林预埋的两道灰气冲入体内绞灭生机"
   },
   "observations": {
     "性别": [
@@ -34,6 +37,11 @@
         "value": "大罗剑宗长老",
         "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
         "seq": 486
+      },
+      {
+        "value": "大罗剑宗修士",
+        "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+        "seq": 491
       }
     ],
     "外貌": [
@@ -62,6 +70,26 @@
         "value": "阴沉果决、重抢先机",
         "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
         "seq": 486
+      },
+      {
+        "value": "贪婪、惜命、记仇",
+        "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+        "seq": 491
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+        "seq": 491
+      }
+    ],
+    "死因": [
+      {
+        "value": "被王林以许立国所化弯刀穿透头颅击杀；靠三分神识之术复活后逃遁，被王林预埋的两道灰气冲入体内绞灭生机",
+        "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+        "seq": 491,
+        "note": "第514章；三分神识之术三次寿命已在此章用尽最后一次"
       }
     ]
   },
@@ -75,9 +103,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+      "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
       "dated": false,
-      "seq": 486
+      "seq": 491
     },
     "外貌": {
       "asOf": null,
@@ -99,16 +127,30 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+      "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
       "dated": false,
-      "seq": 486
+      "seq": 491
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+      "dated": false,
+      "seq": 491
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+      "dated": false,
+      "seq": 491,
+      "note": "第514章；三分神识之术三次寿命已在此章用尽最后一次"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
-    "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit"
+    "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+    "plot.xianni-ch514-target-donghai-yaoling-gate"
   ],
-  "updatedAt": "2026-08-21T10:41:37.775Z"
+  "updatedAt": "2026-08-21T12:01:42.075Z"
 }

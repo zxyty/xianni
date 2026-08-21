@@ -119,3 +119,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-21T09:14:22.865Z** `ingest` plot.xianni-ch500-battle-against-wending-huangquan-finger — 仙逆 第500章 战问鼎！——射神车解第一封印，王林施展黄泉指战陈涛 · kind=plot asOf=2026-08-21 entities=68 relations=125 src=00477-00480.md
 - **2026-08-21T10:21:44.023Z** `ingest` plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star — 仙逆 第481-485章：灰衣天运子传杀戮仙诀、紫芒戒与下山使者之路 · kind=plot asOf=2026-08-21 entities=96 relations=176 src=00481-00485.md
 - **2026-08-21T10:41:37.956Z** `ingest` plot.xianni-ch486-490-jiuli-worm-yaojin-fruit — 仙逆 第486-490章：地魔北界耀金果与九黎虫（大罗剑宗以人为药引） · kind=plot asOf=2026-08-21 entities=72 relations=126 src=00486-00490.md
+- **2026-08-21T12:01:42.328Z** `ingest` plot.xianni-ch514-target-donghai-yaoling-gate — 第514章 目标，东海——妖灵之门情报与矮个老者两度身死 · kind=plot asOf=2026-08-21 entities=79 relations=166 src=00491-00495.md

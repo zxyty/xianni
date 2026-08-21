@@ -12,20 +12,23 @@
     "仙界凌天候",
     "凌夭候",
     "Sword Venerable Ling Tianhou",
-    "剑尊大人"
+    "剑尊大人",
+    "剑尊前辈",
+    "凌天老友"
   ],
   "summary": "大罗剑宗老怪级人物，麒麟仙兽之主；其护山之兽破空临场，众修惊呼其亲自到来。",
   "attributes": {
     "称号": "剑尊",
-    "身份": "大罗剑宗尊者、大罗剑宗剑尊、大罗剑宗宗主、祝寿观战者",
+    "身份": "大罗剑宗尊者、大罗剑宗剑尊、大罗剑宗宗主、祝寿观战者、封印周佚者、天运子昔日至交好友、大罗剑宗之首、大罗剑宗之主级强者、东海妖灵之门开启者",
     "阵营": "大罗剑宗",
     "出身地": "仙界",
     "外貌": "青衣、须眉苍白无风自动、身形消瘦、青衫老者、青衣消瘦老者，须眉苍白无风自动",
     "本命法宝": "背后四把虚幻之剑",
-    "标志特征": "胸前被白衣女子留下黑色仙指印、上半身一度破碎、胸前黑色仙指印（受击后扩大一倍有余）、剑气极为可怕，两道即可凝魂化肉身、背后四把虚幻剑影，每闪必有奔雷炸响、脚踏血色蛇形宝剑、眉心红光可化麒麟兽",
+    "标志特征": "胸前被白衣女子留下黑色仙指印、上半身一度破碎、胸前黑色仙指印（受击后扩大一倍有余）、剑气极为可怕，两道即可凝魂化肉身、背后四把虚幻剑影，每闪必有奔雷炸响、脚踏血色蛇形宝剑、眉心红光可化麒麟兽、身后四道剑光虚影、乘麒麟兽、驾万千剑气",
     "存殁": "在世、存活",
     "小阶段": "超过问鼎",
-    "性格": "桀骜、阴沉、孤高不屑、桀骜"
+    "性格": "桀骜、阴沉、孤高不屑、桀骜、对第三次东海之行闭口不谈、霸道、阴沉、不妥协、从容、洞察人心",
+    "性别": "男"
   },
   "observations": {
     "称号": [
@@ -55,6 +58,26 @@
         "value": "祝寿观战者",
         "docId": "plot.xianni-ch500-battle-against-wending-huangquan-finger",
         "seq": 477
+      },
+      {
+        "value": "封印周佚者",
+        "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+        "seq": 491
+      },
+      {
+        "value": "天运子昔日至交好友",
+        "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+        "seq": 491
+      },
+      {
+        "value": "大罗剑宗之首",
+        "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+        "seq": 491
+      },
+      {
+        "value": "大罗剑宗之主级强者、东海妖灵之门开启者",
+        "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+        "seq": 491
       }
     ],
     "阵营": [
@@ -73,7 +96,8 @@
       {
         "value": "仙界",
         "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
-        "seq": 363
+        "seq": 363,
+        "note": "多年前自仙界归来"
       }
     ],
     "外貌": [
@@ -136,6 +160,11 @@
         "value": "眉心红光可化麒麟兽",
         "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
         "seq": 472
+      },
+      {
+        "value": "身后四道剑光虚影、乘麒麟兽、驾万千剑气",
+        "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+        "seq": 491
       }
     ],
     "存殁": [
@@ -173,6 +202,28 @@
         "value": "桀骜",
         "docId": "plot.xianni-ch500-battle-against-wending-huangquan-finger",
         "seq": 477
+      },
+      {
+        "value": "对第三次东海之行闭口不谈",
+        "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+        "seq": 491
+      },
+      {
+        "value": "霸道、阴沉、不妥协",
+        "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+        "seq": 491
+      },
+      {
+        "value": "从容、洞察人心",
+        "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+        "seq": 491
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+        "seq": 491
       }
     ]
   },
@@ -200,7 +251,8 @@
       "asOf": null,
       "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
       "dated": false,
-      "seq": 363
+      "seq": 363,
+      "note": "多年前自仙界归来"
     },
     "外貌": {
       "asOf": null,
@@ -238,6 +290,12 @@
       "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
       "dated": false,
       "seq": 472
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+      "dated": false,
+      "seq": 491
     }
   },
   "contested": false,
@@ -251,7 +309,8 @@
     "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
     "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
     "plot.xianni-ch500-battle-against-wending-huangquan-finger",
-    "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit"
+    "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+    "plot.xianni-ch514-target-donghai-yaoling-gate"
   ],
-  "updatedAt": "2026-08-21T10:41:37.810Z"
+  "updatedAt": "2026-08-21T12:01:42.205Z"
 }

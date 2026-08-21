@@ -16,10 +16,10 @@
     "所属界面": "地星",
     "方位": "地魔界北部",
     "上级区域": "地星北界",
-    "类型": "禁地/魔域、妖兽历练之地、凶险界域、凶险界域/秘境、界域/地域",
-    "危险度": "煞气扑面、阴寒森森、外围妖兽不足以威胁王林，深处有更强妖兽、极高（深处有荒兽；此次另有诡异变故）、极高——瞬移危险极大",
+    "类型": "禁地/魔域、妖兽历练之地、凶险界域、凶险界域/秘境、界域/地域、凶兽荒野/禁区",
+    "危险度": "煞气扑面、阴寒森森、外围妖兽不足以威胁王林，深处有更强妖兽、极高（深处有荒兽；此次另有诡异变故）、极高——瞬移危险极大、三十万里内有相当于问鼎修士的荒兽",
     "守护": "血红大字巨碑镇于入口",
-    "特产": "耀金果、九黎虫、苦影兽"
+    "特产": "耀金果、九黎虫、苦影兽、凶兽、荒兽"
   },
   "observations": {
     "所属界面": [
@@ -73,6 +73,11 @@
         "value": "界域/地域",
         "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
         "seq": 486
+      },
+      {
+        "value": "凶兽荒野/禁区",
+        "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+        "seq": 491
       }
     ],
     "危险度": [
@@ -95,6 +100,11 @@
         "value": "极高——瞬移危险极大",
         "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
         "seq": 486
+      },
+      {
+        "value": "三十万里内有相当于问鼎修士的荒兽",
+        "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+        "seq": 491
       }
     ],
     "守护": [
@@ -119,6 +129,11 @@
         "value": "苦影兽",
         "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
         "seq": 486
+      },
+      {
+        "value": "凶兽、荒兽",
+        "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+        "seq": 491
       }
     ]
   },
@@ -171,7 +186,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
-    "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit"
+    "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+    "plot.xianni-ch514-target-donghai-yaoling-gate"
   ],
-  "updatedAt": "2026-08-21T10:41:37.848Z"
+  "updatedAt": "2026-08-21T12:01:42.110Z"
 }
