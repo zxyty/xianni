@@ -10,7 +10,9 @@
     "品阶": "伪仙宝",
     "持有者": "乾风",
     "外形": "火红色锥子",
-    "来历": "朱雀子的法宝"
+    "来历": "朱雀子的法宝",
+    "能力": "射出红色闪电化作长虹",
+    "五行属性": "火/雷（红色闪电）"
   },
   "observations": {
     "品阶": [
@@ -41,6 +43,20 @@
         "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
         "seq": 397
       }
+    ],
+    "能力": [
+      {
+        "value": "射出红色闪电化作长虹",
+        "docId": "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
+        "seq": 438
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "火/雷（红色闪电）",
+        "docId": "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
+        "seq": 438
+      }
     ]
   },
   "firstSeq": 397,
@@ -69,12 +85,25 @@
       "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
       "dated": false,
       "seq": 397
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
+      "dated": false,
+      "seq": 438
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
+      "dated": false,
+      "seq": 438
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419"
+    "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+    "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang"
   ],
-  "updatedAt": "2026-08-17T17:15:30.426Z"
+  "updatedAt": "2026-08-21T03:36:29.573Z"
 }

@@ -4,13 +4,15 @@
   "name": "四把剑鞘",
   "aliases": [
     "同源剑鞘",
-    "第四把剑鞘"
+    "第四把剑鞘",
+    "王林的四把剑鞘"
   ],
   "summary": "王林原有三把剑鞘，从邱四平储物袋中又得第四把；四把外形一模一样，仅花纹有所不同。",
   "attributes": {
     "持有者": "王林",
     "来历": "三把为王林旧藏，第四把出自邱四平储物袋",
-    "外形": "形制相同、花纹各异"
+    "外形": "四把一模一样的剑鞘",
+    "能力": "剑芒出鞘三尺余、剑意滔天、东南西北四方剑气合击"
   },
   "observations": {
     "持有者": [
@@ -32,6 +34,28 @@
         "value": "形制相同、花纹各异",
         "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
         "seq": 336
+      },
+      {
+        "value": "四把一模一样的剑鞘",
+        "docId": "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
+        "seq": 438
+      }
+    ],
+    "能力": [
+      {
+        "value": "剑芒出鞘三尺余",
+        "docId": "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
+        "seq": 438
+      },
+      {
+        "value": "剑意滔天",
+        "docId": "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
+        "seq": 438
+      },
+      {
+        "value": "东南西北四方剑气合击",
+        "docId": "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
+        "seq": 438
       }
     ]
   },
@@ -51,15 +75,22 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+      "docId": "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
       "dated": false,
-      "seq": 336
+      "seq": 438
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
+      "dated": false,
+      "seq": 438
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch356-departure-immortal-remains-void-rift"
+    "plot.xianni-ch356-departure-immortal-remains-void-rift",
+    "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang"
   ],
-  "updatedAt": "2026-08-08T14:28:21.307Z"
+  "updatedAt": "2026-08-21T03:36:29.595Z"
 }

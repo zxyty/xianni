@@ -4,11 +4,14 @@
   "name": "带着面具之人",
   "aliases": [
     "面具人",
-    "戴面具的修士"
+    "戴面具的修士",
+    "灵山之上脸戴面具之人",
+    "紫黑之芒凝成的人形"
   ],
   "summary": "唯一对岛屿宫殿毫无兴趣者，低头凝望脚下金色海洋、眼露思索，似察觉海洋本身另有玄机。",
   "attributes": {
-    "外貌": "戴面具"
+    "外貌": "脸戴面具",
+    "标志特征": "由紫黑之芒凝聚成形"
   },
   "observations": {
     "外貌": [
@@ -17,6 +20,19 @@
         "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
         "seq": 433,
         "note": "面容不可见"
+      },
+      {
+        "value": "脸戴面具",
+        "docId": "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
+        "seq": 438,
+        "note": "先前在灵山之上时"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "由紫黑之芒凝聚成形",
+        "docId": "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
+        "seq": 438
       }
     ]
   },
@@ -24,16 +40,23 @@
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+      "docId": "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
       "dated": false,
-      "seq": 433,
-      "note": "面容不可见"
+      "seq": 438,
+      "note": "先前在灵山之上时"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
+      "dated": false,
+      "seq": 438
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch433-437-hongdie-yanhong-yunquezi"
+    "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+    "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang"
   ],
-  "updatedAt": "2026-08-21T03:06:39.505Z"
+  "updatedAt": "2026-08-21T03:36:29.544Z"
 }
