@@ -5,15 +5,17 @@
   "aliases": [
     "蓝衫青年",
     "被废仙基的青年",
-    "白薇下人"
+    "白薇下人",
+    "蓝衫修士"
   ],
   "summary": "白薇的仆从，原半只脚踏入婴变、正吸收仙玉，出言拦阻并喝令王林「滚」，被王林一拳击毁仙基退回化神期。",
   "attributes": {
     "性别": "男",
     "小阶段": "化神期",
-    "身份": "白薇仆从",
-    "外貌": "身穿蓝衫",
-    "存殁": "在世（重创）"
+    "身份": "非大罗剑宗弟子",
+    "外貌": "蓝衫",
+    "存殁": "在世（重创）",
+    "性格": "嗜血、见血腥而陶醉"
   },
   "observations": {
     "性别": [
@@ -36,6 +38,12 @@
         "value": "白薇仆从",
         "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
         "seq": 452
+      },
+      {
+        "value": "非大罗剑宗弟子",
+        "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+        "seq": 486,
+        "note": "来历未明"
       }
     ],
     "外貌": [
@@ -43,6 +51,11 @@
         "value": "身穿蓝衫",
         "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
         "seq": 452
+      },
+      {
+        "value": "蓝衫",
+        "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+        "seq": 486
       }
     ],
     "存殁": [
@@ -50,6 +63,13 @@
         "value": "在世（重创）",
         "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
         "seq": 452
+      }
+    ],
+    "性格": [
+      {
+        "value": "嗜血、见血腥而陶醉",
+        "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+        "seq": 486
       }
     ]
   },
@@ -70,27 +90,35 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+      "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
       "dated": false,
-      "seq": 452
+      "seq": 486,
+      "note": "来历未明"
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+      "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
       "dated": false,
-      "seq": 452
+      "seq": 486
     },
     "存殁": {
       "asOf": null,
       "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
       "dated": false,
       "seq": 452
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+      "dated": false,
+      "seq": 486
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye"
+    "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+    "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit"
   ],
-  "updatedAt": "2026-08-21T06:06:51.774Z"
+  "updatedAt": "2026-08-21T10:41:37.781Z"
 }

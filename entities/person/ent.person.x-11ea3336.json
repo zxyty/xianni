@@ -4,14 +4,22 @@
   "name": "千琴",
   "aliases": [
     "千琴姑娘",
-    "白衣纱裙女子"
+    "白衣纱裙女子",
+    "干琴",
+    "带路女子",
+    "千琴女子",
+    "处子千琴",
+    "Qianqin"
   ],
   "summary": "小门派女修，与郭邢佚原为好友，请其助阵夺耀金果反被出卖；被大罗剑宗逼迫带路，仅得许诺一粒耀金果，心怀刻骨仇恨。",
   "attributes": {
     "性别": "女",
     "外貌": "白色纱裙，水蓝软烟罗蝴蝶结，薇灵簪，肌肤晶莹如玉，未施粉黛",
-    "性格": "刚烈隐忍，顾全师门",
-    "身份": "小门派女修、耀金果发现方"
+    "性格": "由愤愤转为可怕的平静，继而阴晴不定",
+    "身份": "带路者",
+    "存殁": "存活",
+    "标志特征": "处子之身（被石方视作疗伤之资）",
+    "结局": "获赠一须金灵根后探望同门、化长虹离去"
   },
   "observations": {
     "性别": [
@@ -33,6 +41,12 @@
         "value": "刚烈隐忍，顾全师门",
         "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
         "seq": 481
+      },
+      {
+        "value": "由愤愤转为可怕的平静，继而阴晴不定",
+        "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+        "seq": 486,
+        "note": "本片段当时"
       }
     ],
     "身份": [
@@ -40,6 +54,33 @@
         "value": "小门派女修、耀金果发现方",
         "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
         "seq": 481
+      },
+      {
+        "value": "带路者",
+        "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+        "seq": 486
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+        "seq": 486
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "处子之身（被石方视作疗伤之资）",
+        "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+        "seq": 486
+      }
+    ],
+    "结局": [
+      {
+        "value": "获赠一须金灵根后探望同门、化长虹离去",
+        "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+        "seq": 486,
+        "note": "第513章"
       }
     ]
   },
@@ -59,21 +100,42 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
+      "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
       "dated": false,
-      "seq": 481
+      "seq": 486,
+      "note": "本片段当时"
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
+      "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
       "dated": false,
-      "seq": 481
+      "seq": 486
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+      "dated": false,
+      "seq": 486
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+      "dated": false,
+      "seq": 486
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+      "dated": false,
+      "seq": 486,
+      "note": "第513章"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star"
+    "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
+    "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit"
   ],
-  "updatedAt": "2026-08-21T10:21:43.906Z"
+  "updatedAt": "2026-08-21T10:41:37.833Z"
 }

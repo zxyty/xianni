@@ -4,12 +4,15 @@
   "name": "白衣持扇男子",
   "aliases": [
     "手持扇子的白衣男子",
-    "白衣男子"
+    "白衣男子",
+    "山谷内白衣男子"
   ],
   "summary": "章末在仙界东部边缘碎片追杀黑云修士的修士，面色阴沉、脸带冷笑，合扇一指便召出虚空大手擒人。",
   "attributes": {
-    "外貌": "白衣，手持扇子，面色阴沉、脸带冷笑",
-    "标志特征": "合扇一指召出虚空大手"
+    "外貌": "白衣",
+    "标志特征": "合扇一指召出虚空大手",
+    "存殁": "死亡",
+    "死因": "被大罗剑宗红网封印、体内九黎虫所困而死"
   },
   "observations": {
     "外貌": [
@@ -17,6 +20,11 @@
         "value": "白衣，手持扇子，面色阴沉、脸带冷笑",
         "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
         "seq": 285
+      },
+      {
+        "value": "白衣",
+        "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+        "seq": 486
       }
     ],
     "标志特征": [
@@ -25,27 +33,54 @@
         "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
         "seq": 285
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+        "seq": 486
+      }
+    ],
+    "死因": [
+      {
+        "value": "被大罗剑宗红网封印、体内九黎虫所困而死",
+        "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+        "seq": 486
+      }
     ]
   },
   "firstSeq": 285,
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+      "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
       "dated": false,
-      "seq": 285
+      "seq": 486
     },
     "标志特征": {
       "asOf": null,
       "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
       "dated": false,
       "seq": 285
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+      "dated": false,
+      "seq": 486
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+      "dated": false,
+      "seq": 486
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal"
+    "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+    "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit"
   ],
-  "updatedAt": "2026-08-02T15:12:09.111Z"
+  "updatedAt": "2026-08-21T10:41:37.783Z"
 }

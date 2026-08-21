@@ -5,17 +5,21 @@
   "aliases": [
     "地魔北界石碑",
     "地魔北界禁区",
-    "地魔北界石碑之地"
+    "地魔北界石碑之地",
+    "地魔北界外围",
+    "地魔北界深处",
+    "地魔北界秘境",
+    "地魔北界山脉"
   ],
   "summary": "地星北界入口以血红大字刻于高耸巨碑之上的名号；碑后大地泛蓝芒幽光，山脉连绵、落叶腐烂、死寂阴寒。",
   "attributes": {
     "所属界面": "地星",
-    "方位": "地星北界入口",
+    "方位": "地魔界北部",
     "上级区域": "地星北界",
-    "类型": "禁地/魔域、妖兽历练之地",
-    "危险度": "煞气扑面、阴寒森森、外围妖兽不足以威胁王林，深处有更强妖兽",
+    "类型": "禁地/魔域、妖兽历练之地、凶险界域、凶险界域/秘境、界域/地域",
+    "危险度": "煞气扑面、阴寒森森、外围妖兽不足以威胁王林，深处有更强妖兽、极高（深处有荒兽；此次另有诡异变故）、极高——瞬移危险极大",
     "守护": "血红大字巨碑镇于入口",
-    "特产": "耀金果"
+    "特产": "耀金果、九黎虫、苦影兽"
   },
   "observations": {
     "所属界面": [
@@ -30,6 +34,11 @@
         "value": "地星北界入口",
         "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
         "seq": 481
+      },
+      {
+        "value": "地魔界北部",
+        "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+        "seq": 486
       }
     ],
     "上级区域": [
@@ -49,6 +58,21 @@
         "value": "妖兽历练之地",
         "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
         "seq": 481
+      },
+      {
+        "value": "凶险界域",
+        "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+        "seq": 486
+      },
+      {
+        "value": "凶险界域/秘境",
+        "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+        "seq": 486
+      },
+      {
+        "value": "界域/地域",
+        "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+        "seq": 486
       }
     ],
     "危险度": [
@@ -61,6 +85,16 @@
         "value": "外围妖兽不足以威胁王林，深处有更强妖兽",
         "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
         "seq": 481
+      },
+      {
+        "value": "极高（深处有荒兽；此次另有诡异变故）",
+        "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+        "seq": 486
+      },
+      {
+        "value": "极高——瞬移危险极大",
+        "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+        "seq": 486
       }
     ],
     "守护": [
@@ -75,6 +109,16 @@
         "value": "耀金果",
         "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
         "seq": 481
+      },
+      {
+        "value": "九黎虫",
+        "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+        "seq": 486
+      },
+      {
+        "value": "苦影兽",
+        "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+        "seq": 486
       }
     ]
   },
@@ -88,9 +132,9 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
+      "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
       "dated": false,
-      "seq": 481
+      "seq": 486
     },
     "上级区域": {
       "asOf": null,
@@ -126,7 +170,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star"
+    "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
+    "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit"
   ],
-  "updatedAt": "2026-08-21T10:21:43.901Z"
+  "updatedAt": "2026-08-21T10:41:37.848Z"
 }

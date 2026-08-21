@@ -4,13 +4,17 @@
   "name": "剑阁矮个长老",
   "aliases": [
     "矮个老者",
-    "大罗剑宗剑阁长老（矮）"
+    "大罗剑宗剑阁长老（矮）",
+    "矮个长老"
   ],
   "summary": "大罗剑宗剑阁长老，婴变初期，逼问千琴耀金果数目，听闻百粒后双眼爆出精光。",
   "attributes": {
     "性别": "男",
-    "身份": "大罗剑宗剑阁长老",
-    "外貌": "白发苍苍，黑衣，背古朴宝剑，身形矮"
+    "身份": "大罗剑宗长老",
+    "外貌": "白发苍苍，黑衣，背古朴宝剑，身形矮",
+    "小阶段": "婴变初期",
+    "阵营": "大罗剑宗",
+    "性格": "阴沉果决、重抢先机"
   },
   "observations": {
     "性别": [
@@ -25,6 +29,11 @@
         "value": "大罗剑宗剑阁长老",
         "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
         "seq": 481
+      },
+      {
+        "value": "大罗剑宗长老",
+        "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+        "seq": 486
       }
     ],
     "外貌": [
@@ -32,6 +41,27 @@
         "value": "白发苍苍，黑衣，背古朴宝剑，身形矮",
         "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
         "seq": 481
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "婴变初期",
+        "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+        "seq": 486
+      }
+    ],
+    "阵营": [
+      {
+        "value": "大罗剑宗",
+        "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+        "seq": 486
+      }
+    ],
+    "性格": [
+      {
+        "value": "阴沉果决、重抢先机",
+        "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+        "seq": 486
       }
     ]
   },
@@ -45,21 +75,40 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
+      "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
       "dated": false,
-      "seq": 481
+      "seq": 486
     },
     "外貌": {
       "asOf": null,
       "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
       "dated": false,
       "seq": 481
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+      "dated": false,
+      "seq": 486
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+      "dated": false,
+      "seq": 486
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+      "dated": false,
+      "seq": 486
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star"
+    "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
+    "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit"
   ],
-  "updatedAt": "2026-08-21T10:21:43.909Z"
+  "updatedAt": "2026-08-21T10:41:37.775Z"
 }

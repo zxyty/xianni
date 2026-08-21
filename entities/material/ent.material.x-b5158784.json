@@ -3,14 +3,17 @@
   "type": "material",
   "name": "耀金果",
   "aliases": [
-    "耀金果实"
+    "耀金果实",
+    "百粒耀金果",
+    "Yaojin Fruit",
+    "金色花朵果实"
   ],
   "summary": "地魔北界内的天才地宝，此处约有百粒，由强大妖兽守护；千琴师门牺牲数位长辈才探知，大罗剑宗化神师叔对其「有大用」。",
   "attributes": {
-    "类型": "天才地宝/灵果",
-    "稀有度": "极高，百粒为大数目",
-    "产地": "地魔北界",
-    "用途": "大罗剑宗化神师叔称有大用（具体未明）"
+    "类型": "天才地宝/灵果、炼器材料、灵果",
+    "稀有度": "极稀有，成熟必引灵兽守护",
+    "产地": "地魔北界、无固定之地，天下随处可生、地魔北界山谷",
+    "用途": "大罗剑宗化神师叔称有大用（具体未明）、增强金属性法宝威力、凋落后融入根部形成金灵根"
   },
   "observations": {
     "类型": [
@@ -18,6 +21,16 @@
         "value": "天才地宝/灵果",
         "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
         "seq": 481
+      },
+      {
+        "value": "炼器材料",
+        "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+        "seq": 486
+      },
+      {
+        "value": "灵果",
+        "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+        "seq": 486
       }
     ],
     "稀有度": [
@@ -25,6 +38,11 @@
         "value": "极高，百粒为大数目",
         "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
         "seq": 481
+      },
+      {
+        "value": "极稀有，成熟必引灵兽守护",
+        "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+        "seq": 486
       }
     ],
     "产地": [
@@ -32,6 +50,16 @@
         "value": "地魔北界",
         "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
         "seq": 481
+      },
+      {
+        "value": "无固定之地，天下随处可生",
+        "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+        "seq": 486
+      },
+      {
+        "value": "地魔北界山谷",
+        "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+        "seq": 486
       }
     ],
     "用途": [
@@ -39,6 +67,16 @@
         "value": "大罗剑宗化神师叔称有大用（具体未明）",
         "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
         "seq": 481
+      },
+      {
+        "value": "增强金属性法宝威力",
+        "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+        "seq": 486
+      },
+      {
+        "value": "凋落后融入根部形成金灵根",
+        "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+        "seq": 486
       }
     ]
   },
@@ -52,9 +90,9 @@
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
+      "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
       "dated": false,
-      "seq": 481
+      "seq": 486
     },
     "产地": {
       "asOf": null,
@@ -72,7 +110,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star"
+    "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
+    "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit"
   ],
-  "updatedAt": "2026-08-21T10:21:43.912Z"
+  "updatedAt": "2026-08-21T10:41:37.795Z"
 }
