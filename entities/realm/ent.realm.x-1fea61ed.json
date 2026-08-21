@@ -10,15 +10,19 @@
     "婴变老怪",
     "婴变大圆满",
     "婴变修士",
-    "婴变大道"
+    "婴变大道",
+    "婴变后期圆满",
+    "婴变期中期",
+    "婴变中期巅峰",
+    "婴变期后期"
   ],
   "summary": "高阶境界，四级修真国出婴变期人物即升五级修真国；持有者达此境方能放出困于天逆珠子的司徒南。",
   "attributes": {
-    "上一境": "问鼎",
+    "上一境": "化神期、元婴期、结丹、化神、问鼎期、问鼎、婴变初期、婴变中期",
     "阶序": "元婴之上、化神之下、化神之上、高于化神，低于问鼎",
     "突破关键": "元婴变异增大、玄天魔欲诀炼化全部六道先天欲念、星罗盘使用最低标准、正常修炼，或以灌顶大礼速成（有重大代价）、王林视其为唤醒司徒南、谋取修星之晶的前提、道心圆满无瑕、吸收仙界之气、领悟意境、吸纳仙气、化神后期为基础、大量仙玉助力、化神后期大圆满服用轮回果，成功率+30%以上、体内灵力全部转化为仙气、仙气、远超化神层次的意境体悟、仙力、感悟天道、与婴变修士战斗以获体悟、仙力的凝聚程度、达此境方可突破罡风踏入星空（另需星罗盘）、生死意境大圆满并突破化神、仙玉充足（仙气浓）、意境圆满、对天道的领悟、海量仙玉之仙力；灵力或被挤出溃散，或被炼化至与仙力同质、仙玉足够、大量仙玉、大量仙玉（炼仙化气、凝骨褪肉之后）、灵力与仙力的交融、以仙力凝化身体骨肉经脉、消耗大量仙玉、驾驭仙力、以仙玉去凡根、夺胎换骨成仙体、元神凝实后与肉身归一、元神归体、掌握仙力、可进入朱雀墓的唯一境界、凝练仙体（需大量仙玉）、洗去凡根（炼仙返元或凝练之法）",
-    "下一境": "问鼎",
-    "小阶段": "婴变初期、婴变中期、婴变后期、初期、婴变初期/中期/后期、婴变期、大圆满、中期、后期、第一步肉身凝化 / 第二步元神凝练",
+    "下一境": "婴变后期",
+    "小阶段": "婴变初期、婴变中期、婴变后期、初期、婴变初期/中期/后期、婴变期、大圆满、中期、后期、第一步肉身凝化 / 第二步元神凝练、婴变后期圆满、巅峰",
     "寿元": "一百年",
     "突破征兆": "体内出现一丝仙力运转、体内蕴含奇异之力（婴变标志）、头发无风自动，仙气浓郁无数倍，磅礴威压外溢、肉身透明如水晶、散发诱人异香引妖兽厉魂、元神被震出体外三尺、婴变后期仙力贯穿全身、直达血脉、身体彻底由仙力凝聚，生出玄妙感应"
   },
@@ -53,6 +57,16 @@
         "value": "问鼎",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 392
+      },
+      {
+        "value": "婴变初期",
+        "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+        "seq": 447
+      },
+      {
+        "value": "婴变中期",
+        "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+        "seq": 447
       }
     ],
     "阶序": [
@@ -290,6 +304,11 @@
         "value": "问鼎",
         "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
         "seq": 387
+      },
+      {
+        "value": "婴变后期",
+        "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+        "seq": 447
       }
     ],
     "小阶段": [
@@ -342,6 +361,16 @@
         "value": "第一步肉身凝化 / 第二步元神凝练",
         "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
         "seq": 397
+      },
+      {
+        "value": "婴变后期圆满",
+        "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+        "seq": 447
+      },
+      {
+        "value": "巅峰",
+        "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+        "seq": 447
       }
     ],
     "寿元": [
@@ -399,9 +428,9 @@
   "attrProvenance": {
     "上一境": {
       "asOf": null,
-      "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+      "docId": "plot.xianni-ch43-48-lishan-pilidan-shenshi",
       "dated": false,
-      "seq": 392
+      "seq": 43
     },
     "阶序": {
       "asOf": null,
@@ -417,9 +446,9 @@
     },
     "下一境": {
       "asOf": null,
-      "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+      "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
       "dated": false,
-      "seq": 387
+      "seq": 447
     },
     "小阶段": {
       "asOf": null,
@@ -493,7 +522,8 @@
     "plot.xianni-ch451-waner-mingpo-tianyun-star",
     "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
     "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
-    "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo"
+    "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
+    "plot.xianni-ch447-451-farewell-zhuque-star"
   ],
-  "updatedAt": "2026-08-21T04:01:24.619Z"
+  "updatedAt": "2026-08-21T05:47:06.545Z"
 }

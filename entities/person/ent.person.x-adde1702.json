@@ -3,13 +3,15 @@
   "type": "person",
   "name": "仙遗族少族长",
   "aliases": [
-    "少族长"
+    "少族长",
+    "金色符文青年"
   ],
   "summary": "仙遗族少族长，与乾风共同签订三级/四级修真国相关协约。",
   "attributes": {
     "种族": "仙遗族",
     "身份": "仙遗族少族长",
-    "阵营": "仙遗族"
+    "阵营": "仙遗族",
+    "外貌": "全身上下闪烁金色符文的青年"
   },
   "observations": {
     "种族": [
@@ -37,6 +39,13 @@
         "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
         "seq": 392
       }
+    ],
+    "外貌": [
+      {
+        "value": "全身上下闪烁金色符文的青年",
+        "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+        "seq": 447
+      }
     ]
   },
   "firstSeq": 387,
@@ -58,6 +67,12 @@
       "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
       "dated": false,
       "seq": 392
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+      "dated": false,
+      "seq": 447
     }
   },
   "contested": false,
@@ -66,7 +81,8 @@
     "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
     "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
     "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
-    "plot.xianni-ch441-zhuquezi-madness-1"
+    "plot.xianni-ch441-zhuquezi-madness-1",
+    "plot.xianni-ch447-451-farewell-zhuque-star"
   ],
-  "updatedAt": "2026-08-17T20:52:59.134Z"
+  "updatedAt": "2026-08-21T05:47:06.512Z"
 }

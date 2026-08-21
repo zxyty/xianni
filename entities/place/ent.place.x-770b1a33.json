@@ -9,17 +9,22 @@
     "王家庄园",
     "王氏祖宅",
     "昔日的祖宅",
-    "王家老宅"
+    "王家老宅",
+    "赵国王家祖宅",
+    "王家祠堂",
+    "祖宅祠堂",
+    "祠堂"
   ],
   "summary": "王家在小镇上最奢华的祖宅，被启明古镜映照为目标、藤化元穿镜降临之处。",
   "attributes": {
-    "所属势力": "王氏一族",
-    "类型": "宅邸、凡人家族祖宅、家族祖宅/庄园、凡俗宅邸",
+    "所属势力": "王家",
+    "类型": "宅邸、凡人家族祖宅、家族祖宅/庄园、凡俗宅邸、祖宅/祠堂、家族祖宅/祠堂",
     "所属界面": "赵国凡人界",
     "上级区域": "赵国京都",
     "守护": "被认为是唯一安全之地、世代效忠王家的花甲老人",
     "规模": "庄园不大，深处一间普通房舍",
-    "特产": "先祖遗留玉石"
+    "特产": "先祖遗留玉石",
+    "方位": "赵国恒岳派山下"
   },
   "observations": {
     "所属势力": [
@@ -32,6 +37,11 @@
         "value": "王氏一族",
         "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
         "seq": 387
+      },
+      {
+        "value": "王家",
+        "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+        "seq": 447
       }
     ],
     "类型": [
@@ -54,6 +64,16 @@
         "value": "凡俗宅邸",
         "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
         "seq": 392
+      },
+      {
+        "value": "祖宅/祠堂",
+        "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+        "seq": 447
+      },
+      {
+        "value": "家族祖宅/祠堂",
+        "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+        "seq": 447
       }
     ],
     "所属界面": [
@@ -105,15 +125,22 @@
         "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
         "seq": 387
       }
+    ],
+    "方位": [
+      {
+        "value": "赵国恒岳派山下",
+        "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+        "seq": 447
+      }
     ]
   },
   "firstSeq": 85,
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+      "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
       "dated": false,
-      "seq": 387
+      "seq": 447
     },
     "类型": {
       "asOf": null,
@@ -150,6 +177,12 @@
       "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
       "dated": false,
       "seq": 387
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+      "dated": false,
+      "seq": 447
     }
   },
   "contested": false,
@@ -157,7 +190,8 @@
   "docs": [
     "plot.xianni-ch85-89-jilian-jianqiao",
     "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
-    "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics"
+    "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+    "plot.xianni-ch447-451-farewell-zhuque-star"
   ],
-  "updatedAt": "2026-08-17T16:51:11.818Z"
+  "updatedAt": "2026-08-21T05:47:06.456Z"
 }

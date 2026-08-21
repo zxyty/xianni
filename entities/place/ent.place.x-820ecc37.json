@@ -9,14 +9,16 @@
     "月星修真星",
     "Yue Xing",
     "月星星球",
-    "月星果物产地"
+    "月星果物产地",
+    "朱雀星外的月星"
   ],
   "summary": "山脉众多、丛林较少、渺无人烟的星辰，无凡人，修真者亦极罕见；王林带周茹在此捕获小紫。",
   "attributes": {
     "类型": "星辰、星辰／界面、修真星、星球",
     "特产": "月星果物",
     "危险度": "无凡人、修真者罕见、战后方圆万里龟裂坍塌为巨坑、有十多丈长凶兽出没的野外山脉",
-    "方位": "距朱雀星不远"
+    "方位": "朱雀星外",
+    "规模": "略小"
   },
   "observations": {
     "类型": [
@@ -75,6 +77,18 @@
         "value": "距朱雀星不远",
         "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
         "seq": 387
+      },
+      {
+        "value": "朱雀星外",
+        "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+        "seq": 447
+      }
+    ],
+    "规模": [
+      {
+        "value": "略小",
+        "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+        "seq": 447
       }
     ]
   },
@@ -100,9 +114,15 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+      "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
       "dated": false,
-      "seq": 387
+      "seq": 447
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+      "dated": false,
+      "seq": 447
     }
   },
   "contested": false,
@@ -110,7 +130,8 @@
   "docs": [
     "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
     "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
-    "plot.xianni-ch427-ancestral-spirit-tree"
+    "plot.xianni-ch427-ancestral-spirit-tree",
+    "plot.xianni-ch447-451-farewell-zhuque-star"
   ],
-  "updatedAt": "2026-08-17T19:16:48.662Z"
+  "updatedAt": "2026-08-21T05:47:06.542Z"
 }

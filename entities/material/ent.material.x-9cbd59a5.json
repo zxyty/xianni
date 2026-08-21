@@ -4,11 +4,12 @@
   "name": "上品灵石",
   "aliases": [
     "上品灵石货币",
-    "一块上品灵石"
+    "一块上品灵石",
+    "上品灵石报酬"
   ],
   "summary": "孟驼子储物袋中存有逾三十万块，全为上品。",
   "attributes": {
-    "类型": "灵石",
+    "类型": "灵石货币",
     "用途": "修炼、冲击筑基中期"
   },
   "observations": {
@@ -17,6 +18,11 @@
         "value": "灵石",
         "docId": "plot.xianni-ch176-duoqu-fengqun",
         "seq": 161
+      },
+      {
+        "value": "灵石货币",
+        "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+        "seq": 447
       }
     ],
     "用途": [
@@ -36,9 +42,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch176-duoqu-fengqun",
+      "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
       "dated": false,
-      "seq": 161
+      "seq": 447
     },
     "用途": {
       "asOf": null,
@@ -52,7 +58,8 @@
   "docs": [
     "plot.xianni-ch176-duoqu-fengqun",
     "plot.xianni-ch312-316-yinju-xinjia",
-    "plot.xianni-ch356-departure-immortal-remains-void-rift"
+    "plot.xianni-ch356-departure-immortal-remains-void-rift",
+    "plot.xianni-ch447-451-farewell-zhuque-star"
   ],
-  "updatedAt": "2026-08-08T14:28:21.295Z"
+  "updatedAt": "2026-08-21T05:47:06.566Z"
 }

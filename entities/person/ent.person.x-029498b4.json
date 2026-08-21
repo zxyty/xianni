@@ -4,13 +4,17 @@
   "name": "周茹的母亲",
   "aliases": [
     "周母",
-    "妇人"
+    "妇人",
+    "茹她娘"
   ],
   "summary": "周茹之母，因女儿年幼本想作罢，被道袍老者一弹震退数步，眼睁睁看女儿被抱走，欲追被丈夫拦下。",
   "attributes": {
     "性别": "女",
     "身份": "凡人村民",
-    "出身地": "周家村"
+    "出身地": "周家村",
+    "种族": "凡人",
+    "外貌": "略显苍老、身影佝偻",
+    "存殁": "在世"
   },
   "observations": {
     "性别": [
@@ -33,6 +37,27 @@
         "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
         "seq": 336
       }
+    ],
+    "种族": [
+      {
+        "value": "凡人",
+        "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+        "seq": 447
+      }
+    ],
+    "外貌": [
+      {
+        "value": "略显苍老、身影佝偻",
+        "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+        "seq": 447
+      }
+    ],
+    "存殁": [
+      {
+        "value": "在世",
+        "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+        "seq": 447
+      }
     ]
   },
   "firstSeq": 336,
@@ -54,12 +79,31 @@
       "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
       "dated": false,
       "seq": 336
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+      "dated": false,
+      "seq": 447
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+      "dated": false,
+      "seq": 447
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+      "dated": false,
+      "seq": 447
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch356-departure-immortal-remains-void-rift"
+    "plot.xianni-ch356-departure-immortal-remains-void-rift",
+    "plot.xianni-ch447-451-farewell-zhuque-star"
   ],
-  "updatedAt": "2026-08-08T14:28:21.293Z"
+  "updatedAt": "2026-08-21T05:47:06.424Z"
 }

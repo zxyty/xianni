@@ -3,13 +3,16 @@
   "type": "beast",
   "name": "射神车魂兽",
   "aliases": [
-    "仙兽之魂"
+    "仙兽之魂",
+    "不屈魂兽",
+    "射神车内的魂兽",
+    "巨兽"
   ],
   "summary": "射神车上的兽魂，被铁链锁缚，蓄满黑芒后暴涨脱链，体内充斥毁灭之力，可瞬间穿透敌体咬出残魂吞噬；凶性极大，会反噬操控者。",
   "attributes": {
     "主人": "司徒南",
-    "能力": "毁灭之力穿体夺魂、吞噬残魂、速度快至化神修士无法看清、包裹射神车疾驰",
-    "栖息地": "射神车内",
+    "能力": "毁灭之力穿体夺魂、吞噬残魂、速度快至化神修士无法看清、包裹射神车疾驰、咆哮洞彻九天、传遍朱雀星、带不屈战魂之意",
+    "栖息地": "射神车内 / 驱兽圈内",
     "外形": "魂状仙兽"
   },
   "observations": {
@@ -46,6 +49,16 @@
         "value": "包裹射神车疾驰",
         "docId": "plot.xianni-ch441-zhuquezi-madness-1",
         "seq": 418
+      },
+      {
+        "value": "咆哮洞彻九天、传遍朱雀星",
+        "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+        "seq": 447
+      },
+      {
+        "value": "带不屈战魂之意",
+        "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+        "seq": 447
       }
     ],
     "栖息地": [
@@ -53,6 +66,11 @@
         "value": "射神车内",
         "docId": "plot.xianni-ch347-xianyi-zu",
         "seq": 327
+      },
+      {
+        "value": "射神车内 / 驱兽圈内",
+        "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+        "seq": 447
       }
     ],
     "外形": [
@@ -79,9 +97,9 @@
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.xianni-ch347-xianyi-zu",
+      "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
       "dated": false,
-      "seq": 327
+      "seq": 447
     },
     "外形": {
       "asOf": null,
@@ -94,7 +112,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch347-xianyi-zu",
-    "plot.xianni-ch441-zhuquezi-madness-1"
+    "plot.xianni-ch441-zhuquezi-madness-1",
+    "plot.xianni-ch447-451-farewell-zhuque-star"
   ],
-  "updatedAt": "2026-08-17T20:52:59.092Z"
+  "updatedAt": "2026-08-21T05:47:06.490Z"
 }

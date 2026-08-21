@@ -9,7 +9,8 @@
   "attributes": {
     "所属界面": "朱雀星",
     "上级区域": "楚国",
-    "类型": "城池"
+    "类型": "城池",
+    "所属势力": "楚国"
   },
   "observations": {
     "所属界面": [
@@ -32,6 +33,13 @@
         "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
         "seq": 443
       }
+    ],
+    "所属势力": [
+      {
+        "value": "楚国",
+        "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+        "seq": 447
+      }
     ]
   },
   "firstSeq": 443,
@@ -53,12 +61,19 @@
       "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
       "dated": false,
       "seq": 443
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+      "dated": false,
+      "seq": 447
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo"
+    "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
+    "plot.xianni-ch447-451-farewell-zhuque-star"
   ],
-  "updatedAt": "2026-08-21T04:01:24.624Z"
+  "updatedAt": "2026-08-21T05:47:06.439Z"
 }
