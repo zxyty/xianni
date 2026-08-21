@@ -20,7 +20,8 @@
     "乾风修士",
     "乾风弟子",
     "乾道友",
-    "前锋（原文误字）"
+    "前锋（原文误字）",
+    "乾家之人"
   ],
   "summary": "朱雀国红芒老者（老祖）门下弟子，于炎潭修炼，气息邪异却带亲切感；奉命前往密室吞噬红蝶的灵力与绝情意境，自视为“朱雀”称号的必然人选之一。",
   "attributes": {
@@ -30,12 +31,14 @@
     "标志特征": "气息邪异却令人莫名亲切；出炎潭时周身散出白气；能身形消散无踪、从虚无中走出，随手一指即压垮红蝶法术、微笑露洁白牙齿、邪异一笑、双目充满邪气、肉身被王林评为不错的夺舍之选、与乾平海相同的灵根、看向紫芯时闪过一丝痛苦挣扎、胸口浮现奇异图案",
     "性格": "邪异、讥诮、自负、邪异、嘲讽、从容、邪异狠戾、目中露邪芒、邪异、狠辣、掌控欲强、高傲邪异、温文尔雅、心存道义、行事正直、表面温和有礼，内里阴狠贪婪、恼羞善忍、阴沉、算计、贪婪、心思阴沉、目露寒芒、谨慎冷血、机敏、焦躁易怒、心机深沉、嚣张、谨慎防备、机智多谋、贪婪、深藏傲意、狰狞暴躁、心怀不轨、不惜拼命、对朱雀子恨意滔天",
     "阵营": "朱雀国·红芒老者一脉、朱雀国、朱雀星、朱雀国/朱雀子一系、王林之敌、与柳眉同行、朱雀子一方",
-    "存殁": "本章未确认死亡",
+    "存殁": "死亡",
     "小阶段": "婴变中期",
     "称号": "双骄之一",
     "本命法宝": "红色锥子、朱雀锥",
     "出身地": "乾家",
-    "寿元": "被大量夺走"
+    "寿元": "被大量夺走",
+    "死因": "被王林以「以命换命」之命魂之术夺命，自爆未成即亡、被王林所杀",
+    "结局": "尸体坠入海底，储物袋被王林夺走，所吞五行四灵散去三道、修为被炉鼎紫芯逆夺、修为被紫芯获得"
   },
   "observations": {
     "性别": [
@@ -393,6 +396,11 @@
         "docId": "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
         "seq": 438,
         "note": "被剑芒锁定，结果未叙"
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
+        "seq": 443
       }
     ],
     "小阶段": [
@@ -436,6 +444,36 @@
         "seq": 438,
         "note": "施展青木后脸如死灰、身子颤抖"
       }
+    ],
+    "死因": [
+      {
+        "value": "被王林以「以命换命」之命魂之术夺命，自爆未成即亡",
+        "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
+        "seq": 443
+      },
+      {
+        "value": "被王林所杀",
+        "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
+        "seq": 443
+      }
+    ],
+    "结局": [
+      {
+        "value": "尸体坠入海底，储物袋被王林夺走，所吞五行四灵散去三道",
+        "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
+        "seq": 443
+      },
+      {
+        "value": "修为被炉鼎紫芯逆夺",
+        "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
+        "seq": 443,
+        "note": "第468章回溯提及"
+      },
+      {
+        "value": "修为被紫芯获得",
+        "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
+        "seq": 443
+      }
     ]
   },
   "firstSeq": 346,
@@ -478,10 +516,9 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
+      "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
       "dated": false,
-      "seq": 438,
-      "note": "被剑芒锁定，结果未叙"
+      "seq": 443
     },
     "小阶段": {
       "asOf": null,
@@ -514,6 +551,18 @@
       "dated": false,
       "seq": 438,
       "note": "施展青木后脸如死灰、身子颤抖"
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
+      "dated": false,
+      "seq": 443
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
+      "dated": false,
+      "seq": 443
     }
   },
   "contested": false,
@@ -532,7 +581,8 @@
     "plot.xianni-ch441-zhuquezi-madness-1",
     "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
     "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
-    "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang"
+    "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
+    "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo"
   ],
-  "updatedAt": "2026-08-21T03:36:29.588Z"
+  "updatedAt": "2026-08-21T04:01:24.563Z"
 }

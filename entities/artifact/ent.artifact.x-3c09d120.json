@@ -5,14 +5,19 @@
   "aliases": [
     "弯刀",
     "中心盆地弯刀",
-    "命魂弯刀"
+    "命魂弯刀",
+    "许立国的弯刀",
+    "朱雀墓弯刀",
+    "深蓝雾气弯刀"
   ],
   "summary": "本章末自中心盆地深蓝色雾气中缓缓飞出的弯刀，能令无数剑魂为之膜拜，绝非等闲；由众多命魂组成，离开此地即崩散。",
   "attributes": {
-    "外形": "弯月形之刀",
-    "来历": "自中心盆地深蓝色雾气中飞出",
-    "能力": "令无数剑魂膜拜臣服、散发近似仙界之物的气息",
-    "禁制": "由众多命魂组成，离开此地失去修星之晶力量禁锢即崩溃散开"
+    "外形": "弯刀",
+    "来历": "朱雀墓，由某不明强者命魂组成",
+    "能力": "令无数剑魂膜拜臣服、散发近似仙界之物的气息、自主护主（护许立国）、王林无法留下神识",
+    "禁制": "由众多命魂组成，离开此地失去修星之晶力量禁锢即崩溃散开",
+    "持有者": "许立国",
+    "器灵": "深蓝色雾气童子（面貌不清）"
   },
   "observations": {
     "外形": [
@@ -20,6 +25,11 @@
         "value": "弯月形之刀",
         "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
         "seq": 428
+      },
+      {
+        "value": "弯刀",
+        "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
+        "seq": 443
       }
     ],
     "来历": [
@@ -27,6 +37,11 @@
         "value": "自中心盆地深蓝色雾气中飞出",
         "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
         "seq": 428
+      },
+      {
+        "value": "朱雀墓，由某不明强者命魂组成",
+        "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
+        "seq": 443
       }
     ],
     "能力": [
@@ -39,6 +54,16 @@
         "value": "散发近似仙界之物的气息",
         "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
         "seq": 428
+      },
+      {
+        "value": "自主护主（护许立国）",
+        "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
+        "seq": 443
+      },
+      {
+        "value": "王林无法留下神识",
+        "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
+        "seq": 443
       }
     ],
     "禁制": [
@@ -47,21 +72,35 @@
         "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
         "seq": 428
       }
+    ],
+    "持有者": [
+      {
+        "value": "许立国",
+        "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
+        "seq": 443
+      }
+    ],
+    "器灵": [
+      {
+        "value": "深蓝色雾气童子（面貌不清）",
+        "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
+        "seq": 443
+      }
     ]
   },
   "firstSeq": 428,
   "attrProvenance": {
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+      "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
       "dated": false,
-      "seq": 428
+      "seq": 443
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+      "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
       "dated": false,
-      "seq": 428
+      "seq": 443
     },
     "能力": {
       "asOf": null,
@@ -74,12 +113,25 @@
       "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
       "dated": false,
       "seq": 428
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
+      "dated": false,
+      "seq": 443
+    },
+    "器灵": {
+      "asOf": null,
+      "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
+      "dated": false,
+      "seq": 443
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch451-waner-mingpo-tianyun-star"
+    "plot.xianni-ch451-waner-mingpo-tianyun-star",
+    "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo"
   ],
-  "updatedAt": "2026-08-21T02:32:55.663Z"
+  "updatedAt": "2026-08-21T04:01:24.612Z"
 }

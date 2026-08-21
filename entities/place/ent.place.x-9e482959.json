@@ -4,12 +4,13 @@
   "name": "巨大石锥",
   "aliases": [
     "血海石锥",
-    "石锥"
+    "石锥",
+    "血海之中的巨大石锥"
   ],
   "summary": "血海中唯一存在的巨大石锥，拓森长年垂首坐于其上。",
   "attributes": {
-    "类型": "石锥",
-    "上级区域": "血海"
+    "类型": "囚禁之地",
+    "上级区域": "古神之地"
   },
   "observations": {
     "类型": [
@@ -17,6 +18,11 @@
         "value": "石锥",
         "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
         "seq": 428
+      },
+      {
+        "value": "囚禁之地",
+        "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
+        "seq": 443
       }
     ],
     "上级区域": [
@@ -24,6 +30,11 @@
         "value": "血海",
         "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
         "seq": 428
+      },
+      {
+        "value": "古神之地",
+        "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
+        "seq": 443
       }
     ]
   },
@@ -31,21 +42,22 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+      "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
       "dated": false,
-      "seq": 428
+      "seq": 443
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+      "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
       "dated": false,
-      "seq": 428
+      "seq": 443
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch451-waner-mingpo-tianyun-star"
+    "plot.xianni-ch451-waner-mingpo-tianyun-star",
+    "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo"
   ],
-  "updatedAt": "2026-08-21T02:32:55.613Z"
+  "updatedAt": "2026-08-21T04:01:24.525Z"
 }

@@ -109,3 +109,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-21T02:32:55.854Z** `ingest` plot.xianni-ch451-waner-mingpo-tianyun-star — 仙逆 第451章 婉儿命魂：命魂抽取之秘、天运星与天运子、朱雀墓中的伪装山道 · kind=plot asOf=2026-08-21 entities=112 relations=210 src=00428-00432.md
 - **2026-08-21T03:06:39.639Z** `ingest` plot.xianni-ch433-437-hongdie-yanhong-yunquezi — 仙逆 第433-437章：嫣红——王林与傀儡化红蝶之战、昆极鞭与巨魔战斧、云雀子现身 · kind=plot asOf=2026-08-21 entities=109 relations=228 src=00433-00437.md
 - **2026-08-21T03:36:29.724Z** `ingest` plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang — 仙逆 第438-442章：借剑芒杀机——王林算计乾风、重创柳眉入海底宫殿 · kind=plot asOf=2026-08-21 entities=89 relations=185 src=00438-00442.md
+- **2026-08-21T04:01:24.753Z** `ingest` plot.xianni-ch466-tuosen-kills-qianfeng-mingpo — 仙逆 第466章 拓森的杀机：乾风祭古神铁剑、王林换回命魂 · kind=plot asOf=2026-08-21 entities=95 relations=186 src=00443-00446.md
