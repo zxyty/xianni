@@ -4,13 +4,15 @@
   "name": "金色大剑",
   "aliases": [
     "金甲大汉的金剑",
-    "金剑"
+    "金剑",
+    "刺入墙壁的大剑"
   ],
   "summary": "金甲大汉手中散发金芒的金色大剑，一挥可掀动整片金色海洋淹没岛屿，斩出百丈剑气/剑芒，一击之威达问鼎一击。",
   "attributes": {
     "持有者": "金甲大汉",
     "能力": "掀起巨浪淹没岛屿、斩出百丈剑气剑芒、一击达问鼎一击之威、斩出百丈剑芒",
-    "外形": "金剑"
+    "外形": "金色大剑，金光",
+    "来历": "刺入回廊墙壁之中，被深坑吸力拔出"
   },
   "observations": {
     "持有者": [
@@ -52,6 +54,19 @@
         "value": "金剑",
         "docId": "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
         "seq": 438
+      },
+      {
+        "value": "金色大剑，金光",
+        "docId": "plot.xianni-ch641-yunxian-daolv-wangwei-hujuan-purple-mist-pit",
+        "seq": 600
+      }
+    ],
+    "来历": [
+      {
+        "value": "刺入回廊墙壁之中，被深坑吸力拔出",
+        "docId": "plot.xianni-ch641-yunxian-daolv-wangwei-hujuan-purple-mist-pit",
+        "seq": 600,
+        "note": "第641章；王林对其极为熟悉，归属待明"
       }
     ]
   },
@@ -71,16 +86,24 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
+      "docId": "plot.xianni-ch641-yunxian-daolv-wangwei-hujuan-purple-mist-pit",
       "dated": false,
-      "seq": 438
+      "seq": 600
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch641-yunxian-daolv-wangwei-hujuan-purple-mist-pit",
+      "dated": false,
+      "seq": 600,
+      "note": "第641章；王林对其极为熟悉，归属待明"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
-    "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang"
+    "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
+    "plot.xianni-ch641-yunxian-daolv-wangwei-hujuan-purple-mist-pit"
   ],
-  "updatedAt": "2026-08-21T03:36:29.446Z"
+  "updatedAt": "2026-08-22T18:43:18.012Z"
 }

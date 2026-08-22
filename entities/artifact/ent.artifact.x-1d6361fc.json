@@ -10,15 +10,18 @@
     "Ju Fu",
     "金光大剑",
     "梦中之剑",
-    "巨富大剑"
+    "巨富大剑",
+    "漆黑大剑",
+    "黑色大剑",
+    "Jufu"
   ],
   "summary": "500年前恒岳派师祖以渡金生铁打造的噱头「飞剑」，门板状、镶巨钻金穗，纯属充场面之物，被王林取走。",
   "attributes": {
     "持有者": "恒岳派铸剑前辈",
-    "外形": "大剑",
-    "来历": "恒岳派铸剑前辈以凡铁铸成、熔金涂抹而成",
+    "外形": "两掌宽三尺长、长方门板状、通体渡金、柄镶两钻、金丝剑穗、金光闪烁、通体金光（表面涂金）、柄嵌两大晶石、金丝剑穗、金光闪闪的大剑、大剑、漆黑剑身、剑身刻有『巨富』二字、剑柄宝石已尽数碎裂",
+    "来历": "潮汐深渊深坑之中",
     "禁制": "本体真伪待证",
-    "能力": "材质为最普通生铁，晶石无任何灵力，纯为好看、内存一道剑诀、持之者心神融入剑内、曾一剑解恒岳派大劫、内藏剑魂之技"
+    "能力": "材质为最普通生铁，晶石无任何灵力，纯为好看、内存一道剑诀、持之者心神融入剑内、曾一剑解恒岳派大劫、内藏剑魂之技、内藏端倪"
   },
   "observations": {
     "持有者": [
@@ -59,6 +62,21 @@
         "value": "大剑",
         "docId": "plot.xianni-ch519-tide-recede-golden-token",
         "seq": 496
+      },
+      {
+        "value": "漆黑剑身",
+        "docId": "plot.xianni-ch641-yunxian-daolv-wangwei-hujuan-purple-mist-pit",
+        "seq": 600
+      },
+      {
+        "value": "剑身刻有『巨富』二字",
+        "docId": "plot.xianni-ch641-yunxian-daolv-wangwei-hujuan-purple-mist-pit",
+        "seq": 600
+      },
+      {
+        "value": "剑柄宝石已尽数碎裂",
+        "docId": "plot.xianni-ch641-yunxian-daolv-wangwei-hujuan-purple-mist-pit",
+        "seq": 600
       }
     ],
     "来历": [
@@ -76,6 +94,11 @@
         "value": "恒岳派铸剑前辈以凡铁铸成、熔金涂抹而成",
         "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
         "seq": 392
+      },
+      {
+        "value": "潮汐深渊深坑之中",
+        "docId": "plot.xianni-ch641-yunxian-daolv-wangwei-hujuan-purple-mist-pit",
+        "seq": 600
       }
     ],
     "禁制": [
@@ -116,6 +139,12 @@
         "value": "内藏剑魂之技",
         "docId": "plot.xianni-ch519-tide-recede-golden-token",
         "seq": 496
+      },
+      {
+        "value": "内藏端倪",
+        "docId": "plot.xianni-ch641-yunxian-daolv-wangwei-hujuan-purple-mist-pit",
+        "seq": 600,
+        "note": "需问鼎修为方可看出，本片段尚未研究"
       }
     ]
   },
@@ -130,15 +159,15 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch519-tide-recede-golden-token",
+      "docId": "plot.xianni-ch37-42-sinian-guangban",
       "dated": false,
-      "seq": 496
+      "seq": 37
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+      "docId": "plot.xianni-ch641-yunxian-daolv-wangwei-hujuan-purple-mist-pit",
       "dated": false,
-      "seq": 392
+      "seq": 600
     },
     "禁制": {
       "asOf": null,
@@ -163,7 +192,8 @@
     "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
     "plot.xianni-ch519-tide-recede-golden-token",
     "plot.xianni-ch632-tanlang-daluo-disciples-trapped-tide-abyss",
-    "plot.xianni-ch640-two-gifts-and-the-tidal-abyss-pit"
+    "plot.xianni-ch640-two-gifts-and-the-tidal-abyss-pit",
+    "plot.xianni-ch641-yunxian-daolv-wangwei-hujuan-purple-mist-pit"
   ],
-  "updatedAt": "2026-08-22T18:35:07.022Z"
+  "updatedAt": "2026-08-22T18:43:18.039Z"
 }
