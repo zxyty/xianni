@@ -10,15 +10,17 @@
     "仙笔毛笔",
     "仙家法宝仙笔",
     "晶莹剔透的毛笔",
-    "王林的仙笔"
+    "王林的仙笔",
+    "仙家之笔",
+    "仙文之笔"
   ],
   "summary": "王林自储物袋取出的法宝，可在虚空画出符文，每笔需分出一股元神，最多七笔。",
   "attributes": {
     "持有者": "王林",
-    "能力": "虚空画符文、每笔融入一股元神，七笔为极限、注入仙力后笔尖散发金芒、勾画一笔/两笔/三笔符文、三笔符文金芒可驱散十亿尊魂幡黑雾、凌空画符，符文可作噬光飞虫的诱饵、勾动召回金符",
+    "能力": "虚空画符文、每笔融入一股元神，七笔为极限、注入仙力后笔尖散发金芒、勾画一笔/两笔/三笔符文、三笔符文金芒可驱散十亿尊魂幡黑雾、凌空画符，符文可作噬光飞虫的诱饵、勾动召回金符、以元神画仙文符咒、叠加符文可成仙人神通",
     "外形": "金色笔",
-    "来历": "矮小老者当年曾持有并借玉简得知其神通使用方法、妖灵之地废弃洞府",
-    "禁制": "自身可高速遁逃"
+    "来历": "矮小老者当年曾持有并借玉简得知其神通使用方法、妖灵之地废弃洞府、曾在炼魂部落祭炼",
+    "禁制": "王林最多叠画七笔（元神无法分成九份），欲画第八笔须放弃肉身"
   },
   "observations": {
     "持有者": [
@@ -63,6 +65,16 @@
         "value": "勾动召回金符",
         "docId": "plot.xianni-ch635-du-jian-devoured-by-light-eating-bugs",
         "seq": 596
+      },
+      {
+        "value": "以元神画仙文符咒",
+        "docId": "plot.xianni-ch638-xin-si-wang-lin-breaks-lingtianhou-seal-zhou-yi",
+        "seq": 600
+      },
+      {
+        "value": "叠加符文可成仙人神通",
+        "docId": "plot.xianni-ch638-xin-si-wang-lin-breaks-lingtianhou-seal-zhou-yi",
+        "seq": 600
       }
     ],
     "外形": [
@@ -92,6 +104,11 @@
         "value": "妖灵之地废弃洞府",
         "docId": "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune",
         "seq": 586
+      },
+      {
+        "value": "曾在炼魂部落祭炼",
+        "docId": "plot.xianni-ch638-xin-si-wang-lin-breaks-lingtianhou-seal-zhou-yi",
+        "seq": 600
       }
     ],
     "禁制": [
@@ -99,6 +116,11 @@
         "value": "自身可高速遁逃",
         "docId": "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune",
         "seq": 586
+      },
+      {
+        "value": "王林最多叠画七笔（元神无法分成九份），欲画第八笔须放弃肉身",
+        "docId": "plot.xianni-ch638-xin-si-wang-lin-breaks-lingtianhou-seal-zhou-yi",
+        "seq": 600
       }
     ]
   },
@@ -130,9 +152,9 @@
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune",
+      "docId": "plot.xianni-ch638-xin-si-wang-lin-breaks-lingtianhou-seal-zhou-yi",
       "dated": false,
-      "seq": 586
+      "seq": 600
     }
   },
   "contested": false,
@@ -140,7 +162,8 @@
   "docs": [
     "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
     "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune",
-    "plot.xianni-ch635-du-jian-devoured-by-light-eating-bugs"
+    "plot.xianni-ch635-du-jian-devoured-by-light-eating-bugs",
+    "plot.xianni-ch638-xin-si-wang-lin-breaks-lingtianhou-seal-zhou-yi"
   ],
-  "updatedAt": "2026-08-22T18:21:57.571Z"
+  "updatedAt": "2026-08-22T18:30:17.981Z"
 }

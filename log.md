@@ -188,3 +188,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T18:21:57.709Z** `ingest` plot.xianni-ch635-du-jian-devoured-by-light-eating-bugs — 第635章 周佚所在：噬光飞虫围杀杜建，王林以金符符文引虫、出手擒杀 · kind=plot asOf=2026-08-22 entities=35 relations=59 src=00596-00599.p2.md
 - **2026-08-22T18:24:36.307Z** `ingest` plot.xianni-ch636-sealed-place-lingtianhou-hidden-rift — 第636章 封印之处：王林以剑气崩壁，寻得凌天候封印周佚的隐藏裂缝 · kind=plot asOf=2026-08-22 entities=29 relations=34 src=00596-00599.p3.md
 - **2026-08-22T18:27:21.211Z** `ingest` plot.xianni-ch637-save-zhou-yi-tidal-abyss-rift — 第637章 救周佚：王林硬闯裂缝，力抗剑尊凌天候残念 · kind=plot asOf=2026-08-22 entities=31 relations=36 src=00596-00599.p4.md
+- **2026-08-22T18:30:18.133Z** `ingest` plot.xianni-ch638-xin-si-wang-lin-breaks-lingtianhou-seal-zhou-yi — 第638章 心死｜王林七笔仙文符闯潮汐深渊裂缝，直面被封印的周佚 · kind=plot asOf=2026-08-22 entities=22 relations=39 src=00600-00604.p1.md

@@ -24,13 +24,14 @@
   "attributes": {
     "性别": "女",
     "外貌": "身穿白衣，肤色雪白略带红意，出尘如仙女、白衣、一袭白衣胜雪、一缕幽发如幕、芳香醉人、女尸之身，玉手、长发飘飘、白衣、白衣女子、白衣，平躺仙玉床，双目闭合",
-    "存殁": "死亡（尸身）",
-    "标志特征": "尸身不腐，一出现便与阁楼环境融为一体、尸身不腐、多年容貌未变、身体极寒，寒意远胜蓝色雾气、尸身散发死气，被认作仙人尸体、出现时令观者心神震动、生出夺取之念、尸身保存完好，被周佚随身抱持、睁眼即令数层仙界碎片崩溃、可召使雨之仙剑、可封赐「仙剑之魂」、白衣女尸、死前第一次露出开心的微笑",
+    "存殁": "已死",
+    "标志特征": "尸身不腐，一出现便与阁楼环境融为一体、尸身不腐、多年容貌未变、身体极寒，寒意远胜蓝色雾气、尸身散发死气，被认作仙人尸体、出现时令观者心神震动、生出夺取之念、尸身保存完好，被周佚随身抱持、睁眼即令数层仙界碎片崩溃、可召使雨之仙剑、可封赐「仙剑之魂」、白衣女尸、死前第一次露出开心的微笑、施展仙指印",
     "身份": "持葫芦中年男子的牵挂之人、仙人尸体、身份与目的成谜、雨之仙剑凝炼者、一缕残魂",
     "结局": "死亡引动周佚之生，存于人心",
     "称号": "本君",
     "性格": "悲哀、深情",
-    "死因": "耗尽仅存仙力布设仙幕并传出金光后力竭"
+    "死因": "耗尽仅存仙力布设仙幕并传出金光后力竭",
+    "元神强度": "凌天候断定其仙指印非仙君可施展，唯仙帝可为"
   },
   "observations": {
     "性别": [
@@ -104,6 +105,12 @@
         "value": "死亡（尸身）",
         "docId": "plot.xianni-ch637-save-zhou-yi-tidal-abyss-rift",
         "seq": 596
+      },
+      {
+        "value": "已死",
+        "docId": "plot.xianni-ch638-xin-si-wang-lin-breaks-lingtianhou-seal-zhou-yi",
+        "seq": 600,
+        "note": "第638章回忆提及“当年婷儿身逝的一刻”"
       }
     ],
     "标志特征": [
@@ -162,6 +169,11 @@
         "value": "死前第一次露出开心的微笑",
         "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
         "seq": 304
+      },
+      {
+        "value": "施展仙指印",
+        "docId": "plot.xianni-ch638-xin-si-wang-lin-breaks-lingtianhou-seal-zhou-yi",
+        "seq": 600
       }
     ],
     "身份": [
@@ -232,6 +244,14 @@
         "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
         "seq": 304
       }
+    ],
+    "元神强度": [
+      {
+        "value": "凌天候断定其仙指印非仙君可施展，唯仙帝可为",
+        "docId": "plot.xianni-ch638-xin-si-wang-lin-breaks-lingtianhou-seal-zhou-yi",
+        "seq": 600,
+        "note": "凌天候事后推断"
+      }
     ]
   },
   "firstSeq": 289,
@@ -250,9 +270,10 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch637-save-zhou-yi-tidal-abyss-rift",
+      "docId": "plot.xianni-ch638-xin-si-wang-lin-breaks-lingtianhou-seal-zhou-yi",
       "dated": false,
-      "seq": 596
+      "seq": 600,
+      "note": "第638章回忆提及“当年婷儿身逝的一刻”"
     },
     "标志特征": {
       "asOf": null,
@@ -290,6 +311,13 @@
       "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
       "dated": false,
       "seq": 304
+    },
+    "元神强度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch638-xin-si-wang-lin-breaks-lingtianhou-seal-zhou-yi",
+      "dated": false,
+      "seq": 600,
+      "note": "凌天候事后推断"
     }
   },
   "contested": false,
@@ -302,7 +330,8 @@
     "plot.xianni-ch312-316-yinju-xinjia",
     "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
     "plot.xianni-ch356-departure-immortal-remains-void-rift",
-    "plot.xianni-ch637-save-zhou-yi-tidal-abyss-rift"
+    "plot.xianni-ch637-save-zhou-yi-tidal-abyss-rift",
+    "plot.xianni-ch638-xin-si-wang-lin-breaks-lingtianhou-seal-zhou-yi"
   ],
-  "updatedAt": "2026-08-22T18:27:21.043Z"
+  "updatedAt": "2026-08-22T18:30:17.979Z"
 }

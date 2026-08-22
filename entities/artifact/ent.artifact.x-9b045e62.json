@@ -10,18 +10,19 @@
     "雨之剑",
     "第四把雨剑",
     "雨仙剑",
-    "周佚所化剑灵之剑"
+    "周佚所化剑灵之剑",
+    "雨之仙界第一宝"
   ],
   "summary": "自仙界碎片不知多少层以下射出的金光仙剑，剑鸣传遍全仙界，可容纳「仙剑之魂」，被婷儿驱使并化作万丈金龙。",
   "attributes": {
-    "持有者": "青霜",
+    "持有者": "凌天候持有其中一把",
     "能力": "剑鸣穿透虚无传遍仙界所有碎片、化作万丈金龙载人穿行虚无、以仙魂/仙剑之魂为核、可缓慢恢复元神、剑魂重临时引发万剑齐鸣、齐断、齐飞",
     "外形": "金光；可化万丈金龙、散发凌厉剑气的金龙、以金龙形态凝聚",
     "来历": "自仙界碎片深处不知多少层以下涌出、当年仙界之物，仙界劫难中剑魂破损万千、融于无数仙剑成残魂、需追随仙剑群方可求取、雨之剑魂所在仙界碎片，仙剑汇聚凝成、仙玉宝塔内",
-    "禁制": "疑非独一柄——青衫文士称「不知这是第几剑」",
-    "品阶": "仙剑级",
+    "禁制": "一旦在周佚面前取出便会被周佚操控",
+    "品阶": "雨之仙界第一宝",
     "五行属性": "水/雨",
-    "器灵": "周佚（剑灵）"
+    "器灵": "周佚（雨之剑灵）"
   },
   "observations": {
     "持有者": [
@@ -34,6 +35,12 @@
         "value": "青霜",
         "docId": "plot.xianni-ch626-white-robed-corpse-identity-qingshuang",
         "seq": 586
+      },
+      {
+        "value": "凌天候持有其中一把",
+        "docId": "plot.xianni-ch638-xin-si-wang-lin-breaks-lingtianhou-seal-zhou-yi",
+        "seq": 600,
+        "note": "不敢在周佚面前取出"
       }
     ],
     "能力": [
@@ -112,6 +119,11 @@
         "value": "疑非独一柄——青衫文士称「不知这是第几剑」",
         "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
         "seq": 299
+      },
+      {
+        "value": "一旦在周佚面前取出便会被周佚操控",
+        "docId": "plot.xianni-ch638-xin-si-wang-lin-breaks-lingtianhou-seal-zhou-yi",
+        "seq": 600
       }
     ],
     "品阶": [
@@ -124,6 +136,11 @@
         "value": "仙剑级",
         "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
         "seq": 304
+      },
+      {
+        "value": "雨之仙界第一宝",
+        "docId": "plot.xianni-ch638-xin-si-wang-lin-breaks-lingtianhou-seal-zhou-yi",
+        "seq": 600
       }
     ],
     "五行属性": [
@@ -138,6 +155,11 @@
         "value": "周佚（剑灵）",
         "docId": "plot.xianni-ch637-save-zhou-yi-tidal-abyss-rift",
         "seq": 596
+      },
+      {
+        "value": "周佚（雨之剑灵）",
+        "docId": "plot.xianni-ch638-xin-si-wang-lin-breaks-lingtianhou-seal-zhou-yi",
+        "seq": 600
       }
     ]
   },
@@ -145,9 +167,10 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch626-white-robed-corpse-identity-qingshuang",
+      "docId": "plot.xianni-ch638-xin-si-wang-lin-breaks-lingtianhou-seal-zhou-yi",
       "dated": false,
-      "seq": 586
+      "seq": 600,
+      "note": "不敢在周佚面前取出"
     },
     "能力": {
       "asOf": null,
@@ -169,15 +192,15 @@
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
+      "docId": "plot.xianni-ch638-xin-si-wang-lin-breaks-lingtianhou-seal-zhou-yi",
       "dated": false,
-      "seq": 299
+      "seq": 600
     },
     "品阶": {
       "asOf": null,
-      "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
+      "docId": "plot.xianni-ch638-xin-si-wang-lin-breaks-lingtianhou-seal-zhou-yi",
       "dated": false,
-      "seq": 304
+      "seq": 600
     },
     "五行属性": {
       "asOf": null,
@@ -187,9 +210,9 @@
     },
     "器灵": {
       "asOf": null,
-      "docId": "plot.xianni-ch637-save-zhou-yi-tidal-abyss-rift",
+      "docId": "plot.xianni-ch638-xin-si-wang-lin-breaks-lingtianhou-seal-zhou-yi",
       "dated": false,
-      "seq": 596
+      "seq": 600
     }
   },
   "contested": false,
@@ -199,7 +222,8 @@
     "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
     "plot.xianni-ch327-return-to-zhuque-star",
     "plot.xianni-ch626-white-robed-corpse-identity-qingshuang",
-    "plot.xianni-ch637-save-zhou-yi-tidal-abyss-rift"
+    "plot.xianni-ch637-save-zhou-yi-tidal-abyss-rift",
+    "plot.xianni-ch638-xin-si-wang-lin-breaks-lingtianhou-seal-zhou-yi"
   ],
-  "updatedAt": "2026-08-22T18:27:21.061Z"
+  "updatedAt": "2026-08-22T18:30:17.987Z"
 }
