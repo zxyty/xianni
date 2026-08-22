@@ -4,14 +4,16 @@
   "name": "福泽玉简",
   "aliases": [
     "祖玉",
-    "幻家的仙人玉简"
+    "幻家的仙人玉简",
+    "幻家福泽玉简"
   ],
   "summary": "幻家祠堂内的金色玉简至宝，内蕴雷之仙界先祖仙法，请出后可隔出一界并化作人形出手杀敌。",
   "attributes": {
     "持有者": "幻家",
-    "来历": "幻家雷之仙界先祖所留",
-    "能力": "散发浩淼祥和之力、在千幻星隔绝出一片天地，使幻家祖宅自成一界、化作威严人形出手，仙力挤压全星灵力",
-    "外形": "金色玉简，可化人形（面貌不清、仙音回荡）"
+    "来历": "幻家祖传，祖训有载",
+    "能力": "散发浩淼祥和之力、在千幻星隔绝出一片天地，使幻家祖宅自成一界、化作威严人形出手，仙力挤压全星灵力、凝化仙人虚影、转化千幻星灵力为仙力、碎裂后释放十里防御光幕",
+    "外形": "玉简，碎裂化为灰尘",
+    "禁制": "碎裂后残留一道威力较弱的防御神通"
   },
   "observations": {
     "持有者": [
@@ -26,6 +28,11 @@
         "value": "幻家雷之仙界先祖所留",
         "docId": "plot.xianni-ch685-zhan-luo-jue-po-huan-jia-da-zhen",
         "seq": 641
+      },
+      {
+        "value": "幻家祖传，祖训有载",
+        "docId": "plot.xianni-687-tunshi-star-soul-extraction",
+        "seq": 646
       }
     ],
     "能力": [
@@ -43,6 +50,21 @@
         "value": "化作威严人形出手，仙力挤压全星灵力",
         "docId": "plot.xianni-ch685-zhan-luo-jue-po-huan-jia-da-zhen",
         "seq": 641
+      },
+      {
+        "value": "凝化仙人虚影",
+        "docId": "plot.xianni-687-tunshi-star-soul-extraction",
+        "seq": 646
+      },
+      {
+        "value": "转化千幻星灵力为仙力",
+        "docId": "plot.xianni-687-tunshi-star-soul-extraction",
+        "seq": 646
+      },
+      {
+        "value": "碎裂后释放十里防御光幕",
+        "docId": "plot.xianni-687-tunshi-star-soul-extraction",
+        "seq": 646
       }
     ],
     "外形": [
@@ -50,6 +72,19 @@
         "value": "金色玉简，可化人形（面貌不清、仙音回荡）",
         "docId": "plot.xianni-ch685-zhan-luo-jue-po-huan-jia-da-zhen",
         "seq": 641
+      },
+      {
+        "value": "玉简，碎裂化为灰尘",
+        "docId": "plot.xianni-687-tunshi-star-soul-extraction",
+        "seq": 646
+      }
+    ],
+    "禁制": [
+      {
+        "value": "碎裂后残留一道威力较弱的防御神通",
+        "docId": "plot.xianni-687-tunshi-star-soul-extraction",
+        "seq": 646,
+        "note": "供族人短暂喘息：投降/自绝/留后事"
       }
     ]
   },
@@ -63,9 +98,9 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch685-zhan-luo-jue-po-huan-jia-da-zhen",
+      "docId": "plot.xianni-687-tunshi-star-soul-extraction",
       "dated": false,
-      "seq": 641
+      "seq": 646
     },
     "能力": {
       "asOf": null,
@@ -75,15 +110,23 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch685-zhan-luo-jue-po-huan-jia-da-zhen",
+      "docId": "plot.xianni-687-tunshi-star-soul-extraction",
       "dated": false,
-      "seq": 641
+      "seq": 646
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-687-tunshi-star-soul-extraction",
+      "dated": false,
+      "seq": 646,
+      "note": "供族人短暂喘息：投降/自绝/留后事"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch685-zhan-luo-jue-po-huan-jia-da-zhen"
+    "plot.xianni-ch685-zhan-luo-jue-po-huan-jia-da-zhen",
+    "plot.xianni-687-tunshi-star-soul-extraction"
   ],
-  "updatedAt": "2026-08-22T23:41:19.320Z"
+  "updatedAt": "2026-08-22T23:50:32.222Z"
 }
