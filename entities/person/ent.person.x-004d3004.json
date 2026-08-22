@@ -6,11 +6,13 @@
     "炼魂宗遁天师尊",
     "遁天之师",
     "遁天师尊",
-    "我师尊"
+    "我师尊",
+    "王林的遁天师尊"
   ],
   "summary": "遁天婴变时持十亿尊魂幡抢了三个五级修真国所有宗派，为其筹得仙玉。",
   "attributes": {
-    "身份": "炼魂宗前辈、炼魂宗修士，遁天之师"
+    "身份": "炼魂宗前辈、炼魂宗修士，遁天之师、王林师尊",
+    "存殁": "死亡"
   },
   "observations": {
     "身份": [
@@ -23,6 +25,19 @@
         "value": "炼魂宗修士，遁天之师",
         "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
         "seq": 392
+      },
+      {
+        "value": "王林师尊",
+        "docId": "plot.xianni-ch666-nvban-nanzhuang-sun-family-test",
+        "seq": 626
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch666-nvban-nanzhuang-sun-family-test",
+        "seq": 626,
+        "note": "坐化身亡，回忆提及"
       }
     ]
   },
@@ -33,12 +48,20 @@
       "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
       "dated": false,
       "seq": 392
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch666-nvban-nanzhuang-sun-family-test",
+      "dated": false,
+      "seq": 626,
+      "note": "坐化身亡，回忆提及"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics"
+    "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+    "plot.xianni-ch666-nvban-nanzhuang-sun-family-test"
   ],
-  "updatedAt": "2026-08-17T16:51:11.925Z"
+  "updatedAt": "2026-08-22T22:32:22.173Z"
 }

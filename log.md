@@ -207,3 +207,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T22:24:28.129Z** `ingest` plot.xianni-ch663-sun-lao-baohe-lou — 第663章 孙老：王林炼制伪仙宝与伪传承，宝合楼被拒 · kind=plot asOf=2026-08-22 entities=27 relations=34 src=00621-00625.p3.md
 - **2026-08-22T22:26:59.275Z** `ingest` plot.xianni-ch664-cuoguo-qingzhuge-sell-sword — 第664章 错过：宝合楼老者与王林擦肩，青竹阁三千仙玉售出伪仙宝飞剑 · kind=plot asOf=2026-08-22 entities=22 relations=32 src=00621-00625.p4.md
 - **2026-08-22T22:29:51.587Z** `ingest` plot.xianni-ch665-warning-sun-family-ranyun-star — 第665章 警告：王林售宝反遭截杀，威压孙家索赔二十万仙玉 · kind=plot asOf=2026-08-22 entities=27 relations=48 src=00621-00625.p5.md
+- **2026-08-22T22:32:22.316Z** `ingest` plot.xianni-ch666-nvban-nanzhuang-sun-family-test — 第666章 女扮男装：房府守卫女修的训诫、二十万仙玉到手与孙家的次神丹试探 · kind=plot asOf=2026-08-22 entities=25 relations=31 src=00626-00630.p1.md
