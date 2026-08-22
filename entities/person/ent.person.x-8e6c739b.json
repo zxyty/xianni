@@ -4,14 +4,18 @@
   "name": "午马",
   "aliases": [
     "剑肖十二子·午马",
-    "大罗剑宗弟子午马"
+    "大罗剑宗弟子午马",
+    "大罗剑宗午马",
+    "午马师兄"
   ],
   "summary": "大罗剑宗剑肖十二子之一，本章向辰龙低声告知申猴肉身被妖兽吞噬、元神亦未逃脱。",
   "attributes": {
-    "身份": "大罗剑宗弟子",
-    "存殁": "在世",
+    "身份": "大罗剑宗弟子、剑肖十二子之一、大罗剑宗弟子、大罗剑宗弟子（十二地支之午马）",
+    "存殁": "死亡",
     "小阶段": "婴变后期大圆满",
-    "性格": "心浮气躁、心怀恶毒"
+    "性格": "心浮气躁、心怀恶毒、暴怒不甘",
+    "阵营": "大罗剑宗",
+    "死因": "被王林以声音诱其收回剑气后，一指点在眉心击杀"
   },
   "observations": {
     "身份": [
@@ -24,6 +28,11 @@
         "value": "大罗剑宗弟子",
         "docId": "plot.xianni-ch644-purple-mist-convergence",
         "seq": 605
+      },
+      {
+        "value": "大罗剑宗弟子（十二地支之午马）",
+        "docId": "plot.xianni-ch645-jueduan-chenlong-escapes-purple-mist",
+        "seq": 605
       }
     ],
     "存殁": [
@@ -31,6 +40,11 @@
         "value": "在世",
         "docId": "plot.xianni-ch632-tanlang-daluo-disciples-trapped-tide-abyss",
         "seq": 591
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch645-jueduan-chenlong-escapes-purple-mist",
+        "seq": 605
       }
     ],
     "小阶段": [
@@ -45,6 +59,25 @@
         "value": "心浮气躁、心怀恶毒",
         "docId": "plot.xianni-ch644-purple-mist-convergence",
         "seq": 605
+      },
+      {
+        "value": "暴怒不甘",
+        "docId": "plot.xianni-ch645-jueduan-chenlong-escapes-purple-mist",
+        "seq": 605
+      }
+    ],
+    "阵营": [
+      {
+        "value": "大罗剑宗",
+        "docId": "plot.xianni-ch645-jueduan-chenlong-escapes-purple-mist",
+        "seq": 605
+      }
+    ],
+    "死因": [
+      {
+        "value": "被王林以声音诱其收回剑气后，一指点在眉心击杀",
+        "docId": "plot.xianni-ch645-jueduan-chenlong-escapes-purple-mist",
+        "seq": 605
       }
     ]
   },
@@ -52,15 +85,15 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch644-purple-mist-convergence",
-      "dated": false,
-      "seq": 605
-    },
-    "存殁": {
-      "asOf": null,
       "docId": "plot.xianni-ch632-tanlang-daluo-disciples-trapped-tide-abyss",
       "dated": false,
       "seq": 591
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch645-jueduan-chenlong-escapes-purple-mist",
+      "dated": false,
+      "seq": 605
     },
     "小阶段": {
       "asOf": null,
@@ -73,13 +106,26 @@
       "docId": "plot.xianni-ch644-purple-mist-convergence",
       "dated": false,
       "seq": 605
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch645-jueduan-chenlong-escapes-purple-mist",
+      "dated": false,
+      "seq": 605
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch645-jueduan-chenlong-escapes-purple-mist",
+      "dated": false,
+      "seq": 605
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch632-tanlang-daluo-disciples-trapped-tide-abyss",
-    "plot.xianni-ch644-purple-mist-convergence"
+    "plot.xianni-ch644-purple-mist-convergence",
+    "plot.xianni-ch645-jueduan-chenlong-escapes-purple-mist"
   ],
-  "updatedAt": "2026-08-22T18:56:05.333Z"
+  "updatedAt": "2026-08-22T19:03:03.666Z"
 }

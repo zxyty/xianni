@@ -8,15 +8,20 @@
     "潮汐深渊紫雾",
     "紫雾迷雾",
     "深渊紫雾",
-    "紫雾归一之地"
+    "紫雾归一之地",
+    "紫气",
+    "贪狼紫雾",
+    "收缩的紫雾"
   ],
   "summary": "火妖郡出口前的一片诡异紫色雾气，内似困有修士，剑识无法全部探入，群蚊兽围而不敢深入。",
   "attributes": {
-    "类型": "诡异雾气区域、雾障/禁地、险地/秘境雾障",
+    "类型": "诡异雾气区域、雾障/禁地、险地/秘境雾障、困杀领域/困阵法术、禁地/迷雾区域",
     "上级区域": "潮汐深渊",
-    "危险度": "未知，蚊兽群不敢深入、高、极高（只进不出，边缘仙力困修士）",
+    "危险度": "未知，蚊兽群不敢深入、高、极高（只进不出，边缘仙力困修士）、极高",
     "守护": "外围环绕大群蚊兽、紫雾本身阻断神识与通行、出口外的蚊兽群",
-    "方位": "卡在深渊之中"
+    "方位": "卡在深渊之中",
+    "规模": "不足百丈",
+    "特产": "困人百年、压制视野至七尺"
   },
   "observations": {
     "类型": [
@@ -33,6 +38,16 @@
       {
         "value": "险地/秘境雾障",
         "docId": "plot.xianni-ch644-purple-mist-convergence",
+        "seq": 605
+      },
+      {
+        "value": "困杀领域/困阵法术",
+        "docId": "plot.xianni-ch645-jueduan-chenlong-escapes-purple-mist",
+        "seq": 605
+      },
+      {
+        "value": "禁地/迷雾区域",
+        "docId": "plot.xianni-ch645-jueduan-chenlong-escapes-purple-mist",
         "seq": 605
       }
     ],
@@ -63,6 +78,11 @@
         "value": "极高（只进不出，边缘仙力困修士）",
         "docId": "plot.xianni-ch644-purple-mist-convergence",
         "seq": 605
+      },
+      {
+        "value": "极高",
+        "docId": "plot.xianni-ch645-jueduan-chenlong-escapes-purple-mist",
+        "seq": 605
       }
     ],
     "守护": [
@@ -86,6 +106,21 @@
       {
         "value": "卡在深渊之中",
         "docId": "plot.xianni-ch644-purple-mist-convergence",
+        "seq": 605
+      }
+    ],
+    "规模": [
+      {
+        "value": "不足百丈",
+        "docId": "plot.xianni-ch645-jueduan-chenlong-escapes-purple-mist",
+        "seq": 605,
+        "note": "本章正疯狂收缩"
+      }
+    ],
+    "特产": [
+      {
+        "value": "困人百年、压制视野至七尺",
+        "docId": "plot.xianni-ch645-jueduan-chenlong-escapes-purple-mist",
         "seq": 605
       }
     ]
@@ -121,6 +156,19 @@
       "docId": "plot.xianni-ch644-purple-mist-convergence",
       "dated": false,
       "seq": 605
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch645-jueduan-chenlong-escapes-purple-mist",
+      "dated": false,
+      "seq": 605,
+      "note": "本章正疯狂收缩"
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch645-jueduan-chenlong-escapes-purple-mist",
+      "dated": false,
+      "seq": 605
     }
   },
   "contested": false,
@@ -128,7 +176,8 @@
   "docs": [
     "plot.xianni-ch642-purple-mist-mosquito-beast",
     "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua",
-    "plot.xianni-ch644-purple-mist-convergence"
+    "plot.xianni-ch644-purple-mist-convergence",
+    "plot.xianni-ch645-jueduan-chenlong-escapes-purple-mist"
   ],
-  "updatedAt": "2026-08-22T18:56:05.344Z"
+  "updatedAt": "2026-08-22T19:03:03.678Z"
 }
