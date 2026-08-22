@@ -2,11 +2,14 @@
   "id": "ent.material.x-f8e1f23e",
   "type": "material",
   "name": "金炎脉",
-  "aliases": [],
+  "aliases": [
+    "Jinyan vein"
+  ],
   "summary": "王林进入云霞星所要寻找的目标矿脉。",
   "attributes": {
     "类型": "矿脉",
-    "产地": "云霞星"
+    "产地": "云霞星地下最深处",
+    "稀有度": "巨大而毫无掩饰，任一问鼎修士可查知（王林认为蹊跷）"
   },
   "observations": {
     "类型": [
@@ -21,6 +24,18 @@
         "value": "云霞星",
         "docId": "plot.xianni-ch675-situnan-again-closed-cultivation-liumei-huanjia-yunxia-star",
         "seq": 631
+      },
+      {
+        "value": "云霞星地下最深处",
+        "docId": "plot.xianni-ch676-huanmei-blood-change",
+        "seq": 636
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "巨大而毫无掩饰，任一问鼎修士可查知（王林认为蹊跷）",
+        "docId": "plot.xianni-ch676-huanmei-blood-change",
+        "seq": 636
       }
     ]
   },
@@ -34,15 +49,22 @@
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.xianni-ch675-situnan-again-closed-cultivation-liumei-huanjia-yunxia-star",
+      "docId": "plot.xianni-ch676-huanmei-blood-change",
       "dated": false,
-      "seq": 631
+      "seq": 636
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch676-huanmei-blood-change",
+      "dated": false,
+      "seq": 636
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch675-situnan-again-closed-cultivation-liumei-huanjia-yunxia-star"
+    "plot.xianni-ch675-situnan-again-closed-cultivation-liumei-huanjia-yunxia-star",
+    "plot.xianni-ch676-huanmei-blood-change"
   ],
-  "updatedAt": "2026-08-22T23:10:36.851Z"
+  "updatedAt": "2026-08-22T23:13:05.073Z"
 }

@@ -4,13 +4,15 @@
   "name": "换血",
   "aliases": [
     "幻家换血",
-    "换血之法"
+    "换血之法",
+    "幻家换血之法"
   ],
   "summary": "罗大星域家族用以为外人植入家族血脉的秘法，极少使用；幻家老者将亲自为柳眉施展，使其血脉含幻家之血。",
   "attributes": {
-    "出处": "幻家（罗大星域家族秘法）",
-    "效果": "为受术者换去血脉，使其血脉内蕴含施术家族之血，从而取得家族身份与庇护",
-    "修炼条件": "需高阶修士（窥涅期）亲自施展，极少使用"
+    "出处": "幻家",
+    "效果": "赋予受术者幻家至纯血脉、逼出其自身之血",
+    "修炼条件": "需数万族人放血与幻家老祖主持印诀，代价为主持者自损修为",
+    "外显异象": "血池起漩涡、升空化作血柱、崩溃成漫天血符落体"
   },
   "observations": {
     "出处": [
@@ -18,6 +20,11 @@
         "value": "幻家（罗大星域家族秘法）",
         "docId": "plot.xianni-ch667-special-artifact-targeting-wang-lin",
         "seq": 626
+      },
+      {
+        "value": "幻家",
+        "docId": "plot.xianni-ch676-huanmei-blood-change",
+        "seq": 636
       }
     ],
     "效果": [
@@ -25,6 +32,11 @@
         "value": "为受术者换去血脉，使其血脉内蕴含施术家族之血，从而取得家族身份与庇护",
         "docId": "plot.xianni-ch667-special-artifact-targeting-wang-lin",
         "seq": 626
+      },
+      {
+        "value": "赋予受术者幻家至纯血脉、逼出其自身之血",
+        "docId": "plot.xianni-ch676-huanmei-blood-change",
+        "seq": 636
       }
     ],
     "修炼条件": [
@@ -32,6 +44,18 @@
         "value": "需高阶修士（窥涅期）亲自施展，极少使用",
         "docId": "plot.xianni-ch667-special-artifact-targeting-wang-lin",
         "seq": 626
+      },
+      {
+        "value": "需数万族人放血与幻家老祖主持印诀，代价为主持者自损修为",
+        "docId": "plot.xianni-ch676-huanmei-blood-change",
+        "seq": 636
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "血池起漩涡、升空化作血柱、崩溃成漫天血符落体",
+        "docId": "plot.xianni-ch676-huanmei-blood-change",
+        "seq": 636
       }
     ]
   },
@@ -39,27 +63,34 @@
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch667-special-artifact-targeting-wang-lin",
+      "docId": "plot.xianni-ch676-huanmei-blood-change",
       "dated": false,
-      "seq": 626
+      "seq": 636
     },
     "效果": {
       "asOf": null,
-      "docId": "plot.xianni-ch667-special-artifact-targeting-wang-lin",
+      "docId": "plot.xianni-ch676-huanmei-blood-change",
       "dated": false,
-      "seq": 626
+      "seq": 636
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.xianni-ch667-special-artifact-targeting-wang-lin",
+      "docId": "plot.xianni-ch676-huanmei-blood-change",
       "dated": false,
-      "seq": 626
+      "seq": 636
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.xianni-ch676-huanmei-blood-change",
+      "dated": false,
+      "seq": 636
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch667-special-artifact-targeting-wang-lin"
+    "plot.xianni-ch667-special-artifact-targeting-wang-lin",
+    "plot.xianni-ch676-huanmei-blood-change"
   ],
-  "updatedAt": "2026-08-22T22:35:11.793Z"
+  "updatedAt": "2026-08-22T23:13:05.075Z"
 }
