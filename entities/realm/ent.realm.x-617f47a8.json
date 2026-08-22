@@ -4,12 +4,13 @@
   "name": "净涅",
   "aliases": [
     "净涅期",
-    "二境净涅"
+    "二境净涅",
+    "净涅期修士"
   ],
   "summary": "碎涅三境的第二境。",
   "attributes": {
-    "阶序": "碎涅三境·二境",
-    "上一境": "窥涅",
+    "阶序": "修道第二步",
+    "上一境": "窥捏",
     "下一境": "碎涅"
   },
   "observations": {
@@ -18,6 +19,11 @@
         "value": "碎涅三境·二境",
         "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
         "seq": 414
+      },
+      {
+        "value": "修道第二步",
+        "docId": "plot.xianni-681-wang-ping",
+        "seq": 641
       }
     ],
     "上一境": [
@@ -25,6 +31,11 @@
         "value": "窥涅",
         "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
         "seq": 414
+      },
+      {
+        "value": "窥捏",
+        "docId": "plot.xianni-681-wang-ping",
+        "seq": 641
       }
     ],
     "下一境": [
@@ -39,15 +50,15 @@
   "attrProvenance": {
     "阶序": {
       "asOf": null,
-      "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+      "docId": "plot.xianni-681-wang-ping",
       "dated": false,
-      "seq": 414
+      "seq": 641
     },
     "上一境": {
       "asOf": null,
-      "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+      "docId": "plot.xianni-681-wang-ping",
       "dated": false,
-      "seq": 414
+      "seq": 641
     },
     "下一境": {
       "asOf": null,
@@ -59,7 +70,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo"
+    "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+    "plot.xianni-681-wang-ping"
   ],
-  "updatedAt": "2026-08-17T20:24:08.695Z"
+  "updatedAt": "2026-08-22T23:25:41.420Z"
 }

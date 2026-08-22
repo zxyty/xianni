@@ -3,12 +3,14 @@
   "type": "material",
   "name": "罗天石",
   "aliases": [
-    "罗天之石"
+    "罗天之石",
+    "罗天石头",
+    "Luo Tian Stone"
   ],
   "summary": "开启废弃古传送阵所必需之物，仙玉无法替代。",
   "attributes": {
-    "类型": "开阵之物",
-    "用途": "开启罗天星域修士所设的废弃传送阵",
+    "类型": "通行凭信",
+    "用途": "进入千幻星所在星域的必需之物",
     "产地": "罗天星域（推测）"
   },
   "observations": {
@@ -17,6 +19,11 @@
         "value": "开阵之物",
         "docId": "plot.xianni-ch618-620-scroll-woman-luotian-star-region-seal",
         "seq": 618
+      },
+      {
+        "value": "通行凭信",
+        "docId": "plot.xianni-681-wang-ping",
+        "seq": 641
       }
     ],
     "用途": [
@@ -24,6 +31,11 @@
         "value": "开启罗天星域修士所设的废弃传送阵",
         "docId": "plot.xianni-ch618-620-scroll-woman-luotian-star-region-seal",
         "seq": 618
+      },
+      {
+        "value": "进入千幻星所在星域的必需之物",
+        "docId": "plot.xianni-681-wang-ping",
+        "seq": 641
       }
     ],
     "产地": [
@@ -38,15 +50,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch618-620-scroll-woman-luotian-star-region-seal",
+      "docId": "plot.xianni-681-wang-ping",
       "dated": false,
-      "seq": 618
+      "seq": 641
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch618-620-scroll-woman-luotian-star-region-seal",
+      "docId": "plot.xianni-681-wang-ping",
       "dated": false,
-      "seq": 618
+      "seq": 641
     },
     "产地": {
       "asOf": null,
@@ -58,7 +70,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch618-620-scroll-woman-luotian-star-region-seal"
+    "plot.xianni-ch618-620-scroll-woman-luotian-star-region-seal",
+    "plot.xianni-681-wang-ping"
   ],
-  "updatedAt": "2026-08-22T21:02:35.270Z"
+  "updatedAt": "2026-08-22T23:25:41.418Z"
 }
