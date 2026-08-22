@@ -8,13 +8,15 @@
     "妖将之战广场",
     "广场",
     "燕京万丈广场",
-    "妖将战广场"
+    "妖将战广场",
+    "天妖城万丈广场",
+    "敲鼓广场"
   ],
   "summary": "燕京天妖门下的巨大广场，妖将之战的战场；有强大阵法守护不易损坏，设东部九层文臣高架与南北两侧八层帅位高架，正中置天妖鼓。",
   "attributes": {
-    "上级区域": "燕京",
-    "类型": "广场 / 演武战场、比武广场、比试广场",
-    "守护": "处处禁制",
+    "上级区域": "天妖城",
+    "类型": "广场 / 演武战场、比武广场、比试广场、校场/试炼广场",
+    "守护": "妖鼓",
     "所属势力": "天妖门",
     "规模": "万丈"
   },
@@ -24,6 +26,11 @@
         "value": "燕京",
         "docId": "plot.xianni-ch578-slaughter-dao",
         "seq": 548
+      },
+      {
+        "value": "天妖城",
+        "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+        "seq": 551
       }
     ],
     "类型": [
@@ -41,6 +48,11 @@
         "value": "比试广场",
         "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
         "seq": 550
+      },
+      {
+        "value": "校场/试炼广场",
+        "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+        "seq": 551
       }
     ],
     "守护": [
@@ -53,6 +65,11 @@
         "value": "处处禁制",
         "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
         "seq": 550
+      },
+      {
+        "value": "妖鼓",
+        "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+        "seq": 551
       }
     ],
     "所属势力": [
@@ -74,9 +91,9 @@
   "attrProvenance": {
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch578-slaughter-dao",
+      "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
       "dated": false,
-      "seq": 548
+      "seq": 551
     },
     "类型": {
       "asOf": null,
@@ -86,9 +103,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
+      "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
       "dated": false,
-      "seq": 550
+      "seq": 551
     },
     "所属势力": {
       "asOf": null,
@@ -109,7 +126,8 @@
     "plot.xianni-ch578-slaughter-dao",
     "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
     "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
-    "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum"
+    "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
+    "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui"
   ],
-  "updatedAt": "2026-08-22T11:46:59.276Z"
+  "updatedAt": "2026-08-22T12:06:29.166Z"
 }

@@ -9,8 +9,10 @@
   "summary": "妖将之中唯一的女性，三百年前妖将之战带伤出战仍获第四；传闻若其无伤，墨非的第一会出现变故。",
   "attributes": {
     "性别": "女",
-    "身份": "妖将（妖将中唯一女性）",
-    "称号": "妖仙"
+    "身份": "妖将（妖将中唯一女性）、妖将、天妖郡妖将",
+    "称号": "妖仙",
+    "外貌": "紫红色暴露铠甲、头盔遮面",
+    "标志特征": "黑色纹身自雪颈穿胸延至下腰、妖将中唯一女性"
   },
   "observations": {
     "性别": [
@@ -25,6 +27,16 @@
         "value": "妖将（妖将中唯一女性）",
         "docId": "plot.xianni-ch578-slaughter-dao",
         "seq": 548
+      },
+      {
+        "value": "妖将",
+        "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+        "seq": 551
+      },
+      {
+        "value": "天妖郡妖将",
+        "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+        "seq": 551
       }
     ],
     "称号": [
@@ -32,6 +44,25 @@
         "value": "妖仙",
         "docId": "plot.xianni-ch578-slaughter-dao",
         "seq": 548
+      }
+    ],
+    "外貌": [
+      {
+        "value": "紫红色暴露铠甲、头盔遮面",
+        "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+        "seq": 551
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "黑色纹身自雪颈穿胸延至下腰",
+        "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+        "seq": 551
+      },
+      {
+        "value": "妖将中唯一女性",
+        "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+        "seq": 551
       }
     ]
   },
@@ -54,12 +85,25 @@
       "docId": "plot.xianni-ch578-slaughter-dao",
       "dated": false,
       "seq": 548
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+      "dated": false,
+      "seq": 551
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+      "dated": false,
+      "seq": 551
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch578-slaughter-dao"
+    "plot.xianni-ch578-slaughter-dao",
+    "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui"
   ],
-  "updatedAt": "2026-08-22T10:22:20.711Z"
+  "updatedAt": "2026-08-22T12:06:29.190Z"
 }

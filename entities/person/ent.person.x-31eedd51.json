@@ -5,14 +5,18 @@
   "aliases": [
     "天帅大人",
     "天妖郡天帅",
-    "夭帅"
+    "夭帅",
+    "妖帅天帅",
+    "八位妖帅之首天帅"
   ],
   "summary": "天妖郡的最高统帅级人物，是迄今唯一能将战妖鼓敲出十五下者。",
   "attributes": {
     "称号": "天帅",
-    "阵营": "妖灵之地·天妖郡",
-    "身份": "妖帅（八妖帅之首）",
-    "性格": "始终平静"
+    "阵营": "天妖郡",
+    "身份": "妖帅（八妖帅之首）、天帅、妖帅、天妖郡妖帅、妖帅之首",
+    "性格": "始终平静",
+    "标志特征": "始终闭目",
+    "出身地": "修士出身"
   },
   "observations": {
     "称号": [
@@ -27,6 +31,11 @@
         "value": "妖灵之地·天妖郡",
         "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
         "seq": 550
+      },
+      {
+        "value": "天妖郡",
+        "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+        "seq": 551
       }
     ],
     "身份": [
@@ -34,6 +43,26 @@
         "value": "妖帅（八妖帅之首）",
         "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
         "seq": 550
+      },
+      {
+        "value": "天帅",
+        "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+        "seq": 551
+      },
+      {
+        "value": "妖帅",
+        "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+        "seq": 551
+      },
+      {
+        "value": "天妖郡妖帅",
+        "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+        "seq": 551
+      },
+      {
+        "value": "妖帅之首",
+        "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+        "seq": 551
       }
     ],
     "性格": [
@@ -41,6 +70,21 @@
         "value": "始终平静",
         "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
         "seq": 550
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "始终闭目",
+        "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+        "seq": 551
+      }
+    ],
+    "出身地": [
+      {
+        "value": "修士出身",
+        "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+        "seq": 551,
+        "note": "妖帝不问出身而擢用"
       }
     ]
   },
@@ -54,9 +98,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
+      "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
       "dated": false,
-      "seq": 550
+      "seq": 551
     },
     "身份": {
       "asOf": null,
@@ -69,12 +113,26 @@
       "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
       "dated": false,
       "seq": 550
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+      "dated": false,
+      "seq": 551
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+      "dated": false,
+      "seq": 551,
+      "note": "妖帝不问出身而擢用"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum"
+    "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
+    "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui"
   ],
-  "updatedAt": "2026-08-22T11:46:59.322Z"
+  "updatedAt": "2026-08-22T12:06:29.210Z"
 }

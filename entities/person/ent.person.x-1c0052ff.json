@@ -13,15 +13,20 @@
     "金甲总管",
     "广场金甲男子",
     "主持妖将战的金甲男子",
-    "主持金甲男子"
+    "主持金甲男子",
+    "金某",
+    "妖鼓司仪金甲男子",
+    "金甲修士",
+    "赌约者金甲男子"
   ],
   "summary": "自广场后方宫殿走出，奉帝君之命宣布妖将之战规则并负责点名竞战之人。",
   "attributes": {
-    "身份": "妖将之战主持者、妖将之战主持/裁判、妖灵地高位者·被王林称『大人』、总管、妖将之战主持/裁决者、妖鼓试炼主持者、总管（主持选拔）",
-    "外貌": "身穿金色铠甲、身穿金甲、身着金甲、一身金甲",
-    "阵营": "帝君麾下、妖灵之地·天妖郡",
+    "身份": "妖将之战主持者、妖将之战主持/裁判、妖灵地高位者·被王林称『大人』、总管、妖将之战主持/裁决者、妖鼓试炼主持者、总管（主持选拔）、妖鼓擂台主持总管、妖帝近侍/敲鼓监督者、与王林对赌者",
+    "外貌": "身穿金色铠甲、身穿金甲、身着金甲、一身金甲、金甲",
+    "阵营": "帝君麾下、妖灵之地·天妖郡、轻视并敌视王林",
     "标志特征": "自天空太阳凝聚金芒化作金色长枪、身披金甲、阉人",
-    "性格": "阴森、以大欺小、冷漠、护短、敌视修士"
+    "性格": "阴森、以大欺小、冷漠、护短、敌视修士、气量狭窄、阴森",
+    "小阶段": "问鼎中期巅峰"
   },
   "observations": {
     "身份": [
@@ -60,6 +65,21 @@
         "value": "总管（主持选拔）",
         "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
         "seq": 550
+      },
+      {
+        "value": "妖鼓擂台主持总管",
+        "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+        "seq": 551
+      },
+      {
+        "value": "妖帝近侍/敲鼓监督者",
+        "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+        "seq": 551
+      },
+      {
+        "value": "与王林对赌者",
+        "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+        "seq": 551
       }
     ],
     "外貌": [
@@ -82,6 +102,11 @@
         "value": "一身金甲",
         "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
         "seq": 550
+      },
+      {
+        "value": "金甲",
+        "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+        "seq": 551
       }
     ],
     "阵营": [
@@ -94,6 +119,11 @@
         "value": "妖灵之地·天妖郡",
         "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
         "seq": 550
+      },
+      {
+        "value": "轻视并敌视王林",
+        "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+        "seq": 551
       }
     ],
     "标志特征": [
@@ -123,6 +153,18 @@
         "value": "冷漠、护短、敌视修士",
         "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
         "seq": 550
+      },
+      {
+        "value": "气量狭窄、阴森",
+        "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+        "seq": 551
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "问鼎中期巅峰",
+        "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+        "seq": 551
       }
     ]
   },
@@ -157,6 +199,12 @@
       "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
       "dated": false,
       "seq": 550
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+      "dated": false,
+      "seq": 551
     }
   },
   "contested": false,
@@ -164,7 +212,8 @@
   "docs": [
     "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
     "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
-    "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum"
+    "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
+    "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui"
   ],
-  "updatedAt": "2026-08-22T11:46:59.319Z"
+  "updatedAt": "2026-08-22T12:06:29.188Z"
 }
