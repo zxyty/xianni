@@ -5,13 +5,15 @@
   "aliases": [
     "头生单角的黑影",
     "护腕黑影",
-    "拳头大小黑影"
+    "拳头大小黑影",
+    "头上单角的黑影"
   ],
   "summary": "由护腕魔焰幻化而出、拳头大小、头生单角、通体漆黑的魔性存在，以历啸音爆攻元神并钻入王林体内，最终被黄泉指灭杀。",
   "attributes": {
-    "能力": "历啸形成音爆攻元神、钻入他人体内化魔气撼元神、崩溃后化细丝重新凝形",
-    "外形": "拳头大小，头生单角，通体漆黑",
-    "栖息地": "附于护腕之内"
+    "能力": "历啸形成音爆攻元神、钻入他人体内化魔气撼元神、崩溃后化细丝重新凝形、钻入眉心令受者臣服为魔仆",
+    "外形": "拳头大小，头生单角，通体漆黑、手臂大小、头上单角的黑影",
+    "栖息地": "附于护腕之内",
+    "主人": "铠甲男"
   },
   "observations": {
     "能力": [
@@ -29,6 +31,11 @@
         "value": "崩溃后化细丝重新凝形",
         "docId": "plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer",
         "seq": 561
+      },
+      {
+        "value": "钻入眉心令受者臣服为魔仆",
+        "docId": "plot.xianni-ch604-ten-years-enlightenment-dao-yellow-springs",
+        "seq": 561
       }
     ],
     "外形": [
@@ -36,12 +43,24 @@
         "value": "拳头大小，头生单角，通体漆黑",
         "docId": "plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer",
         "seq": 561
+      },
+      {
+        "value": "手臂大小、头上单角的黑影",
+        "docId": "plot.xianni-ch604-ten-years-enlightenment-dao-yellow-springs",
+        "seq": 561
       }
     ],
     "栖息地": [
       {
         "value": "附于护腕之内",
         "docId": "plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer",
+        "seq": 561
+      }
+    ],
+    "主人": [
+      {
+        "value": "铠甲男",
+        "docId": "plot.xianni-ch604-ten-years-enlightenment-dao-yellow-springs",
         "seq": 561
       }
     ]
@@ -65,12 +84,19 @@
       "docId": "plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer",
       "dated": false,
       "seq": 561
+    },
+    "主人": {
+      "asOf": null,
+      "docId": "plot.xianni-ch604-ten-years-enlightenment-dao-yellow-springs",
+      "dated": false,
+      "seq": 561
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer"
+    "plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer",
+    "plot.xianni-ch604-ten-years-enlightenment-dao-yellow-springs"
   ],
-  "updatedAt": "2026-08-22T13:46:45.314Z"
+  "updatedAt": "2026-08-22T13:54:22.730Z"
 }

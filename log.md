@@ -153,3 +153,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T13:46:45.435Z** `ingest` plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer — 第601章 一滴——万枚升仙果凝一滴，逼出护腕魔影 · kind=plot asOf=2026-08-22 entities=20 relations=23 src=00561-00565.p2.md
 - **2026-08-22T13:48:38.672Z** `ingest` plot.xianni-ch602-crazed-battle-intent — 第602章 疯狂的战意——王林吞升仙果与仙液，寂灭掠生直扑黑塔 · kind=plot asOf=2026-08-22 entities=19 relations=25 src=00561-00565.p3.md
 - **2026-08-22T13:51:23.070Z** `ingest` plot.xianni-ch603-there-is-killing-intent — 第603章 有杀气……——王林血洗火妖郡，万妖山十万妖兵围剿 · kind=plot asOf=2026-08-22 entities=26 relations=43 src=00561-00565.p4.md
+- **2026-08-22T13:54:22.856Z** `ingest` plot.xianni-ch604-ten-years-enlightenment-dao-yellow-springs — 第604章 十年顿悟，道化黄泉：王林开辟黄泉之河、灭副帅，铠甲男遣魔仆与三妖卫阻路 · kind=plot asOf=2026-08-22 entities=30 relations=45 src=00561-00565.p5.md
