@@ -10,8 +10,8 @@
   ],
   "summary": "酒壶内所装的仙液，入体后仙力如雷霆轰动经脉，需强化过的经脉方可承受。",
   "attributes": {
-    "类型": "仙家液体",
-    "用途": "自爆时随元神燃烧沸腾，倍增威力",
+    "类型": "仙界液体",
+    "用途": "瞬间赋予难以想象的仙力、自爆时随元神燃烧沸腾，倍增威力、持续补充仙力",
     "稀有度": "极稀有"
   },
   "observations": {
@@ -20,6 +20,11 @@
         "value": "仙家液体",
         "docId": "plot.xianni-ch602-crazed-battle-intent",
         "seq": 561
+      },
+      {
+        "value": "仙界液体",
+        "docId": "plot.xianni-ch609-ancient-yao-blood-shadow",
+        "seq": 566
       }
     ],
     "用途": [
@@ -31,6 +36,11 @@
       {
         "value": "自爆时随元神燃烧沸腾，倍增威力",
         "docId": "plot.xianni-ch608-blood-soul-pill-self-destruct",
+        "seq": 566
+      },
+      {
+        "value": "持续补充仙力",
+        "docId": "plot.xianni-ch609-ancient-yao-blood-shadow",
         "seq": 566
       }
     ],
@@ -51,15 +61,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch602-crazed-battle-intent",
+      "docId": "plot.xianni-ch609-ancient-yao-blood-shadow",
       "dated": false,
-      "seq": 561
+      "seq": 566
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch608-blood-soul-pill-self-destruct",
+      "docId": "plot.xianni-ch602-crazed-battle-intent",
       "dated": false,
-      "seq": 566
+      "seq": 561
     },
     "稀有度": {
       "asOf": null,
@@ -72,7 +82,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch602-crazed-battle-intent",
-    "plot.xianni-ch608-blood-soul-pill-self-destruct"
+    "plot.xianni-ch608-blood-soul-pill-self-destruct",
+    "plot.xianni-ch609-ancient-yao-blood-shadow"
   ],
-  "updatedAt": "2026-08-22T14:55:30.724Z"
+  "updatedAt": "2026-08-22T14:58:15.113Z"
 }
