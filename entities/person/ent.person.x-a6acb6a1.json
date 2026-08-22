@@ -8,13 +8,16 @@
     "赵兄",
     "玄冰内修炼的中年男子",
     "逍遥散人前辈",
-    "散人逍遥"
+    "散人逍遥",
+    "逍遥"
   ],
   "summary": "四年前与孙析、冉家老祖共同偷袭幻家修士的三人之一，分得一粒八品丹药。",
   "attributes": {
-    "身份": "散修 / 小家族修士、散修、散修，冉云星三方势力之一",
+    "身份": "散修 / 小家族修士、散修、散修，冉云星三方势力之一、散修老祖",
     "外貌": "中年男子",
-    "标志特征": "曾在玄冰内修炼"
+    "标志特征": "曾在玄冰内修炼",
+    "性别": "男",
+    "阵营": "冉云星本土三家"
   },
   "observations": {
     "身份": [
@@ -32,6 +35,11 @@
         "value": "散修，冉云星三方势力之一",
         "docId": "plot.xianni-ch673-yunxia-jinyan-mine-huandong-arrives",
         "seq": 631
+      },
+      {
+        "value": "散修老祖",
+        "docId": "plot.xianni-ch677-wolf-smoke-rises",
+        "seq": 636
       }
     ],
     "外貌": [
@@ -46,6 +54,20 @@
         "value": "曾在玄冰内修炼",
         "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
         "seq": 631
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch677-wolf-smoke-rises",
+        "seq": 636
+      }
+    ],
+    "阵营": [
+      {
+        "value": "冉云星本土三家",
+        "docId": "plot.xianni-ch677-wolf-smoke-rises",
+        "seq": 636
       }
     ]
   },
@@ -68,6 +90,18 @@
       "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
       "dated": false,
       "seq": 631
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch677-wolf-smoke-rises",
+      "dated": false,
+      "seq": 636
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch677-wolf-smoke-rises",
+      "dated": false,
+      "seq": 636
     }
   },
   "contested": false,
@@ -75,7 +109,8 @@
   "docs": [
     "plot.xianni-ch668-four-years-ago-cause-baohe-auction",
     "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
-    "plot.xianni-ch673-yunxia-jinyan-mine-huandong-arrives"
+    "plot.xianni-ch673-yunxia-jinyan-mine-huandong-arrives",
+    "plot.xianni-ch677-wolf-smoke-rises"
   ],
-  "updatedAt": "2026-08-22T23:00:27.888Z"
+  "updatedAt": "2026-08-22T23:16:03.489Z"
 }
