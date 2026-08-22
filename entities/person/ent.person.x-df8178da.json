@@ -5,12 +5,15 @@
   "aliases": [
     "地星少主之妹",
     "孙云山之妹",
-    "孙家妹妹"
+    "孙家妹妹",
+    "舍妹",
+    "孙云山舍妹"
   ],
   "summary": "地星少主孙云山的妹妹，偷偷跟来；作者在章末提及可能安排其于古妖城与王林发生情节。",
   "attributes": {
     "性别": "女",
-    "身份": "孙云山之妹，在修士联盟中有可资倚仗的情面"
+    "身份": "修士联盟成员",
+    "阵营": "修士联盟"
   },
   "observations": {
     "性别": [
@@ -25,6 +28,18 @@
         "value": "孙云山之妹，在修士联盟中有可资倚仗的情面",
         "docId": "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
         "seq": 576
+      },
+      {
+        "value": "修士联盟成员",
+        "docId": "plot.xianni-ch620-immortal-realm-artifact-xianwei-xianzhong",
+        "seq": 581
+      }
+    ],
+    "阵营": [
+      {
+        "value": "修士联盟",
+        "docId": "plot.xianni-ch620-immortal-realm-artifact-xianwei-xianzhong",
+        "seq": 581
       }
     ]
   },
@@ -38,16 +53,23 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
+      "docId": "plot.xianni-ch620-immortal-realm-artifact-xianwei-xianzhong",
       "dated": false,
-      "seq": 576
+      "seq": 581
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch620-immortal-realm-artifact-xianwei-xianzhong",
+      "dated": false,
+      "seq": 581
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
-    "plot.xianni-ch618-new-change-silver-horn-thunder-beast"
+    "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
+    "plot.xianni-ch620-immortal-realm-artifact-xianwei-xianzhong"
   ],
-  "updatedAt": "2026-08-22T16:36:28.901Z"
+  "updatedAt": "2026-08-22T16:41:07.773Z"
 }

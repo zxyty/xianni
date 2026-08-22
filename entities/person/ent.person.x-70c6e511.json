@@ -3,12 +3,15 @@
   "type": "person",
   "name": "修士联盟老祖",
   "aliases": [
-    "联盟老祖"
+    "联盟老祖",
+    "仙界老祖"
   ],
   "summary": "修士联盟高层，为此次擒拿王林特意派出一名仙卫随队。",
   "attributes": {
     "身份": "修士联盟老祖",
-    "阵营": "修士联盟"
+    "阵营": "修士联盟",
+    "称号": "仙界老祖",
+    "元神强度": "修为高深莫测，一个神通即制住四名修士"
   },
   "observations": {
     "身份": [
@@ -23,6 +26,20 @@
         "value": "修士联盟",
         "docId": "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
         "seq": 576
+      }
+    ],
+    "称号": [
+      {
+        "value": "仙界老祖",
+        "docId": "plot.xianni-ch620-immortal-realm-artifact-xianwei-xianzhong",
+        "seq": 581
+      }
+    ],
+    "元神强度": [
+      {
+        "value": "修为高深莫测，一个神通即制住四名修士",
+        "docId": "plot.xianni-ch620-immortal-realm-artifact-xianwei-xianzhong",
+        "seq": 581
       }
     ]
   },
@@ -39,12 +56,25 @@
       "docId": "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
       "dated": false,
       "seq": 576
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch620-immortal-realm-artifact-xianwei-xianzhong",
+      "dated": false,
+      "seq": 581
+    },
+    "元神强度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch620-immortal-realm-artifact-xianwei-xianzhong",
+      "dated": false,
+      "seq": 581
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch618-new-change-silver-horn-thunder-beast"
+    "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
+    "plot.xianni-ch620-immortal-realm-artifact-xianwei-xianzhong"
   ],
-  "updatedAt": "2026-08-22T16:36:28.902Z"
+  "updatedAt": "2026-08-22T16:41:07.771Z"
 }
