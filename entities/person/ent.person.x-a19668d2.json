@@ -6,16 +6,18 @@
     "金衣冷傲男子",
     "金芒男子",
     "尊者",
-    "修士联盟金衣尊者"
+    "修士联盟金衣尊者",
+    "一身金衣的男子",
+    "修士联盟小队队长"
   ],
   "summary": "率众直扑炼魂部落的年轻金衣修士，全身笼罩金芒，一脸冷傲，冷哼质问许云山。",
   "attributes": {
     "性别": "男",
-    "外貌": "身穿金衣、全身笼罩金芒，年纪不大、身泛金芒的金衣男子",
-    "性格": "冷傲、冷厉、居高临下",
+    "外貌": "身穿金衣、全身笼罩金芒，年纪不大、身泛金芒的金衣男子、一身金衣",
+    "性格": "冷傲、冷厉、居高临下、阴沉、戾气重、色厉内荏",
     "称号": "尊者",
-    "身份": "修士联盟擒拿王林行动的指挥者",
-    "阵营": "修士联盟"
+    "身份": "修士联盟小队队长",
+    "阵营": "修真联盟"
   },
   "observations": {
     "性别": [
@@ -35,6 +37,11 @@
         "value": "身泛金芒的金衣男子",
         "docId": "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
         "seq": 576
+      },
+      {
+        "value": "一身金衣",
+        "docId": "plot.xianni-ch619-give-me-down-refining-soul-tribe-defense",
+        "seq": 581
       }
     ],
     "性格": [
@@ -47,6 +54,11 @@
         "value": "冷厉、居高临下",
         "docId": "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
         "seq": 576
+      },
+      {
+        "value": "阴沉、戾气重、色厉内荏",
+        "docId": "plot.xianni-ch619-give-me-down-refining-soul-tribe-defense",
+        "seq": 581
       }
     ],
     "称号": [
@@ -61,6 +73,12 @@
         "value": "修士联盟擒拿王林行动的指挥者",
         "docId": "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
         "seq": 576
+      },
+      {
+        "value": "修士联盟小队队长",
+        "docId": "plot.xianni-ch619-give-me-down-refining-soul-tribe-defense",
+        "seq": 581,
+        "note": "第619章"
       }
     ],
     "阵营": [
@@ -68,6 +86,11 @@
         "value": "修士联盟",
         "docId": "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
         "seq": 576
+      },
+      {
+        "value": "修真联盟",
+        "docId": "plot.xianni-ch619-give-me-down-refining-soul-tribe-defense",
+        "seq": 581
       }
     ]
   },
@@ -99,21 +122,23 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
+      "docId": "plot.xianni-ch619-give-me-down-refining-soul-tribe-defense",
       "dated": false,
-      "seq": 576
+      "seq": 581,
+      "note": "第619章"
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
+      "docId": "plot.xianni-ch619-give-me-down-refining-soul-tribe-defense",
       "dated": false,
-      "seq": 576
+      "seq": 581
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch618-new-change-silver-horn-thunder-beast"
+    "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
+    "plot.xianni-ch619-give-me-down-refining-soul-tribe-defense"
   ],
-  "updatedAt": "2026-08-22T16:36:28.898Z"
+  "updatedAt": "2026-08-22T16:38:49.601Z"
 }
