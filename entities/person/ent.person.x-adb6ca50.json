@@ -10,11 +10,12 @@
   ],
   "summary": "紫发妖异、右脸有翻起疤痕的邪凶青年，神通为六指剑诀，人称「六指妖剑」，为莫厉海妖将之争的劲敌之一，与孙涛相识已久并为其搜集炼丹材料。",
   "attributes": {
-    "外貌": "青色铠甲、紫发飘动、面孔妖异俊美，右脸一道翻起疤痕",
+    "外貌": "相貌妖异",
     "称号": "六指妖剑",
-    "标志特征": "右脸翻起的疤痕、邪凶之气",
-    "阵营": "天妖城妖族",
-    "身份": "妖将"
+    "标志特征": "脸上疤痕（三百年前莫厉海所留，视为此生最大侮辱）",
+    "阵营": "妖灵之地妖将阵营",
+    "身份": "妖将",
+    "性格": "阴森好杀"
   },
   "observations": {
     "外貌": [
@@ -22,6 +23,11 @@
         "value": "青色铠甲、紫发飘动、面孔妖异俊美，右脸一道翻起疤痕",
         "docId": "plot.xianni-ch569-luanjing-preface-tianyao-city",
         "seq": 542
+      },
+      {
+        "value": "相貌妖异",
+        "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
+        "seq": 550
       }
     ],
     "称号": [
@@ -36,6 +42,11 @@
         "value": "右脸翻起的疤痕、邪凶之气",
         "docId": "plot.xianni-ch569-luanjing-preface-tianyao-city",
         "seq": 542
+      },
+      {
+        "value": "脸上疤痕（三百年前莫厉海所留，视为此生最大侮辱）",
+        "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
+        "seq": 550
       }
     ],
     "阵营": [
@@ -48,6 +59,11 @@
         "value": "天妖城妖族",
         "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
         "seq": 544
+      },
+      {
+        "value": "妖灵之地妖将阵营",
+        "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
+        "seq": 550
       }
     ],
     "身份": [
@@ -56,15 +72,22 @@
         "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
         "seq": 544
       }
+    ],
+    "性格": [
+      {
+        "value": "阴森好杀",
+        "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
+        "seq": 550
+      }
     ]
   },
   "firstSeq": 542,
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch569-luanjing-preface-tianyao-city",
+      "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
       "dated": false,
-      "seq": 542
+      "seq": 550
     },
     "称号": {
       "asOf": null,
@@ -74,21 +97,27 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch569-luanjing-preface-tianyao-city",
+      "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
       "dated": false,
-      "seq": 542
+      "seq": 550
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
+      "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
       "dated": false,
-      "seq": 544
+      "seq": 550
     },
     "身份": {
       "asOf": null,
       "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
       "dated": false,
       "seq": 544
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
+      "dated": false,
+      "seq": 550
     }
   },
   "contested": false,
@@ -96,7 +125,8 @@
   "docs": [
     "plot.xianni-ch569-luanjing-preface-tianyao-city",
     "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
-    "plot.xianni-ch578-slaughter-dao"
+    "plot.xianni-ch578-slaughter-dao",
+    "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu"
   ],
-  "updatedAt": "2026-08-22T10:22:20.709Z"
+  "updatedAt": "2026-08-22T11:18:43.314Z"
 }

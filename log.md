@@ -139,3 +139,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T09:50:47.542Z** `ingest` plot.xianni-ch544-545-hongprison-slaughter-immortal-art — 仙逆 第544-545章 强颜·杀戮仙诀——洪牢求杀心 · kind=plot asOf=2026-08-22 entities=45 relations=95 src=00544-00545.md
 - **2026-08-22T10:03:29.958Z** `ingest` plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai — 仙逆 第576章 王林，向我全力出手！——妖将大比前夜拜访玄城副帅 · kind=plot asOf=2026-08-22 entities=43 relations=88 src=00546-00547.md
 - **2026-08-22T10:22:20.848Z** `ingest` plot.xianni-ch578-slaughter-dao — 仙逆 第578章 杀戮道！！——王林河畔听琴，寂灭指连诛黑衣杀手 · kind=plot asOf=2026-08-22 entities=73 relations=145 src=00548-00549.md
+- **2026-08-22T11:18:43.439Z** `ingest` plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu — 仙逆 第582章 王林出列：妖将之战开幕，石萧连败暮云与天魁上人 · kind=plot asOf=2026-08-22 entities=31 relations=50 src=00550-00550.p1a.md

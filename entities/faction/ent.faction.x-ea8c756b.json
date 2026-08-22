@@ -2,11 +2,14 @@
   "id": "ent.faction.x-ea8c756b",
   "type": "faction",
   "name": "天妖门",
-  "aliases": [],
+  "aliases": [
+    "妖将出场之门"
+  ],
   "summary": "位于燕京的势力/门庭，其下万丈广场为妖将之战战场与天妖鼓所在。",
   "attributes": {
     "据点": "燕京",
-    "所属界面": "妖灵之地"
+    "所属界面": "妖灵之地",
+    "阵营": "妖族/妖灵之地"
   },
   "observations": {
     "据点": [
@@ -21,6 +24,13 @@
         "value": "妖灵之地",
         "docId": "plot.xianni-ch578-slaughter-dao",
         "seq": 548
+      }
+    ],
+    "阵营": [
+      {
+        "value": "妖族/妖灵之地",
+        "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
+        "seq": 550
       }
     ]
   },
@@ -37,12 +47,19 @@
       "docId": "plot.xianni-ch578-slaughter-dao",
       "dated": false,
       "seq": 548
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
+      "dated": false,
+      "seq": 550
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch578-slaughter-dao"
+    "plot.xianni-ch578-slaughter-dao",
+    "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu"
   ],
-  "updatedAt": "2026-08-22T10:22:20.724Z"
+  "updatedAt": "2026-08-22T11:18:43.327Z"
 }
