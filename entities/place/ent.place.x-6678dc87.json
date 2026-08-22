@@ -4,14 +4,18 @@
   "name": "冉云星",
   "aliases": [
     "冉云星辰",
-    "冉云星球"
+    "冉云星球",
+    "Ran Yun Star"
   ],
   "summary": "本章战场所在的星辰，村落与西部平原皆在其上；王林雷球轰崩铁棍的余波使整颗星辰震颤、名山巨峰坍塌。",
   "attributes": {
-    "类型": "星辰、星球、星辰/隐居地",
+    "类型": "星辰、星球、星辰/隐居地、修真星",
     "规模": "拥有村落、平原与大量名山巨峰",
     "危险度": "高（雷仙殿使者临星调查）",
-    "守护": "王林（许木）"
+    "守护": "王林（许木）",
+    "所属界面": "罗天星域",
+    "方位": "距救援处正北方约十日星路",
+    "所属势力": "冉家、孙家"
   },
   "observations": {
     "类型": [
@@ -29,6 +33,11 @@
         "value": "星辰/隐居地",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
+      },
+      {
+        "value": "修真星",
+        "docId": "plot.xianni-ch660-first-entry-luoyun-star-domain",
+        "seq": 618
       }
     ],
     "规模": [
@@ -51,15 +60,42 @@
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
       }
+    ],
+    "所属界面": [
+      {
+        "value": "罗天星域",
+        "docId": "plot.xianni-ch660-first-entry-luoyun-star-domain",
+        "seq": 618
+      }
+    ],
+    "方位": [
+      {
+        "value": "距救援处正北方约十日星路",
+        "docId": "plot.xianni-ch660-first-entry-luoyun-star-domain",
+        "seq": 618,
+        "note": "孙雪山所述"
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "冉家",
+        "docId": "plot.xianni-ch660-first-entry-luoyun-star-domain",
+        "seq": 618
+      },
+      {
+        "value": "孙家",
+        "docId": "plot.xianni-ch660-first-entry-luoyun-star-domain",
+        "seq": 618
+      }
     ]
   },
-  "firstSeq": 661,
+  "firstSeq": 618,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+      "docId": "plot.xianni-ch660-first-entry-luoyun-star-domain",
       "dated": false,
-      "seq": 661
+      "seq": 618
     },
     "规模": {
       "asOf": null,
@@ -78,12 +114,32 @@
       "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
       "dated": false,
       "seq": 661
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch660-first-entry-luoyun-star-domain",
+      "dated": false,
+      "seq": 618
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch660-first-entry-luoyun-star-domain",
+      "dated": false,
+      "seq": 618,
+      "note": "孙雪山所述"
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch660-first-entry-luoyun-star-domain",
+      "dated": false,
+      "seq": 618
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power"
+    "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+    "plot.xianni-ch660-first-entry-luoyun-star-domain"
   ],
-  "updatedAt": "2026-08-17T14:25:16.424Z"
+  "updatedAt": "2026-08-22T21:12:19.036Z"
 }
