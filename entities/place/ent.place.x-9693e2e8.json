@@ -11,17 +11,18 @@
     "通体漆黑的高塔",
     "黑堵",
     "远古战场黑塔",
-    "远古战场中的黑塔"
+    "远古战场中的黑塔",
+    "黑色高塔"
   ],
   "summary": "五行之地中通体黑石、吸光不反照、高度沿直线递增的塔；土行黑塔共三层，第三层桌面有前人留字，可供避风与查探痕迹。",
   "attributes": {
-    "类型": "关内避难/标记塔、塔、高塔、塔／据点、远古遗迹/塔、古塔",
+    "类型": "关内避难/标记塔、塔、高塔、塔／据点、远古遗迹/塔、古塔、高塔/秘地",
     "上级区域": "远古战场",
     "所属势力": "无",
-    "方位": "古战场深处",
+    "方位": "王林所在战场的远处",
     "规模": "高约数十丈",
-    "危险度": "极高（幽芒现则天地颤）",
-    "守护": "塔内铠甲及其意志"
+    "危险度": "极高（魔气浓烈，塔内为绝代强者）",
+    "守护": "黑甲老者"
   },
   "observations": {
     "类型": [
@@ -54,6 +55,11 @@
         "value": "古塔",
         "docId": "plot.xianni-ch602-crazed-battle-intent",
         "seq": 561
+      },
+      {
+        "value": "高塔/秘地",
+        "docId": "plot.xianni-ch606-qingxing-hupao-yihun-fumeng",
+        "seq": 566
       }
     ],
     "上级区域": [
@@ -85,6 +91,11 @@
         "value": "古战场深处",
         "docId": "plot.xianni-ch566-hupao-elder-and-armor",
         "seq": 537
+      },
+      {
+        "value": "王林所在战场的远处",
+        "docId": "plot.xianni-ch606-qingxing-hupao-yihun-fumeng",
+        "seq": 566
       }
     ],
     "规模": [
@@ -99,6 +110,11 @@
         "value": "极高（幽芒现则天地颤）",
         "docId": "plot.xianni-ch566-hupao-elder-and-armor",
         "seq": 537
+      },
+      {
+        "value": "极高（魔气浓烈，塔内为绝代强者）",
+        "docId": "plot.xianni-ch606-qingxing-hupao-yihun-fumeng",
+        "seq": 566
       }
     ],
     "守护": [
@@ -106,6 +122,11 @@
         "value": "塔内铠甲及其意志",
         "docId": "plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer",
         "seq": 561
+      },
+      {
+        "value": "黑甲老者",
+        "docId": "plot.xianni-ch606-qingxing-hupao-yihun-fumeng",
+        "seq": 566
       }
     ]
   },
@@ -131,9 +152,9 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch566-hupao-elder-and-armor",
+      "docId": "plot.xianni-ch606-qingxing-hupao-yihun-fumeng",
       "dated": false,
-      "seq": 537
+      "seq": 566
     },
     "规模": {
       "asOf": null,
@@ -143,15 +164,15 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch566-hupao-elder-and-armor",
+      "docId": "plot.xianni-ch606-qingxing-hupao-yihun-fumeng",
       "dated": false,
-      "seq": 537
+      "seq": 566
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer",
+      "docId": "plot.xianni-ch606-qingxing-hupao-yihun-fumeng",
       "dated": false,
-      "seq": 561
+      "seq": 566
     }
   },
   "contested": false,
@@ -165,7 +186,8 @@
     "plot.xianni-ch598-wending-crystal",
     "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm",
     "plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer",
-    "plot.xianni-ch602-crazed-battle-intent"
+    "plot.xianni-ch602-crazed-battle-intent",
+    "plot.xianni-ch606-qingxing-hupao-yihun-fumeng"
   ],
-  "updatedAt": "2026-08-22T13:48:38.550Z"
+  "updatedAt": "2026-08-22T14:50:17.687Z"
 }

@@ -5,15 +5,17 @@
   "aliases": [
     "古妖城黑牢",
     "吉妖城黑牢",
-    "那黑牢"
+    "那黑牢",
+    "九郡黑牢",
+    "最残酷的黑牢"
   ],
   "summary": "古妖城中守卫森严的牢狱，虎咆被废修为投入其中，三个月后神秘失踪，连司马炎也不知缘由。",
   "attributes": {
-    "上级区域": "古妖城",
+    "上级区域": "天下九郡",
     "类型": "囚牢",
     "守护": "阵法封印",
     "方位": "古妖城地下",
-    "危险度": "深处有封印限制"
+    "危险度": "极高（受尽折磨与侮辱）"
   },
   "observations": {
     "上级区域": [
@@ -21,6 +23,11 @@
         "value": "古妖城",
         "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
         "seq": 534
+      },
+      {
+        "value": "天下九郡",
+        "docId": "plot.xianni-ch606-qingxing-hupao-yihun-fumeng",
+        "seq": 566
       }
     ],
     "类型": [
@@ -59,6 +66,11 @@
         "value": "深处有封印限制",
         "docId": "plot.xianni-ch565-laozu-return-yaojiang-truce",
         "seq": 537
+      },
+      {
+        "value": "极高（受尽折磨与侮辱）",
+        "docId": "plot.xianni-ch606-qingxing-hupao-yihun-fumeng",
+        "seq": 566
       }
     ]
   },
@@ -66,9 +78,9 @@
   "attrProvenance": {
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
+      "docId": "plot.xianni-ch606-qingxing-hupao-yihun-fumeng",
       "dated": false,
-      "seq": 534
+      "seq": 566
     },
     "类型": {
       "asOf": null,
@@ -90,9 +102,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch565-laozu-return-yaojiang-truce",
+      "docId": "plot.xianni-ch606-qingxing-hupao-yihun-fumeng",
       "dated": false,
-      "seq": 537
+      "seq": 566
     }
   },
   "contested": false,
@@ -100,7 +112,8 @@
   "docs": [
     "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
     "plot.xianni-ch565-laozu-return-yaojiang-truce",
-    "plot.xianni-ch566-hupao-elder-and-armor"
+    "plot.xianni-ch566-hupao-elder-and-armor",
+    "plot.xianni-ch606-qingxing-hupao-yihun-fumeng"
   ],
-  "updatedAt": "2026-08-22T09:23:28.660Z"
+  "updatedAt": "2026-08-22T14:50:17.667Z"
 }

@@ -4,13 +4,18 @@
   "name": "白发黑甲老者",
   "aliases": [
     "黑甲老者",
-    "司马炎下首老者"
+    "司马炎下首老者",
+    "塔下黑甲老者",
+    "身穿黑色铠甲的老者",
+    "铠甲之人"
   ],
   "summary": "坐于司马炎下首的老而弥坚黑甲老者，判断王林数日古井不波乃心机深沉之人，非常人。",
   "attributes": {
-    "外貌": "头发花白、黑甲披身、老而弥坚",
+    "外貌": "身穿黑色铠甲的老者",
     "身份": "司马炎麾下议事者",
-    "阵营": "天妖郡军营本地势力"
+    "阵营": "天妖郡军营本地势力",
+    "小阶段": "问鼎后期",
+    "标志特征": "黑色铠甲，踏步地面颤动"
   },
   "observations": {
     "外貌": [
@@ -18,6 +23,11 @@
         "value": "头发花白、黑甲披身、老而弥坚",
         "docId": "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
         "seq": 523
+      },
+      {
+        "value": "身穿黑色铠甲的老者",
+        "docId": "plot.xianni-ch606-qingxing-hupao-yihun-fumeng",
+        "seq": 566
       }
     ],
     "身份": [
@@ -33,15 +43,30 @@
         "docId": "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
         "seq": 523
       }
+    ],
+    "小阶段": [
+      {
+        "value": "问鼎后期",
+        "docId": "plot.xianni-ch606-qingxing-hupao-yihun-fumeng",
+        "seq": 566,
+        "note": "王林判断为铠甲所致，非真实修为"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "黑色铠甲，踏步地面颤动",
+        "docId": "plot.xianni-ch606-qingxing-hupao-yihun-fumeng",
+        "seq": 566
+      }
     ]
   },
   "firstSeq": 523,
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
+      "docId": "plot.xianni-ch606-qingxing-hupao-yihun-fumeng",
       "dated": false,
-      "seq": 523
+      "seq": 566
     },
     "身份": {
       "asOf": null,
@@ -54,12 +79,26 @@
       "docId": "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
       "dated": false,
       "seq": 523
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch606-qingxing-hupao-yihun-fumeng",
+      "dated": false,
+      "seq": 566,
+      "note": "王林判断为铠甲所致，非真实修为"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch606-qingxing-hupao-yihun-fumeng",
+      "dated": false,
+      "seq": 566
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash"
+    "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
+    "plot.xianni-ch606-qingxing-hupao-yihun-fumeng"
   ],
-  "updatedAt": "2026-08-22T07:17:10.700Z"
+  "updatedAt": "2026-08-22T14:50:17.678Z"
 }
