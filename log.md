@@ -194,3 +194,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T18:43:18.193Z** `ingest` plot.xianni-ch641-yunxian-daolv-wangwei-hujuan-purple-mist-pit — 第641章 云仙道侣：王巍、胡娟——画轴娇影指引深坑、周佚载王林穿紫雾夺金色大剑 · kind=plot asOf=2026-08-22 entities=46 relations=74 src=00600-00604.p4.md
 - **2026-08-22T18:46:10.504Z** `ingest` plot.xianni-ch642-purple-mist-mosquito-beast — 第642章 紫雾蚊兽：云仙道侣王巍夫妇伏于火妖郡出口，王林途中遇紫雾困修士 · kind=plot asOf=2026-08-22 entities=23 relations=40 src=00600-00604.p5.md
 - **2026-08-22T18:53:15.953Z** `ingest` plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua — 第642章 王林的睿智：贪狼的紫雾局与蚊兽异动 · kind=plot asOf=2026-08-22 entities=30 relations=53 src=00605-00608.p1.md
+- **2026-08-22T18:56:05.480Z** `ingest` plot.xianni-ch644-purple-mist-convergence — 第644章 紫雾归一：王林会贪狼、蚊兽归群、贪狼献祭大罗剑宗众人 · kind=plot asOf=2026-08-22 entities=21 relations=32 src=00605-00608.p2.md

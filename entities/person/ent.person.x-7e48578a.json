@@ -21,13 +21,14 @@
   "summary": "全身笼罩死气的强者，一万年前即已滞留朱雀星碎星乱，名义上为疗伤；被金丝长袍男子质问后主动离去。",
   "attributes": {
     "外貌": "老者，睁目时精芒爆闪",
-    "身份": "长期滞留碎星乱者、剑尊凌天候的昔日老友、随侍/隐于剑尊凌天候身后、大罗剑宗一方前辈、与东海妖灵之地相关、受凌天候安排入妖灵之地护徒者、大罗剑宗在妖灵之地的暗中护持者、带领大罗剑宗弟子入潮汐之地的外来前辈、与大罗剑宗弟子同处一地、被雾气与蚊兽群包围者、常年漂流星空的散修式宝物猎取者、掌握非问鼎修士所能有的神通、积累大量法宝",
+    "身份": "长期滞留碎星乱者、剑尊凌天候的昔日老友、随侍/隐于剑尊凌天候身后、大罗剑宗一方前辈、与东海妖灵之地相关、受凌天候安排入妖灵之地护徒者、大罗剑宗在妖灵之地的暗中护持者、带领大罗剑宗弟子入潮汐之地的外来前辈、与大罗剑宗弟子同处一地、被雾气与蚊兽群包围者、常年漂流星空的散修式宝物猎取者、掌握非问鼎修士所能有的神通、积累大量法宝、与辰龙师尊同辈的高人",
     "标志特征": "遁走时化作黑色长虹穿破天际、死气缠身、可化作一团阴影隐匿、化作一道指尖剑气、体外盘旋浓郁死气、右手持奇异形状的头骨不断抚摸、目光阴沉令人心神剧震、沙哑笑声、目中寒芒；功法疑与死气有关、受伤未愈，自阴虚境界跌落",
     "存殁": "在世",
-    "性格": "心机深沉、见风使舵、深藏不露、阴沉、嘲讽、威压逼人、隐忍、藏拙不露、贪宝、阴狠、谨慎多疑、谨慎、摸不清底细便不主动招惹",
-    "小阶段": "问鼎后期大圆满",
+    "性格": "心机深沉、见风使舵、深藏不露、阴沉、嘲讽、威压逼人、隐忍、藏拙不露、贪宝、阴狠、谨慎多疑、谨慎、摸不清底细便不主动招惹、阴森、多疑、心机深沉",
+    "小阶段": "阴虚之境、问鼎后期大圆满、只能发挥问鼎后期大圆满的程度",
     "称号": "贪狼不去无宝之地",
-    "本命法宝": "七魔针"
+    "本命法宝": "七魔针、小鼎（喷紫气护体）",
+    "道号": "贪狼"
   },
   "observations": {
     "外貌": [
@@ -123,6 +124,11 @@
         "value": "掌握非问鼎修士所能有的神通、积累大量法宝",
         "docId": "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua",
         "seq": 605
+      },
+      {
+        "value": "与辰龙师尊同辈的高人",
+        "docId": "plot.xianni-ch644-purple-mist-convergence",
+        "seq": 605
       }
     ],
     "标志特征": [
@@ -216,6 +222,11 @@
         "value": "谨慎、摸不清底细便不主动招惹",
         "docId": "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua",
         "seq": 605
+      },
+      {
+        "value": "阴森、多疑、心机深沉",
+        "docId": "plot.xianni-ch644-purple-mist-convergence",
+        "seq": 605
       }
     ],
     "小阶段": [
@@ -228,6 +239,12 @@
         "value": "问鼎后期大圆满",
         "docId": "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua",
         "seq": 605
+      },
+      {
+        "value": "只能发挥问鼎后期大圆满的程度",
+        "docId": "plot.xianni-ch644-purple-mist-convergence",
+        "seq": 605,
+        "note": "因受伤"
       }
     ],
     "称号": [
@@ -241,6 +258,18 @@
       {
         "value": "七魔针",
         "docId": "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua",
+        "seq": 605
+      },
+      {
+        "value": "小鼎（喷紫气护体）",
+        "docId": "plot.xianni-ch644-purple-mist-convergence",
+        "seq": 605
+      }
+    ],
+    "道号": [
+      {
+        "value": "贪狼",
+        "docId": "plot.xianni-ch644-purple-mist-convergence",
         "seq": 605
       }
     ]
@@ -280,9 +309,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua",
+      "docId": "plot.xianni-ch615-tanlang-whereabouts",
       "dated": false,
-      "seq": 605
+      "seq": 576
     },
     "称号": {
       "asOf": null,
@@ -293,6 +322,12 @@
     "本命法宝": {
       "asOf": null,
       "docId": "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua",
+      "dated": false,
+      "seq": 605
+    },
+    "道号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch644-purple-mist-convergence",
       "dated": false,
       "seq": 605
     }
@@ -311,7 +346,8 @@
     "plot.xianni-ch632-tanlang-daluo-disciples-trapped-tide-abyss",
     "plot.xianni-ch637-save-zhou-yi-tidal-abyss-rift",
     "plot.xianni-ch641-yunxian-daolv-wangwei-hujuan-purple-mist-pit",
-    "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua"
+    "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua",
+    "plot.xianni-ch644-purple-mist-convergence"
   ],
-  "updatedAt": "2026-08-22T18:53:15.793Z"
+  "updatedAt": "2026-08-22T18:56:05.331Z"
 }
