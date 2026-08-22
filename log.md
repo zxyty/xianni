@@ -161,3 +161,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T14:58:15.261Z** `ingest` plot.xianni-ch609-ancient-yao-blood-shadow — 第609章 古妖血影：血魂丹复生后驰援天妖城，古妖以王林之血凝血影阻九散魔 · kind=plot asOf=2026-08-22 entities=28 relations=37 src=00566-00570.p5.md
 - **2026-08-22T15:44:23.737Z** `ingest` plot.xianni-ch610-da-gong-gao-cheng — 仙逆 第610章 大功告成：古妖战散魔，王林夺铠擒魔魂 · kind=plot asOf=2026-08-22 entities=27 relations=39 src=00571-00575.p1.md
 - **2026-08-22T15:55:27.582Z** `ingest` plot.xianni-ch611-buwang-zhuque-first-act — 第611章 不忘朱雀第一幕：血星红发男子救紫芯，云天宗铸王林巨像 · kind=plot asOf=2026-08-22 entities=59 relations=106 src=00571-00575.p2.md
+- **2026-08-22T16:02:42.621Z** `ingest` plot.chapter-612-second-yuanshen-longtan-cave — 第612章 第二元神——龙潭洞府炼散魔为第二元神之谋 · kind=plot asOf=2026-08-22 entities=42 relations=69 src=00571-00575.p3.md

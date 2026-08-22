@@ -1,0 +1,50 @@
+{
+  "id": "ent.artifact.x-a30a3e01",
+  "type": "artifact",
+  "name": "古魔之塔",
+  "aliases": [],
+  "summary": "古妖提到的法宝：若王林持有，可凭其把神识展开以大范围搜寻；片段中王林收回了宝塔。",
+  "attributes": {
+    "能力": "展开神识、大范围搜寻",
+    "持有者": "王林"
+  },
+  "observations": {
+    "能力": [
+      {
+        "value": "展开神识、大范围搜寻",
+        "docId": "plot.chapter-612-second-yuanshen-longtan-cave",
+        "seq": 571
+      }
+    ],
+    "持有者": [
+      {
+        "value": "王林",
+        "docId": "plot.chapter-612-second-yuanshen-longtan-cave",
+        "seq": 571,
+        "note": "片段中王林收回宝塔"
+      }
+    ]
+  },
+  "firstSeq": 571,
+  "attrProvenance": {
+    "能力": {
+      "asOf": null,
+      "docId": "plot.chapter-612-second-yuanshen-longtan-cave",
+      "dated": false,
+      "seq": 571
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.chapter-612-second-yuanshen-longtan-cave",
+      "dated": false,
+      "seq": 571,
+      "note": "片段中王林收回宝塔"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.chapter-612-second-yuanshen-longtan-cave"
+  ],
+  "updatedAt": "2026-08-22T16:02:42.500Z"
+}

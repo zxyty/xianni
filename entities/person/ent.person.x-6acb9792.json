@@ -5,19 +5,27 @@
   "aliases": [
     "魇魂",
     "大汉眉心的魔魂",
-    "铠甲魔魂"
+    "铠甲魔魂",
+    "魔魂虚影",
+    "古魔坐下散魔"
   ],
   "summary": "附身于大汉肉身的魔魂，因旧伤、苦战与失去魔塔而神识被困铠甲；败于古妖后弃肉身、附铠甲逃遁，被王林擒住并钻入其体内争夺元神。",
   "attributes": {
-    "身份": "散魔；其上另有未现身的『主人』",
+    "身份": "散魔；其上另有未现身的『主人』、古魔（吉魔）坐下散魔之一",
     "存殁": "存活",
-    "外貌": "附身魔焰滔天的大汉，身后现巨大魔魂虚影"
+    "外貌": "附身魔焰滔天的大汉，身后现巨大魔魂虚影",
+    "标志特征": "被无数禁制封印、心神留有王林淡烙印、处于昏迷"
   },
   "observations": {
     "身份": [
       {
         "value": "散魔；其上另有未现身的『主人』",
         "docId": "plot.xianni-ch610-da-gong-gao-cheng",
+        "seq": 571
+      },
+      {
+        "value": "古魔（吉魔）坐下散魔之一",
+        "docId": "plot.chapter-612-second-yuanshen-longtan-cave",
         "seq": 571
       }
     ],
@@ -35,6 +43,14 @@
         "docId": "plot.xianni-ch610-da-gong-gao-cheng",
         "seq": 571,
         "note": "第610章前期，弃身前"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "被无数禁制封印、心神留有王林淡烙印、处于昏迷",
+        "docId": "plot.chapter-612-second-yuanshen-longtan-cave",
+        "seq": 571,
+        "note": "第612章状态"
       }
     ]
   },
@@ -59,12 +75,20 @@
       "dated": false,
       "seq": 571,
       "note": "第610章前期，弃身前"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.chapter-612-second-yuanshen-longtan-cave",
+      "dated": false,
+      "seq": 571,
+      "note": "第612章状态"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch610-da-gong-gao-cheng"
+    "plot.xianni-ch610-da-gong-gao-cheng",
+    "plot.chapter-612-second-yuanshen-longtan-cave"
   ],
-  "updatedAt": "2026-08-22T15:44:23.590Z"
+  "updatedAt": "2026-08-22T16:02:42.463Z"
 }
