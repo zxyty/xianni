@@ -7,15 +7,16 @@
     "Lei Xian Dian",
     "Thunder Immortal Hall",
     "雷仙殿一脉",
-    "雷仙殿高手"
+    "雷仙殿高手",
+    "雷电殿"
   ],
   "summary": "雷道子所属势力，设有『使者』一职，专修雷法；因有人冒充其使者（『许木』）而遣人追查。",
   "attributes": {
-    "理念": "以雷法为宗、以雷兽为使者凭证，冒充者灭族、掌雷之道、雷道",
+    "理念": "以雷法为宗、以雷兽为使者凭证，冒充者灭族、掌雷之道、雷道、罗天星域内无人敢有丝毫不敬",
     "阵营": "与王林敌对、王林之敌",
     "等级": "地级使者、天极使者",
-    "镇派之宝": "雷之仙兽、雷仙殿之兽（雷兽）",
-    "所属界面": "罗天星域"
+    "镇派之宝": "雷之仙兽、雷仙殿之兽（雷兽）、雷兽（使者标志）",
+    "所属界面": "雷之仙界"
   },
   "observations": {
     "理念": [
@@ -38,6 +39,12 @@
         "value": "雷道",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
+      },
+      {
+        "value": "罗天星域内无人敢有丝毫不敬",
+        "docId": "plot.xianni-ch683-jing-tui-qian-kui-zi",
+        "seq": 641,
+        "note": "千葵子认知"
       }
     ],
     "阵营": [
@@ -74,6 +81,11 @@
         "value": "雷仙殿之兽（雷兽）",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
+      },
+      {
+        "value": "雷兽（使者标志）",
+        "docId": "plot.xianni-ch683-jing-tui-qian-kui-zi",
+        "seq": 641
       }
     ],
     "所属界面": [
@@ -81,6 +93,11 @@
         "value": "罗天星域",
         "docId": "plot.xianni-ch668-four-years-ago-cause-baohe-auction",
         "seq": 626
+      },
+      {
+        "value": "雷之仙界",
+        "docId": "plot.xianni-ch683-jing-tui-qian-kui-zi",
+        "seq": 641
       }
     ]
   },
@@ -88,9 +105,10 @@
   "attrProvenance": {
     "理念": {
       "asOf": null,
-      "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+      "docId": "plot.xianni-ch683-jing-tui-qian-kui-zi",
       "dated": false,
-      "seq": 661
+      "seq": 641,
+      "note": "千葵子认知"
     },
     "阵营": {
       "asOf": null,
@@ -106,15 +124,15 @@
     },
     "镇派之宝": {
       "asOf": null,
-      "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+      "docId": "plot.xianni-ch683-jing-tui-qian-kui-zi",
       "dated": false,
-      "seq": 661
+      "seq": 641
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch668-four-years-ago-cause-baohe-auction",
+      "docId": "plot.xianni-ch683-jing-tui-qian-kui-zi",
       "dated": false,
-      "seq": 626
+      "seq": 641
     }
   },
   "contested": false,
@@ -122,7 +140,8 @@
   "docs": [
     "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
     "plot.xianni-ch668-four-years-ago-cause-baohe-auction",
-    "plot.xianni-681-wang-ping"
+    "plot.xianni-681-wang-ping",
+    "plot.xianni-ch683-jing-tui-qian-kui-zi"
   ],
-  "updatedAt": "2026-08-22T23:25:41.411Z"
+  "updatedAt": "2026-08-22T23:36:08.552Z"
 }
