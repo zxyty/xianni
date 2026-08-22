@@ -10,18 +10,20 @@
     "十三少年",
     "十三师兄",
     "带头之人",
-    "那青年"
+    "那青年",
+    "山谷十三",
+    "十三猎人"
   ],
   "summary": "山谷青年，即最初被王林暗中跟随而暴露山谷之人；对炼魂术悟性极高，三月修至第三阶段并率先炼成七尺魂幡，演示时遭狮魂反噬。",
   "attributes": {
     "性别": "男",
-    "身份": "山谷族人、炼魂术悟性最高者、山谷部落队伍带队者、王林弟子（称王林为「师尊」）",
+    "身份": "山谷族人、炼魂术悟性最高者、山谷部落队伍带队者、王林弟子（称王林为「师尊」）、山谷族人、炼魂术修炼者、炼魂部落猎人、炼魂部落族人／王林随行者",
     "小阶段": "炼魂术第三阶段",
-    "性格": "狂热、好胜、爱出风头、沉稳坚毅",
-    "存殁": "在世、存活",
+    "性格": "狂热、好胜、爱出风头、沉稳坚毅、坚韧不甘、沉默不语、痛苦不甘、坚毅、隐忍、不甘为废人",
+    "存殁": "在世、存活、重伤垂危",
     "阵营": "山谷部落（王林麾下）",
-    "外貌": "面色苍白、全身血迹斑斑、气息全无",
-    "标志特征": "主魂为一头生着翅膀的狮子"
+    "外貌": "比一年前苍老许多，不似青年反似暮年",
+    "标志特征": "主魂为一头生着翅膀的狮子、身体经脉寸断，无法融合妖力，体内再无半点妖力、经脉寸断、血肉坚硬如铁"
   },
   "observations": {
     "性别": [
@@ -41,6 +43,22 @@
         "value": "山谷部落队伍带队者、王林弟子（称王林为「师尊」）",
         "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
         "seq": 510
+      },
+      {
+        "value": "山谷族人、炼魂术修炼者",
+        "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
+        "seq": 514
+      },
+      {
+        "value": "炼魂部落猎人",
+        "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
+        "seq": 514,
+        "note": "修为被废后"
+      },
+      {
+        "value": "炼魂部落族人／王林随行者",
+        "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
+        "seq": 514
       }
     ],
     "小阶段": [
@@ -62,6 +80,21 @@
         "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
         "seq": 510,
         "note": "征讨归来后，此前张扬"
+      },
+      {
+        "value": "坚韧不甘",
+        "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
+        "seq": 514
+      },
+      {
+        "value": "沉默不语、痛苦不甘",
+        "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
+        "seq": 514
+      },
+      {
+        "value": "坚毅、隐忍、不甘为废人",
+        "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
+        "seq": 514
       }
     ],
     "存殁": [
@@ -74,6 +107,11 @@
         "value": "存活",
         "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
         "seq": 510
+      },
+      {
+        "value": "重伤垂危",
+        "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
+        "seq": 514
       }
     ],
     "阵营": [
@@ -89,6 +127,12 @@
         "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
         "seq": 510,
         "note": "本章重伤状态"
+      },
+      {
+        "value": "比一年前苍老许多，不似青年反似暮年",
+        "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
+        "seq": 514,
+        "note": "本片段重伤时"
       }
     ],
     "标志特征": [
@@ -96,6 +140,18 @@
         "value": "主魂为一头生着翅膀的狮子",
         "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
         "seq": 510
+      },
+      {
+        "value": "身体经脉寸断，无法融合妖力，体内再无半点妖力",
+        "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
+        "seq": 514,
+        "note": "本片段状态，形同废人"
+      },
+      {
+        "value": "经脉寸断、血肉坚硬如铁",
+        "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
+        "seq": 514,
+        "note": "炼体略有所成后"
       }
     ]
   },
@@ -140,10 +196,10 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+      "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
       "dated": false,
-      "seq": 510,
-      "note": "本章重伤状态"
+      "seq": 514,
+      "note": "本片段重伤时"
     },
     "标志特征": {
       "asOf": null,
@@ -155,7 +211,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan"
+    "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+    "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground"
   ],
-  "updatedAt": "2026-08-22T02:29:37.102Z"
+  "updatedAt": "2026-08-22T02:43:48.227Z"
 }

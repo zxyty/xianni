@@ -3,13 +3,14 @@
   "type": "artifact",
   "name": "开天巨斧",
   "aliases": [
-    "开夭巨斧"
+    "开夭巨斧",
+    "黑电巨斧"
   ],
   "summary": "巨魔族老祖身化十丈后祭出的巨斧，一斩即出巨大斧芒，可斩碎虚空致其龟裂。",
   "attributes": {
-    "持有者": "巨魔族老祖",
-    "能力": "斩出巨大斧芒、崩碎虚空",
-    "外形": "巨斧，配十丈之躯"
+    "持有者": "王林",
+    "能力": "斩出巨大斧芒、崩碎虚空、斩出十丈斧芒并携雷球降下、虚空操控在地底绕行掏空地基",
+    "外形": "闪烁黑色电光的巨斧，四周浮现缓缓旋转的雷球"
   },
   "observations": {
     "持有者": [
@@ -17,6 +18,11 @@
         "value": "巨魔族老祖",
         "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
         "seq": 346
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
+        "seq": 514
       }
     ],
     "能力": [
@@ -29,6 +35,16 @@
         "value": "崩碎虚空",
         "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
         "seq": 346
+      },
+      {
+        "value": "斩出十丈斧芒并携雷球降下",
+        "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
+        "seq": 514
+      },
+      {
+        "value": "虚空操控在地底绕行掏空地基",
+        "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
+        "seq": 514
       }
     ],
     "外形": [
@@ -36,6 +52,11 @@
         "value": "巨斧，配十丈之躯",
         "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
         "seq": 346
+      },
+      {
+        "value": "闪烁黑色电光的巨斧，四周浮现缓缓旋转的雷球",
+        "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
+        "seq": 514
       }
     ]
   },
@@ -43,9 +64,9 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+      "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
       "dated": false,
-      "seq": 346
+      "seq": 514
     },
     "能力": {
       "asOf": null,
@@ -55,15 +76,16 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+      "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
       "dated": false,
-      "seq": 346
+      "seq": 514
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip"
+    "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
+    "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground"
   ],
-  "updatedAt": "2026-08-08T15:27:51.385Z"
+  "updatedAt": "2026-08-22T02:43:48.171Z"
 }

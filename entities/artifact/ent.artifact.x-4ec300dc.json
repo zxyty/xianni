@@ -4,13 +4,14 @@
   "name": "传音玉简",
   "aliases": [
     "周武泰的传音玉简",
-    "传音玉筒"
+    "传音玉筒",
+    "两枚传音玉简"
   ],
   "summary": "当年周武泰留给王林之物，王林留下神念几句话后甩出传讯示警。",
   "attributes": {
-    "持有者": "乾风",
-    "能力": "传讯",
-    "来历": "当年周武泰所留"
+    "持有者": "王林（一枚）／炼魂部落（一枚）",
+    "能力": "远距离传音联络",
+    "来历": "王林亲手炼制，耗时半个月"
   },
   "observations": {
     "持有者": [
@@ -23,6 +24,11 @@
         "value": "乾风",
         "docId": "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms",
         "seq": 373
+      },
+      {
+        "value": "王林（一枚）／炼魂部落（一枚）",
+        "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
+        "seq": 514
       }
     ],
     "能力": [
@@ -35,6 +41,11 @@
         "value": "传讯",
         "docId": "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms",
         "seq": 373
+      },
+      {
+        "value": "远距离传音联络",
+        "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
+        "seq": 514
       }
     ],
     "来历": [
@@ -42,6 +53,11 @@
         "value": "当年周武泰所留",
         "docId": "plot.xianni-ch274-underground-ice-sculpture",
         "seq": 258
+      },
+      {
+        "value": "王林亲手炼制，耗时半个月",
+        "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
+        "seq": 514
       }
     ]
   },
@@ -49,21 +65,21 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms",
+      "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
       "dated": false,
-      "seq": 373
+      "seq": 514
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms",
+      "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
       "dated": false,
-      "seq": 373
+      "seq": 514
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch274-underground-ice-sculpture",
+      "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
       "dated": false,
-      "seq": 258
+      "seq": 514
     }
   },
   "contested": false,
@@ -71,7 +87,8 @@
   "docs": [
     "plot.xianni-ch274-underground-ice-sculpture",
     "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
-    "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms"
+    "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms",
+    "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground"
   ],
-  "updatedAt": "2026-08-15T10:16:30.817Z"
+  "updatedAt": "2026-08-22T02:43:48.243Z"
 }
