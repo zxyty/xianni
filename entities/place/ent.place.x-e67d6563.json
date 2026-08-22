@@ -13,8 +13,10 @@
     "类型": "城池",
     "方位": "山谷以西约三千万里",
     "规模": "巨大",
-    "上级区域": "天妖郡",
-    "所属势力": "天妖郡"
+    "上级区域": "古妖之地",
+    "所属势力": "天妖郡",
+    "所属界面": "妖灵之地",
+    "危险度": "高手众多，拼出天地有难度"
   },
   "observations": {
     "类型": [
@@ -55,6 +57,11 @@
         "value": "天妖郡",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
+      },
+      {
+        "value": "古妖之地",
+        "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+        "seq": 505
       }
     ],
     "所属势力": [
@@ -62,6 +69,20 @@
         "value": "天妖郡",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "妖灵之地",
+        "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+        "seq": 505
+      }
+    ],
+    "危险度": [
+      {
+        "value": "高手众多，拼出天地有难度",
+        "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+        "seq": 505
       }
     ]
   },
@@ -88,22 +109,35 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+      "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
       "dated": false,
-      "seq": 500
+      "seq": 505
     },
     "所属势力": {
       "asOf": null,
       "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
       "dated": false,
       "seq": 500
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+      "dated": false,
+      "seq": 505
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+      "dated": false,
+      "seq": 505
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch519-tide-recede-golden-token",
-    "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun"
+    "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+    "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing"
   ],
-  "updatedAt": "2026-08-22T01:02:50.882Z"
+  "updatedAt": "2026-08-22T02:15:06.004Z"
 }

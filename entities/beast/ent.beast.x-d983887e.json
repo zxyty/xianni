@@ -6,12 +6,13 @@
     "青光麒麟兽",
     "凌天候的麒麟兽",
     "眉心麒麟",
-    "巨大的麒麟兽"
+    "巨大的麒麟兽",
+    "咆哮麒麟兽"
   ],
   "summary": "背负麒麟城的巨大灵兽。",
   "attributes": {
-    "外形": "巨大、麒麟形、化作一道青光、巨大神武、四蹄踏地、硕大头颅",
-    "栖息地": "承载麒麟城",
+    "外形": "巨大、麒麟形、化作一道青光、巨大神武、四蹄踏地、硕大头颅、麒麟状",
+    "栖息地": "古妖之地",
     "主人": "大罗剑宗青衫老者、大罗剑宗骑麒麟兽老者、钻入裂缝的老者、剑尊凌天候、凌天候",
     "能力": "载主呼啸破空而行",
     "种族": "麒麟"
@@ -37,6 +38,11 @@
         "value": "巨大神武、四蹄踏地、硕大头颅",
         "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
         "seq": 472
+      },
+      {
+        "value": "麒麟状",
+        "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+        "seq": 505
       }
     ],
     "栖息地": [
@@ -44,6 +50,11 @@
         "value": "承载麒麟城",
         "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
         "seq": 188
+      },
+      {
+        "value": "古妖之地",
+        "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+        "seq": 505
       }
     ],
     "主人": [
@@ -108,9 +119,9 @@
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.renfa-ch204-ancient-mirror-forbidden-banner",
+      "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
       "dated": false,
-      "seq": 188
+      "seq": 505
     },
     "主人": {
       "asOf": null,
@@ -138,7 +149,8 @@
     "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
     "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
     "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
-    "plot.xianni-ch514-target-donghai-yaoling-gate"
+    "plot.xianni-ch514-target-donghai-yaoling-gate",
+    "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing"
   ],
-  "updatedAt": "2026-08-21T12:01:42.175Z"
+  "updatedAt": "2026-08-22T02:15:05.968Z"
 }

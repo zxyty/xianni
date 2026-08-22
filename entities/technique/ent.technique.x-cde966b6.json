@@ -3,12 +3,15 @@
   "type": "technique",
   "name": "魂幡之术",
   "aliases": [
-    "炼魂宗魂幡之术"
+    "炼魂宗魂幡之术",
+    "魂幡制作之法",
+    "制幡之法"
   ],
   "summary": "炼魂宗的传承之术，与死咒术有交融之处，同修效果不可思议；学会后可以游魂炼幡，威力极大。",
   "attributes": {
     "出处": "炼魂宗",
-    "效果": "以游魂炼幡，威力极大、与死咒术同修效果不可思议，距极境仅差一丝"
+    "效果": "以游魂炼幡，威力极大、与死咒术同修效果不可思议，距极境仅差一丝、制作个人魂幡、杀戮越多、聚魂越多、实力越强",
+    "修炼条件": "王林所传版本含唯他自知的致命破绽"
   },
   "observations": {
     "出处": [
@@ -28,6 +31,24 @@
         "value": "与死咒术同修效果不可思议，距极境仅差一丝",
         "docId": "plot.xianni-ch380-lianhunzong-search",
         "seq": 358
+      },
+      {
+        "value": "制作个人魂幡",
+        "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+        "seq": 505
+      },
+      {
+        "value": "杀戮越多、聚魂越多、实力越强",
+        "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+        "seq": 505
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "王林所传版本含唯他自知的致命破绽",
+        "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+        "seq": 505,
+        "note": "可借此夺控他人魂幡"
       }
     ]
   },
@@ -44,12 +65,20 @@
       "docId": "plot.xianni-ch380-lianhunzong-search",
       "dated": false,
       "seq": 358
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+      "dated": false,
+      "seq": 505,
+      "note": "可借此夺控他人魂幡"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch380-lianhunzong-search"
+    "plot.xianni-ch380-lianhunzong-search",
+    "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing"
   ],
-  "updatedAt": "2026-08-15T08:44:30.464Z"
+  "updatedAt": "2026-08-22T02:15:05.995Z"
 }

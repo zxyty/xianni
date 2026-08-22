@@ -14,15 +14,19 @@
     "紫色魂幡",
     "遁天魂幡",
     "收了李元封的魂幡",
-    "收魂之幡"
+    "收魂之幡",
+    "禁锢元神的魂幡",
+    "一杆魂幡",
+    "Soul Banner"
   ],
   "summary": "藤化元本命法宝，七尺黑幡，内含约三万余痛苦游魂，可甩出求死游魂攻击；火候不足未达小成，藤化元亦借以捏碎灵魂并施加诅咒之力。",
   "attributes": {
     "品阶": "火候不足未达小成",
     "持有者": "藤化元、遁天、王林",
-    "能力": "甩出求死游魂攻击、捏碎其内灵魂、承载诅咒之力、禁锢移动、驱使三万阴魂吞噬、收纳婴变修士魂魄、可抗衡朱雀、释放无数魂魄结成黑气屏障、形成紫色迷雾封印目标、收纳/驾驭魂、收人（收元神/修士）入幡内、收纳与释放元神",
+    "能力": "甩出求死游魂攻击、捏碎其内灵魂、承载诅咒之力、禁锢移动、驱使三万阴魂吞噬、收纳婴变修士魂魄、可抗衡朱雀、释放无数魂魄结成黑气屏障、形成紫色迷雾封印目标、收纳/驾驭魂、收人（收元神/修士）入幡内、收纳与释放元神、禁锢囚禁元神、禁锢元神、以强者元神炼作主魂、卷收魂体、幡内特殊环境可阻止魂体消散",
     "外形": "幡",
-    "来历": "王林自己制作"
+    "来历": "炼魂宗体系之物，入门弟子须自制魂幡",
+    "禁制": "可在敌方自爆前将其封回幡内"
   },
   "observations": {
     "品阶": [
@@ -111,6 +115,31 @@
         "value": "收纳与释放元神",
         "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
         "seq": 467
+      },
+      {
+        "value": "禁锢囚禁元神",
+        "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+        "seq": 505
+      },
+      {
+        "value": "禁锢元神",
+        "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+        "seq": 505
+      },
+      {
+        "value": "以强者元神炼作主魂",
+        "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+        "seq": 505
+      },
+      {
+        "value": "卷收魂体",
+        "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+        "seq": 505
+      },
+      {
+        "value": "幡内特殊环境可阻止魂体消散",
+        "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+        "seq": 505
       }
     ],
     "外形": [
@@ -135,6 +164,18 @@
         "value": "王林自己制作",
         "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
         "seq": 414
+      },
+      {
+        "value": "炼魂宗体系之物，入门弟子须自制魂幡",
+        "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+        "seq": 505
+      }
+    ],
+    "禁制": [
+      {
+        "value": "可在敌方自爆前将其封回幡内",
+        "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+        "seq": 505
       }
     ]
   },
@@ -167,9 +208,15 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+      "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
       "dated": false,
-      "seq": 414
+      "seq": 505
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+      "dated": false,
+      "seq": 505
     }
   },
   "contested": false,
@@ -181,7 +228,8 @@
     "plot.xianni-ch395-wanglin-defeats-li-yuanfeng-seals-broken-arms",
     "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
     "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
-    "plot.xianni-ch467-471-ziqi-donglai-chuangyan"
+    "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+    "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing"
   ],
-  "updatedAt": "2026-08-21T08:12:23.040Z"
+  "updatedAt": "2026-08-22T02:15:05.987Z"
 }

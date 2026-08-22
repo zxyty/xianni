@@ -6,13 +6,16 @@
     "妖灵兽",
     "妖灵之物",
     "单角黑兽",
-    "奇异之兽"
+    "奇异之兽",
+    "妖灵生物",
+    "妖灵气浪中的妖灵"
   ],
   "summary": "修魔海固有兽类，黑雨对其为滋补，令其实力攀升甚至出现荒兽，兽乱愈烈。",
   "attributes": {
-    "栖息地": "妖灵气浪之中",
-    "能力": "自妖气中幻化成形、扑杀生灵、体内含妖力与妖晶",
-    "外形": "通体漆黑、单角、约一丈大小"
+    "栖息地": "妖灵气浪",
+    "能力": "自妖气中幻化成形、扑杀生灵、体内含妖力与妖晶、幻化千状万状",
+    "外形": "形态万变，头顶有角",
+    "等级": "以头顶角的数量区分高低；气浪边缘者等阶不高"
   },
   "observations": {
     "栖息地": [
@@ -25,6 +28,11 @@
         "value": "妖灵气浪之中",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
+      },
+      {
+        "value": "妖灵气浪",
+        "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+        "seq": 505
       }
     ],
     "能力": [
@@ -42,6 +50,11 @@
         "value": "体内含妖力与妖晶",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
+      },
+      {
+        "value": "幻化千状万状",
+        "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+        "seq": 505
       }
     ],
     "外形": [
@@ -49,6 +62,18 @@
         "value": "通体漆黑、单角、约一丈大小",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
+      },
+      {
+        "value": "形态万变，头顶有角",
+        "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+        "seq": 505
+      }
+    ],
+    "等级": [
+      {
+        "value": "以头顶角的数量区分高低；气浪边缘者等阶不高",
+        "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+        "seq": 505
       }
     ]
   },
@@ -56,9 +81,9 @@
   "attrProvenance": {
     "栖息地": {
       "asOf": null,
-      "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+      "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
       "dated": false,
-      "seq": 500
+      "seq": 505
     },
     "能力": {
       "asOf": null,
@@ -68,16 +93,23 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+      "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
       "dated": false,
-      "seq": 500
+      "seq": 505
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+      "dated": false,
+      "seq": 505
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch226-leave-chu-country",
-    "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun"
+    "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+    "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing"
   ],
-  "updatedAt": "2026-08-22T01:02:50.930Z"
+  "updatedAt": "2026-08-22T02:15:05.844Z"
 }

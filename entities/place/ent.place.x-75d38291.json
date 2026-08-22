@@ -17,16 +17,18 @@
     "构架阵法的山谷",
     "斗法山谷",
     "欧阳华山谷",
-    "谷口山谷"
+    "谷口山谷",
+    "居民山谷",
+    "王林坐镇的山谷"
   ],
   "summary": "王林与李慕婉暂居之地，谷中有石屋与宝塔；铁岩、吕非在此外百里悟道。",
   "attributes": {
-    "类型": "山谷、隐居地/战场、隐居之所、隐居洞府/山谷、闭关/停留之地、隐居谷地、山谷战场、聚居地/避难山谷",
+    "类型": "山谷、隐居地/战场、隐居之所、隐居洞府/山谷、闭关/停留之地、隐居谷地、山谷战场、聚居地/避难山谷、居民聚落 / 阵法护持的山谷",
     "方位": "楚国境内",
     "上级区域": "朱雀星",
-    "守护": "留置的宝塔、宝塔内周佚神念、王林、宝塔禁制、铁岩、雷蛙、王林本尊、问鼎意境、山谷阵法",
-    "所属界面": "天运星",
-    "危险度": "每三个月遭妖灵猎食之夜冲击",
+    "守护": "留置的宝塔、宝塔内周佚神念、王林、宝塔禁制、铁岩、雷蛙、王林本尊、问鼎意境、山谷阵法、禁幡",
+    "所属界面": "妖灵之地",
+    "危险度": "受妖灵之浪冲击",
     "规模": "禁制笼罩百里"
   },
   "observations": {
@@ -70,6 +72,11 @@
         "value": "聚居地/避难山谷",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
+      },
+      {
+        "value": "居民聚落 / 阵法护持的山谷",
+        "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+        "seq": 505
       }
     ],
     "方位": [
@@ -136,6 +143,11 @@
         "value": "山谷阵法",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
+      },
+      {
+        "value": "禁幡",
+        "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+        "seq": 505
       }
     ],
     "所属界面": [
@@ -158,6 +170,11 @@
         "value": "天运星",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
+      },
+      {
+        "value": "妖灵之地",
+        "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+        "seq": 505
       }
     ],
     "危险度": [
@@ -170,6 +187,12 @@
         "value": "每三个月遭妖灵猎食之夜冲击",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
+      },
+      {
+        "value": "受妖灵之浪冲击",
+        "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+        "seq": 505,
+        "note": "靠阵法与禁幡保全"
       }
     ],
     "规模": [
@@ -208,15 +231,16 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+      "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
       "dated": false,
-      "seq": 500
+      "seq": 505
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+      "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
       "dated": false,
-      "seq": 500
+      "seq": 505,
+      "note": "靠阵法与禁幡保全"
     },
     "规模": {
       "asOf": null,
@@ -236,7 +260,8 @@
     "plot.xianni-ch368-372-three-great-gifts-dun-tian",
     "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
     "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
-    "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun"
+    "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+    "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing"
   ],
-  "updatedAt": "2026-08-22T01:02:50.932Z"
+  "updatedAt": "2026-08-22T02:15:06.003Z"
 }
