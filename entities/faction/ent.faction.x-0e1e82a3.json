@@ -1,35 +1,21 @@
 {
-  "id": "ent.faction.x-0f4391fe",
+  "id": "ent.faction.x-0e1e82a3",
   "type": "faction",
-  "name": "许家",
+  "name": "刘家",
   "aliases": [
-    "千幻星许家",
-    "东临星许家"
+    "东临星刘家"
   ],
-  "summary": "北域千幻星大姓家族，势如苍天大树；王林自称「许木」后，冉月与孙雪山即疑其为许家之人。",
+  "summary": "东临星三大最强家族之一，实力深不可测。",
   "attributes": {
     "据点": "东临星",
-    "所属界面": "千幻星",
     "等级": "东临星三大最强家族之一"
   },
   "observations": {
     "据点": [
       {
-        "value": "千幻星",
-        "docId": "plot.xianni-ch661-meier-luotian-north-domain",
-        "seq": 621
-      },
-      {
         "value": "东临星",
         "docId": "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
         "seq": 626
-      }
-    ],
-    "所属界面": [
-      {
-        "value": "千幻星",
-        "docId": "plot.xianni-ch661-meier-luotian-north-domain",
-        "seq": 621
       }
     ],
     "等级": [
@@ -40,19 +26,13 @@
       }
     ]
   },
-  "firstSeq": 621,
+  "firstSeq": 626,
   "attrProvenance": {
     "据点": {
       "asOf": null,
       "docId": "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
       "dated": false,
       "seq": 626
-    },
-    "所属界面": {
-      "asOf": null,
-      "docId": "plot.xianni-ch661-meier-luotian-north-domain",
-      "dated": false,
-      "seq": 621
     },
     "等级": {
       "asOf": null,
@@ -64,7 +44,6 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch661-meier-luotian-north-domain",
     "plot.xianni-ch670-sun-tai-reunion-cause-and-effect"
   ],
   "updatedAt": "2026-08-22T22:42:44.921Z"

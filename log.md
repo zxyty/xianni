@@ -211,3 +211,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T22:35:11.936Z** `ingest` plot.xianni-ch667-special-artifact-targeting-wang-lin — 仙逆·第667章 针对王林的特殊法宝——柳眉入千幻星改名幻眉，王林八步慑退问鼎老祖孙析 · kind=plot asOf=2026-08-22 entities=25 relations=36 src=00626-00630.p2.md
 - **2026-08-22T22:37:56.764Z** `ingest` plot.xianni-ch668-four-years-ago-cause-baohe-auction — 第668章 四年前之因——孙析揭幻家丹药之局 · kind=plot asOf=2026-08-22 entities=28 relations=48 src=00626-00630.p3.md
 - **2026-08-22T22:40:05.611Z** `ingest` plot.xianni-ch669-sun-tai-baohe-lou-eight-grade-pill-one-immortal-jade — 第669章 孙泰——一枚仙玉拍下八品丹药，王林重逢东临星故人 · kind=plot asOf=2026-08-22 entities=19 relations=25 src=00626-00630.p4.md
+- **2026-08-22T22:42:45.091Z** `ingest` plot.xianni-ch670-sun-tai-reunion-cause-and-effect — 第670章 生死之上，可是因果——孙泰的落叶归根与王林的因果明悟 · kind=plot asOf=2026-08-22 entities=36 relations=52 src=00626-00630.p5.md

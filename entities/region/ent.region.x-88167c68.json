@@ -12,7 +12,8 @@
   "attributes": {
     "特点": "以宗派门派为主、天逆珠后期现身之地、封锁外界星域信息、幻家大长老搜寻天逆珠之地；眉儿故乡",
     "通道": "废弃古传送阵（需罗天石）、深坑漩涡",
-    "主宰势力": "修真联盟"
+    "主宰势力": "修真联盟、尸阴宗、四圣宗",
+    "包含界面": "朱雀星、暗月星"
   },
   "observations": {
     "特点": [
@@ -49,6 +50,28 @@
         "value": "修真联盟",
         "docId": "plot.xianni-ch660-first-entry-luoyun-star-domain",
         "seq": 618
+      },
+      {
+        "value": "尸阴宗",
+        "docId": "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
+        "seq": 626
+      },
+      {
+        "value": "四圣宗",
+        "docId": "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
+        "seq": 626
+      }
+    ],
+    "包含界面": [
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
+        "seq": 626
+      },
+      {
+        "value": "暗月星",
+        "docId": "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
+        "seq": 626
       }
     ]
   },
@@ -71,6 +94,12 @@
       "docId": "plot.xianni-ch660-first-entry-luoyun-star-domain",
       "dated": false,
       "seq": 618
+    },
+    "包含界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
+      "dated": false,
+      "seq": 626
     }
   },
   "contested": false,
@@ -79,7 +108,8 @@
     "plot.xianni-ch618-620-scroll-woman-luotian-star-region-seal",
     "plot.xianni-ch660-first-entry-luoyun-star-domain",
     "plot.xianni-ch661-meier-luotian-north-domain",
-    "plot.xianni-ch666-nvban-nanzhuang-sun-family-test"
+    "plot.xianni-ch666-nvban-nanzhuang-sun-family-test",
+    "plot.xianni-ch670-sun-tai-reunion-cause-and-effect"
   ],
-  "updatedAt": "2026-08-22T22:32:22.159Z"
+  "updatedAt": "2026-08-22T22:42:44.923Z"
 }
