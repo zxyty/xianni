@@ -138,3 +138,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T09:36:44.977Z** `ingest` plot.xianni-ch569-luanjing-preface-tianyao-city — 仙逆 第569章 乱京之篇·序：军道遇石萧与孙涛，天妖城妖将之争将起 · kind=plot asOf=2026-08-22 entities=38 relations=66 src=00542-00543.md
 - **2026-08-22T09:50:47.542Z** `ingest` plot.xianni-ch544-545-hongprison-slaughter-immortal-art — 仙逆 第544-545章 强颜·杀戮仙诀——洪牢求杀心 · kind=plot asOf=2026-08-22 entities=45 relations=95 src=00544-00545.md
 - **2026-08-22T10:03:29.958Z** `ingest` plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai — 仙逆 第576章 王林，向我全力出手！——妖将大比前夜拜访玄城副帅 · kind=plot asOf=2026-08-22 entities=43 relations=88 src=00546-00547.md
+- **2026-08-22T10:22:20.848Z** `ingest` plot.xianni-ch578-slaughter-dao — 仙逆 第578章 杀戮道！！——王林河畔听琴，寂灭指连诛黑衣杀手 · kind=plot asOf=2026-08-22 entities=73 relations=145 src=00548-00549.md

@@ -6,13 +6,16 @@
     "墨非大人",
     "bj墨非",
     "妖将墨非",
-    "妖将第一人"
+    "妖将第一人",
+    "墨非妖将",
+    "Mo Fei"
   ],
   "summary": "坐镇火妖郡边界的天妖郡妖将，被把守妖兵队长认为此次妖将大比应可进入前三。",
   "attributes": {
-    "身份": "妖将",
-    "称号": "妖将之中第一人",
-    "外貌": "黑发，极为英俊，含一丝刚毅"
+    "身份": "妖将第一人",
+    "称号": "妖将第一人",
+    "外貌": "黑发，极为英俊，含一丝刚毅",
+    "标志特征": "火妖郡军功、从未被人逼出转轮之术以外的第二个神通"
   },
   "observations": {
     "身份": [
@@ -25,6 +28,11 @@
         "value": "妖将",
         "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
         "seq": 544
+      },
+      {
+        "value": "妖将第一人",
+        "docId": "plot.xianni-ch578-slaughter-dao",
+        "seq": 548
       }
     ],
     "称号": [
@@ -32,6 +40,11 @@
         "value": "妖将之中第一人",
         "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
         "seq": 544
+      },
+      {
+        "value": "妖将第一人",
+        "docId": "plot.xianni-ch578-slaughter-dao",
+        "seq": 548
       }
     ],
     "外貌": [
@@ -40,34 +53,53 @@
         "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
         "seq": 544
       }
+    ],
+    "标志特征": [
+      {
+        "value": "火妖郡军功",
+        "docId": "plot.xianni-ch578-slaughter-dao",
+        "seq": 548
+      },
+      {
+        "value": "从未被人逼出转轮之术以外的第二个神通",
+        "docId": "plot.xianni-ch578-slaughter-dao",
+        "seq": 548
+      }
     ]
   },
   "firstSeq": 537,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
+      "docId": "plot.xianni-ch578-slaughter-dao",
       "dated": false,
-      "seq": 544
+      "seq": 548
     },
     "称号": {
       "asOf": null,
-      "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
+      "docId": "plot.xianni-ch578-slaughter-dao",
       "dated": false,
-      "seq": 544
+      "seq": 548
     },
     "外貌": {
       "asOf": null,
       "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
       "dated": false,
       "seq": 544
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch578-slaughter-dao",
+      "dated": false,
+      "seq": 548
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch568-tianyao-city-familiar-face",
-    "plot.xianni-ch544-545-hongprison-slaughter-immortal-art"
+    "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
+    "plot.xianni-ch578-slaughter-dao"
   ],
-  "updatedAt": "2026-08-22T09:50:47.404Z"
+  "updatedAt": "2026-08-22T10:22:20.708Z"
 }

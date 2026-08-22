@@ -1,0 +1,82 @@
+{
+  "id": "ent.faction.x-f5c7ecef",
+  "type": "faction",
+  "name": "黑衣杀手组织",
+  "aliases": [
+    "黑衣人势力",
+    "老祖的势力",
+    "编号杀手组织"
+  ],
+  "summary": "一群身穿黑衣、修炼仙妖融合之力的杀手，成员以编号（二号至五号）排序，听命于「老祖」，奉命抓捕王林。",
+  "attributes": {
+    "阵营": "敌对王林",
+    "掌门": "老祖",
+    "据点": "河道旁酒楼",
+    "理念": "以编号排序、奉老祖之命行事"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "敌对王林",
+        "docId": "plot.xianni-ch578-slaughter-dao",
+        "seq": 548
+      }
+    ],
+    "掌门": [
+      {
+        "value": "老祖",
+        "docId": "plot.xianni-ch578-slaughter-dao",
+        "seq": 548
+      }
+    ],
+    "据点": [
+      {
+        "value": "河道旁酒楼",
+        "docId": "plot.xianni-ch578-slaughter-dao",
+        "seq": 548,
+        "note": "本章临时据点，已被自爆摧毁"
+      }
+    ],
+    "理念": [
+      {
+        "value": "以编号排序、奉老祖之命行事",
+        "docId": "plot.xianni-ch578-slaughter-dao",
+        "seq": 548
+      }
+    ]
+  },
+  "firstSeq": 548,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch578-slaughter-dao",
+      "dated": false,
+      "seq": 548
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.xianni-ch578-slaughter-dao",
+      "dated": false,
+      "seq": 548
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.xianni-ch578-slaughter-dao",
+      "dated": false,
+      "seq": 548,
+      "note": "本章临时据点，已被自爆摧毁"
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.xianni-ch578-slaughter-dao",
+      "dated": false,
+      "seq": 548
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.xianni-ch578-slaughter-dao"
+  ],
+  "updatedAt": "2026-08-22T10:22:20.629Z"
+}

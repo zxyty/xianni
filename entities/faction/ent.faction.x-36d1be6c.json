@@ -5,13 +5,17 @@
   "aliases": [
     "大罗剑宗剑肖十二子",
     "剑肖十二子十二人",
-    "十二子"
+    "十二子",
+    "剑肖",
+    "剑宵十二子"
   ],
   "summary": "大罗剑宗为对标天运七子而设的十二名精锐，人各背负古朴大剑，剑上幻化妖兽虚像成十二兽之形，有妖灵守护。",
   "attributes": {
     "阵营": "大罗剑宗",
     "所属界面": "天运星",
-    "镇派之宝": "凌天候赐的一道指尖剑气"
+    "镇派之宝": "凌天候赐的一道指尖剑气",
+    "等级": "与天运七子相当",
+    "掌门": "凌天候"
   },
   "observations": {
     "阵营": [
@@ -40,6 +44,20 @@
         "seq": 496,
         "note": "作十二人保命神通，实为贪狼所化"
       }
+    ],
+    "等级": [
+      {
+        "value": "与天运七子相当",
+        "docId": "plot.xianni-ch578-slaughter-dao",
+        "seq": 548
+      }
+    ],
+    "掌门": [
+      {
+        "value": "凌天候",
+        "docId": "plot.xianni-ch578-slaughter-dao",
+        "seq": 548
+      }
     ]
   },
   "firstSeq": 491,
@@ -62,13 +80,26 @@
       "dated": false,
       "seq": 496,
       "note": "作十二人保命神通，实为贪狼所化"
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-ch578-slaughter-dao",
+      "dated": false,
+      "seq": 548
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.xianni-ch578-slaughter-dao",
+      "dated": false,
+      "seq": 548
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch514-target-donghai-yaoling-gate",
-    "plot.xianni-ch519-tide-recede-golden-token"
+    "plot.xianni-ch519-tide-recede-golden-token",
+    "plot.xianni-ch578-slaughter-dao"
   ],
-  "updatedAt": "2026-08-22T00:48:47.466Z"
+  "updatedAt": "2026-08-22T10:22:20.684Z"
 }

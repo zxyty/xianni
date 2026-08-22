@@ -10,19 +10,20 @@
     "天妖城城池",
     "天妖",
     "天妖城妖族大城",
-    "天妖城池"
+    "天妖城池",
+    "天妖城燕京"
   ],
   "summary": "天运星上的城池，需以妖晶/结晶换取进入资格，黑衣男子猎杀妖灵之兽正为凑足此资格。",
   "attributes": {
     "所属界面": "妖灵之地",
-    "类型": "城池、京都（九城组合）、都城、大城、妖修城池/势力驻地、妖族主城",
+    "类型": "城池、京都（九城组合）、都城、大城、妖修城池/势力驻地、妖族主城、城池 / 郡",
     "特产": "龙气（九龙山脉散出之雾，吐纳可增修为）",
     "所属势力": "妖帝",
     "方位": "天妖郡北方，龙潭与九龙龙头之前",
-    "规模": "含四大牢狱、皇宫、多郡城",
+    "规模": "含燕京与八个外城",
     "上级区域": "天妖郡",
-    "守护": "城外十八座传送阵各有妖兵常年把守、四大牢狱、妖将、狱将体系、燕京剑阁与帝剑、王者帝君",
-    "危险度": "高（高手如云，大罗剑宗盘踞）"
+    "守护": "城外十八座传送阵各有妖兵常年把守、四大牢狱、妖将、狱将体系、燕京剑阁与帝剑、王者帝君、妖兵、黑甲军士",
+    "危险度": "高（每日纷斗不断）"
   },
   "observations": {
     "所属界面": [
@@ -67,6 +68,11 @@
         "value": "妖族主城",
         "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
         "seq": 546
+      },
+      {
+        "value": "城池 / 郡",
+        "docId": "plot.xianni-ch578-slaughter-dao",
+        "seq": 548
       }
     ],
     "特产": [
@@ -116,6 +122,11 @@
         "value": "含四大牢狱、皇宫、多郡城",
         "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
         "seq": 544
+      },
+      {
+        "value": "含燕京与八个外城",
+        "docId": "plot.xianni-ch578-slaughter-dao",
+        "seq": 548
       }
     ],
     "上级区域": [
@@ -145,6 +156,11 @@
         "value": "王者帝君",
         "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
         "seq": 546
+      },
+      {
+        "value": "妖兵、黑甲军士",
+        "docId": "plot.xianni-ch578-slaughter-dao",
+        "seq": 548
       }
     ],
     "危险度": [
@@ -152,6 +168,11 @@
         "value": "高（高手如云，大罗剑宗盘踞）",
         "docId": "plot.xianni-ch569-luanjing-preface-tianyao-city",
         "seq": 542
+      },
+      {
+        "value": "高（每日纷斗不断）",
+        "docId": "plot.xianni-ch578-slaughter-dao",
+        "seq": 548
       }
     ]
   },
@@ -190,9 +211,9 @@
     },
     "规模": {
       "asOf": null,
-      "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
+      "docId": "plot.xianni-ch578-slaughter-dao",
       "dated": false,
-      "seq": 544
+      "seq": 548
     },
     "上级区域": {
       "asOf": null,
@@ -208,9 +229,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch569-luanjing-preface-tianyao-city",
+      "docId": "plot.xianni-ch578-slaughter-dao",
       "dated": false,
-      "seq": 542
+      "seq": 548
     }
   },
   "contested": false,
@@ -220,7 +241,8 @@
     "plot.xianni-ch568-tianyao-city-familiar-face",
     "plot.xianni-ch569-luanjing-preface-tianyao-city",
     "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
-    "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai"
+    "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+    "plot.xianni-ch578-slaughter-dao"
   ],
-  "updatedAt": "2026-08-22T10:03:29.826Z"
+  "updatedAt": "2026-08-22T10:22:20.717Z"
 }
