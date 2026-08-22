@@ -190,3 +190,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T18:27:21.211Z** `ingest` plot.xianni-ch637-save-zhou-yi-tidal-abyss-rift — 第637章 救周佚：王林硬闯裂缝，力抗剑尊凌天候残念 · kind=plot asOf=2026-08-22 entities=31 relations=36 src=00596-00599.p4.md
 - **2026-08-22T18:30:18.133Z** `ingest` plot.xianni-ch638-xin-si-wang-lin-breaks-lingtianhou-seal-zhou-yi — 第638章 心死｜王林七笔仙文符闯潮汐深渊裂缝，直面被封印的周佚 · kind=plot asOf=2026-08-22 entities=22 relations=39 src=00600-00604.p1.md
 - **2026-08-22T18:32:59.396Z** `ingest` plot.xianni-ch639-zhou-yi-benming-jianqi — 第639章 周佚的本命剑气——雨之仙剑剑灵破封，青霜身世点醒 · kind=plot asOf=2026-08-22 entities=20 relations=28 src=00600-00604.p2.md
+- **2026-08-22T18:35:07.163Z** `ingest` plot.xianni-ch640-two-gifts-and-the-tidal-abyss-pit — 第640章 大礼！小坑！——周佚赠剑传承，潮汐深渊底部巨坑 · kind=plot asOf=2026-08-22 entities=21 relations=30 src=00600-00604.p3.md
