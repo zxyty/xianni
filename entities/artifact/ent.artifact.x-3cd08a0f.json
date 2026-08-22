@@ -3,21 +3,26 @@
   "type": "artifact",
   "name": "捆仙网",
   "aliases": [
-    "青光大网"
+    "青光大网",
+    "捆仙网法宝",
+    "Kun Xian Wang",
+    "捆仙之网"
   ],
   "summary": "青光闪烁的仙界网状法宝；矮小老者三次试用中前两次都把自己捆住三天，故视之为诡异，非万不得已不用。",
   "attributes": {
     "持有者": "矮小老者",
-    "外形": "青光闪烁的网",
-    "能力": "捆缚目标约三天",
-    "禁制": "认不清敌我，曾两次反捆持有者"
+    "外形": "闪烁微微青光的网，展开时无限扩大如天下之天、地上之地",
+    "能力": "捆缚目标约三天、展开融于天地、化天地青芒收拢、网内一切逃遁神通失效、神识无法穿透其青芒、捆缚目标至连手指都无法动弹、可自行移送被捆者",
+    "禁制": "择敌不明，屡次反捆自家主人（老者疑其原主人即被它害死）",
+    "来历": "矮小老者由奇遇获得"
   },
   "observations": {
     "持有者": [
       {
         "value": "矮小老者",
         "docId": "plot.xianni-ch623-kunxian-net-plea",
-        "seq": 581
+        "seq": 581,
+        "note": "第624章反噬捆住持有者本人"
       }
     ],
     "外形": [
@@ -25,6 +30,11 @@
         "value": "青光闪烁的网",
         "docId": "plot.xianni-ch623-kunxian-net-plea",
         "seq": 581
+      },
+      {
+        "value": "闪烁微微青光的网，展开时无限扩大如天下之天、地上之地",
+        "docId": "plot.xianni-ch624-kunxianwang-backfires-captures-old-man",
+        "seq": 586
       }
     ],
     "能力": [
@@ -32,6 +42,31 @@
         "value": "捆缚目标约三天",
         "docId": "plot.xianni-ch623-kunxian-net-plea",
         "seq": 581
+      },
+      {
+        "value": "展开融于天地、化天地青芒收拢",
+        "docId": "plot.xianni-ch624-kunxianwang-backfires-captures-old-man",
+        "seq": 586
+      },
+      {
+        "value": "网内一切逃遁神通失效",
+        "docId": "plot.xianni-ch624-kunxianwang-backfires-captures-old-man",
+        "seq": 586
+      },
+      {
+        "value": "神识无法穿透其青芒",
+        "docId": "plot.xianni-ch624-kunxianwang-backfires-captures-old-man",
+        "seq": 586
+      },
+      {
+        "value": "捆缚目标至连手指都无法动弹",
+        "docId": "plot.xianni-ch624-kunxianwang-backfires-captures-old-man",
+        "seq": 586
+      },
+      {
+        "value": "可自行移送被捆者",
+        "docId": "plot.xianni-ch624-kunxianwang-backfires-captures-old-man",
+        "seq": 586
       }
     ],
     "禁制": [
@@ -40,6 +75,18 @@
         "docId": "plot.xianni-ch623-kunxian-net-plea",
         "seq": 581,
         "note": "老者操控力极弱"
+      },
+      {
+        "value": "择敌不明，屡次反捆自家主人（老者疑其原主人即被它害死）",
+        "docId": "plot.xianni-ch624-kunxianwang-backfires-captures-old-man",
+        "seq": 586
+      }
+    ],
+    "来历": [
+      {
+        "value": "矮小老者由奇遇获得",
+        "docId": "plot.xianni-ch624-kunxianwang-backfires-captures-old-man",
+        "seq": 586
       }
     ]
   },
@@ -49,13 +96,14 @@
       "asOf": null,
       "docId": "plot.xianni-ch623-kunxian-net-plea",
       "dated": false,
-      "seq": 581
+      "seq": 581,
+      "note": "第624章反噬捆住持有者本人"
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch623-kunxian-net-plea",
+      "docId": "plot.xianni-ch624-kunxianwang-backfires-captures-old-man",
       "dated": false,
-      "seq": 581
+      "seq": 586
     },
     "能力": {
       "asOf": null,
@@ -65,16 +113,22 @@
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.xianni-ch623-kunxian-net-plea",
+      "docId": "plot.xianni-ch624-kunxianwang-backfires-captures-old-man",
       "dated": false,
-      "seq": 581,
-      "note": "老者操控力极弱"
+      "seq": 586
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch624-kunxianwang-backfires-captures-old-man",
+      "dated": false,
+      "seq": 586
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch623-kunxian-net-plea"
+    "plot.xianni-ch623-kunxian-net-plea",
+    "plot.xianni-ch624-kunxianwang-backfires-captures-old-man"
   ],
-  "updatedAt": "2026-08-22T16:48:31.526Z"
+  "updatedAt": "2026-08-22T16:51:08.600Z"
 }
