@@ -3,12 +3,13 @@
   "type": "place",
   "name": "火妖郡妖谷",
   "aliases": [
-    "妖谷"
+    "妖谷",
+    "火妖郡都城妖谷"
   ],
   "summary": "火妖郡的妖谷，与他郡不同，位于都城城内深处，散出浓浓妖气笼罩燕京。",
   "attributes": {
-    "类型": "妖谷",
-    "方位": "燕京城内深处",
+    "类型": "妖气源地",
+    "方位": "火妖郡都城中心",
     "上级区域": "燕京"
   },
   "observations": {
@@ -17,6 +18,11 @@
         "value": "妖谷",
         "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
         "seq": 586
+      },
+      {
+        "value": "妖气源地",
+        "docId": "plot.xianni-ch629-ancient-demon-war-fire-yao-jun",
+        "seq": 591
       }
     ],
     "方位": [
@@ -24,6 +30,11 @@
         "value": "燕京城内深处",
         "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
         "seq": 586
+      },
+      {
+        "value": "火妖郡都城中心",
+        "docId": "plot.xianni-ch629-ancient-demon-war-fire-yao-jun",
+        "seq": 591
       }
     ],
     "上级区域": [
@@ -38,15 +49,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
+      "docId": "plot.xianni-ch629-ancient-demon-war-fire-yao-jun",
       "dated": false,
-      "seq": 586
+      "seq": 591
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
+      "docId": "plot.xianni-ch629-ancient-demon-war-fire-yao-jun",
       "dated": false,
-      "seq": 586
+      "seq": 591
     },
     "上级区域": {
       "asOf": null,
@@ -58,7 +69,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch627-chuguan-lianhun-tribe-siege"
+    "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
+    "plot.xianni-ch629-ancient-demon-war-fire-yao-jun"
   ],
-  "updatedAt": "2026-08-22T17:12:06.909Z"
+  "updatedAt": "2026-08-22T17:16:18.082Z"
 }

@@ -5,13 +5,15 @@
   "aliases": [
     "妖幕",
     "燕京妖气封印",
-    "都城封印"
+    "都城封印",
+    "古妖封印",
+    "火妖郡都城妖幕"
   ],
   "summary": "火妖郡古妖布于燕京外十里的自保封印，触之有庞大反弹之力；除古妖外只有大神通修士可破。",
   "attributes": {
-    "效果": "阻止任何人踏入都城、触碰即产生庞大反弹之力，使人酸麻入筋脉",
+    "效果": "阻止任何人踏入都城、触碰即产生庞大反弹之力，使人酸麻入筋脉、封护火妖郡都城",
     "布置者": "火妖郡古妖",
-    "破解法": "同为古妖者，或修为惊人的大神通修士",
+    "破解法": "分散开、一刹那全位置同时迅猛打击，威力不足无效",
     "品阶": "其他几郡妖帅皆无法破除"
   },
   "observations": {
@@ -25,6 +27,11 @@
         "value": "触碰即产生庞大反弹之力，使人酸麻入筋脉",
         "docId": "plot.xianni-ch628-million-slaughter-qi-break-fire-yao-seal",
         "seq": 586
+      },
+      {
+        "value": "封护火妖郡都城",
+        "docId": "plot.xianni-ch629-ancient-demon-war-fire-yao-jun",
+        "seq": 591
       }
     ],
     "布置者": [
@@ -39,6 +46,11 @@
         "value": "同为古妖者，或修为惊人的大神通修士",
         "docId": "plot.xianni-ch628-million-slaughter-qi-break-fire-yao-seal",
         "seq": 586
+      },
+      {
+        "value": "分散开、一刹那全位置同时迅猛打击，威力不足无效",
+        "docId": "plot.xianni-ch629-ancient-demon-war-fire-yao-jun",
+        "seq": 591
       }
     ],
     "品阶": [
@@ -65,9 +77,9 @@
     },
     "破解法": {
       "asOf": null,
-      "docId": "plot.xianni-ch628-million-slaughter-qi-break-fire-yao-seal",
+      "docId": "plot.xianni-ch629-ancient-demon-war-fire-yao-jun",
       "dated": false,
-      "seq": 586
+      "seq": 591
     },
     "品阶": {
       "asOf": null,
@@ -79,7 +91,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch628-million-slaughter-qi-break-fire-yao-seal"
+    "plot.xianni-ch628-million-slaughter-qi-break-fire-yao-seal",
+    "plot.xianni-ch629-ancient-demon-war-fire-yao-jun"
   ],
-  "updatedAt": "2026-08-22T17:14:09.621Z"
+  "updatedAt": "2026-08-22T17:16:18.080Z"
 }

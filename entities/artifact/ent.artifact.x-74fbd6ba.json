@@ -5,15 +5,17 @@
   "aliases": [
     "片胸甲",
     "肩甲",
-    "魔甲"
+    "魔甲",
+    "散魔之甲",
+    "古魔座下散魔之甲"
   ],
   "summary": "铠甲男赐下的三件魔甲，化黑丝钻入受者体内成黑纹，凝成充满滔天魔焰的黑色铠甲，并幻化单角黑影入其眉心使之成为魔仆。",
   "attributes": {
     "品阶": "魔宝",
-    "来历": "自铠甲男本体飞出的护腕、胸甲、肩甲",
-    "能力": "化黑丝入体成黑纹并显化黑色铠甲、生出滔天魔焰、幻化单角黑影入眉心，使受者成魔仆",
-    "外形": "简单的黑色铠甲，魔焰充斥",
-    "持有者": "黑衣老者"
+    "来历": "古魔座下散魔之甲",
+    "能力": "化黑丝入体成黑纹并显化黑色铠甲、生出滔天魔焰、幻化单角黑影入眉心，使受者成魔仆、魔气护体挡攻击、供化魔指抽取魔气爆发",
+    "外形": "黑丝化狰狞黑色铠甲，覆面只露双目",
+    "持有者": "王林"
   },
   "observations": {
     "品阶": [
@@ -28,6 +30,11 @@
         "value": "自铠甲男本体飞出的护腕、胸甲、肩甲",
         "docId": "plot.xianni-ch604-ten-years-enlightenment-dao-yellow-springs",
         "seq": 561
+      },
+      {
+        "value": "古魔座下散魔之甲",
+        "docId": "plot.xianni-ch629-ancient-demon-war-fire-yao-jun",
+        "seq": 591
       }
     ],
     "能力": [
@@ -45,6 +52,16 @@
         "value": "幻化单角黑影入眉心，使受者成魔仆",
         "docId": "plot.xianni-ch604-ten-years-enlightenment-dao-yellow-springs",
         "seq": 561
+      },
+      {
+        "value": "魔气护体挡攻击",
+        "docId": "plot.xianni-ch629-ancient-demon-war-fire-yao-jun",
+        "seq": 591
+      },
+      {
+        "value": "供化魔指抽取魔气爆发",
+        "docId": "plot.xianni-ch629-ancient-demon-war-fire-yao-jun",
+        "seq": 591
       }
     ],
     "外形": [
@@ -52,6 +69,11 @@
         "value": "简单的黑色铠甲，魔焰充斥",
         "docId": "plot.xianni-ch604-ten-years-enlightenment-dao-yellow-springs",
         "seq": 561
+      },
+      {
+        "value": "黑丝化狰狞黑色铠甲，覆面只露双目",
+        "docId": "plot.xianni-ch629-ancient-demon-war-fire-yao-jun",
+        "seq": 591
       }
     ],
     "持有者": [
@@ -59,6 +81,11 @@
         "value": "黑衣老者",
         "docId": "plot.xianni-ch604-ten-years-enlightenment-dao-yellow-springs",
         "seq": 561
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch629-ancient-demon-war-fire-yao-jun",
+        "seq": 591
       }
     ]
   },
@@ -72,9 +99,9 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch604-ten-years-enlightenment-dao-yellow-springs",
+      "docId": "plot.xianni-ch629-ancient-demon-war-fire-yao-jun",
       "dated": false,
-      "seq": 561
+      "seq": 591
     },
     "能力": {
       "asOf": null,
@@ -84,21 +111,22 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch604-ten-years-enlightenment-dao-yellow-springs",
+      "docId": "plot.xianni-ch629-ancient-demon-war-fire-yao-jun",
       "dated": false,
-      "seq": 561
+      "seq": 591
     },
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch604-ten-years-enlightenment-dao-yellow-springs",
+      "docId": "plot.xianni-ch629-ancient-demon-war-fire-yao-jun",
       "dated": false,
-      "seq": 561
+      "seq": 591
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch604-ten-years-enlightenment-dao-yellow-springs"
+    "plot.xianni-ch604-ten-years-enlightenment-dao-yellow-springs",
+    "plot.xianni-ch629-ancient-demon-war-fire-yao-jun"
   ],
-  "updatedAt": "2026-08-22T13:54:22.728Z"
+  "updatedAt": "2026-08-22T17:16:18.070Z"
 }
