@@ -5,12 +5,15 @@
   "aliases": [
     "山石下的青年",
     "收灵石的青年",
-    "孙家青年"
+    "孙家青年",
+    "打坐青年",
+    "轻蔑青年",
+    "山石下打坐的青年"
   ],
   "summary": "守在山石下吐纳的孙家修士，收王林百块灵石后发放令牌，轻蔑地认为王林资质寻常、结丹全靠丹药。",
   "attributes": {
-    "身份": "孙家灵地入口看守",
-    "性格": "轻蔑、势利",
+    "身份": "孙家灵地入口看守、本地修士",
+    "性格": "轻蔑、势利、轻蔑、不耐、争抢灵气",
     "外貌": "青年"
   },
   "observations": {
@@ -19,12 +22,22 @@
         "value": "孙家灵地入口看守",
         "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
         "seq": 621
+      },
+      {
+        "value": "本地修士",
+        "docId": "plot.xianni-ch663-sun-lao-baohe-lou",
+        "seq": 621
       }
     ],
     "性格": [
       {
         "value": "轻蔑、势利",
         "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
+        "seq": 621
+      },
+      {
+        "value": "轻蔑、不耐、争抢灵气",
+        "docId": "plot.xianni-ch663-sun-lao-baohe-lou",
         "seq": 621
       }
     ],
@@ -60,7 +73,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch662-mou-yu-ranyun-star-hideout"
+    "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
+    "plot.xianni-ch663-sun-lao-baohe-lou"
   ],
-  "updatedAt": "2026-08-22T22:21:34.723Z"
+  "updatedAt": "2026-08-22T22:24:27.953Z"
 }

@@ -1,0 +1,53 @@
+{
+  "id": "ent.artifact.x-b2eb0194",
+  "type": "artifact",
+  "name": "王林炼制的飞剑",
+  "aliases": [
+    "劣质飞剑",
+    "宝合楼门前的飞剑"
+  ],
+  "summary": "王林拿到宝合楼欲售的飞剑。外观手段低劣、剑光黯淡，被卢峰肉眼判为连下品法宝都不是而拒收，但卢峰事后隐约觉其不同寻常。",
+  "attributes": {
+    "持有者": "王林",
+    "外形": "剑光黯淡、炼制手段极为低劣"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch663-sun-lao-baohe-lou",
+        "seq": 621
+      }
+    ],
+    "外形": [
+      {
+        "value": "剑光黯淡、炼制手段极为低劣",
+        "docId": "plot.xianni-ch663-sun-lao-baohe-lou",
+        "seq": 621,
+        "note": "卢峰的判断，事后其自觉有异"
+      }
+    ]
+  },
+  "firstSeq": 621,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.xianni-ch663-sun-lao-baohe-lou",
+      "dated": false,
+      "seq": 621
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.xianni-ch663-sun-lao-baohe-lou",
+      "dated": false,
+      "seq": 621,
+      "note": "卢峰的判断，事后其自觉有异"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.xianni-ch663-sun-lao-baohe-lou"
+  ],
+  "updatedAt": "2026-08-22T22:24:27.956Z"
+}
