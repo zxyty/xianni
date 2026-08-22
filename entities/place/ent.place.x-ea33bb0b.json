@@ -9,15 +9,18 @@
     "王林所在军营",
     "百里军营",
     "古妖城黑甲军营",
-    "百里广场军营"
+    "百里广场军营",
+    "黑甲军营地"
   ],
   "summary": "以黑石搭建、方圆百里的妖族军营，百里外有高数十丈、附法术加持的巨大城墙；万名黑甲妖兵分十个千人方队驻守，王林由传送阵落在其正中心。",
   "attributes": {
-    "所属势力": "妖族黑甲军",
+    "所属势力": "妖族（妖将统辖）",
     "类型": "军营",
-    "规模": "方圆百里，驻万名黑甲妖兵（十个千人方队）、百里、九千妖兵、九个统队、百里广场、九千妖兵",
+    "规模": "方圆百里，驻万名黑甲妖兵（十个千人方队）、百里、九千妖兵、九个统队、百里广场、九千妖兵、百里外墙，上万黑甲妖兵",
     "上级区域": "妖灵之地、告妖城、古妖城",
-    "守护": "军营阵法"
+    "守护": "外墙黑雾状防护屏障",
+    "方位": "古妖城附近，鼓山千里外",
+    "所属界面": "妖灵之地"
   },
   "observations": {
     "所属势力": [
@@ -30,6 +33,11 @@
         "value": "妖族黑甲军",
         "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
         "seq": 527
+      },
+      {
+        "value": "妖族（妖将统辖）",
+        "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
+        "seq": 534
       }
     ],
     "类型": [
@@ -64,6 +72,11 @@
         "value": "百里广场、九千妖兵",
         "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
         "seq": 527
+      },
+      {
+        "value": "百里外墙，上万黑甲妖兵",
+        "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
+        "seq": 534
       }
     ],
     "上级区域": [
@@ -93,6 +106,25 @@
         "value": "军营阵法",
         "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
         "seq": 527
+      },
+      {
+        "value": "外墙黑雾状防护屏障",
+        "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
+        "seq": 534
+      }
+    ],
+    "方位": [
+      {
+        "value": "古妖城附近，鼓山千里外",
+        "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
+        "seq": 534
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "妖灵之地",
+        "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
+        "seq": 534
       }
     ]
   },
@@ -100,9 +132,9 @@
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
+      "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
       "dated": false,
-      "seq": 527
+      "seq": 534
     },
     "类型": {
       "asOf": null,
@@ -124,16 +156,29 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
+      "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
       "dated": false,
-      "seq": 527
+      "seq": 534
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
+      "dated": false,
+      "seq": 534
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
+      "dated": false,
+      "seq": 534
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
-    "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority"
+    "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
+    "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber"
   ],
-  "updatedAt": "2026-08-22T07:41:19.444Z"
+  "updatedAt": "2026-08-22T08:21:23.141Z"
 }

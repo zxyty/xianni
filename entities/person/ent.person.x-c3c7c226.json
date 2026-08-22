@@ -10,7 +10,9 @@
     "血玉女子",
     "坐在血玉之上的女子",
     "姚道友",
-    "姚某"
+    "姚某",
+    "姚惜雪师姐",
+    "姚惜雪小姐"
   ],
   "summary": "血祖姚星海独女，乘血玉降临东海妖灵之门外，一语不发就地打坐；被其父尽传功法并逆天改命成就神通之术。",
   "attributes": {
@@ -21,8 +23,9 @@
     "性格": "沉默寡言、气势迫人、果断、谨慎、精于算计、高傲、心机深、有求于人时能强压脾气、洒脱、冰冷、狠毒、冷傲、寡言、务实、阴沉、有杀机但极重时机权衡、阴沉、工于算计、恃恩不谢",
     "阵营": "血星",
     "标志特征": "身周百丈无人敢踏入、立于血玉之上、化血光而行、血光神通、血符令牌、双目内三笔金色符文烙印、目中三笔符文、储物袋内存有足够百年使用的血玉、神通多以血功为主，挥手先出血色、眉心生之烙印，生死停滞、求死不能",
-    "存殁": "不死不生（被封印于禁制之球内）",
-    "小阶段": "婴变后期"
+    "存殁": "死亡",
+    "小阶段": "略低于婴变后期大圆满",
+    "结局": "遗留四个储物袋与平台血迹、被封印的石像"
   },
   "observations": {
     "性别": [
@@ -229,6 +232,12 @@
         "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
         "seq": 532,
         "note": "经脉寸断本该气绝，因生之烙印无法死亡"
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
+        "seq": 534,
+        "note": "第532章已死；本片段仅涉其遗物与回忆性提及"
       }
     ],
     "小阶段": [
@@ -237,6 +246,19 @@
         "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
         "seq": 527,
         "note": "第553章王林所观"
+      },
+      {
+        "value": "略低于婴变后期大圆满",
+        "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
+        "seq": 534,
+        "note": "第561章王林修为已高出其一些"
+      }
+    ],
+    "结局": [
+      {
+        "value": "遗留四个储物袋与平台血迹、被封印的石像",
+        "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
+        "seq": 534
       }
     ]
   },
@@ -286,17 +308,23 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
+      "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
       "dated": false,
-      "seq": 532,
-      "note": "经脉寸断本该气绝，因生之烙印无法死亡"
+      "seq": 534,
+      "note": "第532章已死；本片段仅涉其遗物与回忆性提及"
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
+      "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
       "dated": false,
-      "seq": 527,
-      "note": "第553章王林所观"
+      "seq": 534,
+      "note": "第561章王林修为已高出其一些"
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
+      "dated": false,
+      "seq": 534
     }
   },
   "contested": false,
@@ -307,7 +335,8 @@
     "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
     "plot.xianni-ch518-522-jincheng-guyaocheng",
     "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
-    "plot.xianni-ch532-533-three-stroke-rune-second-seal"
+    "plot.xianni-ch532-533-three-stroke-rune-second-seal",
+    "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber"
   ],
-  "updatedAt": "2026-08-22T08:01:12.130Z"
+  "updatedAt": "2026-08-22T08:21:23.059Z"
 }

@@ -4,13 +4,18 @@
   "name": "左翼妖将宫殿",
   "aliases": [
     "妖将宫殿",
-    "巨大宫殿"
+    "巨大宫殿",
+    "古妖城中心宫殿",
+    "妖将所在宫殿"
   ],
   "summary": "传送阵另一端的高耸入云宫殿，殿内有一尊铠甲壮汉巨像直插云霄，妖异之气搅动天空形成漩涡。",
   "attributes": {
     "类型": "宫殿",
-    "所属势力": "左翼妖将",
-    "守护": "左翼妖将"
+    "所属势力": "天妖郡",
+    "守护": "左翼妖将、六门、阵法笼罩禁绝瞬移、数千至上万妖兵",
+    "方位": "古妖城中心",
+    "上级区域": "古妖城",
+    "危险度": "极高"
   },
   "observations": {
     "类型": [
@@ -25,6 +30,11 @@
         "value": "左翼妖将",
         "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
         "seq": 518
+      },
+      {
+        "value": "天妖郡",
+        "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
+        "seq": 534
       }
     ],
     "守护": [
@@ -32,6 +42,42 @@
         "value": "左翼妖将",
         "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
         "seq": 518
+      },
+      {
+        "value": "六门",
+        "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
+        "seq": 534
+      },
+      {
+        "value": "阵法笼罩禁绝瞬移",
+        "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
+        "seq": 534
+      },
+      {
+        "value": "数千至上万妖兵",
+        "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
+        "seq": 534
+      }
+    ],
+    "方位": [
+      {
+        "value": "古妖城中心",
+        "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
+        "seq": 534
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "古妖城",
+        "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
+        "seq": 534
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
+        "seq": 534
       }
     ]
   },
@@ -45,21 +91,40 @@
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
+      "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
       "dated": false,
-      "seq": 518
+      "seq": 534
     },
     "守护": {
       "asOf": null,
       "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
       "dated": false,
       "seq": 518
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
+      "dated": false,
+      "seq": 534
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
+      "dated": false,
+      "seq": 534
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
+      "dated": false,
+      "seq": 534
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch518-522-jincheng-guyaocheng"
+    "plot.xianni-ch518-522-jincheng-guyaocheng",
+    "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber"
   ],
-  "updatedAt": "2026-08-22T06:58:54.776Z"
+  "updatedAt": "2026-08-22T08:21:23.107Z"
 }

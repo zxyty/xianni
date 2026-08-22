@@ -129,3 +129,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T07:17:10.832Z** `ingest` plot.xianni-ch546-yaobing-guyaocheng-tavern-clash — 仙逆 第546章 妖兵——古妖城酒楼冲突与王林魔念躁动 · kind=plot asOf=2026-08-22 entities=61 relations=104 src=00523-00526.md
 - **2026-08-22T07:41:19.615Z** `ingest` plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority — 仙逆 第550章 姚惜雪：王林立威黑甲军营，紫妖升耀之夜 · kind=plot asOf=2026-08-22 entities=80 relations=160 src=00527-00531.md
 - **2026-08-22T08:01:12.352Z** `ingest` plot.xianni-ch532-533-three-stroke-rune-second-seal — 仙逆 第532-533章 三符归一·扭转乾坤：王林破第二尊石像、集齐三笔金符 · kind=plot asOf=2026-08-22 entities=65 relations=119 src=00532-00533.md
+- **2026-08-22T08:21:23.265Z** `ingest` plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber — 仙逆 第534-536章：破十丈仙禁得洞府令、一滴仙酒沉睡一年、修为直逼问鼎 · kind=plot asOf=2026-08-22 entities=74 relations=135 src=00534-00536.md
