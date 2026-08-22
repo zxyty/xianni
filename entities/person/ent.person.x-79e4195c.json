@@ -7,8 +7,10 @@
   ],
   "summary": "妖将中唯一没有城池之人，常年在火妖郡以杀戮修炼，一身杀戮道传闻早已达到巅峰。",
   "attributes": {
-    "身份": "妖将（唯一无城池者）",
-    "出身地": "火妖郡（常年修炼之地）"
+    "身份": "妖将",
+    "出身地": "火妖郡（常年修炼之地）",
+    "标志特征": "全身散发阴寒气息",
+    "性格": "好战"
   },
   "observations": {
     "身份": [
@@ -17,6 +19,11 @@
         "docId": "plot.xianni-ch578-slaughter-dao",
         "seq": 548,
         "note": "所有妖将中唯一没有城池之人"
+      },
+      {
+        "value": "妖将",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+        "seq": 550
       }
     ],
     "出身地": [
@@ -25,28 +32,54 @@
         "docId": "plot.xianni-ch578-slaughter-dao",
         "seq": 548
       }
+    ],
+    "标志特征": [
+      {
+        "value": "全身散发阴寒气息",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+        "seq": 550
+      }
+    ],
+    "性格": [
+      {
+        "value": "好战",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+        "seq": 550
+      }
     ]
   },
   "firstSeq": 548,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch578-slaughter-dao",
+      "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
       "dated": false,
-      "seq": 548,
-      "note": "所有妖将中唯一没有城池之人"
+      "seq": 550
     },
     "出身地": {
       "asOf": null,
       "docId": "plot.xianni-ch578-slaughter-dao",
       "dated": false,
       "seq": 548
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+      "dated": false,
+      "seq": 550
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+      "dated": false,
+      "seq": 550
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch578-slaughter-dao"
+    "plot.xianni-ch578-slaughter-dao",
+    "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear"
   ],
-  "updatedAt": "2026-08-22T10:22:20.710Z"
+  "updatedAt": "2026-08-22T11:31:33.185Z"
 }

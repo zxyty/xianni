@@ -3,13 +3,16 @@
   "type": "artifact",
   "name": "金色长枪",
   "aliases": [
-    "太阳金芒长枪"
+    "太阳金芒长枪",
+    "太阳之光长枪",
+    "金枪"
   ],
   "summary": "金甲男子虚空凝聚太阳金芒所化的长枪,投掷攻向王林。",
   "attributes": {
     "持有者": "金甲男子",
-    "能力": "凝阳光成枪、投掷远击",
-    "外形": "金色长枪"
+    "能力": "凝阳光成枪、投掷远击、锁定目标、威若开天辟地、可化作阳光消散",
+    "外形": "金色长枪",
+    "来历": "以太阳之光凝聚而成"
   },
   "observations": {
     "持有者": [
@@ -24,12 +27,34 @@
         "value": "凝阳光成枪、投掷远击",
         "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
         "seq": 550
+      },
+      {
+        "value": "锁定目标",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+        "seq": 550
+      },
+      {
+        "value": "威若开天辟地",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+        "seq": 550
+      },
+      {
+        "value": "可化作阳光消散",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+        "seq": 550
       }
     ],
     "外形": [
       {
         "value": "金色长枪",
         "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
+        "seq": 550
+      }
+    ],
+    "来历": [
+      {
+        "value": "以太阳之光凝聚而成",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
         "seq": 550
       }
     ]
@@ -53,12 +78,19 @@
       "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
       "dated": false,
       "seq": 550
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+      "dated": false,
+      "seq": 550
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu"
+    "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
+    "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear"
   ],
-  "updatedAt": "2026-08-22T11:18:43.320Z"
+  "updatedAt": "2026-08-22T11:31:33.196Z"
 }

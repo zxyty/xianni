@@ -6,14 +6,19 @@
     "身穿金色铠甲的男子",
     "金甲人",
     "妖将之战主持者",
-    "金甲主持"
+    "金甲主持",
+    "金甲之人",
+    "大人",
+    "金总管",
+    "金甲总管"
   ],
   "summary": "自广场后方宫殿走出，奉帝君之命宣布妖将之战规则并负责点名竞战之人。",
   "attributes": {
-    "身份": "妖将之战主持者、妖将之战主持/裁判",
-    "外貌": "身穿金色铠甲、身穿金甲",
+    "身份": "妖将之战主持者、妖将之战主持/裁判、妖灵地高位者·被王林称『大人』、总管、妖将之战主持/裁决者",
+    "外貌": "身穿金色铠甲、身穿金甲、身着金甲",
     "阵营": "帝君麾下",
-    "标志特征": "自天空太阳凝聚金芒化作金色长枪"
+    "标志特征": "自天空太阳凝聚金芒化作金色长枪、身披金甲、阉人",
+    "性格": "阴森、以大欺小"
   },
   "observations": {
     "身份": [
@@ -26,6 +31,22 @@
         "value": "妖将之战主持/裁判",
         "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
         "seq": 550
+      },
+      {
+        "value": "妖灵地高位者·被王林称『大人』",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+        "seq": 550,
+        "note": "第582章"
+      },
+      {
+        "value": "总管",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+        "seq": 550
+      },
+      {
+        "value": "妖将之战主持/裁决者",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+        "seq": 550
       }
     ],
     "外貌": [
@@ -37,6 +58,11 @@
       {
         "value": "身穿金甲",
         "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
+        "seq": 550
+      },
+      {
+        "value": "身着金甲",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
         "seq": 550
       }
     ],
@@ -51,6 +77,23 @@
       {
         "value": "自天空太阳凝聚金芒化作金色长枪",
         "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
+        "seq": 550
+      },
+      {
+        "value": "身披金甲",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+        "seq": 550
+      },
+      {
+        "value": "阉人",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+        "seq": 550
+      }
+    ],
+    "性格": [
+      {
+        "value": "阴森、以大欺小",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
         "seq": 550
       }
     ]
@@ -80,12 +123,19 @@
       "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
       "dated": false,
       "seq": 550
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+      "dated": false,
+      "seq": 550
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu"
+    "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
+    "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear"
   ],
-  "updatedAt": "2026-08-22T11:18:43.317Z"
+  "updatedAt": "2026-08-22T11:31:33.209Z"
 }

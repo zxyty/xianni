@@ -3,13 +3,15 @@
   "type": "faction",
   "name": "天妖门",
   "aliases": [
-    "妖将出场之门"
+    "妖将出场之门",
+    "天妖门势力",
+    "Tian Yao Men"
   ],
   "summary": "位于燕京的势力/门庭，其下万丈广场为妖将之战战场与天妖鼓所在。",
   "attributes": {
-    "据点": "燕京",
+    "据点": "万丈广场",
     "所属界面": "妖灵之地",
-    "阵营": "妖族/妖灵之地"
+    "阵营": "妖族/妖灵之地、妖族"
   },
   "observations": {
     "据点": [
@@ -17,6 +19,11 @@
         "value": "燕京",
         "docId": "plot.xianni-ch578-slaughter-dao",
         "seq": 548
+      },
+      {
+        "value": "万丈广场",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+        "seq": 550
       }
     ],
     "所属界面": [
@@ -31,6 +38,11 @@
         "value": "妖族/妖灵之地",
         "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
         "seq": 550
+      },
+      {
+        "value": "妖族",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+        "seq": 550
       }
     ]
   },
@@ -38,9 +50,9 @@
   "attrProvenance": {
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-ch578-slaughter-dao",
+      "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
       "dated": false,
-      "seq": 548
+      "seq": 550
     },
     "所属界面": {
       "asOf": null,
@@ -59,7 +71,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch578-slaughter-dao",
-    "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu"
+    "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
+    "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear"
   ],
-  "updatedAt": "2026-08-22T11:18:43.327Z"
+  "updatedAt": "2026-08-22T11:31:33.249Z"
 }

@@ -6,12 +6,15 @@
     "河道",
     "画舫小河",
     "画舫河道",
-    "天妖城河道"
+    "天妖城河道",
+    "燕京河道",
+    "闻琴河道"
   ],
   "summary": "洪城内的河道，画舫往来其上，王林连坐三日于此听明萱琴音。",
   "attributes": {
     "类型": "河道",
-    "上级区域": "天妖城"
+    "上级区域": "天妖城",
+    "特产": "画舫琴音"
   },
   "observations": {
     "类型": [
@@ -32,6 +35,13 @@
         "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
         "seq": 546
       }
+    ],
+    "特产": [
+      {
+        "value": "画舫琴音",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+        "seq": 550
+      }
     ]
   },
   "firstSeq": 544,
@@ -47,13 +57,20 @@
       "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
       "dated": false,
       "seq": 546
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+      "dated": false,
+      "seq": 550
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
-    "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai"
+    "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+    "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear"
   ],
-  "updatedAt": "2026-08-22T10:03:29.829Z"
+  "updatedAt": "2026-08-22T11:31:33.249Z"
 }

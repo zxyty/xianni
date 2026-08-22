@@ -9,16 +9,18 @@
     "银芒飞剑",
     "银剑",
     "帝剑银龙",
-    "天妖城帝剑"
+    "天妖城帝剑",
+    "Emperor Sword"
   ],
   "summary": "妖帝之剑，需以天妖城四大牢狱产生的杀戮之气喂养。",
   "attributes": {
     "持有者": "妖帝、帝君、燕京剑阁黄袍人",
-    "能力": "以杀戮之气喂养、化银龙爪击、口吐剑芒（一剑劈出千丈沟壑）、自主寻人、与洪牢对抗、化银龙、巨爪拍击、剑鸣示意、时刻搜寻王林踪迹",
+    "能力": "以杀戮之气喂养、化银龙爪击、口吐剑芒（一剑劈出千丈沟壑）、自主寻人、与洪牢对抗、化银龙、巨爪拍击、剑鸣示意、时刻搜寻王林踪迹、远距离感应特定气息、剑灵化形为少女、剑芒",
     "来历": "天妖城四大牢狱真正的存在意义即为其供食",
-    "外形": "蛇形银剑、银龙、化作银芒的飞剑、银剑、银龙（巨爪）、剑",
-    "禁制": "平日镇于剑阁血色阵法（阵限）内、被洪牢牵制、被燕京剑阁阵法封禁",
-    "品阶": "不次于（墨非两名随从）师尊之剑"
+    "外形": "蛇形银剑、银龙、化作银芒的飞剑、银剑、银龙（巨爪）、剑、插于地面的长剑，剑体传出嗡呜",
+    "禁制": "平日镇于剑阁血色阵法（阵限）内、被洪牢牵制、被燕京剑阁阵法封禁、帝君令其安静数日、妖将之战期间不得外出，违者送龙潭",
+    "品阶": "不次于（墨非两名随从）师尊之剑",
+    "器灵": "帝剑剑灵(双十年华少女)"
   },
   "observations": {
     "持有者": [
@@ -84,6 +86,21 @@
         "value": "时刻搜寻王林踪迹",
         "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
         "seq": 546
+      },
+      {
+        "value": "远距离感应特定气息",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+        "seq": 550
+      },
+      {
+        "value": "剑灵化形为少女",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+        "seq": 550
+      },
+      {
+        "value": "剑芒",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+        "seq": 550
       }
     ],
     "来历": [
@@ -123,6 +140,11 @@
         "value": "剑",
         "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
         "seq": 546
+      },
+      {
+        "value": "插于地面的长剑，剑体传出嗡呜",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+        "seq": 550
       }
     ],
     "禁制": [
@@ -141,6 +163,12 @@
         "value": "被燕京剑阁阵法封禁",
         "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
         "seq": 546
+      },
+      {
+        "value": "帝君令其安静数日、妖将之战期间不得外出，违者送龙潭",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+        "seq": 550,
+        "note": "本片段生效中"
       }
     ],
     "品阶": [
@@ -149,6 +177,13 @@
         "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
         "seq": 544,
         "note": "道袍二人评语"
+      }
+    ],
+    "器灵": [
+      {
+        "value": "帝剑剑灵(双十年华少女)",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+        "seq": 550
       }
     ]
   },
@@ -190,13 +225,20 @@
       "dated": false,
       "seq": 544,
       "note": "道袍二人评语"
+    },
+    "器灵": {
+      "asOf": null,
+      "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+      "dated": false,
+      "seq": 550
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
-    "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai"
+    "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+    "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear"
   ],
-  "updatedAt": "2026-08-22T10:03:29.831Z"
+  "updatedAt": "2026-08-22T11:31:33.216Z"
 }

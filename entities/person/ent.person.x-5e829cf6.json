@@ -11,7 +11,9 @@
     "身份": "妖将",
     "外貌": "身穿土色铠甲",
     "性格": "好占便宜、自负",
-    "标志特征": "土遁配合本命妖兽;咬舌喷血箭化龙龟"
+    "标志特征": "土遁配合本命妖兽;咬舌喷血箭化龙龟",
+    "存殁": "重伤未死、未死",
+    "结局": "全身经脉寸断、骨头寸断，沦为废人；除非获妖帝天妖丹否则无法挽回"
   },
   "observations": {
     "身份": [
@@ -41,6 +43,28 @@
         "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
         "seq": 550
       }
+    ],
+    "存殁": [
+      {
+        "value": "重伤未死",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+        "seq": 550,
+        "note": "第582章·气若游丝，成废人"
+      },
+      {
+        "value": "未死",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+        "seq": 550,
+        "note": "金甲男子称“斩此次妖将熬迪未死”"
+      }
+    ],
+    "结局": [
+      {
+        "value": "全身经脉寸断、骨头寸断，沦为废人；除非获妖帝天妖丹否则无法挽回",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+        "seq": 550,
+        "note": "第582章"
+      }
     ]
   },
   "firstSeq": 550,
@@ -68,12 +92,27 @@
       "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
       "dated": false,
       "seq": 550
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+      "dated": false,
+      "seq": 550,
+      "note": "第582章·气若游丝，成废人"
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+      "dated": false,
+      "seq": 550,
+      "note": "第582章"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu"
+    "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
+    "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear"
   ],
-  "updatedAt": "2026-08-22T11:18:43.316Z"
+  "updatedAt": "2026-08-22T11:31:33.210Z"
 }

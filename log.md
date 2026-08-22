@@ -140,3 +140,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T10:03:29.958Z** `ingest` plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai — 仙逆 第576章 王林，向我全力出手！——妖将大比前夜拜访玄城副帅 · kind=plot asOf=2026-08-22 entities=43 relations=88 src=00546-00547.md
 - **2026-08-22T10:22:20.848Z** `ingest` plot.xianni-ch578-slaughter-dao — 仙逆 第578章 杀戮道！！——王林河畔听琴，寂灭指连诛黑衣杀手 · kind=plot asOf=2026-08-22 entities=73 relations=145 src=00548-00549.md
 - **2026-08-22T11:18:43.439Z** `ingest` plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu — 仙逆 第582章 王林出列：妖将之战开幕，石萧连败暮云与天魁上人 · kind=plot asOf=2026-08-22 entities=31 relations=50 src=00550-00550.p1a.md
+- **2026-08-22T11:31:33.367Z** `ingest` plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear — 仙逆 第582章（1/2·2/3）：王林废熬迪、两掌推衍拍偏金色太阳长枪 · kind=plot asOf=2026-08-22 entities=58 relations=91 src=00550-00550.p1b.md

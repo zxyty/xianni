@@ -5,14 +5,17 @@
   "aliases": [
     "恒岳派剑阁",
     "大罗剑宗剑阁",
-    "皇宫剑阁"
+    "皇宫剑阁",
+    "Jian Ge",
+    "剑阁大殿"
   ],
   "summary": "恒岳派内供弟子凭玉简选取飞剑之所，巨富剑即陈列于此、附有记述铸剑者一生的牌子。",
   "attributes": {
-    "所属势力": "恒岳派",
-    "类型": "殿阁",
+    "所属势力": "帝君",
+    "类型": "藏剑之阁、殿阁、殿阁/藏剑之所、殿阁/藏剑之地",
     "上级区域": "燕京皇宫",
-    "守护": "帝剑"
+    "守护": "阵法",
+    "方位": "燕京宫殿深处"
   },
   "observations": {
     "所属势力": [
@@ -20,6 +23,11 @@
         "value": "恒岳派",
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
+      },
+      {
+        "value": "帝君",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+        "seq": 550
       }
     ],
     "类型": [
@@ -32,6 +40,16 @@
         "value": "殿阁",
         "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
         "seq": 544
+      },
+      {
+        "value": "殿阁/藏剑之所",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+        "seq": 550
+      },
+      {
+        "value": "殿阁/藏剑之地",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+        "seq": 550
       }
     ],
     "上级区域": [
@@ -46,6 +64,18 @@
         "value": "帝剑",
         "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
         "seq": 544
+      },
+      {
+        "value": "阵法",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+        "seq": 550
+      }
+    ],
+    "方位": [
+      {
+        "value": "燕京宫殿深处",
+        "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+        "seq": 550
       }
     ]
   },
@@ -53,15 +83,15 @@
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+      "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
       "dated": false,
-      "seq": 322
+      "seq": 550
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
+      "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
       "dated": false,
-      "seq": 544
+      "seq": 322
     },
     "上级区域": {
       "asOf": null,
@@ -71,9 +101,15 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
+      "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
       "dated": false,
-      "seq": 544
+      "seq": 550
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+      "dated": false,
+      "seq": 550
     }
   },
   "contested": false,
@@ -81,7 +117,8 @@
   "docs": [
     "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
     "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
-    "plot.xianni-ch544-545-hongprison-slaughter-immortal-art"
+    "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
+    "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear"
   ],
-  "updatedAt": "2026-08-22T09:50:47.423Z"
+  "updatedAt": "2026-08-22T11:31:33.246Z"
 }
