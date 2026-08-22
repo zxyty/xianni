@@ -14,7 +14,7 @@
   "attributes": {
     "类型": "星辰、星球、星辰/隐居地、修真星、修真星球、修真星辰",
     "规模": "拥有村落、平原与大量名山巨峰",
-    "危险度": "高（雷仙殿使者临星调查）",
+    "危险度": "高（雷仙殿使者临星调查）、最高战力仅问鼎中期、极高（笼中之物，待幻眉清算）",
     "守护": "王林（许木）",
     "所属界面": "罗天星域",
     "方位": "距救援处正北方约十日星路",
@@ -27,7 +27,7 @@
       {
         "value": "星辰",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
-        "seq": 661
+        "seq": 631
       },
       {
         "value": "星球",
@@ -78,6 +78,11 @@
         "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
         "seq": 631,
         "note": "幻东以此判断不会出意外"
+      },
+      {
+        "value": "极高（笼中之物，待幻眉清算）",
+        "docId": "plot.xianni-ch675-situnan-again-closed-cultivation-liumei-huanjia-yunxia-star",
+        "seq": 631
       }
     ],
     "守护": [
@@ -85,6 +90,12 @@
         "value": "王林（许木）",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
+      },
+      {
+        "value": "幻家锁星大阵",
+        "docId": "plot.xianni-ch675-situnan-again-closed-cultivation-liumei-huanjia-yunxia-star",
+        "seq": 631,
+        "note": "封锁性大阵，禁止任何人逃出"
       }
     ],
     "所属界面": [
@@ -185,9 +196,10 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+      "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
       "dated": false,
-      "seq": 661
+      "seq": 631,
+      "note": "幻东以此判断不会出意外"
     },
     "守护": {
       "asOf": null,
@@ -242,7 +254,8 @@
     "plot.xianni-ch671-immortal-jade-array-shakes-ranyun-star",
     "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
     "plot.xianni-ch673-yunxia-jinyan-mine-huandong-arrives",
-    "plot.xianni-ch674-wenfeng-tingyu-hunyi-zhimei"
+    "plot.xianni-ch674-wenfeng-tingyu-hunyi-zhimei",
+    "plot.xianni-ch675-situnan-again-closed-cultivation-liumei-huanjia-yunxia-star"
   ],
-  "updatedAt": "2026-08-22T23:03:26.774Z"
+  "updatedAt": "2026-08-22T23:10:36.825Z"
 }

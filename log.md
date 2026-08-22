@@ -216,3 +216,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T22:57:35.077Z** `ingest` plot.xianni-ch672-cause-effect-cycle-seeking-life-death — 仙逆 第672章 因果循环，寻生寻死——三修士纳贡投靠许木，幻家派幻东赴冉云星灭口 · kind=plot asOf=2026-08-22 entities=44 relations=81 src=00631-00635.p2.md
 - **2026-08-22T23:00:28.096Z** `ingest` plot.xianni-ch673-yunxia-jinyan-mine-huandong-arrives — 第673章 云霞有金，五行缺一：金炎矿脉线索与幻东降临冉云星 · kind=plot asOf=2026-08-22 entities=33 relations=48 src=00631-00635.p3.md
 - **2026-08-22T23:03:26.944Z** `ingest` plot.xianni-ch674-wenfeng-tingyu-hunyi-zhimei — 第674章 闻风听雨，魂忆知眉——王林寂灭指擒幻东、搜魂得知幻眉即柳眉 · kind=plot asOf=2026-08-22 entities=32 relations=49 src=00631-00635.p4.md
+- **2026-08-22T23:10:37.013Z** `ingest` plot.xianni-ch675-situnan-again-closed-cultivation-liumei-huanjia-yunxia-star — 第675章 司徒南再次闭关：幻家封锁冉云星、柳眉备战换血，王林深入云霞星迷雾 · kind=plot asOf=2026-08-22 entities=33 relations=48 src=00631-00635.p5.md

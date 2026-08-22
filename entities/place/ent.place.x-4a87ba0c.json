@@ -5,16 +5,18 @@
   "aliases": [
     "Yunxia Star",
     "Yun Xia Star",
-    "云霞"
+    "云霞",
+    "废弃的云霞星"
   ],
   "summary": "罗天星域内一颗废弃星球，无修士存在，遍布可致修士身亡的毒雾与瘴气；其上发现一条金炎矿脉。",
   "attributes": {
-    "类型": "废弃星球、修真星辰",
+    "类型": "废弃星球、修真星辰、星辰、完全废弃的修真星",
     "上级区域": "罗天星域",
-    "危险度": "高（毒雾与瘴气可致修士身亡）",
-    "特产": "金炎矿脉（金属性火石）、金炎矿脉",
+    "危险度": "高（毒雾与瘴气可致修士身亡）、高（雾中有咆哮之物，神识受阻）、极高",
+    "特产": "金炎矿脉（金属性火石）、金炎矿脉、金炎脉（王林此行目标）",
     "方位": "距冉云星甚远，往返需数月",
-    "所属界面": "罗天星域"
+    "所属界面": "罗天星域",
+    "守护": "浓雾（隔绝神识）"
   },
   "observations": {
     "类型": [
@@ -26,6 +28,16 @@
       {
         "value": "修真星辰",
         "docId": "plot.xianni-ch674-wenfeng-tingyu-hunyi-zhimei",
+        "seq": 631
+      },
+      {
+        "value": "星辰",
+        "docId": "plot.xianni-ch675-situnan-again-closed-cultivation-liumei-huanjia-yunxia-star",
+        "seq": 631
+      },
+      {
+        "value": "完全废弃的修真星",
+        "docId": "plot.xianni-ch675-situnan-again-closed-cultivation-liumei-huanjia-yunxia-star",
         "seq": 631
       }
     ],
@@ -41,6 +53,16 @@
         "value": "高（毒雾与瘴气可致修士身亡）",
         "docId": "plot.xianni-ch673-yunxia-jinyan-mine-huandong-arrives",
         "seq": 631
+      },
+      {
+        "value": "高（雾中有咆哮之物，神识受阻）",
+        "docId": "plot.xianni-ch675-situnan-again-closed-cultivation-liumei-huanjia-yunxia-star",
+        "seq": 631
+      },
+      {
+        "value": "极高",
+        "docId": "plot.xianni-ch675-situnan-again-closed-cultivation-liumei-huanjia-yunxia-star",
+        "seq": 631
       }
     ],
     "特产": [
@@ -52,6 +74,11 @@
       {
         "value": "金炎矿脉",
         "docId": "plot.xianni-ch674-wenfeng-tingyu-hunyi-zhimei",
+        "seq": 631
+      },
+      {
+        "value": "金炎脉（王林此行目标）",
+        "docId": "plot.xianni-ch675-situnan-again-closed-cultivation-liumei-huanjia-yunxia-star",
         "seq": 631
       }
     ],
@@ -67,6 +94,13 @@
       {
         "value": "罗天星域",
         "docId": "plot.xianni-ch674-wenfeng-tingyu-hunyi-zhimei",
+        "seq": 631
+      }
+    ],
+    "守护": [
+      {
+        "value": "浓雾（隔绝神识）",
+        "docId": "plot.xianni-ch675-situnan-again-closed-cultivation-liumei-huanjia-yunxia-star",
         "seq": 631
       }
     ]
@@ -109,13 +143,20 @@
       "docId": "plot.xianni-ch674-wenfeng-tingyu-hunyi-zhimei",
       "dated": false,
       "seq": 631
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch675-situnan-again-closed-cultivation-liumei-huanjia-yunxia-star",
+      "dated": false,
+      "seq": 631
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch673-yunxia-jinyan-mine-huandong-arrives",
-    "plot.xianni-ch674-wenfeng-tingyu-hunyi-zhimei"
+    "plot.xianni-ch674-wenfeng-tingyu-hunyi-zhimei",
+    "plot.xianni-ch675-situnan-again-closed-cultivation-liumei-huanjia-yunxia-star"
   ],
-  "updatedAt": "2026-08-22T23:03:26.775Z"
+  "updatedAt": "2026-08-22T23:10:36.850Z"
 }

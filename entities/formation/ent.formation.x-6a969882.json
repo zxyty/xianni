@@ -12,11 +12,12 @@
     "七星剑阵飞剑",
     "Qixing Sword Formation",
     "七星剑阵护法",
-    "七生肖剑阵"
+    "七生肖剑阵",
+    "七剑阵"
   ],
   "summary": "王林以七把剑肖之剑加元神之气布成的剑阵，因元神之气中新增雷光、剑身电光互连而威力更添三分。",
   "attributes": {
-    "效果": "防守护法",
+    "效果": "七剑环身互连成阵，雷光交错，威力较常态更添三分、防守护法、环身旋转形成螺旋劲力、破雾开路、隔绝雾气侵入",
     "布置者": "王林",
     "出处": "以元神之气（含雷光）炼化七把剑肖之剑"
   },
@@ -30,6 +31,21 @@
       {
         "value": "防守护法",
         "docId": "plot.xianni-ch671-immortal-jade-array-shakes-ranyun-star",
+        "seq": 631
+      },
+      {
+        "value": "环身旋转形成螺旋劲力",
+        "docId": "plot.xianni-ch675-situnan-again-closed-cultivation-liumei-huanjia-yunxia-star",
+        "seq": 631
+      },
+      {
+        "value": "破雾开路",
+        "docId": "plot.xianni-ch675-situnan-again-closed-cultivation-liumei-huanjia-yunxia-star",
+        "seq": 631
+      },
+      {
+        "value": "隔绝雾气侵入",
+        "docId": "plot.xianni-ch675-situnan-again-closed-cultivation-liumei-huanjia-yunxia-star",
         "seq": 631
       }
     ],
@@ -52,9 +68,9 @@
   "attrProvenance": {
     "效果": {
       "asOf": null,
-      "docId": "plot.xianni-ch671-immortal-jade-array-shakes-ranyun-star",
+      "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
       "dated": false,
-      "seq": 631
+      "seq": 609
     },
     "布置者": {
       "asOf": null,
@@ -77,7 +93,8 @@
     "plot.xianni-ch618-620-scroll-woman-luotian-star-region-seal",
     "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang",
     "plot.xianni-ch671-immortal-jade-array-shakes-ranyun-star",
-    "plot.xianni-ch674-wenfeng-tingyu-hunyi-zhimei"
+    "plot.xianni-ch674-wenfeng-tingyu-hunyi-zhimei",
+    "plot.xianni-ch675-situnan-again-closed-cultivation-liumei-huanjia-yunxia-star"
   ],
-  "updatedAt": "2026-08-22T23:03:26.763Z"
+  "updatedAt": "2026-08-22T23:10:36.828Z"
 }
