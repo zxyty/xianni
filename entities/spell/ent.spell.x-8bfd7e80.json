@@ -10,12 +10,15 @@
     "三笔符文",
     "六笔符文",
     "三符归一",
-    "符文烙印"
+    "符文烙印",
+    "仙笔符文"
   ],
   "summary": "云雀子双手挥出、自虚无中幻化并盘旋于身前的金色符文，可疯狂冲击目标；本章用于攻击小猴。",
   "attributes": {
-    "类型": "符文攻击/护身、符文/天道烙印、符文烙印",
-    "出处": "云雀子"
+    "类型": "符文攻击/护身、符文/天道烙印、符文烙印、符文/仙术",
+    "出处": "仙笔",
+    "威力": "金芒万丈笼罩天地，可令十亿尊魂幡化作的黑雾如融雪般环形消散",
+    "消耗": "施术者体内仙力自动运转注入符文"
   },
   "observations": {
     "类型": [
@@ -33,6 +36,11 @@
         "value": "符文烙印",
         "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
         "seq": 532
+      },
+      {
+        "value": "符文/仙术",
+        "docId": "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune",
+        "seq": 586
       }
     ],
     "出处": [
@@ -40,6 +48,25 @@
         "value": "云雀子",
         "docId": "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
         "seq": 438
+      },
+      {
+        "value": "仙笔",
+        "docId": "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune",
+        "seq": 586
+      }
+    ],
+    "威力": [
+      {
+        "value": "金芒万丈笼罩天地，可令十亿尊魂幡化作的黑雾如融雪般环形消散",
+        "docId": "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune",
+        "seq": 586
+      }
+    ],
+    "消耗": [
+      {
+        "value": "施术者体内仙力自动运转注入符文",
+        "docId": "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune",
+        "seq": 586
       }
     ]
   },
@@ -53,16 +80,29 @@
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
+      "docId": "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune",
       "dated": false,
-      "seq": 438
+      "seq": 586
+    },
+    "威力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune",
+      "dated": false,
+      "seq": 586
+    },
+    "消耗": {
+      "asOf": null,
+      "docId": "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune",
+      "dated": false,
+      "seq": 586
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
-    "plot.xianni-ch532-533-three-stroke-rune-second-seal"
+    "plot.xianni-ch532-533-three-stroke-rune-second-seal",
+    "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune"
   ],
-  "updatedAt": "2026-08-22T08:01:12.114Z"
+  "updatedAt": "2026-08-22T16:57:54.285Z"
 }

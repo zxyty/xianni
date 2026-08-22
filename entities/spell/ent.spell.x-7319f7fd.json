@@ -4,13 +4,15 @@
   "name": "天魔音",
   "aliases": [
     "魔音",
-    "天魔音神通"
+    "天魔音神通",
+    "天魔之音",
+    "天魔音缠神"
   ],
   "summary": "王林在加深散魔烙印过程中掌握的音波类神通，音随声传，令闻者元神迷失、不由自主作答。",
   "attributes": {
-    "类型": "音波/迷神类神通",
+    "类型": "音波/迷神类神通、音波/惑神类神通、神魂控制/摄魂类",
     "出处": "散魔烙印加深后所得",
-    "威力": "婴变期众人瞬间被魔音灌耳、元神迷茫；修为高深者可不迷失"
+    "威力": "婴变期众人瞬间被魔音灌耳、元神迷茫；修为高深者可不迷失、缠绕目标元神，迫其吐露实情、缠神致使目标无法说谎"
   },
   "observations": {
     "类型": [
@@ -18,6 +20,16 @@
         "value": "音波/迷神类神通",
         "docId": "plot.xianni-ch619-give-me-down-refining-soul-tribe-defense",
         "seq": 581
+      },
+      {
+        "value": "音波/惑神类神通",
+        "docId": "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune",
+        "seq": 586
+      },
+      {
+        "value": "神魂控制/摄魂类",
+        "docId": "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune",
+        "seq": 586
       }
     ],
     "出处": [
@@ -33,6 +45,16 @@
         "docId": "plot.xianni-ch619-give-me-down-refining-soul-tribe-defense",
         "seq": 581,
         "note": "第619章仙卫未太过迷失"
+      },
+      {
+        "value": "缠绕目标元神，迫其吐露实情",
+        "docId": "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune",
+        "seq": 586
+      },
+      {
+        "value": "缠神致使目标无法说谎",
+        "docId": "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune",
+        "seq": 586
       }
     ]
   },
@@ -61,7 +83,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch619-give-me-down-refining-soul-tribe-defense"
+    "plot.xianni-ch619-give-me-down-refining-soul-tribe-defense",
+    "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune"
   ],
-  "updatedAt": "2026-08-22T16:38:49.597Z"
+  "updatedAt": "2026-08-22T16:57:54.325Z"
 }

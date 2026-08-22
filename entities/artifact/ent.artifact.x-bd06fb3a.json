@@ -4,20 +4,26 @@
   "name": "金色仙笔",
   "aliases": [
     "仙笔",
-    "金色的仙笔"
+    "金色的仙笔",
+    "毛笔",
+    "会跑的毛笔",
+    "仙笔毛笔",
+    "仙家法宝仙笔"
   ],
   "summary": "王林自储物袋取出的法宝，可在虚空画出符文，每笔需分出一股元神，最多七笔。",
   "attributes": {
     "持有者": "王林",
-    "能力": "虚空画符文、每笔融入一股元神，七笔为极限",
-    "外形": "金色笔"
+    "能力": "虚空画符文、每笔融入一股元神，七笔为极限、注入仙力后笔尖散发金芒、勾画一笔/两笔/三笔符文、三笔符文金芒可驱散十亿尊魂幡黑雾",
+    "外形": "金色笔",
+    "来历": "矮小老者当年曾持有并借玉简得知其神通使用方法、妖灵之地废弃洞府",
+    "禁制": "自身可高速遁逃"
   },
   "observations": {
     "持有者": [
       {
         "value": "王林",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
-        "seq": 661
+        "seq": 586
       }
     ],
     "能力": [
@@ -30,6 +36,21 @@
         "value": "每笔融入一股元神，七笔为极限",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
+      },
+      {
+        "value": "注入仙力后笔尖散发金芒",
+        "docId": "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune",
+        "seq": 586
+      },
+      {
+        "value": "勾画一笔/两笔/三笔符文",
+        "docId": "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune",
+        "seq": 586
+      },
+      {
+        "value": "三笔符文金芒可驱散十亿尊魂幡黑雾",
+        "docId": "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune",
+        "seq": 586
       }
     ],
     "外形": [
@@ -37,34 +58,71 @@
         "value": "金色笔",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
+      },
+      {
+        "value": "毛笔",
+        "docId": "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune",
+        "seq": 586
+      }
+    ],
+    "来历": [
+      {
+        "value": "矮小老者当年曾持有并借玉简得知其神通使用方法",
+        "docId": "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune",
+        "seq": 586
+      },
+      {
+        "value": "妖灵之地废弃洞府",
+        "docId": "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune",
+        "seq": 586
+      }
+    ],
+    "禁制": [
+      {
+        "value": "自身可高速遁逃",
+        "docId": "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune",
+        "seq": 586
       }
     ]
   },
-  "firstSeq": 661,
+  "firstSeq": 586,
   "attrProvenance": {
     "持有者": {
       "asOf": null,
       "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
       "dated": false,
-      "seq": 661
+      "seq": 586
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+      "docId": "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune",
       "dated": false,
-      "seq": 661
+      "seq": 586
     },
     "外形": {
       "asOf": null,
       "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
       "dated": false,
       "seq": 661
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune",
+      "dated": false,
+      "seq": 586
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune",
+      "dated": false,
+      "seq": 586
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power"
+    "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+    "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune"
   ],
-  "updatedAt": "2026-08-17T14:25:16.393Z"
+  "updatedAt": "2026-08-22T16:57:54.321Z"
 }
