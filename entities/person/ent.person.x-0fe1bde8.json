@@ -4,15 +4,23 @@
   "name": "欧阳华",
   "aliases": [
     "Ouyang Hua",
-    "山谷长老欧阳华"
+    "山谷长老欧阳华",
+    "欧阳华老者",
+    "山谷长老",
+    "老朽",
+    "山谷首领",
+    "欧阳华长者"
   ],
   "summary": "山谷部族长老，满头苍发、拄黑色拐杖，出谷与王林交涉的乃是一具虚幻之身。年幼时在古妖城开蒙而获悠久寿元，警告并驱逐王林，谈崩后操控阵法唤出青影欲取王林魂魄献祭。",
   "attributes": {
     "性别": "男",
-    "身份": "山谷长老、山谷部族首领",
-    "外貌": "满头苍发、手拄黑色拐杖的虚弱老者",
+    "身份": "山谷长老、山谷部族首领、山谷部落长老、族人教化者、妖灵之地山谷居民首领、山谷阵法主持者",
+    "外貌": "老者",
     "寿元": "悠久",
-    "性格": "沉稳老练、外和内厉"
+    "性格": "沉稳老练、外和内厉、谨慎、善算计、能下决心割舍重宝、对阵法自信，本夜忐忑不安",
+    "标志特征": "以指尖鲜血开启山谷通道；妖力仅达一星标准",
+    "阵营": "妖灵之地本地族群",
+    "存殁": "在世"
   },
   "observations": {
     "性别": [
@@ -32,6 +40,26 @@
         "value": "山谷部族首领",
         "docId": "plot.xianni-ch519-tide-recede-golden-token",
         "seq": 496
+      },
+      {
+        "value": "山谷部落长老",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
+      },
+      {
+        "value": "族人教化者",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
+      },
+      {
+        "value": "妖灵之地山谷居民首领",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
+      },
+      {
+        "value": "山谷阵法主持者",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
       }
     ],
     "外貌": [
@@ -40,6 +68,11 @@
         "docId": "plot.xianni-ch519-tide-recede-golden-token",
         "seq": 496,
         "note": "谷外现身者为虚幻之身，非凝体，被王林一击即化作晶芒消散"
+      },
+      {
+        "value": "老者",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
       }
     ],
     "寿元": [
@@ -55,6 +88,37 @@
         "value": "沉稳老练、外和内厉",
         "docId": "plot.xianni-ch519-tide-recede-golden-token",
         "seq": 496
+      },
+      {
+        "value": "谨慎、善算计、能下决心割舍重宝",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
+      },
+      {
+        "value": "对阵法自信，本夜忐忑不安",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "以指尖鲜血开启山谷通道；妖力仅达一星标准",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
+      }
+    ],
+    "阵营": [
+      {
+        "value": "妖灵之地本地族群",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
+      }
+    ],
+    "存殁": [
+      {
+        "value": "在世",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
       }
     ]
   },
@@ -74,10 +138,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch519-tide-recede-golden-token",
+      "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
       "dated": false,
-      "seq": 496,
-      "note": "谷外现身者为虚幻之身，非凝体，被王林一击即化作晶芒消散"
+      "seq": 500
     },
     "寿元": {
       "asOf": null,
@@ -91,12 +154,31 @@
       "docId": "plot.xianni-ch519-tide-recede-golden-token",
       "dated": false,
       "seq": 496
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+      "dated": false,
+      "seq": 500
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+      "dated": false,
+      "seq": 500
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+      "dated": false,
+      "seq": 500
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch519-tide-recede-golden-token"
+    "plot.xianni-ch519-tide-recede-golden-token",
+    "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun"
   ],
-  "updatedAt": "2026-08-22T00:48:47.503Z"
+  "updatedAt": "2026-08-22T01:02:50.911Z"
 }

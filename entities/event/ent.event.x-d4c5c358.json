@@ -1,72 +1,83 @@
 {
-  "id": "ent.beast.x-9100d4c5",
-  "type": "beast",
-  "name": "妖灵之兽",
+  "id": "ent.event.x-d4c5c358",
+  "type": "event",
+  "name": "妖灵之夜",
   "aliases": [
-    "妖灵兽",
-    "妖灵之物",
-    "单角黑兽",
-    "奇异之兽"
+    "月圆妖灵之夜",
+    "妖灵猎食之日"
   ],
-  "summary": "修魔海固有兽类，黑雨对其为滋补，令其实力攀升甚至出现荒兽，兽乱愈烈。",
+  "summary": "妖灵之地每逢月圆便降临的妖灵猎食之夜，唯有身处阵法之内方可保得平安；古画中黑雾即其象征。",
   "attributes": {
-    "栖息地": "妖灵气浪之中",
-    "能力": "自妖气中幻化成形、扑杀生灵、体内含妖力与妖晶",
-    "外形": "通体漆黑、单角、约一丈大小"
+    "章节": "第524-525章",
+    "世内时序": "每逢月圆",
+    "地点": "东海妖灵之地",
+    "参与方": "妖灵",
+    "结果": "阵外生灵遭妖灵猎食"
   },
   "observations": {
-    "栖息地": [
+    "章节": [
       {
-        "value": "修魔海",
-        "docId": "plot.xianni-ch226-leave-chu-country",
-        "seq": 210
-      },
-      {
-        "value": "妖灵气浪之中",
+        "value": "第524-525章",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
       }
     ],
-    "能力": [
+    "世内时序": [
       {
-        "value": "自妖气中幻化成形",
-        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
-        "seq": 500
-      },
-      {
-        "value": "扑杀生灵",
-        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
-        "seq": 500
-      },
-      {
-        "value": "体内含妖力与妖晶",
+        "value": "每逢月圆",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
       }
     ],
-    "外形": [
+    "地点": [
       {
-        "value": "通体漆黑、单角、约一丈大小",
+        "value": "东海妖灵之地",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
+      }
+    ],
+    "参与方": [
+      {
+        "value": "妖灵",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
+      }
+    ],
+    "结果": [
+      {
+        "value": "阵外生灵遭妖灵猎食",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
       }
     ]
   },
-  "firstSeq": 210,
+  "firstSeq": 500,
   "attrProvenance": {
-    "栖息地": {
+    "章节": {
       "asOf": null,
       "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
       "dated": false,
       "seq": 500
     },
-    "能力": {
+    "世内时序": {
       "asOf": null,
       "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
       "dated": false,
       "seq": 500
     },
-    "外形": {
+    "地点": {
+      "asOf": null,
+      "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+      "dated": false,
+      "seq": 500
+    },
+    "参与方": {
+      "asOf": null,
+      "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+      "dated": false,
+      "seq": 500
+    },
+    "结果": {
       "asOf": null,
       "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
       "dated": false,
@@ -76,8 +87,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch226-leave-chu-country",
     "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun"
   ],
-  "updatedAt": "2026-08-22T01:02:50.930Z"
+  "updatedAt": "2026-08-22T01:02:50.886Z"
 }

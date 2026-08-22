@@ -1,72 +1,67 @@
 {
-  "id": "ent.beast.x-9100d4c5",
-  "type": "beast",
-  "name": "妖灵之兽",
+  "id": "ent.formation.x-e877728a",
+  "type": "formation",
+  "name": "山谷上古护阵",
   "aliases": [
-    "妖灵兽",
-    "妖灵之物",
-    "单角黑兽",
-    "奇异之兽"
+    "络家山谷阵法",
+    "青影阵法"
   ],
-  "summary": "修魔海固有兽类，黑雨对其为滋补，令其实力攀升甚至出现荒兽，兽乱愈烈。",
+  "summary": "存在无数岁月的上古阵法，护住欧阳华族人所居山谷，可由青影操控、令千丈内青色晶芒结成收杀青网吞噬生灵；被王林以八十三组禁制组合破开后经其出手恢复。",
   "attributes": {
-    "栖息地": "妖灵气浪之中",
-    "能力": "自妖气中幻化成形、扑杀生灵、体内含妖力与妖晶",
-    "外形": "通体漆黑、单角、约一丈大小"
+    "效果": "千丈青网收杀、抵御妖灵之夜、青色光柱轰击",
+    "布置者": "不明",
+    "破解法": "八十三组专用禁制组合化作虚无波纹"
   },
   "observations": {
-    "栖息地": [
+    "效果": [
       {
-        "value": "修魔海",
-        "docId": "plot.xianni-ch226-leave-chu-country",
-        "seq": 210
+        "value": "千丈青网收杀",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
       },
       {
-        "value": "妖灵气浪之中",
+        "value": "抵御妖灵之夜",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
+      },
+      {
+        "value": "青色光柱轰击",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
       }
     ],
-    "能力": [
+    "布置者": [
       {
-        "value": "自妖气中幻化成形",
+        "value": "不明",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
-        "seq": 500
-      },
-      {
-        "value": "扑杀生灵",
-        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
-        "seq": 500
-      },
-      {
-        "value": "体内含妖力与妖晶",
-        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
-        "seq": 500
+        "seq": 500,
+        "note": "黄龙带族人到来前已存在无数岁月"
       }
     ],
-    "外形": [
+    "破解法": [
       {
-        "value": "通体漆黑、单角、约一丈大小",
+        "value": "八十三组专用禁制组合化作虚无波纹",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
       }
     ]
   },
-  "firstSeq": 210,
+  "firstSeq": 500,
   "attrProvenance": {
-    "栖息地": {
+    "效果": {
       "asOf": null,
       "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
       "dated": false,
       "seq": 500
     },
-    "能力": {
+    "布置者": {
       "asOf": null,
       "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
       "dated": false,
-      "seq": 500
+      "seq": 500,
+      "note": "黄龙带族人到来前已存在无数岁月"
     },
-    "外形": {
+    "破解法": {
       "asOf": null,
       "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
       "dated": false,
@@ -76,8 +71,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch226-leave-chu-country",
     "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun"
   ],
-  "updatedAt": "2026-08-22T01:02:50.930Z"
+  "updatedAt": "2026-08-22T01:02:50.880Z"
 }

@@ -4,14 +4,16 @@
   "name": "青影",
   "aliases": [
     "青色虚影",
-    "青色巨影"
+    "青色巨影",
+    "阵法青影",
+    "妖影"
   ],
   "summary": "山谷上古阵法吸纳地面崖壁草木青色波纹后幻化出的人形青色巨影，高约数丈、面目模糊，受欧阳华号令攻击王林、欲取其魂魄作祭品。",
   "attributes": {
     "本体来源": "山谷上古阵法吸纳天地青色波纹幻化",
     "操控者": "欧阳华",
-    "能力": "非人咆哮令天色骤变大地震颤、受命杀敌取魂",
-    "外形": "高约数丈的人形青色虚影，面目不可辨"
+    "能力": "非人咆哮令天色骤变大地震颤、受命杀敌取魂、掐诀催动阵法、唤起千丈青色光网收杀",
+    "外形": "人形青影，五官不清，仅有若隐若现的轮廓"
   },
   "observations": {
     "本体来源": [
@@ -38,6 +40,16 @@
         "value": "受命杀敌取魂",
         "docId": "plot.xianni-ch519-tide-recede-golden-token",
         "seq": 496
+      },
+      {
+        "value": "掐诀催动阵法",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
+      },
+      {
+        "value": "唤起千丈青色光网收杀",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
       }
     ],
     "外形": [
@@ -45,6 +57,11 @@
         "value": "高约数丈的人形青色虚影，面目不可辨",
         "docId": "plot.xianni-ch519-tide-recede-golden-token",
         "seq": 496
+      },
+      {
+        "value": "人形青影，五官不清，仅有若隐若现的轮廓",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
       }
     ]
   },
@@ -70,15 +87,16 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch519-tide-recede-golden-token",
+      "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
       "dated": false,
-      "seq": 496
+      "seq": 500
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch519-tide-recede-golden-token"
+    "plot.xianni-ch519-tide-recede-golden-token",
+    "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun"
   ],
-  "updatedAt": "2026-08-22T00:48:47.511Z"
+  "updatedAt": "2026-08-22T01:02:50.881Z"
 }

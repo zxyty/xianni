@@ -1,66 +1,67 @@
 {
-  "id": "ent.beast.x-9100d4c5",
-  "type": "beast",
-  "name": "妖灵之兽",
+  "id": "ent.artifact.x-20e7a7d3",
+  "type": "artifact",
+  "name": "禁气长矛",
   "aliases": [
-    "妖灵兽",
-    "妖灵之物",
-    "单角黑兽",
-    "奇异之兽"
+    "禁制长矛"
   ],
-  "summary": "修魔海固有兽类，黑雨对其为滋补，令其实力攀升甚至出现荒兽，兽乱愈烈。",
+  "summary": "王林以禁制幻化而成的长矛，破空如九天奔雷，罡风即可吹溃阵法青影，但撞上青色光网后被一分为二毁去。",
   "attributes": {
-    "栖息地": "妖灵气浪之中",
-    "能力": "自妖气中幻化成形、扑杀生灵、体内含妖力与妖晶",
-    "外形": "通体漆黑、单角、约一丈大小"
+    "持有者": "王林",
+    "能力": "速逾闪电、罡风先至可击溃青影",
+    "来历": "禁制幻化而成",
+    "外形": "长矛"
   },
   "observations": {
-    "栖息地": [
+    "持有者": [
       {
-        "value": "修魔海",
-        "docId": "plot.xianni-ch226-leave-chu-country",
-        "seq": 210
-      },
-      {
-        "value": "妖灵气浪之中",
+        "value": "王林",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
       }
     ],
     "能力": [
       {
-        "value": "自妖气中幻化成形",
+        "value": "速逾闪电",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
       },
       {
-        "value": "扑杀生灵",
+        "value": "罡风先至可击溃青影",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
-      },
+      }
+    ],
+    "来历": [
       {
-        "value": "体内含妖力与妖晶",
+        "value": "禁制幻化而成",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
       }
     ],
     "外形": [
       {
-        "value": "通体漆黑、单角、约一丈大小",
+        "value": "长矛",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
       }
     ]
   },
-  "firstSeq": 210,
+  "firstSeq": 500,
   "attrProvenance": {
-    "栖息地": {
+    "持有者": {
       "asOf": null,
       "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
       "dated": false,
       "seq": 500
     },
     "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+      "dated": false,
+      "seq": 500
+    },
+    "来历": {
       "asOf": null,
       "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
       "dated": false,
@@ -76,8 +77,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch226-leave-chu-country",
     "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun"
   ],
-  "updatedAt": "2026-08-22T01:02:50.930Z"
+  "updatedAt": "2026-08-22T01:02:50.878Z"
 }

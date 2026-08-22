@@ -13,18 +13,22 @@
     "东海妖灵之地",
     "漂浮之虚",
     "天运星外东海妖灵之门",
-    "妖灵门"
+    "妖灵门",
+    "妖灵之地",
+    "妖灵之地九郡",
+    "妖灵之地秘境",
+    "Yaoling Land"
   ],
   "summary": "凌天候与天运子约定三个月后相会之处，天运子须选好进入之人。",
   "attributes": {
-    "类型": "秘境/门户、禁地/试炼秘境、秘境入口/机缘之地、禁地/秘境、秘境/险地、秘境之门/入口、秘境之门／试炼之地、禁地／秘境入口、秘门/潮汐之源、秘境门户、秘境/独立空间",
+    "类型": "秘境/门户、禁地/试炼秘境、秘境入口/机缘之地、禁地/秘境、秘境/险地、秘境之门/入口、秘境之门／试炼之地、禁地／秘境入口、秘门/潮汐之源、秘境门户、秘境/独立空间、秘境/异域之地",
     "方位": "东海、天运星外、天运星之外东部、天运星东部、天运星外东海",
     "所属界面": "天运星、天运东海、天运星所在星空",
     "所属势力": "大罗剑宗、天运星",
-    "危险度": "极高（凶险太多，出者寥寥）、极高（第三次探索出者不足半数）、极大、高、残酷的进入试炼、极高（威压远超天威，修士可当场崩溃）、极高、未知，藏有上古大神通布置",
-    "特产": "古妖、东海妖灵灌顶、下品仙术（仅存一人走出时的传闻赏赐）、奇珍异宝、法诀仙术、妖兽尸骸、奇异之物、宝物、妖灵、令牌、上古阵法遗留、无灵力族群与凶兽",
+    "危险度": "极高（凶险太多，出者寥寥）、极高（第三次探索出者不足半数）、极大、高、残酷的进入试炼、极高（威压远超天威，修士可当场崩溃）、极高、未知，藏有上古大神通布置、极高——周期性妖灵猎食之潮，外来者间为妖晶互相杀戮",
+    "特产": "古妖、东海妖灵灌顶、下品仙术（仅存一人走出时的传闻赏赐）、奇珍异宝、法诀仙术、妖兽尸骸、奇异之物、宝物、妖灵、令牌、上古阵法遗留、无灵力族群与凶兽、妖力结晶（妖灵玉）",
     "守护": "古妖、内封印有周佚、天运子与剑尊凌天候等老怪共同禁止外界之人进入、由剑尊凌天候开启并掌控入门权限",
-    "规模": "无边无际的漂浮之海，潮汐气柱高达千丈"
+    "规模": "范围极大，紫色气浪可以整个妖灵之地为参照圆形扩散"
   },
   "observations": {
     "类型": [
@@ -82,6 +86,11 @@
         "value": "秘境/独立空间",
         "docId": "plot.xianni-ch519-tide-recede-golden-token",
         "seq": 496
+      },
+      {
+        "value": "秘境/异域之地",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
       }
     ],
     "方位": [
@@ -181,6 +190,11 @@
         "value": "未知，藏有上古大神通布置",
         "docId": "plot.xianni-ch519-tide-recede-golden-token",
         "seq": 496
+      },
+      {
+        "value": "极高——周期性妖灵猎食之潮，外来者间为妖晶互相杀戮",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
       }
     ],
     "特产": [
@@ -243,6 +257,11 @@
         "value": "无灵力族群与凶兽",
         "docId": "plot.xianni-ch519-tide-recede-golden-token",
         "seq": 496
+      },
+      {
+        "value": "妖力结晶（妖灵玉）",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
       }
     ],
     "守护": [
@@ -272,6 +291,11 @@
         "value": "无边无际的漂浮之海，潮汐气柱高达千丈",
         "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
         "seq": 491
+      },
+      {
+        "value": "范围极大，紫色气浪可以整个妖灵之地为参照圆形扩散",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
       }
     ]
   },
@@ -322,9 +346,9 @@
     },
     "规模": {
       "asOf": null,
-      "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+      "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
       "dated": false,
-      "seq": 491
+      "seq": 500
     }
   },
   "contested": false,
@@ -333,7 +357,8 @@
     "plot.xianni-ch500-battle-against-wending-huangquan-finger",
     "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
     "plot.xianni-ch514-target-donghai-yaoling-gate",
-    "plot.xianni-ch519-tide-recede-golden-token"
+    "plot.xianni-ch519-tide-recede-golden-token",
+    "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun"
   ],
-  "updatedAt": "2026-08-22T00:48:47.497Z"
+  "updatedAt": "2026-08-22T01:02:50.899Z"
 }

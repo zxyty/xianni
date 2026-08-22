@@ -15,16 +15,18 @@
     "王林离开的山谷",
     "楚国境内山谷",
     "构架阵法的山谷",
-    "斗法山谷"
+    "斗法山谷",
+    "欧阳华山谷",
+    "谷口山谷"
   ],
   "summary": "王林与李慕婉暂居之地，谷中有石屋与宝塔；铁岩、吕非在此外百里悟道。",
   "attributes": {
-    "类型": "山谷、隐居地/战场、隐居之所、隐居洞府/山谷、闭关/停留之地、隐居谷地、山谷战场",
+    "类型": "山谷、隐居地/战场、隐居之所、隐居洞府/山谷、闭关/停留之地、隐居谷地、山谷战场、聚居地/避难山谷",
     "方位": "楚国境内",
     "上级区域": "朱雀星",
-    "守护": "留置的宝塔、宝塔内周佚神念、王林、宝塔禁制、铁岩、雷蛙、王林本尊、问鼎意境",
-    "所属界面": "朱雀星",
-    "危险度": "谷内灵压极大，仅可深入一里左右",
+    "守护": "留置的宝塔、宝塔内周佚神念、王林、宝塔禁制、铁岩、雷蛙、王林本尊、问鼎意境、山谷阵法",
+    "所属界面": "天运星",
+    "危险度": "每三个月遭妖灵猎食之夜冲击",
     "规模": "禁制笼罩百里"
   },
   "observations": {
@@ -63,6 +65,11 @@
         "value": "山谷战场",
         "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
         "seq": 486
+      },
+      {
+        "value": "聚居地/避难山谷",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
       }
     ],
     "方位": [
@@ -124,6 +131,11 @@
         "value": "问鼎意境",
         "docId": "plot.xianni-ch368-372-three-great-gifts-dun-tian",
         "seq": 368
+      },
+      {
+        "value": "山谷阵法",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
       }
     ],
     "所属界面": [
@@ -141,6 +153,11 @@
         "value": "朱雀星",
         "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
         "seq": 336
+      },
+      {
+        "value": "天运星",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
       }
     ],
     "危险度": [
@@ -148,6 +165,11 @@
         "value": "谷内灵压极大，仅可深入一里左右",
         "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
         "seq": 317
+      },
+      {
+        "value": "每三个月遭妖灵猎食之夜冲击",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
       }
     ],
     "规模": [
@@ -186,15 +208,15 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+      "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
       "dated": false,
-      "seq": 336
+      "seq": 500
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+      "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
       "dated": false,
-      "seq": 317
+      "seq": 500
     },
     "规模": {
       "asOf": null,
@@ -213,7 +235,8 @@
     "plot.xianni-ch361-zhuque-guo-arrival",
     "plot.xianni-ch368-372-three-great-gifts-dun-tian",
     "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
-    "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit"
+    "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+    "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun"
   ],
-  "updatedAt": "2026-08-21T10:41:37.826Z"
+  "updatedAt": "2026-08-22T01:02:50.932Z"
 }

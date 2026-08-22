@@ -4,13 +4,16 @@
   "name": "遁天始祖所赠阵法",
   "aliases": [
     "山谷阵法",
-    "构架在山谷内的阵法"
+    "构架在山谷内的阵法",
+    "护谷阵法",
+    "青芒阵法"
   ],
   "summary": "王林事先构架在山谷内、由遁天始祖所赠的阵法，用以对抗巨魔族老祖的天赋神通；王林判断若对方达婴变中期或后期则此阵无法阻挡。",
   "attributes": {
     "出处": "遁天始祖所赠",
-    "布置者": "王林",
-    "效果": "抵御天赋神通吸扯（对婴变中期以上无效）"
+    "布置者": "欧阳华（维持者）",
+    "效果": "抵御天赋神通吸扯（对婴变中期以上无效）、青芒抵御妖灵气浪、阻挡妖灵之物入谷",
+    "破解法": "持续妖力气浪冲击 / 外来修士剑击致裂"
   },
   "observations": {
     "出处": [
@@ -25,6 +28,11 @@
         "value": "王林",
         "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
         "seq": 377
+      },
+      {
+        "value": "欧阳华（维持者）",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
       }
     ],
     "效果": [
@@ -32,6 +40,23 @@
         "value": "抵御天赋神通吸扯（对婴变中期以上无效）",
         "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
         "seq": 377
+      },
+      {
+        "value": "青芒抵御妖灵气浪",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
+      },
+      {
+        "value": "阻挡妖灵之物入谷",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
+      }
+    ],
+    "破解法": [
+      {
+        "value": "持续妖力气浪冲击 / 外来修士剑击致裂",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
       }
     ]
   },
@@ -45,21 +70,28 @@
     },
     "布置者": {
       "asOf": null,
-      "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+      "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
       "dated": false,
-      "seq": 377
+      "seq": 500
     },
     "效果": {
       "asOf": null,
       "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
       "dated": false,
       "seq": 377
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+      "dated": false,
+      "seq": 500
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays"
+    "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+    "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun"
   ],
-  "updatedAt": "2026-08-15T10:50:34.025Z"
+  "updatedAt": "2026-08-22T01:02:50.929Z"
 }

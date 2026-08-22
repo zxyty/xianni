@@ -1,66 +1,59 @@
 {
-  "id": "ent.beast.x-9100d4c5",
-  "type": "beast",
-  "name": "妖灵之兽",
+  "id": "ent.artifact.x-27492c32",
+  "type": "artifact",
+  "name": "黑色细剑",
   "aliases": [
-    "妖灵兽",
-    "妖灵之物",
-    "单角黑兽",
-    "奇异之兽"
+    "黑衣男子的细剑",
+    "细剑",
+    "电光飞剑"
   ],
-  "summary": "修魔海固有兽类，黑雨对其为滋补，令其实力攀升甚至出现荒兽，兽乱愈烈。",
+  "summary": "黑衣男子手中的黑色细剑，挥舞时有紫色妖气顺剑缭绕。",
   "attributes": {
-    "栖息地": "妖灵气浪之中",
-    "能力": "自妖气中幻化成形、扑杀生灵、体内含妖力与妖晶",
-    "外形": "通体漆黑、单角、约一丈大小"
+    "持有者": "黑衣男子",
+    "外形": "黑色细剑、细剑",
+    "能力": "挥舞时紫气缭绕剑身、化电光飞行、自爆为晶芒（剑碎）"
   },
   "observations": {
-    "栖息地": [
+    "持有者": [
       {
-        "value": "修魔海",
-        "docId": "plot.xianni-ch226-leave-chu-country",
-        "seq": 210
-      },
-      {
-        "value": "妖灵气浪之中",
-        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
-        "seq": 500
-      }
-    ],
-    "能力": [
-      {
-        "value": "自妖气中幻化成形",
-        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
-        "seq": 500
-      },
-      {
-        "value": "扑杀生灵",
-        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
-        "seq": 500
-      },
-      {
-        "value": "体内含妖力与妖晶",
+        "value": "黑衣男子",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
       }
     ],
     "外形": [
       {
-        "value": "通体漆黑、单角、约一丈大小",
+        "value": "黑色细剑",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
+      },
+      {
+        "value": "细剑",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
+      }
+    ],
+    "能力": [
+      {
+        "value": "挥舞时紫气缭绕剑身",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
+      },
+      {
+        "value": "化电光飞行",
+        "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+        "seq": 500
+      },
+      {
+        "value": "自爆为晶芒（剑碎）",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
       }
     ]
   },
-  "firstSeq": 210,
+  "firstSeq": 500,
   "attrProvenance": {
-    "栖息地": {
-      "asOf": null,
-      "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
-      "dated": false,
-      "seq": 500
-    },
-    "能力": {
+    "持有者": {
       "asOf": null,
       "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
       "dated": false,
@@ -71,13 +64,18 @@
       "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
       "dated": false,
       "seq": 500
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+      "dated": false,
+      "seq": 500
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch226-leave-chu-country",
     "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun"
   ],
-  "updatedAt": "2026-08-22T01:02:50.930Z"
+  "updatedAt": "2026-08-22T01:02:50.922Z"
 }
