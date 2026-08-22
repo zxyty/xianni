@@ -8,7 +8,8 @@
   ],
   "summary": "古之一族分裂后，杀戮嗜血、杀念一走生灵涂炭、以死变天者自称古魔，属第二类逆修生灵。",
   "attributes": {
-    "特性": "杀戮嗜血、以死变天"
+    "特性": "杀戮嗜血、以死变天、散魔为其麾下之魔",
+    "聚居地": "妖灵之地？"
   },
   "observations": {
     "特性": [
@@ -21,6 +22,19 @@
         "value": "以死变天",
         "docId": "plot.xianni-ch597-yaogu-guyao-heavenly-tribulation",
         "seq": 556
+      },
+      {
+        "value": "散魔为其麾下之魔",
+        "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
+        "seq": 576
+      }
+    ],
+    "聚居地": [
+      {
+        "value": "妖灵之地？",
+        "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
+        "seq": 576,
+        "note": "王林的猜测，未证实"
       }
     ]
   },
@@ -31,12 +45,20 @@
       "docId": "plot.xianni-ch597-yaogu-guyao-heavenly-tribulation",
       "dated": false,
       "seq": 556
+    },
+    "聚居地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
+      "dated": false,
+      "seq": 576,
+      "note": "王林的猜测，未证实"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch597-yaogu-guyao-heavenly-tribulation"
+    "plot.xianni-ch597-yaogu-guyao-heavenly-tribulation",
+    "plot.xianni-ch616-immortal-emperor-qinglin-secret"
   ],
-  "updatedAt": "2026-08-22T12:48:27.088Z"
+  "updatedAt": "2026-08-22T16:18:39.265Z"
 }

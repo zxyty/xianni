@@ -166,3 +166,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T16:05:56.940Z** `ingest` chronicle.xianni-571-575-author-note-third-book — 《仙逆》作者感言：第三本书不敢承诺写完·月末求月票 · kind=chronicle asOf=2026-08-22 entities=0 relations=0 src=00571-00575.p5.md
 - **2026-08-22T16:08:41.599Z** `ingest` plot.xianni-ch614-third-sword-qi-yaodi-guyundun-kills-daluo-swordsman — 第614章 第三道剑气：王林会晤妖帝古云沌、斩杀墨非护道大罗剑宗修士 · kind=plot asOf=2026-08-22 entities=26 relations=38 src=00576-00580.p1.md
 - **2026-08-22T16:16:17.875Z** `ingest` plot.xianni-ch615-tanlang-whereabouts — 第615章 贪狼的去向 · kind=plot asOf=2026-08-22 entities=51 relations=72 src=00576-00580.p2.md
+- **2026-08-22T16:18:39.421Z** `ingest` plot.xianni-ch616-immortal-emperor-qinglin-secret — 第616章 仙帝青霖——妖灵之地四虚一实洞府与青霖仙令之秘 · kind=plot asOf=2026-08-22 entities=27 relations=35 src=00576-00580.p3.md

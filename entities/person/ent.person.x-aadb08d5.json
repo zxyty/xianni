@@ -4,11 +4,18 @@
   "name": "青霖",
   "aliases": [
     "吾为青霖",
-    "Qing Lin"
+    "Qing Lin",
+    "仙帝青霖",
+    "青霖仙帝",
+    "第一仙帝",
+    "Qinglin",
+    "Immortal Emperor Qinglin"
   ],
   "summary": "王林在金符梦境将散之际以生之烙印凝聚双耳所听到的自称之名，来历、身份未明。",
   "attributes": {
-    "身份": "梦境低语中的自称者"
+    "身份": "梦境低语中的自称者",
+    "称号": "第一仙帝、仙界第一强者",
+    "存殁": "生死不明"
   },
   "observations": {
     "身份": [
@@ -17,6 +24,26 @@
         "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
         "seq": 527,
         "note": "第554章仅闻其名，真身未明"
+      }
+    ],
+    "称号": [
+      {
+        "value": "第一仙帝",
+        "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
+        "seq": 576
+      },
+      {
+        "value": "仙界第一强者",
+        "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
+        "seq": 576
+      }
+    ],
+    "存殁": [
+      {
+        "value": "生死不明",
+        "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
+        "seq": 576,
+        "note": "传闻仙界崩溃时力战负伤遁走，未随之身亡；最终洞府内有其闭关气息"
       }
     ]
   },
@@ -28,12 +55,26 @@
       "dated": false,
       "seq": 527,
       "note": "第554章仅闻其名，真身未明"
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
+      "dated": false,
+      "seq": 576
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
+      "dated": false,
+      "seq": 576,
+      "note": "传闻仙界崩溃时力战负伤遁走，未随之身亡；最终洞府内有其闭关气息"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority"
+    "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
+    "plot.xianni-ch616-immortal-emperor-qinglin-secret"
   ],
-  "updatedAt": "2026-08-22T07:41:19.491Z"
+  "updatedAt": "2026-08-22T16:18:39.246Z"
 }

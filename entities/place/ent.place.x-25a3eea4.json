@@ -3,12 +3,17 @@
   "type": "place",
   "name": "潮汐深渊",
   "aliases": [
-    "深渊"
+    "深渊",
+    "潮汐",
+    "潮汐深渊入口"
   ],
   "summary": "妖灵之地中的险地，当年姚惜雪之父与天运子等人问出神秘之地后即前往此处。",
   "attributes": {
     "类型": "深渊/险地",
-    "上级区域": "妖灵之地"
+    "上级区域": "妖灵之地",
+    "所属界面": "妖灵之地",
+    "方位": "入口在火妖郡内",
+    "特产": "青霖仙令（金色令牌）"
   },
   "observations": {
     "类型": [
@@ -23,6 +28,27 @@
         "value": "妖灵之地",
         "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
         "seq": 527
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "妖灵之地",
+        "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
+        "seq": 576
+      }
+    ],
+    "方位": [
+      {
+        "value": "入口在火妖郡内",
+        "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
+        "seq": 576
+      }
+    ],
+    "特产": [
+      {
+        "value": "青霖仙令（金色令牌）",
+        "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
+        "seq": 576
       }
     ]
   },
@@ -39,12 +65,31 @@
       "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
       "dated": false,
       "seq": 527
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
+      "dated": false,
+      "seq": 576
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
+      "dated": false,
+      "seq": 576
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
+      "dated": false,
+      "seq": 576
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority"
+    "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
+    "plot.xianni-ch616-immortal-emperor-qinglin-secret"
   ],
-  "updatedAt": "2026-08-22T07:41:19.424Z"
+  "updatedAt": "2026-08-22T16:18:39.255Z"
 }
