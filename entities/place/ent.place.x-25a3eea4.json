@@ -6,16 +6,18 @@
     "深渊",
     "潮汐",
     "潮汐深渊入口",
-    "Tide Abyss"
+    "Tide Abyss",
+    "潮汐深渊通道"
   ],
   "summary": "妖灵之地中的险地，当年姚惜雪之父与天运子等人问出神秘之地后即前往此处。",
   "attributes": {
-    "类型": "空间坍塌形成的通道／深渊",
+    "类型": "深渊/险地、空间坍塌形成的通道／深渊、深渊/秘境空间",
     "上级区域": "妖灵之地",
     "所属界面": "妖灵之地",
     "方位": "入口在火妖郡内",
     "特产": "青霖仙令（金色令牌）、被吸入的法宝、晶石、灵兽",
-    "危险度": "极高（强大妖兽群，包括黑色蚊兽）"
+    "危险度": "极高（强大妖兽群，包括黑色蚊兽）",
+    "守护": "王林所布追踪禁制"
   },
   "observations": {
     "类型": [
@@ -27,6 +29,11 @@
       {
         "value": "空间坍塌形成的通道／深渊",
         "docId": "plot.xianni-ch631-its-companions",
+        "seq": 591
+      },
+      {
+        "value": "深渊/秘境空间",
+        "docId": "plot.xianni-ch632-tanlang-daluo-disciples-trapped-tide-abyss",
         "seq": 591
       }
     ],
@@ -79,15 +86,23 @@
         "docId": "plot.xianni-ch631-its-companions",
         "seq": 591
       }
+    ],
+    "守护": [
+      {
+        "value": "王林所布追踪禁制",
+        "docId": "plot.xianni-ch632-tanlang-daluo-disciples-trapped-tide-abyss",
+        "seq": 591,
+        "note": "仅火妖郡外出口处"
+      }
     ]
   },
   "firstSeq": 527,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch631-its-companions",
+      "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
       "dated": false,
-      "seq": 591
+      "seq": 527
     },
     "上级区域": {
       "asOf": null,
@@ -118,6 +133,13 @@
       "docId": "plot.xianni-ch631-its-companions",
       "dated": false,
       "seq": 591
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch632-tanlang-daluo-disciples-trapped-tide-abyss",
+      "dated": false,
+      "seq": 591,
+      "note": "仅火妖郡外出口处"
     }
   },
   "contested": false,
@@ -125,7 +147,8 @@
   "docs": [
     "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
     "plot.xianni-ch616-immortal-emperor-qinglin-secret",
-    "plot.xianni-ch631-its-companions"
+    "plot.xianni-ch631-its-companions",
+    "plot.xianni-ch632-tanlang-daluo-disciples-trapped-tide-abyss"
   ],
-  "updatedAt": "2026-08-22T17:22:01.531Z"
+  "updatedAt": "2026-08-22T17:30:10.175Z"
 }

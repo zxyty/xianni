@@ -3,11 +3,13 @@
   "type": "place",
   "name": "东海",
   "aliases": [
-    "东海之地"
+    "东海之地",
+    "东海海域",
+    "东海外"
   ],
   "summary": "天运子命王林三个月内赶到之处，本片段时只剩一个多月期限，王林尚在犹豫。",
   "attributes": {
-    "类型": "约定目的地"
+    "类型": "海域"
   },
   "observations": {
     "类型": [
@@ -15,6 +17,11 @@
         "value": "约定目的地",
         "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
         "seq": 481
+      },
+      {
+        "value": "海域",
+        "docId": "plot.xianni-ch632-tanlang-daluo-disciples-trapped-tide-abyss",
+        "seq": 591
       }
     ]
   },
@@ -22,15 +29,16 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
+      "docId": "plot.xianni-ch632-tanlang-daluo-disciples-trapped-tide-abyss",
       "dated": false,
-      "seq": 481
+      "seq": 591
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star"
+    "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
+    "plot.xianni-ch632-tanlang-daluo-disciples-trapped-tide-abyss"
   ],
-  "updatedAt": "2026-08-21T10:21:43.890Z"
+  "updatedAt": "2026-08-22T17:30:10.180Z"
 }
