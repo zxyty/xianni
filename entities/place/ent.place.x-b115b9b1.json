@@ -6,7 +6,8 @@
     "洞府",
     "山脉洞府",
     "邱四平师门洞府",
-    "姚惜雪所入洞府"
+    "姚惜雪所入洞府",
+    "妖灵之地洞府"
   ],
   "summary": "王林在火焚国非火山山脉削凿的洞府，洞外布迷踪阵法、封死东门。",
   "attributes": {
@@ -15,7 +16,8 @@
     "守护": "阻拦神识的禁制",
     "方位": "山脉中段",
     "危险度": "沿途禁制封印极多，行进艰难",
-    "所属势力": "云天宗"
+    "所属势力": "云天宗",
+    "上级区域": "妖灵之地"
   },
   "observations": {
     "所属界面": [
@@ -84,6 +86,13 @@
         "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
         "seq": 203
       }
+    ],
+    "上级区域": [
+      {
+        "value": "妖灵之地",
+        "docId": "plot.xianni-ch613-zishu-sword-qi",
+        "seq": 571
+      }
     ]
   },
   "firstSeq": 119,
@@ -123,6 +132,12 @@
       "docId": "plot.xianni-ch219-dongyuan-lingyuan-heist",
       "dated": false,
       "seq": 203
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch613-zishu-sword-qi",
+      "dated": false,
+      "seq": 571
     }
   },
   "contested": false,
@@ -131,7 +146,8 @@
     "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
     "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
     "plot.xianni-ch219-dongyuan-lingyuan-heist",
-    "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber"
+    "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
+    "plot.xianni-ch613-zishu-sword-qi"
   ],
-  "updatedAt": "2026-08-22T08:21:23.076Z"
+  "updatedAt": "2026-08-22T16:05:30.887Z"
 }

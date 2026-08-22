@@ -5,14 +5,17 @@
   "aliases": [
     "合云派藤云",
     "藤某",
-    "Tengyun"
+    "Tengyun",
+    "自称子鼠师兄的修士"
   ],
   "summary": "自称合云派弟子的道袍中年修士，修炼之术与鸟兽相关、可寄身鸟兽，善驱黑色甲虫与米粒虫云；寻至子鼠尸体处欲取宝，自称死者是其师弟「周曲」。",
   "attributes": {
     "外貌": "身穿道袍的中年人",
-    "身份": "合云派弟子",
+    "身份": "合云派弟子、子鼠的师兄",
     "神识": "不强，但可寄身鸟兽",
-    "标志特征": "驱使黑色甲虫群与米粒大小虫云"
+    "标志特征": "驱使黑色甲虫群与米粒大小虫云",
+    "性格": "机敏、贪婪、慌不择言",
+    "存殁": "存活"
   },
   "observations": {
     "外貌": [
@@ -28,6 +31,12 @@
         "docId": "plot.chapter-612-second-yuanshen-longtan-cave",
         "seq": 571,
         "note": "自称"
+      },
+      {
+        "value": "子鼠的师兄",
+        "docId": "plot.xianni-ch613-zishu-sword-qi",
+        "seq": 571,
+        "note": "冒称，实为觊觎宝物的外人"
       }
     ],
     "神识": [
@@ -41,6 +50,20 @@
       {
         "value": "驱使黑色甲虫群与米粒大小虫云",
         "docId": "plot.chapter-612-second-yuanshen-longtan-cave",
+        "seq": 571
+      }
+    ],
+    "性格": [
+      {
+        "value": "机敏、贪婪、慌不择言",
+        "docId": "plot.xianni-ch613-zishu-sword-qi",
+        "seq": 571
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch613-zishu-sword-qi",
         "seq": 571
       }
     ]
@@ -71,12 +94,25 @@
       "docId": "plot.chapter-612-second-yuanshen-longtan-cave",
       "dated": false,
       "seq": 571
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch613-zishu-sword-qi",
+      "dated": false,
+      "seq": 571
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch613-zishu-sword-qi",
+      "dated": false,
+      "seq": 571
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.chapter-612-second-yuanshen-longtan-cave"
+    "plot.chapter-612-second-yuanshen-longtan-cave",
+    "plot.xianni-ch613-zishu-sword-qi"
   ],
-  "updatedAt": "2026-08-22T16:02:42.488Z"
+  "updatedAt": "2026-08-22T16:05:30.866Z"
 }
