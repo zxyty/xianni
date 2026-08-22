@@ -4,7 +4,9 @@
   "name": "徐飞",
   "aliases": [
     "柔弱女子",
-    "Xu Fei"
+    "Xu Fei",
+    "徐飞女修",
+    "徐女"
   ],
   "summary": "原暗恋王卓的徐姓女孩，出身恒岳派，四年由凝气第四层升至第七层，欲夺墨晶兽与后山名额。",
   "attributes": {
@@ -12,8 +14,9 @@
     "阵营": "玄道宗",
     "性别": "女",
     "外貌": "柔弱女子",
-    "身份": "浮云派女修",
-    "标志特征": "望向古树时眼中微不可查的冷意"
+    "身份": "尸阴宗之人",
+    "标志特征": "身上总有一股奇异的感觉、望向古树时眼中微不可查的冷意、与赵依萱神情反应高度一致，思索被王林目光打断、疑为尸体附了元神",
+    "结局": "断发神识被毁而身颤吐血、眼露惊骇"
   },
   "observations": {
     "小阶段": [
@@ -65,6 +68,12 @@
         "value": "浮云派女修",
         "docId": "plot.xianni-ch633-tubaozi-chaoxi-shenyuan-tongxing",
         "seq": 591
+      },
+      {
+        "value": "尸阴宗之人",
+        "docId": "plot.xianni-ch635-du-jian-devoured-by-light-eating-bugs",
+        "seq": 596,
+        "note": "王林推断"
       }
     ],
     "标志特征": [
@@ -78,6 +87,25 @@
         "value": "望向古树时眼中微不可查的冷意",
         "docId": "plot.xianni-ch634-tidal-abyss-du-jian-trap",
         "seq": 596
+      },
+      {
+        "value": "与赵依萱神情反应高度一致，思索被王林目光打断",
+        "docId": "plot.xianni-ch635-du-jian-devoured-by-light-eating-bugs",
+        "seq": 596
+      },
+      {
+        "value": "疑为尸体附了元神",
+        "docId": "plot.xianni-ch635-du-jian-devoured-by-light-eating-bugs",
+        "seq": 596,
+        "note": "王林传音称赵、徐二女其中一个必定是尸体附元神"
+      }
+    ],
+    "结局": [
+      {
+        "value": "断发神识被毁而身颤吐血、眼露惊骇",
+        "docId": "plot.xianni-ch635-du-jian-devoured-by-light-eating-bugs",
+        "seq": 596,
+        "note": "本片段结尾，未死"
       }
     ]
   },
@@ -110,15 +138,24 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch633-tubaozi-chaoxi-shenyuan-tongxing",
+      "docId": "plot.xianni-ch635-du-jian-devoured-by-light-eating-bugs",
       "dated": false,
-      "seq": 591
+      "seq": 596,
+      "note": "王林推断"
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch634-tidal-abyss-du-jian-trap",
+      "docId": "plot.xianni-ch633-tubaozi-chaoxi-shenyuan-tongxing",
       "dated": false,
-      "seq": 596
+      "seq": 591,
+      "note": "王林观感"
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch635-du-jian-devoured-by-light-eating-bugs",
+      "dated": false,
+      "seq": 596,
+      "note": "本片段结尾，未死"
     }
   },
   "contested": false,
@@ -126,7 +163,8 @@
   "docs": [
     "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
     "plot.xianni-ch633-tubaozi-chaoxi-shenyuan-tongxing",
-    "plot.xianni-ch634-tidal-abyss-du-jian-trap"
+    "plot.xianni-ch634-tidal-abyss-du-jian-trap",
+    "plot.xianni-ch635-du-jian-devoured-by-light-eating-bugs"
   ],
-  "updatedAt": "2026-08-22T18:14:11.507Z"
+  "updatedAt": "2026-08-22T18:21:57.559Z"
 }

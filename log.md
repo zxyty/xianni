@@ -185,3 +185,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T17:30:10.328Z** `ingest` plot.xianni-ch632-tanlang-daluo-disciples-trapped-tide-abyss — 第632章 与天运子决裂的萌芽：贪狼与大罗剑宗弟子困于潮汐之地百年，王林奔赴火妖郡潮汐出口 · kind=plot asOf=2026-08-22 entities=50 relations=96 src=00591-00595.p4.md
 - **2026-08-22T17:32:12.743Z** `ingest` plot.xianni-ch633-tubaozi-chaoxi-shenyuan-tongxing — 第633章 土包子：云雾山海遇杜建四人，结伴共探潮汐深渊 · kind=plot asOf=2026-08-22 entities=21 relations=33 src=00591-00595.p5.md
 - **2026-08-22T18:14:11.661Z** `ingest` plot.xianni-ch634-tidal-abyss-du-jian-trap — 第634章 自找苦吃：潮汐深渊裂缝寻宝与杜建的假天运佩剑陷阱 · kind=plot asOf=2026-08-22 entities=28 relations=46 src=00596-00599.p1.md
+- **2026-08-22T18:21:57.709Z** `ingest` plot.xianni-ch635-du-jian-devoured-by-light-eating-bugs — 第635章 周佚所在：噬光飞虫围杀杜建，王林以金符符文引虫、出手擒杀 · kind=plot asOf=2026-08-22 entities=35 relations=59 src=00596-00599.p2.md
