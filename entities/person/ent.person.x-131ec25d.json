@@ -9,10 +9,11 @@
   ],
   "summary": "古妖城左翼妖将，奉妖帝之命寻人，以十崩拳意考校来者；对王林由轻视到数千年来首次动容，封其为统领。",
   "attributes": {
-    "身份": "古妖城左翼妖将",
+    "身份": "妖将，王林的直属上级",
     "称号": "左翼妖将",
     "性格": "傲然、爱才、言辞平淡",
-    "外貌": "壮汉"
+    "外貌": "壮汉",
+    "种族": "妖族"
   },
   "observations": {
     "身份": [
@@ -20,6 +21,11 @@
         "value": "古妖城左翼妖将",
         "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
         "seq": 518
+      },
+      {
+        "value": "妖将，王林的直属上级",
+        "docId": "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
+        "seq": 523
       }
     ],
     "称号": [
@@ -42,15 +48,22 @@
         "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
         "seq": 518
       }
+    ],
+    "种族": [
+      {
+        "value": "妖族",
+        "docId": "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
+        "seq": 523
+      }
     ]
   },
   "firstSeq": 518,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
+      "docId": "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
       "dated": false,
-      "seq": 518
+      "seq": 523
     },
     "称号": {
       "asOf": null,
@@ -69,12 +82,19 @@
       "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
       "dated": false,
       "seq": 518
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
+      "dated": false,
+      "seq": 523
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch518-522-jincheng-guyaocheng"
+    "plot.xianni-ch518-522-jincheng-guyaocheng",
+    "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash"
   ],
-  "updatedAt": "2026-08-22T06:58:54.785Z"
+  "updatedAt": "2026-08-22T07:17:10.657Z"
 }

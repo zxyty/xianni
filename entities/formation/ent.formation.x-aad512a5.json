@@ -1,0 +1,64 @@
+{
+  "id": "ent.formation.x-aad512a5",
+  "type": "formation",
+  "name": "转轮十八道封印禁制",
+  "aliases": [
+    "转轮之法阵法",
+    "十八道封印禁制",
+    "姚惜雪要破的阵法禁制"
+  ],
+  "summary": "妖灵之地内一处名称不详的阵法禁制，开启后出现转轮之法，内含十八道封印；破成则生、失败则死，姚惜雪最多破至第十一道。",
+  "attributes": {
+    "效果": "开启后出现转轮之法、内含十八道封印禁制、破成则生、失败则死",
+    "破解法": "需特殊法宝方可进入，姚惜雪已破至第十一道"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "开启后出现转轮之法",
+        "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
+        "seq": 527
+      },
+      {
+        "value": "内含十八道封印禁制",
+        "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
+        "seq": 527
+      },
+      {
+        "value": "破成则生、失败则死",
+        "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
+        "seq": 527
+      }
+    ],
+    "破解法": [
+      {
+        "value": "需特殊法宝方可进入，姚惜雪已破至第十一道",
+        "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
+        "seq": 527,
+        "note": "她已失败四次，各耗一粒血魂丹替死"
+      }
+    ]
+  },
+  "firstSeq": 527,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
+      "dated": false,
+      "seq": 527
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
+      "dated": false,
+      "seq": 527,
+      "note": "她已失败四次，各耗一粒血魂丹替死"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority"
+  ],
+  "updatedAt": "2026-08-22T07:41:19.443Z"
+}

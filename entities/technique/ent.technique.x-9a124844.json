@@ -4,13 +4,16 @@
   "name": "仙人禁制",
   "aliases": [
     "仙禁",
-    "仙人的禁制"
+    "仙人的禁制",
+    "仙界之法",
+    "仙禁封印",
+    "整体封印"
   ],
   "summary": "仙界碎片洞府内残留的禁制体系，与上古禁制相似但内部构造不同；本质是更为灵活的阵法。王林参悟三日铭记于心，用以助推禁幡境界。",
   "attributes": {
-    "出处": "锁形山峰洞府",
-    "效果": "阻步封门（该残留者）",
-    "品阶": "仙人级"
+    "出处": "传闻为仙界之法",
+    "效果": "阻步封门（该残留者）、一化为无数、使范围内一切物品各自成禁",
+    "品阶": "仙界之法（超越上古禁制）"
   },
   "observations": {
     "出处": [
@@ -18,6 +21,11 @@
         "value": "锁形山峰洞府",
         "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
         "seq": 276
+      },
+      {
+        "value": "传闻为仙界之法",
+        "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
+        "seq": 532
       }
     ],
     "效果": [
@@ -25,6 +33,16 @@
         "value": "阻步封门（该残留者）",
         "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
         "seq": 276
+      },
+      {
+        "value": "一化为无数",
+        "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
+        "seq": 532
+      },
+      {
+        "value": "使范围内一切物品各自成禁",
+        "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
+        "seq": 532
       }
     ],
     "品阶": [
@@ -32,6 +50,11 @@
         "value": "仙人级",
         "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
         "seq": 276
+      },
+      {
+        "value": "仙界之法（超越上古禁制）",
+        "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
+        "seq": 532
       }
     ]
   },
@@ -39,9 +62,9 @@
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+      "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
       "dated": false,
-      "seq": 276
+      "seq": 532
     },
     "效果": {
       "asOf": null,
@@ -51,15 +74,16 @@
     },
     "品阶": {
       "asOf": null,
-      "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+      "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
       "dated": false,
-      "seq": 276
+      "seq": 532
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men"
+    "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+    "plot.xianni-ch532-533-three-stroke-rune-second-seal"
   ],
-  "updatedAt": "2026-08-02T14:24:24.319Z"
+  "updatedAt": "2026-08-22T08:01:12.166Z"
 }

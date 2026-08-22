@@ -4,16 +4,22 @@
   "name": "虎咆",
   "aliases": [
     "Hu Pao",
-    "虎咆(炼魂部落)"
+    "虎咆(炼魂部落)",
+    "虎咆老祖随从",
+    "虎咆妖兵",
+    "虎咆统领"
   ],
   "summary": "原小部落第一高手，天生二星妖力、幼年开蒙，被欧阳华擒获灌下离妖汤后入炼魂部落，四年修至第五阶段、九十三杆十魂幡，实力近结丹期，被王林带在身边控制。",
   "attributes": {
     "小阶段": "炼魂术第五阶段（约等同结丹期）",
-    "身份": "炼魂部落族人／王林随行者、王林的随从、王林随从",
+    "身份": "炼魂部落族人／王林随行者、王林的随从、王林随从、王林随行者、黑甲军营成员",
     "出身地": "某小部落",
     "标志特征": "天生二星妖力、修炼速度王林此生仅见",
-    "性格": "直率、易受震撼、好胜要强、直率好奇",
-    "阵营": "炼魂部落"
+    "性格": "直率、易受震撼、好胜要强、直率好奇、好酒、火爆但知轻重、要强，不愿给老祖丢脸、暴躁易怒、暴躁好战、直率、快意、开朗、善交际",
+    "阵营": "王林麾下",
+    "存殁": "在世",
+    "种族": "妖族",
+    "本命法宝": "魂幡"
   },
   "observations": {
     "小阶段": [
@@ -39,6 +45,16 @@
         "value": "王林随从",
         "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
         "seq": 518
+      },
+      {
+        "value": "王林随行者",
+        "docId": "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
+        "seq": 523
+      },
+      {
+        "value": "黑甲军营成员",
+        "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
+        "seq": 527
       }
     ],
     "出身地": [
@@ -65,6 +81,36 @@
         "value": "直率好奇",
         "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
         "seq": 518
+      },
+      {
+        "value": "好酒、火爆但知轻重",
+        "docId": "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
+        "seq": 523
+      },
+      {
+        "value": "要强，不愿给老祖丢脸",
+        "docId": "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
+        "seq": 523
+      },
+      {
+        "value": "暴躁易怒",
+        "docId": "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
+        "seq": 523
+      },
+      {
+        "value": "暴躁好战",
+        "docId": "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
+        "seq": 523
+      },
+      {
+        "value": "直率、快意",
+        "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
+        "seq": 527
+      },
+      {
+        "value": "开朗、善交际",
+        "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
+        "seq": 527
       }
     ],
     "阵营": [
@@ -72,6 +118,32 @@
         "value": "炼魂部落",
         "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
         "seq": 518
+      },
+      {
+        "value": "王林麾下",
+        "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
+        "seq": 527
+      }
+    ],
+    "存殁": [
+      {
+        "value": "在世",
+        "docId": "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
+        "seq": 523
+      }
+    ],
+    "种族": [
+      {
+        "value": "妖族",
+        "docId": "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
+        "seq": 523
+      }
+    ],
+    "本命法宝": [
+      {
+        "value": "魂幡",
+        "docId": "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
+        "seq": 523
       }
     ]
   },
@@ -110,16 +182,36 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
+      "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
       "dated": false,
-      "seq": 518
+      "seq": 527
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
+      "dated": false,
+      "seq": 523
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
+      "dated": false,
+      "seq": 523
+    },
+    "本命法宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
+      "dated": false,
+      "seq": 523
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
-    "plot.xianni-ch518-522-jincheng-guyaocheng"
+    "plot.xianni-ch518-522-jincheng-guyaocheng",
+    "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
+    "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority"
   ],
-  "updatedAt": "2026-08-22T06:58:54.789Z"
+  "updatedAt": "2026-08-22T07:41:19.410Z"
 }

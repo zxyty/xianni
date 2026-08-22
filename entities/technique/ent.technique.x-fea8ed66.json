@@ -4,13 +4,14 @@
   "name": "巨魔族炼体术",
   "aliases": [
     "炼体之术",
-    "炼体功法"
+    "炼体功法",
+    "十三的炼体之术"
   ],
   "summary": "王林总结所知巨魔族炼体法门后传给十三的功法：将妖力转化入血肉、肉身强度无限增加，但无法施展神通之术，修炼困难、危险极大且痛苦剧烈。",
   "attributes": {
     "出处": "巨魔族",
-    "效果": "妖力转入血肉、肉身强度无限增加、不能使用神通之术",
-    "修炼条件": "体内需有妖力；须忍受极大痛苦，出错无救"
+    "效果": "妖力转入血肉、肉身强度无限增加、不能使用神通之术、强化肉身近战之力",
+    "修炼条件": "所得功法不完整"
   },
   "observations": {
     "出处": [
@@ -35,6 +36,11 @@
         "value": "不能使用神通之术",
         "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
         "seq": 514
+      },
+      {
+        "value": "强化肉身近战之力",
+        "docId": "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
+        "seq": 523
       }
     ],
     "修炼条件": [
@@ -42,6 +48,12 @@
         "value": "体内需有妖力；须忍受极大痛苦，出错无救",
         "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
         "seq": 514
+      },
+      {
+        "value": "所得功法不完整",
+        "docId": "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
+        "seq": 523,
+        "note": "故威力不足"
       }
     ]
   },
@@ -61,15 +73,17 @@
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
+      "docId": "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
       "dated": false,
-      "seq": 514
+      "seq": 523,
+      "note": "故威力不足"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground"
+    "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
+    "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash"
   ],
-  "updatedAt": "2026-08-22T02:43:48.240Z"
+  "updatedAt": "2026-08-22T07:17:10.645Z"
 }

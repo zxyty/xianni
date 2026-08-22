@@ -5,14 +5,17 @@
   "aliases": [
     "血祖血功",
     "血系魔功",
-    "魔功"
+    "魔功",
+    "血君功法",
+    "当年血君功法"
   ],
   "summary": "姚星海所修的血系魔功，需圈养土著开荒纳血供其修炼，第七次挑战天运子时展现出惊人威力；其女姚惜雪尽得传授。",
   "attributes": {
-    "出处": "血祖姚星海",
+    "出处": "血君传承",
     "修炼条件": "以土著之血滋养",
-    "效果": "血腥之气弥漫、修为随战日增",
-    "外显异象": "红芒笼罩星空、四周映照成血色世界"
+    "效果": "血腥之气弥漫、修为随战日增、封印、御敌、复活神通、血色符文附着",
+    "外显异象": "挥手血色先出，血液沸腾化血色符文",
+    "五行属性": "血"
   },
   "observations": {
     "出处": [
@@ -20,6 +23,11 @@
         "value": "血祖姚星海",
         "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
         "seq": 491
+      },
+      {
+        "value": "血君传承",
+        "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
+        "seq": 532
       }
     ],
     "修炼条件": [
@@ -34,6 +42,26 @@
         "value": "血腥之气弥漫、修为随战日增",
         "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
         "seq": 491
+      },
+      {
+        "value": "封印",
+        "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
+        "seq": 532
+      },
+      {
+        "value": "御敌",
+        "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
+        "seq": 532
+      },
+      {
+        "value": "复活神通",
+        "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
+        "seq": 532
+      },
+      {
+        "value": "血色符文附着",
+        "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
+        "seq": 532
       }
     ],
     "外显异象": [
@@ -41,6 +69,18 @@
         "value": "红芒笼罩星空、四周映照成血色世界",
         "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
         "seq": 491
+      },
+      {
+        "value": "挥手血色先出，血液沸腾化血色符文",
+        "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
+        "seq": 532
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "血",
+        "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
+        "seq": 532
       }
     ]
   },
@@ -48,9 +88,9 @@
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+      "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
       "dated": false,
-      "seq": 491
+      "seq": 532
     },
     "修炼条件": {
       "asOf": null,
@@ -66,15 +106,22 @@
     },
     "外显异象": {
       "asOf": null,
-      "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+      "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
       "dated": false,
-      "seq": 491
+      "seq": 532
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
+      "dated": false,
+      "seq": 532
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch514-target-donghai-yaoling-gate"
+    "plot.xianni-ch514-target-donghai-yaoling-gate",
+    "plot.xianni-ch532-533-three-stroke-rune-second-seal"
   ],
-  "updatedAt": "2026-08-21T12:01:42.140Z"
+  "updatedAt": "2026-08-22T08:01:12.117Z"
 }

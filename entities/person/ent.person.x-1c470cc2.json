@@ -1,0 +1,56 @@
+{
+  "id": "ent.person.x-1c470cc2",
+  "type": "person",
+  "name": "徐幽",
+  "aliases": [
+    "徐幽统队"
+  ],
+  "summary": "黑甲军统队之一，平日与司马炎一派少有来往，此次司马炎召集议事未到。",
+  "attributes": {
+    "身份": "统队",
+    "性别": "女"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "黑甲军统队",
+        "docId": "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
+        "seq": 523
+      },
+      {
+        "value": "统队",
+        "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
+        "seq": 527
+      }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
+        "seq": 527
+      }
+    ]
+  },
+  "firstSeq": 523,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
+      "dated": false,
+      "seq": 527
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
+      "dated": false,
+      "seq": 527
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
+    "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority"
+  ],
+  "updatedAt": "2026-08-22T07:41:19.414Z"
+}

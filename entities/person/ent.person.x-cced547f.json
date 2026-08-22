@@ -2,10 +2,15 @@
   "id": "ent.person.x-cced547f",
   "type": "person",
   "name": "妖帝",
-  "aliases": [],
+  "aliases": [
+    "妖帝大人",
+    "一妖帝"
+  ],
   "summary": "妖灵之地至高存在，曾有言：对外来者只要修为足够，可赐予一切职务。",
   "attributes": {
-    "身份": "妖族至尊"
+    "身份": "妖族至尊",
+    "种族": "妖族",
+    "称号": "妖帝"
   },
   "observations": {
     "身份": [
@@ -13,6 +18,20 @@
         "value": "妖族至尊",
         "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
         "seq": 518
+      }
+    ],
+    "种族": [
+      {
+        "value": "妖族",
+        "docId": "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
+        "seq": 523
+      }
+    ],
+    "称号": [
+      {
+        "value": "妖帝",
+        "docId": "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
+        "seq": 523
       }
     ]
   },
@@ -23,12 +42,26 @@
       "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
       "dated": false,
       "seq": 518
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
+      "dated": false,
+      "seq": 523
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
+      "dated": false,
+      "seq": 523
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch518-522-jincheng-guyaocheng"
+    "plot.xianni-ch518-522-jincheng-guyaocheng",
+    "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
+    "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority"
   ],
-  "updatedAt": "2026-08-22T06:58:54.789Z"
+  "updatedAt": "2026-08-22T07:41:19.416Z"
 }

@@ -3,11 +3,18 @@
   "type": "spell",
   "name": "金色符文",
   "aliases": [
-    "云雀子的金色符文"
+    "云雀子的金色符文",
+    "金符",
+    "一笔符文",
+    "两笔符文",
+    "三笔符文",
+    "六笔符文",
+    "三符归一",
+    "符文烙印"
   ],
   "summary": "云雀子双手挥出、自虚无中幻化并盘旋于身前的金色符文，可疯狂冲击目标；本章用于攻击小猴。",
   "attributes": {
-    "类型": "符文攻击/护身",
+    "类型": "符文攻击/护身、符文/天道烙印、符文烙印",
     "出处": "云雀子"
   },
   "observations": {
@@ -16,6 +23,16 @@
         "value": "符文攻击/护身",
         "docId": "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
         "seq": 438
+      },
+      {
+        "value": "符文/天道烙印",
+        "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
+        "seq": 532
+      },
+      {
+        "value": "符文烙印",
+        "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
+        "seq": 532
       }
     ],
     "出处": [
@@ -44,7 +61,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang"
+    "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
+    "plot.xianni-ch532-533-three-stroke-rune-second-seal"
   ],
-  "updatedAt": "2026-08-21T03:36:29.519Z"
+  "updatedAt": "2026-08-22T08:01:12.114Z"
 }

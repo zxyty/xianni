@@ -126,3 +126,6 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T02:29:37.227Z** `ingest` plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan — 仙逆 第510-513章：王林传授炼魂术、融合三甲妖晶、十三炼魂幡反噬 · kind=plot asOf=2026-08-22 entities=42 relations=100 src=00510-00513.md
 - **2026-08-22T02:43:48.405Z** `ingest` plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground — 仙逆 第514-517章：王林掘地十里、炼化护阵，斩杀白衣老者夺魂 · kind=plot asOf=2026-08-22 entities=58 relations=115 src=00514-00517.md
 - **2026-08-22T06:58:54.915Z** `ingest` plot.xianni-ch518-522-jincheng-guyaocheng — 仙逆 第518-522章:王林御蚊兽赴古妖城,城门立威与十三出拳受教 · kind=plot asOf=2026-08-22 entities=54 relations=97 src=00518-00522.md
+- **2026-08-22T07:17:10.832Z** `ingest` plot.xianni-ch546-yaobing-guyaocheng-tavern-clash — 仙逆 第546章 妖兵——古妖城酒楼冲突与王林魔念躁动 · kind=plot asOf=2026-08-22 entities=61 relations=104 src=00523-00526.md
+- **2026-08-22T07:41:19.615Z** `ingest` plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority — 仙逆 第550章 姚惜雪：王林立威黑甲军营，紫妖升耀之夜 · kind=plot asOf=2026-08-22 entities=80 relations=160 src=00527-00531.md
+- **2026-08-22T08:01:12.352Z** `ingest` plot.xianni-ch532-533-three-stroke-rune-second-seal — 仙逆 第532-533章 三符归一·扭转乾坤：王林破第二尊石像、集齐三笔金符 · kind=plot asOf=2026-08-22 entities=65 relations=119 src=00532-00533.md

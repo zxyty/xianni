@@ -9,10 +9,11 @@
   "summary": "古妖城之主，妖将级强者，妖力不少于数十万甲，修为接近或相当于问鼎；以十崩战意考较王林，许以府内长老（内职）与都统（外职）。",
   "attributes": {
     "性别": "男",
-    "身份": "左翼妖将、古妖城之主",
+    "身份": "妖将（黑甲军上层）",
     "称号": "左翼妖将",
     "外貌": "相貌寻常、彪悍之色、紫袍、双臂粗大",
-    "性格": "爽朗、好战、赏识强者"
+    "性格": "爽朗、好战、赏识强者",
+    "阵营": "妖族黑甲军"
   },
   "observations": {
     "性别": [
@@ -27,6 +28,16 @@
         "value": "左翼妖将、古妖城之主",
         "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
         "seq": 518
+      },
+      {
+        "value": "妖兵军中高层（统领之上）",
+        "docId": "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
+        "seq": 523
+      },
+      {
+        "value": "妖将（黑甲军上层）",
+        "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
+        "seq": 527
       }
     ],
     "称号": [
@@ -49,6 +60,13 @@
         "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
         "seq": 518
       }
+    ],
+    "阵营": [
+      {
+        "value": "妖族黑甲军",
+        "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
+        "seq": 527
+      }
     ]
   },
   "firstSeq": 518,
@@ -61,9 +79,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
+      "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
       "dated": false,
-      "seq": 518
+      "seq": 527
     },
     "称号": {
       "asOf": null,
@@ -82,12 +100,20 @@
       "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
       "dated": false,
       "seq": 518
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
+      "dated": false,
+      "seq": 527
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch518-522-jincheng-guyaocheng"
+    "plot.xianni-ch518-522-jincheng-guyaocheng",
+    "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
+    "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority"
   ],
-  "updatedAt": "2026-08-22T06:58:54.762Z"
+  "updatedAt": "2026-08-22T07:41:19.391Z"
 }
