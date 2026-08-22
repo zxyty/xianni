@@ -4,13 +4,15 @@
   "name": "黑色小旗",
   "aliases": [
     "黑棋",
-    "黑色小旗魂旗"
+    "黑色小旗魂旗",
+    "上百个黑色小旗",
+    "古战场小旗"
   ],
   "summary": "藤化元法宝，可收摄封印亡魂，本章封入王家上下一百多人灵魂，可映现远方画面。",
   "attributes": {
-    "持有者": "藤化元",
-    "能力": "收摄封印亡魂、映现远方画面",
-    "外形": "黑色小旗，喷婴血后可涨大"
+    "持有者": "古战场青年",
+    "能力": "收摄封印亡魂、映现远方画面、盛放魂魄、收摄苏醒英魂",
+    "外形": "黑色小旗，上百面，无风自动"
   },
   "observations": {
     "持有者": [
@@ -18,6 +20,11 @@
         "value": "藤化元",
         "docId": "plot.xianni-ch85-89-jilian-jianqiao",
         "seq": 85
+      },
+      {
+        "value": "古战场青年",
+        "docId": "plot.xianni-ch566-hupao-elder-and-armor",
+        "seq": 537
       }
     ],
     "能力": [
@@ -30,6 +37,16 @@
         "value": "映现远方画面",
         "docId": "plot.xianni-ch85-89-jilian-jianqiao",
         "seq": 85
+      },
+      {
+        "value": "盛放魂魄",
+        "docId": "plot.xianni-ch566-hupao-elder-and-armor",
+        "seq": 537
+      },
+      {
+        "value": "收摄苏醒英魂",
+        "docId": "plot.xianni-ch566-hupao-elder-and-armor",
+        "seq": 537
       }
     ],
     "外形": [
@@ -37,6 +54,11 @@
         "value": "黑色小旗，喷婴血后可涨大",
         "docId": "plot.xianni-ch85-89-jilian-jianqiao",
         "seq": 85
+      },
+      {
+        "value": "黑色小旗，上百面，无风自动",
+        "docId": "plot.xianni-ch566-hupao-elder-and-armor",
+        "seq": 537
       }
     ]
   },
@@ -44,9 +66,9 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+      "docId": "plot.xianni-ch566-hupao-elder-and-armor",
       "dated": false,
-      "seq": 85
+      "seq": 537
     },
     "能力": {
       "asOf": null,
@@ -56,15 +78,16 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+      "docId": "plot.xianni-ch566-hupao-elder-and-armor",
       "dated": false,
-      "seq": 85
+      "seq": 537
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch85-89-jilian-jianqiao"
+    "plot.xianni-ch85-89-jilian-jianqiao",
+    "plot.xianni-ch566-hupao-elder-and-armor"
   ],
-  "updatedAt": "2026-07-05T03:01:33.267Z"
+  "updatedAt": "2026-08-22T09:23:28.630Z"
 }

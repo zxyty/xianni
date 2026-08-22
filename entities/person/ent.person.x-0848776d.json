@@ -10,17 +10,19 @@
     "虎咆统领",
     "虎咆随从",
     "虎跑",
-    "虎啸"
+    "虎啸",
+    "Hupao",
+    "虎咆兽奴"
   ],
   "summary": "原小部落第一高手，天生二星妖力、幼年开蒙，被欧阳华擒获灌下离妖汤后入炼魂部落，四年修至第五阶段、九十三杆十魂幡，实力近结丹期，被王林带在身边控制。",
   "attributes": {
     "小阶段": "炼魂术第五阶段（约等同结丹期）",
-    "身份": "炼魂部落族人／王林随行者、王林的随从、王林随从、王林随行者、黑甲军营成员、王林所寻之人",
+    "身份": "炼魂部落族人／王林随行者、王林的随从、王林随从、王林随行者、黑甲军营成员、王林所寻之人、黑衣老者所救之人／被培养为“妖卫”的实验品",
     "出身地": "某小部落",
-    "标志特征": "天生二星妖力、修炼速度王林此生仅见",
-    "性格": "直率、易受震撼、好胜要强、直率好奇、好酒、火爆但知轻重、要强，不愿给老祖丢脸、暴躁易怒、暴躁好战、直率、快意、开朗、善交际",
-    "阵营": "王林麾下",
-    "存殁": "在世、下落不明、失踪",
+    "标志特征": "掐诀操控黑芒小旗（魂幡）炼化魂魄",
+    "性格": "直率、易受震撼、好胜要强、直率好奇、好酒、火爆但知轻重、要强，不愿给老祖丢脸、暴躁易怒、暴躁好战、直率、快意、开朗、善交际、果断、记恨、不甘为奴",
+    "阵营": "黑衣老者（黑塔铠甲之主）一方",
+    "存殁": "在世、下落不明、失踪、失踪、生死不明、存活",
     "种族": "妖族",
     "本命法宝": "魂幡",
     "结局": "被废全身修为投入黑牢，三月后神秘失踪，去向成谜"
@@ -64,6 +66,12 @@
         "value": "王林所寻之人",
         "docId": "plot.xianni-ch565-laozu-return-yaojiang-truce",
         "seq": 537
+      },
+      {
+        "value": "黑衣老者所救之人／被培养为“妖卫”的实验品",
+        "docId": "plot.xianni-ch566-hupao-elder-and-armor",
+        "seq": 537,
+        "note": "老者内心定位，虎咆本人不知"
       }
     ],
     "出身地": [
@@ -78,6 +86,11 @@
         "value": "天生二星妖力、修炼速度王林此生仅见",
         "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
         "seq": 514
+      },
+      {
+        "value": "掐诀操控黑芒小旗（魂幡）炼化魂魄",
+        "docId": "plot.xianni-ch566-hupao-elder-and-armor",
+        "seq": 537
       }
     ],
     "性格": [
@@ -120,6 +133,11 @@
         "value": "开朗、善交际",
         "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
         "seq": 527
+      },
+      {
+        "value": "果断、记恨、不甘为奴",
+        "docId": "plot.xianni-ch566-hupao-elder-and-armor",
+        "seq": 537
       }
     ],
     "阵营": [
@@ -132,6 +150,12 @@
         "value": "王林麾下",
         "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
         "seq": 527
+      },
+      {
+        "value": "黑衣老者（黑塔铠甲之主）一方",
+        "docId": "plot.xianni-ch566-hupao-elder-and-armor",
+        "seq": 537,
+        "note": "第537章；此前为王林属下"
       }
     ],
     "存殁": [
@@ -150,6 +174,17 @@
         "value": "失踪",
         "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
         "seq": 534
+      },
+      {
+        "value": "失踪、生死不明",
+        "docId": "plot.xianni-ch566-hupao-elder-and-armor",
+        "seq": 537,
+        "note": "王林推测若未死则身处某奇异之地"
+      },
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch566-hupao-elder-and-armor",
+        "seq": 537
       }
     ],
     "种族": [
@@ -197,9 +232,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
+      "docId": "plot.xianni-ch566-hupao-elder-and-armor",
       "dated": false,
-      "seq": 514
+      "seq": 537
     },
     "性格": {
       "asOf": null,
@@ -209,9 +244,10 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
+      "docId": "plot.xianni-ch566-hupao-elder-and-armor",
       "dated": false,
-      "seq": 527
+      "seq": 537,
+      "note": "第537章；此前为王林属下"
     },
     "存殁": {
       "asOf": null,
@@ -246,7 +282,8 @@
     "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
     "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
     "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
-    "plot.xianni-ch565-laozu-return-yaojiang-truce"
+    "plot.xianni-ch565-laozu-return-yaojiang-truce",
+    "plot.xianni-ch566-hupao-elder-and-armor"
   ],
-  "updatedAt": "2026-08-22T09:15:51.742Z"
+  "updatedAt": "2026-08-22T09:23:28.640Z"
 }

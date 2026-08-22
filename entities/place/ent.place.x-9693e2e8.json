@@ -5,13 +5,19 @@
   "aliases": [
     "递增黑塔",
     "土行黑塔",
-    "直插云霄的黑塔"
+    "直插云霄的黑塔",
+    "漆黑高塔",
+    "古战场黑塔",
+    "通体漆黑的高塔"
   ],
   "summary": "五行之地中通体黑石、吸光不反照、高度沿直线递增的塔；土行黑塔共三层，第三层桌面有前人留字，可供避风与查探痕迹。",
   "attributes": {
-    "类型": "塔",
+    "类型": "高塔",
     "上级区域": "飓风群",
-    "所属势力": "无"
+    "所属势力": "无",
+    "方位": "古战场深处",
+    "规模": "高约数十丈",
+    "危险度": "极高（幽芒现则天地颤）"
   },
   "observations": {
     "类型": [
@@ -24,6 +30,11 @@
         "value": "塔",
         "docId": "plot.xianni-ch173-second-demon-head",
         "seq": 158
+      },
+      {
+        "value": "高塔",
+        "docId": "plot.xianni-ch566-hupao-elder-and-armor",
+        "seq": 537
       }
     ],
     "上级区域": [
@@ -44,15 +55,36 @@
         "docId": "plot.xianni-ch176-duoqu-fengqun",
         "seq": 161
       }
+    ],
+    "方位": [
+      {
+        "value": "古战场深处",
+        "docId": "plot.xianni-ch566-hupao-elder-and-armor",
+        "seq": 537
+      }
+    ],
+    "规模": [
+      {
+        "value": "高约数十丈",
+        "docId": "plot.xianni-ch566-hupao-elder-and-armor",
+        "seq": 537
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高（幽芒现则天地颤）",
+        "docId": "plot.xianni-ch566-hupao-elder-and-armor",
+        "seq": 537
+      }
     ]
   },
   "firstSeq": 155,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch173-second-demon-head",
+      "docId": "plot.xianni-ch566-hupao-elder-and-armor",
       "dated": false,
-      "seq": 158
+      "seq": 537
     },
     "上级区域": {
       "asOf": null,
@@ -65,6 +97,24 @@
       "docId": "plot.xianni-ch176-duoqu-fengqun",
       "dated": false,
       "seq": 161
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch566-hupao-elder-and-armor",
+      "dated": false,
+      "seq": 537
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch566-hupao-elder-and-armor",
+      "dated": false,
+      "seq": 537
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch566-hupao-elder-and-armor",
+      "dated": false,
+      "seq": 537
     }
   },
   "contested": false,
@@ -72,7 +122,8 @@
   "docs": [
     "plot.xianni-ch155-157-tuoli-duiwu-quisui",
     "plot.xianni-ch173-second-demon-head",
-    "plot.xianni-ch176-duoqu-fengqun"
+    "plot.xianni-ch176-duoqu-fengqun",
+    "plot.xianni-ch566-hupao-elder-and-armor"
   ],
-  "updatedAt": "2026-07-07T02:39:51.839Z"
+  "updatedAt": "2026-08-22T09:23:28.656Z"
 }
