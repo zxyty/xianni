@@ -3,12 +3,15 @@
   "type": "faction",
   "name": "幻家",
   "aliases": [
-    "千幻星幻家"
+    "千幻星幻家",
+    "Huan Family"
   ],
   "summary": "罗天北域主星千幻星上的家族势力，大长老即眉儿之师。",
   "attributes": {
     "据点": "千幻星",
-    "所属界面": "千幻星"
+    "所属界面": "千幻星",
+    "理念": "重血脉：无家族血脉不得修行高阶功法、不得受家族庇护",
+    "镇派之宝": "罗大石"
   },
   "observations": {
     "据点": [
@@ -23,6 +26,20 @@
         "value": "千幻星",
         "docId": "plot.xianni-ch661-meier-luotian-north-domain",
         "seq": 621
+      }
+    ],
+    "理念": [
+      {
+        "value": "重血脉：无家族血脉不得修行高阶功法、不得受家族庇护",
+        "docId": "plot.xianni-ch667-special-artifact-targeting-wang-lin",
+        "seq": 626
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "罗大石",
+        "docId": "plot.xianni-ch667-special-artifact-targeting-wang-lin",
+        "seq": 626
       }
     ]
   },
@@ -39,12 +56,25 @@
       "docId": "plot.xianni-ch661-meier-luotian-north-domain",
       "dated": false,
       "seq": 621
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.xianni-ch667-special-artifact-targeting-wang-lin",
+      "dated": false,
+      "seq": 626
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch667-special-artifact-targeting-wang-lin",
+      "dated": false,
+      "seq": 626
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch661-meier-luotian-north-domain"
+    "plot.xianni-ch661-meier-luotian-north-domain",
+    "plot.xianni-ch667-special-artifact-targeting-wang-lin"
   ],
-  "updatedAt": "2026-08-22T22:14:17.826Z"
+  "updatedAt": "2026-08-22T22:35:11.779Z"
 }

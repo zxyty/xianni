@@ -13,9 +13,10 @@
   ],
   "summary": "冉云星修真家族，孙雪山所属。",
   "attributes": {
-    "据点": "冉云星、孙家城池、孙家之城、城中心孙家大宅、冉云星此城孙家大宅",
+    "据点": "冉云星、孙家城池、孙家之城、城中心孙家大宅、冉云星此城孙家大宅、冉运城",
     "所属界面": "冉云星",
-    "阵营": "罗天星域家族势力、罗天星域修真家族"
+    "阵营": "罗天星域家族势力、罗天星域修真家族",
+    "掌门": "孙析（老祖）"
   },
   "observations": {
     "据点": [
@@ -43,6 +44,11 @@
         "value": "冉云星此城孙家大宅",
         "docId": "plot.xianni-ch666-nvban-nanzhuang-sun-family-test",
         "seq": 626
+      },
+      {
+        "value": "冉运城",
+        "docId": "plot.xianni-ch667-special-artifact-targeting-wang-lin",
+        "seq": 626
       }
     ],
     "所属界面": [
@@ -68,6 +74,13 @@
         "docId": "plot.xianni-ch665-warning-sun-family-ranyun-star",
         "seq": 621
       }
+    ],
+    "掌门": [
+      {
+        "value": "孙析（老祖）",
+        "docId": "plot.xianni-ch667-special-artifact-targeting-wang-lin",
+        "seq": 626
+      }
     ]
   },
   "firstSeq": 618,
@@ -89,6 +102,12 @@
       "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
       "dated": false,
       "seq": 621
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.xianni-ch667-special-artifact-targeting-wang-lin",
+      "dated": false,
+      "seq": 626
     }
   },
   "contested": false,
@@ -97,7 +116,8 @@
     "plot.xianni-ch660-first-entry-luoyun-star-domain",
     "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
     "plot.xianni-ch665-warning-sun-family-ranyun-star",
-    "plot.xianni-ch666-nvban-nanzhuang-sun-family-test"
+    "plot.xianni-ch666-nvban-nanzhuang-sun-family-test",
+    "plot.xianni-ch667-special-artifact-targeting-wang-lin"
   ],
-  "updatedAt": "2026-08-22T22:32:22.156Z"
+  "updatedAt": "2026-08-22T22:35:11.781Z"
 }

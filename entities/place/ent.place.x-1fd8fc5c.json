@@ -6,17 +6,19 @@
     "Baohe Lou",
     "宝合楼阁楼",
     "宝合楼商行",
-    "冉家宝合楼"
+    "冉家宝合楼",
+    "城东宝合楼"
   ],
   "summary": "位于城东尽头的巨大阁楼，浑然天成、与四周融合而显虚无缥缈；门外八块三丈上品原灵石摆如阵法，楼内有隐藏防护阻止神识探入。以「二不进一不出」的规矩闻名，是此城的高阶法宝交换之地。",
   "attributes": {
-    "类型": "拍卖行",
-    "方位": "城东尽头",
+    "类型": "高阶法宝交易楼、拍卖行、商铺／拍卖交易之所",
+    "方位": "冉运城东部",
     "上级区域": "城东",
     "规模": "浑然天成的巨大阁楼",
     "守护": "阵法威压、阻止神识探入的隐藏防护、门前八块三丈上品原灵石",
     "特产": "高阶法宝交换",
-    "所属势力": "冉家"
+    "所属势力": "冉家",
+    "所属界面": "冉云星"
   },
   "observations": {
     "类型": [
@@ -29,6 +31,11 @@
         "value": "拍卖行",
         "docId": "plot.xianni-ch666-nvban-nanzhuang-sun-family-test",
         "seq": 626
+      },
+      {
+        "value": "商铺／拍卖交易之所",
+        "docId": "plot.xianni-ch667-special-artifact-targeting-wang-lin",
+        "seq": 626
       }
     ],
     "方位": [
@@ -36,6 +43,11 @@
         "value": "城东尽头",
         "docId": "plot.xianni-ch663-sun-lao-baohe-lou",
         "seq": 621
+      },
+      {
+        "value": "冉运城东部",
+        "docId": "plot.xianni-ch667-special-artifact-targeting-wang-lin",
+        "seq": 626
       }
     ],
     "上级区域": [
@@ -82,21 +94,28 @@
         "docId": "plot.xianni-ch666-nvban-nanzhuang-sun-family-test",
         "seq": 626
       }
+    ],
+    "所属界面": [
+      {
+        "value": "冉云星",
+        "docId": "plot.xianni-ch667-special-artifact-targeting-wang-lin",
+        "seq": 626
+      }
     ]
   },
   "firstSeq": 621,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch666-nvban-nanzhuang-sun-family-test",
-      "dated": false,
-      "seq": 626
-    },
-    "方位": {
-      "asOf": null,
       "docId": "plot.xianni-ch663-sun-lao-baohe-lou",
       "dated": false,
       "seq": 621
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch667-special-artifact-targeting-wang-lin",
+      "dated": false,
+      "seq": 626
     },
     "上级区域": {
       "asOf": null,
@@ -127,6 +146,12 @@
       "docId": "plot.xianni-ch666-nvban-nanzhuang-sun-family-test",
       "dated": false,
       "seq": 626
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch667-special-artifact-targeting-wang-lin",
+      "dated": false,
+      "seq": 626
     }
   },
   "contested": false,
@@ -134,7 +159,8 @@
   "docs": [
     "plot.xianni-ch663-sun-lao-baohe-lou",
     "plot.xianni-ch664-cuoguo-qingzhuge-sell-sword",
-    "plot.xianni-ch666-nvban-nanzhuang-sun-family-test"
+    "plot.xianni-ch666-nvban-nanzhuang-sun-family-test",
+    "plot.xianni-ch667-special-artifact-targeting-wang-lin"
   ],
-  "updatedAt": "2026-08-22T22:32:22.158Z"
+  "updatedAt": "2026-08-22T22:35:11.785Z"
 }
