@@ -163,3 +163,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T15:55:27.582Z** `ingest` plot.xianni-ch611-buwang-zhuque-first-act — 第611章 不忘朱雀第一幕：血星红发男子救紫芯，云天宗铸王林巨像 · kind=plot asOf=2026-08-22 entities=59 relations=106 src=00571-00575.p2.md
 - **2026-08-22T16:02:42.621Z** `ingest` plot.chapter-612-second-yuanshen-longtan-cave — 第612章 第二元神——龙潭洞府炼散魔为第二元神之谋 · kind=plot asOf=2026-08-22 entities=42 relations=69 src=00571-00575.p3.md
 - **2026-08-22T16:05:31.012Z** `ingest` plot.xianni-ch613-zishu-sword-qi — 第613章 子鼠剑气——王林炼化凌天候剑气、失而复得子鼠剑，天妖郡三千万大军宣战火妖郡 · kind=plot asOf=2026-08-22 entities=30 relations=45 src=00571-00575.p4.md
+- **2026-08-22T16:05:56.940Z** `ingest` chronicle.xianni-571-575-author-note-third-book — 《仙逆》作者感言：第三本书不敢承诺写完·月末求月票 · kind=chronicle asOf=2026-08-22 entities=0 relations=0 src=00571-00575.p5.md
