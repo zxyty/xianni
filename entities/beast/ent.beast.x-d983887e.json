@@ -7,15 +7,18 @@
     "凌天候的麒麟兽",
     "眉心麒麟",
     "巨大的麒麟兽",
-    "咆哮麒麟兽"
+    "咆哮麒麟兽",
+    "麒麟之魂",
+    "炼魂宗麒麟兽"
   ],
   "summary": "背负麒麟城的巨大灵兽。",
   "attributes": {
-    "外形": "巨大、麒麟形、化作一道青光、巨大神武、四蹄踏地、硕大头颅、麒麟状",
-    "栖息地": "古妖之地",
-    "主人": "大罗剑宗青衫老者、大罗剑宗骑麒麟兽老者、钻入裂缝的老者、剑尊凌天候、凌天候",
+    "外形": "巨大、麒麟形、化作一道青光、巨大神武、四蹄踏地、硕大头颅、麒麟状、硕大头颅，双目爆出奇异之芒",
+    "栖息地": "炼魂宗",
+    "主人": "大罗剑宗青衫老者、大罗剑宗骑麒麟兽老者、钻入裂缝的老者、剑尊凌天候、凌天候、王林",
     "能力": "载主呼啸破空而行",
-    "种族": "麒麟"
+    "种族": "麒麟",
+    "血脉": "麒麟之魂，含一丝传承"
   },
   "observations": {
     "外形": [
@@ -43,6 +46,11 @@
         "value": "麒麟状",
         "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
         "seq": 505
+      },
+      {
+        "value": "硕大头颅，双目爆出奇异之芒",
+        "docId": "plot.xianni-ch622-immortal-beast-grain",
+        "seq": 581
       }
     ],
     "栖息地": [
@@ -55,6 +63,12 @@
         "value": "古妖之地",
         "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
         "seq": 505
+      },
+      {
+        "value": "炼魂宗",
+        "docId": "plot.xianni-ch622-immortal-beast-grain",
+        "seq": 581,
+        "note": "王林发现之处"
       }
     ],
     "主人": [
@@ -82,6 +96,11 @@
         "value": "凌天候",
         "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
         "seq": 491
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch622-immortal-beast-grain",
+        "seq": 581
       }
     ],
     "能力": [
@@ -107,6 +126,14 @@
         "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
         "seq": 472
       }
+    ],
+    "血脉": [
+      {
+        "value": "麒麟之魂，含一丝传承",
+        "docId": "plot.xianni-ch622-immortal-beast-grain",
+        "seq": 581,
+        "note": "并非完整麒麟"
+      }
     ]
   },
   "firstSeq": 188,
@@ -119,9 +146,10 @@
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+      "docId": "plot.xianni-ch622-immortal-beast-grain",
       "dated": false,
-      "seq": 505
+      "seq": 581,
+      "note": "王林发现之处"
     },
     "主人": {
       "asOf": null,
@@ -140,6 +168,13 @@
       "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
       "dated": false,
       "seq": 472
+    },
+    "血脉": {
+      "asOf": null,
+      "docId": "plot.xianni-ch622-immortal-beast-grain",
+      "dated": false,
+      "seq": 581,
+      "note": "并非完整麒麟"
     }
   },
   "contested": false,
@@ -150,7 +185,8 @@
     "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
     "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
     "plot.xianni-ch514-target-donghai-yaoling-gate",
-    "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing"
+    "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+    "plot.xianni-ch622-immortal-beast-grain"
   ],
-  "updatedAt": "2026-08-22T02:15:05.968Z"
+  "updatedAt": "2026-08-22T16:46:10.064Z"
 }
