@@ -4,13 +4,16 @@
   "name": "火妖郡妖谷",
   "aliases": [
     "妖谷",
-    "火妖郡都城妖谷"
+    "火妖郡都城妖谷",
+    "火妖郡圣地妖谷"
   ],
   "summary": "火妖郡的妖谷，与他郡不同，位于都城城内深处，散出浓浓妖气笼罩燕京。",
   "attributes": {
-    "类型": "妖气源地",
+    "类型": "妖谷、妖气源地、圣地",
     "方位": "火妖郡都城中心",
-    "上级区域": "燕京"
+    "上级区域": "燕京",
+    "所属势力": "火妖郡",
+    "守护": "古妖分身、妖气雕像"
   },
   "observations": {
     "类型": [
@@ -22,6 +25,11 @@
       {
         "value": "妖气源地",
         "docId": "plot.xianni-ch629-ancient-demon-war-fire-yao-jun",
+        "seq": 591
+      },
+      {
+        "value": "圣地",
+        "docId": "plot.xianni-ch630-gray-figure-fusion",
         "seq": 591
       }
     ],
@@ -43,15 +51,29 @@
         "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
         "seq": 586
       }
+    ],
+    "所属势力": [
+      {
+        "value": "火妖郡",
+        "docId": "plot.xianni-ch630-gray-figure-fusion",
+        "seq": 591
+      }
+    ],
+    "守护": [
+      {
+        "value": "古妖分身、妖气雕像",
+        "docId": "plot.xianni-ch630-gray-figure-fusion",
+        "seq": 591
+      }
     ]
   },
   "firstSeq": 586,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch629-ancient-demon-war-fire-yao-jun",
+      "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
       "dated": false,
-      "seq": 591
+      "seq": 586
     },
     "方位": {
       "asOf": null,
@@ -64,13 +86,26 @@
       "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
       "dated": false,
       "seq": 586
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch630-gray-figure-fusion",
+      "dated": false,
+      "seq": 591
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch630-gray-figure-fusion",
+      "dated": false,
+      "seq": 591
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
-    "plot.xianni-ch629-ancient-demon-war-fire-yao-jun"
+    "plot.xianni-ch629-ancient-demon-war-fire-yao-jun",
+    "plot.xianni-ch630-gray-figure-fusion"
   ],
-  "updatedAt": "2026-08-22T17:16:18.082Z"
+  "updatedAt": "2026-08-22T17:19:01.553Z"
 }

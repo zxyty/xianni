@@ -3,12 +3,13 @@
   "type": "spell",
   "name": "引力术",
   "aliases": [
-    "低阶法术引力术"
+    "低阶法术引力术",
+    "引力术神通"
   ],
   "summary": "凝气第一层即可用的最基础法术，隔空控制物体，乃剑修驱使飞剑的前期基础；王林三术中成功率最高并专攻之。",
   "attributes": {
-    "类型": "控物基础仙术、控物/引力、牵引/控物、抓擒/控制、引力/操控类、操控/搬运类、操控类法术、防御/引力、牵引抓取术法、控制/牵引类、控力/操物类、擒拿/控制、隔空摄物、低阶法术",
-    "适用境界": "凝气第一层起、凝气期、凝气至筑基、结丹期、凝气期可用",
+    "类型": "控物基础仙术、控物/引力、牵引/控物、抓擒/控制、引力/操控类、操控/搬运类、操控类法术、防御/引力、牵引抓取术法、控制/牵引类、控力/操物类、擒拿/控制、隔空摄物、低阶法术、控物法术",
+    "适用境界": "凝气第一层起、凝气期、凝气至筑基、结丹期、凝气期可用、修道初期",
     "出处": "凝气三篇、石珠、石珠梦境所习、基础仙法",
     "威力": "低阶，但可操控大量淤泥与水流"
   },
@@ -83,6 +84,11 @@
         "value": "低阶法术",
         "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
         "seq": 351
+      },
+      {
+        "value": "控物法术",
+        "docId": "plot.xianni-ch630-gray-figure-fusion",
+        "seq": 591
       }
     ],
     "适用境界": [
@@ -110,6 +116,11 @@
         "value": "凝气期可用",
         "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
         "seq": 351
+      },
+      {
+        "value": "修道初期",
+        "docId": "plot.xianni-ch630-gray-figure-fusion",
+        "seq": 591
       }
     ],
     "出处": [
@@ -190,7 +201,8 @@
     "plot.xianni-ch147-150-shendaoshu-deal",
     "plot.xianni-ch155-157-tuoli-duiwu-quisui",
     "plot.xianni-ch186-187-two-hundred-years-silence",
-    "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north"
+    "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+    "plot.xianni-ch630-gray-figure-fusion"
   ],
-  "updatedAt": "2026-08-08T15:56:06.578Z"
+  "updatedAt": "2026-08-22T17:19:01.564Z"
 }
