@@ -7,8 +7,9 @@
   ],
   "summary": "瞬移类法术，身周现银芒后踏步即遁，可连续挪移。",
   "attributes": {
-    "类型": "遁术/瞬移",
-    "威力": "银芒现身后踏出七步即身影无影，可连续挪移"
+    "类型": "空间移动",
+    "威力": "银芒现身后踏出七步即身影无影，可连续挪移",
+    "消耗": "体内仙力"
   },
   "observations": {
     "类型": [
@@ -16,6 +17,11 @@
         "value": "遁术/瞬移",
         "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
         "seq": 467
+      },
+      {
+        "value": "空间移动",
+        "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
+        "seq": 518
       }
     ],
     "威力": [
@@ -24,27 +30,41 @@
         "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
         "seq": 467
       }
+    ],
+    "消耗": [
+      {
+        "value": "体内仙力",
+        "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
+        "seq": 518
+      }
     ]
   },
   "firstSeq": 467,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+      "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
       "dated": false,
-      "seq": 467
+      "seq": 518
     },
     "威力": {
       "asOf": null,
       "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
       "dated": false,
       "seq": 467
+    },
+    "消耗": {
+      "asOf": null,
+      "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
+      "dated": false,
+      "seq": 518
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch467-471-ziqi-donglai-chuangyan"
+    "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+    "plot.xianni-ch518-522-jincheng-guyaocheng"
   ],
-  "updatedAt": "2026-08-21T08:12:23.102Z"
+  "updatedAt": "2026-08-22T06:58:54.750Z"
 }

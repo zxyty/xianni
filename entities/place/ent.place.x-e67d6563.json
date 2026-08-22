@@ -8,17 +8,19 @@
     "吉妖城",
     "Gu Yao Cheng",
     "妖城",
-    "Ancient Demon City"
+    "Ancient Demon City",
+    "Guyao City"
   ],
   "summary": "距山谷三千万里外的一座巨大城池，欧阳华年幼在此开蒙并获悠久寿元；他指引王林前往此地寻找「所需之物」。",
   "attributes": {
-    "类型": "城池",
+    "类型": "妖族城池",
     "方位": "山谷以西约三千万里",
-    "规模": "巨大",
+    "规模": "巨大、极为庞大,几乎一眼看不到边际、都统四人、统领十六人，统领各掌一万妖兵",
     "上级区域": "妖灵之地",
-    "所属势力": "未明",
-    "所属界面": "妖灵之地",
-    "危险度": "高手众多，拼出天地有难度"
+    "所属势力": "左翼妖将",
+    "所属界面": "东海妖灵之地",
+    "危险度": "高手众多，拼出天地有难度",
+    "守护": "左翼妖将府妖兵(修为约合筑基期)、妖兵、姚统领、左翼妖将云厉海"
   },
   "observations": {
     "类型": [
@@ -31,6 +33,11 @@
         "value": "城池",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
+      },
+      {
+        "value": "妖族城池",
+        "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
+        "seq": 518
       }
     ],
     "方位": [
@@ -52,6 +59,16 @@
         "value": "巨大",
         "docId": "plot.xianni-ch519-tide-recede-golden-token",
         "seq": 496
+      },
+      {
+        "value": "极为庞大,几乎一眼看不到边际",
+        "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
+        "seq": 518
+      },
+      {
+        "value": "都统四人、统领十六人，统领各掌一万妖兵",
+        "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
+        "seq": 518
       }
     ],
     "上级区域": [
@@ -81,6 +98,11 @@
         "value": "未明",
         "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
         "seq": 514
+      },
+      {
+        "value": "左翼妖将",
+        "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
+        "seq": 518
       }
     ],
     "所属界面": [
@@ -88,6 +110,11 @@
         "value": "妖灵之地",
         "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
         "seq": 505
+      },
+      {
+        "value": "东海妖灵之地",
+        "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
+        "seq": 518
       }
     ],
     "危险度": [
@@ -96,15 +123,32 @@
         "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
         "seq": 505
       }
+    ],
+    "守护": [
+      {
+        "value": "左翼妖将府妖兵(修为约合筑基期)",
+        "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
+        "seq": 518
+      },
+      {
+        "value": "妖兵、姚统领",
+        "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
+        "seq": 518
+      },
+      {
+        "value": "左翼妖将云厉海",
+        "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
+        "seq": 518
+      }
     ]
   },
   "firstSeq": 496,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+      "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
       "dated": false,
-      "seq": 500
+      "seq": 518
     },
     "方位": {
       "asOf": null,
@@ -127,21 +171,27 @@
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
+      "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
       "dated": false,
-      "seq": 514
+      "seq": 518
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+      "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
       "dated": false,
-      "seq": 505
+      "seq": 518
     },
     "危险度": {
       "asOf": null,
       "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
       "dated": false,
       "seq": 505
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
+      "dated": false,
+      "seq": 518
     }
   },
   "contested": false,
@@ -151,7 +201,8 @@
     "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
     "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
     "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
-    "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground"
+    "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
+    "plot.xianni-ch518-522-jincheng-guyaocheng"
   ],
-  "updatedAt": "2026-08-22T02:43:48.238Z"
+  "updatedAt": "2026-08-22T06:58:54.798Z"
 }

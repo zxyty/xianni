@@ -9,8 +9,9 @@
   "summary": "巨魔族天赋炼体功法，使肉身强悍至不畏部分法宝，可化十丈巨人，并将仙力与肉身爆发力合于一拳。",
   "attributes": {
     "出处": "巨魔族",
-    "效果": "肉身强悍不畏部分法宝、身躯胀大化十丈巨人、仙力+冲击力+肉身爆发力合击",
-    "外显异象": "金芒如太阳、虚空碎裂涌出寂灭寒风"
+    "效果": "肉身强悍不畏部分法宝、身躯胀大化十丈巨人、仙力+冲击力+肉身爆发力合击、身体坚硬如精铁、拳劲如飞剑并令空间扭曲、附带无形束缚之力",
+    "外显异象": "金芒如太阳、虚空碎裂涌出寂灭寒风",
+    "修炼条件": "妖力运转"
   },
   "observations": {
     "出处": [
@@ -35,6 +36,21 @@
         "value": "仙力+冲击力+肉身爆发力合击",
         "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
         "seq": 377
+      },
+      {
+        "value": "身体坚硬如精铁",
+        "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
+        "seq": 518
+      },
+      {
+        "value": "拳劲如飞剑并令空间扭曲",
+        "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
+        "seq": 518
+      },
+      {
+        "value": "附带无形束缚之力",
+        "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
+        "seq": 518
       }
     ],
     "外显异象": [
@@ -42,6 +58,13 @@
         "value": "金芒如太阳、虚空碎裂涌出寂灭寒风",
         "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
         "seq": 377
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "妖力运转",
+        "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
+        "seq": 518
       }
     ]
   },
@@ -64,12 +87,19 @@
       "docId": "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
       "dated": false,
       "seq": 377
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
+      "dated": false,
+      "seq": 518
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays"
+    "plot.xianni-ch377-381-giant-demon-ancestor-appears-xu-liguo-betrays",
+    "plot.xianni-ch518-522-jincheng-guyaocheng"
   ],
-  "updatedAt": "2026-08-15T10:50:33.932Z"
+  "updatedAt": "2026-08-22T06:58:54.749Z"
 }

@@ -4,12 +4,14 @@
   "name": "左翼妖将之府",
   "aliases": [
     "古妖城左翼妖将府",
-    "左翼妖将府"
+    "左翼妖将府",
+    "妖将府"
   ],
   "summary": "古妖城内的势力，高手众多，成员皆为妖灵之地原居民，以妖力修炼并施展神通；王林原打算加入，本章改为暂缓。",
   "attributes": {
     "据点": "古妖城",
-    "所属界面": "妖灵之地"
+    "所属界面": "妖灵之地",
+    "阵营": "妖族"
   },
   "observations": {
     "据点": [
@@ -24,6 +26,13 @@
         "value": "妖灵之地",
         "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
         "seq": 505
+      }
+    ],
+    "阵营": [
+      {
+        "value": "妖族",
+        "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
+        "seq": 518
       }
     ]
   },
@@ -40,12 +49,19 @@
       "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
       "dated": false,
       "seq": 505
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
+      "dated": false,
+      "seq": 518
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing"
+    "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+    "plot.xianni-ch518-522-jincheng-guyaocheng"
   ],
-  "updatedAt": "2026-08-22T02:15:06.002Z"
+  "updatedAt": "2026-08-22T06:58:54.745Z"
 }
