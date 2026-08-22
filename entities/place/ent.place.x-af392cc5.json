@@ -3,12 +3,17 @@
   "type": "place",
   "name": "落月村",
   "aliases": [
-    "冉云星落月村"
+    "冉云星落月村",
+    "祁连峰下的山村",
+    "Luoyue Village"
   ],
   "summary": "冉云星上的凡人村落，数日后多了一家两口——沧桑青年与婴儿。",
   "attributes": {
     "上级区域": "冉云星",
-    "类型": "村落"
+    "类型": "村落、凡人山村",
+    "方位": "祁连峰下、小河中游",
+    "所属界面": "冉云星",
+    "特产": "山林猎物（獐鹿）"
   },
   "observations": {
     "上级区域": [
@@ -22,6 +27,32 @@
       {
         "value": "村落",
         "docId": "plot.xianni-ch688-dust-to-dust-liumei-death",
+        "seq": 646
+      },
+      {
+        "value": "凡人山村",
+        "docId": "plot.xianni-ch689-yi-sheng-bu-yao-xiu-dao",
+        "seq": 646
+      }
+    ],
+    "方位": [
+      {
+        "value": "祁连峰下、小河中游",
+        "docId": "plot.xianni-ch689-yi-sheng-bu-yao-xiu-dao",
+        "seq": 646
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "冉云星",
+        "docId": "plot.xianni-ch689-yi-sheng-bu-yao-xiu-dao",
+        "seq": 646
+      }
+    ],
+    "特产": [
+      {
+        "value": "山林猎物（獐鹿）",
+        "docId": "plot.xianni-ch689-yi-sheng-bu-yao-xiu-dao",
         "seq": 646
       }
     ]
@@ -39,12 +70,31 @@
       "docId": "plot.xianni-ch688-dust-to-dust-liumei-death",
       "dated": false,
       "seq": 646
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch689-yi-sheng-bu-yao-xiu-dao",
+      "dated": false,
+      "seq": 646
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch689-yi-sheng-bu-yao-xiu-dao",
+      "dated": false,
+      "seq": 646
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch689-yi-sheng-bu-yao-xiu-dao",
+      "dated": false,
+      "seq": 646
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch688-dust-to-dust-liumei-death"
+    "plot.xianni-ch688-dust-to-dust-liumei-death",
+    "plot.xianni-ch689-yi-sheng-bu-yao-xiu-dao"
   ],
-  "updatedAt": "2026-08-22T23:52:48.934Z"
+  "updatedAt": "2026-08-22T23:54:40.811Z"
 }

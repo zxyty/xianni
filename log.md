@@ -230,3 +230,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T23:43:24.527Z** `ingest` plot.xianni-ch686-sanmo-appears — 仙逆 第686章 散魔现——王林释放散魔战仙人虚影 · kind=plot asOf=2026-08-22 entities=20 relations=26 src=00646-00650.p1.md
 - **2026-08-22T23:50:32.411Z** `ingest` plot.xianni-687-tunshi-star-soul-extraction — 《仙逆》第687章 吞噬——散魔抽千幻星之魂击溃仙人虚影 · kind=plot asOf=2026-08-22 entities=35 relations=57 src=00646-00650.p2.md
 - **2026-08-22T23:52:49.097Z** `ingest` plot.xianni-ch688-dust-to-dust-liumei-death — 第688章 尘归尘、土归土——柳眉之死与幻无情覆灭 · kind=plot asOf=2026-08-22 entities=28 relations=39 src=00646-00650.p3.md
+- **2026-08-22T23:54:40.968Z** `ingest` plot.xianni-ch689-yi-sheng-bu-yao-xiu-dao — 第689章 一生不要修道：王林隐居落月村抚养王平 · kind=plot asOf=2026-08-22 entities=13 relations=25 src=00646-00650.p4.md
