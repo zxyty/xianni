@@ -9,8 +9,9 @@
   ],
   "summary": "古神存续的纪元，新生古神由成年古神以一滴鲜血相助进入星球中心；涂司身亡后浩劫爆发，仙界不存、古仙断绝、古神灭亡。",
   "attributes": {
-    "特征": "古神辈出、成年古神以一滴鲜血助新生古神入星球中心、仙界为修士圣地、古神以星痕貂为宠物",
-    "重大事件": "涂司身亡、仙界不存、古仙断绝、古神灭亡、天地异变、修真联盟出现、仙界不在，修仙之说失去意义，转为修真"
+    "特征": "古神辈出、成年古神以一滴鲜血助新生古神入星球中心、仙界为修士圣地、古神以星痕貂为宠物、无‘修士’一词、修炼者自称练气士、元气抽离取代仙力",
+    "重大事件": "涂司身亡、仙界不存、古仙断绝、古神灭亡、天地异变、修真联盟出现、仙界不在，修仙之说失去意义，转为修真",
+    "代表势力": "昆仑练气士"
   },
   "observations": {
     "特征": [
@@ -33,6 +34,21 @@
         "value": "古神以星痕貂为宠物",
         "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
         "seq": 472
+      },
+      {
+        "value": "无‘修士’一词",
+        "docId": "plot.xianni-ch599-wending-early-stage-breakthrough",
+        "seq": 556
+      },
+      {
+        "value": "修炼者自称练气士",
+        "docId": "plot.xianni-ch599-wending-early-stage-breakthrough",
+        "seq": 556
+      },
+      {
+        "value": "元气抽离取代仙力",
+        "docId": "plot.xianni-ch599-wending-early-stage-breakthrough",
+        "seq": 556
       }
     ],
     "重大事件": [
@@ -56,6 +72,13 @@
         "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
         "seq": 472
       }
+    ],
+    "代表势力": [
+      {
+        "value": "昆仑练气士",
+        "docId": "plot.xianni-ch599-wending-early-stage-breakthrough",
+        "seq": 556
+      }
     ]
   },
   "firstSeq": 268,
@@ -71,13 +94,20 @@
       "docId": "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
       "dated": false,
       "seq": 268
+    },
+    "代表势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch599-wending-early-stage-breakthrough",
+      "dated": false,
+      "seq": 556
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
-    "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao"
+    "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+    "plot.xianni-ch599-wending-early-stage-breakthrough"
   ],
-  "updatedAt": "2026-08-21T08:54:41.216Z"
+  "updatedAt": "2026-08-22T12:53:11.578Z"
 }

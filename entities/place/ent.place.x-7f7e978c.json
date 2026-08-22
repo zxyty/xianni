@@ -10,13 +10,14 @@
     "燕京万丈广场",
     "妖将战广场",
     "天妖城万丈广场",
-    "敲鼓广场"
+    "敲鼓广场",
+    "天妖门下万丈广场"
   ],
   "summary": "燕京天妖门下的巨大广场，妖将之战的战场；有强大阵法守护不易损坏，设东部九层文臣高架与南北两侧八层帅位高架，正中置天妖鼓。",
   "attributes": {
     "上级区域": "天妖城",
     "类型": "广场 / 演武战场、比武广场、比试广场、校场/试炼广场、广场",
-    "守护": "妖鼓",
+    "守护": "巨大妖鼓仍在",
     "所属势力": "天妖门",
     "规模": "万丈"
   },
@@ -75,6 +76,11 @@
         "value": "妖鼓",
         "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
         "seq": 551
+      },
+      {
+        "value": "巨大妖鼓仍在",
+        "docId": "plot.xianni-ch599-wending-early-stage-breakthrough",
+        "seq": 556
       }
     ],
     "所属势力": [
@@ -108,9 +114,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+      "docId": "plot.xianni-ch599-wending-early-stage-breakthrough",
       "dated": false,
-      "seq": 551
+      "seq": 556
     },
     "所属势力": {
       "asOf": null,
@@ -134,7 +140,8 @@
     "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
     "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
     "plot.chapter-595-simplest-heavenly-tribulation-no",
-    "plot.xianni-ch596-tianwei-heavenly-might"
+    "plot.xianni-ch596-tianwei-heavenly-might",
+    "plot.xianni-ch599-wending-early-stage-breakthrough"
   ],
-  "updatedAt": "2026-08-22T12:46:20.421Z"
+  "updatedAt": "2026-08-22T12:53:11.581Z"
 }
