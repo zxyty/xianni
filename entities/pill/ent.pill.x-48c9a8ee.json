@@ -1,28 +1,26 @@
 {
-  "id": "ent.faction.x-29c04c5c",
-  "type": "faction",
-  "name": "千家",
+  "id": "ent.pill.x-48c9a8ee",
+  "type": "pill",
+  "name": "八品大丹药",
   "aliases": [
-    "千家老友",
-    "千幻星千家",
-    "千氏家族"
+    "蜡封大丹"
   ],
-  "summary": "千幻星上的势力，幻家老祖以神识传音求援的对象之一。",
+  "summary": "表面裹蜡的八品丹药，捏碎后香气浓郁，抛入黄泉化青烟融入以助修为恢复。",
   "attributes": {
-    "等级": "千幻星第一大势力·霸主",
-    "据点": "千幻星北、东区域"
+    "品阶": "八品",
+    "功效": "助人恢复修为、增益吐纳"
   },
   "observations": {
-    "等级": [
+    "品阶": [
       {
-        "value": "千幻星第一大势力·霸主",
+        "value": "八品",
         "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
         "seq": 641
       }
     ],
-    "据点": [
+    "功效": [
       {
-        "value": "千幻星北、东区域",
+        "value": "助人恢复修为、增益吐纳",
         "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
         "seq": 641
       }
@@ -30,13 +28,13 @@
   },
   "firstSeq": 641,
   "attrProvenance": {
-    "等级": {
+    "品阶": {
       "asOf": null,
       "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
       "dated": false,
       "seq": 641
     },
-    "据点": {
+    "功效": {
       "asOf": null,
       "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
       "dated": false,
@@ -46,8 +44,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-681-wang-ping",
     "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi"
   ],
-  "updatedAt": "2026-08-22T23:33:37.427Z"
+  "updatedAt": "2026-08-22T23:33:37.413Z"
 }

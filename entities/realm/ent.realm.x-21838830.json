@@ -3,14 +3,17 @@
   "type": "realm",
   "name": "阴阳虚实境",
   "aliases": [
-    "第二步"
+    "第二步",
+    "踏入第二步",
+    "第二步修士"
   ],
   "summary": "修道第二步境界，修士体内蕴含天地元力，可秒愈伤势并施展元力神通；若千年内无法突破则此生修为止步，用元力越多滞留越久。",
   "attributes": {
     "阶序": "修道第二步",
     "突破关键": "天地元力（消耗越多，滞留本境时间越久；千年内不破则止步）",
     "突破征兆": "可施展元力神通、伤势瞬愈",
-    "下一境": "窥捏期"
+    "下一境": "窥捏期",
+    "小阶段": "阴阳虚实境界"
   },
   "observations": {
     "阶序": [
@@ -25,6 +28,11 @@
         "value": "天地元力（消耗越多，滞留本境时间越久；千年内不破则止步）",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
+      },
+      {
+        "value": "极为稀少，一星之内往往仅数人",
+        "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
+        "seq": 641
       }
     ],
     "突破征兆": [
@@ -40,9 +48,16 @@
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
       }
+    ],
+    "小阶段": [
+      {
+        "value": "阴阳虚实境界",
+        "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
+        "seq": 641
+      }
     ]
   },
-  "firstSeq": 661,
+  "firstSeq": 641,
   "attrProvenance": {
     "阶序": {
       "asOf": null,
@@ -67,12 +82,19 @@
       "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
       "dated": false,
       "seq": 661
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
+      "dated": false,
+      "seq": 641
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power"
+    "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+    "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi"
   ],
-  "updatedAt": "2026-08-17T14:25:16.425Z"
+  "updatedAt": "2026-08-22T23:33:37.431Z"
 }

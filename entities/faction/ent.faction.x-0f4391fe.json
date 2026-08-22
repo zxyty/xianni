@@ -5,13 +5,15 @@
   "aliases": [
     "千幻星许家",
     "东临星许家",
-    "许家兄弟"
+    "许家兄弟",
+    "许氏家族"
   ],
   "summary": "北域千幻星大姓家族，势如苍天大树；王林自称「许木」后，冉月与孙雪山即疑其为许家之人。",
   "attributes": {
     "据点": "东临星",
     "所属界面": "千幻星",
-    "等级": "东临星三大最强家族之一"
+    "等级": "千幻星第三方势力",
+    "理念": "低调，一般不参与千幻星任何事情"
   },
   "observations": {
     "据点": [
@@ -38,6 +40,18 @@
         "value": "东临星三大最强家族之一",
         "docId": "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
         "seq": 626
+      },
+      {
+        "value": "千幻星第三方势力",
+        "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
+        "seq": 641
+      }
+    ],
+    "理念": [
+      {
+        "value": "低调，一般不参与千幻星任何事情",
+        "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
+        "seq": 641
       }
     ]
   },
@@ -57,9 +71,15 @@
     },
     "等级": {
       "asOf": null,
-      "docId": "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
+      "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
       "dated": false,
-      "seq": 626
+      "seq": 641
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
+      "dated": false,
+      "seq": 641
     }
   },
   "contested": false,
@@ -67,7 +87,8 @@
   "docs": [
     "plot.xianni-ch661-meier-luotian-north-domain",
     "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
-    "plot.xianni-681-wang-ping"
+    "plot.xianni-681-wang-ping",
+    "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi"
   ],
-  "updatedAt": "2026-08-22T23:25:41.409Z"
+  "updatedAt": "2026-08-22T23:33:37.428Z"
 }

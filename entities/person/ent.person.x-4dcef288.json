@@ -1,28 +1,27 @@
 {
-  "id": "ent.faction.x-29c04c5c",
-  "type": "faction",
-  "name": "千家",
+  "id": "ent.person.x-4dcef288",
+  "type": "person",
+  "name": "雷之仙界仙人",
   "aliases": [
-    "千家老友",
-    "千幻星千家",
-    "千氏家族"
+    "幻家血统源头仙人",
+    "那位仙人"
   ],
-  "summary": "千幻星上的势力，幻家老祖以神识传音求援的对象之一。",
+  "summary": "雷之仙界未崩溃时的一位仙人，幻家血统可追溯至他，其传承仙宝与护族玉简留于幻家。",
   "attributes": {
-    "等级": "千幻星第一大势力·霸主",
-    "据点": "千幻星北、东区域"
+    "身份": "仙人",
+    "出身地": "雷之仙界"
   },
   "observations": {
-    "等级": [
+    "身份": [
       {
-        "value": "千幻星第一大势力·霸主",
+        "value": "仙人",
         "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
         "seq": 641
       }
     ],
-    "据点": [
+    "出身地": [
       {
-        "value": "千幻星北、东区域",
+        "value": "雷之仙界",
         "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
         "seq": 641
       }
@@ -30,13 +29,13 @@
   },
   "firstSeq": 641,
   "attrProvenance": {
-    "等级": {
+    "身份": {
       "asOf": null,
       "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
       "dated": false,
       "seq": 641
     },
-    "据点": {
+    "出身地": {
       "asOf": null,
       "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
       "dated": false,
@@ -46,8 +45,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-681-wang-ping",
     "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi"
   ],
-  "updatedAt": "2026-08-22T23:33:37.427Z"
+  "updatedAt": "2026-08-22T23:33:37.410Z"
 }

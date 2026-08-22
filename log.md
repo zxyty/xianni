@@ -223,3 +223,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T23:21:14.104Z** `ingest` plot.xianni-679-wan-huan-tian-mo-dao — 第679章 万幻天魔道——柳眉识破王林，红蝶周茹幻象攻心 · kind=plot asOf=2026-08-22 entities=24 relations=32 src=00636-00640.p4.md
 - **2026-08-22T23:23:22.379Z** `ingest` plot.xianni-ch680-liumei-special-treasure-resentful-infant — 第680章 柳眉的特殊法宝：怨婴之子与幻家老祖救人 · kind=plot asOf=2026-08-22 entities=18 relations=26 src=00636-00640.p5.md
 - **2026-08-22T23:25:41.574Z** `ingest` plot.xianni-681-wang-ping — 第681章 王平：剑气破漩涡逼退幻家老祖，王林为怨婴改名王平 · kind=plot asOf=2026-08-22 entities=23 relations=32 src=00641-00645.p1.md
+- **2026-08-22T23:33:37.622Z** `ingest` plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi — 第682章 道义：王林封印怨婴平儿、取回第四魂，允诺护冉赵后人并助孙析提升修为 · kind=plot asOf=2026-08-22 entities=55 relations=90 src=00641-00645.p2.md

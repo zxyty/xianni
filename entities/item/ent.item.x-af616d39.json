@@ -1,28 +1,26 @@
 {
-  "id": "ent.faction.x-29c04c5c",
-  "type": "faction",
-  "name": "千家",
+  "id": "ent.item.x-af616d39",
+  "type": "item",
+  "name": "孙析所赠玉简",
   "aliases": [
-    "千家老友",
-    "千幻星千家",
-    "千氏家族"
+    "标明千幻星所在的玉简"
   ],
-  "summary": "千幻星上的势力，幻家老祖以神识传音求援的对象之一。",
+  "summary": "孙析交给王林的玉简，其上清晰标明千幻星所在。",
   "attributes": {
-    "等级": "千幻星第一大势力·霸主",
-    "据点": "千幻星北、东区域"
+    "类型": "玉简",
+    "用途": "标注千幻星方位"
   },
   "observations": {
-    "等级": [
+    "类型": [
       {
-        "value": "千幻星第一大势力·霸主",
+        "value": "玉简",
         "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
         "seq": 641
       }
     ],
-    "据点": [
+    "用途": [
       {
-        "value": "千幻星北、东区域",
+        "value": "标注千幻星方位",
         "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
         "seq": 641
       }
@@ -30,13 +28,13 @@
   },
   "firstSeq": 641,
   "attrProvenance": {
-    "等级": {
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
       "dated": false,
       "seq": 641
     },
-    "据点": {
+    "用途": {
       "asOf": null,
       "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
       "dated": false,
@@ -46,8 +44,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-681-wang-ping",
     "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi"
   ],
-  "updatedAt": "2026-08-22T23:33:37.427Z"
+  "updatedAt": "2026-08-22T23:33:37.415Z"
 }

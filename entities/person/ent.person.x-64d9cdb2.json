@@ -2,11 +2,15 @@
   "id": "ent.person.x-64d9cdb2",
   "type": "person",
   "name": "赵传文",
-  "aliases": [],
+  "aliases": [
+    "逍遥二人之一"
+  ],
   "summary": "冉云星三家之一，绰号逍遥散人；亲见七星剑阵后惊骇，推测王林修为已达问鼎后期大圆满，认定自己若被针对必死。",
   "attributes": {
     "道号": "逍遥散人",
-    "身份": "冉云星本土势力修士"
+    "身份": "冉云星本土势力修士",
+    "存殁": "生死不明",
+    "标志特征": "无法炼出分身，但可分开元神"
   },
   "observations": {
     "道号": [
@@ -21,6 +25,21 @@
         "value": "冉云星本土势力修士",
         "docId": "plot.xianni-ch674-wenfeng-tingyu-hunyi-zhimei",
         "seq": 631
+      }
+    ],
+    "存殁": [
+      {
+        "value": "生死不明",
+        "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
+        "seq": 641,
+        "note": "第682章孙析推测其已离开冉云星"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "无法炼出分身，但可分开元神",
+        "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
+        "seq": 641
       }
     ]
   },
@@ -37,12 +56,26 @@
       "docId": "plot.xianni-ch674-wenfeng-tingyu-hunyi-zhimei",
       "dated": false,
       "seq": 631
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
+      "dated": false,
+      "seq": 641,
+      "note": "第682章孙析推测其已离开冉云星"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
+      "dated": false,
+      "seq": 641
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch674-wenfeng-tingyu-hunyi-zhimei"
+    "plot.xianni-ch674-wenfeng-tingyu-hunyi-zhimei",
+    "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi"
   ],
-  "updatedAt": "2026-08-22T23:03:26.761Z"
+  "updatedAt": "2026-08-22T23:33:37.363Z"
 }
