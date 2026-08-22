@@ -10,15 +10,18 @@
     "金甲之人",
     "大人",
     "金总管",
-    "金甲总管"
+    "金甲总管",
+    "广场金甲男子",
+    "主持妖将战的金甲男子",
+    "主持金甲男子"
   ],
   "summary": "自广场后方宫殿走出，奉帝君之命宣布妖将之战规则并负责点名竞战之人。",
   "attributes": {
-    "身份": "妖将之战主持者、妖将之战主持/裁判、妖灵地高位者·被王林称『大人』、总管、妖将之战主持/裁决者",
-    "外貌": "身穿金色铠甲、身穿金甲、身着金甲",
-    "阵营": "帝君麾下",
+    "身份": "妖将之战主持者、妖将之战主持/裁判、妖灵地高位者·被王林称『大人』、总管、妖将之战主持/裁决者、妖鼓试炼主持者、总管（主持选拔）",
+    "外貌": "身穿金色铠甲、身穿金甲、身着金甲、一身金甲",
+    "阵营": "帝君麾下、妖灵之地·天妖郡",
     "标志特征": "自天空太阳凝聚金芒化作金色长枪、身披金甲、阉人",
-    "性格": "阴森、以大欺小"
+    "性格": "阴森、以大欺小、冷漠、护短、敌视修士"
   },
   "observations": {
     "身份": [
@@ -47,6 +50,16 @@
         "value": "妖将之战主持/裁决者",
         "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
         "seq": 550
+      },
+      {
+        "value": "妖鼓试炼主持者",
+        "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
+        "seq": 550
+      },
+      {
+        "value": "总管（主持选拔）",
+        "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
+        "seq": 550
       }
     ],
     "外貌": [
@@ -64,12 +77,22 @@
         "value": "身着金甲",
         "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
         "seq": 550
+      },
+      {
+        "value": "一身金甲",
+        "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
+        "seq": 550
       }
     ],
     "阵营": [
       {
         "value": "帝君麾下",
         "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
+        "seq": 550
+      },
+      {
+        "value": "妖灵之地·天妖郡",
+        "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
         "seq": 550
       }
     ],
@@ -94,6 +117,11 @@
       {
         "value": "阴森、以大欺小",
         "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+        "seq": 550
+      },
+      {
+        "value": "冷漠、护短、敌视修士",
+        "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
         "seq": 550
       }
     ]
@@ -135,7 +163,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
-    "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear"
+    "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+    "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum"
   ],
-  "updatedAt": "2026-08-22T11:31:33.209Z"
+  "updatedAt": "2026-08-22T11:46:59.319Z"
 }

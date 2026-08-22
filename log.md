@@ -142,3 +142,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T11:18:43.439Z** `ingest` plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu — 仙逆 第582章 王林出列：妖将之战开幕，石萧连败暮云与天魁上人 · kind=plot asOf=2026-08-22 entities=31 relations=50 src=00550-00550.p1a.md
 - **2026-08-22T11:31:33.367Z** `ingest` plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear — 仙逆 第582章（1/2·2/3）：王林废熬迪、两掌推衍拍偏金色太阳长枪 · kind=plot asOf=2026-08-22 entities=58 relations=91 src=00550-00550.p1b.md
 - **2026-08-22T11:33:48.508Z** `ingest` plot.xianni-ch582-wang-lin-reclaims-xu-liguo-and-black-blade — 仙逆 第582章（1/2·再分3/3）：王林收回仙剑、镇服黑色弯刀与莫府灯火之悟 · kind=plot asOf=2026-08-22 entities=21 relations=28 src=00550-00550.p1c.md
+- **2026-08-22T11:46:59.456Z** `ingest` plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum — 仙逆 第582章（下）：河畔琴音悟「逆」、画舫夜谈，妖将第二轮改为敲战妖鼓 · kind=plot asOf=2026-08-22 entities=59 relations=117 src=00550-00550.p2.md

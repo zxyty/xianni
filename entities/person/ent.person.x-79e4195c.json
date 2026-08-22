@@ -3,14 +3,16 @@
   "type": "person",
   "name": "于森",
   "aliases": [
-    "妖将于森"
+    "妖将于森",
+    "Yu Sen"
   ],
   "summary": "妖将中唯一没有城池之人，常年在火妖郡以杀戮修炼，一身杀戮道传闻早已达到巅峰。",
   "attributes": {
     "身份": "妖将",
     "出身地": "火妖郡（常年修炼之地）",
-    "标志特征": "全身散发阴寒气息",
-    "性格": "好战"
+    "标志特征": "全身散发阴寒气息、一身铠甲，出手时体外妖气化作无数痛苦妖异面孔",
+    "性格": "好战、目光冷漠、战意浓烈、不退反进",
+    "外貌": "目光冷漠，敲鼓后面色妖异红润"
   },
   "observations": {
     "身份": [
@@ -38,12 +40,29 @@
         "value": "全身散发阴寒气息",
         "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
         "seq": 550
+      },
+      {
+        "value": "一身铠甲，出手时体外妖气化作无数痛苦妖异面孔",
+        "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
+        "seq": 550
       }
     ],
     "性格": [
       {
         "value": "好战",
         "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+        "seq": 550
+      },
+      {
+        "value": "目光冷漠、战意浓烈、不退反进",
+        "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
+        "seq": 550
+      }
+    ],
+    "外貌": [
+      {
+        "value": "目光冷漠，敲鼓后面色妖异红润",
+        "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
         "seq": 550
       }
     ]
@@ -73,13 +92,20 @@
       "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
       "dated": false,
       "seq": 550
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
+      "dated": false,
+      "seq": 550
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch578-slaughter-dao",
-    "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear"
+    "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+    "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum"
   ],
-  "updatedAt": "2026-08-22T11:31:33.185Z"
+  "updatedAt": "2026-08-22T11:46:59.328Z"
 }

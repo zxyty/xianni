@@ -3,19 +3,26 @@
   "type": "person",
   "name": "黄副帅",
   "aliases": [
-    "蓝色铠甲中年男子"
+    "蓝色铠甲中年男子",
+    "黄副帅大人"
   ],
   "summary": "与玄副帅同席的副帅,相貌寻常但威严,质疑王林修为并以玄玄丹应下赌约。",
   "attributes": {
-    "身份": "副帅",
+    "身份": "副帅、妖族副帅",
     "外貌": "中年、蓝色铠甲、相貌寻常",
-    "标志特征": "持有玄玄丹"
+    "标志特征": "持有玄玄丹",
+    "称号": "黄副帅"
   },
   "observations": {
     "身份": [
       {
         "value": "副帅",
         "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
+        "seq": 550
+      },
+      {
+        "value": "妖族副帅",
+        "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
         "seq": 550
       }
     ],
@@ -30,6 +37,13 @@
       {
         "value": "持有玄玄丹",
         "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
+        "seq": 550
+      }
+    ],
+    "称号": [
+      {
+        "value": "黄副帅",
+        "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
         "seq": 550
       }
     ]
@@ -53,12 +67,19 @@
       "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
       "dated": false,
       "seq": 550
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
+      "dated": false,
+      "seq": 550
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu"
+    "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
+    "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum"
   ],
-  "updatedAt": "2026-08-22T11:18:43.319Z"
+  "updatedAt": "2026-08-22T11:46:59.321Z"
 }

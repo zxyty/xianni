@@ -3,14 +3,17 @@
   "type": "event",
   "name": "玄副帅与黄副帅的赌约",
   "aliases": [
-    "天兆旗与玄玄丹之赌"
+    "天兆旗与玄玄丹之赌",
+    "副帅赌约",
+    "打赌"
   ],
   "summary": "玄副帅断言王林必得第一,以天兆旗对赌黄副帅的玄玄丹。",
   "attributes": {
-    "章节": "第583、584章",
-    "地点": "万丈广场北侧高架",
-    "参与方": "玄副帅、黄副帅",
-    "起因": "黄副帅质疑婴变后期圆满的王林无法夺第一"
+    "章节": "第583、584章、第588、589章",
+    "地点": "万丈广场北侧高架、试炼广场高架看台",
+    "参与方": "玄副帅、黄副帅、王林",
+    "起因": "黄副帅质疑婴变后期圆满的王林无法夺第一、本轮叠加规则下，无帮助者的王林被认为必败",
+    "结果": "未决，留作悬念"
   },
   "observations": {
     "章节": [
@@ -18,12 +21,22 @@
         "value": "第583、584章",
         "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
         "seq": 550
+      },
+      {
+        "value": "第588、589章",
+        "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
+        "seq": 550
       }
     ],
     "地点": [
       {
         "value": "万丈广场北侧高架",
         "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
+        "seq": 550
+      },
+      {
+        "value": "试炼广场高架看台",
+        "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
         "seq": 550
       }
     ],
@@ -37,12 +50,29 @@
         "value": "黄副帅",
         "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
         "seq": 550
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
+        "seq": 550
       }
     ],
     "起因": [
       {
         "value": "黄副帅质疑婴变后期圆满的王林无法夺第一",
         "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
+        "seq": 550
+      },
+      {
+        "value": "本轮叠加规则下，无帮助者的王林被认为必败",
+        "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
+        "seq": 550
+      }
+    ],
+    "结果": [
+      {
+        "value": "未决，留作悬念",
+        "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
         "seq": 550
       }
     ]
@@ -72,12 +102,19 @@
       "docId": "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
       "dated": false,
       "seq": 550
+    },
+    "结果": {
+      "asOf": null,
+      "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
+      "dated": false,
+      "seq": 550
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu"
+    "plot.xianni-chapter-582-wang-lin-chulie-yaojiang-zhan-kaimu",
+    "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum"
   ],
-  "updatedAt": "2026-08-22T11:18:43.329Z"
+  "updatedAt": "2026-08-22T11:46:59.313Z"
 }

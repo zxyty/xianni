@@ -3,11 +3,13 @@
   "type": "item",
   "name": "酒壶",
   "aliases": [
-    "幼童偷来的酒壶"
+    "幼童偷来的酒壶",
+    "王林的酒壶",
+    "盛满酒水的酒壶"
   ],
   "summary": "大牛之子偷来送给王林的酒壶，被大牛收回放进木雕店铺。",
   "attributes": {
-    "类型": "凡俗器物",
+    "类型": "随身器物",
     "用途": "盛酒"
   },
   "observations": {
@@ -16,6 +18,11 @@
         "value": "凡俗器物",
         "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
         "seq": 244
+      },
+      {
+        "value": "随身器物",
+        "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
+        "seq": 550
       }
     ],
     "用途": [
@@ -30,9 +37,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+      "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
       "dated": false,
-      "seq": 244
+      "seq": 550
     },
     "用途": {
       "asOf": null,
@@ -44,7 +51,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch244-247-zuling-pai-yijing-ganwu"
+    "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+    "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum"
   ],
-  "updatedAt": "2026-08-02T08:12:08.890Z"
+  "updatedAt": "2026-08-22T11:46:59.332Z"
 }

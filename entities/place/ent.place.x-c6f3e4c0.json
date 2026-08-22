@@ -3,15 +3,20 @@
   "type": "place",
   "name": "龙潭",
   "aliases": [
-    "九龙龙头所向之幽潭"
+    "九龙龙头所向之幽潭",
+    "天妖郡龙潭",
+    "龙潭之地",
+    "龙潭磨练之地",
+    "龙潭洗礼之地"
   ],
   "summary": "九龙山脉九条龙头所向的一弘幽潭，天妖郡精神象征古妖之殿即在潭内，潭外重兵把守。",
   "attributes": {
     "所属势力": "帝君",
-    "类型": "惩戒之地",
+    "类型": "幽潭／圣地、禁地、秘地、惩戒之地、圣物/圣地、试炼／磨练之地、试炼/洗礼之地",
     "方位": "九龙龙头所向，天妖城之后",
-    "危险度": "为帝剑所忌惮",
-    "守护": "重兵"
+    "危险度": "高（磨练性质）",
+    "守护": "重兵",
+    "上级区域": "天妖郡"
   },
   "observations": {
     "所属势力": [
@@ -51,6 +56,21 @@
         "value": "惩戒之地",
         "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
         "seq": 550
+      },
+      {
+        "value": "圣物/圣地",
+        "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
+        "seq": 550
+      },
+      {
+        "value": "试炼／磨练之地",
+        "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
+        "seq": 550
+      },
+      {
+        "value": "试炼/洗礼之地",
+        "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
+        "seq": 550
       }
     ],
     "方位": [
@@ -70,6 +90,11 @@
         "value": "为帝剑所忌惮",
         "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
         "seq": 546
+      },
+      {
+        "value": "高（磨练性质）",
+        "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
+        "seq": 550
       }
     ],
     "守护": [
@@ -77,6 +102,13 @@
         "value": "重兵",
         "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
         "seq": 537
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "天妖郡",
+        "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
+        "seq": 550
       }
     ]
   },
@@ -90,9 +122,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+      "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
       "dated": false,
-      "seq": 550
+      "seq": 537
     },
     "方位": {
       "asOf": null,
@@ -102,15 +134,21 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+      "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
       "dated": false,
-      "seq": 546
+      "seq": 550
     },
     "守护": {
       "asOf": null,
       "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
       "dated": false,
       "seq": 537
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
+      "dated": false,
+      "seq": 550
     }
   },
   "contested": false,
@@ -119,7 +157,8 @@
     "plot.xianni-ch568-tianyao-city-familiar-face",
     "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
     "plot.xianni-ch578-slaughter-dao",
-    "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear"
+    "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+    "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum"
   ],
-  "updatedAt": "2026-08-22T11:31:33.223Z"
+  "updatedAt": "2026-08-22T11:46:59.337Z"
 }
