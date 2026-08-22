@@ -10,7 +10,8 @@
   "attributes": {
     "身份": "射神车炼制者",
     "存殁": "死亡",
-    "结局": "三车尚未使用便身亡，留下玉简记载解封之法"
+    "结局": "三车尚未使用便身亡，留下玉简记载解封之法",
+    "性格": "交友广阔"
   },
   "observations": {
     "身份": [
@@ -33,6 +34,13 @@
         "docId": "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
         "seq": 576
       }
+    ],
+    "性格": [
+      {
+        "value": "交友广阔",
+        "docId": "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation",
+        "seq": 641
+      }
     ]
   },
   "firstSeq": 576,
@@ -54,12 +62,19 @@
       "docId": "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
       "dated": false,
       "seq": 576
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation",
+      "dated": false,
+      "seq": 641
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch618-new-change-silver-horn-thunder-beast"
+    "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
+    "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation"
   ],
-  "updatedAt": "2026-08-22T16:36:28.845Z"
+  "updatedAt": "2026-08-22T23:38:31.124Z"
 }

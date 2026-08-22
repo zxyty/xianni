@@ -225,3 +225,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T23:25:41.574Z** `ingest` plot.xianni-681-wang-ping — 第681章 王平：剑气破漩涡逼退幻家老祖，王林为怨婴改名王平 · kind=plot asOf=2026-08-22 entities=23 relations=32 src=00641-00645.p1.md
 - **2026-08-22T23:33:37.622Z** `ingest` plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi — 第682章 道义：王林封印怨婴平儿、取回第四魂，允诺护冉赵后人并助孙析提升修为 · kind=plot asOf=2026-08-22 entities=55 relations=90 src=00641-00645.p2.md
 - **2026-08-22T23:36:08.714Z** `ingest` plot.xianni-ch683-jing-tui-qian-kui-zi — 第683章 惊退千葵子：雷兽显威，索仙玉退强敌 · kind=plot asOf=2026-08-22 entities=26 relations=37 src=00641-00645.p3.md
+- **2026-08-22T23:38:31.294Z** `ingest` plot.xianni-ch684-huanjia-split-wanglin-breaks-formation — 第684章 幻家分裂：王林雷兽破阵，幻封神与老祖决裂 · kind=plot asOf=2026-08-22 entities=28 relations=38 src=00641-00645.p4.md

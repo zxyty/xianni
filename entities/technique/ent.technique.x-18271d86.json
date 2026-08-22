@@ -11,10 +11,11 @@
   ],
   "summary": "王林的剑诀，蕴含规则，所斩非实体而是天地规则；在王林眼中天地大鼎化作蓝色线条，一剑可令线条崩溃。",
   "attributes": {
-    "效果": "斩天地规则、使敌之天地神通显形为可斩断的线条、一斩崩碎天地大鼎、碎片二次崩溃、惊天一式剑诀（只此一式）",
+    "效果": "斩天地规则、使敌之天地神通显形为可斩断的线条、一斩崩碎天地大鼎、碎片二次崩溃、惊天一式剑诀（只此一式）、配合雨之仙剑出手",
     "外显异象": "奇异气息弥漫，目中所见化作虚幻蓝色线条、无法形容的巨响回荡天地",
     "修炼条件": "若入第二步（哪怕阴阳虚实境界）施展则威力暴增",
-    "出处": "巨斧（巨富）内的意志"
+    "出处": "巨斧（巨富）内的意志",
+    "适用境界": "阴阳虚实级战力"
   },
   "observations": {
     "效果": [
@@ -42,6 +43,11 @@
         "value": "惊天一式剑诀（只此一式）",
         "docId": "plot.xianni-ch614-617-refine-immortal-guard-dujian",
         "seq": 614
+      },
+      {
+        "value": "配合雨之仙剑出手",
+        "docId": "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation",
+        "seq": 641
       }
     ],
     "外显异象": [
@@ -75,6 +81,13 @@
         "docId": "plot.xianni-ch614-617-refine-immortal-guard-dujian",
         "seq": 614
       }
+    ],
+    "适用境界": [
+      {
+        "value": "阴阳虚实级战力",
+        "docId": "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation",
+        "seq": 641
+      }
     ]
   },
   "firstSeq": 614,
@@ -103,13 +116,20 @@
       "docId": "plot.xianni-ch614-617-refine-immortal-guard-dujian",
       "dated": false,
       "seq": 614
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation",
+      "dated": false,
+      "seq": 641
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
-    "plot.xianni-ch614-617-refine-immortal-guard-dujian"
+    "plot.xianni-ch614-617-refine-immortal-guard-dujian",
+    "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation"
   ],
-  "updatedAt": "2026-08-22T19:43:23.653Z"
+  "updatedAt": "2026-08-22T23:38:31.139Z"
 }

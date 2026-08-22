@@ -4,13 +4,16 @@
   "name": "幻家祖宅",
   "aliases": [
     "幻家祖宅内",
-    "幻家老宅"
+    "幻家老宅",
+    "幻家祖宅大阵所在"
   ],
   "summary": "幻家权力中心，位于千幻星南部，幻封神在此向幻家老祖汇报失踪族人一事。",
   "attributes": {
     "所属势力": "幻家",
     "方位": "千幻星南部",
-    "上级区域": "千幻星"
+    "上级区域": "千幻星",
+    "类型": "家族祖宅",
+    "守护": "幻家大阵"
   },
   "observations": {
     "所属势力": [
@@ -33,6 +36,20 @@
         "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
         "seq": 631
       }
+    ],
+    "类型": [
+      {
+        "value": "家族祖宅",
+        "docId": "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation",
+        "seq": 641
+      }
+    ],
+    "守护": [
+      {
+        "value": "幻家大阵",
+        "docId": "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation",
+        "seq": 641
+      }
     ]
   },
   "firstSeq": 631,
@@ -54,12 +71,25 @@
       "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
       "dated": false,
       "seq": 631
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation",
+      "dated": false,
+      "seq": 641
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation",
+      "dated": false,
+      "seq": 641
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch672-cause-effect-cycle-seeking-life-death"
+    "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
+    "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation"
   ],
-  "updatedAt": "2026-08-22T22:57:34.889Z"
+  "updatedAt": "2026-08-22T23:38:31.129Z"
 }

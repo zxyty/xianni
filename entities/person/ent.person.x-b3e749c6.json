@@ -4,13 +4,16 @@
   "name": "幻封神",
   "aliases": [
     "幻家家主幻封神",
-    "幻家家主"
+    "幻家家主",
+    "封神",
+    "幻家族长",
+    "幻家族长幻封神"
   ],
   "summary": "幻家家主，向幻家老祖汇报失踪族人一事，请求再给三个月寻找更具资格之人，心中对老祖为外人换血、扶持幻眉不满。",
   "attributes": {
-    "身份": "幻家家主",
+    "身份": "幻家族长",
     "阵营": "幻家",
-    "性格": "表面恭敬、内心阴沉不满"
+    "性格": "求稳不求险、直言不讳"
   },
   "observations": {
     "身份": [
@@ -18,6 +21,11 @@
         "value": "幻家家主",
         "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
         "seq": 631
+      },
+      {
+        "value": "幻家族长",
+        "docId": "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation",
+        "seq": 641
       }
     ],
     "阵营": [
@@ -33,6 +41,11 @@
         "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
         "seq": 631,
         "note": "本章告退后内心独白"
+      },
+      {
+        "value": "求稳不求险、直言不讳",
+        "docId": "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation",
+        "seq": 641
       }
     ]
   },
@@ -40,9 +53,9 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
+      "docId": "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation",
       "dated": false,
-      "seq": 631
+      "seq": 641
     },
     "阵营": {
       "asOf": null,
@@ -52,16 +65,16 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
+      "docId": "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation",
       "dated": false,
-      "seq": 631,
-      "note": "本章告退后内心独白"
+      "seq": 641
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch672-cause-effect-cycle-seeking-life-death"
+    "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
+    "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation"
   ],
-  "updatedAt": "2026-08-22T22:57:34.878Z"
+  "updatedAt": "2026-08-22T23:38:31.119Z"
 }
