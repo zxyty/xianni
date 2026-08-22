@@ -5,8 +5,9 @@
   "aliases": [],
   "summary": "魔塔下问鼎后期老者所施展的强大神通，其中最强者为黑雷，若无黑雷威力将削弱大半。",
   "attributes": {
-    "类型": "风雨雷电四相神通",
-    "威力": "极强，核心为黑雷"
+    "类型": "风雨雷电四相神通、神通",
+    "威力": "极强，核心为黑雷",
+    "出处": "魔塔下的老者"
   },
   "observations": {
     "类型": [
@@ -14,12 +15,24 @@
         "value": "风雨雷电四相神通",
         "docId": "plot.xianni-ch617-second-seal-of-shooting-god-chariot",
         "seq": 576
+      },
+      {
+        "value": "神通",
+        "docId": "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
+        "seq": 576
       }
     ],
     "威力": [
       {
         "value": "极强，核心为黑雷",
         "docId": "plot.xianni-ch617-second-seal-of-shooting-god-chariot",
+        "seq": 576
+      }
+    ],
+    "出处": [
+      {
+        "value": "魔塔下的老者",
+        "docId": "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
         "seq": 576
       }
     ]
@@ -37,12 +50,19 @@
       "docId": "plot.xianni-ch617-second-seal-of-shooting-god-chariot",
       "dated": false,
       "seq": 576
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
+      "dated": false,
+      "seq": 576
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch617-second-seal-of-shooting-god-chariot"
+    "plot.xianni-ch617-second-seal-of-shooting-god-chariot",
+    "plot.xianni-ch618-new-change-silver-horn-thunder-beast"
   ],
-  "updatedAt": "2026-08-22T16:25:52.077Z"
+  "updatedAt": "2026-08-22T16:36:28.880Z"
 }

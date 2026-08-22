@@ -11,8 +11,9 @@
   "attributes": {
     "持有者": "王林",
     "外形": "古朴大剑，其上有一只转动黑目的黑色鼠兽",
-    "来历": "剑肖十二子之子鼠所有，王林杀子鼠时元神疯狂随手甩弃，本章寻回",
-    "禁制": "被王林烙上神识"
+    "来历": "原主人子鼠",
+    "禁制": "被王林烙上神识",
+    "能力": "凌厉剑气；三剑合击似另有神通"
   },
   "observations": {
     "持有者": [
@@ -34,6 +35,11 @@
         "value": "剑肖十二子之子鼠所有，王林杀子鼠时元神疯狂随手甩弃，本章寻回",
         "docId": "plot.xianni-ch613-zishu-sword-qi",
         "seq": 571
+      },
+      {
+        "value": "原主人子鼠",
+        "docId": "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
+        "seq": 576
       }
     ],
     "禁制": [
@@ -41,6 +47,13 @@
         "value": "被王林烙上神识",
         "docId": "plot.xianni-ch613-zishu-sword-qi",
         "seq": 571
+      }
+    ],
+    "能力": [
+      {
+        "value": "凌厉剑气；三剑合击似另有神通",
+        "docId": "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
+        "seq": 576
       }
     ]
   },
@@ -60,21 +73,28 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch613-zishu-sword-qi",
+      "docId": "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
       "dated": false,
-      "seq": 571
+      "seq": 576
     },
     "禁制": {
       "asOf": null,
       "docId": "plot.xianni-ch613-zishu-sword-qi",
       "dated": false,
       "seq": 571
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
+      "dated": false,
+      "seq": 576
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch613-zishu-sword-qi"
+    "plot.xianni-ch613-zishu-sword-qi",
+    "plot.xianni-ch618-new-change-silver-horn-thunder-beast"
   ],
-  "updatedAt": "2026-08-22T16:05:30.876Z"
+  "updatedAt": "2026-08-22T16:36:28.870Z"
 }

@@ -168,3 +168,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T16:16:17.875Z** `ingest` plot.xianni-ch615-tanlang-whereabouts — 第615章 贪狼的去向 · kind=plot asOf=2026-08-22 entities=51 relations=72 src=00576-00580.p2.md
 - **2026-08-22T16:18:39.421Z** `ingest` plot.xianni-ch616-immortal-emperor-qinglin-secret — 第616章 仙帝青霖——妖灵之地四虚一实洞府与青霖仙令之秘 · kind=plot asOf=2026-08-22 entities=27 relations=35 src=00576-00580.p3.md
 - **2026-08-22T16:25:52.228Z** `ingest` plot.xianni-ch617-second-seal-of-shooting-god-chariot — 第617章 第二道封印——王林解封射神车、舍驱兽圈降伏魂兽 · kind=plot asOf=2026-08-22 entities=43 relations=61 src=00576-00580.p4.md
+- **2026-08-22T16:36:29.041Z** `ingest` plot.xianni-ch618-new-change-silver-horn-thunder-beast — 第618章 新的变化，银角雷兽——王林开启第二射神车第二道封印 · kind=plot asOf=2026-08-22 entities=44 relations=71 src=00576-00580.p5.md

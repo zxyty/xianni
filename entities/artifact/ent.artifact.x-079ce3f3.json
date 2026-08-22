@@ -1,33 +1,20 @@
 {
-  "id": "ent.artifact.x-f78ced04",
+  "id": "ent.artifact.x-079ce3f3",
   "type": "artifact",
-  "name": "末羊之剑",
+  "name": "亥猪剑",
   "aliases": [
-    "末羊剑",
-    "末羊之飞剑"
+    "亥猪之剑"
   ],
-  "summary": "源自末羊的飞剑，为王林所持，本章被投入黄泉熔铸黄芒。",
+  "summary": "王林所得三剑之一，与末羊、子鼠剑同时被炼化。",
   "attributes": {
     "持有者": "王林",
-    "来历": "原主人末羊",
-    "能力": "凌厉剑气；三剑合击似另有神通"
+    "能力": "凌厉剑气；三剑合击似另有神通",
+    "来历": "原主人亥猪"
   },
   "observations": {
     "持有者": [
       {
         "value": "王林",
-        "docId": "plot.xianni-ch610-da-gong-gao-cheng",
-        "seq": 571
-      }
-    ],
-    "来历": [
-      {
-        "value": "末羊之物",
-        "docId": "plot.xianni-ch610-da-gong-gao-cheng",
-        "seq": 571
-      },
-      {
-        "value": "原主人末羊",
         "docId": "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
         "seq": 576
       }
@@ -38,17 +25,18 @@
         "docId": "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
         "seq": 576
       }
+    ],
+    "来历": [
+      {
+        "value": "原主人亥猪",
+        "docId": "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
+        "seq": 576
+      }
     ]
   },
-  "firstSeq": 571,
+  "firstSeq": 576,
   "attrProvenance": {
     "持有者": {
-      "asOf": null,
-      "docId": "plot.xianni-ch610-da-gong-gao-cheng",
-      "dated": false,
-      "seq": 571
-    },
-    "来历": {
       "asOf": null,
       "docId": "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
       "dated": false,
@@ -59,13 +47,18 @@
       "docId": "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
       "dated": false,
       "seq": 576
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
+      "dated": false,
+      "seq": 576
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch610-da-gong-gao-cheng",
     "plot.xianni-ch618-new-change-silver-horn-thunder-beast"
   ],
-  "updatedAt": "2026-08-22T16:36:28.869Z"
+  "updatedAt": "2026-08-22T16:36:28.871Z"
 }
