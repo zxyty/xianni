@@ -8,13 +8,16 @@
     "元神碎玉",
     "那碎玉",
     "八块碎玉",
-    "平淡无奇的碎玉"
+    "平淡无奇的碎玉",
+    "仙卫体内碎玉",
+    "仙气碎玉"
   ],
   "summary": "仙卫元神中替代元气的小指甲盖大小玉片，内蕴无法想象的仙力与一道意念，与元神相融可造就相当于问鼎初期的修士。",
   "attributes": {
-    "类型": "仙界之物、玉石碎片、仙卫遗留之物",
-    "用途": "与修士元神融合，赋予相当于问鼎初期的修为、疑与仙卫本质/炼制相关、与修士融合以炼制仙卫",
-    "品阶": "仙界之物（仙力不可吸收）"
+    "类型": "仙界之物、玉石碎片、仙卫遗留之物、仙气凝结之玉",
+    "用途": "与修士元神融合，赋予相当于问鼎初期的修为、疑与仙卫本质/炼制相关、与修士融合以炼制仙卫、与仙卫相关；可由炼化元神中的仙气凝成",
+    "品阶": "仙界之物（仙力不可吸收）",
+    "产地": "仙卫体内 / 元神炼化"
   },
   "observations": {
     "类型": [
@@ -32,6 +35,11 @@
         "value": "仙卫遗留之物",
         "docId": "plot.xianni-ch622-immortal-beast-grain",
         "seq": 581
+      },
+      {
+        "value": "仙气凝结之玉",
+        "docId": "plot.xianni-ch626-white-robed-corpse-identity-qingshuang",
+        "seq": 586
       }
     ],
     "用途": [
@@ -49,6 +57,11 @@
         "value": "与修士融合以炼制仙卫",
         "docId": "plot.xianni-ch623-kunxian-net-plea",
         "seq": 581
+      },
+      {
+        "value": "与仙卫相关；可由炼化元神中的仙气凝成",
+        "docId": "plot.xianni-ch626-white-robed-corpse-identity-qingshuang",
+        "seq": 586
       }
     ],
     "品阶": [
@@ -56,6 +69,13 @@
         "value": "仙界之物（仙力不可吸收）",
         "docId": "plot.xianni-ch620-immortal-realm-artifact-xianwei-xianzhong",
         "seq": 581
+      }
+    ],
+    "产地": [
+      {
+        "value": "仙卫体内 / 元神炼化",
+        "docId": "plot.xianni-ch626-white-robed-corpse-identity-qingshuang",
+        "seq": 586
       }
     ]
   },
@@ -78,6 +98,12 @@
       "docId": "plot.xianni-ch620-immortal-realm-artifact-xianwei-xianzhong",
       "dated": false,
       "seq": 581
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch626-white-robed-corpse-identity-qingshuang",
+      "dated": false,
+      "seq": 586
     }
   },
   "contested": false,
@@ -86,7 +112,8 @@
     "plot.xianni-ch620-immortal-realm-artifact-xianwei-xianzhong",
     "plot.xianni-ch621-yi-dai-zong-shi-wang-lin-po-zhang-qi-ru-xiu-shi-lian-meng",
     "plot.xianni-ch622-immortal-beast-grain",
-    "plot.xianni-ch623-kunxian-net-plea"
+    "plot.xianni-ch623-kunxian-net-plea",
+    "plot.xianni-ch626-white-robed-corpse-identity-qingshuang"
   ],
-  "updatedAt": "2026-08-22T16:48:31.533Z"
+  "updatedAt": "2026-08-22T17:05:04.798Z"
 }

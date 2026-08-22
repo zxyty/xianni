@@ -11,7 +11,8 @@
   "attributes": {
     "出处": "剑尊凌天候",
     "布置者": "王林",
-    "效果": "以三剑成阵，威慑并镇压受制之敌、锁定并看守目标"
+    "效果": "以三剑成阵，威慑并镇压受制之敌、锁定并看守目标、禁锢、阴寒剑气透体",
+    "品阶": "玄妙不在宝剑而在其内奇异之力"
   },
   "observations": {
     "出处": [
@@ -38,6 +39,19 @@
         "value": "锁定并看守目标",
         "docId": "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune",
         "seq": 586
+      },
+      {
+        "value": "禁锢、阴寒剑气透体",
+        "docId": "plot.xianni-ch626-white-robed-corpse-identity-qingshuang",
+        "seq": 586
+      }
+    ],
+    "品阶": [
+      {
+        "value": "玄妙不在宝剑而在其内奇异之力",
+        "docId": "plot.xianni-ch626-white-robed-corpse-identity-qingshuang",
+        "seq": 586,
+        "note": "矮小老者的判断"
       }
     ]
   },
@@ -60,13 +74,21 @@
       "docId": "plot.xianni-ch624-kunxianwang-backfires-captures-old-man",
       "dated": false,
       "seq": 586
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-ch626-white-robed-corpse-identity-qingshuang",
+      "dated": false,
+      "seq": 586,
+      "note": "矮小老者的判断"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch624-kunxianwang-backfires-captures-old-man",
-    "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune"
+    "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune",
+    "plot.xianni-ch626-white-robed-corpse-identity-qingshuang"
   ],
-  "updatedAt": "2026-08-22T16:57:54.325Z"
+  "updatedAt": "2026-08-22T17:05:04.769Z"
 }

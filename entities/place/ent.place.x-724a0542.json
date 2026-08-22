@@ -3,11 +3,13 @@
   "type": "place",
   "name": "神秘洞府",
   "aliases": [
-    "尊兽石台洞府"
+    "尊兽石台洞府",
+    "玉简地图所示洞府",
+    "老者发现的洞府"
   ],
   "summary": "凭令牌可随时进入的隐秘之地，经由尊兽连接的石台与层层平台抵达；王林选此处作为最安全的问鼎之所。",
   "attributes": {
-    "类型": "秘境洞府",
+    "类型": "洞府",
     "危险度": "安全，可隔绝外界因素"
   },
   "observations": {
@@ -16,6 +18,11 @@
         "value": "秘境洞府",
         "docId": "plot.xianni-ch598-wending-crystal",
         "seq": 556
+      },
+      {
+        "value": "洞府",
+        "docId": "plot.xianni-ch626-white-robed-corpse-identity-qingshuang",
+        "seq": 586
       }
     ],
     "危险度": [
@@ -30,9 +37,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch598-wending-crystal",
+      "docId": "plot.xianni-ch626-white-robed-corpse-identity-qingshuang",
       "dated": false,
-      "seq": 556
+      "seq": 586
     },
     "危险度": {
       "asOf": null,
@@ -44,7 +51,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch598-wending-crystal"
+    "plot.xianni-ch598-wending-crystal",
+    "plot.xianni-ch626-white-robed-corpse-identity-qingshuang"
   ],
-  "updatedAt": "2026-08-22T12:50:42.957Z"
+  "updatedAt": "2026-08-22T17:05:04.815Z"
 }

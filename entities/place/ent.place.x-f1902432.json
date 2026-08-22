@@ -6,8 +6,9 @@
   "summary": "仙界旧有之地，入内浸泡可令元神不灭者恢复；随仙界破碎而消失。",
   "attributes": {
     "所属界面": "仙界",
-    "类型": "疗伤复元圣地",
-    "危险度": "已消失"
+    "类型": "灵池/秘境",
+    "危险度": "已消失",
+    "特产": "朔仙金"
   },
   "observations": {
     "所属界面": [
@@ -22,6 +23,11 @@
         "value": "疗伤复元圣地",
         "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
         "seq": 299
+      },
+      {
+        "value": "灵池/秘境",
+        "docId": "plot.xianni-ch626-white-robed-corpse-identity-qingshuang",
+        "seq": 586
       }
     ],
     "危险度": [
@@ -29,6 +35,13 @@
         "value": "已消失",
         "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
         "seq": 299
+      }
+    ],
+    "特产": [
+      {
+        "value": "朔仙金",
+        "docId": "plot.xianni-ch626-white-robed-corpse-identity-qingshuang",
+        "seq": 586
       }
     ]
   },
@@ -42,21 +55,28 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
+      "docId": "plot.xianni-ch626-white-robed-corpse-identity-qingshuang",
       "dated": false,
-      "seq": 299
+      "seq": 586
     },
     "危险度": {
       "asOf": null,
       "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
       "dated": false,
       "seq": 299
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch626-white-robed-corpse-identity-qingshuang",
+      "dated": false,
+      "seq": 586
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet"
+    "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
+    "plot.xianni-ch626-white-robed-corpse-identity-qingshuang"
   ],
-  "updatedAt": "2026-08-08T05:08:08.183Z"
+  "updatedAt": "2026-08-22T17:05:04.774Z"
 }
