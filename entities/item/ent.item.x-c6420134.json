@@ -5,12 +5,13 @@
   "aliases": [
     "803令牌",
     "1090令牌",
-    "弟子洞府令牌"
+    "弟子洞府令牌",
+    "进入洞府之令牌"
   ],
   "summary": "炼魂宗外围弟子洞府凭证，牌上刻房号，号越小表示洞府灵力越多；换房需另缴一块中品灵石。",
   "attributes": {
-    "类型": "身份/居所凭证",
-    "用途": "标示并领用对应编号洞府（号越小灵力越多）",
+    "类型": "传送令牌",
+    "用途": "随时进入神秘洞府",
     "产地": "炼魂宗"
   },
   "observations": {
@@ -19,6 +20,11 @@
         "value": "身份/居所凭证",
         "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
         "seq": 356
+      },
+      {
+        "value": "传送令牌",
+        "docId": "plot.xianni-ch598-wending-crystal",
+        "seq": 556
       }
     ],
     "用途": [
@@ -26,6 +32,11 @@
         "value": "标示并领用对应编号洞府（号越小灵力越多）",
         "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
         "seq": 356
+      },
+      {
+        "value": "随时进入神秘洞府",
+        "docId": "plot.xianni-ch598-wending-crystal",
+        "seq": 556
       }
     ],
     "产地": [
@@ -40,15 +51,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+      "docId": "plot.xianni-ch598-wending-crystal",
       "dated": false,
-      "seq": 356
+      "seq": 556
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+      "docId": "plot.xianni-ch598-wending-crystal",
       "dated": false,
-      "seq": 356
+      "seq": 556
     },
     "产地": {
       "asOf": null,
@@ -60,7 +71,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo"
+    "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+    "plot.xianni-ch598-wending-crystal"
   ],
-  "updatedAt": "2026-08-08T16:24:14.319Z"
+  "updatedAt": "2026-08-22T12:50:42.948Z"
 }

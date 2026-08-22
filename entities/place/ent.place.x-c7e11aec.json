@@ -4,13 +4,14 @@
   "name": "厅榭",
   "aliases": [
     "洞府厅榭",
-    "圆桌厅榭"
+    "圆桌厅榭",
+    "发现酒壶的厅榭"
   ],
   "summary": "回廊右路前方的亭榭，内有圆桌、四石凳、酒壶与杯，十丈内禁制完整无人破除，是四周区域禁制的中枢点。",
   "attributes": {
-    "类型": "洞府亭榭",
+    "类型": "厅堂",
     "方位": "回廊右侧道路前方，竹林之侧",
-    "上级区域": "仙人洞府",
+    "上级区域": "神秘洞府",
     "危险度": "极高（禁制数万变化，为区域中枢）",
     "守护": "厅榭禁制"
   },
@@ -20,6 +21,11 @@
         "value": "洞府亭榭",
         "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
         "seq": 532
+      },
+      {
+        "value": "厅堂",
+        "docId": "plot.xianni-ch598-wending-crystal",
+        "seq": 556
       }
     ],
     "方位": [
@@ -34,6 +40,11 @@
         "value": "仙人洞府",
         "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
         "seq": 532
+      },
+      {
+        "value": "神秘洞府",
+        "docId": "plot.xianni-ch598-wending-crystal",
+        "seq": 556
       }
     ],
     "危险度": [
@@ -55,9 +66,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
+      "docId": "plot.xianni-ch598-wending-crystal",
       "dated": false,
-      "seq": 532
+      "seq": 556
     },
     "方位": {
       "asOf": null,
@@ -67,9 +78,9 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
+      "docId": "plot.xianni-ch598-wending-crystal",
       "dated": false,
-      "seq": 532
+      "seq": 556
     },
     "危险度": {
       "asOf": null,
@@ -87,7 +98,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch532-533-three-stroke-rune-second-seal"
+    "plot.xianni-ch532-533-three-stroke-rune-second-seal",
+    "plot.xianni-ch598-wending-crystal"
   ],
-  "updatedAt": "2026-08-22T08:01:12.164Z"
+  "updatedAt": "2026-08-22T12:50:42.957Z"
 }

@@ -147,3 +147,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T12:44:04.467Z** `ingest` plot.chapter-595-simplest-heavenly-tribulation-no — 第595章 最简单的天劫？不！——王林燕京广场逆天引劫 · kind=plot asOf=2026-08-22 entities=33 relations=39 src=00556-00560.p1.md
 - **2026-08-22T12:46:20.531Z** `ingest` plot.xianni-ch596-tianwei-heavenly-might — 第596章 天威——化魔指破红雷，天劫二度以天威碾碎燕京 · kind=plot asOf=2026-08-22 entities=22 relations=25 src=00556-00560.p2.md
 - **2026-08-22T12:48:27.221Z** `ingest` plot.xianni-ch597-yaogu-guyao-heavenly-tribulation — 第597章 妖鼓：古妖现身，王林受妖力渡劫 · kind=plot asOf=2026-08-22 entities=18 relations=30 src=00556-00560.p3.md
+- **2026-08-22T12:50:43.079Z** `ingest` plot.xianni-ch598-wending-crystal — 第598章 问鼎之晶：古妖代抗赤霄云芒，王林入洞府问鼎 · kind=plot asOf=2026-08-22 entities=23 relations=30 src=00556-00560.p4.md

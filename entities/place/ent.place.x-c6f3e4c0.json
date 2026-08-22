@@ -13,10 +13,10 @@
   "summary": "九龙山脉九条龙头所向的一弘幽潭，天妖郡精神象征古妖之殿即在潭内，潭外重兵把守。",
   "attributes": {
     "所属势力": "各妖郡的古妖类存在",
-    "类型": "幽潭／圣地、禁地、秘地、惩戒之地、圣物/圣地、试炼／磨练之地、试炼/洗礼之地、秘境/圣地、教化之地",
+    "类型": "幽潭／圣地、禁地、秘地、惩戒之地、圣物/圣地、试炼／磨练之地、试炼/洗礼之地、秘境/圣地、教化之地、禁地/囚地",
     "方位": "九龙龙头所向，天妖城之后",
     "危险度": "高（磨练性质）",
-    "守护": "古妖之灵",
+    "守护": "古妖",
     "上级区域": "天妖郡"
   },
   "observations": {
@@ -87,6 +87,11 @@
         "value": "教化之地",
         "docId": "plot.xianni-ch597-yaogu-guyao-heavenly-tribulation",
         "seq": 556
+      },
+      {
+        "value": "禁地/囚地",
+        "docId": "plot.xianni-ch598-wending-crystal",
+        "seq": 556
       }
     ],
     "方位": [
@@ -123,6 +128,11 @@
         "value": "古妖之灵",
         "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
         "seq": 551
+      },
+      {
+        "value": "古妖",
+        "docId": "plot.xianni-ch598-wending-crystal",
+        "seq": 556
       }
     ],
     "上级区域": [
@@ -161,9 +171,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+      "docId": "plot.xianni-ch598-wending-crystal",
       "dated": false,
-      "seq": 551
+      "seq": 556
     },
     "上级区域": {
       "asOf": null,
@@ -181,7 +191,8 @@
     "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
     "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
     "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
-    "plot.xianni-ch597-yaogu-guyao-heavenly-tribulation"
+    "plot.xianni-ch597-yaogu-guyao-heavenly-tribulation",
+    "plot.xianni-ch598-wending-crystal"
   ],
-  "updatedAt": "2026-08-22T12:48:27.094Z"
+  "updatedAt": "2026-08-22T12:50:42.956Z"
 }

@@ -3,12 +3,13 @@
   "type": "place",
   "name": "远古战场",
   "aliases": [
-    "虎咆吸收阴魂的远古战场"
+    "虎咆吸收阴魂的远古战场",
+    "那片远古战场"
   ],
   "summary": "远在天妖城无数万里外的古战场，场中有一座通体漆黑的高塔，塔顶封存着漆黑铠甲的存在。",
   "attributes": {
-    "方位": "天妖城无数万里之外",
-    "类型": "古战场／禁地",
+    "方位": "距天妖城不知多少万里外",
+    "类型": "古战场",
     "守护": "黑塔铠甲存在"
   },
   "observations": {
@@ -17,6 +18,11 @@
         "value": "天妖城无数万里之外",
         "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
         "seq": 551
+      },
+      {
+        "value": "距天妖城不知多少万里外",
+        "docId": "plot.xianni-ch598-wending-crystal",
+        "seq": 556
       }
     ],
     "类型": [
@@ -24,6 +30,11 @@
         "value": "古战场／禁地",
         "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
         "seq": 551
+      },
+      {
+        "value": "古战场",
+        "docId": "plot.xianni-ch598-wending-crystal",
+        "seq": 556
       }
     ],
     "守护": [
@@ -38,15 +49,15 @@
   "attrProvenance": {
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+      "docId": "plot.xianni-ch598-wending-crystal",
       "dated": false,
-      "seq": 551
+      "seq": 556
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+      "docId": "plot.xianni-ch598-wending-crystal",
       "dated": false,
-      "seq": 551
+      "seq": 556
     },
     "守护": {
       "asOf": null,
@@ -58,7 +69,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui"
+    "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+    "plot.xianni-ch598-wending-crystal"
   ],
-  "updatedAt": "2026-08-22T12:06:29.222Z"
+  "updatedAt": "2026-08-22T12:50:42.958Z"
 }
