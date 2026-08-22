@@ -4,13 +4,15 @@
   "name": "白色城堡老祖",
   "aliases": [
     "矮小老者",
-    "阴森声音"
+    "阴森声音",
+    "自称来自仙界的老祖",
+    "城堡内老者"
   ],
   "summary": "白色城堡之主，身材极为矮小、声音阴森，手下豢养「仙卫」；早年即看中王林，下令派三个小队加一名仙卫生擒之，欲调教为新的仙卫。",
   "attributes": {
-    "身份": "白色城堡之主、仙卫豢养者",
+    "身份": "白色城堡之主、仙卫豢养者、修士联盟老祖、自称来自仙界者",
     "称号": "老祖",
-    "外貌": "身材极为矮小的老者",
+    "外貌": "身子矮小的老者，双目睁开时金芒一闪",
     "性格": "阴森、自负"
   },
   "observations": {
@@ -19,6 +21,16 @@
         "value": "白色城堡之主、仙卫豢养者",
         "docId": "plot.xianni-ch617-second-seal-of-shooting-god-chariot",
         "seq": 576
+      },
+      {
+        "value": "修士联盟老祖",
+        "docId": "plot.xianni-ch621-yi-dai-zong-shi-wang-lin-po-zhang-qi-ru-xiu-shi-lian-meng",
+        "seq": 581
+      },
+      {
+        "value": "自称来自仙界者",
+        "docId": "plot.xianni-ch621-yi-dai-zong-shi-wang-lin-po-zhang-qi-ru-xiu-shi-lian-meng",
+        "seq": 581
       }
     ],
     "称号": [
@@ -33,6 +45,11 @@
         "value": "身材极为矮小的老者",
         "docId": "plot.xianni-ch617-second-seal-of-shooting-god-chariot",
         "seq": 576
+      },
+      {
+        "value": "身子矮小的老者，双目睁开时金芒一闪",
+        "docId": "plot.xianni-ch621-yi-dai-zong-shi-wang-lin-po-zhang-qi-ru-xiu-shi-lian-meng",
+        "seq": 581
       }
     ],
     "性格": [
@@ -59,9 +76,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch617-second-seal-of-shooting-god-chariot",
+      "docId": "plot.xianni-ch621-yi-dai-zong-shi-wang-lin-po-zhang-qi-ru-xiu-shi-lian-meng",
       "dated": false,
-      "seq": 576
+      "seq": 581
     },
     "性格": {
       "asOf": null,
@@ -73,7 +90,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch617-second-seal-of-shooting-god-chariot"
+    "plot.xianni-ch617-second-seal-of-shooting-god-chariot",
+    "plot.xianni-ch621-yi-dai-zong-shi-wang-lin-po-zhang-qi-ru-xiu-shi-lian-meng"
   ],
-  "updatedAt": "2026-08-22T16:25:52.100Z"
+  "updatedAt": "2026-08-22T16:43:55.913Z"
 }

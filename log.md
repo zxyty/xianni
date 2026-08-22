@@ -171,3 +171,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T16:36:29.041Z** `ingest` plot.xianni-ch618-new-change-silver-horn-thunder-beast — 第618章 新的变化，银角雷兽——王林开启第二射神车第二道封印 · kind=plot asOf=2026-08-22 entities=44 relations=71 src=00576-00580.p5.md
 - **2026-08-22T16:38:49.748Z** `ingest` plot.xianni-ch619-give-me-down-refining-soul-tribe-defense — 第619章 给我下来！——修士联盟围攻炼魂部落，王林一抓拽落仙卫 · kind=plot asOf=2026-08-22 entities=17 relations=32 src=00581-00585.p1.md
 - **2026-08-22T16:41:07.919Z** `ingest` plot.xianni-ch620-immortal-realm-artifact-xianwei-xianzhong — 第620章 仙界之物：王林擒仙卫、救孙云山，初识「仙种」与修士联盟老祖 · kind=plot asOf=2026-08-22 entities=24 relations=37 src=00581-00585.p2.md
+- **2026-08-22T16:43:56.080Z** `ingest` plot.xianni-ch621-yi-dai-zong-shi-wang-lin-po-zhang-qi-ru-xiu-shi-lian-meng — 第621章 一代宗师——王林破瘴气闯修士联盟 · kind=plot asOf=2026-08-22 entities=30 relations=38 src=00581-00585.p3.md
