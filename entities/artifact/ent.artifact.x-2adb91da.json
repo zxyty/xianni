@@ -5,14 +5,16 @@
   "aliases": [
     "封印之球",
     "封印姚惜雪的禁制球",
-    "禁制球"
+    "禁制球",
+    "封印姚惜雪的禁制之球"
   ],
   "summary": "王林掐诀在地面打出层层禁制形成的圆形禁制之圈，收缩成球将姚惜雪封入，可由大化小收进储物袋。",
   "attributes": {
     "持有者": "王林",
-    "能力": "封印生灵、可大可小便于携带、囚禁修士、隔绝时间感知",
-    "外形": "球体，展开如花朵盛开",
-    "来历": "王林当场掐诀打出"
+    "能力": "封印生灵、可大可小便于携带、囚禁修士、隔绝时间感知、封印活人",
+    "外形": "球状",
+    "来历": "王林当场掐诀打出",
+    "禁制": "封印姚惜雪十年"
   },
   "observations": {
     "持有者": [
@@ -42,6 +44,11 @@
         "value": "隔绝时间感知",
         "docId": "plot.xianni-ch567-second-question-yao-xixue",
         "seq": 537
+      },
+      {
+        "value": "封印活人",
+        "docId": "plot.xianni-ch615-tanlang-whereabouts",
+        "seq": 576
       }
     ],
     "外形": [
@@ -54,6 +61,11 @@
         "value": "球体，展开如花朵盛开",
         "docId": "plot.xianni-ch567-second-question-yao-xixue",
         "seq": 537
+      },
+      {
+        "value": "球状",
+        "docId": "plot.xianni-ch615-tanlang-whereabouts",
+        "seq": 576
       }
     ],
     "来历": [
@@ -61,6 +73,13 @@
         "value": "王林当场掐诀打出",
         "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
         "seq": 532
+      }
+    ],
+    "禁制": [
+      {
+        "value": "封印姚惜雪十年",
+        "docId": "plot.xianni-ch615-tanlang-whereabouts",
+        "seq": 576
       }
     ]
   },
@@ -80,22 +99,29 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch567-second-question-yao-xixue",
+      "docId": "plot.xianni-ch615-tanlang-whereabouts",
       "dated": false,
-      "seq": 537
+      "seq": 576
     },
     "来历": {
       "asOf": null,
       "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
       "dated": false,
       "seq": 532
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch615-tanlang-whereabouts",
+      "dated": false,
+      "seq": 576
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch532-533-three-stroke-rune-second-seal",
-    "plot.xianni-ch567-second-question-yao-xixue"
+    "plot.xianni-ch567-second-question-yao-xixue",
+    "plot.xianni-ch615-tanlang-whereabouts"
   ],
-  "updatedAt": "2026-08-22T09:26:17.866Z"
+  "updatedAt": "2026-08-22T16:16:17.739Z"
 }

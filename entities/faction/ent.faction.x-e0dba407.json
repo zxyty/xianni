@@ -10,16 +10,19 @@
     "炼魂部落驻地",
     "炼魂部落势力",
     "那炼魂部落",
-    "炼魂族部落"
+    "炼魂族部落",
+    "炼魂部",
+    "新炼魂部落"
   ],
   "summary": "王林在妖灵之地创立并命名的部落，全族修炼炼魂术，以黑雾祭养魂魄为标志，气象更似新生的修真门派。",
   "attributes": {
     "掌门": "王林",
-    "据点": "妖灵之地内方圆四十里的禁制大阵范围（中心为山谷）、妖灵之地山谷（后扩至方圆三百里）、妖灵之地的部落山谷、炼魂部落所在地、炼魂山谷",
+    "据点": "妖灵之地内方圆四十里的禁制大阵范围（中心为山谷）、妖灵之地山谷（后扩至方圆三百里）、妖灵之地的部落山谷、炼魂部落所在地、炼魂山谷、天妖郡天妖蛮荒之地、远古战场高塔部落",
     "所属界面": "妖灵之地",
-    "理念": "全族修行炼魂术，凭三个方法换取下一阶段口诀、停止对外进攻、全力修行、以魂幡驭魂修行、疑与炼魂术传承相关、广传炼魂术、嫡系密传抽魄术",
+    "理念": "全族修行炼魂术，凭三个方法换取下一阶段口诀、停止对外进攻、全力修行、以魂幡驭魂修行、疑与炼魂术传承相关、广传炼魂术、嫡系密传抽魄术、以杀养杀、吞并外族壮大",
     "阵营": "王林麾下",
-    "镇派之宝": "十亿尊魂幡"
+    "镇派之宝": "十亿尊魂幡",
+    "等级": "天妖蛮荒之地四大部落之一"
   },
   "observations": {
     "掌门": [
@@ -54,6 +57,16 @@
         "value": "炼魂山谷",
         "docId": "plot.xianni-ch566-hupao-elder-and-armor",
         "seq": 537
+      },
+      {
+        "value": "天妖郡天妖蛮荒之地",
+        "docId": "plot.xianni-ch615-tanlang-whereabouts",
+        "seq": 576
+      },
+      {
+        "value": "远古战场高塔部落",
+        "docId": "plot.xianni-ch615-tanlang-whereabouts",
+        "seq": 576
       }
     ],
     "所属界面": [
@@ -89,6 +102,11 @@
         "value": "广传炼魂术、嫡系密传抽魄术",
         "docId": "plot.xianni-ch567-second-question-yao-xixue",
         "seq": 537
+      },
+      {
+        "value": "以杀养杀、吞并外族壮大",
+        "docId": "plot.xianni-ch615-tanlang-whereabouts",
+        "seq": 576
       }
     ],
     "阵营": [
@@ -104,6 +122,13 @@
         "docId": "plot.xianni-ch567-second-question-yao-xixue",
         "seq": 537,
         "note": "本章被王林收回，改以普通魂幡替代"
+      }
+    ],
+    "等级": [
+      {
+        "value": "天妖蛮荒之地四大部落之一",
+        "docId": "plot.xianni-ch615-tanlang-whereabouts",
+        "seq": 576
       }
     ]
   },
@@ -145,6 +170,12 @@
       "dated": false,
       "seq": 537,
       "note": "本章被王林收回，改以普通魂幡替代"
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-ch615-tanlang-whereabouts",
+      "dated": false,
+      "seq": 576
     }
   },
   "contested": false,
@@ -156,7 +187,8 @@
     "plot.xianni-ch565-laozu-return-yaojiang-truce",
     "plot.xianni-ch566-hupao-elder-and-armor",
     "plot.xianni-ch567-second-question-yao-xixue",
-    "plot.xianni-ch606-qingxing-hupao-yihun-fumeng"
+    "plot.xianni-ch606-qingxing-hupao-yihun-fumeng",
+    "plot.xianni-ch615-tanlang-whereabouts"
   ],
-  "updatedAt": "2026-08-22T14:50:17.668Z"
+  "updatedAt": "2026-08-22T16:16:17.741Z"
 }
