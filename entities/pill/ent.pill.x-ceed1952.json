@@ -4,18 +4,27 @@
   "name": "八品次神丹",
   "aliases": [
     "次神丹",
-    "八品丹药"
+    "八品丹药",
+    "八品灵丹",
+    "四年前所夺的八品丹药"
   ],
   "summary": "丹药九品体系中的八品丹药，称「次神丹」；七日后冉家宝合楼拍卖会拍品，对王林当前修为仍然有效。",
   "attributes": {
-    "品阶": "八品（次神丹）",
-    "适用境界": "对王林当前修为仍有效"
+    "品阶": "八品（次神丹）、八品",
+    "适用境界": "对王林当前修为仍有效、问鼎期",
+    "副作用": "问鼎以下修为服食立刻身体自爆而亡",
+    "功效": "对问鼎修士极为珍贵、助益修行"
   },
   "observations": {
     "品阶": [
       {
         "value": "八品（次神丹）",
         "docId": "plot.xianni-ch666-nvban-nanzhuang-sun-family-test",
+        "seq": 626
+      },
+      {
+        "value": "八品",
+        "docId": "plot.xianni-ch668-four-years-ago-cause-baohe-auction",
         "seq": 626
       }
     ],
@@ -25,6 +34,25 @@
         "docId": "plot.xianni-ch666-nvban-nanzhuang-sun-family-test",
         "seq": 626,
         "note": "修为到修道第二步后此类丹药即失效"
+      },
+      {
+        "value": "问鼎期",
+        "docId": "plot.xianni-ch668-four-years-ago-cause-baohe-auction",
+        "seq": 626
+      }
+    ],
+    "副作用": [
+      {
+        "value": "问鼎以下修为服食立刻身体自爆而亡",
+        "docId": "plot.xianni-ch668-four-years-ago-cause-baohe-auction",
+        "seq": 626
+      }
+    ],
+    "功效": [
+      {
+        "value": "对问鼎修士极为珍贵、助益修行",
+        "docId": "plot.xianni-ch668-four-years-ago-cause-baohe-auction",
+        "seq": 626
       }
     ]
   },
@@ -42,12 +70,25 @@
       "dated": false,
       "seq": 626,
       "note": "修为到修道第二步后此类丹药即失效"
+    },
+    "副作用": {
+      "asOf": null,
+      "docId": "plot.xianni-ch668-four-years-ago-cause-baohe-auction",
+      "dated": false,
+      "seq": 626
+    },
+    "功效": {
+      "asOf": null,
+      "docId": "plot.xianni-ch668-four-years-ago-cause-baohe-auction",
+      "dated": false,
+      "seq": 626
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch666-nvban-nanzhuang-sun-family-test"
+    "plot.xianni-ch666-nvban-nanzhuang-sun-family-test",
+    "plot.xianni-ch668-four-years-ago-cause-baohe-auction"
   ],
-  "updatedAt": "2026-08-22T22:32:22.162Z"
+  "updatedAt": "2026-08-22T22:37:56.611Z"
 }

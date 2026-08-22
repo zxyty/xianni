@@ -9,10 +9,11 @@
   "attributes": {
     "性别": "男",
     "小阶段": "问鼎初期",
-    "身份": "孙家老祖",
+    "身份": "孙家老祖、一族之祖",
     "外貌": "一头黑发飘散、身穿紫袍无饰件、年约三十、相貌堂堂带凌厉之气",
     "标志特征": "站立时好似融入四周环境；目光如远古凶兽",
-    "阵营": "孙家（冉云星）"
+    "阵营": "孙家（冉云星）",
+    "性格": "心机深沉、能屈能伸"
   },
   "observations": {
     "性别": [
@@ -34,6 +35,11 @@
         "value": "孙家老祖",
         "docId": "plot.xianni-ch667-special-artifact-targeting-wang-lin",
         "seq": 626
+      },
+      {
+        "value": "一族之祖",
+        "docId": "plot.xianni-ch668-four-years-ago-cause-baohe-auction",
+        "seq": 626
       }
     ],
     "外貌": [
@@ -54,6 +60,13 @@
       {
         "value": "孙家（冉云星）",
         "docId": "plot.xianni-ch667-special-artifact-targeting-wang-lin",
+        "seq": 626
+      }
+    ],
+    "性格": [
+      {
+        "value": "心机深沉、能屈能伸",
+        "docId": "plot.xianni-ch668-four-years-ago-cause-baohe-auction",
         "seq": 626
       }
     ]
@@ -95,12 +108,19 @@
       "docId": "plot.xianni-ch667-special-artifact-targeting-wang-lin",
       "dated": false,
       "seq": 626
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch668-four-years-ago-cause-baohe-auction",
+      "dated": false,
+      "seq": 626
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch667-special-artifact-targeting-wang-lin"
+    "plot.xianni-ch667-special-artifact-targeting-wang-lin",
+    "plot.xianni-ch668-four-years-ago-cause-baohe-auction"
   ],
-  "updatedAt": "2026-08-22T22:35:11.778Z"
+  "updatedAt": "2026-08-22T22:37:56.595Z"
 }

@@ -13,7 +13,8 @@
     "理念": "以雷法为宗、以雷兽为使者凭证，冒充者灭族、掌雷之道、雷道",
     "阵营": "与王林敌对、王林之敌",
     "等级": "地级使者、天极使者",
-    "镇派之宝": "雷之仙兽、雷仙殿之兽（雷兽）"
+    "镇派之宝": "雷之仙兽、雷仙殿之兽（雷兽）",
+    "所属界面": "罗天星域"
   },
   "observations": {
     "理念": [
@@ -73,9 +74,16 @@
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
       }
+    ],
+    "所属界面": [
+      {
+        "value": "罗天星域",
+        "docId": "plot.xianni-ch668-four-years-ago-cause-baohe-auction",
+        "seq": 626
+      }
     ]
   },
-  "firstSeq": 661,
+  "firstSeq": 626,
   "attrProvenance": {
     "理念": {
       "asOf": null,
@@ -100,12 +108,19 @@
       "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
       "dated": false,
       "seq": 661
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch668-four-years-ago-cause-baohe-auction",
+      "dated": false,
+      "seq": 626
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power"
+    "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+    "plot.xianni-ch668-four-years-ago-cause-baohe-auction"
   ],
-  "updatedAt": "2026-08-17T14:25:16.461Z"
+  "updatedAt": "2026-08-22T22:37:56.603Z"
 }

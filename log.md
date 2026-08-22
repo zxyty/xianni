@@ -209,3 +209,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T22:29:51.587Z** `ingest` plot.xianni-ch665-warning-sun-family-ranyun-star — 第665章 警告：王林售宝反遭截杀，威压孙家索赔二十万仙玉 · kind=plot asOf=2026-08-22 entities=27 relations=48 src=00621-00625.p5.md
 - **2026-08-22T22:32:22.316Z** `ingest` plot.xianni-ch666-nvban-nanzhuang-sun-family-test — 第666章 女扮男装：房府守卫女修的训诫、二十万仙玉到手与孙家的次神丹试探 · kind=plot asOf=2026-08-22 entities=25 relations=31 src=00626-00630.p1.md
 - **2026-08-22T22:35:11.936Z** `ingest` plot.xianni-ch667-special-artifact-targeting-wang-lin — 仙逆·第667章 针对王林的特殊法宝——柳眉入千幻星改名幻眉，王林八步慑退问鼎老祖孙析 · kind=plot asOf=2026-08-22 entities=25 relations=36 src=00626-00630.p2.md
+- **2026-08-22T22:37:56.764Z** `ingest` plot.xianni-ch668-four-years-ago-cause-baohe-auction — 第668章 四年前之因——孙析揭幻家丹药之局 · kind=plot asOf=2026-08-22 entities=28 relations=48 src=00626-00630.p3.md
