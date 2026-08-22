@@ -12,13 +12,14 @@
     "潮汐中出现的令牌",
     "妖灵令牌",
     "妖灵之地令牌",
-    "贪狼令牌"
+    "贪狼令牌",
+    "紫雾令牌"
   ],
   "summary": "联盟使者发下的七块令牌，为进入域外战场的凭证，须碎至少四块、最多三门派可入场。",
   "attributes": {
     "类型": "令牌",
-    "用途": "各方争夺之目标",
-    "产地": "东海妖灵之门内"
+    "用途": "价值极高、令化神级人物动容",
+    "产地": "潮汐深渊紫雾内"
   },
   "observations": {
     "类型": [
@@ -59,6 +60,12 @@
         "value": "各方争夺之目标",
         "docId": "plot.xianni-ch637-save-zhou-yi-tidal-abyss-rift",
         "seq": 596
+      },
+      {
+        "value": "价值极高、令化神级人物动容",
+        "docId": "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua",
+        "seq": 605,
+        "note": "具体功用本章未明"
       }
     ],
     "产地": [
@@ -66,6 +73,11 @@
         "value": "东海妖灵之门内",
         "docId": "plot.xianni-ch519-tide-recede-golden-token",
         "seq": 496
+      },
+      {
+        "value": "潮汐深渊紫雾内",
+        "docId": "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua",
+        "seq": 605
       }
     ]
   },
@@ -79,15 +91,16 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch637-save-zhou-yi-tidal-abyss-rift",
+      "docId": "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua",
       "dated": false,
-      "seq": 596
+      "seq": 605,
+      "note": "具体功用本章未明"
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.xianni-ch519-tide-recede-golden-token",
+      "docId": "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua",
       "dated": false,
-      "seq": 496
+      "seq": 605
     }
   },
   "contested": false,
@@ -98,7 +111,8 @@
     "plot.xianni-ch519-tide-recede-golden-token",
     "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
     "plot.xianni-ch637-save-zhou-yi-tidal-abyss-rift",
-    "plot.xianni-ch642-purple-mist-mosquito-beast"
+    "plot.xianni-ch642-purple-mist-mosquito-beast",
+    "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua"
   ],
-  "updatedAt": "2026-08-22T18:46:10.353Z"
+  "updatedAt": "2026-08-22T18:53:15.778Z"
 }
