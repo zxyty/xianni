@@ -200,3 +200,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T19:24:59.871Z** `ingest` plot.xianni-ch609-613-tangulang-ding-tanlang-chase — 仙逆 第609-613章 鼎与太古雷龙：贪狼、辰龙、王林三方争夺令牌 · kind=plot asOf=2026-08-22 entities=81 relations=127 src=00609-00613.md
 - **2026-08-22T19:43:23.898Z** `ingest` plot.xianni-ch614-617-refine-immortal-guard-dujian — 仙逆 第614-617章：王林炼制仙卫——杜建问鼎与傀儡成形 · kind=plot asOf=2026-08-22 entities=59 relations=109 src=00614-00617.md
 - **2026-08-22T21:02:35.530Z** `ingest` plot.xianni-ch618-620-scroll-woman-luotian-star-region-seal — 第618-620章 解开画轴的秘密：罗天星域真相与画轴女子被永封 · kind=plot asOf=2026-08-22 entities=79 relations=153 src=00618-00620.p1.md
+- **2026-08-22T21:10:04.225Z** `ingest` plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang — 第659章 离去：剑尊等老怪破妖灵之地，王巍交出贪狼，王林踏入潮汐深渊 · kind=plot asOf=2026-08-22 entities=36 relations=66 src=00618-00620.p2.md

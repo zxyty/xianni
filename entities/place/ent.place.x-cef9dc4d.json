@@ -12,15 +12,17 @@
     "深不见底的深坑",
     "吸力深坑",
     "无尽吸力的深坑",
-    "黑暗深坑"
+    "黑暗深坑",
+    "回廊内的深坑",
+    "深坑底部"
   ],
   "summary": "进入仙遗之地的巨大深坑，本尊打出上千裂缝后抵此，低头一看便转向他处。",
   "attributes": {
-    "上级区域": "仙遗之地",
-    "类型": "深坑/绝地",
+    "上级区域": "回廊",
+    "类型": "深坑",
     "方位": "仙遗山林正中间",
     "守护": "坑底不明吸力来源",
-    "危险度": "极高"
+    "危险度": "强吸力"
   },
   "observations": {
     "上级区域": [
@@ -28,6 +30,11 @@
         "value": "仙遗之地",
         "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
         "seq": 332
+      },
+      {
+        "value": "回廊",
+        "docId": "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang",
+        "seq": 618
       }
     ],
     "类型": [
@@ -55,6 +62,11 @@
         "value": "深坑/绝地",
         "docId": "plot.xianni-ch614-617-refine-immortal-guard-dujian",
         "seq": 614
+      },
+      {
+        "value": "深坑",
+        "docId": "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang",
+        "seq": 618
       }
     ],
     "方位": [
@@ -87,6 +99,11 @@
         "value": "极高",
         "docId": "plot.xianni-ch614-617-refine-immortal-guard-dujian",
         "seq": 614
+      },
+      {
+        "value": "强吸力",
+        "docId": "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang",
+        "seq": 618
       }
     ]
   },
@@ -94,15 +111,15 @@
   "attrProvenance": {
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+      "docId": "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang",
       "dated": false,
-      "seq": 332
+      "seq": 618
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch614-617-refine-immortal-guard-dujian",
+      "docId": "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang",
       "dated": false,
-      "seq": 614
+      "seq": 618
     },
     "方位": {
       "asOf": null,
@@ -118,9 +135,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch614-617-refine-immortal-guard-dujian",
+      "docId": "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang",
       "dated": false,
-      "seq": 614
+      "seq": 618
     }
   },
   "contested": false,
@@ -130,7 +147,8 @@
     "plot.xianni-ch356-departure-immortal-remains-void-rift",
     "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
     "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
-    "plot.xianni-ch614-617-refine-immortal-guard-dujian"
+    "plot.xianni-ch614-617-refine-immortal-guard-dujian",
+    "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang"
   ],
-  "updatedAt": "2026-08-22T19:43:23.638Z"
+  "updatedAt": "2026-08-22T21:10:04.077Z"
 }

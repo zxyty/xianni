@@ -6,15 +6,17 @@
     "虚府",
     "四座虚府",
     "四个虚府",
-    "妖灵之地虚府"
+    "妖灵之地虚府",
+    "真正的洞府"
   ],
   "summary": "妖灵之地五府中的四座虚设洞府，内有法宝灵液之物，实为进入真洞府的四扇大门；当年由天运子、凌天候、云仙道侣各占其三，第四府仅血祖知其存在。",
   "attributes": {
     "所属界面": "妖灵之地内",
-    "类型": "遗迹/府邸",
+    "类型": "洞府/秘境",
     "规模": "四座",
     "特产": "法宝、灵液",
-    "上级区域": "妖灵之地"
+    "上级区域": "妖灵之地",
+    "守护": "需洞府令牌方可进入真正的洞府"
   },
   "observations": {
     "所属界面": [
@@ -34,13 +36,19 @@
         "value": "遗迹/府邸",
         "docId": "plot.xianni-ch642-purple-mist-mosquito-beast",
         "seq": 600
+      },
+      {
+        "value": "洞府/秘境",
+        "docId": "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang",
+        "seq": 618
       }
     ],
     "规模": [
       {
         "value": "四座",
         "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
-        "seq": 576
+        "seq": 576,
+        "note": "众人原以为三座，第四座为血祖与姚惜雪独知之秘"
       }
     ],
     "特产": [
@@ -56,6 +64,13 @@
         "docId": "plot.xianni-ch642-purple-mist-mosquito-beast",
         "seq": 600
       }
+    ],
+    "守护": [
+      {
+        "value": "需洞府令牌方可进入真正的洞府",
+        "docId": "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang",
+        "seq": 618
+      }
     ]
   },
   "firstSeq": 576,
@@ -68,15 +83,16 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch642-purple-mist-mosquito-beast",
+      "docId": "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang",
       "dated": false,
-      "seq": 600
+      "seq": 618
     },
     "规模": {
       "asOf": null,
       "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
       "dated": false,
-      "seq": 576
+      "seq": 576,
+      "note": "众人原以为三座，第四座为血祖与姚惜雪独知之秘"
     },
     "特产": {
       "asOf": null,
@@ -89,13 +105,20 @@
       "docId": "plot.xianni-ch642-purple-mist-mosquito-beast",
       "dated": false,
       "seq": 600
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang",
+      "dated": false,
+      "seq": 618
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch616-immortal-emperor-qinglin-secret",
-    "plot.xianni-ch642-purple-mist-mosquito-beast"
+    "plot.xianni-ch642-purple-mist-mosquito-beast",
+    "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang"
   ],
-  "updatedAt": "2026-08-22T18:46:10.363Z"
+  "updatedAt": "2026-08-22T21:10:04.080Z"
 }
