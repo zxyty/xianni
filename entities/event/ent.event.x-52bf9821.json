@@ -3,20 +3,30 @@
   "type": "event",
   "name": "妖将大比",
   "aliases": [
-    "妖将大比前三之争"
+    "妖将大比前三之争",
+    "三百年一次的妖将大比",
+    "此次妖将大比选副帅"
   ],
   "summary": "于天妖郡京都举行的妖将比试，进入前三者可获进入古妖殿修炼的资格，出关后即为副帅之一。",
   "attributes": {
-    "章节": "第567章",
-    "地点": "天妖郡京都",
-    "参与方": "莫厉海",
-    "影响": "决定莫厉海能否升为副帅"
+    "章节": "第567章、第568章（背景交代，尚未开始）",
+    "地点": "天妖郡京都、天妖城／燕京",
+    "参与方": "莫厉海、天妖郡妖将（数百）、妖帝（帝君）、各妖将寻来的外援",
+    "影响": "决定莫厉海能否升为副帅、妖将纷纷进京并广寻外援，第十四传送阵近期频繁开启",
+    "世内时序": "距二百年前天妖郡与火妖郡之战二百年后",
+    "起因": "二百年前与火妖郡一战，天妖郡两名副帅身亡，副帅之位出缺",
+    "结果": "将选出两名副帅"
   },
   "observations": {
     "章节": [
       {
         "value": "第567章",
         "docId": "plot.xianni-ch567-second-question-yao-xixue",
+        "seq": 537
+      },
+      {
+        "value": "第568章（背景交代，尚未开始）",
+        "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
         "seq": 537
       }
     ],
@@ -25,12 +35,32 @@
         "value": "天妖郡京都",
         "docId": "plot.xianni-ch567-second-question-yao-xixue",
         "seq": 537
+      },
+      {
+        "value": "天妖城／燕京",
+        "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+        "seq": 537
       }
     ],
     "参与方": [
       {
         "value": "莫厉海",
         "docId": "plot.xianni-ch567-second-question-yao-xixue",
+        "seq": 537
+      },
+      {
+        "value": "天妖郡妖将（数百）",
+        "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+        "seq": 537
+      },
+      {
+        "value": "妖帝（帝君）",
+        "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+        "seq": 537
+      },
+      {
+        "value": "各妖将寻来的外援",
+        "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
         "seq": 537
       }
     ],
@@ -39,6 +69,33 @@
         "value": "决定莫厉海能否升为副帅",
         "docId": "plot.xianni-ch567-second-question-yao-xixue",
         "seq": 537
+      },
+      {
+        "value": "妖将纷纷进京并广寻外援，第十四传送阵近期频繁开启",
+        "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+        "seq": 537
+      }
+    ],
+    "世内时序": [
+      {
+        "value": "距二百年前天妖郡与火妖郡之战二百年后",
+        "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+        "seq": 537
+      }
+    ],
+    "起因": [
+      {
+        "value": "二百年前与火妖郡一战，天妖郡两名副帅身亡，副帅之位出缺",
+        "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+        "seq": 537
+      }
+    ],
+    "结果": [
+      {
+        "value": "将选出两名副帅",
+        "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+        "seq": 537,
+        "note": "第568章时尚未举行"
       }
     ]
   },
@@ -67,12 +124,32 @@
       "docId": "plot.xianni-ch567-second-question-yao-xixue",
       "dated": false,
       "seq": 537
+    },
+    "世内时序": {
+      "asOf": null,
+      "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+      "dated": false,
+      "seq": 537
+    },
+    "起因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+      "dated": false,
+      "seq": 537
+    },
+    "结果": {
+      "asOf": null,
+      "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+      "dated": false,
+      "seq": 537,
+      "note": "第568章时尚未举行"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch567-second-question-yao-xixue"
+    "plot.xianni-ch567-second-question-yao-xixue",
+    "plot.xianni-ch568-tianyao-city-familiar-face"
   ],
-  "updatedAt": "2026-08-22T09:26:17.888Z"
+  "updatedAt": "2026-08-22T09:28:44.776Z"
 }

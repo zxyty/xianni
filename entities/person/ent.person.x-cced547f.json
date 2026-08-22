@@ -4,13 +4,14 @@
   "name": "妖帝",
   "aliases": [
     "妖帝大人",
-    "一妖帝"
+    "一妖帝",
+    "帝君"
   ],
   "summary": "妖灵之地至高存在，曾有言：对外来者只要修为足够，可赐予一切职务。",
   "attributes": {
-    "身份": "妖族至高统治者",
+    "身份": "妖族至尊、妖族至高统治者、天妖郡之主",
     "种族": "妖族",
-    "称号": "妖帝"
+    "称号": "帝君"
   },
   "observations": {
     "身份": [
@@ -22,6 +23,11 @@
       {
         "value": "妖族至高统治者",
         "docId": "plot.xianni-ch565-laozu-return-yaojiang-truce",
+        "seq": 537
+      },
+      {
+        "value": "天妖郡之主",
+        "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
         "seq": 537
       }
     ],
@@ -37,6 +43,11 @@
         "value": "妖帝",
         "docId": "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
         "seq": 523
+      },
+      {
+        "value": "帝君",
+        "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+        "seq": 537
       }
     ]
   },
@@ -44,9 +55,9 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch565-laozu-return-yaojiang-truce",
+      "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
       "dated": false,
-      "seq": 537
+      "seq": 518
     },
     "种族": {
       "asOf": null,
@@ -56,9 +67,9 @@
     },
     "称号": {
       "asOf": null,
-      "docId": "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
+      "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
       "dated": false,
-      "seq": 523
+      "seq": 537
     }
   },
   "contested": false,
@@ -67,7 +78,8 @@
     "plot.xianni-ch518-522-jincheng-guyaocheng",
     "plot.xianni-ch546-yaobing-guyaocheng-tavern-clash",
     "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
-    "plot.xianni-ch565-laozu-return-yaojiang-truce"
+    "plot.xianni-ch565-laozu-return-yaojiang-truce",
+    "plot.xianni-ch568-tianyao-city-familiar-face"
   ],
-  "updatedAt": "2026-08-22T09:15:51.746Z"
+  "updatedAt": "2026-08-22T09:28:44.767Z"
 }

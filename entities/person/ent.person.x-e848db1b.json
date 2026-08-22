@@ -5,16 +5,21 @@
   "aliases": [
     "妖将莫厉海",
     "莫兄",
-    "莫某"
+    "莫某",
+    "莫妖将",
+    "奠厉海",
+    "将主",
+    "吉妖城的莫厉海大人"
   ],
   "summary": "天妖郡左翼妖将，修为与王林相当，擅十崩拳意与妖海之浪；被王林虚幻一掌震慑后化敌为友，归还十三并招揽王林为第一副将。",
   "attributes": {
-    "身份": "左翼妖将、妖将",
-    "称号": "左翼妖将",
-    "性格": "外表粗放而心智不钝，谨慎、光明磊落",
+    "身份": "左翼妖将、妖将、天妖郡妖将（吉妖城）",
+    "称号": "左翼妖将、将主",
+    "性格": "外表粗放而心智不钝，谨慎、光明磊落、豪爽、待王林极为客气",
     "标志特征": "十崩拳意、妖浪化海龙",
     "外貌": "身穿一袭青衫",
-    "结局": "离开古妖城不再回来"
+    "结局": "离开古妖城不再回来",
+    "出身地": "燕京"
   },
   "observations": {
     "身份": [
@@ -27,6 +32,11 @@
         "value": "妖将",
         "docId": "plot.xianni-ch567-second-question-yao-xixue",
         "seq": 537
+      },
+      {
+        "value": "天妖郡妖将（吉妖城）",
+        "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+        "seq": 537
       }
     ],
     "称号": [
@@ -34,12 +44,22 @@
         "value": "左翼妖将",
         "docId": "plot.xianni-ch565-laozu-return-yaojiang-truce",
         "seq": 537
+      },
+      {
+        "value": "将主",
+        "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+        "seq": 537
       }
     ],
     "性格": [
       {
         "value": "外表粗放而心智不钝，谨慎、光明磊落",
         "docId": "plot.xianni-ch565-laozu-return-yaojiang-truce",
+        "seq": 537
+      },
+      {
+        "value": "豪爽、待王林极为客气",
+        "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
         "seq": 537
       }
     ],
@@ -63,6 +83,14 @@
         "docId": "plot.xianni-ch567-second-question-yao-xixue",
         "seq": 537,
         "note": "本章自述"
+      }
+    ],
+    "出身地": [
+      {
+        "value": "燕京",
+        "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+        "seq": 537,
+        "note": "自述三十年未回燕京"
       }
     ]
   },
@@ -104,13 +132,21 @@
       "dated": false,
       "seq": 537,
       "note": "本章自述"
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+      "dated": false,
+      "seq": 537,
+      "note": "自述三十年未回燕京"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch565-laozu-return-yaojiang-truce",
-    "plot.xianni-ch567-second-question-yao-xixue"
+    "plot.xianni-ch567-second-question-yao-xixue",
+    "plot.xianni-ch568-tianyao-city-familiar-face"
   ],
-  "updatedAt": "2026-08-22T09:26:17.862Z"
+  "updatedAt": "2026-08-22T09:28:44.762Z"
 }

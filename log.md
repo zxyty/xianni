@@ -134,3 +134,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T09:15:51.874Z** `ingest` plot.xianni-ch565-laozu-return-yaojiang-truce — 第565章 老祖回归：虚幻一掌慑退莫厉海，救回十三、返炼魂部落 · kind=plot asOf=2026-08-22 entities=21 relations=29 src=00537-00541.p2.md
 - **2026-08-22T09:23:28.768Z** `ingest` plot.xianni-ch566-hupao-elder-and-armor — 第566章 虎咆、老者与铠甲——王林醒十三授巨灵九修，古战场青年炼英魂 · kind=plot asOf=2026-08-22 entities=44 relations=75 src=00537-00541.p3.md
 - **2026-08-22T09:26:18.002Z** `ingest` plot.xianni-ch567-second-question-yao-xixue — 第567章 二问姚惜雪——封印加码、传抽魄术、赴天妖郡京都 · kind=plot asOf=2026-08-22 entities=34 relations=48 src=00537-00541.p4.md
+- **2026-08-22T09:28:44.892Z** `ingest` plot.xianni-ch568-tianyao-city-familiar-face — 第568章 熟人——王林随莫厉海入天妖城燕京，妖将大比前夕遇熟人 · kind=plot asOf=2026-08-22 entities=22 relations=38 src=00537-00541.p5.md

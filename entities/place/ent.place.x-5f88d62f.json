@@ -3,13 +3,19 @@
   "type": "place",
   "name": "天妖城",
   "aliases": [
-    "天妖城资格"
+    "天妖城资格",
+    "天妖郡京城"
   ],
   "summary": "天运星上的城池，需以妖晶/结晶换取进入资格，黑衣男子猎杀妖灵之兽正为凑足此资格。",
   "attributes": {
     "所属界面": "天运星",
-    "类型": "城池",
-    "特产": "需妖晶换取入城资格"
+    "类型": "京都（九城组合）",
+    "特产": "龙气（九龙山脉散出之雾，吐纳可增修为）",
+    "所属势力": "天妖郡",
+    "方位": "天妖郡北方，龙潭与九龙龙头之前",
+    "规模": "九座与吉妖城相当的城池组合",
+    "上级区域": "天妖郡",
+    "守护": "城外十八座传送阵各有妖兵常年把守"
   },
   "observations": {
     "所属界面": [
@@ -24,6 +30,11 @@
         "value": "城池",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
+      },
+      {
+        "value": "京都（九城组合）",
+        "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+        "seq": 537
       }
     ],
     "特产": [
@@ -31,6 +42,47 @@
         "value": "需妖晶换取入城资格",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
+      },
+      {
+        "value": "龙气（九龙山脉散出之雾，吐纳可增修为）",
+        "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+        "seq": 537,
+        "note": "妖帝命名"
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "天妖郡",
+        "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+        "seq": 537
+      }
+    ],
+    "方位": [
+      {
+        "value": "天妖郡北方，龙潭与九龙龙头之前",
+        "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+        "seq": 537
+      }
+    ],
+    "规模": [
+      {
+        "value": "九座与吉妖城相当的城池组合",
+        "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+        "seq": 537
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "天妖郡",
+        "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+        "seq": 537
+      }
+    ],
+    "守护": [
+      {
+        "value": "城外十八座传送阵各有妖兵常年把守",
+        "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+        "seq": 537
       }
     ]
   },
@@ -44,21 +96,53 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+      "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
       "dated": false,
-      "seq": 500
+      "seq": 537
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+      "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
       "dated": false,
-      "seq": 500
+      "seq": 537,
+      "note": "妖帝命名"
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+      "dated": false,
+      "seq": 537
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+      "dated": false,
+      "seq": 537
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+      "dated": false,
+      "seq": 537
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+      "dated": false,
+      "seq": 537
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+      "dated": false,
+      "seq": 537
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun"
+    "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+    "plot.xianni-ch568-tianyao-city-familiar-face"
   ],
-  "updatedAt": "2026-08-22T01:02:50.933Z"
+  "updatedAt": "2026-08-22T09:28:44.768Z"
 }

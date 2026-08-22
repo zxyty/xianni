@@ -2,12 +2,15 @@
   "id": "ent.person.x-880da070",
   "type": "person",
   "name": "二狗",
-  "aliases": [],
+  "aliases": [
+    "二狗妖兵"
+  ],
   "summary": "威武镖局巡逻护卫，夜间被斩首，头颅抛至火堆。",
   "attributes": {
-    "身份": "威武镖局护卫",
+    "身份": "天妖城守阵妖兵（百年内新兵）",
     "存殁": "死亡",
-    "死因": "巡逻时被黑衣人斩首"
+    "死因": "巡逻时被黑衣人斩首",
+    "性格": "机灵"
   },
   "observations": {
     "身份": [
@@ -15,6 +18,11 @@
         "value": "威武镖局护卫",
         "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
         "seq": 55
+      },
+      {
+        "value": "天妖城守阵妖兵（百年内新兵）",
+        "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+        "seq": 537
       }
     ],
     "存殁": [
@@ -30,15 +38,22 @@
         "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
         "seq": 55
       }
+    ],
+    "性格": [
+      {
+        "value": "机灵",
+        "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+        "seq": 537
+      }
     ]
   },
   "firstSeq": 55,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
+      "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
       "dated": false,
-      "seq": 55
+      "seq": 537
     },
     "存殁": {
       "asOf": null,
@@ -51,12 +66,19 @@
       "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
       "dated": false,
       "seq": 55
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+      "dated": false,
+      "seq": 537
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion"
+    "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
+    "plot.xianni-ch568-tianyao-city-familiar-face"
   ],
-  "updatedAt": "2026-06-22T12:57:09.181Z"
+  "updatedAt": "2026-08-22T09:28:44.765Z"
 }
