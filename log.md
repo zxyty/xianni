@@ -212,3 +212,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T22:37:56.764Z** `ingest` plot.xianni-ch668-four-years-ago-cause-baohe-auction — 第668章 四年前之因——孙析揭幻家丹药之局 · kind=plot asOf=2026-08-22 entities=28 relations=48 src=00626-00630.p3.md
 - **2026-08-22T22:40:05.611Z** `ingest` plot.xianni-ch669-sun-tai-baohe-lou-eight-grade-pill-one-immortal-jade — 第669章 孙泰——一枚仙玉拍下八品丹药，王林重逢东临星故人 · kind=plot asOf=2026-08-22 entities=19 relations=25 src=00626-00630.p4.md
 - **2026-08-22T22:42:45.091Z** `ingest` plot.xianni-ch670-sun-tai-reunion-cause-and-effect — 第670章 生死之上，可是因果——孙泰的落叶归根与王林的因果明悟 · kind=plot asOf=2026-08-22 entities=36 relations=52 src=00626-00630.p5.md
+- **2026-08-22T22:49:54.275Z** `ingest` plot.xianni-ch671-immortal-jade-array-shakes-ranyun-star — 仙逆 第671章 仙风轻拂，树欲不静：王林引爆三十万仙玉冲击修为，震动冉云星三方 · kind=plot asOf=2026-08-22 entities=36 relations=63 src=00631-00635.p1.md
