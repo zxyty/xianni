@@ -4,13 +4,15 @@
   "name": "冉家",
   "aliases": [
     "冉云星冉家",
-    "Ran Family"
+    "Ran Family",
+    "冉家本族",
+    "冉家势力"
   ],
   "summary": "冉云星修真家族，冉月、冉辰、冉风所属；族内有擅长雷系神通的前辈。",
   "attributes": {
-    "据点": "冉云星",
+    "据点": "宝合楼",
     "所属界面": "罗天星域",
-    "理念": "以血脉聚族成势"
+    "理念": "必要时不介意杀人夺宝"
   },
   "observations": {
     "据点": [
@@ -18,6 +20,11 @@
         "value": "冉云星",
         "docId": "plot.xianni-ch660-first-entry-luoyun-star-domain",
         "seq": 618
+      },
+      {
+        "value": "宝合楼",
+        "docId": "plot.xianni-ch669-sun-tai-baohe-lou-eight-grade-pill-one-immortal-jade",
+        "seq": 626
       }
     ],
     "所属界面": [
@@ -32,6 +39,12 @@
         "value": "以血脉聚族成势",
         "docId": "plot.xianni-ch660-first-entry-luoyun-star-domain",
         "seq": 618
+      },
+      {
+        "value": "必要时不介意杀人夺宝",
+        "docId": "plot.xianni-ch669-sun-tai-baohe-lou-eight-grade-pill-one-immortal-jade",
+        "seq": 626,
+        "note": "针对不开眼的出价者"
       }
     ]
   },
@@ -39,9 +52,9 @@
   "attrProvenance": {
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-ch660-first-entry-luoyun-star-domain",
+      "docId": "plot.xianni-ch669-sun-tai-baohe-lou-eight-grade-pill-one-immortal-jade",
       "dated": false,
-      "seq": 618
+      "seq": 626
     },
     "所属界面": {
       "asOf": null,
@@ -51,9 +64,10 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.xianni-ch660-first-entry-luoyun-star-domain",
+      "docId": "plot.xianni-ch669-sun-tai-baohe-lou-eight-grade-pill-one-immortal-jade",
       "dated": false,
-      "seq": 618
+      "seq": 626,
+      "note": "针对不开眼的出价者"
     }
   },
   "contested": false,
@@ -62,7 +76,8 @@
     "plot.xianni-ch660-first-entry-luoyun-star-domain",
     "plot.xianni-ch661-meier-luotian-north-domain",
     "plot.xianni-ch666-nvban-nanzhuang-sun-family-test",
-    "plot.xianni-ch668-four-years-ago-cause-baohe-auction"
+    "plot.xianni-ch668-four-years-ago-cause-baohe-auction",
+    "plot.xianni-ch669-sun-tai-baohe-lou-eight-grade-pill-one-immortal-jade"
   ],
-  "updatedAt": "2026-08-22T22:37:56.601Z"
+  "updatedAt": "2026-08-22T22:40:05.452Z"
 }

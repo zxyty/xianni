@@ -1,27 +1,26 @@
 {
-  "id": "ent.person.x-2e315b4a",
-  "type": "person",
-  "name": "卢姓青年",
+  "id": "ent.item.x-6c318c22",
+  "type": "item",
+  "name": "墨玉盒",
   "aliases": [
-    "宝合楼卢姓青年",
-    "卢姓修士"
+    "盛放蜡丸的墨玉盒"
   ],
-  "summary": "宝合楼中曾阻止王林进入的青年，本章见孙启明对王林恭敬，惊觉自己或许错过了什么。",
+  "summary": "盛放八品丹药蜡丸的容器。",
   "attributes": {
-    "身份": "宝合楼相关人员",
-    "存殁": "存活"
+    "类型": "容器",
+    "用途": "盛装八品丹药"
   },
   "observations": {
-    "身份": [
+    "类型": [
       {
-        "value": "宝合楼相关人员",
+        "value": "容器",
         "docId": "plot.xianni-ch669-sun-tai-baohe-lou-eight-grade-pill-one-immortal-jade",
         "seq": 626
       }
     ],
-    "存殁": [
+    "用途": [
       {
-        "value": "存活",
+        "value": "盛装八品丹药",
         "docId": "plot.xianni-ch669-sun-tai-baohe-lou-eight-grade-pill-one-immortal-jade",
         "seq": 626
       }
@@ -29,13 +28,13 @@
   },
   "firstSeq": 626,
   "attrProvenance": {
-    "身份": {
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-ch669-sun-tai-baohe-lou-eight-grade-pill-one-immortal-jade",
       "dated": false,
       "seq": 626
     },
-    "存殁": {
+    "用途": {
       "asOf": null,
       "docId": "plot.xianni-ch669-sun-tai-baohe-lou-eight-grade-pill-one-immortal-jade",
       "dated": false,
@@ -45,8 +44,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch668-four-years-ago-cause-baohe-auction",
     "plot.xianni-ch669-sun-tai-baohe-lou-eight-grade-pill-one-immortal-jade"
   ],
-  "updatedAt": "2026-08-22T22:40:05.451Z"
+  "updatedAt": "2026-08-22T22:40:05.456Z"
 }
