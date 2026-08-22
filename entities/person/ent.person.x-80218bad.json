@@ -3,11 +3,17 @@
   "type": "person",
   "name": "孙涛",
   "aliases": [
-    "问鼎中期孙涛"
+    "问鼎中期孙涛",
+    "孙涛师兄",
+    "消瘦之人",
+    "Sun Tao"
   ],
   "summary": "问鼎中期修士；王林婴变中期时曾以黄泉指与其一战，王林虽败，但此指令孙涛极大震撼。",
   "attributes": {
-    "小阶段": "问鼎中期"
+    "小阶段": "婴变圆满",
+    "外貌": "面容消瘦、面色略苍白、目光如炬",
+    "身份": "王林的同系师兄",
+    "元神强度": "受损"
   },
   "observations": {
     "小阶段": [
@@ -16,6 +22,34 @@
         "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
         "seq": 534,
         "note": "王林婴变中期时的回忆"
+      },
+      {
+        "value": "婴变圆满",
+        "docId": "plot.xianni-ch569-luanjing-preface-tianyao-city",
+        "seq": 542,
+        "note": "第569章因重伤自问鼎中期跌落，伤及元神被强行压制"
+      }
+    ],
+    "外貌": [
+      {
+        "value": "面容消瘦、面色略苍白、目光如炬",
+        "docId": "plot.xianni-ch569-luanjing-preface-tianyao-city",
+        "seq": 542
+      }
+    ],
+    "身份": [
+      {
+        "value": "王林的同系师兄",
+        "docId": "plot.xianni-ch569-luanjing-preface-tianyao-city",
+        "seq": 542
+      }
+    ],
+    "元神强度": [
+      {
+        "value": "受损",
+        "docId": "plot.xianni-ch569-luanjing-preface-tianyao-city",
+        "seq": 542,
+        "note": "重伤波及元神"
       }
     ]
   },
@@ -23,16 +57,36 @@
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
+      "docId": "plot.xianni-ch569-luanjing-preface-tianyao-city",
       "dated": false,
-      "seq": 534,
-      "note": "王林婴变中期时的回忆"
+      "seq": 542,
+      "note": "第569章因重伤自问鼎中期跌落，伤及元神被强行压制"
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch569-luanjing-preface-tianyao-city",
+      "dated": false,
+      "seq": 542
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch569-luanjing-preface-tianyao-city",
+      "dated": false,
+      "seq": 542
+    },
+    "元神强度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch569-luanjing-preface-tianyao-city",
+      "dated": false,
+      "seq": 542,
+      "note": "重伤波及元神"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber"
+    "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
+    "plot.xianni-ch569-luanjing-preface-tianyao-city"
   ],
-  "updatedAt": "2026-08-22T08:21:23.127Z"
+  "updatedAt": "2026-08-22T09:36:44.831Z"
 }

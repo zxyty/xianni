@@ -3,14 +3,18 @@
   "type": "place",
   "name": "洪城",
   "aliases": [
-    "天洪城"
+    "天洪城",
+    "Hong Cheng",
+    "洪城城区"
   ],
   "summary": "天妖城外八城之一，属外环武将居住之城，位于西门岔口之右；莫厉海府邸所在，城内商铺遍地极为繁华，街心设军道。",
   "attributes": {
     "所属势力": "天妖郡",
-    "类型": "外城（外环·武将）",
+    "类型": "城池",
     "方位": "天妖城西门内，岔口向右",
-    "上级区域": "天妖城"
+    "上级区域": "天妖城",
+    "所属界面": "妖灵之地",
+    "特产": "衣着开放的风俗、临河画舫"
   },
   "observations": {
     "所属势力": [
@@ -25,6 +29,11 @@
         "value": "外城（外环·武将）",
         "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
         "seq": 537
+      },
+      {
+        "value": "城池",
+        "docId": "plot.xianni-ch569-luanjing-preface-tianyao-city",
+        "seq": 542
       }
     ],
     "方位": [
@@ -40,6 +49,21 @@
         "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
         "seq": 537
       }
+    ],
+    "所属界面": [
+      {
+        "value": "妖灵之地",
+        "docId": "plot.xianni-ch569-luanjing-preface-tianyao-city",
+        "seq": 542
+      }
+    ],
+    "特产": [
+      {
+        "value": "衣着开放的风俗、临河画舫",
+        "docId": "plot.xianni-ch569-luanjing-preface-tianyao-city",
+        "seq": 542,
+        "note": "本章所见"
+      }
     ]
   },
   "firstSeq": 537,
@@ -52,9 +76,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+      "docId": "plot.xianni-ch569-luanjing-preface-tianyao-city",
       "dated": false,
-      "seq": 537
+      "seq": 542
     },
     "方位": {
       "asOf": null,
@@ -67,12 +91,26 @@
       "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
       "dated": false,
       "seq": 537
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch569-luanjing-preface-tianyao-city",
+      "dated": false,
+      "seq": 542
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch569-luanjing-preface-tianyao-city",
+      "dated": false,
+      "seq": 542,
+      "note": "本章所见"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch568-tianyao-city-familiar-face"
+    "plot.xianni-ch568-tianyao-city-familiar-face",
+    "plot.xianni-ch569-luanjing-preface-tianyao-city"
   ],
-  "updatedAt": "2026-08-22T09:28:44.770Z"
+  "updatedAt": "2026-08-22T09:36:44.866Z"
 }
