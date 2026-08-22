@@ -2,12 +2,14 @@
   "id": "ent.place.x-cf8aa3ae",
   "type": "place",
   "name": "北城",
-  "aliases": [],
+  "aliases": [
+    "孙家小城北城"
+  ],
   "summary": "明玫城中设有盘查的区域，共九间店铺，最里面一家为商氏店铺。",
   "attributes": {
     "类型": "城区",
-    "方位": "明玫城北部",
-    "上级区域": "明玫城",
+    "方位": "孙家小城北部",
+    "上级区域": "孙家小城",
     "规模": "九间店铺"
   },
   "observations": {
@@ -23,6 +25,11 @@
         "value": "明玫城北部",
         "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
         "seq": 452
+      },
+      {
+        "value": "孙家小城北部",
+        "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
+        "seq": 631
       }
     ],
     "上级区域": [
@@ -30,6 +37,11 @@
         "value": "明玫城",
         "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
         "seq": 452
+      },
+      {
+        "value": "孙家小城",
+        "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
+        "seq": 631
       }
     ],
     "规模": [
@@ -50,15 +62,15 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+      "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
       "dated": false,
-      "seq": 452
+      "seq": 631
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+      "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
       "dated": false,
-      "seq": 452
+      "seq": 631
     },
     "规模": {
       "asOf": null,
@@ -70,7 +82,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye"
+    "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+    "plot.xianni-ch672-cause-effect-cycle-seeking-life-death"
   ],
-  "updatedAt": "2026-08-21T06:06:51.781Z"
+  "updatedAt": "2026-08-22T22:57:34.912Z"
 }

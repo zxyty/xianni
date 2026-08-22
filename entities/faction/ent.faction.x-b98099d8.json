@@ -14,7 +14,8 @@
   "attributes": {
     "据点": "冉云星、宝合楼、冉云星、宝合楼、冉家祖宅（冉云星中央）、冉家祖宅",
     "所属界面": "冉云星",
-    "理念": "必要时不介意杀人夺宝"
+    "理念": "必要时不介意杀人夺宝",
+    "阵营": "冉云星本土势力"
   },
   "observations": {
     "据点": [
@@ -68,6 +69,13 @@
         "seq": 626,
         "note": "针对不开眼的出价者"
       }
+    ],
+    "阵营": [
+      {
+        "value": "冉云星本土势力",
+        "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
+        "seq": 631
+      }
     ]
   },
   "firstSeq": 618,
@@ -90,6 +98,12 @@
       "dated": false,
       "seq": 626,
       "note": "针对不开眼的出价者"
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
+      "dated": false,
+      "seq": 631
     }
   },
   "contested": false,
@@ -101,7 +115,8 @@
     "plot.xianni-ch668-four-years-ago-cause-baohe-auction",
     "plot.xianni-ch669-sun-tai-baohe-lou-eight-grade-pill-one-immortal-jade",
     "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
-    "plot.xianni-ch671-immortal-jade-array-shakes-ranyun-star"
+    "plot.xianni-ch671-immortal-jade-array-shakes-ranyun-star",
+    "plot.xianni-ch672-cause-effect-cycle-seeking-life-death"
   ],
-  "updatedAt": "2026-08-22T22:49:54.119Z"
+  "updatedAt": "2026-08-22T22:57:34.885Z"
 }

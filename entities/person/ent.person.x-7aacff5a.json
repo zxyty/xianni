@@ -3,14 +3,18 @@
   "type": "person",
   "name": "幻家老祖",
   "aliases": [
-    "幻家老祖宗"
+    "幻家老祖宗",
+    "面容消瘦的老者",
+    "柳眉的义父"
   ],
   "summary": "王林此前交手的第二步修士，真正修为曾达窥捏初期，即便跌落仍强于寻常阴阳虚实修士。",
   "attributes": {
     "小阶段": "窥捏初期",
     "存殁": "本片段为回忆提及",
     "身份": "幻家老祖",
-    "阵营": "回忆提及"
+    "阵营": "回忆提及",
+    "外貌": "面容消瘦的老者",
+    "性格": "冰冷、果断"
   },
   "observations": {
     "小阶段": [
@@ -32,7 +36,7 @@
       {
         "value": "幻家老祖",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
-        "seq": 661
+        "seq": 631
       }
     ],
     "阵营": [
@@ -40,10 +44,29 @@
         "value": "回忆提及",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
+      },
+      {
+        "value": "幻家",
+        "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
+        "seq": 631
+      }
+    ],
+    "外貌": [
+      {
+        "value": "面容消瘦的老者",
+        "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
+        "seq": 631
+      }
+    ],
+    "性格": [
+      {
+        "value": "冰冷、果断",
+        "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
+        "seq": 631
       }
     ]
   },
-  "firstSeq": 661,
+  "firstSeq": 631,
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
@@ -62,19 +85,32 @@
       "asOf": null,
       "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
       "dated": false,
-      "seq": 661
+      "seq": 631
     },
     "阵营": {
       "asOf": null,
       "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
       "dated": false,
       "seq": 661
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
+      "dated": false,
+      "seq": 631
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
+      "dated": false,
+      "seq": 631
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power"
+    "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+    "plot.xianni-ch672-cause-effect-cycle-seeking-life-death"
   ],
-  "updatedAt": "2026-08-17T14:25:16.447Z"
+  "updatedAt": "2026-08-22T22:57:34.880Z"
 }

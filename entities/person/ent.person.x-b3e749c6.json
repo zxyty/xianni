@@ -1,49 +1,42 @@
 {
-  "id": "ent.person.x-a6acb6a1",
+  "id": "ent.person.x-b3e749c6",
   "type": "person",
-  "name": "逍遥居士",
+  "name": "幻封神",
   "aliases": [
-    "逍遥散人",
-    "赵某",
-    "赵兄",
-    "玄冰内修炼的中年男子",
-    "逍遥散人前辈"
+    "幻家家主幻封神",
+    "幻家家主"
   ],
-  "summary": "四年前与孙析、冉家老祖共同偷袭幻家修士的三人之一，分得一粒八品丹药。",
+  "summary": "幻家家主，向幻家老祖汇报失踪族人一事，请求再给三个月寻找更具资格之人，心中对老祖为外人换血、扶持幻眉不满。",
   "attributes": {
-    "身份": "散修 / 小家族修士、散修",
-    "外貌": "中年男子",
-    "标志特征": "曾在玄冰内修炼"
+    "身份": "幻家家主",
+    "阵营": "幻家",
+    "性格": "表面恭敬、内心阴沉不满"
   },
   "observations": {
     "身份": [
       {
-        "value": "散修 / 小家族修士",
-        "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
-        "seq": 631
-      },
-      {
-        "value": "散修",
+        "value": "幻家家主",
         "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
         "seq": 631
       }
     ],
-    "外貌": [
+    "阵营": [
       {
-        "value": "中年男子",
+        "value": "幻家",
         "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
         "seq": 631
       }
     ],
-    "标志特征": [
+    "性格": [
       {
-        "value": "曾在玄冰内修炼",
+        "value": "表面恭敬、内心阴沉不满",
         "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
-        "seq": 631
+        "seq": 631,
+        "note": "本章告退后内心独白"
       }
     ]
   },
-  "firstSeq": 626,
+  "firstSeq": 631,
   "attrProvenance": {
     "身份": {
       "asOf": null,
@@ -51,24 +44,24 @@
       "dated": false,
       "seq": 631
     },
-    "外貌": {
+    "阵营": {
       "asOf": null,
       "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
       "dated": false,
       "seq": 631
     },
-    "标志特征": {
+    "性格": {
       "asOf": null,
       "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
       "dated": false,
-      "seq": 631
+      "seq": 631,
+      "note": "本章告退后内心独白"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch668-four-years-ago-cause-baohe-auction",
     "plot.xianni-ch672-cause-effect-cycle-seeking-life-death"
   ],
-  "updatedAt": "2026-08-22T22:57:34.907Z"
+  "updatedAt": "2026-08-22T22:57:34.878Z"
 }

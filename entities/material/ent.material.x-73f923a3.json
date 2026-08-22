@@ -1,63 +1,55 @@
 {
-  "id": "ent.person.x-a6acb6a1",
-  "type": "person",
-  "name": "逍遥居士",
+  "id": "ent.material.x-73f923a3",
+  "type": "material",
+  "name": "火石（天然炼器材料）",
   "aliases": [
-    "逍遥散人",
-    "赵某",
-    "赵兄",
-    "玄冰内修炼的中年男子",
-    "逍遥散人前辈"
+    "炼器材料火石",
+    "天然形成的炼器材料"
   ],
-  "summary": "四年前与孙析、冉家老祖共同偷袭幻家修士的三人之一，分得一粒八品丹药。",
+  "summary": "天然形成的炼器材料之一，金属性、硬度极强、内蕴奇异神通，摩擦可引出金火火星。",
   "attributes": {
-    "身份": "散修 / 小家族修士、散修",
-    "外貌": "中年男子",
-    "标志特征": "曾在玄冰内修炼"
+    "类型": "金属性天然炼器材料",
+    "用途": "炼器，或直接作法宝使用",
+    "稀有度": "极少，天然形成法宝数量甚至比传承法宝还少"
   },
   "observations": {
-    "身份": [
+    "类型": [
       {
-        "value": "散修 / 小家族修士",
-        "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
-        "seq": 631
-      },
-      {
-        "value": "散修",
+        "value": "金属性天然炼器材料",
         "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
         "seq": 631
       }
     ],
-    "外貌": [
+    "用途": [
       {
-        "value": "中年男子",
+        "value": "炼器，或直接作法宝使用",
         "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
         "seq": 631
       }
     ],
-    "标志特征": [
+    "稀有度": [
       {
-        "value": "曾在玄冰内修炼",
+        "value": "极少，天然形成法宝数量甚至比传承法宝还少",
         "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
         "seq": 631
       }
     ]
   },
-  "firstSeq": 626,
+  "firstSeq": 631,
   "attrProvenance": {
-    "身份": {
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
       "dated": false,
       "seq": 631
     },
-    "外貌": {
+    "用途": {
       "asOf": null,
       "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
       "dated": false,
       "seq": 631
     },
-    "标志特征": {
+    "稀有度": {
       "asOf": null,
       "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
       "dated": false,
@@ -67,8 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch668-four-years-ago-cause-baohe-auction",
     "plot.xianni-ch672-cause-effect-cycle-seeking-life-death"
   ],
-  "updatedAt": "2026-08-22T22:57:34.907Z"
+  "updatedAt": "2026-08-22T22:57:34.917Z"
 }

@@ -4,14 +4,17 @@
   "name": "房府",
   "aliases": [
     "城北居所",
-    "冉云星房府"
+    "冉云星房府",
+    "房家府邸",
+    "房府住处"
   ],
   "summary": "冉云星城北供修士居住闭关的府邸，灵气比城外浓郁，门外由女扮男装的守卫看守多年。",
   "attributes": {
     "方位": "冉云星城内城北",
-    "类型": "修士居所/闭关之地",
+    "类型": "府邸",
     "特产": "灵气比城外浓郁",
-    "守护": "房府守卫女修"
+    "守护": "房府守卫女修",
+    "上级区域": "孙家小城"
   },
   "observations": {
     "方位": [
@@ -26,6 +29,11 @@
         "value": "修士居所/闭关之地",
         "docId": "plot.xianni-ch666-nvban-nanzhuang-sun-family-test",
         "seq": 626
+      },
+      {
+        "value": "府邸",
+        "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
+        "seq": 631
       }
     ],
     "特产": [
@@ -41,6 +49,13 @@
         "docId": "plot.xianni-ch666-nvban-nanzhuang-sun-family-test",
         "seq": 626
       }
+    ],
+    "上级区域": [
+      {
+        "value": "孙家小城",
+        "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
+        "seq": 631
+      }
     ]
   },
   "firstSeq": 626,
@@ -53,9 +68,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch666-nvban-nanzhuang-sun-family-test",
+      "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
       "dated": false,
-      "seq": 626
+      "seq": 631
     },
     "特产": {
       "asOf": null,
@@ -68,12 +83,19 @@
       "docId": "plot.xianni-ch666-nvban-nanzhuang-sun-family-test",
       "dated": false,
       "seq": 626
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
+      "dated": false,
+      "seq": 631
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch666-nvban-nanzhuang-sun-family-test"
+    "plot.xianni-ch666-nvban-nanzhuang-sun-family-test",
+    "plot.xianni-ch672-cause-effect-cycle-seeking-life-death"
   ],
-  "updatedAt": "2026-08-22T22:32:22.158Z"
+  "updatedAt": "2026-08-22T22:57:34.914Z"
 }
