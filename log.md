@@ -181,3 +181,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T17:14:09.754Z** `ingest` plot.xianni-ch628-million-slaughter-qi-break-fire-yao-seal — 第628章 百万杀戮——王林以十万杀戮之气十倍分裂，破火妖郡燕京妖气封印 · kind=plot asOf=2026-08-22 entities=16 relations=26 src=00586-00590.p5.md
 - **2026-08-22T17:16:18.238Z** `ingest` plot.xianni-ch629-ancient-demon-war-fire-yao-jun — 第629章 古妖之战——王林破妖幕、踏入五十丈施印诀，贝罗血凝降世 · kind=plot asOf=2026-08-22 entities=19 relations=25 src=00591-00595.p1.md
 - **2026-08-22T17:19:01.710Z** `ingest` plot.xianni-ch630-gray-figure-fusion — 第630章 灰色身影——王林碎雕像取古妖手骨，融合杀戮仙诀灰影 · kind=plot asOf=2026-08-22 entities=20 relations=31 src=00591-00595.p2.md
+- **2026-08-22T17:22:01.694Z** `ingest` plot.xianni-ch631-its-companions — 仙逆 第631章 它的同伴——古妖贝罗践约指路潮汐深渊，贪狼辰龙受阻蚊兽群 · kind=plot asOf=2026-08-22 entities=29 relations=42 src=00591-00595.p3.md

@@ -4,12 +4,14 @@
   "name": "水妖郡",
   "aliases": [
     "Shui Yao Jun",
-    "水妖郡势力"
+    "水妖郡势力",
+    "水妖郡(妖灵九郡之一)"
   ],
   "summary": "妖灵九郡之一，本章派一位女副帅率十万妖兵合围炼魂部落，约定取走部落族人研究。",
   "attributes": {
     "等级": "妖灵七郡之一",
-    "阵营": "妖灵九郡"
+    "阵营": "妖灵九郡",
+    "所属界面": "妖灵之地"
   },
   "observations": {
     "等级": [
@@ -24,6 +26,13 @@
         "value": "妖灵九郡",
         "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
         "seq": 586
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "妖灵之地",
+        "docId": "plot.xianni-ch631-its-companions",
+        "seq": 591
       }
     ]
   },
@@ -40,12 +49,19 @@
       "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
       "dated": false,
       "seq": 586
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch631-its-companions",
+      "dated": false,
+      "seq": 591
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch627-chuguan-lianhun-tribe-siege"
+    "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
+    "plot.xianni-ch631-its-companions"
   ],
-  "updatedAt": "2026-08-22T17:12:06.914Z"
+  "updatedAt": "2026-08-22T17:22:01.536Z"
 }

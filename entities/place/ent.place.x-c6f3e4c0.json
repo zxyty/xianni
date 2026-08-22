@@ -12,16 +12,17 @@
     "天妖城外的龙潭",
     "天妖城外龙潭",
     "Long Tan",
-    "古妖龙潭"
+    "古妖龙潭",
+    "天妖城龙潭"
   ],
   "summary": "九龙山脉九条龙头所向的一弘幽潭，天妖郡精神象征古妖之殿即在潭内，潭外重兵把守。",
   "attributes": {
     "所属势力": "各妖郡的古妖类存在",
-    "类型": "幽潭／圣地、禁地、秘地、惩戒之地、圣物/圣地、试炼／磨练之地、试炼/洗礼之地、秘境/圣地、教化之地、禁地/囚地、潭/秘地、灵潭·修炼禁地、禁地/要地",
+    "类型": "幽潭／圣地、禁地、秘地、惩戒之地、圣物/圣地、试炼／磨练之地、试炼/洗礼之地、秘境/圣地、教化之地、禁地/囚地、潭/秘地、灵潭·修炼禁地、禁地/要地、潭／修炼地",
     "方位": "天妖城外",
     "危险度": "高（磨练性质）",
     "守护": "重兵、古妖之灵、古妖、大量妖兵、隐匿的强者",
-    "上级区域": "天妖郡",
+    "上级区域": "天妖城",
     "特产": "蕴含浓郁妖气之水"
   },
   "observations": {
@@ -112,6 +113,11 @@
         "value": "禁地/要地",
         "docId": "plot.xianni-ch626-white-robed-corpse-identity-qingshuang",
         "seq": 586
+      },
+      {
+        "value": "潭／修炼地",
+        "docId": "plot.xianni-ch631-its-companions",
+        "seq": 591
       }
     ],
     "方位": [
@@ -175,6 +181,11 @@
         "value": "天妖郡",
         "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
         "seq": 550
+      },
+      {
+        "value": "天妖城",
+        "docId": "plot.xianni-ch631-its-companions",
+        "seq": 591
       }
     ],
     "特产": [
@@ -219,9 +230,9 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
+      "docId": "plot.xianni-ch631-its-companions",
       "dated": false,
-      "seq": 550
+      "seq": 591
     },
     "特产": {
       "asOf": null,
@@ -243,7 +254,8 @@
     "plot.xianni-ch598-wending-crystal",
     "plot.xianni-ch610-da-gong-gao-cheng",
     "plot.chapter-612-second-yuanshen-longtan-cave",
-    "plot.xianni-ch626-white-robed-corpse-identity-qingshuang"
+    "plot.xianni-ch626-white-robed-corpse-identity-qingshuang",
+    "plot.xianni-ch631-its-companions"
   ],
-  "updatedAt": "2026-08-22T17:05:04.813Z"
+  "updatedAt": "2026-08-22T17:22:01.538Z"
 }

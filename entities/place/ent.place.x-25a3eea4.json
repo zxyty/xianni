@@ -5,15 +5,17 @@
   "aliases": [
     "深渊",
     "潮汐",
-    "潮汐深渊入口"
+    "潮汐深渊入口",
+    "Tide Abyss"
   ],
   "summary": "妖灵之地中的险地，当年姚惜雪之父与天运子等人问出神秘之地后即前往此处。",
   "attributes": {
-    "类型": "深渊/险地",
+    "类型": "空间坍塌形成的通道／深渊",
     "上级区域": "妖灵之地",
     "所属界面": "妖灵之地",
     "方位": "入口在火妖郡内",
-    "特产": "青霖仙令（金色令牌）"
+    "特产": "青霖仙令（金色令牌）、被吸入的法宝、晶石、灵兽",
+    "危险度": "极高（强大妖兽群，包括黑色蚊兽）"
   },
   "observations": {
     "类型": [
@@ -21,6 +23,11 @@
         "value": "深渊/险地",
         "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
         "seq": 527
+      },
+      {
+        "value": "空间坍塌形成的通道／深渊",
+        "docId": "plot.xianni-ch631-its-companions",
+        "seq": 591
       }
     ],
     "上级区域": [
@@ -49,6 +56,28 @@
         "value": "青霖仙令（金色令牌）",
         "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
         "seq": 576
+      },
+      {
+        "value": "被吸入的法宝",
+        "docId": "plot.xianni-ch631-its-companions",
+        "seq": 591
+      },
+      {
+        "value": "晶石",
+        "docId": "plot.xianni-ch631-its-companions",
+        "seq": 591
+      },
+      {
+        "value": "灵兽",
+        "docId": "plot.xianni-ch631-its-companions",
+        "seq": 591
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高（强大妖兽群，包括黑色蚊兽）",
+        "docId": "plot.xianni-ch631-its-companions",
+        "seq": 591
       }
     ]
   },
@@ -56,9 +85,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
+      "docId": "plot.xianni-ch631-its-companions",
       "dated": false,
-      "seq": 527
+      "seq": 591
     },
     "上级区域": {
       "asOf": null,
@@ -83,13 +112,20 @@
       "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
       "dated": false,
       "seq": 576
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch631-its-companions",
+      "dated": false,
+      "seq": 591
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
-    "plot.xianni-ch616-immortal-emperor-qinglin-secret"
+    "plot.xianni-ch616-immortal-emperor-qinglin-secret",
+    "plot.xianni-ch631-its-companions"
   ],
-  "updatedAt": "2026-08-22T16:18:39.255Z"
+  "updatedAt": "2026-08-22T17:22:01.531Z"
 }
