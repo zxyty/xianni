@@ -192,3 +192,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T18:32:59.396Z** `ingest` plot.xianni-ch639-zhou-yi-benming-jianqi — 第639章 周佚的本命剑气——雨之仙剑剑灵破封，青霜身世点醒 · kind=plot asOf=2026-08-22 entities=20 relations=28 src=00600-00604.p2.md
 - **2026-08-22T18:35:07.163Z** `ingest` plot.xianni-ch640-two-gifts-and-the-tidal-abyss-pit — 第640章 大礼！小坑！——周佚赠剑传承，潮汐深渊底部巨坑 · kind=plot asOf=2026-08-22 entities=21 relations=30 src=00600-00604.p3.md
 - **2026-08-22T18:43:18.193Z** `ingest` plot.xianni-ch641-yunxian-daolv-wangwei-hujuan-purple-mist-pit — 第641章 云仙道侣：王巍、胡娟——画轴娇影指引深坑、周佚载王林穿紫雾夺金色大剑 · kind=plot asOf=2026-08-22 entities=46 relations=74 src=00600-00604.p4.md
+- **2026-08-22T18:46:10.504Z** `ingest` plot.xianni-ch642-purple-mist-mosquito-beast — 第642章 紫雾蚊兽：云仙道侣王巍夫妇伏于火妖郡出口，王林途中遇紫雾困修士 · kind=plot asOf=2026-08-22 entities=23 relations=40 src=00600-00604.p5.md
