@@ -145,3 +145,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T11:46:59.456Z** `ingest` plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum — 仙逆 第582章（下）：河畔琴音悟「逆」、画舫夜谈，妖将第二轮改为敲战妖鼓 · kind=plot asOf=2026-08-22 entities=59 relations=117 src=00550-00550.p2.md
 - **2026-08-22T12:06:29.379Z** `ingest` plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui — 仙逆 第551-555章 妖鼓八响·言出法随 · kind=plot asOf=2026-08-22 entities=55 relations=109 src=00551-00555.md
 - **2026-08-22T12:44:04.467Z** `ingest` plot.chapter-595-simplest-heavenly-tribulation-no — 第595章 最简单的天劫？不！——王林燕京广场逆天引劫 · kind=plot asOf=2026-08-22 entities=33 relations=39 src=00556-00560.p1.md
+- **2026-08-22T12:46:20.531Z** `ingest` plot.xianni-ch596-tianwei-heavenly-might — 第596章 天威——化魔指破红雷，天劫二度以天威碾碎燕京 · kind=plot asOf=2026-08-22 entities=22 relations=25 src=00556-00560.p2.md

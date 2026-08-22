@@ -7,8 +7,8 @@
   ],
   "summary": "瞬移类法术，身周现银芒后踏步即遁，可连续挪移。",
   "attributes": {
-    "类型": "空间移动",
-    "威力": "银芒现身后踏出七步即身影无影，可连续挪移",
+    "类型": "空间转移神通",
+    "威力": "瞬间转移一城居民",
     "消耗": "体内仙力"
   },
   "observations": {
@@ -22,6 +22,11 @@
         "value": "空间移动",
         "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
         "seq": 518
+      },
+      {
+        "value": "空间转移神通",
+        "docId": "plot.xianni-ch596-tianwei-heavenly-might",
+        "seq": 556
       }
     ],
     "威力": [
@@ -29,6 +34,11 @@
         "value": "银芒现身后踏出七步即身影无影，可连续挪移",
         "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
         "seq": 467
+      },
+      {
+        "value": "瞬间转移一城居民",
+        "docId": "plot.xianni-ch596-tianwei-heavenly-might",
+        "seq": 556
       }
     ],
     "消耗": [
@@ -43,15 +53,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch518-522-jincheng-guyaocheng",
+      "docId": "plot.xianni-ch596-tianwei-heavenly-might",
       "dated": false,
-      "seq": 518
+      "seq": 556
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+      "docId": "plot.xianni-ch596-tianwei-heavenly-might",
       "dated": false,
-      "seq": 467
+      "seq": 556
     },
     "消耗": {
       "asOf": null,
@@ -64,7 +74,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
-    "plot.xianni-ch518-522-jincheng-guyaocheng"
+    "plot.xianni-ch518-522-jincheng-guyaocheng",
+    "plot.xianni-ch596-tianwei-heavenly-might"
   ],
-  "updatedAt": "2026-08-22T06:58:54.750Z"
+  "updatedAt": "2026-08-22T12:46:20.412Z"
 }
