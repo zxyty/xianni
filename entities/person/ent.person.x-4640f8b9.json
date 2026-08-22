@@ -3,12 +3,18 @@
   "type": "person",
   "name": "火妖郡古妖",
   "aliases": [
-    "火妖郡的古妖"
+    "火妖郡的古妖",
+    "火妖郡内的古妖",
+    "燕京城内古妖",
+    "都城内蛮横神识"
   ],
   "summary": "火妖郡的古妖，效仿天妖郡以自身神通封印都城，战时不许任何人踏入帝部。",
   "attributes": {
-    "身份": "火妖郡古妖",
-    "阵营": "火妖郡"
+    "身份": "火妖郡古妖、火妖郡主宰",
+    "阵营": "火妖郡",
+    "种族": "古妖",
+    "神识": "蛮横、怒吼可震撼元神",
+    "标志特征": "布下燕京外十里妖气封印"
   },
   "observations": {
     "身份": [
@@ -16,12 +22,38 @@
         "value": "火妖郡古妖",
         "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
         "seq": 586
+      },
+      {
+        "value": "火妖郡主宰",
+        "docId": "plot.xianni-ch628-million-slaughter-qi-break-fire-yao-seal",
+        "seq": 586
       }
     ],
     "阵营": [
       {
         "value": "火妖郡",
         "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
+        "seq": 586
+      }
+    ],
+    "种族": [
+      {
+        "value": "古妖",
+        "docId": "plot.xianni-ch628-million-slaughter-qi-break-fire-yao-seal",
+        "seq": 586
+      }
+    ],
+    "神识": [
+      {
+        "value": "蛮横、怒吼可震撼元神",
+        "docId": "plot.xianni-ch628-million-slaughter-qi-break-fire-yao-seal",
+        "seq": 586
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "布下燕京外十里妖气封印",
+        "docId": "plot.xianni-ch628-million-slaughter-qi-break-fire-yao-seal",
         "seq": 586
       }
     ]
@@ -39,12 +71,31 @@
       "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
       "dated": false,
       "seq": 586
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch628-million-slaughter-qi-break-fire-yao-seal",
+      "dated": false,
+      "seq": 586
+    },
+    "神识": {
+      "asOf": null,
+      "docId": "plot.xianni-ch628-million-slaughter-qi-break-fire-yao-seal",
+      "dated": false,
+      "seq": 586
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch628-million-slaughter-qi-break-fire-yao-seal",
+      "dated": false,
+      "seq": 586
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch627-chuguan-lianhun-tribe-siege"
+    "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
+    "plot.xianni-ch628-million-slaughter-qi-break-fire-yao-seal"
   ],
-  "updatedAt": "2026-08-22T17:12:06.899Z"
+  "updatedAt": "2026-08-22T17:14:09.613Z"
 }
