@@ -17,9 +17,10 @@
     "阵营": "天运宗、叛逃师门、叛出天运宗、天运宗紫系、天运宗紫系一脉、天运子门下紫系",
     "身份": "天运七子之一（紫系）、天运七子封号得主、紫系一脉前老七、前天运七子、旧任紫系第七子、紫系一脉昔日天运七子、天运宗紫系弟子、天运宗紫系一脉弟子、背叛师尊者",
     "称号": "古妖都为之惊艳的天才",
-    "存殁": "不明",
+    "存殁": "死亡",
     "小阶段": "婴变后期",
-    "标志特征": "在古妖传承中自创一套神通，天资不弱于古妖一族、可在传承感悟中自创神通并无数次推衍修正"
+    "标志特征": "在古妖传承中自创一套神通，天资不弱于古妖一族、可在传承感悟中自创神通并无数次推衍修正",
+    "死因": "与天运子大战后被天运子施展神通整个吞噬"
   },
   "observations": {
     "阵营": [
@@ -125,6 +126,12 @@
         "value": "不明",
         "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
         "seq": 457
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
+        "seq": 609,
+        "note": "据山精记忆的往事转述，第651章由杜建披露"
       }
     ],
     "小阶段": [
@@ -145,6 +152,13 @@
         "value": "可在传承感悟中自创神通并无数次推衍修正",
         "docId": "plot.xianni-ch632-tanlang-daluo-disciples-trapped-tide-abyss",
         "seq": 591
+      }
+    ],
+    "死因": [
+      {
+        "value": "与天运子大战后被天运子施展神通整个吞噬",
+        "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
+        "seq": 609
       }
     ]
   },
@@ -171,9 +185,10 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
+      "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
       "dated": false,
-      "seq": 457
+      "seq": 609,
+      "note": "据山精记忆的往事转述，第651章由杜建披露"
     },
     "小阶段": {
       "asOf": null,
@@ -187,6 +202,12 @@
       "docId": "plot.xianni-ch631-its-companions",
       "dated": false,
       "seq": 591
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
+      "dated": false,
+      "seq": 609
     }
   },
   "contested": false,
@@ -201,7 +222,8 @@
     "plot.xianni-ch631-its-companions",
     "plot.xianni-ch632-tanlang-daluo-disciples-trapped-tide-abyss",
     "plot.xianni-ch634-tidal-abyss-du-jian-trap",
-    "plot.xianni-ch635-du-jian-devoured-by-light-eating-bugs"
+    "plot.xianni-ch635-du-jian-devoured-by-light-eating-bugs",
+    "plot.xianni-ch609-613-tangulang-ding-tanlang-chase"
   ],
-  "updatedAt": "2026-08-22T18:21:57.542Z"
+  "updatedAt": "2026-08-22T19:24:59.690Z"
 }

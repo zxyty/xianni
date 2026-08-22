@@ -7,14 +7,18 @@
     "巨大的深坑",
     "深坑",
     "封印黑球的深坑",
-    "地裂深坑"
+    "地裂深坑",
+    "万丈深坑",
+    "深不见底的深坑",
+    "吸力深坑"
   ],
   "summary": "进入仙遗之地的巨大深坑，本尊打出上千裂缝后抵此，低头一看便转向他处。",
   "attributes": {
     "上级区域": "仙遗之地",
-    "类型": "地下深坑",
+    "类型": "禁地/绝地",
     "方位": "仙遗山林正中间",
-    "守护": "多重法术禁制与王林的最后一道封印"
+    "守护": "坑底不明吸力来源",
+    "危险度": "极高（吸力数倍暴涨，可拖走太古雷龙）"
   },
   "observations": {
     "上级区域": [
@@ -39,6 +43,11 @@
         "value": "地下深坑",
         "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
         "seq": 423
+      },
+      {
+        "value": "禁地/绝地",
+        "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
+        "seq": 609
       }
     ],
     "方位": [
@@ -54,6 +63,18 @@
         "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
         "seq": 423,
         "note": "第448章"
+      },
+      {
+        "value": "坑底不明吸力来源",
+        "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
+        "seq": 609
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高（吸力数倍暴涨，可拖走太古雷龙）",
+        "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
+        "seq": 609
       }
     ]
   },
@@ -67,9 +88,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+      "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
       "dated": false,
-      "seq": 423
+      "seq": 609
     },
     "方位": {
       "asOf": null,
@@ -79,10 +100,15 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+      "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
       "dated": false,
-      "seq": 423,
-      "note": "第448章"
+      "seq": 609
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
+      "dated": false,
+      "seq": 609
     }
   },
   "contested": false,
@@ -90,7 +116,8 @@
   "docs": [
     "plot.xianni-ch352-fu-kui-space-rift-flight",
     "plot.xianni-ch356-departure-immortal-remains-void-rift",
-    "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits"
+    "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
+    "plot.xianni-ch609-613-tangulang-ding-tanlang-chase"
   ],
-  "updatedAt": "2026-08-21T01:55:03.843Z"
+  "updatedAt": "2026-08-22T19:24:59.673Z"
 }

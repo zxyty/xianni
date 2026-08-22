@@ -8,20 +8,22 @@
     "Du Jian",
     "杜某",
     "赤系老七",
-    "杜建道友"
+    "杜建道友",
+    "赤系杜建"
   ],
   "summary": "天运子赤系弟子，红袍英俊有傲气；发现云雾山海地缝并邀王林结伴，表面兄长般温和，实则因嫉妒王林修为暴涨而暗起歹意。",
   "attributes": {
     "性别": "男",
-    "外貌": "眼露绝望",
+    "外貌": "相貌英俊，面色苍白无血",
     "小阶段": "未至问鼎期",
-    "性格": "笑里藏刀、工于心计、轻敌",
-    "身份": "天运子赤系弟子、天运子弟子、天运宗赤系弟子",
+    "性格": "对天运子既敬又惧，贪生怕死",
+    "身份": "天运子赤系弟子、天运子弟子、天运宗赤系弟子、天运宗弟子（赤系）、天运子门下",
     "标志特征": "身怀天运子所赐保命之物；擅操控融入神识的傀儡探路、危急时喷元神精血、抛黑色污秽肉瘤",
     "称号": "赤系老七",
-    "阵营": "天运子门下赤系",
+    "阵营": "被王林俘虏封印，形同凡人",
     "结局": "元神被封印、以禁制之球形态收入王林储物袋",
-    "本命法宝": "肉瘤法宝"
+    "本命法宝": "肉瘤法宝",
+    "存殁": "存活"
   },
   "observations": {
     "性别": [
@@ -42,6 +44,11 @@
         "docId": "plot.xianni-ch635-du-jian-devoured-by-light-eating-bugs",
         "seq": 596,
         "note": "被擒瞬间"
+      },
+      {
+        "value": "相貌英俊，面色苍白无血",
+        "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
+        "seq": 609
       }
     ],
     "小阶段": [
@@ -68,6 +75,11 @@
         "value": "笑里藏刀、工于心计、轻敌",
         "docId": "plot.xianni-ch634-tidal-abyss-du-jian-trap",
         "seq": 596
+      },
+      {
+        "value": "对天运子既敬又惧，贪生怕死",
+        "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
+        "seq": 609
       }
     ],
     "身份": [
@@ -85,6 +97,11 @@
         "value": "天运宗赤系弟子",
         "docId": "plot.xianni-ch634-tidal-abyss-du-jian-trap",
         "seq": 596
+      },
+      {
+        "value": "天运宗弟子（赤系）、天运子门下",
+        "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
+        "seq": 609
       }
     ],
     "标志特征": [
@@ -111,6 +128,12 @@
         "value": "天运子门下赤系",
         "docId": "plot.xianni-ch635-du-jian-devoured-by-light-eating-bugs",
         "seq": 596
+      },
+      {
+        "value": "被王林俘虏封印，形同凡人",
+        "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
+        "seq": 609,
+        "note": "第651章"
       }
     ],
     "结局": [
@@ -127,6 +150,13 @@
         "docId": "plot.xianni-ch635-du-jian-devoured-by-light-eating-bugs",
         "seq": 596
       }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
+        "seq": 609
+      }
     ]
   },
   "firstSeq": 591,
@@ -139,10 +169,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch635-du-jian-devoured-by-light-eating-bugs",
+      "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
       "dated": false,
-      "seq": 596,
-      "note": "被擒瞬间"
+      "seq": 609
     },
     "小阶段": {
       "asOf": null,
@@ -153,9 +182,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch634-tidal-abyss-du-jian-trap",
+      "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
       "dated": false,
-      "seq": 596
+      "seq": 609
     },
     "身份": {
       "asOf": null,
@@ -177,9 +206,10 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch635-du-jian-devoured-by-light-eating-bugs",
+      "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
       "dated": false,
-      "seq": 596
+      "seq": 609,
+      "note": "第651章"
     },
     "结局": {
       "asOf": null,
@@ -193,6 +223,12 @@
       "docId": "plot.xianni-ch635-du-jian-devoured-by-light-eating-bugs",
       "dated": false,
       "seq": 596
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
+      "dated": false,
+      "seq": 609
     }
   },
   "contested": false,
@@ -200,7 +236,8 @@
   "docs": [
     "plot.xianni-ch633-tubaozi-chaoxi-shenyuan-tongxing",
     "plot.xianni-ch634-tidal-abyss-du-jian-trap",
-    "plot.xianni-ch635-du-jian-devoured-by-light-eating-bugs"
+    "plot.xianni-ch635-du-jian-devoured-by-light-eating-bugs",
+    "plot.xianni-ch609-613-tangulang-ding-tanlang-chase"
   ],
-  "updatedAt": "2026-08-22T18:21:57.557Z"
+  "updatedAt": "2026-08-22T19:24:59.686Z"
 }

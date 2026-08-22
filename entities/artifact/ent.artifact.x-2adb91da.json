@@ -6,13 +6,14 @@
     "封印之球",
     "封印姚惜雪的禁制球",
     "禁制球",
-    "封印姚惜雪的禁制之球"
+    "封印姚惜雪的禁制之球",
+    "囚禁之球"
   ],
   "summary": "王林掐诀在地面打出层层禁制形成的圆形禁制之圈，收缩成球将姚惜雪封入，可由大化小收进储物袋。",
   "attributes": {
     "持有者": "王林",
-    "能力": "封印生灵、可大可小便于携带、囚禁修士、隔绝时间感知、封印活人",
-    "外形": "球状",
+    "能力": "封印生灵、可大可小便于携带、囚禁修士、隔绝时间感知、封印活人、囚禁修士并封印其元神",
+    "外形": "小球迎风见长至半丈，其上闪烁无数禁制之光",
     "来历": "王林当场掐诀打出",
     "禁制": "封印姚惜雪十年"
   },
@@ -49,6 +50,11 @@
         "value": "封印活人",
         "docId": "plot.xianni-ch615-tanlang-whereabouts",
         "seq": 576
+      },
+      {
+        "value": "囚禁修士并封印其元神",
+        "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
+        "seq": 609
       }
     ],
     "外形": [
@@ -66,6 +72,11 @@
         "value": "球状",
         "docId": "plot.xianni-ch615-tanlang-whereabouts",
         "seq": 576
+      },
+      {
+        "value": "小球迎风见长至半丈，其上闪烁无数禁制之光",
+        "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
+        "seq": 609
       }
     ],
     "来历": [
@@ -99,9 +110,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch615-tanlang-whereabouts",
+      "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
       "dated": false,
-      "seq": 576
+      "seq": 609
     },
     "来历": {
       "asOf": null,
@@ -121,7 +132,8 @@
   "docs": [
     "plot.xianni-ch532-533-three-stroke-rune-second-seal",
     "plot.xianni-ch567-second-question-yao-xixue",
-    "plot.xianni-ch615-tanlang-whereabouts"
+    "plot.xianni-ch615-tanlang-whereabouts",
+    "plot.xianni-ch609-613-tangulang-ding-tanlang-chase"
   ],
-  "updatedAt": "2026-08-22T16:16:17.739Z"
+  "updatedAt": "2026-08-22T19:24:59.704Z"
 }
