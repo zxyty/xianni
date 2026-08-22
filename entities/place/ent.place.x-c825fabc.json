@@ -6,13 +6,17 @@
     "姚星海之星",
     "血祖之星",
     "血色星球",
-    "Blood Star"
+    "Blood Star",
+    "血红色星球",
+    "Xue Xing"
   ],
   "summary": "血祖姚星海在天运星外独自占据的一星，圈养土著为其开荒纳血以修炼魔功，父女常年居此。",
   "attributes": {
-    "类型": "星辰/私占领地",
+    "类型": "星球",
     "所属势力": "血祖姚星海",
-    "危险度": "无人敢惹"
+    "危险度": "外围有罡风；由血星红发男子镇守",
+    "方位": "七级修真星天运星之外的星空",
+    "守护": "血星红发男子"
   },
   "observations": {
     "类型": [
@@ -20,6 +24,11 @@
         "value": "星辰/私占领地",
         "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
         "seq": 491
+      },
+      {
+        "value": "星球",
+        "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
+        "seq": 571
       }
     ],
     "所属势力": [
@@ -34,6 +43,25 @@
         "value": "无人敢惹",
         "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
         "seq": 491
+      },
+      {
+        "value": "外围有罡风；由血星红发男子镇守",
+        "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
+        "seq": 571
+      }
+    ],
+    "方位": [
+      {
+        "value": "七级修真星天运星之外的星空",
+        "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
+        "seq": 571
+      }
+    ],
+    "守护": [
+      {
+        "value": "血星红发男子",
+        "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
+        "seq": 571
       }
     ]
   },
@@ -41,9 +69,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+      "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
       "dated": false,
-      "seq": 491
+      "seq": 571
     },
     "所属势力": {
       "asOf": null,
@@ -53,16 +81,29 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
+      "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
       "dated": false,
-      "seq": 491
+      "seq": 571
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
+      "dated": false,
+      "seq": 571
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
+      "dated": false,
+      "seq": 571
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch514-target-donghai-yaoling-gate",
-    "plot.chapter-595-simplest-heavenly-tribulation-no"
+    "plot.chapter-595-simplest-heavenly-tribulation-no",
+    "plot.xianni-ch611-buwang-zhuque-first-act"
   ],
-  "updatedAt": "2026-08-22T12:44:04.349Z"
+  "updatedAt": "2026-08-22T15:55:27.357Z"
 }

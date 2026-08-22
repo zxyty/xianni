@@ -14,16 +14,17 @@
     "云天小派",
     "Yun Tian Sect",
     "云天",
-    "楚国云天宗"
+    "楚国云天宗",
+    "云天宗势力"
   ],
   "summary": "楚国以炼丹闻名的门派之首，位于云天山脉顶端，开派八千余年，三十年一次收徒讲究缘法，房舍多以天然玉石打造。",
   "attributes": {
-    "等级": "楚国门派之首（三级修真国）、楚国第一门派、高手至多元婴后期、有元婴后期始祖坐镇、三级修真国门派、楚国第一宗、楚国第一大派、楚国第一派、大宗门",
+    "等级": "楚国门派之首（三级修真国）、楚国第一门派、高手至多元婴后期、有元婴后期始祖坐镇、三级修真国门派、楚国第一宗、楚国第一大派、楚国第一派、大宗门、四级修真国门派",
     "据点": "云天山脉顶端、内宗东西南北四首环中央大殿；后山为闭关地、东苑、南苑、西苑、北苑、外院、内院、内宗、外宗、藏经阁、大殿丹鼎、藏经阁、藏经内阁、云天山脉、云天山脉／南苑大殿、楚国、楚国境内、灵石阁楼群",
-    "所属界面": "朱雀星",
-    "理念": "以炼丹闻名，收徒讲究缘法而非天资灵根、内宗炼丹、外宗御敌、以炼丹为主、内院以炼丹之术衡量高低，非以修为、内院修士精力多在炼丹闭关、炼丹立宗、内宗炼丹、外宗修道，两宗合作、转为专供王林炼丹之宗、王林与李慕婉的约定之地、擅长炼丹、护持红蝶继承「朱雀」名号",
-    "镇派之宝": "修魔丹（三宝之一）、夺天七鼎、夺天鼎、白云护山大阵",
-    "掌门": "宋青（内宗）、柳斐（外宗）、李慕婉、王林、云天宗宗主",
+    "所属界面": "朱雀星·楚国",
+    "理念": "以炼丹闻名，收徒讲究缘法而非天资灵根、内宗炼丹、外宗御敌、以炼丹为主、内院以炼丹之术衡量高低，非以修为、内院修士精力多在炼丹闭关、炼丹立宗、内宗炼丹、外宗修道，两宗合作、转为专供王林炼丹之宗、王林与李慕婉的约定之地、擅长炼丹、护持红蝶继承「朱雀」名号、朱雀星圣地",
+    "镇派之宝": "修魔丹（三宝之一）、夺天七鼎、夺天鼎、白云护山大阵、上品灵石铸造的王林巨像（兼作山门）",
+    "掌门": "宋青（内宗）、柳斐（外宗）、李慕婉、王林、云天宗宗主、铁岩",
     "阵营": "仙遗族附庸"
   },
   "observations": {
@@ -73,6 +74,11 @@
         "value": "大宗门",
         "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
         "seq": 336
+      },
+      {
+        "value": "四级修真国门派",
+        "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
+        "seq": 571
       }
     ],
     "据点": [
@@ -182,6 +188,11 @@
         "value": "朱雀星",
         "docId": "plot.xianni-ch327-return-to-zhuque-star",
         "seq": 309
+      },
+      {
+        "value": "朱雀星·楚国",
+        "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
+        "seq": 571
       }
     ],
     "理念": [
@@ -245,6 +256,12 @@
         "value": "护持红蝶继承「朱雀」名号",
         "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
         "seq": 336
+      },
+      {
+        "value": "朱雀星圣地",
+        "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
+        "seq": 571,
+        "note": "王林离去之后"
       }
     ],
     "镇派之宝": [
@@ -267,6 +284,11 @@
         "value": "白云护山大阵",
         "docId": "plot.xianni-ch327-return-to-zhuque-star",
         "seq": 309
+      },
+      {
+        "value": "上品灵石铸造的王林巨像（兼作山门）",
+        "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
+        "seq": 571
       }
     ],
     "掌门": [
@@ -294,6 +316,11 @@
         "value": "云天宗宗主",
         "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
         "seq": 336
+      },
+      {
+        "value": "铁岩",
+        "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
+        "seq": 571
       }
     ],
     "阵营": [
@@ -321,9 +348,9 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch327-return-to-zhuque-star",
+      "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
       "dated": false,
-      "seq": 309
+      "seq": 571
     },
     "理念": {
       "asOf": null,
@@ -367,7 +394,8 @@
     "plot.xianni-ch356-departure-immortal-remains-void-rift",
     "plot.xianni-ch427-ancestral-spirit-tree",
     "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
-    "plot.xianni-ch447-451-farewell-zhuque-star"
+    "plot.xianni-ch447-451-farewell-zhuque-star",
+    "plot.xianni-ch611-buwang-zhuque-first-act"
   ],
-  "updatedAt": "2026-08-21T05:47:06.434Z"
+  "updatedAt": "2026-08-22T15:55:27.449Z"
 }

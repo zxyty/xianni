@@ -8,8 +8,9 @@
   "summary": "在场的云天宗老者，认为对付一个化神中期修士小题大做，被宗主以「意境」之说说服。",
   "attributes": {
     "性别": "男",
-    "身份": "云天宗高层",
-    "外貌": "老者"
+    "身份": "少年的爷爷",
+    "外貌": "老者",
+    "性格": "追忆、苦涩豁达"
   },
   "observations": {
     "性别": [
@@ -24,6 +25,12 @@
         "value": "云天宗高层",
         "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
         "seq": 336
+      },
+      {
+        "value": "少年的爷爷",
+        "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
+        "seq": 571,
+        "note": "少年称其『爷爷』"
       }
     ],
     "外貌": [
@@ -31,6 +38,13 @@
         "value": "老者",
         "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
         "seq": 336
+      }
+    ],
+    "性格": [
+      {
+        "value": "追忆、苦涩豁达",
+        "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
+        "seq": 571
       }
     ]
   },
@@ -44,21 +58,29 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+      "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
       "dated": false,
-      "seq": 336
+      "seq": 571,
+      "note": "少年称其『爷爷』"
     },
     "外貌": {
       "asOf": null,
       "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
       "dated": false,
       "seq": 336
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
+      "dated": false,
+      "seq": 571
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch356-departure-immortal-remains-void-rift"
+    "plot.xianni-ch356-departure-immortal-remains-void-rift",
+    "plot.xianni-ch611-buwang-zhuque-first-act"
   ],
-  "updatedAt": "2026-08-08T14:28:21.379Z"
+  "updatedAt": "2026-08-22T15:55:27.382Z"
 }

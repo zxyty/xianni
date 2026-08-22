@@ -18,13 +18,14 @@
   "summary": "白纱女子，持有通往仙遗之地的地图玉简，以「轮回树可增轮回感悟」为由邀王林同行，暗叹王林心机深不可测。",
   "attributes": {
     "性别": "女",
-    "外貌": "白纱女子、身着白纱、身穿白纱、常年带着面纱、一道紫色身影、脸上带着紫纱、脸带紫纱",
-    "身份": "仙遗之地地图持有者、此行引路人、此行向导、持托印玉简者、乾风提及的旧例人物、老头选取四人之一、云雀子选定的下代朱雀子第二候选人、云雀帽受赠者之一、入墓修士、炉鼎",
+    "外貌": "白纱女子、身着白纱、身穿白纱、常年带着面纱、一道紫色身影、脸上带着紫纱、脸带紫纱、身穿紫衣，面色苍白，原有紫纱遮面（逃亡中丢落）",
+    "身份": "仙遗之地地图持有者、此行引路人、此行向导、持托印玉简者、乾风提及的旧例人物、老头选取四人之一、云雀子选定的下代朱雀子第二候选人、云雀帽受赠者之一、入墓修士、炉鼎、天水宫叛徒",
     "存殁": "在世",
     "性格": "内心挣扎、畏惧王林",
-    "标志特征": "白纱遮面；入仙遗之地后凭空多出记忆、日后乾风的道心裂痕、脸上闪烁七彩之芒、身上有浓浓的乾风气息",
+    "标志特征": "白纱遮面；入仙遗之地后凭空多出记忆、日后乾风的道心裂痕、脸上闪烁七彩之芒、身上有浓浓的乾风气息、脚踏长约三丈的大剑飞行；身中天水宫少主蛊毒",
     "阵营": "云雀子一方、随侍云雀子身后",
-    "小阶段": "婴变中期"
+    "小阶段": "婴变中期",
+    "出身地": "朱雀星（六级修真国）"
   },
   "observations": {
     "性别": [
@@ -64,6 +65,11 @@
         "value": "脸带紫纱",
         "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
         "seq": 443
+      },
+      {
+        "value": "身穿紫衣，面色苍白，原有紫纱遮面（逃亡中丢落）",
+        "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
+        "seq": 571
       }
     ],
     "身份": [
@@ -113,6 +119,12 @@
         "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
         "seq": 443,
         "note": "周武泰言「炉鼎到底谁是谁的炉鼎」，暗示其反噬乾风"
+      },
+      {
+        "value": "天水宫叛徒",
+        "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
+        "seq": 571,
+        "note": "被天水宫指为叛离并偷走少主圣物"
       }
     ],
     "存殁": [
@@ -159,6 +171,11 @@
         "value": "身上有浓浓的乾风气息",
         "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
         "seq": 443
+      },
+      {
+        "value": "脚踏长约三丈的大剑飞行；身中天水宫少主蛊毒",
+        "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
+        "seq": 571
       }
     ],
     "阵营": [
@@ -184,6 +201,13 @@
         "value": "婴变中期",
         "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
         "seq": 443
+      }
+    ],
+    "出身地": [
+      {
+        "value": "朱雀星（六级修真国）",
+        "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
+        "seq": 571
       }
     ]
   },
@@ -236,6 +260,12 @@
       "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
       "dated": false,
       "seq": 443
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
+      "dated": false,
+      "seq": 571
     }
   },
   "contested": false,
@@ -250,7 +280,8 @@
     "plot.xianni-ch441-zhuquezi-madness-1",
     "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
     "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
-    "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo"
+    "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
+    "plot.xianni-ch611-buwang-zhuque-first-act"
   ],
-  "updatedAt": "2026-08-21T04:01:24.601Z"
+  "updatedAt": "2026-08-22T15:55:27.340Z"
 }

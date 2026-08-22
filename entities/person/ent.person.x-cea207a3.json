@@ -5,13 +5,17 @@
   "aliases": [
     "红发红眉男子",
     "血阁红袍男子",
-    "红发红眉红袍男子"
+    "红发红眉红袍男子",
+    "红袍男子",
+    "血星阁楼男子"
   ],
   "summary": "居于血星血阁的红发红眉红袍男子，相貌英俊约四十许，目内血芒，感应天劫后念及「惜雪那孩子」。",
   "attributes": {
-    "外貌": "红发红眉、红袍、相貌英俊、约四十岁",
-    "标志特征": "睁眼时目内血芒散出",
-    "身份": "血星血阁修士"
+    "外貌": "红发红眉，身穿红袍",
+    "标志特征": "看不出任何仙力存在，却有令人窒息的威严",
+    "身份": "血星阁楼主人",
+    "性别": "男",
+    "性格": "冷漠、简短（只说一字『滚』）"
   },
   "observations": {
     "外貌": [
@@ -19,6 +23,11 @@
         "value": "红发红眉、红袍、相貌英俊、约四十岁",
         "docId": "plot.chapter-595-simplest-heavenly-tribulation-no",
         "seq": 556
+      },
+      {
+        "value": "红发红眉，身穿红袍",
+        "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
+        "seq": 571
       }
     ],
     "标志特征": [
@@ -26,6 +35,11 @@
         "value": "睁眼时目内血芒散出",
         "docId": "plot.chapter-595-simplest-heavenly-tribulation-no",
         "seq": 556
+      },
+      {
+        "value": "看不出任何仙力存在，却有令人窒息的威严",
+        "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
+        "seq": 571
       }
     ],
     "身份": [
@@ -33,6 +47,26 @@
         "value": "血星血阁修士",
         "docId": "plot.chapter-595-simplest-heavenly-tribulation-no",
         "seq": 556
+      },
+      {
+        "value": "血星阁楼主人",
+        "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
+        "seq": 571,
+        "note": "身份来历本章未明"
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
+        "seq": 571
+      }
+    ],
+    "性格": [
+      {
+        "value": "冷漠、简短（只说一字『滚』）",
+        "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
+        "seq": 571
       }
     ]
   },
@@ -40,27 +74,41 @@
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.chapter-595-simplest-heavenly-tribulation-no",
+      "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
       "dated": false,
-      "seq": 556
+      "seq": 571
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.chapter-595-simplest-heavenly-tribulation-no",
+      "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
       "dated": false,
-      "seq": 556
+      "seq": 571
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.chapter-595-simplest-heavenly-tribulation-no",
+      "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
       "dated": false,
-      "seq": 556
+      "seq": 571,
+      "note": "身份来历本章未明"
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
+      "dated": false,
+      "seq": 571
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
+      "dated": false,
+      "seq": 571
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.chapter-595-simplest-heavenly-tribulation-no"
+    "plot.chapter-595-simplest-heavenly-tribulation-no",
+    "plot.xianni-ch611-buwang-zhuque-first-act"
   ],
-  "updatedAt": "2026-08-22T12:44:04.326Z"
+  "updatedAt": "2026-08-22T15:55:27.343Z"
 }

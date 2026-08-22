@@ -160,3 +160,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T14:55:30.850Z** `ingest` plot.xianni-ch608-blood-soul-pill-self-destruct — 第608章 血魂丹：凌天候剑气破魔刀、自爆碎魔塔、血魂丹重生 · kind=plot asOf=2026-08-22 entities=22 relations=32 src=00566-00570.p4.md
 - **2026-08-22T14:58:15.261Z** `ingest` plot.xianni-ch609-ancient-yao-blood-shadow — 第609章 古妖血影：血魂丹复生后驰援天妖城，古妖以王林之血凝血影阻九散魔 · kind=plot asOf=2026-08-22 entities=28 relations=37 src=00566-00570.p5.md
 - **2026-08-22T15:44:23.737Z** `ingest` plot.xianni-ch610-da-gong-gao-cheng — 仙逆 第610章 大功告成：古妖战散魔，王林夺铠擒魔魂 · kind=plot asOf=2026-08-22 entities=27 relations=39 src=00571-00575.p1.md
+- **2026-08-22T15:55:27.582Z** `ingest` plot.xianni-ch611-buwang-zhuque-first-act — 第611章 不忘朱雀第一幕：血星红发男子救紫芯，云天宗铸王林巨像 · kind=plot asOf=2026-08-22 entities=59 relations=106 src=00571-00575.p2.md
