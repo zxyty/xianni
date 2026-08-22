@@ -5,16 +5,18 @@
   "aliases": [
     "天洪城",
     "Hong Cheng",
-    "洪城城区"
+    "洪城城区",
+    "天妖城洪城",
+    "京都洪城"
   ],
   "summary": "天妖城外八城之一，属外环武将居住之城，位于西门岔口之右；莫厉海府邸所在，城内商铺遍地极为繁华，街心设军道。",
   "attributes": {
     "所属势力": "天妖郡",
-    "类型": "城池",
+    "类型": "京都城池",
     "方位": "天妖城西门内，岔口向右",
     "上级区域": "天妖城",
     "所属界面": "妖灵之地",
-    "特产": "衣着开放的风俗、临河画舫"
+    "特产": "衣着开放的风俗、临河画舫、河道画舫与琴音、古妖城美酒（自外流入）"
   },
   "observations": {
     "所属势力": [
@@ -34,6 +36,11 @@
         "value": "城池",
         "docId": "plot.xianni-ch569-luanjing-preface-tianyao-city",
         "seq": 542
+      },
+      {
+        "value": "京都城池",
+        "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
+        "seq": 544
       }
     ],
     "方位": [
@@ -63,6 +70,16 @@
         "docId": "plot.xianni-ch569-luanjing-preface-tianyao-city",
         "seq": 542,
         "note": "本章所见"
+      },
+      {
+        "value": "河道画舫与琴音",
+        "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
+        "seq": 544
+      },
+      {
+        "value": "古妖城美酒（自外流入）",
+        "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
+        "seq": 544
       }
     ]
   },
@@ -76,9 +93,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch569-luanjing-preface-tianyao-city",
+      "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
       "dated": false,
-      "seq": 542
+      "seq": 544
     },
     "方位": {
       "asOf": null,
@@ -110,7 +127,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch568-tianyao-city-familiar-face",
-    "plot.xianni-ch569-luanjing-preface-tianyao-city"
+    "plot.xianni-ch569-luanjing-preface-tianyao-city",
+    "plot.xianni-ch544-545-hongprison-slaughter-immortal-art"
   ],
-  "updatedAt": "2026-08-22T09:36:44.866Z"
+  "updatedAt": "2026-08-22T09:50:47.419Z"
 }

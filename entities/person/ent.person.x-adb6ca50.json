@@ -5,14 +5,16 @@
   "aliases": [
     "六指妖剑",
     "脸带疤痕的邪异之人",
-    "Shi Xiao"
+    "Shi Xiao",
+    "妖将石萧"
   ],
   "summary": "紫发妖异、右脸有翻起疤痕的邪凶青年，神通为六指剑诀，人称「六指妖剑」，为莫厉海妖将之争的劲敌之一，与孙涛相识已久并为其搜集炼丹材料。",
   "attributes": {
     "外貌": "青色铠甲、紫发飘动、面孔妖异俊美，右脸一道翻起疤痕",
     "称号": "六指妖剑",
     "标志特征": "右脸翻起的疤痕、邪凶之气",
-    "阵营": "妖将之争中莫厉海的对手一方"
+    "阵营": "天妖城妖族",
+    "身份": "妖将"
   },
   "observations": {
     "外貌": [
@@ -41,6 +43,18 @@
         "value": "妖将之争中莫厉海的对手一方",
         "docId": "plot.xianni-ch569-luanjing-preface-tianyao-city",
         "seq": 542
+      },
+      {
+        "value": "天妖城妖族",
+        "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
+        "seq": 544
+      }
+    ],
+    "身份": [
+      {
+        "value": "妖将",
+        "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
+        "seq": 544
       }
     ]
   },
@@ -66,15 +80,22 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch569-luanjing-preface-tianyao-city",
+      "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
       "dated": false,
-      "seq": 542
+      "seq": 544
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
+      "dated": false,
+      "seq": 544
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch569-luanjing-preface-tianyao-city"
+    "plot.xianni-ch569-luanjing-preface-tianyao-city",
+    "plot.xianni-ch544-545-hongprison-slaughter-immortal-art"
   ],
-  "updatedAt": "2026-08-22T09:36:44.829Z"
+  "updatedAt": "2026-08-22T09:50:47.408Z"
 }

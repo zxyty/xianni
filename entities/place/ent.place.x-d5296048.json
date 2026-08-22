@@ -4,12 +4,15 @@
   "name": "剑阁",
   "aliases": [
     "恒岳派剑阁",
-    "大罗剑宗剑阁"
+    "大罗剑宗剑阁",
+    "皇宫剑阁"
   ],
   "summary": "恒岳派内供弟子凭玉简选取飞剑之所，巨富剑即陈列于此、附有记述铸剑者一生的牌子。",
   "attributes": {
     "所属势力": "恒岳派",
-    "类型": "藏剑之阁"
+    "类型": "殿阁",
+    "上级区域": "燕京皇宫",
+    "守护": "帝剑"
   },
   "observations": {
     "所属势力": [
@@ -24,6 +27,25 @@
         "value": "藏剑之阁",
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
+      },
+      {
+        "value": "殿阁",
+        "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
+        "seq": 544
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "燕京皇宫",
+        "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
+        "seq": 544
+      }
+    ],
+    "守护": [
+      {
+        "value": "帝剑",
+        "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
+        "seq": 544
       }
     ]
   },
@@ -37,16 +59,29 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+      "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
       "dated": false,
-      "seq": 322
+      "seq": 544
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
+      "dated": false,
+      "seq": 544
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
+      "dated": false,
+      "seq": 544
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
-    "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star"
+    "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
+    "plot.xianni-ch544-545-hongprison-slaughter-immortal-art"
   ],
-  "updatedAt": "2026-08-21T10:21:43.904Z"
+  "updatedAt": "2026-08-22T09:50:47.423Z"
 }

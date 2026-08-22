@@ -1,62 +1,55 @@
 {
-  "id": "ent.person.x-d2b46066",
-  "type": "person",
-  "name": "墨非",
+  "id": "ent.passage.x-81585939",
+  "type": "passage",
+  "name": "血光通道",
   "aliases": [
-    "墨非大人",
-    "bj墨非",
-    "妖将墨非",
-    "妖将第一人"
+    "血光阶梯",
+    "通往血色世界的阶梯"
   ],
-  "summary": "坐镇火妖郡边界的天妖郡妖将，被把守妖兵队长认为此次妖将大比应可进入前三。",
+  "summary": "自天妖城通往血色世界的阶梯通道，沿阶而下约一炷香即达血色世界。",
   "attributes": {
-    "身份": "妖将",
-    "称号": "妖将之中第一人",
-    "外貌": "黑发，极为英俊，含一丝刚毅"
+    "类型": "阶梯通道",
+    "两端": "天妖城 ↔ 血色世界",
+    "可通行境界": "需许姓男子引领，外人不得入内"
   },
   "observations": {
-    "身份": [
+    "类型": [
       {
-        "value": "天妖郡妖将（坐镇火妖郡边界）",
-        "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
-        "seq": 537
-      },
-      {
-        "value": "妖将",
+        "value": "阶梯通道",
         "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
         "seq": 544
       }
     ],
-    "称号": [
+    "两端": [
       {
-        "value": "妖将之中第一人",
+        "value": "天妖城 ↔ 血色世界",
         "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
         "seq": 544
       }
     ],
-    "外貌": [
+    "可通行境界": [
       {
-        "value": "黑发，极为英俊，含一丝刚毅",
+        "value": "需许姓男子引领，外人不得入内",
         "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
         "seq": 544
       }
     ]
   },
-  "firstSeq": 537,
+  "firstSeq": 544,
   "attrProvenance": {
-    "身份": {
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
       "dated": false,
       "seq": 544
     },
-    "称号": {
+    "两端": {
       "asOf": null,
       "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
       "dated": false,
       "seq": 544
     },
-    "外貌": {
+    "可通行境界": {
       "asOf": null,
       "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
       "dated": false,
@@ -66,8 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch568-tianyao-city-familiar-face",
     "plot.xianni-ch544-545-hongprison-slaughter-immortal-art"
   ],
-  "updatedAt": "2026-08-22T09:50:47.404Z"
+  "updatedAt": "2026-08-22T09:50:47.391Z"
 }
