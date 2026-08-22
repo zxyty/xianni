@@ -3,15 +3,20 @@
   "type": "person",
   "name": "幻东",
   "aliases": [
-    "族卫幻东"
+    "族卫幻东",
+    "Huan Dong",
+    "千幻主星幻家二品族卫幻东",
+    "幻家二品族卫"
   ],
   "summary": "分配给柳眉（幻眉）的幻家族卫，问鼎中期巅峰，奉命前往冉云星处理涉事者，对柳眉极为狂热痴迷。",
   "attributes": {
     "小阶段": "问鼎中期巅峰",
-    "身份": "幻家族卫（分配给幻眉）",
+    "身份": "幻家族卫（分配给幻眉）、千幻主星幻家二品族卫",
     "阵营": "幻家",
     "外貌": "看似三十许岁，相貌堂堂",
-    "性格": "对柳眉狂热、痴迷、忠诚"
+    "性格": "对柳眉狂热、痴迷、忠诚、冰冷傲然、狂热求功",
+    "性别": "男",
+    "称号": "二品族卫"
   },
   "observations": {
     "小阶段": [
@@ -25,6 +30,11 @@
       {
         "value": "幻家族卫（分配给幻眉）",
         "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
+        "seq": 631
+      },
+      {
+        "value": "千幻主星幻家二品族卫",
+        "docId": "plot.xianni-ch673-yunxia-jinyan-mine-huandong-arrives",
         "seq": 631
       }
     ],
@@ -46,6 +56,25 @@
       {
         "value": "对柳眉狂热、痴迷、忠诚",
         "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
+        "seq": 631
+      },
+      {
+        "value": "冰冷傲然、狂热求功",
+        "docId": "plot.xianni-ch673-yunxia-jinyan-mine-huandong-arrives",
+        "seq": 631
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch673-yunxia-jinyan-mine-huandong-arrives",
+        "seq": 631
+      }
+    ],
+    "称号": [
+      {
+        "value": "二品族卫",
+        "docId": "plot.xianni-ch673-yunxia-jinyan-mine-huandong-arrives",
         "seq": 631
       }
     ]
@@ -81,12 +110,25 @@
       "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
       "dated": false,
       "seq": 631
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch673-yunxia-jinyan-mine-huandong-arrives",
+      "dated": false,
+      "seq": 631
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch673-yunxia-jinyan-mine-huandong-arrives",
+      "dated": false,
+      "seq": 631
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch672-cause-effect-cycle-seeking-life-death"
+    "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
+    "plot.xianni-ch673-yunxia-jinyan-mine-huandong-arrives"
   ],
-  "updatedAt": "2026-08-22T22:57:34.883Z"
+  "updatedAt": "2026-08-22T23:00:27.885Z"
 }

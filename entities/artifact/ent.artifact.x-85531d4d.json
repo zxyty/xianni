@@ -6,15 +6,17 @@
     "火石",
     "一对火石",
     "天然火石",
-    "金属性火石"
+    "金属性火石",
+    "金炎火石"
   ],
   "summary": "一对通体紫金的金属性天然法宝，硬度极强并蕴含奇异神通，相互摩擦即爆出繁星般火星与热浪，所生为「金火」；在古神眼中实为炼器材料。",
   "attributes": {
     "外形": "一对，通体紫金，飘在手心传出刺手之芒",
     "五行属性": "金",
     "能力": "摩擦生金火、热浪扑面、不炼器直接作法宝使用亦威力不凡",
-    "来历": "天然形成，非修士炼成",
-    "持有者": "王林"
+    "来历": "天然形成，非修士炼成、云霞星金炎矿脉，被幻家之人取其一对",
+    "持有者": "王林",
+    "品阶": "近顶阶伪仙宝"
   },
   "observations": {
     "外形": [
@@ -54,6 +56,11 @@
         "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
         "seq": 631,
         "note": "古神眼中算炼器材料而非法宝"
+      },
+      {
+        "value": "云霞星金炎矿脉，被幻家之人取其一对",
+        "docId": "plot.xianni-ch673-yunxia-jinyan-mine-huandong-arrives",
+        "seq": 631
       }
     ],
     "持有者": [
@@ -61,6 +68,14 @@
         "value": "王林",
         "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
         "seq": 631
+      }
+    ],
+    "品阶": [
+      {
+        "value": "近顶阶伪仙宝",
+        "docId": "plot.xianni-ch673-yunxia-jinyan-mine-huandong-arrives",
+        "seq": 631,
+        "note": "王林估算，需杂质少且体积更大方可达到"
       }
     ]
   },
@@ -96,12 +111,20 @@
       "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
       "dated": false,
       "seq": 631
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-ch673-yunxia-jinyan-mine-huandong-arrives",
+      "dated": false,
+      "seq": 631,
+      "note": "王林估算，需杂质少且体积更大方可达到"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch672-cause-effect-cycle-seeking-life-death"
+    "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
+    "plot.xianni-ch673-yunxia-jinyan-mine-huandong-arrives"
   ],
-  "updatedAt": "2026-08-22T22:57:34.916Z"
+  "updatedAt": "2026-08-22T23:00:27.896Z"
 }
