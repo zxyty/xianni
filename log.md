@@ -120,3 +120,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-21T10:21:44.023Z** `ingest` plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star — 仙逆 第481-485章：灰衣天运子传杀戮仙诀、紫芒戒与下山使者之路 · kind=plot asOf=2026-08-21 entities=96 relations=176 src=00481-00485.md
 - **2026-08-21T10:41:37.956Z** `ingest` plot.xianni-ch486-490-jiuli-worm-yaojin-fruit — 仙逆 第486-490章：地魔北界耀金果与九黎虫（大罗剑宗以人为药引） · kind=plot asOf=2026-08-21 entities=72 relations=126 src=00486-00490.md
 - **2026-08-21T12:01:42.328Z** `ingest` plot.xianni-ch514-target-donghai-yaoling-gate — 第514章 目标，东海——妖灵之门情报与矮个老者两度身死 · kind=plot asOf=2026-08-21 entities=79 relations=166 src=00491-00495.md
+- **2026-08-22T00:48:47.612Z** `ingest` plot.xianni-ch519-tide-recede-golden-token — 仙逆 第519章 令牌：潮落回缩与赤芒深处的金色令牌 · kind=plot asOf=2026-08-22 entities=77 relations=130 src=00496-00499.md

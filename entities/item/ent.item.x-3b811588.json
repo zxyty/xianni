@@ -5,12 +5,15 @@
   "aliases": [
     "七块令牌",
     "古朴令牌",
-    "域外战场令牌"
+    "域外战场令牌",
+    "第三块令牌",
+    "东海令牌"
   ],
   "summary": "联盟使者发下的七块令牌，为进入域外战场的凭证，须碎至少四块、最多三门派可入场。",
   "attributes": {
-    "类型": "入场凭证",
-    "用途": "进入域外战场凭证"
+    "类型": "令牌",
+    "用途": "牵涉天运星的一个大秘密",
+    "产地": "东海妖灵之门内"
   },
   "observations": {
     "类型": [
@@ -18,6 +21,11 @@
         "value": "入场凭证",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
+      },
+      {
+        "value": "令牌",
+        "docId": "plot.xianni-ch519-tide-recede-golden-token",
+        "seq": 496
       }
     ],
     "用途": [
@@ -30,6 +38,19 @@
         "value": "进入域外战场凭证",
         "docId": "plot.xianni-ch85-89-jilian-jianqiao",
         "seq": 85
+      },
+      {
+        "value": "牵涉天运星的一个大秘密",
+        "docId": "plot.xianni-ch519-tide-recede-golden-token",
+        "seq": 496,
+        "note": "具体作用未明"
+      }
+    ],
+    "产地": [
+      {
+        "value": "东海妖灵之门内",
+        "docId": "plot.xianni-ch519-tide-recede-golden-token",
+        "seq": 496
       }
     ]
   },
@@ -37,22 +58,30 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "docId": "plot.xianni-ch519-tide-recede-golden-token",
       "dated": false,
-      "seq": 80
+      "seq": 496
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+      "docId": "plot.xianni-ch519-tide-recede-golden-token",
       "dated": false,
-      "seq": 85
+      "seq": 496,
+      "note": "具体作用未明"
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch519-tide-recede-golden-token",
+      "dated": false,
+      "seq": 496
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
-    "plot.xianni-ch85-89-jilian-jianqiao"
+    "plot.xianni-ch85-89-jilian-jianqiao",
+    "plot.xianni-ch519-tide-recede-golden-token"
   ],
-  "updatedAt": "2026-07-05T03:01:33.236Z"
+  "updatedAt": "2026-08-22T00:48:47.476Z"
 }

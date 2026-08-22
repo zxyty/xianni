@@ -3,11 +3,15 @@
   "type": "place",
   "name": "大罗星",
   "aliases": [
-    "大罗"
+    "大罗",
+    "大罗星球"
   ],
   "summary": "周佚所在之地，本片段中他尚未从此处归来。",
   "attributes": {
-    "类型": "星辰／界面"
+    "类型": "星球",
+    "所属势力": "大罗剑宗",
+    "规模": "比五大副星大数倍",
+    "特产": "灵力充足"
   },
   "observations": {
     "类型": [
@@ -15,6 +19,32 @@
         "value": "星辰／界面",
         "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
         "seq": 336
+      },
+      {
+        "value": "星球",
+        "docId": "plot.xianni-ch519-tide-recede-golden-token",
+        "seq": 496
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "大罗剑宗",
+        "docId": "plot.xianni-ch519-tide-recede-golden-token",
+        "seq": 496
+      }
+    ],
+    "规模": [
+      {
+        "value": "比五大副星大数倍",
+        "docId": "plot.xianni-ch519-tide-recede-golden-token",
+        "seq": 496
+      }
+    ],
+    "特产": [
+      {
+        "value": "灵力充足",
+        "docId": "plot.xianni-ch519-tide-recede-golden-token",
+        "seq": 496
       }
     ]
   },
@@ -22,15 +52,34 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+      "docId": "plot.xianni-ch519-tide-recede-golden-token",
       "dated": false,
-      "seq": 336
+      "seq": 496
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch519-tide-recede-golden-token",
+      "dated": false,
+      "seq": 496
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch519-tide-recede-golden-token",
+      "dated": false,
+      "seq": 496
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch519-tide-recede-golden-token",
+      "dated": false,
+      "seq": 496
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch356-departure-immortal-remains-void-rift"
+    "plot.xianni-ch356-departure-immortal-remains-void-rift",
+    "plot.xianni-ch519-tide-recede-golden-token"
   ],
-  "updatedAt": "2026-08-08T14:28:21.335Z"
+  "updatedAt": "2026-08-22T00:48:47.470Z"
 }
