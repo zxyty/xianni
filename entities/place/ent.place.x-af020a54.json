@@ -8,14 +8,15 @@
     "洪城城区",
     "天妖城洪城",
     "京都洪城",
-    "洪"
+    "洪",
+    "洪城城池"
   ],
   "summary": "天妖城外八城之一，属外环武将居住之城，位于西门岔口之右；莫厉海府邸所在，城内商铺遍地极为繁华，街心设军道。",
   "attributes": {
     "所属势力": "天妖郡",
     "类型": "妖族城池",
     "方位": "玄城以东（自洪城西门入玄城）",
-    "上级区域": "天妖郡",
+    "上级区域": "天妖城/妖灵之地",
     "所属界面": "妖灵之地",
     "特产": "衣着开放的风俗、临河画舫、河道画舫与琴音、古妖城美酒（自外流入）"
   },
@@ -71,6 +72,11 @@
         "value": "天妖郡",
         "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
         "seq": 546
+      },
+      {
+        "value": "天妖城/妖灵之地",
+        "docId": "plot.xianni-ch582-wang-lin-reclaims-xu-liguo-and-black-blade",
+        "seq": 550
       }
     ],
     "所属界面": [
@@ -121,9 +127,9 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+      "docId": "plot.xianni-ch582-wang-lin-reclaims-xu-liguo-and-black-blade",
       "dated": false,
-      "seq": 546
+      "seq": 550
     },
     "所属界面": {
       "asOf": null,
@@ -145,7 +151,8 @@
     "plot.xianni-ch568-tianyao-city-familiar-face",
     "plot.xianni-ch569-luanjing-preface-tianyao-city",
     "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
-    "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai"
+    "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+    "plot.xianni-ch582-wang-lin-reclaims-xu-liguo-and-black-blade"
   ],
-  "updatedAt": "2026-08-22T10:03:29.786Z"
+  "updatedAt": "2026-08-22T11:33:48.384Z"
 }

@@ -4,12 +4,16 @@
   "name": "熬迪的帮助者",
   "aliases": [
     "弱弱的声音",
-    "弃权者"
+    "弃权者",
+    "道袍中年男子",
+    "妖将熬迪的帮助者"
   ],
   "summary": "金甲男子喝令出列的熬迪帮手，未敢应战，当众弱声表示“我弃权”。",
   "attributes": {
     "身份": "熬迪的帮助者",
-    "性格": "怯懦"
+    "性格": "怯懦",
+    "外貌": "身穿道袍的中年男子",
+    "阵营": "曾助妖将熬迪"
   },
   "observations": {
     "身份": [
@@ -24,6 +28,21 @@
         "value": "怯懦",
         "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
         "seq": 550
+      }
+    ],
+    "外貌": [
+      {
+        "value": "身穿道袍的中年男子",
+        "docId": "plot.xianni-ch582-wang-lin-reclaims-xu-liguo-and-black-blade",
+        "seq": 550
+      }
+    ],
+    "阵营": [
+      {
+        "value": "曾助妖将熬迪",
+        "docId": "plot.xianni-ch582-wang-lin-reclaims-xu-liguo-and-black-blade",
+        "seq": 550,
+        "note": "妖将之战期间"
       }
     ]
   },
@@ -40,12 +59,26 @@
       "docId": "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
       "dated": false,
       "seq": 550
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch582-wang-lin-reclaims-xu-liguo-and-black-blade",
+      "dated": false,
+      "seq": 550
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch582-wang-lin-reclaims-xu-liguo-and-black-blade",
+      "dated": false,
+      "seq": 550,
+      "note": "妖将之战期间"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear"
+    "plot.xianni-ch582-wang-lin-cripples-ao-di-deflects-golden-spear",
+    "plot.xianni-ch582-wang-lin-reclaims-xu-liguo-and-black-blade"
   ],
-  "updatedAt": "2026-08-22T11:31:33.211Z"
+  "updatedAt": "2026-08-22T11:33:48.391Z"
 }
