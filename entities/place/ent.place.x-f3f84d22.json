@@ -4,12 +4,13 @@
   "name": "古妖大殿",
   "aliases": [
     "吉妖大殿",
-    "古妖殿"
+    "古妖殿",
+    "古妖殿修炼之地"
   ],
   "summary": "殿内供有古妖之像，妖将曾在此第一次面对古妖之像，感受与本章王林目光相似的震撼。",
   "attributes": {
-    "类型": "妖族殿宇",
-    "所属势力": "妖族",
+    "类型": "妖族殿宇、修炼圣地",
+    "所属势力": "妖族、天妖郡",
     "特产": "古妖之像"
   },
   "observations": {
@@ -18,12 +19,22 @@
         "value": "妖族殿宇",
         "docId": "plot.xianni-ch565-yi-zhang-yaojiang-yaohai-bailang",
         "seq": 537
+      },
+      {
+        "value": "修炼圣地",
+        "docId": "plot.xianni-ch567-second-question-yao-xixue",
+        "seq": 537
       }
     ],
     "所属势力": [
       {
         "value": "妖族",
         "docId": "plot.xianni-ch565-yi-zhang-yaojiang-yaohai-bailang",
+        "seq": 537
+      },
+      {
+        "value": "天妖郡",
+        "docId": "plot.xianni-ch567-second-question-yao-xixue",
         "seq": 537
       }
     ],
@@ -59,7 +70,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch565-yi-zhang-yaojiang-yaohai-bailang"
+    "plot.xianni-ch565-yi-zhang-yaojiang-yaohai-bailang",
+    "plot.xianni-ch567-second-question-yao-xixue"
   ],
-  "updatedAt": "2026-08-22T09:13:41.782Z"
+  "updatedAt": "2026-08-22T09:26:17.882Z"
 }

@@ -3,12 +3,14 @@
   "type": "artifact",
   "name": "普通魂幡",
   "aliases": [
-    "收曹一斗之魂幡"
+    "收曹一斗之魂幡",
+    "数杆普通魂幅",
+    "普通魂幅"
   ],
   "summary": "王林随身的一杆普通魂幡，内蓄黑雾，可放出与收回魂体曹一斗。",
   "attributes": {
     "持有者": "王林",
-    "能力": "收纳魂体、召出魂体听令",
+    "能力": "收纳魂体、召出魂体听令、化黑雾笼罩天空",
     "外形": "普通魂幡"
   },
   "observations": {
@@ -29,6 +31,11 @@
         "value": "召出魂体听令",
         "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
         "seq": 527
+      },
+      {
+        "value": "化黑雾笼罩天空",
+        "docId": "plot.xianni-ch567-second-question-yao-xixue",
+        "seq": 537
       }
     ],
     "外形": [
@@ -63,7 +70,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority"
+    "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
+    "plot.xianni-ch567-second-question-yao-xixue"
   ],
-  "updatedAt": "2026-08-22T07:41:19.472Z"
+  "updatedAt": "2026-08-22T09:26:17.870Z"
 }

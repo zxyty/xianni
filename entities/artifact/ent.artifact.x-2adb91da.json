@@ -3,13 +3,15 @@
   "type": "artifact",
   "name": "禁制之球",
   "aliases": [
-    "封印之球"
+    "封印之球",
+    "封印姚惜雪的禁制球",
+    "禁制球"
   ],
   "summary": "王林掐诀在地面打出层层禁制形成的圆形禁制之圈，收缩成球将姚惜雪封入，可由大化小收进储物袋。",
   "attributes": {
     "持有者": "王林",
-    "能力": "封印生灵、可大可小便于携带",
-    "外形": "散发黑芒的圆形禁制之圈/球",
+    "能力": "封印生灵、可大可小便于携带、囚禁修士、隔绝时间感知",
+    "外形": "球体，展开如花朵盛开",
     "来历": "王林当场掐诀打出"
   },
   "observations": {
@@ -30,6 +32,16 @@
         "value": "可大可小便于携带",
         "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
         "seq": 532
+      },
+      {
+        "value": "囚禁修士",
+        "docId": "plot.xianni-ch567-second-question-yao-xixue",
+        "seq": 537
+      },
+      {
+        "value": "隔绝时间感知",
+        "docId": "plot.xianni-ch567-second-question-yao-xixue",
+        "seq": 537
       }
     ],
     "外形": [
@@ -37,6 +49,11 @@
         "value": "散发黑芒的圆形禁制之圈/球",
         "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
         "seq": 532
+      },
+      {
+        "value": "球体，展开如花朵盛开",
+        "docId": "plot.xianni-ch567-second-question-yao-xixue",
+        "seq": 537
       }
     ],
     "来历": [
@@ -63,9 +80,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
+      "docId": "plot.xianni-ch567-second-question-yao-xixue",
       "dated": false,
-      "seq": 532
+      "seq": 537
     },
     "来历": {
       "asOf": null,
@@ -77,7 +94,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch532-533-three-stroke-rune-second-seal"
+    "plot.xianni-ch532-533-three-stroke-rune-second-seal",
+    "plot.xianni-ch567-second-question-yao-xixue"
   ],
-  "updatedAt": "2026-08-22T08:01:12.139Z"
+  "updatedAt": "2026-08-22T09:26:17.866Z"
 }
