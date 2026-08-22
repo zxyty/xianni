@@ -5,15 +5,19 @@
   "aliases": [
     "妖帝之剑",
     "蛇形银剑",
-    "帝君之剑"
+    "帝君之剑",
+    "银芒飞剑",
+    "银剑",
+    "帝剑银龙",
+    "天妖城帝剑"
   ],
   "summary": "妖帝之剑，需以天妖城四大牢狱产生的杀戮之气喂养。",
   "attributes": {
-    "持有者": "妖帝、帝君",
-    "能力": "以杀戮之气喂养、化银龙爪击、口吐剑芒（一剑劈出千丈沟壑）",
+    "持有者": "妖帝、帝君、燕京剑阁黄袍人",
+    "能力": "以杀戮之气喂养、化银龙爪击、口吐剑芒（一剑劈出千丈沟壑）、自主寻人、与洪牢对抗、化银龙、巨爪拍击、剑鸣示意、时刻搜寻王林踪迹",
     "来历": "天妖城四大牢狱真正的存在意义即为其供食",
-    "外形": "蛇形银剑、银龙",
-    "禁制": "平日镇于剑阁血色阵法（阵限）内",
+    "外形": "蛇形银剑、银龙、化作银芒的飞剑、银剑、银龙（巨爪）、剑",
+    "禁制": "平日镇于剑阁血色阵法（阵限）内、被洪牢牵制、被燕京剑阁阵法封禁",
     "品阶": "不次于（墨非两名随从）师尊之剑"
   },
   "observations": {
@@ -27,6 +31,12 @@
         "value": "帝君",
         "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
         "seq": 544
+      },
+      {
+        "value": "燕京剑阁黄袍人",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546,
+        "note": "受其约束而非驱使"
       }
     ],
     "能力": [
@@ -44,6 +54,36 @@
         "value": "口吐剑芒（一剑劈出千丈沟壑）",
         "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
         "seq": 544
+      },
+      {
+        "value": "自主寻人",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546
+      },
+      {
+        "value": "与洪牢对抗",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546
+      },
+      {
+        "value": "化银龙",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546
+      },
+      {
+        "value": "巨爪拍击",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546
+      },
+      {
+        "value": "剑鸣示意",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546
+      },
+      {
+        "value": "时刻搜寻王林踪迹",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546
       }
     ],
     "来历": [
@@ -63,6 +103,26 @@
         "value": "银龙",
         "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
         "seq": 544
+      },
+      {
+        "value": "化作银芒的飞剑",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546
+      },
+      {
+        "value": "银剑",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546
+      },
+      {
+        "value": "银龙（巨爪）",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546
+      },
+      {
+        "value": "剑",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546
       }
     ],
     "禁制": [
@@ -70,6 +130,17 @@
         "value": "平日镇于剑阁血色阵法（阵限）内",
         "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
         "seq": 544
+      },
+      {
+        "value": "被洪牢牵制",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546,
+        "note": "屡次与洪牢对抗未果"
+      },
+      {
+        "value": "被燕京剑阁阵法封禁",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546
       }
     ],
     "品阶": [
@@ -124,7 +195,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch544-545-hongprison-slaughter-immortal-art"
+    "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
+    "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai"
   ],
-  "updatedAt": "2026-08-22T09:50:47.412Z"
+  "updatedAt": "2026-08-22T10:03:29.831Z"
 }

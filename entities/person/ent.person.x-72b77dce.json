@@ -9,20 +9,23 @@
     "天运星黑衣修士",
     "施展魔禁的黑衣修士",
     "鬼仙之力男子",
-    "天鬼主人"
+    "天鬼主人",
+    "盘旋细剑的黑衣人",
+    "试探王林的黑衣人"
   ],
   "summary": "第526章登场的敌手，藏身于紫色妖力气浪深处疯狂吸收妖力，手持黑色细剑，察觉王林神识后宣称王林是他的猎物。",
   "attributes": {
-    "外貌": "一身黑衣、面色冰冷、嘴唇略薄、颇有刻薄之意、黑衣青年、黑衣，面色阴沉；施禁术时双目血丝、青筋鼓包、黑衣、面色阴沉、目光如电",
+    "外貌": "一身黑衣、面色冰冷、嘴唇略薄、颇有刻薄之意、黑衣青年、黑衣，面色阴沉；施禁术时双目血丝、青筋鼓包、黑衣、面色阴沉、目光如电、黑衣，双手抱胸",
     "性格": "冷酷刻薄，以猎杀外来者夺取妖晶为业、狂傲、残忍、见势收敛",
     "本命法宝": "本命毒雾",
-    "存殁": "在世、存活、存活（本片段结束时仍在交战）、肉身尽灭，元神被擒禁锢于魂幡",
+    "存殁": "在世、存活、存活（本片段结束时仍在交战）、肉身尽灭，元神被擒禁锢于魂幡、死亡",
     "小阶段": "婴变后期大圆满",
     "出身地": "天运星本地",
     "元神强度": "即将踏入问鼎的强大元神",
     "性别": "男",
-    "身份": "鬼仙之力修炼者、天鬼豢养者",
-    "死因": "肉身被魔气·鬼仙之气凝成的黑球轰成飞灰"
+    "身份": "某妖将派来的试探者/刺客",
+    "死因": "被王林寂灭指黑芒印中胸口",
+    "结局": "身死，一道灰气自七窍飘出被王林右手吸收"
   },
   "observations": {
     "外貌": [
@@ -45,6 +48,11 @@
         "value": "黑衣、面色阴沉、目光如电",
         "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
         "seq": 505
+      },
+      {
+        "value": "黑衣，双手抱胸",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546
       }
     ],
     "性格": [
@@ -94,6 +102,11 @@
         "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
         "seq": 505,
         "note": "第529-530章；元神未死"
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546
       }
     ],
     "小阶段": [
@@ -140,6 +153,11 @@
         "value": "鬼仙之力修炼者、天鬼豢养者",
         "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
         "seq": 505
+      },
+      {
+        "value": "某妖将派来的试探者/刺客",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546
       }
     ],
     "死因": [
@@ -148,6 +166,18 @@
         "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
         "seq": 505,
         "note": "元神先一步离体逃遁"
+      },
+      {
+        "value": "被王林寂灭指黑芒印中胸口",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546
+      }
+    ],
+    "结局": [
+      {
+        "value": "身死，一道灰气自七窍飘出被王林右手吸收",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546
       }
     ]
   },
@@ -205,23 +235,29 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+      "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
       "dated": false,
-      "seq": 505
+      "seq": 546
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+      "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
       "dated": false,
-      "seq": 505,
-      "note": "元神先一步离体逃遁"
+      "seq": 546
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+      "dated": false,
+      "seq": 546
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
-    "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing"
+    "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+    "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai"
   ],
-  "updatedAt": "2026-08-22T02:15:05.858Z"
+  "updatedAt": "2026-08-22T10:03:29.819Z"
 }

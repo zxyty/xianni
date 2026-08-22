@@ -7,14 +7,15 @@
     "Hong Cheng",
     "洪城城区",
     "天妖城洪城",
-    "京都洪城"
+    "京都洪城",
+    "洪"
   ],
   "summary": "天妖城外八城之一，属外环武将居住之城，位于西门岔口之右；莫厉海府邸所在，城内商铺遍地极为繁华，街心设军道。",
   "attributes": {
     "所属势力": "天妖郡",
-    "类型": "京都城池",
-    "方位": "天妖城西门内，岔口向右",
-    "上级区域": "天妖城",
+    "类型": "妖族城池",
+    "方位": "玄城以东（自洪城西门入玄城）",
+    "上级区域": "天妖郡",
     "所属界面": "妖灵之地",
     "特产": "衣着开放的风俗、临河画舫、河道画舫与琴音、古妖城美酒（自外流入）"
   },
@@ -41,6 +42,11 @@
         "value": "京都城池",
         "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
         "seq": 544
+      },
+      {
+        "value": "妖族城池",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546
       }
     ],
     "方位": [
@@ -48,6 +54,11 @@
         "value": "天妖城西门内，岔口向右",
         "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
         "seq": 537
+      },
+      {
+        "value": "玄城以东（自洪城西门入玄城）",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546
       }
     ],
     "上级区域": [
@@ -55,6 +66,11 @@
         "value": "天妖城",
         "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
         "seq": 537
+      },
+      {
+        "value": "天妖郡",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546
       }
     ],
     "所属界面": [
@@ -93,21 +109,21 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
+      "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
       "dated": false,
-      "seq": 544
+      "seq": 546
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+      "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
       "dated": false,
-      "seq": 537
+      "seq": 546
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+      "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
       "dated": false,
-      "seq": 537
+      "seq": 546
     },
     "所属界面": {
       "asOf": null,
@@ -128,7 +144,8 @@
   "docs": [
     "plot.xianni-ch568-tianyao-city-familiar-face",
     "plot.xianni-ch569-luanjing-preface-tianyao-city",
-    "plot.xianni-ch544-545-hongprison-slaughter-immortal-art"
+    "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
+    "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai"
   ],
-  "updatedAt": "2026-08-22T09:50:47.419Z"
+  "updatedAt": "2026-08-22T10:03:29.786Z"
 }

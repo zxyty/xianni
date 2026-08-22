@@ -10,15 +10,17 @@
     "妖帝陛下",
     "天妖城妖帝",
     "黄袍人",
-    "皇宫黄袍之人"
+    "皇宫黄袍之人",
+    "妖灵之地妖帝"
   ],
   "summary": "妖灵之地至高存在，曾有言：对外来者只要修为足够，可赐予一切职务。",
   "attributes": {
-    "身份": "妖族至尊、妖族至高统治者、天妖郡之主、妖帝",
+    "身份": "妖族至尊、妖族至高统治者、天妖郡之主、妖帝、妖族之帝、妖灵之地之主",
     "种族": "妖族",
     "称号": "帝君",
     "本命法宝": "帝剑",
-    "外貌": "身穿黄袍"
+    "外貌": "身穿黄袍",
+    "阵营": "妖族"
   },
   "observations": {
     "身份": [
@@ -41,6 +43,16 @@
         "value": "妖帝",
         "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
         "seq": 544
+      },
+      {
+        "value": "妖族之帝",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546
+      },
+      {
+        "value": "妖灵之地之主",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546
       }
     ],
     "种族": [
@@ -75,6 +87,13 @@
         "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
         "seq": 544
       }
+    ],
+    "阵营": [
+      {
+        "value": "妖族",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546
+      }
     ]
   },
   "firstSeq": 518,
@@ -108,6 +127,12 @@
       "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
       "dated": false,
       "seq": 544
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+      "dated": false,
+      "seq": 546
     }
   },
   "contested": false,
@@ -119,7 +144,8 @@
     "plot.xianni-ch565-laozu-return-yaojiang-truce",
     "plot.xianni-ch568-tianyao-city-familiar-face",
     "plot.xianni-ch569-luanjing-preface-tianyao-city",
-    "plot.xianni-ch544-545-hongprison-slaughter-immortal-art"
+    "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
+    "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai"
   ],
-  "updatedAt": "2026-08-22T09:50:47.410Z"
+  "updatedAt": "2026-08-22T10:03:29.823Z"
 }

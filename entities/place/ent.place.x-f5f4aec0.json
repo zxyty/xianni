@@ -3,14 +3,16 @@
   "type": "place",
   "name": "玄城",
   "aliases": [
-    "天妖城玄城"
+    "天妖城玄城",
+    "玄"
   ],
   "summary": "天妖城外八城之一，属内环文臣居住之城，位于西门岔口之左。",
   "attributes": {
     "所属势力": "天妖郡",
-    "类型": "外城（内环·文臣）",
-    "方位": "天妖城西门内，岔口向左",
-    "上级区域": "天妖城"
+    "类型": "妖族城池",
+    "方位": "洪城西门之外",
+    "上级区域": "天妖郡",
+    "规模": "与洪城一般大小"
   },
   "observations": {
     "所属势力": [
@@ -25,6 +27,11 @@
         "value": "外城（内环·文臣）",
         "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
         "seq": 537
+      },
+      {
+        "value": "妖族城池",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546
       }
     ],
     "方位": [
@@ -32,6 +39,11 @@
         "value": "天妖城西门内，岔口向左",
         "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
         "seq": 537
+      },
+      {
+        "value": "洪城西门之外",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546
       }
     ],
     "上级区域": [
@@ -39,6 +51,18 @@
         "value": "天妖城",
         "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
         "seq": 537
+      },
+      {
+        "value": "天妖郡",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546
+      }
+    ],
+    "规模": [
+      {
+        "value": "与洪城一般大小",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546
       }
     ]
   },
@@ -52,27 +76,34 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+      "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
       "dated": false,
-      "seq": 537
+      "seq": 546
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+      "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
       "dated": false,
-      "seq": 537
+      "seq": 546
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch568-tianyao-city-familiar-face",
+      "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
       "dated": false,
-      "seq": 537
+      "seq": 546
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+      "dated": false,
+      "seq": 546
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch568-tianyao-city-familiar-face"
+    "plot.xianni-ch568-tianyao-city-familiar-face",
+    "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai"
   ],
-  "updatedAt": "2026-08-22T09:28:44.770Z"
+  "updatedAt": "2026-08-22T10:03:29.787Z"
 }

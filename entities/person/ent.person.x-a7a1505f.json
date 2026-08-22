@@ -4,14 +4,16 @@
   "name": "明萱",
   "aliases": [
     "画舫抚琴女子",
-    "画舫女子"
+    "画舫女子",
+    "弹琴女子"
   ],
   "summary": "洪城河道画舫上的抚琴女子，双目失明，琴音极悲；被主事者勒令改弹欢快曲调，弹出的实为强颜欢笑。",
   "attributes": {
     "性别": "女",
-    "身份": "画舫抚琴女子",
-    "标志特征": "目盲（眼前始终一片黑暗）；琴音悲苦",
-    "性格": "隐忍、悲伤深藏"
+    "身份": "画舫弹琴女子",
+    "标志特征": "双目所见始终为黑色（目盲）",
+    "性格": "隐忍、悲伤深藏",
+    "外貌": "始终背对王林，相貌不明"
   },
   "observations": {
     "性别": [
@@ -27,6 +29,11 @@
         "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
         "seq": 544,
         "note": "受制于人，身不由己"
+      },
+      {
+        "value": "画舫弹琴女子",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546
       }
     ],
     "标志特征": [
@@ -34,6 +41,11 @@
         "value": "目盲（眼前始终一片黑暗）；琴音悲苦",
         "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
         "seq": 544
+      },
+      {
+        "value": "双目所见始终为黑色（目盲）",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546
       }
     ],
     "性格": [
@@ -41,6 +53,14 @@
         "value": "隐忍、悲伤深藏",
         "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
         "seq": 544
+      }
+    ],
+    "外貌": [
+      {
+        "value": "始终背对王林，相貌不明",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546,
+        "note": "王林至今不知其相貌"
       }
     ]
   },
@@ -54,28 +74,35 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
+      "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
       "dated": false,
-      "seq": 544,
-      "note": "受制于人，身不由己"
+      "seq": 546
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
+      "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
       "dated": false,
-      "seq": 544
+      "seq": 546
     },
     "性格": {
       "asOf": null,
       "docId": "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
       "dated": false,
       "seq": 544
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+      "dated": false,
+      "seq": 546,
+      "note": "王林至今不知其相貌"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch544-545-hongprison-slaughter-immortal-art"
+    "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
+    "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai"
   ],
-  "updatedAt": "2026-08-22T09:50:47.369Z"
+  "updatedAt": "2026-08-22T10:03:29.769Z"
 }

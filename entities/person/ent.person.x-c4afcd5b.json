@@ -7,13 +7,16 @@
     "王者一般的青年",
     "黑发男子",
     "洪牢深处黑发男子",
-    "血潭黑发男子"
+    "血潭黑发男子",
+    "血潭内的黑发男子"
   ],
   "summary": "血色世界中血杀之雾最浓的强者，宛如王者，两度冲击银龙皆被击杀，又两度在血潭复活、杀气尽失重新攀升。",
   "attributes": {
     "外貌": "黑发，身外血杀之雾厚约上百丈、黑发，眼中一片血色，身外淡淡血杀之雾",
     "存殁": "死后于血潭复活、存活",
-    "死因": "冲击银龙被银芒击溃 / 被银龙巨爪压成血肉"
+    "死因": "冲击银龙被银芒击溃 / 被银龙巨爪压成血肉",
+    "标志特征": "死后可反复复活",
+    "结局": "被银龙反复杀死"
   },
   "observations": {
     "外貌": [
@@ -48,6 +51,21 @@
         "seq": 544,
         "note": "两次皆随即在血潭复活"
       }
+    ],
+    "标志特征": [
+      {
+        "value": "死后可反复复活",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546
+      }
+    ],
+    "结局": [
+      {
+        "value": "被银龙反复杀死",
+        "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+        "seq": 546,
+        "note": "每次复活即被再杀"
+      }
     ]
   },
   "firstSeq": 544,
@@ -71,12 +89,26 @@
       "dated": false,
       "seq": 544,
       "note": "两次皆随即在血潭复活"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+      "dated": false,
+      "seq": 546
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+      "dated": false,
+      "seq": 546,
+      "note": "每次复活即被再杀"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch544-545-hongprison-slaughter-immortal-art"
+    "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
+    "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai"
   ],
-  "updatedAt": "2026-08-22T09:50:47.404Z"
+  "updatedAt": "2026-08-22T10:03:29.822Z"
 }
