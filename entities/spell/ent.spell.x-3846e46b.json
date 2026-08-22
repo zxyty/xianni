@@ -1,66 +1,56 @@
 {
-  "id": "ent.faction.x-3801bb10",
-  "type": "faction",
-  "name": "孙家",
+  "id": "ent.spell.x-3846e46b",
+  "type": "spell",
+  "name": "元神之气炼材",
   "aliases": [
-    "冉云星孙家",
-    "Sun Family",
-    "孙家势力"
+    "一口元神之气",
+    "元神炼化",
+    "元神炼器"
   ],
-  "summary": "冉云星修真家族，孙雪山所属。",
+  "summary": "王林吐出一口元神之气包裹炼器材料，令其顷刻融化并按神识所念化作模具；经元神炼化的法宝内蕴游走电光。",
   "attributes": {
-    "据点": "孙家城池",
-    "所属界面": "冉云星",
-    "阵营": "罗天星域家族势力"
+    "类型": "炼器手段",
+    "出处": "王林",
+    "适用境界": "问鼎"
   },
   "observations": {
-    "据点": [
+    "类型": [
       {
-        "value": "冉云星",
-        "docId": "plot.xianni-ch660-first-entry-luoyun-star-domain",
-        "seq": 618
-      },
-      {
-        "value": "孙家城池",
+        "value": "炼器手段",
         "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
         "seq": 621
       }
     ],
-    "所属界面": [
+    "出处": [
       {
-        "value": "罗天星域",
-        "docId": "plot.xianni-ch660-first-entry-luoyun-star-domain",
-        "seq": 618
-      },
-      {
-        "value": "冉云星",
+        "value": "王林",
         "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
         "seq": 621
       }
     ],
-    "阵营": [
+    "适用境界": [
       {
-        "value": "罗天星域家族势力",
+        "value": "问鼎",
         "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
         "seq": 621
       }
     ]
   },
-  "firstSeq": 618,
+  "firstSeq": 621,
   "attrProvenance": {
-    "据点": {
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
       "dated": false,
       "seq": 621
     },
-    "所属界面": {
+    "出处": {
       "asOf": null,
       "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
       "dated": false,
       "seq": 621
     },
-    "阵营": {
+    "适用境界": {
       "asOf": null,
       "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
       "dated": false,
@@ -70,8 +60,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch660-first-entry-luoyun-star-domain",
     "plot.xianni-ch662-mou-yu-ranyun-star-hideout"
   ],
-  "updatedAt": "2026-08-22T22:21:34.726Z"
+  "updatedAt": "2026-08-22T22:21:34.740Z"
 }

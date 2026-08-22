@@ -5,17 +5,21 @@
   "aliases": [
     "冉云星辰",
     "冉云星球",
-    "Ran Yun Star"
+    "Ran Yun Star",
+    "Ranyun Star",
+    "冉云"
   ],
   "summary": "本章战场所在的星辰，村落与西部平原皆在其上；王林雷球轰崩铁棍的余波使整颗星辰震颤、名山巨峰坍塌。",
   "attributes": {
-    "类型": "星辰、星球、星辰/隐居地、修真星",
+    "类型": "星辰、星球、星辰/隐居地、修真星、修真星球",
     "规模": "拥有村落、平原与大量名山巨峰",
     "危险度": "高（雷仙殿使者临星调查）",
     "守护": "王林（许木）",
     "所属界面": "罗天星域",
     "方位": "距救援处正北方约十日星路",
-    "所属势力": "冉家、孙家"
+    "所属势力": "冉家、孙家、三方势力（各有一名问鼎修士）",
+    "上级区域": "罗天星域",
+    "特产": "灵力极为充足"
   },
   "observations": {
     "类型": [
@@ -38,6 +42,11 @@
         "value": "修真星",
         "docId": "plot.xianni-ch660-first-entry-luoyun-star-domain",
         "seq": 618
+      },
+      {
+        "value": "修真星球",
+        "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
+        "seq": 621
       }
     ],
     "规模": [
@@ -45,6 +54,11 @@
         "value": "拥有村落、平原与大量名山巨峰",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
+      },
+      {
+        "value": "三方势力：一问鼎中期、两问鼎初期",
+        "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
+        "seq": 621
       }
     ],
     "危险度": [
@@ -86,6 +100,25 @@
         "value": "孙家",
         "docId": "plot.xianni-ch660-first-entry-luoyun-star-domain",
         "seq": 618
+      },
+      {
+        "value": "三方势力（各有一名问鼎修士）",
+        "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
+        "seq": 621
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "罗天星域",
+        "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
+        "seq": 621
+      }
+    ],
+    "特产": [
+      {
+        "value": "灵力极为充足",
+        "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
+        "seq": 621
       }
     ]
   },
@@ -133,6 +166,18 @@
       "docId": "plot.xianni-ch660-first-entry-luoyun-star-domain",
       "dated": false,
       "seq": 618
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
+      "dated": false,
+      "seq": 621
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
+      "dated": false,
+      "seq": 621
     }
   },
   "contested": false,
@@ -140,7 +185,8 @@
   "docs": [
     "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
     "plot.xianni-ch660-first-entry-luoyun-star-domain",
-    "plot.xianni-ch661-meier-luotian-north-domain"
+    "plot.xianni-ch661-meier-luotian-north-domain",
+    "plot.xianni-ch662-mou-yu-ranyun-star-hideout"
   ],
-  "updatedAt": "2026-08-22T22:14:17.822Z"
+  "updatedAt": "2026-08-22T22:21:34.728Z"
 }

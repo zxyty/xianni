@@ -6,13 +6,16 @@
     "十滴仙液",
     "酒壶中的仙液",
     "四滴仙液",
-    "王林体内的仙液"
+    "王林体内的仙液",
+    "仙界之液",
+    "Xian Ye",
+    "仙液药力"
   ],
   "summary": "酒壶内所装的仙液，入体后仙力如雷霆轰动经脉，需强化过的经脉方可承受。",
   "attributes": {
-    "类型": "仙界液体",
-    "用途": "瞬间赋予难以想象的仙力、自爆时随元神燃烧沸腾，倍增威力、持续补充仙力、使体内仙力生生不息、无需补充",
-    "稀有度": "极稀有"
+    "类型": "仙界灵液",
+    "用途": "瞬间赋予难以想象的仙力、自爆时随元神燃烧沸腾，倍增威力、持续补充仙力、使体内仙力生生不息、无需补充、一滴可助修士问鼎、疗伤、短时间使体内仙力生生不息",
+    "稀有度": "极稀有（王林仅余五滴）"
   },
   "observations": {
     "类型": [
@@ -25,6 +28,11 @@
         "value": "仙界液体",
         "docId": "plot.xianni-ch609-ancient-yao-blood-shadow",
         "seq": 566
+      },
+      {
+        "value": "仙界灵液",
+        "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
+        "seq": 621
       }
     ],
     "用途": [
@@ -47,6 +55,21 @@
         "value": "使体内仙力生生不息、无需补充",
         "docId": "plot.xianni-ch637-save-zhou-yi-tidal-abyss-rift",
         "seq": 596
+      },
+      {
+        "value": "一滴可助修士问鼎",
+        "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
+        "seq": 621
+      },
+      {
+        "value": "疗伤",
+        "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
+        "seq": 621
+      },
+      {
+        "value": "短时间使体内仙力生生不息",
+        "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
+        "seq": 621
       }
     ],
     "稀有度": [
@@ -59,6 +82,11 @@
         "value": "极稀有",
         "docId": "plot.xianni-ch608-blood-soul-pill-self-destruct",
         "seq": 566
+      },
+      {
+        "value": "极稀有（王林仅余五滴）",
+        "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
+        "seq": 621
       }
     ]
   },
@@ -66,9 +94,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch609-ancient-yao-blood-shadow",
+      "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
       "dated": false,
-      "seq": 566
+      "seq": 621
     },
     "用途": {
       "asOf": null,
@@ -78,9 +106,9 @@
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.xianni-ch608-blood-soul-pill-self-destruct",
+      "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
       "dated": false,
-      "seq": 566
+      "seq": 621
     }
   },
   "contested": false,
@@ -89,7 +117,8 @@
     "plot.xianni-ch602-crazed-battle-intent",
     "plot.xianni-ch608-blood-soul-pill-self-destruct",
     "plot.xianni-ch609-ancient-yao-blood-shadow",
-    "plot.xianni-ch637-save-zhou-yi-tidal-abyss-rift"
+    "plot.xianni-ch637-save-zhou-yi-tidal-abyss-rift",
+    "plot.xianni-ch662-mou-yu-ranyun-star-hideout"
   ],
-  "updatedAt": "2026-08-22T18:27:21.071Z"
+  "updatedAt": "2026-08-22T22:21:34.733Z"
 }

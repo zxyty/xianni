@@ -1,66 +1,55 @@
 {
-  "id": "ent.faction.x-3801bb10",
-  "type": "faction",
-  "name": "孙家",
+  "id": "ent.artifact.x-993cfa36",
+  "type": "artifact",
+  "name": "寻常飞剑",
   "aliases": [
-    "冉云星孙家",
-    "Sun Family",
-    "孙家势力"
+    "普通飞剑",
+    "代步飞剑"
   ],
-  "summary": "冉云星修真家族，孙雪山所属。",
+  "summary": "王林自储物袋取出的一柄毫不起眼的飞剑，仅作赶路代步之用，配合其结丹后期的伪装。",
   "attributes": {
-    "据点": "孙家城池",
-    "所属界面": "冉云星",
-    "阵营": "罗天星域家族势力"
+    "持有者": "王林",
+    "能力": "御剑代步",
+    "品阶": "寻常"
   },
   "observations": {
-    "据点": [
+    "持有者": [
       {
-        "value": "冉云星",
-        "docId": "plot.xianni-ch660-first-entry-luoyun-star-domain",
-        "seq": 618
-      },
-      {
-        "value": "孙家城池",
+        "value": "王林",
         "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
         "seq": 621
       }
     ],
-    "所属界面": [
+    "能力": [
       {
-        "value": "罗天星域",
-        "docId": "plot.xianni-ch660-first-entry-luoyun-star-domain",
-        "seq": 618
-      },
-      {
-        "value": "冉云星",
+        "value": "御剑代步",
         "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
         "seq": 621
       }
     ],
-    "阵营": [
+    "品阶": [
       {
-        "value": "罗天星域家族势力",
+        "value": "寻常",
         "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
         "seq": 621
       }
     ]
   },
-  "firstSeq": 618,
+  "firstSeq": 621,
   "attrProvenance": {
-    "据点": {
+    "持有者": {
       "asOf": null,
       "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
       "dated": false,
       "seq": 621
     },
-    "所属界面": {
+    "能力": {
       "asOf": null,
       "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
       "dated": false,
       "seq": 621
     },
-    "阵营": {
+    "品阶": {
       "asOf": null,
       "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
       "dated": false,
@@ -70,8 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch660-first-entry-luoyun-star-domain",
     "plot.xianni-ch662-mou-yu-ranyun-star-hideout"
   ],
-  "updatedAt": "2026-08-22T22:21:34.726Z"
+  "updatedAt": "2026-08-22T22:21:34.707Z"
 }

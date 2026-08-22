@@ -5,12 +5,15 @@
   "aliases": [
     "灵石",
     "下品灵石碎片",
-    "修士货币灵石"
+    "修士货币灵石",
+    "百块灵石",
+    "Spirit Stone",
+    "灵石货币"
   ],
   "summary": "修仙资源，孙大柱以一块下品灵石作为'再交一个灵气葫芦'的诱饵；有助凝气修炼。",
   "attributes": {
-    "类型": "灵石、修炼资源、修炼辅助灵石、灵力载体/货币",
-    "用途": "修士间货币与灵力补给"
+    "类型": "灵石、修炼资源、修炼辅助灵石、灵力载体/货币、通货",
+    "用途": "助凝气修炼、修炼/兑换、修士间货币与灵力补给、修真界通用货币/修炼资源、支付租金"
   },
   "observations": {
     "类型": [
@@ -33,6 +36,11 @@
         "value": "灵力载体/货币",
         "docId": "plot.xianni-ch432-ancestral-rune-skull",
         "seq": 410
+      },
+      {
+        "value": "通货",
+        "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
+        "seq": 621
       }
     ],
     "用途": [
@@ -50,6 +58,16 @@
         "value": "修士间货币与灵力补给",
         "docId": "plot.xianni-ch432-ancestral-rune-skull",
         "seq": 410
+      },
+      {
+        "value": "修真界通用货币/修炼资源",
+        "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
+        "seq": 621
+      },
+      {
+        "value": "支付租金",
+        "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
+        "seq": 621
       }
     ]
   },
@@ -63,9 +81,9 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch432-ancestral-rune-skull",
+      "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
       "dated": false,
-      "seq": 410
+      "seq": 13
     }
   },
   "contested": false,
@@ -73,7 +91,8 @@
   "docs": [
     "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
     "plot.xianni-ch19-24-zhu-men-jiu-yun-duo-ling",
-    "plot.xianni-ch432-ancestral-rune-skull"
+    "plot.xianni-ch432-ancestral-rune-skull",
+    "plot.xianni-ch662-mou-yu-ranyun-star-hideout"
   ],
-  "updatedAt": "2026-08-17T19:46:41.414Z"
+  "updatedAt": "2026-08-22T22:21:34.731Z"
 }

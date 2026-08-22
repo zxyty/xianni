@@ -1,66 +1,55 @@
 {
-  "id": "ent.faction.x-3801bb10",
-  "type": "faction",
-  "name": "孙家",
+  "id": "ent.item.x-8662c7e4",
+  "type": "item",
+  "name": "孙家房舍令牌",
   "aliases": [
-    "冉云星孙家",
-    "Sun Family",
-    "孙家势力"
+    "孙家令牌",
+    "入口令牌"
   ],
-  "summary": "冉云星修真家族，孙雪山所属。",
+  "summary": "孙家青年掷给王林的令牌，其上有两道禁制，其一用于通过入口，另一用于开启房舍。",
   "attributes": {
-    "据点": "孙家城池",
-    "所属界面": "冉云星",
-    "阵营": "罗天星域家族势力"
+    "类型": "身份/通行令牌",
+    "用途": "通过入口、进入所租房舍",
+    "产地": "孙家"
   },
   "observations": {
-    "据点": [
+    "类型": [
       {
-        "value": "冉云星",
-        "docId": "plot.xianni-ch660-first-entry-luoyun-star-domain",
-        "seq": 618
-      },
-      {
-        "value": "孙家城池",
+        "value": "身份/通行令牌",
         "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
         "seq": 621
       }
     ],
-    "所属界面": [
+    "用途": [
       {
-        "value": "罗天星域",
-        "docId": "plot.xianni-ch660-first-entry-luoyun-star-domain",
-        "seq": 618
-      },
-      {
-        "value": "冉云星",
+        "value": "通过入口、进入所租房舍",
         "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
         "seq": 621
       }
     ],
-    "阵营": [
+    "产地": [
       {
-        "value": "罗天星域家族势力",
+        "value": "孙家",
         "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
         "seq": 621
       }
     ]
   },
-  "firstSeq": 618,
+  "firstSeq": 621,
   "attrProvenance": {
-    "据点": {
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
       "dated": false,
       "seq": 621
     },
-    "所属界面": {
+    "用途": {
       "asOf": null,
       "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
       "dated": false,
       "seq": 621
     },
-    "阵营": {
+    "产地": {
       "asOf": null,
       "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
       "dated": false,
@@ -70,8 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch660-first-entry-luoyun-star-domain",
     "plot.xianni-ch662-mou-yu-ranyun-star-hideout"
   ],
-  "updatedAt": "2026-08-22T22:21:34.726Z"
+  "updatedAt": "2026-08-22T22:21:34.730Z"
 }

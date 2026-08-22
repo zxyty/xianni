@@ -203,3 +203,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T21:10:04.225Z** `ingest` plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang — 第659章 离去：剑尊等老怪破妖灵之地，王巍交出贪狼，王林踏入潮汐深渊 · kind=plot asOf=2026-08-22 entities=36 relations=66 src=00618-00620.p2.md
 - **2026-08-22T21:12:19.182Z** `ingest` plot.xianni-ch660-first-entry-luoyun-star-domain — 第660章 初入罗云：王林雷电解围冉家四人，被疑为雷仙使者 · kind=plot asOf=2026-08-22 entities=21 relations=28 src=00618-00620.p3.md
 - **2026-08-22T22:14:17.983Z** `ingest` plot.xianni-ch661-meier-luotian-north-domain — 第661章 眉儿：王林化名「许木」入冉云星，幻家大长老携弟子眉儿返罗天 · kind=plot asOf=2026-08-22 entities=28 relations=42 src=00621-00625.p1.md
+- **2026-08-22T22:21:34.879Z** `ingest` plot.xianni-ch662-mou-yu-ranyun-star-hideout — 第662章 谋玉：王林隐匿冉云星，化貌入孙家城池 · kind=plot asOf=2026-08-22 entities=42 relations=68 src=00621-00625.p2.md

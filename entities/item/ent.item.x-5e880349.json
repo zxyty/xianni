@@ -5,12 +5,13 @@
   "aliases": [
     "黑色令牌",
     "炼魂宗弟子令牌",
-    "弟子令牌"
+    "弟子令牌",
+    "城北黑色令牌"
   ],
   "summary": "常大伟交给王林的黑色令牌，对应第1090洞的使用权。",
   "attributes": {
-    "类型": "身份令牌",
-    "用途": "证明弟子身份、通行藏经阁"
+    "类型": "洞府凭证",
+    "用途": "标示/领取空余洞府"
   },
   "observations": {
     "类型": [
@@ -23,6 +24,11 @@
         "value": "身份令牌",
         "docId": "plot.xianni-ch380-lianhunzong-search",
         "seq": 358
+      },
+      {
+        "value": "洞府凭证",
+        "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
+        "seq": 621
       }
     ],
     "用途": [
@@ -35,6 +41,11 @@
         "value": "证明弟子身份、通行藏经阁",
         "docId": "plot.xianni-ch380-lianhunzong-search",
         "seq": 358
+      },
+      {
+        "value": "标示/领取空余洞府",
+        "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
+        "seq": 621
       }
     ]
   },
@@ -42,22 +53,23 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch380-lianhunzong-search",
+      "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
       "dated": false,
-      "seq": 358
+      "seq": 621
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch380-lianhunzong-search",
+      "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
       "dated": false,
-      "seq": 358
+      "seq": 621
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
-    "plot.xianni-ch380-lianhunzong-search"
+    "plot.xianni-ch380-lianhunzong-search",
+    "plot.xianni-ch662-mou-yu-ranyun-star-hideout"
   ],
-  "updatedAt": "2026-08-15T08:44:30.505Z"
+  "updatedAt": "2026-08-22T22:21:34.709Z"
 }
