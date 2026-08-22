@@ -123,3 +123,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T00:48:47.612Z** `ingest` plot.xianni-ch519-tide-recede-golden-token — 仙逆 第519章 令牌：潮落回缩与赤芒深处的金色令牌 · kind=plot asOf=2026-08-22 entities=77 relations=130 src=00496-00499.md
 - **2026-08-22T01:02:51.053Z** `ingest` plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun — 仙逆 第500-504章：王林推衍破上古青影阵、见黄龙画卷、初闻天妖郡 · kind=plot asOf=2026-08-22 entities=51 relations=98 src=00500-00504.md
 - **2026-08-22T02:15:06.111Z** `ingest` plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing — 仙逆 第505-509章：魔禁·天鬼第四尊与化魔指抹杀 · kind=plot asOf=2026-08-22 entities=81 relations=143 src=00505-00509.md
+- **2026-08-22T02:29:37.227Z** `ingest` plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan — 仙逆 第510-513章：王林传授炼魂术、融合三甲妖晶、十三炼魂幡反噬 · kind=plot asOf=2026-08-22 entities=42 relations=100 src=00510-00513.md

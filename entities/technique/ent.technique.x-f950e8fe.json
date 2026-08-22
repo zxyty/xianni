@@ -5,13 +5,19 @@
   "aliases": [
     "炼魂法",
     "炼魂术",
-    "炼魂峰炼魂之术"
+    "炼魂峰炼魂之术",
+    "炼魂妖术",
+    "炼魂宗神通",
+    "改良炼魂术",
+    "王林改良之后的炼魂术",
+    "Soul Refining Art"
   ],
   "summary": "魂幡三法之一：炼化世间一切死魂并封印于魂幡，以特殊方法使其在幡内不消散、反而渐渐成长。",
   "attributes": {
-    "出处": "炼魂峰／炼魂玉简、炼魂峰",
-    "效果": "炼化死魂封入魂幡，幡内魂魄不散反长",
-    "修炼条件": "王林用三个月炼成魂漩，为炼魂峰第三人"
+    "出处": "炼魂峰／炼魂玉简、炼魂峰、炼魂宗、王林改良并传下、妖灵之地",
+    "效果": "炼化死魂封入魂幡，幡内魂魄不散反长、炼化魂魄、封印魂魄入魂幡、驱使魂魄战斗、炼化封印人与妖兽魂魄入魂幡、入门简单、王林可操控震慑一切由此术封印之魂、修炼后可积累妖力，以星级衡量（如三星标准妖力）",
+    "修炼条件": "王林用三个月炼成魂漩，为炼魂峰第三人、此地以妖力代替灵力修炼、口诀分阶段传授，需向王林立功方得后续阶段",
+    "适用境界": "入门容易、精深困难；分阶段，第三阶段可制幡"
   },
   "observations": {
     "出处": [
@@ -24,6 +30,21 @@
         "value": "炼魂峰",
         "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
         "seq": 363
+      },
+      {
+        "value": "炼魂宗",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510
+      },
+      {
+        "value": "王林改良并传下",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510
+      },
+      {
+        "value": "妖灵之地",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510
       }
     ],
     "效果": [
@@ -31,6 +52,41 @@
         "value": "炼化死魂封入魂幡，幡内魂魄不散反长",
         "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
         "seq": 363
+      },
+      {
+        "value": "炼化魂魄",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510
+      },
+      {
+        "value": "封印魂魄入魂幡",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510
+      },
+      {
+        "value": "驱使魂魄战斗",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510
+      },
+      {
+        "value": "炼化封印人与妖兽魂魄入魂幡",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510
+      },
+      {
+        "value": "入门简单",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510
+      },
+      {
+        "value": "王林可操控震慑一切由此术封印之魂",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510
+      },
+      {
+        "value": "修炼后可积累妖力，以星级衡量（如三星标准妖力）",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510
       }
     ],
     "修炼条件": [
@@ -38,6 +94,25 @@
         "value": "王林用三个月炼成魂漩，为炼魂峰第三人",
         "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
         "seq": 363
+      },
+      {
+        "value": "此地以妖力代替灵力修炼",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510,
+        "note": "妖灵之地无灵力"
+      },
+      {
+        "value": "口诀分阶段传授，需向王林立功方得后续阶段",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510,
+        "note": "第535章：族人仅有前三阶段"
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "入门容易、精深困难；分阶段，第三阶段可制幡",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510
       }
     ]
   },
@@ -60,12 +135,19 @@
       "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
       "dated": false,
       "seq": 363
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+      "dated": false,
+      "seq": 510
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction"
+    "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+    "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan"
   ],
-  "updatedAt": "2026-08-15T09:19:09.934Z"
+  "updatedAt": "2026-08-22T02:29:37.117Z"
 }

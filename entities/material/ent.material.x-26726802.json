@@ -13,14 +13,18 @@
     "小手指大小结晶",
     "Yao Jing",
     "罗云妖晶",
-    "山谷妖晶"
+    "山谷妖晶",
+    "二甲妖晶",
+    "五甲妖晶",
+    "Demon Crystal",
+    "妖晶石"
   ],
   "summary": "东海妖灵之地的核心争夺物，外来者称仙力结晶、当地称妖灵玉；白色菱形水晶状，镶嵌于深青色崖壁中心，可疗伤，吸收后于丹田凝成米粒大小妖力结晶。",
   "attributes": {
-    "类型": "妖力凝聚的晶石、妖兽结晶、妖气结晶、妖力结晶、结晶",
-    "用途": "治疗族人伤势（品阶不高、疗效有限）、外来者吸收后于丹田凝成妖力结晶，疑可与仙力融合提高修为、换取天妖城进入资格、修士争夺之资源、储存/提供妖力，用于融合古妖与入府门槛",
-    "稀有度": "未明",
-    "产地": "东海妖灵之地，镶嵌于山谷深处深青色崖壁正中心、妖灵之兽体内、妖灵气浪、黑衣男子元神丹田内、罗云元神丹田位置／妖灵之地、古妖之地"
+    "类型": "妖力凝聚的晶石、妖兽结晶、妖气结晶、妖力结晶、结晶、妖灵之地修炼资源结晶、能量结晶",
+    "用途": "治疗族人伤势（品阶不高、疗效有限）、外来者吸收后于丹田凝成妖力结晶，疑可与仙力融合提高修为、换取天妖城进入资格、修士争夺之资源、储存/提供妖力，用于融合古妖与入府门槛、吞服吸收、与体内妖晶融合提升等级、在山谷部落中作为向王林立功的献礼、储存／散发妖力、部落厮杀所争夺的战利品",
+    "稀有度": "各部落争夺之物",
+    "产地": "东海妖灵之地，镶嵌于山谷深处深青色崖壁正中心、妖灵之兽体内、妖灵气浪、黑衣男子元神丹田内、罗云元神丹田位置／妖灵之地、古妖之地、妖灵之地各部落、妖灵之地"
   },
   "observations": {
     "类型": [
@@ -48,6 +52,16 @@
         "value": "结晶",
         "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
         "seq": 505
+      },
+      {
+        "value": "妖灵之地修炼资源结晶",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510
+      },
+      {
+        "value": "能量结晶",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510
       }
     ],
     "用途": [
@@ -75,6 +89,31 @@
         "value": "储存/提供妖力，用于融合古妖与入府门槛",
         "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
         "seq": 505
+      },
+      {
+        "value": "吞服吸收",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510
+      },
+      {
+        "value": "与体内妖晶融合提升等级",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510
+      },
+      {
+        "value": "在山谷部落中作为向王林立功的献礼",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510
+      },
+      {
+        "value": "储存／散发妖力",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510
+      },
+      {
+        "value": "部落厮杀所争夺的战利品",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510
       }
     ],
     "稀有度": [
@@ -87,6 +126,11 @@
         "value": "未明",
         "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
         "seq": 505
+      },
+      {
+        "value": "各部落争夺之物",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510
       }
     ],
     "产地": [
@@ -119,6 +163,16 @@
         "value": "古妖之地",
         "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
         "seq": 505
+      },
+      {
+        "value": "妖灵之地各部落",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510
+      },
+      {
+        "value": "妖灵之地",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510
       }
     ]
   },
@@ -138,9 +192,9 @@
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+      "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
       "dated": false,
-      "seq": 505
+      "seq": 510
     },
     "产地": {
       "asOf": null,
@@ -153,7 +207,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
-    "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing"
+    "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+    "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan"
   ],
-  "updatedAt": "2026-08-22T02:15:05.965Z"
+  "updatedAt": "2026-08-22T02:29:37.119Z"
 }

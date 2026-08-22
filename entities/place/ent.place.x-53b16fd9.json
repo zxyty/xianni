@@ -5,16 +5,18 @@
   "aliases": [
     "络家山谷",
     "山谷部落",
-    "妖灵之地山谷村落"
+    "妖灵之地山谷村落",
+    "山谷内的部落"
   ],
   "summary": "天妖郡蛮荒地带的一处凡人村落，密布简陋房舍，靠山谷外的上古阵法抵御妖灵之夜；除长老欧阳华外全部是凡人。",
   "attributes": {
-    "所属界面": "东海妖灵之地",
-    "类型": "村落/部落聚居地",
+    "所属界面": "妖灵之地",
+    "类型": "部落聚居山谷",
     "上级区域": "天妖郡",
     "方位": "天妖郡蛮荒地带",
-    "守护": "山谷上古护阵",
-    "危险度": "月圆妖灵之夜谷外必死"
+    "守护": "王林（居于山谷深处）",
+    "危险度": "月圆妖灵之夜谷外必死",
+    "规模": "男丁超过五十（半年内增长数倍）"
   },
   "observations": {
     "所属界面": [
@@ -22,6 +24,11 @@
         "value": "东海妖灵之地",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
+      },
+      {
+        "value": "妖灵之地",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510
       }
     ],
     "类型": [
@@ -29,6 +36,11 @@
         "value": "村落/部落聚居地",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
+      },
+      {
+        "value": "部落聚居山谷",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510
       }
     ],
     "上级区域": [
@@ -50,6 +62,11 @@
         "value": "山谷上古护阵",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
+      },
+      {
+        "value": "王林（居于山谷深处）",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510
       }
     ],
     "危险度": [
@@ -58,21 +75,29 @@
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
       }
+    ],
+    "规模": [
+      {
+        "value": "男丁超过五十（半年内增长数倍）",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510,
+        "note": "第535章"
+      }
     ]
   },
   "firstSeq": 500,
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+      "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
       "dated": false,
-      "seq": 500
+      "seq": 510
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+      "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
       "dated": false,
-      "seq": 500
+      "seq": 510
     },
     "上级区域": {
       "asOf": null,
@@ -88,21 +113,29 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+      "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
       "dated": false,
-      "seq": 500
+      "seq": 510
     },
     "危险度": {
       "asOf": null,
       "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
       "dated": false,
       "seq": 500
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+      "dated": false,
+      "seq": 510,
+      "note": "第535章"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun"
+    "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+    "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan"
   ],
-  "updatedAt": "2026-08-22T01:02:50.881Z"
+  "updatedAt": "2026-08-22T02:29:37.092Z"
 }

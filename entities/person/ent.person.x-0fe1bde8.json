@@ -10,18 +10,21 @@
     "老朽",
     "山谷首领",
     "欧阳华长者",
-    "欧阳华长老"
+    "欧阳华长老",
+    "欧阳华晚辈",
+    "欧阳华一组带队者"
   ],
   "summary": "山谷部族长老，满头苍发、拄黑色拐杖，出谷与王林交涉的乃是一具虚幻之身。年幼时在古妖城开蒙而获悠久寿元，警告并驱逐王林，谈崩后操控阵法唤出青影欲取王林魂魄献祭。",
   "attributes": {
     "性别": "男",
-    "身份": "山谷长老、山谷部族首领、山谷部落长老、族人教化者、妖灵之地山谷居民首领、山谷阵法主持者、山谷族落长老",
-    "外貌": "老者",
+    "身份": "山谷长老、山谷部族首领、山谷部落长老、族人教化者、妖灵之地山谷居民首领、山谷阵法主持者、山谷族落长老、炼魂术首位受传者、山谷部落主事者、炼魂术修行者、山谷部落出击队伍带队者",
+    "外貌": "老者，下巴留须",
     "寿元": "悠久",
-    "性格": "沉稳老练、外和内厉、谨慎、善算计、能下决心割舍重宝、对阵法自信，本夜忐忑不安、敬畏强者、有扩张野心",
+    "性格": "沉稳老练、外和内厉、谨慎、善算计、能下决心割舍重宝、对阵法自信，本夜忐忑不安、敬畏强者、有扩张野心、老练成精、恭敬感恩、藏拙让功、恭敬、贪图立功、善于逢迎",
     "标志特征": "以指尖鲜血开启山谷通道；妖力仅达一星标准",
-    "阵营": "妖灵之地本地族群",
-    "存殁": "在世"
+    "阵营": "山谷部落（王林麾下）",
+    "存殁": "在世",
+    "小阶段": "二星（可入微查看）"
   },
   "observations": {
     "性别": [
@@ -66,6 +69,22 @@
         "value": "山谷族落长老",
         "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
         "seq": 505
+      },
+      {
+        "value": "炼魂术首位受传者",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510
+      },
+      {
+        "value": "山谷部落主事者、炼魂术修行者",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510,
+        "note": "第535章"
+      },
+      {
+        "value": "山谷部落出击队伍带队者",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510
       }
     ],
     "外貌": [
@@ -79,6 +98,11 @@
         "value": "老者",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
+      },
+      {
+        "value": "老者，下巴留须",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510
       }
     ],
     "寿元": [
@@ -109,6 +133,16 @@
         "value": "敬畏强者、有扩张野心",
         "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
         "seq": 505
+      },
+      {
+        "value": "老练成精、恭敬感恩、藏拙让功",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510
+      },
+      {
+        "value": "恭敬、贪图立功、善于逢迎",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510
       }
     ],
     "标志特征": [
@@ -123,6 +157,11 @@
         "value": "妖灵之地本地族群",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
+      },
+      {
+        "value": "山谷部落（王林麾下）",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510
       }
     ],
     "存殁": [
@@ -130,6 +169,14 @@
         "value": "在世",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "二星（可入微查看）",
+        "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+        "seq": 510,
+        "note": "第533章由一星经王林强行打通一条经脉后突破"
       }
     ]
   },
@@ -149,9 +196,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+      "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
       "dated": false,
-      "seq": 500
+      "seq": 510
     },
     "寿元": {
       "asOf": null,
@@ -174,15 +221,22 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+      "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
       "dated": false,
-      "seq": 500
+      "seq": 510
     },
     "存殁": {
       "asOf": null,
       "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
       "dated": false,
       "seq": 500
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+      "dated": false,
+      "seq": 510,
+      "note": "第533章由一星经王林强行打通一条经脉后突破"
     }
   },
   "contested": false,
@@ -190,7 +244,8 @@
   "docs": [
     "plot.xianni-ch519-tide-recede-golden-token",
     "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
-    "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing"
+    "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+    "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan"
   ],
-  "updatedAt": "2026-08-22T02:15:05.984Z"
+  "updatedAt": "2026-08-22T02:29:37.107Z"
 }
