@@ -2,7 +2,8 @@
 pending/inbox/
 pending/failed/
 pending/.quarantine/
-pending/.state/run.lock
+# 整个流水线状态目录都是瞬态运维元数据(ledger/run.lock),不入库
+pending/.state/
 # 派生索引(每单元重建,churn 大;resume 时 rebuild 即可)
 indexes/
 # 运行记录(瞬态运维元数据)
