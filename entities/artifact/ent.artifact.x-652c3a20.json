@@ -16,13 +16,15 @@
     "神秘的画轴",
     "朱雀星画轴",
     "紫光画轴",
-    "画卷"
+    "画卷",
+    "裂缝画轴",
+    "女子画轴"
   ],
   "summary": "两尺见长的黑色卷轴，本身只作封印之器，内封一只三角邪眼灵兽（咆哮不弱于蛟龙临死怒吼），故神识可烙印却无操控之感。",
   "attributes": {
-    "能力": "封印内中灵兽、散发令人恐怖的气息、内蕴令人心颤的神秘力量、现身即令七叶野人老者动作一顿、自行挣脱储物袋、吸收骸骨逸出的紫光、威慑同源符文兽、未明、内映紫光与虚幻女性娇影、娇影一召可将符兽收入画内、本章自动开启并低语指引",
-    "外形": "画轴，展开后紫光闪烁",
-    "禁制": "可留下烙印但无法操控",
+    "能力": "封印内中灵兽、散发令人恐怖的气息、内蕴令人心颤的神秘力量、现身即令七叶野人老者动作一顿、自行挣脱储物袋、吸收骸骨逸出的紫光、威慑同源符文兽、未明、内映紫光与虚幻女性娇影、娇影一召可将符兽收入画内、本章自动开启并低语指引、自行开启储物袋飘出、浮现女子身影并出声召唤",
+    "外形": "可半空铺展的画卷",
+    "禁制": "被王林双指成剑一斩即收拢噤声",
     "持有者": "王林",
     "来历": "得自朱雀星"
   },
@@ -84,6 +86,16 @@
         "value": "本章自动开启并低语指引",
         "docId": "plot.xianni-ch641-yunxian-daolv-wangwei-hujuan-purple-mist-pit",
         "seq": 600
+      },
+      {
+        "value": "自行开启储物袋飘出",
+        "docId": "plot.xianni-ch614-617-refine-immortal-guard-dujian",
+        "seq": 614
+      },
+      {
+        "value": "浮现女子身影并出声召唤",
+        "docId": "plot.xianni-ch614-617-refine-immortal-guard-dujian",
+        "seq": 614
       }
     ],
     "外形": [
@@ -116,6 +128,11 @@
         "value": "画轴，展开后紫光闪烁",
         "docId": "plot.xianni-ch641-yunxian-daolv-wangwei-hujuan-purple-mist-pit",
         "seq": 600
+      },
+      {
+        "value": "可半空铺展的画卷",
+        "docId": "plot.xianni-ch614-617-refine-immortal-guard-dujian",
+        "seq": 614
       }
     ],
     "禁制": [
@@ -149,6 +166,11 @@
         "value": "可留下烙印但无法操控",
         "docId": "plot.xianni-ch641-yunxian-daolv-wangwei-hujuan-purple-mist-pit",
         "seq": 600
+      },
+      {
+        "value": "被王林双指成剑一斩即收拢噤声",
+        "docId": "plot.xianni-ch614-617-refine-immortal-guard-dujian",
+        "seq": 614
       }
     ],
     "持有者": [
@@ -192,15 +214,15 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch641-yunxian-daolv-wangwei-hujuan-purple-mist-pit",
+      "docId": "plot.xianni-ch614-617-refine-immortal-guard-dujian",
       "dated": false,
-      "seq": 600
+      "seq": 614
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.xianni-ch641-yunxian-daolv-wangwei-hujuan-purple-mist-pit",
+      "docId": "plot.xianni-ch614-617-refine-immortal-guard-dujian",
       "dated": false,
-      "seq": 600
+      "seq": 614
     },
     "持有者": {
       "asOf": null,
@@ -228,7 +250,8 @@
     "plot.xianni-ch432-ancestral-rune-skull",
     "plot.xianni-ch447-451-farewell-zhuque-star",
     "plot.xianni-ch610-da-gong-gao-cheng",
-    "plot.xianni-ch641-yunxian-daolv-wangwei-hujuan-purple-mist-pit"
+    "plot.xianni-ch641-yunxian-daolv-wangwei-hujuan-purple-mist-pit",
+    "plot.xianni-ch614-617-refine-immortal-guard-dujian"
   ],
-  "updatedAt": "2026-08-22T18:43:18.009Z"
+  "updatedAt": "2026-08-22T19:43:23.671Z"
 }

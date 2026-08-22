@@ -10,15 +10,17 @@
     "地裂深坑",
     "万丈深坑",
     "深不见底的深坑",
-    "吸力深坑"
+    "吸力深坑",
+    "无尽吸力的深坑",
+    "黑暗深坑"
   ],
   "summary": "进入仙遗之地的巨大深坑，本尊打出上千裂缝后抵此，低头一看便转向他处。",
   "attributes": {
     "上级区域": "仙遗之地",
-    "类型": "禁地/绝地",
+    "类型": "深坑/绝地",
     "方位": "仙遗山林正中间",
     "守护": "坑底不明吸力来源",
-    "危险度": "极高（吸力数倍暴涨，可拖走太古雷龙）"
+    "危险度": "极高"
   },
   "observations": {
     "上级区域": [
@@ -48,6 +50,11 @@
         "value": "禁地/绝地",
         "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
         "seq": 609
+      },
+      {
+        "value": "深坑/绝地",
+        "docId": "plot.xianni-ch614-617-refine-immortal-guard-dujian",
+        "seq": 614
       }
     ],
     "方位": [
@@ -75,6 +82,11 @@
         "value": "极高（吸力数倍暴涨，可拖走太古雷龙）",
         "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
         "seq": 609
+      },
+      {
+        "value": "极高",
+        "docId": "plot.xianni-ch614-617-refine-immortal-guard-dujian",
+        "seq": 614
       }
     ]
   },
@@ -88,9 +100,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
+      "docId": "plot.xianni-ch614-617-refine-immortal-guard-dujian",
       "dated": false,
-      "seq": 609
+      "seq": 614
     },
     "方位": {
       "asOf": null,
@@ -106,9 +118,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
+      "docId": "plot.xianni-ch614-617-refine-immortal-guard-dujian",
       "dated": false,
-      "seq": 609
+      "seq": 614
     }
   },
   "contested": false,
@@ -117,7 +129,8 @@
     "plot.xianni-ch352-fu-kui-space-rift-flight",
     "plot.xianni-ch356-departure-immortal-remains-void-rift",
     "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
-    "plot.xianni-ch609-613-tangulang-ding-tanlang-chase"
+    "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
+    "plot.xianni-ch614-617-refine-immortal-guard-dujian"
   ],
-  "updatedAt": "2026-08-22T19:24:59.673Z"
+  "updatedAt": "2026-08-22T19:43:23.638Z"
 }

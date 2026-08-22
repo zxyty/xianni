@@ -198,3 +198,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T19:03:03.832Z** `ingest` plot.xianni-ch645-jueduan-chenlong-escapes-purple-mist — 第645章 果断！——辰龙以本命剑气独自突围，王林紫雾中反杀 · kind=plot asOf=2026-08-22 entities=26 relations=57 src=00605-00608.p3.md
 - **2026-08-22T19:05:26.400Z** `ingest` plot.xianni-ch646-tanlang-shentong — 第646章 贪狼神通——蚊兽反噬、噬死二式抽山魂与紫金令牌现世 · kind=plot asOf=2026-08-22 entities=24 relations=32 src=00605-00608.p4.md
 - **2026-08-22T19:24:59.871Z** `ingest` plot.xianni-ch609-613-tangulang-ding-tanlang-chase — 仙逆 第609-613章 鼎与太古雷龙：贪狼、辰龙、王林三方争夺令牌 · kind=plot asOf=2026-08-22 entities=81 relations=127 src=00609-00613.md
+- **2026-08-22T19:43:23.898Z** `ingest` plot.xianni-ch614-617-refine-immortal-guard-dujian — 仙逆 第614-617章：王林炼制仙卫——杜建问鼎与傀儡成形 · kind=plot asOf=2026-08-22 entities=59 relations=109 src=00614-00617.md

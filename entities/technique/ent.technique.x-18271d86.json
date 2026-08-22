@@ -4,13 +4,17 @@
   "name": "斩罗决",
   "aliases": [
     "斩罗诀",
-    "斩罗"
+    "斩罗",
+    "巨斧剑诀",
+    "惊天一式",
+    "Zhan Luo Jue"
   ],
   "summary": "王林的剑诀，蕴含规则，所斩非实体而是天地规则；在王林眼中天地大鼎化作蓝色线条，一剑可令线条崩溃。",
   "attributes": {
-    "效果": "斩天地规则、使敌之天地神通显形为可斩断的线条、一斩崩碎天地大鼎、碎片二次崩溃",
+    "效果": "斩天地规则、使敌之天地神通显形为可斩断的线条、一斩崩碎天地大鼎、碎片二次崩溃、惊天一式剑诀（只此一式）",
     "外显异象": "奇异气息弥漫，目中所见化作虚幻蓝色线条、无法形容的巨响回荡天地",
-    "修炼条件": "若入第二步（哪怕阴阳虚实境界）施展则威力暴增"
+    "修炼条件": "若入第二步（哪怕阴阳虚实境界）施展则威力暴增",
+    "出处": "巨斧（巨富）内的意志"
   },
   "observations": {
     "效果": [
@@ -33,6 +37,11 @@
         "value": "碎片二次崩溃",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
+      },
+      {
+        "value": "惊天一式剑诀（只此一式）",
+        "docId": "plot.xianni-ch614-617-refine-immortal-guard-dujian",
+        "seq": 614
       }
     ],
     "外显异象": [
@@ -53,16 +62,28 @@
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661,
         "note": "幻家老祖之言"
+      },
+      {
+        "value": "感悟法宝意志两年",
+        "docId": "plot.xianni-ch614-617-refine-immortal-guard-dujian",
+        "seq": 614
+      }
+    ],
+    "出处": [
+      {
+        "value": "巨斧（巨富）内的意志",
+        "docId": "plot.xianni-ch614-617-refine-immortal-guard-dujian",
+        "seq": 614
       }
     ]
   },
-  "firstSeq": 661,
+  "firstSeq": 614,
   "attrProvenance": {
     "效果": {
       "asOf": null,
-      "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+      "docId": "plot.xianni-ch614-617-refine-immortal-guard-dujian",
       "dated": false,
-      "seq": 661
+      "seq": 614
     },
     "外显异象": {
       "asOf": null,
@@ -76,12 +97,19 @@
       "dated": false,
       "seq": 661,
       "note": "幻家老祖之言"
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.xianni-ch614-617-refine-immortal-guard-dujian",
+      "dated": false,
+      "seq": 614
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power"
+    "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+    "plot.xianni-ch614-617-refine-immortal-guard-dujian"
   ],
-  "updatedAt": "2026-08-17T14:25:16.459Z"
+  "updatedAt": "2026-08-22T19:43:23.653Z"
 }

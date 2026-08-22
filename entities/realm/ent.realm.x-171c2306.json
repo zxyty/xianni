@@ -4,12 +4,16 @@
   "name": "阴虚",
   "aliases": [
     "阴阳虚实",
-    "阴虚修士"
+    "阴虚修士",
+    "阴阳虚实境界",
+    "阴阳虚实之境",
+    "阴阳虚实修士"
   ],
   "summary": "修道第一步与第二步之间的过渡境界，雷道子即为阴虚修士。",
   "attributes": {
     "阶序": "第一步与第二步之间的过渡",
-    "下一境": "问鼎"
+    "下一境": "问鼎",
+    "上一境": "问鼎期"
   },
   "observations": {
     "阶序": [
@@ -17,6 +21,11 @@
         "value": "第一步与第二步之间的过渡",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
+      },
+      {
+        "value": "远高于问鼎期",
+        "docId": "plot.xianni-ch614-617-refine-immortal-guard-dujian",
+        "seq": 614
       }
     ],
     "下一境": [
@@ -24,10 +33,22 @@
         "value": "问鼎",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
+      },
+      {
+        "value": "问鼎期",
+        "docId": "plot.xianni-ch614-617-refine-immortal-guard-dujian",
+        "seq": 614
+      }
+    ],
+    "上一境": [
+      {
+        "value": "问鼎期",
+        "docId": "plot.xianni-ch614-617-refine-immortal-guard-dujian",
+        "seq": 614
       }
     ]
   },
-  "firstSeq": 661,
+  "firstSeq": 614,
   "attrProvenance": {
     "阶序": {
       "asOf": null,
@@ -40,12 +61,19 @@
       "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
       "dated": false,
       "seq": 661
+    },
+    "上一境": {
+      "asOf": null,
+      "docId": "plot.xianni-ch614-617-refine-immortal-guard-dujian",
+      "dated": false,
+      "seq": 614
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power"
+    "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+    "plot.xianni-ch614-617-refine-immortal-guard-dujian"
   ],
-  "updatedAt": "2026-08-17T14:25:16.406Z"
+  "updatedAt": "2026-08-22T19:43:23.635Z"
 }
