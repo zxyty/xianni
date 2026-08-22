@@ -3,12 +3,17 @@
   "type": "person",
   "name": "周英素",
   "aliases": [
-    "王林之母"
+    "王林之母",
+    "王林的母亲",
+    "唤铁柱的母亲"
   ],
   "summary": "王林母亲，已故，灵牌与夫王天水同供于祖屋。",
   "attributes": {
     "种族": "凡人",
-    "存殁": "死亡"
+    "存殁": "死亡",
+    "性别": "女",
+    "身份": "本章出场者为幻象",
+    "外貌": "眼露慈祥"
   },
   "observations": {
     "种族": [
@@ -23,6 +28,28 @@
         "value": "死亡",
         "docId": "plot.xianni-ch235-because-he-is-surnamed-teng",
         "seq": 219
+      }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.xianni-679-wan-huan-tian-mo-dao",
+        "seq": 636
+      }
+    ],
+    "身份": [
+      {
+        "value": "本章出场者为幻象",
+        "docId": "plot.xianni-679-wan-huan-tian-mo-dao",
+        "seq": 636,
+        "note": "柳眉万幻天魔道所化"
+      }
+    ],
+    "外貌": [
+      {
+        "value": "眼露慈祥",
+        "docId": "plot.xianni-679-wan-huan-tian-mo-dao",
+        "seq": 636
       }
     ]
   },
@@ -39,12 +66,32 @@
       "docId": "plot.xianni-ch235-because-he-is-surnamed-teng",
       "dated": false,
       "seq": 219
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-679-wan-huan-tian-mo-dao",
+      "dated": false,
+      "seq": 636
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-679-wan-huan-tian-mo-dao",
+      "dated": false,
+      "seq": 636,
+      "note": "柳眉万幻天魔道所化"
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-679-wan-huan-tian-mo-dao",
+      "dated": false,
+      "seq": 636
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch235-because-he-is-surnamed-teng"
+    "plot.xianni-ch235-because-he-is-surnamed-teng",
+    "plot.xianni-679-wan-huan-tian-mo-dao"
   ],
-  "updatedAt": "2026-07-18T11:07:09.228Z"
+  "updatedAt": "2026-08-22T23:21:13.938Z"
 }

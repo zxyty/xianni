@@ -8,15 +8,16 @@
   "summary": "红蝶口吐红芒化成的晶莹红色玫瑰，绽放时花蕊飘出红烟，其内现出带浓浓傲意的红蝶虚影。",
   "attributes": {
     "持有者": "红蝶",
-    "能力": "绽放生红烟，显现红蝶傲意虚影",
-    "外形": "晶莹剔透的红色玫瑰"
+    "能力": "绽放生红烟，显现红蝶傲意虚影、花瓣带异力群攻、花蕊组成百丈符文压杀",
+    "外形": "一朵红色玫瑰"
   },
   "observations": {
     "持有者": [
       {
         "value": "红蝶",
         "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
-        "seq": 433
+        "seq": 433,
+        "note": "实为柳眉万幻天魔道所化之红蝶"
       }
     ],
     "能力": [
@@ -24,6 +25,16 @@
         "value": "绽放生红烟，显现红蝶傲意虚影",
         "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
         "seq": 433
+      },
+      {
+        "value": "花瓣带异力群攻",
+        "docId": "plot.xianni-679-wan-huan-tian-mo-dao",
+        "seq": 636
+      },
+      {
+        "value": "花蕊组成百丈符文压杀",
+        "docId": "plot.xianni-679-wan-huan-tian-mo-dao",
+        "seq": 636
       }
     ],
     "外形": [
@@ -31,6 +42,11 @@
         "value": "晶莹剔透的红色玫瑰",
         "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
         "seq": 433
+      },
+      {
+        "value": "一朵红色玫瑰",
+        "docId": "plot.xianni-679-wan-huan-tian-mo-dao",
+        "seq": 636
       }
     ]
   },
@@ -40,7 +56,8 @@
       "asOf": null,
       "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
       "dated": false,
-      "seq": 433
+      "seq": 433,
+      "note": "实为柳眉万幻天魔道所化之红蝶"
     },
     "能力": {
       "asOf": null,
@@ -50,15 +67,16 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+      "docId": "plot.xianni-679-wan-huan-tian-mo-dao",
       "dated": false,
-      "seq": 433
+      "seq": 636
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch433-437-hongdie-yanhong-yunquezi"
+    "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+    "plot.xianni-679-wan-huan-tian-mo-dao"
   ],
-  "updatedAt": "2026-08-21T03:06:39.337Z"
+  "updatedAt": "2026-08-22T23:21:13.925Z"
 }

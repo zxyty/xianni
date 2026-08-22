@@ -220,3 +220,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T23:13:05.226Z** `ingest` plot.xianni-ch676-huanmei-blood-change — 第676章 幻眉临近：幻家换血铸就幻眉，王林寻得金炎脉 · kind=plot asOf=2026-08-22 entities=21 relations=27 src=00636-00640.p1.md
 - **2026-08-22T23:16:03.667Z** `ingest` plot.xianni-ch677-wolf-smoke-rises — 第677章 狼烟起：云霞星即望月本体，冉云星三老燃元神迎战柳眉 · kind=plot asOf=2026-08-22 entities=25 relations=47 src=00636-00640.p2.md
 - **2026-08-22T23:18:50.515Z** `ingest` plot.xianni-ch678-liumei-slaughters-ranyunxing-wanglin-returns — 第678章 来临：柳眉屠冉云星，冉学风临死留言，王林破禁归返 · kind=plot asOf=2026-08-22 entities=24 relations=42 src=00636-00640.p3.md
+- **2026-08-22T23:21:14.104Z** `ingest` plot.xianni-679-wan-huan-tian-mo-dao — 第679章 万幻天魔道——柳眉识破王林，红蝶周茹幻象攻心 · kind=plot asOf=2026-08-22 entities=24 relations=32 src=00636-00640.p4.md
