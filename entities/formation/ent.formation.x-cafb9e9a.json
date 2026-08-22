@@ -7,8 +7,9 @@
   ],
   "summary": "护持幻家祖宅的大阵，可将雷霆化为水波纹吸收消散，在雷之风暴与仙卫拳击下渐现颓势但本章内未破。",
   "attributes": {
-    "效果": "吸收消散攻击之力、隔绝内外视线",
-    "布置者": "幻家"
+    "效果": "吸收消散攻击之力、隔绝内外视线、护卫幻家祖宅、消耗来敌",
+    "布置者": "幻家",
+    "破解法": "雷兽与仙卫傀儡持续打压至不堪负重，再以斩罗诀一剑崩碎"
   },
   "observations": {
     "效果": [
@@ -21,12 +22,24 @@
         "value": "隔绝内外视线",
         "docId": "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation",
         "seq": 641
+      },
+      {
+        "value": "护卫幻家祖宅、消耗来敌",
+        "docId": "plot.xianni-ch685-zhan-luo-jue-po-huan-jia-da-zhen",
+        "seq": 641
       }
     ],
     "布置者": [
       {
         "value": "幻家",
         "docId": "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation",
+        "seq": 641
+      }
+    ],
+    "破解法": [
+      {
+        "value": "雷兽与仙卫傀儡持续打压至不堪负重，再以斩罗诀一剑崩碎",
+        "docId": "plot.xianni-ch685-zhan-luo-jue-po-huan-jia-da-zhen",
         "seq": 641
       }
     ]
@@ -44,12 +57,19 @@
       "docId": "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation",
       "dated": false,
       "seq": 641
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.xianni-ch685-zhan-luo-jue-po-huan-jia-da-zhen",
+      "dated": false,
+      "seq": 641
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation"
+    "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation",
+    "plot.xianni-ch685-zhan-luo-jue-po-huan-jia-da-zhen"
   ],
-  "updatedAt": "2026-08-22T23:38:31.132Z"
+  "updatedAt": "2026-08-22T23:41:19.323Z"
 }

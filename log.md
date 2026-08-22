@@ -226,3 +226,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T23:33:37.622Z** `ingest` plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi — 第682章 道义：王林封印怨婴平儿、取回第四魂，允诺护冉赵后人并助孙析提升修为 · kind=plot asOf=2026-08-22 entities=55 relations=90 src=00641-00645.p2.md
 - **2026-08-22T23:36:08.714Z** `ingest` plot.xianni-ch683-jing-tui-qian-kui-zi — 第683章 惊退千葵子：雷兽显威，索仙玉退强敌 · kind=plot asOf=2026-08-22 entities=26 relations=37 src=00641-00645.p3.md
 - **2026-08-22T23:38:31.294Z** `ingest` plot.xianni-ch684-huanjia-split-wanglin-breaks-formation — 第684章 幻家分裂：王林雷兽破阵，幻封神与老祖决裂 · kind=plot asOf=2026-08-22 entities=28 relations=38 src=00641-00645.p4.md
+- **2026-08-22T23:41:19.500Z** `ingest` plot.xianni-ch685-zhan-luo-jue-po-huan-jia-da-zhen — 第685章 斩罗诀！——王林一剑破幻家大阵，幻无情请出福泽玉简 · kind=plot asOf=2026-08-22 entities=32 relations=42 src=00641-00645.p5.md
