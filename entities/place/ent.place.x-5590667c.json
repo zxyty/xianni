@@ -25,10 +25,10 @@
   "attributes": {
     "所属界面": "朱雀星",
     "所属势力": "朱雀",
-    "类型": "陵墓/禁地、墓地/秘境、古墓/秘境、秘境/古墓、古墓／秘境、陵墓/秘境、墓葬/传承秘境、秘境/禁地、古墓/秘境空间、古墓秘境、秘境/墓地、墓葬秘境、秘境/传承之地、古墓禁地",
+    "类型": "陵墓/禁地、墓地/秘境、古墓/秘境、秘境/古墓、古墓／秘境、陵墓/秘境、墓葬/传承秘境、秘境/禁地、古墓/秘境空间、古墓秘境、秘境/墓地、墓葬秘境、秘境/传承之地、古墓禁地、古墓／秘地",
     "危险度": "高、极高（比王林想象危险数倍）、极高、极高（命魂灵物、祭坛陷阱、修星之晶碎裂之危）、高——命魂灵物更多更强且主动挑衅、极高，深处命魂生物众多且强大、极高（次元缝隙爆发）、极高，稍有不慎便丧命、极高（次元缝隙无声无息出现）、极高（禁制未完整破除者会被内部奇异力量抹杀）、极高（外部遍布次元裂缝，入者立死）、周期性崩溃、大范围次元缝隙、极高（周期性崩溃，坍塌处化为虚无）、崩溃中，次元缝隙撕裂",
     "守护": "朱雀子传承",
-    "上级区域": "朱雀山",
+    "上级区域": "朱雀星",
     "规模": "据司徒南称范围不大、极大，飞行三日神识不见边际、内部极大",
     "特产": "修星之晶、浓郁灵力、命魂、命魂灵物、命魂凝聚的灵物、命魂生物、命魂组成的灵物、金命魂、次元缝隙、朱雀晶"
   },
@@ -127,6 +127,11 @@
         "value": "古墓禁地",
         "docId": "plot.xianni-ch519-tide-recede-golden-token",
         "seq": 496
+      },
+      {
+        "value": "古墓／秘地",
+        "docId": "plot.xianni-ch674-wenfeng-tingyu-hunyi-zhimei",
+        "seq": 631
       }
     ],
     "危险度": [
@@ -236,6 +241,11 @@
         "value": "朱雀山",
         "docId": "plot.xianni-ch441-zhuquezi-madness-1",
         "seq": 418
+      },
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch674-wenfeng-tingyu-hunyi-zhimei",
+        "seq": 631
       }
     ],
     "规模": [
@@ -343,9 +353,9 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch441-zhuquezi-madness-1",
+      "docId": "plot.xianni-ch674-wenfeng-tingyu-hunyi-zhimei",
       "dated": false,
-      "seq": 418
+      "seq": 631
     },
     "规模": {
       "asOf": null,
@@ -371,7 +381,8 @@
     "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
     "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
     "plot.xianni-ch519-tide-recede-golden-token",
-    "plot.xianni-ch611-buwang-zhuque-first-act"
+    "plot.xianni-ch611-buwang-zhuque-first-act",
+    "plot.xianni-ch674-wenfeng-tingyu-hunyi-zhimei"
   ],
-  "updatedAt": "2026-08-22T15:55:27.405Z"
+  "updatedAt": "2026-08-22T23:03:26.777Z"
 }

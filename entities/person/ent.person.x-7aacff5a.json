@@ -5,7 +5,8 @@
   "aliases": [
     "幻家老祖宗",
     "面容消瘦的老者",
-    "柳眉的义父"
+    "柳眉的义父",
+    "幻眉之义父"
   ],
   "summary": "王林此前交手的第二步修士，真正修为曾达窥捏初期，即便跌落仍强于寻常阴阳虚实修士。",
   "attributes": {
@@ -14,7 +15,8 @@
     "身份": "幻家老祖",
     "阵营": "回忆提及",
     "外貌": "面容消瘦的老者",
-    "性格": "冰冷、果断"
+    "性格": "冰冷、果断",
+    "寿元": "数千年前已是阴阳虚实"
   },
   "observations": {
     "小阶段": [
@@ -23,6 +25,11 @@
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661,
         "note": "真正修为；后修为跌落"
+      },
+      {
+        "value": "阴阳虚实（修道第二步）",
+        "docId": "plot.xianni-ch674-wenfeng-tingyu-hunyi-zhimei",
+        "seq": 631
       }
     ],
     "存殁": [
@@ -64,6 +71,14 @@
         "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
         "seq": 631
       }
+    ],
+    "寿元": [
+      {
+        "value": "数千年前已是阴阳虚实",
+        "docId": "plot.xianni-ch674-wenfeng-tingyu-hunyi-zhimei",
+        "seq": 631,
+        "note": "幻东转述"
+      }
     ]
   },
   "firstSeq": 631,
@@ -104,13 +119,21 @@
       "docId": "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
       "dated": false,
       "seq": 631
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.xianni-ch674-wenfeng-tingyu-hunyi-zhimei",
+      "dated": false,
+      "seq": 631,
+      "note": "幻东转述"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
-    "plot.xianni-ch672-cause-effect-cycle-seeking-life-death"
+    "plot.xianni-ch672-cause-effect-cycle-seeking-life-death",
+    "plot.xianni-ch674-wenfeng-tingyu-hunyi-zhimei"
   ],
-  "updatedAt": "2026-08-22T22:57:34.880Z"
+  "updatedAt": "2026-08-22T23:03:26.759Z"
 }

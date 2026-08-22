@@ -4,12 +4,14 @@
   "name": "金炎矿脉",
   "aliases": [
     "金属姓火石矿脉",
-    "金炎火石矿脉"
+    "金炎火石矿脉",
+    "云霞星金炎矿脉",
+    "金炎矿"
   ],
   "summary": "云霞星上被幻家之人发现的一条金属性火石矿脉，天才地宝级，为王林补全天逆珠金属性的目标。",
   "attributes": {
     "所属界面": "云霞星",
-    "类型": "矿脉",
+    "类型": "矿脉、矿脉／炼器材料",
     "特产": "金属性火石",
     "上级区域": "云霞星"
   },
@@ -25,6 +27,11 @@
       {
         "value": "矿脉",
         "docId": "plot.xianni-ch673-yunxia-jinyan-mine-huandong-arrives",
+        "seq": 631
+      },
+      {
+        "value": "矿脉／炼器材料",
+        "docId": "plot.xianni-ch674-wenfeng-tingyu-hunyi-zhimei",
         "seq": 631
       }
     ],
@@ -73,7 +80,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch673-yunxia-jinyan-mine-huandong-arrives"
+    "plot.xianni-ch673-yunxia-jinyan-mine-huandong-arrives",
+    "plot.xianni-ch674-wenfeng-tingyu-hunyi-zhimei"
   ],
-  "updatedAt": "2026-08-22T23:00:27.912Z"
+  "updatedAt": "2026-08-22T23:03:26.780Z"
 }
