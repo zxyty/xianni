@@ -183,3 +183,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T17:19:01.710Z** `ingest` plot.xianni-ch630-gray-figure-fusion — 第630章 灰色身影——王林碎雕像取古妖手骨，融合杀戮仙诀灰影 · kind=plot asOf=2026-08-22 entities=20 relations=31 src=00591-00595.p2.md
 - **2026-08-22T17:22:01.694Z** `ingest` plot.xianni-ch631-its-companions — 仙逆 第631章 它的同伴——古妖贝罗践约指路潮汐深渊，贪狼辰龙受阻蚊兽群 · kind=plot asOf=2026-08-22 entities=29 relations=42 src=00591-00595.p3.md
 - **2026-08-22T17:30:10.328Z** `ingest` plot.xianni-ch632-tanlang-daluo-disciples-trapped-tide-abyss — 第632章 与天运子决裂的萌芽：贪狼与大罗剑宗弟子困于潮汐之地百年，王林奔赴火妖郡潮汐出口 · kind=plot asOf=2026-08-22 entities=50 relations=96 src=00591-00595.p4.md
+- **2026-08-22T17:32:12.743Z** `ingest` plot.xianni-ch633-tubaozi-chaoxi-shenyuan-tongxing — 第633章 土包子：云雾山海遇杜建四人，结伴共探潮汐深渊 · kind=plot asOf=2026-08-22 entities=21 relations=33 src=00591-00595.p5.md

@@ -2,13 +2,18 @@
   "id": "ent.person.x-2d78e50c",
   "type": "person",
   "name": "徐飞",
-  "aliases": [],
+  "aliases": [
+    "柔弱女子",
+    "Xu Fei"
+  ],
   "summary": "原暗恋王卓的徐姓女孩，出身恒岳派，四年由凝气第四层升至第七层，欲夺墨晶兽与后山名额。",
   "attributes": {
-    "小阶段": "凝气期第七层",
+    "小阶段": "婴变后期大圆满",
     "阵营": "玄道宗",
     "性别": "女",
-    "外貌": "容颜娇美、皓齿明眸"
+    "外貌": "粉衣、长发披肩、身形纤细、面色苍白",
+    "身份": "浮云派女修",
+    "标志特征": "身上总有一股奇异的感觉"
   },
   "observations": {
     "小阶段": [
@@ -16,6 +21,11 @@
         "value": "凝气期第七层",
         "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
         "seq": 55
+      },
+      {
+        "value": "婴变后期大圆满",
+        "docId": "plot.xianni-ch633-tubaozi-chaoxi-shenyuan-tongxing",
+        "seq": 591
       }
     ],
     "阵营": [
@@ -38,6 +48,26 @@
         "value": "容颜娇美、皓齿明眸",
         "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
         "seq": 55
+      },
+      {
+        "value": "粉衣、长发披肩、身形纤细、面色苍白",
+        "docId": "plot.xianni-ch633-tubaozi-chaoxi-shenyuan-tongxing",
+        "seq": 591
+      }
+    ],
+    "身份": [
+      {
+        "value": "浮云派女修",
+        "docId": "plot.xianni-ch633-tubaozi-chaoxi-shenyuan-tongxing",
+        "seq": 591
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "身上总有一股奇异的感觉",
+        "docId": "plot.xianni-ch633-tubaozi-chaoxi-shenyuan-tongxing",
+        "seq": 591,
+        "note": "王林观感"
       }
     ]
   },
@@ -45,9 +75,9 @@
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
+      "docId": "plot.xianni-ch633-tubaozi-chaoxi-shenyuan-tongxing",
       "dated": false,
-      "seq": 55
+      "seq": 591
     },
     "阵营": {
       "asOf": null,
@@ -64,15 +94,29 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
+      "docId": "plot.xianni-ch633-tubaozi-chaoxi-shenyuan-tongxing",
       "dated": false,
-      "seq": 55
+      "seq": 591
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch633-tubaozi-chaoxi-shenyuan-tongxing",
+      "dated": false,
+      "seq": 591
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch633-tubaozi-chaoxi-shenyuan-tongxing",
+      "dated": false,
+      "seq": 591,
+      "note": "王林观感"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion"
+    "plot.xianni-ch55-60-hengyue-annexed-homecoming-second-seclusion",
+    "plot.xianni-ch633-tubaozi-chaoxi-shenyuan-tongxing"
   ],
-  "updatedAt": "2026-06-22T12:57:09.157Z"
+  "updatedAt": "2026-08-22T17:32:12.596Z"
 }
