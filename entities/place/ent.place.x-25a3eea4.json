@@ -11,18 +11,20 @@
     "传闻中的潮汐深渊",
     "云雾山海地缝",
     "Chaoxi Shenyuan",
-    "Tidal Abyss"
+    "Tidal Abyss",
+    "潮汐深渊地缝",
+    "深渊沟壑"
   ],
   "summary": "妖灵之地中的险地，当年姚惜雪之父与天运子等人问出神秘之地后即前往此处。",
   "attributes": {
-    "类型": "深渊/险地、空间坍塌形成的通道／深渊、深渊/秘境空间、地缝/深渊",
+    "类型": "深渊/险地、空间坍塌形成的通道／深渊、深渊/秘境空间、地缝/深渊、秘境/地缝深渊",
     "上级区域": "云雾山海",
     "所属界面": "妖灵之地",
     "方位": "入口在火妖郡内",
     "特产": "青霖仙令（金色令牌）、被吸入的法宝、晶石、灵兽",
-    "危险度": "极高（强大妖兽群，包括黑色蚊兽）、极高",
+    "危险度": "极高（强大妖兽群，包括黑色蚊兽）、极高、极高（入口只进不出、飞虫古树陷阱）",
     "守护": "王林所布追踪禁制",
-    "规模": "宽十多丈，长千丈"
+    "规模": "深不见底，下沉极久仍未到底"
   },
   "observations": {
     "类型": [
@@ -45,6 +47,11 @@
         "value": "地缝/深渊",
         "docId": "plot.xianni-ch633-tubaozi-chaoxi-shenyuan-tongxing",
         "seq": 591
+      },
+      {
+        "value": "秘境/地缝深渊",
+        "docId": "plot.xianni-ch634-tidal-abyss-du-jian-trap",
+        "seq": 596
       }
     ],
     "上级区域": [
@@ -106,6 +113,11 @@
         "docId": "plot.xianni-ch633-tubaozi-chaoxi-shenyuan-tongxing",
         "seq": 591,
         "note": "问鼎修为亦难进入，数处需冒险"
+      },
+      {
+        "value": "极高（入口只进不出、飞虫古树陷阱）",
+        "docId": "plot.xianni-ch634-tidal-abyss-du-jian-trap",
+        "seq": 596
       }
     ],
     "守护": [
@@ -121,6 +133,11 @@
         "value": "宽十多丈，长千丈",
         "docId": "plot.xianni-ch633-tubaozi-chaoxi-shenyuan-tongxing",
         "seq": 591
+      },
+      {
+        "value": "深不见底，下沉极久仍未到底",
+        "docId": "plot.xianni-ch634-tidal-abyss-du-jian-trap",
+        "seq": 596
       }
     ]
   },
@@ -171,9 +188,9 @@
     },
     "规模": {
       "asOf": null,
-      "docId": "plot.xianni-ch633-tubaozi-chaoxi-shenyuan-tongxing",
+      "docId": "plot.xianni-ch634-tidal-abyss-du-jian-trap",
       "dated": false,
-      "seq": 591
+      "seq": 596
     }
   },
   "contested": false,
@@ -183,7 +200,8 @@
     "plot.xianni-ch616-immortal-emperor-qinglin-secret",
     "plot.xianni-ch631-its-companions",
     "plot.xianni-ch632-tanlang-daluo-disciples-trapped-tide-abyss",
-    "plot.xianni-ch633-tubaozi-chaoxi-shenyuan-tongxing"
+    "plot.xianni-ch633-tubaozi-chaoxi-shenyuan-tongxing",
+    "plot.xianni-ch634-tidal-abyss-du-jian-trap"
   ],
-  "updatedAt": "2026-08-22T17:32:12.601Z"
+  "updatedAt": "2026-08-22T18:14:11.517Z"
 }

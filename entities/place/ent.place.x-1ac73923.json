@@ -4,12 +4,13 @@
   "name": "云雾山海",
   "aliases": [
     "水妖郡云雾山海",
-    "Yunwu Shanhai"
+    "Yunwu Shanhai",
+    "云雾山海禁地"
   ],
   "summary": "水妖郡境内的云雾秘境，云气化作虚幻山海之貌，杜建称其胜过仙界；潮汐深渊的地缝隐于其云海之中。",
   "attributes": {
     "上级区域": "水妖郡",
-    "类型": "云雾秘境",
+    "类型": "险地",
     "特产": "云气化作的虚幻山海之貌"
   },
   "observations": {
@@ -25,6 +26,11 @@
         "value": "云雾秘境",
         "docId": "plot.xianni-ch633-tubaozi-chaoxi-shenyuan-tongxing",
         "seq": 591
+      },
+      {
+        "value": "险地",
+        "docId": "plot.xianni-ch634-tidal-abyss-du-jian-trap",
+        "seq": 596
       }
     ],
     "特产": [
@@ -45,9 +51,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch633-tubaozi-chaoxi-shenyuan-tongxing",
+      "docId": "plot.xianni-ch634-tidal-abyss-du-jian-trap",
       "dated": false,
-      "seq": 591
+      "seq": 596
     },
     "特产": {
       "asOf": null,
@@ -59,7 +65,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch633-tubaozi-chaoxi-shenyuan-tongxing"
+    "plot.xianni-ch633-tubaozi-chaoxi-shenyuan-tongxing",
+    "plot.xianni-ch634-tidal-abyss-du-jian-trap"
   ],
-  "updatedAt": "2026-08-22T17:32:12.600Z"
+  "updatedAt": "2026-08-22T18:14:11.518Z"
 }

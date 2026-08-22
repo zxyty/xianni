@@ -1,0 +1,69 @@
+{
+  "id": "ent.artifact.x-f85a9150",
+  "type": "artifact",
+  "name": "贝罗的水晶",
+  "aliases": [
+    "查看用水晶"
+  ],
+  "summary": "可远程查看地形内情的水晶法宝，王林借之预知潮汐深渊结构与危险点，但无法看透深渊底部。",
+  "attributes": {
+    "能力": "远视查看地形、预警危机感",
+    "禁制": "无法看透潮汐深渊底部",
+    "来历": "贝罗所有"
+  },
+  "observations": {
+    "能力": [
+      {
+        "value": "远视查看地形",
+        "docId": "plot.xianni-ch634-tidal-abyss-du-jian-trap",
+        "seq": 596
+      },
+      {
+        "value": "预警危机感",
+        "docId": "plot.xianni-ch634-tidal-abyss-du-jian-trap",
+        "seq": 596
+      }
+    ],
+    "禁制": [
+      {
+        "value": "无法看透潮汐深渊底部",
+        "docId": "plot.xianni-ch634-tidal-abyss-du-jian-trap",
+        "seq": 596
+      }
+    ],
+    "来历": [
+      {
+        "value": "贝罗所有",
+        "docId": "plot.xianni-ch634-tidal-abyss-du-jian-trap",
+        "seq": 596
+      }
+    ]
+  },
+  "firstSeq": 596,
+  "attrProvenance": {
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch634-tidal-abyss-du-jian-trap",
+      "dated": false,
+      "seq": 596
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch634-tidal-abyss-du-jian-trap",
+      "dated": false,
+      "seq": 596
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch634-tidal-abyss-du-jian-trap",
+      "dated": false,
+      "seq": 596
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.xianni-ch634-tidal-abyss-du-jian-trap"
+  ],
+  "updatedAt": "2026-08-22T18:14:11.525Z"
+}
