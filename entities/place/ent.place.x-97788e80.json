@@ -12,11 +12,12 @@
   "summary": "远在天妖城无数万里外的古战场，场中有一座通体漆黑的高塔，塔顶封存着漆黑铠甲的存在。",
   "attributes": {
     "方位": "距天妖城不知多少万里外",
-    "类型": "古战场／禁地、古战场、远古遗迹/战场、古战场遗迹、远古战场遗迹、古战场/禁地、战场遗迹",
+    "类型": "古战场／禁地、古战场、远古遗迹/战场、古战场遗迹、远古战场遗迹、古战场/禁地、战场遗迹、远古遗迹战场",
     "守护": "黑塔铠甲存在",
     "上级区域": "天妖郡",
-    "特产": "地底黑色骨头、无数魂魄、升仙果、英魂（含妖帅级别之魂）",
-    "所属界面": "天运星·妖灵之地"
+    "特产": "地底黑色骨头、无数魂魄、升仙果、英魂（含妖帅级别之魂）、地下埋藏的大量魂魄",
+    "所属界面": "天运星·妖灵之地",
+    "危险度": "极高"
   },
   "observations": {
     "方位": [
@@ -66,6 +67,11 @@
         "value": "战场遗迹",
         "docId": "plot.xianni-ch606-qingxing-hupao-yihun-fumeng",
         "seq": 566
+      },
+      {
+        "value": "远古遗迹战场",
+        "docId": "plot.xianni-ch607-ninghua-quanhun",
+        "seq": 566
       }
     ],
     "守护": [
@@ -97,6 +103,11 @@
         "value": "英魂（含妖帅级别之魂）",
         "docId": "plot.xianni-ch606-qingxing-hupao-yihun-fumeng",
         "seq": 566
+      },
+      {
+        "value": "地下埋藏的大量魂魄",
+        "docId": "plot.xianni-ch607-ninghua-quanhun",
+        "seq": 566
       }
     ],
     "所属界面": [
@@ -104,6 +115,13 @@
         "value": "天运星·妖灵之地",
         "docId": "plot.xianni-ch603-there-is-killing-intent",
         "seq": 561
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.xianni-ch607-ninghua-quanhun",
+        "seq": 566
       }
     ]
   },
@@ -144,6 +162,12 @@
       "docId": "plot.xianni-ch603-there-is-killing-intent",
       "dated": false,
       "seq": 561
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch607-ninghua-quanhun",
+      "dated": false,
+      "seq": 566
     }
   },
   "contested": false,
@@ -156,7 +180,8 @@
     "plot.xianni-ch602-crazed-battle-intent",
     "plot.xianni-ch603-there-is-killing-intent",
     "plot.xianni-ch604-ten-years-enlightenment-dao-yellow-springs",
-    "plot.xianni-ch606-qingxing-hupao-yihun-fumeng"
+    "plot.xianni-ch606-qingxing-hupao-yihun-fumeng",
+    "plot.xianni-ch607-ninghua-quanhun"
   ],
-  "updatedAt": "2026-08-22T14:50:17.669Z"
+  "updatedAt": "2026-08-22T14:52:52.795Z"
 }

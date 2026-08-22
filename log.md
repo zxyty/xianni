@@ -156,3 +156,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T13:54:22.856Z** `ingest` plot.xianni-ch604-ten-years-enlightenment-dao-yellow-springs — 第604章 十年顿悟，道化黄泉：王林开辟黄泉之河、灭副帅，铠甲男遣魔仆与三妖卫阻路 · kind=plot asOf=2026-08-22 entities=30 relations=45 src=00561-00565.p5.md
 - **2026-08-22T14:43:24.175Z** `ingest` plot.xianni-ch605-yaowei-pusa-old-man-fengyin — 第605章 妖卫：荒原截杀，王林斩干瘦老者与风吟 · kind=plot asOf=2026-08-22 entities=18 relations=25 src=00566-00570.p1.md
 - **2026-08-22T14:50:17.806Z** `ingest` plot.xianni-ch606-qingxing-hupao-yihun-fumeng — 第606章 清醒：虎咆携亿魂寻仇，王林短暂清明 · kind=plot asOf=2026-08-22 entities=30 relations=52 src=00566-00570.p2.md
+- **2026-08-22T14:52:52.923Z** `ingest` plot.xianni-ch607-ninghua-quanhun — 第607章 凝化泉魂：王林以问鼎初期战黑甲老者 · kind=plot asOf=2026-08-22 entities=25 relations=35 src=00566-00570.p3.md
