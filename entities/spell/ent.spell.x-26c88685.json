@@ -3,13 +3,15 @@
   "type": "spell",
   "name": "掌心雷",
   "aliases": [
-    "冉家掌心雷"
+    "冉家掌心雷",
+    "冉家神通掌心雷"
   ],
   "summary": "冉家老祖的问鼎神通之一，掐诀于掌心凝化霹雳拍出，本章被仙卫影子一扫崩溃。",
   "attributes": {
     "类型": "雷系攻击神通",
-    "出处": "冉家老祖问鼎神通之一",
-    "适用境界": "问鼎期"
+    "出处": "冉家",
+    "适用境界": "问鼎期",
+    "威力": "被柳眉指尖一点即消散"
   },
   "observations": {
     "类型": [
@@ -24,6 +26,11 @@
         "value": "冉家老祖问鼎神通之一",
         "docId": "plot.xianni-ch671-immortal-jade-array-shakes-ranyun-star",
         "seq": 631
+      },
+      {
+        "value": "冉家",
+        "docId": "plot.xianni-ch678-liumei-slaughters-ranyunxing-wanglin-returns",
+        "seq": 636
       }
     ],
     "适用境界": [
@@ -31,6 +38,13 @@
         "value": "问鼎期",
         "docId": "plot.xianni-ch671-immortal-jade-array-shakes-ranyun-star",
         "seq": 631
+      }
+    ],
+    "威力": [
+      {
+        "value": "被柳眉指尖一点即消散",
+        "docId": "plot.xianni-ch678-liumei-slaughters-ranyunxing-wanglin-returns",
+        "seq": 636
       }
     ]
   },
@@ -44,21 +58,28 @@
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch671-immortal-jade-array-shakes-ranyun-star",
+      "docId": "plot.xianni-ch678-liumei-slaughters-ranyunxing-wanglin-returns",
       "dated": false,
-      "seq": 631
+      "seq": 636
     },
     "适用境界": {
       "asOf": null,
       "docId": "plot.xianni-ch671-immortal-jade-array-shakes-ranyun-star",
       "dated": false,
       "seq": 631
+    },
+    "威力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch678-liumei-slaughters-ranyunxing-wanglin-returns",
+      "dated": false,
+      "seq": 636
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch671-immortal-jade-array-shakes-ranyun-star"
+    "plot.xianni-ch671-immortal-jade-array-shakes-ranyun-star",
+    "plot.xianni-ch678-liumei-slaughters-ranyunxing-wanglin-returns"
   ],
-  "updatedAt": "2026-08-22T22:49:54.114Z"
+  "updatedAt": "2026-08-22T23:18:50.352Z"
 }
