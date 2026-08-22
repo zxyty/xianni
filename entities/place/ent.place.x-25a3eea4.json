@@ -21,13 +21,13 @@
   ],
   "summary": "妖灵之地中的险地，当年姚惜雪之父与天运子等人问出神秘之地后即前往此处。",
   "attributes": {
-    "类型": "深渊/险地、空间坍塌形成的通道／深渊、深渊/秘境空间、地缝/深渊、秘境/地缝深渊、深渊/裂缝群",
-    "上级区域": "东海妖灵之门（妖灵之地）",
+    "类型": "深渊/险地、空间坍塌形成的通道／深渊、深渊/秘境空间、地缝/深渊、秘境/地缝深渊、深渊/裂缝群、深渊秘境",
+    "上级区域": "妖灵之地、云雾山海、东海妖灵之门（妖灵之地）、水妖郡",
     "所属界面": "妖灵之地",
     "方位": "越向下越深，中下方为本片段抵达处",
     "特产": "青霖仙令（金色令牌）、被吸入的法宝、晶石、灵兽、吞噬金光的飞虫、黄泉",
-    "危险度": "极高（强大妖兽群，包括黑色蚊兽）、极高、极高（入口只进不出、飞虫古树陷阱）、极高（多处难以度过之地，越深越无法窥探）",
-    "守护": "王林所布追踪禁制",
+    "危险度": "极高（强大妖兽群，包括黑色蚊兽）、极高、极高（入口只进不出、飞虫古树陷阱）、极高（多处难以度过之地，越深越无法窥探）、极高（剑尊凌天候神念留存）",
+    "守护": "剑尊凌天候的残留神念",
     "规模": "宽十多丈，长千丈、深不见底，下沉极久仍未到底、分支裂缝数十条，王林剑气可波及上下百丈"
   },
   "observations": {
@@ -61,6 +61,11 @@
         "value": "深渊/裂缝群",
         "docId": "plot.xianni-ch636-sealed-place-lingtianhou-hidden-rift",
         "seq": 596
+      },
+      {
+        "value": "深渊秘境",
+        "docId": "plot.xianni-ch637-save-zhou-yi-tidal-abyss-rift",
+        "seq": 596
       }
     ],
     "上级区域": [
@@ -77,6 +82,11 @@
       {
         "value": "东海妖灵之门（妖灵之地）",
         "docId": "plot.xianni-ch636-sealed-place-lingtianhou-hidden-rift",
+        "seq": 596
+      },
+      {
+        "value": "水妖郡",
+        "docId": "plot.xianni-ch637-save-zhou-yi-tidal-abyss-rift",
         "seq": 596
       }
     ],
@@ -153,6 +163,11 @@
         "value": "极高（多处难以度过之地，越深越无法窥探）",
         "docId": "plot.xianni-ch635-du-jian-devoured-by-light-eating-bugs",
         "seq": 596
+      },
+      {
+        "value": "极高（剑尊凌天候神念留存）",
+        "docId": "plot.xianni-ch637-save-zhou-yi-tidal-abyss-rift",
+        "seq": 596
       }
     ],
     "守护": [
@@ -161,6 +176,11 @@
         "docId": "plot.xianni-ch632-tanlang-daluo-disciples-trapped-tide-abyss",
         "seq": 591,
         "note": "仅火妖郡外出口处"
+      },
+      {
+        "value": "剑尊凌天候的残留神念",
+        "docId": "plot.xianni-ch637-save-zhou-yi-tidal-abyss-rift",
+        "seq": 596
       }
     ],
     "规模": [
@@ -191,9 +211,9 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch636-sealed-place-lingtianhou-hidden-rift",
+      "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
       "dated": false,
-      "seq": 596
+      "seq": 527
     },
     "所属界面": {
       "asOf": null,
@@ -222,10 +242,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch632-tanlang-daluo-disciples-trapped-tide-abyss",
+      "docId": "plot.xianni-ch637-save-zhou-yi-tidal-abyss-rift",
       "dated": false,
-      "seq": 591,
-      "note": "仅火妖郡外出口处"
+      "seq": 596
     },
     "规模": {
       "asOf": null,
@@ -244,7 +263,8 @@
     "plot.xianni-ch633-tubaozi-chaoxi-shenyuan-tongxing",
     "plot.xianni-ch634-tidal-abyss-du-jian-trap",
     "plot.xianni-ch635-du-jian-devoured-by-light-eating-bugs",
-    "plot.xianni-ch636-sealed-place-lingtianhou-hidden-rift"
+    "plot.xianni-ch636-sealed-place-lingtianhou-hidden-rift",
+    "plot.xianni-ch637-save-zhou-yi-tidal-abyss-rift"
   ],
-  "updatedAt": "2026-08-22T18:24:36.162Z"
+  "updatedAt": "2026-08-22T18:27:21.053Z"
 }
