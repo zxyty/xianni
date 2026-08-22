@@ -131,3 +131,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T08:01:12.352Z** `ingest` plot.xianni-ch532-533-three-stroke-rune-second-seal — 仙逆 第532-533章 三符归一·扭转乾坤：王林破第二尊石像、集齐三笔金符 · kind=plot asOf=2026-08-22 entities=65 relations=119 src=00532-00533.md
 - **2026-08-22T08:21:23.265Z** `ingest` plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber — 仙逆 第534-536章：破十丈仙禁得洞府令、一滴仙酒沉睡一年、修为直逼问鼎 · kind=plot asOf=2026-08-22 entities=74 relations=135 src=00534-00536.md
 - **2026-08-22T09:13:41.904Z** `ingest` plot.xianni-ch565-yi-zhang-yaojiang-yaohai-bailang — 第565章 一掌｜王林战妖将：符文神通初显与仙界巨掌之印 · kind=plot asOf=2026-08-22 entities=22 relations=24 src=00537-00541.p1.md
+- **2026-08-22T09:15:51.874Z** `ingest` plot.xianni-ch565-laozu-return-yaojiang-truce — 第565章 老祖回归：虚幻一掌慑退莫厉海，救回十三、返炼魂部落 · kind=plot asOf=2026-08-22 entities=21 relations=29 src=00537-00541.p2.md

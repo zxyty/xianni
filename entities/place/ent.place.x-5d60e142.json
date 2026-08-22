@@ -3,13 +3,16 @@
   "type": "place",
   "name": "黑牢",
   "aliases": [
-    "古妖城黑牢"
+    "古妖城黑牢",
+    "吉妖城黑牢"
   ],
   "summary": "古妖城中守卫森严的牢狱，虎咆被废修为投入其中，三个月后神秘失踪，连司马炎也不知缘由。",
   "attributes": {
     "上级区域": "古妖城",
-    "类型": "牢狱",
-    "守护": "守卫森严"
+    "类型": "囚牢",
+    "守护": "阵法封印",
+    "方位": "古妖城地下",
+    "危险度": "深处有封印限制"
   },
   "observations": {
     "上级区域": [
@@ -24,6 +27,11 @@
         "value": "牢狱",
         "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
         "seq": 534
+      },
+      {
+        "value": "囚牢",
+        "docId": "plot.xianni-ch565-laozu-return-yaojiang-truce",
+        "seq": 537
       }
     ],
     "守护": [
@@ -31,6 +39,25 @@
         "value": "守卫森严",
         "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
         "seq": 534
+      },
+      {
+        "value": "阵法封印",
+        "docId": "plot.xianni-ch565-laozu-return-yaojiang-truce",
+        "seq": 537
+      }
+    ],
+    "方位": [
+      {
+        "value": "古妖城地下",
+        "docId": "plot.xianni-ch565-laozu-return-yaojiang-truce",
+        "seq": 537
+      }
+    ],
+    "危险度": [
+      {
+        "value": "深处有封印限制",
+        "docId": "plot.xianni-ch565-laozu-return-yaojiang-truce",
+        "seq": 537
       }
     ]
   },
@@ -44,21 +71,34 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
+      "docId": "plot.xianni-ch565-laozu-return-yaojiang-truce",
       "dated": false,
-      "seq": 534
+      "seq": 537
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
+      "docId": "plot.xianni-ch565-laozu-return-yaojiang-truce",
       "dated": false,
-      "seq": 534
+      "seq": 537
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch565-laozu-return-yaojiang-truce",
+      "dated": false,
+      "seq": 537
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch565-laozu-return-yaojiang-truce",
+      "dated": false,
+      "seq": 537
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber"
+    "plot.xianni-ch534-536-immortal-cave-forbidden-array-immortal-wine-slumber",
+    "plot.xianni-ch565-laozu-return-yaojiang-truce"
   ],
-  "updatedAt": "2026-08-22T08:21:23.108Z"
+  "updatedAt": "2026-08-22T09:15:51.750Z"
 }
