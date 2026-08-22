@@ -4,13 +4,15 @@
   "name": "七魔针",
   "aliases": [
     "贪狼七魔针",
-    "Qi Mo Zhen"
+    "Qi Mo Zhen",
+    "七根银针",
+    "银芒银幕"
   ],
   "summary": "贪狼的本命法宝，可由元神融入操控；全部刺入蚊兽王兽体内后即可通过王兽操控整群蚊兽。",
   "attributes": {
     "持有者": "贪狼",
-    "能力": "元神融入远程操控、刺入王兽以操控整群蚊兽",
-    "外形": "针状（七枚）"
+    "能力": "元神融入远程操控、刺入王兽以操控整群蚊兽、操控妖兽、化银幕防御",
+    "外形": "针状（七枚）、七根银针"
   },
   "observations": {
     "持有者": [
@@ -30,12 +32,27 @@
         "value": "刺入王兽以操控整群蚊兽",
         "docId": "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua",
         "seq": 605
+      },
+      {
+        "value": "操控妖兽",
+        "docId": "plot.xianni-ch646-tanlang-shentong",
+        "seq": 605
+      },
+      {
+        "value": "化银幕防御",
+        "docId": "plot.xianni-ch646-tanlang-shentong",
+        "seq": 605
       }
     ],
     "外形": [
       {
         "value": "针状（七枚）",
         "docId": "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua",
+        "seq": 605
+      },
+      {
+        "value": "七根银针",
+        "docId": "plot.xianni-ch646-tanlang-shentong",
         "seq": 605
       }
     ]
@@ -64,7 +81,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua"
+    "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua",
+    "plot.xianni-ch646-tanlang-shentong"
   ],
-  "updatedAt": "2026-08-22T18:53:15.774Z"
+  "updatedAt": "2026-08-22T19:05:26.245Z"
 }

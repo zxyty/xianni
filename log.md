@@ -196,3 +196,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T18:53:15.953Z** `ingest` plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua — 第642章 王林的睿智：贪狼的紫雾局与蚊兽异动 · kind=plot asOf=2026-08-22 entities=30 relations=53 src=00605-00608.p1.md
 - **2026-08-22T18:56:05.480Z** `ingest` plot.xianni-ch644-purple-mist-convergence — 第644章 紫雾归一：王林会贪狼、蚊兽归群、贪狼献祭大罗剑宗众人 · kind=plot asOf=2026-08-22 entities=21 relations=32 src=00605-00608.p2.md
 - **2026-08-22T19:03:03.832Z** `ingest` plot.xianni-ch645-jueduan-chenlong-escapes-purple-mist — 第645章 果断！——辰龙以本命剑气独自突围，王林紫雾中反杀 · kind=plot asOf=2026-08-22 entities=26 relations=57 src=00605-00608.p3.md
+- **2026-08-22T19:05:26.400Z** `ingest` plot.xianni-ch646-tanlang-shentong — 第646章 贪狼神通——蚊兽反噬、噬死二式抽山魂与紫金令牌现世 · kind=plot asOf=2026-08-22 entities=24 relations=32 src=00605-00608.p4.md

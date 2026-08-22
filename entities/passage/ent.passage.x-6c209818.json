@@ -4,11 +4,12 @@
   "name": "出口空间裂缝",
   "aliases": [
     "出口",
-    "出口符文"
+    "出口符文",
+    "此地出口"
   ],
   "summary": "虚无空间唯一出口，由一个巨大符文闪动维系不使裂缝合并；外侧有无数野人层层围绕。被王林两斩击碎符文后裂缝合并、出口消失。",
   "attributes": {
-    "类型": "空间裂缝",
+    "类型": "出口/通道口",
     "稳定性": "依赖巨大符文维系",
     "守护": "外侧无数野人"
   },
@@ -18,6 +19,11 @@
         "value": "空间裂缝",
         "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
         "seq": 332
+      },
+      {
+        "value": "出口/通道口",
+        "docId": "plot.xianni-ch646-tanlang-shentong",
+        "seq": 605
       }
     ],
     "稳定性": [
@@ -40,9 +46,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+      "docId": "plot.xianni-ch646-tanlang-shentong",
       "dated": false,
-      "seq": 332
+      "seq": 605
     },
     "稳定性": {
       "asOf": null,
@@ -61,7 +67,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch352-fu-kui-space-rift-flight"
+    "plot.xianni-ch352-fu-kui-space-rift-flight",
+    "plot.xianni-ch646-tanlang-shentong"
   ],
-  "updatedAt": "2026-08-08T10:48:57.939Z"
+  "updatedAt": "2026-08-22T19:05:26.256Z"
 }

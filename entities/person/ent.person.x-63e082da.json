@@ -9,7 +9,9 @@
     "大罗剑宗辰龙",
     "大罗剑宗弟子辰龙",
     "辰龙道友",
-    "辰龙师兄"
+    "辰龙师兄",
+    "Chenlong",
+    "辰龙(十二地支之一)"
   ],
   "summary": "大罗剑宗在天妖郡五名弟子之首。",
   "attributes": {
@@ -17,8 +19,9 @@
     "小阶段": "问鼎初期",
     "性格": "心机深沉，隐匿修为、冷静、多疑、有城府、心机深沉、隐忍不动声色、犹豫百年、临危方才果断",
     "存殁": "存活",
-    "标志特征": "身裹迷雾，被窥探时迷雾化利剑、眼中一闪的喜色（求救信号）、双指为剑、蕴含奇异神通、眉心藏凌天候本命剑气，一点眉心散出红芒",
-    "阵营": "大罗剑宗"
+    "标志特征": "身裹迷雾，被窥探时迷雾化利剑、眼中一闪的喜色（求救信号）、双指为剑、蕴含奇异神通、眉心藏凌天候本命剑气，一点眉心散出红芒、喷元神精血催动宝剑蜕皮化龙",
+    "阵营": "大罗剑宗",
+    "本命法宝": "背后大剑（可化黑龙）"
   },
   "observations": {
     "身份": [
@@ -121,12 +124,24 @@
         "value": "眉心藏凌天候本命剑气，一点眉心散出红芒",
         "docId": "plot.xianni-ch645-jueduan-chenlong-escapes-purple-mist",
         "seq": 605
+      },
+      {
+        "value": "喷元神精血催动宝剑蜕皮化龙",
+        "docId": "plot.xianni-ch646-tanlang-shentong",
+        "seq": 605
       }
     ],
     "阵营": [
       {
         "value": "大罗剑宗",
         "docId": "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua",
+        "seq": 605
+      }
+    ],
+    "本命法宝": [
+      {
+        "value": "背后大剑（可化黑龙）",
+        "docId": "plot.xianni-ch646-tanlang-shentong",
         "seq": 605
       }
     ]
@@ -169,6 +184,12 @@
       "docId": "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua",
       "dated": false,
       "seq": 605
+    },
+    "本命法宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch646-tanlang-shentong",
+      "dated": false,
+      "seq": 605
     }
   },
   "contested": false,
@@ -180,7 +201,8 @@
     "plot.xianni-ch633-tubaozi-chaoxi-shenyuan-tongxing",
     "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua",
     "plot.xianni-ch644-purple-mist-convergence",
-    "plot.xianni-ch645-jueduan-chenlong-escapes-purple-mist"
+    "plot.xianni-ch645-jueduan-chenlong-escapes-purple-mist",
+    "plot.xianni-ch646-tanlang-shentong"
   ],
-  "updatedAt": "2026-08-22T19:03:03.667Z"
+  "updatedAt": "2026-08-22T19:05:26.242Z"
 }
