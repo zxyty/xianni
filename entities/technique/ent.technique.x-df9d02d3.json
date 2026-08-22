@@ -5,14 +5,17 @@
   "aliases": [
     "吉神之术",
     "古神术",
-    "涂司古神之术"
+    "涂司古神之术",
+    "涂司传承古神之术",
+    "古神印诀"
   ],
   "summary": "以皮肉为天、筋骨为地、以神为根本，吞噬天地仙灵筑炼体魄的逆天法门；王林考虑传给十三以化废为强，但因失败必死、能否吞噬妖力未知而搁置。",
   "attributes": {
-    "出处": "古神（吉神涂司）传承",
-    "效果": "炼天炼地，以肉身之强击碎一切道心，以自身之神画下天地之道",
+    "出处": "吉神涂司传承",
+    "效果": "以印诀引动天地灵力（本尊喝『收』吸纳整星灵力）",
     "修炼条件": "需吞噬天地仙灵；体质不足者失败恐必死",
-    "适用境界": "不依赖经脉，可由经脉尽断者尝试"
+    "适用境界": "不依赖经脉，可由经脉尽断者尝试",
+    "外显异象": "眉心星芒闪烁、地底灵力云涌"
   },
   "observations": {
     "出处": [
@@ -20,6 +23,11 @@
         "value": "古神（吉神涂司）传承",
         "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
         "seq": 514
+      },
+      {
+        "value": "吉神涂司传承",
+        "docId": "plot.xianni-ch610-da-gong-gao-cheng",
+        "seq": 571
       }
     ],
     "效果": [
@@ -27,6 +35,11 @@
         "value": "炼天炼地，以肉身之强击碎一切道心，以自身之神画下天地之道",
         "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
         "seq": 514
+      },
+      {
+        "value": "以印诀引动天地灵力（本尊喝『收』吸纳整星灵力）",
+        "docId": "plot.xianni-ch610-da-gong-gao-cheng",
+        "seq": 571
       }
     ],
     "修炼条件": [
@@ -42,21 +55,28 @@
         "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
         "seq": 514
       }
+    ],
+    "外显异象": [
+      {
+        "value": "眉心星芒闪烁、地底灵力云涌",
+        "docId": "plot.xianni-ch610-da-gong-gao-cheng",
+        "seq": 571
+      }
     ]
   },
   "firstSeq": 514,
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
+      "docId": "plot.xianni-ch610-da-gong-gao-cheng",
       "dated": false,
-      "seq": 514
+      "seq": 571
     },
     "效果": {
       "asOf": null,
-      "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
+      "docId": "plot.xianni-ch610-da-gong-gao-cheng",
       "dated": false,
-      "seq": 514
+      "seq": 571
     },
     "修炼条件": {
       "asOf": null,
@@ -69,12 +89,19 @@
       "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
       "dated": false,
       "seq": 514
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.xianni-ch610-da-gong-gao-cheng",
+      "dated": false,
+      "seq": 571
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground"
+    "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
+    "plot.xianni-ch610-da-gong-gao-cheng"
   ],
-  "updatedAt": "2026-08-22T02:43:48.181Z"
+  "updatedAt": "2026-08-22T15:44:23.611Z"
 }

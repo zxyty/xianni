@@ -5,7 +5,9 @@
   "aliases": [
     "魁梧大汉",
     "火云十八英老大",
-    "大汉"
+    "大汉",
+    "散魔附身的大汉",
+    "被附身大汉"
   ],
   "summary": "火云寨首领、火云十八英之首，身材极为魁梧；主持劫掠天威镖局，夺得夜明珠与王林的灰色储物袋，误认储物袋为天蚕丝宝物。",
   "attributes": {
@@ -14,7 +16,7 @@
     "身份": "火云寨大当家",
     "外貌": "身材极为魁梧",
     "性格": "贪婪、狠辣",
-    "存殁": "死亡",
+    "存殁": "重伤未死",
     "死因": "被王林以无形大手捏爆，化作血肉",
     "结局": "死于第373章，储物袋被王林夺回"
   },
@@ -59,6 +61,12 @@
         "value": "死亡",
         "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
         "seq": 351
+      },
+      {
+        "value": "重伤未死",
+        "docId": "plot.xianni-ch610-da-gong-gao-cheng",
+        "seq": 571,
+        "note": "全身糜烂、双目黯淡，被古妖卷往龙潭"
       }
     ],
     "死因": [
@@ -110,9 +118,10 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+      "docId": "plot.xianni-ch610-da-gong-gao-cheng",
       "dated": false,
-      "seq": 351
+      "seq": 571,
+      "note": "全身糜烂、双目黯淡，被古妖卷往龙潭"
     },
     "死因": {
       "asOf": null,
@@ -130,7 +139,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north"
+    "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+    "plot.xianni-ch610-da-gong-gao-cheng"
   ],
-  "updatedAt": "2026-08-08T15:56:06.585Z"
+  "updatedAt": "2026-08-22T15:44:23.591Z"
 }
