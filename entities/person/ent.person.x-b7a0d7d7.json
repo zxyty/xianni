@@ -14,17 +14,20 @@
     "孙长老（修真联盟）",
     "孙长老前辈",
     "儒雅紫袍男子",
-    "地帅身旁紫袍中年男子"
+    "地帅身旁紫袍中年男子",
+    "孙某人",
+    "与王林交易的孙长老",
+    "孙家孙长老"
   ],
   "summary": "恒岳派长老，居正院药园种植草药，发放探亲千里符。",
   "attributes": {
-    "身份": "恒岳派长老、恒岳派二代弟子、恒岳派二代弟子（末流）、恒岳派记名弟子杂务处长老、恒岳派长老/师叔、恒岳派长老/王林师父、打理药园子、恒岳派师叔、恒岳派长老／王林师父、云天宗外宗长老、王林早年师尊、王林的师父、以分身前来赴宴、修真联盟长老、长老、寿宴宾客",
-    "阵营": "修真联盟",
+    "身份": "恒岳派长老、恒岳派二代弟子、恒岳派二代弟子（末流）、恒岳派记名弟子杂务处长老、恒岳派长老/师叔、恒岳派长老/王林师父、打理药园子、恒岳派师叔、恒岳派长老／王林师父、云天宗外宗长老、王林早年师尊、王林的师父、以分身前来赴宴、修真联盟长老、长老、寿宴宾客、孙家（分支）长老",
+    "阵营": "孙家",
     "标志特征": "一生只收王林一徒",
     "称号": "孙长老、孙师叔",
-    "性格": "豪迈哈哈大笑、随和",
+    "性格": "贪婪、眼红他人之物、不便亲自出手而使唤族人",
     "外貌": "紫袍，相貌儒雅的中年男子",
-    "小阶段": "盘膝打坐中，未察王林神识",
+    "小阶段": "婴变期",
     "存殁": "死亡",
     "死因": "贪恋王林身上的葫芦，被王林所杀",
     "结局": "尸体被弃于山涧，储物袋（内有好东西）被王林取走"
@@ -107,6 +110,11 @@
         "value": "长老、寿宴宾客",
         "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
         "seq": 472
+      },
+      {
+        "value": "孙家（分支）长老",
+        "docId": "plot.xianni-ch665-warning-sun-family-ranyun-star",
+        "seq": 621
       }
     ],
     "阵营": [
@@ -119,6 +127,11 @@
         "value": "修真联盟",
         "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
         "seq": 467
+      },
+      {
+        "value": "孙家",
+        "docId": "plot.xianni-ch665-warning-sun-family-ranyun-star",
+        "seq": 621
       }
     ],
     "标志特征": [
@@ -170,6 +183,11 @@
         "value": "豪迈哈哈大笑、随和",
         "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
         "seq": 467
+      },
+      {
+        "value": "贪婪、眼红他人之物、不便亲自出手而使唤族人",
+        "docId": "plot.xianni-ch665-warning-sun-family-ranyun-star",
+        "seq": 621
       }
     ],
     "外貌": [
@@ -205,6 +223,12 @@
         "value": "盘膝打坐中，未察王林神识",
         "docId": "plot.xianni-ch37-42-sinian-guangban",
         "seq": 37
+      },
+      {
+        "value": "婴变期",
+        "docId": "plot.xianni-ch665-warning-sun-family-ranyun-star",
+        "seq": 621,
+        "note": "文中称『一个婴变修士若能得传承伪仙宝』指其自身"
       }
     ],
     "存殁": [
@@ -245,9 +269,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+      "docId": "plot.xianni-ch665-warning-sun-family-ranyun-star",
       "dated": false,
-      "seq": 467
+      "seq": 621
     },
     "标志特征": {
       "asOf": null,
@@ -263,9 +287,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+      "docId": "plot.xianni-ch665-warning-sun-family-ranyun-star",
       "dated": false,
-      "seq": 467
+      "seq": 621
     },
     "外貌": {
       "asOf": null,
@@ -275,9 +299,10 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch37-42-sinian-guangban",
+      "docId": "plot.xianni-ch665-warning-sun-family-ranyun-star",
       "dated": false,
-      "seq": 37
+      "seq": 621,
+      "note": "文中称『一个婴变修士若能得传承伪仙宝』指其自身"
     },
     "存殁": {
       "asOf": null,
@@ -314,7 +339,8 @@
     "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
     "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
     "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
-    "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum"
+    "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
+    "plot.xianni-ch665-warning-sun-family-ranyun-star"
   ],
-  "updatedAt": "2026-08-22T11:46:59.299Z"
+  "updatedAt": "2026-08-22T22:29:51.430Z"
 }

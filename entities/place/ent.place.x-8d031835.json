@@ -9,9 +9,9 @@
   ],
   "summary": "城东一座二层典雅小铺，门外摆放品质为上品的原灵石，因而引起王林兴趣，但王林未入内。",
   "attributes": {
-    "类型": "修士店铺",
+    "类型": "修士店铺、修真店铺",
     "方位": "城东",
-    "上级区域": "城东",
+    "上级区域": "城东、孙家之城",
     "规模": "二层小铺、典雅",
     "特产": "门外上品原灵石"
   },
@@ -20,6 +20,11 @@
       {
         "value": "修士店铺",
         "docId": "plot.xianni-ch663-sun-lao-baohe-lou",
+        "seq": 621
+      },
+      {
+        "value": "修真店铺",
+        "docId": "plot.xianni-ch665-warning-sun-family-ranyun-star",
         "seq": 621
       }
     ],
@@ -34,6 +39,11 @@
       {
         "value": "城东",
         "docId": "plot.xianni-ch663-sun-lao-baohe-lou",
+        "seq": 621
+      },
+      {
+        "value": "孙家之城",
+        "docId": "plot.xianni-ch665-warning-sun-family-ranyun-star",
         "seq": 621
       }
     ],
@@ -89,7 +99,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch663-sun-lao-baohe-lou",
-    "plot.xianni-ch664-cuoguo-qingzhuge-sell-sword"
+    "plot.xianni-ch664-cuoguo-qingzhuge-sell-sword",
+    "plot.xianni-ch665-warning-sun-family-ranyun-star"
   ],
-  "updatedAt": "2026-08-22T22:26:59.125Z"
+  "updatedAt": "2026-08-22T22:29:51.439Z"
 }

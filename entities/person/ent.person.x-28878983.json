@@ -5,14 +5,16 @@
   "aliases": [
     "手持扇子的白衣男子",
     "白衣男子",
-    "山谷内白衣男子"
+    "山谷内白衣男子",
+    "孙家白衣男子"
   ],
   "summary": "章末在仙界东部边缘碎片追杀黑云修士的修士，面色阴沉、脸带冷笑，合扇一指便召出虚空大手擒人。",
   "attributes": {
-    "外貌": "白衣",
+    "外貌": "白衣男子",
     "标志特征": "合扇一指召出虚空大手",
     "存殁": "死亡",
-    "死因": "被大罗剑宗红网封印、体内九黎虫所困而死"
+    "死因": "被大罗剑宗红网封印、体内九黎虫所困而死",
+    "阵营": "孙家"
   },
   "observations": {
     "外貌": [
@@ -25,6 +27,11 @@
         "value": "白衣",
         "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
         "seq": 486
+      },
+      {
+        "value": "白衣男子",
+        "docId": "plot.xianni-ch665-warning-sun-family-ranyun-star",
+        "seq": 621
       }
     ],
     "标志特征": [
@@ -47,15 +54,22 @@
         "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
         "seq": 486
       }
+    ],
+    "阵营": [
+      {
+        "value": "孙家",
+        "docId": "plot.xianni-ch665-warning-sun-family-ranyun-star",
+        "seq": 621
+      }
     ]
   },
   "firstSeq": 285,
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+      "docId": "plot.xianni-ch665-warning-sun-family-ranyun-star",
       "dated": false,
-      "seq": 486
+      "seq": 621
     },
     "标志特征": {
       "asOf": null,
@@ -74,13 +88,20 @@
       "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
       "dated": false,
       "seq": 486
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch665-warning-sun-family-ranyun-star",
+      "dated": false,
+      "seq": 621
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
-    "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit"
+    "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+    "plot.xianni-ch665-warning-sun-family-ranyun-star"
   ],
-  "updatedAt": "2026-08-21T10:41:37.783Z"
+  "updatedAt": "2026-08-22T22:29:51.435Z"
 }
