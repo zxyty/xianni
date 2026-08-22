@@ -2,13 +2,16 @@
   "id": "ent.artifact.x-22673fef",
   "type": "artifact",
   "name": "黑色弯刀",
-  "aliases": [],
+  "aliases": [
+    "阴森弯刀"
+  ],
   "summary": "带刀灵的黑色弯刀，本章冲破储物袋封印袭击王林，被杀戮之气困住后被强行刻上王林元神烙印，此后跟随许立国。",
   "attributes": {
     "器灵": "刀灵（与许立国交好）",
-    "能力": "极速突袭、化作锋利刀气、破封自行出击",
+    "能力": "极速突袭、化作锋利刀气、破封自行出击、可自行隐入虚空追击高速目标",
     "禁制": "王林的元神烙印",
-    "外形": "黑色弯刀，攻击时化黑芒"
+    "外形": "黑色弯刀，嗡鸣有声",
+    "持有者": "王林"
   },
   "observations": {
     "器灵": [
@@ -33,6 +36,11 @@
         "value": "破封自行出击",
         "docId": "plot.xianni-ch582-wang-lin-reclaims-xu-liguo-and-black-blade",
         "seq": 550
+      },
+      {
+        "value": "可自行隐入虚空追击高速目标",
+        "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
+        "seq": 566
       }
     ],
     "禁制": [
@@ -48,6 +56,18 @@
         "value": "黑色弯刀，攻击时化黑芒",
         "docId": "plot.xianni-ch582-wang-lin-reclaims-xu-liguo-and-black-blade",
         "seq": 550
+      },
+      {
+        "value": "黑色弯刀，嗡鸣有声",
+        "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
+        "seq": 566
+      }
+    ],
+    "持有者": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
+        "seq": 566
       }
     ]
   },
@@ -74,15 +94,22 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch582-wang-lin-reclaims-xu-liguo-and-black-blade",
+      "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
       "dated": false,
-      "seq": 550
+      "seq": 566
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
+      "dated": false,
+      "seq": 566
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch582-wang-lin-reclaims-xu-liguo-and-black-blade"
+    "plot.xianni-ch582-wang-lin-reclaims-xu-liguo-and-black-blade",
+    "plot.xianni-ch605-yaowei-pusa-old-man-fengyin"
   ],
-  "updatedAt": "2026-08-22T11:33:48.378Z"
+  "updatedAt": "2026-08-22T14:43:24.049Z"
 }

@@ -7,14 +7,20 @@
     "猴子老头",
     "草帽老头",
     "我老人家",
-    "出声警告的成名老怪"
+    "出声警告的成名老怪",
+    "漆黑干瘦老者",
+    "妖卫干瘦老者",
+    "天脓地疮老者"
   ],
   "summary": "性格古怪、自恋好夸的绝世高手，深夜向王林讲解仙门与古仙界碎片法则，索木雕、借出草帽法宝后离去，留下九十九个木雕之约。",
   "attributes": {
-    "外貌": "干瘦老者",
+    "外貌": "身子干瘦、全身漆黑，常趴伏侧头、伸舌舔唇",
     "性格": "古怪、自恋、好色（心系红粉楼小翠）、怒时略显狂暴",
-    "标志特征": "怒时四周天地灵力按某种规律变化",
-    "身份": "天运星成名老怪"
+    "标志特征": "身后可幻化十丈高的漆黑茧形虚影，表面生脓包",
+    "身份": "妖卫",
+    "阵营": "受「主人」驱使",
+    "存殁": "死亡",
+    "死因": "茧形虚影被王林拽出捏爆、寂灭黑芒穿体，战后成一具干尸"
   },
   "observations": {
     "外貌": [
@@ -27,6 +33,11 @@
         "value": "干瘦老者",
         "docId": "plot.xianni-ch519-tide-recede-golden-token",
         "seq": 496
+      },
+      {
+        "value": "身子干瘦、全身漆黑，常趴伏侧头、伸舌舔唇",
+        "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
+        "seq": 566
       }
     ],
     "性格": [
@@ -56,6 +67,11 @@
         "value": "怒时四周天地灵力按某种规律变化",
         "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
         "seq": 253
+      },
+      {
+        "value": "身后可幻化十丈高的漆黑茧形虚影，表面生脓包",
+        "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
+        "seq": 566
       }
     ],
     "身份": [
@@ -69,6 +85,32 @@
         "value": "天运星成名老怪",
         "docId": "plot.xianni-ch519-tide-recede-golden-token",
         "seq": 496
+      },
+      {
+        "value": "妖卫",
+        "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
+        "seq": 566
+      }
+    ],
+    "阵营": [
+      {
+        "value": "受「主人」驱使",
+        "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
+        "seq": 566
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
+        "seq": 566
+      }
+    ],
+    "死因": [
+      {
+        "value": "茧形虚影被王林拽出捏爆、寂灭黑芒穿体，战后成一具干尸",
+        "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
+        "seq": 566
       }
     ]
   },
@@ -76,9 +118,9 @@
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch519-tide-recede-golden-token",
+      "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
       "dated": false,
-      "seq": 496
+      "seq": 566
     },
     "性格": {
       "asOf": null,
@@ -88,22 +130,41 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+      "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
       "dated": false,
-      "seq": 253
+      "seq": 566
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch519-tide-recede-golden-token",
+      "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
       "dated": false,
-      "seq": 496
+      "seq": 566
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
+      "dated": false,
+      "seq": 566
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
+      "dated": false,
+      "seq": 566
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
+      "dated": false,
+      "seq": 566
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
-    "plot.xianni-ch519-tide-recede-golden-token"
+    "plot.xianni-ch519-tide-recede-golden-token",
+    "plot.xianni-ch605-yaowei-pusa-old-man-fengyin"
   ],
-  "updatedAt": "2026-08-22T00:48:47.436Z"
+  "updatedAt": "2026-08-22T14:43:24.033Z"
 }

@@ -3,15 +3,20 @@
   "type": "person",
   "name": "风吟",
   "aliases": [
-    "妖卫风吟"
+    "妖卫风吟",
+    "脸有纹体的女子",
+    "纹面女子风吟",
+    "Feng Yin"
   ],
   "summary": "由阴寒妖风所化的铠甲女子，脸上纹身延至全身（被铠甲遮挡），与妖将邪莲极为相似，应召单膝跪禀。",
   "attributes": {
     "性别": "女",
     "身份": "妖卫",
-    "外貌": "身穿铠甲，脸上有延至全身的纹身",
-    "标志特征": "化作阴寒妖风现身，与妖将邪莲极为相似",
-    "阵营": "远古战场·魔仆麾下"
+    "外貌": "脸有纹体",
+    "标志特征": "可化身成风、几近无影；手持匕首",
+    "阵营": "受「主人」驱使",
+    "存殁": "死亡",
+    "死因": "被王林无名掌印穿体，杀戮之气入体化作血肉崩溃"
   },
   "observations": {
     "性别": [
@@ -33,6 +38,11 @@
         "value": "身穿铠甲，脸上有延至全身的纹身",
         "docId": "plot.xianni-ch604-ten-years-enlightenment-dao-yellow-springs",
         "seq": 561
+      },
+      {
+        "value": "脸有纹体",
+        "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
+        "seq": 566
       }
     ],
     "标志特征": [
@@ -40,6 +50,11 @@
         "value": "化作阴寒妖风现身，与妖将邪莲极为相似",
         "docId": "plot.xianni-ch604-ten-years-enlightenment-dao-yellow-springs",
         "seq": 561
+      },
+      {
+        "value": "可化身成风、几近无影；手持匕首",
+        "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
+        "seq": 566
       }
     ],
     "阵营": [
@@ -47,6 +62,25 @@
         "value": "远古战场·魔仆麾下",
         "docId": "plot.xianni-ch604-ten-years-enlightenment-dao-yellow-springs",
         "seq": 561
+      },
+      {
+        "value": "受「主人」驱使",
+        "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
+        "seq": 566
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
+        "seq": 566
+      }
+    ],
+    "死因": [
+      {
+        "value": "被王林无名掌印穿体，杀戮之气入体化作血肉崩溃",
+        "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
+        "seq": 566
       }
     ]
   },
@@ -66,27 +100,40 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch604-ten-years-enlightenment-dao-yellow-springs",
+      "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
       "dated": false,
-      "seq": 561
+      "seq": 566
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch604-ten-years-enlightenment-dao-yellow-springs",
+      "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
       "dated": false,
-      "seq": 561
+      "seq": 566
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch604-ten-years-enlightenment-dao-yellow-springs",
+      "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
       "dated": false,
-      "seq": 561
+      "seq": 566
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
+      "dated": false,
+      "seq": 566
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
+      "dated": false,
+      "seq": 566
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch604-ten-years-enlightenment-dao-yellow-springs"
+    "plot.xianni-ch604-ten-years-enlightenment-dao-yellow-springs",
+    "plot.xianni-ch605-yaowei-pusa-old-man-fengyin"
   ],
-  "updatedAt": "2026-08-22T13:54:22.731Z"
+  "updatedAt": "2026-08-22T14:43:24.035Z"
 }
