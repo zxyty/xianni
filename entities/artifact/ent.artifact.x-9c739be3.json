@@ -4,13 +4,16 @@
   "name": "黑色漩涡",
   "aliases": [
     "繁星漩涡",
-    "妖将的星辰漩涡"
+    "妖将的星辰漩涡",
+    "巨大的黑色旋涡",
+    "无声无息的漩涡"
   ],
   "summary": "莫厉海虚空抓出的黑色漩涡，内中繁星点点，每颗星辰对应一名被收押待炼化之人；点碎一颗即放出十三。",
   "attributes": {
     "持有者": "莫厉海",
     "能力": "以繁星收押人身，点碎星辰即释放",
-    "外形": "内含繁星的黑色漩涡"
+    "外形": "内含繁星的黑色漩涡",
+    "来历": "黑塔铠甲存在开启"
   },
   "observations": {
     "持有者": [
@@ -33,6 +36,13 @@
         "docId": "plot.xianni-ch565-laozu-return-yaojiang-truce",
         "seq": 537
       }
+    ],
+    "来历": [
+      {
+        "value": "黑塔铠甲存在开启",
+        "docId": "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm",
+        "seq": 561
+      }
     ]
   },
   "firstSeq": 537,
@@ -54,12 +64,19 @@
       "docId": "plot.xianni-ch565-laozu-return-yaojiang-truce",
       "dated": false,
       "seq": 537
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm",
+      "dated": false,
+      "seq": 561
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch565-laozu-return-yaojiang-truce"
+    "plot.xianni-ch565-laozu-return-yaojiang-truce",
+    "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm"
   ],
-  "updatedAt": "2026-08-22T09:15:51.755Z"
+  "updatedAt": "2026-08-22T13:44:28.584Z"
 }

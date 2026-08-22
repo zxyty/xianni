@@ -4,14 +4,20 @@
   "name": "黑塔铠甲存在",
   "aliases": [
     "高塔顶层铠甲",
-    "黑塔中的铠甲"
+    "黑塔中的铠甲",
+    "铠甲中的幽光",
+    "远古战场黑塔铠甲",
+    "宝塔内铠甲",
+    "吞噬元气者"
   ],
   "summary": "远古战场漆黑高塔顶层的漆黑铠甲，头盔亮起幽光并以神念赞「逆修，很好」，随后一声冷哼隔空重创金乌旭；金乌旭评其远超帝君且不在同一层面。",
   "attributes": {
-    "身份": "身份未明的绝顶存在",
-    "外貌": "漆黑铠甲，头盔处亮起幽光",
+    "身份": "远古战场黑塔顶层的神秘存在",
+    "外貌": "一副铠甲，头盔内两道幽光",
     "元神强度": "远超妖帝／帝君，不在同一层面",
-    "神识": "神念可跨越无数万里传音与出手"
+    "神识": "霸道神识可横扫覆盖整个远古战场",
+    "标志特征": "为催动枯骨手臂脱下一截手臂护甲，铠甲从此少一截护腕",
+    "性格": "耐心（为王林等待十年）、贪婪、傲慢"
   },
   "observations": {
     "身份": [
@@ -19,6 +25,11 @@
         "value": "身份未明的绝顶存在",
         "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
         "seq": 551
+      },
+      {
+        "value": "远古战场黑塔顶层的神秘存在",
+        "docId": "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm",
+        "seq": 561
       }
     ],
     "外貌": [
@@ -26,6 +37,11 @@
         "value": "漆黑铠甲，头盔处亮起幽光",
         "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
         "seq": 551
+      },
+      {
+        "value": "一副铠甲，头盔内两道幽光",
+        "docId": "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm",
+        "seq": 561
       }
     ],
     "元神强度": [
@@ -40,6 +56,26 @@
         "value": "神念可跨越无数万里传音与出手",
         "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
         "seq": 551
+      },
+      {
+        "value": "霸道神识可横扫覆盖整个远古战场",
+        "docId": "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm",
+        "seq": 561
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "为催动枯骨手臂脱下一截手臂护甲，铠甲从此少一截护腕",
+        "docId": "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm",
+        "seq": 561,
+        "note": "本章"
+      }
+    ],
+    "性格": [
+      {
+        "value": "耐心（为王林等待十年）、贪婪、傲慢",
+        "docId": "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm",
+        "seq": 561
       }
     ]
   },
@@ -47,15 +83,15 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+      "docId": "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm",
       "dated": false,
-      "seq": 551
+      "seq": 561
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+      "docId": "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm",
       "dated": false,
-      "seq": 551
+      "seq": 561
     },
     "元神强度": {
       "asOf": null,
@@ -65,15 +101,29 @@
     },
     "神识": {
       "asOf": null,
-      "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+      "docId": "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm",
       "dated": false,
-      "seq": 551
+      "seq": 561
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm",
+      "dated": false,
+      "seq": 561,
+      "note": "本章"
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm",
+      "dated": false,
+      "seq": 561
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui"
+    "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+    "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm"
   ],
-  "updatedAt": "2026-08-22T12:06:29.212Z"
+  "updatedAt": "2026-08-22T13:44:28.568Z"
 }
