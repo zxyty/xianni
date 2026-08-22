@@ -173,3 +173,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T16:41:07.919Z** `ingest` plot.xianni-ch620-immortal-realm-artifact-xianwei-xianzhong — 第620章 仙界之物：王林擒仙卫、救孙云山，初识「仙种」与修士联盟老祖 · kind=plot asOf=2026-08-22 entities=24 relations=37 src=00581-00585.p2.md
 - **2026-08-22T16:43:56.080Z** `ingest` plot.xianni-ch621-yi-dai-zong-shi-wang-lin-po-zhang-qi-ru-xiu-shi-lian-meng — 第621章 一代宗师——王林破瘴气闯修士联盟 · kind=plot asOf=2026-08-22 entities=30 relations=38 src=00581-00585.p3.md
 - **2026-08-22T16:46:10.209Z** `ingest` plot.xianni-ch622-immortal-beast-grain — 第622章 仙兽之粮：王林灭八仙卫、矮小老者祭出仙粮 · kind=plot asOf=2026-08-22 entities=20 relations=33 src=00581-00585.p4.md
+- **2026-08-22T16:48:31.738Z** `ingest` plot.xianni-ch623-kunxian-net-plea — 第623章 求求你了捆仙网——王林麒麟吞仙粮、雷兽破仙符，矮小老者弃仙笔亡命 · kind=plot asOf=2026-08-22 entities=21 relations=28 src=00581-00585.p5.md

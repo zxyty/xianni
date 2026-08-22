@@ -6,14 +6,17 @@
     "麒麟",
     "紫袍老者的仙兽",
     "凌天候的麒麟",
-    "仙界麒麟"
+    "仙界麒麟",
+    "仙麒麟",
+    "王林放出的麒麟"
   ],
   "summary": "紫袍老者所拥仙兽，头生双角、体型巨大，鼻喷白气即令一层仙界碎片崩溃，可钻入虚无不受侵蚀。",
   "attributes": {
-    "主人": "凌天候",
-    "能力": "鼻喷白气崩碎仙界碎片、穿行虚无而不受吞噬、活物但无传承，无法施展法术",
+    "主人": "王林",
+    "能力": "鼻喷白气崩碎仙界碎片、穿行虚无而不受吞噬、活物但无传承，无法施展法术、咆哮定住仙粮、一吸吞尽仙粮化为大补之气、震出被操控修士眉心青团",
     "外形": "麒麟，与麒麟残魂仅颜色不同",
-    "栖息地": "仙界"
+    "栖息地": "仙界",
+    "天敌": "无（其自身为仙粮天敌）"
   },
   "observations": {
     "主人": [
@@ -26,6 +29,11 @@
         "value": "凌天候",
         "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
         "seq": 363
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch623-kunxian-net-plea",
+        "seq": 581
       }
     ],
     "能力": [
@@ -43,6 +51,21 @@
         "value": "活物但无传承，无法施展法术",
         "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
         "seq": 363
+      },
+      {
+        "value": "咆哮定住仙粮",
+        "docId": "plot.xianni-ch623-kunxian-net-plea",
+        "seq": 581
+      },
+      {
+        "value": "一吸吞尽仙粮化为大补之气",
+        "docId": "plot.xianni-ch623-kunxian-net-plea",
+        "seq": 581
+      },
+      {
+        "value": "震出被操控修士眉心青团",
+        "docId": "plot.xianni-ch623-kunxian-net-plea",
+        "seq": 581
       }
     ],
     "外形": [
@@ -63,15 +86,22 @@
         "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
         "seq": 363
       }
+    ],
+    "天敌": [
+      {
+        "value": "无（其自身为仙粮天敌）",
+        "docId": "plot.xianni-ch623-kunxian-net-plea",
+        "seq": 581
+      }
     ]
   },
   "firstSeq": 299,
   "attrProvenance": {
     "主人": {
       "asOf": null,
-      "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+      "docId": "plot.xianni-ch623-kunxian-net-plea",
       "dated": false,
-      "seq": 363
+      "seq": 581
     },
     "能力": {
       "asOf": null,
@@ -90,6 +120,12 @@
       "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
       "dated": false,
       "seq": 363
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch623-kunxian-net-plea",
+      "dated": false,
+      "seq": 581
     }
   },
   "contested": false,
@@ -97,7 +133,8 @@
   "docs": [
     "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
     "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
-    "plot.xianni-ch618-new-change-silver-horn-thunder-beast"
+    "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
+    "plot.xianni-ch623-kunxian-net-plea"
   ],
-  "updatedAt": "2026-08-22T16:36:28.851Z"
+  "updatedAt": "2026-08-22T16:48:31.522Z"
 }

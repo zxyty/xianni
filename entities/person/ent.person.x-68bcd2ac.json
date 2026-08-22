@@ -9,16 +9,19 @@
     "城堡内老者",
     "贼眉鼠眼老者",
     "仙界之人老祖",
-    "孙若南的老祖"
+    "孙若南的老祖",
+    "仙麒麟矮小老者",
+    "操控仙粮的矮小老者"
   ],
   "summary": "白色城堡之主，身材极为矮小、声音阴森，手下豢养「仙卫」；早年即看中王林，下令派三个小队加一名仙卫生擒之，欲调教为新的仙卫。",
   "attributes": {
-    "身份": "白色城堡之主、仙卫豢养者、修士联盟老祖、自称来自仙界者、三女与八仙卫之主",
+    "身份": "白色城堡之主、仙卫豢养者、修士联盟老祖、自称来自仙界者、三女与八仙卫之主、以仙粮操控修士、豢养十名仙卫的散修",
     "称号": "老祖",
     "外貌": "身材极为矮小的老者、身子矮小的老者，双目睁开时金芒一闪、身材矮小，相貌贼眉鼠眼，不似修士反似贼子",
-    "性格": "心胸狭窄、狂妄，本章却再三忍耐劝退王林",
+    "性格": "阴森、自负、心胸狭窄、狂妄，本章却再三忍耐劝退王林、天生胆小、谨慎、怕死、恼羞成怒",
     "小阶段": "问鼎中期",
-    "出身地": "仙界"
+    "出身地": "仙界",
+    "标志特征": "身材矮小；拥有大量仙界法宝却几乎不会用"
   },
   "observations": {
     "身份": [
@@ -40,6 +43,11 @@
       {
         "value": "三女与八仙卫之主",
         "docId": "plot.xianni-ch622-immortal-beast-grain",
+        "seq": 581
+      },
+      {
+        "value": "以仙粮操控修士、豢养十名仙卫的散修",
+        "docId": "plot.xianni-ch623-kunxian-net-plea",
         "seq": 581
       }
     ],
@@ -77,13 +85,19 @@
         "value": "心胸狭窄、狂妄，本章却再三忍耐劝退王林",
         "docId": "plot.xianni-ch622-immortal-beast-grain",
         "seq": 581
+      },
+      {
+        "value": "天生胆小、谨慎、怕死、恼羞成怒",
+        "docId": "plot.xianni-ch623-kunxian-net-plea",
+        "seq": 581
       }
     ],
     "小阶段": [
       {
         "value": "问鼎中期",
         "docId": "plot.xianni-ch622-immortal-beast-grain",
-        "seq": 581
+        "seq": 581,
+        "note": "以特殊方法提升，体内无元力"
       }
     ],
     "出身地": [
@@ -92,6 +106,13 @@
         "docId": "plot.xianni-ch622-immortal-beast-grain",
         "seq": 581,
         "note": "自称，仙界破碎后机缘巧合来到此地"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "身材矮小；拥有大量仙界法宝却几乎不会用",
+        "docId": "plot.xianni-ch623-kunxian-net-plea",
+        "seq": 581
       }
     ]
   },
@@ -117,15 +138,16 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch622-immortal-beast-grain",
+      "docId": "plot.xianni-ch617-second-seal-of-shooting-god-chariot",
       "dated": false,
-      "seq": 581
+      "seq": 576
     },
     "小阶段": {
       "asOf": null,
       "docId": "plot.xianni-ch622-immortal-beast-grain",
       "dated": false,
-      "seq": 581
+      "seq": 581,
+      "note": "以特殊方法提升，体内无元力"
     },
     "出身地": {
       "asOf": null,
@@ -133,6 +155,12 @@
       "dated": false,
       "seq": 581,
       "note": "自称，仙界破碎后机缘巧合来到此地"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch623-kunxian-net-plea",
+      "dated": false,
+      "seq": 581
     }
   },
   "contested": false,
@@ -140,7 +168,8 @@
   "docs": [
     "plot.xianni-ch617-second-seal-of-shooting-god-chariot",
     "plot.xianni-ch621-yi-dai-zong-shi-wang-lin-po-zhang-qi-ru-xiu-shi-lian-meng",
-    "plot.xianni-ch622-immortal-beast-grain"
+    "plot.xianni-ch622-immortal-beast-grain",
+    "plot.xianni-ch623-kunxian-net-plea"
   ],
-  "updatedAt": "2026-08-22T16:46:10.052Z"
+  "updatedAt": "2026-08-22T16:48:31.519Z"
 }
