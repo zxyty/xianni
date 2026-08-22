@@ -5,12 +5,13 @@
   "aliases": [
     "虎咆吸收阴魂的远古战场",
     "那片远古战场",
-    "天妖郡远古战场"
+    "天妖郡远古战场",
+    "远古战场遗迹"
   ],
   "summary": "远在天妖城无数万里外的古战场，场中有一座通体漆黑的高塔，塔顶封存着漆黑铠甲的存在。",
   "attributes": {
     "方位": "距天妖城不知多少万里外",
-    "类型": "古战场",
+    "类型": "远古遗迹/战场",
     "守护": "黑塔铠甲存在",
     "上级区域": "天妖郡",
     "特产": "地底黑色骨头、无数魂魄"
@@ -38,6 +39,11 @@
         "value": "古战场",
         "docId": "plot.xianni-ch598-wending-crystal",
         "seq": 556
+      },
+      {
+        "value": "远古遗迹/战场",
+        "docId": "plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer",
+        "seq": 561
       }
     ],
     "守护": [
@@ -72,9 +78,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch598-wending-crystal",
+      "docId": "plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer",
       "dated": false,
-      "seq": 556
+      "seq": 561
     },
     "守护": {
       "asOf": null,
@@ -100,7 +106,8 @@
   "docs": [
     "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
     "plot.xianni-ch598-wending-crystal",
-    "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm"
+    "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm",
+    "plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer"
   ],
-  "updatedAt": "2026-08-22T13:44:28.578Z"
+  "updatedAt": "2026-08-22T13:46:45.316Z"
 }

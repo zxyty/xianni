@@ -10,16 +10,18 @@
     "古战场黑塔",
     "通体漆黑的高塔",
     "黑堵",
-    "远古战场黑塔"
+    "远古战场黑塔",
+    "远古战场中的黑塔"
   ],
   "summary": "五行之地中通体黑石、吸光不反照、高度沿直线递增的塔；土行黑塔共三层，第三层桌面有前人留字，可供避风与查探痕迹。",
   "attributes": {
-    "类型": "塔／据点",
+    "类型": "关内避难/标记塔、塔、高塔、塔／据点、远古遗迹/塔",
     "上级区域": "远古战场",
     "所属势力": "无",
     "方位": "古战场深处",
     "规模": "高约数十丈",
-    "危险度": "极高（幽芒现则天地颤）"
+    "危险度": "极高（幽芒现则天地颤）",
+    "守护": "塔内铠甲及其意志"
   },
   "observations": {
     "类型": [
@@ -41,6 +43,11 @@
       {
         "value": "塔／据点",
         "docId": "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm",
+        "seq": 561
+      },
+      {
+        "value": "远古遗迹/塔",
+        "docId": "plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer",
         "seq": 561
       }
     ],
@@ -88,15 +95,22 @@
         "docId": "plot.xianni-ch566-hupao-elder-and-armor",
         "seq": 537
       }
+    ],
+    "守护": [
+      {
+        "value": "塔内铠甲及其意志",
+        "docId": "plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer",
+        "seq": 561
+      }
     ]
   },
   "firstSeq": 155,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm",
+      "docId": "plot.xianni-ch155-157-tuoli-duiwu-quisui",
       "dated": false,
-      "seq": 561
+      "seq": 155
     },
     "上级区域": {
       "asOf": null,
@@ -127,6 +141,12 @@
       "docId": "plot.xianni-ch566-hupao-elder-and-armor",
       "dated": false,
       "seq": 537
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer",
+      "dated": false,
+      "seq": 561
     }
   },
   "contested": false,
@@ -138,7 +158,8 @@
     "plot.xianni-ch566-hupao-elder-and-armor",
     "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
     "plot.xianni-ch598-wending-crystal",
-    "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm"
+    "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm",
+    "plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer"
   ],
-  "updatedAt": "2026-08-22T13:44:28.579Z"
+  "updatedAt": "2026-08-22T13:46:45.316Z"
 }

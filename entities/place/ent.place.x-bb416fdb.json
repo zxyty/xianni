@@ -4,14 +4,16 @@
   "name": "升仙果种植地",
   "aliases": [
     "升仙果园",
-    "禁制内的种植之地"
+    "禁制内的种植之地",
+    "遍植升仙果之地"
   ],
   "summary": "火妖郡荒原禁制之内、以幻术隐藏的人为分割种植地，散发诡异幽香，成片只种升仙果。",
   "attributes": {
     "上级区域": "火妖郡",
-    "类型": "秘地／灵植园",
+    "类型": "秘地／灵植园、灵果种植地/秘境区域",
     "危险度": "外围数千连锁禁制，妖将亦难擅入",
-    "特产": "升仙果"
+    "特产": "升仙果",
+    "规模": "肉眼看不到尽头"
   },
   "observations": {
     "上级区域": [
@@ -26,6 +28,11 @@
         "value": "秘地／灵植园",
         "docId": "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm",
         "seq": 561
+      },
+      {
+        "value": "灵果种植地/秘境区域",
+        "docId": "plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer",
+        "seq": 561
       }
     ],
     "危险度": [
@@ -39,6 +46,13 @@
       {
         "value": "升仙果",
         "docId": "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm",
+        "seq": 561
+      }
+    ],
+    "规模": [
+      {
+        "value": "肉眼看不到尽头",
+        "docId": "plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer",
         "seq": 561
       }
     ]
@@ -68,12 +82,19 @@
       "docId": "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm",
       "dated": false,
       "seq": 561
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer",
+      "dated": false,
+      "seq": 561
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm"
+    "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm",
+    "plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer"
   ],
-  "updatedAt": "2026-08-22T13:44:28.582Z"
+  "updatedAt": "2026-08-22T13:46:45.315Z"
 }

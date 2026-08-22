@@ -5,14 +5,18 @@
   "aliases": [
     "护腕",
     "铠甲手臂护甲",
-    "枯骨上的护腕"
+    "枯骨上的护腕",
+    "枯骨手臂上的护腕",
+    "黑色护腕",
+    "魔气护腕"
   ],
   "summary": "黑塔铠甲存在自身脱落的一截臂甲，散发魔焰，扣在黑色枯骨手臂上后令其凝聚磅礴魔力，可放出近乎实质的魔气防御。",
   "attributes": {
-    "持有者": "黑塔铠甲存在",
-    "能力": "赋予枯骨手臂磅礴魔力、散出化作实质的魔气抵挡攻击",
-    "外形": "散发阵阵魔焰的一截手臂护甲",
-    "来历": "自黑塔内整体铠甲上脱落"
+    "持有者": "黑塔铠甲存在、王林",
+    "能力": "赋予枯骨手臂磅礴魔力、散出化作实质的魔气抵挡攻击、符文布下方圆千丈魔力困牢、发出叮咚魔音直攻元神、魔焰幻化单角黑影",
+    "外形": "散发阵阵魔焰的一截手臂护甲、戴于黑色枯骨手臂之上，魔气纵横",
+    "来历": "自黑塔内整体铠甲上脱落、疑与远古战场黑塔中的铠甲主人同源",
+    "禁制": "蜘蛛网般的元神之气禁制"
   },
   "observations": {
     "持有者": [
@@ -20,6 +24,12 @@
         "value": "黑塔铠甲存在",
         "docId": "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm",
         "seq": 561
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer",
+        "seq": 561,
+        "note": "第601章击溃黑影后以元神之气封印并收入储物袋"
       }
     ],
     "能力": [
@@ -32,12 +42,32 @@
         "value": "散出化作实质的魔气抵挡攻击",
         "docId": "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm",
         "seq": 561
+      },
+      {
+        "value": "符文布下方圆千丈魔力困牢",
+        "docId": "plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer",
+        "seq": 561
+      },
+      {
+        "value": "发出叮咚魔音直攻元神",
+        "docId": "plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer",
+        "seq": 561
+      },
+      {
+        "value": "魔焰幻化单角黑影",
+        "docId": "plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer",
+        "seq": 561
       }
     ],
     "外形": [
       {
         "value": "散发阵阵魔焰的一截手臂护甲",
         "docId": "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm",
+        "seq": 561
+      },
+      {
+        "value": "戴于黑色枯骨手臂之上，魔气纵横",
+        "docId": "plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer",
         "seq": 561
       }
     ],
@@ -46,6 +76,19 @@
         "value": "自黑塔内整体铠甲上脱落",
         "docId": "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm",
         "seq": 561
+      },
+      {
+        "value": "疑与远古战场黑塔中的铠甲主人同源",
+        "docId": "plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer",
+        "seq": 561
+      }
+    ],
+    "禁制": [
+      {
+        "value": "蜘蛛网般的元神之气禁制",
+        "docId": "plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer",
+        "seq": 561,
+        "note": "王林所加封印"
       }
     ]
   },
@@ -74,12 +117,20 @@
       "docId": "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm",
       "dated": false,
       "seq": 561
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer",
+      "dated": false,
+      "seq": 561,
+      "note": "王林所加封印"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm"
+    "plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm",
+    "plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer"
   ],
-  "updatedAt": "2026-08-22T13:44:28.569Z"
+  "updatedAt": "2026-08-22T13:46:45.305Z"
 }

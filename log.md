@@ -150,3 +150,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T12:50:43.079Z** `ingest` plot.xianni-ch598-wending-crystal — 第598章 问鼎之晶：古妖代抗赤霄云芒，王林入洞府问鼎 · kind=plot asOf=2026-08-22 entities=23 relations=30 src=00556-00560.p4.md
 - **2026-08-22T12:53:11.707Z** `ingest` plot.xianni-ch599-wending-early-stage-breakthrough — 第599章 问鼎初期——王林炼化问鼎之晶，闭关十年破境 · kind=plot asOf=2026-08-22 entities=23 relations=29 src=00556-00560.p5.md
 - **2026-08-22T13:44:28.701Z** `ingest` plot.xianni-ch600-shengxian-guo-black-vortex-armor-arm — 第600章 升仙果：问鼎元气被觊觎，黑色漩涡枯骨手臂三度追袭 · kind=plot asOf=2026-08-22 entities=20 relations=28 src=00561-00565.p1.md
+- **2026-08-22T13:46:45.435Z** `ingest` plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer — 第601章 一滴——万枚升仙果凝一滴，逼出护腕魔影 · kind=plot asOf=2026-08-22 entities=20 relations=23 src=00561-00565.p2.md
