@@ -3,12 +3,15 @@
   "type": "technique",
   "name": "万幻天魔道",
   "aliases": [
-    "万幻天魔"
+    "万幻天魔",
+    "天魔道",
+    "Wan Huan Tian Mo Dao"
   ],
   "summary": "千幻无情道之后的更高层次，柳眉立誓修成，届时王林将认不出她。",
   "attributes": {
     "效果": "更高层幻化之道，可改换面目使人不识",
-    "出处": "承接千幻无情道"
+    "出处": "由千幻无情道进一步发展而成",
+    "修炼条件": "极高天资，罕有人达"
   },
   "observations": {
     "效果": [
@@ -23,6 +26,18 @@
         "value": "承接千幻无情道",
         "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
         "seq": 443
+      },
+      {
+        "value": "由千幻无情道进一步发展而成",
+        "docId": "plot.xianni-ch661-meier-luotian-north-domain",
+        "seq": 621
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "极高天资，罕有人达",
+        "docId": "plot.xianni-ch661-meier-luotian-north-domain",
+        "seq": 621
       }
     ]
   },
@@ -36,15 +51,22 @@
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
+      "docId": "plot.xianni-ch661-meier-luotian-north-domain",
       "dated": false,
-      "seq": 443
+      "seq": 621
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.xianni-ch661-meier-luotian-north-domain",
+      "dated": false,
+      "seq": 621
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo"
+    "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
+    "plot.xianni-ch661-meier-luotian-north-domain"
   ],
-  "updatedAt": "2026-08-21T04:01:24.618Z"
+  "updatedAt": "2026-08-22T22:14:17.830Z"
 }

@@ -10,7 +10,9 @@
     "性别": "男",
     "小阶段": "婴变初期",
     "身份": "冉云星孙家族人",
-    "出身地": "冉云星"
+    "出身地": "冉云星",
+    "性格": "崇拜狂热、易惊惧",
+    "标志特征": "羡慕王林脚下的银龙星罗盘"
   },
   "observations": {
     "性别": [
@@ -41,6 +43,20 @@
         "docId": "plot.xianni-ch660-first-entry-luoyun-star-domain",
         "seq": 618
       }
+    ],
+    "性格": [
+      {
+        "value": "崇拜狂热、易惊惧",
+        "docId": "plot.xianni-ch661-meier-luotian-north-domain",
+        "seq": 621
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "羡慕王林脚下的银龙星罗盘",
+        "docId": "plot.xianni-ch661-meier-luotian-north-domain",
+        "seq": 621
+      }
     ]
   },
   "firstSeq": 618,
@@ -69,12 +85,25 @@
       "docId": "plot.xianni-ch660-first-entry-luoyun-star-domain",
       "dated": false,
       "seq": 618
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch661-meier-luotian-north-domain",
+      "dated": false,
+      "seq": 621
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch661-meier-luotian-north-domain",
+      "dated": false,
+      "seq": 621
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch660-first-entry-luoyun-star-domain"
+    "plot.xianni-ch660-first-entry-luoyun-star-domain",
+    "plot.xianni-ch661-meier-luotian-north-domain"
   ],
-  "updatedAt": "2026-08-22T21:12:19.033Z"
+  "updatedAt": "2026-08-22T22:14:17.811Z"
 }
