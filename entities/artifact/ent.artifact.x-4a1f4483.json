@@ -6,8 +6,8 @@
   "summary": "王林所持巨魔族法宝战斧，可化黑芒悬空，本章用于挡下陈涛印诀余波，并劈出十丈斧芒迎击九转漩涡。",
   "attributes": {
     "持有者": "王林",
-    "能力": "化黑芒悬空御使、抵挡神通冲击、劈出十丈斧芒",
-    "来历": "巨魔族"
+    "能力": "化黑芒悬空御使、抵挡神通冲击、劈出十丈斧芒、可自爆化作巨大风暴",
+    "来历": "巨魔族之物"
   },
   "observations": {
     "持有者": [
@@ -32,6 +32,11 @@
         "value": "劈出十丈斧芒",
         "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
         "seq": 472
+      },
+      {
+        "value": "可自爆化作巨大风暴",
+        "docId": "plot.xianni-ch608-blood-soul-pill-self-destruct",
+        "seq": 566
       }
     ],
     "来历": [
@@ -39,6 +44,11 @@
         "value": "巨魔族",
         "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
         "seq": 472
+      },
+      {
+        "value": "巨魔族之物",
+        "docId": "plot.xianni-ch608-blood-soul-pill-self-destruct",
+        "seq": 566
       }
     ]
   },
@@ -58,15 +68,16 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+      "docId": "plot.xianni-ch608-blood-soul-pill-self-destruct",
       "dated": false,
-      "seq": 472
+      "seq": 566
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao"
+    "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+    "plot.xianni-ch608-blood-soul-pill-self-destruct"
   ],
-  "updatedAt": "2026-08-21T08:54:41.285Z"
+  "updatedAt": "2026-08-22T14:55:30.720Z"
 }

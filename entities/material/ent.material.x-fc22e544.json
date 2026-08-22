@@ -4,13 +4,15 @@
   "name": "仙液",
   "aliases": [
     "十滴仙液",
-    "酒壶中的仙液"
+    "酒壶中的仙液",
+    "四滴仙液",
+    "王林体内的仙液"
   ],
   "summary": "酒壶内所装的仙液，入体后仙力如雷霆轰动经脉，需强化过的经脉方可承受。",
   "attributes": {
     "类型": "仙家液体",
-    "用途": "瞬间赋予难以想象的仙力",
-    "稀有度": "极高"
+    "用途": "自爆时随元神燃烧沸腾，倍增威力",
+    "稀有度": "极稀有"
   },
   "observations": {
     "类型": [
@@ -25,6 +27,11 @@
         "value": "瞬间赋予难以想象的仙力",
         "docId": "plot.xianni-ch602-crazed-battle-intent",
         "seq": 561
+      },
+      {
+        "value": "自爆时随元神燃烧沸腾，倍增威力",
+        "docId": "plot.xianni-ch608-blood-soul-pill-self-destruct",
+        "seq": 566
       }
     ],
     "稀有度": [
@@ -32,6 +39,11 @@
         "value": "极高",
         "docId": "plot.xianni-ch602-crazed-battle-intent",
         "seq": 561
+      },
+      {
+        "value": "极稀有",
+        "docId": "plot.xianni-ch608-blood-soul-pill-self-destruct",
+        "seq": 566
       }
     ]
   },
@@ -45,21 +57,22 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch602-crazed-battle-intent",
+      "docId": "plot.xianni-ch608-blood-soul-pill-self-destruct",
       "dated": false,
-      "seq": 561
+      "seq": 566
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.xianni-ch602-crazed-battle-intent",
+      "docId": "plot.xianni-ch608-blood-soul-pill-self-destruct",
       "dated": false,
-      "seq": 561
+      "seq": 566
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch602-crazed-battle-intent"
+    "plot.xianni-ch602-crazed-battle-intent",
+    "plot.xianni-ch608-blood-soul-pill-self-destruct"
   ],
-  "updatedAt": "2026-08-22T13:48:38.546Z"
+  "updatedAt": "2026-08-22T14:55:30.724Z"
 }

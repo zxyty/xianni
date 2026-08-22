@@ -157,3 +157,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T14:43:24.175Z** `ingest` plot.xianni-ch605-yaowei-pusa-old-man-fengyin — 第605章 妖卫：荒原截杀，王林斩干瘦老者与风吟 · kind=plot asOf=2026-08-22 entities=18 relations=25 src=00566-00570.p1.md
 - **2026-08-22T14:50:17.806Z** `ingest` plot.xianni-ch606-qingxing-hupao-yihun-fumeng — 第606章 清醒：虎咆携亿魂寻仇，王林短暂清明 · kind=plot asOf=2026-08-22 entities=30 relations=52 src=00566-00570.p2.md
 - **2026-08-22T14:52:52.923Z** `ingest` plot.xianni-ch607-ninghua-quanhun — 第607章 凝化泉魂：王林以问鼎初期战黑甲老者 · kind=plot asOf=2026-08-22 entities=25 relations=35 src=00566-00570.p3.md
+- **2026-08-22T14:55:30.850Z** `ingest` plot.xianni-ch608-blood-soul-pill-self-destruct — 第608章 血魂丹：凌天候剑气破魔刀、自爆碎魔塔、血魂丹重生 · kind=plot asOf=2026-08-22 entities=22 relations=32 src=00566-00570.p4.md
