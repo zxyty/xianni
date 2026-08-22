@@ -4,14 +4,17 @@
   "name": "铜镜",
   "aliases": [
     "矮个老者的铜镜",
-    "三尺铜镜"
+    "三尺铜镜",
+    "王林的铜镜",
+    "传承伪仙宝铜镜"
   ],
   "summary": "矮个老者的法宝，迎风见长化作三尺，散青光笼罩禁锢目标；被王林灰气一冲，青光崩溃、镜身崩碎。",
   "attributes": {
-    "持有者": "矮个老者",
+    "持有者": "王林",
     "能力": "青光笼罩禁锢",
-    "外形": "三尺铜镜",
-    "五行属性": "青光"
+    "外形": "铜镜",
+    "五行属性": "青光",
+    "品阶": "传承伪仙宝"
   },
   "observations": {
     "持有者": [
@@ -19,6 +22,11 @@
         "value": "矮个老者",
         "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
         "seq": 486
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch664-cuoguo-qingzhuge-sell-sword",
+        "seq": 621
       }
     ],
     "能力": [
@@ -33,6 +41,11 @@
         "value": "三尺铜镜",
         "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
         "seq": 486
+      },
+      {
+        "value": "铜镜",
+        "docId": "plot.xianni-ch664-cuoguo-qingzhuge-sell-sword",
+        "seq": 621
       }
     ],
     "五行属性": [
@@ -41,15 +54,22 @@
         "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
         "seq": 486
       }
+    ],
+    "品阶": [
+      {
+        "value": "传承伪仙宝",
+        "docId": "plot.xianni-ch664-cuoguo-qingzhuge-sell-sword",
+        "seq": 621
+      }
     ]
   },
   "firstSeq": 486,
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+      "docId": "plot.xianni-ch664-cuoguo-qingzhuge-sell-sword",
       "dated": false,
-      "seq": 486
+      "seq": 621
     },
     "能力": {
       "asOf": null,
@@ -59,21 +79,28 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+      "docId": "plot.xianni-ch664-cuoguo-qingzhuge-sell-sword",
       "dated": false,
-      "seq": 486
+      "seq": 621
     },
     "五行属性": {
       "asOf": null,
       "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
       "dated": false,
       "seq": 486
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-ch664-cuoguo-qingzhuge-sell-sword",
+      "dated": false,
+      "seq": 621
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit"
+    "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+    "plot.xianni-ch664-cuoguo-qingzhuge-sell-sword"
   ],
-  "updatedAt": "2026-08-21T10:41:37.790Z"
+  "updatedAt": "2026-08-22T22:26:59.128Z"
 }

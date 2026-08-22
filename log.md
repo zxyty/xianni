@@ -205,3 +205,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T22:14:17.983Z** `ingest` plot.xianni-ch661-meier-luotian-north-domain — 第661章 眉儿：王林化名「许木」入冉云星，幻家大长老携弟子眉儿返罗天 · kind=plot asOf=2026-08-22 entities=28 relations=42 src=00621-00625.p1.md
 - **2026-08-22T22:21:34.879Z** `ingest` plot.xianni-ch662-mou-yu-ranyun-star-hideout — 第662章 谋玉：王林隐匿冉云星，化貌入孙家城池 · kind=plot asOf=2026-08-22 entities=42 relations=68 src=00621-00625.p2.md
 - **2026-08-22T22:24:28.129Z** `ingest` plot.xianni-ch663-sun-lao-baohe-lou — 第663章 孙老：王林炼制伪仙宝与伪传承，宝合楼被拒 · kind=plot asOf=2026-08-22 entities=27 relations=34 src=00621-00625.p3.md
+- **2026-08-22T22:26:59.275Z** `ingest` plot.xianni-ch664-cuoguo-qingzhuge-sell-sword — 第664章 错过：宝合楼老者与王林擦肩，青竹阁三千仙玉售出伪仙宝飞剑 · kind=plot asOf=2026-08-22 entities=22 relations=32 src=00621-00625.p4.md

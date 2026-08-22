@@ -3,13 +3,15 @@
   "type": "spell",
   "name": "大挪移之术",
   "aliases": [
-    "大挪移术"
+    "大挪移术",
+    "瞬移烙印"
   ],
   "summary": "瞬移类法术，身周现银芒后踏步即遁，可连续挪移。",
   "attributes": {
-    "类型": "空间瞬移",
-    "威力": "一步跨越无数里",
-    "消耗": "极耗仙力"
+    "类型": "空间挪移",
+    "威力": "十丈至千里瞬移，随操控者修为递增",
+    "消耗": "极耗仙力",
+    "适用境界": "刻画者需通天修为；施用威力随操控者修为变化"
   },
   "observations": {
     "类型": [
@@ -32,6 +34,11 @@
         "value": "空间瞬移",
         "docId": "plot.xianni-ch609-ancient-yao-blood-shadow",
         "seq": 566
+      },
+      {
+        "value": "空间挪移",
+        "docId": "plot.xianni-ch664-cuoguo-qingzhuge-sell-sword",
+        "seq": 621
       }
     ],
     "威力": [
@@ -49,6 +56,11 @@
         "value": "一步跨越无数里",
         "docId": "plot.xianni-ch609-ancient-yao-blood-shadow",
         "seq": 566
+      },
+      {
+        "value": "十丈至千里瞬移，随操控者修为递增",
+        "docId": "plot.xianni-ch664-cuoguo-qingzhuge-sell-sword",
+        "seq": 621
       }
     ],
     "消耗": [
@@ -62,27 +74,40 @@
         "docId": "plot.xianni-ch609-ancient-yao-blood-shadow",
         "seq": 566
       }
+    ],
+    "适用境界": [
+      {
+        "value": "刻画者需通天修为；施用威力随操控者修为变化",
+        "docId": "plot.xianni-ch664-cuoguo-qingzhuge-sell-sword",
+        "seq": 621
+      }
     ]
   },
   "firstSeq": 467,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch609-ancient-yao-blood-shadow",
+      "docId": "plot.xianni-ch664-cuoguo-qingzhuge-sell-sword",
       "dated": false,
-      "seq": 566
+      "seq": 621
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-ch609-ancient-yao-blood-shadow",
+      "docId": "plot.xianni-ch664-cuoguo-qingzhuge-sell-sword",
       "dated": false,
-      "seq": 566
+      "seq": 621
     },
     "消耗": {
       "asOf": null,
       "docId": "plot.xianni-ch609-ancient-yao-blood-shadow",
       "dated": false,
       "seq": 566
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-ch664-cuoguo-qingzhuge-sell-sword",
+      "dated": false,
+      "seq": 621
     }
   },
   "contested": false,
@@ -94,7 +119,8 @@
     "plot.xianni-ch609-ancient-yao-blood-shadow",
     "plot.chapter-612-second-yuanshen-longtan-cave",
     "plot.xianni-ch615-tanlang-whereabouts",
-    "plot.xianni-ch623-kunxian-net-plea"
+    "plot.xianni-ch623-kunxian-net-plea",
+    "plot.xianni-ch664-cuoguo-qingzhuge-sell-sword"
   ],
-  "updatedAt": "2026-08-22T16:48:31.534Z"
+  "updatedAt": "2026-08-22T22:26:59.133Z"
 }
