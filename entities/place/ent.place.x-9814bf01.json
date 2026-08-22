@@ -8,9 +8,10 @@
   "summary": "炼魂部落正中十里空白地的中心高塔，散发笼罩天地的威严；王林居于其内，本章自塔中走出出手。",
   "attributes": {
     "所属势力": "炼魂部落",
-    "类型": "塔（王林居所）",
-    "方位": "炼魂部落地面正中十里空白地的中心",
-    "守护": "王林"
+    "类型": "高塔/信奉圣物",
+    "方位": "炼魂部落正中心十里空白地中央",
+    "守护": "王林",
+    "上级区域": "炼魂部落"
   },
   "observations": {
     "所属势力": [
@@ -25,6 +26,11 @@
         "value": "塔（王林居所）",
         "docId": "plot.xianni-ch619-give-me-down-refining-soul-tribe-defense",
         "seq": 581
+      },
+      {
+        "value": "高塔/信奉圣物",
+        "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
+        "seq": 586
       }
     ],
     "方位": [
@@ -32,6 +38,11 @@
         "value": "炼魂部落地面正中十里空白地的中心",
         "docId": "plot.xianni-ch619-give-me-down-refining-soul-tribe-defense",
         "seq": 581
+      },
+      {
+        "value": "炼魂部落正中心十里空白地中央",
+        "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
+        "seq": 586
       }
     ],
     "守护": [
@@ -39,6 +50,13 @@
         "value": "王林",
         "docId": "plot.xianni-ch619-give-me-down-refining-soul-tribe-defense",
         "seq": 581
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "炼魂部落",
+        "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
+        "seq": 586
       }
     ]
   },
@@ -52,27 +70,34 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch619-give-me-down-refining-soul-tribe-defense",
+      "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
       "dated": false,
-      "seq": 581
+      "seq": 586
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch619-give-me-down-refining-soul-tribe-defense",
+      "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
       "dated": false,
-      "seq": 581
+      "seq": 586
     },
     "守护": {
       "asOf": null,
       "docId": "plot.xianni-ch619-give-me-down-refining-soul-tribe-defense",
       "dated": false,
       "seq": 581
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
+      "dated": false,
+      "seq": 586
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch619-give-me-down-refining-soul-tribe-defense"
+    "plot.xianni-ch619-give-me-down-refining-soul-tribe-defense",
+    "plot.xianni-ch627-chuguan-lianhun-tribe-siege"
   ],
-  "updatedAt": "2026-08-22T16:38:49.596Z"
+  "updatedAt": "2026-08-22T17:12:06.905Z"
 }

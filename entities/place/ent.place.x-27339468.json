@@ -1,53 +1,48 @@
 {
-  "id": "ent.place.x-d08189f6",
+  "id": "ent.place.x-27339468",
   "type": "place",
-  "name": "帝部",
+  "name": "火妖郡妖谷",
   "aliases": [
-    "帝部大殿",
-    "火妖郡帝部"
+    "妖谷"
   ],
-  "summary": "天妖城内依然耸立的重要建筑／机构。",
+  "summary": "火妖郡的妖谷，与他郡不同，位于都城城内深处，散出浓浓妖气笼罩燕京。",
   "attributes": {
-    "类型": "核心禁地",
-    "上级区域": "燕京",
-    "守护": "古妖神通封印"
+    "类型": "妖谷",
+    "方位": "燕京城内深处",
+    "上级区域": "燕京"
   },
   "observations": {
     "类型": [
       {
-        "value": "建筑／机构",
-        "docId": "plot.xianni-ch599-wending-early-stage-breakthrough",
-        "seq": 556
-      },
+        "value": "妖谷",
+        "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
+        "seq": 586
+      }
+    ],
+    "方位": [
       {
-        "value": "核心禁地",
+        "value": "燕京城内深处",
         "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
         "seq": 586
       }
     ],
     "上级区域": [
       {
-        "value": "天妖城",
-        "docId": "plot.xianni-ch599-wending-early-stage-breakthrough",
-        "seq": 556
-      },
-      {
         "value": "燕京",
-        "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
-        "seq": 586
-      }
-    ],
-    "守护": [
-      {
-        "value": "古妖神通封印",
         "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
         "seq": 586
       }
     ]
   },
-  "firstSeq": 556,
+  "firstSeq": 586,
   "attrProvenance": {
     "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
+      "dated": false,
+      "seq": 586
+    },
+    "方位": {
       "asOf": null,
       "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
       "dated": false,
@@ -58,18 +53,11 @@
       "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
       "dated": false,
       "seq": 586
-    },
-    "守护": {
-      "asOf": null,
-      "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
-      "dated": false,
-      "seq": 586
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch599-wending-early-stage-breakthrough",
     "plot.xianni-ch627-chuguan-lianhun-tribe-siege"
   ],
   "updatedAt": "2026-08-22T17:12:06.909Z"

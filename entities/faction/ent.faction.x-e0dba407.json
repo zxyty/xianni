@@ -15,17 +15,18 @@
     "新炼魂部落",
     "炼魂部落族人",
     "炼魂部落宝塔所在",
-    "炼魂部落族地"
+    "炼魂部落族地",
+    "蛮荒炼魂部落"
   ],
   "summary": "王林在妖灵之地创立并命名的部落，全族修炼炼魂术，以黑雾祭养魂魄为标志，气象更似新生的修真门派。",
   "attributes": {
     "掌门": "王林",
-    "据点": "妖灵之地内方圆四十里的禁制大阵范围（中心为山谷）、妖灵之地山谷（后扩至方圆三百里）、妖灵之地的部落山谷、炼魂部落所在地、炼魂山谷、天妖郡天妖蛮荒之地、远古战场高塔部落、妖灵之地远古战场（中心十里空白界）、被数百里黑雾笼罩的部落，中央十里空白地立有一座高塔、宝塔",
-    "所属界面": "妖灵之地",
+    "据点": "妖灵之地内方圆四十里的禁制大阵范围（中心为山谷）、妖灵之地山谷（后扩至方圆三百里）、妖灵之地的部落山谷、炼魂部落所在地、炼魂山谷、天妖郡天妖蛮荒之地、远古战场高塔部落、妖灵之地远古战场（中心十里空白界）、被数百里黑雾笼罩的部落，中央十里空白地立有一座高塔、宝塔、天妖郡内部落",
+    "所属界面": "天妖郡",
     "理念": "全族修行炼魂术，凭三个方法换取下一阶段口诀、停止对外进攻、全力修行、以魂幡驭魂修行、疑与炼魂术传承相关、广传炼魂术、嫡系密传抽魄术、以杀养杀、吞并外族壮大、壮大炼魂术，终有一日破茧而出震撼九郡、借战乱扩张壮大",
     "阵营": "王林麾下",
-    "镇派之宝": "护族黑雾（内含吞噬魂魄）",
-    "等级": "天妖蛮荒之地四大部落之一"
+    "镇派之宝": "尊魂幡（黑雾）",
+    "等级": "小部落"
   },
   "observations": {
     "掌门": [
@@ -86,6 +87,11 @@
         "value": "宝塔",
         "docId": "plot.xianni-ch624-kunxianwang-backfires-captures-old-man",
         "seq": 586
+      },
+      {
+        "value": "天妖郡内部落",
+        "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
+        "seq": 586
       }
     ],
     "所属界面": [
@@ -93,6 +99,11 @@
         "value": "妖灵之地",
         "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
         "seq": 514
+      },
+      {
+        "value": "天妖郡",
+        "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
+        "seq": 586
       }
     ],
     "理念": [
@@ -162,6 +173,11 @@
         "docId": "plot.xianni-ch619-give-me-down-refining-soul-tribe-defense",
         "seq": 581,
         "note": "第619章表现"
+      },
+      {
+        "value": "尊魂幡（黑雾）",
+        "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
+        "seq": 586
       }
     ],
     "等级": [
@@ -169,6 +185,11 @@
         "value": "天妖蛮荒之地四大部落之一",
         "docId": "plot.xianni-ch615-tanlang-whereabouts",
         "seq": 576
+      },
+      {
+        "value": "小部落",
+        "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
+        "seq": 586
       }
     ]
   },
@@ -189,9 +210,9 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
+      "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
       "dated": false,
-      "seq": 514
+      "seq": 586
     },
     "理念": {
       "asOf": null,
@@ -207,16 +228,15 @@
     },
     "镇派之宝": {
       "asOf": null,
-      "docId": "plot.xianni-ch619-give-me-down-refining-soul-tribe-defense",
+      "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
       "dated": false,
-      "seq": 581,
-      "note": "第619章表现"
+      "seq": 586
     },
     "等级": {
       "asOf": null,
-      "docId": "plot.xianni-ch615-tanlang-whereabouts",
+      "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
       "dated": false,
-      "seq": 576
+      "seq": 586
     }
   },
   "contested": false,
@@ -236,7 +256,8 @@
     "plot.xianni-ch621-yi-dai-zong-shi-wang-lin-po-zhang-qi-ru-xiu-shi-lian-meng",
     "plot.xianni-ch624-kunxianwang-backfires-captures-old-man",
     "plot.xianni-ch625-qingshuang-immortal-brush-three-stroke-rune",
-    "plot.xianni-ch626-white-robed-corpse-identity-qingshuang"
+    "plot.xianni-ch626-white-robed-corpse-identity-qingshuang",
+    "plot.xianni-ch627-chuguan-lianhun-tribe-siege"
   ],
-  "updatedAt": "2026-08-22T17:05:04.809Z"
+  "updatedAt": "2026-08-22T17:12:06.904Z"
 }

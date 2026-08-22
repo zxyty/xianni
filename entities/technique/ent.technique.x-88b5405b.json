@@ -3,20 +3,29 @@
   "type": "technique",
   "name": "定身术",
   "aliases": [
-    "下品仙术定身术"
+    "下品仙术定身术",
+    "仙术定身术",
+    "一字定音",
+    "仙术·定"
   ],
   "summary": "下品仙术，得自一处奇异的远古星球，原本残缺，经青霖整理复原了定身神通；推测原属某个庞大组合神通的一部分。",
   "attributes": {
-    "品阶": "下品仙术",
-    "出处": "远古星球残卷，青霖整理复原、新得玉简",
+    "品阶": "下品仙术、仙术",
+    "出处": "远古星球残卷，青霖整理复原、新得玉简、仙术",
     "效果": "定身",
-    "修炼条件": "残缺不全，仅复原定身部分"
+    "修炼条件": "残缺不全，仅复原定身部分、需对天道的理解，非仙力多少",
+    "适用境界": "远超修士掌握范围"
   },
   "observations": {
     "品阶": [
       {
         "value": "下品仙术",
         "docId": "plot.xianni-ch626-white-robed-corpse-identity-qingshuang",
+        "seq": 586
+      },
+      {
+        "value": "仙术",
+        "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
         "seq": 586
       }
     ],
@@ -29,6 +38,11 @@
       {
         "value": "新得玉简",
         "docId": "plot.xianni-ch626-white-robed-corpse-identity-qingshuang",
+        "seq": 586
+      },
+      {
+        "value": "仙术",
+        "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
         "seq": 586
       }
     ],
@@ -45,6 +59,18 @@
         "docId": "plot.xianni-ch626-white-robed-corpse-identity-qingshuang",
         "seq": 586,
         "note": "完整组合神通无法复原"
+      },
+      {
+        "value": "需对天道的理解，非仙力多少",
+        "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
+        "seq": 586
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "远超修士掌握范围",
+        "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
+        "seq": 586
       }
     ]
   },
@@ -74,12 +100,19 @@
       "dated": false,
       "seq": 586,
       "note": "完整组合神通无法复原"
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-ch627-chuguan-lianhun-tribe-siege",
+      "dated": false,
+      "seq": 586
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch626-white-robed-corpse-identity-qingshuang"
+    "plot.xianni-ch626-white-robed-corpse-identity-qingshuang",
+    "plot.xianni-ch627-chuguan-lianhun-tribe-siege"
   ],
-  "updatedAt": "2026-08-22T17:05:04.793Z"
+  "updatedAt": "2026-08-22T17:12:06.900Z"
 }
