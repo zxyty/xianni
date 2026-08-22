@@ -9,9 +9,10 @@
   "summary": "幻家先祖在仙界崩溃前冥想中与域外天魔纠缠、结合自身感悟顿化而出的本源意境神通，天魔道与无相道皆由其分离而来。",
   "attributes": {
     "出处": "幻家仙人祖先所留",
-    "效果": "幻家真正的神通意境，仙界崩溃后赖以立足",
-    "修炼条件": "需融合天魔道与无相道两道分离意境（幻无情图以吞噬柳眉意境速成）",
-    "品阶": "意境神通（仙人所留）"
+    "效果": "幻家真正的神通意境，仙界崩溃后赖以立足、幻化无尽虚幻之影，每道气息不弱于阴阳虚实境界、化身为世间逍遥自在的无相天魔",
+    "修炼条件": "需融合天魔道与无相道两道分离意境（幻无情图以吞噬柳眉意境速成）、需万幻天魔道意境大成方可真正化身",
+    "品阶": "意境神通（仙人所留）",
+    "外显异象": "肉身枯萎化骷髅、骨骼融化消散、元神融灰气化虚无"
   },
   "observations": {
     "出处": [
@@ -26,6 +27,16 @@
         "value": "幻家真正的神通意境，仙界崩溃后赖以立足",
         "docId": "plot.xianni-687-tunshi-star-soul-extraction",
         "seq": 646
+      },
+      {
+        "value": "幻化无尽虚幻之影，每道气息不弱于阴阳虚实境界",
+        "docId": "plot.xianni-ch688-dust-to-dust-liumei-death",
+        "seq": 646
+      },
+      {
+        "value": "化身为世间逍遥自在的无相天魔",
+        "docId": "plot.xianni-ch688-dust-to-dust-liumei-death",
+        "seq": 646
       }
     ],
     "修炼条件": [
@@ -33,12 +44,24 @@
         "value": "需融合天魔道与无相道两道分离意境（幻无情图以吞噬柳眉意境速成）",
         "docId": "plot.xianni-687-tunshi-star-soul-extraction",
         "seq": 646
+      },
+      {
+        "value": "需万幻天魔道意境大成方可真正化身",
+        "docId": "plot.xianni-ch688-dust-to-dust-liumei-death",
+        "seq": 646
       }
     ],
     "品阶": [
       {
         "value": "意境神通（仙人所留）",
         "docId": "plot.xianni-687-tunshi-star-soul-extraction",
+        "seq": 646
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "肉身枯萎化骷髅、骨骼融化消散、元神融灰气化虚无",
+        "docId": "plot.xianni-ch688-dust-to-dust-liumei-death",
         "seq": 646
       }
     ]
@@ -68,12 +91,19 @@
       "docId": "plot.xianni-687-tunshi-star-soul-extraction",
       "dated": false,
       "seq": 646
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.xianni-ch688-dust-to-dust-liumei-death",
+      "dated": false,
+      "seq": 646
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-687-tunshi-star-soul-extraction"
+    "plot.xianni-687-tunshi-star-soul-extraction",
+    "plot.xianni-ch688-dust-to-dust-liumei-death"
   ],
-  "updatedAt": "2026-08-22T23:50:32.248Z"
+  "updatedAt": "2026-08-22T23:52:48.922Z"
 }

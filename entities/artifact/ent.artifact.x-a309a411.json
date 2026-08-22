@@ -3,19 +3,26 @@
   "type": "artifact",
   "name": "仙力光幕",
   "aliases": [
-    "幻家仙力光幕"
+    "幻家仙力光幕",
+    "幻家仙人留下的护佑神通"
   ],
   "summary": "护住幻家的仙力屏障，连受散魔两击后裂纹密布、濒临崩溃。",
   "attributes": {
-    "能力": "抵御外敌攻击的防护光幕",
+    "能力": "抵御外敌攻击的防护光幕、护佑幻家后人",
     "持有者": "幻家",
-    "禁制": "出现大量裂纹、濒临崩溃"
+    "禁制": "出现大量裂纹、濒临崩溃",
+    "来历": "幻家仙人所留"
   },
   "observations": {
     "能力": [
       {
         "value": "抵御外敌攻击的防护光幕",
         "docId": "plot.xianni-687-tunshi-star-soul-extraction",
+        "seq": 646
+      },
+      {
+        "value": "护佑幻家后人",
+        "docId": "plot.xianni-ch688-dust-to-dust-liumei-death",
         "seq": 646
       }
     ],
@@ -32,6 +39,13 @@
         "docId": "plot.xianni-687-tunshi-star-soul-extraction",
         "seq": 646,
         "note": "本片段受散魔两击后"
+      }
+    ],
+    "来历": [
+      {
+        "value": "幻家仙人所留",
+        "docId": "plot.xianni-ch688-dust-to-dust-liumei-death",
+        "seq": 646
       }
     ]
   },
@@ -55,12 +69,19 @@
       "dated": false,
       "seq": 646,
       "note": "本片段受散魔两击后"
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch688-dust-to-dust-liumei-death",
+      "dated": false,
+      "seq": 646
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-687-tunshi-star-soul-extraction"
+    "plot.xianni-687-tunshi-star-soul-extraction",
+    "plot.xianni-ch688-dust-to-dust-liumei-death"
   ],
-  "updatedAt": "2026-08-22T23:50:32.252Z"
+  "updatedAt": "2026-08-22T23:52:48.927Z"
 }

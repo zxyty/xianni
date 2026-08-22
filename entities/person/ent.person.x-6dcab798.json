@@ -10,7 +10,10 @@
   "attributes": {
     "身份": "幻家老祖",
     "性格": "吝啬、阴沉、专断、心机深沉、阴沉、算计、不到万不得已不亲自出手",
-    "阵营": "幻家"
+    "阵营": "幻家",
+    "标志特征": "目透灰芒、身化烟丝虚无缥缈",
+    "存殁": "死亡",
+    "死因": "施展未大成的无相天魔道后被散魔一口吞噬"
   },
   "observations": {
     "身份": [
@@ -43,6 +46,27 @@
         "docId": "plot.xianni-ch683-jing-tui-qian-kui-zi",
         "seq": 641
       }
+    ],
+    "标志特征": [
+      {
+        "value": "目透灰芒、身化烟丝虚无缥缈",
+        "docId": "plot.xianni-ch688-dust-to-dust-liumei-death",
+        "seq": 646
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch688-dust-to-dust-liumei-death",
+        "seq": 646
+      }
+    ],
+    "死因": [
+      {
+        "value": "施展未大成的无相天魔道后被散魔一口吞噬",
+        "docId": "plot.xianni-ch688-dust-to-dust-liumei-death",
+        "seq": 646
+      }
     ]
   },
   "firstSeq": 641,
@@ -64,6 +88,24 @@
       "docId": "plot.xianni-ch683-jing-tui-qian-kui-zi",
       "dated": false,
       "seq": 641
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch688-dust-to-dust-liumei-death",
+      "dated": false,
+      "seq": 646
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch688-dust-to-dust-liumei-death",
+      "dated": false,
+      "seq": 646
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch688-dust-to-dust-liumei-death",
+      "dated": false,
+      "seq": 646
     }
   },
   "contested": false,
@@ -71,7 +113,8 @@
   "docs": [
     "plot.xianni-ch683-jing-tui-qian-kui-zi",
     "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation",
-    "plot.xianni-ch685-zhan-luo-jue-po-huan-jia-da-zhen"
+    "plot.xianni-ch685-zhan-luo-jue-po-huan-jia-da-zhen",
+    "plot.xianni-ch688-dust-to-dust-liumei-death"
   ],
-  "updatedAt": "2026-08-22T23:41:19.306Z"
+  "updatedAt": "2026-08-22T23:52:48.914Z"
 }
