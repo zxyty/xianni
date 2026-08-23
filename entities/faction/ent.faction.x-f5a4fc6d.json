@@ -5,13 +5,15 @@
   "aliases": [
     "四大传承至仙界的修真家族",
     "四大修真家族",
-    "四大家族"
+    "四大家族",
+    "雷之仙界四大家族"
   ],
   "summary": "罗天星域传承至仙界的四大修真家族，无数年前联手封印雷之仙界碎片大陆，长期把持藏诀阁作为专属之地。",
   "attributes": {
     "据点": "碎片大陆·藏品阁",
     "理念": "外人无资格进入藏品阁，除非窥涅修士",
-    "所属界面": "雷之仙界"
+    "所属界面": "雷之仙界",
+    "镇派之宝": "藏品阁"
   },
   "observations": {
     "据点": [
@@ -45,6 +47,13 @@
         "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
         "seq": 736
       }
+    ],
+    "镇派之宝": [
+      {
+        "value": "藏品阁",
+        "docId": "plot.xianni-740-742-immortal-emperor-technique-huffeng",
+        "seq": 740
+      }
     ]
   },
   "firstSeq": 731,
@@ -67,13 +76,20 @@
       "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
       "dated": false,
       "seq": 736
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.xianni-740-742-immortal-emperor-technique-huffeng",
+      "dated": false,
+      "seq": 740
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
-    "plot.xianni-ch779-jijing-reappears-vortex-seal-broken"
+    "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+    "plot.xianni-740-742-immortal-emperor-technique-huffeng"
   ],
-  "updatedAt": "2026-08-23T08:06:47.729Z"
+  "updatedAt": "2026-08-23T08:20:03.271Z"
 }

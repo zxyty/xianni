@@ -276,3 +276,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T07:44:31.197Z** `ingest` plot.xianni-ch777-wo-jiao-xumu — 第777章 我叫许木！——王林一眼十步震杀阴虚修士，唐言枫忌惮止步 · kind=plot asOf=2026-08-23 entities=16 relations=26 src=00731-00735.p4.md
 - **2026-08-23T07:47:07.017Z** `ingest` plot.xianni-ch778-jubian-zhixu-fuwen-tongdao-liaoshang-dazhen — 第778章 剧变之序：符文通道尽头的疗伤大阵与仙人之问 · kind=plot asOf=2026-08-23 entities=23 relations=34 src=00731-00735.p5.md
 - **2026-08-23T08:06:47.951Z** `ingest` plot.xianni-ch779-jijing-reappears-vortex-seal-broken — 第779章 极境再现：漩涡眼珠诱人破封，王林体内留下一丝极境 · kind=plot asOf=2026-08-23 entities=86 relations=153 src=00736-00739.md
+- **2026-08-23T08:20:03.481Z** `ingest` plot.xianni-740-742-immortal-emperor-technique-huffeng — 仙逆 第740-742章：藏品阁第九层九道长虹，王林入画悟得仙帝之术「呼风」 · kind=plot asOf=2026-08-23 entities=52 relations=92 src=00740-00742.md

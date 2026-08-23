@@ -10,17 +10,22 @@
     "四角利刺阁楼",
     "Cangpin Pavilion",
     "藏品阁楼",
-    "碎片大地藏品阁"
+    "碎片大地藏品阁",
+    "藏品仙阁",
+    "收藏品阁",
+    "藏品阁第九层",
+    "四角形状的藏品阁"
   ],
   "summary": "姚家老者记忆中的宝地，被四大家族联手封印，非四大家族之人无法入内；王林认定其中必有仙术。",
   "attributes": {
     "所属界面": "雷之仙界、罗天星域",
-    "类型": "藏宝阁/禁地、封印秘藏、藏宝阁楼、秘境/传承之地",
+    "类型": "藏宝阁/禁地、封印秘藏、藏宝阁楼、秘境/传承之地、仙缘秘境/藏宝楼阁",
     "守护": "四大家族联手布下的封印、禁制封印、四名阳实境界修士、雾气人影（测修为者）",
-    "危险度": "高、极高",
-    "特产": "仙术",
+    "危险度": "高、极高、极高（出阁即遭三老围杀）",
+    "特产": "仙术、仙玉（第九层内为虚幻不可触）、各层仙术传承",
     "方位": "碎片群中心、碎片大陆中心、碎片大地半空",
-    "上级区域": "碎片大陆"
+    "上级区域": "碎片大陆",
+    "规模": "九层"
   },
   "observations": {
     "所属界面": [
@@ -55,6 +60,11 @@
         "value": "秘境/传承之地",
         "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
         "seq": 736
+      },
+      {
+        "value": "仙缘秘境/藏宝楼阁",
+        "docId": "plot.xianni-740-742-immortal-emperor-technique-huffeng",
+        "seq": 740
       }
     ],
     "守护": [
@@ -89,6 +99,11 @@
         "value": "极高",
         "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
         "seq": 736
+      },
+      {
+        "value": "极高（出阁即遭三老围杀）",
+        "docId": "plot.xianni-740-742-immortal-emperor-technique-huffeng",
+        "seq": 740
       }
     ],
     "特产": [
@@ -96,6 +111,16 @@
         "value": "仙术",
         "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
         "seq": 736
+      },
+      {
+        "value": "仙玉（第九层内为虚幻不可触）",
+        "docId": "plot.xianni-740-742-immortal-emperor-technique-huffeng",
+        "seq": 740
+      },
+      {
+        "value": "各层仙术传承",
+        "docId": "plot.xianni-740-742-immortal-emperor-technique-huffeng",
+        "seq": 740
       }
     ],
     "方位": [
@@ -120,6 +145,13 @@
         "value": "碎片大陆",
         "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
         "seq": 736
+      }
+    ],
+    "规模": [
+      {
+        "value": "九层",
+        "docId": "plot.xianni-740-742-immortal-emperor-technique-huffeng",
+        "seq": 740
       }
     ]
   },
@@ -166,12 +198,19 @@
       "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
       "dated": false,
       "seq": 736
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-740-742-immortal-emperor-technique-huffeng",
+      "dated": false,
+      "seq": 740
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch779-jijing-reappears-vortex-seal-broken"
+    "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+    "plot.xianni-740-742-immortal-emperor-technique-huffeng"
   ],
-  "updatedAt": "2026-08-23T08:06:47.744Z"
+  "updatedAt": "2026-08-23T08:20:03.257Z"
 }

@@ -1,52 +1,42 @@
 {
-  "id": "ent.person.x-33761c62",
+  "id": "ent.person.x-1d07d2b3",
   "type": "person",
-  "name": "陈姓老者",
+  "name": "宋姓修士",
   "aliases": [
-    "陈家老者",
-    "陈道友",
-    "陈姓修士"
+    "宋某"
   ],
-  "summary": "代表陈家邀请王林（许木）出任外姓长老，并提出掩盖姚道友之死、赔偿吕道友肉身、给宋道友薄利的交易。",
+  "summary": "藏品阁外看守三修之一，最先察觉光芒「不对劲」，推断许木修为为阳实巅峰半步窥涅；偷袭时抛出阴阳图并化出长丝发虚影散绿雾。",
   "attributes": {
-    "身份": "陈家修士，藏品阁外看守者之一",
-    "外貌": "老者",
-    "性格": "平淡沉稳，终为贪求第九层仙术而起杀机",
-    "本命法宝": "蓝光银针（配仙气缭绕的巨大虚影）",
+    "身份": "宋家修士，藏品阁外看守者之一",
+    "性格": "眼力最毒，心思深沉",
+    "本命法宝": "阴阳图、丝发虚影",
     "存殁": "死亡",
-    "死因": "被王林施展的第九层仙术「呼风」黑风吹灭元神",
-    "结局": "第784章身死"
+    "死因": "元神被王林捏碎吞噬",
+    "结局": "第784章元神被吞"
   },
   "observations": {
     "身份": [
       {
-        "value": "陈家老者",
-        "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
-        "seq": 736
-      },
-      {
-        "value": "陈家修士，藏品阁外看守者之一",
+        "value": "宋家修士，藏品阁外看守者之一",
         "docId": "plot.xianni-740-742-immortal-emperor-technique-huffeng",
         "seq": 740
       }
     ],
-    "外貌": [
-      {
-        "value": "老者",
-        "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
-        "seq": 736
-      }
-    ],
     "性格": [
       {
-        "value": "平淡沉稳，终为贪求第九层仙术而起杀机",
+        "value": "眼力最毒，心思深沉",
         "docId": "plot.xianni-740-742-immortal-emperor-technique-huffeng",
         "seq": 740
       }
     ],
     "本命法宝": [
       {
-        "value": "蓝光银针（配仙气缭绕的巨大虚影）",
+        "value": "阴阳图",
+        "docId": "plot.xianni-740-742-immortal-emperor-technique-huffeng",
+        "seq": 740
+      },
+      {
+        "value": "丝发虚影",
         "docId": "plot.xianni-740-742-immortal-emperor-technique-huffeng",
         "seq": 740
       }
@@ -60,32 +50,26 @@
     ],
     "死因": [
       {
-        "value": "被王林施展的第九层仙术「呼风」黑风吹灭元神",
+        "value": "元神被王林捏碎吞噬",
         "docId": "plot.xianni-740-742-immortal-emperor-technique-huffeng",
         "seq": 740
       }
     ],
     "结局": [
       {
-        "value": "第784章身死",
+        "value": "第784章元神被吞",
         "docId": "plot.xianni-740-742-immortal-emperor-technique-huffeng",
         "seq": 740
       }
     ]
   },
-  "firstSeq": 736,
+  "firstSeq": 740,
   "attrProvenance": {
     "身份": {
       "asOf": null,
       "docId": "plot.xianni-740-742-immortal-emperor-technique-huffeng",
       "dated": false,
       "seq": 740
-    },
-    "外貌": {
-      "asOf": null,
-      "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
-      "dated": false,
-      "seq": 736
     },
     "性格": {
       "asOf": null,
@@ -121,8 +105,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
     "plot.xianni-740-742-immortal-emperor-technique-huffeng"
   ],
-  "updatedAt": "2026-08-23T08:20:03.250Z"
+  "updatedAt": "2026-08-23T08:20:03.251Z"
 }
