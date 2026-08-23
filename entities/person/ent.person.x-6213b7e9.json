@@ -11,8 +11,8 @@
     "性别": "男",
     "外貌": "黑衣，战中面色苍白无血色",
     "称号": "阴虚下第一人、窥涅下第一人",
-    "性格": "战意极浓、狂放而务实，认输干脆",
-    "存殁": "存活"
+    "性格": "战意极浓、狂放而务实，认输干脆、纠缠不休、健谈，见宝起意",
+    "存殁": "存活、在世"
   },
   "observations": {
     "性别": [
@@ -46,12 +46,22 @@
         "value": "战意极浓、狂放而务实，认输干脆",
         "docId": "plot.xianni-ch863-nangong-han-surrender",
         "seq": 805
+      },
+      {
+        "value": "纠缠不休、健谈，见宝起意",
+        "docId": "plot.xianni-ch864-last-one-fengxian-teleport-to-lei-xian-dian",
+        "seq": 805
       }
     ],
     "存殁": [
       {
         "value": "存活",
         "docId": "plot.xianni-ch863-nangong-han-surrender",
+        "seq": 805
+      },
+      {
+        "value": "在世",
+        "docId": "plot.xianni-ch864-last-one-fengxian-teleport-to-lei-xian-dian",
         "seq": 805
       }
     ]
@@ -92,7 +102,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch863-nangong-han-surrender"
+    "plot.xianni-ch863-nangong-han-surrender",
+    "plot.xianni-ch864-last-one-fengxian-teleport-to-lei-xian-dian"
   ],
-  "updatedAt": "2026-08-23T14:37:59.920Z"
+  "updatedAt": "2026-08-23T14:40:21.167Z"
 }

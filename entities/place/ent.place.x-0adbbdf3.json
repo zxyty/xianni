@@ -5,16 +5,18 @@
   "aliases": [
     "罗天南域地炎星",
     "地炎星球",
-    "Di Yan Star"
+    "Di Yan Star",
+    "地炎星修真家族所在"
   ],
   "summary": "罗天南域三大主星之一，本次南域封号之争的举办地；星外千里为战场光幕，十万里外由修士环形封锁。",
   "attributes": {
-    "类型": "主星/修真星球、星球·资格争夺战场、修真星球、星辰",
+    "类型": "主星/修真星球、星球·资格争夺战场、修真星球、星辰、修真星",
     "上级区域": "罗天南域",
     "方位": "罗天星域南域",
     "守护": "十万里外每隔千里一名修士的环形封锁",
     "规模": "外围十万里、三万里、千里光幕分层",
-    "所属势力": "罗天南域"
+    "所属势力": "罗天南域",
+    "所属界面": "罗天星域"
   },
   "observations": {
     "类型": [
@@ -36,6 +38,11 @@
       {
         "value": "星辰",
         "docId": "plot.xianni-ch863-nangong-han-surrender",
+        "seq": 805
+      },
+      {
+        "value": "修真星",
+        "docId": "plot.xianni-ch864-last-one-fengxian-teleport-to-lei-xian-dian",
         "seq": 805
       }
     ],
@@ -78,6 +85,13 @@
         "docId": "plot.xianni-ch863-nangong-han-surrender",
         "seq": 805
       }
+    ],
+    "所属界面": [
+      {
+        "value": "罗天星域",
+        "docId": "plot.xianni-ch864-last-one-fengxian-teleport-to-lei-xian-dian",
+        "seq": 805
+      }
     ]
   },
   "firstSeq": 800,
@@ -117,6 +131,12 @@
       "docId": "plot.xianni-ch863-nangong-han-surrender",
       "dated": false,
       "seq": 805
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch864-last-one-fengxian-teleport-to-lei-xian-dian",
+      "dated": false,
+      "seq": 805
     }
   },
   "contested": false,
@@ -125,7 +145,8 @@
     "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives",
     "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou",
     "plot.xianni-ch861-baoen-luotian-nanyu-first-seat",
-    "plot.xianni-ch863-nangong-han-surrender"
+    "plot.xianni-ch863-nangong-han-surrender",
+    "plot.xianni-ch864-last-one-fengxian-teleport-to-lei-xian-dian"
   ],
-  "updatedAt": "2026-08-23T14:37:59.930Z"
+  "updatedAt": "2026-08-23T14:40:21.177Z"
 }
