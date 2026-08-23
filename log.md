@@ -317,3 +317,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T14:07:56.785Z** `ingest` plot.xianni-ch851-kui-nie-breakthrough-vs-yao-yun — 第851章 窥涅：王林因果道境入体破入窥涅，铜镜困杀姚云现青面角影 · kind=plot asOf=2026-08-23 entities=28 relations=45 src=00795-00799.p1.md
 - **2026-08-23T14:10:02.333Z** `ingest` plot.xianni-ch852-blood-god-child-appears — 第852章 血神子！——王林借古神大鼎换位灭古妖，血神子现身夺妖文 · kind=plot asOf=2026-08-23 entities=19 relations=27 src=00795-00799.p2.md
 - **2026-08-23T14:12:39.101Z** `ingest` plot.xianni-ch853-xue-yan-blood-swallow — 第853章 血燕：血神子言出法随强索望月之物，王林祭仙界山石与射神车力抗 · kind=plot asOf=2026-08-23 entities=22 relations=29 src=00795-00799.p3.md
+- **2026-08-23T14:14:37.402Z** `ingest` plot.xianni-ch854-you-have-no-right-qingshui-arrives — 仙逆 第854章 你，没有资格——清水仙君现身护王林 · kind=plot asOf=2026-08-23 entities=21 relations=28 src=00795-00799.p4.md

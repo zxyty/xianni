@@ -3,13 +3,15 @@
   "type": "person",
   "name": "姚家先祖",
   "aliases": [
-    "姚家仙人先祖"
+    "姚家仙人先祖",
+    "姚家的先祖"
   ],
   "summary": "姚家自称传承自仙界的仙人先祖，不修意境而强驱天地之力，随仙界崩溃而灭亡；其「荣耀」被姚长东奉为道境根基，被王林论证为天道因果下的一场空。",
   "attributes": {
     "身份": "仙人",
     "存殁": "死亡",
-    "死因": "不修道境、强驱天地之力，在天道因果下随仙界崩溃而亡"
+    "死因": "不修道境、强驱天地之力，在天道因果下随仙界崩溃而亡",
+    "阵营": "姚家"
   },
   "observations": {
     "身份": [
@@ -32,6 +34,13 @@
         "docId": "plot.xianni-ch823-yao-changkong-part3-karma-daoist-realm-duel",
         "seq": 770
       }
+    ],
+    "阵营": [
+      {
+        "value": "姚家",
+        "docId": "plot.xianni-ch854-you-have-no-right-qingshui-arrives",
+        "seq": 795
+      }
     ]
   },
   "firstSeq": 770,
@@ -53,12 +62,19 @@
       "docId": "plot.xianni-ch823-yao-changkong-part3-karma-daoist-realm-duel",
       "dated": false,
       "seq": 770
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch854-you-have-no-right-qingshui-arrives",
+      "dated": false,
+      "seq": 795
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch823-yao-changkong-part3-karma-daoist-realm-duel"
+    "plot.xianni-ch823-yao-changkong-part3-karma-daoist-realm-duel",
+    "plot.xianni-ch854-you-have-no-right-qingshui-arrives"
   ],
-  "updatedAt": "2026-08-23T12:20:33.763Z"
+  "updatedAt": "2026-08-23T14:14:37.204Z"
 }
