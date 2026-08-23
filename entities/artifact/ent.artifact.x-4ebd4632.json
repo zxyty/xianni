@@ -7,14 +7,15 @@
     "上品灵石雕像",
     "黑衣男子雕像",
     "云天宗雕像",
-    "雕像之人像"
+    "雕像之人像",
+    "小娃王林雕像"
   ],
   "summary": "云天宗以上品灵石、倾全国之力铸造的巨大雕像，形似黑衣掐诀沉思的王林，散出可怕威严，兼作云天宗山门与朱雀星的传说象征。",
   "attributes": {
-    "持有者": "云天宗",
-    "外形": "巨大黑衣男子像，双目沉思，右手掐诀、人形雕像",
+    "持有者": "云天宗（铁岩看守）",
+    "外形": "巨大黑衣男子像，双目沉思，右手掐诀、人形雕像、庞大雕像，立于云天宗山门内广场",
     "能力": "散出可怕威严，笼罩天地、象征意义——令楚国诸宗与五级修真国大人物恭敬",
-    "来历": "云天宗升四级修真国后拆山门、倾全国之力所铸、为纪念王林所立",
+    "来历": "云天宗升四级修真国后拆山门、倾全国之力所铸、为纪念王林所立、朱雀星修士为当年的王林所立，已存在数百年",
     "品阶": "以上品灵石铸造"
   },
   "observations": {
@@ -23,6 +24,11 @@
         "value": "云天宗",
         "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
         "seq": 571
+      },
+      {
+        "value": "云天宗（铁岩看守）",
+        "docId": "plot.xianni-ch889-wang-lin-returns-zhuque-star",
+        "seq": 830
       }
     ],
     "外形": [
@@ -35,6 +41,11 @@
         "value": "人形雕像",
         "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
         "seq": 571
+      },
+      {
+        "value": "庞大雕像，立于云天宗山门内广场",
+        "docId": "plot.xianni-ch889-wang-lin-returns-zhuque-star",
+        "seq": 830
       }
     ],
     "能力": [
@@ -60,6 +71,11 @@
         "value": "为纪念王林所立",
         "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
         "seq": 571
+      },
+      {
+        "value": "朱雀星修士为当年的王林所立，已存在数百年",
+        "docId": "plot.xianni-ch889-wang-lin-returns-zhuque-star",
+        "seq": 830
       }
     ],
     "品阶": [
@@ -74,9 +90,9 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
+      "docId": "plot.xianni-ch889-wang-lin-returns-zhuque-star",
       "dated": false,
-      "seq": 571
+      "seq": 830
     },
     "外形": {
       "asOf": null,
@@ -106,7 +122,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch611-buwang-zhuque-first-act"
+    "plot.xianni-ch611-buwang-zhuque-first-act",
+    "plot.xianni-ch889-wang-lin-returns-zhuque-star"
   ],
-  "updatedAt": "2026-08-22T15:55:27.402Z"
+  "updatedAt": "2026-08-23T17:54:31.354Z"
 }

@@ -9,9 +9,10 @@
   "summary": "联盟星域内一颗渺无人烟、灵力不多但生机盎然、丛林密布的星球，被王林选作施展寂灭指吸取生机之地。",
   "attributes": {
     "上级区域": "联盟星域",
-    "类型": "无人星球",
+    "类型": "星球",
     "特产": "浓郁丛林与旺盛生机",
-    "危险度": "万里内生灵尽灭、大地枯裂"
+    "危险度": "万里内生灵尽灭、大地枯裂",
+    "规模": "受影响范围方圆数十万里"
   },
   "observations": {
     "上级区域": [
@@ -26,6 +27,11 @@
         "value": "无人星球",
         "docId": "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star",
         "seq": 826
+      },
+      {
+        "value": "星球",
+        "docId": "plot.xianni-ch889-wang-lin-returns-zhuque-star",
+        "seq": 830
       }
     ],
     "特产": [
@@ -42,6 +48,13 @@
         "seq": 826,
         "note": "王林施展寂灭指之后"
       }
+    ],
+    "规模": [
+      {
+        "value": "受影响范围方圆数十万里",
+        "docId": "plot.xianni-ch889-wang-lin-returns-zhuque-star",
+        "seq": 830
+      }
     ]
   },
   "firstSeq": 826,
@@ -54,9 +67,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star",
+      "docId": "plot.xianni-ch889-wang-lin-returns-zhuque-star",
       "dated": false,
-      "seq": 826
+      "seq": 830
     },
     "特产": {
       "asOf": null,
@@ -70,12 +83,19 @@
       "dated": false,
       "seq": 826,
       "note": "王林施展寂灭指之后"
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch889-wang-lin-returns-zhuque-star",
+      "dated": false,
+      "seq": 830
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star"
+    "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star",
+    "plot.xianni-ch889-wang-lin-returns-zhuque-star"
   ],
-  "updatedAt": "2026-08-23T17:49:06.395Z"
+  "updatedAt": "2026-08-23T17:54:31.354Z"
 }

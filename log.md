@@ -343,3 +343,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T17:46:32.570Z** `ingest` plot.xianni-886-situnan-chuguan-qingshui-chuangong-libiwan-fusheng — 第886章 司徒南出关：清水传吞噬与血符、避天棺重塑李慕婉肉身、罗天大军西侵 · kind=plot asOf=2026-08-23 entities=32 relations=37 src=00826-00829.p2.md
 - **2026-08-23T17:49:06.612Z** `ingest` plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star — 仙逆 第887章 朱雀（第七卷终）：王林窥涅归返联盟星域，寂灭指万里夺生机；朱雀星遭大头童子率众来袭 · kind=plot asOf=2026-08-23 entities=27 relations=40 src=00826-00829.p3.md
 - **2026-08-23T17:51:45.659Z** `ingest` plot.xianni-ch888-wang-lin-statue-zhuque-star — 第888章 王林的雕像——魔道子许木威名吓退罗天问鼎兄弟 · kind=plot asOf=2026-08-23 entities=29 relations=49 src=00826-00829.p4.md
+- **2026-08-23T17:54:31.554Z** `ingest` plot.xianni-ch889-wang-lin-returns-zhuque-star — 第889章 回归：大头童子屠星遇许木雕像，王林现身朱雀星 · kind=plot asOf=2026-08-23 entities=28 relations=48 src=00830-00833.p1.md

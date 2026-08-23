@@ -12,9 +12,10 @@
   "summary": "远古修真家族召书中许诺之地，一百零八仙可入其中化体元为仙元、成就真仙。",
   "attributes": {
     "所属势力": "雷仙殿",
-    "类型": "考验之地",
+    "类型": "机缘之地",
     "所属界面": "罗天星域",
-    "危险度": "需化去意境"
+    "危险度": "需化去意境",
+    "特产": "仙元"
   },
   "observations": {
     "所属势力": [
@@ -49,6 +50,11 @@
         "value": "考验之地",
         "docId": "plot.xianni-885-qingshui-gift-seven-eve-technique",
         "seq": 826
+      },
+      {
+        "value": "机缘之地",
+        "docId": "plot.xianni-ch889-wang-lin-returns-zhuque-star",
+        "seq": 830
       }
     ],
     "所属界面": [
@@ -65,6 +71,13 @@
         "seq": 817,
         "note": "代价未明"
       }
+    ],
+    "特产": [
+      {
+        "value": "仙元",
+        "docId": "plot.xianni-ch889-wang-lin-returns-zhuque-star",
+        "seq": 830
+      }
     ]
   },
   "firstSeq": 766,
@@ -77,9 +90,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-885-qingshui-gift-seven-eve-technique",
+      "docId": "plot.xianni-ch889-wang-lin-returns-zhuque-star",
       "dated": false,
-      "seq": 826
+      "seq": 830
     },
     "所属界面": {
       "asOf": null,
@@ -93,6 +106,12 @@
       "dated": false,
       "seq": 817,
       "note": "代价未明"
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch889-wang-lin-returns-zhuque-star",
+      "dated": false,
+      "seq": 830
     }
   },
   "contested": false,
@@ -103,7 +122,8 @@
     "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives",
     "plot.xianni-ch817-820-yixiantian-killing-trial",
     "plot.xianni-ch880-shengxian-chi-fengxian-shi-wanwer",
-    "plot.xianni-885-qingshui-gift-seven-eve-technique"
+    "plot.xianni-885-qingshui-gift-seven-eve-technique",
+    "plot.xianni-ch889-wang-lin-returns-zhuque-star"
   ],
-  "updatedAt": "2026-08-23T17:43:36.545Z"
+  "updatedAt": "2026-08-23T17:54:31.358Z"
 }
