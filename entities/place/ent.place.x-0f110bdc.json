@@ -6,15 +6,17 @@
     "罗天陌域",
     "西域陌域",
     "陌域深处",
-    "灰雾陌域"
+    "灰雾陌域",
+    "罗天西域陌域"
   ],
   "summary": "罗天西域中约七成修士无法踏入之地的统称，星空本身即极危险，存在远超修士认知的凶兽；深处更有让人恐怖的存在，大神通者也只在外围活动。",
   "attributes": {
     "上级区域": "罗天西域",
-    "方位": "罗天西域深处",
-    "类型": "绝地/迷雾区域",
-    "危险度": "形同绝地，长久无修士出现",
-    "特产": "永恒漂动的灰色雾气"
+    "方位": "罗天星域西域内、罗天西域深处、罗天星域西部",
+    "类型": "禁地/绝地星空、绝地/迷雾区域、禁地/迷雾之地",
+    "危险度": "极高，深处有恐怖存在、形同绝地，长久无修士出现、极高，众多奇异凶兽",
+    "特产": "永恒漂动的灰色雾气",
+    "所属界面": "罗天星域"
   },
   "observations": {
     "上级区域": [
@@ -34,6 +36,11 @@
         "value": "罗天西域深处",
         "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
         "seq": 766
+      },
+      {
+        "value": "罗天星域西部",
+        "docId": "plot.xianni-820-luotian-fengxian-yaojia-tianqiongling",
+        "seq": 766
       }
     ],
     "类型": [
@@ -46,6 +53,11 @@
         "value": "绝地/迷雾区域",
         "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
         "seq": 766
+      },
+      {
+        "value": "禁地/迷雾之地",
+        "docId": "plot.xianni-820-luotian-fengxian-yaojia-tianqiongling",
+        "seq": 766
       }
     ],
     "危险度": [
@@ -57,6 +69,11 @@
       {
         "value": "形同绝地，长久无修士出现",
         "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+        "seq": 766
+      },
+      {
+        "value": "极高，众多奇异凶兽",
+        "docId": "plot.xianni-820-luotian-fengxian-yaojia-tianqiongling",
         "seq": 766
       }
     ],
@@ -71,6 +88,13 @@
         "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
         "seq": 766
       }
+    ],
+    "所属界面": [
+      {
+        "value": "罗天星域",
+        "docId": "plot.xianni-820-luotian-fengxian-yaojia-tianqiongling",
+        "seq": 766
+      }
     ]
   },
   "firstSeq": 753,
@@ -83,25 +107,31 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+      "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
       "dated": false,
-      "seq": 766
+      "seq": 753
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+      "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
       "dated": false,
-      "seq": 766
+      "seq": 753
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+      "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
       "dated": false,
-      "seq": 766
+      "seq": 753
     },
     "特产": {
       "asOf": null,
       "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+      "dated": false,
+      "seq": 766
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-820-luotian-fengxian-yaojia-tianqiongling",
       "dated": false,
       "seq": 766
     }
@@ -110,7 +140,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
-    "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin"
+    "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+    "plot.xianni-820-luotian-fengxian-yaojia-tianqiongling"
   ],
-  "updatedAt": "2026-08-23T12:01:50.139Z"
+  "updatedAt": "2026-08-23T12:04:34.254Z"
 }

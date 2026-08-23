@@ -3,12 +3,15 @@
   "type": "faction",
   "name": "远古修真家族",
   "aliases": [
-    "传承至远古的修真家族"
+    "传承至远古的修真家族",
+    "罗天远古修真家族",
+    "神秘的远古修真家族"
   ],
   "summary": "罗天星域最古老神秘的家族层级，历经上古演变、仙界崩溃、雷仙殿行程与星域变迁，或知远古仙域隐秘。",
   "attributes": {
-    "等级": "罗天星域最高（远古传承）",
-    "理念": "底蕴可怕，神通功法足以傲临罗天"
+    "等级": "罗天最强，高于上古修真家族",
+    "理念": "底蕴可怕，神通功法足以傲临罗天",
+    "所属界面": "罗天星域"
   },
   "observations": {
     "等级": [
@@ -16,6 +19,11 @@
         "value": "罗天星域最高（远古传承）",
         "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
         "seq": 736
+      },
+      {
+        "value": "罗天最强，高于上古修真家族",
+        "docId": "plot.xianni-820-luotian-fengxian-yaojia-tianqiongling",
+        "seq": 766
       }
     ],
     "理念": [
@@ -24,27 +32,41 @@
         "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
         "seq": 736
       }
+    ],
+    "所属界面": [
+      {
+        "value": "罗天星域",
+        "docId": "plot.xianni-820-luotian-fengxian-yaojia-tianqiongling",
+        "seq": 766
+      }
     ]
   },
   "firstSeq": 736,
   "attrProvenance": {
     "等级": {
       "asOf": null,
-      "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+      "docId": "plot.xianni-820-luotian-fengxian-yaojia-tianqiongling",
       "dated": false,
-      "seq": 736
+      "seq": 766
     },
     "理念": {
       "asOf": null,
       "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
       "dated": false,
       "seq": 736
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-820-luotian-fengxian-yaojia-tianqiongling",
+      "dated": false,
+      "seq": 766
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch779-jijing-reappears-vortex-seal-broken"
+    "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+    "plot.xianni-820-luotian-fengxian-yaojia-tianqiongling"
   ],
-  "updatedAt": "2026-08-23T08:06:47.759Z"
+  "updatedAt": "2026-08-23T12:04:34.249Z"
 }

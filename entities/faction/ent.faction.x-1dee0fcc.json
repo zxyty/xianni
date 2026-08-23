@@ -10,15 +10,17 @@
     "姚姓家族",
     "姚氏",
     "姚家势力",
-    "姚道友家族"
+    "姚道友家族",
+    "传承仙界的姚家"
   ],
   "summary": "罗天星域的家族势力，居于暗红色星球，设有祠堂；姚洛东叛族后其名已被从祠堂除去。",
   "attributes": {
     "据点": "罗天星域",
     "理念": "强大家族，敌视王林一方",
     "所属界面": "罗天星域、雷之仙界",
-    "等级": "连雷仙殿也要给几分薄面",
-    "阵营": "罗天星域家族"
+    "等级": "仅次于上古修真家族，四大传承仙界家族之首",
+    "阵营": "罗天星域家族",
+    "镇派之宝": "天穹令"
   },
   "observations": {
     "据点": [
@@ -62,6 +64,11 @@
         "value": "连雷仙殿也要给几分薄面",
         "docId": "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan",
         "seq": 729
+      },
+      {
+        "value": "仅次于上古修真家族，四大传承仙界家族之首",
+        "docId": "plot.xianni-820-luotian-fengxian-yaojia-tianqiongling",
+        "seq": 766
       }
     ],
     "阵营": [
@@ -74,6 +81,13 @@
         "value": "罗天星域家族",
         "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
         "seq": 736
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "天穹令",
+        "docId": "plot.xianni-820-luotian-fengxian-yaojia-tianqiongling",
+        "seq": 766
       }
     ]
   },
@@ -99,15 +113,21 @@
     },
     "等级": {
       "asOf": null,
-      "docId": "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan",
+      "docId": "plot.xianni-820-luotian-fengxian-yaojia-tianqiongling",
       "dated": false,
-      "seq": 729
+      "seq": 766
     },
     "阵营": {
       "asOf": null,
       "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
       "dated": false,
       "seq": 736
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.xianni-820-luotian-fengxian-yaojia-tianqiongling",
+      "dated": false,
+      "seq": 766
     }
   },
   "contested": false,
@@ -119,7 +139,8 @@
     "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan",
     "plot.xianni-773-shisan-tian-wang-lin-slaughters-yao-family-pursuers",
     "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
-    "plot.xianni-ch779-jijing-reappears-vortex-seal-broken"
+    "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+    "plot.xianni-820-luotian-fengxian-yaojia-tianqiongling"
   ],
-  "updatedAt": "2026-08-23T08:06:47.755Z"
+  "updatedAt": "2026-08-23T12:04:34.247Z"
 }
