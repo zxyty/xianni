@@ -4,12 +4,16 @@
   "name": "罗浮山",
   "aliases": [
     "罗浮",
-    "上古修真名山罗浮"
+    "上古修真名山罗浮",
+    "罗浮之力",
+    "上方罗浮"
   ],
   "summary": "上古时期修真名山，一夜之间奇异崩溃，山中修士鲜血脱体暴毙，血液凝聚化作十丈血球，即罗浮血球之源。",
   "attributes": {
-    "类型": "上古修真名山",
-    "危险度": "全山修士暴毙的诡异之地"
+    "类型": "战场关键节点",
+    "危险度": "全山修士暴毙的诡异之地",
+    "方位": "战场上方",
+    "所属势力": "罗天星域一方"
   },
   "observations": {
     "类型": [
@@ -17,6 +21,11 @@
         "value": "上古修真名山",
         "docId": "plot.xianni-ch917-luotian-counterattack",
         "seq": 853
+      },
+      {
+        "value": "战场关键节点",
+        "docId": "plot.xianni-ch926-thousand-zhang-giant-demon-self-destruct",
+        "seq": 855
       }
     ],
     "危险度": [
@@ -25,27 +34,54 @@
         "docId": "plot.xianni-ch917-luotian-counterattack",
         "seq": 853
       }
+    ],
+    "方位": [
+      {
+        "value": "战场上方",
+        "docId": "plot.xianni-ch926-thousand-zhang-giant-demon-self-destruct",
+        "seq": 855
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "罗天星域一方",
+        "docId": "plot.xianni-ch926-thousand-zhang-giant-demon-self-destruct",
+        "seq": 855
+      }
     ]
   },
   "firstSeq": 853,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch917-luotian-counterattack",
+      "docId": "plot.xianni-ch926-thousand-zhang-giant-demon-self-destruct",
       "dated": false,
-      "seq": 853
+      "seq": 855
     },
     "危险度": {
       "asOf": null,
       "docId": "plot.xianni-ch917-luotian-counterattack",
       "dated": false,
       "seq": 853
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch926-thousand-zhang-giant-demon-self-destruct",
+      "dated": false,
+      "seq": 855
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch926-thousand-zhang-giant-demon-self-destruct",
+      "dated": false,
+      "seq": 855
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch917-luotian-counterattack"
+    "plot.xianni-ch917-luotian-counterattack",
+    "plot.xianni-ch926-thousand-zhang-giant-demon-self-destruct"
   ],
-  "updatedAt": "2026-08-23T20:01:28.522Z"
+  "updatedAt": "2026-08-23T20:16:52.004Z"
 }

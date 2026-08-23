@@ -3,11 +3,13 @@
   "type": "place",
   "name": "修真星",
   "aliases": [
-    "修真星球"
+    "修真星球",
+    "老者所扛修真星"
   ],
   "summary": "修真联盟赐予其天道印诀的星辰，本章作为仙术对照被提及。",
   "attributes": {
-    "所属势力": "修真联盟"
+    "所属势力": "修真联盟一方",
+    "类型": "被操控的星辰法宝/战场"
   },
   "observations": {
     "所属势力": [
@@ -15,6 +17,18 @@
         "value": "修真联盟",
         "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
         "seq": 462
+      },
+      {
+        "value": "修真联盟一方",
+        "docId": "plot.xianni-ch926-thousand-zhang-giant-demon-self-destruct",
+        "seq": 855
+      }
+    ],
+    "类型": [
+      {
+        "value": "被操控的星辰法宝/战场",
+        "docId": "plot.xianni-ch926-thousand-zhang-giant-demon-self-destruct",
+        "seq": 855
       }
     ]
   },
@@ -22,15 +36,22 @@
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
+      "docId": "plot.xianni-ch926-thousand-zhang-giant-demon-self-destruct",
       "dated": false,
-      "seq": 462
+      "seq": 855
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-ch926-thousand-zhang-giant-demon-self-destruct",
+      "dated": false,
+      "seq": 855
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin"
+    "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
+    "plot.xianni-ch926-thousand-zhang-giant-demon-self-destruct"
   ],
-  "updatedAt": "2026-08-21T07:52:46.074Z"
+  "updatedAt": "2026-08-23T20:16:52.005Z"
 }

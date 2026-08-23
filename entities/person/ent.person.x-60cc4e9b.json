@@ -4,14 +4,18 @@
   "name": "宫装妇人",
   "aliases": [
     "巨木上的美貌妇人",
-    "淡绿宫装妇人"
+    "淡绿宫装妇人",
+    "紫烟",
+    "宫装妇人紫烟"
   ],
   "summary": "巨木之上的窥涅后期女修，约三十许岁，容貌极美，淡绿繁花宫装外披金色薄纱，对王林婉约一笑而自有高贵不可侵犯之意。",
   "attributes": {
     "性别": "女",
     "小阶段": "窥涅后期",
-    "外貌": "宫装、貌美",
-    "标志特征": "淡绿繁花宫装、金色薄纱、额前小红宝石"
+    "外貌": "约三十许岁，肤色奇白、眼中隐有海水之蓝、颊边梨涡、宫装、貌美、宫装、青丝，姿容婉约",
+    "标志特征": "淡绿繁花宫装、金色薄纱、额前小红宝石",
+    "性格": "从容、婉约",
+    "阵营": "罗天星域一方"
   },
   "observations": {
     "性别": [
@@ -38,6 +42,11 @@
         "value": "宫装、貌美",
         "docId": "plot.xianni-ch924-wang-lin-dingshen-jixiantian-great-merit",
         "seq": 855
+      },
+      {
+        "value": "宫装、青丝，姿容婉约",
+        "docId": "plot.xianni-ch926-thousand-zhang-giant-demon-self-destruct",
+        "seq": 855
       }
     ],
     "标志特征": [
@@ -45,6 +54,20 @@
         "value": "淡绿繁花宫装、金色薄纱、额前小红宝石",
         "docId": "plot.xianni-ch921-qingse-yujian-jumu-wangyue",
         "seq": 853
+      }
+    ],
+    "性格": [
+      {
+        "value": "从容、婉约",
+        "docId": "plot.xianni-ch926-thousand-zhang-giant-demon-self-destruct",
+        "seq": 855
+      }
+    ],
+    "阵营": [
+      {
+        "value": "罗天星域一方",
+        "docId": "plot.xianni-ch926-thousand-zhang-giant-demon-self-destruct",
+        "seq": 855
       }
     ]
   },
@@ -64,15 +87,27 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch924-wang-lin-dingshen-jixiantian-great-merit",
+      "docId": "plot.xianni-ch921-qingse-yujian-jumu-wangyue",
       "dated": false,
-      "seq": 855
+      "seq": 853
     },
     "标志特征": {
       "asOf": null,
       "docId": "plot.xianni-ch921-qingse-yujian-jumu-wangyue",
       "dated": false,
       "seq": 853
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch926-thousand-zhang-giant-demon-self-destruct",
+      "dated": false,
+      "seq": 855
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch926-thousand-zhang-giant-demon-self-destruct",
+      "dated": false,
+      "seq": 855
     }
   },
   "contested": false,
@@ -80,7 +115,8 @@
   "docs": [
     "plot.xianni-ch921-qingse-yujian-jumu-wangyue",
     "plot.xianni-ch924-wang-lin-dingshen-jixiantian-great-merit",
-    "plot.xianni-ch925-million-beast-blood-lock-heaven-god"
+    "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
+    "plot.xianni-ch926-thousand-zhang-giant-demon-self-destruct"
   ],
-  "updatedAt": "2026-08-23T20:14:11.706Z"
+  "updatedAt": "2026-08-23T20:16:51.993Z"
 }
