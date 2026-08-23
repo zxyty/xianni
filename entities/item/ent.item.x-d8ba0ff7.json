@@ -9,8 +9,8 @@
   ],
   "summary": "雷仙殿无偿送出的法器，既能传送声音，也能幻化出雷仙殿内的封仙景象；用于封仙直播与对修真联盟决战的总动员。",
   "attributes": {
-    "类型": "传讯法器",
-    "用途": "传送声音、幻化雷仙殿内景象、决战总动员、远程传影传音、观看大典、实时观看/传播战况",
+    "类型": "传讯器物",
+    "用途": "传送声音、幻化雷仙殿内景象、决战总动员、远程传影传音、观看大典、实时观看/传播战况、远距传音、传递战讯",
     "产地": "雷仙殿"
   },
   "observations": {
@@ -19,6 +19,11 @@
         "value": "传讯法器",
         "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
         "seq": 817
+      },
+      {
+        "value": "传讯器物",
+        "docId": "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens",
+        "seq": 821
       }
     ],
     "用途": [
@@ -46,6 +51,11 @@
         "value": "实时观看/传播战况",
         "docId": "plot.xianni-ch882-space-barrier-open",
         "seq": 821
+      },
+      {
+        "value": "远距传音、传递战讯",
+        "docId": "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens",
+        "seq": 821
       }
     ],
     "产地": [
@@ -60,9 +70,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
+      "docId": "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens",
       "dated": false,
-      "seq": 817
+      "seq": 821
     },
     "用途": {
       "asOf": null,
@@ -82,7 +92,8 @@
   "docs": [
     "plot.xianni-ch817-820-yixiantian-killing-trial",
     "plot.xianni-ch880-shengxian-chi-fengxian-shi-wanwer",
-    "plot.xianni-ch882-space-barrier-open"
+    "plot.xianni-ch882-space-barrier-open",
+    "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens"
   ],
-  "updatedAt": "2026-08-23T16:48:30.887Z"
+  "updatedAt": "2026-08-23T16:55:42.937Z"
 }

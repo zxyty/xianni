@@ -3,12 +3,14 @@
   "type": "person",
   "name": "向家先祖",
   "aliases": [
-    "向家常年闭关的先祖"
+    "向家常年闭关的先祖",
+    "向家仅存的一位先祖"
   ],
   "summary": "向家常年闭关的先祖，是唯一能施展七夕术者，居于东临星。",
   "attributes": {
-    "身份": "向家闭关先祖",
-    "出身地": "东临星"
+    "身份": "向家闭关先祖、向家先祖",
+    "出身地": "东临星",
+    "存殁": "在世（闭关）"
   },
   "observations": {
     "身份": [
@@ -16,12 +18,24 @@
         "value": "向家闭关先祖",
         "docId": "plot.xianni-ch881-i-agree-qixi-technique-li-muwan-yuanying",
         "seq": 821
+      },
+      {
+        "value": "向家先祖",
+        "docId": "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens",
+        "seq": 821
       }
     ],
     "出身地": [
       {
         "value": "东临星",
         "docId": "plot.xianni-ch881-i-agree-qixi-technique-li-muwan-yuanying",
+        "seq": 821
+      }
+    ],
+    "存殁": [
+      {
+        "value": "在世（闭关）",
+        "docId": "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens",
         "seq": 821
       }
     ]
@@ -39,12 +53,19 @@
       "docId": "plot.xianni-ch881-i-agree-qixi-technique-li-muwan-yuanying",
       "dated": false,
       "seq": 821
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens",
+      "dated": false,
+      "seq": 821
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch881-i-agree-qixi-technique-li-muwan-yuanying"
+    "plot.xianni-ch881-i-agree-qixi-technique-li-muwan-yuanying",
+    "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens"
   ],
-  "updatedAt": "2026-08-23T16:46:06.593Z"
+  "updatedAt": "2026-08-23T16:55:42.951Z"
 }

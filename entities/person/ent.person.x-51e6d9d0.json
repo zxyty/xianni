@@ -8,7 +8,8 @@
   ],
   "summary": "白发老者的死敌，疑属联盟星域一方；白发老者扬言计划完成后要让其死无葬身之地。",
   "attributes": {
-    "阵营": "疑属修真联盟一方"
+    "阵营": "联盟星域（据炎雷子言语推断）",
+    "身份": "炎雷子的旧日仇敌"
   },
   "observations": {
     "阵营": [
@@ -23,6 +24,19 @@
         "docId": "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
         "seq": 746,
         "note": "据炎雷子誓言语境推断"
+      },
+      {
+        "value": "联盟星域（据炎雷子言语推断）",
+        "docId": "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens",
+        "seq": 821
+      }
+    ],
+    "身份": [
+      {
+        "value": "炎雷子的旧日仇敌",
+        "docId": "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens",
+        "seq": 821,
+        "note": "本章仅口头提及，未登场"
       }
     ]
   },
@@ -30,17 +44,24 @@
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
+      "docId": "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens",
       "dated": false,
-      "seq": 746,
-      "note": "据炎雷子誓言语境推断"
+      "seq": 821
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens",
+      "dated": false,
+      "seq": 821,
+      "note": "本章仅口头提及，未登场"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch736-lei-zhi-xianjie-gate",
-    "plot.xianni-746-750-mysterious-elder-lures-evil-youth"
+    "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
+    "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens"
   ],
-  "updatedAt": "2026-08-23T09:25:34.740Z"
+  "updatedAt": "2026-08-23T16:55:42.924Z"
 }

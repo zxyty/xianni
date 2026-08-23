@@ -337,3 +337,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T16:43:48.476Z** `ingest` plot.xianni-ch880-shengxian-chi-fengxian-shi-wanwer — 第880章 婉儿——升仙池抉择、封仙石刻名与王林的最后请求 · kind=plot asOf=2026-08-23 entities=27 relations=45 src=00821-00825.p1.md
 - **2026-08-23T16:46:06.789Z** `ingest` plot.xianni-ch881-i-agree-qixi-technique-li-muwan-yuanying — 第881章「我，同意！」——封仙许愿：向家七夕术救李慕婉，王林愿舍九成生机 · kind=plot asOf=2026-08-23 entities=25 relations=32 src=00821-00825.p2.md
 - **2026-08-23T16:48:31.088Z** `ingest` plot.xianni-ch882-space-barrier-open — 第882章 空间壁垒，开！——炎雷子撕裂罗天—联盟空间壁垒 · kind=plot asOf=2026-08-23 entities=29 relations=37 src=00821-00825.p3.md
+- **2026-08-23T16:55:43.183Z** `ingest` plot.xianni-ch883-dongling-star-luotian-alliance-war-opens — 第883章 东临星：罗天联盟之战开启，四大修军杀入联盟星域 · kind=plot asOf=2026-08-23 entities=40 relations=59 src=00821-00825.p4.md

@@ -3,12 +3,14 @@
   "type": "item",
   "name": "红色玉简",
   "aliases": [
-    "石方的红色玉简"
+    "石方的红色玉简",
+    "查探方位的红色玉简",
+    "向云东的红色玉简"
   ],
   "summary": "石方自储物袋取出的红色玉简，搓指成剑一指施法，疑为其禁法神通载体。",
   "attributes": {
     "类型": "玉简",
-    "用途": "施展禁法神通"
+    "用途": "查探东临星方位"
   },
   "observations": {
     "类型": [
@@ -23,6 +25,11 @@
         "value": "施展禁法神通",
         "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
         "seq": 486
+      },
+      {
+        "value": "查探东临星方位",
+        "docId": "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens",
+        "seq": 821
       }
     ]
   },
@@ -36,15 +43,16 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+      "docId": "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens",
       "dated": false,
-      "seq": 486
+      "seq": 821
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit"
+    "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+    "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens"
   ],
-  "updatedAt": "2026-08-21T10:41:37.761Z"
+  "updatedAt": "2026-08-23T16:55:42.963Z"
 }

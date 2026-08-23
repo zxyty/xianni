@@ -1,48 +1,47 @@
 {
-  "id": "ent.faction.x-447ea89a",
-  "type": "faction",
-  "name": "一百零八仙",
+  "id": "ent.person.x-2f75063e",
+  "type": "person",
+  "name": "东部修军铠甲男子",
   "aliases": [
-    "雷仙殿一百零八仙",
-    "正副雷仙、一百零八仙",
-    "持令旗的一百零八仙"
+    "身穿铠甲的男子",
+    "东部星域修军领队"
   ],
-  "summary": "雷仙殿的名位体系，其成员拥有进入升仙池的机会。",
+  "summary": "雷仙殿范围外东部星域上万修士的当前领队，抬头示意后全军化作流星冲入星空裂缝。",
   "attributes": {
-    "所属界面": "罗天星域",
-    "阵营": "罗天星域·雷仙殿",
-    "理念": "持令旗出战"
+    "身份": "东部修军领队",
+    "阵营": "罗天星域",
+    "外貌": "身穿铠甲"
   },
   "observations": {
-    "所属界面": [
+    "身份": [
       {
-        "value": "罗天星域",
-        "docId": "plot.xianni-857-the-third-step",
-        "seq": 800
-      }
-    ],
-    "阵营": [
-      {
-        "value": "罗天星域·雷仙殿",
+        "value": "东部修军领队",
         "docId": "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens",
         "seq": 821
       }
     ],
-    "理念": [
+    "阵营": [
       {
-        "value": "持令旗出战",
+        "value": "罗天星域",
+        "docId": "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens",
+        "seq": 821
+      }
+    ],
+    "外貌": [
+      {
+        "value": "身穿铠甲",
         "docId": "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens",
         "seq": 821
       }
     ]
   },
-  "firstSeq": 800,
+  "firstSeq": 821,
   "attrProvenance": {
-    "所属界面": {
+    "身份": {
       "asOf": null,
-      "docId": "plot.xianni-857-the-third-step",
+      "docId": "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens",
       "dated": false,
-      "seq": 800
+      "seq": 821
     },
     "阵营": {
       "asOf": null,
@@ -50,7 +49,7 @@
       "dated": false,
       "seq": 821
     },
-    "理念": {
+    "外貌": {
       "asOf": null,
       "docId": "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens",
       "dated": false,
@@ -60,8 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-857-the-third-step",
     "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens"
   ],
-  "updatedAt": "2026-08-23T16:55:42.930Z"
+  "updatedAt": "2026-08-23T16:55:42.926Z"
 }
