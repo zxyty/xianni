@@ -6,19 +6,28 @@
     "李家先祖",
     "李元先祖",
     "当年先祖",
-    "李元之先祖"
+    "李元之先祖",
+    "数万年前搜集三器的李家先祖",
+    "第一次轮回之身"
   ],
   "summary": "很久之前以擅长的禁制破开山峰、登上顶端，从此成为石像仙人的奴仆，致使李家后人世代脑中烙有奴印。",
   "attributes": {
-    "身份": "李家先祖",
+    "身份": "李家先祖、仙人仆魂的第一次轮回之身",
     "标志特征": "擅长禁制、禁制之术远超后人李元",
-    "结局": "成为石像仙人的奴仆"
+    "结局": "成为石像仙人的奴仆",
+    "存殁": "死亡",
+    "死因": "数万年前来此途中出了变故而身亡"
   },
   "observations": {
     "身份": [
       {
         "value": "李家先祖",
         "docId": "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark",
+        "seq": 711
+      },
+      {
+        "value": "仙人仆魂的第一次轮回之身",
+        "docId": "plot.xianni-c752-yinguo-li-yuan-xianren-puhun",
         "seq": 711
       }
     ],
@@ -39,6 +48,21 @@
         "value": "成为石像仙人的奴仆",
         "docId": "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark",
         "seq": 711
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-c752-yinguo-li-yuan-xianren-puhun",
+        "seq": 711
+      }
+    ],
+    "死因": [
+      {
+        "value": "数万年前来此途中出了变故而身亡",
+        "docId": "plot.xianni-c752-yinguo-li-yuan-xianren-puhun",
+        "seq": 711,
+        "note": "具体变故不明，法器被葛姓之人取走"
       }
     ]
   },
@@ -61,13 +85,27 @@
       "docId": "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark",
       "dated": false,
       "seq": 711
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-c752-yinguo-li-yuan-xianren-puhun",
+      "dated": false,
+      "seq": 711
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-c752-yinguo-li-yuan-xianren-puhun",
+      "dated": false,
+      "seq": 711,
+      "note": "具体变故不明，法器被葛姓之人取走"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark",
-    "plot.xianni-ch751-blood-ancestor-arrives"
+    "plot.xianni-ch751-blood-ancestor-arrives",
+    "plot.xianni-c752-yinguo-li-yuan-xianren-puhun"
   ],
-  "updatedAt": "2026-08-23T05:26:50.222Z"
+  "updatedAt": "2026-08-23T05:29:06.343Z"
 }
