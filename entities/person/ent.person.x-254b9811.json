@@ -3,13 +3,15 @@
   "type": "person",
   "name": "姚家青年",
   "aliases": [
-    "姚家少主"
+    "姚家少主",
+    "那姚家少主"
   ],
   "summary": "姚家出身的青年，以李元为靶子试法十三日，放出八面噬魂虫；虚空一抓化血色大手擒剑，自负雷之仙界无得不到之物。",
   "attributes": {
     "身份": "姚家少主",
     "性格": "傲慢、以人为玩物",
-    "出身地": "姚家"
+    "出身地": "姚家",
+    "阵营": "姚家"
   },
   "observations": {
     "身份": [
@@ -30,6 +32,13 @@
       {
         "value": "姚家",
         "docId": "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan",
+        "seq": 729
+      }
+    ],
+    "阵营": [
+      {
+        "value": "姚家",
+        "docId": "plot.xianni-773-shisan-tian-wang-lin-slaughters-yao-family-pursuers",
         "seq": 729
       }
     ]
@@ -53,12 +62,19 @@
       "docId": "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan",
       "dated": false,
       "seq": 729
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-773-shisan-tian-wang-lin-slaughters-yao-family-pursuers",
+      "dated": false,
+      "seq": 729
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan"
+    "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan",
+    "plot.xianni-773-shisan-tian-wang-lin-slaughters-yao-family-pursuers"
   ],
-  "updatedAt": "2026-08-23T07:26:37.264Z"
+  "updatedAt": "2026-08-23T07:30:42.352Z"
 }

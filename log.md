@@ -269,3 +269,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T07:18:46.523Z** `ingest` plot.xianni-769-tianjie-slay-xuezu-body-yangshi — 第769章 信心：王林借天劫诛血祖肉身，修为达阳实 · kind=plot asOf=2026-08-23 entities=41 relations=59 src=00729-00730.p1a.md
 - **2026-08-23T07:26:37.436Z** `ingest` plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan — 第769章 信心：王林元力黄泉战血祖，仙界碎片大印镇压、尊魂幡收魂成画 · kind=plot asOf=2026-08-23 entities=38 relations=58 src=00729-00730.p1b.md
 - **2026-08-23T07:28:28.189Z** `ingest` plot.xianni-0729-0730-chapter769-confidence-wang-lin-saves-li-yuan — 第769章 信心｜王林现身秒杀姚姓青年，救下重伤李元 · kind=plot asOf=2026-08-23 entities=13 relations=25 src=00729-00730.p1c.md
+- **2026-08-23T07:30:42.524Z** `ingest` plot.xianni-773-shisan-tian-wang-lin-slaughters-yao-family-pursuers — 第773章 十三天：王林为李元复仇，一日一指碎阴虚老者 · kind=plot asOf=2026-08-23 entities=22 relations=38 src=00729-00730.p2.md

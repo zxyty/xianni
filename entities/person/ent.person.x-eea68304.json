@@ -3,13 +3,15 @@
   "type": "person",
   "name": "姚姓青年",
   "aliases": [
-    "姚姓少主"
+    "姚姓少主",
+    "姚姓男子"
   ],
   "summary": "阴虚老者护卫的少主，夺走李元三把仙剑并欲搜其魂，被王林两指灭杀，肉身瓦解、元神被撕裂后凝为光球。",
   "attributes": {
     "身份": "少主",
     "存殁": "死亡",
-    "死因": "被王林一指震碎全身骨骼，再一指以元力摧毁仙力、道基、血肉、五脏六腑、头颅，肉身瓦解，元神被撕裂后凝为光球"
+    "死因": "被王林一指震碎全身骨骼，再一指以元力摧毁仙力、道基、血肉、五脏六腑、头颅，肉身瓦解，元神被撕裂后凝为光球、被王林一指崩碎肉身，元神被抓住抹去神识",
+    "阵营": "姚家"
   },
   "observations": {
     "身份": [
@@ -32,6 +34,18 @@
       {
         "value": "被王林一指震碎全身骨骼，再一指以元力摧毁仙力、道基、血肉、五脏六腑、头颅，肉身瓦解，元神被撕裂后凝为光球",
         "docId": "plot.xianni-0729-0730-chapter769-confidence-wang-lin-saves-li-yuan",
+        "seq": 729
+      },
+      {
+        "value": "被王林一指崩碎肉身，元神被抓住抹去神识",
+        "docId": "plot.xianni-773-shisan-tian-wang-lin-slaughters-yao-family-pursuers",
+        "seq": 729
+      }
+    ],
+    "阵营": [
+      {
+        "value": "姚家",
+        "docId": "plot.xianni-773-shisan-tian-wang-lin-slaughters-yao-family-pursuers",
         "seq": 729
       }
     ]
@@ -57,12 +71,19 @@
       "docId": "plot.xianni-0729-0730-chapter769-confidence-wang-lin-saves-li-yuan",
       "dated": false,
       "seq": 729
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-773-shisan-tian-wang-lin-slaughters-yao-family-pursuers",
+      "dated": false,
+      "seq": 729
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-0729-0730-chapter769-confidence-wang-lin-saves-li-yuan"
+    "plot.xianni-0729-0730-chapter769-confidence-wang-lin-saves-li-yuan",
+    "plot.xianni-773-shisan-tian-wang-lin-slaughters-yao-family-pursuers"
   ],
-  "updatedAt": "2026-08-23T07:28:28.028Z"
+  "updatedAt": "2026-08-23T07:30:42.352Z"
 }
