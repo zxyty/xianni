@@ -8,16 +8,19 @@
     "Bai Xue",
     "白雪师姐",
     "白雪师叔",
-    "朱雀星老妇人"
+    "朱雀星老妇人",
+    "老妇人白雪",
+    "人仙道长老白雪"
   ],
   "summary": "人道仙弟子，冯玉山称其三师姐，奉师命在朱雀国祭坛等候接引「曾牛」，驾白色仙鹤载其飞行并介绍朱雀国宗派格局。",
   "attributes": {
     "性别": "女",
-    "身份": "人道仙弟子、人道仙宗弟子、引路人、朱雀星守护一方的长辈",
-    "外貌": "老妇人，面有皱纹，年轻时定是秀美之人",
+    "身份": "人道仙弟子、人道仙宗弟子、引路人、朱雀星守护一方的长辈、人仙道长老",
+    "外貌": "紫色长裙裙脚绣紫蝶落百合、身披蓝纱、肌肤似雪、飞云髻、老妇人，面有皱纹，年轻时定是秀美之人、老妇人",
     "性格": "素雅幽静、含笑有礼、一脸平淡、深藏用意",
     "称号": "白雪师叔",
-    "标志特征": "若王林在此会觉此女眼熟"
+    "标志特征": "若王林在此会觉此女眼熟",
+    "阵营": "朱雀星"
   },
   "observations": {
     "性别": [
@@ -42,6 +45,11 @@
         "value": "朱雀星守护一方的长辈",
         "docId": "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star",
         "seq": 826
+      },
+      {
+        "value": "人仙道长老",
+        "docId": "plot.xianni-ch888-wang-lin-statue-zhuque-star",
+        "seq": 826
       }
     ],
     "外貌": [
@@ -53,6 +61,11 @@
       {
         "value": "老妇人，面有皱纹，年轻时定是秀美之人",
         "docId": "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star",
+        "seq": 826
+      },
+      {
+        "value": "老妇人",
+        "docId": "plot.xianni-ch888-wang-lin-statue-zhuque-star",
         "seq": 826
       }
     ],
@@ -82,6 +95,13 @@
         "docId": "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star",
         "seq": 826
       }
+    ],
+    "阵营": [
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch888-wang-lin-statue-zhuque-star",
+        "seq": 826
+      }
     ]
   },
   "firstSeq": 341,
@@ -100,9 +120,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star",
+      "docId": "plot.xianni-ch361-zhuque-guo-arrival",
       "dated": false,
-      "seq": 826
+      "seq": 341
     },
     "性格": {
       "asOf": null,
@@ -121,13 +141,20 @@
       "docId": "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star",
       "dated": false,
       "seq": 826
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch888-wang-lin-statue-zhuque-star",
+      "dated": false,
+      "seq": 826
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch361-zhuque-guo-arrival",
-    "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star"
+    "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star",
+    "plot.xianni-ch888-wang-lin-statue-zhuque-star"
   ],
-  "updatedAt": "2026-08-23T17:49:06.388Z"
+  "updatedAt": "2026-08-23T17:51:45.432Z"
 }

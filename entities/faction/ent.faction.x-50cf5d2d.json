@@ -2,11 +2,13 @@
   "id": "ent.faction.x-50cf5d2d",
   "type": "faction",
   "name": "人仙道",
-  "aliases": [],
+  "aliases": [
+    "人仙道一脉"
+  ],
   "summary": "朱雀国最后一个门派，其问鼎始祖极为神秘，本章毫无异常。",
   "attributes": {
     "所属界面": "朱雀星",
-    "据点": "朱雀国"
+    "据点": "朱雀星"
   },
   "observations": {
     "所属界面": [
@@ -21,6 +23,11 @@
         "value": "朱雀国",
         "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
         "seq": 382
+      },
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch888-wang-lin-statue-zhuque-star",
+        "seq": 826
       }
     ]
   },
@@ -34,15 +41,16 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
+      "docId": "plot.xianni-ch888-wang-lin-statue-zhuque-star",
       "dated": false,
-      "seq": 382
+      "seq": 826
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict"
+    "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
+    "plot.xianni-ch888-wang-lin-statue-zhuque-star"
   ],
-  "updatedAt": "2026-08-17T15:34:17.205Z"
+  "updatedAt": "2026-08-23T17:51:45.438Z"
 }

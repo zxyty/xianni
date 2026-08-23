@@ -10,18 +10,21 @@
     "大头童子修士",
     "大头童子老怪",
     "大头小童",
-    "背手童子"
+    "背手童子",
+    "仙使",
+    "罗天仙使"
   ],
   "summary": "来自罗天北域的童子模样修士，头颅硕大、面带痴傻之笑，四周三丈无人敢近，重点注视许霆。",
   "attributes": {
     "出身地": "罗天北域",
-    "外貌": "童子模样，头颅硕大，极不协调、大头童子、童子模样、头大、大头童子，面带痴傻之笑、大头童子模样、大头童子，脸带痴傻之笑、大头童子，脸露痴傻之笑",
+    "外貌": "童子模样，头颅硕大，极不协调、大头童子、童子模样、头大、大头童子，面带痴傻之笑、大头童子模样、大头童子，脸带痴傻之笑、大头童子，脸露痴傻之笑、大头、面带痴傻表情",
     "标志特征": "痴傻之笑、四周三丈方圆无人敢近、笑中透冷",
-    "身份": "来袭队伍首领",
+    "身份": "封号之战参与者、封仙之战参试修士、三十六天罡仙之一、来袭队伍首领、罗天星域进入联盟南域第一波修士的带队者",
     "小阶段": "窥涅初期",
     "存殁": "存活",
     "性格": "阴狠而惜命，忌惮王林",
-    "阵营": "疑为罗天一方"
+    "阵营": "疑为罗天一方、罗天星域",
+    "称号": "仙使"
   },
   "observations": {
     "出身地": [
@@ -66,6 +69,11 @@
         "value": "大头童子，脸露痴傻之笑",
         "docId": "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star",
         "seq": 826
+      },
+      {
+        "value": "大头、面带痴傻表情",
+        "docId": "plot.xianni-ch888-wang-lin-statue-zhuque-star",
+        "seq": 826
       }
     ],
     "标志特征": [
@@ -105,6 +113,11 @@
         "value": "来袭队伍首领",
         "docId": "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star",
         "seq": 826
+      },
+      {
+        "value": "罗天星域进入联盟南域第一波修士的带队者",
+        "docId": "plot.xianni-ch888-wang-lin-statue-zhuque-star",
+        "seq": 826
       }
     ],
     "小阶段": [
@@ -135,6 +148,18 @@
         "docId": "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star",
         "seq": 826,
         "note": "文中未明言，据白雪『距罗天修士太近』推测"
+      },
+      {
+        "value": "罗天星域",
+        "docId": "plot.xianni-ch888-wang-lin-statue-zhuque-star",
+        "seq": 826
+      }
+    ],
+    "称号": [
+      {
+        "value": "仙使",
+        "docId": "plot.xianni-ch888-wang-lin-statue-zhuque-star",
+        "seq": 826
       }
     ]
   },
@@ -160,9 +185,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star",
+      "docId": "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
       "dated": false,
-      "seq": 826
+      "seq": 805
     },
     "小阶段": {
       "asOf": null,
@@ -189,6 +214,12 @@
       "dated": false,
       "seq": 826,
       "note": "文中未明言，据白雪『距罗天修士太近』推测"
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch888-wang-lin-statue-zhuque-star",
+      "dated": false,
+      "seq": 826
     }
   },
   "contested": false,
@@ -200,7 +231,8 @@
     "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
     "plot.xianni-ch817-820-yixiantian-killing-trial",
     "plot.xianni-ch880-shengxian-chi-fengxian-shi-wanwer",
-    "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star"
+    "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star",
+    "plot.xianni-ch888-wang-lin-statue-zhuque-star"
   ],
-  "updatedAt": "2026-08-23T17:49:06.389Z"
+  "updatedAt": "2026-08-23T17:51:45.427Z"
 }
