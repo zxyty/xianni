@@ -325,3 +325,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T14:28:11.380Z** `ingest` plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives — 第859章 来临：罗天南域地炎星封号之战开场，王林悄然抵达 · kind=plot asOf=2026-08-23 entities=36 relations=48 src=00800-00804.p4.md
 - **2026-08-23T14:30:10.422Z** `ingest` plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou — 第860章 我要第一——王林战意压地炎星，一击重创唐言枫 · kind=plot asOf=2026-08-23 entities=22 relations=25 src=00800-00804.p5.md
 - **2026-08-23T14:33:11.239Z** `ingest` plot.xianni-ch861-baoen-luotian-nanyu-first-seat — 第861章 报恩：雷仙界获救者集体举荐，王林（许木）引爆唐言枫夺南域第一 · kind=plot asOf=2026-08-23 entities=41 relations=52 src=00805-00809.p1.md
+- **2026-08-23T14:35:53.601Z** `ingest` plot.xianni-ch862-jiuqu-tiandao — 第862章 九曲天刀：王林点化战空烈，迎战南宫家黑衣男子 · kind=plot asOf=2026-08-23 entities=32 relations=41 src=00805-00809.p2.md

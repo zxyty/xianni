@@ -3,11 +3,12 @@
   "type": "item",
   "name": "赤红之石",
   "aliases": [
-    "红石"
+    "红石",
+    "赤红石"
   ],
   "summary": "南域封号战场中约三四百块供争夺资格者盘坐的石台，一百零八名额从其坐者中选出。",
   "attributes": {
-    "类型": "座席法石",
+    "类型": "观战座石",
     "用途": "标示封号争夺资格者身份"
   },
   "observations": {
@@ -16,6 +17,11 @@
         "value": "座席法石",
         "docId": "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives",
         "seq": 800
+      },
+      {
+        "value": "观战座石",
+        "docId": "plot.xianni-ch862-jiuqu-tiandao",
+        "seq": 805
       }
     ],
     "用途": [
@@ -30,9 +36,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives",
+      "docId": "plot.xianni-ch862-jiuqu-tiandao",
       "dated": false,
-      "seq": 800
+      "seq": 805
     },
     "用途": {
       "asOf": null,
@@ -44,7 +50,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives"
+    "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives",
+    "plot.xianni-ch862-jiuqu-tiandao"
   ],
-  "updatedAt": "2026-08-23T14:28:11.195Z"
+  "updatedAt": "2026-08-23T14:35:53.410Z"
 }
