@@ -3,12 +3,13 @@
   "type": "technique",
   "name": "仙禁八法",
   "aliases": [
-    "仙禁八法禁制"
+    "仙禁八法禁制",
+    "仙禁八法（禁制体系）"
   ],
   "summary": "雷之仙界遗迹常见的仙家禁制体系，共八法；其中第四法讲究以四周环境错乱改变来隐瞒神识。",
   "attributes": {
-    "出处": "仙人遗迹／雷之仙界",
-    "效果": "第四法：以四周环境错乱改变隐瞒神识"
+    "出处": "仙界古老禁制传承",
+    "效果": "分为八法，第三法主蜃幻"
   },
   "observations": {
     "出处": [
@@ -16,6 +17,11 @@
         "value": "仙人遗迹／雷之仙界",
         "docId": "plot.xianni-ch754-ancient-god-hide-armor",
         "seq": 711
+      },
+      {
+        "value": "仙界古老禁制传承",
+        "docId": "plot.xianni-ch755-jinbian-transport-array-ambush",
+        "seq": 716
       }
     ],
     "效果": [
@@ -23,6 +29,11 @@
         "value": "第四法：以四周环境错乱改变隐瞒神识",
         "docId": "plot.xianni-ch754-ancient-god-hide-armor",
         "seq": 711
+      },
+      {
+        "value": "分为八法，第三法主蜃幻",
+        "docId": "plot.xianni-ch755-jinbian-transport-array-ambush",
+        "seq": 716
       }
     ]
   },
@@ -30,21 +41,22 @@
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch754-ancient-god-hide-armor",
+      "docId": "plot.xianni-ch755-jinbian-transport-array-ambush",
       "dated": false,
-      "seq": 711
+      "seq": 716
     },
     "效果": {
       "asOf": null,
-      "docId": "plot.xianni-ch754-ancient-god-hide-armor",
+      "docId": "plot.xianni-ch755-jinbian-transport-array-ambush",
       "dated": false,
-      "seq": 711
+      "seq": 716
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch754-ancient-god-hide-armor"
+    "plot.xianni-ch754-ancient-god-hide-armor",
+    "plot.xianni-ch755-jinbian-transport-array-ambush"
   ],
-  "updatedAt": "2026-08-23T05:37:55.675Z"
+  "updatedAt": "2026-08-23T05:39:45.584Z"
 }

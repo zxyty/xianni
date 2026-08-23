@@ -10,15 +10,18 @@
     "雷之仙界的碎片大陆",
     "碎片化作的大陆",
     "雷山所在碎片大陆",
-    "这碎片大陆"
+    "这碎片大陆",
+    "此处碎片大陆",
+    "仙界碎片大陆"
   ],
   "summary": "雷之仙界中一块崩溃的碎片大陆，王林的雷霆流星坠落于其东侧地面，砸出极深天坑；大陆本已不稳，受冲击后更加动荡。",
   "attributes": {
     "所属界面": "雷之仙界",
-    "类型": "崩溃碎片大陆、碎片大陆、界域碎片大陆",
-    "危险度": "高（濒临崩溃）、中（多为问鼎期修士出没，偶有阴虚修士）、高（有诱饵禁制与噬人天鬼）",
+    "类型": "崩溃碎片大陆、碎片大陆、界域碎片大陆、破碎的陆地/遗迹之地",
+    "危险度": "高（濒临崩溃）、中（多为问鼎期修士出没，偶有阴虚修士）、高（有诱饵禁制与噬人天鬼）、极高（古禁杀人夺宝，且有强敌神识锁定）",
     "特产": "散发仙力的法器碎片",
-    "规模": "极为辽阔"
+    "规模": "极为辽阔",
+    "守护": "蜃幻杀人禁制"
   },
   "observations": {
     "所属界面": [
@@ -43,6 +46,11 @@
         "value": "界域碎片大陆",
         "docId": "plot.xianni-ch742-mo-lian-daonian-storage",
         "seq": 701
+      },
+      {
+        "value": "破碎的陆地/遗迹之地",
+        "docId": "plot.xianni-ch755-jinbian-transport-array-ambush",
+        "seq": 716
       }
     ],
     "危险度": [
@@ -60,6 +68,11 @@
         "value": "高（有诱饵禁制与噬人天鬼）",
         "docId": "plot.xianni-ch743-li-yuan-tian-gui-trap",
         "seq": 701
+      },
+      {
+        "value": "极高（古禁杀人夺宝，且有强敌神识锁定）",
+        "docId": "plot.xianni-ch755-jinbian-transport-array-ambush",
+        "seq": 716
       }
     ],
     "特产": [
@@ -74,6 +87,13 @@
         "value": "极为辽阔",
         "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
         "seq": 701
+      }
+    ],
+    "守护": [
+      {
+        "value": "蜃幻杀人禁制",
+        "docId": "plot.xianni-ch755-jinbian-transport-array-ambush",
+        "seq": 716
       }
     ]
   },
@@ -108,6 +128,12 @@
       "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
       "dated": false,
       "seq": 701
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch755-jinbian-transport-array-ambush",
+      "dated": false,
+      "seq": 716
     }
   },
   "contested": false,
@@ -116,7 +142,8 @@
     "plot.xianni-ch736-lei-zhi-xianjie-gate",
     "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
     "plot.xianni-ch742-mo-lian-daonian-storage",
-    "plot.xianni-ch743-li-yuan-tian-gui-trap"
+    "plot.xianni-ch743-li-yuan-tian-gui-trap",
+    "plot.xianni-ch755-jinbian-transport-array-ambush"
   ],
-  "updatedAt": "2026-08-23T04:55:52.731Z"
+  "updatedAt": "2026-08-23T05:39:45.586Z"
 }
