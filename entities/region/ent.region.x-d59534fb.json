@@ -3,12 +3,14 @@
   "type": "region",
   "name": "昆虚星域",
   "aliases": [
-    "昆虚"
+    "昆虚",
+    "Kunxu Star Region"
   ],
   "summary": "雨之仙界之下的星域，本名昆虚，后更名，被世人称为「联盟」，其昆虚旧名已无人知晓。",
   "attributes": {
     "层次": "仙界之下的星域",
-    "特点": "本名昆虚，今称联盟"
+    "特点": "本名昆虚，今称联盟",
+    "主宰势力": "四圣宗"
   },
   "observations": {
     "层次": [
@@ -24,6 +26,14 @@
         "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
         "seq": 876,
         "note": "第945章清水揭示"
+      }
+    ],
+    "主宰势力": [
+      {
+        "value": "四圣宗",
+        "docId": "plot.xianni-ch899-903-linger-mo-dao-zi",
+        "seq": 899,
+        "note": "当年"
       }
     ]
   },
@@ -41,12 +51,20 @@
       "dated": false,
       "seq": 876,
       "note": "第945章清水揭示"
+    },
+    "主宰势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch899-903-linger-mo-dao-zi",
+      "dated": false,
+      "seq": 899,
+      "note": "当年"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin"
+    "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+    "plot.xianni-ch899-903-linger-mo-dao-zi"
   ],
-  "updatedAt": "2026-08-23T21:52:39.608Z"
+  "updatedAt": "2026-08-23T23:50:09.348Z"
 }

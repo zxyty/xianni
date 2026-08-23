@@ -4,7 +4,8 @@
   "name": "鬼眼城",
   "aliases": [
     "Gui Yan City",
-    "鬼眼拍卖城"
+    "鬼眼拍卖城",
+    "鬼眼城内"
   ],
   "summary": "天运星北部的圆形城池，因多年前拍卖一件完整仙术而成名；每次开启一个月，凭邀请简进入，拍卖处外可自由交易，城小住处有限。",
   "attributes": {
@@ -13,7 +14,8 @@
     "方位": "天运星北部",
     "规模": "不大，圆形城池，住处有限",
     "特产": "完整仙术拍卖、紫玉液拍卖会",
-    "守护": "禁制阵法、尘道三子"
+    "守护": "禁制阵法、尘道三子",
+    "危险度": "极高"
   },
   "observations": {
     "所属界面": [
@@ -73,6 +75,14 @@
         "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
         "seq": 895
       }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.xianni-ch899-903-linger-mo-dao-zi",
+        "seq": 899,
+        "note": "受一指篡天运威压波及，城墙坍塌"
+      }
     ]
   },
   "firstSeq": 895,
@@ -112,12 +122,20 @@
       "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
       "dated": false,
       "seq": 895
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch899-903-linger-mo-dao-zi",
+      "dated": false,
+      "seq": 899,
+      "note": "受一指篡天运威压波及，城墙坍塌"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo"
+    "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
+    "plot.xianni-ch899-903-linger-mo-dao-zi"
   ],
-  "updatedAt": "2026-08-23T23:30:36.692Z"
+  "updatedAt": "2026-08-23T23:50:09.345Z"
 }

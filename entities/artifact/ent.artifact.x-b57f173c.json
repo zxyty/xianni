@@ -3,13 +3,15 @@
   "type": "artifact",
   "name": "云铃",
   "aliases": [
-    "三个铃铛"
+    "三个铃铛",
+    "王林所赠铃铛"
   ],
   "summary": "程灵手腕所拴的三个铃铛法宝,晃动发出清脆铃音,铃音渐大化作春雷般攻击落下。",
   "attributes": {
-    "持有者": "程灵",
+    "持有者": "灵儿",
     "能力": "铃音化春雷般攻击,声波御敌",
-    "外形": "手腕所拴三个铃铛"
+    "外形": "铃铛三枚，摇动有清脆回荡之声",
+    "品阶": "不凡"
   },
   "observations": {
     "持有者": [
@@ -17,6 +19,12 @@
         "value": "程灵",
         "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
         "seq": 199
+      },
+      {
+        "value": "灵儿",
+        "docId": "plot.xianni-ch899-903-linger-mo-dao-zi",
+        "seq": 899,
+        "note": "第965章王林所赠"
       }
     ],
     "能力": [
@@ -31,6 +39,19 @@
         "value": "手腕所拴三个铃铛",
         "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
         "seq": 199
+      },
+      {
+        "value": "铃铛三枚，摇动有清脆回荡之声",
+        "docId": "plot.xianni-ch899-903-linger-mo-dao-zi",
+        "seq": 899
+      }
+    ],
+    "品阶": [
+      {
+        "value": "不凡",
+        "docId": "plot.xianni-ch899-903-linger-mo-dao-zi",
+        "seq": 899,
+        "note": "以一尘子见识一眼看出"
       }
     ]
   },
@@ -38,9 +59,10 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+      "docId": "plot.xianni-ch899-903-linger-mo-dao-zi",
       "dated": false,
-      "seq": 199
+      "seq": 899,
+      "note": "第965章王林所赠"
     },
     "能力": {
       "asOf": null,
@@ -50,15 +72,23 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+      "docId": "plot.xianni-ch899-903-linger-mo-dao-zi",
       "dated": false,
-      "seq": 199
+      "seq": 899
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-ch899-903-linger-mo-dao-zi",
+      "dated": false,
+      "seq": 899,
+      "note": "以一尘子见识一眼看出"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan"
+    "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+    "plot.xianni-ch899-903-linger-mo-dao-zi"
   ],
-  "updatedAt": "2026-07-08T13:23:07.463Z"
+  "updatedAt": "2026-08-23T23:50:09.245Z"
 }

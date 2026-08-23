@@ -4,12 +4,13 @@
   "name": "聚灵阵",
   "aliases": [
     "803洞府聚灵阵",
-    "小型聚灵阵"
+    "小型聚灵阵",
+    "凉亭聚灵阵"
   ],
   "summary": "把四周灵力凝聚而来、使范围内灵力大增的阵法，须布于灵眼之上方能生效；803洞府这一座结构复杂、含大量迷惑结构，阵眼下另藏阵中之阵。",
   "attributes": {
-    "效果": "凝聚四周灵力使范围内灵力大增、经伪阵眼自灵脉分出支线直连洞府",
-    "布置者": "炼魂宗",
+    "效果": "凝聚四周灵力使范围内灵力大增、经伪阵眼自灵脉分出支线直连洞府、使凉亭四周仙气永久循环",
+    "布置者": "尘道三子",
     "破解法": "以残影禁制轰击阵眼，阵法震散停转后可取出其内坤晶岩",
     "出处": "炼魂宗外围洞府"
   },
@@ -24,6 +25,11 @@
         "value": "经伪阵眼自灵脉分出支线直连洞府",
         "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
         "seq": 356
+      },
+      {
+        "value": "使凉亭四周仙气永久循环",
+        "docId": "plot.xianni-ch899-903-linger-mo-dao-zi",
+        "seq": 899
       }
     ],
     "布置者": [
@@ -31,6 +37,12 @@
         "value": "炼魂宗",
         "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
         "seq": 356
+      },
+      {
+        "value": "尘道三子",
+        "docId": "plot.xianni-ch899-903-linger-mo-dao-zi",
+        "seq": 899,
+        "note": "凉亭属其大院"
       }
     ],
     "破解法": [
@@ -58,9 +70,10 @@
     },
     "布置者": {
       "asOf": null,
-      "docId": "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+      "docId": "plot.xianni-ch899-903-linger-mo-dao-zi",
       "dated": false,
-      "seq": 356
+      "seq": 899,
+      "note": "凉亭属其大院"
     },
     "破解法": {
       "asOf": null,
@@ -78,7 +91,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo"
+    "plot.xianni-ch376-old-year-last-day-troll-ancestor-escapes-sword-soul-xu-liguo",
+    "plot.xianni-ch899-903-linger-mo-dao-zi"
   ],
-  "updatedAt": "2026-08-08T16:24:14.314Z"
+  "updatedAt": "2026-08-23T23:50:09.249Z"
 }
