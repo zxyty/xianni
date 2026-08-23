@@ -8,7 +8,8 @@
     "北部战场",
     "联盟北部战场",
     "北部星空",
-    "联盟北部星空"
+    "联盟北部星空",
+    "联盟北部禁区"
   ],
   "summary": "炎雷子约定一个月后待罗天后援来临即随军直入的进攻方向。",
   "attributes": {
@@ -16,8 +17,8 @@
     "所属势力": "修真联盟",
     "上级区域": "联盟星域",
     "类型": "战场星空、战场",
-    "规模": "数万里星空",
-    "危险度": "极高（古神一指崩溃可生生震死修士）"
+    "规模": "数万里星空、方圆数万里",
+    "危险度": "极高（古神一指崩溃可生生震死修士）、禁区"
   },
   "observations": {
     "方位": [
@@ -63,12 +64,22 @@
         "value": "数万里星空",
         "docId": "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian",
         "seq": 865
+      },
+      {
+        "value": "方圆数万里",
+        "docId": "plot.xianni-ch935-huanglong-siheng-zong-scheme-and-thunder-beast",
+        "seq": 865
       }
     ],
     "危险度": [
       {
         "value": "极高（古神一指崩溃可生生震死修士）",
         "docId": "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian",
+        "seq": 865
+      },
+      {
+        "value": "禁区",
+        "docId": "plot.xianni-ch935-huanglong-siheng-zong-scheme-and-thunder-beast",
         "seq": 865
       }
     ]
@@ -120,7 +131,8 @@
     "plot.xianni-ch923-toumingzhuang-yanleizi-vs-jixiantian",
     "plot.xianni-ch924-wang-lin-dingshen-jixiantian-great-merit",
     "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
-    "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian"
+    "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian",
+    "plot.xianni-ch935-huanglong-siheng-zong-scheme-and-thunder-beast"
   ],
-  "updatedAt": "2026-08-23T21:13:43.170Z"
+  "updatedAt": "2026-08-23T21:22:06.652Z"
 }
