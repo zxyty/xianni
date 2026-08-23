@@ -362,3 +362,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T19:25:51.910Z** `ingest` plot.xianni-ch907-zhuque-sequence — 第907章 朱雀序列：黄龙老道封第十八层，王林感悟符族本源 · kind=plot asOf=2026-08-23 entities=26 relations=41 src=00840-00844.p4.md
 - **2026-08-23T19:28:44.775Z** `ingest` plot.xianni-ch908-departure-zhuque-star-yu-fei-ambush — 仙逆 第908章 离去：老道相赠符族本源感悟、王林骑巨魔离开朱雀星、遭杀域界杀侍于非截杀 · kind=plot asOf=2026-08-23 entities=32 relations=36 src=00840-00844.p5.md
 - **2026-08-23T19:30:53.252Z** `ingest` plot.xianni-ch909-give-you-a-miracle-yufei-thunder-tree-branch-fusion — 第909章 给你一场奇迹：雷池压杀于非、天地雷树残枝破雷，本尊分身再融合 · kind=plot asOf=2026-08-23 entities=19 relations=25 src=00845-00849.p1.md
+- **2026-08-23T19:32:34.622Z** `ingest` plot.xianni-ch910-strongest-fusion-wang-lin-slays-yu-fei-avatars — 第910章 最强合体！！！——王林（许木）以古神之吼数息轰杀于非七分身 · kind=plot asOf=2026-08-23 entities=11 relations=18 src=00845-00849.p2.md

@@ -5,13 +5,16 @@
   "aliases": [
     "赤红之剑",
     "血光飞剑",
-    "血剑"
+    "血剑",
+    "五把赤红之剑",
+    "六把赤红之剑"
   ],
   "summary": "于非本命所持的七把赤红飞剑，煞气血腥可凝蟒状凶兽，每把可化出与其相貌一致的分身、每个分身再携七道剑光，共可成三十五把飞剑之围，能隔绝雷法于五十丈外。",
   "attributes": {
     "持有者": "于非",
-    "能力": "血雾化分身、结阵隔绝雷霆于五十丈外、煞气凝蟒状凶兽",
-    "外形": "赤红飞剑，环绕持有者周身"
+    "能力": "血雾化分身、结阵隔绝雷霆于五十丈外、煞气凝蟒状凶兽、剑碎化作窥涅初期分身、可如窥涅初期修士般全力攻击",
+    "外形": "赤红之剑",
+    "五行属性": "火（赤红）"
   },
   "observations": {
     "持有者": [
@@ -36,6 +39,16 @@
         "value": "煞气凝蟒状凶兽",
         "docId": "plot.xianni-ch908-departure-zhuque-star-yu-fei-ambush",
         "seq": 840
+      },
+      {
+        "value": "剑碎化作窥涅初期分身",
+        "docId": "plot.xianni-ch910-strongest-fusion-wang-lin-slays-yu-fei-avatars",
+        "seq": 845
+      },
+      {
+        "value": "可如窥涅初期修士般全力攻击",
+        "docId": "plot.xianni-ch910-strongest-fusion-wang-lin-slays-yu-fei-avatars",
+        "seq": 845
       }
     ],
     "外形": [
@@ -43,6 +56,18 @@
         "value": "赤红飞剑，环绕持有者周身",
         "docId": "plot.xianni-ch908-departure-zhuque-star-yu-fei-ambush",
         "seq": 840
+      },
+      {
+        "value": "赤红之剑",
+        "docId": "plot.xianni-ch910-strongest-fusion-wang-lin-slays-yu-fei-avatars",
+        "seq": 845
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "火（赤红）",
+        "docId": "plot.xianni-ch910-strongest-fusion-wang-lin-slays-yu-fei-avatars",
+        "seq": 845
       }
     ]
   },
@@ -62,15 +87,22 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch908-departure-zhuque-star-yu-fei-ambush",
+      "docId": "plot.xianni-ch910-strongest-fusion-wang-lin-slays-yu-fei-avatars",
       "dated": false,
-      "seq": 840
+      "seq": 845
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.xianni-ch910-strongest-fusion-wang-lin-slays-yu-fei-avatars",
+      "dated": false,
+      "seq": 845
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch908-departure-zhuque-star-yu-fei-ambush"
+    "plot.xianni-ch908-departure-zhuque-star-yu-fei-ambush",
+    "plot.xianni-ch910-strongest-fusion-wang-lin-slays-yu-fei-avatars"
   ],
-  "updatedAt": "2026-08-23T19:28:44.576Z"
+  "updatedAt": "2026-08-23T19:32:34.421Z"
 }
