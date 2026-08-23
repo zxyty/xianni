@@ -348,3 +348,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T17:59:23.967Z** `ingest` plot.xianni-ch891-servant-seal-datou-tongzi — 第891章 仆从——王林重创大头童子并以仙元奴印收其为仆 · kind=plot asOf=2026-08-23 entities=25 relations=31 src=00830-00833.p3.md
 - **2026-08-23T18:01:56.130Z** `ingest` plot.xianni-ch892-wang-lin-returns-home-zhuque-star — 《仙逆》第892章 回家：王林封印大头童子、重返朱雀星故乡皇祖城 · kind=plot asOf=2026-08-23 entities=25 relations=45 src=00830-00833.p4.md
 - **2026-08-23T18:03:50.288Z** `ingest` plot.xianni-ch893-thank-you-wang-lin-returns-to-ancestral-home — 第893章 谢谢你们｜王林重返赵国皇祖城祖宅祭拜父母 · kind=plot asOf=2026-08-23 entities=16 relations=29 src=00834-00838.p1.md
+- **2026-08-23T18:05:51.019Z** `ingest` plot.xianni-ch894-da-wang-chao-grievance-qi — 第894章 大王朝：王林归乡见后人兴盛与怨气冲天 · kind=plot asOf=2026-08-23 entities=16 relations=26 src=00834-00838.p2.md
