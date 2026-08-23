@@ -4,12 +4,14 @@
   "name": "两张黄色纸符",
   "aliases": [
     "黄色纸符",
-    "两个黄色的纸符"
+    "两个黄色的纸符",
+    "姚家黄色纸符"
   ],
   "summary": "王林持有的两张来历不明的黄色纸符，至本章仍看不出作用。",
   "attributes": {
-    "类型": "纸符",
-    "用途": "未知"
+    "类型": "符箓",
+    "用途": "封印敌人全身之力",
+    "产地": "罗天星域姚家"
   },
   "observations": {
     "类型": [
@@ -17,6 +19,11 @@
         "value": "纸符",
         "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
         "seq": 764
+      },
+      {
+        "value": "符箓",
+        "docId": "plot.xianni-ch904-tanmi-xianyi",
+        "seq": 840
       }
     ],
     "用途": [
@@ -25,6 +32,18 @@
         "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
         "seq": 764,
         "note": "王林至第814章仍看不出其作用"
+      },
+      {
+        "value": "封印敌人全身之力",
+        "docId": "plot.xianni-ch904-tanmi-xianyi",
+        "seq": 840
+      }
+    ],
+    "产地": [
+      {
+        "value": "罗天星域姚家",
+        "docId": "plot.xianni-ch904-tanmi-xianyi",
+        "seq": 840
       }
     ]
   },
@@ -32,22 +51,28 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
+      "docId": "plot.xianni-ch904-tanmi-xianyi",
       "dated": false,
-      "seq": 764
+      "seq": 840
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
+      "docId": "plot.xianni-ch904-tanmi-xianyi",
       "dated": false,
-      "seq": 764,
-      "note": "王林至第814章仍看不出其作用"
+      "seq": 840
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch904-tanmi-xianyi",
+      "dated": false,
+      "seq": 840
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch764-765-tashan-xianwei-cangpinge"
+    "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
+    "plot.xianni-ch904-tanmi-xianyi"
   ],
-  "updatedAt": "2026-08-23T10:56:47.337Z"
+  "updatedAt": "2026-08-23T19:18:13.914Z"
 }

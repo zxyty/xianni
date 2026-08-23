@@ -12,9 +12,9 @@
   "summary": "远古修真家族召书中许诺之地，一百零八仙可入其中化体元为仙元、成就真仙。",
   "attributes": {
     "所属势力": "雷仙殿",
-    "类型": "秘境/圣地、秘境/修行圣地、化去意境、天元融仙之池、考验之地、机缘之地、秘境/池",
+    "类型": "秘境/圣地、秘境/修行圣地、化去意境、天元融仙之池、考验之地、机缘之地、秘境/池、秘境／池",
     "所属界面": "罗天星域",
-    "危险度": "需化去意境",
+    "危险度": "弊端太多",
     "特产": "仙元"
   },
   "observations": {
@@ -60,6 +60,11 @@
         "value": "秘境/池",
         "docId": "plot.xianni-ch891-servant-seal-datou-tongzi",
         "seq": 830
+      },
+      {
+        "value": "秘境／池",
+        "docId": "plot.xianni-ch904-tanmi-xianyi",
+        "seq": 840
       }
     ],
     "所属界面": [
@@ -75,6 +80,12 @@
         "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
         "seq": 817,
         "note": "代价未明"
+      },
+      {
+        "value": "弊端太多",
+        "docId": "plot.xianni-ch904-tanmi-xianyi",
+        "seq": 840,
+        "note": "王林据此拒绝进入"
       }
     ],
     "特产": [
@@ -107,10 +118,10 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
+      "docId": "plot.xianni-ch904-tanmi-xianyi",
       "dated": false,
-      "seq": 817,
-      "note": "代价未明"
+      "seq": 840,
+      "note": "王林据此拒绝进入"
     },
     "特产": {
       "asOf": null,
@@ -129,7 +140,8 @@
     "plot.xianni-ch880-shengxian-chi-fengxian-shi-wanwer",
     "plot.xianni-885-qingshui-gift-seven-eve-technique",
     "plot.xianni-ch889-wang-lin-returns-zhuque-star",
-    "plot.xianni-ch891-servant-seal-datou-tongzi"
+    "plot.xianni-ch891-servant-seal-datou-tongzi",
+    "plot.xianni-ch904-tanmi-xianyi"
   ],
-  "updatedAt": "2026-08-23T17:59:23.774Z"
+  "updatedAt": "2026-08-23T19:18:13.917Z"
 }

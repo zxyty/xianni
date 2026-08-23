@@ -6,14 +6,16 @@
     "仙遗族祖符",
     "五祖祖符",
     "祖符符文",
-    "破损黑色符号"
+    "破损黑色符号",
+    "血红色符号"
   ],
   "summary": "手掌大小、纹路极为复杂的符文，蕴含开天辟地般的洪荒之气，为五祖达到九叶后完善而成，本章交予尸阴宗司马长老。",
   "attributes": {
     "外形": "极为复杂、散发沧桑气息的符文；破损黑色符号",
     "来历": "仙遗族术咒师所持，烙印于其头骨之上",
     "持有者": "八叶术咒师",
-    "能力": "蕴含开天辟地时的一点洪荒之气、阻挡蕴含仙力的攻击、传出浩淼之力迟滞对手"
+    "能力": "蕴含开天辟地时的一点洪荒之气、阻挡蕴含仙力的攻击、传出浩淼之力迟滞对手",
+    "品阶": "祖传级"
   },
   "observations": {
     "外形": [
@@ -69,6 +71,13 @@
         "docId": "plot.xianni-ch432-ancestral-rune-skull",
         "seq": 410
       }
+    ],
+    "品阶": [
+      {
+        "value": "祖传级",
+        "docId": "plot.xianni-ch904-tanmi-xianyi",
+        "seq": 840
+      }
     ]
   },
   "firstSeq": 405,
@@ -96,13 +105,20 @@
       "docId": "plot.xianni-ch427-ancestral-spirit-tree",
       "dated": false,
       "seq": 405
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-ch904-tanmi-xianyi",
+      "dated": false,
+      "seq": 840
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch427-ancestral-spirit-tree",
-    "plot.xianni-ch432-ancestral-rune-skull"
+    "plot.xianni-ch432-ancestral-rune-skull",
+    "plot.xianni-ch904-tanmi-xianyi"
   ],
-  "updatedAt": "2026-08-17T19:46:41.341Z"
+  "updatedAt": "2026-08-23T19:18:13.911Z"
 }
