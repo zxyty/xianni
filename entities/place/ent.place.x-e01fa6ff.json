@@ -15,7 +15,8 @@
     "方位": "罗天星域南部",
     "上级区域": "罗天星域",
     "危险度": "极高",
-    "规模": "含三大主星"
+    "规模": "含三大主星",
+    "类型": "星域分区"
   },
   "observations": {
     "方位": [
@@ -52,6 +53,13 @@
         "docId": "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives",
         "seq": 800
       }
+    ],
+    "类型": [
+      {
+        "value": "星域分区",
+        "docId": "plot.xianni-ch861-baoen-luotian-nanyu-first-seat",
+        "seq": 805
+      }
     ]
   },
   "firstSeq": 674,
@@ -80,6 +88,12 @@
       "docId": "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives",
       "dated": false,
       "seq": 800
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-ch861-baoen-luotian-nanyu-first-seat",
+      "dated": false,
+      "seq": 805
     }
   },
   "contested": false,
@@ -101,7 +115,8 @@
     "plot.xianni-857-the-third-step",
     "plot.xianni-ch858-target-108-immortals-poluo-xinjin",
     "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives",
-    "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou"
+    "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou",
+    "plot.xianni-ch861-baoen-luotian-nanyu-first-seat"
   ],
-  "updatedAt": "2026-08-23T14:30:10.199Z"
+  "updatedAt": "2026-08-23T14:33:11.042Z"
 }

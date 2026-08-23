@@ -12,21 +12,24 @@
     "唐家少主",
     "唐言枫少主",
     "南域三杰之唐言枫",
-    "唐道友"
+    "唐道友",
+    "唐家唐言枫"
   ],
   "summary": "蓝衫、面色苍白无血色、双眼阴森冰冷的中年修士，与申公虎同辈，在雷门下讥讽申公虎依附他人与道魂不全。",
   "attributes": {
     "性别": "男",
     "外貌": "相貌极为英俊，双唇略薄，目光阴沉",
     "性格": "阴沉、语带讥讽、谨慎、能忍、冷酷、果断、审时度势、面色阴沉、能分轻重、阴冷、借刀杀人、阴沉、谨慎、阴沉",
-    "身份": "在雷之仙界门下候场的修士、闯入者一方的领头人物、唐家少主、唐家领头人、曾在雷之仙界大门外嘲讽申公虎、南域封号争夺资格者",
+    "身份": "在雷之仙界门下候场的修士、闯入者一方的领头人物、唐家少主、唐家领头人、曾在雷之仙界大门外嘲讽申公虎、南域封号争夺资格者、唐家族人",
     "阵营": "与王林敌对",
     "称号": "南域三杰",
     "小阶段": "阳实巅峰",
     "出身地": "罗天南域",
-    "存殁": "重伤未死",
+    "存殁": "死亡",
     "本命法宝": "红色长剑",
-    "标志特征": "神通化作血色红莲"
+    "标志特征": "神通化作血色红莲",
+    "死因": "被王林预先留在体内的隐藏力量引爆，肉身崩溃、元神碎灭",
+    "结局": "形神俱灭于地炎星封仙之争会场"
   },
   "observations": {
     "性别": [
@@ -116,6 +119,11 @@
         "value": "南域封号争夺资格者",
         "docId": "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives",
         "seq": 800
+      },
+      {
+        "value": "唐家族人",
+        "docId": "plot.xianni-ch861-baoen-luotian-nanyu-first-seat",
+        "seq": 805
       }
     ],
     "阵营": [
@@ -166,6 +174,11 @@
         "value": "重伤未死",
         "docId": "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou",
         "seq": 800
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch861-baoen-luotian-nanyu-first-seat",
+        "seq": 805
       }
     ],
     "本命法宝": [
@@ -180,6 +193,20 @@
         "value": "神通化作血色红莲",
         "docId": "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou",
         "seq": 800
+      }
+    ],
+    "死因": [
+      {
+        "value": "被王林预先留在体内的隐藏力量引爆，肉身崩溃、元神碎灭",
+        "docId": "plot.xianni-ch861-baoen-luotian-nanyu-first-seat",
+        "seq": 805
+      }
+    ],
+    "结局": [
+      {
+        "value": "形神俱灭于地炎星封仙之争会场",
+        "docId": "plot.xianni-ch861-baoen-luotian-nanyu-first-seat",
+        "seq": 805
       }
     ]
   },
@@ -236,9 +263,9 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou",
+      "docId": "plot.xianni-ch861-baoen-luotian-nanyu-first-seat",
       "dated": false,
-      "seq": 800
+      "seq": 805
     },
     "本命法宝": {
       "asOf": null,
@@ -251,6 +278,18 @@
       "docId": "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou",
       "dated": false,
       "seq": 800
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch861-baoen-luotian-nanyu-first-seat",
+      "dated": false,
+      "seq": 805
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch861-baoen-luotian-nanyu-first-seat",
+      "dated": false,
+      "seq": 805
     }
   },
   "contested": false,
@@ -263,7 +302,8 @@
     "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
     "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
     "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives",
-    "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou"
+    "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou",
+    "plot.xianni-ch861-baoen-luotian-nanyu-first-seat"
   ],
-  "updatedAt": "2026-08-23T14:30:10.189Z"
+  "updatedAt": "2026-08-23T14:33:11.024Z"
 }

@@ -12,7 +12,8 @@
     "性别": "女",
     "性格": "机敏、表面恭敬内心鄙夷",
     "存殁": "在世",
-    "阵营": "战家"
+    "阵营": "战家",
+    "身份": "雷仙界获救者之一"
   },
   "observations": {
     "性别": [
@@ -42,6 +43,13 @@
         "docId": "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives",
         "seq": 800
       }
+    ],
+    "身份": [
+      {
+        "value": "雷仙界获救者之一",
+        "docId": "plot.xianni-ch861-baoen-luotian-nanyu-first-seat",
+        "seq": 805
+      }
     ]
   },
   "firstSeq": 751,
@@ -69,13 +77,20 @@
       "docId": "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives",
       "dated": false,
       "seq": 800
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch861-baoen-luotian-nanyu-first-seat",
+      "dated": false,
+      "seq": 805
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
-    "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives"
+    "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives",
+    "plot.xianni-ch861-baoen-luotian-nanyu-first-seat"
   ],
-  "updatedAt": "2026-08-23T14:28:11.150Z"
+  "updatedAt": "2026-08-23T14:33:11.028Z"
 }

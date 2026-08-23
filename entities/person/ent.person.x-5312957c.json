@@ -4,13 +4,15 @@
   "name": "雷仙殿紫衣老者",
   "aliases": [
     "紫衣老者",
-    "雷仙殿的紫衣老者"
+    "雷仙殿的紫衣老者",
+    "雷仙殿使者紫衣老者"
   ],
   "summary": "来自雷仙殿的紫衣老者，是全场唯一在王林滔天战意下始终闭目平静、毫无变化之人。",
   "attributes": {
-    "外貌": "身穿紫衣的老者",
-    "身份": "雷仙殿一方之人",
-    "性格": "沉静不动"
+    "外貌": "身穿紫衣的老者，始终闭目",
+    "身份": "雷仙殿使者",
+    "性格": "沉静不动",
+    "小阶段": "窥涅后期巅峰或净涅期"
   },
   "observations": {
     "外貌": [
@@ -18,6 +20,11 @@
         "value": "身穿紫衣的老者",
         "docId": "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou",
         "seq": 800
+      },
+      {
+        "value": "身穿紫衣的老者，始终闭目",
+        "docId": "plot.xianni-ch861-baoen-luotian-nanyu-first-seat",
+        "seq": 805
       }
     ],
     "身份": [
@@ -25,6 +32,11 @@
         "value": "雷仙殿一方之人",
         "docId": "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou",
         "seq": 800
+      },
+      {
+        "value": "雷仙殿使者",
+        "docId": "plot.xianni-ch861-baoen-luotian-nanyu-first-seat",
+        "seq": 805
       }
     ],
     "性格": [
@@ -33,33 +45,49 @@
         "docId": "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou",
         "seq": 800
       }
+    ],
+    "小阶段": [
+      {
+        "value": "窥涅后期巅峰或净涅期",
+        "docId": "plot.xianni-ch861-baoen-luotian-nanyu-first-seat",
+        "seq": 805,
+        "note": "王林推测，未确证"
+      }
     ]
   },
   "firstSeq": 800,
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou",
+      "docId": "plot.xianni-ch861-baoen-luotian-nanyu-first-seat",
       "dated": false,
-      "seq": 800
+      "seq": 805
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou",
+      "docId": "plot.xianni-ch861-baoen-luotian-nanyu-first-seat",
       "dated": false,
-      "seq": 800
+      "seq": 805
     },
     "性格": {
       "asOf": null,
       "docId": "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou",
       "dated": false,
       "seq": 800
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch861-baoen-luotian-nanyu-first-seat",
+      "dated": false,
+      "seq": 805,
+      "note": "王林推测，未确证"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou"
+    "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou",
+    "plot.xianni-ch861-baoen-luotian-nanyu-first-seat"
   ],
-  "updatedAt": "2026-08-23T14:30:10.192Z"
+  "updatedAt": "2026-08-23T14:33:11.026Z"
 }

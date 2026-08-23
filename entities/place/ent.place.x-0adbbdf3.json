@@ -4,13 +4,14 @@
   "name": "地炎星",
   "aliases": [
     "罗天南域地炎星",
-    "地炎星球"
+    "地炎星球",
+    "Di Yan Star"
   ],
   "summary": "罗天南域三大主星之一，本次南域封号之争的举办地；星外千里为战场光幕，十万里外由修士环形封锁。",
   "attributes": {
-    "类型": "主星/修真星球、星球·资格争夺战场",
+    "类型": "主星/修真星球、星球·资格争夺战场、修真星球",
     "上级区域": "罗天南域",
-    "方位": "罗天南域三大主星之一",
+    "方位": "罗天星域南域",
     "守护": "十万里外每隔千里一名修士的环形封锁",
     "规模": "外围十万里、三万里、千里光幕分层"
   },
@@ -25,6 +26,11 @@
         "value": "星球·资格争夺战场",
         "docId": "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou",
         "seq": 800
+      },
+      {
+        "value": "修真星球",
+        "docId": "plot.xianni-ch861-baoen-luotian-nanyu-first-seat",
+        "seq": 805
       }
     ],
     "上级区域": [
@@ -39,6 +45,11 @@
         "value": "罗天南域三大主星之一",
         "docId": "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives",
         "seq": 800
+      },
+      {
+        "value": "罗天星域南域",
+        "docId": "plot.xianni-ch861-baoen-luotian-nanyu-first-seat",
+        "seq": 805
       }
     ],
     "守护": [
@@ -72,9 +83,9 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives",
+      "docId": "plot.xianni-ch861-baoen-luotian-nanyu-first-seat",
       "dated": false,
-      "seq": 800
+      "seq": 805
     },
     "守护": {
       "asOf": null,
@@ -93,7 +104,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives",
-    "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou"
+    "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou",
+    "plot.xianni-ch861-baoen-luotian-nanyu-first-seat"
   ],
-  "updatedAt": "2026-08-23T14:30:10.198Z"
+  "updatedAt": "2026-08-23T14:33:11.041Z"
 }
