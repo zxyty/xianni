@@ -10,20 +10,23 @@
     "吴宇师弟",
     "尸阴宗宗主",
     "尸阴宗夜自在",
-    "尸阴宗宗主大人"
+    "尸阴宗宗主大人",
+    "当年的夜自在",
+    "干尸偷袭者"
   ],
   "summary": "吴宇的师兄，尸阴宗修士；吴宇托王林前往尸阴宗寻其相救。",
   "attributes": {
     "身份": "尸阴宗修士、尸阴宗始祖、神识体、尸阴宗宗主、赵国尸阴宗宗主",
-    "小阶段": "元婴期",
-    "外貌": "四十许岁英俊中年人",
+    "小阶段": "问鼎",
+    "外貌": "全身干瘦如干尸、画满符文、散发恶臭、双目昏暗",
     "本命法宝": "蓝炎魔火",
-    "存殁": "存活、存",
+    "存殁": "存活、存、死亡",
     "阵营": "尸阴宗、魔道、魔道·尸阴宗、王林必杀名单",
     "性格": "阴沉护短",
     "标志特征": "寄魂于赵传良体内",
     "寿元": "不足三个月",
-    "结局": "夺舍失败"
+    "结局": "沦为尸阴宗尸傀，形神俱灭",
+    "死因": "被王林一脚踢碎，自双腿起崩溃化作飞灰（第897章）"
   },
   "observations": {
     "身份": [
@@ -60,6 +63,11 @@
         "value": "元婴期",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
+      },
+      {
+        "value": "问鼎",
+        "docId": "plot.xianni-ch897-feng-sao-can-ye-wang-lin-qing-jiao-shi-yin-zong",
+        "seq": 834
       }
     ],
     "外貌": [
@@ -68,6 +76,12 @@
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80,
         "note": "婴火凝成的投影相"
+      },
+      {
+        "value": "全身干瘦如干尸、画满符文、散发恶臭、双目昏暗",
+        "docId": "plot.xianni-ch897-feng-sao-can-ye-wang-lin-qing-jiao-shi-yin-zong",
+        "seq": 834,
+        "note": "被炼为尸傀后"
       }
     ],
     "本命法宝": [
@@ -88,6 +102,11 @@
         "value": "存",
         "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
         "seq": 80
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch897-feng-sao-can-ye-wang-lin-qing-jiao-shi-yin-zong",
+        "seq": 834
       }
     ],
     "阵营": [
@@ -145,6 +164,18 @@
         "docId": "plot.xianni-ch147-150-shendaoshu-deal",
         "seq": 147,
         "note": "肉身被五级宗国收走"
+      },
+      {
+        "value": "沦为尸阴宗尸傀，形神俱灭",
+        "docId": "plot.xianni-ch897-feng-sao-can-ye-wang-lin-qing-jiao-shi-yin-zong",
+        "seq": 834
+      }
+    ],
+    "死因": [
+      {
+        "value": "被王林一脚踢碎，自双腿起崩溃化作飞灰（第897章）",
+        "docId": "plot.xianni-ch897-feng-sao-can-ye-wang-lin-qing-jiao-shi-yin-zong",
+        "seq": 834
       }
     ]
   },
@@ -158,16 +189,16 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "docId": "plot.xianni-ch897-feng-sao-can-ye-wang-lin-qing-jiao-shi-yin-zong",
       "dated": false,
-      "seq": 80
+      "seq": 834
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
+      "docId": "plot.xianni-ch897-feng-sao-can-ye-wang-lin-qing-jiao-shi-yin-zong",
       "dated": false,
-      "seq": 80,
-      "note": "婴火凝成的投影相"
+      "seq": 834,
+      "note": "被炼为尸傀后"
     },
     "本命法宝": {
       "asOf": null,
@@ -209,10 +240,15 @@
     },
     "结局": {
       "asOf": null,
-      "docId": "plot.xianni-ch147-150-shendaoshu-deal",
+      "docId": "plot.xianni-ch897-feng-sao-can-ye-wang-lin-qing-jiao-shi-yin-zong",
       "dated": false,
-      "seq": 147,
-      "note": "肉身被五级宗国收走"
+      "seq": 834
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch897-feng-sao-can-ye-wang-lin-qing-jiao-shi-yin-zong",
+      "dated": false,
+      "seq": 834
     }
   },
   "contested": false,
@@ -224,7 +260,8 @@
     "lore.xianni-ch105-jijing-realm",
     "plot.xianni-ch147-150-shendaoshu-deal",
     "plot.xianni-ch186-187-two-hundred-years-silence",
-    "plot.xianni-ch427-ancestral-spirit-tree"
+    "plot.xianni-ch427-ancestral-spirit-tree",
+    "plot.xianni-ch897-feng-sao-can-ye-wang-lin-qing-jiao-shi-yin-zong"
   ],
-  "updatedAt": "2026-08-17T19:16:48.565Z"
+  "updatedAt": "2026-08-23T18:13:51.100Z"
 }

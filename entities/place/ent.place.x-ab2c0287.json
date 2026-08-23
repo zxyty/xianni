@@ -8,17 +8,19 @@
     "王家都城",
     "朱雀星都城",
     "大王朝皇宫",
-    "王家所在王朝"
+    "王家所在王朝",
+    "朱雀星大王朝"
   ],
   "summary": "朱雀星上除仙遗族占据之地外、朱雀国范围内唯一的凡间帝国及其都城，建国四百三十七年，皇族王姓。",
   "attributes": {
-    "类型": "凡间帝国/都城、王朝都城、王朝/都城",
+    "类型": "凡间帝国/都城、王朝都城、王朝/都城、凡人王朝",
     "所属界面": "朱雀星",
     "上级区域": "朱雀国",
-    "规模": "建国四百三十七年，除仙遗族选族部落外朱雀星最强凡间力量",
+    "规模": "建国四百三十七年，除仙遗族选族部落外朱雀星最强凡间力量、都城 + 金木水火土五大副城 + 众多外围城池",
     "守护": "城中大量禁制阵法、云天宗、赵国各门派、众多修士师门（因王家出了王林而相助）",
     "危险度": "禁制全开对问鼎修士亦有威胁、滔天怨气弥漫，暗有人操控养怨灵",
-    "所属势力": "朱雀星王家"
+    "所属势力": "朱雀星王家",
+    "特产": "怨气"
   },
   "observations": {
     "类型": [
@@ -35,6 +37,11 @@
       {
         "value": "王朝/都城",
         "docId": "plot.xianni-ch896-shi-yin-zong-zhu-que-star-wang-family-rescue",
+        "seq": 834
+      },
+      {
+        "value": "凡人王朝",
+        "docId": "plot.xianni-ch897-feng-sao-can-ye-wang-lin-qing-jiao-shi-yin-zong",
         "seq": 834
       }
     ],
@@ -56,6 +63,11 @@
       {
         "value": "建国四百三十七年，除仙遗族选族部落外朱雀星最强凡间力量",
         "docId": "plot.xianni-ch894-da-wang-chao-grievance-qi",
+        "seq": 834
+      },
+      {
+        "value": "都城 + 金木水火土五大副城 + 众多外围城池",
+        "docId": "plot.xianni-ch897-feng-sao-can-ye-wang-lin-qing-jiao-shi-yin-zong",
         "seq": 834
       }
     ],
@@ -100,6 +112,14 @@
         "value": "朱雀星王家",
         "docId": "plot.xianni-ch895-wanglin-nu-zhuque-wangchao-yuanling",
         "seq": 834
+      }
+    ],
+    "特产": [
+      {
+        "value": "怨气",
+        "docId": "plot.xianni-ch897-feng-sao-can-ye-wang-lin-qing-jiao-shi-yin-zong",
+        "seq": 834,
+        "note": "被尸阴宗搜集"
       }
     ]
   },
@@ -147,6 +167,13 @@
       "docId": "plot.xianni-ch895-wanglin-nu-zhuque-wangchao-yuanling",
       "dated": false,
       "seq": 834
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch897-feng-sao-can-ye-wang-lin-qing-jiao-shi-yin-zong",
+      "dated": false,
+      "seq": 834,
+      "note": "被尸阴宗搜集"
     }
   },
   "contested": false,
@@ -154,7 +181,8 @@
   "docs": [
     "plot.xianni-ch894-da-wang-chao-grievance-qi",
     "plot.xianni-ch895-wanglin-nu-zhuque-wangchao-yuanling",
-    "plot.xianni-ch896-shi-yin-zong-zhu-que-star-wang-family-rescue"
+    "plot.xianni-ch896-shi-yin-zong-zhu-que-star-wang-family-rescue",
+    "plot.xianni-ch897-feng-sao-can-ye-wang-lin-qing-jiao-shi-yin-zong"
   ],
-  "updatedAt": "2026-08-23T18:11:16.438Z"
+  "updatedAt": "2026-08-23T18:13:51.104Z"
 }

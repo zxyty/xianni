@@ -7,15 +7,16 @@
     "棺木男子",
     "干枯男子",
     "尸傀怪物",
-    "干尸"
+    "干尸",
+    "尸阴宗尸傀"
   ],
   "summary": "吴宇祭炼的尸体傀儡，叛变重伤吴宇并脱离控制，已生神智达元婴中期，欲吞吴宇元婴脱束缚。",
   "attributes": {
-    "本体来源": "干尸",
+    "本体来源": "修士尸身（含问鼎修士）",
     "操控者": "周刚",
-    "炼制者": "吴宇",
-    "能力": "生神智、达元婴中期；离吴宇超百里则烟消云散；每活动一段须长眠百年、吸食活人修为、拟态主人相貌、黑气抓击",
-    "外形": "黑色长毛干尸，双眼绿光"
+    "炼制者": "尸阴宗",
+    "能力": "生神智、达元婴中期；离吴宇超百里则烟消云散；每活动一段须长眠百年、吸食活人修为、拟态主人相貌、黑气抓击、可施展问鼎级剑光与法诀偷袭",
+    "外形": "干瘦如干尸、周身符文、散发恶臭"
   },
   "observations": {
     "本体来源": [
@@ -28,6 +29,11 @@
         "value": "干尸",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
+      },
+      {
+        "value": "修士尸身（含问鼎修士）",
+        "docId": "plot.xianni-ch897-feng-sao-can-ye-wang-lin-qing-jiao-shi-yin-zong",
+        "seq": 834
       }
     ],
     "操控者": [
@@ -58,6 +64,11 @@
         "value": "吴宇",
         "docId": "plot.xianni-ch091-jiyin-lingli",
         "seq": 76
+      },
+      {
+        "value": "尸阴宗",
+        "docId": "plot.xianni-ch897-feng-sao-can-ye-wang-lin-qing-jiao-shi-yin-zong",
+        "seq": 834
       }
     ],
     "能力": [
@@ -80,6 +91,11 @@
         "value": "黑气抓击",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
+      },
+      {
+        "value": "可施展问鼎级剑光与法诀偷袭",
+        "docId": "plot.xianni-ch897-feng-sao-can-ye-wang-lin-qing-jiao-shi-yin-zong",
+        "seq": 834
       }
     ],
     "外形": [
@@ -92,6 +108,11 @@
         "value": "黑色长毛干尸，双眼绿光",
         "docId": "plot.xianni-ch85-89-jilian-jianqiao",
         "seq": 85
+      },
+      {
+        "value": "干瘦如干尸、周身符文、散发恶臭",
+        "docId": "plot.xianni-ch897-feng-sao-can-ye-wang-lin-qing-jiao-shi-yin-zong",
+        "seq": 834
       }
     ]
   },
@@ -99,9 +120,9 @@
   "attrProvenance": {
     "本体来源": {
       "asOf": null,
-      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+      "docId": "plot.xianni-ch897-feng-sao-can-ye-wang-lin-qing-jiao-shi-yin-zong",
       "dated": false,
-      "seq": 111
+      "seq": 834
     },
     "操控者": {
       "asOf": null,
@@ -111,9 +132,9 @@
     },
     "炼制者": {
       "asOf": null,
-      "docId": "plot.xianni-ch091-jiyin-lingli",
+      "docId": "plot.xianni-ch897-feng-sao-can-ye-wang-lin-qing-jiao-shi-yin-zong",
       "dated": false,
-      "seq": 76
+      "seq": 834
     },
     "能力": {
       "asOf": null,
@@ -123,9 +144,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch85-89-jilian-jianqiao",
+      "docId": "plot.xianni-ch897-feng-sao-can-ye-wang-lin-qing-jiao-shi-yin-zong",
       "dated": false,
-      "seq": 85
+      "seq": 834
     }
   },
   "contested": false,
@@ -134,7 +155,8 @@
     "plot.xianni-ch091-jiyin-lingli",
     "plot.xianni-ch80-84-wanglin-enters-shiyinzong",
     "plot.xianni-ch85-89-jilian-jianqiao",
-    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo"
+    "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+    "plot.xianni-ch897-feng-sao-can-ye-wang-lin-qing-jiao-shi-yin-zong"
   ],
-  "updatedAt": "2026-07-05T04:42:11.870Z"
+  "updatedAt": "2026-08-23T18:13:51.103Z"
 }

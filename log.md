@@ -351,3 +351,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T18:05:51.019Z** `ingest` plot.xianni-ch894-da-wang-chao-grievance-qi — 第894章 大王朝：王林归乡见后人兴盛与怨气冲天 · kind=plot asOf=2026-08-23 entities=16 relations=26 src=00834-00838.p2.md
 - **2026-08-23T18:08:37.700Z** `ingest` plot.xianni-ch895-wanglin-nu-zhuque-wangchao-yuanling — 第895章 怒：王林怒破怨灵，直闯朱雀星王家皇城 · kind=plot asOf=2026-08-23 entities=23 relations=37 src=00834-00838.p3.md
 - **2026-08-23T18:11:16.667Z** `ingest` plot.xianni-ch896-shi-yin-zong-zhu-que-star-wang-family-rescue — 第896章 尸阴宗——王林破怨灵、诛凤栾星七凤女修，誓拔尸阴宗 · kind=plot asOf=2026-08-23 entities=24 relations=37 src=00834-00838.p4.md
+- **2026-08-23T18:13:51.308Z** `ingest` plot.xianni-ch897-feng-sao-can-ye-wang-lin-qing-jiao-shi-yin-zong — 第897章 风扫残叶：王林以窥涅神识横扫大王朝，覆灭赵国尸阴宗总部 · kind=plot asOf=2026-08-23 entities=21 relations=36 src=00834-00838.p5.md
