@@ -3,13 +3,15 @@
   "type": "artifact",
   "name": "仙人石像",
   "aliases": [
-    "封印李家的仙人石像"
+    "封印李家的仙人石像",
+    "留下血泪的仙人石像"
   ],
   "summary": "山峰之上的仙人石像，连同石剑与剑尖之上的仆从；内有「残存的不灭之魂」，另有一层封印阻其脱困。相貌与葛姓女子略有相似。",
   "attributes": {
-    "外形": "仙人石像，持石剑，剑尖之上有仆从",
+    "外形": "仙人石像，持石剑，剑尖之上有仆从、裂缝遍布、双眼下红芒如两行血泪",
     "禁制": "内含残存不灭之魂，外有封印阻其脱困",
-    "能力": "吸收怨气与白芒后似有苏醒/脱困之力"
+    "能力": "吸收怨气与白芒后似有苏醒/脱困之力、吸收血脉红焰、封印不灭仙魂、手印中显现虚幻画面",
+    "来历": "葛家先祖那位仙人"
   },
   "observations": {
     "外形": [
@@ -17,6 +19,12 @@
         "value": "仙人石像，持石剑，剑尖之上有仆从",
         "docId": "plot.xianni-ch751-blood-ancestor-arrives",
         "seq": 711
+      },
+      {
+        "value": "裂缝遍布、双眼下红芒如两行血泪",
+        "docId": "plot.xianni-ch753-no-answer-liyuan-servant-soul-truth",
+        "seq": 711,
+        "note": "吸收葛虹之血后"
       }
     ],
     "禁制": [
@@ -30,6 +38,28 @@
       {
         "value": "吸收怨气与白芒后似有苏醒/脱困之力",
         "docId": "plot.xianni-ch751-blood-ancestor-arrives",
+        "seq": 711
+      },
+      {
+        "value": "吸收血脉红焰",
+        "docId": "plot.xianni-ch753-no-answer-liyuan-servant-soul-truth",
+        "seq": 711
+      },
+      {
+        "value": "封印不灭仙魂",
+        "docId": "plot.xianni-ch753-no-answer-liyuan-servant-soul-truth",
+        "seq": 711
+      },
+      {
+        "value": "手印中显现虚幻画面",
+        "docId": "plot.xianni-ch753-no-answer-liyuan-servant-soul-truth",
+        "seq": 711
+      }
+    ],
+    "来历": [
+      {
+        "value": "葛家先祖那位仙人",
+        "docId": "plot.xianni-ch753-no-answer-liyuan-servant-soul-truth",
         "seq": 711
       }
     ]
@@ -53,12 +83,19 @@
       "docId": "plot.xianni-ch751-blood-ancestor-arrives",
       "dated": false,
       "seq": 711
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch753-no-answer-liyuan-servant-soul-truth",
+      "dated": false,
+      "seq": 711
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch751-blood-ancestor-arrives"
+    "plot.xianni-ch751-blood-ancestor-arrives",
+    "plot.xianni-ch753-no-answer-liyuan-servant-soul-truth"
   ],
-  "updatedAt": "2026-08-23T05:26:50.226Z"
+  "updatedAt": "2026-08-23T05:35:48.870Z"
 }

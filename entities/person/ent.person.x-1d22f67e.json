@@ -5,14 +5,15 @@
   "aliases": [
     "那位先祖",
     "李家绝伦之才",
-    "数万年前的李家先祖"
+    "数万年前的李家先祖",
+    "李家天资绝伦之人"
   ],
   "summary": "数万年前李家天资绝伦者，问鼎大圆满而精通禁制推衍，周游诸星域集齐画轴、罗盘、铁剑三法器，携之进入雷之仙界后再无音信。",
   "attributes": {
     "小阶段": "问鼎大圆满",
-    "身份": "李家先祖",
-    "存殁": "失踪/生死不明",
-    "结局": "携三法器入雷之仙界，此后杳无音讯"
+    "身份": "李家先祖、奴印仆魂第一次轮回之身",
+    "存殁": "失踪/生死不明、死亡",
+    "结局": "携三法器入雷之仙界，此后杳无音讯、第一次复活仙人失败"
   },
   "observations": {
     "小阶段": [
@@ -27,6 +28,11 @@
         "value": "李家先祖",
         "docId": "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark",
         "seq": 711
+      },
+      {
+        "value": "奴印仆魂第一次轮回之身",
+        "docId": "plot.xianni-ch753-no-answer-liyuan-servant-soul-truth",
+        "seq": 711
       }
     ],
     "存殁": [
@@ -35,12 +41,22 @@
         "docId": "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark",
         "seq": 711,
         "note": "进入雷之仙界后再无音信，寿元本已将绝"
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch753-no-answer-liyuan-servant-soul-truth",
+        "seq": 711
       }
     ],
     "结局": [
       {
         "value": "携三法器入雷之仙界，此后杳无音讯",
         "docId": "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark",
+        "seq": 711
+      },
+      {
+        "value": "第一次复活仙人失败",
+        "docId": "plot.xianni-ch753-no-answer-liyuan-servant-soul-truth",
         "seq": 711
       }
     ]
@@ -76,7 +92,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark"
+    "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark",
+    "plot.xianni-ch753-no-answer-liyuan-servant-soul-truth"
   ],
-  "updatedAt": "2026-08-23T05:24:23.994Z"
+  "updatedAt": "2026-08-23T05:35:48.867Z"
 }

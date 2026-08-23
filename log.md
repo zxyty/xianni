@@ -254,3 +254,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T05:24:24.168Z** `ingest` plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark — 第750章 奴印——仙人石像的世代奴印与李家破灭禁往事 · kind=plot asOf=2026-08-23 entities=40 relations=71 src=00711-00715.p1.md
 - **2026-08-23T05:26:50.398Z** `ingest` plot.xianni-ch751-blood-ancestor-arrives — 第751章 血祖来临：李元祭炼仙人石像，王林识破退避 · kind=plot asOf=2026-08-23 entities=25 relations=34 src=00711-00715.p2.md
 - **2026-08-23T05:29:06.514Z** `ingest` plot.xianni-c752-yinguo-li-yuan-xianren-puhun — 第752章 因果：王林揭破李元乃仙人仆魂轮回之身 · kind=plot asOf=2026-08-23 entities=19 relations=27 src=00711-00715.p3.md
+- **2026-08-23T05:35:49.087Z** `ingest` plot.xianni-ch753-no-answer-liyuan-servant-soul-truth — 第753章 没有答案——王林推演李家奴印仆魂与仙人石像因果真相 · kind=plot asOf=2026-08-23 entities=23 relations=41 src=00711-00715.p4.md

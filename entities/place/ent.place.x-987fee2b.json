@@ -5,14 +5,16 @@
   "aliases": [
     "石像山峰",
     "仙人石像所在山峰",
-    "禁峰"
+    "禁峰",
+    "立有石像的山峰",
+    "山水之地"
   ],
   "summary": "被紫色雷光之剑刺中顶端的山峰，顶部碎石自行凝聚出仙人、主人与仆人的石像；李元先祖当年以禁制破开此峰登顶而成奴。",
   "attributes": {
-    "类型": "山峰／古迹遗址",
-    "所属界面": "罗天星域",
+    "类型": "山峰／古迹遗址、山峰·遗迹",
+    "所属界面": "罗天星域、雷之仙界",
     "危险度": "极高（顶端奴印仙术可烙入脑海）",
-    "守护": "打不碎的仙人石像"
+    "守护": "打不碎的仙人石像、剑柄仙人石像（本章崩毁）"
   },
   "observations": {
     "类型": [
@@ -20,12 +22,22 @@
         "value": "山峰／古迹遗址",
         "docId": "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark",
         "seq": 711
+      },
+      {
+        "value": "山峰·遗迹",
+        "docId": "plot.xianni-ch753-no-answer-liyuan-servant-soul-truth",
+        "seq": 711
       }
     ],
     "所属界面": [
       {
         "value": "罗天星域",
         "docId": "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark",
+        "seq": 711
+      },
+      {
+        "value": "雷之仙界",
+        "docId": "plot.xianni-ch753-no-answer-liyuan-servant-soul-truth",
         "seq": 711
       }
     ],
@@ -40,6 +52,11 @@
       {
         "value": "打不碎的仙人石像",
         "docId": "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark",
+        "seq": 711
+      },
+      {
+        "value": "剑柄仙人石像（本章崩毁）",
+        "docId": "plot.xianni-ch753-no-answer-liyuan-servant-soul-truth",
         "seq": 711
       }
     ]
@@ -74,7 +91,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark"
+    "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark",
+    "plot.xianni-ch753-no-answer-liyuan-servant-soul-truth"
   ],
-  "updatedAt": "2026-08-23T05:24:23.978Z"
+  "updatedAt": "2026-08-23T05:35:48.916Z"
 }
