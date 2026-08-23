@@ -16,9 +16,9 @@
   ],
   "summary": "神秘老者自曝的名号，筹划数万年、进出仙界数百次，欲炼化雷之仙界为法宝并打通空间壁垒，率罗天星域修士踏平联盟。",
   "attributes": {
-    "身份": "炼化雷之仙界者、雷之仙界仙阵之宝炼制者、清水封印的暗中相助者、雨之仙界修真联盟长老、一百零八仙计划的主导者、上古修真家族出身、与红袍老者、黑袍男子同行的强者、雷仙殿高层、封印望月的主持者、召见王林的雷仙殿殿主、雷仙殿殿主、旁观长辈/高人、在场主持/裁断者、雷仙殿封仙考核主持者、雷仙殿主持封号争夺者、地之关主持者、雷仙殿高手、封仙大典主持者、雷仙殿主事者、雷仙殿封仙主持者、雷仙殿封仙大典主持者、雷仙殿高层、封仙主持者、罗天一方主帅（发号施令者）",
-    "称号": "炎雷子",
-    "性格": "狂傲兴奋、谋算深远、不到万不得已不愿交战、深谋远虑、软硬兼施、深沉果决、内心冷傲、狂放兴奋、好战求证、目露疯狂却语气平静、平淡倨傲、声音平静、平淡、谨慎、能忍、以大局为重、苦笑通融、顾念人情、心痛却大度、心机深沉、目露隐藏数万年的仇恨、双目通红面露狰狞、长笑豪迈、仇恨深重、阴沉冰冷",
+    "身份": "炼化雷之仙界者、雷之仙界仙阵之宝炼制者、清水封印的暗中相助者、雨之仙界修真联盟长老、一百零八仙计划的主导者、上古修真家族出身、与红袍老者、黑袍男子同行的强者、雷仙殿高层、封印望月的主持者、召见王林的雷仙殿殿主、雷仙殿殿主、旁观长辈/高人、在场主持/裁断者、雷仙殿封仙考核主持者、雷仙殿主持封号争夺者、地之关主持者、雷仙殿高手、封仙大典主持者、雷仙殿主事者、雷仙殿封仙主持者、雷仙殿封仙大典主持者、雷仙殿高层、封仙主持者、罗天一方主帅（发号施令者）、殿主",
+    "称号": "殿主",
+    "性格": "狂傲兴奋、谋算深远、不到万不得已不愿交战、深谋远虑、软硬兼施、深沉果决、内心冷傲、狂放兴奋、好战求证、目露疯狂却语气平静、平淡倨傲、声音平静、平淡、谨慎、能忍、以大局为重、苦笑通融、顾念人情、心痛却大度、心机深沉、目露隐藏数万年的仇恨、双目通红面露狰狞、长笑豪迈、仇恨深重、阴沉冰冷、面无表情、喜怒不形于色，一眼即可震慑属下",
     "分身": "雷灵分身",
     "外貌": "身外云雾内仿若火焰燃烧，威压无法想象",
     "性别": "男",
@@ -28,7 +28,7 @@
     "出身地": "联盟星域",
     "阵营": "围猎望月的老怪联合体、雷仙殿、追击王林/围困望月一方、罗天星域·雷仙殿、罗天星域一方",
     "存殁": "存活",
-    "神识": "覆盖大范围搜寻王林未果"
+    "神识": "覆盖大范围搜寻王林未果、可看破他人眉心印记，但四股力量中只看得出最弱一股"
   },
   "observations": {
     "身份": [
@@ -148,6 +148,11 @@
         "value": "罗天一方主帅（发号施令者）",
         "docId": "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens",
         "seq": 821
+      },
+      {
+        "value": "殿主",
+        "docId": "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu",
+        "seq": 845
       }
     ],
     "称号": [
@@ -155,6 +160,11 @@
         "value": "炎雷子",
         "docId": "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
         "seq": 746
+      },
+      {
+        "value": "殿主",
+        "docId": "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu",
+        "seq": 845
       }
     ],
     "性格": [
@@ -233,6 +243,11 @@
       {
         "value": "阴沉冰冷",
         "docId": "plot.xianni-ch912-wen-cuo-luotian-thunder-immortal-questioning",
+        "seq": 845
+      },
+      {
+        "value": "面无表情、喜怒不形于色，一眼即可震慑属下",
+        "docId": "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu",
         "seq": 845
       }
     ],
@@ -358,6 +373,12 @@
         "docId": "plot.xianni-ch912-wen-cuo-luotian-thunder-immortal-questioning",
         "seq": 845,
         "note": "心中有顾忌，不便探及远处"
+      },
+      {
+        "value": "可看破他人眉心印记，但四股力量中只看得出最弱一股",
+        "docId": "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu",
+        "seq": 845,
+        "note": "第913章"
       }
     ]
   },
@@ -371,9 +392,9 @@
     },
     "称号": {
       "asOf": null,
-      "docId": "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
+      "docId": "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu",
       "dated": false,
-      "seq": 746
+      "seq": 845
     },
     "性格": {
       "asOf": null,
@@ -472,7 +493,8 @@
     "plot.xianni-886-situnan-chuguan-qingshui-chuangong-libiwan-fusheng",
     "plot.xianni-ch891-servant-seal-datou-tongzi",
     "plot.xianni-ch908-departure-zhuque-star-yu-fei-ambush",
-    "plot.xianni-ch912-wen-cuo-luotian-thunder-immortal-questioning"
+    "plot.xianni-ch912-wen-cuo-luotian-thunder-immortal-questioning",
+    "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu"
   ],
-  "updatedAt": "2026-08-23T19:37:54.806Z"
+  "updatedAt": "2026-08-23T19:44:50.526Z"
 }

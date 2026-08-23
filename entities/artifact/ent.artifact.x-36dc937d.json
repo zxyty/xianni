@@ -4,15 +4,18 @@
   "name": "天地雷树残枝",
   "aliases": [
     "雷树残枝",
-    "杀域界至宝之一"
+    "杀域界至宝之一",
+    "半截天地雷树残枝",
+    "天地雷枝",
+    "半截残枝"
   ],
   "summary": "杀域界至宝之一，外形为一根寻常却透出沧桑之气的树枝，可吸收并遏制王林所引动的天地雷霆。",
   "attributes": {
     "品阶": "杀域界至宝之一",
-    "持有者": "于非",
-    "能力": "吸收方圆数万里凝聚而来的雷霆、遏制王林的天雷之力，使雷霆改向不伤持有者",
-    "外形": "一根看似寻常、透出浓浓沧桑的树枝",
-    "来历": "杀域界；界主曾言可克制王林雷霆"
+    "持有者": "于非、王林",
+    "能力": "吸收方圆数万里凝聚而来的雷霆、遏制王林的天雷之力，使雷霆改向不伤持有者、承载并留存交手双方力量气息（王林之力与杀域剑气）",
+    "外形": "一根看似寻常、透出浓浓沧桑的树枝、半截树枝，其上有弧形电光游走、雷声轰鸣",
+    "来历": "杀域界；界主曾言可克制王林雷霆、取自杀域界，王林与于非一战时冒险取得"
   },
   "observations": {
     "品阶": [
@@ -27,6 +30,11 @@
         "value": "于非",
         "docId": "plot.xianni-ch909-give-you-a-miracle-yufei-thunder-tree-branch-fusion",
         "seq": 845
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu",
+        "seq": 845
       }
     ],
     "能力": [
@@ -39,6 +47,11 @@
         "value": "遏制王林的天雷之力，使雷霆改向不伤持有者",
         "docId": "plot.xianni-ch909-give-you-a-miracle-yufei-thunder-tree-branch-fusion",
         "seq": 845
+      },
+      {
+        "value": "承载并留存交手双方力量气息（王林之力与杀域剑气）",
+        "docId": "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu",
+        "seq": 845
       }
     ],
     "外形": [
@@ -46,12 +59,22 @@
         "value": "一根看似寻常、透出浓浓沧桑的树枝",
         "docId": "plot.xianni-ch909-give-you-a-miracle-yufei-thunder-tree-branch-fusion",
         "seq": 845
+      },
+      {
+        "value": "半截树枝，其上有弧形电光游走、雷声轰鸣",
+        "docId": "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu",
+        "seq": 845
       }
     ],
     "来历": [
       {
         "value": "杀域界；界主曾言可克制王林雷霆",
         "docId": "plot.xianni-ch909-give-you-a-miracle-yufei-thunder-tree-branch-fusion",
+        "seq": 845
+      },
+      {
+        "value": "取自杀域界，王林与于非一战时冒险取得",
+        "docId": "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu",
         "seq": 845
       }
     ]
@@ -92,7 +115,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch909-give-you-a-miracle-yufei-thunder-tree-branch-fusion"
+    "plot.xianni-ch909-give-you-a-miracle-yufei-thunder-tree-branch-fusion",
+    "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu"
   ],
-  "updatedAt": "2026-08-23T19:30:53.043Z"
+  "updatedAt": "2026-08-23T19:44:50.536Z"
 }

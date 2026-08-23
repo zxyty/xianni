@@ -6,13 +6,16 @@
     "高耸入云的山峰",
     "禁制山峰",
     "山峰",
-    "闯关之山"
+    "闯关之山",
+    "雨中山峰",
+    "王林所居山峰",
+    "山峰顶部"
   ],
   "summary": "漩涡出口处一座看不到顶、云雾缭绕、遍布禁制且禁飞的高山，王林推断为域外战场第二关；禁制被破坏处会自动恢复，只能徒步登顶。",
   "attributes": {
-    "类型": "闯关禁制之地",
+    "类型": "修炼山峰",
     "危险度": "极高",
-    "守护": "层层相连的禁制群与山顶紫雷、环形黑光"
+    "守护": "禁制（不阻雨水）"
   },
   "observations": {
     "类型": [
@@ -25,6 +28,11 @@
         "value": "闯关禁制之地",
         "docId": "plot.xianni-ch181-jinzhi-baofa",
         "seq": 166
+      },
+      {
+        "value": "修炼山峰",
+        "docId": "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu",
+        "seq": 845
       }
     ],
     "危险度": [
@@ -49,6 +57,11 @@
         "value": "层层相连的禁制群与山顶紫雷、环形黑光",
         "docId": "plot.xianni-ch181-jinzhi-baofa",
         "seq": 166
+      },
+      {
+        "value": "禁制（不阻雨水）",
+        "docId": "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu",
+        "seq": 845
       }
     ]
   },
@@ -56,9 +69,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch181-jinzhi-baofa",
+      "docId": "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu",
       "dated": false,
-      "seq": 166
+      "seq": 845
     },
     "危险度": {
       "asOf": null,
@@ -68,16 +81,17 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch181-jinzhi-baofa",
+      "docId": "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu",
       "dated": false,
-      "seq": 166
+      "seq": 845
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch176-duoqu-fengqun",
-    "plot.xianni-ch181-jinzhi-baofa"
+    "plot.xianni-ch181-jinzhi-baofa",
+    "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu"
   ],
-  "updatedAt": "2026-07-07T02:54:01.402Z"
+  "updatedAt": "2026-08-23T19:44:50.572Z"
 }

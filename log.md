@@ -365,3 +365,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T19:32:34.622Z** `ingest` plot.xianni-ch910-strongest-fusion-wang-lin-slays-yu-fei-avatars — 第910章 最强合体！！！——王林（许木）以古神之吼数息轰杀于非七分身 · kind=plot asOf=2026-08-23 entities=11 relations=18 src=00845-00849.p2.md
 - **2026-08-23T19:35:24.602Z** `ingest` plot.xianni-ch911-sha-yu-jie-kill-yu-fei — 第911章 杀域界：王林合体秒杀于非，夺半截树枝结怨杀域界 · kind=plot asOf=2026-08-23 entities=26 relations=38 src=00845-00849.p3.md
 - **2026-08-23T19:37:55.039Z** `ingest` plot.xianni-ch912-wen-cuo-luotian-thunder-immortal-questioning — 第912章 问错——王林返回罗天西部闭关悟唤雨，雷仙殿刑罚长老与炎雷子问罪 · kind=plot asOf=2026-08-23 entities=25 relations=39 src=00845-00849.p4.md
+- **2026-08-23T19:44:50.809Z** `ingest` plot.xianni-ch913-huan-yu-yanleizi-verify-xumu — 第913章 唤雨：王林以天地雷树残枝取信炎雷子，朱雀印记令其罢手 · kind=plot asOf=2026-08-23 entities=37 relations=57 src=00845-00849.p5.md
