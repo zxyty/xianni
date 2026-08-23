@@ -248,3 +248,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T04:43:27.248Z** `ingest` plot.xianni-ch740-daonian-battle-xu-fenghan — 第740章 绝伦·道念之战：王林黄泉道念对抗许封寒道化魔莲 · kind=plot asOf=2026-08-23 entities=17 relations=24 src=00701-00705.p1.md
 - **2026-08-23T04:50:27.597Z** `ingest` plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan — 第741章 鸠占鹊巢：王林踏道念莲、第三眼配斩罗决斩杀许封寒 · kind=plot asOf=2026-08-23 entities=35 relations=51 src=00701-00705.p2.md
 - **2026-08-23T04:53:10.336Z** `ingest` plot.xianni-ch742-mo-lian-daonian-storage — 第742章 魔莲——道念储物空间与雷之仙界搜寻 · kind=plot asOf=2026-08-23 entities=25 relations=39 src=00701-00705.p3.md
+- **2026-08-23T04:55:52.884Z** `ingest` plot.xianni-ch743-li-yuan-tian-gui-trap — 第743章 李元：碎片大陆假禁制陷阱与天鬼被擒 · kind=plot asOf=2026-08-23 entities=23 relations=31 src=00701-00705.p4.md
