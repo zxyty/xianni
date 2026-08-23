@@ -4,15 +4,16 @@
   "name": "李元",
   "aliases": [
     "布置禁制的男子",
-    "Li Yuan"
+    "Li Yuan",
+    "李元晚辈"
   ],
   "summary": "问鼎大圆满男修，擅长布置禁制，在碎片大陆布下以假禁制为饵的杀人陷阱；命魂被女修家族掌控而受制于人，被王林一掌击伤后献出隐秘藏宝之地求平息。",
   "attributes": {
     "性别": "男",
     "小阶段": "问鼎大圆满",
-    "身份": "受制于女修家族的禁制高手",
-    "性格": "隐忍、心思深沉、表面恭敬内藏轻蔑",
-    "标志特征": "命魂在女修家族手中；禁制可散作十八道叠加",
+    "身份": "受制于女修家族的禁制高手、被葛家所救、以命魂为代价的修士",
+    "性格": "隐忍、心思深沉、表面恭敬内藏轻蔑、沉稳坦然、心机深沉、善引导话语",
+    "标志特征": "命魂在女修家族手中；禁制可散作十八道叠加、命魂在葛家手中、掌握非仙禁之术的隐匿禁制、踏剑尖时面露追忆",
     "存殁": "在世"
   },
   "observations": {
@@ -35,6 +36,11 @@
         "value": "受制于女修家族的禁制高手",
         "docId": "plot.xianni-ch743-li-yuan-tian-gui-trap",
         "seq": 701
+      },
+      {
+        "value": "被葛家所救、以命魂为代价的修士",
+        "docId": "plot.xianni-744-jian-jian-li-yuan-lead-way-lei-guang-ceng",
+        "seq": 701
       }
     ],
     "性格": [
@@ -42,12 +48,32 @@
         "value": "隐忍、心思深沉、表面恭敬内藏轻蔑",
         "docId": "plot.xianni-ch743-li-yuan-tian-gui-trap",
         "seq": 701
+      },
+      {
+        "value": "沉稳坦然、心机深沉、善引导话语",
+        "docId": "plot.xianni-744-jian-jian-li-yuan-lead-way-lei-guang-ceng",
+        "seq": 701
       }
     ],
     "标志特征": [
       {
         "value": "命魂在女修家族手中；禁制可散作十八道叠加",
         "docId": "plot.xianni-ch743-li-yuan-tian-gui-trap",
+        "seq": 701
+      },
+      {
+        "value": "命魂在葛家手中",
+        "docId": "plot.xianni-744-jian-jian-li-yuan-lead-way-lei-guang-ceng",
+        "seq": 701
+      },
+      {
+        "value": "掌握非仙禁之术的隐匿禁制",
+        "docId": "plot.xianni-744-jian-jian-li-yuan-lead-way-lei-guang-ceng",
+        "seq": 701
+      },
+      {
+        "value": "踏剑尖时面露追忆",
+        "docId": "plot.xianni-744-jian-jian-li-yuan-lead-way-lei-guang-ceng",
         "seq": 701
       }
     ],
@@ -101,7 +127,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch743-li-yuan-tian-gui-trap"
+    "plot.xianni-ch743-li-yuan-tian-gui-trap",
+    "plot.xianni-744-jian-jian-li-yuan-lead-way-lei-guang-ceng"
   ],
-  "updatedAt": "2026-08-23T04:55:52.718Z"
+  "updatedAt": "2026-08-23T04:58:28.112Z"
 }
