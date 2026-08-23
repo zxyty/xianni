@@ -6,16 +6,17 @@
     "杏花村老周家所在村落",
     "天山下的村落",
     "Xinghua Village",
-    "杏花村落"
+    "杏花村落",
+    "杏花村坟地"
   ],
   "summary": "凡人村落，老周家所在；周茹于此出生，铁岩在村外百里小山洞府以神识锁定守护。",
   "attributes": {
-    "类型": "凡人村落",
+    "类型": "凡俗村落",
     "守护": "铁岩",
     "所属界面": "暗月星",
-    "方位": "天山山脚",
+    "方位": "村后数里外为坟地",
     "规模": "不足百户人家",
-    "特产": "杏树杏花、百年老屋、童谣"
+    "特产": "杏树杏花、百年老屋、童谣、童谣《不修道》「杏花树，开白花」"
   },
   "observations": {
     "类型": [
@@ -23,6 +24,11 @@
         "value": "凡人村落",
         "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
         "seq": 317
+      },
+      {
+        "value": "凡俗村落",
+        "docId": "plot.xianni-881-884-qualification-war-scroll-second",
+        "seq": 881
       }
     ],
     "守护": [
@@ -49,6 +55,11 @@
         "value": "天山山脚",
         "docId": "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
         "seq": 876
+      },
+      {
+        "value": "村后数里外为坟地",
+        "docId": "plot.xianni-881-884-qualification-war-scroll-second",
+        "seq": 881
       }
     ],
     "规模": [
@@ -73,6 +84,11 @@
         "value": "童谣",
         "docId": "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
         "seq": 876
+      },
+      {
+        "value": "童谣《不修道》「杏花树，开白花」",
+        "docId": "plot.xianni-881-884-qualification-war-scroll-second",
+        "seq": 881
       }
     ]
   },
@@ -80,9 +96,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
+      "docId": "plot.xianni-881-884-qualification-war-scroll-second",
       "dated": false,
-      "seq": 317
+      "seq": 881
     },
     "守护": {
       "asOf": null,
@@ -98,9 +114,9 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
+      "docId": "plot.xianni-881-884-qualification-war-scroll-second",
       "dated": false,
-      "seq": 876
+      "seq": 881
     },
     "规模": {
       "asOf": null,
@@ -120,7 +136,8 @@
   "docs": [
     "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
     "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
-    "plot.xianni-ch946-muzhi-xinghuacun-anyue-star"
+    "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
+    "plot.xianni-881-884-qualification-war-scroll-second"
   ],
-  "updatedAt": "2026-08-23T21:55:16.725Z"
+  "updatedAt": "2026-08-23T22:14:20.023Z"
 }

@@ -12,10 +12,11 @@
   "summary": "远古修真家族召书中许诺之地，一百零八仙可入其中化体元为仙元、成就真仙。",
   "attributes": {
     "所属势力": "雷仙殿",
-    "类型": "秘境/圣地、秘境/修行圣地、化去意境、天元融仙之池、考验之地、机缘之地、秘境/池、秘境／池",
+    "类型": "秘境/圣地、秘境/修行圣地、化去意境、天元融仙之池、考验之地、机缘之地、秘境/池、秘境／池、秘境/灵池",
     "所属界面": "罗天星域",
     "危险度": "弊端太多",
-    "特产": "仙元"
+    "特产": "仙元",
+    "守护": "未述"
   },
   "observations": {
     "所属势力": [
@@ -65,6 +66,11 @@
         "value": "秘境／池",
         "docId": "plot.xianni-ch904-tanmi-xianyi",
         "seq": 840
+      },
+      {
+        "value": "秘境/灵池",
+        "docId": "plot.xianni-881-884-qualification-war-scroll-second",
+        "seq": 881
       }
     ],
     "所属界面": [
@@ -93,6 +99,13 @@
         "value": "仙元",
         "docId": "plot.xianni-ch889-wang-lin-returns-zhuque-star",
         "seq": 830
+      }
+    ],
+    "守护": [
+      {
+        "value": "未述",
+        "docId": "plot.xianni-881-884-qualification-war-scroll-second",
+        "seq": 881
       }
     ]
   },
@@ -128,6 +141,12 @@
       "docId": "plot.xianni-ch889-wang-lin-returns-zhuque-star",
       "dated": false,
       "seq": 830
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-881-884-qualification-war-scroll-second",
+      "dated": false,
+      "seq": 881
     }
   },
   "contested": false,
@@ -142,7 +161,8 @@
     "plot.xianni-ch889-wang-lin-returns-zhuque-star",
     "plot.xianni-ch891-servant-seal-datou-tongzi",
     "plot.xianni-ch904-tanmi-xianyi",
-    "plot.xianni-ch905-punishment-hall-immortal-corpses"
+    "plot.xianni-ch905-punishment-hall-immortal-corpses",
+    "plot.xianni-881-884-qualification-war-scroll-second"
   ],
-  "updatedAt": "2026-08-23T19:20:53.594Z"
+  "updatedAt": "2026-08-23T22:14:20.056Z"
 }

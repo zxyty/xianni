@@ -4,13 +4,16 @@
   "name": "古神之体",
   "aliases": [
     "展开古神之体",
-    "百丈古神之躯"
+    "百丈古神之躯",
+    "五星王族古神之体",
+    "古神手掌"
   ],
   "summary": "古神自四星起体型疯狂增长；唯有展开古神之体才算真正的古神，才拥有真正古神之力。",
   "attributes": {
     "适用境界": "古神四星及以上",
     "外显异象": "身躯胀至百丈、皮肤浮现粗糙细微符文、蛮荒远古气息、低吼令凶兽伏地、游离之物退避",
-    "修炼条件": "具古神血脉/传承，且不再压制体型"
+    "修炼条件": "成为五星王族古神",
+    "效果": "肉身横扫阴虚至窥涅修士、右手化古神手掌抓夺本命法宝、免疫玉简自爆"
   },
   "observations": {
     "适用境界": [
@@ -47,6 +50,28 @@
         "value": "具古神血脉/传承，且不再压制体型",
         "docId": "plot.xianni-ch764-wanglin-benzun-ancient-god-body-blood-star",
         "seq": 721
+      },
+      {
+        "value": "成为五星王族古神",
+        "docId": "plot.xianni-881-884-qualification-war-scroll-second",
+        "seq": 881
+      }
+    ],
+    "效果": [
+      {
+        "value": "肉身横扫阴虚至窥涅修士",
+        "docId": "plot.xianni-881-884-qualification-war-scroll-second",
+        "seq": 881
+      },
+      {
+        "value": "右手化古神手掌抓夺本命法宝",
+        "docId": "plot.xianni-881-884-qualification-war-scroll-second",
+        "seq": 881
+      },
+      {
+        "value": "免疫玉简自爆",
+        "docId": "plot.xianni-881-884-qualification-war-scroll-second",
+        "seq": 881
       }
     ]
   },
@@ -66,15 +91,22 @@
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.xianni-ch764-wanglin-benzun-ancient-god-body-blood-star",
+      "docId": "plot.xianni-881-884-qualification-war-scroll-second",
       "dated": false,
-      "seq": 721
+      "seq": 881
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.xianni-881-884-qualification-war-scroll-second",
+      "dated": false,
+      "seq": 881
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch764-wanglin-benzun-ancient-god-body-blood-star"
+    "plot.xianni-ch764-wanglin-benzun-ancient-god-body-blood-star",
+    "plot.xianni-881-884-qualification-war-scroll-second"
   ],
-  "updatedAt": "2026-08-23T06:13:21.010Z"
+  "updatedAt": "2026-08-23T22:14:20.132Z"
 }

@@ -4,15 +4,19 @@
   "name": "杀域界高塔",
   "aliases": [
     "千丈高塔",
-    "杀域界正中高塔"
+    "杀域界正中高塔",
+    "杀域界中央高塔",
+    "杀域界中心高塔"
   ],
   "summary": "杀域界正中的高塔，高不下千丈，黑色铁链自塔身蔓延连接四周建筑；塔内传出下令取许木人头的冰冷声音。",
   "attributes": {
     "类型": "高塔",
-    "方位": "杀域界正中",
+    "方位": "杀域界中心位置",
     "规模": "高不下千丈",
     "上级区域": "杀域界",
-    "所属势力": "杀域界"
+    "所属势力": "杀域界",
+    "所属界面": "杀域界",
+    "守护": "杀域界副界主"
   },
   "observations": {
     "类型": [
@@ -27,6 +31,11 @@
         "value": "杀域界正中",
         "docId": "plot.xianni-ch898-lei-ji-2-restore-zhuque-star-soul",
         "seq": 839
+      },
+      {
+        "value": "杀域界中心位置",
+        "docId": "plot.xianni-881-884-qualification-war-scroll-second",
+        "seq": 881
       }
     ],
     "规模": [
@@ -49,6 +58,20 @@
         "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
         "seq": 845
       }
+    ],
+    "所属界面": [
+      {
+        "value": "杀域界",
+        "docId": "plot.xianni-881-884-qualification-war-scroll-second",
+        "seq": 881
+      }
+    ],
+    "守护": [
+      {
+        "value": "杀域界副界主",
+        "docId": "plot.xianni-881-884-qualification-war-scroll-second",
+        "seq": 881
+      }
     ]
   },
   "firstSeq": 839,
@@ -61,9 +84,9 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch898-lei-ji-2-restore-zhuque-star-soul",
+      "docId": "plot.xianni-881-884-qualification-war-scroll-second",
       "dated": false,
-      "seq": 839
+      "seq": 881
     },
     "规模": {
       "asOf": null,
@@ -82,13 +105,26 @@
       "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
       "dated": false,
       "seq": 845
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-881-884-qualification-war-scroll-second",
+      "dated": false,
+      "seq": 881
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-881-884-qualification-war-scroll-second",
+      "dated": false,
+      "seq": 881
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch898-lei-ji-2-restore-zhuque-star-soul",
-    "plot.xianni-ch911-sha-yu-jie-kill-yu-fei"
+    "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
+    "plot.xianni-881-884-qualification-war-scroll-second"
   ],
-  "updatedAt": "2026-08-23T19:35:24.396Z"
+  "updatedAt": "2026-08-23T22:14:20.120Z"
 }
