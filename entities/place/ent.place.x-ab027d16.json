@@ -4,12 +4,13 @@
   "name": "望月排泄吸收之地",
   "aliases": [
     "望月排泄之地",
-    "排泄吸收之处"
+    "排泄吸收之处",
+    "排泄吸收之地"
   ],
   "summary": "望月体内深处的循环再吸收之所，不通外界，泥土腥臭，具强大吸力；被望月吞下之物皆汇于此，贪狼被困于此近百年。",
   "attributes": {
-    "类型": "望月体内秘境",
-    "上级区域": "云霞星（望月体内）",
+    "类型": "巨兽体内空间",
+    "上级区域": "云霞星",
     "方位": "望月之骨最深处",
     "危险度": "极高（进易出难）"
   },
@@ -19,6 +20,11 @@
         "value": "望月体内秘境",
         "docId": "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
         "seq": 669
+      },
+      {
+        "value": "巨兽体内空间",
+        "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
+        "seq": 674
       }
     ],
     "上级区域": [
@@ -26,6 +32,11 @@
         "value": "云霞星（望月体内）",
         "docId": "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
         "seq": 669
+      },
+      {
+        "value": "云霞星",
+        "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
+        "seq": 674
       }
     ],
     "方位": [
@@ -47,15 +58,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
+      "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
       "dated": false,
-      "seq": 669
+      "seq": 674
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
+      "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
       "dated": false,
-      "seq": 669
+      "seq": 674
     },
     "方位": {
       "asOf": null,
@@ -73,7 +84,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit"
+    "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
+    "plot.xianni-674-678-wangyue-awaken-bone-heist"
   ],
-  "updatedAt": "2026-08-23T01:18:09.516Z"
+  "updatedAt": "2026-08-23T01:41:07.067Z"
 }

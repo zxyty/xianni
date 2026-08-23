@@ -1,0 +1,67 @@
+{
+  "id": "ent.place.x-e01fa6ff",
+  "type": "place",
+  "name": "罗天南域",
+  "aliases": [
+    "南域",
+    "罗天星域南域"
+  ],
+  "summary": "王林越过南北交界后逃入之地；望月不敢踏入，疑有令其恐惧的存在。",
+  "attributes": {
+    "方位": "罗天星域南部",
+    "上级区域": "罗天星域",
+    "危险度": "望月不敢进入"
+  },
+  "observations": {
+    "方位": [
+      {
+        "value": "罗天星域南部",
+        "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
+        "seq": 674
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "罗天星域",
+        "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
+        "seq": 674
+      }
+    ],
+    "危险度": [
+      {
+        "value": "望月不敢进入",
+        "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
+        "seq": 674,
+        "note": "疑藏有更可怕的存在"
+      }
+    ]
+  },
+  "firstSeq": 674,
+  "attrProvenance": {
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
+      "dated": false,
+      "seq": 674
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
+      "dated": false,
+      "seq": 674
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
+      "dated": false,
+      "seq": 674,
+      "note": "疑藏有更可怕的存在"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.xianni-674-678-wangyue-awaken-bone-heist"
+  ],
+  "updatedAt": "2026-08-23T01:41:07.235Z"
+}

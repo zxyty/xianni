@@ -236,3 +236,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T00:38:39.328Z** `ingest` plot.xianni-ch656-660-separation-and-years — 仙逆 第656-660章：分离与岁月——王平携青宜离城、天行派兴起 · kind=plot asOf=2026-08-23 entities=77 relations=164 src=00656-00660.md
 - **2026-08-23T00:58:30.909Z** `ingest` plot.xianni-ch705-second-immortal-guard-leidaozi-branded — 第705章 第二仙卫：王林降服雷道子、印下双重禁制欲炼仙卫 · kind=plot asOf=2026-08-23 entities=83 relations=122 src=00665-00668.md
 - **2026-08-23T01:18:09.678Z** `ingest` plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit — 第669-673章 问鼎后期·雷兽降临千幻星，索取升仙果与千家依附抉择 · kind=plot asOf=2026-08-23 entities=67 relations=119 src=00669-00673.md
+- **2026-08-23T01:41:07.442Z** `ingest` plot.xianni-674-678-wangyue-awaken-bone-heist — 仙逆 第674-678章：望月苏醒，王林夺骨逃遁 · kind=plot asOf=2026-08-23 entities=62 relations=121 src=00674-00678.md

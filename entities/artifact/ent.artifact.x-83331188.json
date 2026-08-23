@@ -5,14 +5,17 @@
   "aliases": [
     "屏风",
     "淡墨山水屏风",
-    "山河图投印"
+    "山河图投印",
+    "有山河图投印的屏风",
+    "山河图屏风"
   ],
   "summary": "贪狼法宝：抛出化十丈大小，绘淡墨山水云雾缭绕；贪狼称未找到当年仙界的山河图，却在此屏风上发现山河图的投印，喝「给我收」可生出巨大吸力收人。",
   "attributes": {
-    "持有者": "贪狼",
-    "外形": "十丈大小，画淡墨山水、云雾缭绕",
-    "能力": "生成巨大吸力收摄目标",
-    "来历": "带有仙界山河图的投印"
+    "持有者": "王林",
+    "外形": "十丈大小，画淡墨山水、云雾缭绕、巨大屏风、屏风",
+    "能力": "生成巨大吸力收摄目标、掀起山河之力，令星空幻化为万丈山河、可入内避难、内展山河与星空",
+    "来历": "贪狼所得，为真正山河图的投印之物",
+    "禁制": "出现多道裂缝但神通尚在"
   },
   "observations": {
     "持有者": [
@@ -20,6 +23,12 @@
         "value": "贪狼",
         "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
         "seq": 609
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
+        "seq": 674,
+        "note": "第674章从重伤逃遁的贪狼处抢夺；此前持有者为贪狼"
       }
     ],
     "外形": [
@@ -27,6 +36,16 @@
         "value": "十丈大小，画淡墨山水、云雾缭绕",
         "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
         "seq": 609
+      },
+      {
+        "value": "巨大屏风",
+        "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
+        "seq": 674
+      },
+      {
+        "value": "屏风",
+        "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
+        "seq": 674
       }
     ],
     "能力": [
@@ -34,6 +53,21 @@
         "value": "生成巨大吸力收摄目标",
         "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
         "seq": 609
+      },
+      {
+        "value": "掀起山河之力，令星空幻化为万丈山河",
+        "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
+        "seq": 674
+      },
+      {
+        "value": "可入内避难",
+        "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
+        "seq": 674
+      },
+      {
+        "value": "内展山河与星空",
+        "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
+        "seq": 674
       }
     ],
     "来历": [
@@ -41,6 +75,19 @@
         "value": "带有仙界山河图的投印",
         "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
         "seq": 609
+      },
+      {
+        "value": "贪狼所得，为真正山河图的投印之物",
+        "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
+        "seq": 674
+      }
+    ],
+    "禁制": [
+      {
+        "value": "出现多道裂缝但神通尚在",
+        "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
+        "seq": 674,
+        "note": "受古神一指后"
       }
     ]
   },
@@ -48,9 +95,10 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
+      "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
       "dated": false,
-      "seq": 609
+      "seq": 674,
+      "note": "第674章从重伤逃遁的贪狼处抢夺；此前持有者为贪狼"
     },
     "外形": {
       "asOf": null,
@@ -66,15 +114,23 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
+      "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
       "dated": false,
-      "seq": 609
+      "seq": 674
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
+      "dated": false,
+      "seq": 674,
+      "note": "受古神一指后"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch609-613-tangulang-ding-tanlang-chase"
+    "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
+    "plot.xianni-674-678-wangyue-awaken-bone-heist"
   ],
-  "updatedAt": "2026-08-22T19:24:59.601Z"
+  "updatedAt": "2026-08-23T01:41:07.191Z"
 }

@@ -2,18 +2,22 @@
   "id": "ent.artifact.x-f1b27fec",
   "type": "artifact",
   "name": "贪狼的巨鼎",
-  "aliases": [],
+  "aliases": [
+    "沧桑巨鼎"
+  ],
   "summary": "贪狼盘坐时身外的巨大鼎器，被手臂粗细的望月触手全部缠绕、不断蠕动似在吸收。",
   "attributes": {
     "持有者": "贪狼",
-    "外形": "巨大之鼎"
+    "外形": "巨鼎，可无限增长至撑开望月大口",
+    "能力": "与前方目标交换位置、吸收持有者寿元后无限增大、散发沧桑气息"
   },
   "observations": {
     "持有者": [
       {
         "value": "贪狼",
         "docId": "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
-        "seq": 669
+        "seq": 669,
+        "note": "第716章末被望月触手缠住，贪狼弃鼎"
       }
     ],
     "外形": [
@@ -21,6 +25,28 @@
         "value": "巨大之鼎",
         "docId": "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
         "seq": 669
+      },
+      {
+        "value": "巨鼎，可无限增长至撑开望月大口",
+        "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
+        "seq": 674
+      }
+    ],
+    "能力": [
+      {
+        "value": "与前方目标交换位置",
+        "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
+        "seq": 674
+      },
+      {
+        "value": "吸收持有者寿元后无限增大",
+        "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
+        "seq": 674
+      },
+      {
+        "value": "散发沧桑气息",
+        "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
+        "seq": 674
       }
     ]
   },
@@ -30,19 +56,27 @@
       "asOf": null,
       "docId": "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
       "dated": false,
-      "seq": 669
+      "seq": 669,
+      "note": "第716章末被望月触手缠住，贪狼弃鼎"
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
+      "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
       "dated": false,
-      "seq": 669
+      "seq": 674
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
+      "dated": false,
+      "seq": 674
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit"
+    "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
+    "plot.xianni-674-678-wangyue-awaken-bone-heist"
   ],
-  "updatedAt": "2026-08-23T01:18:09.481Z"
+  "updatedAt": "2026-08-23T01:41:07.136Z"
 }
