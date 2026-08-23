@@ -9,10 +9,11 @@
   ],
   "summary": "新晋修真联盟尊者，自紫色光柱中走出，中年黄袍相貌俊朗，身外幻化两条巨龙咆哮；被三名仙界传承家族老祖联手迎击。",
   "attributes": {
-    "身份": "新晋联盟尊者",
+    "身份": "并非真正的四尊之一",
     "外貌": "中年，一身黄袍，相貌俊朗",
     "标志特征": "身外幻化两条巨龙",
-    "阵营": "修真联盟"
+    "阵营": "修真联盟",
+    "称号": "妖尊"
   },
   "observations": {
     "身份": [
@@ -21,6 +22,12 @@
         "docId": "plot.xianni-ch922-jixiantian-north-battle",
         "seq": 855,
         "note": "自称『老夫新晋联盟尊者』"
+      },
+      {
+        "value": "并非真正的四尊之一",
+        "docId": "plot.xianni-ch930-alliance-elder-council",
+        "seq": 860,
+        "note": "本章点明真正四尊为月云贤药四人"
       }
     ],
     "外貌": [
@@ -43,16 +50,23 @@
         "docId": "plot.xianni-ch922-jixiantian-north-battle",
         "seq": 855
       }
+    ],
+    "称号": [
+      {
+        "value": "妖尊",
+        "docId": "plot.xianni-ch930-alliance-elder-council",
+        "seq": 860
+      }
     ]
   },
   "firstSeq": 855,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch922-jixiantian-north-battle",
+      "docId": "plot.xianni-ch930-alliance-elder-council",
       "dated": false,
-      "seq": 855,
-      "note": "自称『老夫新晋联盟尊者』"
+      "seq": 860,
+      "note": "本章点明真正四尊为月云贤药四人"
     },
     "外貌": {
       "asOf": null,
@@ -71,6 +85,12 @@
       "docId": "plot.xianni-ch922-jixiantian-north-battle",
       "dated": false,
       "seq": 855
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch930-alliance-elder-council",
+      "dated": false,
+      "seq": 860
     }
   },
   "contested": false,
@@ -79,7 +99,8 @@
     "plot.xianni-ch922-jixiantian-north-battle",
     "plot.xianni-ch923-toumingzhuang-yanleizi-vs-jixiantian",
     "plot.xianni-ch924-wang-lin-dingshen-jixiantian-great-merit",
-    "plot.xianni-ch925-million-beast-blood-lock-heaven-god"
+    "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
+    "plot.xianni-ch930-alliance-elder-council"
   ],
-  "updatedAt": "2026-08-23T20:14:11.700Z"
+  "updatedAt": "2026-08-23T20:27:00.609Z"
 }
