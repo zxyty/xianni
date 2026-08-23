@@ -296,3 +296,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T12:35:46.579Z** `ingest` plot.xianni-830-wang-lin-lures-pursuers-to-wangyue — 第830章 大计划：王林引追兵至望月所化星球 · kind=plot asOf=2026-08-23 entities=16 relations=25 src=00771-00774.p4.md
 - **2026-08-23T12:37:44.020Z** `ingest` plot.xianni-ch831-wangyue-awaken-kill-yao-yunhai — 第831章 望月：王林借凶兽之威，反杀姚云海 · kind=plot asOf=2026-08-23 entities=15 relations=19 src=00775-00779.p1.md
 - **2026-08-23T12:40:15.389Z** `ingest` plot.xianni-ch832-wangyue-zhi-xi-yao-bingyun-battle — 仙逆·第832章 望月之喜：王林引望月抗姚冰云、斩红丝撼星 · kind=plot asOf=2026-08-23 entities=25 relations=32 src=00775-00779.p2.md
+- **2026-08-23T12:41:57.600Z** `ingest` plot.xianni-ch833-wangyue-awakens — 《仙逆》第833章 苏醒——王林撕断红线，望月凶兽苏醒暴走 · kind=plot asOf=2026-08-23 entities=11 relations=15 src=00775-00779.p3.md
