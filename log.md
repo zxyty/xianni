@@ -398,3 +398,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T22:14:20.401Z** `ingest` plot.xianni-881-884-qualification-war-scroll-second — 第881-884章 资格：王林送孙泰骨灰归乡、以势换取罗浮与第二幅战字帖 · kind=plot asOf=2026-08-23 entities=74 relations=125 src=00881-00884.md
 - **2026-08-23T22:17:09.286Z** `ingest` plot.xianni-951-give-me-submission-shayujie-battle — 仙逆 第951章 给我屈服！——杀域界界主凌云子现身、王林雷吼收服第九剑 · kind=plot asOf=2026-08-23 entities=25 relations=36 src=00885-00889.p1.md
 - **2026-08-23T22:19:41.621Z** `ingest` plot.xianni-ch952-jingnie-zongji-huanxuzi-shenmozi — 第952章 净涅踪迹：王林夺剑遇幻虚子，神魔子暗算突生变故 · kind=plot asOf=2026-08-23 entities=20 relations=31 src=00885-00889.p2.md
+- **2026-08-23T22:22:32.781Z** `ingest` plot.xianni-ch953-chaizi-qingshui-shanbeng-shayujie-destroyed — 第953章 钗子：清水仙术「山崩」灭杀域界，紫钗忆亡妻含烟 · kind=plot asOf=2026-08-23 entities=29 relations=42 src=00885-00889.p3.md

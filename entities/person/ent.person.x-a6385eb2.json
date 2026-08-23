@@ -3,14 +3,17 @@
   "type": "person",
   "name": "神魔子",
   "aliases": [
-    "Shen Mo Zi"
+    "Shen Mo Zi",
+    "神魔子老者"
   ],
   "summary": "极度谨慎的青衣老者，当年在所属修真星以数千年屠戮无数修士夺取丹药法宝而无人察觉；在杀域界趁王林与幻虚子斗法时偷袭，出手瞬间遭遇天空紫雾惊变。",
   "attributes": {
     "性别": "男",
-    "外貌": "青衣老者",
+    "外貌": "青衣老者、老者",
     "性格": "极为谨慎，绝不做没有把握之事",
-    "存殁": "存活"
+    "存殁": "存活、死亡",
+    "小阶段": "净涅",
+    "死因": "被清水极境红色闪电穿胸而过，肉身崩溃"
   },
   "observations": {
     "性别": [
@@ -25,6 +28,11 @@
         "value": "青衣老者",
         "docId": "plot.xianni-ch952-jingnie-zongji-huanxuzi-shenmozi",
         "seq": 885
+      },
+      {
+        "value": "老者",
+        "docId": "plot.xianni-ch953-chaizi-qingshui-shanbeng-shayujie-destroyed",
+        "seq": 885
       }
     ],
     "性格": [
@@ -38,6 +46,25 @@
       {
         "value": "存活",
         "docId": "plot.xianni-ch952-jingnie-zongji-huanxuzi-shenmozi",
+        "seq": 885
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch953-chaizi-qingshui-shanbeng-shayujie-destroyed",
+        "seq": 885
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "净涅",
+        "docId": "plot.xianni-ch953-chaizi-qingshui-shanbeng-shayujie-destroyed",
+        "seq": 885
+      }
+    ],
+    "死因": [
+      {
+        "value": "被清水极境红色闪电穿胸而过，肉身崩溃",
+        "docId": "plot.xianni-ch953-chaizi-qingshui-shanbeng-shayujie-destroyed",
         "seq": 885
       }
     ]
@@ -67,12 +94,25 @@
       "docId": "plot.xianni-ch952-jingnie-zongji-huanxuzi-shenmozi",
       "dated": false,
       "seq": 885
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch953-chaizi-qingshui-shanbeng-shayujie-destroyed",
+      "dated": false,
+      "seq": 885
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch953-chaizi-qingshui-shanbeng-shayujie-destroyed",
+      "dated": false,
+      "seq": 885
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch952-jingnie-zongji-huanxuzi-shenmozi"
+    "plot.xianni-ch952-jingnie-zongji-huanxuzi-shenmozi",
+    "plot.xianni-ch953-chaizi-qingshui-shanbeng-shayujie-destroyed"
   ],
-  "updatedAt": "2026-08-23T22:19:41.391Z"
+  "updatedAt": "2026-08-23T22:22:32.534Z"
 }

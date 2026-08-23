@@ -4,7 +4,8 @@
   "name": "幻虚子",
   "aliases": [
     "Huan Xu Zi",
-    "净涅初期中年男子"
+    "净涅初期中年男子",
+    "虚幻子"
   ],
   "summary": "杀域界中隐藏已久的净涅初期修士，明悟「幻之则」，以洪泽荒沙、沙土仙鹤攻击王林，并收服九剑合一之大剑。",
   "attributes": {
@@ -12,7 +13,8 @@
     "小阶段": "净涅初期",
     "外貌": "身穿红袍的中年男子，可化作红烟、身形虚幻透明",
     "性格": "隐忍待机、忌惮强者",
-    "存殁": "存活"
+    "存殁": "存活",
+    "结局": "被清水打上奴印收为仆从"
   },
   "observations": {
     "性别": [
@@ -49,6 +51,14 @@
         "docId": "plot.xianni-ch952-jingnie-zongji-huanxuzi-shenmozi",
         "seq": 885
       }
+    ],
+    "结局": [
+      {
+        "value": "被清水打上奴印收为仆从",
+        "docId": "plot.xianni-ch953-chaizi-qingshui-shanbeng-shayujie-destroyed",
+        "seq": 885,
+        "note": "与紫发界主一同被带走"
+      }
     ]
   },
   "firstSeq": 885,
@@ -82,12 +92,20 @@
       "docId": "plot.xianni-ch952-jingnie-zongji-huanxuzi-shenmozi",
       "dated": false,
       "seq": 885
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch953-chaizi-qingshui-shanbeng-shayujie-destroyed",
+      "dated": false,
+      "seq": 885,
+      "note": "与紫发界主一同被带走"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch952-jingnie-zongji-huanxuzi-shenmozi"
+    "plot.xianni-ch952-jingnie-zongji-huanxuzi-shenmozi",
+    "plot.xianni-ch953-chaizi-qingshui-shanbeng-shayujie-destroyed"
   ],
-  "updatedAt": "2026-08-23T22:19:41.390Z"
+  "updatedAt": "2026-08-23T22:22:32.533Z"
 }

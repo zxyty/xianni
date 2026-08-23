@@ -3,12 +3,19 @@
   "type": "person",
   "name": "杀域界界主",
   "aliases": [
-    "界主"
+    "界主",
+    "紫发修士",
+    "杀域界主"
   ],
   "summary": "杀域界之主，曾对于非言明天地雷树残枝可遏制王林的雷霆之力。",
   "attributes": {
     "身份": "杀域界界主",
-    "阵营": "杀域界"
+    "阵营": "杀域界",
+    "小阶段": "碎涅初期",
+    "外貌": "紫发",
+    "存殁": "存活",
+    "结局": "被清水打上奴印收为仆从",
+    "标志特征": "自爆右臂撕开空间裂缝"
   },
   "observations": {
     "身份": [
@@ -23,6 +30,42 @@
         "value": "杀域界",
         "docId": "plot.xianni-ch909-give-you-a-miracle-yufei-thunder-tree-branch-fusion",
         "seq": 845
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "碎涅初期",
+        "docId": "plot.xianni-ch953-chaizi-qingshui-shanbeng-shayujie-destroyed",
+        "seq": 885
+      }
+    ],
+    "外貌": [
+      {
+        "value": "紫发",
+        "docId": "plot.xianni-ch953-chaizi-qingshui-shanbeng-shayujie-destroyed",
+        "seq": 885
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch953-chaizi-qingshui-shanbeng-shayujie-destroyed",
+        "seq": 885
+      }
+    ],
+    "结局": [
+      {
+        "value": "被清水打上奴印收为仆从",
+        "docId": "plot.xianni-ch953-chaizi-qingshui-shanbeng-shayujie-destroyed",
+        "seq": 885,
+        "note": "眉心现仙界独特之印"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "自爆右臂撕开空间裂缝",
+        "docId": "plot.xianni-ch953-chaizi-qingshui-shanbeng-shayujie-destroyed",
+        "seq": 885
       }
     ]
   },
@@ -39,12 +82,44 @@
       "docId": "plot.xianni-ch909-give-you-a-miracle-yufei-thunder-tree-branch-fusion",
       "dated": false,
       "seq": 845
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch953-chaizi-qingshui-shanbeng-shayujie-destroyed",
+      "dated": false,
+      "seq": 885
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch953-chaizi-qingshui-shanbeng-shayujie-destroyed",
+      "dated": false,
+      "seq": 885
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch953-chaizi-qingshui-shanbeng-shayujie-destroyed",
+      "dated": false,
+      "seq": 885
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch953-chaizi-qingshui-shanbeng-shayujie-destroyed",
+      "dated": false,
+      "seq": 885,
+      "note": "眉心现仙界独特之印"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch953-chaizi-qingshui-shanbeng-shayujie-destroyed",
+      "dated": false,
+      "seq": 885
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch909-give-you-a-miracle-yufei-thunder-tree-branch-fusion"
+    "plot.xianni-ch909-give-you-a-miracle-yufei-thunder-tree-branch-fusion",
+    "plot.xianni-ch953-chaizi-qingshui-shanbeng-shayujie-destroyed"
   ],
-  "updatedAt": "2026-08-23T19:30:53.040Z"
+  "updatedAt": "2026-08-23T22:22:32.531Z"
 }
