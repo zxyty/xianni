@@ -9,10 +9,11 @@
   "summary": "位于罗天东域一处血红色星球上的巨大祠堂，旁有十丈高巨木刻「姚」字，内摆姚家族人灵牌，由血神子坐镇。",
   "attributes": {
     "所属势力": "姚家",
-    "类型": "宗祠/灵牌堂",
+    "类型": "宗祠",
     "方位": "罗天东域血红色星球",
     "守护": "血神子",
-    "特产": "散出浓郁元力的族人灵牌"
+    "特产": "散出浓郁元力的族人灵牌",
+    "上级区域": "罗天东域血红色星球"
   },
   "observations": {
     "所属势力": [
@@ -27,6 +28,11 @@
         "value": "宗祠/灵牌堂",
         "docId": "plot.xianni-ch823-yao-changkong-part3-karma-daoist-realm-duel",
         "seq": 770
+      },
+      {
+        "value": "宗祠",
+        "docId": "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
+        "seq": 775
       }
     ],
     "方位": [
@@ -49,6 +55,13 @@
         "docId": "plot.xianni-ch823-yao-changkong-part3-karma-daoist-realm-duel",
         "seq": 770
       }
+    ],
+    "上级区域": [
+      {
+        "value": "罗天东域血红色星球",
+        "docId": "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
+        "seq": 775
+      }
     ]
   },
   "firstSeq": 770,
@@ -61,9 +74,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch823-yao-changkong-part3-karma-daoist-realm-duel",
+      "docId": "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
       "dated": false,
-      "seq": 770
+      "seq": 775
     },
     "方位": {
       "asOf": null,
@@ -82,12 +95,19 @@
       "docId": "plot.xianni-ch823-yao-changkong-part3-karma-daoist-realm-duel",
       "dated": false,
       "seq": 770
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
+      "dated": false,
+      "seq": 775
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch823-yao-changkong-part3-karma-daoist-realm-duel"
+    "plot.xianni-ch823-yao-changkong-part3-karma-daoist-realm-duel",
+    "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi"
   ],
-  "updatedAt": "2026-08-23T12:20:33.774Z"
+  "updatedAt": "2026-08-23T12:51:25.314Z"
 }

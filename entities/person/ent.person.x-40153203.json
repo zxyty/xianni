@@ -4,13 +4,15 @@
   "name": "张新海之子",
   "aliases": [
     "黑袍中年男子",
-    "张家中年男子"
+    "张家中年男子",
+    "黑袍中年人"
   ],
   "summary": "张新海之子，元婴大圆满修为，被立为王林在横云峰外的新使者；曾被许立国暂时占据肉身。",
   "attributes": {
     "小阶段": "元婴大圆满",
-    "外貌": "身穿黑袍的中年男子",
-    "身份": "王林在横云峰外的使者"
+    "外貌": "黑袍中年男子",
+    "身份": "王林在横云峰外的使者、分身、雷仙殿密谋者之一",
+    "性格": "果断、以险境求突破"
   },
   "observations": {
     "小阶段": [
@@ -25,6 +27,11 @@
         "value": "身穿黑袍的中年男子",
         "docId": "plot.xianni-ch732-daluo-perfection-and-xu-liguo-antics",
         "seq": 693
+      },
+      {
+        "value": "黑袍中年男子",
+        "docId": "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
+        "seq": 775
       }
     ],
     "身份": [
@@ -33,6 +40,24 @@
         "docId": "plot.xianni-ch732-daluo-perfection-and-xu-liguo-antics",
         "seq": 693,
         "note": "本章由王林亲口册立"
+      },
+      {
+        "value": "分身",
+        "docId": "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
+        "seq": 775,
+        "note": "自道\"自己的这具分身可以不要\""
+      },
+      {
+        "value": "雷仙殿密谋者之一",
+        "docId": "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
+        "seq": 775
+      }
+    ],
+    "性格": [
+      {
+        "value": "果断、以险境求突破",
+        "docId": "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
+        "seq": 775
       }
     ]
   },
@@ -46,9 +71,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch732-daluo-perfection-and-xu-liguo-antics",
+      "docId": "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
       "dated": false,
-      "seq": 693
+      "seq": 775
     },
     "身份": {
       "asOf": null,
@@ -56,12 +81,19 @@
       "dated": false,
       "seq": 693,
       "note": "本章由王林亲口册立"
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
+      "dated": false,
+      "seq": 775
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch732-daluo-perfection-and-xu-liguo-antics"
+    "plot.xianni-ch732-daluo-perfection-and-xu-liguo-antics",
+    "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi"
   ],
-  "updatedAt": "2026-08-23T03:48:12.857Z"
+  "updatedAt": "2026-08-23T12:51:25.308Z"
 }

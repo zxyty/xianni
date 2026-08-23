@@ -6,12 +6,13 @@
     "血玉封印",
     "血色玉简封印",
     "传送血玉简",
-    "血祖所赐玉简"
+    "血祖所赐玉简",
+    "血神子的玉简"
   ],
   "summary": "姚惜雪之父所赠，捏碎后化血光覆盖并消解金色符文/石像威胁，是姚惜雪历次取巧通过封印的凭仗。",
   "attributes": {
-    "类型": "一次性传送法器",
-    "用途": "覆盖并磨灭金色符文、取巧度过石像封印、任意地点一次性传送回血星",
+    "类型": "传讯玉简",
+    "用途": "覆盖并磨灭金色符文、取巧度过石像封印、任意地点一次性传送回血星、留神念下达追杀令",
     "产地": "血祖所赐"
   },
   "observations": {
@@ -25,6 +26,11 @@
         "value": "一次性传送法器",
         "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
         "seq": 665
+      },
+      {
+        "value": "传讯玉简",
+        "docId": "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
+        "seq": 775
       }
     ],
     "用途": [
@@ -42,6 +48,11 @@
         "value": "任意地点一次性传送回血星",
         "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
         "seq": 665
+      },
+      {
+        "value": "留神念下达追杀令",
+        "docId": "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
+        "seq": 775
       }
     ],
     "产地": [
@@ -62,9 +73,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
+      "docId": "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
       "dated": false,
-      "seq": 665
+      "seq": 775
     },
     "用途": {
       "asOf": null,
@@ -83,7 +94,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch532-533-three-stroke-rune-second-seal",
-    "plot.xianni-ch705-second-immortal-guard-leidaozi-branded"
+    "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
+    "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi"
   ],
-  "updatedAt": "2026-08-23T00:58:30.722Z"
+  "updatedAt": "2026-08-23T12:51:25.323Z"
 }
