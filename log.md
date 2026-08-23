@@ -383,3 +383,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T21:16:34.577Z** `ingest` plot.xianni-ch933-qingshui-arrives-xuanbao-shangren-artifact-source-power — 第933章 清水来临——望月古神一臂碎次空涅箭，玄宝上人以法宝本源之力夺储物袋 · kind=plot asOf=2026-08-23 entities=22 relations=31 src=00865-00869.p2.md
 - **2026-08-23T21:19:12.509Z** `ingest` plot.xianni-ch934-chase-into-wangyue-mouth — 第934章 追入月口：玄宝上人陨落，众修追入望月体内 · kind=plot asOf=2026-08-23 entities=26 relations=40 src=00865-00869.p3.md
 - **2026-08-23T21:22:06.880Z** `ingest` plot.xianni-ch935-huanglong-siheng-zong-scheme-and-thunder-beast — 第935章 委屈的雷兽：黄龙窥战场、虚无之界与雷兽出世 · kind=plot asOf=2026-08-23 entities=26 relations=39 src=00865-00869.p4.md
+- **2026-08-23T21:24:36.454Z** `ingest` plot.xianni-ch936-yuweng-wangyue-guushen-youzi — 《仙逆》第936章 渔翁——望月体内元力被封印，王林坐观武东禅与一木子争夺古神幼子 · kind=plot asOf=2026-08-23 entities=23 relations=28 src=00865-00869.p5.md

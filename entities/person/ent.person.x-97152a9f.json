@@ -4,14 +4,17 @@
   "name": "一木子",
   "aliases": [
     "青衣老者一木子",
-    "罗天远古修真家族第九长老"
+    "罗天远古修真家族第九长老",
+    "青衫老者一木子",
+    "Yi Muzi"
   ],
   "summary": "自参天巨木裂缝中走出的青衣苍老老者，自称罗天远古修真家族第九长老，以虚幻巨木与高与天齐的巨木阵拦截金龙，后亦钻入望月口中，用意不明。",
   "attributes": {
-    "外貌": "一身青衣、容颜苍老",
-    "身份": "罗天远古修真家族第九长老",
+    "外貌": "一身青衣、容颜苍老、一身青衫，面色略苍白，双目平静",
+    "身份": "罗天远古修真家族第九长老、受大长老差遣，任务是进入望月深处",
     "称号": "第九长老",
-    "标志特征": "虚幻参天巨木、雷鸣风暴倒卷"
+    "标志特征": "虚幻参天巨木、雷鸣风暴倒卷",
+    "性格": "阴沉、务实、速战速决"
   },
   "observations": {
     "外貌": [
@@ -19,12 +22,23 @@
         "value": "一身青衣、容颜苍老",
         "docId": "plot.xianni-ch934-chase-into-wangyue-mouth",
         "seq": 865
+      },
+      {
+        "value": "一身青衫，面色略苍白，双目平静",
+        "docId": "plot.xianni-ch936-yuweng-wangyue-guushen-youzi",
+        "seq": 865,
+        "note": "第936章斗法后"
       }
     ],
     "身份": [
       {
         "value": "罗天远古修真家族第九长老",
         "docId": "plot.xianni-ch934-chase-into-wangyue-mouth",
+        "seq": 865
+      },
+      {
+        "value": "受大长老差遣，任务是进入望月深处",
+        "docId": "plot.xianni-ch936-yuweng-wangyue-guushen-youzi",
         "seq": 865
       }
     ],
@@ -39,6 +53,13 @@
       {
         "value": "虚幻参天巨木、雷鸣风暴倒卷",
         "docId": "plot.xianni-ch934-chase-into-wangyue-mouth",
+        "seq": 865
+      }
+    ],
+    "性格": [
+      {
+        "value": "阴沉、务实、速战速决",
+        "docId": "plot.xianni-ch936-yuweng-wangyue-guushen-youzi",
         "seq": 865
       }
     ]
@@ -68,12 +89,19 @@
       "docId": "plot.xianni-ch934-chase-into-wangyue-mouth",
       "dated": false,
       "seq": 865
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch936-yuweng-wangyue-guushen-youzi",
+      "dated": false,
+      "seq": 865
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch934-chase-into-wangyue-mouth"
+    "plot.xianni-ch934-chase-into-wangyue-mouth",
+    "plot.xianni-ch936-yuweng-wangyue-guushen-youzi"
   ],
-  "updatedAt": "2026-08-23T21:19:12.297Z"
+  "updatedAt": "2026-08-23T21:24:36.240Z"
 }
