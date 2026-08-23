@@ -4,15 +4,18 @@
   "name": "烈云子",
   "aliases": [
     "战家烈云子",
-    "烈空子"
+    "烈空子",
+    "战家 烈云子"
   ],
   "summary": "战家高手，白衣青年外表却透出浓郁沧桑，不乘法宝以双足步行而来，全程沉默；传闻性格火爆，曾一怒连灭十三个修真家族。",
   "attributes": {
-    "外貌": "一身白衣仿若幽灵",
+    "外貌": "一身白衣、外表青年、沧桑诡异、一身白衣仿若幽灵、白衣（后染血）",
     "性格": "传闻极为火爆",
-    "身份": "战家高手",
+    "身份": "战家强者",
     "本命法宝": "银色细剑",
-    "称号": "名震罗天的大神通者"
+    "称号": "名震罗天的大神通者",
+    "元神强度": "元神受创",
+    "存殁": "重伤"
   },
   "observations": {
     "外貌": [
@@ -24,6 +27,11 @@
       {
         "value": "一身白衣仿若幽灵",
         "docId": "plot.xianni-ch841-ancient-god-shattered-star",
+        "seq": 785
+      },
+      {
+        "value": "白衣（后染血）",
+        "docId": "plot.xianni-ch842-seal-wangyue-guzhen-yizhi",
         "seq": 785
       }
     ],
@@ -39,6 +47,11 @@
         "value": "战家高手",
         "docId": "plot.xianni-ch840-call-from-inside-wangyue",
         "seq": 780
+      },
+      {
+        "value": "战家强者",
+        "docId": "plot.xianni-ch842-seal-wangyue-guzhen-yizhi",
+        "seq": 785
       }
     ],
     "本命法宝": [
@@ -54,15 +67,31 @@
         "docId": "plot.xianni-ch841-ancient-god-shattered-star",
         "seq": 785
       }
+    ],
+    "元神强度": [
+      {
+        "value": "元神受创",
+        "docId": "plot.xianni-ch842-seal-wangyue-guzhen-yizhi",
+        "seq": 785,
+        "note": "第842章与古神一指对撞所致"
+      }
+    ],
+    "存殁": [
+      {
+        "value": "重伤",
+        "docId": "plot.xianni-ch842-seal-wangyue-guzhen-yizhi",
+        "seq": 785,
+        "note": "第842章"
+      }
     ]
   },
   "firstSeq": 780,
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch841-ancient-god-shattered-star",
+      "docId": "plot.xianni-ch840-call-from-inside-wangyue",
       "dated": false,
-      "seq": 785
+      "seq": 780
     },
     "性格": {
       "asOf": null,
@@ -72,9 +101,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch840-call-from-inside-wangyue",
+      "docId": "plot.xianni-ch842-seal-wangyue-guzhen-yizhi",
       "dated": false,
-      "seq": 780
+      "seq": 785
     },
     "本命法宝": {
       "asOf": null,
@@ -87,13 +116,28 @@
       "docId": "plot.xianni-ch841-ancient-god-shattered-star",
       "dated": false,
       "seq": 785
+    },
+    "元神强度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch842-seal-wangyue-guzhen-yizhi",
+      "dated": false,
+      "seq": 785,
+      "note": "第842章与古神一指对撞所致"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch842-seal-wangyue-guzhen-yizhi",
+      "dated": false,
+      "seq": 785,
+      "note": "第842章"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch840-call-from-inside-wangyue",
-    "plot.xianni-ch841-ancient-god-shattered-star"
+    "plot.xianni-ch841-ancient-god-shattered-star",
+    "plot.xianni-ch842-seal-wangyue-guzhen-yizhi"
   ],
-  "updatedAt": "2026-08-23T13:43:58.144Z"
+  "updatedAt": "2026-08-23T13:46:26.466Z"
 }

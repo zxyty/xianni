@@ -6,7 +6,9 @@
   "summary": "乘银光而至的中年样貌强者，与申公虎有几分相似，体外银光弧形旋转，全程沉默盯望月。",
   "attributes": {
     "外貌": "中年样貌，与申公虎有几分相似",
-    "性格": "沉默寡言、心思不露"
+    "性格": "沉默寡言、心思不露",
+    "身份": "罗天星域巅峰修士之一",
+    "存殁": "重伤"
   },
   "observations": {
     "外貌": [
@@ -21,6 +23,21 @@
         "value": "沉默寡言、心思不露",
         "docId": "plot.xianni-ch840-call-from-inside-wangyue",
         "seq": 780
+      }
+    ],
+    "身份": [
+      {
+        "value": "罗天星域巅峰修士之一",
+        "docId": "plot.xianni-ch842-seal-wangyue-guzhen-yizhi",
+        "seq": 785
+      }
+    ],
+    "存殁": [
+      {
+        "value": "重伤",
+        "docId": "plot.xianni-ch842-seal-wangyue-guzhen-yizhi",
+        "seq": 785,
+        "note": "第842章"
       }
     ]
   },
@@ -37,13 +54,27 @@
       "docId": "plot.xianni-ch840-call-from-inside-wangyue",
       "dated": false,
       "seq": 780
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch842-seal-wangyue-guzhen-yizhi",
+      "dated": false,
+      "seq": 785
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch842-seal-wangyue-guzhen-yizhi",
+      "dated": false,
+      "seq": 785,
+      "note": "第842章"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch840-call-from-inside-wangyue",
-    "plot.xianni-ch841-ancient-god-shattered-star"
+    "plot.xianni-ch841-ancient-god-shattered-star",
+    "plot.xianni-ch842-seal-wangyue-guzhen-yizhi"
   ],
-  "updatedAt": "2026-08-23T13:43:58.143Z"
+  "updatedAt": "2026-08-23T13:46:26.463Z"
 }

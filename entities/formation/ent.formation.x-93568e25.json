@@ -4,13 +4,15 @@
   "name": "万丈八角阵法",
   "aliases": [
     "八角阵法",
-    "红光八角阵"
+    "红光八角阵",
+    "巨大八角阵法",
+    "红色八角阵法"
   ],
   "summary": "本章末在望月修真星附近星空浮现的万丈大小八角阵法，红光闪烁、浩荡之气令天地颤抖，从中走出四人。",
   "attributes": {
-    "效果": "跨星空降临/传送、散发令天地颤抖的浩荡气息、宣泄大地雷火轰入望月体内",
+    "效果": "跨星空降临/传送、散发令天地颤抖的浩荡气息、宣泄大地雷火轰入望月体内、笼罩镇压、雷火轰击、可分化为无数小阵",
     "品阶": "万丈规模，气息浩荡",
-    "布置者": "向姓老者"
+    "布置者": "向姓老者、向姓红袍老者"
   },
   "observations": {
     "效果": [
@@ -28,6 +30,21 @@
         "value": "宣泄大地雷火轰入望月体内",
         "docId": "plot.xianni-ch841-ancient-god-shattered-star",
         "seq": 785
+      },
+      {
+        "value": "笼罩镇压",
+        "docId": "plot.xianni-ch842-seal-wangyue-guzhen-yizhi",
+        "seq": 785
+      },
+      {
+        "value": "雷火轰击",
+        "docId": "plot.xianni-ch842-seal-wangyue-guzhen-yizhi",
+        "seq": 785
+      },
+      {
+        "value": "可分化为无数小阵",
+        "docId": "plot.xianni-ch842-seal-wangyue-guzhen-yizhi",
+        "seq": 785
       }
     ],
     "品阶": [
@@ -41,6 +58,11 @@
       {
         "value": "向姓老者",
         "docId": "plot.xianni-ch841-ancient-god-shattered-star",
+        "seq": 785
+      },
+      {
+        "value": "向姓红袍老者",
+        "docId": "plot.xianni-ch842-seal-wangyue-guzhen-yizhi",
         "seq": 785
       }
     ]
@@ -70,7 +92,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch839-perfect-seal-yao-bingyun",
-    "plot.xianni-ch841-ancient-god-shattered-star"
+    "plot.xianni-ch841-ancient-god-shattered-star",
+    "plot.xianni-ch842-seal-wangyue-guzhen-yizhi"
   ],
-  "updatedAt": "2026-08-23T13:43:58.148Z"
+  "updatedAt": "2026-08-23T13:46:26.462Z"
 }

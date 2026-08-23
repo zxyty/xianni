@@ -2,11 +2,14 @@
   "id": "ent.person.x-f4913cc8",
   "type": "person",
   "name": "公孙姓黑袍中年男子",
-  "aliases": [],
+  "aliases": [
+    "公孙复姓男子"
+  ],
   "summary": "化作百丈巨鹰以巨爪环绕轰击望月，其力足以崩溃一颗真正的修真星，名列罗天星域强者。",
   "attributes": {
-    "外貌": "黑袍中年，化百丈巨鹰",
-    "称号": "罗天星域强者之列"
+    "外貌": "黑袍中年，化百丈巨鹰、黑袍中年",
+    "称号": "罗天星域强者之列",
+    "标志特征": "化身巨鹰、口吐虚幻大钟"
   },
   "observations": {
     "外貌": [
@@ -14,12 +17,24 @@
         "value": "黑袍中年，化百丈巨鹰",
         "docId": "plot.xianni-ch841-ancient-god-shattered-star",
         "seq": 785
+      },
+      {
+        "value": "黑袍中年",
+        "docId": "plot.xianni-ch842-seal-wangyue-guzhen-yizhi",
+        "seq": 785
       }
     ],
     "称号": [
       {
         "value": "罗天星域强者之列",
         "docId": "plot.xianni-ch841-ancient-god-shattered-star",
+        "seq": 785
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "化身巨鹰、口吐虚幻大钟",
+        "docId": "plot.xianni-ch842-seal-wangyue-guzhen-yizhi",
         "seq": 785
       }
     ]
@@ -37,12 +52,19 @@
       "docId": "plot.xianni-ch841-ancient-god-shattered-star",
       "dated": false,
       "seq": 785
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch842-seal-wangyue-guzhen-yizhi",
+      "dated": false,
+      "seq": 785
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch841-ancient-god-shattered-star"
+    "plot.xianni-ch841-ancient-god-shattered-star",
+    "plot.xianni-ch842-seal-wangyue-guzhen-yizhi"
   ],
-  "updatedAt": "2026-08-23T13:43:58.147Z"
+  "updatedAt": "2026-08-23T13:46:26.465Z"
 }

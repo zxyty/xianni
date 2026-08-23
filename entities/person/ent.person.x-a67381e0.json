@@ -10,7 +10,9 @@
   "attributes": {
     "外貌": "五彩长袍白发老者、面色红润光滑如婴儿之肤",
     "标志特征": "阴柔鬼气弥漫四周",
-    "性格": "好色，好收炉鼎"
+    "性格": "好色，好收炉鼎",
+    "身份": "罗天星域巅峰修士之一",
+    "存殁": "重伤（五人中最重）"
   },
   "observations": {
     "外貌": [
@@ -33,6 +35,21 @@
         "docId": "plot.xianni-ch840-call-from-inside-wangyue",
         "seq": 780
       }
+    ],
+    "身份": [
+      {
+        "value": "罗天星域巅峰修士之一",
+        "docId": "plot.xianni-ch842-seal-wangyue-guzhen-yizhi",
+        "seq": 785
+      }
+    ],
+    "存殁": [
+      {
+        "value": "重伤（五人中最重）",
+        "docId": "plot.xianni-ch842-seal-wangyue-guzhen-yizhi",
+        "seq": 785,
+        "note": "第842章"
+      }
     ]
   },
   "firstSeq": 780,
@@ -54,13 +71,27 @@
       "docId": "plot.xianni-ch840-call-from-inside-wangyue",
       "dated": false,
       "seq": 780
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch842-seal-wangyue-guzhen-yizhi",
+      "dated": false,
+      "seq": 785
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch842-seal-wangyue-guzhen-yizhi",
+      "dated": false,
+      "seq": 785,
+      "note": "第842章"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch840-call-from-inside-wangyue",
-    "plot.xianni-ch841-ancient-god-shattered-star"
+    "plot.xianni-ch841-ancient-god-shattered-star",
+    "plot.xianni-ch842-seal-wangyue-guzhen-yizhi"
   ],
-  "updatedAt": "2026-08-23T13:43:58.146Z"
+  "updatedAt": "2026-08-23T13:46:26.464Z"
 }
