@@ -4,15 +4,19 @@
   "name": "雷元术",
   "aliases": [
     "雷之下品仙术残本",
-    "Lei Yuan Shu"
+    "Lei Yuan Shu",
+    "雷仙殿使者的雷元术",
+    "雷元之术",
+    "雷元术口诀"
   ],
   "summary": "雷之下品仙术残本，从天雷中吸收天地元力入体，加速凝聚元力、缩短停留在阴阳虚实境界的时间。",
   "attributes": {
     "品阶": "下品仙术残本",
     "五行属性": "雷",
-    "出处": "雷仙殿（雷道子玉简）",
-    "效果": "从天雷吸收天地元力入体，快速凝聚自身元力，减少停留阴阳虚实境界的时间",
-    "修炼条件": "修道第一步修士无法承受天雷，不可修炼；王林凭雷之元神可修"
+    "出处": "雷仙殿使者",
+    "效果": "从天雷吸收天地元力入体，快速凝聚自身元力，减少停留阴阳虚实境界的时间、抽取雷霆内的天地元力转化为自身元力、掐诀一抖蕴含九个手印达成印雷之效引雷入体",
+    "修炼条件": "修道第一步修士无法承受天雷，不可修炼；王林凭雷之元神可修、雷光浓郁之地事半功倍、需雷光之地、需修为足够承受雷霆入体，否则形神俱损乃至灰飞烟灭；王林因元神与肉身皆为雷而格外契合",
+    "适用境界": "踏入第二步的修士"
   },
   "observations": {
     "品阶": [
@@ -34,6 +38,11 @@
         "value": "雷仙殿（雷道子玉简）",
         "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
         "seq": 665
+      },
+      {
+        "value": "雷仙殿使者",
+        "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
+        "seq": 679
       }
     ],
     "效果": [
@@ -41,6 +50,16 @@
         "value": "从天雷吸收天地元力入体，快速凝聚自身元力，减少停留阴阳虚实境界的时间",
         "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
         "seq": 665
+      },
+      {
+        "value": "抽取雷霆内的天地元力转化为自身元力",
+        "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
+        "seq": 679
+      },
+      {
+        "value": "掐诀一抖蕴含九个手印达成印雷之效引雷入体",
+        "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
+        "seq": 679
       }
     ],
     "修炼条件": [
@@ -48,6 +67,29 @@
         "value": "修道第一步修士无法承受天雷，不可修炼；王林凭雷之元神可修",
         "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
         "seq": 665
+      },
+      {
+        "value": "雷光浓郁之地事半功倍",
+        "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
+        "seq": 679,
+        "note": "王林于雷光星球所言"
+      },
+      {
+        "value": "需雷光之地",
+        "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
+        "seq": 679
+      },
+      {
+        "value": "需修为足够承受雷霆入体，否则形神俱损乃至灰飞烟灭；王林因元神与肉身皆为雷而格外契合",
+        "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
+        "seq": 679
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "踏入第二步的修士",
+        "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
+        "seq": 679
       }
     ]
   },
@@ -67,9 +109,9 @@
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
+      "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
       "dated": false,
-      "seq": 665
+      "seq": 679
     },
     "效果": {
       "asOf": null,
@@ -82,12 +124,19 @@
       "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
       "dated": false,
       "seq": 665
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
+      "dated": false,
+      "seq": 679
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch705-second-immortal-guard-leidaozi-branded"
+    "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
+    "plot.xianni-ch679-683-thunder-star-body-reforge"
   ],
-  "updatedAt": "2026-08-23T00:58:30.677Z"
+  "updatedAt": "2026-08-23T02:00:23.441Z"
 }

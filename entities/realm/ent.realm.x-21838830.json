@@ -5,15 +5,17 @@
   "aliases": [
     "第二步",
     "踏入第二步",
-    "第二步修士"
+    "第二步修士",
+    "第二步之境"
   ],
   "summary": "修道第二步境界，修士体内蕴含天地元力，可秒愈伤势并施展元力神通；若千年内无法突破则此生修为止步，用元力越多滞留越久。",
   "attributes": {
-    "阶序": "修道第二步",
-    "突破关键": "天地元力（消耗越多，滞留本境时间越久；千年内不破则止步）",
+    "阶序": "第二步",
+    "突破关键": "可自天地转化元力",
     "突破征兆": "可施展元力神通、伤势瞬愈",
     "下一境": "窥捏期",
-    "小阶段": "阴阳虚实境界"
+    "小阶段": "阴阳虚实境界",
+    "上一境": "第一步"
   },
   "observations": {
     "阶序": [
@@ -21,6 +23,11 @@
         "value": "修道第二步",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
+      },
+      {
+        "value": "第二步",
+        "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
+        "seq": 679
       }
     ],
     "突破关键": [
@@ -33,6 +40,11 @@
         "value": "极为稀少，一星之内往往仅数人",
         "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
         "seq": 641
+      },
+      {
+        "value": "可自天地转化元力",
+        "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
+        "seq": 679
       }
     ],
     "突破征兆": [
@@ -55,21 +67,28 @@
         "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
         "seq": 641
       }
+    ],
+    "上一境": [
+      {
+        "value": "第一步",
+        "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
+        "seq": 679
+      }
     ]
   },
   "firstSeq": 641,
   "attrProvenance": {
     "阶序": {
       "asOf": null,
-      "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+      "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
       "dated": false,
-      "seq": 661
+      "seq": 679
     },
     "突破关键": {
       "asOf": null,
-      "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+      "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
       "dated": false,
-      "seq": 661
+      "seq": 679
     },
     "突破征兆": {
       "asOf": null,
@@ -88,13 +107,20 @@
       "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
       "dated": false,
       "seq": 641
+    },
+    "上一境": {
+      "asOf": null,
+      "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
+      "dated": false,
+      "seq": 679
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
-    "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi"
+    "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
+    "plot.xianni-ch679-683-thunder-star-body-reforge"
   ],
-  "updatedAt": "2026-08-22T23:33:37.431Z"
+  "updatedAt": "2026-08-23T02:00:23.459Z"
 }

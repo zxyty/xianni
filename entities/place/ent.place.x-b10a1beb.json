@@ -4,16 +4,21 @@
   "name": "碎石层",
   "aliases": [
     "罗天南域碎石层",
-    "天然碎石屏障"
+    "天然碎石屏障",
+    "雷光星球外的碎石层",
+    "碎石层深处",
+    "罗天南域的碎石层"
   ],
   "summary": "罗天南域偏僻处一大片被神奇力量牵引环绕的碎石带，形成天然屏障；深处有限制神识的奇异之力，为令王林元神极舒服的真正源头所在。",
   "attributes": {
     "所属界面": "罗天南域",
-    "类型": "天然屏障/秘境外围",
-    "方位": "罗天南域极为偏僻之处",
+    "类型": "天然屏障/秘境外围、星球外围碎石带、碎石星域地带",
+    "方位": "罗天南域极为偏僻之处、雷光星球外围/深处、罗天南域",
     "规模": "极大，仙卫飞行许久未至内部",
-    "危险度": "深处有奇异之力限制神识查探",
-    "守护": "环绕碎石构成的天然屏障"
+    "危险度": "高",
+    "守护": "环绕碎石构成的天然屏障",
+    "上级区域": "雷光星球",
+    "特产": "带雷光游走的碎石"
   },
   "observations": {
     "所属界面": [
@@ -28,6 +33,16 @@
         "value": "天然屏障/秘境外围",
         "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
         "seq": 674
+      },
+      {
+        "value": "星球外围碎石带",
+        "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
+        "seq": 679
+      },
+      {
+        "value": "碎石星域地带",
+        "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
+        "seq": 679
       }
     ],
     "方位": [
@@ -35,6 +50,16 @@
         "value": "罗天南域极为偏僻之处",
         "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
         "seq": 674
+      },
+      {
+        "value": "雷光星球外围/深处",
+        "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
+        "seq": 679
+      },
+      {
+        "value": "罗天南域",
+        "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
+        "seq": 679
       }
     ],
     "规模": [
@@ -49,6 +74,11 @@
         "value": "深处有奇异之力限制神识查探",
         "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
         "seq": 674
+      },
+      {
+        "value": "高",
+        "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
+        "seq": 679
       }
     ],
     "守护": [
@@ -56,6 +86,20 @@
         "value": "环绕碎石构成的天然屏障",
         "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
         "seq": 674
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "雷光星球",
+        "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
+        "seq": 679
+      }
+    ],
+    "特产": [
+      {
+        "value": "带雷光游走的碎石",
+        "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
+        "seq": 679
       }
     ]
   },
@@ -87,21 +131,34 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
+      "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
       "dated": false,
-      "seq": 674
+      "seq": 679
     },
     "守护": {
       "asOf": null,
       "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
       "dated": false,
       "seq": 674
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
+      "dated": false,
+      "seq": 679
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
+      "dated": false,
+      "seq": 679
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-674-678-wangyue-awaken-bone-heist"
+    "plot.xianni-674-678-wangyue-awaken-bone-heist",
+    "plot.xianni-ch679-683-thunder-star-body-reforge"
   ],
-  "updatedAt": "2026-08-23T01:41:07.236Z"
+  "updatedAt": "2026-08-23T02:00:23.443Z"
 }
