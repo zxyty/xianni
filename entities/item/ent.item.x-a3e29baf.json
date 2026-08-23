@@ -3,12 +3,20 @@
   "type": "item",
   "name": "水晶棺材",
   "aliases": [
-    "水晶棺"
+    "水晶棺",
+    "避天棺",
+    "阵法内的水晶棺",
+    "棺木",
+    "远古仙域之宝避天棺",
+    "Bi Tian Guan",
+    "晶石棺木",
+    "Bi Tian Coffin"
   ],
   "summary": "血液大阵中心的水晶棺材，内躺俊美男子尸体，持续接收阵法输入的黑气。",
   "attributes": {
     "类型": "棺椁",
-    "用途": "承载并滋养棺中男子尸体"
+    "用途": "承载并滋养棺中男子尸体",
+    "品阶": "远古仙域之宝"
   },
   "observations": {
     "类型": [
@@ -23,6 +31,13 @@
         "value": "承载并滋养棺中男子尸体",
         "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
         "seq": 764
+      }
+    ],
+    "品阶": [
+      {
+        "value": "远古仙域之宝",
+        "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+        "seq": 766
       }
     ]
   },
@@ -39,12 +54,19 @@
       "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
       "dated": false,
       "seq": 764
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+      "dated": false,
+      "seq": 766
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch764-765-tashan-xianwei-cangpinge"
+    "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
+    "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin"
   ],
-  "updatedAt": "2026-08-23T10:56:47.395Z"
+  "updatedAt": "2026-08-23T12:01:50.131Z"
 }

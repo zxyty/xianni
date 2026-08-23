@@ -10,18 +10,19 @@
     "祭坛守护者塔山",
     "仙选族塔山",
     "仙卫塔山",
-    "两丈大汉"
+    "两丈大汉",
+    "塔山虚影"
   ],
   "summary": "仙选族十三叶符士，肉身强横、炼化出仙赐灵甲，公开否认仙人存在并向王林出手。",
   "attributes": {
     "性别": "男",
     "种族": "仙选族",
-    "身份": "符士（非符咒师，以肉身强大见长）、仙选族族人、这一代的祭坛守护者、仙选族族人（修为高深者）、带王林了解此地情况者、仙选族英雄、第一个反抗奴符者、仙卫",
+    "身份": "符士（非符咒师，以肉身强大见长）、仙选族族人、这一代的祭坛守护者、仙选族族人（修为高深者）、带王林了解此地情况者、仙选族英雄、第一个反抗奴符者、仙卫、王林的仙卫",
     "标志特征": "眉心极为复杂的符文，可幻化融入拳头产生法术波动",
-    "外貌": "面如死灰、双目黯淡、死气缠身、大半骨头粉碎",
+    "外貌": "两丈巨人之身，双目金光、体散金芒",
     "性格": "桀骜不信仙、战意极盛、果断、隐忍、执着求真、刚烈、不屈、保留部分本能，对玄阴鼎有无数年的恨意",
     "阵营": "仙选族（不信仙派）",
-    "存殁": "濒死",
+    "存殁": "重伤未死、存活、在世、濒死、存活（本片段受创喷血）、已亡/以虚影形态随王林",
     "元神强度": "元神已崩溃融入肉身",
     "死因": "反抗奴符致全身符文印记反噬"
   },
@@ -76,6 +77,11 @@
         "value": "仙卫",
         "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
         "seq": 764
+      },
+      {
+        "value": "王林的仙卫",
+        "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+        "seq": 766
       }
     ],
     "标志特征": [
@@ -111,6 +117,11 @@
         "value": "面如死灰、双目黯淡、死气缠身、大半骨头粉碎",
         "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
         "seq": 764
+      },
+      {
+        "value": "两丈巨人之身，双目金光、体散金芒",
+        "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+        "seq": 766
       }
     ],
     "性格": [
@@ -170,6 +181,18 @@
         "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
         "seq": 764,
         "note": "第815章被王林带走施展傀儡神通，结果三月后揭晓"
+      },
+      {
+        "value": "存活（本片段受创喷血）",
+        "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+        "seq": 766,
+        "note": "与世界状态须知中『塔山已于第753章死亡』的记载存在出入，本片段中塔山仍在行动"
+      },
+      {
+        "value": "已亡/以虚影形态随王林",
+        "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+        "seq": 766,
+        "note": "第753章已死；本章以虚影融入王林身后"
       }
     ],
     "元神强度": [
@@ -223,9 +246,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
+      "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
       "dated": false,
-      "seq": 764
+      "seq": 766
     },
     "性格": {
       "asOf": null,
@@ -241,10 +264,10 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
+      "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
       "dated": false,
-      "seq": 764,
-      "note": "第815章被王林带走施展傀儡神通，结果三月后揭晓"
+      "seq": 753,
+      "note": "第805章：全身破损、七窍流血，仍存战意"
     },
     "元神强度": {
       "asOf": null,
@@ -267,7 +290,8 @@
     "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
     "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
     "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
-    "plot.xianni-ch764-765-tashan-xianwei-cangpinge"
+    "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
+    "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin"
   ],
-  "updatedAt": "2026-08-23T10:56:47.382Z"
+  "updatedAt": "2026-08-23T12:01:50.126Z"
 }

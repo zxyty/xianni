@@ -5,13 +5,16 @@
   "aliases": [
     "天仙境",
     "三品天仙",
-    "九品天仙"
+    "九品天仙",
+    "一品天仙",
+    "六品天仙"
   ],
   "summary": "高于上仙的仙界品阶，本片段出现三品天仙（窥涅修士元神）与九品天仙（煞气中年男子元神）。",
   "attributes": {
-    "小阶段": "三品天仙、九品天仙",
+    "小阶段": "三品天仙、九品天仙、一品天仙、六品天仙",
     "上一境": "上仙",
-    "下一境": "仙王"
+    "下一境": "仙王",
+    "突破关键": "九品天仙之上修为暴增可超脱天仙级别"
   },
   "observations": {
     "小阶段": [
@@ -24,6 +27,16 @@
         "value": "九品天仙",
         "docId": "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
         "seq": 746
+      },
+      {
+        "value": "一品天仙",
+        "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+        "seq": 766
+      },
+      {
+        "value": "六品天仙",
+        "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+        "seq": 766
       }
     ],
     "上一境": [
@@ -38,6 +51,13 @@
         "value": "仙王",
         "docId": "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
         "seq": 746
+      }
+    ],
+    "突破关键": [
+      {
+        "value": "九品天仙之上修为暴增可超脱天仙级别",
+        "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+        "seq": 766
       }
     ]
   },
@@ -60,12 +80,19 @@
       "docId": "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
       "dated": false,
       "seq": 746
+    },
+    "突破关键": {
+      "asOf": null,
+      "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+      "dated": false,
+      "seq": 766
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-746-750-mysterious-elder-lures-evil-youth"
+    "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
+    "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin"
   ],
-  "updatedAt": "2026-08-23T09:25:34.763Z"
+  "updatedAt": "2026-08-23T12:01:50.147Z"
 }

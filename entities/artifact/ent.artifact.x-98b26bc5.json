@@ -4,12 +4,14 @@
   "name": "三面小旗",
   "aliases": [
     "三个小旗",
-    "紫气小旗"
+    "紫气小旗",
+    "三面旗"
   ],
   "summary": "雷仙殿使者的护身法宝，环身旋转生出大片紫气漩涡产生反震之力；主人身死后卷其元神欲逃，被王林收缴封印。",
   "attributes": {
-    "能力": "旋转生紫气漩涡、强大反震；可卷主人元神遁逃",
-    "持有者": "王林"
+    "能力": "旋转形成紫气漩涡防御",
+    "持有者": "王林",
+    "外形": "三面小旗"
   },
   "observations": {
     "能力": [
@@ -17,6 +19,11 @@
         "value": "旋转生紫气漩涡、强大反震；可卷主人元神遁逃",
         "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
         "seq": 753
+      },
+      {
+        "value": "旋转形成紫气漩涡防御",
+        "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+        "seq": 766
       }
     ],
     "持有者": [
@@ -26,15 +33,22 @@
         "seq": 753,
         "note": "第801章缴获，连同原主元神一并封印于储物袋"
       }
+    ],
+    "外形": [
+      {
+        "value": "三面小旗",
+        "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+        "seq": 766
+      }
     ]
   },
   "firstSeq": 753,
   "attrProvenance": {
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
+      "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
       "dated": false,
-      "seq": 753
+      "seq": 766
     },
     "持有者": {
       "asOf": null,
@@ -42,12 +56,19 @@
       "dated": false,
       "seq": 753,
       "note": "第801章缴获，连同原主元神一并封印于储物袋"
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+      "dated": false,
+      "seq": 766
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name"
+    "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
+    "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin"
   ],
-  "updatedAt": "2026-08-23T10:07:25.119Z"
+  "updatedAt": "2026-08-23T12:01:50.052Z"
 }

@@ -8,8 +8,8 @@
   ],
   "summary": "王林所掌握的仙术之一，虚无空间中有一道身影正在施展。",
   "attributes": {
-    "类型": "禁制/定身",
-    "威力": "瞬间定住十三叶符士",
+    "类型": "定身/禁锢类仙术",
+    "威力": "对分身可完全定住；对黑衣人仅令手骨停顿一瞬",
     "适用境界": "仙术层次"
   },
   "observations": {
@@ -43,6 +43,11 @@
         "value": "禁制/定身",
         "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
         "seq": 758
+      },
+      {
+        "value": "定身/禁锢类仙术",
+        "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+        "seq": 766
       }
     ],
     "威力": [
@@ -66,6 +71,12 @@
         "value": "瞬间定住十三叶符士",
         "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
         "seq": 753
+      },
+      {
+        "value": "对分身可完全定住；对黑衣人仅令手骨停顿一瞬",
+        "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+        "seq": 766,
+        "note": "随目标修为递减"
       }
     ],
     "适用境界": [
@@ -80,15 +91,16 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+      "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
       "dated": false,
-      "seq": 758
+      "seq": 766
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
+      "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
       "dated": false,
-      "seq": 753
+      "seq": 766,
+      "note": "随目标修为递减"
     },
     "适用境界": {
       "asOf": null,
@@ -106,7 +118,8 @@
     "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
     "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
     "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
-    "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid"
+    "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+    "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin"
   ],
-  "updatedAt": "2026-08-23T10:25:07.209Z"
+  "updatedAt": "2026-08-23T12:01:50.062Z"
 }

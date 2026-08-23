@@ -4,12 +4,15 @@
   "name": "幽冥兽",
   "aliases": [
     "幽冥兽体内之地",
-    "幽冥兽体"
+    "幽冥兽体",
+    "鲸鱼状巨兽",
+    "灰雾巨兽"
   ],
   "summary": "仙选族世代栖居其体内的巨兽，其体内自成大陆。",
   "attributes": {
-    "外形": "体内自成一片漆黑虚无空间",
-    "能力": "体内含无尽黑色虚无空间"
+    "外形": "鲸鱼状，粗看不下数万里长，头部无眼只有一张大口",
+    "能力": "体内含无尽黑色虚无空间、体内另有乾坤，仿若蕴含另一个世界，远超本体大小、口中藏有阵法可供修士出入",
+    "栖息地": "罗天西域·陌域深处的灰雾中"
   },
   "observations": {
     "外形": [
@@ -22,6 +25,11 @@
         "value": "体内自成一片漆黑虚无空间",
         "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
         "seq": 764
+      },
+      {
+        "value": "鲸鱼状，粗看不下数万里长，头部无眼只有一张大口",
+        "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+        "seq": 766
       }
     ],
     "能力": [
@@ -29,6 +37,23 @@
         "value": "体内含无尽黑色虚无空间",
         "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
         "seq": 761
+      },
+      {
+        "value": "体内另有乾坤，仿若蕴含另一个世界，远超本体大小",
+        "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+        "seq": 766
+      },
+      {
+        "value": "口中藏有阵法可供修士出入",
+        "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+        "seq": 766
+      }
+    ],
+    "栖息地": [
+      {
+        "value": "罗天西域·陌域深处的灰雾中",
+        "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+        "seq": 766
       }
     ]
   },
@@ -36,15 +61,21 @@
   "attrProvenance": {
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
+      "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
       "dated": false,
-      "seq": 764
+      "seq": 766
     },
     "能力": {
       "asOf": null,
       "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
       "dated": false,
       "seq": 761
+    },
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+      "dated": false,
+      "seq": 766
     }
   },
   "contested": false,
@@ -52,7 +83,8 @@
   "docs": [
     "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
     "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
-    "plot.xianni-ch764-765-tashan-xianwei-cangpinge"
+    "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
+    "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin"
   ],
-  "updatedAt": "2026-08-23T10:56:47.396Z"
+  "updatedAt": "2026-08-23T12:01:50.132Z"
 }

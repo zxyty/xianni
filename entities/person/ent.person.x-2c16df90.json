@@ -10,10 +10,11 @@
   "summary": "白发怪人提及的仙帝，被认为与「呼风」神通有渊源，本片段未出场。",
   "attributes": {
     "称号": "仙帝",
-    "身份": "雷之仙界仙帝",
+    "身份": "仙帝",
     "存殁": "死亡",
     "死因": "离奇身亡，因由不明",
-    "性格": "念旧、不忍杀徒"
+    "性格": "念旧、不忍杀徒",
+    "标志特征": "以「呼风」惩戒违反仙条者"
   },
   "observations": {
     "称号": [
@@ -28,6 +29,11 @@
         "value": "雷之仙界仙帝",
         "docId": "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
         "seq": 746
+      },
+      {
+        "value": "仙帝",
+        "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+        "seq": 766
       }
     ],
     "存殁": [
@@ -51,6 +57,13 @@
         "docId": "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
         "seq": 746
       }
+    ],
+    "标志特征": [
+      {
+        "value": "以「呼风」惩戒违反仙条者",
+        "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+        "seq": 766
+      }
     ]
   },
   "firstSeq": 743,
@@ -63,9 +76,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
+      "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
       "dated": false,
-      "seq": 746
+      "seq": 766
     },
     "存殁": {
       "asOf": null,
@@ -85,13 +98,20 @@
       "docId": "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
       "dated": false,
       "seq": 746
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+      "dated": false,
+      "seq": 766
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
-    "plot.xianni-746-750-mysterious-elder-lures-evil-youth"
+    "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
+    "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin"
   ],
-  "updatedAt": "2026-08-23T09:25:34.779Z"
+  "updatedAt": "2026-08-23T12:01:50.110Z"
 }
