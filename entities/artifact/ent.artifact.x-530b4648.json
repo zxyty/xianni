@@ -4,13 +4,14 @@
   "name": "四个白玉葫芦",
   "aliases": [
     "白玉葫芦",
-    "请宝葫芦"
+    "请宝葫芦",
+    "妙曼身影葫芦"
   ],
   "summary": "窥涅后期老者的法宝，晶莹剔透散发柔和之光，喷出乳白气息化四名妙曼女子虚影攻敌。",
   "attributes": {
     "持有者": "杀域界窥涅后期老者",
-    "外形": "四个晶莹剔透、散发柔和之光的白玉葫芦",
-    "能力": "喷出乳白气息化作四个妙曼女子虚影攻击"
+    "外形": "四个晶莹剔透、散发柔和之光的白玉葫芦、白玉葫芦，共四个",
+    "能力": "喷出乳白气息化作四个妙曼女子虚影攻击、幻化妙曼身影"
   },
   "observations": {
     "持有者": [
@@ -25,12 +26,22 @@
         "value": "四个晶莹剔透、散发柔和之光的白玉葫芦",
         "docId": "plot.xianni-951-give-me-submission-shayujie-battle",
         "seq": 885
+      },
+      {
+        "value": "白玉葫芦，共四个",
+        "docId": "plot.xianni-ch952-jingnie-zongji-huanxuzi-shenmozi",
+        "seq": 885
       }
     ],
     "能力": [
       {
         "value": "喷出乳白气息化作四个妙曼女子虚影攻击",
         "docId": "plot.xianni-951-give-me-submission-shayujie-battle",
+        "seq": 885
+      },
+      {
+        "value": "幻化妙曼身影",
+        "docId": "plot.xianni-ch952-jingnie-zongji-huanxuzi-shenmozi",
         "seq": 885
       }
     ]
@@ -59,7 +70,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-951-give-me-submission-shayujie-battle"
+    "plot.xianni-951-give-me-submission-shayujie-battle",
+    "plot.xianni-ch952-jingnie-zongji-huanxuzi-shenmozi"
   ],
-  "updatedAt": "2026-08-23T22:17:09.028Z"
+  "updatedAt": "2026-08-23T22:19:41.406Z"
 }

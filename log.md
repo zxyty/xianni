@@ -397,3 +397,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T21:55:17.003Z** `ingest` plot.xianni-ch946-muzhi-xinghuacun-anyue-star — 第946章 牧童遥指杏花村：出虚无、清水搜魂玄宝上人、王林独赴暗月星天山杏花村 · kind=plot asOf=2026-08-23 entities=32 relations=33 src=00876-00880.p5.md
 - **2026-08-23T22:14:20.401Z** `ingest` plot.xianni-881-884-qualification-war-scroll-second — 第881-884章 资格：王林送孙泰骨灰归乡、以势换取罗浮与第二幅战字帖 · kind=plot asOf=2026-08-23 entities=74 relations=125 src=00881-00884.md
 - **2026-08-23T22:17:09.286Z** `ingest` plot.xianni-951-give-me-submission-shayujie-battle — 仙逆 第951章 给我屈服！——杀域界界主凌云子现身、王林雷吼收服第九剑 · kind=plot asOf=2026-08-23 entities=25 relations=36 src=00885-00889.p1.md
+- **2026-08-23T22:19:41.621Z** `ingest` plot.xianni-ch952-jingnie-zongji-huanxuzi-shenmozi — 第952章 净涅踪迹：王林夺剑遇幻虚子，神魔子暗算突生变故 · kind=plot asOf=2026-08-23 entities=20 relations=31 src=00885-00889.p2.md

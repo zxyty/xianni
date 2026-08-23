@@ -9,17 +9,19 @@
     "杀域界势力",
     "联盟杀域界",
     "Shayu Realm",
-    "Kill Domain Realm"
+    "Kill Domain Realm",
+    "Kill Domain"
   ],
   "summary": "修真联盟「两殿四尊八方界」之一，位于联盟星域内一片单独存在的星空；黑色建筑形如大剑刺入虚空，正中千丈高塔以黑色铁链连接四周建筑。",
   "attributes": {
     "所属势力": "修真联盟",
-    "类型": "两殿四尊八方界之一",
+    "类型": "秘境/界域",
     "方位": "联盟星域内一片单独存在的星空",
     "规模": "正中高塔高不下千丈",
     "所属界面": "联盟星域、修真联盟",
     "守护": "红发老者及众多杀机浓郁的修士",
-    "特产": "魂侍神通"
+    "特产": "魂侍神通",
+    "危险度": "极高"
   },
   "observations": {
     "所属势力": [
@@ -39,6 +41,11 @@
         "value": "两殿四尊八方界之一",
         "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
         "seq": 845
+      },
+      {
+        "value": "秘境/界域",
+        "docId": "plot.xianni-ch952-jingnie-zongji-huanxuzi-shenmozi",
+        "seq": 885
       }
     ],
     "方位": [
@@ -81,6 +88,13 @@
         "seq": 845,
         "note": "魂杀二侍所修"
       }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.xianni-ch952-jingnie-zongji-huanxuzi-shenmozi",
+        "seq": 885
+      }
     ]
   },
   "firstSeq": 839,
@@ -93,9 +107,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
+      "docId": "plot.xianni-ch952-jingnie-zongji-huanxuzi-shenmozi",
       "dated": false,
-      "seq": 845
+      "seq": 885
     },
     "方位": {
       "asOf": null,
@@ -127,6 +141,12 @@
       "dated": false,
       "seq": 845,
       "note": "魂杀二侍所修"
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch952-jingnie-zongji-huanxuzi-shenmozi",
+      "dated": false,
+      "seq": 885
     }
   },
   "contested": false,
@@ -140,7 +160,8 @@
     "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu",
     "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
     "plot.xianni-881-884-qualification-war-scroll-second",
-    "plot.xianni-951-give-me-submission-shayujie-battle"
+    "plot.xianni-951-give-me-submission-shayujie-battle",
+    "plot.xianni-ch952-jingnie-zongji-huanxuzi-shenmozi"
   ],
-  "updatedAt": "2026-08-23T22:17:09.031Z"
+  "updatedAt": "2026-08-23T22:19:41.400Z"
 }
