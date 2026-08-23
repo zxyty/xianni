@@ -278,3 +278,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T08:06:47.951Z** `ingest` plot.xianni-ch779-jijing-reappears-vortex-seal-broken — 第779章 极境再现：漩涡眼珠诱人破封，王林体内留下一丝极境 · kind=plot asOf=2026-08-23 entities=86 relations=153 src=00736-00739.md
 - **2026-08-23T08:20:03.481Z** `ingest` plot.xianni-740-742-immortal-emperor-technique-huffeng — 仙逆 第740-742章：藏品阁第九层九道长虹，王林入画悟得仙帝之术「呼风」 · kind=plot asOf=2026-08-23 entities=52 relations=92 src=00740-00742.md
 - **2026-08-23T09:06:12.931Z** `ingest` plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm — 第786章 王林恶战血色断臂——雷之仙界八道残肢汇聚 · kind=plot asOf=2026-08-23 entities=71 relations=142 src=00743-00745.md
+- **2026-08-23T09:25:34.965Z** `ingest` plot.xianni-746-750-mysterious-elder-lures-evil-youth — 仙逆 第746-750章：神秘老者驱散修士、诱邪气青年赴本体所在 · kind=plot asOf=2026-08-23 entities=75 relations=123 src=00746-00750.md

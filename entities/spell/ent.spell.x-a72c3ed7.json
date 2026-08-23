@@ -3,12 +3,15 @@
   "type": "spell",
   "name": "道融天地",
   "aliases": [
-    "融入天地"
+    "融入天地",
+    "身子融入天地",
+    "虚空一迈"
   ],
   "summary": "融身于天地之中的遁法，一步之下脚下波纹四起而身形消失；白发怪人称当年仙界能做到者也不多，并指出王林并未完全掌握。",
   "attributes": {
-    "类型": "遁法/隐匿",
-    "出处": "仙界罕有传承"
+    "类型": "遁术/空间穿梭",
+    "出处": "仙界罕有传承",
+    "威力": "瞬息跨越无数碎片大陆，可凭感应互相追踪"
   },
   "observations": {
     "类型": [
@@ -16,6 +19,11 @@
         "value": "遁法/隐匿",
         "docId": "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
         "seq": 743
+      },
+      {
+        "value": "遁术/空间穿梭",
+        "docId": "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
+        "seq": 746
       }
     ],
     "出处": [
@@ -24,27 +32,41 @@
         "docId": "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
         "seq": 743
       }
+    ],
+    "威力": [
+      {
+        "value": "瞬息跨越无数碎片大陆，可凭感应互相追踪",
+        "docId": "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
+        "seq": 746
+      }
     ]
   },
   "firstSeq": 743,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
+      "docId": "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
       "dated": false,
-      "seq": 743
+      "seq": 746
     },
     "出处": {
       "asOf": null,
       "docId": "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
       "dated": false,
       "seq": 743
+    },
+    "威力": {
+      "asOf": null,
+      "docId": "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
+      "dated": false,
+      "seq": 746
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm"
+    "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
+    "plot.xianni-746-750-mysterious-elder-lures-evil-youth"
   ],
-  "updatedAt": "2026-08-23T09:06:12.726Z"
+  "updatedAt": "2026-08-23T09:25:34.691Z"
 }
