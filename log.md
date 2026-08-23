@@ -306,3 +306,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T13:03:01.935Z** `ingest` plot.xianni-ch840-call-from-inside-wangyue — 第840章 来自望月体内的召唤——群怪围猎望月与古神幼子传承 · kind=plot asOf=2026-08-23 entities=27 relations=40 src=00780-00784.p5.md
 - **2026-08-23T13:43:58.337Z** `ingest` plot.xianni-ch841-ancient-god-shattered-star — 第841章 古神碎星：七大高手围攻望月，古神幼子崩星送王林出困 · kind=plot asOf=2026-08-23 entities=23 relations=32 src=00785-00789.p1.md
 - **2026-08-23T13:46:26.650Z** `ingest` plot.xianni-ch842-seal-wangyue-guzhen-yizhi — 第842章 封印望月：六大老怪合围、古神一指崩阵、王林踏入古神幼子传送阵 · kind=plot asOf=2026-08-23 entities=24 relations=30 src=00785-00789.p2.md
+- **2026-08-23T13:48:55.850Z** `ingest` plot.xianni-ch843-return-to-qingling-star — 第843章 回青灵星：脱身望月、闭关祭炼大鼎、吸取姚冰云元力 · kind=plot asOf=2026-08-23 entities=28 relations=39 src=00785-00789.p3.md
