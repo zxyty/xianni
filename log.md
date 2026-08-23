@@ -300,3 +300,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T12:44:29.501Z** `ingest` plot.xianni-ch834-yanleizi-reappears-wangyue-massacre — 第834章 炎雷子再现：望月屠戮罗天北域，一百零八仙计划浮现 · kind=plot asOf=2026-08-23 entities=24 relations=37 src=00775-00779.p4.md
 - **2026-08-23T12:51:25.529Z** `ingest` plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi — 第835章 皮甲气息：望月怒发古神一指，炎雷子三人硬撼 · kind=plot asOf=2026-08-23 entities=32 relations=60 src=00775-00779.p5.md
 - **2026-08-23T12:52:59.003Z** `ingest` plot.xianni-ch836-wangyue-secret-tentacle-space — 第836章 望月的秘密——万丈望月吞噬王林，触手空间与贪狼大鼎 · kind=plot asOf=2026-08-23 entities=11 relations=12 src=00780-00784.p1.md
+- **2026-08-23T12:55:24.428Z** `ingest` plot.xianni-837-ding-cauldron-wanglin-tanlang-brand — 仙逆·第837章「鼎」：王林鼎内疗伤、姚冰云闭神术自封、发现贪狼未死 · kind=plot asOf=2026-08-23 entities=21 relations=28 src=00780-00784.p2.md

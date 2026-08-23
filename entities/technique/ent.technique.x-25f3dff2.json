@@ -3,15 +3,18 @@
   "type": "technique",
   "name": "闭神仙术",
   "aliases": [
-    "姚家闭神仙术"
+    "姚家闭神仙术",
+    "闭神术",
+    "闭神仙法"
   ],
   "summary": "姚家三大禁术之一，自锁神识七窍——目不可查、嘴不可言、耳不可听、鼻不可闻；稍有不慎便彻底沉入神识自锁而亡，历代均有姚家族人死于此术。",
   "attributes": {
     "出处": "姚家",
     "品阶": "姚家三大禁术之一",
-    "效果": "自锁神识七窍，静心向道",
-    "修炼条件": "问鼎之后改修；须极强心志",
-    "适用境界": "问鼎期之后"
+    "效果": "自锁神识七窍，静心向道、闭目、闭耳、闭息（口鼻之息消失）、闭神（元神停转自我封闭）、闭念（封锁生念，生机仿若消失）",
+    "修炼条件": "天资作用不大，对道心要求极为严格，道心不坚无法沉入闭神之境",
+    "适用境界": "问鼎期之后",
+    "外显异象": "自封后体内涌出寒气，冰晶蔓延成三尺厚冰层，连同缠身触手一并封住"
   },
   "observations": {
     "出处": [
@@ -33,6 +36,31 @@
         "value": "自锁神识七窍，静心向道",
         "docId": "plot.xianni-ch827-yao-bingyun-pursuit",
         "seq": 771
+      },
+      {
+        "value": "闭目",
+        "docId": "plot.xianni-837-ding-cauldron-wanglin-tanlang-brand",
+        "seq": 780
+      },
+      {
+        "value": "闭耳",
+        "docId": "plot.xianni-837-ding-cauldron-wanglin-tanlang-brand",
+        "seq": 780
+      },
+      {
+        "value": "闭息（口鼻之息消失）",
+        "docId": "plot.xianni-837-ding-cauldron-wanglin-tanlang-brand",
+        "seq": 780
+      },
+      {
+        "value": "闭神（元神停转自我封闭）",
+        "docId": "plot.xianni-837-ding-cauldron-wanglin-tanlang-brand",
+        "seq": 780
+      },
+      {
+        "value": "闭念（封锁生念，生机仿若消失）",
+        "docId": "plot.xianni-837-ding-cauldron-wanglin-tanlang-brand",
+        "seq": 780
       }
     ],
     "修炼条件": [
@@ -40,6 +68,11 @@
         "value": "问鼎之后改修；须极强心志",
         "docId": "plot.xianni-ch827-yao-bingyun-pursuit",
         "seq": 771
+      },
+      {
+        "value": "天资作用不大，对道心要求极为严格，道心不坚无法沉入闭神之境",
+        "docId": "plot.xianni-837-ding-cauldron-wanglin-tanlang-brand",
+        "seq": 780
       }
     ],
     "适用境界": [
@@ -47,6 +80,13 @@
         "value": "问鼎期之后",
         "docId": "plot.xianni-ch827-yao-bingyun-pursuit",
         "seq": 771
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "自封后体内涌出寒气，冰晶蔓延成三尺厚冰层，连同缠身触手一并封住",
+        "docId": "plot.xianni-837-ding-cauldron-wanglin-tanlang-brand",
+        "seq": 780
       }
     ]
   },
@@ -72,21 +112,28 @@
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.xianni-ch827-yao-bingyun-pursuit",
+      "docId": "plot.xianni-837-ding-cauldron-wanglin-tanlang-brand",
       "dated": false,
-      "seq": 771
+      "seq": 780
     },
     "适用境界": {
       "asOf": null,
       "docId": "plot.xianni-ch827-yao-bingyun-pursuit",
       "dated": false,
       "seq": 771
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.xianni-837-ding-cauldron-wanglin-tanlang-brand",
+      "dated": false,
+      "seq": 780
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch827-yao-bingyun-pursuit"
+    "plot.xianni-ch827-yao-bingyun-pursuit",
+    "plot.xianni-837-ding-cauldron-wanglin-tanlang-brand"
   ],
-  "updatedAt": "2026-08-23T12:23:28.299Z"
+  "updatedAt": "2026-08-23T12:55:24.232Z"
 }
