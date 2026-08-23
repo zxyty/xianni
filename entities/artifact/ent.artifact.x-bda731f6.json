@@ -4,15 +4,16 @@
   "name": "天虎旗",
   "aliases": [
     "仙宝天虎旗",
-    "三寸小旗"
+    "三寸小旗",
+    "正品雷仙身份之旗"
   ],
   "summary": "封「正品雷仙：许木」六字化作十丈雷光之虎、缩为三寸小旗而成的仙宝，旗面有猛虎虚影，凭此旗可号令罗天三千修士、自成一方。",
   "attributes": {
     "品阶": "仙宝",
     "持有者": "王林",
-    "来历": "炎雷子以金光仙笔在黄绸仙宝上书写封号所化",
-    "能力": "号令罗天三千修士、自成一方",
-    "外形": "三寸小旗，旗面猛虎虚影若隐若现"
+    "来历": "炎雷子所赐",
+    "能力": "号令罗天三千修士、自成一方、虎啸震天、紫气化猛虎咆哮、代表正品雷仙身份",
+    "外形": "旗"
   },
   "observations": {
     "品阶": [
@@ -34,6 +35,11 @@
         "value": "炎雷子以金光仙笔在黄绸仙宝上书写封号所化",
         "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
         "seq": 817
+      },
+      {
+        "value": "炎雷子所赐",
+        "docId": "plot.xianni-ch891-servant-seal-datou-tongzi",
+        "seq": 830
       }
     ],
     "能力": [
@@ -46,6 +52,21 @@
         "value": "自成一方",
         "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
         "seq": 817
+      },
+      {
+        "value": "虎啸震天",
+        "docId": "plot.xianni-ch891-servant-seal-datou-tongzi",
+        "seq": 830
+      },
+      {
+        "value": "紫气化猛虎咆哮",
+        "docId": "plot.xianni-ch891-servant-seal-datou-tongzi",
+        "seq": 830
+      },
+      {
+        "value": "代表正品雷仙身份",
+        "docId": "plot.xianni-ch891-servant-seal-datou-tongzi",
+        "seq": 830
       }
     ],
     "外形": [
@@ -53,6 +74,11 @@
         "value": "三寸小旗，旗面猛虎虚影若隐若现",
         "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
         "seq": 817
+      },
+      {
+        "value": "旗",
+        "docId": "plot.xianni-ch891-servant-seal-datou-tongzi",
+        "seq": 830
       }
     ]
   },
@@ -72,9 +98,9 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
+      "docId": "plot.xianni-ch891-servant-seal-datou-tongzi",
       "dated": false,
-      "seq": 817
+      "seq": 830
     },
     "能力": {
       "asOf": null,
@@ -84,15 +110,16 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
+      "docId": "plot.xianni-ch891-servant-seal-datou-tongzi",
       "dated": false,
-      "seq": 817
+      "seq": 830
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch817-820-yixiantian-killing-trial"
+    "plot.xianni-ch817-820-yixiantian-killing-trial",
+    "plot.xianni-ch891-servant-seal-datou-tongzi"
   ],
-  "updatedAt": "2026-08-23T15:47:09.460Z"
+  "updatedAt": "2026-08-23T17:59:23.760Z"
 }

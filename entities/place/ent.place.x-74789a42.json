@@ -5,12 +5,13 @@
   "aliases": [
     "Yixiantian",
     "一线天之关",
-    "一线天秘境"
+    "一线天秘境",
+    "一线天之地"
   ],
   "summary": "封仙大典最后一关的虚幻试炼空间，茂密丛林遍布毒虫，参与者以虚幻之体互相杀戮，取杀戮最高者为第一仙。",
   "attributes": {
     "所属势力": "雷仙殿封仙之战场地",
-    "类型": "秘境/险地",
+    "类型": "虚幻试炼秘境、秘境/险地、地点",
     "危险度": "极高（散开神识即引杀劫）",
     "守护": "无",
     "上级区域": "罗天星域封仙大典会场"
@@ -37,6 +38,11 @@
       {
         "value": "秘境/险地",
         "docId": "plot.xianni-ch889-wang-lin-returns-zhuque-star",
+        "seq": 830
+      },
+      {
+        "value": "地点",
+        "docId": "plot.xianni-ch891-servant-seal-datou-tongzi",
         "seq": 830
       }
     ],
@@ -72,9 +78,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch889-wang-lin-returns-zhuque-star",
+      "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
       "dated": false,
-      "seq": 830
+      "seq": 817
     },
     "危险度": {
       "asOf": null,
@@ -100,7 +106,8 @@
   "docs": [
     "plot.xianni-ch817-820-yixiantian-killing-trial",
     "plot.xianni-ch880-shengxian-chi-fengxian-shi-wanwer",
-    "plot.xianni-ch889-wang-lin-returns-zhuque-star"
+    "plot.xianni-ch889-wang-lin-returns-zhuque-star",
+    "plot.xianni-ch891-servant-seal-datou-tongzi"
   ],
-  "updatedAt": "2026-08-23T17:54:31.357Z"
+  "updatedAt": "2026-08-23T17:59:23.775Z"
 }

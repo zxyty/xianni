@@ -8,9 +8,9 @@
   ],
   "summary": "王林所掌握的仙术之一，虚无空间中有一道身影正在施展。",
   "attributes": {
-    "类型": "定身/禁锢类仙术",
-    "威力": "对分身可完全定住；对黑衣人仅令手骨停顿一瞬",
-    "适用境界": "仙术层次"
+    "类型": "仙术·禁锢",
+    "威力": "远超以往，一字定住仙血与窥涅敌手",
+    "适用境界": "窥涅初期即可施展"
   },
   "observations": {
     "类型": [
@@ -48,6 +48,11 @@
         "value": "定身/禁锢类仙术",
         "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
         "seq": 766
+      },
+      {
+        "value": "仙术·禁锢",
+        "docId": "plot.xianni-ch891-servant-seal-datou-tongzi",
+        "seq": 830
       }
     ],
     "威力": [
@@ -77,6 +82,12 @@
         "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
         "seq": 766,
         "note": "随目标修为递减"
+      },
+      {
+        "value": "远超以往，一字定住仙血与窥涅敌手",
+        "docId": "plot.xianni-ch891-servant-seal-datou-tongzi",
+        "seq": 830,
+        "note": "本章调动仙元加持后"
       }
     ],
     "适用境界": [
@@ -84,6 +95,11 @@
         "value": "仙术层次",
         "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
         "seq": 753
+      },
+      {
+        "value": "窥涅初期即可施展",
+        "docId": "plot.xianni-ch891-servant-seal-datou-tongzi",
+        "seq": 830
       }
     ]
   },
@@ -91,22 +107,22 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+      "docId": "plot.xianni-ch891-servant-seal-datou-tongzi",
       "dated": false,
-      "seq": 766
+      "seq": 830
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+      "docId": "plot.xianni-ch891-servant-seal-datou-tongzi",
       "dated": false,
-      "seq": 766,
-      "note": "随目标修为递减"
+      "seq": 830,
+      "note": "本章调动仙元加持后"
     },
     "适用境界": {
       "asOf": null,
-      "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
+      "docId": "plot.xianni-ch891-servant-seal-datou-tongzi",
       "dated": false,
-      "seq": 753
+      "seq": 830
     }
   },
   "contested": false,
@@ -119,7 +135,8 @@
     "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
     "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
     "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
-    "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin"
+    "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+    "plot.xianni-ch891-servant-seal-datou-tongzi"
   ],
-  "updatedAt": "2026-08-23T12:01:50.062Z"
+  "updatedAt": "2026-08-23T17:59:23.764Z"
 }

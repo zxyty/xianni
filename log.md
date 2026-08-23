@@ -345,3 +345,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T17:51:45.659Z** `ingest` plot.xianni-ch888-wang-lin-statue-zhuque-star — 第888章 王林的雕像——魔道子许木威名吓退罗天问鼎兄弟 · kind=plot asOf=2026-08-23 entities=29 relations=49 src=00826-00829.p4.md
 - **2026-08-23T17:54:31.554Z** `ingest` plot.xianni-ch889-wang-lin-returns-zhuque-star — 第889章 回归：大头童子屠星遇许木雕像，王林现身朱雀星 · kind=plot asOf=2026-08-23 entities=28 relations=48 src=00830-00833.p1.md
 - **2026-08-23T17:56:38.496Z** `ingest` plot.xianni-ch890-datou-tongzi-battle — 第890章 大头童子：换位神通与仙魔术·筋动 · kind=plot asOf=2026-08-23 entities=24 relations=25 src=00830-00833.p2.md
+- **2026-08-23T17:59:23.967Z** `ingest` plot.xianni-ch891-servant-seal-datou-tongzi — 第891章 仆从——王林重创大头童子并以仙元奴印收其为仆 · kind=plot asOf=2026-08-23 entities=25 relations=31 src=00830-00833.p3.md
