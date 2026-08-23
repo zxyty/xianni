@@ -8,14 +8,17 @@
     "李家破灭禁",
     "李家嫡传破灭禁",
     "破灭禁制",
-    "破灭禁黑线"
+    "破灭禁黑线",
+    "上古四大禁制之破灭禁",
+    "Po Mie Jin"
   ],
   "summary": "四大禁术之一，布成无尽无顶的山峰，无数年来无人能登顶；李元可掐诀逐层破除使山峰不断缩小。",
   "attributes": {
-    "品阶": "四大禁术之一",
-    "效果": "令山峰无有尽头，云雾深处不可窥视；破解需正确手诀、使李家扬名罗天星域、禁制之术、威力未能全部发挥",
+    "品阶": "上古四大禁制之一",
+    "效果": "令山峰无有尽头，云雾深处不可窥视；破解需正确手诀、使李家扬名罗天星域、禁制之术、威力未能全部发挥、以禁行天下、上至仙魔下至凡兽尽可封印",
     "外显异象": "化作黑线",
-    "出处": "李家、李家嫡传、李元（李家）"
+    "出处": "李家、李家嫡传、李元（李家）、李家（当今天下仅存唯一一脉）",
+    "修炼条件": "须在特定传承之处方可学到、须有心禁在体方为真正的破灭禁"
   },
   "observations": {
     "品阶": [
@@ -23,6 +26,11 @@
         "value": "四大禁术之一",
         "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
         "seq": 706
+      },
+      {
+        "value": "上古四大禁制之一",
+        "docId": "plot.xianni-ch754-ancient-god-hide-armor",
+        "seq": 711
       }
     ],
     "效果": [
@@ -46,6 +54,16 @@
         "docId": "plot.xianni-ch753-no-answer-liyuan-servant-soul-truth",
         "seq": 711,
         "note": "受李元一魂两念冲突所限"
+      },
+      {
+        "value": "以禁行天下",
+        "docId": "plot.xianni-ch754-ancient-god-hide-armor",
+        "seq": 711
+      },
+      {
+        "value": "上至仙魔下至凡兽尽可封印",
+        "docId": "plot.xianni-ch754-ancient-god-hide-armor",
+        "seq": 711
       }
     ],
     "外显异象": [
@@ -75,6 +93,23 @@
         "value": "李元（李家）",
         "docId": "plot.xianni-ch751-blood-ancestor-arrives",
         "seq": 711
+      },
+      {
+        "value": "李家（当今天下仅存唯一一脉）",
+        "docId": "plot.xianni-ch754-ancient-god-hide-armor",
+        "seq": 711
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "须在特定传承之处方可学到",
+        "docId": "plot.xianni-ch754-ancient-god-hide-armor",
+        "seq": 711
+      },
+      {
+        "value": "须有心禁在体方为真正的破灭禁",
+        "docId": "plot.xianni-ch754-ancient-god-hide-armor",
+        "seq": 711
       }
     ]
   },
@@ -82,9 +117,9 @@
   "attrProvenance": {
     "品阶": {
       "asOf": null,
-      "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
+      "docId": "plot.xianni-ch754-ancient-god-hide-armor",
       "dated": false,
-      "seq": 706
+      "seq": 711
     },
     "效果": {
       "asOf": null,
@@ -103,6 +138,12 @@
       "docId": "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark",
       "dated": false,
       "seq": 711
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.xianni-ch754-ancient-god-hide-armor",
+      "dated": false,
+      "seq": 711
     }
   },
   "contested": false,
@@ -111,7 +152,8 @@
     "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
     "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark",
     "plot.xianni-ch751-blood-ancestor-arrives",
-    "plot.xianni-ch753-no-answer-liyuan-servant-soul-truth"
+    "plot.xianni-ch753-no-answer-liyuan-servant-soul-truth",
+    "plot.xianni-ch754-ancient-god-hide-armor"
   ],
-  "updatedAt": "2026-08-23T05:35:48.890Z"
+  "updatedAt": "2026-08-23T05:37:55.673Z"
 }
