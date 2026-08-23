@@ -250,3 +250,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T04:53:10.336Z** `ingest` plot.xianni-ch742-mo-lian-daonian-storage — 第742章 魔莲——道念储物空间与雷之仙界搜寻 · kind=plot asOf=2026-08-23 entities=25 relations=39 src=00701-00705.p3.md
 - **2026-08-23T04:55:52.884Z** `ingest` plot.xianni-ch743-li-yuan-tian-gui-trap — 第743章 李元：碎片大陆假禁制陷阱与天鬼被擒 · kind=plot asOf=2026-08-23 entities=23 relations=31 src=00701-00705.p4.md
 - **2026-08-23T04:58:28.280Z** `ingest` plot.xianni-744-jian-jian-li-yuan-lead-way-lei-guang-ceng — 第744章 剑尖——王林收葛姓女子一魂为质，李元引路穿越雷光层 · kind=plot asOf=2026-08-23 entities=19 relations=32 src=00701-00705.p5.md
+- **2026-08-23T05:17:07.734Z** `ingest` plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren — 仙逆745-746章：雷光铁链踏行、天级中品灭绝大阵与自称“有缘人”的老者 · kind=plot asOf=2026-08-23 entities=56 relations=114 src=00706-00710.md

@@ -4,12 +4,15 @@
   "name": "葛家",
   "aliases": [
     "葛姓女子家族",
-    "那女子家族"
+    "那女子家族",
+    "葛姓家族",
+    "葛氏家族"
   ],
   "summary": "葛姓女子所属的家族，曾救下李元，代价是收取其命魂；李元的命魂至今仍在葛家手中。",
   "attributes": {
     "所属界面": "雷之仙界",
-    "理念": "以命魂为代价施救"
+    "理念": "以命魂为代价施救、视雷之仙界为家族禁地、（未述）",
+    "镇派之宝": "家族传承法宝、画轴、铁剑、古朴罗盘"
   },
   "observations": {
     "所属界面": [
@@ -24,6 +27,39 @@
         "value": "以命魂为代价施救",
         "docId": "plot.xianni-744-jian-jian-li-yuan-lead-way-lei-guang-ceng",
         "seq": 701
+      },
+      {
+        "value": "视雷之仙界为家族禁地",
+        "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
+        "seq": 706,
+        "note": "自数万年前起"
+      },
+      {
+        "value": "（未述）",
+        "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
+        "seq": 706
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "家族传承法宝",
+        "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
+        "seq": 706
+      },
+      {
+        "value": "画轴",
+        "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
+        "seq": 706
+      },
+      {
+        "value": "铁剑",
+        "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
+        "seq": 706
+      },
+      {
+        "value": "古朴罗盘",
+        "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
+        "seq": 706
       }
     ]
   },
@@ -40,12 +76,19 @@
       "docId": "plot.xianni-744-jian-jian-li-yuan-lead-way-lei-guang-ceng",
       "dated": false,
       "seq": 701
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
+      "dated": false,
+      "seq": 706
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-744-jian-jian-li-yuan-lead-way-lei-guang-ceng"
+    "plot.xianni-744-jian-jian-li-yuan-lead-way-lei-guang-ceng",
+    "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren"
   ],
-  "updatedAt": "2026-08-23T04:58:28.123Z"
+  "updatedAt": "2026-08-23T05:17:07.556Z"
 }

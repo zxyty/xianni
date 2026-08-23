@@ -4,14 +4,21 @@
   "name": "葛姓女子",
   "aliases": [
     "葛家女子",
-    "葛姑娘"
+    "葛姑娘",
+    "葛家女修",
+    "葛姓女修",
+    "持黑色匕首的女子",
+    "葛女"
   ],
   "summary": "葛家女修，家族握有李元命魂；被王林抽走一魂作信物，怨恨李元引来王林害其新成仙灵被擒；以舌尖血与眉心符文催动漆黑铁剑渡雷光层。",
   "attributes": {
     "性别": "女",
-    "身份": "葛家族人",
-    "标志特征": "眉心有与铁剑相应的符文印记、刚养成并与元神沟通的仙灵被擒、被王林抽走一魂",
-    "性格": "心高气傲、怨气深重"
+    "身份": "葛姓家族修士",
+    "标志特征": "眉心有与铁剑相应的符文印记、刚养成并与元神沟通的仙灵被擒、被王林抽走一魂、秀眉，一丝魂在王林手中",
+    "性格": "心高气傲、怨气深重、骄矜而怯懦，枯燥行程中脾气略大、厉色果决却胆怯畏强",
+    "存殁": "存活",
+    "外貌": "腰肢轻摆、抿唇的年轻女子",
+    "结局": "疑将被用于祭献"
   },
   "observations": {
     "性别": [
@@ -26,6 +33,11 @@
         "value": "葛家族人",
         "docId": "plot.xianni-744-jian-jian-li-yuan-lead-way-lei-guang-ceng",
         "seq": 701
+      },
+      {
+        "value": "葛姓家族修士",
+        "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
+        "seq": 706
       }
     ],
     "标志特征": [
@@ -43,6 +55,11 @@
         "value": "被王林抽走一魂",
         "docId": "plot.xianni-744-jian-jian-li-yuan-lead-way-lei-guang-ceng",
         "seq": 701
+      },
+      {
+        "value": "秀眉，一丝魂在王林手中",
+        "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
+        "seq": 706
       }
     ],
     "性格": [
@@ -50,6 +67,38 @@
         "value": "心高气傲、怨气深重",
         "docId": "plot.xianni-744-jian-jian-li-yuan-lead-way-lei-guang-ceng",
         "seq": 701
+      },
+      {
+        "value": "骄矜而怯懦，枯燥行程中脾气略大",
+        "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
+        "seq": 706
+      },
+      {
+        "value": "厉色果决却胆怯畏强",
+        "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
+        "seq": 706
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
+        "seq": 706
+      }
+    ],
+    "外貌": [
+      {
+        "value": "腰肢轻摆、抿唇的年轻女子",
+        "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
+        "seq": 706
+      }
+    ],
+    "结局": [
+      {
+        "value": "疑将被用于祭献",
+        "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
+        "seq": 706,
+        "note": "本片段仅为其自身推断"
       }
     ]
   },
@@ -63,9 +112,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-744-jian-jian-li-yuan-lead-way-lei-guang-ceng",
+      "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
       "dated": false,
-      "seq": 701
+      "seq": 706
     },
     "标志特征": {
       "asOf": null,
@@ -78,12 +127,32 @@
       "docId": "plot.xianni-744-jian-jian-li-yuan-lead-way-lei-guang-ceng",
       "dated": false,
       "seq": 701
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
+      "dated": false,
+      "seq": 706
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
+      "dated": false,
+      "seq": 706
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
+      "dated": false,
+      "seq": 706,
+      "note": "本片段仅为其自身推断"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-744-jian-jian-li-yuan-lead-way-lei-guang-ceng"
+    "plot.xianni-744-jian-jian-li-yuan-lead-way-lei-guang-ceng",
+    "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren"
   ],
-  "updatedAt": "2026-08-23T04:58:28.113Z"
+  "updatedAt": "2026-08-23T05:17:07.518Z"
 }

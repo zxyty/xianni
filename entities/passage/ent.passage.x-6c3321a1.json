@@ -5,14 +5,18 @@
   "aliases": [
     "雷光区域",
     "雷光铁链",
-    "雷光铁链通道"
+    "雷光铁链通道",
+    "雷丝",
+    "雷之仙界碎片之间的雷丝",
+    "雷霆铁链"
   ],
   "summary": "横亘于雷之仙界各碎片大陆之间的雷光带，如铁链般深钉大陆并延伸入虚无连接另一片大陆；内蕴莫大威能，即便大神通修士渡过也需极为谨慎。",
   "attributes": {
-    "类型": "雷光通道/界内屏障",
-    "两端": "两片碎片大陆",
-    "可通行境界": "大神通修士亦需极为谨慎",
-    "守护": "莫大雷光威能"
+    "类型": "雷力通道",
+    "两端": "雷之仙界的两块碎片大陆",
+    "可通行境界": "多乘法宝穿行；王林可肉身徒步",
+    "守护": "莫大雷光威能",
+    "稳定性": "剧烈晃动、雷力外散"
   },
   "observations": {
     "类型": [
@@ -20,6 +24,11 @@
         "value": "雷光通道/界内屏障",
         "docId": "plot.xianni-744-jian-jian-li-yuan-lead-way-lei-guang-ceng",
         "seq": 701
+      },
+      {
+        "value": "雷力通道",
+        "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
+        "seq": 706
       }
     ],
     "两端": [
@@ -27,6 +36,11 @@
         "value": "两片碎片大陆",
         "docId": "plot.xianni-744-jian-jian-li-yuan-lead-way-lei-guang-ceng",
         "seq": 701
+      },
+      {
+        "value": "雷之仙界的两块碎片大陆",
+        "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
+        "seq": 706
       }
     ],
     "可通行境界": [
@@ -35,6 +49,11 @@
         "docId": "plot.xianni-744-jian-jian-li-yuan-lead-way-lei-guang-ceng",
         "seq": 701,
         "note": "本章需借漆黑铁剑光幕方能安全渡过"
+      },
+      {
+        "value": "多乘法宝穿行；王林可肉身徒步",
+        "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
+        "seq": 706
       }
     ],
     "守护": [
@@ -43,40 +62,55 @@
         "docId": "plot.xianni-744-jian-jian-li-yuan-lead-way-lei-guang-ceng",
         "seq": 701
       }
+    ],
+    "稳定性": [
+      {
+        "value": "剧烈晃动、雷力外散",
+        "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
+        "seq": 706,
+        "note": "第745章异变；据葛家老祖言，本应从不晃动，晃动即意味碎片大陆崩溃"
+      }
     ]
   },
   "firstSeq": 701,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-744-jian-jian-li-yuan-lead-way-lei-guang-ceng",
+      "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
       "dated": false,
-      "seq": 701
+      "seq": 706
     },
     "两端": {
       "asOf": null,
-      "docId": "plot.xianni-744-jian-jian-li-yuan-lead-way-lei-guang-ceng",
+      "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
       "dated": false,
-      "seq": 701
+      "seq": 706
     },
     "可通行境界": {
       "asOf": null,
-      "docId": "plot.xianni-744-jian-jian-li-yuan-lead-way-lei-guang-ceng",
+      "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
       "dated": false,
-      "seq": 701,
-      "note": "本章需借漆黑铁剑光幕方能安全渡过"
+      "seq": 706
     },
     "守护": {
       "asOf": null,
       "docId": "plot.xianni-744-jian-jian-li-yuan-lead-way-lei-guang-ceng",
       "dated": false,
       "seq": 701
+    },
+    "稳定性": {
+      "asOf": null,
+      "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
+      "dated": false,
+      "seq": 706,
+      "note": "第745章异变；据葛家老祖言，本应从不晃动，晃动即意味碎片大陆崩溃"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-744-jian-jian-li-yuan-lead-way-lei-guang-ceng"
+    "plot.xianni-744-jian-jian-li-yuan-lead-way-lei-guang-ceng",
+    "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren"
   ],
-  "updatedAt": "2026-08-23T04:58:28.120Z"
+  "updatedAt": "2026-08-23T05:17:07.482Z"
 }
