@@ -6,14 +6,16 @@
     "Sima Rufeng",
     "蓝宗一脉排行第三",
     "蓝衣青年",
-    "蓝宗司马如风"
+    "蓝宗司马如风",
+    "蓝系弟子司马如风"
   ],
   "summary": "天运宗蓝宗一脉排行第三的修士，婴变后期大圆满，笑容温和，蓝衫上绣三条栩栩如生的蓝龙，参与围堵王林并介绍「王师兄」出场。",
   "attributes": {
-    "身份": "天运宗蓝宗嫡系弟子（行三）",
-    "外貌": "蓝色衣衫，胸口绣三条狰狞凶猛、栩栩如生的蓝龙，看起来约三旬",
+    "身份": "天运宗蓝系弟子",
+    "外貌": "约三旬青年，蓝色衣衫胸口绣三条蓝龙，龙目摄人心魄",
     "性格": "笑容温和、朗声寒暄",
-    "小阶段": "婴变大圆满"
+    "小阶段": "婴变大圆满",
+    "性别": "男"
   },
   "observations": {
     "身份": [
@@ -26,6 +28,11 @@
         "value": "天运宗蓝宗嫡系弟子（行三）",
         "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
         "seq": 467
+      },
+      {
+        "value": "天运宗蓝系弟子",
+        "docId": "plot.xianni-ch957-wang-lin-returns-tianyun-sect",
+        "seq": 890
       }
     ],
     "外貌": [
@@ -33,6 +40,11 @@
         "value": "蓝色衣衫，胸口绣三条狰狞凶猛、栩栩如生的蓝龙，看起来约三旬",
         "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
         "seq": 462
+      },
+      {
+        "value": "约三旬青年，蓝色衣衫胸口绣三条蓝龙，龙目摄人心魄",
+        "docId": "plot.xianni-ch957-wang-lin-returns-tianyun-sect",
+        "seq": 890
       }
     ],
     "性格": [
@@ -55,21 +67,28 @@
         "seq": 467,
         "note": "第494章"
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch957-wang-lin-returns-tianyun-sect",
+        "seq": 890
+      }
     ]
   },
   "firstSeq": 462,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+      "docId": "plot.xianni-ch957-wang-lin-returns-tianyun-sect",
       "dated": false,
-      "seq": 467
+      "seq": 890
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
+      "docId": "plot.xianni-ch957-wang-lin-returns-tianyun-sect",
       "dated": false,
-      "seq": 462
+      "seq": 890
     },
     "性格": {
       "asOf": null,
@@ -83,13 +102,20 @@
       "dated": false,
       "seq": 467,
       "note": "第494章"
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch957-wang-lin-returns-tianyun-sect",
+      "dated": false,
+      "seq": 890
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
-    "plot.xianni-ch467-471-ziqi-donglai-chuangyan"
+    "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+    "plot.xianni-ch957-wang-lin-returns-tianyun-sect"
   ],
-  "updatedAt": "2026-08-21T08:12:23.112Z"
+  "updatedAt": "2026-08-23T22:37:04.685Z"
 }

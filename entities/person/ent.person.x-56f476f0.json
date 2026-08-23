@@ -4,12 +4,14 @@
   "name": "肉山老者",
   "aliases": [
     "身体硕大如肉山的老者",
-    "坐紫竹大椅的老者"
+    "坐紫竹大椅的老者",
+    "身体硕大如肉山般的老者"
   ],
   "summary": "到场的大神通修士之一，体形硕大如一座肉山，坐紫竹大椅，由四名精光双目的大汉抬着。",
   "attributes": {
-    "外貌": "身体极为硕大，仿若一座肉山",
-    "标志特征": "坐紫竹大椅，由四名大汉抬行"
+    "外貌": "身体极为硕大，仿若一座肉山、身体硕大仿若肉山",
+    "标志特征": "坐紫竹大椅，由四名大汉抬行",
+    "小阶段": "净涅初期"
   },
   "observations": {
     "外貌": [
@@ -17,12 +19,24 @@
         "value": "身体极为硕大，仿若一座肉山",
         "docId": "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star",
         "seq": 890
+      },
+      {
+        "value": "身体硕大仿若肉山",
+        "docId": "plot.xianni-ch957-wang-lin-returns-tianyun-sect",
+        "seq": 890
       }
     ],
     "标志特征": [
       {
         "value": "坐紫竹大椅，由四名大汉抬行",
         "docId": "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star",
+        "seq": 890
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "净涅初期",
+        "docId": "plot.xianni-ch957-wang-lin-returns-tianyun-sect",
         "seq": 890
       }
     ]
@@ -40,12 +54,19 @@
       "docId": "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star",
       "dated": false,
       "seq": 890
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch957-wang-lin-returns-tianyun-sect",
+      "dated": false,
+      "seq": 890
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star"
+    "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star",
+    "plot.xianni-ch957-wang-lin-returns-tianyun-sect"
   ],
-  "updatedAt": "2026-08-23T22:34:23.402Z"
+  "updatedAt": "2026-08-23T22:37:04.687Z"
 }
