@@ -15,11 +15,13 @@
   "summary": "白发怪人提及的仙帝，被认为与「呼风」神通有渊源，本片段未出场。",
   "attributes": {
     "称号": "清水之师尊",
-    "身份": "清水的先师",
+    "身份": "雷之仙界仙帝、仙帝、清水的师尊、清水与许木（王林）的师尊、清水的先师、远古之民、远古仙域证道者、四大仙界开创者之一、清水仙君之师尊",
     "存殁": "死亡",
-    "死因": "离奇身亡，因由不明",
+    "死因": "指天癫狂而亡",
     "性格": "念旧、不忍杀徒",
-    "标志特征": "指天疯癫"
+    "标志特征": "指天疯癫",
+    "种族": "远古之民",
+    "结局": "癫狂而亡，所见之物成谜"
   },
   "observations": {
     "称号": [
@@ -59,6 +61,26 @@
         "value": "清水的先师",
         "docId": "plot.xianni-942-tianni-zhu-tremor-fissure-opens",
         "seq": 876
+      },
+      {
+        "value": "远古之民",
+        "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+        "seq": 876
+      },
+      {
+        "value": "远古仙域证道者",
+        "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+        "seq": 876
+      },
+      {
+        "value": "四大仙界开创者之一",
+        "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+        "seq": 876
+      },
+      {
+        "value": "清水仙君之师尊",
+        "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+        "seq": 876
       }
     ],
     "存殁": [
@@ -74,6 +96,11 @@
         "value": "离奇身亡，因由不明",
         "docId": "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
         "seq": 746
+      },
+      {
+        "value": "指天癫狂而亡",
+        "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+        "seq": 876
       }
     ],
     "性格": [
@@ -95,6 +122,20 @@
         "seq": 821,
         "note": "王林在雷仙界内所见"
       }
+    ],
+    "种族": [
+      {
+        "value": "远古之民",
+        "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+        "seq": 876
+      }
+    ],
+    "结局": [
+      {
+        "value": "癫狂而亡，所见之物成谜",
+        "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+        "seq": 876
+      }
     ]
   },
   "firstSeq": 743,
@@ -107,9 +148,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-942-tianni-zhu-tremor-fissure-opens",
+      "docId": "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
       "dated": false,
-      "seq": 876
+      "seq": 746
     },
     "存殁": {
       "asOf": null,
@@ -120,9 +161,9 @@
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
+      "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
       "dated": false,
-      "seq": 746
+      "seq": 876
     },
     "性格": {
       "asOf": null,
@@ -136,6 +177,18 @@
       "dated": false,
       "seq": 821,
       "note": "王林在雷仙界内所见"
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+      "dated": false,
+      "seq": 876
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+      "dated": false,
+      "seq": 876
     }
   },
   "contested": false,
@@ -155,7 +208,8 @@
     "plot.xianni-ch928-wuxing-jinshi",
     "plot.xianni-ch937-hua-di-wei-lao",
     "plot.xianni-ch938-qingshui-rescue-xuanbao-wangyue-expelled",
-    "plot.xianni-942-tianni-zhu-tremor-fissure-opens"
+    "plot.xianni-942-tianni-zhu-tremor-fissure-opens",
+    "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin"
   ],
-  "updatedAt": "2026-08-23T21:39:33.806Z"
+  "updatedAt": "2026-08-23T21:52:39.637Z"
 }

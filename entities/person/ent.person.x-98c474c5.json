@@ -26,7 +26,8 @@
     "结局": "损失次空涅法宝、被清水重创，一心逃走",
     "存殁": "肉身崩溃，元神出窍几近崩溃、元神尚存但气若游丝、存活、元神在王林手中",
     "死因": "清水红色闪电、望月古神手臂、炎雷子仙界碎片三方合击",
-    "本命法宝": "身外可凝聚崩溃的无数法宝（化白气）"
+    "本命法宝": "身外可凝聚崩溃的无数法宝（化白气）",
+    "元神强度": "元神内蕴含仙元"
   },
   "observations": {
     "身份": [
@@ -207,6 +208,14 @@
         "docId": "plot.xianni-ch934-chase-into-wangyue-mouth",
         "seq": 865
       }
+    ],
+    "元神强度": [
+      {
+        "value": "元神内蕴含仙元",
+        "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+        "seq": 876,
+        "note": "清水评价对王林有大用"
+      }
     ]
   },
   "firstSeq": 860,
@@ -274,6 +283,13 @@
       "docId": "plot.xianni-ch934-chase-into-wangyue-mouth",
       "dated": false,
       "seq": 865
+    },
+    "元神强度": {
+      "asOf": null,
+      "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+      "dated": false,
+      "seq": 876,
+      "note": "清水评价对王林有大用"
     }
   },
   "contested": false,
@@ -288,7 +304,8 @@
     "plot.xianni-ch937-hua-di-wei-lao",
     "plot.xianni-ch938-qingshui-rescue-xuanbao-wangyue-expelled",
     "plot.xianni-939-jixiantian-puppet-slain-power-inheritance",
-    "plot.xianni-ch941-wang-clan-artifact-mie-shen-mao"
+    "plot.xianni-ch941-wang-clan-artifact-mie-shen-mao",
+    "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin"
   ],
-  "updatedAt": "2026-08-23T21:37:08.255Z"
+  "updatedAt": "2026-08-23T21:52:39.640Z"
 }

@@ -8,7 +8,8 @@
     "张姓弟子",
     "黑衣青年",
     "仙门外黑衣青年",
-    "白衣青年（联盟一方）"
+    "白衣青年（联盟一方）",
+    "抱走老者的黑衣青年"
   ],
   "summary": "接送王家三少年往返恒岳派的白衣修士。",
   "attributes": {
@@ -19,7 +20,8 @@
     "存殁": "在世",
     "小阶段": "凝气期第五层",
     "称号": "黑衣",
-    "本命法宝": "晶莹剔透小飞剑"
+    "本命法宝": "晶莹剔透小飞剑",
+    "性格": "惊骇闪躲"
   },
   "observations": {
     "性别": [
@@ -109,6 +111,13 @@
         "seq": 25,
         "note": "御剑化长虹"
       }
+    ],
+    "性格": [
+      {
+        "value": "惊骇闪躲",
+        "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+        "seq": 876
+      }
     ]
   },
   "firstSeq": 1,
@@ -162,6 +171,12 @@
       "dated": false,
       "seq": 25,
       "note": "御剑化长虹"
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+      "dated": false,
+      "seq": 876
     }
   },
   "contested": false,
@@ -173,7 +188,8 @@
     "plot.xianni-ch25-30-ningqi-first-layer-and-xianfu",
     "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
     "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
-    "plot.xianni-ch926-thousand-zhang-giant-demon-self-destruct"
+    "plot.xianni-ch926-thousand-zhang-giant-demon-self-destruct",
+    "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin"
   ],
-  "updatedAt": "2026-08-23T20:16:51.997Z"
+  "updatedAt": "2026-08-23T21:52:39.590Z"
 }

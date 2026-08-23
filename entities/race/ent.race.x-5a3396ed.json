@@ -1,51 +1,55 @@
 {
-  "id": "ent.world.x-a21a6a4c",
-  "type": "world",
-  "name": "风雨雷电四大仙界",
+  "id": "ent.race.x-5a3396ed",
+  "type": "race",
+  "name": "远古之民",
   "aliases": [
-    "四大仙界",
-    "风雨雷电四界"
+    "远古民",
+    "仙班之民"
   ],
-  "summary": "本章作为规格参照被提及：望月外之战即便在四大仙界之下的四大星域也极为少见。",
+  "summary": "远古时期自修天地、列为仙班的族群，成就远古仙域；白凡即其一。",
   "attributes": {
-    "层次": "仙界",
-    "特点": "彼此以壁垒隔绝、战后均处最虚弱阶段、下域曾遭符族入侵"
+    "特性": "自修天地、列为仙班",
+    "聚居地": "远古仙域",
+    "代表人物": "白凡"
   },
   "observations": {
-    "层次": [
+    "特性": [
       {
-        "value": "仙界",
+        "value": "自修天地、列为仙班",
         "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
         "seq": 876
       }
     ],
-    "特点": [
+    "聚居地": [
       {
-        "value": "彼此以壁垒隔绝",
+        "value": "远古仙域",
         "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
         "seq": 876
-      },
+      }
+    ],
+    "代表人物": [
       {
-        "value": "战后均处最虚弱阶段",
-        "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
-        "seq": 876
-      },
-      {
-        "value": "下域曾遭符族入侵",
+        "value": "白凡",
         "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
         "seq": 876
       }
     ]
   },
-  "firstSeq": 780,
+  "firstSeq": 876,
   "attrProvenance": {
-    "层次": {
+    "特性": {
       "asOf": null,
       "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
       "dated": false,
       "seq": 876
     },
-    "特点": {
+    "聚居地": {
+      "asOf": null,
+      "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+      "dated": false,
+      "seq": 876
+    },
+    "代表人物": {
       "asOf": null,
       "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
       "dated": false,
@@ -55,8 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch840-call-from-inside-wangyue",
     "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin"
   ],
-  "updatedAt": "2026-08-23T21:52:39.649Z"
+  "updatedAt": "2026-08-23T21:52:39.615Z"
 }

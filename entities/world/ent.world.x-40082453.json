@@ -1,15 +1,15 @@
 {
-  "id": "ent.world.x-a21a6a4c",
+  "id": "ent.world.x-40082453",
   "type": "world",
-  "name": "风雨雷电四大仙界",
+  "name": "电闪之仙界",
   "aliases": [
-    "四大仙界",
-    "风雨雷电四界"
+    "电闪界",
+    "电界"
   ],
-  "summary": "本章作为规格参照被提及：望月外之战即便在四大仙界之下的四大星域也极为少见。",
+  "summary": "风雨雷电四大仙界之一，其下为召河星域。",
   "attributes": {
     "层次": "仙界",
-    "特点": "彼此以壁垒隔绝、战后均处最虚弱阶段、下域曾遭符族入侵"
+    "特点": "四大仙界之一，其下召河"
   },
   "observations": {
     "层次": [
@@ -21,23 +21,13 @@
     ],
     "特点": [
       {
-        "value": "彼此以壁垒隔绝",
-        "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
-        "seq": 876
-      },
-      {
-        "value": "战后均处最虚弱阶段",
-        "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
-        "seq": 876
-      },
-      {
-        "value": "下域曾遭符族入侵",
+        "value": "四大仙界之一，其下召河",
         "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
         "seq": 876
       }
     ]
   },
-  "firstSeq": 780,
+  "firstSeq": 876,
   "attrProvenance": {
     "层次": {
       "asOf": null,
@@ -55,8 +45,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch840-call-from-inside-wangyue",
     "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin"
   ],
-  "updatedAt": "2026-08-23T21:52:39.649Z"
+  "updatedAt": "2026-08-23T21:52:39.608Z"
 }

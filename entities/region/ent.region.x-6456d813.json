@@ -10,13 +10,17 @@
     "远古仙界",
     "消失的远古仙域",
     "Ancient Immortal Domain",
-    "远古仙域规则"
+    "远古仙域规则",
+    "真正的仙界",
+    "Yuangu Xianyu",
+    "远古仙域之令来源"
   ],
   "summary": "恒久之前存在的神秘星域，被视为所有修士的圣地；传说其放弃修士、离开这片星空而消失，只留下四处通往它的通道。",
   "attributes": {
-    "特点": "所有修士的圣地、已离开星空消失、遗留四处通道、已消失、传闻将再次临世开启、只接引封仙石留名者、已崩溃瓦解，遗留仙界巨木",
-    "层次": "仙域/仙界",
-    "通道": "封仙石留名"
+    "特点": "所有修士的圣地、已离开星空消失、遗留四处通道、已消失、传闻将再次临世开启、只接引封仙石留名者、已崩溃瓦解，遗留仙界巨木、万灵之守护、仙域在则天地在，仙域亡则万灵摧、由东西南北四根参天巨木支撑",
+    "层次": "仙界圣地、真正的仙界",
+    "通道": "四大通道（后成风雨雷电四大仙界）",
+    "主宰势力": "远古之民/仙班"
   },
   "observations": {
     "特点": [
@@ -54,6 +58,21 @@
         "value": "已崩溃瓦解，遗留仙界巨木",
         "docId": "plot.xianni-ch917-luotian-counterattack",
         "seq": 853
+      },
+      {
+        "value": "万灵之守护",
+        "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+        "seq": 876
+      },
+      {
+        "value": "仙域在则天地在，仙域亡则万灵摧",
+        "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+        "seq": 876
+      },
+      {
+        "value": "由东西南北四根参天巨木支撑",
+        "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+        "seq": 876
       }
     ],
     "层次": [
@@ -66,6 +85,11 @@
         "value": "仙域/仙界",
         "docId": "plot.xianni-ch917-luotian-counterattack",
         "seq": 853
+      },
+      {
+        "value": "仙界圣地、真正的仙界",
+        "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+        "seq": 876
       }
     ],
     "通道": [
@@ -78,6 +102,18 @@
         "value": "封仙石留名",
         "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
         "seq": 810
+      },
+      {
+        "value": "四大通道（后成风雨雷电四大仙界）",
+        "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+        "seq": 876
+      }
+    ],
+    "主宰势力": [
+      {
+        "value": "远古之民/仙班",
+        "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+        "seq": 876
       }
     ]
   },
@@ -91,15 +127,21 @@
     },
     "层次": {
       "asOf": null,
-      "docId": "plot.xianni-ch917-luotian-counterattack",
+      "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
       "dated": false,
-      "seq": 853
+      "seq": 876
     },
     "通道": {
       "asOf": null,
-      "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+      "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
       "dated": false,
-      "seq": 810
+      "seq": 876
+    },
+    "主宰势力": {
+      "asOf": null,
+      "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+      "dated": false,
+      "seq": 876
     }
   },
   "contested": false,
@@ -112,7 +154,8 @@
     "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
     "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
     "plot.xianni-ch882-space-barrier-open",
-    "plot.xianni-ch917-luotian-counterattack"
+    "plot.xianni-ch917-luotian-counterattack",
+    "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin"
   ],
-  "updatedAt": "2026-08-23T20:01:28.523Z"
+  "updatedAt": "2026-08-23T21:52:39.656Z"
 }

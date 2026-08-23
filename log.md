@@ -393,3 +393,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T21:39:34.038Z** `ingest` plot.xianni-942-tianni-zhu-tremor-fissure-opens — 第942章 天逆震动：虚无幽光现身，望月被七彩之气拽入裂缝 · kind=plot asOf=2026-08-23 entities=25 relations=33 src=00876-00880.p1.md
 - **2026-08-23T21:42:13.895Z** `ingest` plot.xianni-ch943-tiandao-fengjie-jiuzhen-luochen-guxing — 第943章 天道？——封界九阵与开天斧，罗尘赠双古星被擒 · kind=plot asOf=2026-08-23 entities=19 relations=26 src=00876-00880.p2.md
 - **2026-08-23T21:44:28.716Z** `ingest` plot.xianni-ch944-tianni-zhu-reappears-wanglin-five-star-royal-ancient-god — 第944章 天逆再现！——王林融合罗尘古神之星化五星王族古神，天逆珠自行护主重创月噬老者 · kind=plot asOf=2026-08-23 entities=17 relations=25 src=00876-00880.p3.md
+- **2026-08-23T21:52:39.905Z** `ingest` lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin — 第945章 隐秘：远古仙域崩塌与风雨雷电四大仙界的由来 · kind=lore asOf=2026-08-23 entities=51 relations=76 src=00876-00880.p4.md

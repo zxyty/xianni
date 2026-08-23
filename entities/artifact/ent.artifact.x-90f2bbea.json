@@ -8,13 +8,15 @@
     "第二张纸符",
     "paper talisman",
     "最后一张纸符",
-    "储物袋内仅剩的纸符"
+    "储物袋内仅剩的纸符",
+    "符族纸符",
+    "类似法宝的纸符"
   ],
   "summary": "王林得自张虎的攻击纸符，自燃化高热乌光攻敌。",
   "attributes": {
     "持有者": "王林",
-    "来历": "得自张虎",
-    "能力": "自燃化浓郁热浪乌光"
+    "来历": "符文族",
+    "能力": "承载并施展一切神通"
   },
   "observations": {
     "持有者": [
@@ -29,6 +31,11 @@
         "value": "得自张虎",
         "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
         "seq": 72
+      },
+      {
+        "value": "符文族",
+        "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+        "seq": 876
       }
     ],
     "能力": [
@@ -36,6 +43,11 @@
         "value": "自燃化浓郁热浪乌光",
         "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
         "seq": 72
+      },
+      {
+        "value": "承载并施展一切神通",
+        "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+        "seq": 876
       }
     ]
   },
@@ -49,15 +61,15 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+      "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
       "dated": false,
-      "seq": 72
+      "seq": 876
     },
     "能力": {
       "asOf": null,
-      "docId": "lore.huangquan-shengqiao-jue-jiyin-zhidi",
+      "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
       "dated": false,
-      "seq": 72
+      "seq": 876
     }
   },
   "contested": false,
@@ -65,7 +77,8 @@
   "docs": [
     "lore.huangquan-shengqiao-jue-jiyin-zhidi",
     "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
-    "plot.xianni-ch850-yuanli-change-xieqing-disciple"
+    "plot.xianni-ch850-yuanli-change-xieqing-disciple",
+    "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin"
   ],
-  "updatedAt": "2026-08-23T14:05:10.759Z"
+  "updatedAt": "2026-08-23T21:52:39.661Z"
 }

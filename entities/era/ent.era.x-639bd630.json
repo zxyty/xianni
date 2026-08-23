@@ -4,12 +4,16 @@
   "name": "上古",
   "aliases": [
     "上古时期",
-    "上古修真界"
+    "上古修真界",
+    "上古纪元",
+    "仙人鼎盛之时"
   ],
   "summary": "远古之后的纪元，传承至上古的修真家族源起于此，历经仙界崩溃仍存。",
   "attributes": {
     "时序": "远古之后",
-    "上一纪元": "远古"
+    "上一纪元": "远古",
+    "特征": "仙已不再、炼气士兴起、仙人鼎盛、鼎盛持续不久、四大仙界之战、符族入侵",
+    "代表势力": "四大仙界、仙人、符文族"
   },
   "observations": {
     "时序": [
@@ -24,6 +28,55 @@
         "value": "远古",
         "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
         "seq": 736
+      }
+    ],
+    "特征": [
+      {
+        "value": "仙已不再",
+        "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+        "seq": 876
+      },
+      {
+        "value": "炼气士兴起",
+        "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+        "seq": 876
+      },
+      {
+        "value": "仙人鼎盛",
+        "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+        "seq": 876
+      },
+      {
+        "value": "鼎盛持续不久",
+        "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+        "seq": 876
+      },
+      {
+        "value": "四大仙界之战",
+        "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+        "seq": 876
+      },
+      {
+        "value": "符族入侵",
+        "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+        "seq": 876
+      }
+    ],
+    "代表势力": [
+      {
+        "value": "四大仙界",
+        "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+        "seq": 876
+      },
+      {
+        "value": "仙人",
+        "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+        "seq": 876
+      },
+      {
+        "value": "符文族",
+        "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+        "seq": 876
       }
     ]
   },
@@ -40,12 +93,25 @@
       "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
       "dated": false,
       "seq": 736
+    },
+    "特征": {
+      "asOf": null,
+      "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+      "dated": false,
+      "seq": 876
+    },
+    "代表势力": {
+      "asOf": null,
+      "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+      "dated": false,
+      "seq": 876
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch779-jijing-reappears-vortex-seal-broken"
+    "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+    "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin"
   ],
-  "updatedAt": "2026-08-23T08:06:47.780Z"
+  "updatedAt": "2026-08-23T21:52:39.664Z"
 }
