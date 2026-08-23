@@ -368,3 +368,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T19:44:50.809Z** `ingest` plot.xianni-ch913-huan-yu-yanleizi-verify-xumu — 第913章 唤雨：王林以天地雷树残枝取信炎雷子，朱雀印记令其罢手 · kind=plot asOf=2026-08-23 entities=37 relations=57 src=00845-00849.p5.md
 - **2026-08-23T19:47:36.228Z** `ingest` plot.xianni-ch914-916-tuluo-plan-and-eighteen-hells — 第914-916章 屠罗计划与十八层地狱：王林悟规则、成撒豆成兵，联盟自毁西部星域 · kind=plot asOf=2026-08-23 entities=0 relations=0 src=00850-00852.md
 - **2026-08-23T20:01:28.840Z** `ingest` plot.xianni-ch917-luotian-counterattack — 第917章 罗天反击：十八罗浮、参天巨木与望月冲击联盟西部 · kind=plot asOf=2026-08-23 entities=63 relations=116 src=00853-00854.p1.md
+- **2026-08-23T20:04:00.712Z** `ingest` plot.xianni-ch921-qingse-yujian-jumu-wangyue — 《仙逆》第921章 青色玉简：王林踏上参天巨木，望月识主暴怒，古神之语现 · kind=plot asOf=2026-08-23 entities=25 relations=33 src=00853-00854.p2.md
