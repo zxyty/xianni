@@ -3,12 +3,15 @@
   "type": "spell",
   "name": "血遁",
   "aliases": [
-    "自损修为的血遁"
+    "自损修为的血遁",
+    "大头童子血遁"
   ],
   "summary": "以喷血自损修为为代价的极速逃遁术，大头童子面对王林时不假思索使用。",
   "attributes": {
-    "类型": "遁术",
-    "消耗": "自损修为、喷出大口鲜血"
+    "类型": "遁术、遁速神通",
+    "消耗": "自损修为、喷出大口鲜血、自损修行",
+    "威力": "远超瞬移，比闪电快数倍",
+    "出处": "大头童子家族"
   },
   "observations": {
     "类型": [
@@ -16,12 +19,36 @@
         "value": "遁术",
         "docId": "plot.xianni-ch889-wang-lin-returns-zhuque-star",
         "seq": 830
+      },
+      {
+        "value": "遁速神通",
+        "docId": "plot.xianni-ch890-datou-tongzi-battle",
+        "seq": 830
       }
     ],
     "消耗": [
       {
         "value": "自损修为、喷出大口鲜血",
         "docId": "plot.xianni-ch889-wang-lin-returns-zhuque-star",
+        "seq": 830
+      },
+      {
+        "value": "自损修行",
+        "docId": "plot.xianni-ch890-datou-tongzi-battle",
+        "seq": 830
+      }
+    ],
+    "威力": [
+      {
+        "value": "远超瞬移，比闪电快数倍",
+        "docId": "plot.xianni-ch890-datou-tongzi-battle",
+        "seq": 830
+      }
+    ],
+    "出处": [
+      {
+        "value": "大头童子家族",
+        "docId": "plot.xianni-ch890-datou-tongzi-battle",
         "seq": 830
       }
     ]
@@ -39,12 +66,25 @@
       "docId": "plot.xianni-ch889-wang-lin-returns-zhuque-star",
       "dated": false,
       "seq": 830
+    },
+    "威力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch890-datou-tongzi-battle",
+      "dated": false,
+      "seq": 830
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.xianni-ch890-datou-tongzi-battle",
+      "dated": false,
+      "seq": 830
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch889-wang-lin-returns-zhuque-star"
+    "plot.xianni-ch889-wang-lin-returns-zhuque-star",
+    "plot.xianni-ch890-datou-tongzi-battle"
   ],
-  "updatedAt": "2026-08-23T17:54:31.350Z"
+  "updatedAt": "2026-08-23T17:56:38.303Z"
 }

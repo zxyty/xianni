@@ -3,12 +3,15 @@
   "type": "person",
   "name": "朱雀星白发老者",
   "aliases": [
-    "朱雀星老者"
+    "朱雀星老者",
+    "密室白发老者",
+    "王氏一族后人老者"
   ],
   "summary": "与王林同来自朱雀星的白发老者，在平台争夺中被挑衅者第一个放弃，全程冷眼旁观。",
   "attributes": {
-    "出身地": "朱雀星",
-    "外貌": "白发老者"
+    "出身地": "朱雀星凡人皇城",
+    "外貌": "满头白发、双目黯淡",
+    "身份": "王氏一族后人"
   },
   "observations": {
     "出身地": [
@@ -16,6 +19,11 @@
         "value": "朱雀星",
         "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
         "seq": 276
+      },
+      {
+        "value": "朱雀星凡人皇城",
+        "docId": "plot.xianni-ch890-datou-tongzi-battle",
+        "seq": 830
       }
     ],
     "外貌": [
@@ -23,6 +31,18 @@
         "value": "白发老者",
         "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
         "seq": 276
+      },
+      {
+        "value": "满头白发、双目黯淡",
+        "docId": "plot.xianni-ch890-datou-tongzi-battle",
+        "seq": 830
+      }
+    ],
+    "身份": [
+      {
+        "value": "王氏一族后人",
+        "docId": "plot.xianni-ch890-datou-tongzi-battle",
+        "seq": 830
       }
     ]
   },
@@ -30,21 +50,28 @@
   "attrProvenance": {
     "出身地": {
       "asOf": null,
-      "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+      "docId": "plot.xianni-ch890-datou-tongzi-battle",
       "dated": false,
-      "seq": 276
+      "seq": 830
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+      "docId": "plot.xianni-ch890-datou-tongzi-battle",
       "dated": false,
-      "seq": 276
+      "seq": 830
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch890-datou-tongzi-battle",
+      "dated": false,
+      "seq": 830
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men"
+    "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+    "plot.xianni-ch890-datou-tongzi-battle"
   ],
-  "updatedAt": "2026-08-02T14:24:24.247Z"
+  "updatedAt": "2026-08-23T17:56:38.289Z"
 }

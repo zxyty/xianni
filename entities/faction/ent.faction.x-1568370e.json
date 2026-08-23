@@ -4,12 +4,14 @@
   "name": "王氏一族",
   "aliases": [
     "赵国王家",
-    "王家嫡系"
+    "王家嫡系",
+    "朱雀星王氏一族",
+    "Wang Clan"
   ],
   "summary": "赵国凡人权贵家族，家主世代承袭血符与先祖遗训；与二百年前的藤家为宿世仇敌，传闻其仙人先祖一夜灭藤家满门。",
   "attributes": {
-    "据点": "赵国都城、王家祖宅、赵国恒岳派山下王家祖宅",
-    "所属界面": "赵国",
+    "据点": "赵国都城、王家祖宅、赵国恒岳派山下王家祖宅、朱雀星凡人皇城",
+    "所属界面": "朱雀星",
     "镇派之宝": "祖宅暗格中的先祖玉石",
     "理念": "家主承袭血符遗训，危难时启祖宅之物保族"
   },
@@ -29,6 +31,11 @@
         "value": "赵国恒岳派山下王家祖宅",
         "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
         "seq": 447
+      },
+      {
+        "value": "朱雀星凡人皇城",
+        "docId": "plot.xianni-ch890-datou-tongzi-battle",
+        "seq": 830
       }
     ],
     "所属界面": [
@@ -36,6 +43,11 @@
         "value": "赵国",
         "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
         "seq": 387
+      },
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch890-datou-tongzi-battle",
+        "seq": 830
       }
     ],
     "镇派之宝": [
@@ -63,9 +75,9 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+      "docId": "plot.xianni-ch890-datou-tongzi-battle",
       "dated": false,
-      "seq": 387
+      "seq": 830
     },
     "镇派之宝": {
       "asOf": null,
@@ -84,7 +96,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
-    "plot.xianni-ch447-451-farewell-zhuque-star"
+    "plot.xianni-ch447-451-farewell-zhuque-star",
+    "plot.xianni-ch890-datou-tongzi-battle"
   ],
-  "updatedAt": "2026-08-21T05:47:06.436Z"
+  "updatedAt": "2026-08-23T17:56:38.292Z"
 }

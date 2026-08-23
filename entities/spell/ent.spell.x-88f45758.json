@@ -3,13 +3,14 @@
   "type": "spell",
   "name": "换位",
   "aliases": [
-    "古神大鼎换位神通"
+    "古神大鼎换位神通",
+    "古神大鼎·换位"
   ],
   "summary": "王林借古神大鼎之力施展，一息之间将自身与古妖所在之位彻底互换，从而把金符封印与十余道天雷尽数转嫁给对方。",
   "attributes": {
-    "类型": "空间/换位神通",
+    "类型": "空间/位置逆转神通",
     "出处": "古神大鼎",
-    "威力": "一息内互换双方所在之位，用以嫁祸天劫与封印"
+    "威力": "瞬间截断血遁级逃遁"
   },
   "observations": {
     "类型": [
@@ -17,6 +18,11 @@
         "value": "空间/换位神通",
         "docId": "plot.xianni-ch852-blood-god-child-appears",
         "seq": 795
+      },
+      {
+        "value": "空间/位置逆转神通",
+        "docId": "plot.xianni-ch890-datou-tongzi-battle",
+        "seq": 830
       }
     ],
     "出处": [
@@ -31,6 +37,11 @@
         "value": "一息内互换双方所在之位，用以嫁祸天劫与封印",
         "docId": "plot.xianni-ch852-blood-god-child-appears",
         "seq": 795
+      },
+      {
+        "value": "瞬间截断血遁级逃遁",
+        "docId": "plot.xianni-ch890-datou-tongzi-battle",
+        "seq": 830
       }
     ]
   },
@@ -38,9 +49,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch852-blood-god-child-appears",
+      "docId": "plot.xianni-ch890-datou-tongzi-battle",
       "dated": false,
-      "seq": 795
+      "seq": 830
     },
     "出处": {
       "asOf": null,
@@ -50,15 +61,16 @@
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-ch852-blood-god-child-appears",
+      "docId": "plot.xianni-ch890-datou-tongzi-battle",
       "dated": false,
-      "seq": 795
+      "seq": 830
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch852-blood-god-child-appears"
+    "plot.xianni-ch852-blood-god-child-appears",
+    "plot.xianni-ch890-datou-tongzi-battle"
   ],
-  "updatedAt": "2026-08-23T14:10:02.141Z"
+  "updatedAt": "2026-08-23T17:56:38.300Z"
 }

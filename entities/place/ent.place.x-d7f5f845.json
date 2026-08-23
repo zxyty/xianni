@@ -1,24 +1,18 @@
 {
-  "id": "ent.place.x-45be8f28",
+  "id": "ent.place.x-d7f5f845",
   "type": "place",
-  "name": "罡风层",
+  "name": "朱雀星凡人皇城",
   "aliases": [
-    "朱雀星罡风层"
+    "凡人皇城",
+    "皇城"
   ],
-  "summary": "星球之外的罡风层，未能阻挡王林冲出。",
+  "summary": "朱雀星上的凡人皇城，距王林与大头童子交战处不远，城中密室供奉王氏一族先祖灵位。",
   "attributes": {
-    "类型": "星球外围风层",
     "所属界面": "朱雀星",
-    "方位": "朱雀星外层"
+    "类型": "凡人皇城",
+    "方位": "王林与大头童子交战处不远"
   },
   "observations": {
-    "类型": [
-      {
-        "value": "星球外围风层",
-        "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
-        "seq": 641
-      }
-    ],
     "所属界面": [
       {
         "value": "朱雀星",
@@ -26,23 +20,30 @@
         "seq": 830
       }
     ],
+    "类型": [
+      {
+        "value": "凡人皇城",
+        "docId": "plot.xianni-ch890-datou-tongzi-battle",
+        "seq": 830
+      }
+    ],
     "方位": [
       {
-        "value": "朱雀星外层",
+        "value": "王林与大头童子交战处不远",
         "docId": "plot.xianni-ch890-datou-tongzi-battle",
         "seq": 830
       }
     ]
   },
-  "firstSeq": 641,
+  "firstSeq": 830,
   "attrProvenance": {
-    "类型": {
-      "asOf": null,
-      "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
-      "dated": false,
-      "seq": 641
-    },
     "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch890-datou-tongzi-battle",
+      "dated": false,
+      "seq": 830
+    },
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-ch890-datou-tongzi-battle",
       "dated": false,
@@ -58,7 +59,6 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
     "plot.xianni-ch890-datou-tongzi-battle"
   ],
   "updatedAt": "2026-08-23T17:56:38.297Z"
