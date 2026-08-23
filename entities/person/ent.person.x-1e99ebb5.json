@@ -5,15 +5,18 @@
   "aliases": [
     "姚家三代族人姚长东",
     "Yao Chang Dong",
-    "玄尘星中年文士幻化的青年"
+    "玄尘星中年文士幻化的青年",
+    "姚长空",
+    "姚家老祖弟子"
   ],
   "summary": "姚家三代族人，窥涅初期，脚踏三丈大剑赶来截杀「许木」，欲抢在姚冰云之前立功。",
   "attributes": {
     "性别": "男",
     "小阶段": "窥涅初期",
-    "身份": "姚家三代族人",
-    "性格": "傲然、轻蔑、争功",
-    "外貌": "身穿白衣的青年"
+    "身份": "姚家三代族人、传承自仙界的修真家族——姚家子弟，奉天穹令追杀王林",
+    "性格": "傲然、轻蔑、争功、初时飘逸傲然，被压制后狰狞暴怒",
+    "外貌": "身穿白衣的青年、披头散发、衣衫破散",
+    "存殁": "生"
   },
   "observations": {
     "性别": [
@@ -35,6 +38,11 @@
         "value": "姚家三代族人",
         "docId": "plot.xianni-ch823-yao-chang-kong-slaughter-interceptors",
         "seq": 770
+      },
+      {
+        "value": "传承自仙界的修真家族——姚家子弟，奉天穹令追杀王林",
+        "docId": "plot.xianni-ch823-yao-changkong-part2-fengxianyin-vs-xianfu",
+        "seq": 770
       }
     ],
     "性格": [
@@ -42,12 +50,31 @@
         "value": "傲然、轻蔑、争功",
         "docId": "plot.xianni-ch823-yao-chang-kong-slaughter-interceptors",
         "seq": 770
+      },
+      {
+        "value": "初时飘逸傲然，被压制后狰狞暴怒",
+        "docId": "plot.xianni-ch823-yao-changkong-part2-fengxianyin-vs-xianfu",
+        "seq": 770,
+        "note": "本章"
       }
     ],
     "外貌": [
       {
         "value": "身穿白衣的青年",
         "docId": "plot.xianni-ch823-yao-chang-kong-slaughter-interceptors",
+        "seq": 770
+      },
+      {
+        "value": "披头散发、衣衫破散",
+        "docId": "plot.xianni-ch823-yao-changkong-part2-fengxianyin-vs-xianfu",
+        "seq": 770,
+        "note": "被四击合轰后"
+      }
+    ],
+    "存殁": [
+      {
+        "value": "生",
+        "docId": "plot.xianni-ch823-yao-changkong-part2-fengxianyin-vs-xianfu",
         "seq": 770
       }
     ]
@@ -83,12 +110,19 @@
       "docId": "plot.xianni-ch823-yao-chang-kong-slaughter-interceptors",
       "dated": false,
       "seq": 770
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch823-yao-changkong-part2-fengxianyin-vs-xianfu",
+      "dated": false,
+      "seq": 770
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch823-yao-chang-kong-slaughter-interceptors"
+    "plot.xianni-ch823-yao-chang-kong-slaughter-interceptors",
+    "plot.xianni-ch823-yao-changkong-part2-fengxianyin-vs-xianfu"
   ],
-  "updatedAt": "2026-08-23T12:14:35.705Z"
+  "updatedAt": "2026-08-23T12:17:35.324Z"
 }
