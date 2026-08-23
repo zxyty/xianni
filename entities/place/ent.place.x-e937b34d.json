@@ -1,25 +1,19 @@
 {
-  "id": "ent.place.x-a101a1d2",
+  "id": "ent.place.x-e937b34d",
   "type": "place",
-  "name": "血神星",
+  "name": "姚家禁地",
   "aliases": [
-    "Xue Shen Star",
-    "血神星球"
+    "家族禁地"
   ],
-  "summary": "姚家所在之星，姚冰云姐妹的出身地；姚云曾试图把两女送出血神星未果。",
+  "summary": "姚云常年封锁自身、闭关以阻止修为倒退并追寻失忆之处；本章他奉老祖令走出此地。",
   "attributes": {
-    "类型": "修真星",
+    "类型": "家族禁地",
     "所属势力": "姚家"
   },
   "observations": {
     "类型": [
       {
-        "value": "星辰",
-        "docId": "plot.xianni-ch848-yao-bingyun-dao",
-        "seq": 790
-      },
-      {
-        "value": "修真星",
+        "value": "家族禁地",
         "docId": "plot.xianni-ch851-kui-nie-breakthrough-vs-yao-yun",
         "seq": 795
       }
@@ -27,12 +21,12 @@
     "所属势力": [
       {
         "value": "姚家",
-        "docId": "plot.xianni-ch848-yao-bingyun-dao",
-        "seq": 790
+        "docId": "plot.xianni-ch851-kui-nie-breakthrough-vs-yao-yun",
+        "seq": 795
       }
     ]
   },
-  "firstSeq": 790,
+  "firstSeq": 795,
   "attrProvenance": {
     "类型": {
       "asOf": null,
@@ -42,15 +36,14 @@
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch848-yao-bingyun-dao",
+      "docId": "plot.xianni-ch851-kui-nie-breakthrough-vs-yao-yun",
       "dated": false,
-      "seq": 790
+      "seq": 795
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch848-yao-bingyun-dao",
     "plot.xianni-ch851-kui-nie-breakthrough-vs-yao-yun"
   ],
   "updatedAt": "2026-08-23T14:07:56.601Z"

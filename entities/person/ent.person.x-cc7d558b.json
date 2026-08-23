@@ -11,13 +11,14 @@
   ],
   "summary": "姚家二代族人，受血神子之命前往罗天北域取许木（王林）性命。",
   "attributes": {
-    "身份": "姚家二代族人、姚家族人、姚家之人、追踪王林者",
+    "身份": "姚家二代族人、姚家族人、姚家之人、追踪王林者、姚家修士、奉老祖命出关的杀手",
     "阵营": "姚家",
     "性别": "男",
-    "外貌": "中年，相貌极为英俊，颇有仙风道骨、相貌颇为英俊、神色沧桑",
-    "性格": "重情、悲愤、敢违抗老祖",
+    "外貌": "中年，相貌极为英俊，颇有仙风道骨、相貌颇为英俊、神色沧桑、中年男子；发狂时青筋鼓冒、脸浮青光并现双角妖异面孔",
+    "性格": "冷漠冰冷；头痛发作时杀机弥漫几欲发狂",
     "存殁": "受创未死",
-    "标志特征": "双目内藏一丝极深的妖异，如火苗忽明忽暗"
+    "标志特征": "双目内藏一丝极深的妖异，如火苗忽明忽暗、脸上青光中的双角妖异面孔、记忆缺失、修为倒退",
+    "小阶段": "窥涅中期"
   },
   "observations": {
     "身份": [
@@ -40,6 +41,11 @@
         "value": "追踪王林者",
         "docId": "plot.xianni-ch850-yuanli-change-xieqing-disciple",
         "seq": 790
+      },
+      {
+        "value": "姚家修士、奉老祖命出关的杀手",
+        "docId": "plot.xianni-ch851-kui-nie-breakthrough-vs-yao-yun",
+        "seq": 795
       }
     ],
     "阵营": [
@@ -66,6 +72,11 @@
         "value": "相貌颇为英俊、神色沧桑",
         "docId": "plot.xianni-ch850-yuanli-change-xieqing-disciple",
         "seq": 790
+      },
+      {
+        "value": "中年男子；发狂时青筋鼓冒、脸浮青光并现双角妖异面孔",
+        "docId": "plot.xianni-ch851-kui-nie-breakthrough-vs-yao-yun",
+        "seq": 795
       }
     ],
     "性格": [
@@ -73,6 +84,11 @@
         "value": "重情、悲愤、敢违抗老祖",
         "docId": "plot.xianni-ch848-yao-bingyun-dao",
         "seq": 790
+      },
+      {
+        "value": "冷漠冰冷；头痛发作时杀机弥漫几欲发狂",
+        "docId": "plot.xianni-ch851-kui-nie-breakthrough-vs-yao-yun",
+        "seq": 795
       }
     ],
     "存殁": [
@@ -88,6 +104,29 @@
         "value": "双目内藏一丝极深的妖异，如火苗忽明忽暗",
         "docId": "plot.xianni-ch850-yuanli-change-xieqing-disciple",
         "seq": 790
+      },
+      {
+        "value": "脸上青光中的双角妖异面孔",
+        "docId": "plot.xianni-ch851-kui-nie-breakthrough-vs-yao-yun",
+        "seq": 795
+      },
+      {
+        "value": "记忆缺失",
+        "docId": "plot.xianni-ch851-kui-nie-breakthrough-vs-yao-yun",
+        "seq": 795
+      },
+      {
+        "value": "修为倒退",
+        "docId": "plot.xianni-ch851-kui-nie-breakthrough-vs-yao-yun",
+        "seq": 795
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "窥涅中期",
+        "docId": "plot.xianni-ch851-kui-nie-breakthrough-vs-yao-yun",
+        "seq": 795,
+        "note": "数千年前曾为净涅初期，后不知何因倒退"
       }
     ]
   },
@@ -119,9 +158,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch848-yao-bingyun-dao",
+      "docId": "plot.xianni-ch851-kui-nie-breakthrough-vs-yao-yun",
       "dated": false,
-      "seq": 790
+      "seq": 795
     },
     "存殁": {
       "asOf": null,
@@ -135,6 +174,13 @@
       "docId": "plot.xianni-ch850-yuanli-change-xieqing-disciple",
       "dated": false,
       "seq": 790
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch851-kui-nie-breakthrough-vs-yao-yun",
+      "dated": false,
+      "seq": 795,
+      "note": "数千年前曾为净涅初期，后不知何因倒退"
     }
   },
   "contested": false,
@@ -143,7 +189,8 @@
     "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
     "plot.xianni-ch848-yao-bingyun-dao",
     "plot.xianni-ch849-yao-bingyun-dao-heart-retreat-one-step",
-    "plot.xianni-ch850-yuanli-change-xieqing-disciple"
+    "plot.xianni-ch850-yuanli-change-xieqing-disciple",
+    "plot.xianni-ch851-kui-nie-breakthrough-vs-yao-yun"
   ],
-  "updatedAt": "2026-08-23T14:05:10.755Z"
+  "updatedAt": "2026-08-23T14:07:56.585Z"
 }
