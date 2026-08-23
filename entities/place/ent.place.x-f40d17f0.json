@@ -2,12 +2,14 @@
   "id": "ent.place.x-f40d17f0",
   "type": "place",
   "name": "潮汐之地",
-  "aliases": [],
+  "aliases": [
+    "潮汐之地仙府"
+  ],
   "summary": "妖灵之地内的深渊之地，无日夜，弥漫黑雾，外有无数奇异妖兽游荡；贪狼称其为妖灵之地最大的宝藏，东海外潮汐吸入的法宝奇物汇聚于此。",
   "attributes": {
     "所属界面": "妖灵之地",
-    "类型": "深渊/秘境",
-    "危险度": "极高（无数奇异妖兽围攻，被困者近百年无法脱身）",
+    "类型": "仙府／秘境",
+    "危险度": "事关重大，为众老怪所争",
     "特产": "被潮汐吸入的法宝与奇异之物、天运子等人眼红的令牌",
     "上级区域": "妖灵之地"
   },
@@ -24,6 +26,11 @@
         "value": "深渊/秘境",
         "docId": "plot.xianni-ch632-tanlang-daluo-disciples-trapped-tide-abyss",
         "seq": 591
+      },
+      {
+        "value": "仙府／秘境",
+        "docId": "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star",
+        "seq": 890
       }
     ],
     "危险度": [
@@ -31,6 +38,11 @@
         "value": "极高（无数奇异妖兽围攻，被困者近百年无法脱身）",
         "docId": "plot.xianni-ch632-tanlang-daluo-disciples-trapped-tide-abyss",
         "seq": 591
+      },
+      {
+        "value": "事关重大，为众老怪所争",
+        "docId": "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star",
+        "seq": 890
       }
     ],
     "特产": [
@@ -63,15 +75,15 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch632-tanlang-daluo-disciples-trapped-tide-abyss",
+      "docId": "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star",
       "dated": false,
-      "seq": 591
+      "seq": 890
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch632-tanlang-daluo-disciples-trapped-tide-abyss",
+      "docId": "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star",
       "dated": false,
-      "seq": 591
+      "seq": 890
     },
     "特产": {
       "asOf": null,
@@ -89,7 +101,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch632-tanlang-daluo-disciples-trapped-tide-abyss"
+    "plot.xianni-ch632-tanlang-daluo-disciples-trapped-tide-abyss",
+    "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star"
   ],
-  "updatedAt": "2026-08-22T17:30:10.139Z"
+  "updatedAt": "2026-08-23T22:34:23.413Z"
 }

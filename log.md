@@ -401,3 +401,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T22:22:32.781Z** `ingest` plot.xianni-ch953-chaizi-qingshui-shanbeng-shayujie-destroyed — 第953章 钗子：清水仙术「山崩」灭杀域界，紫钗忆亡妻含烟 · kind=plot asOf=2026-08-23 entities=29 relations=42 src=00885-00889.p3.md
 - **2026-08-23T22:24:44.404Z** `ingest` plot.xianni-ch954-young-master-blue-shirt-pursues-lei-ji — 第954章 少爷：王林收回塔山，赶至星空救下重伤的大头与雷吉 · kind=plot asOf=2026-08-23 entities=17 relations=26 src=00885-00889.p4.md
 - **2026-08-23T22:26:44.191Z** `ingest` plot.xianni-ch955-shiyinzong-neizong-dizi — 仙逆 第955章 尸阴宗内宗弟子：王林救大头、瞬杀夺舍巨魔族的孙狗子 · kind=plot asOf=2026-08-23 entities=15 relations=23 src=00885-00889.p5.md
+- **2026-08-23T22:34:23.709Z** `ingest` plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star — 《仙逆》第956章 粉衣女子：五彩蝶反卷自爆之力重伤蓝衫青年，王林独返天运星 · kind=plot asOf=2026-08-23 entities=49 relations=73 src=00890-00894.p1.md
