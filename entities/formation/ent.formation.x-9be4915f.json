@@ -4,12 +4,15 @@
   "name": "绝元大阵",
   "aliases": [
     "封印虚无的大阵",
-    "网状大阵"
+    "网状大阵",
+    "闪烁之网",
+    "网状之物",
+    "虚无处的绝元大阵"
   ],
   "summary": "封印这片虚无的大阵，本不可能现形，却在灭神矛挥扫下显出大片网状原形。",
   "attributes": {
-    "效果": "封印虚无",
-    "破解法": "灭神矛可逼出其网状原形"
+    "效果": "封锁虚无之处，网下藏有常人不可见的幽光",
+    "破解法": "网体断裂并疯狂扩张成缝隙"
   },
   "observations": {
     "效果": [
@@ -17,6 +20,11 @@
         "value": "封印虚无",
         "docId": "plot.xianni-ch941-wang-clan-artifact-mie-shen-mao",
         "seq": 870
+      },
+      {
+        "value": "封锁虚无之处，网下藏有常人不可见的幽光",
+        "docId": "plot.xianni-942-tianni-zhu-tremor-fissure-opens",
+        "seq": 876
       }
     ],
     "破解法": [
@@ -25,6 +33,12 @@
         "docId": "plot.xianni-ch941-wang-clan-artifact-mie-shen-mao",
         "seq": 870,
         "note": "第941章仅现形，未破"
+      },
+      {
+        "value": "网体断裂并疯狂扩张成缝隙",
+        "docId": "plot.xianni-942-tianni-zhu-tremor-fissure-opens",
+        "seq": 876,
+        "note": "本章为自内而外被撕开"
       }
     ]
   },
@@ -32,22 +46,23 @@
   "attrProvenance": {
     "效果": {
       "asOf": null,
-      "docId": "plot.xianni-ch941-wang-clan-artifact-mie-shen-mao",
+      "docId": "plot.xianni-942-tianni-zhu-tremor-fissure-opens",
       "dated": false,
-      "seq": 870
+      "seq": 876
     },
     "破解法": {
       "asOf": null,
-      "docId": "plot.xianni-ch941-wang-clan-artifact-mie-shen-mao",
+      "docId": "plot.xianni-942-tianni-zhu-tremor-fissure-opens",
       "dated": false,
-      "seq": 870,
-      "note": "第941章仅现形，未破"
+      "seq": 876,
+      "note": "本章为自内而外被撕开"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch941-wang-clan-artifact-mie-shen-mao"
+    "plot.xianni-ch941-wang-clan-artifact-mie-shen-mao",
+    "plot.xianni-942-tianni-zhu-tremor-fissure-opens"
   ],
-  "updatedAt": "2026-08-23T21:37:08.265Z"
+  "updatedAt": "2026-08-23T21:39:33.822Z"
 }
