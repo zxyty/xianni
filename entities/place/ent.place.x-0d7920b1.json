@@ -6,14 +6,16 @@
     "碎片大陆",
     "破碎大陆",
     "雷之仙界碎片大陆",
-    "一处碎片大陆"
+    "一处碎片大陆",
+    "雷之仙界的碎片大陆"
   ],
   "summary": "雷之仙界中一块崩溃的碎片大陆，王林的雷霆流星坠落于其东侧地面，砸出极深天坑；大陆本已不稳，受冲击后更加动荡。",
   "attributes": {
     "所属界面": "雷之仙界",
     "类型": "崩溃碎片大陆、碎片大陆",
     "危险度": "高（濒临崩溃）",
-    "特产": "散发仙力的法器碎片"
+    "特产": "散发仙力的法器碎片",
+    "规模": "极为辽阔"
   },
   "observations": {
     "所属界面": [
@@ -48,6 +50,13 @@
         "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
         "seq": 697
       }
+    ],
+    "规模": [
+      {
+        "value": "极为辽阔",
+        "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
+        "seq": 701
+      }
     ]
   },
   "firstSeq": 697,
@@ -75,12 +84,19 @@
       "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
       "dated": false,
       "seq": 697
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
+      "dated": false,
+      "seq": 701
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch736-lei-zhi-xianjie-gate"
+    "plot.xianni-ch736-lei-zhi-xianjie-gate",
+    "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan"
   ],
-  "updatedAt": "2026-08-23T04:18:03.638Z"
+  "updatedAt": "2026-08-23T04:50:27.441Z"
 }

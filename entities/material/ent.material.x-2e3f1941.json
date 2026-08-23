@@ -3,12 +3,13 @@
   "type": "material",
   "name": "法宝碎片",
   "aliases": [
-    "地面深坑中的法宝碎片"
+    "地面深坑中的法宝碎片",
+    "地面深坑内的法宝碎片"
   ],
   "summary": "埋于地面深坑中的法宝残片，是许封寒此行的本来目的，被王林挥手收入储物袋。",
   "attributes": {
-    "类型": "法宝残片",
-    "用途": "炼器材料",
+    "类型": "法宝残片、法宝残骸",
+    "用途": "炼器材料、可回收利用的炼器/法宝残料",
     "产地": "战场地面深坑"
   },
   "observations": {
@@ -17,12 +18,22 @@
         "value": "法宝残片",
         "docId": "plot.xianni-ch740-daonian-battle-xu-fenghan",
         "seq": 701
+      },
+      {
+        "value": "法宝残骸",
+        "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
+        "seq": 701
       }
     ],
     "用途": [
       {
         "value": "炼器材料",
         "docId": "plot.xianni-ch740-daonian-battle-xu-fenghan",
+        "seq": 701
+      },
+      {
+        "value": "可回收利用的炼器/法宝残料",
+        "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
         "seq": 701
       }
     ],
@@ -58,7 +69,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch740-daonian-battle-xu-fenghan"
+    "plot.xianni-ch740-daonian-battle-xu-fenghan",
+    "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan"
   ],
-  "updatedAt": "2026-08-23T04:43:27.075Z"
+  "updatedAt": "2026-08-23T04:50:27.421Z"
 }

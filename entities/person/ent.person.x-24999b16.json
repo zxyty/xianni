@@ -5,7 +5,9 @@
   "aliases": [
     "魔影之上的青年",
     "Xu Fenghan",
-    "许封寒魔修"
+    "许封寒魔修",
+    "阴虚修士许封寒",
+    "封寒"
   ],
   "summary": "乘头生单角魔影而来的紫袍青年魔修，阴虚境界中段，喝令王林交出手中之物；被仙卫傀儡一拳逼出元神精血施展『东临之幕』，退落地面后自报姓名。",
   "attributes": {
@@ -13,8 +15,12 @@
     "小阶段": "阴虚境界",
     "外貌": "身影修长，面色苍白，双目寒芒",
     "标志特征": "头顶悬浮道化魔莲",
-    "性格": "阴冷、高傲、杀机深重",
-    "存殁": "在世"
+    "性格": "霸道嗜杀、一言不合便出手、阴冷、高傲、杀机深重、狰狞、恨之入骨",
+    "存殁": "死亡",
+    "身份": "阴虚修士",
+    "死因": "王林以仙剑斩罗决斩断天地规则，元化魔神崩溃，其身在魔物腹中气绝",
+    "结局": "第741章被王林所杀",
+    "阵营": "王林之敌"
   },
   "observations": {
     "性别": [
@@ -70,6 +76,11 @@
         "value": "阴冷、高傲、杀机深重",
         "docId": "plot.xianni-ch740-daonian-battle-xu-fenghan",
         "seq": 701
+      },
+      {
+        "value": "狰狞、恨之入骨",
+        "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
+        "seq": 701
       }
     ],
     "存殁": [
@@ -77,6 +88,39 @@
         "value": "在世",
         "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
         "seq": 697
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
+        "seq": 701
+      }
+    ],
+    "身份": [
+      {
+        "value": "阴虚修士",
+        "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
+        "seq": 701
+      }
+    ],
+    "死因": [
+      {
+        "value": "王林以仙剑斩罗决斩断天地规则，元化魔神崩溃，其身在魔物腹中气绝",
+        "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
+        "seq": 701
+      }
+    ],
+    "结局": [
+      {
+        "value": "第741章被王林所杀",
+        "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
+        "seq": 701
+      }
+    ],
+    "阵营": [
+      {
+        "value": "王林之敌",
+        "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
+        "seq": 701
       }
     ]
   },
@@ -108,22 +152,47 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch740-daonian-battle-xu-fenghan",
-      "dated": false,
-      "seq": 701
-    },
-    "存殁": {
-      "asOf": null,
       "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
       "dated": false,
       "seq": 697
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
+      "dated": false,
+      "seq": 701
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
+      "dated": false,
+      "seq": 701
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
+      "dated": false,
+      "seq": 701
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
+      "dated": false,
+      "seq": 701
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
+      "dated": false,
+      "seq": 701
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch736-lei-zhi-xianjie-gate",
-    "plot.xianni-ch740-daonian-battle-xu-fenghan"
+    "plot.xianni-ch740-daonian-battle-xu-fenghan",
+    "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan"
   ],
-  "updatedAt": "2026-08-23T04:43:27.063Z"
+  "updatedAt": "2026-08-23T04:50:27.432Z"
 }

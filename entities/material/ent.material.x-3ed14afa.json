@@ -5,13 +5,14 @@
   "aliases": [
     "罗天之石",
     "罗天石头",
-    "Luo Tian Stone"
+    "Luo Tian Stone",
+    "一颗罗天石"
   ],
   "summary": "开启废弃古传送阵所必需之物，仙玉无法替代。",
   "attributes": {
-    "类型": "通行凭信",
-    "用途": "进入千幻星所在星域的必需之物",
-    "产地": "罗天星域（推测）"
+    "类型": "信物/通行凭据",
+    "用途": "回返罗天星域",
+    "产地": "罗天星域"
   },
   "observations": {
     "类型": [
@@ -24,6 +25,11 @@
         "value": "通行凭信",
         "docId": "plot.xianni-681-wang-ping",
         "seq": 641
+      },
+      {
+        "value": "信物/通行凭据",
+        "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
+        "seq": 701
       }
     ],
     "用途": [
@@ -36,6 +42,11 @@
         "value": "进入千幻星所在星域的必需之物",
         "docId": "plot.xianni-681-wang-ping",
         "seq": 641
+      },
+      {
+        "value": "回返罗天星域",
+        "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
+        "seq": 701
       }
     ],
     "产地": [
@@ -43,6 +54,11 @@
         "value": "罗天星域（推测）",
         "docId": "plot.xianni-ch618-620-scroll-woman-luotian-star-region-seal",
         "seq": 618
+      },
+      {
+        "value": "罗天星域",
+        "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
+        "seq": 701
       }
     ]
   },
@@ -50,28 +66,29 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-681-wang-ping",
+      "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
       "dated": false,
-      "seq": 641
+      "seq": 701
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-681-wang-ping",
+      "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
       "dated": false,
-      "seq": 641
+      "seq": 701
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.xianni-ch618-620-scroll-woman-luotian-star-region-seal",
+      "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
       "dated": false,
-      "seq": 618
+      "seq": 701
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch618-620-scroll-woman-luotian-star-region-seal",
-    "plot.xianni-681-wang-ping"
+    "plot.xianni-681-wang-ping",
+    "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan"
   ],
-  "updatedAt": "2026-08-22T23:25:41.418Z"
+  "updatedAt": "2026-08-23T04:50:27.438Z"
 }
