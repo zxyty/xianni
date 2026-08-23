@@ -13,18 +13,22 @@
     "赵国王家祖宅",
     "王家祠堂",
     "祖宅祠堂",
-    "祠堂"
+    "祠堂",
+    "王族祖宅",
+    "皇家祖宅",
+    "许木的祖宅"
   ],
   "summary": "王家在小镇上最奢华的祖宅，被启明古镜映照为目标、藤化元穿镜降临之处。",
   "attributes": {
-    "所属势力": "王家",
-    "类型": "宅邸、凡人家族祖宅、家族祖宅/庄园、凡俗宅邸、祖宅/祠堂、家族祖宅/祠堂",
+    "所属势力": "赵国凡间皇族",
+    "类型": "宅邸、凡人家族祖宅、家族祖宅/庄园、凡俗宅邸、祖宅/祠堂、家族祖宅/祠堂、祖宅、禁地",
     "所属界面": "赵国凡人界",
-    "上级区域": "赵国京都",
-    "守护": "被认为是唯一安全之地、世代效忠王家的花甲老人",
+    "上级区域": "皇祖城",
+    "守护": "被认为是唯一安全之地、世代效忠王家的花甲老人、朱雀星各门派轮流派遣的优秀弟子",
     "规模": "庄园不大，深处一间普通房舍",
     "特产": "先祖遗留玉石",
-    "方位": "赵国恒岳派山下"
+    "方位": "赵国恒岳派山下",
+    "危险度": "擅闯为株连九族大罪"
   },
   "observations": {
     "所属势力": [
@@ -42,6 +46,11 @@
         "value": "王家",
         "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
         "seq": 447
+      },
+      {
+        "value": "赵国凡间皇族",
+        "docId": "plot.xianni-ch893-thank-you-wang-lin-returns-to-ancestral-home",
+        "seq": 834
       }
     ],
     "类型": [
@@ -74,6 +83,11 @@
         "value": "家族祖宅/祠堂",
         "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
         "seq": 447
+      },
+      {
+        "value": "祖宅、禁地",
+        "docId": "plot.xianni-ch893-thank-you-wang-lin-returns-to-ancestral-home",
+        "seq": 834
       }
     ],
     "所属界面": [
@@ -98,6 +112,11 @@
         "value": "赵国京都",
         "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
         "seq": 392
+      },
+      {
+        "value": "皇祖城",
+        "docId": "plot.xianni-ch893-thank-you-wang-lin-returns-to-ancestral-home",
+        "seq": 834
       }
     ],
     "守护": [
@@ -110,6 +129,11 @@
         "value": "世代效忠王家的花甲老人",
         "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
         "seq": 387
+      },
+      {
+        "value": "朱雀星各门派轮流派遣的优秀弟子",
+        "docId": "plot.xianni-ch893-thank-you-wang-lin-returns-to-ancestral-home",
+        "seq": 834
       }
     ],
     "规模": [
@@ -132,15 +156,23 @@
         "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
         "seq": 447
       }
+    ],
+    "危险度": [
+      {
+        "value": "擅闯为株连九族大罪",
+        "docId": "plot.xianni-ch893-thank-you-wang-lin-returns-to-ancestral-home",
+        "seq": 834,
+        "note": "凡俗与修真界共同禁令"
+      }
     ]
   },
   "firstSeq": 85,
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+      "docId": "plot.xianni-ch893-thank-you-wang-lin-returns-to-ancestral-home",
       "dated": false,
-      "seq": 447
+      "seq": 834
     },
     "类型": {
       "asOf": null,
@@ -156,9 +188,9 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+      "docId": "plot.xianni-ch893-thank-you-wang-lin-returns-to-ancestral-home",
       "dated": false,
-      "seq": 392
+      "seq": 834
     },
     "守护": {
       "asOf": null,
@@ -183,6 +215,13 @@
       "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
       "dated": false,
       "seq": 447
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch893-thank-you-wang-lin-returns-to-ancestral-home",
+      "dated": false,
+      "seq": 834,
+      "note": "凡俗与修真界共同禁令"
     }
   },
   "contested": false,
@@ -191,7 +230,8 @@
     "plot.xianni-ch85-89-jilian-jianqiao",
     "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
     "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
-    "plot.xianni-ch447-451-farewell-zhuque-star"
+    "plot.xianni-ch447-451-farewell-zhuque-star",
+    "plot.xianni-ch893-thank-you-wang-lin-returns-to-ancestral-home"
   ],
-  "updatedAt": "2026-08-21T05:47:06.456Z"
+  "updatedAt": "2026-08-23T18:03:50.092Z"
 }
