@@ -8,8 +8,8 @@
   "summary": "向家神通，可弥补寿元，唯向家常年闭关的先祖能施展；需与受术者极为亲近之人输送生机以免排斥，输送者生机非等量折损，或达十分之九，且仅有一丝成功可能。",
   "attributes": {
     "出处": "向家",
-    "效果": "弥补寿元、为寿元断绝者续命（仅一丝可能）",
-    "修炼条件": "唯向家闭关先祖可施展，需至亲之人输送生机",
+    "效果": "弥补寿元、为寿元断绝者续命（仅一丝可能）、使李慕婉获得肉身，但未能复活",
+    "修炼条件": "消耗施术者大量生机",
     "品阶": "神通"
   },
   "observations": {
@@ -30,6 +30,12 @@
         "value": "为寿元断绝者续命（仅一丝可能）",
         "docId": "plot.xianni-ch881-i-agree-qixi-technique-li-muwan-yuanying",
         "seq": 821
+      },
+      {
+        "value": "使李慕婉获得肉身，但未能复活",
+        "docId": "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star",
+        "seq": 826,
+        "note": "王林评价为『既成功也失败』"
       }
     ],
     "修炼条件": [
@@ -37,6 +43,11 @@
         "value": "唯向家闭关先祖可施展，需至亲之人输送生机",
         "docId": "plot.xianni-ch881-i-agree-qixi-technique-li-muwan-yuanying",
         "seq": 821
+      },
+      {
+        "value": "消耗施术者大量生机",
+        "docId": "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star",
+        "seq": 826
       }
     ],
     "品阶": [
@@ -63,9 +74,9 @@
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.xianni-ch881-i-agree-qixi-technique-li-muwan-yuanying",
+      "docId": "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star",
       "dated": false,
-      "seq": 821
+      "seq": 826
     },
     "品阶": {
       "asOf": null,
@@ -77,7 +88,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch881-i-agree-qixi-technique-li-muwan-yuanying"
+    "plot.xianni-ch881-i-agree-qixi-technique-li-muwan-yuanying",
+    "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star"
   ],
-  "updatedAt": "2026-08-23T16:46:06.606Z"
+  "updatedAt": "2026-08-23T17:49:06.382Z"
 }

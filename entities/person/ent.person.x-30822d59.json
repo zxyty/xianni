@@ -6,14 +6,18 @@
     "白雪道友",
     "三师姐",
     "Bai Xue",
-    "白雪师姐"
+    "白雪师姐",
+    "白雪师叔",
+    "朱雀星老妇人"
   ],
   "summary": "人道仙弟子，冯玉山称其三师姐，奉师命在朱雀国祭坛等候接引「曾牛」，驾白色仙鹤载其飞行并介绍朱雀国宗派格局。",
   "attributes": {
     "性别": "女",
-    "身份": "人道仙弟子、人道仙宗弟子、引路人",
-    "外貌": "紫色长裙裙脚绣紫蝶落百合、身披蓝纱、肌肤似雪、飞云髻",
-    "性格": "素雅幽静、含笑有礼、一脸平淡、深藏用意"
+    "身份": "人道仙弟子、人道仙宗弟子、引路人、朱雀星守护一方的长辈",
+    "外貌": "老妇人，面有皱纹，年轻时定是秀美之人",
+    "性格": "素雅幽静、含笑有礼、一脸平淡、深藏用意",
+    "称号": "白雪师叔",
+    "标志特征": "若王林在此会觉此女眼熟"
   },
   "observations": {
     "性别": [
@@ -33,6 +37,11 @@
         "value": "人道仙宗弟子、引路人",
         "docId": "plot.xianni-ch361-zhuque-guo-arrival",
         "seq": 341
+      },
+      {
+        "value": "朱雀星守护一方的长辈",
+        "docId": "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star",
+        "seq": 826
       }
     ],
     "外貌": [
@@ -40,6 +49,11 @@
         "value": "紫色长裙裙脚绣紫蝶落百合、身披蓝纱、肌肤似雪、飞云髻",
         "docId": "plot.xianni-ch361-zhuque-guo-arrival",
         "seq": 341
+      },
+      {
+        "value": "老妇人，面有皱纹，年轻时定是秀美之人",
+        "docId": "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star",
+        "seq": 826
       }
     ],
     "性格": [
@@ -53,6 +67,20 @@
         "docId": "plot.xianni-ch361-zhuque-guo-arrival",
         "seq": 341,
         "note": "王林判断其择此路另有他意"
+      }
+    ],
+    "称号": [
+      {
+        "value": "白雪师叔",
+        "docId": "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star",
+        "seq": 826
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "若王林在此会觉此女眼熟",
+        "docId": "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star",
+        "seq": 826
       }
     ]
   },
@@ -72,21 +100,34 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+      "docId": "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star",
       "dated": false,
-      "seq": 341
+      "seq": 826
     },
     "性格": {
       "asOf": null,
       "docId": "plot.xianni-ch361-zhuque-guo-arrival",
       "dated": false,
       "seq": 341
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star",
+      "dated": false,
+      "seq": 826
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star",
+      "dated": false,
+      "seq": 826
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch361-zhuque-guo-arrival"
+    "plot.xianni-ch361-zhuque-guo-arrival",
+    "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star"
   ],
-  "updatedAt": "2026-08-08T14:53:00.625Z"
+  "updatedAt": "2026-08-23T17:49:06.388Z"
 }
