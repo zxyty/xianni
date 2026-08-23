@@ -15,15 +15,17 @@
     "Li Family",
     "破灭禁李家",
     "李元的家族",
-    "罗天南域李家"
+    "罗天南域李家",
+    "破灭星李家",
+    "上古禁制家族李家"
   ],
   "summary": "罗天星域六大上古家族之一，以破灭禁扬名，族人修禁道、以禁修行，每代都有突破至第二步者，昔日如日中天。",
   "attributes": {
-    "等级": "传承至上古的修真家族",
+    "等级": "传承上古的禁制家族",
     "理念": "修禁道，以禁修行、破除世代奴印、完成先祖遗愿、谋求解脱石像封印、恢复自由、反抗奴印、求脱奴籍、无心禁在体便非真正的破灭禁、心禁之术伤身，绝不轻易动用、上古传承，今已衰败",
-    "镇派之宝": "破灭禁、心禁、破灭禁（心禁之术）",
+    "镇派之宝": "破灭禁、心禁、破灭禁（心禁之术）、破灭禁 / 破灭心禁",
     "所属界面": "罗天星域",
-    "据点": "罗天星域"
+    "据点": "破灭星·李家祖宅"
   },
   "observations": {
     "等级": [
@@ -36,6 +38,12 @@
         "value": "传承至上古的修真家族",
         "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
         "seq": 736
+      },
+      {
+        "value": "传承上古的禁制家族",
+        "docId": "plot.xianni-ch858-target-108-immortals-poluo-xinjin",
+        "seq": 800,
+        "note": "现已没落，实则不如普通修真家族"
       }
     ],
     "理念": [
@@ -92,6 +100,11 @@
         "value": "破灭禁（心禁之术）",
         "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
         "seq": 731
+      },
+      {
+        "value": "破灭禁 / 破灭心禁",
+        "docId": "plot.xianni-ch858-target-108-immortals-poluo-xinjin",
+        "seq": 800
       }
     ],
     "所属界面": [
@@ -106,6 +119,11 @@
         "value": "罗天星域",
         "docId": "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark",
         "seq": 711
+      },
+      {
+        "value": "破灭星·李家祖宅",
+        "docId": "plot.xianni-ch858-target-108-immortals-poluo-xinjin",
+        "seq": 800
       }
     ]
   },
@@ -113,9 +131,10 @@
   "attrProvenance": {
     "等级": {
       "asOf": null,
-      "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+      "docId": "plot.xianni-ch858-target-108-immortals-poluo-xinjin",
       "dated": false,
-      "seq": 736
+      "seq": 800,
+      "note": "现已没落，实则不如普通修真家族"
     },
     "理念": {
       "asOf": null,
@@ -137,9 +156,9 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark",
+      "docId": "plot.xianni-ch858-target-108-immortals-poluo-xinjin",
       "dated": false,
-      "seq": 711
+      "seq": 800
     }
   },
   "contested": false,
@@ -153,7 +172,8 @@
     "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan",
     "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
     "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
-    "plot.xianni-ch851-kui-nie-breakthrough-vs-yao-yun"
+    "plot.xianni-ch851-kui-nie-breakthrough-vs-yao-yun",
+    "plot.xianni-ch858-target-108-immortals-poluo-xinjin"
   ],
-  "updatedAt": "2026-08-23T14:07:56.603Z"
+  "updatedAt": "2026-08-23T14:25:17.034Z"
 }

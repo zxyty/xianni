@@ -3,14 +3,18 @@
   "type": "place",
   "name": "破灭星",
   "aliases": [
-    "破灭修真星"
+    "破灭修真星",
+    "破灭"
   ],
   "summary": "罗天南域一颗修真星，李家所在之处。",
   "attributes": {
     "类型": "修真星",
     "上级区域": "罗天南域",
     "所属势力": "李家",
-    "方位": "罗天南域"
+    "方位": "罗天南域内一处偏僻星域",
+    "所属界面": "罗天星域·罗天南域",
+    "守护": "李家留下的禁制大阵",
+    "危险度": "荒无人烟、无修士来此"
   },
   "observations": {
     "类型": [
@@ -39,6 +43,33 @@
         "value": "罗天南域",
         "docId": "plot.xianni-ch851-kui-nie-breakthrough-vs-yao-yun",
         "seq": 795
+      },
+      {
+        "value": "罗天南域内一处偏僻星域",
+        "docId": "plot.xianni-ch858-target-108-immortals-poluo-xinjin",
+        "seq": 800
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "罗天星域·罗天南域",
+        "docId": "plot.xianni-ch858-target-108-immortals-poluo-xinjin",
+        "seq": 800
+      }
+    ],
+    "守护": [
+      {
+        "value": "李家留下的禁制大阵",
+        "docId": "plot.xianni-ch858-target-108-immortals-poluo-xinjin",
+        "seq": 800
+      }
+    ],
+    "危险度": [
+      {
+        "value": "荒无人烟、无修士来此",
+        "docId": "plot.xianni-ch858-target-108-immortals-poluo-xinjin",
+        "seq": 800,
+        "note": "本章时的状态"
       }
     ]
   },
@@ -64,15 +95,35 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch851-kui-nie-breakthrough-vs-yao-yun",
+      "docId": "plot.xianni-ch858-target-108-immortals-poluo-xinjin",
       "dated": false,
-      "seq": 795
+      "seq": 800
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch858-target-108-immortals-poluo-xinjin",
+      "dated": false,
+      "seq": 800
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch858-target-108-immortals-poluo-xinjin",
+      "dated": false,
+      "seq": 800
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch858-target-108-immortals-poluo-xinjin",
+      "dated": false,
+      "seq": 800,
+      "note": "本章时的状态"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch851-kui-nie-breakthrough-vs-yao-yun"
+    "plot.xianni-ch851-kui-nie-breakthrough-vs-yao-yun",
+    "plot.xianni-ch858-target-108-immortals-poluo-xinjin"
   ],
-  "updatedAt": "2026-08-23T14:07:56.600Z"
+  "updatedAt": "2026-08-23T14:25:17.038Z"
 }
