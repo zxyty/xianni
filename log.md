@@ -335,3 +335,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T15:28:10.466Z** `ingest` plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling — 仙逆 第813-816章：雷池地之关·太古雷龙吞雷灵，得行使雷之权力 · kind=plot asOf=2026-08-23 entities=54 relations=109 src=00813-00816.md
 - **2026-08-23T15:47:09.731Z** `ingest` plot.xianni-ch817-820-yixiantian-killing-trial — 第817-820章 一线天杀戮之关：封仙印吞噬虚幻分神 · kind=plot asOf=2026-08-23 entities=67 relations=118 src=00817-00820.md
 - **2026-08-23T16:43:48.476Z** `ingest` plot.xianni-ch880-shengxian-chi-fengxian-shi-wanwer — 第880章 婉儿——升仙池抉择、封仙石刻名与王林的最后请求 · kind=plot asOf=2026-08-23 entities=27 relations=45 src=00821-00825.p1.md
+- **2026-08-23T16:46:06.789Z** `ingest` plot.xianni-ch881-i-agree-qixi-technique-li-muwan-yuanying — 第881章「我，同意！」——封仙许愿：向家七夕术救李慕婉，王林愿舍九成生机 · kind=plot asOf=2026-08-23 entities=25 relations=32 src=00821-00825.p2.md
