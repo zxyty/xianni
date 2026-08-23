@@ -5,20 +5,29 @@
   "aliases": [
     "千丈范围",
     "王林的千丈禁地",
-    "入者死之地"
+    "入者死之地",
+    "王林所划千丈禁地",
+    "千丈之地",
+    "死亡之地"
   ],
   "summary": "王林以仙阵暗洞为中心划出的千丈环形范围，尘埃成环为界，宣告「进入者，死」。",
   "attributes": {
-    "类型": "临时禁地",
+    "类型": "临时禁地、以人为中心划定的禁入范围",
     "规模": "方圆千丈",
-    "危险度": "极高——踏入即死",
-    "守护": "王林（化名许木）"
+    "危险度": "极高——踏入即死、极高（踏入者非死即残）",
+    "守护": "王林（化名许木）、王林",
+    "所属界面": "雷之仙界"
   },
   "observations": {
     "类型": [
       {
         "value": "临时禁地",
         "docId": "plot.xianni-ch776-thousand-zhang-forbidden-zone-tang-yanyun-death",
+        "seq": 731
+      },
+      {
+        "value": "以人为中心划定的禁入范围",
+        "docId": "plot.xianni-ch777-wo-jiao-xumu",
         "seq": 731
       }
     ],
@@ -34,12 +43,29 @@
         "value": "极高——踏入即死",
         "docId": "plot.xianni-ch776-thousand-zhang-forbidden-zone-tang-yanyun-death",
         "seq": 731
+      },
+      {
+        "value": "极高（踏入者非死即残）",
+        "docId": "plot.xianni-ch777-wo-jiao-xumu",
+        "seq": 731
       }
     ],
     "守护": [
       {
         "value": "王林（化名许木）",
         "docId": "plot.xianni-ch776-thousand-zhang-forbidden-zone-tang-yanyun-death",
+        "seq": 731
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch777-wo-jiao-xumu",
+        "seq": 731
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "雷之仙界",
+        "docId": "plot.xianni-ch777-wo-jiao-xumu",
         "seq": 731
       }
     ]
@@ -69,12 +95,19 @@
       "docId": "plot.xianni-ch776-thousand-zhang-forbidden-zone-tang-yanyun-death",
       "dated": false,
       "seq": 731
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch777-wo-jiao-xumu",
+      "dated": false,
+      "seq": 731
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch776-thousand-zhang-forbidden-zone-tang-yanyun-death"
+    "plot.xianni-ch776-thousand-zhang-forbidden-zone-tang-yanyun-death",
+    "plot.xianni-ch777-wo-jiao-xumu"
   ],
-  "updatedAt": "2026-08-23T07:42:40.433Z"
+  "updatedAt": "2026-08-23T07:44:31.031Z"
 }

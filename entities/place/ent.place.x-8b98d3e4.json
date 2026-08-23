@@ -5,14 +5,16 @@
   "aliases": [
     "暗洞",
     "暗格",
-    "东首店铺暗格"
+    "东首店铺暗格",
+    "李元所在的暗洞"
   ],
   "summary": "引仙府东首最大店铺地下的暗格入口，由死阵封锁，泄灵光柱散尽后显露，内有仙力波动外溢。",
   "attributes": {
     "方位": "引仙府东部",
-    "类型": "仙人店铺暗格入口",
+    "类型": "仙人店铺暗格入口、藏身洞穴",
     "上级区域": "引仙府",
-    "守护": "暗格死阵"
+    "守护": "暗格死阵、李元所布黑线禁制",
+    "所属界面": "雷之仙界"
   },
   "observations": {
     "方位": [
@@ -27,6 +29,11 @@
         "value": "仙人店铺暗格入口",
         "docId": "plot.xianni-ch775-dark-hole-yinxian-mansion",
         "seq": 731
+      },
+      {
+        "value": "藏身洞穴",
+        "docId": "plot.xianni-ch777-wo-jiao-xumu",
+        "seq": 731
       }
     ],
     "上级区域": [
@@ -40,6 +47,18 @@
       {
         "value": "暗格死阵",
         "docId": "plot.xianni-ch775-dark-hole-yinxian-mansion",
+        "seq": 731
+      },
+      {
+        "value": "李元所布黑线禁制",
+        "docId": "plot.xianni-ch777-wo-jiao-xumu",
+        "seq": 731
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "雷之仙界",
+        "docId": "plot.xianni-ch777-wo-jiao-xumu",
         "seq": 731
       }
     ]
@@ -69,12 +88,19 @@
       "docId": "plot.xianni-ch775-dark-hole-yinxian-mansion",
       "dated": false,
       "seq": 731
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch777-wo-jiao-xumu",
+      "dated": false,
+      "seq": 731
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch775-dark-hole-yinxian-mansion"
+    "plot.xianni-ch775-dark-hole-yinxian-mansion",
+    "plot.xianni-ch777-wo-jiao-xumu"
   ],
-  "updatedAt": "2026-08-23T07:40:20.315Z"
+  "updatedAt": "2026-08-23T07:44:31.031Z"
 }

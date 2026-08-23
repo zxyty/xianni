@@ -273,3 +273,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T07:38:13.747Z** `ingest` plot.xianni-ch774-zimu-daoku-beast-bone-artifact — 第774章 子母道枯——王林以元神烙印开启仙家兽骨法宝 · kind=plot asOf=2026-08-23 entities=41 relations=61 src=00731-00735.p1.md
 - **2026-08-23T07:40:20.484Z** `ingest` plot.xianni-ch775-dark-hole-yinxian-mansion — 仙逆 第775章 暗洞：引仙府废墟启死阵、暗洞现世引群修觊觎 · kind=plot asOf=2026-08-23 entities=16 relations=23 src=00731-00735.p2.md
 - **2026-08-23T07:42:40.618Z** `ingest` plot.xianni-ch776-thousand-zhang-forbidden-zone-tang-yanyun-death — 第776章 千丈禁地，入者死！——王林秒杀唐言云，唐家四人踏入千丈 · kind=plot asOf=2026-08-23 entities=26 relations=33 src=00731-00735.p3.md
+- **2026-08-23T07:44:31.197Z** `ingest` plot.xianni-ch777-wo-jiao-xumu — 第777章 我叫许木！——王林一眼十步震杀阴虚修士，唐言枫忌惮止步 · kind=plot asOf=2026-08-23 entities=16 relations=26 src=00731-00735.p4.md
