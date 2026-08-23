@@ -292,3 +292,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T12:20:33.974Z** `ingest` plot.xianni-ch823-yao-changkong-part3-karma-daoist-realm-duel — 仙逆 第823章（段3/3）：王林以因果道境破姚长东荣耀道境，蝴蝶灭其形神 · kind=plot asOf=2026-08-23 entities=26 relations=41 src=00770-00770.pc.md
 - **2026-08-23T12:23:28.507Z** `ingest` plot.xianni-ch827-yao-bingyun-pursuit — 第827章 姚冰云：寒凤追击许木，冰破对雷球 · kind=plot asOf=2026-08-23 entities=32 relations=48 src=00771-00774.p1.md
 - **2026-08-23T12:26:07.789Z** `ingest` plot.xianni-828-modaozi-tuxing-luotian-xiyu — 第828章 魔道子——王林血洗罗天西域，屠星立威得号「魔道子」 · kind=plot asOf=2026-08-23 entities=21 relations=34 src=00771-00774.p2.md
+- **2026-08-23T12:33:52.147Z** `ingest` plot.xianni-ch829-jiujue-sunshen-array-trap — 第829章 九绝损神阵——王林废星设局待姚家 · kind=plot asOf=2026-08-23 entities=42 relations=71 src=00771-00774.p3.md

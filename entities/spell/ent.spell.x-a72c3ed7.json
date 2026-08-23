@@ -5,13 +5,16 @@
   "aliases": [
     "融入天地",
     "身子融入天地",
-    "虚空一迈"
+    "虚空一迈",
+    "融于天地",
+    "遁入天地"
   ],
   "summary": "融身于天地之中的遁法，一步之下脚下波纹四起而身形消失；白发怪人称当年仙界能做到者也不多，并指出王林并未完全掌握。",
   "attributes": {
-    "类型": "遁术/空间穿梭",
+    "类型": "遁法/匿踪",
     "出处": "仙界罕有传承",
-    "威力": "瞬息跨越无数碎片大陆，可凭感应互相追踪"
+    "威力": "瞬息跨越无数碎片大陆，可凭感应互相追踪",
+    "消耗": "长久施展损害自身"
   },
   "observations": {
     "类型": [
@@ -24,6 +27,11 @@
         "value": "遁术/空间穿梭",
         "docId": "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
         "seq": 746
+      },
+      {
+        "value": "遁法/匿踪",
+        "docId": "plot.xianni-ch829-jiujue-sunshen-array-trap",
+        "seq": 771
       }
     ],
     "出处": [
@@ -39,15 +47,22 @@
         "docId": "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
         "seq": 746
       }
+    ],
+    "消耗": [
+      {
+        "value": "长久施展损害自身",
+        "docId": "plot.xianni-ch829-jiujue-sunshen-array-trap",
+        "seq": 771
+      }
     ]
   },
   "firstSeq": 743,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
+      "docId": "plot.xianni-ch829-jiujue-sunshen-array-trap",
       "dated": false,
-      "seq": 746
+      "seq": 771
     },
     "出处": {
       "asOf": null,
@@ -60,13 +75,20 @@
       "docId": "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
       "dated": false,
       "seq": 746
+    },
+    "消耗": {
+      "asOf": null,
+      "docId": "plot.xianni-ch829-jiujue-sunshen-array-trap",
+      "dated": false,
+      "seq": 771
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
-    "plot.xianni-746-750-mysterious-elder-lures-evil-youth"
+    "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
+    "plot.xianni-ch829-jiujue-sunshen-array-trap"
   ],
-  "updatedAt": "2026-08-23T09:25:34.691Z"
+  "updatedAt": "2026-08-23T12:33:51.901Z"
 }
