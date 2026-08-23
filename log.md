@@ -381,3 +381,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T20:29:48.336Z** `ingest` plot.xianni-ch931-ci-kong-nie-arrow-xuanbao-shangren-immortal-guards — 第931章 次空涅：玄宝上人祭出金品仙卫、九黑蝶与次空涅箭围杀望月 · kind=plot asOf=2026-08-23 entities=28 relations=32 src=00860-00864.p5.md
 - **2026-08-23T21:13:43.375Z** `ingest` plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian — 第932章 古神之气：次空涅箭重创望月，王林古神第四星将凝实 · kind=plot asOf=2026-08-23 entities=21 relations=32 src=00865-00869.p1.md
 - **2026-08-23T21:16:34.577Z** `ingest` plot.xianni-ch933-qingshui-arrives-xuanbao-shangren-artifact-source-power — 第933章 清水来临——望月古神一臂碎次空涅箭，玄宝上人以法宝本源之力夺储物袋 · kind=plot asOf=2026-08-23 entities=22 relations=31 src=00865-00869.p2.md
+- **2026-08-23T21:19:12.509Z** `ingest` plot.xianni-ch934-chase-into-wangyue-mouth — 第934章 追入月口：玄宝上人陨落，众修追入望月体内 · kind=plot asOf=2026-08-23 entities=26 relations=40 src=00865-00869.p3.md
