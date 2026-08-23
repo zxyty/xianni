@@ -5,13 +5,17 @@
   "aliases": [
     "通体黑色的山峰",
     "游走狂雷的山峰",
-    "雷山"
+    "雷山",
+    "散发雷光的山峰",
+    "王林疗伤山峰"
   ],
   "summary": "碎片大陆上一座通体黑色、游走无数狂雷的山峰，白发老者出场时立于其上。",
   "attributes": {
     "所属界面": "雷之仙界",
     "类型": "山峰",
-    "上级区域": "崩溃的碎片大陆"
+    "上级区域": "雷之仙界碎片大陆",
+    "方位": "碎片大陆边缘",
+    "特产": "雷霆之力"
   },
   "observations": {
     "所属界面": [
@@ -33,6 +37,25 @@
         "value": "崩溃的碎片大陆",
         "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
         "seq": 697
+      },
+      {
+        "value": "雷之仙界碎片大陆",
+        "docId": "plot.xianni-ch742-mo-lian-daonian-storage",
+        "seq": 701
+      }
+    ],
+    "方位": [
+      {
+        "value": "碎片大陆边缘",
+        "docId": "plot.xianni-ch742-mo-lian-daonian-storage",
+        "seq": 701
+      }
+    ],
+    "特产": [
+      {
+        "value": "雷霆之力",
+        "docId": "plot.xianni-ch742-mo-lian-daonian-storage",
+        "seq": 701
       }
     ]
   },
@@ -52,15 +75,28 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
+      "docId": "plot.xianni-ch742-mo-lian-daonian-storage",
       "dated": false,
-      "seq": 697
+      "seq": 701
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch742-mo-lian-daonian-storage",
+      "dated": false,
+      "seq": 701
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch742-mo-lian-daonian-storage",
+      "dated": false,
+      "seq": 701
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch736-lei-zhi-xianjie-gate"
+    "plot.xianni-ch736-lei-zhi-xianjie-gate",
+    "plot.xianni-ch742-mo-lian-daonian-storage"
   ],
-  "updatedAt": "2026-08-23T04:18:03.571Z"
+  "updatedAt": "2026-08-23T04:53:10.171Z"
 }

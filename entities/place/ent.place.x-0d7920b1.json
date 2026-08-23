@@ -7,13 +7,15 @@
     "破碎大陆",
     "雷之仙界碎片大陆",
     "一处碎片大陆",
-    "雷之仙界的碎片大陆"
+    "雷之仙界的碎片大陆",
+    "碎片化作的大陆",
+    "雷山所在碎片大陆"
   ],
   "summary": "雷之仙界中一块崩溃的碎片大陆，王林的雷霆流星坠落于其东侧地面，砸出极深天坑；大陆本已不稳，受冲击后更加动荡。",
   "attributes": {
     "所属界面": "雷之仙界",
-    "类型": "崩溃碎片大陆、碎片大陆",
-    "危险度": "高（濒临崩溃）",
+    "类型": "崩溃碎片大陆、碎片大陆、界域碎片大陆",
+    "危险度": "中（多为问鼎期修士出没，偶有阴虚修士）",
     "特产": "散发仙力的法器碎片",
     "规模": "极为辽阔"
   },
@@ -35,6 +37,11 @@
         "value": "碎片大陆",
         "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
         "seq": 697
+      },
+      {
+        "value": "界域碎片大陆",
+        "docId": "plot.xianni-ch742-mo-lian-daonian-storage",
+        "seq": 701
       }
     ],
     "危险度": [
@@ -42,6 +49,11 @@
         "value": "高（濒临崩溃）",
         "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
         "seq": 697
+      },
+      {
+        "value": "中（多为问鼎期修士出没，偶有阴虚修士）",
+        "docId": "plot.xianni-ch742-mo-lian-daonian-storage",
+        "seq": 701
       }
     ],
     "特产": [
@@ -75,9 +87,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
+      "docId": "plot.xianni-ch742-mo-lian-daonian-storage",
       "dated": false,
-      "seq": 697
+      "seq": 701
     },
     "特产": {
       "asOf": null,
@@ -96,7 +108,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch736-lei-zhi-xianjie-gate",
-    "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan"
+    "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
+    "plot.xianni-ch742-mo-lian-daonian-storage"
   ],
-  "updatedAt": "2026-08-23T04:50:27.441Z"
+  "updatedAt": "2026-08-23T04:53:10.170Z"
 }
