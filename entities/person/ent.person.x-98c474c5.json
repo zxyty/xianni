@@ -10,11 +10,12 @@
   ],
   "summary": "地玄殿大长老，修真联盟长老团成员之一，可决定联盟星域一切事情；一身白衣手持拂尘，笑声一出四周修士法宝皆颤。",
   "attributes": {
-    "身份": "地玄殿大长老、联盟长老团成员",
+    "身份": "地玄殿大长老、联盟长老团成员、修真联盟长老团成员",
     "外貌": "白衣、略显清瘦、仙风道骨、双目明亮深邃、手持拂尘、老者，面带微笑",
-    "性格": "容颜和善如长者，对战事毫不在意、从容微笑、神色如常",
+    "性格": "容颜和善如长者，对战事毫不在意、从容微笑、神色如常、自信、算计深远",
     "标志特征": "长笑一出，四周修士法宝齐颤欲脱主而出、虚空撕裂百丈裂缝取物；掌握仙卫、黑蝶、次空涅箭",
-    "阵营": "与望月及罗天修士敌对"
+    "阵营": "修真联盟",
+    "寿元": "已谋划数万年"
   },
   "observations": {
     "身份": [
@@ -27,6 +28,11 @@
         "value": "联盟长老团成员",
         "docId": "plot.xianni-ch930-alliance-elder-council",
         "seq": 860
+      },
+      {
+        "value": "修真联盟长老团成员",
+        "docId": "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian",
+        "seq": 865
       }
     ],
     "外貌": [
@@ -51,6 +57,11 @@
         "value": "从容微笑、神色如常",
         "docId": "plot.xianni-ch931-ci-kong-nie-arrow-xuanbao-shangren-immortal-guards",
         "seq": 860
+      },
+      {
+        "value": "自信、算计深远",
+        "docId": "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian",
+        "seq": 865
       }
     ],
     "标志特征": [
@@ -70,6 +81,19 @@
         "value": "与望月及罗天修士敌对",
         "docId": "plot.xianni-ch931-ci-kong-nie-arrow-xuanbao-shangren-immortal-guards",
         "seq": 860
+      },
+      {
+        "value": "修真联盟",
+        "docId": "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian",
+        "seq": 865
+      }
+    ],
+    "寿元": [
+      {
+        "value": "已谋划数万年",
+        "docId": "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian",
+        "seq": 865,
+        "note": "自称‘老夫数万年的准备’"
       }
     ]
   },
@@ -101,16 +125,24 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch931-ci-kong-nie-arrow-xuanbao-shangren-immortal-guards",
+      "docId": "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian",
       "dated": false,
-      "seq": 860
+      "seq": 865
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian",
+      "dated": false,
+      "seq": 865,
+      "note": "自称‘老夫数万年的准备’"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch930-alliance-elder-council",
-    "plot.xianni-ch931-ci-kong-nie-arrow-xuanbao-shangren-immortal-guards"
+    "plot.xianni-ch931-ci-kong-nie-arrow-xuanbao-shangren-immortal-guards",
+    "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian"
   ],
-  "updatedAt": "2026-08-23T20:29:48.075Z"
+  "updatedAt": "2026-08-23T21:13:43.145Z"
 }

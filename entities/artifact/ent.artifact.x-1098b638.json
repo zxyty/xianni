@@ -4,13 +4,19 @@
   "name": "次空涅箭",
   "aliases": [
     "次空涅",
-    "三十丈箭矢"
+    "三十丈箭矢",
+    "空涅箭",
+    "空涅",
+    "Ci Kong Nie Jian",
+    "三寸箭矢"
   ],
   "summary": "玄宝上人自虚空裂缝中引出的巨箭，随青气缓缓落下，长约三十多丈、七尺粗细，箭体暗黑色血迹令方圆数万里修士心神撼动。",
   "attributes": {
-    "外形": "通体青色，长约三十多丈、七尺粗细，箭尖六棱之芒，箭尾紫色羽毛四下排列，箭体带暗黑色血迹",
-    "能力": "现世即令方圆数万里内所有修士心神剧震",
-    "持有者": "玄宝上人"
+    "外形": "外层三十丈、其上暗黑血迹；真身三寸、其上血迹鲜红如赤",
+    "能力": "现世即令方圆数万里内所有修士心神剧震、破开古神一指、散出疯狂之力形成黑色漩涡钻击",
+    "持有者": "玄宝上人",
+    "品阶": "九品",
+    "来历": "来历不详，岁月悠久；传闻仙界尚在时曾沾染奇异之血"
   },
   "observations": {
     "外形": [
@@ -18,6 +24,12 @@
         "value": "通体青色，长约三十多丈、七尺粗细，箭尖六棱之芒，箭尾紫色羽毛四下排列，箭体带暗黑色血迹",
         "docId": "plot.xianni-ch931-ci-kong-nie-arrow-xuanbao-shangren-immortal-guards",
         "seq": 860
+      },
+      {
+        "value": "外层三十丈、其上暗黑血迹；真身三寸、其上血迹鲜红如赤",
+        "docId": "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian",
+        "seq": 865,
+        "note": "第932章揭示双层结构"
       }
     ],
     "能力": [
@@ -25,6 +37,16 @@
         "value": "现世即令方圆数万里内所有修士心神剧震",
         "docId": "plot.xianni-ch931-ci-kong-nie-arrow-xuanbao-shangren-immortal-guards",
         "seq": 860
+      },
+      {
+        "value": "破开古神一指",
+        "docId": "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian",
+        "seq": 865
+      },
+      {
+        "value": "散出疯狂之力形成黑色漩涡钻击",
+        "docId": "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian",
+        "seq": 865
       }
     ],
     "持有者": [
@@ -34,15 +56,31 @@
         "seq": 860,
         "note": "第931章自虚空裂缝取出"
       }
+    ],
+    "品阶": [
+      {
+        "value": "九品",
+        "docId": "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian",
+        "seq": 865,
+        "note": "玄宝上人自陈‘只是九品之物’"
+      }
+    ],
+    "来历": [
+      {
+        "value": "来历不详，岁月悠久；传闻仙界尚在时曾沾染奇异之血",
+        "docId": "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian",
+        "seq": 865
+      }
     ]
   },
   "firstSeq": 860,
   "attrProvenance": {
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch931-ci-kong-nie-arrow-xuanbao-shangren-immortal-guards",
+      "docId": "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian",
       "dated": false,
-      "seq": 860
+      "seq": 865,
+      "note": "第932章揭示双层结构"
     },
     "能力": {
       "asOf": null,
@@ -56,12 +94,26 @@
       "dated": false,
       "seq": 860,
       "note": "第931章自虚空裂缝取出"
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian",
+      "dated": false,
+      "seq": 865,
+      "note": "玄宝上人自陈‘只是九品之物’"
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian",
+      "dated": false,
+      "seq": 865
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch931-ci-kong-nie-arrow-xuanbao-shangren-immortal-guards"
+    "plot.xianni-ch931-ci-kong-nie-arrow-xuanbao-shangren-immortal-guards",
+    "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian"
   ],
-  "updatedAt": "2026-08-23T20:29:48.094Z"
+  "updatedAt": "2026-08-23T21:13:43.156Z"
 }
