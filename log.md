@@ -245,3 +245,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T03:54:02.796Z** `ingest` plot.xianni-ch734-shenton-exchange-third-eye — 第734章 占了大便宜：三大神通换第三眼，仙雷临身却收鼎 · kind=plot asOf=2026-08-23 entities=26 relations=33 src=00693-00696.p3.md
 - **2026-08-23T03:55:40.251Z** `ingest` plot.xianni-ch735-wanglin-devours-immortal-thunder-leiding-destroyed — 第735章 前无古人：王林吞噬仙雷、雷鼎崩碎入雷之仙界 · kind=plot asOf=2026-08-23 entities=10 relations=12 src=00693-00696.p4.md
 - **2026-08-23T04:18:03.813Z** `ingest` plot.xianni-ch736-lei-zhi-xianjie-gate — 第736章 雷之仙界：暗红雷门与流星雷霆破门而入 · kind=plot asOf=2026-08-23 entities=61 relations=103 src=00697-00700.md
+- **2026-08-23T04:43:27.248Z** `ingest` plot.xianni-ch740-daonian-battle-xu-fenghan — 第740章 绝伦·道念之战：王林黄泉道念对抗许封寒道化魔莲 · kind=plot asOf=2026-08-23 entities=17 relations=24 src=00701-00705.p1.md
