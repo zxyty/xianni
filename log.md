@@ -310,3 +310,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T13:51:33.167Z** `ingest` plot.xianni-ch844-devour-yao-bingyun-yuanli-fengxian — 第844章 吞噬——雷仙殿封一百零八仙，王林炼化姚冰云元力至阳实巅峰、悟“吞噬意境” · kind=plot asOf=2026-08-23 entities=31 relations=40 src=00785-00789.p4.md
 - **2026-08-23T13:53:38.395Z** `ingest` plot.xianni-ch845-meng-dao-devour-choice — 第845章 梦道：王林吞噬之择与青灵星阴阳异象 · kind=plot asOf=2026-08-23 entities=16 relations=18 src=00785-00789.p5.md
 - **2026-08-23T13:56:01.191Z** `ingest` plot.xianni-846-you-ke-mingwu-qingling-star-dao-quest — 第846章 你可明悟？——王林化风问道青灵星凡尘 · kind=plot asOf=2026-08-23 entities=17 relations=26 src=00790-00794.p1.md
+- **2026-08-23T13:57:47.627Z** `ingest` plot.xianni-847-wang-lin-enlightenment-changes-qing-ling-star — 第847章 改变：王林悟「我即因果」之道，青灵星随之蜕变 · kind=plot asOf=2026-08-23 entities=11 relations=15 src=00790-00794.p2.md

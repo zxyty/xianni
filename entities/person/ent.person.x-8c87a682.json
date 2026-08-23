@@ -4,19 +4,27 @@
   "name": "谢姓老者",
   "aliases": [
     "谢老",
-    "小城德高老者"
+    "小城德高老者",
+    "谢老者",
+    "河道旁的谢姓老者"
   ],
   "summary": "青灵星某小城德高望重的凡人学者，被王林深夜问道后心神不宁，河畔见渔翁撒网而悟「我为鱼，道为网，河为天，捞网者为造化」，获王林赐一道天地灵气造化。",
   "attributes": {
-    "身份": "凡人德者、学者",
+    "身份": "凡人德者、学者、凡人",
     "性格": "自问学识滔天，被一问彻底问住",
-    "结局": "获王林一点天地灵气入体，得一场造化"
+    "结局": "获王林一点天地灵气入体，得一场造化",
+    "出身地": "青灵星"
   },
   "observations": {
     "身份": [
       {
         "value": "凡人德者、学者",
         "docId": "plot.xianni-846-you-ke-mingwu-qingling-star-dao-quest",
+        "seq": 790
+      },
+      {
+        "value": "凡人",
+        "docId": "plot.xianni-847-wang-lin-enlightenment-changes-qing-ling-star",
         "seq": 790
       }
     ],
@@ -33,6 +41,13 @@
         "docId": "plot.xianni-846-you-ke-mingwu-qingling-star-dao-quest",
         "seq": 790,
         "note": "第846章"
+      }
+    ],
+    "出身地": [
+      {
+        "value": "青灵星",
+        "docId": "plot.xianni-847-wang-lin-enlightenment-changes-qing-ling-star",
+        "seq": 790
       }
     ]
   },
@@ -56,12 +71,19 @@
       "dated": false,
       "seq": 790,
       "note": "第846章"
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-847-wang-lin-enlightenment-changes-qing-ling-star",
+      "dated": false,
+      "seq": 790
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-846-you-ke-mingwu-qingling-star-dao-quest"
+    "plot.xianni-846-you-ke-mingwu-qingling-star-dao-quest",
+    "plot.xianni-847-wang-lin-enlightenment-changes-qing-ling-star"
   ],
-  "updatedAt": "2026-08-23T13:56:01.009Z"
+  "updatedAt": "2026-08-23T13:57:47.451Z"
 }
