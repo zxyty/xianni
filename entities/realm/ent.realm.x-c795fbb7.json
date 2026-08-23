@@ -3,12 +3,14 @@
   "type": "realm",
   "name": "八品上仙",
   "aliases": [
-    "八品上仙等级"
+    "八品上仙等级",
+    "上仙八品"
   ],
   "summary": "藏品阁测出王林本人的仙人等级，可去藏品阁第四层凭仙缘选取仙术。",
   "attributes": {
-    "阶序": "仙人等级·八品",
-    "上一境": "九品仙君"
+    "阶序": "上仙第八品",
+    "上一境": "九品仙君",
+    "小阶段": "八品"
   },
   "observations": {
     "阶序": [
@@ -16,6 +18,11 @@
         "value": "仙人等级·八品",
         "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
         "seq": 736
+      },
+      {
+        "value": "上仙第八品",
+        "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
+        "seq": 753
       }
     ],
     "上一境": [
@@ -24,27 +31,41 @@
         "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
         "seq": 736
       }
+    ],
+    "小阶段": [
+      {
+        "value": "八品",
+        "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
+        "seq": 753
+      }
     ]
   },
   "firstSeq": 736,
   "attrProvenance": {
     "阶序": {
       "asOf": null,
-      "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+      "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
       "dated": false,
-      "seq": 736
+      "seq": 753
     },
     "上一境": {
       "asOf": null,
       "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
       "dated": false,
       "seq": 736
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
+      "dated": false,
+      "seq": 753
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch779-jijing-reappears-vortex-seal-broken"
+    "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+    "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name"
   ],
-  "updatedAt": "2026-08-23T08:06:47.773Z"
+  "updatedAt": "2026-08-23T10:07:25.204Z"
 }

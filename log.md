@@ -280,3 +280,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T09:06:12.931Z** `ingest` plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm — 第786章 王林恶战血色断臂——雷之仙界八道残肢汇聚 · kind=plot asOf=2026-08-23 entities=71 relations=142 src=00743-00745.md
 - **2026-08-23T09:25:34.965Z** `ingest` plot.xianni-746-750-mysterious-elder-lures-evil-youth — 仙逆 第746-750章：神秘老者驱散修士、诱邪气青年赴本体所在 · kind=plot asOf=2026-08-23 entities=75 relations=123 src=00746-00750.md
 - **2026-08-23T09:48:28.339Z** `ingest` plot.xianni-ch796-shixiong-qingshui-yanleizi-departure — 仙逆 第796章 师兄？——清水随炎雷子离开雷之仙界，王林得紫金角信物 · kind=plot asOf=2026-08-23 entities=67 relations=135 src=00751-00752.md
+- **2026-08-23T10:07:25.425Z** `ingest` plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name — 仙逆 第753-757章：气势逼退雷仙殿使者、破阵传送脱身，「许木」之名传开；雷之仙界冰封 · kind=plot asOf=2026-08-23 entities=77 relations=115 src=00753-00757.md

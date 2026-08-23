@@ -2,13 +2,15 @@
   "id": "ent.artifact.x-ec178f26",
   "type": "artifact",
   "name": "百丈仙界碎片",
-  "aliases": [],
+  "aliases": [
+    "沙粒仙界碎片"
+  ],
   "summary": "王林代步的仙界碎片，经天劫炼化而极稳固，撞击空间裂缝可使其并拢，成为虚无中的移动方舟。",
   "attributes": {
     "持有者": "王林",
-    "能力": "撞合空间裂缝、免疫裂缝撕裂之力、高速穿行虚无并载数十修士",
-    "来历": "仙界碎片，经历过天劫炼化",
-    "外形": "百丈大小的碎片"
+    "能力": "撞合空间裂缝、免疫裂缝撕裂之力、高速穿行虚无并载数十修士、散发磅礴仙力、形成牵引封锁、化大印砸落震裂大陆、坚硬到全力一拳纹丝不动并回震敌人",
+    "来历": "仙界碎片",
+    "外形": "平时为一枚沙粒，幻化后百丈之巨"
   },
   "observations": {
     "持有者": [
@@ -33,6 +35,26 @@
         "value": "高速穿行虚无并载数十修士",
         "docId": "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
         "seq": 751
+      },
+      {
+        "value": "散发磅礴仙力",
+        "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
+        "seq": 753
+      },
+      {
+        "value": "形成牵引封锁",
+        "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
+        "seq": 753
+      },
+      {
+        "value": "化大印砸落震裂大陆",
+        "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
+        "seq": 753
+      },
+      {
+        "value": "坚硬到全力一拳纹丝不动并回震敌人",
+        "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
+        "seq": 753
       }
     ],
     "来历": [
@@ -40,6 +62,11 @@
         "value": "仙界碎片，经历过天劫炼化",
         "docId": "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
         "seq": 751
+      },
+      {
+        "value": "仙界碎片",
+        "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
+        "seq": 753
       }
     ],
     "外形": [
@@ -47,6 +74,12 @@
         "value": "百丈大小的碎片",
         "docId": "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
         "seq": 751
+      },
+      {
+        "value": "平时为一枚沙粒，幻化后百丈之巨",
+        "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
+        "seq": 753,
+        "note": "第805章第一次现世"
       }
     ]
   },
@@ -66,21 +99,23 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
+      "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
       "dated": false,
-      "seq": 751
+      "seq": 753
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
+      "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
       "dated": false,
-      "seq": 751
+      "seq": 753,
+      "note": "第805章第一次现世"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure"
+    "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
+    "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name"
   ],
-  "updatedAt": "2026-08-23T09:48:28.096Z"
+  "updatedAt": "2026-08-23T10:07:25.218Z"
 }
