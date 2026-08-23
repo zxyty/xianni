@@ -9,8 +9,10 @@
   ],
   "summary": "王林所显的黑白二色阴阳双鱼异象，旋转间吸纳整个青灵星生灵念头形成绝天之力冲天而去，其后落下沉入王林与姚冰云体内。",
   "attributes": {
-    "类型": "意境异象",
-    "威力": "吸纳一星生灵念头，形成绝天之力，引动天地风云色变"
+    "类型": "护身/推拒死气",
+    "威力": "吸纳一星生灵念头，形成绝天之力，引动天地风云色变",
+    "消耗": "元力持续运转",
+    "出处": "王林"
   },
   "observations": {
     "类型": [
@@ -18,6 +20,11 @@
         "value": "意境异象",
         "docId": "plot.xianni-ch848-yao-bingyun-dao",
         "seq": 790
+      },
+      {
+        "value": "护身/推拒死气",
+        "docId": "plot.xianni-ch884-vitality-traded-for-qixi-technique",
+        "seq": 821
       }
     ],
     "威力": [
@@ -26,27 +33,54 @@
         "docId": "plot.xianni-ch848-yao-bingyun-dao",
         "seq": 790
       }
+    ],
+    "消耗": [
+      {
+        "value": "元力持续运转",
+        "docId": "plot.xianni-ch884-vitality-traded-for-qixi-technique",
+        "seq": 821
+      }
+    ],
+    "出处": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch884-vitality-traded-for-qixi-technique",
+        "seq": 821
+      }
     ]
   },
   "firstSeq": 790,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch848-yao-bingyun-dao",
+      "docId": "plot.xianni-ch884-vitality-traded-for-qixi-technique",
       "dated": false,
-      "seq": 790
+      "seq": 821
     },
     "威力": {
       "asOf": null,
       "docId": "plot.xianni-ch848-yao-bingyun-dao",
       "dated": false,
       "seq": 790
+    },
+    "消耗": {
+      "asOf": null,
+      "docId": "plot.xianni-ch884-vitality-traded-for-qixi-technique",
+      "dated": false,
+      "seq": 821
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.xianni-ch884-vitality-traded-for-qixi-technique",
+      "dated": false,
+      "seq": 821
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch848-yao-bingyun-dao"
+    "plot.xianni-ch848-yao-bingyun-dao",
+    "plot.xianni-ch884-vitality-traded-for-qixi-technique"
   ],
-  "updatedAt": "2026-08-23T14:00:34.141Z"
+  "updatedAt": "2026-08-23T16:58:04.424Z"
 }

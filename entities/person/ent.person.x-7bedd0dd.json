@@ -4,13 +4,18 @@
   "name": "向家先祖",
   "aliases": [
     "向家常年闭关的先祖",
-    "向家仅存的一位先祖"
+    "向家仅存的一位先祖",
+    "棺材内的沧桑声音",
+    "七夕之术施展者"
   ],
   "summary": "向家常年闭关的先祖，是唯一能施展七夕术者，居于东临星。",
   "attributes": {
     "身份": "向家闭关先祖、向家先祖",
     "出身地": "东临星",
-    "存殁": "在世（闭关）"
+    "存殁": "在世（闭关）",
+    "性格": "脾气古怪，喜怒难测",
+    "标志特征": "声音沧桑如自上古传出、栖身土黄色溃烂棺材、驱使人头海死气",
+    "神识": "极强，但无法看透王林全身"
   },
   "observations": {
     "身份": [
@@ -38,6 +43,38 @@
         "docId": "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens",
         "seq": 821
       }
+    ],
+    "性格": [
+      {
+        "value": "脾气古怪，喜怒难测",
+        "docId": "plot.xianni-ch884-vitality-traded-for-qixi-technique",
+        "seq": 821
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "声音沧桑如自上古传出",
+        "docId": "plot.xianni-ch884-vitality-traded-for-qixi-technique",
+        "seq": 821
+      },
+      {
+        "value": "栖身土黄色溃烂棺材",
+        "docId": "plot.xianni-ch884-vitality-traded-for-qixi-technique",
+        "seq": 821
+      },
+      {
+        "value": "驱使人头海死气",
+        "docId": "plot.xianni-ch884-vitality-traded-for-qixi-technique",
+        "seq": 821
+      }
+    ],
+    "神识": [
+      {
+        "value": "极强，但无法看透王林全身",
+        "docId": "plot.xianni-ch884-vitality-traded-for-qixi-technique",
+        "seq": 821,
+        "note": "受阻于王林第三目的本源力量"
+      }
     ]
   },
   "firstSeq": 821,
@@ -59,13 +96,33 @@
       "docId": "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens",
       "dated": false,
       "seq": 821
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch884-vitality-traded-for-qixi-technique",
+      "dated": false,
+      "seq": 821
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch884-vitality-traded-for-qixi-technique",
+      "dated": false,
+      "seq": 821
+    },
+    "神识": {
+      "asOf": null,
+      "docId": "plot.xianni-ch884-vitality-traded-for-qixi-technique",
+      "dated": false,
+      "seq": 821,
+      "note": "受阻于王林第三目的本源力量"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch881-i-agree-qixi-technique-li-muwan-yuanying",
-    "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens"
+    "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens",
+    "plot.xianni-ch884-vitality-traded-for-qixi-technique"
   ],
-  "updatedAt": "2026-08-23T16:55:42.951Z"
+  "updatedAt": "2026-08-23T16:58:04.415Z"
 }

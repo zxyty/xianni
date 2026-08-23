@@ -17,12 +17,13 @@
   "attributes": {
     "上级区域": "罗天东域",
     "所属势力": "东临星许家",
-    "类型": "修真星辰",
+    "类型": "星球、修真星、星辰、星辰/修真星、修真星辰、修真星球",
     "危险度": "极高（禁制强横，不知进入之法冒然闯入必死）",
     "特产": "屠星立威之传统",
     "所属界面": "罗天星域",
     "方位": "罗天东域（位置不固定，缓缓飘行）",
-    "规模": "比天运星大一圈"
+    "规模": "比天运星大一圈",
+    "守护": "向家先祖"
   },
   "observations": {
     "上级区域": [
@@ -73,6 +74,11 @@
       {
         "value": "修真星辰",
         "docId": "plot.xianni-ch881-i-agree-qixi-technique-li-muwan-yuanying",
+        "seq": 821
+      },
+      {
+        "value": "修真星球",
+        "docId": "plot.xianni-ch884-vitality-traded-for-qixi-technique",
         "seq": 821
       }
     ],
@@ -131,6 +137,13 @@
         "docId": "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens",
         "seq": 821
       }
+    ],
+    "守护": [
+      {
+        "value": "向家先祖",
+        "docId": "plot.xianni-ch884-vitality-traded-for-qixi-technique",
+        "seq": 821
+      }
     ]
   },
   "firstSeq": 618,
@@ -149,9 +162,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch881-i-agree-qixi-technique-li-muwan-yuanying",
+      "docId": "plot.xianni-ch618-620-scroll-woman-luotian-star-region-seal",
       "dated": false,
-      "seq": 821
+      "seq": 618
     },
     "危险度": {
       "asOf": null,
@@ -183,6 +196,12 @@
       "docId": "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens",
       "dated": false,
       "seq": 821
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch884-vitality-traded-for-qixi-technique",
+      "dated": false,
+      "seq": 821
     }
   },
   "contested": false,
@@ -209,7 +228,8 @@
     "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
     "plot.xianni-ch880-shengxian-chi-fengxian-shi-wanwer",
     "plot.xianni-ch881-i-agree-qixi-technique-li-muwan-yuanying",
-    "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens"
+    "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens",
+    "plot.xianni-ch884-vitality-traded-for-qixi-technique"
   ],
-  "updatedAt": "2026-08-23T16:55:42.954Z"
+  "updatedAt": "2026-08-23T16:58:04.419Z"
 }
