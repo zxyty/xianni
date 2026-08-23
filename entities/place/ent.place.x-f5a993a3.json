@@ -3,12 +3,19 @@
   "type": "place",
   "name": "杏花村",
   "aliases": [
-    "杏花村老周家所在村落"
+    "杏花村老周家所在村落",
+    "天山下的村落",
+    "Xinghua Village",
+    "杏花村落"
   ],
   "summary": "凡人村落，老周家所在；周茹于此出生，铁岩在村外百里小山洞府以神识锁定守护。",
   "attributes": {
     "类型": "凡人村落",
-    "守护": "铁岩"
+    "守护": "铁岩",
+    "所属界面": "暗月星",
+    "方位": "天山山脚",
+    "规模": "不足百户人家",
+    "特产": "杏树杏花、百年老屋、童谣"
   },
   "observations": {
     "类型": [
@@ -29,6 +36,44 @@
         "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
         "seq": 322
       }
+    ],
+    "所属界面": [
+      {
+        "value": "暗月星",
+        "docId": "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
+        "seq": 876
+      }
+    ],
+    "方位": [
+      {
+        "value": "天山山脚",
+        "docId": "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
+        "seq": 876
+      }
+    ],
+    "规模": [
+      {
+        "value": "不足百户人家",
+        "docId": "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
+        "seq": 876
+      }
+    ],
+    "特产": [
+      {
+        "value": "杏树杏花",
+        "docId": "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
+        "seq": 876
+      },
+      {
+        "value": "百年老屋",
+        "docId": "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
+        "seq": 876
+      },
+      {
+        "value": "童谣",
+        "docId": "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
+        "seq": 876
+      }
     ]
   },
   "firstSeq": 317,
@@ -44,13 +89,38 @@
       "docId": "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
       "dated": false,
       "seq": 322
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
+      "dated": false,
+      "seq": 876
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
+      "dated": false,
+      "seq": 876
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
+      "dated": false,
+      "seq": 876
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
+      "dated": false,
+      "seq": 876
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch337-bushe-liwanwan-shouyuan-guiyuandan",
-    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree"
+    "plot.xianni-ch342-wild-tribe-remnants-reincarnation-tree",
+    "plot.xianni-ch946-muzhi-xinghuacun-anyue-star"
   ],
-  "updatedAt": "2026-08-08T10:00:26.313Z"
+  "updatedAt": "2026-08-23T21:55:16.725Z"
 }

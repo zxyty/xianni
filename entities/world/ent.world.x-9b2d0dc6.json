@@ -2,10 +2,18 @@
   "id": "ent.world.x-9b2d0dc6",
   "type": "world",
   "name": "暗月星",
-  "aliases": [],
+  "aliases": [
+    "暗月",
+    "七级修真星暗月",
+    "Anyue Star",
+    "Dark Moon Star"
+  ],
   "summary": "联盟星域内星球，孙泰的故乡，其上有天山，山下有村庄；孙泰托王林将骨灰送回此地。",
   "attributes": {
-    "所属星域": "联盟星域"
+    "所属星域": "联盟星域",
+    "层次": "七级修真星",
+    "灵气浓度": "极为充足",
+    "特点": "被无尽森林包围、三颗小型修真星作副星环绕、凡人村落零散、修真门派错落、远离多日前战场未受波及"
   },
   "observations": {
     "所属星域": [
@@ -13,6 +21,42 @@
         "value": "联盟星域",
         "docId": "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
         "seq": 626
+      }
+    ],
+    "层次": [
+      {
+        "value": "七级修真星",
+        "docId": "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
+        "seq": 876
+      }
+    ],
+    "灵气浓度": [
+      {
+        "value": "极为充足",
+        "docId": "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
+        "seq": 876
+      }
+    ],
+    "特点": [
+      {
+        "value": "被无尽森林包围",
+        "docId": "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
+        "seq": 876
+      },
+      {
+        "value": "三颗小型修真星作副星环绕",
+        "docId": "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
+        "seq": 876
+      },
+      {
+        "value": "凡人村落零散、修真门派错落",
+        "docId": "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
+        "seq": 876
+      },
+      {
+        "value": "远离多日前战场未受波及",
+        "docId": "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
+        "seq": 876
       }
     ]
   },
@@ -23,12 +67,31 @@
       "docId": "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
       "dated": false,
       "seq": 626
+    },
+    "层次": {
+      "asOf": null,
+      "docId": "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
+      "dated": false,
+      "seq": 876
+    },
+    "灵气浓度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
+      "dated": false,
+      "seq": 876
+    },
+    "特点": {
+      "asOf": null,
+      "docId": "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
+      "dated": false,
+      "seq": 876
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch670-sun-tai-reunion-cause-and-effect"
+    "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
+    "plot.xianni-ch946-muzhi-xinghuacun-anyue-star"
   ],
-  "updatedAt": "2026-08-22T22:42:44.929Z"
+  "updatedAt": "2026-08-23T21:55:16.722Z"
 }
