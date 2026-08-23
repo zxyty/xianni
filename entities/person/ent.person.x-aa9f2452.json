@@ -21,9 +21,11 @@
     "外貌": "约三十余岁，面白无须略英俊，凤目阴柔，身穿紫金大袍、面色阴沉、相貌三十余岁，面白无须略有英俊，凤目露阴柔之相，身穿紫金大袍",
     "标志特征": "脚踏通体紫色木剑，掐诀化紫色雷光",
     "本命法宝": "木剑",
-    "身份": "战家后辈、雷仙殿使者（已接召书）、雷仙殿使者",
+    "身份": "战家后辈、雷仙殿使者（已接召书）、雷仙殿使者、十余阴虚修士的领队",
     "称号": "南域三杰",
-    "出身地": "罗天南域"
+    "出身地": "罗天南域",
+    "存殁": "存活",
+    "阵营": "倾向王林一方"
   },
   "observations": {
     "性别": [
@@ -120,6 +122,11 @@
         "value": "雷仙殿使者",
         "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
         "seq": 736
+      },
+      {
+        "value": "十余阴虚修士的领队",
+        "docId": "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
+        "seq": 743
       }
     ],
     "称号": [
@@ -134,6 +141,20 @@
         "value": "罗天南域",
         "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
         "seq": 736
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
+        "seq": 743
+      }
+    ],
+    "阵营": [
+      {
+        "value": "倾向王林一方",
+        "docId": "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
+        "seq": 743
       }
     ]
   },
@@ -193,6 +214,18 @@
       "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
       "dated": false,
       "seq": 736
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
+      "dated": false,
+      "seq": 743
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
+      "dated": false,
+      "seq": 743
     }
   },
   "contested": false,
@@ -200,7 +233,8 @@
   "docs": [
     "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
     "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
-    "plot.xianni-740-742-immortal-emperor-technique-huffeng"
+    "plot.xianni-740-742-immortal-emperor-technique-huffeng",
+    "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm"
   ],
-  "updatedAt": "2026-08-23T08:20:03.283Z"
+  "updatedAt": "2026-08-23T09:06:12.751Z"
 }

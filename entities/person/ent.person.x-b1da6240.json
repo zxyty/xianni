@@ -8,14 +8,18 @@
     "自恋老者",
     "那神秘的老者",
     "取走血祖元神的老者",
-    "那神秘老者"
+    "那神秘老者",
+    "要走雷兽的神秘老者",
+    "借体老者"
   ],
   "summary": "深不可测的强者，一次携人瞬移十万里，自诩化神以上（疑婴变期之上）；自恋成性，索要王林雕刻的百个木雕为报，带王林踢馆白云宗以感悟意境。",
   "attributes": {
-    "性格": "自恋、好吹嘘、深藏不露",
+    "性格": "老气横秋、算无遗策却自承险些失算",
     "元神强度": "携人瞬移十万里，远超元婴后期",
-    "外貌": "老者",
-    "标志特征": "力量残留于王林体内，与血祖血身相抗并融合"
+    "外貌": "苍老老者（元神形貌与雷兽处所见一致）",
+    "标志特征": "力量残留于王林体内，与血祖血身相抗并融合",
+    "神识": "可切断他人对肉身的联系并另凝元神操控",
+    "存殁": "存活"
   },
   "observations": {
     "性格": [
@@ -23,6 +27,11 @@
         "value": "自恋、好吹嘘、深藏不露",
         "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
         "seq": 239
+      },
+      {
+        "value": "老气横秋、算无遗策却自承险些失算",
+        "docId": "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
+        "seq": 743
       }
     ],
     "元神强度": [
@@ -38,6 +47,11 @@
         "value": "老者",
         "docId": "plot.xianni-ch764-wanglin-benzun-ancient-god-body-blood-star",
         "seq": 721
+      },
+      {
+        "value": "苍老老者（元神形貌与雷兽处所见一致）",
+        "docId": "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
+        "seq": 743
       }
     ],
     "标志特征": [
@@ -46,15 +60,29 @@
         "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
         "seq": 725
       }
+    ],
+    "神识": [
+      {
+        "value": "可切断他人对肉身的联系并另凝元神操控",
+        "docId": "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
+        "seq": 743
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
+        "seq": 743
+      }
     ]
   },
   "firstSeq": 239,
   "attrProvenance": {
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
+      "docId": "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
       "dated": false,
-      "seq": 239
+      "seq": 743
     },
     "元神强度": {
       "asOf": null,
@@ -65,15 +93,27 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch764-wanglin-benzun-ancient-god-body-blood-star",
+      "docId": "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
       "dated": false,
-      "seq": 721
+      "seq": 743
     },
     "标志特征": {
       "asOf": null,
       "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
       "dated": false,
       "seq": 725
+    },
+    "神识": {
+      "asOf": null,
+      "docId": "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
+      "dated": false,
+      "seq": 743
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
+      "dated": false,
+      "seq": 743
     }
   },
   "contested": false,
@@ -81,7 +121,8 @@
   "docs": [
     "plot.xianni-ch239-243-huafan-jingdu-mudiao",
     "plot.xianni-ch764-wanglin-benzun-ancient-god-body-blood-star",
-    "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes"
+    "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+    "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm"
   ],
-  "updatedAt": "2026-08-23T06:27:17.885Z"
+  "updatedAt": "2026-08-23T09:06:12.744Z"
 }
