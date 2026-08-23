@@ -243,3 +243,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T03:48:13.018Z** `ingest` plot.xianni-ch732-daluo-perfection-and-xu-liguo-antics — 第732章 大圆满与许立国的恶趣——王林收伏许立国、群兽相聚与三式神通推演 · kind=plot asOf=2026-08-23 entities=41 relations=65 src=00693-00696.p1.md
 - **2026-08-23T03:51:11.399Z** `ingest` plot.xianni-733-qiang-ding-wanglin-wending-yuanman-qiang-leiding — 第733章 抢鼎：王林问鼎大圆满，圣坛星强夺雷鼎 · kind=plot asOf=2026-08-23 entities=29 relations=37 src=00693-00696.p2.md
 - **2026-08-23T03:54:02.796Z** `ingest` plot.xianni-ch734-shenton-exchange-third-eye — 第734章 占了大便宜：三大神通换第三眼，仙雷临身却收鼎 · kind=plot asOf=2026-08-23 entities=26 relations=33 src=00693-00696.p3.md
+- **2026-08-23T03:55:40.251Z** `ingest` plot.xianni-ch735-wanglin-devours-immortal-thunder-leiding-destroyed — 第735章 前无古人：王林吞噬仙雷、雷鼎崩碎入雷之仙界 · kind=plot asOf=2026-08-23 entities=10 relations=12 src=00693-00696.p4.md
