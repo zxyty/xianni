@@ -30,7 +30,9 @@
     "红袍中年男子",
     "净涅中期大神通修士",
     "姚家血祖",
-    "血色人影"
+    "血色人影",
+    "一代血祖",
+    "老夫（血祖自称）"
   ],
   "summary": "天运星范围内出名的老怪，修为通天，七次挑战天运子全败但修为日增，独占血星圈养土著纳血修炼魔功，只有一女姚惜雪。",
   "attributes": {
@@ -39,15 +41,15 @@
     "身份": "独占一星的老怪、姚惜雪之父、血祖、血魂丹炼制者、阵法大家、炼符者、赠予姚惜雪血玉封印者、留下传送阵的前辈、大神通修士、大神通老怪、血奴炼制者、紫芯之主、血星一系首领、姚洛东之子、净涅修士、姚家子孙",
     "标志特征": "血功、浓浓血腥之气、独门血魂丹炼制者、血魂丹独门之主、创隐匿血阵、从妖帝口中获知洞府秘密、储物袋血光中隐现的紫线神识烙印、数万年来因故无法进入妖灵之地、神识可化虚影、炼化血奴、血色长虹遁光、现身伴浓郁血气，先以红色虚影凝实、血术、双目内红芒与可焚天地的红色火焰",
     "阵营": "王林之敌",
-    "元神强度": "元神分散于无数血滴，处迷失渐苏醒状态",
-    "性格": "深谋远虑、善算计、护女心切，可为女儿不顾一切、面沉如水、阴沉、多谋、为女儿不惜崩灭一界碎片，不动容于旁人生死、平静不温不火，唯女儿是其破绽、冷静深沉、心机极深、隐忍、平静无喜怒下压抑怒火",
+    "元神强度": "远超王林、元神分散于无数血滴，处迷失渐苏醒状态、仅余一半元神，且再度陷入元神迷失、需重新等待血滴融合",
+    "性格": "深谋远虑、善算计、护女心切，可为女儿不顾一切、面沉如水、阴沉、多谋、为女儿不惜崩灭一界碎片，不动容于旁人生死、平静不温不火，唯女儿是其破绽、冷静深沉、心机极深、隐忍、平静无喜怒下压抑怒火、已失理智、疯狂咆哮",
     "外貌": "一身赤袍、红发红眉、一身红袍、相貌英俊，约四十岁左右、红袍、红发、红眉的中年男子、血红色身影，全身血光、红发红眉、一身红袍的英俊中年男子、无数细小血滴，蓝光闪烁、无实质，一片暗红血色",
     "出身地": "罗天星域姚家",
     "道号": "血祖",
     "小阶段": "净涅期、已踏第二步神通、净涅中期、窥涅后期",
     "寿元": "修道数万年",
     "神识": "神识一扫可辨女儿气息、可透视传送阵内气机",
-    "存殁": "死亡、存活、存活（重伤逃遁）",
+    "存殁": "死亡、存活、存活（重伤逃遁）、存活（虚弱至极）",
     "死因": "储物空间在一千多禁制齐开下崩溃，传送阵被仙卫傀儡自爆摧毁，逃生失败，被黑色火焰焚身而亡",
     "结局": "护女复活后与储物空间一同湮灭，并捏碎最后三粒血魂丹"
   },
@@ -255,6 +257,12 @@
         "docId": "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
         "seq": 721,
         "note": "本片段重伤后"
+      },
+      {
+        "value": "仅余一半元神，且再度陷入元神迷失、需重新等待血滴融合",
+        "docId": "plot.xianni-ch764-wanglin-benzun-ancient-god-body-blood-star",
+        "seq": 721,
+        "note": "被神秘老者取走并一拍所致"
       }
     ],
     "性格": [
@@ -298,6 +306,12 @@
         "value": "隐忍、平静无喜怒下压抑怒火",
         "docId": "plot.xianni-ch763-blood-ancestor-split-soul-wanglin-yinxu-breakthrough",
         "seq": 721
+      },
+      {
+        "value": "已失理智、疯狂咆哮",
+        "docId": "plot.xianni-ch764-wanglin-benzun-ancient-god-body-blood-star",
+        "seq": 721,
+        "note": "连番挫折后"
       }
     ],
     "外貌": [
@@ -406,6 +420,11 @@
         "value": "存活（重伤逃遁）",
         "docId": "plot.xianni-ch763-blood-ancestor-split-soul-wanglin-yinxu-breakthrough",
         "seq": 721
+      },
+      {
+        "value": "存活（虚弱至极）",
+        "docId": "plot.xianni-ch764-wanglin-benzun-ancient-god-body-blood-star",
+        "seq": 721
       }
     ],
     "死因": [
@@ -458,10 +477,10 @@
     },
     "元神强度": {
       "asOf": null,
-      "docId": "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
+      "docId": "plot.xianni-ch567-second-question-yao-xixue",
       "dated": false,
-      "seq": 721,
-      "note": "本片段重伤后"
+      "seq": 537,
+      "note": "王林自述"
     },
     "性格": {
       "asOf": null,
@@ -548,7 +567,8 @@
     "plot.xianni-ch759-storage-space-collapse-ready",
     "plot.xianni-ch760-blood-ancestor-arrives-immortal-guard-body-bait",
     "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
-    "plot.xianni-ch763-blood-ancestor-split-soul-wanglin-yinxu-breakthrough"
+    "plot.xianni-ch763-blood-ancestor-split-soul-wanglin-yinxu-breakthrough",
+    "plot.xianni-ch764-wanglin-benzun-ancient-god-body-blood-star"
   ],
-  "updatedAt": "2026-08-23T06:10:52.597Z"
+  "updatedAt": "2026-08-23T06:13:21.002Z"
 }
