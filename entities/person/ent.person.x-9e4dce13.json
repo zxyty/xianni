@@ -9,7 +9,8 @@
   "summary": "姚家强者，被血祖引为倚仗，老者称即便其亲来也不惧。",
   "attributes": {
     "身份": "姚家老祖",
-    "称号": "血神子"
+    "称号": "血神子",
+    "阵营": "姚家"
   },
   "observations": {
     "身份": [
@@ -30,6 +31,13 @@
         "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
         "seq": 729
       }
+    ],
+    "阵营": [
+      {
+        "value": "姚家",
+        "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
+        "seq": 731
+      }
     ]
   },
   "firstSeq": 721,
@@ -45,13 +53,20 @@
       "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
       "dated": false,
       "seq": 729
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
+      "dated": false,
+      "seq": 731
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch763-blood-ancestor-split-soul-wanglin-yinxu-breakthrough",
-    "plot.xianni-769-tianjie-slay-xuezu-body-yangshi"
+    "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
+    "plot.xianni-ch774-zimu-daoku-beast-bone-artifact"
   ],
-  "updatedAt": "2026-08-23T07:18:46.351Z"
+  "updatedAt": "2026-08-23T07:38:13.546Z"
 }

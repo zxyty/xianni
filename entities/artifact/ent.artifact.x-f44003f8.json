@@ -4,13 +4,19 @@
   "name": "李元的仙剑",
   "aliases": [
     "仙人储物空间仙剑",
-    "九把仙剑"
+    "九把仙剑",
+    "仙人储物空间的飞剑",
+    "八把成圈的仙剑",
+    "单独刺地的飞剑",
+    "九柄仙剑"
   ],
   "summary": "李元得自仙人储物空间的仙剑，共九把，威力极大，其中一把已被霞妹夺走。",
   "attributes": {
-    "能力": "威力极大",
-    "来历": "仙人储物空间、李元所有",
-    "持有者": "霞妹、夺李元仙剑的女修"
+    "能力": "散出剑气，剑气一分为八导引元神分化",
+    "来历": "仙人储物空间、李元所有、王林与李元在仙人的储物空间内发现",
+    "持有者": "霞妹、夺李元仙剑的女修、王林、李元",
+    "禁制": "内含无始无终的剑气禁制阵法",
+    "外形": "飞剑"
   },
   "observations": {
     "能力": [
@@ -18,6 +24,11 @@
         "value": "威力极大",
         "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
         "seq": 729
+      },
+      {
+        "value": "散出剑气，剑气一分为八导引元神分化",
+        "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
+        "seq": 731
       }
     ],
     "来历": [
@@ -30,6 +41,11 @@
         "value": "李元所有",
         "docId": "plot.xianni-773-shisan-tian-wang-lin-slaughters-yao-family-pursuers",
         "seq": 729
+      },
+      {
+        "value": "王林与李元在仙人的储物空间内发现",
+        "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
+        "seq": 731
       }
     ],
     "持有者": [
@@ -44,6 +60,30 @@
         "docId": "plot.xianni-773-shisan-tian-wang-lin-slaughters-yao-family-pursuers",
         "seq": 729,
         "note": "本章被夺，女修死后掉落"
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
+        "seq": 731
+      },
+      {
+        "value": "李元",
+        "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
+        "seq": 731
+      }
+    ],
+    "禁制": [
+      {
+        "value": "内含无始无终的剑气禁制阵法",
+        "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
+        "seq": 731
+      }
+    ],
+    "外形": [
+      {
+        "value": "飞剑",
+        "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
+        "seq": 731
       }
     ]
   },
@@ -51,9 +91,9 @@
   "attrProvenance": {
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
+      "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
       "dated": false,
-      "seq": 729
+      "seq": 731
     },
     "来历": {
       "asOf": null,
@@ -67,13 +107,26 @@
       "dated": false,
       "seq": 729,
       "note": "夺走其中一把，其余八把仍在李元身上"
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
+      "dated": false,
+      "seq": 731
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
+      "dated": false,
+      "seq": 731
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
-    "plot.xianni-773-shisan-tian-wang-lin-slaughters-yao-family-pursuers"
+    "plot.xianni-773-shisan-tian-wang-lin-slaughters-yao-family-pursuers",
+    "plot.xianni-ch774-zimu-daoku-beast-bone-artifact"
   ],
-  "updatedAt": "2026-08-23T07:30:42.357Z"
+  "updatedAt": "2026-08-23T07:38:13.574Z"
 }

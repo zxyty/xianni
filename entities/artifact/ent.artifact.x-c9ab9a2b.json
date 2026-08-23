@@ -7,9 +7,9 @@
   ],
   "summary": "可破解禁法隐匿的古宝，在罗天星域只有传承自仙界的家族才拥有，追杀李元者持之令其无法藏身。",
   "attributes": {
-    "能力": "破解禁法/隐匿、破除禁制",
-    "来历": "传承自仙界的家族所有",
-    "持有者": "追杀李元的三人",
+    "能力": "破解禁法/隐匿、破除禁制、可破绝大部分禁制",
+    "来历": "李元储物袋中所藏，流传至今已然不多",
+    "持有者": "王林",
     "外形": "古镜"
   },
   "observations": {
@@ -23,6 +23,11 @@
         "value": "破除禁制",
         "docId": "plot.xianni-0729-0730-chapter769-confidence-wang-lin-saves-li-yuan",
         "seq": 729
+      },
+      {
+        "value": "可破绝大部分禁制",
+        "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
+        "seq": 731
       }
     ],
     "来历": [
@@ -30,6 +35,11 @@
         "value": "传承自仙界的家族所有",
         "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
         "seq": 729
+      },
+      {
+        "value": "李元储物袋中所藏，流传至今已然不多",
+        "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
+        "seq": 731
       }
     ],
     "持有者": [
@@ -37,6 +47,12 @@
         "value": "追杀李元的三人",
         "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
         "seq": 729
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
+        "seq": 731,
+        "note": "本章由李元赠出，原属李元储物袋"
       }
     ],
     "外形": [
@@ -57,15 +73,16 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
+      "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
       "dated": false,
-      "seq": 729
+      "seq": 731
     },
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
+      "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
       "dated": false,
-      "seq": 729
+      "seq": 731,
+      "note": "本章由李元赠出，原属李元储物袋"
     },
     "外形": {
       "asOf": null,
@@ -78,7 +95,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
-    "plot.xianni-0729-0730-chapter769-confidence-wang-lin-saves-li-yuan"
+    "plot.xianni-0729-0730-chapter769-confidence-wang-lin-saves-li-yuan",
+    "plot.xianni-ch774-zimu-daoku-beast-bone-artifact"
   ],
-  "updatedAt": "2026-08-23T07:28:28.032Z"
+  "updatedAt": "2026-08-23T07:38:13.574Z"
 }

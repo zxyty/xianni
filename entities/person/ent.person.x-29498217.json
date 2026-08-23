@@ -5,14 +5,16 @@
   "aliases": [
     "刚踏入阴虚两年的老者",
     "第三眼传承家族老者",
-    "罗天星域家族老者"
+    "罗天星域家族老者",
+    "那阴虚老者",
+    "被王林所杀的阴虚老者"
   ],
   "summary": "罗天星域某家族之人，踏入阴虚境仅两年，是家族得到「第三眼」神通以来第一个练成者；以第三眼与王林交换寂灭指、化魔指、杀戮仙诀，并在玉简中故意留错。",
   "attributes": {
-    "小阶段": "阴虚初期（踏入阴虚两年）",
+    "小阶段": "阴虚",
     "身份": "罗天星域某家族修士，家族第三眼神通第一位练成者",
     "性格": "谨慎、爱面子（口称鸡肋实则心动）、留有暗手",
-    "存殁": "存活"
+    "存殁": "死亡（元神被王林取用）"
   },
   "observations": {
     "小阶段": [
@@ -21,6 +23,11 @@
         "docId": "plot.xianni-ch734-shenton-exchange-third-eye",
         "seq": 693,
         "note": "自述"
+      },
+      {
+        "value": "阴虚",
+        "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
+        "seq": 731
       }
     ],
     "身份": [
@@ -42,6 +49,11 @@
         "value": "存活",
         "docId": "plot.xianni-ch734-shenton-exchange-third-eye",
         "seq": 693
+      },
+      {
+        "value": "死亡（元神被王林取用）",
+        "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
+        "seq": 731
       }
     ]
   },
@@ -49,10 +61,9 @@
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch734-shenton-exchange-third-eye",
+      "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
       "dated": false,
-      "seq": 693,
-      "note": "自述"
+      "seq": 731
     },
     "身份": {
       "asOf": null,
@@ -68,15 +79,16 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch734-shenton-exchange-third-eye",
+      "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
       "dated": false,
-      "seq": 693
+      "seq": 731
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch734-shenton-exchange-third-eye"
+    "plot.xianni-ch734-shenton-exchange-third-eye",
+    "plot.xianni-ch774-zimu-daoku-beast-bone-artifact"
   ],
-  "updatedAt": "2026-08-23T03:54:02.623Z"
+  "updatedAt": "2026-08-23T07:38:13.550Z"
 }

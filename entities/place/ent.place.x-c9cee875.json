@@ -13,7 +13,8 @@
     "所属势力": "血祖",
     "规模": "两条山脉、三处山谷",
     "危险度": "高（空间裂缝密布、禁制阴损）、极高、完全崩溃、万物湮灭",
-    "守护": "一千多个禁制"
+    "守护": "一千多个禁制",
+    "特产": "九把仙剑、子母道枯兽骨"
   },
   "observations": {
     "类型": [
@@ -77,6 +78,18 @@
         "docId": "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
         "seq": 721
       }
+    ],
+    "特产": [
+      {
+        "value": "九把仙剑",
+        "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
+        "seq": 731
+      },
+      {
+        "value": "子母道枯兽骨",
+        "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
+        "seq": 731
+      }
     ]
   },
   "firstSeq": 716,
@@ -110,6 +123,12 @@
       "docId": "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
       "dated": false,
       "seq": 721
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
+      "dated": false,
+      "seq": 731
     }
   },
   "contested": false,
@@ -117,7 +136,8 @@
   "docs": [
     "plot.xianni-c757-beast-bones-storage-space-valleys",
     "plot.xianni-ch759-storage-space-collapse-ready",
-    "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse"
+    "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
+    "plot.xianni-ch774-zimu-daoku-beast-bone-artifact"
   ],
-  "updatedAt": "2026-08-23T06:08:09.879Z"
+  "updatedAt": "2026-08-23T07:38:13.561Z"
 }
