@@ -8,19 +8,22 @@
     "仙选族符士塔山",
     "大汉塔山",
     "祭坛守护者塔山",
-    "仙选族塔山"
+    "仙选族塔山",
+    "仙卫塔山",
+    "两丈大汉"
   ],
   "summary": "仙选族十三叶符士，肉身强横、炼化出仙赐灵甲，公开否认仙人存在并向王林出手。",
   "attributes": {
     "性别": "男",
     "种族": "仙选族",
-    "身份": "符士（非符咒师，以肉身强大见长）、仙选族族人、这一代的祭坛守护者、仙选族族人（修为高深者）、带王林了解此地情况者",
-    "标志特征": "眉心十三叶植物；体表符文印记",
-    "外貌": "浑身血雾、双目血丝、血泪、双膝碎裂",
-    "性格": "桀骜不信仙、战意极盛、果断、隐忍、执着求真、刚烈、不屈",
+    "身份": "符士（非符咒师，以肉身强大见长）、仙选族族人、这一代的祭坛守护者、仙选族族人（修为高深者）、带王林了解此地情况者、仙选族英雄、第一个反抗奴符者、仙卫",
+    "标志特征": "眉心极为复杂的符文，可幻化融入拳头产生法术波动",
+    "外貌": "面如死灰、双目黯淡、死气缠身、大半骨头粉碎",
+    "性格": "桀骜不信仙、战意极盛、果断、隐忍、执着求真、刚烈、不屈、保留部分本能，对玄阴鼎有无数年的恨意",
     "阵营": "仙选族（不信仙派）",
-    "存殁": "在世",
-    "元神强度": "受伤"
+    "存殁": "濒死",
+    "元神强度": "元神已崩溃融入肉身",
+    "死因": "反抗奴符致全身符文印记反噬"
   },
   "observations": {
     "性别": [
@@ -63,6 +66,16 @@
         "value": "带王林了解此地情况者",
         "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
         "seq": 761
+      },
+      {
+        "value": "仙选族英雄、第一个反抗奴符者",
+        "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
+        "seq": 764
+      },
+      {
+        "value": "仙卫",
+        "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
+        "seq": 764
       }
     ],
     "标志特征": [
@@ -70,6 +83,11 @@
         "value": "眉心十三叶植物；体表符文印记",
         "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
         "seq": 753
+      },
+      {
+        "value": "眉心极为复杂的符文，可幻化融入拳头产生法术波动",
+        "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
+        "seq": 764
       }
     ],
     "外貌": [
@@ -88,6 +106,11 @@
         "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
         "seq": 761,
         "note": "本片段受奴符重创"
+      },
+      {
+        "value": "面如死灰、双目黯淡、死气缠身、大半骨头粉碎",
+        "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
+        "seq": 764
       }
     ],
     "性格": [
@@ -110,6 +133,11 @@
         "value": "不屈",
         "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
         "seq": 761
+      },
+      {
+        "value": "保留部分本能，对玄阴鼎有无数年的恨意",
+        "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
+        "seq": 764
       }
     ],
     "阵营": [
@@ -136,6 +164,12 @@
         "value": "在世",
         "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
         "seq": 761
+      },
+      {
+        "value": "濒死",
+        "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
+        "seq": 764,
+        "note": "第815章被王林带走施展傀儡神通，结果三月后揭晓"
       }
     ],
     "元神强度": [
@@ -144,6 +178,20 @@
         "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
         "seq": 758,
         "note": "被玄阴鼎灵尖啸震伤，面无血色、双目黯淡"
+      },
+      {
+        "value": "元神已崩溃融入肉身",
+        "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
+        "seq": 764,
+        "note": "成为仙卫之故"
+      }
+    ],
+    "死因": [
+      {
+        "value": "反抗奴符致全身符文印记反噬",
+        "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
+        "seq": 764,
+        "note": "坚持两月，第814章到弥留之际"
       }
     ]
   },
@@ -169,16 +217,15 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
+      "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
       "dated": false,
-      "seq": 753
+      "seq": 764
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+      "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
       "dated": false,
-      "seq": 761,
-      "note": "本片段受奴符重创"
+      "seq": 764
     },
     "性格": {
       "asOf": null,
@@ -194,16 +241,24 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+      "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
       "dated": false,
-      "seq": 761
+      "seq": 764,
+      "note": "第815章被王林带走施展傀儡神通，结果三月后揭晓"
     },
     "元神强度": {
       "asOf": null,
-      "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+      "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
       "dated": false,
-      "seq": 758,
-      "note": "被玄阴鼎灵尖啸震伤，面无血色、双目黯淡"
+      "seq": 764,
+      "note": "成为仙卫之故"
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
+      "dated": false,
+      "seq": 764,
+      "note": "坚持两月，第814章到弥留之际"
     }
   },
   "contested": false,
@@ -211,7 +266,8 @@
   "docs": [
     "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
     "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
-    "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin"
+    "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+    "plot.xianni-ch764-765-tashan-xianwei-cangpinge"
   ],
-  "updatedAt": "2026-08-23T10:43:53.133Z"
+  "updatedAt": "2026-08-23T10:56:47.382Z"
 }

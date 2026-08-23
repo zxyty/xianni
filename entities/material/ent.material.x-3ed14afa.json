@@ -12,9 +12,10 @@
   ],
   "summary": "开启废弃古传送阵所必需之物，仙玉无法替代。",
   "attributes": {
-    "类型": "通行凭证",
+    "类型": "重宝/异石",
     "用途": "供罗天星域修士进入联盟星域",
-    "产地": "罗天星域"
+    "产地": "罗天星域",
+    "稀有度": "重宝"
   },
   "observations": {
     "类型": [
@@ -42,6 +43,11 @@
         "value": "通行凭证",
         "docId": "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
         "seq": 746
+      },
+      {
+        "value": "重宝/异石",
+        "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
+        "seq": 764
       }
     ],
     "用途": [
@@ -82,15 +88,23 @@
         "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
         "seq": 701
       }
+    ],
+    "稀有度": [
+      {
+        "value": "重宝",
+        "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
+        "seq": 764,
+        "note": "雷仙殿使者元神以之换命"
+      }
     ]
   },
   "firstSeq": 618,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
+      "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
       "dated": false,
-      "seq": 746
+      "seq": 764
     },
     "用途": {
       "asOf": null,
@@ -103,6 +117,13 @@
       "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
       "dated": false,
       "seq": 701
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
+      "dated": false,
+      "seq": 764,
+      "note": "雷仙殿使者元神以之换命"
     }
   },
   "contested": false,
@@ -112,7 +133,8 @@
     "plot.xianni-681-wang-ping",
     "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
     "plot.xianni-ch760-blood-ancestor-arrives-immortal-guard-body-bait",
-    "plot.xianni-746-750-mysterious-elder-lures-evil-youth"
+    "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
+    "plot.xianni-ch764-765-tashan-xianwei-cangpinge"
   ],
-  "updatedAt": "2026-08-23T09:25:34.755Z"
+  "updatedAt": "2026-08-23T10:56:47.341Z"
 }

@@ -3,14 +3,17 @@
   "type": "person",
   "name": "仙选族老者",
   "aliases": [
-    "塔山的先祖"
+    "塔山的先祖",
+    "仙选族的老者",
+    "塔山之族老者"
   ],
   "summary": "仙选族年长先祖，以指尖鲜血画符开启封印大门，恭敬引王林至玄阴鼎所在；看出塔山心思后未跟入，盘膝在门外等候。",
   "attributes": {
-    "身份": "仙选族先祖/长辈",
+    "身份": "仙选族族中长者",
     "种族": "仙选族",
-    "外貌": "老者",
-    "存殁": "存活"
+    "外貌": "一脸憔悴、极为苍老，两月如过数年",
+    "存殁": "存活",
+    "标志特征": "眉心植物闪烁、可化印记开启祭坛大门"
   },
   "observations": {
     "身份": [
@@ -18,6 +21,11 @@
         "value": "仙选族先祖/长辈",
         "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
         "seq": 758
+      },
+      {
+        "value": "仙选族族中长者",
+        "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
+        "seq": 764
       }
     ],
     "种族": [
@@ -32,6 +40,11 @@
         "value": "老者",
         "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
         "seq": 758
+      },
+      {
+        "value": "一脸憔悴、极为苍老，两月如过数年",
+        "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
+        "seq": 764
       }
     ],
     "存殁": [
@@ -40,15 +53,22 @@
         "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
         "seq": 758
       }
+    ],
+    "标志特征": [
+      {
+        "value": "眉心植物闪烁、可化印记开启祭坛大门",
+        "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
+        "seq": 764
+      }
     ]
   },
   "firstSeq": 758,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+      "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
       "dated": false,
-      "seq": 758
+      "seq": 764
     },
     "种族": {
       "asOf": null,
@@ -58,21 +78,28 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+      "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
       "dated": false,
-      "seq": 758
+      "seq": 764
     },
     "存殁": {
       "asOf": null,
       "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
       "dated": false,
       "seq": 758
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
+      "dated": false,
+      "seq": 764
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid"
+    "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+    "plot.xianni-ch764-765-tashan-xianwei-cangpinge"
   ],
-  "updatedAt": "2026-08-23T10:25:07.231Z"
+  "updatedAt": "2026-08-23T10:56:47.356Z"
 }

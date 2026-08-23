@@ -3,11 +3,12 @@
   "type": "beast",
   "name": "幽冥兽",
   "aliases": [
-    "幽冥兽体内之地"
+    "幽冥兽体内之地",
+    "幽冥兽体"
   ],
   "summary": "仙选族世代栖居其体内的巨兽，其体内自成大陆。",
   "attributes": {
-    "外形": "体内可容大陆的巨兽",
+    "外形": "体内自成一片漆黑虚无空间",
     "能力": "体内含无尽黑色虚无空间"
   },
   "observations": {
@@ -16,6 +17,11 @@
         "value": "体内可容大陆的巨兽",
         "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
         "seq": 753
+      },
+      {
+        "value": "体内自成一片漆黑虚无空间",
+        "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
+        "seq": 764
       }
     ],
     "能力": [
@@ -30,9 +36,9 @@
   "attrProvenance": {
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
+      "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
       "dated": false,
-      "seq": 753
+      "seq": 764
     },
     "能力": {
       "asOf": null,
@@ -45,7 +51,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
-    "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin"
+    "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+    "plot.xianni-ch764-765-tashan-xianwei-cangpinge"
   ],
-  "updatedAt": "2026-08-23T10:43:53.154Z"
+  "updatedAt": "2026-08-23T10:56:47.396Z"
 }

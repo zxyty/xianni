@@ -283,3 +283,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T10:07:25.425Z** `ingest` plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name — 仙逆 第753-757章：气势逼退雷仙殿使者、破阵传送脱身，「许木」之名传开；雷之仙界冰封 · kind=plot asOf=2026-08-23 entities=77 relations=115 src=00753-00757.md
 - **2026-08-23T10:25:07.504Z** `ingest` plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid — 仙逆 第806章 玄阴鼎：王林斩灭人形雾兽，仙选族先祖引路赴玄阴鼎 · kind=plot asOf=2026-08-23 entities=59 relations=109 src=00758-00760.md
 - **2026-08-23T10:43:53.445Z** `ingest` plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin — 第761-763章 射神车解封·崩诀七次降服魂兽·青袍男子降临 · kind=plot asOf=2026-08-23 entities=63 relations=109 src=00761-00763.md
+- **2026-08-23T10:56:47.599Z** `ingest` plot.xianni-ch764-765-tashan-xianwei-cangpinge — 第764-765章 塔山、仙卫：清点雷之仙界收获与仙选族反抗 · kind=plot asOf=2026-08-23 entities=51 relations=87 src=00764-00765.md
