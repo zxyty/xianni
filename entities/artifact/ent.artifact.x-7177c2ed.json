@@ -8,14 +8,16 @@
     "玄阴鼎（仙选族守护之物）",
     "玄阴鼎之地",
     "十丈巨鼎",
-    "玄阴大鼎"
+    "玄阴大鼎",
+    "玄阴鼎之灵"
   ],
   "summary": "逍遥仙王命仙遗族世代守护之物，位于仙遗族禁地；自三万年前起每隔百年开启一次，喷出化作雾兽的黑雾。",
   "attributes": {
-    "能力": "每百年开启一次并喷出大片黑雾，黑雾化作雾兽、内含雾兽、每隔一段时间喷出雾气，雾气化作各种样子屠杀仙选族人、鼎内有女音尖锐厉啸，肉耳不可闻、唯神识可察，蕴含浓郁杀机",
-    "来历": "逍遥仙王遗留，命仙遗族世代守护、仙王仙谕指定由仙选族守护、当年逍遥仙王留下，命仙选族世代守护，直至其再次到来",
-    "禁制": "鼎口黑气被奇异力量封印无法离开；四周九个人骨头骨眉心刻符文、乌光闪烁形如阵法",
-    "外形": "十丈大小的巨鼎，鼎面刻无数符文印记"
+    "能力": "每百年开启一次并喷出大片黑雾，黑雾化作雾兽、内含雾兽、每隔一段时间喷出雾气，雾气化作各种样子屠杀仙选族人、鼎内有女音尖锐厉啸，肉耳不可闻、唯神识可察，蕴含浓郁杀机、内含传送阵，可传送来人至此界、守护祭坛传送阵",
+    "来历": "逍遥仙王遗留，命仙遗族世代守护、仙王仙谕指定由仙选族守护、当年逍遥仙王留下，命仙选族世代守护，直至其再次到来、仙选族世代守护",
+    "禁制": "与祭坛大门、雾兽相关",
+    "外形": "十丈大小的巨鼎，鼎面刻无数符文印记",
+    "器灵": "玄阴鼎之灵"
   },
   "observations": {
     "能力": [
@@ -38,6 +40,16 @@
         "value": "鼎内有女音尖锐厉啸，肉耳不可闻、唯神识可察，蕴含浓郁杀机",
         "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
         "seq": 758
+      },
+      {
+        "value": "内含传送阵，可传送来人至此界",
+        "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+        "seq": 761
+      },
+      {
+        "value": "守护祭坛传送阵",
+        "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+        "seq": 761
       }
     ],
     "来历": [
@@ -55,6 +67,11 @@
         "value": "当年逍遥仙王留下，命仙选族世代守护，直至其再次到来",
         "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
         "seq": 758
+      },
+      {
+        "value": "仙选族世代守护",
+        "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+        "seq": 761
       }
     ],
     "禁制": [
@@ -67,6 +84,12 @@
         "value": "鼎口黑气被奇异力量封印无法离开；四周九个人骨头骨眉心刻符文、乌光闪烁形如阵法",
         "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
         "seq": 758
+      },
+      {
+        "value": "与祭坛大门、雾兽相关",
+        "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+        "seq": 761,
+        "note": "本片段未明言机制"
       }
     ],
     "外形": [
@@ -79,6 +102,13 @@
         "value": "十丈大小的巨鼎，鼎面刻无数符文印记",
         "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
         "seq": 758
+      }
+    ],
+    "器灵": [
+      {
+        "value": "玄阴鼎之灵",
+        "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+        "seq": 761
       }
     ]
   },
@@ -98,22 +128,30 @@
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+      "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
       "dated": false,
-      "seq": 758
+      "seq": 761,
+      "note": "本片段未明言机制"
     },
     "外形": {
       "asOf": null,
       "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
       "dated": false,
       "seq": 758
+    },
+    "器灵": {
+      "asOf": null,
+      "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+      "dated": false,
+      "seq": 761
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
-    "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid"
+    "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+    "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin"
   ],
-  "updatedAt": "2026-08-23T10:25:07.235Z"
+  "updatedAt": "2026-08-23T10:43:53.145Z"
 }

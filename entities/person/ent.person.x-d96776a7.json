@@ -9,8 +9,9 @@
   ],
   "summary": "为藏品仙阁首次开启作画之人；王林认出其画风与自己储物空间内所藏之画出自同一人之手。",
   "attributes": {
-    "身份": "画师/仙人、为藏品仙阁首次开启作画者",
-    "标志特征": "独特画风，与王林储物空间内之画同源"
+    "身份": "画师/仙人、为藏品仙阁首次开启作画者、古神皮甲疑似前主人",
+    "标志特征": "独特画风，与王林储物空间内之画同源",
+    "存殁": "死亡"
   },
   "observations": {
     "身份": [
@@ -23,6 +24,11 @@
         "value": "为藏品仙阁首次开启作画者",
         "docId": "plot.xianni-740-742-immortal-emperor-technique-huffeng",
         "seq": 740
+      },
+      {
+        "value": "古神皮甲疑似前主人",
+        "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+        "seq": 761
       }
     ],
     "标志特征": [
@@ -30,6 +36,13 @@
         "value": "独特画风，与王林储物空间内之画同源",
         "docId": "plot.xianni-740-742-immortal-emperor-technique-huffeng",
         "seq": 740
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+        "seq": 761
       }
     ]
   },
@@ -46,13 +59,20 @@
       "docId": "plot.xianni-740-742-immortal-emperor-technique-huffeng",
       "dated": false,
       "seq": 740
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+      "dated": false,
+      "seq": 761
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-740-742-immortal-emperor-technique-huffeng",
-    "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm"
+    "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
+    "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin"
   ],
-  "updatedAt": "2026-08-23T09:06:12.757Z"
+  "updatedAt": "2026-08-23T10:43:53.135Z"
 }

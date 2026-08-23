@@ -14,12 +14,12 @@
   "attributes": {
     "性别": "男",
     "种族": "仙选族",
-    "身份": "符士（非符咒师，以肉身强大见长）、仙选族族人、这一代的祭坛守护者",
+    "身份": "符士（非符咒师，以肉身强大见长）、仙选族族人、这一代的祭坛守护者、仙选族族人（修为高深者）、带王林了解此地情况者",
     "标志特征": "眉心十三叶植物；体表符文印记",
-    "外貌": "大汉",
-    "性格": "果断、隐忍、执着求真",
+    "外貌": "浑身血雾、双目血丝、血泪、双膝碎裂",
+    "性格": "桀骜不信仙、战意极盛、果断、隐忍、执着求真、刚烈、不屈",
     "阵营": "仙选族（不信仙派）",
-    "存殁": "存活",
+    "存殁": "在世",
     "元神强度": "受伤"
   },
   "observations": {
@@ -53,6 +53,16 @@
         "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
         "seq": 758,
         "note": "第807章自陈"
+      },
+      {
+        "value": "仙选族族人（修为高深者）",
+        "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+        "seq": 761
+      },
+      {
+        "value": "带王林了解此地情况者",
+        "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+        "seq": 761
       }
     ],
     "标志特征": [
@@ -72,6 +82,12 @@
         "value": "大汉",
         "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
         "seq": 758
+      },
+      {
+        "value": "浑身血雾、双目血丝、血泪、双膝碎裂",
+        "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+        "seq": 761,
+        "note": "本片段受奴符重创"
       }
     ],
     "性格": [
@@ -84,6 +100,16 @@
         "value": "果断、隐忍、执着求真",
         "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
         "seq": 758
+      },
+      {
+        "value": "刚烈",
+        "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+        "seq": 761
+      },
+      {
+        "value": "不屈",
+        "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+        "seq": 761
       }
     ],
     "阵营": [
@@ -105,6 +131,11 @@
         "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
         "seq": 758,
         "note": "第806章，王林手下留情"
+      },
+      {
+        "value": "在世",
+        "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+        "seq": 761
       }
     ],
     "元神强度": [
@@ -144,15 +175,16 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+      "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
       "dated": false,
-      "seq": 758
+      "seq": 761,
+      "note": "本片段受奴符重创"
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+      "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
       "dated": false,
-      "seq": 758
+      "seq": 753
     },
     "阵营": {
       "asOf": null,
@@ -162,10 +194,9 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+      "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
       "dated": false,
-      "seq": 758,
-      "note": "第806章，王林手下留情"
+      "seq": 761
     },
     "元神强度": {
       "asOf": null,
@@ -179,7 +210,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
-    "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid"
+    "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+    "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin"
   ],
-  "updatedAt": "2026-08-23T10:25:07.309Z"
+  "updatedAt": "2026-08-23T10:43:53.133Z"
 }

@@ -7,7 +7,8 @@
     "先祖老者",
     "先祖老祖",
     "仙选族的先祖老者",
-    "仙选族先祖老祖"
+    "仙选族先祖老祖",
+    "此族先祖老者"
   ],
   "summary": "仙选族先祖，笃信仙人与仙谕，主持驱除雾兽之战，持一丈长嘴大壶法器。",
   "attributes": {
@@ -16,7 +17,8 @@
     "性格": "谨慎、恭敬（对王林），对塔山严厉",
     "外貌": "老者",
     "种族": "仙选族",
-    "标志特征": "眉心植物，可化作本命符文、族中见识最为广泛"
+    "标志特征": "眉心植物，可化作本命符文、族中见识最为广泛",
+    "存殁": "在世"
   },
   "observations": {
     "身份": [
@@ -75,6 +77,13 @@
         "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
         "seq": 758
       }
+    ],
+    "存殁": [
+      {
+        "value": "在世",
+        "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+        "seq": 761
+      }
     ]
   },
   "firstSeq": 753,
@@ -114,13 +123,20 @@
       "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
       "dated": false,
       "seq": 758
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+      "dated": false,
+      "seq": 761
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
-    "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid"
+    "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+    "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin"
   ],
-  "updatedAt": "2026-08-23T10:25:07.310Z"
+  "updatedAt": "2026-08-23T10:43:53.134Z"
 }

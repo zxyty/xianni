@@ -6,14 +6,16 @@
     "鼎灵",
     "女子虚影",
     "黑气女子",
-    "Xuan Yin Ding Ling"
+    "Xuan Yin Ding Ling",
+    "大门内的女子虚影",
+    "祭坛女子虚影"
   ],
   "summary": "大鼎内黑气所化、全身由雾气组成的女子虚影，尖啸可同伤元神与肉身，能散作九道黑气追击并无视第三眼神通。",
   "attributes": {
     "性别": "女",
-    "外貌": "全身由雾气组成，看不清详细样貌",
+    "外貌": "女子虚影",
     "标志特征": "穿透神识的厉啸、兼伤肉身的音爆尖啸、身散九道黑气",
-    "身份": "大鼎器灵"
+    "身份": "大门内的存在"
   },
   "observations": {
     "性别": [
@@ -28,6 +30,11 @@
         "value": "全身由雾气组成，看不清详细样貌",
         "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
         "seq": 758
+      },
+      {
+        "value": "女子虚影",
+        "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+        "seq": 761
       }
     ],
     "标志特征": [
@@ -52,6 +59,12 @@
         "value": "大鼎器灵",
         "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
         "seq": 758
+      },
+      {
+        "value": "大门内的存在",
+        "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+        "seq": 761,
+        "note": "身份未明"
       }
     ]
   },
@@ -65,9 +78,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+      "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
       "dated": false,
-      "seq": 758
+      "seq": 761
     },
     "标志特征": {
       "asOf": null,
@@ -77,15 +90,17 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+      "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
       "dated": false,
-      "seq": 758
+      "seq": 761,
+      "note": "身份未明"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid"
+    "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+    "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin"
   ],
-  "updatedAt": "2026-08-23T10:25:07.263Z"
+  "updatedAt": "2026-08-23T10:43:53.121Z"
 }

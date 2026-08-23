@@ -11,10 +11,11 @@
   "summary": "朱雀国每百年召集所有五级修真国朝议之处，红蝶断臂自漩涡坠落于此。",
   "attributes": {
     "所属势力": "朱雀国",
-    "类型": "祭坛、传送祭坛、祭坛/斗法场",
+    "类型": "祭坛、传送祭坛、祭坛/斗法场、祭坛/传送节点",
     "所属界面": "朱雀星",
     "规模": "外围环形光环可坐近百位使者",
-    "上级区域": "朱雀国"
+    "上级区域": "朱雀国",
+    "守护": "大门、玄阴鼎之灵"
   },
   "observations": {
     "所属势力": [
@@ -39,6 +40,11 @@
         "value": "祭坛/斗法场",
         "docId": "plot.xianni-ch361-zhuque-guo-arrival",
         "seq": 341
+      },
+      {
+        "value": "祭坛/传送节点",
+        "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+        "seq": 761
       }
     ],
     "所属界面": [
@@ -60,6 +66,18 @@
         "value": "朱雀国",
         "docId": "plot.xianni-ch361-zhuque-guo-arrival",
         "seq": 341
+      }
+    ],
+    "守护": [
+      {
+        "value": "大门",
+        "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+        "seq": 761
+      },
+      {
+        "value": "玄阴鼎之灵",
+        "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+        "seq": 761
       }
     ]
   },
@@ -94,13 +112,20 @@
       "docId": "plot.xianni-ch361-zhuque-guo-arrival",
       "dated": false,
       "seq": 341
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+      "dated": false,
+      "seq": 761
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
-    "plot.xianni-ch361-zhuque-guo-arrival"
+    "plot.xianni-ch361-zhuque-guo-arrival",
+    "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin"
   ],
-  "updatedAt": "2026-08-08T14:53:00.630Z"
+  "updatedAt": "2026-08-23T10:43:53.155Z"
 }

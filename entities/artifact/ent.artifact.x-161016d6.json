@@ -7,14 +7,16 @@
     "皮质衣甲",
     "碎纹皮甲",
     "古之神皮甲",
-    "Ancient God Hide Armor"
+    "Ancient God Hide Armor",
+    "古神之甲"
   ],
   "summary": "白骨骸骨身上所穿的皮质衣甲，做工有些粗糙，其上有一些天然的碎纹；王林见之罕见地露出不敢置信之色。",
   "attributes": {
-    "外形": "极为粗糙，透出沧桑",
+    "外形": "粗糙皮质衣甲，其上有天然碎纹、极为粗糙，透出沧桑、粗糙皮甲，上有符文暗记、融入体内后不可见，覆于元神之外",
     "持有者": "王林",
-    "来历": "仙界乙庚十六年众仙战胜古之神后，作者因战功分得古神之皮一块制成",
-    "能力": "残留强大气息，触碰时传来血腥的悲哀"
+    "来历": "雷之仙界所得，前主人很可能是逍遥子",
+    "能力": "残留强大气息，触碰时传来血腥的悲哀、穿覆元神提供极高防御、散发极沧桑气息形成风暴漩涡",
+    "器灵": "尚未产生神智的破损残识、蓝色雾絮，已被逼出并被十亿尊魂幡吞噬"
   },
   "observations": {
     "外形": [
@@ -27,6 +29,16 @@
         "value": "极为粗糙，透出沧桑",
         "docId": "plot.xianni-ch758-immortal-relic-second-valley",
         "seq": 716
+      },
+      {
+        "value": "粗糙皮甲，上有符文暗记",
+        "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+        "seq": 761
+      },
+      {
+        "value": "融入体内后不可见，覆于元神之外",
+        "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+        "seq": 761
       }
     ],
     "持有者": [
@@ -53,6 +65,11 @@
         "value": "仙界乙庚十六年众仙战胜古之神后，作者因战功分得古神之皮一块制成",
         "docId": "plot.xianni-ch758-immortal-relic-second-valley",
         "seq": 716
+      },
+      {
+        "value": "雷之仙界所得，前主人很可能是逍遥子",
+        "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+        "seq": 761
       }
     ],
     "能力": [
@@ -60,6 +77,30 @@
         "value": "残留强大气息，触碰时传来血腥的悲哀",
         "docId": "plot.xianni-ch758-immortal-relic-second-valley",
         "seq": 716
+      },
+      {
+        "value": "穿覆元神提供极高防御",
+        "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+        "seq": 761
+      },
+      {
+        "value": "散发极沧桑气息形成风暴漩涡",
+        "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+        "seq": 761
+      }
+    ],
+    "器灵": [
+      {
+        "value": "尚未产生神智的破损残识",
+        "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+        "seq": 761,
+        "note": "王林决意抹去；仙人神识与古神之力相互冲突"
+      },
+      {
+        "value": "蓝色雾絮，已被逼出并被十亿尊魂幡吞噬",
+        "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+        "seq": 761,
+        "note": "第813章被斩罗诀斩断联系"
       }
     ]
   },
@@ -67,9 +108,9 @@
   "attrProvenance": {
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch758-immortal-relic-second-valley",
+      "docId": "plot.xianni-ch754-ancient-god-hide-armor",
       "dated": false,
-      "seq": 716
+      "seq": 711
     },
     "持有者": {
       "asOf": null,
@@ -79,22 +120,30 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch758-immortal-relic-second-valley",
+      "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
       "dated": false,
-      "seq": 716
+      "seq": 761
     },
     "能力": {
       "asOf": null,
       "docId": "plot.xianni-ch758-immortal-relic-second-valley",
       "dated": false,
       "seq": 716
+    },
+    "器灵": {
+      "asOf": null,
+      "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+      "dated": false,
+      "seq": 761,
+      "note": "王林决意抹去；仙人神识与古神之力相互冲突"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch754-ancient-god-hide-armor",
-    "plot.xianni-ch758-immortal-relic-second-valley"
+    "plot.xianni-ch758-immortal-relic-second-valley",
+    "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin"
   ],
-  "updatedAt": "2026-08-23T05:51:55.027Z"
+  "updatedAt": "2026-08-23T10:43:53.173Z"
 }
