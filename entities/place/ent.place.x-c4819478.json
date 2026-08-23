@@ -20,12 +20,13 @@
   "summary": "天运宗内一处居所，天运子吩咐若王林过三关便带其入住；周师弟讥称不久将改名「紫林阁」，暗示王林将由记名弟子转为真传。",
   "attributes": {
     "所属势力": "天运宗、天运宗紫系、紫宗、紫系一脉",
-    "类型": "弟子居所·阁、弟子居所阁楼、阁楼居所、洞府阁楼、楼阁、弟子居所/楼阁、阁楼、弟子居所/阁楼、楼阁 / 闭关之所、洞府楼阁",
+    "类型": "弟子居所·阁、弟子居所阁楼、阁楼居所、洞府阁楼、楼阁、弟子居所/楼阁、阁楼、弟子居所/阁楼、楼阁 / 闭关之所、洞府楼阁、洞府/阁楼",
     "所属界面": "天运星",
-    "方位": "紫宗山门向西",
+    "方位": "紫峰峰顶",
     "危险度": "涉及重大隐情，被称为「放在火上」、被始祖尊者封印过",
     "规模": "三层",
-    "守护": "有人把守、紫衣女子、王林所布禁制防护、第三层密室"
+    "守护": "有人把守、紫衣女子、王林所布禁制防护、第三层密室",
+    "上级区域": "紫峰"
   },
   "observations": {
     "所属势力": [
@@ -100,6 +101,11 @@
         "value": "洞府楼阁",
         "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
         "seq": 467
+      },
+      {
+        "value": "洞府/阁楼",
+        "docId": "plot.xianni-ch959-tianyunzi-secret-purple-forest-pavilion",
+        "seq": 890
       }
     ],
     "所属界面": [
@@ -114,6 +120,11 @@
         "value": "紫宗山门向西",
         "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
         "seq": 457
+      },
+      {
+        "value": "紫峰峰顶",
+        "docId": "plot.xianni-ch959-tianyunzi-secret-purple-forest-pavilion",
+        "seq": 890
       }
     ],
     "危险度": [
@@ -159,6 +170,13 @@
         "docId": "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
         "seq": 462
       }
+    ],
+    "上级区域": [
+      {
+        "value": "紫峰",
+        "docId": "plot.xianni-ch959-tianyunzi-secret-purple-forest-pavilion",
+        "seq": 890
+      }
     ]
   },
   "firstSeq": 452,
@@ -183,9 +201,9 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
+      "docId": "plot.xianni-ch959-tianyunzi-secret-purple-forest-pavilion",
       "dated": false,
-      "seq": 457
+      "seq": 890
     },
     "危险度": {
       "asOf": null,
@@ -206,6 +224,12 @@
       "dated": false,
       "seq": 457,
       "note": "王林入宗时不许他人接近"
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch959-tianyunzi-secret-purple-forest-pavilion",
+      "dated": false,
+      "seq": 890
     }
   },
   "contested": false,
@@ -214,7 +238,8 @@
     "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
     "plot.xianni-ch457-461-tianyunzong-ziyunge",
     "plot.xianni-ch485-immortal-arts-tianyunzi-accepts-wang-lin",
-    "plot.xianni-ch467-471-ziqi-donglai-chuangyan"
+    "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
+    "plot.xianni-ch959-tianyunzi-secret-purple-forest-pavilion"
   ],
-  "updatedAt": "2026-08-21T08:12:23.124Z"
+  "updatedAt": "2026-08-23T22:47:07.794Z"
 }
