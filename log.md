@@ -406,3 +406,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T22:44:53.670Z** `ingest` plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi — 第958章 认可：王林接剑尊凌天候三道剑气，三九之剑震慑天运星老怪 · kind=plot asOf=2026-08-23 entities=42 relations=67 src=00890-00894.p3.md
 - **2026-08-23T22:47:08.017Z** `ingest` plot.xianni-ch959-tianyunzi-secret-purple-forest-pavilion — 仙逆 第959章 天运子的秘密——重返紫林阁与「灯火千身」之悟 · kind=plot asOf=2026-08-23 entities=19 relations=28 src=00890-00894.p4.md
 - **2026-08-23T22:48:44.237Z** `ingest` plot.xianni-ch960-first-glimpse-of-origin — 《仙逆》第960章 初窥本源：王林由烛火悟火之规则、瞥见本源 · kind=plot asOf=2026-08-23 entities=11 relations=12 src=00890-00894.p5.md
+- **2026-08-23T23:30:36.914Z** `ingest` plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo — 仙逆 第961章 王林的尴尬——赵欣梦揭露天运宗「阴虚失踪」禁忌 · kind=plot asOf=2026-08-23 entities=61 relations=135 src=00895-00898.md

@@ -4,13 +4,17 @@
   "name": "鬼眼坊市",
   "aliases": [
     "鬼眼坊",
-    "Gui Yan Fang Shi"
+    "Gui Yan Fang Shi",
+    "鬼眼",
+    "鬼眼市集"
   ],
   "summary": "定期开启的高端坊市，当年因拍卖一道罕见完整仙术而一举成名；本章七日后再开，将拍卖一样神秘之物，拍卖处需邀请资格，另设自由交易区。",
   "attributes": {
-    "类型": "坊市/拍卖场",
+    "类型": "坊市",
     "危险度": "需邀请资格方可进入拍卖处",
-    "特产": "完整仙术（当年）、神秘之物（本次拍卖）"
+    "特产": "完整仙术（当年）、神秘之物（本次拍卖）",
+    "所属界面": "天运星",
+    "上级区域": "天运星"
   },
   "observations": {
     "类型": [
@@ -18,6 +22,11 @@
         "value": "坊市/拍卖场",
         "docId": "plot.xianni-ch959-tianyunzi-secret-purple-forest-pavilion",
         "seq": 890
+      },
+      {
+        "value": "坊市",
+        "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
+        "seq": 895
       }
     ],
     "危险度": [
@@ -38,15 +47,29 @@
         "docId": "plot.xianni-ch959-tianyunzi-secret-purple-forest-pavilion",
         "seq": 890
       }
+    ],
+    "所属界面": [
+      {
+        "value": "天运星",
+        "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
+        "seq": 895
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "天运星",
+        "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
+        "seq": 895
+      }
     ]
   },
   "firstSeq": 890,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch959-tianyunzi-secret-purple-forest-pavilion",
+      "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
       "dated": false,
-      "seq": 890
+      "seq": 895
     },
     "危险度": {
       "asOf": null,
@@ -59,12 +82,25 @@
       "docId": "plot.xianni-ch959-tianyunzi-secret-purple-forest-pavilion",
       "dated": false,
       "seq": 890
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
+      "dated": false,
+      "seq": 895
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
+      "dated": false,
+      "seq": 895
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch959-tianyunzi-secret-purple-forest-pavilion"
+    "plot.xianni-ch959-tianyunzi-secret-purple-forest-pavilion",
+    "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo"
   ],
-  "updatedAt": "2026-08-23T22:47:07.796Z"
+  "updatedAt": "2026-08-23T23:30:36.599Z"
 }

@@ -4,13 +4,17 @@
   "name": "炼魂宗青袍老者",
   "aliases": [
     "青袍老者",
-    "九大化神修士之一（青袍）"
+    "九大化神修士之一（青袍）",
+    "尘道三子青袍老者",
+    "威严青袍老者"
   ],
   "summary": "炼魂宗九大化神修士之一，斥王林狂妄，以灵光化铁链锁向王林，铁链被禁气长枪寸寸震碎并遭反刺。",
   "attributes": {
-    "外貌": "青袍老者",
+    "外貌": "身穿青袍、相貌威严",
     "小阶段": "化神",
-    "阵营": "炼魂宗"
+    "阵营": "炼魂宗",
+    "性别": "男",
+    "身份": "尘道三子之一"
   },
   "observations": {
     "外貌": [
@@ -18,6 +22,11 @@
         "value": "青袍老者",
         "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
         "seq": 363
+      },
+      {
+        "value": "身穿青袍、相貌威严",
+        "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
+        "seq": 895
       }
     ],
     "小阶段": [
@@ -33,15 +42,29 @@
         "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
         "seq": 363
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
+        "seq": 895
+      }
+    ],
+    "身份": [
+      {
+        "value": "尘道三子之一",
+        "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
+        "seq": 895
+      }
     ]
   },
   "firstSeq": 363,
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+      "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
       "dated": false,
-      "seq": 363
+      "seq": 895
     },
     "小阶段": {
       "asOf": null,
@@ -54,12 +77,25 @@
       "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
       "dated": false,
       "seq": 363
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
+      "dated": false,
+      "seq": 895
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
+      "dated": false,
+      "seq": 895
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction"
+    "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+    "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo"
   ],
-  "updatedAt": "2026-08-15T09:19:09.983Z"
+  "updatedAt": "2026-08-23T23:30:36.682Z"
 }

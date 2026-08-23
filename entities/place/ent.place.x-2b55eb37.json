@@ -9,11 +9,13 @@
   ],
   "summary": "天运宗紫系弟子居所，高耸入云、峰顶云雾缭绕紫光弥漫，广场唯一山道小径通达。",
   "attributes": {
-    "所属势力": "天运宗",
-    "类型": "山峰",
+    "所属势力": "天运宗紫系一脉",
+    "类型": "门派山峰",
     "方位": "天运宗广场之上，唯一山道尽头",
     "特产": "峰顶紫光弥漫",
-    "守护": "无（本章未提）"
+    "守护": "无（本章未提）",
+    "上级区域": "天运宗七峰",
+    "规模": "偌大山峰但人烟不多"
   },
   "observations": {
     "所属势力": [
@@ -21,6 +23,11 @@
         "value": "天运宗",
         "docId": "plot.xianni-ch959-tianyunzi-secret-purple-forest-pavilion",
         "seq": 890
+      },
+      {
+        "value": "天运宗紫系一脉",
+        "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
+        "seq": 895
       }
     ],
     "类型": [
@@ -28,6 +35,11 @@
         "value": "山峰",
         "docId": "plot.xianni-ch959-tianyunzi-secret-purple-forest-pavilion",
         "seq": 890
+      },
+      {
+        "value": "门派山峰",
+        "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
+        "seq": 895
       }
     ],
     "方位": [
@@ -50,21 +62,35 @@
         "docId": "plot.xianni-ch960-first-glimpse-of-origin",
         "seq": 890
       }
+    ],
+    "上级区域": [
+      {
+        "value": "天运宗七峰",
+        "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
+        "seq": 895
+      }
+    ],
+    "规模": [
+      {
+        "value": "偌大山峰但人烟不多",
+        "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
+        "seq": 895
+      }
     ]
   },
   "firstSeq": 890,
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch959-tianyunzi-secret-purple-forest-pavilion",
+      "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
       "dated": false,
-      "seq": 890
+      "seq": 895
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch959-tianyunzi-secret-purple-forest-pavilion",
+      "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
       "dated": false,
-      "seq": 890
+      "seq": 895
     },
     "方位": {
       "asOf": null,
@@ -83,13 +109,26 @@
       "docId": "plot.xianni-ch960-first-glimpse-of-origin",
       "dated": false,
       "seq": 890
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
+      "dated": false,
+      "seq": 895
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
+      "dated": false,
+      "seq": 895
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch959-tianyunzi-secret-purple-forest-pavilion",
-    "plot.xianni-ch960-first-glimpse-of-origin"
+    "plot.xianni-ch960-first-glimpse-of-origin",
+    "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo"
   ],
-  "updatedAt": "2026-08-23T22:48:43.998Z"
+  "updatedAt": "2026-08-23T23:30:36.631Z"
 }
