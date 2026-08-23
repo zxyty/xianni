@@ -4,12 +4,14 @@
   "name": "仙卫傀儡之术",
   "aliases": [
     "仙卫之术",
-    "仙卫傀儡术"
+    "仙卫傀儡术",
+    "青霖仙卫之术",
+    "仙卫封印"
   ],
   "summary": "取自模仿古神的炼制之术，注重肉身强度、神通次之，炼成后终生不叛，唯施法者可解。",
   "attributes": {
-    "出处": "仙帝青霖的传承（晚于封印神通）",
-    "效果": "重肉身强度、终生不背叛、唯施法者意愿方可解脱"
+    "出处": "仙帝青霖",
+    "效果": "重肉身强度、终生不背叛、唯施法者意愿方可解脱、元神融散于体内、保有神智灵动，异于傀儡、主仆间封印可远程感知"
   },
   "observations": {
     "出处": [
@@ -17,6 +19,11 @@
         "value": "仙帝青霖的传承（晚于封印神通）",
         "docId": "plot.xianni-ch892-wang-lin-returns-home-zhuque-star",
         "seq": 830
+      },
+      {
+        "value": "仙帝青霖",
+        "docId": "plot.xianni-ch954-young-master-blue-shirt-pursues-lei-ji",
+        "seq": 885
       }
     ],
     "效果": [
@@ -34,6 +41,21 @@
         "value": "唯施法者意愿方可解脱",
         "docId": "plot.xianni-ch892-wang-lin-returns-home-zhuque-star",
         "seq": 830
+      },
+      {
+        "value": "元神融散于体内",
+        "docId": "plot.xianni-ch954-young-master-blue-shirt-pursues-lei-ji",
+        "seq": 885
+      },
+      {
+        "value": "保有神智灵动，异于傀儡",
+        "docId": "plot.xianni-ch954-young-master-blue-shirt-pursues-lei-ji",
+        "seq": 885
+      },
+      {
+        "value": "主仆间封印可远程感知",
+        "docId": "plot.xianni-ch954-young-master-blue-shirt-pursues-lei-ji",
+        "seq": 885
       }
     ]
   },
@@ -41,9 +63,9 @@
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch892-wang-lin-returns-home-zhuque-star",
+      "docId": "plot.xianni-ch954-young-master-blue-shirt-pursues-lei-ji",
       "dated": false,
-      "seq": 830
+      "seq": 885
     },
     "效果": {
       "asOf": null,
@@ -55,7 +77,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch892-wang-lin-returns-home-zhuque-star"
+    "plot.xianni-ch892-wang-lin-returns-home-zhuque-star",
+    "plot.xianni-ch954-young-master-blue-shirt-pursues-lei-ji"
   ],
-  "updatedAt": "2026-08-23T18:01:55.909Z"
+  "updatedAt": "2026-08-23T22:24:44.191Z"
 }
