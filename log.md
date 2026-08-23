@@ -304,3 +304,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T12:57:58.711Z** `ingest` plot.xianni-ch838-bingyun-wangyue-rebirth-dading-seized — 第838章 冰云：望月借体新生之秘，王林夺鼎并破冰擒姚冰云 · kind=plot asOf=2026-08-23 entities=20 relations=32 src=00780-00784.p3.md
 - **2026-08-23T13:00:29.658Z** `ingest` plot.xianni-ch839-perfect-seal-yao-bingyun — 《仙逆》第839章 完美封印——王林层层封印姚冰云、深入望月体内追寻灵魂呼唤 · kind=plot asOf=2026-08-23 entities=22 relations=28 src=00780-00784.p4.md
 - **2026-08-23T13:03:01.935Z** `ingest` plot.xianni-ch840-call-from-inside-wangyue — 第840章 来自望月体内的召唤——群怪围猎望月与古神幼子传承 · kind=plot asOf=2026-08-23 entities=27 relations=40 src=00780-00784.p5.md
+- **2026-08-23T13:43:58.337Z** `ingest` plot.xianni-ch841-ancient-god-shattered-star — 第841章 古神碎星：七大高手围攻望月，古神幼子崩星送王林出困 · kind=plot asOf=2026-08-23 entities=23 relations=32 src=00785-00789.p1.md

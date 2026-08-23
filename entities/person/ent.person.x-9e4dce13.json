@@ -9,7 +9,8 @@
     "赤色弯眉老者",
     "姚家祠堂老者",
     "血神子老家伙",
-    "血神子老怪"
+    "血神子老怪",
+    "血神子前辈"
   ],
   "summary": "姚家强者，被血祖引为倚仗，老者称即便其亲来也不惧。",
   "attributes": {
@@ -19,8 +20,9 @@
     "道号": "血神子",
     "外貌": "红发赤眉、一身血衣仿若刚刚染红",
     "性格": "阴森、冷酷、果断狠辣、阴森、隐忍、阴沉",
-    "存殁": "存活",
-    "标志特征": "化作大片血光云涌而来再凝聚成人形"
+    "存殁": "重伤未死",
+    "标志特征": "化作大片血光云涌而来再凝聚成人形",
+    "本命法宝": "妖异之物"
   },
   "observations": {
     "身份": [
@@ -115,6 +117,12 @@
         "value": "存活",
         "docId": "plot.xianni-ch823-yao-changkong-part3-karma-daoist-realm-duel",
         "seq": 770
+      },
+      {
+        "value": "重伤未死",
+        "docId": "plot.xianni-ch841-ancient-god-shattered-star",
+        "seq": 785,
+        "note": "面色苍白连续喷血、元神重创"
       }
     ],
     "标志特征": [
@@ -122,6 +130,14 @@
         "value": "化作大片血光云涌而来再凝聚成人形",
         "docId": "plot.xianni-ch840-call-from-inside-wangyue",
         "seq": 780
+      }
+    ],
+    "本命法宝": [
+      {
+        "value": "妖异之物",
+        "docId": "plot.xianni-ch841-ancient-god-shattered-star",
+        "seq": 785,
+        "note": "与其本命相连，替其挡下古神之力后崩溃"
       }
     ]
   },
@@ -165,15 +181,23 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch823-yao-changkong-part3-karma-daoist-realm-duel",
+      "docId": "plot.xianni-ch841-ancient-god-shattered-star",
       "dated": false,
-      "seq": 770
+      "seq": 785,
+      "note": "面色苍白连续喷血、元神重创"
     },
     "标志特征": {
       "asOf": null,
       "docId": "plot.xianni-ch840-call-from-inside-wangyue",
       "dated": false,
       "seq": 780
+    },
+    "本命法宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch841-ancient-god-shattered-star",
+      "dated": false,
+      "seq": 785,
+      "note": "与其本命相连，替其挡下古神之力后崩溃"
     }
   },
   "contested": false,
@@ -187,7 +211,8 @@
     "plot.xianni-ch827-yao-bingyun-pursuit",
     "plot.xianni-ch834-yanleizi-reappears-wangyue-massacre",
     "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
-    "plot.xianni-ch840-call-from-inside-wangyue"
+    "plot.xianni-ch840-call-from-inside-wangyue",
+    "plot.xianni-ch841-ancient-god-shattered-star"
   ],
-  "updatedAt": "2026-08-23T13:03:01.720Z"
+  "updatedAt": "2026-08-23T13:43:58.141Z"
 }

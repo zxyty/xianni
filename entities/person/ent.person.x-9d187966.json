@@ -8,9 +8,11 @@
   ],
   "summary": "战家高手，白衣青年外表却透出浓郁沧桑，不乘法宝以双足步行而来，全程沉默；传闻性格火爆，曾一怒连灭十三个修真家族。",
   "attributes": {
-    "外貌": "一身白衣、外表青年、沧桑诡异",
+    "外貌": "一身白衣仿若幽灵",
     "性格": "传闻极为火爆",
-    "身份": "战家高手"
+    "身份": "战家高手",
+    "本命法宝": "银色细剑",
+    "称号": "名震罗天的大神通者"
   },
   "observations": {
     "外貌": [
@@ -18,6 +20,11 @@
         "value": "一身白衣、外表青年、沧桑诡异",
         "docId": "plot.xianni-ch840-call-from-inside-wangyue",
         "seq": 780
+      },
+      {
+        "value": "一身白衣仿若幽灵",
+        "docId": "plot.xianni-ch841-ancient-god-shattered-star",
+        "seq": 785
       }
     ],
     "性格": [
@@ -33,15 +40,29 @@
         "docId": "plot.xianni-ch840-call-from-inside-wangyue",
         "seq": 780
       }
+    ],
+    "本命法宝": [
+      {
+        "value": "银色细剑",
+        "docId": "plot.xianni-ch841-ancient-god-shattered-star",
+        "seq": 785
+      }
+    ],
+    "称号": [
+      {
+        "value": "名震罗天的大神通者",
+        "docId": "plot.xianni-ch841-ancient-god-shattered-star",
+        "seq": 785
+      }
     ]
   },
   "firstSeq": 780,
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch840-call-from-inside-wangyue",
+      "docId": "plot.xianni-ch841-ancient-god-shattered-star",
       "dated": false,
-      "seq": 780
+      "seq": 785
     },
     "性格": {
       "asOf": null,
@@ -54,12 +75,25 @@
       "docId": "plot.xianni-ch840-call-from-inside-wangyue",
       "dated": false,
       "seq": 780
+    },
+    "本命法宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch841-ancient-god-shattered-star",
+      "dated": false,
+      "seq": 785
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch841-ancient-god-shattered-star",
+      "dated": false,
+      "seq": 785
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch840-call-from-inside-wangyue"
+    "plot.xianni-ch840-call-from-inside-wangyue",
+    "plot.xianni-ch841-ancient-god-shattered-star"
   ],
-  "updatedAt": "2026-08-23T13:03:01.724Z"
+  "updatedAt": "2026-08-23T13:43:58.144Z"
 }

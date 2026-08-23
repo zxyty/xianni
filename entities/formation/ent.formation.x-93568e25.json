@@ -8,8 +8,9 @@
   ],
   "summary": "本章末在望月修真星附近星空浮现的万丈大小八角阵法，红光闪烁、浩荡之气令天地颤抖，从中走出四人。",
   "attributes": {
-    "效果": "跨星空降临/传送、散发令天地颤抖的浩荡气息",
-    "品阶": "万丈规模，气息浩荡"
+    "效果": "跨星空降临/传送、散发令天地颤抖的浩荡气息、宣泄大地雷火轰入望月体内",
+    "品阶": "万丈规模，气息浩荡",
+    "布置者": "向姓老者"
   },
   "observations": {
     "效果": [
@@ -22,6 +23,11 @@
         "value": "散发令天地颤抖的浩荡气息",
         "docId": "plot.xianni-ch839-perfect-seal-yao-bingyun",
         "seq": 780
+      },
+      {
+        "value": "宣泄大地雷火轰入望月体内",
+        "docId": "plot.xianni-ch841-ancient-god-shattered-star",
+        "seq": 785
       }
     ],
     "品阶": [
@@ -29,6 +35,13 @@
         "value": "万丈规模，气息浩荡",
         "docId": "plot.xianni-ch839-perfect-seal-yao-bingyun",
         "seq": 780
+      }
+    ],
+    "布置者": [
+      {
+        "value": "向姓老者",
+        "docId": "plot.xianni-ch841-ancient-god-shattered-star",
+        "seq": 785
       }
     ]
   },
@@ -45,12 +58,19 @@
       "docId": "plot.xianni-ch839-perfect-seal-yao-bingyun",
       "dated": false,
       "seq": 780
+    },
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.xianni-ch841-ancient-god-shattered-star",
+      "dated": false,
+      "seq": 785
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch839-perfect-seal-yao-bingyun"
+    "plot.xianni-ch839-perfect-seal-yao-bingyun",
+    "plot.xianni-ch841-ancient-god-shattered-star"
   ],
-  "updatedAt": "2026-08-23T13:00:29.466Z"
+  "updatedAt": "2026-08-23T13:43:58.148Z"
 }

@@ -4,14 +4,18 @@
   "name": "古神幼子",
   "aliases": [
     "望月体内的婴儿",
-    "退化的成年古神"
+    "退化的成年古神",
+    "沧桑声音",
+    "望月的生命之源"
   ],
   "summary": "被上百条触手缠绕于望月体内的数十丈婴儿，头部八颗虚幻星点无一凝实，生机与星点之力持续被望月吸走；以古神之语召唤王林，欲将最后传承交予『真正的族人』。",
   "attributes": {
     "外貌": "数十丈大小的婴儿，双目紧闭卷身，头部八个虚幻星点若隐若现",
-    "标志特征": "八颗星点无一凝实、相互旋转生出奇异力量",
-    "身份": "八星古神幼子或退化的成年八星古神",
-    "寿元": "所剩无多"
+    "标志特征": "眉心旋转的八个模糊星点",
+    "身份": "望月的生命之源",
+    "寿元": "所剩无多",
+    "存殁": "垂危",
+    "元神强度": "极度虚弱"
   },
   "observations": {
     "外貌": [
@@ -26,6 +30,11 @@
         "value": "八颗星点无一凝实、相互旋转生出奇异力量",
         "docId": "plot.xianni-ch840-call-from-inside-wangyue",
         "seq": 780
+      },
+      {
+        "value": "眉心旋转的八个模糊星点",
+        "docId": "plot.xianni-ch841-ancient-god-shattered-star",
+        "seq": 785
       }
     ],
     "身份": [
@@ -34,6 +43,11 @@
         "docId": "plot.xianni-ch840-call-from-inside-wangyue",
         "seq": 780,
         "note": "王林所推两解，本章未定论"
+      },
+      {
+        "value": "望月的生命之源",
+        "docId": "plot.xianni-ch841-ancient-god-shattered-star",
+        "seq": 785
       }
     ],
     "寿元": [
@@ -42,6 +56,22 @@
         "docId": "plot.xianni-ch840-call-from-inside-wangyue",
         "seq": 780,
         "note": "自称『我的时间不多』"
+      }
+    ],
+    "存殁": [
+      {
+        "value": "垂危",
+        "docId": "plot.xianni-ch841-ancient-god-shattered-star",
+        "seq": 785,
+        "note": "自称『我的时间不多了』，被触手疯狂吞噬"
+      }
+    ],
+    "元神强度": [
+      {
+        "value": "极度虚弱",
+        "docId": "plot.xianni-ch841-ancient-god-shattered-star",
+        "seq": 785,
+        "note": "传音比之前更虚弱，仿佛随时消散"
       }
     ]
   },
@@ -55,16 +85,15 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch840-call-from-inside-wangyue",
+      "docId": "plot.xianni-ch841-ancient-god-shattered-star",
       "dated": false,
-      "seq": 780
+      "seq": 785
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch840-call-from-inside-wangyue",
+      "docId": "plot.xianni-ch841-ancient-god-shattered-star",
       "dated": false,
-      "seq": 780,
-      "note": "王林所推两解，本章未定论"
+      "seq": 785
     },
     "寿元": {
       "asOf": null,
@@ -72,12 +101,27 @@
       "dated": false,
       "seq": 780,
       "note": "自称『我的时间不多』"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch841-ancient-god-shattered-star",
+      "dated": false,
+      "seq": 785,
+      "note": "自称『我的时间不多了』，被触手疯狂吞噬"
+    },
+    "元神强度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch841-ancient-god-shattered-star",
+      "dated": false,
+      "seq": 785,
+      "note": "传音比之前更虚弱，仿佛随时消散"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch840-call-from-inside-wangyue"
+    "plot.xianni-ch840-call-from-inside-wangyue",
+    "plot.xianni-ch841-ancient-god-shattered-star"
   ],
-  "updatedAt": "2026-08-23T13:03:01.731Z"
+  "updatedAt": "2026-08-23T13:43:58.135Z"
 }
