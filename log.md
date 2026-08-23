@@ -257,3 +257,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T05:35:49.087Z** `ingest` plot.xianni-ch753-no-answer-liyuan-servant-soul-truth — 第753章 没有答案——王林推演李家奴印仆魂与仙人石像因果真相 · kind=plot asOf=2026-08-23 entities=23 relations=41 src=00711-00715.p4.md
 - **2026-08-23T05:37:55.840Z** `ingest` plot.xianni-ch754-ancient-god-hide-armor — 第754章 古神皮甲——李元破仙禁第四法，仙山白骨旁惊现皮甲 · kind=plot asOf=2026-08-23 entities=17 relations=27 src=00711-00715.p5.md
 - **2026-08-23T05:39:45.757Z** `ingest` plot.xianni-ch755-jinbian-transport-array-ambush — 第755章 惊变：古神之皮蜃幻杀阵与传送阵前的血空凝 · kind=plot asOf=2026-08-23 entities=11 relations=21 src=00716-00720.p1.md
+- **2026-08-23T05:42:21.505Z** `ingest` plot.xianni-ch756-trap-immortal-storage-space — 第756章 陷阱：血祖踏碎雷之仙界碎片，王林与李元遁入仙人储物空间 · kind=plot asOf=2026-08-23 entities=19 relations=27 src=00716-00720.p2.md
