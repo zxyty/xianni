@@ -10,9 +10,9 @@
     "身份": "葛家修士",
     "性别": "女",
     "存殁": "死亡",
-    "标志特征": "神情恍惚、面色苍白，曾以神识向王林求救",
+    "标志特征": "死前回头望向仙人石像；相貌与石像略似",
     "出身地": "葛家",
-    "死因": "被李元以仙力灌体炸为血雾，元神魂魄被石像吸收",
+    "死因": "被李元以仙力灌体炸为血雾，元神魂魄被石像吸收、被李元所杀",
     "结局": "临死回望石像时目露明悟，欲言而未能开口"
   },
   "observations": {
@@ -48,6 +48,11 @@
         "value": "神情恍惚、面色苍白，曾以神识向王林求救",
         "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
         "seq": 706
+      },
+      {
+        "value": "死前回头望向仙人石像；相貌与石像略似",
+        "docId": "plot.xianni-ch751-blood-ancestor-arrives",
+        "seq": 711
       }
     ],
     "出身地": [
@@ -62,6 +67,12 @@
         "value": "被李元以仙力灌体炸为血雾，元神魂魄被石像吸收",
         "docId": "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark",
         "seq": 711
+      },
+      {
+        "value": "被李元所杀",
+        "docId": "plot.xianni-ch751-blood-ancestor-arrives",
+        "seq": 711,
+        "note": "第711章记为死亡；本章为其死后余波"
       }
     ],
     "结局": [
@@ -94,9 +105,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
+      "docId": "plot.xianni-ch751-blood-ancestor-arrives",
       "dated": false,
-      "seq": 706
+      "seq": 711
     },
     "出身地": {
       "asOf": null,
@@ -121,7 +132,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
-    "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark"
+    "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark",
+    "plot.xianni-ch751-blood-ancestor-arrives"
   ],
-  "updatedAt": "2026-08-23T05:24:23.995Z"
+  "updatedAt": "2026-08-23T05:26:50.219Z"
 }
