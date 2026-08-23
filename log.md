@@ -315,3 +315,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T14:02:34.126Z** `ingest` plot.xianni-ch849-yao-bingyun-dao-heart-retreat-one-step — 第849章 退了一步——姚冰云道心之源与因果了结 · kind=plot asOf=2026-08-23 entities=13 relations=25 src=00790-00794.p4.md
 - **2026-08-23T14:05:10.943Z** `ingest` plot.xianni-ch850-yuanli-change-xieqing-disciple — 第850章 元力改变：因果小成入窥涅、收记名弟子谢青、姚云循镜追至 · kind=plot asOf=2026-08-23 entities=23 relations=35 src=00790-00794.p5.md
 - **2026-08-23T14:07:56.785Z** `ingest` plot.xianni-ch851-kui-nie-breakthrough-vs-yao-yun — 第851章 窥涅：王林因果道境入体破入窥涅，铜镜困杀姚云现青面角影 · kind=plot asOf=2026-08-23 entities=28 relations=45 src=00795-00799.p1.md
+- **2026-08-23T14:10:02.333Z** `ingest` plot.xianni-ch852-blood-god-child-appears — 第852章 血神子！——王林借古神大鼎换位灭古妖，血神子现身夺妖文 · kind=plot asOf=2026-08-23 entities=19 relations=27 src=00795-00799.p2.md

@@ -3,14 +3,17 @@
   "type": "artifact",
   "name": "古神大鼎",
   "aliases": [
-    "涂司的大鼎"
+    "涂司的大鼎",
+    "虚幻的大鼎",
+    "古神鼎"
   ],
   "summary": "散发极浓古神气息的大鼎，为古神涂司所弃，被望月吞入体内持续吸收其古神之气；鼎外角落有一道后刻的复杂符文，其上残留贪狼的神识烙印。",
   "attributes": {
-    "来历": "古神涂司扔掉之物",
-    "能力": "鼎内触手不侵，可作藏身处、借符文可施展此鼎的一些神通",
+    "来历": "带古神之气",
+    "能力": "鼎内触手不侵，可作藏身处、借符文可施展此鼎的一些神通、换位（与目标互换所在之位）、散发古神之气",
     "禁制": "鼎外角落有一道后刻的浅刻复杂符文，附有贪狼的神识烙印，令他人无法操控此鼎",
-    "持有者": "望月体内（贪狼烙印在，王林亦留下神识烙印）"
+    "持有者": "王林",
+    "外形": "虚幻大鼎"
   },
   "observations": {
     "来历": [
@@ -18,6 +21,12 @@
         "value": "古神涂司扔掉之物",
         "docId": "plot.xianni-837-ding-cauldron-wanglin-tanlang-brand",
         "seq": 780
+      },
+      {
+        "value": "带古神之气",
+        "docId": "plot.xianni-ch852-blood-god-child-appears",
+        "seq": 795,
+        "note": "古妖见之露出不可思议之色"
       }
     ],
     "能力": [
@@ -30,6 +39,16 @@
         "value": "借符文可施展此鼎的一些神通",
         "docId": "plot.xianni-837-ding-cauldron-wanglin-tanlang-brand",
         "seq": 780
+      },
+      {
+        "value": "换位（与目标互换所在之位）",
+        "docId": "plot.xianni-ch852-blood-god-child-appears",
+        "seq": 795
+      },
+      {
+        "value": "散发古神之气",
+        "docId": "plot.xianni-ch852-blood-god-child-appears",
+        "seq": 795
       }
     ],
     "禁制": [
@@ -45,6 +64,18 @@
         "docId": "plot.xianni-837-ding-cauldron-wanglin-tanlang-brand",
         "seq": 780,
         "note": "第837章：王林无法操控"
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch852-blood-god-child-appears",
+        "seq": 795
+      }
+    ],
+    "外形": [
+      {
+        "value": "虚幻大鼎",
+        "docId": "plot.xianni-ch852-blood-god-child-appears",
+        "seq": 795
       }
     ]
   },
@@ -52,9 +83,10 @@
   "attrProvenance": {
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-837-ding-cauldron-wanglin-tanlang-brand",
+      "docId": "plot.xianni-ch852-blood-god-child-appears",
       "dated": false,
-      "seq": 780
+      "seq": 795,
+      "note": "古妖见之露出不可思议之色"
     },
     "能力": {
       "asOf": null,
@@ -70,16 +102,22 @@
     },
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-837-ding-cauldron-wanglin-tanlang-brand",
+      "docId": "plot.xianni-ch852-blood-god-child-appears",
       "dated": false,
-      "seq": 780,
-      "note": "第837章：王林无法操控"
+      "seq": 795
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.xianni-ch852-blood-god-child-appears",
+      "dated": false,
+      "seq": 795
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-837-ding-cauldron-wanglin-tanlang-brand"
+    "plot.xianni-837-ding-cauldron-wanglin-tanlang-brand",
+    "plot.xianni-ch852-blood-god-child-appears"
   ],
-  "updatedAt": "2026-08-23T12:55:24.230Z"
+  "updatedAt": "2026-08-23T14:10:02.139Z"
 }
