@@ -4,19 +4,29 @@
   "name": "引仙府",
   "aliases": [
     "引仙府遗迹",
-    "仙人遗迹引仙府"
+    "仙人遗迹引仙府",
+    "引仙府废墟",
+    "仙人交易府",
+    "废墟城池"
   ],
   "summary": "被禁制伪装成平淡平原的仙人遗迹，李元施展家族禁制掀开伪装后显露为一片废墟城池，前立残破石碑刻「引仙府」三字。",
   "attributes": {
-    "所属界面": "雷之仙界",
-    "类型": "仙人遗迹/废墟城池",
-    "守护": "伪装禁制（被李元破开）"
+    "所属界面": "雷之仙界、雷之仙界（崩溃前）",
+    "类型": "仙人遗迹/废墟城池、废墟、仙人交易府",
+    "守护": "伪装禁制（被李元破开）、残余禁制波动",
+    "规模": "相当于凡人一座城池",
+    "危险度": "低（已被历次搜掠）"
   },
   "observations": {
     "所属界面": [
       {
         "value": "雷之仙界",
         "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
+        "seq": 731
+      },
+      {
+        "value": "雷之仙界（崩溃前）",
+        "docId": "plot.xianni-ch775-dark-hole-yinxian-mansion",
         "seq": 731
       }
     ],
@@ -25,6 +35,16 @@
         "value": "仙人遗迹/废墟城池",
         "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
         "seq": 731
+      },
+      {
+        "value": "废墟",
+        "docId": "plot.xianni-ch775-dark-hole-yinxian-mansion",
+        "seq": 731
+      },
+      {
+        "value": "仙人交易府",
+        "docId": "plot.xianni-ch775-dark-hole-yinxian-mansion",
+        "seq": 731
       }
     ],
     "守护": [
@@ -32,6 +52,26 @@
         "value": "伪装禁制（被李元破开）",
         "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
         "seq": 731
+      },
+      {
+        "value": "残余禁制波动",
+        "docId": "plot.xianni-ch775-dark-hole-yinxian-mansion",
+        "seq": 731
+      }
+    ],
+    "规模": [
+      {
+        "value": "相当于凡人一座城池",
+        "docId": "plot.xianni-ch775-dark-hole-yinxian-mansion",
+        "seq": 731
+      }
+    ],
+    "危险度": [
+      {
+        "value": "低（已被历次搜掠）",
+        "docId": "plot.xianni-ch775-dark-hole-yinxian-mansion",
+        "seq": 731,
+        "note": "但东首暗格藏有未启仙阵"
       }
     ]
   },
@@ -54,12 +94,26 @@
       "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
       "dated": false,
       "seq": 731
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch775-dark-hole-yinxian-mansion",
+      "dated": false,
+      "seq": 731
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch775-dark-hole-yinxian-mansion",
+      "dated": false,
+      "seq": 731,
+      "note": "但东首暗格藏有未启仙阵"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch774-zimu-daoku-beast-bone-artifact"
+    "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
+    "plot.xianni-ch775-dark-hole-yinxian-mansion"
   ],
-  "updatedAt": "2026-08-23T07:38:13.576Z"
+  "updatedAt": "2026-08-23T07:40:20.314Z"
 }
