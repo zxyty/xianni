@@ -4,14 +4,16 @@
   "name": "红色小针",
   "aliases": [
     "精气所化血针",
-    "红色血针"
+    "红色血针",
+    "血祖的红针"
   ],
   "summary": "姚惜雪以元神内仅存一丝精气凝成、藏于口中的小针，欲用以阻断生之烙印生机自尽，被王林捏碎化为血雾。",
   "attributes": {
-    "持有者": "姚惜雪",
-    "能力": "或可阻断生之烙印的生机输送",
-    "来历": "姚惜雪元神仅存一丝精气所化",
-    "外形": "红色小针"
+    "持有者": "王林",
+    "能力": "或可阻断生之烙印的生机输送、紧追不舍的追杀、被吸引返回血祖本体",
+    "来历": "血祖所有",
+    "外形": "红色之针，虚弱时半透明，散濒死气息",
+    "禁制": "王林以元神精气困牢所化封印"
   },
   "observations": {
     "持有者": [
@@ -19,6 +21,12 @@
         "value": "姚惜雪",
         "docId": "plot.xianni-ch567-second-question-yao-xixue",
         "seq": 537
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
+        "seq": 721,
+        "note": "本章封印夺取，随后放出追踪"
       }
     ],
     "能力": [
@@ -26,6 +34,16 @@
         "value": "或可阻断生之烙印的生机输送",
         "docId": "plot.xianni-ch567-second-question-yao-xixue",
         "seq": 537
+      },
+      {
+        "value": "紧追不舍的追杀",
+        "docId": "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
+        "seq": 721
+      },
+      {
+        "value": "被吸引返回血祖本体",
+        "docId": "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
+        "seq": 721
       }
     ],
     "来历": [
@@ -33,6 +51,11 @@
         "value": "姚惜雪元神仅存一丝精气所化",
         "docId": "plot.xianni-ch567-second-question-yao-xixue",
         "seq": 537
+      },
+      {
+        "value": "血祖所有",
+        "docId": "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
+        "seq": 721
       }
     ],
     "外形": [
@@ -40,6 +63,19 @@
         "value": "红色小针",
         "docId": "plot.xianni-ch567-second-question-yao-xixue",
         "seq": 537
+      },
+      {
+        "value": "红色之针，虚弱时半透明，散濒死气息",
+        "docId": "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
+        "seq": 721
+      }
+    ],
+    "禁制": [
+      {
+        "value": "王林以元神精气困牢所化封印",
+        "docId": "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
+        "seq": 721,
+        "note": "封印不稳定，随时可能冲出"
       }
     ]
   },
@@ -47,9 +83,10 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch567-second-question-yao-xixue",
+      "docId": "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
       "dated": false,
-      "seq": 537
+      "seq": 721,
+      "note": "本章封印夺取，随后放出追踪"
     },
     "能力": {
       "asOf": null,
@@ -59,21 +96,29 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch567-second-question-yao-xixue",
+      "docId": "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
       "dated": false,
-      "seq": 537
+      "seq": 721
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch567-second-question-yao-xixue",
+      "docId": "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
       "dated": false,
-      "seq": 537
+      "seq": 721
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
+      "dated": false,
+      "seq": 721,
+      "note": "封印不稳定，随时可能冲出"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch567-second-question-yao-xixue"
+    "plot.xianni-ch567-second-question-yao-xixue",
+    "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse"
   ],
-  "updatedAt": "2026-08-22T09:26:17.870Z"
+  "updatedAt": "2026-08-23T06:08:09.907Z"
 }

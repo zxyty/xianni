@@ -9,11 +9,11 @@
   ],
   "summary": "内有两条山脉、三处山谷的独立空间，天地时现裂缝、无法瞬移；三谷各设禁制护宝。",
   "attributes": {
-    "类型": "法宝内独立空间、储物空间/秘境",
+    "类型": "法宝内独立空间、储物空间/秘境、储物空间／独立小空间",
     "所属势力": "血祖",
     "规模": "两条山脉、三处山谷",
-    "危险度": "高（空间裂缝密布、禁制阴损）、极高",
-    "守护": "谷内雾气化箭禁制"
+    "危险度": "高（空间裂缝密布、禁制阴损）、极高、完全崩溃、万物湮灭",
+    "守护": "一千多个禁制"
   },
   "observations": {
     "类型": [
@@ -26,6 +26,11 @@
         "value": "储物空间/秘境",
         "docId": "plot.xianni-ch759-storage-space-collapse-ready",
         "seq": 716
+      },
+      {
+        "value": "储物空间／独立小空间",
+        "docId": "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
+        "seq": 721
       }
     ],
     "所属势力": [
@@ -53,6 +58,12 @@
         "docId": "plot.xianni-ch759-storage-space-collapse-ready",
         "seq": 716,
         "note": "布满1465个崩溃点，随时可引爆"
+      },
+      {
+        "value": "完全崩溃、万物湮灭",
+        "docId": "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
+        "seq": 721,
+        "note": "第762–764章"
       }
     ],
     "守护": [
@@ -60,6 +71,11 @@
         "value": "谷内雾气化箭禁制",
         "docId": "plot.xianni-c757-beast-bones-storage-space-valleys",
         "seq": 716
+      },
+      {
+        "value": "一千多个禁制",
+        "docId": "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
+        "seq": 721
       }
     ]
   },
@@ -91,16 +107,17 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-c757-beast-bones-storage-space-valleys",
+      "docId": "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
       "dated": false,
-      "seq": 716
+      "seq": 721
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-c757-beast-bones-storage-space-valleys",
-    "plot.xianni-ch759-storage-space-collapse-ready"
+    "plot.xianni-ch759-storage-space-collapse-ready",
+    "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse"
   ],
-  "updatedAt": "2026-08-23T05:53:51.131Z"
+  "updatedAt": "2026-08-23T06:08:09.879Z"
 }

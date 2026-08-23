@@ -262,3 +262,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T05:51:55.211Z** `ingest` plot.xianni-ch758-immortal-relic-second-valley — 第758章 仙人遗物：王林破第二山谷禁制夺兽头骨、掌裂山壁 · kind=plot asOf=2026-08-23 entities=34 relations=49 src=00716-00720.p4.md
 - **2026-08-23T05:53:51.306Z** `ingest` plot.xianni-ch759-storage-space-collapse-ready — 第759章 准确就绪：李元布下1465个崩溃点，王林决意弑血祖 · kind=plot asOf=2026-08-23 entities=19 relations=25 src=00716-00720.p5.md
 - **2026-08-23T05:56:33.018Z** `ingest` plot.xianni-ch760-blood-ancestor-arrives-immortal-guard-body-bait — 第760章 终于来了：王林藏本体、以仙卫为饵，血祖现身雷之仙界 · kind=plot asOf=2026-08-23 entities=31 relations=41 src=00721-00724.p1.md
+- **2026-08-23T06:08:10.091Z** `ingest` plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse — 第761章 弑仙：王林以仙人储物空间为局，交出姚惜雪后困杀血祖 · kind=plot asOf=2026-08-23 entities=37 relations=63 src=00721-00724.p2.md

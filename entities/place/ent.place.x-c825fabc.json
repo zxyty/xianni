@@ -13,11 +13,12 @@
   ],
   "summary": "血祖姚星海在天运星外独自占据的一星，圈养土著为其开荒纳血以修炼魔功，父女常年居此。",
   "attributes": {
-    "类型": "星球",
+    "类型": "星辰",
     "所属势力": "血祖势力",
     "危险度": "外围有罡风；由血星红发男子镇守",
     "方位": "七级修真星天运星之外的星空",
-    "守护": "血星红发男子"
+    "守护": "血星红发男子",
+    "上级区域": "联盟星域"
   },
   "observations": {
     "类型": [
@@ -30,6 +31,11 @@
         "value": "星球",
         "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
         "seq": 571
+      },
+      {
+        "value": "星辰",
+        "docId": "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
+        "seq": 721
       }
     ],
     "所属势力": [
@@ -69,15 +75,22 @@
         "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
         "seq": 571
       }
+    ],
+    "上级区域": [
+      {
+        "value": "联盟星域",
+        "docId": "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
+        "seq": 721
+      }
     ]
   },
   "firstSeq": 491,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
+      "docId": "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
       "dated": false,
-      "seq": 571
+      "seq": 721
     },
     "所属势力": {
       "asOf": null,
@@ -102,6 +115,12 @@
       "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
       "dated": false,
       "seq": 571
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
+      "dated": false,
+      "seq": 721
     }
   },
   "contested": false,
@@ -111,7 +130,8 @@
     "plot.chapter-595-simplest-heavenly-tribulation-no",
     "plot.xianni-ch611-buwang-zhuque-first-act",
     "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
-    "plot.xianni-ch689-692-zhankonglie-suspicion-leichi"
+    "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
+    "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse"
   ],
-  "updatedAt": "2026-08-23T03:05:18.963Z"
+  "updatedAt": "2026-08-23T06:08:09.920Z"
 }
