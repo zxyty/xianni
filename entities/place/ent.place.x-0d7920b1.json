@@ -17,17 +17,22 @@
     "王林本体隐藏的碎片大陆",
     "大陆边缘的虚无",
     "王林藏身的碎片大陆",
-    "虚无中的碎片大陆"
+    "虚无中的碎片大陆",
+    "雷之仙界众多碎片",
+    "半透明的大陆",
+    "四大修真家族禁地",
+    "闪烁的碎片大陆"
   ],
   "summary": "雷之仙界中一块崩溃的碎片大陆，王林的雷霆流星坠落于其东侧地面，砸出极深天坑；大陆本已不稳，受冲击后更加动荡。",
   "attributes": {
     "所属界面": "雷之仙界",
-    "类型": "崩溃碎片大陆、碎片大陆、界域碎片大陆、破碎的陆地/遗迹之地、漂浮碎片大陆、碎片大陆/虚无区域、大陆／战场、仙界遗留碎片所化陆地、虚无中的大陆碎片",
-    "危险度": "高（濒临崩溃）、中（多为问鼎期修士出没，偶有阴虚修士）、高（有诱饵禁制与噬人天鬼）、极高（古禁杀人夺宝，且有强敌神识锁定）、极高（天劫笼罩）",
+    "类型": "崩溃碎片大陆、碎片大陆、界域碎片大陆、破碎的陆地/遗迹之地、漂浮碎片大陆、碎片大陆/虚无区域、大陆／战场、仙界遗留碎片所化陆地、虚无中的大陆碎片、破碎大陆、禁地·被分离的碎片界面",
+    "危险度": "高（濒临崩溃）、中（多为问鼎期修士出没，偶有阴虚修士）、高（有诱饵禁制与噬人天鬼）、极高（古禁杀人夺宝，且有强敌神识锁定）、极高（天劫笼罩）、高、极高（四名阳实修士守护）",
     "特产": "仙界山石",
     "规模": "不足千丈",
-    "守护": "蜃幻杀人禁制",
-    "方位": "王林正前方虚无深处、虚无尽头"
+    "守护": "禁制光幕与四名阳实修士",
+    "方位": "王林正前方虚无深处、虚无尽头、散布于雷之仙界虚无中，另有『中心位置』",
+    "所属势力": "四大修真家族"
   },
   "observations": {
     "所属界面": [
@@ -82,6 +87,16 @@
         "value": "虚无中的大陆碎片",
         "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
         "seq": 729
+      },
+      {
+        "value": "破碎大陆",
+        "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+        "seq": 736
+      },
+      {
+        "value": "禁地·被分离的碎片界面",
+        "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+        "seq": 736
       }
     ],
     "危险度": [
@@ -109,6 +124,16 @@
         "value": "极高（天劫笼罩）",
         "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
         "seq": 725
+      },
+      {
+        "value": "高",
+        "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+        "seq": 736
+      },
+      {
+        "value": "极高（四名阳实修士守护）",
+        "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+        "seq": 736
       }
     ],
     "特产": [
@@ -146,6 +171,11 @@
         "value": "蜃幻杀人禁制",
         "docId": "plot.xianni-ch755-jinbian-transport-array-ambush",
         "seq": 716
+      },
+      {
+        "value": "禁制光幕与四名阳实修士",
+        "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+        "seq": 736
       }
     ],
     "方位": [
@@ -158,6 +188,18 @@
         "value": "虚无尽头",
         "docId": "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan",
         "seq": 729
+      },
+      {
+        "value": "散布于雷之仙界虚无中，另有『中心位置』",
+        "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+        "seq": 736
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "四大修真家族",
+        "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+        "seq": 736
       }
     ]
   },
@@ -196,15 +238,21 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch755-jinbian-transport-array-ambush",
+      "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
       "dated": false,
-      "seq": 716
+      "seq": 736
     },
     "方位": {
       "asOf": null,
       "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
       "dated": false,
       "seq": 729
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+      "dated": false,
+      "seq": 736
     }
   },
   "contested": false,
@@ -219,7 +267,8 @@
     "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
     "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
     "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
-    "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan"
+    "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan",
+    "plot.xianni-ch779-jijing-reappears-vortex-seal-broken"
   ],
-  "updatedAt": "2026-08-23T07:26:37.272Z"
+  "updatedAt": "2026-08-23T08:06:47.727Z"
 }

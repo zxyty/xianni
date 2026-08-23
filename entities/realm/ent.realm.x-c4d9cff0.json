@@ -14,14 +14,18 @@
     "极境之力",
     "Jijing",
     "红色血滴",
-    "红色闪电"
+    "红色闪电",
+    "极境红芒",
+    "极境神通"
   ],
   "summary": "上古灵力三境之一。同级灵力无敌、可不需法宝，但属性走极端不兼容、难入化神；元婴后期可为化神以下第一人。",
   "attributes": {
-    "阶序": "极、道、始三境之一",
-    "突破关键": "属性走极端，无法兼容，难突破化神期、元婴后期为修为终点,无法达化神期、天地法则不容元婴期以上极境修士、修星之晶催化可突破极限、以修星之晶催化、本章仅体现其威能：一丝极境即可秒杀元婴期、修星之晶可使其进化、可由灵力形态转化至神识形态",
+    "阶序": "终点为元婴期",
+    "突破关键": "属性走极端，无法兼容，难突破化神期、元婴后期为修为终点,无法达化神期、天地法则不容元婴期以上极境修士、修星之晶催化可突破极限、以修星之晶催化、本章仅体现其威能：一丝极境即可秒杀元婴期、修星之晶可使其进化、可由灵力形态转化至神识形态、疑存在晋级之法",
     "突破征兆": "体内蕴含奇异之力",
-    "小阶段": "无视初/中/后三期"
+    "小阶段": "无视初/中/后三期",
+    "上一境": "—",
+    "下一境": "元婴期"
   },
   "observations": {
     "阶序": [
@@ -54,6 +58,11 @@
         "value": "极、道、始三境之一",
         "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
         "seq": 505
+      },
+      {
+        "value": "终点为元婴期",
+        "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+        "seq": 736
       }
     ],
     "突破关键": [
@@ -99,6 +108,12 @@
         "value": "可由灵力形态转化至神识形态",
         "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
         "seq": 505
+      },
+      {
+        "value": "疑存在晋级之法",
+        "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+        "seq": 736,
+        "note": "王林推测，未证实"
       }
     ],
     "突破征兆": [
@@ -124,15 +139,29 @@
         "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
         "seq": 106
       }
+    ],
+    "上一境": [
+      {
+        "value": "—",
+        "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+        "seq": 736
+      }
+    ],
+    "下一境": [
+      {
+        "value": "元婴期",
+        "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+        "seq": 736
+      }
     ]
   },
   "firstSeq": 76,
   "attrProvenance": {
     "阶序": {
       "asOf": null,
-      "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+      "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
       "dated": false,
-      "seq": 505
+      "seq": 736
     },
     "突破关键": {
       "asOf": null,
@@ -151,6 +180,18 @@
       "docId": "plot.xianni-ch106-110-tomb-jailer-devourer-wanglin-possess-maliang",
       "dated": false,
       "seq": 106
+    },
+    "上一境": {
+      "asOf": null,
+      "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+      "dated": false,
+      "seq": 736
+    },
+    "下一境": {
+      "asOf": null,
+      "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+      "dated": false,
+      "seq": 736
     }
   },
   "contested": false,
@@ -180,7 +221,8 @@
     "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
     "plot.xianni-ch427-ancestral-spirit-tree",
     "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
-    "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing"
+    "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+    "plot.xianni-ch779-jijing-reappears-vortex-seal-broken"
   ],
-  "updatedAt": "2026-08-22T02:15:05.916Z"
+  "updatedAt": "2026-08-23T08:06:47.700Z"
 }

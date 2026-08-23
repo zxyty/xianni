@@ -9,8 +9,9 @@
   ],
   "summary": "罗天星域传承至仙界的四大修真家族，无数年前联手封印雷之仙界碎片大陆，长期把持藏诀阁作为专属之地。",
   "attributes": {
-    "据点": "把持雷之仙界碎片大陆·藏诀阁",
-    "理念": "封锁藏诀阁，不允许外人踏入，每次开启只送本族族人入内"
+    "据点": "碎片大陆·藏品阁",
+    "理念": "外人无资格进入藏品阁，除非窥涅修士",
+    "所属界面": "雷之仙界"
   },
   "observations": {
     "据点": [
@@ -18,6 +19,11 @@
         "value": "把持雷之仙界碎片大陆·藏诀阁",
         "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
         "seq": 731
+      },
+      {
+        "value": "碎片大陆·藏品阁",
+        "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+        "seq": 736
       }
     ],
     "理念": [
@@ -25,6 +31,19 @@
         "value": "封锁藏诀阁，不允许外人踏入，每次开启只送本族族人入内",
         "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
         "seq": 731
+      },
+      {
+        "value": "外人无资格进入藏品阁，除非窥涅修士",
+        "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+        "seq": 736,
+        "note": "第736章守阁者所述"
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "雷之仙界",
+        "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+        "seq": 736
       }
     ]
   },
@@ -32,21 +51,29 @@
   "attrProvenance": {
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
+      "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
       "dated": false,
-      "seq": 731
+      "seq": 736
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
+      "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
       "dated": false,
-      "seq": 731
+      "seq": 736,
+      "note": "第736章守阁者所述"
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+      "dated": false,
+      "seq": 736
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch774-zimu-daoku-beast-bone-artifact"
+    "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
+    "plot.xianni-ch779-jijing-reappears-vortex-seal-broken"
   ],
-  "updatedAt": "2026-08-23T07:38:13.579Z"
+  "updatedAt": "2026-08-23T08:06:47.729Z"
 }

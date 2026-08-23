@@ -7,17 +7,22 @@
     "Zhan Konglie",
     "阴柔男子",
     "战空烈晚辈",
-    "战空烈道友"
+    "战空烈道友",
+    "战大哥",
+    "战某",
+    "Zhan Kongli"
   ],
   "summary": "战家天资极高者，阳实圆满修为，踏紫色木剑而来；性格极为谨慎，通过申公虎的态度与雷兽的敬畏推断王林隐匿了真实修为。",
   "attributes": {
     "性别": "男",
-    "小阶段": "阳实圆满",
-    "性格": "谨慎多疑、心念急转、阴柔",
-    "外貌": "约三十余岁，面白无须略英俊，凤目阴柔，身穿紫金大袍、面色阴沉",
+    "小阶段": "阳实",
+    "性格": "谨慎多疑、心念急转、阴柔、内在狂傲，连家族长辈亦不看在眼里；对王林彻底敬服",
+    "外貌": "约三十余岁，面白无须略英俊，凤目阴柔，身穿紫金大袍、面色阴沉、相貌三十余岁，面白无须略有英俊，凤目露阴柔之相，身穿紫金大袍",
     "标志特征": "脚踏通体紫色木剑，掐诀化紫色雷光",
     "本命法宝": "木剑",
-    "身份": "战家后辈、雷仙殿使者（已接召书）"
+    "身份": "战家后辈、雷仙殿使者（已接召书）、雷仙殿使者",
+    "称号": "南域三杰",
+    "出身地": "罗天南域"
   },
   "observations": {
     "性别": [
@@ -32,6 +37,11 @@
         "value": "阳实圆满",
         "docId": "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
         "seq": 689
+      },
+      {
+        "value": "阳实",
+        "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+        "seq": 736
       }
     ],
     "性格": [
@@ -45,6 +55,11 @@
         "docId": "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
         "seq": 689,
         "note": "申公虎的评语"
+      },
+      {
+        "value": "内在狂傲，连家族长辈亦不看在眼里；对王林彻底敬服",
+        "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+        "seq": 736
       }
     ],
     "外貌": [
@@ -57,6 +72,11 @@
         "value": "面色阴沉",
         "docId": "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
         "seq": 689
+      },
+      {
+        "value": "相貌三十余岁，面白无须略有英俊，凤目露阴柔之相，身穿紫金大袍",
+        "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+        "seq": 736
       }
     ],
     "标志特征": [
@@ -83,6 +103,25 @@
         "value": "雷仙殿使者（已接召书）",
         "docId": "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
         "seq": 689
+      },
+      {
+        "value": "雷仙殿使者",
+        "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+        "seq": 736
+      }
+    ],
+    "称号": [
+      {
+        "value": "南域三杰",
+        "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+        "seq": 736
+      }
+    ],
+    "出身地": [
+      {
+        "value": "罗天南域",
+        "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+        "seq": 736
       }
     ]
   },
@@ -96,9 +135,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
+      "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
       "dated": false,
-      "seq": 689
+      "seq": 736
     },
     "性格": {
       "asOf": null,
@@ -129,12 +168,25 @@
       "docId": "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
       "dated": false,
       "seq": 689
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+      "dated": false,
+      "seq": 736
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+      "dated": false,
+      "seq": 736
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch689-692-zhankonglie-suspicion-leichi"
+    "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
+    "plot.xianni-ch779-jijing-reappears-vortex-seal-broken"
   ],
-  "updatedAt": "2026-08-23T03:05:18.922Z"
+  "updatedAt": "2026-08-23T08:06:47.680Z"
 }

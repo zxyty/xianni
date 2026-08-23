@@ -3,12 +3,14 @@
   "type": "faction",
   "name": "吕家",
   "aliases": [
-    "东临星吕家"
+    "东临星吕家",
+    "吕道友家族"
   ],
   "summary": "东临星三大最强家族之一。孙泰曾在此为杂役近百年，其身上的烙印曾被吕家一人破除。",
   "attributes": {
     "据点": "东临星",
-    "等级": "东临星三大最强家族之一"
+    "等级": "东临星三大最强家族之一",
+    "阵营": "罗天星域家族"
   },
   "observations": {
     "据点": [
@@ -23,6 +25,13 @@
         "value": "东临星三大最强家族之一",
         "docId": "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
         "seq": 626
+      }
+    ],
+    "阵营": [
+      {
+        "value": "罗天星域家族",
+        "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+        "seq": 736
       }
     ]
   },
@@ -39,12 +48,19 @@
       "docId": "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
       "dated": false,
       "seq": 626
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+      "dated": false,
+      "seq": 736
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch670-sun-tai-reunion-cause-and-effect"
+    "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
+    "plot.xianni-ch779-jijing-reappears-vortex-seal-broken"
   ],
-  "updatedAt": "2026-08-22T22:42:44.920Z"
+  "updatedAt": "2026-08-23T08:06:47.753Z"
 }

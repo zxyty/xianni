@@ -275,3 +275,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T07:42:40.618Z** `ingest` plot.xianni-ch776-thousand-zhang-forbidden-zone-tang-yanyun-death — 第776章 千丈禁地，入者死！——王林秒杀唐言云，唐家四人踏入千丈 · kind=plot asOf=2026-08-23 entities=26 relations=33 src=00731-00735.p3.md
 - **2026-08-23T07:44:31.197Z** `ingest` plot.xianni-ch777-wo-jiao-xumu — 第777章 我叫许木！——王林一眼十步震杀阴虚修士，唐言枫忌惮止步 · kind=plot asOf=2026-08-23 entities=16 relations=26 src=00731-00735.p4.md
 - **2026-08-23T07:47:07.017Z** `ingest` plot.xianni-ch778-jubian-zhixu-fuwen-tongdao-liaoshang-dazhen — 第778章 剧变之序：符文通道尽头的疗伤大阵与仙人之问 · kind=plot asOf=2026-08-23 entities=23 relations=34 src=00731-00735.p5.md
+- **2026-08-23T08:06:47.951Z** `ingest` plot.xianni-ch779-jijing-reappears-vortex-seal-broken — 第779章 极境再现：漩涡眼珠诱人破封，王林体内留下一丝极境 · kind=plot asOf=2026-08-23 entities=86 relations=153 src=00736-00739.md

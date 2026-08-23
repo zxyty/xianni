@@ -4,16 +4,19 @@
   "name": "吕松义",
   "aliases": [
     "吕姓老者",
-    "郭邢佚的师叔"
+    "郭邢佚的师叔",
+    "吕道友",
+    "失去肉身的老者"
   ],
   "summary": "大罗剑宗化神期修士、郭邢佚的师叔，奉命采耀金果，被灰气穿透瞬移空间波纹钻入体内，身躯膨胀爆裂而死。",
   "attributes": {
     "小阶段": "化神期",
-    "身份": "大罗剑宗修士、郭邢佚的师叔",
+    "身份": "大罗剑宗修士、郭邢佚的师叔、吕家老者",
     "阵营": "大罗剑宗",
-    "存殁": "死亡",
+    "存殁": "元神尚存、肉身已毁",
     "死因": "被王林的灰气钻入体内，身躯膨胀崩溃而亡",
-    "结局": "第511章身死，血肉洒落山谷"
+    "结局": "第511章身死，血肉洒落山谷",
+    "标志特征": "自断一臂后仅存元神"
   },
   "observations": {
     "小阶段": [
@@ -33,6 +36,11 @@
         "value": "郭邢佚的师叔",
         "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
         "seq": 486
+      },
+      {
+        "value": "吕家老者",
+        "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+        "seq": 736
       }
     ],
     "阵营": [
@@ -47,6 +55,12 @@
         "value": "死亡",
         "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
         "seq": 486
+      },
+      {
+        "value": "元神尚存、肉身已毁",
+        "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+        "seq": 736,
+        "note": "弃肉身逃生，肉身化石雕"
       }
     ],
     "死因": [
@@ -61,6 +75,13 @@
         "value": "第511章身死，血肉洒落山谷",
         "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
         "seq": 486
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "自断一臂后仅存元神",
+        "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+        "seq": 736
       }
     ]
   },
@@ -86,9 +107,10 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+      "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
       "dated": false,
-      "seq": 486
+      "seq": 736,
+      "note": "弃肉身逃生，肉身化石雕"
     },
     "死因": {
       "asOf": null,
@@ -101,12 +123,19 @@
       "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
       "dated": false,
       "seq": 486
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+      "dated": false,
+      "seq": 736
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit"
+    "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+    "plot.xianni-ch779-jijing-reappears-vortex-seal-broken"
   ],
-  "updatedAt": "2026-08-21T10:41:37.777Z"
+  "updatedAt": "2026-08-23T08:06:47.762Z"
 }
