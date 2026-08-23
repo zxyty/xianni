@@ -354,3 +354,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T18:13:51.308Z** `ingest` plot.xianni-ch897-feng-sao-can-ye-wang-lin-qing-jiao-shi-yin-zong — 第897章 风扫残叶：王林以窥涅神识横扫大王朝，覆灭赵国尸阴宗总部 · kind=plot asOf=2026-08-23 entities=21 relations=36 src=00834-00838.p5.md
 - **2026-08-23T18:16:36.827Z** `ingest` plot.xianni-ch898-lei-ji-shiyinzong-liuqingyun — 第898章 雷吉——尸阴宗深处开棺救巨魔族，逼降怨殿副殿主刘青云 · kind=plot asOf=2026-08-23 entities=22 relations=30 src=00839-00839.p1a.md
 - **2026-08-23T18:24:26.287Z** `ingest` plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured — 第898章 雷吉（1/2·段2）：王林诛刘青云——火尸自爆诡计与古神鼎脱身 · kind=plot asOf=2026-08-23 entities=50 relations=72 src=00839-00839.p1b.md
+- **2026-08-23T18:32:17.279Z** `ingest` plot.xianni-ch898-zhuque-star-karma-repayment — 第898章 雷吉(之1/2·段3/3)：王林重返朱雀星了却旧日因果 · kind=plot asOf=2026-08-23 entities=41 relations=78 src=00839-00839.p1c.md

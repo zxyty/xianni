@@ -2,14 +2,18 @@
   "id": "ent.person.x-5276071c",
   "type": "person",
   "name": "杨雄",
-  "aliases": [],
+  "aliases": [
+    "周师兄勿混"
+  ],
   "summary": "被王林收为奴，恐惧王林舍弃马良而夺舍自己身体。",
   "attributes": {
-    "身份": "王林之奴、殿主得意弟子、战神殿弟子、王林属下、战神殿巡逻弟子",
-    "小阶段": "筑基后期",
+    "身份": "王林之奴、殿主得意弟子、战神殿弟子、王林属下、战神殿巡逻弟子、火焚国战神殿修士",
+    "小阶段": "化神后期",
     "阵营": "受王林魂血操控",
     "性别": "男",
-    "性格": "沉稳"
+    "性格": "沉稳",
+    "外貌": "相貌年轻却带一股沧桑",
+    "寿元": "已经不多"
   },
   "observations": {
     "身份": [
@@ -37,6 +41,11 @@
         "value": "战神殿巡逻弟子",
         "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
         "seq": 123
+      },
+      {
+        "value": "火焚国战神殿修士",
+        "docId": "plot.xianni-ch898-zhuque-star-karma-repayment",
+        "seq": 839
       }
     ],
     "小阶段": [
@@ -44,6 +53,12 @@
         "value": "筑基后期",
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
+      },
+      {
+        "value": "化神后期",
+        "docId": "plot.xianni-ch898-zhuque-star-karma-repayment",
+        "seq": 839,
+        "note": "第898章"
       }
     ],
     "阵营": [
@@ -72,6 +87,21 @@
         "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
         "seq": 111
       }
+    ],
+    "外貌": [
+      {
+        "value": "相貌年轻却带一股沧桑",
+        "docId": "plot.xianni-ch898-zhuque-star-karma-repayment",
+        "seq": 839
+      }
+    ],
+    "寿元": [
+      {
+        "value": "已经不多",
+        "docId": "plot.xianni-ch898-zhuque-star-karma-repayment",
+        "seq": 839,
+        "note": "第898章自述"
+      }
     ]
   },
   "firstSeq": 106,
@@ -84,9 +114,10 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
+      "docId": "plot.xianni-ch898-zhuque-star-karma-repayment",
       "dated": false,
-      "seq": 111
+      "seq": 839,
+      "note": "第898章"
     },
     "阵营": {
       "asOf": null,
@@ -106,6 +137,19 @@
       "docId": "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
       "dated": false,
       "seq": 111
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch898-zhuque-star-karma-repayment",
+      "dated": false,
+      "seq": 839
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.xianni-ch898-zhuque-star-karma-repayment",
+      "dated": false,
+      "seq": 839,
+      "note": "第898章自述"
     }
   },
   "contested": false,
@@ -115,7 +159,8 @@
     "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
     "plot.xianni-ch130-yuanying-huran-return-hunxue",
     "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
-    "plot.xianni-ch123-125-tianli-dan-huofen-invasion"
+    "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+    "plot.xianni-ch898-zhuque-star-karma-repayment"
   ],
-  "updatedAt": "2026-07-06T12:31:07.447Z"
+  "updatedAt": "2026-08-23T18:32:16.994Z"
 }

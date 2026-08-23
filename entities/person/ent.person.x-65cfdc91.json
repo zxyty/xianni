@@ -4,20 +4,22 @@
   "name": "张虎",
   "aliases": [
     "张师兄",
-    "冷峻青年"
+    "冷峻青年",
+    "先祖张虎"
   ],
   "summary": "恒岳派记名弟子，砍柴杂务已三年，与王林同屋结交。",
   "attributes": {
-    "身份": "恒岳派记名弟子（砍柴）、恒岳派记名弟子、恒岳派弟子、恒岳派后山管事师兄、恒岳派内门弟子、白展弟子、赵国旧友、恒岳派弟子（废人）、王林早年同伴、恒岳派旧友",
+    "身份": "恒岳派记名弟子（砍柴）、恒岳派记名弟子、恒岳派弟子、恒岳派后山管事师兄、恒岳派内门弟子、白展弟子、赵国旧友、恒岳派弟子（废人）、王林早年同伴、恒岳派旧友、修士",
     "性格": "严厉、护短秉公",
     "标志特征": "灵力散乱、经脉脆弱、被炼丹保命",
     "阵营": "恒岳派",
     "称号": "大当家",
     "小阶段": "凝气期第三层",
     "出身地": "恒岳派记名弟子",
-    "存殁": "失踪",
+    "存殁": "死亡",
     "性别": "男",
-    "外貌": "虚弱中年人"
+    "外貌": "虚弱中年人",
+    "结局": "已死去，血脉留存于赵国合欢宗一名外围弟子女子身上"
   },
   "observations": {
     "身份": [
@@ -71,6 +73,11 @@
         "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
         "seq": 263,
         "note": "第263章为回忆"
+      },
+      {
+        "value": "修士",
+        "docId": "plot.xianni-ch898-zhuque-star-karma-repayment",
+        "seq": 839
       }
     ],
     "性格": [
@@ -178,6 +185,11 @@
         "docId": "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong",
         "seq": 220,
         "note": "当年藤家城一役后生死未知"
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch898-zhuque-star-karma-repayment",
+        "seq": 839
       }
     ],
     "性别": [
@@ -193,6 +205,13 @@
         "docId": "plot.xianni-ch222-225-core-clan-members",
         "seq": 222,
         "note": "第238章相貌苍老、灵力散乱、经脉脆弱"
+      }
+    ],
+    "结局": [
+      {
+        "value": "已死去，血脉留存于赵国合欢宗一名外围弟子女子身上",
+        "docId": "plot.xianni-ch898-zhuque-star-karma-repayment",
+        "seq": 839
       }
     ]
   },
@@ -242,10 +261,9 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong",
+      "docId": "plot.xianni-ch898-zhuque-star-karma-repayment",
       "dated": false,
-      "seq": 220,
-      "note": "当年藤家城一役后生死未知"
+      "seq": 839
     },
     "性别": {
       "asOf": null,
@@ -259,6 +277,12 @@
       "dated": false,
       "seq": 222,
       "note": "第238章相貌苍老、灵力散乱、经脉脆弱"
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch898-zhuque-star-karma-repayment",
+      "dated": false,
+      "seq": 839
     }
   },
   "contested": false,
@@ -277,7 +301,8 @@
     "plot.xianni-ch236-237-wanglin-tu-tengjia-wufenggu-hehuanzong",
     "plot.xianni-ch222-225-core-clan-members",
     "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
-    "plot.xianni-ch263-267-tianni-change-xueyu-country"
+    "plot.xianni-ch263-267-tianni-change-xueyu-country",
+    "plot.xianni-ch898-zhuque-star-karma-repayment"
   ],
-  "updatedAt": "2026-08-02T10:56:50.724Z"
+  "updatedAt": "2026-08-23T18:32:16.991Z"
 }
