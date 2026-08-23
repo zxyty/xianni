@@ -11,7 +11,8 @@
     "类型": "高塔",
     "方位": "杀域界正中",
     "规模": "高不下千丈",
-    "上级区域": "杀域界"
+    "上级区域": "杀域界",
+    "所属势力": "杀域界"
   },
   "observations": {
     "类型": [
@@ -41,6 +42,13 @@
         "docId": "plot.xianni-ch898-lei-ji-2-restore-zhuque-star-soul",
         "seq": 839
       }
+    ],
+    "所属势力": [
+      {
+        "value": "杀域界",
+        "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
+        "seq": 845
+      }
     ]
   },
   "firstSeq": 839,
@@ -68,12 +76,19 @@
       "docId": "plot.xianni-ch898-lei-ji-2-restore-zhuque-star-soul",
       "dated": false,
       "seq": 839
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
+      "dated": false,
+      "seq": 845
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch898-lei-ji-2-restore-zhuque-star-soul"
+    "plot.xianni-ch898-lei-ji-2-restore-zhuque-star-soul",
+    "plot.xianni-ch911-sha-yu-jie-kill-yu-fei"
   ],
-  "updatedAt": "2026-08-23T18:34:29.789Z"
+  "updatedAt": "2026-08-23T19:35:24.396Z"
 }

@@ -2,11 +2,14 @@
   "id": "ent.place.x-692af435",
   "type": "place",
   "name": "联盟西部",
-  "aliases": [],
+  "aliases": [
+    "修真联盟西部"
+  ],
   "summary": "章末赤衣冰寒男子急速奔赴的方向。",
   "attributes": {
     "方位": "联盟星域西部",
-    "上级区域": "联盟星域"
+    "上级区域": "联盟星域",
+    "所属势力": "修真联盟"
   },
   "observations": {
     "方位": [
@@ -21,6 +24,13 @@
         "value": "联盟星域",
         "docId": "plot.xianni-ch907-zhuque-sequence",
         "seq": 840
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "修真联盟",
+        "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
+        "seq": 845
       }
     ]
   },
@@ -37,12 +47,19 @@
       "docId": "plot.xianni-ch907-zhuque-sequence",
       "dated": false,
       "seq": 840
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
+      "dated": false,
+      "seq": 845
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch907-zhuque-sequence"
+    "plot.xianni-ch907-zhuque-sequence",
+    "plot.xianni-ch911-sha-yu-jie-kill-yu-fei"
   ],
-  "updatedAt": "2026-08-23T19:25:51.704Z"
+  "updatedAt": "2026-08-23T19:35:24.397Z"
 }

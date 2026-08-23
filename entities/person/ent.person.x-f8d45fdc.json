@@ -7,19 +7,24 @@
     "Yu Fei",
     "红衣人于非",
     "红衣人",
-    "于某"
+    "于某",
+    "魂杀二侍之一",
+    "魂侍于非"
   ],
   "summary": "修真联盟杀域界杀侍，红衣青年，以七把赤红血剑可各化分身，前来索取“许木”（王林）人头。",
   "attributes": {
     "性别": "男",
-    "身份": "修真联盟杀域界杀侍",
+    "身份": "魂杀二侍之一",
     "小阶段": "窥涅中期",
     "外貌": "红衣",
     "标志特征": "身前环绕七把赤红之剑、脚踏蜂窝状坑洼巨石、煞气化蟒状凶兽",
-    "分身": "血剑所化分身（窥涅初期）、五个分身，可化作五把赤红大剑、赤红之剑所化分身（每个具窥涅初期修为，本章被灭七个）",
+    "分身": "血剑所化分身（窥涅初期）、五个分身，可化作五把赤红大剑、赤红之剑所化分身（每个具窥涅初期修为，本章被灭七个）、四个分身",
     "阵营": "杀域界、王林（许木）的敌对方",
     "性格": "狂傲冷酷，自称所杀之人皆大名鼎鼎、阴沉、易怒",
-    "本命法宝": "三十五把飞剑"
+    "本命法宝": "三十五把飞剑、天灵所出血光化十丈红色大剑",
+    "存殁": "死亡",
+    "死因": "王林（许木）以古神之鼎移形拉近漩涡后，双指穿透漩涡按其后心，肉身崩溃、元神俱灭",
+    "结局": "形神俱灭，储物袋瓦解，遗落树枝被王林夺走大半"
   },
   "observations": {
     "性别": [
@@ -34,6 +39,11 @@
         "value": "修真联盟杀域界杀侍",
         "docId": "plot.xianni-ch908-departure-zhuque-star-yu-fei-ambush",
         "seq": 840
+      },
+      {
+        "value": "魂杀二侍之一",
+        "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
+        "seq": 845
       }
     ],
     "小阶段": [
@@ -88,6 +98,12 @@
         "value": "赤红之剑所化分身（每个具窥涅初期修为，本章被灭七个）",
         "docId": "plot.xianni-ch910-strongest-fusion-wang-lin-slays-yu-fei-avatars",
         "seq": 845
+      },
+      {
+        "value": "四个分身",
+        "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
+        "seq": 845,
+        "note": "本章前被王林一吼震死；另有以分身炼化的法宝"
       }
     ],
     "阵营": [
@@ -119,6 +135,32 @@
         "value": "三十五把飞剑",
         "docId": "plot.xianni-ch909-give-you-a-miracle-yufei-thunder-tree-branch-fusion",
         "seq": 845
+      },
+      {
+        "value": "天灵所出血光化十丈红色大剑",
+        "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
+        "seq": 845
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
+        "seq": 845
+      }
+    ],
+    "死因": [
+      {
+        "value": "王林（许木）以古神之鼎移形拉近漩涡后，双指穿透漩涡按其后心，肉身崩溃、元神俱灭",
+        "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
+        "seq": 845
+      }
+    ],
+    "结局": [
+      {
+        "value": "形神俱灭，储物袋瓦解，遗落树枝被王林夺走大半",
+        "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
+        "seq": 845
       }
     ]
   },
@@ -132,9 +174,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch908-departure-zhuque-star-yu-fei-ambush",
+      "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
       "dated": false,
-      "seq": 840
+      "seq": 845
     },
     "小阶段": {
       "asOf": null,
@@ -178,6 +220,24 @@
       "docId": "plot.xianni-ch909-give-you-a-miracle-yufei-thunder-tree-branch-fusion",
       "dated": false,
       "seq": 845
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
+      "dated": false,
+      "seq": 845
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
+      "dated": false,
+      "seq": 845
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
+      "dated": false,
+      "seq": 845
     }
   },
   "contested": false,
@@ -185,7 +245,8 @@
   "docs": [
     "plot.xianni-ch908-departure-zhuque-star-yu-fei-ambush",
     "plot.xianni-ch909-give-you-a-miracle-yufei-thunder-tree-branch-fusion",
-    "plot.xianni-ch910-strongest-fusion-wang-lin-slays-yu-fei-avatars"
+    "plot.xianni-ch910-strongest-fusion-wang-lin-slays-yu-fei-avatars",
+    "plot.xianni-ch911-sha-yu-jie-kill-yu-fei"
   ],
-  "updatedAt": "2026-08-23T19:32:34.416Z"
+  "updatedAt": "2026-08-23T19:35:24.381Z"
 }

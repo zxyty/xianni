@@ -11,9 +11,12 @@
   "summary": "修真联盟「两殿四尊八方界」之一，位于联盟星域内一片单独存在的星空；黑色建筑形如大剑刺入虚空，正中千丈高塔以黑色铁链连接四周建筑。",
   "attributes": {
     "所属势力": "修真联盟",
-    "类型": "联盟八方界之一",
+    "类型": "两殿四尊八方界之一",
     "方位": "联盟星域内一片单独存在的星空",
-    "规模": "正中高塔高不下千丈"
+    "规模": "正中高塔高不下千丈",
+    "所属界面": "联盟星域",
+    "守护": "红发老者及众多杀机浓郁的修士",
+    "特产": "魂侍神通"
   },
   "observations": {
     "所属势力": [
@@ -28,6 +31,11 @@
         "value": "联盟八方界之一",
         "docId": "plot.xianni-ch898-lei-ji-2-restore-zhuque-star-soul",
         "seq": 839
+      },
+      {
+        "value": "两殿四尊八方界之一",
+        "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
+        "seq": 845
       }
     ],
     "方位": [
@@ -43,6 +51,28 @@
         "docId": "plot.xianni-ch898-lei-ji-2-restore-zhuque-star-soul",
         "seq": 839
       }
+    ],
+    "所属界面": [
+      {
+        "value": "联盟星域",
+        "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
+        "seq": 845
+      }
+    ],
+    "守护": [
+      {
+        "value": "红发老者及众多杀机浓郁的修士",
+        "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
+        "seq": 845
+      }
+    ],
+    "特产": [
+      {
+        "value": "魂侍神通",
+        "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
+        "seq": 845,
+        "note": "魂杀二侍所修"
+      }
     ]
   },
   "firstSeq": 839,
@@ -55,9 +85,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch898-lei-ji-2-restore-zhuque-star-soul",
+      "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
       "dated": false,
-      "seq": 839
+      "seq": 845
     },
     "方位": {
       "asOf": null,
@@ -70,6 +100,25 @@
       "docId": "plot.xianni-ch898-lei-ji-2-restore-zhuque-star-soul",
       "dated": false,
       "seq": 839
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
+      "dated": false,
+      "seq": 845
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
+      "dated": false,
+      "seq": 845
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
+      "dated": false,
+      "seq": 845,
+      "note": "魂杀二侍所修"
     }
   },
   "contested": false,
@@ -77,7 +126,8 @@
   "docs": [
     "plot.xianni-ch898-lei-ji-2-restore-zhuque-star-soul",
     "plot.xianni-ch908-departure-zhuque-star-yu-fei-ambush",
-    "plot.xianni-ch909-give-you-a-miracle-yufei-thunder-tree-branch-fusion"
+    "plot.xianni-ch909-give-you-a-miracle-yufei-thunder-tree-branch-fusion",
+    "plot.xianni-ch911-sha-yu-jie-kill-yu-fei"
   ],
-  "updatedAt": "2026-08-23T19:30:53.047Z"
+  "updatedAt": "2026-08-23T19:35:24.395Z"
 }
