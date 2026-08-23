@@ -5,14 +5,19 @@
   "aliases": [
     "灭神矛",
     "黑色长矛",
-    "长矛"
+    "长矛",
+    "灭神矛虚幻之体",
+    "涂司本命法器",
+    "古神矛",
+    "Mie Shen Mao"
   ],
   "summary": "拓森一族的本命之器，黑色长矛可化作狰狞黑龙，藏于死海灰雾中，被拓森召唤握持。",
   "attributes": {
-    "持有者": "拓森",
-    "外形": "黑色长矛，可化黑龙、长矛",
-    "能力": "化黑龙冲击、劈开死海沟壑、阻拦分识、化黑龙",
-    "来历": "拓森一族本命之器"
+    "持有者": "王林",
+    "外形": "黑色长矛，可化黑龙、长矛、百丈长、一丈粗细，红雾凝聚，红光闪烁",
+    "能力": "化黑龙冲击、劈开死海沟壑、阻拦分识、化黑龙、令虚无扭曲、逼出绝元大阵网状原形",
+    "来历": "古神涂司本命法器，王族成年时可得的恒久传承法器",
+    "品阶": "古神王族法器"
   },
   "observations": {
     "持有者": [
@@ -20,6 +25,12 @@
         "value": "拓森",
         "docId": "plot.xianni-ch194-blood-sea-seal-opening",
         "seq": 179
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch941-wang-clan-artifact-mie-shen-mao",
+        "seq": 870,
+        "note": "第941章以四星之力幻化而出，非本体"
       }
     ],
     "外形": [
@@ -32,6 +43,11 @@
         "value": "长矛",
         "docId": "plot.xianni-ch194-blood-sea-seal-opening",
         "seq": 179
+      },
+      {
+        "value": "百丈长、一丈粗细，红雾凝聚，红光闪烁",
+        "docId": "plot.xianni-ch941-wang-clan-artifact-mie-shen-mao",
+        "seq": 870
       }
     ],
     "能力": [
@@ -54,6 +70,16 @@
         "value": "化黑龙",
         "docId": "plot.xianni-ch194-blood-sea-seal-opening",
         "seq": 179
+      },
+      {
+        "value": "令虚无扭曲",
+        "docId": "plot.xianni-ch941-wang-clan-artifact-mie-shen-mao",
+        "seq": 870
+      },
+      {
+        "value": "逼出绝元大阵网状原形",
+        "docId": "plot.xianni-ch941-wang-clan-artifact-mie-shen-mao",
+        "seq": 870
       }
     ],
     "来历": [
@@ -61,6 +87,18 @@
         "value": "拓森一族本命之器",
         "docId": "plot.xianni-ch194-blood-sea-seal-opening",
         "seq": 179
+      },
+      {
+        "value": "古神涂司本命法器，王族成年时可得的恒久传承法器",
+        "docId": "plot.xianni-ch941-wang-clan-artifact-mie-shen-mao",
+        "seq": 870
+      }
+    ],
+    "品阶": [
+      {
+        "value": "古神王族法器",
+        "docId": "plot.xianni-ch941-wang-clan-artifact-mie-shen-mao",
+        "seq": 870
       }
     ]
   },
@@ -68,9 +106,10 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch194-blood-sea-seal-opening",
+      "docId": "plot.xianni-ch941-wang-clan-artifact-mie-shen-mao",
       "dated": false,
-      "seq": 179
+      "seq": 870,
+      "note": "第941章以四星之力幻化而出，非本体"
     },
     "外形": {
       "asOf": null,
@@ -86,15 +125,22 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch194-blood-sea-seal-opening",
+      "docId": "plot.xianni-ch941-wang-clan-artifact-mie-shen-mao",
       "dated": false,
-      "seq": 179
+      "seq": 870
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-ch941-wang-clan-artifact-mie-shen-mao",
+      "dated": false,
+      "seq": 870
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch194-blood-sea-seal-opening"
+    "plot.xianni-ch194-blood-sea-seal-opening",
+    "plot.xianni-ch941-wang-clan-artifact-mie-shen-mao"
   ],
-  "updatedAt": "2026-07-07T11:26:36.819Z"
+  "updatedAt": "2026-08-23T21:37:08.259Z"
 }

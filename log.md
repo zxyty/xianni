@@ -389,3 +389,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T21:30:17.998Z** `ingest` plot.xianni-ch938-qingshui-rescue-xuanbao-wangyue-expelled — 第938章 清水暴走救玄宝、王林抢元神引爆飞剑逼望月吐出众人 · kind=plot asOf=2026-08-23 entities=27 relations=37 src=00870-00875.p3.md
 - **2026-08-23T21:32:37.485Z** `ingest` plot.xianni-939-jixiantian-puppet-slain-power-inheritance — 第939章 极贤天崩溃·王林夺「力之传承」紫星 · kind=plot asOf=2026-08-23 entities=18 relations=26 src=00870-00875.p4.md
 - **2026-08-23T21:34:50.292Z** `ingest` plot.xianni-ch940-four-star-royal-ancient-god — 第940章 四星王族古神——王林吞紫星成四星，破五行擒龙袍男子，向五星古神发出成年挑战 · kind=plot asOf=2026-08-23 entities=19 relations=31 src=00870-00875.p5.md
+- **2026-08-23T21:37:08.484Z** `ingest` plot.xianni-ch941-wang-clan-artifact-mie-shen-mao — 第941章 王族法器——王林幻化灭神矛战五星古神罗尘 · kind=plot asOf=2026-08-23 entities=19 relations=28 src=00870-00875.p6.md
