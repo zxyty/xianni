@@ -5,14 +5,16 @@
   "aliases": [
     "撒豆成兵之术",
     "仙帝白凡神通第三式",
-    "撒豆成兵仙术"
+    "撒豆成兵仙术",
+    "呼风唤雨撒豆成兵之撒豆成兵"
   ],
   "summary": "仙帝白凡神通前三式之第三式：将一生杀孽逐一祭炼，把被杀者之魂自轮回虚无抽出、令其不入轮回、炼化为本命之一，挥手间化晶光放出仙魂大军。",
   "attributes": {
-    "出处": "仙帝白凡(清水师尊)之神通前三式之三、清水",
+    "出处": "仙帝白凡(清水师尊)之神通前三式之三、清水、清水传承",
     "效果": "抽被杀者之魂出轮回虚无、令其入不了轮回、炼化为本命之一、挥手放出死气仙魂军团，魂可临身自爆",
     "修炼条件": "杀孽为薪；清水感悟百年方炼化而出，方称小成",
-    "外显异象": "晶光飘散化人影，死气、煞气、怨气弥漫，星空如炼狱"
+    "外显异象": "晶光飘散化人影，死气、煞气、怨气弥漫，星空如炼狱",
+    "品阶": "仙术"
   },
   "observations": {
     "出处": [
@@ -25,6 +27,11 @@
         "value": "清水",
         "docId": "plot.xianni-ch858-target-108-immortals-poluo-xinjin",
         "seq": 800
+      },
+      {
+        "value": "清水传承",
+        "docId": "plot.xianni-885-qingshui-gift-seven-eve-technique",
+        "seq": 826
       }
     ],
     "效果": [
@@ -62,6 +69,13 @@
         "docId": "plot.xianni-ch856-sa-dou-cheng-bing",
         "seq": 800
       }
+    ],
+    "品阶": [
+      {
+        "value": "仙术",
+        "docId": "plot.xianni-885-qingshui-gift-seven-eve-technique",
+        "seq": 826
+      }
     ]
   },
   "firstSeq": 800,
@@ -89,13 +103,20 @@
       "docId": "plot.xianni-ch856-sa-dou-cheng-bing",
       "dated": false,
       "seq": 800
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-885-qingshui-gift-seven-eve-technique",
+      "dated": false,
+      "seq": 826
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch856-sa-dou-cheng-bing",
-    "plot.xianni-ch858-target-108-immortals-poluo-xinjin"
+    "plot.xianni-ch858-target-108-immortals-poluo-xinjin",
+    "plot.xianni-885-qingshui-gift-seven-eve-technique"
   ],
-  "updatedAt": "2026-08-23T14:25:17.052Z"
+  "updatedAt": "2026-08-23T17:43:36.538Z"
 }

@@ -3,14 +3,15 @@
   "type": "person",
   "name": "向云东",
   "aliases": [
-    "向家族人向云东"
+    "向家族人向云东",
+    "向家向云东"
   ],
   "summary": "向家族人，修为高深，引王林与清水进入东临星禁地求见向家仅存的先祖；章末自报姓名。",
   "attributes": {
     "性别": "男",
-    "身份": "向家族人、向家代为引见者",
+    "身份": "向家族人、向家代为引见者、向家修士",
     "外貌": "老者",
-    "性格": "沉稳、对家族先祖极为崇敬",
+    "性格": "工于算计而不隐瞒",
     "阵营": "向家"
   },
   "observations": {
@@ -31,6 +32,11 @@
         "value": "向家代为引见者",
         "docId": "plot.xianni-ch884-vitality-traded-for-qixi-technique",
         "seq": 821
+      },
+      {
+        "value": "向家修士",
+        "docId": "plot.xianni-885-qingshui-gift-seven-eve-technique",
+        "seq": 826
       }
     ],
     "外貌": [
@@ -45,6 +51,11 @@
         "value": "沉稳、对家族先祖极为崇敬",
         "docId": "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens",
         "seq": 821
+      },
+      {
+        "value": "工于算计而不隐瞒",
+        "docId": "plot.xianni-885-qingshui-gift-seven-eve-technique",
+        "seq": 826
       }
     ],
     "阵营": [
@@ -77,9 +88,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens",
+      "docId": "plot.xianni-885-qingshui-gift-seven-eve-technique",
       "dated": false,
-      "seq": 821
+      "seq": 826
     },
     "阵营": {
       "asOf": null,
@@ -92,7 +103,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens",
-    "plot.xianni-ch884-vitality-traded-for-qixi-technique"
+    "plot.xianni-ch884-vitality-traded-for-qixi-technique",
+    "plot.xianni-885-qingshui-gift-seven-eve-technique"
   ],
-  "updatedAt": "2026-08-23T16:58:04.416Z"
+  "updatedAt": "2026-08-23T17:43:36.533Z"
 }

@@ -3,13 +3,16 @@
   "type": "technique",
   "name": "七夕之术",
   "aliases": [
-    "Qixi technique"
+    "Qixi technique",
+    "逆天改命第一术"
   ],
   "summary": "向家先祖掌握的秘术，可救治生机全无的残婴，巅峰时可令其恢复甚至苏醒；本章施展代价为求术者一半生机，成功率仅三成。",
   "attributes": {
-    "出处": "向家先祖",
-    "效果": "救治生机全无的残婴、巅峰时可令残婴恢复甚至勉强苏醒",
-    "修炼条件": "索取求术者一半生机（寿元）为代价"
+    "出处": "上古时期",
+    "效果": "救治生机全无的残婴、巅峰时可令残婴恢复甚至勉强苏醒、以死气抽取施术对象的生机注入受救者、坚持七天可令死者完全复活、驱除受救者体内死气",
+    "修炼条件": "需拥有足够生机；每多一日所需生机为前一日的百倍",
+    "品阶": "逆天改命第一术",
+    "外显异象": "死气缭绕，一端绕受救者、一端环生机提供者"
   },
   "observations": {
     "出处": [
@@ -17,6 +20,11 @@
         "value": "向家先祖",
         "docId": "plot.xianni-ch884-vitality-traded-for-qixi-technique",
         "seq": 821
+      },
+      {
+        "value": "上古时期",
+        "docId": "plot.xianni-885-qingshui-gift-seven-eve-technique",
+        "seq": 826
       }
     ],
     "效果": [
@@ -29,6 +37,21 @@
         "value": "巅峰时可令残婴恢复甚至勉强苏醒",
         "docId": "plot.xianni-ch884-vitality-traded-for-qixi-technique",
         "seq": 821
+      },
+      {
+        "value": "以死气抽取施术对象的生机注入受救者",
+        "docId": "plot.xianni-885-qingshui-gift-seven-eve-technique",
+        "seq": 826
+      },
+      {
+        "value": "坚持七天可令死者完全复活",
+        "docId": "plot.xianni-885-qingshui-gift-seven-eve-technique",
+        "seq": 826
+      },
+      {
+        "value": "驱除受救者体内死气",
+        "docId": "plot.xianni-885-qingshui-gift-seven-eve-technique",
+        "seq": 826
       }
     ],
     "修炼条件": [
@@ -37,6 +60,25 @@
         "docId": "plot.xianni-ch884-vitality-traded-for-qixi-technique",
         "seq": 821,
         "note": "第884章向王林开价"
+      },
+      {
+        "value": "需拥有足够生机；每多一日所需生机为前一日的百倍",
+        "docId": "plot.xianni-885-qingshui-gift-seven-eve-technique",
+        "seq": 826
+      }
+    ],
+    "品阶": [
+      {
+        "value": "逆天改命第一术",
+        "docId": "plot.xianni-885-qingshui-gift-seven-eve-technique",
+        "seq": 826
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "死气缭绕，一端绕受救者、一端环生机提供者",
+        "docId": "plot.xianni-885-qingshui-gift-seven-eve-technique",
+        "seq": 826
       }
     ]
   },
@@ -44,9 +86,9 @@
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch884-vitality-traded-for-qixi-technique",
+      "docId": "plot.xianni-885-qingshui-gift-seven-eve-technique",
       "dated": false,
-      "seq": 821
+      "seq": 826
     },
     "效果": {
       "asOf": null,
@@ -56,16 +98,28 @@
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.xianni-ch884-vitality-traded-for-qixi-technique",
+      "docId": "plot.xianni-885-qingshui-gift-seven-eve-technique",
       "dated": false,
-      "seq": 821,
-      "note": "第884章向王林开价"
+      "seq": 826
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-885-qingshui-gift-seven-eve-technique",
+      "dated": false,
+      "seq": 826
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.xianni-885-qingshui-gift-seven-eve-technique",
+      "dated": false,
+      "seq": 826
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch884-vitality-traded-for-qixi-technique"
+    "plot.xianni-ch884-vitality-traded-for-qixi-technique",
+    "plot.xianni-885-qingshui-gift-seven-eve-technique"
   ],
-  "updatedAt": "2026-08-23T16:58:04.421Z"
+  "updatedAt": "2026-08-23T17:43:36.535Z"
 }

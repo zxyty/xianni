@@ -339,3 +339,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T16:48:31.088Z** `ingest` plot.xianni-ch882-space-barrier-open — 第882章 空间壁垒，开！——炎雷子撕裂罗天—联盟空间壁垒 · kind=plot asOf=2026-08-23 entities=29 relations=37 src=00821-00825.p3.md
 - **2026-08-23T16:55:43.183Z** `ingest` plot.xianni-ch883-dongling-star-luotian-alliance-war-opens — 第883章 东临星：罗天联盟之战开启，四大修军杀入联盟星域 · kind=plot asOf=2026-08-23 entities=40 relations=59 src=00821-00825.p4.md
 - **2026-08-23T16:58:04.640Z** `ingest` plot.xianni-ch884-vitality-traded-for-qixi-technique — 第884章 生机：王林献半生机求向家先祖施七夕之术救李慕婉残婴 · kind=plot asOf=2026-08-23 entities=24 relations=36 src=00821-00825.p5.md
+- **2026-08-23T17:43:36.729Z** `ingest` plot.xianni-885-qingshui-gift-seven-eve-technique — 第885章 清水的馈赠——七夕之术四日之限与仙术传承 · kind=plot asOf=2026-08-23 entities=17 relations=29 src=00826-00829.p1.md
