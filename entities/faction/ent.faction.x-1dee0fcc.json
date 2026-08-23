@@ -19,16 +19,17 @@
     "姚家一族",
     "罗天姚家",
     "姚家修真家族",
-    "姚姓修真家族"
+    "姚姓修真家族",
+    "血神星姚家"
   ],
   "summary": "罗天星域的家族势力，居于暗红色星球，设有祠堂；姚洛东叛族后其名已被从祠堂除去。",
   "attributes": {
-    "据点": "罗天东域血红色星球·姚家祠堂",
-    "理念": "叛族者世世代代绝不回头，祠堂除名、强大家族，敌视王林一方、以重赏驱使外人办事、家族修炼模式养成傲意、以天穹令号令追杀、信奉先祖之荣耀，以荣耀为道境、以利益换取修真家族助战，省却自身力气、以家族利益为核心、以仙界传承典籍判断凶兽等级、以赏赐驱动族人围杀许木",
+    "据点": "罗天星域暗红色星球、罗天星域、罗天星域各区域均派遣族人、罗天东域一处血红色星球上的姚家祠堂、罗天西域、罗天东域血红色星球·姚家祠堂、血神星、姚家祠堂",
+    "理念": "叛族者世世代代绝不回头，祠堂除名、强大家族，敌视王林一方、以重赏驱使外人办事、家族修炼模式养成傲意、以天穹令号令追杀、信奉先祖之荣耀，以荣耀为道境、以利益换取修真家族助战，省却自身力气、以家族利益为核心、以仙界传承典籍判断凶兽等级、以赏赐驱动族人围杀许木、族人性命服从家族法宝",
     "所属界面": "罗天星域、雷之仙界",
     "等级": "传承至仙界的四大家主之首",
     "阵营": "王林之敌、罗天星域家族、王林（许木）之敌、罗天星域家族势力、王林的死敌、追杀王林一方、追杀王林、罗天星域、王林敌对、与王林敌对、王林的仇敌",
-    "镇派之宝": "天穹令、仙人金丹、帝仙符、闭神仙术等三大禁术、姚家仙术／损神印、与族人性命相连的令牌"
+    "镇派之宝": "天穹令、仙人金丹、帝仙符、闭神仙术等三大禁术、姚家仙术／损神印、与族人性命相连的令牌、姚家法宝（需法宝之魂）"
   },
   "observations": {
     "据点": [
@@ -61,6 +62,16 @@
         "value": "罗天东域血红色星球·姚家祠堂",
         "docId": "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
         "seq": 775
+      },
+      {
+        "value": "血神星",
+        "docId": "plot.xianni-ch848-yao-bingyun-dao",
+        "seq": 790
+      },
+      {
+        "value": "姚家祠堂",
+        "docId": "plot.xianni-ch848-yao-bingyun-dao",
+        "seq": 790
       }
     ],
     "理念": [
@@ -109,6 +120,12 @@
         "value": "以赏赐驱动族人围杀许木",
         "docId": "plot.xianni-ch834-yanleizi-reappears-wangyue-massacre",
         "seq": 775
+      },
+      {
+        "value": "族人性命服从家族法宝",
+        "docId": "plot.xianni-ch848-yao-bingyun-dao",
+        "seq": 790,
+        "note": "老祖之言：这是她们的命，躲不掉"
       }
     ],
     "所属界面": [
@@ -229,6 +246,11 @@
         "value": "与族人性命相连的令牌",
         "docId": "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
         "seq": 775
+      },
+      {
+        "value": "姚家法宝（需法宝之魂）",
+        "docId": "plot.xianni-ch848-yao-bingyun-dao",
+        "seq": 790
       }
     ]
   },
@@ -236,9 +258,9 @@
   "attrProvenance": {
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
+      "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
       "dated": false,
-      "seq": 775
+      "seq": 701
     },
     "理念": {
       "asOf": null,
@@ -297,7 +319,8 @@
     "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
     "plot.xianni-837-ding-cauldron-wanglin-tanlang-brand",
     "plot.xianni-ch838-bingyun-wangyue-rebirth-dading-seized",
-    "plot.xianni-ch843-return-to-qingling-star"
+    "plot.xianni-ch843-return-to-qingling-star",
+    "plot.xianni-ch848-yao-bingyun-dao"
   ],
-  "updatedAt": "2026-08-23T13:48:55.671Z"
+  "updatedAt": "2026-08-23T14:00:34.150Z"
 }

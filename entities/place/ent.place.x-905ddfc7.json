@@ -4,12 +4,13 @@
   "name": "姚家祠堂",
   "aliases": [
     "姚家血色星球祠堂",
-    "姚家宗祠"
+    "姚家宗祠",
+    "姚家祠堂内"
   ],
   "summary": "位于罗天东域一处血红色星球上的巨大祠堂，旁有十丈高巨木刻「姚」字，内摆姚家族人灵牌，由血神子坐镇。",
   "attributes": {
     "所属势力": "姚家",
-    "类型": "宗祠",
+    "类型": "祠堂／禁地",
     "方位": "罗天东域血红色星球",
     "守护": "血神子",
     "特产": "散出浓郁元力的族人灵牌",
@@ -33,6 +34,11 @@
         "value": "宗祠",
         "docId": "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
         "seq": 775
+      },
+      {
+        "value": "祠堂／禁地",
+        "docId": "plot.xianni-ch848-yao-bingyun-dao",
+        "seq": 790
       }
     ],
     "方位": [
@@ -74,9 +80,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
+      "docId": "plot.xianni-ch848-yao-bingyun-dao",
       "dated": false,
-      "seq": 775
+      "seq": 790
     },
     "方位": {
       "asOf": null,
@@ -107,7 +113,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch823-yao-changkong-part3-karma-daoist-realm-duel",
-    "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi"
+    "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
+    "plot.xianni-ch848-yao-bingyun-dao"
   ],
-  "updatedAt": "2026-08-23T12:51:25.314Z"
+  "updatedAt": "2026-08-23T14:00:34.146Z"
 }

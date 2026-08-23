@@ -3,12 +3,18 @@
   "type": "person",
   "name": "姚云",
   "aliases": [
-    "姚家二代族人姚云"
+    "姚家二代族人姚云",
+    "云叔",
+    "Yao Yun"
   ],
   "summary": "姚家二代族人，受血神子之命前往罗天北域取许木（王林）性命。",
   "attributes": {
-    "身份": "姚家二代族人",
-    "阵营": "姚家"
+    "身份": "姚家族人",
+    "阵营": "姚家",
+    "性别": "男",
+    "外貌": "中年，相貌极为英俊，颇有仙风道骨",
+    "性格": "重情、悲愤、敢违抗老祖",
+    "存殁": "受创未死"
   },
   "observations": {
     "身份": [
@@ -16,6 +22,11 @@
         "value": "姚家二代族人",
         "docId": "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
         "seq": 775
+      },
+      {
+        "value": "姚家族人",
+        "docId": "plot.xianni-ch848-yao-bingyun-dao",
+        "seq": 790
       }
     ],
     "阵营": [
@@ -24,27 +35,82 @@
         "docId": "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
         "seq": 775
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch848-yao-bingyun-dao",
+        "seq": 790
+      }
+    ],
+    "外貌": [
+      {
+        "value": "中年，相貌极为英俊，颇有仙风道骨",
+        "docId": "plot.xianni-ch848-yao-bingyun-dao",
+        "seq": 790
+      }
+    ],
+    "性格": [
+      {
+        "value": "重情、悲愤、敢违抗老祖",
+        "docId": "plot.xianni-ch848-yao-bingyun-dao",
+        "seq": 790
+      }
+    ],
+    "存殁": [
+      {
+        "value": "受创未死",
+        "docId": "plot.xianni-ch848-yao-bingyun-dao",
+        "seq": 790,
+        "note": "回忆中被逼出虚空、喷血退出数十丈"
+      }
     ]
   },
   "firstSeq": 775,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
+      "docId": "plot.xianni-ch848-yao-bingyun-dao",
       "dated": false,
-      "seq": 775
+      "seq": 790
     },
     "阵营": {
       "asOf": null,
       "docId": "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
       "dated": false,
       "seq": 775
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch848-yao-bingyun-dao",
+      "dated": false,
+      "seq": 790
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch848-yao-bingyun-dao",
+      "dated": false,
+      "seq": 790
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch848-yao-bingyun-dao",
+      "dated": false,
+      "seq": 790
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch848-yao-bingyun-dao",
+      "dated": false,
+      "seq": 790,
+      "note": "回忆中被逼出虚空、喷血退出数十丈"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi"
+    "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
+    "plot.xianni-ch848-yao-bingyun-dao"
   ],
-  "updatedAt": "2026-08-23T12:51:25.310Z"
+  "updatedAt": "2026-08-23T14:00:34.131Z"
 }

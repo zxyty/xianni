@@ -7,13 +7,16 @@
     "暗红色星球内的沙哑声音",
     "姚家老祖",
     "姚家老祖宗",
-    "姚家族老祖"
+    "姚家族老祖",
+    "先祖爷爷"
   ],
   "summary": "自暗红色星球内传出沙哑声音的姚家长辈，姚空之祖父，初拒姚空认祖归宗，后算出曾孙女姚惜雪在雷之仙界并授予令牌。",
   "attributes": {
     "身份": "姚家老祖，赐宝者",
-    "性格": "坚决果断",
-    "外貌": "与幡中血祖有七分相似"
+    "性格": "威严不容置疑、冷酷",
+    "外貌": "与幡中血祖有七分相似",
+    "性别": "男",
+    "标志特征": "妖灵入体"
   },
   "observations": {
     "身份": [
@@ -38,6 +41,11 @@
         "value": "坚决果断",
         "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
         "seq": 701
+      },
+      {
+        "value": "威严不容置疑、冷酷",
+        "docId": "plot.xianni-ch848-yao-bingyun-dao",
+        "seq": 790
       }
     ],
     "外貌": [
@@ -45,6 +53,21 @@
         "value": "与幡中血祖有七分相似",
         "docId": "plot.xianni-773-shisan-tian-wang-lin-slaughters-yao-family-pursuers",
         "seq": 729
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch848-yao-bingyun-dao",
+        "seq": 790
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "妖灵入体",
+        "docId": "plot.xianni-ch848-yao-bingyun-dao",
+        "seq": 790,
+        "note": "姚云之评语"
       }
     ]
   },
@@ -58,15 +81,28 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
+      "docId": "plot.xianni-ch848-yao-bingyun-dao",
       "dated": false,
-      "seq": 701
+      "seq": 790
     },
     "外貌": {
       "asOf": null,
       "docId": "plot.xianni-773-shisan-tian-wang-lin-slaughters-yao-family-pursuers",
       "dated": false,
       "seq": 729
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch848-yao-bingyun-dao",
+      "dated": false,
+      "seq": 790
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch848-yao-bingyun-dao",
+      "dated": false,
+      "seq": 790,
+      "note": "姚云之评语"
     }
   },
   "contested": false,
@@ -75,7 +111,8 @@
     "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
     "plot.xianni-773-shisan-tian-wang-lin-slaughters-yao-family-pursuers",
     "plot.xianni-ch823-yao-changkong-part2-fengxianyin-vs-xianfu",
-    "plot.xianni-ch834-yanleizi-reappears-wangyue-massacre"
+    "plot.xianni-ch834-yanleizi-reappears-wangyue-massacre",
+    "plot.xianni-ch848-yao-bingyun-dao"
   ],
-  "updatedAt": "2026-08-23T12:44:29.307Z"
+  "updatedAt": "2026-08-23T14:00:34.132Z"
 }
