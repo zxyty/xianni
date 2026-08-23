@@ -4,15 +4,19 @@
   "name": "白发老者",
   "aliases": [
     "炼器阁白发老者",
-    "炼器阁的白发老者"
+    "炼器阁的白发老者",
+    "雷之仙界白发老者",
+    "雷山老者",
+    "碎片大陆上的白发老者"
   ],
   "summary": "隐于城池、气势骤升的高手，骑乘玄武穿行修魔海黑雾，身份未明。",
   "attributes": {
-    "外貌": "白发老者",
-    "身份": "高手、炼器阁掌权之人、炼器阁相关人士",
+    "外貌": "驼背白发老者、白发苍苍、白发老者、一头白发飘逸，宽大衣衫、白发老者，背负双手",
+    "身份": "高手、炼器阁掌权之人、炼器阁相关人士、疑似申公虎口中的『前辈·高人』、筹划数万年庞大计划者",
     "性别": "男",
     "本命法宝": "紫红棺材",
-    "性格": "见多识广、爽朗好谈"
+    "性格": "戏谑、纠缠不放、见多识广、爽朗好谈、闲适好奇，喜以试炼戏弄有缘人、定力极高、桀骜自负、此刻难掩兴奋",
+    "标志特征": "消失时化作无数晶点、隐约透出回归本源的气息"
   },
   "observations": {
     "外貌": [
@@ -31,6 +35,16 @@
         "value": "白发老者",
         "docId": "plot.xianni-ch312-316-yinju-xinjia",
         "seq": 312
+      },
+      {
+        "value": "一头白发飘逸，宽大衣衫",
+        "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
+        "seq": 697
+      },
+      {
+        "value": "白发老者，背负双手",
+        "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
+        "seq": 697
       }
     ],
     "身份": [
@@ -48,6 +62,18 @@
         "value": "炼器阁相关人士",
         "docId": "plot.xianni-ch312-316-yinju-xinjia",
         "seq": 312
+      },
+      {
+        "value": "疑似申公虎口中的『前辈·高人』",
+        "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
+        "seq": 697,
+        "note": "未证实"
+      },
+      {
+        "value": "筹划数万年庞大计划者",
+        "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
+        "seq": 697,
+        "note": "本片段身份未明"
       }
     ],
     "性别": [
@@ -74,6 +100,28 @@
         "value": "见多识广、爽朗好谈",
         "docId": "plot.xianni-ch312-316-yinju-xinjia",
         "seq": 312
+      },
+      {
+        "value": "闲适好奇，喜以试炼戏弄有缘人",
+        "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
+        "seq": 697
+      },
+      {
+        "value": "定力极高、桀骜自负、此刻难掩兴奋",
+        "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
+        "seq": 697
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "消失时化作无数晶点",
+        "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
+        "seq": 697
+      },
+      {
+        "value": "隐约透出回归本源的气息",
+        "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
+        "seq": 697
       }
     ]
   },
@@ -81,9 +129,10 @@
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch312-316-yinju-xinjia",
+      "docId": "plot.xianni-ch207-killing-for-cores",
       "dated": false,
-      "seq": 312
+      "seq": 191,
+      "note": "隐藏气势时状"
     },
     "身份": {
       "asOf": null,
@@ -105,9 +154,15 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch312-316-yinju-xinjia",
+      "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
       "dated": false,
-      "seq": 312
+      "seq": 294
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
+      "dated": false,
+      "seq": 697
     }
   },
   "contested": false,
@@ -115,7 +170,8 @@
   "docs": [
     "plot.xianni-ch207-killing-for-cores",
     "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
-    "plot.xianni-ch312-316-yinju-xinjia"
+    "plot.xianni-ch312-316-yinju-xinjia",
+    "plot.xianni-ch736-lei-zhi-xianjie-gate"
   ],
-  "updatedAt": "2026-08-08T08:56:45.958Z"
+  "updatedAt": "2026-08-23T04:18:03.610Z"
 }

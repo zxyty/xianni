@@ -1,0 +1,59 @@
+{
+  "id": "ent.formation.x-2df9f605",
+  "type": "formation",
+  "name": "元力细丝禁锢",
+  "aliases": [
+    "天地元力细丝",
+    "元力细丝",
+    "禁锢细丝"
+  ],
+  "summary": "布局者以天地元力凝成的横竖细丝，密密麻麻遍布四周，彼此很少交错；每一次交错处便出现一道光门。通道坍塌后此禁锢并未消散。",
+  "attributes": {
+    "效果": "禁锢困住闯入者、交错处生成光门出口",
+    "破解法": "轰塌通道去除泥层阻碍，可更易从光门冲出"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "禁锢困住闯入者",
+        "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
+        "seq": 697
+      },
+      {
+        "value": "交错处生成光门出口",
+        "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
+        "seq": 697
+      }
+    ],
+    "破解法": [
+      {
+        "value": "轰塌通道去除泥层阻碍，可更易从光门冲出",
+        "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
+        "seq": 697,
+        "note": "禁锢本体未被破除"
+      }
+    ]
+  },
+  "firstSeq": 697,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
+      "dated": false,
+      "seq": 697
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
+      "dated": false,
+      "seq": 697,
+      "note": "禁锢本体未被破除"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.xianni-ch736-lei-zhi-xianjie-gate"
+  ],
+  "updatedAt": "2026-08-23T04:18:03.599Z"
+}

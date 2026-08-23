@@ -3,14 +3,16 @@
   "type": "realm",
   "name": "阴虚境界",
   "aliases": [
-    "阴虚阳实二意"
+    "阴虚阳实二意",
+    "阴虚中段"
   ],
   "summary": "修道第一步与第二步之间极为重要的过渡境界，好似破茧成蝶的关键；处于其中的修士一旦受伤跌落，恢复需数倍努力。",
   "attributes": {
     "阶序": "问鼎之上",
     "突破关键": "修道第一步与第二步之间的过渡，破茧成蝶",
-    "下一境": "问鼎期",
-    "上一境": "问鼎期"
+    "下一境": "阳实境界",
+    "上一境": "问鼎期",
+    "小阶段": "刚刚迈入、中段、巅峰"
   },
   "observations": {
     "阶序": [
@@ -32,6 +34,11 @@
         "value": "问鼎期",
         "docId": "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua",
         "seq": 605
+      },
+      {
+        "value": "阳实境界",
+        "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
+        "seq": 697
       }
     ],
     "上一境": [
@@ -39,6 +46,23 @@
         "value": "问鼎期",
         "docId": "plot.xianni-733-qiang-ding-wanglin-wending-yuanman-qiang-leiding",
         "seq": 693
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "刚刚迈入",
+        "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
+        "seq": 697
+      },
+      {
+        "value": "中段",
+        "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
+        "seq": 697
+      },
+      {
+        "value": "巅峰",
+        "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
+        "seq": 697
       }
     ]
   },
@@ -58,22 +82,29 @@
     },
     "下一境": {
       "asOf": null,
-      "docId": "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua",
+      "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
       "dated": false,
-      "seq": 605
+      "seq": 697
     },
     "上一境": {
       "asOf": null,
       "docId": "plot.xianni-733-qiang-ding-wanglin-wending-yuanman-qiang-leiding",
       "dated": false,
       "seq": 693
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
+      "dated": false,
+      "seq": 697
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua",
-    "plot.xianni-733-qiang-ding-wanglin-wending-yuanman-qiang-leiding"
+    "plot.xianni-733-qiang-ding-wanglin-wending-yuanman-qiang-leiding",
+    "plot.xianni-ch736-lei-zhi-xianjie-gate"
   ],
-  "updatedAt": "2026-08-23T03:51:11.227Z"
+  "updatedAt": "2026-08-23T04:18:03.644Z"
 }

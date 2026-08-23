@@ -7,15 +7,17 @@
     "仙山山石",
     "仙界的山石",
     "山石",
-    "有裂缝的仙界山石"
+    "有裂缝的仙界山石",
+    "仙山之石",
+    "仙界之山石"
   ],
   "summary": "贪狼遗宝，仙气浓郁但有破损，可令人提前感受并施展第二步修士的抽灵魂神通，抽出的仙山之魂极不稳定。",
   "attributes": {
     "持有者": "王林",
-    "能力": "抽出仙山之魂、令人提前施展第二步抽灵魂神通、抽魂",
+    "能力": "抽出仙山之魂、令人提前施展第二步抽灵魂神通、抽魂、托手化大成巨石、可抽出山石之魂化雾团，散发仙气破魔气水幕、雾团可胀大包围并消解敌方法宝灵性",
     "禁制": "有裂缝，抽魂时不稳定",
     "来历": "仙界之物",
-    "外形": "巨大山石，有破损"
+    "外形": "山石，化大后为巨石"
   },
   "observations": {
     "持有者": [
@@ -41,6 +43,21 @@
         "value": "抽魂",
         "docId": "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
         "seq": 689
+      },
+      {
+        "value": "托手化大成巨石",
+        "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
+        "seq": 697
+      },
+      {
+        "value": "可抽出山石之魂化雾团，散发仙气破魔气水幕",
+        "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
+        "seq": 697
+      },
+      {
+        "value": "雾团可胀大包围并消解敌方法宝灵性",
+        "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
+        "seq": 697
       }
     ],
     "禁制": [
@@ -74,6 +91,11 @@
         "value": "巨大山石，有破损",
         "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
         "seq": 679
+      },
+      {
+        "value": "山石，化大后为巨石",
+        "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
+        "seq": 697
       }
     ]
   },
@@ -107,16 +129,17 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
+      "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
       "dated": false,
-      "seq": 679
+      "seq": 697
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch679-683-thunder-star-body-reforge",
-    "plot.xianni-ch689-692-zhankonglie-suspicion-leichi"
+    "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
+    "plot.xianni-ch736-lei-zhi-xianjie-gate"
   ],
-  "updatedAt": "2026-08-23T03:05:18.982Z"
+  "updatedAt": "2026-08-23T04:18:03.639Z"
 }
