@@ -323,3 +323,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T14:22:23.018Z** `ingest` plot.xianni-857-the-third-step — 仙逆 第857章 第三步：古妖本体现世与第三步修士镇场 · kind=plot asOf=2026-08-23 entities=26 relations=46 src=00800-00804.p2.md
 - **2026-08-23T14:25:17.252Z** `ingest` plot.xianni-ch858-target-108-immortals-poluo-xinjin — 第858章 目标，一百零八仙——清水赠唤雨冰晶、李元传破灭心禁 · kind=plot asOf=2026-08-23 entities=33 relations=48 src=00800-00804.p3.md
 - **2026-08-23T14:28:11.380Z** `ingest` plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives — 第859章 来临：罗天南域地炎星封号之战开场，王林悄然抵达 · kind=plot asOf=2026-08-23 entities=36 relations=48 src=00800-00804.p4.md
+- **2026-08-23T14:30:10.422Z** `ingest` plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou — 第860章 我要第一——王林战意压地炎星，一击重创唐言枫 · kind=plot asOf=2026-08-23 entities=22 relations=25 src=00800-00804.p5.md

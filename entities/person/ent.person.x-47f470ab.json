@@ -22,9 +22,11 @@
     "身份": "在雷之仙界门下候场的修士、闯入者一方的领头人物、唐家少主、唐家领头人、曾在雷之仙界大门外嘲讽申公虎、南域封号争夺资格者",
     "阵营": "与王林敌对",
     "称号": "南域三杰",
-    "小阶段": "阳实",
+    "小阶段": "阳实巅峰",
     "出身地": "罗天南域",
-    "存殁": "存活"
+    "存殁": "重伤未死",
+    "本命法宝": "红色长剑",
+    "标志特征": "神通化作血色红莲"
   },
   "observations": {
     "性别": [
@@ -140,6 +142,11 @@
         "value": "阳实",
         "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
         "seq": 736
+      },
+      {
+        "value": "阳实巅峰",
+        "docId": "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou",
+        "seq": 800
       }
     ],
     "出身地": [
@@ -154,6 +161,25 @@
         "value": "存活",
         "docId": "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
         "seq": 743
+      },
+      {
+        "value": "重伤未死",
+        "docId": "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou",
+        "seq": 800
+      }
+    ],
+    "本命法宝": [
+      {
+        "value": "红色长剑",
+        "docId": "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou",
+        "seq": 800
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "神通化作血色红莲",
+        "docId": "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou",
+        "seq": 800
       }
     ]
   },
@@ -198,9 +224,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+      "docId": "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou",
       "dated": false,
-      "seq": 736
+      "seq": 800
     },
     "出身地": {
       "asOf": null,
@@ -210,9 +236,21 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
+      "docId": "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou",
       "dated": false,
-      "seq": 743
+      "seq": 800
+    },
+    "本命法宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou",
+      "dated": false,
+      "seq": 800
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou",
+      "dated": false,
+      "seq": 800
     }
   },
   "contested": false,
@@ -224,7 +262,8 @@
     "plot.xianni-ch778-jubian-zhixu-fuwen-tongdao-liaoshang-dazhen",
     "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
     "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
-    "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives"
+    "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives",
+    "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou"
   ],
-  "updatedAt": "2026-08-23T14:28:11.145Z"
+  "updatedAt": "2026-08-23T14:30:10.189Z"
 }
