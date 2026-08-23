@@ -4,16 +4,22 @@
   "name": "于非",
   "aliases": [
     "杀侍于非",
-    "Yu Fei"
+    "Yu Fei",
+    "红衣人于非",
+    "红衣人",
+    "于某"
   ],
   "summary": "修真联盟杀域界杀侍，红衣青年，以七把赤红血剑可各化分身，前来索取“许木”（王林）人头。",
   "attributes": {
     "性别": "男",
     "身份": "修真联盟杀域界杀侍",
     "小阶段": "窥涅中期",
-    "外貌": "一身红衣，年约三十许岁",
+    "外貌": "红衣",
     "标志特征": "身前环绕七把赤红之剑、脚踏蜂窝状坑洼巨石、煞气化蟒状凶兽",
-    "分身": "血剑所化分身（窥涅初期）"
+    "分身": "五个分身，可化作五把赤红大剑",
+    "阵营": "杀域界",
+    "性格": "狂傲冷酷，自称所杀之人皆大名鼎鼎",
+    "本命法宝": "三十五把飞剑"
   },
   "observations": {
     "性别": [
@@ -42,6 +48,11 @@
         "value": "一身红衣，年约三十许岁",
         "docId": "plot.xianni-ch908-departure-zhuque-star-yu-fei-ambush",
         "seq": 840
+      },
+      {
+        "value": "红衣",
+        "docId": "plot.xianni-ch909-give-you-a-miracle-yufei-thunder-tree-branch-fusion",
+        "seq": 845
       }
     ],
     "标志特征": [
@@ -67,6 +78,32 @@
         "docId": "plot.xianni-ch908-departure-zhuque-star-yu-fei-ambush",
         "seq": 840,
         "note": "本章共化出七分身中的七道剑光、放出五分身共三十五把飞剑"
+      },
+      {
+        "value": "五个分身，可化作五把赤红大剑",
+        "docId": "plot.xianni-ch909-give-you-a-miracle-yufei-thunder-tree-branch-fusion",
+        "seq": 845
+      }
+    ],
+    "阵营": [
+      {
+        "value": "杀域界",
+        "docId": "plot.xianni-ch909-give-you-a-miracle-yufei-thunder-tree-branch-fusion",
+        "seq": 845
+      }
+    ],
+    "性格": [
+      {
+        "value": "狂傲冷酷，自称所杀之人皆大名鼎鼎",
+        "docId": "plot.xianni-ch909-give-you-a-miracle-yufei-thunder-tree-branch-fusion",
+        "seq": 845
+      }
+    ],
+    "本命法宝": [
+      {
+        "value": "三十五把飞剑",
+        "docId": "plot.xianni-ch909-give-you-a-miracle-yufei-thunder-tree-branch-fusion",
+        "seq": 845
       }
     ]
   },
@@ -92,9 +129,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch908-departure-zhuque-star-yu-fei-ambush",
+      "docId": "plot.xianni-ch909-give-you-a-miracle-yufei-thunder-tree-branch-fusion",
       "dated": false,
-      "seq": 840
+      "seq": 845
     },
     "标志特征": {
       "asOf": null,
@@ -104,16 +141,34 @@
     },
     "分身": {
       "asOf": null,
-      "docId": "plot.xianni-ch908-departure-zhuque-star-yu-fei-ambush",
+      "docId": "plot.xianni-ch909-give-you-a-miracle-yufei-thunder-tree-branch-fusion",
       "dated": false,
-      "seq": 840,
-      "note": "本章共化出七分身中的七道剑光、放出五分身共三十五把飞剑"
+      "seq": 845
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch909-give-you-a-miracle-yufei-thunder-tree-branch-fusion",
+      "dated": false,
+      "seq": 845
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch909-give-you-a-miracle-yufei-thunder-tree-branch-fusion",
+      "dated": false,
+      "seq": 845
+    },
+    "本命法宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch909-give-you-a-miracle-yufei-thunder-tree-branch-fusion",
+      "dated": false,
+      "seq": 845
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch908-departure-zhuque-star-yu-fei-ambush"
+    "plot.xianni-ch908-departure-zhuque-star-yu-fei-ambush",
+    "plot.xianni-ch909-give-you-a-miracle-yufei-thunder-tree-branch-fusion"
   ],
-  "updatedAt": "2026-08-23T19:28:44.552Z"
+  "updatedAt": "2026-08-23T19:30:53.038Z"
 }
