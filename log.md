@@ -403,3 +403,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T22:26:44.191Z** `ingest` plot.xianni-ch955-shiyinzong-neizong-dizi — 仙逆 第955章 尸阴宗内宗弟子：王林救大头、瞬杀夺舍巨魔族的孙狗子 · kind=plot asOf=2026-08-23 entities=15 relations=23 src=00885-00889.p5.md
 - **2026-08-23T22:34:23.709Z** `ingest` plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star — 《仙逆》第956章 粉衣女子：五彩蝶反卷自爆之力重伤蓝衫青年，王林独返天运星 · kind=plot asOf=2026-08-23 entities=49 relations=73 src=00890-00894.p1.md
 - **2026-08-23T22:37:05.003Z** `ingest` plot.xianni-ch957-wang-lin-returns-tianyun-sect — 第957章 来临——王林窥涅初期归返天运宗，仙府令牌之争引凌天候出手 · kind=plot asOf=2026-08-23 entities=32 relations=39 src=00890-00894.p2.md
+- **2026-08-23T22:44:53.670Z** `ingest` plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi — 第958章 认可：王林接剑尊凌天候三道剑气，三九之剑震慑天运星老怪 · kind=plot asOf=2026-08-23 entities=42 relations=67 src=00890-00894.p3.md

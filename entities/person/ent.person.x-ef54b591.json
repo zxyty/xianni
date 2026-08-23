@@ -9,7 +9,9 @@
   "summary": "身穿黑白双色道袍、坐于葫芦之上的老怪；追问王林当年遁走缘由，并索要仙府令牌。",
   "attributes": {
     "外貌": "黑白双色道袍，坐在葫芦之上",
-    "性格": "含笑而双目幽光闪烁，心思难测"
+    "性格": "含笑而双目幽光闪烁，心思难测",
+    "标志特征": "坐于葫芦之上",
+    "阵营": "天运星老怪"
   },
   "observations": {
     "外貌": [
@@ -23,6 +25,20 @@
       {
         "value": "含笑而双目幽光闪烁，心思难测",
         "docId": "plot.xianni-ch957-wang-lin-returns-tianyun-sect",
+        "seq": 890
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "坐于葫芦之上",
+        "docId": "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi",
+        "seq": 890
+      }
+    ],
+    "阵营": [
+      {
+        "value": "天运星老怪",
+        "docId": "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi",
         "seq": 890
       }
     ]
@@ -40,12 +56,25 @@
       "docId": "plot.xianni-ch957-wang-lin-returns-tianyun-sect",
       "dated": false,
       "seq": 890
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi",
+      "dated": false,
+      "seq": 890
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi",
+      "dated": false,
+      "seq": 890
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch957-wang-lin-returns-tianyun-sect"
+    "plot.xianni-ch957-wang-lin-returns-tianyun-sect",
+    "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi"
   ],
-  "updatedAt": "2026-08-23T22:37:04.686Z"
+  "updatedAt": "2026-08-23T22:44:53.341Z"
 }

@@ -5,13 +5,15 @@
   "aliases": [
     "身体硕大如肉山的老者",
     "坐紫竹大椅的老者",
-    "身体硕大如肉山般的老者"
+    "身体硕大如肉山般的老者",
+    "肉山一般的老者"
   ],
   "summary": "到场的大神通修士之一，体形硕大如一座肉山，坐紫竹大椅，由四名精光双目的大汉抬着。",
   "attributes": {
-    "外貌": "身体极为硕大，仿若一座肉山、身体硕大仿若肉山",
+    "外貌": "身体极为硕大，仿若一座肉山、身体硕大仿若肉山、肉山一般硕大身躯",
     "标志特征": "坐紫竹大椅，由四名大汉抬行",
-    "小阶段": "净涅初期"
+    "小阶段": "净涅初期",
+    "身份": "炼丹之人（自述有丹药正炼）"
   },
   "observations": {
     "外貌": [
@@ -23,6 +25,11 @@
       {
         "value": "身体硕大仿若肉山",
         "docId": "plot.xianni-ch957-wang-lin-returns-tianyun-sect",
+        "seq": 890
+      },
+      {
+        "value": "肉山一般硕大身躯",
+        "docId": "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi",
         "seq": 890
       }
     ],
@@ -37,6 +44,13 @@
       {
         "value": "净涅初期",
         "docId": "plot.xianni-ch957-wang-lin-returns-tianyun-sect",
+        "seq": 890
+      }
+    ],
+    "身份": [
+      {
+        "value": "炼丹之人（自述有丹药正炼）",
+        "docId": "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi",
         "seq": 890
       }
     ]
@@ -60,13 +74,20 @@
       "docId": "plot.xianni-ch957-wang-lin-returns-tianyun-sect",
       "dated": false,
       "seq": 890
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi",
+      "dated": false,
+      "seq": 890
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star",
-    "plot.xianni-ch957-wang-lin-returns-tianyun-sect"
+    "plot.xianni-ch957-wang-lin-returns-tianyun-sect",
+    "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi"
   ],
-  "updatedAt": "2026-08-23T22:37:04.687Z"
+  "updatedAt": "2026-08-23T22:44:53.377Z"
 }
