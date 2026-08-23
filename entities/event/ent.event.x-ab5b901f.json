@@ -4,14 +4,16 @@
   "name": "仙界崩溃",
   "aliases": [
     "仙界末崩溃",
-    "仙界崩塌"
+    "仙界崩塌",
+    "四大仙界崩溃"
   ],
   "summary": "远古大事件，仙界崩溃；传闻第一仙帝青霖未随之身亡，而是力战负伤遁走。",
   "attributes": {
     "章节": "第616章（追述）",
-    "世内时序": "远古，青霖仙帝洞府形成之前",
-    "参与方": "青霖",
-    "结果": "青霖负伤遁走，其洞府遗留于妖灵之地"
+    "世内时序": "清水被封印之后、屠杀仙人后不到百年",
+    "参与方": "四大仙界",
+    "结果": "青霖负伤遁走，其洞府遗留于妖灵之地、四大仙界全部崩溃、带远古仙域气息的卷宗从天而降",
+    "影响": "炎雷子疑其与清水屠杀仙人一事有莫大关联"
   },
   "observations": {
     "章节": [
@@ -26,6 +28,11 @@
         "value": "远古，青霖仙帝洞府形成之前",
         "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
         "seq": 576
+      },
+      {
+        "value": "清水被封印之后、屠杀仙人后不到百年",
+        "docId": "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
+        "seq": 751
       }
     ],
     "参与方": [
@@ -33,6 +40,11 @@
         "value": "青霖",
         "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
         "seq": 576
+      },
+      {
+        "value": "四大仙界",
+        "docId": "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
+        "seq": 751
       }
     ],
     "结果": [
@@ -40,6 +52,23 @@
         "value": "青霖负伤遁走，其洞府遗留于妖灵之地",
         "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
         "seq": 576
+      },
+      {
+        "value": "四大仙界全部崩溃",
+        "docId": "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
+        "seq": 751
+      },
+      {
+        "value": "带远古仙域气息的卷宗从天而降",
+        "docId": "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
+        "seq": 751
+      }
+    ],
+    "影响": [
+      {
+        "value": "炎雷子疑其与清水屠杀仙人一事有莫大关联",
+        "docId": "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
+        "seq": 751
       }
     ]
   },
@@ -53,27 +82,34 @@
     },
     "世内时序": {
       "asOf": null,
-      "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
+      "docId": "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
       "dated": false,
-      "seq": 576
+      "seq": 751
     },
     "参与方": {
       "asOf": null,
-      "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
+      "docId": "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
       "dated": false,
-      "seq": 576
+      "seq": 751
     },
     "结果": {
       "asOf": null,
       "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
       "dated": false,
       "seq": 576
+    },
+    "影响": {
+      "asOf": null,
+      "docId": "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
+      "dated": false,
+      "seq": 751
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch616-immortal-emperor-qinglin-secret"
+    "plot.xianni-ch616-immortal-emperor-qinglin-secret",
+    "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure"
   ],
-  "updatedAt": "2026-08-22T16:18:39.283Z"
+  "updatedAt": "2026-08-23T09:48:28.055Z"
 }

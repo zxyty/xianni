@@ -3,13 +3,17 @@
   "type": "person",
   "name": "金袍男子",
   "aliases": [
-    "第一个出手的金袍男子"
+    "第一个出手的金袍男子",
+    "阳实金袍修士",
+    "千丈碎石三修之首"
   ],
   "summary": "最先出手攻击白发怪人的修士，被白发怪人化血影冲入体内崩溃，元神被吞。",
   "attributes": {
-    "存殁": "死亡",
+    "存殁": "肉身崩毁，元神逃逸被追",
     "死因": "被白发怪人化血影贯体，肉身崩溃、元神被吞",
-    "外貌": "金袍"
+    "外貌": "金袍",
+    "性别": "男",
+    "小阶段": "阳实"
   },
   "observations": {
     "存殁": [
@@ -17,6 +21,12 @@
         "value": "死亡",
         "docId": "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
         "seq": 743
+      },
+      {
+        "value": "肉身崩毁，元神逃逸被追",
+        "docId": "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
+        "seq": 751,
+        "note": "第751章本片段未交代最终生死"
       }
     ],
     "死因": [
@@ -32,15 +42,30 @@
         "docId": "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
         "seq": 743
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
+        "seq": 751
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "阳实",
+        "docId": "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
+        "seq": 751
+      }
     ]
   },
   "firstSeq": 743,
   "attrProvenance": {
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
+      "docId": "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
       "dated": false,
-      "seq": 743
+      "seq": 751,
+      "note": "第751章本片段未交代最终生死"
     },
     "死因": {
       "asOf": null,
@@ -53,12 +78,25 @@
       "docId": "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
       "dated": false,
       "seq": 743
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
+      "dated": false,
+      "seq": 751
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
+      "dated": false,
+      "seq": 751
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm"
+    "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
+    "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure"
   ],
-  "updatedAt": "2026-08-23T09:06:12.704Z"
+  "updatedAt": "2026-08-23T09:48:28.091Z"
 }
