@@ -7,12 +7,13 @@
     "网状大阵",
     "闪烁之网",
     "网状之物",
-    "虚无处的绝元大阵"
+    "虚无处的绝元大阵",
+    "虚无闪烁之网"
   ],
   "summary": "封印这片虚无的大阵，本不可能现形，却在灭神矛挥扫下显出大片网状原形。",
   "attributes": {
-    "效果": "封锁虚无之处，网下藏有常人不可见的幽光",
-    "破解法": "网体断裂并疯狂扩张成缝隙"
+    "效果": "封印虚无、封锁虚无之处，网下藏有常人不可见的幽光、封印封界内外，正在收缩恢复完成重新封印",
+    "破解法": "灭神矛可逼出其网状原形、网体断裂并疯狂扩张成缝隙、天逆珠黑白二气可直接穿透"
   },
   "observations": {
     "效果": [
@@ -24,6 +25,11 @@
       {
         "value": "封锁虚无之处，网下藏有常人不可见的幽光",
         "docId": "plot.xianni-942-tianni-zhu-tremor-fissure-opens",
+        "seq": 876
+      },
+      {
+        "value": "封印封界内外，正在收缩恢复完成重新封印",
+        "docId": "plot.xianni-ch944-tianni-zhu-reappears-wanglin-five-star-royal-ancient-god",
         "seq": 876
       }
     ],
@@ -39,6 +45,12 @@
         "docId": "plot.xianni-942-tianni-zhu-tremor-fissure-opens",
         "seq": 876,
         "note": "本章为自内而外被撕开"
+      },
+      {
+        "value": "天逆珠黑白二气可直接穿透",
+        "docId": "plot.xianni-ch944-tianni-zhu-reappears-wanglin-five-star-royal-ancient-god",
+        "seq": 876,
+        "note": "第944章"
       }
     ]
   },
@@ -46,23 +58,24 @@
   "attrProvenance": {
     "效果": {
       "asOf": null,
-      "docId": "plot.xianni-942-tianni-zhu-tremor-fissure-opens",
+      "docId": "plot.xianni-ch941-wang-clan-artifact-mie-shen-mao",
       "dated": false,
-      "seq": 876
+      "seq": 870
     },
     "破解法": {
       "asOf": null,
-      "docId": "plot.xianni-942-tianni-zhu-tremor-fissure-opens",
+      "docId": "plot.xianni-ch941-wang-clan-artifact-mie-shen-mao",
       "dated": false,
-      "seq": 876,
-      "note": "本章为自内而外被撕开"
+      "seq": 870,
+      "note": "第941章仅现形，未破"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch941-wang-clan-artifact-mie-shen-mao",
-    "plot.xianni-942-tianni-zhu-tremor-fissure-opens"
+    "plot.xianni-942-tianni-zhu-tremor-fissure-opens",
+    "plot.xianni-ch944-tianni-zhu-reappears-wanglin-five-star-royal-ancient-god"
   ],
-  "updatedAt": "2026-08-23T21:39:33.822Z"
+  "updatedAt": "2026-08-23T21:44:28.509Z"
 }
