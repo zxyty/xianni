@@ -3,11 +3,13 @@
   "type": "person",
   "name": "大王朝国师",
   "aliases": [
-    "国师"
+    "国师",
+    "怨灵三弟子之师"
   ],
   "summary": "大王朝国师，数月前夜观天象称凶星出自西北，遂促成屠杀西北平民数十万，致西北尸骸遍地、怨气冲天。",
   "attributes": {
-    "身份": "大王朝国师"
+    "身份": "大王朝国师",
+    "标志特征": "本章只闻其声未见其人"
   },
   "observations": {
     "身份": [
@@ -15,6 +17,14 @@
         "value": "大王朝国师",
         "docId": "plot.xianni-ch894-da-wang-chao-grievance-qi",
         "seq": 834
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "本章只闻其声未见其人",
+        "docId": "plot.xianni-ch895-wanglin-nu-zhuque-wangchao-yuanling",
+        "seq": 834,
+        "note": "第895章"
       }
     ]
   },
@@ -25,12 +35,20 @@
       "docId": "plot.xianni-ch894-da-wang-chao-grievance-qi",
       "dated": false,
       "seq": 834
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch895-wanglin-nu-zhuque-wangchao-yuanling",
+      "dated": false,
+      "seq": 834,
+      "note": "第895章"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch894-da-wang-chao-grievance-qi"
+    "plot.xianni-ch894-da-wang-chao-grievance-qi",
+    "plot.xianni-ch895-wanglin-nu-zhuque-wangchao-yuanling"
   ],
-  "updatedAt": "2026-08-23T18:05:50.784Z"
+  "updatedAt": "2026-08-23T18:08:37.477Z"
 }
