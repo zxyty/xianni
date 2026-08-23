@@ -4,15 +4,19 @@
   "name": "蛮荒星",
   "aliases": [
     "无人蛮荒星",
-    "王林施展寂灭指的蛮荒星"
+    "王林施展寂灭指的蛮荒星",
+    "王林闭关的蛮荒星",
+    "灵气缺乏的蛮荒星"
   ],
   "summary": "联盟星域内一颗渺无人烟、灵力不多但生机盎然、丛林密布的星球，被王林选作施展寂灭指吸取生机之地。",
   "attributes": {
     "上级区域": "联盟星域",
-    "类型": "星球",
-    "特产": "浓郁丛林与旺盛生机",
-    "危险度": "万里内生灵尽灭、大地枯裂",
-    "规模": "受影响范围方圆数十万里"
+    "类型": "蛮荒星球",
+    "特产": "无灵智凶兽（数丈大蛇、生翅猛虎等）",
+    "危险度": "凶兽众多但无灵智",
+    "规模": "受影响范围方圆数十万里",
+    "方位": "联盟西部，位置偏僻",
+    "所属势力": "罗天星域（数人把守）"
   },
   "observations": {
     "上级区域": [
@@ -32,6 +36,11 @@
         "value": "星球",
         "docId": "plot.xianni-ch889-wang-lin-returns-zhuque-star",
         "seq": 830
+      },
+      {
+        "value": "蛮荒星球",
+        "docId": "plot.xianni-ch912-wen-cuo-luotian-thunder-immortal-questioning",
+        "seq": 845
       }
     ],
     "特产": [
@@ -39,6 +48,11 @@
         "value": "浓郁丛林与旺盛生机",
         "docId": "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star",
         "seq": 826
+      },
+      {
+        "value": "无灵智凶兽（数丈大蛇、生翅猛虎等）",
+        "docId": "plot.xianni-ch912-wen-cuo-luotian-thunder-immortal-questioning",
+        "seq": 845
       }
     ],
     "危险度": [
@@ -47,6 +61,11 @@
         "docId": "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star",
         "seq": 826,
         "note": "王林施展寂灭指之后"
+      },
+      {
+        "value": "凶兽众多但无灵智",
+        "docId": "plot.xianni-ch912-wen-cuo-luotian-thunder-immortal-questioning",
+        "seq": 845
       }
     ],
     "规模": [
@@ -54,6 +73,20 @@
         "value": "受影响范围方圆数十万里",
         "docId": "plot.xianni-ch889-wang-lin-returns-zhuque-star",
         "seq": 830
+      }
+    ],
+    "方位": [
+      {
+        "value": "联盟西部，位置偏僻",
+        "docId": "plot.xianni-ch912-wen-cuo-luotian-thunder-immortal-questioning",
+        "seq": 845
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "罗天星域（数人把守）",
+        "docId": "plot.xianni-ch912-wen-cuo-luotian-thunder-immortal-questioning",
+        "seq": 845
       }
     ]
   },
@@ -67,35 +100,47 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch889-wang-lin-returns-zhuque-star",
+      "docId": "plot.xianni-ch912-wen-cuo-luotian-thunder-immortal-questioning",
       "dated": false,
-      "seq": 830
+      "seq": 845
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star",
+      "docId": "plot.xianni-ch912-wen-cuo-luotian-thunder-immortal-questioning",
       "dated": false,
-      "seq": 826
+      "seq": 845
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star",
+      "docId": "plot.xianni-ch912-wen-cuo-luotian-thunder-immortal-questioning",
       "dated": false,
-      "seq": 826,
-      "note": "王林施展寂灭指之后"
+      "seq": 845
     },
     "规模": {
       "asOf": null,
       "docId": "plot.xianni-ch889-wang-lin-returns-zhuque-star",
       "dated": false,
       "seq": 830
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch912-wen-cuo-luotian-thunder-immortal-questioning",
+      "dated": false,
+      "seq": 845
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch912-wen-cuo-luotian-thunder-immortal-questioning",
+      "dated": false,
+      "seq": 845
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch887-return-to-alliance-jimie-finger-zhuque-star",
-    "plot.xianni-ch889-wang-lin-returns-zhuque-star"
+    "plot.xianni-ch889-wang-lin-returns-zhuque-star",
+    "plot.xianni-ch912-wen-cuo-luotian-thunder-immortal-questioning"
   ],
-  "updatedAt": "2026-08-23T17:54:31.354Z"
+  "updatedAt": "2026-08-23T19:37:54.820Z"
 }

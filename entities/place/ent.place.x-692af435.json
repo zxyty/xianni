@@ -3,13 +3,15 @@
   "type": "place",
   "name": "联盟西部",
   "aliases": [
-    "修真联盟西部"
+    "修真联盟西部",
+    "联盟西部星空",
+    "联盟西部战区"
   ],
   "summary": "章末赤衣冰寒男子急速奔赴的方向。",
   "attributes": {
     "方位": "联盟星域西部",
     "上级区域": "联盟星域",
-    "所属势力": "修真联盟"
+    "所属势力": "修真联盟、罗天星域"
   },
   "observations": {
     "方位": [
@@ -31,6 +33,12 @@
         "value": "修真联盟",
         "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
         "seq": 845
+      },
+      {
+        "value": "罗天星域",
+        "docId": "plot.xianni-ch912-wen-cuo-luotian-thunder-immortal-questioning",
+        "seq": 845,
+        "note": "第912章时已被罗天占据"
       }
     ]
   },
@@ -59,7 +67,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch907-zhuque-sequence",
-    "plot.xianni-ch911-sha-yu-jie-kill-yu-fei"
+    "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
+    "plot.xianni-ch912-wen-cuo-luotian-thunder-immortal-questioning"
   ],
-  "updatedAt": "2026-08-23T19:35:24.397Z"
+  "updatedAt": "2026-08-23T19:37:54.820Z"
 }
