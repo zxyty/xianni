@@ -357,3 +357,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T18:32:17.279Z** `ingest` plot.xianni-ch898-zhuque-star-karma-repayment — 第898章 雷吉(之1/2·段3/3)：王林重返朱雀星了却旧日因果 · kind=plot asOf=2026-08-23 entities=41 relations=78 src=00839-00839.p1c.md
 - **2026-08-23T18:34:30.002Z** `ingest` plot.xianni-ch898-lei-ji-2-restore-zhuque-star-soul — 第898章 雷吉（之2/2）：王林抽七星星魂复苏朱雀星，杀域界悬赏许木人头 · kind=plot asOf=2026-08-23 entities=24 relations=39 src=00839-00839.p2.md
 - **2026-08-23T19:18:14.134Z** `ingest` plot.xianni-ch904-tanmi-xianyi — 仙逆 第904章 探秘仙遗：王林重返朱雀星仙遗族深坑 · kind=plot asOf=2026-08-23 entities=32 relations=56 src=00840-00844.p1.md
+- **2026-08-23T19:20:53.795Z** `ingest` plot.xianni-ch905-punishment-hall-immortal-corpses — 第905章 刑罚仙人：仙遗族地下第十七层刑堂与吊仙干尸 · kind=plot asOf=2026-08-23 entities=25 relations=38 src=00840-00844.p2.md
