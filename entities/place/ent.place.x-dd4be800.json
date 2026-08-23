@@ -16,8 +16,8 @@
     "上级区域": "罗天星域",
     "所属势力": "东临星许家",
     "类型": "星辰",
-    "危险度": "极高（势力极强，暂不可去）",
-    "特产": "擅长魔气神通的修士",
+    "危险度": "极高，无人敢招惹",
+    "特产": "屠星立威之传统",
     "所属界面": "罗天星域"
   },
   "observations": {
@@ -62,6 +62,11 @@
         "value": "极高（势力极强，暂不可去）",
         "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
         "seq": 621
+      },
+      {
+        "value": "极高，无人敢招惹",
+        "docId": "plot.xianni-828-modaozi-tuxing-luotian-xiyu",
+        "seq": 771
       }
     ],
     "特产": [
@@ -69,6 +74,12 @@
         "value": "擅长魔气神通的修士",
         "docId": "plot.xianni-ch734-shenton-exchange-third-eye",
         "seq": 693
+      },
+      {
+        "value": "屠星立威之传统",
+        "docId": "plot.xianni-828-modaozi-tuxing-luotian-xiyu",
+        "seq": 771,
+        "note": "每代传人对招惹者必屠星"
       }
     ],
     "所属界面": [
@@ -101,15 +112,16 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
+      "docId": "plot.xianni-828-modaozi-tuxing-luotian-xiyu",
       "dated": false,
-      "seq": 621
+      "seq": 771
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-ch734-shenton-exchange-third-eye",
+      "docId": "plot.xianni-828-modaozi-tuxing-luotian-xiyu",
       "dated": false,
-      "seq": 693
+      "seq": 771,
+      "note": "每代传人对招惹者必屠星"
     },
     "所属界面": {
       "asOf": null,
@@ -132,7 +144,8 @@
     "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan",
     "plot.xianni-ch778-jubian-zhixu-fuwen-tongdao-liaoshang-dazhen",
     "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
-    "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin"
+    "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
+    "plot.xianni-828-modaozi-tuxing-luotian-xiyu"
   ],
-  "updatedAt": "2026-08-23T12:01:50.140Z"
+  "updatedAt": "2026-08-23T12:26:07.604Z"
 }
