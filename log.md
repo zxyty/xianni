@@ -239,3 +239,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T01:41:07.442Z** `ingest` plot.xianni-674-678-wangyue-awaken-bone-heist — 仙逆 第674-678章：望月苏醒，王林夺骨逃遁 · kind=plot asOf=2026-08-23 entities=62 relations=121 src=00674-00678.md
 - **2026-08-23T02:00:23.670Z** `ingest` plot.xianni-ch679-683-thunder-star-body-reforge — 仙逆 第679-683章：雷光星球凝聚肉身与天逆吸收金炎矿 · kind=plot asOf=2026-08-23 entities=59 relations=94 src=00679-00683.md
 - **2026-08-23T02:19:02.201Z** `ingest` plot.xianni-ch684-688-tianni-space-dao-seeking-third-step — 第684-688章 天逆空间寻道，王林窥见第三步 · kind=plot asOf=2026-08-23 entities=63 relations=110 src=00684-00688.md
+- **2026-08-23T03:05:19.152Z** `ingest` plot.xianni-ch689-692-zhankonglie-suspicion-leichi — 仙逆 第689-692章：战空烈起疑，申公虎奉王林为「尊主」并接战 · kind=plot asOf=2026-08-23 entities=71 relations=128 src=00689-00692.md

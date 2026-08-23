@@ -1,0 +1,63 @@
+{
+  "id": "ent.pill.x-703b1a56",
+  "type": "pill",
+  "name": "雷仙殿丹药",
+  "aliases": [
+    "散发红芒的丹药",
+    "红芒丹药"
+  ],
+  "summary": "申公虎捏碎药瓶后吞服的唯一一粒红芒丹药，可压制伤势、使气息暴虐并在短时间内达到巅峰。",
+  "attributes": {
+    "功效": "压制伤势、短时间内气息达到巅峰、气息暴虐",
+    "副作用": "仅短时有效，之后仍显不足"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "压制伤势",
+        "docId": "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
+        "seq": 689
+      },
+      {
+        "value": "短时间内气息达到巅峰",
+        "docId": "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
+        "seq": 689
+      },
+      {
+        "value": "气息暴虐",
+        "docId": "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
+        "seq": 689
+      }
+    ],
+    "副作用": [
+      {
+        "value": "仅短时有效，之后仍显不足",
+        "docId": "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
+        "seq": 689,
+        "note": "施展引雷之术时右手仍颤抖"
+      }
+    ]
+  },
+  "firstSeq": 689,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
+      "dated": false,
+      "seq": 689
+    },
+    "副作用": {
+      "asOf": null,
+      "docId": "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
+      "dated": false,
+      "seq": 689,
+      "note": "施展引雷之术时右手仍颤抖"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.xianni-ch689-692-zhankonglie-suspicion-leichi"
+  ],
+  "updatedAt": "2026-08-23T03:05:18.895Z"
+}

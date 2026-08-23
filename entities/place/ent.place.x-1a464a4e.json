@@ -15,16 +15,18 @@
     "Thunder Pond",
     "雷池中心",
     "雷池内环",
-    "雷池边缘"
+    "雷池边缘",
+    "Leichi",
+    "雷池内"
   ],
   "summary": "罗天南域碎石层内延绵无数里的巨大雷池，雷霆化雷龙呼啸，因当年天逆现世而形成，是修炼雷系神通的妙地。",
   "attributes": {
     "所属界面": "罗天星域",
-    "上级区域": "碎石层",
-    "类型": "雷霆异变之地/禁地、雷属性秘地、险地、雷电秘境、修炼秘地/雷电之地、雷之秘境/修炼禁地",
-    "危险度": "极高，雷威超过王林体内之雷，寻常修士难以靠近、高、极高、极高，按『步数』分层、极高，雷威可阻一切生灵前进",
+    "上级区域": "罗天南域",
+    "类型": "雷霆异变之地/禁地、雷属性秘地、险地、雷电秘境、修炼秘地/雷电之地、雷之秘境/修炼禁地、雷属性修炼秘境/禁地、感悟之地/禁地、修炼秘境/雷霆之地",
+    "危险度": "极高，雷威超过王林体内之雷，寻常修士难以靠近、高、极高、极高，按『步数』分层、极高，雷威可阻一切生灵前进、极高（阳实圆满亦不可入内环）",
     "规模": "延绵无数里、无边无际、较当年缩小近一半，隐约可见尽头、因天逆缩小了一半",
-    "特产": "可供第二步修士吸收的天地元力、雷电、雷兽、雷霆（可抽离元力）、蕴含天地元力的雷霆、雷兽",
+    "特产": "可供第二步修士吸收的天地元力、雷电、雷兽、雷霆（可抽离元力）、蕴含天地元力的雷霆、雷兽、雷兽、雷电、雷的规则、雷霆",
     "方位": "由外向内分为边缘、内环、中心三层"
   },
   "observations": {
@@ -50,6 +52,11 @@
         "value": "碎石层",
         "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
         "seq": 684
+      },
+      {
+        "value": "罗天南域",
+        "docId": "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
+        "seq": 689
       }
     ],
     "类型": [
@@ -82,6 +89,21 @@
         "value": "雷之秘境/修炼禁地",
         "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
         "seq": 684
+      },
+      {
+        "value": "雷属性修炼秘境/禁地",
+        "docId": "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
+        "seq": 689
+      },
+      {
+        "value": "感悟之地/禁地",
+        "docId": "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
+        "seq": 689
+      },
+      {
+        "value": "修炼秘境/雷霆之地",
+        "docId": "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
+        "seq": 689
       }
     ],
     "危险度": [
@@ -110,6 +132,11 @@
         "value": "极高，雷威可阻一切生灵前进",
         "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
         "seq": 684
+      },
+      {
+        "value": "极高（阳实圆满亦不可入内环）",
+        "docId": "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
+        "seq": 689
       }
     ],
     "规模": [
@@ -156,6 +183,21 @@
         "value": "雷兽",
         "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
         "seq": 684
+      },
+      {
+        "value": "雷兽、雷电",
+        "docId": "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
+        "seq": 689
+      },
+      {
+        "value": "雷的规则",
+        "docId": "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
+        "seq": 689
+      },
+      {
+        "value": "雷霆",
+        "docId": "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
+        "seq": 689
       }
     ],
     "方位": [
@@ -176,9 +218,9 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+      "docId": "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
       "dated": false,
-      "seq": 684
+      "seq": 689
     },
     "类型": {
       "asOf": null,
@@ -215,7 +257,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch679-683-thunder-star-body-reforge",
-    "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step"
+    "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+    "plot.xianni-ch689-692-zhankonglie-suspicion-leichi"
   ],
-  "updatedAt": "2026-08-23T02:19:01.979Z"
+  "updatedAt": "2026-08-23T03:05:18.940Z"
 }
