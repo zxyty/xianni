@@ -307,3 +307,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T13:43:58.337Z** `ingest` plot.xianni-ch841-ancient-god-shattered-star — 第841章 古神碎星：七大高手围攻望月，古神幼子崩星送王林出困 · kind=plot asOf=2026-08-23 entities=23 relations=32 src=00785-00789.p1.md
 - **2026-08-23T13:46:26.650Z** `ingest` plot.xianni-ch842-seal-wangyue-guzhen-yizhi — 第842章 封印望月：六大老怪合围、古神一指崩阵、王林踏入古神幼子传送阵 · kind=plot asOf=2026-08-23 entities=24 relations=30 src=00785-00789.p2.md
 - **2026-08-23T13:48:55.850Z** `ingest` plot.xianni-ch843-return-to-qingling-star — 第843章 回青灵星：脱身望月、闭关祭炼大鼎、吸取姚冰云元力 · kind=plot asOf=2026-08-23 entities=28 relations=39 src=00785-00789.p3.md
+- **2026-08-23T13:51:33.167Z** `ingest` plot.xianni-ch844-devour-yao-bingyun-yuanli-fengxian — 第844章 吞噬——雷仙殿封一百零八仙，王林炼化姚冰云元力至阳实巅峰、悟“吞噬意境” · kind=plot asOf=2026-08-23 entities=31 relations=40 src=00785-00789.p4.md
