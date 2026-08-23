@@ -289,3 +289,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T12:12:12.156Z** `ingest` plot.xianni-ch768-769-xuanchen-star-betrayal-xu-mu-exposed — 第768-769章 许木！——玄尘星三修出卖行踪，王林反杀搜魂 · kind=plot asOf=2026-08-23 entities=43 relations=71 src=00768-00769.md
 - **2026-08-23T12:14:35.898Z** `ingest` plot.xianni-ch823-yao-chang-kong-slaughter-interceptors — 第823-826章 姚长空：王林血洗姚家重赏的阻截修士，迎战窥涅期姚长东 · kind=plot asOf=2026-08-23 entities=25 relations=37 src=00770-00770.pa.md
 - **2026-08-23T12:17:35.535Z** `ingest` plot.xianni-ch823-yao-changkong-part2-fengxianyin-vs-xianfu — 第823章 姚长空(段2/3)：王林封仙印杀局逼出仙人金丹，反被帝仙符封印全身 · kind=plot asOf=2026-08-23 entities=28 relations=37 src=00770-00770.pb.md
+- **2026-08-23T12:20:33.974Z** `ingest` plot.xianni-ch823-yao-changkong-part3-karma-daoist-realm-duel — 仙逆 第823章（段3/3）：王林以因果道境破姚长东荣耀道境，蝴蝶灭其形神 · kind=plot asOf=2026-08-23 entities=26 relations=41 src=00770-00770.pc.md

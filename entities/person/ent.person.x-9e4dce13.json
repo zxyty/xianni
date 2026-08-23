@@ -5,13 +5,19 @@
   "aliases": [
     "姚家血神子",
     "姚家老祖血神子",
-    "姚家先祖血神子"
+    "姚家先祖血神子",
+    "赤色弯眉老者",
+    "姚家祠堂老者"
   ],
   "summary": "姚家强者，被血祖引为倚仗，老者称即便其亲来也不惧。",
   "attributes": {
-    "身份": "姚家先祖",
+    "身份": "姚家高层强者、姚家老祖、姚家先祖、姚家祠堂守灵老者（疑为姚家高层）",
     "称号": "血神子",
-    "阵营": "姚家"
+    "阵营": "姚家",
+    "道号": "血神子",
+    "外貌": "眉毛弯曲垂下、呈赤色",
+    "性格": "阴森、冷酷",
+    "存殁": "存活"
   },
   "observations": {
     "身份": [
@@ -29,6 +35,11 @@
         "value": "姚家先祖",
         "docId": "plot.xianni-ch823-yao-changkong-part2-fengxianyin-vs-xianfu",
         "seq": 770
+      },
+      {
+        "value": "姚家祠堂守灵老者（疑为姚家高层）",
+        "docId": "plot.xianni-ch823-yao-changkong-part3-karma-daoist-realm-duel",
+        "seq": 770
       }
     ],
     "称号": [
@@ -44,15 +55,43 @@
         "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
         "seq": 731
       }
+    ],
+    "道号": [
+      {
+        "value": "血神子",
+        "docId": "plot.xianni-ch823-yao-changkong-part3-karma-daoist-realm-duel",
+        "seq": 770
+      }
+    ],
+    "外貌": [
+      {
+        "value": "眉毛弯曲垂下、呈赤色",
+        "docId": "plot.xianni-ch823-yao-changkong-part3-karma-daoist-realm-duel",
+        "seq": 770
+      }
+    ],
+    "性格": [
+      {
+        "value": "阴森、冷酷",
+        "docId": "plot.xianni-ch823-yao-changkong-part3-karma-daoist-realm-duel",
+        "seq": 770
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch823-yao-changkong-part3-karma-daoist-realm-duel",
+        "seq": 770
+      }
     ]
   },
   "firstSeq": 721,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch823-yao-changkong-part2-fengxianyin-vs-xianfu",
+      "docId": "plot.xianni-ch763-blood-ancestor-split-soul-wanglin-yinxu-breakthrough",
       "dated": false,
-      "seq": 770
+      "seq": 721
     },
     "称号": {
       "asOf": null,
@@ -65,6 +104,30 @@
       "docId": "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
       "dated": false,
       "seq": 731
+    },
+    "道号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch823-yao-changkong-part3-karma-daoist-realm-duel",
+      "dated": false,
+      "seq": 770
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch823-yao-changkong-part3-karma-daoist-realm-duel",
+      "dated": false,
+      "seq": 770
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch823-yao-changkong-part3-karma-daoist-realm-duel",
+      "dated": false,
+      "seq": 770
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch823-yao-changkong-part3-karma-daoist-realm-duel",
+      "dated": false,
+      "seq": 770
     }
   },
   "contested": false,
@@ -73,7 +136,8 @@
     "plot.xianni-ch763-blood-ancestor-split-soul-wanglin-yinxu-breakthrough",
     "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
     "plot.xianni-ch774-zimu-daoku-beast-bone-artifact",
-    "plot.xianni-ch823-yao-changkong-part2-fengxianyin-vs-xianfu"
+    "plot.xianni-ch823-yao-changkong-part2-fengxianyin-vs-xianfu",
+    "plot.xianni-ch823-yao-changkong-part3-karma-daoist-realm-duel"
   ],
-  "updatedAt": "2026-08-23T12:17:35.331Z"
+  "updatedAt": "2026-08-23T12:20:33.761Z"
 }
