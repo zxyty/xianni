@@ -4,12 +4,14 @@
   "name": "望月体内狭长通道",
   "aliases": [
     "望月体内通道",
-    "狭长通道"
+    "狭长通道",
+    "触手通道"
   ],
   "summary": "望月体内一条狭长通道，两侧布满缠绕生灵吸取生机的触手，尽头缠有古神幼子；剧变时全通道触手同时暴动。",
   "attributes": {
-    "类型": "妖兽体内通道",
-    "危险度": "极高（触手瞬间吸尽生机，脆弱者自爆成干尸）"
+    "类型": "体内空间通道",
+    "危险度": "极高（元力风暴横扫、触手崩溃）",
+    "规模": "只有当初一半长短"
   },
   "observations": {
     "类型": [
@@ -17,6 +19,11 @@
         "value": "妖兽体内通道",
         "docId": "plot.xianni-ch840-call-from-inside-wangyue",
         "seq": 780
+      },
+      {
+        "value": "体内空间通道",
+        "docId": "plot.xianni-ch937-hua-di-wei-lao",
+        "seq": 870
       }
     ],
     "危险度": [
@@ -24,6 +31,19 @@
         "value": "极高（触手瞬间吸尽生机，脆弱者自爆成干尸）",
         "docId": "plot.xianni-ch840-call-from-inside-wangyue",
         "seq": 780
+      },
+      {
+        "value": "极高（元力风暴横扫、触手崩溃）",
+        "docId": "plot.xianni-ch937-hua-di-wei-lao",
+        "seq": 870
+      }
+    ],
+    "规模": [
+      {
+        "value": "只有当初一半长短",
+        "docId": "plot.xianni-ch937-hua-di-wei-lao",
+        "seq": 870,
+        "note": "第937章"
       }
     ]
   },
@@ -31,21 +51,29 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch840-call-from-inside-wangyue",
+      "docId": "plot.xianni-ch937-hua-di-wei-lao",
       "dated": false,
-      "seq": 780
+      "seq": 870
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch840-call-from-inside-wangyue",
+      "docId": "plot.xianni-ch937-hua-di-wei-lao",
       "dated": false,
-      "seq": 780
+      "seq": 870
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch937-hua-di-wei-lao",
+      "dated": false,
+      "seq": 870,
+      "note": "第937章"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch840-call-from-inside-wangyue"
+    "plot.xianni-ch840-call-from-inside-wangyue",
+    "plot.xianni-ch937-hua-di-wei-lao"
   ],
-  "updatedAt": "2026-08-23T13:03:01.745Z"
+  "updatedAt": "2026-08-23T21:27:05.194Z"
 }
