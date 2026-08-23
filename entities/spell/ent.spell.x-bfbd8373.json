@@ -9,14 +9,16 @@
     "Huan Yu",
     "呼风唤雨之唤雨",
     "唤雨仙术",
-    "呼风唤雨撒豆成兵之唤雨"
+    "呼风唤雨撒豆成兵之唤雨",
+    "白凡仙术第二式"
   ],
   "summary": "清水施展的神通：方圆千丈化出殷红如血的晶莹雨滴，配合「冰印」使雨滴瞬间成冰晶并相互连接疯狂蔓延。",
   "attributes": {
-    "类型": "仙术",
-    "威力": "笼罩方圆千丈，雨滴化冰晶蔓延围杀",
+    "类型": "仙术·水系攻击",
+    "威力": "凝出万滴蕴含天地元力的雨水，每滴皆具极大威力",
     "适用境界": "仙君级",
-    "出处": "清水师尊一脉、仙帝白凡神通前三式之二、清水、清水传承"
+    "出处": "清水师尊一脉、仙帝白凡神通前三式之二、清水、清水传承、仙帝白凡仙术第二式",
+    "消耗": "分出部分仙元之力弥漫全身沟通天地"
   },
   "observations": {
     "类型": [
@@ -34,6 +36,11 @@
         "value": "仙术",
         "docId": "plot.xianni-ch858-target-108-immortals-poluo-xinjin",
         "seq": 800
+      },
+      {
+        "value": "仙术·水系攻击",
+        "docId": "plot.xianni-ch928-wuxing-jinshi",
+        "seq": 860
       }
     ],
     "威力": [
@@ -41,6 +48,11 @@
         "value": "笼罩方圆千丈，雨滴化冰晶蔓延围杀",
         "docId": "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
         "seq": 746
+      },
+      {
+        "value": "凝出万滴蕴含天地元力的雨水，每滴皆具极大威力",
+        "docId": "plot.xianni-ch928-wuxing-jinshi",
+        "seq": 860
       }
     ],
     "适用境界": [
@@ -70,6 +82,18 @@
         "value": "清水传承",
         "docId": "plot.xianni-885-qingshui-gift-seven-eve-technique",
         "seq": 826
+      },
+      {
+        "value": "仙帝白凡仙术第二式",
+        "docId": "plot.xianni-ch928-wuxing-jinshi",
+        "seq": 860
+      }
+    ],
+    "消耗": [
+      {
+        "value": "分出部分仙元之力弥漫全身沟通天地",
+        "docId": "plot.xianni-ch928-wuxing-jinshi",
+        "seq": 860
       }
     ]
   },
@@ -77,15 +101,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch858-target-108-immortals-poluo-xinjin",
+      "docId": "plot.xianni-ch928-wuxing-jinshi",
       "dated": false,
-      "seq": 800
+      "seq": 860
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
+      "docId": "plot.xianni-ch928-wuxing-jinshi",
       "dated": false,
-      "seq": 746
+      "seq": 860
     },
     "适用境界": {
       "asOf": null,
@@ -98,6 +122,12 @@
       "docId": "plot.xianni-ch854-you-have-no-right-qingshui-arrives",
       "dated": false,
       "seq": 795
+    },
+    "消耗": {
+      "asOf": null,
+      "docId": "plot.xianni-ch928-wuxing-jinshi",
+      "dated": false,
+      "seq": 860
     }
   },
   "contested": false,
@@ -111,7 +141,8 @@
     "plot.xianni-886-situnan-chuguan-qingshui-chuangong-libiwan-fusheng",
     "plot.xianni-ch904-tanmi-xianyi",
     "plot.xianni-ch906-huanglong-arrives-thunder-storm-17th-floor",
-    "plot.xianni-ch912-wen-cuo-luotian-thunder-immortal-questioning"
+    "plot.xianni-ch912-wen-cuo-luotian-thunder-immortal-questioning",
+    "plot.xianni-ch928-wuxing-jinshi"
   ],
-  "updatedAt": "2026-08-23T19:37:54.822Z"
+  "updatedAt": "2026-08-23T20:21:53.024Z"
 }

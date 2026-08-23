@@ -375,3 +375,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T20:14:11.935Z** `ingest` plot.xianni-ch925-million-beast-blood-lock-heaven-god — 第925章 百万兽血锁天神——联盟封印望月，烈云子操控罗浮血球 · kind=plot asOf=2026-08-23 entities=38 relations=51 src=00855-00859.p4.md
 - **2026-08-23T20:16:52.243Z** `ingest` plot.xianni-ch926-thousand-zhang-giant-demon-self-destruct — 第926章 千丈巨魔自崩溃：王林一拳崩巨人、呼风吞自爆，与许霆约赌杀水罗蓝裙女 · kind=plot asOf=2026-08-23 entities=24 relations=33 src=00855-00859.p5.md
 - **2026-08-23T20:19:12.040Z** `ingest` plot.xianni-ch927-jun-bu-shi-qie-huanwei-chi-hong-bowen — 第927章 君不识妾：王林「换位」嫁祸许霆，水罗蓝裙女子摘八叶莲花瓣镇压 · kind=plot asOf=2026-08-23 entities=18 relations=24 src=00860-00864.p1.md
+- **2026-08-23T20:21:53.276Z** `ingest` plot.xianni-ch928-wuxing-jinshi — 《仙逆》第928章 五行金尸：唤雨破莲叶、骸狱界炼尸出阵、望月封印破碎 · kind=plot asOf=2026-08-23 entities=27 relations=34 src=00860-00864.p2.md

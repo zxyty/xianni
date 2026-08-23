@@ -10,9 +10,10 @@
   "attributes": {
     "阵营": "修真联盟",
     "性格": "面色阴沉",
-    "身份": "修真联盟四尊之一",
+    "身份": "与血神子交战一方",
     "标志特征": "腥风化庞大巨鲸，张口吞吸天地元气",
-    "结局": "被血人压制、节节后退"
+    "结局": "被血人压制、节节后退",
+    "称号": "黑煞魔尊"
   },
   "observations": {
     "阵营": [
@@ -39,6 +40,11 @@
         "value": "修真联盟四尊之一",
         "docId": "plot.xianni-ch922-jixiantian-north-battle",
         "seq": 855
+      },
+      {
+        "value": "与血神子交战一方",
+        "docId": "plot.xianni-ch928-wuxing-jinshi",
+        "seq": 860
       }
     ],
     "标志特征": [
@@ -54,6 +60,13 @@
         "docId": "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
         "seq": 855,
         "note": "本章战况"
+      }
+    ],
+    "称号": [
+      {
+        "value": "黑煞魔尊",
+        "docId": "plot.xianni-ch928-wuxing-jinshi",
+        "seq": 860
       }
     ]
   },
@@ -73,9 +86,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch922-jixiantian-north-battle",
+      "docId": "plot.xianni-ch928-wuxing-jinshi",
       "dated": false,
-      "seq": 855
+      "seq": 860
     },
     "标志特征": {
       "asOf": null,
@@ -89,6 +102,12 @@
       "dated": false,
       "seq": 855,
       "note": "本章战况"
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch928-wuxing-jinshi",
+      "dated": false,
+      "seq": 860
     }
   },
   "contested": false,
@@ -98,7 +117,8 @@
     "plot.xianni-ch922-jixiantian-north-battle",
     "plot.xianni-ch923-toumingzhuang-yanleizi-vs-jixiantian",
     "plot.xianni-ch924-wang-lin-dingshen-jixiantian-great-merit",
-    "plot.xianni-ch925-million-beast-blood-lock-heaven-god"
+    "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
+    "plot.xianni-ch928-wuxing-jinshi"
   ],
-  "updatedAt": "2026-08-23T20:14:11.699Z"
+  "updatedAt": "2026-08-23T20:21:53.035Z"
 }

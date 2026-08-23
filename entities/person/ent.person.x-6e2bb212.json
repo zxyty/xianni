@@ -11,16 +11,19 @@
     "水罗蓝裙",
     "水罗",
     "水罗蓝裙女",
-    "主持大战的女子"
+    "主持大战的女子",
+    "Shui Luo"
   ],
   "summary": "联盟援军中的核心人物，立于巨魔族所扛修真星上，手托八叶莲花台；请出武东禅、下令封锁望月，并以复杂眼神注视王林。",
   "attributes": {
     "性别": "女",
-    "外貌": "一身水罗蓝裙、秀发垂肩、凤目含煞、蓝裙、水罗蓝裙、目光清澈冰冷",
+    "外貌": "一身水罗蓝裙、秀发垂肩、凤目含煞、蓝裙、水罗蓝裙、目光清澈冰冷、蓝裙、葱葱玉手",
     "本命法宝": "八叶莲花台",
     "阵营": "修真联盟、修真联盟一方",
     "标志特征": "水罗；声音轻柔却响彻星空",
-    "身份": "主持此战的联盟特殊身份之人"
+    "身份": "主持此战的联盟特殊身份之人",
+    "性格": "冷静不慌，判断真正大战尚未展开",
+    "称号": "水罗"
   },
   "observations": {
     "性别": [
@@ -49,6 +52,11 @@
       {
         "value": "目光清澈冰冷",
         "docId": "plot.xianni-ch927-jun-bu-shi-qie-huanwei-chi-hong-bowen",
+        "seq": 860
+      },
+      {
+        "value": "蓝裙、葱葱玉手",
+        "docId": "plot.xianni-ch928-wuxing-jinshi",
         "seq": 860
       }
     ],
@@ -87,6 +95,20 @@
       {
         "value": "主持此战的联盟特殊身份之人",
         "docId": "plot.xianni-ch927-jun-bu-shi-qie-huanwei-chi-hong-bowen",
+        "seq": 860
+      }
+    ],
+    "性格": [
+      {
+        "value": "冷静不慌，判断真正大战尚未展开",
+        "docId": "plot.xianni-ch928-wuxing-jinshi",
+        "seq": 860
+      }
+    ],
+    "称号": [
+      {
+        "value": "水罗",
+        "docId": "plot.xianni-ch928-wuxing-jinshi",
         "seq": 860
       }
     ]
@@ -128,6 +150,18 @@
       "docId": "plot.xianni-ch927-jun-bu-shi-qie-huanwei-chi-hong-bowen",
       "dated": false,
       "seq": 860
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch928-wuxing-jinshi",
+      "dated": false,
+      "seq": 860
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch928-wuxing-jinshi",
+      "dated": false,
+      "seq": 860
     }
   },
   "contested": false,
@@ -136,7 +170,8 @@
     "plot.xianni-ch924-wang-lin-dingshen-jixiantian-great-merit",
     "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
     "plot.xianni-ch926-thousand-zhang-giant-demon-self-destruct",
-    "plot.xianni-ch927-jun-bu-shi-qie-huanwei-chi-hong-bowen"
+    "plot.xianni-ch927-jun-bu-shi-qie-huanwei-chi-hong-bowen",
+    "plot.xianni-ch928-wuxing-jinshi"
   ],
-  "updatedAt": "2026-08-23T20:19:11.798Z"
+  "updatedAt": "2026-08-23T20:21:53.021Z"
 }
