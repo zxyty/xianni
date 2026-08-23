@@ -4,11 +4,13 @@
   "name": "清水的师尊",
   "aliases": [
     "清水师尊",
-    "呼风唤雨传承之师"
+    "呼风唤雨传承之师",
+    "呼风之主"
   ],
   "summary": "呼风唤雨神通的源头，清水对其心怀愧疚且再无报答机会；王林被认作其隔代传人。",
   "attributes": {
-    "身份": "呼风唤雨神通的传承源头"
+    "身份": "清水之师",
+    "标志特征": "六大神通传承者"
   },
   "observations": {
     "身份": [
@@ -16,6 +18,18 @@
         "value": "呼风唤雨神通的传承源头",
         "docId": "plot.xianni-ch854-you-have-no-right-qingshui-arrives",
         "seq": 795
+      },
+      {
+        "value": "清水之师",
+        "docId": "plot.xianni-857-the-third-step",
+        "seq": 800
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "六大神通传承者",
+        "docId": "plot.xianni-857-the-third-step",
+        "seq": 800
       }
     ]
   },
@@ -23,15 +37,22 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch854-you-have-no-right-qingshui-arrives",
+      "docId": "plot.xianni-857-the-third-step",
       "dated": false,
-      "seq": 795
+      "seq": 800
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-857-the-third-step",
+      "dated": false,
+      "seq": 800
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch854-you-have-no-right-qingshui-arrives"
+    "plot.xianni-ch854-you-have-no-right-qingshui-arrives",
+    "plot.xianni-857-the-third-step"
   ],
-  "updatedAt": "2026-08-23T14:14:37.200Z"
+  "updatedAt": "2026-08-23T14:22:22.777Z"
 }

@@ -3,13 +3,16 @@
   "type": "artifact",
   "name": "古灯",
   "aliases": [
-    "一盏古灯"
+    "一盏古灯",
+    "血神子的古灯",
+    "燃着火光的古灯"
   ],
   "summary": "血神子撕开虚空、自缝隙中取出的古灯，取出时放言「莫要怪老夫弑仙」。",
   "attributes": {
     "持有者": "血神子",
-    "来历": "自虚空裂缝中取出",
-    "外形": "一盏古灯"
+    "来历": "自虚空裂缝中取出、与古妖一族相关的远古之物",
+    "外形": "一盏古灯、始终燃着一团火光的古灯，灯芯有女子虚影",
+    "能力": "寄存并复生古妖本体、灯火燃烧可重凝古妖虚影"
   },
   "observations": {
     "持有者": [
@@ -24,12 +27,34 @@
         "value": "自虚空裂缝中取出",
         "docId": "plot.xianni-ch856-sa-dou-cheng-bing",
         "seq": 800
+      },
+      {
+        "value": "与古妖一族相关的远古之物",
+        "docId": "plot.xianni-857-the-third-step",
+        "seq": 800
       }
     ],
     "外形": [
       {
         "value": "一盏古灯",
         "docId": "plot.xianni-ch856-sa-dou-cheng-bing",
+        "seq": 800
+      },
+      {
+        "value": "始终燃着一团火光的古灯，灯芯有女子虚影",
+        "docId": "plot.xianni-857-the-third-step",
+        "seq": 800
+      }
+    ],
+    "能力": [
+      {
+        "value": "寄存并复生古妖本体",
+        "docId": "plot.xianni-857-the-third-step",
+        "seq": 800
+      },
+      {
+        "value": "灯火燃烧可重凝古妖虚影",
+        "docId": "plot.xianni-857-the-third-step",
         "seq": 800
       }
     ]
@@ -53,12 +78,19 @@
       "docId": "plot.xianni-ch856-sa-dou-cheng-bing",
       "dated": false,
       "seq": 800
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-857-the-third-step",
+      "dated": false,
+      "seq": 800
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch856-sa-dou-cheng-bing"
+    "plot.xianni-ch856-sa-dou-cheng-bing",
+    "plot.xianni-857-the-third-step"
   ],
-  "updatedAt": "2026-08-23T14:19:41.286Z"
+  "updatedAt": "2026-08-23T14:22:22.779Z"
 }
