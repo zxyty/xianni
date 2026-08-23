@@ -6,12 +6,15 @@
     "罗天星域姚家",
     "姚氏家族",
     "老姚家",
-    "Yao Family"
+    "Yao Family",
+    "姚姓家族"
   ],
   "summary": "罗天星域的家族势力，居于暗红色星球，设有祠堂；姚洛东叛族后其名已被从祠堂除去。",
   "attributes": {
     "据点": "罗天星域暗红色星球",
-    "理念": "叛族者世世代代绝不回头，祠堂除名"
+    "理念": "叛族者世世代代绝不回头，祠堂除名",
+    "所属界面": "罗天星域",
+    "等级": "连雷仙殿也要给几分薄面"
   },
   "observations": {
     "据点": [
@@ -26,6 +29,20 @@
         "value": "叛族者世世代代绝不回头，祠堂除名",
         "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
         "seq": 701
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "罗天星域",
+        "docId": "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan",
+        "seq": 729
+      }
+    ],
+    "等级": [
+      {
+        "value": "连雷仙殿也要给几分薄面",
+        "docId": "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan",
+        "seq": 729
       }
     ]
   },
@@ -42,6 +59,18 @@
       "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
       "dated": false,
       "seq": 701
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan",
+      "dated": false,
+      "seq": 729
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan",
+      "dated": false,
+      "seq": 729
     }
   },
   "contested": false,
@@ -49,7 +78,8 @@
   "docs": [
     "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
     "plot.xianni-ch763-blood-ancestor-split-soul-wanglin-yinxu-breakthrough",
-    "plot.xianni-769-tianjie-slay-xuezu-body-yangshi"
+    "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
+    "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan"
   ],
-  "updatedAt": "2026-08-23T07:18:46.353Z"
+  "updatedAt": "2026-08-23T07:26:37.267Z"
 }

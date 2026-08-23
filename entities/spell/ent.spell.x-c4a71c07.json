@@ -4,13 +4,15 @@
   "name": "凝聚泉魂",
   "aliases": [
     "第二式 凝聚泉魂",
-    "黄泉第二式"
+    "黄泉第二式",
+    "凝聚泉魂（黄泉支术）"
   ],
   "summary": "王林黄泉神通第二式，将黄泉怨气凝聚成无数凡人虚影再融合为无相貌的怨魂迎敌。",
   "attributes": {
-    "类型": "黄泉道念招式",
-    "出处": "黄泉道念",
-    "威力": "与魔焰漩涡对撞可撕裂天空、裂开大地"
+    "类型": "怨魂凝聚/攻心",
+    "出处": "黄泉神通衍生",
+    "威力": "与魔焰漩涡对撞可撕裂天空、裂开大地",
+    "消耗": "需注入元力"
   },
   "observations": {
     "类型": [
@@ -18,6 +20,11 @@
         "value": "黄泉道念招式",
         "docId": "plot.xianni-ch740-daonian-battle-xu-fenghan",
         "seq": 701
+      },
+      {
+        "value": "怨魂凝聚/攻心",
+        "docId": "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan",
+        "seq": 729
       }
     ],
     "出处": [
@@ -25,6 +32,11 @@
         "value": "黄泉道念",
         "docId": "plot.xianni-ch740-daonian-battle-xu-fenghan",
         "seq": 701
+      },
+      {
+        "value": "黄泉神通衍生",
+        "docId": "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan",
+        "seq": 729
       }
     ],
     "威力": [
@@ -33,33 +45,47 @@
         "docId": "plot.xianni-ch740-daonian-battle-xu-fenghan",
         "seq": 701
       }
+    ],
+    "消耗": [
+      {
+        "value": "需注入元力",
+        "docId": "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan",
+        "seq": 729
+      }
     ]
   },
   "firstSeq": 701,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch740-daonian-battle-xu-fenghan",
+      "docId": "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan",
       "dated": false,
-      "seq": 701
+      "seq": 729
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch740-daonian-battle-xu-fenghan",
+      "docId": "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan",
       "dated": false,
-      "seq": 701
+      "seq": 729
     },
     "威力": {
       "asOf": null,
       "docId": "plot.xianni-ch740-daonian-battle-xu-fenghan",
       "dated": false,
       "seq": 701
+    },
+    "消耗": {
+      "asOf": null,
+      "docId": "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan",
+      "dated": false,
+      "seq": 729
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch740-daonian-battle-xu-fenghan"
+    "plot.xianni-ch740-daonian-battle-xu-fenghan",
+    "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan"
   ],
-  "updatedAt": "2026-08-23T04:43:27.066Z"
+  "updatedAt": "2026-08-23T07:26:37.246Z"
 }

@@ -4,11 +4,12 @@
   "name": "缩地成寸",
   "aliases": [
     "缩地成寸神通",
-    "Suo Di Cheng Cun"
+    "Suo Di Cheng Cun",
+    "缩地成寸大神通"
   ],
   "summary": "黑衫中年人所施的空间挪移神通，一步即跨至苍龙与人首蛇身之兽之间。",
   "attributes": {
-    "类型": "元力神通/空间移动",
+    "类型": "身法／空间神通、元力神通/空间移动、空间遁法/大神通",
     "威力": "一步跨越极远距离、快于元婴期瞬移、快于问鼎期挪移、比多个挪移同施的大挪移还快三分",
     "出处": "上古练气士",
     "适用境界": "第二步窥涅期方可感应施展"
@@ -23,6 +24,11 @@
       {
         "value": "元力神通/空间移动",
         "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
+        "seq": 729
+      },
+      {
+        "value": "空间遁法/大神通",
+        "docId": "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan",
         "seq": 729
       }
     ],
@@ -67,9 +73,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
+      "docId": "plot.xianni-ch274-underground-ice-sculpture",
       "dated": false,
-      "seq": 729
+      "seq": 258
     },
     "威力": {
       "asOf": null,
@@ -94,7 +100,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch274-underground-ice-sculpture",
-    "plot.xianni-769-tianjie-slay-xuezu-body-yangshi"
+    "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
+    "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan"
   ],
-  "updatedAt": "2026-08-23T07:18:46.354Z"
+  "updatedAt": "2026-08-23T07:26:37.248Z"
 }

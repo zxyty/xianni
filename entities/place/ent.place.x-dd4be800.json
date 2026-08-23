@@ -14,9 +14,10 @@
   "attributes": {
     "上级区域": "罗天星域",
     "所属势力": "向家",
-    "类型": "修真星",
+    "类型": "星辰",
     "危险度": "极高（势力极强，暂不可去）",
-    "特产": "擅长魔气神通的修士"
+    "特产": "擅长魔气神通的修士",
+    "所属界面": "罗天星域"
   },
   "observations": {
     "上级区域": [
@@ -43,6 +44,11 @@
         "value": "修真星",
         "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
         "seq": 621
+      },
+      {
+        "value": "星辰",
+        "docId": "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan",
+        "seq": 729
       }
     ],
     "危险度": [
@@ -57,6 +63,13 @@
         "value": "擅长魔气神通的修士",
         "docId": "plot.xianni-ch734-shenton-exchange-third-eye",
         "seq": 693
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "罗天星域",
+        "docId": "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan",
+        "seq": 729
       }
     ]
   },
@@ -76,9 +89,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
+      "docId": "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan",
       "dated": false,
-      "seq": 621
+      "seq": 729
     },
     "危险度": {
       "asOf": null,
@@ -91,6 +104,12 @@
       "docId": "plot.xianni-ch734-shenton-exchange-third-eye",
       "dated": false,
       "seq": 693
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan",
+      "dated": false,
+      "seq": 729
     }
   },
   "contested": false,
@@ -103,7 +122,8 @@
     "plot.xianni-ch669-sun-tai-baohe-lou-eight-grade-pill-one-immortal-jade",
     "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
     "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
-    "plot.xianni-ch734-shenton-exchange-third-eye"
+    "plot.xianni-ch734-shenton-exchange-third-eye",
+    "plot.xianni-ch769-wang-lin-seals-xue-zu-into-zun-hun-fan"
   ],
-  "updatedAt": "2026-08-23T03:54:02.646Z"
+  "updatedAt": "2026-08-23T07:26:37.273Z"
 }
