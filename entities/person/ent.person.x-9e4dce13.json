@@ -3,11 +3,13 @@
   "type": "person",
   "name": "血神子",
   "aliases": [
-    "姚家血神子"
+    "姚家血神子",
+    "姚家老祖血神子"
   ],
   "summary": "姚家强者，被血祖引为倚仗，老者称即便其亲来也不惧。",
   "attributes": {
-    "身份": "姚家高层强者"
+    "身份": "姚家老祖",
+    "称号": "血神子"
   },
   "observations": {
     "身份": [
@@ -15,6 +17,18 @@
         "value": "姚家高层强者",
         "docId": "plot.xianni-ch763-blood-ancestor-split-soul-wanglin-yinxu-breakthrough",
         "seq": 721
+      },
+      {
+        "value": "姚家老祖",
+        "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
+        "seq": 729
+      }
+    ],
+    "称号": [
+      {
+        "value": "血神子",
+        "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
+        "seq": 729
       }
     ]
   },
@@ -22,15 +36,22 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch763-blood-ancestor-split-soul-wanglin-yinxu-breakthrough",
+      "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
       "dated": false,
-      "seq": 721
+      "seq": 729
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
+      "dated": false,
+      "seq": 729
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch763-blood-ancestor-split-soul-wanglin-yinxu-breakthrough"
+    "plot.xianni-ch763-blood-ancestor-split-soul-wanglin-yinxu-breakthrough",
+    "plot.xianni-769-tianjie-slay-xuezu-body-yangshi"
   ],
-  "updatedAt": "2026-08-23T06:10:52.604Z"
+  "updatedAt": "2026-08-23T07:18:46.351Z"
 }

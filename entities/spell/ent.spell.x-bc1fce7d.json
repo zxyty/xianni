@@ -3,12 +3,15 @@
   "type": "spell",
   "name": "缩地成寸",
   "aliases": [
-    "缩地成寸神通"
+    "缩地成寸神通",
+    "Suo Di Cheng Cun"
   ],
   "summary": "黑衫中年人所施的空间挪移神通，一步即跨至苍龙与人首蛇身之兽之间。",
   "attributes": {
-    "类型": "身法／空间神通",
-    "威力": "一步跨越极远距离"
+    "类型": "元力神通/空间移动",
+    "威力": "一步跨越极远距离、快于元婴期瞬移、快于问鼎期挪移、比多个挪移同施的大挪移还快三分",
+    "出处": "上古练气士",
+    "适用境界": "第二步窥涅期方可感应施展"
   },
   "observations": {
     "类型": [
@@ -16,6 +19,11 @@
         "value": "身法／空间神通",
         "docId": "plot.xianni-ch274-underground-ice-sculpture",
         "seq": 258
+      },
+      {
+        "value": "元力神通/空间移动",
+        "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
+        "seq": 729
       }
     ],
     "威力": [
@@ -23,6 +31,35 @@
         "value": "一步跨越极远距离",
         "docId": "plot.xianni-ch274-underground-ice-sculpture",
         "seq": 258
+      },
+      {
+        "value": "快于元婴期瞬移",
+        "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
+        "seq": 729
+      },
+      {
+        "value": "快于问鼎期挪移",
+        "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
+        "seq": 729
+      },
+      {
+        "value": "比多个挪移同施的大挪移还快三分",
+        "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
+        "seq": 729
+      }
+    ],
+    "出处": [
+      {
+        "value": "上古练气士",
+        "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
+        "seq": 729
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "第二步窥涅期方可感应施展",
+        "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
+        "seq": 729
       }
     ]
   },
@@ -30,21 +67,34 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch274-underground-ice-sculpture",
+      "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
       "dated": false,
-      "seq": 258
+      "seq": 729
     },
     "威力": {
       "asOf": null,
       "docId": "plot.xianni-ch274-underground-ice-sculpture",
       "dated": false,
       "seq": 258
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
+      "dated": false,
+      "seq": 729
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
+      "dated": false,
+      "seq": 729
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch274-underground-ice-sculpture"
+    "plot.xianni-ch274-underground-ice-sculpture",
+    "plot.xianni-769-tianjie-slay-xuezu-body-yangshi"
   ],
-  "updatedAt": "2026-08-02T10:32:25.406Z"
+  "updatedAt": "2026-08-23T07:18:46.354Z"
 }

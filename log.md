@@ -266,3 +266,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T06:10:52.823Z** `ingest` plot.xianni-ch763-blood-ancestor-split-soul-wanglin-yinxu-breakthrough — 第763章 老者夺半元神血身、王林碎片大陆冲击阴虚 · kind=plot asOf=2026-08-23 entities=26 relations=35 src=00721-00724.p3.md
 - **2026-08-23T06:13:21.194Z** `ingest` plot.xianni-ch764-wanglin-benzun-ancient-god-body-blood-star — 第764章 血祖狼狈遁逃与王林本尊展开古神之体，携百丈碎石杀向血星 · kind=plot asOf=2026-08-23 entities=22 relations=32 src=00721-00724.p4.md
 - **2026-08-23T06:27:18.131Z** `ingest` plot.xianni-ch765-blood-star-wang-lin-true-body-strikes — 第765章 血星——王林本尊碎石长河直扑血祖洞府，血奴叛离血星将倾 · kind=plot asOf=2026-08-23 entities=47 relations=89 src=00725-00728.md
+- **2026-08-23T07:18:46.523Z** `ingest` plot.xianni-769-tianjie-slay-xuezu-body-yangshi — 第769章 信心：王林借天劫诛血祖肉身，修为达阳实 · kind=plot asOf=2026-08-23 entities=41 relations=59 src=00729-00730.p1a.md

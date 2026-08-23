@@ -16,16 +16,18 @@
     "碎片大陆群",
     "王林本体隐藏的碎片大陆",
     "大陆边缘的虚无",
-    "王林藏身的碎片大陆"
+    "王林藏身的碎片大陆",
+    "虚无中的碎片大陆"
   ],
   "summary": "雷之仙界中一块崩溃的碎片大陆，王林的雷霆流星坠落于其东侧地面，砸出极深天坑；大陆本已不稳，受冲击后更加动荡。",
   "attributes": {
     "所属界面": "雷之仙界",
-    "类型": "崩溃碎片大陆、碎片大陆、界域碎片大陆、破碎的陆地/遗迹之地、漂浮碎片大陆、碎片大陆/虚无区域、大陆／战场、仙界遗留碎片所化陆地",
+    "类型": "崩溃碎片大陆、碎片大陆、界域碎片大陆、破碎的陆地/遗迹之地、漂浮碎片大陆、碎片大陆/虚无区域、大陆／战场、仙界遗留碎片所化陆地、虚无中的大陆碎片",
     "危险度": "高（濒临崩溃）、中（多为问鼎期修士出没，偶有阴虚修士）、高（有诱饵禁制与噬人天鬼）、极高（古禁杀人夺宝，且有强敌神识锁定）、极高（天劫笼罩）",
     "特产": "仙界山石",
     "规模": "不足千丈",
-    "守护": "蜃幻杀人禁制"
+    "守护": "蜃幻杀人禁制",
+    "方位": "王林正前方虚无深处"
   },
   "observations": {
     "所属界面": [
@@ -75,6 +77,11 @@
         "value": "仙界遗留碎片所化陆地",
         "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
         "seq": 725
+      },
+      {
+        "value": "虚无中的大陆碎片",
+        "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
+        "seq": 729
       }
     ],
     "危险度": [
@@ -140,6 +147,13 @@
         "docId": "plot.xianni-ch755-jinbian-transport-array-ambush",
         "seq": 716
       }
+    ],
+    "方位": [
+      {
+        "value": "王林正前方虚无深处",
+        "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
+        "seq": 729
+      }
     ]
   },
   "firstSeq": 697,
@@ -180,6 +194,12 @@
       "docId": "plot.xianni-ch755-jinbian-transport-array-ambush",
       "dated": false,
       "seq": 716
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
+      "dated": false,
+      "seq": 729
     }
   },
   "contested": false,
@@ -192,7 +212,8 @@
     "plot.xianni-ch755-jinbian-transport-array-ambush",
     "plot.xianni-ch760-blood-ancestor-arrives-immortal-guard-body-bait",
     "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
-    "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes"
+    "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+    "plot.xianni-769-tianjie-slay-xuezu-body-yangshi"
   ],
-  "updatedAt": "2026-08-23T06:27:17.926Z"
+  "updatedAt": "2026-08-23T07:18:46.359Z"
 }
