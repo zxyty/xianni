@@ -5,13 +5,17 @@
   "aliases": [
     "奇异无比的宝贝大鼎",
     "涂司弃鼎",
-    "贪狼鼎"
+    "贪狼鼎",
+    "贪狼之鼎",
+    "贪狼之物",
+    "Tanlang cauldron"
   ],
   "summary": "贪狼所有的奇异宝贝大鼎，当年被望月吞下；王林有八成把握判断其为古神涂司炼化后不满意随手丢弃之物。",
   "attributes": {
-    "外形": "大鼎",
-    "来历": "疑为古神涂司炼化后弃置之物、此前于望月体内所见",
-    "持有者": "望月（吞入腹中）"
+    "外形": "古朴沧桑气息弥漫的大鼎",
+    "来历": "疑为古神涂司炼化后弃置之物、此前于望月体内所见、贪狼之物",
+    "持有者": "望月（吞入腹中）",
+    "能力": "触手不愿延伸入鼎内"
   },
   "observations": {
     "外形": [
@@ -19,6 +23,11 @@
         "value": "大鼎",
         "docId": "plot.xianni-ch831-wangyue-awaken-kill-yao-yunhai",
         "seq": 775
+      },
+      {
+        "value": "古朴沧桑气息弥漫的大鼎",
+        "docId": "plot.xianni-ch836-wangyue-secret-tentacle-space",
+        "seq": 780
       }
     ],
     "来历": [
@@ -32,6 +41,11 @@
         "value": "此前于望月体内所见",
         "docId": "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
         "seq": 775
+      },
+      {
+        "value": "贪狼之物",
+        "docId": "plot.xianni-ch836-wangyue-secret-tentacle-space",
+        "seq": 780
       }
     ],
     "持有者": [
@@ -41,15 +55,23 @@
         "seq": 775,
         "note": "原属贪狼"
       }
+    ],
+    "能力": [
+      {
+        "value": "触手不愿延伸入鼎内",
+        "docId": "plot.xianni-ch836-wangyue-secret-tentacle-space",
+        "seq": 780,
+        "note": "成为王林的藏身处"
+      }
     ]
   },
   "firstSeq": 775,
   "attrProvenance": {
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch831-wangyue-awaken-kill-yao-yunhai",
+      "docId": "plot.xianni-ch836-wangyue-secret-tentacle-space",
       "dated": false,
-      "seq": 775
+      "seq": 780
     },
     "来历": {
       "asOf": null,
@@ -64,13 +86,21 @@
       "dated": false,
       "seq": 775,
       "note": "原属贪狼"
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch836-wangyue-secret-tentacle-space",
+      "dated": false,
+      "seq": 780,
+      "note": "成为王林的藏身处"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch831-wangyue-awaken-kill-yao-yunhai",
-    "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi"
+    "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
+    "plot.xianni-ch836-wangyue-secret-tentacle-space"
   ],
-  "updatedAt": "2026-08-23T12:51:25.304Z"
+  "updatedAt": "2026-08-23T12:52:58.781Z"
 }
