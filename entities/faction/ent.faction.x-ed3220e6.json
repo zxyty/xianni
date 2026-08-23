@@ -8,13 +8,21 @@
   ],
   "summary": "尸阴宗下属殿堂，设殿主与数名副殿主，内部倾轧、副殿主间互相提防争位。",
   "attributes": {
-    "阵营": "尸阴宗下属"
+    "阵营": "尸阴宗下属",
+    "所属界面": "尸阴宗"
   },
   "observations": {
     "阵营": [
       {
         "value": "尸阴宗下属",
         "docId": "plot.xianni-ch898-lei-ji-shiyinzong-liuqingyun",
+        "seq": 839
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "尸阴宗",
+        "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
         "seq": 839
       }
     ]
@@ -26,12 +34,19 @@
       "docId": "plot.xianni-ch898-lei-ji-shiyinzong-liuqingyun",
       "dated": false,
       "seq": 839
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
+      "dated": false,
+      "seq": 839
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch898-lei-ji-shiyinzong-liuqingyun"
+    "plot.xianni-ch898-lei-ji-shiyinzong-liuqingyun",
+    "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured"
   ],
-  "updatedAt": "2026-08-23T18:16:36.600Z"
+  "updatedAt": "2026-08-23T18:24:26.045Z"
 }

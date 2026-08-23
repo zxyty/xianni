@@ -4,14 +4,16 @@
   "name": "大王朝皇城",
   "aliases": [
     "皇宫广场",
-    "大殿"
+    "大殿",
+    "王朝皇城"
   ],
   "summary": "都城核心，广场上兵士密布、大殿内聚集数百王家族人与众多修士，为本章高潮对峙之地。",
   "attributes": {
-    "所属势力": "朱雀星王家",
-    "类型": "皇城/皇宫",
+    "所属势力": "大王朝",
+    "类型": "凡间都城",
     "上级区域": "大王朝都城",
-    "守护": "密密麻麻的兵士、众多修士、王族历代家族供奉"
+    "守护": "密密麻麻的兵士、众多修士、王族历代家族供奉",
+    "所属界面": "朱雀星"
   },
   "observations": {
     "所属势力": [
@@ -19,6 +21,11 @@
         "value": "朱雀星王家",
         "docId": "plot.xianni-ch895-wanglin-nu-zhuque-wangchao-yuanling",
         "seq": 834
+      },
+      {
+        "value": "大王朝",
+        "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
+        "seq": 839
       }
     ],
     "类型": [
@@ -26,6 +33,11 @@
         "value": "皇城/皇宫",
         "docId": "plot.xianni-ch895-wanglin-nu-zhuque-wangchao-yuanling",
         "seq": 834
+      },
+      {
+        "value": "凡间都城",
+        "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
+        "seq": 839
       }
     ],
     "上级区域": [
@@ -51,21 +63,28 @@
         "docId": "plot.xianni-ch895-wanglin-nu-zhuque-wangchao-yuanling",
         "seq": 834
       }
+    ],
+    "所属界面": [
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
+        "seq": 839
+      }
     ]
   },
   "firstSeq": 834,
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch895-wanglin-nu-zhuque-wangchao-yuanling",
+      "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
       "dated": false,
-      "seq": 834
+      "seq": 839
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch895-wanglin-nu-zhuque-wangchao-yuanling",
+      "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
       "dated": false,
-      "seq": 834
+      "seq": 839
     },
     "上级区域": {
       "asOf": null,
@@ -78,12 +97,19 @@
       "docId": "plot.xianni-ch895-wanglin-nu-zhuque-wangchao-yuanling",
       "dated": false,
       "seq": 834
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
+      "dated": false,
+      "seq": 839
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch895-wanglin-nu-zhuque-wangchao-yuanling"
+    "plot.xianni-ch895-wanglin-nu-zhuque-wangchao-yuanling",
+    "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured"
   ],
-  "updatedAt": "2026-08-23T18:08:37.482Z"
+  "updatedAt": "2026-08-23T18:24:26.074Z"
 }

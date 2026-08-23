@@ -1,65 +1,69 @@
 {
-  "id": "ent.artifact.x-7e7714e2",
-  "type": "artifact",
-  "name": "古神巨鼎",
+  "id": "ent.place.x-22709c81",
+  "type": "place",
+  "name": "朱雀圣星",
   "aliases": [
-    "虚幻之鼎"
+    "朱雀圣星球",
+    "Zhu Que Sacred Star"
   ],
-  "summary": "贪狼所藏至宝之一，本片段仅被王林列举提及。",
+  "summary": "联盟星域东部赤海中的赤红燃烧星球，内有巨大朱雀之像，三老者坐镇。",
   "attributes": {
-    "持有者": "王林",
-    "能力": "瞬间移开身形避险、开启时体外现虚幻之鼎",
-    "外形": "虚幻之鼎"
+    "方位": "联盟星域东部赤海之中",
+    "所属势力": "朱雀国",
+    "类型": "修真星",
+    "危险度": "无尽高温，寻常修士难以承受"
   },
   "observations": {
-    "持有者": [
+    "方位": [
       {
-        "value": "贪狼",
-        "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
-        "seq": 679,
-        "note": "遗物，现落入王林之手"
-      },
-      {
-        "value": "王林",
+        "value": "联盟星域东部赤海之中",
         "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
         "seq": 839
       }
     ],
-    "能力": [
+    "所属势力": [
       {
-        "value": "瞬间移开身形避险",
-        "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
-        "seq": 839
-      },
-      {
-        "value": "开启时体外现虚幻之鼎",
+        "value": "朱雀国",
         "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
         "seq": 839
       }
     ],
-    "外形": [
+    "类型": [
       {
-        "value": "虚幻之鼎",
+        "value": "修真星",
+        "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
+        "seq": 839
+      }
+    ],
+    "危险度": [
+      {
+        "value": "无尽高温，寻常修士难以承受",
         "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
         "seq": 839
       }
     ]
   },
-  "firstSeq": 679,
+  "firstSeq": 839,
   "attrProvenance": {
-    "持有者": {
+    "方位": {
       "asOf": null,
       "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
       "dated": false,
       "seq": 839
     },
-    "能力": {
+    "所属势力": {
       "asOf": null,
       "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
       "dated": false,
       "seq": 839
     },
-    "外形": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
+      "dated": false,
+      "seq": 839
+    },
+    "危险度": {
       "asOf": null,
       "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
       "dated": false,
@@ -69,8 +73,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch679-683-thunder-star-body-reforge",
     "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured"
   ],
-  "updatedAt": "2026-08-23T18:24:26.037Z"
+  "updatedAt": "2026-08-23T18:24:26.072Z"
 }

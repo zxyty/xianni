@@ -1,65 +1,54 @@
 {
-  "id": "ent.artifact.x-7e7714e2",
-  "type": "artifact",
-  "name": "古神巨鼎",
+  "id": "ent.person.x-75939a2b",
+  "type": "person",
+  "name": "王玉",
   "aliases": [
-    "虚幻之鼎"
+    "先祖王玉之灵"
   ],
-  "summary": "贪狼所藏至宝之一，本片段仅被王林列举提及。",
+  "summary": "王家后人，当年仙遗族与朱雀国大战时在朱雀星上被抓捕的幼童之一；本片段其灵牌见于祠堂，已寿元断绝。",
   "attributes": {
-    "持有者": "王林",
-    "能力": "瞬间移开身形避险、开启时体外现虚幻之鼎",
-    "外形": "虚幻之鼎"
+    "存殁": "死亡",
+    "死因": "寿元断绝",
+    "出身地": "朱雀星"
   },
   "observations": {
-    "持有者": [
+    "存殁": [
       {
-        "value": "贪狼",
-        "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
-        "seq": 679,
-        "note": "遗物，现落入王林之手"
-      },
-      {
-        "value": "王林",
+        "value": "死亡",
         "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
         "seq": 839
       }
     ],
-    "能力": [
+    "死因": [
       {
-        "value": "瞬间移开身形避险",
-        "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
-        "seq": 839
-      },
-      {
-        "value": "开启时体外现虚幻之鼎",
+        "value": "寿元断绝",
         "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
         "seq": 839
       }
     ],
-    "外形": [
+    "出身地": [
       {
-        "value": "虚幻之鼎",
+        "value": "朱雀星",
         "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
         "seq": 839
       }
     ]
   },
-  "firstSeq": 679,
+  "firstSeq": 839,
   "attrProvenance": {
-    "持有者": {
+    "存殁": {
       "asOf": null,
       "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
       "dated": false,
       "seq": 839
     },
-    "能力": {
+    "死因": {
       "asOf": null,
       "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
       "dated": false,
       "seq": 839
     },
-    "外形": {
+    "出身地": {
       "asOf": null,
       "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
       "dated": false,
@@ -69,8 +58,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch679-683-thunder-star-body-reforge",
     "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured"
   ],
-  "updatedAt": "2026-08-23T18:24:26.037Z"
+  "updatedAt": "2026-08-23T18:24:26.060Z"
 }

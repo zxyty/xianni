@@ -4,15 +4,18 @@
   "name": "刘青云",
   "aliases": [
     "尸阴宗怨殿副殿主",
-    "Liu Qingyun"
+    "Liu Qingyun",
+    "刘某"
   ],
   "summary": "尸阴宗怨殿副殿主，藏神识于紫青藤中潜伏朱雀星，欲夺舍雷吉的巨魔族肉身以回怨殿争夺殿主之位；本章肉身不在、仅存窥涅元神，被王林击溃擒下。",
   "attributes": {
     "身份": "尸阴宗怨殿副殿主",
     "元神强度": "窥涅（虚弱中）",
     "外貌": "身穿黑袍、弥漫黑雾的虚幻之影",
-    "性格": "谨慎、多疑、能屈能伸",
-    "存殁": "本章末尚存（被围困求饶献宝）"
+    "性格": "谨慎、多疑、能屈能伸、心机深沉、狠辣、断不轻易妥协",
+    "存殁": "本章末尚存（被围困求饶献宝）、元神被封印擒获",
+    "小阶段": "窥涅",
+    "结局": "被王林以仙术定身止住自爆，层层禁制封印后扔入储物袋"
   },
   "observations": {
     "身份": [
@@ -42,12 +45,37 @@
         "value": "谨慎、多疑、能屈能伸",
         "docId": "plot.xianni-ch898-lei-ji-shiyinzong-liuqingyun",
         "seq": 839
+      },
+      {
+        "value": "心机深沉、狠辣、断不轻易妥协",
+        "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
+        "seq": 839
       }
     ],
     "存殁": [
       {
         "value": "本章末尚存（被围困求饶献宝）",
         "docId": "plot.xianni-ch898-lei-ji-shiyinzong-liuqingyun",
+        "seq": 839
+      },
+      {
+        "value": "元神被封印擒获",
+        "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
+        "seq": 839,
+        "note": "肉身未提；另有一小半元神留于他处作保命后手"
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "窥涅",
+        "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
+        "seq": 839
+      }
+    ],
+    "结局": [
+      {
+        "value": "被王林以仙术定身止住自爆，层层禁制封印后扔入储物袋",
+        "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
         "seq": 839
       }
     ]
@@ -84,12 +112,25 @@
       "docId": "plot.xianni-ch898-lei-ji-shiyinzong-liuqingyun",
       "dated": false,
       "seq": 839
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
+      "dated": false,
+      "seq": 839
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
+      "dated": false,
+      "seq": 839
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch898-lei-ji-shiyinzong-liuqingyun"
+    "plot.xianni-ch898-lei-ji-shiyinzong-liuqingyun",
+    "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured"
   ],
-  "updatedAt": "2026-08-23T18:16:36.596Z"
+  "updatedAt": "2026-08-23T18:24:26.034Z"
 }

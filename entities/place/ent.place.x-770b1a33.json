@@ -16,17 +16,18 @@
     "祠堂",
     "王族祖宅",
     "皇家祖宅",
-    "许木的祖宅"
+    "许木的祖宅",
+    "皇城祠堂"
   ],
   "summary": "王家在小镇上最奢华的祖宅，被启明古镜映照为目标、藤化元穿镜降临之处。",
   "attributes": {
     "所属势力": "赵国凡间皇族",
-    "类型": "宅邸、凡人家族祖宅、家族祖宅/庄园、凡俗宅邸、祖宅/祠堂、家族祖宅/祠堂、祖宅、禁地",
+    "类型": "宅邸、凡人家族祖宅、家族祖宅/庄园、凡俗宅邸、祖宅/祠堂、家族祖宅/祠堂、祖宅、禁地、祠堂",
     "所属界面": "赵国凡人界",
     "上级区域": "皇祖城",
     "守护": "被认为是唯一安全之地、世代效忠王家的花甲老人、朱雀星各门派轮流派遣的优秀弟子",
     "规模": "庄园不大，深处一间普通房舍",
-    "特产": "先祖遗留玉石",
+    "特产": "众多王家先祖灵牌",
     "方位": "赵国恒岳派山下",
     "危险度": "擅闯为株连九族大罪"
   },
@@ -88,6 +89,11 @@
         "value": "祖宅、禁地",
         "docId": "plot.xianni-ch893-thank-you-wang-lin-returns-to-ancestral-home",
         "seq": 834
+      },
+      {
+        "value": "祠堂",
+        "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
+        "seq": 839
       }
     ],
     "所属界面": [
@@ -148,6 +154,11 @@
         "value": "先祖遗留玉石",
         "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
         "seq": 387
+      },
+      {
+        "value": "众多王家先祖灵牌",
+        "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
+        "seq": 839
       }
     ],
     "方位": [
@@ -206,9 +217,9 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
+      "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
       "dated": false,
-      "seq": 387
+      "seq": 839
     },
     "方位": {
       "asOf": null,
@@ -231,7 +242,8 @@
     "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
     "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
     "plot.xianni-ch447-451-farewell-zhuque-star",
-    "plot.xianni-ch893-thank-you-wang-lin-returns-to-ancestral-home"
+    "plot.xianni-ch893-thank-you-wang-lin-returns-to-ancestral-home",
+    "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured"
   ],
-  "updatedAt": "2026-08-23T18:03:50.092Z"
+  "updatedAt": "2026-08-23T18:24:26.076Z"
 }

@@ -1,51 +1,40 @@
 {
-  "id": "ent.artifact.x-7e7714e2",
+  "id": "ent.artifact.x-a7012511",
   "type": "artifact",
-  "name": "古神巨鼎",
+  "name": "刘青云的古镜",
   "aliases": [
-    "虚幻之鼎"
+    "眉心古镜"
   ],
-  "summary": "贪狼所藏至宝之一，本片段仅被王林列举提及。",
+  "summary": "刘青云自眉心波纹中唤出的古镜，内可收纳窥涅元神与炎灵火尸等物。",
   "attributes": {
-    "持有者": "王林",
-    "能力": "瞬间移开身形避险、开启时体外现虚幻之鼎",
-    "外形": "虚幻之鼎"
+    "持有者": "刘青云",
+    "能力": "收纳并放出元神、尸体等物",
+    "外形": "古镜，自眉心波纹中飞出"
   },
   "observations": {
     "持有者": [
       {
-        "value": "贪狼",
-        "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
-        "seq": 679,
-        "note": "遗物，现落入王林之手"
-      },
-      {
-        "value": "王林",
+        "value": "刘青云",
         "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
         "seq": 839
       }
     ],
     "能力": [
       {
-        "value": "瞬间移开身形避险",
-        "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
-        "seq": 839
-      },
-      {
-        "value": "开启时体外现虚幻之鼎",
+        "value": "收纳并放出元神、尸体等物",
         "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
         "seq": 839
       }
     ],
     "外形": [
       {
-        "value": "虚幻之鼎",
+        "value": "古镜，自眉心波纹中飞出",
         "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
         "seq": 839
       }
     ]
   },
-  "firstSeq": 679,
+  "firstSeq": 839,
   "attrProvenance": {
     "持有者": {
       "asOf": null,
@@ -69,8 +58,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch679-683-thunder-star-body-reforge",
     "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured"
   ],
-  "updatedAt": "2026-08-23T18:24:26.037Z"
+  "updatedAt": "2026-08-23T18:24:26.038Z"
 }
