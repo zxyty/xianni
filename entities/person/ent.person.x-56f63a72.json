@@ -7,17 +7,19 @@
     "万夫候",
     "Leiji",
     "被封印的巨人",
-    "洞穴中的巨人"
+    "洞穴中的巨人",
+    "Lei Ji",
+    "棺中巨人"
   ],
   "summary": "自称巨魔族万夫候，即当年带巨魔族从星空来到朱雀星的巨魔族先祖；被紫青色植物与禁锢法术困于尸阴宗地底溶洞，向王林呼救并许以开天之铁与终身坐骑之诺。",
   "attributes": {
     "种族": "巨魔族",
-    "身份": "巨魔族先祖、被尸阴宗封印的巨魔族修士",
+    "身份": "巨魔族先祖、被尸阴宗封印的巨魔族修士、巨魔族老祖",
     "称号": "万夫候",
     "性格": "傲意十足、急切求生、隐忍诱人、心机深沉",
-    "外貌": "庞大男尸，皮肤铁青色光滑如镜面，眉心有淡淡斧子印记、巨人之躯，背生紫芒利刺、顶生巨大紫花植物",
-    "标志特征": "体型接近五六星古神；生机被法术禁锢而静止",
-    "存殁": "被封印（呼救有意识）、存活"
+    "外貌": "庞大男尸，皮肤铁青色光滑如镜面，眉心有淡淡斧子印记、巨人之躯，背生紫芒利刺、顶生巨大紫花植物、庞大男尸，皮肤铁青光滑如镜面",
+    "标志特征": "体型接近五六星古神；生机被法术禁锢而静止、眉心淡淡斧子印记、周身缠满蠕动的紫青藤",
+    "存殁": "被封印（呼救有意识）、存活、存活（生机被持续吸取，数百年后将成尸骸）"
   },
   "observations": {
     "种族": [
@@ -37,6 +39,11 @@
         "value": "被尸阴宗封印的巨魔族修士",
         "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
         "seq": 414
+      },
+      {
+        "value": "巨魔族老祖",
+        "docId": "plot.xianni-ch898-lei-ji-shiyinzong-liuqingyun",
+        "seq": 839
       }
     ],
     "称号": [
@@ -68,6 +75,11 @@
         "value": "巨人之躯，背生紫芒利刺、顶生巨大紫花植物",
         "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
         "seq": 414
+      },
+      {
+        "value": "庞大男尸，皮肤铁青光滑如镜面",
+        "docId": "plot.xianni-ch898-lei-ji-shiyinzong-liuqingyun",
+        "seq": 839
       }
     ],
     "标志特征": [
@@ -75,6 +87,16 @@
         "value": "体型接近五六星古神；生机被法术禁锢而静止",
         "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
         "seq": 414
+      },
+      {
+        "value": "眉心淡淡斧子印记",
+        "docId": "plot.xianni-ch898-lei-ji-shiyinzong-liuqingyun",
+        "seq": 839
+      },
+      {
+        "value": "周身缠满蠕动的紫青藤",
+        "docId": "plot.xianni-ch898-lei-ji-shiyinzong-liuqingyun",
+        "seq": 839
       }
     ],
     "存殁": [
@@ -89,6 +111,11 @@
         "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
         "seq": 414,
         "note": "被祖藤包裹吸取血液生机，仍被困"
+      },
+      {
+        "value": "存活（生机被持续吸取，数百年后将成尸骸）",
+        "docId": "plot.xianni-ch898-lei-ji-shiyinzong-liuqingyun",
+        "seq": 839
       }
     ]
   },
@@ -141,7 +168,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo"
+    "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+    "plot.xianni-ch898-lei-ji-shiyinzong-liuqingyun"
   ],
-  "updatedAt": "2026-08-17T20:24:08.601Z"
+  "updatedAt": "2026-08-23T18:16:36.594Z"
 }
