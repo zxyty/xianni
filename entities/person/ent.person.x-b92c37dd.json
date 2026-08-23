@@ -14,7 +14,9 @@
     "追击王林的女子",
     "凤目女子",
     "姚家姚冰云",
-    "凤目女修"
+    "凤目女修",
+    "冰冷女子",
+    "追击王林的姚家女修"
   ],
   "summary": "姚家族人，尚未到场；姚长东担心其抢走斩杀许木的功劳。",
   "attributes": {
@@ -23,7 +25,8 @@
     "性别": "女",
     "称号": "寒凤、三凤之一",
     "外貌": "冰冷绝美，走到哪里都带去一片寒意、凤目、面带煞气、神色冰冷、凤目含煞、玉手双指",
-    "标志特征": "在寒冰星以闭神仙术闭关五百年、轻吐「血崩」引动敌人血液沸腾；可融入天地并以神识散开寻找波动、融入天地、掐诀推衍锁定目标方位"
+    "标志特征": "在寒冰星以闭神仙术闭关五百年、轻吐「血崩」引动敌人血液沸腾；可融入天地并以神识散开寻找波动、融入天地、掐诀推衍锁定目标方位、可融入天地遁行、煞气浓郁",
+    "阵营": "追杀王林一方"
   },
   "observations": {
     "身份": [
@@ -126,6 +129,18 @@
         "value": "掐诀推衍锁定目标方位",
         "docId": "plot.xianni-ch829-jiujue-sunshen-array-trap",
         "seq": 771
+      },
+      {
+        "value": "可融入天地遁行、煞气浓郁",
+        "docId": "plot.xianni-830-wang-lin-lures-pursuers-to-wangyue",
+        "seq": 771
+      }
+    ],
+    "阵营": [
+      {
+        "value": "追杀王林一方",
+        "docId": "plot.xianni-830-wang-lin-lures-pursuers-to-wangyue",
+        "seq": 771
       }
     ]
   },
@@ -166,6 +181,12 @@
       "docId": "plot.xianni-ch827-yao-bingyun-pursuit",
       "dated": false,
       "seq": 771
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-830-wang-lin-lures-pursuers-to-wangyue",
+      "dated": false,
+      "seq": 771
     }
   },
   "contested": false,
@@ -174,7 +195,8 @@
     "plot.xianni-ch823-yao-chang-kong-slaughter-interceptors",
     "plot.xianni-ch827-yao-bingyun-pursuit",
     "plot.xianni-828-modaozi-tuxing-luotian-xiyu",
-    "plot.xianni-ch829-jiujue-sunshen-array-trap"
+    "plot.xianni-ch829-jiujue-sunshen-array-trap",
+    "plot.xianni-830-wang-lin-lures-pursuers-to-wangyue"
   ],
-  "updatedAt": "2026-08-23T12:33:51.926Z"
+  "updatedAt": "2026-08-23T12:35:46.381Z"
 }

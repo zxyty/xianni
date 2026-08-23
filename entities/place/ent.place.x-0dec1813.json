@@ -3,12 +3,13 @@
   "type": "place",
   "name": "五大主星",
   "aliases": [
-    "罗天北域五大主星"
+    "罗天北域五大主星",
+    "五主星"
   ],
   "summary": "罗天北域核心的五颗主星；望月在其范围内收拢沉睡，令北域修士心中发麻。",
   "attributes": {
     "上级区域": "罗天北域",
-    "方位": "罗天北域核心"
+    "方位": "罗天北域中心"
   },
   "observations": {
     "上级区域": [
@@ -23,6 +24,11 @@
         "value": "罗天北域核心",
         "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
         "seq": 674
+      },
+      {
+        "value": "罗天北域中心",
+        "docId": "plot.xianni-830-wang-lin-lures-pursuers-to-wangyue",
+        "seq": 771
       }
     ]
   },
@@ -36,15 +42,16 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
+      "docId": "plot.xianni-830-wang-lin-lures-pursuers-to-wangyue",
       "dated": false,
-      "seq": 674
+      "seq": 771
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-674-678-wangyue-awaken-bone-heist"
+    "plot.xianni-674-678-wangyue-awaken-bone-heist",
+    "plot.xianni-830-wang-lin-lures-pursuers-to-wangyue"
   ],
-  "updatedAt": "2026-08-23T01:41:07.214Z"
+  "updatedAt": "2026-08-23T12:35:46.390Z"
 }

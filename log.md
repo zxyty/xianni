@@ -293,3 +293,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T12:23:28.507Z** `ingest` plot.xianni-ch827-yao-bingyun-pursuit — 第827章 姚冰云：寒凤追击许木，冰破对雷球 · kind=plot asOf=2026-08-23 entities=32 relations=48 src=00771-00774.p1.md
 - **2026-08-23T12:26:07.789Z** `ingest` plot.xianni-828-modaozi-tuxing-luotian-xiyu — 第828章 魔道子——王林血洗罗天西域，屠星立威得号「魔道子」 · kind=plot asOf=2026-08-23 entities=21 relations=34 src=00771-00774.p2.md
 - **2026-08-23T12:33:52.147Z** `ingest` plot.xianni-ch829-jiujue-sunshen-array-trap — 第829章 九绝损神阵——王林废星设局待姚家 · kind=plot asOf=2026-08-23 entities=42 relations=71 src=00771-00774.p3.md
+- **2026-08-23T12:35:46.579Z** `ingest` plot.xianni-830-wang-lin-lures-pursuers-to-wangyue — 第830章 大计划：王林引追兵至望月所化星球 · kind=plot asOf=2026-08-23 entities=16 relations=25 src=00771-00774.p4.md
