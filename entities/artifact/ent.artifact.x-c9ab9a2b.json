@@ -7,15 +7,21 @@
   ],
   "summary": "可破解禁法隐匿的古宝，在罗天星域只有传承自仙界的家族才拥有，追杀李元者持之令其无法藏身。",
   "attributes": {
-    "能力": "破解禁法/隐匿",
+    "能力": "破解禁法/隐匿、破除禁制",
     "来历": "传承自仙界的家族所有",
-    "持有者": "追杀李元的三人"
+    "持有者": "追杀李元的三人",
+    "外形": "古镜"
   },
   "observations": {
     "能力": [
       {
         "value": "破解禁法/隐匿",
         "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
+        "seq": 729
+      },
+      {
+        "value": "破除禁制",
+        "docId": "plot.xianni-0729-0730-chapter769-confidence-wang-lin-saves-li-yuan",
         "seq": 729
       }
     ],
@@ -30,6 +36,13 @@
       {
         "value": "追杀李元的三人",
         "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
+        "seq": 729
+      }
+    ],
+    "外形": [
+      {
+        "value": "古镜",
+        "docId": "plot.xianni-0729-0730-chapter769-confidence-wang-lin-saves-li-yuan",
         "seq": 729
       }
     ]
@@ -53,12 +66,19 @@
       "docId": "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
       "dated": false,
       "seq": 729
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.xianni-0729-0730-chapter769-confidence-wang-lin-saves-li-yuan",
+      "dated": false,
+      "seq": 729
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-769-tianjie-slay-xuezu-body-yangshi"
+    "plot.xianni-769-tianjie-slay-xuezu-body-yangshi",
+    "plot.xianni-0729-0730-chapter769-confidence-wang-lin-saves-li-yuan"
   ],
-  "updatedAt": "2026-08-23T07:18:46.358Z"
+  "updatedAt": "2026-08-23T07:28:28.032Z"
 }
