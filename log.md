@@ -330,3 +330,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T14:40:21.390Z** `ingest` plot.xianni-ch864-last-one-fengxian-teleport-to-lei-xian-dian — 第864章 最后一人：一百零八仙齐聚雷仙殿，东域仅一人走出传送阵 · kind=plot asOf=2026-08-23 entities=22 relations=35 src=00805-00809.p4.md
 - **2026-08-23T14:47:09.677Z** `ingest` plot.xianni-ch865-donglin-xu-family-xu-ting-appears — 第865章 东临许家——许霆现身雷仙殿外 · kind=plot asOf=2026-08-23 entities=39 relations=62 src=00805-00809.p5.md
 - **2026-08-23T15:05:13.126Z** `ingest` plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins — 仙逆 第866章 西子凤：炎雷子点破王林身份，封仙之战开幕 · kind=plot asOf=2026-08-23 entities=80 relations=127 src=00810-00812.p1.md
+- **2026-08-23T15:07:48.589Z** `ingest` plot.xianni-ch869-shenshi-zhi-shu-wanglin-vs-luosu — 第869章 神识之术：王林昆极鞭破罗素神识针，古神皮甲免疫元神攻击 · kind=plot asOf=2026-08-23 entities=24 relations=30 src=00810-00812.p2.md

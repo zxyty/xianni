@@ -12,13 +12,14 @@
   "summary": "雷仙殿修士，封仙大典第一关「人之关」把守者，三百年前已达窥涅中期，神识变化受成名老怪赞誉。",
   "attributes": {
     "性别": "男",
-    "身份": "人之关把守者、封仙之战第一关主持者、雷仙殿封仙之战第一关主考",
+    "身份": "人之关把守者、封仙之战第一关主持者、雷仙殿封仙之战第一关主考、雷仙殿内身份极高者",
     "外貌": "青袍中年男子",
-    "标志特征": "神识变化受老怪赞誉",
+    "标志特征": "神识变化受老怪赞誉、纯神识攻击之术、眉心青蛇",
     "性格": "傲然、不耐、视封仙如无物、不耐、倨傲、动辄骂“废物”、阴沉、记仇、公器私用",
-    "神识": "极为神奇，可在体内幻化，散开可凝成金甲巨人、神识可幻化多具百丈金甲巨人（最多九具）",
-    "小阶段": "窥涅中期巅峰",
-    "阵营": "雷仙殿"
+    "神识": "极为神奇，可在体内幻化，散开可凝成金甲巨人、神识可幻化多具百丈金甲巨人（最多九具）、远超窥涅初期，可覆压方圆千丈",
+    "小阶段": "窥涅中期巅峰、窥涅中期",
+    "阵营": "雷仙殿",
+    "寿元": "数千年修道"
   },
   "observations": {
     "性别": [
@@ -43,6 +44,11 @@
         "value": "雷仙殿封仙之战第一关主考",
         "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
         "seq": 810
+      },
+      {
+        "value": "雷仙殿内身份极高者",
+        "docId": "plot.xianni-ch869-shenshi-zhi-shu-wanglin-vs-luosu",
+        "seq": 810
       }
     ],
     "外貌": [
@@ -56,6 +62,11 @@
       {
         "value": "神识变化受老怪赞誉",
         "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+        "seq": 810
+      },
+      {
+        "value": "纯神识攻击之术、眉心青蛇",
+        "docId": "plot.xianni-ch869-shenshi-zhi-shu-wanglin-vs-luosu",
         "seq": 810
       }
     ],
@@ -86,6 +97,11 @@
         "value": "神识可幻化多具百丈金甲巨人（最多九具）",
         "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
         "seq": 810
+      },
+      {
+        "value": "远超窥涅初期，可覆压方圆千丈",
+        "docId": "plot.xianni-ch869-shenshi-zhi-shu-wanglin-vs-luosu",
+        "seq": 810
       }
     ],
     "小阶段": [
@@ -93,12 +109,24 @@
         "value": "窥涅中期巅峰",
         "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
         "seq": 810
+      },
+      {
+        "value": "窥涅中期",
+        "docId": "plot.xianni-ch869-shenshi-zhi-shu-wanglin-vs-luosu",
+        "seq": 810
       }
     ],
     "阵营": [
       {
         "value": "雷仙殿",
         "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+        "seq": 810
+      }
+    ],
+    "寿元": [
+      {
+        "value": "数千年修道",
+        "docId": "plot.xianni-ch869-shenshi-zhi-shu-wanglin-vs-luosu",
         "seq": 810
       }
     ]
@@ -152,12 +180,19 @@
       "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
       "dated": false,
       "seq": 810
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.xianni-ch869-shenshi-zhi-shu-wanglin-vs-luosu",
+      "dated": false,
+      "seq": 810
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins"
+    "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+    "plot.xianni-ch869-shenshi-zhi-shu-wanglin-vs-luosu"
   ],
-  "updatedAt": "2026-08-23T15:05:12.872Z"
+  "updatedAt": "2026-08-23T15:07:48.377Z"
 }
