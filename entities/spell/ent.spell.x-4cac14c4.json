@@ -4,13 +4,16 @@
   "name": "第三目",
   "aliases": [
     "眉心第三目",
-    "王林第三目"
+    "王林第三目",
+    "红芒第三目",
+    "眉心红线"
   ],
   "summary": "王林眉心神目，怒睁时红光成扇形暴开，可使虚空裂缝回归本源、化作暗红血滴。",
   "attributes": {
-    "类型": "看破本源类大神通",
-    "威力": "使目标向本源蜕去并显出其真正神通",
-    "消耗": "全力施展需剧烈消耗元力"
+    "类型": "神通/瞳术",
+    "威力": "红光成扇形喷出，包裹整幅战之一字画轴",
+    "消耗": "全力施展需剧烈消耗元力",
+    "出处": "王林自身神通"
   },
   "observations": {
     "类型": [
@@ -23,6 +26,11 @@
         "value": "看破本源类大神通",
         "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
         "seq": 761
+      },
+      {
+        "value": "神通/瞳术",
+        "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+        "seq": 813
       }
     ],
     "威力": [
@@ -35,6 +43,12 @@
         "value": "使目标向本源蜕去并显出其真正神通",
         "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
         "seq": 761
+      },
+      {
+        "value": "红光成扇形喷出，包裹整幅战之一字画轴",
+        "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+        "seq": 813,
+        "note": "吸纳战字本源之力后"
       }
     ],
     "消耗": [
@@ -43,34 +57,49 @@
         "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
         "seq": 761
       }
+    ],
+    "出处": [
+      {
+        "value": "王林自身神通",
+        "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+        "seq": 813
+      }
     ]
   },
   "firstSeq": 743,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+      "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
       "dated": false,
-      "seq": 761
+      "seq": 813
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+      "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
       "dated": false,
-      "seq": 761
+      "seq": 813,
+      "note": "吸纳战字本源之力后"
     },
     "消耗": {
       "asOf": null,
       "docId": "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
       "dated": false,
       "seq": 761
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+      "dated": false,
+      "seq": 813
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch786-eight-severed-limbs-lei-immortal-realm",
-    "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin"
+    "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
+    "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling"
   ],
-  "updatedAt": "2026-08-23T10:43:53.186Z"
+  "updatedAt": "2026-08-23T15:28:10.193Z"
 }

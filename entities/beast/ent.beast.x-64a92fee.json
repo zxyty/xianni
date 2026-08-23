@@ -13,14 +13,15 @@
     "太古雷龙半只",
     "太古雷龙半条",
     "太古雷龙之力",
-    "Taigu Thunder Dragon"
+    "Taigu Thunder Dragon",
+    "万雷之灵"
   ],
   "summary": "王林元神曾吞噬其半条，致元神变异，所画符文由金光转为白色雷光并带天雷威压。",
   "attributes": {
     "种族": "龙/雷属",
-    "能力": "被吞噬后使元神变异、带雷之威压、替天道行使雷的权利，其天雷之威凌驾一切雷系神通、吐雷球、化作青气凝形、全身雷光冲击吸力、自断身躯、融入王林元神，赋予其真正雷威、太古雷威、浓郁闪电、咆哮抗衡古神指、代天道行驶雷之权利、受伤时寻雷威之地可加速恢复、被王林元神吞下半条后赋予其雷之本质",
-    "血脉": "雷属",
-    "外形": "巨龙、可化作被拉伸极长的青气、雷电幻化的龙形、元神中一条细线扭曲成的雷龙轮廓、龙形",
+    "能力": "被吞噬后使元神变异、带雷之威压、替天道行使雷的权利，其天雷之威凌驾一切雷系神通、吐雷球、化作青气凝形、全身雷光冲击吸力、自断身躯、融入王林元神，赋予其真正雷威、太古雷威、浓郁闪电、咆哮抗衡古神指、代天道行驶雷之权利、受伤时寻雷威之地可加速恢复、被王林元神吞下半条后赋予其雷之本质、行使天地雷霆之力、雷之咆哮令万雷听令、吞噬雷灵、令雷霆朝拜、威压笼罩天地",
+    "血脉": "万雷之灵，天地一切雷力皆属其物",
+    "外形": "巨龙、可化作被拉伸极长的青气、雷电幻化的龙形、元神中一条细线扭曲成的雷龙轮廓、龙形、百丈雷龙",
     "天敌": "王林的吞魂神通",
     "主人": "王林",
     "栖息地": "充满雷威之地"
@@ -108,6 +109,31 @@
         "value": "被王林元神吞下半条后赋予其雷之本质",
         "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
         "seq": 684
+      },
+      {
+        "value": "行使天地雷霆之力",
+        "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+        "seq": 813
+      },
+      {
+        "value": "雷之咆哮令万雷听令",
+        "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+        "seq": 813
+      },
+      {
+        "value": "吞噬雷灵",
+        "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+        "seq": 813
+      },
+      {
+        "value": "令雷霆朝拜",
+        "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+        "seq": 813
+      },
+      {
+        "value": "威压笼罩天地",
+        "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+        "seq": 813
       }
     ],
     "血脉": [
@@ -125,6 +151,11 @@
         "value": "雷属",
         "docId": "plot.xianni-ch735-wanglin-devours-immortal-thunder-leiding-destroyed",
         "seq": 693
+      },
+      {
+        "value": "万雷之灵，天地一切雷力皆属其物",
+        "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+        "seq": 813
       }
     ],
     "外形": [
@@ -153,6 +184,11 @@
         "value": "龙形",
         "docId": "plot.xianni-ch735-wanglin-devours-immortal-thunder-leiding-destroyed",
         "seq": 693
+      },
+      {
+        "value": "百丈雷龙",
+        "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+        "seq": 813
       }
     ],
     "天敌": [
@@ -166,7 +202,8 @@
       {
         "value": "王林",
         "docId": "plot.xianni-ch660-first-entry-luoyun-star-domain",
-        "seq": 618
+        "seq": 618,
+        "note": "被王林吞噬，与其元神部分融合"
       }
     ],
     "栖息地": [
@@ -193,9 +230,9 @@
     },
     "血脉": {
       "asOf": null,
-      "docId": "plot.xianni-ch735-wanglin-devours-immortal-thunder-leiding-destroyed",
+      "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
       "dated": false,
-      "seq": 693
+      "seq": 813
     },
     "外形": {
       "asOf": null,
@@ -213,7 +250,8 @@
       "asOf": null,
       "docId": "plot.xianni-ch660-first-entry-luoyun-star-domain",
       "dated": false,
-      "seq": 618
+      "seq": 618,
+      "note": "被王林吞噬，与其元神部分融合"
     },
     "栖息地": {
       "asOf": null,
@@ -232,7 +270,8 @@
     "plot.xianni-674-678-wangyue-awaken-bone-heist",
     "plot.xianni-ch679-683-thunder-star-body-reforge",
     "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
-    "plot.xianni-ch735-wanglin-devours-immortal-thunder-leiding-destroyed"
+    "plot.xianni-ch735-wanglin-devours-immortal-thunder-leiding-destroyed",
+    "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling"
   ],
-  "updatedAt": "2026-08-23T03:55:40.094Z"
+  "updatedAt": "2026-08-23T15:28:10.127Z"
 }

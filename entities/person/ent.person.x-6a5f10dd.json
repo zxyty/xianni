@@ -6,19 +6,21 @@
     "东临星许家入世者",
     "Xu Ting",
     "东临星许霆",
-    "许霆老怪"
+    "许霆老怪",
+    "许霆修士"
   ],
   "summary": "东临星许家这一代入世历练者，白衣阴森、杀机浓郁的窥涅初期修士，杀尽罗天东域其他资格者，同时得罪一百多个修真家族。",
   "attributes": {
     "性别": "男",
-    "身份": "东临星许家这一代入世历练者、封仙大典争夺封号者、东临星许家修士、封仙台考核参试者",
+    "身份": "东临星许家这一代入世历练者、封仙大典争夺封号者、东临星许家修士、封仙台考核参试者、封仙考核第三关合格者、封仙参与者",
     "小阶段": "窥涅初期",
     "外貌": "约三十许岁，修长身影，一袭白衣，双目冰冷狂傲",
-    "标志特征": "身携浓郁血腥味与煞气、阴森的微笑、眼中红光一闪、眼中红光一闪，善用黑气、眼中红光闪烁",
-    "性格": "阴森、狂傲、好挑衅",
+    "标志特征": "身携浓郁血腥味与煞气、阴森的微笑、眼中红光一闪、眼中红光一闪，善用黑气、眼中红光闪烁、眉心散出黑雾/黑气护体、眉心可生黑气气团旋转环绕",
+    "性格": "狂傲、嗜杀、阴森、阴森、狂傲、好挑衅、冷傲不甘、跋扈、阴沉、天之骄子，内心复杂不甘",
     "出身地": "东临星",
     "神识": "蕴含一股诡异的力量",
-    "存殁": "在世"
+    "存殁": "在世",
+    "结局": "被雷灵逼退出雷池，地之关不敌王林"
   },
   "observations": {
     "性别": [
@@ -48,6 +50,16 @@
         "value": "封仙台考核参试者",
         "docId": "plot.xianni-ch870-qingshui-protects-xumu",
         "seq": 810
+      },
+      {
+        "value": "封仙考核第三关合格者",
+        "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+        "seq": 813
+      },
+      {
+        "value": "封仙参与者",
+        "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+        "seq": 813
       }
     ],
     "小阶段": [
@@ -89,6 +101,16 @@
         "value": "眼中红光闪烁",
         "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
         "seq": 810
+      },
+      {
+        "value": "眉心散出黑雾/黑气护体",
+        "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+        "seq": 813
+      },
+      {
+        "value": "眉心可生黑气气团旋转环绕",
+        "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+        "seq": 813
       }
     ],
     "性格": [
@@ -101,6 +123,21 @@
         "value": "阴森、狂傲、好挑衅",
         "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
         "seq": 810
+      },
+      {
+        "value": "冷傲不甘",
+        "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+        "seq": 813
+      },
+      {
+        "value": "跋扈、阴沉",
+        "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+        "seq": 813
+      },
+      {
+        "value": "天之骄子，内心复杂不甘",
+        "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+        "seq": 813
       }
     ],
     "出身地": [
@@ -123,6 +160,14 @@
         "value": "在世",
         "docId": "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
         "seq": 805
+      }
+    ],
+    "结局": [
+      {
+        "value": "被雷灵逼退出雷池，地之关不敌王林",
+        "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+        "seq": 813,
+        "note": "第872章"
       }
     ]
   },
@@ -160,9 +205,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+      "docId": "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
       "dated": false,
-      "seq": 810
+      "seq": 805
     },
     "出身地": {
       "asOf": null,
@@ -182,6 +227,13 @@
       "docId": "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
       "dated": false,
       "seq": 805
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+      "dated": false,
+      "seq": 813,
+      "note": "第872章"
     }
   },
   "contested": false,
@@ -189,7 +241,8 @@
   "docs": [
     "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
     "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
-    "plot.xianni-ch870-qingshui-protects-xumu"
+    "plot.xianni-ch870-qingshui-protects-xumu",
+    "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling"
   ],
-  "updatedAt": "2026-08-23T15:10:06.312Z"
+  "updatedAt": "2026-08-23T15:28:10.188Z"
 }

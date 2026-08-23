@@ -6,12 +6,14 @@
     "向姓老者",
     "向家老者",
     "向兄",
-    "向家的老者"
+    "向家的老者",
+    "向家老者（罗天星域）"
   ],
   "summary": "雷仙殿密室三人之一，家族记录中载有月兽，断言其轻易不可招惹。",
   "attributes": {
     "外貌": "红袍",
-    "身份": "向家老祖/旁观长辈"
+    "身份": "向家老祖/旁观长辈",
+    "出身地": "向家"
   },
   "observations": {
     "外貌": [
@@ -42,6 +44,13 @@
         "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
         "seq": 810
       }
+    ],
+    "出身地": [
+      {
+        "value": "向家",
+        "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+        "seq": 813
+      }
     ]
   },
   "firstSeq": 775,
@@ -57,6 +66,12 @@
       "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
       "dated": false,
       "seq": 810
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+      "dated": false,
+      "seq": 813
     }
   },
   "contested": false,
@@ -65,7 +80,8 @@
     "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
     "plot.xianni-ch840-call-from-inside-wangyue",
     "plot.xianni-ch841-ancient-god-shattered-star",
-    "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins"
+    "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+    "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling"
   ],
-  "updatedAt": "2026-08-23T15:05:12.845Z"
+  "updatedAt": "2026-08-23T15:28:10.123Z"
 }

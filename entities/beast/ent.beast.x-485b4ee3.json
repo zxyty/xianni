@@ -6,14 +6,19 @@
     "雷之仙界守门雷灵",
     "守护门户的雷灵",
     "虚幻雷灵",
-    "雷池雷灵"
+    "雷池雷灵",
+    "蛇状雷灵",
+    "百丈雷灵",
+    "半截雷灵"
   ],
   "summary": "镇守雷之仙界门户的存在，入界者须献上大量升仙果喂食，否则不得通行。",
   "attributes": {
-    "栖息地": "雷池广场",
-    "能力": "以雷威压迫受试者",
-    "天敌": "无（文中未提）",
-    "外形": "由无数雷光组成的虚幻灵体"
+    "栖息地": "雷之仙界门户、雷池广场、雷仙殿千丈雷池、雷池",
+    "能力": "守护门户、阻断入界者、以雷威压迫受试者、凝聚全池雷光、咆哮撼动心神、张口吞噬修士、凝聚天地雷霆",
+    "天敌": "太古雷龙",
+    "外形": "百丈蛇状、似蛇若龙，全身由雷电组成",
+    "种族": "雷灵（雷龙死后所化之灵）",
+    "主人": "炎雷子"
   },
   "observations": {
     "栖息地": [
@@ -26,6 +31,16 @@
         "value": "雷池广场",
         "docId": "plot.xianni-ch870-qingshui-protects-xumu",
         "seq": 810
+      },
+      {
+        "value": "雷仙殿千丈雷池",
+        "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+        "seq": 813
+      },
+      {
+        "value": "雷池",
+        "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+        "seq": 813
       }
     ],
     "能力": [
@@ -38,6 +53,26 @@
         "value": "以雷威压迫受试者",
         "docId": "plot.xianni-ch870-qingshui-protects-xumu",
         "seq": 810
+      },
+      {
+        "value": "凝聚全池雷光",
+        "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+        "seq": 813
+      },
+      {
+        "value": "咆哮撼动心神",
+        "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+        "seq": 813
+      },
+      {
+        "value": "张口吞噬修士",
+        "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+        "seq": 813
+      },
+      {
+        "value": "凝聚天地雷霆",
+        "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+        "seq": 813
       }
     ],
     "天敌": [
@@ -45,6 +80,12 @@
         "value": "无（文中未提）",
         "docId": "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
         "seq": 805
+      },
+      {
+        "value": "太古雷龙",
+        "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+        "seq": 813,
+        "note": "雷魂传承中的先祖气息令其无法抵抗"
       }
     ],
     "外形": [
@@ -52,6 +93,25 @@
         "value": "由无数雷光组成的虚幻灵体",
         "docId": "plot.xianni-ch870-qingshui-protects-xumu",
         "seq": 810
+      },
+      {
+        "value": "百丈蛇状、似蛇若龙，全身由雷电组成",
+        "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+        "seq": 813
+      }
+    ],
+    "种族": [
+      {
+        "value": "雷灵（雷龙死后所化之灵）",
+        "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+        "seq": 813
+      }
+    ],
+    "主人": [
+      {
+        "value": "炎雷子",
+        "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+        "seq": 813
       }
     ]
   },
@@ -59,34 +119,48 @@
   "attrProvenance": {
     "栖息地": {
       "asOf": null,
-      "docId": "plot.xianni-ch870-qingshui-protects-xumu",
+      "docId": "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
       "dated": false,
-      "seq": 810
+      "seq": 805
     },
     "能力": {
-      "asOf": null,
-      "docId": "plot.xianni-ch870-qingshui-protects-xumu",
-      "dated": false,
-      "seq": 810
-    },
-    "天敌": {
       "asOf": null,
       "docId": "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
       "dated": false,
       "seq": 805
     },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+      "dated": false,
+      "seq": 813,
+      "note": "雷魂传承中的先祖气息令其无法抵抗"
+    },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch870-qingshui-protects-xumu",
+      "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
       "dated": false,
-      "seq": 810
+      "seq": 813
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+      "dated": false,
+      "seq": 813
+    },
+    "主人": {
+      "asOf": null,
+      "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+      "dated": false,
+      "seq": 813
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
-    "plot.xianni-ch870-qingshui-protects-xumu"
+    "plot.xianni-ch870-qingshui-protects-xumu",
+    "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling"
   ],
-  "updatedAt": "2026-08-23T15:10:06.330Z"
+  "updatedAt": "2026-08-23T15:28:10.125Z"
 }

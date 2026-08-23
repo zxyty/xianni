@@ -332,3 +332,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T15:05:13.126Z** `ingest` plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins — 仙逆 第866章 西子凤：炎雷子点破王林身份，封仙之战开幕 · kind=plot asOf=2026-08-23 entities=80 relations=127 src=00810-00812.p1.md
 - **2026-08-23T15:07:48.589Z** `ingest` plot.xianni-ch869-shenshi-zhi-shu-wanglin-vs-luosu — 第869章 神识之术：王林昆极鞭破罗素神识针，古神皮甲免疫元神攻击 · kind=plot asOf=2026-08-23 entities=24 relations=30 src=00810-00812.p2.md
 - **2026-08-23T15:10:06.558Z** `ingest` plot.xianni-ch870-qingshui-protects-xumu — 第870章 清水护短：清水一击杀罗素，王林（许木）同门身份曝光，雷池地之关开启 · kind=plot asOf=2026-08-23 entities=22 relations=34 src=00810-00812.p3.md
+- **2026-08-23T15:28:10.466Z** `ingest` plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling — 仙逆 第813-816章：雷池地之关·太古雷龙吞雷灵，得行使雷之权力 · kind=plot asOf=2026-08-23 entities=54 relations=109 src=00813-00816.md
