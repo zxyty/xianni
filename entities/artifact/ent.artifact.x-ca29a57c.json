@@ -4,14 +4,16 @@
   "name": "天地大鼎",
   "aliases": [
     "大鼎",
-    "巨鼎"
+    "巨鼎",
+    "神秘大鼎"
   ],
   "summary": "雷道子的困敌法宝，鼎内可落道念神雷并生紫色火焰，需持续注入元力维持。本章被雷霆风暴、仙卫重拳与两次斩罗决击碎并二次爆碎。",
   "attributes": {
-    "持有者": "雷道子",
-    "能力": "困困天地、道念神雷、紫色火焰雷火交加、附雷仙殿雷兽",
-    "禁制": "以施术者元力持续供养",
-    "外形": "笼罩天地的巨鼎"
+    "持有者": "贪狼",
+    "能力": "困困天地、道念神雷、紫色火焰雷火交加、附雷仙殿雷兽、防护保命、变换方位遁离",
+    "禁制": "神通失效",
+    "外形": "笼罩天地的巨鼎",
+    "来历": "贪狼当年凭强烈感应所取"
   },
   "observations": {
     "持有者": [
@@ -19,6 +21,11 @@
         "value": "雷道子",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
+      },
+      {
+        "value": "贪狼",
+        "docId": "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
+        "seq": 669
       }
     ],
     "能力": [
@@ -41,6 +48,16 @@
         "value": "附雷仙殿雷兽",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
+      },
+      {
+        "value": "防护保命",
+        "docId": "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
+        "seq": 669
+      },
+      {
+        "value": "变换方位遁离",
+        "docId": "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
+        "seq": 669
       }
     ],
     "禁制": [
@@ -48,6 +65,12 @@
         "value": "以施术者元力持续供养",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
+      },
+      {
+        "value": "神通失效",
+        "docId": "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
+        "seq": 669,
+        "note": "被望月触手缠绕后如被吸收"
       }
     ],
     "外形": [
@@ -56,15 +79,22 @@
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
       }
+    ],
+    "来历": [
+      {
+        "value": "贪狼当年凭强烈感应所取",
+        "docId": "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
+        "seq": 669
+      }
     ]
   },
   "firstSeq": 661,
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+      "docId": "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
       "dated": false,
-      "seq": 661
+      "seq": 669
     },
     "能力": {
       "asOf": null,
@@ -74,21 +104,29 @@
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+      "docId": "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
       "dated": false,
-      "seq": 661
+      "seq": 669,
+      "note": "被望月触手缠绕后如被吸收"
     },
     "外形": {
       "asOf": null,
       "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
       "dated": false,
       "seq": 661
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
+      "dated": false,
+      "seq": 669
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power"
+    "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+    "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit"
   ],
-  "updatedAt": "2026-08-17T14:25:16.455Z"
+  "updatedAt": "2026-08-23T01:18:09.508Z"
 }

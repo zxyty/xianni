@@ -7,13 +7,17 @@
     "千幻星千家",
     "千氏家族",
     "千家三祖",
-    "千族"
+    "千族",
+    "千家城",
+    "Qian Family"
   ],
   "summary": "千幻星上的势力，幻家老祖以神识传音求援的对象之一。",
   "attributes": {
-    "等级": "千幻星第一大势力·霸主",
+    "等级": "千幻星第一家族",
     "据点": "千幻星北、东区域、千幻星",
-    "阵营": "宣布中立、斩断与幻家联系"
+    "阵营": "宣布中立、斩断与幻家联系",
+    "所属界面": "罗天星域",
+    "掌门": "千葵子"
   },
   "observations": {
     "等级": [
@@ -21,6 +25,12 @@
         "value": "千幻星第一大势力·霸主",
         "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
         "seq": 641
+      },
+      {
+        "value": "千幻星第一家族",
+        "docId": "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
+        "seq": 669,
+        "note": "规模为幻家数倍"
       }
     ],
     "据点": [
@@ -42,15 +52,30 @@
         "seq": 641,
         "note": "第683章千葵子表态后"
       }
+    ],
+    "所属界面": [
+      {
+        "value": "罗天星域",
+        "docId": "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
+        "seq": 669
+      }
+    ],
+    "掌门": [
+      {
+        "value": "千葵子",
+        "docId": "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
+        "seq": 669
+      }
     ]
   },
   "firstSeq": 641,
   "attrProvenance": {
     "等级": {
       "asOf": null,
-      "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
+      "docId": "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
       "dated": false,
-      "seq": 641
+      "seq": 669,
+      "note": "规模为幻家数倍"
     },
     "据点": {
       "asOf": null,
@@ -64,6 +89,18 @@
       "dated": false,
       "seq": 641,
       "note": "第683章千葵子表态后"
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
+      "dated": false,
+      "seq": 669
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
+      "dated": false,
+      "seq": 669
     }
   },
   "contested": false,
@@ -75,7 +112,8 @@
     "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation",
     "plot.xianni-ch685-zhan-luo-jue-po-huan-jia-da-zhen",
     "plot.xianni-ch686-sanmo-appears",
-    "plot.xianni-687-tunshi-star-soul-extraction"
+    "plot.xianni-687-tunshi-star-soul-extraction",
+    "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit"
   ],
-  "updatedAt": "2026-08-22T23:50:32.247Z"
+  "updatedAt": "2026-08-23T01:18:09.437Z"
 }

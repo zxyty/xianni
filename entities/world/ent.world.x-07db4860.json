@@ -14,8 +14,9 @@
   "summary": "四大仙界之一，由通往仙域的通道演化而成，对应下方的罗天星域。",
   "attributes": {
     "层次": "仙界",
-    "特点": "四大仙界之一（风、雨、雷、电）、四大仙界之一，各仙界下各有一方星域、已毁灭、曾崩溃、会开启（开启中有致命凶险）、雷兽只在此界、雷兽的来源之地",
-    "主宰势力": "雷仙殿、雷之仙君"
+    "特点": "四大仙界之一（风、雨、雷、电）、四大仙界之一，各仙界下各有一方星域、已毁灭、曾崩溃、会开启（开启中有致命凶险）、雷兽只在此界、雷兽的来源之地、与雷仙殿、升仙果紧密关联",
+    "主宰势力": "雷仙殿、雷之仙君",
+    "通道": "百年后开启"
   },
   "observations": {
     "层次": [
@@ -61,6 +62,11 @@
         "value": "雷兽的来源之地",
         "docId": "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation",
         "seq": 641
+      },
+      {
+        "value": "与雷仙殿、升仙果紧密关联",
+        "docId": "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
+        "seq": 669
       }
     ],
     "主宰势力": [
@@ -73,6 +79,14 @@
         "value": "雷之仙君",
         "docId": "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation",
         "seq": 641
+      }
+    ],
+    "通道": [
+      {
+        "value": "百年后开启",
+        "docId": "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
+        "seq": 669,
+        "note": "王林当年从孙析口中听闻"
       }
     ]
   },
@@ -95,6 +109,13 @@
       "docId": "plot.xianni-ch683-jing-tui-qian-kui-zi",
       "dated": false,
       "seq": 641
+    },
+    "通道": {
+      "asOf": null,
+      "docId": "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
+      "dated": false,
+      "seq": 669,
+      "note": "王林当年从孙析口中听闻"
     }
   },
   "contested": false,
@@ -107,7 +128,8 @@
     "plot.xianni-ch677-wolf-smoke-rises",
     "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
     "plot.xianni-ch683-jing-tui-qian-kui-zi",
-    "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation"
+    "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation",
+    "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit"
   ],
-  "updatedAt": "2026-08-22T23:38:31.131Z"
+  "updatedAt": "2026-08-23T01:18:09.445Z"
 }
