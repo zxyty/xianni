@@ -251,3 +251,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T04:55:52.884Z** `ingest` plot.xianni-ch743-li-yuan-tian-gui-trap — 第743章 李元：碎片大陆假禁制陷阱与天鬼被擒 · kind=plot asOf=2026-08-23 entities=23 relations=31 src=00701-00705.p4.md
 - **2026-08-23T04:58:28.280Z** `ingest` plot.xianni-744-jian-jian-li-yuan-lead-way-lei-guang-ceng — 第744章 剑尖——王林收葛姓女子一魂为质，李元引路穿越雷光层 · kind=plot asOf=2026-08-23 entities=19 relations=32 src=00701-00705.p5.md
 - **2026-08-23T05:17:07.734Z** `ingest` plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren — 仙逆745-746章：雷光铁链踏行、天级中品灭绝大阵与自称“有缘人”的老者 · kind=plot asOf=2026-08-23 entities=56 relations=114 src=00706-00710.md
+- **2026-08-23T05:24:24.168Z** `ingest` plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark — 第750章 奴印——仙人石像的世代奴印与李家破灭禁往事 · kind=plot asOf=2026-08-23 entities=40 relations=71 src=00711-00715.p1.md

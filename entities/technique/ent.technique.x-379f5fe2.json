@@ -3,13 +3,17 @@
   "type": "technique",
   "name": "破灭禁",
   "aliases": [
-    "破灭禁术"
+    "破灭禁术",
+    "破灭禁法",
+    "李家破灭禁",
+    "李家嫡传破灭禁"
   ],
   "summary": "四大禁术之一，布成无尽无顶的山峰，无数年来无人能登顶；李元可掐诀逐层破除使山峰不断缩小。",
   "attributes": {
     "品阶": "四大禁术之一",
-    "效果": "令山峰无有尽头，云雾深处不可窥视；破解需正确手诀",
-    "外显异象": "破除时山峰震动巨响并整体缩小"
+    "效果": "令山峰无有尽头，云雾深处不可窥视；破解需正确手诀、使李家扬名罗天星域、禁制之术",
+    "外显异象": "破除时山峰震动巨响并整体缩小",
+    "出处": "李家、李家嫡传"
   },
   "observations": {
     "品阶": [
@@ -24,6 +28,16 @@
         "value": "令山峰无有尽头，云雾深处不可窥视；破解需正确手诀",
         "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
         "seq": 706
+      },
+      {
+        "value": "使李家扬名罗天星域",
+        "docId": "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark",
+        "seq": 711
+      },
+      {
+        "value": "禁制之术",
+        "docId": "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark",
+        "seq": 711
       }
     ],
     "外显异象": [
@@ -31,6 +45,18 @@
         "value": "破除时山峰震动巨响并整体缩小",
         "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
         "seq": 706
+      }
+    ],
+    "出处": [
+      {
+        "value": "李家",
+        "docId": "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark",
+        "seq": 711
+      },
+      {
+        "value": "李家嫡传",
+        "docId": "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark",
+        "seq": 711
       }
     ]
   },
@@ -53,12 +79,19 @@
       "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
       "dated": false,
       "seq": 706
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark",
+      "dated": false,
+      "seq": 711
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren"
+    "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
+    "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark"
   ],
-  "updatedAt": "2026-08-23T05:17:07.551Z"
+  "updatedAt": "2026-08-23T05:24:24.004Z"
 }
