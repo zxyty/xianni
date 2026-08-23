@@ -3,12 +3,14 @@
   "type": "person",
   "name": "红袍向姓老者",
   "aliases": [
-    "向姓老者"
+    "向姓老者",
+    "向家老者",
+    "向兄"
   ],
   "summary": "雷仙殿密室三人之一，家族记录中载有月兽，断言其轻易不可招惹。",
   "attributes": {
     "外貌": "红袍老者",
-    "身份": "雷仙殿密谋者之一"
+    "身份": "向家长辈"
   },
   "observations": {
     "外貌": [
@@ -23,6 +25,11 @@
         "value": "雷仙殿密谋者之一",
         "docId": "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
         "seq": 775
+      },
+      {
+        "value": "向家长辈",
+        "docId": "plot.xianni-ch840-call-from-inside-wangyue",
+        "seq": 780
       }
     ]
   },
@@ -36,15 +43,16 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
+      "docId": "plot.xianni-ch840-call-from-inside-wangyue",
       "dated": false,
-      "seq": 775
+      "seq": 780
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi"
+    "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
+    "plot.xianni-ch840-call-from-inside-wangyue"
   ],
-  "updatedAt": "2026-08-23T12:51:25.307Z"
+  "updatedAt": "2026-08-23T13:03:01.725Z"
 }

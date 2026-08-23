@@ -8,7 +8,8 @@
     "姚家先祖血神子",
     "赤色弯眉老者",
     "姚家祠堂老者",
-    "血神子老家伙"
+    "血神子老家伙",
+    "血神子老怪"
   ],
   "summary": "姚家强者，被血祖引为倚仗，老者称即便其亲来也不惧。",
   "attributes": {
@@ -16,9 +17,10 @@
     "称号": "血神子",
     "阵营": "姚家",
     "道号": "血神子",
-    "外貌": "眉毛弯曲垂下、呈赤色",
-    "性格": "阴森、冷酷、果断狠辣、阴森、隐忍",
-    "存殁": "存活"
+    "外貌": "红发赤眉、一身血衣仿若刚刚染红",
+    "性格": "阴森、冷酷、果断狠辣、阴森、隐忍、阴沉",
+    "存殁": "存活",
+    "标志特征": "化作大片血光云涌而来再凝聚成人形"
   },
   "observations": {
     "身份": [
@@ -79,6 +81,11 @@
         "value": "眉毛弯曲垂下、呈赤色",
         "docId": "plot.xianni-ch823-yao-changkong-part3-karma-daoist-realm-duel",
         "seq": 770
+      },
+      {
+        "value": "红发赤眉、一身血衣仿若刚刚染红",
+        "docId": "plot.xianni-ch840-call-from-inside-wangyue",
+        "seq": 780
       }
     ],
     "性格": [
@@ -96,6 +103,11 @@
         "value": "阴森、隐忍",
         "docId": "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
         "seq": 775
+      },
+      {
+        "value": "阴沉",
+        "docId": "plot.xianni-ch840-call-from-inside-wangyue",
+        "seq": 780
       }
     ],
     "存殁": [
@@ -103,6 +115,13 @@
         "value": "存活",
         "docId": "plot.xianni-ch823-yao-changkong-part3-karma-daoist-realm-duel",
         "seq": 770
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "化作大片血光云涌而来再凝聚成人形",
+        "docId": "plot.xianni-ch840-call-from-inside-wangyue",
+        "seq": 780
       }
     ]
   },
@@ -134,9 +153,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch823-yao-changkong-part3-karma-daoist-realm-duel",
+      "docId": "plot.xianni-ch840-call-from-inside-wangyue",
       "dated": false,
-      "seq": 770
+      "seq": 780
     },
     "性格": {
       "asOf": null,
@@ -149,6 +168,12 @@
       "docId": "plot.xianni-ch823-yao-changkong-part3-karma-daoist-realm-duel",
       "dated": false,
       "seq": 770
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch840-call-from-inside-wangyue",
+      "dated": false,
+      "seq": 780
     }
   },
   "contested": false,
@@ -161,7 +186,8 @@
     "plot.xianni-ch823-yao-changkong-part3-karma-daoist-realm-duel",
     "plot.xianni-ch827-yao-bingyun-pursuit",
     "plot.xianni-ch834-yanleizi-reappears-wangyue-massacre",
-    "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi"
+    "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
+    "plot.xianni-ch840-call-from-inside-wangyue"
   ],
-  "updatedAt": "2026-08-23T12:51:25.309Z"
+  "updatedAt": "2026-08-23T13:03:01.720Z"
 }
