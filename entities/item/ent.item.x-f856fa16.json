@@ -3,12 +3,14 @@
   "type": "item",
   "name": "雷鼎",
   "aliases": [
-    "雷之仙界雷鼎"
+    "雷之仙界雷鼎",
+    "雷之鼎"
   ],
   "summary": "雷之仙界开启时出现之物，全部由雷仙殿控制，外人断然无法得到。",
   "attributes": {
-    "类型": "仙界之物",
-    "产地": "雷之仙界"
+    "类型": "入界凭证",
+    "产地": "雷之仙界",
+    "用途": "开启/进入雷之仙界"
   },
   "observations": {
     "类型": [
@@ -16,6 +18,11 @@
         "value": "仙界之物",
         "docId": "plot.xianni-ch668-four-years-ago-cause-baohe-auction",
         "seq": 626
+      },
+      {
+        "value": "入界凭证",
+        "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+        "seq": 684
       }
     ],
     "产地": [
@@ -24,27 +31,41 @@
         "docId": "plot.xianni-ch668-four-years-ago-cause-baohe-auction",
         "seq": 626
       }
+    ],
+    "用途": [
+      {
+        "value": "开启/进入雷之仙界",
+        "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+        "seq": 684
+      }
     ]
   },
   "firstSeq": 626,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch668-four-years-ago-cause-baohe-auction",
+      "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
       "dated": false,
-      "seq": 626
+      "seq": 684
     },
     "产地": {
       "asOf": null,
       "docId": "plot.xianni-ch668-four-years-ago-cause-baohe-auction",
       "dated": false,
       "seq": 626
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+      "dated": false,
+      "seq": 684
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch668-four-years-ago-cause-baohe-auction"
+    "plot.xianni-ch668-four-years-ago-cause-baohe-auction",
+    "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step"
   ],
-  "updatedAt": "2026-08-22T22:37:56.614Z"
+  "updatedAt": "2026-08-23T02:19:01.949Z"
 }

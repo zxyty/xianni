@@ -7,17 +7,21 @@
     "银角雷兽（射神车所化）",
     "Silver-horned Thunder Beast",
     "王林雷兽",
-    "thunder beast"
+    "thunder beast",
+    "头生银角的雷兽",
+    "王林的银角雷兽",
+    "银角雷兽坐骑",
+    "银角"
   ],
   "summary": "自射神车雷光中走出的雷兽，形似麒麟而非麒麟，头生一根闪烁电光的银角，吼声可引下天雷（非天劫），雷威压倒雷道子的雷兽；在雷仙殿内极少，只掌握在几个天极使者手中。",
   "attributes": {
     "主人": "王林",
     "血脉": "纯正雷兽血脉（区别于血统不纯者）",
-    "能力": "引落天雷（神通非天劫）、释放毁天灭地般的雷威、对雷极为敏感，可察觉太古之天雷气息、引动雷电轰落（非天劫，乃自身神通）、银角之威足以对抗问鼎中期",
-    "外形": "似麒麟而非麒麟，头生银角，呲呲电光",
+    "能力": "引落天雷（神通非天劫）、释放毁天灭地般的雷威、对雷极为敏感，可察觉太古之天雷气息、引动雷电轰落（非天劫，乃自身神通）、银角之威足以对抗问鼎中期、踏入雷池吸收雷电、吐纳雷电",
+    "外形": "似麒麟而非麒麟，头生银角，呲呲电光、身形自百丈缩至十丈，形似麒麟而非麒麟，双目红芒近七尺，头生银角、头生银角、生有银角、大脑袋、生有银角",
     "天敌": "其他雷兽（相遇无主人牵制即死斗）",
     "种族": "雷兽",
-    "栖息地": "射神车内"
+    "栖息地": "雷池"
   },
   "observations": {
     "主人": [
@@ -59,6 +63,16 @@
         "value": "银角之威足以对抗问鼎中期",
         "docId": "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
         "seq": 576
+      },
+      {
+        "value": "踏入雷池吸收雷电",
+        "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+        "seq": 684
+      },
+      {
+        "value": "吐纳雷电",
+        "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+        "seq": 684
       }
     ],
     "外形": [
@@ -72,6 +86,21 @@
         "docId": "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
         "seq": 576,
         "note": "第二道封印开启后的进化形态"
+      },
+      {
+        "value": "头生银角",
+        "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+        "seq": 684
+      },
+      {
+        "value": "生有银角、大脑袋",
+        "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+        "seq": 684
+      },
+      {
+        "value": "生有银角",
+        "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+        "seq": 684
       }
     ],
     "天敌": [
@@ -93,6 +122,11 @@
         "value": "射神车内",
         "docId": "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
         "seq": 576
+      },
+      {
+        "value": "雷池",
+        "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+        "seq": 684
       }
     ]
   },
@@ -118,9 +152,10 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+      "docId": "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
       "dated": false,
-      "seq": 661
+      "seq": 576,
+      "note": "第二道封印开启后的进化形态"
     },
     "天敌": {
       "asOf": null,
@@ -136,16 +171,17 @@
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
+      "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
       "dated": false,
-      "seq": 576
+      "seq": 684
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
-    "plot.xianni-ch618-new-change-silver-horn-thunder-beast"
+    "plot.xianni-ch618-new-change-silver-horn-thunder-beast",
+    "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step"
   ],
-  "updatedAt": "2026-08-22T16:36:28.840Z"
+  "updatedAt": "2026-08-23T02:19:01.977Z"
 }

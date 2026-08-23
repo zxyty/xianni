@@ -3,12 +3,14 @@
   "type": "realm",
   "name": "阴虚之境",
   "aliases": [
-    "阴虚境"
+    "阴虚境",
+    "阴虚期"
   ],
   "summary": "超过问鼎期的境界，贪狼所处；距阳实之境只差一步。",
   "attributes": {
     "上一境": "问鼎期",
-    "下一境": "阳实之境"
+    "下一境": "阳实之境",
+    "突破关键": "修道第一步圆满"
   },
   "observations": {
     "上一境": [
@@ -23,6 +25,13 @@
         "value": "阳实之境",
         "docId": "plot.xianni-ch615-tanlang-whereabouts",
         "seq": 576
+      }
+    ],
+    "突破关键": [
+      {
+        "value": "修道第一步圆满",
+        "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+        "seq": 684
       }
     ]
   },
@@ -39,12 +48,19 @@
       "docId": "plot.xianni-ch615-tanlang-whereabouts",
       "dated": false,
       "seq": 576
+    },
+    "突破关键": {
+      "asOf": null,
+      "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+      "dated": false,
+      "seq": 684
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch615-tanlang-whereabouts"
+    "plot.xianni-ch615-tanlang-whereabouts",
+    "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step"
   ],
-  "updatedAt": "2026-08-22T16:16:17.710Z"
+  "updatedAt": "2026-08-23T02:19:01.987Z"
 }

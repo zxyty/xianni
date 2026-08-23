@@ -4,11 +4,16 @@
   "name": "阳实之境",
   "aliases": [
     "阳实",
-    "阳实境"
+    "阳实境",
+    "阳实境界",
+    "阳实圆满"
   ],
   "summary": "司徒南所达境界，高于阴虚之境一步。",
   "attributes": {
-    "上一境": "阴虚之境"
+    "上一境": "阴虚之境",
+    "小阶段": "接近圆满",
+    "下一境": "窥捏",
+    "阶序": "罗天星域修士境界之一"
   },
   "observations": {
     "上一境": [
@@ -16,6 +21,27 @@
         "value": "阴虚之境",
         "docId": "plot.xianni-ch615-tanlang-whereabouts",
         "seq": 576
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "接近圆满",
+        "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+        "seq": 684
+      }
+    ],
+    "下一境": [
+      {
+        "value": "窥捏",
+        "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+        "seq": 684
+      }
+    ],
+    "阶序": [
+      {
+        "value": "罗天星域修士境界之一",
+        "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+        "seq": 684
       }
     ]
   },
@@ -26,12 +52,31 @@
       "docId": "plot.xianni-ch615-tanlang-whereabouts",
       "dated": false,
       "seq": 576
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+      "dated": false,
+      "seq": 684
+    },
+    "下一境": {
+      "asOf": null,
+      "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+      "dated": false,
+      "seq": 684
+    },
+    "阶序": {
+      "asOf": null,
+      "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+      "dated": false,
+      "seq": 684
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch615-tanlang-whereabouts"
+    "plot.xianni-ch615-tanlang-whereabouts",
+    "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step"
   ],
-  "updatedAt": "2026-08-22T16:16:17.711Z"
+  "updatedAt": "2026-08-23T02:19:01.963Z"
 }

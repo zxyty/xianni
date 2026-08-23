@@ -6,14 +6,16 @@
     "窥涅期",
     "窥涅初期",
     "一境窥涅",
-    "Kui Nie Qi"
+    "Kui Nie Qi",
+    "窥涅境"
   ],
   "summary": "碎涅三境的第一境，须意境经阴阳二意洗涤方有资格达到窥涅初期。",
   "attributes": {
-    "阶序": "高于问鼎期（罗大星域体系）",
+    "阶序": "修道第二步",
     "上一境": "问鼎",
     "下一境": "净涅",
-    "突破关键": "踏入第二步"
+    "突破关键": "为申公虎当前所求的下一境",
+    "小阶段": "初期"
   },
   "observations": {
     "阶序": [
@@ -26,6 +28,11 @@
         "value": "高于问鼎期（罗大星域体系）",
         "docId": "plot.xianni-ch667-special-artifact-targeting-wang-lin",
         "seq": 626
+      },
+      {
+        "value": "修道第二步",
+        "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+        "seq": 684
       }
     ],
     "上一境": [
@@ -52,6 +59,19 @@
         "value": "踏入第二步",
         "docId": "plot.xianni-ch667-special-artifact-targeting-wang-lin",
         "seq": 626
+      },
+      {
+        "value": "为申公虎当前所求的下一境",
+        "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+        "seq": 684,
+        "note": "第727章"
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "初期",
+        "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+        "seq": 684
       }
     ]
   },
@@ -59,9 +79,9 @@
   "attrProvenance": {
     "阶序": {
       "asOf": null,
-      "docId": "plot.xianni-ch667-special-artifact-targeting-wang-lin",
+      "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
       "dated": false,
-      "seq": 626
+      "seq": 684
     },
     "上一境": {
       "asOf": null,
@@ -77,16 +97,24 @@
     },
     "突破关键": {
       "asOf": null,
-      "docId": "plot.xianni-ch667-special-artifact-targeting-wang-lin",
+      "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
       "dated": false,
-      "seq": 626
+      "seq": 684,
+      "note": "第727章"
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+      "dated": false,
+      "seq": 684
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
-    "plot.xianni-ch667-special-artifact-targeting-wang-lin"
+    "plot.xianni-ch667-special-artifact-targeting-wang-lin",
+    "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step"
   ],
-  "updatedAt": "2026-08-22T22:35:11.786Z"
+  "updatedAt": "2026-08-23T02:19:01.986Z"
 }

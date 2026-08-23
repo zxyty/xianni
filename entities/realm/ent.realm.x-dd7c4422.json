@@ -2,11 +2,15 @@
   "id": "ent.realm.x-dd7c4422",
   "type": "realm",
   "name": "修道第三步",
-  "aliases": [],
+  "aliases": [
+    "第三步的道"
+  ],
   "summary": "连天运子等人也未达到、仍在苦苦追寻的层次；王林猜测其内或又分数个境界，并追问是否存在第四步。",
   "attributes": {
     "阶序": "修道第三步",
-    "上一境": "阴阳虚实境界"
+    "上一境": "修道第二步",
+    "突破关键": "无迹可寻，需机缘窥道",
+    "突破征兆": "目蕴天地规则、如天道般的气息"
   },
   "observations": {
     "阶序": [
@@ -21,6 +25,25 @@
         "value": "阴阳虚实境界",
         "docId": "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
         "seq": 669
+      },
+      {
+        "value": "修道第二步",
+        "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+        "seq": 684
+      }
+    ],
+    "突破关键": [
+      {
+        "value": "无迹可寻，需机缘窥道",
+        "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+        "seq": 684
+      }
+    ],
+    "突破征兆": [
+      {
+        "value": "目蕴天地规则、如天道般的气息",
+        "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+        "seq": 684
       }
     ]
   },
@@ -34,15 +57,28 @@
     },
     "上一境": {
       "asOf": null,
-      "docId": "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
+      "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
       "dated": false,
-      "seq": 669
+      "seq": 684
+    },
+    "突破关键": {
+      "asOf": null,
+      "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+      "dated": false,
+      "seq": 684
+    },
+    "突破征兆": {
+      "asOf": null,
+      "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+      "dated": false,
+      "seq": 684
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit"
+    "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
+    "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step"
   ],
-  "updatedAt": "2026-08-23T01:18:09.403Z"
+  "updatedAt": "2026-08-23T02:19:01.921Z"
 }

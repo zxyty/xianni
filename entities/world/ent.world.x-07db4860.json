@@ -10,14 +10,16 @@
     "雷之仙界争夺",
     "雷之仙界界面",
     "Lei Zhi Xian Jie",
-    "雷之仙界秘境"
+    "雷之仙界秘境",
+    "雷之仙界(罗天星域)"
   ],
   "summary": "四大仙界之一，由通往仙域的通道演化而成，对应下方的罗天星域。",
   "attributes": {
-    "层次": "仙界",
-    "特点": "四大仙界之一（风、雨、雷、电）、四大仙界之一，各仙界下各有一方星域、已毁灭、曾崩溃、会开启（开启中有致命凶险）、雷兽只在此界、雷兽的来源之地、与雷仙殿、升仙果紧密关联、内藏法宝与仙术、周期性开启",
-    "主宰势力": "雷仙殿、雷之仙君",
-    "通道": "即将开启"
+    "层次": "仙界（破损）",
+    "特点": "四大仙界之一（风、雨、雷、电）、四大仙界之一，各仙界下各有一方星域、已毁灭、曾崩溃、会开启（开启中有致命凶险）、雷兽只在此界、雷兽的来源之地、与雷仙殿、升仙果紧密关联、内藏法宝与仙术、周期性开启、再有十年开启、修为限制：问鼎后期大圆满、秘法下第二步修士可入，不得超出窥涅初期实力",
+    "主宰势力": "雷仙殿、雷之仙君、雷仙殿（掌入界秘法）",
+    "通道": "凭雷鼎开启入内",
+    "所属星域": "罗天星域"
   },
   "observations": {
     "层次": [
@@ -25,6 +27,11 @@
         "value": "仙界",
         "docId": "plot.xianni-ch618-620-scroll-woman-luotian-star-region-seal",
         "seq": 618
+      },
+      {
+        "value": "仙界（破损）",
+        "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+        "seq": 684
       }
     ],
     "特点": [
@@ -78,6 +85,21 @@
         "value": "周期性开启",
         "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
         "seq": 679
+      },
+      {
+        "value": "再有十年开启",
+        "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+        "seq": 684
+      },
+      {
+        "value": "修为限制：问鼎后期大圆满",
+        "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+        "seq": 684
+      },
+      {
+        "value": "秘法下第二步修士可入，不得超出窥涅初期实力",
+        "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+        "seq": 684
       }
     ],
     "主宰势力": [
@@ -90,6 +112,11 @@
         "value": "雷之仙君",
         "docId": "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation",
         "seq": 641
+      },
+      {
+        "value": "雷仙殿（掌入界秘法）",
+        "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+        "seq": 684
       }
     ],
     "通道": [
@@ -104,6 +131,18 @@
         "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
         "seq": 679,
         "note": "第722章时点"
+      },
+      {
+        "value": "凭雷鼎开启入内",
+        "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+        "seq": 684
+      }
+    ],
+    "所属星域": [
+      {
+        "value": "罗天星域",
+        "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+        "seq": 684
       }
     ]
   },
@@ -111,9 +150,9 @@
   "attrProvenance": {
     "层次": {
       "asOf": null,
-      "docId": "plot.xianni-ch618-620-scroll-woman-luotian-star-region-seal",
+      "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
       "dated": false,
-      "seq": 618
+      "seq": 684
     },
     "特点": {
       "asOf": null,
@@ -129,10 +168,15 @@
     },
     "通道": {
       "asOf": null,
-      "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
+      "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
       "dated": false,
-      "seq": 679,
-      "note": "第722章时点"
+      "seq": 684
+    },
+    "所属星域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+      "dated": false,
+      "seq": 684
     }
   },
   "contested": false,
@@ -147,7 +191,8 @@
     "plot.xianni-ch683-jing-tui-qian-kui-zi",
     "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation",
     "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
-    "plot.xianni-ch679-683-thunder-star-body-reforge"
+    "plot.xianni-ch679-683-thunder-star-body-reforge",
+    "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step"
   ],
-  "updatedAt": "2026-08-23T02:00:23.455Z"
+  "updatedAt": "2026-08-23T02:19:01.947Z"
 }

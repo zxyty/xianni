@@ -8,15 +8,18 @@
     "黑发男子",
     "洪牢深处黑发男子",
     "血潭黑发男子",
-    "血潭内的黑发男子"
+    "血潭内的黑发男子",
+    "雷兽背上的黑发男子"
   ],
   "summary": "血色世界中血杀之雾最浓的强者，宛如王者，两度冲击银龙皆被击杀，又两度在血潭复活、杀气尽失重新攀升。",
   "attributes": {
-    "外貌": "黑发，身外血杀之雾厚约上百丈、黑发，眼中一片血色，身外淡淡血杀之雾、与墨非一模一样",
-    "存殁": "死后于血潭复活、存活、死亡",
+    "外貌": "黑发，身外血杀之雾厚约上百丈、黑发，眼中一片血色，身外淡淡血杀之雾、与墨非一模一样、黑发",
+    "存殁": "死后于血潭复活、存活、死亡、存",
     "死因": "冲击银龙被银芒击溃 / 被银龙巨爪压成血肉",
     "标志特征": "死后可反复复活",
-    "结局": "被银龙反复杀死"
+    "结局": "被银龙反复杀死",
+    "性别": "男",
+    "性格": "谨慎警惕"
   },
   "observations": {
     "外貌": [
@@ -34,6 +37,11 @@
         "value": "与墨非一模一样",
         "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
         "seq": 550
+      },
+      {
+        "value": "黑发",
+        "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+        "seq": 684
       }
     ],
     "存殁": [
@@ -53,6 +61,11 @@
         "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
         "seq": 550,
         "note": "据世界状态须知于第544章死亡；本片段仅作相貌参照回忆"
+      },
+      {
+        "value": "存",
+        "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+        "seq": 684
       }
     ],
     "死因": [
@@ -76,6 +89,20 @@
         "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
         "seq": 546,
         "note": "每次复活即被再杀"
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+        "seq": 684
+      }
+    ],
+    "性格": [
+      {
+        "value": "谨慎警惕",
+        "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+        "seq": 684
       }
     ]
   },
@@ -113,6 +140,18 @@
       "dated": false,
       "seq": 546,
       "note": "每次复活即被再杀"
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+      "dated": false,
+      "seq": 684
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+      "dated": false,
+      "seq": 684
     }
   },
   "contested": false,
@@ -120,7 +159,8 @@
   "docs": [
     "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
     "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
-    "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum"
+    "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
+    "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step"
   ],
-  "updatedAt": "2026-08-22T11:46:59.326Z"
+  "updatedAt": "2026-08-23T02:19:01.848Z"
 }
