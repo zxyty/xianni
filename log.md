@@ -319,3 +319,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T14:12:39.101Z** `ingest` plot.xianni-ch853-xue-yan-blood-swallow — 第853章 血燕：血神子言出法随强索望月之物，王林祭仙界山石与射神车力抗 · kind=plot asOf=2026-08-23 entities=22 relations=29 src=00795-00799.p3.md
 - **2026-08-23T14:14:37.402Z** `ingest` plot.xianni-ch854-you-have-no-right-qingshui-arrives — 仙逆 第854章 你，没有资格——清水仙君现身护王林 · kind=plot asOf=2026-08-23 entities=21 relations=28 src=00795-00799.p4.md
 - **2026-08-23T14:17:01.648Z** `ingest` plot.xianni-ch855-fengsheng-heli-caomu-jiebing — 第855章 风声鹤唳草木皆兵——清水抗血神子，七彩天雷落下 · kind=plot asOf=2026-08-23 entities=27 relations=36 src=00795-00799.p5.md
+- **2026-08-23T14:19:41.494Z** `ingest` plot.xianni-ch856-sa-dou-cheng-bing — 仙逆 第856章 撒豆成兵——清水吞七彩天雷、祭炼仙魂大军，血神子吞姚云召古妖 · kind=plot asOf=2026-08-23 entities=33 relations=41 src=00800-00804.p1.md

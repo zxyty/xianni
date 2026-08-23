@@ -8,18 +8,21 @@
     "Yao Yun",
     "踏红云的中年男子",
     "持铜镜的中年男子",
-    "姚家姚云"
+    "姚家姚云",
+    "姚云师兄"
   ],
   "summary": "姚家二代族人，受血神子之命前往罗天北域取许木（王林）性命。",
   "attributes": {
     "身份": "姚家二代族人、姚家族人、姚家之人、追踪王林者、姚家修士、奉老祖命出关的杀手、姚家修士",
     "阵营": "姚家",
     "性别": "男",
-    "外貌": "中年，相貌极为英俊，颇有仙风道骨、相貌颇为英俊、神色沧桑、中年男子；发狂时青筋鼓冒、脸浮青光并现双角妖异面孔、面部青筋鼓起、眼露红光、神情狰狞",
+    "外貌": "中年，相貌极为英俊，颇有仙风道骨、相貌颇为英俊、神色沧桑、中年男子；发狂时青筋鼓冒、脸浮青光并现双角妖异面孔、面部青筋鼓起、眼露红光、神情狰狞、皮包骨",
     "性格": "冷漠冰冷；头痛发作时杀机弥漫几欲发狂",
-    "存殁": "存活",
+    "存殁": "死亡",
     "标志特征": "双目内藏一丝极深的妖异，如火苗忽明忽暗、脸上青光中的双角妖异面孔、记忆缺失、修为倒退、体内寄居十余丈古妖之影、眉心妖文闪烁",
-    "小阶段": "窥涅中期"
+    "小阶段": "窥涅中期",
+    "死因": "被血神子催动体内古妖吞噬血肉、元力与元神，衰竭成皮包骨坠落星空",
+    "结局": "临死记忆恢复，言「姚家，已经不在」"
   },
   "observations": {
     "身份": [
@@ -89,6 +92,12 @@
         "docId": "plot.xianni-ch852-blood-god-child-appears",
         "seq": 795,
         "note": "抗拒古妖时"
+      },
+      {
+        "value": "皮包骨",
+        "docId": "plot.xianni-ch856-sa-dou-cheng-bing",
+        "seq": 800,
+        "note": "被吞噬后"
       }
     ],
     "性格": [
@@ -114,6 +123,11 @@
         "value": "存活",
         "docId": "plot.xianni-ch854-you-have-no-right-qingshui-arrives",
         "seq": 795
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch856-sa-dou-cheng-bing",
+        "seq": 800
       }
     ],
     "标志特征": [
@@ -155,6 +169,20 @@
         "seq": 795,
         "note": "数千年前曾为净涅初期，后不知何因倒退"
       }
+    ],
+    "死因": [
+      {
+        "value": "被血神子催动体内古妖吞噬血肉、元力与元神，衰竭成皮包骨坠落星空",
+        "docId": "plot.xianni-ch856-sa-dou-cheng-bing",
+        "seq": 800
+      }
+    ],
+    "结局": [
+      {
+        "value": "临死记忆恢复，言「姚家，已经不在」",
+        "docId": "plot.xianni-ch856-sa-dou-cheng-bing",
+        "seq": 800
+      }
     ]
   },
   "firstSeq": 775,
@@ -191,9 +219,9 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch854-you-have-no-right-qingshui-arrives",
+      "docId": "plot.xianni-ch856-sa-dou-cheng-bing",
       "dated": false,
-      "seq": 795
+      "seq": 800
     },
     "标志特征": {
       "asOf": null,
@@ -207,6 +235,18 @@
       "dated": false,
       "seq": 795,
       "note": "数千年前曾为净涅初期，后不知何因倒退"
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch856-sa-dou-cheng-bing",
+      "dated": false,
+      "seq": 800
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch856-sa-dou-cheng-bing",
+      "dated": false,
+      "seq": 800
     }
   },
   "contested": false,
@@ -219,7 +259,8 @@
     "plot.xianni-ch851-kui-nie-breakthrough-vs-yao-yun",
     "plot.xianni-ch852-blood-god-child-appears",
     "plot.xianni-ch853-xue-yan-blood-swallow",
-    "plot.xianni-ch854-you-have-no-right-qingshui-arrives"
+    "plot.xianni-ch854-you-have-no-right-qingshui-arrives",
+    "plot.xianni-ch856-sa-dou-cheng-bing"
   ],
-  "updatedAt": "2026-08-23T14:14:37.202Z"
+  "updatedAt": "2026-08-23T14:19:41.270Z"
 }
