@@ -5,12 +5,14 @@
   "aliases": [
     "第三只眼红芒",
     "扇形红芒",
-    "第三只眼红光"
+    "第三只眼红光",
+    "王林第三目神通"
   ],
   "summary": "王林眉心第三目怒睁爆出的扇形红芒，可笼罩并崩碎虚幻之剑一类法宝。",
   "attributes": {
-    "类型": "神通·范围压制",
-    "威力": "令阳实级修士神通崩解、重创倒卷"
+    "类型": "神通/目光类攻击",
+    "威力": "威力不足但蕴含大道（炎雷子评）",
+    "出处": "王林眉心第三目"
   },
   "observations": {
     "类型": [
@@ -23,6 +25,11 @@
         "value": "神通·范围压制",
         "docId": "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou",
         "seq": 800
+      },
+      {
+        "value": "神通/目光类攻击",
+        "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+        "seq": 810
       }
     ],
     "威力": [
@@ -35,6 +42,18 @@
         "value": "令阳实级修士神通崩解、重创倒卷",
         "docId": "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou",
         "seq": 800
+      },
+      {
+        "value": "威力不足但蕴含大道（炎雷子评）",
+        "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+        "seq": 810
+      }
+    ],
+    "出处": [
+      {
+        "value": "王林眉心第三目",
+        "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+        "seq": 810
       }
     ]
   },
@@ -42,22 +61,29 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou",
+      "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
       "dated": false,
-      "seq": 800
+      "seq": 810
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou",
+      "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
       "dated": false,
-      "seq": 800
+      "seq": 810
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+      "dated": false,
+      "seq": 810
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
-    "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou"
+    "plot.xianni-ch860-wo-yao-diyi-luotian-nanyu-zhandou",
+    "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins"
   ],
-  "updatedAt": "2026-08-23T14:30:10.203Z"
+  "updatedAt": "2026-08-23T15:05:12.851Z"
 }

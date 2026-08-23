@@ -3,12 +3,13 @@
   "type": "place",
   "name": "雷仙殿外殿",
   "aliases": [
-    "外殿"
+    "外殿",
+    "四大传送阵之地"
   ],
   "summary": "雷仙殿外围区域，各域修士集结、接引使宣布封号之战安排之处。",
   "attributes": {
     "所属势力": "雷仙殿",
-    "类型": "宗门外围殿区"
+    "类型": "传送枢纽"
   },
   "observations": {
     "所属势力": [
@@ -23,6 +24,11 @@
         "value": "宗门外围殿区",
         "docId": "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
         "seq": 805
+      },
+      {
+        "value": "传送枢纽",
+        "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+        "seq": 810
       }
     ]
   },
@@ -36,15 +42,16 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
+      "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
       "dated": false,
-      "seq": 805
+      "seq": 810
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch865-donglin-xu-family-xu-ting-appears"
+    "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
+    "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins"
   ],
-  "updatedAt": "2026-08-23T14:47:09.448Z"
+  "updatedAt": "2026-08-23T15:05:12.786Z"
 }

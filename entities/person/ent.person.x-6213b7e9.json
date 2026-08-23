@@ -4,7 +4,8 @@
   "name": "南宫寒",
   "aliases": [
     "Nangong Han",
-    "刀道大成的黑衣男子"
+    "刀道大成的黑衣男子",
+    "南宫寒修士"
   ],
   "summary": "刀道大成的窥涅期黑衣刀修，自称问鼎时为阴虚下第一人、阳实时为窥涅下第一人；四刀斩灭王林一条黑龙，终因无法应对缩地成寸而当众认输。",
   "attributes": {
@@ -13,7 +14,8 @@
     "称号": "阴虚下第一人、窥涅下第一人",
     "性格": "战意极浓、狂放而务实，认输干脆、纠缠不休、健谈，见宝起意",
     "存殁": "存活、在世",
-    "阵营": "与王林同行"
+    "阵营": "与王林同行",
+    "身份": "封仙之战参试修士"
   },
   "observations": {
     "性别": [
@@ -72,6 +74,13 @@
         "docId": "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
         "seq": 805
       }
+    ],
+    "身份": [
+      {
+        "value": "封仙之战参试修士",
+        "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+        "seq": 810
+      }
     ]
   },
   "firstSeq": 805,
@@ -111,6 +120,12 @@
       "docId": "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
       "dated": false,
       "seq": 805
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+      "dated": false,
+      "seq": 810
     }
   },
   "contested": false,
@@ -118,7 +133,8 @@
   "docs": [
     "plot.xianni-ch863-nangong-han-surrender",
     "plot.xianni-ch864-last-one-fengxian-teleport-to-lei-xian-dian",
-    "plot.xianni-ch865-donglin-xu-family-xu-ting-appears"
+    "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
+    "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins"
   ],
-  "updatedAt": "2026-08-23T14:47:09.406Z"
+  "updatedAt": "2026-08-23T15:05:12.842Z"
 }

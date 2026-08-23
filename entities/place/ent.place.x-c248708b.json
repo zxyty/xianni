@@ -8,7 +8,7 @@
   "summary": "雷仙殿核心区域，宫殿群庄严散布、仙气弥漫，中心为封印雷灵分身的巨大青石广场。",
   "attributes": {
     "所属势力": "雷仙殿",
-    "类型": "宗门核心殿区",
+    "类型": "核心区域",
     "规模": "宫殿零散分布、一眼望不到尽头",
     "守护": "雷灵分身",
     "危险度": "全境禁制，无引路者难以通行"
@@ -26,6 +26,11 @@
         "value": "宗门核心殿区",
         "docId": "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
         "seq": 805
+      },
+      {
+        "value": "核心区域",
+        "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+        "seq": 810
       }
     ],
     "规模": [
@@ -60,9 +65,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
+      "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
       "dated": false,
-      "seq": 805
+      "seq": 810
     },
     "规模": {
       "asOf": null,
@@ -86,7 +91,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch865-donglin-xu-family-xu-ting-appears"
+    "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
+    "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins"
   ],
-  "updatedAt": "2026-08-23T14:47:09.447Z"
+  "updatedAt": "2026-08-23T15:05:12.787Z"
 }

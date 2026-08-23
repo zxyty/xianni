@@ -3,12 +3,14 @@
   "type": "person",
   "name": "六指修士",
   "aliases": [
-    "六指之人"
+    "六指之人",
+    "六指",
+    "六指老怪"
   ],
   "summary": "参与封号之战的修士，听闻许木之名后眼中露出寒芒，仔细打量王林。",
   "attributes": {
     "标志特征": "六指",
-    "身份": "封号之战参与者"
+    "身份": "封仙之战参试修士"
   },
   "observations": {
     "标志特征": [
@@ -23,6 +25,11 @@
         "value": "封号之战参与者",
         "docId": "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
         "seq": 805
+      },
+      {
+        "value": "封仙之战参试修士",
+        "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+        "seq": 810
       }
     ]
   },
@@ -36,15 +43,16 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
+      "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
       "dated": false,
-      "seq": 805
+      "seq": 810
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch865-donglin-xu-family-xu-ting-appears"
+    "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
+    "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins"
   ],
-  "updatedAt": "2026-08-23T14:47:09.440Z"
+  "updatedAt": "2026-08-23T15:05:12.883Z"
 }

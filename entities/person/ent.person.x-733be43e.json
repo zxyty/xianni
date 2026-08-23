@@ -3,14 +3,18 @@
   "type": "person",
   "name": "西子凤",
   "aliases": [
-    "西子凤仙子"
+    "西子凤仙子",
+    "西家女修西子凤",
+    "Xi Zifeng"
   ],
   "summary": "战芸好友，容貌胜战芸三分；曾在仙界大门外把被炎雷子操控肉身的王林一脚踢入虚无，本章称王林有两次救命之恩。",
   "attributes": {
     "性别": "女",
-    "外貌": "相貌比战芸秀美三分、一双美目、俏脸",
+    "外貌": "相貌比战芸秀美三分、一双美目、俏脸、很美",
     "存殁": "在世",
-    "阵营": "被困传送阵碎片的众修士一方"
+    "阵营": "被困传送阵碎片的众修士一方",
+    "出身地": "西家",
+    "性格": "原本对情爱冷漠、心志坚定，此时情丝难断、对王林心生倾慕"
   },
   "observations": {
     "性别": [
@@ -30,6 +34,11 @@
         "value": "一双美目、俏脸",
         "docId": "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
         "seq": 751
+      },
+      {
+        "value": "很美",
+        "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+        "seq": 810
       }
     ],
     "存殁": [
@@ -44,6 +53,25 @@
         "value": "被困传送阵碎片的众修士一方",
         "docId": "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
         "seq": 751
+      }
+    ],
+    "出身地": [
+      {
+        "value": "西家",
+        "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+        "seq": 810
+      }
+    ],
+    "性格": [
+      {
+        "value": "原本对情爱冷漠、心志坚定，此时情丝难断",
+        "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+        "seq": 810
+      },
+      {
+        "value": "对王林心生倾慕",
+        "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+        "seq": 810
       }
     ]
   },
@@ -72,13 +100,26 @@
       "docId": "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
       "dated": false,
       "seq": 751
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+      "dated": false,
+      "seq": 810
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+      "dated": false,
+      "seq": 810
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
-    "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name"
+    "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
+    "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins"
   ],
-  "updatedAt": "2026-08-23T10:07:25.109Z"
+  "updatedAt": "2026-08-23T15:05:12.877Z"
 }

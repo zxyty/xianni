@@ -6,7 +6,9 @@
     "雷之仙界内唯一传送阵",
     "雷仙殿的传送阵",
     "传送阵之地",
-    "雷之仙界传送阵"
+    "雷之仙界传送阵",
+    "雷之仙界的传送阵",
+    "雷仙界传送阵"
   ],
   "summary": "雷仙殿在雷之仙界内布置的唯一传送阵，可不经仙界大门出入此界；每次可传送之人不多，非雷仙殿使者入者杀无赦。",
   "attributes": {
@@ -15,7 +17,8 @@
     "守护": "雷仙殿、雷仙殿（擅入者立杀）、千丈光幕、七八名雷仙殿使者、环形千丈裂缝封锁、雷仙殿使者六人",
     "稳定性": "崩溃中",
     "来历": "雷仙殿于雷之仙界布置",
-    "两端": "雷之仙界 → 未明传出之地（王林刻意破坏以避开雷仙殿）"
+    "两端": "雷之仙界 → 未明传出之地（王林刻意破坏以避开雷仙殿）",
+    "坐标": "雷之仙界"
   },
   "observations": {
     "类型": [
@@ -91,6 +94,13 @@
         "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
         "seq": 753
       }
+    ],
+    "坐标": [
+      {
+        "value": "雷之仙界",
+        "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+        "seq": 810
+      }
     ]
   },
   "firstSeq": 751,
@@ -132,13 +142,20 @@
       "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
       "dated": false,
       "seq": 753
+    },
+    "坐标": {
+      "asOf": null,
+      "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+      "dated": false,
+      "seq": 810
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
-    "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name"
+    "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
+    "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins"
   ],
-  "updatedAt": "2026-08-23T10:07:25.130Z"
+  "updatedAt": "2026-08-23T15:05:12.903Z"
 }
