@@ -12,7 +12,8 @@
     "外貌": "黑衣，战中面色苍白无血色",
     "称号": "阴虚下第一人、窥涅下第一人",
     "性格": "战意极浓、狂放而务实，认输干脆、纠缠不休、健谈，见宝起意",
-    "存殁": "存活、在世"
+    "存殁": "存活、在世",
+    "阵营": "与王林同行"
   },
   "observations": {
     "性别": [
@@ -64,6 +65,13 @@
         "docId": "plot.xianni-ch864-last-one-fengxian-teleport-to-lei-xian-dian",
         "seq": 805
       }
+    ],
+    "阵营": [
+      {
+        "value": "与王林同行",
+        "docId": "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
+        "seq": 805
+      }
     ]
   },
   "firstSeq": 805,
@@ -97,13 +105,20 @@
       "docId": "plot.xianni-ch863-nangong-han-surrender",
       "dated": false,
       "seq": 805
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
+      "dated": false,
+      "seq": 805
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch863-nangong-han-surrender",
-    "plot.xianni-ch864-last-one-fengxian-teleport-to-lei-xian-dian"
+    "plot.xianni-ch864-last-one-fengxian-teleport-to-lei-xian-dian",
+    "plot.xianni-ch865-donglin-xu-family-xu-ting-appears"
   ],
-  "updatedAt": "2026-08-23T14:40:21.167Z"
+  "updatedAt": "2026-08-23T14:47:09.406Z"
 }

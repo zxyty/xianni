@@ -328,3 +328,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T14:35:53.601Z** `ingest` plot.xianni-ch862-jiuqu-tiandao — 第862章 九曲天刀：王林点化战空烈，迎战南宫家黑衣男子 · kind=plot asOf=2026-08-23 entities=32 relations=41 src=00805-00809.p2.md
 - **2026-08-23T14:38:00.145Z** `ingest` plot.xianni-ch863-nangong-han-surrender — 第863章 老子怂了：王林四刀之战胜南宫寒，登南域一百零八仙第一 · kind=plot asOf=2026-08-23 entities=21 relations=27 src=00805-00809.p3.md
 - **2026-08-23T14:40:21.390Z** `ingest` plot.xianni-ch864-last-one-fengxian-teleport-to-lei-xian-dian — 第864章 最后一人：一百零八仙齐聚雷仙殿，东域仅一人走出传送阵 · kind=plot asOf=2026-08-23 entities=22 relations=35 src=00805-00809.p4.md
+- **2026-08-23T14:47:09.677Z** `ingest` plot.xianni-ch865-donglin-xu-family-xu-ting-appears — 第865章 东临许家——许霆现身雷仙殿外 · kind=plot asOf=2026-08-23 entities=39 relations=62 src=00805-00809.p5.md

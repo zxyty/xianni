@@ -4,13 +4,14 @@
   "name": "雷仙殿东部传送阵",
   "aliases": [
     "东部之阵",
-    "东处传送阵"
+    "东处传送阵",
+    "东部传送阵"
   ],
   "summary": "连通罗天东域与雷仙殿驻地的传送阵，本章其内透出浓郁血腥味，仅走出三名使者与一名修士。",
   "attributes": {
     "类型": "传送阵",
     "两端": "罗天东域—雷仙殿驻地",
-    "守护": "雷仙殿使者"
+    "守护": "雷仙殿使者、雷仙殿"
   },
   "observations": {
     "类型": [
@@ -31,6 +32,11 @@
       {
         "value": "雷仙殿使者",
         "docId": "plot.xianni-ch864-last-one-fengxian-teleport-to-lei-xian-dian",
+        "seq": 805
+      },
+      {
+        "value": "雷仙殿",
+        "docId": "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
         "seq": 805
       }
     ]
@@ -59,7 +65,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch864-last-one-fengxian-teleport-to-lei-xian-dian"
+    "plot.xianni-ch864-last-one-fengxian-teleport-to-lei-xian-dian",
+    "plot.xianni-ch865-donglin-xu-family-xu-ting-appears"
   ],
-  "updatedAt": "2026-08-23T14:40:21.182Z"
+  "updatedAt": "2026-08-23T14:47:09.422Z"
 }
