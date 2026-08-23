@@ -21,10 +21,10 @@
   "summary": "雷之仙界中一块崩溃的碎片大陆，王林的雷霆流星坠落于其东侧地面，砸出极深天坑；大陆本已不稳，受冲击后更加动荡。",
   "attributes": {
     "所属界面": "雷之仙界",
-    "类型": "崩溃碎片大陆、碎片大陆、界域碎片大陆、破碎的陆地/遗迹之地、漂浮碎片大陆、碎片大陆/虚无区域、大陆／战场",
-    "危险度": "高（濒临崩溃）、中（多为问鼎期修士出没，偶有阴虚修士）、高（有诱饵禁制与噬人天鬼）、极高（古禁杀人夺宝，且有强敌神识锁定）",
-    "特产": "雷光铁链",
-    "规模": "极为辽阔",
+    "类型": "崩溃碎片大陆、碎片大陆、界域碎片大陆、破碎的陆地/遗迹之地、漂浮碎片大陆、碎片大陆/虚无区域、大陆／战场、仙界遗留碎片所化陆地",
+    "危险度": "高（濒临崩溃）、中（多为问鼎期修士出没，偶有阴虚修士）、高（有诱饵禁制与噬人天鬼）、极高（古禁杀人夺宝，且有强敌神识锁定）、极高（天劫笼罩）",
+    "特产": "仙界山石",
+    "规模": "不足千丈",
     "守护": "蜃幻杀人禁制"
   },
   "observations": {
@@ -70,6 +70,11 @@
         "value": "大陆／战场",
         "docId": "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
         "seq": 721
+      },
+      {
+        "value": "仙界遗留碎片所化陆地",
+        "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+        "seq": 725
       }
     ],
     "危险度": [
@@ -92,6 +97,11 @@
         "value": "极高（古禁杀人夺宝，且有强敌神识锁定）",
         "docId": "plot.xianni-ch755-jinbian-transport-array-ambush",
         "seq": 716
+      },
+      {
+        "value": "极高（天劫笼罩）",
+        "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+        "seq": 725
       }
     ],
     "特产": [
@@ -104,6 +114,11 @@
         "value": "雷光铁链",
         "docId": "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
         "seq": 721
+      },
+      {
+        "value": "仙界山石",
+        "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+        "seq": 725
       }
     ],
     "规模": [
@@ -111,6 +126,12 @@
         "value": "极为辽阔",
         "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
         "seq": 701
+      },
+      {
+        "value": "不足千丈",
+        "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+        "seq": 725,
+        "note": "被七彩雷劫轰击崩解后"
       }
     ],
     "守护": [
@@ -143,15 +164,16 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
+      "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
       "dated": false,
-      "seq": 721
+      "seq": 725
     },
     "规模": {
       "asOf": null,
-      "docId": "plot.xianni-ch741-jiuzhanquechao-wanglin-kills-xu-fenghan",
+      "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
       "dated": false,
-      "seq": 701
+      "seq": 725,
+      "note": "被七彩雷劫轰击崩解后"
     },
     "守护": {
       "asOf": null,
@@ -169,7 +191,8 @@
     "plot.xianni-ch743-li-yuan-tian-gui-trap",
     "plot.xianni-ch755-jinbian-transport-array-ambush",
     "plot.xianni-ch760-blood-ancestor-arrives-immortal-guard-body-bait",
-    "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse"
+    "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
+    "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes"
   ],
-  "updatedAt": "2026-08-23T06:08:09.918Z"
+  "updatedAt": "2026-08-23T06:27:17.926Z"
 }

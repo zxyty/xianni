@@ -17,20 +17,25 @@
     "Zixin",
     "血祖侍妾紫芯",
     "天水宫叛徒紫芯",
-    "紫芯仙子"
+    "紫芯仙子",
+    "主母",
+    "血祖的玩物",
+    "紫芯女子"
   ],
   "summary": "白纱女子，持有通往仙遗之地的地图玉简，以「轮回树可增轮回感悟」为由邀王林同行，暗叹王林心机深不可测。",
   "attributes": {
     "性别": "女",
     "外貌": "白纱女子、身着白纱、身穿白纱、常年带着面纱、一道紫色身影、脸上带着紫纱、脸带紫纱、身穿紫衣，面色苍白，原有紫纱遮面（逃亡中丢落）、淡紫色纱衣、梅花妆、右额贴蝶形七彩亮片、体带淡香",
-    "身份": "仙遗之地地图持有者、此行引路人、此行向导、持托印玉简者、乾风提及的旧例人物、老头选取四人之一、云雀子选定的下代朱雀子第二候选人、云雀帽受赠者之一、入墓修士、炉鼎、天水宫叛徒、血祖侍妾、原天水宫弟子（已叛出）",
-    "存殁": "在世",
-    "性格": "内心挣扎、畏惧王林",
+    "身份": "仙遗之地地图持有者、此行引路人、此行向导、持托印玉简者、乾风提及的旧例人物、老头选取四人之一、云雀子选定的下代朱雀子第二候选人、云雀帽受赠者之一、入墓修士、炉鼎、天水宫叛徒、血祖侍妾、原天水宫弟子（已叛出）、血星主母、潜伏血星数年者",
+    "存殁": "死亡",
+    "性格": "焦虑彷徨中仍有果断",
     "标志特征": "白纱遮面；入仙遗之地后凭空多出记忆、日后乾风的道心裂痕、脸上闪烁七彩之芒、身上有浓浓的乾风气息、脚踏长约三丈的大剑飞行；身中天水宫少主蛊毒、隐约觉得那怒喝之声耳熟",
-    "阵营": "云雀子一方、随侍云雀子身后、血祖一方、血祖势力",
+    "阵营": "云雀子一方、随侍云雀子身后、血祖一方、血祖势力、血星",
     "小阶段": "婴变中期",
     "出身地": "朱雀星（六级修真国）",
-    "称号": "主母"
+    "称号": "主母",
+    "死因": "踏入血阁红光通道，被红芒腐蚀化作青烟，元神崩溃，被吸入血阁通道",
+    "结局": "全身化作青烟，被血阁通道吸入"
   },
   "observations": {
     "性别": [
@@ -145,6 +150,18 @@
         "value": "原天水宫弟子（已叛出）",
         "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
         "seq": 665
+      },
+      {
+        "value": "血星主母",
+        "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+        "seq": 725,
+        "note": "老者称其实为血祖的玩物之一"
+      },
+      {
+        "value": "潜伏血星数年者",
+        "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+        "seq": 725,
+        "note": "暗中窥记血祖手印"
       }
     ],
     "存殁": [
@@ -157,6 +174,11 @@
         "value": "在世",
         "docId": "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
         "seq": 438
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+        "seq": 725
       }
     ],
     "性格": [
@@ -169,6 +191,11 @@
         "value": "内心挣扎、畏惧王林",
         "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
         "seq": 443
+      },
+      {
+        "value": "焦虑彷徨中仍有果断",
+        "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+        "seq": 725
       }
     ],
     "标志特征": [
@@ -224,6 +251,11 @@
         "value": "血祖势力",
         "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
         "seq": 665
+      },
+      {
+        "value": "血星",
+        "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+        "seq": 725
       }
     ],
     "小阶段": [
@@ -251,6 +283,20 @@
         "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
         "seq": 665
       }
+    ],
+    "死因": [
+      {
+        "value": "踏入血阁红光通道，被红芒腐蚀化作青烟，元神崩溃，被吸入血阁通道",
+        "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+        "seq": 725
+      }
+    ],
+    "结局": [
+      {
+        "value": "全身化作青烟，被血阁通道吸入",
+        "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+        "seq": 725
+      }
     ]
   },
   "firstSeq": 322,
@@ -275,15 +321,15 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
+      "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
       "dated": false,
-      "seq": 438
+      "seq": 725
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
+      "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
       "dated": false,
-      "seq": 443
+      "seq": 725
     },
     "标志特征": {
       "asOf": null,
@@ -314,6 +360,18 @@
       "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
       "dated": false,
       "seq": 665
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+      "dated": false,
+      "seq": 725
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+      "dated": false,
+      "seq": 725
     }
   },
   "contested": false,
@@ -330,7 +388,8 @@
     "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
     "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
     "plot.xianni-ch611-buwang-zhuque-first-act",
-    "plot.xianni-ch705-second-immortal-guard-leidaozi-branded"
+    "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
+    "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes"
   ],
-  "updatedAt": "2026-08-23T00:58:30.711Z"
+  "updatedAt": "2026-08-23T06:27:17.882Z"
 }

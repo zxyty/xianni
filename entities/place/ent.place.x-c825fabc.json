@@ -9,15 +9,16 @@
     "Blood Star",
     "血红色星球",
     "Xue Xing",
-    "血祖的血星"
+    "血祖的血星",
+    "血祖的洞府星"
   ],
   "summary": "血祖姚星海在天运星外独自占据的一星，圈养土著为其开荒纳血以修炼魔功，父女常年居此。",
   "attributes": {
-    "类型": "星辰",
+    "类型": "星辰/私占领地、星球、星辰、修真星/大神通修士洞府、星球/势力老巢",
     "所属势力": "血祖",
-    "危险度": "外围有罡风；由血星红发男子镇守",
-    "方位": "七级修真星天运星之外的星空",
-    "守护": "血星红发男子",
+    "危险度": "本章已崩坏，血奴血卫死亡逾七成、余者叛离",
+    "方位": "七级修真星天运星之外的星空、联盟星域边缘，距天运星遥远，不在天运星势力范围内、联盟星域内极为偏僻之处",
+    "守护": "血星红发男子、血卫、血奴、四名踏入第二步的红袍老者、血色光幕",
     "上级区域": "联盟星域"
   },
   "observations": {
@@ -36,6 +37,16 @@
         "value": "星辰",
         "docId": "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
         "seq": 721
+      },
+      {
+        "value": "修真星/大神通修士洞府",
+        "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+        "seq": 725
+      },
+      {
+        "value": "星球/势力老巢",
+        "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+        "seq": 725
       }
     ],
     "所属势力": [
@@ -52,7 +63,8 @@
       {
         "value": "血祖",
         "docId": "plot.xianni-ch764-wanglin-benzun-ancient-god-body-blood-star",
-        "seq": 721
+        "seq": 721,
+        "note": "第765章覆灭"
       }
     ],
     "危险度": [
@@ -65,6 +77,11 @@
         "value": "外围有罡风；由血星红发男子镇守",
         "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
         "seq": 571
+      },
+      {
+        "value": "本章已崩坏，血奴血卫死亡逾七成、余者叛离",
+        "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+        "seq": 725
       }
     ],
     "方位": [
@@ -72,6 +89,16 @@
         "value": "七级修真星天运星之外的星空",
         "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
         "seq": 571
+      },
+      {
+        "value": "联盟星域边缘，距天运星遥远，不在天运星势力范围内",
+        "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+        "seq": 725
+      },
+      {
+        "value": "联盟星域内极为偏僻之处",
+        "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+        "seq": 725
       }
     ],
     "守护": [
@@ -79,6 +106,26 @@
         "value": "血星红发男子",
         "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
         "seq": 571
+      },
+      {
+        "value": "血卫",
+        "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+        "seq": 725
+      },
+      {
+        "value": "血奴",
+        "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+        "seq": 725
+      },
+      {
+        "value": "四名踏入第二步的红袍老者",
+        "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+        "seq": 725
+      },
+      {
+        "value": "血色光幕",
+        "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+        "seq": 725
       }
     ],
     "上级区域": [
@@ -93,21 +140,22 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
+      "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
       "dated": false,
-      "seq": 721
+      "seq": 491
     },
     "所属势力": {
       "asOf": null,
       "docId": "plot.xianni-ch764-wanglin-benzun-ancient-god-body-blood-star",
       "dated": false,
-      "seq": 721
+      "seq": 721,
+      "note": "第765章覆灭"
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
+      "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
       "dated": false,
-      "seq": 571
+      "seq": 725
     },
     "方位": {
       "asOf": null,
@@ -137,7 +185,8 @@
     "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
     "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
     "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
-    "plot.xianni-ch764-wanglin-benzun-ancient-god-body-blood-star"
+    "plot.xianni-ch764-wanglin-benzun-ancient-god-body-blood-star",
+    "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes"
   ],
-  "updatedAt": "2026-08-23T06:13:21.012Z"
+  "updatedAt": "2026-08-23T06:27:17.891Z"
 }

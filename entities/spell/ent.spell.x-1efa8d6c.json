@@ -1,53 +1,49 @@
 {
-  "id": "ent.place.x-3001fcfd",
-  "type": "place",
-  "name": "血阁",
+  "id": "ent.spell.x-1efa8d6c",
+  "type": "spell",
+  "name": "化灵",
   "aliases": [
-    "血星血阁"
+    "古神化灵神通",
+    "幼体保护神通"
   ],
-  "summary": "血星内的处所，红发红眉男子盘膝修炼于此。",
+  "summary": "古神一族保护幼体的保命神通：融入星球、不吸其灵力、将全身化作灵气进入沉睡，非同层次存在无法看破。",
   "attributes": {
-    "类型": "禁地楼阁",
-    "上级区域": "血星",
-    "所属势力": "血祖",
-    "守护": "血祖禁制，需特定手法开启"
+    "类型": "保命/隐匿神通",
+    "出处": "古神传承记忆",
+    "适用境界": "半四星古神及以上可施展",
+    "威力": "除同等层次存在外无人可看出"
   },
   "observations": {
     "类型": [
       {
-        "value": "楼阁／修炼之所",
-        "docId": "plot.chapter-595-simplest-heavenly-tribulation-no",
-        "seq": 556
-      },
-      {
-        "value": "禁地楼阁",
+        "value": "保命/隐匿神通",
         "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
         "seq": 725
       }
     ],
-    "上级区域": [
+    "出处": [
       {
-        "value": "血星",
-        "docId": "plot.chapter-595-simplest-heavenly-tribulation-no",
-        "seq": 556
-      }
-    ],
-    "所属势力": [
-      {
-        "value": "血祖",
+        "value": "古神传承记忆",
         "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
         "seq": 725
       }
     ],
-    "守护": [
+    "适用境界": [
       {
-        "value": "血祖禁制，需特定手法开启",
+        "value": "半四星古神及以上可施展",
+        "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+        "seq": 725
+      }
+    ],
+    "威力": [
+      {
+        "value": "除同等层次存在外无人可看出",
         "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
         "seq": 725
       }
     ]
   },
-  "firstSeq": 556,
+  "firstSeq": 725,
   "attrProvenance": {
     "类型": {
       "asOf": null,
@@ -55,19 +51,19 @@
       "dated": false,
       "seq": 725
     },
-    "上级区域": {
-      "asOf": null,
-      "docId": "plot.chapter-595-simplest-heavenly-tribulation-no",
-      "dated": false,
-      "seq": 556
-    },
-    "所属势力": {
+    "出处": {
       "asOf": null,
       "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
       "dated": false,
       "seq": 725
     },
-    "守护": {
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+      "dated": false,
+      "seq": 725
+    },
+    "威力": {
       "asOf": null,
       "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
       "dated": false,
@@ -77,8 +73,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.chapter-595-simplest-heavenly-tribulation-no",
     "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes"
   ],
-  "updatedAt": "2026-08-23T06:27:17.886Z"
+  "updatedAt": "2026-08-23T06:27:17.864Z"
 }

@@ -4,12 +4,14 @@
   "name": "练气士",
   "aliases": [
     "昆仑练气士",
-    "远古练气士"
+    "远古练气士",
+    "上古练气士"
   ],
   "summary": "远古时期修炼者的自称（当时无‘修士’一词），所修为元气；昆仑练气士为其典型代表。",
   "attributes": {
-    "特性": "修炼元气，将元气抽离体外取代全身仙力",
-    "代表人物": "昆仑练气士"
+    "特性": "修炼元气，将元气抽离体外取代全身仙力、修炼一口元气、气化成神而得元神、体内以元力为本",
+    "代表人物": "昆仑练气士",
+    "聚居地": "上古之世（已不存）"
   },
   "observations": {
     "特性": [
@@ -17,6 +19,21 @@
         "value": "修炼元气，将元气抽离体外取代全身仙力",
         "docId": "plot.xianni-ch599-wending-early-stage-breakthrough",
         "seq": 556
+      },
+      {
+        "value": "修炼一口元气",
+        "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+        "seq": 725
+      },
+      {
+        "value": "气化成神而得元神",
+        "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+        "seq": 725
+      },
+      {
+        "value": "体内以元力为本",
+        "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+        "seq": 725
       }
     ],
     "代表人物": [
@@ -24,6 +41,13 @@
         "value": "昆仑练气士",
         "docId": "plot.xianni-ch599-wending-early-stage-breakthrough",
         "seq": 556
+      }
+    ],
+    "聚居地": [
+      {
+        "value": "上古之世（已不存）",
+        "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+        "seq": 725
       }
     ]
   },
@@ -40,12 +64,19 @@
       "docId": "plot.xianni-ch599-wending-early-stage-breakthrough",
       "dated": false,
       "seq": 556
+    },
+    "聚居地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes",
+      "dated": false,
+      "seq": 725
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch599-wending-early-stage-breakthrough"
+    "plot.xianni-ch599-wending-early-stage-breakthrough",
+    "plot.xianni-ch765-blood-star-wang-lin-true-body-strikes"
   ],
-  "updatedAt": "2026-08-22T12:53:11.577Z"
+  "updatedAt": "2026-08-23T06:27:17.928Z"
 }
