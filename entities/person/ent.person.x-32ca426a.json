@@ -7,19 +7,24 @@
     "青袍中年男子罗素",
     "Luo Su",
     "主持第一关者罗素",
-    "罗素前辈"
+    "罗素前辈",
+    "天之关把守者罗素",
+    "第一关把持者罗素"
   ],
   "summary": "雷仙殿修士，封仙大典第一关「人之关」把守者，三百年前已达窥涅中期，神识变化受成名老怪赞誉。",
   "attributes": {
     "性别": "男",
-    "身份": "人之关把守者、封仙之战第一关主持者、雷仙殿封仙之战第一关主考、雷仙殿内身份极高者",
+    "身份": "人之关把守者、封仙之战第一关主持者、雷仙殿封仙之战第一关主考、雷仙殿内身份极高者、雷仙殿封仙台第一关（天之关）把持者",
     "外貌": "青袍中年男子",
-    "标志特征": "神识变化受老怪赞誉、纯神识攻击之术、眉心青蛇",
+    "标志特征": "神识变化受老怪赞誉、纯神识攻击之术、眉心青蛇、一身神识之术（炎雷子叹其可惜）",
     "性格": "傲然、不耐、视封仙如无物、不耐、倨傲、动辄骂“废物”、阴沉、记仇、公器私用",
     "神识": "极为神奇，可在体内幻化，散开可凝成金甲巨人、神识可幻化多具百丈金甲巨人（最多九具）、远超窥涅初期，可覆压方圆千丈",
     "小阶段": "窥涅中期巅峰、窥涅中期",
     "阵营": "雷仙殿",
-    "寿元": "数千年修道"
+    "寿元": "数千年修道",
+    "存殁": "死亡",
+    "死因": "被清水以极境红色闪电击穿，元神崩溃、肉身溃散而亡",
+    "结局": "第870章身亡，元神之力被清水吸收"
   },
   "observations": {
     "性别": [
@@ -49,6 +54,11 @@
         "value": "雷仙殿内身份极高者",
         "docId": "plot.xianni-ch869-shenshi-zhi-shu-wanglin-vs-luosu",
         "seq": 810
+      },
+      {
+        "value": "雷仙殿封仙台第一关（天之关）把持者",
+        "docId": "plot.xianni-ch870-qingshui-protects-xumu",
+        "seq": 810
       }
     ],
     "外貌": [
@@ -67,6 +77,11 @@
       {
         "value": "纯神识攻击之术、眉心青蛇",
         "docId": "plot.xianni-ch869-shenshi-zhi-shu-wanglin-vs-luosu",
+        "seq": 810
+      },
+      {
+        "value": "一身神识之术（炎雷子叹其可惜）",
+        "docId": "plot.xianni-ch870-qingshui-protects-xumu",
         "seq": 810
       }
     ],
@@ -129,6 +144,27 @@
         "docId": "plot.xianni-ch869-shenshi-zhi-shu-wanglin-vs-luosu",
         "seq": 810
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch870-qingshui-protects-xumu",
+        "seq": 810
+      }
+    ],
+    "死因": [
+      {
+        "value": "被清水以极境红色闪电击穿，元神崩溃、肉身溃散而亡",
+        "docId": "plot.xianni-ch870-qingshui-protects-xumu",
+        "seq": 810
+      }
+    ],
+    "结局": [
+      {
+        "value": "第870章身亡，元神之力被清水吸收",
+        "docId": "plot.xianni-ch870-qingshui-protects-xumu",
+        "seq": 810
+      }
     ]
   },
   "firstSeq": 810,
@@ -186,13 +222,32 @@
       "docId": "plot.xianni-ch869-shenshi-zhi-shu-wanglin-vs-luosu",
       "dated": false,
       "seq": 810
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch870-qingshui-protects-xumu",
+      "dated": false,
+      "seq": 810
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch870-qingshui-protects-xumu",
+      "dated": false,
+      "seq": 810
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch870-qingshui-protects-xumu",
+      "dated": false,
+      "seq": 810
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
-    "plot.xianni-ch869-shenshi-zhi-shu-wanglin-vs-luosu"
+    "plot.xianni-ch869-shenshi-zhi-shu-wanglin-vs-luosu",
+    "plot.xianni-ch870-qingshui-protects-xumu"
   ],
-  "updatedAt": "2026-08-23T15:07:48.377Z"
+  "updatedAt": "2026-08-23T15:10:06.309Z"
 }

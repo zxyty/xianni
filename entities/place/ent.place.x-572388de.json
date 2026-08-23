@@ -4,14 +4,16 @@
   "name": "雷池广场",
   "aliases": [
     "千丈雷池广场",
-    "雷仙殿内殿雷池广场"
+    "雷仙殿内殿雷池广场",
+    "封仙台雷池"
   ],
   "summary": "雷仙殿内殿中千丈大小的广场，被定为罗天一百零八仙封号之战的战场，场外设十余白玉蒲团供老怪落座。",
   "attributes": {
     "所属势力": "雷仙殿",
-    "规模": "千丈大小",
-    "类型": "封仙战场",
-    "上级区域": "雷仙殿内殿"
+    "规模": "千丈大小、千丈方圆，中心三丈见方空白地",
+    "类型": "封仙战场、考核场地/雷池",
+    "上级区域": "雷仙殿内殿",
+    "危险度": "极高（雷灵之威非常人可承受）"
   },
   "observations": {
     "所属势力": [
@@ -26,6 +28,11 @@
         "value": "千丈大小",
         "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
         "seq": 810
+      },
+      {
+        "value": "千丈方圆，中心三丈见方空白地",
+        "docId": "plot.xianni-ch870-qingshui-protects-xumu",
+        "seq": 810
       }
     ],
     "类型": [
@@ -33,12 +40,24 @@
         "value": "封仙战场",
         "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
         "seq": 810
+      },
+      {
+        "value": "考核场地/雷池",
+        "docId": "plot.xianni-ch870-qingshui-protects-xumu",
+        "seq": 810
       }
     ],
     "上级区域": [
       {
         "value": "雷仙殿内殿",
         "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+        "seq": 810
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高（雷灵之威非常人可承受）",
+        "docId": "plot.xianni-ch870-qingshui-protects-xumu",
         "seq": 810
       }
     ]
@@ -68,12 +87,19 @@
       "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
       "dated": false,
       "seq": 810
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch870-qingshui-protects-xumu",
+      "dated": false,
+      "seq": 810
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins"
+    "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+    "plot.xianni-ch870-qingshui-protects-xumu"
   ],
-  "updatedAt": "2026-08-23T15:05:12.784Z"
+  "updatedAt": "2026-08-23T15:10:06.325Z"
 }

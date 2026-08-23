@@ -4,13 +4,16 @@
   "name": "雷灵",
   "aliases": [
     "雷之仙界守门雷灵",
-    "守护门户的雷灵"
+    "守护门户的雷灵",
+    "虚幻雷灵",
+    "雷池雷灵"
   ],
   "summary": "镇守雷之仙界门户的存在，入界者须献上大量升仙果喂食，否则不得通行。",
   "attributes": {
-    "栖息地": "雷之仙界门户",
-    "能力": "守护门户、阻断入界者",
-    "天敌": "无（文中未提）"
+    "栖息地": "雷池广场",
+    "能力": "以雷威压迫受试者",
+    "天敌": "无（文中未提）",
+    "外形": "由无数雷光组成的虚幻灵体"
   },
   "observations": {
     "栖息地": [
@@ -18,6 +21,11 @@
         "value": "雷之仙界门户",
         "docId": "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
         "seq": 805
+      },
+      {
+        "value": "雷池广场",
+        "docId": "plot.xianni-ch870-qingshui-protects-xumu",
+        "seq": 810
       }
     ],
     "能力": [
@@ -25,6 +33,11 @@
         "value": "守护门户、阻断入界者",
         "docId": "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
         "seq": 805
+      },
+      {
+        "value": "以雷威压迫受试者",
+        "docId": "plot.xianni-ch870-qingshui-protects-xumu",
+        "seq": 810
       }
     ],
     "天敌": [
@@ -33,33 +46,47 @@
         "docId": "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
         "seq": 805
       }
+    ],
+    "外形": [
+      {
+        "value": "由无数雷光组成的虚幻灵体",
+        "docId": "plot.xianni-ch870-qingshui-protects-xumu",
+        "seq": 810
+      }
     ]
   },
   "firstSeq": 805,
   "attrProvenance": {
     "栖息地": {
       "asOf": null,
-      "docId": "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
+      "docId": "plot.xianni-ch870-qingshui-protects-xumu",
       "dated": false,
-      "seq": 805
+      "seq": 810
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
+      "docId": "plot.xianni-ch870-qingshui-protects-xumu",
       "dated": false,
-      "seq": 805
+      "seq": 810
     },
     "天敌": {
       "asOf": null,
       "docId": "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
       "dated": false,
       "seq": 805
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.xianni-ch870-qingshui-protects-xumu",
+      "dated": false,
+      "seq": 810
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch865-donglin-xu-family-xu-ting-appears"
+    "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
+    "plot.xianni-ch870-qingshui-protects-xumu"
   ],
-  "updatedAt": "2026-08-23T14:47:09.454Z"
+  "updatedAt": "2026-08-23T15:10:06.330Z"
 }
