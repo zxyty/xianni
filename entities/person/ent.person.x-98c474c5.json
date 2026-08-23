@@ -6,16 +6,18 @@
     "地玄殿大长老",
     "玄宝",
     "Xuan Bao Shang Ren",
-    "那老者"
+    "那老者",
+    "天宝上人的师弟"
   ],
   "summary": "地玄殿大长老，修真联盟长老团成员之一，可决定联盟星域一切事情；一身白衣手持拂尘，笑声一出四周修士法宝皆颤。",
   "attributes": {
-    "身份": "地玄殿大长老、联盟长老团成员、修真联盟长老团成员",
+    "身份": "地玄殿大长老、联盟长老团成员、修真联盟长老团成员、雨之仙界仙人、天宝上人的师弟、长老团成员",
     "外貌": "白衣、略显清瘦、仙风道骨、双目明亮深邃、手持拂尘、老者，面带微笑",
     "性格": "容颜和善如长者，对战事毫不在意、从容微笑、神色如常、自信、算计深远",
-    "标志特征": "长笑一出，四周修士法宝齐颤欲脱主而出、虚空撕裂百丈裂缝取物；掌握仙卫、黑蝶、次空涅箭",
+    "标志特征": "长笑一出，四周修士法宝齐颤欲脱主而出、虚空撕裂百丈裂缝取物；掌握仙卫、黑蝶、次空涅箭、体内压制隐藏无数万年的仙元封印（本章解封）",
     "阵营": "修真联盟",
-    "寿元": "已谋划数万年"
+    "寿元": "已谋划数万年、存活无数万年",
+    "结局": "损失次空涅法宝、被清水重创，一心逃走"
   },
   "observations": {
     "身份": [
@@ -32,6 +34,21 @@
       {
         "value": "修真联盟长老团成员",
         "docId": "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian",
+        "seq": 865
+      },
+      {
+        "value": "雨之仙界仙人",
+        "docId": "plot.xianni-ch933-qingshui-arrives-xuanbao-shangren-artifact-source-power",
+        "seq": 865
+      },
+      {
+        "value": "天宝上人的师弟",
+        "docId": "plot.xianni-ch933-qingshui-arrives-xuanbao-shangren-artifact-source-power",
+        "seq": 865
+      },
+      {
+        "value": "长老团成员",
+        "docId": "plot.xianni-ch933-qingshui-arrives-xuanbao-shangren-artifact-source-power",
         "seq": 865
       }
     ],
@@ -74,6 +91,11 @@
         "value": "虚空撕裂百丈裂缝取物；掌握仙卫、黑蝶、次空涅箭",
         "docId": "plot.xianni-ch931-ci-kong-nie-arrow-xuanbao-shangren-immortal-guards",
         "seq": 860
+      },
+      {
+        "value": "体内压制隐藏无数万年的仙元封印（本章解封）",
+        "docId": "plot.xianni-ch933-qingshui-arrives-xuanbao-shangren-artifact-source-power",
+        "seq": 865
       }
     ],
     "阵营": [
@@ -94,6 +116,20 @@
         "docId": "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian",
         "seq": 865,
         "note": "自称‘老夫数万年的准备’"
+      },
+      {
+        "value": "存活无数万年",
+        "docId": "plot.xianni-ch933-qingshui-arrives-xuanbao-shangren-artifact-source-power",
+        "seq": 865,
+        "note": "仙界已不再仍存世"
+      }
+    ],
+    "结局": [
+      {
+        "value": "损失次空涅法宝、被清水重创，一心逃走",
+        "docId": "plot.xianni-ch933-qingshui-arrives-xuanbao-shangren-artifact-source-power",
+        "seq": 865,
+        "note": "第933章截至处"
       }
     ]
   },
@@ -135,6 +171,13 @@
       "dated": false,
       "seq": 865,
       "note": "自称‘老夫数万年的准备’"
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch933-qingshui-arrives-xuanbao-shangren-artifact-source-power",
+      "dated": false,
+      "seq": 865,
+      "note": "第933章截至处"
     }
   },
   "contested": false,
@@ -142,7 +185,8 @@
   "docs": [
     "plot.xianni-ch930-alliance-elder-council",
     "plot.xianni-ch931-ci-kong-nie-arrow-xuanbao-shangren-immortal-guards",
-    "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian"
+    "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian",
+    "plot.xianni-ch933-qingshui-arrives-xuanbao-shangren-artifact-source-power"
   ],
-  "updatedAt": "2026-08-23T21:13:43.145Z"
+  "updatedAt": "2026-08-23T21:16:34.364Z"
 }
