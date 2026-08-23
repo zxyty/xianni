@@ -4,11 +4,16 @@
   "name": "王府",
   "aliases": [
     "王家大院",
-    "祁水城王家"
+    "祁水城王家",
+    "祁水城王府",
+    "王林的居所",
+    "王林的大房子",
+    "祁水城王家大院"
   ],
   "summary": "京都王府，府内两修士看出木雕不凡而夜盗，事后不敢再犯。",
   "attributes": {
-    "据点": "京都"
+    "据点": "京都",
+    "所属界面": "冉云星"
   },
   "observations": {
     "据点": [
@@ -16,6 +21,13 @@
         "value": "京都",
         "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
         "seq": 239
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "冉云星",
+        "docId": "plot.xianni-ch656-660-separation-and-years",
+        "seq": 656
       }
     ]
   },
@@ -26,13 +38,20 @@
       "docId": "plot.xianni-ch239-243-huafan-jingdu-mudiao",
       "dated": false,
       "seq": 239
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch656-660-separation-and-years",
+      "dated": false,
+      "seq": 656
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch239-243-huafan-jingdu-mudiao",
-    "plot.xianni-ch691-departure-sun-tai-death-wangping"
+    "plot.xianni-ch691-departure-sun-tai-death-wangping",
+    "plot.xianni-ch656-660-separation-and-years"
   ],
-  "updatedAt": "2026-08-23T00:18:55.935Z"
+  "updatedAt": "2026-08-23T00:38:39.124Z"
 }

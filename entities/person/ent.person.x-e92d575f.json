@@ -3,12 +3,16 @@
   "type": "person",
   "name": "周若彤",
   "aliases": [
-    "周家二姑娘"
+    "周家二姑娘",
+    "若彤",
+    "落月村中年妇人"
   ],
   "summary": "周家大汉之女，与王平一起长大，暗慕王平；王平离村时哭喊「我恨你王平」。",
   "attributes": {
     "性别": "女",
-    "身份": "落月村村民、周家大汉之女"
+    "身份": "村妇、许念萍之母",
+    "外貌": "四十多岁、略显苍老的中年妇人",
+    "出身地": "落月村"
   },
   "observations": {
     "性别": [
@@ -23,6 +27,25 @@
         "value": "落月村村民、周家大汉之女",
         "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
         "seq": 651
+      },
+      {
+        "value": "村妇、许念萍之母",
+        "docId": "plot.xianni-ch656-660-separation-and-years",
+        "seq": 656
+      }
+    ],
+    "外貌": [
+      {
+        "value": "四十多岁、略显苍老的中年妇人",
+        "docId": "plot.xianni-ch656-660-separation-and-years",
+        "seq": 656
+      }
+    ],
+    "出身地": [
+      {
+        "value": "落月村",
+        "docId": "plot.xianni-ch656-660-separation-and-years",
+        "seq": 656
       }
     ]
   },
@@ -36,15 +59,28 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
+      "docId": "plot.xianni-ch656-660-separation-and-years",
       "dated": false,
-      "seq": 651
+      "seq": 656
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch656-660-separation-and-years",
+      "dated": false,
+      "seq": 656
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch656-660-separation-and-years",
+      "dated": false,
+      "seq": 656
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch691-departure-sun-tai-death-wangping"
+    "plot.xianni-ch691-departure-sun-tai-death-wangping",
+    "plot.xianni-ch656-660-separation-and-years"
   ],
-  "updatedAt": "2026-08-23T00:18:55.817Z"
+  "updatedAt": "2026-08-23T00:38:39.031Z"
 }

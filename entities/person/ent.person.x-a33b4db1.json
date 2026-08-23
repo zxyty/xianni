@@ -5,34 +5,36 @@
   "aliases": [
     "雷仙殿使者",
     "雷仙殿使者雷道子",
-    "Lei Daozi"
+    "Lei Daozi",
+    "真正的雷仙殿使者"
   ],
   "summary": "雷仙殿使者，精擅雷法：踏地聚电成环形雷光波纹，掐诀发雷，持雷网与刻符黑铁棍。因觊觎仙卫傀儡与追查冒名者『许木』而与王林交手，被王林雷球震得面色苍白。",
   "attributes": {
     "性别": "男",
     "身份": "雷仙殿使者",
-    "标志特征": "周身雷光游走，出手即引动阴云密布、精通雷之神通，意境疑与雷有关、手心紫雷、伤势瞬间恢复（消耗天地元力）、神通蕴于双目可透视",
+    "标志特征": "周身雷光游走，出手即引动阴云密布、精通雷之神通，意境疑与雷有关、手心紫雷、伤势瞬间恢复（消耗天地元力）、神通蕴于双目可透视、以雷兽为坐骑，视雷兽为雷仙殿真伪之凭证",
     "阵营": "雷仙殿",
     "存殁": "在世、存活",
-    "小阶段": "阴虚、阴阳虚实境（第二步·阴虚修士）",
-    "性格": "傲慢、多疑、贪婪、阴沉、恶毒、惜命惜元力、自负而怯战",
+    "小阶段": "阴虚、阴阳虚实境（第二步·阴虚修士）、阴虚（已超脱修道第一步）",
+    "性格": "傲慢、多疑、贪婪、阴沉、恶毒、惜命惜元力、自负而怯战、傲慢、冷冽",
     "寿元": "剩余不足三百年",
     "本命法宝": "天地大鼎",
-    "结局": "重伤喷血逃走，遭仙卫与雷兽追击"
+    "结局": "重伤喷血逃走，遭仙卫与雷兽追击",
+    "外貌": "中年男子/中年文士，身外阵阵闪电游走，如同雷仙"
   },
   "observations": {
     "性别": [
       {
         "value": "男",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
-        "seq": 661
+        "seq": 656
       }
     ],
     "身份": [
       {
         "value": "雷仙殿使者",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
-        "seq": 661
+        "seq": 656
       }
     ],
     "标志特征": [
@@ -60,6 +62,11 @@
         "value": "神通蕴于双目可透视",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
+      },
+      {
+        "value": "以雷兽为坐骑，视雷兽为雷仙殿真伪之凭证",
+        "docId": "plot.xianni-ch656-660-separation-and-years",
+        "seq": 656
       }
     ],
     "阵营": [
@@ -91,6 +98,12 @@
         "value": "阴阳虚实境（第二步·阴虚修士）",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
+      },
+      {
+        "value": "阴虚（已超脱修道第一步）",
+        "docId": "plot.xianni-ch656-660-separation-and-years",
+        "seq": 656,
+        "note": "第700章"
       }
     ],
     "性格": [
@@ -108,6 +121,11 @@
         "value": "自负而怯战",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
+      },
+      {
+        "value": "傲慢、冷冽",
+        "docId": "plot.xianni-ch656-660-separation-and-years",
+        "seq": 656
       }
     ],
     "寿元": [
@@ -131,27 +149,34 @@
         "seq": 661,
         "note": "本章"
       }
+    ],
+    "外貌": [
+      {
+        "value": "中年男子/中年文士，身外阵阵闪电游走，如同雷仙",
+        "docId": "plot.xianni-ch656-660-separation-and-years",
+        "seq": 656
+      }
     ]
   },
-  "firstSeq": 661,
+  "firstSeq": 656,
   "attrProvenance": {
     "性别": {
       "asOf": null,
       "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
       "dated": false,
-      "seq": 661
+      "seq": 656
     },
     "身份": {
       "asOf": null,
       "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
       "dated": false,
-      "seq": 661
+      "seq": 656
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+      "docId": "plot.xianni-ch656-660-separation-and-years",
       "dated": false,
-      "seq": 661
+      "seq": 656
     },
     "阵营": {
       "asOf": null,
@@ -167,15 +192,16 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+      "docId": "plot.xianni-ch656-660-separation-and-years",
       "dated": false,
-      "seq": 661
+      "seq": 656,
+      "note": "第700章"
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+      "docId": "plot.xianni-ch656-660-separation-and-years",
       "dated": false,
-      "seq": 661
+      "seq": 656
     },
     "寿元": {
       "asOf": null,
@@ -195,12 +221,19 @@
       "dated": false,
       "seq": 661,
       "note": "本章"
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch656-660-separation-and-years",
+      "dated": false,
+      "seq": 656
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power"
+    "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+    "plot.xianni-ch656-660-separation-and-years"
   ],
-  "updatedAt": "2026-08-17T14:25:16.443Z"
+  "updatedAt": "2026-08-23T00:38:39.103Z"
 }

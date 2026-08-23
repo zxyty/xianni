@@ -3,11 +3,12 @@
   "type": "place",
   "name": "落月村后山",
   "aliases": [
-    "落月村墓地"
+    "落月村墓地",
+    "孙泰之墓所在"
   ],
   "summary": "落月村村民统一安葬之地，孙泰的空墓「孙泰之墓」立于此。",
   "attributes": {
-    "类型": "墓地",
+    "类型": "墓地/山地",
     "上级区域": "落月村",
     "方位": "落月村后方"
   },
@@ -17,6 +18,11 @@
         "value": "墓地",
         "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
         "seq": 651
+      },
+      {
+        "value": "墓地/山地",
+        "docId": "plot.xianni-ch656-660-separation-and-years",
+        "seq": 656
       }
     ],
     "上级区域": [
@@ -38,9 +44,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
+      "docId": "plot.xianni-ch656-660-separation-and-years",
       "dated": false,
-      "seq": 651
+      "seq": 656
     },
     "上级区域": {
       "asOf": null,
@@ -58,7 +64,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch691-departure-sun-tai-death-wangping"
+    "plot.xianni-ch691-departure-sun-tai-death-wangping",
+    "plot.xianni-ch656-660-separation-and-years"
   ],
-  "updatedAt": "2026-08-23T00:18:55.819Z"
+  "updatedAt": "2026-08-23T00:38:39.051Z"
 }

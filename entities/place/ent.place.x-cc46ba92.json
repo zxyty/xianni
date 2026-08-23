@@ -3,13 +3,15 @@
   "type": "place",
   "name": "孙家祁水城分支大殿",
   "aliases": [
-    "孙家分支大殿"
+    "孙家分支大殿",
+    "孙家此城分支大殿"
   ],
   "summary": "祁水城孙家分支议事大殿，三位化神长老在此召集酒楼事件相干人等问询。",
   "attributes": {
     "所属势力": "孙家",
-    "类型": "大殿",
-    "上级区域": "祁水城"
+    "类型": "分支大殿",
+    "上级区域": "祁水城",
+    "所属界面": "冉云星"
   },
   "observations": {
     "所属势力": [
@@ -24,6 +26,11 @@
         "value": "大殿",
         "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
         "seq": 651
+      },
+      {
+        "value": "分支大殿",
+        "docId": "plot.xianni-ch656-660-separation-and-years",
+        "seq": 656
       }
     ],
     "上级区域": [
@@ -31,6 +38,13 @@
         "value": "祁水城",
         "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
         "seq": 651
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "冉云星",
+        "docId": "plot.xianni-ch656-660-separation-and-years",
+        "seq": 656
       }
     ]
   },
@@ -44,21 +58,28 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
+      "docId": "plot.xianni-ch656-660-separation-and-years",
       "dated": false,
-      "seq": 651
+      "seq": 656
     },
     "上级区域": {
       "asOf": null,
       "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
       "dated": false,
       "seq": 651
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch656-660-separation-and-years",
+      "dated": false,
+      "seq": 656
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch691-departure-sun-tai-death-wangping"
+    "plot.xianni-ch691-departure-sun-tai-death-wangping",
+    "plot.xianni-ch656-660-separation-and-years"
   ],
-  "updatedAt": "2026-08-23T00:18:55.892Z"
+  "updatedAt": "2026-08-23T00:38:39.001Z"
 }

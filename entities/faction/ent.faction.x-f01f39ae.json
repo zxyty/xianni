@@ -2,16 +2,52 @@
   "id": "ent.faction.x-f01f39ae",
   "type": "faction",
   "name": "赵家",
-  "aliases": [],
+  "aliases": [
+    "赵",
+    "赵氏",
+    "冉云星赵家"
+  ],
   "summary": "赵传文所属家族，被幻家老祖列入灭族名单。",
-  "attributes": {},
-  "observations": {},
+  "attributes": {
+    "所属界面": "冉云星",
+    "据点": "冉云星"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "冉云星",
+        "docId": "plot.xianni-ch656-660-separation-and-years",
+        "seq": 656
+      }
+    ],
+    "据点": [
+      {
+        "value": "冉云星",
+        "docId": "plot.xianni-ch656-660-separation-and-years",
+        "seq": 656
+      }
+    ]
+  },
   "firstSeq": 636,
-  "attrProvenance": {},
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch656-660-separation-and-years",
+      "dated": false,
+      "seq": 656
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.xianni-ch656-660-separation-and-years",
+      "dated": false,
+      "seq": 656
+    }
+  },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch678-liumei-slaughters-ranyunxing-wanglin-returns"
+    "plot.xianni-ch678-liumei-slaughters-ranyunxing-wanglin-returns",
+    "plot.xianni-ch656-660-separation-and-years"
   ],
-  "updatedAt": "2026-08-22T23:18:50.348Z"
+  "updatedAt": "2026-08-23T00:38:39.116Z"
 }

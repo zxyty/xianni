@@ -4,12 +4,14 @@
   "name": "大秦",
   "aliases": [
     "大秦帝国",
-    "冉云星大秦"
+    "冉云星大秦",
+    "Da Qin"
   ],
   "summary": "冉云星凡人界三大帝国之一，祁水城为其副都之一。",
   "attributes": {
     "所属界面": "冉云星",
-    "等级": "冉云星三大帝国之一"
+    "等级": "冉云星三大帝国之一",
+    "阵营": "凡人国度"
   },
   "observations": {
     "所属界面": [
@@ -24,6 +26,13 @@
         "value": "冉云星三大帝国之一",
         "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
         "seq": 651
+      }
+    ],
+    "阵营": [
+      {
+        "value": "凡人国度",
+        "docId": "plot.xianni-ch656-660-separation-and-years",
+        "seq": 656
       }
     ]
   },
@@ -40,12 +49,19 @@
       "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
       "dated": false,
       "seq": 651
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch656-660-separation-and-years",
+      "dated": false,
+      "seq": 656
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch691-departure-sun-tai-death-wangping"
+    "plot.xianni-ch691-departure-sun-tai-death-wangping",
+    "plot.xianni-ch656-660-separation-and-years"
   ],
-  "updatedAt": "2026-08-23T00:18:55.867Z"
+  "updatedAt": "2026-08-23T00:38:39.084Z"
 }

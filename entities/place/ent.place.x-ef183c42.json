@@ -4,13 +4,15 @@
   "name": "祁水城",
   "aliases": [
     "Qishui City",
-    "祁水"
+    "祁水",
+    "齐水城",
+    "祁水城王家大院所在城"
   ],
   "summary": "大秦副都之一，繁华仅次京都，临近河川，王林决定携王平在此定居购宅。",
   "attributes": {
     "所属界面": "冉云星",
-    "所属势力": "大秦",
-    "类型": "副都、大城、城池",
+    "所属势力": "天行帝国",
+    "类型": "副都、大城、城池、凡人城池",
     "规模": "繁华仅次于京都",
     "方位": "临近河川",
     "上级区域": "冉云星"
@@ -28,6 +30,12 @@
         "value": "大秦",
         "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
         "seq": 651
+      },
+      {
+        "value": "天行帝国",
+        "docId": "plot.xianni-ch656-660-separation-and-years",
+        "seq": 656,
+        "note": "本片段被大军占据后"
       }
     ],
     "类型": [
@@ -40,6 +48,11 @@
         "value": "城池",
         "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
         "seq": 651
+      },
+      {
+        "value": "凡人城池",
+        "docId": "plot.xianni-ch656-660-separation-and-years",
+        "seq": 656
       }
     ],
     "规模": [
@@ -74,9 +87,10 @@
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
+      "docId": "plot.xianni-ch656-660-separation-and-years",
       "dated": false,
-      "seq": 651
+      "seq": 656,
+      "note": "本片段被大军占据后"
     },
     "类型": {
       "asOf": null,
@@ -106,7 +120,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch691-departure-sun-tai-death-wangping"
+    "plot.xianni-ch691-departure-sun-tai-death-wangping",
+    "plot.xianni-ch656-660-separation-and-years"
   ],
-  "updatedAt": "2026-08-23T00:18:55.934Z"
+  "updatedAt": "2026-08-23T00:38:39.123Z"
 }
