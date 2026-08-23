@@ -3,12 +3,15 @@
   "type": "artifact",
   "name": "八叶莲花台",
   "aliases": [
-    "莲花台"
+    "莲花台",
+    "八叶莲花",
+    "八叶莲花瓣"
   ],
   "summary": "水罗蓝裙女子右手所托之宝。",
   "attributes": {
     "持有者": "水罗蓝裙女子",
-    "外形": "八叶莲花台"
+    "外形": "八瓣莲花台，可逐叶摘取",
+    "能力": "单叶放大至数十丈、散发淡淡芳香、落下即生毁灭性威压、崩裂星空"
   },
   "observations": {
     "持有者": [
@@ -23,6 +26,28 @@
         "value": "八叶莲花台",
         "docId": "plot.xianni-ch924-wang-lin-dingshen-jixiantian-great-merit",
         "seq": 855
+      },
+      {
+        "value": "八瓣莲花台，可逐叶摘取",
+        "docId": "plot.xianni-ch927-jun-bu-shi-qie-huanwei-chi-hong-bowen",
+        "seq": 860
+      }
+    ],
+    "能力": [
+      {
+        "value": "单叶放大至数十丈",
+        "docId": "plot.xianni-ch927-jun-bu-shi-qie-huanwei-chi-hong-bowen",
+        "seq": 860
+      },
+      {
+        "value": "散发淡淡芳香",
+        "docId": "plot.xianni-ch927-jun-bu-shi-qie-huanwei-chi-hong-bowen",
+        "seq": 860
+      },
+      {
+        "value": "落下即生毁灭性威压、崩裂星空",
+        "docId": "plot.xianni-ch927-jun-bu-shi-qie-huanwei-chi-hong-bowen",
+        "seq": 860
       }
     ]
   },
@@ -36,15 +61,22 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch924-wang-lin-dingshen-jixiantian-great-merit",
+      "docId": "plot.xianni-ch927-jun-bu-shi-qie-huanwei-chi-hong-bowen",
       "dated": false,
-      "seq": 855
+      "seq": 860
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch927-jun-bu-shi-qie-huanwei-chi-hong-bowen",
+      "dated": false,
+      "seq": 860
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch924-wang-lin-dingshen-jixiantian-great-merit"
+    "plot.xianni-ch924-wang-lin-dingshen-jixiantian-great-merit",
+    "plot.xianni-ch927-jun-bu-shi-qie-huanwei-chi-hong-bowen"
   ],
-  "updatedAt": "2026-08-23T20:11:20.193Z"
+  "updatedAt": "2026-08-23T20:19:11.799Z"
 }
