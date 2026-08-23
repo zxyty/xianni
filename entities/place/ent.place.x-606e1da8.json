@@ -3,12 +3,13 @@
   "type": "place",
   "name": "升仙池",
   "aliases": [
-    "仙池"
+    "仙池",
+    "升仙池资格"
   ],
   "summary": "远古修真家族召书中许诺之地，一百零八仙可入其中化体元为仙元、成就真仙。",
   "attributes": {
     "所属势力": "雷仙殿",
-    "类型": "秘境/圣地",
+    "类型": "秘境/修行圣地",
     "所属界面": "罗天星域"
   },
   "observations": {
@@ -29,6 +30,11 @@
         "value": "秘境/圣地",
         "docId": "plot.xianni-820-luotian-fengxian-yaojia-tianqiongling",
         "seq": 766
+      },
+      {
+        "value": "秘境/修行圣地",
+        "docId": "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives",
+        "seq": 800
       }
     ],
     "所属界面": [
@@ -49,9 +55,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-820-luotian-fengxian-yaojia-tianqiongling",
+      "docId": "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives",
       "dated": false,
-      "seq": 766
+      "seq": 800
     },
     "所属界面": {
       "asOf": null,
@@ -64,7 +70,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-820-luotian-fengxian-yaojia-tianqiongling",
-    "plot.xianni-857-the-third-step"
+    "plot.xianni-857-the-third-step",
+    "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives"
   ],
-  "updatedAt": "2026-08-23T14:22:22.786Z"
+  "updatedAt": "2026-08-23T14:28:11.193Z"
 }

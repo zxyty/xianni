@@ -1,57 +1,48 @@
 {
-  "id": "ent.item.x-6d5a03ec",
-  "type": "item",
-  "name": "域外战场资格令牌",
+  "id": "ent.place.x-0adbbdf3",
+  "type": "place",
+  "name": "地炎星",
   "aliases": [
-    "资格令牌",
-    "罗天南域封号资格令牌",
-    "封号令牌"
+    "罗天南域地炎星"
   ],
-  "summary": "进入域外战场的资格凭证；藤化元不惜开罪无锋谷取得，用以换取启明相助。",
+  "summary": "罗天南域三大主星之一，本次南域封号之争的举办地；星外千里为战场光幕，十万里外由修士环形封锁。",
   "attributes": {
-    "类型": "身份凭证",
-    "用途": "参与南域封号争夺的资格证明",
-    "产地": "罗天南域"
+    "类型": "主星/修真星球",
+    "上级区域": "罗天南域",
+    "方位": "罗天南域三大主星之一",
+    "守护": "十万里外每隔千里一名修士的环形封锁"
   },
   "observations": {
     "类型": [
       {
-        "value": "资格凭证",
-        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
-        "seq": 85
-      },
-      {
-        "value": "身份凭证",
+        "value": "主星/修真星球",
         "docId": "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives",
         "seq": 800
       }
     ],
-    "用途": [
-      {
-        "value": "进入域外战场资格",
-        "docId": "plot.xianni-ch85-89-jilian-jianqiao",
-        "seq": 85
-      },
-      {
-        "value": "进入域外战场",
-        "docId": "lore.xianni-ch105-jijing-realm",
-        "seq": 90
-      },
-      {
-        "value": "参与南域封号争夺的资格证明",
-        "docId": "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives",
-        "seq": 800
-      }
-    ],
-    "产地": [
+    "上级区域": [
       {
         "value": "罗天南域",
         "docId": "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives",
         "seq": 800
       }
+    ],
+    "方位": [
+      {
+        "value": "罗天南域三大主星之一",
+        "docId": "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives",
+        "seq": 800
+      }
+    ],
+    "守护": [
+      {
+        "value": "十万里外每隔千里一名修士的环形封锁",
+        "docId": "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives",
+        "seq": 800
+      }
     ]
   },
-  "firstSeq": 85,
+  "firstSeq": 800,
   "attrProvenance": {
     "类型": {
       "asOf": null,
@@ -59,13 +50,19 @@
       "dated": false,
       "seq": 800
     },
-    "用途": {
+    "上级区域": {
       "asOf": null,
       "docId": "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives",
       "dated": false,
       "seq": 800
     },
-    "产地": {
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives",
+      "dated": false,
+      "seq": 800
+    },
+    "守护": {
       "asOf": null,
       "docId": "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives",
       "dated": false,
@@ -75,9 +72,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch85-89-jilian-jianqiao",
-    "lore.xianni-ch105-jijing-realm",
     "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives"
   ],
-  "updatedAt": "2026-08-23T14:28:11.194Z"
+  "updatedAt": "2026-08-23T14:28:11.190Z"
 }
