@@ -4,12 +4,15 @@
   "name": "雷之仙界仙人",
   "aliases": [
     "幻家血统源头仙人",
-    "那位仙人"
+    "那位仙人",
+    "庙宇仙人",
+    "留下画作的仙人"
   ],
   "summary": "雷之仙界未崩溃时的一位仙人，幻家血统可追溯至他，其传承仙宝与护族玉简留于幻家。",
   "attributes": {
     "身份": "仙人",
-    "出身地": "雷之仙界"
+    "出身地": "雷之仙界",
+    "标志特征": "留下画作、字迹与彷徨迷茫的气息"
   },
   "observations": {
     "身份": [
@@ -24,6 +27,13 @@
         "value": "雷之仙界",
         "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
         "seq": 641
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "留下画作、字迹与彷徨迷茫的气息",
+        "docId": "plot.xianni-ch759-storage-space-collapse-ready",
+        "seq": 716
       }
     ]
   },
@@ -40,12 +50,19 @@
       "docId": "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
       "dated": false,
       "seq": 641
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch759-storage-space-collapse-ready",
+      "dated": false,
+      "seq": 716
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi"
+    "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
+    "plot.xianni-ch759-storage-space-collapse-ready"
   ],
-  "updatedAt": "2026-08-22T23:33:37.410Z"
+  "updatedAt": "2026-08-23T05:53:51.115Z"
 }

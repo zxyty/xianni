@@ -3,14 +3,16 @@
   "type": "place",
   "name": "第二个山谷",
   "aliases": [
-    "仙人遗物山谷"
+    "仙人遗物山谷",
+    "储物空间第二个山谷"
   ],
   "summary": "入口有无形光幕与吞噬魔影守护的禁地山谷；谷内褐土、数万骸骨、噬骨飞虫，中心八把短剑护着一具四角兽头骨。王林判断整片地貌系从外界搬迁而来，故山无山基。",
   "attributes": {
     "类型": "遗迹禁地",
     "危险度": "极高",
     "守护": "无形光幕、无形吞噬魔影、八把短剑剑阵、绿雾虚影、噬骨飞虫",
-    "特产": "四角兽头骨、八把短剑"
+    "特产": "四角兽头骨、八把短剑",
+    "上级区域": "储物空间"
   },
   "observations": {
     "类型": [
@@ -65,6 +67,13 @@
         "docId": "plot.xianni-ch758-immortal-relic-second-valley",
         "seq": 716
       }
+    ],
+    "上级区域": [
+      {
+        "value": "储物空间",
+        "docId": "plot.xianni-ch759-storage-space-collapse-ready",
+        "seq": 716
+      }
     ]
   },
   "firstSeq": 716,
@@ -92,12 +101,19 @@
       "docId": "plot.xianni-ch758-immortal-relic-second-valley",
       "dated": false,
       "seq": 716
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch759-storage-space-collapse-ready",
+      "dated": false,
+      "seq": 716
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch758-immortal-relic-second-valley"
+    "plot.xianni-ch758-immortal-relic-second-valley",
+    "plot.xianni-ch759-storage-space-collapse-ready"
   ],
-  "updatedAt": "2026-08-23T05:51:54.995Z"
+  "updatedAt": "2026-08-23T05:53:51.132Z"
 }

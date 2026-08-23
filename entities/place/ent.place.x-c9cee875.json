@@ -4,14 +4,15 @@
   "name": "血祖的储物空间",
   "aliases": [
     "储物空间",
-    "血祖储物空间"
+    "血祖储物空间",
+    "仙人的储物空间"
   ],
   "summary": "内有两条山脉、三处山谷的独立空间，天地时现裂缝、无法瞬移；三谷各设禁制护宝。",
   "attributes": {
-    "类型": "法宝内独立空间",
+    "类型": "法宝内独立空间、储物空间/秘境",
     "所属势力": "血祖",
     "规模": "两条山脉、三处山谷",
-    "危险度": "高（空间裂缝密布、禁制阴损）",
+    "危险度": "高（空间裂缝密布、禁制阴损）、极高",
     "守护": "谷内雾气化箭禁制"
   },
   "observations": {
@@ -19,6 +20,11 @@
       {
         "value": "法宝内独立空间",
         "docId": "plot.xianni-c757-beast-bones-storage-space-valleys",
+        "seq": 716
+      },
+      {
+        "value": "储物空间/秘境",
+        "docId": "plot.xianni-ch759-storage-space-collapse-ready",
         "seq": 716
       }
     ],
@@ -41,6 +47,12 @@
         "value": "高（空间裂缝密布、禁制阴损）",
         "docId": "plot.xianni-c757-beast-bones-storage-space-valleys",
         "seq": 716
+      },
+      {
+        "value": "极高",
+        "docId": "plot.xianni-ch759-storage-space-collapse-ready",
+        "seq": 716,
+        "note": "布满1465个崩溃点，随时可引爆"
       }
     ],
     "守护": [
@@ -87,7 +99,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-c757-beast-bones-storage-space-valleys"
+    "plot.xianni-c757-beast-bones-storage-space-valleys",
+    "plot.xianni-ch759-storage-space-collapse-ready"
   ],
-  "updatedAt": "2026-08-23T05:44:41.513Z"
+  "updatedAt": "2026-08-23T05:53:51.131Z"
 }

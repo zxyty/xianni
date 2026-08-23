@@ -5,19 +5,26 @@
   "aliases": [
     "八把短剑",
     "八柄短剑",
-    "短剑剑阵"
+    "短剑剑阵",
+    "攻击王林的八把短剑"
   ],
   "summary": "插于第二山谷中心的八把短剑，与第一山谷短剑同属一套；受触发即飞起攻敌，剑气内蕴仙力，可组成八方剑阵。",
   "attributes": {
-    "外形": "短剑，八把成套",
+    "外形": "短剑，八把成套、八把短剑",
     "能力": "自主御空攻击、剑气蕴含仙力、八方交错组成剑阵",
-    "来历": "与第一山谷短剑同属一套仙人遗物"
+    "来历": "与第一山谷短剑同属一套仙人遗物",
+    "持有者": "李元"
   },
   "observations": {
     "外形": [
       {
         "value": "短剑，八把成套",
         "docId": "plot.xianni-ch758-immortal-relic-second-valley",
+        "seq": 716
+      },
+      {
+        "value": "八把短剑",
+        "docId": "plot.xianni-ch759-storage-space-collapse-ready",
         "seq": 716
       }
     ],
@@ -44,6 +51,14 @@
         "docId": "plot.xianni-ch758-immortal-relic-second-valley",
         "seq": 716
       }
+    ],
+    "持有者": [
+      {
+        "value": "李元",
+        "docId": "plot.xianni-ch759-storage-space-collapse-ready",
+        "seq": 716,
+        "note": "第759章以不明方法掌握"
+      }
     ]
   },
   "firstSeq": 716,
@@ -65,12 +80,20 @@
       "docId": "plot.xianni-ch758-immortal-relic-second-valley",
       "dated": false,
       "seq": 716
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.xianni-ch759-storage-space-collapse-ready",
+      "dated": false,
+      "seq": 716,
+      "note": "第759章以不明方法掌握"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch758-immortal-relic-second-valley"
+    "plot.xianni-ch758-immortal-relic-second-valley",
+    "plot.xianni-ch759-storage-space-collapse-ready"
   ],
-  "updatedAt": "2026-08-23T05:51:54.999Z"
+  "updatedAt": "2026-08-23T05:53:51.123Z"
 }
