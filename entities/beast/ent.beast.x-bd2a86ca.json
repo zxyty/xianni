@@ -9,16 +9,18 @@
     "太古雷龙（章名）",
     "射神车所化雷兽",
     "雷之仙界圣兽",
-    "Lei Beast"
+    "Lei Beast",
+    "开第三道封印的雷兽"
   ],
   "summary": "王林所控雷兽，本章被以血符解开第三道封印：身躯庞大数倍、背生利刺、雷光由银转黑、气息透出逆天之威，散出黑色雷霆风暴，并以兽语震慑雷仙殿雷兽。",
   "attributes": {
     "主人": "雷道子",
-    "能力": "无限雷电、黑色雷霆风暴、兽语震慑同类、雷之威能、引动天雷、降下电雨般连绵雷电轰击、抗衡凌天候神念、吞噬雷球、巨目含电、鼻喷青气、吞食神雷与电龙、吞噬雷光壮大己身、咆哮令符文之雷脱离聚集、咆哮引天雷、化雷之风暴、冲阵如锥、攻击大阵、护主、载人极速穿梭星空、雷光护体",
-    "外形": "角带银中透金光、体型暴涨数倍、背生寒芒利刺、雷光转黑、头上银角，身如麒麟、可化作片片雷芒、威猛雷兽，由电光雷球扩化而成、巨目、吞雷后身躯增大一倍有余，眼中雷光浓郁、全身电光游走、凶目、喷鼻息、看似麒麟但无角，全身雷光闪烁，鼻间两道电龙",
+    "能力": "无限雷电、黑色雷霆风暴、兽语震慑同类、雷之威能、引动天雷、降下电雨般连绵雷电轰击、抗衡凌天候神念、吞噬雷球、巨目含电、鼻喷青气、吞食神雷与电龙、吞噬雷光壮大己身、咆哮令符文之雷脱离聚集、咆哮引天雷、化雷之风暴、冲阵如锥、攻击大阵、护主、载人极速穿梭星空、雷光护体、低声咆哮震慑、参与祭炼、化雷光疾驰、外放雷光",
+    "外形": "角带银中透金光、体型暴涨数倍、背生寒芒利刺、雷光转黑、头上银角，身如麒麟、可化作片片雷芒、威猛雷兽，由电光雷球扩化而成、巨目、吞雷后身躯增大一倍有余，眼中雷光浓郁、全身电光游走、凶目、喷鼻息、看似麒麟但无角，全身雷光闪烁，鼻间两道电龙、体型比之前大三倍，头生银角且金色渐多，鼻喷雷光",
     "血脉": "被同类视为『遥远时期先祖』般不可抵抗",
-    "种族": "雷兽",
-    "栖息地": "雷之仙界"
+    "种族": "雷属性妖兽",
+    "栖息地": "王林洞府",
+    "天敌": "—"
   },
   "observations": {
     "主人": [
@@ -128,6 +130,16 @@
         "value": "雷光护体",
         "docId": "plot.xianni-ch656-660-separation-and-years",
         "seq": 656
+      },
+      {
+        "value": "低声咆哮震慑、参与祭炼",
+        "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
+        "seq": 665
+      },
+      {
+        "value": "化雷光疾驰、外放雷光",
+        "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
+        "seq": 665
       }
     ],
     "外形": [
@@ -172,6 +184,12 @@
         "value": "看似麒麟但无角，全身雷光闪烁，鼻间两道电龙",
         "docId": "plot.xianni-ch656-660-separation-and-years",
         "seq": 656
+      },
+      {
+        "value": "体型比之前大三倍，头生银角且金色渐多，鼻喷雷光",
+        "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
+        "seq": 665,
+        "note": "开第三道封印后"
       }
     ],
     "血脉": [
@@ -202,6 +220,11 @@
         "value": "雷兽",
         "docId": "plot.xianni-ch656-660-separation-and-years",
         "seq": 656
+      },
+      {
+        "value": "雷属性妖兽",
+        "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
+        "seq": 665
       }
     ],
     "栖息地": [
@@ -209,6 +232,18 @@
         "value": "雷之仙界",
         "docId": "plot.xianni-ch683-jing-tui-qian-kui-zi",
         "seq": 641
+      },
+      {
+        "value": "王林洞府",
+        "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
+        "seq": 665
+      }
+    ],
+    "天敌": [
+      {
+        "value": "—",
+        "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
+        "seq": 665
       }
     ]
   },
@@ -240,15 +275,21 @@
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.xianni-ch656-660-separation-and-years",
+      "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
       "dated": false,
-      "seq": 656
+      "seq": 665
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.xianni-ch683-jing-tui-qian-kui-zi",
+      "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
       "dated": false,
-      "seq": 641
+      "seq": 665
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
+      "dated": false,
+      "seq": 665
     }
   },
   "contested": false,
@@ -262,7 +303,8 @@
     "plot.xianni-ch683-jing-tui-qian-kui-zi",
     "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation",
     "plot.xianni-ch685-zhan-luo-jue-po-huan-jia-da-zhen",
-    "plot.xianni-ch656-660-separation-and-years"
+    "plot.xianni-ch656-660-separation-and-years",
+    "plot.xianni-ch705-second-immortal-guard-leidaozi-branded"
   ],
-  "updatedAt": "2026-08-23T00:38:39.108Z"
+  "updatedAt": "2026-08-23T00:58:30.674Z"
 }

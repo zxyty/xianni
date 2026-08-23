@@ -13,8 +13,9 @@
     "所属势力": "炼魂峰",
     "方位": "偏僻之地，近灵脉",
     "特产": "奇花异草、养金色小鱼的池水、错落厅阁",
-    "守护": "洞府之灵",
-    "危险度": "高（多重未解禁制）"
+    "守护": "洞府禁制与幻化巨手、洞府之灵、仙卫傀儡、凌天候的两道剑气、雷兽",
+    "危险度": "高（多重未解禁制）",
+    "所属界面": "罗天星域"
   },
   "observations": {
     "类型": [
@@ -75,6 +76,21 @@
         "value": "洞府之灵",
         "docId": "plot.xianni-ch618-620-scroll-woman-luotian-star-region-seal",
         "seq": 618
+      },
+      {
+        "value": "仙卫傀儡",
+        "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
+        "seq": 665
+      },
+      {
+        "value": "凌天候的两道剑气",
+        "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
+        "seq": 665
+      },
+      {
+        "value": "雷兽",
+        "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
+        "seq": 665
       }
     ],
     "危险度": [
@@ -82,6 +98,13 @@
         "value": "高（多重未解禁制）",
         "docId": "plot.xianni-ch618-620-scroll-woman-luotian-star-region-seal",
         "seq": 618
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "罗天星域",
+        "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
+        "seq": 665
       }
     ]
   },
@@ -113,15 +136,21 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch618-620-scroll-woman-luotian-star-region-seal",
+      "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
       "dated": false,
-      "seq": 618
+      "seq": 363
     },
     "危险度": {
       "asOf": null,
       "docId": "plot.xianni-ch618-620-scroll-woman-luotian-star-region-seal",
       "dated": false,
       "seq": 618
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
+      "dated": false,
+      "seq": 665
     }
   },
   "contested": false,
@@ -129,7 +158,8 @@
   "docs": [
     "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
     "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
-    "plot.xianni-ch618-620-scroll-woman-luotian-star-region-seal"
+    "plot.xianni-ch618-620-scroll-woman-luotian-star-region-seal",
+    "plot.xianni-ch705-second-immortal-guard-leidaozi-branded"
   ],
-  "updatedAt": "2026-08-22T21:02:35.340Z"
+  "updatedAt": "2026-08-23T00:58:30.691Z"
 }

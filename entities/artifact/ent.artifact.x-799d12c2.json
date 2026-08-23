@@ -19,20 +19,25 @@
     "王林的储物袋",
     "姚惜雪的储物袋",
     "四年前的储物袋",
-    "存放仙玉的储物袋"
+    "存放仙玉的储物袋",
+    "雷道子的储物袋",
+    "雷道子储物袋",
+    "无主储物袋"
   ],
   "summary": "恒岳派内门弟子身份标识兼储物法器，可存放衣物、功法等；孙大柱授予王林。",
   "attributes": {
     "持有者": "幻东",
     "能力": "储物、内门弟子身份标识、存放活物（蚊兽）、存放炼器材料、储物、收纳物品、材料、收纳法宝、丹药、储存法宝物品、存放活物（禁制之球中的杜建、姚惜雪）、储物、可存活物、可存放活物、储物取物、存放孙泰骨灰坛",
-    "外形": "扁扁的灰色小袋"
+    "外形": "扁扁的灰色小袋",
+    "来历": "雷道子所有"
   },
   "observations": {
     "持有者": [
       {
         "value": "王林",
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
-        "seq": 13
+        "seq": 13,
+        "note": "原主雷道子元神消散后成为无主之物"
       },
       {
         "value": "周佚",
@@ -124,6 +129,13 @@
         "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
         "seq": 13
       }
+    ],
+    "来历": [
+      {
+        "value": "雷道子所有",
+        "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
+        "seq": 665
+      }
     ]
   },
   "firstSeq": 13,
@@ -145,6 +157,12 @@
       "docId": "plot.xianni-ch13-18-elder-investigation-and-bead-anomaly",
       "dated": false,
       "seq": 13
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
+      "dated": false,
+      "seq": 665
     }
   },
   "contested": false,
@@ -312,7 +330,8 @@
     "plot.xianni-ch683-jing-tui-qian-kui-zi",
     "plot.xianni-ch684-huanjia-split-wanglin-breaks-formation",
     "plot.xianni-ch686-sanmo-appears",
-    "plot.xianni-ch691-departure-sun-tai-death-wangping"
+    "plot.xianni-ch691-departure-sun-tai-death-wangping",
+    "plot.xianni-ch705-second-immortal-guard-leidaozi-branded"
   ],
-  "updatedAt": "2026-08-23T00:18:55.872Z"
+  "updatedAt": "2026-08-23T00:58:30.676Z"
 }

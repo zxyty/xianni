@@ -5,14 +5,16 @@
   "aliases": [
     "雷道子的雷兽",
     "雷仙殿雷兽",
-    "大鼎之上的雷兽"
+    "大鼎之上的雷兽",
+    "解开第三道封印的雷兽",
+    "王林收服的雷兽"
   ],
   "summary": "雷道子召唤的雷兽，由占满天幕的雷光收缩成巨球后化成，英武神骏、鼻喷游龙闪电，雷鸣令冉云星修士心神剧震；血统不纯，面对银角雷兽仍不退缩而死斗。",
   "attributes": {
     "主人": "雷道子",
     "血脉": "血统不纯",
-    "能力": "聚天幕雷光成形、威严雷鸣震动修士心神",
-    "外形": "英武雷兽，鼻喷游龙般闪电",
+    "能力": "聚天幕雷光成形、威严雷鸣震动修士心神、头角发出强大雷光、射出手臂粗细的紫色雷电",
+    "外形": "头生雷角，双目散出雷电",
     "栖息地": "天地大鼎之上",
     "天敌": "王林的雷兽"
   },
@@ -41,6 +43,16 @@
         "value": "威严雷鸣震动修士心神",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
+      },
+      {
+        "value": "头角发出强大雷光",
+        "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
+        "seq": 665
+      },
+      {
+        "value": "射出手臂粗细的紫色雷电",
+        "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
+        "seq": 665
       }
     ],
     "外形": [
@@ -48,6 +60,11 @@
         "value": "英武雷兽，鼻喷游龙般闪电",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
+      },
+      {
+        "value": "头生雷角，双目散出雷电",
+        "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
+        "seq": 665
       }
     ],
     "栖息地": [
@@ -87,9 +104,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+      "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
       "dated": false,
-      "seq": 661
+      "seq": 665
     },
     "栖息地": {
       "asOf": null,
@@ -107,7 +124,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power"
+    "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+    "plot.xianni-ch705-second-immortal-guard-leidaozi-branded"
   ],
-  "updatedAt": "2026-08-17T14:25:16.454Z"
+  "updatedAt": "2026-08-23T00:58:30.620Z"
 }

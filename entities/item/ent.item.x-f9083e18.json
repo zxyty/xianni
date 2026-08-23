@@ -4,13 +4,15 @@
   "name": "血色玉简",
   "aliases": [
     "血玉封印",
-    "血色玉简封印"
+    "血色玉简封印",
+    "传送血玉简",
+    "血祖所赐玉简"
   ],
   "summary": "姚惜雪之父所赠，捏碎后化血光覆盖并消解金色符文/石像威胁，是姚惜雪历次取巧通过封印的凭仗。",
   "attributes": {
-    "类型": "一次性消耗封印玉简",
-    "用途": "覆盖并磨灭金色符文、取巧度过石像封印",
-    "产地": "姚惜雪之父所赠"
+    "类型": "一次性传送法器",
+    "用途": "覆盖并磨灭金色符文、取巧度过石像封印、任意地点一次性传送回血星",
+    "产地": "血祖所赐"
   },
   "observations": {
     "类型": [
@@ -18,6 +20,11 @@
         "value": "一次性消耗封印玉简",
         "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
         "seq": 532
+      },
+      {
+        "value": "一次性传送法器",
+        "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
+        "seq": 665
       }
     ],
     "用途": [
@@ -30,6 +37,11 @@
         "value": "取巧度过石像封印",
         "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
         "seq": 532
+      },
+      {
+        "value": "任意地点一次性传送回血星",
+        "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
+        "seq": 665
       }
     ],
     "产地": [
@@ -38,6 +50,11 @@
         "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
         "seq": 532,
         "note": "来历仅述为其父赠送"
+      },
+      {
+        "value": "血祖所赐",
+        "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
+        "seq": 665
       }
     ]
   },
@@ -45,9 +62,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
+      "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
       "dated": false,
-      "seq": 532
+      "seq": 665
     },
     "用途": {
       "asOf": null,
@@ -57,16 +74,16 @@
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
+      "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
       "dated": false,
-      "seq": 532,
-      "note": "来历仅述为其父赠送"
+      "seq": 665
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch532-533-three-stroke-rune-second-seal"
+    "plot.xianni-ch532-533-three-stroke-rune-second-seal",
+    "plot.xianni-ch705-second-immortal-guard-leidaozi-branded"
   ],
-  "updatedAt": "2026-08-22T08:01:12.083Z"
+  "updatedAt": "2026-08-23T00:58:30.722Z"
 }

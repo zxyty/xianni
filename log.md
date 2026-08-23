@@ -234,3 +234,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T23:56:36.308Z** `ingest` plot.xianni-ch690-xiejia-village-ten-years — 第690章 卸甲：王林化凡十年，抚养王平与意境向因果之道升华 · kind=plot asOf=2026-08-22 entities=16 relations=31 src=00646-00650.p5.md
 - **2026-08-23T00:18:56.109Z** `ingest` plot.xianni-ch691-departure-sun-tai-death-wangping — 第691章 离去——孙泰寿尽长眠，王林携王平离开落月村 · kind=plot asOf=2026-08-23 entities=67 relations=153 src=00651-00655.md
 - **2026-08-23T00:38:39.328Z** `ingest` plot.xianni-ch656-660-separation-and-years — 仙逆 第656-660章：分离与岁月——王平携青宜离城、天行派兴起 · kind=plot asOf=2026-08-23 entities=77 relations=164 src=00656-00660.md
+- **2026-08-23T00:58:30.909Z** `ingest` plot.xianni-ch705-second-immortal-guard-leidaozi-branded — 第705章 第二仙卫：王林降服雷道子、印下双重禁制欲炼仙卫 · kind=plot asOf=2026-08-23 entities=83 relations=122 src=00665-00668.md
