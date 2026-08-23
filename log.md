@@ -360,3 +360,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T19:20:53.795Z** `ingest` plot.xianni-ch905-punishment-hall-immortal-corpses — 第905章 刑罚仙人：仙遗族地下第十七层刑堂与吊仙干尸 · kind=plot asOf=2026-08-23 entities=25 relations=38 src=00840-00844.p2.md
 - **2026-08-23T19:23:11.696Z** `ingest` plot.xianni-ch906-huanglong-arrives-thunder-storm-17th-floor — 第906章 黄龙来临！——王林轮回黄泉收魂、雷霆轰开仙遗族第十八层 · kind=plot asOf=2026-08-23 entities=24 relations=31 src=00840-00844.p3.md
 - **2026-08-23T19:25:51.910Z** `ingest` plot.xianni-ch907-zhuque-sequence — 第907章 朱雀序列：黄龙老道封第十八层，王林感悟符族本源 · kind=plot asOf=2026-08-23 entities=26 relations=41 src=00840-00844.p4.md
+- **2026-08-23T19:28:44.775Z** `ingest` plot.xianni-ch908-departure-zhuque-star-yu-fei-ambush — 仙逆 第908章 离去：老道相赠符族本源感悟、王林骑巨魔离开朱雀星、遭杀域界杀侍于非截杀 · kind=plot asOf=2026-08-23 entities=32 relations=36 src=00840-00844.p5.md
