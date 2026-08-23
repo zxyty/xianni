@@ -232,3 +232,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-22T23:52:49.097Z** `ingest` plot.xianni-ch688-dust-to-dust-liumei-death — 第688章 尘归尘、土归土——柳眉之死与幻无情覆灭 · kind=plot asOf=2026-08-22 entities=28 relations=39 src=00646-00650.p3.md
 - **2026-08-22T23:54:40.968Z** `ingest` plot.xianni-ch689-yi-sheng-bu-yao-xiu-dao — 第689章 一生不要修道：王林隐居落月村抚养王平 · kind=plot asOf=2026-08-22 entities=13 relations=25 src=00646-00650.p4.md
 - **2026-08-22T23:56:36.308Z** `ingest` plot.xianni-ch690-xiejia-village-ten-years — 第690章 卸甲：王林化凡十年，抚养王平与意境向因果之道升华 · kind=plot asOf=2026-08-22 entities=16 relations=31 src=00646-00650.p5.md
+- **2026-08-23T00:18:56.109Z** `ingest` plot.xianni-ch691-departure-sun-tai-death-wangping — 第691章 离去——孙泰寿尽长眠，王林携王平离开落月村 · kind=plot asOf=2026-08-23 entities=67 relations=153 src=00651-00655.md

@@ -5,12 +5,14 @@
   "aliases": [
     "周叔叔",
     "周大哥",
-    "落月村猎户周姓大汉"
+    "落月村猎户周姓大汉",
+    "周若彤之父"
   ],
   "summary": "落月村猎户，魁梧善武，猎得獐鹿，以其为定金请王林为儿子的新房打造家具。",
   "attributes": {
-    "身份": "落月村猎户",
-    "外貌": "身子魁梧，持钢叉箭矢，肩扛獐鹿"
+    "身份": "落月村村民",
+    "外貌": "身子魁梧，持钢叉箭矢，肩扛獐鹿",
+    "性格": "豪爽"
   },
   "observations": {
     "身份": [
@@ -18,6 +20,11 @@
         "value": "落月村猎户",
         "docId": "plot.xianni-ch689-yi-sheng-bu-yao-xiu-dao",
         "seq": 646
+      },
+      {
+        "value": "落月村村民",
+        "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
+        "seq": 651
       }
     ],
     "外貌": [
@@ -26,27 +33,41 @@
         "docId": "plot.xianni-ch689-yi-sheng-bu-yao-xiu-dao",
         "seq": 646
       }
+    ],
+    "性格": [
+      {
+        "value": "豪爽",
+        "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
+        "seq": 651
+      }
     ]
   },
   "firstSeq": 646,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch689-yi-sheng-bu-yao-xiu-dao",
+      "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
       "dated": false,
-      "seq": 646
+      "seq": 651
     },
     "外貌": {
       "asOf": null,
       "docId": "plot.xianni-ch689-yi-sheng-bu-yao-xiu-dao",
       "dated": false,
       "seq": 646
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
+      "dated": false,
+      "seq": 651
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch689-yi-sheng-bu-yao-xiu-dao"
+    "plot.xianni-ch689-yi-sheng-bu-yao-xiu-dao",
+    "plot.xianni-ch691-departure-sun-tai-death-wangping"
   ],
-  "updatedAt": "2026-08-22T23:54:40.809Z"
+  "updatedAt": "2026-08-23T00:18:55.814Z"
 }

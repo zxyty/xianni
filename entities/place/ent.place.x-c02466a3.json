@@ -9,8 +9,10 @@
   "summary": "落月村旁的山峰，五年前曾有可强身健体的云雾，「老天爷发怒」后雾气消失、河水不再甘甜。",
   "attributes": {
     "类型": "山峰",
-    "方位": "落月村北面高处（村旁远处可望）",
-    "所属界面": "冉云星"
+    "方位": "落月村旁",
+    "所属界面": "冉云星",
+    "规模": "高大，峰顶飘着无数云层",
+    "特产": "仙雾（传说吸一口可十年不生病）"
   },
   "observations": {
     "类型": [
@@ -25,6 +27,11 @@
         "value": "落月村北面高处（村旁远处可望）",
         "docId": "plot.xianni-ch689-yi-sheng-bu-yao-xiu-dao",
         "seq": 646
+      },
+      {
+        "value": "落月村旁",
+        "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
+        "seq": 651
       }
     ],
     "所属界面": [
@@ -32,6 +39,21 @@
         "value": "冉云星",
         "docId": "plot.xianni-ch689-yi-sheng-bu-yao-xiu-dao",
         "seq": 646
+      }
+    ],
+    "规模": [
+      {
+        "value": "高大，峰顶飘着无数云层",
+        "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
+        "seq": 651
+      }
+    ],
+    "特产": [
+      {
+        "value": "仙雾（传说吸一口可十年不生病）",
+        "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
+        "seq": 651,
+        "note": "王平幼时听闻的乡野传说"
       }
     ]
   },
@@ -45,21 +67,35 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch689-yi-sheng-bu-yao-xiu-dao",
+      "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
       "dated": false,
-      "seq": 646
+      "seq": 651
     },
     "所属界面": {
       "asOf": null,
       "docId": "plot.xianni-ch689-yi-sheng-bu-yao-xiu-dao",
       "dated": false,
       "seq": 646
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
+      "dated": false,
+      "seq": 651
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
+      "dated": false,
+      "seq": 651,
+      "note": "王平幼时听闻的乡野传说"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch689-yi-sheng-bu-yao-xiu-dao"
+    "plot.xianni-ch689-yi-sheng-bu-yao-xiu-dao",
+    "plot.xianni-ch691-departure-sun-tai-death-wangping"
   ],
-  "updatedAt": "2026-08-22T23:54:40.812Z"
+  "updatedAt": "2026-08-23T00:18:55.842Z"
 }

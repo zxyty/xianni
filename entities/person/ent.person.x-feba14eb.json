@@ -28,18 +28,18 @@
   "summary": "尸阴宗大长老，婴变期修为，被周佚以奇异之光将元神控制之权移交王林，被迫认王林为主。",
   "attributes": {
     "小阶段": "婴变期、婴变中期、化神期",
-    "身份": "尸阴宗大长老、王林的奴仆、尸阴宗朱雀星大长老、朱雀星尸阴宗大长老、王林的仆从、宝合楼三楼单间宾客、冉家客卿、孙家修士",
-    "性格": "苦涩隐忍，见女尸时由精芒转为浓郁恐惧、阴冷、多疑、不甘为奴、粗豪、护短、凶悍粗豪、别有用心、强横、不容他人染指王林、苦涩、畏惧、彻底放下",
-    "存殁": "存活、在世、死亡",
+    "身份": "尸阴宗大长老、王林的奴仆、尸阴宗朱雀星大长老、朱雀星尸阴宗大长老、王林的仆从、宝合楼三楼单间宾客、冉家客卿、孙家修士、王平的义爷爷、与王林平辈",
+    "性格": "苦涩隐忍，见女尸时由精芒转为浓郁恐惧、阴冷、多疑、不甘为奴、粗豪、护短、凶悍粗豪、别有用心、强横、不容他人染指王林、苦涩、畏惧、彻底放下、傲色望天",
+    "存殁": "存活、在世、死亡、已死",
     "元神强度": "四魂（第四魂寄于棺中尸傀，尚未完全成长）",
     "标志特征": "第三魂为本魂；身负奴印、驱使棺材与干尸、可令干尸自爆、攻击中暗含仙气、可施蕴含仙力的仙雷、身上留有王林当年种下的心神烙印，如今极淡、身上仍存周佚的烙印（曾被吕家一人破除但最终仍在）、身上死气更浓",
     "外貌": "红袍老者、沧桑老者，背影充满沧桑、夕阳下更显老态，好似暮年，身上透出一丝死气、略有驼背、满脸皱纹的苍老老人、越加苍老",
-    "结局": "秋天病逝于自家房舍，仅王林父子二人送终",
+    "结局": "骨灰存于王林储物袋，落月村后山立空墓「孙泰之墓」",
     "阵营": "与王林敌对",
     "称号": "大长老",
     "寿元": "约余二十年",
     "出身地": "联盟星域暗月星天山下的村庄",
-    "死因": "寿元大限（提前到来），老死"
+    "死因": "寿元燃尽自然老死；因传授王平修道之术动了生机而提前四年"
   },
   "observations": {
     "小阶段": [
@@ -104,6 +104,16 @@
         "value": "孙家修士",
         "docId": "plot.xianni-ch671-immortal-jade-array-shakes-ranyun-star",
         "seq": 631
+      },
+      {
+        "value": "王平的义爷爷",
+        "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
+        "seq": 651
+      },
+      {
+        "value": "与王林平辈",
+        "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
+        "seq": 651
       }
     ],
     "性格": [
@@ -136,6 +146,12 @@
         "value": "苦涩、畏惧、彻底放下",
         "docId": "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
         "seq": 626
+      },
+      {
+        "value": "傲色望天",
+        "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
+        "seq": 651,
+        "note": "王平木雕所刻其神韵"
       }
     ],
     "存殁": [
@@ -152,7 +168,14 @@
       {
         "value": "死亡",
         "docId": "plot.xianni-ch690-xiejia-village-ten-years",
-        "seq": 646
+        "seq": 646,
+        "note": "第691章"
+      },
+      {
+        "value": "已死",
+        "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
+        "seq": 651,
+        "note": "第646章身亡；本片段仅为叙述性提及"
       }
     ],
     "元神强度": [
@@ -257,6 +280,11 @@
         "value": "秋天病逝于自家房舍，仅王林父子二人送终",
         "docId": "plot.xianni-ch690-xiejia-village-ten-years",
         "seq": 646
+      },
+      {
+        "value": "骨灰存于王林储物袋，落月村后山立空墓「孙泰之墓」",
+        "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
+        "seq": 651
       }
     ],
     "阵营": [
@@ -292,6 +320,11 @@
         "value": "寿元大限（提前到来），老死",
         "docId": "plot.xianni-ch690-xiejia-village-ten-years",
         "seq": 646
+      },
+      {
+        "value": "寿元燃尽自然老死；因传授王平修道之术动了生机而提前四年",
+        "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
+        "seq": 651
       }
     ]
   },
@@ -342,9 +375,9 @@
     },
     "结局": {
       "asOf": null,
-      "docId": "plot.xianni-ch690-xiejia-village-ten-years",
+      "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
       "dated": false,
-      "seq": 646
+      "seq": 651
     },
     "阵营": {
       "asOf": null,
@@ -372,9 +405,9 @@
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.xianni-ch690-xiejia-village-ten-years",
+      "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
       "dated": false,
-      "seq": 646
+      "seq": 651
     }
   },
   "contested": false,
@@ -396,7 +429,8 @@
     "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
     "plot.xianni-ch671-immortal-jade-array-shakes-ranyun-star",
     "plot.xianni-ch689-yi-sheng-bu-yao-xiu-dao",
-    "plot.xianni-ch690-xiejia-village-ten-years"
+    "plot.xianni-ch690-xiejia-village-ten-years",
+    "plot.xianni-ch691-departure-sun-tai-death-wangping"
   ],
-  "updatedAt": "2026-08-22T23:56:36.138Z"
+  "updatedAt": "2026-08-23T00:18:55.864Z"
 }

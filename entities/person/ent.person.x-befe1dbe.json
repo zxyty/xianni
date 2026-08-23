@@ -5,14 +5,16 @@
   "aliases": [
     "本家老祖",
     "海底长发男子",
-    "冉云星东部海洋长发男子"
+    "冉云星东部海洋长发男子",
+    "我孙家老祖"
   ],
   "summary": "孙家本家老祖，盘坐冉云星东部海洋深处。曾以神识降临黑衣老者之身处理此事，判断王林是那突然出现的问鼎修士、看不透其修为并感战栗，认定不可招惹。",
   "attributes": {
     "外貌": "长发男子，着半身，目如明灯",
-    "身份": "孙家本家老祖",
+    "身份": "孙家老祖",
     "阵营": "孙家",
-    "性格": "谨慎、审时度势，视王林为孙家机缘"
+    "性格": "谨慎、审时度势，视王林为孙家机缘",
+    "存殁": "存活"
   },
   "observations": {
     "外貌": [
@@ -27,6 +29,11 @@
         "value": "孙家本家老祖",
         "docId": "plot.xianni-ch665-warning-sun-family-ranyun-star",
         "seq": 621
+      },
+      {
+        "value": "孙家老祖",
+        "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
+        "seq": 651
       }
     ],
     "阵营": [
@@ -42,6 +49,13 @@
         "docId": "plot.xianni-ch665-warning-sun-family-ranyun-star",
         "seq": 621
       }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
+        "seq": 651
+      }
     ]
   },
   "firstSeq": 621,
@@ -54,9 +68,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch665-warning-sun-family-ranyun-star",
+      "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
       "dated": false,
-      "seq": 621
+      "seq": 651
     },
     "阵营": {
       "asOf": null,
@@ -69,12 +83,19 @@
       "docId": "plot.xianni-ch665-warning-sun-family-ranyun-star",
       "dated": false,
       "seq": 621
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch691-departure-sun-tai-death-wangping",
+      "dated": false,
+      "seq": 651
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch665-warning-sun-family-ranyun-star"
+    "plot.xianni-ch665-warning-sun-family-ranyun-star",
+    "plot.xianni-ch691-departure-sun-tai-death-wangping"
   ],
-  "updatedAt": "2026-08-22T22:29:51.435Z"
+  "updatedAt": "2026-08-23T00:18:55.887Z"
 }
