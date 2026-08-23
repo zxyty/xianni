@@ -2,11 +2,16 @@
   "id": "ent.person.x-fd22fc99",
   "type": "person",
   "name": "黑煞魔尊",
-  "aliases": [],
+  "aliases": [
+    "黑煞",
+    "Hei Sha Mo Zun"
+  ],
   "summary": "面色阴沉盯着十八罗浮，欲冲出毁之，被血神子拦下。",
   "attributes": {
-    "阵营": "修真联盟一方",
-    "性格": "面色阴沉"
+    "阵营": "修真联盟",
+    "性格": "面色阴沉",
+    "身份": "修真联盟四尊之一",
+    "标志特征": "腥风化庞大巨鲸，张口吞吸天地元气"
   },
   "observations": {
     "阵营": [
@@ -14,6 +19,11 @@
         "value": "修真联盟一方",
         "docId": "plot.xianni-ch917-luotian-counterattack",
         "seq": 853
+      },
+      {
+        "value": "修真联盟",
+        "docId": "plot.xianni-ch922-jixiantian-north-battle",
+        "seq": 855
       }
     ],
     "性格": [
@@ -22,27 +32,54 @@
         "docId": "plot.xianni-ch917-luotian-counterattack",
         "seq": 853
       }
+    ],
+    "身份": [
+      {
+        "value": "修真联盟四尊之一",
+        "docId": "plot.xianni-ch922-jixiantian-north-battle",
+        "seq": 855
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "腥风化庞大巨鲸，张口吞吸天地元气",
+        "docId": "plot.xianni-ch922-jixiantian-north-battle",
+        "seq": 855
+      }
     ]
   },
   "firstSeq": 853,
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch917-luotian-counterattack",
+      "docId": "plot.xianni-ch922-jixiantian-north-battle",
       "dated": false,
-      "seq": 853
+      "seq": 855
     },
     "性格": {
       "asOf": null,
       "docId": "plot.xianni-ch917-luotian-counterattack",
       "dated": false,
       "seq": 853
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch922-jixiantian-north-battle",
+      "dated": false,
+      "seq": 855
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch922-jixiantian-north-battle",
+      "dated": false,
+      "seq": 855
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch917-luotian-counterattack"
+    "plot.xianni-ch917-luotian-counterattack",
+    "plot.xianni-ch922-jixiantian-north-battle"
   ],
-  "updatedAt": "2026-08-23T20:01:28.503Z"
+  "updatedAt": "2026-08-23T20:06:36.557Z"
 }

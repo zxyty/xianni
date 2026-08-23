@@ -3,12 +3,14 @@
   "type": "place",
   "name": "联盟北部",
   "aliases": [
-    "修真联盟北部"
+    "修真联盟北部",
+    "联盟北部星域"
   ],
   "summary": "炎雷子约定一个月后待罗天后援来临即随军直入的进攻方向。",
   "attributes": {
-    "方位": "修真联盟北部",
-    "所属势力": "修真联盟"
+    "方位": "联盟星域北部",
+    "所属势力": "修真联盟",
+    "上级区域": "联盟星域"
   },
   "observations": {
     "方位": [
@@ -16,6 +18,11 @@
         "value": "修真联盟北部",
         "docId": "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu",
         "seq": 845
+      },
+      {
+        "value": "联盟星域北部",
+        "docId": "plot.xianni-ch922-jixiantian-north-battle",
+        "seq": 855
       }
     ],
     "所属势力": [
@@ -24,27 +31,41 @@
         "docId": "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu",
         "seq": 845
       }
+    ],
+    "上级区域": [
+      {
+        "value": "联盟星域",
+        "docId": "plot.xianni-ch922-jixiantian-north-battle",
+        "seq": 855
+      }
     ]
   },
   "firstSeq": 845,
   "attrProvenance": {
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu",
+      "docId": "plot.xianni-ch922-jixiantian-north-battle",
       "dated": false,
-      "seq": 845
+      "seq": 855
     },
     "所属势力": {
       "asOf": null,
       "docId": "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu",
       "dated": false,
       "seq": 845
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch922-jixiantian-north-battle",
+      "dated": false,
+      "seq": 855
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu"
+    "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu",
+    "plot.xianni-ch922-jixiantian-north-battle"
   ],
-  "updatedAt": "2026-08-23T19:44:50.548Z"
+  "updatedAt": "2026-08-23T20:06:36.573Z"
 }
