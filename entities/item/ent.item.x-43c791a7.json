@@ -4,12 +4,13 @@
   "name": "怨气玉简",
   "aliases": [
     "收怨气的玉简",
-    "上千枚玉简"
+    "上千枚玉简",
+    "另一批怨气玉简"
   ],
   "summary": "张新海用以封存青灵星所有凡人怨气的玉简，共上千枚，怨气庞大如风暴。",
   "attributes": {
-    "类型": "储存法器/玉简",
-    "用途": "封存并运送凡人怨气"
+    "类型": "储存法器/玉简、玉简",
+    "用途": "封存并运送凡人怨气、与黄泉泉魂凝聚苏醒相关"
   },
   "observations": {
     "类型": [
@@ -17,12 +18,22 @@
         "value": "储存法器/玉简",
         "docId": "plot.xianni-ch732-daluo-perfection-and-xu-liguo-antics",
         "seq": 693
+      },
+      {
+        "value": "玉简",
+        "docId": "plot.xianni-733-qiang-ding-wanglin-wending-yuanman-qiang-leiding",
+        "seq": 693
       }
     ],
     "用途": [
       {
         "value": "封存并运送凡人怨气",
         "docId": "plot.xianni-ch732-daluo-perfection-and-xu-liguo-antics",
+        "seq": 693
+      },
+      {
+        "value": "与黄泉泉魂凝聚苏醒相关",
+        "docId": "plot.xianni-733-qiang-ding-wanglin-wending-yuanman-qiang-leiding",
         "seq": 693
       }
     ]
@@ -45,7 +56,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch732-daluo-perfection-and-xu-liguo-antics"
+    "plot.xianni-ch732-daluo-perfection-and-xu-liguo-antics",
+    "plot.xianni-733-qiang-ding-wanglin-wending-yuanman-qiang-leiding"
   ],
-  "updatedAt": "2026-08-23T03:48:12.864Z"
+  "updatedAt": "2026-08-23T03:51:11.245Z"
 }

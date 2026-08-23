@@ -10,11 +10,12 @@
   ],
   "summary": "一颗水蓝色的废弃星球，海洋占大半、凡人众多、灵气稀薄，最高修为仅元婴且无化神，修真家族林立；气息与朱雀星极似，第730章起成为王林的修真星。",
   "attributes": {
-    "类型": "修真星球",
+    "类型": "修真星／王林洞府",
     "所属势力": "王林",
-    "特产": "修真家族众多、凡人国家密集",
+    "特产": "修真家族众多、凡人国家密集、升仙果（王林所植）",
     "危险度": "低（最高修为仅元婴，无化神）",
-    "规模": "海洋占大半的水蓝色星球，罡风层稀薄"
+    "规模": "海洋占大半的水蓝色星球，罡风层稀薄",
+    "方位": "西北之地有广阔荒漠"
   },
   "observations": {
     "类型": [
@@ -22,6 +23,11 @@
         "value": "修真星球",
         "docId": "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
         "seq": 689
+      },
+      {
+        "value": "修真星／王林洞府",
+        "docId": "plot.xianni-733-qiang-ding-wanglin-wending-yuanman-qiang-leiding",
+        "seq": 693
       }
     ],
     "所属势力": [
@@ -42,6 +48,11 @@
         "value": "凡人国家密集",
         "docId": "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
         "seq": 689
+      },
+      {
+        "value": "升仙果（王林所植）",
+        "docId": "plot.xianni-733-qiang-ding-wanglin-wending-yuanman-qiang-leiding",
+        "seq": 693
       }
     ],
     "危险度": [
@@ -58,15 +69,22 @@
         "docId": "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
         "seq": 689
       }
+    ],
+    "方位": [
+      {
+        "value": "西北之地有广阔荒漠",
+        "docId": "plot.xianni-733-qiang-ding-wanglin-wending-yuanman-qiang-leiding",
+        "seq": 693
+      }
     ]
   },
   "firstSeq": 689,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
+      "docId": "plot.xianni-733-qiang-ding-wanglin-wending-yuanman-qiang-leiding",
       "dated": false,
-      "seq": 689
+      "seq": 693
     },
     "所属势力": {
       "asOf": null,
@@ -93,13 +111,20 @@
       "docId": "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
       "dated": false,
       "seq": 689
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-733-qiang-ding-wanglin-wending-yuanman-qiang-leiding",
+      "dated": false,
+      "seq": 693
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
-    "plot.xianni-ch732-daluo-perfection-and-xu-liguo-antics"
+    "plot.xianni-ch732-daluo-perfection-and-xu-liguo-antics",
+    "plot.xianni-733-qiang-ding-wanglin-wending-yuanman-qiang-leiding"
   ],
-  "updatedAt": "2026-08-23T03:48:12.862Z"
+  "updatedAt": "2026-08-23T03:51:11.229Z"
 }
