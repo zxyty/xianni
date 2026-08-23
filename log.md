@@ -386,3 +386,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T21:24:36.454Z** `ingest` plot.xianni-ch936-yuweng-wangyue-guushen-youzi — 《仙逆》第936章 渔翁——望月体内元力被封印，王林坐观武东禅与一木子争夺古神幼子 · kind=plot asOf=2026-08-23 entities=23 relations=28 src=00865-00869.p5.md
 - **2026-08-23T21:27:05.407Z** `ingest` plot.xianni-ch937-hua-di-wei-lao — 仙逆 第937章 画地为牢：清水擒玄宝上人元神，血手夺人 · kind=plot asOf=2026-08-23 entities=26 relations=33 src=00870-00875.p1.md
 - **2026-08-23T21:27:40.030Z** `ingest` lore.xianni-v8-ch938-gushen-kuilei-zhi-shu-title — 《仙逆》第八卷 联盟隐秘 第938章 古神傀儡之术（仅章节标题） · kind=lore asOf=2026-08-23 entities=2 relations=0 src=00870-00875.p2.md
+- **2026-08-23T21:30:17.998Z** `ingest` plot.xianni-ch938-qingshui-rescue-xuanbao-wangyue-expelled — 第938章 清水暴走救玄宝、王林抢元神引爆飞剑逼望月吐出众人 · kind=plot asOf=2026-08-23 entities=27 relations=37 src=00870-00875.p3.md

@@ -9,15 +9,18 @@
     "修真星内部",
     "望月腹内",
     "狭长之路",
-    "望月体内深处"
+    "望月体内深处",
+    "望月身体内部",
+    "肉壁通道",
+    "漩涡狭长通道"
   ],
   "summary": "望月躯体所化的修真星内部，泥土层层，隔绝天地之力、无法瞬移，外裹黑雾；内有望月骨与如蛛网般的红色神经细丝。",
   "attributes": {
-    "类型": "凶兽体内所化修真星、凶兽体腔（伪装为修真星内部）、生物体内秘境",
+    "类型": "凶兽体内所化修真星、凶兽体腔（伪装为修真星内部）、生物体内秘境、生物体内空间",
     "危险度": "极高、极高（触手免疫神通法宝、吸收元神，无人能逃出）、极高（触手吸元力、生机、道念）",
     "特产": "望月骨、红色细丝（望月神经）、深处传出穿透灵魂的『来、来』呼唤源头",
     "方位": "望月所化修真星内部",
-    "上级区域": "罗天北域"
+    "上级区域": "黑暗的虚无"
   },
   "observations": {
     "类型": [
@@ -35,6 +38,11 @@
         "value": "生物体内秘境",
         "docId": "plot.xianni-ch839-perfect-seal-yao-bingyun",
         "seq": 780
+      },
+      {
+        "value": "生物体内空间",
+        "docId": "plot.xianni-ch938-qingshui-rescue-xuanbao-wangyue-expelled",
+        "seq": 870
       }
     ],
     "危险度": [
@@ -89,6 +97,11 @@
         "value": "罗天北域",
         "docId": "plot.xianni-ch833-wangyue-awakens",
         "seq": 775
+      },
+      {
+        "value": "黑暗的虚无",
+        "docId": "plot.xianni-ch938-qingshui-rescue-xuanbao-wangyue-expelled",
+        "seq": 870
       }
     ]
   },
@@ -120,9 +133,9 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch833-wangyue-awakens",
+      "docId": "plot.xianni-ch938-qingshui-rescue-xuanbao-wangyue-expelled",
       "dated": false,
-      "seq": 775
+      "seq": 870
     }
   },
   "contested": false,
@@ -130,7 +143,8 @@
   "docs": [
     "plot.xianni-ch832-wangyue-zhi-xi-yao-bingyun-battle",
     "plot.xianni-ch833-wangyue-awakens",
-    "plot.xianni-ch839-perfect-seal-yao-bingyun"
+    "plot.xianni-ch839-perfect-seal-yao-bingyun",
+    "plot.xianni-ch938-qingshui-rescue-xuanbao-wangyue-expelled"
   ],
-  "updatedAt": "2026-08-23T13:00:29.468Z"
+  "updatedAt": "2026-08-23T21:30:17.777Z"
 }
