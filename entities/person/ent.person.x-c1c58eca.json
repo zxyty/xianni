@@ -6,7 +6,9 @@
     "沈腰潘鬓中年文士",
     "秘市中年文士",
     "中年文士木雕原型",
-    "虚无中的中年文士"
+    "虚无中的中年文士",
+    "被搜神的中年文士",
+    "文士修士"
   ],
   "summary": "战神殿元婴期高手，面如冠玉、温文尔雅带傲气，主张六人联手收服火灵兽。",
   "attributes": {
@@ -14,7 +16,9 @@
     "外貌": "中年文士",
     "性格": "傲气",
     "标志特征": "任何异兽见之便远远避开",
-    "身份": "王林木雕题材"
+    "身份": "王林木雕题材",
+    "存殁": "死亡",
+    "死因": "被王林搜神取忆后神识消散，元神被收入十亿尊魂幡"
   },
   "observations": {
     "小阶段": [
@@ -67,6 +71,20 @@
         "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
         "seq": 244
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch768-769-xuanchen-star-betrayal-xu-mu-exposed",
+        "seq": 768
+      }
+    ],
+    "死因": [
+      {
+        "value": "被王林搜神取忆后神识消散，元神被收入十亿尊魂幡",
+        "docId": "plot.xianni-ch768-769-xuanchen-star-betrayal-xu-mu-exposed",
+        "seq": 768
+      }
     ]
   },
   "firstSeq": 119,
@@ -101,6 +119,18 @@
       "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
       "dated": false,
       "seq": 244
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch768-769-xuanchen-star-betrayal-xu-mu-exposed",
+      "dated": false,
+      "seq": 768
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch768-769-xuanchen-star-betrayal-xu-mu-exposed",
+      "dated": false,
+      "seq": 768
     }
   },
   "contested": false,
@@ -109,7 +139,8 @@
     "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
     "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
     "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
-    "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet"
+    "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
+    "plot.xianni-ch768-769-xuanchen-star-betrayal-xu-mu-exposed"
   ],
-  "updatedAt": "2026-08-08T05:08:08.175Z"
+  "updatedAt": "2026-08-23T12:12:11.983Z"
 }

@@ -286,3 +286,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T10:56:47.599Z** `ingest` plot.xianni-ch764-765-tashan-xianwei-cangpinge — 第764-765章 塔山、仙卫：清点雷之仙界收获与仙选族反抗 · kind=plot asOf=2026-08-23 entities=51 relations=87 src=00764-00765.md
 - **2026-08-23T12:01:50.335Z** `ingest` plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin — 仙逆第766-767章：五分身自爆、白骨黑衣人与封仙印之争 · kind=plot asOf=2026-08-23 entities=71 relations=128 src=00766-00767.p1.md
 - **2026-08-23T12:04:34.430Z** `ingest` plot.xianni-820-luotian-fengxian-yaojia-tianqiongling — 第820章 两件大事：罗天封仙备战与姚家天穹令通缉许木 · kind=plot asOf=2026-08-23 entities=29 relations=39 src=00766-00767.p2.md
+- **2026-08-23T12:12:12.156Z** `ingest` plot.xianni-ch768-769-xuanchen-star-betrayal-xu-mu-exposed — 第768-769章 许木！——玄尘星三修出卖行踪，王林反杀搜魂 · kind=plot asOf=2026-08-23 entities=43 relations=71 src=00768-00769.md
