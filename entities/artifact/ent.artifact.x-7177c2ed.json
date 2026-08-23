@@ -5,14 +5,17 @@
   "aliases": [
     "Xuan Yin Ding",
     "玄阴之鼎",
-    "玄阴鼎（仙选族守护之物）"
+    "玄阴鼎（仙选族守护之物）",
+    "玄阴鼎之地",
+    "十丈巨鼎",
+    "玄阴大鼎"
   ],
   "summary": "逍遥仙王命仙遗族世代守护之物，位于仙遗族禁地；自三万年前起每隔百年开启一次，喷出化作雾兽的黑雾。",
   "attributes": {
-    "能力": "每百年开启一次并喷出大片黑雾，黑雾化作雾兽、内含雾兽",
-    "来历": "逍遥仙王遗留，命仙遗族世代守护、仙王仙谕指定由仙选族守护",
-    "禁制": "所在地为仙遗族禁地",
-    "外形": "鼎"
+    "能力": "每百年开启一次并喷出大片黑雾，黑雾化作雾兽、内含雾兽、每隔一段时间喷出雾气，雾气化作各种样子屠杀仙选族人、鼎内有女音尖锐厉啸，肉耳不可闻、唯神识可察，蕴含浓郁杀机",
+    "来历": "逍遥仙王遗留，命仙遗族世代守护、仙王仙谕指定由仙选族守护、当年逍遥仙王留下，命仙选族世代守护，直至其再次到来",
+    "禁制": "鼎口黑气被奇异力量封印无法离开；四周九个人骨头骨眉心刻符文、乌光闪烁形如阵法",
+    "外形": "十丈大小的巨鼎，鼎面刻无数符文印记"
   },
   "observations": {
     "能力": [
@@ -25,6 +28,16 @@
         "value": "内含雾兽",
         "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
         "seq": 753
+      },
+      {
+        "value": "每隔一段时间喷出雾气，雾气化作各种样子屠杀仙选族人",
+        "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+        "seq": 758
+      },
+      {
+        "value": "鼎内有女音尖锐厉啸，肉耳不可闻、唯神识可察，蕴含浓郁杀机",
+        "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+        "seq": 758
       }
     ],
     "来历": [
@@ -37,6 +50,11 @@
         "value": "仙王仙谕指定由仙选族守护",
         "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
         "seq": 753
+      },
+      {
+        "value": "当年逍遥仙王留下，命仙选族世代守护，直至其再次到来",
+        "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+        "seq": 758
       }
     ],
     "禁制": [
@@ -44,6 +62,11 @@
         "value": "所在地为仙遗族禁地",
         "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
         "seq": 753
+      },
+      {
+        "value": "鼎口黑气被奇异力量封印无法离开；四周九个人骨头骨眉心刻符文、乌光闪烁形如阵法",
+        "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+        "seq": 758
       }
     ],
     "外形": [
@@ -51,6 +74,11 @@
         "value": "鼎",
         "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
         "seq": 753
+      },
+      {
+        "value": "十丈大小的巨鼎，鼎面刻无数符文印记",
+        "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+        "seq": 758
       }
     ]
   },
@@ -70,21 +98,22 @@
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
+      "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
       "dated": false,
-      "seq": 753
+      "seq": 758
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
+      "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
       "dated": false,
-      "seq": 753
+      "seq": 758
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name"
+    "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
+    "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid"
   ],
-  "updatedAt": "2026-08-23T10:07:25.219Z"
+  "updatedAt": "2026-08-23T10:25:07.235Z"
 }

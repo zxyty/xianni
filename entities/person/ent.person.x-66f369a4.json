@@ -5,18 +5,22 @@
   "aliases": [
     "十三叶大汉",
     "Ta Shan",
-    "仙选族符士塔山"
+    "仙选族符士塔山",
+    "大汉塔山",
+    "祭坛守护者塔山",
+    "仙选族塔山"
   ],
   "summary": "仙选族十三叶符士，肉身强横、炼化出仙赐灵甲，公开否认仙人存在并向王林出手。",
   "attributes": {
     "性别": "男",
     "种族": "仙选族",
-    "身份": "符士（非符咒师，以肉身强大见长）",
+    "身份": "符士（非符咒师，以肉身强大见长）、仙选族族人、这一代的祭坛守护者",
     "标志特征": "眉心十三叶植物；体表符文印记",
-    "外貌": "高大大汉，披黑色灵甲如远古巨人",
-    "性格": "桀骜不信仙、战意极盛",
+    "外貌": "大汉",
+    "性格": "果断、隐忍、执着求真",
     "阵营": "仙选族（不信仙派）",
-    "存殁": "重伤未死"
+    "存殁": "存活",
+    "元神强度": "受伤"
   },
   "observations": {
     "性别": [
@@ -38,6 +42,17 @@
         "value": "符士（非符咒师，以肉身强大见长）",
         "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
         "seq": 753
+      },
+      {
+        "value": "仙选族族人",
+        "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+        "seq": 758
+      },
+      {
+        "value": "这一代的祭坛守护者",
+        "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+        "seq": 758,
+        "note": "第807章自陈"
       }
     ],
     "标志特征": [
@@ -52,6 +67,11 @@
         "value": "高大大汉，披黑色灵甲如远古巨人",
         "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
         "seq": 753
+      },
+      {
+        "value": "大汉",
+        "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+        "seq": 758
       }
     ],
     "性格": [
@@ -59,6 +79,11 @@
         "value": "桀骜不信仙、战意极盛",
         "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
         "seq": 753
+      },
+      {
+        "value": "果断、隐忍、执着求真",
+        "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+        "seq": 758
       }
     ],
     "阵营": [
@@ -74,6 +99,20 @@
         "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
         "seq": 753,
         "note": "第805章：全身破损、七窍流血，仍存战意"
+      },
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+        "seq": 758,
+        "note": "第806章，王林手下留情"
+      }
+    ],
+    "元神强度": [
+      {
+        "value": "受伤",
+        "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+        "seq": 758,
+        "note": "被玄阴鼎灵尖啸震伤，面无血色、双目黯淡"
       }
     ]
   },
@@ -105,15 +144,15 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
+      "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
       "dated": false,
-      "seq": 753
+      "seq": 758
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
+      "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
       "dated": false,
-      "seq": 753
+      "seq": 758
     },
     "阵营": {
       "asOf": null,
@@ -123,16 +162,24 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
+      "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
       "dated": false,
-      "seq": 753,
-      "note": "第805章：全身破损、七窍流血，仍存战意"
+      "seq": 758,
+      "note": "第806章，王林手下留情"
+    },
+    "元神强度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+      "dated": false,
+      "seq": 758,
+      "note": "被玄阴鼎灵尖啸震伤，面无血色、双目黯淡"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name"
+    "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
+    "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid"
   ],
-  "updatedAt": "2026-08-23T10:07:25.214Z"
+  "updatedAt": "2026-08-23T10:25:07.309Z"
 }

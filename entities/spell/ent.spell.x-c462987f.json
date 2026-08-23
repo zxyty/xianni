@@ -6,12 +6,14 @@
     "天地之雷球",
     "真正的雷",
     "双手雷球",
-    "元神雷威雷球"
+    "元神雷威雷球",
+    "雷霆神通",
+    "元神雷威"
   ],
   "summary": "王林分元神融入右手掌心凝成的拳头大小雷球，一出现即引动整个天幕阴云之雷如狂龙般汇聚，威力可崩溃引雷法宝并撼动整颗星辰。",
   "attributes": {
-    "类型": "雷系攻击/驱散术法",
-    "威力": "崩溃引雷铁棍，震颤整个冉云星，名山巨峰坍塌",
+    "类型": "雷系攻击",
+    "威力": "数十雷球合一可轰溃人形雾兽",
     "消耗": "分一股元神融入其中"
   },
   "observations": {
@@ -25,6 +27,11 @@
         "value": "雷系攻击/驱散术法",
         "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
         "seq": 753
+      },
+      {
+        "value": "雷系攻击",
+        "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+        "seq": 758
       }
     ],
     "威力": [
@@ -32,6 +39,11 @@
         "value": "崩溃引雷铁棍，震颤整个冉云星，名山巨峰坍塌",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
+      },
+      {
+        "value": "数十雷球合一可轰溃人形雾兽",
+        "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+        "seq": 758
       }
     ],
     "消耗": [
@@ -46,15 +58,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
+      "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
       "dated": false,
-      "seq": 753
+      "seq": 758
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+      "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
       "dated": false,
-      "seq": 661
+      "seq": 758
     },
     "消耗": {
       "asOf": null,
@@ -67,7 +79,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
-    "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name"
+    "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
+    "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid"
   ],
-  "updatedAt": "2026-08-23T10:07:25.173Z"
+  "updatedAt": "2026-08-23T10:25:07.210Z"
 }

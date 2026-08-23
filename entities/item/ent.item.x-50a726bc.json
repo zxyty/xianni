@@ -4,12 +4,14 @@
   "name": "白凡仙简",
   "aliases": [
     "仙简",
-    "记载清水生平的仙玉"
+    "记载清水生平的仙玉",
+    "射神车制作者的仙简",
+    "仙简遗训"
   ],
   "summary": "仙帝白凡留下的古老仙玉，记录其弟子清水的生平；炎雷子自储物袋取出交给清水，清水看后吞入口中。",
   "attributes": {
-    "类型": "仙玉/仙简（记载类）",
-    "用途": "记录清水生平，用以唤起其记忆",
+    "类型": "记载类简牍",
+    "用途": "传承说明与告诫",
     "产地": "仙界（白凡遗留）"
   },
   "observations": {
@@ -18,6 +20,11 @@
         "value": "仙玉/仙简（记载类）",
         "docId": "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
         "seq": 746
+      },
+      {
+        "value": "记载类简牍",
+        "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+        "seq": 758
       }
     ],
     "用途": [
@@ -25,6 +32,11 @@
         "value": "记录清水生平，用以唤起其记忆",
         "docId": "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
         "seq": 746
+      },
+      {
+        "value": "传承说明与告诫",
+        "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+        "seq": 758
       }
     ],
     "产地": [
@@ -39,15 +51,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
+      "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
       "dated": false,
-      "seq": 746
+      "seq": 758
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
+      "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
       "dated": false,
-      "seq": 746
+      "seq": 758
     },
     "产地": {
       "asOf": null,
@@ -59,7 +71,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-746-750-mysterious-elder-lures-evil-youth"
+    "plot.xianni-746-750-mysterious-elder-lures-evil-youth",
+    "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid"
   ],
-  "updatedAt": "2026-08-23T09:25:34.784Z"
+  "updatedAt": "2026-08-23T10:25:07.298Z"
 }

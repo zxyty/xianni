@@ -5,13 +5,15 @@
   "aliases": [
     "死阵",
     "仙阵",
-    "暗格阵法"
+    "暗格阵法",
+    "仙选族仙阵"
   ],
   "summary": "刻于引仙府东首地面的仙人暗格阵法，因维持仙力耗尽而成无波动的“死阵”，以血复生机、异法开启时首次会泄灵。",
   "attributes": {
-    "效果": "封锁暗格入口、首次异法开启时泄灵喷出光柱",
+    "效果": "封锁暗格入口、首次异法开启时泄灵喷出光柱、杀死人形雾兽",
     "出处": "雷之仙界仙人店铺",
-    "破解法": "以指尖血注入恢复生机后，再以禁制手段开启（异法开启须先经泄灵）"
+    "破解法": "以指尖血注入恢复生机后，再以禁制手段开启（异法开启须先经泄灵）",
+    "布置者": "仙选族"
   },
   "observations": {
     "效果": [
@@ -24,6 +26,11 @@
         "value": "首次异法开启时泄灵喷出光柱",
         "docId": "plot.xianni-ch775-dark-hole-yinxian-mansion",
         "seq": 731
+      },
+      {
+        "value": "杀死人形雾兽",
+        "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+        "seq": 758
       }
     ],
     "出处": [
@@ -38,6 +45,13 @@
         "value": "以指尖血注入恢复生机后，再以禁制手段开启（异法开启须先经泄灵）",
         "docId": "plot.xianni-ch775-dark-hole-yinxian-mansion",
         "seq": 731
+      }
+    ],
+    "布置者": [
+      {
+        "value": "仙选族",
+        "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+        "seq": 758
       }
     ]
   },
@@ -60,12 +74,19 @@
       "docId": "plot.xianni-ch775-dark-hole-yinxian-mansion",
       "dated": false,
       "seq": 731
+    },
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+      "dated": false,
+      "seq": 758
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch775-dark-hole-yinxian-mansion"
+    "plot.xianni-ch775-dark-hole-yinxian-mansion",
+    "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid"
   ],
-  "updatedAt": "2026-08-23T07:40:20.316Z"
+  "updatedAt": "2026-08-23T10:25:07.217Z"
 }

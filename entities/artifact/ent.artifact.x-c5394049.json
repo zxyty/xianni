@@ -3,13 +3,15 @@
   "type": "artifact",
   "name": "手背兽骨",
   "aliases": [
-    "王林手背上的兽骨"
+    "王林手背上的兽骨",
+    "手背上的兽骨图案"
   ],
   "summary": "王林右手手背上的兽骨，可幻化而出绕身徘徊，散出幽光护体。",
   "attributes": {
     "持有者": "王林",
-    "能力": "幻化护体、散发幽光",
-    "外形": "附于右手手背的兽骨"
+    "能力": "幻化护体、散发幽光、散发煞气、使目标石化",
+    "外形": "巨大兽骨，双目幽光",
+    "禁制": "平时以图案形态附于王林手背"
   },
   "observations": {
     "持有者": [
@@ -24,6 +26,16 @@
         "value": "幻化护体、散发幽光",
         "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
         "seq": 736
+      },
+      {
+        "value": "散发煞气",
+        "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+        "seq": 758
+      },
+      {
+        "value": "使目标石化",
+        "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+        "seq": 758
       }
     ],
     "外形": [
@@ -31,6 +43,18 @@
         "value": "附于右手手背的兽骨",
         "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
         "seq": 736
+      },
+      {
+        "value": "巨大兽骨，双目幽光",
+        "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+        "seq": 758
+      }
+    ],
+    "禁制": [
+      {
+        "value": "平时以图案形态附于王林手背",
+        "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+        "seq": 758
       }
     ]
   },
@@ -50,15 +74,22 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+      "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
       "dated": false,
-      "seq": 736
+      "seq": 758
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+      "dated": false,
+      "seq": 758
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch779-jijing-reappears-vortex-seal-broken"
+    "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+    "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid"
   ],
-  "updatedAt": "2026-08-23T08:06:47.655Z"
+  "updatedAt": "2026-08-23T10:25:07.213Z"
 }
