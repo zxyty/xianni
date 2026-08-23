@@ -9,19 +9,21 @@
     "修真联盟四尊之首",
     "贤尊",
     "贤尊极贤天",
-    "极贤天上人"
+    "极贤天上人",
+    "极限提"
   ],
   "summary": "修真联盟隐藏的强者，外貌千娇百媚如女子实为男子；尖啸可震杀修士并崩溃罗浮、吸纳天地元气，以无尽寒气化万丈冰川与炎雷子相抗。",
   "attributes": {
     "性别": "男",
     "外貌": "双目黯淡、时而闪过挣扎",
-    "标志特征": "洁白如玉的手掌、尖锐刺耳的声音、无尽寒气与万丈冰川、十三层蓝意（规则之力）、万丈冰刃、寒气冰川、体内有来自八星古神的古神一星",
+    "标志特征": "洁白如玉的手掌、尖锐刺耳的声音、无尽寒气与万丈冰川、十三层蓝意（规则之力）、万丈冰刃、寒气冰川、体内有来自八星古神的古神一星、速度快到音爆、超越瞬移；体内无元力；擅长肉身之力",
     "阵营": "修真联盟",
     "称号": "成名数万年的老怪、当年联盟排行第九、贤尊",
     "性格": "阴沉、果断、睚眦必报",
-    "存殁": "重伤逃遁、被望月吞噬",
-    "身份": "古神傀儡",
-    "死因": "自爆四层蓝意后重伤，被逼出裂缝为望月吞噬"
+    "存殁": "重伤逃遁、被望月吞噬、死亡",
+    "身份": "修真联盟四尊之首、修真联盟四尊之一、古神傀儡、傀儡",
+    "死因": "被王林定身术定住后，遭一木子木剑、武东禅气泡、金龙五行皇冠三重合击轰然崩溃",
+    "结局": "身躯崩溃，血肉中留下一颗拳头大小、蕴含古神之力的紫星，被王林以「力之传承」吸取"
   },
   "observations": {
     "性别": [
@@ -70,6 +72,11 @@
         "value": "体内有来自八星古神的古神一星",
         "docId": "plot.xianni-ch938-qingshui-rescue-xuanbao-wangyue-expelled",
         "seq": 870
+      },
+      {
+        "value": "速度快到音爆、超越瞬移；体内无元力；擅长肉身之力",
+        "docId": "plot.xianni-939-jixiantian-puppet-slain-power-inheritance",
+        "seq": 870
       }
     ],
     "阵营": [
@@ -115,6 +122,11 @@
         "docId": "plot.xianni-ch924-wang-lin-dingshen-jixiantian-great-merit",
         "seq": 855,
         "note": "本章被望月生生吞下，生死结局未明言"
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-939-jixiantian-puppet-slain-power-inheritance",
+        "seq": 870
       }
     ],
     "身份": [
@@ -133,6 +145,12 @@
         "docId": "plot.xianni-ch938-qingshui-rescue-xuanbao-wangyue-expelled",
         "seq": 870,
         "note": "被古神一星融合，第938章"
+      },
+      {
+        "value": "傀儡",
+        "docId": "plot.xianni-939-jixiantian-puppet-slain-power-inheritance",
+        "seq": 870,
+        "note": "王林与武东禅判断其「显然成了傀儡」"
       }
     ],
     "死因": [
@@ -141,6 +159,18 @@
         "docId": "plot.xianni-ch924-wang-lin-dingshen-jixiantian-great-merit",
         "seq": 855,
         "note": "第924章"
+      },
+      {
+        "value": "被王林定身术定住后，遭一木子木剑、武东禅气泡、金龙五行皇冠三重合击轰然崩溃",
+        "docId": "plot.xianni-939-jixiantian-puppet-slain-power-inheritance",
+        "seq": 870
+      }
+    ],
+    "结局": [
+      {
+        "value": "身躯崩溃，血肉中留下一颗拳头大小、蕴含古神之力的紫星，被王林以「力之传承」吸取",
+        "docId": "plot.xianni-939-jixiantian-puppet-slain-power-inheritance",
+        "seq": 870
       }
     ]
   },
@@ -192,17 +222,21 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch938-qingshui-rescue-xuanbao-wangyue-expelled",
+      "docId": "plot.xianni-ch924-wang-lin-dingshen-jixiantian-great-merit",
       "dated": false,
-      "seq": 870,
-      "note": "被古神一星融合，第938章"
+      "seq": 855
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.xianni-ch924-wang-lin-dingshen-jixiantian-great-merit",
+      "docId": "plot.xianni-939-jixiantian-puppet-slain-power-inheritance",
       "dated": false,
-      "seq": 855,
-      "note": "第924章"
+      "seq": 870
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-939-jixiantian-puppet-slain-power-inheritance",
+      "dated": false,
+      "seq": 870
     }
   },
   "contested": false,
@@ -212,7 +246,8 @@
     "plot.xianni-ch923-toumingzhuang-yanleizi-vs-jixiantian",
     "plot.xianni-ch924-wang-lin-dingshen-jixiantian-great-merit",
     "plot.xianni-ch930-alliance-elder-council",
-    "plot.xianni-ch938-qingshui-rescue-xuanbao-wangyue-expelled"
+    "plot.xianni-ch938-qingshui-rescue-xuanbao-wangyue-expelled",
+    "plot.xianni-939-jixiantian-puppet-slain-power-inheritance"
   ],
-  "updatedAt": "2026-08-23T21:30:17.763Z"
+  "updatedAt": "2026-08-23T21:32:37.272Z"
 }

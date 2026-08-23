@@ -4,14 +4,15 @@
   "name": "一木，一界",
   "aliases": [
     "一木一界",
-    "青色木条封印"
+    "青色木条封印",
+    "Yi Mu Yi Jie"
   ],
   "summary": "一木子的神通：甩出手指大小的青色木条，低喝『一木，一界』后骤然放大、绿意扩散全场，如凭空隔绝另辟一界，形成环绕对手的封印。",
   "attributes": {
-    "类型": "封印/隔绝类神通",
-    "威力": "困住武东禅不足三息",
+    "类型": "自成一界的封印领域",
+    "威力": "封印方圆百丈",
     "出处": "一木子",
-    "消耗": "耗费元力（此地元力有限，一木子力求速战速决）"
+    "消耗": "崩毁一根紫色木条"
   },
   "observations": {
     "类型": [
@@ -19,6 +20,11 @@
         "value": "封印/隔绝类神通",
         "docId": "plot.xianni-ch936-yuweng-wangyue-guushen-youzi",
         "seq": 865
+      },
+      {
+        "value": "自成一界的封印领域",
+        "docId": "plot.xianni-939-jixiantian-puppet-slain-power-inheritance",
+        "seq": 870
       }
     ],
     "威力": [
@@ -27,6 +33,11 @@
         "docId": "plot.xianni-ch936-yuweng-wangyue-guushen-youzi",
         "seq": 865,
         "note": "被气泡连破消解"
+      },
+      {
+        "value": "封印方圆百丈",
+        "docId": "plot.xianni-939-jixiantian-puppet-slain-power-inheritance",
+        "seq": 870
       }
     ],
     "出处": [
@@ -41,6 +52,11 @@
         "value": "耗费元力（此地元力有限，一木子力求速战速决）",
         "docId": "plot.xianni-ch936-yuweng-wangyue-guushen-youzi",
         "seq": 865
+      },
+      {
+        "value": "崩毁一根紫色木条",
+        "docId": "plot.xianni-939-jixiantian-puppet-slain-power-inheritance",
+        "seq": 870
       }
     ]
   },
@@ -48,16 +64,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch936-yuweng-wangyue-guushen-youzi",
+      "docId": "plot.xianni-939-jixiantian-puppet-slain-power-inheritance",
       "dated": false,
-      "seq": 865
+      "seq": 870
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-ch936-yuweng-wangyue-guushen-youzi",
+      "docId": "plot.xianni-939-jixiantian-puppet-slain-power-inheritance",
       "dated": false,
-      "seq": 865,
-      "note": "被气泡连破消解"
+      "seq": 870
     },
     "出处": {
       "asOf": null,
@@ -67,15 +82,16 @@
     },
     "消耗": {
       "asOf": null,
-      "docId": "plot.xianni-ch936-yuweng-wangyue-guushen-youzi",
+      "docId": "plot.xianni-939-jixiantian-puppet-slain-power-inheritance",
       "dated": false,
-      "seq": 865
+      "seq": 870
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch936-yuweng-wangyue-guushen-youzi"
+    "plot.xianni-ch936-yuweng-wangyue-guushen-youzi",
+    "plot.xianni-939-jixiantian-puppet-slain-power-inheritance"
   ],
-  "updatedAt": "2026-08-23T21:24:36.253Z"
+  "updatedAt": "2026-08-23T21:32:37.283Z"
 }
