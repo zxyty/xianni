@@ -367,3 +367,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T19:37:55.039Z** `ingest` plot.xianni-ch912-wen-cuo-luotian-thunder-immortal-questioning — 第912章 问错——王林返回罗天西部闭关悟唤雨，雷仙殿刑罚长老与炎雷子问罪 · kind=plot asOf=2026-08-23 entities=25 relations=39 src=00845-00849.p4.md
 - **2026-08-23T19:44:50.809Z** `ingest` plot.xianni-ch913-huan-yu-yanleizi-verify-xumu — 第913章 唤雨：王林以天地雷树残枝取信炎雷子，朱雀印记令其罢手 · kind=plot asOf=2026-08-23 entities=37 relations=57 src=00845-00849.p5.md
 - **2026-08-23T19:47:36.228Z** `ingest` plot.xianni-ch914-916-tuluo-plan-and-eighteen-hells — 第914-916章 屠罗计划与十八层地狱：王林悟规则、成撒豆成兵，联盟自毁西部星域 · kind=plot asOf=2026-08-23 entities=0 relations=0 src=00850-00852.md
+- **2026-08-23T20:01:28.840Z** `ingest` plot.xianni-ch917-luotian-counterattack — 第917章 罗天反击：十八罗浮、参天巨木与望月冲击联盟西部 · kind=plot asOf=2026-08-23 entities=63 relations=116 src=00853-00854.p1.md

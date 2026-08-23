@@ -3,11 +3,12 @@
   "type": "spell",
   "name": "紫色光球",
   "aliases": [
-    "紫光球"
+    "紫光球",
+    "护身紫色光球"
   ],
   "summary": "陈涛掐诀凝成的防御／爆发法术，光球崩溃时可硬抗魂兽冲击与黑芒扩散。",
   "attributes": {
-    "类型": "防御兼爆发法术",
+    "类型": "护身法器",
     "出处": "陈涛所施"
   },
   "observations": {
@@ -16,6 +17,11 @@
         "value": "防御兼爆发法术",
         "docId": "plot.xianni-ch500-battle-against-wending-huangquan-finger",
         "seq": 477
+      },
+      {
+        "value": "护身法器",
+        "docId": "plot.xianni-ch917-luotian-counterattack",
+        "seq": 853
       }
     ],
     "出处": [
@@ -30,9 +36,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch500-battle-against-wending-huangquan-finger",
+      "docId": "plot.xianni-ch917-luotian-counterattack",
       "dated": false,
-      "seq": 477
+      "seq": 853
     },
     "出处": {
       "asOf": null,
@@ -44,7 +50,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch500-battle-against-wending-huangquan-finger"
+    "plot.xianni-ch500-battle-against-wending-huangquan-finger",
+    "plot.xianni-ch917-luotian-counterattack"
   ],
-  "updatedAt": "2026-08-21T09:14:22.699Z"
+  "updatedAt": "2026-08-23T20:01:28.586Z"
 }

@@ -3,12 +3,16 @@
   "type": "passage",
   "name": "罗天星域通往联盟星域的通道",
   "aliases": [
-    "两域通道"
+    "两域通道",
+    "联盟与罗天两域通道",
+    "罗天—联盟通道"
   ],
   "summary": "尚未开启的星域间通道，炎雷子计划在通道打开后联手数位老怪把月兽赶入联盟星域。",
   "attributes": {
-    "两端": "罗天星域—联盟星域",
-    "稳定性": "尚未打开"
+    "两端": "罗天星域—联盟西部",
+    "稳定性": "尚未打开",
+    "类型": "星域间通道",
+    "可通行境界": "大批修士与巨木、望月均可通行"
   },
   "observations": {
     "两端": [
@@ -16,6 +20,11 @@
         "value": "罗天星域—联盟星域",
         "docId": "plot.xianni-ch834-yanleizi-reappears-wangyue-massacre",
         "seq": 775
+      },
+      {
+        "value": "罗天星域—联盟西部",
+        "docId": "plot.xianni-ch917-luotian-counterattack",
+        "seq": 853
       }
     ],
     "稳定性": [
@@ -25,15 +34,29 @@
         "seq": 775,
         "note": "第834章时点"
       }
+    ],
+    "类型": [
+      {
+        "value": "星域间通道",
+        "docId": "plot.xianni-ch917-luotian-counterattack",
+        "seq": 853
+      }
+    ],
+    "可通行境界": [
+      {
+        "value": "大批修士与巨木、望月均可通行",
+        "docId": "plot.xianni-ch917-luotian-counterattack",
+        "seq": 853
+      }
     ]
   },
   "firstSeq": 775,
   "attrProvenance": {
     "两端": {
       "asOf": null,
-      "docId": "plot.xianni-ch834-yanleizi-reappears-wangyue-massacre",
+      "docId": "plot.xianni-ch917-luotian-counterattack",
       "dated": false,
-      "seq": 775
+      "seq": 853
     },
     "稳定性": {
       "asOf": null,
@@ -41,12 +64,25 @@
       "dated": false,
       "seq": 775,
       "note": "第834章时点"
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-ch917-luotian-counterattack",
+      "dated": false,
+      "seq": 853
+    },
+    "可通行境界": {
+      "asOf": null,
+      "docId": "plot.xianni-ch917-luotian-counterattack",
+      "dated": false,
+      "seq": 853
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch834-yanleizi-reappears-wangyue-massacre"
+    "plot.xianni-ch834-yanleizi-reappears-wangyue-massacre",
+    "plot.xianni-ch917-luotian-counterattack"
   ],
-  "updatedAt": "2026-08-23T12:44:29.316Z"
+  "updatedAt": "2026-08-23T20:01:28.520Z"
 }

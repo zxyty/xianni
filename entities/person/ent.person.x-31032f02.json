@@ -14,9 +14,10 @@
   "summary": "雷仙殿密室三人之一，家族记录中载有月兽，断言其轻易不可招惹。",
   "attributes": {
     "外貌": "红袍",
-    "身份": "向家长辈、封仙观礼者",
+    "身份": "向家老祖",
     "出身地": "向家",
-    "性格": "赏识王林、公开言明代价而无私心"
+    "性格": "赏识王林、公开言明代价而无私心",
+    "阵营": "罗天星域一方"
   },
   "observations": {
     "外貌": [
@@ -51,6 +52,11 @@
         "value": "向家长辈、封仙观礼者",
         "docId": "plot.xianni-ch881-i-agree-qixi-technique-li-muwan-yuanying",
         "seq": 821
+      },
+      {
+        "value": "向家老祖",
+        "docId": "plot.xianni-ch917-luotian-counterattack",
+        "seq": 853
       }
     ],
     "出身地": [
@@ -66,6 +72,13 @@
         "docId": "plot.xianni-ch881-i-agree-qixi-technique-li-muwan-yuanying",
         "seq": 821
       }
+    ],
+    "阵营": [
+      {
+        "value": "罗天星域一方",
+        "docId": "plot.xianni-ch917-luotian-counterattack",
+        "seq": 853
+      }
     ]
   },
   "firstSeq": 775,
@@ -78,9 +91,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch881-i-agree-qixi-technique-li-muwan-yuanying",
+      "docId": "plot.xianni-ch917-luotian-counterattack",
       "dated": false,
-      "seq": 821
+      "seq": 853
     },
     "出身地": {
       "asOf": null,
@@ -93,6 +106,12 @@
       "docId": "plot.xianni-ch881-i-agree-qixi-technique-li-muwan-yuanying",
       "dated": false,
       "seq": 821
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch917-luotian-counterattack",
+      "dated": false,
+      "seq": 853
     }
   },
   "contested": false,
@@ -104,7 +123,8 @@
     "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
     "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
     "plot.xianni-ch881-i-agree-qixi-technique-li-muwan-yuanying",
-    "plot.xianni-ch882-space-barrier-open"
+    "plot.xianni-ch882-space-barrier-open",
+    "plot.xianni-ch917-luotian-counterattack"
   ],
-  "updatedAt": "2026-08-23T16:48:30.877Z"
+  "updatedAt": "2026-08-23T20:01:28.505Z"
 }

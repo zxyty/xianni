@@ -5,15 +5,17 @@
   "aliases": [
     "仙宝天虎旗",
     "三寸小旗",
-    "正品雷仙身份之旗"
+    "正品雷仙身份之旗",
+    "飞天虎小旗",
+    "绘飞天虎图案的小旗"
   ],
   "summary": "封「正品雷仙：许木」六字化作十丈雷光之虎、缩为三寸小旗而成的仙宝，旗面有猛虎虚影，凭此旗可号令罗天三千修士、自成一方。",
   "attributes": {
     "品阶": "仙宝",
     "持有者": "王林",
     "来历": "炎雷子所赐",
-    "能力": "号令罗天三千修士、自成一方、虎啸震天、紫气化猛虎咆哮、代表正品雷仙身份",
-    "外形": "旗"
+    "能力": "号令罗天三千修士、自成一方、虎啸震天、紫气化猛虎咆哮、代表正品雷仙身份、放出飞天虎、虎啸震星空、聚拢罗天修士声望",
+    "外形": "绘有飞天虎图案的小旗"
   },
   "observations": {
     "品阶": [
@@ -67,6 +69,16 @@
         "value": "代表正品雷仙身份",
         "docId": "plot.xianni-ch891-servant-seal-datou-tongzi",
         "seq": 830
+      },
+      {
+        "value": "放出飞天虎",
+        "docId": "plot.xianni-ch917-luotian-counterattack",
+        "seq": 853
+      },
+      {
+        "value": "虎啸震星空、聚拢罗天修士声望",
+        "docId": "plot.xianni-ch917-luotian-counterattack",
+        "seq": 853
       }
     ],
     "外形": [
@@ -79,6 +91,11 @@
         "value": "旗",
         "docId": "plot.xianni-ch891-servant-seal-datou-tongzi",
         "seq": 830
+      },
+      {
+        "value": "绘有飞天虎图案的小旗",
+        "docId": "plot.xianni-ch917-luotian-counterattack",
+        "seq": 853
       }
     ]
   },
@@ -110,16 +127,17 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch891-servant-seal-datou-tongzi",
+      "docId": "plot.xianni-ch917-luotian-counterattack",
       "dated": false,
-      "seq": 830
+      "seq": 853
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch817-820-yixiantian-killing-trial",
-    "plot.xianni-ch891-servant-seal-datou-tongzi"
+    "plot.xianni-ch891-servant-seal-datou-tongzi",
+    "plot.xianni-ch917-luotian-counterattack"
   ],
-  "updatedAt": "2026-08-23T17:59:23.760Z"
+  "updatedAt": "2026-08-23T20:01:28.583Z"
 }

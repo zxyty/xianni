@@ -5,13 +5,18 @@
   "aliases": [
     "修真联盟西部",
     "联盟西部星空",
-    "联盟西部战区"
+    "联盟西部战区",
+    "联盟西域",
+    "联盟西部战场",
+    "联盟西部星域"
   ],
   "summary": "章末赤衣冰寒男子急速奔赴的方向。",
   "attributes": {
     "方位": "修真联盟西部",
     "上级区域": "联盟星域",
-    "所属势力": "修真联盟、罗天星域"
+    "所属势力": "修真联盟、罗天星域",
+    "类型": "战场、战区",
+    "危险度": "极高"
   },
   "observations": {
     "方位": [
@@ -45,6 +50,25 @@
         "seq": 845,
         "note": "第912章时已被罗天占据"
       }
+    ],
+    "类型": [
+      {
+        "value": "战场",
+        "docId": "plot.xianni-ch917-luotian-counterattack",
+        "seq": 853
+      },
+      {
+        "value": "战区",
+        "docId": "plot.xianni-ch917-luotian-counterattack",
+        "seq": 853
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.xianni-ch917-luotian-counterattack",
+        "seq": 853
+      }
     ]
   },
   "firstSeq": 840,
@@ -66,6 +90,18 @@
       "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
       "dated": false,
       "seq": 845
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-ch917-luotian-counterattack",
+      "dated": false,
+      "seq": 853
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch917-luotian-counterattack",
+      "dated": false,
+      "seq": 853
     }
   },
   "contested": false,
@@ -74,7 +110,8 @@
     "plot.xianni-ch907-zhuque-sequence",
     "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
     "plot.xianni-ch912-wen-cuo-luotian-thunder-immortal-questioning",
-    "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu"
+    "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu",
+    "plot.xianni-ch917-luotian-counterattack"
   ],
-  "updatedAt": "2026-08-23T19:44:50.547Z"
+  "updatedAt": "2026-08-23T20:01:28.588Z"
 }
