@@ -4,13 +4,15 @@
   "name": "升仙池",
   "aliases": [
     "仙池",
-    "升仙池资格"
+    "升仙池资格",
+    "云池"
   ],
   "summary": "远古修真家族召书中许诺之地，一百零八仙可入其中化体元为仙元、成就真仙。",
   "attributes": {
     "所属势力": "雷仙殿",
-    "类型": "秘境/修行圣地",
-    "所属界面": "罗天星域"
+    "类型": "化去意境、天元融仙之池",
+    "所属界面": "罗天星域",
+    "危险度": "需化去意境"
   },
   "observations": {
     "所属势力": [
@@ -35,6 +37,11 @@
         "value": "秘境/修行圣地",
         "docId": "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives",
         "seq": 800
+      },
+      {
+        "value": "化去意境、天元融仙之池",
+        "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
+        "seq": 817
       }
     ],
     "所属界面": [
@@ -42,6 +49,14 @@
         "value": "罗天星域",
         "docId": "plot.xianni-820-luotian-fengxian-yaojia-tianqiongling",
         "seq": 766
+      }
+    ],
+    "危险度": [
+      {
+        "value": "需化去意境",
+        "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
+        "seq": 817,
+        "note": "代价未明"
       }
     ]
   },
@@ -55,15 +70,22 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives",
+      "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
       "dated": false,
-      "seq": 800
+      "seq": 817
     },
     "所属界面": {
       "asOf": null,
       "docId": "plot.xianni-820-luotian-fengxian-yaojia-tianqiongling",
       "dated": false,
       "seq": 766
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
+      "dated": false,
+      "seq": 817,
+      "note": "代价未明"
     }
   },
   "contested": false,
@@ -71,7 +93,8 @@
   "docs": [
     "plot.xianni-820-luotian-fengxian-yaojia-tianqiongling",
     "plot.xianni-857-the-third-step",
-    "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives"
+    "plot.xianni-ch859-luotian-nanyu-fenghao-battlefield-wang-lin-arrives",
+    "plot.xianni-ch817-820-yixiantian-killing-trial"
   ],
-  "updatedAt": "2026-08-23T14:28:11.193Z"
+  "updatedAt": "2026-08-23T15:47:09.459Z"
 }

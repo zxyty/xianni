@@ -4,13 +4,14 @@
   "name": "地之关",
   "aliases": [
     "地关",
-    "天运宗地之关"
+    "天运宗地之关",
+    "天地人三关"
   ],
   "summary": "入门三关第二关，考验修为；王林出人之关后即受邀踏入。",
   "attributes": {
-    "类型": "入门试炼关卡",
+    "类型": "试炼关卡",
     "上级区域": "入门三关",
-    "所属势力": "天运宗",
+    "所属势力": "雷仙殿",
     "守护": "地之关第十护仙等火焰所化生灵"
   },
   "observations": {
@@ -24,6 +25,11 @@
         "value": "入门试炼关卡",
         "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
         "seq": 457
+      },
+      {
+        "value": "试炼关卡",
+        "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
+        "seq": 817
       }
     ],
     "上级区域": [
@@ -38,6 +44,11 @@
         "value": "天运宗",
         "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
         "seq": 452
+      },
+      {
+        "value": "雷仙殿",
+        "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
+        "seq": 817
       }
     ],
     "守护": [
@@ -52,9 +63,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
+      "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
       "dated": false,
-      "seq": 457
+      "seq": 817
     },
     "上级区域": {
       "asOf": null,
@@ -64,9 +75,9 @@
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
+      "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
       "dated": false,
-      "seq": 452
+      "seq": 817
     },
     "守护": {
       "asOf": null,
@@ -79,7 +90,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch452-456-baiwei-mingmei-city-mo-xue-ye",
-    "plot.xianni-ch457-461-tianyunzong-ziyunge"
+    "plot.xianni-ch457-461-tianyunzong-ziyunge",
+    "plot.xianni-ch817-820-yixiantian-killing-trial"
   ],
-  "updatedAt": "2026-08-21T06:26:48.881Z"
+  "updatedAt": "2026-08-23T15:47:09.391Z"
 }

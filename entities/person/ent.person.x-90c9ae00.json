@@ -9,11 +9,11 @@
   "attributes": {
     "性别": "男",
     "种族": "凡人",
-    "身份": "凡人学者、王林的记名弟子",
+    "身份": "凡人学者、王林的记名弟子、王林之徒",
     "寿元": "所剩不多",
     "性格": "执着求道、坚定果断",
     "标志特征": "膝盖破碎爬山、身后隐现一幕轮回",
-    "出身地": "青灵星"
+    "出身地": "横云山"
   },
   "observations": {
     "性别": [
@@ -40,6 +40,12 @@
         "value": "王林的记名弟子",
         "docId": "plot.xianni-ch850-yuanli-change-xieqing-disciple",
         "seq": 790
+      },
+      {
+        "value": "王林之徒",
+        "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
+        "seq": 817,
+        "note": "本章以「师尊」称呼王林"
       }
     ],
     "寿元": [
@@ -69,6 +75,11 @@
         "value": "青灵星",
         "docId": "plot.xianni-ch850-yuanli-change-xieqing-disciple",
         "seq": 790
+      },
+      {
+        "value": "横云山",
+        "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
+        "seq": 817
       }
     ]
   },
@@ -113,15 +124,16 @@
     },
     "出身地": {
       "asOf": null,
-      "docId": "plot.xianni-ch850-yuanli-change-xieqing-disciple",
+      "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
       "dated": false,
-      "seq": 790
+      "seq": 817
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch850-yuanli-change-xieqing-disciple"
+    "plot.xianni-ch850-yuanli-change-xieqing-disciple",
+    "plot.xianni-ch817-820-yixiantian-killing-trial"
   ],
-  "updatedAt": "2026-08-23T14:05:10.753Z"
+  "updatedAt": "2026-08-23T15:47:09.437Z"
 }

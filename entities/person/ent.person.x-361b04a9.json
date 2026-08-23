@@ -14,9 +14,12 @@
   "summary": "来自罗天北域的童子模样修士，头颅硕大、面带痴傻之笑，四周三丈无人敢近，重点注视许霆。",
   "attributes": {
     "出身地": "罗天北域",
-    "外貌": "童子模样，头颅硕大，极不协调、大头童子、童子模样、头大、大头童子，面带痴傻之笑、大头童子模样",
+    "外貌": "童子模样，头颅硕大，极不协调、大头童子、童子模样、头大、大头童子，面带痴傻之笑、大头童子模样、大头童子，脸带痴傻之笑",
     "标志特征": "痴傻之笑、四周三丈方圆无人敢近、笑中透冷",
-    "身份": "封仙之战参试修士"
+    "身份": "封仙之战参试修士",
+    "小阶段": "窥涅初期",
+    "存殁": "存活",
+    "性格": "阴狠而惜命，忌惮王林"
   },
   "observations": {
     "出身地": [
@@ -51,6 +54,11 @@
         "value": "大头童子模样",
         "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
         "seq": 813
+      },
+      {
+        "value": "大头童子，脸带痴傻之笑",
+        "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
+        "seq": 817
       }
     ],
     "标志特征": [
@@ -81,6 +89,28 @@
         "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
         "seq": 810
       }
+    ],
+    "小阶段": [
+      {
+        "value": "窥涅初期",
+        "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
+        "seq": 817
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
+        "seq": 817,
+        "note": "仅分神被灭，本体在雷仙殿苏醒吐血重创"
+      }
+    ],
+    "性格": [
+      {
+        "value": "阴狠而惜命，忌惮王林",
+        "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
+        "seq": 817
+      }
     ]
   },
   "firstSeq": 805,
@@ -108,6 +138,25 @@
       "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
       "dated": false,
       "seq": 810
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
+      "dated": false,
+      "seq": 817
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
+      "dated": false,
+      "seq": 817,
+      "note": "仅分神被灭，本体在雷仙殿苏醒吐血重创"
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
+      "dated": false,
+      "seq": 817
     }
   },
   "contested": false,
@@ -116,7 +165,8 @@
     "plot.xianni-ch865-donglin-xu-family-xu-ting-appears",
     "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
     "plot.xianni-ch870-qingshui-protects-xumu",
-    "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling"
+    "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+    "plot.xianni-ch817-820-yixiantian-killing-trial"
   ],
-  "updatedAt": "2026-08-23T15:28:10.122Z"
+  "updatedAt": "2026-08-23T15:47:09.374Z"
 }

@@ -7,7 +7,10 @@
   ],
   "summary": "原排在许霆之后应考的修士，即先前被罗素点下、却被王林一袖卷走者；见王林抢先便尴尬退让。",
   "attributes": {
-    "身份": "封仙考核参加者"
+    "身份": "封仙考核参加者",
+    "出身地": "修真家族",
+    "存殁": "死亡",
+    "死因": "被许霆所化黑雾吞噬"
   },
   "observations": {
     "身份": [
@@ -15,6 +18,28 @@
         "value": "封仙考核参加者",
         "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
         "seq": 813
+      }
+    ],
+    "出身地": [
+      {
+        "value": "修真家族",
+        "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
+        "seq": 817
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
+        "seq": 817,
+        "note": "虚幻分身之死，对本体仅有轻微伤害"
+      }
+    ],
+    "死因": [
+      {
+        "value": "被许霆所化黑雾吞噬",
+        "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
+        "seq": 817
       }
     ]
   },
@@ -25,12 +50,32 @@
       "docId": "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
       "dated": false,
       "seq": 813
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
+      "dated": false,
+      "seq": 817
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
+      "dated": false,
+      "seq": 817,
+      "note": "虚幻分身之死，对本体仅有轻微伤害"
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
+      "dated": false,
+      "seq": 817
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling"
+    "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+    "plot.xianni-ch817-820-yixiantian-killing-trial"
   ],
-  "updatedAt": "2026-08-23T15:28:10.159Z"
+  "updatedAt": "2026-08-23T15:47:09.344Z"
 }
