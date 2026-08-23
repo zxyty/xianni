@@ -5,14 +5,16 @@
   "aliases": [
     "地玄殿大长老",
     "玄宝",
-    "Xuan Bao Shang Ren"
+    "Xuan Bao Shang Ren",
+    "那老者"
   ],
   "summary": "地玄殿大长老，修真联盟长老团成员之一，可决定联盟星域一切事情；一身白衣手持拂尘，笑声一出四周修士法宝皆颤。",
   "attributes": {
     "身份": "地玄殿大长老、联盟长老团成员",
-    "外貌": "白衣、略显清瘦、仙风道骨、双目明亮深邃、手持拂尘",
-    "性格": "容颜和善如长者，对战事毫不在意",
-    "标志特征": "长笑一出，四周修士法宝齐颤欲脱主而出"
+    "外貌": "白衣、略显清瘦、仙风道骨、双目明亮深邃、手持拂尘、老者，面带微笑",
+    "性格": "容颜和善如长者，对战事毫不在意、从容微笑、神色如常",
+    "标志特征": "长笑一出，四周修士法宝齐颤欲脱主而出、虚空撕裂百丈裂缝取物；掌握仙卫、黑蝶、次空涅箭",
+    "阵营": "与望月及罗天修士敌对"
   },
   "observations": {
     "身份": [
@@ -32,6 +34,11 @@
         "value": "白衣、略显清瘦、仙风道骨、双目明亮深邃、手持拂尘",
         "docId": "plot.xianni-ch930-alliance-elder-council",
         "seq": 860
+      },
+      {
+        "value": "老者，面带微笑",
+        "docId": "plot.xianni-ch931-ci-kong-nie-arrow-xuanbao-shangren-immortal-guards",
+        "seq": 860
       }
     ],
     "性格": [
@@ -39,12 +46,29 @@
         "value": "容颜和善如长者，对战事毫不在意",
         "docId": "plot.xianni-ch930-alliance-elder-council",
         "seq": 860
+      },
+      {
+        "value": "从容微笑、神色如常",
+        "docId": "plot.xianni-ch931-ci-kong-nie-arrow-xuanbao-shangren-immortal-guards",
+        "seq": 860
       }
     ],
     "标志特征": [
       {
         "value": "长笑一出，四周修士法宝齐颤欲脱主而出",
         "docId": "plot.xianni-ch930-alliance-elder-council",
+        "seq": 860
+      },
+      {
+        "value": "虚空撕裂百丈裂缝取物；掌握仙卫、黑蝶、次空涅箭",
+        "docId": "plot.xianni-ch931-ci-kong-nie-arrow-xuanbao-shangren-immortal-guards",
+        "seq": 860
+      }
+    ],
+    "阵营": [
+      {
+        "value": "与望月及罗天修士敌对",
+        "docId": "plot.xianni-ch931-ci-kong-nie-arrow-xuanbao-shangren-immortal-guards",
         "seq": 860
       }
     ]
@@ -74,12 +98,19 @@
       "docId": "plot.xianni-ch930-alliance-elder-council",
       "dated": false,
       "seq": 860
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch931-ci-kong-nie-arrow-xuanbao-shangren-immortal-guards",
+      "dated": false,
+      "seq": 860
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch930-alliance-elder-council"
+    "plot.xianni-ch930-alliance-elder-council",
+    "plot.xianni-ch931-ci-kong-nie-arrow-xuanbao-shangren-immortal-guards"
   ],
-  "updatedAt": "2026-08-23T20:27:00.597Z"
+  "updatedAt": "2026-08-23T20:29:48.075Z"
 }
