@@ -5,14 +5,16 @@
   "aliases": [
     "红毛子",
     "红毛",
-    "炼魂宗红发老者"
+    "炼魂宗红发老者",
+    "红发老者（献祭主持）"
   ],
   "summary": "炼魂宗修士，结丹初期，面部奇异口鼻极大双眼极小；收下王林所献飞剑后破例引其入宗做外围弟子，出山收集上百冤魂欲炼魂幡主魂。",
   "attributes": {
     "小阶段": "结丹初期",
-    "外貌": "红发，口鼻极大、双眼很小，颇有吞天之感",
-    "身份": "炼魂宗修士",
-    "标志特征": "驾紫红之芒破空而行；持令牌可开护山阵"
+    "外貌": "红发",
+    "身份": "献祭修真星主事者",
+    "标志特征": "驾紫红之芒破空而行；持令牌可开护山阵",
+    "阵营": "修真联盟"
   },
   "observations": {
     "小阶段": [
@@ -27,6 +29,11 @@
         "value": "红发，口鼻极大、双眼很小，颇有吞天之感",
         "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
         "seq": 351
+      },
+      {
+        "value": "红发",
+        "docId": "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
+        "seq": 855
       }
     ],
     "身份": [
@@ -34,6 +41,11 @@
         "value": "炼魂宗修士",
         "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
         "seq": 351
+      },
+      {
+        "value": "献祭修真星主事者",
+        "docId": "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
+        "seq": 855
       }
     ],
     "标志特征": [
@@ -41,6 +53,13 @@
         "value": "驾紫红之芒破空而行；持令牌可开护山阵",
         "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
         "seq": 351
+      }
+    ],
+    "阵营": [
+      {
+        "value": "修真联盟",
+        "docId": "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
+        "seq": 855
       }
     ]
   },
@@ -54,27 +73,34 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+      "docId": "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
       "dated": false,
-      "seq": 351
+      "seq": 855
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+      "docId": "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
       "dated": false,
-      "seq": 351
+      "seq": 855
     },
     "标志特征": {
       "asOf": null,
       "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
       "dated": false,
       "seq": 351
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
+      "dated": false,
+      "seq": 855
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north"
+    "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+    "plot.xianni-ch925-million-beast-blood-lock-heaven-god"
   ],
-  "updatedAt": "2026-08-08T15:56:06.613Z"
+  "updatedAt": "2026-08-23T20:14:11.697Z"
 }

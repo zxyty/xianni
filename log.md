@@ -372,3 +372,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T20:06:36.805Z** `ingest` plot.xianni-ch922-jixiantian-north-battle — 第922章 极贤天——望月开道破西部封锁，联盟北域炎雷子对上极贤天 · kind=plot asOf=2026-08-23 entities=28 relations=44 src=00855-00859.p1.md
 - **2026-08-23T20:08:48.858Z** `ingest` plot.xianni-ch923-toumingzhuang-yanleizi-vs-jixiantian — 第923章 投名状：炎雷子暴露突破实力围攻极贤天，王林出手"定" · kind=plot asOf=2026-08-23 entities=19 relations=28 src=00855-00859.p2.md
 - **2026-08-23T20:11:20.447Z** `ingest` plot.xianni-ch924-wang-lin-dingshen-jixiantian-great-merit — 第924章 大功：王林定身极贤天，炎雷子重赏，联盟援军压境 · kind=plot asOf=2026-08-23 entities=28 relations=32 src=00855-00859.p3.md
+- **2026-08-23T20:14:11.935Z** `ingest` plot.xianni-ch925-million-beast-blood-lock-heaven-god — 第925章 百万兽血锁天神——联盟封印望月，烈云子操控罗浮血球 · kind=plot asOf=2026-08-23 entities=38 relations=51 src=00855-00859.p4.md

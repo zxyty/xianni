@@ -4,14 +4,18 @@
   "name": "水罗蓝裙女子",
   "aliases": [
     "托八叶莲花台的女子",
-    "水罗蓝裙女修"
+    "水罗蓝裙女修",
+    "水罗蓝裙的女子",
+    "蓝裙女子",
+    "水罗女子"
   ],
   "summary": "联盟援军中的核心人物，立于巨魔族所扛修真星上，手托八叶莲花台；请出武东禅、下令封锁望月，并以复杂眼神注视王林。",
   "attributes": {
     "性别": "女",
-    "外貌": "一身水罗蓝裙、秀发垂肩、凤目含煞",
+    "外貌": "一身水罗蓝裙、秀发垂肩、凤目含煞、蓝裙",
     "本命法宝": "八叶莲花台",
-    "阵营": "修真联盟"
+    "阵营": "修真联盟",
+    "标志特征": "水罗；声音轻柔却响彻星空"
   },
   "observations": {
     "性别": [
@@ -26,6 +30,11 @@
         "value": "一身水罗蓝裙、秀发垂肩、凤目含煞",
         "docId": "plot.xianni-ch924-wang-lin-dingshen-jixiantian-great-merit",
         "seq": 855
+      },
+      {
+        "value": "蓝裙",
+        "docId": "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
+        "seq": 855
       }
     ],
     "本命法宝": [
@@ -39,6 +48,13 @@
       {
         "value": "修真联盟",
         "docId": "plot.xianni-ch924-wang-lin-dingshen-jixiantian-great-merit",
+        "seq": 855
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "水罗；声音轻柔却响彻星空",
+        "docId": "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
         "seq": 855
       }
     ]
@@ -68,12 +84,19 @@
       "docId": "plot.xianni-ch924-wang-lin-dingshen-jixiantian-great-merit",
       "dated": false,
       "seq": 855
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
+      "dated": false,
+      "seq": 855
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch924-wang-lin-dingshen-jixiantian-great-merit"
+    "plot.xianni-ch924-wang-lin-dingshen-jixiantian-great-merit",
+    "plot.xianni-ch925-million-beast-blood-lock-heaven-god"
   ],
-  "updatedAt": "2026-08-23T20:11:20.181Z"
+  "updatedAt": "2026-08-23T20:14:11.696Z"
 }

@@ -3,13 +3,15 @@
   "type": "artifact",
   "name": "锥形高塔",
   "aliases": [
-    "上百锥形高塔"
+    "上百锥形高塔",
+    "百座锥形高塔"
   ],
   "summary": "联盟援军的战具，横置千丈，每塔立近百修士；受令后提速百倍如利剑冲向望月。",
   "attributes": {
     "外形": "横置千丈锥形高塔，不下上百座",
-    "能力": "承载近百修士、提速百倍冲阵封锁",
-    "持有者": "修真联盟"
+    "能力": "承载近百修士、提速百倍冲阵封锁、冲撞自爆化作黑色碎粉、提速穿透如飞剑、载运联盟修士",
+    "持有者": "修真联盟",
+    "来历": "特殊材料加子阵凝练"
   },
   "observations": {
     "外形": [
@@ -29,12 +31,34 @@
         "value": "提速百倍冲阵封锁",
         "docId": "plot.xianni-ch924-wang-lin-dingshen-jixiantian-great-merit",
         "seq": 855
+      },
+      {
+        "value": "冲撞自爆化作黑色碎粉",
+        "docId": "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
+        "seq": 855
+      },
+      {
+        "value": "提速穿透如飞剑",
+        "docId": "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
+        "seq": 855
+      },
+      {
+        "value": "载运联盟修士",
+        "docId": "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
+        "seq": 855
       }
     ],
     "持有者": [
       {
         "value": "修真联盟",
         "docId": "plot.xianni-ch924-wang-lin-dingshen-jixiantian-great-merit",
+        "seq": 855
+      }
+    ],
+    "来历": [
+      {
+        "value": "特殊材料加子阵凝练",
+        "docId": "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
         "seq": 855
       }
     ]
@@ -58,12 +82,19 @@
       "docId": "plot.xianni-ch924-wang-lin-dingshen-jixiantian-great-merit",
       "dated": false,
       "seq": 855
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
+      "dated": false,
+      "seq": 855
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch924-wang-lin-dingshen-jixiantian-great-merit"
+    "plot.xianni-ch924-wang-lin-dingshen-jixiantian-great-merit",
+    "plot.xianni-ch925-million-beast-blood-lock-heaven-god"
   ],
-  "updatedAt": "2026-08-23T20:11:20.196Z"
+  "updatedAt": "2026-08-23T20:14:11.713Z"
 }

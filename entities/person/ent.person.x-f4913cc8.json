@@ -9,7 +9,8 @@
   "attributes": {
     "外貌": "黑袍中年，化百丈巨鹰、黑袍中年",
     "称号": "罗天星域强者之列",
-    "标志特征": "化身巨鹰、口吐虚幻大钟"
+    "标志特征": "化身巨鹰、口吐虚幻大钟",
+    "阵营": "罗天星域"
   },
   "observations": {
     "外貌": [
@@ -37,6 +38,13 @@
         "docId": "plot.xianni-ch842-seal-wangyue-guzhen-yizhi",
         "seq": 785
       }
+    ],
+    "阵营": [
+      {
+        "value": "罗天星域",
+        "docId": "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
+        "seq": 855
+      }
     ]
   },
   "firstSeq": 785,
@@ -58,13 +66,20 @@
       "docId": "plot.xianni-ch842-seal-wangyue-guzhen-yizhi",
       "dated": false,
       "seq": 785
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
+      "dated": false,
+      "seq": 855
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch841-ancient-god-shattered-star",
-    "plot.xianni-ch842-seal-wangyue-guzhen-yizhi"
+    "plot.xianni-ch842-seal-wangyue-guzhen-yizhi",
+    "plot.xianni-ch925-million-beast-blood-lock-heaven-god"
   ],
-  "updatedAt": "2026-08-23T13:46:26.465Z"
+  "updatedAt": "2026-08-23T20:14:11.704Z"
 }

@@ -7,13 +7,16 @@
     "正副雷仙与三十六天罡",
     "天罡仙",
     "封仙三十六天罡",
-    "罗天三十六天罡仙"
+    "罗天三十六天罡仙",
+    "天罡",
+    "天罡星"
   ],
   "summary": "雷仙殿封仙所册封的名位序列，连同正副雷仙共三十八人，享有封仙石刻名之机与「一个要求」的最终奖励。",
   "attributes": {
     "所属界面": "罗天星域",
     "理念": "封仙序列",
-    "等级": "罗天高阶修士序列"
+    "等级": "罗天高阶修士序列",
+    "阵营": "罗天星域"
   },
   "observations": {
     "所属界面": [
@@ -36,6 +39,13 @@
         "docId": "plot.xianni-ch890-datou-tongzi-battle",
         "seq": 830
       }
+    ],
+    "阵营": [
+      {
+        "value": "罗天星域",
+        "docId": "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
+        "seq": 855
+      }
     ]
   },
   "firstSeq": 821,
@@ -57,6 +67,12 @@
       "docId": "plot.xianni-ch890-datou-tongzi-battle",
       "dated": false,
       "seq": 830
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
+      "dated": false,
+      "seq": 855
     }
   },
   "contested": false,
@@ -64,7 +80,8 @@
   "docs": [
     "plot.xianni-ch880-shengxian-chi-fengxian-shi-wanwer",
     "plot.xianni-ch881-i-agree-qixi-technique-li-muwan-yuanying",
-    "plot.xianni-ch890-datou-tongzi-battle"
+    "plot.xianni-ch890-datou-tongzi-battle",
+    "plot.xianni-ch925-million-beast-blood-lock-heaven-god"
   ],
-  "updatedAt": "2026-08-23T17:56:38.293Z"
+  "updatedAt": "2026-08-23T20:14:11.718Z"
 }
