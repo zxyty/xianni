@@ -4,7 +4,8 @@
   "name": "黑煞魔尊",
   "aliases": [
     "黑煞",
-    "Hei Sha Mo Zun"
+    "Hei Sha Mo Zun",
+    "黑煞魔尊前辈"
   ],
   "summary": "面色阴沉盯着十八罗浮，欲冲出毁之，被血神子拦下。",
   "attributes": {
@@ -13,7 +14,9 @@
     "身份": "与血神子交战一方",
     "标志特征": "腥风化庞大巨鲸，张口吞吸天地元气",
     "结局": "被血人压制、节节后退",
-    "称号": "黑煞魔尊"
+    "称号": "黑煞魔尊",
+    "寿元": "数万年修为",
+    "存殁": "重伤逃遁"
   },
   "observations": {
     "阵营": [
@@ -68,6 +71,21 @@
         "docId": "plot.xianni-ch928-wuxing-jinshi",
         "seq": 860
       }
+    ],
+    "寿元": [
+      {
+        "value": "数万年修为",
+        "docId": "plot.xianni-ch929-wanglin-zhi-wu-wangyue-gushen-yizhi",
+        "seq": 860
+      }
+    ],
+    "存殁": [
+      {
+        "value": "重伤逃遁",
+        "docId": "plot.xianni-ch929-wanglin-zhi-wu-wangyue-gushen-yizhi",
+        "seq": 860,
+        "note": "肉身破损几近崩溃，魂飞魄散般逃走"
+      }
     ]
   },
   "firstSeq": 853,
@@ -108,6 +126,19 @@
       "docId": "plot.xianni-ch928-wuxing-jinshi",
       "dated": false,
       "seq": 860
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.xianni-ch929-wanglin-zhi-wu-wangyue-gushen-yizhi",
+      "dated": false,
+      "seq": 860
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch929-wanglin-zhi-wu-wangyue-gushen-yizhi",
+      "dated": false,
+      "seq": 860,
+      "note": "肉身破损几近崩溃，魂飞魄散般逃走"
     }
   },
   "contested": false,
@@ -118,7 +149,8 @@
     "plot.xianni-ch923-toumingzhuang-yanleizi-vs-jixiantian",
     "plot.xianni-ch924-wang-lin-dingshen-jixiantian-great-merit",
     "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
-    "plot.xianni-ch928-wuxing-jinshi"
+    "plot.xianni-ch928-wuxing-jinshi",
+    "plot.xianni-ch929-wanglin-zhi-wu-wangyue-gushen-yizhi"
   ],
-  "updatedAt": "2026-08-23T20:21:53.035Z"
+  "updatedAt": "2026-08-23T20:24:03.254Z"
 }
