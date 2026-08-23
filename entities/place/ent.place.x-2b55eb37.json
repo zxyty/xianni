@@ -4,14 +4,16 @@
   "name": "紫峰",
   "aliases": [
     "紫系山峰",
-    "天运宗紫峰"
+    "天运宗紫峰",
+    "Zi Feng"
   ],
   "summary": "天运宗紫系弟子居所，高耸入云、峰顶云雾缭绕紫光弥漫，广场唯一山道小径通达。",
   "attributes": {
     "所属势力": "天运宗",
     "类型": "山峰",
     "方位": "天运宗广场之上，唯一山道尽头",
-    "特产": "峰顶紫光弥漫"
+    "特产": "峰顶紫光弥漫",
+    "守护": "无（本章未提）"
   },
   "observations": {
     "所属势力": [
@@ -41,6 +43,13 @@
         "docId": "plot.xianni-ch959-tianyunzi-secret-purple-forest-pavilion",
         "seq": 890
       }
+    ],
+    "守护": [
+      {
+        "value": "无（本章未提）",
+        "docId": "plot.xianni-ch960-first-glimpse-of-origin",
+        "seq": 890
+      }
     ]
   },
   "firstSeq": 890,
@@ -68,12 +77,19 @@
       "docId": "plot.xianni-ch959-tianyunzi-secret-purple-forest-pavilion",
       "dated": false,
       "seq": 890
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch960-first-glimpse-of-origin",
+      "dated": false,
+      "seq": 890
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch959-tianyunzi-secret-purple-forest-pavilion"
+    "plot.xianni-ch959-tianyunzi-secret-purple-forest-pavilion",
+    "plot.xianni-ch960-first-glimpse-of-origin"
   ],
-  "updatedAt": "2026-08-23T22:47:07.793Z"
+  "updatedAt": "2026-08-23T22:48:43.998Z"
 }
