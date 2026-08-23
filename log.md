@@ -302,3 +302,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T12:52:59.003Z** `ingest` plot.xianni-ch836-wangyue-secret-tentacle-space — 第836章 望月的秘密——万丈望月吞噬王林，触手空间与贪狼大鼎 · kind=plot asOf=2026-08-23 entities=11 relations=12 src=00780-00784.p1.md
 - **2026-08-23T12:55:24.428Z** `ingest` plot.xianni-837-ding-cauldron-wanglin-tanlang-brand — 仙逆·第837章「鼎」：王林鼎内疗伤、姚冰云闭神术自封、发现贪狼未死 · kind=plot asOf=2026-08-23 entities=21 relations=28 src=00780-00784.p2.md
 - **2026-08-23T12:57:58.711Z** `ingest` plot.xianni-ch838-bingyun-wangyue-rebirth-dading-seized — 第838章 冰云：望月借体新生之秘，王林夺鼎并破冰擒姚冰云 · kind=plot asOf=2026-08-23 entities=20 relations=32 src=00780-00784.p3.md
+- **2026-08-23T13:00:29.658Z** `ingest` plot.xianni-ch839-perfect-seal-yao-bingyun — 《仙逆》第839章 完美封印——王林层层封印姚冰云、深入望月体内追寻灵魂呼唤 · kind=plot asOf=2026-08-23 entities=22 relations=28 src=00780-00784.p4.md

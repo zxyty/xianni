@@ -6,14 +6,17 @@
     "望月所化的修真星",
     "望月星",
     "望月凶兽体内",
-    "修真星内部"
+    "修真星内部",
+    "望月腹内",
+    "狭长之路",
+    "望月体内深处"
   ],
   "summary": "望月躯体所化的修真星内部，泥土层层，隔绝天地之力、无法瞬移，外裹黑雾；内有望月骨与如蛛网般的红色神经细丝。",
   "attributes": {
-    "类型": "凶兽体内所化修真星、凶兽体腔（伪装为修真星内部）",
-    "危险度": "极高、极高（触手免疫神通法宝、吸收元神，无人能逃出）",
-    "特产": "望月骨、红色细丝（望月神经）",
-    "方位": "罗天星域",
+    "类型": "凶兽体内所化修真星、凶兽体腔（伪装为修真星内部）、生物体内秘境",
+    "危险度": "极高、极高（触手免疫神通法宝、吸收元神，无人能逃出）、极高（触手吸元力、生机、道念）",
+    "特产": "望月骨、红色细丝（望月神经）、深处传出穿透灵魂的『来、来』呼唤源头",
+    "方位": "望月所化修真星内部",
     "上级区域": "罗天北域"
   },
   "observations": {
@@ -27,6 +30,11 @@
         "value": "凶兽体腔（伪装为修真星内部）",
         "docId": "plot.xianni-ch833-wangyue-awakens",
         "seq": 775
+      },
+      {
+        "value": "生物体内秘境",
+        "docId": "plot.xianni-ch839-perfect-seal-yao-bingyun",
+        "seq": 780
       }
     ],
     "危险度": [
@@ -39,6 +47,11 @@
         "value": "极高（触手免疫神通法宝、吸收元神，无人能逃出）",
         "docId": "plot.xianni-ch833-wangyue-awakens",
         "seq": 775
+      },
+      {
+        "value": "极高（触手吸元力、生机、道念）",
+        "docId": "plot.xianni-ch839-perfect-seal-yao-bingyun",
+        "seq": 780
       }
     ],
     "特产": [
@@ -51,6 +64,12 @@
         "value": "红色细丝（望月神经）",
         "docId": "plot.xianni-ch832-wangyue-zhi-xi-yao-bingyun-battle",
         "seq": 775
+      },
+      {
+        "value": "深处传出穿透灵魂的『来、来』呼唤源头",
+        "docId": "plot.xianni-ch839-perfect-seal-yao-bingyun",
+        "seq": 780,
+        "note": "第839章未揭示为何物"
       }
     ],
     "方位": [
@@ -58,6 +77,11 @@
         "value": "罗天星域",
         "docId": "plot.xianni-ch832-wangyue-zhi-xi-yao-bingyun-battle",
         "seq": 775
+      },
+      {
+        "value": "望月所化修真星内部",
+        "docId": "plot.xianni-ch839-perfect-seal-yao-bingyun",
+        "seq": 780
       }
     ],
     "上级区域": [
@@ -90,9 +114,9 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch832-wangyue-zhi-xi-yao-bingyun-battle",
+      "docId": "plot.xianni-ch839-perfect-seal-yao-bingyun",
       "dated": false,
-      "seq": 775
+      "seq": 780
     },
     "上级区域": {
       "asOf": null,
@@ -105,7 +129,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch832-wangyue-zhi-xi-yao-bingyun-battle",
-    "plot.xianni-ch833-wangyue-awakens"
+    "plot.xianni-ch833-wangyue-awakens",
+    "plot.xianni-ch839-perfect-seal-yao-bingyun"
   ],
-  "updatedAt": "2026-08-23T12:41:57.413Z"
+  "updatedAt": "2026-08-23T13:00:29.468Z"
 }

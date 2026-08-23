@@ -4,19 +4,25 @@
   "name": "移形",
   "aliases": [
     "大鼎移形",
-    "移形神通"
+    "移形神通",
+    "移形术"
   ],
   "summary": "王林借大鼎施展的瞬移神通，鼎与人瞬间转移到他处，原地却留下令触手无从察觉的假象。",
   "attributes": {
-    "类型": "空间瞬移",
-    "出处": "大鼎",
-    "威力": "可无声无息脱出触手包围，触手保持原姿态毫无察觉"
+    "类型": "空间瞬移、空间挪移",
+    "出处": "大鼎、借大鼎施展",
+    "威力": "可无声无息脱出触手包围，触手保持原姿态毫无察觉、可生生劈开望月之体的空间阻隔"
   },
   "observations": {
     "类型": [
       {
         "value": "空间瞬移",
         "docId": "plot.xianni-ch838-bingyun-wangyue-rebirth-dading-seized",
+        "seq": 780
+      },
+      {
+        "value": "空间挪移",
+        "docId": "plot.xianni-ch839-perfect-seal-yao-bingyun",
         "seq": 780
       }
     ],
@@ -25,12 +31,22 @@
         "value": "大鼎",
         "docId": "plot.xianni-ch838-bingyun-wangyue-rebirth-dading-seized",
         "seq": 780
+      },
+      {
+        "value": "借大鼎施展",
+        "docId": "plot.xianni-ch839-perfect-seal-yao-bingyun",
+        "seq": 780
       }
     ],
     "威力": [
       {
         "value": "可无声无息脱出触手包围，触手保持原姿态毫无察觉",
         "docId": "plot.xianni-ch838-bingyun-wangyue-rebirth-dading-seized",
+        "seq": 780
+      },
+      {
+        "value": "可生生劈开望月之体的空间阻隔",
+        "docId": "plot.xianni-ch839-perfect-seal-yao-bingyun",
         "seq": 780
       }
     ]
@@ -59,7 +75,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch838-bingyun-wangyue-rebirth-dading-seized"
+    "plot.xianni-ch838-bingyun-wangyue-rebirth-dading-seized",
+    "plot.xianni-ch839-perfect-seal-yao-bingyun"
   ],
-  "updatedAt": "2026-08-23T12:57:58.515Z"
+  "updatedAt": "2026-08-23T13:00:29.457Z"
 }
