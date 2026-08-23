@@ -3,12 +3,15 @@
   "type": "spell",
   "name": "阴阳之相",
   "aliases": [
-    "黑白二气"
+    "黑白二气",
+    "黑白之气",
+    "黑白二气交错"
   ],
   "summary": "王林双手身前环绕催发黑白二气结成的阴阳双鱼，可硬撼红色雷劫并疯狂吸收劫力。",
   "attributes": {
-    "类型": "防御/吸纳",
-    "出处": "王林黑白二气"
+    "类型": "神通/本源之力",
+    "出处": "王林黑白二气",
+    "威力": "破除怨灵黑雾、崩溃肉身、封锁并拉回元神"
   },
   "observations": {
     "类型": [
@@ -16,6 +19,11 @@
         "value": "防御/吸纳",
         "docId": "plot.xianni-ch852-blood-god-child-appears",
         "seq": 795
+      },
+      {
+        "value": "神通/本源之力",
+        "docId": "plot.xianni-ch896-shi-yin-zong-zhu-que-star-wang-family-rescue",
+        "seq": 834
       }
     ],
     "出处": [
@@ -24,27 +32,51 @@
         "docId": "plot.xianni-ch852-blood-god-child-appears",
         "seq": 795
       }
+    ],
+    "威力": [
+      {
+        "value": "破除怨灵黑雾",
+        "docId": "plot.xianni-ch896-shi-yin-zong-zhu-que-star-wang-family-rescue",
+        "seq": 834
+      },
+      {
+        "value": "崩溃肉身",
+        "docId": "plot.xianni-ch896-shi-yin-zong-zhu-que-star-wang-family-rescue",
+        "seq": 834
+      },
+      {
+        "value": "封锁并拉回元神",
+        "docId": "plot.xianni-ch896-shi-yin-zong-zhu-que-star-wang-family-rescue",
+        "seq": 834
+      }
     ]
   },
   "firstSeq": 795,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch852-blood-god-child-appears",
+      "docId": "plot.xianni-ch896-shi-yin-zong-zhu-que-star-wang-family-rescue",
       "dated": false,
-      "seq": 795
+      "seq": 834
     },
     "出处": {
       "asOf": null,
       "docId": "plot.xianni-ch852-blood-god-child-appears",
       "dated": false,
       "seq": 795
+    },
+    "威力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch896-shi-yin-zong-zhu-que-star-wang-family-rescue",
+      "dated": false,
+      "seq": 834
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch852-blood-god-child-appears"
+    "plot.xianni-ch852-blood-god-child-appears",
+    "plot.xianni-ch896-shi-yin-zong-zhu-que-star-wang-family-rescue"
   ],
-  "updatedAt": "2026-08-23T14:10:02.141Z"
+  "updatedAt": "2026-08-23T18:11:16.444Z"
 }

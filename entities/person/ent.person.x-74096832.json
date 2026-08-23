@@ -5,20 +5,27 @@
   "aliases": [
     "身穿龙袍的中年男子",
     "大王朝陛下",
-    "王家当代之主"
+    "王家当代之主",
+    "大王朝皇帝"
   ],
   "summary": "朱雀星上王家所立王朝的君主，眉心独无黑气；见到王林时剧震震惊，随即喝令王族历代家族供奉出手。",
   "attributes": {
-    "身份": "大王朝君主、王家族人首领",
+    "身份": "大王朝君主、王家族人首领、大王朝龙袍之主",
     "外貌": "身穿龙袍的中年男子",
     "标志特征": "眉心无黑气（与在场数百王家族人相反）",
-    "性格": "阴沉、狠戾"
+    "性格": "阴沉、狠戾",
+    "结局": "被王林以雷鸣般冷哼震昏，交由王家族人自行处置"
   },
   "observations": {
     "身份": [
       {
         "value": "大王朝君主、王家族人首领",
         "docId": "plot.xianni-ch895-wanglin-nu-zhuque-wangchao-yuanling",
+        "seq": 834
+      },
+      {
+        "value": "大王朝龙袍之主",
+        "docId": "plot.xianni-ch896-shi-yin-zong-zhu-que-star-wang-family-rescue",
         "seq": 834
       }
     ],
@@ -43,6 +50,13 @@
         "docId": "plot.xianni-ch895-wanglin-nu-zhuque-wangchao-yuanling",
         "seq": 834,
         "note": "第895章"
+      }
+    ],
+    "结局": [
+      {
+        "value": "被王林以雷鸣般冷哼震昏，交由王家族人自行处置",
+        "docId": "plot.xianni-ch896-shi-yin-zong-zhu-que-star-wang-family-rescue",
+        "seq": 834
       }
     ]
   },
@@ -73,12 +87,19 @@
       "dated": false,
       "seq": 834,
       "note": "第895章"
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch896-shi-yin-zong-zhu-que-star-wang-family-rescue",
+      "dated": false,
+      "seq": 834
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch895-wanglin-nu-zhuque-wangchao-yuanling"
+    "plot.xianni-ch895-wanglin-nu-zhuque-wangchao-yuanling",
+    "plot.xianni-ch896-shi-yin-zong-zhu-que-star-wang-family-rescue"
   ],
-  "updatedAt": "2026-08-23T18:08:37.475Z"
+  "updatedAt": "2026-08-23T18:11:16.432Z"
 }
