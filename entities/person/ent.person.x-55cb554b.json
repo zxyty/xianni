@@ -3,19 +3,27 @@
   "type": "person",
   "name": "酷似黄龙的老道",
   "aliases": [
-    "黄龙老道"
+    "黄龙老道",
+    "王林的掌门"
   ],
   "summary": "朱雀星某宗派广场上的老道，感应到第十七层通道开启，认为十七层可让王林见识、但其修为进不了第十八层。",
   "attributes": {
-    "外貌": "酷似黄龙的老道",
+    "外貌": "酷似黄龙的老道、酷似黄龙的老道，仙风道骨，不怒自威",
     "出身地": "朱雀星",
-    "阵营": "阻止进入第十八层"
+    "阵营": "阻止进入第十八层",
+    "身份": "昔日恒岳派掌门、四圣宗朱雀一脉高层",
+    "标志特征": "气息一散即收凝于体内；出手伴高温与黑色火焰，可凝固地面裂缝、封死通道"
   },
   "observations": {
     "外貌": [
       {
         "value": "酷似黄龙的老道",
         "docId": "plot.xianni-ch905-punishment-hall-immortal-corpses",
+        "seq": 840
+      },
+      {
+        "value": "酷似黄龙的老道，仙风道骨，不怒自威",
+        "docId": "plot.xianni-ch907-zhuque-sequence",
         "seq": 840
       }
     ],
@@ -30,6 +38,25 @@
       {
         "value": "阻止进入第十八层",
         "docId": "plot.xianni-ch906-huanglong-arrives-thunder-storm-17th-floor",
+        "seq": 840
+      }
+    ],
+    "身份": [
+      {
+        "value": "昔日恒岳派掌门",
+        "docId": "plot.xianni-ch907-zhuque-sequence",
+        "seq": 840
+      },
+      {
+        "value": "四圣宗朱雀一脉高层",
+        "docId": "plot.xianni-ch907-zhuque-sequence",
+        "seq": 840
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "气息一散即收凝于体内；出手伴高温与黑色火焰，可凝固地面裂缝、封死通道",
+        "docId": "plot.xianni-ch907-zhuque-sequence",
         "seq": 840
       }
     ]
@@ -53,13 +80,26 @@
       "docId": "plot.xianni-ch906-huanglong-arrives-thunder-storm-17th-floor",
       "dated": false,
       "seq": 840
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch907-zhuque-sequence",
+      "dated": false,
+      "seq": 840
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch907-zhuque-sequence",
+      "dated": false,
+      "seq": 840
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch905-punishment-hall-immortal-corpses",
-    "plot.xianni-ch906-huanglong-arrives-thunder-storm-17th-floor"
+    "plot.xianni-ch906-huanglong-arrives-thunder-storm-17th-floor",
+    "plot.xianni-ch907-zhuque-sequence"
   ],
-  "updatedAt": "2026-08-23T19:23:11.486Z"
+  "updatedAt": "2026-08-23T19:25:51.692Z"
 }

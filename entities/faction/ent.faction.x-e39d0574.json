@@ -4,12 +4,15 @@
   "name": "四圣宗",
   "aliases": [
     "Sisheng Sect",
-    "四圣宗势力"
+    "四圣宗势力",
+    "四圣宗朱雀一脉"
   ],
   "summary": "可与尸阴宗抗衡的另一大宗派；四圣星只是其一个分支，第一代朱雀子传闻自四圣星分离而出，故朱雀星一脉可溯源至四圣宗。",
   "attributes": {
     "等级": "联盟星域两大宗派之一",
-    "所属界面": "联盟星域"
+    "所属界面": "联盟星域",
+    "理念": "不介入罗天之战",
+    "据点": "朱雀星"
   },
   "observations": {
     "等级": [
@@ -24,6 +27,20 @@
         "value": "联盟星域",
         "docId": "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
         "seq": 626
+      }
+    ],
+    "理念": [
+      {
+        "value": "不介入罗天之战",
+        "docId": "plot.xianni-ch907-zhuque-sequence",
+        "seq": 840
+      }
+    ],
+    "据点": [
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch907-zhuque-sequence",
+        "seq": 840
       }
     ]
   },
@@ -40,12 +57,25 @@
       "docId": "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
       "dated": false,
       "seq": 626
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.xianni-ch907-zhuque-sequence",
+      "dated": false,
+      "seq": 840
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.xianni-ch907-zhuque-sequence",
+      "dated": false,
+      "seq": 840
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch670-sun-tai-reunion-cause-and-effect"
+    "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
+    "plot.xianni-ch907-zhuque-sequence"
   ],
-  "updatedAt": "2026-08-22T22:42:44.917Z"
+  "updatedAt": "2026-08-23T19:25:51.706Z"
 }

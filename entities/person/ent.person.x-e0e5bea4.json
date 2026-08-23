@@ -9,17 +9,19 @@
     "驼背七叶术咒师",
     "仙遗族老者",
     "驼背修士",
-    "驼背老人"
+    "驼背老人",
+    "金叶图腾老者",
+    "幻象中的符族老者"
   ],
   "summary": "仙遗族七叶术咒师，全身五分之四画满符文印记，戴兽骨手镯，可瞬移、封锁空间、以眉心七叶植物扫描全层；在第一层入口以金色符文封路截住王林。",
   "attributes": {
-    "种族": "仙遗族",
+    "种族": "符族/仙遗族",
     "身份": "困囚水命魂的施术者",
     "外貌": "驼背",
-    "标志特征": "兽骨手镯、眉心可生出七叶植物、常伴咳嗽、全身符文、眉心可生七叶植物",
+    "标志特征": "兽骨手镯、眉心可生出七叶植物、常伴咳嗽、全身符文、眉心可生七叶植物、图腾含一片金叶，眉心藏本源火团",
     "神识": "七叶植物延展可覆盖整层，等同修士神识",
     "阵营": "仙遗族",
-    "存殁": "存活、困于虚无、死亡",
+    "存殁": "存活、困于虚无、死亡、本源被夺",
     "性格": "高傲、易怒",
     "死因": "元神被次元裂缝吞噬（先失半截肉身与符文元神）",
     "元神强度": "极为虚弱"
@@ -30,6 +32,11 @@
         "value": "仙遗族",
         "docId": "plot.xianni-ch347-xianyi-zu",
         "seq": 327
+      },
+      {
+        "value": "符族/仙遗族",
+        "docId": "plot.xianni-ch907-zhuque-sequence",
+        "seq": 840
       }
     ],
     "身份": [
@@ -91,6 +98,11 @@
         "value": "眉心可生七叶植物",
         "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
         "seq": 332
+      },
+      {
+        "value": "图腾含一片金叶，眉心藏本源火团",
+        "docId": "plot.xianni-ch907-zhuque-sequence",
+        "seq": 840
       }
     ],
     "神识": [
@@ -123,6 +135,12 @@
         "value": "死亡",
         "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
         "seq": 428
+      },
+      {
+        "value": "本源被夺",
+        "docId": "plot.xianni-ch907-zhuque-sequence",
+        "seq": 840,
+        "note": "远古幻象所见"
       }
     ],
     "性格": [
@@ -152,9 +170,9 @@
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.xianni-ch347-xianyi-zu",
+      "docId": "plot.xianni-ch907-zhuque-sequence",
       "dated": false,
-      "seq": 327
+      "seq": 840
     },
     "身份": {
       "asOf": null,
@@ -218,7 +236,8 @@
     "plot.xianni-ch347-xianyi-zu",
     "plot.xianni-ch352-fu-kui-space-rift-flight",
     "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
-    "plot.xianni-ch451-waner-mingpo-tianyun-star"
+    "plot.xianni-ch451-waner-mingpo-tianyun-star",
+    "plot.xianni-ch907-zhuque-sequence"
   ],
-  "updatedAt": "2026-08-21T02:32:55.581Z"
+  "updatedAt": "2026-08-23T19:25:51.698Z"
 }
