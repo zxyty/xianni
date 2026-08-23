@@ -259,3 +259,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T05:39:45.757Z** `ingest` plot.xianni-ch755-jinbian-transport-array-ambush — 第755章 惊变：古神之皮蜃幻杀阵与传送阵前的血空凝 · kind=plot asOf=2026-08-23 entities=11 relations=21 src=00716-00720.p1.md
 - **2026-08-23T05:42:21.505Z** `ingest` plot.xianni-ch756-trap-immortal-storage-space — 第756章 陷阱：血祖踏碎雷之仙界碎片，王林与李元遁入仙人储物空间 · kind=plot asOf=2026-08-23 entities=19 relations=27 src=00716-00720.p2.md
 - **2026-08-23T05:44:41.687Z** `ingest` plot.xianni-c757-beast-bones-storage-space-valleys — 第757章 兽骨——储物空间探宝、破谷禁与血光九闪 · kind=plot asOf=2026-08-23 entities=21 relations=35 src=00716-00720.p3.md
+- **2026-08-23T05:51:55.211Z** `ingest` plot.xianni-ch758-immortal-relic-second-valley — 第758章 仙人遗物：王林破第二山谷禁制夺兽头骨、掌裂山壁 · kind=plot asOf=2026-08-23 entities=34 relations=49 src=00716-00720.p4.md
