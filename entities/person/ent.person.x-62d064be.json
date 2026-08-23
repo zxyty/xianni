@@ -4,17 +4,20 @@
   "name": "罗尘",
   "aliases": [
     "五星古神罗尘",
-    "Luo Chen"
+    "Luo Chen",
+    "孤神罗尘",
+    "古神罗尘"
   ],
   "summary": "从望月口中走出的五星古神，与望月同化太久、自认已成望月傀儡，徘徊于传承与吞噬之间，最终认可王林为涂司传承者。",
   "attributes": {
-    "种族": "古神",
+    "种族": "古神一族",
     "小阶段": "五星古神",
-    "外貌": "战中青筋暴起、神色狰狞",
-    "标志特征": "右臂可暴生近百丈骨刺交错成武器；身后虚影远超万丈、臃肿如望月并披铠甲",
-    "性格": "好战、爱才、长笑不断",
+    "外貌": "庞大身形，双目露出沧桑之芒、战中青筋暴起、神色狰狞、千丈古神巨人",
+    "标志特征": "右臂可暴生近百丈骨刺交错成武器；身后虚影远超万丈、臃肿如望月并披铠甲、眉心五颗古神之星、拳中幻化兽灵巨象",
+    "性格": "复杂、挣扎、后转柔和豪迈、好战、爱才、长笑不断、决断、悲怆、对王林如长辈待子",
     "存殁": "在世",
-    "身份": "五星古神"
+    "身份": "五星古神、古神一族长辈（有幼子）",
+    "结局": "被白发老者晶光大手拽出封界网外，去向「天道所在之处」"
   },
   "observations": {
     "种族": [
@@ -22,6 +25,11 @@
         "value": "古神",
         "docId": "plot.xianni-ch941-wang-clan-artifact-mie-shen-mao",
         "seq": 870
+      },
+      {
+        "value": "古神一族",
+        "docId": "plot.xianni-ch943-tiandao-fengjie-jiuzhen-luochen-guxing",
+        "seq": 876
       }
     ],
     "小阶段": [
@@ -42,6 +50,12 @@
         "value": "战中青筋暴起、神色狰狞",
         "docId": "plot.xianni-942-tianni-zhu-tremor-fissure-opens",
         "seq": 876
+      },
+      {
+        "value": "千丈古神巨人",
+        "docId": "plot.xianni-ch943-tiandao-fengjie-jiuzhen-luochen-guxing",
+        "seq": 876,
+        "note": "第943章连爆第五、第三星后；起始三百丈，中途七百余丈"
       }
     ],
     "标志特征": [
@@ -49,6 +63,16 @@
         "value": "右臂可暴生近百丈骨刺交错成武器；身后虚影远超万丈、臃肿如望月并披铠甲",
         "docId": "plot.xianni-ch941-wang-clan-artifact-mie-shen-mao",
         "seq": 870
+      },
+      {
+        "value": "眉心五颗古神之星",
+        "docId": "plot.xianni-ch943-tiandao-fengjie-jiuzhen-luochen-guxing",
+        "seq": 876
+      },
+      {
+        "value": "拳中幻化兽灵巨象",
+        "docId": "plot.xianni-ch943-tiandao-fengjie-jiuzhen-luochen-guxing",
+        "seq": 876
       }
     ],
     "性格": [
@@ -60,6 +84,11 @@
       {
         "value": "好战、爱才、长笑不断",
         "docId": "plot.xianni-942-tianni-zhu-tremor-fissure-opens",
+        "seq": 876
+      },
+      {
+        "value": "决断、悲怆、对王林如长辈待子",
+        "docId": "plot.xianni-ch943-tiandao-fengjie-jiuzhen-luochen-guxing",
         "seq": 876
       }
     ],
@@ -75,6 +104,19 @@
         "value": "五星古神",
         "docId": "plot.xianni-942-tianni-zhu-tremor-fissure-opens",
         "seq": 876
+      },
+      {
+        "value": "古神一族长辈（有幼子）",
+        "docId": "plot.xianni-ch943-tiandao-fengjie-jiuzhen-luochen-guxing",
+        "seq": 876
+      }
+    ],
+    "结局": [
+      {
+        "value": "被白发老者晶光大手拽出封界网外，去向「天道所在之处」",
+        "docId": "plot.xianni-ch943-tiandao-fengjie-jiuzhen-luochen-guxing",
+        "seq": 876,
+        "note": "第943章，存殁未明"
       }
     ]
   },
@@ -82,9 +124,9 @@
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.xianni-ch941-wang-clan-artifact-mie-shen-mao",
+      "docId": "plot.xianni-ch943-tiandao-fengjie-jiuzhen-luochen-guxing",
       "dated": false,
-      "seq": 870
+      "seq": 876
     },
     "小阶段": {
       "asOf": null,
@@ -95,9 +137,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-942-tianni-zhu-tremor-fissure-opens",
+      "docId": "plot.xianni-ch941-wang-clan-artifact-mie-shen-mao",
       "dated": false,
-      "seq": 876
+      "seq": 870
     },
     "标志特征": {
       "asOf": null,
@@ -107,9 +149,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-942-tianni-zhu-tremor-fissure-opens",
+      "docId": "plot.xianni-ch941-wang-clan-artifact-mie-shen-mao",
       "dated": false,
-      "seq": 876
+      "seq": 870
     },
     "存殁": {
       "asOf": null,
@@ -122,13 +164,21 @@
       "docId": "plot.xianni-942-tianni-zhu-tremor-fissure-opens",
       "dated": false,
       "seq": 876
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch943-tiandao-fengjie-jiuzhen-luochen-guxing",
+      "dated": false,
+      "seq": 876,
+      "note": "第943章，存殁未明"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch941-wang-clan-artifact-mie-shen-mao",
-    "plot.xianni-942-tianni-zhu-tremor-fissure-opens"
+    "plot.xianni-942-tianni-zhu-tremor-fissure-opens",
+    "plot.xianni-ch943-tiandao-fengjie-jiuzhen-luochen-guxing"
   ],
-  "updatedAt": "2026-08-23T21:39:33.806Z"
+  "updatedAt": "2026-08-23T21:42:13.639Z"
 }

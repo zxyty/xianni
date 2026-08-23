@@ -391,3 +391,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T21:34:50.292Z** `ingest` plot.xianni-ch940-four-star-royal-ancient-god — 第940章 四星王族古神——王林吞紫星成四星，破五行擒龙袍男子，向五星古神发出成年挑战 · kind=plot asOf=2026-08-23 entities=19 relations=31 src=00870-00875.p5.md
 - **2026-08-23T21:37:08.484Z** `ingest` plot.xianni-ch941-wang-clan-artifact-mie-shen-mao — 第941章 王族法器——王林幻化灭神矛战五星古神罗尘 · kind=plot asOf=2026-08-23 entities=19 relations=28 src=00870-00875.p6.md
 - **2026-08-23T21:39:34.038Z** `ingest` plot.xianni-942-tianni-zhu-tremor-fissure-opens — 第942章 天逆震动：虚无幽光现身，望月被七彩之气拽入裂缝 · kind=plot asOf=2026-08-23 entities=25 relations=33 src=00876-00880.p1.md
+- **2026-08-23T21:42:13.895Z** `ingest` plot.xianni-ch943-tiandao-fengjie-jiuzhen-luochen-guxing — 第943章 天道？——封界九阵与开天斧，罗尘赠双古星被擒 · kind=plot asOf=2026-08-23 entities=19 relations=26 src=00876-00880.p2.md
