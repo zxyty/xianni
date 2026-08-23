@@ -4,14 +4,18 @@
   "name": "极贤天",
   "aliases": [
     "Ji Xiantian",
-    "极贤天老怪"
+    "极贤天老怪",
+    "Ji Xian Tian"
   ],
   "summary": "修真联盟隐藏的强者，外貌千娇百媚如女子实为男子；尖啸可震杀修士并崩溃罗浮、吸纳天地元气，以无尽寒气化万丈冰川与炎雷子相抗。",
   "attributes": {
     "性别": "男",
     "外貌": "千娇百媚的女子模样，实则胸平有喉结",
-    "标志特征": "洁白如玉的手掌、尖锐刺耳的声音、无尽寒气与万丈冰川",
-    "阵营": "修真联盟"
+    "标志特征": "洁白如玉的手掌、尖锐刺耳的声音、无尽寒气与万丈冰川、十三层蓝意（规则之力）、万丈冰刃、寒气冰川",
+    "阵营": "修真联盟",
+    "称号": "成名数万年的老怪",
+    "性格": "阴沉、果断、睚眦必报",
+    "存殁": "重伤逃遁"
   },
   "observations": {
     "性别": [
@@ -44,6 +48,11 @@
         "value": "无尽寒气与万丈冰川",
         "docId": "plot.xianni-ch922-jixiantian-north-battle",
         "seq": 855
+      },
+      {
+        "value": "十三层蓝意（规则之力）、万丈冰刃、寒气冰川",
+        "docId": "plot.xianni-ch923-toumingzhuang-yanleizi-vs-jixiantian",
+        "seq": 855
       }
     ],
     "阵营": [
@@ -51,6 +60,28 @@
         "value": "修真联盟",
         "docId": "plot.xianni-ch922-jixiantian-north-battle",
         "seq": 855
+      }
+    ],
+    "称号": [
+      {
+        "value": "成名数万年的老怪",
+        "docId": "plot.xianni-ch923-toumingzhuang-yanleizi-vs-jixiantian",
+        "seq": 855
+      }
+    ],
+    "性格": [
+      {
+        "value": "阴沉、果断、睚眦必报",
+        "docId": "plot.xianni-ch923-toumingzhuang-yanleizi-vs-jixiantian",
+        "seq": 855
+      }
+    ],
+    "存殁": [
+      {
+        "value": "重伤逃遁",
+        "docId": "plot.xianni-ch923-toumingzhuang-yanleizi-vs-jixiantian",
+        "seq": 855,
+        "note": "第923章章末踏入自开的虚空裂缝，未死"
       }
     ]
   },
@@ -80,12 +111,32 @@
       "docId": "plot.xianni-ch922-jixiantian-north-battle",
       "dated": false,
       "seq": 855
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch923-toumingzhuang-yanleizi-vs-jixiantian",
+      "dated": false,
+      "seq": 855
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch923-toumingzhuang-yanleizi-vs-jixiantian",
+      "dated": false,
+      "seq": 855
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch923-toumingzhuang-yanleizi-vs-jixiantian",
+      "dated": false,
+      "seq": 855,
+      "note": "第923章章末踏入自开的虚空裂缝，未死"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch922-jixiantian-north-battle"
+    "plot.xianni-ch922-jixiantian-north-battle",
+    "plot.xianni-ch923-toumingzhuang-yanleizi-vs-jixiantian"
   ],
-  "updatedAt": "2026-08-23T20:06:36.556Z"
+  "updatedAt": "2026-08-23T20:08:48.611Z"
 }

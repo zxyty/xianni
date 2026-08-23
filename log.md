@@ -370,3 +370,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T20:01:28.840Z** `ingest` plot.xianni-ch917-luotian-counterattack — 第917章 罗天反击：十八罗浮、参天巨木与望月冲击联盟西部 · kind=plot asOf=2026-08-23 entities=63 relations=116 src=00853-00854.p1.md
 - **2026-08-23T20:04:00.712Z** `ingest` plot.xianni-ch921-qingse-yujian-jumu-wangyue — 《仙逆》第921章 青色玉简：王林踏上参天巨木，望月识主暴怒，古神之语现 · kind=plot asOf=2026-08-23 entities=25 relations=33 src=00853-00854.p2.md
 - **2026-08-23T20:06:36.805Z** `ingest` plot.xianni-ch922-jixiantian-north-battle — 第922章 极贤天——望月开道破西部封锁，联盟北域炎雷子对上极贤天 · kind=plot asOf=2026-08-23 entities=28 relations=44 src=00855-00859.p1.md
+- **2026-08-23T20:08:48.858Z** `ingest` plot.xianni-ch923-toumingzhuang-yanleizi-vs-jixiantian — 第923章 投名状：炎雷子暴露突破实力围攻极贤天，王林出手"定" · kind=plot asOf=2026-08-23 entities=19 relations=28 src=00855-00859.p2.md

@@ -4,13 +4,16 @@
   "name": "联盟北部",
   "aliases": [
     "修真联盟北部",
-    "联盟北部星域"
+    "联盟北部星域",
+    "北部战场",
+    "联盟北部战场"
   ],
   "summary": "炎雷子约定一个月后待罗天后援来临即随军直入的进攻方向。",
   "attributes": {
     "方位": "联盟星域北部",
     "所属势力": "修真联盟",
-    "上级区域": "联盟星域"
+    "上级区域": "联盟星域",
+    "类型": "战场星空"
   },
   "observations": {
     "方位": [
@@ -38,6 +41,13 @@
         "docId": "plot.xianni-ch922-jixiantian-north-battle",
         "seq": 855
       }
+    ],
+    "类型": [
+      {
+        "value": "战场星空",
+        "docId": "plot.xianni-ch923-toumingzhuang-yanleizi-vs-jixiantian",
+        "seq": 855
+      }
     ]
   },
   "firstSeq": 845,
@@ -59,13 +69,20 @@
       "docId": "plot.xianni-ch922-jixiantian-north-battle",
       "dated": false,
       "seq": 855
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-ch923-toumingzhuang-yanleizi-vs-jixiantian",
+      "dated": false,
+      "seq": 855
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu",
-    "plot.xianni-ch922-jixiantian-north-battle"
+    "plot.xianni-ch922-jixiantian-north-battle",
+    "plot.xianni-ch923-toumingzhuang-yanleizi-vs-jixiantian"
   ],
-  "updatedAt": "2026-08-23T20:06:36.573Z"
+  "updatedAt": "2026-08-23T20:08:48.625Z"
 }
