@@ -9,13 +9,17 @@
     "仙禁封印",
     "整体封印",
     "仙禁手法",
-    "仙界禁制"
+    "仙界禁制",
+    "仙禁符文",
+    "仙禁符文印记",
+    "仙人禁制体系"
   ],
   "summary": "仙界碎片洞府内残留的禁制体系，与上古禁制相似但内部构造不同；本质是更为灵活的阵法。王林参悟三日铭记于心，用以助推禁幡境界。",
   "attributes": {
-    "出处": "仙界",
-    "效果": "阻步封门（该残留者）、一化为无数、使范围内一切物品各自成禁、更高层次的禁制手法",
-    "品阶": "仙界之法（超越上古禁制）"
+    "出处": "仙界（雷之仙界遗迹）",
+    "效果": "阻步封门（该残留者）、一化为无数、使范围内一切物品各自成禁、更高层次的禁制手法、符文组合后形成各类禁制阵法",
+    "品阶": "仙界之法（超越上古禁制）",
+    "修炼条件": "须辨识符文全形方能推算其效用"
   },
   "observations": {
     "出处": [
@@ -33,6 +37,11 @@
         "value": "仙界",
         "docId": "plot.xianni-ch642-purple-mist-mosquito-beast",
         "seq": 600
+      },
+      {
+        "value": "仙界（雷之仙界遗迹）",
+        "docId": "plot.xianni-ch778-jubian-zhixu-fuwen-tongdao-liaoshang-dazhen",
+        "seq": 731
       }
     ],
     "效果": [
@@ -55,6 +64,11 @@
         "value": "更高层次的禁制手法",
         "docId": "plot.xianni-ch642-purple-mist-mosquito-beast",
         "seq": 600
+      },
+      {
+        "value": "符文组合后形成各类禁制阵法",
+        "docId": "plot.xianni-ch778-jubian-zhixu-fuwen-tongdao-liaoshang-dazhen",
+        "seq": 731
       }
     ],
     "品阶": [
@@ -68,15 +82,22 @@
         "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
         "seq": 532
       }
+    ],
+    "修炼条件": [
+      {
+        "value": "须辨识符文全形方能推算其效用",
+        "docId": "plot.xianni-ch778-jubian-zhixu-fuwen-tongdao-liaoshang-dazhen",
+        "seq": 731
+      }
     ]
   },
   "firstSeq": 276,
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch642-purple-mist-mosquito-beast",
+      "docId": "plot.xianni-ch778-jubian-zhixu-fuwen-tongdao-liaoshang-dazhen",
       "dated": false,
-      "seq": 600
+      "seq": 731
     },
     "效果": {
       "asOf": null,
@@ -89,6 +110,12 @@
       "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
       "dated": false,
       "seq": 532
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.xianni-ch778-jubian-zhixu-fuwen-tongdao-liaoshang-dazhen",
+      "dated": false,
+      "seq": 731
     }
   },
   "contested": false,
@@ -96,7 +123,8 @@
   "docs": [
     "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
     "plot.xianni-ch532-533-three-stroke-rune-second-seal",
-    "plot.xianni-ch642-purple-mist-mosquito-beast"
+    "plot.xianni-ch642-purple-mist-mosquito-beast",
+    "plot.xianni-ch778-jubian-zhixu-fuwen-tongdao-liaoshang-dazhen"
   ],
-  "updatedAt": "2026-08-22T18:46:10.365Z"
+  "updatedAt": "2026-08-23T07:47:06.834Z"
 }
