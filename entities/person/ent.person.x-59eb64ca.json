@@ -5,12 +5,14 @@
   "aliases": [
     "妖灵之地老者",
     "擅逃遁老者",
-    "擅长逃遁的老者"
+    "擅长逃遁的老者",
+    "擅逃遁的老者"
   ],
   "summary": "当年被王林收入尊魂幡的魂魄，擅长逃遁神通；本片段王林抽出其魂魄，将其逃遁神通一一记在心里。",
   "attributes": {
     "存殁": "死亡",
-    "身份": "妖灵之地修士"
+    "身份": "妖灵之地修士",
+    "标志特征": "擅长逃遁类神通"
   },
   "observations": {
     "存殁": [
@@ -32,6 +34,13 @@
         "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
         "seq": 674
       }
+    ],
+    "标志特征": [
+      {
+        "value": "擅长逃遁类神通",
+        "docId": "plot.xianni-c757-beast-bones-storage-space-valleys",
+        "seq": 716
+      }
     ]
   },
   "firstSeq": 669,
@@ -47,13 +56,20 @@
       "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
       "dated": false,
       "seq": 674
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-c757-beast-bones-storage-space-valleys",
+      "dated": false,
+      "seq": 716
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch669-673-thunder-beast-arrival-qianhuan-star-ascension-fruit",
-    "plot.xianni-674-678-wangyue-awaken-bone-heist"
+    "plot.xianni-674-678-wangyue-awaken-bone-heist",
+    "plot.xianni-c757-beast-bones-storage-space-valleys"
   ],
-  "updatedAt": "2026-08-23T01:41:07.115Z"
+  "updatedAt": "2026-08-23T05:44:41.505Z"
 }
