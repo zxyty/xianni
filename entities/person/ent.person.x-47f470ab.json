@@ -6,14 +6,16 @@
     "唐姓男子",
     "蓝衫中年修士",
     "唐某",
-    "Tang Yanfeng"
+    "Tang Yanfeng",
+    "薄唇英俊男子"
   ],
   "summary": "蓝衫、面色苍白无血色、双眼阴森冰冷的中年修士，与申公虎同辈，在雷门下讥讽申公虎依附他人与道魂不全。",
   "attributes": {
     "性别": "男",
-    "外貌": "身穿蓝衫、面色苍白无血色、双眼含阴森冰冷之色",
+    "外貌": "相貌极为英俊，双唇略薄，目光阴沉",
     "性格": "阴沉、语带讥讽",
-    "身份": "在雷之仙界门下候场的修士"
+    "身份": "在雷之仙界门下候场的修士",
+    "阵营": "唐家"
   },
   "observations": {
     "性别": [
@@ -28,6 +30,11 @@
         "value": "身穿蓝衫、面色苍白无血色、双眼含阴森冰冷之色",
         "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
         "seq": 697
+      },
+      {
+        "value": "相貌极为英俊，双唇略薄，目光阴沉",
+        "docId": "plot.xianni-ch776-thousand-zhang-forbidden-zone-tang-yanyun-death",
+        "seq": 731
       }
     ],
     "性格": [
@@ -44,6 +51,13 @@
         "seq": 697,
         "note": "与申公虎同辈"
       }
+    ],
+    "阵营": [
+      {
+        "value": "唐家",
+        "docId": "plot.xianni-ch776-thousand-zhang-forbidden-zone-tang-yanyun-death",
+        "seq": 731
+      }
     ]
   },
   "firstSeq": 697,
@@ -56,9 +70,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
+      "docId": "plot.xianni-ch776-thousand-zhang-forbidden-zone-tang-yanyun-death",
       "dated": false,
-      "seq": 697
+      "seq": 731
     },
     "性格": {
       "asOf": null,
@@ -72,12 +86,19 @@
       "dated": false,
       "seq": 697,
       "note": "与申公虎同辈"
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch776-thousand-zhang-forbidden-zone-tang-yanyun-death",
+      "dated": false,
+      "seq": 731
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch736-lei-zhi-xianjie-gate"
+    "plot.xianni-ch736-lei-zhi-xianjie-gate",
+    "plot.xianni-ch776-thousand-zhang-forbidden-zone-tang-yanyun-death"
   ],
-  "updatedAt": "2026-08-23T04:18:03.539Z"
+  "updatedAt": "2026-08-23T07:42:40.428Z"
 }
