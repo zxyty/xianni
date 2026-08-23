@@ -9,11 +9,12 @@
   ],
   "summary": "远古仙域遗留之物，在其上留名者其名与神可穿透虚无传入已消失的远古仙域；雷仙界崩溃时碎裂成无数碎片，炎雷子手中仅有巴掌大小一块。",
   "attributes": {
-    "来历": "远古仙域遗留，留在雷之仙界",
+    "来历": "由天空祥云所化云龙吐出",
     "持有者": "炎雷子",
-    "能力": "留名者名与神穿透虚无传入远古仙域、远古仙域再开时只接引石上有名者",
-    "外形": "巴掌大小的碎块",
-    "品阶": "远古仙域遗物"
+    "能力": "留名者名与神穿透虚无传入远古仙域、远古仙域再开时只接引石上有名者、以青光大力反弹刻名者、吸收刻名者一部分元神、所刻名字散发强大气息",
+    "外形": "半丈大小的山石，刻满无数名字",
+    "品阶": "远古仙域遗物",
+    "禁制": "非修为惊人之辈无法刻下名字"
   },
   "observations": {
     "来历": [
@@ -21,6 +22,12 @@
         "value": "远古仙域遗留，留在雷之仙界",
         "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
         "seq": 810
+      },
+      {
+        "value": "由天空祥云所化云龙吐出",
+        "docId": "plot.xianni-ch880-shengxian-chi-fengxian-shi-wanwer",
+        "seq": 821,
+        "note": "绝大多数修士不知其传说与来历"
       }
     ],
     "持有者": [
@@ -40,6 +47,21 @@
         "value": "远古仙域再开时只接引石上有名者",
         "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
         "seq": 810
+      },
+      {
+        "value": "以青光大力反弹刻名者",
+        "docId": "plot.xianni-ch880-shengxian-chi-fengxian-shi-wanwer",
+        "seq": 821
+      },
+      {
+        "value": "吸收刻名者一部分元神",
+        "docId": "plot.xianni-ch880-shengxian-chi-fengxian-shi-wanwer",
+        "seq": 821
+      },
+      {
+        "value": "所刻名字散发强大气息",
+        "docId": "plot.xianni-ch880-shengxian-chi-fengxian-shi-wanwer",
+        "seq": 821
       }
     ],
     "外形": [
@@ -47,6 +69,11 @@
         "value": "巴掌大小的碎块",
         "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
         "seq": 810
+      },
+      {
+        "value": "半丈大小的山石，刻满无数名字",
+        "docId": "plot.xianni-ch880-shengxian-chi-fengxian-shi-wanwer",
+        "seq": 821
       }
     ],
     "品阶": [
@@ -55,15 +82,23 @@
         "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
         "seq": 810
       }
+    ],
+    "禁制": [
+      {
+        "value": "非修为惊人之辈无法刻下名字",
+        "docId": "plot.xianni-ch880-shengxian-chi-fengxian-shi-wanwer",
+        "seq": 821
+      }
     ]
   },
   "firstSeq": 810,
   "attrProvenance": {
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+      "docId": "plot.xianni-ch880-shengxian-chi-fengxian-shi-wanwer",
       "dated": false,
-      "seq": 810
+      "seq": 821,
+      "note": "绝大多数修士不知其传说与来历"
     },
     "持有者": {
       "asOf": null,
@@ -79,21 +114,28 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+      "docId": "plot.xianni-ch880-shengxian-chi-fengxian-shi-wanwer",
       "dated": false,
-      "seq": 810
+      "seq": 821
     },
     "品阶": {
       "asOf": null,
       "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
       "dated": false,
       "seq": 810
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch880-shengxian-chi-fengxian-shi-wanwer",
+      "dated": false,
+      "seq": 821
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins"
+    "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+    "plot.xianni-ch880-shengxian-chi-fengxian-shi-wanwer"
   ],
-  "updatedAt": "2026-08-23T15:05:12.818Z"
+  "updatedAt": "2026-08-23T16:43:48.272Z"
 }
