@@ -4,13 +4,15 @@
   "name": "小型望月",
   "aliases": [
     "体内小型望月",
-    "百丈望月"
+    "百丈望月",
+    "小型月兽"
   ],
   "summary": "望月体内生出的小型个体，百丈长短、触须舞动、速度如闪电，自泥土裂缝冲出一口吞下一名修士；王林当年撬骨时曾遇一头，费大力气才逃走。",
   "attributes": {
-    "外形": "百丈长短、大量触须舞动",
-    "能力": "破土突袭、一口吞人",
-    "栖息地": "望月体内"
+    "外形": "百丈长短、大量触须舞动、千丈/百丈/数十丈的缩小版望月",
+    "能力": "破土突袭、一口吞人、群体散开吞噬修士",
+    "栖息地": "望月体内",
+    "主人": "望月"
   },
   "observations": {
     "外形": [
@@ -22,6 +24,11 @@
       {
         "value": "大量触须舞动",
         "docId": "plot.xianni-ch831-wangyue-awaken-kill-yao-yunhai",
+        "seq": 775
+      },
+      {
+        "value": "千丈/百丈/数十丈的缩小版望月",
+        "docId": "plot.xianni-ch834-yanleizi-reappears-wangyue-massacre",
         "seq": 775
       }
     ],
@@ -35,12 +42,24 @@
         "value": "一口吞人",
         "docId": "plot.xianni-ch831-wangyue-awaken-kill-yao-yunhai",
         "seq": 775
+      },
+      {
+        "value": "群体散开吞噬修士",
+        "docId": "plot.xianni-ch834-yanleizi-reappears-wangyue-massacre",
+        "seq": 775
       }
     ],
     "栖息地": [
       {
         "value": "望月体内",
         "docId": "plot.xianni-ch831-wangyue-awaken-kill-yao-yunhai",
+        "seq": 775
+      }
+    ],
+    "主人": [
+      {
+        "value": "望月",
+        "docId": "plot.xianni-ch834-yanleizi-reappears-wangyue-massacre",
         "seq": 775
       }
     ]
@@ -64,12 +83,19 @@
       "docId": "plot.xianni-ch831-wangyue-awaken-kill-yao-yunhai",
       "dated": false,
       "seq": 775
+    },
+    "主人": {
+      "asOf": null,
+      "docId": "plot.xianni-ch834-yanleizi-reappears-wangyue-massacre",
+      "dated": false,
+      "seq": 775
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch831-wangyue-awaken-kill-yao-yunhai"
+    "plot.xianni-ch831-wangyue-awaken-kill-yao-yunhai",
+    "plot.xianni-ch834-yanleizi-reappears-wangyue-massacre"
   ],
-  "updatedAt": "2026-08-23T12:37:43.815Z"
+  "updatedAt": "2026-08-23T12:44:29.309Z"
 }

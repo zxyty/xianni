@@ -4,12 +4,14 @@
   "name": "五大主星",
   "aliases": [
     "罗天北域五大主星",
-    "五主星"
+    "五主星",
+    "北域五大主星"
   ],
   "summary": "罗天北域核心的五颗主星；望月在其范围内收拢沉睡，令北域修士心中发麻。",
   "attributes": {
     "上级区域": "罗天北域",
-    "方位": "罗天北域中心"
+    "方位": "罗天北域中心",
+    "守护": "各自修真星阵法"
   },
   "observations": {
     "上级区域": [
@@ -30,6 +32,13 @@
         "docId": "plot.xianni-830-wang-lin-lures-pursuers-to-wangyue",
         "seq": 771
       }
+    ],
+    "守护": [
+      {
+        "value": "各自修真星阵法",
+        "docId": "plot.xianni-ch834-yanleizi-reappears-wangyue-massacre",
+        "seq": 775
+      }
     ]
   },
   "firstSeq": 674,
@@ -45,13 +54,20 @@
       "docId": "plot.xianni-830-wang-lin-lures-pursuers-to-wangyue",
       "dated": false,
       "seq": 771
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch834-yanleizi-reappears-wangyue-massacre",
+      "dated": false,
+      "seq": 775
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-674-678-wangyue-awaken-bone-heist",
-    "plot.xianni-830-wang-lin-lures-pursuers-to-wangyue"
+    "plot.xianni-830-wang-lin-lures-pursuers-to-wangyue",
+    "plot.xianni-ch834-yanleizi-reappears-wangyue-massacre"
   ],
-  "updatedAt": "2026-08-23T12:35:46.390Z"
+  "updatedAt": "2026-08-23T12:44:29.315Z"
 }
