@@ -4,13 +4,17 @@
   "name": "千幻星之魂",
   "aliases": [
     "星魂",
-    "千幻星魂"
+    "千幻星魂",
+    "星球之魂",
+    "絮状光团",
+    "魂团",
+    "星魂魂团"
   ],
   "summary": "千幻星凝聚无数岁月的星之魂，显化为无喜无悲、包容天地的沧桑气息，被抽出后化为剧烈压缩的灰色雾气，战后重新融入大地。",
   "attributes": {
-    "类型": "星辰之魂",
-    "用途": "被抽出后作为攻击之力",
-    "稀有度": "极罕",
+    "类型": "星球本源之魂",
+    "用途": "补充星球灵脉与灵气",
+    "稀有度": "极稀有（需自整颗星球抽取）",
     "产地": "千幻星"
   },
   "observations": {
@@ -19,6 +23,11 @@
         "value": "星辰之魂",
         "docId": "plot.xianni-687-tunshi-star-soul-extraction",
         "seq": 646
+      },
+      {
+        "value": "星球本源之魂",
+        "docId": "plot.xianni-ch898-lei-ji-2-restore-zhuque-star-soul",
+        "seq": 839
       }
     ],
     "用途": [
@@ -26,6 +35,11 @@
         "value": "被抽出后作为攻击之力",
         "docId": "plot.xianni-687-tunshi-star-soul-extraction",
         "seq": 646
+      },
+      {
+        "value": "补充星球灵脉与灵气",
+        "docId": "plot.xianni-ch898-lei-ji-2-restore-zhuque-star-soul",
+        "seq": 839
       }
     ],
     "稀有度": [
@@ -33,6 +47,11 @@
         "value": "极罕",
         "docId": "plot.xianni-687-tunshi-star-soul-extraction",
         "seq": 646
+      },
+      {
+        "value": "极稀有（需自整颗星球抽取）",
+        "docId": "plot.xianni-ch898-lei-ji-2-restore-zhuque-star-soul",
+        "seq": 839
       }
     ],
     "产地": [
@@ -47,21 +66,21 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-687-tunshi-star-soul-extraction",
+      "docId": "plot.xianni-ch898-lei-ji-2-restore-zhuque-star-soul",
       "dated": false,
-      "seq": 646
+      "seq": 839
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-687-tunshi-star-soul-extraction",
+      "docId": "plot.xianni-ch898-lei-ji-2-restore-zhuque-star-soul",
       "dated": false,
-      "seq": 646
+      "seq": 839
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.xianni-687-tunshi-star-soul-extraction",
+      "docId": "plot.xianni-ch898-lei-ji-2-restore-zhuque-star-soul",
       "dated": false,
-      "seq": 646
+      "seq": 839
     },
     "产地": {
       "asOf": null,
@@ -73,7 +92,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-687-tunshi-star-soul-extraction"
+    "plot.xianni-687-tunshi-star-soul-extraction",
+    "plot.xianni-ch898-lei-ji-2-restore-zhuque-star-soul"
   ],
-  "updatedAt": "2026-08-22T23:50:32.227Z"
+  "updatedAt": "2026-08-23T18:34:29.784Z"
 }
