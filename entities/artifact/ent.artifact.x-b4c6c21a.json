@@ -4,19 +4,26 @@
   "name": "五张黄纸符",
   "aliases": [
     "五张纸符",
-    "五行纸符"
+    "五行纸符",
+    "天灵五行纸符"
   ],
   "summary": "缠绕于金色真龙身上、散发电光并与其紧密相连的五张符，发动五行逆转时烙入其体内。",
   "attributes": {
-    "持有者": "金色真龙",
-    "能力": "发动五行逆转",
-    "外形": "五张黄纸，散发电光并可旋转"
+    "持有者": "金色真龙、龙袍男子",
+    "能力": "发动五行逆转、毒火、贡化之水、龙鳞之剑、刑罚之木、葬土、化虚幻皇冠",
+    "外形": "五张黄纸，散发电光并可旋转、悬于天灵之上的五张纸符",
+    "五行属性": "五行"
   },
   "observations": {
     "持有者": [
       {
         "value": "金色真龙",
         "docId": "plot.xianni-ch937-hua-di-wei-lao",
+        "seq": 870
+      },
+      {
+        "value": "龙袍男子",
+        "docId": "plot.xianni-ch940-four-star-royal-ancient-god",
         "seq": 870
       }
     ],
@@ -25,12 +32,54 @@
         "value": "发动五行逆转",
         "docId": "plot.xianni-ch937-hua-di-wei-lao",
         "seq": 870
+      },
+      {
+        "value": "毒火",
+        "docId": "plot.xianni-ch940-four-star-royal-ancient-god",
+        "seq": 870
+      },
+      {
+        "value": "贡化之水",
+        "docId": "plot.xianni-ch940-four-star-royal-ancient-god",
+        "seq": 870
+      },
+      {
+        "value": "龙鳞之剑",
+        "docId": "plot.xianni-ch940-four-star-royal-ancient-god",
+        "seq": 870
+      },
+      {
+        "value": "刑罚之木",
+        "docId": "plot.xianni-ch940-four-star-royal-ancient-god",
+        "seq": 870
+      },
+      {
+        "value": "葬土",
+        "docId": "plot.xianni-ch940-four-star-royal-ancient-god",
+        "seq": 870
+      },
+      {
+        "value": "化虚幻皇冠",
+        "docId": "plot.xianni-ch940-four-star-royal-ancient-god",
+        "seq": 870
       }
     ],
     "外形": [
       {
         "value": "五张黄纸，散发电光并可旋转",
         "docId": "plot.xianni-ch937-hua-di-wei-lao",
+        "seq": 870
+      },
+      {
+        "value": "悬于天灵之上的五张纸符",
+        "docId": "plot.xianni-ch940-four-star-royal-ancient-god",
+        "seq": 870
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "五行",
+        "docId": "plot.xianni-ch940-four-star-royal-ancient-god",
         "seq": 870
       }
     ]
@@ -54,13 +103,20 @@
       "docId": "plot.xianni-ch937-hua-di-wei-lao",
       "dated": false,
       "seq": 870
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.xianni-ch940-four-star-royal-ancient-god",
+      "dated": false,
+      "seq": 870
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch937-hua-di-wei-lao",
-    "plot.xianni-939-jixiantian-puppet-slain-power-inheritance"
+    "plot.xianni-939-jixiantian-puppet-slain-power-inheritance",
+    "plot.xianni-ch940-four-star-royal-ancient-god"
   ],
-  "updatedAt": "2026-08-23T21:32:37.284Z"
+  "updatedAt": "2026-08-23T21:34:50.057Z"
 }

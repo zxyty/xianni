@@ -1,59 +1,43 @@
 {
-  "id": "ent.spell.x-79c3e51b",
+  "id": "ent.spell.x-694d3679",
   "type": "spell",
-  "name": "毒火",
+  "name": "古神之音",
   "aliases": [
-    "绿色毒焰",
-    "幽火毒火"
+    "古神咆哮",
+    "挑战之吼"
   ],
-  "summary": "金龙五张纸符之一散发火光，全身弥漫剧毒火海，毒之强难以想象。",
+  "summary": "王林以百丈巨身发出的古神咆哮，内含古神之语，含义为「挑战」，吼出时无尽雷声与音爆弥漫虚无。",
   "attributes": {
-    "类型": "剧毒火焰",
-    "出处": "五行纸符",
-    "威力": "可毒毙修士，对古神无效"
+    "类型": "古神语音威压",
+    "威力": "引发无尽雷声与大片音爆，虚无亦难阻",
+    "适用境界": "古神"
   },
   "observations": {
     "类型": [
       {
-        "value": "毒火系神通",
-        "docId": "plot.xianni-ch934-chase-into-wangyue-mouth",
-        "seq": 865
-      },
-      {
-        "value": "剧毒火焰",
-        "docId": "plot.xianni-ch940-four-star-royal-ancient-god",
-        "seq": 870
-      }
-    ],
-    "出处": [
-      {
-        "value": "金龙头顶五张纸符之一",
-        "docId": "plot.xianni-ch934-chase-into-wangyue-mouth",
-        "seq": 865
-      },
-      {
-        "value": "五行纸符",
+        "value": "古神语音威压",
         "docId": "plot.xianni-ch940-four-star-royal-ancient-god",
         "seq": 870
       }
     ],
     "威力": [
       {
-        "value": "可毒毙修士，对古神无效",
+        "value": "引发无尽雷声与大片音爆，虚无亦难阻",
+        "docId": "plot.xianni-ch940-four-star-royal-ancient-god",
+        "seq": 870
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "古神",
         "docId": "plot.xianni-ch940-four-star-royal-ancient-god",
         "seq": 870
       }
     ]
   },
-  "firstSeq": 865,
+  "firstSeq": 870,
   "attrProvenance": {
     "类型": {
-      "asOf": null,
-      "docId": "plot.xianni-ch940-four-star-royal-ancient-god",
-      "dated": false,
-      "seq": 870
-    },
-    "出处": {
       "asOf": null,
       "docId": "plot.xianni-ch940-four-star-royal-ancient-god",
       "dated": false,
@@ -64,12 +48,17 @@
       "docId": "plot.xianni-ch940-four-star-royal-ancient-god",
       "dated": false,
       "seq": 870
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-ch940-four-star-royal-ancient-god",
+      "dated": false,
+      "seq": 870
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch934-chase-into-wangyue-mouth",
     "plot.xianni-ch940-four-star-royal-ancient-god"
   ],
   "updatedAt": "2026-08-23T21:34:50.060Z"
