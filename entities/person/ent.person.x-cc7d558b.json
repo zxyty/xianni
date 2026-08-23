@@ -5,16 +5,19 @@
   "aliases": [
     "姚家二代族人姚云",
     "云叔",
-    "Yao Yun"
+    "Yao Yun",
+    "踏红云的中年男子",
+    "持铜镜的中年男子"
   ],
   "summary": "姚家二代族人，受血神子之命前往罗天北域取许木（王林）性命。",
   "attributes": {
-    "身份": "姚家二代族人、姚家族人、姚家之人",
+    "身份": "姚家二代族人、姚家族人、姚家之人、追踪王林者",
     "阵营": "姚家",
     "性别": "男",
-    "外貌": "中年，相貌极为英俊，颇有仙风道骨",
+    "外貌": "中年，相貌极为英俊，颇有仙风道骨、相貌颇为英俊、神色沧桑",
     "性格": "重情、悲愤、敢违抗老祖",
-    "存殁": "受创未死"
+    "存殁": "受创未死",
+    "标志特征": "双目内藏一丝极深的妖异，如火苗忽明忽暗"
   },
   "observations": {
     "身份": [
@@ -31,6 +34,11 @@
       {
         "value": "姚家之人",
         "docId": "plot.xianni-ch849-yao-bingyun-dao-heart-retreat-one-step",
+        "seq": 790
+      },
+      {
+        "value": "追踪王林者",
+        "docId": "plot.xianni-ch850-yuanli-change-xieqing-disciple",
         "seq": 790
       }
     ],
@@ -53,6 +61,11 @@
         "value": "中年，相貌极为英俊，颇有仙风道骨",
         "docId": "plot.xianni-ch848-yao-bingyun-dao",
         "seq": 790
+      },
+      {
+        "value": "相貌颇为英俊、神色沧桑",
+        "docId": "plot.xianni-ch850-yuanli-change-xieqing-disciple",
+        "seq": 790
       }
     ],
     "性格": [
@@ -68,6 +81,13 @@
         "docId": "plot.xianni-ch848-yao-bingyun-dao",
         "seq": 790,
         "note": "回忆中被逼出虚空、喷血退出数十丈"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "双目内藏一丝极深的妖异，如火苗忽明忽暗",
+        "docId": "plot.xianni-ch850-yuanli-change-xieqing-disciple",
+        "seq": 790
       }
     ]
   },
@@ -109,6 +129,12 @@
       "dated": false,
       "seq": 790,
       "note": "回忆中被逼出虚空、喷血退出数十丈"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch850-yuanli-change-xieqing-disciple",
+      "dated": false,
+      "seq": 790
     }
   },
   "contested": false,
@@ -116,7 +142,8 @@
   "docs": [
     "plot.xianni-ch835-pijia-qixi-wangyue-gushen-yizhi",
     "plot.xianni-ch848-yao-bingyun-dao",
-    "plot.xianni-ch849-yao-bingyun-dao-heart-retreat-one-step"
+    "plot.xianni-ch849-yao-bingyun-dao-heart-retreat-one-step",
+    "plot.xianni-ch850-yuanli-change-xieqing-disciple"
   ],
-  "updatedAt": "2026-08-23T14:02:33.948Z"
+  "updatedAt": "2026-08-23T14:05:10.755Z"
 }

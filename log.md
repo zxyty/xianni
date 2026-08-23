@@ -313,3 +313,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T13:57:47.627Z** `ingest` plot.xianni-847-wang-lin-enlightenment-changes-qing-ling-star — 第847章 改变：王林悟「我即因果」之道，青灵星随之蜕变 · kind=plot asOf=2026-08-23 entities=11 relations=15 src=00790-00794.p2.md
 - **2026-08-23T14:00:34.323Z** `ingest` plot.xianni-ch848-yao-bingyun-dao — 第848章 姚冰云的道——借道印证因果，姚家法宝之魂真相 · kind=plot asOf=2026-08-23 entities=28 relations=50 src=00790-00794.p3.md
 - **2026-08-23T14:02:34.126Z** `ingest` plot.xianni-ch849-yao-bingyun-dao-heart-retreat-one-step — 第849章 退了一步——姚冰云道心之源与因果了结 · kind=plot asOf=2026-08-23 entities=13 relations=25 src=00790-00794.p4.md
+- **2026-08-23T14:05:10.943Z** `ingest` plot.xianni-ch850-yuanli-change-xieqing-disciple — 第850章 元力改变：因果小成入窥涅、收记名弟子谢青、姚云循镜追至 · kind=plot asOf=2026-08-23 entities=23 relations=35 src=00790-00794.p5.md
