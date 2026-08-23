@@ -7,11 +7,15 @@
     "第三步",
     "那神秘的第三步",
     "第三步之境",
-    "third step"
+    "third step",
+    "第三步境界",
+    "回归本源"
   ],
   "summary": "姚父猜测青霖仙帝洞府内藏有踏入此境的契机。",
   "attributes": {
-    "突破关键": "青霖仙帝洞府内的契机"
+    "突破关键": "青霖仙帝洞府内的契机",
+    "阶序": "第三步",
+    "上一境": "第二步（碎涅期）"
   },
   "observations": {
     "突破关键": [
@@ -20,6 +24,20 @@
         "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
         "seq": 576,
         "note": "姚父的猜测"
+      }
+    ],
+    "阶序": [
+      {
+        "value": "第三步",
+        "docId": "plot.xianni-ch734-shenton-exchange-third-eye",
+        "seq": 693
+      }
+    ],
+    "上一境": [
+      {
+        "value": "第二步（碎涅期）",
+        "docId": "plot.xianni-ch734-shenton-exchange-third-eye",
+        "seq": 693
       }
     ]
   },
@@ -31,13 +49,26 @@
       "dated": false,
       "seq": 576,
       "note": "姚父的猜测"
+    },
+    "阶序": {
+      "asOf": null,
+      "docId": "plot.xianni-ch734-shenton-exchange-third-eye",
+      "dated": false,
+      "seq": 693
+    },
+    "上一境": {
+      "asOf": null,
+      "docId": "plot.xianni-ch734-shenton-exchange-third-eye",
+      "dated": false,
+      "seq": 693
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch616-immortal-emperor-qinglin-secret",
-    "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step"
+    "plot.xianni-ch684-688-tianni-space-dao-seeking-third-step",
+    "plot.xianni-ch734-shenton-exchange-third-eye"
   ],
-  "updatedAt": "2026-08-23T02:19:01.864Z"
+  "updatedAt": "2026-08-23T03:54:02.650Z"
 }

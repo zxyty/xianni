@@ -7,14 +7,16 @@
     "东临",
     "东临杀星",
     "Dong Lin Star",
-    "Dongling Star"
+    "Dongling Star",
+    "Donglin Star"
   ],
   "summary": "罗天星域中的一颗修真星，向家所在地。",
   "attributes": {
     "上级区域": "罗天星域",
     "所属势力": "向家",
     "类型": "修真星",
-    "危险度": "极高（势力极强，暂不可去）"
+    "危险度": "极高（势力极强，暂不可去）",
+    "特产": "擅长魔气神通的修士"
   },
   "observations": {
     "上级区域": [
@@ -49,6 +51,13 @@
         "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
         "seq": 621
       }
+    ],
+    "特产": [
+      {
+        "value": "擅长魔气神通的修士",
+        "docId": "plot.xianni-ch734-shenton-exchange-third-eye",
+        "seq": 693
+      }
     ]
   },
   "firstSeq": 618,
@@ -76,6 +85,12 @@
       "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
       "dated": false,
       "seq": 621
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch734-shenton-exchange-third-eye",
+      "dated": false,
+      "seq": 693
     }
   },
   "contested": false,
@@ -87,7 +102,8 @@
     "plot.xianni-ch668-four-years-ago-cause-baohe-auction",
     "plot.xianni-ch669-sun-tai-baohe-lou-eight-grade-pill-one-immortal-jade",
     "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
-    "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi"
+    "plot.xianni-ch682-daoyi-wanglin-seals-yuanying-helps-sunxi",
+    "plot.xianni-ch734-shenton-exchange-third-eye"
   ],
-  "updatedAt": "2026-08-22T23:33:37.423Z"
+  "updatedAt": "2026-08-23T03:54:02.646Z"
 }

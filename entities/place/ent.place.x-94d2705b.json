@@ -10,12 +10,13 @@
   ],
   "summary": "一颗水蓝色的废弃星球，海洋占大半、凡人众多、灵气稀薄，最高修为仅元婴且无化神，修真家族林立；气息与朱雀星极似，第730章起成为王林的修真星。",
   "attributes": {
-    "类型": "修真星／王林洞府",
+    "类型": "修真星球、修真星／王林洞府、修真星",
     "所属势力": "王林",
     "特产": "修真家族众多、凡人国家密集、升仙果（王林所植）",
     "危险度": "低（最高修为仅元婴，无化神）",
     "规模": "海洋占大半的水蓝色星球，罡风层稀薄",
-    "方位": "西北之地有广阔荒漠"
+    "方位": "西北之地有广阔荒漠",
+    "上级区域": "罗天星域"
   },
   "observations": {
     "类型": [
@@ -27,6 +28,11 @@
       {
         "value": "修真星／王林洞府",
         "docId": "plot.xianni-733-qiang-ding-wanglin-wending-yuanman-qiang-leiding",
+        "seq": 693
+      },
+      {
+        "value": "修真星",
+        "docId": "plot.xianni-ch734-shenton-exchange-third-eye",
         "seq": 693
       }
     ],
@@ -76,15 +82,22 @@
         "docId": "plot.xianni-733-qiang-ding-wanglin-wending-yuanman-qiang-leiding",
         "seq": 693
       }
+    ],
+    "上级区域": [
+      {
+        "value": "罗天星域",
+        "docId": "plot.xianni-ch734-shenton-exchange-third-eye",
+        "seq": 693
+      }
     ]
   },
   "firstSeq": 689,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-733-qiang-ding-wanglin-wending-yuanman-qiang-leiding",
+      "docId": "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
       "dated": false,
-      "seq": 693
+      "seq": 689
     },
     "所属势力": {
       "asOf": null,
@@ -117,6 +130,12 @@
       "docId": "plot.xianni-733-qiang-ding-wanglin-wending-yuanman-qiang-leiding",
       "dated": false,
       "seq": 693
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch734-shenton-exchange-third-eye",
+      "dated": false,
+      "seq": 693
     }
   },
   "contested": false,
@@ -124,7 +143,8 @@
   "docs": [
     "plot.xianni-ch689-692-zhankonglie-suspicion-leichi",
     "plot.xianni-ch732-daluo-perfection-and-xu-liguo-antics",
-    "plot.xianni-733-qiang-ding-wanglin-wending-yuanman-qiang-leiding"
+    "plot.xianni-733-qiang-ding-wanglin-wending-yuanman-qiang-leiding",
+    "plot.xianni-ch734-shenton-exchange-third-eye"
   ],
-  "updatedAt": "2026-08-23T03:51:11.229Z"
+  "updatedAt": "2026-08-23T03:54:02.645Z"
 }
