@@ -6,15 +6,17 @@
     "紫道宗宗主",
     "Lu Yuncong",
     "宗主卢云从",
-    "卢迪之父"
+    "卢迪之父",
+    "紫道宗卢云从"
   ],
   "summary": "紫道宗宗主、卢迪之父，天资极高、于云海五阶星域声名赫赫；本章现身紫色大陆星空，一挥手化紫光炼丹炉炼化星虎兽，为炼制虎骨魂刀积累。",
   "attributes": {
     "性别": "男",
-    "身份": "紫道宗宗主",
+    "身份": "被道法门大长老看中之人",
     "外貌": "一身紫金之袍、目深邃、眉淡而低，略显阴森威严、中年男子",
     "性格": "冷酷阴森、越平静越危险，喜怒不形于色",
-    "存殁": "在世"
+    "存殁": "在世",
+    "阵营": "紫道宗"
   },
   "observations": {
     "性别": [
@@ -29,6 +31,12 @@
         "value": "紫道宗宗主",
         "docId": "plot.xianni-1145-a-single-hair-lu-di-slain",
         "seq": 1063
+      },
+      {
+        "value": "被道法门大长老看中之人",
+        "docId": "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong",
+        "seq": 1077,
+        "note": "冯佩山语，来历神秘"
       }
     ],
     "外貌": [
@@ -61,6 +69,13 @@
         "docId": "plot.xianni-1146-tianni-second-perfection-hope",
         "seq": 1063
       }
+    ],
+    "阵营": [
+      {
+        "value": "紫道宗",
+        "docId": "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong",
+        "seq": 1077
+      }
     ]
   },
   "firstSeq": 1063,
@@ -73,9 +88,10 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1145-a-single-hair-lu-di-slain",
+      "docId": "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong",
       "dated": false,
-      "seq": 1063
+      "seq": 1077,
+      "note": "冯佩山语，来历神秘"
     },
     "外貌": {
       "asOf": null,
@@ -94,13 +110,20 @@
       "docId": "plot.xianni-1146-tianni-second-perfection-hope",
       "dated": false,
       "seq": 1063
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong",
+      "dated": false,
+      "seq": 1077
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1145-a-single-hair-lu-di-slain",
-    "plot.xianni-1146-tianni-second-perfection-hope"
+    "plot.xianni-1146-tianni-second-perfection-hope",
+    "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong"
   ],
-  "updatedAt": "2026-08-24T18:30:47.823Z"
+  "updatedAt": "2026-08-24T20:03:03.669Z"
 }

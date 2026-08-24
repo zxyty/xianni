@@ -14,8 +14,10 @@
   "summary": "四大仙界之一，由通往仙域的通道演化而成。",
   "attributes": {
     "层次": "四大仙界之一",
-    "特点": "充满蚊兽",
-    "主宰势力": "仙帝蓝云"
+    "特点": "四大仙界之一、下辖云尘星域、四大仙界之一，其下云海、充满蚊兽、常年开放，不需开启、几乎无人敢深入，多在外围寻宝",
+    "主宰势力": "仙帝蓝云",
+    "所属星域": "云海星域",
+    "通道": "入口在八阶星域北部"
   },
   "observations": {
     "层次": [
@@ -55,6 +57,16 @@
         "value": "充满蚊兽",
         "docId": "plot.xianni-ch1108-ancient-immortal-domain-aura",
         "seq": 1024
+      },
+      {
+        "value": "常年开放，不需开启",
+        "docId": "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong",
+        "seq": 1077
+      },
+      {
+        "value": "几乎无人敢深入，多在外围寻宝",
+        "docId": "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong",
+        "seq": 1077
       }
     ],
     "主宰势力": [
@@ -62,6 +74,20 @@
         "value": "仙帝蓝云",
         "docId": "plot.xianni-1071-zhu-que-sheng-zong-lai-lin",
         "seq": 987
+      }
+    ],
+    "所属星域": [
+      {
+        "value": "云海星域",
+        "docId": "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong",
+        "seq": 1077
+      }
+    ],
+    "通道": [
+      {
+        "value": "入口在八阶星域北部",
+        "docId": "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong",
+        "seq": 1077
       }
     ]
   },
@@ -75,15 +101,27 @@
     },
     "特点": {
       "asOf": null,
-      "docId": "plot.xianni-ch1108-ancient-immortal-domain-aura",
+      "docId": "plot.xianni-ch618-620-scroll-woman-luotian-star-region-seal",
       "dated": false,
-      "seq": 1024
+      "seq": 618
     },
     "主宰势力": {
       "asOf": null,
       "docId": "plot.xianni-1071-zhu-que-sheng-zong-lai-lin",
       "dated": false,
       "seq": 987
+    },
+    "所属星域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong",
+      "dated": false,
+      "seq": 1077
+    },
+    "通道": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong",
+      "dated": false,
+      "seq": 1077
     }
   },
   "contested": false,
@@ -96,7 +134,8 @@
     "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
     "plot.xianni-1071-zhu-que-sheng-zong-lai-lin",
     "plot.xianni-ch1103-yunhai-mosquito-beasts-stolen",
-    "plot.xianni-ch1108-ancient-immortal-domain-aura"
+    "plot.xianni-ch1108-ancient-immortal-domain-aura",
+    "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong"
   ],
-  "updatedAt": "2026-08-24T15:31:45.995Z"
+  "updatedAt": "2026-08-24T20:03:03.682Z"
 }

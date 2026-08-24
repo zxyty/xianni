@@ -4,7 +4,8 @@
   "name": "冯佩山",
   "aliases": [
     "道法门冯佩山",
-    "孙佩山（原文误写）"
+    "孙佩山（原文误写）",
+    "Feng Peishan"
   ],
   "summary": "六阶星域第一宗派道法门核心弟子，净涅中期，三人搜寻队伍之首，掌握「言出法随」神通。",
   "attributes": {
@@ -12,7 +13,8 @@
     "小阶段": "净涅中期",
     "身份": "道法门核心弟子",
     "外貌": "中年男子",
-    "性格": "沉稳、威严"
+    "性格": "沉稳、威严、谨慎、善推理",
+    "阵营": "道法门"
   },
   "observations": {
     "性别": [
@@ -48,6 +50,18 @@
         "value": "沉稳、威严",
         "docId": "plot.xianni-ch1162-shangren-zhe-ren-heng-shang-zhi",
         "seq": 1077
+      },
+      {
+        "value": "谨慎、善推理",
+        "docId": "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong",
+        "seq": 1077
+      }
+    ],
+    "阵营": [
+      {
+        "value": "道法门",
+        "docId": "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong",
+        "seq": 1077
       }
     ]
   },
@@ -82,12 +96,19 @@
       "docId": "plot.xianni-ch1162-shangren-zhe-ren-heng-shang-zhi",
       "dated": false,
       "seq": 1077
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong",
+      "dated": false,
+      "seq": 1077
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1162-shangren-zhe-ren-heng-shang-zhi"
+    "plot.xianni-ch1162-shangren-zhe-ren-heng-shang-zhi",
+    "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong"
   ],
-  "updatedAt": "2026-08-24T20:00:31.447Z"
+  "updatedAt": "2026-08-24T20:03:03.665Z"
 }

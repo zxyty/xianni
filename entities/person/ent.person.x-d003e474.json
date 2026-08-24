@@ -11,7 +11,8 @@
     "性别": "男",
     "身份": "魔丛道修士",
     "外貌": "黑衣、脸上涂有胭脂",
-    "性格": "阴冷、轻佻"
+    "性格": "阴冷、轻佻、轻佻、见风使舵、幸灾乐祸",
+    "阵营": "魔丛道"
   },
   "observations": {
     "性别": [
@@ -39,6 +40,18 @@
       {
         "value": "阴冷、轻佻",
         "docId": "plot.xianni-ch1162-shangren-zhe-ren-heng-shang-zhi",
+        "seq": 1077
+      },
+      {
+        "value": "轻佻、见风使舵、幸灾乐祸",
+        "docId": "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong",
+        "seq": 1077
+      }
+    ],
+    "阵营": [
+      {
+        "value": "魔丛道",
+        "docId": "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong",
         "seq": 1077
       }
     ]
@@ -68,12 +81,19 @@
       "docId": "plot.xianni-ch1162-shangren-zhe-ren-heng-shang-zhi",
       "dated": false,
       "seq": 1077
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong",
+      "dated": false,
+      "seq": 1077
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1162-shangren-zhe-ren-heng-shang-zhi"
+    "plot.xianni-ch1162-shangren-zhe-ren-heng-shang-zhi",
+    "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong"
   ],
-  "updatedAt": "2026-08-24T20:00:31.449Z"
+  "updatedAt": "2026-08-24T20:03:03.666Z"
 }

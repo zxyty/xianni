@@ -11,9 +11,11 @@
     "性别": "男",
     "小阶段": "净涅初期",
     "身份": "五毒门核心弟子",
-    "标志特征": "右眼蓝光闪烁（紫蓝毒攻所致）",
+    "标志特征": "右眼蓝光闪烁（紫蓝毒攻所致）、胸口漆黑掌印",
     "外貌": "面色阴沉",
-    "结局": "胸口中一掌、喷血抛飞、留下漆黑掌印"
+    "结局": "胸口中一掌、喷血抛飞、留下漆黑掌印",
+    "存殁": "重伤未死",
+    "阵营": "五毒门"
   },
   "observations": {
     "性别": [
@@ -42,6 +44,11 @@
         "value": "右眼蓝光闪烁（紫蓝毒攻所致）",
         "docId": "plot.xianni-ch1162-shangren-zhe-ren-heng-shang-zhi",
         "seq": 1077
+      },
+      {
+        "value": "胸口漆黑掌印",
+        "docId": "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong",
+        "seq": 1077
       }
     ],
     "外貌": [
@@ -57,6 +64,20 @@
         "docId": "plot.xianni-ch1162-shangren-zhe-ren-heng-shang-zhi",
         "seq": 1077,
         "note": "第1162章末，生死未明"
+      }
+    ],
+    "存殁": [
+      {
+        "value": "重伤未死",
+        "docId": "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong",
+        "seq": 1077
+      }
+    ],
+    "阵营": [
+      {
+        "value": "五毒门",
+        "docId": "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong",
+        "seq": 1077
       }
     ]
   },
@@ -98,12 +119,25 @@
       "dated": false,
       "seq": 1077,
       "note": "第1162章末，生死未明"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong",
+      "dated": false,
+      "seq": 1077
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong",
+      "dated": false,
+      "seq": 1077
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1162-shangren-zhe-ren-heng-shang-zhi"
+    "plot.xianni-ch1162-shangren-zhe-ren-heng-shang-zhi",
+    "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong"
   ],
-  "updatedAt": "2026-08-24T20:00:31.448Z"
+  "updatedAt": "2026-08-24T20:03:03.664Z"
 }
