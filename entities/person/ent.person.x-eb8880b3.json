@@ -13,7 +13,8 @@
     "雷仙殿殿主炎雷子",
     "Yan Leizi",
     "雷仙殿炎雷子",
-    "炎雷"
+    "炎雷",
+    "罗天炎雷子"
   ],
   "summary": "神秘老者自曝的名号，筹划数万年、进出仙界数百次，欲炼化雷之仙界为法宝并打通空间壁垒，率罗天星域修士踏平联盟。",
   "attributes": {
@@ -27,8 +28,8 @@
     "本命法宝": "四十九碎片所成仙阵之宝",
     "标志特征": "白发、全身火光滔天，可化炎龙、体内透出一丝回归本源的气息、全身火焰滔天，可映照半个星空；虚空凝白色火球、赤色火焰、火凤、火龙元力显化、看人「看得透彻」，胜过烈云子",
     "出身地": "联盟星域",
-    "阵营": "围猎望月的老怪联合体、雷仙殿、追击王林/围困望月一方、罗天星域·雷仙殿、罗天星域一方、罗天星域、杀入修真联盟一方、罗天一方",
-    "存殁": "存活",
+    "阵营": "围猎望月的老怪联合体、雷仙殿、追击王林/围困望月一方、罗天星域·雷仙殿、罗天星域一方、罗天星域、杀入修真联盟一方、罗天一方、联盟星域北部交战一方",
+    "存殁": "在世",
     "神识": "覆盖大范围搜寻王林未果、可看破他人眉心印记，但四股力量中只看得出最弱一股",
     "小阶段": "碎涅后期（爆发后无限增长，疑已突破）、第二步大圆满"
   },
@@ -427,7 +428,13 @@
       {
         "value": "罗天一方",
         "docId": "plot.xianni-ch934-chase-into-wangyue-mouth",
-        "seq": 865
+        "seq": 865,
+        "note": "第960章北部大战"
+      },
+      {
+        "value": "联盟星域北部交战一方",
+        "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
+        "seq": 960
       }
     ],
     "存殁": [
@@ -435,6 +442,11 @@
         "value": "存活",
         "docId": "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens",
         "seq": 821
+      },
+      {
+        "value": "在世",
+        "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
+        "seq": 960
       }
     ],
     "神识": [
@@ -537,9 +549,9 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch883-dongling-star-luotian-alliance-war-opens",
+      "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
       "dated": false,
-      "seq": 821
+      "seq": 960
     },
     "神识": {
       "asOf": null,
@@ -603,7 +615,8 @@
     "plot.xianni-ch904-908-tianyunzi-finger-strike",
     "plot.xianni-1007-huaxian-warning-turtle-shell",
     "plot.xianni-ch1008-zang-hua-baiyi-nvzi",
-    "plot.xianni-ch1009-whose-statue"
+    "plot.xianni-ch1009-whose-statue",
+    "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history"
   ],
-  "updatedAt": "2026-08-24T04:33:09.417Z"
+  "updatedAt": "2026-08-24T09:00:07.747Z"
 }

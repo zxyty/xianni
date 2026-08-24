@@ -3,13 +3,16 @@
   "type": "place",
   "name": "联盟星域北部",
   "aliases": [
-    "联盟星域北部战场"
+    "联盟星域北部战场",
+    "北部大战之地",
+    "罗天与联盟战场"
   ],
   "summary": "望月首次展开神通、古神一指自爆撕裂万里星空之地。",
   "attributes": {
     "上级区域": "联盟星域",
     "方位": "联盟星域北部",
-    "危险度": "极高（万里星空崩裂）"
+    "危险度": "极高（万里星空崩裂）",
+    "类型": "战场"
   },
   "observations": {
     "上级区域": [
@@ -32,6 +35,13 @@
         "docId": "plot.xianni-ch929-wanglin-zhi-wu-wangyue-gushen-yizhi",
         "seq": 860
       }
+    ],
+    "类型": [
+      {
+        "value": "战场",
+        "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
+        "seq": 960
+      }
     ]
   },
   "firstSeq": 860,
@@ -53,12 +63,19 @@
       "docId": "plot.xianni-ch929-wanglin-zhi-wu-wangyue-gushen-yizhi",
       "dated": false,
       "seq": 860
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
+      "dated": false,
+      "seq": 960
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch929-wanglin-zhi-wu-wangyue-gushen-yizhi"
+    "plot.xianni-ch929-wanglin-zhi-wu-wangyue-gushen-yizhi",
+    "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history"
   ],
-  "updatedAt": "2026-08-23T20:24:03.261Z"
+  "updatedAt": "2026-08-24T09:00:07.720Z"
 }

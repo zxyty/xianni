@@ -447,3 +447,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T07:48:22.629Z** `ingest` plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin — 第1029章 鸟散：符族圣祖秋瑶控诉仙帝青霖、传枯符之术后与葬仙池同归于尽 · kind=plot asOf=2026-08-24 entities=80 relations=133 src=00953-00955.md
 - **2026-08-24T08:01:57.039Z** `ingest` plot.xianni-ch956-957-yao-xixue-confrontation-kufu — 第956-957章 枯符之秘与姚惜雪的复仇质问「我错了么」 · kind=plot asOf=2026-08-24 entities=41 relations=77 src=00956-00957.md
 - **2026-08-24T08:09:29.438Z** `ingest` plot.xianni-ch1036-hai-zhi-juren-yao-xixue — 仙逆 第1036章 你叫，姚惜雪——朱雀之火焚海之巨人，王林解风妖疤痕 · kind=plot asOf=2026-08-24 entities=29 relations=55 src=00958-00959.md
+- **2026-08-24T09:00:08.008Z** `ingest` plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history — 《仙逆》第1038章 窥涅巅峰？——四圣宗败落秘史与王林突破窥涅后期 · kind=plot asOf=2026-08-24 entities=71 relations=119 src=00960-00962.p1.md

@@ -4,12 +4,15 @@
   "name": "天运星外星空",
   "aliases": [
     "天运星外的星空",
-    "星空"
+    "星空",
+    "漆黑星空",
+    "宇宙星空"
   ],
   "summary": "七彩旋风将王林、凌天候、灰衣天运子三人卷出天运星后的最终决战之地，双剑在此剑尖相撞直至杀戮之剑崩溃。",
   "attributes": {
     "上级区域": "天运星",
-    "方位": "天运星之外"
+    "方位": "天运星之外",
+    "特产": "星云、陨石、尘埃"
   },
   "observations": {
     "上级区域": [
@@ -24,6 +27,23 @@
         "value": "天运星之外",
         "docId": "plot.xianni-ch904-908-tianyunzi-finger-strike",
         "seq": 904
+      }
+    ],
+    "特产": [
+      {
+        "value": "星云",
+        "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
+        "seq": 960
+      },
+      {
+        "value": "陨石",
+        "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
+        "seq": 960
+      },
+      {
+        "value": "尘埃",
+        "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
+        "seq": 960
       }
     ]
   },
@@ -40,12 +60,19 @@
       "docId": "plot.xianni-ch904-908-tianyunzi-finger-strike",
       "dated": false,
       "seq": 904
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
+      "dated": false,
+      "seq": 960
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch904-908-tianyunzi-finger-strike"
+    "plot.xianni-ch904-908-tianyunzi-finger-strike",
+    "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history"
   ],
-  "updatedAt": "2026-08-24T00:32:50.728Z"
+  "updatedAt": "2026-08-24T09:00:07.682Z"
 }

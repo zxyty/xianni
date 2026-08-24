@@ -13,16 +13,17 @@
     "Four Sacred Sects",
     "Four Saints Sect",
     "四大圣宗",
-    "四圣宗一脉"
+    "四圣宗一脉",
+    "Four Saint Sects"
   ],
   "summary": "可与尸阴宗抗衡的另一大宗派；四圣星只是其一个分支，第一代朱雀子传闻自四圣星分离而出，故朱雀星一脉可溯源至四圣宗。",
   "attributes": {
     "等级": "含玄武／白虎／青龙／朱雀四脉",
     "所属界面": "联盟星域",
-    "理念": "不介入罗天之战、以感悟符族本源之力甄别内门弟子、隐忍蓄力，借罗天之势消耗修真联盟、四圣分宗、尊崇四圣血脉觉醒者、四圣觉醒传承",
-    "据点": "四圣星",
-    "阵营": "修真联盟死敌",
-    "镇派之宝": "朱雀"
+    "理念": "不介入罗天之战、以感悟符族本源之力甄别内门弟子、隐忍蓄力，借罗天之势消耗修真联盟、四圣分宗、尊崇四圣血脉觉醒者、四圣觉醒传承、血脉传承",
+    "据点": "小范围占据的一些修真星（如朱雀星）",
+    "阵营": "与修真联盟、昆虚之境为敌",
+    "镇派之宝": "太古四圣器"
   },
   "observations": {
     "等级": [
@@ -85,6 +86,11 @@
         "value": "四圣觉醒传承",
         "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
         "seq": 945
+      },
+      {
+        "value": "血脉传承",
+        "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
+        "seq": 960
       }
     ],
     "据点": [
@@ -103,6 +109,12 @@
         "value": "四圣星",
         "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
         "seq": 945
+      },
+      {
+        "value": "小范围占据的一些修真星（如朱雀星）",
+        "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
+        "seq": 960,
+        "note": "败落后明面上融入联盟星域"
       }
     ],
     "阵营": [
@@ -120,6 +132,11 @@
         "value": "修真联盟死敌",
         "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
         "seq": 945
+      },
+      {
+        "value": "与修真联盟、昆虚之境为敌",
+        "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
+        "seq": 960
       }
     ],
     "镇派之宝": [
@@ -128,6 +145,11 @@
         "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
         "seq": 953,
         "note": "众人由朱雀之音推断王林出身四圣宗"
+      },
+      {
+        "value": "太古四圣器",
+        "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
+        "seq": 960
       }
     ]
   },
@@ -153,22 +175,22 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
+      "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
       "dated": false,
-      "seq": 945
+      "seq": 960,
+      "note": "败落后明面上融入联盟星域"
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
+      "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
       "dated": false,
-      "seq": 945
+      "seq": 960
     },
     "镇派之宝": {
       "asOf": null,
-      "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+      "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
       "dated": false,
-      "seq": 953,
-      "note": "众人由朱雀之音推断王林出身四圣宗"
+      "seq": 960
     }
   },
   "contested": false,
@@ -186,7 +208,8 @@
     "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
     "plot.xianni-ch1021-zhuque-awakening",
     "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
-    "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin"
+    "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+    "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history"
   ],
-  "updatedAt": "2026-08-24T07:48:22.362Z"
+  "updatedAt": "2026-08-24T09:00:07.639Z"
 }

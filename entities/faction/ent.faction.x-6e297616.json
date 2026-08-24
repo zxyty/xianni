@@ -4,11 +4,13 @@
   "name": "玄武圣宗",
   "aliases": [
     "玄武一脉",
-    "Xuan Wu Sacred Sect"
+    "Xuan Wu Sacred Sect",
+    "玄武圣宗一脉"
   ],
   "summary": "四圣宗一脉，不缺觉醒者，觉醒相对危机最小。",
   "attributes": {
-    "理念": "觉醒最先、危机最小"
+    "理念": "觉醒最先、危机最小",
+    "阵营": "叛出四圣宗"
   },
   "observations": {
     "理念": [
@@ -16,6 +18,14 @@
         "value": "觉醒最先、危机最小",
         "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
         "seq": 945
+      }
+    ],
+    "阵营": [
+      {
+        "value": "叛出四圣宗",
+        "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
+        "seq": 960,
+        "note": "圣皇及绝大部分族人叛变"
       }
     ]
   },
@@ -26,12 +36,20 @@
       "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
       "dated": false,
       "seq": 945
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
+      "dated": false,
+      "seq": 960,
+      "note": "圣皇及绝大部分族人叛变"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm"
+    "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
+    "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history"
   ],
-  "updatedAt": "2026-08-24T06:51:16.714Z"
+  "updatedAt": "2026-08-24T09:00:07.644Z"
 }
