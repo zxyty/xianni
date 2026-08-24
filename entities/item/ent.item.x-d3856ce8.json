@@ -6,12 +6,15 @@
     "紫玉简",
     "炼器阁紫玉简",
     "白发老者的紫色玉简",
-    "两万上品灵石玉简"
+    "两万上品灵石玉简",
+    "通体紫色的玉简",
+    "卢迪的玉简",
+    "师尊手中那紫色的玉简"
   ],
   "summary": "白发老者付给王林的凭证，可在炼器阁任何一家主城店铺兑换2万上品灵石。",
   "attributes": {
-    "类型": "兑换凭证玉简、玉简",
-    "用途": "在炼器阁主城店铺兑换2万上品灵石、记录信息/交易之资",
+    "类型": "兑换凭证玉简、玉简、传讯玉简",
+    "用途": "在炼器阁主城店铺兑换2万上品灵石、记录信息/交易之资、传讯/逼迫",
     "产地": "炼器阁",
     "品阶": "价值2万上品灵石"
   },
@@ -26,6 +29,11 @@
         "value": "玉简",
         "docId": "plot.xianni-ch312-316-yinju-xinjia",
         "seq": 312
+      },
+      {
+        "value": "传讯玉简",
+        "docId": "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
+        "seq": 1058
       }
     ],
     "用途": [
@@ -38,6 +46,11 @@
         "value": "记录信息/交易之资",
         "docId": "plot.xianni-ch312-316-yinju-xinjia",
         "seq": 312
+      },
+      {
+        "value": "传讯/逼迫",
+        "docId": "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
+        "seq": 1058
       }
     ],
     "产地": [
@@ -85,7 +98,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch312-316-yinju-xinjia"
+    "plot.xianni-ch312-316-yinju-xinjia",
+    "plot.xianni-ch1140-guiyuan-zong-lv-yanfei"
   ],
-  "updatedAt": "2026-08-08T08:56:45.964Z"
+  "updatedAt": "2026-08-24T18:10:28.308Z"
 }

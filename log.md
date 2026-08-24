@@ -538,3 +538,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T17:59:09.849Z** `ingest` plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai — 第1137章 雪：王林雪中辞别联盟星域，以魂为引传送云海莫罗大陆 · kind=plot asOf=2026-08-24 entities=17 relations=22 src=01054-01057.p2.md
 - **2026-08-24T18:01:50.685Z** `ingest` plot.xianni-1138-yu-guiyuanzong-zeling — 第1138章 雨：归元宗掌门归墟施「泽灵」，临终窥见白发王林 · kind=plot asOf=2026-08-24 entities=25 relations=39 src=01054-01057.p3.md
 - **2026-08-24T18:03:48.251Z** `ingest` plot.xianni-1139-zeng-niu-mo-luo-gui-yuan-zong — 第1139章 曾牛：王林易容隐居北水村，以「曾牛」之名被归元宗吕烟菲收入门下 · kind=plot asOf=2026-08-24 entities=17 relations=26 src=01054-01057.p4.md
+- **2026-08-24T18:10:28.611Z** `ingest` plot.xianni-ch1140-guiyuan-zong-lv-yanfei — 仙逆 第1140章 归元宗：吕烟菲与紫色玉简之辱 · kind=plot asOf=2026-08-24 entities=38 relations=56 src=01058-01062.p1.md
