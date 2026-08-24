@@ -462,3 +462,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T09:32:11.770Z** `ingest` plot.xianni-1052-yunxian-daolv-identity — 仙逆 第1052章 云仙道侣的身份——周佚讲述青霜往事，王巍胡娟自陈仙帝青霖旧部 · kind=plot asOf=2026-08-24 entities=21 relations=36 src=00972-00976.p1.md
 - **2026-08-24T09:35:03.313Z** `ingest` plot.xianni-ch1053-xukongzi-cold-sweat — 第1053章 虚空子的冷汗：古妖贝罗议和、青丹相赠与仙帝洞府第六层的等待 · kind=plot asOf=2026-08-24 entities=27 relations=51 src=00972-00976.p2.md
 - **2026-08-24T09:37:59.858Z** `ingest` plot.xianni-ch1054-forcing-xukongzi — 第1054章 逼压虚空子：王林先手出击，王巍胡娟贝罗夹击碎涅老怪 · kind=plot asOf=2026-08-24 entities=31 relations=53 src=00972-00976.p3.md
+- **2026-08-24T09:41:00.224Z** `ingest` plot.xianni-ch1055-shanbeng-seventh-layer-volcano — 第1055章 山崩：虚空子重伤、传送第七层火海，王林吸纳火元力悟「山崩」 · kind=plot asOf=2026-08-24 entities=30 relations=43 src=00972-00976.p4.md

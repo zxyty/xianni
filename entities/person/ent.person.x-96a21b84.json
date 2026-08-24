@@ -3,13 +3,14 @@
   "type": "person",
   "name": "疑似昆虚圣女的粉衣女子",
   "aliases": [
-    "昆虚圣女（疑似）"
+    "昆虚圣女（疑似）",
+    "昆虚之境圣女"
   ],
   "summary": "村姑美妇门下弟子之一，疑似昆虚圣女；闻朱雀之音后面色顿生寒意。",
   "attributes": {
     "性别": "女",
-    "外貌": "粉衣",
-    "身份": "昆虚圣女",
+    "外貌": "粉衣、美目",
+    "身份": "疑似昆虚圣女",
     "阵营": "修真联盟一方随行"
   },
   "observations": {
@@ -25,6 +26,11 @@
         "value": "粉衣",
         "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
         "seq": 945
+      },
+      {
+        "value": "粉衣、美目",
+        "docId": "plot.xianni-ch1055-shanbeng-seventh-layer-volcano",
+        "seq": 972
       }
     ],
     "身份": [
@@ -33,6 +39,12 @@
         "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
         "seq": 945,
         "note": "文本称疑似，未确证"
+      },
+      {
+        "value": "疑似昆虚圣女",
+        "docId": "plot.xianni-ch1055-shanbeng-seventh-layer-volcano",
+        "seq": 972,
+        "note": "文中为「疑似」，未确证"
       }
     ],
     "阵营": [
@@ -53,16 +65,16 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
+      "docId": "plot.xianni-ch1055-shanbeng-seventh-layer-volcano",
       "dated": false,
-      "seq": 945
+      "seq": 972
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
+      "docId": "plot.xianni-ch1055-shanbeng-seventh-layer-volcano",
       "dated": false,
-      "seq": 945,
-      "note": "文本称疑似，未确证"
+      "seq": 972,
+      "note": "文中为「疑似」，未确证"
     },
     "阵营": {
       "asOf": null,
@@ -74,7 +86,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm"
+    "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
+    "plot.xianni-ch1055-shanbeng-seventh-layer-volcano"
   ],
-  "updatedAt": "2026-08-24T06:51:16.664Z"
+  "updatedAt": "2026-08-24T09:40:59.887Z"
 }
