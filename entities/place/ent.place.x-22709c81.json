@@ -4,14 +4,25 @@
   "name": "朱雀圣星",
   "aliases": [
     "朱雀圣星球",
-    "Zhu Que Sacred Star"
+    "Zhu Que Sacred Star",
+    "九颗朱雀圣星",
+    "九星",
+    "Zhu Que Holy Star",
+    "Zhuque Sheng Xing",
+    "Zhu Que Sacred Stars",
+    "第一圣星",
+    "朱雀九星"
   ],
   "summary": "联盟星域东部赤海中的赤红燃烧星球，内有巨大朱雀之像，三老者坐镇。",
   "attributes": {
-    "方位": "联盟星域东部赤海之中",
-    "所属势力": "朱雀国",
-    "类型": "修真星",
-    "危险度": "无尽高温，寻常修士难以承受"
+    "方位": "成圆排列于燃烧的星域内",
+    "所属势力": "朱雀圣宗",
+    "类型": "修真星球群",
+    "危险度": "灵气蕴含火毒，凡人吸一口化为黑灰",
+    "所属界面": "朱雀之地",
+    "规模": "九颗，连珠成圆",
+    "上级区域": "朱雀之地",
+    "守护": "各有一座朱雀圣像"
   },
   "observations": {
     "方位": [
@@ -19,6 +30,11 @@
         "value": "联盟星域东部赤海之中",
         "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
         "seq": 839
+      },
+      {
+        "value": "成圆排列于燃烧的星域内",
+        "docId": "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
+        "seq": 949
       }
     ],
     "所属势力": [
@@ -26,6 +42,11 @@
         "value": "朱雀国",
         "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
         "seq": 839
+      },
+      {
+        "value": "朱雀圣宗",
+        "docId": "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
+        "seq": 949
       }
     ],
     "类型": [
@@ -33,6 +54,11 @@
         "value": "修真星",
         "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
         "seq": 839
+      },
+      {
+        "value": "修真星球群",
+        "docId": "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
+        "seq": 949
       }
     ],
     "危险度": [
@@ -40,6 +66,39 @@
         "value": "无尽高温，寻常修士难以承受",
         "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
         "seq": 839
+      },
+      {
+        "value": "灵气蕴含火毒，凡人吸一口化为黑灰",
+        "docId": "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
+        "seq": 949
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "朱雀之地",
+        "docId": "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
+        "seq": 949
+      }
+    ],
+    "规模": [
+      {
+        "value": "九颗，连珠成圆",
+        "docId": "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
+        "seq": 949
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "朱雀之地",
+        "docId": "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
+        "seq": 949
+      }
+    ],
+    "守护": [
+      {
+        "value": "各有一座朱雀圣像",
+        "docId": "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
+        "seq": 949
       }
     ]
   },
@@ -47,33 +106,58 @@
   "attrProvenance": {
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
+      "docId": "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
       "dated": false,
-      "seq": 839
+      "seq": 949
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
+      "docId": "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
       "dated": false,
-      "seq": 839
+      "seq": 949
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
+      "docId": "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
       "dated": false,
-      "seq": 839
+      "seq": 949
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
+      "docId": "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
       "dated": false,
-      "seq": 839
+      "seq": 949
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
+      "dated": false,
+      "seq": 949
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
+      "dated": false,
+      "seq": 949
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
+      "dated": false,
+      "seq": 949
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
+      "dated": false,
+      "seq": 949
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured"
+    "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
+    "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone"
   ],
-  "updatedAt": "2026-08-23T18:24:26.072Z"
+  "updatedAt": "2026-08-24T07:27:06.094Z"
 }
