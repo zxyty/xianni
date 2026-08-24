@@ -1,55 +1,54 @@
 {
-  "id": "ent.person.x-09cc444f",
-  "type": "person",
-  "name": "剑灵",
+  "id": "ent.technique.x-a370e920",
+  "type": "technique",
+  "name": "不灭灵决",
   "aliases": [
-    "宝塔剑灵",
-    "此剑灵"
+    "不灭灵诀"
   ],
-  "summary": "神识残留于周佚所赠宝塔上的存在，王林请古妖代为寻找。",
+  "summary": "王巍传授给剑灵的功法，共有至少九层，剑灵已修至第八层并将突破第九层。",
   "attributes": {
-    "身份": "剑灵",
-    "小阶段": "不灭灵决第八层，近日可突破第九层",
-    "性格": "守口如瓶、有毅力"
+    "出处": "王巍所授",
+    "适用境界": "剑灵可修",
+    "效果": "分层修炼，至少九层"
   },
   "observations": {
-    "身份": [
+    "出处": [
       {
-        "value": "剑灵",
+        "value": "王巍所授",
         "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
         "seq": 926
       }
     ],
-    "小阶段": [
+    "适用境界": [
       {
-        "value": "不灭灵决第八层，近日可突破第九层",
+        "value": "剑灵可修",
         "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
         "seq": 926
       }
     ],
-    "性格": [
+    "效果": [
       {
-        "value": "守口如瓶、有毅力",
+        "value": "分层修炼，至少九层",
         "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
         "seq": 926
       }
     ]
   },
-  "firstSeq": 571,
+  "firstSeq": 926,
   "attrProvenance": {
-    "身份": {
+    "出处": {
       "asOf": null,
       "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
       "dated": false,
       "seq": 926
     },
-    "小阶段": {
+    "适用境界": {
       "asOf": null,
       "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
       "dated": false,
       "seq": 926
     },
-    "性格": {
+    "效果": {
       "asOf": null,
       "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
       "dated": false,
@@ -59,8 +58,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.chapter-612-second-yuanshen-longtan-cave",
     "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance"
   ],
-  "updatedAt": "2026-08-24T04:02:17.330Z"
+  "updatedAt": "2026-08-24T04:02:17.343Z"
 }

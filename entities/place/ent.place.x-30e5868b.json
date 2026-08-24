@@ -1,55 +1,68 @@
 {
-  "id": "ent.person.x-09cc444f",
-  "type": "person",
-  "name": "剑灵",
+  "id": "ent.place.x-30e5868b",
+  "type": "place",
+  "name": "风妖郡",
   "aliases": [
-    "宝塔剑灵",
-    "此剑灵"
+    "风妖郡圣地"
   ],
-  "summary": "神识残留于周佚所赠宝塔上的存在，王林请古妖代为寻找。",
+  "summary": "妖灵之地内的郡域，皇宫地下千丈为其圣地，蜂窝状溶洞群以皇城为中心弥漫全郡，中心溶洞为姚惜雪承接风妖传承之所。",
   "attributes": {
-    "身份": "剑灵",
-    "小阶段": "不灭灵决第八层，近日可突破第九层",
-    "性格": "守口如瓶、有毅力"
+    "类型": "郡",
+    "规模": "溶洞群弥漫整郡",
+    "上级区域": "妖灵之地",
+    "守护": "风妖"
   },
   "observations": {
-    "身份": [
+    "类型": [
       {
-        "value": "剑灵",
+        "value": "郡",
         "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
         "seq": 926
       }
     ],
-    "小阶段": [
+    "规模": [
       {
-        "value": "不灭灵决第八层，近日可突破第九层",
+        "value": "溶洞群弥漫整郡",
         "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
         "seq": 926
       }
     ],
-    "性格": [
+    "上级区域": [
       {
-        "value": "守口如瓶、有毅力",
+        "value": "妖灵之地",
+        "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
+        "seq": 926
+      }
+    ],
+    "守护": [
+      {
+        "value": "风妖",
         "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
         "seq": 926
       }
     ]
   },
-  "firstSeq": 571,
+  "firstSeq": 926,
   "attrProvenance": {
-    "身份": {
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
       "dated": false,
       "seq": 926
     },
-    "小阶段": {
+    "规模": {
       "asOf": null,
       "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
       "dated": false,
       "seq": 926
     },
-    "性格": {
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
+      "dated": false,
+      "seq": 926
+    },
+    "守护": {
       "asOf": null,
       "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
       "dated": false,
@@ -59,8 +72,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.chapter-612-second-yuanshen-longtan-cave",
     "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance"
   ],
-  "updatedAt": "2026-08-24T04:02:17.330Z"
+  "updatedAt": "2026-08-24T04:02:17.349Z"
 }

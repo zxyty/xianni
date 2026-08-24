@@ -1,55 +1,55 @@
 {
-  "id": "ent.person.x-09cc444f",
-  "type": "person",
-  "name": "剑灵",
+  "id": "ent.beast.x-bc03e49f",
+  "type": "beast",
+  "name": "风妖",
   "aliases": [
-    "宝塔剑灵",
-    "此剑灵"
+    "风妖古妖之灵",
+    "妖异的声音"
   ],
-  "summary": "神识残留于周佚所赠宝塔上的存在，王林请古妖代为寻找。",
+  "summary": "风妖郡的古妖之灵，认可姚惜雪并授予传承，条件是逐步抹去其神识与灵魂、最终占据其躯体。",
   "attributes": {
-    "身份": "剑灵",
-    "小阶段": "不灭灵决第八层，近日可突破第九层",
-    "性格": "守口如瓶、有毅力"
+    "种族": "古妖之灵",
+    "栖息地": "风妖郡皇城地下中心溶洞",
+    "能力": "赐予巅峰之力；以传承为名夺取受者躯体"
   },
   "observations": {
-    "身份": [
+    "种族": [
       {
-        "value": "剑灵",
+        "value": "古妖之灵",
         "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
         "seq": 926
       }
     ],
-    "小阶段": [
+    "栖息地": [
       {
-        "value": "不灭灵决第八层，近日可突破第九层",
+        "value": "风妖郡皇城地下中心溶洞",
         "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
         "seq": 926
       }
     ],
-    "性格": [
+    "能力": [
       {
-        "value": "守口如瓶、有毅力",
+        "value": "赐予巅峰之力；以传承为名夺取受者躯体",
         "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
         "seq": 926
       }
     ]
   },
-  "firstSeq": 571,
+  "firstSeq": 926,
   "attrProvenance": {
-    "身份": {
+    "种族": {
       "asOf": null,
       "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
       "dated": false,
       "seq": 926
     },
-    "小阶段": {
+    "栖息地": {
       "asOf": null,
       "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
       "dated": false,
       "seq": 926
     },
-    "性格": {
+    "能力": {
       "asOf": null,
       "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
       "dated": false,
@@ -59,8 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.chapter-612-second-yuanshen-longtan-cave",
     "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance"
   ],
-  "updatedAt": "2026-08-24T04:02:17.330Z"
+  "updatedAt": "2026-08-24T04:02:17.356Z"
 }

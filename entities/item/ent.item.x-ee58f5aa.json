@@ -1,55 +1,56 @@
 {
-  "id": "ent.person.x-09cc444f",
-  "type": "person",
-  "name": "剑灵",
+  "id": "ent.item.x-ee58f5aa",
+  "type": "item",
+  "name": "膜拜所生的奇异之力",
   "aliases": [
-    "宝塔剑灵",
-    "此剑灵"
+    "奇异之力",
+    "石像内的诡异力量",
+    "信仰之力"
   ],
-  "summary": "神识残留于周佚所赠宝塔上的存在，王林请古妖代为寻找。",
+  "summary": "由炼魂部落数百万族人数百年每日膜拜石像所积生的力量，王林修道一千多年从未接触过；融入其神识后带来无数膜拜画面。",
   "attributes": {
-    "身份": "剑灵",
-    "小阶段": "不灭灵决第八层，近日可突破第九层",
-    "性格": "守口如瓶、有毅力"
+    "类型": "膜拜/信仰凝聚之力",
+    "用途": "与神识融合并传递族人狂热的画面",
+    "产地": "炼魂部落老祖石像内"
   },
   "observations": {
-    "身份": [
+    "类型": [
       {
-        "value": "剑灵",
+        "value": "膜拜/信仰凝聚之力",
         "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
         "seq": 926
       }
     ],
-    "小阶段": [
+    "用途": [
       {
-        "value": "不灭灵决第八层，近日可突破第九层",
+        "value": "与神识融合并传递族人狂热的画面",
         "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
         "seq": 926
       }
     ],
-    "性格": [
+    "产地": [
       {
-        "value": "守口如瓶、有毅力",
+        "value": "炼魂部落老祖石像内",
         "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
         "seq": 926
       }
     ]
   },
-  "firstSeq": 571,
+  "firstSeq": 926,
   "attrProvenance": {
-    "身份": {
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
       "dated": false,
       "seq": 926
     },
-    "小阶段": {
+    "用途": {
       "asOf": null,
       "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
       "dated": false,
       "seq": 926
     },
-    "性格": {
+    "产地": {
       "asOf": null,
       "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
       "dated": false,
@@ -59,8 +60,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.chapter-612-second-yuanshen-longtan-cave",
     "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance"
   ],
-  "updatedAt": "2026-08-24T04:02:17.330Z"
+  "updatedAt": "2026-08-24T04:02:17.383Z"
 }

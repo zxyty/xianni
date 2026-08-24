@@ -4,11 +4,12 @@
   "name": "妖灵漩涡",
   "aliases": [
     "妖灵之地漩涡",
-    "天空漩涡"
+    "天空漩涡",
+    "凭空而出的漩涡"
   ],
   "summary": "被凌天候一掌印中的漩涡；随之天空阴暗、云层聚成弥天巨涡，散出剑气与七道虹光，并传出霸道无匹的气息，众老怪自其中走出。",
   "attributes": {
-    "类型": "漩涡/入口",
+    "类型": "空间漩涡通道",
     "方位": "妖灵之地天空"
   },
   "observations": {
@@ -17,6 +18,11 @@
         "value": "漩涡/入口",
         "docId": "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang",
         "seq": 618
+      },
+      {
+        "value": "空间漩涡通道",
+        "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
+        "seq": 926
       }
     ],
     "方位": [
@@ -31,9 +37,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang",
+      "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
       "dated": false,
-      "seq": 618
+      "seq": 926
     },
     "方位": {
       "asOf": null,
@@ -45,7 +51,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang"
+    "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang",
+    "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance"
   ],
-  "updatedAt": "2026-08-22T21:10:04.050Z"
+  "updatedAt": "2026-08-24T04:02:17.355Z"
 }
