@@ -15,17 +15,21 @@
     "仙帝洞府遗迹",
     "仙帝的洞府",
     "仙帝洞府禁制",
-    "Immortal Emperor cave mansion"
+    "Immortal Emperor cave mansion",
+    "仙帝洞府花丛",
+    "妖灵之地仙帝洞府",
+    "仙帝洞府外围"
   ],
   "summary": "妖灵之地五府中唯一的实府，第一仙帝青霖之府，内有其闭关气息，姚父猜测藏有踏入道境第三步的契机。",
   "attributes": {
-    "所属界面": "妖灵之地内",
-    "类型": "仙帝洞府、洞府/秘境、秘境/洞府、仙帝洞府/秘境、洞府／秘境、上古仙帝洞府、洞府/遗迹、洞府／禁制之地",
-    "守护": "须四块青霖仙令同时开启四虚府大门方可进入、桥上魔雾中人、散魔残刀、散魔封印、遍布的禁制、禁制之术（困攻一体）、层层禁制",
+    "所属界面": "妖灵之地",
+    "类型": "仙帝洞府、洞府/秘境、秘境/洞府、仙帝洞府/秘境、洞府／秘境、上古仙帝洞府、洞府/遗迹、洞府／禁制之地、上古仙帝洞府/秘境",
+    "守护": "须四块青霖仙令同时开启四虚府大门方可进入、桥上魔雾中人、散魔残刀、散魔封印、遍布的禁制、禁制之术（困攻一体）、层层禁制、花丛禁制、露珠所化海之世界",
     "所属势力": "仙帝青霖",
     "规模": "多层，第一层为瓶中界",
     "危险度": "极高——禁制若被全部触发，双方皆麻烦",
-    "特产": "木桥、小河与河中狰狞之兽、阁楼、翠竹"
+    "特产": "木桥、小河与河中狰狞之兽、阁楼、翠竹、葬仙池遗址、阁楼建筑群、黑雾大殿",
+    "方位": "王林所在为外围，建筑群与黑雾大殿在正前方深处"
   },
   "observations": {
     "所属界面": [
@@ -33,6 +37,11 @@
         "value": "妖灵之地内",
         "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
         "seq": 576
+      },
+      {
+        "value": "妖灵之地",
+        "docId": "plot.xianni-ch1036-hai-zhi-juren-yao-xixue",
+        "seq": 958
       }
     ],
     "类型": [
@@ -75,6 +84,11 @@
         "value": "洞府／禁制之地",
         "docId": "plot.xianni-ch956-957-yao-xixue-confrontation-kufu",
         "seq": 956
+      },
+      {
+        "value": "上古仙帝洞府/秘境",
+        "docId": "plot.xianni-ch1036-hai-zhi-juren-yao-xixue",
+        "seq": 958
       }
     ],
     "守护": [
@@ -112,6 +126,11 @@
         "value": "层层禁制",
         "docId": "plot.xianni-ch956-957-yao-xixue-confrontation-kufu",
         "seq": 956
+      },
+      {
+        "value": "花丛禁制、露珠所化海之世界",
+        "docId": "plot.xianni-ch1036-hai-zhi-juren-yao-xixue",
+        "seq": 958
       }
     ],
     "所属势力": [
@@ -180,6 +199,18 @@
         "value": "翠竹",
         "docId": "plot.xianni-ch1023-po-ping-er-chu",
         "seq": 945
+      },
+      {
+        "value": "葬仙池遗址、阁楼建筑群、黑雾大殿",
+        "docId": "plot.xianni-ch1036-hai-zhi-juren-yao-xixue",
+        "seq": 958
+      }
+    ],
+    "方位": [
+      {
+        "value": "王林所在为外围，建筑群与黑雾大殿在正前方深处",
+        "docId": "plot.xianni-ch1036-hai-zhi-juren-yao-xixue",
+        "seq": 958
       }
     ]
   },
@@ -187,9 +218,9 @@
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
+      "docId": "plot.xianni-ch1036-hai-zhi-juren-yao-xixue",
       "dated": false,
-      "seq": 576
+      "seq": 958
     },
     "类型": {
       "asOf": null,
@@ -226,6 +257,12 @@
       "docId": "plot.xianni-ch1023-po-ping-er-chu",
       "dated": false,
       "seq": 945
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1036-hai-zhi-juren-yao-xixue",
+      "dated": false,
+      "seq": 958
     }
   },
   "contested": false,
@@ -239,7 +276,8 @@
     "plot.xianni-ch1026-qinglin-you-lied-to-me",
     "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
     "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
-    "plot.xianni-ch956-957-yao-xixue-confrontation-kufu"
+    "plot.xianni-ch956-957-yao-xixue-confrontation-kufu",
+    "plot.xianni-ch1036-hai-zhi-juren-yao-xixue"
   ],
-  "updatedAt": "2026-08-24T08:01:56.769Z"
+  "updatedAt": "2026-08-24T08:09:29.188Z"
 }
