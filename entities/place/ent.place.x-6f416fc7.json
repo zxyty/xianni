@@ -3,17 +3,19 @@
   "type": "place",
   "name": "南苑",
   "aliases": [
-    "云天宗南苑"
+    "云天宗南苑",
+    "药院南苑",
+    "南苑禁地"
   ],
   "summary": "云天宗四院之一，李长老所在，设有雾气禁制的禁地。",
   "attributes": {
     "所属势力": "归元宗",
-    "方位": "归元宗山门南部",
+    "方位": "药院南部",
     "类型": "门派院区/禁地、苑区、苑区/炼丹重地、门派辖区、禁地",
     "守护": "雾气禁制，需令牌入内",
     "特产": "鱼腥毒草（由师叔祖取来）",
     "危险度": "极高",
-    "上级区域": "莫罗大陆"
+    "上级区域": "归元宗药院"
   },
   "observations": {
     "所属势力": [
@@ -38,6 +40,11 @@
         "value": "归元宗山门南部",
         "docId": "plot.xianni-ch1162-shangren-zhe-ren-heng-shang-zhi",
         "seq": 1077
+      },
+      {
+        "value": "药院南部",
+        "docId": "plot.xianni-1166-tian-de-huangyan-li-qianmei-wendao",
+        "seq": 1082
       }
     ],
     "类型": [
@@ -98,6 +105,11 @@
         "value": "莫罗大陆",
         "docId": "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong",
         "seq": 1077
+      },
+      {
+        "value": "归元宗药院",
+        "docId": "plot.xianni-1166-tian-de-huangyan-li-qianmei-wendao",
+        "seq": 1082
       }
     ]
   },
@@ -111,9 +123,9 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch1162-shangren-zhe-ren-heng-shang-zhi",
+      "docId": "plot.xianni-1166-tian-de-huangyan-li-qianmei-wendao",
       "dated": false,
-      "seq": 1077
+      "seq": 1082
     },
     "类型": {
       "asOf": null,
@@ -141,9 +153,9 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong",
+      "docId": "plot.xianni-1166-tian-de-huangyan-li-qianmei-wendao",
       "dated": false,
-      "seq": 1077
+      "seq": 1082
     }
   },
   "contested": false,
@@ -153,7 +165,8 @@
     "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
     "plot.xianni-ch219-dongyuan-lingyuan-heist",
     "plot.xianni-ch1162-shangren-zhe-ren-heng-shang-zhi",
-    "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong"
+    "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong",
+    "plot.xianni-1166-tian-de-huangyan-li-qianmei-wendao"
   ],
-  "updatedAt": "2026-08-24T20:03:03.680Z"
+  "updatedAt": "2026-08-24T20:09:43.889Z"
 }
