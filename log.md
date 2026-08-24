@@ -457,3 +457,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T09:15:48.203Z** `ingest` plot.xianni-1047-fankang-wanglin-vs-xukongzi — 第1047章 反抗：王林重伤布杀局，以本源之力诱虚空子入局 · kind=plot asOf=2026-08-24 entities=20 relations=21 src=00967-00971.p1.md
 - **2026-08-24T09:17:45.033Z** `ingest` plot.xianni-1048-zhibao-tiejian-cikongnie — 第1048章 至宝：王林拔铁剑连斩虚空子 · kind=plot asOf=2026-08-24 entities=15 relations=21 src=00967-00971.p2.md
 - **2026-08-24T09:20:18.367Z** `ingest` plot.xianni-ch1049-wang-lin-23-swords-defeat-xukongzi — 仙逆 第1049章 想要王某之宝，尽管来！——二十三剑破虚空子，铁剑锈迹断其本源明悟 · kind=plot asOf=2026-08-24 entities=22 relations=29 src=00967-00971.p3.md
+- **2026-08-24T09:27:26.881Z** `ingest` lore.xianni-ch1050-ci-kong-nie-nie-level-treasures-tianren-wushuai — 第1050章 次空涅与涅级至宝：碎涅法宝等级与天人五衰设定 · kind=lore asOf=2026-08-24 entities=37 relations=66 src=00967-00971.p4.md

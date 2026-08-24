@@ -4,7 +4,9 @@
   "name": "黑衣中年修士",
   "aliases": [
     "黑衣人",
-    "薄唇刻薄中年修士"
+    "薄唇刻薄中年修士",
+    "大殿内的黑衣人",
+    "洞府黑衣人"
   ],
   "summary": "结丹后期修士，欲杀结丹中期的王林反被瞬杀、金丹被抓出吞下。",
   "attributes": {
@@ -13,7 +15,8 @@
     "存殁": "重伤仅余头颅",
     "死因": "自爆逃入空间裂缝后被王林极境神识追杀",
     "标志特征": "身躯可崩溃自毁借推力遁走；下半身可由黑气凝成虚幻之体",
-    "性格": "谨慎忌惮，明知王林强弩之末仍不敢赌"
+    "性格": "谨慎忌惮，明知王林强弩之末仍不敢赌",
+    "身份": "洞府中的竞争者"
   },
   "observations": {
     "小阶段": [
@@ -99,6 +102,13 @@
         "docId": "plot.xianni-ch1049-wang-lin-23-swords-defeat-xukongzi",
         "seq": 967
       }
+    ],
+    "身份": [
+      {
+        "value": "洞府中的竞争者",
+        "docId": "lore.xianni-ch1050-ci-kong-nie-nie-level-treasures-tianren-wushuai",
+        "seq": 967
+      }
     ]
   },
   "firstSeq": 191,
@@ -139,6 +149,12 @@
       "docId": "plot.xianni-ch1049-wang-lin-23-swords-defeat-xukongzi",
       "dated": false,
       "seq": 967
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "lore.xianni-ch1050-ci-kong-nie-nie-level-treasures-tianren-wushuai",
+      "dated": false,
+      "seq": 967
     }
   },
   "contested": false,
@@ -148,7 +164,8 @@
     "plot.xianni-ch232-jian-qiao",
     "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
     "plot.xianni-1048-zhibao-tiejian-cikongnie",
-    "plot.xianni-ch1049-wang-lin-23-swords-defeat-xukongzi"
+    "plot.xianni-ch1049-wang-lin-23-swords-defeat-xukongzi",
+    "lore.xianni-ch1050-ci-kong-nie-nie-level-treasures-tianren-wushuai"
   ],
-  "updatedAt": "2026-08-24T09:20:18.031Z"
+  "updatedAt": "2026-08-24T09:27:26.598Z"
 }
