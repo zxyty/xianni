@@ -7,16 +7,18 @@
     "盆地仙府",
     "北首三排房舍",
     "潮汐深渊内的仙府",
-    "仙府禁制之地"
+    "仙府禁制之地",
+    "仙人府邸",
+    "Immortal Mansion"
   ],
   "summary": "位于长龙般山脉深处一座巨大盆地内的府邸，遍布雕栏玉砌的阁楼房舍，仆从皆为半舌哑仆，多处设有强大禁制，透着阴森诡异。",
   "attributes": {
     "所属势力": "白雪之师尊",
     "所属界面": "朱雀国",
-    "类型": "仙府",
+    "类型": "仙人洞府/遗迹",
     "上级区域": "长龙般山脉深处的巨大盆地",
-    "守护": "多处强大禁制",
-    "危险度": "存在待破解的禁制"
+    "守护": "多处强大禁制、仙府百步禁制、十尊玄金金像",
+    "危险度": "极高——平静下蕴藏杀机，深处有未知存在"
   },
   "observations": {
     "所属势力": [
@@ -48,6 +50,11 @@
         "value": "仙府",
         "docId": "plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge",
         "seq": 926
+      },
+      {
+        "value": "仙人洞府/遗迹",
+        "docId": "plot.xianni-ch1004-immortal-mansion-restriction-breaking",
+        "seq": 929
       }
     ],
     "上级区域": [
@@ -62,6 +69,16 @@
         "value": "多处强大禁制",
         "docId": "plot.xianni-ch361-zhuque-guo-arrival",
         "seq": 341
+      },
+      {
+        "value": "仙府百步禁制",
+        "docId": "plot.xianni-ch1004-immortal-mansion-restriction-breaking",
+        "seq": 929
+      },
+      {
+        "value": "十尊玄金金像",
+        "docId": "plot.xianni-ch1004-immortal-mansion-restriction-breaking",
+        "seq": 929
       }
     ],
     "危险度": [
@@ -74,6 +91,11 @@
         "value": "存在待破解的禁制",
         "docId": "plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge",
         "seq": 926
+      },
+      {
+        "value": "极高——平静下蕴藏杀机，深处有未知存在",
+        "docId": "plot.xianni-ch1004-immortal-mansion-restriction-breaking",
+        "seq": 929
       }
     ]
   },
@@ -93,9 +115,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge",
+      "docId": "plot.xianni-ch1004-immortal-mansion-restriction-breaking",
       "dated": false,
-      "seq": 926
+      "seq": 929
     },
     "上级区域": {
       "asOf": null,
@@ -111,9 +133,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge",
+      "docId": "plot.xianni-ch1004-immortal-mansion-restriction-breaking",
       "dated": false,
-      "seq": 926
+      "seq": 929
     }
   },
   "contested": false,
@@ -122,7 +144,8 @@
     "plot.xianni-ch361-zhuque-guo-arrival",
     "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi",
     "plot.xianni-ch904-908-tianyunzi-finger-strike",
-    "plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge"
+    "plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge",
+    "plot.xianni-ch1004-immortal-mansion-restriction-breaking"
   ],
-  "updatedAt": "2026-08-24T04:09:56.747Z"
+  "updatedAt": "2026-08-24T04:20:32.484Z"
 }

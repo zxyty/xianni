@@ -4,14 +4,15 @@
   "name": "银衣女子",
   "aliases": [
     "宫殿废墟外的银衣女子",
-    "银衣女修"
+    "银衣女修",
+    "银衣女"
   ],
   "summary": "从司徒南神通中走出的银衣女子，浮风子看向她时心底有些疑惑。",
   "attributes": {
     "性别": "女",
-    "外貌": "银衣",
+    "外貌": "银衣、娇躯",
     "称号": "银尸",
-    "身份": "王林麾下战力/护法"
+    "身份": "王林麾下战力/护法、王林麾下、执行命令如使命"
   },
   "observations": {
     "性别": [
@@ -26,6 +27,11 @@
         "value": "银衣",
         "docId": "plot.xianni-ch997-xukongzi-arrival",
         "seq": 926
+      },
+      {
+        "value": "银衣、娇躯",
+        "docId": "plot.xianni-ch1004-immortal-mansion-restriction-breaking",
+        "seq": 929
       }
     ],
     "称号": [
@@ -40,6 +46,11 @@
         "value": "王林麾下战力/护法",
         "docId": "plot.xianni-1003-dijun-tuogu-diyu-jianling-xianfu-neihuan-jinzhi",
         "seq": 929
+      },
+      {
+        "value": "王林麾下、执行命令如使命",
+        "docId": "plot.xianni-ch1004-immortal-mansion-restriction-breaking",
+        "seq": 929
       }
     ]
   },
@@ -53,9 +64,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch997-xukongzi-arrival",
+      "docId": "plot.xianni-ch1004-immortal-mansion-restriction-breaking",
       "dated": false,
-      "seq": 926
+      "seq": 929
     },
     "称号": {
       "asOf": null,
@@ -76,7 +87,8 @@
     "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
     "plot.xianni-ch997-xukongzi-arrival",
     "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
-    "plot.xianni-1003-dijun-tuogu-diyu-jianling-xianfu-neihuan-jinzhi"
+    "plot.xianni-1003-dijun-tuogu-diyu-jianling-xianfu-neihuan-jinzhi",
+    "plot.xianni-ch1004-immortal-mansion-restriction-breaking"
   ],
-  "updatedAt": "2026-08-24T04:17:46.498Z"
+  "updatedAt": "2026-08-24T04:20:32.473Z"
 }
