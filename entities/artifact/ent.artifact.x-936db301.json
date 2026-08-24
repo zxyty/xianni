@@ -7,13 +7,15 @@
     "古魔厚背刀",
     "厚背刀",
     "古魔之刀",
-    "塔珈厚背刀"
+    "塔珈厚背刀",
+    "魔器厚背刀"
   ],
   "summary": "古魔塔珈手中长约三丈的黑色厚背刀，锋利无匹，可斩出数万丈刀芒并连元神一并抹灭。",
   "attributes": {
     "持有者": "古魔塔珈",
-    "外形": "长约三丈的黑色厚背刀、黑色厚背刀",
-    "能力": "无法想象的锋利之芒、数万丈刀芒开天一斩、斩灭元神、刀芒遮天、穿透肉身追击元神、可绕开认可之人、劈出代表天与地的两道刀芒、两道刀芒交错形成毁灭性力量"
+    "外形": "长约三丈的黑色厚背刀、黑色厚背刀、厚背刀",
+    "能力": "无法想象的锋利之芒、数万丈刀芒开天一斩、斩灭元神、刀芒遮天、穿透肉身追击元神、可绕开认可之人、劈出代表天与地的两道刀芒、两道刀芒交错形成毁灭性力量、刀芒横扫直冲天空",
+    "品阶": "魔器"
   },
   "observations": {
     "持有者": [
@@ -33,6 +35,11 @@
         "value": "黑色厚背刀",
         "docId": "plot.xianni-1064-heiyiren-shenfen-luohou",
         "seq": 982
+      },
+      {
+        "value": "厚背刀",
+        "docId": "plot.xianni-1072-strongest-divine-ability-canye",
+        "seq": 992
       }
     ],
     "能力": [
@@ -75,6 +82,18 @@
         "value": "两道刀芒交错形成毁灭性力量",
         "docId": "plot.xianni-1065-three-ancient-races-reunite",
         "seq": 982
+      },
+      {
+        "value": "刀芒横扫直冲天空",
+        "docId": "plot.xianni-1072-strongest-divine-ability-canye",
+        "seq": 992
+      }
+    ],
+    "品阶": [
+      {
+        "value": "魔器",
+        "docId": "plot.xianni-1072-strongest-divine-ability-canye",
+        "seq": 992
       }
     ]
   },
@@ -97,6 +116,12 @@
       "docId": "plot.xianni-1063-qinglin-duoshe-qian-de-yiju-hua",
       "dated": false,
       "seq": 982
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-1072-strongest-divine-ability-canye",
+      "dated": false,
+      "seq": 992
     }
   },
   "contested": false,
@@ -104,7 +129,8 @@
   "docs": [
     "plot.xianni-1063-qinglin-duoshe-qian-de-yiju-hua",
     "plot.xianni-1064-heiyiren-shenfen-luohou",
-    "plot.xianni-1065-three-ancient-races-reunite"
+    "plot.xianni-1065-three-ancient-races-reunite",
+    "plot.xianni-1072-strongest-divine-ability-canye"
   ],
-  "updatedAt": "2026-08-24T10:20:08.312Z"
+  "updatedAt": "2026-08-24T11:41:08.110Z"
 }
