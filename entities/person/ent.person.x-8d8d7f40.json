@@ -10,15 +10,19 @@
     "塔珈大人",
     "Taga",
     "本魔",
-    "魔影之主"
+    "魔影之主",
+    "铠甲男子",
+    "夺舍青霖者"
   ],
   "summary": "与古妖贝罗同存至今的古魔，当年之战抢走了贝罗的战果；贝罗欲于百年后融合七妖新生塔珈并较量。",
   "attributes": {
     "种族": "古魔",
     "存殁": "在世",
-    "身份": "古魔、幕后谋划者、贝罗的同伙、正进行最后的夺舍",
-    "标志特征": "飘渺虚无、蕴含魔威的沙哑声音",
-    "称号": "塔珈大人"
+    "身份": "古魔、幕后谋划者、贝罗的同伙、正进行最后的夺舍、占据青霖肉身者",
+    "标志特征": "可分化出散魔、飘渺虚无、蕴含魔威的沙哑声音、左目八个星点、大神通之辈、魔气污秽洞府",
+    "称号": "塔珈大人",
+    "外貌": "双目魔焰、鳞片状黑色铠甲覆体、魔气化斗篷、斗篷末端幻化古魔虚影",
+    "性格": "嗜血疯狂、沙哑阴沉"
   },
   "observations": {
     "种族": [
@@ -57,6 +61,12 @@
         "docId": "plot.xianni-1060-immortal-emperor-cave-ninth-floor-entry",
         "seq": 977,
         "note": "本章自述，对象未明"
+      },
+      {
+        "value": "占据青霖肉身者",
+        "docId": "plot.xianni-1062-gumo-zhiwei-tajia-duoshe-qinglin",
+        "seq": 982,
+        "note": "尚未彻底融合，未能吞噬青霖之魂"
       }
     ],
     "标志特征": [
@@ -69,6 +79,21 @@
         "value": "飘渺虚无、蕴含魔威的沙哑声音",
         "docId": "plot.xianni-1060-immortal-emperor-cave-ninth-floor-entry",
         "seq": 977
+      },
+      {
+        "value": "左目八个星点",
+        "docId": "plot.xianni-1062-gumo-zhiwei-tajia-duoshe-qinglin",
+        "seq": 982
+      },
+      {
+        "value": "大神通之辈",
+        "docId": "plot.xianni-1062-gumo-zhiwei-tajia-duoshe-qinglin",
+        "seq": 982
+      },
+      {
+        "value": "魔气污秽洞府",
+        "docId": "plot.xianni-1062-gumo-zhiwei-tajia-duoshe-qinglin",
+        "seq": 982
       }
     ],
     "称号": [
@@ -76,6 +101,21 @@
         "value": "塔珈大人",
         "docId": "plot.xianni-1024-sanmo-opens-zangxian-pool",
         "seq": 945
+      }
+    ],
+    "外貌": [
+      {
+        "value": "双目魔焰、鳞片状黑色铠甲覆体、魔气化斗篷、斗篷末端幻化古魔虚影",
+        "docId": "plot.xianni-1062-gumo-zhiwei-tajia-duoshe-qinglin",
+        "seq": 982,
+        "note": "夺舍青霖之躯后的形态"
+      }
+    ],
+    "性格": [
+      {
+        "value": "嗜血疯狂、沙哑阴沉",
+        "docId": "plot.xianni-1062-gumo-zhiwei-tajia-duoshe-qinglin",
+        "seq": 982
       }
     ]
   },
@@ -101,15 +141,28 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-1060-immortal-emperor-cave-ninth-floor-entry",
+      "docId": "plot.xianni-1024-sanmo-opens-zangxian-pool",
       "dated": false,
-      "seq": 977
+      "seq": 945
     },
     "称号": {
       "asOf": null,
       "docId": "plot.xianni-1024-sanmo-opens-zangxian-pool",
       "dated": false,
       "seq": 945
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-1062-gumo-zhiwei-tajia-duoshe-qinglin",
+      "dated": false,
+      "seq": 982,
+      "note": "夺舍青霖之躯后的形态"
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-1062-gumo-zhiwei-tajia-duoshe-qinglin",
+      "dated": false,
+      "seq": 982
     }
   },
   "contested": false,
@@ -118,7 +171,8 @@
     "plot.xianni-ch631-its-companions",
     "plot.xianni-1024-sanmo-opens-zangxian-pool",
     "plot.xianni-ch1053-xukongzi-cold-sweat",
-    "plot.xianni-1060-immortal-emperor-cave-ninth-floor-entry"
+    "plot.xianni-1060-immortal-emperor-cave-ninth-floor-entry",
+    "plot.xianni-1062-gumo-zhiwei-tajia-duoshe-qinglin"
   ],
-  "updatedAt": "2026-08-24T09:52:46.341Z"
+  "updatedAt": "2026-08-24T10:07:53.534Z"
 }

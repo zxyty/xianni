@@ -469,3 +469,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T09:49:52.166Z** `ingest` plot.xianni-ch1059-immortal-emperor-cave-8th-floor-ancient-demon-palm — 第1059章 仙帝洞府第八层：凌天候血祭麒麟，王林一掌灭古魔、毁中心宫殿 · kind=plot asOf=2026-08-24 entities=18 relations=26 src=00977-00981.p3.md
 - **2026-08-24T09:52:46.716Z** `ingest` plot.xianni-1060-immortal-emperor-cave-ninth-floor-entry — 仙逆·第1060章：王林入仙帝洞府第九层，塔珈夺舍与大殿外混战 · kind=plot asOf=2026-08-24 entities=35 relations=42 src=00977-00981.p4.md
 - **2026-08-24T10:00:58.701Z** `ingest` plot.xianni-1061-immortal-emperor-cave-collapse-ancient-demon-possession-complete — 《仙逆》第1061章：三大强者神通齐落·仙帝洞府崩塌·古魔夺舍中年男子成功 · kind=plot asOf=2026-08-24 entities=55 relations=85 src=00977-00981.p5.md
+- **2026-08-24T10:07:53.816Z** `ingest` plot.xianni-1062-gumo-zhiwei-tajia-duoshe-qinglin — 第1062章 古魔之威：塔珈夺舍青霖，一步碾碎王巍与天运子神通 · kind=plot asOf=2026-08-24 entities=32 relations=57 src=00982-00986.p1.md

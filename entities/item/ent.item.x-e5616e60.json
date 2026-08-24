@@ -4,12 +4,13 @@
   "name": "白色蜡丸",
   "aliases": [
     "蜡丸",
-    "封蓝血蜡丸"
+    "封蓝血蜡丸",
+    "王巍怀中的蜡丸"
   ],
   "summary": "表面密布如呼吸心跳般闪烁符文的白色蜡丸，内封一滴蓝色血液，捏碎方能释出。",
   "attributes": {
-    "类型": "封印容器",
-    "用途": "封印蓝血，闯入神秘之地的必备之物"
+    "类型": "蜡封丸",
+    "用途": "疑为救命/疗伤之物"
   },
   "observations": {
     "类型": [
@@ -17,6 +18,11 @@
         "value": "封印容器",
         "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
         "seq": 527
+      },
+      {
+        "value": "蜡封丸",
+        "docId": "plot.xianni-1062-gumo-zhiwei-tajia-duoshe-qinglin",
+        "seq": 982
       }
     ],
     "用途": [
@@ -24,6 +30,11 @@
         "value": "封印蓝血，闯入神秘之地的必备之物",
         "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
         "seq": 527
+      },
+      {
+        "value": "疑为救命/疗伤之物",
+        "docId": "plot.xianni-1062-gumo-zhiwei-tajia-duoshe-qinglin",
+        "seq": 982
       }
     ]
   },
@@ -31,21 +42,22 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
+      "docId": "plot.xianni-1062-gumo-zhiwei-tajia-duoshe-qinglin",
       "dated": false,
-      "seq": 527
+      "seq": 982
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
+      "docId": "plot.xianni-1062-gumo-zhiwei-tajia-duoshe-qinglin",
       "dated": false,
-      "seq": 527
+      "seq": 982
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority"
+    "plot.xianni-ch550-yao-xixue-wang-lin-establishes-authority",
+    "plot.xianni-1062-gumo-zhiwei-tajia-duoshe-qinglin"
   ],
-  "updatedAt": "2026-08-22T07:41:19.418Z"
+  "updatedAt": "2026-08-24T10:07:53.558Z"
 }
