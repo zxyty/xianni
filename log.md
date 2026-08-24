@@ -520,3 +520,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T15:59:22.441Z** `ingest` plot.xianni-ch1115-wanglin-farewell-sizongzong-yujie-zundian-qinglin-body — 第1115章 别过四圣宗·雨界崩溃中寻得雨界尊殿 · kind=plot asOf=2026-08-24 entities=24 relations=28 src=01029-01033.p5.md
 - **2026-08-24T16:01:59.130Z** `ingest` plot.xianni-1116-qinglin-revival-formation-wang-blood — 第1116章 复活阵法启动：王姓之血唤醒青霜残魂，众人入青霖识海 · kind=plot asOf=2026-08-24 entities=23 relations=38 src=01034-01038.p1.md
 - **2026-08-24T16:04:33.643Z** `ingest` plot.xianni-ch1117-qinglin-chuandao-wanglin-vs-taja — 第1117章 青霖传道：王林借空涅之力破古魔塔珈 · kind=plot asOf=2026-08-24 entities=20 relations=34 src=01034-01038.p2.md
+- **2026-08-24T16:06:49.005Z** `ingest` plot.xianni-1118-gu-mo-dao-wen — 第1118章 古魔道纹——塔珈碎星尽出，王林一滴雨化百二十八剑 · kind=plot asOf=2026-08-24 entities=20 relations=28 src=01034-01038.p3.md

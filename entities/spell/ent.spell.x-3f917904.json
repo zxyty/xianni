@@ -5,13 +5,15 @@
   "aliases": [
     "定字诀",
     "一字定",
-    "一指定身"
+    "一指定身",
+    "规则定身"
   ],
   "summary": "王林出口一字『定』，即刻使雷道子蔓延而来的环形雷光波纹凝固不动，随后随手一点便使其崩碎。",
   "attributes": {
-    "类型": "定身类神通",
-    "威力": "凝固已成型的雷光波纹，随手可令其崩溃",
-    "消耗": "仅一字出口"
+    "类型": "规则禁锢",
+    "威力": "禁锢古魔于半空，使其无法运转魔气",
+    "消耗": "仅一字出口",
+    "出处": "规则之体"
   },
   "observations": {
     "类型": [
@@ -24,6 +26,11 @@
         "value": "定身类神通",
         "docId": "plot.xianni-ch930-alliance-elder-council",
         "seq": 860
+      },
+      {
+        "value": "规则禁锢",
+        "docId": "plot.xianni-1118-gu-mo-dao-wen",
+        "seq": 1034
       }
     ],
     "威力": [
@@ -31,6 +38,11 @@
         "value": "凝固已成型的雷光波纹，随手可令其崩溃",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
+      },
+      {
+        "value": "禁锢古魔于半空，使其无法运转魔气",
+        "docId": "plot.xianni-1118-gu-mo-dao-wen",
+        "seq": 1034
       }
     ],
     "消耗": [
@@ -39,34 +51,48 @@
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
       }
+    ],
+    "出处": [
+      {
+        "value": "规则之体",
+        "docId": "plot.xianni-1118-gu-mo-dao-wen",
+        "seq": 1034
+      }
     ]
   },
   "firstSeq": 661,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch930-alliance-elder-council",
+      "docId": "plot.xianni-1118-gu-mo-dao-wen",
       "dated": false,
-      "seq": 860
+      "seq": 1034
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
+      "docId": "plot.xianni-1118-gu-mo-dao-wen",
       "dated": false,
-      "seq": 661
+      "seq": 1034
     },
     "消耗": {
       "asOf": null,
       "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
       "dated": false,
       "seq": 661
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.xianni-1118-gu-mo-dao-wen",
+      "dated": false,
+      "seq": 1034
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
-    "plot.xianni-ch930-alliance-elder-council"
+    "plot.xianni-ch930-alliance-elder-council",
+    "plot.xianni-1118-gu-mo-dao-wen"
   ],
-  "updatedAt": "2026-08-23T20:27:00.618Z"
+  "updatedAt": "2026-08-24T16:06:48.667Z"
 }
