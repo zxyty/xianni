@@ -516,3 +516,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T15:45:39.057Z** `ingest` plot.xianni-ch1111-tuosen-alliance-forces-descend-zhuque-star — 第1111章 拓森！——万修降临朱雀星、雕像认主与古神之地入口血战 · kind=plot asOf=2026-08-24 entities=35 relations=43 src=01029-01033.p1.md
 - **2026-08-24T15:52:31.842Z** `ingest` plot.xianni-1112-yujie-huhjiu-mieshen-mao — 第1112章 雨界呼救：拓森召灭神矛横扫朱雀星外诸势力 · kind=plot asOf=2026-08-24 entities=30 relations=44 src=01029-01033.p2.md
 - **2026-08-24T15:54:34.571Z** `ingest` plot.xianni-ch1113-qinglong-shenghuang-jinsuo-tianyunzi-fenshen-zibao — 第1113章 金锁开启一息救青龙圣皇，天运子三分身自爆 · kind=plot asOf=2026-08-24 entities=18 relations=30 src=01029-01033.p3.md
+- **2026-08-24T15:56:57.115Z** `ingest` plot.xianni-1114-tiandao-blood-qinglong-shenghuang-freed — 第1114章 天运子夺天道之血、青龙圣皇脱困与雨之仙界终崩 · kind=plot asOf=2026-08-24 entities=21 relations=33 src=01029-01033.p4.md
