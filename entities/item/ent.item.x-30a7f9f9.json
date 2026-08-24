@@ -1,53 +1,47 @@
 {
-  "id": "ent.item.x-b2ff6f61",
+  "id": "ent.item.x-30a7f9f9",
   "type": "item",
-  "name": "司马墨的玉简",
+  "name": "司马墨的三枚玉简",
   "aliases": [
-    "司马墨玉简",
-    "蛮荒大陆所得玉简",
-    "司马墨遗物玉简"
+    "三枚玉简",
+    "骸骨身前的玉简"
   ],
-  "summary": "记载丹方之物，其现世引发六、七、八阶星域追索，并使九阶破天宗派李倩梅出手取回。",
+  "summary": "置于司马墨骸骨身前的三枚玉简，第一枚记述其当年入七彩裂缝、窥见惊天隐秘与被逐出师门的经历。",
   "attributes": {
     "类型": "玉简",
-    "用途": "开启司马墨洞府岁月禁光幕",
-    "产地": "蛮荒大陆"
+    "用途": "记述司马墨自述与七彩界隐秘",
+    "产地": "司马墨洞府"
   },
   "observations": {
     "类型": [
       {
         "value": "玉简",
-        "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
-        "seq": 1077
+        "docId": "plot.xianni-1196-sima-mo-cave-secret",
+        "seq": 1114
       }
     ],
     "用途": [
       {
-        "value": "承载丹方/传承信息",
-        "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
-        "seq": 1077
-      },
-      {
-        "value": "开启司马墨洞府岁月禁光幕",
+        "value": "记述司马墨自述与七彩界隐秘",
         "docId": "plot.xianni-1196-sima-mo-cave-secret",
         "seq": 1114
       }
     ],
     "产地": [
       {
-        "value": "蛮荒大陆",
+        "value": "司马墨洞府",
         "docId": "plot.xianni-1196-sima-mo-cave-secret",
         "seq": 1114
       }
     ]
   },
-  "firstSeq": 1077,
+  "firstSeq": 1114,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
+      "docId": "plot.xianni-1196-sima-mo-cave-secret",
       "dated": false,
-      "seq": 1077
+      "seq": 1114
     },
     "用途": {
       "asOf": null,
@@ -65,8 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1160-li-qianmei-gushen-dujie",
     "plot.xianni-1196-sima-mo-cave-secret"
   ],
-  "updatedAt": "2026-08-24T23:12:09.263Z"
+  "updatedAt": "2026-08-24T23:12:09.265Z"
 }

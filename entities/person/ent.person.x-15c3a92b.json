@@ -8,15 +8,18 @@
     "破天宗掌门大弟子司马墨",
     "Si Ma Mo",
     "破天宗大弟子司马墨",
-    "司马墨前辈"
+    "司马墨前辈",
+    "七彩骸骨"
   ],
   "summary": "其遗留玉简的现世引发多星域追索；被破天宗雕像内老者称作「司马师兄」，当年似与其师尊之决断有关。",
   "attributes": {
-    "身份": "破天宗溃烂老者的师兄、破天宗掌门大弟子、破天宗大弟子、该秘地内洞府主人（本章未现身）、七彩界洞府主人",
-    "存殁": "未明（本章仅被追忆提及）",
-    "结局": "率部分裂出走后音讯全无",
+    "身份": "破天宗溃烂老者的师兄、破天宗掌门大弟子、破天宗大弟子、该秘地内洞府主人（本章未现身）、七彩界洞府主人、被师尊逐出门派的弃徒",
+    "存殁": "死亡",
+    "结局": "盘膝坐化于洞府山谷，骸骨全身透七彩微光，身前留三枚玉简",
     "称号": "擅长炼丹者",
-    "标志特征": "携走引起浩劫的丹方"
+    "标志特征": "携走引起浩劫的丹方",
+    "外貌": "骸骨全身隐透七彩之色",
+    "性格": "信奉命运，自认罪人"
   },
   "observations": {
     "身份": [
@@ -44,6 +47,11 @@
         "value": "七彩界洞府主人",
         "docId": "plot.xianni-1187-fengshou-wanglin-kills-pang-elder",
         "seq": 1105
+      },
+      {
+        "value": "被师尊逐出门派的弃徒",
+        "docId": "plot.xianni-1196-sima-mo-cave-secret",
+        "seq": 1114
       }
     ],
     "存殁": [
@@ -51,6 +59,11 @@
         "value": "未明（本章仅被追忆提及）",
         "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
         "seq": 1077
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-1196-sima-mo-cave-secret",
+        "seq": 1114
       }
     ],
     "结局": [
@@ -59,6 +72,12 @@
         "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
         "seq": 1077,
         "note": "一万八千年前，其部众死伤惨重"
+      },
+      {
+        "value": "盘膝坐化于洞府山谷，骸骨全身透七彩微光，身前留三枚玉简",
+        "docId": "plot.xianni-1196-sima-mo-cave-secret",
+        "seq": 1114,
+        "note": "第1196章王林所见"
       }
     ],
     "称号": [
@@ -74,6 +93,21 @@
         "docId": "plot.xianni-1184-qicai-jie-mishizhe-duanmu-tongzi",
         "seq": 1100
       }
+    ],
+    "外貌": [
+      {
+        "value": "骸骨全身隐透七彩之色",
+        "docId": "plot.xianni-1196-sima-mo-cave-secret",
+        "seq": 1114,
+        "note": "遗骸状态"
+      }
+    ],
+    "性格": [
+      {
+        "value": "信奉命运，自认罪人",
+        "docId": "plot.xianni-1196-sima-mo-cave-secret",
+        "seq": 1114
+      }
     ]
   },
   "firstSeq": 1077,
@@ -86,16 +120,16 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
+      "docId": "plot.xianni-1196-sima-mo-cave-secret",
       "dated": false,
-      "seq": 1077
+      "seq": 1114
     },
     "结局": {
       "asOf": null,
-      "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
+      "docId": "plot.xianni-1196-sima-mo-cave-secret",
       "dated": false,
-      "seq": 1077,
-      "note": "一万八千年前，其部众死伤惨重"
+      "seq": 1114,
+      "note": "第1196章王林所见"
     },
     "称号": {
       "asOf": null,
@@ -108,6 +142,19 @@
       "docId": "plot.xianni-1184-qicai-jie-mishizhe-duanmu-tongzi",
       "dated": false,
       "seq": 1100
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-1196-sima-mo-cave-secret",
+      "dated": false,
+      "seq": 1114,
+      "note": "遗骸状态"
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-1196-sima-mo-cave-secret",
+      "dated": false,
+      "seq": 1114
     }
   },
   "contested": false,
@@ -117,7 +164,8 @@
     "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
     "plot.xianni-1184-qicai-jie-mishizhe-duanmu-tongzi",
     "plot.xianni-1186-nine-step-seal-heaven-formation-broken",
-    "plot.xianni-1187-fengshou-wanglin-kills-pang-elder"
+    "plot.xianni-1187-fengshou-wanglin-kills-pang-elder",
+    "plot.xianni-1196-sima-mo-cave-secret"
   ],
-  "updatedAt": "2026-08-24T22:43:43.195Z"
+  "updatedAt": "2026-08-24T23:12:09.249Z"
 }

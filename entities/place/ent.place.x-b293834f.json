@@ -7,15 +7,19 @@
     "荒废洞府",
     "石室三间的洞府",
     "山谷内荒废洞府",
-    "王林昏迷之洞府"
+    "王林昏迷之洞府",
+    "紫色山谷"
   ],
   "summary": "位于七彩界外围与内部交接之处的洞府，苍松子据所获玉简确定其存在，内可能藏有丹方、丹药及其余之物。",
   "attributes": {
     "所属界面": "七彩界",
     "方位": "七彩界外围与内部交接之处、秘地内部前方山谷内（非环形山脉之后）",
-    "类型": "废弃洞府",
-    "规模": "石室三间",
-    "所属势力": "司马墨（原主，已荒废）"
+    "类型": "洞府/秘境",
+    "规模": "约百丈大小",
+    "所属势力": "司马墨",
+    "上级区域": "七彩界",
+    "危险度": "两层禁制，外层岁月禁存在近两万年",
+    "守护": "岁月禁光幕"
   },
   "observations": {
     "所属界面": [
@@ -47,6 +51,11 @@
         "value": "废弃洞府",
         "docId": "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan",
         "seq": 1110
+      },
+      {
+        "value": "洞府/秘境",
+        "docId": "plot.xianni-1196-sima-mo-cave-secret",
+        "seq": 1114
       }
     ],
     "规模": [
@@ -54,6 +63,11 @@
         "value": "石室三间",
         "docId": "plot.xianni-1186-nine-step-seal-heaven-formation-broken",
         "seq": 1100
+      },
+      {
+        "value": "约百丈大小",
+        "docId": "plot.xianni-1196-sima-mo-cave-secret",
+        "seq": 1114
       }
     ],
     "所属势力": [
@@ -61,6 +75,32 @@
         "value": "司马墨（原主，已荒废）",
         "docId": "plot.xianni-1186-nine-step-seal-heaven-formation-broken",
         "seq": 1100
+      },
+      {
+        "value": "司马墨",
+        "docId": "plot.xianni-1196-sima-mo-cave-secret",
+        "seq": 1114
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "七彩界",
+        "docId": "plot.xianni-1196-sima-mo-cave-secret",
+        "seq": 1114
+      }
+    ],
+    "危险度": [
+      {
+        "value": "两层禁制，外层岁月禁存在近两万年",
+        "docId": "plot.xianni-1196-sima-mo-cave-secret",
+        "seq": 1114
+      }
+    ],
+    "守护": [
+      {
+        "value": "岁月禁光幕",
+        "docId": "plot.xianni-1196-sima-mo-cave-secret",
+        "seq": 1114
       }
     ]
   },
@@ -80,21 +120,39 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan",
+      "docId": "plot.xianni-1196-sima-mo-cave-secret",
       "dated": false,
-      "seq": 1110
+      "seq": 1114
     },
     "规模": {
       "asOf": null,
-      "docId": "plot.xianni-1186-nine-step-seal-heaven-formation-broken",
+      "docId": "plot.xianni-1196-sima-mo-cave-secret",
       "dated": false,
-      "seq": 1100
+      "seq": 1114
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-1186-nine-step-seal-heaven-formation-broken",
+      "docId": "plot.xianni-1196-sima-mo-cave-secret",
       "dated": false,
-      "seq": 1100
+      "seq": 1114
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-1196-sima-mo-cave-secret",
+      "dated": false,
+      "seq": 1114
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-1196-sima-mo-cave-secret",
+      "dated": false,
+      "seq": 1114
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-1196-sima-mo-cave-secret",
+      "dated": false,
+      "seq": 1114
     }
   },
   "contested": false,
@@ -102,7 +160,8 @@
   "docs": [
     "plot.xianni-1184-qicai-jie-mishizhe-duanmu-tongzi",
     "plot.xianni-1186-nine-step-seal-heaven-formation-broken",
-    "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan"
+    "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan",
+    "plot.xianni-1196-sima-mo-cave-secret"
   ],
-  "updatedAt": "2026-08-24T23:06:30.730Z"
+  "updatedAt": "2026-08-24T23:12:09.268Z"
 }

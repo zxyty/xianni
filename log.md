@@ -591,3 +591,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T22:59:42.252Z** `ingest` plot.xianni-1193-blood-battle-cang-song-zi — 第1193章 血战苍松子——古神三叉戟吞噬神通显威，两败俱伤 · kind=plot asOf=2026-08-24 entities=30 relations=37 src=01110-01113.p2.md
 - **2026-08-24T23:06:31.014Z** `ingest` plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan — 《仙逆》第1194章 破罗：王林重伤中以雷火三叉戟九玄变击碎追踪罗盘 · kind=plot asOf=2026-08-24 entities=33 relations=47 src=01110-01113.p3.md
 - **2026-08-24T23:09:10.922Z** `ingest` plot.xianni-ch1195-seven-colored-nail — 第1195章 七彩钉——王林以肉身硬撼十二阶鹰兽逼出七彩钉 · kind=plot asOf=2026-08-24 entities=24 relations=31 src=01110-01113.p4.md
+- **2026-08-24T23:12:09.568Z** `ingest` plot.xianni-1196-sima-mo-cave-secret — 仙逆第1196章：七彩钉子入手与司马墨洞府的秘密 · kind=plot asOf=2026-08-24 entities=33 relations=37 src=01114-01118.p1.md
