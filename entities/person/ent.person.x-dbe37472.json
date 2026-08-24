@@ -10,7 +10,8 @@
   "attributes": {
     "外貌": "满脸坑洼",
     "标志特征": "转动手指上的戒指",
-    "性格": "不动声色、暗中戒备"
+    "性格": "不动声色、暗中戒备、寡言",
+    "身份": "苍松子一行的清场执行者"
   },
   "observations": {
     "外貌": [
@@ -31,6 +32,18 @@
       {
         "value": "不动声色、暗中戒备",
         "docId": "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
+        "seq": 1095
+      },
+      {
+        "value": "寡言",
+        "docId": "plot.xianni-ch1180-static-barren-continent-seven-color-rift",
+        "seq": 1095
+      }
+    ],
+    "身份": [
+      {
+        "value": "苍松子一行的清场执行者",
+        "docId": "plot.xianni-ch1180-static-barren-continent-seven-color-rift",
         "seq": 1095
       }
     ]
@@ -54,12 +67,19 @@
       "docId": "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
       "dated": false,
       "seq": 1095
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1180-static-barren-continent-seven-color-rift",
+      "dated": false,
+      "seq": 1095
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering"
+    "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
+    "plot.xianni-ch1180-static-barren-continent-seven-color-rift"
   ],
-  "updatedAt": "2026-08-24T21:21:27.190Z"
+  "updatedAt": "2026-08-24T21:23:58.644Z"
 }

@@ -8,15 +8,17 @@
     "换走兽魂的老妪",
     "卖星图的老妪",
     "青衫老妪",
-    "青衣老妇"
+    "青衣老妇",
+    "青衫老太婆"
   ],
   "summary": "碎涅初期女修，雪白头发、青衣、褶皱皮肤，全场一动不动，唯以如电目光冷视王林，对三样宝物毫无兴趣。",
   "attributes": {
     "性别": "女",
     "小阶段": "碎涅",
-    "外貌": "雪白头发、青衣、褶皱皮肤、青衣老妪、青衣（青衫）老妪",
+    "外貌": "雪白头发、青衣、褶皱皮肤、青衣老妪、青衣（青衫）老妪、身着青衫的老妪",
     "性格": "沉默入定、置身事外",
-    "身份": "秘地之行的开路者"
+    "身份": "秘地之行的开路者",
+    "阵营": "苍松子一行"
   },
   "observations": {
     "性别": [
@@ -53,6 +55,11 @@
         "value": "青衣（青衫）老妪",
         "docId": "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
         "seq": 1095
+      },
+      {
+        "value": "身着青衫的老妪",
+        "docId": "plot.xianni-ch1180-static-barren-continent-seven-color-rift",
+        "seq": 1095
       }
     ],
     "性格": [
@@ -76,6 +83,13 @@
       {
         "value": "秘地之行的开路者",
         "docId": "plot.xianni-ch1178-zige-cangsongzi-team",
+        "seq": 1095
+      }
+    ],
+    "阵营": [
+      {
+        "value": "苍松子一行",
+        "docId": "plot.xianni-ch1180-static-barren-continent-seven-color-rift",
         "seq": 1095
       }
     ]
@@ -111,6 +125,12 @@
       "docId": "plot.xianni-ch1178-zige-cangsongzi-team",
       "dated": false,
       "seq": 1095
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1180-static-barren-continent-seven-color-rift",
+      "dated": false,
+      "seq": 1095
     }
   },
   "contested": false,
@@ -120,7 +140,8 @@
     "plot.xianni-1173-feng-yu-dong-auction-yuanjing-trade",
     "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
     "plot.xianni-ch1178-zige-cangsongzi-team",
-    "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering"
+    "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
+    "plot.xianni-ch1180-static-barren-continent-seven-color-rift"
   ],
-  "updatedAt": "2026-08-24T21:21:27.191Z"
+  "updatedAt": "2026-08-24T21:23:58.645Z"
 }

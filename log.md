@@ -575,3 +575,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T21:15:53.064Z** `ingest` plot.xianni-1177-shenmojia-auction-yunhai — 第1177章 神魔甲：王林拍卖山魂残骸与神宗魔甲，云海震动 · kind=plot asOf=2026-08-24 entities=34 relations=37 src=01095-01099.p1.md
 - **2026-08-24T21:18:49.846Z** `ingest` plot.xianni-ch1178-zige-cangsongzi-team — 第1178章 资格：苍松子八万元晶购铠甲、李倩梅赠笔别离、蛮荒大陆四人会合遭云魂子试探 · kind=plot asOf=2026-08-24 entities=28 relations=40 src=01095-01099.p2.md
 - **2026-08-24T21:21:27.545Z** `ingest` plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering — 仙逆 第1179章 群魔聚——苍松子召集六人队伍，王林（化名吕子浩）受云魂子试探 · kind=plot asOf=2026-08-24 entities=24 relations=31 src=01095-01099.p3.md
+- **2026-08-24T21:23:58.956Z** `ingest` plot.xianni-ch1180-static-barren-continent-seven-color-rift — 第1180章 峥嵘！——静止的蛮荒大陆、四山仙阵与七彩裂缝 · kind=plot asOf=2026-08-24 entities=22 relations=31 src=01095-01099.p4.md
