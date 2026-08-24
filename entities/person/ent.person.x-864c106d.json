@@ -10,16 +10,18 @@
     "戴面具的大汉",
     "修真联盟使者墨智",
     "光头汉子",
-    "青布卦衣汉子"
+    "青布卦衣汉子",
+    "出云国墨智"
   ],
   "summary": "雨夜破庙中出现的奇人，体内毫无灵力却行走有缩地成寸之感，一眼看破王林修士身份；所悟意境为「忘境」，代价是记忆每况愈下，以「火便是生」「心亡则忘」点破王林的生死之惑后飘然离去。",
   "attributes": {
     "性别": "男",
-    "外貌": "光头，身穿青布卦衣",
+    "外貌": "光头汉子",
     "标志特征": "体内无半点灵力，乍看仿若凡人、步伐不快却缩地成寸、反复失忆、眼露空洞迷茫、眼中曾闪过一丝迷茫",
-    "性格": "寡言、朋友甚少",
-    "身份": "道界中人・悟得忘境的奇人、修真联盟使者、当年吉庙论道者、出云宗白发老者的弟子",
-    "存殁": "在世"
+    "性格": "平淡不动声色",
+    "身份": "道界中人・悟得忘境的奇人、修真联盟使者、当年吉庙论道者、出云宗白发老者的弟子、出云国代表、奉师命送礼者",
+    "存殁": "在世",
+    "出身地": "出云国"
   },
   "observations": {
     "性别": [
@@ -45,6 +47,11 @@
         "value": "光头，身穿青布卦衣",
         "docId": "plot.xianni-ch1090-mo-zhi-reappears",
         "seq": 1006
+      },
+      {
+        "value": "光头汉子",
+        "docId": "plot.xianni-ch1093-you-want-wang-lin",
+        "seq": 1009
       }
     ],
     "标志特征": [
@@ -84,6 +91,11 @@
         "value": "寡言、朋友甚少",
         "docId": "plot.xianni-ch1090-mo-zhi-reappears",
         "seq": 1006
+      },
+      {
+        "value": "平淡不动声色",
+        "docId": "plot.xianni-ch1093-you-want-wang-lin",
+        "seq": 1009
       }
     ],
     "身份": [
@@ -106,6 +118,11 @@
         "value": "出云宗白发老者的弟子",
         "docId": "plot.xianni-ch1090-mo-zhi-reappears",
         "seq": 1006
+      },
+      {
+        "value": "出云国代表、奉师命送礼者",
+        "docId": "plot.xianni-ch1093-you-want-wang-lin",
+        "seq": 1009
       }
     ],
     "存殁": [
@@ -113,6 +130,13 @@
         "value": "在世",
         "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
         "seq": 263
+      }
+    ],
+    "出身地": [
+      {
+        "value": "出云国",
+        "docId": "plot.xianni-ch1093-you-want-wang-lin",
+        "seq": 1009
       }
     ]
   },
@@ -126,9 +150,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch1090-mo-zhi-reappears",
+      "docId": "plot.xianni-ch1093-you-want-wang-lin",
       "dated": false,
-      "seq": 1006
+      "seq": 1009
     },
     "标志特征": {
       "asOf": null,
@@ -138,9 +162,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch1090-mo-zhi-reappears",
+      "docId": "plot.xianni-ch1093-you-want-wang-lin",
       "dated": false,
-      "seq": 1006
+      "seq": 1009
     },
     "身份": {
       "asOf": null,
@@ -153,6 +177,12 @@
       "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
       "dated": false,
       "seq": 263
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1093-you-want-wang-lin",
+      "dated": false,
+      "seq": 1009
     }
   },
   "contested": false,
@@ -160,7 +190,8 @@
   "docs": [
     "plot.xianni-ch263-267-tianni-change-xueyu-country",
     "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
-    "plot.xianni-ch1090-mo-zhi-reappears"
+    "plot.xianni-ch1090-mo-zhi-reappears",
+    "plot.xianni-ch1093-you-want-wang-lin"
   ],
-  "updatedAt": "2026-08-24T13:25:48.823Z"
+  "updatedAt": "2026-08-24T13:33:56.038Z"
 }
