@@ -6,12 +6,13 @@
     "天道血迹",
     "红雨如血",
     "拳头大小的黑色血液",
-    "Tian Dao Blood"
+    "Tian Dao Blood",
+    "天道血"
   ],
   "summary": "仙界浩劫前约百年降于雨之仙界的血色红雨所蕴之力，被仙帝门人师尊搜集炼化为拳头大小一团；吞噬者多化作血水而亡，青龙圣皇却借其度过天人第四衰。",
   "attributes": {
-    "类型": "天道遗留之血",
-    "用途": "吞服可逆天改命（但常人吞之立化血水而亡）",
+    "类型": "天道遗留之血、不祥之物/血",
+    "用途": "吞服可逆天改命（但常人吞之立化血水而亡）、吞服",
     "产地": "雨之仙界（浩劫前百年红雨降落）"
   },
   "observations": {
@@ -20,6 +21,11 @@
         "value": "天道遗留之血",
         "docId": "plot.xianni-1114-tiandao-blood-qinglong-shenghuang-freed",
         "seq": 1029
+      },
+      {
+        "value": "不祥之物/血",
+        "docId": "plot.xianni-ch1115-wanglin-farewell-sizongzong-yujie-zundian-qinglin-body",
+        "seq": 1029
       }
     ],
     "用途": [
@@ -27,6 +33,12 @@
         "value": "吞服可逆天改命（但常人吞之立化血水而亡）",
         "docId": "plot.xianni-1114-tiandao-blood-qinglong-shenghuang-freed",
         "seq": 1029
+      },
+      {
+        "value": "吞服",
+        "docId": "plot.xianni-ch1115-wanglin-farewell-sizongzong-yujie-zundian-qinglin-body",
+        "seq": 1029,
+        "note": "吞下者若不死则性情大变"
       }
     ],
     "产地": [
@@ -61,7 +73,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1114-tiandao-blood-qinglong-shenghuang-freed"
+    "plot.xianni-1114-tiandao-blood-qinglong-shenghuang-freed",
+    "plot.xianni-ch1115-wanglin-farewell-sizongzong-yujie-zundian-qinglin-body"
   ],
-  "updatedAt": "2026-08-24T15:56:56.807Z"
+  "updatedAt": "2026-08-24T15:59:22.143Z"
 }

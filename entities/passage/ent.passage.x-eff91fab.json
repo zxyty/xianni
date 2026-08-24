@@ -5,12 +5,13 @@
   "aliases": [
     "雨之仙界大门",
     "雨界之门",
-    "平台上的大门"
+    "平台上的大门",
+    "雨界门"
   ],
   "summary": "由王林以元神结晶为核、数万四圣宗弟子与三十五名碎涅长老供力开启的通往雨之仙界的门户，位于朱雀圣宗主星上空。",
   "attributes": {
-    "类型": "界面通道",
-    "两端": "雨之仙界—外界",
+    "类型": "界面门户、界面通道、界门",
+    "两端": "朱雀圣宗主星上空 ↔ 雨之仙界、雨之仙界—外界、雨界与外界",
     "可通行境界": "碎涅及以上（本章通行者）"
   },
   "observations": {
@@ -24,6 +25,11 @@
         "value": "界面通道",
         "docId": "plot.xianni-1114-tiandao-blood-qinglong-shenghuang-freed",
         "seq": 1029
+      },
+      {
+        "value": "界门",
+        "docId": "plot.xianni-ch1115-wanglin-farewell-sizongzong-yujie-zundian-qinglin-body",
+        "seq": 1029
       }
     ],
     "两端": [
@@ -35,6 +41,11 @@
       {
         "value": "雨之仙界—外界",
         "docId": "plot.xianni-1114-tiandao-blood-qinglong-shenghuang-freed",
+        "seq": 1029
+      },
+      {
+        "value": "雨界与外界",
+        "docId": "plot.xianni-ch1115-wanglin-farewell-sizongzong-yujie-zundian-qinglin-body",
         "seq": 1029
       }
     ],
@@ -56,15 +67,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1114-tiandao-blood-qinglong-shenghuang-freed",
+      "docId": "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell",
       "dated": false,
-      "seq": 1029
+      "seq": 1024
     },
     "两端": {
       "asOf": null,
-      "docId": "plot.xianni-1114-tiandao-blood-qinglong-shenghuang-freed",
+      "docId": "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell",
       "dated": false,
-      "seq": 1029
+      "seq": 1024
     },
     "可通行境界": {
       "asOf": null,
@@ -77,7 +88,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell",
-    "plot.xianni-1114-tiandao-blood-qinglong-shenghuang-freed"
+    "plot.xianni-1114-tiandao-blood-qinglong-shenghuang-freed",
+    "plot.xianni-ch1115-wanglin-farewell-sizongzong-yujie-zundian-qinglin-body"
   ],
-  "updatedAt": "2026-08-24T15:56:56.812Z"
+  "updatedAt": "2026-08-24T15:59:22.141Z"
 }

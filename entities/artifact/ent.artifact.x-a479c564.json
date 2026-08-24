@@ -6,7 +6,8 @@
   "summary": "朱雀一脉的太古圣器，现由王林持有；青龙圣皇临行要求其回四圣宗时送还。",
   "attributes": {
     "持有者": "王林",
-    "品阶": "太古圣器"
+    "品阶": "太古圣器",
+    "来历": "四圣宗朱雀一脉"
   },
   "observations": {
     "持有者": [
@@ -21,6 +22,13 @@
       {
         "value": "太古圣器",
         "docId": "plot.xianni-1114-tiandao-blood-qinglong-shenghuang-freed",
+        "seq": 1029
+      }
+    ],
+    "来历": [
+      {
+        "value": "四圣宗朱雀一脉",
+        "docId": "plot.xianni-ch1115-wanglin-farewell-sizongzong-yujie-zundian-qinglin-body",
         "seq": 1029
       }
     ]
@@ -39,12 +47,19 @@
       "docId": "plot.xianni-1114-tiandao-blood-qinglong-shenghuang-freed",
       "dated": false,
       "seq": 1029
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1115-wanglin-farewell-sizongzong-yujie-zundian-qinglin-body",
+      "dated": false,
+      "seq": 1029
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1114-tiandao-blood-qinglong-shenghuang-freed"
+    "plot.xianni-1114-tiandao-blood-qinglong-shenghuang-freed",
+    "plot.xianni-ch1115-wanglin-farewell-sizongzong-yujie-zundian-qinglin-body"
   ],
-  "updatedAt": "2026-08-24T15:56:56.815Z"
+  "updatedAt": "2026-08-24T15:59:22.139Z"
 }

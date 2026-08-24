@@ -4,12 +4,16 @@
   "name": "雨界尊殿",
   "aliases": [
     "雨界之尊殿",
-    "尊殿"
+    "尊殿",
+    "青色大殿"
   ],
   "summary": "青霖夺舍前遗言中提及的所在，与「元神结晶」「青霜之血」并列，用途未明。",
   "attributes": {
-    "类型": "殿宇/成帝之地",
-    "所属界面": "雨之仙界"
+    "类型": "尊殿",
+    "所属界面": "雨界",
+    "方位": "重叠碎片最下层之下的虚无中",
+    "危险度": "极高（雨界全崩后将化作吞噬一切的漩涡）",
+    "守护": "无（大殿完好无损、自行飘移）"
   },
   "observations": {
     "类型": [
@@ -22,6 +26,11 @@
         "value": "殿宇/成帝之地",
         "docId": "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell",
         "seq": 1024
+      },
+      {
+        "value": "尊殿",
+        "docId": "plot.xianni-ch1115-wanglin-farewell-sizongzong-yujie-zundian-qinglin-body",
+        "seq": 1029
       }
     ],
     "所属界面": [
@@ -29,6 +38,32 @@
         "value": "雨之仙界",
         "docId": "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell",
         "seq": 1024
+      },
+      {
+        "value": "雨界",
+        "docId": "plot.xianni-ch1115-wanglin-farewell-sizongzong-yujie-zundian-qinglin-body",
+        "seq": 1029
+      }
+    ],
+    "方位": [
+      {
+        "value": "重叠碎片最下层之下的虚无中",
+        "docId": "plot.xianni-ch1115-wanglin-farewell-sizongzong-yujie-zundian-qinglin-body",
+        "seq": 1029
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高（雨界全崩后将化作吞噬一切的漩涡）",
+        "docId": "plot.xianni-ch1115-wanglin-farewell-sizongzong-yujie-zundian-qinglin-body",
+        "seq": 1029
+      }
+    ],
+    "守护": [
+      {
+        "value": "无（大殿完好无损、自行飘移）",
+        "docId": "plot.xianni-ch1115-wanglin-farewell-sizongzong-yujie-zundian-qinglin-body",
+        "seq": 1029
       }
     ]
   },
@@ -36,22 +71,41 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell",
+      "docId": "plot.xianni-ch1115-wanglin-farewell-sizongzong-yujie-zundian-qinglin-body",
       "dated": false,
-      "seq": 1024
+      "seq": 1029
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell",
+      "docId": "plot.xianni-ch1115-wanglin-farewell-sizongzong-yujie-zundian-qinglin-body",
       "dated": false,
-      "seq": 1024
+      "seq": 1029
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1115-wanglin-farewell-sizongzong-yujie-zundian-qinglin-body",
+      "dated": false,
+      "seq": 1029
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1115-wanglin-farewell-sizongzong-yujie-zundian-qinglin-body",
+      "dated": false,
+      "seq": 1029
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1115-wanglin-farewell-sizongzong-yujie-zundian-qinglin-body",
+      "dated": false,
+      "seq": 1029
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1063-qinglin-duoshe-qian-de-yiju-hua",
-    "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell"
+    "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell",
+    "plot.xianni-ch1115-wanglin-farewell-sizongzong-yujie-zundian-qinglin-body"
   ],
-  "updatedAt": "2026-08-24T15:42:49.405Z"
+  "updatedAt": "2026-08-24T15:59:22.141Z"
 }
