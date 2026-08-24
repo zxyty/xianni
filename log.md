@@ -478,3 +478,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T11:16:23.447Z** `ingest` plot.xianni-1068-zhuque-second-awakening — 第1068章 朱雀二次觉醒——仙帝洞府七层崩塌 · kind=plot asOf=2026-08-24 entities=27 relations=39 src=00987-00991.p2.md
 - **2026-08-24T11:23:34.801Z** `ingest` plot.xianni-1069-beiluo-yaolingbian-self-detonation — 第1069章：古妖贝罗施「妖灵变」焚村姑美妇、自爆阻塔珈 · kind=plot asOf=2026-08-24 entities=37 relations=71 src=00987-00991.p3.md
 - **2026-08-24T11:35:56.385Z** `ingest` plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach — 第1070章：仙帝洞府第一层突围与朱雀真灵轰击妖灵之地封印 · kind=plot asOf=2026-08-24 entities=57 relations=114 src=00987-00991.p4.md
+- **2026-08-24T11:38:49.556Z** `ingest` plot.xianni-1071-zhu-que-sheng-zong-lai-lin — 第1071章 来临：花妃对战古魔塔珈，虚空子肉衰扑杀王林，妖灵之地封印崩溃 · kind=plot asOf=2026-08-24 entities=24 relations=32 src=00987-00991.p5.md
