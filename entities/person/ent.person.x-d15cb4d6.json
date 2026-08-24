@@ -5,14 +5,20 @@
   "aliases": [
     "吴某",
     "Wu Qing",
-    "吴道友"
+    "吴道友",
+    "魔丛道长老吴青",
+    "魔丛道吴青",
+    "魔丛道一代长老"
   ],
   "summary": "魔丛道长老，碎涅初期，红面如赤、声如洪钟，性直爽不喜迂回，直接开口邀王林任外事长老；王林走后神色转阴沉。",
   "attributes": {
-    "身份": "魔丛道长老",
+    "身份": "魔丛道长老、六阶星域魔丛道长老、魔丛道一代长老",
     "外貌": "红面如赤、精光闪闪",
-    "性格": "笑里藏刀、好试探戏耍",
-    "小阶段": "碎涅"
+    "性格": "直爽豪迈、笑里藏刀、好试探戏耍、贪婪、自喻老谋实则自大、鲁莽",
+    "小阶段": "碎涅",
+    "存殁": "重伤、死亡",
+    "死因": "被王林以役灵印一掌轰碎肉身，元神遁出后亦被掌印扫散",
+    "结局": "道消身亡，储物裂缝之物被王林尽数夺走"
   },
   "observations": {
     "身份": [
@@ -20,6 +26,16 @@
         "value": "魔丛道长老",
         "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
         "seq": 1087
+      },
+      {
+        "value": "六阶星域魔丛道长老",
+        "docId": "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
+        "seq": 1091
+      },
+      {
+        "value": "魔丛道一代长老",
+        "docId": "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
+        "seq": 1091
       }
     ],
     "外貌": [
@@ -40,6 +56,11 @@
         "value": "笑里藏刀、好试探戏耍",
         "docId": "plot.xianni-1173-feng-yu-dong-auction-yuanjing-trade",
         "seq": 1091
+      },
+      {
+        "value": "贪婪、自喻老谋实则自大、鲁莽",
+        "docId": "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
+        "seq": 1091
       }
     ],
     "小阶段": [
@@ -51,6 +72,32 @@
       {
         "value": "碎涅",
         "docId": "plot.xianni-1173-feng-yu-dong-auction-yuanjing-trade",
+        "seq": 1091
+      }
+    ],
+    "存殁": [
+      {
+        "value": "重伤",
+        "docId": "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
+        "seq": 1091
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
+        "seq": 1091
+      }
+    ],
+    "死因": [
+      {
+        "value": "被王林以役灵印一掌轰碎肉身，元神遁出后亦被掌印扫散",
+        "docId": "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
+        "seq": 1091
+      }
+    ],
+    "结局": [
+      {
+        "value": "道消身亡，储物裂缝之物被王林尽数夺走",
+        "docId": "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
         "seq": 1091
       }
     ]
@@ -71,13 +118,32 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-1173-feng-yu-dong-auction-yuanjing-trade",
+      "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
       "dated": false,
-      "seq": 1091
+      "seq": 1087,
+      "note": "对外表象，王林离去后转为阴沉"
     },
     "小阶段": {
       "asOf": null,
       "docId": "plot.xianni-1173-feng-yu-dong-auction-yuanjing-trade",
+      "dated": false,
+      "seq": 1091
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
+      "dated": false,
+      "seq": 1091
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
+      "dated": false,
+      "seq": 1091
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
       "dated": false,
       "seq": 1091
     }
@@ -86,7 +152,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1169-who-are-you-penglai-fair",
-    "plot.xianni-1173-feng-yu-dong-auction-yuanjing-trade"
+    "plot.xianni-1173-feng-yu-dong-auction-yuanjing-trade",
+    "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing"
   ],
-  "updatedAt": "2026-08-24T20:59:47.528Z"
+  "updatedAt": "2026-08-24T21:07:57.205Z"
 }

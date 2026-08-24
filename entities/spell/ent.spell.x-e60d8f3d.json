@@ -3,13 +3,18 @@
   "type": "spell",
   "name": "役灵印",
   "aliases": [
-    "九阶神宗的役灵印"
+    "九阶神宗的役灵印",
+    "九阶神宗役灵印",
+    "Yi Ling Yin",
+    "掌印",
+    "神宗役灵印"
   ],
   "summary": "王林凝聚星空元力化作巨大掌印的神通，被紫衣老者临死认出为九阶神宗之法。",
   "attributes": {
     "类型": "掌印类神通",
     "出处": "九阶神宗",
-    "威力": "推退并崩溃净涅初期元神"
+    "威力": "推退并崩溃净涅初期元神、一掌轰杀碎涅初期修士并灭其元神、横推速度不弱于碎涅修士、崩碎整座蛮荒大陆",
+    "适用境界": "碎涅期可施展"
   },
   "observations": {
     "类型": [
@@ -31,6 +36,28 @@
         "value": "推退并崩溃净涅初期元神",
         "docId": "plot.xianni-ch1107-yu-tian-zheng-thunder-fire-tribulation",
         "seq": 1024
+      },
+      {
+        "value": "一掌轰杀碎涅初期修士并灭其元神",
+        "docId": "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
+        "seq": 1091
+      },
+      {
+        "value": "横推速度不弱于碎涅修士",
+        "docId": "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
+        "seq": 1091
+      },
+      {
+        "value": "崩碎整座蛮荒大陆",
+        "docId": "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
+        "seq": 1091
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "碎涅期可施展",
+        "docId": "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
+        "seq": 1091
       }
     ]
   },
@@ -53,12 +80,19 @@
       "docId": "plot.xianni-ch1107-yu-tian-zheng-thunder-fire-tribulation",
       "dated": false,
       "seq": 1024
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
+      "dated": false,
+      "seq": 1091
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1107-yu-tian-zheng-thunder-fire-tribulation"
+    "plot.xianni-ch1107-yu-tian-zheng-thunder-fire-tribulation",
+    "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing"
   ],
-  "updatedAt": "2026-08-24T15:24:22.349Z"
+  "updatedAt": "2026-08-24T21:07:57.226Z"
 }

@@ -7,16 +7,18 @@
     "蓬莱",
     "蓬莱仙境",
     "Penglai",
-    "蓬莱主城"
+    "蓬莱主城",
+    "蓬莱星"
   ],
   "summary": "李倩梅邀王林同往之地，近日将举办三十年一次的坊市与拍卖。",
   "attributes": {
-    "特产": "三十年一次的坊市与拍卖、蓬莱坊市、蓬莱乱法、贵物拍卖、坊市（定期开启）、星图玉简、炼丹材料",
+    "特产": "三十年一次的坊市与拍卖、蓬莱坊市、蓬莱乱法、贵物拍卖、坊市（定期开启）、星图玉简、炼丹材料、漂浮锥形石块坊市",
     "所属势力": "宝玉宗",
-    "类型": "坊市/城池",
+    "类型": "半个修真星、大陆、坊市/城池、修真大陆",
     "规模": "莫罗大陆的数十倍",
     "上级区域": "五阶星域",
-    "所属界面": "云海星域"
+    "所属界面": "云海星域",
+    "守护": "无数防护层"
   },
   "observations": {
     "特产": [
@@ -49,6 +51,11 @@
         "value": "星图玉简、炼丹材料",
         "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
         "seq": 1087
+      },
+      {
+        "value": "漂浮锥形石块坊市",
+        "docId": "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
+        "seq": 1091
       }
     ],
     "所属势力": [
@@ -73,6 +80,11 @@
         "value": "坊市/城池",
         "docId": "plot.xianni-1173-feng-yu-dong-auction-yuanjing-trade",
         "seq": 1091
+      },
+      {
+        "value": "修真大陆",
+        "docId": "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
+        "seq": 1091
       }
     ],
     "规模": [
@@ -95,6 +107,13 @@
         "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
         "seq": 1087
       }
+    ],
+    "守护": [
+      {
+        "value": "无数防护层",
+        "docId": "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
+        "seq": 1091
+      }
     ]
   },
   "firstSeq": 1082,
@@ -113,9 +132,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1173-feng-yu-dong-auction-yuanjing-trade",
+      "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
       "dated": false,
-      "seq": 1091
+      "seq": 1082
     },
     "规模": {
       "asOf": null,
@@ -134,6 +153,12 @@
       "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
       "dated": false,
       "seq": 1087
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
+      "dated": false,
+      "seq": 1091
     }
   },
   "contested": false,
@@ -142,7 +167,8 @@
     "plot.xianni-1167-hui-mou-yi-xiao-lun-dao",
     "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
     "plot.xianni-ch1169-who-are-you-penglai-fair",
-    "plot.xianni-1173-feng-yu-dong-auction-yuanjing-trade"
+    "plot.xianni-1173-feng-yu-dong-auction-yuanjing-trade",
+    "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing"
   ],
-  "updatedAt": "2026-08-24T20:59:47.544Z"
+  "updatedAt": "2026-08-24T21:07:57.234Z"
 }

@@ -11,16 +11,19 @@
     "蛮荒大陆凶兽之地",
     "蛮荒大陆山谷所在之地",
     "蛮荒大陆（五阶星域）",
-    "蛮荒大陆一带"
+    "蛮荒大陆一带",
+    "宝玉宗蛮荒大陆",
+    "宝玉宗禁脔"
   ],
   "summary": "云海五阶星域星雾深处的无防护大陆，无黑塔守护、被星雾弥漫，是凶兽巢穴，亦生长极珍贵药草；王林行三日抵达星图标注危险的一处。",
   "attributes": {
     "所属界面": "云海星域、云海五阶星域、云海星域（五阶星域）",
-    "类型": "无防护的凶兽荒陆、星域内漂浮大陆、大陆/秘境、凶兽荒陆、大陆、蛮荒之地/秘境",
-    "危险度": "星图标注危险、极高：兽潮汇聚，存在五阶凶兽、极高（凶兽可聚成千上万乃至十万以上）、高，中心地带更高阶凶兽出没、极高（凶兽、剧毒、各宗修士齐至）、本章各方势力汇聚，一触即发、极高，凶兽遍布、四周星域严密封锁",
+    "类型": "无防护的凶兽荒陆、星域内漂浮大陆、大陆/秘境、凶兽荒陆、大陆、蛮荒之地/秘境、禁地大陆",
+    "危险度": "星图标注危险、极高：兽潮汇聚，存在五阶凶兽、极高（凶兽可聚成千上万乃至十万以上）、高，中心地带更高阶凶兽出没、极高（凶兽、剧毒、各宗修士齐至）、本章各方势力汇聚，一触即发、极高，凶兽遍布、四周星域严密封锁、严禁外宗踏入",
     "特产": "极为珍贵的药草、红色小草（生于鹰兽巢穴内）、雾中花、各类药草、万年死魂、凶兽、药草、兽魂",
     "上级区域": "五阶星域",
-    "方位": "远离莫罗大陆的星雾深处"
+    "方位": "蓬莱星外不远",
+    "所属势力": "宝玉宗"
   },
   "observations": {
     "所属界面": [
@@ -70,6 +73,11 @@
         "value": "蛮荒之地/秘境",
         "docId": "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan",
         "seq": 1068
+      },
+      {
+        "value": "禁地大陆",
+        "docId": "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
+        "seq": 1091
       }
     ],
     "危险度": [
@@ -114,6 +122,11 @@
         "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
         "seq": 1073,
         "note": "本章之后"
+      },
+      {
+        "value": "严禁外宗踏入",
+        "docId": "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
+        "seq": 1091
       }
     ],
     "特产": [
@@ -175,6 +188,18 @@
         "value": "远离莫罗大陆的星雾深处",
         "docId": "plot.xianni-1148-manhuang-dalu-beast-souls",
         "seq": 1063
+      },
+      {
+        "value": "蓬莱星外不远",
+        "docId": "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
+        "seq": 1091
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "宝玉宗",
+        "docId": "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
+        "seq": 1091
       }
     ]
   },
@@ -213,9 +238,15 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-1148-manhuang-dalu-beast-souls",
+      "docId": "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
       "dated": false,
-      "seq": 1063
+      "seq": 1091
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
+      "dated": false,
+      "seq": 1091
     }
   },
   "contested": false,
@@ -232,7 +263,8 @@
     "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
     "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong",
     "plot.xianni-1164-three-questions-lu-yuncong-li-qianmei",
-    "plot.xianni-ch1169-who-are-you-penglai-fair"
+    "plot.xianni-ch1169-who-are-you-penglai-fair",
+    "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing"
   ],
-  "updatedAt": "2026-08-24T20:57:23.021Z"
+  "updatedAt": "2026-08-24T21:07:57.236Z"
 }
