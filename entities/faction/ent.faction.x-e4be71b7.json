@@ -6,11 +6,14 @@
     "白虎一脉",
     "Bai Hu Sacred Sect",
     "白虎圣宗一脉",
-    "四圣宗之白虎"
+    "四圣宗之白虎",
+    "白虎宗"
   ],
   "summary": "四圣宗一脉，觉醒者多为凶焰滔天之辈，一旦觉醒可成杀戮惊仙之人。",
   "attributes": {
-    "理念": "血脉传承"
+    "理念": "血脉传承",
+    "阵营": "四圣宗",
+    "镇派之宝": "太古白虎圣器（七块残金）"
   },
   "observations": {
     "理念": [
@@ -24,6 +27,20 @@
         "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
         "seq": 960
       }
+    ],
+    "阵营": [
+      {
+        "value": "四圣宗",
+        "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+        "seq": 1002
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "太古白虎圣器（七块残金）",
+        "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+        "seq": 1002
+      }
     ]
   },
   "firstSeq": 945,
@@ -33,6 +50,18 @@
       "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
       "dated": false,
       "seq": 960
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+      "dated": false,
+      "seq": 1002
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+      "dated": false,
+      "seq": 1002
     }
   },
   "contested": false,
@@ -40,7 +69,8 @@
   "docs": [
     "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
     "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
-    "plot.xianni-1078-tashan-appears"
+    "plot.xianni-1078-tashan-appears",
+    "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival"
   ],
-  "updatedAt": "2026-08-24T12:05:52.640Z"
+  "updatedAt": "2026-08-24T12:57:42.875Z"
 }

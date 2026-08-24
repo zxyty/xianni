@@ -6,12 +6,14 @@
     "玄武一脉",
     "Xuan Wu Sacred Sect",
     "玄武圣宗一脉",
-    "四圣宗之玄武"
+    "四圣宗之玄武",
+    "玄武宗"
   ],
   "summary": "四圣宗一脉，不缺觉醒者，觉醒相对危机最小。",
   "attributes": {
     "理念": "觉醒最先、危机最小",
-    "阵营": "叛出四圣宗"
+    "阵营": "四圣宗",
+    "镇派之宝": "太古玄武圣器"
   },
   "observations": {
     "理念": [
@@ -27,6 +29,19 @@
         "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
         "seq": 960,
         "note": "圣皇及绝大部分族人叛变"
+      },
+      {
+        "value": "四圣宗",
+        "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+        "seq": 1002
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "太古玄武圣器",
+        "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+        "seq": 1002,
+        "note": "并非真品，真正玄武圣器在昔日玄武圣皇手中"
       }
     ]
   },
@@ -40,10 +55,16 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
+      "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
       "dated": false,
-      "seq": 960,
-      "note": "圣皇及绝大部分族人叛变"
+      "seq": 1002
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+      "dated": false,
+      "seq": 1002,
+      "note": "并非真品，真正玄武圣器在昔日玄武圣皇手中"
     }
   },
   "contested": false,
@@ -51,7 +72,8 @@
   "docs": [
     "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
     "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
-    "plot.xianni-1078-tashan-appears"
+    "plot.xianni-1078-tashan-appears",
+    "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival"
   ],
-  "updatedAt": "2026-08-24T12:05:52.639Z"
+  "updatedAt": "2026-08-24T12:57:42.876Z"
 }

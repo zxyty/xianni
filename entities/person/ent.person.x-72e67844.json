@@ -8,18 +8,22 @@
     "察觉王林之人",
     "之前发现了王林的老者",
     "昆虚之境老者",
-    "察觉王林心神的老者"
+    "察觉王林心神的老者",
+    "昆虚的老者",
+    "昆虚老怪"
   ],
   "summary": "昆虚之境内盘膝湖畔打坐的老者，第一个察觉王林心神到来并出言相邀，言语中蕴含可随心改变规则的规则之力。",
   "attributes": {
-    "身份": "昆虚之境长辈/劝谏者",
+    "身份": "昆虚之境修士",
     "外貌": "老者",
     "标志特征": "言语平静却充满规则之力，所在之处规则可随其一言变化",
-    "存殁": "在世",
+    "存殁": "存活",
     "神识": "目光好似可以穿透无数、遥望妖灵之地",
     "性别": "男",
-    "性格": "不屑修士、暗叹苦笑、以大局为重",
-    "小阶段": "昆虚之境"
+    "性格": "不屑修士、暗叹苦笑、以大局为重、谨慎、衡量利害",
+    "小阶段": "昆虚之境",
+    "阵营": "昆虚",
+    "出身地": "昆虚之境"
   },
   "observations": {
     "身份": [
@@ -37,6 +41,11 @@
         "value": "昆虚之境长辈/劝谏者",
         "docId": "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
         "seq": 982
+      },
+      {
+        "value": "昆虚之境修士",
+        "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+        "seq": 1002
       }
     ],
     "外貌": [
@@ -63,6 +72,11 @@
         "value": "在世",
         "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
         "seq": 960
+      },
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+        "seq": 1002
       }
     ],
     "神识": [
@@ -95,6 +109,11 @@
         "value": "以大局为重",
         "docId": "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
         "seq": 982
+      },
+      {
+        "value": "谨慎、衡量利害",
+        "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+        "seq": 1002
       }
     ],
     "小阶段": [
@@ -103,15 +122,29 @@
         "docId": "plot.xianni-ch1081-meng-hui-yuan-gu",
         "seq": 997
       }
+    ],
+    "阵营": [
+      {
+        "value": "昆虚",
+        "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+        "seq": 1002
+      }
+    ],
+    "出身地": [
+      {
+        "value": "昆虚之境",
+        "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+        "seq": 1002
+      }
     ]
   },
   "firstSeq": 960,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
+      "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
       "dated": false,
-      "seq": 982
+      "seq": 1002
     },
     "外貌": {
       "asOf": null,
@@ -127,9 +160,9 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
+      "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
       "dated": false,
-      "seq": 960
+      "seq": 1002
     },
     "神识": {
       "asOf": null,
@@ -155,6 +188,18 @@
       "docId": "plot.xianni-ch1081-meng-hui-yuan-gu",
       "dated": false,
       "seq": 997
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+      "dated": false,
+      "seq": 1002
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+      "dated": false,
+      "seq": 1002
     }
   },
   "contested": false,
@@ -163,7 +208,8 @@
     "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
     "plot.xianni-1061-immortal-emperor-cave-collapse-ancient-demon-possession-complete",
     "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
-    "plot.xianni-ch1081-meng-hui-yuan-gu"
+    "plot.xianni-ch1081-meng-hui-yuan-gu",
+    "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival"
   ],
-  "updatedAt": "2026-08-24T12:14:02.696Z"
+  "updatedAt": "2026-08-24T12:57:42.900Z"
 }

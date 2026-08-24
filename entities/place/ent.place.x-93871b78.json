@@ -20,8 +20,9 @@
     "规模": "一百七十三颗巨大修真星",
     "所属界面": "联盟星域",
     "上级区域": "修真联盟总部",
-    "方位": "修真联盟总部深处",
-    "守护": "重要人物命牌与钟鸣示警制度"
+    "方位": "联盟星域中央",
+    "守护": "滔天大阵",
+    "危险度": "外有滔天大阵隔绝内外"
   },
   "observations": {
     "所属势力": [
@@ -79,6 +80,11 @@
         "value": "修真联盟总部深处",
         "docId": "plot.xianni-1061-immortal-emperor-cave-collapse-ancient-demon-possession-complete",
         "seq": 977
+      },
+      {
+        "value": "联盟星域中央",
+        "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+        "seq": 1002
       }
     ],
     "守护": [
@@ -86,6 +92,18 @@
         "value": "重要人物命牌与钟鸣示警制度",
         "docId": "plot.xianni-ch1074-zhangzun-power-canye-kills-three",
         "seq": 992
+      },
+      {
+        "value": "滔天大阵",
+        "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+        "seq": 1002
+      }
+    ],
+    "危险度": [
+      {
+        "value": "外有滔天大阵隔绝内外",
+        "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+        "seq": 1002
       }
     ]
   },
@@ -123,15 +141,21 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-1061-immortal-emperor-cave-collapse-ancient-demon-possession-complete",
+      "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
       "dated": false,
-      "seq": 977
+      "seq": 1002
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch1074-zhangzun-power-canye-kills-three",
+      "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
       "dated": false,
-      "seq": 992
+      "seq": 1002
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+      "dated": false,
+      "seq": 1002
     }
   },
   "contested": false,
@@ -142,7 +166,8 @@
     "plot.xianni-1061-immortal-emperor-cave-collapse-ancient-demon-possession-complete",
     "plot.xianni-1065-three-ancient-races-reunite",
     "plot.xianni-ch1074-zhangzun-power-canye-kills-three",
-    "plot.xianni-1075-zhenling-ronghe-zhuque-juexing"
+    "plot.xianni-1075-zhenling-ronghe-zhuque-juexing",
+    "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival"
   ],
-  "updatedAt": "2026-08-24T11:48:09.964Z"
+  "updatedAt": "2026-08-24T12:57:42.963Z"
 }

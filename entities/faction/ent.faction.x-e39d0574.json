@@ -22,10 +22,10 @@
   "attributes": {
     "等级": "含玄武／白虎／青龙／朱雀四脉",
     "所属界面": "联盟星域",
-    "理念": "不介入罗天之战、以感悟符族本源之力甄别内门弟子、隐忍蓄力，借罗天之势消耗修真联盟、四圣分宗、尊崇四圣血脉觉醒者、四圣觉醒传承、血脉传承、以四圣（含朱雀）之力著称",
-    "据点": "小范围占据的一些修真星（如朱雀星）",
-    "阵营": "修真联盟的敌人",
-    "镇派之宝": "太古四圣器"
+    "理念": "不介入罗天之战、以感悟符族本源之力甄别内门弟子、隐忍蓄力，借罗天之势消耗修真联盟、四圣分宗、尊崇四圣血脉觉醒者、四圣觉醒传承、血脉传承、以四圣（含朱雀）之力著称、危急时可血祭器",
+    "据点": "联盟星域东部",
+    "阵营": "反修真联盟、与修真联盟敌对（最早之争）、修真联盟死敌、与修真联盟、昆虚之境为敌、修真联盟的敌人、四圣宗、独立霸主",
+    "镇派之宝": "四件太古圣器"
   },
   "observations": {
     "等级": [
@@ -99,6 +99,12 @@
         "docId": "plot.xianni-1057-volcano-eruption-fire-dragon-swallows-palace",
         "seq": 977,
         "note": "本章仅由粉衣女子口中提及"
+      },
+      {
+        "value": "危急时可血祭器",
+        "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+        "seq": 1002,
+        "note": "昆虚老者所忌惮"
       }
     ],
     "据点": [
@@ -123,6 +129,11 @@
         "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
         "seq": 960,
         "note": "败落后明面上融入联盟星域"
+      },
+      {
+        "value": "联盟星域东部",
+        "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+        "seq": 1002
       }
     ],
     "阵营": [
@@ -151,6 +162,16 @@
         "docId": "plot.xianni-ch1081-meng-hui-yuan-gu",
         "seq": 997,
         "note": "本章仅被提及"
+      },
+      {
+        "value": "四圣宗",
+        "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+        "seq": 1002
+      },
+      {
+        "value": "独立霸主",
+        "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+        "seq": 1002
       }
     ],
     "镇派之宝": [
@@ -164,6 +185,11 @@
         "value": "太古四圣器",
         "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
         "seq": 960
+      },
+      {
+        "value": "四件太古圣器",
+        "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+        "seq": 1002
       }
     ]
   },
@@ -189,23 +215,21 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
+      "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
       "dated": false,
-      "seq": 960,
-      "note": "败落后明面上融入联盟星域"
+      "seq": 1002
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch1081-meng-hui-yuan-gu",
+      "docId": "plot.xianni-ch935-huanglong-siheng-zong-scheme-and-thunder-beast",
       "dated": false,
-      "seq": 997,
-      "note": "本章仅被提及"
+      "seq": 865
     },
     "镇派之宝": {
       "asOf": null,
-      "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
+      "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
       "dated": false,
-      "seq": 960
+      "seq": 1002
     }
   },
   "contested": false,
@@ -228,7 +252,8 @@
     "plot.xianni-1057-volcano-eruption-fire-dragon-swallows-palace",
     "plot.xianni-1061-immortal-emperor-cave-collapse-ancient-demon-possession-complete",
     "plot.xianni-1078-tashan-appears",
-    "plot.xianni-ch1081-meng-hui-yuan-gu"
+    "plot.xianni-ch1081-meng-hui-yuan-gu",
+    "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival"
   ],
-  "updatedAt": "2026-08-24T12:14:02.708Z"
+  "updatedAt": "2026-08-24T12:57:42.955Z"
 }
