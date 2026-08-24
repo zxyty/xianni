@@ -576,3 +576,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T21:18:49.846Z** `ingest` plot.xianni-ch1178-zige-cangsongzi-team — 第1178章 资格：苍松子八万元晶购铠甲、李倩梅赠笔别离、蛮荒大陆四人会合遭云魂子试探 · kind=plot asOf=2026-08-24 entities=28 relations=40 src=01095-01099.p2.md
 - **2026-08-24T21:21:27.545Z** `ingest` plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering — 仙逆 第1179章 群魔聚——苍松子召集六人队伍，王林（化名吕子浩）受云魂子试探 · kind=plot asOf=2026-08-24 entities=24 relations=31 src=01095-01099.p3.md
 - **2026-08-24T21:23:58.956Z** `ingest` plot.xianni-ch1180-static-barren-continent-seven-color-rift — 第1180章 峥嵘！——静止的蛮荒大陆、四山仙阵与七彩裂缝 · kind=plot asOf=2026-08-24 entities=22 relations=31 src=01095-01099.p4.md
+- **2026-08-24T21:26:28.927Z** `ingest` plot.xianni-ch1181-yun-hun-zi-lost-in-rift — 第1181章 血魂子丢了：王林裂缝中偷袭云魂子，断其一臂使其传送错位 · kind=plot asOf=2026-08-24 entities=22 relations=29 src=01095-01099.p5.md

@@ -7,16 +7,18 @@
     "黑白道袍老者",
     "Yun Hun Zi",
     "戴道冠的老者",
-    "云魂子道友"
+    "云魂子道友",
+    "血魂子（章名误作）"
   ],
   "summary": "身穿黑白双色道袍、头戴道冠的阴森老者，血腥气浓、身后雾中藏无数阴魂；迟到抵达会合地，质疑王林为「净涅小辈」并当场挥手放出阴魂扑向王林。",
   "attributes": {
     "外貌": "黑白双色道袍、头戴道冠、面色苍白、双眼幽光、戴道冠的老者",
-    "标志特征": "身后雾中藏无数阴魂，周身血腥之气、杀戮滔天的血腥之气、神通以魂为主、九个巨大魂火环绕",
+    "标志特征": "身后雾中藏无数阴魂，周身血腥之气、杀戮滔天的血腥之气、神通以魂为主、九个巨大魂火环绕、右臂被王林剑光斩落",
     "性格": "阴沉、狠戾、好试探、阴冷、皮笑肉不笑、阴冷",
     "小阶段": "碎涅中期",
     "身份": "云海星域魔孽之辈",
-    "阵营": "苍松子一行"
+    "阵营": "苍松子一行、苍松子一方",
+    "存殁": "存活（重伤失踪）"
   },
   "observations": {
     "外貌": [
@@ -51,6 +53,12 @@
         "value": "九个巨大魂火环绕",
         "docId": "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
         "seq": 1095
+      },
+      {
+        "value": "右臂被王林剑光斩落",
+        "docId": "plot.xianni-ch1181-yun-hun-zi-lost-in-rift",
+        "seq": 1095,
+        "note": "第1181章"
       }
     ],
     "性格": [
@@ -88,6 +96,18 @@
       {
         "value": "苍松子一行",
         "docId": "plot.xianni-ch1180-static-barren-continent-seven-color-rift",
+        "seq": 1095
+      },
+      {
+        "value": "苍松子一方",
+        "docId": "plot.xianni-ch1181-yun-hun-zi-lost-in-rift",
+        "seq": 1095
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活（重伤失踪）",
+        "docId": "plot.xianni-ch1181-yun-hun-zi-lost-in-rift",
         "seq": 1095
       }
     ]
@@ -129,6 +149,12 @@
       "docId": "plot.xianni-ch1180-static-barren-continent-seven-color-rift",
       "dated": false,
       "seq": 1095
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1181-yun-hun-zi-lost-in-rift",
+      "dated": false,
+      "seq": 1095
     }
   },
   "contested": false,
@@ -136,7 +162,8 @@
   "docs": [
     "plot.xianni-ch1178-zige-cangsongzi-team",
     "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
-    "plot.xianni-ch1180-static-barren-continent-seven-color-rift"
+    "plot.xianni-ch1180-static-barren-continent-seven-color-rift",
+    "plot.xianni-ch1181-yun-hun-zi-lost-in-rift"
   ],
-  "updatedAt": "2026-08-24T21:23:58.643Z"
+  "updatedAt": "2026-08-24T21:26:28.599Z"
 }

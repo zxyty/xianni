@@ -4,21 +4,28 @@
   "name": "七彩裂缝",
   "aliases": [
     "七彩光芒的裂缝",
-    "半丈大小的七彩裂缝"
+    "半丈大小的七彩裂缝",
+    "七彩空间裂缝"
   ],
   "summary": "位于蛮荒大陆下方正中的一道半丈大小、七彩之光缭绕的星空裂缝；不稳定，直接进入超过两人便会崩溃缩小，需以大陆撞击撑大后瞬间进入。",
   "attributes": {
-    "类型": "星空裂缝",
-    "稳定性": "极不稳定",
+    "类型": "星空裂缝、两界空间裂缝",
+    "稳定性": "极不稳定、并不稳定",
     "坐标": "五阶星域最深处、蛮荒大陆原址正下方正中",
     "来历": "当年苍松子路过时恰逢其刚刚出现，遂挪移大陆掩盖",
-    "守护": "静止的蛮荒大陆掩盖 + 四山之阵"
+    "守护": "静止的蛮荒大陆掩盖 + 四山之阵",
+    "两端": "外界（苍松子一行出发处）、七彩世界"
   },
   "observations": {
     "类型": [
       {
         "value": "星空裂缝",
         "docId": "plot.xianni-ch1180-static-barren-continent-seven-color-rift",
+        "seq": 1095
+      },
+      {
+        "value": "两界空间裂缝",
+        "docId": "plot.xianni-ch1181-yun-hun-zi-lost-in-rift",
         "seq": 1095
       }
     ],
@@ -28,6 +35,11 @@
         "docId": "plot.xianni-ch1180-static-barren-continent-seven-color-rift",
         "seq": 1095,
         "note": "直接进入两人即崩溃缩小，将难以回归"
+      },
+      {
+        "value": "并不稳定",
+        "docId": "plot.xianni-ch1181-yun-hun-zi-lost-in-rift",
+        "seq": 1095
       }
     ],
     "坐标": [
@@ -48,6 +60,18 @@
       {
         "value": "静止的蛮荒大陆掩盖 + 四山之阵",
         "docId": "plot.xianni-ch1180-static-barren-continent-seven-color-rift",
+        "seq": 1095
+      }
+    ],
+    "两端": [
+      {
+        "value": "外界（苍松子一行出发处）",
+        "docId": "plot.xianni-ch1181-yun-hun-zi-lost-in-rift",
+        "seq": 1095
+      },
+      {
+        "value": "七彩世界",
+        "docId": "plot.xianni-ch1181-yun-hun-zi-lost-in-rift",
         "seq": 1095
       }
     ]
@@ -84,12 +108,19 @@
       "docId": "plot.xianni-ch1180-static-barren-continent-seven-color-rift",
       "dated": false,
       "seq": 1095
+    },
+    "两端": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1181-yun-hun-zi-lost-in-rift",
+      "dated": false,
+      "seq": 1095
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1180-static-barren-continent-seven-color-rift"
+    "plot.xianni-ch1180-static-barren-continent-seven-color-rift",
+    "plot.xianni-ch1181-yun-hun-zi-lost-in-rift"
   ],
-  "updatedAt": "2026-08-24T21:23:58.654Z"
+  "updatedAt": "2026-08-24T21:26:28.614Z"
 }

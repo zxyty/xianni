@@ -9,8 +9,9 @@
   "summary": "王林所掌握的仙术之一，虚无空间中有一道身影正在施展。",
   "attributes": {
     "类型": "仙术·禁锢",
-    "威力": "远超以往，一字定住仙血与窥涅敌手",
-    "适用境界": "窥涅初期即可施展"
+    "威力": "可短暂定住碎涅中期修士",
+    "适用境界": "窥涅初期即可施展",
+    "消耗": "元神剧烈反噬"
   },
   "observations": {
     "类型": [
@@ -88,6 +89,11 @@
         "docId": "plot.xianni-ch891-servant-seal-datou-tongzi",
         "seq": 830,
         "note": "本章调动仙元加持后"
+      },
+      {
+        "value": "可短暂定住碎涅中期修士",
+        "docId": "plot.xianni-ch1181-yun-hun-zi-lost-in-rift",
+        "seq": 1095
       }
     ],
     "适用境界": [
@@ -101,6 +107,13 @@
         "docId": "plot.xianni-ch891-servant-seal-datou-tongzi",
         "seq": 830
       }
+    ],
+    "消耗": [
+      {
+        "value": "元神剧烈反噬",
+        "docId": "plot.xianni-ch1181-yun-hun-zi-lost-in-rift",
+        "seq": 1095
+      }
     ]
   },
   "firstSeq": 591,
@@ -113,16 +126,21 @@
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-ch891-servant-seal-datou-tongzi",
+      "docId": "plot.xianni-ch1181-yun-hun-zi-lost-in-rift",
       "dated": false,
-      "seq": 830,
-      "note": "本章调动仙元加持后"
+      "seq": 1095
     },
     "适用境界": {
       "asOf": null,
       "docId": "plot.xianni-ch891-servant-seal-datou-tongzi",
       "dated": false,
       "seq": 830
+    },
+    "消耗": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1181-yun-hun-zi-lost-in-rift",
+      "dated": false,
+      "seq": 1095
     }
   },
   "contested": false,
@@ -136,7 +154,8 @@
     "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
     "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
     "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
-    "plot.xianni-ch891-servant-seal-datou-tongzi"
+    "plot.xianni-ch891-servant-seal-datou-tongzi",
+    "plot.xianni-ch1181-yun-hun-zi-lost-in-rift"
   ],
-  "updatedAt": "2026-08-23T17:59:23.764Z"
+  "updatedAt": "2026-08-24T21:26:28.607Z"
 }
