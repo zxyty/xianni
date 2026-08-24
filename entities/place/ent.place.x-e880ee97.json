@@ -17,15 +17,17 @@
     "瓶中界黑沙荒漠",
     "残骸般的黑沙荒漠",
     "黑沙荒漠绝地",
-    "黑沙荒漠火海"
+    "黑沙荒漠火海",
+    "黑沙荒漠焚天火海",
+    "Hei Sha Huang Mo"
   ],
   "summary": "四周平坦、遍布黑色沙土的荒漠，旋风于此呼啸成串袭来；其环境让王林联想到当年的古神之地。",
   "attributes": {
-    "类型": "荒漠/险地、绝地/困牢式荒漠、荒漠/禁地、荒漠、荒漠·魔气之地、荒漠/战场、荒漠绝地、荒漠火海",
-    "危险度": "高（成串旋风可将寻常修士撕成四分五裂，连元神都无法逃出）、极高（灰气、灰光、升空崩溃、元神魔化）、极高——神识散开会引来从天而降的灰光、高（散魔塔与沙土傀儡守卫）、高（魔气影响修士心性，行动高度受限于二十丈以下）、极高、极高（焚天之火吞噬一切）",
-    "特产": "黑色沙土、魔气、环境自然形成的魔气、黑沙、浓郁魔气、黑风、仙帝神通所化黑沙、灰气、焚天之火、被焚熔的黑水、可燃尽一切的无尽火焰",
+    "类型": "荒漠/险地、绝地/困牢式荒漠、荒漠/禁地、荒漠、荒漠·魔气之地、荒漠/战场、荒漠绝地、荒漠火海、荒漠·火海禁地",
+    "危险度": "高（成串旋风可将寻常修士撕成四分五裂，连元神都无法逃出）、极高（灰气、灰光、升空崩溃、元神魔化）、极高——神识散开会引来从天而降的灰光、高（散魔塔与沙土傀儡守卫）、高（魔气影响修士心性，行动高度受限于二十丈以下）、极高、极高（焚天之火吞噬一切）、极高（焚天之火可焚化一切生命）",
+    "特产": "黑色沙土、魔气、环境自然形成的魔气、黑沙、浓郁魔气、黑风、仙帝神通所化黑沙、灰气、焚天之火、被焚熔的黑水、可燃尽一切的无尽火焰、焚天之火",
     "所属势力": "仙帝青霖洞府",
-    "上级区域": "仙帝青霖洞府、仙帝青霖洞府（第五座洞府）、第五座洞府、仙帝洞府",
+    "上级区域": "仙帝青霖洞府、仙帝青霖洞府（第五座洞府）、第五座洞府、仙帝洞府、瓶中界",
     "规模": "无边无际，王林半年未走出",
     "守护": "冥海",
     "所属界面": "瓶中界"
@@ -71,6 +73,11 @@
         "value": "荒漠火海",
         "docId": "plot.xianni-1020-qing-lin-crystal-black-tower-flame",
         "seq": 941
+      },
+      {
+        "value": "荒漠·火海禁地",
+        "docId": "plot.xianni-ch1021-zhuque-awakening",
+        "seq": 945
       }
     ],
     "危险度": [
@@ -108,6 +115,11 @@
         "value": "极高（焚天之火吞噬一切）",
         "docId": "plot.xianni-ch1019-wucai-butterfly-seals-mianghai-death",
         "seq": 941
+      },
+      {
+        "value": "极高（焚天之火可焚化一切生命）",
+        "docId": "plot.xianni-ch1021-zhuque-awakening",
+        "seq": 945
       }
     ],
     "特产": [
@@ -160,6 +172,11 @@
         "value": "可燃尽一切的无尽火焰",
         "docId": "plot.xianni-1020-qing-lin-crystal-black-tower-flame",
         "seq": 941
+      },
+      {
+        "value": "焚天之火",
+        "docId": "plot.xianni-ch1021-zhuque-awakening",
+        "seq": 945
       }
     ],
     "所属势力": [
@@ -189,6 +206,11 @@
         "value": "仙帝洞府",
         "docId": "plot.xianni-1020-qing-lin-crystal-black-tower-flame",
         "seq": 941
+      },
+      {
+        "value": "瓶中界",
+        "docId": "plot.xianni-ch1021-zhuque-awakening",
+        "seq": 945
       }
     ],
     "规模": [
@@ -276,7 +298,8 @@
     "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
     "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
     "plot.xianni-ch1019-wucai-butterfly-seals-mianghai-death",
-    "plot.xianni-1020-qing-lin-crystal-black-tower-flame"
+    "plot.xianni-1020-qing-lin-crystal-black-tower-flame",
+    "plot.xianni-ch1021-zhuque-awakening"
   ],
-  "updatedAt": "2026-08-24T06:35:29.248Z"
+  "updatedAt": "2026-08-24T06:37:32.580Z"
 }

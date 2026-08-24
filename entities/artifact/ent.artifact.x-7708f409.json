@@ -3,15 +3,17 @@
   "type": "artifact",
   "name": "朱雀印记",
   "aliases": [
-    "眉心朱雀印记"
+    "眉心朱雀印记",
+    "朱雀本灵印记",
+    "Zhu Que mark"
   ],
   "summary": "王林眉心之印，明暗不断，拥有天地炎之力，神识凝聚其上时有凤鸣之声回荡，被王林推断与黄龙掌门大有关联。",
   "attributes": {
     "持有者": "王林",
-    "能力": "拥有天地炎之力、神识凝聚时有凤鸣之声回荡",
-    "五行属性": "火（天地炎之力）",
-    "外形": "眉心印记，明暗不断",
-    "来历": "疑与黄龙掌门有关"
+    "能力": "拥有天地炎之力、神识凝聚时有凤鸣之声回荡、吸纳火焰之力、幻化朱雀本灵、发出可破开一切虚空的朱雀之音",
+    "五行属性": "火",
+    "外形": "栖于眉心的朱雀形印记，觉醒时化火红色朱雀",
+    "来历": "当年所得的朱雀印记"
   },
   "observations": {
     "持有者": [
@@ -31,6 +33,21 @@
         "value": "神识凝聚时有凤鸣之声回荡",
         "docId": "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star",
         "seq": 890
+      },
+      {
+        "value": "吸纳火焰之力",
+        "docId": "plot.xianni-ch1021-zhuque-awakening",
+        "seq": 945
+      },
+      {
+        "value": "幻化朱雀本灵",
+        "docId": "plot.xianni-ch1021-zhuque-awakening",
+        "seq": 945
+      },
+      {
+        "value": "发出可破开一切虚空的朱雀之音",
+        "docId": "plot.xianni-ch1021-zhuque-awakening",
+        "seq": 945
       }
     ],
     "五行属性": [
@@ -38,6 +55,11 @@
         "value": "火（天地炎之力）",
         "docId": "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star",
         "seq": 890
+      },
+      {
+        "value": "火",
+        "docId": "plot.xianni-ch1021-zhuque-awakening",
+        "seq": 945
       }
     ],
     "外形": [
@@ -45,6 +67,12 @@
         "value": "眉心印记，明暗不断",
         "docId": "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star",
         "seq": 890
+      },
+      {
+        "value": "栖于眉心的朱雀形印记，觉醒时化火红色朱雀",
+        "docId": "plot.xianni-ch1021-zhuque-awakening",
+        "seq": 945,
+        "note": "本章数月内由印记形迅速转变"
       }
     ],
     "来历": [
@@ -53,6 +81,11 @@
         "docId": "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star",
         "seq": 890,
         "note": "王林本章推断，回朱雀星时尚无此印记"
+      },
+      {
+        "value": "当年所得的朱雀印记",
+        "docId": "plot.xianni-ch1021-zhuque-awakening",
+        "seq": 945
       }
     ]
   },
@@ -72,29 +105,30 @@
     },
     "五行属性": {
       "asOf": null,
-      "docId": "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star",
+      "docId": "plot.xianni-ch1021-zhuque-awakening",
       "dated": false,
-      "seq": 890
+      "seq": 945
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star",
+      "docId": "plot.xianni-ch1021-zhuque-awakening",
       "dated": false,
-      "seq": 890
+      "seq": 945,
+      "note": "本章数月内由印记形迅速转变"
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star",
+      "docId": "plot.xianni-ch1021-zhuque-awakening",
       "dated": false,
-      "seq": 890,
-      "note": "王林本章推断，回朱雀星时尚无此印记"
+      "seq": 945
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star",
-    "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi"
+    "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi",
+    "plot.xianni-ch1021-zhuque-awakening"
   ],
-  "updatedAt": "2026-08-23T22:44:53.355Z"
+  "updatedAt": "2026-08-24T06:37:32.586Z"
 }
