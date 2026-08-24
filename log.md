@@ -500,3 +500,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T13:42:51.454Z** `ingest` plot.xianni-ch1095-zhan-zi-tie-luofu-blood-spheres — 第1095章 不知此尸，能排第几？——王林索取战字帖与六枚罗浮血球，并托烈云子转交玉简给炎雷子 · kind=plot asOf=2026-08-24 entities=33 relations=54 src=01009-01013.p5.md
 - **2026-08-24T14:49:16.532Z** `ingest` plot.xianni-1096-jingtian-yinmi-limo-baiyi-lundao — 仙逆 第1096章 惊天隐秘：李莹芝七日之约与王林墨智重逢论道 · kind=plot asOf=2026-08-24 entities=52 relations=80 src=01014-01018.p1.md
 - **2026-08-24T14:56:51.296Z** `ingest` plot.xianni-1097-si-sheng-zong-mi-mi-si-fen-zhi-men — 第1097章 四圣宗最深隐秘：四份「门」的星图传承与炎雷子救元神 · kind=plot asOf=2026-08-24 entities=45 relations=68 src=01014-01018.p2.md
+- **2026-08-24T14:59:36.852Z** `ingest` plot.xianni-1098-broken-sword-third-king-awakens — 仙逆 第1098章 断剑：尸阴宗第三王苏醒、王林阳谋引三方赴朱雀星 · kind=plot asOf=2026-08-24 entities=31 relations=37 src=01014-01018.p3.md
