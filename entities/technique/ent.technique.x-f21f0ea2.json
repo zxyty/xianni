@@ -4,11 +4,12 @@
   "name": "碎涅修士自爆",
   "aliases": [
     "元神自爆",
-    "碎涅自爆"
+    "碎涅自爆",
+    "自爆元神"
   ],
   "summary": "碎涅境修士引爆体内元神的同归于尽之法，肉身疯狂撕碎、元神化作无法想象的冲击，足以惊天动地。",
   "attributes": {
-    "适用境界": "碎涅",
+    "适用境界": "碎涅可控自爆",
     "效果": "毁灭性冲击，肉身撕碎、元神爆发",
     "外显异象": "轰轰之声拔地而起"
   },
@@ -18,6 +19,11 @@
         "value": "碎涅",
         "docId": "plot.xianni-1077-master-disciple-battle",
         "seq": 997
+      },
+      {
+        "value": "碎涅可控自爆",
+        "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
+        "seq": 1073
       }
     ],
     "效果": [
@@ -39,9 +45,9 @@
   "attrProvenance": {
     "适用境界": {
       "asOf": null,
-      "docId": "plot.xianni-1077-master-disciple-battle",
+      "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
       "dated": false,
-      "seq": 997
+      "seq": 1073
     },
     "效果": {
       "asOf": null,
@@ -59,7 +65,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1077-master-disciple-battle"
+    "plot.xianni-1077-master-disciple-battle",
+    "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain"
   ],
-  "updatedAt": "2026-08-24T12:02:57.059Z"
+  "updatedAt": "2026-08-24T19:02:33.243Z"
 }

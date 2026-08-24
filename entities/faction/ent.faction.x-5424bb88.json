@@ -7,12 +7,13 @@
     "Huaqing Sect",
     "华清宗修士",
     "六阶宗派华清宗",
-    "华清宗核心弟子所属宗派"
+    "华清宗核心弟子所属宗派",
+    "华清宗势力"
   ],
   "summary": "六阶宗派，施洛刑为其大弟子；已收到求援讯息，但救援需时。",
   "attributes": {
-    "等级": "六阶、六阶星域宗派",
-    "理念": "献兽骨丹方给八阶宗派，换取好处与庇护，成为六阶星域霸主"
+    "等级": "六阶、六阶星域宗派、六阶宗派",
+    "理念": "封锁搜捕凶手"
   },
   "observations": {
     "等级": [
@@ -25,6 +26,11 @@
         "value": "六阶星域宗派",
         "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
         "seq": 1068
+      },
+      {
+        "value": "六阶宗派",
+        "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
+        "seq": 1073
       }
     ],
     "理念": [
@@ -32,6 +38,12 @@
         "value": "献兽骨丹方给八阶宗派，换取好处与庇护，成为六阶星域霸主",
         "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
         "seq": 1068
+      },
+      {
+        "value": "封锁搜捕凶手",
+        "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
+        "seq": 1073,
+        "note": "本章因钱贵钟之死"
       }
     ]
   },
@@ -45,9 +57,10 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
+      "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
       "dated": false,
-      "seq": 1068
+      "seq": 1073,
+      "note": "本章因钱贵钟之死"
     }
   },
   "contested": false,
@@ -56,7 +69,8 @@
     "plot.xianni-ch1150-jingbian-manhuang-dalu-liuxing-shouchao",
     "plot.xianni-1151-lai-de-hao-kuai-heiyuan-yaocao-wudumen",
     "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
-    "plot.xianni-1155-lianzhan-wanglin-slaughters-huaqing-disciples"
+    "plot.xianni-1155-lianzhan-wanglin-slaughters-huaqing-disciples",
+    "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain"
   ],
-  "updatedAt": "2026-08-24T18:59:37.985Z"
+  "updatedAt": "2026-08-24T19:02:33.254Z"
 }

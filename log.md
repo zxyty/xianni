@@ -554,3 +554,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T18:54:13.808Z** `ingest` plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan — 第1153章 每临大事有静气：王林斩杀净涅中年男子，得八阶破天宗玉简与涅空丹丹方 · kind=plot asOf=2026-08-24 entities=27 relations=33 src=01068-01072.p4.md
 - **2026-08-24T18:57:11.189Z** `ingest` plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong — 第1154章 一触即发！——华清宗钱贵钟驰援蛮荒大陆，兽骨丹方旧史与王林被扣 · kind=plot asOf=2026-08-24 entities=34 relations=39 src=01068-01072.p5.md
 - **2026-08-24T18:59:38.271Z** `ingest` plot.xianni-1155-lianzhan-wanglin-slaughters-huaqing-disciples — 第1155章 连斩！——王林分身云海星域灭口十七人，铁剑现世引钱贵钟贪念 · kind=plot asOf=2026-08-24 entities=27 relations=29 src=01073-01076.p1.md
+- **2026-08-24T19:02:33.546Z** `ingest` plot.xianni-ch1156-leave-vortex-qian-guizhong-slain — 第1156章 离开漩涡：十九剑斩钱贵钟，天运一指灭其元神，王林返归元宗 · kind=plot asOf=2026-08-24 entities=35 relations=43 src=01073-01076.p2.md

@@ -9,9 +9,11 @@
   ],
   "summary": "天运子右手一指天空的神通，令满天海水中现出磅礴漩涡，一根巨指自海水中伸出戳向黑雾宫殿。",
   "attributes": {
-    "类型": "指诀类神通",
-    "威力": "可穿透遮天黑雾、看似缓慢实则极快",
-    "出处": "天运子"
+    "类型": "指诀类大神通",
+    "威力": "一指灭杀碎涅修士元神",
+    "出处": "天运子",
+    "消耗": "以自身之力施展，需天运魂之念为引",
+    "适用境界": "净涅期的王林可借魂念施展"
   },
   "observations": {
     "类型": [
@@ -29,6 +31,11 @@
         "value": "指诀类神通",
         "docId": "plot.xianni-1073-can-ye-shen-tong-kills-xu-kong-zi",
         "seq": 992
+      },
+      {
+        "value": "指诀类大神通",
+        "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
+        "seq": 1073
       }
     ],
     "威力": [
@@ -41,6 +48,11 @@
         "value": "可穿透遮天黑雾、看似缓慢实则极快",
         "docId": "plot.xianni-1062-gumo-zhiwei-tajia-duoshe-qinglin",
         "seq": 982
+      },
+      {
+        "value": "一指灭杀碎涅修士元神",
+        "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
+        "seq": 1073
       }
     ],
     "出处": [
@@ -49,27 +61,55 @@
         "docId": "plot.xianni-1062-gumo-zhiwei-tajia-duoshe-qinglin",
         "seq": 982
       }
+    ],
+    "消耗": [
+      {
+        "value": "以自身之力施展，需天运魂之念为引",
+        "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
+        "seq": 1073
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "净涅期的王林可借魂念施展",
+        "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
+        "seq": 1073,
+        "note": "威胁碎涅"
+      }
     ]
   },
   "firstSeq": 977,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1073-can-ye-shen-tong-kills-xu-kong-zi",
+      "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
       "dated": false,
-      "seq": 992
+      "seq": 1073
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-1062-gumo-zhiwei-tajia-duoshe-qinglin",
+      "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
       "dated": false,
-      "seq": 982
+      "seq": 1073
     },
     "出处": {
       "asOf": null,
       "docId": "plot.xianni-1062-gumo-zhiwei-tajia-duoshe-qinglin",
       "dated": false,
       "seq": 982
+    },
+    "消耗": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
+      "dated": false,
+      "seq": 1073
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
+      "dated": false,
+      "seq": 1073,
+      "note": "威胁碎涅"
     }
   },
   "contested": false,
@@ -77,7 +117,8 @@
   "docs": [
     "plot.xianni-1060-immortal-emperor-cave-ninth-floor-entry",
     "plot.xianni-1062-gumo-zhiwei-tajia-duoshe-qinglin",
-    "plot.xianni-1073-can-ye-shen-tong-kills-xu-kong-zi"
+    "plot.xianni-1073-can-ye-shen-tong-kills-xu-kong-zi",
+    "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain"
   ],
-  "updatedAt": "2026-08-24T11:43:07.630Z"
+  "updatedAt": "2026-08-24T19:02:33.242Z"
 }

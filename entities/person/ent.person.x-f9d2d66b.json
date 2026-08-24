@@ -11,11 +11,14 @@
   ],
   "summary": "华清宗长老，碎涅初期，以性狠著称于六阶星域；率首批援军驰援蛮荒大陆，得知施洛刑死讯后下令扣押王林。",
   "attributes": {
-    "身份": "华清宗一行当首者",
+    "身份": "华清宗长老、华清宗一行当首者、华清宗修士",
     "小阶段": "碎涅",
     "性格": "贪欲炽盛、狰狞",
     "出身地": "云海星域本土",
-    "存殁": "在世"
+    "存殁": "死亡",
+    "本命法宝": "拂尘法宝",
+    "死因": "肉身被王林铁剑十九剑斩碎，元神被『天运一指』击溃消散",
+    "结局": "元神化作点点晶光消散于星空"
   },
   "observations": {
     "身份": [
@@ -27,6 +30,11 @@
       {
         "value": "华清宗一行当首者",
         "docId": "plot.xianni-1155-lianzhan-wanglin-slaughters-huaqing-disciples",
+        "seq": 1073
+      },
+      {
+        "value": "华清宗修士",
+        "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
         "seq": 1073
       }
     ],
@@ -66,6 +74,32 @@
         "value": "在世",
         "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
         "seq": 1068
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
+        "seq": 1073
+      }
+    ],
+    "本命法宝": [
+      {
+        "value": "拂尘法宝",
+        "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
+        "seq": 1073
+      }
+    ],
+    "死因": [
+      {
+        "value": "肉身被王林铁剑十九剑斩碎，元神被『天运一指』击溃消散",
+        "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
+        "seq": 1073
+      }
+    ],
+    "结局": [
+      {
+        "value": "元神化作点点晶光消散于星空",
+        "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
+        "seq": 1073
       }
     ]
   },
@@ -73,9 +107,9 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1155-lianzhan-wanglin-slaughters-huaqing-disciples",
+      "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
       "dated": false,
-      "seq": 1073
+      "seq": 1068
     },
     "小阶段": {
       "asOf": null,
@@ -97,16 +131,35 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
+      "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
       "dated": false,
-      "seq": 1068
+      "seq": 1073
+    },
+    "本命法宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
+      "dated": false,
+      "seq": 1073
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
+      "dated": false,
+      "seq": 1073
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
+      "dated": false,
+      "seq": 1073
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
-    "plot.xianni-1155-lianzhan-wanglin-slaughters-huaqing-disciples"
+    "plot.xianni-1155-lianzhan-wanglin-slaughters-huaqing-disciples",
+    "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain"
   ],
-  "updatedAt": "2026-08-24T18:59:37.984Z"
+  "updatedAt": "2026-08-24T19:02:33.224Z"
 }
