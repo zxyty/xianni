@@ -4,13 +4,15 @@
   "name": "黑色厚背刀",
   "aliases": [
     "三丈厚背刀",
-    "古魔厚背刀"
+    "古魔厚背刀",
+    "厚背刀",
+    "古魔之刀"
   ],
   "summary": "古魔塔珈手中长约三丈的黑色厚背刀，锋利无匹，可斩出数万丈刀芒并连元神一并抹灭。",
   "attributes": {
     "持有者": "古魔塔珈",
-    "外形": "长约三丈的黑色厚背刀",
-    "能力": "无法想象的锋利之芒、数万丈刀芒开天一斩、斩灭元神"
+    "外形": "长约三丈的黑色厚背刀、黑色厚背刀",
+    "能力": "无法想象的锋利之芒、数万丈刀芒开天一斩、斩灭元神、刀芒遮天、穿透肉身追击元神、可绕开认可之人"
   },
   "observations": {
     "持有者": [
@@ -24,6 +26,11 @@
       {
         "value": "长约三丈的黑色厚背刀",
         "docId": "plot.xianni-1063-qinglin-duoshe-qian-de-yiju-hua",
+        "seq": 982
+      },
+      {
+        "value": "黑色厚背刀",
+        "docId": "plot.xianni-1064-heiyiren-shenfen-luohou",
         "seq": 982
       }
     ],
@@ -41,6 +48,21 @@
       {
         "value": "斩灭元神",
         "docId": "plot.xianni-1063-qinglin-duoshe-qian-de-yiju-hua",
+        "seq": 982
+      },
+      {
+        "value": "刀芒遮天",
+        "docId": "plot.xianni-1064-heiyiren-shenfen-luohou",
+        "seq": 982
+      },
+      {
+        "value": "穿透肉身追击元神",
+        "docId": "plot.xianni-1064-heiyiren-shenfen-luohou",
+        "seq": 982
+      },
+      {
+        "value": "可绕开认可之人",
+        "docId": "plot.xianni-1064-heiyiren-shenfen-luohou",
         "seq": 982
       }
     ]
@@ -69,7 +91,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1063-qinglin-duoshe-qian-de-yiju-hua"
+    "plot.xianni-1063-qinglin-duoshe-qian-de-yiju-hua",
+    "plot.xianni-1064-heiyiren-shenfen-luohou"
   ],
-  "updatedAt": "2026-08-24T10:10:47.129Z"
+  "updatedAt": "2026-08-24T10:13:19.820Z"
 }
