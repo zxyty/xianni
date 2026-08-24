@@ -6,14 +6,46 @@
     "宫殿废墟外的银衣女子"
   ],
   "summary": "从司徒南神通中走出的银衣女子，浮风子看向她时心底有些疑惑。",
-  "attributes": {},
-  "observations": {},
+  "attributes": {
+    "性别": "女",
+    "外貌": "银衣"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.xianni-ch997-xukongzi-arrival",
+        "seq": 926
+      }
+    ],
+    "外貌": [
+      {
+        "value": "银衣",
+        "docId": "plot.xianni-ch997-xukongzi-arrival",
+        "seq": 926
+      }
+    ]
+  },
   "firstSeq": 922,
-  "attrProvenance": {},
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch997-xukongzi-arrival",
+      "dated": false,
+      "seq": 926
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch997-xukongzi-arrival",
+      "dated": false,
+      "seq": 926
+    }
+  },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison"
+    "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+    "plot.xianni-ch997-xukongzi-arrival"
   ],
-  "updatedAt": "2026-08-24T02:53:44.869Z"
+  "updatedAt": "2026-08-24T03:54:08.464Z"
 }

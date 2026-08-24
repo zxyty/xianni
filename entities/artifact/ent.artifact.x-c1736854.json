@@ -4,14 +4,16 @@
   "name": "三叉戟",
   "aliases": [
     "三又戟",
-    "涂司三叉戟"
+    "涂司三叉戟",
+    "涂司的三叉戟",
+    "三座山峰法宝"
   ],
   "summary": "涂司生前第九次也是最后一次炼制之宝，只凝形而无魂体，被以精血淋洒后抛入大星球化作三座插天山峰以凝山之魂。",
   "attributes": {
-    "来历": "涂司炼制",
+    "来历": "涂司所炼，抛于星球化山吸取山魂以凝器灵",
     "持有者": "天运子",
-    "能力": "凝形已成、魂体未生，成则为绝世法宝",
-    "外形": "三叉戟"
+    "能力": "尚未凝聚出器灵",
+    "外形": "三座山峰"
   },
   "observations": {
     "来历": [
@@ -25,6 +27,11 @@
         "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
         "seq": 922,
         "note": "王林凭熟悉感判断，尚未证实"
+      },
+      {
+        "value": "涂司所炼，抛于星球化山吸取山魂以凝器灵",
+        "docId": "plot.xianni-ch997-xukongzi-arrival",
+        "seq": 926
       }
     ],
     "持有者": [
@@ -45,6 +52,12 @@
         "value": "凝形已成、魂体未生，成则为绝世法宝",
         "docId": "plot.xianni-ch500-battle-against-wending-huangquan-finger",
         "seq": 477
+      },
+      {
+        "value": "尚未凝聚出器灵",
+        "docId": "plot.xianni-ch997-xukongzi-arrival",
+        "seq": 926,
+        "note": "本章时点"
       }
     ],
     "外形": [
@@ -58,6 +71,11 @@
         "value": "三叉戟",
         "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
         "seq": 922
+      },
+      {
+        "value": "三座山峰",
+        "docId": "plot.xianni-ch997-xukongzi-arrival",
+        "seq": 926
       }
     ]
   },
@@ -65,10 +83,9 @@
   "attrProvenance": {
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+      "docId": "plot.xianni-ch997-xukongzi-arrival",
       "dated": false,
-      "seq": 922,
-      "note": "王林凭熟悉感判断，尚未证实"
+      "seq": 926
     },
     "持有者": {
       "asOf": null,
@@ -78,22 +95,24 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-ch500-battle-against-wending-huangquan-finger",
+      "docId": "plot.xianni-ch997-xukongzi-arrival",
       "dated": false,
-      "seq": 477
+      "seq": 926,
+      "note": "本章时点"
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+      "docId": "plot.xianni-ch997-xukongzi-arrival",
       "dated": false,
-      "seq": 922
+      "seq": 926
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch500-battle-against-wending-huangquan-finger",
-    "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison"
+    "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+    "plot.xianni-ch997-xukongzi-arrival"
   ],
-  "updatedAt": "2026-08-24T02:53:44.994Z"
+  "updatedAt": "2026-08-24T03:54:08.437Z"
 }

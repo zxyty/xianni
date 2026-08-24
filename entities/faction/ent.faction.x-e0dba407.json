@@ -23,11 +23,11 @@
   "summary": "王林在妖灵之地创立并命名的部落，全族修炼炼魂术，以黑雾祭养魂魄为标志，气象更似新生的修真门派。",
   "attributes": {
     "掌门": "王林",
-    "据点": "妖灵之地内方圆四十里的禁制大阵范围（中心为山谷）、妖灵之地山谷（后扩至方圆三百里）、妖灵之地的部落山谷、炼魂部落所在地、炼魂山谷、天妖郡天妖蛮荒之地、远古战场高塔部落、妖灵之地远古战场（中心十里空白界）、被数百里黑雾笼罩的部落，中央十里空白地立有一座高塔、宝塔、天妖郡内部落、潜伏于火妖郡各战场、天妖郡、火妖郡",
+    "据点": "妖灵之地内方圆四十里的禁制大阵范围（中心为山谷）、妖灵之地山谷（后扩至方圆三百里）、妖灵之地的部落山谷、炼魂部落所在地、炼魂山谷、天妖郡天妖蛮荒之地、远古战场高塔部落、妖灵之地远古战场（中心十里空白界）、被数百里黑雾笼罩的部落，中央十里空白地立有一座高塔、宝塔、天妖郡内部落、潜伏于火妖郡各战场、天妖郡、火妖郡、火妖城外大营、火妖郡（原火妖都城，改为炼魂部落都城）",
     "所属界面": "天妖郡",
-    "理念": "全族修行炼魂术，凭三个方法换取下一阶段口诀、停止对外进攻、全力修行、以魂幡驭魂修行、疑与炼魂术传承相关、广传炼魂术、嫡系密传抽魄术、以杀养杀、吞并外族壮大、壮大炼魂术，终有一日破茧而出震撼九郡、借战乱扩张壮大、以杀戮养杀气，尊王林为「老祖」、极具进攻性，吞噬融合其他部落、狂热崇奉已离去的『老祖』，坚信其终将回归",
-    "阵营": "王林麾下",
-    "镇派之宝": "老祖黑石像",
+    "理念": "全族修行炼魂术，凭三个方法换取下一阶段口诀、停止对外进攻、全力修行、以魂幡驭魂修行、疑与炼魂术传承相关、广传炼魂术、嫡系密传抽魄术、以杀养杀、吞并外族壮大、壮大炼魂术，终有一日破茧而出震撼九郡、借战乱扩张壮大、以杀戮养杀气，尊王林为「老祖」、极具进攻性，吞噬融合其他部落、狂热崇奉已离去的『老祖』，坚信其终将回归、若不降，便是亡、以石像为一切精神寄托，如同当年的古妖之灵",
+    "阵营": "妖灵之地九大势力之一",
+    "镇派之宝": "十亿尊魂幡、离塔、护族黑雾（内含吞噬魂魄）、尊魂幡（黑雾）、老祖黑石像、老祖石像、魂幡（大幡）、黑色石像",
     "等级": "小部落"
   },
   "observations": {
@@ -109,6 +109,17 @@
         "value": "火妖郡",
         "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
         "seq": 922
+      },
+      {
+        "value": "火妖城外大营",
+        "docId": "plot.xianni-ch997-xukongzi-arrival",
+        "seq": 926,
+        "note": "围城期间"
+      },
+      {
+        "value": "火妖郡（原火妖都城，改为炼魂部落都城）",
+        "docId": "plot.xianni-ch997-xukongzi-arrival",
+        "seq": 926
       }
     ],
     "所属界面": [
@@ -179,6 +190,16 @@
         "value": "狂热崇奉已离去的『老祖』，坚信其终将回归",
         "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
         "seq": 922
+      },
+      {
+        "value": "若不降，便是亡",
+        "docId": "plot.xianni-ch997-xukongzi-arrival",
+        "seq": 926
+      },
+      {
+        "value": "以石像为一切精神寄托，如同当年的古妖之灵",
+        "docId": "plot.xianni-ch997-xukongzi-arrival",
+        "seq": 926
       }
     ],
     "阵营": [
@@ -186,6 +207,11 @@
         "value": "王林麾下",
         "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
         "seq": 514
+      },
+      {
+        "value": "妖灵之地九大势力之一",
+        "docId": "plot.xianni-ch997-xukongzi-arrival",
+        "seq": 926
       }
     ],
     "镇派之宝": [
@@ -215,6 +241,21 @@
         "value": "老祖黑石像",
         "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
         "seq": 922
+      },
+      {
+        "value": "老祖石像",
+        "docId": "plot.xianni-ch997-xukongzi-arrival",
+        "seq": 926
+      },
+      {
+        "value": "魂幡（大幡）",
+        "docId": "plot.xianni-ch997-xukongzi-arrival",
+        "seq": 926
+      },
+      {
+        "value": "黑色石像",
+        "docId": "plot.xianni-ch997-xukongzi-arrival",
+        "seq": 926
       }
     ],
     "等级": [
@@ -259,15 +300,16 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
+      "docId": "plot.xianni-ch997-xukongzi-arrival",
       "dated": false,
-      "seq": 514
+      "seq": 926
     },
     "镇派之宝": {
       "asOf": null,
-      "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+      "docId": "plot.xianni-ch567-second-question-yao-xixue",
       "dated": false,
-      "seq": 922
+      "seq": 537,
+      "note": "本章被王林收回，改以普通魂幡替代"
     },
     "等级": {
       "asOf": null,
@@ -298,7 +340,8 @@
     "plot.xianni-ch628-million-slaughter-qi-break-fire-yao-seal",
     "plot.xianni-ch641-yunxian-daolv-wangwei-hujuan-purple-mist-pit",
     "plot.xianni-ch618-620-scroll-woman-luotian-star-region-seal",
-    "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison"
+    "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+    "plot.xianni-ch997-xukongzi-arrival"
   ],
-  "updatedAt": "2026-08-24T02:53:44.950Z"
+  "updatedAt": "2026-08-24T03:54:08.491Z"
 }

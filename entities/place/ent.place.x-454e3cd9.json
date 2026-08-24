@@ -1,0 +1,92 @@
+{
+  "id": "ent.place.x-454e3cd9",
+  "type": "place",
+  "name": "火妖都城",
+  "aliases": [
+    "火妖城",
+    "炼魂部落都城"
+  ],
+  "summary": "火妖郡都城，昔日古妖九灵之一的所在，现由火妖灵军占据并被炼魂部落大军合围。",
+  "attributes": {
+    "所属势力": "火妖灵军、炼魂部落",
+    "类型": "都城、城池",
+    "上级区域": "火妖郡",
+    "所属界面": "妖灵之地"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "火妖灵军",
+        "docId": "plot.xianni-ch997-xukongzi-arrival",
+        "seq": 926,
+        "note": "被炼魂部落围城中"
+      },
+      {
+        "value": "炼魂部落",
+        "docId": "plot.xianni-ch997-xukongzi-arrival",
+        "seq": 926,
+        "note": "本片段投降后易主"
+      }
+    ],
+    "类型": [
+      {
+        "value": "都城",
+        "docId": "plot.xianni-ch997-xukongzi-arrival",
+        "seq": 926
+      },
+      {
+        "value": "城池",
+        "docId": "plot.xianni-ch997-xukongzi-arrival",
+        "seq": 926
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "火妖郡",
+        "docId": "plot.xianni-ch997-xukongzi-arrival",
+        "seq": 926
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "妖灵之地",
+        "docId": "plot.xianni-ch997-xukongzi-arrival",
+        "seq": 926
+      }
+    ]
+  },
+  "firstSeq": 926,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch997-xukongzi-arrival",
+      "dated": false,
+      "seq": 926,
+      "note": "被炼魂部落围城中"
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-ch997-xukongzi-arrival",
+      "dated": false,
+      "seq": 926
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch997-xukongzi-arrival",
+      "dated": false,
+      "seq": 926
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch997-xukongzi-arrival",
+      "dated": false,
+      "seq": 926
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.xianni-ch997-xukongzi-arrival"
+  ],
+  "updatedAt": "2026-08-24T03:54:08.492Z"
+}

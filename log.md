@@ -416,3 +416,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T02:15:54.403Z** `ingest` plot.xianni-ch989-strongest-moment-riqiu-canye — 第989章 最强一刻！——残夜之力借日初天地之力，浮风子彻底臣服 · kind=plot asOf=2026-08-24 entities=19 relations=29 src=00919-00921.p2.md
 - **2026-08-24T02:34:22.802Z** `ingest` plot.xianni-ch990-lianhua-nvshi-situ-nan-qiangren — 第990章 抢人：王林炼化女尸为尸卫，司徒南率红粉宫直扑水灵星 · kind=plot asOf=2026-08-24 entities=67 relations=143 src=00919-00921.p3.md
 - **2026-08-24T02:53:45.280Z** `ingest` plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison — 仙逆 第922-925章：王林与司徒南水灵星重逢畅饮，司徒南身中仙界剧毒「欲仙欲死」 · kind=plot asOf=2026-08-24 entities=82 relations=136 src=00922-00925.md
+- **2026-08-24T03:54:08.723Z** `ingest` plot.xianni-ch997-xukongzi-arrival — 第997章 虚空子——碎涅大长老降临，终结凌天候与天运子往事 · kind=plot asOf=2026-08-24 entities=65 relations=104 src=00926-00928.p1a.md

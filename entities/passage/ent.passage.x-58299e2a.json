@@ -4,11 +4,13 @@
   "name": "域外通道黑洞",
   "aliases": [
     "黑洞",
-    "五玉石通道"
+    "五玉石通道",
+    "星空黑洞",
+    "本章黑洞入口"
   ],
   "summary": "由使者以五枚玉石加精血、咒诀开启的黑色漩涡通道，散发寒气，内有残碎法宝材料与尸骸，连通本界与域外战场。",
   "attributes": {
-    "类型": "空间通道",
+    "类型": "空间入口/黑洞",
     "两端": "三级修真国传送阵 ↔ 域外战场",
     "可通行境界": "元婴后期修士可开启",
     "来历": "四级修真国使者以五枚玉石与精血、咒诀开启"
@@ -19,6 +21,11 @@
         "value": "空间通道",
         "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
         "seq": 273
+      },
+      {
+        "value": "空间入口/黑洞",
+        "docId": "plot.xianni-ch997-xukongzi-arrival",
+        "seq": 926
       }
     ],
     "两端": [
@@ -47,9 +54,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+      "docId": "plot.xianni-ch997-xukongzi-arrival",
       "dated": false,
-      "seq": 273
+      "seq": 926
     },
     "两端": {
       "asOf": null,
@@ -73,7 +80,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch289-ancient-god-sacrifice-treasure"
+    "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+    "plot.xianni-ch997-xukongzi-arrival"
   ],
-  "updatedAt": "2026-08-02T13:59:47.843Z"
+  "updatedAt": "2026-08-24T03:54:08.442Z"
 }
