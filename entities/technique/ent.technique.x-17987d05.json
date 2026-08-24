@@ -4,13 +4,16 @@
   "name": "仙帝白凡仙术",
   "aliases": [
     "白凡仙术",
-    "仙帝白凡之仙术"
+    "仙帝白凡之仙术",
+    "白凡仙法",
+    "Bai Fan Immortal Art"
   ],
   "summary": "仙帝白凡所留仙术，王林本章第一次真正亲自施展其第二式「唤雨」。",
   "attributes": {
-    "出处": "仙帝白凡",
+    "出处": "清水仙君",
     "效果": "沟通天地元力施展仙术，需以仙元之力驱动",
-    "外显异象": "身外水雾、百丈漩涡、仙气缭绕如仙人"
+    "外显异象": "身外水雾、百丈漩涡、仙气缭绕如仙人",
+    "修炼条件": "明悟火元后，山崩一式方渐清晰"
   },
   "observations": {
     "出处": [
@@ -18,6 +21,11 @@
         "value": "仙帝白凡",
         "docId": "plot.xianni-ch928-wuxing-jinshi",
         "seq": 860
+      },
+      {
+        "value": "清水仙君",
+        "docId": "plot.xianni-ch1100-can-you-see-through",
+        "seq": 1014
       }
     ],
     "效果": [
@@ -33,15 +41,23 @@
         "docId": "plot.xianni-ch928-wuxing-jinshi",
         "seq": 860
       }
+    ],
+    "修炼条件": [
+      {
+        "value": "明悟火元后，山崩一式方渐清晰",
+        "docId": "plot.xianni-ch1100-can-you-see-through",
+        "seq": 1014,
+        "note": "针对第四式山崩"
+      }
     ]
   },
   "firstSeq": 860,
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch928-wuxing-jinshi",
+      "docId": "plot.xianni-ch1100-can-you-see-through",
       "dated": false,
-      "seq": 860
+      "seq": 1014
     },
     "效果": {
       "asOf": null,
@@ -54,12 +70,20 @@
       "docId": "plot.xianni-ch928-wuxing-jinshi",
       "dated": false,
       "seq": 860
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1100-can-you-see-through",
+      "dated": false,
+      "seq": 1014,
+      "note": "针对第四式山崩"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch928-wuxing-jinshi"
+    "plot.xianni-ch928-wuxing-jinshi",
+    "plot.xianni-ch1100-can-you-see-through"
   ],
-  "updatedAt": "2026-08-23T20:21:53.023Z"
+  "updatedAt": "2026-08-24T15:09:01.674Z"
 }

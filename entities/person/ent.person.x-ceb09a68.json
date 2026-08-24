@@ -6,14 +6,16 @@
     "尘道子前辈",
     "尘道三子的大哥",
     "老者尘道子",
-    "饮酒老者"
+    "饮酒老者",
+    "老夫尘道子",
+    "尘道三子中的老大"
   ],
   "summary": "本章同样重伤，与退下的浮风子靠拢。",
   "attributes": {
-    "存殁": "存活（重伤）",
+    "存殁": "存活",
     "外貌": "萧瑟老者",
-    "性格": "悲伤、对一切无动于衷",
-    "身份": "尘道三子之大哥"
+    "性格": "苦涩、萧瑟、执念于复仇",
+    "身份": "尘道三子仅存之人"
   },
   "observations": {
     "存殁": [
@@ -21,6 +23,11 @@
         "value": "存活（重伤）",
         "docId": "plot.xianni-1078-tashan-appears",
         "seq": 997
+      },
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch1100-can-you-see-through",
+        "seq": 1014
       }
     ],
     "外貌": [
@@ -45,6 +52,11 @@
         "value": "悲伤、对一切无动于衷",
         "docId": "plot.xianni-ch1092-wang-lin-plans-zhuque-holy-emperor",
         "seq": 1009
+      },
+      {
+        "value": "苦涩、萧瑟、执念于复仇",
+        "docId": "plot.xianni-ch1100-can-you-see-through",
+        "seq": 1014
       }
     ],
     "身份": [
@@ -52,6 +64,11 @@
         "value": "尘道三子之大哥",
         "docId": "plot.xianni-1087-jiuxuan-first-transformation",
         "seq": 1006
+      },
+      {
+        "value": "尘道三子仅存之人",
+        "docId": "plot.xianni-ch1100-can-you-see-through",
+        "seq": 1014
       }
     ]
   },
@@ -59,9 +76,9 @@
   "attrProvenance": {
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-1078-tashan-appears",
+      "docId": "plot.xianni-ch1100-can-you-see-through",
       "dated": false,
-      "seq": 997
+      "seq": 1014
     },
     "外貌": {
       "asOf": null,
@@ -71,15 +88,15 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch1092-wang-lin-plans-zhuque-holy-emperor",
+      "docId": "plot.xianni-ch1100-can-you-see-through",
       "dated": false,
-      "seq": 1009
+      "seq": 1014
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1087-jiuxuan-first-transformation",
+      "docId": "plot.xianni-ch1100-can-you-see-through",
       "dated": false,
-      "seq": 1006
+      "seq": 1014
     }
   },
   "contested": false,
@@ -87,7 +104,8 @@
   "docs": [
     "plot.xianni-1078-tashan-appears",
     "plot.xianni-1087-jiuxuan-first-transformation",
-    "plot.xianni-ch1092-wang-lin-plans-zhuque-holy-emperor"
+    "plot.xianni-ch1092-wang-lin-plans-zhuque-holy-emperor",
+    "plot.xianni-ch1100-can-you-see-through"
   ],
-  "updatedAt": "2026-08-24T13:31:10.391Z"
+  "updatedAt": "2026-08-24T15:09:01.664Z"
 }

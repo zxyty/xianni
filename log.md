@@ -502,3 +502,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T14:56:51.296Z** `ingest` plot.xianni-1097-si-sheng-zong-mi-mi-si-fen-zhi-men — 第1097章 四圣宗最深隐秘：四份「门」的星图传承与炎雷子救元神 · kind=plot asOf=2026-08-24 entities=45 relations=68 src=01014-01018.p2.md
 - **2026-08-24T14:59:36.852Z** `ingest` plot.xianni-1098-broken-sword-third-king-awakens — 仙逆 第1098章 断剑：尸阴宗第三王苏醒、王林阳谋引三方赴朱雀星 · kind=plot asOf=2026-08-24 entities=31 relations=37 src=01014-01018.p3.md
 - **2026-08-24T15:06:39.613Z** `ingest` plot.xianni-ch1099-wailai-refine-killing-sword — 第1099章 外人｜王林倾力祭炼灰衣天运子杀戮断剑 · kind=plot asOf=2026-08-24 entities=39 relations=52 src=01014-01018.p4.md
+- **2026-08-24T15:09:01.970Z** `ingest` plot.xianni-ch1100-can-you-see-through — 第1100章 你可看透？——王林承诺助尘道子复仇、守棺悟山崩 · kind=plot asOf=2026-08-24 entities=21 relations=34 src=01014-01018.p5.md
