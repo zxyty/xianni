@@ -2,11 +2,14 @@
   "id": "ent.technique.x-2f403bce",
   "type": "technique",
   "name": "古神之力",
-  "aliases": [],
+  "aliases": [
+    "古之一族之力"
+  ],
   "summary": "王林所具的远古神明之力/体魄，令其一拳可崩碎巨魔族千丈巨人，指力可直接炸碎修士肉身。",
   "attributes": {
-    "效果": "肉身之力碾压巨魔族肉身、一指可炸碎敌修肉身、与元力融合增幅拳力、一拳掀起风暴化作怒龙",
-    "外显异象": "拳掌交击时轰鸣如天地失声、掀起无形巨浪"
+    "效果": "肉身之力碾压巨魔族肉身、一指可炸碎敌修肉身、与元力融合增幅拳力、一拳掀起风暴化作怒龙、对抗使元力屈服的威压、施展时眼露红光",
+    "外显异象": "拳掌交击时轰鸣如天地失声、掀起无形巨浪",
+    "出处": "古之一族（古神）"
   },
   "observations": {
     "效果": [
@@ -29,6 +32,16 @@
         "value": "一拳掀起风暴化作怒龙",
         "docId": "plot.xianni-ch904-908-tianyunzi-finger-strike",
         "seq": 904
+      },
+      {
+        "value": "对抗使元力屈服的威压",
+        "docId": "plot.xianni-ch1009-whose-statue",
+        "seq": 934
+      },
+      {
+        "value": "施展时眼露红光",
+        "docId": "plot.xianni-ch1009-whose-statue",
+        "seq": 934
       }
     ],
     "外显异象": [
@@ -36,6 +49,13 @@
         "value": "拳掌交击时轰鸣如天地失声、掀起无形巨浪",
         "docId": "plot.xianni-ch926-thousand-zhang-giant-demon-self-destruct",
         "seq": 855
+      }
+    ],
+    "出处": [
+      {
+        "value": "古之一族（古神）",
+        "docId": "plot.xianni-ch1009-whose-statue",
+        "seq": 934
       }
     ]
   },
@@ -52,13 +72,20 @@
       "docId": "plot.xianni-ch926-thousand-zhang-giant-demon-self-destruct",
       "dated": false,
       "seq": 855
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1009-whose-statue",
+      "dated": false,
+      "seq": 934
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch926-thousand-zhang-giant-demon-self-destruct",
-    "plot.xianni-ch904-908-tianyunzi-finger-strike"
+    "plot.xianni-ch904-908-tianyunzi-finger-strike",
+    "plot.xianni-ch1009-whose-statue"
   ],
-  "updatedAt": "2026-08-24T00:32:50.664Z"
+  "updatedAt": "2026-08-24T04:33:09.427Z"
 }

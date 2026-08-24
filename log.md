@@ -427,3 +427,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T04:25:55.855Z** `ingest` plot.xianni-ch1006-immortal-mansion-tortoise-shell-crisis — 第1006章 危机：仙府内环四青衣老者伏诛与龟甲大殿中的白衣身影 · kind=plot asOf=2026-08-24 entities=27 relations=33 src=00929-00933.p5.md
 - **2026-08-24T04:28:27.149Z** `ingest` plot.xianni-1007-huaxian-warning-turtle-shell — 第1007章 警告：花仙一瞥重创众人，王林灭神矛破龟甲 · kind=plot asOf=2026-08-24 entities=29 relations=30 src=00934-00938.p1.md
 - **2026-08-24T04:30:36.609Z** `ingest` plot.xianni-ch1008-zang-hua-baiyi-nvzi — 第1008章 葬花——白衣女子出手，王林三大仙术尽废、以青霜破局 · kind=plot asOf=2026-08-24 entities=28 relations=35 src=00934-00938.p2.md
+- **2026-08-24T04:33:09.715Z** `ingest` plot.xianni-ch1009-whose-statue — 仙逆·第1009章 谁的雕像：白衣女子引王林入殿，九尊雕像之威 · kind=plot asOf=2026-08-24 entities=24 relations=34 src=00934-00938.p3.md
