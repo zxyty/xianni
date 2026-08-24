@@ -2,10 +2,13 @@
   "id": "ent.region.x-9d49a66b",
   "type": "region",
   "name": "云海星域",
-  "aliases": [],
+  "aliases": [
+    "Yunhai Star Region"
+  ],
   "summary": "风之仙界之下的星域。",
   "attributes": {
-    "层次": "仙界之下的星域"
+    "层次": "仙界之下的星域",
+    "特点": "巨蚊兽群居之地、天门宗、暗星宗所在"
   },
   "observations": {
     "层次": [
@@ -13,6 +16,18 @@
         "value": "仙界之下的星域",
         "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
         "seq": 876
+      }
+    ],
+    "特点": [
+      {
+        "value": "巨蚊兽群居之地",
+        "docId": "plot.xianni-ch1103-yunhai-mosquito-beasts-stolen",
+        "seq": 1019
+      },
+      {
+        "value": "天门宗、暗星宗所在",
+        "docId": "plot.xianni-ch1103-yunhai-mosquito-beasts-stolen",
+        "seq": 1019
       }
     ]
   },
@@ -23,12 +38,19 @@
       "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
       "dated": false,
       "seq": 876
+    },
+    "特点": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1103-yunhai-mosquito-beasts-stolen",
+      "dated": false,
+      "seq": 1019
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin"
+    "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+    "plot.xianni-ch1103-yunhai-mosquito-beasts-stolen"
   ],
-  "updatedAt": "2026-08-23T21:52:39.609Z"
+  "updatedAt": "2026-08-24T15:16:19.200Z"
 }

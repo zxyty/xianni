@@ -3,13 +3,15 @@
   "type": "beast",
   "name": "巨蚊兽",
   "aliases": [
-    "形若蚊子的凶兽"
+    "形若蚊子的凶兽",
+    "云海巨蚊兽"
   ],
   "summary": "形若蚊子、双目通红的凶兽，成群数十只出现于联盟星域中部，可被特制燃香的香气操控引导。",
   "attributes": {
     "外形": "形若蚊子，双目通红",
     "栖息地": "联盟星域中部",
-    "能力": "群体呼啸而行；唯其可嗅到特制香气"
+    "能力": "群体呼啸而行；唯其可嗅到特制香气",
+    "天敌": "蚊魂香"
   },
   "observations": {
     "外形": [
@@ -33,6 +35,13 @@
         "docId": "plot.xianni-ch1099-wailai-refine-killing-sword",
         "seq": 1014
       }
+    ],
+    "天敌": [
+      {
+        "value": "蚊魂香",
+        "docId": "plot.xianni-ch1103-yunhai-mosquito-beasts-stolen",
+        "seq": 1019
+      }
     ]
   },
   "firstSeq": 1014,
@@ -55,12 +64,19 @@
       "docId": "plot.xianni-ch1099-wailai-refine-killing-sword",
       "dated": false,
       "seq": 1014
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1103-yunhai-mosquito-beasts-stolen",
+      "dated": false,
+      "seq": 1019
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1099-wailai-refine-killing-sword"
+    "plot.xianni-ch1099-wailai-refine-killing-sword",
+    "plot.xianni-ch1103-yunhai-mosquito-beasts-stolen"
   ],
-  "updatedAt": "2026-08-24T15:06:39.331Z"
+  "updatedAt": "2026-08-24T15:16:19.192Z"
 }

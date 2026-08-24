@@ -505,3 +505,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T15:09:01.970Z** `ingest` plot.xianni-ch1100-can-you-see-through — 第1100章 你可看透？——王林承诺助尘道子复仇、守棺悟山崩 · kind=plot asOf=2026-08-24 entities=21 relations=34 src=01014-01018.p5.md
 - **2026-08-24T15:11:40.619Z** `ingest` plot.xianni-1101-shanbeng-immortal-technique-volcano-soul-fusion — 第1101章 山崩仙术之「真」——王林融火山之魂，神识笼罩朱雀圣宗星域 · kind=plot asOf=2026-08-24 entities=23 relations=32 src=01019-01023.p1.md
 - **2026-08-24T15:14:13.477Z** `ingest` plot.xianni-ch1102-wang-lin-jing-nie-true-false-realm — 第1102章 王林山崩神通覆盖星域、悟「真假一念」突破净涅 · kind=plot asOf=2026-08-24 entities=25 relations=31 src=01019-01023.p2.md
+- **2026-08-24T15:16:19.517Z** `ingest` plot.xianni-ch1103-yunhai-mosquito-beasts-stolen — 第1103章 云海——天门宗窃走王林巨蚊兽，王林压劫来袭 · kind=plot asOf=2026-08-24 entities=25 relations=32 src=01019-01023.p3.md
