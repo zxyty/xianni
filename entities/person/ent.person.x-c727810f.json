@@ -3,13 +3,16 @@
   "type": "person",
   "name": "尸阴宗妖艳女子",
   "aliases": [
-    "尸阴宗女子"
+    "尸阴宗女子",
+    "尸阴宗使者妖艳女子"
   ],
   "summary": "尸阴宗女修，本章在场看戏，主动表示愿为王林作证，斥烈云子荒唐至极。",
   "attributes": {
     "性别": "女",
-    "外貌": "妖艳",
-    "阵营": "尸阴宗"
+    "外貌": "妖艳、妖艳、美目流盼",
+    "阵营": "尸阴宗",
+    "身份": "尸阴宗使者",
+    "性格": "娇媚、善周旋"
   },
   "observations": {
     "性别": [
@@ -24,12 +27,31 @@
         "value": "妖艳",
         "docId": "plot.xianni-1094-lieyunzi-apologizes-zhanzitie",
         "seq": 1009
+      },
+      {
+        "value": "妖艳、美目流盼",
+        "docId": "plot.xianni-ch1095-zhan-zi-tie-luofu-blood-spheres",
+        "seq": 1009
       }
     ],
     "阵营": [
       {
         "value": "尸阴宗",
         "docId": "plot.xianni-1094-lieyunzi-apologizes-zhanzitie",
+        "seq": 1009
+      }
+    ],
+    "身份": [
+      {
+        "value": "尸阴宗使者",
+        "docId": "plot.xianni-ch1095-zhan-zi-tie-luofu-blood-spheres",
+        "seq": 1009
+      }
+    ],
+    "性格": [
+      {
+        "value": "娇媚、善周旋",
+        "docId": "plot.xianni-ch1095-zhan-zi-tie-luofu-blood-spheres",
         "seq": 1009
       }
     ]
@@ -53,12 +75,25 @@
       "docId": "plot.xianni-1094-lieyunzi-apologizes-zhanzitie",
       "dated": false,
       "seq": 1009
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1095-zhan-zi-tie-luofu-blood-spheres",
+      "dated": false,
+      "seq": 1009
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1095-zhan-zi-tie-luofu-blood-spheres",
+      "dated": false,
+      "seq": 1009
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1094-lieyunzi-apologizes-zhanzitie"
+    "plot.xianni-1094-lieyunzi-apologizes-zhanzitie",
+    "plot.xianni-ch1095-zhan-zi-tie-luofu-blood-spheres"
   ],
-  "updatedAt": "2026-08-24T13:35:51.184Z"
+  "updatedAt": "2026-08-24T13:42:51.169Z"
 }
