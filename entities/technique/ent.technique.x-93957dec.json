@@ -3,12 +3,16 @@
   "type": "technique",
   "name": "生死禁",
   "aliases": [
-    "上古四大禁之生死禁"
+    "上古四大禁之生死禁",
+    "生死禁气",
+    "生生死",
+    "生死生"
   ],
   "summary": "上古四大禁之一，特征为「以万灵生机化作死禁」，青衫老妪的手法与之极为相似。",
   "attributes": {
     "品阶": "上古四大禁之一",
-    "效果": "吸收万灵/草木生机化作死禁，生机耗尽则阵法开启"
+    "效果": "吸收万灵/草木生机化作死禁，生机耗尽则阵法开启、三道禁制融合，天地色变、禁幕震颤、生生死：对撞七彩闪电致山峰崩溃、生死生：化作生死禁气冲杀目标",
+    "外显异象": "禁制一出天地色变，连禁幕都为之颤抖"
   },
   "observations": {
     "品阶": [
@@ -22,6 +26,28 @@
       {
         "value": "吸收万灵/草木生机化作死禁，生机耗尽则阵法开启",
         "docId": "plot.xianni-1188-dao-jing-ming-zhi-zhe",
+        "seq": 1105
+      },
+      {
+        "value": "三道禁制融合，天地色变、禁幕震颤",
+        "docId": "plot.xianni-1191-tianyun-reappears-cangsongzi-vs-qingshan-crone",
+        "seq": 1105
+      },
+      {
+        "value": "生生死：对撞七彩闪电致山峰崩溃",
+        "docId": "plot.xianni-1191-tianyun-reappears-cangsongzi-vs-qingshan-crone",
+        "seq": 1105
+      },
+      {
+        "value": "生死生：化作生死禁气冲杀目标",
+        "docId": "plot.xianni-1191-tianyun-reappears-cangsongzi-vs-qingshan-crone",
+        "seq": 1105
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "禁制一出天地色变，连禁幕都为之颤抖",
+        "docId": "plot.xianni-1191-tianyun-reappears-cangsongzi-vs-qingshan-crone",
         "seq": 1105
       }
     ]
@@ -39,12 +65,19 @@
       "docId": "plot.xianni-1188-dao-jing-ming-zhi-zhe",
       "dated": false,
       "seq": 1105
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.xianni-1191-tianyun-reappears-cangsongzi-vs-qingshan-crone",
+      "dated": false,
+      "seq": 1105
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1188-dao-jing-ming-zhi-zhe"
+    "plot.xianni-1188-dao-jing-ming-zhi-zhe",
+    "plot.xianni-1191-tianyun-reappears-cangsongzi-vs-qingshan-crone"
   ],
-  "updatedAt": "2026-08-24T22:46:29.700Z"
+  "updatedAt": "2026-08-24T22:54:21.327Z"
 }
