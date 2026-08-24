@@ -3,11 +3,14 @@
   "type": "pill",
   "name": "轮回丹",
   "aliases": [
-    "轮回丹药"
+    "轮回丹药",
+    "Lunhui Dan",
+    "Reincarnation Pill"
   ],
   "summary": "苍松子所称目的地外围可见的一枚丹药，由十二阶化雾蛟龙守护；王林从未听闻此丹。",
   "attributes": {
-    "功效": "不明"
+    "功效": "不明、进入轮回、寻找天道、拥有天地之威",
+    "副作用": "药香入体致元神一震、记忆倒流"
   },
   "observations": {
     "功效": [
@@ -16,6 +19,29 @@
         "docId": "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
         "seq": 1095,
         "note": "本章未说明，王林从未听过此丹"
+      },
+      {
+        "value": "进入轮回",
+        "docId": "plot.xianni-1182-qicai-jie-lunhui-dan-shijie-jiao",
+        "seq": 1100
+      },
+      {
+        "value": "寻找天道",
+        "docId": "plot.xianni-1182-qicai-jie-lunhui-dan-shijie-jiao",
+        "seq": 1100
+      },
+      {
+        "value": "拥有天地之威",
+        "docId": "plot.xianni-1182-qicai-jie-lunhui-dan-shijie-jiao",
+        "seq": 1100
+      }
+    ],
+    "副作用": [
+      {
+        "value": "药香入体致元神一震、记忆倒流",
+        "docId": "plot.xianni-1182-qicai-jie-lunhui-dan-shijie-jiao",
+        "seq": 1100,
+        "note": "此残丹散发的药香"
       }
     ]
   },
@@ -27,12 +53,20 @@
       "dated": false,
       "seq": 1095,
       "note": "本章未说明，王林从未听过此丹"
+    },
+    "副作用": {
+      "asOf": null,
+      "docId": "plot.xianni-1182-qicai-jie-lunhui-dan-shijie-jiao",
+      "dated": false,
+      "seq": 1100,
+      "note": "此残丹散发的药香"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering"
+    "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
+    "plot.xianni-1182-qicai-jie-lunhui-dan-shijie-jiao"
   ],
-  "updatedAt": "2026-08-24T21:21:27.196Z"
+  "updatedAt": "2026-08-24T21:28:49.027Z"
 }
