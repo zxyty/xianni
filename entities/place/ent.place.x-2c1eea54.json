@@ -7,7 +7,8 @@
   "attributes": {
     "类型": "洞府层级",
     "上级区域": "仙帝洞府",
-    "特产": "仙界尚未崩溃时的仙丹妙药"
+    "特产": "只对灵体有效的剩余丹药",
+    "方位": "洞府第六层"
   },
   "observations": {
     "类型": [
@@ -29,6 +30,18 @@
         "value": "仙界尚未崩溃时的仙丹妙药",
         "docId": "lore.xianni-ch1050-ci-kong-nie-nie-level-treasures-tianren-wushuai",
         "seq": 967
+      },
+      {
+        "value": "只对灵体有效的剩余丹药",
+        "docId": "plot.xianni-1052-yunxian-daolv-identity",
+        "seq": 972
+      }
+    ],
+    "方位": [
+      {
+        "value": "洞府第六层",
+        "docId": "plot.xianni-1052-yunxian-daolv-identity",
+        "seq": 972
       }
     ]
   },
@@ -48,15 +61,22 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "lore.xianni-ch1050-ci-kong-nie-nie-level-treasures-tianren-wushuai",
+      "docId": "plot.xianni-1052-yunxian-daolv-identity",
       "dated": false,
-      "seq": 967
+      "seq": 972
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-1052-yunxian-daolv-identity",
+      "dated": false,
+      "seq": 972
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.xianni-ch1050-ci-kong-nie-nie-level-treasures-tianren-wushuai"
+    "lore.xianni-ch1050-ci-kong-nie-nie-level-treasures-tianren-wushuai",
+    "plot.xianni-1052-yunxian-daolv-identity"
   ],
-  "updatedAt": "2026-08-24T09:27:26.587Z"
+  "updatedAt": "2026-08-24T09:32:11.438Z"
 }
