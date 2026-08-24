@@ -526,3 +526,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T16:14:46.360Z** `ingest` plot.xianni-1121-wu-hou-gu-zhi-you-qinglin-bitian-guan-kunxu-chuansongzhen — 第1121章 无后顾之忧：青霖点破避天棺来历，王林受阻昆虚之境传送阵 · kind=plot asOf=2026-08-24 entities=37 relations=46 src=01039-01043.p1.md
 - **2026-08-24T16:21:30.202Z** `ingest` plot.xianni-ch1122-zhou-ru-forbidden-area-slaughter — 第1122章 周茹：王林禁地灭四窥涅、夺元神、开启传送阵 · kind=plot asOf=2026-08-24 entities=36 relations=60 src=01039-01043.p2.md
 - **2026-08-24T16:23:43.948Z** `ingest` plot.xianni-ch1123-duibuqi-zhouru-kunxu-departure — 第1123章 对不起：王林送玉简入昆虚、接走周茹，木冰眉泣言「对不起」 · kind=plot asOf=2026-08-24 entities=17 relations=29 src=01039-01043.p3.md
+- **2026-08-24T16:26:40.630Z** `ingest` plot.xianni-1124-parting-wang-lin-leaves-mu-bingmei-qinglong-shengzun — 第1124章 离别：王林送走周茹、四圣宗整合为一，与青龙圣尊对峙索人 · kind=plot asOf=2026-08-24 entities=30 relations=44 src=01039-01043.p4.md

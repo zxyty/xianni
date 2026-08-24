@@ -6,13 +6,16 @@
     "燃烧星域",
     "修真联盟无法掌控的燃烧星域",
     "燃烧星域深处",
-    "Burning Star Domain"
+    "Burning Star Domain",
+    "赤红星域"
   ],
   "summary": "位于联盟星域内、超越天运星范围、连修真联盟也无法掌控的燃烧星域；朱雀在此觉醒并走出瓶中界。",
   "attributes": {
-    "方位": "东海妖灵之地外，超越天运星范围",
+    "方位": "联盟星域东部、四圣宗范围内",
     "上级区域": "联盟星域",
-    "类型": "燃烧中的星域"
+    "类型": "燃烧中的星域",
+    "所属势力": "朱雀圣宗",
+    "特产": "滔天火焰（可助火系修为）"
   },
   "observations": {
     "方位": [
@@ -20,6 +23,11 @@
         "value": "东海妖灵之地外，超越天运星范围",
         "docId": "plot.xianni-ch1026-qinglin-you-lied-to-me",
         "seq": 949
+      },
+      {
+        "value": "联盟星域东部、四圣宗范围内",
+        "docId": "plot.xianni-1124-parting-wang-lin-leaves-mu-bingmei-qinglong-shengzun",
+        "seq": 1039
       }
     ],
     "上级区域": [
@@ -35,15 +43,29 @@
         "docId": "plot.xianni-ch1026-qinglin-you-lied-to-me",
         "seq": 949
       }
+    ],
+    "所属势力": [
+      {
+        "value": "朱雀圣宗",
+        "docId": "plot.xianni-1124-parting-wang-lin-leaves-mu-bingmei-qinglong-shengzun",
+        "seq": 1039
+      }
+    ],
+    "特产": [
+      {
+        "value": "滔天火焰（可助火系修为）",
+        "docId": "plot.xianni-1124-parting-wang-lin-leaves-mu-bingmei-qinglong-shengzun",
+        "seq": 1039
+      }
     ]
   },
   "firstSeq": 949,
   "attrProvenance": {
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch1026-qinglin-you-lied-to-me",
+      "docId": "plot.xianni-1124-parting-wang-lin-leaves-mu-bingmei-qinglong-shengzun",
       "dated": false,
-      "seq": 949
+      "seq": 1039
     },
     "上级区域": {
       "asOf": null,
@@ -56,6 +78,18 @@
       "docId": "plot.xianni-ch1026-qinglin-you-lied-to-me",
       "dated": false,
       "seq": 949
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-1124-parting-wang-lin-leaves-mu-bingmei-qinglong-shengzun",
+      "dated": false,
+      "seq": 1039
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-1124-parting-wang-lin-leaves-mu-bingmei-qinglong-shengzun",
+      "dated": false,
+      "seq": 1039
     }
   },
   "contested": false,
@@ -64,7 +98,8 @@
     "plot.xianni-ch1026-qinglin-you-lied-to-me",
     "plot.xianni-1068-zhuque-second-awakening",
     "plot.xianni-1087-jiuxuan-first-transformation",
-    "plot.xianni-ch1109-zhuque-old-shenghuang-guixu"
+    "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
+    "plot.xianni-1124-parting-wang-lin-leaves-mu-bingmei-qinglong-shengzun"
   ],
-  "updatedAt": "2026-08-24T15:34:45.617Z"
+  "updatedAt": "2026-08-24T16:26:40.342Z"
 }
