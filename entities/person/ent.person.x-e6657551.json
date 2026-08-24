@@ -3,15 +3,17 @@
   "type": "person",
   "name": "廖云",
   "aliases": [
-    "Liao Yun"
+    "Liao Yun",
+    "廖云长老"
   ],
   "summary": "朱雀圣宗新圣皇候选人之一，资质绝佳、小辈声望仅次任涛；因三年前妖灵一战由不服转为恐惧，又经大头童子告知王林事迹后生狂热崇敬，明言绝不招惹王林。",
   "attributes": {
     "性别": "男",
     "小阶段": "窥涅与净涅之间",
     "身份": "朱雀圣宗原定新圣皇培养人选",
-    "性格": "原本心高气傲，本章转为对王林敬畏崇敬",
-    "存殁": "在世"
+    "性格": "崇敬狂热",
+    "存殁": "在世",
+    "阵营": "朱雀圣宗（拥王林派）"
   },
   "observations": {
     "性别": [
@@ -41,6 +43,11 @@
         "value": "原本心高气傲，本章转为对王林敬畏崇敬",
         "docId": "plot.xianni-1087-jiuxuan-first-transformation",
         "seq": 1006
+      },
+      {
+        "value": "崇敬狂热",
+        "docId": "plot.xianni-1091-san-shi-huo-yuan-zhi-wei",
+        "seq": 1009
       }
     ],
     "存殁": [
@@ -48,6 +55,13 @@
         "value": "在世",
         "docId": "plot.xianni-1087-jiuxuan-first-transformation",
         "seq": 1006
+      }
+    ],
+    "阵营": [
+      {
+        "value": "朱雀圣宗（拥王林派）",
+        "docId": "plot.xianni-1091-san-shi-huo-yuan-zhi-wei",
+        "seq": 1009
       }
     ]
   },
@@ -74,21 +88,28 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-1087-jiuxuan-first-transformation",
+      "docId": "plot.xianni-1091-san-shi-huo-yuan-zhi-wei",
       "dated": false,
-      "seq": 1006
+      "seq": 1009
     },
     "存殁": {
       "asOf": null,
       "docId": "plot.xianni-1087-jiuxuan-first-transformation",
       "dated": false,
       "seq": 1006
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1091-san-shi-huo-yuan-zhi-wei",
+      "dated": false,
+      "seq": 1009
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1087-jiuxuan-first-transformation"
+    "plot.xianni-1087-jiuxuan-first-transformation",
+    "plot.xianni-1091-san-shi-huo-yuan-zhi-wei"
   ],
-  "updatedAt": "2026-08-24T13:18:51.291Z"
+  "updatedAt": "2026-08-24T13:28:19.507Z"
 }
