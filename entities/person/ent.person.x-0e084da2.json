@@ -9,7 +9,8 @@
   "attributes": {
     "小阶段": "昆虚之境",
     "外貌": "老者",
-    "出身地": "昆虚之境"
+    "出身地": "昆虚之境",
+    "性别": "男"
   },
   "observations": {
     "小阶段": [
@@ -30,6 +31,13 @@
       {
         "value": "昆虚之境",
         "docId": "plot.xianni-1077-master-disciple-battle",
+        "seq": 997
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-1079-mu-bingmei-thirty-three-swords",
         "seq": 997
       }
     ]
@@ -53,13 +61,20 @@
       "docId": "plot.xianni-1077-master-disciple-battle",
       "dated": false,
       "seq": 997
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-1079-mu-bingmei-thirty-three-swords",
+      "dated": false,
+      "seq": 997
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1067-void-child-first-tribulation-fire-dragon-sacrifice",
-    "plot.xianni-1077-master-disciple-battle"
+    "plot.xianni-1077-master-disciple-battle",
+    "plot.xianni-1079-mu-bingmei-thirty-three-swords"
   ],
-  "updatedAt": "2026-08-24T12:02:57.052Z"
+  "updatedAt": "2026-08-24T12:08:34.310Z"
 }

@@ -486,3 +486,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T11:55:32.513Z** `ingest` plot.xianni-1076-juezhan-kaishi-zhuque-shengzong-lailin — 仙逆 第1076章 决战开始：朱雀圣宗来援，天运子与塔珈合围王林 · kind=plot asOf=2026-08-24 entities=35 relations=62 src=00992-00996.p5.md
 - **2026-08-24T12:02:57.359Z** `ingest` plot.xianni-1077-master-disciple-battle — 仙逆 第1077章 师徒之战：撒豆成兵引虚空子杀魂、天运子夺朱雀 · kind=plot asOf=2026-08-24 entities=43 relations=59 src=00997-01001.p1.md
 - **2026-08-24T12:05:52.938Z** `ingest` plot.xianni-1078-tashan-appears — 仙逆 第1078章 塔山现身：朱雀圣皇借四圣宗太古圣器，王林濒死获救 · kind=plot asOf=2026-08-24 entities=29 relations=34 src=00997-01001.p2.md
+- **2026-08-24T12:08:34.640Z** `ingest` plot.xianni-1079-mu-bingmei-thirty-three-swords — 仙逆 第1079章 木冰眉：王林三十三剑撼天运子，木冰眉出手救命 · kind=plot asOf=2026-08-24 entities=28 relations=34 src=00997-01001.p3.md
