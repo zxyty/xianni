@@ -11,16 +11,18 @@
     "虚无外围",
     "虚无内环",
     "虚无深处",
-    "这片虚无之地"
+    "这片虚无之地",
+    "古神之地的虚无"
   ],
   "summary": "王林此前随巨蛟沉入之处，成为古帝排除王林的依据。",
   "attributes": {
-    "类型": "虚无空间／战场",
+    "类型": "虚无空间、虚空/空间、封印修士气息的特殊空间、特殊空间/秘境、漆黑空间层、虚无空间／战场、秘境核心区",
     "危险度": "极高（上百道极强气息与上古炼气士出没）",
     "规模": "无边无际，神识不可全覆盖",
     "特产": "古神幼子",
     "上级区域": "古神之地",
-    "方位": "与血海世界相通"
+    "方位": "血色天空之上/裂缝之外、与血海世界相通、位于八星古神胸腔之中",
+    "所属界面": "古神之地"
   },
   "observations": {
     "类型": [
@@ -52,6 +54,11 @@
       {
         "value": "虚无空间／战场",
         "docId": "plot.xianni-1131-blood-dragon-frozen-tuosen-imminent",
+        "seq": 1049
+      },
+      {
+        "value": "秘境核心区",
+        "docId": "plot.xianni-1132-wuji-zi-years-rule",
         "seq": 1049
       }
     ],
@@ -123,6 +130,18 @@
         "value": "与血海世界相通",
         "docId": "plot.xianni-1131-blood-dragon-frozen-tuosen-imminent",
         "seq": 1049
+      },
+      {
+        "value": "位于八星古神胸腔之中",
+        "docId": "plot.xianni-1132-wuji-zi-years-rule",
+        "seq": 1049
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "古神之地",
+        "docId": "plot.xianni-1132-wuji-zi-years-rule",
+        "seq": 1049
       }
     ]
   },
@@ -130,9 +149,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1131-blood-dragon-frozen-tuosen-imminent",
+      "docId": "plot.xianni-ch181-jinzhi-baofa",
       "dated": false,
-      "seq": 1049
+      "seq": 166
     },
     "危险度": {
       "asOf": null,
@@ -160,7 +179,13 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-1131-blood-dragon-frozen-tuosen-imminent",
+      "docId": "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass",
+      "dated": false,
+      "seq": 1044
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-1132-wuji-zi-years-rule",
       "dated": false,
       "seq": 1049
     }
@@ -174,7 +199,8 @@
     "plot.xianni-ch936-yuweng-wangyue-guushen-youzi",
     "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
     "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass",
-    "plot.xianni-1131-blood-dragon-frozen-tuosen-imminent"
+    "plot.xianni-1131-blood-dragon-frozen-tuosen-imminent",
+    "plot.xianni-1132-wuji-zi-years-rule"
   ],
-  "updatedAt": "2026-08-24T17:44:18.603Z"
+  "updatedAt": "2026-08-24T17:46:55.837Z"
 }
