@@ -4,14 +4,19 @@
   "name": "毒婆子",
   "aliases": [
     "五毒门毒婆子",
-    "干皱老妇人"
+    "干皱老妇人",
+    "五毒门老妇人"
   ],
   "summary": "五毒门老妇修士，布下八颗骷髅头死魂大阵围困施洛刑，索要破天宗玉简与涅空丹丹方。",
   "attributes": {
     "性别": "女",
-    "身份": "五毒门高手",
-    "外貌": "皮肤干皱、皮包骨、神色狰狞如厉鬼，双目隐有幽光",
-    "阵营": "五毒门"
+    "身份": "五毒门高手、五毒门修士",
+    "外貌": "皮肤干皱、皮包骨、神色狰狞如厉鬼，双目隐有幽光、满是皱纹的老妇、全身幻化黑鳞、状若人形凶兽",
+    "阵营": "五毒门",
+    "标志特征": "吹气化毒（赤雾/黑雨）、驱使带鸡冠角小蛇、操控八骷髅阵",
+    "存殁": "死亡",
+    "死因": "被王林一字定身致毒血反噬，复被黑色长枪贯胸爆开，肉身化血水，元神被收",
+    "结局": "元神被王林大袖收走"
   },
   "observations": {
     "性别": [
@@ -26,6 +31,11 @@
         "value": "五毒门高手",
         "docId": "plot.xianni-ch1150-jingbian-manhuang-dalu-liuxing-shouchao",
         "seq": 1068
+      },
+      {
+        "value": "五毒门修士",
+        "docId": "plot.xianni-ch1152-shan-gu-zhi-nei",
+        "seq": 1068
       }
     ],
     "外貌": [
@@ -33,12 +43,51 @@
         "value": "皮肤干皱、皮包骨、神色狰狞如厉鬼，双目隐有幽光",
         "docId": "plot.xianni-ch1150-jingbian-manhuang-dalu-liuxing-shouchao",
         "seq": 1068
+      },
+      {
+        "value": "满是皱纹的老妇",
+        "docId": "plot.xianni-ch1152-shan-gu-zhi-nei",
+        "seq": 1068
+      },
+      {
+        "value": "全身幻化黑鳞、状若人形凶兽",
+        "docId": "plot.xianni-ch1152-shan-gu-zhi-nei",
+        "seq": 1068,
+        "note": "施法变身时"
       }
     ],
     "阵营": [
       {
         "value": "五毒门",
         "docId": "plot.xianni-ch1150-jingbian-manhuang-dalu-liuxing-shouchao",
+        "seq": 1068
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "吹气化毒（赤雾/黑雨）、驱使带鸡冠角小蛇、操控八骷髅阵",
+        "docId": "plot.xianni-ch1152-shan-gu-zhi-nei",
+        "seq": 1068
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch1152-shan-gu-zhi-nei",
+        "seq": 1068
+      }
+    ],
+    "死因": [
+      {
+        "value": "被王林一字定身致毒血反噬，复被黑色长枪贯胸爆开，肉身化血水，元神被收",
+        "docId": "plot.xianni-ch1152-shan-gu-zhi-nei",
+        "seq": 1068
+      }
+    ],
+    "结局": [
+      {
+        "value": "元神被王林大袖收走",
+        "docId": "plot.xianni-ch1152-shan-gu-zhi-nei",
         "seq": 1068
       }
     ]
@@ -68,12 +117,37 @@
       "docId": "plot.xianni-ch1150-jingbian-manhuang-dalu-liuxing-shouchao",
       "dated": false,
       "seq": 1068
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1152-shan-gu-zhi-nei",
+      "dated": false,
+      "seq": 1068
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1152-shan-gu-zhi-nei",
+      "dated": false,
+      "seq": 1068
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1152-shan-gu-zhi-nei",
+      "dated": false,
+      "seq": 1068
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1152-shan-gu-zhi-nei",
+      "dated": false,
+      "seq": 1068
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1150-jingbian-manhuang-dalu-liuxing-shouchao"
+    "plot.xianni-ch1150-jingbian-manhuang-dalu-liuxing-shouchao",
+    "plot.xianni-ch1152-shan-gu-zhi-nei"
   ],
-  "updatedAt": "2026-08-24T18:46:05.795Z"
+  "updatedAt": "2026-08-24T18:51:35.707Z"
 }

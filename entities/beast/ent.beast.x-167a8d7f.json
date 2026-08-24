@@ -5,19 +5,26 @@
   "aliases": [
     "黑色小蛇",
     "鸡冠角小蛇",
-    "五毒门老妇本命灵兽"
+    "五毒门老妇本命灵兽",
+    "鸡冠小蛇",
+    "带有鸡冠角的小蛇"
   ],
   "summary": "五毒门干瘦老妇人的本命灵兽，手臂手指粗细，通体漆黑，头生鸡冠般小角，现身即腥风弥漫。",
   "attributes": {
-    "主人": "五毒门干瘦老妇人",
-    "外形": "手臂手指粗细、漆黑、头部有鸡冠般小角",
-    "能力": "腥风弥漫，剧毒"
+    "主人": "五毒门干瘦老妇人、五毒门毒婆子",
+    "外形": "手臂手指粗细、漆黑、头部有鸡冠般小角、带有鸡冠角的小蛇",
+    "能力": "腥风弥漫，剧毒、喷吐至毒之气、破开元力冲击"
   },
   "observations": {
     "主人": [
       {
         "value": "五毒门干瘦老妇人",
         "docId": "plot.xianni-1151-lai-de-hao-kuai-heiyuan-yaocao-wudumen",
+        "seq": 1068
+      },
+      {
+        "value": "五毒门毒婆子",
+        "docId": "plot.xianni-ch1152-shan-gu-zhi-nei",
         "seq": 1068
       }
     ],
@@ -26,12 +33,27 @@
         "value": "手臂手指粗细、漆黑、头部有鸡冠般小角",
         "docId": "plot.xianni-1151-lai-de-hao-kuai-heiyuan-yaocao-wudumen",
         "seq": 1068
+      },
+      {
+        "value": "带有鸡冠角的小蛇",
+        "docId": "plot.xianni-ch1152-shan-gu-zhi-nei",
+        "seq": 1068
       }
     ],
     "能力": [
       {
         "value": "腥风弥漫，剧毒",
         "docId": "plot.xianni-1151-lai-de-hao-kuai-heiyuan-yaocao-wudumen",
+        "seq": 1068
+      },
+      {
+        "value": "喷吐至毒之气",
+        "docId": "plot.xianni-ch1152-shan-gu-zhi-nei",
+        "seq": 1068
+      },
+      {
+        "value": "破开元力冲击",
+        "docId": "plot.xianni-ch1152-shan-gu-zhi-nei",
         "seq": 1068
       }
     ]
@@ -60,7 +82,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1151-lai-de-hao-kuai-heiyuan-yaocao-wudumen"
+    "plot.xianni-1151-lai-de-hao-kuai-heiyuan-yaocao-wudumen",
+    "plot.xianni-ch1152-shan-gu-zhi-nei"
   ],
-  "updatedAt": "2026-08-24T18:49:01.510Z"
+  "updatedAt": "2026-08-24T18:51:35.719Z"
 }
