@@ -3,12 +3,13 @@
   "type": "material",
   "name": "万载寒冰",
   "aliases": [
-    "玄冰"
+    "玄冰",
+    "寒气玄冰"
   ],
   "summary": "冉云星冰川深处的极寒之冰，中年男子藏身其中吸收寒气修炼。",
   "attributes": {
-    "类型": "极寒灵材",
-    "用途": "藏身修炼、吸收寒气",
+    "类型": "寒属性异冰",
+    "用途": "转化火焰、压制毒素",
     "产地": "冉云星冰川深处"
   },
   "observations": {
@@ -17,6 +18,11 @@
         "value": "极寒灵材",
         "docId": "plot.xianni-ch671-immortal-jade-array-shakes-ranyun-star",
         "seq": 631
+      },
+      {
+        "value": "寒属性异冰",
+        "docId": "plot.xianni-1086-qingshui-news-zhuque-recovery",
+        "seq": 1006
       }
     ],
     "用途": [
@@ -24,6 +30,11 @@
         "value": "藏身修炼、吸收寒气",
         "docId": "plot.xianni-ch671-immortal-jade-array-shakes-ranyun-star",
         "seq": 631
+      },
+      {
+        "value": "转化火焰、压制毒素",
+        "docId": "plot.xianni-1086-qingshui-news-zhuque-recovery",
+        "seq": 1006
       }
     ],
     "产地": [
@@ -38,15 +49,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch671-immortal-jade-array-shakes-ranyun-star",
+      "docId": "plot.xianni-1086-qingshui-news-zhuque-recovery",
       "dated": false,
-      "seq": 631
+      "seq": 1006
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch671-immortal-jade-array-shakes-ranyun-star",
+      "docId": "plot.xianni-1086-qingshui-news-zhuque-recovery",
       "dated": false,
-      "seq": 631
+      "seq": 1006
     },
     "产地": {
       "asOf": null,
@@ -58,7 +69,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch671-immortal-jade-array-shakes-ranyun-star"
+    "plot.xianni-ch671-immortal-jade-array-shakes-ranyun-star",
+    "plot.xianni-1086-qingshui-news-zhuque-recovery"
   ],
-  "updatedAt": "2026-08-22T22:49:54.089Z"
+  "updatedAt": "2026-08-24T13:00:37.324Z"
 }

@@ -4,13 +4,17 @@
   "name": "朱雀九玄变",
   "aliases": [
     "九玄变",
-    "Zhu Que Jiu Xuan Bian"
+    "Zhu Que Jiu Xuan Bian",
+    "九玄神通",
+    "朱雀九玄神通"
   ],
   "summary": "朱雀圣宗历代圣皇必须学习的神通，传承自太古，为当今天下巅峰神通之一。",
   "attributes": {
-    "出处": "朱雀圣宗，传承自太古",
+    "出处": "朱雀圣宗",
     "品阶": "当今天下巅峰神通之一",
-    "修炼条件": "朱雀圣宗历代圣皇必学"
+    "修炼条件": "朱雀二次觉醒、白色朱雀、朱雀火铠（第一变）",
+    "五行属性": "火",
+    "效果": "每成一变，神通威力数倍增长"
   },
   "observations": {
     "出处": [
@@ -18,6 +22,11 @@
         "value": "朱雀圣宗，传承自太古",
         "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
         "seq": 1002
+      },
+      {
+        "value": "朱雀圣宗",
+        "docId": "plot.xianni-1086-qingshui-news-zhuque-recovery",
+        "seq": 1006
       }
     ],
     "品阶": [
@@ -32,6 +41,25 @@
         "value": "朱雀圣宗历代圣皇必学",
         "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
         "seq": 1002
+      },
+      {
+        "value": "朱雀二次觉醒、白色朱雀、朱雀火铠（第一变）",
+        "docId": "plot.xianni-1086-qingshui-news-zhuque-recovery",
+        "seq": 1006
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "火",
+        "docId": "plot.xianni-1086-qingshui-news-zhuque-recovery",
+        "seq": 1006
+      }
+    ],
+    "效果": [
+      {
+        "value": "每成一变，神通威力数倍增长",
+        "docId": "plot.xianni-1086-qingshui-news-zhuque-recovery",
+        "seq": 1006
       }
     ]
   },
@@ -39,9 +67,9 @@
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+      "docId": "plot.xianni-1086-qingshui-news-zhuque-recovery",
       "dated": false,
-      "seq": 1002
+      "seq": 1006
     },
     "品阶": {
       "asOf": null,
@@ -51,15 +79,28 @@
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+      "docId": "plot.xianni-1086-qingshui-news-zhuque-recovery",
       "dated": false,
-      "seq": 1002
+      "seq": 1006
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.xianni-1086-qingshui-news-zhuque-recovery",
+      "dated": false,
+      "seq": 1006
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.xianni-1086-qingshui-news-zhuque-recovery",
+      "dated": false,
+      "seq": 1006
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival"
+    "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+    "plot.xianni-1086-qingshui-news-zhuque-recovery"
   ],
-  "updatedAt": "2026-08-24T12:57:42.970Z"
+  "updatedAt": "2026-08-24T13:00:37.321Z"
 }

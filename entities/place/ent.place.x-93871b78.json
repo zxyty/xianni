@@ -20,9 +20,9 @@
     "规模": "一百七十三颗巨大修真星",
     "所属界面": "联盟星域",
     "上级区域": "修真联盟总部",
-    "方位": "联盟星域中央",
+    "方位": "联盟星域的中心部分",
     "守护": "滔天大阵",
-    "危险度": "外有滔天大阵隔绝内外"
+    "危险度": "封锁中"
   },
   "observations": {
     "所属势力": [
@@ -85,6 +85,11 @@
         "value": "联盟星域中央",
         "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
         "seq": 1002
+      },
+      {
+        "value": "联盟星域的中心部分",
+        "docId": "plot.xianni-1086-qingshui-news-zhuque-recovery",
+        "seq": 1006
       }
     ],
     "守护": [
@@ -104,6 +109,12 @@
         "value": "外有滔天大阵隔绝内外",
         "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
         "seq": 1002
+      },
+      {
+        "value": "封锁中",
+        "docId": "plot.xianni-1086-qingshui-news-zhuque-recovery",
+        "seq": 1006,
+        "note": "封锁已持续两年"
       }
     ]
   },
@@ -141,9 +152,9 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+      "docId": "plot.xianni-1086-qingshui-news-zhuque-recovery",
       "dated": false,
-      "seq": 1002
+      "seq": 1006
     },
     "守护": {
       "asOf": null,
@@ -153,9 +164,10 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+      "docId": "plot.xianni-1086-qingshui-news-zhuque-recovery",
       "dated": false,
-      "seq": 1002
+      "seq": 1006,
+      "note": "封锁已持续两年"
     }
   },
   "contested": false,
@@ -167,7 +179,8 @@
     "plot.xianni-1065-three-ancient-races-reunite",
     "plot.xianni-ch1074-zhangzun-power-canye-kills-three",
     "plot.xianni-1075-zhenling-ronghe-zhuque-juexing",
-    "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival"
+    "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+    "plot.xianni-1086-qingshui-news-zhuque-recovery"
   ],
-  "updatedAt": "2026-08-24T12:57:42.963Z"
+  "updatedAt": "2026-08-24T13:00:37.336Z"
 }

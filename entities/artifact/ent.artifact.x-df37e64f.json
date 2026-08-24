@@ -3,12 +3,14 @@
   "type": "artifact",
   "name": "太古圣器",
   "aliases": [
-    "青龙圣宗太古圣器"
+    "青龙圣宗太古圣器",
+    "朱雀圣宗太古圣器"
   ],
   "summary": "青龙圣宗所藏至宝，朱雀圣皇为应对朱雀宗觉醒者而向其借用。",
   "attributes": {
     "持有者": "青龙圣宗",
-    "来历": "太古"
+    "来历": "朱雀圣宗太古传承",
+    "禁制": "需修成九玄第一变方可操控"
   },
   "observations": {
     "持有者": [
@@ -23,6 +25,18 @@
         "value": "太古",
         "docId": "plot.xianni-1078-tashan-appears",
         "seq": 997
+      },
+      {
+        "value": "朱雀圣宗太古传承",
+        "docId": "plot.xianni-1086-qingshui-news-zhuque-recovery",
+        "seq": 1006
+      }
+    ],
+    "禁制": [
+      {
+        "value": "需修成九玄第一变方可操控",
+        "docId": "plot.xianni-1086-qingshui-news-zhuque-recovery",
+        "seq": 1006
       }
     ]
   },
@@ -36,15 +50,22 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-1078-tashan-appears",
+      "docId": "plot.xianni-1086-qingshui-news-zhuque-recovery",
       "dated": false,
-      "seq": 997
+      "seq": 1006
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-1086-qingshui-news-zhuque-recovery",
+      "dated": false,
+      "seq": 1006
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1078-tashan-appears"
+    "plot.xianni-1078-tashan-appears",
+    "plot.xianni-1086-qingshui-news-zhuque-recovery"
   ],
-  "updatedAt": "2026-08-24T12:05:52.651Z"
+  "updatedAt": "2026-08-24T13:00:37.322Z"
 }

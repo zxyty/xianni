@@ -490,3 +490,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T12:11:09.656Z** `ingest` plot.xianni-ch1080-bu-xu-ta-jiu-mubingmei-vs-tianyunzi — 第1080章 不需她救——木冰眉封天运子元力，王林燃尽五颗古神星点激活青光盾 · kind=plot asOf=2026-08-24 entities=21 relations=27 src=00997-01001.p4.md
 - **2026-08-24T12:14:03.064Z** `ingest` plot.xianni-ch1081-meng-hui-yuan-gu — 《仙逆》第1081章 梦回远古——修真联盟仙人杀入妖灵之地，青光盾引动八星古神保命神通 · kind=plot asOf=2026-08-24 entities=27 relations=44 src=00997-01001.p5.md
 - **2026-08-24T12:57:43.304Z** `ingest` plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival — 第1002-1005章：天运子撕第二封印、王林召远古巨影退敌，朱雀圣皇现身取出太古圣器 · kind=plot asOf=2026-08-24 entities=83 relations=146 src=01002-01005.md
+- **2026-08-24T13:00:37.697Z** `ingest` plot.xianni-1086-qingshui-news-zhuque-recovery — 仙逆 第1086章 清水的消息：朱雀圣宗两年疗伤与九玄变 · kind=plot asOf=2026-08-24 entities=35 relations=45 src=01006-01008.p1.md
