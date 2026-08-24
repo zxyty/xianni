@@ -4,14 +4,17 @@
   "name": "罗睺",
   "aliases": [
     "掌尊坐下第七弟子",
-    "Luo Hou"
+    "Luo Hou",
+    "黑衣人元神",
+    "掌尊弟子罗睺"
   ],
   "summary": "远处观望的黑衣人，眉心藏炎龙印记；被王林以「移形换位」换至刀芒之下，肉身一分为二碎裂，元神将灭时自报「掌尊坐下第七弟子罗睺」而获古魔放过，元神被古魔塔珈抓走。",
   "attributes": {
-    "身份": "掌尊坐下第七弟子",
+    "身份": "掌尊弟子",
     "标志特征": "眉心炎龙印记，可化火焰炎龙护身",
-    "外貌": "黑衣人",
-    "存殁": "肉身碎裂，元神尚存但黯淡"
+    "外貌": "缩小盘膝的元神小人，外绕一条炎龙",
+    "存殁": "肉身碎裂，元神尚存但黯淡",
+    "性格": "贪婪"
   },
   "observations": {
     "身份": [
@@ -19,6 +22,11 @@
         "value": "掌尊坐下第七弟子",
         "docId": "plot.xianni-1064-heiyiren-shenfen-luohou",
         "seq": 982
+      },
+      {
+        "value": "掌尊弟子",
+        "docId": "plot.xianni-1067-void-child-first-tribulation-fire-dragon-sacrifice",
+        "seq": 987
       }
     ],
     "标志特征": [
@@ -34,6 +42,12 @@
         "docId": "plot.xianni-1064-heiyiren-shenfen-luohou",
         "seq": 982,
         "note": "本章前段隐藏身份"
+      },
+      {
+        "value": "缩小盘膝的元神小人，外绕一条炎龙",
+        "docId": "plot.xianni-1067-void-child-first-tribulation-fire-dragon-sacrifice",
+        "seq": 987,
+        "note": "元神状态"
       }
     ],
     "存殁": [
@@ -43,15 +57,22 @@
         "seq": 982,
         "note": "元神被古魔塔珈抓住"
       }
+    ],
+    "性格": [
+      {
+        "value": "贪婪",
+        "docId": "plot.xianni-1067-void-child-first-tribulation-fire-dragon-sacrifice",
+        "seq": 987
+      }
     ]
   },
   "firstSeq": 982,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1064-heiyiren-shenfen-luohou",
+      "docId": "plot.xianni-1067-void-child-first-tribulation-fire-dragon-sacrifice",
       "dated": false,
-      "seq": 982
+      "seq": 987
     },
     "标志特征": {
       "asOf": null,
@@ -61,10 +82,10 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-1064-heiyiren-shenfen-luohou",
+      "docId": "plot.xianni-1067-void-child-first-tribulation-fire-dragon-sacrifice",
       "dated": false,
-      "seq": 982,
-      "note": "本章前段隐藏身份"
+      "seq": 987,
+      "note": "元神状态"
     },
     "存殁": {
       "asOf": null,
@@ -72,12 +93,19 @@
       "dated": false,
       "seq": 982,
       "note": "元神被古魔塔珈抓住"
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-1067-void-child-first-tribulation-fire-dragon-sacrifice",
+      "dated": false,
+      "seq": 987
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1064-heiyiren-shenfen-luohou"
+    "plot.xianni-1064-heiyiren-shenfen-luohou",
+    "plot.xianni-1067-void-child-first-tribulation-fire-dragon-sacrifice"
   ],
-  "updatedAt": "2026-08-24T10:13:19.810Z"
+  "updatedAt": "2026-08-24T11:13:48.976Z"
 }
