@@ -4,12 +4,15 @@
   "name": "本源火种",
   "aliases": [
     "火种",
-    "白色火种"
+    "白色火种",
+    "指甲盖大小的火种",
+    "丹田火种"
   ],
   "summary": "王林体内因火灵龙火元力与朱雀之炎融合而疯狂凝聚出的白色火种，本章『只差一丝』未完全凝成；一旦凝成则天下之火皆在其操控之内。",
   "attributes": {
-    "类型": "本源之物·火",
-    "用途": "凝成后可操控天下之火"
+    "类型": "本源之物·火、本源火种",
+    "用途": "凝成后可操控天下之火、火之力本源凝聚，牵引全场魔火归附",
+    "产地": "王林丹田"
   },
   "observations": {
     "类型": [
@@ -17,12 +20,29 @@
         "value": "本源之物·火",
         "docId": "plot.xianni-1067-void-child-first-tribulation-fire-dragon-sacrifice",
         "seq": 987
+      },
+      {
+        "value": "本源火种",
+        "docId": "plot.xianni-1068-zhuque-second-awakening",
+        "seq": 987
       }
     ],
     "用途": [
       {
         "value": "凝成后可操控天下之火",
         "docId": "plot.xianni-1067-void-child-first-tribulation-fire-dragon-sacrifice",
+        "seq": 987
+      },
+      {
+        "value": "火之力本源凝聚，牵引全场魔火归附",
+        "docId": "plot.xianni-1068-zhuque-second-awakening",
+        "seq": 987
+      }
+    ],
+    "产地": [
+      {
+        "value": "王林丹田",
+        "docId": "plot.xianni-1068-zhuque-second-awakening",
         "seq": 987
       }
     ]
@@ -40,12 +60,19 @@
       "docId": "plot.xianni-1067-void-child-first-tribulation-fire-dragon-sacrifice",
       "dated": false,
       "seq": 987
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.xianni-1068-zhuque-second-awakening",
+      "dated": false,
+      "seq": 987
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1067-void-child-first-tribulation-fire-dragon-sacrifice"
+    "plot.xianni-1067-void-child-first-tribulation-fire-dragon-sacrifice",
+    "plot.xianni-1068-zhuque-second-awakening"
   ],
-  "updatedAt": "2026-08-24T11:13:48.986Z"
+  "updatedAt": "2026-08-24T11:16:23.172Z"
 }

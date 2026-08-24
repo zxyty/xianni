@@ -11,7 +11,9 @@
     "燃烧星域深处的神念",
     "朱雀圣祖",
     "四圣宗朱雀圣宗朱雀圣皇",
-    "火海禁地老者"
+    "火海禁地老者",
+    "苍老圣皇",
+    "存活无数年的圣皇"
   ],
   "summary": "朱雀圣星一方的至强者，本片段已云游不在，被三老者惋惜其不在致朱雀圣星难从罗天之战获大利。",
   "attributes": {
@@ -19,11 +21,11 @@
     "称号": "朱雀圣皇",
     "阵营": "四圣宗／朱雀圣宗",
     "分身": "十大分身（毁灭八个）",
-    "寿元": "时间不多了",
-    "元神强度": "神念可令整片燃烧星域的燃烧为之一顿",
+    "寿元": "所剩不多",
+    "元神强度": "元神出窍即令整个燃烧星域震颤",
     "存殁": "本尊几乎崩溃，只余一股意念",
     "标志特征": "盘膝坐于火海根源白石之上",
-    "外貌": "皮肤拉耷、死气浓浓，远看似一团死肉",
+    "外貌": "肉身苍老，元神为中年男子模样",
     "性格": "惆怅"
   },
   "observations": {
@@ -97,6 +99,12 @@
         "docId": "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
         "seq": 949,
         "note": "自述当年伤势越加严重"
+      },
+      {
+        "value": "所剩不多",
+        "docId": "plot.xianni-1068-zhuque-second-awakening",
+        "seq": 987,
+        "note": "自言时间已经不多"
       }
     ],
     "元神强度": [
@@ -105,6 +113,11 @@
         "docId": "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
         "seq": 949,
         "note": "本章表现"
+      },
+      {
+        "value": "元神出窍即令整个燃烧星域震颤",
+        "docId": "plot.xianni-1068-zhuque-second-awakening",
+        "seq": 987
       }
     ],
     "存殁": [
@@ -132,6 +145,12 @@
         "value": "皮肤拉耷、死气浓浓，远看似一团死肉",
         "docId": "plot.xianni-1061-immortal-emperor-cave-collapse-ancient-demon-possession-complete",
         "seq": 977
+      },
+      {
+        "value": "肉身苍老，元神为中年男子模样",
+        "docId": "plot.xianni-1068-zhuque-second-awakening",
+        "seq": 987,
+        "note": "元神出窍时"
       }
     ],
     "性格": [
@@ -171,17 +190,16 @@
     },
     "寿元": {
       "asOf": null,
-      "docId": "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
+      "docId": "plot.xianni-1068-zhuque-second-awakening",
       "dated": false,
-      "seq": 949,
-      "note": "自述当年伤势越加严重"
+      "seq": 987,
+      "note": "自言时间已经不多"
     },
     "元神强度": {
       "asOf": null,
-      "docId": "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
+      "docId": "plot.xianni-1068-zhuque-second-awakening",
       "dated": false,
-      "seq": 949,
-      "note": "本章表现"
+      "seq": 987
     },
     "存殁": {
       "asOf": null,
@@ -198,9 +216,10 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-1061-immortal-emperor-cave-collapse-ancient-demon-possession-complete",
+      "docId": "plot.xianni-1068-zhuque-second-awakening",
       "dated": false,
-      "seq": 977
+      "seq": 987,
+      "note": "元神出窍时"
     },
     "性格": {
       "asOf": null,
@@ -218,7 +237,8 @@
     "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
     "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
     "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
-    "plot.xianni-1061-immortal-emperor-cave-collapse-ancient-demon-possession-complete"
+    "plot.xianni-1061-immortal-emperor-cave-collapse-ancient-demon-possession-complete",
+    "plot.xianni-1068-zhuque-second-awakening"
   ],
-  "updatedAt": "2026-08-24T10:00:58.416Z"
+  "updatedAt": "2026-08-24T11:16:23.160Z"
 }

@@ -475,3 +475,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T10:20:08.600Z** `ingest` plot.xianni-1065-three-ancient-races-reunite — 第1065章 古之三族重聚——古神王林、古妖贝罗联手战古魔塔珈，仙帝洞府第八层天空崩塌 · kind=plot asOf=2026-08-24 entities=40 relations=54 src=00982-00986.p4.md
 - **2026-08-24T10:23:06.989Z** `ingest` plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon — 第1066章 昆虚圣女木冰眉的抉择与古魔塔珈焚天煮海 · kind=plot asOf=2026-08-24 entities=25 relations=45 src=00982-00986.p5.md
 - **2026-08-24T11:13:49.311Z** `ingest` plot.xianni-1067-void-child-first-tribulation-fire-dragon-sacrifice — 《仙逆》第1067章：虚空子强渡天人第一衰、火灵龙自献王林凝聚本源火种 · kind=plot asOf=2026-08-24 entities=20 relations=29 src=00987-00991.p1.md
+- **2026-08-24T11:16:23.447Z** `ingest` plot.xianni-1068-zhuque-second-awakening — 第1068章 朱雀二次觉醒——仙帝洞府七层崩塌 · kind=plot asOf=2026-08-24 entities=27 relations=39 src=00987-00991.p2.md
