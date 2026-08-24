@@ -3,12 +3,14 @@
   "type": "region",
   "name": "云海星域",
   "aliases": [
-    "Yunhai Star Region"
+    "Yunhai Star Region",
+    "Yun Hai Star Domain"
   ],
   "summary": "风之仙界之下的星域。",
   "attributes": {
     "层次": "仙界之下的星域",
-    "特点": "巨蚊兽群居之地、天门宗、暗星宗所在"
+    "特点": "巨蚊兽群居之地、天门宗、暗星宗所在",
+    "主宰势力": "天门宗（本章所见）"
   },
   "observations": {
     "层次": [
@@ -29,6 +31,13 @@
         "docId": "plot.xianni-ch1103-yunhai-mosquito-beasts-stolen",
         "seq": 1019
       }
+    ],
+    "主宰势力": [
+      {
+        "value": "天门宗（本章所见）",
+        "docId": "plot.xianni-1104-tianjie-mosquito-beast-pursuit",
+        "seq": 1019
+      }
     ]
   },
   "firstSeq": 876,
@@ -44,13 +53,20 @@
       "docId": "plot.xianni-ch1103-yunhai-mosquito-beasts-stolen",
       "dated": false,
       "seq": 1019
+    },
+    "主宰势力": {
+      "asOf": null,
+      "docId": "plot.xianni-1104-tianjie-mosquito-beast-pursuit",
+      "dated": false,
+      "seq": 1019
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
-    "plot.xianni-ch1103-yunhai-mosquito-beasts-stolen"
+    "plot.xianni-ch1103-yunhai-mosquito-beasts-stolen",
+    "plot.xianni-1104-tianjie-mosquito-beast-pursuit"
   ],
-  "updatedAt": "2026-08-24T15:16:19.200Z"
+  "updatedAt": "2026-08-24T15:18:19.312Z"
 }

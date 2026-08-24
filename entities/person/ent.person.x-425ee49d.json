@@ -3,25 +3,40 @@
   "type": "person",
   "name": "天门宗紫衣老者乙",
   "aliases": [
-    "另一位紫衣老者"
+    "另一位紫衣老者",
+    "另一紫衣老者"
   ],
   "summary": "与老者甲共同主持碎石大阵，评估青光阵可抵挡碎涅大圆满数日，赞同带蚊兽返回云海。",
   "attributes": {
     "身份": "天门宗长老",
-    "外貌": "紫衣白发"
+    "外貌": "紫衣白发、紫衣老者",
+    "小阶段": "净涅后期"
   },
   "observations": {
     "身份": [
       {
         "value": "天门宗长老",
         "docId": "plot.xianni-ch1103-yunhai-mosquito-beasts-stolen",
-        "seq": 1019
+        "seq": 1019,
+        "note": "非云海星域正式使者，以特殊方式偷偷到来"
       }
     ],
     "外貌": [
       {
         "value": "紫衣白发",
         "docId": "plot.xianni-ch1103-yunhai-mosquito-beasts-stolen",
+        "seq": 1019
+      },
+      {
+        "value": "紫衣老者",
+        "docId": "plot.xianni-1104-tianjie-mosquito-beast-pursuit",
+        "seq": 1019
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "净涅后期",
+        "docId": "plot.xianni-1104-tianjie-mosquito-beast-pursuit",
         "seq": 1019
       }
     ]
@@ -32,11 +47,18 @@
       "asOf": null,
       "docId": "plot.xianni-ch1103-yunhai-mosquito-beasts-stolen",
       "dated": false,
-      "seq": 1019
+      "seq": 1019,
+      "note": "非云海星域正式使者，以特殊方式偷偷到来"
     },
     "外貌": {
       "asOf": null,
       "docId": "plot.xianni-ch1103-yunhai-mosquito-beasts-stolen",
+      "dated": false,
+      "seq": 1019
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-1104-tianjie-mosquito-beast-pursuit",
       "dated": false,
       "seq": 1019
     }
@@ -44,7 +66,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1103-yunhai-mosquito-beasts-stolen"
+    "plot.xianni-ch1103-yunhai-mosquito-beasts-stolen",
+    "plot.xianni-1104-tianjie-mosquito-beast-pursuit"
   ],
-  "updatedAt": "2026-08-24T15:16:19.190Z"
+  "updatedAt": "2026-08-24T15:18:19.311Z"
 }

@@ -4,14 +4,18 @@
   "name": "碎石星域",
   "aliases": [
     "充满碎石的星域",
-    "天门宗碎石据点"
+    "天门宗碎石据点",
+    "碎石区域"
   ],
   "summary": "联盟星域中部的碎石区域，深处有青光罩笼罩的天门宗秘密据点与碎石大阵。",
   "attributes": {
     "上级区域": "联盟星域",
-    "方位": "联盟星域中部",
+    "方位": "联盟星域中部、联盟星域中部偏僻处",
     "所属势力": "天门宗（占据）",
-    "守护": "青光阵"
+    "守护": "青光阵",
+    "类型": "碎石带",
+    "特产": "无（四周仅无人蛮荒星）",
+    "危险度": "罕有修士到来"
   },
   "observations": {
     "上级区域": [
@@ -26,6 +30,11 @@
         "value": "联盟星域中部",
         "docId": "plot.xianni-ch1103-yunhai-mosquito-beasts-stolen",
         "seq": 1019
+      },
+      {
+        "value": "联盟星域中部偏僻处",
+        "docId": "plot.xianni-1104-tianjie-mosquito-beast-pursuit",
+        "seq": 1019
       }
     ],
     "所属势力": [
@@ -39,6 +48,27 @@
       {
         "value": "青光阵",
         "docId": "plot.xianni-ch1103-yunhai-mosquito-beasts-stolen",
+        "seq": 1019
+      }
+    ],
+    "类型": [
+      {
+        "value": "碎石带",
+        "docId": "plot.xianni-1104-tianjie-mosquito-beast-pursuit",
+        "seq": 1019
+      }
+    ],
+    "特产": [
+      {
+        "value": "无（四周仅无人蛮荒星）",
+        "docId": "plot.xianni-1104-tianjie-mosquito-beast-pursuit",
+        "seq": 1019
+      }
+    ],
+    "危险度": [
+      {
+        "value": "罕有修士到来",
+        "docId": "plot.xianni-1104-tianjie-mosquito-beast-pursuit",
         "seq": 1019
       }
     ]
@@ -68,12 +98,31 @@
       "docId": "plot.xianni-ch1103-yunhai-mosquito-beasts-stolen",
       "dated": false,
       "seq": 1019
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-1104-tianjie-mosquito-beast-pursuit",
+      "dated": false,
+      "seq": 1019
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-1104-tianjie-mosquito-beast-pursuit",
+      "dated": false,
+      "seq": 1019
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-1104-tianjie-mosquito-beast-pursuit",
+      "dated": false,
+      "seq": 1019
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1103-yunhai-mosquito-beasts-stolen"
+    "plot.xianni-ch1103-yunhai-mosquito-beasts-stolen",
+    "plot.xianni-1104-tianjie-mosquito-beast-pursuit"
   ],
-  "updatedAt": "2026-08-24T15:16:19.202Z"
+  "updatedAt": "2026-08-24T15:18:19.313Z"
 }
