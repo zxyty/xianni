@@ -467,3 +467,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T09:45:05.440Z** `ingest` plot.xianni-1057-volcano-eruption-fire-dragon-swallows-palace — 仙逆 第1057章：火龙吞殿，王林岩浆炼火，粉衣女子求饶 · kind=plot asOf=2026-08-24 entities=20 relations=28 src=00977-00981.p1.md
 - **2026-08-24T09:47:33.830Z** `ingest` plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao — 第1058章 搜魂粉衣女子，天魂道与昆虚圣女木冰眉的第九分身柳眉 · kind=plot asOf=2026-08-24 entities=21 relations=37 src=00977-00981.p2.md
 - **2026-08-24T09:49:52.166Z** `ingest` plot.xianni-ch1059-immortal-emperor-cave-8th-floor-ancient-demon-palm — 第1059章 仙帝洞府第八层：凌天候血祭麒麟，王林一掌灭古魔、毁中心宫殿 · kind=plot asOf=2026-08-24 entities=18 relations=26 src=00977-00981.p3.md
+- **2026-08-24T09:52:46.716Z** `ingest` plot.xianni-1060-immortal-emperor-cave-ninth-floor-entry — 仙逆·第1060章：王林入仙帝洞府第九层，塔珈夺舍与大殿外混战 · kind=plot asOf=2026-08-24 entities=35 relations=42 src=00977-00981.p4.md
