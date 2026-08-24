@@ -455,3 +455,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T09:11:41.602Z** `ingest` plot.xianni-1045-ci-kong-nie-iron-sword — 第1045章 次空涅——王林破解铁剑锈迹之秘，人形之物脱困逼近 · kind=plot asOf=2026-08-24 entities=24 relations=37 src=00963-00966.p3.md
 - **2026-08-24T09:13:43.312Z** `ingest` plot.xianni-1046-xukongzi-killing-intent — 第1046章 虚空子的杀机——仙帝洞府第一层大殿与碎涅一击 · kind=plot asOf=2026-08-24 entities=20 relations=28 src=00963-00966.p4.md
 - **2026-08-24T09:15:48.203Z** `ingest` plot.xianni-1047-fankang-wanglin-vs-xukongzi — 第1047章 反抗：王林重伤布杀局，以本源之力诱虚空子入局 · kind=plot asOf=2026-08-24 entities=20 relations=21 src=00967-00971.p1.md
+- **2026-08-24T09:17:45.033Z** `ingest` plot.xianni-1048-zhibao-tiejian-cikongnie — 第1048章 至宝：王林拔铁剑连斩虚空子 · kind=plot asOf=2026-08-24 entities=15 relations=21 src=00967-00971.p2.md

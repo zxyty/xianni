@@ -15,15 +15,19 @@
     "四处锈迹的铁剑",
     "次空涅铁剑",
     "剑鞘内的铁剑",
-    "王林的铁剑"
+    "王林的铁剑",
+    "无鞘铁剑",
+    "银光大剑之源"
   ],
   "summary": "满是锈迹、状若凡尘之物的铁剑，锈斑由沾染鲜血融入而成、血腥味浓；为乾风的乾家老祖（上一代朱雀子）秘密留下，连这一代朱雀子也不知晓。",
   "attributes": {
     "持有者": "王林",
     "来历": "乾家老祖·上一代朱雀子秘密留下，这一代朱雀子从不知晓、乾风祭出、老者觉得眼熟、藏于八星古神头颅内、自人形之物身边夺得；托森使者当年曾得一模一样的一把",
-    "外形": "插于剑鞘内的铁剑",
-    "禁制": "剑内无形之气环绕流转，抗拒第三目本源之力",
-    "能力": "阻绝神识探入、剑内无形之气吞噬本源之力、锈灰裂开虚空、锈灰使花海枯萎并崩溃其上禁制"
+    "外形": "充满锈迹、好似凡尘之物的铁剑，锈斑散发血腥味、铁剑、锈迹斑斑、带黑褐色干枯血迹的铁剑、寻常铁剑，剑身有四处锈迹、插于剑鞘内的铁剑、铁剑配剑鞘，出鞘时可怕气息冲出致大殿与雕像龟裂",
+    "禁制": "不需任何祭炼，在手即可使用",
+    "能力": "阻绝神识探入、剑内无形之气吞噬本源之力、锈灰裂开虚空、锈灰使花海枯萎并崩溃其上禁制、幻化万丈银光大剑虚影/实质剑影、连贯如剑招的连锁斩击且越斩越快、吸收持有者元力与血肉",
+    "品阶": "次空涅法宝",
+    "器灵": "有其自身之灵，似将从沉睡中苏醒"
   },
   "observations": {
     "持有者": [
@@ -102,6 +106,11 @@
         "value": "插于剑鞘内的铁剑",
         "docId": "plot.xianni-1047-fankang-wanglin-vs-xukongzi",
         "seq": 967
+      },
+      {
+        "value": "铁剑配剑鞘，出鞘时可怕气息冲出致大殿与雕像龟裂",
+        "docId": "plot.xianni-1048-zhibao-tiejian-cikongnie",
+        "seq": 967
       }
     ],
     "禁制": [
@@ -114,6 +123,11 @@
         "value": "剑内无形之气环绕流转，抗拒第三目本源之力",
         "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
         "seq": 963
+      },
+      {
+        "value": "不需任何祭炼，在手即可使用",
+        "docId": "plot.xianni-1048-zhibao-tiejian-cikongnie",
+        "seq": 967
       }
     ],
     "能力": [
@@ -136,6 +150,36 @@
         "value": "锈灰使花海枯萎并崩溃其上禁制",
         "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
         "seq": 963
+      },
+      {
+        "value": "幻化万丈银光大剑虚影/实质剑影",
+        "docId": "plot.xianni-1048-zhibao-tiejian-cikongnie",
+        "seq": 967
+      },
+      {
+        "value": "连贯如剑招的连锁斩击且越斩越快",
+        "docId": "plot.xianni-1048-zhibao-tiejian-cikongnie",
+        "seq": 967
+      },
+      {
+        "value": "吸收持有者元力与血肉",
+        "docId": "plot.xianni-1048-zhibao-tiejian-cikongnie",
+        "seq": 967
+      }
+    ],
+    "品阶": [
+      {
+        "value": "次空涅法宝",
+        "docId": "plot.xianni-1048-zhibao-tiejian-cikongnie",
+        "seq": 967
+      }
+    ],
+    "器灵": [
+      {
+        "value": "有其自身之灵，似将从沉睡中苏醒",
+        "docId": "plot.xianni-1048-zhibao-tiejian-cikongnie",
+        "seq": 967,
+        "note": "苏醒后有毁天灭地之威"
       }
     ]
   },
@@ -155,21 +199,34 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-1047-fankang-wanglin-vs-xukongzi",
+      "docId": "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
       "dated": false,
-      "seq": 967
+      "seq": 438
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
+      "docId": "plot.xianni-1048-zhibao-tiejian-cikongnie",
       "dated": false,
-      "seq": 963
+      "seq": 967
     },
     "能力": {
       "asOf": null,
       "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
       "dated": false,
       "seq": 963
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-1048-zhibao-tiejian-cikongnie",
+      "dated": false,
+      "seq": 967
+    },
+    "器灵": {
+      "asOf": null,
+      "docId": "plot.xianni-1048-zhibao-tiejian-cikongnie",
+      "dated": false,
+      "seq": 967,
+      "note": "苏醒后有毁天灭地之威"
     }
   },
   "contested": false,
@@ -181,7 +238,8 @@
     "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
     "plot.xianni-1044-confusion-immortal-emperor-cave-bamboo-forest",
     "plot.xianni-1045-ci-kong-nie-iron-sword",
-    "plot.xianni-1047-fankang-wanglin-vs-xukongzi"
+    "plot.xianni-1047-fankang-wanglin-vs-xukongzi",
+    "plot.xianni-1048-zhibao-tiejian-cikongnie"
   ],
-  "updatedAt": "2026-08-24T09:15:47.782Z"
+  "updatedAt": "2026-08-24T09:17:44.710Z"
 }
