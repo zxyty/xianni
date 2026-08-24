@@ -568,3 +568,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T20:12:16.491Z** `ingest` plot.xianni-1167-hui-mou-yi-xiao-lun-dao — 第1167章 回眸一笑——王林论「道如思想」，李倩梅第三问与卢云从解怨 · kind=plot asOf=2026-08-24 entities=26 relations=38 src=01082-01086.p4.md
 - **2026-08-24T20:15:08.475Z** `ingest` lore.yunhai-nine-tier-star-region-secret-and-penglai-fair — 第1168章 九阶星域四宗隐秘与蓬莱坊市（王林求星图） · kind=lore asOf=2026-08-24 entities=27 relations=43 src=01082-01086.p5.md
 - **2026-08-24T20:57:23.348Z** `ingest` plot.xianni-ch1169-who-are-you-penglai-fair — 第1169章 你是谁！——蓬莱大陆坊市之行与元晶、仙玉之秘 · kind=plot asOf=2026-08-24 entities=80 relations=138 src=01087-01090.md
+- **2026-08-24T20:59:47.840Z** `ingest` plot.xianni-1173-feng-yu-dong-auction-yuanjing-trade — 第1173章 风欲动：王林豪掷仙玉夺星图、换五千元晶，与吴青结仇 · kind=plot asOf=2026-08-24 entities=29 relations=42 src=01091-01094.p1.md

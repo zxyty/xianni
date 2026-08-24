@@ -3,13 +3,15 @@
   "type": "pill",
   "name": "混元丹",
   "aliases": [
-    "漆黑丹药"
+    "漆黑丹药",
+    "混元丹药"
   ],
   "summary": "通体漆黑无半点药香、隐有可怕波动的丹药，为可威胁碎涅修士之物，苍松子开价五万仙玉（五百仙玉的百倍），被青年文士买下。",
   "attributes": {
     "功效": "可威胁碎涅修士",
     "适用境界": "碎涅",
-    "副作用": "仅一粒威力不足"
+    "副作用": "仅一粒威力不足",
+    "炼制者": "不详"
   },
   "observations": {
     "功效": [
@@ -33,6 +35,13 @@
         "seq": 1087,
         "note": "黑袍双珠老者评语"
       }
+    ],
+    "炼制者": [
+      {
+        "value": "不详",
+        "docId": "plot.xianni-1173-feng-yu-dong-auction-yuanjing-trade",
+        "seq": 1091
+      }
     ]
   },
   "firstSeq": 1087,
@@ -55,12 +64,19 @@
       "dated": false,
       "seq": 1087,
       "note": "黑袍双珠老者评语"
+    },
+    "炼制者": {
+      "asOf": null,
+      "docId": "plot.xianni-1173-feng-yu-dong-auction-yuanjing-trade",
+      "dated": false,
+      "seq": 1091
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1169-who-are-you-penglai-fair"
+    "plot.xianni-ch1169-who-are-you-penglai-fair",
+    "plot.xianni-1173-feng-yu-dong-auction-yuanjing-trade"
   ],
-  "updatedAt": "2026-08-24T20:57:23.050Z"
+  "updatedAt": "2026-08-24T20:59:47.539Z"
 }

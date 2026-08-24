@@ -9,9 +9,9 @@
   ],
   "summary": "云海星域通用的高阶资源/货币，可与仙玉兑换，亦为跨星域传送阵开启所需的巨额消耗品。",
   "attributes": {
-    "类型": "灵石类资源/货币、晶石、修真交易资源",
-    "用途": "坊市兑换、开启跨星域传送阵、快速回复元力、加快吐纳速度、祭炼法宝与布阵时威力倍增、王林本章交易目标、王林与欧阳隆的交易标的",
-    "稀有度": "极为稀少，多为八阶以上（尤其九阶）星域宗派掌握",
+    "类型": "灵石类资源/货币、晶石、修真交易资源、灵材/能量晶体",
+    "用途": "坊市兑换、开启跨星域传送阵、快速回复元力、加快吐纳速度、祭炼法宝与布阵时威力倍增、王林本章交易目标、王林与欧阳隆的交易标的、滋养变异灵兽、助蚊兽升级",
+    "稀有度": "极为稀少",
     "产地": "十二阶元兽体内（放养于雾气中常年累月形成）"
   },
   "observations": {
@@ -30,6 +30,11 @@
         "value": "修真交易资源",
         "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
         "seq": 1087
+      },
+      {
+        "value": "灵材/能量晶体",
+        "docId": "plot.xianni-1173-feng-yu-dong-auction-yuanjing-trade",
+        "seq": 1091
       }
     ],
     "用途": [
@@ -67,6 +72,16 @@
         "value": "王林与欧阳隆的交易标的",
         "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
         "seq": 1087
+      },
+      {
+        "value": "滋养变异灵兽",
+        "docId": "plot.xianni-1173-feng-yu-dong-auction-yuanjing-trade",
+        "seq": 1091
+      },
+      {
+        "value": "助蚊兽升级",
+        "docId": "plot.xianni-1173-feng-yu-dong-auction-yuanjing-trade",
+        "seq": 1091
       }
     ],
     "稀有度": [
@@ -74,6 +89,12 @@
         "value": "极为稀少，多为八阶以上（尤其九阶）星域宗派掌握",
         "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
         "seq": 1087
+      },
+      {
+        "value": "极为稀少",
+        "docId": "plot.xianni-1173-feng-yu-dong-auction-yuanjing-trade",
+        "seq": 1091,
+        "note": "云海星域内"
       }
     ],
     "产地": [
@@ -100,9 +121,10 @@
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+      "docId": "plot.xianni-1173-feng-yu-dong-auction-yuanjing-trade",
       "dated": false,
-      "seq": 1087
+      "seq": 1091,
+      "note": "云海星域内"
     },
     "产地": {
       "asOf": null,
@@ -115,7 +137,8 @@
   "contradictions": {},
   "docs": [
     "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
-    "plot.xianni-ch1169-who-are-you-penglai-fair"
+    "plot.xianni-ch1169-who-are-you-penglai-fair",
+    "plot.xianni-1173-feng-yu-dong-auction-yuanjing-trade"
   ],
-  "updatedAt": "2026-08-24T20:57:23.052Z"
+  "updatedAt": "2026-08-24T20:59:47.539Z"
 }
