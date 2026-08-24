@@ -6,13 +6,17 @@
     "最后一个洞府",
     "真洞府",
     "实府",
-    "仙帝洞府"
+    "仙帝洞府",
+    "Immortal Emperor Cave",
+    "仙帝洞天"
   ],
   "summary": "妖灵之地五府中唯一的实府，第一仙帝青霖之府，内有其闭关气息，姚父猜测藏有踏入道境第三步的契机。",
   "attributes": {
     "所属界面": "妖灵之地内",
-    "类型": "仙帝洞府",
-    "守护": "须四块青霖仙令同时开启四虚府大门方可进入"
+    "类型": "洞府/秘境",
+    "守护": "须四块青霖仙令同时开启四虚府大门方可进入",
+    "所属势力": "仙帝",
+    "规模": "多层，第一层为瓶中界"
   },
   "observations": {
     "所属界面": [
@@ -27,6 +31,11 @@
         "value": "仙帝洞府",
         "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
         "seq": 576
+      },
+      {
+        "value": "洞府/秘境",
+        "docId": "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
+        "seq": 941
       }
     ],
     "守护": [
@@ -34,6 +43,20 @@
         "value": "须四块青霖仙令同时开启四虚府大门方可进入",
         "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
         "seq": 576
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "仙帝",
+        "docId": "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
+        "seq": 941
+      }
+    ],
+    "规模": [
+      {
+        "value": "多层，第一层为瓶中界",
+        "docId": "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
+        "seq": 941
       }
     ]
   },
@@ -47,21 +70,34 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
+      "docId": "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
       "dated": false,
-      "seq": 576
+      "seq": 941
     },
     "守护": {
       "asOf": null,
       "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
       "dated": false,
       "seq": 576
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
+      "dated": false,
+      "seq": 941
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
+      "dated": false,
+      "seq": 941
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch616-immortal-emperor-qinglin-secret"
+    "plot.xianni-ch616-immortal-emperor-qinglin-secret",
+    "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai"
   ],
-  "updatedAt": "2026-08-22T16:18:39.253Z"
+  "updatedAt": "2026-08-24T06:30:14.100Z"
 }

@@ -5,14 +5,19 @@
   "aliases": [
     "灰色铠甲男子",
     "Ming Hai",
-    "黑沙荒漠魔修"
+    "黑沙荒漠魔修",
+    "瓶中界灵",
+    "瓶中界之灵"
   ],
   "summary": "黑沙荒漠中自称冥海的灰甲男子，魔气与仙气并存，修为不弱于净涅，持仙帝所赐白色小剑方竹。",
   "attributes": {
     "外貌": "灰色铠甲遮蔽全身，只露一双冰冷双眼",
     "标志特征": "身后魔气凝聚的狰狞魔影、魔气中隐隐缭绕仙气",
-    "性格": "声音平淡无色彩、惆怅、失望",
-    "本命法宝": "方竹"
+    "性格": "声音平淡无色彩、惆怅、失望、桀骜、爱惜奇术、长笑",
+    "本命法宝": "方竹、方竹（白色小剑）",
+    "身份": "瓶中界灵",
+    "小阶段": "修为看似相当于净涅",
+    "存殁": "存活"
   },
   "observations": {
     "外貌": [
@@ -40,12 +45,44 @@
         "value": "声音平淡无色彩、惆怅、失望",
         "docId": "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
         "seq": 941
+      },
+      {
+        "value": "桀骜、爱惜奇术、长笑",
+        "docId": "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
+        "seq": 941
       }
     ],
     "本命法宝": [
       {
         "value": "方竹",
         "docId": "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
+        "seq": 941
+      },
+      {
+        "value": "方竹（白色小剑）",
+        "docId": "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
+        "seq": 941
+      }
+    ],
+    "身份": [
+      {
+        "value": "瓶中界灵",
+        "docId": "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
+        "seq": 941
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "修为看似相当于净涅",
+        "docId": "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
+        "seq": 941,
+        "note": "原文『看似』，未确证"
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
         "seq": 941
       }
     ]
@@ -76,12 +113,32 @@
       "docId": "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
       "dated": false,
       "seq": 941
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
+      "dated": false,
+      "seq": 941
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
+      "dated": false,
+      "seq": 941,
+      "note": "原文『看似』，未确证"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
+      "dated": false,
+      "seq": 941
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1016-desert-black-tower-sanmo-pagoda"
+    "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
+    "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai"
   ],
-  "updatedAt": "2026-08-24T06:28:02.534Z"
+  "updatedAt": "2026-08-24T06:30:14.088Z"
 }

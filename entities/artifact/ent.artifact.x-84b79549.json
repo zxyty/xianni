@@ -6,14 +6,18 @@
     "方竹剑",
     "白色小剑",
     "三寸小剑",
-    "Fang Zhu"
+    "Fang Zhu",
+    "方竹小剑",
+    "白芒小剑",
+    "仙帝所赐之剑"
   ],
   "summary": "冥海眉心射出的通体白色三寸小剑，仙帝所赐，有灵，剑气隐约可破开天空。",
   "attributes": {
     "持有者": "冥海",
-    "来历": "当年仙帝所赐",
-    "外形": "通体白色三寸小剑",
-    "能力": "剑气可破开天空、剑有灵、化白芒疾驰追击"
+    "来历": "当年仙帝所赐、仙帝所赐",
+    "外形": "通体白色三寸小剑、白色小剑，冲击时化作白芒",
+    "能力": "剑气可破开天空、剑有灵、化白芒疾驰追击、剑气冲入九霄、召唤远古剑意与无数古人剑影、剑影舞剑诀汇成滔天剑意",
+    "禁制": "仅具备部分远古剑意，不足以抗古神神通"
   },
   "observations": {
     "持有者": [
@@ -28,12 +32,22 @@
         "value": "当年仙帝所赐",
         "docId": "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
         "seq": 941
+      },
+      {
+        "value": "仙帝所赐",
+        "docId": "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
+        "seq": 941
       }
     ],
     "外形": [
       {
         "value": "通体白色三寸小剑",
         "docId": "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
+        "seq": 941
+      },
+      {
+        "value": "白色小剑，冲击时化作白芒",
+        "docId": "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
         "seq": 941
       }
     ],
@@ -51,6 +65,28 @@
       {
         "value": "化白芒疾驰追击",
         "docId": "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
+        "seq": 941
+      },
+      {
+        "value": "剑气冲入九霄",
+        "docId": "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
+        "seq": 941
+      },
+      {
+        "value": "召唤远古剑意与无数古人剑影",
+        "docId": "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
+        "seq": 941
+      },
+      {
+        "value": "剑影舞剑诀汇成滔天剑意",
+        "docId": "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
+        "seq": 941
+      }
+    ],
+    "禁制": [
+      {
+        "value": "仅具备部分远古剑意，不足以抗古神神通",
+        "docId": "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
         "seq": 941
       }
     ]
@@ -80,12 +116,19 @@
       "docId": "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
       "dated": false,
       "seq": 941
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
+      "dated": false,
+      "seq": 941
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1016-desert-black-tower-sanmo-pagoda"
+    "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
+    "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai"
   ],
-  "updatedAt": "2026-08-24T06:28:02.538Z"
+  "updatedAt": "2026-08-24T06:30:14.094Z"
 }
