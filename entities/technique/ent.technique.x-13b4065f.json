@@ -4,12 +4,14 @@
   "name": "因果循环意境",
   "aliases": [
     "因果循环",
-    "一丝因果循环"
+    "一丝因果循环",
+    "因果圆满"
   ],
   "summary": "王林元神内未释放的意境，使其意境进化，除真正踏入第二步的修士外无人能看破其修为。",
   "attributes": {
-    "效果": "遮蔽修为，令第一步修士窥视如水中望月",
-    "适用境界": "非第二步修士不可看破"
+    "效果": "遮蔽修为，令第一步修士窥视如水中望月、明悟万物因果、坚定道心凝聚更深道念、视天地为一因果烘炉",
+    "适用境界": "非第二步修士不可看破",
+    "出处": "王林独自明悟"
   },
   "observations": {
     "效果": [
@@ -17,6 +19,21 @@
         "value": "遮蔽修为，令第一步修士窥视如水中望月",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
+      },
+      {
+        "value": "明悟万物因果",
+        "docId": "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
+        "seq": 1114
+      },
+      {
+        "value": "坚定道心凝聚更深道念",
+        "docId": "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
+        "seq": 1114
+      },
+      {
+        "value": "视天地为一因果烘炉",
+        "docId": "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
+        "seq": 1114
       }
     ],
     "适用境界": [
@@ -24,6 +41,13 @@
         "value": "非第二步修士不可看破",
         "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
         "seq": 661
+      }
+    ],
+    "出处": [
+      {
+        "value": "王林独自明悟",
+        "docId": "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
+        "seq": 1114
       }
     ]
   },
@@ -40,13 +64,20 @@
       "docId": "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
       "dated": false,
       "seq": 661
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
+      "dated": false,
+      "seq": 1114
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch701-wang-lin-vs-lei-daozi-thunder-power",
-    "plot.xianni-ch1165-lu-yuncong-bi-bu-liao"
+    "plot.xianni-ch1165-lu-yuncong-bi-bu-liao",
+    "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia"
   ],
-  "updatedAt": "2026-08-24T20:08:04.891Z"
+  "updatedAt": "2026-08-24T23:28:06.279Z"
 }

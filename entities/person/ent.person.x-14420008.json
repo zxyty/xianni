@@ -3,13 +3,16 @@
   "type": "person",
   "name": "月牙印记青年",
   "aliases": [
-    "眉心月牙印记的青年"
+    "眉心月牙印记的青年",
+    "眉心有月牙图腾之人",
+    "月牙图腾青年"
   ],
   "summary": "自裂缝走出的三人之一，眼露兴奋，问『这里就是你发现的空间裂缝』。",
   "attributes": {
     "性别": "男",
-    "标志特征": "眉心有月牙印记",
-    "阵营": "界外／裂缝来客"
+    "标志特征": "眉心有月牙印记、眉心月牙印记（图腾）",
+    "阵营": "界外／裂缝来客",
+    "性格": "谨慎、沉默"
   },
   "observations": {
     "性别": [
@@ -24,6 +27,11 @@
         "value": "眉心有月牙印记",
         "docId": "plot.xianni-1198-danyao-tianni-fangzhipin-yu-liefeng-sanren",
         "seq": 1114
+      },
+      {
+        "value": "眉心月牙印记（图腾）",
+        "docId": "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
+        "seq": 1114
       }
     ],
     "阵营": [
@@ -32,6 +40,13 @@
         "docId": "plot.xianni-1198-danyao-tianni-fangzhipin-yu-liefeng-sanren",
         "seq": 1114,
         "note": "身份未明"
+      }
+    ],
+    "性格": [
+      {
+        "value": "谨慎、沉默",
+        "docId": "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
+        "seq": 1114
       }
     ]
   },
@@ -55,12 +70,19 @@
       "dated": false,
       "seq": 1114,
       "note": "身份未明"
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
+      "dated": false,
+      "seq": 1114
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1198-danyao-tianni-fangzhipin-yu-liefeng-sanren"
+    "plot.xianni-1198-danyao-tianni-fangzhipin-yu-liefeng-sanren",
+    "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia"
   ],
-  "updatedAt": "2026-08-24T23:18:04.765Z"
+  "updatedAt": "2026-08-24T23:28:06.313Z"
 }

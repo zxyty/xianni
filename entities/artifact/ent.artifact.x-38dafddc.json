@@ -4,11 +4,14 @@
   "name": "掌印石碑",
   "aliases": [
     "巨大石碑",
-    "无字石碑"
+    "无字石碑",
+    "第一座山峰的石碑",
+    "沧桑石碑"
   ],
   "summary": "第六层黑雾宫殿地面上的石碑，高约两丈，通体无字，唯有一个掌印。",
   "attributes": {
-    "外形": "高约两丈，通体无字，唯有一个掌印"
+    "外形": "无字石碑",
+    "能力": "整体仿佛是一件法器"
   },
   "observations": {
     "外形": [
@@ -16,6 +19,19 @@
         "value": "高约两丈，通体无字，唯有一个掌印",
         "docId": "plot.xianni-ch1053-xukongzi-cold-sweat",
         "seq": 972
+      },
+      {
+        "value": "无字石碑",
+        "docId": "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
+        "seq": 1114
+      }
+    ],
+    "能力": [
+      {
+        "value": "整体仿佛是一件法器",
+        "docId": "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
+        "seq": 1114,
+        "note": "王林眼中沧桑消散后所见"
       }
     ]
   },
@@ -23,15 +39,23 @@
   "attrProvenance": {
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch1053-xukongzi-cold-sweat",
+      "docId": "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
       "dated": false,
-      "seq": 972
+      "seq": 1114
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
+      "dated": false,
+      "seq": 1114,
+      "note": "王林眼中沧桑消散后所见"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1053-xukongzi-cold-sweat"
+    "plot.xianni-ch1053-xukongzi-cold-sweat",
+    "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia"
   ],
-  "updatedAt": "2026-08-24T09:35:02.973Z"
+  "updatedAt": "2026-08-24T23:28:06.324Z"
 }

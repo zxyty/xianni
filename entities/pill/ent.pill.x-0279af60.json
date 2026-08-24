@@ -4,13 +4,15 @@
   "name": "十一阶丹药",
   "aliases": [
     "赤色丹药",
-    "兽魂丹药"
+    "兽魂丹药",
+    "十一阶丹",
+    "三粒十一阶丹药"
   ],
   "summary": "第一个药瓶内的三粒赤色丹药，散出剧烈兽魂波动；需碎涅中期方可服下，否则元神消散、吞丹而亡。",
   "attributes": {
     "品阶": "十一阶",
     "适用境界": "碎涅中期及以上",
-    "功效": "提升意境",
+    "功效": "提升意境、助王林明悟道念",
     "副作用": "境界不足者元神无法对抗其内凶兽之魂，元神消散、吞丹而亡"
   },
   "observations": {
@@ -32,6 +34,11 @@
       {
         "value": "提升意境",
         "docId": "plot.xianni-1198-danyao-tianni-fangzhipin-yu-liefeng-sanren",
+        "seq": 1114
+      },
+      {
+        "value": "助王林明悟道念",
+        "docId": "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
         "seq": 1114
       }
     ],
@@ -73,7 +80,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1198-danyao-tianni-fangzhipin-yu-liefeng-sanren"
+    "plot.xianni-1198-danyao-tianni-fangzhipin-yu-liefeng-sanren",
+    "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia"
   ],
-  "updatedAt": "2026-08-24T23:18:04.751Z"
+  "updatedAt": "2026-08-24T23:28:06.289Z"
 }
