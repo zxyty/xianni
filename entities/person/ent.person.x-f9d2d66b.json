@@ -17,8 +17,9 @@
     "出身地": "云海星域本土",
     "存殁": "死亡",
     "本命法宝": "拂尘法宝",
-    "死因": "肉身被王林铁剑十九剑斩碎，元神被『天运一指』击溃消散",
-    "结局": "元神化作点点晶光消散于星空"
+    "死因": "被夺得丹方玉简的神秘修士（王林）在一炷香内斩杀",
+    "结局": "元神化作点点晶光消散于星空",
+    "性别": "男"
   },
   "observations": {
     "身份": [
@@ -93,6 +94,11 @@
         "value": "肉身被王林铁剑十九剑斩碎，元神被『天运一指』击溃消散",
         "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
         "seq": 1073
+      },
+      {
+        "value": "被夺得丹方玉简的神秘修士（王林）在一炷香内斩杀",
+        "docId": "plot.xianni-1164-three-questions-lu-yuncong-li-qianmei",
+        "seq": 1082
       }
     ],
     "结局": [
@@ -100,6 +106,13 @@
         "value": "元神化作点点晶光消散于星空",
         "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
         "seq": 1073
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-1164-three-questions-lu-yuncong-li-qianmei",
+        "seq": 1082
       }
     ]
   },
@@ -143,15 +156,21 @@
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
+      "docId": "plot.xianni-1164-three-questions-lu-yuncong-li-qianmei",
       "dated": false,
-      "seq": 1073
+      "seq": 1082
     },
     "结局": {
       "asOf": null,
       "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
       "dated": false,
       "seq": 1073
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-1164-three-questions-lu-yuncong-li-qianmei",
+      "dated": false,
+      "seq": 1082
     }
   },
   "contested": false,
@@ -159,7 +178,8 @@
   "docs": [
     "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
     "plot.xianni-1155-lianzhan-wanglin-slaughters-huaqing-disciples",
-    "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain"
+    "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
+    "plot.xianni-1164-three-questions-lu-yuncong-li-qianmei"
   ],
-  "updatedAt": "2026-08-24T19:02:33.224Z"
+  "updatedAt": "2026-08-24T20:05:42.745Z"
 }
