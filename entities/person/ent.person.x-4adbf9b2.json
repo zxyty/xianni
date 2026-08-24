@@ -6,16 +6,21 @@
     "孙芸",
     "吕烟菲二弟子",
     "孙芸师姐",
-    "孙芸姑娘"
+    "孙芸姑娘",
+    "吕烟菲的弟子",
+    "归元宗女修孙芸"
   ],
   "summary": "吕烟菲二弟子，三弟子中修为最高，半只脚迈入阴虚之境，相貌秀气性格温和；本章带王林等三人前往南苑院落。",
   "attributes": {
     "性别": "女",
     "小阶段": "半只脚迈入阴虚",
     "外貌": "极为秀气",
-    "性格": "温和、冰冷，回眸时另有风姿",
-    "身份": "吕烟菲二弟子、归元派修士、两名少年修士之师尊、南苑药园主事、归元宗药院内修炼者",
-    "存殁": "存活"
+    "性格": "温和、冰冷，回眸时另有风姿、坚毅、知恩图报、不惜一切",
+    "身份": "吕烟菲二弟子、归元派修士、两名少年修士之师尊、南苑药园主事、归元宗药院内修炼者、吕烟菲的弟子",
+    "存殁": "存活",
+    "阵营": "归元宗",
+    "元神强度": "此前已受伤",
+    "标志特征": "吞丹后香汗湿衣、面色赤红"
   },
   "observations": {
     "性别": [
@@ -50,6 +55,11 @@
         "value": "冰冷，回眸时另有风姿",
         "docId": "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
         "seq": 1058
+      },
+      {
+        "value": "坚毅、知恩图报、不惜一切",
+        "docId": "plot.xianni-ch1142-jing-hun-sun-yun-ru-si-li-hun-dan",
+        "seq": 1058
       }
     ],
     "身份": [
@@ -67,12 +77,39 @@
         "value": "归元宗药院内修炼者",
         "docId": "plot.xianni-ch1141-lv-yanfei",
         "seq": 1058
+      },
+      {
+        "value": "吕烟菲的弟子",
+        "docId": "plot.xianni-ch1142-jing-hun-sun-yun-ru-si-li-hun-dan",
+        "seq": 1058
       }
     ],
     "存殁": [
       {
         "value": "存活",
         "docId": "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
+        "seq": 1058
+      }
+    ],
+    "阵营": [
+      {
+        "value": "归元宗",
+        "docId": "plot.xianni-ch1142-jing-hun-sun-yun-ru-si-li-hun-dan",
+        "seq": 1058
+      }
+    ],
+    "元神强度": [
+      {
+        "value": "此前已受伤",
+        "docId": "plot.xianni-ch1142-jing-hun-sun-yun-ru-si-li-hun-dan",
+        "seq": 1058,
+        "note": "本章吞丹前"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "吞丹后香汗湿衣、面色赤红",
+        "docId": "plot.xianni-ch1142-jing-hun-sun-yun-ru-si-li-hun-dan",
         "seq": 1058
       }
     ]
@@ -115,13 +152,33 @@
       "docId": "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
       "dated": false,
       "seq": 1058
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1142-jing-hun-sun-yun-ru-si-li-hun-dan",
+      "dated": false,
+      "seq": 1058
+    },
+    "元神强度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1142-jing-hun-sun-yun-ru-si-li-hun-dan",
+      "dated": false,
+      "seq": 1058,
+      "note": "本章吞丹前"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1142-jing-hun-sun-yun-ru-si-li-hun-dan",
+      "dated": false,
+      "seq": 1058
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
-    "plot.xianni-ch1141-lv-yanfei"
+    "plot.xianni-ch1141-lv-yanfei",
+    "plot.xianni-ch1142-jing-hun-sun-yun-ru-si-li-hun-dan"
   ],
-  "updatedAt": "2026-08-24T18:13:15.763Z"
+  "updatedAt": "2026-08-24T18:15:49.873Z"
 }
