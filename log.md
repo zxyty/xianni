@@ -522,3 +522,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T16:04:33.643Z** `ingest` plot.xianni-ch1117-qinglin-chuandao-wanglin-vs-taja — 第1117章 青霖传道：王林借空涅之力破古魔塔珈 · kind=plot asOf=2026-08-24 entities=20 relations=34 src=01034-01038.p2.md
 - **2026-08-24T16:06:49.005Z** `ingest` plot.xianni-1118-gu-mo-dao-wen — 第1118章 古魔道纹——塔珈碎星尽出，王林一滴雨化百二十八剑 · kind=plot asOf=2026-08-24 entities=20 relations=28 src=01034-01038.p3.md
 - **2026-08-24T16:09:24.242Z** `ingest` plot.xianni-1119-momo-taja-final-magic-mo-jie — 第1119章 默默：塔珈五星齐爆施展「初开·始魔道」，王林以仙术陨星破心魔 · kind=plot asOf=2026-08-24 entities=21 relations=27 src=01034-01038.p4.md
+- **2026-08-24T16:11:45.942Z** `ingest` plot.xianni-ch1120-new-rain-immortal-realm-reforged — 第1120章 新的雨界：青霖重凝仙界、收司徒南为徒，王林得第三步之种 · kind=plot asOf=2026-08-24 entities=20 relations=31 src=01034-01038.p5.md
