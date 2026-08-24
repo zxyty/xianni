@@ -10,15 +10,17 @@
     "Yue Xing",
     "月星星球",
     "月星果物产地",
-    "朱雀星外的月星"
+    "朱雀星外的月星",
+    "朱雀星外围的月星"
   ],
   "summary": "山脉众多、丛林较少、渺无人烟的星辰，无凡人，修真者亦极罕见；王林带周茹在此捕获小紫。",
   "attributes": {
     "类型": "星辰、星辰／界面、修真星、星球",
     "特产": "月星果物",
     "危险度": "无凡人、修真者罕见、战后方圆万里龟裂坍塌为巨坑、有十多丈长凶兽出没的野外山脉",
-    "方位": "朱雀星外",
-    "规模": "略小"
+    "方位": "朱雀星外围",
+    "规模": "略小",
+    "上级区域": "朱雀星"
   },
   "observations": {
     "类型": [
@@ -82,6 +84,11 @@
         "value": "朱雀星外",
         "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
         "seq": 447
+      },
+      {
+        "value": "朱雀星外围",
+        "docId": "plot.xianni-ch1125-ji-qiong-avatar-into-ancient-god-land",
+        "seq": 1039
       }
     ],
     "规模": [
@@ -89,6 +96,13 @@
         "value": "略小",
         "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
         "seq": 447
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch1125-ji-qiong-avatar-into-ancient-god-land",
+        "seq": 1039
       }
     ]
   },
@@ -114,15 +128,21 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+      "docId": "plot.xianni-ch1125-ji-qiong-avatar-into-ancient-god-land",
       "dated": false,
-      "seq": 447
+      "seq": 1039
     },
     "规模": {
       "asOf": null,
       "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
       "dated": false,
       "seq": 447
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1125-ji-qiong-avatar-into-ancient-god-land",
+      "dated": false,
+      "seq": 1039
     }
   },
   "contested": false,
@@ -131,7 +151,8 @@
     "plot.xianni-ch404-zhouru-limuwan-yuanying-conflict",
     "plot.xianni-ch409-dao-xin-shengsi-yijing-dayuanman",
     "plot.xianni-ch427-ancestral-spirit-tree",
-    "plot.xianni-ch447-451-farewell-zhuque-star"
+    "plot.xianni-ch447-451-farewell-zhuque-star",
+    "plot.xianni-ch1125-ji-qiong-avatar-into-ancient-god-land"
   ],
-  "updatedAt": "2026-08-21T05:47:06.542Z"
+  "updatedAt": "2026-08-24T16:29:26.635Z"
 }

@@ -5,13 +5,15 @@
   "aliases": [
     "苍龙阵",
     "一百零八光柱大阵",
-    "四派联盟护国大阵"
+    "四派联盟护国大阵",
+    "斗邪派苍龙大阵",
+    "以山雕刻而成的苍龙"
   ],
   "summary": "以一百零八道七彩光柱为节点、覆盖整个四派联盟的巨型阵法，由光柱下无数修士灌注灵力维持，激活后可令天云山脉化为万丈苍龙。",
   "attributes": {
-    "效果": "激活天云山脉化为体长万丈的苍龙、苍龙一啸即为决战开始的信号",
+    "效果": "激活天云山脉化为体长万丈的苍龙、苍龙一啸即为决战开始的信号、记录阵法／防御",
     "布置者": "四派联盟",
-    "出处": "四派联盟护国底牌"
+    "出处": "斗邪派"
   },
   "observations": {
     "效果": [
@@ -24,6 +26,11 @@
         "value": "苍龙一啸即为决战开始的信号",
         "docId": "plot.xianni-ch274-underground-ice-sculpture",
         "seq": 258
+      },
+      {
+        "value": "记录阵法／防御",
+        "docId": "plot.xianni-ch1125-ji-qiong-avatar-into-ancient-god-land",
+        "seq": 1039
       }
     ],
     "布置者": [
@@ -38,6 +45,11 @@
         "value": "四派联盟护国底牌",
         "docId": "plot.xianni-ch274-underground-ice-sculpture",
         "seq": 258
+      },
+      {
+        "value": "斗邪派",
+        "docId": "plot.xianni-ch1125-ji-qiong-avatar-into-ancient-god-land",
+        "seq": 1039
       }
     ]
   },
@@ -57,15 +69,16 @@
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch274-underground-ice-sculpture",
+      "docId": "plot.xianni-ch1125-ji-qiong-avatar-into-ancient-god-land",
       "dated": false,
-      "seq": 258
+      "seq": 1039
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch274-underground-ice-sculpture"
+    "plot.xianni-ch274-underground-ice-sculpture",
+    "plot.xianni-ch1125-ji-qiong-avatar-into-ancient-god-land"
   ],
-  "updatedAt": "2026-08-02T10:32:25.368Z"
+  "updatedAt": "2026-08-24T16:29:26.626Z"
 }
