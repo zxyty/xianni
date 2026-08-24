@@ -4,14 +4,15 @@
   "name": "幽冥引路",
   "aliases": [
     "仙术幽冥引路",
-    "You Ming Yin Lu"
+    "You Ming Yin Lu",
+    "幽冥引路仙术"
   ],
   "summary": "汇聚上百修士残魂中关于目的地所在的记忆思绪，凝成漩涡黑洞状指引通道、破空直达目标界面的仙术；清水称其当年最爱，因可直接杀入对方家门。",
   "attributes": {
-    "类型": "仙术·空间引路",
-    "出处": "清水（雷仙界）",
-    "威力": "破开虚空，直通目标界面",
-    "消耗": "上百名知晓目的地的修士残魂"
+    "类型": "仙术·开路/通道类",
+    "出处": "清水（清水仙君）传授",
+    "威力": "可打通离开绝地的通道，本章意外通往魔气大殿",
+    "消耗": "需以蕴含魔气的人头等物为引"
   },
   "observations": {
     "类型": [
@@ -19,6 +20,11 @@
         "value": "仙术·空间引路",
         "docId": "plot.xianni-881-884-qualification-war-scroll-second",
         "seq": 881
+      },
+      {
+        "value": "仙术·开路/通道类",
+        "docId": "plot.xianni-ch1019-wucai-butterfly-seals-mianghai-death",
+        "seq": 941
       }
     ],
     "出处": [
@@ -26,6 +32,11 @@
         "value": "清水（雷仙界）",
         "docId": "plot.xianni-881-884-qualification-war-scroll-second",
         "seq": 881
+      },
+      {
+        "value": "清水（清水仙君）传授",
+        "docId": "plot.xianni-ch1019-wucai-butterfly-seals-mianghai-death",
+        "seq": 941
       }
     ],
     "威力": [
@@ -33,6 +44,11 @@
         "value": "破开虚空，直通目标界面",
         "docId": "plot.xianni-881-884-qualification-war-scroll-second",
         "seq": 881
+      },
+      {
+        "value": "可打通离开绝地的通道，本章意外通往魔气大殿",
+        "docId": "plot.xianni-ch1019-wucai-butterfly-seals-mianghai-death",
+        "seq": 941
       }
     ],
     "消耗": [
@@ -40,6 +56,11 @@
         "value": "上百名知晓目的地的修士残魂",
         "docId": "plot.xianni-881-884-qualification-war-scroll-second",
         "seq": 881
+      },
+      {
+        "value": "需以蕴含魔气的人头等物为引",
+        "docId": "plot.xianni-ch1019-wucai-butterfly-seals-mianghai-death",
+        "seq": 941
       }
     ]
   },
@@ -47,33 +68,34 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-881-884-qualification-war-scroll-second",
+      "docId": "plot.xianni-ch1019-wucai-butterfly-seals-mianghai-death",
       "dated": false,
-      "seq": 881
+      "seq": 941
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-881-884-qualification-war-scroll-second",
+      "docId": "plot.xianni-ch1019-wucai-butterfly-seals-mianghai-death",
       "dated": false,
-      "seq": 881
+      "seq": 941
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-881-884-qualification-war-scroll-second",
+      "docId": "plot.xianni-ch1019-wucai-butterfly-seals-mianghai-death",
       "dated": false,
-      "seq": 881
+      "seq": 941
     },
     "消耗": {
       "asOf": null,
-      "docId": "plot.xianni-881-884-qualification-war-scroll-second",
+      "docId": "plot.xianni-ch1019-wucai-butterfly-seals-mianghai-death",
       "dated": false,
-      "seq": 881
+      "seq": 941
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-881-884-qualification-war-scroll-second"
+    "plot.xianni-881-884-qualification-war-scroll-second",
+    "plot.xianni-ch1019-wucai-butterfly-seals-mianghai-death"
   ],
-  "updatedAt": "2026-08-23T22:14:20.090Z"
+  "updatedAt": "2026-08-24T06:32:45.657Z"
 }

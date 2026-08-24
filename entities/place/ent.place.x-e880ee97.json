@@ -14,13 +14,15 @@
     "荒无人烟的黑沙荒漠",
     "黑沙荒漠魔气之地",
     "黑沙荒漠战场",
-    "瓶中界黑沙荒漠"
+    "瓶中界黑沙荒漠",
+    "残骸般的黑沙荒漠",
+    "黑沙荒漠绝地"
   ],
   "summary": "四周平坦、遍布黑色沙土的荒漠，旋风于此呼啸成串袭来；其环境让王林联想到当年的古神之地。",
   "attributes": {
-    "类型": "荒漠/险地、绝地/困牢式荒漠、荒漠/禁地、荒漠、荒漠·魔气之地、荒漠/战场",
-    "危险度": "高（成串旋风可将寻常修士撕成四分五裂，连元神都无法逃出）、极高（灰气、灰光、升空崩溃、元神魔化）、极高——神识散开会引来从天而降的灰光、高（散魔塔与沙土傀儡守卫）、高（魔气影响修士心性，行动高度受限于二十丈以下）、极高",
-    "特产": "黑色沙土、魔气、环境自然形成的魔气、黑沙、浓郁魔气、黑风、仙帝神通所化黑沙、灰气",
+    "类型": "荒漠/险地、绝地/困牢式荒漠、荒漠/禁地、荒漠、荒漠·魔气之地、荒漠/战场、荒漠绝地",
+    "危险度": "高（成串旋风可将寻常修士撕成四分五裂，连元神都无法逃出）、极高（灰气、灰光、升空崩溃、元神魔化）、极高——神识散开会引来从天而降的灰光、高（散魔塔与沙土傀儡守卫）、高（魔气影响修士心性，行动高度受限于二十丈以下）、极高、极高（焚天之火吞噬一切）",
+    "特产": "黑色沙土、魔气、环境自然形成的魔气、黑沙、浓郁魔气、黑风、仙帝神通所化黑沙、灰气、焚天之火、被焚熔的黑水",
     "所属势力": "仙帝青霖洞府",
     "上级区域": "仙帝青霖洞府、仙帝青霖洞府（第五座洞府）、第五座洞府",
     "规模": "无边无际，王林半年未走出",
@@ -58,6 +60,11 @@
         "value": "荒漠/战场",
         "docId": "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
         "seq": 941
+      },
+      {
+        "value": "荒漠绝地",
+        "docId": "plot.xianni-ch1019-wucai-butterfly-seals-mianghai-death",
+        "seq": 941
       }
     ],
     "危险度": [
@@ -89,6 +96,11 @@
       {
         "value": "极高",
         "docId": "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
+        "seq": 941
+      },
+      {
+        "value": "极高（焚天之火吞噬一切）",
+        "docId": "plot.xianni-ch1019-wucai-butterfly-seals-mianghai-death",
         "seq": 941
       }
     ],
@@ -131,6 +143,11 @@
       {
         "value": "灰气",
         "docId": "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
+        "seq": 941
+      },
+      {
+        "value": "焚天之火、被焚熔的黑水",
+        "docId": "plot.xianni-ch1019-wucai-butterfly-seals-mianghai-death",
         "seq": 941
       }
     ],
@@ -241,7 +258,8 @@
   "docs": [
     "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
     "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
-    "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai"
+    "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
+    "plot.xianni-ch1019-wucai-butterfly-seals-mianghai-death"
   ],
-  "updatedAt": "2026-08-24T06:30:14.101Z"
+  "updatedAt": "2026-08-24T06:32:45.660Z"
 }

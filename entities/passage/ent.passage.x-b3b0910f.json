@@ -4,14 +4,16 @@
   "name": "幽冥引路通道",
   "aliases": [
     "残魂漩涡通道",
-    "幽冥黑洞通道"
+    "幽冥黑洞通道",
+    "暗红色漩涡通道",
+    "魔气通道"
   ],
   "summary": "由幽冥引路凝聚上百残魂记忆形成的漩涡黑洞通道，破开虚空自星空直通杀域界。",
   "attributes": {
-    "类型": "仙术开辟的临时空间通道",
-    "两端": "星空巨石处 ↔ 杀域界",
-    "稳定性": "临时",
-    "来历": "清水以仙术幽冥引路凝聚上百杀域界修士残魂而成"
+    "类型": "术法开辟的空间通道",
+    "两端": "黑塔（黑沙荒漠）—魔气大殿",
+    "稳定性": "临时开辟，漩涡涌出浓郁魔气",
+    "来历": "王林以幽冥引路仙术、以魔气人头为引开辟"
   },
   "observations": {
     "类型": [
@@ -19,6 +21,11 @@
         "value": "仙术开辟的临时空间通道",
         "docId": "plot.xianni-881-884-qualification-war-scroll-second",
         "seq": 881
+      },
+      {
+        "value": "术法开辟的空间通道",
+        "docId": "plot.xianni-ch1019-wucai-butterfly-seals-mianghai-death",
+        "seq": 941
       }
     ],
     "两端": [
@@ -26,6 +33,11 @@
         "value": "星空巨石处 ↔ 杀域界",
         "docId": "plot.xianni-881-884-qualification-war-scroll-second",
         "seq": 881
+      },
+      {
+        "value": "黑塔（黑沙荒漠）—魔气大殿",
+        "docId": "plot.xianni-ch1019-wucai-butterfly-seals-mianghai-death",
+        "seq": 941
       }
     ],
     "稳定性": [
@@ -33,6 +45,11 @@
         "value": "临时",
         "docId": "plot.xianni-881-884-qualification-war-scroll-second",
         "seq": 881
+      },
+      {
+        "value": "临时开辟，漩涡涌出浓郁魔气",
+        "docId": "plot.xianni-ch1019-wucai-butterfly-seals-mianghai-death",
+        "seq": 941
       }
     ],
     "来历": [
@@ -40,6 +57,11 @@
         "value": "清水以仙术幽冥引路凝聚上百杀域界修士残魂而成",
         "docId": "plot.xianni-881-884-qualification-war-scroll-second",
         "seq": 881
+      },
+      {
+        "value": "王林以幽冥引路仙术、以魔气人头为引开辟",
+        "docId": "plot.xianni-ch1019-wucai-butterfly-seals-mianghai-death",
+        "seq": 941
       }
     ]
   },
@@ -47,33 +69,34 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-881-884-qualification-war-scroll-second",
+      "docId": "plot.xianni-ch1019-wucai-butterfly-seals-mianghai-death",
       "dated": false,
-      "seq": 881
+      "seq": 941
     },
     "两端": {
       "asOf": null,
-      "docId": "plot.xianni-881-884-qualification-war-scroll-second",
+      "docId": "plot.xianni-ch1019-wucai-butterfly-seals-mianghai-death",
       "dated": false,
-      "seq": 881
+      "seq": 941
     },
     "稳定性": {
       "asOf": null,
-      "docId": "plot.xianni-881-884-qualification-war-scroll-second",
+      "docId": "plot.xianni-ch1019-wucai-butterfly-seals-mianghai-death",
       "dated": false,
-      "seq": 881
+      "seq": 941
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-881-884-qualification-war-scroll-second",
+      "docId": "plot.xianni-ch1019-wucai-butterfly-seals-mianghai-death",
       "dated": false,
-      "seq": 881
+      "seq": 941
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-881-884-qualification-war-scroll-second"
+    "plot.xianni-881-884-qualification-war-scroll-second",
+    "plot.xianni-ch1019-wucai-butterfly-seals-mianghai-death"
   ],
-  "updatedAt": "2026-08-23T22:14:20.097Z"
+  "updatedAt": "2026-08-24T06:32:45.662Z"
 }
