@@ -5,15 +5,17 @@
   "aliases": [
     "雨界之尊殿",
     "尊殿",
-    "青色大殿"
+    "青色大殿",
+    "雨界大殿"
   ],
   "summary": "青霖夺舍前遗言中提及的所在，与「元神结晶」「青霜之血」并列，用途未明。",
   "attributes": {
-    "类型": "尊殿",
+    "类型": "大殿",
     "所属界面": "雨界",
     "方位": "重叠碎片最下层之下的虚无中",
     "危险度": "极高（雨界全崩后将化作吞噬一切的漩涡）",
-    "守护": "无（大殿完好无损、自行飘移）"
+    "守护": "无（大殿完好无损、自行飘移）",
+    "所属势力": "雨界"
   },
   "observations": {
     "类型": [
@@ -31,6 +33,11 @@
         "value": "尊殿",
         "docId": "plot.xianni-ch1115-wanglin-farewell-sizongzong-yujie-zundian-qinglin-body",
         "seq": 1029
+      },
+      {
+        "value": "大殿",
+        "docId": "plot.xianni-1116-qinglin-revival-formation-wang-blood",
+        "seq": 1034
       }
     ],
     "所属界面": [
@@ -65,15 +72,22 @@
         "docId": "plot.xianni-ch1115-wanglin-farewell-sizongzong-yujie-zundian-qinglin-body",
         "seq": 1029
       }
+    ],
+    "所属势力": [
+      {
+        "value": "雨界",
+        "docId": "plot.xianni-1116-qinglin-revival-formation-wang-blood",
+        "seq": 1034
+      }
     ]
   },
   "firstSeq": 982,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1115-wanglin-farewell-sizongzong-yujie-zundian-qinglin-body",
+      "docId": "plot.xianni-1116-qinglin-revival-formation-wang-blood",
       "dated": false,
-      "seq": 1029
+      "seq": 1034
     },
     "所属界面": {
       "asOf": null,
@@ -98,6 +112,12 @@
       "docId": "plot.xianni-ch1115-wanglin-farewell-sizongzong-yujie-zundian-qinglin-body",
       "dated": false,
       "seq": 1029
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-1116-qinglin-revival-formation-wang-blood",
+      "dated": false,
+      "seq": 1034
     }
   },
   "contested": false,
@@ -105,7 +125,8 @@
   "docs": [
     "plot.xianni-1063-qinglin-duoshe-qian-de-yiju-hua",
     "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell",
-    "plot.xianni-ch1115-wanglin-farewell-sizongzong-yujie-zundian-qinglin-body"
+    "plot.xianni-ch1115-wanglin-farewell-sizongzong-yujie-zundian-qinglin-body",
+    "plot.xianni-1116-qinglin-revival-formation-wang-blood"
   ],
-  "updatedAt": "2026-08-24T15:59:22.141Z"
+  "updatedAt": "2026-08-24T16:01:58.849Z"
 }

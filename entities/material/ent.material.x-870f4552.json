@@ -3,12 +3,15 @@
   "type": "material",
   "name": "圣器之血",
   "aliases": [
-    "圣器血"
+    "圣器血",
+    "青霖眉心鲜血",
+    "封印之血"
   ],
   "summary": "留在青霖肉身眉心上的圣器之血，老圣皇言王林可随时取下。",
   "attributes": {
-    "类型": "圣器相关之血",
-    "产地": "青霖肉身眉心"
+    "类型": "封印之血",
+    "产地": "青霖肉身眉心",
+    "用途": "封印古魔塔珈／镇压魔气"
   },
   "observations": {
     "类型": [
@@ -16,6 +19,11 @@
         "value": "圣器相关之血",
         "docId": "plot.xianni-ch1090-mo-zhi-reappears",
         "seq": 1006
+      },
+      {
+        "value": "封印之血",
+        "docId": "plot.xianni-1116-qinglin-revival-formation-wang-blood",
+        "seq": 1034
       }
     ],
     "产地": [
@@ -25,15 +33,22 @@
         "seq": 1006,
         "note": "老圣皇称王林可随时取下"
       }
+    ],
+    "用途": [
+      {
+        "value": "封印古魔塔珈／镇压魔气",
+        "docId": "plot.xianni-1116-qinglin-revival-formation-wang-blood",
+        "seq": 1034
+      }
     ]
   },
   "firstSeq": 1006,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1090-mo-zhi-reappears",
+      "docId": "plot.xianni-1116-qinglin-revival-formation-wang-blood",
       "dated": false,
-      "seq": 1006
+      "seq": 1034
     },
     "产地": {
       "asOf": null,
@@ -41,12 +56,19 @@
       "dated": false,
       "seq": 1006,
       "note": "老圣皇称王林可随时取下"
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.xianni-1116-qinglin-revival-formation-wang-blood",
+      "dated": false,
+      "seq": 1034
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1090-mo-zhi-reappears"
+    "plot.xianni-ch1090-mo-zhi-reappears",
+    "plot.xianni-1116-qinglin-revival-formation-wang-blood"
   ],
-  "updatedAt": "2026-08-24T13:25:48.836Z"
+  "updatedAt": "2026-08-24T16:01:58.848Z"
 }
