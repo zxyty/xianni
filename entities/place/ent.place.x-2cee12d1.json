@@ -7,13 +7,17 @@
     "朱雀圣宗主星",
     "朱雀主星",
     "燃烧的修真星",
-    "朱雀圣宗主星球"
+    "朱雀圣宗主星球",
+    "朱雀圣宗的修真星",
+    "朱雀圣宗主星修真星"
   ],
   "summary": "王林巡行的终点主星，也是任涛所在之地，任涛在此发起挑战并被灭杀。",
   "attributes": {
     "所属势力": "朱雀圣宗",
-    "类型": "修真主星、修真星、宗门主星",
-    "特产": "火山、炙热气息"
+    "类型": "修真主星、修真星、宗门主星、修真星（主星）",
+    "特产": "火山、炙热气息",
+    "方位": "距王林所在修真星不远",
+    "规模": "山脉众多，火红一片"
   },
   "observations": {
     "所属势力": [
@@ -38,6 +42,11 @@
         "value": "宗门主星",
         "docId": "plot.xianni-1096-jingtian-yinmi-limo-baiyi-lundao",
         "seq": 1014
+      },
+      {
+        "value": "修真星（主星）",
+        "docId": "plot.xianni-ch1099-wailai-refine-killing-sword",
+        "seq": 1014
       }
     ],
     "特产": [
@@ -45,6 +54,20 @@
         "value": "火山、炙热气息",
         "docId": "plot.xianni-ch1092-wang-lin-plans-zhuque-holy-emperor",
         "seq": 1009
+      }
+    ],
+    "方位": [
+      {
+        "value": "距王林所在修真星不远",
+        "docId": "plot.xianni-ch1099-wailai-refine-killing-sword",
+        "seq": 1014
+      }
+    ],
+    "规模": [
+      {
+        "value": "山脉众多，火红一片",
+        "docId": "plot.xianni-ch1099-wailai-refine-killing-sword",
+        "seq": 1014
       }
     ]
   },
@@ -67,6 +90,18 @@
       "docId": "plot.xianni-ch1092-wang-lin-plans-zhuque-holy-emperor",
       "dated": false,
       "seq": 1009
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1099-wailai-refine-killing-sword",
+      "dated": false,
+      "seq": 1014
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1099-wailai-refine-killing-sword",
+      "dated": false,
+      "seq": 1014
     }
   },
   "contested": false,
@@ -74,7 +109,8 @@
   "docs": [
     "plot.xianni-1091-san-shi-huo-yuan-zhi-wei",
     "plot.xianni-ch1092-wang-lin-plans-zhuque-holy-emperor",
-    "plot.xianni-1096-jingtian-yinmi-limo-baiyi-lundao"
+    "plot.xianni-1096-jingtian-yinmi-limo-baiyi-lundao",
+    "plot.xianni-ch1099-wailai-refine-killing-sword"
   ],
-  "updatedAt": "2026-08-24T14:49:16.226Z"
+  "updatedAt": "2026-08-24T15:06:39.336Z"
 }

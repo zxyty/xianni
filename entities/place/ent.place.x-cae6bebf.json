@@ -3,12 +3,15 @@
   "type": "place",
   "name": "朱雀圣宗城池",
   "aliases": [
-    "尘道子饮酒的城池"
+    "尘道子饮酒的城池",
+    "朱雀圣宗的一座城池",
+    "城墙"
   ],
   "summary": "位于炼魂宗所在修真星上的朱雀圣宗城池，尘道子三年来在其城墙头饮酒痛哭。",
   "attributes": {
     "所属势力": "朱雀圣宗",
-    "类型": "城池"
+    "类型": "城池",
+    "方位": "朱雀圣宗主星（其修真星）上"
   },
   "observations": {
     "所属势力": [
@@ -23,6 +26,13 @@
         "value": "城池",
         "docId": "plot.xianni-1087-jiuxuan-first-transformation",
         "seq": 1006
+      }
+    ],
+    "方位": [
+      {
+        "value": "朱雀圣宗主星（其修真星）上",
+        "docId": "plot.xianni-ch1099-wailai-refine-killing-sword",
+        "seq": 1014
       }
     ]
   },
@@ -39,12 +49,19 @@
       "docId": "plot.xianni-1087-jiuxuan-first-transformation",
       "dated": false,
       "seq": 1006
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1099-wailai-refine-killing-sword",
+      "dated": false,
+      "seq": 1014
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1087-jiuxuan-first-transformation"
+    "plot.xianni-1087-jiuxuan-first-transformation",
+    "plot.xianni-ch1099-wailai-refine-killing-sword"
   ],
-  "updatedAt": "2026-08-24T13:18:51.263Z"
+  "updatedAt": "2026-08-24T15:06:39.338Z"
 }
