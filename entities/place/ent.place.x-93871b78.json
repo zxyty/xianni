@@ -11,7 +11,8 @@
     "Cultivation Alliance HQ",
     "漂浮在漩涡之上的星球",
     "总部深处星球",
-    "修真联盟总部外围"
+    "修真联盟总部外围",
+    "修真联盟总部大阵"
   ],
   "summary": "杀域界绝大部分净涅修士本章前往之地，导致杀域界防务空虚、无法施展九十九剑之阵。",
   "attributes": {
@@ -20,8 +21,8 @@
     "规模": "一百七十三颗巨大修真星",
     "所属界面": "联盟星域",
     "上级区域": "联盟星域",
-    "方位": "联盟星域的中心部分",
-    "守护": "滔天大阵",
+    "方位": "联盟星域中心部位",
+    "守护": "外围封锁大阵",
     "危险度": "封锁中"
   },
   "observations": {
@@ -95,6 +96,11 @@
         "value": "联盟星域的中心部分",
         "docId": "plot.xianni-1086-qingshui-news-zhuque-recovery",
         "seq": 1006
+      },
+      {
+        "value": "联盟星域中心部位",
+        "docId": "plot.xianni-ch1108-ancient-immortal-domain-aura",
+        "seq": 1024
       }
     ],
     "守护": [
@@ -107,6 +113,11 @@
         "value": "滔天大阵",
         "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
         "seq": 1002
+      },
+      {
+        "value": "外围封锁大阵",
+        "docId": "plot.xianni-ch1108-ancient-immortal-domain-aura",
+        "seq": 1024
       }
     ],
     "危险度": [
@@ -157,15 +168,15 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-1086-qingshui-news-zhuque-recovery",
+      "docId": "plot.xianni-ch1108-ancient-immortal-domain-aura",
       "dated": false,
-      "seq": 1006
+      "seq": 1024
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+      "docId": "plot.xianni-ch1108-ancient-immortal-domain-aura",
       "dated": false,
-      "seq": 1002
+      "seq": 1024
     },
     "危险度": {
       "asOf": null,
@@ -186,7 +197,8 @@
     "plot.xianni-1075-zhenling-ronghe-zhuque-juexing",
     "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
     "plot.xianni-1086-qingshui-news-zhuque-recovery",
-    "plot.xianni-1096-jingtian-yinmi-limo-baiyi-lundao"
+    "plot.xianni-1096-jingtian-yinmi-limo-baiyi-lundao",
+    "plot.xianni-ch1108-ancient-immortal-domain-aura"
   ],
-  "updatedAt": "2026-08-24T14:49:16.269Z"
+  "updatedAt": "2026-08-24T15:31:46.004Z"
 }

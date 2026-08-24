@@ -4,12 +4,17 @@
   "name": "道袍青年",
   "aliases": [
     "身穿道袍的青年",
-    "修士联盟道袍青年"
+    "修士联盟道袍青年",
+    "持镜掐算的青年",
+    "古魔石像头顶的青年",
+    "天劫中所见道袍青年"
   ],
   "summary": "修士联盟一方仗势喝问王林姓名的青年，被王林目光所慑当场喷血、言语被生生顶回。",
   "attributes": {
     "外貌": "身穿道袍的青年",
-    "阵营": "修士联盟"
+    "阵营": "修士联盟",
+    "标志特征": "手持一面镜子掐算、双目射出青黑之芒",
+    "身份": "『马师伯』一脉门下"
   },
   "observations": {
     "外貌": [
@@ -24,6 +29,26 @@
         "value": "修士联盟",
         "docId": "plot.xianni-ch621-yi-dai-zong-shi-wang-lin-po-zhang-qi-ru-xiu-shi-lian-meng",
         "seq": 581
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "手持一面镜子掐算",
+        "docId": "plot.xianni-ch1108-ancient-immortal-domain-aura",
+        "seq": 1024
+      },
+      {
+        "value": "双目射出青黑之芒",
+        "docId": "plot.xianni-ch1108-ancient-immortal-domain-aura",
+        "seq": 1024
+      }
+    ],
+    "身份": [
+      {
+        "value": "『马师伯』一脉门下",
+        "docId": "plot.xianni-ch1108-ancient-immortal-domain-aura",
+        "seq": 1024,
+        "note": "仅据其自语推断"
       }
     ]
   },
@@ -40,12 +65,26 @@
       "docId": "plot.xianni-ch621-yi-dai-zong-shi-wang-lin-po-zhang-qi-ru-xiu-shi-lian-meng",
       "dated": false,
       "seq": 581
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1108-ancient-immortal-domain-aura",
+      "dated": false,
+      "seq": 1024
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1108-ancient-immortal-domain-aura",
+      "dated": false,
+      "seq": 1024,
+      "note": "仅据其自语推断"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch621-yi-dai-zong-shi-wang-lin-po-zhang-qi-ru-xiu-shi-lian-meng"
+    "plot.xianni-ch621-yi-dai-zong-shi-wang-lin-po-zhang-qi-ru-xiu-shi-lian-meng",
+    "plot.xianni-ch1108-ancient-immortal-domain-aura"
   ],
-  "updatedAt": "2026-08-22T16:43:55.916Z"
+  "updatedAt": "2026-08-24T15:31:45.978Z"
 }

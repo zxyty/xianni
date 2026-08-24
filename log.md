@@ -510,3 +510,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T15:20:19.708Z** `ingest` plot.xianni-ch1105-shan-beng-devour-heavenly-tribulation — 第1105章 山崩：王林碎石星域捏碎天劫、吞噬九雷轰碎青光罩 · kind=plot asOf=2026-08-24 entities=14 relations=22 src=01019-01023.p5.md
 - **2026-08-24T15:22:21.988Z** `ingest` plot.xianni-1106-yi-shan-er-beng — 第1106章 一山二崩：王林以山崩仙术屠灭云海星域修士 · kind=plot asOf=2026-08-24 entities=15 relations=23 src=01024-01028.p1.md
 - **2026-08-24T15:24:22.680Z** `ingest` plot.xianni-ch1107-yu-tian-zheng-thunder-fire-tribulation — 第1107章 与天争：王林朱雀铠抗火劫、山崩灭天冲劫云、争雷争火引出血劫 · kind=plot asOf=2026-08-24 entities=13 relations=15 src=01024-01028.p2.md
+- **2026-08-24T15:31:46.276Z** `ingest` plot.xianni-ch1108-ancient-immortal-domain-aura — 第1108章 远古仙域的气息：王林破劫云、窥见古神石像之地 · kind=plot asOf=2026-08-24 entities=50 relations=64 src=01024-01028.p3.md
