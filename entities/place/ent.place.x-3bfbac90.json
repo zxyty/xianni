@@ -6,11 +6,12 @@
     "云海星雾",
     "星海星雾",
     "紫色大陆附近星雾",
-    "星空星雾"
+    "星空星雾",
+    "star mist"
   ],
   "summary": "云海星域星海之中弥漫的雾，其内是属于灵兽的世界，修士入内狩猎以获本命灵兽。",
   "attributes": {
-    "类型": "星空天地之气",
+    "类型": "星空雾气",
     "上级区域": "云海星域",
     "危险度": "高",
     "特产": "星虎兽（已灭绝）"
@@ -31,6 +32,11 @@
         "value": "星空天地之气",
         "docId": "plot.xianni-1158-chong-ning-shen-gu",
         "seq": 1073
+      },
+      {
+        "value": "星空雾气",
+        "docId": "plot.xianni-1159-bone-flesh-tribulation-beast-slaughter",
+        "seq": 1077
       }
     ],
     "上级区域": [
@@ -64,9 +70,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1158-chong-ning-shen-gu",
+      "docId": "plot.xianni-1159-bone-flesh-tribulation-beast-slaughter",
       "dated": false,
-      "seq": 1073
+      "seq": 1077
     },
     "上级区域": {
       "asOf": null,
@@ -92,7 +98,8 @@
   "docs": [
     "plot.xianni-ch1141-lv-yanfei",
     "plot.xianni-1146-tianni-second-perfection-hope",
-    "plot.xianni-1158-chong-ning-shen-gu"
+    "plot.xianni-1158-chong-ning-shen-gu",
+    "plot.xianni-1159-bone-flesh-tribulation-beast-slaughter"
   ],
-  "updatedAt": "2026-08-24T19:06:34.733Z"
+  "updatedAt": "2026-08-24T19:43:24.697Z"
 }

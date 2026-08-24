@@ -9,13 +9,15 @@
     "凶兽",
     "地魔北界荒兽",
     "云海凶兽",
-    "星雾凶兽"
+    "星雾凶兽",
+    "云海星域凶兽"
   ],
   "summary": "妖灵之兽在黑雨淋洒下实力攀升后出现的更强兽类。",
   "attributes": {
-    "栖息地": "修魔海、古神之地通道内、古神之地通道更深处、地星北界百万里丛莽之山、地魔北界深处、地魔北界深处三十万里内",
-    "等级": "高于寻常灵兽、相当于大神通修士、有相当于问鼎境者、最强者相当于问鼎修士",
-    "天敌": "修士"
+    "栖息地": "修魔海、古神之地通道内、古神之地通道更深处、地星北界百万里丛莽之山、地魔北界深处、地魔北界深处三十万里内、云海星域星雾",
+    "等级": "高于寻常灵兽、相当于大神通修士、有相当于问鼎境者、最强者相当于问鼎修士、五阶、六阶、七阶、八阶",
+    "天敌": "修士",
+    "能力": "嗜食血晶，肉身被毁后生机散逸"
   },
   "observations": {
     "栖息地": [
@@ -48,6 +50,11 @@
         "value": "地魔北界深处三十万里内",
         "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
         "seq": 491
+      },
+      {
+        "value": "云海星域星雾",
+        "docId": "plot.xianni-1159-bone-flesh-tribulation-beast-slaughter",
+        "seq": 1077
       }
     ],
     "等级": [
@@ -70,6 +77,26 @@
         "value": "最强者相当于问鼎修士",
         "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
         "seq": 491
+      },
+      {
+        "value": "五阶",
+        "docId": "plot.xianni-1159-bone-flesh-tribulation-beast-slaughter",
+        "seq": 1077
+      },
+      {
+        "value": "六阶",
+        "docId": "plot.xianni-1159-bone-flesh-tribulation-beast-slaughter",
+        "seq": 1077
+      },
+      {
+        "value": "七阶",
+        "docId": "plot.xianni-1159-bone-flesh-tribulation-beast-slaughter",
+        "seq": 1077
+      },
+      {
+        "value": "八阶",
+        "docId": "plot.xianni-1159-bone-flesh-tribulation-beast-slaughter",
+        "seq": 1077
       }
     ],
     "天敌": [
@@ -77,6 +104,13 @@
         "value": "修士",
         "docId": "plot.xianni-ch1143-purple-qi-from-west",
         "seq": 1058
+      }
+    ],
+    "能力": [
+      {
+        "value": "嗜食血晶，肉身被毁后生机散逸",
+        "docId": "plot.xianni-1159-bone-flesh-tribulation-beast-slaughter",
+        "seq": 1077
       }
     ]
   },
@@ -99,6 +133,12 @@
       "docId": "plot.xianni-ch1143-purple-qi-from-west",
       "dated": false,
       "seq": 1058
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-1159-bone-flesh-tribulation-beast-slaughter",
+      "dated": false,
+      "seq": 1077
     }
   },
   "contested": false,
@@ -109,7 +149,8 @@
     "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
     "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
     "plot.xianni-ch514-target-donghai-yaoling-gate",
-    "plot.xianni-ch1143-purple-qi-from-west"
+    "plot.xianni-ch1143-purple-qi-from-west",
+    "plot.xianni-1159-bone-flesh-tribulation-beast-slaughter"
   ],
-  "updatedAt": "2026-08-24T18:18:43.162Z"
+  "updatedAt": "2026-08-24T19:43:24.701Z"
 }

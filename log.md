@@ -557,3 +557,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T19:02:33.546Z** `ingest` plot.xianni-ch1156-leave-vortex-qian-guizhong-slain — 第1156章 离开漩涡：十九剑斩钱贵钟，天运一指灭其元神，王林返归元宗 · kind=plot asOf=2026-08-24 entities=35 relations=43 src=01073-01076.p2.md
 - **2026-08-24T19:04:44.612Z** `ingest` plot.xianni-ch1157-yi-sun-liang-jie-gu-jie — 第1157章 一损两劫：王林本尊在归元宗地下渡古神骨劫 · kind=plot asOf=2026-08-24 entities=15 relations=21 src=01073-01076.p3.md
 - **2026-08-24T19:06:35.041Z** `ingest` plot.xianni-1158-chong-ning-shen-gu — 第1158章 重凝神骨——王林本尊硬抗骨劫，抽空莫罗大陆元力重铸古神之骨 · kind=plot asOf=2026-08-24 entities=14 relations=19 src=01073-01076.p4.md
+- **2026-08-24T19:43:24.968Z** `ingest` plot.xianni-1159-bone-flesh-tribulation-beast-slaughter — 仙逆 第1159章 威！——肉劫降临与莫罗大陆屠凶兽夺生机 · kind=plot asOf=2026-08-24 entities=17 relations=27 src=01077-01081.p1.md
