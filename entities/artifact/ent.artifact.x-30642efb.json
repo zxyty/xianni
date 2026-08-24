@@ -6,16 +6,17 @@
     "神宗魔甲",
     "四品神魔甲",
     "Shen Mo Jia",
-    "苍松子的神魔甲"
+    "苍松子的神魔甲",
+    "神魔战甲"
   ],
   "summary": "王林所有的漆黑铠甲，封印解开后魔气滔天、天地色变、天空现巨大黑色漩涡；被众修认出是传说中唯有神宗之人才可拥有的神魔甲，因魔气极浓推断为四品。",
   "attributes": {
     "品阶": "四品",
     "持有者": "苍松子",
-    "外形": "黑色铠甲，魔气缭绕",
+    "外形": "甲胄",
     "禁制": "外覆层层封印禁制，由王林掐诀解开",
     "来历": "唯神宗之人可拥有，绝少外传",
-    "能力": "抗压护体，助行阵中、护体抗压（助其在封天阵中行至九步）"
+    "能力": "抗压护体，助行阵中、护体抗压（助其在封天阵中行至九步）、护身"
   },
   "observations": {
     "品阶": [
@@ -48,6 +49,11 @@
         "value": "黑色铠甲，魔气缭绕",
         "docId": "plot.xianni-1185-nine-step-sealing-heaven-formation",
         "seq": 1100
+      },
+      {
+        "value": "甲胄",
+        "docId": "plot.xianni-1188-dao-jing-ming-zhi-zhe",
+        "seq": 1105
       }
     ],
     "禁制": [
@@ -75,6 +81,11 @@
         "value": "护体抗压（助其在封天阵中行至九步）",
         "docId": "plot.xianni-1186-nine-step-seal-heaven-formation-broken",
         "seq": 1100
+      },
+      {
+        "value": "护身",
+        "docId": "plot.xianni-1188-dao-jing-ming-zhi-zhe",
+        "seq": 1105
       }
     ]
   },
@@ -95,9 +106,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-1185-nine-step-sealing-heaven-formation",
+      "docId": "plot.xianni-1188-dao-jing-ming-zhi-zhe",
       "dated": false,
-      "seq": 1100
+      "seq": 1105
     },
     "禁制": {
       "asOf": null,
@@ -124,7 +135,8 @@
   "docs": [
     "plot.xianni-1177-shenmojia-auction-yunhai",
     "plot.xianni-1185-nine-step-sealing-heaven-formation",
-    "plot.xianni-1186-nine-step-seal-heaven-formation-broken"
+    "plot.xianni-1186-nine-step-seal-heaven-formation-broken",
+    "plot.xianni-1188-dao-jing-ming-zhi-zhe"
   ],
-  "updatedAt": "2026-08-24T21:42:10.959Z"
+  "updatedAt": "2026-08-24T22:46:29.706Z"
 }

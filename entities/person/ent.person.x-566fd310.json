@@ -5,12 +5,14 @@
   "aliases": [
     "灰衣人",
     "七彩界迷失者",
-    "Lost One"
+    "Lost One",
+    "迷失之人"
   ],
   "summary": "七彩界中的诡异存在：灰衣、身体半透明可见血肉、无发、双目无生气；能腐化吞噬尸体血肉，并夺取修士道境使其沦为同类。",
   "attributes": {
     "外貌": "身穿灰衣、衣下身体半透明可见血肉、无头发、双目无生气",
-    "标志特征": "所过之处寒气弥漫、夺取修士道境、尸体腐化为血水涌入其体内"
+    "标志特征": "所过之处寒气弥漫、夺取修士道境、尸体腐化为血水涌入其体内",
+    "身份": "失道者"
   },
   "observations": {
     "外貌": [
@@ -36,6 +38,13 @@
         "docId": "plot.xianni-1184-qicai-jie-mishizhe-duanmu-tongzi",
         "seq": 1100
       }
+    ],
+    "身份": [
+      {
+        "value": "失道者",
+        "docId": "plot.xianni-1188-dao-jing-ming-zhi-zhe",
+        "seq": 1105
+      }
     ]
   },
   "firstSeq": 1100,
@@ -51,12 +60,19 @@
       "docId": "plot.xianni-1184-qicai-jie-mishizhe-duanmu-tongzi",
       "dated": false,
       "seq": 1100
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-1188-dao-jing-ming-zhi-zhe",
+      "dated": false,
+      "seq": 1105
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1184-qicai-jie-mishizhe-duanmu-tongzi"
+    "plot.xianni-1184-qicai-jie-mishizhe-duanmu-tongzi",
+    "plot.xianni-1188-dao-jing-ming-zhi-zhe"
   ],
-  "updatedAt": "2026-08-24T21:37:47.791Z"
+  "updatedAt": "2026-08-24T22:46:29.698Z"
 }
