@@ -11,10 +11,10 @@
   ],
   "summary": "云海星域通用的高阶资源/货币，可与仙玉兑换，亦为跨星域传送阵开启所需的巨额消耗品。",
   "attributes": {
-    "类型": "灵石类资源/货币、晶石、修真交易资源、灵材/能量晶体、修士遗留之物、货币/能量结晶、修炼资源／通货、货币、修真通货／晶石、报酬/资源",
+    "类型": "灵石类资源/货币、晶石、修真交易资源、灵材/能量晶体、修士遗留之物、货币/能量结晶、修炼资源／通货、货币、修真通货／晶石、报酬/资源、凝聚型灵物",
     "用途": "坊市兑换、开启跨星域传送阵、快速回复元力、加快吐纳速度、祭炼法宝与布阵时威力倍增、王林本章交易目标、王林与欧阳隆的交易标的、滋养变异灵兽、助蚊兽升级、交易与修炼资源、云海星域高端交易通货、交易结算、此行酬劳",
-    "稀有度": "极为稀少",
-    "产地": "七彩界雾气之内"
+    "稀有度": "高（通常被圈养门派定期收割，七彩界内无人取用故积存极多）",
+    "产地": "十二阶元兽体内（放养于雾气中常年累月形成）、七彩界雾气之内、化雾凶兽的雾气之内"
   },
   "observations": {
     "类型": [
@@ -67,6 +67,11 @@
         "value": "报酬/资源",
         "docId": "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
         "seq": 1095
+      },
+      {
+        "value": "凝聚型灵物",
+        "docId": "plot.xianni-1183-do-not-move-jiaolong-slain",
+        "seq": 1100
       }
     ],
     "用途": [
@@ -147,6 +152,11 @@
         "docId": "plot.xianni-1173-feng-yu-dong-auction-yuanjing-trade",
         "seq": 1091,
         "note": "云海星域内"
+      },
+      {
+        "value": "高（通常被圈养门派定期收割，七彩界内无人取用故积存极多）",
+        "docId": "plot.xianni-1183-do-not-move-jiaolong-slain",
+        "seq": 1100
       }
     ],
     "产地": [
@@ -158,6 +168,11 @@
       {
         "value": "七彩界雾气之内",
         "docId": "plot.xianni-1182-qicai-jie-lunhui-dan-shijie-jiao",
+        "seq": 1100
+      },
+      {
+        "value": "化雾凶兽的雾气之内",
+        "docId": "plot.xianni-1183-do-not-move-jiaolong-slain",
         "seq": 1100
       }
     ]
@@ -178,16 +193,15 @@
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.xianni-1173-feng-yu-dong-auction-yuanjing-trade",
+      "docId": "plot.xianni-1183-do-not-move-jiaolong-slain",
       "dated": false,
-      "seq": 1091,
-      "note": "云海星域内"
+      "seq": 1100
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.xianni-1182-qicai-jie-lunhui-dan-shijie-jiao",
+      "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
       "dated": false,
-      "seq": 1100
+      "seq": 1087
     }
   },
   "contested": false,
@@ -202,7 +216,8 @@
     "plot.xianni-1177-shenmojia-auction-yunhai",
     "plot.xianni-ch1178-zige-cangsongzi-team",
     "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
-    "plot.xianni-1182-qicai-jie-lunhui-dan-shijie-jiao"
+    "plot.xianni-1182-qicai-jie-lunhui-dan-shijie-jiao",
+    "plot.xianni-1183-do-not-move-jiaolong-slain"
   ],
-  "updatedAt": "2026-08-24T21:28:49.028Z"
+  "updatedAt": "2026-08-24T21:31:08.220Z"
 }

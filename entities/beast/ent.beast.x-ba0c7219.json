@@ -3,13 +3,17 @@
   "type": "beast",
   "name": "十二阶化雾蛟龙",
   "aliases": [
-    "化雾蛟龙"
+    "化雾蛟龙",
+    "十二阶化雾凶兽",
+    "化雾凶兽"
   ],
   "summary": "守在轮回丹旁的凶兽，十二阶，令苍松子无法取得丹药。",
   "attributes": {
-    "等级": "十二阶",
-    "能力": "化雾",
-    "栖息地": "苍松子所指目的地"
+    "等级": "十二阶化雾凶兽",
+    "能力": "化雾、黑角放黑色电网、吸收天地元力与七彩之芒幻化蛟龙虚影、张口吐腥风毒雾、肉身之力远超多数炼体修士",
+    "栖息地": "七彩界狭路",
+    "外形": "身长约千丈，头生一根黑角",
+    "天敌": "古神之力"
   },
   "observations": {
     "等级": [
@@ -17,6 +21,11 @@
         "value": "十二阶",
         "docId": "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
         "seq": 1095
+      },
+      {
+        "value": "十二阶化雾凶兽",
+        "docId": "plot.xianni-1183-do-not-move-jiaolong-slain",
+        "seq": 1100
       }
     ],
     "能力": [
@@ -25,6 +34,26 @@
         "docId": "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
         "seq": 1095,
         "note": "由名称推知"
+      },
+      {
+        "value": "黑角放黑色电网",
+        "docId": "plot.xianni-1183-do-not-move-jiaolong-slain",
+        "seq": 1100
+      },
+      {
+        "value": "吸收天地元力与七彩之芒幻化蛟龙虚影",
+        "docId": "plot.xianni-1183-do-not-move-jiaolong-slain",
+        "seq": 1100
+      },
+      {
+        "value": "张口吐腥风毒雾",
+        "docId": "plot.xianni-1183-do-not-move-jiaolong-slain",
+        "seq": 1100
+      },
+      {
+        "value": "肉身之力远超多数炼体修士",
+        "docId": "plot.xianni-1183-do-not-move-jiaolong-slain",
+        "seq": 1100
       }
     ],
     "栖息地": [
@@ -32,6 +61,25 @@
         "value": "苍松子所指目的地",
         "docId": "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
         "seq": 1095
+      },
+      {
+        "value": "七彩界狭路",
+        "docId": "plot.xianni-1183-do-not-move-jiaolong-slain",
+        "seq": 1100
+      }
+    ],
+    "外形": [
+      {
+        "value": "身长约千丈，头生一根黑角",
+        "docId": "plot.xianni-1183-do-not-move-jiaolong-slain",
+        "seq": 1100
+      }
+    ],
+    "天敌": [
+      {
+        "value": "古神之力",
+        "docId": "plot.xianni-1183-do-not-move-jiaolong-slain",
+        "seq": 1100
       }
     ]
   },
@@ -39,9 +87,9 @@
   "attrProvenance": {
     "等级": {
       "asOf": null,
-      "docId": "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
+      "docId": "plot.xianni-1183-do-not-move-jiaolong-slain",
       "dated": false,
-      "seq": 1095
+      "seq": 1100
     },
     "能力": {
       "asOf": null,
@@ -52,15 +100,28 @@
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
+      "docId": "plot.xianni-1183-do-not-move-jiaolong-slain",
       "dated": false,
-      "seq": 1095
+      "seq": 1100
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.xianni-1183-do-not-move-jiaolong-slain",
+      "dated": false,
+      "seq": 1100
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.xianni-1183-do-not-move-jiaolong-slain",
+      "dated": false,
+      "seq": 1100
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering"
+    "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
+    "plot.xianni-1183-do-not-move-jiaolong-slain"
   ],
-  "updatedAt": "2026-08-24T21:21:27.196Z"
+  "updatedAt": "2026-08-24T21:31:08.216Z"
 }
