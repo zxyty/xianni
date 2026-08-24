@@ -10,10 +10,11 @@
   "summary": "王林所有的漆黑铠甲，封印解开后魔气滔天、天地色变、天空现巨大黑色漩涡；被众修认出是传说中唯有神宗之人才可拥有的神魔甲，因魔气极浓推断为四品。",
   "attributes": {
     "品阶": "四品",
-    "持有者": "王林",
-    "外形": "漆黑铠甲，封印时为一团模糊黑气",
+    "持有者": "苍松子",
+    "外形": "黑色铠甲，魔气缭绕",
     "禁制": "外覆层层封印禁制，由王林掐诀解开",
-    "来历": "唯神宗之人可拥有，绝少外传"
+    "来历": "唯神宗之人可拥有，绝少外传",
+    "能力": "抗压护体，助行阵中"
   },
   "observations": {
     "品阶": [
@@ -29,6 +30,11 @@
         "value": "王林",
         "docId": "plot.xianni-1177-shenmojia-auction-yunhai",
         "seq": 1095
+      },
+      {
+        "value": "苍松子",
+        "docId": "plot.xianni-1185-nine-step-sealing-heaven-formation",
+        "seq": 1100
       }
     ],
     "外形": [
@@ -36,6 +42,11 @@
         "value": "漆黑铠甲，封印时为一团模糊黑气",
         "docId": "plot.xianni-1177-shenmojia-auction-yunhai",
         "seq": 1095
+      },
+      {
+        "value": "黑色铠甲，魔气缭绕",
+        "docId": "plot.xianni-1185-nine-step-sealing-heaven-formation",
+        "seq": 1100
       }
     ],
     "禁制": [
@@ -52,6 +63,13 @@
         "seq": 1095,
         "note": "王林事先并不知其与神宗有关"
       }
+    ],
+    "能力": [
+      {
+        "value": "抗压护体，助行阵中",
+        "docId": "plot.xianni-1185-nine-step-sealing-heaven-formation",
+        "seq": 1100
+      }
     ]
   },
   "firstSeq": 1095,
@@ -65,15 +83,15 @@
     },
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-1177-shenmojia-auction-yunhai",
+      "docId": "plot.xianni-1185-nine-step-sealing-heaven-formation",
       "dated": false,
-      "seq": 1095
+      "seq": 1100
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-1177-shenmojia-auction-yunhai",
+      "docId": "plot.xianni-1185-nine-step-sealing-heaven-formation",
       "dated": false,
-      "seq": 1095
+      "seq": 1100
     },
     "禁制": {
       "asOf": null,
@@ -87,12 +105,19 @@
       "dated": false,
       "seq": 1095,
       "note": "王林事先并不知其与神宗有关"
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-1185-nine-step-sealing-heaven-formation",
+      "dated": false,
+      "seq": 1100
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1177-shenmojia-auction-yunhai"
+    "plot.xianni-1177-shenmojia-auction-yunhai",
+    "plot.xianni-1185-nine-step-sealing-heaven-formation"
   ],
-  "updatedAt": "2026-08-24T21:15:52.724Z"
+  "updatedAt": "2026-08-24T21:39:51.913Z"
 }
