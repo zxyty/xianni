@@ -9,10 +9,10 @@
   "summary": "苍松子祭出的散发七彩之芒的钉子，威压超过次空涅法宝，似能钉住元神；与禁幕内钉住刻满道经骸骨之钉一模一样。",
   "attributes": {
     "品阶": "威力超过次空涅法宝",
-    "持有者": "苍松子",
-    "能力": "斩断铁剑、钉住元神、令中钉者身形缩小、神志迷糊、保命杀手锏、苍松子最强法宝",
-    "来历": "与禁幕内钉住刻满道经骸骨之钉一模一样",
-    "外形": "散发七彩之芒的钉子、七彩钉状"
+    "持有者": "苍松子、钉于王林体内",
+    "能力": "斩断铁剑、钉住元神、令中钉者身形缩小、神志迷糊、保命杀手锏、苍松子最强法宝、钉骨令其反复碎裂、钉住元神使其运转迟缓、持续吸收中者生机、七彩之芒融入骨骼引发失控发狂",
+    "来历": "与禁幕内钉住刻满道经骸骨之钉一模一样、七彩界内所得之创，具体来历不明",
+    "外形": "散发七彩之芒的钉子、七彩钉状、七彩光芒的钉子，可缩小并化作七彩之芒融入骨中"
   },
   "observations": {
     "品阶": [
@@ -27,6 +27,12 @@
         "value": "苍松子",
         "docId": "plot.xianni-1193-blood-battle-cang-song-zi",
         "seq": 1110
+      },
+      {
+        "value": "钉于王林体内",
+        "docId": "plot.xianni-ch1195-seven-colored-nail",
+        "seq": 1110,
+        "note": "非王林所有，来历不明"
       }
     ],
     "能力": [
@@ -54,12 +60,37 @@
         "value": "苍松子最强法宝",
         "docId": "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan",
         "seq": 1110
+      },
+      {
+        "value": "钉骨令其反复碎裂",
+        "docId": "plot.xianni-ch1195-seven-colored-nail",
+        "seq": 1110
+      },
+      {
+        "value": "钉住元神使其运转迟缓",
+        "docId": "plot.xianni-ch1195-seven-colored-nail",
+        "seq": 1110
+      },
+      {
+        "value": "持续吸收中者生机",
+        "docId": "plot.xianni-ch1195-seven-colored-nail",
+        "seq": 1110
+      },
+      {
+        "value": "七彩之芒融入骨骼引发失控发狂",
+        "docId": "plot.xianni-ch1195-seven-colored-nail",
+        "seq": 1110
       }
     ],
     "来历": [
       {
         "value": "与禁幕内钉住刻满道经骸骨之钉一模一样",
         "docId": "plot.xianni-1193-blood-battle-cang-song-zi",
+        "seq": 1110
+      },
+      {
+        "value": "七彩界内所得之创，具体来历不明",
+        "docId": "plot.xianni-ch1195-seven-colored-nail",
         "seq": 1110
       }
     ],
@@ -72,6 +103,11 @@
       {
         "value": "七彩钉状",
         "docId": "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan",
+        "seq": 1110
+      },
+      {
+        "value": "七彩光芒的钉子，可缩小并化作七彩之芒融入骨中",
+        "docId": "plot.xianni-ch1195-seven-colored-nail",
         "seq": 1110
       }
     ]
@@ -113,7 +149,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-1193-blood-battle-cang-song-zi",
-    "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan"
+    "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan",
+    "plot.xianni-ch1195-seven-colored-nail"
   ],
-  "updatedAt": "2026-08-24T23:06:30.732Z"
+  "updatedAt": "2026-08-24T23:09:10.603Z"
 }

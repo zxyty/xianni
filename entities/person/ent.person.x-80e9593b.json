@@ -13,15 +13,17 @@
     "花海中的女子",
     "银光女子",
     "储物空间内的银衣女子",
-    "银衣女尸厉害之物"
+    "银衣女尸厉害之物",
+    "洞府中的银衣女子"
   ],
   "summary": "从司徒南神通中走出的银衣女子，浮风子看向她时心底有些疑惑。",
   "attributes": {
     "性别": "女",
-    "外貌": "银衣、娇躯",
+    "外貌": "银衣，玉手，眼中茫然",
     "称号": "银尸",
-    "身份": "王林麾下战力/护法、王林麾下、执行命令如使命、守护者、王林储物袋中召出的助力、王林熟悉之人、王林储物空间中的存在、王林护法女尸",
-    "性格": "冷漠，声音冰冷"
+    "身份": "王林麾下战力/护法、王林麾下、执行命令如使命、守护者、王林储物袋中召出的助力、王林熟悉之人、王林储物空间中的存在、王林护法女尸、随王林同行、被收入储物空间",
+    "性格": "冷漠，声音冰冷",
+    "标志特征": "记忆模糊，仅存「一些记忆」，却精擅生死禁"
   },
   "observations": {
     "性别": [
@@ -41,6 +43,11 @@
         "value": "银衣、娇躯",
         "docId": "plot.xianni-ch1004-immortal-mansion-restriction-breaking",
         "seq": 929
+      },
+      {
+        "value": "银衣，玉手，眼中茫然",
+        "docId": "plot.xianni-ch1195-seven-colored-nail",
+        "seq": 1110
       }
     ],
     "称号": [
@@ -88,6 +95,12 @@
         "value": "王林护法女尸",
         "docId": "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan",
         "seq": 1110
+      },
+      {
+        "value": "随王林同行、被收入储物空间",
+        "docId": "plot.xianni-ch1195-seven-colored-nail",
+        "seq": 1110,
+        "note": "本章"
       }
     ],
     "性格": [
@@ -107,6 +120,13 @@
         "seq": 1110,
         "note": "唯独望向王林时露出温柔"
       }
+    ],
+    "标志特征": [
+      {
+        "value": "记忆模糊，仅存「一些记忆」，却精擅生死禁",
+        "docId": "plot.xianni-ch1195-seven-colored-nail",
+        "seq": 1110
+      }
     ]
   },
   "firstSeq": 922,
@@ -119,9 +139,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch1004-immortal-mansion-restriction-breaking",
+      "docId": "plot.xianni-ch1195-seven-colored-nail",
       "dated": false,
-      "seq": 929
+      "seq": 1110
     },
     "称号": {
       "asOf": null,
@@ -141,6 +161,12 @@
       "dated": false,
       "seq": 1110,
       "note": "唯独望向王林时露出温柔"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1195-seven-colored-nail",
+      "dated": false,
+      "seq": 1110
     }
   },
   "contested": false,
@@ -158,7 +184,8 @@
     "plot.xianni-1091-san-shi-huo-yuan-zhi-wei",
     "plot.xianni-1155-lianzhan-wanglin-slaughters-huaqing-disciples",
     "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
-    "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan"
+    "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan",
+    "plot.xianni-ch1195-seven-colored-nail"
   ],
-  "updatedAt": "2026-08-24T23:06:30.714Z"
+  "updatedAt": "2026-08-24T23:09:10.609Z"
 }
