@@ -4,12 +4,15 @@
   "name": "朱雀圣宗最后一颗主星",
   "aliases": [
     "任涛所在星球",
-    "朱雀圣宗主星"
+    "朱雀圣宗主星",
+    "朱雀主星",
+    "燃烧的修真星"
   ],
   "summary": "王林巡行的终点主星，也是任涛所在之地，任涛在此发起挑战并被灭杀。",
   "attributes": {
     "所属势力": "朱雀圣宗",
-    "类型": "修真主星"
+    "类型": "修真主星、修真星",
+    "特产": "火山、炙热气息"
   },
   "observations": {
     "所属势力": [
@@ -23,6 +26,18 @@
       {
         "value": "修真主星",
         "docId": "plot.xianni-1091-san-shi-huo-yuan-zhi-wei",
+        "seq": 1009
+      },
+      {
+        "value": "修真星",
+        "docId": "plot.xianni-ch1092-wang-lin-plans-zhuque-holy-emperor",
+        "seq": 1009
+      }
+    ],
+    "特产": [
+      {
+        "value": "火山、炙热气息",
+        "docId": "plot.xianni-ch1092-wang-lin-plans-zhuque-holy-emperor",
         "seq": 1009
       }
     ]
@@ -40,12 +55,19 @@
       "docId": "plot.xianni-1091-san-shi-huo-yuan-zhi-wei",
       "dated": false,
       "seq": 1009
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1092-wang-lin-plans-zhuque-holy-emperor",
+      "dated": false,
+      "seq": 1009
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1091-san-shi-huo-yuan-zhi-wei"
+    "plot.xianni-1091-san-shi-huo-yuan-zhi-wei",
+    "plot.xianni-ch1092-wang-lin-plans-zhuque-holy-emperor"
   ],
-  "updatedAt": "2026-08-24T13:28:19.526Z"
+  "updatedAt": "2026-08-24T13:31:10.413Z"
 }

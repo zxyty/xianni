@@ -494,3 +494,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T13:18:51.600Z** `ingest` plot.xianni-1087-jiuxuan-first-transformation — 第1087章 九玄第一变！——朱雀圣皇灌顶铸九世火焰图腾 · kind=plot asOf=2026-08-24 entities=67 relations=121 src=01006-01008.p2.md
 - **2026-08-24T13:25:49.151Z** `ingest` plot.xianni-ch1090-mo-zhi-reappears — 仙逆 第1090章 墨智再现——朱雀新圣皇元力波动惊动联盟诸强 · kind=plot asOf=2026-08-24 entities=40 relations=60 src=01006-01008.p3.md
 - **2026-08-24T13:28:19.875Z** `ingest` plot.xianni-1091-san-shi-huo-yuan-zhi-wei — 仙逆 第1091章 三世火元之威：王林受族人拥戴、一指灭任涛 · kind=plot asOf=2026-08-24 entities=29 relations=43 src=01009-01013.p1.md
+- **2026-08-24T13:31:10.707Z** `ingest` plot.xianni-ch1092-wang-lin-plans-zhuque-holy-emperor — 第1092章 王林的打算——朱雀圣皇之位与拓森之患 · kind=plot asOf=2026-08-24 entities=39 relations=44 src=01009-01013.p2.md
