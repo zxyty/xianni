@@ -2,15 +2,18 @@
   "id": "ent.artifact.x-e103ff3d",
   "type": "artifact",
   "name": "古神之鼎",
-  "aliases": [],
+  "aliases": [
+    "古神之宝",
+    "Ancient God Cauldron"
+  ],
   "summary": "王林所持古神法宝，可幻化数十丈，施展「移形」强行转移空间目标；分身使用需贪狼印决，合体后施展威力更深。",
   "attributes": {
     "持有者": "王林",
-    "能力": "移形（强行转移目标与自身位置）、鼎鸣震荡",
+    "能力": "移形（强行转移目标与自身位置）、鼎鸣震荡、百丈瞬移（每次）、可连续施展，消耗古神之力、闪烁移动/瞬移、可连续开启数十次、瞬移遁走（百丈级）、闪避旋风冲击",
     "禁制": "王林分身使用需以当年贪狼的印决",
-    "外形": "幻化数十丈大小的大鼎",
+    "外形": "大鼎",
     "品阶": "古神法宝（涂司不满意之作）",
-    "来历": "涂司炼制后随手丢弃",
+    "来历": "古神传承之宝",
     "器灵": "无（气息缺少灵动，单纯器具）"
   },
   "observations": {
@@ -31,6 +34,36 @@
         "value": "鼎鸣震荡",
         "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
         "seq": 845
+      },
+      {
+        "value": "百丈瞬移（每次）",
+        "docId": "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
+        "seq": 939
+      },
+      {
+        "value": "可连续施展，消耗古神之力",
+        "docId": "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
+        "seq": 939
+      },
+      {
+        "value": "闪烁移动/瞬移",
+        "docId": "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
+        "seq": 939
+      },
+      {
+        "value": "可连续开启数十次",
+        "docId": "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
+        "seq": 939
+      },
+      {
+        "value": "瞬移遁走（百丈级）",
+        "docId": "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
+        "seq": 939
+      },
+      {
+        "value": "闪避旋风冲击",
+        "docId": "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
+        "seq": 939
       }
     ],
     "禁制": [
@@ -45,6 +78,11 @@
         "value": "幻化数十丈大小的大鼎",
         "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
         "seq": 845
+      },
+      {
+        "value": "大鼎",
+        "docId": "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
+        "seq": 939
       }
     ],
     "品阶": [
@@ -59,6 +97,11 @@
         "value": "涂司炼制后随手丢弃",
         "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
         "seq": 914
+      },
+      {
+        "value": "古神传承之宝",
+        "docId": "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
+        "seq": 939
       }
     ],
     "器灵": [
@@ -91,9 +134,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
+      "docId": "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
       "dated": false,
-      "seq": 845
+      "seq": 939
     },
     "品阶": {
       "asOf": null,
@@ -103,9 +146,9 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
+      "docId": "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
       "dated": false,
-      "seq": 914
+      "seq": 939
     },
     "器灵": {
       "asOf": null,
@@ -118,7 +161,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
-    "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power"
+    "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
+    "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi"
   ],
-  "updatedAt": "2026-08-24T01:25:19.163Z"
+  "updatedAt": "2026-08-24T05:39:52.746Z"
 }

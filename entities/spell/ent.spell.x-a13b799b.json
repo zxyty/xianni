@@ -11,8 +11,8 @@
   "summary": "以喷血自损修为为代价的极速逃遁术，大头童子面对王林时不假思索使用。",
   "attributes": {
     "类型": "遁术、遁速神通",
-    "消耗": "自损修为、喷出大口鲜血、自损修行、喷出精血",
-    "威力": "远超瞬移，比闪电快数倍",
+    "消耗": "自损修为、喷出大口鲜血、自损修行、喷出精血、自伤身体、喷血",
+    "威力": "速度倍增",
     "出处": "于非（杀域界）"
   },
   "observations": {
@@ -43,6 +43,11 @@
         "value": "喷出精血",
         "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
         "seq": 910
+      },
+      {
+        "value": "自伤身体、喷血",
+        "docId": "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
+        "seq": 939
       }
     ],
     "威力": [
@@ -50,6 +55,12 @@
         "value": "远超瞬移，比闪电快数倍",
         "docId": "plot.xianni-ch890-datou-tongzi-battle",
         "seq": 830
+      },
+      {
+        "value": "速度倍增",
+        "docId": "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
+        "seq": 939,
+        "note": "仅短时间爆发，无法长久"
       }
     ],
     "出处": [
@@ -81,9 +92,10 @@
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-ch890-datou-tongzi-battle",
+      "docId": "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
       "dated": false,
-      "seq": 830
+      "seq": 939,
+      "note": "仅短时间爆发，无法长久"
     },
     "出处": {
       "asOf": null,
@@ -99,7 +111,8 @@
     "plot.xianni-ch890-datou-tongzi-battle",
     "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
     "plot.xianni-ch927-jun-bu-shi-qie-huanwei-chi-hong-bowen",
-    "plot.xianni-ch910-913-lu-zhai-fu-feng-zi"
+    "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
+    "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi"
   ],
-  "updatedAt": "2026-08-24T01:05:17.367Z"
+  "updatedAt": "2026-08-24T05:39:52.780Z"
 }

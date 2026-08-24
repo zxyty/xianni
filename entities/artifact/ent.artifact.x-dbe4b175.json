@@ -12,16 +12,20 @@
     "千丈大盾",
     "王林的青光盾",
     "古神青光盾",
-    "右目青光盾"
+    "右目青光盾",
+    "右目青光化盾",
+    "青光护盾",
+    "青光之盾",
+    "Qingguang Shield"
   ],
   "summary": "古神所炼的防护类法器，原为巴掌大小的青色盾牌，被青龙印记与气旋神念双重封印；封印解除后暴涨至近三百丈，显化顶天立地的古神虚影器灵。",
   "attributes": {
     "品阶": "寻常古神中的巅峰之物（非王族法器，略逊于真正的灭神矛）",
     "持有者": "王林",
-    "来历": "右目青光幻化",
+    "来历": "右目青光",
     "禁制": "盾侧踏云青龙印记（反震并化出十丈青龙）、印记下的青色气旋（内藏神念，需古神气息方可分离）、只认古神为主；非古神触碰将被暴虐之力所杀，且不敢令其认主",
-    "外形": "青光盾，可涨至数十丈",
-    "能力": "防护、封印解除后弥漫磅礴威压、全开可涨至近千丈、如天地壁垒隔绝阴阳、撞碎敌方神通并吞噬其中天地元力、吸收足够天地之力后可开启封印其中的古神保命神通、解封刹那幻化其主古神之相、拦截、反震大力、自行防御",
+    "外形": "由巴掌大暴涨至近三百丈，做工粗糙如高墙、巴掌大小、青光缭绕、青光盾，可涨至数十丈、青色光盾、青光所化巨盾",
+    "能力": "防护、封印解除后弥漫磅礴威压、全开可涨至近千丈、如天地壁垒隔绝阴阳、撞碎敌方神通并吞噬其中天地元力、吸收足够天地之力后可开启封印其中的古神保命神通、解封刹那幻化其主古神之相、拦截、反震大力、自行防御、瞬间成形护体、环绕全身抵挡数百道灰气、防御、幻化百丈大小、环身旋转御敌、抵挡旋风撕扯与反震",
     "器灵": "顶天立地的庞大古神虚影，眉心星点旋转（星数未明）",
     "五行属性": "青色古神之气"
   },
@@ -60,6 +64,11 @@
         "value": "右目青光幻化",
         "docId": "plot.xianni-ch990-lianhua-nvshi-situ-nan-qiangren",
         "seq": 919
+      },
+      {
+        "value": "右目青光",
+        "docId": "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
+        "seq": 939
       }
     ],
     "禁制": [
@@ -96,6 +105,16 @@
         "value": "青光盾，可涨至数十丈",
         "docId": "plot.xianni-ch1008-zang-hua-baiyi-nvzi",
         "seq": 934
+      },
+      {
+        "value": "青色光盾",
+        "docId": "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
+        "seq": 939
+      },
+      {
+        "value": "青光所化巨盾",
+        "docId": "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
+        "seq": 939
       }
     ],
     "能力": [
@@ -143,6 +162,36 @@
         "value": "自行防御",
         "docId": "plot.xianni-ch1008-zang-hua-baiyi-nvzi",
         "seq": 934
+      },
+      {
+        "value": "瞬间成形护体",
+        "docId": "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
+        "seq": 939
+      },
+      {
+        "value": "环绕全身抵挡数百道灰气",
+        "docId": "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
+        "seq": 939
+      },
+      {
+        "value": "防御",
+        "docId": "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
+        "seq": 939
+      },
+      {
+        "value": "幻化百丈大小",
+        "docId": "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
+        "seq": 939
+      },
+      {
+        "value": "环身旋转御敌",
+        "docId": "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
+        "seq": 939
+      },
+      {
+        "value": "抵挡旋风撕扯与反震",
+        "docId": "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
+        "seq": 939
       }
     ],
     "器灵": [
@@ -176,9 +225,9 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch990-lianhua-nvshi-situ-nan-qiangren",
+      "docId": "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
       "dated": false,
-      "seq": 919
+      "seq": 939
     },
     "禁制": {
       "asOf": null,
@@ -188,9 +237,10 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch1008-zang-hua-baiyi-nvzi",
+      "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
       "dated": false,
-      "seq": 934
+      "seq": 910,
+      "note": "封印解除后"
     },
     "能力": {
       "asOf": null,
@@ -217,7 +267,8 @@
     "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
     "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
     "plot.xianni-ch990-lianhua-nvshi-situ-nan-qiangren",
-    "plot.xianni-ch1008-zang-hua-baiyi-nvzi"
+    "plot.xianni-ch1008-zang-hua-baiyi-nvzi",
+    "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi"
   ],
-  "updatedAt": "2026-08-24T04:30:36.350Z"
+  "updatedAt": "2026-08-24T05:39:52.745Z"
 }
