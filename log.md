@@ -545,3 +545,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T18:21:10.925Z** `ingest` plot.xianni-1144-rainbow-wang-lin-slays-song-wude — 第1144章 彩虹——紫道宗少宗压境，王林瞬杀宋五德 · kind=plot asOf=2026-08-24 entities=22 relations=36 src=01058-01062.p5.md
 - **2026-08-24T18:23:29.491Z** `ingest` plot.xianni-1145-a-single-hair-lu-di-slain — 第1145章 一根汗毛：王林斩杀紫道宗少宗主卢迪，归元宗四大长老目睹白发背影 · kind=plot asOf=2026-08-24 entities=25 relations=40 src=01063-01067.p1.md
 - **2026-08-24T18:30:48.209Z** `ingest` plot.xianni-1146-tianni-second-perfection-hope — 第1146章 天逆二次圆满的希望——紫道宗主卢云从惊闻卢迪之死，欲以吕烟菲陪葬 · kind=plot asOf=2026-08-24 entities=42 relations=60 src=01063-01067.p2.md
+- **2026-08-24T18:33:47.132Z** `ingest` plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai — 第1147章 孙芸的心痛——王林释放阴魂、封印极阴，云海星域首次炼丹失败 · kind=plot asOf=2026-08-24 entities=30 relations=35 src=01063-01067.p3.md

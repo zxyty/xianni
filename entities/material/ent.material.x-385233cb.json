@@ -1,51 +1,50 @@
 {
-  "id": "ent.person.x-5193618c",
-  "type": "person",
-  "name": "白微",
-  "aliases": [],
-  "summary": "王林回忆中当年获得极阳之处所涉之人，天运子借其而生极阳。",
+  "id": "ent.material.x-385233cb",
+  "type": "material",
+  "name": "墨云芝",
+  "aliases": [
+    "墨云芝草"
+  ],
+  "summary": "炼制缺云丹的主药之一。",
   "attributes": {
-    "性别": "女",
-    "身份": "天运子当年借身的对象"
+    "类型": "炼丹主药",
+    "用途": "炼制缺云丹的主药之一"
   },
   "observations": {
-    "性别": [
+    "类型": [
       {
-        "value": "女",
+        "value": "炼丹主药",
         "docId": "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai",
         "seq": 1063
       }
     ],
-    "身份": [
+    "用途": [
       {
-        "value": "天运子当年借身的对象",
+        "value": "炼制缺云丹的主药之一",
         "docId": "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai",
-        "seq": 1063,
-        "note": "回忆提及"
+        "seq": 1063
       }
     ]
   },
   "firstSeq": 1063,
   "attrProvenance": {
-    "性别": {
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai",
       "dated": false,
       "seq": 1063
     },
-    "身份": {
+    "用途": {
       "asOf": null,
       "docId": "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai",
       "dated": false,
-      "seq": 1063,
-      "note": "回忆提及"
+      "seq": 1063
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1146-tianni-second-perfection-hope",
     "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai"
   ],
-  "updatedAt": "2026-08-24T18:33:46.826Z"
+  "updatedAt": "2026-08-24T18:33:46.834Z"
 }

@@ -1,51 +1,52 @@
 {
-  "id": "ent.person.x-5193618c",
+  "id": "ent.person.x-5bf37313",
   "type": "person",
-  "name": "白微",
-  "aliases": [],
-  "summary": "王林回忆中当年获得极阳之处所涉之人，天运子借其而生极阳。",
+  "name": "李师叔",
+  "aliases": [
+    "归元宗李师叔"
+  ],
+  "summary": "归元宗内炼丹之术堪称绝伦者，据孙芸所知，宗内仅其处存有三株雾中花干花。",
   "attributes": {
-    "性别": "女",
-    "身份": "天运子当年借身的对象"
+    "身份": "归元宗长辈",
+    "称号": "归元宗炼丹绝伦"
   },
   "observations": {
-    "性别": [
+    "身份": [
       {
-        "value": "女",
+        "value": "归元宗长辈",
         "docId": "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai",
         "seq": 1063
       }
     ],
-    "身份": [
+    "称号": [
       {
-        "value": "天运子当年借身的对象",
+        "value": "归元宗炼丹绝伦",
         "docId": "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai",
         "seq": 1063,
-        "note": "回忆提及"
+        "note": "孙芸评价"
       }
     ]
   },
   "firstSeq": 1063,
   "attrProvenance": {
-    "性别": {
+    "身份": {
       "asOf": null,
       "docId": "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai",
       "dated": false,
       "seq": 1063
     },
-    "身份": {
+    "称号": {
       "asOf": null,
       "docId": "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai",
       "dated": false,
       "seq": 1063,
-      "note": "回忆提及"
+      "note": "孙芸评价"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1146-tianni-second-perfection-hope",
     "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai"
   ],
-  "updatedAt": "2026-08-24T18:33:46.826Z"
+  "updatedAt": "2026-08-24T18:33:46.827Z"
 }

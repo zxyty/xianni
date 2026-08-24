@@ -1,51 +1,52 @@
 {
-  "id": "ent.person.x-5193618c",
-  "type": "person",
-  "name": "白微",
-  "aliases": [],
-  "summary": "王林回忆中当年获得极阳之处所涉之人，天运子借其而生极阳。",
+  "id": "ent.item.x-d3fd0b1b",
+  "type": "item",
+  "name": "极阴之魂",
+  "aliases": [
+    "一丝极阴"
+  ],
+  "summary": "金色小旗内被女子阴魂滋养的极阴之魂，既不完整、饲养方法亦错；欲逃被王林以禁制弹回并封印。",
   "attributes": {
-    "性别": "女",
-    "身份": "天运子当年借身的对象"
+    "类型": "阴属性之魂",
+    "用途": "与极阳转化相关的修行关键"
   },
   "observations": {
-    "性别": [
+    "类型": [
       {
-        "value": "女",
+        "value": "阴属性之魂",
         "docId": "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai",
         "seq": 1063
       }
     ],
-    "身份": [
+    "用途": [
       {
-        "value": "天运子当年借身的对象",
+        "value": "与极阳转化相关的修行关键",
         "docId": "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai",
         "seq": 1063,
-        "note": "回忆提及"
+        "note": "需在极阳顶峰以破而立之法方得完整极阴"
       }
     ]
   },
   "firstSeq": 1063,
   "attrProvenance": {
-    "性别": {
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai",
       "dated": false,
       "seq": 1063
     },
-    "身份": {
+    "用途": {
       "asOf": null,
       "docId": "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai",
       "dated": false,
       "seq": 1063,
-      "note": "回忆提及"
+      "note": "需在极阳顶峰以破而立之法方得完整极阴"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1146-tianni-second-perfection-hope",
     "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai"
   ],
-  "updatedAt": "2026-08-24T18:33:46.826Z"
+  "updatedAt": "2026-08-24T18:33:46.848Z"
 }

@@ -6,13 +6,14 @@
     "燃香",
     "驱蚊兽之香",
     "婴儿手臂粗细的燃香",
-    "一整支燃香"
+    "一整支燃香",
+    "云海燃香"
   ],
   "summary": "可令巨蚊兽不由自主跟随的奇异燃香，三青年靠它引走蚊群，压制巨蚊王挣扎时消耗两根。",
   "attributes": {
-    "类型": "香",
-    "用途": "驱使、压制巨蚊兽",
-    "产地": "紫衣青年储物袋"
+    "类型": "香类法器、香、迷惑灵兽的燃香",
+    "用途": "迷惑蚊兽并引其离开原地",
+    "产地": "紫衣青年储物袋、云海"
   },
   "observations": {
     "类型": [
@@ -25,6 +26,11 @@
         "value": "香",
         "docId": "plot.xianni-1146-tianni-second-perfection-hope",
         "seq": 1063
+      },
+      {
+        "value": "迷惑灵兽的燃香",
+        "docId": "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai",
+        "seq": 1063
       }
     ],
     "用途": [
@@ -32,6 +38,11 @@
         "value": "驱使、压制巨蚊兽",
         "docId": "plot.xianni-ch1103-yunhai-mosquito-beasts-stolen",
         "seq": 1019
+      },
+      {
+        "value": "迷惑蚊兽并引其离开原地",
+        "docId": "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai",
+        "seq": 1063
       }
     ],
     "产地": [
@@ -39,6 +50,12 @@
         "value": "紫衣青年储物袋",
         "docId": "plot.xianni-1146-tianni-second-perfection-hope",
         "seq": 1063
+      },
+      {
+        "value": "云海",
+        "docId": "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai",
+        "seq": 1063,
+        "note": "王林自蚊兽记忆中见过云海修士持此香"
       }
     ]
   },
@@ -46,15 +63,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1146-tianni-second-perfection-hope",
-      "dated": false,
-      "seq": 1063
-    },
-    "用途": {
-      "asOf": null,
       "docId": "plot.xianni-ch1103-yunhai-mosquito-beasts-stolen",
       "dated": false,
       "seq": 1019
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai",
+      "dated": false,
+      "seq": 1063
     },
     "产地": {
       "asOf": null,
@@ -67,7 +84,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1103-yunhai-mosquito-beasts-stolen",
-    "plot.xianni-1146-tianni-second-perfection-hope"
+    "plot.xianni-1146-tianni-second-perfection-hope",
+    "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai"
   ],
-  "updatedAt": "2026-08-24T18:30:47.899Z"
+  "updatedAt": "2026-08-24T18:33:46.832Z"
 }
