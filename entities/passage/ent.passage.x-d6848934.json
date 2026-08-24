@@ -1,43 +1,34 @@
 {
-  "id": "ent.passage.x-362be1f1",
+  "id": "ent.passage.x-d6848934",
   "type": "passage",
-  "name": "通天之门",
+  "name": "界外通道",
   "aliases": [
-    "通天门"
+    "界外之门",
+    "通往界外的通道"
   ],
-  "summary": "界外之人欲在封界中寻找的目标，为其毁灭封界的最终动机。",
+  "summary": "青霖称其开启之日已然不远；若青霖届时未恢复巅峰修为，其封界内将会寂灭。",
   "attributes": {
-    "类型": "门户",
-    "来历": "仙界劫难之根源"
+    "类型": "界外通道",
+    "稳定性": "开启之日不远"
   },
   "observations": {
     "类型": [
       {
-        "value": "传说中的门户",
-        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
-        "seq": 953
-      },
-      {
-        "value": "门户",
+        "value": "界外通道",
         "docId": "plot.xianni-1121-wu-hou-gu-zhi-you-qinglin-bitian-guan-kunxu-chuansongzhen",
         "seq": 1039
       }
     ],
-    "来历": [
+    "稳定性": [
       {
-        "value": "界外之人所求",
-        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
-        "seq": 953
-      },
-      {
-        "value": "仙界劫难之根源",
+        "value": "开启之日不远",
         "docId": "plot.xianni-1121-wu-hou-gu-zhi-you-qinglin-bitian-guan-kunxu-chuansongzhen",
         "seq": 1039,
-        "note": "青霖本章仅点名未详述"
+        "note": "青霖本章预警"
       }
     ]
   },
-  "firstSeq": 953,
+  "firstSeq": 1039,
   "attrProvenance": {
     "类型": {
       "asOf": null,
@@ -45,19 +36,18 @@
       "dated": false,
       "seq": 1039
     },
-    "来历": {
+    "稳定性": {
       "asOf": null,
       "docId": "plot.xianni-1121-wu-hou-gu-zhi-you-qinglin-bitian-guan-kunxu-chuansongzhen",
       "dated": false,
       "seq": 1039,
-      "note": "青霖本章仅点名未详述"
+      "note": "青霖本章预警"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
     "plot.xianni-1121-wu-hou-gu-zhi-you-qinglin-bitian-guan-kunxu-chuansongzhen"
   ],
-  "updatedAt": "2026-08-24T16:14:46.075Z"
+  "updatedAt": "2026-08-24T16:14:46.074Z"
 }
