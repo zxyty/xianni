@@ -503,3 +503,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T14:59:36.852Z** `ingest` plot.xianni-1098-broken-sword-third-king-awakens — 仙逆 第1098章 断剑：尸阴宗第三王苏醒、王林阳谋引三方赴朱雀星 · kind=plot asOf=2026-08-24 entities=31 relations=37 src=01014-01018.p3.md
 - **2026-08-24T15:06:39.613Z** `ingest` plot.xianni-ch1099-wailai-refine-killing-sword — 第1099章 外人｜王林倾力祭炼灰衣天运子杀戮断剑 · kind=plot asOf=2026-08-24 entities=39 relations=52 src=01014-01018.p4.md
 - **2026-08-24T15:09:01.970Z** `ingest` plot.xianni-ch1100-can-you-see-through — 第1100章 你可看透？——王林承诺助尘道子复仇、守棺悟山崩 · kind=plot asOf=2026-08-24 entities=21 relations=34 src=01014-01018.p5.md
+- **2026-08-24T15:11:40.619Z** `ingest` plot.xianni-1101-shanbeng-immortal-technique-volcano-soul-fusion — 第1101章 山崩仙术之「真」——王林融火山之魂，神识笼罩朱雀圣宗星域 · kind=plot asOf=2026-08-24 entities=23 relations=32 src=01019-01023.p1.md

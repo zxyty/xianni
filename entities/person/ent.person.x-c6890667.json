@@ -4,13 +4,15 @@
   "name": "为司徒南解毒的朱雀圣宗碎涅长老",
   "aliases": [
     "朱雀圣宗碎涅长老",
-    "红光老者"
+    "红光老者",
+    "最先惊醒的朱雀圣宗长老"
   ],
   "summary": "奉朱雀圣皇之命全力为司徒南解毒的碎涅长老，寸步不离百丈，严管其疗伤进程，实为其好。",
   "attributes": {
     "身份": "朱雀圣宗长老",
     "小阶段": "碎涅",
-    "性格": "严厉而有分寸"
+    "性格": "严厉而有分寸",
+    "阵营": "朱雀圣宗"
   },
   "observations": {
     "身份": [
@@ -33,6 +35,13 @@
         "docId": "plot.xianni-1086-qingshui-news-zhuque-recovery",
         "seq": 1006
       }
+    ],
+    "阵营": [
+      {
+        "value": "朱雀圣宗",
+        "docId": "plot.xianni-1101-shanbeng-immortal-technique-volcano-soul-fusion",
+        "seq": 1019
+      }
     ]
   },
   "firstSeq": 1006,
@@ -54,12 +63,19 @@
       "docId": "plot.xianni-1086-qingshui-news-zhuque-recovery",
       "dated": false,
       "seq": 1006
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1101-shanbeng-immortal-technique-volcano-soul-fusion",
+      "dated": false,
+      "seq": 1019
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1086-qingshui-news-zhuque-recovery"
+    "plot.xianni-1086-qingshui-news-zhuque-recovery",
+    "plot.xianni-1101-shanbeng-immortal-technique-volcano-soul-fusion"
   ],
-  "updatedAt": "2026-08-24T13:00:37.312Z"
+  "updatedAt": "2026-08-24T15:11:40.295Z"
 }
