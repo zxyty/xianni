@@ -7,8 +7,9 @@
   ],
   "summary": "本片段王林所处的仙帝级洞府，危机四伏，内含黑沙荒漠等绝地。",
   "attributes": {
-    "类型": "仙帝洞府/秘境",
-    "危险度": "极高"
+    "类型": "洞府/秘境",
+    "危险度": "极高",
+    "所属势力": "仙帝青霖"
   },
   "observations": {
     "类型": [
@@ -16,6 +17,11 @@
         "value": "仙帝洞府/秘境",
         "docId": "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
         "seq": 939
+      },
+      {
+        "value": "洞府/秘境",
+        "docId": "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
+        "seq": 941
       }
     ],
     "危险度": [
@@ -24,27 +30,41 @@
         "docId": "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
         "seq": 939
       }
+    ],
+    "所属势力": [
+      {
+        "value": "仙帝青霖",
+        "docId": "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
+        "seq": 941
+      }
     ]
   },
   "firstSeq": 939,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
+      "docId": "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
       "dated": false,
-      "seq": 939
+      "seq": 941
     },
     "危险度": {
       "asOf": null,
       "docId": "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
       "dated": false,
       "seq": 939
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
+      "dated": false,
+      "seq": 941
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi"
+    "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
+    "plot.xianni-1016-desert-black-tower-sanmo-pagoda"
   ],
-  "updatedAt": "2026-08-24T05:39:52.761Z"
+  "updatedAt": "2026-08-24T06:28:02.482Z"
 }

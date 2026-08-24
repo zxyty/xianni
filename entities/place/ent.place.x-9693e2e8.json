@@ -16,17 +16,20 @@
     "黑甲老者身后的塔",
     "魔塔",
     "黑色魔塔",
-    "神秘黑塔"
+    "神秘黑塔",
+    "黑沙荒漠黑塔",
+    "远处的黑塔",
+    "十丈黑塔"
   ],
   "summary": "五行之地中通体黑石、吸光不反照、高度沿直线递增的塔；土行黑塔共三层，第三层桌面有前人留字，可供避风与查探痕迹。",
   "attributes": {
-    "类型": "关内避难/标记塔、塔、高塔、塔／据点、远古遗迹/塔、古塔、高塔/秘地、塔/禁地、法宝/禁地型塔、遗迹",
-    "上级区域": "远古战场",
+    "类型": "关内避难/标记塔、塔、高塔、塔／据点、远古遗迹/塔、古塔、高塔/秘地、塔/禁地、法宝/禁地型塔、遗迹、塔·据点、高塔/据点",
+    "上级区域": "黑沙荒漠",
     "所属势力": "无",
-    "方位": "王林所在战场的远处",
-    "规模": "高约数十丈",
-    "危险度": "极高（幽芒现则天地颤）、极高（魔气浓烈，塔内为绝代强者）、极高",
-    "守护": "黑甲老者"
+    "方位": "王林与老者交战处的远方",
+    "规模": "高十丈",
+    "危险度": "极高（幽芒现则天地颤）、极高（魔气浓烈，塔内为绝代强者）、极高、高",
+    "守护": "塔内铠甲及其意志、黑甲老者、魔仆、数十名黑袍修士"
   },
   "observations": {
     "类型": [
@@ -79,6 +82,16 @@
         "value": "遗迹",
         "docId": "plot.xianni-ch615-tanlang-whereabouts",
         "seq": 576
+      },
+      {
+        "value": "塔·据点",
+        "docId": "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
+        "seq": 941
+      },
+      {
+        "value": "高塔/据点",
+        "docId": "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
+        "seq": 941
       }
     ],
     "上级区域": [
@@ -96,6 +109,11 @@
         "value": "远古战场",
         "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
         "seq": 551
+      },
+      {
+        "value": "黑沙荒漠",
+        "docId": "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
+        "seq": 941
       }
     ],
     "所属势力": [
@@ -115,6 +133,11 @@
         "value": "王林所在战场的远处",
         "docId": "plot.xianni-ch606-qingxing-hupao-yihun-fumeng",
         "seq": 566
+      },
+      {
+        "value": "王林与老者交战处的远方",
+        "docId": "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
+        "seq": 941
       }
     ],
     "规模": [
@@ -122,6 +145,11 @@
         "value": "高约数十丈",
         "docId": "plot.xianni-ch566-hupao-elder-and-armor",
         "seq": 537
+      },
+      {
+        "value": "高十丈",
+        "docId": "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
+        "seq": 941
       }
     ],
     "危险度": [
@@ -139,6 +167,11 @@
         "value": "极高",
         "docId": "plot.xianni-ch607-ninghua-quanhun",
         "seq": 566
+      },
+      {
+        "value": "高",
+        "docId": "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
+        "seq": 941
       }
     ],
     "守护": [
@@ -151,6 +184,17 @@
         "value": "黑甲老者",
         "docId": "plot.xianni-ch606-qingxing-hupao-yihun-fumeng",
         "seq": 566
+      },
+      {
+        "value": "魔仆",
+        "docId": "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
+        "seq": 941,
+        "note": "据老者呼救推测"
+      },
+      {
+        "value": "数十名黑袍修士",
+        "docId": "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
+        "seq": 941
       }
     ]
   },
@@ -164,9 +208,9 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch551-555-yaogu-eight-strikes-yanchu-fasui",
+      "docId": "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
       "dated": false,
-      "seq": 551
+      "seq": 941
     },
     "所属势力": {
       "asOf": null,
@@ -176,15 +220,15 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch606-qingxing-hupao-yihun-fumeng",
+      "docId": "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
       "dated": false,
-      "seq": 566
+      "seq": 941
     },
     "规模": {
       "asOf": null,
-      "docId": "plot.xianni-ch566-hupao-elder-and-armor",
+      "docId": "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
       "dated": false,
-      "seq": 537
+      "seq": 941
     },
     "危险度": {
       "asOf": null,
@@ -194,9 +238,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch606-qingxing-hupao-yihun-fumeng",
+      "docId": "plot.xianni-ch601-one-drop-shengxian-fruit-vs-demon-bracer",
       "dated": false,
-      "seq": 566
+      "seq": 561
     }
   },
   "contested": false,
@@ -216,7 +260,8 @@
     "plot.xianni-ch608-blood-soul-pill-self-destruct",
     "plot.xianni-ch609-ancient-yao-blood-shadow",
     "plot.xianni-ch610-da-gong-gao-cheng",
-    "plot.xianni-ch615-tanlang-whereabouts"
+    "plot.xianni-ch615-tanlang-whereabouts",
+    "plot.xianni-1016-desert-black-tower-sanmo-pagoda"
   ],
-  "updatedAt": "2026-08-22T16:16:17.745Z"
+  "updatedAt": "2026-08-24T06:28:02.555Z"
 }

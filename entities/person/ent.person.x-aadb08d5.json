@@ -18,10 +18,11 @@
   ],
   "summary": "王林在金符梦境将散之际以生之烙印凝聚双耳所听到的自称之名，来历、身份未明。",
   "attributes": {
-    "身份": "洞府开启算计的布局者",
+    "身份": "山河图之主",
     "称号": "第一仙帝、仙界第一强者、仙帝、仙帝青霖、四大仙界第一强者",
     "存殁": "疑仍存活",
-    "标志特征": "仙灵天境第五座洞府唯一可入者"
+    "标志特征": "仙灵天境第五座洞府唯一可入者",
+    "结局": "重伤闭关"
   },
   "observations": {
     "身份": [
@@ -61,6 +62,12 @@
         "value": "洞府开启算计的布局者",
         "docId": "plot.xianni-1012-immortal-mansion-opens",
         "seq": 939
+      },
+      {
+        "value": "山河图之主",
+        "docId": "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
+        "seq": 941,
+        "note": "本章仅被提及"
       }
     ],
     "称号": [
@@ -132,15 +139,24 @@
         "docId": "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
         "seq": 939
       }
+    ],
+    "结局": [
+      {
+        "value": "重伤闭关",
+        "docId": "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
+        "seq": 941,
+        "note": "据花妃所言，仙界崩溃后遇两界外之物而重伤，在此闭关"
+      }
     ]
   },
   "firstSeq": 527,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1012-immortal-mansion-opens",
+      "docId": "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
       "dated": false,
-      "seq": 939
+      "seq": 941,
+      "note": "本章仅被提及"
     },
     "称号": {
       "asOf": null,
@@ -160,6 +176,13 @@
       "docId": "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
       "dated": false,
       "seq": 939
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
+      "dated": false,
+      "seq": 941,
+      "note": "据花妃所言，仙界崩溃后遇两界外之物而重伤，在此闭关"
     }
   },
   "contested": false,
@@ -183,7 +206,8 @@
     "plot.xianni-1007-huaxian-warning-turtle-shell",
     "plot.xianni-ch1010-hua-fei",
     "plot.xianni-1012-immortal-mansion-opens",
-    "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi"
+    "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
+    "plot.xianni-1016-desert-black-tower-sanmo-pagoda"
   ],
-  "updatedAt": "2026-08-24T05:39:52.688Z"
+  "updatedAt": "2026-08-24T06:28:02.524Z"
 }

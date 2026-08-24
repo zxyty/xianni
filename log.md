@@ -432,3 +432,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T04:37:59.690Z** `ingest` plot.xianni-1011-xianling-tianjing-four-pillars-restore — 第1011章 仙灵天境：四座洞府齐开，仙气风暴洗净妖灵之地 · kind=plot asOf=2026-08-24 entities=26 relations=35 src=00934-00938.p5.md
 - **2026-08-24T05:19:09.545Z** `ingest` plot.xianni-1012-immortal-mansion-opens — 第1012章 仙府开启：九龙阵现世，各方大能齐聚 · kind=plot asOf=2026-08-24 entities=42 relations=76 src=00939-00940.p1.md
 - **2026-08-24T05:39:53.045Z** `ingest` plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi — 第1013章 魔影：青霖第五洞府黑沙之地，王林遭灰气漩风追杀 · kind=plot asOf=2026-08-24 entities=42 relations=67 src=00939-00940.p2.md
+- **2026-08-24T06:28:02.791Z** `ingest` plot.xianni-1016-desert-black-tower-sanmo-pagoda — 第1016章 大漠孤烟：黑沙荒漠散魔塔与沙土傀儡围攻 · kind=plot asOf=2026-08-24 entities=54 relations=86 src=00941-00944.p1.md
