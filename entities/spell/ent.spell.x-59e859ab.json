@@ -4,13 +4,16 @@
   "name": "封界第七阵之灵",
   "aliases": [
     "以百世血元化婴唤封界第七阵之灵",
-    "闪电印记"
+    "闪电印记",
+    "第七阵之灵",
+    "封界之阵灵"
   ],
   "summary": "苍松子以咬舌喷血、七个元婴为代价召唤的杀招，凝成吸尽天地光芒的闪电印记，射出无从闪避的闪电重创王林胸口。",
   "attributes": {
-    "类型": "召唤阵灵类秘法",
+    "类型": "召唤类神通",
     "威力": "天地为之一暗，闪电击碎王林掌印并正中其胸口",
-    "消耗": "咬破舌尖喷血、以百世血元化婴（七个元婴）"
+    "消耗": "咬破舌尖喷血、以百世血元化婴（七个元婴）",
+    "出处": "苍松子"
   },
   "observations": {
     "类型": [
@@ -18,6 +21,11 @@
         "value": "召唤阵灵类秘法",
         "docId": "plot.xianni-1193-blood-battle-cang-song-zi",
         "seq": 1110
+      },
+      {
+        "value": "召唤类神通",
+        "docId": "plot.xianni-1198-danyao-tianni-fangzhipin-yu-liefeng-sanren",
+        "seq": 1114
       }
     ],
     "威力": [
@@ -33,15 +41,22 @@
         "docId": "plot.xianni-1193-blood-battle-cang-song-zi",
         "seq": 1110
       }
+    ],
+    "出处": [
+      {
+        "value": "苍松子",
+        "docId": "plot.xianni-1198-danyao-tianni-fangzhipin-yu-liefeng-sanren",
+        "seq": 1114
+      }
     ]
   },
   "firstSeq": 1110,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1193-blood-battle-cang-song-zi",
+      "docId": "plot.xianni-1198-danyao-tianni-fangzhipin-yu-liefeng-sanren",
       "dated": false,
-      "seq": 1110
+      "seq": 1114
     },
     "威力": {
       "asOf": null,
@@ -54,12 +69,19 @@
       "docId": "plot.xianni-1193-blood-battle-cang-song-zi",
       "dated": false,
       "seq": 1110
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.xianni-1198-danyao-tianni-fangzhipin-yu-liefeng-sanren",
+      "dated": false,
+      "seq": 1114
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1193-blood-battle-cang-song-zi"
+    "plot.xianni-1193-blood-battle-cang-song-zi",
+    "plot.xianni-1198-danyao-tianni-fangzhipin-yu-liefeng-sanren"
   ],
-  "updatedAt": "2026-08-24T22:59:41.951Z"
+  "updatedAt": "2026-08-24T23:18:04.737Z"
 }

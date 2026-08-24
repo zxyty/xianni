@@ -593,3 +593,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T23:09:10.922Z** `ingest` plot.xianni-ch1195-seven-colored-nail — 第1195章 七彩钉——王林以肉身硬撼十二阶鹰兽逼出七彩钉 · kind=plot asOf=2026-08-24 entities=24 relations=31 src=01110-01113.p4.md
 - **2026-08-24T23:12:09.568Z** `ingest` plot.xianni-1196-sima-mo-cave-secret — 仙逆第1196章：七彩钉子入手与司马墨洞府的秘密 · kind=plot asOf=2026-08-24 entities=33 relations=37 src=01114-01118.p1.md
 - **2026-08-24T23:15:06.892Z** `ingest` plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads — 第1197章 掌尊：司马墨三枚玉简揭七彩界真相，王林认出「天逆」珠 · kind=plot asOf=2026-08-24 entities=34 relations=55 src=01114-01118.p2.md
+- **2026-08-24T23:18:05.098Z** `ingest` plot.xianni-1198-danyao-tianni-fangzhipin-yu-liefeng-sanren — 第1198章 丹药：仿天逆石珠、十一至十三阶丹药与祭坛裂缝来客 · kind=plot asOf=2026-08-24 entities=29 relations=42 src=01114-01118.p3.md
