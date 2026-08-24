@@ -3,12 +3,13 @@
   "type": "place",
   "name": "狭路",
   "aliases": [
-    "七彩界狭路"
+    "七彩界狭路",
+    "狭路入口"
   ],
   "summary": "七彩界内两侧山脉夹峙的狭窄通路，原被化雾凶兽雾气阻塞，本章围杀蛟龙即在此处。",
   "attributes": {
     "所属界面": "七彩界",
-    "类型": "山脉夹峙的狭窄通路",
+    "类型": "山脉夹峙的狭窄通路、通道",
     "危险度": "极高（多头十二阶化雾凶兽出没）"
   },
   "observations": {
@@ -23,6 +24,11 @@
       {
         "value": "山脉夹峙的狭窄通路",
         "docId": "plot.xianni-1183-do-not-move-jiaolong-slain",
+        "seq": 1100
+      },
+      {
+        "value": "通道",
+        "docId": "plot.xianni-1184-qicai-jie-mishizhe-duanmu-tongzi",
         "seq": 1100
       }
     ],
@@ -58,7 +64,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1183-do-not-move-jiaolong-slain"
+    "plot.xianni-1183-do-not-move-jiaolong-slain",
+    "plot.xianni-1184-qicai-jie-mishizhe-duanmu-tongzi"
   ],
-  "updatedAt": "2026-08-24T21:31:08.218Z"
+  "updatedAt": "2026-08-24T21:37:47.819Z"
 }

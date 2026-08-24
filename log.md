@@ -579,3 +579,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T21:26:28.927Z** `ingest` plot.xianni-ch1181-yun-hun-zi-lost-in-rift — 第1181章 血魂子丢了：王林裂缝中偷袭云魂子，断其一臂使其传送错位 · kind=plot asOf=2026-08-24 entities=22 relations=29 src=01095-01099.p5.md
 - **2026-08-24T21:28:49.329Z** `ingest` plot.xianni-1182-qicai-jie-lunhui-dan-shijie-jiao — 第1182章 七彩界：苍松子领队深入，众修联手围猎十二阶雾化蛟龙夺轮回丹 · kind=plot asOf=2026-08-24 entities=25 relations=28 src=01100-01104.p1.md
 - **2026-08-24T21:31:08.525Z** `ingest` plot.xianni-1183-do-not-move-jiaolong-slain — 第1183章 不要动——王林徒手摔落十二阶化雾蛟龙、狭路再现异变 · kind=plot asOf=2026-08-24 entities=19 relations=29 src=01100-01104.p2.md
+- **2026-08-24T21:37:48.152Z** `ingest` plot.xianni-1184-qicai-jie-mishizhe-duanmu-tongzi — 《仙逆》第1184章 奉至修真行：七彩界迷失者夺境，端木童子沦为行尸 · kind=plot asOf=2026-08-24 entities=29 relations=54 src=01100-01104.p3.md

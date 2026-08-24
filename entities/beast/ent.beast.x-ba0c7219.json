@@ -5,14 +5,16 @@
   "aliases": [
     "化雾蛟龙",
     "十二阶化雾凶兽",
-    "化雾凶兽"
+    "化雾凶兽",
+    "化雾之兽",
+    "龟状凶兽"
   ],
   "summary": "守在轮回丹旁的凶兽，十二阶，令苍松子无法取得丹药。",
   "attributes": {
     "等级": "十二阶化雾凶兽",
-    "能力": "化雾、黑角放黑色电网、吸收天地元力与七彩之芒幻化蛟龙虚影、张口吐腥风毒雾、肉身之力远超多数炼体修士",
-    "栖息地": "七彩界狭路",
-    "外形": "身长约千丈，头生一根黑角",
+    "能力": "化雾、黑角放黑色电网、吸收天地元力与七彩之芒幻化蛟龙虚影、张口吐腥风毒雾、肉身之力远超多数炼体修士、吞食仙玉",
+    "栖息地": "苍松子所指目的地、七彩界狭路、七彩界雾气/深渊",
+    "外形": "身长约千丈，头生一根黑角、龟状（本章所遇）",
     "天敌": "古神之力"
   },
   "observations": {
@@ -54,6 +56,11 @@
         "value": "肉身之力远超多数炼体修士",
         "docId": "plot.xianni-1183-do-not-move-jiaolong-slain",
         "seq": 1100
+      },
+      {
+        "value": "吞食仙玉",
+        "docId": "plot.xianni-1184-qicai-jie-mishizhe-duanmu-tongzi",
+        "seq": 1100
       }
     ],
     "栖息地": [
@@ -66,12 +73,22 @@
         "value": "七彩界狭路",
         "docId": "plot.xianni-1183-do-not-move-jiaolong-slain",
         "seq": 1100
+      },
+      {
+        "value": "七彩界雾气/深渊",
+        "docId": "plot.xianni-1184-qicai-jie-mishizhe-duanmu-tongzi",
+        "seq": 1100
       }
     ],
     "外形": [
       {
         "value": "身长约千丈，头生一根黑角",
         "docId": "plot.xianni-1183-do-not-move-jiaolong-slain",
+        "seq": 1100
+      },
+      {
+        "value": "龟状（本章所遇）",
+        "docId": "plot.xianni-1184-qicai-jie-mishizhe-duanmu-tongzi",
         "seq": 1100
       }
     ],
@@ -100,9 +117,9 @@
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.xianni-1183-do-not-move-jiaolong-slain",
+      "docId": "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
       "dated": false,
-      "seq": 1100
+      "seq": 1095
     },
     "外形": {
       "asOf": null,
@@ -121,7 +138,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
-    "plot.xianni-1183-do-not-move-jiaolong-slain"
+    "plot.xianni-1183-do-not-move-jiaolong-slain",
+    "plot.xianni-1184-qicai-jie-mishizhe-duanmu-tongzi"
   ],
-  "updatedAt": "2026-08-24T21:31:08.216Z"
+  "updatedAt": "2026-08-24T21:37:47.820Z"
 }
