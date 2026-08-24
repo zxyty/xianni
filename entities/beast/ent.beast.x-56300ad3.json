@@ -7,12 +7,15 @@
     "丛莽之山荒兽",
     "荒獸",
     "凶兽",
-    "地魔北界荒兽"
+    "地魔北界荒兽",
+    "云海凶兽",
+    "星雾凶兽"
   ],
   "summary": "妖灵之兽在黑雨淋洒下实力攀升后出现的更强兽类。",
   "attributes": {
     "栖息地": "修魔海、古神之地通道内、古神之地通道更深处、地星北界百万里丛莽之山、地魔北界深处、地魔北界深处三十万里内",
-    "等级": "高于寻常灵兽、相当于大神通修士、有相当于问鼎境者、最强者相当于问鼎修士"
+    "等级": "高于寻常灵兽、相当于大神通修士、有相当于问鼎境者、最强者相当于问鼎修士",
+    "天敌": "修士"
   },
   "observations": {
     "栖息地": [
@@ -68,6 +71,13 @@
         "docId": "plot.xianni-ch514-target-donghai-yaoling-gate",
         "seq": 491
       }
+    ],
+    "天敌": [
+      {
+        "value": "修士",
+        "docId": "plot.xianni-ch1143-purple-qi-from-west",
+        "seq": 1058
+      }
     ]
   },
   "firstSeq": 210,
@@ -83,6 +93,12 @@
       "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
       "dated": false,
       "seq": 273
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1143-purple-qi-from-west",
+      "dated": false,
+      "seq": 1058
     }
   },
   "contested": false,
@@ -92,7 +108,8 @@
     "plot.xianni-ch289-ancient-god-sacrifice-treasure",
     "plot.xianni-ch481-485-killing-immortal-art-and-tianyun-star",
     "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
-    "plot.xianni-ch514-target-donghai-yaoling-gate"
+    "plot.xianni-ch514-target-donghai-yaoling-gate",
+    "plot.xianni-ch1143-purple-qi-from-west"
   ],
-  "updatedAt": "2026-08-21T12:01:42.121Z"
+  "updatedAt": "2026-08-24T18:18:43.162Z"
 }

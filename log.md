@@ -541,3 +541,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T18:10:28.611Z** `ingest` plot.xianni-ch1140-guiyuan-zong-lv-yanfei — 仙逆 第1140章 归元宗：吕烟菲与紫色玉简之辱 · kind=plot asOf=2026-08-24 entities=38 relations=56 src=01058-01062.p1.md
 - **2026-08-24T18:13:16.070Z** `ingest` plot.xianni-ch1141-lv-yanfei — 第1141章 吕烟菲——雨晨山巅倾诉，王林以「曾牛」凡人身份旁听 · kind=plot asOf=2026-08-24 entities=29 relations=47 src=01058-01062.p2.md
 - **2026-08-24T18:15:50.169Z** `ingest` plot.xianni-ch1142-jing-hun-sun-yun-ru-si-li-hun-dan — 第1142章 精魂：王林暗助孙芸炼化金眼黑猿魂，归元宗危机迫近 · kind=plot asOf=2026-08-24 entities=21 relations=29 src=01058-01062.p3.md
+- **2026-08-24T18:18:43.483Z** `ingest` plot.xianni-ch1143-purple-qi-from-west — 第1143章 紫气西来：王林夜探悬空道观悟云海炼丹，莫罗大陆西部黑塔防护被紫风老者击破 · kind=plot asOf=2026-08-24 entities=28 relations=46 src=01058-01062.p4.md

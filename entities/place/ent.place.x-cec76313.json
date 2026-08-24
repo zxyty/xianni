@@ -7,15 +7,17 @@
     "莫罗",
     "莫罗大陆宗派驻地",
     "Muo Luo Continent",
-    "莫罗大陆深处"
+    "莫罗大陆深处",
+    "Momo Continent"
   ],
   "summary": "漂浮于云海星域第五阶的大陆，中心黑塔之光笼罩全陆隔绝星雾；其北部丛林有接引王林的传送阵。",
   "attributes": {
     "上级区域": "云海星域",
-    "类型": "漂浮星空的大陆（代表一个宗派）、大陆",
-    "守护": "中心黑塔的柔和之光",
+    "类型": "漂浮星空的大陆（代表一个宗派）、大陆、漂浮大陆",
+    "守护": "黑塔防护之光",
     "所属界面": "云海星域",
-    "特产": "药草"
+    "特产": "药草",
+    "危险度": "外有星雾与无数凶兽"
   },
   "observations": {
     "上级区域": [
@@ -40,6 +42,11 @@
         "value": "大陆",
         "docId": "plot.xianni-1138-yu-guiyuanzong-zeling",
         "seq": 1054
+      },
+      {
+        "value": "漂浮大陆",
+        "docId": "plot.xianni-ch1143-purple-qi-from-west",
+        "seq": 1058
       }
     ],
     "守护": [
@@ -47,6 +54,11 @@
         "value": "中心黑塔的柔和之光",
         "docId": "plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai",
         "seq": 1054
+      },
+      {
+        "value": "黑塔防护之光",
+        "docId": "plot.xianni-ch1143-purple-qi-from-west",
+        "seq": 1058
       }
     ],
     "所属界面": [
@@ -60,6 +72,13 @@
       {
         "value": "药草",
         "docId": "plot.xianni-ch1141-lv-yanfei",
+        "seq": 1058
+      }
+    ],
+    "危险度": [
+      {
+        "value": "外有星雾与无数凶兽",
+        "docId": "plot.xianni-ch1143-purple-qi-from-west",
         "seq": 1058
       }
     ]
@@ -80,9 +99,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai",
+      "docId": "plot.xianni-ch1143-purple-qi-from-west",
       "dated": false,
-      "seq": 1054
+      "seq": 1058
     },
     "所属界面": {
       "asOf": null,
@@ -95,6 +114,12 @@
       "docId": "plot.xianni-ch1141-lv-yanfei",
       "dated": false,
       "seq": 1058
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1143-purple-qi-from-west",
+      "dated": false,
+      "seq": 1058
     }
   },
   "contested": false,
@@ -105,7 +130,8 @@
     "plot.xianni-1139-zeng-niu-mo-luo-gui-yuan-zong",
     "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
     "plot.xianni-ch1141-lv-yanfei",
-    "plot.xianni-ch1142-jing-hun-sun-yun-ru-si-li-hun-dan"
+    "plot.xianni-ch1142-jing-hun-sun-yun-ru-si-li-hun-dan",
+    "plot.xianni-ch1143-purple-qi-from-west"
   ],
-  "updatedAt": "2026-08-24T18:15:49.891Z"
+  "updatedAt": "2026-08-24T18:18:43.143Z"
 }
