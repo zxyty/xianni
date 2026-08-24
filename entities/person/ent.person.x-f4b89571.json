@@ -4,19 +4,29 @@
   "name": "紫金袍中年男子",
   "aliases": [
     "身穿紫金袍的中年男子",
-    "昆虚紫金袍男子"
+    "昆虚紫金袍男子",
+    "紫金袍男子",
+    "昆虚接引者"
   ],
   "summary": "自虚空一步踏出的威严中年男子，现身后四周昆虚修士皆恭敬；开口称「朱雀圣皇驾临昆虚，倒是稀客」。",
   "attributes": {
-    "外貌": "身穿紫金袍的中年男子",
+    "外貌": "身穿紫金袍的中年男子、紫金袍",
     "性格": "威严",
-    "身份": "昆虚之境中地位甚高者"
+    "身份": "昆虚之境中地位甚高者",
+    "性别": "男",
+    "小阶段": "碎涅",
+    "阵营": "昆虚之境"
   },
   "observations": {
     "外貌": [
       {
         "value": "身穿紫金袍的中年男子",
         "docId": "plot.xianni-ch1122-zhou-ru-forbidden-area-slaughter",
+        "seq": 1039
+      },
+      {
+        "value": "紫金袍",
+        "docId": "plot.xianni-ch1123-duibuqi-zhouru-kunxu-departure",
         "seq": 1039
       }
     ],
@@ -33,6 +43,27 @@
         "docId": "plot.xianni-ch1122-zhou-ru-forbidden-area-slaughter",
         "seq": 1039,
         "note": "现身后众修士立刻恭敬"
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch1123-duibuqi-zhouru-kunxu-departure",
+        "seq": 1039
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "碎涅",
+        "docId": "plot.xianni-ch1123-duibuqi-zhouru-kunxu-departure",
+        "seq": 1039
+      }
+    ],
+    "阵营": [
+      {
+        "value": "昆虚之境",
+        "docId": "plot.xianni-ch1123-duibuqi-zhouru-kunxu-departure",
+        "seq": 1039
       }
     ]
   },
@@ -56,12 +87,31 @@
       "dated": false,
       "seq": 1039,
       "note": "现身后众修士立刻恭敬"
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1123-duibuqi-zhouru-kunxu-departure",
+      "dated": false,
+      "seq": 1039
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1123-duibuqi-zhouru-kunxu-departure",
+      "dated": false,
+      "seq": 1039
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1123-duibuqi-zhouru-kunxu-departure",
+      "dated": false,
+      "seq": 1039
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1122-zhou-ru-forbidden-area-slaughter"
+    "plot.xianni-ch1122-zhou-ru-forbidden-area-slaughter",
+    "plot.xianni-ch1123-duibuqi-zhouru-kunxu-departure"
   ],
-  "updatedAt": "2026-08-24T16:21:29.849Z"
+  "updatedAt": "2026-08-24T16:23:43.673Z"
 }
