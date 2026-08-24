@@ -9,7 +9,9 @@
   "summary": "从司徒南神通中走出的银衣女子，浮风子看向她时心底有些疑惑。",
   "attributes": {
     "性别": "女",
-    "外貌": "银衣"
+    "外貌": "银衣",
+    "称号": "银尸",
+    "身份": "王林麾下战力/护法"
   },
   "observations": {
     "性别": [
@@ -24,6 +26,20 @@
         "value": "银衣",
         "docId": "plot.xianni-ch997-xukongzi-arrival",
         "seq": 926
+      }
+    ],
+    "称号": [
+      {
+        "value": "银尸",
+        "docId": "plot.xianni-1003-dijun-tuogu-diyu-jianling-xianfu-neihuan-jinzhi",
+        "seq": 929
+      }
+    ],
+    "身份": [
+      {
+        "value": "王林麾下战力/护法",
+        "docId": "plot.xianni-1003-dijun-tuogu-diyu-jianling-xianfu-neihuan-jinzhi",
+        "seq": 929
       }
     ]
   },
@@ -40,6 +56,18 @@
       "docId": "plot.xianni-ch997-xukongzi-arrival",
       "dated": false,
       "seq": 926
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-1003-dijun-tuogu-diyu-jianling-xianfu-neihuan-jinzhi",
+      "dated": false,
+      "seq": 929
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-1003-dijun-tuogu-diyu-jianling-xianfu-neihuan-jinzhi",
+      "dated": false,
+      "seq": 929
     }
   },
   "contested": false,
@@ -47,7 +75,8 @@
   "docs": [
     "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
     "plot.xianni-ch997-xukongzi-arrival",
-    "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance"
+    "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
+    "plot.xianni-1003-dijun-tuogu-diyu-jianling-xianfu-neihuan-jinzhi"
   ],
-  "updatedAt": "2026-08-24T04:02:17.369Z"
+  "updatedAt": "2026-08-24T04:17:46.498Z"
 }

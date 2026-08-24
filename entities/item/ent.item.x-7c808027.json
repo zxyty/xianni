@@ -3,12 +3,13 @@
   "type": "item",
   "name": "仙府玉简",
   "aliases": [
-    "仙府玉简（传送）"
+    "仙府玉简（传送）",
+    "仙府传送玉简"
   ],
   "summary": "王林用以瞬息往返仙府的玉简。",
   "attributes": {
     "类型": "玉简",
-    "用途": "瞬息传送至仙府"
+    "用途": "开启后传送进入仙府"
   },
   "observations": {
     "类型": [
@@ -23,6 +24,11 @@
         "value": "瞬息传送至仙府",
         "docId": "plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge",
         "seq": 926
+      },
+      {
+        "value": "开启后传送进入仙府",
+        "docId": "plot.xianni-1003-dijun-tuogu-diyu-jianling-xianfu-neihuan-jinzhi",
+        "seq": 929
       }
     ]
   },
@@ -36,15 +42,16 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge",
+      "docId": "plot.xianni-1003-dijun-tuogu-diyu-jianling-xianfu-neihuan-jinzhi",
       "dated": false,
-      "seq": 926
+      "seq": 929
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge"
+    "plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge",
+    "plot.xianni-1003-dijun-tuogu-diyu-jianling-xianfu-neihuan-jinzhi"
   ],
-  "updatedAt": "2026-08-24T04:09:56.744Z"
+  "updatedAt": "2026-08-24T04:17:46.503Z"
 }
