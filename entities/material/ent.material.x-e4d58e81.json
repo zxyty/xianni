@@ -3,12 +3,16 @@
   "type": "material",
   "name": "元晶",
   "aliases": [
-    "元晶石"
+    "元晶石",
+    "Yuan Jing",
+    "一枚元晶"
   ],
   "summary": "云海星域通用的高阶资源/货币，可与仙玉兑换，亦为跨星域传送阵开启所需的巨额消耗品。",
   "attributes": {
-    "类型": "灵石类资源/货币",
-    "用途": "坊市兑换、开启跨星域传送阵"
+    "类型": "灵石类资源/货币、晶石、修真交易资源",
+    "用途": "坊市兑换、开启跨星域传送阵、快速回复元力、加快吐纳速度、祭炼法宝与布阵时威力倍增、王林本章交易目标、王林与欧阳隆的交易标的",
+    "稀有度": "极为稀少，多为八阶以上（尤其九阶）星域宗派掌握",
+    "产地": "十二阶元兽体内（放养于雾气中常年累月形成）"
   },
   "observations": {
     "类型": [
@@ -16,6 +20,16 @@
         "value": "灵石类资源/货币",
         "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
         "seq": 1082
+      },
+      {
+        "value": "晶石",
+        "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+        "seq": 1087
+      },
+      {
+        "value": "修真交易资源",
+        "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+        "seq": 1087
       }
     ],
     "用途": [
@@ -28,6 +42,45 @@
         "value": "开启跨星域传送阵",
         "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
         "seq": 1082
+      },
+      {
+        "value": "快速回复元力",
+        "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+        "seq": 1087
+      },
+      {
+        "value": "加快吐纳速度",
+        "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+        "seq": 1087
+      },
+      {
+        "value": "祭炼法宝与布阵时威力倍增",
+        "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+        "seq": 1087
+      },
+      {
+        "value": "王林本章交易目标",
+        "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+        "seq": 1087
+      },
+      {
+        "value": "王林与欧阳隆的交易标的",
+        "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+        "seq": 1087
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "极为稀少，多为八阶以上（尤其九阶）星域宗派掌握",
+        "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+        "seq": 1087
+      }
+    ],
+    "产地": [
+      {
+        "value": "十二阶元兽体内（放养于雾气中常年累月形成）",
+        "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+        "seq": 1087
       }
     ]
   },
@@ -44,12 +97,25 @@
       "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
       "dated": false,
       "seq": 1082
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+      "dated": false,
+      "seq": 1087
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+      "dated": false,
+      "seq": 1087
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair"
+    "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+    "plot.xianni-ch1169-who-are-you-penglai-fair"
   ],
-  "updatedAt": "2026-08-24T20:15:08.171Z"
+  "updatedAt": "2026-08-24T20:57:23.052Z"
 }

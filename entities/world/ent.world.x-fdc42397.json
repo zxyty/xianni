@@ -14,8 +14,8 @@
   "summary": "四大仙界之一，由通往仙域的通道演化而成。",
   "attributes": {
     "层次": "四大仙界之一",
-    "特点": "四大仙界之一、下辖云尘星域、四大仙界之一，其下云海、充满蚊兽、常年开放，不需开启、几乎无人敢深入，多在外围寻宝",
-    "主宰势力": "仙帝蓝云",
+    "特点": "四大仙界之一、下辖云尘星域、四大仙界之一，其下云海、充满蚊兽、常年开放，不需开启、几乎无人敢深入，多在外围寻宝、仙玉产地，无法进入",
+    "主宰势力": "蚊兽",
     "所属星域": "云海星域",
     "通道": "入口在八阶星域北部"
   },
@@ -67,6 +67,11 @@
         "value": "几乎无人敢深入，多在外围寻宝",
         "docId": "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong",
         "seq": 1077
+      },
+      {
+        "value": "仙玉产地，无法进入",
+        "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+        "seq": 1087
       }
     ],
     "主宰势力": [
@@ -74,6 +79,12 @@
         "value": "仙帝蓝云",
         "docId": "plot.xianni-1071-zhu-que-sheng-zong-lai-lin",
         "seq": 987
+      },
+      {
+        "value": "蚊兽",
+        "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+        "seq": 1087,
+        "note": "被占据"
       }
     ],
     "所属星域": [
@@ -107,9 +118,10 @@
     },
     "主宰势力": {
       "asOf": null,
-      "docId": "plot.xianni-1071-zhu-que-sheng-zong-lai-lin",
+      "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
       "dated": false,
-      "seq": 987
+      "seq": 1087,
+      "note": "被占据"
     },
     "所属星域": {
       "asOf": null,
@@ -135,7 +147,8 @@
     "plot.xianni-1071-zhu-que-sheng-zong-lai-lin",
     "plot.xianni-ch1103-yunhai-mosquito-beasts-stolen",
     "plot.xianni-ch1108-ancient-immortal-domain-aura",
-    "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong"
+    "plot.xianni-ch1163-shu-zui-wang-lin-yi-jing-zhi-dao-zhen-she-san-zong",
+    "plot.xianni-ch1169-who-are-you-penglai-fair"
   ],
-  "updatedAt": "2026-08-24T20:03:03.682Z"
+  "updatedAt": "2026-08-24T20:57:22.898Z"
 }

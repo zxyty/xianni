@@ -5,14 +5,16 @@
   "aliases": [
     "青年文士",
     "青竹阁青年",
-    "Sun Mo"
+    "Sun Mo",
+    "羽扇文士"
   ],
   "summary": "青竹阁店主，化神初期青年文士，随和热情，首位鉴出飞剑瞬移神通者，先后出价十万、十五万上品灵石。",
   "attributes": {
-    "小阶段": "化神初期",
+    "小阶段": "碎涅初期",
     "身份": "青竹阁店主/家族晚辈",
     "性格": "随和热情，眼力尚可但沉不住气",
-    "外貌": "青年文士，手持古书"
+    "外貌": "面色白皙、手执羽扇",
+    "标志特征": "羽扇"
   },
   "observations": {
     "小阶段": [
@@ -20,6 +22,11 @@
         "value": "化神初期",
         "docId": "plot.xianni-ch664-cuoguo-qingzhuge-sell-sword",
         "seq": 621
+      },
+      {
+        "value": "碎涅初期",
+        "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+        "seq": 1087
       }
     ],
     "身份": [
@@ -41,6 +48,18 @@
         "value": "青年文士，手持古书",
         "docId": "plot.xianni-ch664-cuoguo-qingzhuge-sell-sword",
         "seq": 621
+      },
+      {
+        "value": "面色白皙、手执羽扇",
+        "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+        "seq": 1087
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "羽扇",
+        "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+        "seq": 1087
       }
     ]
   },
@@ -48,9 +67,9 @@
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch664-cuoguo-qingzhuge-sell-sword",
+      "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
       "dated": false,
-      "seq": 621
+      "seq": 1087
     },
     "身份": {
       "asOf": null,
@@ -66,15 +85,22 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch664-cuoguo-qingzhuge-sell-sword",
+      "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
       "dated": false,
-      "seq": 621
+      "seq": 1087
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+      "dated": false,
+      "seq": 1087
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch664-cuoguo-qingzhuge-sell-sword"
+    "plot.xianni-ch664-cuoguo-qingzhuge-sell-sword",
+    "plot.xianni-ch1169-who-are-you-penglai-fair"
   ],
-  "updatedAt": "2026-08-22T22:26:59.120Z"
+  "updatedAt": "2026-08-24T20:57:23.041Z"
 }

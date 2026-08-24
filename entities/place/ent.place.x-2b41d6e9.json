@@ -10,11 +10,12 @@
   ],
   "summary": "李倩梅邀王林同往之地，近日将举办三十年一次的坊市与拍卖。",
   "attributes": {
-    "特产": "三十年一次的坊市与拍卖、蓬莱坊市、蓬莱乱法、贵物拍卖",
+    "特产": "三十年一次的坊市与拍卖、蓬莱坊市、蓬莱乱法、贵物拍卖、坊市（定期开启）、星图玉简、炼丹材料",
     "所属势力": "宝玉宗",
-    "类型": "半个修真星",
+    "类型": "大陆",
     "规模": "莫罗大陆的数十倍",
-    "上级区域": "五阶星域"
+    "上级区域": "五阶星域",
+    "所属界面": "云海星域"
   },
   "observations": {
     "特产": [
@@ -37,6 +38,16 @@
         "value": "贵物拍卖",
         "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
         "seq": 1082
+      },
+      {
+        "value": "坊市（定期开启）",
+        "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+        "seq": 1087
+      },
+      {
+        "value": "星图玉简、炼丹材料",
+        "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+        "seq": 1087
       }
     ],
     "所属势力": [
@@ -51,6 +62,11 @@
         "value": "半个修真星",
         "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
         "seq": 1082
+      },
+      {
+        "value": "大陆",
+        "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+        "seq": 1087
       }
     ],
     "规模": [
@@ -65,6 +81,13 @@
         "value": "五阶星域",
         "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
         "seq": 1082
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "云海星域",
+        "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+        "seq": 1087
       }
     ]
   },
@@ -84,9 +107,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+      "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
       "dated": false,
-      "seq": 1082
+      "seq": 1087
     },
     "规模": {
       "asOf": null,
@@ -99,13 +122,20 @@
       "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
       "dated": false,
       "seq": 1082
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+      "dated": false,
+      "seq": 1087
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1167-hui-mou-yi-xiao-lun-dao",
-    "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair"
+    "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+    "plot.xianni-ch1169-who-are-you-penglai-fair"
   ],
-  "updatedAt": "2026-08-24T20:15:08.154Z"
+  "updatedAt": "2026-08-24T20:57:23.016Z"
 }

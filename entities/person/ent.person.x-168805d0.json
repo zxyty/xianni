@@ -16,12 +16,12 @@
   "attributes": {
     "性别": "女",
     "小阶段": "碎涅后期",
-    "身份": "九阶破天宗修士、九阶破天宗弟子、破天宗修士、破天宗弟子",
-    "外貌": "相貌秀丽、一头蓝发、一身白衣，容颜精致，目光宁静纯净、相貌绝伦、肤如凝玉、一身白衣如雪、手持晶莹翠笛、相貌秀美、俏脸秀眉、双眸如晶、白衣如雪，蓝色秀发无风飘动，相貌秀美绝伦，如踏入凡尘的仙子",
-    "标志特征": "一头蓝色秀发（云海星域独一无二）、云海星域唯一的蓝发女子、手持翠笛、蓝雾化作千丈蓝色灵龙、向人提出三个问题问道、许诺解惑者拂笛一曲、随身拂笛、以储物裂缝取物、一路向众修士询问三个关于道的问题、随身翠笛、以三个问题问道于人",
+    "身份": "九阶破天宗修士、九阶破天宗弟子、破天宗修士、破天宗弟子、为魔丛道长老所知的特殊身份",
+    "外貌": "相貌秀丽、一头蓝发、一身白衣，容颜精致，目光宁静纯净、相貌绝伦、肤如凝玉、一身白衣如雪、手持晶莹翠笛、相貌秀美、俏脸秀眉、双眸如晶、白衣如雪，蓝色秀发无风飘动，相貌秀美绝伦，如踏入凡尘的仙子、蓝色发丝；本章以道法变为黑发、秀发变了颜色",
+    "标志特征": "一头蓝色秀发（云海星域独一无二）、云海星域唯一的蓝发女子、手持翠笛、蓝雾化作千丈蓝色灵龙、向人提出三个问题问道、许诺解惑者拂笛一曲、随身拂笛、以储物裂缝取物、一路向众修士询问三个关于道的问题、随身翠笛、以三个问题问道于人、笑时双眼如月牙、修道时间短，阅历不及王林",
     "寿元": "已修道一千二百余年",
     "称号": "云海星域的传奇",
-    "性格": "宁静典雅、不带杂质、宁静出尘、欣赏道之明悟者、宁静好道、执着问道、少为人详细解释、宁静无杂质、心折即坦言",
+    "性格": "宁静典雅、不带杂质、宁静出尘、欣赏道之明悟者、宁静好道、执着问道、少为人详细解释、宁静无杂质、心折即坦言、宁静、无傲意、对外男冷淡、刚直、易恼",
     "阵营": "破天宗"
   },
   "observations": {
@@ -59,6 +59,12 @@
         "value": "破天宗弟子",
         "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
         "seq": 1082
+      },
+      {
+        "value": "为魔丛道长老所知的特殊身份",
+        "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+        "seq": 1087,
+        "note": "文中未点破"
       }
     ],
     "外貌": [
@@ -86,6 +92,18 @@
         "value": "白衣如雪，蓝色秀发无风飘动，相貌秀美绝伦，如踏入凡尘的仙子",
         "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
         "seq": 1082
+      },
+      {
+        "value": "蓝色发丝；本章以道法变为黑发",
+        "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+        "seq": 1087,
+        "note": "变发为避人识出"
+      },
+      {
+        "value": "秀发变了颜色",
+        "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+        "seq": 1087,
+        "note": "本章特征"
       }
     ],
     "标志特征": [
@@ -143,6 +161,16 @@
         "value": "以三个问题问道于人",
         "docId": "plot.xianni-1167-hui-mou-yi-xiao-lun-dao",
         "seq": 1082
+      },
+      {
+        "value": "笑时双眼如月牙",
+        "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+        "seq": 1087
+      },
+      {
+        "value": "修道时间短，阅历不及王林",
+        "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+        "seq": 1087
       }
     ],
     "寿元": [
@@ -179,6 +207,16 @@
         "value": "宁静无杂质、心折即坦言",
         "docId": "plot.xianni-1167-hui-mou-yi-xiao-lun-dao",
         "seq": 1082
+      },
+      {
+        "value": "宁静、无傲意、对外男冷淡",
+        "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+        "seq": 1087
+      },
+      {
+        "value": "刚直、易恼",
+        "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+        "seq": 1087
       }
     ],
     "阵营": [
@@ -254,7 +292,8 @@
     "plot.xianni-ch1165-lu-yuncong-bi-bu-liao",
     "plot.xianni-1166-tian-de-huangyan-li-qianmei-wendao",
     "plot.xianni-1167-hui-mou-yi-xiao-lun-dao",
-    "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair"
+    "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+    "plot.xianni-ch1169-who-are-you-penglai-fair"
   ],
-  "updatedAt": "2026-08-24T20:15:08.152Z"
+  "updatedAt": "2026-08-24T20:57:22.972Z"
 }

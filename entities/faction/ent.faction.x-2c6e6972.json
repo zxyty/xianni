@@ -4,13 +4,16 @@
   "name": "宝玉宗",
   "aliases": [
     "Baoyu Sect",
-    "五阶星域第一宗"
+    "五阶星域第一宗",
+    "蓬莱宝玉宗"
   ],
   "summary": "五阶星域第一宗，修士众多、大神通老怪不少，占据半个修真星（蓬莱大陆），并主办三十年一度的蓬莱坊市。",
   "attributes": {
     "等级": "五阶星域第一宗",
-    "据点": "蓬莱大陆（半个修真星）",
-    "所属界面": "云海星域五阶星域"
+    "据点": "蓬莱大陆",
+    "所属界面": "云海星域五阶星域",
+    "理念": "好名声、崇尚排场（王林评为作秀、附庸风雅）",
+    "镇派之宝": "蓬莱大陆（半个修真星）"
   },
   "observations": {
     "等级": [
@@ -25,6 +28,11 @@
         "value": "蓬莱大陆（半个修真星）",
         "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
         "seq": 1082
+      },
+      {
+        "value": "蓬莱大陆",
+        "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+        "seq": 1087
       }
     ],
     "所属界面": [
@@ -32,6 +40,20 @@
         "value": "云海星域五阶星域",
         "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
         "seq": 1082
+      }
+    ],
+    "理念": [
+      {
+        "value": "好名声、崇尚排场（王林评为作秀、附庸风雅）",
+        "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+        "seq": 1087
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "蓬莱大陆（半个修真星）",
+        "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+        "seq": 1087
       }
     ]
   },
@@ -45,21 +67,34 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+      "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
       "dated": false,
-      "seq": 1082
+      "seq": 1087
     },
     "所属界面": {
       "asOf": null,
       "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
       "dated": false,
       "seq": 1082
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+      "dated": false,
+      "seq": 1087
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+      "dated": false,
+      "seq": 1087
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair"
+    "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+    "plot.xianni-ch1169-who-are-you-penglai-fair"
   ],
-  "updatedAt": "2026-08-24T20:15:08.153Z"
+  "updatedAt": "2026-08-24T20:57:22.888Z"
 }

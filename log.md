@@ -567,3 +567,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T20:09:44.192Z** `ingest` plot.xianni-1166-tian-de-huangyan-li-qianmei-wendao — 第1166章 天的谎言——王林以「吕子浩」之名答李倩梅问道 · kind=plot asOf=2026-08-24 entities=13 relations=16 src=01082-01086.p3.md
 - **2026-08-24T20:12:16.491Z** `ingest` plot.xianni-1167-hui-mou-yi-xiao-lun-dao — 第1167章 回眸一笑——王林论「道如思想」，李倩梅第三问与卢云从解怨 · kind=plot asOf=2026-08-24 entities=26 relations=38 src=01082-01086.p4.md
 - **2026-08-24T20:15:08.475Z** `ingest` lore.yunhai-nine-tier-star-region-secret-and-penglai-fair — 第1168章 九阶星域四宗隐秘与蓬莱坊市（王林求星图） · kind=lore asOf=2026-08-24 entities=27 relations=43 src=01082-01086.p5.md
+- **2026-08-24T20:57:23.348Z** `ingest` plot.xianni-ch1169-who-are-you-penglai-fair — 第1169章 你是谁！——蓬莱大陆坊市之行与元晶、仙玉之秘 · kind=plot asOf=2026-08-24 entities=80 relations=138 src=01087-01090.md
