@@ -573,3 +573,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T21:10:39.165Z** `ingest` plot.xianni-1175-shenzong-menren-mocongdao-peili-yulinyin-weishe — 第1175章 神宗门人：魔丛道赔礼、役灵印威名与苍松子的密约 · kind=plot asOf=2026-08-24 entities=32 relations=40 src=01091-01094.p3.md
 - **2026-08-24T21:13:07.854Z** `ingest` plot.xianni-1176-penglai-auction-li-qianmei-farewell — 第1176章 相忘于江湖——蓬莱拍卖会与李倩梅赠画别离 · kind=plot asOf=2026-08-24 entities=31 relations=44 src=01091-01094.p4.md
 - **2026-08-24T21:15:53.064Z** `ingest` plot.xianni-1177-shenmojia-auction-yunhai — 第1177章 神魔甲：王林拍卖山魂残骸与神宗魔甲，云海震动 · kind=plot asOf=2026-08-24 entities=34 relations=37 src=01095-01099.p1.md
+- **2026-08-24T21:18:49.846Z** `ingest` plot.xianni-ch1178-zige-cangsongzi-team — 第1178章 资格：苍松子八万元晶购铠甲、李倩梅赠笔别离、蛮荒大陆四人会合遭云魂子试探 · kind=plot asOf=2026-08-24 entities=28 relations=40 src=01095-01099.p2.md

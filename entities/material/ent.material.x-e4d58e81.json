@@ -6,12 +6,13 @@
     "元晶石",
     "Yuan Jing",
     "一枚元晶",
-    "修士元晶"
+    "修士元晶",
+    "元晶（通货）"
   ],
   "summary": "云海星域通用的高阶资源/货币，可与仙玉兑换，亦为跨星域传送阵开启所需的巨额消耗品。",
   "attributes": {
-    "类型": "灵石类资源/货币、晶石、修真交易资源、灵材/能量晶体、修士遗留之物、货币/能量结晶、修炼资源／通货、货币",
-    "用途": "坊市兑换、开启跨星域传送阵、快速回复元力、加快吐纳速度、祭炼法宝与布阵时威力倍增、王林本章交易目标、王林与欧阳隆的交易标的、滋养变异灵兽、助蚊兽升级、交易与修炼资源、云海星域高端交易通货",
+    "类型": "灵石类资源/货币、晶石、修真交易资源、灵材/能量晶体、修士遗留之物、货币/能量结晶、修炼资源／通货、货币、修真通货／晶石",
+    "用途": "坊市兑换、开启跨星域传送阵、快速回复元力、加快吐纳速度、祭炼法宝与布阵时威力倍增、王林本章交易目标、王林与欧阳隆的交易标的、滋养变异灵兽、助蚊兽升级、交易与修炼资源、云海星域高端交易通货、交易结算",
     "稀有度": "极为稀少",
     "产地": "十二阶元兽体内（放养于雾气中常年累月形成）"
   },
@@ -55,6 +56,11 @@
       {
         "value": "货币",
         "docId": "plot.xianni-1177-shenmojia-auction-yunhai",
+        "seq": 1095
+      },
+      {
+        "value": "修真通货／晶石",
+        "docId": "plot.xianni-ch1178-zige-cangsongzi-team",
         "seq": 1095
       }
     ],
@@ -112,6 +118,11 @@
       {
         "value": "云海星域高端交易通货",
         "docId": "plot.xianni-1177-shenmojia-auction-yunhai",
+        "seq": 1095
+      },
+      {
+        "value": "交易结算",
+        "docId": "plot.xianni-ch1178-zige-cangsongzi-team",
         "seq": 1095
       }
     ],
@@ -173,7 +184,8 @@
     "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
     "plot.xianni-1175-shenzong-menren-mocongdao-peili-yulinyin-weishe",
     "plot.xianni-1176-penglai-auction-li-qianmei-farewell",
-    "plot.xianni-1177-shenmojia-auction-yunhai"
+    "plot.xianni-1177-shenmojia-auction-yunhai",
+    "plot.xianni-ch1178-zige-cangsongzi-team"
   ],
-  "updatedAt": "2026-08-24T21:15:52.725Z"
+  "updatedAt": "2026-08-24T21:18:49.552Z"
 }

@@ -7,13 +7,21 @@
   ],
   "summary": "云海星域七阶宗门，其黄衣青年修士出价一万三千至两万五千元晶争夺神魔甲。",
   "attributes": {
-    "等级": "七阶"
+    "等级": "七阶",
+    "所属界面": "七阶星域"
   },
   "observations": {
     "等级": [
       {
         "value": "七阶",
         "docId": "plot.xianni-1177-shenmojia-auction-yunhai",
+        "seq": 1095
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "七阶星域",
+        "docId": "plot.xianni-ch1178-zige-cangsongzi-team",
         "seq": 1095
       }
     ]
@@ -25,12 +33,19 @@
       "docId": "plot.xianni-1177-shenmojia-auction-yunhai",
       "dated": false,
       "seq": 1095
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1178-zige-cangsongzi-team",
+      "dated": false,
+      "seq": 1095
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1177-shenmojia-auction-yunhai"
+    "plot.xianni-1177-shenmojia-auction-yunhai",
+    "plot.xianni-ch1178-zige-cangsongzi-team"
   ],
-  "updatedAt": "2026-08-24T21:15:52.729Z"
+  "updatedAt": "2026-08-24T21:18:49.548Z"
 }

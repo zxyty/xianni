@@ -12,8 +12,9 @@
   "attributes": {
     "性别": "女",
     "小阶段": "碎涅",
-    "外貌": "雪白头发、青衣、褶皱皮肤",
-    "性格": "沙哑寡言、暗中示好"
+    "外貌": "青衣老妪",
+    "性格": "沙哑寡言、暗中示好",
+    "身份": "秘地之行的开路者"
   },
   "observations": {
     "性别": [
@@ -40,6 +41,11 @@
         "value": "雪白头发、青衣、褶皱皮肤",
         "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
         "seq": 1087
+      },
+      {
+        "value": "青衣老妪",
+        "docId": "plot.xianni-ch1178-zige-cangsongzi-team",
+        "seq": 1095
       }
     ],
     "性格": [
@@ -52,6 +58,13 @@
         "value": "沙哑寡言、暗中示好",
         "docId": "plot.xianni-1173-feng-yu-dong-auction-yuanjing-trade",
         "seq": 1091
+      }
+    ],
+    "身份": [
+      {
+        "value": "秘地之行的开路者",
+        "docId": "plot.xianni-ch1178-zige-cangsongzi-team",
+        "seq": 1095
       }
     ]
   },
@@ -71,15 +84,21 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+      "docId": "plot.xianni-ch1178-zige-cangsongzi-team",
       "dated": false,
-      "seq": 1087
+      "seq": 1095
     },
     "性格": {
       "asOf": null,
       "docId": "plot.xianni-1173-feng-yu-dong-auction-yuanjing-trade",
       "dated": false,
       "seq": 1091
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1178-zige-cangsongzi-team",
+      "dated": false,
+      "seq": 1095
     }
   },
   "contested": false,
@@ -87,7 +106,8 @@
   "docs": [
     "plot.xianni-ch1169-who-are-you-penglai-fair",
     "plot.xianni-1173-feng-yu-dong-auction-yuanjing-trade",
-    "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing"
+    "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
+    "plot.xianni-ch1178-zige-cangsongzi-team"
   ],
-  "updatedAt": "2026-08-24T21:07:57.215Z"
+  "updatedAt": "2026-08-24T21:18:49.543Z"
 }
