@@ -5,15 +5,16 @@
   "aliases": [
     "玄武圣宗圣皇",
     "修真联盟昔日玄武圣皇",
-    "背叛的玄武圣皇"
+    "背叛的玄武圣皇",
+    "Xuan Wu Sheng Huang"
   ],
   "summary": "决战关键时刻率三大弟子及绝大部分族人叛变四圣宗，并偷袭朱雀圣皇（失败但引爆其天人第三衰）；叛变原因至今成谜。",
   "attributes": {
     "称号": "玄武圣皇",
-    "阵营": "背叛四圣宗、倒向昆虚之境",
+    "阵营": "背叛四圣宗",
     "性格": "背叛者",
     "身份": "玄武圣宗圣皇",
-    "存殁": "重伤未死"
+    "存殁": "死亡"
   },
   "observations": {
     "称号": [
@@ -41,6 +42,12 @@
         "docId": "plot.xianni-1097-si-sheng-zong-mi-mi-si-fen-zhi-men",
         "seq": 1014,
         "note": "联盟攻打四圣宗之战期间"
+      },
+      {
+        "value": "背叛四圣宗",
+        "docId": "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
+        "seq": 1024,
+        "note": "追述"
       }
     ],
     "性格": [
@@ -63,6 +70,11 @@
         "docId": "plot.xianni-1097-si-sheng-zong-mi-mi-si-fen-zhi-men",
         "seq": 1014,
         "note": "朱雀圣皇处于第三衰，无法将其杀死"
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
+        "seq": 1024
       }
     ]
   },
@@ -76,10 +88,10 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-1097-si-sheng-zong-mi-mi-si-fen-zhi-men",
+      "docId": "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
       "dated": false,
-      "seq": 1014,
-      "note": "联盟攻打四圣宗之战期间"
+      "seq": 1024,
+      "note": "追述"
     },
     "性格": {
       "asOf": null,
@@ -95,10 +107,9 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-1097-si-sheng-zong-mi-mi-si-fen-zhi-men",
+      "docId": "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
       "dated": false,
-      "seq": 1014,
-      "note": "朱雀圣皇处于第三衰，无法将其杀死"
+      "seq": 1024
     }
   },
   "contested": false,
@@ -106,7 +117,8 @@
   "docs": [
     "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
     "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
-    "plot.xianni-1097-si-sheng-zong-mi-mi-si-fen-zhi-men"
+    "plot.xianni-1097-si-sheng-zong-mi-mi-si-fen-zhi-men",
+    "plot.xianni-ch1109-zhuque-old-shenghuang-guixu"
   ],
-  "updatedAt": "2026-08-24T14:56:50.941Z"
+  "updatedAt": "2026-08-24T15:34:45.602Z"
 }

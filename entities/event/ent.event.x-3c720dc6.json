@@ -1,101 +1,97 @@
 {
-  "id": "ent.person.x-a9f4cd39",
-  "type": "person",
-  "name": "朱雀老圣皇",
+  "id": "ent.event.x-3c720dc6",
+  "type": "event",
+  "name": "王林重逢并压制许立国",
   "aliases": [
-    "朱雀圣皇（老）",
-    "Old Zhu Que Sheng Huang"
+    "火海风暴内的重逢"
   ],
-  "summary": "当初邀王林前来朱雀圣宗之人；王林因伤势沉重、需依托而痛快答应。",
+  "summary": "王林在燃烧星域火海风暴外唤出许立国，三合之内破其仙剑化身、九剑剑阵与八骷髅剑意，捏住其剑身逼其求饶。",
   "attributes": {
-    "身份": "朱雀圣皇",
-    "存殁": "死亡",
-    "死因": "重伤垂危后自点眉心、元神消散归墟",
-    "结局": "元神化晶光消散，肉身化作燃烧石像，遗下红色玉简与仙气晶体",
-    "外貌": "双目鲜血淋淋、流黑血"
+    "章节": "第1109章",
+    "地点": "燃烧星域",
+    "参与方": "王林、许立国",
+    "经过": "化剑冲击→九剑剑阵→八骷髅剑意→尽被王林元力与雷霆破去",
+    "结果": "许立国剑中之魂被捏、慌乱讨饶自称小许子"
   },
   "observations": {
-    "身份": [
+    "章节": [
       {
-        "value": "朱雀圣宗前任圣皇",
-        "docId": "plot.xianni-1098-broken-sword-third-king-awakens",
-        "seq": 1014
+        "value": "第1109章",
+        "docId": "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
+        "seq": 1024
+      }
+    ],
+    "地点": [
+      {
+        "value": "燃烧星域",
+        "docId": "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
+        "seq": 1024
+      }
+    ],
+    "参与方": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
+        "seq": 1024
       },
       {
-        "value": "朱雀圣皇",
+        "value": "许立国",
         "docId": "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
         "seq": 1024
       }
     ],
-    "存殁": [
+    "经过": [
       {
-        "value": "死亡",
+        "value": "化剑冲击→九剑剑阵→八骷髅剑意→尽被王林元力与雷霆破去",
         "docId": "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
         "seq": 1024
       }
     ],
-    "死因": [
+    "结果": [
       {
-        "value": "重伤垂危后自点眉心、元神消散归墟",
+        "value": "许立国剑中之魂被捏、慌乱讨饶自称小许子",
         "docId": "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
         "seq": 1024
-      }
-    ],
-    "结局": [
-      {
-        "value": "元神化晶光消散，肉身化作燃烧石像，遗下红色玉简与仙气晶体",
-        "docId": "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
-        "seq": 1024
-      }
-    ],
-    "外貌": [
-      {
-        "value": "双目鲜血淋淋、流黑血",
-        "docId": "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
-        "seq": 1024,
-        "note": "临终时"
       }
     ]
   },
-  "firstSeq": 1014,
+  "firstSeq": 1024,
   "attrProvenance": {
-    "身份": {
+    "章节": {
       "asOf": null,
       "docId": "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
       "dated": false,
       "seq": 1024
     },
-    "存殁": {
+    "地点": {
       "asOf": null,
       "docId": "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
       "dated": false,
       "seq": 1024
     },
-    "死因": {
+    "参与方": {
       "asOf": null,
       "docId": "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
       "dated": false,
       "seq": 1024
     },
-    "结局": {
+    "经过": {
       "asOf": null,
       "docId": "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
       "dated": false,
       "seq": 1024
     },
-    "外貌": {
+    "结果": {
       "asOf": null,
       "docId": "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
       "dated": false,
-      "seq": 1024,
-      "note": "临终时"
+      "seq": 1024
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1098-broken-sword-third-king-awakens",
     "plot.xianni-ch1109-zhuque-old-shenghuang-guixu"
   ],
-  "updatedAt": "2026-08-24T15:34:45.593Z"
+  "updatedAt": "2026-08-24T15:34:45.637Z"
 }

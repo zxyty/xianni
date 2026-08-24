@@ -4,15 +4,17 @@
   "name": "白虎圣皇",
   "aliases": [
     "白虎圣宗圣皇",
-    "战死的白虎圣皇"
+    "战死的白虎圣皇",
+    "Bai Hu Sheng Huang"
   ],
   "summary": "连杀联盟众多第一批核心长老与无数昆虚之人后战死；尸体不崩、屹立不倒，凭滔天煞气阻挡联盟大军，死后无人敢上前。",
   "attributes": {
     "称号": "白虎圣皇",
     "存殁": "死亡",
-    "死因": "联盟与四圣宗大战中战死",
+    "死因": "战死",
     "标志特征": "死后尸体不崩、屹立阻挡联盟大军，煞气滔天",
-    "结局": "尸体被人抢走"
+    "结局": "尸体被人抢走",
+    "身份": "白虎圣宗圣皇"
   },
   "observations": {
     "称号": [
@@ -39,6 +41,11 @@
         "value": "联盟与四圣宗大战中战死",
         "docId": "plot.xianni-1097-si-sheng-zong-mi-mi-si-fen-zhi-men",
         "seq": 1014
+      },
+      {
+        "value": "战死",
+        "docId": "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
+        "seq": 1024
       }
     ],
     "标志特征": [
@@ -53,6 +60,13 @@
         "value": "尸体被人抢走",
         "docId": "plot.xianni-1097-si-sheng-zong-mi-mi-si-fen-zhi-men",
         "seq": 1014
+      }
+    ],
+    "身份": [
+      {
+        "value": "白虎圣宗圣皇",
+        "docId": "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
+        "seq": 1024
       }
     ]
   },
@@ -72,9 +86,9 @@
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.xianni-1097-si-sheng-zong-mi-mi-si-fen-zhi-men",
+      "docId": "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
       "dated": false,
-      "seq": 1014
+      "seq": 1024
     },
     "标志特征": {
       "asOf": null,
@@ -87,13 +101,20 @@
       "docId": "plot.xianni-1097-si-sheng-zong-mi-mi-si-fen-zhi-men",
       "dated": false,
       "seq": 1014
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
+      "dated": false,
+      "seq": 1024
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
-    "plot.xianni-1097-si-sheng-zong-mi-mi-si-fen-zhi-men"
+    "plot.xianni-1097-si-sheng-zong-mi-mi-si-fen-zhi-men",
+    "plot.xianni-ch1109-zhuque-old-shenghuang-guixu"
   ],
-  "updatedAt": "2026-08-24T14:56:50.943Z"
+  "updatedAt": "2026-08-24T15:34:45.600Z"
 }
