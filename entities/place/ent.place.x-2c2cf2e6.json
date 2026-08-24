@@ -5,13 +5,14 @@
   "aliases": [
     "仙府",
     "盆地仙府",
-    "北首三排房舍"
+    "北首三排房舍",
+    "潮汐深渊内的仙府"
   ],
   "summary": "位于长龙般山脉深处一座巨大盆地内的府邸，遍布雕栏玉砌的阁楼房舍，仆从皆为半舌哑仆，多处设有强大禁制，透着阴森诡异。",
   "attributes": {
     "所属势力": "白雪之师尊",
     "所属界面": "朱雀国",
-    "类型": "私人仙府",
+    "类型": "仙府/遗迹",
     "上级区域": "长龙般山脉深处的巨大盆地",
     "守护": "多处强大禁制",
     "危险度": "诡异阴森，禁制难以短时破解"
@@ -36,6 +37,11 @@
         "value": "私人仙府",
         "docId": "plot.xianni-ch361-zhuque-guo-arrival",
         "seq": 341
+      },
+      {
+        "value": "仙府/遗迹",
+        "docId": "plot.xianni-ch904-908-tianyunzi-finger-strike",
+        "seq": 904
       }
     ],
     "上级区域": [
@@ -76,9 +82,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+      "docId": "plot.xianni-ch904-908-tianyunzi-finger-strike",
       "dated": false,
-      "seq": 341
+      "seq": 904
     },
     "上级区域": {
       "asOf": null,
@@ -103,7 +109,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch361-zhuque-guo-arrival",
-    "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi"
+    "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi",
+    "plot.xianni-ch904-908-tianyunzi-finger-strike"
   ],
-  "updatedAt": "2026-08-23T22:44:53.400Z"
+  "updatedAt": "2026-08-24T00:32:50.760Z"
 }

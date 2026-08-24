@@ -7,13 +7,16 @@
     "细剑",
     "电光飞剑",
     "黑衣人的细剑",
-    "游蛇细剑"
+    "游蛇细剑",
+    "灰衣天运子的黑剑",
+    "凝暗之剑"
   ],
   "summary": "黑衣男子手中的黑色细剑，挥舞时有紫色妖气顺剑缭绕。",
   "attributes": {
-    "持有者": "黑衣男子",
-    "外形": "黑色细剑、细剑、细剑，如游蛇般盘旋体外",
-    "能力": "挥舞时紫气缭绕剑身、化电光飞行、自爆为晶芒（剑碎）、御剑攻击"
+    "持有者": "灰衣天运子",
+    "外形": "黑色细剑、细剑、细剑，如游蛇般盘旋体外、只有一指宽的黑色细剑",
+    "能力": "挥舞时紫气缭绕剑身、化电光飞行、自爆为晶芒（剑碎）、御剑攻击",
+    "来历": "凝聚天地黑暗（吸收光之力）而成"
   },
   "observations": {
     "持有者": [
@@ -21,6 +24,11 @@
         "value": "黑衣男子",
         "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
         "seq": 500
+      },
+      {
+        "value": "灰衣天运子",
+        "docId": "plot.xianni-ch904-908-tianyunzi-finger-strike",
+        "seq": 904
       }
     ],
     "外形": [
@@ -38,6 +46,11 @@
         "value": "细剑，如游蛇般盘旋体外",
         "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
         "seq": 546
+      },
+      {
+        "value": "只有一指宽的黑色细剑",
+        "docId": "plot.xianni-ch904-908-tianyunzi-finger-strike",
+        "seq": 904
       }
     ],
     "能力": [
@@ -61,15 +74,22 @@
         "docId": "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
         "seq": 546
       }
+    ],
+    "来历": [
+      {
+        "value": "凝聚天地黑暗（吸收光之力）而成",
+        "docId": "plot.xianni-ch904-908-tianyunzi-finger-strike",
+        "seq": 904
+      }
     ]
   },
   "firstSeq": 500,
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
+      "docId": "plot.xianni-ch904-908-tianyunzi-finger-strike",
       "dated": false,
-      "seq": 500
+      "seq": 904
     },
     "外形": {
       "asOf": null,
@@ -82,13 +102,20 @@
       "docId": "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
       "dated": false,
       "seq": 500
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch904-908-tianyunzi-finger-strike",
+      "dated": false,
+      "seq": 904
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch500-504-break-formation-huanglong-tianyao-jun",
-    "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai"
+    "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
+    "plot.xianni-ch904-908-tianyunzi-finger-strike"
   ],
-  "updatedAt": "2026-08-22T10:03:29.831Z"
+  "updatedAt": "2026-08-24T00:32:50.695Z"
 }

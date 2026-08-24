@@ -9,8 +9,9 @@
   "summary": "由另一条金龙化成的仙剑，被凌天候强行抓住；其剑魂在被抓瞬间已由白衣女子抽走按入金龙眉心。",
   "attributes": {
     "持有者": "凌天候",
-    "外形": "弯曲成蛇形",
-    "禁制": "无剑魂，仅存无所不利之锋锐"
+    "外形": "蛇形",
+    "禁制": "无剑魂，仅存无所不利之锋锐",
+    "品阶": "仙剑"
   },
   "observations": {
     "持有者": [
@@ -26,6 +27,11 @@
         "value": "弯曲成蛇形",
         "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
         "seq": 304
+      },
+      {
+        "value": "蛇形",
+        "docId": "plot.xianni-ch904-908-tianyunzi-finger-strike",
+        "seq": 904
       }
     ],
     "禁制": [
@@ -33,6 +39,13 @@
         "value": "无剑魂，仅存无所不利之锋锐",
         "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
         "seq": 304
+      }
+    ],
+    "品阶": [
+      {
+        "value": "仙剑",
+        "docId": "plot.xianni-ch904-908-tianyunzi-finger-strike",
+        "seq": 904
       }
     ]
   },
@@ -47,21 +60,28 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
+      "docId": "plot.xianni-ch904-908-tianyunzi-finger-strike",
       "dated": false,
-      "seq": 304
+      "seq": 904
     },
     "禁制": {
       "asOf": null,
       "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
       "dated": false,
       "seq": 304
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-ch904-908-tianyunzi-finger-strike",
+      "dated": false,
+      "seq": 904
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void"
+    "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
+    "plot.xianni-ch904-908-tianyunzi-finger-strike"
   ],
-  "updatedAt": "2026-08-08T05:44:31.194Z"
+  "updatedAt": "2026-08-24T00:32:50.776Z"
 }

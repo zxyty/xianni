@@ -5,13 +5,14 @@
   "aliases": [
     "Gui Yan City",
     "鬼眼拍卖城",
-    "鬼眼城内"
+    "鬼眼城内",
+    "鬼眼城池"
   ],
   "summary": "天运星北部的圆形城池，因多年前拍卖一件完整仙术而成名；每次开启一个月，凭邀请简进入，拍卖处外可自由交易，城小住处有限。",
   "attributes": {
     "所属界面": "天运星",
-    "类型": "拍卖之城、修真城池",
-    "方位": "天运星北部",
+    "类型": "拍卖之城、修真城池、可移动飞城",
+    "方位": "向天运星南部逃遁",
     "规模": "不大，圆形城池，住处有限",
     "特产": "完整仙术拍卖、紫玉液拍卖会",
     "守护": "禁制阵法、尘道三子",
@@ -35,6 +36,11 @@
         "value": "修真城池",
         "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
         "seq": 895
+      },
+      {
+        "value": "可移动飞城",
+        "docId": "plot.xianni-ch904-908-tianyunzi-finger-strike",
+        "seq": 904
       }
     ],
     "方位": [
@@ -42,6 +48,12 @@
         "value": "天运星北部",
         "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
         "seq": 895
+      },
+      {
+        "value": "向天运星南部逃遁",
+        "docId": "plot.xianni-ch904-908-tianyunzi-finger-strike",
+        "seq": 904,
+        "note": "第970章避祸时"
       }
     ],
     "规模": [
@@ -101,9 +113,10 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
+      "docId": "plot.xianni-ch904-908-tianyunzi-finger-strike",
       "dated": false,
-      "seq": 895
+      "seq": 904,
+      "note": "第970章避祸时"
     },
     "规模": {
       "asOf": null,
@@ -135,7 +148,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
-    "plot.xianni-ch899-903-linger-mo-dao-zi"
+    "plot.xianni-ch899-903-linger-mo-dao-zi",
+    "plot.xianni-ch904-908-tianyunzi-finger-strike"
   ],
-  "updatedAt": "2026-08-23T23:50:09.345Z"
+  "updatedAt": "2026-08-24T00:32:50.667Z"
 }
