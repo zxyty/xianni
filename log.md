@@ -488,3 +488,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T12:05:52.938Z** `ingest` plot.xianni-1078-tashan-appears — 仙逆 第1078章 塔山现身：朱雀圣皇借四圣宗太古圣器，王林濒死获救 · kind=plot asOf=2026-08-24 entities=29 relations=34 src=00997-01001.p2.md
 - **2026-08-24T12:08:34.640Z** `ingest` plot.xianni-1079-mu-bingmei-thirty-three-swords — 仙逆 第1079章 木冰眉：王林三十三剑撼天运子，木冰眉出手救命 · kind=plot asOf=2026-08-24 entities=28 relations=34 src=00997-01001.p3.md
 - **2026-08-24T12:11:09.656Z** `ingest` plot.xianni-ch1080-bu-xu-ta-jiu-mubingmei-vs-tianyunzi — 第1080章 不需她救——木冰眉封天运子元力，王林燃尽五颗古神星点激活青光盾 · kind=plot asOf=2026-08-24 entities=21 relations=27 src=00997-01001.p4.md
+- **2026-08-24T12:14:03.064Z** `ingest` plot.xianni-ch1081-meng-hui-yuan-gu — 《仙逆》第1081章 梦回远古——修真联盟仙人杀入妖灵之地，青光盾引动八星古神保命神通 · kind=plot asOf=2026-08-24 entities=27 relations=44 src=00997-01001.p5.md
