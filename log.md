@@ -504,3 +504,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T15:06:39.613Z** `ingest` plot.xianni-ch1099-wailai-refine-killing-sword — 第1099章 外人｜王林倾力祭炼灰衣天运子杀戮断剑 · kind=plot asOf=2026-08-24 entities=39 relations=52 src=01014-01018.p4.md
 - **2026-08-24T15:09:01.970Z** `ingest` plot.xianni-ch1100-can-you-see-through — 第1100章 你可看透？——王林承诺助尘道子复仇、守棺悟山崩 · kind=plot asOf=2026-08-24 entities=21 relations=34 src=01014-01018.p5.md
 - **2026-08-24T15:11:40.619Z** `ingest` plot.xianni-1101-shanbeng-immortal-technique-volcano-soul-fusion — 第1101章 山崩仙术之「真」——王林融火山之魂，神识笼罩朱雀圣宗星域 · kind=plot asOf=2026-08-24 entities=23 relations=32 src=01019-01023.p1.md
+- **2026-08-24T15:14:13.477Z** `ingest` plot.xianni-ch1102-wang-lin-jing-nie-true-false-realm — 第1102章 王林山崩神通覆盖星域、悟「真假一念」突破净涅 · kind=plot asOf=2026-08-24 entities=25 relations=31 src=01019-01023.p2.md

@@ -5,16 +5,18 @@
   "aliases": [
     "尸阴宗第三王",
     "尸阴九王之第三王",
-    "棺木中的第三王"
+    "棺木中的第三王",
+    "尸阴宗之人"
   ],
   "summary": "尸阴宗尸阴九王之一，沉睡于联盟南部锁链棺木群中央最大的棺木内。被玉简唤醒，探出黑红筋肉、带上古沧桑之气的干枯手臂，神识狂暴嗜杀；认定玉简中尸体为王族八星古神，下令全宗血祭天、重灌尸坑、开第九层放出八具肉身，并将亲赴四圣宗。",
   "attributes": {
-    "身份": "尸阴宗尸阴九王之一",
+    "身份": "尸阴宗第三王",
     "称号": "第三王",
-    "性格": "狂暴嗜杀、贪婪",
+    "性格": "谨慎、平静，喜怒不形于色",
     "神识": "极庞大，弥漫血腥与暴虐，可令弟子元神颤抖",
-    "外貌": "自棺木伸出的干枯手臂，黑筋红肉交错，散上古沧桑之气",
-    "存殁": "存"
+    "外貌": "中年男子",
+    "存殁": "存",
+    "阵营": "尸阴宗"
   },
   "observations": {
     "身份": [
@@ -22,6 +24,11 @@
         "value": "尸阴宗尸阴九王之一",
         "docId": "plot.xianni-1098-broken-sword-third-king-awakens",
         "seq": 1014
+      },
+      {
+        "value": "尸阴宗第三王",
+        "docId": "plot.xianni-ch1102-wang-lin-jing-nie-true-false-realm",
+        "seq": 1019
       }
     ],
     "称号": [
@@ -36,6 +43,11 @@
         "value": "狂暴嗜杀、贪婪",
         "docId": "plot.xianni-1098-broken-sword-third-king-awakens",
         "seq": 1014
+      },
+      {
+        "value": "谨慎、平静，喜怒不形于色",
+        "docId": "plot.xianni-ch1102-wang-lin-jing-nie-true-false-realm",
+        "seq": 1019
       }
     ],
     "神识": [
@@ -50,6 +62,11 @@
         "value": "自棺木伸出的干枯手臂，黑筋红肉交错，散上古沧桑之气",
         "docId": "plot.xianni-1098-broken-sword-third-king-awakens",
         "seq": 1014
+      },
+      {
+        "value": "中年男子",
+        "docId": "plot.xianni-ch1102-wang-lin-jing-nie-true-false-realm",
+        "seq": 1019
       }
     ],
     "存殁": [
@@ -58,15 +75,22 @@
         "docId": "plot.xianni-1098-broken-sword-third-king-awakens",
         "seq": 1014
       }
+    ],
+    "阵营": [
+      {
+        "value": "尸阴宗",
+        "docId": "plot.xianni-ch1102-wang-lin-jing-nie-true-false-realm",
+        "seq": 1019
+      }
     ]
   },
   "firstSeq": 1014,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1098-broken-sword-third-king-awakens",
+      "docId": "plot.xianni-ch1102-wang-lin-jing-nie-true-false-realm",
       "dated": false,
-      "seq": 1014
+      "seq": 1019
     },
     "称号": {
       "asOf": null,
@@ -76,9 +100,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-1098-broken-sword-third-king-awakens",
+      "docId": "plot.xianni-ch1102-wang-lin-jing-nie-true-false-realm",
       "dated": false,
-      "seq": 1014
+      "seq": 1019
     },
     "神识": {
       "asOf": null,
@@ -88,21 +112,28 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-1098-broken-sword-third-king-awakens",
+      "docId": "plot.xianni-ch1102-wang-lin-jing-nie-true-false-realm",
       "dated": false,
-      "seq": 1014
+      "seq": 1019
     },
     "存殁": {
       "asOf": null,
       "docId": "plot.xianni-1098-broken-sword-third-king-awakens",
       "dated": false,
       "seq": 1014
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1102-wang-lin-jing-nie-true-false-realm",
+      "dated": false,
+      "seq": 1019
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1098-broken-sword-third-king-awakens"
+    "plot.xianni-1098-broken-sword-third-king-awakens",
+    "plot.xianni-ch1102-wang-lin-jing-nie-true-false-realm"
   ],
-  "updatedAt": "2026-08-24T14:59:36.490Z"
+  "updatedAt": "2026-08-24T15:14:13.153Z"
 }

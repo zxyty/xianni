@@ -12,9 +12,10 @@
   "summary": "约十丈大小、通体淡紫的蚊兽首领，头插七根银针致其时露痛苦，一声嘶鸣可震慑全群，以口器穿透吸干内斗的两只蚊兽立威，身上透出沧桑。",
   "attributes": {
     "种族": "蚊兽",
-    "外形": "身体如小山般巨大的紫色蚊兽",
-    "能力": "嘶鸣如神通，震慑全群、速度如电光、口器穿透吸干同类",
-    "栖息地": "青龙圣宗巨木之间"
+    "外形": "通体紫色，长口器",
+    "能力": "嘶鸣如神通，震慑全群、速度如电光、口器穿透吸干同类、重伤仍能跨星空归主",
+    "栖息地": "青龙圣宗巨木之间",
+    "主人": "王林"
   },
   "observations": {
     "种族": [
@@ -34,6 +35,11 @@
         "value": "身体如小山般巨大的紫色蚊兽",
         "docId": "plot.xianni-1087-jiuxuan-first-transformation",
         "seq": 1006
+      },
+      {
+        "value": "通体紫色，长口器",
+        "docId": "plot.xianni-ch1102-wang-lin-jing-nie-true-false-realm",
+        "seq": 1019
       }
     ],
     "能力": [
@@ -51,6 +57,12 @@
         "value": "口器穿透吸干同类",
         "docId": "plot.xianni-ch642-purple-mist-mosquito-beast",
         "seq": 600
+      },
+      {
+        "value": "重伤仍能跨星空归主",
+        "docId": "plot.xianni-ch1102-wang-lin-jing-nie-true-false-realm",
+        "seq": 1019,
+        "note": "本章"
       }
     ],
     "栖息地": [
@@ -64,6 +76,13 @@
         "docId": "plot.xianni-1087-jiuxuan-first-transformation",
         "seq": 1006
       }
+    ],
+    "主人": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch1102-wang-lin-jing-nie-true-false-realm",
+        "seq": 1019
+      }
     ]
   },
   "firstSeq": 600,
@@ -76,9 +95,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-1087-jiuxuan-first-transformation",
+      "docId": "plot.xianni-ch1102-wang-lin-jing-nie-true-false-realm",
       "dated": false,
-      "seq": 1006
+      "seq": 1019
     },
     "能力": {
       "asOf": null,
@@ -91,13 +110,20 @@
       "docId": "plot.xianni-1087-jiuxuan-first-transformation",
       "dated": false,
       "seq": 1006
+    },
+    "主人": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1102-wang-lin-jing-nie-true-false-realm",
+      "dated": false,
+      "seq": 1019
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch642-purple-mist-mosquito-beast",
-    "plot.xianni-1087-jiuxuan-first-transformation"
+    "plot.xianni-1087-jiuxuan-first-transformation",
+    "plot.xianni-ch1102-wang-lin-jing-nie-true-false-realm"
   ],
-  "updatedAt": "2026-08-24T13:18:51.307Z"
+  "updatedAt": "2026-08-24T15:14:13.173Z"
 }
