@@ -7,11 +7,12 @@
   ],
   "summary": "云天宗四院之一，李长老所在，设有雾气禁制的禁地。",
   "attributes": {
-    "所属势力": "云天宗",
-    "方位": "云天宗南院",
-    "类型": "门派院区/禁地、苑区、苑区/炼丹重地、门派辖区",
+    "所属势力": "归元宗",
+    "方位": "归元宗山门南部",
+    "类型": "门派院区/禁地、苑区、苑区/炼丹重地、门派辖区、禁地",
     "守护": "雾气禁制，需令牌入内",
-    "特产": "白雾遮蔽、地下近地火"
+    "特产": "鱼腥毒草（由师叔祖取来）",
+    "危险度": "极高"
   },
   "observations": {
     "所属势力": [
@@ -19,6 +20,11 @@
         "value": "云天宗",
         "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
         "seq": 197
+      },
+      {
+        "value": "归元宗",
+        "docId": "plot.xianni-ch1162-shangren-zhe-ren-heng-shang-zhi",
+        "seq": 1077
       }
     ],
     "方位": [
@@ -26,6 +32,11 @@
         "value": "云天宗南院",
         "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
         "seq": 197
+      },
+      {
+        "value": "归元宗山门南部",
+        "docId": "plot.xianni-ch1162-shangren-zhe-ren-heng-shang-zhi",
+        "seq": 1077
       }
     ],
     "类型": [
@@ -48,6 +59,11 @@
         "value": "门派辖区",
         "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
         "seq": 199
+      },
+      {
+        "value": "禁地",
+        "docId": "plot.xianni-ch1162-shangren-zhe-ren-heng-shang-zhi",
+        "seq": 1077
       }
     ],
     "守护": [
@@ -62,6 +78,18 @@
         "value": "白雾遮蔽、地下近地火",
         "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
         "seq": 199
+      },
+      {
+        "value": "鱼腥毒草（由师叔祖取来）",
+        "docId": "plot.xianni-ch1162-shangren-zhe-ren-heng-shang-zhi",
+        "seq": 1077
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.xianni-ch1162-shangren-zhe-ren-heng-shang-zhi",
+        "seq": 1077
       }
     ]
   },
@@ -69,15 +97,15 @@
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+      "docId": "plot.xianni-ch1162-shangren-zhe-ren-heng-shang-zhi",
       "dated": false,
-      "seq": 197
+      "seq": 1077
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
+      "docId": "plot.xianni-ch1162-shangren-zhe-ren-heng-shang-zhi",
       "dated": false,
-      "seq": 197
+      "seq": 1077
     },
     "类型": {
       "asOf": null,
@@ -93,9 +121,15 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
+      "docId": "plot.xianni-ch1162-shangren-zhe-ren-heng-shang-zhi",
       "dated": false,
-      "seq": 199
+      "seq": 1077
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1162-shangren-zhe-ren-heng-shang-zhi",
+      "dated": false,
+      "seq": 1077
     }
   },
   "contested": false,
@@ -103,7 +137,8 @@
   "docs": [
     "plot.xianni-ch213-yuntianzong-zhoulin-shoutu",
     "plot.xianni-ch215-luoyue-yun-tian-zong-dong-yuan",
-    "plot.xianni-ch219-dongyuan-lingyuan-heist"
+    "plot.xianni-ch219-dongyuan-lingyuan-heist",
+    "plot.xianni-ch1162-shangren-zhe-ren-heng-shang-zhi"
   ],
-  "updatedAt": "2026-07-08T13:41:20.907Z"
+  "updatedAt": "2026-08-24T20:00:31.457Z"
 }
