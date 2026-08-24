@@ -23,9 +23,10 @@
     "称号": "大长老",
     "外貌": "一身金袍、头发半黑半白、弥漫沧桑、大袖老者",
     "性格": "神色平静、果断、平静内敛、杀机深重、谋算周密、从容尽失、惊恐、对符族女子恭敬、贪婪、城府深",
-    "存殁": "在世",
-    "阵营": "与天运子对立、修真联盟、对王林暗怀杀机",
-    "元神强度": "可略微改变所在之处的规则"
+    "存殁": "存活",
+    "阵营": "与天运子对立、修真联盟、对王林暗怀杀机、对王林潜在威胁",
+    "元神强度": "可略微改变所在之处的规则",
+    "标志特征": "神色不露端倪"
   },
   "observations": {
     "身份": [
@@ -128,6 +129,11 @@
         "value": "在世",
         "docId": "plot.xianni-ch997-xukongzi-arrival",
         "seq": 926
+      },
+      {
+        "value": "存活",
+        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+        "seq": 953
       }
     ],
     "阵营": [
@@ -146,6 +152,12 @@
         "docId": "plot.xianni-ch1023-po-ping-er-chu",
         "seq": 945,
         "note": "本章内心表现"
+      },
+      {
+        "value": "对王林潜在威胁",
+        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+        "seq": 953,
+        "note": "王林直觉"
       }
     ],
     "元神强度": [
@@ -153,6 +165,13 @@
         "value": "可略微改变所在之处的规则",
         "docId": "plot.xianni-ch1026-qinglin-you-lied-to-me",
         "seq": 949
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "神色不露端倪",
+        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+        "seq": 953
       }
     ]
   },
@@ -184,9 +203,9 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch997-xukongzi-arrival",
+      "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
       "dated": false,
-      "seq": 926
+      "seq": 953
     },
     "阵营": {
       "asOf": null,
@@ -199,6 +218,12 @@
       "docId": "plot.xianni-ch1026-qinglin-you-lied-to-me",
       "dated": false,
       "seq": 949
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+      "dated": false,
+      "seq": 953
     }
   },
   "contested": false,
@@ -212,7 +237,8 @@
     "plot.xianni-1025-fuzu-shengzu-blood-sea-escape",
     "plot.xianni-ch1026-qinglin-you-lied-to-me",
     "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
-    "plot.xianni-1028-dingshenshu-qinglin-jiuyin-zhen"
+    "plot.xianni-1028-dingshenshu-qinglin-jiuyin-zhen",
+    "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin"
   ],
-  "updatedAt": "2026-08-24T07:29:11.903Z"
+  "updatedAt": "2026-08-24T07:48:22.357Z"
 }

@@ -5,13 +5,17 @@
   "aliases": [
     "黄色结晶",
     "封号晶石",
-    "大殿神秘人影所赠黄色结晶"
+    "大殿神秘人影所赠黄色结晶",
+    "黄色的结晶",
+    "神秘男子所送的结晶",
+    "黄晶",
+    "储物袋内的黄色结晶"
   ],
   "summary": "天运子自眉心取出的黄色结晶，为天运七子封号标志，受封者需闭关数年感受此物。",
   "attributes": {
     "类型": "结晶",
-    "用途": "未明",
-    "产地": "天运子眉心取出"
+    "用途": "标识天运七子身份，需闭关感悟、未明、青霖分神所化晶光的寄身之处、赠予王林、承载青霖分神所化晶光",
+    "产地": "得自大殿神秘男子"
   },
   "observations": {
     "类型": [
@@ -36,6 +40,21 @@
         "value": "未明",
         "docId": "plot.xianni-ch1023-po-ping-er-chu",
         "seq": 945
+      },
+      {
+        "value": "青霖分神所化晶光的寄身之处",
+        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+        "seq": 953
+      },
+      {
+        "value": "赠予王林",
+        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+        "seq": 953
+      },
+      {
+        "value": "承载青霖分神所化晶光",
+        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+        "seq": 953
       }
     ],
     "产地": [
@@ -43,6 +62,11 @@
         "value": "天运子眉心取出",
         "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
         "seq": 472
+      },
+      {
+        "value": "得自大殿神秘男子",
+        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+        "seq": 953
       }
     ]
   },
@@ -56,22 +80,23 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch1023-po-ping-er-chu",
-      "dated": false,
-      "seq": 945
-    },
-    "产地": {
-      "asOf": null,
       "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
       "dated": false,
       "seq": 472
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+      "dated": false,
+      "seq": 953
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
-    "plot.xianni-ch1023-po-ping-er-chu"
+    "plot.xianni-ch1023-po-ping-er-chu",
+    "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin"
   ],
-  "updatedAt": "2026-08-24T06:54:16.636Z"
+  "updatedAt": "2026-08-24T07:48:22.338Z"
 }

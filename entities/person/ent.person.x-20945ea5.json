@@ -6,14 +6,17 @@
     "中年美妇",
     "衣着寻常的美妇",
     "出尘美妇",
-    "村姑打扮的美妇"
+    "村姑打扮的美妇",
+    "净涅村姑美妇"
   ],
   "summary": "到场的大神通修士之一，唯一女性，衣着寻常如凡人村姑却气息出尘，身后跟随四名绝色女子。",
   "attributes": {
     "性别": "女",
     "外貌": "村姑打扮的美妇",
     "标志特征": "一股出尘气息",
-    "身份": "四名女弟子的带队者"
+    "身份": "四名女弟子的带队者",
+    "存殁": "存活",
+    "阵营": "对王林不善"
   },
   "observations": {
     "性别": [
@@ -48,6 +51,21 @@
         "docId": "plot.xianni-1024-sanmo-opens-zangxian-pool",
         "seq": 945
       }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+        "seq": 953
+      }
+    ],
+    "阵营": [
+      {
+        "value": "对王林不善",
+        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+        "seq": 953,
+        "note": "目光掩饰但被看破"
+      }
     ]
   },
   "firstSeq": 890,
@@ -75,6 +93,19 @@
       "docId": "plot.xianni-1024-sanmo-opens-zangxian-pool",
       "dated": false,
       "seq": 945
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+      "dated": false,
+      "seq": 953
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+      "dated": false,
+      "seq": 953,
+      "note": "目光掩饰但被看破"
     }
   },
   "contested": false,
@@ -83,7 +114,8 @@
     "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star",
     "plot.xianni-ch1023-po-ping-er-chu",
     "plot.xianni-1024-sanmo-opens-zangxian-pool",
-    "plot.xianni-1025-fuzu-shengzu-blood-sea-escape"
+    "plot.xianni-1025-fuzu-shengzu-blood-sea-escape",
+    "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin"
   ],
-  "updatedAt": "2026-08-24T07:17:01.592Z"
+  "updatedAt": "2026-08-24T07:48:22.359Z"
 }

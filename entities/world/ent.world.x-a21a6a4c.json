@@ -4,12 +4,14 @@
   "name": "风雨雷电四大仙界",
   "aliases": [
     "四大仙界",
-    "风雨雷电四界"
+    "风雨雷电四界",
+    "四大仙界势力"
   ],
   "summary": "本章作为规格参照被提及：望月外之战即便在四大仙界之下的四大星域也极为少见。",
   "attributes": {
     "层次": "仙界",
-    "特点": "彼此以壁垒隔绝、战后均处最虚弱阶段、下域曾遭符族入侵"
+    "特点": "彼此以壁垒隔绝、战后均处最虚弱阶段、下域曾遭符族入侵",
+    "主宰势力": "青霖（仙帝）"
   },
   "observations": {
     "层次": [
@@ -35,6 +37,14 @@
         "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
         "seq": 876
       }
+    ],
+    "主宰势力": [
+      {
+        "value": "青霖（仙帝）",
+        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+        "seq": 953,
+        "note": "四大仙界第一强者"
+      }
     ]
   },
   "firstSeq": 780,
@@ -50,13 +60,21 @@
       "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
       "dated": false,
       "seq": 876
+    },
+    "主宰势力": {
+      "asOf": null,
+      "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+      "dated": false,
+      "seq": 953,
+      "note": "四大仙界第一强者"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch840-call-from-inside-wangyue",
-    "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin"
+    "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+    "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin"
   ],
-  "updatedAt": "2026-08-23T21:52:39.649Z"
+  "updatedAt": "2026-08-24T07:48:22.215Z"
 }

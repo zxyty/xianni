@@ -13,7 +13,9 @@
   "attributes": {
     "性别": "女",
     "外貌": "粉衣妙龄女子",
-    "身份": "昆虚圣女"
+    "身份": "昆虚圣女",
+    "存殁": "存活",
+    "阵营": "对王林不善"
   },
   "observations": {
     "性别": [
@@ -47,6 +49,21 @@
         "seq": 922,
         "note": "凌天候的怀疑，未证实"
       }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+        "seq": 953
+      }
+    ],
+    "阵营": [
+      {
+        "value": "对王林不善",
+        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+        "seq": 953,
+        "note": "王林观察所得"
+      }
     ]
   },
   "firstSeq": 890,
@@ -69,6 +86,19 @@
       "dated": false,
       "seq": 922,
       "note": "凌天候的怀疑，未证实"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+      "dated": false,
+      "seq": 953
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+      "dated": false,
+      "seq": 953,
+      "note": "王林观察所得"
     }
   },
   "contested": false,
@@ -78,7 +108,8 @@
     "plot.xianni-ch957-wang-lin-returns-tianyun-sect",
     "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi",
     "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
-    "plot.xianni-1024-sanmo-opens-zangxian-pool"
+    "plot.xianni-1024-sanmo-opens-zangxian-pool",
+    "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin"
   ],
-  "updatedAt": "2026-08-24T07:09:00.432Z"
+  "updatedAt": "2026-08-24T07:48:22.360Z"
 }

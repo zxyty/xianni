@@ -3,12 +3,14 @@
   "type": "person",
   "name": "孙姓长老",
   "aliases": [
-    "拥有星痕貂的孙姓长老"
+    "拥有星痕貂的孙姓长老",
+    "失去星痕貂的孙姓长老"
   ],
   "summary": "出瓶者之一，拥有星痕貂。",
   "attributes": {
     "身份": "长老",
-    "性格": "惊恐"
+    "性格": "惊恐",
+    "存殁": "未从深坑爬出"
   },
   "observations": {
     "身份": [
@@ -24,6 +26,14 @@
         "docId": "plot.xianni-1024-sanmo-opens-zangxian-pool",
         "seq": 945,
         "note": "将沉入漩涡时"
+      }
+    ],
+    "存殁": [
+      {
+        "value": "未从深坑爬出",
+        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+        "seq": 953,
+        "note": "生死未明"
       }
     ]
   },
@@ -41,13 +51,21 @@
       "dated": false,
       "seq": 945,
       "note": "将沉入漩涡时"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+      "dated": false,
+      "seq": 953,
+      "note": "生死未明"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1023-po-ping-er-chu",
-    "plot.xianni-1024-sanmo-opens-zangxian-pool"
+    "plot.xianni-1024-sanmo-opens-zangxian-pool",
+    "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin"
   ],
-  "updatedAt": "2026-08-24T07:09:00.431Z"
+  "updatedAt": "2026-08-24T07:48:22.252Z"
 }

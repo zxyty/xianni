@@ -8,14 +8,18 @@
     "葬仙池禁制分神",
     "金袍中年男子人影",
     "晶光青霖",
-    "青霖的分神"
+    "青霖的分神",
+    "青霖分身",
+    "仙帝青霖分神",
+    "Qing Lin Fen Shen"
   ],
   "summary": "青霖当年留在葬仙池内用以封印符族圣祖的禁制分神，无神智、无记忆、无本体神通，唯一本能是阻止秋瑶脱困；气息强于「当年的他」。",
   "attributes": {
     "性别": "男",
-    "身份": "禁制分神",
-    "外貌": "半透明人影，金袍、黄丝带束发、英俊，双目冰冷无情、晶光闪烁组成",
-    "标志特征": "天地唯我独尊的气息，迫使天运子被动幻化无数虚幻分身"
+    "身份": "禁制分神、镇守葬仙池、阻止秋瑶脱困者、仙帝青霖之分神",
+    "外貌": "半透明人影，金袍、黄丝带束发、英俊，双目冰冷无情、晶光闪烁组成、化作一片晶点/晶光",
+    "标志特征": "天地唯我独尊的气息，迫使天运子被动幻化无数虚幻分身",
+    "性格": "始终冰冷、不言不动"
   },
   "observations": {
     "性别": [
@@ -30,6 +34,16 @@
         "value": "禁制分神",
         "docId": "plot.xianni-ch1026-qinglin-you-lied-to-me",
         "seq": 949
+      },
+      {
+        "value": "镇守葬仙池、阻止秋瑶脱困者",
+        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+        "seq": 953
+      },
+      {
+        "value": "仙帝青霖之分神",
+        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+        "seq": 953
       }
     ],
     "外貌": [
@@ -42,6 +56,12 @@
         "value": "晶光闪烁组成",
         "docId": "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
         "seq": 949
+      },
+      {
+        "value": "化作一片晶点/晶光",
+        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+        "seq": 953,
+        "note": "葬仙池崩溃时"
       }
     ],
     "标志特征": [
@@ -49,6 +69,13 @@
         "value": "天地唯我独尊的气息，迫使天运子被动幻化无数虚幻分身",
         "docId": "plot.xianni-ch1026-qinglin-you-lied-to-me",
         "seq": 949
+      }
+    ],
+    "性格": [
+      {
+        "value": "始终冰冷、不言不动",
+        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+        "seq": 953
       }
     ]
   },
@@ -77,13 +104,20 @@
       "docId": "plot.xianni-ch1026-qinglin-you-lied-to-me",
       "dated": false,
       "seq": 949
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+      "dated": false,
+      "seq": 953
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1026-qinglin-you-lied-to-me",
-    "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone"
+    "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
+    "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin"
   ],
-  "updatedAt": "2026-08-24T07:27:06.087Z"
+  "updatedAt": "2026-08-24T07:48:22.242Z"
 }

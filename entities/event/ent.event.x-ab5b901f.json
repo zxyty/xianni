@@ -5,15 +5,17 @@
   "aliases": [
     "仙界末崩溃",
     "仙界崩塌",
-    "四大仙界崩溃"
+    "四大仙界崩溃",
+    "仙界之崩"
   ],
   "summary": "远古大事件，仙界崩溃；传闻第一仙帝青霖未随之身亡，而是力战负伤遁走。",
   "attributes": {
     "章节": "第616章（追述）",
-    "世内时序": "清水被封印之后、屠杀仙人后不到百年",
+    "世内时序": "仙界凄惨大战之后",
     "参与方": "四大仙界",
-    "结果": "青霖负伤遁走，其洞府遗留于妖灵之地、四大仙界全部崩溃、带远古仙域气息的卷宗从天而降",
-    "影响": "炎雷子疑其与清水屠杀仙人一事有莫大关联"
+    "结果": "青霖负伤遁走，其洞府遗留于妖灵之地、四大仙界全部崩溃、带远古仙域气息的卷宗从天而降、仙界崩溃",
+    "影响": "封界格局剧变",
+    "起因": "元气大伤且遭浩劫"
   },
   "observations": {
     "章节": [
@@ -33,6 +35,11 @@
         "value": "清水被封印之后、屠杀仙人后不到百年",
         "docId": "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
         "seq": 751
+      },
+      {
+        "value": "仙界凄惨大战之后",
+        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+        "seq": 953
       }
     ],
     "参与方": [
@@ -62,6 +69,11 @@
         "value": "带远古仙域气息的卷宗从天而降",
         "docId": "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
         "seq": 751
+      },
+      {
+        "value": "仙界崩溃",
+        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+        "seq": 953
       }
     ],
     "影响": [
@@ -69,6 +81,18 @@
         "value": "炎雷子疑其与清水屠杀仙人一事有莫大关联",
         "docId": "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
         "seq": 751
+      },
+      {
+        "value": "封界格局剧变",
+        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+        "seq": 953
+      }
+    ],
+    "起因": [
+      {
+        "value": "元气大伤且遭浩劫",
+        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+        "seq": 953
       }
     ]
   },
@@ -82,9 +106,9 @@
     },
     "世内时序": {
       "asOf": null,
-      "docId": "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
+      "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
       "dated": false,
-      "seq": 751
+      "seq": 953
     },
     "参与方": {
       "asOf": null,
@@ -100,16 +124,23 @@
     },
     "影响": {
       "asOf": null,
-      "docId": "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
+      "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
       "dated": false,
-      "seq": 751
+      "seq": 953
+    },
+    "起因": {
+      "asOf": null,
+      "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+      "dated": false,
+      "seq": 953
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch616-immortal-emperor-qinglin-secret",
-    "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure"
+    "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
+    "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin"
   ],
-  "updatedAt": "2026-08-23T09:48:28.055Z"
+  "updatedAt": "2026-08-24T07:48:22.308Z"
 }

@@ -5,17 +5,18 @@
   "aliases": [
     "花妃",
     "仙帝八妃之一",
-    "Hua Fei"
+    "Hua Fei",
+    "花魂"
   ],
   "summary": "仙帝八妃之一，守于第四洞府大殿，主持雕像考验并揭示仙府与四入口之秘；真身已死，残存者为一株踏不出洞府的花仙。",
   "attributes": {
     "性别": "女",
-    "身份": "仙帝八妃之一、第四洞府大殿守护者",
+    "身份": "仙帝八妃之一、第四洞府大殿守护者、花妃、花魂、花仙",
     "称号": "花妃",
     "外貌": "白衣女子",
     "标志特征": "化作一朵凄美花朵",
     "存殁": "死亡",
-    "结局": "花妃已死，残存为一株踏不出洞府的花仙"
+    "结局": "被逼成为花魂，只能以花仙存在"
   },
   "observations": {
     "性别": [
@@ -35,6 +36,21 @@
         "value": "第四洞府大殿守护者",
         "docId": "plot.xianni-ch1010-hua-fei",
         "seq": 934
+      },
+      {
+        "value": "花妃",
+        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+        "seq": 953
+      },
+      {
+        "value": "花魂",
+        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+        "seq": 953
+      },
+      {
+        "value": "花仙",
+        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+        "seq": 953
       }
     ],
     "称号": [
@@ -72,6 +88,11 @@
         "value": "花妃已死，残存为一株踏不出洞府的花仙",
         "docId": "plot.xianni-ch1010-hua-fei",
         "seq": 934
+      },
+      {
+        "value": "被逼成为花魂，只能以花仙存在",
+        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+        "seq": 953
       }
     ]
   },
@@ -117,16 +138,17 @@
     },
     "结局": {
       "asOf": null,
-      "docId": "plot.xianni-ch1010-hua-fei",
+      "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
       "dated": false,
-      "seq": 934
+      "seq": 953
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1010-hua-fei",
-    "plot.xianni-1016-desert-black-tower-sanmo-pagoda"
+    "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
+    "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin"
   ],
-  "updatedAt": "2026-08-24T06:28:02.480Z"
+  "updatedAt": "2026-08-24T07:48:22.287Z"
 }

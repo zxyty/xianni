@@ -19,8 +19,8 @@
   "attributes": {
     "所属界面": "妖灵之地内",
     "类型": "仙帝洞府、洞府/秘境、秘境/洞府、仙帝洞府/秘境、洞府／秘境、上古仙帝洞府、洞府/遗迹",
-    "守护": "须四块青霖仙令同时开启四虚府大门方可进入、桥上魔雾中人、散魔残刀",
-    "所属势力": "青霖仙帝",
+    "守护": "须四块青霖仙令同时开启四虚府大门方可进入、桥上魔雾中人、散魔残刀、散魔封印、遍布的禁制、禁制之术（困攻一体）",
+    "所属势力": "仙帝青霖",
     "规模": "多层，第一层为瓶中界",
     "危险度": "凶险之处",
     "特产": "木桥、小河与河中狰狞之兽、阁楼、翠竹"
@@ -85,6 +85,21 @@
         "value": "散魔残刀",
         "docId": "plot.xianni-ch1023-po-ping-er-chu",
         "seq": 945
+      },
+      {
+        "value": "散魔封印",
+        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+        "seq": 953
+      },
+      {
+        "value": "遍布的禁制",
+        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+        "seq": 953
+      },
+      {
+        "value": "禁制之术（困攻一体）",
+        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+        "seq": 953
       }
     ],
     "所属势力": [
@@ -97,6 +112,11 @@
         "value": "青霖仙帝",
         "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
         "seq": 945
+      },
+      {
+        "value": "仙帝青霖",
+        "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+        "seq": 953
       }
     ],
     "规模": [
@@ -168,9 +188,9 @@
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
+      "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
       "dated": false,
-      "seq": 945
+      "seq": 953
     },
     "规模": {
       "asOf": null,
@@ -200,7 +220,8 @@
     "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
     "plot.xianni-ch1023-po-ping-er-chu",
     "plot.xianni-ch1026-qinglin-you-lied-to-me",
-    "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone"
+    "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
+    "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin"
   ],
-  "updatedAt": "2026-08-24T07:27:06.094Z"
+  "updatedAt": "2026-08-24T07:48:22.321Z"
 }
