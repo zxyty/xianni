@@ -3,13 +3,15 @@
   "type": "place",
   "name": "紫色星球",
   "aliases": [
-    "紫色星辰"
+    "紫色星辰",
+    "吉穷所出的紫色星球"
   ],
   "summary": "贪狼回忆中位于一片灰色气息星空里的唯一星球，其外密布近乎无边无际的蚊兽群，威压骇人。",
   "attributes": {
     "类型": "星球",
     "特产": "蚊兽（无边无际）",
-    "危险度": "极高"
+    "危险度": "极高",
+    "方位": "漆黑星空深处"
   },
   "observations": {
     "类型": [
@@ -32,6 +34,13 @@
         "docId": "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua",
         "seq": 605
       }
+    ],
+    "方位": [
+      {
+        "value": "漆黑星空深处",
+        "docId": "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass",
+        "seq": 1044
+      }
     ]
   },
   "firstSeq": 605,
@@ -53,12 +62,19 @@
       "docId": "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua",
       "dated": false,
       "seq": 605
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass",
+      "dated": false,
+      "seq": 1044
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua"
+    "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua",
+    "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass"
   ],
-  "updatedAt": "2026-08-22T18:53:15.771Z"
+  "updatedAt": "2026-08-24T16:52:32.559Z"
 }

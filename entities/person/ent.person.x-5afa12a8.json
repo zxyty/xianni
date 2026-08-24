@@ -7,15 +7,20 @@
     "铜鼎红衣老者",
     "铜鼎之上的老者",
     "红衣老者",
-    "水墨门铜鼎老者"
+    "水墨门铜鼎老者",
+    "古神之地红衣老者",
+    "被一指崩灭的红衣上古炼气士",
+    "红衣上古炼气士老者"
   ],
   "summary": "水墨门压箱底底牌，端坐于自后山飘起的洪荒铜鼎之上，目光平静望着天空。",
   "attributes": {
-    "阵营": "四派联盟",
+    "阵营": "不明",
     "外貌": "红衣老者",
     "性格": "沉静",
     "性别": "男",
-    "标志特征": "立于铜鼎之上、按鼎催动符号"
+    "标志特征": "立于铜鼎之上、按鼎催动符号",
+    "存殁": "死亡",
+    "死因": "被黑衣老人一指洞穿眉心，头颅爆开、肉身崩溃"
   },
   "observations": {
     "阵营": [
@@ -28,6 +33,11 @@
         "value": "四派联盟",
         "docId": "plot.xianni-ch274-underground-ice-sculpture",
         "seq": 258
+      },
+      {
+        "value": "不明",
+        "docId": "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass",
+        "seq": 1044
       }
     ],
     "外貌": [
@@ -62,15 +72,29 @@
         "docId": "plot.xianni-ch274-underground-ice-sculpture",
         "seq": 258
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass",
+        "seq": 1044
+      }
+    ],
+    "死因": [
+      {
+        "value": "被黑衣老人一指洞穿眉心，头颅爆开、肉身崩溃",
+        "docId": "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass",
+        "seq": 1044
+      }
     ]
   },
   "firstSeq": 253,
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch274-underground-ice-sculpture",
+      "docId": "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass",
       "dated": false,
-      "seq": 258
+      "seq": 1044
     },
     "外貌": {
       "asOf": null,
@@ -95,13 +119,26 @@
       "docId": "plot.xianni-ch274-underground-ice-sculpture",
       "dated": false,
       "seq": 258
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass",
+      "dated": false,
+      "seq": 1044
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass",
+      "dated": false,
+      "seq": 1044
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
-    "plot.xianni-ch274-underground-ice-sculpture"
+    "plot.xianni-ch274-underground-ice-sculpture",
+    "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass"
   ],
-  "updatedAt": "2026-08-02T10:32:25.295Z"
+  "updatedAt": "2026-08-24T16:52:32.705Z"
 }

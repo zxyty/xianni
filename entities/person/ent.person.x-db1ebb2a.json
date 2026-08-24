@@ -3,11 +3,13 @@
   "type": "person",
   "name": "无极子",
   "aliases": [
-    "Wuji Zi"
+    "Wuji Zi",
+    "Wu Ji Zi"
   ],
   "summary": "被黑衣老者点名之人，尚未现身；黑衣老者断言联盟星域乱成这样，他必会出现。",
   "attributes": {
-    "存殁": "未现身"
+    "存殁": "未现身",
+    "身份": "藏匿于古神之地的神秘存在"
   },
   "observations": {
     "存殁": [
@@ -16,6 +18,14 @@
         "docId": "plot.xianni-ch1090-mo-zhi-reappears",
         "seq": 1006,
         "note": "本章仅被提及"
+      }
+    ],
+    "身份": [
+      {
+        "value": "藏匿于古神之地的神秘存在",
+        "docId": "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass",
+        "seq": 1044,
+        "note": "本章未现身，仅被点名"
       }
     ]
   },
@@ -27,12 +37,20 @@
       "dated": false,
       "seq": 1006,
       "note": "本章仅被提及"
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass",
+      "dated": false,
+      "seq": 1044,
+      "note": "本章未现身，仅被点名"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1090-mo-zhi-reappears"
+    "plot.xianni-ch1090-mo-zhi-reappears",
+    "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass"
   ],
-  "updatedAt": "2026-08-24T13:25:48.790Z"
+  "updatedAt": "2026-08-24T16:52:32.702Z"
 }

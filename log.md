@@ -528,3 +528,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T16:23:43.948Z** `ingest` plot.xianni-ch1123-duibuqi-zhouru-kunxu-departure — 第1123章 对不起：王林送玉简入昆虚、接走周茹，木冰眉泣言「对不起」 · kind=plot asOf=2026-08-24 entities=17 relations=29 src=01039-01043.p3.md
 - **2026-08-24T16:26:40.630Z** `ingest` plot.xianni-1124-parting-wang-lin-leaves-mu-bingmei-qinglong-shengzun — 第1124章 离别：王林送走周茹、四圣宗整合为一，与青龙圣尊对峙索人 · kind=plot asOf=2026-08-24 entities=30 relations=44 src=01039-01043.p4.md
 - **2026-08-24T16:29:26.899Z** `ingest` plot.xianni-ch1125-ji-qiong-avatar-into-ancient-god-land — 第1125章 吉穷：王林索回老圣皇遗体、以青霖凝神化体分身潜入古神之地 · kind=plot asOf=2026-08-24 entities=31 relations=38 src=01039-01043.p5.md
+- **2026-08-24T16:52:33.046Z** `ingest` plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass — 第1044-1048章 战吉穷：十八头凶兽追杀与王林踏入金关 · kind=plot asOf=2026-08-24 entities=72 relations=124 src=01044-01048.md

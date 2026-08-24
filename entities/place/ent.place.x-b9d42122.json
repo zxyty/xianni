@@ -6,15 +6,20 @@
     "漆黑虚无空间",
     "仙遗虚无之地",
     "望月所处之地",
-    "虚无之境"
+    "虚无之境",
+    "无边无际的虚无",
+    "虚无外围",
+    "虚无内环",
+    "虚无深处"
   ],
   "summary": "王林此前随巨蛟沉入之处，成为古帝排除王林的依据。",
   "attributes": {
-    "类型": "特殊空间/秘境",
-    "危险度": "极高（元力灵力被持续封印，古神肉身之力不受影响）",
-    "规模": "庞大无比，一月直线飞行不见尽头",
+    "类型": "漆黑空间层",
+    "危险度": "极高",
+    "规模": "无边无际，神识不可全覆盖",
     "特产": "古神幼子",
-    "上级区域": "仙遗之地"
+    "上级区域": "古神之地",
+    "方位": "血色天空之上/裂缝之外"
   },
   "observations": {
     "类型": [
@@ -37,6 +42,11 @@
         "value": "特殊空间/秘境",
         "docId": "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
         "seq": 876
+      },
+      {
+        "value": "漆黑空间层",
+        "docId": "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass",
+        "seq": 1044
       }
     ],
     "危险度": [
@@ -49,6 +59,11 @@
         "value": "极高（元力灵力被持续封印，古神肉身之力不受影响）",
         "docId": "plot.xianni-ch936-yuweng-wangyue-guushen-youzi",
         "seq": 865
+      },
+      {
+        "value": "极高",
+        "docId": "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass",
+        "seq": 1044
       }
     ],
     "规模": [
@@ -56,6 +71,11 @@
         "value": "庞大无比，一月直线飞行不见尽头",
         "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
         "seq": 332
+      },
+      {
+        "value": "无边无际，神识不可全覆盖",
+        "docId": "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass",
+        "seq": 1044
       }
     ],
     "特产": [
@@ -75,6 +95,18 @@
         "value": "仙遗之地",
         "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
         "seq": 332
+      },
+      {
+        "value": "古神之地",
+        "docId": "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass",
+        "seq": 1044
+      }
+    ],
+    "方位": [
+      {
+        "value": "血色天空之上/裂缝之外",
+        "docId": "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass",
+        "seq": 1044
       }
     ]
   },
@@ -82,21 +114,21 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
+      "docId": "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass",
       "dated": false,
-      "seq": 876
+      "seq": 1044
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch936-yuweng-wangyue-guushen-youzi",
+      "docId": "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass",
       "dated": false,
-      "seq": 865
+      "seq": 1044
     },
     "规模": {
       "asOf": null,
-      "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+      "docId": "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass",
       "dated": false,
-      "seq": 332
+      "seq": 1044
     },
     "特产": {
       "asOf": null,
@@ -106,9 +138,15 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch352-fu-kui-space-rift-flight",
+      "docId": "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass",
       "dated": false,
-      "seq": 332
+      "seq": 1044
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass",
+      "dated": false,
+      "seq": 1044
     }
   },
   "contested": false,
@@ -118,7 +156,8 @@
     "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
     "plot.xianni-ch352-fu-kui-space-rift-flight",
     "plot.xianni-ch936-yuweng-wangyue-guushen-youzi",
-    "plot.xianni-ch946-muzhi-xinghuacun-anyue-star"
+    "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
+    "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass"
   ],
-  "updatedAt": "2026-08-23T21:55:16.726Z"
+  "updatedAt": "2026-08-24T16:52:32.720Z"
 }
