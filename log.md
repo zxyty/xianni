@@ -496,3 +496,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T13:28:19.875Z** `ingest` plot.xianni-1091-san-shi-huo-yuan-zhi-wei — 仙逆 第1091章 三世火元之威：王林受族人拥戴、一指灭任涛 · kind=plot asOf=2026-08-24 entities=29 relations=43 src=01009-01013.p1.md
 - **2026-08-24T13:31:10.707Z** `ingest` plot.xianni-ch1092-wang-lin-plans-zhuque-holy-emperor — 第1092章 王林的打算——朱雀圣皇之位与拓森之患 · kind=plot asOf=2026-08-24 entities=39 relations=44 src=01009-01013.p2.md
 - **2026-08-24T13:33:56.392Z** `ingest` plot.xianni-ch1093-you-want-wang-lin — 第1093章 你要王林？——朱雀圣皇临殿，烈云子索要「王林」 · kind=plot asOf=2026-08-24 entities=27 relations=36 src=01009-01013.p3.md
+- **2026-08-24T13:35:51.522Z** `ingest` plot.xianni-1094-lieyunzi-apologizes-zhanzitie — 第1094章 认错：王林揭示朱雀圣皇身份，烈云子屈辱认错交出战字帖 · kind=plot asOf=2026-08-24 entities=22 relations=30 src=01009-01013.p4.md
