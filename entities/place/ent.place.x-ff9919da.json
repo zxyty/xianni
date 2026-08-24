@@ -21,11 +21,11 @@
   ],
   "summary": "散魔借符族圣器与魔念所要开启之地；章名「葬仙中的她」暗示其中有与主角相关之人。",
   "attributes": {
-    "类型": "秘境/禁地、凶地/葬地遗迹、封印/漩涡深坑、封印之地 / 镇压魂魄之地、封印之地、秘境/池、池/禁地、废墟深坑、池/遗迹",
+    "类型": "秘境/禁地、凶地/葬地遗迹、封印/漩涡深坑、封印之地 / 镇压魂魄之地、封印之地、秘境/池、池/禁地、废墟深坑、池/遗迹、秘池",
     "守护": "需符族圣器与魔念方可开启、漩涡吸力、无数凄厉魂魄、青霖禁制分神、青霖分神、青霖",
     "危险度": "极高、极高——被吸入内部怕是必死无疑、极高——漩涡吸力无法抗拒，魂魄无穷、散出阴寒之气",
     "所属势力": "仙帝青霖",
-    "上级区域": "仙帝洞府外围"
+    "上级区域": "瓶中界"
   },
   "observations": {
     "类型": [
@@ -73,6 +73,11 @@
         "value": "池/遗迹",
         "docId": "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu",
         "seq": 960
+      },
+      {
+        "value": "秘池",
+        "docId": "plot.xianni-1044-confusion-immortal-emperor-cave-bamboo-forest",
+        "seq": 963
       }
     ],
     "守护": [
@@ -141,6 +146,11 @@
         "value": "仙帝洞府外围",
         "docId": "plot.xianni-ch1036-hai-zhi-juren-yao-xixue",
         "seq": 958
+      },
+      {
+        "value": "瓶中界",
+        "docId": "plot.xianni-1044-confusion-immortal-emperor-cave-bamboo-forest",
+        "seq": 963
       }
     ]
   },
@@ -172,9 +182,9 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch1036-hai-zhi-juren-yao-xixue",
+      "docId": "plot.xianni-1044-confusion-immortal-emperor-cave-bamboo-forest",
       "dated": false,
-      "seq": 958
+      "seq": 963
     }
   },
   "contested": false,
@@ -185,7 +195,8 @@
     "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
     "plot.xianni-ch956-957-yao-xixue-confrontation-kufu",
     "plot.xianni-ch1036-hai-zhi-juren-yao-xixue",
-    "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu"
+    "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu",
+    "plot.xianni-1044-confusion-immortal-emperor-cave-bamboo-forest"
   ],
-  "updatedAt": "2026-08-24T09:02:35.875Z"
+  "updatedAt": "2026-08-24T09:08:49.105Z"
 }

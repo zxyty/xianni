@@ -21,18 +21,19 @@
     "当年的散魔",
     "古魔座下九散魔",
     "散魔老怪",
-    "老夫（散魔自称）"
+    "老夫（散魔自称）",
+    "那散魔"
   ],
   "summary": "附身于大汉肉身的魔魂，因旧伤、苦战与失去魔塔而神识被困铠甲；败于古妖后弃肉身、附铠甲逃遁，被王林擒住并钻入其体内争夺元神。",
   "attributes": {
-    "身份": "散魔；其上另有未现身的『主人』、古魔（吉魔）坐下散魔之一、王林元神烙印的对象、被王林刻下心神烙印者、操控王林身体的强大魔魂、布局诱敌者",
+    "身份": "散魔；其上另有未现身的『主人』、古魔（吉魔）坐下散魔之一、王林元神烙印的对象、被王林刻下心神烙印者、操控王林身体的强大魔魂、布局诱敌者、干扰传送的布局者",
     "存殁": "在世",
     "外貌": "附身魔焰滔天的大汉，身后现巨大魔魂虚影",
     "标志特征": "王林平生所遇魔气最浓者",
     "种族": "古魔一族",
     "元神强度": "踏入第二步",
     "性格": "桀笑、狂傲、桀骜、狂放贪吞、重承诺",
-    "阵营": "塔珈一方"
+    "阵营": "敌对"
   },
   "observations": {
     "身份": [
@@ -65,6 +66,11 @@
         "value": "布局诱敌者",
         "docId": "plot.xianni-1024-sanmo-opens-zangxian-pool",
         "seq": 945
+      },
+      {
+        "value": "干扰传送的布局者",
+        "docId": "plot.xianni-1044-confusion-immortal-emperor-cave-bamboo-forest",
+        "seq": 963
       }
     ],
     "存殁": [
@@ -154,6 +160,11 @@
         "docId": "plot.xianni-1024-sanmo-opens-zangxian-pool",
         "seq": 945,
         "note": "自述奉塔珈大人之算"
+      },
+      {
+        "value": "敌对",
+        "docId": "plot.xianni-1044-confusion-immortal-emperor-cave-bamboo-forest",
+        "seq": 963
       }
     ]
   },
@@ -205,10 +216,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-1024-sanmo-opens-zangxian-pool",
+      "docId": "plot.xianni-1044-confusion-immortal-emperor-cave-bamboo-forest",
       "dated": false,
-      "seq": 945,
-      "note": "自述奉塔珈大人之算"
+      "seq": 963
     }
   },
   "contested": false,
@@ -226,7 +236,8 @@
     "plot.xianni-847-wang-lin-enlightenment-changes-qing-ling-star",
     "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
     "plot.xianni-1020-qing-lin-crystal-black-tower-flame",
-    "plot.xianni-1024-sanmo-opens-zangxian-pool"
+    "plot.xianni-1024-sanmo-opens-zangxian-pool",
+    "plot.xianni-1044-confusion-immortal-emperor-cave-bamboo-forest"
   ],
-  "updatedAt": "2026-08-24T07:09:00.378Z"
+  "updatedAt": "2026-08-24T09:08:49.093Z"
 }

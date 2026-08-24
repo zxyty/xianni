@@ -16,12 +16,16 @@
     "雾气之兽",
     "黑雾雾兽",
     "五爪戾鸟雾兽",
-    "雾中妖兽"
+    "雾中妖兽",
+    "半透明人形之物",
+    "古神头颅内的人形之物",
+    "红丝人形"
   ],
   "summary": "玄阴鼎每百年开启喷出的黑雾所化妖兽，强者可化作人形，三万年来屠戮仙遗族无数，但无法幻化出带符文的仙遗族人形貌。",
   "attributes": {
     "特性": "由玄阴鼎喷出的黑雾化成、极强者可化作人形、无法幻化仙遗族之人的形貌",
-    "天敌": "逍遥仙王布下的护族大阵、仙选族的长嘴大壶法器、仙选族仙阵"
+    "天敌": "逍遥仙王布下的护族大阵、仙选族的长嘴大壶法器、仙选族仙阵",
+    "阵营": "敌（追杀王林）"
   },
   "observations": {
     "特性": [
@@ -57,6 +61,13 @@
         "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
         "seq": 758
       }
+    ],
+    "阵营": [
+      {
+        "value": "敌（追杀王林）",
+        "docId": "plot.xianni-1044-confusion-immortal-emperor-cave-bamboo-forest",
+        "seq": 963
+      }
     ]
   },
   "firstSeq": 753,
@@ -72,6 +83,12 @@
       "docId": "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
       "dated": false,
       "seq": 753
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1044-confusion-immortal-emperor-cave-bamboo-forest",
+      "dated": false,
+      "seq": 963
     }
   },
   "contested": false,
@@ -80,7 +97,8 @@
     "plot.xianni-ch753-757-leizhi-xianjie-escape-xumu-name",
     "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
     "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
-    "plot.xianni-ch764-765-tashan-xianwei-cangpinge"
+    "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
+    "plot.xianni-1044-confusion-immortal-emperor-cave-bamboo-forest"
   ],
-  "updatedAt": "2026-08-23T10:56:47.344Z"
+  "updatedAt": "2026-08-24T09:08:49.089Z"
 }
