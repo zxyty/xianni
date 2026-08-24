@@ -3,11 +3,18 @@
   "type": "faction",
   "name": "红粉宫",
   "aliases": [
-    "红粉宫姐妹"
+    "红粉宫姐妹",
+    "红粉宫势力",
+    "Hongfen Gong",
+    "红粉宫游玩之地",
+    "红粉宫众女修"
   ],
   "summary": "同行女子所属势力，宫内姐妹众多，据其称皆为绝艳。",
   "attributes": {
-    "据点": "天运星"
+    "据点": "天运星",
+    "掌门": "司徒南（红粉宫宫主）",
+    "理念": "赠丹药、授仙术以聚女修",
+    "阵营": "随司徒南行动"
   },
   "observations": {
     "据点": [
@@ -15,6 +22,28 @@
         "value": "天运星",
         "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
         "seq": 914
+      }
+    ],
+    "掌门": [
+      {
+        "value": "司徒南（红粉宫宫主）",
+        "docId": "plot.xianni-ch990-lianhua-nvshi-situ-nan-qiangren",
+        "seq": 919
+      }
+    ],
+    "理念": [
+      {
+        "value": "赠丹药、授仙术以聚女修",
+        "docId": "plot.xianni-ch990-lianhua-nvshi-situ-nan-qiangren",
+        "seq": 919
+      }
+    ],
+    "阵营": [
+      {
+        "value": "随司徒南行动",
+        "docId": "plot.xianni-ch990-lianhua-nvshi-situ-nan-qiangren",
+        "seq": 919,
+        "note": "本片段随其攻打水灵星"
       }
     ]
   },
@@ -25,12 +54,32 @@
       "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
       "dated": false,
       "seq": 914
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.xianni-ch990-lianhua-nvshi-situ-nan-qiangren",
+      "dated": false,
+      "seq": 919
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.xianni-ch990-lianhua-nvshi-situ-nan-qiangren",
+      "dated": false,
+      "seq": 919
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch990-lianhua-nvshi-situ-nan-qiangren",
+      "dated": false,
+      "seq": 919,
+      "note": "本片段随其攻打水灵星"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power"
+    "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
+    "plot.xianni-ch990-lianhua-nvshi-situ-nan-qiangren"
   ],
-  "updatedAt": "2026-08-24T01:25:19.177Z"
+  "updatedAt": "2026-08-24T02:34:22.466Z"
 }

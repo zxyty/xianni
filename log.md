@@ -414,3 +414,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T01:25:19.529Z** `ingest` plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power — 仙逆 第914-918章：八星古神盾牌认主、保命神通与灵儿的轮回之梦 · kind=plot asOf=2026-08-24 entities=81 relations=129 src=00914-00918.md
 - **2026-08-24T02:13:33.733Z** `ingest` plot.xianni-ch988-canye-power-wang-lin-defeats-fufengzi — 第988章 残夜之力——王林自创神通败净涅浮风子 · kind=plot asOf=2026-08-24 entities=21 relations=27 src=00919-00921.p1.md
 - **2026-08-24T02:15:54.403Z** `ingest` plot.xianni-ch989-strongest-moment-riqiu-canye — 第989章 最强一刻！——残夜之力借日初天地之力，浮风子彻底臣服 · kind=plot asOf=2026-08-24 entities=19 relations=29 src=00919-00921.p2.md
+- **2026-08-24T02:34:22.802Z** `ingest` plot.xianni-ch990-lianhua-nvshi-situ-nan-qiangren — 第990章 抢人：王林炼化女尸为尸卫，司徒南率红粉宫直扑水灵星 · kind=plot asOf=2026-08-24 entities=67 relations=143 src=00919-00921.p3.md

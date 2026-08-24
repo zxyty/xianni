@@ -4,13 +4,15 @@
   "name": "王林的宫殿",
   "aliases": [
     "水灵星宫殿",
-    "王林宫殿"
+    "王林宫殿",
+    "禁制宫殿"
   ],
   "summary": "王林在水灵星上盘膝修行、取出皇冠与炼尸之处，塔山守于殿外。",
   "attributes": {
     "所属界面": "水灵星",
-    "守护": "塔山、王林所布禁制、心禁之术禁制、破灭禁罗盘",
-    "类型": "居所/闭关之地"
+    "守护": "塔山、王林所布禁制、心禁之术禁制、破灭禁罗盘、满殿禁制与十丈罗盘",
+    "类型": "居所/闭关之地、宫殿",
+    "上级区域": "水灵星"
   },
   "observations": {
     "所属界面": [
@@ -40,12 +42,29 @@
         "value": "破灭禁罗盘",
         "docId": "plot.xianni-ch989-strongest-moment-riqiu-canye",
         "seq": 919
+      },
+      {
+        "value": "满殿禁制与十丈罗盘",
+        "docId": "plot.xianni-ch990-lianhua-nvshi-situ-nan-qiangren",
+        "seq": 919
       }
     ],
     "类型": [
       {
         "value": "居所/闭关之地",
         "docId": "plot.xianni-ch989-strongest-moment-riqiu-canye",
+        "seq": 919
+      },
+      {
+        "value": "宫殿",
+        "docId": "plot.xianni-ch990-lianhua-nvshi-situ-nan-qiangren",
+        "seq": 919
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "水灵星",
+        "docId": "plot.xianni-ch990-lianhua-nvshi-situ-nan-qiangren",
         "seq": 919
       }
     ]
@@ -69,13 +88,20 @@
       "docId": "plot.xianni-ch989-strongest-moment-riqiu-canye",
       "dated": false,
       "seq": 919
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch990-lianhua-nvshi-situ-nan-qiangren",
+      "dated": false,
+      "seq": 919
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
-    "plot.xianni-ch989-strongest-moment-riqiu-canye"
+    "plot.xianni-ch989-strongest-moment-riqiu-canye",
+    "plot.xianni-ch990-lianhua-nvshi-situ-nan-qiangren"
   ],
-  "updatedAt": "2026-08-24T02:15:54.191Z"
+  "updatedAt": "2026-08-24T02:34:22.404Z"
 }
