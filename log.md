@@ -424,3 +424,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T04:17:46.752Z** `ingest` plot.xianni-1003-dijun-tuogu-diyu-jianling-xianfu-neihuan-jinzhi — 第1003章 帝君托孤——贝罗换约、帝剑之灵相托、第四座仙府内环石桥禁制 · kind=plot asOf=2026-08-24 entities=24 relations=38 src=00929-00933.p2.md
 - **2026-08-24T04:20:32.732Z** `ingest` plot.xianni-ch1004-immortal-mansion-restriction-breaking — 《仙逆》第1004章 仙府深处的存在——王林以心禁罗盘破仙禁，直入仙府见玄金仙卫金像 · kind=plot asOf=2026-08-24 entities=26 relations=42 src=00929-00933.p3.md
 - **2026-08-24T04:23:03.549Z** `ingest` plot.xianni-1005-hua-xian-immortal-mansion-flower-sea-poison — 第1005章 花仙——仙府花海葬地之毒与银尸吞毒、仙兵混战 · kind=plot asOf=2026-08-24 entities=27 relations=41 src=00929-00933.p4.md
+- **2026-08-24T04:25:55.855Z** `ingest` plot.xianni-ch1006-immortal-mansion-tortoise-shell-crisis — 第1006章 危机：仙府内环四青衣老者伏诛与龟甲大殿中的白衣身影 · kind=plot asOf=2026-08-24 entities=27 relations=33 src=00929-00933.p5.md
