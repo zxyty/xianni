@@ -1,43 +1,43 @@
 {
-  "id": "ent.person.x-2c4c8f96",
-  "type": "person",
-  "name": "卢迪",
+  "id": "ent.beast.x-8aed0090",
+  "type": "beast",
+  "name": "黑色灵兽",
   "aliases": [
-    "Lu Di",
-    "紫道宗少宗"
+    "百丈黑色灵兽",
+    "紫道宗黑色灵兽"
   ],
-  "summary": "以紫色玉简向吕烟菲传讯逼迫双修者，被吕烟菲立誓宁死不从。",
+  "summary": "紫道宗坐骑，身长百丈、速度极快，灵性极高，感知王林杀戮之气后不待吩咐自行疾退。",
   "attributes": {
-    "阵营": "与吕烟菲敌对",
-    "身份": "紫道宗少宗",
-    "性格": "嚣张跋扈、好色残忍、外强中干",
-    "外貌": "紫衣青年"
+    "主人": "卢迪",
+    "外形": "百丈大小的黑色巨兽",
+    "能力": "载人高速飞行",
+    "栖息地": "紫道宗"
   },
   "observations": {
-    "阵营": [
+    "主人": [
       {
-        "value": "与吕烟菲敌对",
-        "docId": "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
-        "seq": 1058
-      }
-    ],
-    "身份": [
-      {
-        "value": "紫道宗少宗",
+        "value": "卢迪",
         "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
         "seq": 1058
       }
     ],
-    "性格": [
+    "外形": [
       {
-        "value": "嚣张跋扈、好色残忍、外强中干",
+        "value": "百丈大小的黑色巨兽",
         "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
         "seq": 1058
       }
     ],
-    "外貌": [
+    "能力": [
       {
-        "value": "紫衣青年",
+        "value": "载人高速飞行",
+        "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
+        "seq": 1058
+      }
+    ],
+    "栖息地": [
+      {
+        "value": "紫道宗",
         "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
         "seq": 1058
       }
@@ -45,25 +45,25 @@
   },
   "firstSeq": 1058,
   "attrProvenance": {
-    "阵营": {
-      "asOf": null,
-      "docId": "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
-      "dated": false,
-      "seq": 1058
-    },
-    "身份": {
+    "主人": {
       "asOf": null,
       "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
       "dated": false,
       "seq": 1058
     },
-    "性格": {
+    "外形": {
       "asOf": null,
       "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
       "dated": false,
       "seq": 1058
     },
-    "外貌": {
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
+      "dated": false,
+      "seq": 1058
+    },
+    "栖息地": {
       "asOf": null,
       "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
       "dated": false,
@@ -73,8 +73,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
     "plot.xianni-1144-rainbow-wang-lin-slays-song-wude"
   ],
-  "updatedAt": "2026-08-24T18:21:10.506Z"
+  "updatedAt": "2026-08-24T18:21:10.529Z"
 }

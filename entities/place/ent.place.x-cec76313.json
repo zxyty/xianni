@@ -8,7 +8,8 @@
     "莫罗大陆宗派驻地",
     "Muo Luo Continent",
     "莫罗大陆深处",
-    "Momo Continent"
+    "Momo Continent",
+    "Moluo Continent"
   ],
   "summary": "漂浮于云海星域第五阶的大陆，中心黑塔之光笼罩全陆隔绝星雾；其北部丛林有接引王林的传送阵。",
   "attributes": {
@@ -16,8 +17,9 @@
     "类型": "漂浮星空的大陆（代表一个宗派）、大陆、漂浮大陆",
     "守护": "黑塔防护之光",
     "所属界面": "云海星域",
-    "特产": "药草",
-    "危险度": "外有星雾与无数凶兽"
+    "特产": "药草、紫目蟒等妖兽",
+    "危险度": "外有星雾与无数凶兽",
+    "所属势力": "归元宗（唯一修真门派）"
   },
   "observations": {
     "上级区域": [
@@ -73,12 +75,24 @@
         "value": "药草",
         "docId": "plot.xianni-ch1141-lv-yanfei",
         "seq": 1058
+      },
+      {
+        "value": "紫目蟒等妖兽",
+        "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
+        "seq": 1058
       }
     ],
     "危险度": [
       {
         "value": "外有星雾与无数凶兽",
         "docId": "plot.xianni-ch1143-purple-qi-from-west",
+        "seq": 1058
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "归元宗（唯一修真门派）",
+        "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
         "seq": 1058
       }
     ]
@@ -120,6 +134,12 @@
       "docId": "plot.xianni-ch1143-purple-qi-from-west",
       "dated": false,
       "seq": 1058
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
+      "dated": false,
+      "seq": 1058
     }
   },
   "contested": false,
@@ -131,7 +151,8 @@
     "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
     "plot.xianni-ch1141-lv-yanfei",
     "plot.xianni-ch1142-jing-hun-sun-yun-ru-si-li-hun-dan",
-    "plot.xianni-ch1143-purple-qi-from-west"
+    "plot.xianni-ch1143-purple-qi-from-west",
+    "plot.xianni-1144-rainbow-wang-lin-slays-song-wude"
   ],
-  "updatedAt": "2026-08-24T18:18:43.143Z"
+  "updatedAt": "2026-08-24T18:21:10.517Z"
 }

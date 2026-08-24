@@ -3,14 +3,16 @@
   "type": "place",
   "name": "悬空道观",
   "aliases": [
-    "八石柱悬空道观"
+    "八石柱悬空道观",
+    "王林的悬空道观"
   ],
   "summary": "由八个巨大石柱撑起、悬于归元宗盆地上空的道观，内有透紫光的空间裂缝与放置三样传承之物的禁制架子。",
   "attributes": {
     "所属势力": "归元宗",
     "方位": "归元宗盆地上空",
-    "类型": "悬空道观/传承禁地",
-    "守护": "紫目蟒与架上禁制"
+    "类型": "悬空道观/传承禁地、洞府/道观",
+    "守护": "紫目蟒与架上禁制",
+    "所属界面": "莫罗大陆"
   },
   "observations": {
     "所属势力": [
@@ -32,12 +34,24 @@
         "value": "悬空道观/传承禁地",
         "docId": "plot.xianni-ch1143-purple-qi-from-west",
         "seq": 1058
+      },
+      {
+        "value": "洞府/道观",
+        "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
+        "seq": 1058
       }
     ],
     "守护": [
       {
         "value": "紫目蟒与架上禁制",
         "docId": "plot.xianni-ch1143-purple-qi-from-west",
+        "seq": 1058
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "莫罗大陆",
+        "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
         "seq": 1058
       }
     ]
@@ -67,12 +81,19 @@
       "docId": "plot.xianni-ch1143-purple-qi-from-west",
       "dated": false,
       "seq": 1058
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
+      "dated": false,
+      "seq": 1058
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1143-purple-qi-from-west"
+    "plot.xianni-ch1143-purple-qi-from-west",
+    "plot.xianni-1144-rainbow-wang-lin-slays-song-wude"
   ],
-  "updatedAt": "2026-08-24T18:18:43.146Z"
+  "updatedAt": "2026-08-24T18:21:10.521Z"
 }

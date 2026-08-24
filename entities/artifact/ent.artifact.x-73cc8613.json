@@ -1,43 +1,37 @@
 {
-  "id": "ent.person.x-2c4c8f96",
-  "type": "person",
-  "name": "卢迪",
-  "aliases": [
-    "Lu Di",
-    "紫道宗少宗"
-  ],
-  "summary": "以紫色玉简向吕烟菲传讯逼迫双修者，被吕烟菲立誓宁死不从。",
+  "id": "ent.artifact.x-73cc8613",
+  "type": "artifact",
+  "name": "次空涅剑",
+  "aliases": [],
+  "summary": "王林自储物裂缝取出的锈迹铁剑，一斩之下天地被极光笼罩，直接崩碎冰晶并使净涅中期修士形神俱灭。",
   "attributes": {
-    "阵营": "与吕烟菲敌对",
-    "身份": "紫道宗少宗",
-    "性格": "嚣张跋扈、好色残忍、外强中干",
-    "外貌": "紫衣青年"
+    "持有者": "王林",
+    "外形": "一把锈迹铁剑",
+    "能力": "一斩生极光之芒笼罩天地、可令净涅后期修士脱层皮"
   },
   "observations": {
-    "阵营": [
+    "持有者": [
       {
-        "value": "与吕烟菲敌对",
-        "docId": "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
-        "seq": 1058
-      }
-    ],
-    "身份": [
-      {
-        "value": "紫道宗少宗",
+        "value": "王林",
         "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
         "seq": 1058
       }
     ],
-    "性格": [
+    "外形": [
       {
-        "value": "嚣张跋扈、好色残忍、外强中干",
+        "value": "一把锈迹铁剑",
         "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
         "seq": 1058
       }
     ],
-    "外貌": [
+    "能力": [
       {
-        "value": "紫衣青年",
+        "value": "一斩生极光之芒笼罩天地",
+        "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
+        "seq": 1058
+      },
+      {
+        "value": "可令净涅后期修士脱层皮",
         "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
         "seq": 1058
       }
@@ -45,25 +39,19 @@
   },
   "firstSeq": 1058,
   "attrProvenance": {
-    "阵营": {
-      "asOf": null,
-      "docId": "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
-      "dated": false,
-      "seq": 1058
-    },
-    "身份": {
+    "持有者": {
       "asOf": null,
       "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
       "dated": false,
       "seq": 1058
     },
-    "性格": {
+    "外形": {
       "asOf": null,
       "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
       "dated": false,
       "seq": 1058
     },
-    "外貌": {
+    "能力": {
       "asOf": null,
       "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
       "dated": false,
@@ -73,8 +61,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
     "plot.xianni-1144-rainbow-wang-lin-slays-song-wude"
   ],
-  "updatedAt": "2026-08-24T18:21:10.506Z"
+  "updatedAt": "2026-08-24T18:21:10.522Z"
 }

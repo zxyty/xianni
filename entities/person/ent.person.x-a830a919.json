@@ -1,43 +1,51 @@
 {
-  "id": "ent.person.x-2c4c8f96",
+  "id": "ent.person.x-a830a919",
   "type": "person",
-  "name": "卢迪",
+  "name": "李向东",
   "aliases": [
-    "Lu Di",
-    "紫道宗少宗"
+    "归元宗中年男子长老",
+    "东苑山脉长老"
   ],
-  "summary": "以紫色玉简向吕烟菲传讯逼迫双修者，被吕烟菲立誓宁死不从。",
+  "summary": "归元宗四大长老之一，居东苑山脉之顶，师尊新丧后决意张狂一回，即便死也要死得顶天立地。",
   "attributes": {
-    "阵营": "与吕烟菲敌对",
-    "身份": "紫道宗少宗",
-    "性格": "嚣张跋扈、好色残忍、外强中干",
-    "外貌": "紫衣青年"
+    "性别": "男",
+    "身份": "归元宗四大长老之一",
+    "外貌": "中年男子",
+    "阵营": "归元宗",
+    "性格": "隐忍后决死"
   },
   "observations": {
-    "阵营": [
+    "性别": [
       {
-        "value": "与吕烟菲敌对",
-        "docId": "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
+        "value": "男",
+        "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
         "seq": 1058
       }
     ],
     "身份": [
       {
-        "value": "紫道宗少宗",
-        "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
-        "seq": 1058
-      }
-    ],
-    "性格": [
-      {
-        "value": "嚣张跋扈、好色残忍、外强中干",
+        "value": "归元宗四大长老之一",
         "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
         "seq": 1058
       }
     ],
     "外貌": [
       {
-        "value": "紫衣青年",
+        "value": "中年男子",
+        "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
+        "seq": 1058
+      }
+    ],
+    "阵营": [
+      {
+        "value": "归元宗",
+        "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
+        "seq": 1058
+      }
+    ],
+    "性格": [
+      {
+        "value": "隐忍后决死",
         "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
         "seq": 1058
       }
@@ -45,19 +53,13 @@
   },
   "firstSeq": 1058,
   "attrProvenance": {
-    "阵营": {
-      "asOf": null,
-      "docId": "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
-      "dated": false,
-      "seq": 1058
-    },
-    "身份": {
+    "性别": {
       "asOf": null,
       "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
       "dated": false,
       "seq": 1058
     },
-    "性格": {
+    "身份": {
       "asOf": null,
       "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
       "dated": false,
@@ -68,13 +70,24 @@
       "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
       "dated": false,
       "seq": 1058
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
+      "dated": false,
+      "seq": 1058
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
+      "dated": false,
+      "seq": 1058
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
     "plot.xianni-1144-rainbow-wang-lin-slays-song-wude"
   ],
-  "updatedAt": "2026-08-24T18:21:10.506Z"
+  "updatedAt": "2026-08-24T18:21:10.510Z"
 }
