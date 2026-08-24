@@ -5,11 +5,14 @@
   "aliases": [
     "八阶星域破天宗",
     "Po Tian Zong",
-    "八阶破天宗"
+    "八阶破天宗",
+    "Potian Sect",
+    "八阶宗派破天宗"
   ],
   "summary": "八阶星域的宗门，其玉简为众势力争夺焦点。",
   "attributes": {
-    "等级": "八阶星域宗门、八阶"
+    "等级": "八阶星域宗门、八阶、八阶宗派（已具搬迁九阶星域资格）",
+    "镇派之宝": "丹药、残剑、兽骨（涅空丹丹方）"
   },
   "observations": {
     "等级": [
@@ -22,6 +25,28 @@
         "value": "八阶",
         "docId": "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan",
         "seq": 1068
+      },
+      {
+        "value": "八阶宗派（已具搬迁九阶星域资格）",
+        "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
+        "seq": 1068
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "丹药",
+        "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
+        "seq": 1068
+      },
+      {
+        "value": "残剑",
+        "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
+        "seq": 1068
+      },
+      {
+        "value": "兽骨（涅空丹丹方）",
+        "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
+        "seq": 1068
       }
     ]
   },
@@ -32,13 +57,20 @@
       "docId": "plot.xianni-ch1150-jingbian-manhuang-dalu-liuxing-shouchao",
       "dated": false,
       "seq": 1068
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
+      "dated": false,
+      "seq": 1068
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1150-jingbian-manhuang-dalu-liuxing-shouchao",
-    "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan"
+    "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan",
+    "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong"
   ],
-  "updatedAt": "2026-08-24T18:54:13.427Z"
+  "updatedAt": "2026-08-24T18:57:10.870Z"
 }

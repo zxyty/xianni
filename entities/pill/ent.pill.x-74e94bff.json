@@ -4,12 +4,14 @@
   "name": "涅空丹",
   "aliases": [
     "Nie Kong Dan",
-    "涅空丹药"
+    "涅空丹药",
+    "传说中的涅空丹"
   ],
   "summary": "传说中存在的丹药，其丹方引发六阶星域多派争夺。",
   "attributes": {
     "适用境界": "涅字辈境界（推测，文中未明）、碎涅后期大圆满／面临天人衰劫的大神通修士",
-    "功效": "一成把握规则化本源、成为修道第三步、五成把握度过天人一次衰劫、八成把握进入神之始境"
+    "功效": "一成把握规则化本源、成为修道第三步、五成把握度过天人一次衰劫、八成把握进入神之始境",
+    "品阶": "传说级"
   },
   "observations": {
     "适用境界": [
@@ -40,6 +42,13 @@
         "docId": "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan",
         "seq": 1068
       }
+    ],
+    "品阶": [
+      {
+        "value": "传说级",
+        "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
+        "seq": 1068
+      }
     ]
   },
   "firstSeq": 1068,
@@ -55,13 +64,20 @@
       "docId": "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan",
       "dated": false,
       "seq": 1068
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
+      "dated": false,
+      "seq": 1068
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1150-jingbian-manhuang-dalu-liuxing-shouchao",
-    "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan"
+    "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan",
+    "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong"
   ],
-  "updatedAt": "2026-08-24T18:54:13.425Z"
+  "updatedAt": "2026-08-24T18:57:10.882Z"
 }

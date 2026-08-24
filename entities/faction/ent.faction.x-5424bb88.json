@@ -5,17 +5,31 @@
   "aliases": [
     "六阶华清宗",
     "Huaqing Sect",
-    "华清宗修士"
+    "华清宗修士",
+    "六阶宗派华清宗"
   ],
   "summary": "六阶宗派，施洛刑为其大弟子；已收到求援讯息，但救援需时。",
   "attributes": {
-    "等级": "六阶"
+    "等级": "六阶、六阶星域宗派",
+    "理念": "献兽骨丹方给八阶宗派，换取好处与庇护，成为六阶星域霸主"
   },
   "observations": {
     "等级": [
       {
         "value": "六阶",
         "docId": "plot.xianni-ch1150-jingbian-manhuang-dalu-liuxing-shouchao",
+        "seq": 1068
+      },
+      {
+        "value": "六阶星域宗派",
+        "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
+        "seq": 1068
+      }
+    ],
+    "理念": [
+      {
+        "value": "献兽骨丹方给八阶宗派，换取好处与庇护，成为六阶星域霸主",
+        "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
         "seq": 1068
       }
     ]
@@ -27,13 +41,20 @@
       "docId": "plot.xianni-ch1150-jingbian-manhuang-dalu-liuxing-shouchao",
       "dated": false,
       "seq": 1068
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
+      "dated": false,
+      "seq": 1068
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1150-jingbian-manhuang-dalu-liuxing-shouchao",
-    "plot.xianni-1151-lai-de-hao-kuai-heiyuan-yaocao-wudumen"
+    "plot.xianni-1151-lai-de-hao-kuai-heiyuan-yaocao-wudumen",
+    "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong"
   ],
-  "updatedAt": "2026-08-24T18:49:01.512Z"
+  "updatedAt": "2026-08-24T18:57:10.869Z"
 }

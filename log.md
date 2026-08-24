@@ -552,3 +552,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T18:49:01.807Z** `ingest` plot.xianni-1151-lai-de-hao-kuai-heiyuan-yaocao-wudumen — 第1151章 来的好快！——王林驱黑猿横扫蛮荒大陆药草，误闯五毒门骷髅阵 · kind=plot asOf=2026-08-24 entities=26 relations=32 src=01068-01072.p2.md
 - **2026-08-24T18:51:36.001Z** `ingest` plot.xianni-ch1152-shan-gu-zhi-nei — 《仙逆》第1152章 山谷之内：斩杀五毒门毒婆子，山谷内遇中毒的净涅后期中年男子 · kind=plot asOf=2026-08-24 entities=25 relations=33 src=01068-01072.p3.md
 - **2026-08-24T18:54:13.808Z** `ingest` plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan — 第1153章 每临大事有静气：王林斩杀净涅中年男子，得八阶破天宗玉简与涅空丹丹方 · kind=plot asOf=2026-08-24 entities=27 relations=33 src=01068-01072.p4.md
+- **2026-08-24T18:57:11.189Z** `ingest` plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong — 第1154章 一触即发！——华清宗钱贵钟驰援蛮荒大陆，兽骨丹方旧史与王林被扣 · kind=plot asOf=2026-08-24 entities=34 relations=39 src=01068-01072.p5.md
