@@ -6,15 +6,18 @@
     "昆虚圣女木冰眉",
     "第七代圣女",
     "Mu Bingmei",
-    "粉衣女子的大师姐"
+    "粉衣女子的大师姐",
+    "绝美女子",
+    "冷漠的绝美女子"
   ],
   "summary": "昆虚之境第七代圣女，唯一在天魂道上略有小成者；以无情之道另辟捷径分出九个无本心分身，第九分身即柳眉。",
   "attributes": {
     "性别": "女",
-    "身份": "昆虚之境第七代圣女",
+    "身份": "昆虚圣女",
     "称号": "昆虚圣女",
-    "性格": "高傲、无情之道、极为冰冷",
-    "分身": "九个（前八个已圆满苏醒，第九分身为柳眉）"
+    "性格": "高傲、无情之道、极为冰冷、冷漠、斩钉截铁、不容妥协",
+    "分身": "第九分身（因劫而毁，因王林而涅）",
+    "外貌": "可以让任何人怦然心动、甘愿为其付出一切的绝美之脸"
   },
   "observations": {
     "性别": [
@@ -29,6 +32,11 @@
         "value": "昆虚之境第七代圣女",
         "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
         "seq": 977
+      },
+      {
+        "value": "昆虚圣女",
+        "docId": "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
+        "seq": 982
       }
     ],
     "称号": [
@@ -48,6 +56,21 @@
         "value": "极为冰冷",
         "docId": "plot.xianni-1061-immortal-emperor-cave-collapse-ancient-demon-possession-complete",
         "seq": 977
+      },
+      {
+        "value": "冷漠",
+        "docId": "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
+        "seq": 982
+      },
+      {
+        "value": "斩钉截铁",
+        "docId": "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
+        "seq": 982
+      },
+      {
+        "value": "不容妥协",
+        "docId": "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
+        "seq": 982
       }
     ],
     "分身": [
@@ -55,6 +78,19 @@
         "value": "九个（前八个已圆满苏醒，第九分身为柳眉）",
         "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
         "seq": 977
+      },
+      {
+        "value": "第九分身（因劫而毁，因王林而涅）",
+        "docId": "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
+        "seq": 982,
+        "note": "老者指柳眉一线并非其真实身份"
+      }
+    ],
+    "外貌": [
+      {
+        "value": "可以让任何人怦然心动、甘愿为其付出一切的绝美之脸",
+        "docId": "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
+        "seq": 982
       }
     ]
   },
@@ -68,9 +104,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
+      "docId": "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
       "dated": false,
-      "seq": 977
+      "seq": 982
     },
     "称号": {
       "asOf": null,
@@ -86,16 +122,24 @@
     },
     "分身": {
       "asOf": null,
-      "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
+      "docId": "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
       "dated": false,
-      "seq": 977
+      "seq": 982,
+      "note": "老者指柳眉一线并非其真实身份"
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
+      "dated": false,
+      "seq": 982
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
-    "plot.xianni-1061-immortal-emperor-cave-collapse-ancient-demon-possession-complete"
+    "plot.xianni-1061-immortal-emperor-cave-collapse-ancient-demon-possession-complete",
+    "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon"
   ],
-  "updatedAt": "2026-08-24T10:00:58.408Z"
+  "updatedAt": "2026-08-24T10:23:06.625Z"
 }

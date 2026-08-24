@@ -60,15 +60,17 @@
     "贝罗等人",
     "贝罗道友",
     "古妖虚影幻化",
-    "七星古妖贝罗"
+    "七星古妖贝罗",
+    "Beluo"
   ],
   "summary": "赵星煞借眉心符文召出的百丈虚影，头生双角、蓝色妖纹、指甲如飞剑，释放超越灵力的「妖力」，疑为上古传说中的古妖，被天运宗内一声大喝喝止后退回其眉心。",
   "attributes": {
-    "种族": "古之一族",
+    "种族": "古妖、妖、古之一族、古妖一族",
     "外形": "高约百丈、头生双角、蓝色妖异纹络、指甲森森如飞剑",
     "能力": "释放妖力形成红色漩涡吸摄魂魄、徒手抓出穿体而入的魂兽、以水晶查探地形险地、感应周佚本体方位（无法精确）、代主承受致命攻击、名号本身即可震慑血神子、吞噬（曾吞噬火妖灵）",
     "主人": "王林",
-    "栖息地": "火妖都城皇宫后方山谷"
+    "栖息地": "火妖都城皇宫后方山谷",
+    "天敌": "古魔一族"
   },
   "observations": {
     "种族": [
@@ -85,6 +87,11 @@
       {
         "value": "古之一族",
         "docId": "plot.xianni-1064-heiyiren-shenfen-luohou",
+        "seq": 982
+      },
+      {
+        "value": "古妖一族",
+        "docId": "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
         "seq": 982
       }
     ],
@@ -158,15 +165,22 @@
         "seq": 926,
         "note": "当年被王林释放之处"
       }
+    ],
+    "天敌": [
+      {
+        "value": "古魔一族",
+        "docId": "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
+        "seq": 982
+      }
     ]
   },
   "firstSeq": 467,
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.xianni-1064-heiyiren-shenfen-luohou",
+      "docId": "plot.xianni-ch467-471-ziqi-donglai-chuangyan",
       "dated": false,
-      "seq": 982
+      "seq": 467
     },
     "外形": {
       "asOf": null,
@@ -192,6 +206,12 @@
       "dated": false,
       "seq": 926,
       "note": "当年被王林释放之处"
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
+      "dated": false,
+      "seq": 982
     }
   },
   "contested": false,
@@ -249,7 +269,8 @@
     "plot.xianni-1062-gumo-zhiwei-tajia-duoshe-qinglin",
     "plot.xianni-1063-qinglin-duoshe-qian-de-yiju-hua",
     "plot.xianni-1064-heiyiren-shenfen-luohou",
-    "plot.xianni-1065-three-ancient-races-reunite"
+    "plot.xianni-1065-three-ancient-races-reunite",
+    "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon"
   ],
-  "updatedAt": "2026-08-24T10:20:08.333Z"
+  "updatedAt": "2026-08-24T10:23:06.647Z"
 }

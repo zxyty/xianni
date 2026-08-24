@@ -473,3 +473,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T10:10:47.460Z** `ingest` plot.xianni-1063-qinglin-duoshe-qian-de-yiju-hua — 第1063章 青霖夺舍前的一句话：古魔塔珈屠戮众修，王林取青霜之血御魔龙 · kind=plot asOf=2026-08-24 entities=31 relations=49 src=00982-00986.p2.md
 - **2026-08-24T10:13:20.191Z** `ingest` plot.xianni-1064-heiyiren-shenfen-luohou — 《仙逆》第1064章 黑衣人的身份——青霖血克古魔·移形换位反杀，罗睺自曝掌尊第七弟子 · kind=plot asOf=2026-08-24 entities=21 relations=34 src=00982-00986.p3.md
 - **2026-08-24T10:20:08.600Z** `ingest` plot.xianni-1065-three-ancient-races-reunite — 第1065章 古之三族重聚——古神王林、古妖贝罗联手战古魔塔珈，仙帝洞府第八层天空崩塌 · kind=plot asOf=2026-08-24 entities=40 relations=54 src=00982-00986.p4.md
+- **2026-08-24T10:23:06.989Z** `ingest` plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon — 第1066章 昆虚圣女木冰眉的抉择与古魔塔珈焚天煮海 · kind=plot asOf=2026-08-24 entities=25 relations=45 src=00982-00986.p5.md

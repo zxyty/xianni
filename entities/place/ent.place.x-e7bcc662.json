@@ -9,11 +9,13 @@
   ],
   "summary": "仙帝洞府第七层，已非玉简所载模样：无阁楼建筑，一片火海自成一界，地面龟裂漂浮于岩浆之上，正中一座被挪移而来的喷发火山。",
   "attributes": {
-    "类型": "秘境分层空间、火山秘境层",
+    "类型": "秘境分层空间、火山秘境层、洞府层级",
     "上级区域": "仙帝洞府",
     "方位": "第六层之下、第八层之上",
-    "危险度": "高（火海、岩浆、高温黑气）、极高（高温、火毒）",
-    "特产": "浓郁火属性元力、残存仙玉痕迹、火属性元力"
+    "危险度": "高（火海、岩浆、高温黑气）、极高（高温、火毒）、极高（魔火焚天、魔海煮杀）",
+    "特产": "浓郁火属性元力、残存仙玉痕迹、火属性元力",
+    "所属势力": "仙帝青霖",
+    "守护": "火龙灵"
   },
   "observations": {
     "类型": [
@@ -26,6 +28,11 @@
         "value": "火山秘境层",
         "docId": "plot.xianni-ch1056-immortal-emperor-cave-layer7-volcano-demon-seal",
         "seq": 972
+      },
+      {
+        "value": "洞府层级",
+        "docId": "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
+        "seq": 982
       }
     ],
     "上级区域": [
@@ -52,6 +59,11 @@
         "value": "极高（高温、火毒）",
         "docId": "plot.xianni-ch1056-immortal-emperor-cave-layer7-volcano-demon-seal",
         "seq": 972
+      },
+      {
+        "value": "极高（魔火焚天、魔海煮杀）",
+        "docId": "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
+        "seq": 982
       }
     ],
     "特产": [
@@ -69,6 +81,20 @@
         "value": "火属性元力",
         "docId": "plot.xianni-ch1056-immortal-emperor-cave-layer7-volcano-demon-seal",
         "seq": 972
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "仙帝青霖",
+        "docId": "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
+        "seq": 982
+      }
+    ],
+    "守护": [
+      {
+        "value": "火龙灵",
+        "docId": "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
+        "seq": 982
       }
     ]
   },
@@ -103,6 +129,18 @@
       "docId": "plot.xianni-ch1055-shanbeng-seventh-layer-volcano",
       "dated": false,
       "seq": 972
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
+      "dated": false,
+      "seq": 982
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
+      "dated": false,
+      "seq": 982
     }
   },
   "contested": false,
@@ -110,7 +148,8 @@
   "docs": [
     "plot.xianni-ch1055-shanbeng-seventh-layer-volcano",
     "plot.xianni-ch1056-immortal-emperor-cave-layer7-volcano-demon-seal",
-    "plot.xianni-1060-immortal-emperor-cave-ninth-floor-entry"
+    "plot.xianni-1060-immortal-emperor-cave-ninth-floor-entry",
+    "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon"
   ],
-  "updatedAt": "2026-08-24T09:52:46.358Z"
+  "updatedAt": "2026-08-24T10:23:06.643Z"
 }

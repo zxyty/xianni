@@ -1,56 +1,55 @@
 {
-  "id": "ent.race.x-82bf02c1",
-  "type": "race",
-  "name": "界外之民",
+  "id": "ent.place.x-049146ca",
+  "type": "place",
+  "name": "古之先祖遗迹",
   "aliases": [
-    "两个界外之民",
-    "界外",
-    "界外之族"
+    "先祖遗迹",
+    "古之先祖之地"
   ],
-  "summary": "当年在归途中纠缠带伤的仙帝青霖、迫使其开启仙府疗伤的存在。",
+  "summary": "古魔一族先祖遗迹，唯有达九星境界方可进入，内有真正的返古之力。",
   "attributes": {
-    "特性": "来自界外，可与仙帝级存在纠缠",
-    "阵营": "与昆虚之境敌对",
-    "聚居地": "界外"
+    "所属势力": "古魔一族",
+    "类型": "遗迹",
+    "危险度": "需九星境界方可进入"
   },
   "observations": {
-    "特性": [
+    "所属势力": [
       {
-        "value": "来自界外，可与仙帝级存在纠缠",
-        "docId": "plot.xianni-ch1010-hua-fei",
-        "seq": 934
-      }
-    ],
-    "阵营": [
-      {
-        "value": "与昆虚之境敌对",
+        "value": "古魔一族",
         "docId": "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
         "seq": 982
       }
     ],
-    "聚居地": [
+    "类型": [
       {
-        "value": "界外",
+        "value": "遗迹",
+        "docId": "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
+        "seq": 982
+      }
+    ],
+    "危险度": [
+      {
+        "value": "需九星境界方可进入",
         "docId": "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
         "seq": 982
       }
     ]
   },
-  "firstSeq": 934,
+  "firstSeq": 982,
   "attrProvenance": {
-    "特性": {
-      "asOf": null,
-      "docId": "plot.xianni-ch1010-hua-fei",
-      "dated": false,
-      "seq": 934
-    },
-    "阵营": {
+    "所属势力": {
       "asOf": null,
       "docId": "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
       "dated": false,
       "seq": 982
     },
-    "聚居地": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
+      "dated": false,
+      "seq": 982
+    },
+    "危险度": {
       "asOf": null,
       "docId": "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
       "dated": false,
@@ -60,8 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1010-hua-fei",
     "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon"
   ],
-  "updatedAt": "2026-08-24T10:23:06.647Z"
+  "updatedAt": "2026-08-24T10:23:06.649Z"
 }
