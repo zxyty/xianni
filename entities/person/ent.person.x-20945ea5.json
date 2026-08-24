@@ -8,16 +8,17 @@
     "出尘美妇",
     "村姑打扮的美妇",
     "净涅村姑美妇",
-    "沙哑声音美妇"
+    "沙哑声音美妇",
+    "昏迷的村姑美妇"
   ],
   "summary": "到场的大神通修士之一，唯一女性，衣着寻常如凡人村姑却气息出尘，身后跟随四名绝色女子。",
   "attributes": {
     "性别": "女",
-    "外貌": "村姑装扮的美妇",
+    "外貌": "全身红斑",
     "标志特征": "一股出尘气息、扯断发丝化黑色巨蟒，掐诀放五彩之芒化五道利剑、见王林平静目光时露出不敢置信的骇然、曾入昆虚之境、听长者论天下至宝",
     "身份": "洞府中的竞争者",
-    "存殁": "存活",
-    "阵营": "虚空子一方",
+    "存殁": "昏迷、状若悬死",
+    "阵营": "虚空子一行",
     "性格": "沉静、不为本源所动、忌惮谨慎"
   },
   "observations": {
@@ -48,6 +49,12 @@
         "value": "村姑装扮的美妇",
         "docId": "lore.xianni-ch1050-ci-kong-nie-nie-level-treasures-tianren-wushuai",
         "seq": 967
+      },
+      {
+        "value": "全身红斑",
+        "docId": "plot.xianni-1057-volcano-eruption-fire-dragon-swallows-palace",
+        "seq": 977,
+        "note": "被拖入岩浆后"
       }
     ],
     "标志特征": [
@@ -94,6 +101,12 @@
         "value": "存活",
         "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
         "seq": 953
+      },
+      {
+        "value": "昏迷、状若悬死",
+        "docId": "plot.xianni-1057-volcano-eruption-fire-dragon-swallows-palace",
+        "seq": 977,
+        "note": "第1057章仍未死"
       }
     ],
     "阵营": [
@@ -107,6 +120,11 @@
         "value": "虚空子一方",
         "docId": "plot.xianni-ch1054-forcing-xukongzi",
         "seq": 972
+      },
+      {
+        "value": "虚空子一行",
+        "docId": "plot.xianni-1057-volcano-eruption-fire-dragon-swallows-palace",
+        "seq": 977
       }
     ],
     "性格": [
@@ -132,9 +150,10 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "lore.xianni-ch1050-ci-kong-nie-nie-level-treasures-tianren-wushuai",
+      "docId": "plot.xianni-1057-volcano-eruption-fire-dragon-swallows-palace",
       "dated": false,
-      "seq": 967
+      "seq": 977,
+      "note": "被拖入岩浆后"
     },
     "标志特征": {
       "asOf": null,
@@ -150,15 +169,16 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+      "docId": "plot.xianni-1057-volcano-eruption-fire-dragon-swallows-palace",
       "dated": false,
-      "seq": 953
+      "seq": 977,
+      "note": "第1057章仍未死"
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch1054-forcing-xukongzi",
+      "docId": "plot.xianni-1057-volcano-eruption-fire-dragon-swallows-palace",
       "dated": false,
-      "seq": 972
+      "seq": 977
     },
     "性格": {
       "asOf": null,
@@ -184,7 +204,8 @@
     "plot.xianni-ch1053-xukongzi-cold-sweat",
     "plot.xianni-ch1054-forcing-xukongzi",
     "plot.xianni-ch1055-shanbeng-seventh-layer-volcano",
-    "plot.xianni-ch1056-immortal-emperor-cave-layer7-volcano-demon-seal"
+    "plot.xianni-ch1056-immortal-emperor-cave-layer7-volcano-demon-seal",
+    "plot.xianni-1057-volcano-eruption-fire-dragon-swallows-palace"
   ],
-  "updatedAt": "2026-08-24T09:42:56.895Z"
+  "updatedAt": "2026-08-24T09:45:05.130Z"
 }
