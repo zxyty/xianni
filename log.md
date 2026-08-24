@@ -409,3 +409,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-23T23:30:36.914Z** `ingest` plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo — 仙逆 第961章 王林的尴尬——赵欣梦揭露天运宗「阴虚失踪」禁忌 · kind=plot asOf=2026-08-23 entities=61 relations=135 src=00895-00898.md
 - **2026-08-23T23:50:09.580Z** `ingest` plot.xianni-ch899-903-linger-mo-dao-zi — 仙逆 第899-903章：灵儿相赠与「魔道子」道号自陈 · kind=plot asOf=2026-08-23 entities=62 relations=126 src=00899-00903.md
 - **2026-08-24T00:32:50.993Z** `ingest` plot.xianni-ch904-908-tianyunzi-finger-strike — 仙逆 第904-908章：天运子一指压顶，王林破指 · kind=plot asOf=2026-08-24 entities=74 relations=123 src=00904-00908.md
+- **2026-08-24T00:46:12.294Z** `ingest` plot.xianni-ch975-jingle-tianni-reopens-tianyunzi-crisis — 仙逆 第975章 惊魂：王林吞极阳、天逆珠再开，虚无大手袭凌天候与天运子 · kind=plot asOf=2026-08-24 entities=42 relations=82 src=00909-00909.md

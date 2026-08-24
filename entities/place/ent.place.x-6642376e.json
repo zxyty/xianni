@@ -5,14 +5,17 @@
   "aliases": [
     "大罗",
     "大罗星球",
-    "Da Luo Star"
+    "Da Luo Star",
+    "大罗星内部",
+    "凌天候的大罗星"
   ],
   "summary": "周佚所在之地，本片段中他尚未从此处归来。",
   "attributes": {
-    "类型": "星球",
-    "所属势力": "大罗剑宗",
+    "类型": "修真星",
+    "所属势力": "大罗剑宗 / 凌天候",
     "规模": "比五大副星大数倍",
-    "特产": "灵力充足"
+    "特产": "内部祭火（黑色火凤朱雀）",
+    "守护": "中心处有层层封印"
   },
   "observations": {
     "类型": [
@@ -25,6 +28,11 @@
         "value": "星球",
         "docId": "plot.xianni-ch519-tide-recede-golden-token",
         "seq": 496
+      },
+      {
+        "value": "修真星",
+        "docId": "plot.xianni-ch975-jingle-tianni-reopens-tianyunzi-crisis",
+        "seq": 909
       }
     ],
     "所属势力": [
@@ -32,6 +40,11 @@
         "value": "大罗剑宗",
         "docId": "plot.xianni-ch519-tide-recede-golden-token",
         "seq": 496
+      },
+      {
+        "value": "大罗剑宗 / 凌天候",
+        "docId": "plot.xianni-ch975-jingle-tianni-reopens-tianyunzi-crisis",
+        "seq": 909
       }
     ],
     "规模": [
@@ -46,6 +59,19 @@
         "value": "灵力充足",
         "docId": "plot.xianni-ch519-tide-recede-golden-token",
         "seq": 496
+      },
+      {
+        "value": "内部祭火（黑色火凤朱雀）",
+        "docId": "plot.xianni-ch975-jingle-tianni-reopens-tianyunzi-crisis",
+        "seq": 909
+      }
+    ],
+    "守护": [
+      {
+        "value": "中心处有层层封印",
+        "docId": "plot.xianni-ch975-jingle-tianni-reopens-tianyunzi-crisis",
+        "seq": 909,
+        "note": "凌天候掐诀逐层开启"
       }
     ]
   },
@@ -53,15 +79,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch519-tide-recede-golden-token",
+      "docId": "plot.xianni-ch975-jingle-tianni-reopens-tianyunzi-crisis",
       "dated": false,
-      "seq": 496
+      "seq": 909
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch519-tide-recede-golden-token",
+      "docId": "plot.xianni-ch975-jingle-tianni-reopens-tianyunzi-crisis",
       "dated": false,
-      "seq": 496
+      "seq": 909
     },
     "规模": {
       "asOf": null,
@@ -71,9 +97,16 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-ch519-tide-recede-golden-token",
+      "docId": "plot.xianni-ch975-jingle-tianni-reopens-tianyunzi-crisis",
       "dated": false,
-      "seq": 496
+      "seq": 909
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch975-jingle-tianni-reopens-tianyunzi-crisis",
+      "dated": false,
+      "seq": 909,
+      "note": "凌天候掐诀逐层开启"
     }
   },
   "contested": false,
@@ -82,7 +115,8 @@
     "plot.xianni-ch356-departure-immortal-remains-void-rift",
     "plot.xianni-ch519-tide-recede-golden-token",
     "plot.chapter-595-simplest-heavenly-tribulation-no",
-    "plot.xianni-ch904-908-tianyunzi-finger-strike"
+    "plot.xianni-ch904-908-tianyunzi-finger-strike",
+    "plot.xianni-ch975-jingle-tianni-reopens-tianyunzi-crisis"
   ],
-  "updatedAt": "2026-08-24T00:32:50.750Z"
+  "updatedAt": "2026-08-24T00:46:12.028Z"
 }
