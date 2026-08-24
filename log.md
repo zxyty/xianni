@@ -423,3 +423,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T04:15:02.901Z** `ingest` plot.xianni-1002-second-avatar-ancient-demon-yunyao-part2 — 仙逆 第1002章 第二分身（下）——云妖妖识化古妖，王林收其为第二分身 · kind=plot asOf=2026-08-24 entities=24 relations=32 src=00929-00933.p1.md
 - **2026-08-24T04:17:46.752Z** `ingest` plot.xianni-1003-dijun-tuogu-diyu-jianling-xianfu-neihuan-jinzhi — 第1003章 帝君托孤——贝罗换约、帝剑之灵相托、第四座仙府内环石桥禁制 · kind=plot asOf=2026-08-24 entities=24 relations=38 src=00929-00933.p2.md
 - **2026-08-24T04:20:32.732Z** `ingest` plot.xianni-ch1004-immortal-mansion-restriction-breaking — 《仙逆》第1004章 仙府深处的存在——王林以心禁罗盘破仙禁，直入仙府见玄金仙卫金像 · kind=plot asOf=2026-08-24 entities=26 relations=42 src=00929-00933.p3.md
+- **2026-08-24T04:23:03.549Z** `ingest` plot.xianni-1005-hua-xian-immortal-mansion-flower-sea-poison — 第1005章 花仙——仙府花海葬地之毒与银尸吞毒、仙兵混战 · kind=plot asOf=2026-08-24 entities=27 relations=41 src=00929-00933.p4.md
