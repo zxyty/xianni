@@ -9,17 +9,20 @@
     "村姑打扮的美妇",
     "净涅村姑美妇",
     "沙哑声音美妇",
-    "昏迷的村姑美妇"
+    "昏迷的村姑美妇",
+    "昆虚之境长辈",
+    "成熟美妇"
   ],
   "summary": "到场的大神通修士之一，唯一女性，衣着寻常如凡人村姑却气息出尘，身后跟随四名绝色女子。",
   "attributes": {
     "性别": "女",
-    "外貌": "全身红斑",
+    "外貌": "略显年轻的中年美妇，衣着寻常如凡人村姑、村姑打扮的美妇、村姑般的美妇，声音沙哑而动听、村姑装扮的美妇、全身红斑、美丽成熟，搜魂时面泛妖异潮红",
     "标志特征": "一股出尘气息、扯断发丝化黑色巨蟒，掐诀放五彩之芒化五道利剑、见王林平静目光时露出不敢置信的骇然、曾入昆虚之境、听长者论天下至宝",
-    "身份": "洞府中的竞争者",
+    "身份": "昆虚之境长辈（自幼看粉衣女子长大）",
     "存殁": "昏迷、状若悬死",
     "阵营": "虚空子一行",
-    "性格": "沉静、不为本源所动、忌惮谨慎"
+    "性格": "沉静、不为本源所动、忌惮谨慎",
+    "死因": "身中火毒濒死"
   },
   "observations": {
     "性别": [
@@ -55,6 +58,11 @@
         "docId": "plot.xianni-1057-volcano-eruption-fire-dragon-swallows-palace",
         "seq": 977,
         "note": "被拖入岩浆后"
+      },
+      {
+        "value": "美丽成熟，搜魂时面泛妖异潮红",
+        "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
+        "seq": 977
       }
     ],
     "标志特征": [
@@ -94,13 +102,19 @@
         "value": "洞府中的竞争者",
         "docId": "lore.xianni-ch1050-ci-kong-nie-nie-level-treasures-tianren-wushuai",
         "seq": 967
+      },
+      {
+        "value": "昆虚之境长辈（自幼看粉衣女子长大）",
+        "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
+        "seq": 977
       }
     ],
     "存殁": [
       {
         "value": "存活",
         "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
-        "seq": 953
+        "seq": 953,
+        "note": "本章被王林吸走火毒救回，极为虚弱；世界状态另记其于第977章死亡"
       },
       {
         "value": "昏迷、状若悬死",
@@ -138,6 +152,14 @@
         "docId": "lore.xianni-ch1050-ci-kong-nie-nie-level-treasures-tianren-wushuai",
         "seq": 967
       }
+    ],
+    "死因": [
+      {
+        "value": "身中火毒濒死",
+        "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
+        "seq": 977,
+        "note": "本章由王林出手化解"
+      }
     ]
   },
   "firstSeq": 890,
@@ -150,10 +172,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-1057-volcano-eruption-fire-dragon-swallows-palace",
+      "docId": "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star",
       "dated": false,
-      "seq": 977,
-      "note": "被拖入岩浆后"
+      "seq": 890
     },
     "标志特征": {
       "asOf": null,
@@ -163,9 +184,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "lore.xianni-ch1050-ci-kong-nie-nie-level-treasures-tianren-wushuai",
+      "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
       "dated": false,
-      "seq": 967
+      "seq": 977
     },
     "存殁": {
       "asOf": null,
@@ -185,6 +206,13 @@
       "docId": "plot.xianni-1047-fankang-wanglin-vs-xukongzi",
       "dated": false,
       "seq": 967
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
+      "dated": false,
+      "seq": 977,
+      "note": "本章由王林出手化解"
     }
   },
   "contested": false,
@@ -205,7 +233,8 @@
     "plot.xianni-ch1054-forcing-xukongzi",
     "plot.xianni-ch1055-shanbeng-seventh-layer-volcano",
     "plot.xianni-ch1056-immortal-emperor-cave-layer7-volcano-demon-seal",
-    "plot.xianni-1057-volcano-eruption-fire-dragon-swallows-palace"
+    "plot.xianni-1057-volcano-eruption-fire-dragon-swallows-palace",
+    "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao"
   ],
-  "updatedAt": "2026-08-24T09:45:05.130Z"
+  "updatedAt": "2026-08-24T09:47:33.484Z"
 }

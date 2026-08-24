@@ -11,8 +11,9 @@
   "summary": "昆虚星域内的超然存在，曾极为忌惮四圣宗，与修真联盟联手；最初碍于协议只能暗中相帮，后撕破『不参与昆虚星域内斗』协议正面参战。",
   "attributes": {
     "阵营": "与修真联盟联手对抗四圣宗",
-    "理念": "无数年前立约不参与昆虚星域内斗",
-    "所属界面": "联盟星域"
+    "理念": "历代圣女修天魂道，圆满者为境内最强",
+    "所属界面": "联盟星域",
+    "镇派之宝": "天魂道（巅峰神通之术）"
   },
   "observations": {
     "阵营": [
@@ -28,6 +29,11 @@
         "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
         "seq": 960,
         "note": "大战末期被其自行撕破"
+      },
+      {
+        "value": "历代圣女修天魂道，圆满者为境内最强",
+        "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
+        "seq": 977
       }
     ],
     "所属界面": [
@@ -35,6 +41,13 @@
         "value": "联盟星域",
         "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
         "seq": 960
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "天魂道（巅峰神通之术）",
+        "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
+        "seq": 977
       }
     ]
   },
@@ -48,16 +61,21 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
+      "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
       "dated": false,
-      "seq": 960,
-      "note": "大战末期被其自行撕破"
+      "seq": 977
     },
     "所属界面": {
       "asOf": null,
       "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
       "dated": false,
       "seq": 960
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
+      "dated": false,
+      "seq": 977
     }
   },
   "contested": false,
@@ -65,7 +83,8 @@
   "docs": [
     "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
     "plot.xianni-ch1049-wang-lin-23-swords-defeat-xukongzi",
-    "plot.xianni-ch1055-shanbeng-seventh-layer-volcano"
+    "plot.xianni-ch1055-shanbeng-seventh-layer-volcano",
+    "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao"
   ],
-  "updatedAt": "2026-08-24T09:40:59.896Z"
+  "updatedAt": "2026-08-24T09:47:33.490Z"
 }

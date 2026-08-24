@@ -465,3 +465,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T09:41:00.224Z** `ingest` plot.xianni-ch1055-shanbeng-seventh-layer-volcano — 第1055章 山崩：虚空子重伤、传送第七层火海，王林吸纳火元力悟「山崩」 · kind=plot asOf=2026-08-24 entities=30 relations=43 src=00972-00976.p4.md
 - **2026-08-24T09:42:57.229Z** `ingest` plot.xianni-ch1056-immortal-emperor-cave-layer7-volcano-demon-seal — 第1056章 仙帝洞府第七层：火山吞焰疗伤与「魔」字封印被破 · kind=plot asOf=2026-08-24 entities=23 relations=28 src=00972-00976.p5.md
 - **2026-08-24T09:45:05.440Z** `ingest` plot.xianni-1057-volcano-eruption-fire-dragon-swallows-palace — 仙逆 第1057章：火龙吞殿，王林岩浆炼火，粉衣女子求饶 · kind=plot asOf=2026-08-24 entities=20 relations=28 src=00977-00981.p1.md
+- **2026-08-24T09:47:33.830Z** `ingest` plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao — 第1058章 搜魂粉衣女子，天魂道与昆虚圣女木冰眉的第九分身柳眉 · kind=plot asOf=2026-08-24 entities=21 relations=37 src=00977-00981.p2.md

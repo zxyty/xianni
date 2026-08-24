@@ -8,15 +8,18 @@
     "王朝皇城",
     "雕像大殿",
     "供奉两尊雕像的大殿",
-    "本源所在大殿"
+    "本源所在大殿",
+    "岩浆中的大殿",
+    "第七层大殿"
   ],
   "summary": "都城核心，广场上兵士密布、大殿内聚集数百王家族人与众多修士，为本章高潮对峙之地。",
   "attributes": {
     "所属势力": "大王朝",
-    "类型": "皇城/皇宫、凡间都城、殿宇／秘境入口、大殿",
+    "类型": "皇城/皇宫、凡间都城、殿宇／秘境入口、大殿、秘境大殿",
     "上级区域": "大王朝都城",
     "守护": "密密麻麻的兵士、众多修士、王族历代家族供奉、两尊怒视雕像、两尊巨大雕像",
-    "所属界面": "朱雀星"
+    "所属界面": "朱雀星",
+    "危险度": "殿内驱浆后仍余高温"
   },
   "observations": {
     "所属势力": [
@@ -51,6 +54,11 @@
         "value": "大殿",
         "docId": "plot.xianni-1048-zhibao-tiejian-cikongnie",
         "seq": 967
+      },
+      {
+        "value": "秘境大殿",
+        "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
+        "seq": 977
       }
     ],
     "上级区域": [
@@ -93,6 +101,13 @@
         "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
         "seq": 839
       }
+    ],
+    "危险度": [
+      {
+        "value": "殿内驱浆后仍余高温",
+        "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
+        "seq": 977
+      }
     ]
   },
   "firstSeq": 834,
@@ -126,6 +141,12 @@
       "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
       "dated": false,
       "seq": 839
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
+      "dated": false,
+      "seq": 977
     }
   },
   "contested": false,
@@ -134,7 +155,8 @@
     "plot.xianni-ch895-wanglin-nu-zhuque-wangchao-yuanling",
     "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
     "plot.xianni-1047-fankang-wanglin-vs-xukongzi",
-    "plot.xianni-1048-zhibao-tiejian-cikongnie"
+    "plot.xianni-1048-zhibao-tiejian-cikongnie",
+    "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao"
   ],
-  "updatedAt": "2026-08-24T09:17:44.718Z"
+  "updatedAt": "2026-08-24T09:47:33.496Z"
 }

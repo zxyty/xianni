@@ -12,16 +12,21 @@
     "雪花女子",
     "粉衣女修",
     "全身环绕雪花的粉衣女子",
-    "气泡内的粉衣女子"
+    "气泡内的粉衣女子",
+    "昆虚之境粉衣女子",
+    "柳眉的师妹",
+    "木冰眉的师妹",
+    "眉心雪花女子"
   ],
   "summary": "随村姑装扮中年美妇同行的四名绝色女子之一，相貌惊艳引大罗剑宗弟子侧目，对当年名震潮汐之地的王林露出好奇（原文特别提示此人重要）。",
   "attributes": {
     "性别": "女",
-    "外貌": "身穿粉衣，相貌绝伦、惊艳、粉衣妙龄女子、全身缭绕无数雪花，翩翩起舞、粉衣、粉衣，眉心一个雪花痕迹散发清凉",
-    "身份": "昆虚圣女",
+    "外貌": "身穿粉衣，相貌绝伦、惊艳、粉衣妙龄女子、全身缭绕无数雪花，翩翩起舞、粉衣、粉衣，眉心一个雪花痕迹散发清凉、粉衣，眉心有闪烁的雪花痕迹",
+    "身份": "村姑美妇的随行者之一、昆虚圣女、昆虚之境修士、昆虚圣女木冰眉的师妹",
     "存殁": "存活",
     "阵营": "对王林不善",
-    "标志特征": "冰雪之力护身"
+    "标志特征": "体外飘旋无数雪花（冰属性）、冰雪之力护身、眉心雪花印记（大师姐所赠防身之宝）",
+    "性格": "冰雪聪明、审时度势、隐忍带恨"
   },
   "observations": {
     "性别": [
@@ -57,6 +62,11 @@
         "docId": "plot.xianni-1057-volcano-eruption-fire-dragon-swallows-palace",
         "seq": 977,
         "note": "本章：原先全身环绕的雪花已消失"
+      },
+      {
+        "value": "粉衣，眉心有闪烁的雪花痕迹",
+        "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
+        "seq": 977
       }
     ],
     "身份": [
@@ -70,6 +80,16 @@
         "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
         "seq": 922,
         "note": "凌天候的怀疑，未证实"
+      },
+      {
+        "value": "昆虚之境修士",
+        "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
+        "seq": 977
+      },
+      {
+        "value": "昆虚圣女木冰眉的师妹",
+        "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
+        "seq": 977
       }
     ],
     "存殁": [
@@ -97,6 +117,18 @@
         "value": "冰雪之力护身",
         "docId": "plot.xianni-1057-volcano-eruption-fire-dragon-swallows-palace",
         "seq": 977
+      },
+      {
+        "value": "眉心雪花印记（大师姐所赠防身之宝）",
+        "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
+        "seq": 977
+      }
+    ],
+    "性格": [
+      {
+        "value": "冰雪聪明、审时度势、隐忍带恨",
+        "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
+        "seq": 977
       }
     ]
   },
@@ -116,10 +148,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+      "docId": "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star",
       "dated": false,
-      "seq": 922,
-      "note": "凌天候的怀疑，未证实"
+      "seq": 890
     },
     "存殁": {
       "asOf": null,
@@ -136,7 +167,13 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-1057-volcano-eruption-fire-dragon-swallows-palace",
+      "docId": "plot.xianni-ch1056-immortal-emperor-cave-layer7-volcano-demon-seal",
+      "dated": false,
+      "seq": 972
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
       "dated": false,
       "seq": 977
     }
@@ -153,7 +190,8 @@
     "plot.xianni-1045-ci-kong-nie-iron-sword",
     "plot.xianni-ch1053-xukongzi-cold-sweat",
     "plot.xianni-ch1056-immortal-emperor-cave-layer7-volcano-demon-seal",
-    "plot.xianni-1057-volcano-eruption-fire-dragon-swallows-palace"
+    "plot.xianni-1057-volcano-eruption-fire-dragon-swallows-palace",
+    "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao"
   ],
-  "updatedAt": "2026-08-24T09:45:05.130Z"
+  "updatedAt": "2026-08-24T09:47:33.482Z"
 }
