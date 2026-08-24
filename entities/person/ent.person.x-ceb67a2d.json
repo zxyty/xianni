@@ -3,14 +3,16 @@
   "type": "person",
   "name": "白虎圣皇",
   "aliases": [
-    "白虎圣宗圣皇"
+    "白虎圣宗圣皇",
+    "战死的白虎圣皇"
   ],
   "summary": "连杀联盟众多第一批核心长老与无数昆虚之人后战死；尸体不崩、屹立不倒，凭滔天煞气阻挡联盟大军，死后无人敢上前。",
   "attributes": {
     "称号": "白虎圣皇",
     "存殁": "死亡",
-    "死因": "四圣宗与修真联盟星域大战中力竭战死",
-    "标志特征": "死后尸体不崩、屹立阻挡联盟大军，煞气滔天"
+    "死因": "联盟与四圣宗大战中战死",
+    "标志特征": "死后尸体不崩、屹立阻挡联盟大军，煞气滔天",
+    "结局": "尸体被人抢走"
   },
   "observations": {
     "称号": [
@@ -32,6 +34,11 @@
         "value": "四圣宗与修真联盟星域大战中力竭战死",
         "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
         "seq": 960
+      },
+      {
+        "value": "联盟与四圣宗大战中战死",
+        "docId": "plot.xianni-1097-si-sheng-zong-mi-mi-si-fen-zhi-men",
+        "seq": 1014
       }
     ],
     "标志特征": [
@@ -39,6 +46,13 @@
         "value": "死后尸体不崩、屹立阻挡联盟大军，煞气滔天",
         "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
         "seq": 960
+      }
+    ],
+    "结局": [
+      {
+        "value": "尸体被人抢走",
+        "docId": "plot.xianni-1097-si-sheng-zong-mi-mi-si-fen-zhi-men",
+        "seq": 1014
       }
     ]
   },
@@ -58,21 +72,28 @@
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
+      "docId": "plot.xianni-1097-si-sheng-zong-mi-mi-si-fen-zhi-men",
       "dated": false,
-      "seq": 960
+      "seq": 1014
     },
     "标志特征": {
       "asOf": null,
       "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
       "dated": false,
       "seq": 960
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-1097-si-sheng-zong-mi-mi-si-fen-zhi-men",
+      "dated": false,
+      "seq": 1014
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history"
+    "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
+    "plot.xianni-1097-si-sheng-zong-mi-mi-si-fen-zhi-men"
   ],
-  "updatedAt": "2026-08-24T09:00:07.638Z"
+  "updatedAt": "2026-08-24T14:56:50.943Z"
 }
