@@ -5,19 +5,27 @@
   "aliases": [
     "道冠老者",
     "黑白道袍老者",
-    "Yun Hun Zi"
+    "Yun Hun Zi",
+    "戴道冠的老者"
   ],
   "summary": "身穿黑白双色道袍、头戴道冠的阴森老者，血腥气浓、身后雾中藏无数阴魂；迟到抵达会合地，质疑王林为「净涅小辈」并当场挥手放出阴魂扑向王林。",
   "attributes": {
-    "外貌": "黑白双色道袍、头戴道冠、面色苍白、双眼幽光",
-    "标志特征": "身后雾中藏无数阴魂，周身血腥之气",
-    "性格": "阴沉、狠戾、好试探"
+    "外貌": "黑白双色道袍、头戴道冠、面色苍白、双眼幽光、戴道冠的老者",
+    "标志特征": "身后雾中藏无数阴魂，周身血腥之气、杀戮滔天的血腥之气、神通以魂为主、九个巨大魂火环绕",
+    "性格": "阴沉、狠戾、好试探、阴冷、皮笑肉不笑",
+    "小阶段": "碎涅中期",
+    "身份": "云海星域魔孽之辈"
   },
   "observations": {
     "外貌": [
       {
         "value": "黑白双色道袍、头戴道冠、面色苍白、双眼幽光",
         "docId": "plot.xianni-ch1178-zige-cangsongzi-team",
+        "seq": 1095
+      },
+      {
+        "value": "戴道冠的老者",
+        "docId": "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
         "seq": 1095
       }
     ],
@@ -26,12 +34,46 @@
         "value": "身后雾中藏无数阴魂，周身血腥之气",
         "docId": "plot.xianni-ch1178-zige-cangsongzi-team",
         "seq": 1095
+      },
+      {
+        "value": "杀戮滔天的血腥之气",
+        "docId": "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
+        "seq": 1095
+      },
+      {
+        "value": "神通以魂为主",
+        "docId": "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
+        "seq": 1095
+      },
+      {
+        "value": "九个巨大魂火环绕",
+        "docId": "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
+        "seq": 1095
       }
     ],
     "性格": [
       {
         "value": "阴沉、狠戾、好试探",
         "docId": "plot.xianni-ch1178-zige-cangsongzi-team",
+        "seq": 1095
+      },
+      {
+        "value": "阴冷、皮笑肉不笑",
+        "docId": "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
+        "seq": 1095
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "碎涅中期",
+        "docId": "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
+        "seq": 1095
+      }
+    ],
+    "身份": [
+      {
+        "value": "云海星域魔孽之辈",
+        "docId": "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
         "seq": 1095
       }
     ]
@@ -55,12 +97,25 @@
       "docId": "plot.xianni-ch1178-zige-cangsongzi-team",
       "dated": false,
       "seq": 1095
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
+      "dated": false,
+      "seq": 1095
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
+      "dated": false,
+      "seq": 1095
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1178-zige-cangsongzi-team"
+    "plot.xianni-ch1178-zige-cangsongzi-team",
+    "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering"
   ],
-  "updatedAt": "2026-08-24T21:18:49.542Z"
+  "updatedAt": "2026-08-24T21:21:27.187Z"
 }
