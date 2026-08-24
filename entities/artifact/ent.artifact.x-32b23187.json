@@ -6,14 +6,16 @@
     "逆行者",
     "召逆行者之珠",
     "幽光珠子",
-    "逆行者群体"
+    "逆行者群体",
+    "Nixingzhe"
   ],
   "summary": "苍松子所持的一次性消耗宝珠，喝「召，逆行者」后吸摄天地七彩之芒并崩溃，先后召出七彩闪电与天运一指。",
   "attributes": {
     "持有者": "苍松子",
-    "能力": "吸摄天地七彩之芒、召出七彩闪电、召出天运一指",
-    "外形": "散发幽光的珠子",
-    "禁制": "一次性，用后轰然崩溃"
+    "能力": "吸摄天地七彩之芒、召出七彩闪电、召出天运一指、召唤逆行者虚影、占问他人所在并将画面挤入施术者脑海",
+    "外形": "珠子",
+    "禁制": "一次性，用后轰然崩溃",
+    "来历": "自苍松子储物裂缝中取出，催动后即崩溃（一次性）"
   },
   "observations": {
     "持有者": [
@@ -38,6 +40,16 @@
         "value": "召出天运一指",
         "docId": "plot.xianni-1191-tianyun-reappears-cangsongzi-vs-qingshan-crone",
         "seq": 1105
+      },
+      {
+        "value": "召唤逆行者虚影",
+        "docId": "plot.xianni-ch1199-wendao-qicaijie-dao-ascension",
+        "seq": 1114
+      },
+      {
+        "value": "占问他人所在并将画面挤入施术者脑海",
+        "docId": "plot.xianni-ch1199-wendao-qicaijie-dao-ascension",
+        "seq": 1114
       }
     ],
     "外形": [
@@ -45,6 +57,11 @@
         "value": "散发幽光的珠子",
         "docId": "plot.xianni-1191-tianyun-reappears-cangsongzi-vs-qingshan-crone",
         "seq": 1105
+      },
+      {
+        "value": "珠子",
+        "docId": "plot.xianni-ch1199-wendao-qicaijie-dao-ascension",
+        "seq": 1114
       }
     ],
     "禁制": [
@@ -52,6 +69,13 @@
         "value": "一次性，用后轰然崩溃",
         "docId": "plot.xianni-1191-tianyun-reappears-cangsongzi-vs-qingshan-crone",
         "seq": 1105
+      }
+    ],
+    "来历": [
+      {
+        "value": "自苍松子储物裂缝中取出，催动后即崩溃（一次性）",
+        "docId": "plot.xianni-ch1199-wendao-qicaijie-dao-ascension",
+        "seq": 1114
       }
     ]
   },
@@ -71,22 +95,29 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-1191-tianyun-reappears-cangsongzi-vs-qingshan-crone",
+      "docId": "plot.xianni-ch1199-wendao-qicaijie-dao-ascension",
       "dated": false,
-      "seq": 1105
+      "seq": 1114
     },
     "禁制": {
       "asOf": null,
       "docId": "plot.xianni-1191-tianyun-reappears-cangsongzi-vs-qingshan-crone",
       "dated": false,
       "seq": 1105
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1199-wendao-qicaijie-dao-ascension",
+      "dated": false,
+      "seq": 1114
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1191-tianyun-reappears-cangsongzi-vs-qingshan-crone",
-    "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads"
+    "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
+    "plot.xianni-ch1199-wendao-qicaijie-dao-ascension"
   ],
-  "updatedAt": "2026-08-24T23:15:06.606Z"
+  "updatedAt": "2026-08-24T23:20:49.434Z"
 }

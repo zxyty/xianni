@@ -8,13 +8,14 @@
     "石室三间的洞府",
     "山谷内荒废洞府",
     "王林昏迷之洞府",
-    "紫色山谷"
+    "紫色山谷",
+    "洞府所在山谷"
   ],
   "summary": "位于七彩界外围与内部交接之处的洞府，苍松子据所获玉简确定其存在，内可能藏有丹方、丹药及其余之物。",
   "attributes": {
     "所属界面": "七彩界",
     "方位": "七彩界外围与内部交接之处、秘地内部前方山谷内（非环形山脉之后）",
-    "类型": "洞府/秘境",
+    "类型": "洞府、废弃洞府、洞府/秘境、洞府/山谷",
     "规模": "约百丈大小",
     "所属势力": "司马墨",
     "上级区域": "七彩界",
@@ -55,6 +56,11 @@
       {
         "value": "洞府/秘境",
         "docId": "plot.xianni-1196-sima-mo-cave-secret",
+        "seq": 1114
+      },
+      {
+        "value": "洞府/山谷",
+        "docId": "plot.xianni-ch1199-wendao-qicaijie-dao-ascension",
         "seq": 1114
       }
     ],
@@ -120,9 +126,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1196-sima-mo-cave-secret",
+      "docId": "plot.xianni-1184-qicai-jie-mishizhe-duanmu-tongzi",
       "dated": false,
-      "seq": 1114
+      "seq": 1100
     },
     "规模": {
       "asOf": null,
@@ -161,7 +167,8 @@
     "plot.xianni-1184-qicai-jie-mishizhe-duanmu-tongzi",
     "plot.xianni-1186-nine-step-seal-heaven-formation-broken",
     "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan",
-    "plot.xianni-1196-sima-mo-cave-secret"
+    "plot.xianni-1196-sima-mo-cave-secret",
+    "plot.xianni-ch1199-wendao-qicaijie-dao-ascension"
   ],
-  "updatedAt": "2026-08-24T23:12:09.268Z"
+  "updatedAt": "2026-08-24T23:20:49.431Z"
 }
