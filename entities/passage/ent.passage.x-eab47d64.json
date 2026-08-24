@@ -4,14 +4,16 @@
   "name": "昆虚之境传送阵",
   "aliases": [
     "通往昆虚之境的传送阵",
-    "昆虚传送阵"
+    "昆虚传送阵",
+    "北部平原大阵"
   ],
   "summary": "设于一处蛮荒星上的传送阵，是通往昆虚之境的门户，由四名窥涅修士看守，入内需持邀简。",
   "attributes": {
     "类型": "传送阵",
     "两端": "蛮荒星—昆虚之境",
     "可通行境界": "需持邀简",
-    "守护": "四名窥涅修士"
+    "守护": "四名窥涅修士、守阵童子",
+    "坐标": "昆虚之境北部平原"
   },
   "observations": {
     "类型": [
@@ -40,6 +42,18 @@
       {
         "value": "四名窥涅修士",
         "docId": "plot.xianni-1121-wu-hou-gu-zhi-you-qinglin-bitian-guan-kunxu-chuansongzhen",
+        "seq": 1039
+      },
+      {
+        "value": "守阵童子",
+        "docId": "plot.xianni-ch1122-zhou-ru-forbidden-area-slaughter",
+        "seq": 1039
+      }
+    ],
+    "坐标": [
+      {
+        "value": "昆虚之境北部平原",
+        "docId": "plot.xianni-ch1122-zhou-ru-forbidden-area-slaughter",
         "seq": 1039
       }
     ]
@@ -70,12 +84,19 @@
       "docId": "plot.xianni-1121-wu-hou-gu-zhi-you-qinglin-bitian-guan-kunxu-chuansongzhen",
       "dated": false,
       "seq": 1039
+    },
+    "坐标": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1122-zhou-ru-forbidden-area-slaughter",
+      "dated": false,
+      "seq": 1039
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1121-wu-hou-gu-zhi-you-qinglin-bitian-guan-kunxu-chuansongzhen"
+    "plot.xianni-1121-wu-hou-gu-zhi-you-qinglin-bitian-guan-kunxu-chuansongzhen",
+    "plot.xianni-ch1122-zhou-ru-forbidden-area-slaughter"
   ],
-  "updatedAt": "2026-08-24T16:14:46.065Z"
+  "updatedAt": "2026-08-24T16:21:29.855Z"
 }
