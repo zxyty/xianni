@@ -4,11 +4,15 @@
   "name": "七品灵丹",
   "aliases": [
     "青色丹药",
-    "青丹"
+    "青丹",
+    "青色蜡丸",
+    "青蜡包裹的丹药"
   ],
   "summary": "丹封脱落后现出的桂圆大青色丹药，随即龟裂，被李慕婉认出为七品灵丹。",
   "attributes": {
-    "品阶": "七品"
+    "品阶": "七品",
+    "功效": "瞬间恢复天地之气所致伤患、对修仙力与元力伤势通用",
+    "炼制者": "来自王巍恩师青霖所赠"
   },
   "observations": {
     "品阶": [
@@ -16,6 +20,26 @@
         "value": "七品",
         "docId": "plot.xianni-ch222-wanglin-jiedan",
         "seq": 206
+      }
+    ],
+    "功效": [
+      {
+        "value": "瞬间恢复天地之气所致伤患",
+        "docId": "plot.xianni-ch1053-xukongzi-cold-sweat",
+        "seq": 972
+      },
+      {
+        "value": "对修仙力与元力伤势通用",
+        "docId": "plot.xianni-ch1053-xukongzi-cold-sweat",
+        "seq": 972
+      }
+    ],
+    "炼制者": [
+      {
+        "value": "来自王巍恩师青霖所赠",
+        "docId": "plot.xianni-ch1053-xukongzi-cold-sweat",
+        "seq": 972,
+        "note": "文中仅称恩师当年所赠"
       }
     ]
   },
@@ -26,12 +50,26 @@
       "docId": "plot.xianni-ch222-wanglin-jiedan",
       "dated": false,
       "seq": 206
+    },
+    "功效": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1053-xukongzi-cold-sweat",
+      "dated": false,
+      "seq": 972
+    },
+    "炼制者": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1053-xukongzi-cold-sweat",
+      "dated": false,
+      "seq": 972,
+      "note": "文中仅称恩师当年所赠"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch222-wanglin-jiedan"
+    "plot.xianni-ch222-wanglin-jiedan",
+    "plot.xianni-ch1053-xukongzi-cold-sweat"
   ],
-  "updatedAt": "2026-07-08T13:54:39.532Z"
+  "updatedAt": "2026-08-24T09:35:02.964Z"
 }

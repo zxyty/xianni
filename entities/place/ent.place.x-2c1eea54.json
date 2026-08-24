@@ -2,13 +2,18 @@
   "id": "ent.place.x-2c1eea54",
   "type": "place",
   "name": "仙帝洞府第六层",
-  "aliases": [],
+  "aliases": [
+    "洞府第六层",
+    "第六层大殿"
+  ],
   "summary": "王林两月后抵达的层级，边缘处为阁楼环绕的独立花园，有假山与蜿蜒小河；层内有两处储物空间传送点，其一藏有仙界未崩溃时的仙丹妙药。",
   "attributes": {
     "类型": "洞府层级",
     "上级区域": "仙帝洞府",
     "特产": "只对灵体有效的剩余丹药",
-    "方位": "洞府第六层"
+    "方位": "洞府第六层",
+    "所属势力": "青霖",
+    "守护": "全层禁制（胡娟操控）"
   },
   "observations": {
     "类型": [
@@ -43,6 +48,20 @@
         "docId": "plot.xianni-1052-yunxian-daolv-identity",
         "seq": 972
       }
+    ],
+    "所属势力": [
+      {
+        "value": "青霖",
+        "docId": "plot.xianni-ch1053-xukongzi-cold-sweat",
+        "seq": 972
+      }
+    ],
+    "守护": [
+      {
+        "value": "全层禁制（胡娟操控）",
+        "docId": "plot.xianni-ch1053-xukongzi-cold-sweat",
+        "seq": 972
+      }
     ]
   },
   "firstSeq": 967,
@@ -70,13 +89,26 @@
       "docId": "plot.xianni-1052-yunxian-daolv-identity",
       "dated": false,
       "seq": 972
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1053-xukongzi-cold-sweat",
+      "dated": false,
+      "seq": 972
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1053-xukongzi-cold-sweat",
+      "dated": false,
+      "seq": 972
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "lore.xianni-ch1050-ci-kong-nie-nie-level-treasures-tianren-wushuai",
-    "plot.xianni-1052-yunxian-daolv-identity"
+    "plot.xianni-1052-yunxian-daolv-identity",
+    "plot.xianni-ch1053-xukongzi-cold-sweat"
   ],
-  "updatedAt": "2026-08-24T09:32:11.438Z"
+  "updatedAt": "2026-08-24T09:35:02.967Z"
 }

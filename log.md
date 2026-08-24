@@ -460,3 +460,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T09:27:26.881Z** `ingest` lore.xianni-ch1050-ci-kong-nie-nie-level-treasures-tianren-wushuai — 第1050章 次空涅与涅级至宝：碎涅法宝等级与天人五衰设定 · kind=lore asOf=2026-08-24 entities=37 relations=66 src=00967-00971.p4.md
 - **2026-08-24T09:29:55.756Z** `ingest` plot.xianni-1051-zhou-yi-reappears — 《仙逆》第1051章 周佚再现——仙帝洞府第六层丹房外的禁制疑云 · kind=plot asOf=2026-08-24 entities=20 relations=32 src=00967-00971.p5.md
 - **2026-08-24T09:32:11.770Z** `ingest` plot.xianni-1052-yunxian-daolv-identity — 仙逆 第1052章 云仙道侣的身份——周佚讲述青霜往事，王巍胡娟自陈仙帝青霖旧部 · kind=plot asOf=2026-08-24 entities=21 relations=36 src=00972-00976.p1.md
+- **2026-08-24T09:35:03.313Z** `ingest` plot.xianni-ch1053-xukongzi-cold-sweat — 第1053章 虚空子的冷汗：古妖贝罗议和、青丹相赠与仙帝洞府第六层的等待 · kind=plot asOf=2026-08-24 entities=27 relations=51 src=00972-00976.p2.md
