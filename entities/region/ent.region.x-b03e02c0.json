@@ -3,12 +3,14 @@
   "type": "region",
   "name": "九阶星域",
   "aliases": [
-    "至高九阶星域"
+    "至高九阶星域",
+    "Nine-tier Star Region"
   ],
   "summary": "云海星域最高阶星域，几乎从不干涉下阶事情，一万八千年前破天宗之争时罕见出手。",
   "attributes": {
-    "层次": "第九阶",
-    "特点": "几乎不干涉下阶事务"
+    "层次": "第九阶（最高）",
+    "特点": "几乎不干涉下阶事务、修士眼中至高无上且神秘、深处有断裂空间通往神秘星域、曾爆发第一次凶兽之乱",
+    "主宰势力": "神宗、鬼宗、妖宗、破天宗"
   },
   "observations": {
     "层次": [
@@ -16,6 +18,11 @@
         "value": "第九阶",
         "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
         "seq": 1068
+      },
+      {
+        "value": "第九阶（最高）",
+        "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+        "seq": 1082
       }
     ],
     "特点": [
@@ -23,6 +30,43 @@
         "value": "几乎不干涉下阶事务",
         "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
         "seq": 1068
+      },
+      {
+        "value": "修士眼中至高无上且神秘",
+        "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+        "seq": 1082
+      },
+      {
+        "value": "深处有断裂空间通往神秘星域",
+        "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+        "seq": 1082
+      },
+      {
+        "value": "曾爆发第一次凶兽之乱",
+        "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+        "seq": 1082
+      }
+    ],
+    "主宰势力": [
+      {
+        "value": "神宗",
+        "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+        "seq": 1082
+      },
+      {
+        "value": "鬼宗",
+        "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+        "seq": 1082
+      },
+      {
+        "value": "妖宗",
+        "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+        "seq": 1082
+      },
+      {
+        "value": "破天宗",
+        "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+        "seq": 1082
       }
     ]
   },
@@ -30,21 +74,28 @@
   "attrProvenance": {
     "层次": {
       "asOf": null,
-      "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
+      "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
       "dated": false,
-      "seq": 1068
+      "seq": 1082
     },
     "特点": {
       "asOf": null,
       "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
       "dated": false,
       "seq": 1068
+    },
+    "主宰势力": {
+      "asOf": null,
+      "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+      "dated": false,
+      "seq": 1082
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong"
+    "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
+    "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair"
   ],
-  "updatedAt": "2026-08-24T18:57:10.873Z"
+  "updatedAt": "2026-08-24T20:15:08.158Z"
 }

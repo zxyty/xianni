@@ -1,68 +1,73 @@
 {
-  "id": "ent.place.x-2b41d6e9",
-  "type": "place",
-  "name": "蓬莱大陆",
+  "id": "ent.event.x-12f7a678",
+  "type": "event",
+  "name": "蓬莱坊市开启在即",
   "aliases": [
-    "Penglai Continent",
-    "蓬莱",
-    "蓬莱仙境",
-    "Penglai"
+    "三十年一度蓬莱坊市"
   ],
-  "summary": "李倩梅邀王林同往之地，近日将举办三十年一次的坊市与拍卖。",
+  "summary": "蓬莱大陆三十年一度、持续三个月的坊市即将开启，因先前丹方与玉简之事，本次吸引众多六阶乃至七、八阶修士临近。",
   "attributes": {
-    "特产": "三十年一次的坊市与拍卖、蓬莱坊市、蓬莱乱法、贵物拍卖",
-    "所属势力": "宝玉宗",
-    "类型": "半个修真星",
-    "规模": "莫罗大陆的数十倍",
-    "上级区域": "五阶星域"
+    "章节": "第1168章",
+    "时长": "三个月",
+    "地点": "蓬莱大陆",
+    "参与方": "宝玉宗、各阶星域来客、王林（吕子浩）、李倩梅",
+    "起因": "三十年一度周期；先前丹方与玉简之事引发关注",
+    "影响": "王林借此寻求星图"
   },
   "observations": {
-    "特产": [
+    "章节": [
       {
-        "value": "三十年一次的坊市与拍卖",
-        "docId": "plot.xianni-1167-hui-mou-yi-xiao-lun-dao",
-        "seq": 1082
-      },
-      {
-        "value": "蓬莱坊市",
-        "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
-        "seq": 1082
-      },
-      {
-        "value": "蓬莱乱法",
-        "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
-        "seq": 1082
-      },
-      {
-        "value": "贵物拍卖",
+        "value": "第1168章",
         "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
         "seq": 1082
       }
     ],
-    "所属势力": [
+    "时长": [
+      {
+        "value": "三个月",
+        "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+        "seq": 1082
+      }
+    ],
+    "地点": [
+      {
+        "value": "蓬莱大陆",
+        "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+        "seq": 1082
+      }
+    ],
+    "参与方": [
       {
         "value": "宝玉宗",
         "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
         "seq": 1082
-      }
-    ],
-    "类型": [
+      },
       {
-        "value": "半个修真星",
+        "value": "各阶星域来客",
+        "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+        "seq": 1082
+      },
+      {
+        "value": "王林（吕子浩）",
+        "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+        "seq": 1082
+      },
+      {
+        "value": "李倩梅",
         "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
         "seq": 1082
       }
     ],
-    "规模": [
+    "起因": [
       {
-        "value": "莫罗大陆的数十倍",
+        "value": "三十年一度周期；先前丹方与玉简之事引发关注",
         "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
         "seq": 1082
       }
     ],
-    "上级区域": [
+    "影响": [
       {
-        "value": "五阶星域",
+        "value": "王林借此寻求星图",
         "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
         "seq": 1082
       }
@@ -70,31 +75,37 @@
   },
   "firstSeq": 1082,
   "attrProvenance": {
-    "特产": {
-      "asOf": null,
-      "docId": "plot.xianni-1167-hui-mou-yi-xiao-lun-dao",
-      "dated": false,
-      "seq": 1082
-    },
-    "所属势力": {
+    "章节": {
       "asOf": null,
       "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
       "dated": false,
       "seq": 1082
     },
-    "类型": {
+    "时长": {
       "asOf": null,
       "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
       "dated": false,
       "seq": 1082
     },
-    "规模": {
+    "地点": {
       "asOf": null,
       "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
       "dated": false,
       "seq": 1082
     },
-    "上级区域": {
+    "参与方": {
+      "asOf": null,
+      "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+      "dated": false,
+      "seq": 1082
+    },
+    "起因": {
+      "asOf": null,
+      "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+      "dated": false,
+      "seq": 1082
+    },
+    "影响": {
       "asOf": null,
       "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
       "dated": false,
@@ -104,8 +115,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1167-hui-mou-yi-xiao-lun-dao",
     "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair"
   ],
-  "updatedAt": "2026-08-24T20:15:08.154Z"
+  "updatedAt": "2026-08-24T20:15:08.168Z"
 }

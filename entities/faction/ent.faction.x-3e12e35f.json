@@ -1,35 +1,28 @@
 {
-  "id": "ent.faction.x-24a3eb24",
+  "id": "ent.faction.x-3e12e35f",
   "type": "faction",
-  "name": "九阶神宗",
+  "name": "鬼宗",
   "aliases": [
-    "神宗",
-    "九阶神宗势力",
-    "至高无上的九阶神宗",
-    "Shen Zong"
+    "Gui Zong",
+    "九阶鬼宗"
   ],
-  "summary": "紫衣老者临死点出的势力，役灵印出自该宗。",
+  "summary": "九阶星域最神秘的宗派，擅长摄魂之术，由神宗提拔为九阶；两万年前曾将半个修真星赐予宝玉宗先祖。",
   "attributes": {
-    "等级": "九阶宗派",
-    "理念": "未雨绸缪，为第二次兽乱做准备",
+    "等级": "九阶",
+    "理念": "摄魂之术见长",
     "所属界面": "云海九阶星域"
   },
   "observations": {
     "等级": [
       {
         "value": "九阶",
-        "docId": "plot.xianni-ch1107-yu-tian-zheng-thunder-fire-tribulation",
-        "seq": 1024
-      },
-      {
-        "value": "九阶宗派",
-        "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
-        "seq": 1068
+        "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+        "seq": 1082
       }
     ],
     "理念": [
       {
-        "value": "未雨绸缪，为第二次兽乱做准备",
+        "value": "摄魂之术见长",
         "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
         "seq": 1082
       }
@@ -42,13 +35,13 @@
       }
     ]
   },
-  "firstSeq": 1024,
+  "firstSeq": 1082,
   "attrProvenance": {
     "等级": {
       "asOf": null,
-      "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
+      "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
       "dated": false,
-      "seq": 1068
+      "seq": 1082
     },
     "理念": {
       "asOf": null,
@@ -66,9 +59,6 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1107-yu-tian-zheng-thunder-fire-tribulation",
-    "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
-    "plot.xianni-ch1165-lu-yuncong-bi-bu-liao",
     "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair"
   ],
   "updatedAt": "2026-08-24T20:15:08.161Z"

@@ -1,68 +1,64 @@
 {
-  "id": "ent.place.x-2b41d6e9",
-  "type": "place",
-  "name": "蓬莱大陆",
+  "id": "ent.event.x-8825cbd0",
+  "type": "event",
+  "name": "神宗门人驻守断裂空间并独立为妖宗",
   "aliases": [
-    "Penglai Continent",
-    "蓬莱",
-    "蓬莱仙境",
-    "Penglai"
+    "妖宗独立",
+    "妖宗由来"
   ],
-  "summary": "李倩梅邀王林同往之地，近日将举办三十年一次的坊市与拍卖。",
+  "summary": "凶兽之乱平定后，神宗一部分门人驻扎九阶星域深处断裂空间处，长达数万年厮杀不断；这批昔日神宗弟子逐渐独立，自称妖宗，不再听神宗号令但仍守原处。",
   "attributes": {
-    "特产": "三十年一次的坊市与拍卖、蓬莱坊市、蓬莱乱法、贵物拍卖",
-    "所属势力": "宝玉宗",
-    "类型": "半个修真星",
-    "规模": "莫罗大陆的数十倍",
-    "上级区域": "五阶星域"
+    "章节": "第1168章（李倩梅追述）",
+    "世内时序": "第一次凶兽之乱后，历时数万年至今",
+    "地点": "九阶星域最深处",
+    "参与方": "神宗留守门人（后称妖宗）、自神秘星域侵入的凶兽",
+    "结果": "妖宗成形并独立，仍履行防守之职",
+    "影响": "九阶星域格局由一宗变多宗"
   },
   "observations": {
-    "特产": [
+    "章节": [
       {
-        "value": "三十年一次的坊市与拍卖",
-        "docId": "plot.xianni-1167-hui-mou-yi-xiao-lun-dao",
+        "value": "第1168章（李倩梅追述）",
+        "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+        "seq": 1082
+      }
+    ],
+    "世内时序": [
+      {
+        "value": "第一次凶兽之乱后，历时数万年至今",
+        "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+        "seq": 1082
+      }
+    ],
+    "地点": [
+      {
+        "value": "九阶星域最深处",
+        "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+        "seq": 1082
+      }
+    ],
+    "参与方": [
+      {
+        "value": "神宗留守门人（后称妖宗）",
+        "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
         "seq": 1082
       },
       {
-        "value": "蓬莱坊市",
-        "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
-        "seq": 1082
-      },
-      {
-        "value": "蓬莱乱法",
-        "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
-        "seq": 1082
-      },
-      {
-        "value": "贵物拍卖",
+        "value": "自神秘星域侵入的凶兽",
         "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
         "seq": 1082
       }
     ],
-    "所属势力": [
+    "结果": [
       {
-        "value": "宝玉宗",
+        "value": "妖宗成形并独立，仍履行防守之职",
         "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
         "seq": 1082
       }
     ],
-    "类型": [
+    "影响": [
       {
-        "value": "半个修真星",
-        "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
-        "seq": 1082
-      }
-    ],
-    "规模": [
-      {
-        "value": "莫罗大陆的数十倍",
-        "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
-        "seq": 1082
-      }
-    ],
-    "上级区域": [
-      {
-        "value": "五阶星域",
+        "value": "九阶星域格局由一宗变多宗",
         "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
         "seq": 1082
       }
@@ -70,31 +66,37 @@
   },
   "firstSeq": 1082,
   "attrProvenance": {
-    "特产": {
-      "asOf": null,
-      "docId": "plot.xianni-1167-hui-mou-yi-xiao-lun-dao",
-      "dated": false,
-      "seq": 1082
-    },
-    "所属势力": {
+    "章节": {
       "asOf": null,
       "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
       "dated": false,
       "seq": 1082
     },
-    "类型": {
+    "世内时序": {
       "asOf": null,
       "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
       "dated": false,
       "seq": 1082
     },
-    "规模": {
+    "地点": {
       "asOf": null,
       "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
       "dated": false,
       "seq": 1082
     },
-    "上级区域": {
+    "参与方": {
+      "asOf": null,
+      "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+      "dated": false,
+      "seq": 1082
+    },
+    "结果": {
+      "asOf": null,
+      "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+      "dated": false,
+      "seq": 1082
+    },
+    "影响": {
       "asOf": null,
       "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
       "dated": false,
@@ -104,8 +106,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1167-hui-mou-yi-xiao-lun-dao",
     "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair"
   ],
-  "updatedAt": "2026-08-24T20:15:08.154Z"
+  "updatedAt": "2026-08-24T20:15:08.166Z"
 }
