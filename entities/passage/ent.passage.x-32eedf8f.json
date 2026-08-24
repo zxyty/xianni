@@ -11,14 +11,17 @@
     "平台漩涡",
     "平台上的漩涡",
     "通往仙界的漩涡",
-    "仙界碎片漩涡"
+    "仙界碎片漩涡",
+    "深处漩涡",
+    "禁地漩涡"
   ],
   "summary": "锥形石块旋涡状攀升的终点巨型漩涡，为进入第一关的通道；冲入后依次序随机落入五行之地某一环境。",
   "attributes": {
-    "类型": "闯关传送漩涡、空间漩涡通道、空间通道、仙界异象/节点",
+    "类型": "闯关传送漩涡、空间漩涡通道、空间通道、仙界异象/节点、封印之地/漩涡",
     "两端": "石块虚无空间、五行之地/第一关、第一关/第二关、平台 ↔ 仙界碎片、漩涡平台 ↔ 仙界碎片",
     "可通行境界": "结丹期以上（需能自保）、需冲入、持传送玉简者可指定目的碎片、元婴期修士多不敢进入",
-    "稳定性": "降落地点随机"
+    "稳定性": "降落地点随机",
+    "守护": "滔天煞气与血海"
   },
   "observations": {
     "类型": [
@@ -41,6 +44,11 @@
         "value": "仙界异象/节点",
         "docId": "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
         "seq": 285
+      },
+      {
+        "value": "封印之地/漩涡",
+        "docId": "plot.xianni-1024-sanmo-opens-zangxian-pool",
+        "seq": 945
       }
     ],
     "两端": [
@@ -101,6 +109,13 @@
         "seq": 285,
         "note": "王林数次出入才落至西部"
       }
+    ],
+    "守护": [
+      {
+        "value": "滔天煞气与血海",
+        "docId": "plot.xianni-1024-sanmo-opens-zangxian-pool",
+        "seq": 945
+      }
     ]
   },
   "firstSeq": 155,
@@ -129,6 +144,12 @@
       "dated": false,
       "seq": 285,
       "note": "王林数次出入才落至西部"
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-1024-sanmo-opens-zangxian-pool",
+      "dated": false,
+      "seq": 945
     }
   },
   "contested": false,
@@ -136,7 +157,8 @@
   "docs": [
     "plot.xianni-ch155-157-tuoli-duiwu-quisui",
     "plot.xianni-ch176-duoqu-fengqun",
-    "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal"
+    "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+    "plot.xianni-1024-sanmo-opens-zangxian-pool"
   ],
-  "updatedAt": "2026-08-02T15:12:09.139Z"
+  "updatedAt": "2026-08-24T07:09:00.438Z"
 }

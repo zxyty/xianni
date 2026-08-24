@@ -1,53 +1,52 @@
 {
-  "id": "ent.person.x-27d5b864",
+  "id": "ent.person.x-3a8371db",
   "type": "person",
-  "name": "孙姓长老",
+  "name": "粉红女子",
   "aliases": [
-    "拥有星痕貂的孙姓长老"
+    "疑似昆虚圣女的粉红女子"
   ],
-  "summary": "出瓶者之一，拥有星痕貂。",
+  "summary": "村姑美妇四名女弟子之一，是四人中唯一未如其余三人般毫无挣扎之力者。",
   "attributes": {
-    "身份": "长老",
-    "性格": "惊恐"
+    "外貌": "粉红衣女子",
+    "身份": "昆虚圣女"
   },
   "observations": {
-    "身份": [
+    "外貌": [
       {
-        "value": "长老",
+        "value": "粉红衣女子",
         "docId": "plot.xianni-1024-sanmo-opens-zangxian-pool",
         "seq": 945
       }
     ],
-    "性格": [
+    "身份": [
       {
-        "value": "惊恐",
+        "value": "昆虚圣女",
         "docId": "plot.xianni-1024-sanmo-opens-zangxian-pool",
         "seq": 945,
-        "note": "将沉入漩涡时"
+        "note": "文中为‘疑似’，未确证"
       }
     ]
   },
   "firstSeq": 945,
   "attrProvenance": {
-    "身份": {
+    "外貌": {
       "asOf": null,
       "docId": "plot.xianni-1024-sanmo-opens-zangxian-pool",
       "dated": false,
       "seq": 945
     },
-    "性格": {
+    "身份": {
       "asOf": null,
       "docId": "plot.xianni-1024-sanmo-opens-zangxian-pool",
       "dated": false,
       "seq": 945,
-      "note": "将沉入漩涡时"
+      "note": "文中为‘疑似’，未确证"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1023-po-ping-er-chu",
     "plot.xianni-1024-sanmo-opens-zangxian-pool"
   ],
-  "updatedAt": "2026-08-24T07:09:00.431Z"
+  "updatedAt": "2026-08-24T07:09:00.405Z"
 }

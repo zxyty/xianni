@@ -439,3 +439,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T06:37:32.871Z** `ingest` plot.xianni-ch1021-zhuque-awakening — 仙逆 第1021章 朱雀觉醒：王林吞火海、眉心朱雀印记幻化本灵 · kind=plot asOf=2026-08-24 entities=12 relations=17 src=00945-00948.p1.md
 - **2026-08-24T06:51:17.013Z** `ingest` plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm — 第1022章 溃！——朱雀之音贯穿瓶中九十九界，虚空子起杀心 · kind=plot asOf=2026-08-24 entities=57 relations=98 src=00945-00948.p2.md
 - **2026-08-24T06:54:16.964Z** `ingest` plot.xianni-ch1023-po-ping-er-chu — 第1023章 破瓶而出：朱雀觉醒后的火海炸瓶，众人重回仙帝洞府遇散魔残刀 · kind=plot asOf=2026-08-24 entities=28 relations=30 src=00945-00948.p3.md
+- **2026-08-24T07:09:00.697Z** `ingest` plot.xianni-1024-sanmo-opens-zangxian-pool — 第1024章 葬仙中的她！——散魔以符族圣器开葬仙池 · kind=plot asOf=2026-08-24 entities=40 relations=67 src=00945-00948.p4.md

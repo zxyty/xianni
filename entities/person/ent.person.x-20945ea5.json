@@ -11,8 +11,9 @@
   "summary": "到场的大神通修士之一，唯一女性，衣着寻常如凡人村姑却气息出尘，身后跟随四名绝色女子。",
   "attributes": {
     "性别": "女",
-    "外貌": "略显年轻的中年美妇，衣着寻常如凡人村姑",
-    "标志特征": "一股出尘气息"
+    "外貌": "村姑打扮的美妇",
+    "标志特征": "一股出尘气息",
+    "身份": "四名女弟子的带队者"
   },
   "observations": {
     "性别": [
@@ -27,6 +28,11 @@
         "value": "略显年轻的中年美妇，衣着寻常如凡人村姑",
         "docId": "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star",
         "seq": 890
+      },
+      {
+        "value": "村姑打扮的美妇",
+        "docId": "plot.xianni-1024-sanmo-opens-zangxian-pool",
+        "seq": 945
       }
     ],
     "标志特征": [
@@ -34,6 +40,13 @@
         "value": "一股出尘气息",
         "docId": "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star",
         "seq": 890
+      }
+    ],
+    "身份": [
+      {
+        "value": "四名女弟子的带队者",
+        "docId": "plot.xianni-1024-sanmo-opens-zangxian-pool",
+        "seq": 945
       }
     ]
   },
@@ -47,22 +60,29 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star",
+      "docId": "plot.xianni-1024-sanmo-opens-zangxian-pool",
       "dated": false,
-      "seq": 890
+      "seq": 945
     },
     "标志特征": {
       "asOf": null,
       "docId": "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star",
       "dated": false,
       "seq": 890
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-1024-sanmo-opens-zangxian-pool",
+      "dated": false,
+      "seq": 945
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star",
-    "plot.xianni-ch1023-po-ping-er-chu"
+    "plot.xianni-ch1023-po-ping-er-chu",
+    "plot.xianni-1024-sanmo-opens-zangxian-pool"
   ],
-  "updatedAt": "2026-08-24T06:54:16.622Z"
+  "updatedAt": "2026-08-24T07:09:00.432Z"
 }

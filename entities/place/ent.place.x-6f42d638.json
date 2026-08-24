@@ -1,53 +1,50 @@
 {
-  "id": "ent.person.x-27d5b864",
-  "type": "person",
-  "name": "孙姓长老",
+  "id": "ent.place.x-6f42d638",
+  "type": "place",
+  "name": "妖灵之地深渊",
   "aliases": [
-    "拥有星痕貂的孙姓长老"
+    "妖灵之地的深渊"
   ],
-  "summary": "出瓶者之一，拥有星痕貂。",
+  "summary": "王林一生中曾长久居住之地，同样存在吸力，使其面对葬仙池吸力时并不惊慌。",
   "attributes": {
-    "身份": "长老",
-    "性格": "惊恐"
+    "类型": "深渊",
+    "危险度": "存在强大吸力"
   },
   "observations": {
-    "身份": [
+    "类型": [
       {
-        "value": "长老",
+        "value": "深渊",
         "docId": "plot.xianni-1024-sanmo-opens-zangxian-pool",
         "seq": 945
       }
     ],
-    "性格": [
+    "危险度": [
       {
-        "value": "惊恐",
+        "value": "存在强大吸力",
         "docId": "plot.xianni-1024-sanmo-opens-zangxian-pool",
-        "seq": 945,
-        "note": "将沉入漩涡时"
+        "seq": 945
       }
     ]
   },
   "firstSeq": 945,
   "attrProvenance": {
-    "身份": {
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-1024-sanmo-opens-zangxian-pool",
       "dated": false,
       "seq": 945
     },
-    "性格": {
+    "危险度": {
       "asOf": null,
       "docId": "plot.xianni-1024-sanmo-opens-zangxian-pool",
       "dated": false,
-      "seq": 945,
-      "note": "将沉入漩涡时"
+      "seq": 945
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1023-po-ping-er-chu",
     "plot.xianni-1024-sanmo-opens-zangxian-pool"
   ],
-  "updatedAt": "2026-08-24T07:09:00.431Z"
+  "updatedAt": "2026-08-24T07:09:00.407Z"
 }
