@@ -6,16 +6,18 @@
     "肉山修士",
     "浮风子老怪",
     "浮风",
-    "浮沉子（原文误写）"
+    "浮沉子（原文误写）",
+    "浮风子道友"
   ],
   "summary": "身肥如肉山的老者，乘三十丈黑色舟形法宝出行，姬妾环侍、七名阴虚黑衣人与上百青衣剑修护行；当日在天运星曾对王林言辞刻薄，此番贪图巨魔族坐骑而拦路出手。",
   "attributes": {
     "外貌": "身子极为肥大，仿若一座肉山、肉山身躯、皮包骨、干瘦如骷髅、一头乱发披散",
-    "性格": "刻薄、贪婪、阴沉、谨慎、惜命、内心复杂、忌惮、隐忍、阴狠、多疑、内心挣扎",
+    "性格": "刻薄、贪婪、阴沉、谨慎、惜命、内心复杂、忌惮、隐忍、阴狠、多疑、内心挣扎、谨慎、识时务、原本心怀反意",
     "身份": "率上百青衣修士与七阴虚黑衣人出行的一方强者、王林同行者、被王林下印记者",
-    "标志特征": "身躯可在肉山与皮包骨之间收缩",
-    "小阶段": "净涅",
-    "存殁": "存活"
+    "标志特征": "眉心印记、身躯可在肉山与皮包骨之间收缩、右臂崩溃、身负重伤",
+    "小阶段": "净涅、净涅初期",
+    "存殁": "存活、在世",
+    "阵营": "臣服于王林"
   },
   "observations": {
     "外貌": [
@@ -61,6 +63,11 @@
         "value": "阴狠、多疑、内心挣扎",
         "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
         "seq": 914
+      },
+      {
+        "value": "谨慎、识时务、原本心怀反意",
+        "docId": "plot.xianni-ch989-strongest-moment-riqiu-canye",
+        "seq": 919
       }
     ],
     "身份": [
@@ -92,12 +99,22 @@
         "value": "身躯可在肉山与皮包骨之间收缩",
         "docId": "plot.xianni-ch988-canye-power-wang-lin-defeats-fufengzi",
         "seq": 919
+      },
+      {
+        "value": "右臂崩溃、身负重伤",
+        "docId": "plot.xianni-ch989-strongest-moment-riqiu-canye",
+        "seq": 919
       }
     ],
     "小阶段": [
       {
         "value": "净涅",
         "docId": "plot.xianni-ch988-canye-power-wang-lin-defeats-fufengzi",
+        "seq": 919
+      },
+      {
+        "value": "净涅初期",
+        "docId": "plot.xianni-ch989-strongest-moment-riqiu-canye",
         "seq": 919
       }
     ],
@@ -106,6 +123,19 @@
         "value": "存活",
         "docId": "plot.xianni-ch988-canye-power-wang-lin-defeats-fufengzi",
         "seq": 919
+      },
+      {
+        "value": "在世",
+        "docId": "plot.xianni-ch989-strongest-moment-riqiu-canye",
+        "seq": 919
+      }
+    ],
+    "阵营": [
+      {
+        "value": "臣服于王林",
+        "docId": "plot.xianni-ch989-strongest-moment-riqiu-canye",
+        "seq": 919,
+        "note": "以道基起誓，仅至出妖灵之地换回自由身为止"
       }
     ]
   },
@@ -131,9 +161,10 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch988-canye-power-wang-lin-defeats-fufengzi",
+      "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
       "dated": false,
-      "seq": 919
+      "seq": 914,
+      "note": "王林所下禁制，使其不敢生异心"
     },
     "小阶段": {
       "asOf": null,
@@ -146,6 +177,13 @@
       "docId": "plot.xianni-ch988-canye-power-wang-lin-defeats-fufengzi",
       "dated": false,
       "seq": 919
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch989-strongest-moment-riqiu-canye",
+      "dated": false,
+      "seq": 919,
+      "note": "以道基起誓，仅至出妖灵之地换回自由身为止"
     }
   },
   "contested": false,
@@ -153,7 +191,8 @@
   "docs": [
     "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
     "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
-    "plot.xianni-ch988-canye-power-wang-lin-defeats-fufengzi"
+    "plot.xianni-ch988-canye-power-wang-lin-defeats-fufengzi",
+    "plot.xianni-ch989-strongest-moment-riqiu-canye"
   ],
-  "updatedAt": "2026-08-24T02:13:33.487Z"
+  "updatedAt": "2026-08-24T02:15:54.177Z"
 }

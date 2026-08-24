@@ -3,12 +3,14 @@
   "type": "place",
   "name": "王林的宫殿",
   "aliases": [
-    "水灵星宫殿"
+    "水灵星宫殿",
+    "王林宫殿"
   ],
   "summary": "王林在水灵星上盘膝修行、取出皇冠与炼尸之处，塔山守于殿外。",
   "attributes": {
     "所属界面": "水灵星",
-    "守护": "塔山"
+    "守护": "塔山、王林所布禁制、心禁之术禁制、破灭禁罗盘",
+    "类型": "居所/闭关之地"
   },
   "observations": {
     "所属界面": [
@@ -23,6 +25,28 @@
         "value": "塔山",
         "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
         "seq": 914
+      },
+      {
+        "value": "王林所布禁制",
+        "docId": "plot.xianni-ch989-strongest-moment-riqiu-canye",
+        "seq": 919
+      },
+      {
+        "value": "心禁之术禁制",
+        "docId": "plot.xianni-ch989-strongest-moment-riqiu-canye",
+        "seq": 919
+      },
+      {
+        "value": "破灭禁罗盘",
+        "docId": "plot.xianni-ch989-strongest-moment-riqiu-canye",
+        "seq": 919
+      }
+    ],
+    "类型": [
+      {
+        "value": "居所/闭关之地",
+        "docId": "plot.xianni-ch989-strongest-moment-riqiu-canye",
+        "seq": 919
       }
     ]
   },
@@ -39,12 +63,19 @@
       "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
       "dated": false,
       "seq": 914
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-ch989-strongest-moment-riqiu-canye",
+      "dated": false,
+      "seq": 919
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power"
+    "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
+    "plot.xianni-ch989-strongest-moment-riqiu-canye"
   ],
-  "updatedAt": "2026-08-24T01:25:19.212Z"
+  "updatedAt": "2026-08-24T02:15:54.191Z"
 }
