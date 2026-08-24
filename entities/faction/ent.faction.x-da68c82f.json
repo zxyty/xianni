@@ -7,14 +7,17 @@
     "Qinglong Sacred Sect",
     "青龙一脉",
     "Qing Long Sacred Sect",
-    "青龙圣宗一脉"
+    "青龙圣宗一脉",
+    "四圣宗之青龙",
+    "Qing Long Sheng Zong"
   ],
   "summary": "四圣宗之一，青龙圣皇所属；青龙碎片与青龙印记疑为其物，其中设有「青龙第一序列」之封。",
   "attributes": {
     "阵营": "四圣宗",
-    "镇派之宝": "青龙觉醒传承",
+    "镇派之宝": "太古圣器",
     "理念": "血脉传承",
-    "等级": "四圣宗之一"
+    "等级": "四圣宗之一",
+    "据点": "青雾巨木禁地星域"
   },
   "observations": {
     "阵营": [
@@ -34,6 +37,11 @@
         "value": "青龙觉醒传承",
         "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
         "seq": 945
+      },
+      {
+        "value": "太古圣器",
+        "docId": "plot.xianni-1078-tashan-appears",
+        "seq": 997
       }
     ],
     "理念": [
@@ -54,6 +62,13 @@
         "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
         "seq": 945
       }
+    ],
+    "据点": [
+      {
+        "value": "青雾巨木禁地星域",
+        "docId": "plot.xianni-1078-tashan-appears",
+        "seq": 997
+      }
     ]
   },
   "firstSeq": 910,
@@ -66,9 +81,9 @@
     },
     "镇派之宝": {
       "asOf": null,
-      "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
+      "docId": "plot.xianni-1078-tashan-appears",
       "dated": false,
-      "seq": 945
+      "seq": 997
     },
     "理念": {
       "asOf": null,
@@ -81,6 +96,12 @@
       "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
       "dated": false,
       "seq": 945
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.xianni-1078-tashan-appears",
+      "dated": false,
+      "seq": 997
     }
   },
   "contested": false,
@@ -88,7 +109,8 @@
   "docs": [
     "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
     "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
-    "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history"
+    "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
+    "plot.xianni-1078-tashan-appears"
   ],
-  "updatedAt": "2026-08-24T09:00:07.642Z"
+  "updatedAt": "2026-08-24T12:05:52.636Z"
 }

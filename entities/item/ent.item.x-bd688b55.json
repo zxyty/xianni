@@ -1,0 +1,55 @@
+{
+  "id": "ent.item.x-bd688b55",
+  "type": "item",
+  "name": "灰烟兽皮",
+  "aliases": [
+    "塔山的兽皮"
+  ],
+  "summary": "塔山取出并点燃的兽皮，化作灰烟环绕全身，令其速度再快数倍，事后灰气钻体疗伤，一部分融入王林体内。",
+  "attributes": {
+    "类型": "一次性消耗兽皮",
+    "用途": "爆发提速数倍、疗伤"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "一次性消耗兽皮",
+        "docId": "plot.xianni-1078-tashan-appears",
+        "seq": 997
+      }
+    ],
+    "用途": [
+      {
+        "value": "爆发提速数倍",
+        "docId": "plot.xianni-1078-tashan-appears",
+        "seq": 997
+      },
+      {
+        "value": "疗伤",
+        "docId": "plot.xianni-1078-tashan-appears",
+        "seq": 997
+      }
+    ]
+  },
+  "firstSeq": 997,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-1078-tashan-appears",
+      "dated": false,
+      "seq": 997
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.xianni-1078-tashan-appears",
+      "dated": false,
+      "seq": 997
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.xianni-1078-tashan-appears"
+  ],
+  "updatedAt": "2026-08-24T12:05:52.654Z"
+}
