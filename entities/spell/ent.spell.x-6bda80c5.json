@@ -7,8 +7,10 @@
   ],
   "summary": "王林眉心第三目张开后放出的本源之力，顺红芒成扇形散开，其中一丝力量令金龙心神深处震惊而身形一顿。",
   "attributes": {
-    "类型": "本源威慑/攻击",
-    "威力": "可令金龙心神一顿"
+    "类型": "本源攻击",
+    "威力": "令天运子身躯飞快消散并被迫破封",
+    "出处": "王林眉心第三目",
+    "消耗": "其内本源之力所剩不多"
   },
   "observations": {
     "类型": [
@@ -16,6 +18,11 @@
         "value": "本源威慑/攻击",
         "docId": "plot.xianni-ch938-qingshui-rescue-xuanbao-wangyue-expelled",
         "seq": 870
+      },
+      {
+        "value": "本源攻击",
+        "docId": "plot.xianni-1077-master-disciple-battle",
+        "seq": 997
       }
     ],
     "威力": [
@@ -24,6 +31,26 @@
         "docId": "plot.xianni-ch938-qingshui-rescue-xuanbao-wangyue-expelled",
         "seq": 870,
         "note": "力量太过微弱，不足以真正威胁金龙"
+      },
+      {
+        "value": "令天运子身躯飞快消散并被迫破封",
+        "docId": "plot.xianni-1077-master-disciple-battle",
+        "seq": 997
+      }
+    ],
+    "出处": [
+      {
+        "value": "王林眉心第三目",
+        "docId": "plot.xianni-1077-master-disciple-battle",
+        "seq": 997
+      }
+    ],
+    "消耗": [
+      {
+        "value": "其内本源之力所剩不多",
+        "docId": "plot.xianni-1077-master-disciple-battle",
+        "seq": 997,
+        "note": "第997章"
       }
     ]
   },
@@ -31,23 +58,36 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch938-qingshui-rescue-xuanbao-wangyue-expelled",
+      "docId": "plot.xianni-1077-master-disciple-battle",
       "dated": false,
-      "seq": 870
+      "seq": 997
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-ch938-qingshui-rescue-xuanbao-wangyue-expelled",
+      "docId": "plot.xianni-1077-master-disciple-battle",
       "dated": false,
-      "seq": 870,
-      "note": "力量太过微弱，不足以真正威胁金龙"
+      "seq": 997
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.xianni-1077-master-disciple-battle",
+      "dated": false,
+      "seq": 997
+    },
+    "消耗": {
+      "asOf": null,
+      "docId": "plot.xianni-1077-master-disciple-battle",
+      "dated": false,
+      "seq": 997,
+      "note": "第997章"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch938-qingshui-rescue-xuanbao-wangyue-expelled",
-    "plot.xianni-ch1008-zang-hua-baiyi-nvzi"
+    "plot.xianni-ch1008-zang-hua-baiyi-nvzi",
+    "plot.xianni-1077-master-disciple-battle"
   ],
-  "updatedAt": "2026-08-24T04:30:36.363Z"
+  "updatedAt": "2026-08-24T12:02:57.057Z"
 }

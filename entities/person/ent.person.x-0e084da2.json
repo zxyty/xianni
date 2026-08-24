@@ -8,7 +8,8 @@
   "summary": "星空中前行的昆虚之境修士，抬头即辨出『有人经劫天人第一衰』，神色如常。",
   "attributes": {
     "小阶段": "昆虚之境",
-    "外貌": "老者"
+    "外貌": "老者",
+    "出身地": "昆虚之境"
   },
   "observations": {
     "小阶段": [
@@ -23,6 +24,13 @@
         "value": "老者",
         "docId": "plot.xianni-1067-void-child-first-tribulation-fire-dragon-sacrifice",
         "seq": 987
+      }
+    ],
+    "出身地": [
+      {
+        "value": "昆虚之境",
+        "docId": "plot.xianni-1077-master-disciple-battle",
+        "seq": 997
       }
     ]
   },
@@ -39,12 +47,19 @@
       "docId": "plot.xianni-1067-void-child-first-tribulation-fire-dragon-sacrifice",
       "dated": false,
       "seq": 987
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-1077-master-disciple-battle",
+      "dated": false,
+      "seq": 997
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1067-void-child-first-tribulation-fire-dragon-sacrifice"
+    "plot.xianni-1067-void-child-first-tribulation-fire-dragon-sacrifice",
+    "plot.xianni-1077-master-disciple-battle"
   ],
-  "updatedAt": "2026-08-24T11:13:48.979Z"
+  "updatedAt": "2026-08-24T12:02:57.052Z"
 }

@@ -4,13 +4,15 @@
   "name": "黑白混沌",
   "aliases": [
     "黑白交错的迷雾",
-    "黑白混沌之域"
+    "黑白混沌之域",
+    "天运子的黑白混沌"
   ],
   "summary": "笼罩战场天空与百里之外的黑白混沌迷雾，目光神识不可穿透；百里大地被卷入其中，无头之人亦自其中走出。",
   "attributes": {
-    "类型": "混沌迷雾/异域",
+    "类型": "神通所化空间／战场",
     "方位": "战场上空及百里之外",
-    "危险度": "极高"
+    "危险度": "极高",
+    "守护": "天运子"
   },
   "observations": {
     "类型": [
@@ -18,6 +20,11 @@
         "value": "混沌迷雾/异域",
         "docId": "plot.xianni-1076-juezhan-kaishi-zhuque-shengzong-lailin",
         "seq": 992
+      },
+      {
+        "value": "神通所化空间／战场",
+        "docId": "plot.xianni-1077-master-disciple-battle",
+        "seq": 997
       }
     ],
     "方位": [
@@ -33,15 +40,22 @@
         "docId": "plot.xianni-1076-juezhan-kaishi-zhuque-shengzong-lailin",
         "seq": 992
       }
+    ],
+    "守护": [
+      {
+        "value": "天运子",
+        "docId": "plot.xianni-1077-master-disciple-battle",
+        "seq": 997
+      }
     ]
   },
   "firstSeq": 992,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1076-juezhan-kaishi-zhuque-shengzong-lailin",
+      "docId": "plot.xianni-1077-master-disciple-battle",
       "dated": false,
-      "seq": 992
+      "seq": 997
     },
     "方位": {
       "asOf": null,
@@ -54,12 +68,19 @@
       "docId": "plot.xianni-1076-juezhan-kaishi-zhuque-shengzong-lailin",
       "dated": false,
       "seq": 992
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-1077-master-disciple-battle",
+      "dated": false,
+      "seq": 997
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1076-juezhan-kaishi-zhuque-shengzong-lailin"
+    "plot.xianni-1076-juezhan-kaishi-zhuque-shengzong-lailin",
+    "plot.xianni-1077-master-disciple-battle"
   ],
-  "updatedAt": "2026-08-24T11:55:32.201Z"
+  "updatedAt": "2026-08-24T12:02:57.023Z"
 }
