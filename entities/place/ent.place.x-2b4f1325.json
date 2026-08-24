@@ -6,13 +6,15 @@
     "蓬莱东部",
     "锥形巨石城池",
     "蓬莱坊市",
-    "蓬莱东部坊市"
+    "蓬莱东部坊市",
+    "东部坊市"
   ],
   "summary": "蓬莱大陆东部漂浮半空的锥形巨石群，石面建城，以中央庞大石块为心缓缓旋转，仙音回荡、灵兽穿云，坊市即设于此。",
   "attributes": {
     "方位": "蓬莱大陆东部",
-    "类型": "悬浮石城坊市",
-    "上级区域": "蓬莱大陆"
+    "类型": "坊市",
+    "上级区域": "蓬莱大陆",
+    "所属势力": "宝玉宗"
   },
   "observations": {
     "方位": [
@@ -27,6 +29,11 @@
         "value": "悬浮石城坊市",
         "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
         "seq": 1087
+      },
+      {
+        "value": "坊市",
+        "docId": "plot.xianni-1175-shenzong-menren-mocongdao-peili-yulinyin-weishe",
+        "seq": 1091
       }
     ],
     "上级区域": [
@@ -34,6 +41,13 @@
         "value": "蓬莱大陆",
         "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
         "seq": 1087
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "宝玉宗",
+        "docId": "plot.xianni-1175-shenzong-menren-mocongdao-peili-yulinyin-weishe",
+        "seq": 1091
       }
     ]
   },
@@ -47,22 +61,29 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+      "docId": "plot.xianni-1175-shenzong-menren-mocongdao-peili-yulinyin-weishe",
       "dated": false,
-      "seq": 1087
+      "seq": 1091
     },
     "上级区域": {
       "asOf": null,
       "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
       "dated": false,
       "seq": 1087
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-1175-shenzong-menren-mocongdao-peili-yulinyin-weishe",
+      "dated": false,
+      "seq": 1091
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1169-who-are-you-penglai-fair",
-    "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing"
+    "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
+    "plot.xianni-1175-shenzong-menren-mocongdao-peili-yulinyin-weishe"
   ],
-  "updatedAt": "2026-08-24T21:07:57.176Z"
+  "updatedAt": "2026-08-24T21:10:38.867Z"
 }

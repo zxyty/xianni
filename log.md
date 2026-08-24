@@ -570,3 +570,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T20:57:23.348Z** `ingest` plot.xianni-ch1169-who-are-you-penglai-fair — 第1169章 你是谁！——蓬莱大陆坊市之行与元晶、仙玉之秘 · kind=plot asOf=2026-08-24 entities=80 relations=138 src=01087-01090.md
 - **2026-08-24T20:59:47.840Z** `ingest` plot.xianni-1173-feng-yu-dong-auction-yuanjing-trade — 第1173章 风欲动：王林豪掷仙玉夺星图、换五千元晶，与吴青结仇 · kind=plot asOf=2026-08-24 entities=29 relations=42 src=01091-01094.p1.md
 - **2026-08-24T21:07:57.556Z** `ingest` plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing — 第1174章 你来晚了：王林蓬莱乱石平原初战碎涅吴青 · kind=plot asOf=2026-08-24 entities=53 relations=73 src=01091-01094.p2.md
+- **2026-08-24T21:10:39.165Z** `ingest` plot.xianni-1175-shenzong-menren-mocongdao-peili-yulinyin-weishe — 第1175章 神宗门人：魔丛道赔礼、役灵印威名与苍松子的密约 · kind=plot asOf=2026-08-24 entities=32 relations=40 src=01091-01094.p3.md

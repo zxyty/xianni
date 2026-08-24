@@ -6,14 +6,15 @@
     "神宗",
     "九阶神宗势力",
     "至高无上的九阶神宗",
-    "Shen Zong"
+    "Shen Zong",
+    "九阶星域神宗"
   ],
   "summary": "紫衣老者临死点出的势力，役灵印出自该宗。",
   "attributes": {
-    "等级": "九阶宗派",
+    "等级": "九阶星域宗派",
     "理念": "未雨绸缪，为第二次兽乱做准备",
-    "所属界面": "云海九阶星域",
-    "镇派之宝": "役灵印"
+    "所属界面": "九阶星域",
+    "镇派之宝": "役灵印、役灵印（第一神通）"
   },
   "observations": {
     "等级": [
@@ -26,6 +27,11 @@
         "value": "九阶宗派",
         "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
         "seq": 1068
+      },
+      {
+        "value": "九阶星域宗派",
+        "docId": "plot.xianni-1175-shenzong-menren-mocongdao-peili-yulinyin-weishe",
+        "seq": 1091
       }
     ],
     "理念": [
@@ -40,12 +46,22 @@
         "value": "云海九阶星域",
         "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
         "seq": 1082
+      },
+      {
+        "value": "九阶星域",
+        "docId": "plot.xianni-1175-shenzong-menren-mocongdao-peili-yulinyin-weishe",
+        "seq": 1091
       }
     ],
     "镇派之宝": [
       {
         "value": "役灵印",
         "docId": "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
+        "seq": 1091
+      },
+      {
+        "value": "役灵印（第一神通）",
+        "docId": "plot.xianni-1175-shenzong-menren-mocongdao-peili-yulinyin-weishe",
         "seq": 1091
       }
     ]
@@ -54,9 +70,9 @@
   "attrProvenance": {
     "等级": {
       "asOf": null,
-      "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
+      "docId": "plot.xianni-1175-shenzong-menren-mocongdao-peili-yulinyin-weishe",
       "dated": false,
-      "seq": 1068
+      "seq": 1091
     },
     "理念": {
       "asOf": null,
@@ -66,9 +82,9 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+      "docId": "plot.xianni-1175-shenzong-menren-mocongdao-peili-yulinyin-weishe",
       "dated": false,
-      "seq": 1082
+      "seq": 1091
     },
     "镇派之宝": {
       "asOf": null,
@@ -84,7 +100,8 @@
     "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
     "plot.xianni-ch1165-lu-yuncong-bi-bu-liao",
     "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
-    "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing"
+    "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
+    "plot.xianni-1175-shenzong-menren-mocongdao-peili-yulinyin-weishe"
   ],
-  "updatedAt": "2026-08-24T21:07:57.230Z"
+  "updatedAt": "2026-08-24T21:10:38.849Z"
 }
