@@ -7,7 +7,7 @@
   ],
   "summary": "虚空子、村姑美妇、黑衣人所在之处，殿内有两座雕像可作离开通路，殿外有咆哮逼近。",
   "attributes": {
-    "类型": "殿宇",
+    "类型": "大殿",
     "上级区域": "仙帝洞府",
     "守护": "殿外咆哮之物"
   },
@@ -17,6 +17,11 @@
         "value": "殿宇",
         "docId": "lore.xianni-ch1050-ci-kong-nie-nie-level-treasures-tianren-wushuai",
         "seq": 967
+      },
+      {
+        "value": "大殿",
+        "docId": "plot.xianni-ch1054-forcing-xukongzi",
+        "seq": 972
       }
     ],
     "上级区域": [
@@ -38,9 +43,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "lore.xianni-ch1050-ci-kong-nie-nie-level-treasures-tianren-wushuai",
+      "docId": "plot.xianni-ch1054-forcing-xukongzi",
       "dated": false,
-      "seq": 967
+      "seq": 972
     },
     "上级区域": {
       "asOf": null,
@@ -58,7 +63,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.xianni-ch1050-ci-kong-nie-nie-level-treasures-tianren-wushuai"
+    "lore.xianni-ch1050-ci-kong-nie-nie-level-treasures-tianren-wushuai",
+    "plot.xianni-ch1054-forcing-xukongzi"
   ],
-  "updatedAt": "2026-08-24T09:27:26.564Z"
+  "updatedAt": "2026-08-24T09:37:59.522Z"
 }
