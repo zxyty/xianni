@@ -4,12 +4,13 @@
   "name": "邀请简",
   "aliases": [
     "鬼眼城邀请简",
-    "邀请玉简"
+    "邀请玉简",
+    "拍卖邀请玉简"
   ],
   "summary": "进入鬼眼城的凭证，修士需出示后方可放行入城。",
   "attributes": {
-    "类型": "凭证、凭证玉简",
-    "用途": "进入鬼眼城、入城/参与拍卖的资格证明"
+    "类型": "凭证、凭证玉简、玉简凭证",
+    "用途": "进入鬼眼城、入城/参与拍卖的资格证明、进入蓬莱拍卖会"
   },
   "observations": {
     "类型": [
@@ -22,6 +23,11 @@
         "value": "凭证玉简",
         "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
         "seq": 895
+      },
+      {
+        "value": "玉简凭证",
+        "docId": "plot.xianni-1176-penglai-auction-li-qianmei-farewell",
+        "seq": 1091
       }
     ],
     "用途": [
@@ -34,6 +40,11 @@
         "value": "入城/参与拍卖的资格证明",
         "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
         "seq": 895
+      },
+      {
+        "value": "进入蓬莱拍卖会",
+        "docId": "plot.xianni-1176-penglai-auction-li-qianmei-farewell",
+        "seq": 1091
       }
     ]
   },
@@ -55,7 +66,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo"
+    "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
+    "plot.xianni-1176-penglai-auction-li-qianmei-farewell"
   ],
-  "updatedAt": "2026-08-23T23:30:36.698Z"
+  "updatedAt": "2026-08-24T21:13:07.516Z"
 }

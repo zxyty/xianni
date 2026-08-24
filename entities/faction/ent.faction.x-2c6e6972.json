@@ -12,10 +12,11 @@
   "summary": "五阶星域第一宗，修士众多、大神通老怪不少，占据半个修真星（蓬莱大陆），并主办三十年一度的蓬莱坊市。",
   "attributes": {
     "等级": "五阶星域第一宗",
-    "据点": "蓬莱大陆",
+    "据点": "蓬莱坊市",
     "所属界面": "云海星域五阶星域",
-    "理念": "好名声、崇尚排场（王林评为作秀、附庸风雅）",
-    "镇派之宝": "蓬莱大陆（半个修真星）"
+    "理念": "不得得罪王林",
+    "镇派之宝": "蓬莱大陆（半个修真星）",
+    "掌门": "宝玉宗宗主"
   },
   "observations": {
     "等级": [
@@ -35,6 +36,11 @@
         "value": "蓬莱大陆",
         "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
         "seq": 1087
+      },
+      {
+        "value": "蓬莱坊市",
+        "docId": "plot.xianni-1176-penglai-auction-li-qianmei-farewell",
+        "seq": 1091
       }
     ],
     "所属界面": [
@@ -49,6 +55,12 @@
         "value": "好名声、崇尚排场（王林评为作秀、附庸风雅）",
         "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
         "seq": 1087
+      },
+      {
+        "value": "不得得罪王林",
+        "docId": "plot.xianni-1176-penglai-auction-li-qianmei-farewell",
+        "seq": 1091,
+        "note": "宗主本章新下之令"
       }
     ],
     "镇派之宝": [
@@ -56,6 +68,13 @@
         "value": "蓬莱大陆（半个修真星）",
         "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
         "seq": 1087
+      }
+    ],
+    "掌门": [
+      {
+        "value": "宝玉宗宗主",
+        "docId": "plot.xianni-1176-penglai-auction-li-qianmei-farewell",
+        "seq": 1091
       }
     ]
   },
@@ -69,9 +88,9 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+      "docId": "plot.xianni-1176-penglai-auction-li-qianmei-farewell",
       "dated": false,
-      "seq": 1087
+      "seq": 1091
     },
     "所属界面": {
       "asOf": null,
@@ -81,15 +100,22 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
+      "docId": "plot.xianni-1176-penglai-auction-li-qianmei-farewell",
       "dated": false,
-      "seq": 1087
+      "seq": 1091,
+      "note": "宗主本章新下之令"
     },
     "镇派之宝": {
       "asOf": null,
       "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
       "dated": false,
       "seq": 1087
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.xianni-1176-penglai-auction-li-qianmei-farewell",
+      "dated": false,
+      "seq": 1091
     }
   },
   "contested": false,
@@ -99,7 +125,8 @@
     "plot.xianni-ch1169-who-are-you-penglai-fair",
     "plot.xianni-1173-feng-yu-dong-auction-yuanjing-trade",
     "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
-    "plot.xianni-1175-shenzong-menren-mocongdao-peili-yulinyin-weishe"
+    "plot.xianni-1175-shenzong-menren-mocongdao-peili-yulinyin-weishe",
+    "plot.xianni-1176-penglai-auction-li-qianmei-farewell"
   ],
-  "updatedAt": "2026-08-24T21:10:38.851Z"
+  "updatedAt": "2026-08-24T21:13:07.507Z"
 }
