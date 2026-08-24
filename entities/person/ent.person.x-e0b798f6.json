@@ -5,12 +5,15 @@
   "aliases": [
     "云仙道侣二人",
     "云仙",
-    "云仙的道侣"
+    "云仙的道侣",
+    "云仙道侣二位前辈",
+    "两位前辈"
   ],
   "summary": "数万年前的一对道修眷侣，当年占据第三座虚府，未随天运子等人离开而选择留在洞府内修道，知者极少。",
   "attributes": {
-    "身份": "云仙之道侣",
-    "标志特征": "数万年前人物，留守虚府修道"
+    "身份": "王林拜见的两位前辈",
+    "标志特征": "数万年前人物，留守虚府修道",
+    "称号": "云仙道侣"
   },
   "observations": {
     "身份": [
@@ -28,6 +31,11 @@
         "value": "云仙之道侣",
         "docId": "plot.xianni-1012-immortal-mansion-opens",
         "seq": 939
+      },
+      {
+        "value": "王林拜见的两位前辈",
+        "docId": "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell",
+        "seq": 1024
       }
     ],
     "标志特征": [
@@ -36,21 +44,34 @@
         "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
         "seq": 576
       }
+    ],
+    "称号": [
+      {
+        "value": "云仙道侣",
+        "docId": "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell",
+        "seq": 1024
+      }
     ]
   },
   "firstSeq": 576,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1012-immortal-mansion-opens",
+      "docId": "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell",
       "dated": false,
-      "seq": 939
+      "seq": 1024
     },
     "标志特征": {
       "asOf": null,
       "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
       "dated": false,
       "seq": 576
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell",
+      "dated": false,
+      "seq": 1024
     }
   },
   "contested": false,
@@ -58,7 +79,8 @@
   "docs": [
     "plot.xianni-ch616-immortal-emperor-qinglin-secret",
     "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang",
-    "plot.xianni-1012-immortal-mansion-opens"
+    "plot.xianni-1012-immortal-mansion-opens",
+    "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell"
   ],
-  "updatedAt": "2026-08-24T05:19:09.271Z"
+  "updatedAt": "2026-08-24T15:42:49.354Z"
 }

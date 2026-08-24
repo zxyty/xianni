@@ -1,46 +1,40 @@
 {
-  "id": "ent.place.x-2b52984d",
+  "id": "ent.place.x-e0ec8805",
   "type": "place",
-  "name": "雨界尊殿",
+  "name": "塔山所居修真星",
   "aliases": [
-    "雨界之尊殿",
-    "尊殿"
+    "朱雀圣宗一颗修真星"
   ],
-  "summary": "青霖夺舍前遗言中提及的所在，与「元神结晶」「青霜之血」并列，用途未明。",
+  "summary": "朱雀圣宗辖下的一颗修真星，塔山数年来在此制作符箓，本章由此启程飞向星空。",
   "attributes": {
-    "类型": "殿宇/成帝之地",
-    "所属界面": "雨之仙界"
+    "所属势力": "朱雀圣宗",
+    "类型": "修真星"
   },
   "observations": {
-    "类型": [
+    "所属势力": [
       {
-        "value": "殿宇（线索地点）",
-        "docId": "plot.xianni-1063-qinglin-duoshe-qian-de-yiju-hua",
-        "seq": 982
-      },
-      {
-        "value": "殿宇/成帝之地",
+        "value": "朱雀圣宗",
         "docId": "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell",
         "seq": 1024
       }
     ],
-    "所属界面": [
+    "类型": [
       {
-        "value": "雨之仙界",
+        "value": "修真星",
         "docId": "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell",
         "seq": 1024
       }
     ]
   },
-  "firstSeq": 982,
+  "firstSeq": 1024,
   "attrProvenance": {
-    "类型": {
+    "所属势力": {
       "asOf": null,
       "docId": "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell",
       "dated": false,
       "seq": 1024
     },
-    "所属界面": {
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell",
       "dated": false,
@@ -50,8 +44,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1063-qinglin-duoshe-qian-de-yiju-hua",
     "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell"
   ],
-  "updatedAt": "2026-08-24T15:42:49.405Z"
+  "updatedAt": "2026-08-24T15:42:49.360Z"
 }

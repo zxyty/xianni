@@ -8,12 +8,13 @@
     "Azure Dragon Sacred Emperor",
     "青龙圣宗圣皇",
     "Qing Long Sheng Huang",
-    "新任青龙圣皇"
+    "新任青龙圣皇",
+    "青龙圣皇前辈"
   ],
   "summary": "留在青光盾气旋神念中的求救者，自称受困于雨之仙界，许诺救者封青龙第一序列、传信者可让四圣宗为其做一件事。",
   "attributes": {
-    "身份": "四圣宗圣皇之一",
-    "称号": "青龙圣皇",
+    "身份": "青龙圣宗（四圣宗）尊者、青龙圣宗圣皇、青龙一脉圣皇、四圣宗圣皇之一、待救者",
+    "称号": "圣皇",
     "存殁": "受困、气息微弱，自称坚持不了太久、失踪、疑被困、待救援、下落不明、失踪待救",
     "阵营": "四圣宗·青龙圣宗",
     "结局": "离奇失踪"
@@ -40,6 +41,12 @@
         "value": "四圣宗圣皇之一",
         "docId": "plot.xianni-ch1108-ancient-immortal-domain-aura",
         "seq": 1024
+      },
+      {
+        "value": "待救者",
+        "docId": "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell",
+        "seq": 1024,
+        "note": "本章仅提及救援目标，未登场"
       }
     ],
     "称号": [
@@ -47,6 +54,11 @@
         "value": "青龙圣皇",
         "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
         "seq": 910
+      },
+      {
+        "value": "圣皇",
+        "docId": "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell",
+        "seq": 1024
       }
     ],
     "存殁": [
@@ -107,15 +119,15 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1108-ancient-immortal-domain-aura",
-      "dated": false,
-      "seq": 1024
-    },
-    "称号": {
-      "asOf": null,
       "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
       "dated": false,
       "seq": 910
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell",
+      "dated": false,
+      "seq": 1024
     },
     "存殁": {
       "asOf": null,
@@ -149,7 +161,8 @@
     "plot.xianni-1096-jingtian-yinmi-limo-baiyi-lundao",
     "plot.xianni-1097-si-sheng-zong-mi-mi-si-fen-zhi-men",
     "plot.xianni-ch1108-ancient-immortal-domain-aura",
-    "plot.xianni-ch1109-zhuque-old-shenghuang-guixu"
+    "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
+    "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell"
   ],
-  "updatedAt": "2026-08-24T15:34:45.599Z"
+  "updatedAt": "2026-08-24T15:42:49.393Z"
 }

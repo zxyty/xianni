@@ -1,46 +1,41 @@
 {
-  "id": "ent.place.x-2b52984d",
-  "type": "place",
-  "name": "雨界尊殿",
+  "id": "ent.person.x-5cb37ba7",
+  "type": "person",
+  "name": "为司徒南驱毒的四圣宗长老",
   "aliases": [
-    "雨界之尊殿",
-    "尊殿"
+    "驱毒长老",
+    "四圣宗长老之一"
   ],
-  "summary": "青霖夺舍前遗言中提及的所在，与「元神结晶」「青霜之血」并列，用途未明。",
+  "summary": "三十五个四圣宗长老之一，这些年来一直为司徒南（断臂所化人影）驱毒。",
   "attributes": {
-    "类型": "殿宇/成帝之地",
-    "所属界面": "雨之仙界"
+    "身份": "四圣宗长老",
+    "标志特征": "长年为司徒南驱毒"
   },
   "observations": {
-    "类型": [
+    "身份": [
       {
-        "value": "殿宇（线索地点）",
-        "docId": "plot.xianni-1063-qinglin-duoshe-qian-de-yiju-hua",
-        "seq": 982
-      },
-      {
-        "value": "殿宇/成帝之地",
+        "value": "四圣宗长老",
         "docId": "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell",
         "seq": 1024
       }
     ],
-    "所属界面": [
+    "标志特征": [
       {
-        "value": "雨之仙界",
+        "value": "长年为司徒南驱毒",
         "docId": "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell",
         "seq": 1024
       }
     ]
   },
-  "firstSeq": 982,
+  "firstSeq": 1024,
   "attrProvenance": {
-    "类型": {
+    "身份": {
       "asOf": null,
       "docId": "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell",
       "dated": false,
       "seq": 1024
     },
-    "所属界面": {
+    "标志特征": {
       "asOf": null,
       "docId": "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell",
       "dated": false,
@@ -50,8 +45,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1063-qinglin-duoshe-qian-de-yiju-hua",
     "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell"
   ],
-  "updatedAt": "2026-08-24T15:42:49.405Z"
+  "updatedAt": "2026-08-24T15:42:49.351Z"
 }
