@@ -4,17 +4,19 @@
   "name": "施某",
   "aliases": [
     "山谷中年男子",
-    "净涅后期中年男子"
+    "净涅后期中年男子",
+    "谎称元力尽失的中年男子"
   ],
   "summary": "被困山谷中心的净涅后期修士，身中千紫虫线毒，元神濒死，四名护主弟子已中毒暴毙；愿以玉简与丹方换一个痛快之死。",
   "attributes": {
     "性别": "男",
     "小阶段": "净涅后期",
-    "身份": "某宗门长辈（宗派未明，有四名弟子）",
+    "身份": "某宗门长辈（宗派未明，有四名弟子）、玉简与涅空丹丹方原持有者",
     "外貌": "面色苍白毫无血色、眉心隐现一条黑线",
     "元神强度": "处于死亡之际",
-    "存殁": "存活",
-    "结局": "章末王林元力临身三寸时突生变化，结果未明"
+    "存殁": "存活、死亡",
+    "结局": "章末王林元力临身三寸时突生变化，结果未明、头颅滚出数丈，尸身血水弥漫迅速溃烂，被王林取走",
+    "死因": "被王林以铁剑横扫斩首，肉身与虚弱元神同灭（第1153章）"
   },
   "observations": {
     "性别": [
@@ -35,6 +37,11 @@
       {
         "value": "某宗门长辈（宗派未明，有四名弟子）",
         "docId": "plot.xianni-ch1152-shan-gu-zhi-nei",
+        "seq": 1068
+      },
+      {
+        "value": "玉简与涅空丹丹方原持有者",
+        "docId": "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan",
         "seq": 1068
       }
     ],
@@ -58,12 +65,29 @@
         "value": "存活",
         "docId": "plot.xianni-ch1152-shan-gu-zhi-nei",
         "seq": 1068
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan",
+        "seq": 1068
       }
     ],
     "结局": [
       {
         "value": "章末王林元力临身三寸时突生变化，结果未明",
         "docId": "plot.xianni-ch1152-shan-gu-zhi-nei",
+        "seq": 1068
+      },
+      {
+        "value": "头颅滚出数丈，尸身血水弥漫迅速溃烂，被王林取走",
+        "docId": "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan",
+        "seq": 1068
+      }
+    ],
+    "死因": [
+      {
+        "value": "被王林以铁剑横扫斩首，肉身与虚弱元神同灭（第1153章）",
+        "docId": "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan",
         "seq": 1068
       }
     ]
@@ -112,12 +136,19 @@
       "docId": "plot.xianni-ch1152-shan-gu-zhi-nei",
       "dated": false,
       "seq": 1068
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan",
+      "dated": false,
+      "seq": 1068
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1152-shan-gu-zhi-nei"
+    "plot.xianni-ch1152-shan-gu-zhi-nei",
+    "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan"
   ],
-  "updatedAt": "2026-08-24T18:51:35.708Z"
+  "updatedAt": "2026-08-24T18:54:13.419Z"
 }

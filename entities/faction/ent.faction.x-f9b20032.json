@@ -4,17 +4,23 @@
   "name": "破天宗",
   "aliases": [
     "八阶星域破天宗",
-    "Po Tian Zong"
+    "Po Tian Zong",
+    "八阶破天宗"
   ],
   "summary": "八阶星域的宗门，其玉简为众势力争夺焦点。",
   "attributes": {
-    "等级": "八阶星域宗门"
+    "等级": "八阶星域宗门、八阶"
   },
   "observations": {
     "等级": [
       {
         "value": "八阶星域宗门",
         "docId": "plot.xianni-ch1150-jingbian-manhuang-dalu-liuxing-shouchao",
+        "seq": 1068
+      },
+      {
+        "value": "八阶",
+        "docId": "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan",
         "seq": 1068
       }
     ]
@@ -31,7 +37,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1150-jingbian-manhuang-dalu-liuxing-shouchao"
+    "plot.xianni-ch1150-jingbian-manhuang-dalu-liuxing-shouchao",
+    "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan"
   ],
-  "updatedAt": "2026-08-24T18:46:05.803Z"
+  "updatedAt": "2026-08-24T18:54:13.427Z"
 }

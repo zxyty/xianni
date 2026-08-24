@@ -5,14 +5,16 @@
   "aliases": [
     "八骷髅",
     "封锁山谷的八个骷髅头",
-    "灰色骷髅"
+    "灰色骷髅",
+    "毒婆子的骷髅头法宝"
   ],
   "summary": "毒婆子以神识操控、以闪电相连封锁山谷的一套阵法法器；失控后崩溃，被王林掐诀封印成拳头大小的灰色骷髅悬于半空。",
   "attributes": {
-    "持有者": "五毒门毒婆子",
+    "持有者": "五毒门毒婆子、王林",
     "能力": "八头以闪电相连结阵封锁山谷",
     "禁制": "被王林掐诀封印，心念一动可解印恢复围困",
-    "外形": "拳头大小的灰色骷髅"
+    "外形": "拳头大小的灰色骷髅、骷髅头",
+    "来历": "五毒门毒婆子所有"
   },
   "observations": {
     "持有者": [
@@ -21,6 +23,12 @@
         "docId": "plot.xianni-ch1152-shan-gu-zhi-nei",
         "seq": 1068,
         "note": "本章后被王林封印，未收走"
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan",
+        "seq": 1068,
+        "note": "夺自毒婆子，本章收走七个"
       }
     ],
     "能力": [
@@ -43,6 +51,18 @@
         "docId": "plot.xianni-ch1152-shan-gu-zhi-nei",
         "seq": 1068,
         "note": "封印后缩小状态"
+      },
+      {
+        "value": "骷髅头",
+        "docId": "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan",
+        "seq": 1068
+      }
+    ],
+    "来历": [
+      {
+        "value": "五毒门毒婆子所有",
+        "docId": "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan",
+        "seq": 1068
       }
     ]
   },
@@ -73,12 +93,19 @@
       "dated": false,
       "seq": 1068,
       "note": "封印后缩小状态"
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan",
+      "dated": false,
+      "seq": 1068
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1152-shan-gu-zhi-nei"
+    "plot.xianni-ch1152-shan-gu-zhi-nei",
+    "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan"
   ],
-  "updatedAt": "2026-08-24T18:51:35.718Z"
+  "updatedAt": "2026-08-24T18:54:13.440Z"
 }
