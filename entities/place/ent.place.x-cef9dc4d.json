@@ -16,15 +16,18 @@
     "回廊内的深坑",
     "深坑底部",
     "地面的深坑",
-    "洞府深坑"
+    "洞府深坑",
+    "深坑之下",
+    "无底深坑"
   ],
   "summary": "进入仙遗之地的巨大深坑，本尊打出上千裂缝后抵此，低头一看便转向他处。",
   "attributes": {
-    "上级区域": "回廊",
-    "类型": "深坑",
-    "方位": "仙帝洞府内",
+    "上级区域": "仙帝洞府",
+    "类型": "洞府禁地/深坑",
+    "方位": "仙帝洞府内、当年葬仙池下方",
     "守护": "坑底不明吸力来源",
-    "危险度": "强吸力"
+    "危险度": "极高（森森寒气、无尽黑暗，神识无法查看）",
+    "特产": "冰剑、冰封尸体、冰封古神头颅"
   },
   "observations": {
     "上级区域": [
@@ -37,6 +40,11 @@
         "value": "回廊",
         "docId": "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang",
         "seq": 618
+      },
+      {
+        "value": "仙帝洞府",
+        "docId": "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu",
+        "seq": 960
       }
     ],
     "类型": [
@@ -69,6 +77,11 @@
         "value": "深坑",
         "docId": "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang",
         "seq": 618
+      },
+      {
+        "value": "洞府禁地/深坑",
+        "docId": "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu",
+        "seq": 960
       }
     ],
     "方位": [
@@ -81,6 +94,11 @@
         "value": "仙帝洞府内",
         "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
         "seq": 953
+      },
+      {
+        "value": "仙帝洞府内、当年葬仙池下方",
+        "docId": "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu",
+        "seq": 960
       }
     ],
     "守护": [
@@ -111,6 +129,28 @@
         "value": "强吸力",
         "docId": "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang",
         "seq": 618
+      },
+      {
+        "value": "极高（森森寒气、无尽黑暗，神识无法查看）",
+        "docId": "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu",
+        "seq": 960
+      }
+    ],
+    "特产": [
+      {
+        "value": "冰剑",
+        "docId": "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu",
+        "seq": 960
+      },
+      {
+        "value": "冰封尸体",
+        "docId": "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu",
+        "seq": 960
+      },
+      {
+        "value": "冰封古神头颅",
+        "docId": "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu",
+        "seq": 960
       }
     ]
   },
@@ -118,21 +158,21 @@
   "attrProvenance": {
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang",
+      "docId": "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu",
       "dated": false,
-      "seq": 618
+      "seq": 960
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang",
+      "docId": "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu",
       "dated": false,
-      "seq": 618
+      "seq": 960
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+      "docId": "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu",
       "dated": false,
-      "seq": 953
+      "seq": 960
     },
     "守护": {
       "asOf": null,
@@ -142,9 +182,15 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang",
+      "docId": "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu",
       "dated": false,
-      "seq": 618
+      "seq": 960
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu",
+      "dated": false,
+      "seq": 960
     }
   },
   "contested": false,
@@ -156,7 +202,8 @@
     "plot.xianni-ch609-613-tangulang-ding-tanlang-chase",
     "plot.xianni-ch614-617-refine-immortal-guard-dujian",
     "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang",
-    "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin"
+    "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+    "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu"
   ],
-  "updatedAt": "2026-08-24T07:48:22.265Z"
+  "updatedAt": "2026-08-24T09:02:35.873Z"
 }

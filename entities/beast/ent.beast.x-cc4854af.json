@@ -10,15 +10,16 @@
     "貂",
     "星痕貂儿",
     "小貂",
-    "Xing Hen Diao"
+    "Xing Hen Diao",
+    "星痕小貂"
   ],
   "summary": "星空奇异之物，通体紫色、眉心第三目内含星光；成年可幻化万物乃至人形，是最好的傀儡神通材料，幼年速度极快、喜食晶石与仙玉，尤爱幼年古神气息。",
   "attributes": {
     "种族": "星痕貂",
     "主人": "王林",
-    "能力": "速度快得难以想象、成年后可幻化世间万物乃至人形、吞噬晶石以成长、对古神之气极为敏感、对古神之气敏感、踏空借力、在强吸力中挣扎前行、对赤红之筋反应灵动亲近、速度极快、感应特殊气息",
-    "外形": "貂",
-    "栖息地": "星空",
+    "能力": "速度快得难以想象、成年后可幻化世间万物乃至人形、吞噬晶石以成长、对古神之气极为敏感、对古神之气敏感、踏空借力、在强吸力中挣扎前行、对赤红之筋反应灵动亲近、速度极快、感应特殊气息、感应古神气息、吸收古神气息可缩减生长期并蜕变",
+    "外形": "一身黑色凌乱毛发、双目灵动、样子极为可爱",
+    "栖息地": "天运星、葬仙池深坑",
     "等级": "尚未达到归墟之幕"
   },
   "observations": {
@@ -56,7 +57,8 @@
       {
         "value": "王林",
         "docId": "plot.xianni-1025-fuzu-shengzu-blood-sea-escape",
-        "seq": 949
+        "seq": 949,
+        "note": "本章主动来投，赖在王林肩上"
       }
     ],
     "能力": [
@@ -104,6 +106,16 @@
         "value": "速度极快、感应特殊气息",
         "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
         "seq": 953
+      },
+      {
+        "value": "感应古神气息",
+        "docId": "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu",
+        "seq": 960
+      },
+      {
+        "value": "吸收古神气息可缩减生长期并蜕变",
+        "docId": "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu",
+        "seq": 960
       }
     ],
     "外形": [
@@ -126,6 +138,11 @@
         "value": "貂",
         "docId": "plot.xianni-1025-fuzu-shengzu-blood-sea-escape",
         "seq": 949
+      },
+      {
+        "value": "一身黑色凌乱毛发、双目灵动、样子极为可爱",
+        "docId": "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu",
+        "seq": 960
       }
     ],
     "栖息地": [
@@ -133,6 +150,12 @@
         "value": "星空",
         "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
         "seq": 472
+      },
+      {
+        "value": "天运星、葬仙池深坑",
+        "docId": "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu",
+        "seq": 960,
+        "note": "王林当年第一次去天运星时曾见过它"
       }
     ],
     "等级": [
@@ -156,7 +179,8 @@
       "asOf": null,
       "docId": "plot.xianni-1025-fuzu-shengzu-blood-sea-escape",
       "dated": false,
-      "seq": 949
+      "seq": 949,
+      "note": "本章主动来投，赖在王林肩上"
     },
     "能力": {
       "asOf": null,
@@ -166,15 +190,16 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-1025-fuzu-shengzu-blood-sea-escape",
+      "docId": "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu",
       "dated": false,
-      "seq": 949
+      "seq": 960
     },
     "栖息地": {
       "asOf": null,
-      "docId": "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
+      "docId": "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu",
       "dated": false,
-      "seq": 472
+      "seq": 960,
+      "note": "王林当年第一次去天运星时曾见过它"
     },
     "等级": {
       "asOf": null,
@@ -194,7 +219,8 @@
     "plot.xianni-ch1023-po-ping-er-chu",
     "plot.xianni-1024-sanmo-opens-zangxian-pool",
     "plot.xianni-1025-fuzu-shengzu-blood-sea-escape",
-    "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin"
+    "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+    "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu"
   ],
-  "updatedAt": "2026-08-24T07:48:22.259Z"
+  "updatedAt": "2026-08-24T09:02:35.872Z"
 }
