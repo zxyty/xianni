@@ -4,19 +4,29 @@
   "name": "黄衣天运子",
   "aliases": [
     "黄衣分身",
-    "天运子黄衣分身"
+    "天运子黄衣分身",
+    "黄衣",
+    "黄衣巨手分身"
   ],
   "summary": "天运子的黄衣分身，是本尊「一指天运」功法的拥有者，可化身巨大手掌。",
   "attributes": {
-    "外貌": "身着黄衣",
+    "外貌": "身着黄衣、黄衣，身躯可化巨大手掌",
     "标志特征": "天运一指、全身化作庞大手掌",
-    "身份": "天运子本尊一指天运功法的拥有者"
+    "身份": "天运子本尊一指天运功法的拥有者",
+    "存殁": "死亡",
+    "死因": "被骄阳的初阳之火焚烧成火海",
+    "结局": "只剩残骸"
   },
   "observations": {
     "外貌": [
       {
         "value": "身着黄衣",
         "docId": "plot.xianni-1073-can-ye-shen-tong-kills-xu-kong-zi",
+        "seq": 992
+      },
+      {
+        "value": "黄衣，身躯可化巨大手掌",
+        "docId": "plot.xianni-ch1074-zhangzun-power-canye-kills-three",
         "seq": 992
       }
     ],
@@ -36,6 +46,27 @@
       {
         "value": "天运子本尊一指天运功法的拥有者",
         "docId": "plot.xianni-1073-can-ye-shen-tong-kills-xu-kong-zi",
+        "seq": 992
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch1074-zhangzun-power-canye-kills-three",
+        "seq": 992
+      }
+    ],
+    "死因": [
+      {
+        "value": "被骄阳的初阳之火焚烧成火海",
+        "docId": "plot.xianni-ch1074-zhangzun-power-canye-kills-three",
+        "seq": 992
+      }
+    ],
+    "结局": [
+      {
+        "value": "只剩残骸",
+        "docId": "plot.xianni-ch1074-zhangzun-power-canye-kills-three",
         "seq": 992
       }
     ]
@@ -59,12 +90,31 @@
       "docId": "plot.xianni-1073-can-ye-shen-tong-kills-xu-kong-zi",
       "dated": false,
       "seq": 992
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1074-zhangzun-power-canye-kills-three",
+      "dated": false,
+      "seq": 992
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1074-zhangzun-power-canye-kills-three",
+      "dated": false,
+      "seq": 992
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1074-zhangzun-power-canye-kills-three",
+      "dated": false,
+      "seq": 992
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1073-can-ye-shen-tong-kills-xu-kong-zi"
+    "plot.xianni-1073-can-ye-shen-tong-kills-xu-kong-zi",
+    "plot.xianni-ch1074-zhangzun-power-canye-kills-three"
   ],
-  "updatedAt": "2026-08-24T11:43:07.622Z"
+  "updatedAt": "2026-08-24T11:45:58.425Z"
 }

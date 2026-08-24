@@ -481,3 +481,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T11:38:49.556Z** `ingest` plot.xianni-1071-zhu-que-sheng-zong-lai-lin — 第1071章 来临：花妃对战古魔塔珈，虚空子肉衰扑杀王林，妖灵之地封印崩溃 · kind=plot asOf=2026-08-24 entities=24 relations=32 src=00987-00991.p5.md
 - **2026-08-24T11:41:08.456Z** `ingest` plot.xianni-1072-strongest-divine-ability-canye — 《仙逆》第1072章 最强神通·残夜——王林海日生残夜对阵天运子分身 · kind=plot asOf=2026-08-24 entities=24 relations=33 src=00992-00996.p1.md
 - **2026-08-24T11:43:07.970Z** `ingest` plot.xianni-1073-can-ye-shen-tong-kills-xu-kong-zi — 第1073章 拼：残夜神通骄阳升空秒杀虚空子，三具天运子分身拼命抗衡 · kind=plot asOf=2026-08-24 entities=19 relations=32 src=00992-00996.p2.md
+- **2026-08-24T11:45:58.780Z** `ingest` plot.xianni-ch1074-zhangzun-power-canye-kills-three — 第1074章 掌尊的力量——王林「残夜」连杀三分身，虚空子命牌碎裂九响钟鸣 · kind=plot asOf=2026-08-24 entities=30 relations=44 src=00992-00996.p3.md

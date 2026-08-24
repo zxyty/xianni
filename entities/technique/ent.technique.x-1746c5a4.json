@@ -4,12 +4,15 @@
   "name": "初之规则",
   "aliases": [
     "初规则",
-    "初之规则之力"
+    "初之规则之力",
+    "初之规則",
+    "天地规则的初始"
   ],
   "summary": "外界星空出现的罕见规则之力，随天空崩溃融入妖灵之地，是「海日生残夜」施展的前提。",
   "attributes": {
-    "效果": "牵引汇聚于施术者，支撑残夜神通",
-    "外显异象": "赤红色火焰、骄阳红芒"
+    "效果": "牵引汇聚于施术者，支撑残夜神通、支撑残夜神通，撕碎万物",
+    "外显异象": "赤红色火焰、骄阳红芒、骄阳冲天、无尽阳光充斥天地",
+    "品阶": "天地一切规则之初始"
   },
   "observations": {
     "效果": [
@@ -17,12 +20,29 @@
         "value": "牵引汇聚于施术者，支撑残夜神通",
         "docId": "plot.xianni-1072-strongest-divine-ability-canye",
         "seq": 992
+      },
+      {
+        "value": "支撑残夜神通，撕碎万物",
+        "docId": "plot.xianni-ch1074-zhangzun-power-canye-kills-three",
+        "seq": 992
       }
     ],
     "外显异象": [
       {
         "value": "赤红色火焰、骄阳红芒",
         "docId": "plot.xianni-1072-strongest-divine-ability-canye",
+        "seq": 992
+      },
+      {
+        "value": "骄阳冲天、无尽阳光充斥天地",
+        "docId": "plot.xianni-ch1074-zhangzun-power-canye-kills-three",
+        "seq": 992
+      }
+    ],
+    "品阶": [
+      {
+        "value": "天地一切规则之初始",
+        "docId": "plot.xianni-ch1074-zhangzun-power-canye-kills-three",
         "seq": 992
       }
     ]
@@ -40,13 +60,20 @@
       "docId": "plot.xianni-1072-strongest-divine-ability-canye",
       "dated": false,
       "seq": 992
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1074-zhangzun-power-canye-kills-three",
+      "dated": false,
+      "seq": 992
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1072-strongest-divine-ability-canye",
-    "plot.xianni-1073-can-ye-shen-tong-kills-xu-kong-zi"
+    "plot.xianni-1073-can-ye-shen-tong-kills-xu-kong-zi",
+    "plot.xianni-ch1074-zhangzun-power-canye-kills-three"
   ],
-  "updatedAt": "2026-08-24T11:43:07.641Z"
+  "updatedAt": "2026-08-24T11:45:58.438Z"
 }
