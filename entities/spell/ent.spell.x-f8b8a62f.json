@@ -4,13 +4,15 @@
   "name": "古神一拳",
   "aliases": [
     "古神之拳",
-    "眉心晶点一拳"
+    "眉心晶点一拳",
+    "逆天一拳"
   ],
   "summary": "王林握拳时眉心传出磅礴之力入手、晶点弥漫的拳法神通，可与剑龙剑气硬撼并令虚空坍塌。",
   "attributes": {
-    "类型": "近身拳道神通",
-    "威力": "拳前天空坍塌，可轰退元神之剑",
-    "出处": "眉心古神之力"
+    "类型": "炼体近战神通",
+    "威力": "一拳崩碎碎涅中期的天运一指",
+    "出处": "眉心古神之力",
+    "适用境界": "古神化身状态"
   },
   "observations": {
     "类型": [
@@ -18,6 +20,11 @@
         "value": "近身拳道神通",
         "docId": "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi",
         "seq": 890
+      },
+      {
+        "value": "炼体近战神通",
+        "docId": "plot.xianni-ch1192-trident-ancient-god-battle",
+        "seq": 1110
       }
     ],
     "威力": [
@@ -25,6 +32,11 @@
         "value": "拳前天空坍塌，可轰退元神之剑",
         "docId": "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi",
         "seq": 890
+      },
+      {
+        "value": "一拳崩碎碎涅中期的天运一指",
+        "docId": "plot.xianni-ch1192-trident-ancient-god-battle",
+        "seq": 1110
       }
     ],
     "出处": [
@@ -33,33 +45,47 @@
         "docId": "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi",
         "seq": 890
       }
+    ],
+    "适用境界": [
+      {
+        "value": "古神化身状态",
+        "docId": "plot.xianni-ch1192-trident-ancient-god-battle",
+        "seq": 1110
+      }
     ]
   },
   "firstSeq": 890,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi",
+      "docId": "plot.xianni-ch1192-trident-ancient-god-battle",
       "dated": false,
-      "seq": 890
+      "seq": 1110
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi",
+      "docId": "plot.xianni-ch1192-trident-ancient-god-battle",
       "dated": false,
-      "seq": 890
+      "seq": 1110
     },
     "出处": {
       "asOf": null,
       "docId": "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi",
       "dated": false,
       "seq": 890
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1192-trident-ancient-god-battle",
+      "dated": false,
+      "seq": 1110
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi"
+    "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi",
+    "plot.xianni-ch1192-trident-ancient-god-battle"
   ],
-  "updatedAt": "2026-08-23T22:44:53.354Z"
+  "updatedAt": "2026-08-24T22:56:45.648Z"
 }

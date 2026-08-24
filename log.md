@@ -587,3 +587,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T22:49:17.521Z** `ingest` plot.xianni-1189-cangsongzi-duobao-po-suiyuejin-fengyin — 《仙逆》第1189章 多宝的苍松子——三件次空涅法宝硬破岁月禁封印 · kind=plot asOf=2026-08-24 entities=19 relations=28 src=01105-01109.p3.md
 - **2026-08-24T22:51:45.015Z** `ingest` plot.xianni-1190-bone-jar-canglongzi-betrayal — 第1190章 骨下之瓶：苍松子诱困赵姓女修、夺取黑骨玉瓶 · kind=plot asOf=2026-08-24 entities=16 relations=23 src=01105-01109.p4.md
 - **2026-08-24T22:54:21.621Z** `ingest` plot.xianni-1191-tianyun-reappears-cangsongzi-vs-qingshan-crone — 第1191章 天运再现：苍松子战青衫老妪三体合一，王林夺玉瓶出裂缝 · kind=plot asOf=2026-08-24 entities=20 relations=24 src=01105-01109.p5.md
+- **2026-08-24T22:56:45.981Z** `ingest` plot.xianni-ch1192-trident-ancient-god-battle — 第1192章 三叉戟：王林化身古神，反杀局困住青衫老妪、力战苍松子 · kind=plot asOf=2026-08-24 entities=19 relations=26 src=01110-01113.p1.md

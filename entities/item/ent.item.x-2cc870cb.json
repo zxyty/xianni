@@ -7,13 +7,15 @@
     "盛血玉瓶",
     "王林的玉瓶",
     "苍松子所夺玉瓶",
-    "那玉瓶"
+    "那玉瓶",
+    "七彩界玉瓶",
+    "苍松子的玉瓶"
   ],
   "summary": "王林当年在仙界无意所得的瓶子，本身无神奇之处，惟能容纳大量液体，结构与储物袋相似；本片段用以盛装巨魔族先祖的鲜血。",
   "attributes": {
-    "类型": "容器",
-    "用途": "容纳大量液体（盛装巨人鲜血与生机）、收纳巨魔族鲜血",
-    "产地": "仙界"
+    "类型": "争夺之宝",
+    "用途": "容纳大量液体（盛装巨人鲜血与生机）、收纳巨魔族鲜血、未明",
+    "产地": "七彩界"
   },
   "observations": {
     "类型": [
@@ -21,6 +23,11 @@
         "value": "容器",
         "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
         "seq": 414
+      },
+      {
+        "value": "争夺之宝",
+        "docId": "plot.xianni-ch1192-trident-ancient-god-battle",
+        "seq": 1110
       }
     ],
     "用途": [
@@ -33,6 +40,12 @@
         "value": "收纳巨魔族鲜血",
         "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
         "seq": 414
+      },
+      {
+        "value": "未明",
+        "docId": "plot.xianni-ch1192-trident-ancient-god-battle",
+        "seq": 1110,
+        "note": "本章未揭示功用"
       }
     ],
     "产地": [
@@ -40,6 +53,11 @@
         "value": "仙界",
         "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
         "seq": 414
+      },
+      {
+        "value": "七彩界",
+        "docId": "plot.xianni-ch1192-trident-ancient-god-battle",
+        "seq": 1110
       }
     ]
   },
@@ -47,9 +65,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+      "docId": "plot.xianni-ch1192-trident-ancient-god-battle",
       "dated": false,
-      "seq": 414
+      "seq": 1110
     },
     "用途": {
       "asOf": null,
@@ -59,16 +77,17 @@
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
+      "docId": "plot.xianni-ch1192-trident-ancient-god-battle",
       "dated": false,
-      "seq": 414
+      "seq": 1110
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch436-cao-yi-dou-shiyin-sect-zhaoguo",
-    "plot.xianni-1191-tianyun-reappears-cangsongzi-vs-qingshan-crone"
+    "plot.xianni-1191-tianyun-reappears-cangsongzi-vs-qingshan-crone",
+    "plot.xianni-ch1192-trident-ancient-god-battle"
   ],
-  "updatedAt": "2026-08-24T22:54:21.330Z"
+  "updatedAt": "2026-08-24T22:56:45.645Z"
 }
