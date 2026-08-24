@@ -5,13 +5,15 @@
   "aliases": [
     "Mo Luo Continent",
     "莫罗",
-    "莫罗大陆宗派驻地"
+    "莫罗大陆宗派驻地",
+    "Muo Luo Continent"
   ],
   "summary": "漂浮于云海星域第五阶的大陆，中心黑塔之光笼罩全陆隔绝星雾；其北部丛林有接引王林的传送阵。",
   "attributes": {
     "上级区域": "云海第五阶",
-    "类型": "漂浮星空的大陆（代表一个宗派）",
-    "守护": "中心黑塔的柔和之光"
+    "类型": "漂浮星空的大陆（代表一个宗派）、大陆",
+    "守护": "中心黑塔的柔和之光",
+    "所属界面": "云海星域"
   },
   "observations": {
     "上级区域": [
@@ -26,12 +28,24 @@
         "value": "漂浮星空的大陆（代表一个宗派）",
         "docId": "plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai",
         "seq": 1054
+      },
+      {
+        "value": "大陆",
+        "docId": "plot.xianni-1138-yu-guiyuanzong-zeling",
+        "seq": 1054
       }
     ],
     "守护": [
       {
         "value": "中心黑塔的柔和之光",
         "docId": "plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai",
+        "seq": 1054
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "云海星域",
+        "docId": "plot.xianni-1138-yu-guiyuanzong-zeling",
         "seq": 1054
       }
     ]
@@ -55,12 +69,19 @@
       "docId": "plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai",
       "dated": false,
       "seq": 1054
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-1138-yu-guiyuanzong-zeling",
+      "dated": false,
+      "seq": 1054
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai"
+    "plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai",
+    "plot.xianni-1138-yu-guiyuanzong-zeling"
   ],
-  "updatedAt": "2026-08-24T17:59:09.562Z"
+  "updatedAt": "2026-08-24T18:01:50.364Z"
 }

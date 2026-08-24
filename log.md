@@ -536,3 +536,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T17:54:11.156Z** `ingest` plot.xianni-ch1135-ancient-god-tuosen-awakens — 第1135章 古神之强：八星古神拓森苏醒，黑衣老人硬撼 · kind=plot asOf=2026-08-24 entities=13 relations=19 src=01049-01053.p5.md
 - **2026-08-24T17:57:06.315Z** `ingest` plot.xianni-1136-wang-lin-avatar-blocks-mieshen-spear-flight — 第1136章 亡命天涯：无极子舍身示警、断剑三击与王林分身阻灭神矛 · kind=plot asOf=2026-08-24 entities=30 relations=39 src=01054-01057.p1.md
 - **2026-08-24T17:59:09.849Z** `ingest` plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai — 第1137章 雪：王林雪中辞别联盟星域，以魂为引传送云海莫罗大陆 · kind=plot asOf=2026-08-24 entities=17 relations=22 src=01054-01057.p2.md
+- **2026-08-24T18:01:50.685Z** `ingest` plot.xianni-1138-yu-guiyuanzong-zeling — 第1138章 雨：归元宗掌门归墟施「泽灵」，临终窥见白发王林 · kind=plot asOf=2026-08-24 entities=25 relations=39 src=01054-01057.p3.md

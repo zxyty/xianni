@@ -4,12 +4,16 @@
   "name": "莫罗大陆北部丛林",
   "aliases": [
     "莫罗大陆北部",
-    "北部丛林空地"
+    "北部丛林空地",
+    "北部丛林",
+    "莫罗北部丛林"
   ],
   "summary": "莫罗大陆北部的丛林，深处百丈空地布有接引传送阵，暴雨雷夜中阵法亮起蓝光。",
   "attributes": {
     "上级区域": "莫罗大陆",
-    "方位": "莫罗大陆北部"
+    "方位": "莫罗大陆北部",
+    "所属界面": "云海星域",
+    "类型": "丛林"
   },
   "observations": {
     "上级区域": [
@@ -23,6 +27,20 @@
       {
         "value": "莫罗大陆北部",
         "docId": "plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai",
+        "seq": 1054
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "云海星域",
+        "docId": "plot.xianni-1138-yu-guiyuanzong-zeling",
+        "seq": 1054
+      }
+    ],
+    "类型": [
+      {
+        "value": "丛林",
+        "docId": "plot.xianni-1138-yu-guiyuanzong-zeling",
         "seq": 1054
       }
     ]
@@ -40,12 +58,25 @@
       "docId": "plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai",
       "dated": false,
       "seq": 1054
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-1138-yu-guiyuanzong-zeling",
+      "dated": false,
+      "seq": 1054
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-1138-yu-guiyuanzong-zeling",
+      "dated": false,
+      "seq": 1054
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai"
+    "plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai",
+    "plot.xianni-1138-yu-guiyuanzong-zeling"
   ],
-  "updatedAt": "2026-08-24T17:59:09.563Z"
+  "updatedAt": "2026-08-24T18:01:50.367Z"
 }
