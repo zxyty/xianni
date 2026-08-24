@@ -9,12 +9,13 @@
     "黄色的结晶",
     "神秘男子所送的结晶",
     "黄晶",
-    "储物袋内的黄色结晶"
+    "储物袋内的黄色结晶",
+    "青霖所赠结晶"
   ],
   "summary": "天运子自眉心取出的黄色结晶，为天运七子封号标志，受封者需闭关数年感受此物。",
   "attributes": {
-    "类型": "结晶",
-    "用途": "标识天运七子身份，需闭关感悟、未明、青霖分神所化晶光的寄身之处、赠予王林、承载青霖分神所化晶光",
+    "类型": "来历不明的结晶",
+    "用途": "标识天运七子身份，需闭关感悟、未明、青霖分神所化晶光的寄身之处、赠予王林、承载青霖分神所化晶光、不明",
     "产地": "得自大殿神秘男子"
   },
   "observations": {
@@ -28,6 +29,11 @@
         "value": "结晶",
         "docId": "plot.xianni-ch1023-po-ping-er-chu",
         "seq": 945
+      },
+      {
+        "value": "来历不明的结晶",
+        "docId": "plot.xianni-ch956-957-yao-xixue-confrontation-kufu",
+        "seq": 956
       }
     ],
     "用途": [
@@ -55,6 +61,12 @@
         "value": "承载青霖分神所化晶光",
         "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
         "seq": 953
+      },
+      {
+        "value": "不明",
+        "docId": "plot.xianni-ch956-957-yao-xixue-confrontation-kufu",
+        "seq": 956,
+        "note": "青霖赠予，目的未知"
       }
     ],
     "产地": [
@@ -74,9 +86,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1023-po-ping-er-chu",
+      "docId": "plot.xianni-ch956-957-yao-xixue-confrontation-kufu",
       "dated": false,
-      "seq": 945
+      "seq": 956
     },
     "用途": {
       "asOf": null,
@@ -96,7 +108,8 @@
   "docs": [
     "lore.xianni-ch472-476-tianyunzi-preaching-three-steps-of-dao",
     "plot.xianni-ch1023-po-ping-er-chu",
-    "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin"
+    "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+    "plot.xianni-ch956-957-yao-xixue-confrontation-kufu"
   ],
-  "updatedAt": "2026-08-24T07:48:22.338Z"
+  "updatedAt": "2026-08-24T08:01:56.724Z"
 }

@@ -13,16 +13,18 @@
     "Immortal Emperor's cave abode",
     "仙帝洞府庭院",
     "仙帝洞府遗迹",
-    "仙帝的洞府"
+    "仙帝的洞府",
+    "仙帝洞府禁制",
+    "Immortal Emperor cave mansion"
   ],
   "summary": "妖灵之地五府中唯一的实府，第一仙帝青霖之府，内有其闭关气息，姚父猜测藏有踏入道境第三步的契机。",
   "attributes": {
     "所属界面": "妖灵之地内",
-    "类型": "仙帝洞府、洞府/秘境、秘境/洞府、仙帝洞府/秘境、洞府／秘境、上古仙帝洞府、洞府/遗迹",
-    "守护": "须四块青霖仙令同时开启四虚府大门方可进入、桥上魔雾中人、散魔残刀、散魔封印、遍布的禁制、禁制之术（困攻一体）",
+    "类型": "仙帝洞府、洞府/秘境、秘境/洞府、仙帝洞府/秘境、洞府／秘境、上古仙帝洞府、洞府/遗迹、洞府／禁制之地",
+    "守护": "须四块青霖仙令同时开启四虚府大门方可进入、桥上魔雾中人、散魔残刀、散魔封印、遍布的禁制、禁制之术（困攻一体）、层层禁制",
     "所属势力": "仙帝青霖",
     "规模": "多层，第一层为瓶中界",
-    "危险度": "凶险之处",
+    "危险度": "极高——禁制若被全部触发，双方皆麻烦",
     "特产": "木桥、小河与河中狰狞之兽、阁楼、翠竹"
   },
   "observations": {
@@ -68,6 +70,11 @@
         "value": "洞府/遗迹",
         "docId": "plot.xianni-ch1026-qinglin-you-lied-to-me",
         "seq": 949
+      },
+      {
+        "value": "洞府／禁制之地",
+        "docId": "plot.xianni-ch956-957-yao-xixue-confrontation-kufu",
+        "seq": 956
       }
     ],
     "守护": [
@@ -100,6 +107,11 @@
         "value": "禁制之术（困攻一体）",
         "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
         "seq": 953
+      },
+      {
+        "value": "层层禁制",
+        "docId": "plot.xianni-ch956-957-yao-xixue-confrontation-kufu",
+        "seq": 956
       }
     ],
     "所属势力": [
@@ -141,6 +153,11 @@
         "value": "凶险之处",
         "docId": "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
         "seq": 949
+      },
+      {
+        "value": "极高——禁制若被全部触发，双方皆麻烦",
+        "docId": "plot.xianni-ch956-957-yao-xixue-confrontation-kufu",
+        "seq": 956
       }
     ],
     "特产": [
@@ -200,9 +217,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
+      "docId": "plot.xianni-ch956-957-yao-xixue-confrontation-kufu",
       "dated": false,
-      "seq": 949
+      "seq": 956
     },
     "特产": {
       "asOf": null,
@@ -221,7 +238,8 @@
     "plot.xianni-ch1023-po-ping-er-chu",
     "plot.xianni-ch1026-qinglin-you-lied-to-me",
     "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
-    "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin"
+    "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+    "plot.xianni-ch956-957-yao-xixue-confrontation-kufu"
   ],
-  "updatedAt": "2026-08-24T07:48:22.321Z"
+  "updatedAt": "2026-08-24T08:01:56.769Z"
 }
