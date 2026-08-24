@@ -4,14 +4,17 @@
   "name": "归元宗",
   "aliases": [
     "Gui Yuan Zong",
-    "归元"
+    "归元",
+    "Gui Yuan Sect",
+    "莫罗大陆归元宗"
   ],
   "summary": "云海星域主宗麾下位于莫罗大陆东部的分宗，数千年来分宗大比皆居末位，拥有传承神通「泽灵」，本章掌门归墟。",
   "attributes": {
-    "据点": "莫罗大陆东部环形山脉盆地及其上方悬空道观",
-    "所属界面": "云海星域·莫罗大陆",
+    "据点": "莫罗大陆东部环形山脉盆地及其上方悬空道观、莫罗东部环形山脉盆地内的归元宗山门",
+    "所属界面": "云海星域·莫罗大陆、云海星域 · 莫罗大陆",
     "镇派之宝": "五阶紫目蟒（镇宗之兽）",
-    "理念": "历代掌门临终施展泽灵，为宗门择伴灵之子"
+    "理念": "历代掌门临终施展泽灵，为宗门择伴灵之子",
+    "等级": "莫罗大陆唯一修真门派"
   },
   "observations": {
     "据点": [
@@ -19,12 +22,22 @@
         "value": "莫罗大陆东部环形山脉盆地及其上方悬空道观",
         "docId": "plot.xianni-1138-yu-guiyuanzong-zeling",
         "seq": 1054
+      },
+      {
+        "value": "莫罗东部环形山脉盆地内的归元宗山门",
+        "docId": "plot.xianni-1139-zeng-niu-mo-luo-gui-yuan-zong",
+        "seq": 1054
       }
     ],
     "所属界面": [
       {
         "value": "云海星域·莫罗大陆",
         "docId": "plot.xianni-1138-yu-guiyuanzong-zeling",
+        "seq": 1054
+      },
+      {
+        "value": "云海星域 · 莫罗大陆",
+        "docId": "plot.xianni-1139-zeng-niu-mo-luo-gui-yuan-zong",
         "seq": 1054
       }
     ],
@@ -41,6 +54,14 @@
         "value": "历代掌门临终施展泽灵，为宗门择伴灵之子",
         "docId": "plot.xianni-1138-yu-guiyuanzong-zeling",
         "seq": 1054
+      }
+    ],
+    "等级": [
+      {
+        "value": "莫罗大陆唯一修真门派",
+        "docId": "plot.xianni-1139-zeng-niu-mo-luo-gui-yuan-zong",
+        "seq": 1054,
+        "note": "本章视角"
       }
     ]
   },
@@ -70,12 +91,20 @@
       "docId": "plot.xianni-1138-yu-guiyuanzong-zeling",
       "dated": false,
       "seq": 1054
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-1139-zeng-niu-mo-luo-gui-yuan-zong",
+      "dated": false,
+      "seq": 1054,
+      "note": "本章视角"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1138-yu-guiyuanzong-zeling"
+    "plot.xianni-1138-yu-guiyuanzong-zeling",
+    "plot.xianni-1139-zeng-niu-mo-luo-gui-yuan-zong"
   ],
-  "updatedAt": "2026-08-24T18:01:50.359Z"
+  "updatedAt": "2026-08-24T18:03:47.967Z"
 }
