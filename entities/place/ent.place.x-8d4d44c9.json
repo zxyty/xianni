@@ -3,13 +3,15 @@
   "type": "place",
   "name": "天妖郡京都",
   "aliases": [
-    "天妖郡都城"
+    "天妖郡都城",
+    "天妖郡的都城"
   ],
   "summary": "天妖郡的京都，王林计划三个月后前往，因路途遥远而不能再把尊魂幡留在炼魂部落养魂。",
   "attributes": {
     "类型": "京都城池、都城",
     "上级区域": "天妖郡",
-    "所属势力": "天妖郡"
+    "所属势力": "天妖郡",
+    "规模": "不复当年热闹"
   },
   "observations": {
     "类型": [
@@ -37,6 +39,14 @@
         "docId": "plot.xianni-ch567-second-question-yao-xixue",
         "seq": 537
       }
+    ],
+    "规模": [
+      {
+        "value": "不复当年热闹",
+        "docId": "plot.xianni-1002-second-avatar-ancient-demon-yunyao-part2",
+        "seq": 929,
+        "note": "街道店铺依旧、行人不多"
+      }
     ]
   },
   "firstSeq": 537,
@@ -58,13 +68,21 @@
       "docId": "plot.xianni-ch567-second-question-yao-xixue",
       "dated": false,
       "seq": 537
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-1002-second-avatar-ancient-demon-yunyao-part2",
+      "dated": false,
+      "seq": 929,
+      "note": "街道店铺依旧、行人不多"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch566-hupao-elder-and-armor",
-    "plot.xianni-ch567-second-question-yao-xixue"
+    "plot.xianni-ch567-second-question-yao-xixue",
+    "plot.xianni-1002-second-avatar-ancient-demon-yunyao-part2"
   ],
-  "updatedAt": "2026-08-22T09:26:17.882Z"
+  "updatedAt": "2026-08-24T04:15:02.651Z"
 }

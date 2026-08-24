@@ -6,15 +6,16 @@
     "炼魂部落黑色石像",
     "十三守护的石像",
     "炼魂部落膜拜的黑色石像",
-    "火妖郡黑色石像"
+    "火妖郡黑色石像",
+    "粗糙的黑色石像"
   ],
   "summary": "炼魂部落供奉的黑色石像，被十三称为「我主」，将被安放于原古妖之灵所在之地，成为部落精神寄托。",
   "attributes": {
-    "持有者": "炼魂部落",
-    "能力": "作为部落一切精神寄托（地位等同当年古妖之灵）、随万人膜拜自行变得光滑并趋近王林真容，予人被凝视之感、汲取膜拜者天灵散出的妖气供内中古妖残魂疗伤",
-    "外形": "黑色石像、刻有王林样貌的黑色石像，置于火妖都城皇宫后方山谷、黑色石像，双目可射黑芒",
-    "来历": "十三等人按记忆雕刻的寻常之石，作炼魂部落精神象征",
-    "禁制": "眉心黑雾符文，内蕴奇异之力，可阻挡触碰并以黑墨侵蚀来者元神"
+    "持有者": "王林",
+    "能力": "作为部落一切精神寄托（地位等同当年古妖之灵）、随万人膜拜自行变得光滑并趋近王林真容，予人被凝视之感、汲取膜拜者天灵散出的妖气供内中古妖残魂疗伤、凝聚四周妖气、承载古妖妖识、作为王林第二分身的载体",
+    "外形": "黑色石像、刻有王林样貌的黑色石像，置于火妖都城皇宫后方山谷、黑色石像，双目可射黑芒、初为粗糙黑色石像，后变为王林相貌",
+    "来历": "炼魂部落膜拜之物，云妖残余妖识融入其中",
+    "禁制": "王林布下的威力强大的禁制"
   },
   "observations": {
     "持有者": [
@@ -22,6 +23,11 @@
         "value": "炼魂部落",
         "docId": "plot.xianni-ch997-xukongzi-arrival",
         "seq": 926
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-1002-second-avatar-ancient-demon-yunyao-part2",
+        "seq": 929
       }
     ],
     "能力": [
@@ -40,6 +46,21 @@
         "value": "汲取膜拜者天灵散出的妖气供内中古妖残魂疗伤",
         "docId": "plot.xianni-1001-second-avatar-part1-black-stone-statue-ancient-demon-remnant",
         "seq": 926
+      },
+      {
+        "value": "凝聚四周妖气",
+        "docId": "plot.xianni-1002-second-avatar-ancient-demon-yunyao-part2",
+        "seq": 929
+      },
+      {
+        "value": "承载古妖妖识",
+        "docId": "plot.xianni-1002-second-avatar-ancient-demon-yunyao-part2",
+        "seq": 929
+      },
+      {
+        "value": "作为王林第二分身的载体",
+        "docId": "plot.xianni-1002-second-avatar-ancient-demon-yunyao-part2",
+        "seq": 929
       }
     ],
     "外形": [
@@ -57,6 +78,11 @@
         "value": "黑色石像，双目可射黑芒",
         "docId": "plot.xianni-1001-second-avatar-part1-black-stone-statue-ancient-demon-remnant",
         "seq": 926
+      },
+      {
+        "value": "初为粗糙黑色石像，后变为王林相貌",
+        "docId": "plot.xianni-1002-second-avatar-ancient-demon-yunyao-part2",
+        "seq": 929
       }
     ],
     "来历": [
@@ -64,6 +90,11 @@
         "value": "十三等人按记忆雕刻的寻常之石，作炼魂部落精神象征",
         "docId": "plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge",
         "seq": 926
+      },
+      {
+        "value": "炼魂部落膜拜之物，云妖残余妖识融入其中",
+        "docId": "plot.xianni-1002-second-avatar-ancient-demon-yunyao-part2",
+        "seq": 929
       }
     ],
     "禁制": [
@@ -71,6 +102,12 @@
         "value": "眉心黑雾符文，内蕴奇异之力，可阻挡触碰并以黑墨侵蚀来者元神",
         "docId": "plot.xianni-1001-second-avatar-part1-black-stone-statue-ancient-demon-remnant",
         "seq": 926
+      },
+      {
+        "value": "王林布下的威力强大的禁制",
+        "docId": "plot.xianni-1002-second-avatar-ancient-demon-yunyao-part2",
+        "seq": 929,
+        "note": "离开炼魂宗前所设"
       }
     ]
   },
@@ -78,9 +115,9 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch997-xukongzi-arrival",
+      "docId": "plot.xianni-1002-second-avatar-ancient-demon-yunyao-part2",
       "dated": false,
-      "seq": 926
+      "seq": 929
     },
     "能力": {
       "asOf": null,
@@ -96,15 +133,16 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge",
+      "docId": "plot.xianni-1002-second-avatar-ancient-demon-yunyao-part2",
       "dated": false,
-      "seq": 926
+      "seq": 929
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.xianni-1001-second-avatar-part1-black-stone-statue-ancient-demon-remnant",
+      "docId": "plot.xianni-1002-second-avatar-ancient-demon-yunyao-part2",
       "dated": false,
-      "seq": 926
+      "seq": 929,
+      "note": "离开炼魂宗前所设"
     }
   },
   "contested": false,
@@ -112,7 +150,8 @@
   "docs": [
     "plot.xianni-ch997-xukongzi-arrival",
     "plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge",
-    "plot.xianni-1001-second-avatar-part1-black-stone-statue-ancient-demon-remnant"
+    "plot.xianni-1001-second-avatar-part1-black-stone-statue-ancient-demon-remnant",
+    "plot.xianni-1002-second-avatar-ancient-demon-yunyao-part2"
   ],
-  "updatedAt": "2026-08-24T04:12:18.904Z"
+  "updatedAt": "2026-08-24T04:15:02.633Z"
 }

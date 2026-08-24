@@ -3,13 +3,15 @@
   "type": "place",
   "name": "云妖郡",
   "aliases": [
-    "云妖郡都城"
+    "云妖郡都城",
+    "云妖郡境"
   ],
   "summary": "妖灵九郡之一，因贝罗吞噬云妖、云妖塔崩溃而自此崩裂、再无妖灵。",
   "attributes": {
     "上级区域": "妖灵之地",
     "类型": "妖郡",
-    "规模": "已崩裂废弃"
+    "规模": "已崩裂废弃",
+    "危险度": "已崩溃"
   },
   "observations": {
     "上级区域": [
@@ -32,6 +34,14 @@
         "docId": "plot.xianni-1001-second-avatar-part1-black-stone-statue-ancient-demon-remnant",
         "seq": 926
       }
+    ],
+    "危险度": [
+      {
+        "value": "已崩溃",
+        "docId": "plot.xianni-1002-second-avatar-ancient-demon-yunyao-part2",
+        "seq": 929,
+        "note": "妖塔不再"
+      }
     ]
   },
   "firstSeq": 926,
@@ -53,12 +63,20 @@
       "docId": "plot.xianni-1001-second-avatar-part1-black-stone-statue-ancient-demon-remnant",
       "dated": false,
       "seq": 926
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-1002-second-avatar-ancient-demon-yunyao-part2",
+      "dated": false,
+      "seq": 929,
+      "note": "妖塔不再"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1001-second-avatar-part1-black-stone-statue-ancient-demon-remnant"
+    "plot.xianni-1001-second-avatar-part1-black-stone-statue-ancient-demon-remnant",
+    "plot.xianni-1002-second-avatar-ancient-demon-yunyao-part2"
   ],
-  "updatedAt": "2026-08-24T04:12:18.909Z"
+  "updatedAt": "2026-08-24T04:15:02.648Z"
 }

@@ -420,3 +420,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T04:02:17.608Z** `ingest` plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance — 第997章 虚空子（段2/2）：云仙道侣论剑灵、姚惜雪风妖郡尸气传承、王林重返妖灵之地 · kind=plot asOf=2026-08-24 entities=45 relations=76 src=00926-00928.p1b.md
 - **2026-08-24T04:09:56.994Z** `ingest` plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge — 第1000章 诡异的黑色石像——火妖郡改立炼魂宗、藏品阁与仙术分授 · kind=plot asOf=2026-08-24 entities=48 relations=69 src=00926-00928.p2.md
 - **2026-08-24T04:12:19.185Z** `ingest` plot.xianni-1001-second-avatar-part1-black-stone-statue-ancient-demon-remnant — 《仙逆》第1001章 第二分身（上）：黑色石像内的古妖残魂与贝罗吞噬云妖 · kind=plot asOf=2026-08-24 entities=18 relations=36 src=00926-00928.p3.md
+- **2026-08-24T04:15:02.901Z** `ingest` plot.xianni-1002-second-avatar-ancient-demon-yunyao-part2 — 仙逆 第1002章 第二分身（下）——云妖妖识化古妖，王林收其为第二分身 · kind=plot asOf=2026-08-24 entities=24 relations=32 src=00929-00933.p1.md
