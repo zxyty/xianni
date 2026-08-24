@@ -7,9 +7,9 @@
   ],
   "summary": "东海妖灵之门内的隐藏洞府，须四座仙府全部打开方可开启。",
   "attributes": {
-    "类型": "洞府",
+    "类型": "洞府/秘境",
     "上级区域": "东海妖灵之门",
-    "守护": "以四座仙府全开为开启条件"
+    "守护": "九龙阵法"
   },
   "observations": {
     "类型": [
@@ -17,6 +17,11 @@
         "value": "洞府",
         "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
         "seq": 922
+      },
+      {
+        "value": "洞府/秘境",
+        "docId": "plot.xianni-1012-immortal-mansion-opens",
+        "seq": 939
       }
     ],
     "上级区域": [
@@ -31,6 +36,11 @@
         "value": "以四座仙府全开为开启条件",
         "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
         "seq": 922
+      },
+      {
+        "value": "九龙阵法",
+        "docId": "plot.xianni-1012-immortal-mansion-opens",
+        "seq": 939
       }
     ]
   },
@@ -38,9 +48,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+      "docId": "plot.xianni-1012-immortal-mansion-opens",
       "dated": false,
-      "seq": 922
+      "seq": 939
     },
     "上级区域": {
       "asOf": null,
@@ -50,15 +60,16 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+      "docId": "plot.xianni-1012-immortal-mansion-opens",
       "dated": false,
-      "seq": 922
+      "seq": 939
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison"
+    "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+    "plot.xianni-1012-immortal-mansion-opens"
   ],
-  "updatedAt": "2026-08-24T02:53:45.002Z"
+  "updatedAt": "2026-08-24T05:19:09.314Z"
 }

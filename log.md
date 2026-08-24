@@ -430,3 +430,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T04:33:09.715Z** `ingest` plot.xianni-ch1009-whose-statue — 仙逆·第1009章 谁的雕像：白衣女子引王林入殿，九尊雕像之威 · kind=plot asOf=2026-08-24 entities=24 relations=34 src=00934-00938.p3.md
 - **2026-08-24T04:35:35.498Z** `ingest` plot.xianni-ch1010-hua-fei — 第1010章 花妃：王林三步逆仙帝青霖雕像，开启第四洞府传送阵 · kind=plot asOf=2026-08-24 entities=27 relations=42 src=00934-00938.p4.md
 - **2026-08-24T04:37:59.690Z** `ingest` plot.xianni-1011-xianling-tianjing-four-pillars-restore — 第1011章 仙灵天境：四座洞府齐开，仙气风暴洗净妖灵之地 · kind=plot asOf=2026-08-24 entities=26 relations=35 src=00934-00938.p5.md
+- **2026-08-24T05:19:09.545Z** `ingest` plot.xianni-1012-immortal-mansion-opens — 第1012章 仙府开启：九龙阵现世，各方大能齐聚 · kind=plot asOf=2026-08-24 entities=42 relations=76 src=00939-00940.p1.md

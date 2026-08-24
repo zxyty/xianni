@@ -8,7 +8,7 @@
   "summary": "呈回字形的仙人洞府，司徒南一行人正在此逐层破解禁制，已有仙人之物陆续出现。",
   "attributes": {
     "上级区域": "妖灵之地",
-    "类型": "仙人洞府",
+    "类型": "洞府/秘境",
     "危险度": "内环禁制绝非修为可破，需明悟禁制结构",
     "守护": "回字形层层禁制"
   },
@@ -25,6 +25,11 @@
         "value": "仙人洞府",
         "docId": "plot.xianni-1003-dijun-tuogu-diyu-jianling-xianfu-neihuan-jinzhi",
         "seq": 929
+      },
+      {
+        "value": "洞府/秘境",
+        "docId": "plot.xianni-1012-immortal-mansion-opens",
+        "seq": 939
       }
     ],
     "危险度": [
@@ -53,9 +58,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1003-dijun-tuogu-diyu-jianling-xianfu-neihuan-jinzhi",
+      "docId": "plot.xianni-1012-immortal-mansion-opens",
       "dated": false,
-      "seq": 929
+      "seq": 939
     },
     "危险度": {
       "asOf": null,
@@ -75,7 +80,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-1003-dijun-tuogu-diyu-jianling-xianfu-neihuan-jinzhi",
-    "plot.xianni-1011-xianling-tianjing-four-pillars-restore"
+    "plot.xianni-1011-xianling-tianjing-four-pillars-restore",
+    "plot.xianni-1012-immortal-mansion-opens"
   ],
-  "updatedAt": "2026-08-24T04:37:59.427Z"
+  "updatedAt": "2026-08-24T05:19:09.315Z"
 }

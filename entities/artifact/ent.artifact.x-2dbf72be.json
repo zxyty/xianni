@@ -5,14 +5,16 @@
   "aliases": [
     "黑石像",
     "炼魂部落老祖石像",
-    "王林石像"
+    "王林石像",
+    "炼魂宗王林石像"
   ],
   "summary": "炼魂部落供奉的黑色石像，雕刻其王者兼老祖，受数百万族人日夜狂热崇敬而越加光滑圆润、似生异力。",
   "attributes": {
     "持有者": "炼魂部落",
-    "外形": "黑色石像，所刻为王林；后变得圆润光泽、隐有妖异之感",
-    "能力": "似拥有一股奇异的力量、散发无尽冰冷的黑光、汇聚膜拜产生的奇异之力、吸纳族人天灵散出的白色气息",
-    "来历": "炼魂部落为老祖王林所立"
+    "外形": "黑色石像",
+    "能力": "似拥有一股奇异的力量、散发无尽冰冷的黑光、汇聚膜拜产生的奇异之力、吸纳族人天灵散出的白色气息、内蕴妖气、可发出传意啸声",
+    "来历": "炼魂部落为老祖王林所立",
+    "禁制": "数百万弟子魂幡魂魄层层防护"
   },
   "observations": {
     "持有者": [
@@ -32,6 +34,11 @@
         "value": "黑色石像，所刻为王林；后变得圆润光泽、隐有妖异之感",
         "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
         "seq": 926
+      },
+      {
+        "value": "黑色石像",
+        "docId": "plot.xianni-1012-immortal-mansion-opens",
+        "seq": 939
       }
     ],
     "能力": [
@@ -55,6 +62,11 @@
         "value": "吸纳族人天灵散出的白色气息",
         "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
         "seq": 926
+      },
+      {
+        "value": "内蕴妖气、可发出传意啸声",
+        "docId": "plot.xianni-1012-immortal-mansion-opens",
+        "seq": 939
       }
     ],
     "来历": [
@@ -68,6 +80,14 @@
         "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
         "seq": 926
       }
+    ],
+    "禁制": [
+      {
+        "value": "数百万弟子魂幡魂魄层层防护",
+        "docId": "plot.xianni-1012-immortal-mansion-opens",
+        "seq": 939,
+        "note": "第1012章仙风来袭时"
+      }
     ]
   },
   "firstSeq": 922,
@@ -80,9 +100,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
+      "docId": "plot.xianni-1012-immortal-mansion-opens",
       "dated": false,
-      "seq": 926
+      "seq": 939
     },
     "能力": {
       "asOf": null,
@@ -96,13 +116,21 @@
       "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
       "dated": false,
       "seq": 926
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-1012-immortal-mansion-opens",
+      "dated": false,
+      "seq": 939,
+      "note": "第1012章仙风来袭时"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
-    "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance"
+    "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
+    "plot.xianni-1012-immortal-mansion-opens"
   ],
-  "updatedAt": "2026-08-24T04:02:17.382Z"
+  "updatedAt": "2026-08-24T05:19:09.282Z"
 }
