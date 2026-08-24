@@ -13,10 +13,11 @@
   "summary": "妖灵之地五府中唯一的实府，第一仙帝青霖之府，内有其闭关气息，姚父猜测藏有踏入道境第三步的契机。",
   "attributes": {
     "所属界面": "妖灵之地内",
-    "类型": "洞府/秘境",
+    "类型": "仙帝洞府、洞府/秘境、秘境/洞府",
     "守护": "须四块青霖仙令同时开启四虚府大门方可进入",
     "所属势力": "仙帝",
-    "规模": "多层，第一层为瓶中界"
+    "规模": "多层，第一层为瓶中界",
+    "危险度": "极高"
   },
   "observations": {
     "所属界面": [
@@ -35,6 +36,11 @@
       {
         "value": "洞府/秘境",
         "docId": "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
+        "seq": 941
+      },
+      {
+        "value": "秘境/洞府",
+        "docId": "plot.xianni-1020-qing-lin-crystal-black-tower-flame",
         "seq": 941
       }
     ],
@@ -58,6 +64,13 @@
         "docId": "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
         "seq": 941
       }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.xianni-1020-qing-lin-crystal-black-tower-flame",
+        "seq": 941
+      }
     ]
   },
   "firstSeq": 576,
@@ -70,9 +83,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
+      "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
       "dated": false,
-      "seq": 941
+      "seq": 576
     },
     "守护": {
       "asOf": null,
@@ -91,13 +104,20 @@
       "docId": "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
       "dated": false,
       "seq": 941
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-1020-qing-lin-crystal-black-tower-flame",
+      "dated": false,
+      "seq": 941
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch616-immortal-emperor-qinglin-secret",
-    "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai"
+    "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
+    "plot.xianni-1020-qing-lin-crystal-black-tower-flame"
   ],
-  "updatedAt": "2026-08-24T06:30:14.100Z"
+  "updatedAt": "2026-08-24T06:35:29.249Z"
 }
