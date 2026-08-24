@@ -19,11 +19,12 @@
   "attributes": {
     "上级区域": "云海五阶星域",
     "类型": "漂浮星空的大陆（代表一个宗派）、大陆、漂浮大陆、可居住的修真大陆",
-    "守护": "大陆上空的防护光层",
+    "守护": "外围防护层",
     "所属界面": "云海五阶星域",
     "特产": "药草、紫目蟒等妖兽",
     "危险度": "极高",
-    "所属势力": "归元宗"
+    "所属势力": "归元宗",
+    "方位": "四阶星域边缘"
   },
   "observations": {
     "上级区域": [
@@ -80,6 +81,12 @@
         "value": "大陆上空的防护光层",
         "docId": "plot.xianni-1148-manhuang-dalu-beast-souls",
         "seq": 1063
+      },
+      {
+        "value": "外围防护层",
+        "docId": "plot.xianni-1158-chong-ning-shen-gu",
+        "seq": 1073,
+        "note": "本章被涌入的天地元力冲垮"
       }
     ],
     "所属界面": [
@@ -130,6 +137,13 @@
         "docId": "plot.xianni-1145-a-single-hair-lu-di-slain",
         "seq": 1063
       }
+    ],
+    "方位": [
+      {
+        "value": "四阶星域边缘",
+        "docId": "plot.xianni-1158-chong-ning-shen-gu",
+        "seq": 1073
+      }
     ]
   },
   "firstSeq": 1054,
@@ -148,9 +162,10 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-1148-manhuang-dalu-beast-souls",
+      "docId": "plot.xianni-1158-chong-ning-shen-gu",
       "dated": false,
-      "seq": 1063
+      "seq": 1073,
+      "note": "本章被涌入的天地元力冲垮"
     },
     "所属界面": {
       "asOf": null,
@@ -176,6 +191,12 @@
       "docId": "plot.xianni-1145-a-single-hair-lu-di-slain",
       "dated": false,
       "seq": 1063
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-1158-chong-ning-shen-gu",
+      "dated": false,
+      "seq": 1073
     }
   },
   "contested": false,
@@ -195,7 +216,8 @@
     "plot.xianni-1148-manhuang-dalu-beast-souls",
     "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan",
     "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
-    "plot.xianni-ch1157-yi-sun-liang-jie-gu-jie"
+    "plot.xianni-ch1157-yi-sun-liang-jie-gu-jie",
+    "plot.xianni-1158-chong-ning-shen-gu"
   ],
-  "updatedAt": "2026-08-24T19:04:44.331Z"
+  "updatedAt": "2026-08-24T19:06:34.726Z"
 }
