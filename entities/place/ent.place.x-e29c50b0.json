@@ -5,13 +5,15 @@
   "aliases": [
     "雷仙殿宫殿",
     "漂浮星空的庞大宫殿",
-    "雷仙殿大殿"
+    "雷仙殿大殿",
+    "罗天雷仙大殿"
   ],
   "summary": "雷仙殿在罗天占据的联盟西部星空中的庞大宫殿，本章元神求救之地。",
   "attributes": {
     "所属势力": "雷仙殿",
     "方位": "罗天占据的联盟西部星空",
-    "类型": "漂浮星空的宫殿、大殿"
+    "类型": "漂浮星空的宫殿、大殿、殿宇",
+    "上级区域": "罗天星域"
   },
   "observations": {
     "所属势力": [
@@ -38,6 +40,18 @@
         "value": "大殿",
         "docId": "plot.xianni-1097-si-sheng-zong-mi-mi-si-fen-zhi-men",
         "seq": 1014
+      },
+      {
+        "value": "殿宇",
+        "docId": "plot.xianni-1112-yujie-huhjiu-mieshen-mao",
+        "seq": 1029
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "罗天星域",
+        "docId": "plot.xianni-1112-yujie-huhjiu-mieshen-mao",
+        "seq": 1029
       }
     ]
   },
@@ -60,12 +74,19 @@
       "docId": "plot.xianni-1097-si-sheng-zong-mi-mi-si-fen-zhi-men",
       "dated": false,
       "seq": 1014
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-1112-yujie-huhjiu-mieshen-mao",
+      "dated": false,
+      "seq": 1029
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1097-si-sheng-zong-mi-mi-si-fen-zhi-men"
+    "plot.xianni-1097-si-sheng-zong-mi-mi-si-fen-zhi-men",
+    "plot.xianni-1112-yujie-huhjiu-mieshen-mao"
   ],
-  "updatedAt": "2026-08-24T14:56:50.999Z"
+  "updatedAt": "2026-08-24T15:52:31.514Z"
 }

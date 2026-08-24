@@ -514,3 +514,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T15:34:45.927Z** `ingest` plot.xianni-ch1109-zhuque-old-shenghuang-guixu — 第1109章 圣皇归墟：朱雀老圣皇陨落、联盟总部惊天之秘与许立国重逢 · kind=plot asOf=2026-08-24 entities=39 relations=40 src=01024-01028.p4.md
 - **2026-08-24T15:42:49.670Z** `ingest` plot.xianni-ch1110-rain-realm-reopens-tashan-farewell — 仙逆 第1110章 雨界再开！——王林收服许立国、塔山辞行赴罗天、赴云仙道侣处 · kind=plot asOf=2026-08-24 entities=55 relations=88 src=01024-01028.p5.md
 - **2026-08-24T15:45:39.057Z** `ingest` plot.xianni-ch1111-tuosen-alliance-forces-descend-zhuque-star — 第1111章 拓森！——万修降临朱雀星、雕像认主与古神之地入口血战 · kind=plot asOf=2026-08-24 entities=35 relations=43 src=01029-01033.p1.md
+- **2026-08-24T15:52:31.842Z** `ingest` plot.xianni-1112-yujie-huhjiu-mieshen-mao — 第1112章 雨界呼救：拓森召灭神矛横扫朱雀星外诸势力 · kind=plot asOf=2026-08-24 entities=30 relations=44 src=01029-01033.p2.md

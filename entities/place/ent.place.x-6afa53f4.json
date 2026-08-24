@@ -5,14 +5,18 @@
   "aliases": [
     "形如大锁的山峰",
     "锁山",
-    "lock-shaped peak"
+    "lock-shaped peak",
+    "如大锁般的山峰",
+    "如锁般的山峰",
+    "传出呼救之声的山峰"
   ],
   "summary": "仙界碎片内除子母峰外的另一座高峰，整体形似大锁，峰顶洞府即为锁芯；枯木飞灰曾在空中组成「救我」二字，疑似镇锁着某位仙人。",
   "attributes": {
     "所属界面": "仙界碎片",
-    "类型": "疑似镇锁之地",
-    "危险度": "极高",
-    "特产": "千年至万年枯木（已尽数干枯，一触成灰）"
+    "类型": "山峰",
+    "危险度": "未知",
+    "特产": "千年至万年枯木（已尽数干枯，一触成灰）",
+    "方位": "雨界碎片大地上，王林落点万里之外"
   },
   "observations": {
     "所属界面": [
@@ -27,6 +31,11 @@
         "value": "疑似镇锁之地",
         "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
         "seq": 276
+      },
+      {
+        "value": "山峰",
+        "docId": "plot.xianni-1112-yujie-huhjiu-mieshen-mao",
+        "seq": 1029
       }
     ],
     "危险度": [
@@ -34,6 +43,11 @@
         "value": "极高",
         "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
         "seq": 276
+      },
+      {
+        "value": "未知",
+        "docId": "plot.xianni-1112-yujie-huhjiu-mieshen-mao",
+        "seq": 1029
       }
     ],
     "特产": [
@@ -41,6 +55,13 @@
         "value": "千年至万年枯木（已尽数干枯，一触成灰）",
         "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
         "seq": 276
+      }
+    ],
+    "方位": [
+      {
+        "value": "雨界碎片大地上，王林落点万里之外",
+        "docId": "plot.xianni-1112-yujie-huhjiu-mieshen-mao",
+        "seq": 1029
       }
     ]
   },
@@ -54,27 +75,34 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+      "docId": "plot.xianni-1112-yujie-huhjiu-mieshen-mao",
       "dated": false,
-      "seq": 276
+      "seq": 1029
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+      "docId": "plot.xianni-1112-yujie-huhjiu-mieshen-mao",
       "dated": false,
-      "seq": 276
+      "seq": 1029
     },
     "特产": {
       "asOf": null,
       "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
       "dated": false,
       "seq": 276
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-1112-yujie-huhjiu-mieshen-mao",
+      "dated": false,
+      "seq": 1029
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men"
+    "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+    "plot.xianni-1112-yujie-huhjiu-mieshen-mao"
   ],
-  "updatedAt": "2026-08-02T14:24:24.309Z"
+  "updatedAt": "2026-08-24T15:52:31.551Z"
 }

@@ -2,18 +2,26 @@
   "id": "ent.passage.x-fab6ec8f",
   "type": "passage",
   "name": "古神之地入口光圈",
-  "aliases": [],
+  "aliases": [
+    "古神之地外的入口光圈"
+  ],
   "summary": "修魔海内通往古神之地的椭圆形光圈入口，穿过后即进入无尽漆黑深渊的第一道关卡。",
   "attributes": {
-    "类型": "秘境入口",
-    "两端": "修魔海—古神之地",
-    "守护": "深渊内的凶兽群"
+    "类型": "秘境入口、秘境入口光圈",
+    "两端": "修魔海—古神之地、古神之地 ↔ 修魔海",
+    "守护": "深渊内的凶兽群",
+    "坐标": "修魔海内"
   },
   "observations": {
     "类型": [
       {
         "value": "秘境入口",
         "docId": "plot.xianni-ch1111-tuosen-alliance-forces-descend-zhuque-star",
+        "seq": 1029
+      },
+      {
+        "value": "秘境入口光圈",
+        "docId": "plot.xianni-1112-yujie-huhjiu-mieshen-mao",
         "seq": 1029
       }
     ],
@@ -22,12 +30,24 @@
         "value": "修魔海—古神之地",
         "docId": "plot.xianni-ch1111-tuosen-alliance-forces-descend-zhuque-star",
         "seq": 1029
+      },
+      {
+        "value": "古神之地 ↔ 修魔海",
+        "docId": "plot.xianni-1112-yujie-huhjiu-mieshen-mao",
+        "seq": 1029
       }
     ],
     "守护": [
       {
         "value": "深渊内的凶兽群",
         "docId": "plot.xianni-ch1111-tuosen-alliance-forces-descend-zhuque-star",
+        "seq": 1029
+      }
+    ],
+    "坐标": [
+      {
+        "value": "修魔海内",
+        "docId": "plot.xianni-1112-yujie-huhjiu-mieshen-mao",
         "seq": 1029
       }
     ]
@@ -51,12 +71,19 @@
       "docId": "plot.xianni-ch1111-tuosen-alliance-forces-descend-zhuque-star",
       "dated": false,
       "seq": 1029
+    },
+    "坐标": {
+      "asOf": null,
+      "docId": "plot.xianni-1112-yujie-huhjiu-mieshen-mao",
+      "dated": false,
+      "seq": 1029
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1111-tuosen-alliance-forces-descend-zhuque-star"
+    "plot.xianni-ch1111-tuosen-alliance-forces-descend-zhuque-star",
+    "plot.xianni-1112-yujie-huhjiu-mieshen-mao"
   ],
-  "updatedAt": "2026-08-24T15:45:38.732Z"
+  "updatedAt": "2026-08-24T15:52:31.511Z"
 }
