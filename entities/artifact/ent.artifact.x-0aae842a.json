@@ -5,13 +5,17 @@
   "aliases": [
     "王林胸口的断剑",
     "自胸口延伸而出的断剑",
-    "火岩球内的断剑"
+    "火岩球内的断剑",
+    "半截断剑",
+    "黑衣老人的断剑"
   ],
   "summary": "章末从王林胸口红光中一点点缓缓延伸而出的一把断剑；取出过程令王林面色异常红润、神色痛苦、额渗豆大汗珠。",
   "attributes": {
-    "持有者": "王林",
-    "外形": "断剑",
-    "来历": "自王林胸口延伸而出、祭炼的本体材料"
+    "持有者": "黑衣老人",
+    "外形": "只有一半的断剑",
+    "来历": "自王林胸口延伸而出、祭炼的本体材料",
+    "能力": "贯穿古神肉身、惊天杀机与剑气、速度远超碎涅修士乃至天人衰",
+    "禁制": "需咬破舌尖喷血催动"
   },
   "observations": {
     "持有者": [
@@ -19,6 +23,11 @@
         "value": "王林",
         "docId": "plot.xianni-1098-broken-sword-third-king-awakens",
         "seq": 1014
+      },
+      {
+        "value": "黑衣老人",
+        "docId": "plot.xianni-1136-wang-lin-avatar-blocks-mieshen-spear-flight",
+        "seq": 1054
       }
     ],
     "外形": [
@@ -26,6 +35,11 @@
         "value": "断剑",
         "docId": "plot.xianni-1098-broken-sword-third-king-awakens",
         "seq": 1014
+      },
+      {
+        "value": "只有一半的断剑",
+        "docId": "plot.xianni-1136-wang-lin-avatar-blocks-mieshen-spear-flight",
+        "seq": 1054
       }
     ],
     "来历": [
@@ -40,21 +54,45 @@
         "docId": "plot.xianni-ch1099-wailai-refine-killing-sword",
         "seq": 1014
       }
+    ],
+    "能力": [
+      {
+        "value": "贯穿古神肉身",
+        "docId": "plot.xianni-1136-wang-lin-avatar-blocks-mieshen-spear-flight",
+        "seq": 1054
+      },
+      {
+        "value": "惊天杀机与剑气",
+        "docId": "plot.xianni-1136-wang-lin-avatar-blocks-mieshen-spear-flight",
+        "seq": 1054
+      },
+      {
+        "value": "速度远超碎涅修士乃至天人衰",
+        "docId": "plot.xianni-1136-wang-lin-avatar-blocks-mieshen-spear-flight",
+        "seq": 1054
+      }
+    ],
+    "禁制": [
+      {
+        "value": "需咬破舌尖喷血催动",
+        "docId": "plot.xianni-1136-wang-lin-avatar-blocks-mieshen-spear-flight",
+        "seq": 1054
+      }
     ]
   },
   "firstSeq": 1014,
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-1098-broken-sword-third-king-awakens",
+      "docId": "plot.xianni-1136-wang-lin-avatar-blocks-mieshen-spear-flight",
       "dated": false,
-      "seq": 1014
+      "seq": 1054
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-1098-broken-sword-third-king-awakens",
+      "docId": "plot.xianni-1136-wang-lin-avatar-blocks-mieshen-spear-flight",
       "dated": false,
-      "seq": 1014
+      "seq": 1054
     },
     "来历": {
       "asOf": null,
@@ -62,13 +100,26 @@
       "dated": false,
       "seq": 1014,
       "note": "第1098章首次显现"
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-1136-wang-lin-avatar-blocks-mieshen-spear-flight",
+      "dated": false,
+      "seq": 1054
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-1136-wang-lin-avatar-blocks-mieshen-spear-flight",
+      "dated": false,
+      "seq": 1054
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1098-broken-sword-third-king-awakens",
-    "plot.xianni-ch1099-wailai-refine-killing-sword"
+    "plot.xianni-ch1099-wailai-refine-killing-sword",
+    "plot.xianni-1136-wang-lin-avatar-blocks-mieshen-spear-flight"
   ],
-  "updatedAt": "2026-08-24T15:06:39.328Z"
+  "updatedAt": "2026-08-24T17:57:06.037Z"
 }
