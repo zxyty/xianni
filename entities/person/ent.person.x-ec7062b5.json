@@ -3,11 +3,13 @@
   "type": "person",
   "name": "暗藏黑龙印记的黑衣男子",
   "aliases": [
-    "黑龙印记黑衣男子"
+    "黑龙印记黑衣男子",
+    "眉心黑龙印记的黑衣男子"
   ],
   "summary": "出瓶者之一，身上暗藏黑龙印记；看向王林目光有异。",
   "attributes": {
-    "标志特征": "暗藏黑龙印记"
+    "标志特征": "眉心隐藏黑龙印记",
+    "外貌": "黑衣"
   },
   "observations": {
     "标志特征": [
@@ -15,6 +17,18 @@
         "value": "暗藏黑龙印记",
         "docId": "plot.xianni-ch1023-po-ping-er-chu",
         "seq": 945
+      },
+      {
+        "value": "眉心隐藏黑龙印记",
+        "docId": "plot.xianni-1025-fuzu-shengzu-blood-sea-escape",
+        "seq": 949
+      }
+    ],
+    "外貌": [
+      {
+        "value": "黑衣",
+        "docId": "plot.xianni-1025-fuzu-shengzu-blood-sea-escape",
+        "seq": 949
       }
     ]
   },
@@ -22,15 +36,22 @@
   "attrProvenance": {
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch1023-po-ping-er-chu",
+      "docId": "plot.xianni-1025-fuzu-shengzu-blood-sea-escape",
       "dated": false,
-      "seq": 945
+      "seq": 949
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-1025-fuzu-shengzu-blood-sea-escape",
+      "dated": false,
+      "seq": 949
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1023-po-ping-er-chu"
+    "plot.xianni-ch1023-po-ping-er-chu",
+    "plot.xianni-1025-fuzu-shengzu-blood-sea-escape"
   ],
-  "updatedAt": "2026-08-24T06:54:16.625Z"
+  "updatedAt": "2026-08-24T07:17:01.621Z"
 }

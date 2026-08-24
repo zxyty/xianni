@@ -5,12 +5,15 @@
   "aliases": [
     "红色煞气",
     "戾气",
-    "杀气"
+    "杀气",
+    "血海煞气",
+    "至极寒流煞气"
   ],
   "summary": "王林四百年杀戮所化，由杀气→戾气→煞气演化；可不战屈人、掺入炼器增威。",
   "attributes": {
-    "类型": "杀伐所化戾气",
-    "用途": "不战而屈人之兵、炼器掺入增威"
+    "类型": "阴寒煞气",
+    "用途": "不战而屈人之兵、炼器掺入增威",
+    "产地": "葬仙血海"
   },
   "observations": {
     "类型": [
@@ -18,6 +21,11 @@
         "value": "杀伐所化戾气",
         "docId": "plot.xianni-ch231-234-xieyi-nanzi",
         "seq": 231
+      },
+      {
+        "value": "阴寒煞气",
+        "docId": "plot.xianni-1025-fuzu-shengzu-blood-sea-escape",
+        "seq": 949
       }
     ],
     "用途": [
@@ -31,27 +39,41 @@
         "docId": "plot.xianni-ch231-234-xieyi-nanzi",
         "seq": 231
       }
+    ],
+    "产地": [
+      {
+        "value": "葬仙血海",
+        "docId": "plot.xianni-1025-fuzu-shengzu-blood-sea-escape",
+        "seq": 949
+      }
     ]
   },
   "firstSeq": 231,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch231-234-xieyi-nanzi",
+      "docId": "plot.xianni-1025-fuzu-shengzu-blood-sea-escape",
       "dated": false,
-      "seq": 231
+      "seq": 949
     },
     "用途": {
       "asOf": null,
       "docId": "plot.xianni-ch231-234-xieyi-nanzi",
       "dated": false,
       "seq": 231
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.xianni-1025-fuzu-shengzu-blood-sea-escape",
+      "dated": false,
+      "seq": 949
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch231-234-xieyi-nanzi"
+    "plot.xianni-ch231-234-xieyi-nanzi",
+    "plot.xianni-1025-fuzu-shengzu-blood-sea-escape"
   ],
-  "updatedAt": "2026-07-23T05:08:48.024Z"
+  "updatedAt": "2026-08-24T07:17:01.597Z"
 }
