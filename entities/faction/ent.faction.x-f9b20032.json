@@ -8,13 +8,17 @@
     "八阶破天宗",
     "Potian Sect",
     "八阶宗派破天宗",
-    "破天宗势力"
+    "破天宗势力",
+    "九阶破天宗",
+    "Broken Heaven Sect"
   ],
   "summary": "八阶星域的宗门，其玉简为众势力争夺焦点。",
   "attributes": {
-    "等级": "八阶星域宗门、八阶、八阶宗派（已具搬迁九阶星域资格）",
+    "等级": "八阶星域宗门、八阶、八阶宗派（已具搬迁九阶星域资格）、九阶",
     "镇派之宝": "丹药、残剑、兽骨（涅空丹丹方）",
-    "理念": "与丹方秘事相关"
+    "理念": "与丹方秘事相关",
+    "所属界面": "云海星域",
+    "据点": "云海九阶星域北斗七星修真星"
   },
   "observations": {
     "等级": [
@@ -32,6 +36,11 @@
         "value": "八阶宗派（已具搬迁九阶星域资格）",
         "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
         "seq": 1068
+      },
+      {
+        "value": "九阶",
+        "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
+        "seq": 1077
       }
     ],
     "镇派之宝": [
@@ -58,6 +67,20 @@
         "seq": 1073,
         "note": "钱贵钟之推断"
       }
+    ],
+    "所属界面": [
+      {
+        "value": "云海星域",
+        "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
+        "seq": 1077
+      }
+    ],
+    "据点": [
+      {
+        "value": "云海九阶星域北斗七星修真星",
+        "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
+        "seq": 1077
+      }
     ]
   },
   "firstSeq": 1068,
@@ -80,6 +103,18 @@
       "dated": false,
       "seq": 1073,
       "note": "钱贵钟之推断"
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
+      "dated": false,
+      "seq": 1077
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
+      "dated": false,
+      "seq": 1077
     }
   },
   "contested": false,
@@ -88,7 +123,8 @@
     "plot.xianni-ch1150-jingbian-manhuang-dalu-liuxing-shouchao",
     "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan",
     "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
-    "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain"
+    "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
+    "plot.xianni-1160-li-qianmei-gushen-dujie"
   ],
-  "updatedAt": "2026-08-24T19:02:33.258Z"
+  "updatedAt": "2026-08-24T19:50:31.850Z"
 }

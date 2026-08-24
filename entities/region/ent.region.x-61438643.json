@@ -2,10 +2,12 @@
   "id": "ent.region.x-61438643",
   "type": "region",
   "name": "七阶星域",
-  "aliases": [],
+  "aliases": [
+    "七阶"
+  ],
   "summary": "受牵引参与当年争夺的星域阶层。",
   "attributes": {
-    "层次": "第七阶"
+    "层次": "七阶"
   },
   "observations": {
     "层次": [
@@ -13,6 +15,11 @@
         "value": "第七阶",
         "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
         "seq": 1068
+      },
+      {
+        "value": "七阶",
+        "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
+        "seq": 1077
       }
     ]
   },
@@ -20,15 +27,16 @@
   "attrProvenance": {
     "层次": {
       "asOf": null,
-      "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
+      "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
       "dated": false,
-      "seq": 1068
+      "seq": 1077
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong"
+    "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
+    "plot.xianni-1160-li-qianmei-gushen-dujie"
   ],
-  "updatedAt": "2026-08-24T18:57:10.875Z"
+  "updatedAt": "2026-08-24T19:50:31.855Z"
 }

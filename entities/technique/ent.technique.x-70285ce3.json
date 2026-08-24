@@ -4,12 +4,14 @@
   "name": "云海炼丹之术",
   "aliases": [
     "云海炼丹术",
-    "兽魂融合炼丹之术"
+    "兽魂融合炼丹之术",
+    "云海星域特有的炼丹之术",
+    "云海丹道"
   ],
   "summary": "云海星域特有的炼丹法门，核心是丹药与兽魂融合；诸多关键之处玉简未载，需炼丹者自行明悟，失败会导致兽魂反复融合的剧痛乃至丹炸。",
   "attributes": {
-    "出处": "归元宗道观玉简",
-    "效果": "以兽魂融合炼制丹药",
+    "出处": "云海星域",
+    "效果": "提高修为",
     "修炼条件": "需备兽魂与大量药草，关键要点须自行明悟",
     "外显异象": "失败可致丹炸"
   },
@@ -19,6 +21,11 @@
         "value": "归元宗道观玉简",
         "docId": "plot.xianni-1148-manhuang-dalu-beast-souls",
         "seq": 1063
+      },
+      {
+        "value": "云海星域",
+        "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
+        "seq": 1077
       }
     ],
     "效果": [
@@ -26,6 +33,11 @@
         "value": "以兽魂融合炼制丹药",
         "docId": "plot.xianni-1148-manhuang-dalu-beast-souls",
         "seq": 1063
+      },
+      {
+        "value": "提高修为",
+        "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
+        "seq": 1077
       }
     ],
     "修炼条件": [
@@ -48,15 +60,15 @@
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-1148-manhuang-dalu-beast-souls",
+      "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
       "dated": false,
-      "seq": 1063
+      "seq": 1077
     },
     "效果": {
       "asOf": null,
-      "docId": "plot.xianni-1148-manhuang-dalu-beast-souls",
+      "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
       "dated": false,
-      "seq": 1063
+      "seq": 1077
     },
     "修炼条件": {
       "asOf": null,
@@ -75,7 +87,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1148-manhuang-dalu-beast-souls"
+    "plot.xianni-1148-manhuang-dalu-beast-souls",
+    "plot.xianni-1160-li-qianmei-gushen-dujie"
   ],
-  "updatedAt": "2026-08-24T18:36:46.778Z"
+  "updatedAt": "2026-08-24T19:50:31.836Z"
 }

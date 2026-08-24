@@ -5,12 +5,16 @@
   "aliases": [
     "鳞片鱼形凶兽",
     "红色闪电凶兽",
-    "缩小版幽冥兽"
+    "缩小版幽冥兽",
+    "星雾内的凶兽",
+    "云海最强凶兽"
   ],
   "summary": "云海五阶星域星雾中出没的各类凶兽：鳞片鱼形、数十丈红色群居闪电凶兽、数百丈缩小版幽冥兽、似卢迪灵兽的蝌蚪状黑色凶兽；皆畏惧王林神识而远避。",
   "attributes": {
-    "栖息地": "云海五阶星域星雾与蛮荒大陆",
-    "外形": "鳞片巨口鱼形、似龙数十丈红色、数百丈幽冥兽状、蝌蚪状黑色"
+    "栖息地": "云海星域最深处星雾",
+    "外形": "鳞片巨口鱼形、似龙数十丈红色、数百丈幽冥兽状、蝌蚪状黑色",
+    "能力": "身与星雾融为一体、潜修天道规则",
+    "等级": "云海星域最强凶兽"
   },
   "observations": {
     "栖息地": [
@@ -18,6 +22,11 @@
         "value": "云海五阶星域星雾与蛮荒大陆",
         "docId": "plot.xianni-1148-manhuang-dalu-beast-souls",
         "seq": 1063
+      },
+      {
+        "value": "云海星域最深处星雾",
+        "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
+        "seq": 1077
       }
     ],
     "外形": [
@@ -41,27 +50,59 @@
         "docId": "plot.xianni-1148-manhuang-dalu-beast-souls",
         "seq": 1063
       }
+    ],
+    "能力": [
+      {
+        "value": "身与星雾融为一体",
+        "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
+        "seq": 1077
+      },
+      {
+        "value": "潜修天道规则",
+        "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
+        "seq": 1077
+      }
+    ],
+    "等级": [
+      {
+        "value": "云海星域最强凶兽",
+        "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
+        "seq": 1077
+      }
     ]
   },
   "firstSeq": 1063,
   "attrProvenance": {
     "栖息地": {
       "asOf": null,
-      "docId": "plot.xianni-1148-manhuang-dalu-beast-souls",
+      "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
       "dated": false,
-      "seq": 1063
+      "seq": 1077
     },
     "外形": {
       "asOf": null,
       "docId": "plot.xianni-1148-manhuang-dalu-beast-souls",
       "dated": false,
       "seq": 1063
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
+      "dated": false,
+      "seq": 1077
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
+      "dated": false,
+      "seq": 1077
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1148-manhuang-dalu-beast-souls"
+    "plot.xianni-1148-manhuang-dalu-beast-souls",
+    "plot.xianni-1160-li-qianmei-gushen-dujie"
   ],
-  "updatedAt": "2026-08-24T18:36:46.772Z"
+  "updatedAt": "2026-08-24T19:50:31.873Z"
 }

@@ -12,12 +12,12 @@
   ],
   "summary": "归元宗南苑内的药院，王林与孙芸的居所，院内种植比寻常花草坚韧的药草。",
   "attributes": {
-    "类型": "药园、宗门药园、宗门药院、药院",
+    "类型": "药园、宗门药园、宗门药院、药院、宗门院落",
     "所属势力": "归元宗",
     "方位": "归元宗南苑",
-    "特产": "药草",
-    "上级区域": "归元宗",
-    "守护": "孙芸与其师尊"
+    "特产": "王林带回的药草",
+    "上级区域": "归元宗南苑",
+    "守护": "禁制封锁（南苑禁区）"
   },
   "observations": {
     "类型": [
@@ -40,6 +40,11 @@
         "value": "药院",
         "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
         "seq": 1073
+      },
+      {
+        "value": "宗门院落",
+        "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
+        "seq": 1077
       }
     ],
     "所属势力": [
@@ -61,6 +66,11 @@
         "value": "药草",
         "docId": "plot.xianni-ch1141-lv-yanfei",
         "seq": 1058
+      },
+      {
+        "value": "王林带回的药草",
+        "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
+        "seq": 1077
       }
     ],
     "上级区域": [
@@ -68,6 +78,11 @@
         "value": "归元宗",
         "docId": "plot.xianni-1146-tianni-second-perfection-hope",
         "seq": 1063
+      },
+      {
+        "value": "归元宗南苑",
+        "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
+        "seq": 1077
       }
     ],
     "守护": [
@@ -75,6 +90,11 @@
         "value": "孙芸与其师尊",
         "docId": "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai",
         "seq": 1063
+      },
+      {
+        "value": "禁制封锁（南苑禁区）",
+        "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
+        "seq": 1077
       }
     ]
   },
@@ -100,21 +120,21 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-ch1141-lv-yanfei",
+      "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
       "dated": false,
-      "seq": 1058
+      "seq": 1077
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-1146-tianni-second-perfection-hope",
+      "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
       "dated": false,
-      "seq": 1063
+      "seq": 1077
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai",
+      "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
       "dated": false,
-      "seq": 1063
+      "seq": 1077
     }
   },
   "contested": false,
@@ -124,7 +144,8 @@
     "plot.xianni-1145-a-single-hair-lu-di-slain",
     "plot.xianni-1146-tianni-second-perfection-hope",
     "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai",
-    "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain"
+    "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
+    "plot.xianni-1160-li-qianmei-gushen-dujie"
   ],
-  "updatedAt": "2026-08-24T19:02:33.269Z"
+  "updatedAt": "2026-08-24T19:50:31.858Z"
 }
