@@ -4,12 +4,15 @@
   "name": "五毒门",
   "aliases": [
     "Wudu Men",
-    "五毒门势力"
+    "五毒门势力",
+    "Wu Du Men",
+    "五毒门修士"
   ],
   "summary": "六阶星域势力，擅毒与死魂阵法；毒婆子出自该门，为夺破天宗玉简与涅空丹丹方围困施洛刑。",
   "attributes": {
     "等级": "六阶星域势力",
-    "理念": "用毒、死魂阵法"
+    "理念": "用毒、死魂阵法、毒修",
+    "据点": "蛮荒大陆中心山谷"
   },
   "observations": {
     "等级": [
@@ -29,6 +32,19 @@
         "value": "死魂阵法",
         "docId": "plot.xianni-ch1150-jingbian-manhuang-dalu-liuxing-shouchao",
         "seq": 1068
+      },
+      {
+        "value": "毒修",
+        "docId": "plot.xianni-1151-lai-de-hao-kuai-heiyuan-yaocao-wudumen",
+        "seq": 1068
+      }
+    ],
+    "据点": [
+      {
+        "value": "蛮荒大陆中心山谷",
+        "docId": "plot.xianni-1151-lai-de-hao-kuai-heiyuan-yaocao-wudumen",
+        "seq": 1068,
+        "note": "本章临时办事之地"
       }
     ]
   },
@@ -45,12 +61,20 @@
       "docId": "plot.xianni-ch1150-jingbian-manhuang-dalu-liuxing-shouchao",
       "dated": false,
       "seq": 1068
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.xianni-1151-lai-de-hao-kuai-heiyuan-yaocao-wudumen",
+      "dated": false,
+      "seq": 1068,
+      "note": "本章临时办事之地"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1150-jingbian-manhuang-dalu-liuxing-shouchao"
+    "plot.xianni-ch1150-jingbian-manhuang-dalu-liuxing-shouchao",
+    "plot.xianni-1151-lai-de-hao-kuai-heiyuan-yaocao-wudumen"
   ],
-  "updatedAt": "2026-08-24T18:46:05.799Z"
+  "updatedAt": "2026-08-24T18:49:01.511Z"
 }
