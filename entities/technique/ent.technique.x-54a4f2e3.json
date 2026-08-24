@@ -4,13 +4,14 @@
   "name": "天运之术",
   "aliases": [
     "奉天承运",
-    "开六道封印"
+    "开六道封印",
+    "天运术"
   ],
   "summary": "天运子一生法术神通之大成，上万年未施展；幻化蔓延无数万里的黑白虚幻罗盘，可天地逆转、颠倒乾坤，并可开六道封印令罗盘暴涨。",
   "attributes": {
     "出处": "天运子",
-    "效果": "幻化巨大虚幻罗盘、天地逆转颠倒乾坤、推演计算破解之法、开六道封印使罗盘暴增",
-    "修炼条件": "非万不得已罕有资格者令其施展",
+    "效果": "幻化巨大虚幻罗盘、天地逆转颠倒乾坤、推演计算破解之法、开六道封印使罗盘暴增、与天地沟通、换取并驱使无形规则",
+    "修炼条件": "依赖外在天地元力",
     "外显异象": "长空震颤、云层消散、罗盘大过天运星十倍"
   },
   "observations": {
@@ -41,6 +42,11 @@
         "value": "开六道封印使罗盘暴增",
         "docId": "plot.xianni-ch975-jingle-tianni-reopens-tianyunzi-crisis",
         "seq": 909
+      },
+      {
+        "value": "与天地沟通、换取并驱使无形规则",
+        "docId": "plot.xianni-ch1080-bu-xu-ta-jiu-mubingmei-vs-tianyunzi",
+        "seq": 997
       }
     ],
     "修炼条件": [
@@ -49,6 +55,12 @@
         "docId": "plot.xianni-ch975-jingle-tianni-reopens-tianyunzi-crisis",
         "seq": 909,
         "note": "上万年未曾使用"
+      },
+      {
+        "value": "依赖外在天地元力",
+        "docId": "plot.xianni-ch1080-bu-xu-ta-jiu-mubingmei-vs-tianyunzi",
+        "seq": 997,
+        "note": "被木冰眉封锁外在元力后即失效"
       }
     ],
     "外显异象": [
@@ -75,10 +87,10 @@
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.xianni-ch975-jingle-tianni-reopens-tianyunzi-crisis",
+      "docId": "plot.xianni-ch1080-bu-xu-ta-jiu-mubingmei-vs-tianyunzi",
       "dated": false,
-      "seq": 909,
-      "note": "上万年未曾使用"
+      "seq": 997,
+      "note": "被木冰眉封锁外在元力后即失效"
     },
     "外显异象": {
       "asOf": null,
@@ -90,7 +102,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch975-jingle-tianni-reopens-tianyunzi-crisis"
+    "plot.xianni-ch975-jingle-tianni-reopens-tianyunzi-crisis",
+    "plot.xianni-ch1080-bu-xu-ta-jiu-mubingmei-vs-tianyunzi"
   ],
-  "updatedAt": "2026-08-24T00:46:11.995Z"
+  "updatedAt": "2026-08-24T12:11:09.347Z"
 }
