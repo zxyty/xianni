@@ -4,14 +4,15 @@
   "name": "墨流分神术",
   "aliases": [
     "墨流分神之术",
-    "墨流分神"
+    "墨流分神",
+    "涂司的分神术"
   ],
   "summary": "涂司所修的分神／神通之术，修炼中分离出一丝魔念即拓森；被指为练不成的神通之术。",
   "attributes": {
-    "出处": "古神涂司所修",
+    "出处": "古神涂司",
     "外显异象": "修炼产生魔念（拓森）",
     "效果": "分神；被涂司用于冲击九星古神",
-    "修炼条件": "极为凶险，需冒险修炼"
+    "修炼条件": "古神；涂司施展失败"
   },
   "observations": {
     "出处": [
@@ -24,6 +25,11 @@
         "value": "古神涂司所修",
         "docId": "plot.xianni-ch1134-tuosen-appears-blood-dragon-heart-blood",
         "seq": 1049
+      },
+      {
+        "value": "古神涂司",
+        "docId": "plot.xianni-1193-blood-battle-cang-song-zi",
+        "seq": 1110
       }
     ],
     "外显异象": [
@@ -50,6 +56,11 @@
         "value": "极为凶险，需冒险修炼",
         "docId": "plot.xianni-ch1157-yi-sun-liang-jie-gu-jie",
         "seq": 1073
+      },
+      {
+        "value": "古神；涂司施展失败",
+        "docId": "plot.xianni-1193-blood-battle-cang-song-zi",
+        "seq": 1110
       }
     ]
   },
@@ -57,9 +68,9 @@
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch1134-tuosen-appears-blood-dragon-heart-blood",
+      "docId": "plot.xianni-1193-blood-battle-cang-song-zi",
       "dated": false,
-      "seq": 1049
+      "seq": 1110
     },
     "外显异象": {
       "asOf": null,
@@ -75,9 +86,9 @@
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.xianni-ch1157-yi-sun-liang-jie-gu-jie",
+      "docId": "plot.xianni-1193-blood-battle-cang-song-zi",
       "dated": false,
-      "seq": 1073
+      "seq": 1110
     }
   },
   "contested": false,
@@ -85,7 +96,8 @@
   "docs": [
     "plot.xianni-ch194-blood-sea-seal-opening",
     "plot.xianni-ch1134-tuosen-appears-blood-dragon-heart-blood",
-    "plot.xianni-ch1157-yi-sun-liang-jie-gu-jie"
+    "plot.xianni-ch1157-yi-sun-liang-jie-gu-jie",
+    "plot.xianni-1193-blood-battle-cang-song-zi"
   ],
-  "updatedAt": "2026-08-24T19:04:44.336Z"
+  "updatedAt": "2026-08-24T22:59:41.952Z"
 }
