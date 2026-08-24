@@ -3,12 +3,15 @@
   "type": "person",
   "name": "卢海",
   "aliases": [
-    "红系卢海"
+    "红系卢海",
+    "紫道宗少宗主",
+    "紫道宗少宗主卢海"
   ],
   "summary": "天运宗红系同门，自我封印隐匿修为，解开封印后修为立刻为阳实巅峰。",
   "attributes": {
-    "身份": "天运宗红系弟子",
-    "小阶段": "阳实巅峰"
+    "身份": "紫道宗少宗主",
+    "小阶段": "阳实巅峰",
+    "性别": "男"
   },
   "observations": {
     "身份": [
@@ -16,6 +19,11 @@
         "value": "天运宗红系弟子",
         "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
         "seq": 895
+      },
+      {
+        "value": "紫道宗少宗主",
+        "docId": "plot.xianni-ch1141-lv-yanfei",
+        "seq": 1058
       }
     ],
     "小阶段": [
@@ -25,15 +33,22 @@
         "seq": 895,
         "note": "解开封印后的真实修为"
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch1141-lv-yanfei",
+        "seq": 1058
+      }
     ]
   },
   "firstSeq": 895,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
+      "docId": "plot.xianni-ch1141-lv-yanfei",
       "dated": false,
-      "seq": 895
+      "seq": 1058
     },
     "小阶段": {
       "asOf": null,
@@ -41,12 +56,19 @@
       "dated": false,
       "seq": 895,
       "note": "解开封印后的真实修为"
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1141-lv-yanfei",
+      "dated": false,
+      "seq": 1058
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo"
+    "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
+    "plot.xianni-ch1141-lv-yanfei"
   ],
-  "updatedAt": "2026-08-23T23:30:36.595Z"
+  "updatedAt": "2026-08-24T18:13:15.765Z"
 }

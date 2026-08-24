@@ -4,12 +4,15 @@
   "name": "主宗",
   "aliases": [
     "云海主宗",
-    "归元宗主宗"
+    "归元宗主宗",
+    "云海星域主宗",
+    "上级主宗"
   ],
   "summary": "归元宗之上的宗门，曾在八阶灵元宗一行中吸走归元宗掌门全部寿元，并因紫道宗潜入联盟星域之事迁怒归元宗。",
   "attributes": {
     "等级": "凌驾诸分宗",
-    "所属界面": "云海星域"
+    "所属界面": "云海星域",
+    "理念": "偏袒紫道宗"
   },
   "observations": {
     "等级": [
@@ -24,6 +27,14 @@
         "value": "云海星域",
         "docId": "plot.xianni-1138-yu-guiyuanzong-zeling",
         "seq": 1054
+      }
+    ],
+    "理念": [
+      {
+        "value": "偏袒紫道宗",
+        "docId": "plot.xianni-ch1141-lv-yanfei",
+        "seq": 1058,
+        "note": "吕烟菲之言"
       }
     ]
   },
@@ -40,12 +51,20 @@
       "docId": "plot.xianni-1138-yu-guiyuanzong-zeling",
       "dated": false,
       "seq": 1054
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1141-lv-yanfei",
+      "dated": false,
+      "seq": 1058,
+      "note": "吕烟菲之言"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1138-yu-guiyuanzong-zeling"
+    "plot.xianni-1138-yu-guiyuanzong-zeling",
+    "plot.xianni-ch1141-lv-yanfei"
   ],
-  "updatedAt": "2026-08-24T18:01:50.360Z"
+  "updatedAt": "2026-08-24T18:13:15.773Z"
 }

@@ -3,13 +3,15 @@
   "type": "person",
   "name": "吕烟菲的师尊",
   "aliases": [
-    "归元宗净涅圆满长老"
+    "归元宗净涅圆满长老",
+    "归元宗归墟的师尊"
   ],
   "summary": "净涅圆满修为，曾以修为震慑觊觎吕烟菲者；已归墟，导致归元宗进入最弱时期，留有紫目莽。",
   "attributes": {
     "小阶段": "净涅圆满",
-    "存殁": "归墟（身死道消）",
-    "身份": "归元宗高层"
+    "存殁": "归墟（身死道消）、死亡",
+    "身份": "归元宗高层、归元宗前辈、吕烟菲之师",
+    "死因": "归墟身陨，吕烟菲认定为紫道宗所害"
   },
   "observations": {
     "小阶段": [
@@ -24,6 +26,11 @@
         "value": "归墟（身死道消）",
         "docId": "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
         "seq": 1058
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch1141-lv-yanfei",
+        "seq": 1058
       }
     ],
     "身份": [
@@ -31,6 +38,19 @@
         "value": "归元宗高层",
         "docId": "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
         "seq": 1058
+      },
+      {
+        "value": "归元宗前辈、吕烟菲之师",
+        "docId": "plot.xianni-ch1141-lv-yanfei",
+        "seq": 1058
+      }
+    ],
+    "死因": [
+      {
+        "value": "归墟身陨，吕烟菲认定为紫道宗所害",
+        "docId": "plot.xianni-ch1141-lv-yanfei",
+        "seq": 1058,
+        "note": "本章为吕烟菲追述"
       }
     ]
   },
@@ -53,12 +73,20 @@
       "docId": "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
       "dated": false,
       "seq": 1058
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1141-lv-yanfei",
+      "dated": false,
+      "seq": 1058,
+      "note": "本章为吕烟菲追述"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1140-guiyuan-zong-lv-yanfei"
+    "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
+    "plot.xianni-ch1141-lv-yanfei"
   ],
-  "updatedAt": "2026-08-24T18:10:28.254Z"
+  "updatedAt": "2026-08-24T18:13:15.764Z"
 }

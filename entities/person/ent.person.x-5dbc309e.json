@@ -8,16 +8,18 @@
     "归元宗吕烟菲长老",
     "吕烟菲师尊",
     "红衫女子",
-    "玉罗刹"
+    "玉罗刹",
+    "烟菲"
   ],
   "summary": "归元宗四大长老中唯一的女性，本章从三十一名凡人中挑走七人，其中包括化名「曾牛」的王林。",
   "attributes": {
     "性别": "女",
-    "身份": "归元宗长老（收有三名女弟子）",
+    "身份": "归元宗四大长老之一、归元宗长老（收有三名女弟子）、归元宗大神通修士",
     "称号": "归元宗第一美女",
     "小阶段": "窥涅后期大圆满",
-    "外貌": "一袭红衫、秀发散开、面色略白、眉目含悲，煞气起时如玉罗刹",
-    "性格": "隐忍、决绝、煞气深重"
+    "外貌": "一袭红衫、秀发散开、面色略白、眉目含悲，煞气起时如玉罗刹、一身红衣、黑发散开、面孔略显苍白，娇艳而孤独",
+    "性格": "隐忍、决绝、煞气深重、冷淡孤傲，内心苦涩坚定",
+    "存殁": "存活"
   },
   "observations": {
     "性别": [
@@ -36,6 +38,11 @@
       {
         "value": "归元宗长老（收有三名女弟子）",
         "docId": "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
+        "seq": 1058
+      },
+      {
+        "value": "归元宗大神通修士",
+        "docId": "plot.xianni-ch1141-lv-yanfei",
         "seq": 1058
       }
     ],
@@ -63,12 +70,29 @@
         "value": "一袭红衫、秀发散开、面色略白、眉目含悲，煞气起时如玉罗刹",
         "docId": "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
         "seq": 1058
+      },
+      {
+        "value": "一身红衣、黑发散开、面孔略显苍白，娇艳而孤独",
+        "docId": "plot.xianni-ch1141-lv-yanfei",
+        "seq": 1058
       }
     ],
     "性格": [
       {
         "value": "隐忍、决绝、煞气深重",
         "docId": "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
+        "seq": 1058
+      },
+      {
+        "value": "冷淡孤傲，内心苦涩坚定",
+        "docId": "plot.xianni-ch1141-lv-yanfei",
+        "seq": 1058
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch1141-lv-yanfei",
         "seq": 1058
       }
     ]
@@ -83,9 +107,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
+      "docId": "plot.xianni-1139-zeng-niu-mo-luo-gui-yuan-zong",
       "dated": false,
-      "seq": 1058
+      "seq": 1054
     },
     "称号": {
       "asOf": null,
@@ -110,13 +134,20 @@
       "docId": "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
       "dated": false,
       "seq": 1058
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1141-lv-yanfei",
+      "dated": false,
+      "seq": 1058
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1139-zeng-niu-mo-luo-gui-yuan-zong",
-    "plot.xianni-ch1140-guiyuan-zong-lv-yanfei"
+    "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
+    "plot.xianni-ch1141-lv-yanfei"
   ],
-  "updatedAt": "2026-08-24T18:10:28.252Z"
+  "updatedAt": "2026-08-24T18:13:15.762Z"
 }

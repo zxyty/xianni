@@ -2,10 +2,13 @@
   "id": "ent.pill.x-5d604219",
   "type": "pill",
   "name": "入死离魂丹",
-  "aliases": [],
+  "aliases": [
+    "离魂丹"
+  ],
   "summary": "孙芸备下的退路丹药，其效果被形容为可怕；若冲击阳实失败便唯有服下。",
   "attributes": {
-    "副作用": "可怕（孙芸想到便深吸口气）"
+    "副作用": "可怕（孙芸想到便深吸口气）",
+    "功效": "助冲击境界，疑与魂力相关"
   },
   "observations": {
     "副作用": [
@@ -13,6 +16,14 @@
         "value": "可怕（孙芸想到便深吸口气）",
         "docId": "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
         "seq": 1058
+      }
+    ],
+    "功效": [
+      {
+        "value": "助冲击境界，疑与魂力相关",
+        "docId": "plot.xianni-ch1141-lv-yanfei",
+        "seq": 1058,
+        "note": "本章未言明，服用被中止"
       }
     ]
   },
@@ -23,12 +34,20 @@
       "docId": "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
       "dated": false,
       "seq": 1058
+    },
+    "功效": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1141-lv-yanfei",
+      "dated": false,
+      "seq": 1058,
+      "note": "本章未言明，服用被中止"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1140-guiyuan-zong-lv-yanfei"
+    "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
+    "plot.xianni-ch1141-lv-yanfei"
   ],
-  "updatedAt": "2026-08-24T18:10:28.302Z"
+  "updatedAt": "2026-08-24T18:13:15.779Z"
 }

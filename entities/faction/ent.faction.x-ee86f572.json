@@ -3,11 +3,13 @@
   "type": "faction",
   "name": "紫道宗",
   "aliases": [
-    "Zi Dao Zong"
+    "Zi Dao Zong",
+    "紫道"
   ],
   "summary": "云海宗派，曾在莫罗大陆布置阵法、暗中进入联盟星域；其行动导致主宗迁怒归元宗。",
   "attributes": {
-    "所属界面": "云海星域"
+    "所属界面": "云海星域",
+    "阵营": "归元宗之敌"
   },
   "observations": {
     "所属界面": [
@@ -15,6 +17,13 @@
         "value": "云海星域",
         "docId": "plot.xianni-1138-yu-guiyuanzong-zeling",
         "seq": 1054
+      }
+    ],
+    "阵营": [
+      {
+        "value": "归元宗之敌",
+        "docId": "plot.xianni-ch1141-lv-yanfei",
+        "seq": 1058
       }
     ]
   },
@@ -25,12 +34,19 @@
       "docId": "plot.xianni-1138-yu-guiyuanzong-zeling",
       "dated": false,
       "seq": 1054
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1141-lv-yanfei",
+      "dated": false,
+      "seq": 1058
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1138-yu-guiyuanzong-zeling"
+    "plot.xianni-1138-yu-guiyuanzong-zeling",
+    "plot.xianni-ch1141-lv-yanfei"
   ],
-  "updatedAt": "2026-08-24T18:01:50.361Z"
+  "updatedAt": "2026-08-24T18:13:15.772Z"
 }
