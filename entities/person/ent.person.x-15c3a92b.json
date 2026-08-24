@@ -4,18 +4,25 @@
   "name": "司马墨",
   "aliases": [
     "Sima Mo",
-    "司马师兄"
+    "司马师兄",
+    "破天宗掌门大弟子司马墨"
   ],
   "summary": "其遗留玉简的现世引发多星域追索；被破天宗雕像内老者称作「司马师兄」，当年似与其师尊之决断有关。",
   "attributes": {
-    "身份": "破天宗溃烂老者的师兄",
-    "存殁": "未明（本章仅被追忆提及）"
+    "身份": "破天宗溃烂老者的师兄、破天宗掌门大弟子",
+    "存殁": "未明（本章仅被追忆提及）",
+    "结局": "率部分裂出走后音讯全无"
   },
   "observations": {
     "身份": [
       {
         "value": "破天宗溃烂老者的师兄",
         "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
+        "seq": 1077
+      },
+      {
+        "value": "破天宗掌门大弟子",
+        "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
         "seq": 1077
       }
     ],
@@ -24,6 +31,14 @@
         "value": "未明（本章仅被追忆提及）",
         "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
         "seq": 1077
+      }
+    ],
+    "结局": [
+      {
+        "value": "率部分裂出走后音讯全无",
+        "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
+        "seq": 1077,
+        "note": "一万八千年前，其部众死伤惨重"
       }
     ]
   },
@@ -40,12 +55,20 @@
       "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
       "dated": false,
       "seq": 1077
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
+      "dated": false,
+      "seq": 1077,
+      "note": "一万八千年前，其部众死伤惨重"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1160-li-qianmei-gushen-dujie"
+    "plot.xianni-1160-li-qianmei-gushen-dujie",
+    "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian"
   ],
-  "updatedAt": "2026-08-24T19:50:31.849Z"
+  "updatedAt": "2026-08-24T19:58:24.780Z"
 }

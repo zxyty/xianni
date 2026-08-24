@@ -15,13 +15,16 @@
     "巨大兽骨",
     "煞气兽骨",
     "兽骨丹方",
-    "兽骨上的丹方"
+    "兽骨上的丹方",
+    "刻有涅空丹丹方的兽骨",
+    "凶兽之骨"
   ],
   "summary": "天运子身旁数枚极为光亮、弥漫邪异气息的漆黑兽骨，抖散于地用以卜算王林的机运。",
   "attributes": {
-    "类型": "丹方",
-    "用途": "炼丹方剂",
-    "稀有度": "云海星域永恒隐秘级"
+    "类型": "丹方载体 / 炼丹药引",
+    "用途": "炼制涅空丹的必需引子",
+    "稀有度": "云海星域永恒隐秘级",
+    "产地": "不明凶兽之骨"
   },
   "observations": {
     "类型": [
@@ -44,6 +47,11 @@
         "value": "丹方",
         "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
         "seq": 1073
+      },
+      {
+        "value": "丹方载体 / 炼丹药引",
+        "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
+        "seq": 1077
       }
     ],
     "用途": [
@@ -66,6 +74,11 @@
         "value": "炼丹方剂",
         "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
         "seq": 1073
+      },
+      {
+        "value": "炼制涅空丹的必需引子",
+        "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
+        "seq": 1077
       }
     ],
     "稀有度": [
@@ -79,27 +92,42 @@
         "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
         "seq": 1068
       }
+    ],
+    "产地": [
+      {
+        "value": "不明凶兽之骨",
+        "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
+        "seq": 1077,
+        "note": "王林不知是何种凶兽；此前已被人炼制数次均失败"
+      }
     ]
   },
   "firstSeq": 496,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
+      "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
       "dated": false,
-      "seq": 1073
+      "seq": 1077
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
+      "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
       "dated": false,
-      "seq": 1073
+      "seq": 1077
     },
     "稀有度": {
       "asOf": null,
       "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
       "dated": false,
       "seq": 1068
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
+      "dated": false,
+      "seq": 1077,
+      "note": "王林不知是何种凶兽；此前已被人炼制数次均失败"
     }
   },
   "contested": false,
@@ -112,7 +140,8 @@
     "plot.xianni-ch776-thousand-zhang-forbidden-zone-tang-yanyun-death",
     "plot.xianni-ch796-shixiong-qingshui-yanleizi-departure",
     "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
-    "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain"
+    "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
+    "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian"
   ],
-  "updatedAt": "2026-08-24T19:02:33.276Z"
+  "updatedAt": "2026-08-24T19:58:24.784Z"
 }

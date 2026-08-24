@@ -559,3 +559,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T19:06:35.041Z** `ingest` plot.xianni-1158-chong-ning-shen-gu — 第1158章 重凝神骨——王林本尊硬抗骨劫，抽空莫罗大陆元力重铸古神之骨 · kind=plot asOf=2026-08-24 entities=14 relations=19 src=01073-01076.p4.md
 - **2026-08-24T19:43:24.968Z** `ingest` plot.xianni-1159-bone-flesh-tribulation-beast-slaughter — 仙逆 第1159章 威！——肉劫降临与莫罗大陆屠凶兽夺生机 · kind=plot asOf=2026-08-24 entities=17 relations=27 src=01077-01081.p1.md
 - **2026-08-24T19:50:32.175Z** `ingest` plot.xianni-1160-li-qianmei-gushen-dujie — 第1160章 李倩梅——王林屠尽莫罗大陆凶兽，本尊渡过一损二劫成六星古神 · kind=plot asOf=2026-08-24 entities=44 relations=68 src=01077-01081.p2.md
+- **2026-08-24T19:58:25.119Z** `ingest` plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian — 第1161章 吞丹茫道：兽骨丹方研究与破天宗司马墨令牌之秘 · kind=plot asOf=2026-08-24 entities=47 relations=76 src=01077-01081.p3.md

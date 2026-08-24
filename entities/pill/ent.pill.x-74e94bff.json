@@ -5,13 +5,16 @@
   "aliases": [
     "Nie Kong Dan",
     "涅空丹药",
-    "传说中的涅空丹"
+    "传说中的涅空丹",
+    "兽骨丹方之丹"
   ],
   "summary": "传说中存在的丹药，其丹方引发六阶星域多派争夺。",
   "attributes": {
-    "适用境界": "涅字辈境界（推测，文中未明）、碎涅后期大圆满／面临天人衰劫的大神通修士",
-    "功效": "一成把握规则化本源、成为修道第三步、五成把握度过天人一次衰劫、八成把握进入神之始境",
-    "品阶": "传说级"
+    "适用境界": "涅字辈境界（推测，文中未明）、碎涅后期大圆满／面临天人衰劫的大神通修士、不明",
+    "功效": "一成把握规则化本源、成为修道第三步、五成把握度过天人一次衰劫、八成把握进入神之始境、丹方所载功效真伪未定",
+    "品阶": "传说级",
+    "主料": "星变木、龙腥草、碎灭花、九只十三阶巅峰凶兽之魂、刻有丹方的兽骨",
+    "炼制者": "王林"
   },
   "observations": {
     "适用境界": [
@@ -24,6 +27,11 @@
         "value": "碎涅后期大圆满／面临天人衰劫的大神通修士",
         "docId": "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan",
         "seq": 1068
+      },
+      {
+        "value": "不明",
+        "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
+        "seq": 1077
       }
     ],
     "功效": [
@@ -41,6 +49,12 @@
         "value": "八成把握进入神之始境",
         "docId": "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan",
         "seq": 1068
+      },
+      {
+        "value": "丹方所载功效真伪未定",
+        "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
+        "seq": 1077,
+        "note": "王林认为即便只有一丝可能为真也要一试"
       }
     ],
     "品阶": [
@@ -48,6 +62,41 @@
         "value": "传说级",
         "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
         "seq": 1068
+      }
+    ],
+    "主料": [
+      {
+        "value": "星变木",
+        "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
+        "seq": 1077
+      },
+      {
+        "value": "龙腥草",
+        "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
+        "seq": 1077
+      },
+      {
+        "value": "碎灭花",
+        "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
+        "seq": 1077
+      },
+      {
+        "value": "九只十三阶巅峰凶兽之魂",
+        "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
+        "seq": 1077
+      },
+      {
+        "value": "刻有丹方的兽骨",
+        "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
+        "seq": 1077
+      }
+    ],
+    "炼制者": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
+        "seq": 1077,
+        "note": "本章尚在准备阶段，未成丹"
       }
     ]
   },
@@ -70,6 +119,19 @@
       "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
       "dated": false,
       "seq": 1068
+    },
+    "主料": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
+      "dated": false,
+      "seq": 1077
+    },
+    "炼制者": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
+      "dated": false,
+      "seq": 1077,
+      "note": "本章尚在准备阶段，未成丹"
     }
   },
   "contested": false,
@@ -77,7 +139,8 @@
   "docs": [
     "plot.xianni-ch1150-jingbian-manhuang-dalu-liuxing-shouchao",
     "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan",
-    "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong"
+    "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
+    "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian"
   ],
-  "updatedAt": "2026-08-24T18:57:10.882Z"
+  "updatedAt": "2026-08-24T19:58:24.783Z"
 }

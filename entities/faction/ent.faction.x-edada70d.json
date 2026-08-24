@@ -7,14 +7,16 @@
     "五毒门势力",
     "Wu Du Men",
     "五毒门修士",
-    "五毒门宗派"
+    "五毒门宗派",
+    "五毒宗"
   ],
   "summary": "六阶星域势力，擅毒与死魂阵法；毒婆子出自该门，为夺破天宗玉简与涅空丹丹方围困施洛刑。",
   "attributes": {
     "等级": "六阶星域势力",
-    "理念": "用毒、死魂阵法、毒修、以毒杀伐",
+    "理念": "用毒、死魂阵法、毒修、以毒杀伐、炼毒、炼毒与炼兽魂之术",
     "据点": "蛮荒大陆中心山谷",
-    "阵营": "被误指为凶手"
+    "阵营": "被误指为凶手",
+    "所属界面": "云海星域"
   },
   "observations": {
     "等级": [
@@ -44,6 +46,16 @@
         "value": "以毒杀伐",
         "docId": "plot.xianni-ch1152-shan-gu-zhi-nei",
         "seq": 1068
+      },
+      {
+        "value": "炼毒",
+        "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
+        "seq": 1077
+      },
+      {
+        "value": "炼毒与炼兽魂之术",
+        "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
+        "seq": 1077
       }
     ],
     "据点": [
@@ -60,6 +72,13 @@
         "docId": "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
         "seq": 1073,
         "note": "实为王林所为"
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "云海星域",
+        "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
+        "seq": 1077
       }
     ]
   },
@@ -90,6 +109,12 @@
       "dated": false,
       "seq": 1073,
       "note": "实为王林所为"
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
+      "dated": false,
+      "seq": 1077
     }
   },
   "contested": false,
@@ -101,7 +126,8 @@
     "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan",
     "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
     "plot.xianni-1155-lianzhan-wanglin-slaughters-huaqing-disciples",
-    "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain"
+    "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
+    "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian"
   ],
-  "updatedAt": "2026-08-24T19:02:33.255Z"
+  "updatedAt": "2026-08-24T19:58:24.819Z"
 }

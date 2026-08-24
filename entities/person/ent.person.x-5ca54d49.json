@@ -6,19 +6,22 @@
     "五毒门毒婆子",
     "干皱老妇人",
     "五毒门老妇人",
-    "被王林所杀的老妇人"
+    "被王林所杀的老妇人",
+    "毒婆",
+    "炼毒老妪"
   ],
   "summary": "五毒门老妇修士，布下八颗骷髅头死魂大阵围困施洛刑，索要破天宗玉简与涅空丹丹方。",
   "attributes": {
     "性别": "女",
-    "身份": "五毒门高手、五毒门修士",
+    "身份": "五毒门高手、五毒门修士、五毒门踏查队带队者、精通炼毒之术的修士",
     "外貌": "皮肤干皱、皮包骨、神色狰狞如厉鬼，双目隐有幽光、满是皱纹的老妇、全身幻化黑鳞、状若人形凶兽",
     "阵营": "五毒门",
     "标志特征": "吹气化毒（赤雾/黑雨）、驱使带鸡冠角小蛇、操控八骷髅阵",
-    "存殁": "死亡、肉身已亡、元神被王林擒住",
+    "存殁": "死亡、肉身已亡、元神被王林擒住、元神未死",
     "死因": "被王林一字定身致毒血反噬，复被黑色长枪贯胸爆开，肉身化血水，元神被收",
     "结局": "元神被王林大袖收走",
-    "小阶段": "净涅中期"
+    "小阶段": "净涅中期",
+    "本命法宝": "六阶巅峰灵蛇（本命灵兽）"
   },
   "observations": {
     "性别": [
@@ -38,6 +41,16 @@
         "value": "五毒门修士",
         "docId": "plot.xianni-ch1152-shan-gu-zhi-nei",
         "seq": 1068
+      },
+      {
+        "value": "五毒门踏查队带队者",
+        "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
+        "seq": 1077
+      },
+      {
+        "value": "精通炼毒之术的修士",
+        "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
+        "seq": 1077
       }
     ],
     "外貌": [
@@ -83,6 +96,12 @@
         "docId": "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan",
         "seq": 1068,
         "note": "王林决意不让其死，以维持『毒婆子独吞丹方潜藏』的假象"
+      },
+      {
+        "value": "元神未死",
+        "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
+        "seq": 1077,
+        "note": "第1068章身死，元神被王林囚禁于储物裂缝，本章搜魂后极度虚弱"
       }
     ],
     "死因": [
@@ -104,6 +123,14 @@
         "value": "净涅中期",
         "docId": "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan",
         "seq": 1068
+      }
+    ],
+    "本命法宝": [
+      {
+        "value": "六阶巅峰灵蛇（本命灵兽）",
+        "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
+        "seq": 1077,
+        "note": "已归王林所有"
       }
     ]
   },
@@ -162,6 +189,13 @@
       "docId": "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan",
       "dated": false,
       "seq": 1068
+    },
+    "本命法宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
+      "dated": false,
+      "seq": 1077,
+      "note": "已归王林所有"
     }
   },
   "contested": false,
@@ -170,7 +204,8 @@
     "plot.xianni-ch1150-jingbian-manhuang-dalu-liuxing-shouchao",
     "plot.xianni-ch1152-shan-gu-zhi-nei",
     "plot.xianni-ch1153-poison-valley-pill-recipe-nie-kong-dan",
-    "plot.xianni-1155-lianzhan-wanglin-slaughters-huaqing-disciples"
+    "plot.xianni-1155-lianzhan-wanglin-slaughters-huaqing-disciples",
+    "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian"
   ],
-  "updatedAt": "2026-08-24T18:59:37.993Z"
+  "updatedAt": "2026-08-24T19:58:24.814Z"
 }
