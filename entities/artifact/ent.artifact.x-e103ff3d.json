@@ -8,7 +8,10 @@
     "持有者": "王林",
     "能力": "移形（强行转移目标与自身位置）、鼎鸣震荡",
     "禁制": "王林分身使用需以当年贪狼的印决",
-    "外形": "幻化数十丈大小的大鼎"
+    "外形": "幻化数十丈大小的大鼎",
+    "品阶": "古神法宝（涂司不满意之作）",
+    "来历": "涂司炼制后随手丢弃",
+    "器灵": "无（气息缺少灵动，单纯器具）"
   },
   "observations": {
     "持有者": [
@@ -43,6 +46,27 @@
         "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
         "seq": 845
       }
+    ],
+    "品阶": [
+      {
+        "value": "古神法宝（涂司不满意之作）",
+        "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
+        "seq": 914
+      }
+    ],
+    "来历": [
+      {
+        "value": "涂司炼制后随手丢弃",
+        "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
+        "seq": 914
+      }
+    ],
+    "器灵": [
+      {
+        "value": "无（气息缺少灵动，单纯器具）",
+        "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
+        "seq": 914
+      }
     ]
   },
   "firstSeq": 845,
@@ -70,12 +94,31 @@
       "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
       "dated": false,
       "seq": 845
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
+      "dated": false,
+      "seq": 914
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
+      "dated": false,
+      "seq": 914
+    },
+    "器灵": {
+      "asOf": null,
+      "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
+      "dated": false,
+      "seq": 914
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch911-sha-yu-jie-kill-yu-fei"
+    "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
+    "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power"
   ],
-  "updatedAt": "2026-08-23T19:35:24.386Z"
+  "updatedAt": "2026-08-24T01:25:19.163Z"
 }

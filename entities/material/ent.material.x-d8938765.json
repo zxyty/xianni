@@ -5,14 +5,15 @@
   "aliases": [
     "冰谷蓝玫瑰",
     "以冰晶为枝的蓝色玫瑰",
-    "一朵蓝色的玫瑰"
+    "一朵蓝色的玫瑰",
+    "红蝶家乡的蓝色玫瑰"
   ],
   "summary": "生于雪域国旧址冰谷内的一朵孤傲蓝色玫瑰，以冰晶为枝，散发香气如少女起舞；被王林摘走。",
   "attributes": {
-    "类型": "灵物/异宝",
-    "产地": "朱雀星极北雪域国旧址冰谷",
+    "类型": "灵物/花",
+    "产地": "红蝶的家乡",
     "稀有度": "唯一一朵",
-    "用途": "被皇冠吸收以增添灵性"
+    "用途": "与皇冠融合"
   },
   "observations": {
     "类型": [
@@ -30,6 +31,11 @@
         "value": "灵物/异宝",
         "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
         "seq": 679
+      },
+      {
+        "value": "灵物/花",
+        "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
+        "seq": 914
       }
     ],
     "产地": [
@@ -37,6 +43,11 @@
         "value": "朱雀星极北雪域国旧址冰谷",
         "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
         "seq": 447
+      },
+      {
+        "value": "红蝶的家乡",
+        "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
+        "seq": 914
       }
     ],
     "稀有度": [
@@ -56,6 +67,11 @@
         "value": "被皇冠吸收以增添灵性",
         "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
         "seq": 679
+      },
+      {
+        "value": "与皇冠融合",
+        "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
+        "seq": 914
       }
     ]
   },
@@ -63,15 +79,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
+      "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
       "dated": false,
-      "seq": 679
+      "seq": 914
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.xianni-ch447-451-farewell-zhuque-star",
+      "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
       "dated": false,
-      "seq": 447
+      "seq": 914
     },
     "稀有度": {
       "asOf": null,
@@ -81,9 +97,9 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch679-683-thunder-star-body-reforge",
+      "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
       "dated": false,
-      "seq": 679
+      "seq": 914
     }
   },
   "contested": false,
@@ -91,7 +107,8 @@
   "docs": [
     "plot.xianni-ch447-451-farewell-zhuque-star",
     "plot.xianni-ch614-617-refine-immortal-guard-dujian",
-    "plot.xianni-ch679-683-thunder-star-body-reforge"
+    "plot.xianni-ch679-683-thunder-star-body-reforge",
+    "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power"
   ],
-  "updatedAt": "2026-08-23T02:00:23.380Z"
+  "updatedAt": "2026-08-24T01:25:19.203Z"
 }

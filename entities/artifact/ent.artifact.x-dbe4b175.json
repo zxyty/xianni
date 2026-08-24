@@ -5,16 +5,20 @@
   "aliases": [
     "青色小盾",
     "Qing Guang Dun",
-    "青龙盾"
+    "青龙盾",
+    "盾牌",
+    "古神盾牌",
+    "巴掌大小的盾",
+    "千丈大盾"
   ],
   "summary": "古神所炼的防护类法器，原为巴掌大小的青色盾牌，被青龙印记与气旋神念双重封印；封印解除后暴涨至近三百丈，显化顶天立地的古神虚影器灵。",
   "attributes": {
-    "品阶": "古神法器",
+    "品阶": "寻常古神中的巅峰之物（非王族法器，略逊于真正的灭神矛）",
     "持有者": "王林",
-    "来历": "太古时期另一位古神祭炼遗留；浮风子杀仇家所获，后归王林",
-    "禁制": "盾侧踏云青龙印记（反震并化出十丈青龙）、印记下的青色气旋（内藏神念，需古神气息方可分离）",
-    "外形": "由巴掌大暴涨至近三百丈，做工粗糙如高墙",
-    "能力": "防护、封印解除后弥漫磅礴威压",
+    "来历": "陌生八星古神的贴身之物",
+    "禁制": "盾侧踏云青龙印记（反震并化出十丈青龙）、印记下的青色气旋（内藏神念，需古神气息方可分离）、只认古神为主；非古神触碰将被暴虐之力所杀，且不敢令其认主",
+    "外形": "巴掌大小、青光缭绕",
+    "能力": "防护、封印解除后弥漫磅礴威压、全开可涨至近千丈、如天地壁垒隔绝阴阳、撞碎敌方神通并吞噬其中天地元力、吸收足够天地之力后可开启封印其中的古神保命神通、解封刹那幻化其主古神之相",
     "器灵": "顶天立地的庞大古神虚影，眉心星点旋转（星数未明）",
     "五行属性": "青色古神之气"
   },
@@ -24,6 +28,11 @@
         "value": "古神法器",
         "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
         "seq": 910
+      },
+      {
+        "value": "寻常古神中的巅峰之物（非王族法器，略逊于真正的灭神矛）",
+        "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
+        "seq": 914
       }
     ],
     "持有者": [
@@ -38,6 +47,11 @@
         "value": "太古时期另一位古神祭炼遗留；浮风子杀仇家所获，后归王林",
         "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
         "seq": 910
+      },
+      {
+        "value": "陌生八星古神的贴身之物",
+        "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
+        "seq": 914
       }
     ],
     "禁制": [
@@ -50,6 +64,11 @@
         "value": "印记下的青色气旋（内藏神念，需古神气息方可分离）",
         "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
         "seq": 910
+      },
+      {
+        "value": "只认古神为主；非古神触碰将被暴虐之力所杀，且不敢令其认主",
+        "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
+        "seq": 914
       }
     ],
     "外形": [
@@ -58,6 +77,12 @@
         "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
         "seq": 910,
         "note": "封印解除后"
+      },
+      {
+        "value": "巴掌大小、青光缭绕",
+        "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
+        "seq": 914,
+        "note": "以古神之语『睇』收缩后；全开时近千丈"
       }
     ],
     "能力": [
@@ -70,6 +95,26 @@
         "value": "封印解除后弥漫磅礴威压",
         "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
         "seq": 910
+      },
+      {
+        "value": "全开可涨至近千丈、如天地壁垒隔绝阴阳",
+        "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
+        "seq": 914
+      },
+      {
+        "value": "撞碎敌方神通并吞噬其中天地元力",
+        "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
+        "seq": 914
+      },
+      {
+        "value": "吸收足够天地之力后可开启封印其中的古神保命神通",
+        "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
+        "seq": 914
+      },
+      {
+        "value": "解封刹那幻化其主古神之相",
+        "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
+        "seq": 914
       }
     ],
     "器灵": [
@@ -91,9 +136,9 @@
   "attrProvenance": {
     "品阶": {
       "asOf": null,
-      "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
+      "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
       "dated": false,
-      "seq": 910
+      "seq": 914
     },
     "持有者": {
       "asOf": null,
@@ -103,9 +148,9 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
+      "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
       "dated": false,
-      "seq": 910
+      "seq": 914
     },
     "禁制": {
       "asOf": null,
@@ -115,10 +160,10 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
+      "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
       "dated": false,
-      "seq": 910,
-      "note": "封印解除后"
+      "seq": 914,
+      "note": "以古神之语『睇』收缩后；全开时近千丈"
     },
     "能力": {
       "asOf": null,
@@ -142,7 +187,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch910-913-lu-zhai-fu-feng-zi"
+    "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
+    "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power"
   ],
-  "updatedAt": "2026-08-24T01:05:17.416Z"
+  "updatedAt": "2026-08-24T01:25:19.161Z"
 }

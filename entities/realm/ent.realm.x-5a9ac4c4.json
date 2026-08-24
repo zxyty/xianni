@@ -5,11 +5,15 @@
   "aliases": [
     "灵力道境",
     "道",
-    "道之境"
+    "道之境",
+    "灵之道",
+    "神之道",
+    "Dao Jing"
   ],
   "summary": "上古灵力三境之一，灵力入此境则化神期指日可见，是上古修炼者最大追求。",
   "attributes": {
-    "阶序": "极、道、始三境之一"
+    "阶序": "极、道、始三境之一",
+    "小阶段": "灵之道、神之道"
   },
   "observations": {
     "阶序": [
@@ -28,6 +32,18 @@
         "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
         "seq": 505
       }
+    ],
+    "小阶段": [
+      {
+        "value": "灵之道",
+        "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
+        "seq": 914
+      },
+      {
+        "value": "神之道",
+        "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
+        "seq": 914
+      }
     ]
   },
   "firstSeq": 76,
@@ -37,6 +53,12 @@
       "docId": "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
       "dated": false,
       "seq": 505
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
+      "dated": false,
+      "seq": 914
     }
   },
   "contested": false,
@@ -44,7 +66,8 @@
   "docs": [
     "plot.xianni-ch091-jiyin-lingli",
     "lore.xianni-ch105-jijing-realm",
-    "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing"
+    "plot.xianni-ch505-509-moqin-heiyi-nanzi-tianyunxing",
+    "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power"
   ],
-  "updatedAt": "2026-08-22T02:15:05.918Z"
+  "updatedAt": "2026-08-24T01:25:19.271Z"
 }
