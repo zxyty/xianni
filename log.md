@@ -454,3 +454,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T09:08:49.350Z** `ingest` plot.xianni-1044-confusion-immortal-emperor-cave-bamboo-forest — 《仙逆》第1044章 迷惑：王林呼风唤雨退人形之物，借玉简地图穿竹林禁制深入仙帝洞府 · kind=plot asOf=2026-08-24 entities=21 relations=28 src=00963-00966.p2.md
 - **2026-08-24T09:11:41.602Z** `ingest` plot.xianni-1045-ci-kong-nie-iron-sword — 第1045章 次空涅——王林破解铁剑锈迹之秘，人形之物脱困逼近 · kind=plot asOf=2026-08-24 entities=24 relations=37 src=00963-00966.p3.md
 - **2026-08-24T09:13:43.312Z** `ingest` plot.xianni-1046-xukongzi-killing-intent — 第1046章 虚空子的杀机——仙帝洞府第一层大殿与碎涅一击 · kind=plot asOf=2026-08-24 entities=20 relations=28 src=00963-00966.p4.md
+- **2026-08-24T09:15:48.203Z** `ingest` plot.xianni-1047-fankang-wanglin-vs-xukongzi — 第1047章 反抗：王林重伤布杀局，以本源之力诱虚空子入局 · kind=plot asOf=2026-08-24 entities=20 relations=21 src=00967-00971.p1.md

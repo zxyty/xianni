@@ -6,14 +6,16 @@
     "洞府中心黑雾",
     "第二层入口",
     "黑雾缭绕的正中心宫殿",
-    "中心宫殿"
+    "中心宫殿",
+    "通往第二层的入口",
+    "大殿雕像入口"
   ],
   "summary": "位于仙帝洞府众阁楼建筑深处、黑雾弥漫中的宫殿，是整个洞府的中心，也是第一层进入第二层的入口。",
   "attributes": {
     "上级区域": "仙帝洞府、仙帝洞府第一层",
     "方位": "洞府中心、仙帝洞府第一层正中心",
-    "类型": "入口/宫殿",
-    "守护": "八处禁眼与黑雾"
+    "类型": "机关式通道",
+    "守护": "两尊雕像"
   },
   "observations": {
     "上级区域": [
@@ -45,6 +47,11 @@
         "value": "入口/宫殿",
         "docId": "plot.xianni-1044-confusion-immortal-emperor-cave-bamboo-forest",
         "seq": 963
+      },
+      {
+        "value": "机关式通道",
+        "docId": "plot.xianni-1047-fankang-wanglin-vs-xukongzi",
+        "seq": 967
       }
     ],
     "守护": [
@@ -52,6 +59,11 @@
         "value": "八处禁眼与黑雾",
         "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
         "seq": 963
+      },
+      {
+        "value": "两尊雕像",
+        "docId": "plot.xianni-1047-fankang-wanglin-vs-xukongzi",
+        "seq": 967
       }
     ]
   },
@@ -71,22 +83,23 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1044-confusion-immortal-emperor-cave-bamboo-forest",
+      "docId": "plot.xianni-1047-fankang-wanglin-vs-xukongzi",
       "dated": false,
-      "seq": 963
+      "seq": 967
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
+      "docId": "plot.xianni-1047-fankang-wanglin-vs-xukongzi",
       "dated": false,
-      "seq": 963
+      "seq": 967
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1044-confusion-immortal-emperor-cave-bamboo-forest",
-    "plot.xianni-1045-ci-kong-nie-iron-sword"
+    "plot.xianni-1045-ci-kong-nie-iron-sword",
+    "plot.xianni-1047-fankang-wanglin-vs-xukongzi"
   ],
-  "updatedAt": "2026-08-24T09:11:41.290Z"
+  "updatedAt": "2026-08-24T09:15:47.784Z"
 }

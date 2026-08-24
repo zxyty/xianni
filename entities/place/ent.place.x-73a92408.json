@@ -5,14 +5,16 @@
   "aliases": [
     "皇宫广场",
     "大殿",
-    "王朝皇城"
+    "王朝皇城",
+    "雕像大殿",
+    "供奉两尊雕像的大殿"
   ],
   "summary": "都城核心，广场上兵士密布、大殿内聚集数百王家族人与众多修士，为本章高潮对峙之地。",
   "attributes": {
     "所属势力": "大王朝",
-    "类型": "凡间都城",
+    "类型": "殿宇／秘境入口",
     "上级区域": "大王朝都城",
-    "守护": "密密麻麻的兵士、众多修士、王族历代家族供奉",
+    "守护": "密密麻麻的兵士、众多修士、王族历代家族供奉、两尊怒视雕像",
     "所属界面": "朱雀星"
   },
   "observations": {
@@ -38,6 +40,11 @@
         "value": "凡间都城",
         "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
         "seq": 839
+      },
+      {
+        "value": "殿宇／秘境入口",
+        "docId": "plot.xianni-1047-fankang-wanglin-vs-xukongzi",
+        "seq": 967
       }
     ],
     "上级区域": [
@@ -62,6 +69,11 @@
         "value": "王族历代家族供奉",
         "docId": "plot.xianni-ch895-wanglin-nu-zhuque-wangchao-yuanling",
         "seq": 834
+      },
+      {
+        "value": "两尊怒视雕像",
+        "docId": "plot.xianni-1047-fankang-wanglin-vs-xukongzi",
+        "seq": 967
       }
     ],
     "所属界面": [
@@ -82,9 +94,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
+      "docId": "plot.xianni-1047-fankang-wanglin-vs-xukongzi",
       "dated": false,
-      "seq": 839
+      "seq": 967
     },
     "上级区域": {
       "asOf": null,
@@ -109,7 +121,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch895-wanglin-nu-zhuque-wangchao-yuanling",
-    "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured"
+    "plot.xianni-ch898-liu-qingyun-fire-corpse-selfdetonation-captured",
+    "plot.xianni-1047-fankang-wanglin-vs-xukongzi"
   ],
-  "updatedAt": "2026-08-23T18:24:26.074Z"
+  "updatedAt": "2026-08-24T09:15:47.784Z"
 }
