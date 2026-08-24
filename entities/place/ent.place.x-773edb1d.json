@@ -10,9 +10,10 @@
   ],
   "summary": "青霖的识海，呈一片波涛汹涌的黑色海洋；王林、王巍、胡娟、周佚被阵法吸入其中，并在此见到暂时复活的青霜。",
   "attributes": {
-    "类型": "识海／内景空间、识海内部空间",
+    "类型": "识海／内景空间、识海内部空间、识海/元神内空间",
     "特产": "黑色海洋、汹涌浪涛与海风、黑色海面、魔气",
-    "危险度": "古魔塔珈盘踞"
+    "危险度": "古魔塔珈盘踞、极高（古魔盘踞）",
+    "守护": "青霖"
   },
   "observations": {
     "类型": [
@@ -24,6 +25,11 @@
       {
         "value": "识海内部空间",
         "docId": "plot.xianni-ch1117-qinglin-chuandao-wanglin-vs-taja",
+        "seq": 1034
+      },
+      {
+        "value": "识海/元神内空间",
+        "docId": "plot.xianni-1119-momo-taja-final-magic-mo-jie",
         "seq": 1034
       }
     ],
@@ -43,6 +49,18 @@
       {
         "value": "古魔塔珈盘踞",
         "docId": "plot.xianni-ch1117-qinglin-chuandao-wanglin-vs-taja",
+        "seq": 1034
+      },
+      {
+        "value": "极高（古魔盘踞）",
+        "docId": "plot.xianni-1119-momo-taja-final-magic-mo-jie",
+        "seq": 1034
+      }
+    ],
+    "守护": [
+      {
+        "value": "青霖",
+        "docId": "plot.xianni-1119-momo-taja-final-magic-mo-jie",
         "seq": 1034
       }
     ]
@@ -66,13 +84,20 @@
       "docId": "plot.xianni-ch1117-qinglin-chuandao-wanglin-vs-taja",
       "dated": false,
       "seq": 1034
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-1119-momo-taja-final-magic-mo-jie",
+      "dated": false,
+      "seq": 1034
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1116-qinglin-revival-formation-wang-blood",
-    "plot.xianni-ch1117-qinglin-chuandao-wanglin-vs-taja"
+    "plot.xianni-ch1117-qinglin-chuandao-wanglin-vs-taja",
+    "plot.xianni-1119-momo-taja-final-magic-mo-jie"
   ],
-  "updatedAt": "2026-08-24T16:04:33.378Z"
+  "updatedAt": "2026-08-24T16:09:23.951Z"
 }
