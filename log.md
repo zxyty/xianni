@@ -476,3 +476,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T10:23:06.989Z** `ingest` plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon — 第1066章 昆虚圣女木冰眉的抉择与古魔塔珈焚天煮海 · kind=plot asOf=2026-08-24 entities=25 relations=45 src=00982-00986.p5.md
 - **2026-08-24T11:13:49.311Z** `ingest` plot.xianni-1067-void-child-first-tribulation-fire-dragon-sacrifice — 《仙逆》第1067章：虚空子强渡天人第一衰、火灵龙自献王林凝聚本源火种 · kind=plot asOf=2026-08-24 entities=20 relations=29 src=00987-00991.p1.md
 - **2026-08-24T11:16:23.447Z** `ingest` plot.xianni-1068-zhuque-second-awakening — 第1068章 朱雀二次觉醒——仙帝洞府七层崩塌 · kind=plot asOf=2026-08-24 entities=27 relations=39 src=00987-00991.p2.md
+- **2026-08-24T11:23:34.801Z** `ingest` plot.xianni-1069-beiluo-yaolingbian-self-detonation — 第1069章：古妖贝罗施「妖灵变」焚村姑美妇、自爆阻塔珈 · kind=plot asOf=2026-08-24 entities=37 relations=71 src=00987-00991.p3.md

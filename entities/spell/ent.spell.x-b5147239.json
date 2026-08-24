@@ -3,12 +3,13 @@
   "type": "spell",
   "name": "火焰朱雀神通",
   "aliases": [
-    "朱雀神通"
+    "朱雀神通",
+    "朱雀嘶鸣"
   ],
   "summary": "王林掐诀燃火幻化的朱雀形火焰神通，可反复冲击，被击碎后火焰能重新凝聚且愈发浓烈，如同不死之魂。",
   "attributes": {
-    "类型": "火属性攻击神通",
-    "威力": "被碎后可反复重凝，火焰一次比一次浓烈"
+    "类型": "火系神通/本命异象",
+    "威力": "引发仙帝洞府自第二层起全面坍塌"
   },
   "observations": {
     "类型": [
@@ -16,6 +17,11 @@
         "value": "火属性攻击神通",
         "docId": "plot.xianni-ch1054-forcing-xukongzi",
         "seq": 972
+      },
+      {
+        "value": "火系神通/本命异象",
+        "docId": "plot.xianni-1069-beiluo-yaolingbian-self-detonation",
+        "seq": 987
       }
     ],
     "威力": [
@@ -23,6 +29,11 @@
         "value": "被碎后可反复重凝，火焰一次比一次浓烈",
         "docId": "plot.xianni-ch1054-forcing-xukongzi",
         "seq": 972
+      },
+      {
+        "value": "引发仙帝洞府自第二层起全面坍塌",
+        "docId": "plot.xianni-1069-beiluo-yaolingbian-self-detonation",
+        "seq": 987
       }
     ]
   },
@@ -30,21 +41,22 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1054-forcing-xukongzi",
+      "docId": "plot.xianni-1069-beiluo-yaolingbian-self-detonation",
       "dated": false,
-      "seq": 972
+      "seq": 987
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-ch1054-forcing-xukongzi",
+      "docId": "plot.xianni-1069-beiluo-yaolingbian-self-detonation",
       "dated": false,
-      "seq": 972
+      "seq": 987
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1054-forcing-xukongzi"
+    "plot.xianni-ch1054-forcing-xukongzi",
+    "plot.xianni-1069-beiluo-yaolingbian-self-detonation"
   ],
-  "updatedAt": "2026-08-24T09:37:59.527Z"
+  "updatedAt": "2026-08-24T11:23:34.510Z"
 }

@@ -19,10 +19,11 @@
     "外貌": "略显年轻的中年美妇，衣着寻常如凡人村姑、村姑打扮的美妇、村姑般的美妇，声音沙哑而动听、村姑装扮的美妇、全身红斑、美丽成熟，搜魂时面泛妖异潮红、粉衣、面色苍白泌香汗",
     "标志特征": "一股出尘气息、扯断发丝化黑色巨蟒，掐诀放五彩之芒化五道利剑、见王林平静目光时露出不敢置信的骇然、曾入昆虚之境、听长者论天下至宝",
     "身份": "昆虚之境长辈（自幼看粉衣女子长大）",
-    "存殁": "存活、昏迷、状若悬死、本章未被王林所杀",
+    "存殁": "存活、昏迷、状若悬死、本章未被王林所杀、死亡",
     "阵营": "虚空子一行",
     "性格": "沉静、不为本源所动、忌惮谨慎",
-    "死因": "身中火毒濒死"
+    "死因": "被古妖贝罗以「妖灵变」作炉鼎，全身血管爆开、形神俱灭",
+    "结局": "血肉与碎裂元神被妖灵符文吸尽，未留遗骸"
   },
   "observations": {
     "性别": [
@@ -132,6 +133,11 @@
         "docId": "plot.xianni-ch1059-immortal-emperor-cave-8th-floor-ancient-demon-palm",
         "seq": 977,
         "note": "被毁去知晓王林隐秘的记忆并暗中留禁制"
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-1069-beiluo-yaolingbian-self-detonation",
+        "seq": 987
       }
     ],
     "阵营": [
@@ -170,6 +176,18 @@
         "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
         "seq": 977,
         "note": "本章由王林出手化解"
+      },
+      {
+        "value": "被古妖贝罗以「妖灵变」作炉鼎，全身血管爆开、形神俱灭",
+        "docId": "plot.xianni-1069-beiluo-yaolingbian-self-detonation",
+        "seq": 987
+      }
+    ],
+    "结局": [
+      {
+        "value": "血肉与碎裂元神被妖灵符文吸尽，未留遗骸",
+        "docId": "plot.xianni-1069-beiluo-yaolingbian-self-detonation",
+        "seq": 987
       }
     ]
   },
@@ -220,10 +238,15 @@
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
+      "docId": "plot.xianni-1069-beiluo-yaolingbian-self-detonation",
       "dated": false,
-      "seq": 977,
-      "note": "本章由王林出手化解"
+      "seq": 987
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-1069-beiluo-yaolingbian-self-detonation",
+      "dated": false,
+      "seq": 987
     }
   },
   "contested": false,
@@ -246,7 +269,8 @@
     "plot.xianni-ch1056-immortal-emperor-cave-layer7-volcano-demon-seal",
     "plot.xianni-1057-volcano-eruption-fire-dragon-swallows-palace",
     "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
-    "plot.xianni-ch1059-immortal-emperor-cave-8th-floor-ancient-demon-palm"
+    "plot.xianni-ch1059-immortal-emperor-cave-8th-floor-ancient-demon-palm",
+    "plot.xianni-1069-beiluo-yaolingbian-self-detonation"
   ],
-  "updatedAt": "2026-08-24T09:49:51.825Z"
+  "updatedAt": "2026-08-24T11:23:34.454Z"
 }
