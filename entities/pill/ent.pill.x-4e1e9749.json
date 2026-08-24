@@ -5,15 +5,17 @@
   "aliases": [
     "归元宗代代相传的丹药",
     "废丹离魂丹",
-    "八阶丹药"
+    "八阶丹药",
+    "八阶丹",
+    "云海八阶丹药"
   ],
   "summary": "归元宗代代相传的八阶离魂丹，因未融入八阶灵兽之魂而为一枚废丹；王林借它验证了云海炼丹的脉络。",
   "attributes": {
     "品阶": "八阶",
     "炼制者": "王林",
     "主料": "需融入八阶灵兽之魂、八阶凶兽之魂、归元宗道观所得丹药",
-    "副作用": "无效废丹",
-    "功效": "借兽魂感悟天道、印证己道"
+    "副作用": "所得意境驳杂不全，需不断吞服方能取得所需意境",
+    "功效": "借兽魂感悟天道、印证己道、蕴含兽魂、借兽魂感悟天道、所得意境可融入自身意境"
   },
   "observations": {
     "品阶": [
@@ -59,6 +61,11 @@
         "docId": "plot.xianni-ch1143-purple-qi-from-west",
         "seq": 1058,
         "note": "缺兽魂，不具应有丹效"
+      },
+      {
+        "value": "所得意境驳杂不全，需不断吞服方能取得所需意境",
+        "docId": "plot.xianni-ch1165-lu-yuncong-bi-bu-liao",
+        "seq": 1082
       }
     ],
     "功效": [
@@ -66,6 +73,21 @@
         "value": "借兽魂感悟天道、印证己道",
         "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
         "seq": 1077
+      },
+      {
+        "value": "蕴含兽魂",
+        "docId": "plot.xianni-ch1165-lu-yuncong-bi-bu-liao",
+        "seq": 1082
+      },
+      {
+        "value": "借兽魂感悟天道",
+        "docId": "plot.xianni-ch1165-lu-yuncong-bi-bu-liao",
+        "seq": 1082
+      },
+      {
+        "value": "所得意境可融入自身意境",
+        "docId": "plot.xianni-ch1165-lu-yuncong-bi-bu-liao",
+        "seq": 1082
       }
     ]
   },
@@ -92,10 +114,9 @@
     },
     "副作用": {
       "asOf": null,
-      "docId": "plot.xianni-ch1143-purple-qi-from-west",
+      "docId": "plot.xianni-ch1165-lu-yuncong-bi-bu-liao",
       "dated": false,
-      "seq": 1058,
-      "note": "缺兽魂，不具应有丹效"
+      "seq": 1082
     },
     "功效": {
       "asOf": null,
@@ -108,7 +129,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1143-purple-qi-from-west",
-    "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian"
+    "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
+    "plot.xianni-ch1165-lu-yuncong-bi-bu-liao"
   ],
-  "updatedAt": "2026-08-24T19:58:24.823Z"
+  "updatedAt": "2026-08-24T20:08:04.886Z"
 }

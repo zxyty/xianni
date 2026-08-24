@@ -5,12 +5,13 @@
   "aliases": [
     "丹方",
     "不祥之物丹方",
-    "丹方与玉简"
+    "丹方与玉简",
+    "神秘修士所得玉简"
   ],
   "summary": "施某储物空间内的两样物品，他认定王林是为此而来，愿以之换取痛快一死。",
   "attributes": {
-    "类型": "丹方",
-    "用途": "炼丹方剂（价值极高，来历不祥）"
+    "类型": "玉简/丹方、丹方、传承之物",
+    "用途": "记载信息与炼丹配方、炼丹方剂（价值极高，来历不祥）、线索：追查神秘修士"
   },
   "observations": {
     "类型": [
@@ -22,6 +23,11 @@
       {
         "value": "丹方",
         "docId": "plot.xianni-1164-three-questions-lu-yuncong-li-qianmei",
+        "seq": 1082
+      },
+      {
+        "value": "传承之物",
+        "docId": "plot.xianni-ch1165-lu-yuncong-bi-bu-liao",
         "seq": 1082
       }
     ],
@@ -35,6 +41,11 @@
         "value": "炼丹方剂（价值极高，来历不祥）",
         "docId": "plot.xianni-1164-three-questions-lu-yuncong-li-qianmei",
         "seq": 1082
+      },
+      {
+        "value": "线索：追查神秘修士",
+        "docId": "plot.xianni-ch1165-lu-yuncong-bi-bu-liao",
+        "seq": 1082
       }
     ]
   },
@@ -42,22 +53,23 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1164-three-questions-lu-yuncong-li-qianmei",
+      "docId": "plot.xianni-ch1152-shan-gu-zhi-nei",
       "dated": false,
-      "seq": 1082
+      "seq": 1068
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-1164-three-questions-lu-yuncong-li-qianmei",
+      "docId": "plot.xianni-ch1152-shan-gu-zhi-nei",
       "dated": false,
-      "seq": 1082
+      "seq": 1068
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1152-shan-gu-zhi-nei",
-    "plot.xianni-1164-three-questions-lu-yuncong-li-qianmei"
+    "plot.xianni-1164-three-questions-lu-yuncong-li-qianmei",
+    "plot.xianni-ch1165-lu-yuncong-bi-bu-liao"
   ],
-  "updatedAt": "2026-08-24T20:05:42.755Z"
+  "updatedAt": "2026-08-24T20:08:04.888Z"
 }

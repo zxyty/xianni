@@ -7,18 +7,19 @@
     "蓝发女子",
     "破天宗李倩梅",
     "九阶破天宗李倩梅",
-    "倩梅"
+    "倩梅",
+    "白衣翠笛女子"
   ],
   "summary": "九阶破天宗修士，云海星域唯一蓝发者，修道一千二百余年达碎涅后期，是破天宗最年轻的碎涅修士，奉师祖之命前往五阶星域寻回司马墨玉简及得玉简之人。",
   "attributes": {
     "性别": "女",
     "小阶段": "碎涅后期",
-    "身份": "九阶破天宗修士",
-    "外貌": "一头蓝发、一身白衣，容颜精致，目光宁静纯净",
-    "标志特征": "一头蓝色秀发（云海星域独一无二）、云海星域唯一的蓝发女子、手持翠笛、蓝雾化作千丈蓝色灵龙",
+    "身份": "九阶破天宗弟子",
+    "外貌": "相貌秀丽、一头蓝发、一身白衣，容颜精致，目光宁静纯净、相貌绝伦、肤如凝玉、一身白衣如雪、手持晶莹翠笛",
+    "标志特征": "一头蓝色秀发（云海星域独一无二）、云海星域唯一的蓝发女子、手持翠笛、蓝雾化作千丈蓝色灵龙、向人提出三个问题问道、许诺解惑者拂笛一曲",
     "寿元": "已修道一千二百余年",
     "称号": "云海星域的传奇",
-    "性格": "宁静典雅、不带杂质"
+    "性格": "宁静典雅、不带杂质、宁静出尘、欣赏道之明悟者"
   },
   "observations": {
     "性别": [
@@ -40,6 +41,11 @@
         "value": "九阶破天宗修士",
         "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
         "seq": 1077
+      },
+      {
+        "value": "九阶破天宗弟子",
+        "docId": "plot.xianni-ch1165-lu-yuncong-bi-bu-liao",
+        "seq": 1082
       }
     ],
     "外貌": [
@@ -51,6 +57,11 @@
       {
         "value": "一头蓝发、一身白衣，容颜精致，目光宁静纯净",
         "docId": "plot.xianni-1164-three-questions-lu-yuncong-li-qianmei",
+        "seq": 1082
+      },
+      {
+        "value": "相貌绝伦、肤如凝玉、一身白衣如雪、手持晶莹翠笛",
+        "docId": "plot.xianni-ch1165-lu-yuncong-bi-bu-liao",
         "seq": 1082
       }
     ],
@@ -74,6 +85,16 @@
         "value": "蓝雾化作千丈蓝色灵龙",
         "docId": "plot.xianni-1164-three-questions-lu-yuncong-li-qianmei",
         "seq": 1082
+      },
+      {
+        "value": "向人提出三个问题问道",
+        "docId": "plot.xianni-ch1165-lu-yuncong-bi-bu-liao",
+        "seq": 1082
+      },
+      {
+        "value": "许诺解惑者拂笛一曲",
+        "docId": "plot.xianni-ch1165-lu-yuncong-bi-bu-liao",
+        "seq": 1082
       }
     ],
     "寿元": [
@@ -95,6 +116,11 @@
         "value": "宁静典雅、不带杂质",
         "docId": "plot.xianni-1164-three-questions-lu-yuncong-li-qianmei",
         "seq": 1082
+      },
+      {
+        "value": "宁静出尘、欣赏道之明悟者",
+        "docId": "plot.xianni-ch1165-lu-yuncong-bi-bu-liao",
+        "seq": 1082
       }
     ]
   },
@@ -114,15 +140,15 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
+      "docId": "plot.xianni-ch1165-lu-yuncong-bi-bu-liao",
       "dated": false,
-      "seq": 1077
+      "seq": 1082
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-1164-three-questions-lu-yuncong-li-qianmei",
+      "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
       "dated": false,
-      "seq": 1082
+      "seq": 1077
     },
     "标志特征": {
       "asOf": null,
@@ -153,7 +179,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-1160-li-qianmei-gushen-dujie",
-    "plot.xianni-1164-three-questions-lu-yuncong-li-qianmei"
+    "plot.xianni-1164-three-questions-lu-yuncong-li-qianmei",
+    "plot.xianni-ch1165-lu-yuncong-bi-bu-liao"
   ],
-  "updatedAt": "2026-08-24T20:05:42.734Z"
+  "updatedAt": "2026-08-24T20:08:04.873Z"
 }
