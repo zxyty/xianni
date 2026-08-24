@@ -412,3 +412,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T00:46:12.294Z** `ingest` plot.xianni-ch975-jingle-tianni-reopens-tianyunzi-crisis — 仙逆 第975章 惊魂：王林吞极阳、天逆珠再开，虚无大手袭凌天候与天运子 · kind=plot asOf=2026-08-24 entities=42 relations=82 src=00909-00909.md
 - **2026-08-24T01:05:17.690Z** `ingest` plot.xianni-ch910-913-lu-zhai-fu-feng-zi — 仙逆 第910-913章：路窄·浮风子——王林窥涅中期巅峰离大罗星，途遇肉山老者拦道 · kind=plot asOf=2026-08-24 entities=61 relations=110 src=00910-00913.md
 - **2026-08-24T01:25:19.529Z** `ingest` plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power — 仙逆 第914-918章：八星古神盾牌认主、保命神通与灵儿的轮回之梦 · kind=plot asOf=2026-08-24 entities=81 relations=129 src=00914-00918.md
+- **2026-08-24T02:13:33.733Z** `ingest` plot.xianni-ch988-canye-power-wang-lin-defeats-fufengzi — 第988章 残夜之力——王林自创神通败净涅浮风子 · kind=plot asOf=2026-08-24 entities=21 relations=27 src=00919-00921.p1.md

@@ -1,74 +1,51 @@
 {
-  "id": "ent.beast.x-425194d4",
-  "type": "beast",
-  "name": "通天大蟒",
+  "id": "ent.artifact.x-ce2492b5",
+  "type": "artifact",
+  "name": "黑色石碑",
   "aliases": [
-    "黑色巨蟒",
-    "黑蛇",
-    "石碑黑蟒",
-    "头生角的黑色巨蟒"
+    "浮风子的黑色石碑",
+    "盘蟒石碑"
   ],
-  "summary": "周鹏召出的漆黑巨蛇，化通天大蟒，可发出只针对单一目标的庞大吸力。",
+  "summary": "浮风子的底牌法宝，碑上有若干符文印记，其上盘一条头生角、近乎真龙的黑色巨蟒；倾倒时遮天如天塌，被残夜之力碎裂成无数碎石。",
   "attributes": {
-    "主人": "浮风子",
-    "能力": "张口带腥风扑击",
-    "外形": "黑色巨蟒，头上有角",
-    "血脉": "近乎真龙"
+    "持有者": "浮风子",
+    "外形": "巨大黑色石碑，刻若干符文印记，其上盘一条头上有角的黑色巨蟒",
+    "能力": "倾倒压下，遮盖天空如天塌",
+    "禁制": "符文印记"
   },
   "observations": {
-    "主人": [
-      {
-        "value": "周鹏",
-        "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
-        "seq": 49
-      },
+    "持有者": [
       {
         "value": "浮风子",
         "docId": "plot.xianni-ch988-canye-power-wang-lin-defeats-fufengzi",
         "seq": 919
       }
     ],
-    "能力": [
-      {
-        "value": "针对单人的庞大吸力",
-        "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
-        "seq": 49
-      },
-      {
-        "value": "张口带腥风扑击",
-        "docId": "plot.xianni-ch988-canye-power-wang-lin-defeats-fufengzi",
-        "seq": 919
-      }
-    ],
     "外形": [
       {
-        "value": "通体漆黑、头颅硕大的通天巨蟒",
-        "docId": "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
-        "seq": 49
-      },
-      {
-        "value": "黑色巨蟒，头上有角",
+        "value": "巨大黑色石碑，刻若干符文印记，其上盘一条头上有角的黑色巨蟒",
         "docId": "plot.xianni-ch988-canye-power-wang-lin-defeats-fufengzi",
         "seq": 919
       }
     ],
-    "血脉": [
+    "能力": [
       {
-        "value": "近乎真龙",
+        "value": "倾倒压下，遮盖天空如天塌",
+        "docId": "plot.xianni-ch988-canye-power-wang-lin-defeats-fufengzi",
+        "seq": 919
+      }
+    ],
+    "禁制": [
+      {
+        "value": "符文印记",
         "docId": "plot.xianni-ch988-canye-power-wang-lin-defeats-fufengzi",
         "seq": 919
       }
     ]
   },
-  "firstSeq": 49,
+  "firstSeq": 919,
   "attrProvenance": {
-    "主人": {
-      "asOf": null,
-      "docId": "plot.xianni-ch988-canye-power-wang-lin-defeats-fufengzi",
-      "dated": false,
-      "seq": 919
-    },
-    "能力": {
+    "持有者": {
       "asOf": null,
       "docId": "plot.xianni-ch988-canye-power-wang-lin-defeats-fufengzi",
       "dated": false,
@@ -80,7 +57,13 @@
       "dated": false,
       "seq": 919
     },
-    "血脉": {
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch988-canye-power-wang-lin-defeats-fufengzi",
+      "dated": false,
+      "seq": 919
+    },
+    "禁制": {
       "asOf": null,
       "docId": "plot.xianni-ch988-canye-power-wang-lin-defeats-fufengzi",
       "dated": false,
@@ -90,8 +73,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch49-54-hengyue-xuandao-jiaoliu-bishi",
     "plot.xianni-ch988-canye-power-wang-lin-defeats-fufengzi"
   ],
-  "updatedAt": "2026-08-24T02:13:33.501Z"
+  "updatedAt": "2026-08-24T02:13:33.500Z"
 }
