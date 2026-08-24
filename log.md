@@ -548,3 +548,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T18:33:47.132Z** `ingest` plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai — 第1147章 孙芸的心痛——王林释放阴魂、封印极阴，云海星域首次炼丹失败 · kind=plot asOf=2026-08-24 entities=30 relations=35 src=01063-01067.p3.md
 - **2026-08-24T18:36:47.071Z** `ingest` plot.xianni-1148-manhuang-dalu-beast-souls — 第1148章 蛮荒大陆：三日炼丹废尽药院，王林深入云海星雾猎取兽魂 · kind=plot asOf=2026-08-24 entities=25 relations=35 src=01063-01067.p4.md
 - **2026-08-24T18:39:07.680Z** `ingest` plot.xianni-ch1149-kaiyuan-continent-subdue-black-ape — 第1149章 调动与操控：王林开猿大陆收服五阶黑猿、悟出操控天地元力之掌 · kind=plot asOf=2026-08-24 entities=15 relations=19 src=01063-01067.p5.md
+- **2026-08-24T18:46:06.094Z** `ingest` plot.xianni-ch1150-jingbian-manhuang-dalu-liuxing-shouchao — 《仙逆》第1150章 惊变：六阶星域修士齐聚云海五阶星域，黑猿驮王林夺草引兽潮 · kind=plot asOf=2026-08-24 entities=36 relations=56 src=01068-01072.p1.md
