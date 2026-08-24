@@ -543,3 +543,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T18:15:50.169Z** `ingest` plot.xianni-ch1142-jing-hun-sun-yun-ru-si-li-hun-dan — 第1142章 精魂：王林暗助孙芸炼化金眼黑猿魂，归元宗危机迫近 · kind=plot asOf=2026-08-24 entities=21 relations=29 src=01058-01062.p3.md
 - **2026-08-24T18:18:43.483Z** `ingest` plot.xianni-ch1143-purple-qi-from-west — 第1143章 紫气西来：王林夜探悬空道观悟云海炼丹，莫罗大陆西部黑塔防护被紫风老者击破 · kind=plot asOf=2026-08-24 entities=28 relations=46 src=01058-01062.p4.md
 - **2026-08-24T18:21:10.925Z** `ingest` plot.xianni-1144-rainbow-wang-lin-slays-song-wude — 第1144章 彩虹——紫道宗少宗压境，王林瞬杀宋五德 · kind=plot asOf=2026-08-24 entities=22 relations=36 src=01058-01062.p5.md
+- **2026-08-24T18:23:29.491Z** `ingest` plot.xianni-1145-a-single-hair-lu-di-slain — 第1145章 一根汗毛：王林斩杀紫道宗少宗主卢迪，归元宗四大长老目睹白发背影 · kind=plot asOf=2026-08-24 entities=25 relations=40 src=01063-01067.p1.md
