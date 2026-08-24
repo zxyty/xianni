@@ -5,14 +5,16 @@
   "aliases": [
     "Qinglong Sheng Huang",
     "老夫青龙圣皇",
-    "Azure Dragon Sacred Emperor"
+    "Azure Dragon Sacred Emperor",
+    "青龙圣宗圣皇"
   ],
   "summary": "留在青光盾气旋神念中的求救者，自称受困于雨之仙界，许诺救者封青龙第一序列、传信者可让四圣宗为其做一件事。",
   "attributes": {
-    "身份": "青龙圣宗（四圣宗）尊者",
+    "身份": "青龙圣宗圣皇",
     "称号": "青龙圣皇",
     "存殁": "受困、气息微弱，自称坚持不了太久",
-    "阵营": "四圣宗·青龙圣宗"
+    "阵营": "四圣宗·青龙圣宗",
+    "结局": "离奇失踪"
   },
   "observations": {
     "身份": [
@@ -20,6 +22,11 @@
         "value": "青龙圣宗（四圣宗）尊者",
         "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
         "seq": 910
+      },
+      {
+        "value": "青龙圣宗圣皇",
+        "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
+        "seq": 945
       }
     ],
     "称号": [
@@ -43,15 +50,23 @@
         "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
         "seq": 910
       }
+    ],
+    "结局": [
+      {
+        "value": "离奇失踪",
+        "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
+        "seq": 945,
+        "note": "昆虚星域旧战前"
+      }
     ]
   },
   "firstSeq": 910,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
+      "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
       "dated": false,
-      "seq": 910
+      "seq": 945
     },
     "称号": {
       "asOf": null,
@@ -71,12 +86,20 @@
       "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
       "dated": false,
       "seq": 910
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
+      "dated": false,
+      "seq": 945,
+      "note": "昆虚星域旧战前"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch910-913-lu-zhai-fu-feng-zi"
+    "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
+    "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm"
   ],
-  "updatedAt": "2026-08-24T01:05:17.418Z"
+  "updatedAt": "2026-08-24T06:51:16.756Z"
 }

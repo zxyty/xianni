@@ -437,3 +437,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T06:32:45.900Z** `ingest` plot.xianni-ch1019-wucai-butterfly-seals-mianghai-death — 第1019章 七彩蝴蝶三封解印，冥海自焚化灰，幽冥引路开魔殿之门 · kind=plot asOf=2026-08-24 entities=23 relations=28 src=00941-00944.p3.md
 - **2026-08-24T06:35:29.484Z** `ingest` plot.xianni-1020-qing-lin-crystal-black-tower-flame — 第1020章 青霖？——幽冥引路误通魔源，黑塔吞火焰补元力 · kind=plot asOf=2026-08-24 entities=23 relations=29 src=00941-00944.p4.md
 - **2026-08-24T06:37:32.871Z** `ingest` plot.xianni-ch1021-zhuque-awakening — 仙逆 第1021章 朱雀觉醒：王林吞火海、眉心朱雀印记幻化本灵 · kind=plot asOf=2026-08-24 entities=12 relations=17 src=00945-00948.p1.md
+- **2026-08-24T06:51:17.013Z** `ingest` plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm — 第1022章 溃！——朱雀之音贯穿瓶中九十九界，虚空子起杀心 · kind=plot asOf=2026-08-24 entities=57 relations=98 src=00945-00948.p2.md

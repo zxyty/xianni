@@ -4,12 +4,16 @@
   "name": "青龙圣宗",
   "aliases": [
     "青龙宗",
-    "Qinglong Sacred Sect"
+    "Qinglong Sacred Sect",
+    "青龙一脉",
+    "Qing Long Sacred Sect"
   ],
   "summary": "四圣宗之一，青龙圣皇所属；青龙碎片与青龙印记疑为其物，其中设有「青龙第一序列」之封。",
   "attributes": {
     "阵营": "四圣宗",
-    "镇派之宝": "青龙相关圣物（推测）"
+    "镇派之宝": "青龙觉醒传承",
+    "理念": "最强一脉，觉醒者极少而不易失败",
+    "等级": "四圣宗之一"
   },
   "observations": {
     "阵营": [
@@ -24,6 +28,25 @@
         "value": "青龙相关圣物（推测）",
         "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
         "seq": 910
+      },
+      {
+        "value": "青龙觉醒传承",
+        "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
+        "seq": 945
+      }
+    ],
+    "理念": [
+      {
+        "value": "最强一脉，觉醒者极少而不易失败",
+        "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
+        "seq": 945
+      }
+    ],
+    "等级": [
+      {
+        "value": "四圣宗之一",
+        "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
+        "seq": 945
       }
     ]
   },
@@ -37,15 +60,28 @@
     },
     "镇派之宝": {
       "asOf": null,
-      "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
+      "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
       "dated": false,
-      "seq": 910
+      "seq": 945
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
+      "dated": false,
+      "seq": 945
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
+      "dated": false,
+      "seq": 945
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch910-913-lu-zhai-fu-feng-zi"
+    "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
+    "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm"
   ],
-  "updatedAt": "2026-08-24T01:05:17.420Z"
+  "updatedAt": "2026-08-24T06:51:16.758Z"
 }
