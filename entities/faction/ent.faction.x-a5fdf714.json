@@ -4,12 +4,14 @@
   "name": "出云国",
   "aliases": [
     "八级修真国出云国",
-    "Chu Yun Guo"
+    "Chu Yun Guo",
+    "原八级修真国出云国",
+    "出云"
   ],
   "summary": "联盟星域仅有的两个八级修真国之一，力量保存完好，总部销声匿迹一年半后独立，为割据四方之尊。",
   "attributes": {
-    "等级": "八级修真国",
-    "阵营": "原修真联盟，后独立"
+    "等级": "原八级修真国",
+    "阵营": "修真联盟四大势力之首"
   },
   "observations": {
     "等级": [
@@ -17,6 +19,11 @@
         "value": "八级修真国",
         "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
         "seq": 1002
+      },
+      {
+        "value": "原八级修真国",
+        "docId": "plot.xianni-ch1090-mo-zhi-reappears",
+        "seq": 1006
       }
     ],
     "阵营": [
@@ -24,6 +31,11 @@
         "value": "原修真联盟，后独立",
         "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
         "seq": 1002
+      },
+      {
+        "value": "修真联盟四大势力之首",
+        "docId": "plot.xianni-ch1090-mo-zhi-reappears",
+        "seq": 1006
       }
     ]
   },
@@ -31,21 +43,22 @@
   "attrProvenance": {
     "等级": {
       "asOf": null,
-      "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+      "docId": "plot.xianni-ch1090-mo-zhi-reappears",
       "dated": false,
-      "seq": 1002
+      "seq": 1006
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+      "docId": "plot.xianni-ch1090-mo-zhi-reappears",
       "dated": false,
-      "seq": 1002
+      "seq": 1006
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival"
+    "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
+    "plot.xianni-ch1090-mo-zhi-reappears"
   ],
-  "updatedAt": "2026-08-24T12:57:42.957Z"
+  "updatedAt": "2026-08-24T13:25:48.830Z"
 }

@@ -6,7 +6,8 @@
     "红毛子",
     "红毛",
     "炼魂宗红发老者",
-    "红发老者（献祭主持）"
+    "红发老者（献祭主持）",
+    "罗天红发老者"
   ],
   "summary": "炼魂宗修士，结丹初期，面部奇异口鼻极大双眼极小；收下王林所献飞剑后破例引其入宗做外围弟子，出山收集上百冤魂欲炼魂幡主魂。",
   "attributes": {
@@ -14,7 +15,8 @@
     "外貌": "红发",
     "身份": "献祭修真星主事者",
     "标志特征": "驾紫红之芒破空而行；持令牌可开护山阵",
-    "阵营": "修真联盟"
+    "阵营": "罗天·雷神殿",
+    "性格": "倨傲不屑"
   },
   "observations": {
     "小阶段": [
@@ -60,6 +62,18 @@
         "value": "修真联盟",
         "docId": "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
         "seq": 855
+      },
+      {
+        "value": "罗天·雷神殿",
+        "docId": "plot.xianni-ch1090-mo-zhi-reappears",
+        "seq": 1006
+      }
+    ],
+    "性格": [
+      {
+        "value": "倨傲不屑",
+        "docId": "plot.xianni-ch1090-mo-zhi-reappears",
+        "seq": 1006
       }
     ]
   },
@@ -91,16 +105,23 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
+      "docId": "plot.xianni-ch1090-mo-zhi-reappears",
       "dated": false,
-      "seq": 855
+      "seq": 1006
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1090-mo-zhi-reappears",
+      "dated": false,
+      "seq": 1006
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
-    "plot.xianni-ch925-million-beast-blood-lock-heaven-god"
+    "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
+    "plot.xianni-ch1090-mo-zhi-reappears"
   ],
-  "updatedAt": "2026-08-23T20:14:11.697Z"
+  "updatedAt": "2026-08-24T13:25:48.785Z"
 }

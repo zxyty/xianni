@@ -492,3 +492,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T12:57:43.304Z** `ingest` plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival — 第1002-1005章：天运子撕第二封印、王林召远古巨影退敌，朱雀圣皇现身取出太古圣器 · kind=plot asOf=2026-08-24 entities=83 relations=146 src=01002-01005.md
 - **2026-08-24T13:00:37.697Z** `ingest` plot.xianni-1086-qingshui-news-zhuque-recovery — 仙逆 第1086章 清水的消息：朱雀圣宗两年疗伤与九玄变 · kind=plot asOf=2026-08-24 entities=35 relations=45 src=01006-01008.p1.md
 - **2026-08-24T13:18:51.600Z** `ingest` plot.xianni-1087-jiuxuan-first-transformation — 第1087章 九玄第一变！——朱雀圣皇灌顶铸九世火焰图腾 · kind=plot asOf=2026-08-24 entities=67 relations=121 src=01006-01008.p2.md
+- **2026-08-24T13:25:49.151Z** `ingest` plot.xianni-ch1090-mo-zhi-reappears — 仙逆 第1090章 墨智再现——朱雀新圣皇元力波动惊动联盟诸强 · kind=plot asOf=2026-08-24 entities=40 relations=60 src=01006-01008.p3.md

@@ -12,10 +12,11 @@
   ],
   "summary": "昆虚星域内的超然存在，曾极为忌惮四圣宗，与修真联盟联手；最初碍于协议只能暗中相帮，后撕破『不参与昆虚星域内斗』协议正面参战。",
   "attributes": {
-    "阵营": "与修真联盟联手对抗四圣宗",
-    "理念": "历代圣女修天魂道，圆满者为境内最强",
+    "阵营": "雨仙界直属",
+    "理念": "代仙界掌控下界炼气士",
     "所属界面": "联盟星域",
-    "镇派之宝": "天魂道（巅峰神通之术）"
+    "镇派之宝": "天魂道（巅峰神通之术）",
+    "据点": "昆虚星域"
   },
   "observations": {
     "阵营": [
@@ -23,6 +24,11 @@
         "value": "与修真联盟联手对抗四圣宗",
         "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
         "seq": 960
+      },
+      {
+        "value": "雨仙界直属",
+        "docId": "plot.xianni-ch1090-mo-zhi-reappears",
+        "seq": 1006
       }
     ],
     "理念": [
@@ -36,6 +42,11 @@
         "value": "历代圣女修天魂道，圆满者为境内最强",
         "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
         "seq": 977
+      },
+      {
+        "value": "代仙界掌控下界炼气士",
+        "docId": "plot.xianni-ch1090-mo-zhi-reappears",
+        "seq": 1006
       }
     ],
     "所属界面": [
@@ -51,21 +62,28 @@
         "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
         "seq": 977
       }
+    ],
+    "据点": [
+      {
+        "value": "昆虚星域",
+        "docId": "plot.xianni-ch1090-mo-zhi-reappears",
+        "seq": 1006
+      }
     ]
   },
   "firstSeq": 960,
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
+      "docId": "plot.xianni-ch1090-mo-zhi-reappears",
       "dated": false,
-      "seq": 960
+      "seq": 1006
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
+      "docId": "plot.xianni-ch1090-mo-zhi-reappears",
       "dated": false,
-      "seq": 977
+      "seq": 1006
     },
     "所属界面": {
       "asOf": null,
@@ -78,6 +96,12 @@
       "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
       "dated": false,
       "seq": 977
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1090-mo-zhi-reappears",
+      "dated": false,
+      "seq": 1006
     }
   },
   "contested": false,
@@ -93,7 +117,8 @@
     "plot.xianni-1077-master-disciple-battle",
     "plot.xianni-ch1080-bu-xu-ta-jiu-mubingmei-vs-tianyunzi",
     "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
-    "plot.xianni-1087-jiuxuan-first-transformation"
+    "plot.xianni-1087-jiuxuan-first-transformation",
+    "plot.xianni-ch1090-mo-zhi-reappears"
   ],
-  "updatedAt": "2026-08-24T13:18:51.186Z"
+  "updatedAt": "2026-08-24T13:25:48.794Z"
 }
