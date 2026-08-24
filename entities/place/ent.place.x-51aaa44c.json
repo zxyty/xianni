@@ -3,12 +3,15 @@
   "type": "place",
   "name": "第四座仙府",
   "aliases": [
-    "第四仙府"
+    "第四仙府",
+    "妖灵之地第四仙府",
+    "仙府外围"
   ],
   "summary": "王林此行目标之一，需以巴掌大小的石盘方可通往。",
   "attributes": {
-    "类型": "仙府",
-    "危险度": "未知"
+    "类型": "上古仙府/洞府",
+    "危险度": "极高（外围即令王林一行重伤）",
+    "守护": "花仙"
   },
   "observations": {
     "类型": [
@@ -16,6 +19,11 @@
         "value": "仙府",
         "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
         "seq": 926
+      },
+      {
+        "value": "上古仙府/洞府",
+        "docId": "plot.xianni-1007-huaxian-warning-turtle-shell",
+        "seq": 934
       }
     ],
     "危险度": [
@@ -23,6 +31,18 @@
         "value": "未知",
         "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
         "seq": 926
+      },
+      {
+        "value": "极高（外围即令王林一行重伤）",
+        "docId": "plot.xianni-1007-huaxian-warning-turtle-shell",
+        "seq": 934
+      }
+    ],
+    "守护": [
+      {
+        "value": "花仙",
+        "docId": "plot.xianni-1007-huaxian-warning-turtle-shell",
+        "seq": 934
       }
     ]
   },
@@ -30,21 +50,28 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
+      "docId": "plot.xianni-1007-huaxian-warning-turtle-shell",
       "dated": false,
-      "seq": 926
+      "seq": 934
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
+      "docId": "plot.xianni-1007-huaxian-warning-turtle-shell",
       "dated": false,
-      "seq": 926
+      "seq": 934
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-1007-huaxian-warning-turtle-shell",
+      "dated": false,
+      "seq": 934
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance"
+    "plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance",
+    "plot.xianni-1007-huaxian-warning-turtle-shell"
   ],
-  "updatedAt": "2026-08-24T04:02:17.354Z"
+  "updatedAt": "2026-08-24T04:28:26.874Z"
 }
