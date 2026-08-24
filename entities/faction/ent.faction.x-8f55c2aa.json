@@ -11,7 +11,8 @@
   "attributes": {
     "理念": "以朱雀印记/朱雀序列传承本源、以朱雀印记觉醒、火焰之力为根本",
     "等级": "四圣宗之一",
-    "镇派之宝": "朱雀印记／朱雀圣火"
+    "镇派之宝": "朱雀印记／朱雀圣火",
+    "阵营": "朱雀一脉"
   },
   "observations": {
     "理念": [
@@ -39,6 +40,13 @@
         "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
         "seq": 945
       }
+    ],
+    "阵营": [
+      {
+        "value": "朱雀一脉",
+        "docId": "plot.xianni-ch1026-qinglin-you-lied-to-me",
+        "seq": 949
+      }
     ]
   },
   "firstSeq": 945,
@@ -60,13 +68,20 @@
       "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
       "dated": false,
       "seq": 945
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1026-qinglin-you-lied-to-me",
+      "dated": false,
+      "seq": 949
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1021-zhuque-awakening",
-    "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm"
+    "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
+    "plot.xianni-ch1026-qinglin-you-lied-to-me"
   ],
-  "updatedAt": "2026-08-24T06:51:16.758Z"
+  "updatedAt": "2026-08-24T07:19:34.529Z"
 }

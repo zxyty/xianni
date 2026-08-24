@@ -8,14 +8,16 @@
     "Burial Immortal Pool",
     "葬仙之池",
     "仙帝青霖的葬仙池",
-    "Zang Xian Chi"
+    "Zang Xian Chi",
+    "葬仙池漩涡"
   ],
   "summary": "散魔借符族圣器与魔念所要开启之地；章名「葬仙中的她」暗示其中有与主角相关之人。",
   "attributes": {
-    "类型": "秘境/禁地、凶地/葬地遗迹",
-    "守护": "需符族圣器与魔念方可开启、漩涡吸力、无数凄厉魂魄",
+    "类型": "秘境/禁地、凶地/葬地遗迹、封印/漩涡深坑",
+    "守护": "需符族圣器与魔念方可开启、漩涡吸力、无数凄厉魂魄、青霖禁制分神",
     "危险度": "极高、极高——被吸入内部怕是必死无疑",
-    "所属势力": "仙帝青霖"
+    "所属势力": "仙帝青霖",
+    "上级区域": "仙帝洞府"
   },
   "observations": {
     "类型": [
@@ -28,6 +30,11 @@
         "value": "凶地/葬地遗迹",
         "docId": "plot.xianni-1024-sanmo-opens-zangxian-pool",
         "seq": 945
+      },
+      {
+        "value": "封印/漩涡深坑",
+        "docId": "plot.xianni-ch1026-qinglin-you-lied-to-me",
+        "seq": 949
       }
     ],
     "守护": [
@@ -40,6 +47,11 @@
         "value": "漩涡吸力、无数凄厉魂魄",
         "docId": "plot.xianni-1024-sanmo-opens-zangxian-pool",
         "seq": 945
+      },
+      {
+        "value": "青霖禁制分神",
+        "docId": "plot.xianni-ch1026-qinglin-you-lied-to-me",
+        "seq": 949
       }
     ],
     "危险度": [
@@ -59,6 +71,13 @@
         "value": "仙帝青霖",
         "docId": "plot.xianni-1024-sanmo-opens-zangxian-pool",
         "seq": 945
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "仙帝洞府",
+        "docId": "plot.xianni-ch1026-qinglin-you-lied-to-me",
+        "seq": 949
       }
     ]
   },
@@ -87,12 +106,19 @@
       "docId": "plot.xianni-1024-sanmo-opens-zangxian-pool",
       "dated": false,
       "seq": 945
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1026-qinglin-you-lied-to-me",
+      "dated": false,
+      "seq": 949
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1024-sanmo-opens-zangxian-pool"
+    "plot.xianni-1024-sanmo-opens-zangxian-pool",
+    "plot.xianni-ch1026-qinglin-you-lied-to-me"
   ],
-  "updatedAt": "2026-08-24T07:09:00.406Z"
+  "updatedAt": "2026-08-24T07:19:34.525Z"
 }

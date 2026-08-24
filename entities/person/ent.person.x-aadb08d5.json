@@ -15,15 +15,18 @@
     "四大仙界第一强者",
     "青霖前辈",
     "Xian Di Qing Lin",
-    "青霖仙帝（瓶中界主人）"
+    "青霖仙帝（瓶中界主人）",
+    "青霖雕像之人"
   ],
   "summary": "王林在金符梦境将散之际以生之烙印凝聚双耳所听到的自称之名，来历、身份未明。",
   "attributes": {
-    "身份": "梦境低语中的自称者、青霜之父、隐藏于妖灵之地洞府内疗伤、仙帝、妖灵之地仙人洞府疑似主人、妖灵之地仙府之主、洞府开启算计的布局者、山河图之主、仙术焚天的创出者、瓶中界炼制者、仙帝洞府之主、葬仙之处所关联者、葬仙池的主人/来历所系、封印无眼女子者",
+    "身份": "梦境低语中的自称者、青霜之父、隐藏于妖灵之地洞府内疗伤、仙帝、妖灵之地仙人洞府疑似主人、妖灵之地仙府之主、洞府开启算计的布局者、山河图之主、仙术焚天的创出者、瓶中界炼制者、仙帝洞府之主、葬仙之处所关联者、葬仙池的主人/来历所系、封印无眼女子者、仙界强者/封印秋瑶者",
     "称号": "第一仙帝、仙界第一强者、仙帝、仙帝青霖、四大仙界第一强者",
     "存殁": "疑仍存活",
     "标志特征": "曾于仙界崩溃时重伤",
-    "结局": "重伤闭关"
+    "结局": "重伤闭关",
+    "外貌": "金袍、黄丝带束发、相貌英俊、仙风道骨",
+    "分身": "葬仙池内的禁制分神"
   },
   "observations": {
     "身份": [
@@ -95,6 +98,11 @@
         "value": "封印无眼女子者",
         "docId": "plot.xianni-1024-sanmo-opens-zangxian-pool",
         "seq": 945
+      },
+      {
+        "value": "仙界强者/封印秋瑶者",
+        "docId": "plot.xianni-ch1026-qinglin-you-lied-to-me",
+        "seq": 949
       }
     ],
     "称号": [
@@ -180,6 +188,20 @@
         "seq": 941,
         "note": "据花妃所言，仙界崩溃后遇两界外之物而重伤，在此闭关"
       }
+    ],
+    "外貌": [
+      {
+        "value": "金袍、黄丝带束发、相貌英俊、仙风道骨",
+        "docId": "plot.xianni-ch1026-qinglin-you-lied-to-me",
+        "seq": 949
+      }
+    ],
+    "分身": [
+      {
+        "value": "葬仙池内的禁制分神",
+        "docId": "plot.xianni-ch1026-qinglin-you-lied-to-me",
+        "seq": 949
+      }
     ]
   },
   "firstSeq": 527,
@@ -217,6 +239,18 @@
       "dated": false,
       "seq": 941,
       "note": "据花妃所言，仙界崩溃后遇两界外之物而重伤，在此闭关"
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1026-qinglin-you-lied-to-me",
+      "dated": false,
+      "seq": 949
+    },
+    "分身": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1026-qinglin-you-lied-to-me",
+      "dated": false,
+      "seq": 949
     }
   },
   "contested": false,
@@ -245,7 +279,8 @@
     "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
     "plot.xianni-1020-qing-lin-crystal-black-tower-flame",
     "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
-    "plot.xianni-1024-sanmo-opens-zangxian-pool"
+    "plot.xianni-1024-sanmo-opens-zangxian-pool",
+    "plot.xianni-ch1026-qinglin-you-lied-to-me"
   ],
-  "updatedAt": "2026-08-24T07:09:00.423Z"
+  "updatedAt": "2026-08-24T07:19:34.517Z"
 }
