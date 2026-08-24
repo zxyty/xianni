@@ -3,11 +3,16 @@
   "type": "person",
   "name": "尘道子",
   "aliases": [
-    "尘道子前辈"
+    "尘道子前辈",
+    "尘道三子的大哥",
+    "老者尘道子"
   ],
   "summary": "本章同样重伤，与退下的浮风子靠拢。",
   "attributes": {
-    "存殁": "存活（重伤）"
+    "存殁": "存活（重伤）",
+    "外貌": "神色沧桑的老者",
+    "性格": "沉痛自责、终日饮酒",
+    "身份": "尘道三子之大哥"
   },
   "observations": {
     "存殁": [
@@ -15,6 +20,27 @@
         "value": "存活（重伤）",
         "docId": "plot.xianni-1078-tashan-appears",
         "seq": 997
+      }
+    ],
+    "外貌": [
+      {
+        "value": "神色沧桑的老者",
+        "docId": "plot.xianni-1087-jiuxuan-first-transformation",
+        "seq": 1006
+      }
+    ],
+    "性格": [
+      {
+        "value": "沉痛自责、终日饮酒",
+        "docId": "plot.xianni-1087-jiuxuan-first-transformation",
+        "seq": 1006
+      }
+    ],
+    "身份": [
+      {
+        "value": "尘道三子之大哥",
+        "docId": "plot.xianni-1087-jiuxuan-first-transformation",
+        "seq": 1006
       }
     ]
   },
@@ -25,12 +51,31 @@
       "docId": "plot.xianni-1078-tashan-appears",
       "dated": false,
       "seq": 997
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-1087-jiuxuan-first-transformation",
+      "dated": false,
+      "seq": 1006
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-1087-jiuxuan-first-transformation",
+      "dated": false,
+      "seq": 1006
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-1087-jiuxuan-first-transformation",
+      "dated": false,
+      "seq": 1006
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1078-tashan-appears"
+    "plot.xianni-1078-tashan-appears",
+    "plot.xianni-1087-jiuxuan-first-transformation"
   ],
-  "updatedAt": "2026-08-24T12:05:52.633Z"
+  "updatedAt": "2026-08-24T13:18:51.242Z"
 }
