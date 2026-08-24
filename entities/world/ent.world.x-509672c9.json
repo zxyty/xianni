@@ -8,12 +8,13 @@
     "七彩界秘境",
     "Qicai Realm",
     "七彩的世界",
-    "Qi Cai Jie"
+    "Qi Cai Jie",
+    "七彩界面"
   ],
   "summary": "苍松子命名的诡异之地：天空七彩之芒、无黑夜只有七彩白昼，遍布雾化凶兽、古人遗骸与上古禁制，苍松子多次尝试均无法进入其内部。",
   "attributes": {
-    "特点": "天空七彩之芒、无黑夜只有七彩白昼、疑似蕴含规则变化、无树，只有光秃山脉与各自独立的雾气、天空有七彩之芒、修士无法飞出太高、无人盗取元晶致积存极多、七彩景象、外围与内部分层、内部封印大量凶兽之魂",
-    "通道": "经祭坛进入外围"
+    "特点": "天空七彩之芒、无黑夜只有七彩白昼、疑似蕴含规则变化、无树，只有光秃山脉与各自独立的雾气、天空有七彩之芒、修士无法飞出太高、无人盗取元晶致积存极多、七彩景象、外围与内部分层、内部封印大量凶兽之魂、有化雾凶兽可喂仙玉取元晶、某处封印众多凶兽之魂、需特定口诀印记方可离开",
+    "通道": "离开需口诀印记"
   },
   "observations": {
     "特点": [
@@ -66,6 +67,21 @@
         "value": "内部封印大量凶兽之魂",
         "docId": "plot.xianni-1184-qicai-jie-mishizhe-duanmu-tongzi",
         "seq": 1100
+      },
+      {
+        "value": "有化雾凶兽可喂仙玉取元晶",
+        "docId": "plot.xianni-1187-fengshou-wanglin-kills-pang-elder",
+        "seq": 1105
+      },
+      {
+        "value": "某处封印众多凶兽之魂",
+        "docId": "plot.xianni-1187-fengshou-wanglin-kills-pang-elder",
+        "seq": 1105
+      },
+      {
+        "value": "需特定口诀印记方可离开",
+        "docId": "plot.xianni-1187-fengshou-wanglin-kills-pang-elder",
+        "seq": 1105
       }
     ],
     "通道": [
@@ -74,6 +90,11 @@
         "docId": "plot.xianni-1182-qicai-jie-lunhui-dan-shijie-jiao",
         "seq": 1100,
         "note": "内部至今无法进入"
+      },
+      {
+        "value": "离开需口诀印记",
+        "docId": "plot.xianni-1187-fengshou-wanglin-kills-pang-elder",
+        "seq": 1105
       }
     ]
   },
@@ -87,10 +108,9 @@
     },
     "通道": {
       "asOf": null,
-      "docId": "plot.xianni-1182-qicai-jie-lunhui-dan-shijie-jiao",
+      "docId": "plot.xianni-1187-fengshou-wanglin-kills-pang-elder",
       "dated": false,
-      "seq": 1100,
-      "note": "内部至今无法进入"
+      "seq": 1105
     }
   },
   "contested": false,
@@ -99,7 +119,8 @@
     "plot.xianni-1182-qicai-jie-lunhui-dan-shijie-jiao",
     "plot.xianni-1183-do-not-move-jiaolong-slain",
     "plot.xianni-1184-qicai-jie-mishizhe-duanmu-tongzi",
-    "plot.xianni-1185-nine-step-sealing-heaven-formation"
+    "plot.xianni-1185-nine-step-sealing-heaven-formation",
+    "plot.xianni-1187-fengshou-wanglin-kills-pang-elder"
   ],
-  "updatedAt": "2026-08-24T21:39:51.915Z"
+  "updatedAt": "2026-08-24T22:43:43.198Z"
 }

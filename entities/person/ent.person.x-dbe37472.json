@@ -7,14 +7,18 @@
     "庞姓修士",
     "庞老",
     "庞姓老修",
-    "庞老者"
+    "庞老者",
+    "脸有坑洼的老者",
+    "护法的庞姓老者"
   ],
   "summary": "同行队伍成员之一，全程不动声色，转动手指上的戒指，目光时而扫向苍松子。",
   "attributes": {
-    "外貌": "满脸坑洼",
+    "外貌": "脸上有坑洼，狰狞",
     "标志特征": "转动手指上的戒指、第三次进入七彩世界，昔日同伴仅余三人、本章胸口血肉模糊、面色苍白靠于山脉",
-    "性格": "不动声色、暗中戒备、寡言、谨慎、心虚、讥讽、观望、阴冷、轻蔑、伺机而动",
-    "身份": "苍松子一行的清场执行者、苍松子莫逆好友、苍松子队伍成员、苍松子同伴/取晶者、王林的护法"
+    "性格": "不动声色、暗中戒备、寡言、谨慎、心虚、讥讽、观望、阴冷、轻蔑、伺机而动、贪婪、阴狠、欺软怕硬",
+    "身份": "苍松子一行的清场执行者、苍松子莫逆好友、苍松子队伍成员、苍松子同伴/取晶者、王林的护法、苍松子同行者、名义上的护法",
+    "存殁": "肉身尽毁、半数元神被吞，残余元神被囚",
+    "死因": "偷袭王林反被瞬杀"
   },
   "observations": {
     "外貌": [
@@ -22,6 +26,11 @@
         "value": "满脸坑洼",
         "docId": "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
         "seq": 1095
+      },
+      {
+        "value": "脸上有坑洼，狰狞",
+        "docId": "plot.xianni-1187-fengshou-wanglin-kills-pang-elder",
+        "seq": 1105
       }
     ],
     "标志特征": [
@@ -76,6 +85,11 @@
         "value": "伺机而动",
         "docId": "plot.xianni-1186-nine-step-seal-heaven-formation-broken",
         "seq": 1100
+      },
+      {
+        "value": "贪婪、阴狠、欺软怕硬",
+        "docId": "plot.xianni-1187-fengshou-wanglin-kills-pang-elder",
+        "seq": 1105
       }
     ],
     "身份": [
@@ -104,6 +118,26 @@
         "docId": "plot.xianni-1186-nine-step-seal-heaven-formation-broken",
         "seq": 1100,
         "note": "苍松子所托，实为监视看守"
+      },
+      {
+        "value": "苍松子同行者、名义上的护法",
+        "docId": "plot.xianni-1187-fengshou-wanglin-kills-pang-elder",
+        "seq": 1105
+      }
+    ],
+    "存殁": [
+      {
+        "value": "肉身尽毁、半数元神被吞，残余元神被囚",
+        "docId": "plot.xianni-1187-fengshou-wanglin-kills-pang-elder",
+        "seq": 1105,
+        "note": "王林暂未杀之，以免惊动苍松子"
+      }
+    ],
+    "死因": [
+      {
+        "value": "偷袭王林反被瞬杀",
+        "docId": "plot.xianni-1187-fengshou-wanglin-kills-pang-elder",
+        "seq": 1105
       }
     ]
   },
@@ -111,9 +145,9 @@
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
+      "docId": "plot.xianni-1187-fengshou-wanglin-kills-pang-elder",
       "dated": false,
-      "seq": 1095
+      "seq": 1105
     },
     "标志特征": {
       "asOf": null,
@@ -132,6 +166,19 @@
       "docId": "plot.xianni-ch1180-static-barren-continent-seven-color-rift",
       "dated": false,
       "seq": 1095
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1187-fengshou-wanglin-kills-pang-elder",
+      "dated": false,
+      "seq": 1105,
+      "note": "王林暂未杀之，以免惊动苍松子"
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-1187-fengshou-wanglin-kills-pang-elder",
+      "dated": false,
+      "seq": 1105
     }
   },
   "contested": false,
@@ -144,7 +191,8 @@
     "plot.xianni-1183-do-not-move-jiaolong-slain",
     "plot.xianni-1184-qicai-jie-mishizhe-duanmu-tongzi",
     "plot.xianni-1185-nine-step-sealing-heaven-formation",
-    "plot.xianni-1186-nine-step-seal-heaven-formation-broken"
+    "plot.xianni-1186-nine-step-seal-heaven-formation-broken",
+    "plot.xianni-1187-fengshou-wanglin-kills-pang-elder"
   ],
-  "updatedAt": "2026-08-24T21:42:10.953Z"
+  "updatedAt": "2026-08-24T22:43:43.192Z"
 }

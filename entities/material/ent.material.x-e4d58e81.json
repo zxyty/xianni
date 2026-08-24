@@ -11,10 +11,10 @@
   ],
   "summary": "云海星域通用的高阶资源/货币，可与仙玉兑换，亦为跨星域传送阵开启所需的巨额消耗品。",
   "attributes": {
-    "类型": "灵石类资源/货币、晶石、修真交易资源、灵材/能量晶体、修士遗留之物、货币/能量结晶、修炼资源／通货、货币、修真通货／晶石、报酬/资源、凝聚型灵物",
-    "用途": "坊市兑换、开启跨星域传送阵、快速回复元力、加快吐纳速度、祭炼法宝与布阵时威力倍增、王林本章交易目标、王林与欧阳隆的交易标的、滋养变异灵兽、助蚊兽升级、交易与修炼资源、云海星域高端交易通货、交易结算、此行酬劳",
-    "稀有度": "高（通常被圈养门派定期收割，七彩界内无人取用故积存极多）",
-    "产地": "十二阶元兽体内（放养于雾气中常年累月形成）、七彩界雾气之内、化雾凶兽的雾气之内、七彩界化雾之兽处"
+    "类型": "灵石类资源/货币、晶石、修真交易资源、灵材/能量晶体、修士遗留之物、货币/能量结晶、修炼资源／通货、货币、修真通货／晶石、报酬/资源、凝聚型灵物、修炼资源晶石",
+    "用途": "坊市兑换、开启跨星域传送阵、快速回复元力、加快吐纳速度、祭炼法宝与布阵时威力倍增、王林本章交易目标、王林与欧阳隆的交易标的、滋养变异灵兽、助蚊兽升级、交易与修炼资源、云海星域高端交易通货、交易结算、此行酬劳、修炼/交易",
+    "稀有度": "高于仙玉",
+    "产地": "十二阶元兽体内（放养于雾气中常年累月形成）、七彩界雾气之内、化雾凶兽的雾气之内、七彩界化雾之兽处、七彩界化雾凶兽"
   },
   "observations": {
     "类型": [
@@ -72,6 +72,11 @@
         "value": "凝聚型灵物",
         "docId": "plot.xianni-1183-do-not-move-jiaolong-slain",
         "seq": 1100
+      },
+      {
+        "value": "修炼资源晶石",
+        "docId": "plot.xianni-1187-fengshou-wanglin-kills-pang-elder",
+        "seq": 1105
       }
     ],
     "用途": [
@@ -139,6 +144,11 @@
         "value": "此行酬劳",
         "docId": "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
         "seq": 1095
+      },
+      {
+        "value": "修炼/交易",
+        "docId": "plot.xianni-1187-fengshou-wanglin-kills-pang-elder",
+        "seq": 1105
       }
     ],
     "稀有度": [
@@ -157,6 +167,11 @@
         "value": "高（通常被圈养门派定期收割，七彩界内无人取用故积存极多）",
         "docId": "plot.xianni-1183-do-not-move-jiaolong-slain",
         "seq": 1100
+      },
+      {
+        "value": "高于仙玉",
+        "docId": "plot.xianni-1187-fengshou-wanglin-kills-pang-elder",
+        "seq": 1105
       }
     ],
     "产地": [
@@ -179,6 +194,11 @@
         "value": "七彩界化雾之兽处",
         "docId": "plot.xianni-1184-qicai-jie-mishizhe-duanmu-tongzi",
         "seq": 1100
+      },
+      {
+        "value": "七彩界化雾凶兽",
+        "docId": "plot.xianni-1187-fengshou-wanglin-kills-pang-elder",
+        "seq": 1105
       }
     ]
   },
@@ -198,9 +218,9 @@
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.xianni-1183-do-not-move-jiaolong-slain",
+      "docId": "plot.xianni-1187-fengshou-wanglin-kills-pang-elder",
       "dated": false,
-      "seq": 1100
+      "seq": 1105
     },
     "产地": {
       "asOf": null,
@@ -223,7 +243,8 @@
     "plot.xianni-ch1179-qunmo-ju-cloud-sea-gathering",
     "plot.xianni-1182-qicai-jie-lunhui-dan-shijie-jiao",
     "plot.xianni-1183-do-not-move-jiaolong-slain",
-    "plot.xianni-1184-qicai-jie-mishizhe-duanmu-tongzi"
+    "plot.xianni-1184-qicai-jie-mishizhe-duanmu-tongzi",
+    "plot.xianni-1187-fengshou-wanglin-kills-pang-elder"
   ],
-  "updatedAt": "2026-08-24T21:37:47.821Z"
+  "updatedAt": "2026-08-24T22:43:43.207Z"
 }
