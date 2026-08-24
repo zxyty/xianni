@@ -11,15 +11,17 @@
     "仙人府邸",
     "Immortal Mansion",
     "青霖洞府",
-    "青霖洞府所在之处"
+    "青霖洞府所在之处",
+    "这洞府",
+    "古魔封印之地"
   ],
   "summary": "位于长龙般山脉深处一座巨大盆地内的府邸，遍布雕栏玉砌的阁楼房舍，仆从皆为半舌哑仆，多处设有强大禁制，透着阴森诡异。",
   "attributes": {
-    "所属势力": "白雪之师尊",
+    "所属势力": "青霖",
     "所属界面": "仙灵天境",
-    "类型": "洞府",
+    "类型": "洞府/封印之地",
     "上级区域": "长龙般山脉深处的巨大盆地",
-    "守护": "多处强大禁制、仙府百步禁制、十尊玄金金像、九龙阵法",
+    "守护": "多处强大禁制、仙府百步禁制、十尊玄金金像、九龙阵法、青霖所立规则与诸多禁制",
     "危险度": "极高",
     "方位": "仙灵天境中心（九龙阵法之后）"
   },
@@ -29,6 +31,11 @@
         "value": "白雪之师尊",
         "docId": "plot.xianni-ch361-zhuque-guo-arrival",
         "seq": 341
+      },
+      {
+        "value": "青霖",
+        "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
+        "seq": 987
       }
     ],
     "所属界面": [
@@ -73,6 +80,11 @@
         "value": "洞府",
         "docId": "plot.xianni-1065-three-ancient-races-reunite",
         "seq": 982
+      },
+      {
+        "value": "洞府/封印之地",
+        "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
+        "seq": 987
       }
     ],
     "上级区域": [
@@ -102,6 +114,11 @@
         "value": "九龙阵法",
         "docId": "plot.xianni-1012-immortal-mansion-opens",
         "seq": 939
+      },
+      {
+        "value": "青霖所立规则与诸多禁制",
+        "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
+        "seq": 987
       }
     ],
     "危险度": [
@@ -138,9 +155,9 @@
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+      "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
       "dated": false,
-      "seq": 341
+      "seq": 987
     },
     "所属界面": {
       "asOf": null,
@@ -150,9 +167,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1065-three-ancient-races-reunite",
+      "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
       "dated": false,
-      "seq": 982
+      "seq": 987
     },
     "上级区域": {
       "asOf": null,
@@ -188,7 +205,8 @@
     "plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge",
     "plot.xianni-ch1004-immortal-mansion-restriction-breaking",
     "plot.xianni-1012-immortal-mansion-opens",
-    "plot.xianni-1065-three-ancient-races-reunite"
+    "plot.xianni-1065-three-ancient-races-reunite",
+    "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach"
   ],
-  "updatedAt": "2026-08-24T10:20:08.344Z"
+  "updatedAt": "2026-08-24T11:35:56.132Z"
 }

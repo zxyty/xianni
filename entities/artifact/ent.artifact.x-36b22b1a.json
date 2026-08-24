@@ -5,14 +5,17 @@
   "aliases": [
     "眉心雪花",
     "雪花法宝",
-    "大师姐所赐防身之宝"
+    "大师姐所赐防身之宝",
+    "粉衣女子的雪花法宝",
+    "旋转雪花"
   ],
   "summary": "粉衣女子眉心的雪花状防身法宝，由其大师姐木冰眉所赐，可化作无数雪花环身死守。",
   "attributes": {
     "持有者": "粉衣女子",
     "来历": "大师姐（木冰眉）所赐防身之宝",
-    "能力": "化作无数雪花环身防御、主人被定身时仍可自行护主",
-    "外形": "眉心雪花痕迹，闪烁不定"
+    "能力": "化作无数雪花环身防御、主人被定身时仍可自行护主、护体御敌、阻挡魔龙攻击",
+    "外形": "旋转的雪花",
+    "禁制": "碎裂损毁"
   },
   "observations": {
     "持有者": [
@@ -39,6 +42,16 @@
         "value": "主人被定身时仍可自行护主",
         "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
         "seq": 977
+      },
+      {
+        "value": "护体御敌",
+        "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
+        "seq": 987
+      },
+      {
+        "value": "阻挡魔龙攻击",
+        "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
+        "seq": 987
       }
     ],
     "外形": [
@@ -46,6 +59,19 @@
         "value": "眉心雪花痕迹，闪烁不定",
         "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
         "seq": 977
+      },
+      {
+        "value": "旋转的雪花",
+        "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
+        "seq": 987
+      }
+    ],
+    "禁制": [
+      {
+        "value": "碎裂损毁",
+        "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
+        "seq": 987,
+        "note": "第987章多次阻挡黑龙后"
       }
     ]
   },
@@ -71,15 +97,23 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
+      "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
       "dated": false,
-      "seq": 977
+      "seq": 987
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
+      "dated": false,
+      "seq": 987,
+      "note": "第987章多次阻挡黑龙后"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao"
+    "plot.xianni-1058-kunxu-shengnv-mu-bingmei-tianhun-dao",
+    "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach"
   ],
-  "updatedAt": "2026-08-24T09:47:33.493Z"
+  "updatedAt": "2026-08-24T11:35:56.095Z"
 }

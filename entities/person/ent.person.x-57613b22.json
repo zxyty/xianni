@@ -1,36 +1,35 @@
 {
-  "id": "ent.person.x-62ac7af4",
+  "id": "ent.person.x-57613b22",
   "type": "person",
-  "name": "浮沉子",
+  "name": "尘道三子中的第三子",
   "aliases": [
-    "Fu Chen Zi",
-    "浮沉子道友"
+    "尘道第三子"
   ],
-  "summary": "自第二层飞出的修士之一，略猜到王林打算却不明缘由；感受到下方无尽凶焰后心神颤抖，施展仅会的禁制相助。",
+  "summary": "在古魔一捏之威下肉身崩溃，元神被一尘子救下后随其逃遁。",
   "attributes": {
-    "小阶段": "净涅",
-    "存殁": "重伤存活"
+    "身份": "尘道三子之一",
+    "存殁": "肉身崩溃，元神存留"
   },
   "observations": {
-    "小阶段": [
+    "身份": [
       {
-        "value": "净涅",
+        "value": "尘道三子之一",
         "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
         "seq": 987
       }
     ],
     "存殁": [
       {
-        "value": "重伤存活",
+        "value": "肉身崩溃，元神存留",
         "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
         "seq": 987,
-        "note": "第987章"
+        "note": "第987章，由一尘子携元神逃遁"
       }
     ]
   },
   "firstSeq": 987,
   "attrProvenance": {
-    "小阶段": {
+    "身份": {
       "asOf": null,
       "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
       "dated": false,
@@ -41,14 +40,13 @@
       "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
       "dated": false,
       "seq": 987,
-      "note": "第987章"
+      "note": "第987章，由一尘子携元神逃遁"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1069-beiluo-yaolingbian-self-detonation",
     "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach"
   ],
-  "updatedAt": "2026-08-24T11:35:56.090Z"
+  "updatedAt": "2026-08-24T11:35:56.086Z"
 }

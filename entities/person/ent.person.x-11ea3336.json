@@ -13,7 +13,8 @@
     "千琴师姐",
     "绿衣女子",
     "Qian Qin",
-    "千琴弟子"
+    "千琴弟子",
+    "千琴道友"
   ],
   "summary": "小门派女修，与郭邢佚原为好友，请其助阵夺耀金果反被出卖；被大罗剑宗逼迫带路，仅得许诺一粒耀金果，心怀刻骨仇恨。",
   "attributes": {
@@ -21,9 +22,10 @@
     "外貌": "身穿绿衣",
     "性格": "目光复杂、念旧",
     "身份": "村姑美妇的弟子",
-    "存殁": "存活",
+    "存殁": "肉身崩溃，元神存留",
     "标志特征": "处子之身（被石方视作疗伤之资）",
-    "结局": "获赠一须金灵根后探望同门、化长虹离去"
+    "结局": "获赠一须金灵根后探望同门、化长虹离去",
+    "死因": "古魔塔珈神通压迫致肉身崩溃"
   },
   "observations": {
     "性别": [
@@ -85,6 +87,12 @@
         "value": "存活",
         "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
         "seq": 486
+      },
+      {
+        "value": "肉身崩溃，元神存留",
+        "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
+        "seq": 987,
+        "note": "第987章；元神与粉衣女子融合中"
       }
     ],
     "标志特征": [
@@ -100,6 +108,13 @@
         "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
         "seq": 486,
         "note": "第513章"
+      }
+    ],
+    "死因": [
+      {
+        "value": "古魔塔珈神通压迫致肉身崩溃",
+        "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
+        "seq": 987
       }
     ]
   },
@@ -131,9 +146,10 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
+      "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
       "dated": false,
-      "seq": 486
+      "seq": 987,
+      "note": "第987章；元神与粉衣女子融合中"
     },
     "标志特征": {
       "asOf": null,
@@ -147,6 +163,12 @@
       "dated": false,
       "seq": 486,
       "note": "第513章"
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
+      "dated": false,
+      "seq": 987
     }
   },
   "contested": false,
@@ -156,7 +178,8 @@
     "plot.xianni-ch486-490-jiuli-worm-yaojin-fruit",
     "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi",
     "plot.xianni-ch997-xukongzi-arrival",
-    "plot.xianni-1012-immortal-mansion-opens"
+    "plot.xianni-1012-immortal-mansion-opens",
+    "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach"
   ],
-  "updatedAt": "2026-08-24T05:19:09.306Z"
+  "updatedAt": "2026-08-24T11:35:56.080Z"
 }

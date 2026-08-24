@@ -1,54 +1,50 @@
 {
-  "id": "ent.person.x-62ac7af4",
+  "id": "ent.person.x-007db7de",
   "type": "person",
-  "name": "浮沉子",
+  "name": "村姑美妇的女弟子",
   "aliases": [
-    "Fu Chen Zi",
-    "浮沉子道友"
+    "村姑美妇门下女弟子"
   ],
-  "summary": "自第二层飞出的修士之一，略猜到王林打算却不明缘由；感受到下方无尽凶焰后心神颤抖，施展仅会的禁制相助。",
+  "summary": "村姑美妇门下弟子，被古魔所化黑龙卷起身子。",
   "attributes": {
-    "小阶段": "净涅",
-    "存殁": "重伤存活"
+    "性别": "女",
+    "身份": "村姑美妇的弟子"
   },
   "observations": {
-    "小阶段": [
+    "性别": [
       {
-        "value": "净涅",
+        "value": "女",
         "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
         "seq": 987
       }
     ],
-    "存殁": [
+    "身份": [
       {
-        "value": "重伤存活",
+        "value": "村姑美妇的弟子",
         "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
-        "seq": 987,
-        "note": "第987章"
+        "seq": 987
       }
     ]
   },
   "firstSeq": 987,
   "attrProvenance": {
-    "小阶段": {
+    "性别": {
       "asOf": null,
       "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
       "dated": false,
       "seq": 987
     },
-    "存殁": {
+    "身份": {
       "asOf": null,
       "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
       "dated": false,
-      "seq": 987,
-      "note": "第987章"
+      "seq": 987
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1069-beiluo-yaolingbian-self-detonation",
     "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach"
   ],
-  "updatedAt": "2026-08-24T11:35:56.090Z"
+  "updatedAt": "2026-08-24T11:35:56.095Z"
 }

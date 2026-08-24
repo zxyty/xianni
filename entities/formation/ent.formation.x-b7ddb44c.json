@@ -1,0 +1,79 @@
+{
+  "id": "ent.formation.x-b7ddb44c",
+  "type": "formation",
+  "name": "青霖之规则",
+  "aliases": [
+    "青霖定下的规则",
+    "第一个规则",
+    "第二个规则",
+    "洞府规则"
+  ],
+  "summary": "青霖针对夺舍者设下的多重规则：第一重使其无法离开洞府、无法摧毁任何禁制；第二重于其走出洞府时触发。",
+  "attributes": {
+    "布置者": "青霖",
+    "效果": "以青霖肉身者无法最终离开洞府、无法摧毁任何一个禁制、走出洞府即触发第二个规则",
+    "破解法": "以幻术驱使外来救援者代为开道破规"
+  },
+  "observations": {
+    "布置者": [
+      {
+        "value": "青霖",
+        "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
+        "seq": 987
+      }
+    ],
+    "效果": [
+      {
+        "value": "以青霖肉身者无法最终离开洞府",
+        "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
+        "seq": 987
+      },
+      {
+        "value": "无法摧毁任何一个禁制",
+        "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
+        "seq": 987
+      },
+      {
+        "value": "走出洞府即触发第二个规则",
+        "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
+        "seq": 987
+      }
+    ],
+    "破解法": [
+      {
+        "value": "以幻术驱使外来救援者代为开道破规",
+        "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
+        "seq": 987,
+        "note": "塔珈破第一重规则之法"
+      }
+    ]
+  },
+  "firstSeq": 987,
+  "attrProvenance": {
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
+      "dated": false,
+      "seq": 987
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
+      "dated": false,
+      "seq": 987
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach",
+      "dated": false,
+      "seq": 987,
+      "note": "塔珈破第一重规则之法"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.xianni-ch1070-immortal-emperor-cave-first-layer-escape-and-zhuque-seal-breach"
+  ],
+  "updatedAt": "2026-08-24T11:35:56.135Z"
+}
