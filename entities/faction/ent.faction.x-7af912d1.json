@@ -12,9 +12,10 @@
   "summary": "同行女子所属势力，宫内姐妹众多，据其称皆为绝艳。",
   "attributes": {
     "据点": "天运星",
-    "掌门": "司徒南（红粉宫宫主）",
+    "掌门": "司徒南",
     "理念": "赠丹药、授仙术以聚女修",
-    "阵营": "随司徒南行动"
+    "阵营": "随司徒南行动",
+    "所属界面": "天运星"
   },
   "observations": {
     "据点": [
@@ -29,6 +30,12 @@
         "value": "司徒南（红粉宫宫主）",
         "docId": "plot.xianni-ch990-lianhua-nvshi-situ-nan-qiangren",
         "seq": 919
+      },
+      {
+        "value": "司徒南",
+        "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+        "seq": 922,
+        "note": "实为司徒南的断臂所化人影"
       }
     ],
     "理念": [
@@ -45,6 +52,13 @@
         "seq": 919,
         "note": "本片段随其攻打水灵星"
       }
+    ],
+    "所属界面": [
+      {
+        "value": "天运星",
+        "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+        "seq": 922
+      }
     ]
   },
   "firstSeq": 914,
@@ -57,9 +71,10 @@
     },
     "掌门": {
       "asOf": null,
-      "docId": "plot.xianni-ch990-lianhua-nvshi-situ-nan-qiangren",
+      "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
       "dated": false,
-      "seq": 919
+      "seq": 922,
+      "note": "实为司徒南的断臂所化人影"
     },
     "理念": {
       "asOf": null,
@@ -73,13 +88,20 @@
       "dated": false,
       "seq": 919,
       "note": "本片段随其攻打水灵星"
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+      "dated": false,
+      "seq": 922
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
-    "plot.xianni-ch990-lianhua-nvshi-situ-nan-qiangren"
+    "plot.xianni-ch990-lianhua-nvshi-situ-nan-qiangren",
+    "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison"
   ],
-  "updatedAt": "2026-08-24T02:34:22.466Z"
+  "updatedAt": "2026-08-24T02:53:45.010Z"
 }

@@ -6,13 +6,16 @@
     "Fengluan Star",
     "凤鸾星",
     "Feng Luan Star",
-    "凤栾星球"
+    "凤栾星球",
+    "风乱星"
   ],
   "summary": "司徒南心心念念要去的星辰，据说其女修元阴饱满，是其得肉身后的享乐目的地。",
   "attributes": {
     "类型": "修真星",
-    "特产": "厉害的女修",
-    "上级区域": "联盟星域"
+    "特产": "毒药",
+    "上级区域": "联盟星域",
+    "危险度": "无碎涅修士，最高净涅中期；净涅修士不少，加上外来帮手足有十余人",
+    "守护": "发布追杀令的女修群体及其外来帮手"
   },
   "observations": {
     "类型": [
@@ -48,6 +51,12 @@
         "docId": "plot.xianni-ch899-903-linger-mo-dao-zi",
         "seq": 899,
         "note": "紫袍男子口述"
+      },
+      {
+        "value": "毒药",
+        "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+        "seq": 922,
+        "note": "有毒无解药"
       }
     ],
     "上级区域": [
@@ -55,6 +64,20 @@
         "value": "联盟星域",
         "docId": "plot.xianni-ch897-feng-sao-can-ye-wang-lin-qing-jiao-shi-yin-zong",
         "seq": 834
+      }
+    ],
+    "危险度": [
+      {
+        "value": "无碎涅修士，最高净涅中期；净涅修士不少，加上外来帮手足有十余人",
+        "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+        "seq": 922
+      }
+    ],
+    "守护": [
+      {
+        "value": "发布追杀令的女修群体及其外来帮手",
+        "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+        "seq": 922
       }
     ]
   },
@@ -68,16 +91,28 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-ch899-903-linger-mo-dao-zi",
+      "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
       "dated": false,
-      "seq": 899,
-      "note": "紫袍男子口述"
+      "seq": 922,
+      "note": "有毒无解药"
     },
     "上级区域": {
       "asOf": null,
       "docId": "plot.xianni-ch897-feng-sao-can-ye-wang-lin-qing-jiao-shi-yin-zong",
       "dated": false,
       "seq": 834
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+      "dated": false,
+      "seq": 922
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+      "dated": false,
+      "seq": 922
     }
   },
   "contested": false,
@@ -90,7 +125,8 @@
     "plot.xianni-ch897-feng-sao-can-ye-wang-lin-qing-jiao-shi-yin-zong",
     "plot.xianni-ch899-903-linger-mo-dao-zi",
     "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
-    "plot.xianni-ch990-lianhua-nvshi-situ-nan-qiangren"
+    "plot.xianni-ch990-lianhua-nvshi-situ-nan-qiangren",
+    "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison"
   ],
-  "updatedAt": "2026-08-24T02:34:22.436Z"
+  "updatedAt": "2026-08-24T02:53:44.916Z"
 }

@@ -4,14 +4,16 @@
   "name": "葫芦老者",
   "aliases": [
     "坐在葫芦上的老者",
-    "黑白双色道袍老者"
+    "黑白双色道袍老者",
+    "盘膝坐在葫芦上的老者"
   ],
   "summary": "身穿黑白双色道袍、坐于葫芦之上的老怪；追问王林当年遁走缘由，并索要仙府令牌。",
   "attributes": {
     "外貌": "黑白双色道袍，坐在葫芦之上",
     "性格": "含笑而双目幽光闪烁，心思难测",
-    "标志特征": "坐于葫芦之上",
-    "阵营": "天运星老怪"
+    "标志特征": "盘膝坐于飘动的葫芦之上",
+    "阵营": "天运星老怪",
+    "身份": "率九名门人的一方势力之主"
   },
   "observations": {
     "外貌": [
@@ -33,6 +35,11 @@
         "value": "坐于葫芦之上",
         "docId": "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi",
         "seq": 890
+      },
+      {
+        "value": "盘膝坐于飘动的葫芦之上",
+        "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+        "seq": 922
       }
     ],
     "阵营": [
@@ -40,6 +47,13 @@
         "value": "天运星老怪",
         "docId": "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi",
         "seq": 890
+      }
+    ],
+    "身份": [
+      {
+        "value": "率九名门人的一方势力之主",
+        "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+        "seq": 922
       }
     ]
   },
@@ -59,22 +73,29 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi",
+      "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
       "dated": false,
-      "seq": 890
+      "seq": 922
     },
     "阵营": {
       "asOf": null,
       "docId": "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi",
       "dated": false,
       "seq": 890
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+      "dated": false,
+      "seq": 922
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch957-wang-lin-returns-tianyun-sect",
-    "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi"
+    "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi",
+    "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison"
   ],
-  "updatedAt": "2026-08-23T22:44:53.341Z"
+  "updatedAt": "2026-08-24T02:53:44.933Z"
 }

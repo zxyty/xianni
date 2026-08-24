@@ -7,8 +7,10 @@
   ],
   "summary": "天运星旁观者中的炼器宗师，一眼看出二十七剑材质不凡、经杀戮滔天之地祭炼无数年，任一把皆可为绝代凶器。",
   "attributes": {
-    "外貌": "村姑般的中年美妇",
-    "身份": "炼器宗师"
+    "外貌": "如村姑般的中年美妇",
+    "身份": "炼器宗师",
+    "性别": "女",
+    "出身地": "非天运星"
   },
   "observations": {
     "外貌": [
@@ -16,6 +18,11 @@
         "value": "村姑般的中年美妇",
         "docId": "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi",
         "seq": 890
+      },
+      {
+        "value": "如村姑般的中年美妇",
+        "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+        "seq": 922
       }
     ],
     "身份": [
@@ -24,27 +31,56 @@
         "docId": "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi",
         "seq": 890
       }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+        "seq": 922
+      }
+    ],
+    "出身地": [
+      {
+        "value": "非天运星",
+        "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+        "seq": 922,
+        "note": "自述不居住在天运星"
+      }
     ]
   },
   "firstSeq": 890,
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi",
+      "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
       "dated": false,
-      "seq": 890
+      "seq": 922
     },
     "身份": {
       "asOf": null,
       "docId": "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi",
       "dated": false,
       "seq": 890
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+      "dated": false,
+      "seq": 922
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+      "dated": false,
+      "seq": 922,
+      "note": "自述不居住在天运星"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi"
+    "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi",
+    "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison"
   ],
-  "updatedAt": "2026-08-23T22:44:53.342Z"
+  "updatedAt": "2026-08-24T02:53:44.986Z"
 }

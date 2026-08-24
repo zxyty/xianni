@@ -6,14 +6,18 @@
     "某个仙人留下的洞府",
     "石门内洞府",
     "仙禁洞府",
-    "疑似仙人之府"
+    "疑似仙人之府",
+    "妖灵之地仙人洞府",
+    "最神秘的洞府"
   ],
   "summary": "某位仙人所留、荒废多年的洞府，神通多已消失，仅存一丝府灵之魂看守；入内须有令牌或接下府灵三剑。",
   "attributes": {
-    "类型": "仙人遗留洞府、上古洞府/秘境",
+    "类型": "仙人遗留洞府、上古洞府/秘境、仙人洞府",
     "守护": "洞府之灵、仙禁整体封印",
-    "上级区域": "尊龙之路尽头",
-    "危险度": "极高（仙禁遍布，厅榭禁制含数万变化）"
+    "上级区域": "妖灵之地",
+    "危险度": "极高（仙禁遍布，厅榭禁制含数万变化）",
+    "方位": "妖灵之地深处",
+    "特产": "仙宝、仙术"
   },
   "observations": {
     "类型": [
@@ -26,6 +30,11 @@
         "value": "上古洞府/秘境",
         "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
         "seq": 532
+      },
+      {
+        "value": "仙人洞府",
+        "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+        "seq": 922
       }
     ],
     "守护": [
@@ -45,6 +54,11 @@
         "value": "尊龙之路尽头",
         "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
         "seq": 532
+      },
+      {
+        "value": "妖灵之地",
+        "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+        "seq": 922
       }
     ],
     "危险度": [
@@ -52,6 +66,25 @@
         "value": "极高（仙禁遍布，厅榭禁制含数万变化）",
         "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
         "seq": 532
+      }
+    ],
+    "方位": [
+      {
+        "value": "妖灵之地深处",
+        "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+        "seq": 922
+      }
+    ],
+    "特产": [
+      {
+        "value": "仙宝",
+        "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+        "seq": 922
+      },
+      {
+        "value": "仙术",
+        "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+        "seq": 922
       }
     ]
   },
@@ -71,21 +104,34 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
+      "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
       "dated": false,
-      "seq": 532
+      "seq": 922
     },
     "危险度": {
       "asOf": null,
       "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
       "dated": false,
       "seq": 532
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+      "dated": false,
+      "seq": 922
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+      "dated": false,
+      "seq": 922
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch532-533-three-stroke-rune-second-seal"
+    "plot.xianni-ch532-533-three-stroke-rune-second-seal",
+    "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison"
   ],
-  "updatedAt": "2026-08-22T08:01:12.161Z"
+  "updatedAt": "2026-08-24T02:53:44.913Z"
 }

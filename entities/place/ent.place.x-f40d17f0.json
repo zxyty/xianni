@@ -3,15 +3,21 @@
   "type": "place",
   "name": "潮汐之地",
   "aliases": [
-    "潮汐之地仙府"
+    "潮汐之地仙府",
+    "妖灵之地大门",
+    "Chao Xi Zhi Di",
+    "潮汐漩涡"
   ],
   "summary": "妖灵之地内的深渊之地，无日夜，弥漫黑雾，外有无数奇异妖兽游荡；贪狼称其为妖灵之地最大的宝藏，东海外潮汐吸入的法宝奇物汇聚于此。",
   "attributes": {
-    "所属界面": "妖灵之地",
-    "类型": "仙府／秘境",
-    "危险度": "事关重大，为众老怪所争",
+    "所属界面": "妖灵之地、天运星星域范围、天运星",
+    "类型": "深渊/秘境、仙府／秘境、空间漩涡入口、禁地/漩涡深渊",
+    "危险度": "正常运作时有恐怖吸力",
     "特产": "被潮汐吸入的法宝与奇异之物、天运子等人眼红的令牌",
-    "上级区域": "妖灵之地"
+    "上级区域": "妖灵之地",
+    "方位": "天运星外星空、东海",
+    "规模": "庞大漩涡，上空可容纳大量修士聚集",
+    "守护": "由天运子持令牌掌控开启"
   },
   "observations": {
     "所属界面": [
@@ -19,6 +25,16 @@
         "value": "妖灵之地",
         "docId": "plot.xianni-ch632-tanlang-daluo-disciples-trapped-tide-abyss",
         "seq": 591
+      },
+      {
+        "value": "天运星星域范围",
+        "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+        "seq": 922
+      },
+      {
+        "value": "天运星",
+        "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+        "seq": 922
       }
     ],
     "类型": [
@@ -31,6 +47,16 @@
         "value": "仙府／秘境",
         "docId": "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star",
         "seq": 890
+      },
+      {
+        "value": "空间漩涡入口",
+        "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+        "seq": 922
+      },
+      {
+        "value": "禁地/漩涡深渊",
+        "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+        "seq": 922
       }
     ],
     "危险度": [
@@ -43,6 +69,11 @@
         "value": "事关重大，为众老怪所争",
         "docId": "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star",
         "seq": 890
+      },
+      {
+        "value": "正常运作时有恐怖吸力",
+        "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+        "seq": 922
       }
     ],
     "特产": [
@@ -63,6 +94,27 @@
         "docId": "plot.xianni-ch632-tanlang-daluo-disciples-trapped-tide-abyss",
         "seq": 591
       }
+    ],
+    "方位": [
+      {
+        "value": "天运星外星空、东海",
+        "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+        "seq": 922
+      }
+    ],
+    "规模": [
+      {
+        "value": "庞大漩涡，上空可容纳大量修士聚集",
+        "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+        "seq": 922
+      }
+    ],
+    "守护": [
+      {
+        "value": "由天运子持令牌掌控开启",
+        "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+        "seq": 922
+      }
     ]
   },
   "firstSeq": 591,
@@ -75,15 +127,15 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star",
+      "docId": "plot.xianni-ch632-tanlang-daluo-disciples-trapped-tide-abyss",
       "dated": false,
-      "seq": 890
+      "seq": 591
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star",
+      "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
       "dated": false,
-      "seq": 890
+      "seq": 922
     },
     "特产": {
       "asOf": null,
@@ -96,13 +148,32 @@
       "docId": "plot.xianni-ch632-tanlang-daluo-disciples-trapped-tide-abyss",
       "dated": false,
       "seq": 591
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+      "dated": false,
+      "seq": 922
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+      "dated": false,
+      "seq": 922
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+      "dated": false,
+      "seq": 922
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch632-tanlang-daluo-disciples-trapped-tide-abyss",
-    "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star"
+    "plot.xianni-ch956-pink-clothed-woman-return-to-tianyun-star",
+    "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison"
   ],
-  "updatedAt": "2026-08-23T22:34:23.413Z"
+  "updatedAt": "2026-08-24T02:53:44.997Z"
 }

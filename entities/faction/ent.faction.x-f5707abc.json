@@ -3,12 +3,14 @@
   "type": "faction",
   "name": "天云宗",
   "aliases": [
-    "天云宗后山"
+    "天云宗后山",
+    "天云宗门派"
   ],
   "summary": "天运星上的宗门，内有三叉戟状仙山，天运子于其顶盘膝而坐。",
   "attributes": {
     "据点": "天运星、天运星（含后山青石处）",
-    "所属界面": "天运星"
+    "所属界面": "天运星",
+    "掌门": "天运子"
   },
   "observations": {
     "据点": [
@@ -29,6 +31,14 @@
         "docId": "plot.xianni-ch975-jingle-tianni-reopens-tianyunzi-crisis",
         "seq": 909
       }
+    ],
+    "掌门": [
+      {
+        "value": "天运子",
+        "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+        "seq": 922,
+        "note": "本片段由其亲书请帖召集"
+      }
     ]
   },
   "firstSeq": 909,
@@ -44,12 +54,20 @@
       "docId": "plot.xianni-ch975-jingle-tianni-reopens-tianyunzi-crisis",
       "dated": false,
       "seq": 909
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison",
+      "dated": false,
+      "seq": 922,
+      "note": "本片段由其亲书请帖召集"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch975-jingle-tianni-reopens-tianyunzi-crisis"
+    "plot.xianni-ch975-jingle-tianni-reopens-tianyunzi-crisis",
+    "plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison"
   ],
-  "updatedAt": "2026-08-24T00:46:12.028Z"
+  "updatedAt": "2026-08-24T02:53:44.917Z"
 }
