@@ -12,11 +12,11 @@
   ],
   "summary": "归元宗南苑内的药院，王林与孙芸的居所，院内种植比寻常花草坚韧的药草。",
   "attributes": {
-    "类型": "药园、宗门药园、宗门药院、药院、宗门院落、药园／静修之地",
+    "类型": "药园、宗门药园、宗门药院、药院、宗门院落、药园／静修之地、药院/居所庭院",
     "所属势力": "归元宗",
     "方位": "归元宗南苑",
     "特产": "王林带回的药草",
-    "上级区域": "归元宗南苑",
+    "上级区域": "莫罗大陆",
     "守护": "禁制封锁（南苑禁区）"
   },
   "observations": {
@@ -49,6 +49,11 @@
       {
         "value": "药园／静修之地",
         "docId": "plot.xianni-ch1165-lu-yuncong-bi-bu-liao",
+        "seq": 1082
+      },
+      {
+        "value": "药院/居所庭院",
+        "docId": "plot.xianni-1167-hui-mou-yi-xiao-lun-dao",
         "seq": 1082
       }
     ],
@@ -88,6 +93,11 @@
         "value": "归元宗南苑",
         "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
         "seq": 1077
+      },
+      {
+        "value": "莫罗大陆",
+        "docId": "plot.xianni-1167-hui-mou-yi-xiao-lun-dao",
+        "seq": 1082
       }
     ],
     "守护": [
@@ -131,9 +141,9 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-1160-li-qianmei-gushen-dujie",
+      "docId": "plot.xianni-1167-hui-mou-yi-xiao-lun-dao",
       "dated": false,
-      "seq": 1077
+      "seq": 1082
     },
     "守护": {
       "asOf": null,
@@ -152,7 +162,8 @@
     "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
     "plot.xianni-1160-li-qianmei-gushen-dujie",
     "plot.xianni-ch1165-lu-yuncong-bi-bu-liao",
-    "plot.xianni-1166-tian-de-huangyan-li-qianmei-wendao"
+    "plot.xianni-1166-tian-de-huangyan-li-qianmei-wendao",
+    "plot.xianni-1167-hui-mou-yi-xiao-lun-dao"
   ],
-  "updatedAt": "2026-08-24T20:09:43.888Z"
+  "updatedAt": "2026-08-24T20:12:16.189Z"
 }

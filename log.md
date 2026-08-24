@@ -565,3 +565,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T20:05:43.051Z** `ingest` plot.xianni-1164-three-questions-lu-yuncong-li-qianmei — 第1164章 三个问题：紫道宗卢云从赴莫罗大陆，破天宗李倩梅拦路问天 · kind=plot asOf=2026-08-24 entities=26 relations=34 src=01082-01086.p1.md
 - **2026-08-24T20:08:05.257Z** `ingest` plot.xianni-ch1165-lu-yuncong-bi-bu-liao — 仙逆 第1165章 卢云从，比不了！——问道三问与药院对峙 · kind=plot asOf=2026-08-24 entities=25 relations=32 src=01082-01086.p2.md
 - **2026-08-24T20:09:44.192Z** `ingest` plot.xianni-1166-tian-de-huangyan-li-qianmei-wendao — 第1166章 天的谎言——王林以「吕子浩」之名答李倩梅问道 · kind=plot asOf=2026-08-24 entities=13 relations=16 src=01082-01086.p3.md
+- **2026-08-24T20:12:16.491Z** `ingest` plot.xianni-1167-hui-mou-yi-xiao-lun-dao — 第1167章 回眸一笑——王林论「道如思想」，李倩梅第三问与卢云从解怨 · kind=plot asOf=2026-08-24 entities=26 relations=38 src=01082-01086.p4.md

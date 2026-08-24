@@ -3,11 +3,13 @@
   "type": "person",
   "name": "李倩梅的师尊",
   "aliases": [
-    "破天宗师尊"
+    "破天宗师尊",
+    "李倩梅师尊"
   ],
   "summary": "李倩梅之师，曾夸奖卢云从为五阶星域第一人。",
   "attributes": {
-    "身份": "九阶破天宗高层"
+    "身份": "九阶破天宗高层",
+    "存殁": "未明"
   },
   "observations": {
     "身份": [
@@ -15,6 +17,14 @@
         "value": "九阶破天宗高层",
         "docId": "plot.xianni-ch1165-lu-yuncong-bi-bu-liao",
         "seq": 1082
+      }
+    ],
+    "存殁": [
+      {
+        "value": "未明",
+        "docId": "plot.xianni-1167-hui-mou-yi-xiao-lun-dao",
+        "seq": 1082,
+        "note": "本章仅经李倩梅转述其言"
       }
     ]
   },
@@ -25,12 +35,20 @@
       "docId": "plot.xianni-ch1165-lu-yuncong-bi-bu-liao",
       "dated": false,
       "seq": 1082
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1167-hui-mou-yi-xiao-lun-dao",
+      "dated": false,
+      "seq": 1082,
+      "note": "本章仅经李倩梅转述其言"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1165-lu-yuncong-bi-bu-liao"
+    "plot.xianni-ch1165-lu-yuncong-bi-bu-liao",
+    "plot.xianni-1167-hui-mou-yi-xiao-lun-dao"
   ],
-  "updatedAt": "2026-08-24T20:08:04.876Z"
+  "updatedAt": "2026-08-24T20:12:16.181Z"
 }
