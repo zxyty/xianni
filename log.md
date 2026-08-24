@@ -458,3 +458,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T09:17:45.033Z** `ingest` plot.xianni-1048-zhibao-tiejian-cikongnie — 第1048章 至宝：王林拔铁剑连斩虚空子 · kind=plot asOf=2026-08-24 entities=15 relations=21 src=00967-00971.p2.md
 - **2026-08-24T09:20:18.367Z** `ingest` plot.xianni-ch1049-wang-lin-23-swords-defeat-xukongzi — 仙逆 第1049章 想要王某之宝，尽管来！——二十三剑破虚空子，铁剑锈迹断其本源明悟 · kind=plot asOf=2026-08-24 entities=22 relations=29 src=00967-00971.p3.md
 - **2026-08-24T09:27:26.881Z** `ingest` lore.xianni-ch1050-ci-kong-nie-nie-level-treasures-tianren-wushuai — 第1050章 次空涅与涅级至宝：碎涅法宝等级与天人五衰设定 · kind=lore asOf=2026-08-24 entities=37 relations=66 src=00967-00971.p4.md
+- **2026-08-24T09:29:55.756Z** `ingest` plot.xianni-1051-zhou-yi-reappears — 《仙逆》第1051章 周佚再现——仙帝洞府第六层丹房外的禁制疑云 · kind=plot asOf=2026-08-24 entities=20 relations=32 src=00967-00971.p5.md

@@ -3,12 +3,14 @@
   "type": "artifact",
   "name": "叱虎的罗盘",
   "aliases": [
-    "罗盘"
+    "罗盘",
+    "王林的罗盘",
+    "推演罗盘"
   ],
   "summary": "叱虎所持罗盘，可在仙界吞噬虚无中锁定方向，使三人不致迷失。",
   "attributes": {
-    "持有者": "叱虎",
-    "能力": "在虚无中锁定方向、防止迷失"
+    "持有者": "王林",
+    "能力": "辅助推演禁制变化"
   },
   "observations": {
     "持有者": [
@@ -16,6 +18,11 @@
         "value": "叱虎",
         "docId": "plot.xianni-ch307-shooting-god-chariot",
         "seq": 289
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-1051-zhou-yi-reappears",
+        "seq": 967
       }
     ],
     "能力": [
@@ -23,6 +30,11 @@
         "value": "在虚无中锁定方向、防止迷失",
         "docId": "plot.xianni-ch307-shooting-god-chariot",
         "seq": 289
+      },
+      {
+        "value": "辅助推演禁制变化",
+        "docId": "plot.xianni-1051-zhou-yi-reappears",
+        "seq": 967
       }
     ]
   },
@@ -30,22 +42,23 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch307-shooting-god-chariot",
+      "docId": "plot.xianni-1051-zhou-yi-reappears",
       "dated": false,
-      "seq": 289
+      "seq": 967
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-ch307-shooting-god-chariot",
+      "docId": "plot.xianni-1051-zhou-yi-reappears",
       "dated": false,
-      "seq": 289
+      "seq": 967
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch307-shooting-god-chariot",
-    "plot.xianni-ch294-298-void-voyage-first-fairy-fragment"
+    "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+    "plot.xianni-1051-zhou-yi-reappears"
   ],
-  "updatedAt": "2026-08-08T04:38:19.246Z"
+  "updatedAt": "2026-08-24T09:29:55.400Z"
 }
