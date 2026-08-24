@@ -9,8 +9,9 @@
   "summary": "炼魂部落供奉的黑色石像，被十三称为「我主」，将被安放于原古妖之灵所在之地，成为部落精神寄托。",
   "attributes": {
     "持有者": "炼魂部落",
-    "能力": "作为部落一切精神寄托（地位等同当年古妖之灵）",
-    "外形": "黑色石像"
+    "能力": "作为部落一切精神寄托（地位等同当年古妖之灵）、随万人膜拜自行变得光滑并趋近王林真容，予人被凝视之感",
+    "外形": "黑色石像、刻有王林样貌的黑色石像，置于火妖都城皇宫后方山谷",
+    "来历": "十三等人按记忆雕刻的寻常之石，作炼魂部落精神象征"
   },
   "observations": {
     "持有者": [
@@ -25,12 +26,30 @@
         "value": "作为部落一切精神寄托（地位等同当年古妖之灵）",
         "docId": "plot.xianni-ch997-xukongzi-arrival",
         "seq": 926
+      },
+      {
+        "value": "随万人膜拜自行变得光滑并趋近王林真容，予人被凝视之感",
+        "docId": "plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge",
+        "seq": 926,
+        "note": "机制未明，十三等归咎为老祖显灵"
       }
     ],
     "外形": [
       {
         "value": "黑色石像",
         "docId": "plot.xianni-ch997-xukongzi-arrival",
+        "seq": 926
+      },
+      {
+        "value": "刻有王林样貌的黑色石像，置于火妖都城皇宫后方山谷",
+        "docId": "plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge",
+        "seq": 926
+      }
+    ],
+    "来历": [
+      {
+        "value": "十三等人按记忆雕刻的寻常之石，作炼魂部落精神象征",
+        "docId": "plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge",
         "seq": 926
       }
     ]
@@ -54,12 +73,19 @@
       "docId": "plot.xianni-ch997-xukongzi-arrival",
       "dated": false,
       "seq": 926
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge",
+      "dated": false,
+      "seq": 926
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch997-xukongzi-arrival"
+    "plot.xianni-ch997-xukongzi-arrival",
+    "plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge"
   ],
-  "updatedAt": "2026-08-24T03:54:08.500Z"
+  "updatedAt": "2026-08-24T04:09:56.745Z"
 }

@@ -418,3 +418,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T02:53:45.280Z** `ingest` plot.xianni-ch922-925-situnan-reunion-yuxian-yusi-poison — 仙逆 第922-925章：王林与司徒南水灵星重逢畅饮，司徒南身中仙界剧毒「欲仙欲死」 · kind=plot asOf=2026-08-24 entities=82 relations=136 src=00922-00925.md
 - **2026-08-24T03:54:08.723Z** `ingest` plot.xianni-ch997-xukongzi-arrival — 第997章 虚空子——碎涅大长老降临，终结凌天候与天运子往事 · kind=plot asOf=2026-08-24 entities=65 relations=104 src=00926-00928.p1a.md
 - **2026-08-24T04:02:17.608Z** `ingest` plot.xianni-ch997-xukongzi-yaoxixue-fengyaojun-inheritance — 第997章 虚空子（段2/2）：云仙道侣论剑灵、姚惜雪风妖郡尸气传承、王林重返妖灵之地 · kind=plot asOf=2026-08-24 entities=45 relations=76 src=00926-00928.p1b.md
+- **2026-08-24T04:09:56.994Z** `ingest` plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge — 第1000章 诡异的黑色石像——火妖郡改立炼魂宗、藏品阁与仙术分授 · kind=plot asOf=2026-08-24 entities=48 relations=69 src=00926-00928.p2.md

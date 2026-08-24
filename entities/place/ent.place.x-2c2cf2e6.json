@@ -6,16 +6,17 @@
     "仙府",
     "盆地仙府",
     "北首三排房舍",
-    "潮汐深渊内的仙府"
+    "潮汐深渊内的仙府",
+    "仙府禁制之地"
   ],
   "summary": "位于长龙般山脉深处一座巨大盆地内的府邸，遍布雕栏玉砌的阁楼房舍，仆从皆为半舌哑仆，多处设有强大禁制，透着阴森诡异。",
   "attributes": {
     "所属势力": "白雪之师尊",
     "所属界面": "朱雀国",
-    "类型": "仙府/遗迹",
+    "类型": "仙府",
     "上级区域": "长龙般山脉深处的巨大盆地",
     "守护": "多处强大禁制",
-    "危险度": "诡异阴森，禁制难以短时破解"
+    "危险度": "存在待破解的禁制"
   },
   "observations": {
     "所属势力": [
@@ -42,6 +43,11 @@
         "value": "仙府/遗迹",
         "docId": "plot.xianni-ch904-908-tianyunzi-finger-strike",
         "seq": 904
+      },
+      {
+        "value": "仙府",
+        "docId": "plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge",
+        "seq": 926
       }
     ],
     "上级区域": [
@@ -63,6 +69,11 @@
         "value": "诡异阴森，禁制难以短时破解",
         "docId": "plot.xianni-ch361-zhuque-guo-arrival",
         "seq": 341
+      },
+      {
+        "value": "存在待破解的禁制",
+        "docId": "plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge",
+        "seq": 926
       }
     ]
   },
@@ -82,9 +93,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch904-908-tianyunzi-finger-strike",
+      "docId": "plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge",
       "dated": false,
-      "seq": 904
+      "seq": 926
     },
     "上级区域": {
       "asOf": null,
@@ -100,9 +111,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+      "docId": "plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge",
       "dated": false,
-      "seq": 341
+      "seq": 926
     }
   },
   "contested": false,
@@ -110,7 +121,8 @@
   "docs": [
     "plot.xianni-ch361-zhuque-guo-arrival",
     "plot.xianni-ch958-renke-wang-lin-vs-ling-tianhou-three-sword-qi",
-    "plot.xianni-ch904-908-tianyunzi-finger-strike"
+    "plot.xianni-ch904-908-tianyunzi-finger-strike",
+    "plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge"
   ],
-  "updatedAt": "2026-08-24T00:32:50.760Z"
+  "updatedAt": "2026-08-24T04:09:56.747Z"
 }

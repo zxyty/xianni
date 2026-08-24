@@ -3,17 +3,19 @@
   "type": "person",
   "name": "谢青",
   "aliases": [
-    "青灵星德高望重的凡人"
+    "青灵星德高望重的凡人",
+    "Xie Qing",
+    "王林的二弟子"
   ],
   "summary": "青灵星德高望重的凡人学者，三岁学词六岁学诗十四岁名震皇城，年迈辞官教化学子，因顿悟徒步朝圣爬上横云山求道，被王林收为唯一记名弟子。",
   "attributes": {
     "性别": "男",
     "种族": "凡人",
-    "身份": "凡人学者、王林的记名弟子、王林之徒",
+    "身份": "凡人学者、王林的记名弟子、王林之徒、王林二弟子",
     "寿元": "所剩不多",
     "性格": "执着求道、坚定果断",
     "标志特征": "膝盖破碎爬山、身后隐现一幕轮回",
-    "出身地": "横云山"
+    "出身地": "罗天星域"
   },
   "observations": {
     "性别": [
@@ -46,6 +48,11 @@
         "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
         "seq": 817,
         "note": "本章以「师尊」称呼王林"
+      },
+      {
+        "value": "王林二弟子",
+        "docId": "plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge",
+        "seq": 926
       }
     ],
     "寿元": [
@@ -80,6 +87,12 @@
         "value": "横云山",
         "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
         "seq": 817
+      },
+      {
+        "value": "罗天星域",
+        "docId": "plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge",
+        "seq": 926,
+        "note": "本片段称其远在罗天"
       }
     ]
   },
@@ -124,16 +137,18 @@
     },
     "出身地": {
       "asOf": null,
-      "docId": "plot.xianni-ch817-820-yixiantian-killing-trial",
+      "docId": "plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge",
       "dated": false,
-      "seq": 817
+      "seq": 926,
+      "note": "本片段称其远在罗天"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch850-yuanli-change-xieqing-disciple",
-    "plot.xianni-ch817-820-yixiantian-killing-trial"
+    "plot.xianni-ch817-820-yixiantian-killing-trial",
+    "plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge"
   ],
-  "updatedAt": "2026-08-23T15:47:09.437Z"
+  "updatedAt": "2026-08-24T04:09:56.739Z"
 }
