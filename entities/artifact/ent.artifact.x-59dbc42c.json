@@ -11,14 +11,17 @@
     "锈迹斑斑的铁剑",
     "托森的铁剑",
     "那把铁剑",
-    "头颅中的铁剑"
+    "头颅中的铁剑",
+    "四处锈迹的铁剑",
+    "次空涅铁剑"
   ],
   "summary": "满是锈迹、状若凡尘之物的铁剑，锈斑由沾染鲜血融入而成、血腥味浓；为乾风的乾家老祖（上一代朱雀子）秘密留下，连这一代朱雀子也不知晓。",
   "attributes": {
-    "持有者": "托森",
-    "来历": "藏于八星古神头颅内",
-    "外形": "锈迹斑斑、带黑褐色干枯血迹的铁剑",
-    "禁制": "有禁制，李元凭此可轻易取得"
+    "持有者": "王林",
+    "来历": "乾家老祖·上一代朱雀子秘密留下，这一代朱雀子从不知晓、乾风祭出、老者觉得眼熟、藏于八星古神头颅内、自人形之物身边夺得；托森使者当年曾得一模一样的一把",
+    "外形": "寻常铁剑，剑身有四处锈迹",
+    "禁制": "剑内无形之气环绕流转，抗拒第三目本源之力",
+    "能力": "阻绝神识探入、剑内无形之气吞噬本源之力、锈灰裂开虚空、锈灰使花海枯萎并崩溃其上禁制"
   },
   "observations": {
     "持有者": [
@@ -37,6 +40,11 @@
         "value": "托森",
         "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
         "seq": 665
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
+        "seq": 963
       }
     ],
     "来历": [
@@ -60,6 +68,11 @@
         "value": "藏于八星古神头颅内",
         "docId": "plot.xianni-1044-confusion-immortal-emperor-cave-bamboo-forest",
         "seq": 963
+      },
+      {
+        "value": "自人形之物身边夺得；托森使者当年曾得一模一样的一把",
+        "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
+        "seq": 963
       }
     ],
     "外形": [
@@ -77,6 +90,11 @@
         "value": "锈迹斑斑、带黑褐色干枯血迹的铁剑",
         "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
         "seq": 665
+      },
+      {
+        "value": "寻常铁剑，剑身有四处锈迹",
+        "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
+        "seq": 963
       }
     ],
     "禁制": [
@@ -84,6 +102,33 @@
         "value": "有禁制，李元凭此可轻易取得",
         "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
         "seq": 706
+      },
+      {
+        "value": "剑内无形之气环绕流转，抗拒第三目本源之力",
+        "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
+        "seq": 963
+      }
+    ],
+    "能力": [
+      {
+        "value": "阻绝神识探入",
+        "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
+        "seq": 963
+      },
+      {
+        "value": "剑内无形之气吞噬本源之力",
+        "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
+        "seq": 963
+      },
+      {
+        "value": "锈灰裂开虚空",
+        "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
+        "seq": 963
+      },
+      {
+        "value": "锈灰使花海枯萎并崩溃其上禁制",
+        "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
+        "seq": 963
       }
     ]
   },
@@ -91,27 +136,33 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
-      "dated": false,
-      "seq": 665
-    },
-    "来历": {
-      "asOf": null,
-      "docId": "plot.xianni-1044-confusion-immortal-emperor-cave-bamboo-forest",
+      "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
       "dated": false,
       "seq": 963
     },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
+      "dated": false,
+      "seq": 438
+    },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
+      "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
       "dated": false,
-      "seq": 665
+      "seq": 963
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
+      "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
       "dated": false,
-      "seq": 706
+      "seq": 963
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
+      "dated": false,
+      "seq": 963
     }
   },
   "contested": false,
@@ -121,7 +172,8 @@
     "plot.xianni-ch466-tuosen-kills-qianfeng-mingpo",
     "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
     "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
-    "plot.xianni-1044-confusion-immortal-emperor-cave-bamboo-forest"
+    "plot.xianni-1044-confusion-immortal-emperor-cave-bamboo-forest",
+    "plot.xianni-1045-ci-kong-nie-iron-sword"
   ],
-  "updatedAt": "2026-08-24T09:08:49.099Z"
+  "updatedAt": "2026-08-24T09:11:41.282Z"
 }

@@ -4,12 +4,15 @@
   "name": "暗藏黑龙印记的黑衣男子",
   "aliases": [
     "黑龙印记黑衣男子",
-    "眉心黑龙印记的黑衣男子"
+    "眉心黑龙印记的黑衣男子",
+    "眉心黑龙印记男子"
   ],
   "summary": "出瓶者之一，身上暗藏黑龙印记；看向王林目光有异。",
   "attributes": {
     "标志特征": "眉心隐藏黑龙印记",
-    "外貌": "黑衣"
+    "外貌": "一身黑衣",
+    "性别": "男",
+    "身份": "大神通修士"
   },
   "observations": {
     "标志特征": [
@@ -29,6 +32,25 @@
         "value": "黑衣",
         "docId": "plot.xianni-1025-fuzu-shengzu-blood-sea-escape",
         "seq": 949
+      },
+      {
+        "value": "一身黑衣",
+        "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
+        "seq": 963
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
+        "seq": 963
+      }
+    ],
+    "身份": [
+      {
+        "value": "大神通修士",
+        "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
+        "seq": 963
       }
     ]
   },
@@ -42,16 +64,29 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-1025-fuzu-shengzu-blood-sea-escape",
+      "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
       "dated": false,
-      "seq": 949
+      "seq": 963
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
+      "dated": false,
+      "seq": 963
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
+      "dated": false,
+      "seq": 963
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1023-po-ping-er-chu",
-    "plot.xianni-1025-fuzu-shengzu-blood-sea-escape"
+    "plot.xianni-1025-fuzu-shengzu-blood-sea-escape",
+    "plot.xianni-1045-ci-kong-nie-iron-sword"
   ],
-  "updatedAt": "2026-08-24T07:17:01.621Z"
+  "updatedAt": "2026-08-24T09:11:41.272Z"
 }

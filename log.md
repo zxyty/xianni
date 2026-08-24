@@ -452,3 +452,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T09:05:00.526Z** `ingest` plot.xianni-1042-iron-sword-ancient-god-head — 仙逆 第1042章 铁剑：古神头颅断口的暗红结晶与红线缠绕的铁剑 · kind=plot asOf=2026-08-24 entities=23 relations=29 src=00960-00962.p3.md
 - **2026-08-24T09:06:47.588Z** `ingest` plot.xianni-1043-xian-zhong-qu-jian — 仙逆 第1043章 险中取剑：王林破冰夺铁剑，激活红线人形与仙尸群 · kind=plot asOf=2026-08-24 entities=13 relations=17 src=00963-00966.p1.md
 - **2026-08-24T09:08:49.350Z** `ingest` plot.xianni-1044-confusion-immortal-emperor-cave-bamboo-forest — 《仙逆》第1044章 迷惑：王林呼风唤雨退人形之物，借玉简地图穿竹林禁制深入仙帝洞府 · kind=plot asOf=2026-08-24 entities=21 relations=28 src=00963-00966.p2.md
+- **2026-08-24T09:11:41.602Z** `ingest` plot.xianni-1045-ci-kong-nie-iron-sword — 第1045章 次空涅——王林破解铁剑锈迹之秘，人形之物脱困逼近 · kind=plot asOf=2026-08-24 entities=24 relations=37 src=00963-00966.p3.md

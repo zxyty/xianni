@@ -4,19 +4,27 @@
   "name": "黑雾宫殿",
   "aliases": [
     "洞府中心黑雾",
-    "第二层入口"
+    "第二层入口",
+    "黑雾缭绕的正中心宫殿",
+    "中心宫殿"
   ],
   "summary": "位于仙帝洞府众阁楼建筑深处、黑雾弥漫中的宫殿，是整个洞府的中心，也是第一层进入第二层的入口。",
   "attributes": {
-    "上级区域": "仙帝洞府",
-    "方位": "洞府中心",
-    "类型": "入口/宫殿"
+    "上级区域": "仙帝洞府、仙帝洞府第一层",
+    "方位": "洞府中心、仙帝洞府第一层正中心",
+    "类型": "入口/宫殿",
+    "守护": "八处禁眼与黑雾"
   },
   "observations": {
     "上级区域": [
       {
         "value": "仙帝洞府",
         "docId": "plot.xianni-1044-confusion-immortal-emperor-cave-bamboo-forest",
+        "seq": 963
+      },
+      {
+        "value": "仙帝洞府第一层",
+        "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
         "seq": 963
       }
     ],
@@ -25,12 +33,24 @@
         "value": "洞府中心",
         "docId": "plot.xianni-1044-confusion-immortal-emperor-cave-bamboo-forest",
         "seq": 963
+      },
+      {
+        "value": "仙帝洞府第一层正中心",
+        "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
+        "seq": 963
       }
     ],
     "类型": [
       {
         "value": "入口/宫殿",
         "docId": "plot.xianni-1044-confusion-immortal-emperor-cave-bamboo-forest",
+        "seq": 963
+      }
+    ],
+    "守护": [
+      {
+        "value": "八处禁眼与黑雾",
+        "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
         "seq": 963
       }
     ]
@@ -54,12 +74,19 @@
       "docId": "plot.xianni-1044-confusion-immortal-emperor-cave-bamboo-forest",
       "dated": false,
       "seq": 963
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
+      "dated": false,
+      "seq": 963
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1044-confusion-immortal-emperor-cave-bamboo-forest"
+    "plot.xianni-1044-confusion-immortal-emperor-cave-bamboo-forest",
+    "plot.xianni-1045-ci-kong-nie-iron-sword"
   ],
-  "updatedAt": "2026-08-24T09:08:49.103Z"
+  "updatedAt": "2026-08-24T09:11:41.290Z"
 }
