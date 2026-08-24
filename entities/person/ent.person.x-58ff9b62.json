@@ -19,11 +19,12 @@
     "小阶段": "碎涅中期巅峰",
     "外貌": "自称老夫",
     "身份": "私人拍卖主持者、宝玉宗之人、交易聚会主办者、蓬莱聚会召集者、蓬莱聚会召集者/一方老怪、宝玉宗大长老、群魔聚会的召集者、引路者、此行领队、七彩裂缝的发现者与掩藏者、七彩裂缝之行的邀请者/领队、七彩界向导/队伍召集者、七彩界探险队伍领头人、七彩界探险队领队、队伍带路人、云海星域修士队伍首领、七彩界的发现者、与庞德才多次配合的同伙、破禁夺宝队伍的召集者/主导者、此行队伍带头者/夺宝主谋、大神通修士、寻宝队伍带队者",
-    "性格": "威严含笑、规矩森严、始终含笑、城府深沉、阴森、算计、老谋深算、表面恭谨内里冷哼、低调、老练、狠辣、遇价不惊、笑面周旋、内心冷笑、多疑、傲然、心机深沉、多疑、能屈能伸、老练、坦然、笑而不语、老练审慎、见势即惧、隐瞒真相、以同行者为代价、心智深沉、善于许诺利益、受挫后露出疯狂与暴虐、心机深沉、急切近乎疯狂、表面诚恳、多疑、面沉、善用他人、谨慎、算计、提及道经时目露狂热、图谋深远、对道经近乎痴迷、肯下血本、关键时刻不顾同伴、阴狠、算计、贪婪、谨慎、贪婪、杀机深藏、凶狠疯狂、不惜代价",
+    "性格": "威严含笑、规矩森严、始终含笑、城府深沉、阴森、算计、老谋深算、表面恭谨内里冷哼、低调、老练、狠辣、遇价不惊、笑面周旋、内心冷笑、多疑、傲然、心机深沉、多疑、能屈能伸、老练、坦然、笑而不语、老练审慎、见势即惧、隐瞒真相、以同行者为代价、心智深沉、善于许诺利益、受挫后露出疯狂与暴虐、心机深沉、急切近乎疯狂、表面诚恳、多疑、面沉、善用他人、谨慎、算计、提及道经时目露狂热、图谋深远、对道经近乎痴迷、肯下血本、关键时刻不顾同伴、阴狠、算计、贪婪、谨慎、贪婪、杀机深藏、凶狠疯狂、不惜代价、由高估转为畏惧、沉默",
     "标志特征": "嫡系弟子众多，足以与宝玉宗宗主对抗、金光化数千飞剑凝成剑幕、储物裂缝中宝物极多，人称『多宝』、跪拜诵咒引七彩虹桥；咬舌喷血化四把金光小剑、左臂中奇毒后血肉化黄水、骨骼融化，整臂撕裂脱体、右手连点左肩即可凝七彩之芒重生左臂",
     "本命法宝": "晶剑（次空涅法宝）",
-    "存殁": "存活",
-    "结局": "被断裂铁剑贯胸重伤，役灵印下肉身崩溃化七彩雾，携元神逃遁"
+    "存殁": "不明",
+    "结局": "被断裂铁剑贯胸重伤，役灵印下肉身崩溃化七彩雾，携元神逃遁",
+    "元神强度": "虚弱"
   },
   "observations": {
     "小阶段": [
@@ -275,6 +276,12 @@
         "value": "凶狠疯狂、不惜代价",
         "docId": "plot.xianni-1193-blood-battle-cang-song-zi",
         "seq": 1110
+      },
+      {
+        "value": "由高估转为畏惧、沉默",
+        "docId": "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan",
+        "seq": 1110,
+        "note": "本章心态转折"
       }
     ],
     "标志特征": [
@@ -334,6 +341,12 @@
         "value": "存活",
         "docId": "plot.xianni-1191-tianyun-reappears-cangsongzi-vs-qingshan-crone",
         "seq": 1105
+      },
+      {
+        "value": "不明",
+        "docId": "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan",
+        "seq": 1110,
+        "note": "第1194章仅提及其血色元婴之物被王林收走"
       }
     ],
     "结局": [
@@ -342,6 +355,14 @@
         "docId": "plot.xianni-1193-blood-battle-cang-song-zi",
         "seq": 1110,
         "note": "第1193章"
+      }
+    ],
+    "元神强度": [
+      {
+        "value": "虚弱",
+        "docId": "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan",
+        "seq": 1110,
+        "note": "本章失去肉身后仅余元神"
       }
     ]
   },
@@ -385,9 +406,10 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-1191-tianyun-reappears-cangsongzi-vs-qingshan-crone",
+      "docId": "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan",
       "dated": false,
-      "seq": 1105
+      "seq": 1110,
+      "note": "第1194章仅提及其血色元婴之物被王林收走"
     },
     "结局": {
       "asOf": null,
@@ -395,6 +417,13 @@
       "dated": false,
       "seq": 1110,
       "note": "第1193章"
+    },
+    "元神强度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan",
+      "dated": false,
+      "seq": 1110,
+      "note": "本章失去肉身后仅余元神"
     }
   },
   "contested": false,
@@ -419,7 +448,8 @@
     "plot.xianni-1190-bone-jar-canglongzi-betrayal",
     "plot.xianni-1191-tianyun-reappears-cangsongzi-vs-qingshan-crone",
     "plot.xianni-ch1192-trident-ancient-god-battle",
-    "plot.xianni-1193-blood-battle-cang-song-zi"
+    "plot.xianni-1193-blood-battle-cang-song-zi",
+    "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan"
   ],
-  "updatedAt": "2026-08-24T22:59:41.926Z"
+  "updatedAt": "2026-08-24T23:06:30.711Z"
 }
