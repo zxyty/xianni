@@ -3,13 +3,14 @@
   "type": "place",
   "name": "仙帝洞府第八层",
   "aliases": [
-    "烛台大殿层"
+    "烛台大殿层",
+    "仙帝洞府 第八层"
   ],
   "summary": "仙帝洞府的第八层，通体漆黑、尽笼黑雾，神识无法散开；有古魔盘踞，中心位置有巨大宫殿。",
   "attributes": {
-    "类型": "秘境层级、洞府层级",
+    "类型": "秘境层级、洞府层级、秘境·洞府层级",
     "上级区域": "仙帝洞府",
-    "危险度": "极高（古魔吞噬神通、魔掌穿透一切防护）",
+    "危险度": "极高（天空崩塌、岩浆倾泻）",
     "特产": "中心宫殿内的九十九盏烛台",
     "守护": "烛台之火"
   },
@@ -24,6 +25,11 @@
         "value": "洞府层级",
         "docId": "plot.xianni-1061-immortal-emperor-cave-collapse-ancient-demon-possession-complete",
         "seq": 977
+      },
+      {
+        "value": "秘境·洞府层级",
+        "docId": "plot.xianni-1065-three-ancient-races-reunite",
+        "seq": 982
       }
     ],
     "上级区域": [
@@ -38,6 +44,11 @@
         "value": "极高（古魔吞噬神通、魔掌穿透一切防护）",
         "docId": "plot.xianni-ch1059-immortal-emperor-cave-8th-floor-ancient-demon-palm",
         "seq": 977
+      },
+      {
+        "value": "极高（天空崩塌、岩浆倾泻）",
+        "docId": "plot.xianni-1065-three-ancient-races-reunite",
+        "seq": 982
       }
     ],
     "特产": [
@@ -71,9 +82,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch1059-immortal-emperor-cave-8th-floor-ancient-demon-palm",
+      "docId": "plot.xianni-1065-three-ancient-races-reunite",
       "dated": false,
-      "seq": 977
+      "seq": 982
     },
     "特产": {
       "asOf": null,
@@ -92,7 +103,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1059-immortal-emperor-cave-8th-floor-ancient-demon-palm",
-    "plot.xianni-1061-immortal-emperor-cave-collapse-ancient-demon-possession-complete"
+    "plot.xianni-1061-immortal-emperor-cave-collapse-ancient-demon-possession-complete",
+    "plot.xianni-1065-three-ancient-races-reunite"
   ],
-  "updatedAt": "2026-08-24T10:00:58.375Z"
+  "updatedAt": "2026-08-24T10:20:08.312Z"
 }

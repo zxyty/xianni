@@ -5,13 +5,15 @@
   "aliases": [
     "岩浆火龙",
     "奇异之灵",
-    "吞噬一切的火龙"
+    "吞噬一切的火龙",
+    "硕大的龙头",
+    "第七层火龙"
   ],
   "summary": "由红袍老者崩溃后化出的火海凝成的庞大火龙，一口吞下宫殿与王林等人后钻入岩浆；王林推断其即是潜藏岩浆中的奇异之灵。",
   "attributes": {
-    "能力": "吞噬、化火海、引发火山爆发",
-    "栖息地": "火山成海岩浆最深处",
-    "外形": "庞大无比的火龙"
+    "能力": "吞噬、化火海、引发火山爆发、倒卷凝聚全山岩浆化身",
+    "栖息地": "妖灵之地火山岩浆深处",
+    "外形": "无法形容的巨大火龙"
   },
   "observations": {
     "能力": [
@@ -29,6 +31,11 @@
         "value": "引发火山爆发",
         "docId": "plot.xianni-1057-volcano-eruption-fire-dragon-swallows-palace",
         "seq": 977
+      },
+      {
+        "value": "倒卷凝聚全山岩浆化身",
+        "docId": "plot.xianni-1065-three-ancient-races-reunite",
+        "seq": 982
       }
     ],
     "栖息地": [
@@ -36,6 +43,11 @@
         "value": "火山成海岩浆最深处",
         "docId": "plot.xianni-1057-volcano-eruption-fire-dragon-swallows-palace",
         "seq": 977
+      },
+      {
+        "value": "妖灵之地火山岩浆深处",
+        "docId": "plot.xianni-1065-three-ancient-races-reunite",
+        "seq": 982
       }
     ],
     "外形": [
@@ -43,6 +55,11 @@
         "value": "庞大无比的火龙",
         "docId": "plot.xianni-1057-volcano-eruption-fire-dragon-swallows-palace",
         "seq": 977
+      },
+      {
+        "value": "无法形容的巨大火龙",
+        "docId": "plot.xianni-1065-three-ancient-races-reunite",
+        "seq": 982
       }
     ]
   },
@@ -56,21 +73,22 @@
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.xianni-1057-volcano-eruption-fire-dragon-swallows-palace",
+      "docId": "plot.xianni-1065-three-ancient-races-reunite",
       "dated": false,
-      "seq": 977
+      "seq": 982
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-1057-volcano-eruption-fire-dragon-swallows-palace",
+      "docId": "plot.xianni-1065-three-ancient-races-reunite",
       "dated": false,
-      "seq": 977
+      "seq": 982
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1057-volcano-eruption-fire-dragon-swallows-palace"
+    "plot.xianni-1057-volcano-eruption-fire-dragon-swallows-palace",
+    "plot.xianni-1065-three-ancient-races-reunite"
   ],
-  "updatedAt": "2026-08-24T09:45:05.134Z"
+  "updatedAt": "2026-08-24T10:20:08.349Z"
 }

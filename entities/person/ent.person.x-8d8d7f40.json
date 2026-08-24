@@ -24,8 +24,9 @@
     "标志特征": "可分化出散魔、飘渺虚无、蕴含魔威的沙哑声音、左目八个星点、大神通之辈、魔气污秽洞府、长约三丈的黑色厚背刀、黑雾魔龙、狰狞、魔音入体之吼、黑色厚背刀",
     "称号": "塔珈大人",
     "外貌": "双目魔焰、鳞片状黑色铠甲覆体、魔气化斗篷、斗篷末端幻化古魔虚影、身穿铠甲、漆黑铠甲，吼时身后现头生单角的巨大黑影",
-    "性格": "嗜血疯狂、沙哑阴沉",
-    "阵营": "敌对、敌"
+    "性格": "嗜血疯狂、沙哑阴沉、嘲讽、狂傲",
+    "阵营": "敌对、敌",
+    "本命法宝": "厚背刀"
   },
   "observations": {
     "种族": [
@@ -159,6 +160,11 @@
         "value": "嗜血疯狂、沙哑阴沉",
         "docId": "plot.xianni-1062-gumo-zhiwei-tajia-duoshe-qinglin",
         "seq": 982
+      },
+      {
+        "value": "嘲讽、狂傲",
+        "docId": "plot.xianni-1065-three-ancient-races-reunite",
+        "seq": 982
       }
     ],
     "阵营": [
@@ -170,6 +176,13 @@
       {
         "value": "敌",
         "docId": "plot.xianni-1064-heiyiren-shenfen-luohou",
+        "seq": 982
+      }
+    ],
+    "本命法宝": [
+      {
+        "value": "厚背刀",
+        "docId": "plot.xianni-1065-three-ancient-races-reunite",
         "seq": 982
       }
     ]
@@ -224,6 +237,12 @@
       "docId": "plot.xianni-1063-qinglin-duoshe-qian-de-yiju-hua",
       "dated": false,
       "seq": 982
+    },
+    "本命法宝": {
+      "asOf": null,
+      "docId": "plot.xianni-1065-three-ancient-races-reunite",
+      "dated": false,
+      "seq": 982
     }
   },
   "contested": false,
@@ -235,7 +254,8 @@
     "plot.xianni-1060-immortal-emperor-cave-ninth-floor-entry",
     "plot.xianni-1062-gumo-zhiwei-tajia-duoshe-qinglin",
     "plot.xianni-1063-qinglin-duoshe-qian-de-yiju-hua",
-    "plot.xianni-1064-heiyiren-shenfen-luohou"
+    "plot.xianni-1064-heiyiren-shenfen-luohou",
+    "plot.xianni-1065-three-ancient-races-reunite"
   ],
-  "updatedAt": "2026-08-24T10:13:19.808Z"
+  "updatedAt": "2026-08-24T10:20:08.331Z"
 }

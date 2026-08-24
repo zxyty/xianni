@@ -10,13 +10,14 @@
     "仙府禁制之地",
     "仙人府邸",
     "Immortal Mansion",
-    "青霖洞府"
+    "青霖洞府",
+    "青霖洞府所在之处"
   ],
   "summary": "位于长龙般山脉深处一座巨大盆地内的府邸，遍布雕栏玉砌的阁楼房舍，仆从皆为半舌哑仆，多处设有强大禁制，透着阴森诡异。",
   "attributes": {
     "所属势力": "白雪之师尊",
     "所属界面": "仙灵天境",
-    "类型": "秘境洞府",
+    "类型": "洞府",
     "上级区域": "长龙般山脉深处的巨大盆地",
     "守护": "多处强大禁制、仙府百步禁制、十尊玄金金像、九龙阵法",
     "危险度": "极高",
@@ -67,6 +68,11 @@
         "value": "秘境洞府",
         "docId": "plot.xianni-1012-immortal-mansion-opens",
         "seq": 939
+      },
+      {
+        "value": "洞府",
+        "docId": "plot.xianni-1065-three-ancient-races-reunite",
+        "seq": 982
       }
     ],
     "上级区域": [
@@ -144,9 +150,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1012-immortal-mansion-opens",
+      "docId": "plot.xianni-1065-three-ancient-races-reunite",
       "dated": false,
-      "seq": 939
+      "seq": 982
     },
     "上级区域": {
       "asOf": null,
@@ -181,7 +187,8 @@
     "plot.xianni-ch904-908-tianyunzi-finger-strike",
     "plot.xianni-ch1000-heiselike-xiang-lianhunzong-cangpinge",
     "plot.xianni-ch1004-immortal-mansion-restriction-breaking",
-    "plot.xianni-1012-immortal-mansion-opens"
+    "plot.xianni-1012-immortal-mansion-opens",
+    "plot.xianni-1065-three-ancient-races-reunite"
   ],
-  "updatedAt": "2026-08-24T05:19:09.277Z"
+  "updatedAt": "2026-08-24T10:20:08.344Z"
 }
