@@ -443,3 +443,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T07:17:01.912Z** `ingest` plot.xianni-1025-fuzu-shengzu-blood-sea-escape — 《仙逆》第1025章 符族圣祖：葬仙血海脱困，灰衣天运子出手 · kind=plot asOf=2026-08-24 entities=45 relations=70 src=00949-00952.p1.md
 - **2026-08-24T07:19:34.798Z** `ingest` plot.xianni-ch1026-qinglin-you-lied-to-me — 第1026章 青霖，你骗我——符族圣祖秋瑶解封塔山、暴怒撕葬仙漩涡，青霖禁制分神现身 · kind=plot asOf=2026-08-24 entities=24 relations=40 src=00949-00952.p2.md
 - **2026-08-24T07:27:06.373Z** `ingest` geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone — 朱雀圣星：联盟星域死亡禁地·朱雀之地与朱雀圣宗圣像异变 · kind=geo asOf=2026-08-24 entities=35 relations=59 src=00949-00952.p3.md
+- **2026-08-24T07:29:12.228Z** `ingest` plot.xianni-1028-dingshenshu-qinglin-jiuyin-zhen — 第1028章 定身术：青霖分神九印锁符族圣祖，王林亲见定身术本源 · kind=plot asOf=2026-08-24 entities=18 relations=25 src=00949-00952.p4.md

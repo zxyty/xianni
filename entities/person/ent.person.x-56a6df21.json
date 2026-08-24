@@ -5,16 +5,19 @@
   "aliases": [
     "符族圣祖",
     "符族圣祖秋瑶",
-    "Qiu Yao"
+    "Qiu Yao",
+    "符族圣祖女子",
+    "空洞双目女子"
   ],
   "summary": "符族圣祖，被青霖以葬仙池与赤红之筋封印无数万年；本章解封塔山、读其记忆，得知符族世代被奴印后怨气爆发，强抓葬仙漩涡欲脱困。",
   "attributes": {
     "性别": "女",
     "种族": "符族",
     "身份": "符族圣祖",
-    "外貌": "空空的眼眶，流出黑血、容颜凄厉，双眼空空、流下黑血",
+    "外貌": "空空的眼眶，流出黑血、容颜凄厉，双眼空空、流下黑血、双目空洞、眼流黑血",
     "性格": "怨毒至极，积压无数万年怨气",
-    "存殁": "存活"
+    "存殁": "存活",
+    "结局": "被九印之阵与魂魄黑链拽向葬仙漩涡"
   },
   "observations": {
     "性别": [
@@ -48,6 +51,16 @@
         "value": "容颜凄厉，双眼空空、流下黑血",
         "docId": "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
         "seq": 949
+      },
+      {
+        "value": "双目空洞",
+        "docId": "plot.xianni-1028-dingshenshu-qinglin-jiuyin-zhen",
+        "seq": 949
+      },
+      {
+        "value": "眼流黑血",
+        "docId": "plot.xianni-1028-dingshenshu-qinglin-jiuyin-zhen",
+        "seq": 949
       }
     ],
     "性格": [
@@ -63,6 +76,14 @@
         "docId": "plot.xianni-ch1026-qinglin-you-lied-to-me",
         "seq": 949,
         "note": "传闻中本该死去，实则未死"
+      }
+    ],
+    "结局": [
+      {
+        "value": "被九印之阵与魂魄黑链拽向葬仙漩涡",
+        "docId": "plot.xianni-1028-dingshenshu-qinglin-jiuyin-zhen",
+        "seq": 949,
+        "note": "本章进行中"
       }
     ]
   },
@@ -104,13 +125,21 @@
       "dated": false,
       "seq": 949,
       "note": "传闻中本该死去，实则未死"
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-1028-dingshenshu-qinglin-jiuyin-zhen",
+      "dated": false,
+      "seq": 949,
+      "note": "本章进行中"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1026-qinglin-you-lied-to-me",
-    "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone"
+    "geo.zhu-que-sheng-xing-holy-stars-fire-forbidden-zone",
+    "plot.xianni-1028-dingshenshu-qinglin-jiuyin-zhen"
   ],
-  "updatedAt": "2026-08-24T07:27:06.085Z"
+  "updatedAt": "2026-08-24T07:29:11.901Z"
 }

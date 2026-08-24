@@ -7,15 +7,21 @@
   ],
   "summary": "本章战场所在的巨大漩涡，上方虚无可被撕开裂缝；符族女子自其最深处挣扎飘升而出。",
   "attributes": {
-    "类型": "空间漩涡/禁地",
+    "类型": "空间漩涡/禁地、封印秘境/魂魄漩涡",
     "规模": "巨大，但小于成亿杀戮之气铺展范围",
-    "危险度": "极高"
+    "危险度": "极高",
+    "守护": "青霖的禁制封印"
   },
   "observations": {
     "类型": [
       {
         "value": "空间漩涡/禁地",
         "docId": "plot.xianni-1025-fuzu-shengzu-blood-sea-escape",
+        "seq": 949
+      },
+      {
+        "value": "封印秘境/魂魄漩涡",
+        "docId": "plot.xianni-1028-dingshenshu-qinglin-jiuyin-zhen",
         "seq": 949
       }
     ],
@@ -30,6 +36,13 @@
       {
         "value": "极高",
         "docId": "plot.xianni-1025-fuzu-shengzu-blood-sea-escape",
+        "seq": 949
+      }
+    ],
+    "守护": [
+      {
+        "value": "青霖的禁制封印",
+        "docId": "plot.xianni-1028-dingshenshu-qinglin-jiuyin-zhen",
         "seq": 949
       }
     ]
@@ -53,12 +66,19 @@
       "docId": "plot.xianni-1025-fuzu-shengzu-blood-sea-escape",
       "dated": false,
       "seq": 949
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-1028-dingshenshu-qinglin-jiuyin-zhen",
+      "dated": false,
+      "seq": 949
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1025-fuzu-shengzu-blood-sea-escape"
+    "plot.xianni-1025-fuzu-shengzu-blood-sea-escape",
+    "plot.xianni-1028-dingshenshu-qinglin-jiuyin-zhen"
   ],
-  "updatedAt": "2026-08-24T07:17:01.628Z"
+  "updatedAt": "2026-08-24T07:29:11.915Z"
 }
