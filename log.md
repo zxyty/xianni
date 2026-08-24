@@ -533,3 +533,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T17:46:56.094Z** `ingest` plot.xianni-1132-wuji-zi-years-rule — 仙逆 第1132章 无极子：血龙岁月规则屠戮虚无之地，古神眉心第四星现无极子 · kind=plot asOf=2026-08-24 entities=23 relations=33 src=01049-01053.p2.md
 - **2026-08-24T17:49:36.881Z** `ingest` plot.xianni-1133-san-sun-qi-jie-blood-dragon-ancient-god-heart-blood — 第1133章 三损七劫：血龙黑夜瞳与古神心血 · kind=plot asOf=2026-08-24 entities=25 relations=34 src=01049-01053.p3.md
 - **2026-08-24T17:52:20.398Z** `ingest` plot.xianni-ch1134-tuosen-appears-blood-dragon-heart-blood — 第1134章 拓森现——王林强推残夜破黑夜夺古神心血，黑衣老人救人并引出暗古神 · kind=plot asOf=2026-08-24 entities=25 relations=31 src=01049-01053.p4.md
+- **2026-08-24T17:54:11.156Z** `ingest` plot.xianni-ch1135-ancient-god-tuosen-awakens — 第1135章 古神之强：八星古神拓森苏醒，黑衣老人硬撼 · kind=plot asOf=2026-08-24 entities=13 relations=19 src=01049-01053.p5.md
