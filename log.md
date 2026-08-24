@@ -585,3 +585,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T22:43:43.479Z** `ingest` plot.xianni-1187-fengshou-wanglin-kills-pang-elder — 第1187章 丰收！——王林诱杀庞姓老者，尽夺其储物空间 · kind=plot asOf=2026-08-24 entities=23 relations=32 src=01105-01109.p1.md
 - **2026-08-24T22:46:29.971Z** `ingest` plot.xianni-1188-dao-jing-ming-zhi-zhe — 第1188章 道经：王林反噬梅花十八禁，苍松子揭示铭志者与道经 · kind=plot asOf=2026-08-24 entities=27 relations=39 src=01105-01109.p2.md
 - **2026-08-24T22:49:17.521Z** `ingest` plot.xianni-1189-cangsongzi-duobao-po-suiyuejin-fengyin — 《仙逆》第1189章 多宝的苍松子——三件次空涅法宝硬破岁月禁封印 · kind=plot asOf=2026-08-24 entities=19 relations=28 src=01105-01109.p3.md
+- **2026-08-24T22:51:45.015Z** `ingest` plot.xianni-1190-bone-jar-canglongzi-betrayal — 第1190章 骨下之瓶：苍松子诱困赵姓女修、夺取黑骨玉瓶 · kind=plot asOf=2026-08-24 entities=16 relations=23 src=01105-01109.p4.md
