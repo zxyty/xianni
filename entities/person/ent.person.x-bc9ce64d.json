@@ -6,17 +6,19 @@
     "紫道宗宋五德",
     "苍老阴森的声音",
     "Song Wude",
-    "净涅修士宋五德"
+    "净涅修士宋五德",
+    "五德"
   ],
   "summary": "紫道宗净涅中期长老，归元宗老祖当年手下败将，护送少宗卢迪来吞并归元宗，被王林数息形神俱灭。",
   "attributes": {
-    "身份": "紫道宗高手、卢迪护道人",
+    "身份": "紫道宗长老、少宗卢迪的护道者、紫道宗高手、卢迪护道人、卢迪的照顾者/随行者",
     "小阶段": "净涅中期",
     "性格": "桀骜阴沉，行事本不张扬却纵容少宗",
     "外貌": "苍老男子，神色桀骜",
-    "存殁": "死亡",
+    "存殁": "在世",
     "死因": "被王林瞬杀（一道天地明亮带走其命）",
-    "结局": "被王林瞬杀，元神消散"
+    "结局": "被王林瞬杀，元神消散",
+    "性别": "男"
   },
   "observations": {
     "身份": [
@@ -28,6 +30,11 @@
       {
         "value": "紫道宗高手、卢迪护道人",
         "docId": "plot.xianni-1145-a-single-hair-lu-di-slain",
+        "seq": 1063
+      },
+      {
+        "value": "卢迪的照顾者/随行者",
+        "docId": "plot.xianni-1146-tianni-second-perfection-hope",
         "seq": 1063
       }
     ],
@@ -56,7 +63,13 @@
       {
         "value": "死亡",
         "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
-        "seq": 1058
+        "seq": 1058,
+        "note": "本章追述，死于王林之手"
+      },
+      {
+        "value": "在世",
+        "docId": "plot.xianni-1146-tianni-second-perfection-hope",
+        "seq": 1063
       }
     ],
     "死因": [
@@ -82,15 +95,22 @@
         "docId": "plot.xianni-1145-a-single-hair-lu-di-slain",
         "seq": 1063
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-1146-tianni-second-perfection-hope",
+        "seq": 1063
+      }
     ]
   },
   "firstSeq": 1058,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1145-a-single-hair-lu-di-slain",
+      "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
       "dated": false,
-      "seq": 1063
+      "seq": 1058
     },
     "小阶段": {
       "asOf": null,
@@ -112,9 +132,9 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
+      "docId": "plot.xianni-1146-tianni-second-perfection-hope",
       "dated": false,
-      "seq": 1058
+      "seq": 1063
     },
     "死因": {
       "asOf": null,
@@ -127,13 +147,20 @@
       "docId": "plot.xianni-1145-a-single-hair-lu-di-slain",
       "dated": false,
       "seq": 1063
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-1146-tianni-second-perfection-hope",
+      "dated": false,
+      "seq": 1063
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
-    "plot.xianni-1145-a-single-hair-lu-di-slain"
+    "plot.xianni-1145-a-single-hair-lu-di-slain",
+    "plot.xianni-1146-tianni-second-perfection-hope"
   ],
-  "updatedAt": "2026-08-24T18:23:29.156Z"
+  "updatedAt": "2026-08-24T18:30:47.888Z"
 }

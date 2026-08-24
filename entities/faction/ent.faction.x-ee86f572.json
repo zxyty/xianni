@@ -15,8 +15,9 @@
     "阵营": "归元宗之敌、侵略方",
     "理念": "恃强凌弱、张扬跋扈",
     "掌门": "卢云从",
-    "等级": "云海五阶星域前十之列",
-    "据点": "紫色大陆"
+    "等级": "云海五阶星域前十之列、五阶星域内强宗",
+    "据点": "紫色大陆",
+    "镇派之宝": "天阴幡"
   },
   "observations": {
     "所属界面": [
@@ -57,12 +58,24 @@
         "value": "云海五阶星域前十之列",
         "docId": "plot.xianni-1145-a-single-hair-lu-di-slain",
         "seq": 1063
+      },
+      {
+        "value": "五阶星域内强宗",
+        "docId": "plot.xianni-1146-tianni-second-perfection-hope",
+        "seq": 1063
       }
     ],
     "据点": [
       {
         "value": "紫色大陆",
         "docId": "plot.xianni-1145-a-single-hair-lu-di-slain",
+        "seq": 1063
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "天阴幡",
+        "docId": "plot.xianni-1146-tianni-second-perfection-hope",
         "seq": 1063
       }
     ]
@@ -104,6 +117,12 @@
       "docId": "plot.xianni-1145-a-single-hair-lu-di-slain",
       "dated": false,
       "seq": 1063
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.xianni-1146-tianni-second-perfection-hope",
+      "dated": false,
+      "seq": 1063
     }
   },
   "contested": false,
@@ -112,7 +131,8 @@
     "plot.xianni-1138-yu-guiyuanzong-zeling",
     "plot.xianni-ch1141-lv-yanfei",
     "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
-    "plot.xianni-1145-a-single-hair-lu-di-slain"
+    "plot.xianni-1145-a-single-hair-lu-di-slain",
+    "plot.xianni-1146-tianni-second-perfection-hope"
   ],
-  "updatedAt": "2026-08-24T18:23:29.163Z"
+  "updatedAt": "2026-08-24T18:30:47.847Z"
 }

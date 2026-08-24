@@ -4,11 +4,13 @@
   "name": "五阶星域",
   "aliases": [
     "五级星域",
-    "五阶修真星域"
+    "五阶修真星域",
+    "五阶星域（紫道宗所在）"
   ],
   "summary": "归元宗与吕烟菲名声所在的星域层级。",
   "attributes": {
-    "层次": "五阶"
+    "层次": "五阶",
+    "主宰势力": "紫道宗"
   },
   "observations": {
     "层次": [
@@ -16,6 +18,13 @@
         "value": "五阶",
         "docId": "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
         "seq": 1058
+      }
+    ],
+    "主宰势力": [
+      {
+        "value": "紫道宗",
+        "docId": "plot.xianni-1146-tianni-second-perfection-hope",
+        "seq": 1063
       }
     ]
   },
@@ -26,12 +35,19 @@
       "docId": "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
       "dated": false,
       "seq": 1058
+    },
+    "主宰势力": {
+      "asOf": null,
+      "docId": "plot.xianni-1146-tianni-second-perfection-hope",
+      "dated": false,
+      "seq": 1063
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1140-guiyuan-zong-lv-yanfei"
+    "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
+    "plot.xianni-1146-tianni-second-perfection-hope"
   ],
-  "updatedAt": "2026-08-24T18:10:28.272Z"
+  "updatedAt": "2026-08-24T18:30:47.856Z"
 }

@@ -4,20 +4,27 @@
   "name": "黑色荷花",
   "aliases": [
     "黑荷",
-    "卢云从所赠保命法宝"
+    "卢云从所赠保命法宝",
+    "黑色荷花法宝"
   ],
   "summary": "卢云从赠予卢迪的保命法宝，通体漆黑、妖异绽放、散发黑芒；未及开启卢迪已死，被王林收走。",
   "attributes": {
-    "外形": "通体漆黑的荷花，绽放黑芒",
-    "能力": "保命",
-    "来历": "卢云从所赠",
-    "持有者": "王林"
+    "外形": "通体漆黑的荷花，绽放黑芒、黑色荷花",
+    "能力": "保命、解封后可形成极强防护",
+    "来历": "卢云从所赠、云海星域天然可成法宝的植物",
+    "持有者": "王林",
+    "禁制": "后加的简单法阵封印"
   },
   "observations": {
     "外形": [
       {
         "value": "通体漆黑的荷花，绽放黑芒",
         "docId": "plot.xianni-1145-a-single-hair-lu-di-slain",
+        "seq": 1063
+      },
+      {
+        "value": "黑色荷花",
+        "docId": "plot.xianni-1146-tianni-second-perfection-hope",
         "seq": 1063
       }
     ],
@@ -26,12 +33,22 @@
         "value": "保命",
         "docId": "plot.xianni-1145-a-single-hair-lu-di-slain",
         "seq": 1063
+      },
+      {
+        "value": "解封后可形成极强防护",
+        "docId": "plot.xianni-1146-tianni-second-perfection-hope",
+        "seq": 1063
       }
     ],
     "来历": [
       {
         "value": "卢云从所赠",
         "docId": "plot.xianni-1145-a-single-hair-lu-di-slain",
+        "seq": 1063
+      },
+      {
+        "value": "云海星域天然可成法宝的植物",
+        "docId": "plot.xianni-1146-tianni-second-perfection-hope",
         "seq": 1063
       }
     ],
@@ -41,6 +58,13 @@
         "docId": "plot.xianni-1145-a-single-hair-lu-di-slain",
         "seq": 1063,
         "note": "第1145章击杀卢迪后夺得"
+      }
+    ],
+    "禁制": [
+      {
+        "value": "后加的简单法阵封印",
+        "docId": "plot.xianni-1146-tianni-second-perfection-hope",
+        "seq": 1063
       }
     ]
   },
@@ -70,12 +94,19 @@
       "dated": false,
       "seq": 1063,
       "note": "第1145章击杀卢迪后夺得"
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-1146-tianni-second-perfection-hope",
+      "dated": false,
+      "seq": 1063
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1145-a-single-hair-lu-di-slain"
+    "plot.xianni-1145-a-single-hair-lu-di-slain",
+    "plot.xianni-1146-tianni-second-perfection-hope"
   ],
-  "updatedAt": "2026-08-24T18:23:29.171Z"
+  "updatedAt": "2026-08-24T18:30:47.893Z"
 }

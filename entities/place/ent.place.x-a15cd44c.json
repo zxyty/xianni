@@ -4,14 +4,16 @@
   "name": "南苑药院",
   "aliases": [
     "归元宗药院",
-    "药院"
+    "药院",
+    "王林所居药院"
   ],
   "summary": "归元宗南苑内的药院，王林与孙芸的居所，院内种植比寻常花草坚韧的药草。",
   "attributes": {
-    "类型": "宗门药园",
+    "类型": "药园、宗门药园、宗门药院",
     "所属势力": "归元宗",
     "方位": "归元宗南苑",
-    "特产": "药草"
+    "特产": "药草",
+    "上级区域": "归元宗"
   },
   "observations": {
     "类型": [
@@ -23,6 +25,11 @@
       {
         "value": "宗门药园",
         "docId": "plot.xianni-1145-a-single-hair-lu-di-slain",
+        "seq": 1063
+      },
+      {
+        "value": "宗门药院",
+        "docId": "plot.xianni-1146-tianni-second-perfection-hope",
         "seq": 1063
       }
     ],
@@ -46,15 +53,22 @@
         "docId": "plot.xianni-ch1141-lv-yanfei",
         "seq": 1058
       }
+    ],
+    "上级区域": [
+      {
+        "value": "归元宗",
+        "docId": "plot.xianni-1146-tianni-second-perfection-hope",
+        "seq": 1063
+      }
     ]
   },
   "firstSeq": 1058,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1145-a-single-hair-lu-di-slain",
+      "docId": "plot.xianni-ch1141-lv-yanfei",
       "dated": false,
-      "seq": 1063
+      "seq": 1058
     },
     "所属势力": {
       "asOf": null,
@@ -73,13 +87,20 @@
       "docId": "plot.xianni-ch1141-lv-yanfei",
       "dated": false,
       "seq": 1058
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-1146-tianni-second-perfection-hope",
+      "dated": false,
+      "seq": 1063
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1141-lv-yanfei",
-    "plot.xianni-1145-a-single-hair-lu-di-slain"
+    "plot.xianni-1145-a-single-hair-lu-di-slain",
+    "plot.xianni-1146-tianni-second-perfection-hope"
   ],
-  "updatedAt": "2026-08-24T18:23:29.168Z"
+  "updatedAt": "2026-08-24T18:30:47.852Z"
 }

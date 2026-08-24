@@ -4,14 +4,15 @@
   "name": "星雾",
   "aliases": [
     "云海星雾",
-    "星海星雾"
+    "星海星雾",
+    "紫色大陆附近星雾"
   ],
   "summary": "云海星域星海之中弥漫的雾，其内是属于灵兽的世界，修士入内狩猎以获本命灵兽。",
   "attributes": {
-    "类型": "星海秘境",
+    "类型": "星空雾域",
     "上级区域": "云海星域",
     "危险度": "高",
-    "特产": "灵兽"
+    "特产": "星虎兽（已灭绝）"
   },
   "observations": {
     "类型": [
@@ -19,6 +20,11 @@
         "value": "星海秘境",
         "docId": "plot.xianni-ch1141-lv-yanfei",
         "seq": 1058
+      },
+      {
+        "value": "星空雾域",
+        "docId": "plot.xianni-1146-tianni-second-perfection-hope",
+        "seq": 1063
       }
     ],
     "上级区域": [
@@ -40,6 +46,11 @@
         "value": "灵兽",
         "docId": "plot.xianni-ch1141-lv-yanfei",
         "seq": 1058
+      },
+      {
+        "value": "星虎兽（已灭绝）",
+        "docId": "plot.xianni-1146-tianni-second-perfection-hope",
+        "seq": 1063
       }
     ]
   },
@@ -47,9 +58,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1141-lv-yanfei",
+      "docId": "plot.xianni-1146-tianni-second-perfection-hope",
       "dated": false,
-      "seq": 1058
+      "seq": 1063
     },
     "上级区域": {
       "asOf": null,
@@ -65,15 +76,16 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-ch1141-lv-yanfei",
+      "docId": "plot.xianni-1146-tianni-second-perfection-hope",
       "dated": false,
-      "seq": 1058
+      "seq": 1063
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1141-lv-yanfei"
+    "plot.xianni-ch1141-lv-yanfei",
+    "plot.xianni-1146-tianni-second-perfection-hope"
   ],
-  "updatedAt": "2026-08-24T18:13:15.777Z"
+  "updatedAt": "2026-08-24T18:30:47.854Z"
 }

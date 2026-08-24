@@ -9,13 +9,15 @@
     "灵脉深处的魂幡",
     "固定的金色魂幡",
     "麒麟魂幡",
-    "金色禁幡"
+    "金色禁幡",
+    "极阴金旗",
+    "一杆金色小旗"
   ],
   "summary": "插在封印之地的一把金色小旗，黑雾自其内散出，王林判断十有八九是炼魂宗的魂幡类宝物，内藏魂魄。",
   "attributes": {
     "外形": "金色小旗、金色魂幡、金色长幡、金色幡旗",
-    "能力": "散出黑雾形成上吉魂禁、内蓄魂魄，可化出双角守护妖兽、吸收魂魄、幻化麒麟妖兽（副魂）、吞噬魂魄、无风自动御敌、收摄魂魄、收取麒麟主魂",
-    "来历": "疑为炼魂宗宝物、留于炼魂峰多年，始终无人可以收取、插于炼魂峰灵脉深处，拔起后地下涌出冲天黑气",
+    "能力": "散出黑雾形成上吉魂禁、内蓄魂魄，可化出双角守护妖兽、吸收魂魄、幻化麒麟妖兽（副魂）、吞噬魂魄、无风自动御敌、收摄魂魄、收取麒麟主魂、封禁数百女子阴魂、蕴一丝极阴之气",
+    "来历": "疑为炼魂宗宝物、留于炼魂峰多年，始终无人可以收取、插于炼魂峰灵脉深处，拔起后地下涌出冲天黑气、紫衣青年储物袋",
     "禁制": "被固定在一点无法移动、需心神精血祭炼",
     "器灵": "主魂为形似麒麟的妖兽、麒麟残魂（主魂）",
     "持有者": "王林"
@@ -83,6 +85,16 @@
         "value": "收取麒麟主魂",
         "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
         "seq": 363
+      },
+      {
+        "value": "封禁数百女子阴魂",
+        "docId": "plot.xianni-1146-tianni-second-perfection-hope",
+        "seq": 1063
+      },
+      {
+        "value": "蕴一丝极阴之气",
+        "docId": "plot.xianni-1146-tianni-second-perfection-hope",
+        "seq": 1063
       }
     ],
     "来历": [
@@ -102,6 +114,11 @@
         "value": "插于炼魂峰灵脉深处，拔起后地下涌出冲天黑气",
         "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
         "seq": 363
+      },
+      {
+        "value": "紫衣青年储物袋",
+        "docId": "plot.xianni-1146-tianni-second-perfection-hope",
+        "seq": 1063
       }
     ],
     "禁制": [
@@ -133,7 +150,8 @@
       {
         "value": "王林",
         "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
-        "seq": 363
+        "seq": 363,
+        "note": "得自紫衣青年储物袋"
       }
     ]
   },
@@ -175,13 +193,15 @@
       "asOf": null,
       "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
       "dated": false,
-      "seq": 363
+      "seq": 363,
+      "note": "得自紫衣青年储物袋"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction"
+    "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+    "plot.xianni-1146-tianni-second-perfection-hope"
   ],
-  "updatedAt": "2026-08-15T09:19:09.966Z"
+  "updatedAt": "2026-08-24T18:30:47.895Z"
 }
