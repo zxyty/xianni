@@ -463,3 +463,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T09:35:03.313Z** `ingest` plot.xianni-ch1053-xukongzi-cold-sweat — 第1053章 虚空子的冷汗：古妖贝罗议和、青丹相赠与仙帝洞府第六层的等待 · kind=plot asOf=2026-08-24 entities=27 relations=51 src=00972-00976.p2.md
 - **2026-08-24T09:37:59.858Z** `ingest` plot.xianni-ch1054-forcing-xukongzi — 第1054章 逼压虚空子：王林先手出击，王巍胡娟贝罗夹击碎涅老怪 · kind=plot asOf=2026-08-24 entities=31 relations=53 src=00972-00976.p3.md
 - **2026-08-24T09:41:00.224Z** `ingest` plot.xianni-ch1055-shanbeng-seventh-layer-volcano — 第1055章 山崩：虚空子重伤、传送第七层火海，王林吸纳火元力悟「山崩」 · kind=plot asOf=2026-08-24 entities=30 relations=43 src=00972-00976.p4.md
+- **2026-08-24T09:42:57.229Z** `ingest` plot.xianni-ch1056-immortal-emperor-cave-layer7-volcano-demon-seal — 第1056章 仙帝洞府第七层：火山吞焰疗伤与「魔」字封印被破 · kind=plot asOf=2026-08-24 entities=23 relations=28 src=00972-00976.p5.md
