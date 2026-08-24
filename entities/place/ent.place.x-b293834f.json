@@ -3,13 +3,17 @@
   "type": "place",
   "name": "司马墨洞府",
   "aliases": [
-    "司马墨的洞府"
+    "司马墨的洞府",
+    "荒废洞府",
+    "石室三间的洞府"
   ],
   "summary": "位于七彩界外围与内部交接之处的洞府，苍松子据所获玉简确定其存在，内可能藏有丹方、丹药及其余之物。",
   "attributes": {
     "所属界面": "七彩界",
-    "方位": "七彩界外围与内部交接之处",
-    "类型": "洞府"
+    "方位": "七彩界外围与内部交接之处、秘地内部前方山谷内（非环形山脉之后）",
+    "类型": "洞府",
+    "规模": "石室三间",
+    "所属势力": "司马墨（原主，已荒废）"
   },
   "observations": {
     "所属界面": [
@@ -24,12 +28,31 @@
         "value": "七彩界外围与内部交接之处",
         "docId": "plot.xianni-1184-qicai-jie-mishizhe-duanmu-tongzi",
         "seq": 1100
+      },
+      {
+        "value": "秘地内部前方山谷内（非环形山脉之后）",
+        "docId": "plot.xianni-1186-nine-step-seal-heaven-formation-broken",
+        "seq": 1100
       }
     ],
     "类型": [
       {
         "value": "洞府",
         "docId": "plot.xianni-1184-qicai-jie-mishizhe-duanmu-tongzi",
+        "seq": 1100
+      }
+    ],
+    "规模": [
+      {
+        "value": "石室三间",
+        "docId": "plot.xianni-1186-nine-step-seal-heaven-formation-broken",
+        "seq": 1100
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "司马墨（原主，已荒废）",
+        "docId": "plot.xianni-1186-nine-step-seal-heaven-formation-broken",
         "seq": 1100
       }
     ]
@@ -53,12 +76,25 @@
       "docId": "plot.xianni-1184-qicai-jie-mishizhe-duanmu-tongzi",
       "dated": false,
       "seq": 1100
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-1186-nine-step-seal-heaven-formation-broken",
+      "dated": false,
+      "seq": 1100
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-1186-nine-step-seal-heaven-formation-broken",
+      "dated": false,
+      "seq": 1100
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1184-qicai-jie-mishizhe-duanmu-tongzi"
+    "plot.xianni-1184-qicai-jie-mishizhe-duanmu-tongzi",
+    "plot.xianni-1186-nine-step-seal-heaven-formation-broken"
   ],
-  "updatedAt": "2026-08-24T21:37:47.816Z"
+  "updatedAt": "2026-08-24T21:42:10.956Z"
 }

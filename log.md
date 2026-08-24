@@ -581,3 +581,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T21:31:08.525Z** `ingest` plot.xianni-1183-do-not-move-jiaolong-slain — 第1183章 不要动——王林徒手摔落十二阶化雾蛟龙、狭路再现异变 · kind=plot asOf=2026-08-24 entities=19 relations=29 src=01100-01104.p2.md
 - **2026-08-24T21:37:48.152Z** `ingest` plot.xianni-1184-qicai-jie-mishizhe-duanmu-tongzi — 《仙逆》第1184章 奉至修真行：七彩界迷失者夺境，端木童子沦为行尸 · kind=plot asOf=2026-08-24 entities=29 relations=54 src=01100-01104.p3.md
 - **2026-08-24T21:39:52.210Z** `ingest` plot.xianni-1185-nine-step-sealing-heaven-formation — 第1185章 九步封天阵——七彩界山脉通道受阻，王林出手 · kind=plot asOf=2026-08-24 entities=18 relations=22 src=01100-01104.p4.md
+- **2026-08-24T21:42:11.259Z** `ingest` plot.xianni-1186-nine-step-seal-heaven-formation-broken — 《仙逆》第1186章 理应如此——王林十步破九步封天阵，独留洞府疗伤 · kind=plot asOf=2026-08-24 entities=15 relations=27 src=01100-01104.p5.md
