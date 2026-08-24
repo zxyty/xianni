@@ -426,3 +426,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T04:23:03.549Z** `ingest` plot.xianni-1005-hua-xian-immortal-mansion-flower-sea-poison — 第1005章 花仙——仙府花海葬地之毒与银尸吞毒、仙兵混战 · kind=plot asOf=2026-08-24 entities=27 relations=41 src=00929-00933.p4.md
 - **2026-08-24T04:25:55.855Z** `ingest` plot.xianni-ch1006-immortal-mansion-tortoise-shell-crisis — 第1006章 危机：仙府内环四青衣老者伏诛与龟甲大殿中的白衣身影 · kind=plot asOf=2026-08-24 entities=27 relations=33 src=00929-00933.p5.md
 - **2026-08-24T04:28:27.149Z** `ingest` plot.xianni-1007-huaxian-warning-turtle-shell — 第1007章 警告：花仙一瞥重创众人，王林灭神矛破龟甲 · kind=plot asOf=2026-08-24 entities=29 relations=30 src=00934-00938.p1.md
+- **2026-08-24T04:30:36.609Z** `ingest` plot.xianni-ch1008-zang-hua-baiyi-nvzi — 第1008章 葬花——白衣女子出手，王林三大仙术尽废、以青霜破局 · kind=plot asOf=2026-08-24 entities=28 relations=35 src=00934-00938.p2.md
