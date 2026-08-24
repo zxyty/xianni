@@ -3,14 +3,15 @@
   "type": "race",
   "name": "符文族",
   "aliases": [
-    "自称符文族的怪人"
+    "自称符文族的怪人",
+    "界外符文族"
   ],
   "summary": "自星空下的虚无凭空出现于四大仙界下域的异族，神通尽凝于类似法宝的纸符之上；与仙人大战败北，被打散并大片沦为仙人奴仆。即后世的仙遗族。",
   "attributes": {
-    "特性": "将一切神通凝聚于纸符之上施展、神通之术极为诡异，与仙人截然不同、以符文/符箓见长",
+    "特性": "将一切神通凝聚于纸符之上施展、神通之术极为诡异，与仙人截然不同、以符文/符箓见长、自界外而来，扰乱天地",
     "聚居地": "星空下的虚无",
     "天敌": "上古仙人",
-    "阵营": "被仙人奴役为奴仆"
+    "阵营": "仙界之敌"
   },
   "observations": {
     "特性": [
@@ -28,6 +29,11 @@
         "value": "以符文/符箓见长",
         "docId": "plot.xianni-1063-qinglin-duoshe-qian-de-yiju-hua",
         "seq": 982
+      },
+      {
+        "value": "自界外而来，扰乱天地",
+        "docId": "plot.xianni-1096-jingtian-yinmi-limo-baiyi-lundao",
+        "seq": 1014
       }
     ],
     "聚居地": [
@@ -51,6 +57,11 @@
         "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
         "seq": 876,
         "note": "符族战败之后"
+      },
+      {
+        "value": "仙界之敌",
+        "docId": "plot.xianni-1096-jingtian-yinmi-limo-baiyi-lundao",
+        "seq": 1014
       }
     ]
   },
@@ -77,17 +88,17 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
+      "docId": "plot.xianni-1096-jingtian-yinmi-limo-baiyi-lundao",
       "dated": false,
-      "seq": 876,
-      "note": "符族战败之后"
+      "seq": 1014
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
-    "plot.xianni-1063-qinglin-duoshe-qian-de-yiju-hua"
+    "plot.xianni-1063-qinglin-duoshe-qian-de-yiju-hua",
+    "plot.xianni-1096-jingtian-yinmi-limo-baiyi-lundao"
   ],
-  "updatedAt": "2026-08-24T10:10:47.142Z"
+  "updatedAt": "2026-08-24T14:49:16.261Z"
 }

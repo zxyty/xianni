@@ -3,12 +3,14 @@
   "type": "place",
   "name": "雨夜古庙",
   "aliases": [
-    "朱雀星古庙"
+    "朱雀星古庙",
+    "当年雨夜古庙"
   ],
   "summary": "当年墨智与王林初次相遇并雨夜论道之处，位于朱雀星。",
   "attributes": {
     "所属界面": "朱雀星",
-    "类型": "古庙"
+    "类型": "古庙",
+    "上级区域": "朱雀星"
   },
   "observations": {
     "所属界面": [
@@ -23,6 +25,13 @@
         "value": "古庙",
         "docId": "plot.xianni-1094-lieyunzi-apologizes-zhanzitie",
         "seq": 1009
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-1096-jingtian-yinmi-limo-baiyi-lundao",
+        "seq": 1014
       }
     ]
   },
@@ -39,12 +48,19 @@
       "docId": "plot.xianni-1094-lieyunzi-apologizes-zhanzitie",
       "dated": false,
       "seq": 1009
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-1096-jingtian-yinmi-limo-baiyi-lundao",
+      "dated": false,
+      "seq": 1014
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1094-lieyunzi-apologizes-zhanzitie"
+    "plot.xianni-1094-lieyunzi-apologizes-zhanzitie",
+    "plot.xianni-1096-jingtian-yinmi-limo-baiyi-lundao"
   ],
-  "updatedAt": "2026-08-24T13:35:51.198Z"
+  "updatedAt": "2026-08-24T14:49:16.229Z"
 }

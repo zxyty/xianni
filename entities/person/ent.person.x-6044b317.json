@@ -11,9 +11,10 @@
   "summary": "尸阴宗使者，容颜妖艳身穿蓝纱裙，在朱雀后殿主动向红袍老者攀谈，点破其为罗天星域的烈云子。",
   "attributes": {
     "性别": "女",
-    "身份": "尸阴宗使者、尸阴宗核心弟子",
-    "外貌": "容颜妖艳、蓝纱裙、风情暗涌、妖艳女子",
-    "阵营": "尸阴宗"
+    "身份": "尸阴宗使者、尸阴宗核心弟子、尸阴宗一方代表",
+    "外貌": "容颜妖艳、蓝纱裙、风情暗涌、妖艳女子、妖艳",
+    "阵营": "尸阴宗",
+    "性格": "心机过人、谨慎"
   },
   "observations": {
     "性别": [
@@ -33,6 +34,12 @@
         "value": "尸阴宗核心弟子",
         "docId": "plot.xianni-ch1093-you-want-wang-lin",
         "seq": 1009
+      },
+      {
+        "value": "尸阴宗一方代表",
+        "docId": "plot.xianni-1096-jingtian-yinmi-limo-baiyi-lundao",
+        "seq": 1014,
+        "note": "第1096章赴朱雀圣宗"
       }
     ],
     "外貌": [
@@ -45,6 +52,11 @@
         "value": "妖艳女子",
         "docId": "plot.xianni-ch1093-you-want-wang-lin",
         "seq": 1009
+      },
+      {
+        "value": "妖艳",
+        "docId": "plot.xianni-1096-jingtian-yinmi-limo-baiyi-lundao",
+        "seq": 1014
       }
     ],
     "阵营": [
@@ -52,6 +64,13 @@
         "value": "尸阴宗",
         "docId": "plot.xianni-ch1093-you-want-wang-lin",
         "seq": 1009
+      }
+    ],
+    "性格": [
+      {
+        "value": "心机过人、谨慎",
+        "docId": "plot.xianni-1096-jingtian-yinmi-limo-baiyi-lundao",
+        "seq": 1014
       }
     ]
   },
@@ -80,13 +99,20 @@
       "docId": "plot.xianni-ch1093-you-want-wang-lin",
       "dated": false,
       "seq": 1009
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-1096-jingtian-yinmi-limo-baiyi-lundao",
+      "dated": false,
+      "seq": 1014
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1092-wang-lin-plans-zhuque-holy-emperor",
-    "plot.xianni-ch1093-you-want-wang-lin"
+    "plot.xianni-ch1093-you-want-wang-lin",
+    "plot.xianni-1096-jingtian-yinmi-limo-baiyi-lundao"
   ],
-  "updatedAt": "2026-08-24T13:33:56.037Z"
+  "updatedAt": "2026-08-24T14:49:16.217Z"
 }

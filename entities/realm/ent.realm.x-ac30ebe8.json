@@ -3,12 +3,15 @@
   "type": "realm",
   "name": "天人第二衰",
   "aliases": [
-    "第二衰"
+    "第二衰",
+    "天人五衰之第二衰"
   ],
   "summary": "天人五衰之第二衰；天运子经历此衰时因道心被破而规则之力出现破绽、完整道念崩溃。",
   "attributes": {
     "阶序": "天人五衰之二",
-    "下一境": "天人第三衰"
+    "下一境": "天人第三衰",
+    "突破关键": "在四代圣皇帮助下度过",
+    "上一境": "天人第一衰"
   },
   "observations": {
     "阶序": [
@@ -23,6 +26,20 @@
         "value": "天人第三衰",
         "docId": "plot.xianni-1025-fuzu-shengzu-blood-sea-escape",
         "seq": 949
+      }
+    ],
+    "突破关键": [
+      {
+        "value": "在四代圣皇帮助下度过",
+        "docId": "plot.xianni-1096-jingtian-yinmi-limo-baiyi-lundao",
+        "seq": 1014
+      }
+    ],
+    "上一境": [
+      {
+        "value": "天人第一衰",
+        "docId": "plot.xianni-1096-jingtian-yinmi-limo-baiyi-lundao",
+        "seq": 1014
       }
     ]
   },
@@ -39,12 +56,25 @@
       "docId": "plot.xianni-1025-fuzu-shengzu-blood-sea-escape",
       "dated": false,
       "seq": 949
+    },
+    "突破关键": {
+      "asOf": null,
+      "docId": "plot.xianni-1096-jingtian-yinmi-limo-baiyi-lundao",
+      "dated": false,
+      "seq": 1014
+    },
+    "上一境": {
+      "asOf": null,
+      "docId": "plot.xianni-1096-jingtian-yinmi-limo-baiyi-lundao",
+      "dated": false,
+      "seq": 1014
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1025-fuzu-shengzu-blood-sea-escape"
+    "plot.xianni-1025-fuzu-shengzu-blood-sea-escape",
+    "plot.xianni-1096-jingtian-yinmi-limo-baiyi-lundao"
   ],
-  "updatedAt": "2026-08-24T07:17:01.640Z"
+  "updatedAt": "2026-08-24T14:49:16.276Z"
 }

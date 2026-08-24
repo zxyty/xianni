@@ -498,3 +498,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T13:33:56.392Z** `ingest` plot.xianni-ch1093-you-want-wang-lin — 第1093章 你要王林？——朱雀圣皇临殿，烈云子索要「王林」 · kind=plot asOf=2026-08-24 entities=27 relations=36 src=01009-01013.p3.md
 - **2026-08-24T13:35:51.522Z** `ingest` plot.xianni-1094-lieyunzi-apologizes-zhanzitie — 第1094章 认错：王林揭示朱雀圣皇身份，烈云子屈辱认错交出战字帖 · kind=plot asOf=2026-08-24 entities=22 relations=30 src=01009-01013.p4.md
 - **2026-08-24T13:42:51.454Z** `ingest` plot.xianni-ch1095-zhan-zi-tie-luofu-blood-spheres — 第1095章 不知此尸，能排第几？——王林索取战字帖与六枚罗浮血球，并托烈云子转交玉简给炎雷子 · kind=plot asOf=2026-08-24 entities=33 relations=54 src=01009-01013.p5.md
+- **2026-08-24T14:49:16.532Z** `ingest` plot.xianni-1096-jingtian-yinmi-limo-baiyi-lundao — 仙逆 第1096章 惊天隐秘：李莹芝七日之约与王林墨智重逢论道 · kind=plot asOf=2026-08-24 entities=52 relations=80 src=01014-01018.p1.md
