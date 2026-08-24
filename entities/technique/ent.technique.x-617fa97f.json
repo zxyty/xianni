@@ -10,7 +10,8 @@
   "attributes": {
     "出处": "古神涂司所修",
     "外显异象": "修炼产生魔念（拓森）",
-    "效果": "分神"
+    "效果": "分神；被涂司用于冲击九星古神",
+    "修炼条件": "极为凶险，需冒险修炼"
   },
   "observations": {
     "出处": [
@@ -37,6 +38,18 @@
         "value": "分神",
         "docId": "plot.xianni-ch1134-tuosen-appears-blood-dragon-heart-blood",
         "seq": 1049
+      },
+      {
+        "value": "分神；被涂司用于冲击九星古神",
+        "docId": "plot.xianni-ch1157-yi-sun-liang-jie-gu-jie",
+        "seq": 1073
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "极为凶险，需冒险修炼",
+        "docId": "plot.xianni-ch1157-yi-sun-liang-jie-gu-jie",
+        "seq": 1073
       }
     ]
   },
@@ -56,16 +69,23 @@
     },
     "效果": {
       "asOf": null,
-      "docId": "plot.xianni-ch1134-tuosen-appears-blood-dragon-heart-blood",
+      "docId": "plot.xianni-ch1157-yi-sun-liang-jie-gu-jie",
       "dated": false,
-      "seq": 1049
+      "seq": 1073
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1157-yi-sun-liang-jie-gu-jie",
+      "dated": false,
+      "seq": 1073
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch194-blood-sea-seal-opening",
-    "plot.xianni-ch1134-tuosen-appears-blood-dragon-heart-blood"
+    "plot.xianni-ch1134-tuosen-appears-blood-dragon-heart-blood",
+    "plot.xianni-ch1157-yi-sun-liang-jie-gu-jie"
   ],
-  "updatedAt": "2026-08-24T17:52:20.139Z"
+  "updatedAt": "2026-08-24T19:04:44.336Z"
 }
