@@ -12,7 +12,9 @@
     "性别": "男",
     "身份": "坊市摆摊修士、蓬莱坊市巨商/背后有势力支撑、苍松子的师侄、私人拍卖引荐人兼执事、引路人/中间人",
     "外貌": "老者，盘膝坐地，腰佩一枚玉佩",
-    "性格": "谨慎、识人、行事干脆、表面爽朗热情，内心忌惮、谨慎多疑、待客有礼"
+    "性格": "谨慎、识人、行事干脆、表面爽朗热情，内心忌惮、谨慎多疑、待客有礼",
+    "阵营": "蓬莱宝玉宗",
+    "标志特征": "叫价时声音颤抖、额头泌汗"
   },
   "observations": {
     "性别": [
@@ -72,6 +74,20 @@
         "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
         "seq": 1087
       }
+    ],
+    "阵营": [
+      {
+        "value": "蓬莱宝玉宗",
+        "docId": "plot.xianni-1177-shenmojia-auction-yunhai",
+        "seq": 1095
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "叫价时声音颤抖、额头泌汗",
+        "docId": "plot.xianni-1177-shenmojia-auction-yunhai",
+        "seq": 1095
+      }
     ]
   },
   "firstSeq": 1087,
@@ -99,13 +115,26 @@
       "docId": "plot.xianni-ch1169-who-are-you-penglai-fair",
       "dated": false,
       "seq": 1087
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1177-shenmojia-auction-yunhai",
+      "dated": false,
+      "seq": 1095
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-1177-shenmojia-auction-yunhai",
+      "dated": false,
+      "seq": 1095
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1169-who-are-you-penglai-fair",
-    "plot.xianni-1173-feng-yu-dong-auction-yuanjing-trade"
+    "plot.xianni-1173-feng-yu-dong-auction-yuanjing-trade",
+    "plot.xianni-1177-shenmojia-auction-yunhai"
   ],
-  "updatedAt": "2026-08-24T20:59:47.530Z"
+  "updatedAt": "2026-08-24T21:15:52.706Z"
 }

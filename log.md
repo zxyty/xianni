@@ -572,3 +572,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T21:07:57.556Z** `ingest` plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing — 第1174章 你来晚了：王林蓬莱乱石平原初战碎涅吴青 · kind=plot asOf=2026-08-24 entities=53 relations=73 src=01091-01094.p2.md
 - **2026-08-24T21:10:39.165Z** `ingest` plot.xianni-1175-shenzong-menren-mocongdao-peili-yulinyin-weishe — 第1175章 神宗门人：魔丛道赔礼、役灵印威名与苍松子的密约 · kind=plot asOf=2026-08-24 entities=32 relations=40 src=01091-01094.p3.md
 - **2026-08-24T21:13:07.854Z** `ingest` plot.xianni-1176-penglai-auction-li-qianmei-farewell — 第1176章 相忘于江湖——蓬莱拍卖会与李倩梅赠画别离 · kind=plot asOf=2026-08-24 entities=31 relations=44 src=01091-01094.p4.md
+- **2026-08-24T21:15:53.064Z** `ingest` plot.xianni-1177-shenmojia-auction-yunhai — 第1177章 神魔甲：王林拍卖山魂残骸与神宗魔甲，云海震动 · kind=plot asOf=2026-08-24 entities=34 relations=37 src=01095-01099.p1.md
