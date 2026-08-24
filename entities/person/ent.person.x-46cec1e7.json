@@ -7,7 +7,8 @@
     "黑衣上尊",
     "虚无中走出的黑衣老者",
     "前方黑衣老人",
-    "炎雷子跟随的黑衣老者"
+    "炎雷子跟随的黑衣老者",
+    "那站在远处始终思索的老者"
   ],
   "summary": "自虚无中走出的黑衣老者，神色平静，一指崩灭红衣上古炼气士；被炎雷子尊称「上尊」，自语点名「无极子」。",
   "attributes": {
@@ -16,7 +17,9 @@
     "称号": "上尊",
     "存殁": "在世",
     "标志特征": "每抬脚一次下方虚无疯狂收缩",
-    "元神强度": "极强"
+    "元神强度": "极强",
+    "身份": "疑为第三步修士",
+    "性格": "沉静思索，不理会血龙之战"
   },
   "observations": {
     "性别": [
@@ -66,6 +69,21 @@
         "seq": 1049,
         "note": "所在之处即天地，一界不过一寸"
       }
+    ],
+    "身份": [
+      {
+        "value": "疑为第三步修士",
+        "docId": "plot.xianni-1133-san-sun-qi-jie-blood-dragon-ancient-god-heart-blood",
+        "seq": 1049,
+        "note": "王林据其能让清水师兄却步、一式神通打开空间壁垒、蕴含本源之力、洞彻规则推断"
+      }
+    ],
+    "性格": [
+      {
+        "value": "沉静思索，不理会血龙之战",
+        "docId": "plot.xianni-1133-san-sun-qi-jie-blood-dragon-ancient-god-heart-blood",
+        "seq": 1049
+      }
     ]
   },
   "firstSeq": 1044,
@@ -106,13 +124,27 @@
       "dated": false,
       "seq": 1049,
       "note": "所在之处即天地，一界不过一寸"
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-1133-san-sun-qi-jie-blood-dragon-ancient-god-heart-blood",
+      "dated": false,
+      "seq": 1049,
+      "note": "王林据其能让清水师兄却步、一式神通打开空间壁垒、蕴含本源之力、洞彻规则推断"
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-1133-san-sun-qi-jie-blood-dragon-ancient-god-heart-blood",
+      "dated": false,
+      "seq": 1049
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass",
-    "plot.xianni-1132-wuji-zi-years-rule"
+    "plot.xianni-1132-wuji-zi-years-rule",
+    "plot.xianni-1133-san-sun-qi-jie-blood-dragon-ancient-god-heart-blood"
   ],
-  "updatedAt": "2026-08-24T17:46:55.830Z"
+  "updatedAt": "2026-08-24T17:49:36.605Z"
 }

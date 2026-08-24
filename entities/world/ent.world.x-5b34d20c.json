@@ -14,12 +14,15 @@
     "洪牢最底层血色世界",
     "一线天杀戮战场",
     "杀戮之地",
-    "killing battlefield"
+    "killing battlefield",
+    "血色世界漩涡",
+    "Blood World"
   ],
   "summary": "空间裂缝内的血红色异界：血浆地面、暗红天空，密布头顶生角修士与石锥，远处通天石锥坐一红发修士。",
   "attributes": {
-    "特点": "血浆地面、暗红天空、石锥林立、生角修士聚居",
-    "主宰势力": "生角妖魔一脉"
+    "特点": "血浆地面、暗红天空、石锥林立、生角修士聚居、入口由血龙守护",
+    "主宰势力": "生角妖魔一脉",
+    "通道": "血色漩涡入口"
   },
   "observations": {
     "特点": [
@@ -42,6 +45,11 @@
         "value": "生角修士聚居",
         "docId": "plot.xianni-ch183-yibian-chushi",
         "seq": 168
+      },
+      {
+        "value": "入口由血龙守护",
+        "docId": "plot.xianni-1133-san-sun-qi-jie-blood-dragon-ancient-god-heart-blood",
+        "seq": 1049
       }
     ],
     "主宰势力": [
@@ -49,6 +57,13 @@
         "value": "生角妖魔一脉",
         "docId": "plot.xianni-ch183-yibian-chushi",
         "seq": 168
+      }
+    ],
+    "通道": [
+      {
+        "value": "血色漩涡入口",
+        "docId": "plot.xianni-1133-san-sun-qi-jie-blood-dragon-ancient-god-heart-blood",
+        "seq": 1049
       }
     ]
   },
@@ -65,6 +80,12 @@
       "docId": "plot.xianni-ch183-yibian-chushi",
       "dated": false,
       "seq": 168
+    },
+    "通道": {
+      "asOf": null,
+      "docId": "plot.xianni-1133-san-sun-qi-jie-blood-dragon-ancient-god-heart-blood",
+      "dated": false,
+      "seq": 1049
     }
   },
   "contested": false,
@@ -73,7 +94,8 @@
     "plot.xianni-ch183-yibian-chushi",
     "plot.xianni-ch544-545-hongprison-slaughter-immortal-art",
     "plot.xianni-ch576-wang-lin-quan-li-chu-shou-xuan-fu-shuai",
-    "plot.xianni-ch817-820-yixiantian-killing-trial"
+    "plot.xianni-ch817-820-yixiantian-killing-trial",
+    "plot.xianni-1133-san-sun-qi-jie-blood-dragon-ancient-god-heart-blood"
   ],
-  "updatedAt": "2026-08-23T15:47:09.409Z"
+  "updatedAt": "2026-08-24T17:49:36.619Z"
 }
