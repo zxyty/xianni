@@ -483,3 +483,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T11:43:07.970Z** `ingest` plot.xianni-1073-can-ye-shen-tong-kills-xu-kong-zi — 第1073章 拼：残夜神通骄阳升空秒杀虚空子，三具天运子分身拼命抗衡 · kind=plot asOf=2026-08-24 entities=19 relations=32 src=00992-00996.p2.md
 - **2026-08-24T11:45:58.780Z** `ingest` plot.xianni-ch1074-zhangzun-power-canye-kills-three — 第1074章 掌尊的力量——王林「残夜」连杀三分身，虚空子命牌碎裂九响钟鸣 · kind=plot asOf=2026-08-24 entities=30 relations=44 src=00992-00996.p3.md
 - **2026-08-24T11:48:10.277Z** `ingest` plot.xianni-1075-zhenling-ronghe-zhuque-juexing — 《仙逆》第1075章 真灵融合：朱雀真灵入体、朱雀圣宗现身护主 · kind=plot asOf=2026-08-24 entities=25 relations=29 src=00992-00996.p4.md
+- **2026-08-24T11:55:32.513Z** `ingest` plot.xianni-1076-juezhan-kaishi-zhuque-shengzong-lailin — 仙逆 第1076章 决战开始：朱雀圣宗来援，天运子与塔珈合围王林 · kind=plot asOf=2026-08-24 entities=35 relations=62 src=00992-00996.p5.md
