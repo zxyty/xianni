@@ -508,3 +508,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T15:16:19.517Z** `ingest` plot.xianni-ch1103-yunhai-mosquito-beasts-stolen — 第1103章 云海——天门宗窃走王林巨蚊兽，王林压劫来袭 · kind=plot asOf=2026-08-24 entities=25 relations=32 src=01019-01023.p3.md
 - **2026-08-24T15:18:19.652Z** `ingest` plot.xianni-1104-tianjie-mosquito-beast-pursuit — 第1104章 天劫：王林借符提速追至碎石星域，解封修为引落净涅天劫 · kind=plot asOf=2026-08-24 entities=18 relations=24 src=01019-01023.p4.md
 - **2026-08-24T15:20:19.708Z** `ingest` plot.xianni-ch1105-shan-beng-devour-heavenly-tribulation — 第1105章 山崩：王林碎石星域捏碎天劫、吞噬九雷轰碎青光罩 · kind=plot asOf=2026-08-24 entities=14 relations=22 src=01019-01023.p5.md
+- **2026-08-24T15:22:21.988Z** `ingest` plot.xianni-1106-yi-shan-er-beng — 第1106章 一山二崩：王林以山崩仙术屠灭云海星域修士 · kind=plot asOf=2026-08-24 entities=15 relations=23 src=01024-01028.p1.md
