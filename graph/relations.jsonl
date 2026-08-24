@@ -34457,3 +34457,25 @@
 {"s":"ent.event.x-f36b164b","p":"occursAt","o":"ent.place.x-820ecc37","evidence":"plot.xianni-1136-wang-lin-avatar-blocks-mieshen-spear-flight","confidence":0.9,"seq":1054}
 {"s":"ent.event.x-f36b164b","p":"involves","o":"ent.person.x-73d2856c","evidence":"plot.xianni-1136-wang-lin-avatar-blocks-mieshen-spear-flight","confidence":0.95,"seq":1054}
 {"s":"ent.person.x-fc510df4","p":"kills","o":"ent.faction.x-75ec1d9f","evidence":"plot.xianni-1136-wang-lin-avatar-blocks-mieshen-spear-flight","confidence":0.85,"seq":1054,"note":"灭神矛撞击漩涡的余波致其中六人身死"}
+{"s":"ent.person.x-73d2856c","p":"casts","o":"ent.spell.x-46ef9be8","evidence":"plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai","confidence":0.95,"seq":1054,"note":"第1137章掐诀开启传送漩涡"}
+{"s":"ent.person.x-73d2856c","p":"possesses","o":"ent.artifact.x-8db062fc","evidence":"plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai","confidence":0.9,"seq":1054}
+{"s":"ent.person.x-73d2856c","p":"relatedTo","o":"ent.formation.x-f2e65bcb","evidence":"plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai","confidence":0.9,"seq":1054,"note":"布阵者，并以数百石块补全后启动"}
+{"s":"ent.formation.x-f2e65bcb","p":"locatedIn","o":"ent.place.x-4ab34de1","evidence":"plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai","confidence":0.95,"seq":1054}
+{"s":"ent.material.x-59bc39d1","p":"partOf","o":"ent.formation.x-f2e65bcb","evidence":"plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai","confidence":0.9,"seq":1054}
+{"s":"ent.formation.x-f2e65bcb","p":"leadsTo","o":"ent.passage.x-df5fba82","evidence":"plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai","confidence":0.85,"seq":1054}
+{"s":"ent.passage.x-df5fba82","p":"connectsTo","o":"ent.place.x-1e24810e","evidence":"plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai","confidence":0.7,"seq":1054,"note":"章末接引阵亮起暗示为通道彼端，未明写"}
+{"s":"ent.passage.x-df5fba82","p":"connectsTo","o":"ent.place.x-4ab34de1","evidence":"plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai","confidence":0.9,"seq":1054}
+{"s":"ent.place.x-4ab34de1","p":"withinRegion","o":"ent.region.x-88167c68","evidence":"plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai","confidence":0.95,"seq":1054}
+{"s":"ent.place.x-89e08d8e","p":"partOf","o":"ent.region.x-9d49a66b","evidence":"plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai","confidence":0.95,"seq":1054}
+{"s":"ent.place.x-cec76313","p":"locatedIn","o":"ent.place.x-89e08d8e","evidence":"plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai","confidence":0.95,"seq":1054}
+{"s":"ent.place.x-cec76313","p":"withinRegion","o":"ent.region.x-9d49a66b","evidence":"plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai","confidence":0.95,"seq":1054}
+{"s":"ent.place.x-e674c399","p":"locatedIn","o":"ent.place.x-cec76313","evidence":"plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai","confidence":0.95,"seq":1054,"note":"位于大陆中心，柔和之光笼罩全陆隔绝星雾"}
+{"s":"ent.place.x-1e24810e","p":"locatedIn","o":"ent.place.x-cec76313","evidence":"plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai","confidence":0.95,"seq":1054}
+{"s":"ent.formation.x-00ec2c6f","p":"locatedIn","o":"ent.place.x-1e24810e","evidence":"plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai","confidence":0.95,"seq":1054}
+{"s":"ent.region.x-9d49a66b","p":"relatedTo","o":"ent.region.x-114d6a6b","evidence":"plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai","confidence":0.8,"seq":1054,"note":"同为四大仙界所属星域，云海范围大于罗天"}
+{"s":"ent.region.x-88167c68","p":"relatedTo","o":"ent.region.x-114d6a6b","evidence":"plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai","confidence":0.8,"seq":1054,"note":"雨界联盟与雷界罗天体系不同：修真国 vs 修真家族"}
+{"s":"ent.event.x-1e657165","p":"occursAt","o":"ent.place.x-4ab34de1","evidence":"plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai","confidence":0.95,"seq":1054}
+{"s":"ent.event.x-1e657165","p":"involves","o":"ent.person.x-73d2856c","evidence":"plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai","confidence":0.95,"seq":1054}
+{"s":"ent.event.x-00a946af","p":"occursAt","o":"ent.place.x-1e24810e","evidence":"plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai","confidence":0.95,"seq":1054}
+{"s":"ent.event.x-1e657165","p":"causes","o":"ent.event.x-00a946af","evidence":"plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai","confidence":0.8,"seq":1054}
+{"s":"ent.event.x-1e657165","p":"precedes","o":"ent.event.x-00a946af","evidence":"plot.xianni-1137-snow-farewell-alliance-teleport-to-yunhai","confidence":0.9,"seq":1054}
