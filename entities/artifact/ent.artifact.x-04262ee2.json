@@ -5,14 +5,16 @@
   "aliases": [
     "被红线缠绕的铁剑",
     "冰层深处的铁剑",
-    "Iron Sword"
+    "Iron Sword",
+    "古神头颅内的铁剑"
   ],
   "summary": "冰层深处一把锈迹斑斑、貌似凡物的铁剑，被无数缓缓蠕动的红线死死缠绕，神识无法察觉，仅肉眼可见。",
   "attributes": {
-    "外形": "寻常铁剑，几处锈迹斑斑，仿若凡人之物，外缠无数蠕动红线",
+    "外形": "铁剑，与当年那把一模一样",
     "能力": "神识无法探测（唯肉眼可见）、红线散发可怕危机感",
-    "来历": "与当年朱雀墓中被托森使者夺走的铁剑一模一样，仅锈迹不同",
-    "禁制": "无数缓缓蠕动的红线死死缠绕"
+    "来历": "不明",
+    "禁制": "被红雾散出的红色细线紧紧缠绕",
+    "持有者": "王林"
   },
   "observations": {
     "外形": [
@@ -20,6 +22,11 @@
         "value": "寻常铁剑，几处锈迹斑斑，仿若凡人之物，外缠无数蠕动红线",
         "docId": "plot.xianni-1042-iron-sword-ancient-god-head",
         "seq": 960
+      },
+      {
+        "value": "铁剑，与当年那把一模一样",
+        "docId": "plot.xianni-1043-xian-zhong-qu-jian",
+        "seq": 963
       }
     ],
     "能力": [
@@ -40,6 +47,12 @@
         "docId": "plot.xianni-1042-iron-sword-ancient-god-head",
         "seq": 960,
         "note": "第1042章王林辨认"
+      },
+      {
+        "value": "不明",
+        "docId": "plot.xianni-1043-xian-zhong-qu-jian",
+        "seq": 963,
+        "note": "托森或知晓，属王林缺失的那块记忆传承"
       }
     ],
     "禁制": [
@@ -47,6 +60,18 @@
         "value": "无数缓缓蠕动的红线死死缠绕",
         "docId": "plot.xianni-1042-iron-sword-ancient-god-head",
         "seq": 960
+      },
+      {
+        "value": "被红雾散出的红色细线紧紧缠绕",
+        "docId": "plot.xianni-1043-xian-zhong-qu-jian",
+        "seq": 963
+      }
+    ],
+    "持有者": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-1043-xian-zhong-qu-jian",
+        "seq": 963
       }
     ]
   },
@@ -54,9 +79,9 @@
   "attrProvenance": {
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-1042-iron-sword-ancient-god-head",
+      "docId": "plot.xianni-1043-xian-zhong-qu-jian",
       "dated": false,
-      "seq": 960
+      "seq": 963
     },
     "能力": {
       "asOf": null,
@@ -66,22 +91,29 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-1042-iron-sword-ancient-god-head",
+      "docId": "plot.xianni-1043-xian-zhong-qu-jian",
       "dated": false,
-      "seq": 960,
-      "note": "第1042章王林辨认"
+      "seq": 963,
+      "note": "托森或知晓，属王林缺失的那块记忆传承"
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.xianni-1042-iron-sword-ancient-god-head",
+      "docId": "plot.xianni-1043-xian-zhong-qu-jian",
       "dated": false,
-      "seq": 960
+      "seq": 963
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.xianni-1043-xian-zhong-qu-jian",
+      "dated": false,
+      "seq": 963
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1042-iron-sword-ancient-god-head"
+    "plot.xianni-1042-iron-sword-ancient-god-head",
+    "plot.xianni-1043-xian-zhong-qu-jian"
   ],
-  "updatedAt": "2026-08-24T09:05:00.209Z"
+  "updatedAt": "2026-08-24T09:06:47.341Z"
 }

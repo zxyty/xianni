@@ -450,3 +450,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T09:00:08.008Z** `ingest` plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history — 《仙逆》第1038章 窥涅巅峰？——四圣宗败落秘史与王林突破窥涅后期 · kind=plot asOf=2026-08-24 entities=71 relations=119 src=00960-00962.p1.md
 - **2026-08-24T09:02:36.219Z** `ingest` plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu — 仙逆 第1041章 深坑之下——规则明悟、星痕貂亲近与冰封古神头颅 · kind=plot asOf=2026-08-24 entities=23 relations=30 src=00960-00962.p2.md
 - **2026-08-24T09:05:00.526Z** `ingest` plot.xianni-1042-iron-sword-ancient-god-head — 仙逆 第1042章 铁剑：古神头颅断口的暗红结晶与红线缠绕的铁剑 · kind=plot asOf=2026-08-24 entities=23 relations=29 src=00960-00962.p3.md
+- **2026-08-24T09:06:47.588Z** `ingest` plot.xianni-1043-xian-zhong-qu-jian — 仙逆 第1043章 险中取剑：王林破冰夺铁剑，激活红线人形与仙尸群 · kind=plot asOf=2026-08-24 entities=13 relations=17 src=00963-00966.p1.md
