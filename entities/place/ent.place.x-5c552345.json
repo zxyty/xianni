@@ -10,16 +10,18 @@
     "Immortal Emperor Cave",
     "仙帝洞天",
     "仙帝洞府内",
-    "Immortal Emperor's cave abode"
+    "Immortal Emperor's cave abode",
+    "仙帝洞府庭院"
   ],
   "summary": "妖灵之地五府中唯一的实府，第一仙帝青霖之府，内有其闭关气息，姚父猜测藏有踏入道境第三步的契机。",
   "attributes": {
     "所属界面": "妖灵之地内",
-    "类型": "仙帝洞府、洞府/秘境、秘境/洞府、仙帝洞府/秘境、洞府／秘境",
-    "守护": "桥上魔雾中人",
+    "类型": "仙帝洞府、洞府/秘境、秘境/洞府、仙帝洞府/秘境、洞府／秘境、上古仙帝洞府",
+    "守护": "须四块青霖仙令同时开启四虚府大门方可进入、桥上魔雾中人、散魔残刀",
     "所属势力": "青霖仙帝",
     "规模": "多层，第一层为瓶中界",
-    "危险度": "极高（桥下小河内有狰狞黑影）"
+    "危险度": "极高（桥下小河内有狰狞黑影）",
+    "特产": "木桥、小河与河中狰狞之兽、阁楼、翠竹"
   },
   "observations": {
     "所属界面": [
@@ -54,6 +56,11 @@
         "value": "洞府／秘境",
         "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
         "seq": 945
+      },
+      {
+        "value": "上古仙帝洞府",
+        "docId": "plot.xianni-ch1023-po-ping-er-chu",
+        "seq": 945
       }
     ],
     "守护": [
@@ -65,6 +72,11 @@
       {
         "value": "桥上魔雾中人",
         "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
+        "seq": 945
+      },
+      {
+        "value": "散魔残刀",
+        "docId": "plot.xianni-ch1023-po-ping-er-chu",
         "seq": 945
       }
     ],
@@ -98,6 +110,28 @@
         "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
         "seq": 945
       }
+    ],
+    "特产": [
+      {
+        "value": "木桥",
+        "docId": "plot.xianni-ch1023-po-ping-er-chu",
+        "seq": 945
+      },
+      {
+        "value": "小河与河中狰狞之兽",
+        "docId": "plot.xianni-ch1023-po-ping-er-chu",
+        "seq": 945
+      },
+      {
+        "value": "阁楼",
+        "docId": "plot.xianni-ch1023-po-ping-er-chu",
+        "seq": 945
+      },
+      {
+        "value": "翠竹",
+        "docId": "plot.xianni-ch1023-po-ping-er-chu",
+        "seq": 945
+      }
     ]
   },
   "firstSeq": 576,
@@ -116,9 +150,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
+      "docId": "plot.xianni-ch616-immortal-emperor-qinglin-secret",
       "dated": false,
-      "seq": 945
+      "seq": 576
     },
     "所属势力": {
       "asOf": null,
@@ -137,6 +171,12 @@
       "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
       "dated": false,
       "seq": 945
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1023-po-ping-er-chu",
+      "dated": false,
+      "seq": 945
     }
   },
   "contested": false,
@@ -145,7 +185,8 @@
     "plot.xianni-ch616-immortal-emperor-qinglin-secret",
     "plot.xianni-ch1018-duotiandi-zhigong-vs-fentian-minghai",
     "plot.xianni-1020-qing-lin-crystal-black-tower-flame",
-    "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm"
+    "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
+    "plot.xianni-ch1023-po-ping-er-chu"
   ],
-  "updatedAt": "2026-08-24T06:51:16.722Z"
+  "updatedAt": "2026-08-24T06:54:16.648Z"
 }
