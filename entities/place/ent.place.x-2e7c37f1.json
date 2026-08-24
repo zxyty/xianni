@@ -2,19 +2,27 @@
   "id": "ent.place.x-2e7c37f1",
   "type": "place",
   "name": "仙帝洞府第八层",
-  "aliases": [],
+  "aliases": [
+    "烛台大殿层"
+  ],
   "summary": "仙帝洞府的第八层，通体漆黑、尽笼黑雾，神识无法散开；有古魔盘踞，中心位置有巨大宫殿。",
   "attributes": {
-    "类型": "秘境层级",
+    "类型": "秘境层级、洞府层级",
     "上级区域": "仙帝洞府",
     "危险度": "极高（古魔吞噬神通、魔掌穿透一切防护）",
-    "特产": "中心宫殿内的九十九盏烛台"
+    "特产": "中心宫殿内的九十九盏烛台",
+    "守护": "烛台之火"
   },
   "observations": {
     "类型": [
       {
         "value": "秘境层级",
         "docId": "plot.xianni-ch1059-immortal-emperor-cave-8th-floor-ancient-demon-palm",
+        "seq": 977
+      },
+      {
+        "value": "洞府层级",
+        "docId": "plot.xianni-1061-immortal-emperor-cave-collapse-ancient-demon-possession-complete",
         "seq": 977
       }
     ],
@@ -36,6 +44,13 @@
       {
         "value": "中心宫殿内的九十九盏烛台",
         "docId": "plot.xianni-ch1059-immortal-emperor-cave-8th-floor-ancient-demon-palm",
+        "seq": 977
+      }
+    ],
+    "守护": [
+      {
+        "value": "烛台之火",
+        "docId": "plot.xianni-1061-immortal-emperor-cave-collapse-ancient-demon-possession-complete",
         "seq": 977
       }
     ]
@@ -65,12 +80,19 @@
       "docId": "plot.xianni-ch1059-immortal-emperor-cave-8th-floor-ancient-demon-palm",
       "dated": false,
       "seq": 977
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-1061-immortal-emperor-cave-collapse-ancient-demon-possession-complete",
+      "dated": false,
+      "seq": 977
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1059-immortal-emperor-cave-8th-floor-ancient-demon-palm"
+    "plot.xianni-ch1059-immortal-emperor-cave-8th-floor-ancient-demon-palm",
+    "plot.xianni-1061-immortal-emperor-cave-collapse-ancient-demon-possession-complete"
   ],
-  "updatedAt": "2026-08-24T09:49:51.835Z"
+  "updatedAt": "2026-08-24T10:00:58.375Z"
 }

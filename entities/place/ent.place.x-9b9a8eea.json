@@ -4,19 +4,26 @@
   "name": "仙帝洞府第九层",
   "aliases": [
     "第九层",
-    "洞府最后一层"
+    "洞府最后一层",
+    "黑雾宫殿层"
   ],
   "summary": "空间不大，仅有一座与前八层一模一样的宫殿；殿内黑雾身影眉心仅剩一光点，殿外无数魔影与众修士激战。",
   "attributes": {
-    "类型": "洞府最后一层",
+    "类型": "洞府最后一层、洞府层级",
     "上级区域": "仙帝洞府",
-    "危险度": "极高"
+    "危险度": "极高",
+    "方位": "仙帝洞府最底/最深一层"
   },
   "observations": {
     "类型": [
       {
         "value": "洞府最后一层",
         "docId": "plot.xianni-1060-immortal-emperor-cave-ninth-floor-entry",
+        "seq": 977
+      },
+      {
+        "value": "洞府层级",
+        "docId": "plot.xianni-1061-immortal-emperor-cave-collapse-ancient-demon-possession-complete",
         "seq": 977
       }
     ],
@@ -31,6 +38,13 @@
       {
         "value": "极高",
         "docId": "plot.xianni-1060-immortal-emperor-cave-ninth-floor-entry",
+        "seq": 977
+      }
+    ],
+    "方位": [
+      {
+        "value": "仙帝洞府最底/最深一层",
+        "docId": "plot.xianni-1061-immortal-emperor-cave-collapse-ancient-demon-possession-complete",
         "seq": 977
       }
     ]
@@ -54,12 +68,19 @@
       "docId": "plot.xianni-1060-immortal-emperor-cave-ninth-floor-entry",
       "dated": false,
       "seq": 977
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-1061-immortal-emperor-cave-collapse-ancient-demon-possession-complete",
+      "dated": false,
+      "seq": 977
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1060-immortal-emperor-cave-ninth-floor-entry"
+    "plot.xianni-1060-immortal-emperor-cave-ninth-floor-entry",
+    "plot.xianni-1061-immortal-emperor-cave-collapse-ancient-demon-possession-complete"
   ],
-  "updatedAt": "2026-08-24T09:52:46.356Z"
+  "updatedAt": "2026-08-24T10:00:58.374Z"
 }
