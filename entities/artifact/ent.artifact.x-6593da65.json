@@ -13,15 +13,18 @@
     "灭神枪",
     "百丈灭神矛",
     "古神王族法器灭神矛",
-    "王族法器灭神矛"
+    "王族法器灭神矛",
+    "赤红长矛",
+    "虚幻的灭神矛"
   ],
   "summary": "拓森一族的本命之器，黑色长矛可化作狰狞黑龙，藏于死海灰雾中，被拓森召唤握持。",
   "attributes": {
     "持有者": "王林",
-    "外形": "黑色长矛，可化黑龙、长矛、百丈长、一丈粗细，红雾凝聚，红光闪烁、几乎透明、百丈长矛、如寻常之矛一般",
-    "能力": "化黑龙冲击、劈开死海沟壑、阻拦分识、化黑龙、令虚无扭曲、逼出绝元大阵网状原形、矛身自爆化风暴、可承载菱形之光加持后穿透裂缝、抵抗极境级别攻击、掷出击溃极境紫光而自身无损",
+    "外形": "黑色长矛，可化黑龙、长矛、百丈长、一丈粗细，红雾凝聚，红光闪烁、几乎透明、百丈长矛、如寻常之矛一般、赤红长矛，虚幻",
+    "能力": "化黑龙冲击、劈开死海沟壑、阻拦分识、化黑龙、令虚无扭曲、逼出绝元大阵网状原形、矛身自爆化风暴、可承载菱形之光加持后穿透裂缝、抵抗极境级别攻击、掷出击溃极境紫光而自身无损、破解神通强光、追击疾遁修士",
     "来历": "古神王族法器，由眉心古神星点凝聚晶光幻化",
-    "品阶": "古神王族法器"
+    "品阶": "古神王族法器",
+    "禁制": "使用后渐虚幻透明并消散"
   },
   "observations": {
     "持有者": [
@@ -69,6 +72,11 @@
         "docId": "plot.xianni-951-give-me-submission-shayujie-battle",
         "seq": 885,
         "note": "亦可现百丈大小之形"
+      },
+      {
+        "value": "赤红长矛，虚幻",
+        "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
+        "seq": 910
       }
     ],
     "能力": [
@@ -121,6 +129,16 @@
         "value": "掷出击溃极境紫光而自身无损",
         "docId": "plot.xianni-951-give-me-submission-shayujie-battle",
         "seq": 885
+      },
+      {
+        "value": "破解神通强光",
+        "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
+        "seq": 910
+      },
+      {
+        "value": "追击疾遁修士",
+        "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
+        "seq": 910
       }
     ],
     "来历": [
@@ -145,6 +163,13 @@
         "value": "古神王族法器",
         "docId": "plot.xianni-ch941-wang-clan-artifact-mie-shen-mao",
         "seq": 870
+      }
+    ],
+    "禁制": [
+      {
+        "value": "使用后渐虚幻透明并消散",
+        "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
+        "seq": 910
       }
     ]
   },
@@ -180,6 +205,12 @@
       "docId": "plot.xianni-ch941-wang-clan-artifact-mie-shen-mao",
       "dated": false,
       "seq": 870
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
+      "dated": false,
+      "seq": 910
     }
   },
   "contested": false,
@@ -189,7 +220,8 @@
     "plot.xianni-ch941-wang-clan-artifact-mie-shen-mao",
     "plot.xianni-942-tianni-zhu-tremor-fissure-opens",
     "plot.xianni-ch943-tiandao-fengjie-jiuzhen-luochen-guxing",
-    "plot.xianni-951-give-me-submission-shayujie-battle"
+    "plot.xianni-951-give-me-submission-shayujie-battle",
+    "plot.xianni-ch910-913-lu-zhai-fu-feng-zi"
   ],
-  "updatedAt": "2026-08-23T22:17:09.024Z"
+  "updatedAt": "2026-08-24T01:05:17.358Z"
 }

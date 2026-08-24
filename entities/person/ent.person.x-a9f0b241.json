@@ -6,14 +6,17 @@
     "一星子",
     "一尘子三师弟",
     "Zhen Xinghan",
-    "紫袍中年一星子"
+    "紫袍中年一星子",
+    "尘道三子老三",
+    "Yi Xing Zi"
   ],
   "summary": "尘道三子之三师弟，道号一星子，窥涅中期，三人中修为最低。",
   "attributes": {
     "道号": "一星子",
     "小阶段": "窥涅中期",
     "身份": "尘道三子之三师弟",
-    "外貌": "紫袍中年男子"
+    "外貌": "紫袍中年男子",
+    "阵营": "尘道三子"
   },
   "observations": {
     "道号": [
@@ -43,6 +46,13 @@
         "docId": "plot.xianni-ch899-903-linger-mo-dao-zi",
         "seq": 899
       }
+    ],
+    "阵营": [
+      {
+        "value": "尘道三子",
+        "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
+        "seq": 910
+      }
     ]
   },
   "firstSeq": 899,
@@ -70,12 +80,19 @@
       "docId": "plot.xianni-ch899-903-linger-mo-dao-zi",
       "dated": false,
       "seq": 899
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
+      "dated": false,
+      "seq": 910
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch899-903-linger-mo-dao-zi"
+    "plot.xianni-ch899-903-linger-mo-dao-zi",
+    "plot.xianni-ch910-913-lu-zhai-fu-feng-zi"
   ],
-  "updatedAt": "2026-08-23T23:50:09.279Z"
+  "updatedAt": "2026-08-24T01:05:17.385Z"
 }

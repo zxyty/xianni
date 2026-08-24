@@ -5,13 +5,17 @@
   "aliases": [
     "一龙子",
     "一尘子二师弟",
-    "Liu Yuelong"
+    "Liu Yuelong",
+    "尘道三子老二",
+    "柳某",
+    "Yi Long Zi"
   ],
   "summary": "尘道三子之二师弟，道号一龙子，修为高于一星子；席间谈及罗天星域家族修行与联盟北部败战。",
   "attributes": {
     "道号": "一龙子",
-    "身份": "尘道三子之二师弟",
-    "外貌": "青袍（青衫）老者"
+    "身份": "赵雪的师尊",
+    "外貌": "青袍（青衫）老者",
+    "阵营": "尘道三子"
   },
   "observations": {
     "道号": [
@@ -26,6 +30,11 @@
         "value": "尘道三子之二师弟",
         "docId": "plot.xianni-ch899-903-linger-mo-dao-zi",
         "seq": 899
+      },
+      {
+        "value": "赵雪的师尊",
+        "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
+        "seq": 910
       }
     ],
     "外貌": [
@@ -33,6 +42,13 @@
         "value": "青袍（青衫）老者",
         "docId": "plot.xianni-ch899-903-linger-mo-dao-zi",
         "seq": 899
+      }
+    ],
+    "阵营": [
+      {
+        "value": "尘道三子",
+        "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
+        "seq": 910
       }
     ]
   },
@@ -46,21 +62,28 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch899-903-linger-mo-dao-zi",
+      "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
       "dated": false,
-      "seq": 899
+      "seq": 910
     },
     "外貌": {
       "asOf": null,
       "docId": "plot.xianni-ch899-903-linger-mo-dao-zi",
       "dated": false,
       "seq": 899
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
+      "dated": false,
+      "seq": 910
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch899-903-linger-mo-dao-zi"
+    "plot.xianni-ch899-903-linger-mo-dao-zi",
+    "plot.xianni-ch910-913-lu-zhai-fu-feng-zi"
   ],
-  "updatedAt": "2026-08-23T23:50:09.234Z"
+  "updatedAt": "2026-08-24T01:05:17.387Z"
 }

@@ -3,11 +3,13 @@
   "type": "place",
   "name": "妖灵之地仙府",
   "aliases": [
-    "妖灵之地的仙府"
+    "妖灵之地的仙府",
+    "妖灵仙府"
   ],
   "summary": "王林第一次见到真正梅花十八禁残余的地方。",
   "attributes": {
-    "类型": "仙府遗迹"
+    "类型": "仙府/秘境",
+    "危险度": "高（王林窥涅中期巅峰仍自认不够）"
   },
   "observations": {
     "类型": [
@@ -15,6 +17,18 @@
         "value": "仙府遗迹",
         "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
         "seq": 706
+      },
+      {
+        "value": "仙府/秘境",
+        "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
+        "seq": 910
+      }
+    ],
+    "危险度": [
+      {
+        "value": "高（王林窥涅中期巅峰仍自认不够）",
+        "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
+        "seq": 910
       }
     ]
   },
@@ -22,15 +36,22 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
+      "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
       "dated": false,
-      "seq": 706
+      "seq": 910
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
+      "dated": false,
+      "seq": 910
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren"
+    "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
+    "plot.xianni-ch910-913-lu-zhai-fu-feng-zi"
   ],
-  "updatedAt": "2026-08-23T05:17:07.527Z"
+  "updatedAt": "2026-08-24T01:05:17.422Z"
 }
