@@ -4,12 +4,13 @@
   "name": "仙府钥匙",
   "aliases": [
     "洞府钥匙",
-    "仙府（洞府）钥匙"
+    "仙府（洞府）钥匙",
+    "妖灵之地仙府钥匙"
   ],
   "summary": "王林持有之物，可开启一座仙府；被陈风视为对妖灵之地之行帮助极大的至宝，是其起杀心的主因。",
   "attributes": {
     "类型": "钥匙",
-    "用途": "开启仙府（洞府）"
+    "用途": "启动封印之地阵法、开启第四洞府"
   },
   "observations": {
     "类型": [
@@ -24,6 +25,11 @@
         "value": "开启仙府（洞府）",
         "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
         "seq": 910
+      },
+      {
+        "value": "启动封印之地阵法、开启第四洞府",
+        "docId": "plot.xianni-ch1010-hua-fei",
+        "seq": 934
       }
     ]
   },
@@ -37,15 +43,16 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
+      "docId": "plot.xianni-ch1010-hua-fei",
       "dated": false,
-      "seq": 910
+      "seq": 934
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch910-913-lu-zhai-fu-feng-zi"
+    "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
+    "plot.xianni-ch1010-hua-fei"
   ],
-  "updatedAt": "2026-08-24T01:05:17.362Z"
+  "updatedAt": "2026-08-24T04:35:35.254Z"
 }

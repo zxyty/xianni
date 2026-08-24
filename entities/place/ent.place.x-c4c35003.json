@@ -3,13 +3,16 @@
   "type": "place",
   "name": "封印之地",
   "aliases": [
-    "被封印之地"
+    "被封印之地",
+    "虚幻空间",
+    "仙府封印之地"
   ],
   "summary": "王林被传送而至的封闭之地，天空蔚蓝但白云尽头疑似肉壁；他判断其非善地却是最佳藏身处。",
   "attributes": {
-    "类型": "封印空间",
+    "类型": "封印秘境",
     "特产": "玄阴鼎灵、大鼎",
-    "危险度": "高（但适合藏身）"
+    "危险度": "高（但适合藏身）",
+    "上级区域": "妖灵之地"
   },
   "observations": {
     "类型": [
@@ -17,6 +20,11 @@
         "value": "封印空间",
         "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
         "seq": 758
+      },
+      {
+        "value": "封印秘境",
+        "docId": "plot.xianni-ch1010-hua-fei",
+        "seq": 934
       }
     ],
     "特产": [
@@ -32,15 +40,22 @@
         "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
         "seq": 758
       }
+    ],
+    "上级区域": [
+      {
+        "value": "妖灵之地",
+        "docId": "plot.xianni-ch1010-hua-fei",
+        "seq": 934
+      }
     ]
   },
   "firstSeq": 758,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+      "docId": "plot.xianni-ch1010-hua-fei",
       "dated": false,
-      "seq": 758
+      "seq": 934
     },
     "特产": {
       "asOf": null,
@@ -53,12 +68,19 @@
       "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
       "dated": false,
       "seq": 758
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1010-hua-fei",
+      "dated": false,
+      "seq": 934
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid"
+    "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+    "plot.xianni-ch1010-hua-fei"
   ],
-  "updatedAt": "2026-08-23T10:25:07.280Z"
+  "updatedAt": "2026-08-24T04:35:35.250Z"
 }

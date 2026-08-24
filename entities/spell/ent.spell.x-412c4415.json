@@ -4,12 +4,14 @@
   "name": "古神一吼",
   "aliases": [
     "古神吼",
-    "王林古神一吼"
+    "王林古神一吼",
+    "古神怒吼"
   ],
   "summary": "王林先前一战所施，令雷吉心神剧震、心机崩溃，唤起其先祖传承中屈服于吼声之人的意志。",
   "attributes": {
-    "类型": "音波/血脉威压",
-    "威力": "令巨魔族血脉本能臣服"
+    "类型": "音波/威慑神通",
+    "威力": "震塌大殿外洞府",
+    "出处": "古神传承"
   },
   "observations": {
     "类型": [
@@ -17,6 +19,11 @@
         "value": "音波/血脉威压",
         "docId": "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu",
         "seq": 845
+      },
+      {
+        "value": "音波/威慑神通",
+        "docId": "plot.xianni-ch1010-hua-fei",
+        "seq": 934
       }
     ],
     "威力": [
@@ -24,6 +31,18 @@
         "value": "令巨魔族血脉本能臣服",
         "docId": "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu",
         "seq": 845
+      },
+      {
+        "value": "震塌大殿外洞府",
+        "docId": "plot.xianni-ch1010-hua-fei",
+        "seq": 934
+      }
+    ],
+    "出处": [
+      {
+        "value": "古神传承",
+        "docId": "plot.xianni-ch1010-hua-fei",
+        "seq": 934
       }
     ]
   },
@@ -31,21 +50,28 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu",
+      "docId": "plot.xianni-ch1010-hua-fei",
       "dated": false,
-      "seq": 845
+      "seq": 934
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu",
+      "docId": "plot.xianni-ch1010-hua-fei",
       "dated": false,
-      "seq": 845
+      "seq": 934
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1010-hua-fei",
+      "dated": false,
+      "seq": 934
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu"
+    "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu",
+    "plot.xianni-ch1010-hua-fei"
   ],
-  "updatedAt": "2026-08-23T19:44:50.577Z"
+  "updatedAt": "2026-08-24T04:35:35.258Z"
 }
