@@ -529,3 +529,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T16:26:40.630Z** `ingest` plot.xianni-1124-parting-wang-lin-leaves-mu-bingmei-qinglong-shengzun — 第1124章 离别：王林送走周茹、四圣宗整合为一，与青龙圣尊对峙索人 · kind=plot asOf=2026-08-24 entities=30 relations=44 src=01039-01043.p4.md
 - **2026-08-24T16:29:26.899Z** `ingest` plot.xianni-ch1125-ji-qiong-avatar-into-ancient-god-land — 第1125章 吉穷：王林索回老圣皇遗体、以青霖凝神化体分身潜入古神之地 · kind=plot asOf=2026-08-24 entities=31 relations=38 src=01039-01043.p5.md
 - **2026-08-24T16:52:33.046Z** `ingest` plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass — 第1044-1048章 战吉穷：十八头凶兽追杀与王林踏入金关 · kind=plot asOf=2026-08-24 entities=72 relations=124 src=01044-01048.md
+- **2026-08-24T17:44:18.867Z** `ingest` plot.xianni-1131-blood-dragon-frozen-tuosen-imminent — 仙逆 第1131章：尸阴宗八王冰封血龙，王林山崩术斩上古炼气士 · kind=plot asOf=2026-08-24 entities=25 relations=38 src=01049-01053.p1.md
