@@ -15,13 +15,16 @@
     "七彩界内",
     "七彩界内部",
     "七彩界外围",
-    "七彩秘境"
+    "七彩秘境",
+    "七彩界空间",
+    "破天宗发现的空间裂缝之地"
   ],
   "summary": "苍松子命名的诡异之地：天空七彩之芒、无黑夜只有七彩白昼，遍布雾化凶兽、古人遗骸与上古禁制，苍松子多次尝试均无法进入其内部。",
   "attributes": {
-    "特点": "天空七彩之芒、无黑夜只有七彩白昼、疑似蕴含规则变化、无树，只有光秃山脉与各自独立的雾气、天空有七彩之芒、修士无法飞出太高、无人盗取元晶致积存极多、七彩景象、外围与内部分层、内部封印大量凶兽之魂、有化雾凶兽可喂仙玉取元晶、某处封印众多凶兽之魂、需特定口诀印记方可离开、天空弥漫七彩之芒、有铭志者与迷失者飘荡、传闻藏有道经",
-    "通道": "离开需口诀印记",
-    "主宰势力": "无明确主宰，仅余道魂"
+    "特点": "天空七彩之芒、无黑夜只有七彩白昼、疑似蕴含规则变化、无树，只有光秃山脉与各自独立的雾气、天空有七彩之芒、修士无法飞出太高、无人盗取元晶致积存极多、七彩景象、外围与内部分层、内部封印大量凶兽之魂、有化雾凶兽可喂仙玉取元晶、某处封印众多凶兽之魂、需特定口诀印记方可离开、天空弥漫七彩之芒、有铭志者与迷失者飘荡、传闻藏有道经、无白昼黑夜，难以计时、谷外天空呈七彩、存在迷失者、铭志者、逆行者",
+    "通道": "破天宗发现的空间裂缝",
+    "主宰势力": "无明确主宰，仅余道魂",
+    "所属星域": "云海星域"
   },
   "observations": {
     "特点": [
@@ -104,6 +107,21 @@
         "value": "传闻藏有道经",
         "docId": "plot.xianni-1188-dao-jing-ming-zhi-zhe",
         "seq": 1105
+      },
+      {
+        "value": "无白昼黑夜，难以计时",
+        "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
+        "seq": 1114
+      },
+      {
+        "value": "谷外天空呈七彩",
+        "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
+        "seq": 1114
+      },
+      {
+        "value": "存在迷失者、铭志者、逆行者",
+        "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
+        "seq": 1114
       }
     ],
     "通道": [
@@ -117,6 +135,11 @@
         "value": "离开需口诀印记",
         "docId": "plot.xianni-1187-fengshou-wanglin-kills-pang-elder",
         "seq": 1105
+      },
+      {
+        "value": "破天宗发现的空间裂缝",
+        "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
+        "seq": 1114
       }
     ],
     "主宰势力": [
@@ -124,6 +147,13 @@
         "value": "无明确主宰，仅余道魂",
         "docId": "plot.xianni-1188-dao-jing-ming-zhi-zhe",
         "seq": 1105
+      }
+    ],
+    "所属星域": [
+      {
+        "value": "云海星域",
+        "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
+        "seq": 1114
       }
     ]
   },
@@ -137,15 +167,21 @@
     },
     "通道": {
       "asOf": null,
-      "docId": "plot.xianni-1187-fengshou-wanglin-kills-pang-elder",
+      "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
       "dated": false,
-      "seq": 1105
+      "seq": 1114
     },
     "主宰势力": {
       "asOf": null,
       "docId": "plot.xianni-1188-dao-jing-ming-zhi-zhe",
       "dated": false,
       "seq": 1105
+    },
+    "所属星域": {
+      "asOf": null,
+      "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
+      "dated": false,
+      "seq": 1114
     }
   },
   "contested": false,
@@ -161,7 +197,8 @@
     "plot.xianni-1193-blood-battle-cang-song-zi",
     "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan",
     "plot.xianni-ch1195-seven-colored-nail",
-    "plot.xianni-1196-sima-mo-cave-secret"
+    "plot.xianni-1196-sima-mo-cave-secret",
+    "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads"
   ],
-  "updatedAt": "2026-08-24T23:12:09.269Z"
+  "updatedAt": "2026-08-24T23:15:06.594Z"
 }

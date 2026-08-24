@@ -1,60 +1,59 @@
 {
-  "id": "ent.person.x-caa78d03",
-  "type": "person",
-  "name": "掌尊",
+  "id": "ent.formation.x-311c0f73",
+  "type": "formation",
+  "name": "岁月禁大阵",
   "aliases": [
-    "掌尊大人",
-    "Zhang Zun"
+    "岁月禁阵法"
   ],
-  "summary": "符族当年所冒犯的至高存在，其力量无法操控封界，故符族逃入封界避祸。",
+  "summary": "司马墨与残余同门在山谷布下的大阵，九师弟以寿元加固其岁月痕迹，守护山谷数百年，其强度亦可用于推算流逝时间。",
   "attributes": {
-    "身份": "界外之民中的强大存在",
-    "外貌": "黑袍中年男子，眉心有圆形印记",
-    "阵营": "界外之民"
+    "布置者": "司马墨与残余同门",
+    "效果": "守护山谷、以阵法强度推算时间流逝",
+    "出处": "岁月禁"
   },
   "observations": {
-    "身份": [
+    "布置者": [
       {
-        "value": "罗睺之师尊",
-        "docId": "plot.xianni-1064-heiyiren-shenfen-luohou",
-        "seq": 982
+        "value": "司马墨与残余同门",
+        "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
+        "seq": 1114
+      }
+    ],
+    "效果": [
+      {
+        "value": "守护山谷",
+        "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
+        "seq": 1114
       },
       {
-        "value": "界外之民中的强大存在",
+        "value": "以阵法强度推算时间流逝",
         "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
         "seq": 1114
       }
     ],
-    "外貌": [
+    "出处": [
       {
-        "value": "黑袍中年男子，眉心有圆形印记",
-        "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
-        "seq": 1114
-      }
-    ],
-    "阵营": [
-      {
-        "value": "界外之民",
+        "value": "岁月禁",
         "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
         "seq": 1114
       }
     ]
   },
-  "firstSeq": 953,
+  "firstSeq": 1114,
   "attrProvenance": {
-    "身份": {
+    "布置者": {
       "asOf": null,
       "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
       "dated": false,
       "seq": 1114
     },
-    "外貌": {
+    "效果": {
       "asOf": null,
       "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
       "dated": false,
       "seq": 1114
     },
-    "阵营": {
+    "出处": {
       "asOf": null,
       "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
       "dated": false,
@@ -64,9 +63,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
-    "plot.xianni-1064-heiyiren-shenfen-luohou",
     "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads"
   ],
-  "updatedAt": "2026-08-24T23:15:06.574Z"
+  "updatedAt": "2026-08-24T23:15:06.593Z"
 }

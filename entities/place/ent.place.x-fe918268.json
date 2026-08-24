@@ -3,13 +3,18 @@
   "type": "place",
   "name": "七彩界山谷",
   "aliases": [
-    "布置禁制的山谷"
+    "布置禁制的山谷",
+    "岁月禁山谷",
+    "司马墨的山谷"
   ],
   "summary": "七彩界内王林先前布置过禁制的山谷，谷外草地被老妪设下禁制阵法，最终成为困住老妪的杀局所在。",
   "attributes": {
-    "类型": "山谷",
+    "类型": "避难山谷",
     "上级区域": "七彩界",
-    "方位": "墙壁般山脉之后"
+    "方位": "墙壁般山脉之后",
+    "所属界面": "七彩界",
+    "守护": "岁月禁大阵",
+    "规模": "谷壁上有九个洞府"
   },
   "observations": {
     "类型": [
@@ -17,6 +22,11 @@
         "value": "山谷",
         "docId": "plot.xianni-ch1192-trident-ancient-god-battle",
         "seq": 1110
+      },
+      {
+        "value": "避难山谷",
+        "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
+        "seq": 1114
       }
     ],
     "上级区域": [
@@ -32,15 +42,36 @@
         "docId": "plot.xianni-ch1192-trident-ancient-god-battle",
         "seq": 1110
       }
+    ],
+    "所属界面": [
+      {
+        "value": "七彩界",
+        "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
+        "seq": 1114
+      }
+    ],
+    "守护": [
+      {
+        "value": "岁月禁大阵",
+        "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
+        "seq": 1114
+      }
+    ],
+    "规模": [
+      {
+        "value": "谷壁上有九个洞府",
+        "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
+        "seq": 1114
+      }
     ]
   },
   "firstSeq": 1110,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1192-trident-ancient-god-battle",
+      "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
       "dated": false,
-      "seq": 1110
+      "seq": 1114
     },
     "上级区域": {
       "asOf": null,
@@ -53,12 +84,31 @@
       "docId": "plot.xianni-ch1192-trident-ancient-god-battle",
       "dated": false,
       "seq": 1110
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
+      "dated": false,
+      "seq": 1114
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
+      "dated": false,
+      "seq": 1114
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
+      "dated": false,
+      "seq": 1114
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1192-trident-ancient-god-battle"
+    "plot.xianni-ch1192-trident-ancient-god-battle",
+    "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads"
   ],
-  "updatedAt": "2026-08-24T22:56:45.653Z"
+  "updatedAt": "2026-08-24T23:15:06.595Z"
 }

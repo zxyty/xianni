@@ -9,17 +9,19 @@
     "Si Ma Mo",
     "破天宗大弟子司马墨",
     "司马墨前辈",
-    "七彩骸骨"
+    "七彩骸骨",
+    "破天宗司马墨"
   ],
   "summary": "其遗留玉简的现世引发多星域追索；被破天宗雕像内老者称作「司马师兄」，当年似与其师尊之决断有关。",
   "attributes": {
-    "身份": "破天宗溃烂老者的师兄、破天宗掌门大弟子、破天宗大弟子、该秘地内洞府主人（本章未现身）、七彩界洞府主人、被师尊逐出门派的弃徒",
+    "身份": "破天宗溃烂老者的师兄、破天宗掌门大弟子、破天宗大弟子、该秘地内洞府主人（本章未现身）、七彩界洞府主人、被师尊逐出门派的弃徒、破天宗修士",
     "存殁": "死亡",
-    "结局": "盘膝坐化于洞府山谷，骸骨全身透七彩微光，身前留三枚玉简",
+    "结局": "率部分裂出走后音讯全无、盘膝坐化于洞府山谷，骸骨全身透七彩微光，身前留三枚玉简、或已按掌尊相关念头『重生』",
     "称号": "擅长炼丹者",
     "标志特征": "携走引起浩劫的丹方",
     "外貌": "骸骨全身隐透七彩之色",
-    "性格": "信奉命运，自认罪人"
+    "性格": "信奉命运，自认罪人",
+    "死因": "被七彩钉子钉入体内后意识消散"
   },
   "observations": {
     "身份": [
@@ -52,6 +54,11 @@
         "value": "被师尊逐出门派的弃徒",
         "docId": "plot.xianni-1196-sima-mo-cave-secret",
         "seq": 1114
+      },
+      {
+        "value": "破天宗修士",
+        "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
+        "seq": 1114
       }
     ],
     "存殁": [
@@ -78,6 +85,12 @@
         "docId": "plot.xianni-1196-sima-mo-cave-secret",
         "seq": 1114,
         "note": "第1196章王林所见"
+      },
+      {
+        "value": "或已按掌尊相关念头『重生』",
+        "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
+        "seq": 1114,
+        "note": "王林推断，未证实"
       }
     ],
     "称号": [
@@ -108,6 +121,14 @@
         "docId": "plot.xianni-1196-sima-mo-cave-secret",
         "seq": 1114
       }
+    ],
+    "死因": [
+      {
+        "value": "被七彩钉子钉入体内后意识消散",
+        "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
+        "seq": 1114,
+        "note": "王林据骸骨四周无破坏痕迹判断其最终未发狂"
+      }
     ]
   },
   "firstSeq": 1077,
@@ -126,10 +147,10 @@
     },
     "结局": {
       "asOf": null,
-      "docId": "plot.xianni-1196-sima-mo-cave-secret",
+      "docId": "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
       "dated": false,
-      "seq": 1114,
-      "note": "第1196章王林所见"
+      "seq": 1077,
+      "note": "一万八千年前，其部众死伤惨重"
     },
     "称号": {
       "asOf": null,
@@ -155,6 +176,13 @@
       "docId": "plot.xianni-1196-sima-mo-cave-secret",
       "dated": false,
       "seq": 1114
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
+      "dated": false,
+      "seq": 1114,
+      "note": "王林据骸骨四周无破坏痕迹判断其最终未发狂"
     }
   },
   "contested": false,
@@ -165,7 +193,8 @@
     "plot.xianni-1184-qicai-jie-mishizhe-duanmu-tongzi",
     "plot.xianni-1186-nine-step-seal-heaven-formation-broken",
     "plot.xianni-1187-fengshou-wanglin-kills-pang-elder",
-    "plot.xianni-1196-sima-mo-cave-secret"
+    "plot.xianni-1196-sima-mo-cave-secret",
+    "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads"
   ],
-  "updatedAt": "2026-08-24T23:12:09.249Z"
+  "updatedAt": "2026-08-24T23:15:06.573Z"
 }

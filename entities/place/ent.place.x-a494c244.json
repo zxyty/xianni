@@ -1,60 +1,55 @@
 {
-  "id": "ent.person.x-caa78d03",
-  "type": "person",
-  "name": "掌尊",
+  "id": "ent.place.x-a494c244",
+  "type": "place",
+  "name": "七彩界至深之处",
   "aliases": [
-    "掌尊大人",
-    "Zhang Zun"
+    "此地至深之处",
+    "七彩界深处"
   ],
-  "summary": "符族当年所冒犯的至高存在，其力量无法操控封界，故符族逃入封界避祸。",
+  "summary": "七彩界最深处，聚集强大的逆行者；司马墨四入其中寻找四师叔，最终中七彩钉子。",
   "attributes": {
-    "身份": "界外之民中的强大存在",
-    "外貌": "黑袍中年男子，眉心有圆形印记",
-    "阵营": "界外之民"
+    "所属界面": "七彩界",
+    "方位": "七彩界最深处",
+    "危险度": "极高，聚集强大逆行者"
   },
   "observations": {
-    "身份": [
+    "所属界面": [
       {
-        "value": "罗睺之师尊",
-        "docId": "plot.xianni-1064-heiyiren-shenfen-luohou",
-        "seq": 982
-      },
-      {
-        "value": "界外之民中的强大存在",
+        "value": "七彩界",
         "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
         "seq": 1114
       }
     ],
-    "外貌": [
+    "方位": [
       {
-        "value": "黑袍中年男子，眉心有圆形印记",
+        "value": "七彩界最深处",
         "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
         "seq": 1114
       }
     ],
-    "阵营": [
+    "危险度": [
       {
-        "value": "界外之民",
+        "value": "极高，聚集强大逆行者",
         "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
         "seq": 1114
       }
     ]
   },
-  "firstSeq": 953,
+  "firstSeq": 1114,
   "attrProvenance": {
-    "身份": {
+    "所属界面": {
       "asOf": null,
       "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
       "dated": false,
       "seq": 1114
     },
-    "外貌": {
+    "方位": {
       "asOf": null,
       "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
       "dated": false,
       "seq": 1114
     },
-    "阵营": {
+    "危险度": {
       "asOf": null,
       "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
       "dated": false,
@@ -64,9 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
-    "plot.xianni-1064-heiyiren-shenfen-luohou",
     "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads"
   ],
-  "updatedAt": "2026-08-24T23:15:06.574Z"
+  "updatedAt": "2026-08-24T23:15:06.597Z"
 }

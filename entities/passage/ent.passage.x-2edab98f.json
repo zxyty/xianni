@@ -1,60 +1,55 @@
 {
-  "id": "ent.person.x-caa78d03",
-  "type": "person",
-  "name": "掌尊",
+  "id": "ent.passage.x-2edab98f",
+  "type": "passage",
+  "name": "破天宗发现的空间裂缝",
   "aliases": [
-    "掌尊大人",
-    "Zhang Zun"
+    "那处空间裂缝",
+    "通往七彩界的空间裂缝"
   ],
-  "summary": "符族当年所冒犯的至高存在，其力量无法操控封界，故符族逃入封界避祸。",
+  "summary": "破天宗当年因听「他」之言辞而找到的空间裂缝，通往七彩界；亦是兽骨丹方最早流出之处。",
   "attributes": {
-    "身份": "界外之民中的强大存在",
-    "外貌": "黑袍中年男子，眉心有圆形印记",
-    "阵营": "界外之民"
+    "类型": "空间裂缝",
+    "两端": "云海星域—七彩界",
+    "来历": "破天宗因神秘之人的言辞而发现"
   },
   "observations": {
-    "身份": [
+    "类型": [
       {
-        "value": "罗睺之师尊",
-        "docId": "plot.xianni-1064-heiyiren-shenfen-luohou",
-        "seq": 982
-      },
-      {
-        "value": "界外之民中的强大存在",
+        "value": "空间裂缝",
         "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
         "seq": 1114
       }
     ],
-    "外貌": [
+    "两端": [
       {
-        "value": "黑袍中年男子，眉心有圆形印记",
+        "value": "云海星域—七彩界",
         "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
         "seq": 1114
       }
     ],
-    "阵营": [
+    "来历": [
       {
-        "value": "界外之民",
+        "value": "破天宗因神秘之人的言辞而发现",
         "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
         "seq": 1114
       }
     ]
   },
-  "firstSeq": 953,
+  "firstSeq": 1114,
   "attrProvenance": {
-    "身份": {
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
       "dated": false,
       "seq": 1114
     },
-    "外貌": {
+    "两端": {
       "asOf": null,
       "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
       "dated": false,
       "seq": 1114
     },
-    "阵营": {
+    "来历": {
       "asOf": null,
       "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
       "dated": false,
@@ -64,9 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
-    "plot.xianni-1064-heiyiren-shenfen-luohou",
     "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads"
   ],
-  "updatedAt": "2026-08-24T23:15:06.574Z"
+  "updatedAt": "2026-08-24T23:15:06.598Z"
 }
