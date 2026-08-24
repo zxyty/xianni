@@ -5,15 +5,17 @@
   "aliases": [
     "古神头颅",
     "深坑底部的古神",
-    "冰封古神"
+    "冰封古神",
+    "被砍下头颅的八星古神"
   ],
   "summary": "葬仙池深坑底部正中心被冰封的古神，仅余高约数百丈的头颅，双目怒睁含痛惜与愤怒，眉心只余八个崩溃的碎星痕迹。",
   "attributes": {
     "种族": "古神",
-    "外貌": "高约数百丈的巨大头颅，被冰封，双目怒睁",
+    "外貌": "高约数百丈的巨大头颅，被冰封，双目怒睁、眼神中带有痛惜与愤怒的巨大头颅，外裹厚密冰层",
     "标志特征": "眉心无星点，只余八个崩溃的碎星痕迹",
     "存殁": "死亡",
-    "死因": "不明"
+    "死因": "不明、被某种无法形容的力量一刀砍断头颅（生前已自碎全部星点抵抗）",
+    "称号": "八星古神"
   },
   "observations": {
     "种族": [
@@ -28,6 +30,12 @@
         "value": "高约数百丈的巨大头颅，被冰封，双目怒睁",
         "docId": "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu",
         "seq": 960
+      },
+      {
+        "value": "眼神中带有痛惜与愤怒的巨大头颅，外裹厚密冰层",
+        "docId": "plot.xianni-1042-iron-sword-ancient-god-head",
+        "seq": 960,
+        "note": "第1042章"
       }
     ],
     "标志特征": [
@@ -50,6 +58,19 @@
         "docId": "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu",
         "seq": 960,
         "note": "已死亡无数万年，身上再无任何古神之力"
+      },
+      {
+        "value": "被某种无法形容的力量一刀砍断头颅（生前已自碎全部星点抵抗）",
+        "docId": "plot.xianni-1042-iron-sword-ancient-god-head",
+        "seq": 960,
+        "note": "第1042章据伤口与残留结晶推断"
+      }
+    ],
+    "称号": [
+      {
+        "value": "八星古神",
+        "docId": "plot.xianni-1042-iron-sword-ancient-god-head",
+        "seq": 960
       }
     ]
   },
@@ -85,12 +106,19 @@
       "dated": false,
       "seq": 960,
       "note": "已死亡无数万年，身上再无任何古神之力"
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-1042-iron-sword-ancient-god-head",
+      "dated": false,
+      "seq": 960
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu"
+    "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu",
+    "plot.xianni-1042-iron-sword-ancient-god-head"
   ],
-  "updatedAt": "2026-08-24T09:02:35.873Z"
+  "updatedAt": "2026-08-24T09:05:00.205Z"
 }
