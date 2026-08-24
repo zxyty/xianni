@@ -5,14 +5,16 @@
   "aliases": [
     "紫色漩涡",
     "环形星河中心漩涡",
-    "联盟总部漩涡"
+    "联盟总部漩涡",
+    "雕像双目紫色漩涡"
   ],
   "summary": "修真联盟总部环形星河正中的巨大紫色漩涡，看一眼便心神颤动，内中有何物极少有人知晓；其上漂浮第173颗修真星吸收紫气。",
   "attributes": {
     "所属势力": "修真联盟",
     "方位": "修真联盟总部环形星河中心",
     "危险度": "看一眼即心神颤动",
-    "类型": "空间漩涡"
+    "类型": "空间漩涡通道",
+    "守护": "两尊雕像"
   },
   "observations": {
     "所属势力": [
@@ -41,6 +43,18 @@
         "value": "空间漩涡",
         "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
         "seq": 960
+      },
+      {
+        "value": "空间漩涡通道",
+        "docId": "plot.xianni-ch1049-wang-lin-23-swords-defeat-xukongzi",
+        "seq": 967
+      }
+    ],
+    "守护": [
+      {
+        "value": "两尊雕像",
+        "docId": "plot.xianni-ch1049-wang-lin-23-swords-defeat-xukongzi",
+        "seq": 967
       }
     ]
   },
@@ -66,15 +80,22 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
+      "docId": "plot.xianni-ch1049-wang-lin-23-swords-defeat-xukongzi",
       "dated": false,
-      "seq": 960
+      "seq": 967
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1049-wang-lin-23-swords-defeat-xukongzi",
+      "dated": false,
+      "seq": 967
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history"
+    "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
+    "plot.xianni-ch1049-wang-lin-23-swords-defeat-xukongzi"
   ],
-  "updatedAt": "2026-08-24T09:00:07.713Z"
+  "updatedAt": "2026-08-24T09:20:18.044Z"
 }
