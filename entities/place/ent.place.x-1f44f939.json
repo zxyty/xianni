@@ -7,17 +7,21 @@
     "王林施展寂灭指的蛮荒星",
     "王林闭关的蛮荒星",
     "灵气缺乏的蛮荒星",
-    "那鸟不拉屎的蛮荒星"
+    "那鸟不拉屎的蛮荒星",
+    "雷雨两域的蛮荒星",
+    "黑塔蛮荒星"
   ],
   "summary": "联盟星域内一颗渺无人烟、灵力不多但生机盎然、丛林密布的星球，被王林选作施展寂灭指吸取生机之地。",
   "attributes": {
     "上级区域": "联盟星域",
-    "类型": "无人星球、星球、蛮荒星球、修真星/荒星、荒僻星辰",
+    "类型": "无人星球、星球、蛮荒星球、修真星/荒星、荒僻星辰、荒星",
     "特产": "浓郁丛林与旺盛生机、无灵智凶兽（数丈大蛇、生翅猛虎等）、凶兽众多、喜水小兽",
     "危险度": "万里内生灵尽灭、大地枯裂、凶兽众多但无灵智、凶兽横行",
     "规模": "受影响范围方圆数十万里",
     "方位": "联盟西部，位置偏僻",
-    "所属势力": "罗天星域（数人把守）、罗天势力范围（联盟西部方向）"
+    "所属势力": "罗天星域（数人把守）、罗天势力范围（联盟西部方向）",
+    "守护": "黑塔",
+    "所属界面": "雷域、雨域"
   },
   "observations": {
     "上级区域": [
@@ -52,6 +56,11 @@
         "value": "荒僻星辰",
         "docId": "plot.xianni-ch990-lianhua-nvshi-situ-nan-qiangren",
         "seq": 919
+      },
+      {
+        "value": "荒星",
+        "docId": "plot.xianni-1148-manhuang-dalu-beast-souls",
+        "seq": 1063
       }
     ],
     "特产": [
@@ -114,6 +123,20 @@
         "docId": "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu",
         "seq": 845
       }
+    ],
+    "守护": [
+      {
+        "value": "黑塔",
+        "docId": "plot.xianni-1148-manhuang-dalu-beast-souls",
+        "seq": 1063
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "雷域、雨域",
+        "docId": "plot.xianni-1148-manhuang-dalu-beast-souls",
+        "seq": 1063
+      }
     ]
   },
   "firstSeq": 826,
@@ -160,6 +183,18 @@
       "docId": "plot.xianni-ch912-wen-cuo-luotian-thunder-immortal-questioning",
       "dated": false,
       "seq": 845
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-1148-manhuang-dalu-beast-souls",
+      "dated": false,
+      "seq": 1063
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-1148-manhuang-dalu-beast-souls",
+      "dated": false,
+      "seq": 1063
     }
   },
   "contested": false,
@@ -169,7 +204,8 @@
     "plot.xianni-ch889-wang-lin-returns-zhuque-star",
     "plot.xianni-ch912-wen-cuo-luotian-thunder-immortal-questioning",
     "plot.xianni-ch913-huan-yu-yanleizi-verify-xumu",
-    "plot.xianni-ch990-lianhua-nvshi-situ-nan-qiangren"
+    "plot.xianni-ch990-lianhua-nvshi-situ-nan-qiangren",
+    "plot.xianni-1148-manhuang-dalu-beast-souls"
   ],
-  "updatedAt": "2026-08-24T02:34:22.492Z"
+  "updatedAt": "2026-08-24T18:36:46.785Z"
 }

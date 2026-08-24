@@ -3,18 +3,24 @@
   "type": "person",
   "name": "李师叔",
   "aliases": [
-    "归元宗李师叔"
+    "归元宗李师叔",
+    "李师叔（归元宗炼丹师）"
   ],
   "summary": "归元宗内炼丹之术堪称绝伦者，据孙芸所知，宗内仅其处存有三株雾中花干花。",
   "attributes": {
-    "身份": "归元宗长辈",
-    "称号": "归元宗炼丹绝伦"
+    "身份": "归元宗长辈、归元宗炼丹师",
+    "称号": "归元宗炼丹绝伦、李师叔"
   },
   "observations": {
     "身份": [
       {
         "value": "归元宗长辈",
         "docId": "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai",
+        "seq": 1063
+      },
+      {
+        "value": "归元宗炼丹师",
+        "docId": "plot.xianni-1148-manhuang-dalu-beast-souls",
         "seq": 1063
       }
     ],
@@ -24,6 +30,11 @@
         "docId": "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai",
         "seq": 1063,
         "note": "孙芸评价"
+      },
+      {
+        "value": "李师叔",
+        "docId": "plot.xianni-1148-manhuang-dalu-beast-souls",
+        "seq": 1063
       }
     ]
   },
@@ -46,7 +57,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai"
+    "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai",
+    "plot.xianni-1148-manhuang-dalu-beast-souls"
   ],
-  "updatedAt": "2026-08-24T18:33:46.827Z"
+  "updatedAt": "2026-08-24T18:36:46.766Z"
 }

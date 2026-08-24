@@ -14,9 +14,9 @@
   ],
   "summary": "漂浮于云海星域第五阶的大陆，中心黑塔之光笼罩全陆隔绝星雾；其北部丛林有接引王林的传送阵。",
   "attributes": {
-    "上级区域": "云海星域",
-    "类型": "漂浮星空的大陆（代表一个宗派）、大陆、漂浮大陆",
-    "守护": "黑塔防护之光",
+    "上级区域": "云海五阶星域",
+    "类型": "漂浮星空的大陆（代表一个宗派）、大陆、漂浮大陆、可居住的修真大陆",
+    "守护": "大陆上空的防护光层",
     "所属界面": "云海五阶星域",
     "特产": "药草、紫目蟒等妖兽",
     "危险度": "外有星雾与无数凶兽",
@@ -33,6 +33,11 @@
         "value": "云海星域",
         "docId": "plot.xianni-ch1141-lv-yanfei",
         "seq": 1058
+      },
+      {
+        "value": "云海五阶星域",
+        "docId": "plot.xianni-1148-manhuang-dalu-beast-souls",
+        "seq": 1063
       }
     ],
     "类型": [
@@ -50,6 +55,11 @@
         "value": "漂浮大陆",
         "docId": "plot.xianni-ch1143-purple-qi-from-west",
         "seq": 1058
+      },
+      {
+        "value": "可居住的修真大陆",
+        "docId": "plot.xianni-1148-manhuang-dalu-beast-souls",
+        "seq": 1063
       }
     ],
     "守护": [
@@ -62,6 +72,11 @@
         "value": "黑塔防护之光",
         "docId": "plot.xianni-ch1143-purple-qi-from-west",
         "seq": 1058
+      },
+      {
+        "value": "大陆上空的防护光层",
+        "docId": "plot.xianni-1148-manhuang-dalu-beast-souls",
+        "seq": 1063
       }
     ],
     "所属界面": [
@@ -112,9 +127,9 @@
   "attrProvenance": {
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch1141-lv-yanfei",
+      "docId": "plot.xianni-1148-manhuang-dalu-beast-souls",
       "dated": false,
-      "seq": 1058
+      "seq": 1063
     },
     "类型": {
       "asOf": null,
@@ -124,9 +139,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch1143-purple-qi-from-west",
+      "docId": "plot.xianni-1148-manhuang-dalu-beast-souls",
       "dated": false,
-      "seq": 1058
+      "seq": 1063
     },
     "所属界面": {
       "asOf": null,
@@ -166,7 +181,8 @@
     "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
     "plot.xianni-1145-a-single-hair-lu-di-slain",
     "plot.xianni-1146-tianni-second-perfection-hope",
-    "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai"
+    "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai",
+    "plot.xianni-1148-manhuang-dalu-beast-souls"
   ],
-  "updatedAt": "2026-08-24T18:33:46.845Z"
+  "updatedAt": "2026-08-24T18:36:46.773Z"
 }
