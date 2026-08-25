@@ -5,14 +5,16 @@
   "aliases": [
     "蓝色蚊兽",
     "淡蓝色蚊兽",
-    "落单的蓝色蚊兽"
+    "落单的蓝色蚊兽",
+    "蓝蚊",
+    "蓝色蚊兽群"
   ],
   "summary": "风之仙界内通体蓝色的蚊兽，气息堪比净涅修士；本章一只净涅初期落单者被蚊兽王打服收编，并被王林读取记忆得知另一蚊兽王的位置。",
   "attributes": {
     "种族": "蚊兽",
-    "等级": "净涅初期（落单者）、净涅中期（蓝芒略深者）",
-    "栖息地": "风之仙界",
-    "外形": "通体蓝色，巨大口器",
+    "等级": "净涅初期（落单者）、净涅中期（蓝芒略深者）、高于赤红色蚊兽、低于白色蚊兽",
+    "栖息地": "山脉附近",
+    "外形": "蓝色，飞行如流星",
     "能力": "对红色蚊兽极为霸道，红蚊遇之避让、臣服蚊兽王后仍对王林凶焰滔天"
   },
   "observations": {
@@ -33,6 +35,11 @@
         "value": "净涅中期（蓝芒略深者）",
         "docId": "plot.xianni-1236-another-mosquito-beast-king",
         "seq": 1151
+      },
+      {
+        "value": "高于赤红色蚊兽、低于白色蚊兽",
+        "docId": "plot.xianni-1237-mosquito-king-approach",
+        "seq": 1155
       }
     ],
     "栖息地": [
@@ -40,6 +47,11 @@
         "value": "风之仙界",
         "docId": "plot.xianni-1236-another-mosquito-beast-king",
         "seq": 1151
+      },
+      {
+        "value": "山脉附近",
+        "docId": "plot.xianni-1237-mosquito-king-approach",
+        "seq": 1155
       }
     ],
     "外形": [
@@ -47,6 +59,11 @@
         "value": "通体蓝色，巨大口器",
         "docId": "plot.xianni-1236-another-mosquito-beast-king",
         "seq": 1151
+      },
+      {
+        "value": "蓝色，飞行如流星",
+        "docId": "plot.xianni-1237-mosquito-king-approach",
+        "seq": 1155
       }
     ],
     "能力": [
@@ -78,15 +95,15 @@
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.xianni-1236-another-mosquito-beast-king",
+      "docId": "plot.xianni-1237-mosquito-king-approach",
       "dated": false,
-      "seq": 1151
+      "seq": 1155
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-1236-another-mosquito-beast-king",
+      "docId": "plot.xianni-1237-mosquito-king-approach",
       "dated": false,
-      "seq": 1151
+      "seq": 1155
     },
     "能力": {
       "asOf": null,
@@ -98,7 +115,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1236-another-mosquito-beast-king"
+    "plot.xianni-1236-another-mosquito-beast-king",
+    "plot.xianni-1237-mosquito-king-approach"
   ],
-  "updatedAt": "2026-08-25T02:54:55.297Z"
+  "updatedAt": "2026-08-25T02:56:56.974Z"
 }

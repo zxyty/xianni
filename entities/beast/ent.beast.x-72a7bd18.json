@@ -4,14 +4,17 @@
   "name": "风仙界白色蚊兽",
   "aliases": [
     "白色蚊兽",
-    "半透明白色蚊兽"
+    "半透明白色蚊兽",
+    "白蚊",
+    "白色蚊兽（两只）"
   ],
   "summary": "风之仙界内通体半透明的白色蚊兽，散发碎涅气息，数万蚊群中约三百余只；两只在目标山脉壁上以口器摩擦山石。",
   "attributes": {
     "种族": "蚊兽",
-    "等级": "碎涅",
-    "栖息地": "风之仙界",
-    "外形": "全身好似半透明的白色"
+    "等级": "气息威压堪比碎涅",
+    "栖息地": "山脉之上（守在蚊王所在山脉）",
+    "外形": "白色，化白光疾驰",
+    "能力": "倒钩须发延长遍体如长毛、须发整体脱落如飞剑齐射，蕴含破天神通"
   },
   "observations": {
     "种族": [
@@ -26,6 +29,11 @@
         "value": "碎涅",
         "docId": "plot.xianni-1236-another-mosquito-beast-king",
         "seq": 1151
+      },
+      {
+        "value": "气息威压堪比碎涅",
+        "docId": "plot.xianni-1237-mosquito-king-approach",
+        "seq": 1155
       }
     ],
     "栖息地": [
@@ -33,6 +41,11 @@
         "value": "风之仙界",
         "docId": "plot.xianni-1236-another-mosquito-beast-king",
         "seq": 1151
+      },
+      {
+        "value": "山脉之上（守在蚊王所在山脉）",
+        "docId": "plot.xianni-1237-mosquito-king-approach",
+        "seq": 1155
       }
     ],
     "外形": [
@@ -40,6 +53,23 @@
         "value": "全身好似半透明的白色",
         "docId": "plot.xianni-1236-another-mosquito-beast-king",
         "seq": 1151
+      },
+      {
+        "value": "白色，化白光疾驰",
+        "docId": "plot.xianni-1237-mosquito-king-approach",
+        "seq": 1155
+      }
+    ],
+    "能力": [
+      {
+        "value": "倒钩须发延长遍体如长毛",
+        "docId": "plot.xianni-1237-mosquito-king-approach",
+        "seq": 1155
+      },
+      {
+        "value": "须发整体脱落如飞剑齐射，蕴含破天神通",
+        "docId": "plot.xianni-1237-mosquito-king-approach",
+        "seq": 1155
       }
     ]
   },
@@ -53,27 +83,34 @@
     },
     "等级": {
       "asOf": null,
-      "docId": "plot.xianni-1236-another-mosquito-beast-king",
+      "docId": "plot.xianni-1237-mosquito-king-approach",
       "dated": false,
-      "seq": 1151
+      "seq": 1155
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.xianni-1236-another-mosquito-beast-king",
+      "docId": "plot.xianni-1237-mosquito-king-approach",
       "dated": false,
-      "seq": 1151
+      "seq": 1155
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-1236-another-mosquito-beast-king",
+      "docId": "plot.xianni-1237-mosquito-king-approach",
       "dated": false,
-      "seq": 1151
+      "seq": 1155
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-1237-mosquito-king-approach",
+      "dated": false,
+      "seq": 1155
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1236-another-mosquito-beast-king"
+    "plot.xianni-1236-another-mosquito-beast-king",
+    "plot.xianni-1237-mosquito-king-approach"
   ],
-  "updatedAt": "2026-08-25T02:54:55.298Z"
+  "updatedAt": "2026-08-25T02:56:56.973Z"
 }
