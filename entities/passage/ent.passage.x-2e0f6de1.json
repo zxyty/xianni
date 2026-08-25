@@ -4,11 +4,12 @@
   "name": "轮回门",
   "aliases": [
     "烨寞轮回门",
-    "Reincarnation Gate"
+    "Reincarnation Gate",
+    "轮回之门"
   ],
   "summary": "开启五阶墓台后方可开启之门；若为烨寞之族，可入轮回门寻其传承。",
   "attributes": {
-    "类型": "传承之门",
+    "类型": "门户/通道",
     "可通行境界": "开启五阶墓台者",
     "来历": "烨寞所留"
   },
@@ -18,6 +19,11 @@
         "value": "传承之门",
         "docId": "plot.xianni-ch1457-shao-yi-ge",
         "seq": 1365
+      },
+      {
+        "value": "门户/通道",
+        "docId": "plot.xianni-ch1467-ancient-tomb-upheaval",
+        "seq": 1375
       }
     ],
     "可通行境界": [
@@ -40,9 +46,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1457-shao-yi-ge",
+      "docId": "plot.xianni-ch1467-ancient-tomb-upheaval",
       "dated": false,
-      "seq": 1365
+      "seq": 1375
     },
     "可通行境界": {
       "asOf": null,
@@ -62,7 +68,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1457-shao-yi-ge",
-    "plot.xianni-1458-ci-dao-wanglin-ponders-ancient-tomb-revives-trees"
+    "plot.xianni-1458-ci-dao-wanglin-ponders-ancient-tomb-revives-trees",
+    "plot.xianni-ch1467-ancient-tomb-upheaval"
   ],
-  "updatedAt": "2026-08-25T21:05:40.995Z"
+  "updatedAt": "2026-08-25T21:34:24.768Z"
 }

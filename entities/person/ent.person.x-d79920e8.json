@@ -3,13 +3,16 @@
   "type": "person",
   "name": "黑袍人",
   "aliases": [
-    "与望月一战的黑袍人"
+    "与望月一战的黑袍人",
+    "黑袍黑影",
+    "掌印黑袍人"
   ],
   "summary": "此前曾与望月交战，本章以本体降临星空，身后有百丈虚幻黑鹰，气息令人心神剧震。",
   "attributes": {
     "性别": "男",
-    "外貌": "中年男子、黑袍",
-    "标志特征": "身后百丈虚幻黑鹰，双目如电阴森"
+    "外貌": "全身被黑袍笼罩，看不清面目",
+    "标志特征": "由黑气凝成、伴随遮盖星域的巨大掌印",
+    "身份": "未明"
   },
   "observations": {
     "性别": [
@@ -24,6 +27,11 @@
         "value": "中年男子、黑袍",
         "docId": "plot.xianni-ch839-perfect-seal-yao-bingyun",
         "seq": 780
+      },
+      {
+        "value": "全身被黑袍笼罩，看不清面目",
+        "docId": "plot.xianni-ch1467-ancient-tomb-upheaval",
+        "seq": 1375
       }
     ],
     "标志特征": [
@@ -31,6 +39,19 @@
         "value": "身后百丈虚幻黑鹰，双目如电阴森",
         "docId": "plot.xianni-ch839-perfect-seal-yao-bingyun",
         "seq": 780
+      },
+      {
+        "value": "由黑气凝成、伴随遮盖星域的巨大掌印",
+        "docId": "plot.xianni-ch1467-ancient-tomb-upheaval",
+        "seq": 1375
+      }
+    ],
+    "身份": [
+      {
+        "value": "未明",
+        "docId": "plot.xianni-ch1467-ancient-tomb-upheaval",
+        "seq": 1375,
+        "note": "第1467章仅现身警告"
       }
     ]
   },
@@ -44,21 +65,29 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch839-perfect-seal-yao-bingyun",
+      "docId": "plot.xianni-ch1467-ancient-tomb-upheaval",
       "dated": false,
-      "seq": 780
+      "seq": 1375
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch839-perfect-seal-yao-bingyun",
+      "docId": "plot.xianni-ch1467-ancient-tomb-upheaval",
       "dated": false,
-      "seq": 780
+      "seq": 1375
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1467-ancient-tomb-upheaval",
+      "dated": false,
+      "seq": 1375,
+      "note": "第1467章仅现身警告"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch839-perfect-seal-yao-bingyun"
+    "plot.xianni-ch839-perfect-seal-yao-bingyun",
+    "plot.xianni-ch1467-ancient-tomb-upheaval"
   ],
-  "updatedAt": "2026-08-23T13:00:29.452Z"
+  "updatedAt": "2026-08-25T21:34:24.727Z"
 }

@@ -834,3 +834,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T21:21:35.693Z** `ingest` plot.xianni-1464-who-is-faster-eighth-tier-tomb-platform — 《仙逆》第1464章 谁快！——王林首成八阶墓台，三方强者围杀 · kind=plot asOf=2026-08-25 entities=18 relations=28 src=01375-01379.p1.md
 - **2026-08-25T21:24:34.239Z** `ingest` plot.xianni-1465-living-ancient-yao-seal — 第1465章 活着的古妖：仙妃阻隔山指、王林入古妖漩涡制符 · kind=plot asOf=2026-08-25 entities=28 relations=40 src=01375-01379.p2.md
 - **2026-08-25T21:27:05.829Z** `ingest` plot.xianni-ch1466-nine-tier-tomb-platform-clap — 第1466章 拍手一次：王林九阶墓台引来巨手，古墓横扫、虚无被撕开 · kind=plot asOf=2026-08-25 entities=27 relations=33 src=01375-01379.p3.md
+- **2026-08-25T21:34:25.162Z** `ingest` plot.xianni-ch1467-ancient-tomb-upheaval — 仙逆·第1467章 古墓剧变：裂缝再现吞雾、修为限制消失，大荒上人抢入，妙音道尊与九天魔尊结盟被黑袍人喝止 · kind=plot asOf=2026-08-25 entities=33 relations=59 src=01375-01379.p4.md
