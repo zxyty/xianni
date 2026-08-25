@@ -3,11 +3,12 @@
   "type": "faction",
   "name": "仙音门",
   "aliases": [
-    "六阶星域仙音门"
+    "六阶星域仙音门",
+    "六阶星域第一分宗仙音门"
   ],
   "summary": "六阶星域分宗，连续多次在六阶星域分宗排名第一，颇受无极宗主宗器重，传占有最终盛典内定名额之一。",
   "attributes": {
-    "等级": "六阶分宗",
+    "等级": "六阶分宗、六阶星域第一分宗",
     "阵营": "无极宗分宗体系"
   },
   "observations": {
@@ -15,6 +16,11 @@
       {
         "value": "六阶分宗",
         "docId": "plot.xianni-1239-guiyuanzong-mosquito-king-song-luohai",
+        "seq": 1155
+      },
+      {
+        "value": "六阶星域第一分宗",
+        "docId": "plot.xianni-ch1240-li-qianmei-arrives-wuji-sect",
         "seq": 1155
       }
     ],
@@ -44,7 +50,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1239-guiyuanzong-mosquito-king-song-luohai"
+    "plot.xianni-1239-guiyuanzong-mosquito-king-song-luohai",
+    "plot.xianni-ch1240-li-qianmei-arrives-wuji-sect"
   ],
-  "updatedAt": "2026-08-25T03:01:35.900Z"
+  "updatedAt": "2026-08-25T03:03:47.365Z"
 }

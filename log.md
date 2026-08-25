@@ -632,3 +632,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T02:56:57.268Z** `ingest` plot.xianni-1237-mosquito-king-approach — 仙逆 第1237章 逼近：蚊兽王连吞同族、力战白蚊，紫色蚊王现身 · kind=plot asOf=2026-08-25 entities=14 relations=24 src=01155-01159.p1.md
 - **2026-08-25T02:58:45.580Z** `ingest` plot.xianni-1238-new-mosquito-king — 第1238章 新王！——王林蚊兽吞噬紫色蚊王，登临蚊王之位 · kind=plot asOf=2026-08-25 entities=15 relations=18 src=01155-01159.p2.md
 - **2026-08-25T03:01:36.275Z** `ingest` plot.xianni-1239-guiyuanzong-mosquito-king-song-luohai — 第1239章 归元宗：蚊王立威诛宋洛海，无极宗分宗大比归元宗遭欺 · kind=plot asOf=2026-08-25 entities=27 relations=40 src=01155-01159.p3.md
+- **2026-08-25T03:03:47.663Z** `ingest` plot.xianni-ch1240-li-qianmei-arrives-wuji-sect — 仙逆 第1240章 李倩梅（卢云从对峙吕英杰与赵龙；李倩梅降临无极宗寻归元宗） · kind=plot asOf=2026-08-25 entities=21 relations=32 src=01155-01159.p4.md

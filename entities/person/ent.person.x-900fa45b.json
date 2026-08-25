@@ -2,14 +2,19 @@
   "id": "ent.person.x-900fa45b",
   "type": "person",
   "name": "赵龙",
-  "aliases": [],
+  "aliases": [
+    "赵前辈",
+    "赵姓中年男子",
+    "寻峦宗外事长老"
+  ],
   "summary": "恒岳派凝气期第六层内门弟子，莲花剑气练至中品·剑意，被柳风水幕折射反弹重创落败。",
   "attributes": {
     "小阶段": "凝气期第六层",
     "阵营": "恒岳派",
-    "身份": "内门弟子",
-    "性格": "沉默寡言、修炼刻苦",
-    "外貌": "中等身材、面色黝黑、精壮如凡人武者"
+    "身份": "寻峦宗外事长老",
+    "性格": "阴沉刻薄",
+    "外貌": "鹰钩鼻、薄唇、目光阴森、刻薄中年男子",
+    "标志特征": "阴阳怪调阴柔声音，可引动他人元神剧烈波动"
   },
   "observations": {
     "小阶段": [
@@ -31,6 +36,11 @@
         "value": "内门弟子",
         "docId": "plot.xianni-ch43-48-lishan-pilidan-shenshi",
         "seq": 43
+      },
+      {
+        "value": "寻峦宗外事长老",
+        "docId": "plot.xianni-ch1240-li-qianmei-arrives-wuji-sect",
+        "seq": 1155
       }
     ],
     "性格": [
@@ -38,6 +48,11 @@
         "value": "沉默寡言、修炼刻苦",
         "docId": "plot.xianni-ch43-48-lishan-pilidan-shenshi",
         "seq": 43
+      },
+      {
+        "value": "阴沉刻薄",
+        "docId": "plot.xianni-ch1240-li-qianmei-arrives-wuji-sect",
+        "seq": 1155
       }
     ],
     "外貌": [
@@ -45,6 +60,18 @@
         "value": "中等身材、面色黝黑、精壮如凡人武者",
         "docId": "plot.xianni-ch43-48-lishan-pilidan-shenshi",
         "seq": 43
+      },
+      {
+        "value": "鹰钩鼻、薄唇、目光阴森、刻薄中年男子",
+        "docId": "plot.xianni-ch1240-li-qianmei-arrives-wuji-sect",
+        "seq": 1155
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "阴阳怪调阴柔声音，可引动他人元神剧烈波动",
+        "docId": "plot.xianni-ch1240-li-qianmei-arrives-wuji-sect",
+        "seq": 1155
       }
     ]
   },
@@ -64,27 +91,34 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch43-48-lishan-pilidan-shenshi",
+      "docId": "plot.xianni-ch1240-li-qianmei-arrives-wuji-sect",
       "dated": false,
-      "seq": 43
+      "seq": 1155
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch43-48-lishan-pilidan-shenshi",
+      "docId": "plot.xianni-ch1240-li-qianmei-arrives-wuji-sect",
       "dated": false,
-      "seq": 43
+      "seq": 1155
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch43-48-lishan-pilidan-shenshi",
+      "docId": "plot.xianni-ch1240-li-qianmei-arrives-wuji-sect",
       "dated": false,
-      "seq": 43
+      "seq": 1155
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1240-li-qianmei-arrives-wuji-sect",
+      "dated": false,
+      "seq": 1155
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch43-48-lishan-pilidan-shenshi"
+    "plot.xianni-ch43-48-lishan-pilidan-shenshi",
+    "plot.xianni-ch1240-li-qianmei-arrives-wuji-sect"
   ],
-  "updatedAt": "2026-06-22T12:30:04.321Z"
+  "updatedAt": "2026-08-25T03:03:47.357Z"
 }
