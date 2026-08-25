@@ -11,10 +11,11 @@
   "summary": "雪域修士，于白云宗方向念咒引狂风令雪原升空凝冰，再以元婴融入冰块化作冰雪巨人。",
   "attributes": {
     "性别": "女",
-    "外貌": "白发老妪",
+    "外貌": "白发／白衣老妪",
     "小阶段": "元婴期",
     "阵营": "雪域修士",
-    "标志特征": "声音沙哑、隔空抓摄之术"
+    "标志特征": "声音沙哑、隔空抓摄之术",
+    "身份": "李倩梅魂血的传递者、指路人"
   },
   "observations": {
     "性别": [
@@ -29,6 +30,11 @@
         "value": "白发老妪",
         "docId": "plot.xianni-ch274-underground-ice-sculpture",
         "seq": 258
+      },
+      {
+        "value": "白发／白衣老妪",
+        "docId": "plot.xianni-1287-sui-qian-wan-ren-wu-wang-yi",
+        "seq": 1202
       }
     ],
     "小阶段": [
@@ -56,6 +62,13 @@
         "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
         "seq": 276
       }
+    ],
+    "身份": [
+      {
+        "value": "李倩梅魂血的传递者、指路人",
+        "docId": "plot.xianni-1287-sui-qian-wan-ren-wu-wang-yi",
+        "seq": 1202
+      }
     ]
   },
   "firstSeq": 258,
@@ -68,9 +81,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch274-underground-ice-sculpture",
+      "docId": "plot.xianni-1287-sui-qian-wan-ren-wu-wang-yi",
       "dated": false,
-      "seq": 258
+      "seq": 1202
     },
     "小阶段": {
       "asOf": null,
@@ -89,13 +102,20 @@
       "docId": "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
       "dated": false,
       "seq": 276
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-1287-sui-qian-wan-ren-wu-wang-yi",
+      "dated": false,
+      "seq": 1202
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch274-underground-ice-sculpture",
-    "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men"
+    "plot.xianni-ch276-280-tiandao-kaiqi-xianjie-zhi-men",
+    "plot.xianni-1287-sui-qian-wan-ren-wu-wang-yi"
   ],
-  "updatedAt": "2026-08-02T14:24:24.248Z"
+  "updatedAt": "2026-08-25T07:14:21.273Z"
 }

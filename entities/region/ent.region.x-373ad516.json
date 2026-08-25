@@ -7,7 +7,8 @@
   ],
   "summary": "施洛刑循线索秘密潜入并取得目标物品的星域，层次较低。",
   "attributes": {
-    "层次": "三阶、第三阶"
+    "层次": "三阶、第三阶",
+    "特点": "三阶以下无传送阵"
   },
   "observations": {
     "层次": [
@@ -21,6 +22,13 @@
         "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
         "seq": 1068
       }
+    ],
+    "特点": [
+      {
+        "value": "三阶以下无传送阵",
+        "docId": "plot.xianni-1287-sui-qian-wan-ren-wu-wang-yi",
+        "seq": 1202
+      }
     ]
   },
   "firstSeq": 1068,
@@ -30,13 +38,20 @@
       "docId": "plot.xianni-ch1150-jingbian-manhuang-dalu-liuxing-shouchao",
       "dated": false,
       "seq": 1068
+    },
+    "特点": {
+      "asOf": null,
+      "docId": "plot.xianni-1287-sui-qian-wan-ren-wu-wang-yi",
+      "dated": false,
+      "seq": 1202
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1150-jingbian-manhuang-dalu-liuxing-shouchao",
-    "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong"
+    "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
+    "plot.xianni-1287-sui-qian-wan-ren-wu-wang-yi"
   ],
-  "updatedAt": "2026-08-24T18:57:10.877Z"
+  "updatedAt": "2026-08-25T07:14:21.286Z"
 }
