@@ -7,10 +7,11 @@
   ],
   "summary": "以眉心火焰图腾（族腾）为标志的异族，其青年在七彩界深处感受到召唤与族腾欲离体，断定此地有火雀族先祖。",
   "attributes": {
-    "特性": "眉心带火焰图腾，背生朱雀状火焰双翼",
+    "特性": "眉心有火焰图腾（族腾），受强大心神感应时图腾燃烧、眉心带火焰图腾，背生朱雀状火焰双翼、地域充满燃烧的火焰、庙宇立黑色火鸟朱雀像、传说：他们将要回来时赝雀自崩",
     "代表人物": "眉心火焰图腾的青年",
     "天赋神通": "火焰风暴、火焰之枪、请族灵",
-    "阵营": "界外之人"
+    "阵营": "界外之人",
+    "聚居地": "太古星辰"
   },
   "observations": {
     "特性": [
@@ -22,6 +23,21 @@
       {
         "value": "眉心带火焰图腾，背生朱雀状火焰双翼",
         "docId": "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
+        "seq": 1123
+      },
+      {
+        "value": "地域充满燃烧的火焰",
+        "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
+        "seq": 1123
+      },
+      {
+        "value": "庙宇立黑色火鸟朱雀像",
+        "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
+        "seq": 1123
+      },
+      {
+        "value": "传说：他们将要回来时赝雀自崩",
+        "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
         "seq": 1123
       }
     ],
@@ -60,15 +76,22 @@
         "docId": "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
         "seq": 1123
       }
+    ],
+    "聚居地": [
+      {
+        "value": "太古星辰",
+        "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
+        "seq": 1123
+      }
     ]
   },
   "firstSeq": 1114,
   "attrProvenance": {
     "特性": {
       "asOf": null,
-      "docId": "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
+      "docId": "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
       "dated": false,
-      "seq": 1123
+      "seq": 1114
     },
     "代表人物": {
       "asOf": null,
@@ -87,13 +110,20 @@
       "docId": "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
       "dated": false,
       "seq": 1123
+    },
+    "聚居地": {
+      "asOf": null,
+      "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
+      "dated": false,
+      "seq": 1123
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
-    "plot.xianni-1207-lei-huo-wang-lin-duo-quan"
+    "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
+    "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu"
   ],
-  "updatedAt": "2026-08-25T00:34:35.901Z"
+  "updatedAt": "2026-08-25T00:37:02.619Z"
 }

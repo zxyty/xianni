@@ -603,3 +603,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T00:29:27.129Z** `ingest` plot.xianni-1205-ao-wang-lin-subdues-lightning-statue — 仙逆 第1205章 傲！——王林以太古雷龙元神强夺闪雷族石像雷权 · kind=plot asOf=2026-08-25 entities=23 relations=34 src=01123-01126.p1.md
 - **2026-08-25T00:32:11.513Z** `ingest` plot.xianni-1206-zhan-xingye-daotong-jiewai-sanren-tuxi — 第1206章 我辈修士，何惜一战！——王林得战星野道统，界外三人破封偷袭 · kind=plot asOf=2026-08-25 entities=30 relations=45 src=01123-01126.p2.md
 - **2026-08-25T00:34:36.227Z** `ingest` plot.xianni-1207-lei-huo-wang-lin-duo-quan — 第1207章 雷？火？——王林秒杀闪雷族、火雀族青年，剥夺两族雷火之权 · kind=plot asOf=2026-08-25 entities=20 relations=28 src=01123-01126.p3.md
+- **2026-08-25T00:37:02.933Z** `ingest` plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu — 第1208章 解太古之约：王林以王族古神之命废除古神对月噬奴族的庇护 · kind=plot asOf=2026-08-25 entities=17 relations=28 src=01123-01126.p4.md

@@ -5,16 +5,20 @@
   "aliases": [
     "眉心月牙印记的青年",
     "眉心有月牙图腾之人",
-    "月牙图腾青年"
+    "月牙图腾青年",
+    "月噬族青年",
+    "带月牙印记的青年"
   ],
   "summary": "自裂缝走出的三人之一，眼露兴奋，问『这里就是你发现的空间裂缝』。",
   "attributes": {
     "性别": "男",
-    "标志特征": "眉心有月牙印记、眉心月牙印记（图腾）、眉心月牙印记",
+    "标志特征": "眉心有月牙印记、眉心月牙印记（图腾）、眉心月牙印记、眉心（身负）月牙印记；施法时全身晶莹如月色铺身",
     "阵营": "界外之人",
-    "性格": "谨慎、沉默",
-    "存殁": "存活",
-    "结局": "疯狂后退逃遁"
+    "性格": "傲慢不可一世、恶毒、危急时不惜屈辱",
+    "存殁": "存活、弥留待死",
+    "结局": "疯狂后退逃遁",
+    "种族": "月噬族",
+    "死因": "被王林击溃后钉于石碑下七彩之钉，道念被吸撤、元神封印，遭强行搜魂"
   },
   "observations": {
     "性别": [
@@ -39,6 +43,11 @@
         "value": "眉心月牙印记",
         "docId": "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
         "seq": 1123
+      },
+      {
+        "value": "眉心（身负）月牙印记；施法时全身晶莹如月色铺身",
+        "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
+        "seq": 1123
       }
     ],
     "阵营": [
@@ -59,6 +68,11 @@
         "value": "谨慎、沉默",
         "docId": "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
         "seq": 1114
+      },
+      {
+        "value": "傲慢不可一世、恶毒、危急时不惜屈辱",
+        "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
+        "seq": 1123
       }
     ],
     "存殁": [
@@ -66,6 +80,12 @@
         "value": "存活",
         "docId": "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
         "seq": 1123
+      },
+      {
+        "value": "弥留待死",
+        "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
+        "seq": 1123,
+        "note": "第1208章被钉七彩之钉、遭搜魂，在折磨中慢慢死去，未当场了结"
       }
     ],
     "结局": [
@@ -74,6 +94,20 @@
         "docId": "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
         "seq": 1123,
         "note": "本章未被斩杀"
+      }
+    ],
+    "种族": [
+      {
+        "value": "月噬族",
+        "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
+        "seq": 1123
+      }
+    ],
+    "死因": [
+      {
+        "value": "被王林击溃后钉于石碑下七彩之钉，道念被吸撤、元神封印，遭强行搜魂",
+        "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
+        "seq": 1123
       }
     ]
   },
@@ -99,9 +133,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
+      "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
       "dated": false,
-      "seq": 1114
+      "seq": 1123
     },
     "存殁": {
       "asOf": null,
@@ -115,6 +149,18 @@
       "dated": false,
       "seq": 1123,
       "note": "本章未被斩杀"
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
+      "dated": false,
+      "seq": 1123
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
+      "dated": false,
+      "seq": 1123
     }
   },
   "contested": false,
@@ -122,7 +168,8 @@
   "docs": [
     "plot.xianni-1198-danyao-tianni-fangzhipin-yu-liefeng-sanren",
     "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
-    "plot.xianni-1207-lei-huo-wang-lin-duo-quan"
+    "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
+    "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu"
   ],
-  "updatedAt": "2026-08-25T00:34:35.899Z"
+  "updatedAt": "2026-08-25T00:37:02.613Z"
 }

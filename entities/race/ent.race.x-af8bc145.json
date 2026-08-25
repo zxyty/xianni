@@ -2,17 +2,33 @@
   "id": "ent.race.x-af8bc145",
   "type": "race",
   "name": "月噬族",
-  "aliases": [],
+  "aliases": [
+    "Yue Shi Clan"
+  ],
   "summary": "极强之族，但据灵儿所言，早年不过是古神一族的仆从之流。",
   "attributes": {
-    "特性": "强大",
-    "阵营": "古神一族仆从"
+    "特性": "强大、月之力/反月之力、禁术『月之禁·神怒』可借古神族魂",
+    "阵营": "古神一族仆从",
+    "聚居地": "太古星辰（界外）",
+    "天赋神通": "反月之力",
+    "代表人物": "月牙印记青年",
+    "天敌": "古神一族"
   },
   "observations": {
     "特性": [
       {
         "value": "强大",
         "docId": "plot.xianni-1205-ao-wang-lin-subdues-lightning-statue",
+        "seq": 1123
+      },
+      {
+        "value": "月之力/反月之力",
+        "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
+        "seq": 1123
+      },
+      {
+        "value": "禁术『月之禁·神怒』可借古神族魂",
+        "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
         "seq": 1123
       }
     ],
@@ -22,6 +38,35 @@
         "docId": "plot.xianni-1205-ao-wang-lin-subdues-lightning-statue",
         "seq": 1123,
         "note": "早年"
+      }
+    ],
+    "聚居地": [
+      {
+        "value": "太古星辰（界外）",
+        "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
+        "seq": 1123
+      }
+    ],
+    "天赋神通": [
+      {
+        "value": "反月之力",
+        "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
+        "seq": 1123
+      }
+    ],
+    "代表人物": [
+      {
+        "value": "月牙印记青年",
+        "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
+        "seq": 1123
+      }
+    ],
+    "天敌": [
+      {
+        "value": "古神一族",
+        "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
+        "seq": 1123,
+        "note": "第1208章起庇护之约解除，转为『毁月噬一族』"
       }
     ]
   },
@@ -39,12 +84,38 @@
       "dated": false,
       "seq": 1123,
       "note": "早年"
+    },
+    "聚居地": {
+      "asOf": null,
+      "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
+      "dated": false,
+      "seq": 1123
+    },
+    "天赋神通": {
+      "asOf": null,
+      "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
+      "dated": false,
+      "seq": 1123
+    },
+    "代表人物": {
+      "asOf": null,
+      "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
+      "dated": false,
+      "seq": 1123
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
+      "dated": false,
+      "seq": 1123,
+      "note": "第1208章起庇护之约解除，转为『毁月噬一族』"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1205-ao-wang-lin-subdues-lightning-statue"
+    "plot.xianni-1205-ao-wang-lin-subdues-lightning-statue",
+    "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu"
   ],
-  "updatedAt": "2026-08-25T00:29:26.831Z"
+  "updatedAt": "2026-08-25T00:37:02.617Z"
 }
