@@ -823,3 +823,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T19:45:23.899Z** `ingest` plot.xianni-ch1454-fen-miaoyin-daozun-dahuang-alliance-break — 第1454章 分！——大荒上人背誓返身，王林血剑贯穿妙音道尊 · kind=plot asOf=2026-08-25 entities=28 relations=43 src=01360-01364.p5.md
 - **2026-08-25T20:43:57.253Z** `ingest` plot.xianni-1455-shashoujian-lingdong-shangren-ambush — 第1455章 杀手锏！——妙音道尊与大荒上人两败俱伤，王林祭出天皇炉中潜藏的灵动上人 · kind=plot asOf=2026-08-25 entities=22 relations=28 src=01365-01369.p1.md
 - **2026-08-25T20:46:17.234Z** `ingest` plot.xianni-ch1455-giant-hand-reappears — 第1455章 巨手再现！——王林掠夺妙音香火，被雾海巨手拽入雾中 · kind=plot asOf=2026-08-25 entities=15 relations=23 src=01365-01369.p2.md
+- **2026-08-25T20:48:29.939Z** `ingest` plot.xianni-ch1456-three-killing-intents-fog-hand-throw — 第1456章 三次杀机：巨手抛掷入古墓内部，五阶墓台与七彩雕像伏笔 · kind=plot asOf=2026-08-25 entities=21 relations=27 src=01365-01369.p3.md

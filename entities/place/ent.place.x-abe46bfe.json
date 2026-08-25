@@ -20,12 +20,12 @@
   ],
   "summary": "邻近火焚国的海域。",
   "attributes": {
-    "类型": "雾海、海域秘境、海域/魔修之地、海域/修魔势力范围、海域/魔修聚集地、海域/凶地、海域、海域/险地、海域/大型秘境、凶险海域、海域/危险地带、海域/危险秘境、魔修海域、雾气海域、妖海、海域/凶险之地、海域/势力区、海域/凶险区域、海域/修真区域、大型修真区域、海域／修真禁地、海域/修行险地、雾化之海、盆地（原雾海）、凶地/海域、雾气秘域、雾气区域、雾气之海/深渊",
+    "类型": "雾海、海域秘境、海域/魔修之地、海域/修魔势力范围、海域/魔修聚集地、海域/凶地、海域、海域/险地、海域/大型秘境、凶险海域、海域/危险地带、海域/危险秘境、魔修海域、雾气海域、妖海、海域/凶险之地、海域/势力区、海域/凶险区域、海域/修真区域、大型修真区域、海域／修真禁地、海域/修行险地、雾化之海、盆地（原雾海）、凶地/海域、雾气秘域、雾气区域、雾气之海/深渊、秘境雾域",
     "方位": "周武大陆与赵国大陆之间、火焚国边境外、修魔海内层、战场下方",
     "危险度": "极高(元婴期亦不敢轻入)、高、高（海威、化海）、极高、高（遍地危机）、极高（化神期修士活动）、妖灵兽乱、荒兽出没、妖兽极多，野外凶险、极高，弱肉强食、高，新生势力混杂、极高（下方潜藏可伸出数万丈巨手的存在）",
     "特产": "每年一月雾气复为海水、阴寒灵力、上古海洋植被、内海灵兽、远古古传送阵、小兽兽群、飓风、雾气化海、异兽内丹、常年黑雨与天劫雷云、极品灵石、妖兽内丹、八爪兽、妖兽、古传送阵、魔逆城、炼器阁、修魔海特产水果、曾有万年不散的雾气（已消散一空）、无形雾气、妖兽、阴气、铭志者虚影",
     "规模": "约相当于几千个火焚国、城池近千（九百九十八城）、极大，飞行百年难达边缘、极大、九百九十九座主城及庞大荒原、一大片凹陷盆地",
-    "上级区域": "古之墓地",
+    "上级区域": "古墓",
     "所属界面": "朱雀星",
     "所属势力": "仙遗族附庸"
   },
@@ -169,6 +169,11 @@
       {
         "value": "雾气之海/深渊",
         "docId": "plot.xianni-ch1455-giant-hand-reappears",
+        "seq": 1365
+      },
+      {
+        "value": "秘境雾域",
+        "docId": "plot.xianni-ch1456-three-killing-intents-fog-hand-throw",
         "seq": 1365
       }
     ],
@@ -392,6 +397,11 @@
         "value": "古之墓地",
         "docId": "plot.xianni-1441-tomb-outer-trial-and-xuhuo-rumors",
         "seq": 1350
+      },
+      {
+        "value": "古墓",
+        "docId": "plot.xianni-ch1456-three-killing-intents-fog-hand-throw",
+        "seq": 1365
       }
     ],
     "所属界面": [
@@ -444,9 +454,9 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-1441-tomb-outer-trial-and-xuhuo-rumors",
+      "docId": "plot.xianni-ch1456-three-killing-intents-fog-hand-throw",
       "dated": false,
-      "seq": 1350
+      "seq": 1365
     },
     "所属界面": {
       "asOf": null,
@@ -525,7 +535,8 @@
     "plot.xianni-ch1125-ji-qiong-avatar-into-ancient-god-land",
     "plot.xianni-1191-tianyun-reappears-cangsongzi-vs-qingshan-crone",
     "plot.xianni-1441-tomb-outer-trial-and-xuhuo-rumors",
-    "plot.xianni-ch1455-giant-hand-reappears"
+    "plot.xianni-ch1455-giant-hand-reappears",
+    "plot.xianni-ch1456-three-killing-intents-fog-hand-throw"
   ],
-  "updatedAt": "2026-08-25T20:46:16.867Z"
+  "updatedAt": "2026-08-25T20:48:29.603Z"
 }

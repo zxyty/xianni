@@ -1,35 +1,22 @@
 {
-  "id": "ent.place.x-2769b74d",
+  "id": "ent.place.x-ca0acdde",
   "type": "place",
-  "name": "古墓外围",
-  "aliases": [
-    "这古墓外围",
-    "外围区域"
-  ],
-  "summary": "古墓的外围区域，妙音道尊当初自大帝星急于离去便是前往此处。",
+  "name": "崩溃的封印之地",
+  "aliases": [],
+  "summary": "此前崩溃的地点，其中死亡修士留下的近百符文被王林巧妙收走，本章用于墓台升阶。",
   "attributes": {
-    "类型": "区域",
+    "类型": "封印之地",
     "上级区域": "古墓"
   },
   "observations": {
     "类型": [
       {
-        "value": "古墓外围区域",
-        "docId": "plot.xianni-ch1454-fen-miaoyin-daozun-dahuang-alliance-break",
-        "seq": 1360
-      },
-      {
-        "value": "区域",
+        "value": "封印之地",
         "docId": "plot.xianni-ch1456-three-killing-intents-fog-hand-throw",
         "seq": 1365
       }
     ],
     "上级区域": [
-      {
-        "value": "封印之地",
-        "docId": "plot.xianni-ch1454-fen-miaoyin-daozun-dahuang-alliance-break",
-        "seq": 1360
-      },
       {
         "value": "古墓",
         "docId": "plot.xianni-ch1456-three-killing-intents-fog-hand-throw",
@@ -37,7 +24,7 @@
       }
     ]
   },
-  "firstSeq": 1360,
+  "firstSeq": 1365,
   "attrProvenance": {
     "类型": {
       "asOf": null,
@@ -55,8 +42,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1454-fen-miaoyin-daozun-dahuang-alliance-break",
     "plot.xianni-ch1456-three-killing-intents-fog-hand-throw"
   ],
-  "updatedAt": "2026-08-25T20:48:29.606Z"
+  "updatedAt": "2026-08-25T20:48:29.609Z"
 }

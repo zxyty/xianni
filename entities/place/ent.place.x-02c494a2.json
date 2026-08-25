@@ -1,23 +1,18 @@
 {
-  "id": "ent.place.x-2769b74d",
+  "id": "ent.place.x-02c494a2",
   "type": "place",
-  "name": "古墓外围",
+  "name": "古墓内部",
   "aliases": [
-    "这古墓外围",
-    "外围区域"
+    "第五张地图区域"
   ],
-  "summary": "古墓的外围区域，妙音道尊当初自大帝星急于离去便是前往此处。",
+  "summary": "王林被巨手抛入之处，已彻底离开古墓外围。",
   "attributes": {
     "类型": "区域",
-    "上级区域": "古墓"
+    "上级区域": "古墓",
+    "方位": "古墓外围之内、第五张地图尽头"
   },
   "observations": {
     "类型": [
-      {
-        "value": "古墓外围区域",
-        "docId": "plot.xianni-ch1454-fen-miaoyin-daozun-dahuang-alliance-break",
-        "seq": 1360
-      },
       {
         "value": "区域",
         "docId": "plot.xianni-ch1456-three-killing-intents-fog-hand-throw",
@@ -26,18 +21,20 @@
     ],
     "上级区域": [
       {
-        "value": "封印之地",
-        "docId": "plot.xianni-ch1454-fen-miaoyin-daozun-dahuang-alliance-break",
-        "seq": 1360
-      },
-      {
         "value": "古墓",
+        "docId": "plot.xianni-ch1456-three-killing-intents-fog-hand-throw",
+        "seq": 1365
+      }
+    ],
+    "方位": [
+      {
+        "value": "古墓外围之内、第五张地图尽头",
         "docId": "plot.xianni-ch1456-three-killing-intents-fog-hand-throw",
         "seq": 1365
       }
     ]
   },
-  "firstSeq": 1360,
+  "firstSeq": 1365,
   "attrProvenance": {
     "类型": {
       "asOf": null,
@@ -50,13 +47,18 @@
       "docId": "plot.xianni-ch1456-three-killing-intents-fog-hand-throw",
       "dated": false,
       "seq": 1365
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1456-three-killing-intents-fog-hand-throw",
+      "dated": false,
+      "seq": 1365
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1454-fen-miaoyin-daozun-dahuang-alliance-break",
     "plot.xianni-ch1456-three-killing-intents-fog-hand-throw"
   ],
-  "updatedAt": "2026-08-25T20:48:29.606Z"
+  "updatedAt": "2026-08-25T20:48:29.605Z"
 }
