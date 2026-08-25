@@ -809,3 +809,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T19:11:11.338Z** `ingest` plot.xianni-ch1440-three-and-three-again-platform-slaughter — 仙逆 第1440章 三人三人又三人：雾海平台夺台厮杀，王林连斩九人 · kind=plot asOf=2026-08-25 entities=18 relations=23 src=01350-01354.p1.md
 - **2026-08-25T19:13:30.256Z** `ingest` plot.xianni-1441-tomb-outer-trial-and-xuhuo-rumors — 仙逆 第1441章 传闻传闻又传闻：二十八平台下沉与虚火修士的传闻 · kind=plot asOf=2026-08-25 entities=18 relations=26 src=01350-01354.p2.md
 - **2026-08-25T19:15:19.698Z** `ingest` plot.xianni-ch1442-healing-opportunity-humanoid-beasts — 仙逆 第1442章 疗伤的契机——人形凶兽与天皇炉炼千兽 · kind=plot asOf=2026-08-25 entities=13 relations=16 src=01350-01354.p3.md
+- **2026-08-25T19:17:38.848Z** `ingest` plot.xianni-ch1443-xuhuo-cultivator — 《仙逆》第1443章 虚火修士！！——古之墓地封印之地，王林虚火焚尽数万凶兽 · kind=plot asOf=2026-08-25 entities=21 relations=24 src=01350-01354.p4.md

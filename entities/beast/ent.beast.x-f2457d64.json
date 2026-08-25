@@ -7,14 +7,16 @@
     "墓地凶兽",
     "雾中凶兽",
     "雾中人形凶兽",
-    "云海之巅人形凶兽"
+    "云海之巅人形凶兽",
+    "封印之地凶兽"
   ],
   "summary": "藏身雾气中的人形凶兽，全身脓包、指甲细长锋利，数量不下数千；与妖灵之地古神头颅中冲出的奇异之物同源。",
   "attributes": {
-    "栖息地": "古之墓地雾海、云海之巅试炼路途的雾气之中",
-    "能力": "雾中隐匿偷袭、群体围攻、临死自爆（威力数倍于自身修为）、速度诡异极快、被抢杀时溢出生机白气",
-    "外形": "人形、全身脓包、指甲细长锋利、人形、外表可怕、神色狰狞",
-    "等级": "最高近天人第三衰，最低碎涅圆满"
+    "栖息地": "古之墓地雾海、云海之巅试炼路途的雾气之中、古之墓地封印之地",
+    "能力": "雾中隐匿偷袭、群体围攻、临死自爆（威力数倍于自身修为）、速度诡异极快、被抢杀时溢出生机白气、数万齐吼形成声浪重伤修士、群扑撕碎修士",
+    "外形": "人形、全身脓包、指甲细长锋利、人形、外表可怕、神色狰狞、人形，双目赤红",
+    "等级": "最高近天人第三衰，最低碎涅圆满",
+    "天敌": "王林的虚火"
   },
   "observations": {
     "栖息地": [
@@ -26,6 +28,11 @@
       {
         "value": "云海之巅试炼路途的雾气之中",
         "docId": "plot.xianni-ch1442-healing-opportunity-humanoid-beasts",
+        "seq": 1350
+      },
+      {
+        "value": "古之墓地封印之地",
+        "docId": "plot.xianni-ch1443-xuhuo-cultivator",
         "seq": 1350
       }
     ],
@@ -54,6 +61,16 @@
         "value": "被抢杀时溢出生机白气",
         "docId": "plot.xianni-ch1442-healing-opportunity-humanoid-beasts",
         "seq": 1350
+      },
+      {
+        "value": "数万齐吼形成声浪重伤修士",
+        "docId": "plot.xianni-ch1443-xuhuo-cultivator",
+        "seq": 1350
+      },
+      {
+        "value": "群扑撕碎修士",
+        "docId": "plot.xianni-ch1443-xuhuo-cultivator",
+        "seq": 1350
       }
     ],
     "外形": [
@@ -66,12 +83,24 @@
         "value": "人形、外表可怕、神色狰狞",
         "docId": "plot.xianni-ch1442-healing-opportunity-humanoid-beasts",
         "seq": 1350
+      },
+      {
+        "value": "人形，双目赤红",
+        "docId": "plot.xianni-ch1443-xuhuo-cultivator",
+        "seq": 1350
       }
     ],
     "等级": [
       {
         "value": "最高近天人第三衰，最低碎涅圆满",
         "docId": "plot.xianni-ch1442-healing-opportunity-humanoid-beasts",
+        "seq": 1350
+      }
+    ],
+    "天敌": [
+      {
+        "value": "王林的虚火",
+        "docId": "plot.xianni-ch1443-xuhuo-cultivator",
         "seq": 1350
       }
     ]
@@ -101,13 +130,20 @@
       "docId": "plot.xianni-ch1442-healing-opportunity-humanoid-beasts",
       "dated": false,
       "seq": 1350
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1443-xuhuo-cultivator",
+      "dated": false,
+      "seq": 1350
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1441-tomb-outer-trial-and-xuhuo-rumors",
-    "plot.xianni-ch1442-healing-opportunity-humanoid-beasts"
+    "plot.xianni-ch1442-healing-opportunity-humanoid-beasts",
+    "plot.xianni-ch1443-xuhuo-cultivator"
   ],
-  "updatedAt": "2026-08-25T19:15:19.223Z"
+  "updatedAt": "2026-08-25T19:17:38.420Z"
 }

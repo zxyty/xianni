@@ -4,12 +4,13 @@
   "name": "持酒壶中年修士",
   "aliases": [
     "左手酒壶右手持剑的中年修士",
-    "酒壶剑修"
+    "酒壶剑修",
+    "左手拿着酒壶的中年修士"
   ],
   "summary": "同组修士，仰天长笑迎战上百凶兽，尚未施展神通即被王林抢杀大半，随后率先看出生机入体的端倪。",
   "attributes": {
     "性别": "男",
-    "外貌": "中年，左手酒壶右手持剑",
+    "外貌": "中年，左手酒壶右手持剑、中年，左手持酒壶",
     "性格": "豪迈、心机深沉"
   },
   "observations": {
@@ -24,6 +25,11 @@
       {
         "value": "中年，左手酒壶右手持剑",
         "docId": "plot.xianni-ch1442-healing-opportunity-humanoid-beasts",
+        "seq": 1350
+      },
+      {
+        "value": "中年，左手持酒壶",
+        "docId": "plot.xianni-ch1443-xuhuo-cultivator",
         "seq": 1350
       }
     ],
@@ -59,7 +65,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1442-healing-opportunity-humanoid-beasts"
+    "plot.xianni-ch1442-healing-opportunity-humanoid-beasts",
+    "plot.xianni-ch1443-xuhuo-cultivator"
   ],
-  "updatedAt": "2026-08-25T19:15:19.226Z"
+  "updatedAt": "2026-08-25T19:17:38.433Z"
 }
