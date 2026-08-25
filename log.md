@@ -792,3 +792,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T17:30:12.945Z** `ingest` plot.xianni-ch1420-challenge-third-step-simozi-battle — 第1420章 战！！——王林挑战第三步大能司墨子，九炎龙对破空九灭 · kind=plot asOf=2026-08-25 entities=12 relations=16 src=01326-01330.p5.md
 - **2026-08-25T17:32:24.536Z** `ingest` plot.xianni-1421-xianghuo-yibai — 仙逆 第1421章 香火一拜！——王林凝天地虚火战司墨子，司墨子开香火界 · kind=plot asOf=2026-08-25 entities=17 relations=24 src=01331-01335.p1.md
 - **2026-08-25T17:34:54.495Z** `ingest` plot.xianni-1422-feng-xianghuo-jie — 仙逆 第1422章 封香火界！——王林太古雷界对轰香火风暴、古息叶封界 · kind=plot asOf=2026-08-25 entities=29 relations=36 src=01331-01335.p2.md
+- **2026-08-25T17:37:10.212Z** `ingest` plot.xianni-ch1423-wanglin-tianhuanglu-refines-simozi — 第1423章 人杰！——王林以天皇炉炼化第三步大能司墨子 · kind=plot asOf=2026-08-25 entities=24 relations=33 src=01331-01335.p3.md
