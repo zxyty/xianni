@@ -723,3 +723,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T11:47:47.898Z** `ingest` plot.xianni-1341-i-am-the-heavenly-tribulation — 第1341章 我就是天劫！——王林反杀闪雷族「化身天道」四人组与阴虚修士 · kind=plot asOf=2026-08-25 entities=16 relations=26 src=01255-01259.p2.md
 - **2026-08-25T11:50:27.612Z** `ingest` plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu — 第1342章 雷修大能之路——王林融合灵念之雷，悟得十道圆满雷本源，血洗闪雷族 · kind=plot asOf=2026-08-25 entities=21 relations=28 src=01255-01259.p3.md
 - **2026-08-25T11:52:53.940Z** `ingest` plot.xianni-1343-bait-wang-lin-slaughters-shan-lei-clan — 第1343章 诱饵——王林借渡劫者引杀闪雷族百人、收念雷并逼问散灵上人 · kind=plot asOf=2026-08-25 entities=20 relations=37 src=01255-01259.p4.md
+- **2026-08-25T11:55:16.445Z** `ingest` plot.xianni-ch1344-san-ling-shang-ren — 第1344章 散灵上人：九百七十一分身与世界尽头之约 · kind=plot asOf=2026-08-25 entities=19 relations=31 src=01255-01259.p5.md
