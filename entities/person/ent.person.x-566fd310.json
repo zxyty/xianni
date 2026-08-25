@@ -16,7 +16,9 @@
   "attributes": {
     "外貌": "身穿灰衣、衣下身体半透明可见血肉、无头发、双目无生气",
     "标志特征": "所过之处寒气弥漫、夺取修士道境、尸体腐化为血水涌入其体内",
-    "身份": "失道者"
+    "身份": "失道者",
+    "存殁": "死亡",
+    "死因": "随白发老者召唤道念而亡"
   },
   "observations": {
     "外貌": [
@@ -49,6 +51,20 @@
         "docId": "plot.xianni-1188-dao-jing-ming-zhi-zhe",
         "seq": 1105
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch1223-jingbian-qicai-wu-yu-xuanwo",
+        "seq": 1137
+      }
+    ],
+    "死因": [
+      {
+        "value": "随白发老者召唤道念而亡",
+        "docId": "plot.xianni-ch1223-jingbian-qicai-wu-yu-xuanwo",
+        "seq": 1137
+      }
     ]
   },
   "firstSeq": 1100,
@@ -70,6 +86,18 @@
       "docId": "plot.xianni-1188-dao-jing-ming-zhi-zhe",
       "dated": false,
       "seq": 1105
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1223-jingbian-qicai-wu-yu-xuanwo",
+      "dated": false,
+      "seq": 1137
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1223-jingbian-qicai-wu-yu-xuanwo",
+      "dated": false,
+      "seq": 1137
     }
   },
   "contested": false,
@@ -82,7 +110,8 @@
     "plot.xianni-ch1199-wendao-qicaijie-dao-ascension",
     "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
     "plot.xianni-1201-shouhu-qicaijie-canglaozhe-daonian-jingshi",
-    "plot.xianni-1203-dao-marrow-simamo-cave-secrets"
+    "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
+    "plot.xianni-ch1223-jingbian-qicai-wu-yu-xuanwo"
   ],
-  "updatedAt": "2026-08-25T00:24:00.271Z"
+  "updatedAt": "2026-08-25T02:15:13.672Z"
 }

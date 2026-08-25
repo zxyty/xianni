@@ -13,13 +13,15 @@
     "铭志者修士",
     "养道之物",
     "铭志者一族",
-    "雾中铭志者"
+    "雾中铭志者",
+    "铭志之人"
   ],
   "summary": "拥有道境却因看了道经而道心崩溃、无法重聚的存在，化作执念道魂飘荡于七彩界雾中，无数万万年追寻。",
   "attributes": {
     "身份": "因看道经而道心崩溃者、铭志者",
     "标志特征": "以蕴含穿透灵魂之力的『铭志』语句环绕，虚幻之影飘过",
-    "存殁": "或已死亡，仅余执念道魂"
+    "存殁": "死亡",
+    "死因": "随白发老者召唤道念而亡"
   },
   "observations": {
     "身份": [
@@ -47,6 +49,18 @@
         "docId": "plot.xianni-1188-dao-jing-ming-zhi-zhe",
         "seq": 1105,
         "note": "苍松子之说"
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch1223-jingbian-qicai-wu-yu-xuanwo",
+        "seq": 1137
+      }
+    ],
+    "死因": [
+      {
+        "value": "随白发老者召唤道念而亡",
+        "docId": "plot.xianni-ch1223-jingbian-qicai-wu-yu-xuanwo",
+        "seq": 1137
       }
     ]
   },
@@ -66,10 +80,15 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-1188-dao-jing-ming-zhi-zhe",
+      "docId": "plot.xianni-ch1223-jingbian-qicai-wu-yu-xuanwo",
       "dated": false,
-      "seq": 1105,
-      "note": "苍松子之说"
+      "seq": 1137
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1223-jingbian-qicai-wu-yu-xuanwo",
+      "dated": false,
+      "seq": 1137
     }
   },
   "contested": false,
@@ -86,7 +105,8 @@
     "plot.xianni-1201-shouhu-qicaijie-canglaozhe-daonian-jingshi",
     "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
     "plot.xianni-1204-tiandao-zhi-ji-zhanxingye-remains",
-    "plot.xianni-1210-blue-vermillion-bird-third-awakening"
+    "plot.xianni-1210-blue-vermillion-bird-third-awakening",
+    "plot.xianni-ch1223-jingbian-qicai-wu-yu-xuanwo"
   ],
-  "updatedAt": "2026-08-25T00:46:47.995Z"
+  "updatedAt": "2026-08-25T02:15:13.672Z"
 }
