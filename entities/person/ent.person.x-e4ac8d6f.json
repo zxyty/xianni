@@ -9,18 +9,23 @@
     "Jin Biao Zi",
     "千年换一名的骗子",
     "道号金彪子",
-    "白发道袍老者"
+    "白发道袍老者",
+    "玉佩光芒中的老者",
+    "老者刘金彪",
+    "行骗老者"
   ],
   "summary": "自报道号金彪子的老者，以蕴含碎涅气息的玉简击破天罡宗护山大阵，精准报出宗内三人生平以立威，勒索六万元晶；疑即传闻中每千年现身一次、一千年换一个名字、专挑濒散弱宗行骗之人。",
   "attributes": {
     "道号": "金彪子",
-    "性格": "阴险得意、贪财好色、谨慎小心",
-    "身份": "碎涅大圆满老怪",
+    "性格": "桀骜、阴沉、善于攻心、阴险得意、贪财好色、谨慎小心、怯懦贪生，危急时怂恿玉佩吞噬王林；败后跪地磕头哀求",
+    "身份": "行骗于云海盛典的老骗子、碎涅大圆满老怪、以玉佩行骗的散修骗子",
     "称号": "老夫刘金彪",
     "性别": "男",
     "外貌": "白发苍苍、身穿道袍、仙风道骨",
     "小阶段": "似不久前刚突破问鼎、达到阴虚之境",
-    "标志特征": "凭玉佩行骗多年从未失手"
+    "标志特征": "凭玉佩行骗多年从未失手",
+    "结局": "被王林收入储物空间，交给许立国『好好教训一二』",
+    "存殁": "存活"
   },
   "observations": {
     "道号": [
@@ -40,6 +45,11 @@
         "value": "阴险得意、贪财好色、谨慎小心",
         "docId": "plot.xianni-1267-liu-jin-biao-jade-pendant-extortion",
         "seq": 1183
+      },
+      {
+        "value": "怯懦贪生，危急时怂恿玉佩吞噬王林；败后跪地磕头哀求",
+        "docId": "plot.xianni-1268-tianni-vanishes-jade-pendant-centipedes",
+        "seq": 1183
       }
     ],
     "身份": [
@@ -54,6 +64,11 @@
         "docId": "plot.xianni-1267-liu-jin-biao-jade-pendant-extortion",
         "seq": 1183,
         "note": "借玉佩伪装，实为骗子"
+      },
+      {
+        "value": "以玉佩行骗的散修骗子",
+        "docId": "plot.xianni-1268-tianni-vanishes-jade-pendant-centipedes",
+        "seq": 1183
       }
     ],
     "称号": [
@@ -90,6 +105,20 @@
         "docId": "plot.xianni-1267-liu-jin-biao-jade-pendant-extortion",
         "seq": 1183
       }
+    ],
+    "结局": [
+      {
+        "value": "被王林收入储物空间，交给许立国『好好教训一二』",
+        "docId": "plot.xianni-1268-tianni-vanishes-jade-pendant-centipedes",
+        "seq": 1183
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-1268-tianni-vanishes-jade-pendant-centipedes",
+        "seq": 1183
+      }
     ]
   },
   "firstSeq": 1146,
@@ -102,16 +131,16 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-1267-liu-jin-biao-jade-pendant-extortion",
+      "docId": "plot.xianni-1228-liu-jin-biao-yunhai-fenzong-dabi",
       "dated": false,
-      "seq": 1183
+      "seq": 1146
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1267-liu-jin-biao-jade-pendant-extortion",
+      "docId": "plot.xianni-1228-liu-jin-biao-yunhai-fenzong-dabi",
       "dated": false,
-      "seq": 1183,
-      "note": "借玉佩伪装，实为骗子"
+      "seq": 1146,
+      "note": "章内为疑似，非明言坐实"
     },
     "称号": {
       "asOf": null,
@@ -142,6 +171,18 @@
       "docId": "plot.xianni-1267-liu-jin-biao-jade-pendant-extortion",
       "dated": false,
       "seq": 1183
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-1268-tianni-vanishes-jade-pendant-centipedes",
+      "dated": false,
+      "seq": 1183
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1268-tianni-vanishes-jade-pendant-centipedes",
+      "dated": false,
+      "seq": 1183
     }
   },
   "contested": false,
@@ -149,7 +190,8 @@
   "docs": [
     "plot.xianni-1228-liu-jin-biao-yunhai-fenzong-dabi",
     "plot.xianni-1266-tianyunzi-soul-fusion-death-foresight",
-    "plot.xianni-1267-liu-jin-biao-jade-pendant-extortion"
+    "plot.xianni-1267-liu-jin-biao-jade-pendant-extortion",
+    "plot.xianni-1268-tianni-vanishes-jade-pendant-centipedes"
   ],
-  "updatedAt": "2026-08-25T05:24:03.554Z"
+  "updatedAt": "2026-08-25T05:26:48.060Z"
 }
