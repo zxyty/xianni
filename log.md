@@ -735,3 +735,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T12:15:16.725Z** `ingest` plot.xianni-1353-shanlei-war-7-thunder-source-surge — 第1353章 闪雷之战（七）：王林吞太古雷龙魂化闪电图腾，大长老燃寿元引不灭圣雷 · kind=plot asOf=2026-08-25 entities=21 relations=35 src=01265-01269.p4.md
 - **2026-08-25T12:17:31.039Z** `ingest` plot.xianni-ch1354-seven-swords-slash-heaven-mountain-1 — 第1354章 七剑斩天山（一）：王林与散灵上人联手围攻闪雷族大长老 · kind=plot asOf=2026-08-25 entities=16 relations=27 src=01265-01269.p5.md
 - **2026-08-25T12:19:59.668Z** `ingest` plot.xianni-ch1355-seven-swords-slash-heaven-mountain-2 — 仙逆 第1355章 七剑斩天山（二）：六道神雷对香火，闪雷族大长老祭出不灭圣雷 · kind=plot asOf=2026-08-25 entities=25 relations=33 src=01270-01274.p1.md
+- **2026-08-25T12:22:00.847Z** `ingest` plot.xianni-1356-seven-swords-slash-heaven-3 — 第1356章 七剑斩天山（三）：七百万天地生灵大阵与第一剑 · kind=plot asOf=2026-08-25 entities=15 relations=22 src=01270-01274.p2.md

@@ -3,12 +3,16 @@
   "type": "formation",
   "name": "七百万天地亿万生灵大阵",
   "aliases": [
-    "亿万生灵大阵"
+    "亿万生灵大阵",
+    "绝天之阵",
+    "封印大阵",
+    "七百万天地生灵大阵"
   ],
   "summary": "散灵上人章末盘膝开启的大阵，即其先前所称「七成把握」的真正依托。",
   "attributes": {
     "布置者": "散灵上人",
-    "效果": "以七百万天地亿万生灵为凭对抗闪雷族大长老"
+    "效果": "以七百万天地亿万生灵为凭对抗闪雷族大长老、封印八荒、阻止一切外在之力踏入半步、抵挡不灭雷霆轰击、凝聚出斩天之剑",
+    "出处": "散灵上人之道"
   },
   "observations": {
     "布置者": [
@@ -22,6 +26,28 @@
       {
         "value": "以七百万天地亿万生灵为凭对抗闪雷族大长老",
         "docId": "plot.xianni-ch1355-seven-swords-slash-heaven-mountain-2",
+        "seq": 1270
+      },
+      {
+        "value": "封印八荒、阻止一切外在之力踏入半步",
+        "docId": "plot.xianni-1356-seven-swords-slash-heaven-3",
+        "seq": 1270
+      },
+      {
+        "value": "抵挡不灭雷霆轰击",
+        "docId": "plot.xianni-1356-seven-swords-slash-heaven-3",
+        "seq": 1270
+      },
+      {
+        "value": "凝聚出斩天之剑",
+        "docId": "plot.xianni-1356-seven-swords-slash-heaven-3",
+        "seq": 1270
+      }
+    ],
+    "出处": [
+      {
+        "value": "散灵上人之道",
+        "docId": "plot.xianni-1356-seven-swords-slash-heaven-3",
         "seq": 1270
       }
     ]
@@ -39,12 +65,19 @@
       "docId": "plot.xianni-ch1355-seven-swords-slash-heaven-mountain-2",
       "dated": false,
       "seq": 1270
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.xianni-1356-seven-swords-slash-heaven-3",
+      "dated": false,
+      "seq": 1270
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1355-seven-swords-slash-heaven-mountain-2"
+    "plot.xianni-ch1355-seven-swords-slash-heaven-mountain-2",
+    "plot.xianni-1356-seven-swords-slash-heaven-3"
   ],
-  "updatedAt": "2026-08-25T12:19:59.347Z"
+  "updatedAt": "2026-08-25T12:22:00.383Z"
 }
