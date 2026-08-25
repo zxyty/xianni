@@ -709,3 +709,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T10:10:41.277Z** `ingest` plot.xianni-1324-walking-out-of-lansi — 第1324章 走出蓝丝！——月噬族青云灵术之秘与白衣女子三度拦路 · kind=plot asOf=2026-08-25 entities=30 relations=43 src=01237-01241.p3.md
 - **2026-08-25T10:12:40.071Z** `ingest` plot.xianni-ch1325-projection-avatar-white-robed-woman-battle — 第1325章 投影分身——王林翻天印破敌，白衣女子求援本尊 · kind=plot asOf=2026-08-25 entities=13 relations=18 src=01237-01241.p4.md
 - **2026-08-25T10:15:17.362Z** `ingest` plot.xianni-ch1326-zhuisha-wang-lin-pursues-lanfei-avatar — 第1326章 追杀：王林反追兰妃分身，古神指骨挡本尊一指 · kind=plot asOf=2026-08-25 entities=21 relations=30 src=01237-01241.p5.md
+- **2026-08-25T10:35:25.042Z** `ingest` plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam — 仙逆 第1327章 骗局——白衣女子被斩·兰妃投影金线被银尸吞噬·香火是毒的警示 · kind=plot asOf=2026-08-25 entities=88 relations=144 src=01242-01245.md
