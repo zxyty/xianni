@@ -605,3 +605,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T00:34:36.227Z** `ingest` plot.xianni-1207-lei-huo-wang-lin-duo-quan — 第1207章 雷？火？——王林秒杀闪雷族、火雀族青年，剥夺两族雷火之权 · kind=plot asOf=2026-08-25 entities=20 relations=28 src=01123-01126.p3.md
 - **2026-08-25T00:37:02.933Z** `ingest` plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu — 第1208章 解太古之约：王林以王族古神之命废除古神对月噬奴族的庇护 · kind=plot asOf=2026-08-25 entities=17 relations=28 src=01123-01126.p4.md
 - **2026-08-25T00:44:48.283Z** `ingest` plot.xianni-1209-yueshi-clan-ancient-god-statues-collapse — 第1209章 会么？——月噬族禁地九尊古神雕像崩塌、王林融白色朱雀之火 · kind=plot asOf=2026-08-25 entities=41 relations=66 src=01127-01131.p1.md
+- **2026-08-25T00:46:48.323Z** `ingest` plot.xianni-1210-blue-vermillion-bird-third-awakening — 第1210章 蓝色朱雀——朱雀第三次觉醒，浴火重生 · kind=plot asOf=2026-08-25 entities=17 relations=21 src=01127-01131.p2.md
