@@ -7,7 +7,9 @@
   ],
   "summary": "朱雀一族前辈，对王林有恩；本章王林在老朱雀身上找到其影子（回忆提及）。",
   "attributes": {
-    "阵营": "朱雀一族"
+    "阵营": "朱雀一族",
+    "存殁": "死亡",
+    "身份": "朱雀一族五代朱雀"
   },
   "observations": {
     "阵营": [
@@ -15,6 +17,20 @@
         "value": "朱雀一族",
         "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
         "seq": 1312
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch1414-dianluo-zhi-ming",
+        "seq": 1321
+      }
+    ],
+    "身份": [
+      {
+        "value": "朱雀一族五代朱雀",
+        "docId": "plot.xianni-ch1414-dianluo-zhi-ming",
+        "seq": 1321
       }
     ]
   },
@@ -25,12 +41,25 @@
       "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
       "dated": false,
       "seq": 1312
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1414-dianluo-zhi-ming",
+      "dated": false,
+      "seq": 1321
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1414-dianluo-zhi-ming",
+      "dated": false,
+      "seq": 1321
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1404-old-zhuque-protects-wang-lin"
+    "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
+    "plot.xianni-ch1414-dianluo-zhi-ming"
   ],
-  "updatedAt": "2026-08-25T16:41:13.665Z"
+  "updatedAt": "2026-08-25T17:15:01.274Z"
 }

@@ -14,7 +14,8 @@
     "阵营": "背叛四圣宗",
     "性格": "背叛者",
     "身份": "玄武圣宗圣皇",
-    "存殁": "死亡"
+    "存殁": "死亡",
+    "结局": "叛逃"
   },
   "observations": {
     "称号": [
@@ -76,6 +77,13 @@
         "docId": "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
         "seq": 1024
       }
+    ],
+    "结局": [
+      {
+        "value": "叛逃",
+        "docId": "plot.xianni-ch1414-dianluo-zhi-ming",
+        "seq": 1321
+      }
     ]
   },
   "firstSeq": 960,
@@ -110,6 +118,12 @@
       "docId": "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
       "dated": false,
       "seq": 1024
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1414-dianluo-zhi-ming",
+      "dated": false,
+      "seq": 1321
     }
   },
   "contested": false,
@@ -118,7 +132,8 @@
     "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
     "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
     "plot.xianni-1097-si-sheng-zong-mi-mi-si-fen-zhi-men",
-    "plot.xianni-ch1109-zhuque-old-shenghuang-guixu"
+    "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
+    "plot.xianni-ch1414-dianluo-zhi-ming"
   ],
-  "updatedAt": "2026-08-24T15:34:45.602Z"
+  "updatedAt": "2026-08-25T17:15:01.282Z"
 }

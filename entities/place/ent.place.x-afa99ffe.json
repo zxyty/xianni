@@ -6,7 +6,10 @@
   "summary": "地方界内的一座秃山，四代朱雀在此现身出手相助。",
   "attributes": {
     "类型": "山",
-    "所属界面": "地方界"
+    "所属界面": "地方界",
+    "方位": "地方界尽头",
+    "上级区域": "地方界",
+    "特产": "供奉老圣皇石像"
   },
   "observations": {
     "类型": [
@@ -21,6 +24,28 @@
         "value": "地方界",
         "docId": "plot.xianni-ch1412-nine-colors-into-one-fourth-zhuque-awakening",
         "seq": 1321
+      }
+    ],
+    "方位": [
+      {
+        "value": "地方界尽头",
+        "docId": "plot.xianni-ch1414-dianluo-zhi-ming",
+        "seq": 1321
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "地方界",
+        "docId": "plot.xianni-ch1414-dianluo-zhi-ming",
+        "seq": 1321
+      }
+    ],
+    "特产": [
+      {
+        "value": "供奉老圣皇石像",
+        "docId": "plot.xianni-ch1414-dianluo-zhi-ming",
+        "seq": 1321,
+        "note": "第1414章起"
       }
     ]
   },
@@ -37,12 +62,32 @@
       "docId": "plot.xianni-ch1412-nine-colors-into-one-fourth-zhuque-awakening",
       "dated": false,
       "seq": 1321
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1414-dianluo-zhi-ming",
+      "dated": false,
+      "seq": 1321
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1414-dianluo-zhi-ming",
+      "dated": false,
+      "seq": 1321
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1414-dianluo-zhi-ming",
+      "dated": false,
+      "seq": 1321,
+      "note": "第1414章起"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1412-nine-colors-into-one-fourth-zhuque-awakening"
+    "plot.xianni-ch1412-nine-colors-into-one-fourth-zhuque-awakening",
+    "plot.xianni-ch1414-dianluo-zhi-ming"
   ],
-  "updatedAt": "2026-08-25T17:09:34.108Z"
+  "updatedAt": "2026-08-25T17:15:01.293Z"
 }
