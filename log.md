@@ -761,3 +761,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T14:18:51.405Z** `ingest` plot.xianni-1382-gu-ren-longjia-clan-poison-pill — 第1382章 故人：龙甲族族长服毒丹自尽，王林受封少帝之威 · kind=plot asOf=2026-08-25 entities=36 relations=58 src=01292-01296.p5.md
 - **2026-08-25T14:36:50.408Z** `ingest` character.xianni-1383-tanlang-origin — 第1383章 贪狼：颠落之地的宝多修士与其身负臭气之恨 · kind=character asOf=2026-08-25 entities=76 relations=125 src=01297-01299.p1.md
 - **2026-08-25T14:39:15.239Z** `ingest` plot.xianni-1386-shou-bao-wang-lin-duo-tan-lang-fabao — 第1386章 收宝：王林尽夺贪狼法宝，贪狼惊逃颠落之地深处 · kind=plot asOf=2026-08-25 entities=26 relations=33 src=01297-01299.p2.md
+- **2026-08-25T14:41:26.252Z** `ingest` plot.xianni-ch1387-tanlang-clue-ancient-gods — 第1387章 线索——贪狼逃遁、一叶封天与三百古魔魂 · kind=plot asOf=2026-08-25 entities=17 relations=23 src=01297-01299.p3.md
