@@ -641,3 +641,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T03:58:56.779Z** `ingest` plot.xianni-1250-wuji-zong-five-tier-competition-lu-yuncong-refuses — 第1250章 叱咤无极（一）：卢云从拒战归元宗，吕子浩之名震动无极宗 · kind=plot asOf=2026-08-25 entities=25 relations=37 src=01165-01169.p4.md
 - **2026-08-25T04:01:25.703Z** `ingest` plot.xianni-1251-chizha-wuji-2-luyuncong-recounts-lu-zihao — 第1251章 叱咤无极（二）：卢云从当众追述吕子浩，玉简虚影惊动无极宗 · kind=plot asOf=2026-08-25 entities=23 relations=33 src=01165-01169.p5.md
 - **2026-08-25T04:03:56.713Z** `ingest` plot.xianni-1252-chizha-wuji-3-wang-lin-arrives-with-thunder — 《仙逆》第1252章 叱咤无极（三）：吕烟菲被迫应战，白发者携天雷降临 · kind=plot asOf=2026-08-25 entities=24 relations=35 src=01170-01173.p1.md
+- **2026-08-25T04:06:17.098Z** `ingest` plot.xianni-ch1253-wang-lin-descends-wuji-zong-kills-lu-yingjie — 第1253章 叱咤无极（四）：王林踏雷降临无极宗，一指灭吕英杰 · kind=plot asOf=2026-08-25 entities=31 relations=36 src=01170-01173.p2.md

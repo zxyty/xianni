@@ -10,8 +10,9 @@
   "attributes": {
     "身份": "无极宗宗主",
     "外貌": "身穿白袍的老者、白袍老者",
-    "小阶段": "碎涅巅峰",
-    "存殁": "在世"
+    "小阶段": "天人第一衰",
+    "存殁": "在世",
+    "阵营": "无极宗"
   },
   "observations": {
     "身份": [
@@ -38,12 +39,24 @@
         "value": "碎涅巅峰",
         "docId": "plot.xianni-1251-chizha-wuji-2-luyuncong-recounts-lu-zihao",
         "seq": 1165
+      },
+      {
+        "value": "天人第一衰",
+        "docId": "plot.xianni-ch1253-wang-lin-descends-wuji-zong-kills-lu-yingjie",
+        "seq": 1170
       }
     ],
     "存殁": [
       {
         "value": "在世",
         "docId": "plot.xianni-1252-chizha-wuji-3-wang-lin-arrives-with-thunder",
+        "seq": 1170
+      }
+    ],
+    "阵营": [
+      {
+        "value": "无极宗",
+        "docId": "plot.xianni-ch1253-wang-lin-descends-wuji-zong-kills-lu-yingjie",
         "seq": 1170
       }
     ]
@@ -64,13 +77,19 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-1251-chizha-wuji-2-luyuncong-recounts-lu-zihao",
+      "docId": "plot.xianni-ch1253-wang-lin-descends-wuji-zong-kills-lu-yingjie",
       "dated": false,
-      "seq": 1165
+      "seq": 1170
     },
     "存殁": {
       "asOf": null,
       "docId": "plot.xianni-1252-chizha-wuji-3-wang-lin-arrives-with-thunder",
+      "dated": false,
+      "seq": 1170
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1253-wang-lin-descends-wuji-zong-kills-lu-yingjie",
       "dated": false,
       "seq": 1170
     }
@@ -80,7 +99,8 @@
   "docs": [
     "plot.xianni-1250-wuji-zong-five-tier-competition-lu-yuncong-refuses",
     "plot.xianni-1251-chizha-wuji-2-luyuncong-recounts-lu-zihao",
-    "plot.xianni-1252-chizha-wuji-3-wang-lin-arrives-with-thunder"
+    "plot.xianni-1252-chizha-wuji-3-wang-lin-arrives-with-thunder",
+    "plot.xianni-ch1253-wang-lin-descends-wuji-zong-kills-lu-yingjie"
   ],
-  "updatedAt": "2026-08-25T04:03:56.384Z"
+  "updatedAt": "2026-08-25T04:06:16.760Z"
 }
