@@ -5,13 +5,16 @@
   "aliases": [
     "不灭雷霆",
     "完整不灭雷霆",
-    "万古不灭之雷霆"
+    "万古不灭之雷霆",
+    "闪雷族不灭雷霆"
   ],
   "summary": "自星空无尽虚无落下、连接天地的雷霆，立于闪雷族圣地中心庙宇之上，大长老在其内闭关；王林此行目标即是「收不灭天雷」。",
   "attributes": {
     "来历": "闪雷族圣地庙宇",
-    "能力": "连接天地、可供闭关修炼、与王林所引雷霆相抗、破开虚无降临、连接天地反复轰击",
-    "外形": "粗大闪电"
+    "能力": "连接天地、可供闭关修炼、与王林所引雷霆相抗、破开虚无降临、连接天地反复轰击、雷霆本源之力",
+    "外形": "粗大闪电",
+    "持有者": "闪雷族",
+    "五行属性": "雷"
   },
   "observations": {
     "来历": [
@@ -46,6 +49,11 @@
         "value": "破开虚无降临、连接天地反复轰击",
         "docId": "plot.xianni-1356-seven-swords-slash-heaven-3",
         "seq": 1270
+      },
+      {
+        "value": "雷霆本源之力",
+        "docId": "plot.xianni-ch1359-legend-of-third-step",
+        "seq": 1270
       }
     ],
     "外形": [
@@ -57,6 +65,20 @@
       {
         "value": "粗大闪电",
         "docId": "plot.xianni-1356-seven-swords-slash-heaven-3",
+        "seq": 1270
+      }
+    ],
+    "持有者": [
+      {
+        "value": "闪雷族",
+        "docId": "plot.xianni-ch1359-legend-of-third-step",
+        "seq": 1270
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "雷",
+        "docId": "plot.xianni-ch1359-legend-of-third-step",
         "seq": 1270
       }
     ]
@@ -80,6 +102,18 @@
       "docId": "plot.xianni-1356-seven-swords-slash-heaven-3",
       "dated": false,
       "seq": 1270
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1359-legend-of-third-step",
+      "dated": false,
+      "seq": 1270
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1359-legend-of-third-step",
+      "dated": false,
+      "seq": 1270
     }
   },
   "contested": false,
@@ -87,7 +121,8 @@
   "docs": [
     "plot.xianni-1347-shanlei-war-1",
     "plot.xianni-ch1354-seven-swords-slash-heaven-mountain-1",
-    "plot.xianni-1356-seven-swords-slash-heaven-3"
+    "plot.xianni-1356-seven-swords-slash-heaven-3",
+    "plot.xianni-ch1359-legend-of-third-step"
   ],
-  "updatedAt": "2026-08-25T12:22:00.382Z"
+  "updatedAt": "2026-08-25T12:30:03.643Z"
 }
