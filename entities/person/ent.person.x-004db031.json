@@ -10,8 +10,10 @@
   "summary": "冯海之前从寻栾宗走出的修士，如今为无极宗太上长老之一；修为极高但性格古怪、不问世事，也未暗中帮助寻栾宗，冯海指望其因王林在宗内杀人而生不喜。",
   "attributes": {
     "身份": "无极宗太上长老、当年寻栾宗第一代宗主",
-    "性格": "古怪，已不问世事",
-    "标志特征": "驾长虹而来，气息无喜无悲"
+    "性格": "痴迷修道、不问世事、败而服善",
+    "标志特征": "驾长虹而来，气息无喜无悲",
+    "外貌": "白发老者",
+    "阵营": "无极宗"
   },
   "observations": {
     "身份": [
@@ -31,6 +33,11 @@
         "value": "古怪，已不问世事",
         "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
         "seq": 1174
+      },
+      {
+        "value": "痴迷修道、不问世事、败而服善",
+        "docId": "plot.xianni-1260-yinxian-shengsijie-wuji-zong-shanmen",
+        "seq": 1178
       }
     ],
     "标志特征": [
@@ -38,6 +45,20 @@
         "value": "驾长虹而来，气息无喜无悲",
         "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
         "seq": 1174
+      }
+    ],
+    "外貌": [
+      {
+        "value": "白发老者",
+        "docId": "plot.xianni-1260-yinxian-shengsijie-wuji-zong-shanmen",
+        "seq": 1178
+      }
+    ],
+    "阵营": [
+      {
+        "value": "无极宗",
+        "docId": "plot.xianni-1260-yinxian-shengsijie-wuji-zong-shanmen",
+        "seq": 1178
       }
     ]
   },
@@ -51,21 +72,34 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
+      "docId": "plot.xianni-1260-yinxian-shengsijie-wuji-zong-shanmen",
       "dated": false,
-      "seq": 1174
+      "seq": 1178
     },
     "标志特征": {
       "asOf": null,
       "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
       "dated": false,
       "seq": 1174
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-1260-yinxian-shengsijie-wuji-zong-shanmen",
+      "dated": false,
+      "seq": 1178
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1260-yinxian-shengsijie-wuji-zong-shanmen",
+      "dated": false,
+      "seq": 1178
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong"
+    "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
+    "plot.xianni-1260-yinxian-shengsijie-wuji-zong-shanmen"
   ],
-  "updatedAt": "2026-08-25T04:28:57.223Z"
+  "updatedAt": "2026-08-25T04:31:32.540Z"
 }

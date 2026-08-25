@@ -3,11 +3,14 @@
   "type": "person",
   "name": "王珊珊的师尊",
   "aliases": [
-    "珊珊师尊"
+    "珊珊师尊",
+    "神宗师尊",
+    "王珊珊师尊"
   ],
   "summary": "曾施展抽取星魂，断言云海星域能抽星魂者不超过三人。",
   "attributes": {
-    "身份": "王珊珊之师"
+    "身份": "王珊珊之师",
+    "阵营": "神宗"
   },
   "observations": {
     "身份": [
@@ -15,6 +18,13 @@
         "value": "王珊珊之师",
         "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
         "seq": 1174
+      }
+    ],
+    "阵营": [
+      {
+        "value": "神宗",
+        "docId": "plot.xianni-1260-yinxian-shengsijie-wuji-zong-shanmen",
+        "seq": 1178
       }
     ]
   },
@@ -25,12 +35,19 @@
       "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
       "dated": false,
       "seq": 1174
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1260-yinxian-shengsijie-wuji-zong-shanmen",
+      "dated": false,
+      "seq": 1178
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong"
+    "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
+    "plot.xianni-1260-yinxian-shengsijie-wuji-zong-shanmen"
   ],
-  "updatedAt": "2026-08-25T04:28:57.188Z"
+  "updatedAt": "2026-08-25T04:31:32.547Z"
 }
