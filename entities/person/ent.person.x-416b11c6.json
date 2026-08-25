@@ -3,12 +3,14 @@
   "type": "person",
   "name": "神秘大帝",
   "aliases": [
-    "那神秘的大帝"
+    "那神秘的大帝",
+    "大帝星之主"
   ],
   "summary": "颠落之地的神秘存在，赐王林少帝之位与好处；王林试探后判定其根本不在乎落生会，其身份与图谋未明。",
   "attributes": {
-    "身份": "大帝",
-    "阵营": "颠落之地大帝星一方"
+    "身份": "大帝、大帝星主宰、赛事主办者",
+    "阵营": "颠落之地大帝星一方",
+    "称号": "大帝"
   },
   "observations": {
     "身份": [
@@ -17,12 +19,24 @@
         "docId": "plot.xianni-1399-guhun-jin-dadi-xing",
         "seq": 1307,
         "note": "身份来历未明"
+      },
+      {
+        "value": "大帝星主宰、赛事主办者",
+        "docId": "plot.xianni-1400-huxin-cangyue-dadixing-guhunjin-nitu-tuiyan",
+        "seq": 1307
       }
     ],
     "阵营": [
       {
         "value": "颠落之地大帝星一方",
         "docId": "plot.xianni-1399-guhun-jin-dadi-xing",
+        "seq": 1307
+      }
+    ],
+    "称号": [
+      {
+        "value": "大帝",
+        "docId": "plot.xianni-1400-huxin-cangyue-dadixing-guhunjin-nitu-tuiyan",
         "seq": 1307
       }
     ]
@@ -41,12 +55,19 @@
       "docId": "plot.xianni-1399-guhun-jin-dadi-xing",
       "dated": false,
       "seq": 1307
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-1400-huxin-cangyue-dadixing-guhunjin-nitu-tuiyan",
+      "dated": false,
+      "seq": 1307
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1399-guhun-jin-dadi-xing"
+    "plot.xianni-1399-guhun-jin-dadi-xing",
+    "plot.xianni-1400-huxin-cangyue-dadixing-guhunjin-nitu-tuiyan"
   ],
-  "updatedAt": "2026-08-25T16:29:24.785Z"
+  "updatedAt": "2026-08-25T16:31:39.321Z"
 }
