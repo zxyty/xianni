@@ -4,11 +4,14 @@
   "name": "昆虚圣地",
   "aliases": [
     "Kun Xu Sheng Di",
-    "昆虚圣地资格"
+    "昆虚圣地资格",
+    "昆虚圣地遗址"
   ],
   "summary": "数万年前虚空子亲自送凌天候与天运子进入的圣地，是二人共同渊源之地。",
   "attributes": {
-    "类型": "圣地"
+    "类型": "圣地",
+    "上级区域": "昆虚星域",
+    "危险度": "已崩溃湮灭"
   },
   "observations": {
     "类型": [
@@ -16,6 +19,21 @@
         "value": "圣地",
         "docId": "plot.xianni-ch997-xukongzi-arrival",
         "seq": 926
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "昆虚星域",
+        "docId": "plot.xianni-1217-tuosen-awakens-sweeps-star-domain",
+        "seq": 1132
+      }
+    ],
+    "危险度": [
+      {
+        "value": "已崩溃湮灭",
+        "docId": "plot.xianni-1217-tuosen-awakens-sweeps-star-domain",
+        "seq": 1132,
+        "note": "第1217章被拓森毁灭"
       }
     ]
   },
@@ -26,12 +44,26 @@
       "docId": "plot.xianni-ch997-xukongzi-arrival",
       "dated": false,
       "seq": 926
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-1217-tuosen-awakens-sweeps-star-domain",
+      "dated": false,
+      "seq": 1132
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-1217-tuosen-awakens-sweeps-star-domain",
+      "dated": false,
+      "seq": 1132,
+      "note": "第1217章被拓森毁灭"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch997-xukongzi-arrival"
+    "plot.xianni-ch997-xukongzi-arrival",
+    "plot.xianni-1217-tuosen-awakens-sweeps-star-domain"
   ],
-  "updatedAt": "2026-08-24T03:54:08.441Z"
+  "updatedAt": "2026-08-25T01:56:57.216Z"
 }

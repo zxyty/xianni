@@ -20,13 +20,14 @@
     "性别": "女",
     "身份": "周茹的师傅",
     "称号": "昆虚圣女",
-    "性格": "高傲、无情之道、极为冰冷、冷漠、斩钉截铁、不容妥协、无尽冰冷、心绪复杂、执念深重（数无数年始终想见王平）、冰冷、隐忍、克制、道心有破绽",
+    "性格": "高傲、无情之道、极为冰冷、冷漠、斩钉截铁、不容妥协、无尽冰冷、心绪复杂、执念深重（数无数年始终想见王平）、冰冷、隐忍、克制、道心有破绽、孤高，此时孤独",
     "分身": "第九分身（因劫而毁，因王林而涅）",
     "外貌": "绝美容颜，发髻上插翠玉钗",
-    "标志特征": "虚空开裂缝取物，闪烁如飘舞蝴蝶",
+    "标志特征": "拓森留下的一道印记",
     "本命法宝": "短剑",
-    "存殁": "存活、存活（喷血昏倒）",
-    "阵营": "昆虚之境"
+    "存殁": "存活、存活（喷血昏倒）、元神重伤失踪、肉身崩溃、元神逃遁后重凝肉身",
+    "阵营": "昆虚之境",
+    "死因": "被拓森重伤致肉身崩溃"
   },
   "observations": {
     "性别": [
@@ -113,6 +114,11 @@
         "docId": "plot.xianni-1124-parting-wang-lin-leaves-mu-bingmei-qinglong-shengzun",
         "seq": 1039,
         "note": "本章：道心因柳眉一事出现破绽"
+      },
+      {
+        "value": "孤高，此时孤独",
+        "docId": "plot.xianni-1217-tuosen-awakens-sweeps-star-domain",
+        "seq": 1132
       }
     ],
     "分身": [
@@ -155,6 +161,12 @@
         "value": "虚空开裂缝取物，闪烁如飘舞蝴蝶",
         "docId": "plot.xianni-1079-mu-bingmei-thirty-three-swords",
         "seq": 997
+      },
+      {
+        "value": "拓森留下的一道印记",
+        "docId": "plot.xianni-1217-tuosen-awakens-sweeps-star-domain",
+        "seq": 1132,
+        "note": "第1217章起"
       }
     ],
     "本命法宝": [
@@ -174,6 +186,18 @@
         "value": "存活（喷血昏倒）",
         "docId": "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
         "seq": 1002
+      },
+      {
+        "value": "元神重伤失踪",
+        "docId": "plot.xianni-1217-tuosen-awakens-sweeps-star-domain",
+        "seq": 1132,
+        "note": "肉身崩溃，被拓森留下印记后放走"
+      },
+      {
+        "value": "肉身崩溃、元神逃遁后重凝肉身",
+        "docId": "plot.xianni-1217-tuosen-awakens-sweeps-star-domain",
+        "seq": 1132,
+        "note": "本章仍在凝聚中"
       }
     ],
     "阵营": [
@@ -187,6 +211,14 @@
         "value": "昆虚之境",
         "docId": "plot.xianni-ch1123-duibuqi-zhouru-kunxu-departure",
         "seq": 1039
+      }
+    ],
+    "死因": [
+      {
+        "value": "被拓森重伤致肉身崩溃",
+        "docId": "plot.xianni-1217-tuosen-awakens-sweeps-star-domain",
+        "seq": 1132,
+        "note": "元神未灭"
       }
     ]
   },
@@ -231,9 +263,10 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-1079-mu-bingmei-thirty-three-swords",
+      "docId": "plot.xianni-1217-tuosen-awakens-sweeps-star-domain",
       "dated": false,
-      "seq": 997
+      "seq": 1132,
+      "note": "第1217章起"
     },
     "本命法宝": {
       "asOf": null,
@@ -252,6 +285,13 @@
       "docId": "plot.xianni-ch1123-duibuqi-zhouru-kunxu-departure",
       "dated": false,
       "seq": 1039
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-1217-tuosen-awakens-sweeps-star-domain",
+      "dated": false,
+      "seq": 1132,
+      "note": "元神未灭"
     }
   },
   "contested": false,
@@ -269,7 +309,8 @@
     "plot.xianni-ch1122-zhou-ru-forbidden-area-slaughter",
     "plot.xianni-ch1123-duibuqi-zhouru-kunxu-departure",
     "plot.xianni-1124-parting-wang-lin-leaves-mu-bingmei-qinglong-shengzun",
-    "plot.xianni-1177-shenmojia-auction-yunhai"
+    "plot.xianni-1177-shenmojia-auction-yunhai",
+    "plot.xianni-1217-tuosen-awakens-sweeps-star-domain"
   ],
-  "updatedAt": "2026-08-24T21:15:52.723Z"
+  "updatedAt": "2026-08-25T01:56:57.246Z"
 }
