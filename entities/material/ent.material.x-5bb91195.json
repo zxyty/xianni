@@ -3,13 +3,14 @@
   "type": "material",
   "name": "水月草",
   "aliases": [
-    "水月灵草"
+    "水月灵草",
+    "散发柔柔月光的芝草"
   ],
   "summary": "洛河门药峰所产灵草，师尊命婉儿采来以重炼失败的丹药。",
   "attributes": {
-    "类型": "炼丹灵草",
-    "用途": "重炼丹药",
-    "产地": "洛河门药峰"
+    "类型": "灵草",
+    "用途": "炼丹药材",
+    "产地": "洛河门后山山峰"
   },
   "observations": {
     "类型": [
@@ -17,6 +18,11 @@
         "value": "炼丹灵草",
         "docId": "plot.xianni-ch1406-ruo-hun-bei-ren-fang-zhi-xiang",
         "seq": 1312
+      },
+      {
+        "value": "灵草",
+        "docId": "plot.xianni-1407-renfang-jie-li-muwan-wo-buyuan",
+        "seq": 1317
       }
     ],
     "用途": [
@@ -24,6 +30,11 @@
         "value": "重炼丹药",
         "docId": "plot.xianni-ch1406-ruo-hun-bei-ren-fang-zhi-xiang",
         "seq": 1312
+      },
+      {
+        "value": "炼丹药材",
+        "docId": "plot.xianni-1407-renfang-jie-li-muwan-wo-buyuan",
+        "seq": 1317
       }
     ],
     "产地": [
@@ -31,6 +42,11 @@
         "value": "洛河门药峰",
         "docId": "plot.xianni-ch1406-ruo-hun-bei-ren-fang-zhi-xiang",
         "seq": 1312
+      },
+      {
+        "value": "洛河门后山山峰",
+        "docId": "plot.xianni-1407-renfang-jie-li-muwan-wo-buyuan",
+        "seq": 1317
       }
     ]
   },
@@ -38,27 +54,28 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1406-ruo-hun-bei-ren-fang-zhi-xiang",
+      "docId": "plot.xianni-1407-renfang-jie-li-muwan-wo-buyuan",
       "dated": false,
-      "seq": 1312
+      "seq": 1317
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch1406-ruo-hun-bei-ren-fang-zhi-xiang",
+      "docId": "plot.xianni-1407-renfang-jie-li-muwan-wo-buyuan",
       "dated": false,
-      "seq": 1312
+      "seq": 1317
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.xianni-ch1406-ruo-hun-bei-ren-fang-zhi-xiang",
+      "docId": "plot.xianni-1407-renfang-jie-li-muwan-wo-buyuan",
       "dated": false,
-      "seq": 1312
+      "seq": 1317
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1406-ruo-hun-bei-ren-fang-zhi-xiang"
+    "plot.xianni-ch1406-ruo-hun-bei-ren-fang-zhi-xiang",
+    "plot.xianni-1407-renfang-jie-li-muwan-wo-buyuan"
   ],
-  "updatedAt": "2026-08-25T16:45:59.894Z"
+  "updatedAt": "2026-08-25T17:04:44.318Z"
 }

@@ -2,11 +2,14 @@
   "id": "ent.place.x-81e7c84f",
   "type": "place",
   "name": "大帝星赛场",
-  "aliases": [],
+  "aliases": [
+    "巨龟背部赛场"
+  ],
   "summary": "数万修士围观之地，千里巨龟浮于其中，本章少帝试炼于此举行。",
   "attributes": {
-    "类型": "赛场/试炼场",
-    "守护": "老朱雀在场"
+    "类型": "试炼赛场",
+    "守护": "无",
+    "规模": "四周数万修士围观"
   },
   "observations": {
     "类型": [
@@ -14,6 +17,11 @@
         "value": "赛场/试炼场",
         "docId": "plot.xianni-ch1405-fusheng-ruomeng-diandluo-shaodi-trial-first-incense",
         "seq": 1312
+      },
+      {
+        "value": "试炼赛场",
+        "docId": "plot.xianni-1407-renfang-jie-li-muwan-wo-buyuan",
+        "seq": 1317
       }
     ],
     "守护": [
@@ -21,6 +29,18 @@
         "value": "老朱雀在场",
         "docId": "plot.xianni-ch1405-fusheng-ruomeng-diandluo-shaodi-trial-first-incense",
         "seq": 1312
+      },
+      {
+        "value": "无",
+        "docId": "plot.xianni-1407-renfang-jie-li-muwan-wo-buyuan",
+        "seq": 1317
+      }
+    ],
+    "规模": [
+      {
+        "value": "四周数万修士围观",
+        "docId": "plot.xianni-1407-renfang-jie-li-muwan-wo-buyuan",
+        "seq": 1317
       }
     ]
   },
@@ -28,21 +48,28 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1405-fusheng-ruomeng-diandluo-shaodi-trial-first-incense",
+      "docId": "plot.xianni-1407-renfang-jie-li-muwan-wo-buyuan",
       "dated": false,
-      "seq": 1312
+      "seq": 1317
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch1405-fusheng-ruomeng-diandluo-shaodi-trial-first-incense",
+      "docId": "plot.xianni-1407-renfang-jie-li-muwan-wo-buyuan",
       "dated": false,
-      "seq": 1312
+      "seq": 1317
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-1407-renfang-jie-li-muwan-wo-buyuan",
+      "dated": false,
+      "seq": 1317
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1405-fusheng-ruomeng-diandluo-shaodi-trial-first-incense"
+    "plot.xianni-ch1405-fusheng-ruomeng-diandluo-shaodi-trial-first-incense",
+    "plot.xianni-1407-renfang-jie-li-muwan-wo-buyuan"
   ],
-  "updatedAt": "2026-08-25T16:43:41.550Z"
+  "updatedAt": "2026-08-25T17:04:44.431Z"
 }
