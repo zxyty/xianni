@@ -811,3 +811,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T19:15:19.698Z** `ingest` plot.xianni-ch1442-healing-opportunity-humanoid-beasts — 仙逆 第1442章 疗伤的契机——人形凶兽与天皇炉炼千兽 · kind=plot asOf=2026-08-25 entities=13 relations=16 src=01350-01354.p3.md
 - **2026-08-25T19:17:38.848Z** `ingest` plot.xianni-ch1443-xuhuo-cultivator — 《仙逆》第1443章 虚火修士！！——古之墓地封印之地，王林虚火焚尽数万凶兽 · kind=plot asOf=2026-08-25 entities=21 relations=24 src=01350-01354.p4.md
 - **2026-08-25T19:19:58.364Z** `ingest` plot.xianni-1444-di-lin-guzhi-mudi-liwei — 仙逆 第1444章 敌临：王林古之墓地立威索宝，九平台强敌降临 · kind=plot asOf=2026-08-25 entities=25 relations=30 src=01350-01354.p5.md
+- **2026-08-25T19:22:09.612Z** `ingest` plot.xianni-ch1445-second-tier-tomb-platform — 仙逆 第1445章 二阶墓台：灵动上人现身，红雾道灵与古魂禁连吞二人 · kind=plot asOf=2026-08-25 entities=14 relations=25 src=01355-01359.p1.md

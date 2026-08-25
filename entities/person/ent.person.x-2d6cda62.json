@@ -6,15 +6,20 @@
     "青袍老者",
     "九大化神修士之一（青袍）",
     "尘道三子青袍老者",
-    "威严青袍老者"
+    "威严青袍老者",
+    "高前辈",
+    "禁制老者"
   ],
   "summary": "炼魂宗九大化神修士之一，斥王林狂妄，以灵光化铁链锁向王林，铁链被禁气长枪寸寸震碎并遭反刺。",
   "attributes": {
-    "外貌": "身穿青袍、相貌威严",
+    "外貌": "身穿青袍",
     "小阶段": "化神",
     "阵营": "炼魂宗",
     "性别": "男",
-    "身份": "尘道三子之一"
+    "身份": "禁制之术宗师，自称天下无不可破之禁",
+    "性格": "傲然自信",
+    "存殁": "死亡",
+    "死因": "破红雾禁制时连同符文被红雾所化大口吞噬"
   },
   "observations": {
     "外貌": [
@@ -27,6 +32,11 @@
         "value": "身穿青袍、相貌威严",
         "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
         "seq": 895
+      },
+      {
+        "value": "身穿青袍",
+        "docId": "plot.xianni-ch1445-second-tier-tomb-platform",
+        "seq": 1355
       }
     ],
     "小阶段": [
@@ -55,6 +65,32 @@
         "value": "尘道三子之一",
         "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
         "seq": 895
+      },
+      {
+        "value": "禁制之术宗师，自称天下无不可破之禁",
+        "docId": "plot.xianni-ch1445-second-tier-tomb-platform",
+        "seq": 1355
+      }
+    ],
+    "性格": [
+      {
+        "value": "傲然自信",
+        "docId": "plot.xianni-ch1445-second-tier-tomb-platform",
+        "seq": 1355
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch1445-second-tier-tomb-platform",
+        "seq": 1355
+      }
+    ],
+    "死因": [
+      {
+        "value": "破红雾禁制时连同符文被红雾所化大口吞噬",
+        "docId": "plot.xianni-ch1445-second-tier-tomb-platform",
+        "seq": 1355
       }
     ]
   },
@@ -62,9 +98,9 @@
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
+      "docId": "plot.xianni-ch1445-second-tier-tomb-platform",
       "dated": false,
-      "seq": 895
+      "seq": 1355
     },
     "小阶段": {
       "asOf": null,
@@ -86,16 +122,35 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
+      "docId": "plot.xianni-ch1445-second-tier-tomb-platform",
       "dated": false,
-      "seq": 895
+      "seq": 1355
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1445-second-tier-tomb-platform",
+      "dated": false,
+      "seq": 1355
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1445-second-tier-tomb-platform",
+      "dated": false,
+      "seq": 1355
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1445-second-tier-tomb-platform",
+      "dated": false,
+      "seq": 1355
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
-    "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo"
+    "plot.xianni-ch961-wang-lin-awkwardness-tianyun-sect-seal-taboo",
+    "plot.xianni-ch1445-second-tier-tomb-platform"
   ],
-  "updatedAt": "2026-08-23T23:30:36.682Z"
+  "updatedAt": "2026-08-25T19:22:09.263Z"
 }
