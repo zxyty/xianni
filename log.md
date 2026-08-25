@@ -782,3 +782,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T17:04:44.988Z** `ingest` plot.xianni-1407-renfang-jie-li-muwan-wo-buyuan — 第1407章 我，不愿！——人方界重逢李慕婉，王林拒焚虚幻之界 · kind=plot asOf=2026-08-25 entities=57 relations=99 src=01317-01320.md
 - **2026-08-25T17:07:40.449Z** `ingest` plot.xianni-1411-fourth-awakening-nine-turn-karma-tribulation — 第1411章 四次觉醒——王林破人方界入地方界，九转业劫尽、天逆再现、朱雀第四次觉醒 · kind=plot asOf=2026-08-25 entities=27 relations=38 src=01321-01325.p1.md
 - **2026-08-25T17:09:34.526Z** `ingest` plot.xianni-ch1412-nine-colors-into-one-fourth-zhuque-awakening — 第1412章 九色归一！——王林朱雀第四次觉醒，实火转虚火 · kind=plot asOf=2026-08-25 entities=20 relations=25 src=01321-01325.p2.md
+- **2026-08-25T17:12:01.286Z** `ingest` plot.xianni-1413-tianni-zhi-bian — 第1413章 天逆之变！——大帝星旋转如罗盘指针，幽光击穿封界大阵 · kind=plot asOf=2026-08-25 entities=22 relations=25 src=01321-01325.p3.md

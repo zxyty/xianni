@@ -4,22 +4,29 @@
   "name": "朱雀第四次觉醒",
   "aliases": [
     "第四次觉醒",
-    "第四次觉醒之鸣"
+    "第四次觉醒之鸣",
+    "四次觉醒"
   ],
   "summary": "王林燃轮回业障之火凝九色火莲，莲中冲出九色朱雀仰头长嘶，是为第四次觉醒之鸣；觉醒之音使大帝星上地方香燃至一半骤停并散发九色之芒。成败关乎能否从实火踏入虚火境界。",
   "attributes": {
-    "章节": "第1411章",
+    "章节": "第1411章、第1413章",
     "地点": "地方界、大帝星",
-    "参与方": "王林、老朱雀、炎龙",
+    "参与方": "王林、老朱雀、炎龙、朱雀",
     "起因": "度过九转业劫、燃起轮回业障",
-    "结果": "觉醒之鸣已发，能否彻底觉醒尚未定",
-    "影响": "老朱雀抬来炎龙放血浇香「作弊」相助"
+    "结果": "觉醒之鸣已发，能否彻底觉醒尚未定、实火崩溃转为虚火，虚火内出现极为诡异的变化",
+    "影响": "老朱雀抬来炎龙放血浇香「作弊」相助",
+    "经过": "吸尽火海与九色火莲碎片、凝九色铠甲、实火巅峰转虚火"
   },
   "observations": {
     "章节": [
       {
         "value": "第1411章",
         "docId": "plot.xianni-1411-fourth-awakening-nine-turn-karma-tribulation",
+        "seq": 1321
+      },
+      {
+        "value": "第1413章",
+        "docId": "plot.xianni-1413-tianni-zhi-bian",
         "seq": 1321
       }
     ],
@@ -50,6 +57,11 @@
         "value": "炎龙",
         "docId": "plot.xianni-1411-fourth-awakening-nine-turn-karma-tribulation",
         "seq": 1321
+      },
+      {
+        "value": "朱雀",
+        "docId": "plot.xianni-1413-tianni-zhi-bian",
+        "seq": 1321
       }
     ],
     "起因": [
@@ -65,12 +77,24 @@
         "docId": "plot.xianni-1411-fourth-awakening-nine-turn-karma-tribulation",
         "seq": 1321,
         "note": "本章截止时仍在进行中"
+      },
+      {
+        "value": "实火崩溃转为虚火，虚火内出现极为诡异的变化",
+        "docId": "plot.xianni-1413-tianni-zhi-bian",
+        "seq": 1321
       }
     ],
     "影响": [
       {
         "value": "老朱雀抬来炎龙放血浇香「作弊」相助",
         "docId": "plot.xianni-1411-fourth-awakening-nine-turn-karma-tribulation",
+        "seq": 1321
+      }
+    ],
+    "经过": [
+      {
+        "value": "吸尽火海与九色火莲碎片、凝九色铠甲、实火巅峰转虚火",
+        "docId": "plot.xianni-1413-tianni-zhi-bian",
         "seq": 1321
       }
     ]
@@ -113,12 +137,19 @@
       "docId": "plot.xianni-1411-fourth-awakening-nine-turn-karma-tribulation",
       "dated": false,
       "seq": 1321
+    },
+    "经过": {
+      "asOf": null,
+      "docId": "plot.xianni-1413-tianni-zhi-bian",
+      "dated": false,
+      "seq": 1321
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1411-fourth-awakening-nine-turn-karma-tribulation"
+    "plot.xianni-1411-fourth-awakening-nine-turn-karma-tribulation",
+    "plot.xianni-1413-tianni-zhi-bian"
   ],
-  "updatedAt": "2026-08-25T17:07:40.010Z"
+  "updatedAt": "2026-08-25T17:12:00.868Z"
 }
