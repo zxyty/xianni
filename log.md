@@ -622,3 +622,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T02:28:51.871Z** `ingest` plot.xianni-1142-1145-seven-colored-realm-palm-strike — 仙逆 第1142-1145章：七彩界化掌，王林碎指抗天 · kind=plot asOf=2026-08-25 entities=63 relations=91 src=01142-01145.md
 - **2026-08-25T02:31:52.304Z** `ingest` plot.xianni-1228-liu-jin-biao-yunhai-fenzong-dabi — 仙逆·第1228章 老夫刘金彪！！——云海八阶分宗大比与王林归来 · kind=plot asOf=2026-08-25 entities=35 relations=43 src=01146-01150.p1.md
 - **2026-08-25T02:34:38.798Z** `ingest` plot.xianni-ch1229-target-wind-immortal-realm — 第1229章 目标，风之仙界！——王林出七彩界后疗伤、清点得失与仿造天逆珠子的启用 · kind=plot asOf=2026-08-25 entities=42 relations=49 src=01146-01150.p2.md
+- **2026-08-25T02:36:30.999Z** `ingest` plot.xianni-ch1230-wang-lin-breaks-tier7-blockade-array — 第1230章 强！——王林横穿六阶星域、硬撼七阶封锁大阵，役灵印开道直逼八阶 · kind=plot asOf=2026-08-25 entities=14 relations=15 src=01146-01150.p3.md
