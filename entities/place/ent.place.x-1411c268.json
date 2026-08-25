@@ -6,14 +6,17 @@
     "埋葬古的墓地",
     "传说中的古之墓地",
     "古墓地",
-    "裂缝内之界"
+    "裂缝内之界",
+    "Ancient Burial Ground"
   ],
   "summary": "传说中埋葬『古』的墓地，需破开虚无方可前往，内有古魂。",
   "attributes": {
     "类型": "墓地/秘境",
-    "危险度": "未知（诸多大能齐聚）",
+    "危险度": "需破开虚无方可抵达、极高，风暴内毁灭一切生灵、未知（诸多大能齐聚）、极高——裂缝外十万里雾气内蕴可怕力量，第三步修士亦不敢轻入",
     "特产": "古魂",
-    "上级区域": "太古星辰"
+    "上级区域": "太古星辰",
+    "方位": "自六星战场东北处一百七十三万四千五百三十二里",
+    "守护": "十万里翻滚雾气"
   },
   "observations": {
     "类型": [
@@ -48,6 +51,11 @@
         "value": "未知（诸多大能齐聚）",
         "docId": "plot.xianni-1434-fengtianlang-pursuit",
         "seq": 1341
+      },
+      {
+        "value": "极高——裂缝外十万里雾气内蕴可怕力量，第三步修士亦不敢轻入",
+        "docId": "plot.xianni-1435-wang-lin-ambush-six-star-detonation",
+        "seq": 1341
       }
     ],
     "特产": [
@@ -63,6 +71,20 @@
         "docId": "plot.xianni-1416-san-dai-nie-que",
         "seq": 1326
       }
+    ],
+    "方位": [
+      {
+        "value": "自六星战场东北处一百七十三万四千五百三十二里",
+        "docId": "plot.xianni-1435-wang-lin-ambush-six-star-detonation",
+        "seq": 1341
+      }
+    ],
+    "守护": [
+      {
+        "value": "十万里翻滚雾气",
+        "docId": "plot.xianni-1435-wang-lin-ambush-six-star-detonation",
+        "seq": 1341
+      }
     ]
   },
   "firstSeq": 1232,
@@ -75,9 +97,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-1434-fengtianlang-pursuit",
+      "docId": "plot.xianni-ch1319-lanmeng-daozun-choice",
       "dated": false,
-      "seq": 1341
+      "seq": 1232
     },
     "特产": {
       "asOf": null,
@@ -90,6 +112,18 @@
       "docId": "plot.xianni-1416-san-dai-nie-que",
       "dated": false,
       "seq": 1326
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-1435-wang-lin-ambush-six-star-detonation",
+      "dated": false,
+      "seq": 1341
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-1435-wang-lin-ambush-six-star-detonation",
+      "dated": false,
+      "seq": 1341
     }
   },
   "contested": false,
@@ -99,7 +133,8 @@
     "plot.xianni-1415-gu-zhi-mu-di-kai",
     "plot.xianni-1416-san-dai-nie-que",
     "plot.xianni-1422-feng-xianghuo-jie",
-    "plot.xianni-1434-fengtianlang-pursuit"
+    "plot.xianni-1434-fengtianlang-pursuit",
+    "plot.xianni-1435-wang-lin-ambush-six-star-detonation"
   ],
-  "updatedAt": "2026-08-25T18:43:36.277Z"
+  "updatedAt": "2026-08-25T18:45:48.921Z"
 }

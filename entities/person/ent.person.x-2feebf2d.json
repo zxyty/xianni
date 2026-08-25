@@ -5,7 +5,9 @@
   "aliases": [
     "红衣少女",
     "封灭族少女",
-    "坐在肩上的少女"
+    "坐在肩上的少女",
+    "大汉肩膀上的少女",
+    "持罗盘少女"
   ],
   "summary": "眉心带封灭族古怪符文印记的妩媚红衣少女，坐于奉天狼族大汉肩上，持罗盘测出王林方位「正东十九万七千八百四十五里」，并助大汉逼出右臂之毒。",
   "attributes": {
@@ -13,8 +15,10 @@
     "种族": "封灭族",
     "小阶段": "天人第三衰",
     "外貌": "红衣，相貌妩媚，俏脸如桃，眉目蕴含风情",
-    "标志特征": "眉心古怪符文印记（封灭族）",
-    "阵营": "长尊会一方"
+    "标志特征": "眉心古怪符文印记（封灭族）、眉心印记（可施展封灭族大神通封印）、眉心永久疤痕、持罗盘测方位",
+    "阵营": "长尊会一方",
+    "身份": "妙音道尊侍女",
+    "存殁": "死而复生"
   },
   "observations": {
     "性别": [
@@ -50,6 +54,21 @@
         "value": "眉心古怪符文印记（封灭族）",
         "docId": "plot.xianni-1434-fengtianlang-pursuit",
         "seq": 1341
+      },
+      {
+        "value": "眉心印记（可施展封灭族大神通封印）",
+        "docId": "plot.xianni-1435-wang-lin-ambush-six-star-detonation",
+        "seq": 1341
+      },
+      {
+        "value": "眉心永久疤痕",
+        "docId": "plot.xianni-1435-wang-lin-ambush-six-star-detonation",
+        "seq": 1341
+      },
+      {
+        "value": "持罗盘测方位",
+        "docId": "plot.xianni-1435-wang-lin-ambush-six-star-detonation",
+        "seq": 1341
       }
     ],
     "阵营": [
@@ -57,6 +76,21 @@
         "value": "长尊会一方",
         "docId": "plot.xianni-1434-fengtianlang-pursuit",
         "seq": 1341
+      }
+    ],
+    "身份": [
+      {
+        "value": "妙音道尊侍女",
+        "docId": "plot.xianni-1435-wang-lin-ambush-six-star-detonation",
+        "seq": 1341
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死而复生",
+        "docId": "plot.xianni-1435-wang-lin-ambush-six-star-detonation",
+        "seq": 1341,
+        "note": "被血剑穿眉心致死，凭三魂之命复活，第1435章"
       }
     ]
   },
@@ -97,12 +131,26 @@
       "docId": "plot.xianni-1434-fengtianlang-pursuit",
       "dated": false,
       "seq": 1341
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-1435-wang-lin-ambush-six-star-detonation",
+      "dated": false,
+      "seq": 1341
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1435-wang-lin-ambush-six-star-detonation",
+      "dated": false,
+      "seq": 1341,
+      "note": "被血剑穿眉心致死，凭三魂之命复活，第1435章"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1434-fengtianlang-pursuit"
+    "plot.xianni-1434-fengtianlang-pursuit",
+    "plot.xianni-1435-wang-lin-ambush-six-star-detonation"
   ],
-  "updatedAt": "2026-08-25T18:43:36.201Z"
+  "updatedAt": "2026-08-25T18:45:48.904Z"
 }

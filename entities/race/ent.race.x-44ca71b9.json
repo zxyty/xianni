@@ -3,14 +3,17 @@
   "type": "race",
   "name": "奉天狼族",
   "aliases": [
-    "狼族"
+    "狼族",
+    "奉天族",
+    "奉天狼一族"
   ],
   "summary": "长尊会麾下四大太古凶族之一，族人眉心带青色狼头印记，身形高大，可虚空一步碎星、凝聚崩溃冲击撕开黑洞。",
   "attributes": {
     "特性": "眉心青色狼头印记、狼嚎轰鸣可逼出融入天地者、身后可现巨大虚幻青狼",
     "阵营": "长尊会",
     "代表人物": "奉天狼族大汉",
-    "聚居地": "太古星辰（含新立六星分宗部落）"
+    "聚居地": "太古星辰（含新立六星分宗部落）",
+    "天赋神通": "驱使万丈青狼"
   },
   "observations": {
     "特性": [
@@ -50,6 +53,13 @@
         "docId": "plot.xianni-1434-fengtianlang-pursuit",
         "seq": 1341
       }
+    ],
+    "天赋神通": [
+      {
+        "value": "驱使万丈青狼",
+        "docId": "plot.xianni-1435-wang-lin-ambush-six-star-detonation",
+        "seq": 1341
+      }
     ]
   },
   "firstSeq": 1341,
@@ -77,12 +87,19 @@
       "docId": "plot.xianni-1434-fengtianlang-pursuit",
       "dated": false,
       "seq": 1341
+    },
+    "天赋神通": {
+      "asOf": null,
+      "docId": "plot.xianni-1435-wang-lin-ambush-six-star-detonation",
+      "dated": false,
+      "seq": 1341
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1434-fengtianlang-pursuit"
+    "plot.xianni-1434-fengtianlang-pursuit",
+    "plot.xianni-1435-wang-lin-ambush-six-star-detonation"
   ],
-  "updatedAt": "2026-08-25T18:43:36.275Z"
+  "updatedAt": "2026-08-25T18:45:48.919Z"
 }
