@@ -4,12 +4,14 @@
   "name": "六品道灵",
   "aliases": [
     "道灵",
-    "六品道灵酬劳"
+    "六品道灵酬劳",
+    "太古五尊之道灵"
   ],
   "summary": "白衣女子承诺给三名第三步大能的酬劳，以两道白光形态交付司墨子与空灵老者。",
   "attributes": {
     "类型": "道灵",
-    "用途": "第三步大能之间的重酬"
+    "用途": "成就无上神通",
+    "产地": "太古五尊"
   },
   "observations": {
     "类型": [
@@ -24,6 +26,18 @@
         "value": "第三步大能之间的重酬",
         "docId": "plot.xianni-ch1311-fate-first-battle-tuosen-vs-wanglin-moon-tribe",
         "seq": 1222
+      },
+      {
+        "value": "成就无上神通",
+        "docId": "plot.xianni-ch1319-lanmeng-daozun-choice",
+        "seq": 1232
+      }
+    ],
+    "产地": [
+      {
+        "value": "太古五尊",
+        "docId": "plot.xianni-ch1319-lanmeng-daozun-choice",
+        "seq": 1232
       }
     ]
   },
@@ -37,15 +51,22 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch1311-fate-first-battle-tuosen-vs-wanglin-moon-tribe",
+      "docId": "plot.xianni-ch1319-lanmeng-daozun-choice",
       "dated": false,
-      "seq": 1222
+      "seq": 1232
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1319-lanmeng-daozun-choice",
+      "dated": false,
+      "seq": 1232
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1311-fate-first-battle-tuosen-vs-wanglin-moon-tribe"
+    "plot.xianni-ch1311-fate-first-battle-tuosen-vs-wanglin-moon-tribe",
+    "plot.xianni-ch1319-lanmeng-daozun-choice"
   ],
-  "updatedAt": "2026-08-25T08:36:18.839Z"
+  "updatedAt": "2026-08-25T09:48:50.341Z"
 }
