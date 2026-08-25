@@ -3,14 +3,15 @@
   "type": "artifact",
   "name": "溃神液",
   "aliases": [
-    "月族至宝溃神液"
+    "月族至宝溃神液",
+    "溃神血"
   ],
   "summary": "月族至宝，由黑衣老者与数百修真星上的月族修士同时咬破舌尖喷出的漆黑恶臭鲜血凝聚而成的血海，卷动天地冲入阵内。",
   "attributes": {
     "品阶": "月族至宝",
-    "能力": "凝成恶臭血海冲入大阵",
+    "能力": "凝成恶臭血海冲入大阵、化血海漩涡、融化古神之力、曾杀死古神",
     "外形": "漆黑、带浓浓恶臭、似有灵性的血海",
-    "来历": "月族修士咬舌喷血凝聚",
+    "来历": "月族修士咬舌喷血凝聚、来历不详；月族之人诞生时种入体内，经无数万年滋养",
     "持有者": "月族"
   },
   "observations": {
@@ -26,6 +27,21 @@
         "value": "凝成恶臭血海冲入大阵",
         "docId": "plot.xianni-1313-yuezu-fengshen-array-first-battle-of-destiny",
         "seq": 1227
+      },
+      {
+        "value": "化血海漩涡",
+        "docId": "plot.xianni-ch1314-fated-first-battle-yue-clan-treasures-vs-ancient-gods",
+        "seq": 1227
+      },
+      {
+        "value": "融化古神之力",
+        "docId": "plot.xianni-ch1314-fated-first-battle-yue-clan-treasures-vs-ancient-gods",
+        "seq": 1227
+      },
+      {
+        "value": "曾杀死古神",
+        "docId": "plot.xianni-ch1314-fated-first-battle-yue-clan-treasures-vs-ancient-gods",
+        "seq": 1227
       }
     ],
     "外形": [
@@ -39,6 +55,11 @@
       {
         "value": "月族修士咬舌喷血凝聚",
         "docId": "plot.xianni-1313-yuezu-fengshen-array-first-battle-of-destiny",
+        "seq": 1227
+      },
+      {
+        "value": "来历不详；月族之人诞生时种入体内，经无数万年滋养",
+        "docId": "plot.xianni-ch1314-fated-first-battle-yue-clan-treasures-vs-ancient-gods",
         "seq": 1227
       }
     ],
@@ -86,7 +107,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1313-yuezu-fengshen-array-first-battle-of-destiny"
+    "plot.xianni-1313-yuezu-fengshen-array-first-battle-of-destiny",
+    "plot.xianni-ch1314-fated-first-battle-yue-clan-treasures-vs-ancient-gods"
   ],
-  "updatedAt": "2026-08-25T08:41:03.169Z"
+  "updatedAt": "2026-08-25T08:43:28.406Z"
 }

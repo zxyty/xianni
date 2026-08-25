@@ -3,13 +3,14 @@
   "type": "artifact",
   "name": "血月之翼",
   "aliases": [
-    "月族至宝血月之翼"
+    "月族至宝血月之翼",
+    "血翼"
   ],
   "summary": "月族至宝，需数千乃至数波月族修士崩碎所擒凶兽血肉献祭，方于阵中凝化出两道血色长翼扑杀古神。",
   "attributes": {
     "品阶": "月族至宝",
-    "能力": "凝化两道血色长翼直击目标",
-    "来历": "以数千凶兽血肉血祭凝成，数波献祭",
+    "能力": "凝化两道血色长翼直击目标、被打爆后化无数羽毛穿透敌体",
+    "来历": "以数千凶兽血肉血祭凝成，数波献祭、月族为活捉古神所备",
     "持有者": "月族"
   },
   "observations": {
@@ -25,12 +26,22 @@
         "value": "凝化两道血色长翼直击目标",
         "docId": "plot.xianni-1313-yuezu-fengshen-array-first-battle-of-destiny",
         "seq": 1227
+      },
+      {
+        "value": "被打爆后化无数羽毛穿透敌体",
+        "docId": "plot.xianni-ch1314-fated-first-battle-yue-clan-treasures-vs-ancient-gods",
+        "seq": 1227
       }
     ],
     "来历": [
       {
         "value": "以数千凶兽血肉血祭凝成，数波献祭",
         "docId": "plot.xianni-1313-yuezu-fengshen-array-first-battle-of-destiny",
+        "seq": 1227
+      },
+      {
+        "value": "月族为活捉古神所备",
+        "docId": "plot.xianni-ch1314-fated-first-battle-yue-clan-treasures-vs-ancient-gods",
         "seq": 1227
       }
     ],
@@ -72,7 +83,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1313-yuezu-fengshen-array-first-battle-of-destiny"
+    "plot.xianni-1313-yuezu-fengshen-array-first-battle-of-destiny",
+    "plot.xianni-ch1314-fated-first-battle-yue-clan-treasures-vs-ancient-gods"
   ],
-  "updatedAt": "2026-08-25T08:41:03.167Z"
+  "updatedAt": "2026-08-25T08:43:28.404Z"
 }

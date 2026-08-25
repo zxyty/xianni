@@ -3,12 +3,13 @@
   "type": "spell",
   "name": "大月灭神术",
   "aliases": [
-    "以吾族血饲养神灵、以吾族魂崩溃神灵"
+    "以吾族血饲养神灵、以吾族魂崩溃神灵",
+    "月牙之芒"
   ],
   "summary": "以万余月族之人死亡后的月牙印记与魂魄为祭，膨胀化作上万月亮扑杀阵中古神的献祭型秘术。",
   "attributes": {
     "类型": "血魂献祭类秘术",
-    "出处": "月族封神大阵",
+    "出处": "月族封神大阵、月族",
     "消耗": "上万月族之人的性命与魂魄",
     "威力": "上万月亮同时扑杀，月色达到巅峰"
   },
@@ -24,6 +25,11 @@
       {
         "value": "月族封神大阵",
         "docId": "plot.xianni-1313-yuezu-fengshen-array-first-battle-of-destiny",
+        "seq": 1227
+      },
+      {
+        "value": "月族",
+        "docId": "plot.xianni-ch1314-fated-first-battle-yue-clan-treasures-vs-ancient-gods",
         "seq": 1227
       }
     ],
@@ -72,7 +78,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1313-yuezu-fengshen-array-first-battle-of-destiny"
+    "plot.xianni-1313-yuezu-fengshen-array-first-battle-of-destiny",
+    "plot.xianni-ch1314-fated-first-battle-yue-clan-treasures-vs-ancient-gods"
   ],
-  "updatedAt": "2026-08-25T08:41:03.165Z"
+  "updatedAt": "2026-08-25T08:43:28.403Z"
 }
