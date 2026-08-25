@@ -4,12 +4,14 @@
   "name": "朱雀星古神之地",
   "aliases": [
     "朱雀星古神遗迹",
-    "拓森所在之地"
+    "拓森所在之地",
+    "联盟朱雀星的古神之地"
   ],
   "summary": "王林获得古神涂司记忆的地点；本片段指出他在此并未取得全部记忆结晶。",
   "attributes": {
-    "类型": "古神遗地/禁地",
-    "上级区域": "朱雀星"
+    "类型": "古神之地 / 禁地",
+    "上级区域": "朱雀星",
+    "所属势力": "修真联盟"
   },
   "observations": {
     "类型": [
@@ -22,6 +24,11 @@
         "value": "古神遗地/禁地",
         "docId": "plot.xianni-1098-broken-sword-third-king-awakens",
         "seq": 1014
+      },
+      {
+        "value": "古神之地 / 禁地",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
       }
     ],
     "上级区域": [
@@ -30,28 +37,42 @@
         "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
         "seq": 914
       }
+    ],
+    "所属势力": [
+      {
+        "value": "修真联盟",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
+      }
     ]
   },
   "firstSeq": 914,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1098-broken-sword-third-king-awakens",
+      "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
       "dated": false,
-      "seq": 1014
+      "seq": 1395
     },
     "上级区域": {
       "asOf": null,
       "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
       "dated": false,
       "seq": 914
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+      "dated": false,
+      "seq": 1395
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
-    "plot.xianni-1098-broken-sword-third-king-awakens"
+    "plot.xianni-1098-broken-sword-third-king-awakens",
+    "plot.xianni-1395-1399-wang-lin-destroys-donglin-star"
   ],
-  "updatedAt": "2026-08-24T14:59:36.504Z"
+  "updatedAt": "2026-08-25T23:09:08.301Z"
 }

@@ -11,19 +11,22 @@
     "Donglin Star",
     "东临星球",
     "东临星许家所在之星",
-    "东临主星"
+    "东临主星",
+    "东林星",
+    "东临之星",
+    "罗天第一凶星"
   ],
   "summary": "罗天星域中的一颗修真星，向家所在地。",
   "attributes": {
     "上级区域": "罗天东域",
-    "所属势力": "东临星许家",
+    "所属势力": "东临家族",
     "类型": "星球、修真星、星辰、星辰/修真星、修真星辰、修真星球",
-    "危险度": "极高",
+    "危险度": "极高（势力极强，暂不可去）、极高，无人敢招惹、极高（凶名参照）、极高（禁制强横，不知进入之法冒然闯入必死）、极高、本章遭王林一拳重创，濒临崩溃、已毁、罗天星域第一凶星",
     "特产": "屠星立威之传统",
     "所属界面": "罗天星域",
     "方位": "罗天东域（位置不固定，缓缓飘行）、罗天星域东部（无固定之位，缓缓飘行）、罗天星域东部",
     "规模": "比天运星大一圈、主星外围另有几十个小星、比天运星大数倍",
-    "守护": "向家先祖、吕家所布全星禁制与外围星网大阵、阵法光芒与三大家族层层防护、外围数十颗小星禁制、吕/许/刘三姓大阵"
+    "守护": "向家先祖、吕家所布全星禁制与外围星网大阵、阵法光芒与三大家族层层防护、外围数十颗小星禁制、吕/许/刘三姓大阵、数十颗修真星组成的漩涡、九千九百九十九万层光幕大阵"
   },
   "observations": {
     "上级区域": [
@@ -42,12 +45,18 @@
       {
         "value": "向家",
         "docId": "plot.xianni-ch618-620-scroll-woman-luotian-star-region-seal",
-        "seq": 618
+        "seq": 618,
+        "note": "本章已崩溃"
       },
       {
         "value": "东临星许家",
         "docId": "plot.xianni-ch778-jubian-zhixu-fuwen-tongdao-liaoshang-dazhen",
         "seq": 731
+      },
+      {
+        "value": "东临家族",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
       }
     ],
     "类型": [
@@ -107,6 +116,21 @@
         "value": "极高",
         "docId": "lore.xianni-1482-dongling-star-xiang-clan",
         "seq": 1390
+      },
+      {
+        "value": "本章遭王林一拳重创，濒临崩溃",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
+      },
+      {
+        "value": "已毁",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
+      },
+      {
+        "value": "罗天星域第一凶星",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
       }
     ],
     "特产": [
@@ -183,6 +207,16 @@
         "value": "外围数十颗小星禁制、吕/许/刘三姓大阵",
         "docId": "plot.xianni-1483-donglin-star-wang-lin-roar",
         "seq": 1390
+      },
+      {
+        "value": "数十颗修真星组成的漩涡",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
+      },
+      {
+        "value": "九千九百九十九万层光幕大阵",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
       }
     ]
   },
@@ -196,9 +230,9 @@
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch778-jubian-zhixu-fuwen-tongdao-liaoshang-dazhen",
+      "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
       "dated": false,
-      "seq": 731
+      "seq": 1395
     },
     "类型": {
       "asOf": null,
@@ -208,9 +242,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "lore.xianni-1482-dongling-star-xiang-clan",
+      "docId": "plot.xianni-ch662-mou-yu-ranyun-star-hideout",
       "dated": false,
-      "seq": 1390
+      "seq": 621
     },
     "特产": {
       "asOf": null,
@@ -274,7 +308,8 @@
     "plot.xianni-ch921-qingse-yujian-jumu-wangyue",
     "plot.xianni-881-884-qualification-war-scroll-second",
     "lore.xianni-1482-dongling-star-xiang-clan",
-    "plot.xianni-1483-donglin-star-wang-lin-roar"
+    "plot.xianni-1483-donglin-star-wang-lin-roar",
+    "plot.xianni-1395-1399-wang-lin-destroys-donglin-star"
   ],
-  "updatedAt": "2026-08-25T22:22:29.926Z"
+  "updatedAt": "2026-08-25T23:09:08.297Z"
 }

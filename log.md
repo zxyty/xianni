@@ -851,3 +851,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T22:13:01.278Z** `ingest` plot.xianni-1481-hengyun-rain-sword-xie-qing — 第1481章 今昔横云有雨——王林重返青灵星点化谢青、雨水化剑镇星 · kind=plot asOf=2026-08-25 entities=27 relations=37 src=01390-01394.p3.md
 - **2026-08-25T22:20:05.989Z** `ingest` lore.xianni-1482-dongling-star-xiang-clan — 第1482章 东临星向家：罗天最强上古家族与东临血令 · kind=lore asOf=2026-08-25 entities=44 relations=72 src=01390-01394.p4.md
 - **2026-08-25T22:22:30.394Z** `ingest` plot.xianni-1483-donglin-star-wang-lin-roar — 第1483章 此事，无碍！——王林重临东临星，一吼崩九星 · kind=plot asOf=2026-08-25 entities=25 relations=41 src=01390-01394.p5.md
+- **2026-08-25T23:09:08.788Z** `ingest` plot.xianni-1395-1399-wang-lin-destroys-donglin-star — 仙逆 第1395-1399章：王林道古神震一拳破东临星，鲁夫子改判 · kind=plot asOf=2026-08-25 entities=87 relations=164 src=01395-01399.md

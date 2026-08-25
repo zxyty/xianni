@@ -15,15 +15,16 @@
     "向家家族",
     "向家一族",
     "罗天星域向家",
-    "Xiang Clan"
+    "Xiang Clan",
+    "极西向家"
   ],
   "summary": "罗天星域东临星上的修真家族，画轴女子自称出身于此，其先祖据称可助复活珠内残魂。",
   "attributes": {
     "所属界面": "罗天星域·东临星、罗天星域、界内·罗天星域东部",
-    "据点": "东临星",
+    "据点": "东临星极西",
     "理念": "以三分支彼此厮杀维持家族生机与强盛",
     "等级": "修真家族",
-    "阵营": "罗天星域一方",
+    "阵营": "罗天星域、罗天星域一方、远古东临家族分支、远古东临家族附从",
     "镇派之宝": "向家老祖（倚仗）",
     "掌门": "向家当代家主"
   },
@@ -50,6 +51,11 @@
         "value": "东临星",
         "docId": "plot.xianni-ch618-620-scroll-woman-luotian-star-region-seal",
         "seq": 618
+      },
+      {
+        "value": "东临星极西",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
       }
     ],
     "理念": [
@@ -101,6 +107,16 @@
         "value": "罗天星域一方",
         "docId": "plot.xianni-ch917-luotian-counterattack",
         "seq": 853
+      },
+      {
+        "value": "远古东临家族分支",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
+      },
+      {
+        "value": "远古东临家族附从",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
       }
     ],
     "镇派之宝": [
@@ -138,9 +154,9 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-ch618-620-scroll-woman-luotian-star-region-seal",
+      "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
       "dated": false,
-      "seq": 618
+      "seq": 1395
     },
     "理念": {
       "asOf": null,
@@ -156,9 +172,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch917-luotian-counterattack",
+      "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
       "dated": false,
-      "seq": 853
+      "seq": 810
     },
     "镇派之宝": {
       "asOf": null,
@@ -197,7 +213,8 @@
     "plot.xianni-1479-luotian-preparing-for-war-lu-fuzi",
     "plot.xianni-1481-hengyun-rain-sword-xie-qing",
     "lore.xianni-1482-dongling-star-xiang-clan",
-    "plot.xianni-1483-donglin-star-wang-lin-roar"
+    "plot.xianni-1483-donglin-star-wang-lin-roar",
+    "plot.xianni-1395-1399-wang-lin-destroys-donglin-star"
   ],
-  "updatedAt": "2026-08-25T22:22:29.922Z"
+  "updatedAt": "2026-08-25T23:09:08.281Z"
 }

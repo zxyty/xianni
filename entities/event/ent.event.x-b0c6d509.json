@@ -2,12 +2,15 @@
   "id": "ent.event.x-b0c6d509",
   "type": "event",
   "name": "封仙一战",
-  "aliases": [],
+  "aliases": [
+    "雷仙界封仙一战"
+  ],
   "summary": "王林自联盟来到界内后一路拼杀所经之战，于其中获得雷仙封号，并取得上古修真家族向家的一次承诺。",
   "attributes": {
-    "世内时序": "早于向家老祖夺王林生机",
-    "参与方": "王林",
-    "结果": "王林获雷仙封号，并获向家一次承诺"
+    "世内时序": "早于向家老祖夺王林生机、约八百年前、早于本片段（回忆）",
+    "参与方": "王林、西子凤、雷仙殿中年男子使者",
+    "结果": "王林一鸣惊天，成为雷仙",
+    "影响": "西子凤心中喜悦浓郁，成为其此后八百年挣扎下去的勇气来源"
   },
   "observations": {
     "世内时序": [
@@ -15,6 +18,16 @@
         "value": "早于向家老祖夺王林生机",
         "docId": "plot.xianni-1483-donglin-star-wang-lin-roar",
         "seq": 1390
+      },
+      {
+        "value": "约八百年前",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
+      },
+      {
+        "value": "早于本片段（回忆）",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
       }
     ],
     "参与方": [
@@ -22,6 +35,16 @@
         "value": "王林",
         "docId": "plot.xianni-1483-donglin-star-wang-lin-roar",
         "seq": 1390
+      },
+      {
+        "value": "西子凤",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
+      },
+      {
+        "value": "雷仙殿中年男子使者",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
       }
     ],
     "结果": [
@@ -29,6 +52,18 @@
         "value": "王林获雷仙封号，并获向家一次承诺",
         "docId": "plot.xianni-1483-donglin-star-wang-lin-roar",
         "seq": 1390
+      },
+      {
+        "value": "王林一鸣惊天，成为雷仙",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
+      }
+    ],
+    "影响": [
+      {
+        "value": "西子凤心中喜悦浓郁，成为其此后八百年挣扎下去的勇气来源",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
       }
     ]
   },
@@ -48,15 +83,22 @@
     },
     "结果": {
       "asOf": null,
-      "docId": "plot.xianni-1483-donglin-star-wang-lin-roar",
+      "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
       "dated": false,
-      "seq": 1390
+      "seq": 1395
+    },
+    "影响": {
+      "asOf": null,
+      "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+      "dated": false,
+      "seq": 1395
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1483-donglin-star-wang-lin-roar"
+    "plot.xianni-1483-donglin-star-wang-lin-roar",
+    "plot.xianni-1395-1399-wang-lin-destroys-donglin-star"
   ],
-  "updatedAt": "2026-08-25T22:22:29.946Z"
+  "updatedAt": "2026-08-25T23:09:08.365Z"
 }

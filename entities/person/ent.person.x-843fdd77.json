@@ -7,16 +7,24 @@
     "向家的老祖",
     "向家老祖宗",
     "向家仅存的唯一老祖",
-    "棺中沙哑之声"
+    "棺中沙哑之声",
+    "东临泰",
+    "向家老祖东临泰",
+    "棺中老祖",
+    "向家老祖头颅",
+    "东临星向家老祖"
   ],
   "summary": "向家老祖，一步之间于半空幻化现身，向炎雷子抱拳后落座蒲团观战。",
   "attributes": {
-    "身份": "向家老祖",
-    "阵营": "向家",
-    "外貌": "老者",
-    "标志特征": "闭关数万年、栖身人头塔上土黄溃烂棺材，声音沙哑苍老",
-    "存殁": "在世",
-    "性格": "卑鄙阴毒"
+    "身份": "向家老祖、远古东临家族旁系族人、东临星向家老祖",
+    "阵营": "向家 / 远古东临家族附从",
+    "外貌": "干瘦腐烂如未腐尽的腐尸，胸口暴露暗红心脏",
+    "标志特征": "闭关数万年、栖身人头塔上土黄溃烂棺材，声音沙哑苍老、心脏跳动散发死气而非生机",
+    "存殁": "死亡",
+    "性格": "卑鄙阴毒",
+    "元神强度": "遭王林搜魂时仅存头颅",
+    "死因": "被王林捏爆头颅",
+    "结局": "第1395章身死"
   },
   "observations": {
     "身份": [
@@ -24,6 +32,17 @@
         "value": "向家老祖",
         "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
         "seq": 810
+      },
+      {
+        "value": "远古东临家族旁系族人",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395,
+        "note": "其自称"
+      },
+      {
+        "value": "东临星向家老祖",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
       }
     ],
     "阵营": [
@@ -31,6 +50,11 @@
         "value": "向家",
         "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
         "seq": 810
+      },
+      {
+        "value": "向家 / 远古东临家族附从",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
       }
     ],
     "外貌": [
@@ -38,6 +62,11 @@
         "value": "老者",
         "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
         "seq": 810
+      },
+      {
+        "value": "干瘦腐烂如未腐尽的腐尸，胸口暴露暗红心脏",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
       }
     ],
     "标志特征": [
@@ -51,6 +80,11 @@
         "value": "栖身人头塔上土黄溃烂棺材，声音沙哑苍老",
         "docId": "lore.xianni-1482-dongling-star-xiang-clan",
         "seq": 1390
+      },
+      {
+        "value": "心脏跳动散发死气而非生机",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
       }
     ],
     "存殁": [
@@ -58,6 +92,11 @@
         "value": "在世",
         "docId": "lore.xianni-1482-dongling-star-xiang-clan",
         "seq": 1390
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
       }
     ],
     "性格": [
@@ -65,6 +104,27 @@
         "value": "卑鄙阴毒",
         "docId": "plot.xianni-1483-donglin-star-wang-lin-roar",
         "seq": 1390
+      }
+    ],
+    "元神强度": [
+      {
+        "value": "遭王林搜魂时仅存头颅",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
+      }
+    ],
+    "死因": [
+      {
+        "value": "被王林捏爆头颅",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
+      }
+    ],
+    "结局": [
+      {
+        "value": "第1395章身死",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
       }
     ]
   },
@@ -78,15 +138,15 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+      "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
       "dated": false,
-      "seq": 810
+      "seq": 1395
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+      "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
       "dated": false,
-      "seq": 810
+      "seq": 1395
     },
     "标志特征": {
       "asOf": null,
@@ -97,15 +157,33 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "lore.xianni-1482-dongling-star-xiang-clan",
+      "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
       "dated": false,
-      "seq": 1390
+      "seq": 1395
     },
     "性格": {
       "asOf": null,
       "docId": "plot.xianni-1483-donglin-star-wang-lin-roar",
       "dated": false,
       "seq": 1390
+    },
+    "元神强度": {
+      "asOf": null,
+      "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+      "dated": false,
+      "seq": 1395
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+      "dated": false,
+      "seq": 1395
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+      "dated": false,
+      "seq": 1395
     }
   },
   "contested": false,
@@ -116,7 +194,8 @@
     "plot.xianni-1479-luotian-preparing-for-war-lu-fuzi",
     "plot.xianni-1481-hengyun-rain-sword-xie-qing",
     "lore.xianni-1482-dongling-star-xiang-clan",
-    "plot.xianni-1483-donglin-star-wang-lin-roar"
+    "plot.xianni-1483-donglin-star-wang-lin-roar",
+    "plot.xianni-1395-1399-wang-lin-destroys-donglin-star"
   ],
-  "updatedAt": "2026-08-25T22:22:29.915Z"
+  "updatedAt": "2026-08-25T23:09:08.249Z"
 }

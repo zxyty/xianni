@@ -3,13 +3,14 @@
   "type": "faction",
   "name": "刘家",
   "aliases": [
-    "东临星刘家"
+    "东临星刘家",
+    "东部刘家"
   ],
   "summary": "东临星三大最强家族之一，实力深不可测。",
   "attributes": {
-    "据点": "东临星",
+    "据点": "东临星东部",
     "等级": "东临星三大最强家族之一",
-    "镇派之宝": "九生血葵术"
+    "镇派之宝": "血葵术"
   },
   "observations": {
     "据点": [
@@ -17,6 +18,11 @@
         "value": "东临星",
         "docId": "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
         "seq": 626
+      },
+      {
+        "value": "东临星东部",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
       }
     ],
     "等级": [
@@ -31,6 +37,11 @@
         "value": "九生血葵术",
         "docId": "lore.xianni-1482-dongling-star-xiang-clan",
         "seq": 1390
+      },
+      {
+        "value": "血葵术",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
       }
     ]
   },
@@ -38,9 +49,9 @@
   "attrProvenance": {
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
+      "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
       "dated": false,
-      "seq": 626
+      "seq": 1395
     },
     "等级": {
       "asOf": null,
@@ -50,16 +61,17 @@
     },
     "镇派之宝": {
       "asOf": null,
-      "docId": "lore.xianni-1482-dongling-star-xiang-clan",
+      "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
       "dated": false,
-      "seq": 1390
+      "seq": 1395
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
-    "lore.xianni-1482-dongling-star-xiang-clan"
+    "lore.xianni-1482-dongling-star-xiang-clan",
+    "plot.xianni-1395-1399-wang-lin-destroys-donglin-star"
   ],
-  "updatedAt": "2026-08-25T22:20:05.501Z"
+  "updatedAt": "2026-08-25T23:09:08.164Z"
 }

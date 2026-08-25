@@ -3,12 +3,15 @@
   "type": "technique",
   "name": "道古传承",
   "aliases": [
-    "道古的记忆"
+    "道古的记忆",
+    "道古气息"
   ],
   "summary": "具唯一性的传承，王林已取走一部分，除他之外无人可继续获得；凭此他知晓古墓第一层详情与取出地府之法。",
   "attributes": {
-    "效果": "知晓古墓第一层内情、知晓取出地府之法",
-    "修炼条件": "修为需足以承受"
+    "效果": "知晓古墓第一层内情、知晓取出地府之法、融合七星古神打出神震一拳",
+    "修炼条件": "修为需足以承受",
+    "品阶": "凌驾古神之上的本源传承",
+    "外显异象": "星空扭曲撕裂、身后现出无左目的巨大头颅虚影"
   },
   "observations": {
     "效果": [
@@ -21,6 +24,11 @@
         "value": "知晓取出地府之法",
         "docId": "plot.xianni-1478-return-home-luotian",
         "seq": 1385
+      },
+      {
+        "value": "融合七星古神打出神震一拳",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
       }
     ],
     "修炼条件": [
@@ -28,6 +36,25 @@
         "value": "修为需足以承受",
         "docId": "plot.xianni-1478-return-home-luotian",
         "seq": 1385
+      }
+    ],
+    "品阶": [
+      {
+        "value": "凌驾古神之上的本源传承",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "星空扭曲撕裂",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
+      },
+      {
+        "value": "身后现出无左目的巨大头颅虚影",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
       }
     ]
   },
@@ -44,12 +71,25 @@
       "docId": "plot.xianni-1478-return-home-luotian",
       "dated": false,
       "seq": 1385
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+      "dated": false,
+      "seq": 1395
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+      "dated": false,
+      "seq": 1395
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1478-return-home-luotian"
+    "plot.xianni-1478-return-home-luotian",
+    "plot.xianni-1395-1399-wang-lin-destroys-donglin-star"
   ],
-  "updatedAt": "2026-08-25T22:05:26.909Z"
+  "updatedAt": "2026-08-25T23:09:08.183Z"
 }

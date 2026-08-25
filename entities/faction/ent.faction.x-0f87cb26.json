@@ -5,11 +5,14 @@
   "aliases": [
     "西家家族",
     "西氏",
-    "西氏家族"
+    "西氏家族",
+    "罗天西家",
+    "西子凤的家族"
   ],
   "summary": "罗天星域修真家族，老祖为一老妇人，族中有西子凤、西子墨等俊杰。",
   "attributes": {
-    "等级": "修真家族"
+    "等级": "庞大但非顶尖",
+    "所属界面": "罗天星域"
   },
   "observations": {
     "等级": [
@@ -17,6 +20,19 @@
         "value": "修真家族",
         "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
         "seq": 810
+      },
+      {
+        "value": "庞大但非顶尖",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395,
+        "note": "近千年前的评价"
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "罗天星域",
+        "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+        "seq": 1395
       }
     ]
   },
@@ -24,16 +40,24 @@
   "attrProvenance": {
     "等级": {
       "asOf": null,
-      "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
+      "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
       "dated": false,
-      "seq": 810
+      "seq": 1395,
+      "note": "近千年前的评价"
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
+      "dated": false,
+      "seq": 1395
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
-    "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling"
+    "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+    "plot.xianni-1395-1399-wang-lin-destroys-donglin-star"
   ],
-  "updatedAt": "2026-08-23T15:28:10.094Z"
+  "updatedAt": "2026-08-25T23:09:08.329Z"
 }
