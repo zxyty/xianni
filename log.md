@@ -822,3 +822,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T19:42:23.752Z** `ingest` plot.xianni-ch1453-han-mu-wang-tian — 第1453章 寒目望天！——王林闯封印之地强夺封灭族少女 · kind=plot asOf=2026-08-25 entities=22 relations=33 src=01360-01364.p4.md
 - **2026-08-25T19:45:23.899Z** `ingest` plot.xianni-ch1454-fen-miaoyin-daozun-dahuang-alliance-break — 第1454章 分！——大荒上人背誓返身，王林血剑贯穿妙音道尊 · kind=plot asOf=2026-08-25 entities=28 relations=43 src=01360-01364.p5.md
 - **2026-08-25T20:43:57.253Z** `ingest` plot.xianni-1455-shashoujian-lingdong-shangren-ambush — 第1455章 杀手锏！——妙音道尊与大荒上人两败俱伤，王林祭出天皇炉中潜藏的灵动上人 · kind=plot asOf=2026-08-25 entities=22 relations=28 src=01365-01369.p1.md
+- **2026-08-25T20:46:17.234Z** `ingest` plot.xianni-ch1455-giant-hand-reappears — 第1455章 巨手再现！——王林掠夺妙音香火，被雾海巨手拽入雾中 · kind=plot asOf=2026-08-25 entities=15 relations=23 src=01365-01369.p2.md
