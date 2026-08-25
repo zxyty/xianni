@@ -5,16 +5,18 @@
   "aliases": [
     "紫色火海",
     "火雀主星内部最深处",
-    "火雀圣地"
+    "火雀圣地",
+    "诡异星空"
   ],
   "summary": "火雀主星内部最深处的深紫色火海，中心有阵法，老祖盘膝其中；无老祖召见，族长亦不得踏入。",
   "attributes": {
     "所属势力": "火雀族",
     "方位": "火雀主星内部最深处",
     "上级区域": "火雀主星",
-    "危险度": "极高（疑有三代孽雀闭关）",
+    "危险度": "极高（内有以三步大能为奴的活人）",
     "守护": "深紫色火焰",
-    "类型": "族地／圣地"
+    "类型": "圣地/禁地",
+    "特产": "火之本源"
   },
   "observations": {
     "所属势力": [
@@ -48,6 +50,11 @@
         "value": "极高（疑有三代孽雀闭关）",
         "docId": "plot.xianni-1419-lai-yidai-zhuque-jiuse-yumao-tianfangxiang-liwei",
         "seq": 1326
+      },
+      {
+        "value": "极高（内有以三步大能为奴的活人）",
+        "docId": "plot.xianni-1428-crazy-idea-fire-sparrow-ancestor-master",
+        "seq": 1336
       }
     ],
     "守护": [
@@ -62,6 +69,18 @@
         "value": "族地／圣地",
         "docId": "plot.xianni-1419-lai-yidai-zhuque-jiuse-yumao-tianfangxiang-liwei",
         "seq": 1326
+      },
+      {
+        "value": "圣地/禁地",
+        "docId": "plot.xianni-1428-crazy-idea-fire-sparrow-ancestor-master",
+        "seq": 1336
+      }
+    ],
+    "特产": [
+      {
+        "value": "火之本源",
+        "docId": "plot.xianni-1428-crazy-idea-fire-sparrow-ancestor-master",
+        "seq": 1336
       }
     ]
   },
@@ -87,9 +106,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-1419-lai-yidai-zhuque-jiuse-yumao-tianfangxiang-liwei",
+      "docId": "plot.xianni-1428-crazy-idea-fire-sparrow-ancestor-master",
       "dated": false,
-      "seq": 1326
+      "seq": 1336
     },
     "守护": {
       "asOf": null,
@@ -99,16 +118,23 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1419-lai-yidai-zhuque-jiuse-yumao-tianfangxiang-liwei",
+      "docId": "plot.xianni-1428-crazy-idea-fire-sparrow-ancestor-master",
       "dated": false,
-      "seq": 1326
+      "seq": 1336
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-1428-crazy-idea-fire-sparrow-ancestor-master",
+      "dated": false,
+      "seq": 1336
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1395-feng-qi-zhu-que-zhi-xue",
-    "plot.xianni-1419-lai-yidai-zhuque-jiuse-yumao-tianfangxiang-liwei"
+    "plot.xianni-1419-lai-yidai-zhuque-jiuse-yumao-tianfangxiang-liwei",
+    "plot.xianni-1428-crazy-idea-fire-sparrow-ancestor-master"
   ],
-  "updatedAt": "2026-08-25T17:28:28.538Z"
+  "updatedAt": "2026-08-25T18:24:03.320Z"
 }
