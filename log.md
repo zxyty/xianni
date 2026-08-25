@@ -650,3 +650,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T04:37:02.233Z** `ingest` plot.xianni-1262-return-wuji-sect-ancient-god-qi-shui-daozi-plot — 《仙逆》第1262章 回来了……——水道子疑其主未死、王林吸古神气息后归归元宗 · kind=plot asOf=2026-08-25 entities=30 relations=41 src=01178-01182.p3.md
 - **2026-08-25T04:39:39.906Z** `ingest` plot.xianni-ch1263-fish-and-bird-li-qianmei-farewell — 第1263章 鱼儿与飞鸟——李倩梅庭院道别与手镯之谢 · kind=plot asOf=2026-08-25 entities=24 relations=33 src=01178-01182.p4.md
 - **2026-08-25T04:42:19.131Z** `ingest` plot.xianni-1264-zhixiao-mu-bingmei-tuosen-news — 第1264章 知晓：木冰眉云海重逢，带来拓森横扫联盟星域的噩耗与古神烙印 · kind=plot asOf=2026-08-25 entities=31 relations=39 src=01178-01182.p5.md
+- **2026-08-25T05:18:57.831Z** `ingest` plot.xianni-1264-mubingmei-farewell-liqianmei-summons-wuji-sect-departs — 第1264章 惊变！——木冰眉自认柳眉道别、李倩梅被急召回破天宗、无极宗赴八阶大比 · kind=plot asOf=2026-08-25 entities=40 relations=66 src=01183-01186.p1.md
