@@ -4,13 +4,17 @@
   "name": "聚雷印",
   "aliases": [
     "Ju Lei Yin",
-    "闪雷族聚雷印"
+    "闪雷族聚雷印",
+    "聚雷印神通",
+    "Thunder Gathering Seal"
   ],
   "summary": "闪雷族族人修行的功法，可将体内雷霆之力瞬息压缩数倍以换取强悍爆发力，需族印配合，长期修行可使族印缓缓开启。",
   "attributes": {
     "出处": "闪雷族",
-    "效果": "瞬息压缩体内雷霆之力数倍、换取强悍爆发力、长期修行可使族印缓缓开启",
-    "修炼条件": "需族印配合"
+    "效果": "瞬息压缩体内雷霆之力数倍、换取强悍爆发力、长期修行可使族印缓缓开启、压缩雷霆之力换取瞬间爆发、威力随压缩倍数递增",
+    "修炼条件": "需族印配合、唯有雷修可施展",
+    "五行属性": "雷",
+    "适用境界": "化神可压十倍；修道第二步可摄天地雷力压至千倍万倍不止"
   },
   "observations": {
     "出处": [
@@ -35,12 +39,41 @@
         "value": "长期修行可使族印缓缓开启",
         "docId": "plot.xianni-1333-this-is-life-xu-liguo-plunder",
         "seq": 1246
+      },
+      {
+        "value": "压缩雷霆之力换取瞬间爆发",
+        "docId": "plot.xianni-1334-frightening-guess-thunder-seal-study",
+        "seq": 1246
+      },
+      {
+        "value": "威力随压缩倍数递增",
+        "docId": "plot.xianni-1334-frightening-guess-thunder-seal-study",
+        "seq": 1246
       }
     ],
     "修炼条件": [
       {
         "value": "需族印配合",
         "docId": "plot.xianni-1333-this-is-life-xu-liguo-plunder",
+        "seq": 1246
+      },
+      {
+        "value": "唯有雷修可施展",
+        "docId": "plot.xianni-1334-frightening-guess-thunder-seal-study",
+        "seq": 1246
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "雷",
+        "docId": "plot.xianni-1334-frightening-guess-thunder-seal-study",
+        "seq": 1246
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "化神可压十倍；修道第二步可摄天地雷力压至千倍万倍不止",
+        "docId": "plot.xianni-1334-frightening-guess-thunder-seal-study",
         "seq": 1246
       }
     ]
@@ -64,12 +97,25 @@
       "docId": "plot.xianni-1333-this-is-life-xu-liguo-plunder",
       "dated": false,
       "seq": 1246
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.xianni-1334-frightening-guess-thunder-seal-study",
+      "dated": false,
+      "seq": 1246
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-1334-frightening-guess-thunder-seal-study",
+      "dated": false,
+      "seq": 1246
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1333-this-is-life-xu-liguo-plunder"
+    "plot.xianni-1333-this-is-life-xu-liguo-plunder",
+    "plot.xianni-1334-frightening-guess-thunder-seal-study"
   ],
-  "updatedAt": "2026-08-25T11:18:53.436Z"
+  "updatedAt": "2026-08-25T11:25:36.693Z"
 }
