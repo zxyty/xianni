@@ -6,14 +6,16 @@
     "老四",
     "四叔",
     "王林的四叔",
-    "铁柱的四叔"
+    "铁柱的四叔",
+    "精壮汉子四叔"
   ],
   "summary": "王天水之弟，将恒岳派推荐名额让给侄儿王林，交友广泛。",
   "attributes": {
     "性别": "男",
     "种族": "凡人",
-    "身份": "凡人、王林家恩人",
-    "性格": "强硬仗义"
+    "身份": "王林的叔父",
+    "性格": "强硬仗义",
+    "外貌": "精壮汉子、虎目炯炯"
   },
   "observations": {
     "性别": [
@@ -51,6 +53,11 @@
         "value": "凡人、王林家恩人",
         "docId": "plot.xianni-ch893-thank-you-wang-lin-returns-to-ancestral-home",
         "seq": 834
+      },
+      {
+        "value": "王林的叔父",
+        "docId": "plot.xianni-1214-tiezhu-dao-shu-memory-illusion",
+        "seq": 1132
       }
     ],
     "性格": [
@@ -63,6 +70,13 @@
         "value": "强硬仗义",
         "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
         "seq": 7
+      }
+    ],
+    "外貌": [
+      {
+        "value": "精壮汉子、虎目炯炯",
+        "docId": "plot.xianni-1214-tiezhu-dao-shu-memory-illusion",
+        "seq": 1132
       }
     ]
   },
@@ -82,15 +96,21 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch893-thank-you-wang-lin-returns-to-ancestral-home",
+      "docId": "plot.xianni-1214-tiezhu-dao-shu-memory-illusion",
       "dated": false,
-      "seq": 834
+      "seq": 1132
     },
     "性格": {
       "asOf": null,
       "docId": "plot.xianni-ch07-12-liushu-rumen-shizhu",
       "dated": false,
       "seq": 7
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-1214-tiezhu-dao-shu-memory-illusion",
+      "dated": false,
+      "seq": 1132
     }
   },
   "contested": false,
@@ -99,7 +119,8 @@
     "plot.xianni-c01-06-wanglin-lixiang-celue-shibai",
     "plot.xianni-ch07-12-liushu-rumen-shizhu",
     "plot.xianni-ch892-wang-lin-returns-home-zhuque-star",
-    "plot.xianni-ch893-thank-you-wang-lin-returns-to-ancestral-home"
+    "plot.xianni-ch893-thank-you-wang-lin-returns-to-ancestral-home",
+    "plot.xianni-1214-tiezhu-dao-shu-memory-illusion"
   ],
-  "updatedAt": "2026-08-23T18:03:50.090Z"
+  "updatedAt": "2026-08-25T01:44:20.316Z"
 }

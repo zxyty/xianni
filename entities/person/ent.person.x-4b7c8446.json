@@ -16,10 +16,10 @@
   "attributes": {
     "性别": "男",
     "种族": "凡人",
-    "身份": "凡人、木雕匠人",
+    "身份": "山村村民",
     "出身地": "铁柱家乡山村",
     "标志特征": "魂魄被王林冰冻保存",
-    "存殁": "死亡、魂魄留存"
+    "存殁": "死亡、魂魄留存、在世"
   },
   "observations": {
     "性别": [
@@ -67,6 +67,11 @@
         "value": "凡人、木雕匠人",
         "docId": "plot.xianni-ch893-thank-you-wang-lin-returns-to-ancestral-home",
         "seq": 834
+      },
+      {
+        "value": "山村村民",
+        "docId": "plot.xianni-1214-tiezhu-dao-shu-memory-illusion",
+        "seq": 1132
       }
     ],
     "出身地": [
@@ -109,6 +114,12 @@
         "docId": "plot.xianni-ch117-wanglin-death",
         "seq": 102,
         "note": "凡人之魂被司徒南以元婴包裹保存"
+      },
+      {
+        "value": "在世",
+        "docId": "plot.xianni-1214-tiezhu-dao-shu-memory-illusion",
+        "seq": 1132,
+        "note": "幻境/记忆时点；王林自述梦中爹娘已死"
       }
     ]
   },
@@ -128,9 +139,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch893-thank-you-wang-lin-returns-to-ancestral-home",
+      "docId": "plot.xianni-1214-tiezhu-dao-shu-memory-illusion",
       "dated": false,
-      "seq": 834
+      "seq": 1132
     },
     "出身地": {
       "asOf": null,
@@ -162,7 +173,8 @@
     "plot.xianni-ch117-wanglin-death",
     "plot.xianni-ch235-because-he-is-surnamed-teng",
     "plot.xianni-679-wan-huan-tian-mo-dao",
-    "plot.xianni-ch893-thank-you-wang-lin-returns-to-ancestral-home"
+    "plot.xianni-ch893-thank-you-wang-lin-returns-to-ancestral-home",
+    "plot.xianni-1214-tiezhu-dao-shu-memory-illusion"
   ],
-  "updatedAt": "2026-08-23T18:03:50.089Z"
+  "updatedAt": "2026-08-25T01:44:20.313Z"
 }

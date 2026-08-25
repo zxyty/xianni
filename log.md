@@ -609,3 +609,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T00:53:51.602Z** `ingest` plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes — 第1211章 青龙圣皇：太古四圣器镇体，四圣宗收复昆虚星域 · kind=plot asOf=2026-08-25 entities=39 relations=57 src=01127-01131.p3.md
 - **2026-08-25T00:56:04.812Z** `ingest` plot.xianni-ch1212-feng-mie-zu-seal-flame-totem — 第1212章 封灭族——王林火焰图腾遭封印，闪电图腾接续，双役灵印对轰 · kind=plot asOf=2026-08-25 entities=19 relations=24 src=01127-01131.p4.md
 - **2026-08-25T00:58:41.604Z** `ingest` plot.xianni-ch1213-dao-shu-san-dao — 第1213章 道术！——役灵印对轰、封天二封与散道之术 · kind=plot asOf=2026-08-25 entities=20 relations=34 src=01127-01131.p5.md
+- **2026-08-25T01:44:20.616Z** `ingest` plot.xianni-1214-tiezhu-dao-shu-memory-illusion — 第1214章 铁柱：白发老者道术抹记忆，王林重历凡人少年 · kind=plot asOf=2026-08-25 entities=27 relations=35 src=01132-01136.p1.md
