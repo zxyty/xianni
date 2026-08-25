@@ -13,16 +13,18 @@
     "内海",
     "修魔内海",
     "修魔盘地",
-    "修魔外海"
+    "修魔外海",
+    "墓地雾海",
+    "雾气之海"
   ],
   "summary": "邻近火焚国的海域。",
   "attributes": {
-    "类型": "雾海、海域秘境、海域/魔修之地、海域/修魔势力范围、海域/魔修聚集地、海域/凶地、海域、海域/险地、海域/大型秘境、凶险海域、海域/危险地带、海域/危险秘境、魔修海域、雾气海域、妖海、海域/凶险之地、海域/势力区、海域/凶险区域、海域/修真区域、大型修真区域、海域／修真禁地、海域/修行险地、雾化之海、盆地（原雾海）、凶地/海域、雾气秘域",
+    "类型": "雾海、海域秘境、海域/魔修之地、海域/修魔势力范围、海域/魔修聚集地、海域/凶地、海域、海域/险地、海域/大型秘境、凶险海域、海域/危险地带、海域/危险秘境、魔修海域、雾气海域、妖海、海域/凶险之地、海域/势力区、海域/凶险区域、海域/修真区域、大型修真区域、海域／修真禁地、海域/修行险地、雾化之海、盆地（原雾海）、凶地/海域、雾气秘域、雾气区域",
     "方位": "周武大陆与赵国大陆之间、火焚国边境外、修魔海内层",
     "危险度": "极高(元婴期亦不敢轻入)、高、高（海威、化海）、极高、高（遍地危机）、极高（化神期修士活动）、妖灵兽乱、荒兽出没、妖兽极多，野外凶险、极高，弱肉强食、高，新生势力混杂",
     "特产": "每年一月雾气复为海水、阴寒灵力、上古海洋植被、内海灵兽、远古古传送阵、小兽兽群、飓风、雾气化海、异兽内丹、常年黑雨与天劫雷云、极品灵石、妖兽内丹、八爪兽、妖兽、古传送阵、魔逆城、炼器阁、修魔海特产水果、曾有万年不散的雾气（已消散一空）、无形雾气、妖兽、阴气、铭志者虚影",
     "规模": "约相当于几千个火焚国、城池近千（九百九十八城）、极大，飞行百年难达边缘、极大、九百九十九座主城及庞大荒原、一大片凹陷盆地",
-    "上级区域": "朱雀星",
+    "上级区域": "古之墓地",
     "所属界面": "朱雀星",
     "所属势力": "仙遗族附庸"
   },
@@ -157,6 +159,11 @@
         "value": "雾气秘域",
         "docId": "plot.xianni-1191-tianyun-reappears-cangsongzi-vs-qingshan-crone",
         "seq": 1105
+      },
+      {
+        "value": "雾气区域",
+        "docId": "plot.xianni-1441-tomb-outer-trial-and-xuhuo-rumors",
+        "seq": 1350
       }
     ],
     "方位": [
@@ -364,6 +371,11 @@
         "value": "朱雀星",
         "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
         "seq": 273
+      },
+      {
+        "value": "古之墓地",
+        "docId": "plot.xianni-1441-tomb-outer-trial-and-xuhuo-rumors",
+        "seq": 1350
       }
     ],
     "所属界面": [
@@ -416,9 +428,9 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
+      "docId": "plot.xianni-1441-tomb-outer-trial-and-xuhuo-rumors",
       "dated": false,
-      "seq": 273
+      "seq": 1350
     },
     "所属界面": {
       "asOf": null,
@@ -495,7 +507,8 @@
     "plot.xianni-ch1111-tuosen-alliance-forces-descend-zhuque-star",
     "plot.xianni-1112-yujie-huhjiu-mieshen-mao",
     "plot.xianni-ch1125-ji-qiong-avatar-into-ancient-god-land",
-    "plot.xianni-1191-tianyun-reappears-cangsongzi-vs-qingshan-crone"
+    "plot.xianni-1191-tianyun-reappears-cangsongzi-vs-qingshan-crone",
+    "plot.xianni-1441-tomb-outer-trial-and-xuhuo-rumors"
   ],
-  "updatedAt": "2026-08-24T22:54:21.335Z"
+  "updatedAt": "2026-08-25T19:13:29.793Z"
 }

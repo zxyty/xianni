@@ -13,16 +13,17 @@
     "古之墓地裂缝内",
     "古之墓地裂缝内部",
     "古幕",
-    "古之墓地内部"
+    "古之墓地内部",
+    "古之墓地外围"
   ],
   "summary": "传说中埋葬『古』的墓地，需破开虚无方可前往，内有古魂。",
   "attributes": {
-    "类型": "秘境/禁地、古老墓地/秘境、墓地/秘境、上古秘境/禁地、上古禁地/墓地、禁地/墓地、古墓秘境／禁地、古墓秘境",
+    "类型": "秘境/禁地、古老墓地/秘境、墓地/秘境、上古秘境/禁地、上古禁地/墓地、禁地/墓地、古墓秘境／禁地、古墓秘境、远古墓地/秘境",
     "危险度": "需破开虚无方可抵达、极高，风暴内毁灭一切生灵、未知（诸多大能齐聚）、极高——裂缝外十万里雾气内蕴可怕力量，第三步修士亦不敢轻入、极高（雾气十死一生）、极高（凶险重重，三步大能亦需承受雾气考验）、极高、极高（入口即遭杀人夺宝围杀）、极高：雾柱触之即死，力量足以杀死三步大能",
-    "特产": "古魂、法宝、丹药、神通之术、踏入空劫大境的方法",
+    "特产": "古魂、法宝、丹药、神通之术、踏入空劫大境的方法、古神头颅、古神法宝",
     "上级区域": "太古星辰",
     "方位": "自六星战场东北处一百七十三万四千五百三十二里",
-    "守护": "十万里翻滚雾气、弥漫数千万里的死息浓雾风暴、外围杀人无形的雾气、翻滚暴躁的浓雾（阻挡本体进入）、碎石平台外环绕的奇异力量，神通无法破开、平台外环绕的排斥防护之力",
+    "守护": "十万里翻滚雾气、弥漫数千万里的死息浓雾风暴、外围杀人无形的雾气、翻滚暴躁的浓雾（阻挡本体进入）、碎石平台外环绕的奇异力量，神通无法破开、平台外环绕的排斥防护之力、数千人形凶兽",
     "所属界面": "太古星辰",
     "规模": "极大，容数百修士而不显密集"
   },
@@ -67,6 +68,11 @@
         "value": "古墓秘境",
         "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
         "seq": 1346
+      },
+      {
+        "value": "远古墓地/秘境",
+        "docId": "plot.xianni-1441-tomb-outer-trial-and-xuhuo-rumors",
+        "seq": 1350
       }
     ],
     "危险度": [
@@ -141,6 +147,16 @@
         "value": "踏入空劫大境的方法",
         "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
         "seq": 1346
+      },
+      {
+        "value": "古神头颅",
+        "docId": "plot.xianni-1441-tomb-outer-trial-and-xuhuo-rumors",
+        "seq": 1350
+      },
+      {
+        "value": "古神法宝",
+        "docId": "plot.xianni-1441-tomb-outer-trial-and-xuhuo-rumors",
+        "seq": 1350
       }
     ],
     "上级区域": [
@@ -187,6 +203,11 @@
         "value": "平台外环绕的排斥防护之力",
         "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
         "seq": 1346
+      },
+      {
+        "value": "数千人形凶兽",
+        "docId": "plot.xianni-1441-tomb-outer-trial-and-xuhuo-rumors",
+        "seq": 1350
       }
     ],
     "所属界面": [
@@ -264,7 +285,8 @@
     "plot.xianni-1422-feng-xianghuo-jie",
     "plot.xianni-1434-fengtianlang-pursuit",
     "plot.xianni-1435-wang-lin-ambush-six-star-detonation",
-    "plot.xianni-ch1346-1349-ancient-tomb-opens"
+    "plot.xianni-ch1346-1349-ancient-tomb-opens",
+    "plot.xianni-1441-tomb-outer-trial-and-xuhuo-rumors"
   ],
-  "updatedAt": "2026-08-25T19:09:07.478Z"
+  "updatedAt": "2026-08-25T19:13:29.792Z"
 }

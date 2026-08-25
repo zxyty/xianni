@@ -807,3 +807,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T18:45:49.253Z** `ingest` plot.xianni-1435-wang-lin-ambush-six-star-detonation — 第1435章 王林的伏击：六星自爆与血剑斩封灭族少女 · kind=plot asOf=2026-08-25 entities=20 relations=26 src=01341-01345.p5.md
 - **2026-08-25T19:09:07.844Z** `ingest` plot.xianni-ch1346-1349-ancient-tomb-opens — 仙逆 第1346-1349章：古之墓地开启与数字标记筛选 · kind=plot asOf=2026-08-25 entities=86 relations=127 src=01346-01349.md
 - **2026-08-25T19:11:11.338Z** `ingest` plot.xianni-ch1440-three-and-three-again-platform-slaughter — 仙逆 第1440章 三人三人又三人：雾海平台夺台厮杀，王林连斩九人 · kind=plot asOf=2026-08-25 entities=18 relations=23 src=01350-01354.p1.md
+- **2026-08-25T19:13:30.256Z** `ingest` plot.xianni-1441-tomb-outer-trial-and-xuhuo-rumors — 仙逆 第1441章 传闻传闻又传闻：二十八平台下沉与虚火修士的传闻 · kind=plot asOf=2026-08-25 entities=18 relations=26 src=01350-01354.p2.md

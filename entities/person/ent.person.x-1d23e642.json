@@ -4,20 +4,28 @@
   "name": "冲击王林平台的天人第四衰老者",
   "aliases": [
     "天人第四衰老者",
-    "九黑龙护体老者"
+    "九黑龙护体老者",
+    "第四衰老者",
+    "被王林放过的老者"
   ],
   "summary": "率十余人冲击王林平台的最强者，以九条黑龙护体抵挡剑气，并抓来同伴挡剑，最终仓皇退走。",
   "attributes": {
-    "身份": "夺台修士",
+    "身份": "夺台修士、夺台成功者之一",
     "小阶段": "天人第四衰",
     "存殁": "存活",
-    "标志特征": "全身弥漫九条黑龙旋转护体"
+    "标志特征": "全身弥漫九条黑龙旋转护体",
+    "性格": "畏惧、记恩"
   },
   "observations": {
     "身份": [
       {
         "value": "夺台修士",
         "docId": "plot.xianni-ch1440-three-and-three-again-platform-slaughter",
+        "seq": 1350
+      },
+      {
+        "value": "夺台成功者之一",
+        "docId": "plot.xianni-1441-tomb-outer-trial-and-xuhuo-rumors",
         "seq": 1350
       }
     ],
@@ -39,6 +47,13 @@
       {
         "value": "全身弥漫九条黑龙旋转护体",
         "docId": "plot.xianni-ch1440-three-and-three-again-platform-slaughter",
+        "seq": 1350
+      }
+    ],
+    "性格": [
+      {
+        "value": "畏惧、记恩",
+        "docId": "plot.xianni-1441-tomb-outer-trial-and-xuhuo-rumors",
         "seq": 1350
       }
     ]
@@ -68,12 +83,19 @@
       "docId": "plot.xianni-ch1440-three-and-three-again-platform-slaughter",
       "dated": false,
       "seq": 1350
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-1441-tomb-outer-trial-and-xuhuo-rumors",
+      "dated": false,
+      "seq": 1350
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1440-three-and-three-again-platform-slaughter"
+    "plot.xianni-ch1440-three-and-three-again-platform-slaughter",
+    "plot.xianni-1441-tomb-outer-trial-and-xuhuo-rumors"
   ],
-  "updatedAt": "2026-08-25T19:11:10.939Z"
+  "updatedAt": "2026-08-25T19:13:29.805Z"
 }
