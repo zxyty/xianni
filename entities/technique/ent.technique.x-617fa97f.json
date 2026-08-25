@@ -9,10 +9,11 @@
   ],
   "summary": "涂司所修的分神／神通之术，修炼中分离出一丝魔念即拓森；被指为练不成的神通之术。",
   "attributes": {
-    "出处": "涂司生前所创（未彻底完成）",
+    "出处": "古神一族秘术",
     "外显异象": "黑色迷雾弥漫全身",
-    "效果": "分神、分神；被涂司用于冲击九星古神、黑色迷雾护身、令古神之器犹豫停顿、迷雾侵入阵法",
-    "修炼条件": "古神；涂司施展失败"
+    "效果": "分神、分神；被涂司用于冲击九星古神、黑色迷雾护身、令古神之器犹豫停顿、迷雾侵入阵法、分神以冲击九星",
+    "修炼条件": "古神；涂司施展失败",
+    "适用境界": "八星巅峰古神"
   },
   "observations": {
     "出处": [
@@ -35,6 +36,11 @@
         "value": "涂司生前所创（未彻底完成）",
         "docId": "plot.xianni-1219-eight-spirits-tuosen-breaks-seal-array",
         "seq": 1137
+      },
+      {
+        "value": "古神一族秘术",
+        "docId": "plot.xianni-1475-suming-second-battle-part1",
+        "seq": 1385
       }
     ],
     "外显异象": [
@@ -74,6 +80,11 @@
         "value": "迷雾侵入阵法",
         "docId": "plot.xianni-1219-eight-spirits-tuosen-breaks-seal-array",
         "seq": 1137
+      },
+      {
+        "value": "分神以冲击九星",
+        "docId": "plot.xianni-1475-suming-second-battle-part1",
+        "seq": 1385
       }
     ],
     "修炼条件": [
@@ -87,15 +98,22 @@
         "docId": "plot.xianni-1193-blood-battle-cang-song-zi",
         "seq": 1110
       }
+    ],
+    "适用境界": [
+      {
+        "value": "八星巅峰古神",
+        "docId": "plot.xianni-1475-suming-second-battle-part1",
+        "seq": 1385
+      }
     ]
   },
   "firstSeq": 179,
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-1219-eight-spirits-tuosen-breaks-seal-array",
+      "docId": "plot.xianni-1475-suming-second-battle-part1",
       "dated": false,
-      "seq": 1137
+      "seq": 1385
     },
     "外显异象": {
       "asOf": null,
@@ -114,6 +132,12 @@
       "docId": "plot.xianni-1193-blood-battle-cang-song-zi",
       "dated": false,
       "seq": 1110
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-1475-suming-second-battle-part1",
+      "dated": false,
+      "seq": 1385
     }
   },
   "contested": false,
@@ -123,7 +147,8 @@
     "plot.xianni-ch1134-tuosen-appears-blood-dragon-heart-blood",
     "plot.xianni-ch1157-yi-sun-liang-jie-gu-jie",
     "plot.xianni-1193-blood-battle-cang-song-zi",
-    "plot.xianni-1219-eight-spirits-tuosen-breaks-seal-array"
+    "plot.xianni-1219-eight-spirits-tuosen-breaks-seal-array",
+    "plot.xianni-1475-suming-second-battle-part1"
   ],
-  "updatedAt": "2026-08-25T02:00:44.716Z"
+  "updatedAt": "2026-08-25T21:58:01.552Z"
 }

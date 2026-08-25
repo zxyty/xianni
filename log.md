@@ -842,3 +842,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T21:50:39.576Z** `ingest` plot.xianni-1472-seven-star-ancient-god — 第1472章 七星古神——王林十八息成千丈王族七星古神，神识连座椅遍照古墓三层 · kind=plot asOf=2026-08-25 entities=25 relations=36 src=01380-01384.p4.md
 - **2026-08-25T21:53:15.762Z** `ingest` plot.xianni-1473-one-roar-power-tomb-will-fusion — 第1473章 一吼之力——王林融合古墓意志，神识扫遍全墓并以一吼震崩众强 · kind=plot asOf=2026-08-25 entities=23 relations=40 src=01380-01384.p5.md
 - **2026-08-25T21:55:44.335Z** `ingest` plot.xianni-ch1474-active-initiative-tomb-inheritance — 仙逆 第1474章 主动：一吼退掌尊、放走白衣女子、王林主动吸取古墓传承 · kind=plot asOf=2026-08-25 entities=19 relations=31 src=01385-01389.p1.md
+- **2026-08-25T21:58:01.904Z** `ingest` plot.xianni-1475-suming-second-battle-part1 — 第1475章 宿命第二战！（一）——王林七星古神大成，与拓森再战 · kind=plot asOf=2026-08-25 entities=22 relations=38 src=01385-01389.p2.md

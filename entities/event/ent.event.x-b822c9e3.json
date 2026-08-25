@@ -3,15 +3,17 @@
   "type": "event",
   "name": "涂司墨流分神失败",
   "aliases": [
-    "墨流分神术失败"
+    "墨流分神术失败",
+    "涂司冲击九星失败"
   ],
   "summary": "远古时期古神涂司施展墨流分神术失败，导致其为分神准备的三叉戟遗失于岁月之中。",
   "attributes": {
-    "世内时序": "远古（早于本章数不清岁月）",
+    "世内时序": "远古，早于本章",
     "参与方": "涂司",
-    "起因": "涂司欲以墨流分神术分神",
-    "结果": "分神失败，三叉戟遗失",
-    "影响": "三叉戟辗转落入天运子、后归王林"
+    "起因": "长期停滞八星巅峰，欲冲击九星",
+    "结果": "秘术失败，衍生魔念拓森",
+    "影响": "三叉戟辗转落入天运子、后归王林",
+    "章节": "第1475章（追述）"
   },
   "observations": {
     "世内时序": [
@@ -19,6 +21,11 @@
         "value": "远古（早于本章数不清岁月）",
         "docId": "plot.xianni-1193-blood-battle-cang-song-zi",
         "seq": 1110
+      },
+      {
+        "value": "远古，早于本章",
+        "docId": "plot.xianni-1475-suming-second-battle-part1",
+        "seq": 1385
       }
     ],
     "参与方": [
@@ -33,6 +40,11 @@
         "value": "涂司欲以墨流分神术分神",
         "docId": "plot.xianni-1193-blood-battle-cang-song-zi",
         "seq": 1110
+      },
+      {
+        "value": "长期停滞八星巅峰，欲冲击九星",
+        "docId": "plot.xianni-1475-suming-second-battle-part1",
+        "seq": 1385
       }
     ],
     "结果": [
@@ -40,6 +52,11 @@
         "value": "分神失败，三叉戟遗失",
         "docId": "plot.xianni-1193-blood-battle-cang-song-zi",
         "seq": 1110
+      },
+      {
+        "value": "秘术失败，衍生魔念拓森",
+        "docId": "plot.xianni-1475-suming-second-battle-part1",
+        "seq": 1385
       }
     ],
     "影响": [
@@ -48,15 +65,22 @@
         "docId": "plot.xianni-1193-blood-battle-cang-song-zi",
         "seq": 1110
       }
+    ],
+    "章节": [
+      {
+        "value": "第1475章（追述）",
+        "docId": "plot.xianni-1475-suming-second-battle-part1",
+        "seq": 1385
+      }
     ]
   },
   "firstSeq": 1110,
   "attrProvenance": {
     "世内时序": {
       "asOf": null,
-      "docId": "plot.xianni-1193-blood-battle-cang-song-zi",
+      "docId": "plot.xianni-1475-suming-second-battle-part1",
       "dated": false,
-      "seq": 1110
+      "seq": 1385
     },
     "参与方": {
       "asOf": null,
@@ -66,27 +90,34 @@
     },
     "起因": {
       "asOf": null,
-      "docId": "plot.xianni-1193-blood-battle-cang-song-zi",
+      "docId": "plot.xianni-1475-suming-second-battle-part1",
       "dated": false,
-      "seq": 1110
+      "seq": 1385
     },
     "结果": {
       "asOf": null,
-      "docId": "plot.xianni-1193-blood-battle-cang-song-zi",
+      "docId": "plot.xianni-1475-suming-second-battle-part1",
       "dated": false,
-      "seq": 1110
+      "seq": 1385
     },
     "影响": {
       "asOf": null,
       "docId": "plot.xianni-1193-blood-battle-cang-song-zi",
       "dated": false,
       "seq": 1110
+    },
+    "章节": {
+      "asOf": null,
+      "docId": "plot.xianni-1475-suming-second-battle-part1",
+      "dated": false,
+      "seq": 1385
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1193-blood-battle-cang-song-zi"
+    "plot.xianni-1193-blood-battle-cang-song-zi",
+    "plot.xianni-1475-suming-second-battle-part1"
   ],
-  "updatedAt": "2026-08-24T22:59:41.966Z"
+  "updatedAt": "2026-08-25T21:58:01.564Z"
 }
