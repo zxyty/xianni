@@ -4,12 +4,14 @@
   "name": "大比平台",
   "aliases": [
     "炼魂宗大比平台",
-    "五阶分宗大比平台"
+    "五阶分宗大比平台",
+    "比试平台"
   ],
   "summary": "炼魂宗外围弟子大比的比试平台，莽汉在此认输、王林与司马在此决战。",
   "attributes": {
     "所属势力": "无极宗",
-    "类型": "比武擂台"
+    "类型": "比武平台",
+    "规模": "四周看台近十万修士"
   },
   "observations": {
     "所属势力": [
@@ -34,6 +36,18 @@
         "value": "比武擂台",
         "docId": "plot.xianni-1250-wuji-zong-five-tier-competition-lu-yuncong-refuses",
         "seq": 1165
+      },
+      {
+        "value": "比武平台",
+        "docId": "plot.xianni-1252-chizha-wuji-3-wang-lin-arrives-with-thunder",
+        "seq": 1170
+      }
+    ],
+    "规模": [
+      {
+        "value": "四周看台近十万修士",
+        "docId": "plot.xianni-1252-chizha-wuji-3-wang-lin-arrives-with-thunder",
+        "seq": 1170
       }
     ]
   },
@@ -47,16 +61,23 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1250-wuji-zong-five-tier-competition-lu-yuncong-refuses",
+      "docId": "plot.xianni-1252-chizha-wuji-3-wang-lin-arrives-with-thunder",
       "dated": false,
-      "seq": 1165
+      "seq": 1170
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-1252-chizha-wuji-3-wang-lin-arrives-with-thunder",
+      "dated": false,
+      "seq": 1170
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch380-lianhunzong-search",
-    "plot.xianni-1250-wuji-zong-five-tier-competition-lu-yuncong-refuses"
+    "plot.xianni-1250-wuji-zong-five-tier-competition-lu-yuncong-refuses",
+    "plot.xianni-1252-chizha-wuji-3-wang-lin-arrives-with-thunder"
   ],
-  "updatedAt": "2026-08-25T03:58:56.460Z"
+  "updatedAt": "2026-08-25T04:03:56.393Z"
 }

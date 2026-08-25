@@ -640,3 +640,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T03:56:31.726Z** `ingest` plot.xianni-1249-mu-bing-mei-storage-rift-suo-di-cheng-cun — 仙逆 第1249章 木冰眉：王林开辟第二储物空间收纳蚊兽，风仙界内施展缩地成寸 · kind=plot asOf=2026-08-25 entities=45 relations=76 src=01165-01169.p3.md
 - **2026-08-25T03:58:56.779Z** `ingest` plot.xianni-1250-wuji-zong-five-tier-competition-lu-yuncong-refuses — 第1250章 叱咤无极（一）：卢云从拒战归元宗，吕子浩之名震动无极宗 · kind=plot asOf=2026-08-25 entities=25 relations=37 src=01165-01169.p4.md
 - **2026-08-25T04:01:25.703Z** `ingest` plot.xianni-1251-chizha-wuji-2-luyuncong-recounts-lu-zihao — 第1251章 叱咤无极（二）：卢云从当众追述吕子浩，玉简虚影惊动无极宗 · kind=plot asOf=2026-08-25 entities=23 relations=33 src=01165-01169.p5.md
+- **2026-08-25T04:03:56.713Z** `ingest` plot.xianni-1252-chizha-wuji-3-wang-lin-arrives-with-thunder — 《仙逆》第1252章 叱咤无极（三）：吕烟菲被迫应战，白发者携天雷降临 · kind=plot asOf=2026-08-25 entities=24 relations=35 src=01170-01173.p1.md
