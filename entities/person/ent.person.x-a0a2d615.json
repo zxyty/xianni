@@ -7,7 +7,8 @@
   ],
   "summary": "云海神宗大长老，数万年前欠下那一代昆虚圣女情分，是木冰眉逃来云海的凭依。",
   "attributes": {
-    "身份": "神宗大长老"
+    "身份": "神宗大长老",
+    "阵营": "神宗"
   },
   "observations": {
     "身份": [
@@ -21,6 +22,13 @@
         "docId": "plot.xianni-ch1273-water-daozi-arrival-first-clash",
         "seq": 1187
       }
+    ],
+    "阵营": [
+      {
+        "value": "神宗",
+        "docId": "plot.xianni-1289-strength-is-supreme-wang-lin-seizes-wuji-sect-ancient-god-sword-peak",
+        "seq": 1202
+      }
     ]
   },
   "firstSeq": 1178,
@@ -30,13 +38,20 @@
       "docId": "plot.xianni-ch1273-water-daozi-arrival-first-clash",
       "dated": false,
       "seq": 1187
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1289-strength-is-supreme-wang-lin-seizes-wuji-sect-ancient-god-sword-peak",
+      "dated": false,
+      "seq": 1202
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1264-zhixiao-mu-bingmei-tuosen-news",
-    "plot.xianni-ch1273-water-daozi-arrival-first-clash"
+    "plot.xianni-ch1273-water-daozi-arrival-first-clash",
+    "plot.xianni-1289-strength-is-supreme-wang-lin-seizes-wuji-sect-ancient-god-sword-peak"
   ],
-  "updatedAt": "2026-08-25T05:37:15.535Z"
+  "updatedAt": "2026-08-25T07:19:37.104Z"
 }

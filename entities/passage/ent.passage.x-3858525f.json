@@ -10,7 +10,8 @@
   "attributes": {
     "类型": "跨星域传送阵",
     "两端": "无极宗 ↔ 云海星域各处（中转至破天宗）、无极宗↔五阶星域莫罗大陆、八阶星域无极宗—九阶星域",
-    "守护": "无极宗"
+    "守护": "无极宗",
+    "稳定性": "开启即被宗内察觉"
   },
   "observations": {
     "类型": [
@@ -48,6 +49,13 @@
         "docId": "plot.xianni-1264-mubingmei-farewell-liqianmei-summons-wuji-sect-departs",
         "seq": 1183
       }
+    ],
+    "稳定性": [
+      {
+        "value": "开启即被宗内察觉",
+        "docId": "plot.xianni-1289-strength-is-supreme-wang-lin-seizes-wuji-sect-ancient-god-sword-peak",
+        "seq": 1202
+      }
     ]
   },
   "firstSeq": 1183,
@@ -69,13 +77,20 @@
       "docId": "plot.xianni-1264-mubingmei-farewell-liqianmei-summons-wuji-sect-departs",
       "dated": false,
       "seq": 1183
+    },
+    "稳定性": {
+      "asOf": null,
+      "docId": "plot.xianni-1289-strength-is-supreme-wang-lin-seizes-wuji-sect-ancient-god-sword-peak",
+      "dated": false,
+      "seq": 1202
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1264-mubingmei-farewell-liqianmei-summons-wuji-sect-departs",
-    "plot.xianni-1287-sui-qian-wan-ren-wu-wang-yi"
+    "plot.xianni-1287-sui-qian-wan-ren-wu-wang-yi",
+    "plot.xianni-1289-strength-is-supreme-wang-lin-seizes-wuji-sect-ancient-god-sword-peak"
   ],
-  "updatedAt": "2026-08-25T07:14:21.294Z"
+  "updatedAt": "2026-08-25T07:19:37.119Z"
 }

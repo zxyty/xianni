@@ -5,15 +5,17 @@
   "aliases": [
     "白衣老妇",
     "李倩梅的师姐",
-    "妖宗白衣老妪"
+    "妖宗白衣老妪",
+    "那白衣老妪"
   ],
   "summary": "碎涅大圆满修士，妖宗中人，看着李倩梅从小长大的师姐；受托代送魂血至蛮荒大陆救醒王林，并将李倩梅十年牺牲的全部真相告知王林，随后被王林擒住带路。",
   "attributes": {
     "性别": "女",
-    "外貌": "身穿白衣、面色阴沉的老妪",
+    "外貌": "白衣老妪",
     "性格": "恶劣、冷硬，却怀悲愤",
     "标志特征": "右心处有妖宗太上长老千年前所留疗伤封印",
-    "存殁": "存活"
+    "存殁": "存活",
+    "阵营": "随行王林"
   },
   "observations": {
     "性别": [
@@ -28,6 +30,11 @@
         "value": "身穿白衣、面色阴沉的老妪",
         "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
         "seq": 1200
+      },
+      {
+        "value": "白衣老妪",
+        "docId": "plot.xianni-1289-strength-is-supreme-wang-lin-seizes-wuji-sect-ancient-god-sword-peak",
+        "seq": 1202
       }
     ],
     "性格": [
@@ -50,6 +57,13 @@
         "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
         "seq": 1200
       }
+    ],
+    "阵营": [
+      {
+        "value": "随行王林",
+        "docId": "plot.xianni-1289-strength-is-supreme-wang-lin-seizes-wuji-sect-ancient-god-sword-peak",
+        "seq": 1202
+      }
     ]
   },
   "firstSeq": 1200,
@@ -62,9 +76,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
+      "docId": "plot.xianni-1289-strength-is-supreme-wang-lin-seizes-wuji-sect-ancient-god-sword-peak",
       "dated": false,
-      "seq": 1200
+      "seq": 1202
     },
     "性格": {
       "asOf": null,
@@ -83,12 +97,19 @@
       "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
       "dated": false,
       "seq": 1200
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1289-strength-is-supreme-wang-lin-seizes-wuji-sect-ancient-god-sword-peak",
+      "dated": false,
+      "seq": 1202
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.xianni-1284-tianni-origin-fengjie-zhizun"
+    "lore.xianni-1284-tianni-origin-fengjie-zhizun",
+    "plot.xianni-1289-strength-is-supreme-wang-lin-seizes-wuji-sect-ancient-god-sword-peak"
   ],
-  "updatedAt": "2026-08-25T06:20:26.560Z"
+  "updatedAt": "2026-08-25T07:19:37.102Z"
 }
