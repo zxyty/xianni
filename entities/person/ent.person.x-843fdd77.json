@@ -15,7 +15,8 @@
     "阵营": "向家",
     "外貌": "老者",
     "标志特征": "闭关数万年、栖身人头塔上土黄溃烂棺材，声音沙哑苍老",
-    "存殁": "在世"
+    "存殁": "在世",
+    "性格": "卑鄙阴毒"
   },
   "observations": {
     "身份": [
@@ -58,6 +59,13 @@
         "docId": "lore.xianni-1482-dongling-star-xiang-clan",
         "seq": 1390
       }
+    ],
+    "性格": [
+      {
+        "value": "卑鄙阴毒",
+        "docId": "plot.xianni-1483-donglin-star-wang-lin-roar",
+        "seq": 1390
+      }
     ]
   },
   "firstSeq": 810,
@@ -92,6 +100,12 @@
       "docId": "lore.xianni-1482-dongling-star-xiang-clan",
       "dated": false,
       "seq": 1390
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-1483-donglin-star-wang-lin-roar",
+      "dated": false,
+      "seq": 1390
     }
   },
   "contested": false,
@@ -101,7 +115,8 @@
     "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
     "plot.xianni-1479-luotian-preparing-for-war-lu-fuzi",
     "plot.xianni-1481-hengyun-rain-sword-xie-qing",
-    "lore.xianni-1482-dongling-star-xiang-clan"
+    "lore.xianni-1482-dongling-star-xiang-clan",
+    "plot.xianni-1483-donglin-star-wang-lin-roar"
   ],
-  "updatedAt": "2026-08-25T22:20:05.535Z"
+  "updatedAt": "2026-08-25T22:22:29.915Z"
 }

@@ -4,13 +4,15 @@
   "name": "土黄色棺材",
   "aliases": [
     "向家先祖的棺材",
-    "溃烂土黄棺"
+    "溃烂土黄棺",
+    "无盖土黄棺"
   ],
   "summary": "停放于人头海中心人头平台上的土黄色棺材，木质溃烂，散出近乎疯狂的气息，向家先祖之声由其内传出。",
   "attributes": {
     "持有者": "向家先祖",
-    "外形": "土黄色、木质溃烂",
-    "来历": "封于东临星地底人头海中心"
+    "外形": "土黄色棺材",
+    "来历": "人头之海空间内",
+    "禁制": "棺盖已被震碎"
   },
   "observations": {
     "持有者": [
@@ -25,6 +27,11 @@
         "value": "土黄色、木质溃烂",
         "docId": "plot.xianni-ch884-vitality-traded-for-qixi-technique",
         "seq": 821
+      },
+      {
+        "value": "土黄色棺材",
+        "docId": "plot.xianni-1483-donglin-star-wang-lin-roar",
+        "seq": 1390
       }
     ],
     "来历": [
@@ -32,6 +39,19 @@
         "value": "封于东临星地底人头海中心",
         "docId": "plot.xianni-ch884-vitality-traded-for-qixi-technique",
         "seq": 821
+      },
+      {
+        "value": "人头之海空间内",
+        "docId": "plot.xianni-1483-donglin-star-wang-lin-roar",
+        "seq": 1390
+      }
+    ],
+    "禁制": [
+      {
+        "value": "棺盖已被震碎",
+        "docId": "plot.xianni-1483-donglin-star-wang-lin-roar",
+        "seq": 1390,
+        "note": "本章"
       }
     ]
   },
@@ -45,21 +65,29 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch884-vitality-traded-for-qixi-technique",
+      "docId": "plot.xianni-1483-donglin-star-wang-lin-roar",
       "dated": false,
-      "seq": 821
+      "seq": 1390
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch884-vitality-traded-for-qixi-technique",
+      "docId": "plot.xianni-1483-donglin-star-wang-lin-roar",
       "dated": false,
-      "seq": 821
+      "seq": 1390
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-1483-donglin-star-wang-lin-roar",
+      "dated": false,
+      "seq": 1390,
+      "note": "本章"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch884-vitality-traded-for-qixi-technique"
+    "plot.xianni-ch884-vitality-traded-for-qixi-technique",
+    "plot.xianni-1483-donglin-star-wang-lin-roar"
   ],
-  "updatedAt": "2026-08-23T16:58:04.426Z"
+  "updatedAt": "2026-08-25T22:22:29.933Z"
 }

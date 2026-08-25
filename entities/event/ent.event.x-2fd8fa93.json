@@ -3,20 +3,29 @@
   "type": "event",
   "name": "向家老祖夺王林生机",
   "aliases": [
-    "七夕之术夺生机"
+    "七夕之术夺生机",
+    "东临星初访",
+    "七夕之术之骗"
   ],
   "summary": "向云东带王林前往向家祖星，王林承受七夕之术，向家老祖借为其妻治疗之名吸走王林几乎全部生机，结下大仇。",
   "attributes": {
-    "地点": "向家祖星",
-    "参与方": "王林、向云东、向家老祖",
-    "结果": "王林几乎全部生机被夺，与向家结下大仇",
-    "世内时序": "本章之前（回忆）"
+    "地点": "向家祖星、东临星",
+    "参与方": "王林、向云东、向家老祖、李慕婉",
+    "结果": "王林几乎全部生机被夺，与向家结下大仇、王林全部生机被夺，靠寂灭指未死；李慕婉魂飞魄散、复活之望几绝",
+    "世内时序": "本章之前（回忆）、约千年前（王林首次至东临星）",
+    "起因": "王林求复活李慕婉，持向家一次承诺",
+    "影响": "王林隐忍千年，终成本章问罪之因"
   },
   "observations": {
     "地点": [
       {
         "value": "向家祖星",
         "docId": "plot.xianni-1479-luotian-preparing-for-war-lu-fuzi",
+        "seq": 1390
+      },
+      {
+        "value": "东临星",
+        "docId": "plot.xianni-1483-donglin-star-wang-lin-roar",
         "seq": 1390
       }
     ],
@@ -35,6 +44,11 @@
         "value": "向家老祖",
         "docId": "plot.xianni-1479-luotian-preparing-for-war-lu-fuzi",
         "seq": 1390
+      },
+      {
+        "value": "李慕婉",
+        "docId": "plot.xianni-1483-donglin-star-wang-lin-roar",
+        "seq": 1390
       }
     ],
     "结果": [
@@ -42,12 +56,36 @@
         "value": "王林几乎全部生机被夺，与向家结下大仇",
         "docId": "plot.xianni-1479-luotian-preparing-for-war-lu-fuzi",
         "seq": 1390
+      },
+      {
+        "value": "王林全部生机被夺，靠寂灭指未死；李慕婉魂飞魄散、复活之望几绝",
+        "docId": "plot.xianni-1483-donglin-star-wang-lin-roar",
+        "seq": 1390
       }
     ],
     "世内时序": [
       {
         "value": "本章之前（回忆）",
         "docId": "plot.xianni-1479-luotian-preparing-for-war-lu-fuzi",
+        "seq": 1390
+      },
+      {
+        "value": "约千年前（王林首次至东临星）",
+        "docId": "plot.xianni-1483-donglin-star-wang-lin-roar",
+        "seq": 1390
+      }
+    ],
+    "起因": [
+      {
+        "value": "王林求复活李慕婉，持向家一次承诺",
+        "docId": "plot.xianni-1483-donglin-star-wang-lin-roar",
+        "seq": 1390
+      }
+    ],
+    "影响": [
+      {
+        "value": "王林隐忍千年，终成本章问罪之因",
+        "docId": "plot.xianni-1483-donglin-star-wang-lin-roar",
         "seq": 1390
       }
     ]
@@ -77,12 +115,25 @@
       "docId": "plot.xianni-1479-luotian-preparing-for-war-lu-fuzi",
       "dated": false,
       "seq": 1390
+    },
+    "起因": {
+      "asOf": null,
+      "docId": "plot.xianni-1483-donglin-star-wang-lin-roar",
+      "dated": false,
+      "seq": 1390
+    },
+    "影响": {
+      "asOf": null,
+      "docId": "plot.xianni-1483-donglin-star-wang-lin-roar",
+      "dated": false,
+      "seq": 1390
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1479-luotian-preparing-for-war-lu-fuzi"
+    "plot.xianni-1479-luotian-preparing-for-war-lu-fuzi",
+    "plot.xianni-1483-donglin-star-wang-lin-roar"
   ],
-  "updatedAt": "2026-08-25T22:08:05.108Z"
+  "updatedAt": "2026-08-25T22:22:29.945Z"
 }
