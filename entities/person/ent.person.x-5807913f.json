@@ -12,11 +12,13 @@
     "性别": "男",
     "外貌": "白发苍苍、双目精光、雷光闪烁的披风包裹全身，如一片雷云",
     "标志特征": "雷云化作的披风、一步跨越使天地扭曲",
-    "身份": "闪雷族第二步大神通修士、在裂缝外极受尊重的强者、窥涅修士、闪雷族大神通修士",
+    "身份": "闪雷族第二步大神通修士、在裂缝外极受尊重的强者、窥涅修士、闪雷族大神通修士、闪雷族修士",
     "称号": "周天子",
     "性格": "神色平静、不露喜怒、冷漠倨傲、跋扈桀骜、阴沉",
-    "存殁": "在世",
-    "本命法宝": "眉心印记（放出无尽雷霆化雷龙）"
+    "存殁": "在世、死亡",
+    "本命法宝": "眉心印记（放出无尽雷霆化雷龙）",
+    "死因": "被王林以神通点燃体内数千年积蓄的雷霆致肉身崩碎，元神被擒后捏碎，形神俱灭",
+    "结局": "族印与雷霆之力尽归王林"
   },
   "observations": {
     "性别": [
@@ -70,6 +72,11 @@
         "value": "闪雷族大神通修士",
         "docId": "plot.xianni-ch1338-kill-zhou-tianzi",
         "seq": 1250
+      },
+      {
+        "value": "闪雷族修士",
+        "docId": "plot.xianni-ch1339-buhuaihaoyi-zhoutianzi-slain-seven-million-worlds",
+        "seq": 1250
       }
     ],
     "称号": [
@@ -101,6 +108,11 @@
         "value": "在世",
         "docId": "plot.xianni-1337-shanleizu-liudao-zhilei",
         "seq": 1250
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch1339-buhuaihaoyi-zhoutianzi-slain-seven-million-worlds",
+        "seq": 1250
       }
     ],
     "本命法宝": [
@@ -109,6 +121,20 @@
         "docId": "plot.xianni-ch1338-kill-zhou-tianzi",
         "seq": 1250,
         "note": "本章全力出手"
+      }
+    ],
+    "死因": [
+      {
+        "value": "被王林以神通点燃体内数千年积蓄的雷霆致肉身崩碎，元神被擒后捏碎，形神俱灭",
+        "docId": "plot.xianni-ch1339-buhuaihaoyi-zhoutianzi-slain-seven-million-worlds",
+        "seq": 1250
+      }
+    ],
+    "结局": [
+      {
+        "value": "族印与雷霆之力尽归王林",
+        "docId": "plot.xianni-ch1339-buhuaihaoyi-zhoutianzi-slain-seven-million-worlds",
+        "seq": 1250
       }
     ]
   },
@@ -162,6 +188,18 @@
       "dated": false,
       "seq": 1250,
       "note": "本章全力出手"
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1339-buhuaihaoyi-zhoutianzi-slain-seven-million-worlds",
+      "dated": false,
+      "seq": 1250
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1339-buhuaihaoyi-zhoutianzi-slain-seven-million-worlds",
+      "dated": false,
+      "seq": 1250
     }
   },
   "contested": false,
@@ -169,7 +207,8 @@
   "docs": [
     "plot.xianni-1335-lei-jing-dian",
     "plot.xianni-1337-shanleizu-liudao-zhilei",
-    "plot.xianni-ch1338-kill-zhou-tianzi"
+    "plot.xianni-ch1338-kill-zhou-tianzi",
+    "plot.xianni-ch1339-buhuaihaoyi-zhoutianzi-slain-seven-million-worlds"
   ],
-  "updatedAt": "2026-08-25T11:40:11.816Z"
+  "updatedAt": "2026-08-25T11:42:59.076Z"
 }
