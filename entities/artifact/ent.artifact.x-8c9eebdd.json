@@ -3,11 +3,12 @@
   "type": "artifact",
   "name": "仁和剑",
   "aliases": [
-    "人府仁和剑"
+    "人府仁和剑",
+    "地府仁和剑"
   ],
   "summary": "威严之声所言天地人三府中人府之剑，随其主杀戮一生，为天下至凶之剑，因杀戮成魔而被留有三道封印。",
   "attributes": {
-    "来历": "威严之声（古之存在）所有，属天地人三府之人府",
+    "来历": "威严之声（古之存在）所有，属天地人三府之人府、位于地府之内",
     "禁制": "三道封印",
     "能力": "杀戮成魔"
   },
@@ -16,6 +17,11 @@
       {
         "value": "威严之声（古之存在）所有，属天地人三府之人府",
         "docId": "plot.xianni-ch1462-destroy-rules-refine-zhou-jin",
+        "seq": 1370
+      },
+      {
+        "value": "位于地府之内",
+        "docId": "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
         "seq": 1370
       }
     ],
@@ -58,7 +64,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1462-destroy-rules-refine-zhou-jin"
+    "plot.xianni-ch1462-destroy-rules-refine-zhou-jin",
+    "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight"
   ],
-  "updatedAt": "2026-08-25T21:17:01.880Z"
+  "updatedAt": "2026-08-25T21:19:26.247Z"
 }

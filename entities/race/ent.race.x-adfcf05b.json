@@ -3,11 +3,13 @@
   "type": "race",
   "name": "古之三族",
   "aliases": [
-    "三族"
+    "三族",
+    "古之三族气息"
   ],
   "summary": "王林判定贪狼所有法宝皆与之相关的远古三族；据此王林确定了贪狼的获宝之地。",
   "attributes": {
-    "特性": "远古三族，遗宝众多"
+    "特性": "远古三族，遗宝众多、天生无眉心印记、可自由进入古之墓地",
+    "聚居地": "古之墓地（古墓）"
   },
   "observations": {
     "特性": [
@@ -15,6 +17,23 @@
         "value": "远古三族，遗宝众多",
         "docId": "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang",
         "seq": 1300
+      },
+      {
+        "value": "天生无眉心印记",
+        "docId": "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
+        "seq": 1370
+      },
+      {
+        "value": "可自由进入古之墓地",
+        "docId": "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
+        "seq": 1370
+      }
+    ],
+    "聚居地": [
+      {
+        "value": "古之墓地（古墓）",
+        "docId": "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
+        "seq": 1370
       }
     ]
   },
@@ -25,13 +44,20 @@
       "docId": "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang",
       "dated": false,
       "seq": 1300
+    },
+    "聚居地": {
+      "asOf": null,
+      "docId": "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
+      "dated": false,
+      "seq": 1370
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang",
-    "plot.xianni-1458-ci-dao-wanglin-ponders-ancient-tomb-revives-trees"
+    "plot.xianni-1458-ci-dao-wanglin-ponders-ancient-tomb-revives-trees",
+    "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight"
   ],
-  "updatedAt": "2026-08-25T21:05:41.007Z"
+  "updatedAt": "2026-08-25T21:19:26.255Z"
 }

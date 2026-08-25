@@ -4,12 +4,17 @@
   "name": "本道地府",
   "aliases": [
     "烨寞地府",
-    "地府"
+    "地府",
+    "古墓地府",
+    "地府为魂"
   ],
   "summary": "烨寞所言之物/地：非其族者若首成九阶墓台，可取本道地府而去。",
   "attributes": {
-    "类型": "传承奖赏/秘地、未知",
-    "守护": "以九阶墓台为取得条件"
+    "类型": "传承奖赏/秘地、未知、囚魂之地/传承秘藏",
+    "守护": "以九阶墓台为取得条件",
+    "所属势力": "道古烨寞",
+    "危险度": "极高",
+    "特产": "三仙尊之魂、仁和剑、枷"
   },
   "observations": {
     "类型": [
@@ -23,6 +28,11 @@
         "docId": "plot.xianni-ch1457-shao-yi-ge",
         "seq": 1365,
         "note": "仅由声音提及，性质不明"
+      },
+      {
+        "value": "囚魂之地/传承秘藏",
+        "docId": "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
+        "seq": 1370
       }
     ],
     "守护": [
@@ -30,6 +40,38 @@
         "value": "以九阶墓台为取得条件",
         "docId": "plot.xianni-ch1457-shao-yi-ge",
         "seq": 1365
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "道古烨寞",
+        "docId": "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
+        "seq": 1370
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
+        "seq": 1370,
+        "note": "三魂极为强大，无十足把握莫要放出"
+      }
+    ],
+    "特产": [
+      {
+        "value": "三仙尊之魂",
+        "docId": "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
+        "seq": 1370
+      },
+      {
+        "value": "仁和剑",
+        "docId": "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
+        "seq": 1370
+      },
+      {
+        "value": "枷",
+        "docId": "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
+        "seq": 1370
       }
     ]
   },
@@ -46,13 +88,33 @@
       "docId": "plot.xianni-ch1457-shao-yi-ge",
       "dated": false,
       "seq": 1365
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
+      "dated": false,
+      "seq": 1370
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
+      "dated": false,
+      "seq": 1370,
+      "note": "三魂极为强大，无十足把握莫要放出"
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
+      "dated": false,
+      "seq": 1370
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1457-shao-yi-ge",
-    "plot.xianni-1458-ci-dao-wanglin-ponders-ancient-tomb-revives-trees"
+    "plot.xianni-1458-ci-dao-wanglin-ponders-ancient-tomb-revives-trees",
+    "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight"
   ],
-  "updatedAt": "2026-08-25T21:05:40.996Z"
+  "updatedAt": "2026-08-25T21:19:26.248Z"
 }

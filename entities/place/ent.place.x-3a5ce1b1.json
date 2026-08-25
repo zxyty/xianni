@@ -4,12 +4,14 @@
   "name": "古墓第九幅地图",
   "aliases": [
     "第九张地图",
-    "第九幅地图"
+    "第九幅地图",
+    "古墓第九张地图"
   ],
   "summary": "古墓地图的最末一幅；王林判断真正的通关要求并非最快进入此处，而是第一个成为九阶墓台。",
   "attributes": {
     "上级区域": "古墓",
-    "类型": "古墓分区"
+    "类型": "古墓分区、古墓分层地图",
+    "危险度": "极高（空间乱流密布，行进被迫放缓）"
   },
   "observations": {
     "上级区域": [
@@ -23,6 +25,18 @@
       {
         "value": "古墓分区",
         "docId": "plot.xianni-ch1462-destroy-rules-refine-zhou-jin",
+        "seq": 1370
+      },
+      {
+        "value": "古墓分层地图",
+        "docId": "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
+        "seq": 1370
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高（空间乱流密布，行进被迫放缓）",
+        "docId": "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
         "seq": 1370
       }
     ]
@@ -40,12 +54,19 @@
       "docId": "plot.xianni-ch1462-destroy-rules-refine-zhou-jin",
       "dated": false,
       "seq": 1370
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
+      "dated": false,
+      "seq": 1370
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1462-destroy-rules-refine-zhou-jin"
+    "plot.xianni-ch1462-destroy-rules-refine-zhou-jin",
+    "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight"
   ],
-  "updatedAt": "2026-08-25T21:17:01.879Z"
+  "updatedAt": "2026-08-25T21:19:26.254Z"
 }
