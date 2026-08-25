@@ -798,3 +798,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T18:14:34.746Z** `ingest` plot.xianni-ch1426-jiang-li-liujinbiao-captured-huoquezu — 第1426章 将离：刘金彪以骗道之术诱擒于火雀族，王林辞别老朱雀获龟甲与朱雀三术 · kind=plot asOf=2026-08-25 entities=32 relations=43 src=01336-01340.p1.md
 - **2026-08-25T18:16:21.457Z** `ingest` plot.xianni-ch1427-ming-zhi-fen-jie-gu-san — 第1427章 铭志！——老朱雀传授朱雀一族最强之术「焚界古伞」 · kind=plot asOf=2026-08-25 entities=12 relations=20 src=01336-01340.p2.md
 - **2026-08-25T18:24:03.705Z** `ingest` plot.xianni-1428-crazy-idea-fire-sparrow-ancestor-master — 第1428章 疯狂的念头！——火雀族老祖跪献「六代朱雀」，门内神秘主人现身 · kind=plot asOf=2026-08-25 entities=42 relations=70 src=01336-01340.p3.md
+- **2026-08-25T18:26:22.619Z** `ingest` plot.xianni-ch1429-well-scooping-moon — 第1429章 井中捞月：王林以古魔魂替身对决火雀族掌尊 · kind=plot asOf=2026-08-25 entities=25 relations=31 src=01336-01340.p4.md
