@@ -4,12 +4,13 @@
   "name": "道术",
   "aliases": [
     "Dao Shu",
-    "道境道术"
+    "道境道术",
+    "幻境道术"
   ],
   "summary": "罕有人可掌握之术，传闻唯有在道境中感悟方可领悟；不同于比拼感悟的意境之战，它是一种升华的、针对灵魂的抹杀之力。",
   "attributes": {
-    "出处": "道境中的感悟",
-    "效果": "针对灵魂的抹杀、升华之力",
+    "出处": "道境中的感悟、白发老者",
+    "效果": "针对灵魂的抹杀、升华之力、构筑幻境、勾起对手痛苦记忆",
     "修炼条件": "须进入道境感悟",
     "品阶": "天地间罕见"
   },
@@ -18,6 +19,11 @@
       {
         "value": "道境中的感悟",
         "docId": "plot.xianni-1214-tiezhu-dao-shu-memory-illusion",
+        "seq": 1132
+      },
+      {
+        "value": "白发老者",
+        "docId": "plot.xianni-ch1215-yunhai-zhidian-qicai-jie-slay-white-haired-elder",
         "seq": 1132
       }
     ],
@@ -30,6 +36,16 @@
       {
         "value": "升华之力",
         "docId": "plot.xianni-1214-tiezhu-dao-shu-memory-illusion",
+        "seq": 1132
+      },
+      {
+        "value": "构筑幻境",
+        "docId": "plot.xianni-ch1215-yunhai-zhidian-qicai-jie-slay-white-haired-elder",
+        "seq": 1132
+      },
+      {
+        "value": "勾起对手痛苦记忆",
+        "docId": "plot.xianni-ch1215-yunhai-zhidian-qicai-jie-slay-white-haired-elder",
         "seq": 1132
       }
     ],
@@ -78,7 +94,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1214-tiezhu-dao-shu-memory-illusion"
+    "plot.xianni-1214-tiezhu-dao-shu-memory-illusion",
+    "plot.xianni-ch1215-yunhai-zhidian-qicai-jie-slay-white-haired-elder"
   ],
-  "updatedAt": "2026-08-25T01:44:20.321Z"
+  "updatedAt": "2026-08-25T01:46:33.293Z"
 }

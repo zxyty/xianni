@@ -4,15 +4,18 @@
   "name": "七彩界至深处的山峰",
   "aliases": [
     "那座山峰",
-    "至深之处的山峰"
+    "至深之处的山峰",
+    "七彩界山峰",
+    "山顶洞口"
   ],
   "summary": "七彩界最深处的山峰，苍松子选定的沉睡之地，山上有白发老者疑在守护某物。",
   "attributes": {
-    "类型": "山峰",
-    "方位": "七彩界至深之处",
+    "类型": "山峰与洞府",
+    "方位": "七彩界至深处/最高处",
     "危险度": "极高",
     "守护": "白发老者",
-    "上级区域": "七彩界"
+    "上级区域": "七彩界",
+    "所属界面": "七彩界"
   },
   "observations": {
     "类型": [
@@ -20,6 +23,11 @@
         "value": "山峰",
         "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
         "seq": 1119
+      },
+      {
+        "value": "山峰与洞府",
+        "docId": "plot.xianni-ch1215-yunhai-zhidian-qicai-jie-slay-white-haired-elder",
+        "seq": 1132
       }
     ],
     "方位": [
@@ -27,6 +35,11 @@
         "value": "七彩界至深之处",
         "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
         "seq": 1119
+      },
+      {
+        "value": "七彩界至深处/最高处",
+        "docId": "plot.xianni-ch1215-yunhai-zhidian-qicai-jie-slay-white-haired-elder",
+        "seq": 1132
       }
     ],
     "危险度": [
@@ -49,21 +62,28 @@
         "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
         "seq": 1119
       }
+    ],
+    "所属界面": [
+      {
+        "value": "七彩界",
+        "docId": "plot.xianni-ch1215-yunhai-zhidian-qicai-jie-slay-white-haired-elder",
+        "seq": 1132
+      }
     ]
   },
   "firstSeq": 1119,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
+      "docId": "plot.xianni-ch1215-yunhai-zhidian-qicai-jie-slay-white-haired-elder",
       "dated": false,
-      "seq": 1119
+      "seq": 1132
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
+      "docId": "plot.xianni-ch1215-yunhai-zhidian-qicai-jie-slay-white-haired-elder",
       "dated": false,
-      "seq": 1119
+      "seq": 1132
     },
     "危险度": {
       "asOf": null,
@@ -82,12 +102,19 @@
       "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
       "dated": false,
       "seq": 1119
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1215-yunhai-zhidian-qicai-jie-slay-white-haired-elder",
+      "dated": false,
+      "seq": 1132
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1203-dao-marrow-simamo-cave-secrets"
+    "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
+    "plot.xianni-ch1215-yunhai-zhidian-qicai-jie-slay-white-haired-elder"
   ],
-  "updatedAt": "2026-08-25T00:24:00.269Z"
+  "updatedAt": "2026-08-25T01:46:33.287Z"
 }
