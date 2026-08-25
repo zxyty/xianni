@@ -2,11 +2,15 @@
   "id": "ent.technique.x-4b0245e8",
   "type": "technique",
   "name": "山崩之术",
-  "aliases": [],
+  "aliases": [
+    "白凡神通山崩之术"
+  ],
   "summary": "仙帝白凡后阙三术之一，威力强大出乎王林想象，本章为王林途中反复回味感悟的对象。",
   "attributes": {
-    "出处": "仙帝白凡后阙三术",
-    "效果": "威力强大，超出王林预料"
+    "出处": "白凡神通",
+    "效果": "威力强大，超出王林预料、凝聚虚幻火山、黑烟遮天、岩浆热浪、第九崩融合山石岩浆黑烟山魂成毁灭风暴",
+    "修炼条件": "需山魂赋魂方得圆满",
+    "外显异象": "四周天地涌现成片虚幻火山，星体震颤"
   },
   "observations": {
     "出处": [
@@ -14,6 +18,11 @@
         "value": "仙帝白凡后阙三术",
         "docId": "plot.xianni-ch954-young-master-blue-shirt-pursues-lei-ji",
         "seq": 885
+      },
+      {
+        "value": "白凡神通",
+        "docId": "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi",
+        "seq": 1292
       }
     ],
     "效果": [
@@ -21,6 +30,41 @@
         "value": "威力强大，超出王林预料",
         "docId": "plot.xianni-ch954-young-master-blue-shirt-pursues-lei-ji",
         "seq": 885
+      },
+      {
+        "value": "凝聚虚幻火山",
+        "docId": "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi",
+        "seq": 1292
+      },
+      {
+        "value": "黑烟遮天",
+        "docId": "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi",
+        "seq": 1292
+      },
+      {
+        "value": "岩浆热浪",
+        "docId": "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi",
+        "seq": 1292
+      },
+      {
+        "value": "第九崩融合山石岩浆黑烟山魂成毁灭风暴",
+        "docId": "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi",
+        "seq": 1292
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "需山魂赋魂方得圆满",
+        "docId": "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi",
+        "seq": 1292,
+        "note": "王林于本章抽整星山魂完成"
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "四周天地涌现成片虚幻火山，星体震颤",
+        "docId": "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi",
+        "seq": 1292
       }
     ]
   },
@@ -28,22 +72,36 @@
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch954-young-master-blue-shirt-pursues-lei-ji",
+      "docId": "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi",
       "dated": false,
-      "seq": 885
+      "seq": 1292
     },
     "效果": {
       "asOf": null,
       "docId": "plot.xianni-ch954-young-master-blue-shirt-pursues-lei-ji",
       "dated": false,
       "seq": 885
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi",
+      "dated": false,
+      "seq": 1292,
+      "note": "王林于本章抽整星山魂完成"
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi",
+      "dated": false,
+      "seq": 1292
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch954-young-master-blue-shirt-pursues-lei-ji",
-    "plot.xianni-1275-nie-jie-si-jing-she-shen-che-vs-shui-dao-zi"
+    "plot.xianni-1275-nie-jie-si-jing-she-shen-che-vs-shui-dao-zi",
+    "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi"
   ],
-  "updatedAt": "2026-08-25T05:42:17.182Z"
+  "updatedAt": "2026-08-25T14:05:22.515Z"
 }

@@ -9,18 +9,21 @@
     "Si Mozi",
     "司墨子前辈",
     "追杀王林的中年男子",
-    "阴森微笑的中年男子"
+    "阴森微笑的中年男子",
+    "第三步大能司墨子",
+    "老夫司墨子"
   ],
   "summary": "太古星辰第三步大能，空涅初期，追杀拓森十年的三人之一；被星点漩涡罩下时念出囚天封道法诀，令拓森色变放弃击杀，事后与空灵老者收取白衣女子的六品道灵酬劳。",
   "attributes": {
     "性别": "男",
     "外貌": "中年男子",
-    "小阶段": "第三步大能（吸收六品道灵六成，隐有将破空涅初期之兆）",
-    "身份": "太古星辰第三步大能、猎杀古神者、借用龙甲族身份行事、太古星辰来客、奉命索拿王林者、龙甲族请来的外援强者",
+    "小阶段": "天人第五衰",
+    "身份": "太古星辰第三步大能、猎杀古神者、借用龙甲族身份行事、太古星辰来客、奉命索拿王林者、龙甲族请来的外援强者、第三步大能",
     "存殁": "存活",
     "称号": "大能",
     "性格": "桀骜、以猎杀为乐",
-    "阵营": "追杀王林一方、太古星辰一方、龙甲族一方"
+    "阵营": "追杀王林一方、太古星辰一方、龙甲族一方",
+    "分身": "本章对战王林者为分身"
   },
   "observations": {
     "性别": [
@@ -58,6 +61,12 @@
         "value": "第三步大能（吸收六品道灵六成，隐有将破空涅初期之兆）",
         "docId": "plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin",
         "seq": 1280
+      },
+      {
+        "value": "天人第五衰",
+        "docId": "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi",
+        "seq": 1292,
+        "note": "本章现身者为分身，仅此修为"
       }
     ],
     "身份": [
@@ -86,6 +95,11 @@
         "value": "龙甲族请来的外援强者",
         "docId": "plot.xianni-1377-longbeng-dan-refine-challenge",
         "seq": 1288
+      },
+      {
+        "value": "第三步大能",
+        "docId": "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi",
+        "seq": 1292
       }
     ],
     "存殁": [
@@ -132,6 +146,13 @@
         "seq": 1288,
         "note": "受托擒杀王林"
       }
+    ],
+    "分身": [
+      {
+        "value": "本章对战王林者为分身",
+        "docId": "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi",
+        "seq": 1292
+      }
     ]
   },
   "firstSeq": 1222,
@@ -151,9 +172,10 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin",
+      "docId": "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi",
       "dated": false,
-      "seq": 1280
+      "seq": 1292,
+      "note": "本章现身者为分身，仅此修为"
     },
     "身份": {
       "asOf": null,
@@ -185,6 +207,12 @@
       "dated": false,
       "seq": 1288,
       "note": "第1288章"
+    },
+    "分身": {
+      "asOf": null,
+      "docId": "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi",
+      "dated": false,
+      "seq": 1292
     }
   },
   "contested": false,
@@ -195,7 +223,8 @@
     "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
     "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
     "plot.xianni-ch1375-first-encounter-fire-sparrow",
-    "plot.xianni-1377-longbeng-dan-refine-challenge"
+    "plot.xianni-1377-longbeng-dan-refine-challenge",
+    "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi"
   ],
-  "updatedAt": "2026-08-25T14:02:42.519Z"
+  "updatedAt": "2026-08-25T14:05:22.497Z"
 }

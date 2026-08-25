@@ -754,3 +754,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T13:51:56.077Z** `ingest` plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet — 第1374章 司墨子来临：炎火异晶疑连朱雀圣宗，王林探查颠落傀儡受阻 · kind=plot asOf=2026-08-25 entities=39 relations=69 src=01288-01291.p2.md
 - **2026-08-25T13:59:43.058Z** `ingest` plot.xianni-ch1375-first-encounter-fire-sparrow — 仙逆 第1375章 初遇火雀：龙甲族坊市、司墨子现身与火雀族修士索晶 · kind=plot asOf=2026-08-25 entities=39 relations=58 src=01288-01291.p3.md
 - **2026-08-25T14:02:42.979Z** `ingest` plot.xianni-1377-longbeng-dan-refine-challenge — 第1377章：万粒龙崩丹熔一，王林修真星长啸挑战 · kind=plot asOf=2026-08-25 entities=33 relations=54 src=01288-01291.p4.md
+- **2026-08-25T14:05:22.987Z** `ingest` plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi — 第1378章 一代宗师：王林山崩之术大成，对撼司墨子破天道 · kind=plot asOf=2026-08-25 entities=28 relations=37 src=01292-01296.p1.md
