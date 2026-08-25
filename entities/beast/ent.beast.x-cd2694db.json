@@ -7,16 +7,18 @@
     "云海巨蚊兽",
     "巨蚊兽一族",
     "赤红蚊兽",
-    "红色狰狞蚊兽"
+    "红色狰狞蚊兽",
+    "巨蚊兽群"
   ],
   "summary": "形若蚊子、双目通红的凶兽，成群数十只出现于联盟星域中部，可被特制燃香的香气操控引导。",
   "attributes": {
-    "外形": "赤红，成群时如遮天红云",
-    "栖息地": "风界",
+    "外形": "巨大蚊形妖兽，数量无边无际",
+    "栖息地": "王林另辟的储物空间",
     "能力": "群体呼啸而行；唯其可嗅到特制香气、随赤雾成群喷涌、凶气弥漫天地",
     "天敌": "祭天香异香",
     "等级": "凶名极盛，神宗大神通修士亦全灭于其手",
-    "种族": "蚊兽"
+    "种族": "蚊兽",
+    "主人": "王林"
   },
   "observations": {
     "外形": [
@@ -34,6 +36,11 @@
         "value": "赤红，成群时如遮天红云",
         "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
         "seq": 1160
+      },
+      {
+        "value": "巨大蚊形妖兽，数量无边无际",
+        "docId": "plot.xianni-1276-water-daoist-counterattack-shenche-destroyed",
+        "seq": 1191
       }
     ],
     "栖息地": [
@@ -52,6 +59,11 @@
         "value": "风界",
         "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
         "seq": 1160
+      },
+      {
+        "value": "王林另辟的储物空间",
+        "docId": "plot.xianni-1276-water-daoist-counterattack-shenche-destroyed",
+        "seq": 1191
       }
     ],
     "能力": [
@@ -96,21 +108,28 @@
         "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
         "seq": 1160
       }
+    ],
+    "主人": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-1276-water-daoist-counterattack-shenche-destroyed",
+        "seq": 1191
+      }
     ]
   },
   "firstSeq": 1014,
   "attrProvenance": {
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
+      "docId": "plot.xianni-1276-water-daoist-counterattack-shenche-destroyed",
       "dated": false,
-      "seq": 1160
+      "seq": 1191
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
+      "docId": "plot.xianni-1276-water-daoist-counterattack-shenche-destroyed",
       "dated": false,
-      "seq": 1160
+      "seq": 1191
     },
     "能力": {
       "asOf": null,
@@ -135,6 +154,12 @@
       "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
       "dated": false,
       "seq": 1160
+    },
+    "主人": {
+      "asOf": null,
+      "docId": "plot.xianni-1276-water-daoist-counterattack-shenche-destroyed",
+      "dated": false,
+      "seq": 1191
     }
   },
   "contested": false,
@@ -145,7 +170,8 @@
     "plot.xianni-1104-tianjie-mosquito-beast-pursuit",
     "plot.xianni-ch1234-wind-immortal-realm-mosquito-beasts-welcome",
     "plot.xianni-1241-ta-lai-le-me",
-    "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules"
+    "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
+    "plot.xianni-1276-water-daoist-counterattack-shenche-destroyed"
   ],
-  "updatedAt": "2026-08-25T03:24:48.146Z"
+  "updatedAt": "2026-08-25T05:49:35.246Z"
 }

@@ -9,8 +9,8 @@
   ],
   "summary": "水道子昔日之主、神宗原主，当年被水道子、掌尊、妙音道尊合击并有远古仙域上修暗中出手而「身亡」；数月前其气息重现，疑为转世重修或藏身天逆。",
   "attributes": {
-    "身份": "水道子的主人",
-    "存殁": "已死（第1178章）",
+    "身份": "神宗原主、水道子的主人、水道子之主",
+    "存殁": "疑似未死、已死（第1178章）、死亡",
     "死因": "被水道子、掌尊、妙音道尊全力合击，另有远古仙域上修暗中出手"
   },
   "observations": {
@@ -23,6 +23,11 @@
       {
         "value": "水道子的主人",
         "docId": "plot.xianni-1274-shui-daozi-benti-jianglin-wanglin-jinzhi-shesheche-sebian",
+        "seq": 1191
+      },
+      {
+        "value": "水道子之主",
+        "docId": "plot.xianni-1276-water-daoist-counterattack-shenche-destroyed",
         "seq": 1191
       }
     ],
@@ -37,6 +42,12 @@
         "value": "已死（第1178章）",
         "docId": "plot.xianni-1274-shui-daozi-benti-jianglin-wanglin-jinzhi-shesheche-sebian",
         "seq": 1191
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-1276-water-daoist-counterattack-shenche-destroyed",
+        "seq": 1191,
+        "note": "第1178章；本章仅为水道子追述其言"
       }
     ],
     "死因": [
@@ -52,15 +63,16 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1274-shui-daozi-benti-jianglin-wanglin-jinzhi-shesheche-sebian",
+      "docId": "plot.xianni-1262-return-wuji-sect-ancient-god-qi-shui-daozi-plot",
       "dated": false,
-      "seq": 1191
+      "seq": 1178
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-1274-shui-daozi-benti-jianglin-wanglin-jinzhi-shesheche-sebian",
+      "docId": "plot.xianni-1262-return-wuji-sect-ancient-god-qi-shui-daozi-plot",
       "dated": false,
-      "seq": 1191
+      "seq": 1178,
+      "note": "本应死于当年合击，数月前气息重现，疑转世重修或藏于天逆"
     },
     "死因": {
       "asOf": null,
@@ -74,7 +86,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-1262-return-wuji-sect-ancient-god-qi-shui-daozi-plot",
-    "plot.xianni-1274-shui-daozi-benti-jianglin-wanglin-jinzhi-shesheche-sebian"
+    "plot.xianni-1274-shui-daozi-benti-jianglin-wanglin-jinzhi-shesheche-sebian",
+    "plot.xianni-1276-water-daoist-counterattack-shenche-destroyed"
   ],
-  "updatedAt": "2026-08-25T05:39:44.599Z"
+  "updatedAt": "2026-08-25T05:49:35.228Z"
 }
