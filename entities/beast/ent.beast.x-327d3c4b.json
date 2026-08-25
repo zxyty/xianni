@@ -3,12 +3,13 @@
   "type": "beast",
   "name": "十三阶凶兽",
   "aliases": [
-    "十三阶凶兽群"
+    "十三阶凶兽群",
+    "乱兽雾界十三阶凶兽"
   ],
   "summary": "兽潮中偶现的最高阶凶兽，每一次出现对修士而言都是一场灾难与浩劫。",
   "attributes": {
     "等级": "十三阶",
-    "栖息地": "九阶星域奇异裂缝战场（兽潮）"
+    "栖息地": "乱兽雾界"
   },
   "observations": {
     "等级": [
@@ -23,6 +24,11 @@
         "value": "九阶星域奇异裂缝战场（兽潮）",
         "docId": "plot.xianni-1217-tuosen-awakens-sweeps-star-domain",
         "seq": 1132
+      },
+      {
+        "value": "乱兽雾界",
+        "docId": "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm",
+        "seq": 1151
       }
     ]
   },
@@ -36,15 +42,16 @@
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.xianni-1217-tuosen-awakens-sweeps-star-domain",
+      "docId": "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm",
       "dated": false,
-      "seq": 1132
+      "seq": 1151
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1217-tuosen-awakens-sweeps-star-domain"
+    "plot.xianni-1217-tuosen-awakens-sweeps-star-domain",
+    "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm"
   ],
-  "updatedAt": "2026-08-25T01:56:57.266Z"
+  "updatedAt": "2026-08-25T02:48:21.975Z"
 }

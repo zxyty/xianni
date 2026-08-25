@@ -4,13 +4,15 @@
   "name": "无极宗",
   "aliases": [
     "Wuji Sect",
-    "无极宗一脉"
+    "无极宗一脉",
+    "无极"
   ],
   "summary": "云海星域五大八阶宗派之一，麾下有归元宗、紫道宗等分宗。",
   "attributes": {
-    "等级": "八阶宗派",
-    "所属界面": "云海星域",
-    "理念": "以乱兽雾界作弟子试炼之地"
+    "等级": "主宗",
+    "所属界面": "八阶星域",
+    "理念": "以乱兽雾界作弟子试炼之地",
+    "据点": "八阶星域"
   },
   "observations": {
     "等级": [
@@ -18,6 +20,11 @@
         "value": "八阶宗派",
         "docId": "plot.xianni-1228-liu-jin-biao-yunhai-fenzong-dabi",
         "seq": 1146
+      },
+      {
+        "value": "主宗",
+        "docId": "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm",
+        "seq": 1151
       }
     ],
     "所属界面": [
@@ -25,6 +32,11 @@
         "value": "云海星域",
         "docId": "plot.xianni-ch1231-huo-wu-luan-shou-wu-jie",
         "seq": 1146
+      },
+      {
+        "value": "八阶星域",
+        "docId": "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm",
+        "seq": 1151
       }
     ],
     "理念": [
@@ -33,27 +45,40 @@
         "docId": "plot.xianni-ch1232-jing-rong-luan-shou-wu-jie-huo-wu-ling",
         "seq": 1146
       }
+    ],
+    "据点": [
+      {
+        "value": "八阶星域",
+        "docId": "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm",
+        "seq": 1151
+      }
     ]
   },
   "firstSeq": 1146,
   "attrProvenance": {
     "等级": {
       "asOf": null,
-      "docId": "plot.xianni-1228-liu-jin-biao-yunhai-fenzong-dabi",
+      "docId": "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm",
       "dated": false,
-      "seq": 1146
+      "seq": 1151
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch1231-huo-wu-luan-shou-wu-jie",
+      "docId": "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm",
       "dated": false,
-      "seq": 1146
+      "seq": 1151
     },
     "理念": {
       "asOf": null,
       "docId": "plot.xianni-ch1232-jing-rong-luan-shou-wu-jie-huo-wu-ling",
       "dated": false,
       "seq": 1146
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm",
+      "dated": false,
+      "seq": 1151
     }
   },
   "contested": false,
@@ -61,7 +86,8 @@
   "docs": [
     "plot.xianni-1228-liu-jin-biao-yunhai-fenzong-dabi",
     "plot.xianni-ch1231-huo-wu-luan-shou-wu-jie",
-    "plot.xianni-ch1232-jing-rong-luan-shou-wu-jie-huo-wu-ling"
+    "plot.xianni-ch1232-jing-rong-luan-shou-wu-jie-huo-wu-ling",
+    "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm"
   ],
-  "updatedAt": "2026-08-25T02:40:51.290Z"
+  "updatedAt": "2026-08-25T02:48:21.967Z"
 }

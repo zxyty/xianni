@@ -7,14 +7,16 @@
     "雾气层",
     "Chaotic Beast Mist Realm",
     "雾界",
-    "乱兽雾界雾气区"
+    "乱兽雾界雾气区",
+    "乱兽雾界（云海）",
+    "Luan Shou Wu Jie"
   ],
   "summary": "位于七阶与八阶星域之间、环绕整个云海的浓密雾气层，内有十阶以上凶兽乃至十二阶凶兽，为云海星域出名的凶险之地。",
   "attributes": {
-    "类型": "凶兽雾界/禁地、凶兽禁地/雾气秘境",
+    "类型": "凶兽雾界/禁地、凶兽禁地/雾气秘境、凶险秘境／兽域",
     "方位": "八阶星域外围，介于七阶与八阶星域之间，环绕整个云海",
     "规模": "极为辽阔，故以「界」称之",
-    "危险度": "极高，寻常修士独自进入往往尸骨无存、极高（十二阶凶兽成群，至深处有超越十三阶之存在）",
+    "危险度": "极高，寻常修士独自进入往往尸骨无存、极高（十二阶凶兽成群，至深处有超越十三阶之存在）、极高（内有十三阶凶兽）",
     "守护": "神宗以不明方法约束凶兽不外出",
     "特产": "火蜈灵等火属凶兽"
   },
@@ -29,6 +31,11 @@
         "value": "凶兽禁地/雾气秘境",
         "docId": "plot.xianni-ch1232-jing-rong-luan-shou-wu-jie-huo-wu-ling",
         "seq": 1146
+      },
+      {
+        "value": "凶险秘境／兽域",
+        "docId": "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm",
+        "seq": 1151
       }
     ],
     "方位": [
@@ -55,6 +62,11 @@
         "value": "极高（十二阶凶兽成群，至深处有超越十三阶之存在）",
         "docId": "plot.xianni-ch1232-jing-rong-luan-shou-wu-jie-huo-wu-ling",
         "seq": 1146
+      },
+      {
+        "value": "极高（内有十三阶凶兽）",
+        "docId": "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm",
+        "seq": 1151
       }
     ],
     "守护": [
@@ -115,7 +127,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1231-huo-wu-luan-shou-wu-jie",
-    "plot.xianni-ch1232-jing-rong-luan-shou-wu-jie-huo-wu-ling"
+    "plot.xianni-ch1232-jing-rong-luan-shou-wu-jie-huo-wu-ling",
+    "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm"
   ],
-  "updatedAt": "2026-08-25T02:40:51.288Z"
+  "updatedAt": "2026-08-25T02:48:21.960Z"
 }
