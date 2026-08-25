@@ -3,12 +3,14 @@
   "type": "race",
   "name": "闪雷族",
   "aliases": [
-    "闪雷一族"
+    "闪雷一族",
+    "太古之民闪雷族",
+    "有闪电印记之族"
   ],
   "summary": "以眉心闪电印记（族腾）为标志的异族，其青年称在七彩界深处能感受到本族先祖的气息。",
   "attributes": {
-    "特性": "眉心有闪电印记（族腾）",
-    "代表人物": "闪雷族青年"
+    "特性": "与雷为伴、身可成雷、不受天道屈服",
+    "代表人物": "闪雷族先祖"
   },
   "observations": {
     "特性": [
@@ -16,6 +18,11 @@
         "value": "眉心有闪电印记（族腾）",
         "docId": "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
         "seq": 1114
+      },
+      {
+        "value": "与雷为伴、身可成雷、不受天道屈服",
+        "docId": "plot.xianni-1205-ao-wang-lin-subdues-lightning-statue",
+        "seq": 1123
       }
     ],
     "代表人物": [
@@ -23,6 +30,11 @@
         "value": "闪雷族青年",
         "docId": "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
         "seq": 1114
+      },
+      {
+        "value": "闪雷族先祖",
+        "docId": "plot.xianni-1205-ao-wang-lin-subdues-lightning-statue",
+        "seq": 1123
       }
     ]
   },
@@ -30,21 +42,22 @@
   "attrProvenance": {
     "特性": {
       "asOf": null,
-      "docId": "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
+      "docId": "plot.xianni-1205-ao-wang-lin-subdues-lightning-statue",
       "dated": false,
-      "seq": 1114
+      "seq": 1123
     },
     "代表人物": {
       "asOf": null,
-      "docId": "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
+      "docId": "plot.xianni-1205-ao-wang-lin-subdues-lightning-statue",
       "dated": false,
-      "seq": 1114
+      "seq": 1123
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia"
+    "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
+    "plot.xianni-1205-ao-wang-lin-subdues-lightning-statue"
   ],
-  "updatedAt": "2026-08-24T23:28:06.330Z"
+  "updatedAt": "2026-08-25T00:29:26.828Z"
 }

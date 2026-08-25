@@ -3,12 +3,14 @@
   "type": "spell",
   "name": "古神手臂",
   "aliases": [
-    "古神手臂虚影"
+    "古神手臂虚影",
+    "巨大的古神手臂"
   ],
   "summary": "王林握拳时幻化而出的古神手臂虚影，一击令洞府颤抖、地面开裂，却未能砸破龟甲。",
   "attributes": {
-    "类型": "古神肉身神通",
-    "威力": "地裂洞府颤抖，仍不破龟甲"
+    "类型": "古神之力神通",
+    "威力": "地裂洞府颤抖，仍不破龟甲",
+    "出处": "古神一族血脉之力"
   },
   "observations": {
     "类型": [
@@ -16,6 +18,11 @@
         "value": "古神肉身神通",
         "docId": "plot.xianni-ch1006-immortal-mansion-tortoise-shell-crisis",
         "seq": 929
+      },
+      {
+        "value": "古神之力神通",
+        "docId": "plot.xianni-1205-ao-wang-lin-subdues-lightning-statue",
+        "seq": 1123
       }
     ],
     "威力": [
@@ -24,27 +31,41 @@
         "docId": "plot.xianni-ch1006-immortal-mansion-tortoise-shell-crisis",
         "seq": 929
       }
+    ],
+    "出处": [
+      {
+        "value": "古神一族血脉之力",
+        "docId": "plot.xianni-1205-ao-wang-lin-subdues-lightning-statue",
+        "seq": 1123
+      }
     ]
   },
   "firstSeq": 929,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1006-immortal-mansion-tortoise-shell-crisis",
+      "docId": "plot.xianni-1205-ao-wang-lin-subdues-lightning-statue",
       "dated": false,
-      "seq": 929
+      "seq": 1123
     },
     "威力": {
       "asOf": null,
       "docId": "plot.xianni-ch1006-immortal-mansion-tortoise-shell-crisis",
       "dated": false,
       "seq": 929
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.xianni-1205-ao-wang-lin-subdues-lightning-statue",
+      "dated": false,
+      "seq": 1123
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1006-immortal-mansion-tortoise-shell-crisis"
+    "plot.xianni-ch1006-immortal-mansion-tortoise-shell-crisis",
+    "plot.xianni-1205-ao-wang-lin-subdues-lightning-statue"
   ],
-  "updatedAt": "2026-08-24T04:25:55.553Z"
+  "updatedAt": "2026-08-25T00:29:26.822Z"
 }

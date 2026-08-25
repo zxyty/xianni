@@ -600,3 +600,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T00:21:16.746Z** `ingest` plot.xianni-1202-zhong-dao-cangsongzi-slain — 第1202章 种道：七彩钉子诛苍松子，界外太古星辰玉简换名王林 · kind=plot asOf=2026-08-25 entities=35 relations=49 src=01119-01122.p2.md
 - **2026-08-25T00:24:00.553Z** `ingest` plot.xianni-1203-dao-marrow-simamo-cave-secrets — 《仙逆》第1203章 道髓——王林破净涅中期，探司马墨九洞府 · kind=plot asOf=2026-08-25 entities=28 relations=42 src=01119-01122.p3.md
 - **2026-08-25T00:26:49.717Z** `ingest` plot.xianni-1204-tiandao-zhi-ji-zhanxingye-remains — 第1204章 天道之计——战星野骸骨真相与战字帖合一 · kind=plot asOf=2026-08-25 entities=30 relations=34 src=01119-01122.p4.md
+- **2026-08-25T00:29:27.129Z** `ingest` plot.xianni-1205-ao-wang-lin-subdues-lightning-statue — 仙逆 第1205章 傲！——王林以太古雷龙元神强夺闪雷族石像雷权 · kind=plot asOf=2026-08-25 entities=23 relations=34 src=01123-01126.p1.md

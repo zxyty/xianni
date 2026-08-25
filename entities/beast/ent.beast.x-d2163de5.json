@@ -8,7 +8,8 @@
   "summary": "苍松子可召唤之物，据其记忆是在雾气中的巨大石像内感悟出来的。",
   "attributes": {
     "主人": "苍松子",
-    "栖息地": "石像/七彩界雾气"
+    "栖息地": "石像/七彩界雾气",
+    "能力": "可伤及古神肉身"
   },
   "observations": {
     "主人": [
@@ -23,6 +24,13 @@
         "value": "石像/七彩界雾气",
         "docId": "plot.xianni-1204-tiandao-zhi-ji-zhanxingye-remains",
         "seq": 1119
+      }
+    ],
+    "能力": [
+      {
+        "value": "可伤及古神肉身",
+        "docId": "plot.xianni-1205-ao-wang-lin-subdues-lightning-statue",
+        "seq": 1123
       }
     ]
   },
@@ -39,12 +47,19 @@
       "docId": "plot.xianni-1204-tiandao-zhi-ji-zhanxingye-remains",
       "dated": false,
       "seq": 1119
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-1205-ao-wang-lin-subdues-lightning-statue",
+      "dated": false,
+      "seq": 1123
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1204-tiandao-zhi-ji-zhanxingye-remains"
+    "plot.xianni-1204-tiandao-zhi-ji-zhanxingye-remains",
+    "plot.xianni-1205-ao-wang-lin-subdues-lightning-statue"
   ],
-  "updatedAt": "2026-08-25T00:26:49.409Z"
+  "updatedAt": "2026-08-25T00:29:26.835Z"
 }
