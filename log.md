@@ -745,3 +745,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T12:39:06.452Z** `ingest` plot.xianni-ch1362-dunchen-lianlei-zhong-dahong-touji — 第1362章 遁尘炼雷：天道使者晶掌、钟大洪叛族投主、王林隐入凡尘 · kind=plot asOf=2026-08-25 entities=28 relations=37 src=01275-01279.p4.md
 - **2026-08-25T12:40:56.457Z** `ingest` plot.xianni-ch1363-jiuwei-de-pingjing — 第1363章 久违的平静——王林隐居凡间都城，火海祭炼吞噬七条太古雷龙 · kind=plot asOf=2026-08-25 entities=9 relations=14 src=01275-01279.p5.md
 - **2026-08-25T12:43:26.588Z** `ingest` plot.xianni-1364-taigu-xingchen-ling — 第1364章 太古星辰令：长尊会全太古通缉，王林融合八条雷龙与不灭雷霆 · kind=plot asOf=2026-08-25 entities=28 relations=34 src=01280-01284.p1.md
+- **2026-08-25T12:46:13.930Z** `ingest` plot.xianni-1365-three-scenes-immortal-thunder-devoured — 《仙逆》第1365章 三幅画面——王林吞噬不灭雷霆，得雷之本源与残破记忆 · kind=plot asOf=2026-08-25 entities=24 relations=32 src=01280-01284.p2.md

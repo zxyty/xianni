@@ -1,41 +1,38 @@
 {
-  "id": "ent.realm.x-a1934be9",
-  "type": "realm",
-  "name": "碎涅后期",
-  "aliases": [
-    "碎涅期后期",
-    "三境碎涅后期"
-  ],
-  "summary": "极贤天用以对照炎雷子实力的参照境界——炎雷子远超碎涅后期。",
+  "id": "ent.beast.x-f708ee88",
+  "type": "beast",
+  "name": "巨大黑芒蚊兽",
+  "aliases": [],
+  "summary": "第一幅画面中所见，堪比修真星大小、全身散发黑芒的蚊兽。",
   "attributes": {
-    "小阶段": "后期",
-    "上一境": "碎涅中期"
+    "外形": "堪比修真星大小，全身散发黑芒",
+    "栖息地": "远古大崩溃的星空"
   },
   "observations": {
-    "小阶段": [
+    "外形": [
       {
-        "value": "后期",
+        "value": "堪比修真星大小，全身散发黑芒",
         "docId": "plot.xianni-1365-three-scenes-immortal-thunder-devoured",
         "seq": 1280
       }
     ],
-    "上一境": [
+    "栖息地": [
       {
-        "value": "碎涅中期",
+        "value": "远古大崩溃的星空",
         "docId": "plot.xianni-1365-three-scenes-immortal-thunder-devoured",
         "seq": 1280
       }
     ]
   },
-  "firstSeq": 855,
+  "firstSeq": 1280,
   "attrProvenance": {
-    "小阶段": {
+    "外形": {
       "asOf": null,
       "docId": "plot.xianni-1365-three-scenes-immortal-thunder-devoured",
       "dated": false,
       "seq": 1280
     },
-    "上一境": {
+    "栖息地": {
       "asOf": null,
       "docId": "plot.xianni-1365-three-scenes-immortal-thunder-devoured",
       "dated": false,
@@ -45,8 +42,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch924-wang-lin-dingshen-jixiantian-great-merit",
     "plot.xianni-1365-three-scenes-immortal-thunder-devoured"
   ],
-  "updatedAt": "2026-08-25T12:46:13.452Z"
+  "updatedAt": "2026-08-25T12:46:13.465Z"
 }
