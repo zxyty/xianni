@@ -10,10 +10,10 @@
   "summary": "王林在生死危机中自行诞生的雷之本源，使其对雷霆操控达到可怕程度；吞噬闪雷族圣雷或可使之进化。",
   "attributes": {
     "五行属性": "雷",
-    "修炼条件": "需寻得并吸收九种伴随之雷",
-    "效果": "可怕程度的雷霆操控，安然穿越闪雷族雷池、吸收伴随之雷可壮大本源、集齐九道伴随之雷则本源大成、可凭此突破修道第二步壁障成为第三步雷修大能",
+    "修炼条件": "炼化不灭雷霆＋八条太古雷龙魂魄＋大长老元神伴随之雷",
+    "效果": "可怕程度的雷霆操控，安然穿越闪雷族雷池、吸收伴随之雷可壮大本源、集齐九道伴随之雷则本源大成、可凭此突破修道第二步壁障成为第三步雷修大能、驾驭雷龙、召唤雷霆，大成则修为大增",
     "出处": "天地初开第一道诞生的雷霆之记忆（太古）",
-    "外显异象": "右目瞳孔内闪电印记；本源雷霆印记在中、伴随之雷环绕在外自成天地"
+    "外显异象": "右目雷光一闪、本源印记幻化"
   },
   "observations": {
     "五行属性": [
@@ -34,6 +34,12 @@
         "value": "需寻得并吸收九种伴随之雷",
         "docId": "plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu",
         "seq": 1255
+      },
+      {
+        "value": "炼化不灭雷霆＋八条太古雷龙魂魄＋大长老元神伴随之雷",
+        "docId": "plot.xianni-1362-tiandao-envoy-reappears",
+        "seq": 1275,
+        "note": "王林本章的大成计划"
       }
     ],
     "效果": [
@@ -56,6 +62,11 @@
         "value": "可凭此突破修道第二步壁障成为第三步雷修大能",
         "docId": "plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu",
         "seq": 1255
+      },
+      {
+        "value": "驾驭雷龙、召唤雷霆，大成则修为大增",
+        "docId": "plot.xianni-1362-tiandao-envoy-reappears",
+        "seq": 1275
       }
     ],
     "出处": [
@@ -70,6 +81,11 @@
         "value": "右目瞳孔内闪电印记；本源雷霆印记在中、伴随之雷环绕在外自成天地",
         "docId": "plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu",
         "seq": 1255
+      },
+      {
+        "value": "右目雷光一闪、本源印记幻化",
+        "docId": "plot.xianni-1362-tiandao-envoy-reappears",
+        "seq": 1275
       }
     ]
   },
@@ -83,9 +99,10 @@
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu",
+      "docId": "plot.xianni-1362-tiandao-envoy-reappears",
       "dated": false,
-      "seq": 1255
+      "seq": 1275,
+      "note": "王林本章的大成计划"
     },
     "效果": {
       "asOf": null,
@@ -101,16 +118,17 @@
     },
     "外显异象": {
       "asOf": null,
-      "docId": "plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu",
+      "docId": "plot.xianni-1362-tiandao-envoy-reappears",
       "dated": false,
-      "seq": 1255
+      "seq": 1275
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
-    "plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu"
+    "plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu",
+    "plot.xianni-1362-tiandao-envoy-reappears"
   ],
-  "updatedAt": "2026-08-25T11:50:27.146Z"
+  "updatedAt": "2026-08-25T12:36:32.985Z"
 }
