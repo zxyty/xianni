@@ -2,11 +2,15 @@
   "id": "ent.person.x-3f6af604",
   "type": "person",
   "name": "章姓老者",
-  "aliases": [],
+  "aliases": [
+    "章老者",
+    "姓章的老者"
+  ],
   "summary": "被禁锢在暗蝎族大殿的干瘦老者，目睹王林灭城灭人，惊觉其即钟大洪之主。",
   "attributes": {
     "外貌": "干瘦老者",
-    "身份": "被禁锢者"
+    "身份": "被禁锢者",
+    "阵营": "依附王林一方"
   },
   "observations": {
     "外貌": [
@@ -22,6 +26,13 @@
         "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
         "seq": 1285,
         "note": "本片段被禁锢在暗蝎族一方，后被钟大洪扶住"
+      }
+    ],
+    "阵营": [
+      {
+        "value": "依附王林一方",
+        "docId": "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
+        "seq": 1288
       }
     ]
   },
@@ -39,12 +50,19 @@
       "dated": false,
       "seq": 1285,
       "note": "本片段被禁锢在暗蝎族一方，后被钟大洪扶住"
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
+      "dated": false,
+      "seq": 1288
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng"
+    "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
+    "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing"
   ],
-  "updatedAt": "2026-08-25T13:25:11.859Z"
+  "updatedAt": "2026-08-25T13:44:40.869Z"
 }

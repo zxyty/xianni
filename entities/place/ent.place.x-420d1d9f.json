@@ -6,17 +6,18 @@
     "颠落",
     "Dianluo Land",
     "Dian Luo Zhi Di",
-    "颠落之地修真星"
+    "颠落之地修真星",
+    "顛落之地"
   ],
   "summary": "太古星辰一处星域，修真星数千、由三百七十二个小族组成，是叛族与结仇者的庇护所，亦为太古星辰最大的交易之所。",
   "attributes": {
     "所属界面": "太古星辰",
-    "类型": "庇护所、交易之所、化外之地/自由交易区、区域／修真星所在之地",
-    "规模": "修真星不下数千，由三百七十二个小族组成",
-    "危险度": "极高（外敌入侵者曾被虚无狂风尽灭）、相对安全但并非绝对安全、极高",
-    "特产": "法宝交易、功法交易、丹药、法宝、元晶、可印神识操控的傀儡、炉鼎交易",
+    "类型": "庇护所、交易之所、化外之地/自由交易区、区域／修真星所在之地、神秘禁区/独立势力辖区",
+    "规模": "三百七十二个小族",
+    "危险度": "极高（外敌入侵者曾被虚无狂风尽灭）、相对安全但并非绝对安全、极高、强者为尊；争夺长老之位者多莫名死亡",
+    "特产": "法宝交易、功法交易、丹药、法宝、元晶、可印神识操控的傀儡、炉鼎交易、炎火异晶、傀儡",
     "上级区域": "太古星辰",
-    "所属势力": "不属长尊会控制"
+    "所属势力": "不属长尊会控制、落生会、颠落大帝"
   },
   "observations": {
     "所属界面": [
@@ -46,6 +47,11 @@
         "value": "区域／修真星所在之地",
         "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
         "seq": 1285
+      },
+      {
+        "value": "神秘禁区/独立势力辖区",
+        "docId": "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
+        "seq": 1288
       }
     ],
     "规模": [
@@ -53,6 +59,11 @@
         "value": "修真星不下数千，由三百七十二个小族组成",
         "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
         "seq": 1285
+      },
+      {
+        "value": "三百七十二个小族",
+        "docId": "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
+        "seq": 1288
       }
     ],
     "危险度": [
@@ -70,6 +81,11 @@
         "value": "极高",
         "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
         "seq": 1285
+      },
+      {
+        "value": "强者为尊；争夺长老之位者多莫名死亡",
+        "docId": "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
+        "seq": 1288
       }
     ],
     "特产": [
@@ -107,6 +123,16 @@
         "value": "炉鼎交易",
         "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
         "seq": 1285
+      },
+      {
+        "value": "炎火异晶",
+        "docId": "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
+        "seq": 1288
+      },
+      {
+        "value": "傀儡",
+        "docId": "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
+        "seq": 1288
       }
     ],
     "上级区域": [
@@ -122,6 +148,16 @@
         "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
         "seq": 1285,
         "note": "太古星辰令传不进来"
+      },
+      {
+        "value": "落生会",
+        "docId": "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
+        "seq": 1288
+      },
+      {
+        "value": "颠落大帝",
+        "docId": "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
+        "seq": 1288
       }
     ]
   },
@@ -141,9 +177,9 @@
     },
     "规模": {
       "asOf": null,
-      "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
+      "docId": "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
       "dated": false,
-      "seq": 1285
+      "seq": 1288
     },
     "危险度": {
       "asOf": null,
@@ -174,7 +210,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng"
+    "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
+    "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing"
   ],
-  "updatedAt": "2026-08-25T13:25:11.864Z"
+  "updatedAt": "2026-08-25T13:44:40.877Z"
 }
