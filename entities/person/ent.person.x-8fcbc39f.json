@@ -3,13 +3,15 @@
   "type": "person",
   "name": "庞德才",
   "aliases": [
-    "庞德才道友"
+    "庞德才道友",
+    "庞得才"
   ],
   "summary": "苍松子的同伙，擅长搜魂，被派去截杀「吕子浩」并夺取役灵印，本章仅在苍松子心念中提及。",
   "attributes": {
     "身份": "苍松子的多年同伙",
     "标志特征": "擅长搜魂",
-    "存殁": "死亡"
+    "存殁": "死亡",
+    "死因": "被王林所杀"
   },
   "observations": {
     "身份": [
@@ -32,6 +34,14 @@
         "docId": "plot.xianni-1196-sima-mo-cave-secret",
         "seq": 1114
       }
+    ],
+    "死因": [
+      {
+        "value": "被王林所杀",
+        "docId": "plot.xianni-1201-shouhu-qicaijie-canglaozhe-daonian-jingshi",
+        "seq": 1119,
+        "note": "第1114章；本章为苍松子的推断/回忆"
+      }
     ]
   },
   "firstSeq": 1105,
@@ -53,13 +63,21 @@
       "docId": "plot.xianni-1196-sima-mo-cave-secret",
       "dated": false,
       "seq": 1114
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-1201-shouhu-qicaijie-canglaozhe-daonian-jingshi",
+      "dated": false,
+      "seq": 1119,
+      "note": "第1114章；本章为苍松子的推断/回忆"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1188-dao-jing-ming-zhi-zhe",
-    "plot.xianni-1196-sima-mo-cave-secret"
+    "plot.xianni-1196-sima-mo-cave-secret",
+    "plot.xianni-1201-shouhu-qicaijie-canglaozhe-daonian-jingshi"
   ],
-  "updatedAt": "2026-08-24T23:12:09.252Z"
+  "updatedAt": "2026-08-25T00:18:29.693Z"
 }
