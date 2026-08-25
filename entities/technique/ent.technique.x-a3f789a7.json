@@ -4,13 +4,15 @@
   "name": "炼奴之法",
   "aliases": [
     "炼奴",
-    "古奴炼制"
+    "古奴炼制",
+    "炼化古奴"
   ],
   "summary": "以天皇炉与古神之力将他人炼作古神之奴的手段；王林欲将灵动上人炼成第三步古奴。",
   "attributes": {
     "出处": "天皇炉（古神王族）",
-    "效果": "将修士炼作古奴",
-    "修炼条件": "需古神之力驱动天皇炉"
+    "效果": "将大能炼化为古奴奴仆",
+    "修炼条件": "需古神之力驱动天皇炉",
+    "适用境界": "第三步大能"
   },
   "observations": {
     "出处": [
@@ -25,6 +27,11 @@
         "value": "将修士炼作古奴",
         "docId": "plot.xianni-ch1449-mutai-secret",
         "seq": 1355
+      },
+      {
+        "value": "将大能炼化为古奴奴仆",
+        "docId": "plot.xianni-ch1462-destroy-rules-refine-zhou-jin",
+        "seq": 1370
       }
     ],
     "修炼条件": [
@@ -32,6 +39,13 @@
         "value": "需古神之力驱动天皇炉",
         "docId": "plot.xianni-ch1449-mutai-secret",
         "seq": 1355
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "第三步大能",
+        "docId": "plot.xianni-ch1462-destroy-rules-refine-zhou-jin",
+        "seq": 1370
       }
     ]
   },
@@ -45,21 +59,28 @@
     },
     "效果": {
       "asOf": null,
-      "docId": "plot.xianni-ch1449-mutai-secret",
+      "docId": "plot.xianni-ch1462-destroy-rules-refine-zhou-jin",
       "dated": false,
-      "seq": 1355
+      "seq": 1370
     },
     "修炼条件": {
       "asOf": null,
       "docId": "plot.xianni-ch1449-mutai-secret",
       "dated": false,
       "seq": 1355
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1462-destroy-rules-refine-zhou-jin",
+      "dated": false,
+      "seq": 1370
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1449-mutai-secret"
+    "plot.xianni-ch1449-mutai-secret",
+    "plot.xianni-ch1462-destroy-rules-refine-zhou-jin"
   ],
-  "updatedAt": "2026-08-25T19:31:37.401Z"
+  "updatedAt": "2026-08-25T21:17:01.840Z"
 }

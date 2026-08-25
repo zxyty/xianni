@@ -9,8 +9,8 @@
   "summary": "王林第三式神通，道境十年中融合梦回远古与散道之术而成；回到对方记忆，种下永恒虚幻记忆，化道念为心魔崩其道基。",
   "attributes": {
     "出处": "王林于道境内融合梦回远古与散道之术自创",
-    "效果": "回溯对方记忆、种下永恒虚幻记忆并成为真实、化道念为心魔、以心魔崩道基、自形毁灭、进入他人记忆观看过往、可在对方记忆内留下思绪",
-    "修炼条件": "需借道境之力，历时道境十年方成"
+    "效果": "回溯对方记忆、种下永恒虚幻记忆并成为真实、化道念为心魔、以心魔崩道基、自形毁灭、进入他人记忆观看过往、可在对方记忆内留下思绪、炼奴、改写心神",
+    "修炼条件": "对第三步大能需先耗尽其心神"
   },
   "observations": {
     "出处": [
@@ -50,6 +50,11 @@
         "value": "可在对方记忆内留下思绪",
         "docId": "plot.xianni-ch1425-sima-mo-memory-village-massacre-mengdao",
         "seq": 1331
+      },
+      {
+        "value": "炼奴、改写心神",
+        "docId": "plot.xianni-ch1462-destroy-rules-refine-zhou-jin",
+        "seq": 1370
       }
     ],
     "修炼条件": [
@@ -57,6 +62,11 @@
         "value": "需借道境之力，历时道境十年方成",
         "docId": "lore.xianni-1424-meng-dao-zhong-mo",
         "seq": 1331
+      },
+      {
+        "value": "对第三步大能需先耗尽其心神",
+        "docId": "plot.xianni-ch1462-destroy-rules-refine-zhou-jin",
+        "seq": 1370
       }
     ]
   },
@@ -76,16 +86,17 @@
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "lore.xianni-1424-meng-dao-zhong-mo",
+      "docId": "plot.xianni-ch1462-destroy-rules-refine-zhou-jin",
       "dated": false,
-      "seq": 1331
+      "seq": 1370
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "lore.xianni-1424-meng-dao-zhong-mo",
-    "plot.xianni-ch1425-sima-mo-memory-village-massacre-mengdao"
+    "plot.xianni-ch1425-sima-mo-memory-village-massacre-mengdao",
+    "plot.xianni-ch1462-destroy-rules-refine-zhou-jin"
   ],
-  "updatedAt": "2026-08-25T17:46:31.578Z"
+  "updatedAt": "2026-08-25T21:17:01.837Z"
 }

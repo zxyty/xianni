@@ -2,13 +2,16 @@
   "id": "ent.person.x-11c0dba6",
   "type": "person",
   "name": "周谨",
-  "aliases": [],
+  "aliases": [
+    "奉天狼族周谨"
+  ],
   "summary": "奉天狼族三步大能，持有墓台，一路追杀王林进入古墓，欲杀王林取古息叶并令自身墓台晋为六阶，最终被王林与灵动上人联手封死退路、以九滴黑色水滴定住。",
   "attributes": {
     "种族": "奉天狼族",
-    "身份": "三步大能、墓台持有者",
+    "身份": "三步大能、墓台持有者、第三步大能",
     "结局": "退路被古息叶封死、被九滴黑色水滴逼得不敢动",
-    "存殁": "存活"
+    "存殁": "存活、被困待炼化",
+    "外貌": "大汉"
   },
   "observations": {
     "种族": [
@@ -22,6 +25,11 @@
       {
         "value": "三步大能、墓台持有者",
         "docId": "plot.xianni-ch1461-zhijie-fengsha-fengjin-zhoujin",
+        "seq": 1370
+      },
+      {
+        "value": "第三步大能",
+        "docId": "plot.xianni-ch1462-destroy-rules-refine-zhou-jin",
         "seq": 1370
       }
     ],
@@ -37,6 +45,19 @@
       {
         "value": "存活",
         "docId": "plot.xianni-ch1461-zhijie-fengsha-fengjin-zhoujin",
+        "seq": 1370
+      },
+      {
+        "value": "被困待炼化",
+        "docId": "plot.xianni-ch1462-destroy-rules-refine-zhou-jin",
+        "seq": 1370,
+        "note": "本章被压制在天皇炉内，未死"
+      }
+    ],
+    "外貌": [
+      {
+        "value": "大汉",
+        "docId": "plot.xianni-ch1462-destroy-rules-refine-zhou-jin",
         "seq": 1370
       }
     ]
@@ -67,12 +88,19 @@
       "docId": "plot.xianni-ch1461-zhijie-fengsha-fengjin-zhoujin",
       "dated": false,
       "seq": 1370
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1462-destroy-rules-refine-zhou-jin",
+      "dated": false,
+      "seq": 1370
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1461-zhijie-fengsha-fengjin-zhoujin"
+    "plot.xianni-ch1461-zhijie-fengsha-fengjin-zhoujin",
+    "plot.xianni-ch1462-destroy-rules-refine-zhou-jin"
   ],
-  "updatedAt": "2026-08-25T21:10:06.094Z"
+  "updatedAt": "2026-08-25T21:17:01.821Z"
 }

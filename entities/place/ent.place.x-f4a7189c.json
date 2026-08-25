@@ -4,12 +4,13 @@
   "name": "第六副地图",
   "aliases": [
     "古墓第六幅地图",
-    "第六张地图"
+    "第六张地图",
+    "第六幅地图"
   ],
   "summary": "雾气略稀薄却遍布空间乱流的区域，九天魔尊的六千丈头颅墓台所在。",
   "attributes": {
     "类型": "古墓分区",
-    "上级区域": "古之墓地",
+    "上级区域": "古墓",
     "危险度": "极高（空间乱流可撕裂身躯）"
   },
   "observations": {
@@ -25,6 +26,11 @@
         "value": "古之墓地",
         "docId": "plot.xianni-ch1457-shao-yi-ge",
         "seq": 1365
+      },
+      {
+        "value": "古墓",
+        "docId": "plot.xianni-ch1462-destroy-rules-refine-zhou-jin",
+        "seq": 1370
       }
     ],
     "危险度": [
@@ -45,9 +51,9 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch1457-shao-yi-ge",
+      "docId": "plot.xianni-ch1462-destroy-rules-refine-zhou-jin",
       "dated": false,
-      "seq": 1365
+      "seq": 1370
     },
     "危险度": {
       "asOf": null,
@@ -59,7 +65,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1457-shao-yi-ge"
+    "plot.xianni-ch1457-shao-yi-ge",
+    "plot.xianni-ch1462-destroy-rules-refine-zhou-jin"
   ],
-  "updatedAt": "2026-08-25T20:55:56.974Z"
+  "updatedAt": "2026-08-25T21:17:01.878Z"
 }
