@@ -3,14 +3,16 @@
   "type": "person",
   "name": "闪雷族老祖",
   "aliases": [
-    "天人第五衰老祖"
+    "天人第五衰老祖",
+    "闪雷族的老祖"
   ],
   "summary": "闪雷族最强者，达天人第五衰，距第三步只差一步；若施展聚雷印可与第三步大能周旋片刻。",
   "attributes": {
     "种族": "闪雷族",
-    "身份": "常年闭关的老祖",
+    "身份": "闪雷族老祖",
     "小阶段": "天人第五衰",
-    "阵营": "闪雷族"
+    "阵营": "闪雷族",
+    "存殁": "已不在世"
   },
   "observations": {
     "种族": [
@@ -30,6 +32,11 @@
         "value": "常年闭关的老祖",
         "docId": "plot.xianni-1341-i-am-the-heavenly-tribulation",
         "seq": 1255
+      },
+      {
+        "value": "闪雷族老祖",
+        "docId": "plot.xianni-ch1352-shanlei-battle-6-kunji-whip-wanjie-fenghun-bian",
+        "seq": 1265
       }
     ],
     "小阶段": [
@@ -45,6 +52,14 @@
         "docId": "plot.xianni-1341-i-am-the-heavenly-tribulation",
         "seq": 1255
       }
+    ],
+    "存殁": [
+      {
+        "value": "已不在世",
+        "docId": "plot.xianni-ch1352-shanlei-battle-6-kunji-whip-wanjie-fenghun-bian",
+        "seq": 1265,
+        "note": "大长老称『当年老祖尚在之时』并寄望其英灵"
+      }
     ]
   },
   "firstSeq": 1246,
@@ -57,9 +72,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1341-i-am-the-heavenly-tribulation",
+      "docId": "plot.xianni-ch1352-shanlei-battle-6-kunji-whip-wanjie-fenghun-bian",
       "dated": false,
-      "seq": 1255
+      "seq": 1265
     },
     "小阶段": {
       "asOf": null,
@@ -72,13 +87,21 @@
       "docId": "plot.xianni-1341-i-am-the-heavenly-tribulation",
       "dated": false,
       "seq": 1255
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1352-shanlei-battle-6-kunji-whip-wanjie-fenghun-bian",
+      "dated": false,
+      "seq": 1265,
+      "note": "大长老称『当年老祖尚在之时』并寄望其英灵"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1334-frightening-guess-thunder-seal-study",
-    "plot.xianni-1341-i-am-the-heavenly-tribulation"
+    "plot.xianni-1341-i-am-the-heavenly-tribulation",
+    "plot.xianni-ch1352-shanlei-battle-6-kunji-whip-wanjie-fenghun-bian"
   ],
-  "updatedAt": "2026-08-25T11:47:47.436Z"
+  "updatedAt": "2026-08-25T12:12:41.557Z"
 }

@@ -731,3 +731,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T12:05:55.459Z** `ingest` plot.xianni-ch1349-shanlei-war-3-lei-quan-vs-lei-sha-mirror — 第1349章 闪雷之战（三）：雷拳破雷杀镜，大长老撕族印展天人第四衰 · kind=plot asOf=2026-08-25 entities=17 relations=22 src=01260-01264.p5.md
 - **2026-08-25T12:07:53.337Z** `ingest` plot.xianni-1350-shanlei-war-4-julei-seal-duel — 第1350章 闪雷之战（四）：聚雷印对轰与光影盾反射 · kind=plot asOf=2026-08-25 entities=20 relations=24 src=01265-01269.p1.md
 - **2026-08-25T12:10:17.144Z** `ingest` plot.xianni-1351-shanlei-war-5-taigu-thunder-dragons — 第1351章 闪雷之战！（五）：闪雷族大长老召八条太古雷龙，王林祭昆极鞭 · kind=plot asOf=2026-08-25 entities=18 relations=24 src=01265-01269.p2.md
+- **2026-08-25T12:12:41.886Z** `ingest` plot.xianni-ch1352-shanlei-battle-6-kunji-whip-wanjie-fenghun-bian — 第1352章 闪雷之战（六）：昆极鞭现真身「万界封魂鞭」，王林吞噬八条太古雷龙魂魄 · kind=plot asOf=2026-08-25 entities=18 relations=26 src=01265-01269.p3.md
