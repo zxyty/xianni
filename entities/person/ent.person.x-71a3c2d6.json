@@ -8,16 +8,18 @@
     "Yun Luo",
     "飘渺族黑衣女子",
     "算出王林所在的女子",
-    "飘渺族女修"
+    "飘渺族女修",
+    "黄毛丫头"
   ],
   "summary": "长尊会大司，以推衍天地星辰之术算出灭闪雷族者的画像与神识印记。",
   "attributes": {
     "身份": "长尊会大司、飘渺族修士",
     "称号": "大司",
-    "阵营": "长尊会、飘渺族",
+    "阵营": "长尊会、飘渺族、长尊会 / 太古星辰",
     "性别": "女",
-    "外貌": "黑衣",
-    "标志特征": "承先祖九卦之传"
+    "外貌": "长发披肩、青丝飞扬、相貌秀美、双目如月色般奇异之芒，状若仙女",
+    "标志特征": "承先祖九卦之传",
+    "寿元": "修炼不足千年"
   },
   "observations": {
     "身份": [
@@ -49,6 +51,11 @@
         "value": "飘渺族",
         "docId": "plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin",
         "seq": 1280
+      },
+      {
+        "value": "长尊会 / 太古星辰",
+        "docId": "plot.xianni-1398-huangmao-yatou-shaodi-weiya",
+        "seq": 1307
       }
     ],
     "性别": [
@@ -68,6 +75,11 @@
         "value": "黑衣",
         "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
         "seq": 1285
+      },
+      {
+        "value": "长发披肩、青丝飞扬、相貌秀美、双目如月色般奇异之芒，状若仙女",
+        "docId": "plot.xianni-1398-huangmao-yatou-shaodi-weiya",
+        "seq": 1307
       }
     ],
     "标志特征": [
@@ -75,6 +87,14 @@
         "value": "承先祖九卦之传",
         "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
         "seq": 1285
+      }
+    ],
+    "寿元": [
+      {
+        "value": "修炼不足千年",
+        "docId": "plot.xianni-1398-huangmao-yatou-shaodi-weiya",
+        "seq": 1307,
+        "note": "王林之推断"
       }
     ]
   },
@@ -106,15 +126,22 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
+      "docId": "plot.xianni-1398-huangmao-yatou-shaodi-weiya",
       "dated": false,
-      "seq": 1285
+      "seq": 1307
     },
     "标志特征": {
       "asOf": null,
       "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
       "dated": false,
       "seq": 1285
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.xianni-1398-huangmao-yatou-shaodi-weiya",
+      "dated": false,
+      "seq": 1307,
+      "note": "王林之推断"
     }
   },
   "contested": false,
@@ -122,7 +149,8 @@
   "docs": [
     "plot.xianni-1364-taigu-xingchen-ling",
     "plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin",
-    "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng"
+    "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
+    "plot.xianni-1398-huangmao-yatou-shaodi-weiya"
   ],
-  "updatedAt": "2026-08-25T13:25:11.674Z"
+  "updatedAt": "2026-08-25T16:26:59.282Z"
 }

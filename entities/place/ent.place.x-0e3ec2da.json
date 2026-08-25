@@ -8,11 +8,11 @@
   ],
   "summary": "颠落之地内最神秘的修真星，落生会圣地与颠落大帝洞府所在，形如罗盘指针的长条形星辰，平日撕裂之力与元磁弥漫。",
   "attributes": {
-    "类型": "修真星/圣地",
+    "类型": "修真星 / 大帝驻地",
     "上级区域": "颠落之地",
     "所属势力": "落生会、颠落大帝",
     "危险度": "极高：撕裂之力与元磁令法宝失效、修为被压制",
-    "守护": "撕裂之力与元磁"
+    "守护": "元磁撕裂"
   },
   "observations": {
     "类型": [
@@ -20,6 +20,11 @@
         "value": "修真星/圣地",
         "docId": "plot.xianni-1396-lang-yong-mo-hun-fen-shen-cheng-xing",
         "seq": 1303
+      },
+      {
+        "value": "修真星 / 大帝驻地",
+        "docId": "plot.xianni-1398-huangmao-yatou-shaodi-weiya",
+        "seq": 1307
       }
     ],
     "上级区域": [
@@ -54,6 +59,11 @@
         "value": "撕裂之力与元磁",
         "docId": "plot.xianni-1396-lang-yong-mo-hun-fen-shen-cheng-xing",
         "seq": 1303
+      },
+      {
+        "value": "元磁撕裂",
+        "docId": "plot.xianni-1398-huangmao-yatou-shaodi-weiya",
+        "seq": 1307
       }
     ]
   },
@@ -61,9 +71,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1396-lang-yong-mo-hun-fen-shen-cheng-xing",
+      "docId": "plot.xianni-1398-huangmao-yatou-shaodi-weiya",
       "dated": false,
-      "seq": 1303
+      "seq": 1307
     },
     "上级区域": {
       "asOf": null,
@@ -86,16 +96,17 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-1396-lang-yong-mo-hun-fen-shen-cheng-xing",
+      "docId": "plot.xianni-1398-huangmao-yatou-shaodi-weiya",
       "dated": false,
-      "seq": 1303
+      "seq": 1307
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1396-lang-yong-mo-hun-fen-shen-cheng-xing",
-    "plot.xianni-1397-dadi-star-luoshenghui-elder-selection-arrival"
+    "plot.xianni-1397-dadi-star-luoshenghui-elder-selection-arrival",
+    "plot.xianni-1398-huangmao-yatou-shaodi-weiya"
   ],
-  "updatedAt": "2026-08-25T16:24:36.598Z"
+  "updatedAt": "2026-08-25T16:26:59.299Z"
 }

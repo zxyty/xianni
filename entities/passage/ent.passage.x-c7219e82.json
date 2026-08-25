@@ -4,19 +4,27 @@
   "name": "大帝星元磁通道",
   "aliases": [
     "大帝星通道",
-    "元磁撕裂通道"
+    "元磁撕裂通道",
+    "元磁撕裂雾气通道"
   ],
   "summary": "长老之选时由大帝星内部统一撕开、穿过元磁撕裂雾气进入大帝星的唯一通道。",
   "attributes": {
-    "类型": "穿越元磁撕裂的临时通道",
-    "两端": "大帝星外围星空—大帝星内部",
-    "可通行境界": "由内部开启后所有与会修士皆可一一进入"
+    "类型": "穿越元磁撕裂的临时通道、在元磁撕裂中开辟的通道",
+    "两端": "大帝星外围星空—大帝星内部、大帝星外星空 ↔ 大帝星",
+    "可通行境界": "由内部开启后所有与会修士皆可一一进入",
+    "稳定性": "内有撕裂之力与元磁吸撤，元力略有涣散，但吸力不算太强",
+    "守护": "元磁撕裂"
   },
   "observations": {
     "类型": [
       {
         "value": "穿越元磁撕裂的临时通道",
         "docId": "plot.xianni-1397-dadi-star-luoshenghui-elder-selection-arrival",
+        "seq": 1307
+      },
+      {
+        "value": "在元磁撕裂中开辟的通道",
+        "docId": "plot.xianni-1398-huangmao-yatou-shaodi-weiya",
         "seq": 1307
       }
     ],
@@ -25,12 +33,31 @@
         "value": "大帝星外围星空—大帝星内部",
         "docId": "plot.xianni-1397-dadi-star-luoshenghui-elder-selection-arrival",
         "seq": 1307
+      },
+      {
+        "value": "大帝星外星空 ↔ 大帝星",
+        "docId": "plot.xianni-1398-huangmao-yatou-shaodi-weiya",
+        "seq": 1307
       }
     ],
     "可通行境界": [
       {
         "value": "由内部开启后所有与会修士皆可一一进入",
         "docId": "plot.xianni-1397-dadi-star-luoshenghui-elder-selection-arrival",
+        "seq": 1307
+      }
+    ],
+    "稳定性": [
+      {
+        "value": "内有撕裂之力与元磁吸撤，元力略有涣散，但吸力不算太强",
+        "docId": "plot.xianni-1398-huangmao-yatou-shaodi-weiya",
+        "seq": 1307
+      }
+    ],
+    "守护": [
+      {
+        "value": "元磁撕裂",
+        "docId": "plot.xianni-1398-huangmao-yatou-shaodi-weiya",
         "seq": 1307
       }
     ]
@@ -54,12 +81,25 @@
       "docId": "plot.xianni-1397-dadi-star-luoshenghui-elder-selection-arrival",
       "dated": false,
       "seq": 1307
+    },
+    "稳定性": {
+      "asOf": null,
+      "docId": "plot.xianni-1398-huangmao-yatou-shaodi-weiya",
+      "dated": false,
+      "seq": 1307
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-1398-huangmao-yatou-shaodi-weiya",
+      "dated": false,
+      "seq": 1307
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1397-dadi-star-luoshenghui-elder-selection-arrival"
+    "plot.xianni-1397-dadi-star-luoshenghui-elder-selection-arrival",
+    "plot.xianni-1398-huangmao-yatou-shaodi-weiya"
   ],
-  "updatedAt": "2026-08-25T16:24:36.602Z"
+  "updatedAt": "2026-08-25T16:26:59.301Z"
 }

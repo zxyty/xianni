@@ -5,12 +5,14 @@
   "aliases": [
     "元磁排斥",
     "虚幻之雾",
-    "大帝星元磁撕裂"
+    "大帝星元磁撕裂",
+    "元磁撕裂之雾"
   ],
   "summary": "笼罩大帝星的天地之威，非人为亦非法宝所致，雾中裂缝吞噬一切，灰色细线由元磁排斥撕出，可撕天裂地、瓦解神通、崩溃法宝。",
   "attributes": {
-    "效果": "吞噬一切的巨大裂缝、使修士神通瓦解、使法宝崩溃、阻断修士通行",
-    "出处": "天地之威、造化之能，非人为"
+    "效果": "吞噬一切的巨大裂缝、使修士神通瓦解、使法宝崩溃、阻断修士通行、撕裂之力、元磁吸撤、吸出体内元力",
+    "出处": "天地之威、造化之能，非人为",
+    "破解法": "由大帝一方开启通道通行"
   },
   "observations": {
     "效果": [
@@ -33,12 +35,29 @@
         "value": "阻断修士通行",
         "docId": "plot.xianni-1397-dadi-star-luoshenghui-elder-selection-arrival",
         "seq": 1307
+      },
+      {
+        "value": "撕裂之力",
+        "docId": "plot.xianni-1398-huangmao-yatou-shaodi-weiya",
+        "seq": 1307
+      },
+      {
+        "value": "元磁吸撤、吸出体内元力",
+        "docId": "plot.xianni-1398-huangmao-yatou-shaodi-weiya",
+        "seq": 1307
       }
     ],
     "出处": [
       {
         "value": "天地之威、造化之能，非人为",
         "docId": "plot.xianni-1397-dadi-star-luoshenghui-elder-selection-arrival",
+        "seq": 1307
+      }
+    ],
+    "破解法": [
+      {
+        "value": "由大帝一方开启通道通行",
+        "docId": "plot.xianni-1398-huangmao-yatou-shaodi-weiya",
         "seq": 1307
       }
     ]
@@ -56,12 +75,19 @@
       "docId": "plot.xianni-1397-dadi-star-luoshenghui-elder-selection-arrival",
       "dated": false,
       "seq": 1307
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.xianni-1398-huangmao-yatou-shaodi-weiya",
+      "dated": false,
+      "seq": 1307
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1397-dadi-star-luoshenghui-elder-selection-arrival"
+    "plot.xianni-1397-dadi-star-luoshenghui-elder-selection-arrival",
+    "plot.xianni-1398-huangmao-yatou-shaodi-weiya"
   ],
-  "updatedAt": "2026-08-25T16:24:36.603Z"
+  "updatedAt": "2026-08-25T16:26:59.303Z"
 }

@@ -770,3 +770,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T16:19:45.845Z** `ingest` plot.xianni-1395-feng-qi-zhu-que-zhi-xue — 第1395章 风起：王林融炼三千古魔之魂，火雀族因朱雀之血震动 · kind=plot asOf=2026-08-25 entities=22 relations=28 src=01303-01306.p3.md
 - **2026-08-25T16:22:34.341Z** `ingest` plot.xianni-1396-lang-yong-mo-hun-fen-shen-cheng-xing — 第1396章 浪涌：魔魂分身初具雏形、落生会长老之选与大帝星 · kind=plot asOf=2026-08-25 entities=30 relations=35 src=01303-01306.p4.md
 - **2026-08-25T16:24:37.026Z** `ingest` plot.xianni-1397-dadi-star-luoshenghui-elder-selection-arrival — 第1397章 咯噔——王林抵大帝星外，龙甲族参拜震慑十三长老 · kind=plot asOf=2026-08-25 entities=22 relations=29 src=01307-01311.p1.md
+- **2026-08-25T16:26:59.811Z** `ingest` plot.xianni-1398-huangmao-yatou-shaodi-weiya — 第1398章 黄毛丫头：王林少帝身份公开，立威颠落之地，再遇司墨子与长尊会云落 · kind=plot asOf=2026-08-25 entities=27 relations=40 src=01307-01311.p2.md
