@@ -666,3 +666,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T05:56:47.988Z** `ingest` plot.xianni-1279-wang-lin-hundred-fists-wound-shui-daozi — 第1279章 伤！——王林百拳重创水道子，风之分身两度出手救人 · kind=plot asOf=2026-08-25 entities=21 relations=31 src=01196-01199.p1.md
 - **2026-08-25T05:59:24.463Z** `ingest` plot.xianni-ch1280-three-daos-of-origin — 第1280章 三道本源——王林生死间悟出三道本源，水道子惊骇欲杀之而后快 · kind=plot asOf=2026-08-25 entities=20 relations=30 src=01196-01199.p2.md
 - **2026-08-25T06:02:10.556Z** `ingest` plot.xianni-1281-feng-jie-zhi-yu — 仙逆 第1281章 封界之玉——王林五道本源现世，玉佩显威钉杀水道子 · kind=plot asOf=2026-08-25 entities=31 relations=40 src=01196-01199.p3.md
+- **2026-08-25T06:04:53.089Z** `ingest` plot.xianni-1282-great-fortune-begins-wang-lin-stone-statue — 第1282章 大造化的开始：水道子被七彩钉贯脑遁走，王林化石像沉睡待救 · kind=plot asOf=2026-08-25 entities=24 relations=34 src=01196-01199.p4.md
