@@ -5,14 +5,17 @@
   "aliases": [
     "被封印之地",
     "虚幻空间",
-    "仙府封印之地"
+    "仙府封印之地",
+    "这封印之地",
+    "古墓封印之地"
   ],
   "summary": "王林被传送而至的封闭之地，天空蔚蓝但白云尽头疑似肉壁；他判断其非善地却是最佳藏身处。",
   "attributes": {
-    "类型": "封印秘境",
+    "类型": "封印之地",
     "特产": "玄阴鼎灵、大鼎",
     "危险度": "高（但适合藏身）",
-    "上级区域": "妖灵之地"
+    "上级区域": "古之墓地",
+    "守护": "古神、古妖、古魔"
   },
   "observations": {
     "类型": [
@@ -25,6 +28,11 @@
         "value": "封印秘境",
         "docId": "plot.xianni-ch1010-hua-fei",
         "seq": 934
+      },
+      {
+        "value": "封印之地",
+        "docId": "plot.xianni-1444-di-lin-guzhi-mudi-liwei",
+        "seq": 1350
       }
     ],
     "特产": [
@@ -46,6 +54,18 @@
         "value": "妖灵之地",
         "docId": "plot.xianni-ch1010-hua-fei",
         "seq": 934
+      },
+      {
+        "value": "古之墓地",
+        "docId": "plot.xianni-1444-di-lin-guzhi-mudi-liwei",
+        "seq": 1350
+      }
+    ],
+    "守护": [
+      {
+        "value": "古神、古妖、古魔",
+        "docId": "plot.xianni-1444-di-lin-guzhi-mudi-liwei",
+        "seq": 1350
       }
     ]
   },
@@ -53,9 +73,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1010-hua-fei",
+      "docId": "plot.xianni-1444-di-lin-guzhi-mudi-liwei",
       "dated": false,
-      "seq": 934
+      "seq": 1350
     },
     "特产": {
       "asOf": null,
@@ -71,16 +91,23 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch1010-hua-fei",
+      "docId": "plot.xianni-1444-di-lin-guzhi-mudi-liwei",
       "dated": false,
-      "seq": 934
+      "seq": 1350
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-1444-di-lin-guzhi-mudi-liwei",
+      "dated": false,
+      "seq": 1350
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
-    "plot.xianni-ch1010-hua-fei"
+    "plot.xianni-ch1010-hua-fei",
+    "plot.xianni-1444-di-lin-guzhi-mudi-liwei"
   ],
-  "updatedAt": "2026-08-24T04:35:35.250Z"
+  "updatedAt": "2026-08-25T19:19:58.011Z"
 }

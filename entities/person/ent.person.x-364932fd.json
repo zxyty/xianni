@@ -4,14 +4,18 @@
   "name": "绿袍老妪",
   "aliases": [
     "满脸疙瘩的老妪",
-    "熟读古典的老妪"
+    "熟读古典的老妪",
+    "封幻族老妪",
+    "绿袍老太"
   ],
   "summary": "夺台最轻松者，所过之处修士尽皆迷茫让路；自称熟读古典，道破古之墓地『入墓考验』的规则。",
   "attributes": {
     "性别": "女",
-    "外貌": "绿袍、满脸疙瘩，极为恐怖",
-    "标志特征": "所过之处修士眼露迷茫、主动让位",
-    "身份": "熟读古典的墓地知情者"
+    "外貌": "绿袍、满脸疙瘩，极为恐怖、身穿绿袍的老妪",
+    "标志特征": "所过之处修士眼露迷茫、主动让位、眉心印记（后化为女子背影图腾）",
+    "身份": "熟读古典的墓地知情者",
+    "种族": "封幻族",
+    "存殁": "存活（重伤）"
   },
   "observations": {
     "性别": [
@@ -26,6 +30,11 @@
         "value": "绿袍、满脸疙瘩，极为恐怖",
         "docId": "plot.xianni-1441-tomb-outer-trial-and-xuhuo-rumors",
         "seq": 1350
+      },
+      {
+        "value": "身穿绿袍的老妪",
+        "docId": "plot.xianni-1444-di-lin-guzhi-mudi-liwei",
+        "seq": 1350
       }
     ],
     "标志特征": [
@@ -33,12 +42,31 @@
         "value": "所过之处修士眼露迷茫、主动让位",
         "docId": "plot.xianni-1441-tomb-outer-trial-and-xuhuo-rumors",
         "seq": 1350
+      },
+      {
+        "value": "眉心印记（后化为女子背影图腾）",
+        "docId": "plot.xianni-1444-di-lin-guzhi-mudi-liwei",
+        "seq": 1350
       }
     ],
     "身份": [
       {
         "value": "熟读古典的墓地知情者",
         "docId": "plot.xianni-1441-tomb-outer-trial-and-xuhuo-rumors",
+        "seq": 1350
+      }
+    ],
+    "种族": [
+      {
+        "value": "封幻族",
+        "docId": "plot.xianni-1444-di-lin-guzhi-mudi-liwei",
+        "seq": 1350
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活（重伤）",
+        "docId": "plot.xianni-1444-di-lin-guzhi-mudi-liwei",
         "seq": 1350
       }
     ]
@@ -68,12 +96,25 @@
       "docId": "plot.xianni-1441-tomb-outer-trial-and-xuhuo-rumors",
       "dated": false,
       "seq": 1350
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-1444-di-lin-guzhi-mudi-liwei",
+      "dated": false,
+      "seq": 1350
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1444-di-lin-guzhi-mudi-liwei",
+      "dated": false,
+      "seq": 1350
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1441-tomb-outer-trial-and-xuhuo-rumors"
+    "plot.xianni-1441-tomb-outer-trial-and-xuhuo-rumors",
+    "plot.xianni-1444-di-lin-guzhi-mudi-liwei"
   ],
-  "updatedAt": "2026-08-25T19:13:29.802Z"
+  "updatedAt": "2026-08-25T19:19:58.018Z"
 }
