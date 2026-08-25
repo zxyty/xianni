@@ -3,11 +3,16 @@
   "type": "technique",
   "name": "古魂禁",
   "aliases": [
-    "上古四大禁之古魂禁"
+    "上古四大禁之古魂禁",
+    "Gu Hun Jin",
+    "古魂禁制",
+    "四大禁之古魂禁"
   ],
   "summary": "上古四大禁之一，本章仅由李元旧言提及。",
   "attributes": {
-    "品阶": "上古四大禁之一"
+    "品阶": "四大禁之一",
+    "效果": "拘凶兽之魂与肉身成禁、受激时显化千里巨龟、反震带一丝沧桑之魂、凝出虚实转换的漩涡龟甲",
+    "出处": "已失传的上古禁术"
   },
   "observations": {
     "品阶": [
@@ -15,6 +20,40 @@
         "value": "上古四大禁之一",
         "docId": "plot.xianni-1188-dao-jing-ming-zhi-zhe",
         "seq": 1105
+      },
+      {
+        "value": "四大禁之一",
+        "docId": "plot.xianni-1399-guhun-jin-dadi-xing",
+        "seq": 1307
+      }
+    ],
+    "效果": [
+      {
+        "value": "拘凶兽之魂与肉身成禁",
+        "docId": "plot.xianni-1399-guhun-jin-dadi-xing",
+        "seq": 1307
+      },
+      {
+        "value": "受激时显化千里巨龟",
+        "docId": "plot.xianni-1399-guhun-jin-dadi-xing",
+        "seq": 1307
+      },
+      {
+        "value": "反震带一丝沧桑之魂",
+        "docId": "plot.xianni-1399-guhun-jin-dadi-xing",
+        "seq": 1307
+      },
+      {
+        "value": "凝出虚实转换的漩涡龟甲",
+        "docId": "plot.xianni-1399-guhun-jin-dadi-xing",
+        "seq": 1307
+      }
+    ],
+    "出处": [
+      {
+        "value": "已失传的上古禁术",
+        "docId": "plot.xianni-1399-guhun-jin-dadi-xing",
+        "seq": 1307
       }
     ]
   },
@@ -22,15 +61,28 @@
   "attrProvenance": {
     "品阶": {
       "asOf": null,
-      "docId": "plot.xianni-1188-dao-jing-ming-zhi-zhe",
+      "docId": "plot.xianni-1399-guhun-jin-dadi-xing",
       "dated": false,
-      "seq": 1105
+      "seq": 1307
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.xianni-1399-guhun-jin-dadi-xing",
+      "dated": false,
+      "seq": 1307
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.xianni-1399-guhun-jin-dadi-xing",
+      "dated": false,
+      "seq": 1307
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1188-dao-jing-ming-zhi-zhe"
+    "plot.xianni-1188-dao-jing-ming-zhi-zhe",
+    "plot.xianni-1399-guhun-jin-dadi-xing"
   ],
-  "updatedAt": "2026-08-24T22:46:29.701Z"
+  "updatedAt": "2026-08-25T16:29:24.801Z"
 }

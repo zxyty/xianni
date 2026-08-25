@@ -16,8 +16,9 @@
     "等级": "颠落之地最高权力机构、统辖三百七十二个族落",
     "据点": "颠落之地、颠落之地诸修真星、各长老修真星、大帝星",
     "理念": "以长老之选分配各族权位",
-    "所属界面": "颠落星域",
-    "掌门": "颠落之地大帝"
+    "所属界面": "大帝星",
+    "掌门": "颠落之地大帝",
+    "阵营": "神秘大帝一方"
   },
   "observations": {
     "等级": [
@@ -82,6 +83,11 @@
         "value": "颠落星域",
         "docId": "plot.xianni-1382-gu-ren-longjia-clan-poison-pill",
         "seq": 1292
+      },
+      {
+        "value": "大帝星",
+        "docId": "plot.xianni-1399-guhun-jin-dadi-xing",
+        "seq": 1307
       }
     ],
     "掌门": [
@@ -89,6 +95,13 @@
         "value": "颠落之地大帝",
         "docId": "plot.xianni-1381-shao-di",
         "seq": 1292
+      }
+    ],
+    "阵营": [
+      {
+        "value": "神秘大帝一方",
+        "docId": "plot.xianni-1399-guhun-jin-dadi-xing",
+        "seq": 1307
       }
     ]
   },
@@ -114,15 +127,21 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-1382-gu-ren-longjia-clan-poison-pill",
+      "docId": "plot.xianni-1399-guhun-jin-dadi-xing",
       "dated": false,
-      "seq": 1292
+      "seq": 1307
     },
     "掌门": {
       "asOf": null,
       "docId": "plot.xianni-1381-shao-di",
       "dated": false,
       "seq": 1292
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1399-guhun-jin-dadi-xing",
+      "dated": false,
+      "seq": 1307
     }
   },
   "contested": false,
@@ -139,7 +158,8 @@
     "plot.xianni-1391-pian-dao-blood-bait-and-xu-liguo",
     "plot.xianni-1396-lang-yong-mo-hun-fen-shen-cheng-xing",
     "plot.xianni-1397-dadi-star-luoshenghui-elder-selection-arrival",
-    "plot.xianni-1398-huangmao-yatou-shaodi-weiya"
+    "plot.xianni-1398-huangmao-yatou-shaodi-weiya",
+    "plot.xianni-1399-guhun-jin-dadi-xing"
   ],
-  "updatedAt": "2026-08-25T16:26:59.291Z"
+  "updatedAt": "2026-08-25T16:29:24.792Z"
 }
