@@ -6,13 +6,14 @@
     "白色蚊兽",
     "半透明白色蚊兽",
     "白蚊",
-    "白色蚊兽（两只）"
+    "白色蚊兽（两只）",
+    "两只白色蚊兽"
   ],
   "summary": "风之仙界内通体半透明的白色蚊兽，散发碎涅气息，数万蚊群中约三百余只；两只在目标山脉壁上以口器摩擦山石。",
   "attributes": {
     "种族": "蚊兽",
     "等级": "气息威压堪比碎涅",
-    "栖息地": "山脉之上（守在蚊王所在山脉）",
+    "栖息地": "风之仙界、山脉之上（守在蚊王所在山脉）、风仙界蚊兽山脉",
     "外形": "白色，化白光疾驰",
     "能力": "倒钩须发延长遍体如长毛、须发整体脱落如飞剑齐射，蕴含破天神通"
   },
@@ -45,6 +46,11 @@
       {
         "value": "山脉之上（守在蚊王所在山脉）",
         "docId": "plot.xianni-1237-mosquito-king-approach",
+        "seq": 1155
+      },
+      {
+        "value": "风仙界蚊兽山脉",
+        "docId": "plot.xianni-1238-new-mosquito-king",
         "seq": 1155
       }
     ],
@@ -89,9 +95,9 @@
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.xianni-1237-mosquito-king-approach",
+      "docId": "plot.xianni-1236-another-mosquito-beast-king",
       "dated": false,
-      "seq": 1155
+      "seq": 1151
     },
     "外形": {
       "asOf": null,
@@ -110,7 +116,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-1236-another-mosquito-beast-king",
-    "plot.xianni-1237-mosquito-king-approach"
+    "plot.xianni-1237-mosquito-king-approach",
+    "plot.xianni-1238-new-mosquito-king"
   ],
-  "updatedAt": "2026-08-25T02:56:56.973Z"
+  "updatedAt": "2026-08-25T02:58:45.239Z"
 }

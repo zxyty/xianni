@@ -5,15 +5,16 @@
   "aliases": [
     "紫色的蚊王",
     "百丈紫色蚊兽",
-    "Purple Mosquito King"
+    "Purple Mosquito King",
+    "老蚊王"
   ],
   "summary": "自被掰开的山脉裂缝紫雾中现身的百丈紫色蚊兽，气息带蚊兽威压，一出现全场蚊兽噤声。",
   "attributes": {
     "种族": "蚊兽",
-    "等级": "凌驾赤红/蓝色/白色蚊兽之上",
-    "能力": "蚊兽威压令群蚊屈从、气息沧桑",
-    "栖息地": "山脉内部（紫雾裂缝之中）",
-    "外形": "百丈大小，通体紫色，须发凌乱下垂，狰狞"
+    "等级": "凌驾赤红/蓝色/白色蚊兽之上、碎涅中期",
+    "能力": "蚊兽威压令群蚊屈从、气息沧桑、蚊王威压嘶鸣号令群蚊、紫色雾气散开收缩以急速疗伤",
+    "栖息地": "山脉内部（紫雾裂缝之中）、风仙界蚊兽山脉",
+    "外形": "百丈大小，通体紫色，须发凌乱下垂，狰狞、紫色，须发下垂可竖起，口器巨大"
   },
   "observations": {
     "种族": [
@@ -28,6 +29,11 @@
         "value": "凌驾赤红/蓝色/白色蚊兽之上",
         "docId": "plot.xianni-1237-mosquito-king-approach",
         "seq": 1155
+      },
+      {
+        "value": "碎涅中期",
+        "docId": "plot.xianni-1238-new-mosquito-king",
+        "seq": 1155
       }
     ],
     "能力": [
@@ -40,6 +46,16 @@
         "value": "气息沧桑",
         "docId": "plot.xianni-1237-mosquito-king-approach",
         "seq": 1155
+      },
+      {
+        "value": "蚊王威压嘶鸣号令群蚊",
+        "docId": "plot.xianni-1238-new-mosquito-king",
+        "seq": 1155
+      },
+      {
+        "value": "紫色雾气散开收缩以急速疗伤",
+        "docId": "plot.xianni-1238-new-mosquito-king",
+        "seq": 1155
       }
     ],
     "栖息地": [
@@ -47,12 +63,22 @@
         "value": "山脉内部（紫雾裂缝之中）",
         "docId": "plot.xianni-1237-mosquito-king-approach",
         "seq": 1155
+      },
+      {
+        "value": "风仙界蚊兽山脉",
+        "docId": "plot.xianni-1238-new-mosquito-king",
+        "seq": 1155
       }
     ],
     "外形": [
       {
         "value": "百丈大小，通体紫色，须发凌乱下垂，狰狞",
         "docId": "plot.xianni-1237-mosquito-king-approach",
+        "seq": 1155
+      },
+      {
+        "value": "紫色，须发下垂可竖起，口器巨大",
+        "docId": "plot.xianni-1238-new-mosquito-king",
         "seq": 1155
       }
     ]
@@ -93,7 +119,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1237-mosquito-king-approach"
+    "plot.xianni-1237-mosquito-king-approach",
+    "plot.xianni-1238-new-mosquito-king"
   ],
-  "updatedAt": "2026-08-25T02:56:56.972Z"
+  "updatedAt": "2026-08-25T02:58:45.238Z"
 }

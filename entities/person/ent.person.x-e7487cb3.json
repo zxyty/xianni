@@ -9,10 +9,10 @@
   "summary": "寂魂道长老，碎涅中期、长老中末流；潜伏三月欲擒蚊兽王以验证猜测，因两只白色蚊兽到来被困半个月。",
   "attributes": {
     "性别": "男",
-    "身份": "寂魂道长老",
+    "身份": "寂魂道长老、旁观者",
     "小阶段": "碎涅中期",
     "阵营": "寂魂道",
-    "性格": "谨慎、贪婪、功利心重",
+    "性格": "谨慎、贪婪、功利心重、隐忍窥伺、见宝心动",
     "标志特征": "收敛全身气息藏身山石后，半月一动不敢动"
   },
   "observations": {
@@ -28,6 +28,12 @@
         "value": "寂魂道长老",
         "docId": "plot.xianni-1237-mosquito-king-approach",
         "seq": 1155
+      },
+      {
+        "value": "旁观者",
+        "docId": "plot.xianni-1238-new-mosquito-king",
+        "seq": 1155,
+        "note": "藏于山石后目睹王林全程动手"
       }
     ],
     "小阶段": [
@@ -58,6 +64,11 @@
       {
         "value": "功利心重",
         "docId": "plot.xianni-1237-mosquito-king-approach",
+        "seq": 1155
+      },
+      {
+        "value": "隐忍窥伺、见宝心动",
+        "docId": "plot.xianni-1238-new-mosquito-king",
         "seq": 1155
       }
     ],
@@ -111,7 +122,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1237-mosquito-king-approach"
+    "plot.xianni-1237-mosquito-king-approach",
+    "plot.xianni-1238-new-mosquito-king"
   ],
-  "updatedAt": "2026-08-25T02:56:56.970Z"
+  "updatedAt": "2026-08-25T02:58:45.242Z"
 }
