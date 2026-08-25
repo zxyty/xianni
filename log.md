@@ -672,3 +672,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T07:14:21.722Z** `ingest` plot.xianni-1287-sui-qian-wan-ren-wu-wang-yi — 第1287章 虽千万人吾往矣！——王林闻李倩梅十年付出，破阵夺传送阵北上救人 · kind=plot asOf=2026-08-25 entities=29 relations=38 src=01202-01206.p1.md
 - **2026-08-25T07:16:45.707Z** `ingest` plot.xianni-ch1288-ten-year-old-prestige-xianyin-gate — 第1288章 十年前的威名——王林（化名吕子浩）强破仙音门大阵，索元晶传送返无极宗 · kind=plot asOf=2026-08-25 entities=26 relations=39 src=01202-01206.p2.md
 - **2026-08-25T07:19:37.425Z** `ingest` plot.xianni-1289-strength-is-supreme-wang-lin-seizes-wuji-sect-ancient-god-sword-peak — 第1289章 强者为尊！——王林强夺无极宗山门古神之剑山峰 · kind=plot asOf=2026-08-25 entities=26 relations=40 src=01202-01206.p3.md
+- **2026-08-25T07:21:34.259Z** `ingest` plot.xianni-ch1290-one-sentence-blood-sword-six-star-ancient-god — 第1290章 一句话！——王林踏碎无极宗山峰，得血剑一斩六长老 · kind=plot asOf=2026-08-25 entities=19 relations=28 src=01202-01206.p4.md
