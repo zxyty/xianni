@@ -1,31 +1,27 @@
 {
-  "id": "ent.beast.x-5127366f",
-  "type": "beast",
-  "name": "蜥兽",
+  "id": "ent.place.x-7830f253",
+  "type": "place",
+  "name": "千里巨龟背",
   "aliases": [
-    "巨大的蜥兽"
+    "巨龟背",
+    "龟甲祭坛"
   ],
-  "summary": "太荒上人盘膝所坐的坐骑。",
+  "summary": "三支苍香立于其上，使千里之龟形同一座祭坛，为少帝试炼的施行之地。",
   "attributes": {
-    "主人": "太荒上人、兽皮老者",
-    "外形": "巨大蜥兽，鼻喷白气、双眼阴冷"
+    "类型": "试炼台/祭坛",
+    "上级区域": "大帝星赛场"
   },
   "observations": {
-    "主人": [
+    "类型": [
       {
-        "value": "太荒上人",
-        "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
-        "seq": 1312
-      },
-      {
-        "value": "兽皮老者",
+        "value": "试炼台/祭坛",
         "docId": "plot.xianni-ch1405-fusheng-ruomeng-diandluo-shaodi-trial-first-incense",
         "seq": 1312
       }
     ],
-    "外形": [
+    "上级区域": [
       {
-        "value": "巨大蜥兽，鼻喷白气、双眼阴冷",
+        "value": "大帝星赛场",
         "docId": "plot.xianni-ch1405-fusheng-ruomeng-diandluo-shaodi-trial-first-incense",
         "seq": 1312
       }
@@ -33,13 +29,13 @@
   },
   "firstSeq": 1312,
   "attrProvenance": {
-    "主人": {
+    "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
+      "docId": "plot.xianni-ch1405-fusheng-ruomeng-diandluo-shaodi-trial-first-incense",
       "dated": false,
       "seq": 1312
     },
-    "外形": {
+    "上级区域": {
       "asOf": null,
       "docId": "plot.xianni-ch1405-fusheng-ruomeng-diandluo-shaodi-trial-first-incense",
       "dated": false,
@@ -49,8 +45,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
     "plot.xianni-ch1405-fusheng-ruomeng-diandluo-shaodi-trial-first-incense"
   ],
-  "updatedAt": "2026-08-25T16:43:41.543Z"
+  "updatedAt": "2026-08-25T16:43:41.550Z"
 }

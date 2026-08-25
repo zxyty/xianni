@@ -777,3 +777,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T16:36:18.905Z** `ingest` plot.xianni-1402-zhuque-laozu-second-gen — 仙逆 第1402章 朱雀老祖——王林五道本源现世，二代朱雀少帝授秘术 · kind=plot asOf=2026-08-25 entities=25 relations=35 src=01312-01316.p1.md
 - **2026-08-25T16:38:47.356Z** `ingest` plot.xianni-1403-shattering-force-dao-of-power — 第1403章 踏入力之证道——老朱雀传王林反震崩溃秘术 · kind=plot asOf=2026-08-25 entities=23 relations=42 src=01312-01316.p2.md
 - **2026-08-25T16:41:14.115Z** `ingest` plot.xianni-ch1404-old-zhuque-protects-wang-lin — 第1404章 护短的老朱雀——老朱雀三掌扇司墨子，宣告少帝试炼开启 · kind=plot asOf=2026-08-25 entities=23 relations=29 src=01312-01316.p3.md
+- **2026-08-25T16:43:41.976Z** `ingest` plot.xianni-ch1405-fusheng-ruomeng-diandluo-shaodi-trial-first-incense — 第1405章 浮生若梦：颠落之地少帝试炼开启，王林魂入第一香人界幻境 · kind=plot asOf=2026-08-25 entities=25 relations=31 src=01312-01316.p4.md

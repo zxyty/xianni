@@ -10,10 +10,11 @@
   "summary": "当年与水道子、掌尊三人全力合击水道子之主的其中一人。",
   "attributes": {
     "身份": "当年围杀神宗旧主的三人之一",
-    "称号": "太古五尊之一",
+    "称号": "太古五尊之一、道尊",
     "外貌": "美貌翩翩少年",
     "标志特征": "手中吃着桃子、看不出修为痕迹",
-    "存殁": "在世"
+    "存殁": "在世",
+    "性格": "重利、谨慎"
   },
   "observations": {
     "身份": [
@@ -27,6 +28,11 @@
       {
         "value": "太古五尊之一",
         "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
+        "seq": 1312
+      },
+      {
+        "value": "道尊",
+        "docId": "plot.xianni-ch1405-fusheng-ruomeng-diandluo-shaodi-trial-first-incense",
         "seq": 1312
       }
     ],
@@ -49,6 +55,13 @@
       {
         "value": "在世",
         "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
+        "seq": 1312
+      }
+    ],
+    "性格": [
+      {
+        "value": "重利、谨慎",
+        "docId": "plot.xianni-ch1405-fusheng-ruomeng-diandluo-shaodi-trial-first-incense",
         "seq": 1312
       }
     ]
@@ -85,13 +98,20 @@
       "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
       "dated": false,
       "seq": 1312
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1405-fusheng-ruomeng-diandluo-shaodi-trial-first-incense",
+      "dated": false,
+      "seq": 1312
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1262-return-wuji-sect-ancient-god-qi-shui-daozi-plot",
-    "plot.xianni-ch1404-old-zhuque-protects-wang-lin"
+    "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
+    "plot.xianni-ch1405-fusheng-ruomeng-diandluo-shaodi-trial-first-incense"
   ],
-  "updatedAt": "2026-08-25T16:41:13.659Z"
+  "updatedAt": "2026-08-25T16:43:41.536Z"
 }
