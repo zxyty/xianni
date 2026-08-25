@@ -3,13 +3,14 @@
   "type": "artifact",
   "name": "青色长剑",
   "aliases": [
-    "青色虚剑"
+    "青色虚剑",
+    "第一把天劫之剑"
   ],
   "summary": "石剑爆开后自阁楼拔出的青色长剑，青芒笼罩星空，化青光冲向王林。",
   "attributes": {
     "外形": "青芒笼罩星空的长剑",
-    "来历": "由白玉阁楼上的石剑爆碎后现出",
-    "能力": "剑气无匹，削而不溃"
+    "来历": "由白玉阁楼上的石剑爆碎后现出、白玉阁楼雕像身后石剑爆开",
+    "能力": "剑气无匹，削而不溃、参与组成四剑彼岸漩涡"
   },
   "observations": {
     "外形": [
@@ -24,12 +25,22 @@
         "value": "由白玉阁楼上的石剑爆碎后现出",
         "docId": "plot.xianni-1302-zhi-shou-zhe-tian-tianjie",
         "seq": 1217
+      },
+      {
+        "value": "白玉阁楼雕像身后石剑爆开",
+        "docId": "plot.xianni-ch1303-feng-jie-da-zhen",
+        "seq": 1217
       }
     ],
     "能力": [
       {
         "value": "剑气无匹，削而不溃",
         "docId": "plot.xianni-1302-zhi-shou-zhe-tian-tianjie",
+        "seq": 1217
+      },
+      {
+        "value": "参与组成四剑彼岸漩涡",
+        "docId": "plot.xianni-ch1303-feng-jie-da-zhen",
         "seq": 1217
       }
     ]
@@ -58,7 +69,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1302-zhi-shou-zhe-tian-tianjie"
+    "plot.xianni-1302-zhi-shou-zhe-tian-tianjie",
+    "plot.xianni-ch1303-feng-jie-da-zhen"
   ],
-  "updatedAt": "2026-08-25T07:59:54.810Z"
+  "updatedAt": "2026-08-25T08:02:35.344Z"
 }

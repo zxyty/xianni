@@ -7,12 +7,13 @@
     "星海星雾",
     "紫色大陆附近星雾",
     "星空星雾",
-    "star mist"
+    "star mist",
+    "星雾之地"
   ],
   "summary": "云海星域星海之中弥漫的雾，其内是属于灵兽的世界，修士入内狩猎以获本命灵兽。",
   "attributes": {
-    "类型": "星空雾气",
-    "上级区域": "云海星域",
+    "类型": "凶兽栖息星雾",
+    "上级区域": "九阶星域",
     "危险度": "高",
     "特产": "星虎兽（已灭绝）"
   },
@@ -37,6 +38,11 @@
         "value": "星空雾气",
         "docId": "plot.xianni-1159-bone-flesh-tribulation-beast-slaughter",
         "seq": 1077
+      },
+      {
+        "value": "凶兽栖息星雾",
+        "docId": "plot.xianni-ch1303-feng-jie-da-zhen",
+        "seq": 1217
       }
     ],
     "上级区域": [
@@ -44,6 +50,11 @@
         "value": "云海星域",
         "docId": "plot.xianni-ch1141-lv-yanfei",
         "seq": 1058
+      },
+      {
+        "value": "九阶星域",
+        "docId": "plot.xianni-ch1303-feng-jie-da-zhen",
+        "seq": 1217
       }
     ],
     "危险度": [
@@ -70,15 +81,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1159-bone-flesh-tribulation-beast-slaughter",
+      "docId": "plot.xianni-ch1303-feng-jie-da-zhen",
       "dated": false,
-      "seq": 1077
+      "seq": 1217
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch1141-lv-yanfei",
+      "docId": "plot.xianni-ch1303-feng-jie-da-zhen",
       "dated": false,
-      "seq": 1058
+      "seq": 1217
     },
     "危险度": {
       "asOf": null,
@@ -99,7 +110,8 @@
     "plot.xianni-ch1141-lv-yanfei",
     "plot.xianni-1146-tianni-second-perfection-hope",
     "plot.xianni-1158-chong-ning-shen-gu",
-    "plot.xianni-1159-bone-flesh-tribulation-beast-slaughter"
+    "plot.xianni-1159-bone-flesh-tribulation-beast-slaughter",
+    "plot.xianni-ch1303-feng-jie-da-zhen"
   ],
-  "updatedAt": "2026-08-24T19:43:24.697Z"
+  "updatedAt": "2026-08-25T08:02:35.362Z"
 }

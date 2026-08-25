@@ -685,3 +685,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T07:54:54.556Z** `ingest` plot.xianni-ch1300-ancient-god-altar — 《仙逆》第1300章 古神祭坛：王林诛紫血、依月分身结盟 · kind=plot asOf=2026-08-25 entities=26 relations=35 src=01212-01216.p4.md
 - **2026-08-25T07:57:07.485Z** `ingest` plot.xianni-ch1301-wuliang-tribulation-descends — 第1301章 天劫来临：九阶星域上空无量劫云与白玉阁楼 · kind=plot asOf=2026-08-25 entities=16 relations=25 src=01212-01216.p5.md
 - **2026-08-25T07:59:55.120Z** `ingest` plot.xianni-1302-zhi-shou-zhe-tian-tianjie — 《仙逆》第1302章 只手遮天：王林出裂缝硬撼九阶星域天劫 · kind=plot asOf=2026-08-25 entities=30 relations=38 src=01217-01221.p1.md
+- **2026-08-25T08:02:35.693Z** `ingest` plot.xianni-ch1303-feng-jie-da-zhen — 仙逆 第1303章 封界大阵：四剑彼岸召唤与王林借天劫破界 · kind=plot asOf=2026-08-25 entities=25 relations=40 src=01217-01221.p2.md
