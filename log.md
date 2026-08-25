@@ -729,3 +729,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T12:01:54.473Z** `ingest` plot.xianni-1347-shanlei-war-1 — 《仙逆》第1347章 闪雷之战！（一）——王林踏雷破圣地，扬言收不灭天雷灭闪雷族 · kind=plot asOf=2026-08-25 entities=25 relations=42 src=01260-01264.p3.md
 - **2026-08-25T12:04:08.328Z** `ingest` plot.xianni-ch1348-shanlei-war-2-wang-lin-vs-elder — 《仙逆》第1348章 闪雷之战（二）：王林元神弃于非之身，引闪雷族大长老出圣地决战 · kind=plot asOf=2026-08-25 entities=14 relations=23 src=01260-01264.p4.md
 - **2026-08-25T12:05:55.459Z** `ingest` plot.xianni-ch1349-shanlei-war-3-lei-quan-vs-lei-sha-mirror — 第1349章 闪雷之战（三）：雷拳破雷杀镜，大长老撕族印展天人第四衰 · kind=plot asOf=2026-08-25 entities=17 relations=22 src=01260-01264.p5.md
+- **2026-08-25T12:07:53.337Z** `ingest` plot.xianni-1350-shanlei-war-4-julei-seal-duel — 第1350章 闪雷之战（四）：聚雷印对轰与光影盾反射 · kind=plot asOf=2026-08-25 entities=20 relations=24 src=01265-01269.p1.md
