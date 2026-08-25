@@ -5,14 +5,15 @@
   "aliases": [
     "暗蝎一族",
     "Dark Scorpion Clan",
-    "蝎族"
+    "蝎族",
+    "暗蝎"
   ],
   "summary": "把持颠落之地此修真星傀儡交易的霸道种族，族人眉心有蝎子族印，供奉巨蝎雕像并借其修炼，价格远高于主星，此星无人敢惹。",
   "attributes": {
-    "特性": "眉心蝎子族印、把持傀儡交易、供奉巨蝎雕像并吸收其力、喜居地底裂缝阴暗处、族印蝎尾数似示地位、眉心四尾蝎族印，族印可放出百丈四尾蝎与傀儡；受太古族盟之誓约束、小族、落生会属族",
+    "特性": "眉心蝎子族印、把持傀儡交易、供奉巨蝎雕像并吸收其力、喜居地底裂缝阴暗处、族印蝎尾数似示地位、眉心四尾蝎族印，族印可放出百丈四尾蝎与傀儡；受太古族盟之誓约束、小族、落生会属族、传说中有万古蝎尸、族小势弱",
     "聚居地": "修真星西方废弃城池中心的大殿及其地下高塔、颠落之地废弃城池地底宝塔、颠落之地一颗废弃修真星、暗蝎族修真星",
     "代表人物": "暗蝎族少主、暗蝎族中年男子、九尾袍纹黑袍老者、暗蝎族老者、暗蝎族老者（蝎长老）、暗蝎族族长",
-    "阵营": "王林麾下"
+    "阵营": "臣服王林"
   },
   "observations": {
     "特性": [
@@ -50,6 +51,16 @@
         "value": "小族、落生会属族",
         "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
         "seq": 1288
+      },
+      {
+        "value": "传说中有万古蝎尸",
+        "docId": "character.xianni-1383-tanlang-origin",
+        "seq": 1297
+      },
+      {
+        "value": "族小势弱",
+        "docId": "character.xianni-1383-tanlang-origin",
+        "seq": 1297
       }
     ],
     "聚居地": [
@@ -112,6 +123,12 @@
         "docId": "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
         "seq": 1288,
         "note": "第1373章立太古族盟之誓归顺"
+      },
+      {
+        "value": "臣服王林",
+        "docId": "character.xianni-1383-tanlang-origin",
+        "seq": 1297,
+        "note": "因伤王林而全族为奴"
       }
     ]
   },
@@ -137,10 +154,10 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
+      "docId": "character.xianni-1383-tanlang-origin",
       "dated": false,
-      "seq": 1288,
-      "note": "第1373章立太古族盟之誓归顺"
+      "seq": 1297,
+      "note": "因伤王林而全族为奴"
     }
   },
   "contested": false,
@@ -151,7 +168,8 @@
     "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
     "plot.xianni-ch1375-first-encounter-fire-sparrow",
     "plot.xianni-1377-longbeng-dan-refine-challenge",
-    "plot.xianni-1382-gu-ren-longjia-clan-poison-pill"
+    "plot.xianni-1382-gu-ren-longjia-clan-poison-pill",
+    "character.xianni-1383-tanlang-origin"
   ],
-  "updatedAt": "2026-08-25T14:18:50.993Z"
+  "updatedAt": "2026-08-25T14:36:50.029Z"
 }

@@ -11,8 +11,8 @@
   "summary": "玄道宗内王林闭关化神所在的山崖洞府；石壁封洞，出关时轰然打开。",
   "attributes": {
     "类型": "洞府/圣地",
-    "所属势力": "炼魂峰",
-    "方位": "偏僻之地，近灵脉",
+    "所属势力": "王林",
+    "方位": "暗蝎族修真星上；暗蝎族新聚集地在其外围",
     "特产": "奇花异草、养金色小鱼的池水、错落厅阁",
     "守护": "洞府禁制与幻化巨手、洞府之灵、仙卫傀儡、凌天候的两道剑气、雷兽、王林所布禁制",
     "危险度": "高（多重未解禁制）",
@@ -52,6 +52,11 @@
         "value": "炼魂峰",
         "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
         "seq": 363
+      },
+      {
+        "value": "王林",
+        "docId": "character.xianni-1383-tanlang-origin",
+        "seq": 1297
       }
     ],
     "方位": [
@@ -59,6 +64,11 @@
         "value": "偏僻之地，近灵脉",
         "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
         "seq": 363
+      },
+      {
+        "value": "暗蝎族修真星上；暗蝎族新聚集地在其外围",
+        "docId": "character.xianni-1383-tanlang-origin",
+        "seq": 1297
       }
     ],
     "特产": [
@@ -142,15 +152,15 @@
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+      "docId": "character.xianni-1383-tanlang-origin",
       "dated": false,
-      "seq": 363
+      "seq": 1297
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch385-golden-soul-banner-ancient-soul-restriction",
+      "docId": "character.xianni-1383-tanlang-origin",
       "dated": false,
-      "seq": 363
+      "seq": 1297
     },
     "特产": {
       "asOf": null,
@@ -191,7 +201,8 @@
     "plot.xianni-ch618-620-scroll-woman-luotian-star-region-seal",
     "plot.xianni-ch705-second-immortal-guard-leidaozi-branded",
     "plot.xianni-ch844-devour-yao-bingyun-yuanli-fengxian",
-    "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing"
+    "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
+    "character.xianni-1383-tanlang-origin"
   ],
-  "updatedAt": "2026-08-25T13:44:40.880Z"
+  "updatedAt": "2026-08-25T14:36:50.031Z"
 }

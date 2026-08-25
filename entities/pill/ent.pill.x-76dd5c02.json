@@ -12,7 +12,8 @@
   "attributes": {
     "功效": "爆开伤敌、单粒威力约等于窥涅修士一击、崩溃产生剧烈冲击伤敌",
     "主料": "四种气息交错平衡（平衡一破即爆）",
-    "副作用": "非吞服之丹，服用无益"
+    "副作用": "非吞服之丹，服用无益",
+    "炼制者": "龙甲族"
   },
   "observations": {
     "功效": [
@@ -45,6 +46,14 @@
         "docId": "plot.xianni-1377-longbeng-dan-refine-challenge",
         "seq": 1288
       }
+    ],
+    "炼制者": [
+      {
+        "value": "龙甲族",
+        "docId": "character.xianni-1383-tanlang-origin",
+        "seq": 1297,
+        "note": "为该族积蓄之物"
+      }
     ]
   },
   "firstSeq": 1288,
@@ -66,6 +75,13 @@
       "docId": "plot.xianni-1377-longbeng-dan-refine-challenge",
       "dated": false,
       "seq": 1288
+    },
+    "炼制者": {
+      "asOf": null,
+      "docId": "character.xianni-1383-tanlang-origin",
+      "dated": false,
+      "seq": 1297,
+      "note": "为该族积蓄之物"
     }
   },
   "contested": false,
@@ -73,7 +89,8 @@
   "docs": [
     "plot.xianni-1377-longbeng-dan-refine-challenge",
     "plot.xianni-1381-shao-di",
-    "plot.xianni-1382-gu-ren-longjia-clan-poison-pill"
+    "plot.xianni-1382-gu-ren-longjia-clan-poison-pill",
+    "character.xianni-1383-tanlang-origin"
   ],
-  "updatedAt": "2026-08-25T14:18:50.955Z"
+  "updatedAt": "2026-08-25T14:36:49.990Z"
 }

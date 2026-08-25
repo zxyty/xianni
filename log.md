@@ -759,3 +759,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T14:09:53.863Z** `ingest` plot.xianni-1380-four-breaths-wang-lin-vs-simozi — 第1380章 四息！——王林五息之约破司墨子分身 · kind=plot asOf=2026-08-25 entities=20 relations=23 src=01292-01296.p3.md
 - **2026-08-25T14:12:03.880Z** `ingest` plot.xianni-1381-shao-di — 第1381章 少帝——司墨子分身身死，王林被尊为少帝 · kind=plot asOf=2026-08-25 entities=27 relations=38 src=01292-01296.p4.md
 - **2026-08-25T14:18:51.405Z** `ingest` plot.xianni-1382-gu-ren-longjia-clan-poison-pill — 第1382章 故人：龙甲族族长服毒丹自尽，王林受封少帝之威 · kind=plot asOf=2026-08-25 entities=36 relations=58 src=01292-01296.p5.md
+- **2026-08-25T14:36:50.408Z** `ingest` character.xianni-1383-tanlang-origin — 第1383章 贪狼：颠落之地的宝多修士与其身负臭气之恨 · kind=character asOf=2026-08-25 entities=76 relations=125 src=01297-01299.p1.md

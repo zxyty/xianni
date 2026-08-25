@@ -7,15 +7,17 @@
     "第九长老",
     "龙甲族族长（第九长老）",
     "龙甲族的族长",
-    "龙甲族老族长"
+    "龙甲族老族长",
+    "旧族长",
+    "被惩罚的龙甲族族长"
   ],
   "summary": "落生会第九长老，龙甲族族长，与司墨子当年有旧；司墨子欲借其龙甲族身份在颠落之地行事。",
   "attributes": {
     "种族": "龙甲族",
-    "身份": "落生会第九长老、龙甲族族长",
+    "身份": "落生会第九长老、龙甲族族长、龙甲族前任族长",
     "性格": "阴沉、傲然",
     "阵营": "与王林有旧怨（王林曾寻龙甲族帮助）",
-    "结局": "被剥去第九长老资格，获赐毒命丹一枚令其即刻服下、第1382章化作黑色火球，半点不存",
+    "结局": "被剥去第九长老资格，获赐毒命丹一枚令其即刻服下、第1382章化作黑色火球，半点不存、受颠落大帝使者惩罚",
     "存殁": "死亡",
     "死因": "吞服大帝所赐毒丹，被丹中黑色妖异火焰焚尽元神与血肉"
   },
@@ -38,6 +40,11 @@
         "value": "龙甲族族长",
         "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
         "seq": 1288
+      },
+      {
+        "value": "龙甲族前任族长",
+        "docId": "character.xianni-1383-tanlang-origin",
+        "seq": 1297
       }
     ],
     "性格": [
@@ -65,6 +72,12 @@
         "value": "第1382章化作黑色火球，半点不存",
         "docId": "plot.xianni-1382-gu-ren-longjia-clan-poison-pill",
         "seq": 1292
+      },
+      {
+        "value": "受颠落大帝使者惩罚",
+        "docId": "character.xianni-1383-tanlang-origin",
+        "seq": 1297,
+        "note": "王林视其为大帝施威之举"
       }
     ],
     "存殁": [
@@ -138,7 +151,8 @@
     "plot.xianni-1379-emperor-arrives-siwang-po-tian-dao-duel",
     "plot.xianni-1380-four-breaths-wang-lin-vs-simozi",
     "plot.xianni-1381-shao-di",
-    "plot.xianni-1382-gu-ren-longjia-clan-poison-pill"
+    "plot.xianni-1382-gu-ren-longjia-clan-poison-pill",
+    "character.xianni-1383-tanlang-origin"
   ],
-  "updatedAt": "2026-08-25T14:18:50.941Z"
+  "updatedAt": "2026-08-25T14:36:49.961Z"
 }

@@ -9,8 +9,9 @@
   "summary": "被禁锢在暗蝎族大殿的干瘦老者，目睹王林灭城灭人，惊觉其即钟大洪之主。",
   "attributes": {
     "外貌": "干瘦老者",
-    "身份": "被禁锢者",
-    "阵营": "依附王林一方"
+    "身份": "钟大洪的随从",
+    "阵营": "依附王林一方",
+    "存殁": "重伤昏迷"
   },
   "observations": {
     "外貌": [
@@ -26,6 +27,11 @@
         "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
         "seq": 1285,
         "note": "本片段被禁锢在暗蝎族一方，后被钟大洪扶住"
+      },
+      {
+        "value": "钟大洪的随从",
+        "docId": "character.xianni-1383-tanlang-origin",
+        "seq": 1297
       }
     ],
     "阵营": [
@@ -33,6 +39,14 @@
         "value": "依附王林一方",
         "docId": "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
         "seq": 1288
+      }
+    ],
+    "存殁": [
+      {
+        "value": "重伤昏迷",
+        "docId": "character.xianni-1383-tanlang-origin",
+        "seq": 1297,
+        "note": "被抛飞不见踪影，生死未明"
       }
     ]
   },
@@ -46,23 +60,30 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
+      "docId": "character.xianni-1383-tanlang-origin",
       "dated": false,
-      "seq": 1285,
-      "note": "本片段被禁锢在暗蝎族一方，后被钟大洪扶住"
+      "seq": 1297
     },
     "阵营": {
       "asOf": null,
       "docId": "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
       "dated": false,
       "seq": 1288
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "character.xianni-1383-tanlang-origin",
+      "dated": false,
+      "seq": 1297,
+      "note": "被抛飞不见踪影，生死未明"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
-    "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing"
+    "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
+    "character.xianni-1383-tanlang-origin"
   ],
-  "updatedAt": "2026-08-25T13:44:40.869Z"
+  "updatedAt": "2026-08-25T14:36:50.025Z"
 }

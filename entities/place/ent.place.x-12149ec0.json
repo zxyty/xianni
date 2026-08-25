@@ -4,21 +4,25 @@
   "name": "暗蝎族修真星",
   "aliases": [
     "蝎族修真星",
-    "暗蝎族的修真星"
+    "暗蝎族的修真星",
+    "暗蝎族所居修真星",
+    "此星"
   ],
   "summary": "暗蝎族所在修真星，灵力与生机远逊于龙甲族主星；王林一行由此出发。",
   "attributes": {
     "所属势力": "暗蝎族",
     "类型": "修真星",
     "所属界面": "颠落星域",
-    "特产": "万古蝎尸（疑）"
+    "特产": "万古蝎尸（疑）",
+    "守护": "罡风层"
   },
   "observations": {
     "所属势力": [
       {
         "value": "暗蝎族",
         "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
-        "seq": 1288
+        "seq": 1288,
+        "note": "本章被云遁族征用三月"
       }
     ],
     "类型": [
@@ -46,6 +50,13 @@
         "docId": "plot.xianni-1382-gu-ren-longjia-clan-poison-pill",
         "seq": 1292
       }
+    ],
+    "守护": [
+      {
+        "value": "罡风层",
+        "docId": "character.xianni-1383-tanlang-origin",
+        "seq": 1297
+      }
     ]
   },
   "firstSeq": 1288,
@@ -54,7 +65,8 @@
       "asOf": null,
       "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
       "dated": false,
-      "seq": 1288
+      "seq": 1288,
+      "note": "本章被云遁族征用三月"
     },
     "类型": {
       "asOf": null,
@@ -73,13 +85,20 @@
       "docId": "plot.xianni-1382-gu-ren-longjia-clan-poison-pill",
       "dated": false,
       "seq": 1292
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "character.xianni-1383-tanlang-origin",
+      "dated": false,
+      "seq": 1297
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1375-first-encounter-fire-sparrow",
-    "plot.xianni-1382-gu-ren-longjia-clan-poison-pill"
+    "plot.xianni-1382-gu-ren-longjia-clan-poison-pill",
+    "character.xianni-1383-tanlang-origin"
   ],
-  "updatedAt": "2026-08-25T14:18:50.989Z"
+  "updatedAt": "2026-08-25T14:36:50.030Z"
 }

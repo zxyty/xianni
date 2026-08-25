@@ -9,8 +9,9 @@
   ],
   "summary": "贪狼曾寻而未得的真正宝物，其投印留在屏风之上；王林当年便见过该屏风并记得此事。",
   "attributes": {
-    "来历": "下落不明，贪狼未曾找到",
-    "外形": "画轴（多幅）"
+    "来历": "原为贪狼所有",
+    "外形": "画轴（多幅）",
+    "持有者": "王林"
   },
   "observations": {
     "来历": [
@@ -18,6 +19,11 @@
         "value": "下落不明，贪狼未曾找到",
         "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
         "seq": 674
+      },
+      {
+        "value": "原为贪狼所有",
+        "docId": "character.xianni-1383-tanlang-origin",
+        "seq": 1297
       }
     ],
     "外形": [
@@ -26,28 +32,44 @@
         "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
         "seq": 953
       }
+    ],
+    "持有者": [
+      {
+        "value": "王林",
+        "docId": "character.xianni-1383-tanlang-origin",
+        "seq": 1297,
+        "note": "自贪狼处夺走"
+      }
     ]
   },
   "firstSeq": 674,
   "attrProvenance": {
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-674-678-wangyue-awaken-bone-heist",
+      "docId": "character.xianni-1383-tanlang-origin",
       "dated": false,
-      "seq": 674
+      "seq": 1297
     },
     "外形": {
       "asOf": null,
       "docId": "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
       "dated": false,
       "seq": 953
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "character.xianni-1383-tanlang-origin",
+      "dated": false,
+      "seq": 1297,
+      "note": "自贪狼处夺走"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-674-678-wangyue-awaken-bone-heist",
-    "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin"
+    "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
+    "character.xianni-1383-tanlang-origin"
   ],
-  "updatedAt": "2026-08-24T07:48:22.343Z"
+  "updatedAt": "2026-08-25T14:36:50.039Z"
 }

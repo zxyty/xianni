@@ -2,11 +2,15 @@
   "id": "ent.material.x-612fda98",
   "type": "material",
   "name": "万古蝎尸",
-  "aliases": [],
+  "aliases": [
+    "蝎尸"
+  ],
   "summary": "贪狼所求之物，据查最有可能位于暗蝎族的修真星上。",
   "attributes": {
-    "产地": "暗蝎族修真星（推测所在）",
-    "稀有度": "极稀有"
+    "产地": "暗蝎族",
+    "稀有度": "传说级",
+    "类型": "尸体/材料",
+    "用途": "配合云遁族之宝驱散望月臭气"
   },
   "observations": {
     "产地": [
@@ -14,6 +18,11 @@
         "value": "暗蝎族修真星（推测所在）",
         "docId": "plot.xianni-1382-gu-ren-longjia-clan-poison-pill",
         "seq": 1292
+      },
+      {
+        "value": "暗蝎族",
+        "docId": "character.xianni-1383-tanlang-origin",
+        "seq": 1297
       }
     ],
     "稀有度": [
@@ -21,6 +30,25 @@
         "value": "极稀有",
         "docId": "plot.xianni-1382-gu-ren-longjia-clan-poison-pill",
         "seq": 1292
+      },
+      {
+        "value": "传说级",
+        "docId": "character.xianni-1383-tanlang-origin",
+        "seq": 1297
+      }
+    ],
+    "类型": [
+      {
+        "value": "尸体/材料",
+        "docId": "character.xianni-1383-tanlang-origin",
+        "seq": 1297
+      }
+    ],
+    "用途": [
+      {
+        "value": "配合云遁族之宝驱散望月臭气",
+        "docId": "character.xianni-1383-tanlang-origin",
+        "seq": 1297
       }
     ]
   },
@@ -28,21 +56,34 @@
   "attrProvenance": {
     "产地": {
       "asOf": null,
-      "docId": "plot.xianni-1382-gu-ren-longjia-clan-poison-pill",
+      "docId": "character.xianni-1383-tanlang-origin",
       "dated": false,
-      "seq": 1292
+      "seq": 1297
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.xianni-1382-gu-ren-longjia-clan-poison-pill",
+      "docId": "character.xianni-1383-tanlang-origin",
       "dated": false,
-      "seq": 1292
+      "seq": 1297
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "character.xianni-1383-tanlang-origin",
+      "dated": false,
+      "seq": 1297
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "character.xianni-1383-tanlang-origin",
+      "dated": false,
+      "seq": 1297
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1382-gu-ren-longjia-clan-poison-pill"
+    "plot.xianni-1382-gu-ren-longjia-clan-poison-pill",
+    "character.xianni-1383-tanlang-origin"
   ],
-  "updatedAt": "2026-08-25T14:18:50.984Z"
+  "updatedAt": "2026-08-25T14:36:49.922Z"
 }
