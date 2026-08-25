@@ -2,13 +2,16 @@
   "id": "ent.spell.x-822f7594",
   "type": "spell",
   "name": "开太古雷界",
-  "aliases": [],
+  "aliases": [
+    "开太古雷界神通"
+  ],
   "summary": "闪雷族大长老的神通，撕开一个中心漆黑、四周游走闪电的巨大漩涡，如通往另一世界的黑洞，用以召唤太古雷龙魂魄。",
   "attributes": {
-    "类型": "召唤/开界类神通",
-    "威力": "无限接近第三步大能抽取香火之力",
+    "类型": "雷系神通",
+    "威力": "撕开千丈裂缝，引出数条太古雷龙",
     "消耗": "咬破舌尖喷出天人第五衰修为的精血为引",
-    "出处": "闪雷族"
+    "出处": "闪雷族大长老",
+    "适用境界": "需雷霆本源大成"
   },
   "observations": {
     "类型": [
@@ -16,6 +19,11 @@
         "value": "召唤/开界类神通",
         "docId": "plot.xianni-1351-shanlei-war-5-taigu-thunder-dragons",
         "seq": 1265
+      },
+      {
+        "value": "雷系神通",
+        "docId": "plot.xianni-ch1417-cultivation-is-a-palm",
+        "seq": 1326
       }
     ],
     "威力": [
@@ -23,6 +31,11 @@
         "value": "无限接近第三步大能抽取香火之力",
         "docId": "plot.xianni-1351-shanlei-war-5-taigu-thunder-dragons",
         "seq": 1265
+      },
+      {
+        "value": "撕开千丈裂缝，引出数条太古雷龙",
+        "docId": "plot.xianni-ch1417-cultivation-is-a-palm",
+        "seq": 1326
       }
     ],
     "消耗": [
@@ -37,6 +50,19 @@
         "value": "闪雷族",
         "docId": "plot.xianni-1351-shanlei-war-5-taigu-thunder-dragons",
         "seq": 1265
+      },
+      {
+        "value": "闪雷族大长老",
+        "docId": "plot.xianni-ch1417-cultivation-is-a-palm",
+        "seq": 1326
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "需雷霆本源大成",
+        "docId": "plot.xianni-ch1417-cultivation-is-a-palm",
+        "seq": 1326,
+        "note": "王林施展条件"
       }
     ]
   },
@@ -44,15 +70,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1351-shanlei-war-5-taigu-thunder-dragons",
+      "docId": "plot.xianni-ch1417-cultivation-is-a-palm",
       "dated": false,
-      "seq": 1265
+      "seq": 1326
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-1351-shanlei-war-5-taigu-thunder-dragons",
+      "docId": "plot.xianni-ch1417-cultivation-is-a-palm",
       "dated": false,
-      "seq": 1265
+      "seq": 1326
     },
     "消耗": {
       "asOf": null,
@@ -62,15 +88,23 @@
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-1351-shanlei-war-5-taigu-thunder-dragons",
+      "docId": "plot.xianni-ch1417-cultivation-is-a-palm",
       "dated": false,
-      "seq": 1265
+      "seq": 1326
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1417-cultivation-is-a-palm",
+      "dated": false,
+      "seq": 1326,
+      "note": "王林施展条件"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1351-shanlei-war-5-taigu-thunder-dragons"
+    "plot.xianni-1351-shanlei-war-5-taigu-thunder-dragons",
+    "plot.xianni-ch1417-cultivation-is-a-palm"
   ],
-  "updatedAt": "2026-08-25T12:10:16.690Z"
+  "updatedAt": "2026-08-25T17:22:53.160Z"
 }

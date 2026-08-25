@@ -8,7 +8,9 @@
   ],
   "summary": "当年算计二代朱雀司徒南、引来域外修士之人，为司徒南沉睡万载的祸首。",
   "attributes": {
-    "称号": "三代朱雀"
+    "称号": "三代朱雀",
+    "身份": "冒充朱雀族人者",
+    "标志特征": "搜魂亦无破绽"
   },
   "observations": {
     "称号": [
@@ -16,6 +18,21 @@
         "value": "三代朱雀",
         "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
         "seq": 401
+      }
+    ],
+    "身份": [
+      {
+        "value": "冒充朱雀族人者",
+        "docId": "plot.xianni-ch1417-cultivation-is-a-palm",
+        "seq": 1326,
+        "note": "实为被人造出之物"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "搜魂亦无破绽",
+        "docId": "plot.xianni-ch1417-cultivation-is-a-palm",
+        "seq": 1326
       }
     ]
   },
@@ -26,13 +43,27 @@
       "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
       "dated": false,
       "seq": 401
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1417-cultivation-is-a-palm",
+      "dated": false,
+      "seq": 1326,
+      "note": "实为被人造出之物"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1417-cultivation-is-a-palm",
+      "dated": false,
+      "seq": 1326
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
-    "plot.xianni-ch1412-nine-colors-into-one-fourth-zhuque-awakening"
+    "plot.xianni-ch1412-nine-colors-into-one-fourth-zhuque-awakening",
+    "plot.xianni-ch1417-cultivation-is-a-palm"
   ],
-  "updatedAt": "2026-08-25T17:09:34.100Z"
+  "updatedAt": "2026-08-25T17:22:53.149Z"
 }
