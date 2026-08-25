@@ -766,3 +766,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T15:56:40.361Z** `ingest` plot.xianni-1389-tanlang-tale-diedluo-forest-statue-and-release — 第1389章 贪狼自述颠落之地深处见闻·王林洗其元神放归·钟大洪威压云遁族 · kind=plot asOf=2026-08-25 entities=27 relations=34 src=01300-01302.p2.md
 - **2026-08-25T16:02:48.015Z** `ingest` plot.xianni-1391-pian-dao-blood-bait-and-xu-liguo — 第1391章 骗道：血液诱饵送归火雀族，王林启动第二步安排 · kind=plot asOf=2026-08-25 entities=26 relations=39 src=01300-01302.p3.md
 - **2026-08-25T16:10:35.397Z** `ingest` plot.xianni-1392-sixth-generation-zhuque — 第1392章 六代朱雀——刘金彪骗道第二境·王林放出第二个诱饵 · kind=plot asOf=2026-08-25 entities=37 relations=56 src=01303-01306.p1.md
+- **2026-08-25T16:17:32.221Z** `ingest` plot.xianni-1393-silver-clad-woman-sea-of-consciousness-seven-colored-seal-and-tanlan — 第1393章 银衣女子识海探秘：七彩封印身影与贪狼法宝的祭炼 · kind=plot asOf=2026-08-25 entities=35 relations=52 src=01303-01306.p2.md

@@ -4,13 +4,15 @@
   "name": "雾魔枪",
   "aliases": [
     "化雾长枪",
-    "黑色雾气长枪"
+    "黑色雾气长枪",
+    "雾魔抢"
   ],
   "summary": "由黑色雾气组成、在雾与枪间一息转化百次的长枪，其上带有数万年以上的古魔气息，本章被王林收走。",
   "attributes": {
     "持有者": "贪狼",
-    "外形": "黑色雾气组成的长枪，未彻底凝形，一息转化不下百次",
-    "来历": "古墓"
+    "外形": "虚实转换之枪",
+    "来历": "古魔之宝，得自贪狼",
+    "能力": "虚实之间转换、魔气弥漫"
   },
   "observations": {
     "持有者": [
@@ -31,6 +33,11 @@
         "value": "黑色雾气组成的长枪，未彻底凝形，一息转化不下百次",
         "docId": "plot.xianni-1386-shou-bao-wang-lin-duo-tan-lang-fabao",
         "seq": 1297
+      },
+      {
+        "value": "虚实转换之枪",
+        "docId": "plot.xianni-1393-silver-clad-woman-sea-of-consciousness-seven-colored-seal-and-tanlan",
+        "seq": 1303
       }
     ],
     "来历": [
@@ -43,6 +50,18 @@
         "value": "古墓",
         "docId": "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang",
         "seq": 1300
+      },
+      {
+        "value": "古魔之宝，得自贪狼",
+        "docId": "plot.xianni-1393-silver-clad-woman-sea-of-consciousness-seven-colored-seal-and-tanlan",
+        "seq": 1303
+      }
+    ],
+    "能力": [
+      {
+        "value": "虚实之间转换、魔气弥漫",
+        "docId": "plot.xianni-1393-silver-clad-woman-sea-of-consciousness-seven-colored-seal-and-tanlan",
+        "seq": 1303
       }
     ]
   },
@@ -56,22 +75,29 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-1386-shou-bao-wang-lin-duo-tan-lang-fabao",
+      "docId": "plot.xianni-1393-silver-clad-woman-sea-of-consciousness-seven-colored-seal-and-tanlan",
       "dated": false,
-      "seq": 1297
+      "seq": 1303
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang",
+      "docId": "plot.xianni-1393-silver-clad-woman-sea-of-consciousness-seven-colored-seal-and-tanlan",
       "dated": false,
-      "seq": 1300
+      "seq": 1303
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-1393-silver-clad-woman-sea-of-consciousness-seven-colored-seal-and-tanlan",
+      "dated": false,
+      "seq": 1303
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1386-shou-bao-wang-lin-duo-tan-lang-fabao",
-    "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang"
+    "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang",
+    "plot.xianni-1393-silver-clad-woman-sea-of-consciousness-seven-colored-seal-and-tanlan"
   ],
-  "updatedAt": "2026-08-25T15:54:04.964Z"
+  "updatedAt": "2026-08-25T16:17:31.800Z"
 }
