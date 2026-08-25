@@ -747,3 +747,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T12:43:26.588Z** `ingest` plot.xianni-1364-taigu-xingchen-ling — 第1364章 太古星辰令：长尊会全太古通缉，王林融合八条雷龙与不灭雷霆 · kind=plot asOf=2026-08-25 entities=28 relations=34 src=01280-01284.p1.md
 - **2026-08-25T12:46:13.930Z** `ingest` plot.xianni-1365-three-scenes-immortal-thunder-devoured — 《仙逆》第1365章 三幅画面——王林吞噬不灭雷霆，得雷之本源与残破记忆 · kind=plot asOf=2026-08-25 entities=24 relations=32 src=01280-01284.p2.md
 - **2026-08-25T12:53:00.410Z** `ingest` plot.xianni-1366-wucai-jijing-naduo-mystery — 第1366章 五彩极境：昆极鞭与纳多之谜，雷霆修为破碎涅后期 · kind=plot asOf=2026-08-25 entities=36 relations=51 src=01280-01284.p3.md
+- **2026-08-25T13:00:07.877Z** `ingest` plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin — 第1367章 司墨子！——王林炼化六道伴随之雷暴露行踪，飘渺族云落算出其所在 · kind=plot asOf=2026-08-25 entities=38 relations=53 src=01280-01284.p4.md

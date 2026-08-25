@@ -4,15 +4,18 @@
   "name": "司墨子",
   "aliases": [
     "司墨子大能",
-    "空涅初期男修"
+    "空涅初期男修",
+    "裂缝深渊中的中年男子"
   ],
   "summary": "太古星辰第三步大能，空涅初期，追杀拓森十年的三人之一；被星点漩涡罩下时念出囚天封道法诀，令拓森色变放弃击杀，事后与空灵老者收取白衣女子的六品道灵酬劳。",
   "attributes": {
     "性别": "男",
-    "外貌": "中年模样，双目闪烁幽光",
-    "小阶段": "空涅初期",
+    "外貌": "中年男子，神色阴沉",
+    "小阶段": "第三步大能（吸收六品道灵六成，隐有将破空涅初期之兆）",
     "身份": "太古星辰第三步大能",
-    "存殁": "存活"
+    "存殁": "存活",
+    "称号": "大能",
+    "性格": "阴沉、轻慢（称此事简单）"
   },
   "observations": {
     "性别": [
@@ -27,6 +30,11 @@
         "value": "中年模样，双目闪烁幽光",
         "docId": "plot.xianni-ch1311-fate-first-battle-tuosen-vs-wanglin-moon-tribe",
         "seq": 1222
+      },
+      {
+        "value": "中年男子，神色阴沉",
+        "docId": "plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin",
+        "seq": 1280
       }
     ],
     "小阶段": [
@@ -34,6 +42,11 @@
         "value": "空涅初期",
         "docId": "plot.xianni-ch1311-fate-first-battle-tuosen-vs-wanglin-moon-tribe",
         "seq": 1222
+      },
+      {
+        "value": "第三步大能（吸收六品道灵六成，隐有将破空涅初期之兆）",
+        "docId": "plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin",
+        "seq": 1280
       }
     ],
     "身份": [
@@ -49,6 +62,20 @@
         "docId": "plot.xianni-ch1311-fate-first-battle-tuosen-vs-wanglin-moon-tribe",
         "seq": 1222
       }
+    ],
+    "称号": [
+      {
+        "value": "大能",
+        "docId": "plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin",
+        "seq": 1280
+      }
+    ],
+    "性格": [
+      {
+        "value": "阴沉、轻慢（称此事简单）",
+        "docId": "plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin",
+        "seq": 1280
+      }
     ]
   },
   "firstSeq": 1222,
@@ -61,15 +88,15 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch1311-fate-first-battle-tuosen-vs-wanglin-moon-tribe",
+      "docId": "plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin",
       "dated": false,
-      "seq": 1222
+      "seq": 1280
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch1311-fate-first-battle-tuosen-vs-wanglin-moon-tribe",
+      "docId": "plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin",
       "dated": false,
-      "seq": 1222
+      "seq": 1280
     },
     "身份": {
       "asOf": null,
@@ -82,12 +109,25 @@
       "docId": "plot.xianni-ch1311-fate-first-battle-tuosen-vs-wanglin-moon-tribe",
       "dated": false,
       "seq": 1222
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin",
+      "dated": false,
+      "seq": 1280
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin",
+      "dated": false,
+      "seq": 1280
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1311-fate-first-battle-tuosen-vs-wanglin-moon-tribe"
+    "plot.xianni-ch1311-fate-first-battle-tuosen-vs-wanglin-moon-tribe",
+    "plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin"
   ],
-  "updatedAt": "2026-08-25T08:36:18.817Z"
+  "updatedAt": "2026-08-25T13:00:07.430Z"
 }

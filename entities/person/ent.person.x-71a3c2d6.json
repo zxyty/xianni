@@ -4,19 +4,28 @@
   "name": "云落",
   "aliases": [
     "大司云落",
-    "长尊会大司云落"
+    "长尊会大司云落",
+    "Yun Luo",
+    "飘渺族黑衣女子"
   ],
   "summary": "长尊会大司，以推衍天地星辰之术算出灭闪雷族者的画像与神识印记。",
   "attributes": {
-    "身份": "长尊会大司",
+    "身份": "长尊会大司、飘渺族修士",
     "称号": "大司",
-    "阵营": "长尊会"
+    "阵营": "长尊会、飘渺族",
+    "性别": "女",
+    "外貌": "身穿黑衣，青丝触腰遮面，双手如玉"
   },
   "observations": {
     "身份": [
       {
         "value": "长尊会大司",
         "docId": "plot.xianni-1364-taigu-xingchen-ling",
+        "seq": 1280
+      },
+      {
+        "value": "飘渺族修士",
+        "docId": "plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin",
         "seq": 1280
       }
     ],
@@ -31,6 +40,25 @@
       {
         "value": "长尊会",
         "docId": "plot.xianni-1364-taigu-xingchen-ling",
+        "seq": 1280
+      },
+      {
+        "value": "飘渺族",
+        "docId": "plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin",
+        "seq": 1280
+      }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin",
+        "seq": 1280
+      }
+    ],
+    "外貌": [
+      {
+        "value": "身穿黑衣，青丝触腰遮面，双手如玉",
+        "docId": "plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin",
         "seq": 1280
       }
     ]
@@ -54,12 +82,25 @@
       "docId": "plot.xianni-1364-taigu-xingchen-ling",
       "dated": false,
       "seq": 1280
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin",
+      "dated": false,
+      "seq": 1280
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin",
+      "dated": false,
+      "seq": 1280
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1364-taigu-xingchen-ling"
+    "plot.xianni-1364-taigu-xingchen-ling",
+    "plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin"
   ],
-  "updatedAt": "2026-08-25T12:43:26.165Z"
+  "updatedAt": "2026-08-25T13:00:07.393Z"
 }
