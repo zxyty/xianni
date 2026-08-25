@@ -774,3 +774,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T16:29:25.253Z** `ingest` plot.xianni-1399-guhun-jin-dadi-xing — 第1399章 古魂禁！——王林试探落生会底线，踏入大帝星识破赛场古魂禁 · kind=plot asOf=2026-08-25 entities=28 relations=36 src=01307-01311.p3.md
 - **2026-08-25T16:31:39.828Z** `ingest` plot.xianni-1400-huxin-cangyue-dadixing-guhunjin-nitu-tuiyan — 第1400章 湖心藏月：大帝星古魂禁现世，王林凭泥土推演造星之秘 · kind=plot asOf=2026-08-25 entities=25 relations=39 src=01307-01311.p4.md
 - **2026-08-25T16:33:40.557Z** `ingest` plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood — 第1401章 钓龙：朱雀老者钓起第三步炎龙，王林吞龙血淬火之本源 · kind=plot asOf=2026-08-25 entities=15 relations=22 src=01307-01311.p5.md
+- **2026-08-25T16:36:18.905Z** `ingest` plot.xianni-1402-zhuque-laozu-second-gen — 仙逆 第1402章 朱雀老祖——王林五道本源现世，二代朱雀少帝授秘术 · kind=plot asOf=2026-08-25 entities=25 relations=35 src=01312-01316.p1.md

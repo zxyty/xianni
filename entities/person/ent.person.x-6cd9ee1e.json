@@ -4,13 +4,16 @@
   "name": "四代朱雀",
   "aliases": [
     "朱雀圣宗四代朱雀",
-    "四代小朱雀"
+    "四代小朱雀",
+    "四代老祖",
+    "四代小家伙"
   ],
   "summary": "刘金彪伪造记忆中所称「来太古星辰寻找」的对象，属朱雀圣宗前代朱雀。",
   "attributes": {
-    "身份": "第四代朱雀",
+    "身份": "朱雀圣族四代",
     "种族": "朱雀族",
-    "性格": "风流成性"
+    "性格": "风流成性",
+    "称号": "少帝"
   },
   "observations": {
     "身份": [
@@ -24,6 +27,11 @@
         "value": "第四代朱雀",
         "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
         "seq": 1307
+      },
+      {
+        "value": "朱雀圣族四代",
+        "docId": "plot.xianni-1402-zhuque-laozu-second-gen",
+        "seq": 1312
       }
     ],
     "种族": [
@@ -39,15 +47,22 @@
         "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
         "seq": 1307
       }
+    ],
+    "称号": [
+      {
+        "value": "少帝",
+        "docId": "plot.xianni-1402-zhuque-laozu-second-gen",
+        "seq": 1312
+      }
     ]
   },
   "firstSeq": 1303,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
+      "docId": "plot.xianni-1402-zhuque-laozu-second-gen",
       "dated": false,
-      "seq": 1307
+      "seq": 1312
     },
     "种族": {
       "asOf": null,
@@ -60,13 +75,20 @@
       "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
       "dated": false,
       "seq": 1307
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-1402-zhuque-laozu-second-gen",
+      "dated": false,
+      "seq": 1312
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1392-sixth-generation-zhuque",
-    "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood"
+    "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
+    "plot.xianni-1402-zhuque-laozu-second-gen"
   ],
-  "updatedAt": "2026-08-25T16:33:40.153Z"
+  "updatedAt": "2026-08-25T16:36:18.463Z"
 }
