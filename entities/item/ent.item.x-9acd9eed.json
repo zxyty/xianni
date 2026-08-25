@@ -7,12 +7,14 @@
     "王林的酒壶",
     "盛满酒水的酒壶",
     "装仙液的酒壶",
-    "洞府所得酒壶"
+    "洞府所得酒壶",
+    "老者的酒壶",
+    "盛血酒壶"
   ],
   "summary": "大牛之子偷来送给王林的酒壶，被大牛收回放进木雕店铺。",
   "attributes": {
-    "类型": "随身器物",
-    "用途": "盛酒"
+    "类型": "容器",
+    "用途": "盛装炎龙之血"
   },
   "observations": {
     "类型": [
@@ -25,6 +27,11 @@
         "value": "随身器物",
         "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
         "seq": 550
+      },
+      {
+        "value": "容器",
+        "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
+        "seq": 1307
       }
     ],
     "用途": [
@@ -32,6 +39,11 @@
         "value": "盛酒",
         "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
         "seq": 244
+      },
+      {
+        "value": "盛装炎龙之血",
+        "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
+        "seq": 1307
       }
     ]
   },
@@ -39,15 +51,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
+      "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
       "dated": false,
-      "seq": 550
+      "seq": 1307
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+      "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
       "dated": false,
-      "seq": 244
+      "seq": 1307
     }
   },
   "contested": false,
@@ -56,7 +68,8 @@
     "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
     "plot.xianni-ch582-wang-lin-listens-to-qin-and-second-round-war-drum",
     "plot.xianni-ch602-crazed-battle-intent",
-    "plot.xianni-1366-wucai-jijing-naduo-mystery"
+    "plot.xianni-1366-wucai-jijing-naduo-mystery",
+    "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood"
   ],
-  "updatedAt": "2026-08-25T12:52:59.953Z"
+  "updatedAt": "2026-08-25T16:33:40.147Z"
 }

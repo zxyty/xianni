@@ -1,61 +1,56 @@
 {
-  "id": "ent.person.x-6cd9ee1e",
-  "type": "person",
-  "name": "四代朱雀",
+  "id": "ent.place.x-32c7ee15",
+  "type": "place",
+  "name": "钓龙之湖",
   "aliases": [
-    "朱雀圣宗四代朱雀",
-    "四代小朱雀"
+    "老者垂钓的湖",
+    "湖面",
+    "湖底"
   ],
-  "summary": "刘金彪伪造记忆中所称「来太古星辰寻找」的对象，属朱雀圣宗前代朱雀。",
+  "summary": "老者垂钓之处，湖水本清澈，炎龙出没时立刻浑浊到神识无法延伸半寸。",
   "attributes": {
-    "身份": "第四代朱雀",
-    "种族": "朱雀族",
-    "性格": "风流成性"
+    "类型": "湖泊",
+    "危险度": "极高（栖有堪比第三步的炎龙）",
+    "特产": "炎龙之血"
   },
   "observations": {
-    "身份": [
+    "类型": [
       {
-        "value": "朱雀圣宗前代之主",
-        "docId": "plot.xianni-1392-sixth-generation-zhuque",
-        "seq": 1303,
-        "note": "仅见于刘金彪被改写的记忆自述中"
-      },
-      {
-        "value": "第四代朱雀",
+        "value": "湖泊",
         "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
         "seq": 1307
       }
     ],
-    "种族": [
+    "危险度": [
       {
-        "value": "朱雀族",
+        "value": "极高（栖有堪比第三步的炎龙）",
         "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
         "seq": 1307
       }
     ],
-    "性格": [
+    "特产": [
       {
-        "value": "风流成性",
+        "value": "炎龙之血",
         "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
         "seq": 1307
       }
     ]
   },
-  "firstSeq": 1303,
+  "firstSeq": 1307,
   "attrProvenance": {
-    "身份": {
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
       "dated": false,
       "seq": 1307
     },
-    "种族": {
+    "危险度": {
       "asOf": null,
       "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
       "dated": false,
       "seq": 1307
     },
-    "性格": {
+    "特产": {
       "asOf": null,
       "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
       "dated": false,
@@ -65,8 +60,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1392-sixth-generation-zhuque",
     "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood"
   ],
-  "updatedAt": "2026-08-25T16:33:40.153Z"
+  "updatedAt": "2026-08-25T16:33:40.143Z"
 }

@@ -773,3 +773,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T16:26:59.811Z** `ingest` plot.xianni-1398-huangmao-yatou-shaodi-weiya — 第1398章 黄毛丫头：王林少帝身份公开，立威颠落之地，再遇司墨子与长尊会云落 · kind=plot asOf=2026-08-25 entities=27 relations=40 src=01307-01311.p2.md
 - **2026-08-25T16:29:25.253Z** `ingest` plot.xianni-1399-guhun-jin-dadi-xing — 第1399章 古魂禁！——王林试探落生会底线，踏入大帝星识破赛场古魂禁 · kind=plot asOf=2026-08-25 entities=28 relations=36 src=01307-01311.p3.md
 - **2026-08-25T16:31:39.828Z** `ingest` plot.xianni-1400-huxin-cangyue-dadixing-guhunjin-nitu-tuiyan — 第1400章 湖心藏月：大帝星古魂禁现世，王林凭泥土推演造星之秘 · kind=plot asOf=2026-08-25 entities=25 relations=39 src=01307-01311.p4.md
+- **2026-08-25T16:33:40.557Z** `ingest` plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood — 第1401章 钓龙：朱雀老者钓起第三步炎龙，王林吞龙血淬火之本源 · kind=plot asOf=2026-08-25 entities=15 relations=22 src=01307-01311.p5.md

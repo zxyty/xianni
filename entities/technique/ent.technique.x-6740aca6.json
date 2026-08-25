@@ -1,61 +1,59 @@
 {
-  "id": "ent.person.x-6cd9ee1e",
-  "type": "person",
-  "name": "四代朱雀",
+  "id": "ent.technique.x-6740aca6",
+  "type": "technique",
+  "name": "虚火之境",
   "aliases": [
-    "朱雀圣宗四代朱雀",
-    "四代小朱雀"
+    "虚幻火焰"
   ],
-  "summary": "刘金彪伪造记忆中所称「来太古星辰寻找」的对象，属朱雀圣宗前代朱雀。",
+  "summary": "朱雀一族的火焰境界，火焰仿若虚幻如雾；老者已臻此境，王林朱雀觉醒只差一步即可达到。",
   "attributes": {
-    "身份": "第四代朱雀",
-    "种族": "朱雀族",
-    "性格": "风流成性"
+    "出处": "朱雀族",
+    "效果": "火雾焚身、无形之力抽飞第三步凶兽",
+    "外显异象": "虚幻火雾弥漫、朱雀虚影全身覆火"
   },
   "observations": {
-    "身份": [
-      {
-        "value": "朱雀圣宗前代之主",
-        "docId": "plot.xianni-1392-sixth-generation-zhuque",
-        "seq": 1303,
-        "note": "仅见于刘金彪被改写的记忆自述中"
-      },
-      {
-        "value": "第四代朱雀",
-        "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
-        "seq": 1307
-      }
-    ],
-    "种族": [
+    "出处": [
       {
         "value": "朱雀族",
         "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
         "seq": 1307
       }
     ],
-    "性格": [
+    "效果": [
       {
-        "value": "风流成性",
+        "value": "火雾焚身",
+        "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
+        "seq": 1307
+      },
+      {
+        "value": "无形之力抽飞第三步凶兽",
+        "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
+        "seq": 1307
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "虚幻火雾弥漫、朱雀虚影全身覆火",
         "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
         "seq": 1307
       }
     ]
   },
-  "firstSeq": 1303,
+  "firstSeq": 1307,
   "attrProvenance": {
-    "身份": {
+    "出处": {
       "asOf": null,
       "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
       "dated": false,
       "seq": 1307
     },
-    "种族": {
+    "效果": {
       "asOf": null,
       "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
       "dated": false,
       "seq": 1307
     },
-    "性格": {
+    "外显异象": {
       "asOf": null,
       "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
       "dated": false,
@@ -65,8 +63,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1392-sixth-generation-zhuque",
     "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood"
   ],
-  "updatedAt": "2026-08-25T16:33:40.153Z"
+  "updatedAt": "2026-08-25T16:33:40.148Z"
 }

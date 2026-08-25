@@ -5,13 +5,15 @@
   "aliases": [
     "朱雀族",
     "Zhu Que Clan",
-    "老雀一脉"
+    "老雀一脉",
+    "我朱雀族人"
   ],
   "summary": "自太古以来自名朱雀之族，浴火而生、久燃不灭，族人均修火力并身带朱雀印记。",
   "attributes": {
-    "特性": "浴火而生、久燃不灭、族人均修火力、身带朱雀印记、浴火重生、可多次觉醒",
+    "特性": "浴火而生、久燃不灭、族人均修火力、身带朱雀印记、浴火重生、可多次觉醒、朱雀觉醒、火之本源、虚火",
     "天赋神通": "朱雀印记觉醒（一次/二次/三次觉醒）",
-    "阵营": "四圣宗"
+    "阵营": "四圣宗",
+    "代表人物": "朱雀老者、四代朱雀、王林（第六代朱雀）"
   },
   "observations": {
     "特性": [
@@ -44,6 +46,21 @@
         "value": "可多次觉醒",
         "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
         "seq": 1127
+      },
+      {
+        "value": "朱雀觉醒",
+        "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
+        "seq": 1307
+      },
+      {
+        "value": "火之本源",
+        "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
+        "seq": 1307
+      },
+      {
+        "value": "虚火",
+        "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
+        "seq": 1307
       }
     ],
     "天赋神通": [
@@ -58,6 +75,23 @@
         "value": "四圣宗",
         "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
         "seq": 1127
+      }
+    ],
+    "代表人物": [
+      {
+        "value": "朱雀老者",
+        "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
+        "seq": 1307
+      },
+      {
+        "value": "四代朱雀",
+        "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
+        "seq": 1307
+      },
+      {
+        "value": "王林（第六代朱雀）",
+        "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
+        "seq": 1307
       }
     ]
   },
@@ -80,13 +114,20 @@
       "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
       "dated": false,
       "seq": 1127
+    },
+    "代表人物": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
+      "dated": false,
+      "seq": 1307
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1209-yueshi-clan-ancient-god-statues-collapse",
-    "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes"
+    "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
+    "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood"
   ],
-  "updatedAt": "2026-08-25T00:53:51.209Z"
+  "updatedAt": "2026-08-25T16:33:40.150Z"
 }
