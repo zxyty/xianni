@@ -825,3 +825,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T20:46:17.234Z** `ingest` plot.xianni-ch1455-giant-hand-reappears — 第1455章 巨手再现！——王林掠夺妙音香火，被雾海巨手拽入雾中 · kind=plot asOf=2026-08-25 entities=15 relations=23 src=01365-01369.p2.md
 - **2026-08-25T20:48:29.939Z** `ingest` plot.xianni-ch1456-three-killing-intents-fog-hand-throw — 第1456章 三次杀机：巨手抛掷入古墓内部，五阶墓台与七彩雕像伏笔 · kind=plot asOf=2026-08-25 entities=21 relations=27 src=01365-01369.p3.md
 - **2026-08-25T20:55:57.433Z** `ingest` plot.xianni-ch1457-shao-yi-ge — 仙逆 第1457章 少一个？——五阶墓台开启轮回门，古墓四道气息与道古烨寞 · kind=plot asOf=2026-08-25 entities=44 relations=67 src=01365-01369.p4.md
+- **2026-08-25T20:58:43.827Z** `ingest` plot.xianni-ch1458-jiushe-jiuxing-gushen-toulu — 第1458章 假设——九星古神头颅与七彩道人抢夺天道的猜测 · kind=plot asOf=2026-08-25 entities=31 relations=48 src=01365-01369.p5.md

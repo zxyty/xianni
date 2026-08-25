@@ -7,16 +7,18 @@
     "颠落之地深处的森林",
     "诡异的森林",
     "奇异的森林",
-    "无尽枯木森林"
+    "无尽枯木森林",
+    "枯林",
+    "长在头颅上的森林"
   ],
   "summary": "一眼望不到尽头、神识无法笼罩的巨大枯死森林，越近中心枯萎越甚，草木一碰化为飞灰；中心处有雕像。",
   "attributes": {
-    "上级区域": "古墓",
+    "上级区域": "颠落之地深处、古墓、古之墓地",
     "方位": "雾气深处（据地图标记）",
     "规模": "无边无际",
     "特产": "古息叶",
-    "类型": "禁地·枯萎森林",
-    "危险度": "高"
+    "类型": "禁地·枯萎森林、森林",
+    "危险度": "高、藏有肉瘤凶兽"
   },
   "observations": {
     "上级区域": [
@@ -28,6 +30,11 @@
       {
         "value": "古墓",
         "docId": "plot.xianni-ch1457-shao-yi-ge",
+        "seq": 1365
+      },
+      {
+        "value": "古之墓地",
+        "docId": "plot.xianni-ch1458-jiushe-jiuxing-gushen-toulu",
         "seq": 1365
       }
     ],
@@ -72,12 +79,22 @@
         "value": "禁地·枯萎森林",
         "docId": "plot.xianni-ch1457-shao-yi-ge",
         "seq": 1365
+      },
+      {
+        "value": "森林",
+        "docId": "plot.xianni-ch1458-jiushe-jiuxing-gushen-toulu",
+        "seq": 1365
       }
     ],
     "危险度": [
       {
         "value": "高",
         "docId": "plot.xianni-ch1457-shao-yi-ge",
+        "seq": 1365
+      },
+      {
+        "value": "藏有肉瘤凶兽",
+        "docId": "plot.xianni-ch1458-jiushe-jiuxing-gushen-toulu",
         "seq": 1365
       }
     ]
@@ -86,9 +103,9 @@
   "attrProvenance": {
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch1457-shao-yi-ge",
+      "docId": "plot.xianni-1389-tanlang-tale-diedluo-forest-statue-and-release",
       "dated": false,
-      "seq": 1365
+      "seq": 1300
     },
     "方位": {
       "asOf": null,
@@ -125,7 +142,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-1389-tanlang-tale-diedluo-forest-statue-and-release",
-    "plot.xianni-ch1457-shao-yi-ge"
+    "plot.xianni-ch1457-shao-yi-ge",
+    "plot.xianni-ch1458-jiushe-jiuxing-gushen-toulu"
   ],
-  "updatedAt": "2026-08-25T20:55:57.011Z"
+  "updatedAt": "2026-08-25T20:58:43.489Z"
 }

@@ -3,12 +3,15 @@
   "type": "artifact",
   "name": "七彩雕像",
   "aliases": [
-    "七彩雕像:"
+    "七彩雕像:",
+    "七彩雕塑"
   ],
   "summary": "古息叶森林中的雕像，贪狼曾目睹，令银衣女子惊恐尖叫；本章作为强伏笔点出。",
   "attributes": {
     "外形": "七彩",
-    "来历": "古墓内部森林中"
+    "来历": "古墓内部森林中、身穿七彩的修士（七彩道人）所留",
+    "能力": "以一点制约整颗古神头颅",
+    "禁制": "封印九星古神之头"
   },
   "observations": {
     "外形": [
@@ -24,6 +27,25 @@
         "docId": "plot.xianni-ch1456-three-killing-intents-fog-hand-throw",
         "seq": 1365,
         "note": "来历未明"
+      },
+      {
+        "value": "身穿七彩的修士（七彩道人）所留",
+        "docId": "plot.xianni-ch1458-jiushe-jiuxing-gushen-toulu",
+        "seq": 1365
+      }
+    ],
+    "能力": [
+      {
+        "value": "以一点制约整颗古神头颅",
+        "docId": "plot.xianni-ch1458-jiushe-jiuxing-gushen-toulu",
+        "seq": 1365
+      }
+    ],
+    "禁制": [
+      {
+        "value": "封印九星古神之头",
+        "docId": "plot.xianni-ch1458-jiushe-jiuxing-gushen-toulu",
+        "seq": 1365
       }
     ]
   },
@@ -41,12 +63,25 @@
       "dated": false,
       "seq": 1365,
       "note": "来历未明"
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1458-jiushe-jiuxing-gushen-toulu",
+      "dated": false,
+      "seq": 1365
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1458-jiushe-jiuxing-gushen-toulu",
+      "dated": false,
+      "seq": 1365
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1456-three-killing-intents-fog-hand-throw"
+    "plot.xianni-ch1456-three-killing-intents-fog-hand-throw",
+    "plot.xianni-ch1458-jiushe-jiuxing-gushen-toulu"
   ],
-  "updatedAt": "2026-08-25T20:48:29.607Z"
+  "updatedAt": "2026-08-25T20:58:43.481Z"
 }
