@@ -4,12 +4,14 @@
   "name": "禁道",
   "aliases": [
     "以禁修行",
-    "禁修"
+    "禁修",
+    "三大禁制归一"
   ],
   "summary": "李家世代所修之道，以禁制修行；石像仙人的苏醒亦需后世族人「打开禁道」。",
   "attributes": {
-    "出处": "李家",
-    "效果": "以禁制修行，可破开山峰禁锢"
+    "出处": "太古天地初开气息所化，自成一道",
+    "效果": "以禁制修行，可破开山峰禁锢、封天地、封肉身、封元神",
+    "修炼条件": "缺第四道禁制则无法封魂、无法真正归一"
   },
   "observations": {
     "出处": [
@@ -17,6 +19,11 @@
         "value": "李家",
         "docId": "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark",
         "seq": 711
+      },
+      {
+        "value": "太古天地初开气息所化，自成一道",
+        "docId": "plot.xianni-1274-shui-daozi-benti-jianglin-wanglin-jinzhi-shesheche-sebian",
+        "seq": 1191
       }
     ],
     "效果": [
@@ -24,6 +31,28 @@
         "value": "以禁制修行，可破开山峰禁锢",
         "docId": "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark",
         "seq": 711
+      },
+      {
+        "value": "封天地",
+        "docId": "plot.xianni-1274-shui-daozi-benti-jianglin-wanglin-jinzhi-shesheche-sebian",
+        "seq": 1191
+      },
+      {
+        "value": "封肉身",
+        "docId": "plot.xianni-1274-shui-daozi-benti-jianglin-wanglin-jinzhi-shesheche-sebian",
+        "seq": 1191
+      },
+      {
+        "value": "封元神",
+        "docId": "plot.xianni-1274-shui-daozi-benti-jianglin-wanglin-jinzhi-shesheche-sebian",
+        "seq": 1191
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "缺第四道禁制则无法封魂、无法真正归一",
+        "docId": "plot.xianni-1274-shui-daozi-benti-jianglin-wanglin-jinzhi-shesheche-sebian",
+        "seq": 1191
       }
     ]
   },
@@ -31,21 +60,28 @@
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark",
+      "docId": "plot.xianni-1274-shui-daozi-benti-jianglin-wanglin-jinzhi-shesheche-sebian",
       "dated": false,
-      "seq": 711
+      "seq": 1191
     },
     "效果": {
       "asOf": null,
       "docId": "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark",
       "dated": false,
       "seq": 711
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.xianni-1274-shui-daozi-benti-jianglin-wanglin-jinzhi-shesheche-sebian",
+      "dated": false,
+      "seq": 1191
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark"
+    "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark",
+    "plot.xianni-1274-shui-daozi-benti-jianglin-wanglin-jinzhi-shesheche-sebian"
   ],
-  "updatedAt": "2026-08-23T05:24:23.976Z"
+  "updatedAt": "2026-08-25T05:39:44.581Z"
 }

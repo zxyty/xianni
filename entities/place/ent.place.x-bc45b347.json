@@ -22,7 +22,8 @@
     "漂浮在雾气中的蛮荒大陆",
     "严寒蛮荒大陆",
     "近百蛮荒大陆",
-    "上百大陆"
+    "上百大陆",
+    "上百蛮荒大地"
   ],
   "summary": "云海五阶星域星雾深处的无防护大陆，无黑塔守护、被星雾弥漫，是凶兽巢穴，亦生长极珍贵药草；王林行三日抵达星图标注危险的一处。",
   "attributes": {
@@ -33,7 +34,8 @@
     "上级区域": "七阶星域",
     "方位": "远离莫罗大陆的星雾深处、蓬莱星外不远、云海星域内一片雾气中、云海五阶星域至深之处、与六阶星域交错的边缘",
     "所属势力": "宝玉宗",
-    "规模": "近百个"
+    "规模": "近百个",
+    "守护": "三大禁制"
   },
   "observations": {
     "所属界面": [
@@ -328,6 +330,13 @@
         "docId": "plot.xianni-1272-shooting-god-chariot-reappears",
         "seq": 1187
       }
+    ],
+    "守护": [
+      {
+        "value": "三大禁制",
+        "docId": "plot.xianni-1274-shui-daozi-benti-jianglin-wanglin-jinzhi-shesheche-sebian",
+        "seq": 1191
+      }
     ]
   },
   "firstSeq": 1063,
@@ -380,6 +389,12 @@
       "docId": "plot.xianni-1272-shooting-god-chariot-reappears",
       "dated": false,
       "seq": 1187
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-1274-shui-daozi-benti-jianglin-wanglin-jinzhi-shesheche-sebian",
+      "dated": false,
+      "seq": 1191
     }
   },
   "contested": false,
@@ -407,7 +422,8 @@
     "plot.xianni-ch1230-wang-lin-breaks-tier7-blockade-array",
     "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm",
     "plot.xianni-1272-shooting-god-chariot-reappears",
-    "plot.xianni-ch1273-water-daozi-arrival-first-clash"
+    "plot.xianni-ch1273-water-daozi-arrival-first-clash",
+    "plot.xianni-1274-shui-daozi-benti-jianglin-wanglin-jinzhi-shesheche-sebian"
   ],
-  "updatedAt": "2026-08-25T05:37:15.542Z"
+  "updatedAt": "2026-08-25T05:39:44.591Z"
 }
