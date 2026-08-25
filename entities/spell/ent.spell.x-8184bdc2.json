@@ -4,20 +4,27 @@
   "name": "封天之术",
   "aliases": [
     "封灭族大神通封印",
-    "封印火焰图腾之术"
+    "封印火焰图腾之术",
+    "封天术",
+    "Feng Tian Zhi Shu"
   ],
   "summary": "封灭族血脉所能施展的封印神通，化作复杂黑芒符文可穿透火海封住对方图腾；施展代价为永不可恢复的生机损耗。",
   "attributes": {
-    "类型": "封印类大神通",
-    "威力": "可封印一切生灵之力；对王林只能短暂封印",
-    "出处": "封灭族",
-    "消耗": "大量生机，永不可恢复"
+    "类型": "封印类大神通、封印类族术",
+    "威力": "可封印一切生灵之力；对王林只能短暂封印、可封死对方的图腾印记之力",
+    "出处": "封灭族、太古之民（封灭族之术）",
+    "消耗": "大量生机，永不可恢复、生机寿元大量消散，每施展一次身形益发干瘦腐朽"
   },
   "observations": {
     "类型": [
       {
         "value": "封印类大神通",
         "docId": "plot.xianni-ch1212-feng-mie-zu-seal-flame-totem",
+        "seq": 1127
+      },
+      {
+        "value": "封印类族术",
+        "docId": "plot.xianni-ch1213-dao-shu-san-dao",
         "seq": 1127
       }
     ],
@@ -26,6 +33,11 @@
         "value": "可封印一切生灵之力；对王林只能短暂封印",
         "docId": "plot.xianni-ch1212-feng-mie-zu-seal-flame-totem",
         "seq": 1127
+      },
+      {
+        "value": "可封死对方的图腾印记之力",
+        "docId": "plot.xianni-ch1213-dao-shu-san-dao",
+        "seq": 1127
       }
     ],
     "出处": [
@@ -33,12 +45,22 @@
         "value": "封灭族",
         "docId": "plot.xianni-ch1212-feng-mie-zu-seal-flame-totem",
         "seq": 1127
+      },
+      {
+        "value": "太古之民（封灭族之术）",
+        "docId": "plot.xianni-ch1213-dao-shu-san-dao",
+        "seq": 1127
       }
     ],
     "消耗": [
       {
         "value": "大量生机，永不可恢复",
         "docId": "plot.xianni-ch1212-feng-mie-zu-seal-flame-totem",
+        "seq": 1127
+      },
+      {
+        "value": "生机寿元大量消散，每施展一次身形益发干瘦腐朽",
+        "docId": "plot.xianni-ch1213-dao-shu-san-dao",
         "seq": 1127
       }
     ]
@@ -73,7 +95,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1212-feng-mie-zu-seal-flame-totem"
+    "plot.xianni-ch1212-feng-mie-zu-seal-flame-totem",
+    "plot.xianni-ch1213-dao-shu-san-dao"
   ],
-  "updatedAt": "2026-08-25T00:56:04.525Z"
+  "updatedAt": "2026-08-25T00:58:41.245Z"
 }
