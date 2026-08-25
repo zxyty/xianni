@@ -780,3 +780,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T16:43:41.976Z** `ingest` plot.xianni-ch1405-fusheng-ruomeng-diandluo-shaodi-trial-first-incense — 第1405章 浮生若梦：颠落之地少帝试炼开启，王林魂入第一香人界幻境 · kind=plot asOf=2026-08-25 entities=25 relations=31 src=01312-01316.p4.md
 - **2026-08-25T16:46:00.347Z** `ingest` plot.xianni-ch1406-ruo-hun-bei-ren-fang-zhi-xiang — 第1406章 若魂悲——人方之炼幻界重逢“另一个自己”与李慕婉幼年 · kind=plot asOf=2026-08-25 entities=28 relations=34 src=01312-01316.p5.md
 - **2026-08-25T17:04:44.988Z** `ingest` plot.xianni-1407-renfang-jie-li-muwan-wo-buyuan — 第1407章 我，不愿！——人方界重逢李慕婉，王林拒焚虚幻之界 · kind=plot asOf=2026-08-25 entities=57 relations=99 src=01317-01320.md
+- **2026-08-25T17:07:40.449Z** `ingest` plot.xianni-1411-fourth-awakening-nine-turn-karma-tribulation — 第1411章 四次觉醒——王林破人方界入地方界，九转业劫尽、天逆再现、朱雀第四次觉醒 · kind=plot asOf=2026-08-25 entities=27 relations=38 src=01321-01325.p1.md

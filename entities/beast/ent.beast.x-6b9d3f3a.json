@@ -6,13 +6,18 @@
     "黑衣人的炎龙",
     "黑龙印记炎龙",
     "黑衣人炎龙",
-    "天下之火·炎龙"
+    "天下之火·炎龙",
+    "万丈炎龙",
+    "小龙"
   ],
   "summary": "黑衣人所拥有的火系龙类之力/血脉，其暗忖若再吞火朱雀，炎龙或可第二次觉醒。",
   "attributes": {
     "主人": "隐藏黑龙印记的黑衣人",
     "血脉": "火/龙",
-    "能力": "可被吞噬火属性存在而「觉醒」"
+    "能力": "火焰之血可助朱雀觉醒",
+    "种族": "龙",
+    "外形": "万丈炎龙",
+    "栖息地": "大帝星远处天际"
   },
   "observations": {
     "主人": [
@@ -35,6 +40,32 @@
         "docId": "plot.xianni-ch1055-shanbeng-seventh-layer-volcano",
         "seq": 972,
         "note": "黑衣人猜想，已觉醒过一次"
+      },
+      {
+        "value": "火焰之血可助朱雀觉醒",
+        "docId": "plot.xianni-1411-fourth-awakening-nine-turn-karma-tribulation",
+        "seq": 1321
+      }
+    ],
+    "种族": [
+      {
+        "value": "龙",
+        "docId": "plot.xianni-1411-fourth-awakening-nine-turn-karma-tribulation",
+        "seq": 1321
+      }
+    ],
+    "外形": [
+      {
+        "value": "万丈炎龙",
+        "docId": "plot.xianni-1411-fourth-awakening-nine-turn-karma-tribulation",
+        "seq": 1321
+      }
+    ],
+    "栖息地": [
+      {
+        "value": "大帝星远处天际",
+        "docId": "plot.xianni-1411-fourth-awakening-nine-turn-karma-tribulation",
+        "seq": 1321
       }
     ]
   },
@@ -54,17 +85,35 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-ch1055-shanbeng-seventh-layer-volcano",
+      "docId": "plot.xianni-1411-fourth-awakening-nine-turn-karma-tribulation",
       "dated": false,
-      "seq": 972,
-      "note": "黑衣人猜想，已觉醒过一次"
+      "seq": 1321
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-1411-fourth-awakening-nine-turn-karma-tribulation",
+      "dated": false,
+      "seq": 1321
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.xianni-1411-fourth-awakening-nine-turn-karma-tribulation",
+      "dated": false,
+      "seq": 1321
+    },
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.xianni-1411-fourth-awakening-nine-turn-karma-tribulation",
+      "dated": false,
+      "seq": 1321
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1055-shanbeng-seventh-layer-volcano",
-    "plot.xianni-1068-zhuque-second-awakening"
+    "plot.xianni-1068-zhuque-second-awakening",
+    "plot.xianni-1411-fourth-awakening-nine-turn-karma-tribulation"
   ],
-  "updatedAt": "2026-08-24T11:16:23.176Z"
+  "updatedAt": "2026-08-25T17:07:40.012Z"
 }
