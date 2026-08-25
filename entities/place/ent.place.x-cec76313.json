@@ -22,10 +22,10 @@
   "summary": "漂浮于云海星域第五阶的大陆，中心黑塔之光笼罩全陆隔绝星雾；其北部丛林有接引王林的传送阵。",
   "attributes": {
     "上级区域": "五阶星域",
-    "类型": "漂浮星空的大陆（代表一个宗派）、大陆、漂浮大陆、可居住的修真大陆",
+    "类型": "漂浮星空的大陆（代表一个宗派）、大陆、漂浮大陆、可居住的修真大陆、修真大陆",
     "守护": "中心黑塔的柔和之光、黑塔防护之光、大陆上空的防护光层、外围防护层、防护层（本章破损后修复重开）、防护光层、大陆防护层、防护层、防护禁制",
     "所属界面": "云海五阶星域",
-    "特产": "药草、紫目蟒等妖兽",
+    "特产": "药草、紫目蟒等妖兽、凡人众多",
     "危险度": "本章因凶兽狂潮而极高",
     "所属势力": "归元宗（宗门所在）",
     "方位": "四阶星域边缘"
@@ -73,6 +73,11 @@
         "value": "可居住的修真大陆",
         "docId": "plot.xianni-1148-manhuang-dalu-beast-souls",
         "seq": 1063
+      },
+      {
+        "value": "修真大陆",
+        "docId": "plot.xianni-1271-deng-ni-dao-lai-wang-lin-po-jian-feng-yin-bu-zhen",
+        "seq": 1187
       }
     ],
     "守护": [
@@ -145,6 +150,12 @@
         "value": "紫目蟒等妖兽",
         "docId": "plot.xianni-1144-rainbow-wang-lin-slays-song-wude",
         "seq": 1058
+      },
+      {
+        "value": "凡人众多",
+        "docId": "plot.xianni-1271-deng-ni-dao-lai-wang-lin-po-jian-feng-yin-bu-zhen",
+        "seq": 1187,
+        "note": "王林以此为由避战撤离"
       }
     ],
     "危险度": [
@@ -276,7 +287,8 @@
     "plot.xianni-1264-mubingmei-farewell-liqianmei-summons-wuji-sect-departs",
     "plot.xianni-1266-tianyunzi-soul-fusion-death-foresight",
     "plot.xianni-1267-liu-jin-biao-jade-pendant-extortion",
-    "plot.xianni-1268-tianni-vanishes-jade-pendant-centipedes"
+    "plot.xianni-1268-tianni-vanishes-jade-pendant-centipedes",
+    "plot.xianni-1271-deng-ni-dao-lai-wang-lin-po-jian-feng-yin-bu-zhen"
   ],
-  "updatedAt": "2026-08-25T05:26:48.071Z"
+  "updatedAt": "2026-08-25T05:31:59.172Z"
 }

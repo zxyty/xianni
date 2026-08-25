@@ -19,11 +19,12 @@
   "summary": "从司徒南神通中走出的银衣女子，浮风子看向她时心底有些疑惑。",
   "attributes": {
     "性别": "女",
-    "外貌": "银衣，玉手，眼中茫然",
+    "外貌": "银衣女子",
     "称号": "银尸",
-    "身份": "王林麾下战力/护法、王林麾下、执行命令如使命、守护者、王林储物袋中召出的助力、王林熟悉之人、王林储物空间中的存在、王林护法女尸、随王林同行、被收入储物空间",
+    "身份": "王林麾下战力/护法、王林麾下、执行命令如使命、守护者、王林储物袋中召出的助力、王林熟悉之人、王林储物空间中的存在、王林护法女尸、随王林同行、被收入储物空间、受王林驱使、居于其储物空间",
     "性格": "冷漠，声音冰冷",
-    "标志特征": "记忆模糊，仅存「一些记忆」，却精擅生死禁"
+    "标志特征": "记忆模糊，仅存「一些记忆」，却精擅生死禁",
+    "阵营": "王林一方"
   },
   "observations": {
     "性别": [
@@ -48,6 +49,11 @@
         "value": "银衣，玉手，眼中茫然",
         "docId": "plot.xianni-ch1195-seven-colored-nail",
         "seq": 1110
+      },
+      {
+        "value": "银衣女子",
+        "docId": "plot.xianni-1271-deng-ni-dao-lai-wang-lin-po-jian-feng-yin-bu-zhen",
+        "seq": 1187
       }
     ],
     "称号": [
@@ -101,6 +107,11 @@
         "docId": "plot.xianni-ch1195-seven-colored-nail",
         "seq": 1110,
         "note": "本章"
+      },
+      {
+        "value": "受王林驱使、居于其储物空间",
+        "docId": "plot.xianni-1271-deng-ni-dao-lai-wang-lin-po-jian-feng-yin-bu-zhen",
+        "seq": 1187
       }
     ],
     "性格": [
@@ -127,6 +138,13 @@
         "docId": "plot.xianni-ch1195-seven-colored-nail",
         "seq": 1110
       }
+    ],
+    "阵营": [
+      {
+        "value": "王林一方",
+        "docId": "plot.xianni-1271-deng-ni-dao-lai-wang-lin-po-jian-feng-yin-bu-zhen",
+        "seq": 1187
+      }
     ]
   },
   "firstSeq": 922,
@@ -139,9 +157,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch1195-seven-colored-nail",
+      "docId": "plot.xianni-1271-deng-ni-dao-lai-wang-lin-po-jian-feng-yin-bu-zhen",
       "dated": false,
-      "seq": 1110
+      "seq": 1187
     },
     "称号": {
       "asOf": null,
@@ -167,6 +185,12 @@
       "docId": "plot.xianni-ch1195-seven-colored-nail",
       "dated": false,
       "seq": 1110
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1271-deng-ni-dao-lai-wang-lin-po-jian-feng-yin-bu-zhen",
+      "dated": false,
+      "seq": 1187
     }
   },
   "contested": false,
@@ -185,7 +209,8 @@
     "plot.xianni-1155-lianzhan-wanglin-slaughters-huaqing-disciples",
     "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
     "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan",
-    "plot.xianni-ch1195-seven-colored-nail"
+    "plot.xianni-ch1195-seven-colored-nail",
+    "plot.xianni-1271-deng-ni-dao-lai-wang-lin-po-jian-feng-yin-bu-zhen"
   ],
-  "updatedAt": "2026-08-24T23:09:10.609Z"
+  "updatedAt": "2026-08-25T05:31:59.169Z"
 }
