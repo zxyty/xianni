@@ -11,7 +11,9 @@
     "类型": "古墓层面",
     "规模": "三幅地图",
     "危险度": "极高——神识入内即被咆哮震崩",
-    "特产": "道古传承之心脏"
+    "特产": "道古传承之心脏",
+    "上级区域": "道古烨寞古墓",
+    "方位": "古墓深处"
   },
   "observations": {
     "类型": [
@@ -41,6 +43,20 @@
         "docId": "plot.xianni-ch1470-daogu-inheritance-chair-resistance",
         "seq": 1380
       }
+    ],
+    "上级区域": [
+      {
+        "value": "道古烨寞古墓",
+        "docId": "plot.xianni-1473-one-roar-power-tomb-will-fusion",
+        "seq": 1380
+      }
+    ],
+    "方位": [
+      {
+        "value": "古墓深处",
+        "docId": "plot.xianni-1473-one-roar-power-tomb-will-fusion",
+        "seq": 1380
+      }
     ]
   },
   "firstSeq": 1380,
@@ -68,12 +84,25 @@
       "docId": "plot.xianni-ch1470-daogu-inheritance-chair-resistance",
       "dated": false,
       "seq": 1380
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-1473-one-roar-power-tomb-will-fusion",
+      "dated": false,
+      "seq": 1380
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-1473-one-roar-power-tomb-will-fusion",
+      "dated": false,
+      "seq": 1380
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1470-daogu-inheritance-chair-resistance"
+    "plot.xianni-ch1470-daogu-inheritance-chair-resistance",
+    "plot.xianni-1473-one-roar-power-tomb-will-fusion"
   ],
-  "updatedAt": "2026-08-25T21:45:56.080Z"
+  "updatedAt": "2026-08-25T21:53:15.397Z"
 }

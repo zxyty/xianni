@@ -3,12 +3,14 @@
   "type": "place",
   "name": "古墓第一张地图",
   "aliases": [
-    "第一张地图"
+    "第一张地图",
+    "第一幅地图"
   ],
   "summary": "另一只巨大手臂的伸出之地，其内数十名残留修士连人带墓台在手臂过处无一存活。",
   "attributes": {
     "所属界面": "古墓",
-    "上级区域": "古墓"
+    "上级区域": "道古烨寞古墓",
+    "方位": "古墓最外层"
   },
   "observations": {
     "所属界面": [
@@ -23,6 +25,18 @@
         "value": "古墓",
         "docId": "plot.xianni-ch1466-nine-tier-tomb-platform-clap",
         "seq": 1375
+      },
+      {
+        "value": "道古烨寞古墓",
+        "docId": "plot.xianni-1473-one-roar-power-tomb-will-fusion",
+        "seq": 1380
+      }
+    ],
+    "方位": [
+      {
+        "value": "古墓最外层",
+        "docId": "plot.xianni-1473-one-roar-power-tomb-will-fusion",
+        "seq": 1380
       }
     ]
   },
@@ -36,15 +50,22 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch1466-nine-tier-tomb-platform-clap",
+      "docId": "plot.xianni-1473-one-roar-power-tomb-will-fusion",
       "dated": false,
-      "seq": 1375
+      "seq": 1380
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-1473-one-roar-power-tomb-will-fusion",
+      "dated": false,
+      "seq": 1380
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1466-nine-tier-tomb-platform-clap"
+    "plot.xianni-ch1466-nine-tier-tomb-platform-clap",
+    "plot.xianni-1473-one-roar-power-tomb-will-fusion"
   ],
-  "updatedAt": "2026-08-25T21:27:05.432Z"
+  "updatedAt": "2026-08-25T21:53:15.396Z"
 }

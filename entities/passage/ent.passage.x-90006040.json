@@ -11,16 +11,18 @@
     "古墓裂缕",
     "古之墓地入口裂缝",
     "裂缕",
-    "通往另一个世界的裂缝"
+    "通往另一个世界的裂缝",
+    "通往太古星辰的裂缝",
+    "古墓通道裂缝"
   ],
   "summary": "蛮荒星瓦解处露出的裂缝，初十丈、扩至百丈后停止，散发死气，静浮如森森之口；透过它可见另一界，漂浮无数碎石，每块碎石上都有古神、古魔或古妖的巨大头颅。",
   "attributes": {
     "类型": "空间裂缝／传送入口",
-    "两端": "太古星辰 ↔ 古之墓地、裂缝外 → 古之墓地内部不同区域、太古星辰星空—古墓内部、古墓 ↔ 尸烛大殿（疑为天府方向）",
-    "稳定性": "扩至百丈后停止蔓延，静止不动、时隐时现，本章再现后持续漂浮不收缩、极稳定",
+    "两端": "太古星辰 ↔ 古之墓地、裂缝外 → 古之墓地内部不同区域、太古星辰星空—古墓内部、古墓 ↔ 尸烛大殿（疑为天府方向）、道古烨寞古墓 ↔ 太古星辰星空",
+    "稳定性": "扩至百丈后停止蔓延，静止不动、时隐时现，本章再现后持续漂浮不收缩、极稳定、被外力凝固而无法闭合",
     "坐标": "原蛮荒星所在处",
     "可通行境界": "无修为限制",
-    "守护": "暴躁浓雾",
+    "守护": "掌尊（守于裂缝外）",
     "来历": "两只巨手拍毁九阶墓台时撕开"
   },
   "observations": {
@@ -56,6 +58,11 @@
         "value": "古墓 ↔ 尸烛大殿（疑为天府方向）",
         "docId": "plot.xianni-ch1467-ancient-tomb-upheaval",
         "seq": 1375
+      },
+      {
+        "value": "道古烨寞古墓 ↔ 太古星辰星空",
+        "docId": "plot.xianni-1473-one-roar-power-tomb-will-fusion",
+        "seq": 1380
       }
     ],
     "稳定性": [
@@ -75,6 +82,12 @@
         "docId": "plot.xianni-ch1467-ancient-tomb-upheaval",
         "seq": 1375,
         "note": "如永恒一般保持撕裂，不消散"
+      },
+      {
+        "value": "被外力凝固而无法闭合",
+        "docId": "plot.xianni-1473-one-roar-power-tomb-will-fusion",
+        "seq": 1380,
+        "note": "第1473章被王林以墓地意志挤压，急速收缩"
       }
     ],
     "坐标": [
@@ -103,6 +116,11 @@
         "value": "暴躁浓雾",
         "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
         "seq": 1346
+      },
+      {
+        "value": "掌尊（守于裂缝外）",
+        "docId": "plot.xianni-1473-one-roar-power-tomb-will-fusion",
+        "seq": 1380
       }
     ],
     "来历": [
@@ -153,9 +171,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
+      "docId": "plot.xianni-1473-one-roar-power-tomb-will-fusion",
       "dated": false,
-      "seq": 1346
+      "seq": 1380
     },
     "来历": {
       "asOf": null,
@@ -169,7 +187,8 @@
   "docs": [
     "plot.xianni-1415-gu-zhi-mu-di-kai",
     "plot.xianni-ch1346-1349-ancient-tomb-opens",
-    "plot.xianni-ch1467-ancient-tomb-upheaval"
+    "plot.xianni-ch1467-ancient-tomb-upheaval",
+    "plot.xianni-1473-one-roar-power-tomb-will-fusion"
   ],
-  "updatedAt": "2026-08-25T21:34:24.766Z"
+  "updatedAt": "2026-08-25T21:53:15.399Z"
 }
