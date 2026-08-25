@@ -5,13 +5,14 @@
   "aliases": [
     "Lei Jing",
     "Lightning Crystal",
-    "雷之晶石"
+    "雷之晶石",
+    "Thunder Crystal"
   ],
   "summary": "闪雷族的功勋计数单位，并非实物；以功法神通、法宝丹药、炼器炼丹材料乃至香火之力奉献换取，香火之力换得最多，七年后雷晶最多者可入圣地。",
   "attributes": {
-    "类型": "晶石资源",
-    "用途": "争夺百年一次的圣地名额、闪雷榜排名依据、以雷果换取的等价物",
-    "产地": "闪雷族奉献制度"
+    "类型": "功勋计数（非实物）、晶石资源、货币/资源晶石",
+    "用途": "争夺百年一次的圣地名额、闪雷榜排名依据、以雷果换取的等价物、闪雷族通用兑换物",
+    "产地": "闪雷族"
   },
   "observations": {
     "类型": [
@@ -23,6 +24,11 @@
       {
         "value": "晶石资源",
         "docId": "plot.xianni-1331-tianlei-zong-qiudehai-flees-wanglin",
+        "seq": 1246
+      },
+      {
+        "value": "货币/资源晶石",
+        "docId": "plot.xianni-ch1332-jingdi-zhongdahong-xuliguo",
         "seq": 1246
       }
     ],
@@ -41,6 +47,11 @@
         "value": "以雷果换取的等价物",
         "docId": "plot.xianni-1331-tianlei-zong-qiudehai-flees-wanglin",
         "seq": 1246
+      },
+      {
+        "value": "闪雷族通用兑换物",
+        "docId": "plot.xianni-ch1332-jingdi-zhongdahong-xuliguo",
+        "seq": 1246
       }
     ],
     "产地": [
@@ -48,6 +59,11 @@
         "value": "闪雷族奉献制度",
         "docId": "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
         "seq": 1242
+      },
+      {
+        "value": "闪雷族",
+        "docId": "plot.xianni-ch1332-jingdi-zhongdahong-xuliguo",
+        "seq": 1246
       }
     ]
   },
@@ -55,9 +71,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1331-tianlei-zong-qiudehai-flees-wanglin",
+      "docId": "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
       "dated": false,
-      "seq": 1246
+      "seq": 1242
     },
     "用途": {
       "asOf": null,
@@ -67,16 +83,17 @@
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
+      "docId": "plot.xianni-ch1332-jingdi-zhongdahong-xuliguo",
       "dated": false,
-      "seq": 1242
+      "seq": 1246
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
-    "plot.xianni-1331-tianlei-zong-qiudehai-flees-wanglin"
+    "plot.xianni-1331-tianlei-zong-qiudehai-flees-wanglin",
+    "plot.xianni-ch1332-jingdi-zhongdahong-xuliguo"
   ],
-  "updatedAt": "2026-08-25T11:14:17.447Z"
+  "updatedAt": "2026-08-25T11:16:10.508Z"
 }
