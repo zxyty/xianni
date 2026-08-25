@@ -763,3 +763,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T14:39:15.239Z** `ingest` plot.xianni-1386-shou-bao-wang-lin-duo-tan-lang-fabao — 第1386章 收宝：王林尽夺贪狼法宝，贪狼惊逃颠落之地深处 · kind=plot asOf=2026-08-25 entities=26 relations=33 src=01297-01299.p2.md
 - **2026-08-25T14:41:26.252Z** `ingest` plot.xianni-ch1387-tanlang-clue-ancient-gods — 第1387章 线索——贪狼逃遁、一叶封天与三百古魔魂 · kind=plot asOf=2026-08-25 entities=17 relations=23 src=01297-01299.p3.md
 - **2026-08-25T15:54:05.427Z** `ingest` plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang — 第1388章 不要怕！——贪狼弃宝逃遁、召妖狼降世反被王林一剑斩为两半 · kind=plot asOf=2026-08-25 entities=61 relations=87 src=01300-01302.p1.md
+- **2026-08-25T15:56:40.361Z** `ingest` plot.xianni-1389-tanlang-tale-diedluo-forest-statue-and-release — 第1389章 贪狼自述颠落之地深处见闻·王林洗其元神放归·钟大洪威压云遁族 · kind=plot asOf=2026-08-25 entities=27 relations=34 src=01300-01302.p2.md

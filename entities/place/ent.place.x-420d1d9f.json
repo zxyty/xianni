@@ -15,15 +15,16 @@
     "颠落之地界外",
     "Dianluo",
     "颠落之地深处",
-    "颠落之地星空"
+    "颠落之地星空",
+    "巨石碎片之地"
   ],
   "summary": "太古星辰一处星域，修真星数千、由三百七十二个小族组成，是叛族与结仇者的庇护所，亦为太古星辰最大的交易之所。",
   "attributes": {
     "所属界面": "太古星辰",
-    "类型": "庇护所、交易之所、化外之地/自由交易区、区域／修真星所在之地、神秘禁区/独立势力辖区、秘境/异域、星域/地域、界外区域、秘境/禁地、区域/秘地、地域、界外之地、界外地域、势力辖地、星空地域",
+    "类型": "庇护所、交易之所、化外之地/自由交易区、区域／修真星所在之地、神秘禁区/独立势力辖区、秘境/异域、星域/地域、界外区域、秘境/禁地、区域/秘地、地域、界外之地、界外地域、势力辖地、星空地域、凶险秘境",
     "规模": "三百七十二个小族",
-    "危险度": "极高（外敌入侵者曾被虚无狂风尽灭）、相对安全但并非绝对安全、极高、强者为尊；争夺长老之位者多莫名死亡、龙蛇混杂、极高（第三步神通展开即可令其崩溃）、有严格规矩，追杀者受罚逐出",
-    "特产": "法宝交易、功法交易、丹药、法宝、元晶、可印神识操控的傀儡、炉鼎交易、炎火异晶、傀儡",
+    "危险度": "极高（外敌入侵者曾被虚无狂风尽灭）、相对安全但并非绝对安全、极高、强者为尊；争夺长老之位者多莫名死亡、龙蛇混杂、极高（第三步神通展开即可令其崩溃）、有严格规矩，追杀者受罚逐出、极高（深处前行必死）",
+    "特产": "法宝交易、功法交易、丹药、法宝、元晶、可印神识操控的傀儡、炉鼎交易、炎火异晶、傀儡、巨大头颅上的法宝、空间乱流",
     "上级区域": "太古星辰",
     "所属势力": "不属长尊会控制、落生会、颠落大帝、不归长尊会、火雀族分族、龙甲族、暗蝎族、大帝",
     "守护": "颠落之地大帝",
@@ -112,6 +113,11 @@
         "value": "星空地域",
         "docId": "plot.xianni-ch1387-tanlang-clue-ancient-gods",
         "seq": 1297
+      },
+      {
+        "value": "凶险秘境",
+        "docId": "plot.xianni-1389-tanlang-tale-diedluo-forest-statue-and-release",
+        "seq": 1300
       }
     ],
     "规模": [
@@ -163,6 +169,11 @@
         "docId": "character.xianni-1383-tanlang-origin",
         "seq": 1297,
         "note": "王林所述规定"
+      },
+      {
+        "value": "极高（深处前行必死）",
+        "docId": "plot.xianni-1389-tanlang-tale-diedluo-forest-statue-and-release",
+        "seq": 1300
       }
     ],
     "特产": [
@@ -210,6 +221,16 @@
         "value": "傀儡",
         "docId": "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
         "seq": 1288
+      },
+      {
+        "value": "巨大头颅上的法宝",
+        "docId": "plot.xianni-1389-tanlang-tale-diedluo-forest-statue-and-release",
+        "seq": 1300
+      },
+      {
+        "value": "空间乱流",
+        "docId": "plot.xianni-1389-tanlang-tale-diedluo-forest-statue-and-release",
+        "seq": 1300
       }
     ],
     "上级区域": [
@@ -349,7 +370,8 @@
     "plot.xianni-1382-gu-ren-longjia-clan-poison-pill",
     "character.xianni-1383-tanlang-origin",
     "plot.xianni-1386-shou-bao-wang-lin-duo-tan-lang-fabao",
-    "plot.xianni-ch1387-tanlang-clue-ancient-gods"
+    "plot.xianni-ch1387-tanlang-clue-ancient-gods",
+    "plot.xianni-1389-tanlang-tale-diedluo-forest-statue-and-release"
   ],
-  "updatedAt": "2026-08-25T14:41:25.847Z"
+  "updatedAt": "2026-08-25T15:56:39.919Z"
 }

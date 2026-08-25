@@ -3,14 +3,15 @@
   "type": "material",
   "name": "万古蝎尸",
   "aliases": [
-    "蝎尸"
+    "蝎尸",
+    "万古蝎尸之物"
   ],
   "summary": "贪狼所求之物，据查最有可能位于暗蝎族的修真星上。",
   "attributes": {
     "产地": "暗蝎族",
     "稀有度": "传说级",
     "类型": "尸体/材料",
-    "用途": "配合云遁族之宝驱散望月臭气"
+    "用途": "疑为除去贪狼身上恶臭"
   },
   "observations": {
     "产地": [
@@ -49,6 +50,11 @@
         "value": "配合云遁族之宝驱散望月臭气",
         "docId": "character.xianni-1383-tanlang-origin",
         "seq": 1297
+      },
+      {
+        "value": "疑为除去贪狼身上恶臭",
+        "docId": "plot.xianni-1389-tanlang-tale-diedluo-forest-statue-and-release",
+        "seq": 1300
       }
     ]
   },
@@ -74,16 +80,17 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "character.xianni-1383-tanlang-origin",
+      "docId": "plot.xianni-1389-tanlang-tale-diedluo-forest-statue-and-release",
       "dated": false,
-      "seq": 1297
+      "seq": 1300
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1382-gu-ren-longjia-clan-poison-pill",
-    "character.xianni-1383-tanlang-origin"
+    "character.xianni-1383-tanlang-origin",
+    "plot.xianni-1389-tanlang-tale-diedluo-forest-statue-and-release"
   ],
-  "updatedAt": "2026-08-25T14:36:49.922Z"
+  "updatedAt": "2026-08-25T15:56:39.926Z"
 }
