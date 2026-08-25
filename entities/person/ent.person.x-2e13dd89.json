@@ -6,14 +6,16 @@
     "赤红衣衫中年男子",
     "大帝口谕宣读者",
     "使者中年男子",
-    "大帝使者中年男子"
+    "大帝使者中年男子",
+    "龙甲族大帝使者"
   ],
   "summary": "赤红衣衫中年男子，修炼隐藏修为的绝顶功法，携红色玉简宣读大帝口谕，并向王林自称属下、称其少帝。",
   "attributes": {
     "身份": "大帝使者、颠落大帝使者",
     "外貌": "身穿赤红衣衫的中年男子、中年男子",
     "标志特征": "身上毫无修为气息",
-    "性格": "笑容恭敬、转瞬冷漠"
+    "性格": "笑容恭敬、转瞬冷漠",
+    "阵营": "龙甲族一方"
   },
   "observations": {
     "身份": [
@@ -54,6 +56,13 @@
         "docId": "plot.xianni-1382-gu-ren-longjia-clan-poison-pill",
         "seq": 1292
       }
+    ],
+    "阵营": [
+      {
+        "value": "龙甲族一方",
+        "docId": "plot.xianni-1391-pian-dao-blood-bait-and-xu-liguo",
+        "seq": 1300
+      }
     ]
   },
   "firstSeq": 1292,
@@ -82,13 +91,20 @@
       "docId": "plot.xianni-1382-gu-ren-longjia-clan-poison-pill",
       "dated": false,
       "seq": 1292
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1391-pian-dao-blood-bait-and-xu-liguo",
+      "dated": false,
+      "seq": 1300
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1381-shao-di",
-    "plot.xianni-1382-gu-ren-longjia-clan-poison-pill"
+    "plot.xianni-1382-gu-ren-longjia-clan-poison-pill",
+    "plot.xianni-1391-pian-dao-blood-bait-and-xu-liguo"
   ],
-  "updatedAt": "2026-08-25T14:18:50.972Z"
+  "updatedAt": "2026-08-25T16:02:47.519Z"
 }
