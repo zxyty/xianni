@@ -4,13 +4,16 @@
   "name": "三代朱雀",
   "aliases": [
     "第三代朱雀",
-    "三代"
+    "三代",
+    "三代朱雀孽雀"
   ],
   "summary": "当年算计二代朱雀司徒南、引来域外修士之人，为司徒南沉睡万载的祸首。",
   "attributes": {
     "称号": "三代朱雀",
-    "身份": "冒充朱雀族人者",
-    "标志特征": "搜魂亦无破绽"
+    "身份": "冒充朱雀族人者、疑在太古星辰另有别的身份",
+    "标志特征": "搜魂亦无破绽、一代朱雀所见天资第一；在火雀族留有火本源",
+    "出身地": "被人造出（非天生族人）",
+    "性格": "奸诈异常"
   },
   "observations": {
     "称号": [
@@ -26,12 +29,37 @@
         "docId": "plot.xianni-ch1417-cultivation-is-a-palm",
         "seq": 1326,
         "note": "实为被人造出之物"
+      },
+      {
+        "value": "疑在太古星辰另有别的身份",
+        "docId": "plot.xianni-1419-lai-yidai-zhuque-jiuse-yumao-tianfangxiang-liwei",
+        "seq": 1326,
+        "note": "一代朱雀的怀疑，未证实"
       }
     ],
     "标志特征": [
       {
         "value": "搜魂亦无破绽",
         "docId": "plot.xianni-ch1417-cultivation-is-a-palm",
+        "seq": 1326
+      },
+      {
+        "value": "一代朱雀所见天资第一；在火雀族留有火本源",
+        "docId": "plot.xianni-1419-lai-yidai-zhuque-jiuse-yumao-tianfangxiang-liwei",
+        "seq": 1326
+      }
+    ],
+    "出身地": [
+      {
+        "value": "被人造出（非天生族人）",
+        "docId": "plot.xianni-1419-lai-yidai-zhuque-jiuse-yumao-tianfangxiang-liwei",
+        "seq": 1326
+      }
+    ],
+    "性格": [
+      {
+        "value": "奸诈异常",
+        "docId": "plot.xianni-1419-lai-yidai-zhuque-jiuse-yumao-tianfangxiang-liwei",
         "seq": 1326
       }
     ]
@@ -56,6 +84,18 @@
       "docId": "plot.xianni-ch1417-cultivation-is-a-palm",
       "dated": false,
       "seq": 1326
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-1419-lai-yidai-zhuque-jiuse-yumao-tianfangxiang-liwei",
+      "dated": false,
+      "seq": 1326
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-1419-lai-yidai-zhuque-jiuse-yumao-tianfangxiang-liwei",
+      "dated": false,
+      "seq": 1326
     }
   },
   "contested": false,
@@ -63,7 +103,8 @@
   "docs": [
     "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
     "plot.xianni-ch1412-nine-colors-into-one-fourth-zhuque-awakening",
-    "plot.xianni-ch1417-cultivation-is-a-palm"
+    "plot.xianni-ch1417-cultivation-is-a-palm",
+    "plot.xianni-1419-lai-yidai-zhuque-jiuse-yumao-tianfangxiang-liwei"
   ],
-  "updatedAt": "2026-08-25T17:22:53.149Z"
+  "updatedAt": "2026-08-25T17:28:28.522Z"
 }

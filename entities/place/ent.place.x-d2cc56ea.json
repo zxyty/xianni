@@ -4,15 +4,17 @@
   "name": "火雀族圣地",
   "aliases": [
     "紫色火海",
-    "火雀主星内部最深处"
+    "火雀主星内部最深处",
+    "火雀圣地"
   ],
   "summary": "火雀主星内部最深处的深紫色火海，中心有阵法，老祖盘膝其中；无老祖召见，族长亦不得踏入。",
   "attributes": {
     "所属势力": "火雀族",
     "方位": "火雀主星内部最深处",
     "上级区域": "火雀主星",
-    "危险度": "极高（火修亦承受不住）",
-    "守护": "深紫色火焰"
+    "危险度": "极高（疑有三代孽雀闭关）",
+    "守护": "深紫色火焰",
+    "类型": "族地／圣地"
   },
   "observations": {
     "所属势力": [
@@ -41,6 +43,11 @@
         "value": "极高（火修亦承受不住）",
         "docId": "plot.xianni-1395-feng-qi-zhu-que-zhi-xue",
         "seq": 1303
+      },
+      {
+        "value": "极高（疑有三代孽雀闭关）",
+        "docId": "plot.xianni-1419-lai-yidai-zhuque-jiuse-yumao-tianfangxiang-liwei",
+        "seq": 1326
       }
     ],
     "守护": [
@@ -48,6 +55,13 @@
         "value": "深紫色火焰",
         "docId": "plot.xianni-1395-feng-qi-zhu-que-zhi-xue",
         "seq": 1303
+      }
+    ],
+    "类型": [
+      {
+        "value": "族地／圣地",
+        "docId": "plot.xianni-1419-lai-yidai-zhuque-jiuse-yumao-tianfangxiang-liwei",
+        "seq": 1326
       }
     ]
   },
@@ -73,21 +87,28 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-1395-feng-qi-zhu-que-zhi-xue",
+      "docId": "plot.xianni-1419-lai-yidai-zhuque-jiuse-yumao-tianfangxiang-liwei",
       "dated": false,
-      "seq": 1303
+      "seq": 1326
     },
     "守护": {
       "asOf": null,
       "docId": "plot.xianni-1395-feng-qi-zhu-que-zhi-xue",
       "dated": false,
       "seq": 1303
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-1419-lai-yidai-zhuque-jiuse-yumao-tianfangxiang-liwei",
+      "dated": false,
+      "seq": 1326
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1395-feng-qi-zhu-que-zhi-xue"
+    "plot.xianni-1395-feng-qi-zhu-que-zhi-xue",
+    "plot.xianni-1419-lai-yidai-zhuque-jiuse-yumao-tianfangxiang-liwei"
   ],
-  "updatedAt": "2026-08-25T16:19:45.411Z"
+  "updatedAt": "2026-08-25T17:28:28.538Z"
 }
