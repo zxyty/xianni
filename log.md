@@ -615,3 +615,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T01:56:57.564Z** `ingest` plot.xianni-1217-tuosen-awakens-sweeps-star-domain — 第1217章 苏醒：拓森破阵而出，横扫联盟星域九十九年之变 · kind=plot asOf=2026-08-25 entities=55 relations=80 src=01132-01136.p4.md
 - **2026-08-25T01:58:57.184Z** `ingest` plot.xianni-ch1218-feng-jie-zhi-zhen — 第1218章 封界之阵——拓森横扫罗天、跨入云海，强撼封界大阵 · kind=plot asOf=2026-08-25 entities=16 relations=21 src=01132-01136.p5.md
 - **2026-08-25T02:00:45.010Z** `ingest` plot.xianni-1219-eight-spirits-tuosen-breaks-seal-array — 第1219章 八灵现：拓森燃三星点强破封界大阵 · kind=plot asOf=2026-08-25 entities=14 relations=19 src=01137-01141.p1.md
+- **2026-08-25T02:02:50.475Z** `ingest` plot.xianni-1220-tian-ni-zhi-zhu-dao-guo — 第1220章 天逆之主：王林夺赤红道果，晋净涅后期，巨门现世 · kind=plot asOf=2026-08-25 entities=12 relations=17 src=01137-01141.p2.md
