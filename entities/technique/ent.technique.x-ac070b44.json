@@ -4,13 +4,14 @@
   "name": "吞灵噬体绝天",
   "aliases": [
     "吞灵噬体绝天大法",
-    "仙术吞灵噬体绝天"
+    "仙术吞灵噬体绝天",
+    "吞灵噬体"
   ],
   "summary": "清水自创的仙术（实为至极魔功），吞被杀者元神、噬其血肉，将全身一切化为疗伤与恢复修为的养分。",
   "attributes": {
     "出处": "清水（清水仙君）自创",
-    "效果": "吞噬元神与血肉、化养分疗伤恢复修为、施术者化作黑雾卷人、被吞者成皮包骨、肉身崩溃或膨胀撑爆",
-    "外显异象": "施术者全身瞬息枯萎如人形骷髅，伤口蠕动止血",
+    "效果": "吞噬元神与血肉、化养分疗伤恢复修为、施术者化作黑雾卷人、被吞者成皮包骨、肉身崩溃或膨胀撑爆、化黑雾吞噬修士血液、元神、魂魄、元力与生机、急速恢复自身伤势与修为、黑雾可化作条条手臂远程缠绕吞噬、旋身可化巨大漩涡产生吸力",
+    "外显异象": "施术者全身瞬息枯萎如人形骷髅，伤口蠕动止血、全身弥漫絮状黑雾，被吞者只剩皮包骨尸骸化作飞灰",
     "修炼条件": "仅传王林一人"
   },
   "observations": {
@@ -41,12 +42,37 @@
         "value": "被吞者成皮包骨、肉身崩溃或膨胀撑爆",
         "docId": "plot.xianni-1307-tunling-shiti-juetian-breakout",
         "seq": 1222
+      },
+      {
+        "value": "化黑雾吞噬修士血液、元神、魂魄、元力与生机",
+        "docId": "plot.xianni-ch1308-tuosen-devour-massacre",
+        "seq": 1222
+      },
+      {
+        "value": "急速恢复自身伤势与修为",
+        "docId": "plot.xianni-ch1308-tuosen-devour-massacre",
+        "seq": 1222
+      },
+      {
+        "value": "黑雾可化作条条手臂远程缠绕吞噬",
+        "docId": "plot.xianni-ch1308-tuosen-devour-massacre",
+        "seq": 1222
+      },
+      {
+        "value": "旋身可化巨大漩涡产生吸力",
+        "docId": "plot.xianni-ch1308-tuosen-devour-massacre",
+        "seq": 1222
       }
     ],
     "外显异象": [
       {
         "value": "施术者全身瞬息枯萎如人形骷髅，伤口蠕动止血",
         "docId": "plot.xianni-1307-tunling-shiti-juetian-breakout",
+        "seq": 1222
+      },
+      {
+        "value": "全身弥漫絮状黑雾，被吞者只剩皮包骨尸骸化作飞灰",
+        "docId": "plot.xianni-ch1308-tuosen-devour-massacre",
         "seq": 1222
       }
     ],
@@ -90,7 +116,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1307-tunling-shiti-juetian-breakout"
+    "plot.xianni-1307-tunling-shiti-juetian-breakout",
+    "plot.xianni-ch1308-tuosen-devour-massacre"
   ],
-  "updatedAt": "2026-08-25T08:17:17.791Z"
+  "updatedAt": "2026-08-25T08:19:10.109Z"
 }

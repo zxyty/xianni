@@ -3,20 +3,26 @@
   "type": "race",
   "name": "太古星辰之民",
   "aliases": [
-    "界外修士"
+    "界外修士",
+    "界外一方"
   ],
   "summary": "居于封界大阵之外的种族，衣着奇异，与界内之人为不问原因的死敌，数百人守阵。",
   "attributes": {
-    "聚居地": "太古星辰",
+    "聚居地": "太古星辰、封界大阵之外",
     "阵营": "界外",
     "天敌": "界内修士",
-    "特性": "见界内之人即杀，杀之可向族中领赏"
+    "特性": "见界内之人即杀，杀之可向族中领赏、自认每一个族人都可称界内的天道、视界内修士如绵羊、困兽、野人"
   },
   "observations": {
     "聚居地": [
       {
         "value": "太古星辰",
         "docId": "plot.xianni-1307-tunling-shiti-juetian-breakout",
+        "seq": 1222
+      },
+      {
+        "value": "封界大阵之外",
+        "docId": "plot.xianni-ch1308-tuosen-devour-massacre",
         "seq": 1222
       }
     ],
@@ -38,6 +44,16 @@
       {
         "value": "见界内之人即杀，杀之可向族中领赏",
         "docId": "plot.xianni-1307-tunling-shiti-juetian-breakout",
+        "seq": 1222
+      },
+      {
+        "value": "自认每一个族人都可称界内的天道",
+        "docId": "plot.xianni-ch1308-tuosen-devour-massacre",
+        "seq": 1222
+      },
+      {
+        "value": "视界内修士如绵羊、困兽、野人",
+        "docId": "plot.xianni-ch1308-tuosen-devour-massacre",
         "seq": 1222
       }
     ]
@@ -72,7 +88,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1307-tunling-shiti-juetian-breakout"
+    "plot.xianni-1307-tunling-shiti-juetian-breakout",
+    "plot.xianni-ch1308-tuosen-devour-massacre"
   ],
-  "updatedAt": "2026-08-25T08:17:17.802Z"
+  "updatedAt": "2026-08-25T08:19:10.114Z"
 }
