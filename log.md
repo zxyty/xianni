@@ -719,3 +719,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T11:37:50.423Z** `ingest` plot.xianni-1337-shanleizu-liudao-zhilei — 第1337章 闪雷族的隐秘：雷之六道与西门任务 · kind=plot asOf=2026-08-25 entities=39 relations=69 src=01250-01254.p3.md
 - **2026-08-25T11:40:12.301Z** `ingest` plot.xianni-ch1338-kill-zhou-tianzi — 第1338章 杀周天子：王林入七百万天地通道反杀窥涅修士 · kind=plot asOf=2026-08-25 entities=22 relations=36 src=01250-01254.p4.md
 - **2026-08-25T11:42:59.597Z** `ingest` plot.xianni-ch1339-buhuaihaoyi-zhoutianzi-slain-seven-million-worlds — 第1339章 不怀好意：王林灭周天子，踏入闪雷族七百万天地 · kind=plot asOf=2026-08-25 entities=26 relations=40 src=01250-01254.p5.md
+- **2026-08-25T11:45:18.206Z** `ingest` plot.xianni-1340-tianjie-tiandao-lubei-dujie — 第1340章 这就是天劫么！——王林化身天道，目睹鲁备渡劫身死 · kind=plot asOf=2026-08-25 entities=21 relations=30 src=01255-01259.p1.md
