@@ -3,12 +3,14 @@
   "type": "person",
   "name": "云遁族族长",
   "aliases": [
-    "云遁族的族长"
+    "云遁族的族长",
+    "云遁子"
   ],
   "summary": "修为远高于钟大洪，却因见到玉佩得知其背后主人身份而恭敬伺候，献上玉瓶厚礼求其美言。",
   "attributes": {
     "身份": "云遁族族长",
-    "阵营": "云遁族"
+    "阵营": "云遁族",
+    "种族": "云遁族"
   },
   "observations": {
     "身份": [
@@ -23,6 +25,13 @@
         "value": "云遁族",
         "docId": "plot.xianni-1389-tanlang-tale-diedluo-forest-statue-and-release",
         "seq": 1300
+      }
+    ],
+    "种族": [
+      {
+        "value": "云遁族",
+        "docId": "plot.xianni-1397-dadi-star-luoshenghui-elder-selection-arrival",
+        "seq": 1307
       }
     ]
   },
@@ -39,12 +48,19 @@
       "docId": "plot.xianni-1389-tanlang-tale-diedluo-forest-statue-and-release",
       "dated": false,
       "seq": 1300
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-1397-dadi-star-luoshenghui-elder-selection-arrival",
+      "dated": false,
+      "seq": 1307
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1389-tanlang-tale-diedluo-forest-statue-and-release"
+    "plot.xianni-1389-tanlang-tale-diedluo-forest-statue-and-release",
+    "plot.xianni-1397-dadi-star-luoshenghui-elder-selection-arrival"
   ],
-  "updatedAt": "2026-08-25T15:56:39.915Z"
+  "updatedAt": "2026-08-25T16:24:36.585Z"
 }
