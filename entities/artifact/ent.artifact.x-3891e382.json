@@ -4,14 +4,16 @@
   "name": "残破的雕像法宝",
   "aliases": [
     "残破雕像",
-    "贪狼的雕像法宝"
+    "贪狼的雕像法宝",
+    "残破的雕像",
+    "贪狼的最强之宝"
   ],
   "summary": "贪狼所持的神秘法宝，传闻中形如一个残破的雕像；祭出时云雾笼罩星域、太古般咆哮响起，一击灭绝天人第一衰修士，其力足以毁灭天人第三衰。",
   "attributes": {
-    "持有者": "贪狼",
-    "能力": "灭绝天人第一衰修士、灭绝之力足以毁灭第三衰、第四衰亦须大费周折方可无碍",
-    "外形": "残破的雕像",
-    "来历": "不明",
+    "持有者": "王林",
+    "能力": "灭绝天人第一衰修士、灭绝之力足以毁灭第三衰、第四衰亦须大费周折方可无碍、与雕像双目对视者心神被冲入虚无、显现超越太古星辰与界内的无边大陆异象、散发令修士如蝼蚁、天地屈服的威严",
+    "外形": "多处破损、样子诡异，所刻为一约中年、着流云道杉之人",
+    "来历": "来历不明，所刻之人身份成谜",
     "品阶": "超乎想象"
   },
   "observations": {
@@ -20,6 +22,12 @@
         "value": "贪狼",
         "docId": "character.xianni-1383-tanlang-origin",
         "seq": 1297
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang",
+        "seq": 1300,
+        "note": "本章自贪狼手中夺走；原持有者为贪狼"
       }
     ],
     "能力": [
@@ -37,6 +45,21 @@
         "value": "第四衰亦须大费周折方可无碍",
         "docId": "character.xianni-1383-tanlang-origin",
         "seq": 1297
+      },
+      {
+        "value": "与雕像双目对视者心神被冲入虚无",
+        "docId": "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang",
+        "seq": 1300
+      },
+      {
+        "value": "显现超越太古星辰与界内的无边大陆异象",
+        "docId": "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang",
+        "seq": 1300
+      },
+      {
+        "value": "散发令修士如蝼蚁、天地屈服的威严",
+        "docId": "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang",
+        "seq": 1300
       }
     ],
     "外形": [
@@ -44,6 +67,11 @@
         "value": "残破的雕像",
         "docId": "character.xianni-1383-tanlang-origin",
         "seq": 1297
+      },
+      {
+        "value": "多处破损、样子诡异，所刻为一约中年、着流云道杉之人",
+        "docId": "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang",
+        "seq": 1300
       }
     ],
     "来历": [
@@ -52,6 +80,11 @@
         "docId": "character.xianni-1383-tanlang-origin",
         "seq": 1297,
         "note": "仅有传闻描述，本章未交代出处"
+      },
+      {
+        "value": "来历不明，所刻之人身份成谜",
+        "docId": "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang",
+        "seq": 1300
       }
     ],
     "品阶": [
@@ -67,9 +100,10 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "character.xianni-1383-tanlang-origin",
+      "docId": "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang",
       "dated": false,
-      "seq": 1297
+      "seq": 1300,
+      "note": "本章自贪狼手中夺走；原持有者为贪狼"
     },
     "能力": {
       "asOf": null,
@@ -79,16 +113,15 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "character.xianni-1383-tanlang-origin",
+      "docId": "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang",
       "dated": false,
-      "seq": 1297
+      "seq": 1300
     },
     "来历": {
       "asOf": null,
-      "docId": "character.xianni-1383-tanlang-origin",
+      "docId": "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang",
       "dated": false,
-      "seq": 1297,
-      "note": "仅有传闻描述，本章未交代出处"
+      "seq": 1300
     },
     "品阶": {
       "asOf": null,
@@ -101,7 +134,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "character.xianni-1383-tanlang-origin"
+    "character.xianni-1383-tanlang-origin",
+    "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang"
   ],
-  "updatedAt": "2026-08-25T14:36:49.860Z"
+  "updatedAt": "2026-08-25T15:54:04.931Z"
 }

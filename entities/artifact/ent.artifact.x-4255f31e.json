@@ -4,12 +4,14 @@
   "name": "紫色玉瓶",
   "aliases": [
     "通体紫色的玉瓶",
-    "紫玉瓶"
+    "紫玉瓶",
+    "贪狼的紫色玉瓶"
   ],
   "summary": "紫衣青年储物袋中三样引人注意之物之一，通体紫色。",
   "attributes": {
     "外形": "通体紫色玉瓶",
-    "来历": "紫衣青年储物袋"
+    "来历": "贪狼所有",
+    "持有者": "王林"
   },
   "observations": {
     "外形": [
@@ -24,6 +26,19 @@
         "value": "紫衣青年储物袋",
         "docId": "plot.xianni-1146-tianni-second-perfection-hope",
         "seq": 1063
+      },
+      {
+        "value": "贪狼所有",
+        "docId": "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang",
+        "seq": 1300
+      }
+    ],
+    "持有者": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang",
+        "seq": 1300,
+        "note": "第1388章夺自贪狼"
       }
     ]
   },
@@ -37,16 +52,24 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-1146-tianni-second-perfection-hope",
+      "docId": "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang",
       "dated": false,
-      "seq": 1063
+      "seq": 1300
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang",
+      "dated": false,
+      "seq": 1300,
+      "note": "第1388章夺自贪狼"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1146-tianni-second-perfection-hope",
-    "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai"
+    "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai",
+    "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang"
   ],
-  "updatedAt": "2026-08-24T18:33:46.830Z"
+  "updatedAt": "2026-08-25T15:54:04.882Z"
 }
