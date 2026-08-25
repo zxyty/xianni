@@ -15,9 +15,10 @@
   "attributes": {
     "上级区域": "古墓",
     "类型": "古墓分区、古墓分层地图、古墓分区地图、古墓地图区域、地图空间区域",
-    "危险度": "多空间乱流",
+    "危险度": "无尽空间乱流",
     "方位": "第八张地图之后",
-    "所属界面": "古墓"
+    "所属界面": "古墓",
+    "特产": "地府（自虚空裂缝取出）"
   },
   "observations": {
     "上级区域": [
@@ -64,6 +65,11 @@
         "value": "多空间乱流",
         "docId": "plot.xianni-1472-seven-star-ancient-god",
         "seq": 1380
+      },
+      {
+        "value": "无尽空间乱流",
+        "docId": "plot.xianni-1478-return-home-luotian",
+        "seq": 1385
       }
     ],
     "方位": [
@@ -78,6 +84,13 @@
         "value": "古墓",
         "docId": "plot.xianni-ch1466-nine-tier-tomb-platform-clap",
         "seq": 1375
+      }
+    ],
+    "特产": [
+      {
+        "value": "地府（自虚空裂缝取出）",
+        "docId": "plot.xianni-1478-return-home-luotian",
+        "seq": 1385
       }
     ]
   },
@@ -97,9 +110,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-1472-seven-star-ancient-god",
+      "docId": "plot.xianni-1478-return-home-luotian",
       "dated": false,
-      "seq": 1380
+      "seq": 1385
     },
     "方位": {
       "asOf": null,
@@ -112,6 +125,12 @@
       "docId": "plot.xianni-ch1466-nine-tier-tomb-platform-clap",
       "dated": false,
       "seq": 1375
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-1478-return-home-luotian",
+      "dated": false,
+      "seq": 1385
     }
   },
   "contested": false,
@@ -123,7 +142,8 @@
     "plot.xianni-1465-living-ancient-yao-seal",
     "plot.xianni-ch1466-nine-tier-tomb-platform-clap",
     "plot.xianni-ch1467-ancient-tomb-upheaval",
-    "plot.xianni-1472-seven-star-ancient-god"
+    "plot.xianni-1472-seven-star-ancient-god",
+    "plot.xianni-1478-return-home-luotian"
   ],
-  "updatedAt": "2026-08-25T21:50:39.096Z"
+  "updatedAt": "2026-08-25T22:05:26.919Z"
 }

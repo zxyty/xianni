@@ -9,7 +9,8 @@
   "summary": "宫殿虚空中的阻拦之物，阻挡拓森进入石台区域，被其连番轰击后凸起并裂开。",
   "attributes": {
     "布置者": "拓森",
-    "效果": "隔绝外人进入战场"
+    "效果": "阻拦外来者进入宫殿石台、隔绝外人进入战场、单向遮蔽——网外看不到网内",
+    "破解法": "被王林徒手撕开"
   },
   "observations": {
     "布置者": [
@@ -35,6 +36,18 @@
         "value": "隔绝外人进入战场",
         "docId": "plot.xianni-1476-suming-second-battle-2",
         "seq": 1385
+      },
+      {
+        "value": "单向遮蔽——网外看不到网内",
+        "docId": "plot.xianni-1478-return-home-luotian",
+        "seq": 1385
+      }
+    ],
+    "破解法": [
+      {
+        "value": "被王林徒手撕开",
+        "docId": "plot.xianni-1478-return-home-luotian",
+        "seq": 1385
       }
     ]
   },
@@ -49,7 +62,13 @@
     },
     "效果": {
       "asOf": null,
-      "docId": "plot.xianni-1476-suming-second-battle-2",
+      "docId": "plot.xianni-1471-inheritance-three-seventh-star-vs-tuosen",
+      "dated": false,
+      "seq": 1380
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.xianni-1478-return-home-luotian",
       "dated": false,
       "seq": 1385
     }
@@ -58,7 +77,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-1471-inheritance-three-seventh-star-vs-tuosen",
-    "plot.xianni-1476-suming-second-battle-2"
+    "plot.xianni-1476-suming-second-battle-2",
+    "plot.xianni-1478-return-home-luotian"
   ],
-  "updatedAt": "2026-08-25T22:00:41.313Z"
+  "updatedAt": "2026-08-25T22:05:26.916Z"
 }
