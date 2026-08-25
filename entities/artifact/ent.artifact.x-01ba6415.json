@@ -6,13 +6,17 @@
     "中年男子石像",
     "掐诀石像",
     "石像",
-    "雕像"
+    "雕像",
+    "神秘雕像",
+    "刻人雕像"
   ],
   "summary": "破灭禁之山山顶十多丈高的石像，雕刻剑柄男子与身旁飞剑、剑尖之人，右手掐极复杂印诀，可摄人元神并引发仙人战天幻象。",
   "attributes": {
     "能力": "透出禁制气息与威严、目视其手诀可致心神震动、元神欲离体、引动仙人与天而战的幻象、吸收血雾、元神与魂魄",
     "外形": "石像/雕像",
-    "禁制": "石像右手所掐印诀看似简单实则极为复杂"
+    "禁制": "石像右手所掐印诀看似简单实则极为复杂",
+    "持有者": "王林",
+    "来历": "未明"
   },
   "observations": {
     "能力": [
@@ -55,6 +59,20 @@
         "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
         "seq": 706
       }
+    ],
+    "持有者": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-1392-sixth-generation-zhuque",
+        "seq": 1303
+      }
+    ],
+    "来历": [
+      {
+        "value": "未明",
+        "docId": "plot.xianni-1392-sixth-generation-zhuque",
+        "seq": 1303
+      }
     ]
   },
   "firstSeq": 706,
@@ -76,13 +94,26 @@
       "docId": "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
       "dated": false,
       "seq": 706
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.xianni-1392-sixth-generation-zhuque",
+      "dated": false,
+      "seq": 1303
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-1392-sixth-generation-zhuque",
+      "dated": false,
+      "seq": 1303
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch706-710-lei-xian-jie-suo-lian-jinzhi-laozhe-youyuanren",
-    "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark"
+    "plot.xianni-c750-nu-yin-li-yuan-ancestor-slave-mark",
+    "plot.xianni-1392-sixth-generation-zhuque"
   ],
-  "updatedAt": "2026-08-23T05:24:24.001Z"
+  "updatedAt": "2026-08-25T16:10:34.943Z"
 }

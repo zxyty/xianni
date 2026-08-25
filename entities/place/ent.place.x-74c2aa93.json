@@ -11,11 +11,11 @@
   ],
   "summary": "玄道宗内王林闭关化神所在的山崖洞府；石壁封洞，出关时轰然打开。",
   "attributes": {
-    "类型": "洞府/圣地",
+    "类型": "修士洞府",
     "所属势力": "王林",
     "方位": "颠落之地修真星上",
     "特产": "奇花异草、养金色小鱼的池水、错落厅阁",
-    "守护": "洞府禁制与幻化巨手、洞府之灵、仙卫傀儡、凌天候的两道剑气、雷兽、王林所布禁制",
+    "守护": "洞府禁制与幻化巨手、洞府之灵、仙卫傀儡、凌天候的两道剑气、雷兽、王林所布禁制、王林所设禁制（可自动开合）、洞府禁制",
     "危险度": "高（多重未解禁制）",
     "所属界面": "罗天星域",
     "上级区域": "暗蝎族废弃修真星",
@@ -42,6 +42,11 @@
         "value": "洞府/圣地",
         "docId": "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
         "seq": 1288
+      },
+      {
+        "value": "修士洞府",
+        "docId": "plot.xianni-1392-sixth-generation-zhuque",
+        "seq": 1303
       }
     ],
     "所属势力": [
@@ -125,6 +130,17 @@
         "value": "王林所布禁制",
         "docId": "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
         "seq": 1288
+      },
+      {
+        "value": "王林所设禁制（可自动开合）",
+        "docId": "plot.xianni-1392-sixth-generation-zhuque",
+        "seq": 1303
+      },
+      {
+        "value": "洞府禁制",
+        "docId": "plot.xianni-1392-sixth-generation-zhuque",
+        "seq": 1303,
+        "note": "被青气直接穿透"
       }
     ],
     "危险度": [
@@ -160,9 +176,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
+      "docId": "plot.xianni-1392-sixth-generation-zhuque",
       "dated": false,
-      "seq": 1288
+      "seq": 1303
     },
     "所属势力": {
       "asOf": null,
@@ -223,7 +239,8 @@
     "plot.xianni-ch844-devour-yao-bingyun-yuanli-fengxian",
     "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
     "character.xianni-1383-tanlang-origin",
-    "plot.xianni-1391-pian-dao-blood-bait-and-xu-liguo"
+    "plot.xianni-1391-pian-dao-blood-bait-and-xu-liguo",
+    "plot.xianni-1392-sixth-generation-zhuque"
   ],
-  "updatedAt": "2026-08-25T16:02:47.532Z"
+  "updatedAt": "2026-08-25T16:10:34.952Z"
 }

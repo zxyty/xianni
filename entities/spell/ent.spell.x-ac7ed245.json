@@ -3,13 +3,14 @@
   "type": "spell",
   "name": "搜神术",
   "aliases": [
-    "搜神"
+    "搜神",
+    "搜神之术"
   ],
   "summary": "提取他人元神神识记忆的法术，被搜者神识剧痛并渐渐消散。",
   "attributes": {
-    "类型": "神识类神通",
-    "消耗": "需强大修为压制目标",
-    "威力": "可读取目标毕生记忆"
+    "类型": "神识/搜魂类、元神搜魂类、神魂类神通、神识类神通、神识/记忆类神通、神识/搜魂类神通",
+    "消耗": "以神识顺手掌进入对方天灵",
+    "威力": "尽取对方记忆、可读取目标毕生记忆、可读取真实记忆、可伤对方心神，修为高且谨慎则无损"
   },
   "observations": {
     "类型": [
@@ -32,6 +33,16 @@
         "value": "神识类神通",
         "docId": "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
         "seq": 1242
+      },
+      {
+        "value": "神识/记忆类神通",
+        "docId": "plot.xianni-1392-sixth-generation-zhuque",
+        "seq": 1303
+      },
+      {
+        "value": "神识/搜魂类神通",
+        "docId": "plot.xianni-1392-sixth-generation-zhuque",
+        "seq": 1303
       }
     ],
     "消耗": [
@@ -49,6 +60,11 @@
         "value": "需强大修为压制目标",
         "docId": "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
         "seq": 1242
+      },
+      {
+        "value": "以神识顺手掌进入对方天灵",
+        "docId": "plot.xianni-1392-sixth-generation-zhuque",
+        "seq": 1303
       }
     ],
     "威力": [
@@ -61,6 +77,17 @@
         "value": "可读取目标毕生记忆",
         "docId": "plot.xianni-ch1322-mentu-xianghuo-fengxianyin-fusion",
         "seq": 1237
+      },
+      {
+        "value": "可读取真实记忆",
+        "docId": "plot.xianni-1392-sixth-generation-zhuque",
+        "seq": 1303,
+        "note": "对骗道第二境巅峰者完全失效"
+      },
+      {
+        "value": "可伤对方心神，修为高且谨慎则无损",
+        "docId": "plot.xianni-1392-sixth-generation-zhuque",
+        "seq": 1303
       }
     ]
   },
@@ -68,21 +95,21 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
+      "docId": "plot.xianni-ch768-769-xuanchen-star-betrayal-xu-mu-exposed",
       "dated": false,
-      "seq": 1242
+      "seq": 768
     },
     "消耗": {
       "asOf": null,
-      "docId": "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
+      "docId": "plot.xianni-1392-sixth-generation-zhuque",
       "dated": false,
-      "seq": 1242
+      "seq": 1303
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-ch1322-mentu-xianghuo-fengxianyin-fusion",
+      "docId": "plot.xianni-1202-zhong-dao-cangsongzi-slain",
       "dated": false,
-      "seq": 1237
+      "seq": 1119
     }
   },
   "contested": false,
@@ -92,7 +119,8 @@
     "plot.xianni-ch896-shi-yin-zong-zhu-que-star-wang-family-rescue",
     "plot.xianni-1202-zhong-dao-cangsongzi-slain",
     "plot.xianni-ch1322-mentu-xianghuo-fengxianyin-fusion",
-    "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam"
+    "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
+    "plot.xianni-1392-sixth-generation-zhuque"
   ],
-  "updatedAt": "2026-08-25T10:35:24.564Z"
+  "updatedAt": "2026-08-25T16:10:34.947Z"
 }

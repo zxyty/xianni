@@ -15,17 +15,23 @@
     "储物空间内的银衣女子",
     "银衣女尸厉害之物",
     "洞府中的银衣女子",
-    "盘膝银衣女子"
+    "盘膝银衣女子",
+    "银衣之女",
+    "赤足银衣女",
+    "苏醒记忆的银衣女子",
+    "失忆银衣女子",
+    "疑似远古八妃之一"
   ],
   "summary": "从司徒南神通中走出的银衣女子，浮风子看向她时心底有些疑惑。",
   "attributes": {
     "性别": "女",
-    "外貌": "银衣，盘膝而坐",
+    "外貌": "银衣、银衣、娇躯、银衣，玉手，眼中茫然、银衣女子、银衣，盘膝而坐、美丽至极，银衣赤足，银光如月、面部青气游走形成诡异印记，如同罗刹",
     "称号": "银尸",
     "身份": "王林麾下战力/护法、王林麾下、执行命令如使命、守护者、王林储物袋中召出的助力、王林熟悉之人、王林储物空间中的存在、王林护法女尸、随王林同行、被收入储物空间、受王林驱使、居于其储物空间、身份不明、身份未明",
     "性格": "冷漠，声音冰冷",
-    "标志特征": "记忆模糊，仅存「一些记忆」，却精擅生死禁",
-    "阵营": "王林一方"
+    "标志特征": "记忆模糊，仅存「一些记忆」，却精擅生死禁、已苏醒一些记忆、反复喃喃「门不是我打开的」；曾言「香火有毒」",
+    "阵营": "王林一方",
+    "存殁": "存活（章末昏迷，被王林以禁制封身并施搜神术）"
   },
   "observations": {
     "性别": [
@@ -60,6 +66,17 @@
         "value": "银衣，盘膝而坐",
         "docId": "plot.xianni-1276-water-daoist-counterattack-shenche-destroyed",
         "seq": 1191
+      },
+      {
+        "value": "美丽至极，银衣赤足，银光如月",
+        "docId": "plot.xianni-1392-sixth-generation-zhuque",
+        "seq": 1303
+      },
+      {
+        "value": "面部青气游走形成诡异印记，如同罗刹",
+        "docId": "plot.xianni-1392-sixth-generation-zhuque",
+        "seq": 1303,
+        "note": "异变发作时，本貌为美丽女子"
       }
     ],
     "称号": [
@@ -155,6 +172,16 @@
         "value": "记忆模糊，仅存「一些记忆」，却精擅生死禁",
         "docId": "plot.xianni-ch1195-seven-colored-nail",
         "seq": 1110
+      },
+      {
+        "value": "已苏醒一些记忆",
+        "docId": "plot.xianni-1392-sixth-generation-zhuque",
+        "seq": 1303
+      },
+      {
+        "value": "反复喃喃「门不是我打开的」；曾言「香火有毒」",
+        "docId": "plot.xianni-1392-sixth-generation-zhuque",
+        "seq": 1303
       }
     ],
     "阵营": [
@@ -162,6 +189,13 @@
         "value": "王林一方",
         "docId": "plot.xianni-1271-deng-ni-dao-lai-wang-lin-po-jian-feng-yin-bu-zhen",
         "seq": 1187
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活（章末昏迷，被王林以禁制封身并施搜神术）",
+        "docId": "plot.xianni-1392-sixth-generation-zhuque",
+        "seq": 1303
       }
     ]
   },
@@ -175,9 +209,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-1276-water-daoist-counterattack-shenche-destroyed",
+      "docId": "plot.xianni-ch997-xukongzi-arrival",
       "dated": false,
-      "seq": 1191
+      "seq": 926
     },
     "称号": {
       "asOf": null,
@@ -209,6 +243,12 @@
       "docId": "plot.xianni-1271-deng-ni-dao-lai-wang-lin-po-jian-feng-yin-bu-zhen",
       "dated": false,
       "seq": 1187
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1392-sixth-generation-zhuque",
+      "dated": false,
+      "seq": 1303
     }
   },
   "contested": false,
@@ -233,7 +273,8 @@
     "plot.xianni-ch1273-water-daozi-arrival-first-clash",
     "plot.xianni-1276-water-daoist-counterattack-shenche-destroyed",
     "plot.xianni-1277-rebirth-seven-color-nails-vs-shui-daozi",
-    "plot.xianni-1334-frightening-guess-thunder-seal-study"
+    "plot.xianni-1334-frightening-guess-thunder-seal-study",
+    "plot.xianni-1392-sixth-generation-zhuque"
   ],
-  "updatedAt": "2026-08-25T11:25:36.726Z"
+  "updatedAt": "2026-08-25T16:10:34.937Z"
 }
