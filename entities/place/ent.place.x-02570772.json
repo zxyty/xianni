@@ -15,7 +15,8 @@
     "类型": "古墓分层地图、古墓分区地图、古墓地图区域",
     "危险度": "入口即有致命危机",
     "特产": "三处封印之地（神/妖/魔）",
-    "方位": "位于第七张地图之后、第九张地图之前"
+    "方位": "位于第七张地图之后、第九张地图之前",
+    "所属界面": "古墓"
   },
   "observations": {
     "上级区域": [
@@ -62,6 +63,13 @@
         "docId": "plot.xianni-1465-living-ancient-yao-seal",
         "seq": 1375
       }
+    ],
+    "所属界面": [
+      {
+        "value": "古墓",
+        "docId": "plot.xianni-ch1466-nine-tier-tomb-platform-clap",
+        "seq": 1375
+      }
     ]
   },
   "firstSeq": 1370,
@@ -95,6 +103,12 @@
       "docId": "plot.xianni-1465-living-ancient-yao-seal",
       "dated": false,
       "seq": 1375
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1466-nine-tier-tomb-platform-clap",
+      "dated": false,
+      "seq": 1375
     }
   },
   "contested": false,
@@ -102,7 +116,8 @@
   "docs": [
     "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
     "plot.xianni-1464-who-is-faster-eighth-tier-tomb-platform",
-    "plot.xianni-1465-living-ancient-yao-seal"
+    "plot.xianni-1465-living-ancient-yao-seal",
+    "plot.xianni-ch1466-nine-tier-tomb-platform-clap"
   ],
-  "updatedAt": "2026-08-25T21:24:33.884Z"
+  "updatedAt": "2026-08-25T21:27:05.430Z"
 }

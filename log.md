@@ -833,3 +833,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T21:19:26.665Z** `ingest` plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight — 第1463章 作弊：王林自造符文印记，墓台连升至八阶 · kind=plot asOf=2026-08-25 entities=21 relations=33 src=01370-01374.p5.md
 - **2026-08-25T21:21:35.693Z** `ingest` plot.xianni-1464-who-is-faster-eighth-tier-tomb-platform — 《仙逆》第1464章 谁快！——王林首成八阶墓台，三方强者围杀 · kind=plot asOf=2026-08-25 entities=18 relations=28 src=01375-01379.p1.md
 - **2026-08-25T21:24:34.239Z** `ingest` plot.xianni-1465-living-ancient-yao-seal — 第1465章 活着的古妖：仙妃阻隔山指、王林入古妖漩涡制符 · kind=plot asOf=2026-08-25 entities=28 relations=40 src=01375-01379.p2.md
+- **2026-08-25T21:27:05.829Z** `ingest` plot.xianni-ch1466-nine-tier-tomb-platform-clap — 第1466章 拍手一次：王林九阶墓台引来巨手，古墓横扫、虚无被撕开 · kind=plot asOf=2026-08-25 entities=27 relations=33 src=01375-01379.p3.md

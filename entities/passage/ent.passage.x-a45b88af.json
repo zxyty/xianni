@@ -5,13 +5,16 @@
   "aliases": [
     "虚无裂缝",
     "百丈裂缝",
-    "虚空巨缝"
+    "虚空巨缝",
+    "被撕开的裂缝",
+    "巨手撕开的裂缝"
   ],
   "summary": "位于四派联盟境内万里高空虚无之中的巨大裂缝，长约百丈，被禁制掩饰，雪花自其中吹出，且对神识有吸扯之力；数万里内不下百个，全境疑有无数。",
   "attributes": {
-    "类型": "虚空裂缝",
+    "类型": "空间裂缝",
     "坐标": "四派联盟境内万里高空之上的虚无",
-    "来历": "来源不明，与大雪及大战征召同时出现"
+    "来历": "古墓巨大手臂拍合后向外拉扯撕开",
+    "两端": "古墓第八张地图 ↔ 裂缝内的奇异世界"
   },
   "observations": {
     "类型": [
@@ -19,6 +22,11 @@
         "value": "虚空裂缝",
         "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
         "seq": 248
+      },
+      {
+        "value": "空间裂缝",
+        "docId": "plot.xianni-ch1466-nine-tier-tomb-platform-clap",
+        "seq": 1375
       }
     ],
     "坐标": [
@@ -33,6 +41,18 @@
         "value": "来源不明，与大雪及大战征召同时出现",
         "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
         "seq": 248
+      },
+      {
+        "value": "古墓巨大手臂拍合后向外拉扯撕开",
+        "docId": "plot.xianni-ch1466-nine-tier-tomb-platform-clap",
+        "seq": 1375
+      }
+    ],
+    "两端": [
+      {
+        "value": "古墓第八张地图 ↔ 裂缝内的奇异世界",
+        "docId": "plot.xianni-ch1466-nine-tier-tomb-platform-clap",
+        "seq": 1375
       }
     ]
   },
@@ -40,9 +60,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+      "docId": "plot.xianni-ch1466-nine-tier-tomb-platform-clap",
       "dated": false,
-      "seq": 248
+      "seq": 1375
     },
     "坐标": {
       "asOf": null,
@@ -52,15 +72,22 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+      "docId": "plot.xianni-ch1466-nine-tier-tomb-platform-clap",
       "dated": false,
-      "seq": 248
+      "seq": 1375
+    },
+    "两端": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1466-nine-tier-tomb-platform-clap",
+      "dated": false,
+      "seq": 1375
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment"
+    "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
+    "plot.xianni-ch1466-nine-tier-tomb-platform-clap"
   ],
-  "updatedAt": "2026-08-02T09:25:44.553Z"
+  "updatedAt": "2026-08-25T21:27:05.433Z"
 }
