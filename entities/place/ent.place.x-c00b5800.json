@@ -5,16 +5,18 @@
   "aliases": [
     "漂浮的平台",
     "千丈平台",
-    "九十九个无防护平台"
+    "九十九个无防护平台",
+    "雾内千丈平台"
   ],
   "summary": "古墓中半空漂浮的千丈平台，其上放置古神或古妖头颅；原有防护阻止踏入，古墓关闭时恰有九十九个防护消散，成为唯一避开雾柱的立足点，但一台只容一人，二人同踏即连台湮灭。",
   "attributes": {
     "所属界面": "太古星辰",
     "类型": "漂浮平台",
     "规模": "约千丈大小",
-    "上级区域": "古之墓地",
+    "上级区域": "封印之地",
     "危险度": "同时踏入两人以上则平台连人带头颅被千丈雾气湮灭",
-    "守护": "排斥防护之力（九十九个已消散）"
+    "守护": "排斥防护之力（九十九个已消散）",
+    "方位": "红雾禁制深处"
   },
   "observations": {
     "所属界面": [
@@ -43,6 +45,11 @@
         "value": "古之墓地",
         "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
         "seq": 1346
+      },
+      {
+        "value": "封印之地",
+        "docId": "plot.xianni-ch1447-who-is-the-oriole",
+        "seq": 1355
       }
     ],
     "危险度": [
@@ -57,6 +64,13 @@
         "value": "排斥防护之力（九十九个已消散）",
         "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
         "seq": 1346
+      }
+    ],
+    "方位": [
+      {
+        "value": "红雾禁制深处",
+        "docId": "plot.xianni-ch1447-who-is-the-oriole",
+        "seq": 1355
       }
     ]
   },
@@ -82,9 +96,9 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
+      "docId": "plot.xianni-ch1447-who-is-the-oriole",
       "dated": false,
-      "seq": 1346
+      "seq": 1355
     },
     "危险度": {
       "asOf": null,
@@ -97,12 +111,19 @@
       "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
       "dated": false,
       "seq": 1346
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1447-who-is-the-oriole",
+      "dated": false,
+      "seq": 1355
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1346-1349-ancient-tomb-opens"
+    "plot.xianni-ch1346-1349-ancient-tomb-opens",
+    "plot.xianni-ch1447-who-is-the-oriole"
   ],
-  "updatedAt": "2026-08-25T19:09:07.479Z"
+  "updatedAt": "2026-08-25T19:27:00.074Z"
 }

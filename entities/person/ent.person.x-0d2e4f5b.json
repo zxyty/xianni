@@ -6,16 +6,18 @@
     "萧道友",
     "Xiao Jing",
     "拿羽扇的中年文士",
-    "萧某"
+    "萧某",
+    "萧靖小辈"
   ],
   "summary": "手持羽扇的中年文士，修为仅天人第三衰却能位列九人之一；判定红雾禁制为古魂禁、自称两成把握，被王林看出心机深沉、或亦觊觎道灵。",
   "attributes": {
     "外貌": "中年文士，手持羽扇，双目眯起其内光芒闪烁、中年文士，手持羽扇；一度全身腐烂成腐尸",
     "性格": "温和外表下心机深沉、谋多、阴森、贪婪、善于设局",
-    "标志特征": "嘴角闪过嘲讽",
+    "标志特征": "嘴角闪过嘲讽、擅长禁制",
     "性别": "男",
     "身份": "灵动上人一方受信任的破禁修士",
-    "存殁": "存活"
+    "存殁": "存活",
+    "阵营": "灵动上人一方"
   },
   "observations": {
     "外貌": [
@@ -48,6 +50,11 @@
         "value": "嘴角闪过嘲讽",
         "docId": "plot.xianni-ch1445-second-tier-tomb-platform",
         "seq": 1355
+      },
+      {
+        "value": "擅长禁制",
+        "docId": "plot.xianni-ch1447-who-is-the-oriole",
+        "seq": 1355
       }
     ],
     "性别": [
@@ -70,6 +77,14 @@
         "docId": "plot.xianni-ch1446-mantis-stalks-cicada-red-mist-seal",
         "seq": 1355,
         "note": "曾伪装被红雾吞噬身亡，后又腐烂成尸并复原"
+      }
+    ],
+    "阵营": [
+      {
+        "value": "灵动上人一方",
+        "docId": "plot.xianni-ch1447-who-is-the-oriole",
+        "seq": 1355,
+        "note": "实怀野心，已被识破"
       }
     ]
   },
@@ -111,13 +126,21 @@
       "dated": false,
       "seq": 1355,
       "note": "曾伪装被红雾吞噬身亡，后又腐烂成尸并复原"
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1447-who-is-the-oriole",
+      "dated": false,
+      "seq": 1355,
+      "note": "实怀野心，已被识破"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1445-second-tier-tomb-platform",
-    "plot.xianni-ch1446-mantis-stalks-cicada-red-mist-seal"
+    "plot.xianni-ch1446-mantis-stalks-cicada-red-mist-seal",
+    "plot.xianni-ch1447-who-is-the-oriole"
   ],
-  "updatedAt": "2026-08-25T19:24:23.509Z"
+  "updatedAt": "2026-08-25T19:27:00.063Z"
 }
