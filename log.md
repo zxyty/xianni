@@ -794,3 +794,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T17:34:54.495Z** `ingest` plot.xianni-1422-feng-xianghuo-jie — 仙逆 第1422章 封香火界！——王林太古雷界对轰香火风暴、古息叶封界 · kind=plot asOf=2026-08-25 entities=29 relations=36 src=01331-01335.p2.md
 - **2026-08-25T17:37:10.212Z** `ingest` plot.xianni-ch1423-wanglin-tianhuanglu-refines-simozi — 第1423章 人杰！——王林以天皇炉炼化第三步大能司墨子 · kind=plot asOf=2026-08-25 entities=24 relations=33 src=01331-01335.p3.md
 - **2026-08-25T17:44:09.407Z** `ingest` lore.xianni-1424-meng-dao-zhong-mo — 第1424章 梦道种魔：王林第三神通「梦回道古」的由来与原理 · kind=lore asOf=2026-08-25 entities=43 relations=65 src=01331-01335.p4.md
+- **2026-08-25T17:46:32.009Z** `ingest` plot.xianni-ch1425-sima-mo-memory-village-massacre-mengdao — 第1425章 或许会有这一天……——司墨子（司马墨）灭门血仇往事与梦道之术终局 · kind=plot asOf=2026-08-25 entities=23 relations=32 src=01331-01335.p5.md

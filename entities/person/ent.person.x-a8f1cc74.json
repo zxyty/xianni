@@ -4,13 +4,16 @@
   "name": "虹虹",
   "aliases": [
     "虹虹姐",
-    "虎子的姐姐"
+    "虎子的姐姐",
+    "虎子他姐姐"
   ],
   "summary": "同村女子，虎子之姐，司马墨少年时的心上人；后已另有心上人。",
   "attributes": {
     "性别": "女",
     "身份": "虎子之姐、司马墨少年时的意中人",
-    "出身地": "司马墨兄妹所在的凡人村庄"
+    "出身地": "司马墨兄妹所在的凡人村庄",
+    "存殁": "死亡",
+    "死因": "马帮屠村"
   },
   "observations": {
     "性别": [
@@ -31,6 +34,20 @@
       {
         "value": "司马墨兄妹所在的凡人村庄",
         "docId": "lore.xianni-1424-meng-dao-zhong-mo",
+        "seq": 1331
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch1425-sima-mo-memory-village-massacre-mengdao",
+        "seq": 1331
+      }
+    ],
+    "死因": [
+      {
+        "value": "马帮屠村",
+        "docId": "plot.xianni-ch1425-sima-mo-memory-village-massacre-mengdao",
         "seq": 1331
       }
     ]
@@ -54,12 +71,25 @@
       "docId": "lore.xianni-1424-meng-dao-zhong-mo",
       "dated": false,
       "seq": 1331
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1425-sima-mo-memory-village-massacre-mengdao",
+      "dated": false,
+      "seq": 1331
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1425-sima-mo-memory-village-massacre-mengdao",
+      "dated": false,
+      "seq": 1331
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.xianni-1424-meng-dao-zhong-mo"
+    "lore.xianni-1424-meng-dao-zhong-mo",
+    "plot.xianni-ch1425-sima-mo-memory-village-massacre-mengdao"
   ],
-  "updatedAt": "2026-08-25T17:44:09.041Z"
+  "updatedAt": "2026-08-25T17:46:31.569Z"
 }
