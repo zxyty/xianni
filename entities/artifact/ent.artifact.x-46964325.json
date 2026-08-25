@@ -4,12 +4,15 @@
   "name": "女子短剑",
   "aliases": [
     "短剑",
-    "女子使用的短剑"
+    "女子使用的短剑",
+    "被封印的短剑"
   ],
   "summary": "周佚冲出后金龙崩溃消散，点点金芒中留下的一把女子使用的短剑，飘在大剑之旁，二剑「好似一对夫妻」。",
   "attributes": {
     "外形": "短剑",
-    "来历": "金龙崩溃消散后所留"
+    "来历": "金龙崩溃消散后所留",
+    "持有者": "王林",
+    "禁制": "封印已解开"
   },
   "observations": {
     "外形": [
@@ -24,6 +27,21 @@
         "value": "金龙崩溃消散后所留",
         "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
         "seq": 304
+      }
+    ],
+    "持有者": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch1273-water-daozi-arrival-first-clash",
+        "seq": 1187
+      }
+    ],
+    "禁制": [
+      {
+        "value": "封印已解开",
+        "docId": "plot.xianni-ch1273-water-daozi-arrival-first-clash",
+        "seq": 1187,
+        "note": "本章前已解封"
       }
     ]
   },
@@ -40,12 +58,26 @@
       "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
       "dated": false,
       "seq": 304
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1273-water-daozi-arrival-first-clash",
+      "dated": false,
+      "seq": 1187
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1273-water-daozi-arrival-first-clash",
+      "dated": false,
+      "seq": 1187,
+      "note": "本章前已解封"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void"
+    "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
+    "plot.xianni-ch1273-water-daozi-arrival-first-clash"
   ],
-  "updatedAt": "2026-08-08T05:44:31.216Z"
+  "updatedAt": "2026-08-25T05:37:15.540Z"
 }
