@@ -839,3 +839,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T21:43:21.916Z** `ingest` plot.xianni-1469-chuancheng-1-daogu-yemo-battle-vision — 仙逆 第1469章 传承（一）：王林化身道古烨寞，李广一箭射落左目 · kind=plot asOf=2026-08-25 entities=17 relations=23 src=01380-01384.p1.md
 - **2026-08-25T21:45:56.560Z** `ingest` plot.xianni-ch1470-daogu-inheritance-chair-resistance — 第1470章 传承（二）：石椅意志排斥与古墓三层真相 · kind=plot asOf=2026-08-25 entities=22 relations=33 src=01380-01384.p2.md
 - **2026-08-25T21:48:03.947Z** `ingest` plot.xianni-1471-inheritance-three-seventh-star-vs-tuosen — 第1471章 传承（三）：十七息苦坐道古之椅，七星将成、古神尸砸退拓森 · kind=plot asOf=2026-08-25 entities=18 relations=25 src=01380-01384.p3.md
+- **2026-08-25T21:50:39.576Z** `ingest` plot.xianni-1472-seven-star-ancient-god — 第1472章 七星古神——王林十八息成千丈王族七星古神，神识连座椅遍照古墓三层 · kind=plot asOf=2026-08-25 entities=25 relations=36 src=01380-01384.p4.md

@@ -8,13 +8,14 @@
     "古墓第九张地图",
     "第九副地图",
     "古墓第九图",
-    "九阶地图"
+    "九阶地图",
+    "第九幅地图区域"
   ],
   "summary": "古墓地图的最末一幅；王林判断真正的通关要求并非最快进入此处，而是第一个成为九阶墓台。",
   "attributes": {
     "上级区域": "古墓",
-    "类型": "古墓分区、古墓分层地图、古墓分区地图、古墓地图区域",
-    "危险度": "极高（空间乱流密布，行进被迫放缓）",
+    "类型": "古墓分区、古墓分层地图、古墓分区地图、古墓地图区域、地图空间区域",
+    "危险度": "多空间乱流",
     "方位": "第八张地图之后",
     "所属界面": "古墓"
   },
@@ -46,6 +47,11 @@
         "value": "古墓地图区域",
         "docId": "plot.xianni-1465-living-ancient-yao-seal",
         "seq": 1375
+      },
+      {
+        "value": "地图空间区域",
+        "docId": "plot.xianni-1472-seven-star-ancient-god",
+        "seq": 1380
       }
     ],
     "危险度": [
@@ -53,6 +59,11 @@
         "value": "极高（空间乱流密布，行进被迫放缓）",
         "docId": "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
         "seq": 1370
+      },
+      {
+        "value": "多空间乱流",
+        "docId": "plot.xianni-1472-seven-star-ancient-god",
+        "seq": 1380
       }
     ],
     "方位": [
@@ -86,9 +97,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
+      "docId": "plot.xianni-1472-seven-star-ancient-god",
       "dated": false,
-      "seq": 1370
+      "seq": 1380
     },
     "方位": {
       "asOf": null,
@@ -111,7 +122,8 @@
     "plot.xianni-1464-who-is-faster-eighth-tier-tomb-platform",
     "plot.xianni-1465-living-ancient-yao-seal",
     "plot.xianni-ch1466-nine-tier-tomb-platform-clap",
-    "plot.xianni-ch1467-ancient-tomb-upheaval"
+    "plot.xianni-ch1467-ancient-tomb-upheaval",
+    "plot.xianni-1472-seven-star-ancient-god"
   ],
-  "updatedAt": "2026-08-25T21:34:24.771Z"
+  "updatedAt": "2026-08-25T21:50:39.096Z"
 }

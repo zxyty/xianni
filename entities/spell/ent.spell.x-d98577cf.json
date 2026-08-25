@@ -2,12 +2,15 @@
   "id": "ent.spell.x-d98577cf",
   "type": "spell",
   "name": "群狼拜月",
-  "aliases": [],
+  "aliases": [
+    "群狼拜月神通"
+  ],
   "summary": "周谨施展的三步大能之术：香火之魂扩散成扭曲之相，双臂钻出狼牙断裂化作不下数十万头凶狼，天空幻化血色月亮并弥漫威压；本章被天皇帝炉笼罩而未能彻底施展。",
   "attributes": {
-    "类型": "香火类神通",
+    "类型": "召唤/血月镇压",
     "适用境界": "三步大能之术",
-    "威力": "化不下数十万凶狼，幻化血色月亮、威压弥漫"
+    "威力": "数十万虚化之狼汇成血月一击",
+    "出处": "奉天狼族"
   },
   "observations": {
     "类型": [
@@ -15,6 +18,11 @@
         "value": "香火类神通",
         "docId": "plot.xianni-ch1461-zhijie-fengsha-fengjin-zhoujin",
         "seq": 1370
+      },
+      {
+        "value": "召唤/血月镇压",
+        "docId": "plot.xianni-1472-seven-star-ancient-god",
+        "seq": 1380
       }
     ],
     "适用境界": [
@@ -29,6 +37,18 @@
         "value": "化不下数十万凶狼，幻化血色月亮、威压弥漫",
         "docId": "plot.xianni-ch1461-zhijie-fengsha-fengjin-zhoujin",
         "seq": 1370
+      },
+      {
+        "value": "数十万虚化之狼汇成血月一击",
+        "docId": "plot.xianni-1472-seven-star-ancient-god",
+        "seq": 1380
+      }
+    ],
+    "出处": [
+      {
+        "value": "奉天狼族",
+        "docId": "plot.xianni-1472-seven-star-ancient-god",
+        "seq": 1380
       }
     ]
   },
@@ -36,9 +56,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1461-zhijie-fengsha-fengjin-zhoujin",
+      "docId": "plot.xianni-1472-seven-star-ancient-god",
       "dated": false,
-      "seq": 1370
+      "seq": 1380
     },
     "适用境界": {
       "asOf": null,
@@ -48,15 +68,22 @@
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-ch1461-zhijie-fengsha-fengjin-zhoujin",
+      "docId": "plot.xianni-1472-seven-star-ancient-god",
       "dated": false,
-      "seq": 1370
+      "seq": 1380
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.xianni-1472-seven-star-ancient-god",
+      "dated": false,
+      "seq": 1380
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1461-zhijie-fengsha-fengjin-zhoujin"
+    "plot.xianni-ch1461-zhijie-fengsha-fengjin-zhoujin",
+    "plot.xianni-1472-seven-star-ancient-god"
   ],
-  "updatedAt": "2026-08-25T21:10:06.101Z"
+  "updatedAt": "2026-08-25T21:50:39.091Z"
 }
