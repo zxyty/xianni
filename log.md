@@ -697,3 +697,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T08:38:33.201Z** `ingest` plot.xianni-ch1312-wang-lin-vs-tuosen-first-fated-battle — 第1312章 宿命第一战：王林正面硬撼拓森，抛出「涂司未死」杀招 · kind=plot asOf=2026-08-25 entities=19 relations=23 src=01227-01231.p1.md
 - **2026-08-25T08:41:03.481Z** `ingest` plot.xianni-1313-yuezu-fengshen-array-first-battle-of-destiny — 第1313章 宿命第一战：王林以「涂司未死」惊退拓森，月族封神大阵封杀双古神 · kind=plot asOf=2026-08-25 entities=18 relations=30 src=01227-01231.p2.md
 - **2026-08-25T08:43:28.771Z** `ingest` plot.xianni-ch1314-fated-first-battle-yue-clan-treasures-vs-ancient-gods — 第1314章 宿命第一战：月族倾族至宝围杀，王林与拓森合施古神八星「虚」 · kind=plot asOf=2026-08-25 entities=19 relations=25 src=01227-01231.p3.md
+- **2026-08-25T08:45:32.575Z** `ingest` plot.xianni-ch1315-destined-first-battle-yue-clan-star-domain — 第1315章 宿命第一战：王林与拓森月族星域血战，斩指骨、擒白发老者 · kind=plot asOf=2026-08-25 entities=15 relations=23 src=01227-01231.p4.md
