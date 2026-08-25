@@ -739,3 +739,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T12:24:17.130Z** `ingest` plot.xianni-1357-seven-swords-cutting-heaven-4 — 仙逆·第1357章 七剑斩天山（四）：王林第二至第六剑重创闪雷族大长老 · kind=plot asOf=2026-08-25 entities=16 relations=22 src=01270-01274.p3.md
 - **2026-08-25T12:27:13.341Z** `ingest` plot.xianni-ch1358-seven-swords-cut-sky-finale — 第1358章 七剑斩天山（完）：第六剑怨仙、大长老三息之术与七百万天地崩灭 · kind=plot asOf=2026-08-25 entities=27 relations=43 src=01270-01274.p4.md
 - **2026-08-25T12:30:04.050Z** `ingest` plot.xianni-ch1359-legend-of-third-step — 第1359章 传说……：王林擒大长老残魂，仙族出七百万天地，再攻闪雷族 · kind=plot asOf=2026-08-25 entities=27 relations=42 src=01270-01274.p5.md
+- **2026-08-25T12:31:44.691Z** `ingest` plot.xianni-1360-flash-lightning-clan-array-broken — 仙逆 第1360章 精神支柱坍塌！——王林九龙归位破闪雷族护族大阵 · kind=plot asOf=2026-08-25 entities=14 relations=22 src=01275-01279.p1.md
