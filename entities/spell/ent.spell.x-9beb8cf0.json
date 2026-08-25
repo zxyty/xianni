@@ -10,7 +10,8 @@
   "attributes": {
     "类型": "心神之火／焚魂之焰",
     "出处": "一代朱雀",
-    "威力": "每变九次威力暴增，八息后由九色转为混沌"
+    "威力": "每变九次威力暴增，八息后由九色转为混沌",
+    "适用境界": "第三步之后"
   },
   "observations": {
     "类型": [
@@ -31,6 +32,13 @@
       {
         "value": "每变九次威力暴增，八息后由九色转为混沌",
         "docId": "plot.xianni-1416-san-dai-nie-que",
+        "seq": 1326
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "第三步之后",
+        "docId": "plot.xianni-1418-ye-keyi-wang-lin-refuses-first-zhu-que-offer",
         "seq": 1326
       }
     ]
@@ -54,12 +62,19 @@
       "docId": "plot.xianni-1416-san-dai-nie-que",
       "dated": false,
       "seq": 1326
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-1418-ye-keyi-wang-lin-refuses-first-zhu-que-offer",
+      "dated": false,
+      "seq": 1326
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1416-san-dai-nie-que"
+    "plot.xianni-1416-san-dai-nie-que",
+    "plot.xianni-1418-ye-keyi-wang-lin-refuses-first-zhu-que-offer"
   ],
-  "updatedAt": "2026-08-25T17:20:16.423Z"
+  "updatedAt": "2026-08-25T17:25:44.053Z"
 }

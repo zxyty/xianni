@@ -5,13 +5,16 @@
   "aliases": [
     "如水晶的棺木",
     "李慕婉的棺木",
-    "皎洁棺木"
+    "皎洁棺木",
+    "葬婉之棺",
+    "李慕婉棺材"
   ],
   "summary": "王林随身携带的棺木，如水晶般发出皎洁之芒，内躺李慕婉，保其遗体宛若沉睡。",
   "attributes": {
     "持有者": "王林",
-    "外形": "如水晶，发出皎洁之芒",
-    "能力": "保存李慕婉遗体，皮肤晶莹如生"
+    "外形": "棺木",
+    "能力": "保存李慕婉遗体，皮肤晶莹如生、葬元婴重塑肉身、使崩溃之魂短时间不散、或可将碎魂一一找回",
+    "来历": "后人祭炼而出（一代朱雀未曾见过）"
   },
   "observations": {
     "持有者": [
@@ -26,6 +29,11 @@
         "value": "如水晶，发出皎洁之芒",
         "docId": "plot.xianni-ch1100-can-you-see-through",
         "seq": 1014
+      },
+      {
+        "value": "棺木",
+        "docId": "plot.xianni-1418-ye-keyi-wang-lin-refuses-first-zhu-que-offer",
+        "seq": 1326
       }
     ],
     "能力": [
@@ -33,6 +41,28 @@
         "value": "保存李慕婉遗体，皮肤晶莹如生",
         "docId": "plot.xianni-ch1100-can-you-see-through",
         "seq": 1014
+      },
+      {
+        "value": "葬元婴重塑肉身",
+        "docId": "plot.xianni-1418-ye-keyi-wang-lin-refuses-first-zhu-que-offer",
+        "seq": 1326
+      },
+      {
+        "value": "使崩溃之魂短时间不散",
+        "docId": "plot.xianni-1418-ye-keyi-wang-lin-refuses-first-zhu-que-offer",
+        "seq": 1326
+      },
+      {
+        "value": "或可将碎魂一一找回",
+        "docId": "plot.xianni-1418-ye-keyi-wang-lin-refuses-first-zhu-que-offer",
+        "seq": 1326
+      }
+    ],
+    "来历": [
+      {
+        "value": "后人祭炼而出（一代朱雀未曾见过）",
+        "docId": "plot.xianni-1418-ye-keyi-wang-lin-refuses-first-zhu-que-offer",
+        "seq": 1326
       }
     ]
   },
@@ -46,21 +76,28 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch1100-can-you-see-through",
+      "docId": "plot.xianni-1418-ye-keyi-wang-lin-refuses-first-zhu-que-offer",
       "dated": false,
-      "seq": 1014
+      "seq": 1326
     },
     "能力": {
       "asOf": null,
       "docId": "plot.xianni-ch1100-can-you-see-through",
       "dated": false,
       "seq": 1014
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-1418-ye-keyi-wang-lin-refuses-first-zhu-que-offer",
+      "dated": false,
+      "seq": 1326
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1100-can-you-see-through"
+    "plot.xianni-ch1100-can-you-see-through",
+    "plot.xianni-1418-ye-keyi-wang-lin-refuses-first-zhu-que-offer"
   ],
-  "updatedAt": "2026-08-24T15:09:01.677Z"
+  "updatedAt": "2026-08-25T17:25:44.055Z"
 }

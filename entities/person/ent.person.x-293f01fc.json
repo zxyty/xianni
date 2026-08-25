@@ -11,13 +11,14 @@
   ],
   "summary": "朱雀国初代强者，与炼魂宗始祖订立借幡之约，并为「悠远」古剑赐名朱雀剑。",
   "attributes": {
-    "身份": "朱雀国初代、朱雀一脉初代、朱雀国初代朱雀、祭坛建造者、人方界试炼之地的创造者、一代朱雀、朱雀一族之祖、远古仙尊麾下四大战将之一、朱雀一族一代老祖、朱雀一族老祖",
+    "身份": "朱雀国初代、朱雀一脉初代、朱雀国初代朱雀、祭坛建造者、人方界试炼之地的创造者、一代朱雀、朱雀一族之祖、远古仙尊麾下四大战将之一、朱雀一族一代老祖、朱雀一族老祖、朱雀一族第一代",
     "存殁": "被封／神醒时间不多",
     "结局": "无法走出天方界半步",
     "称号": "一代朱雀、颠落大帝",
     "外貌": "占据天地的巨大雕像，相貌似朱雀所化，眉心燃九色火焰",
-    "标志特征": "眉心九色火焰、以巨掌与雕像显化、朱雀印封禁之能",
-    "性格": "冷漠无情、极度谨慎"
+    "标志特征": "眉心九色火焰、以巨掌与雕像显化、朱雀印封禁之能、雕像形态、当年业火临身、受誓言约束不可言道古之事",
+    "性格": "冷漠无情、极度谨慎、疲惫、思乡、有恩义",
+    "阵营": "朱雀一族"
   },
   "observations": {
     "身份": [
@@ -70,6 +71,11 @@
       {
         "value": "朱雀一族老祖",
         "docId": "plot.xianni-ch1417-cultivation-is-a-palm",
+        "seq": 1326
+      },
+      {
+        "value": "朱雀一族第一代",
+        "docId": "plot.xianni-1418-ye-keyi-wang-lin-refuses-first-zhu-que-offer",
         "seq": 1326
       }
     ],
@@ -145,6 +151,21 @@
         "value": "朱雀印封禁之能",
         "docId": "plot.xianni-ch1417-cultivation-is-a-palm",
         "seq": 1326
+      },
+      {
+        "value": "雕像形态",
+        "docId": "plot.xianni-1418-ye-keyi-wang-lin-refuses-first-zhu-que-offer",
+        "seq": 1326
+      },
+      {
+        "value": "当年业火临身",
+        "docId": "plot.xianni-1418-ye-keyi-wang-lin-refuses-first-zhu-que-offer",
+        "seq": 1326
+      },
+      {
+        "value": "受誓言约束不可言道古之事",
+        "docId": "plot.xianni-1418-ye-keyi-wang-lin-refuses-first-zhu-que-offer",
+        "seq": 1326
       }
     ],
     "性格": [
@@ -153,6 +174,18 @@
         "docId": "plot.xianni-ch1417-cultivation-is-a-palm",
         "seq": 1326,
         "note": "查验王林后转为慈祥赞赏"
+      },
+      {
+        "value": "疲惫、思乡、有恩义",
+        "docId": "plot.xianni-1418-ye-keyi-wang-lin-refuses-first-zhu-que-offer",
+        "seq": 1326
+      }
+    ],
+    "阵营": [
+      {
+        "value": "朱雀一族",
+        "docId": "plot.xianni-1418-ye-keyi-wang-lin-refuses-first-zhu-que-offer",
+        "seq": 1326
       }
     ]
   },
@@ -202,6 +235,12 @@
       "dated": false,
       "seq": 1326,
       "note": "查验王林后转为慈祥赞赏"
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1418-ye-keyi-wang-lin-refuses-first-zhu-que-offer",
+      "dated": false,
+      "seq": 1326
     }
   },
   "contested": false,
@@ -216,7 +255,8 @@
     "plot.xianni-ch1412-nine-colors-into-one-fourth-zhuque-awakening",
     "plot.xianni-1415-gu-zhi-mu-di-kai",
     "plot.xianni-1416-san-dai-nie-que",
-    "plot.xianni-ch1417-cultivation-is-a-palm"
+    "plot.xianni-ch1417-cultivation-is-a-palm",
+    "plot.xianni-1418-ye-keyi-wang-lin-refuses-first-zhu-que-offer"
   ],
-  "updatedAt": "2026-08-25T17:22:53.146Z"
+  "updatedAt": "2026-08-25T17:25:44.031Z"
 }

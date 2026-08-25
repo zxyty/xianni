@@ -787,3 +787,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T17:17:44.778Z** `ingest` plot.xianni-1415-gu-zhi-mu-di-kai — 第1415章 古之墓地……开！——王林觉醒虚火、登天方香，太古星辰裂缝现 · kind=plot asOf=2026-08-25 entities=39 relations=49 src=01321-01325.p5.md
 - **2026-08-25T17:20:16.814Z** `ingest` plot.xianni-1416-san-dai-nie-que — 第1416章 三代孽雀——天方界森罗炎试炼与古之墓地漩涡 · kind=plot asOf=2026-08-25 entities=30 relations=31 src=01326-01330.p1.md
 - **2026-08-25T17:22:53.599Z** `ingest` plot.xianni-ch1417-cultivation-is-a-palm — 第1417章 修行如掌——一代朱雀试炼终局与破空五指真意 · kind=plot asOf=2026-08-25 entities=24 relations=35 src=01326-01330.p2.md
+- **2026-08-25T17:25:44.451Z** `ingest` plot.xianni-1418-ye-keyi-wang-lin-refuses-first-zhu-que-offer — 第1418章 也可以：一代朱雀开出留守条件，王林拒绝并立五道本源之道 · kind=plot asOf=2026-08-25 entities=27 relations=42 src=01326-01330.p3.md
