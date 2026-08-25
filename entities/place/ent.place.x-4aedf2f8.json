@@ -5,14 +5,16 @@
   "aliases": [
     "千里赛场",
     "落生会长老之选赛场",
-    "西北空地"
+    "西北空地",
+    "西北千里赛场",
+    "赛场"
   ],
   "summary": "大帝星西北植被稀少处的约千里灰色空地，四周布满禁制（古魂禁），为次日落生会长老之选的场地。",
   "attributes": {
     "所属界面": "大帝星",
-    "方位": "大帝星西北区域",
-    "规模": "约千里",
-    "类型": "赛场／禁制之地",
+    "方位": "湖泊所在地的西北方",
+    "规模": "千里，环绕数万修士",
+    "类型": "比试赛场",
     "守护": "古魂禁所化千里巨龟",
     "所属势力": "落生会"
   },
@@ -29,6 +31,11 @@
         "value": "大帝星西北区域",
         "docId": "plot.xianni-1399-guhun-jin-dadi-xing",
         "seq": 1307
+      },
+      {
+        "value": "湖泊所在地的西北方",
+        "docId": "plot.xianni-1403-shattering-force-dao-of-power",
+        "seq": 1312
       }
     ],
     "规模": [
@@ -36,6 +43,11 @@
         "value": "约千里",
         "docId": "plot.xianni-1399-guhun-jin-dadi-xing",
         "seq": 1307
+      },
+      {
+        "value": "千里，环绕数万修士",
+        "docId": "plot.xianni-1403-shattering-force-dao-of-power",
+        "seq": 1312
       }
     ],
     "类型": [
@@ -43,6 +55,11 @@
         "value": "赛场／禁制之地",
         "docId": "plot.xianni-1399-guhun-jin-dadi-xing",
         "seq": 1307
+      },
+      {
+        "value": "比试赛场",
+        "docId": "plot.xianni-1403-shattering-force-dao-of-power",
+        "seq": 1312
       }
     ],
     "守护": [
@@ -70,21 +87,21 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-1399-guhun-jin-dadi-xing",
+      "docId": "plot.xianni-1403-shattering-force-dao-of-power",
       "dated": false,
-      "seq": 1307
+      "seq": 1312
     },
     "规模": {
       "asOf": null,
-      "docId": "plot.xianni-1399-guhun-jin-dadi-xing",
+      "docId": "plot.xianni-1403-shattering-force-dao-of-power",
       "dated": false,
-      "seq": 1307
+      "seq": 1312
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1399-guhun-jin-dadi-xing",
+      "docId": "plot.xianni-1403-shattering-force-dao-of-power",
       "dated": false,
-      "seq": 1307
+      "seq": 1312
     },
     "守护": {
       "asOf": null,
@@ -102,7 +119,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1399-guhun-jin-dadi-xing"
+    "plot.xianni-1399-guhun-jin-dadi-xing",
+    "plot.xianni-1403-shattering-force-dao-of-power"
   ],
-  "updatedAt": "2026-08-25T16:29:24.799Z"
+  "updatedAt": "2026-08-25T16:38:46.875Z"
 }

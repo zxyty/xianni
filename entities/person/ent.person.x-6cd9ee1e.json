@@ -10,10 +10,11 @@
   ],
   "summary": "刘金彪伪造记忆中所称「来太古星辰寻找」的对象，属朱雀圣宗前代朱雀。",
   "attributes": {
-    "身份": "朱雀圣族四代",
+    "身份": "朱雀圣宗前代之主、第四代朱雀、朱雀圣族四代、四代朱雀",
     "种族": "朱雀族",
     "性格": "风流成性",
-    "称号": "少帝"
+    "称号": "少帝",
+    "标志特征": "天资惊人"
   },
   "observations": {
     "身份": [
@@ -31,6 +32,11 @@
       {
         "value": "朱雀圣族四代",
         "docId": "plot.xianni-1402-zhuque-laozu-second-gen",
+        "seq": 1312
+      },
+      {
+        "value": "四代朱雀",
+        "docId": "plot.xianni-1403-shattering-force-dao-of-power",
         "seq": 1312
       }
     ],
@@ -54,15 +60,23 @@
         "docId": "plot.xianni-1402-zhuque-laozu-second-gen",
         "seq": 1312
       }
+    ],
+    "标志特征": [
+      {
+        "value": "天资惊人",
+        "docId": "plot.xianni-1403-shattering-force-dao-of-power",
+        "seq": 1312
+      }
     ]
   },
   "firstSeq": 1303,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1402-zhuque-laozu-second-gen",
+      "docId": "plot.xianni-1392-sixth-generation-zhuque",
       "dated": false,
-      "seq": 1312
+      "seq": 1303,
+      "note": "仅见于刘金彪被改写的记忆自述中"
     },
     "种族": {
       "asOf": null,
@@ -81,6 +95,12 @@
       "docId": "plot.xianni-1402-zhuque-laozu-second-gen",
       "dated": false,
       "seq": 1312
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-1403-shattering-force-dao-of-power",
+      "dated": false,
+      "seq": 1312
     }
   },
   "contested": false,
@@ -88,7 +108,8 @@
   "docs": [
     "plot.xianni-1392-sixth-generation-zhuque",
     "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
-    "plot.xianni-1402-zhuque-laozu-second-gen"
+    "plot.xianni-1402-zhuque-laozu-second-gen",
+    "plot.xianni-1403-shattering-force-dao-of-power"
   ],
-  "updatedAt": "2026-08-25T16:36:18.463Z"
+  "updatedAt": "2026-08-25T16:38:46.859Z"
 }
