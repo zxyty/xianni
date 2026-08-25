@@ -8,14 +8,16 @@
     "嘴上有针的老家伙",
     "身穿兽皮的老者",
     "骑蜥兽的老者",
-    "蜥兽上的兽皮老者"
+    "蜥兽上的兽皮老者",
+    "盘膝坐在蜥兽上的兽皮老者"
   ],
   "summary": "自号太荒上人，非太古五尊之一但修为不弱，一身毒攻凶名赫赫；坐蜥兽、双唇未动而出声，本章赠王林半截含毒指甲并欲与老朱雀再战。",
   "attributes": {
     "道号": "太荒上人",
-    "外貌": "身穿兽皮、盘膝坐在蜥兽上的老者、身穿兽皮的老者、披兽皮的老者",
+    "外貌": "身穿兽皮、盘膝坐在蜥兽上的老者、身穿兽皮的老者、披兽皮的老者、身披兽皮的老者",
     "标志特征": "嘴上有针、双唇未动声自体内传出、盘坐蜥兽、常年闭目",
-    "存殁": "在世"
+    "存殁": "在世",
+    "阵营": "与老朱雀多次交战"
   },
   "observations": {
     "道号": [
@@ -39,6 +41,11 @@
       {
         "value": "披兽皮的老者",
         "docId": "plot.xianni-1413-tianni-zhi-bian",
+        "seq": 1321
+      },
+      {
+        "value": "身披兽皮的老者",
+        "docId": "plot.xianni-1415-gu-zhi-mu-di-kai",
         "seq": 1321
       }
     ],
@@ -64,6 +71,13 @@
         "value": "在世",
         "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
         "seq": 1312
+      }
+    ],
+    "阵营": [
+      {
+        "value": "与老朱雀多次交战",
+        "docId": "plot.xianni-1415-gu-zhi-mu-di-kai",
+        "seq": 1321
       }
     ]
   },
@@ -92,6 +106,12 @@
       "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
       "dated": false,
       "seq": 1312
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1415-gu-zhi-mu-di-kai",
+      "dated": false,
+      "seq": 1321
     }
   },
   "contested": false,
@@ -99,7 +119,8 @@
   "docs": [
     "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
     "plot.xianni-ch1405-fusheng-ruomeng-diandluo-shaodi-trial-first-incense",
-    "plot.xianni-1413-tianni-zhi-bian"
+    "plot.xianni-1413-tianni-zhi-bian",
+    "plot.xianni-1415-gu-zhi-mu-di-kai"
   ],
-  "updatedAt": "2026-08-25T17:12:00.862Z"
+  "updatedAt": "2026-08-25T17:17:44.315Z"
 }

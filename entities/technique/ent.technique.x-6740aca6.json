@@ -6,13 +6,15 @@
     "虚幻火焰",
     "实虚火之转化",
     "火之虚境界",
-    "实火转虚火之境"
+    "实火转虚火之境",
+    "化实火入虚境"
   ],
   "summary": "朱雀一族的火焰境界，火焰仿若虚幻如雾；老者已臻此境，王林朱雀觉醒只差一步即可达到。",
   "attributes": {
     "出处": "朱雀族",
-    "效果": "火雾焚身、无形之力抽飞第三步凶兽",
-    "外显异象": "虚幻火雾弥漫、朱雀虚影全身覆火"
+    "效果": "火雾焚身、无形之力抽飞第三步凶兽、将他人流转的情绪化作虚火、爆发时惊天动地",
+    "外显异象": "左目九色火焰成虚、急速旋转",
+    "修炼条件": "轮回业障化九色、燃四次觉醒之炎"
   },
   "observations": {
     "出处": [
@@ -32,6 +34,16 @@
         "value": "无形之力抽飞第三步凶兽",
         "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
         "seq": 1307
+      },
+      {
+        "value": "将他人流转的情绪化作虚火",
+        "docId": "plot.xianni-1415-gu-zhi-mu-di-kai",
+        "seq": 1321
+      },
+      {
+        "value": "爆发时惊天动地",
+        "docId": "plot.xianni-1415-gu-zhi-mu-di-kai",
+        "seq": 1321
       }
     ],
     "外显异象": [
@@ -39,6 +51,18 @@
         "value": "虚幻火雾弥漫、朱雀虚影全身覆火",
         "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
         "seq": 1307
+      },
+      {
+        "value": "左目九色火焰成虚、急速旋转",
+        "docId": "plot.xianni-1415-gu-zhi-mu-di-kai",
+        "seq": 1321
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "轮回业障化九色、燃四次觉醒之炎",
+        "docId": "plot.xianni-1415-gu-zhi-mu-di-kai",
+        "seq": 1321
       }
     ]
   },
@@ -58,9 +82,15 @@
     },
     "外显异象": {
       "asOf": null,
-      "docId": "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
+      "docId": "plot.xianni-1415-gu-zhi-mu-di-kai",
       "dated": false,
-      "seq": 1307
+      "seq": 1321
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.xianni-1415-gu-zhi-mu-di-kai",
+      "dated": false,
+      "seq": 1321
     }
   },
   "contested": false,
@@ -68,7 +98,8 @@
   "docs": [
     "plot.xianni-ch1401-diao-long-zhuque-old-man-dragon-blood",
     "plot.xianni-1402-zhuque-laozu-second-gen",
-    "plot.xianni-1407-renfang-jie-li-muwan-wo-buyuan"
+    "plot.xianni-1407-renfang-jie-li-muwan-wo-buyuan",
+    "plot.xianni-1415-gu-zhi-mu-di-kai"
   ],
-  "updatedAt": "2026-08-25T17:04:44.440Z"
+  "updatedAt": "2026-08-25T17:17:44.317Z"
 }
