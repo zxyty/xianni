@@ -5,12 +5,14 @@
   "aliases": [
     "环绕四大星域的封界之阵",
     "封界大阵",
-    "环绕封界大阵"
+    "环绕封界大阵",
+    "封锁界内界外的大阵",
+    "蛛网般的封锁阵法"
   ],
   "summary": "环绕四大星域的封锁大阵；传闻通过瓶中界此宝可破开此阵。",
   "attributes": {
-    "效果": "封界内修士死亡后道念被吸入种道星阵化作养分",
-    "破解法": "以瓶中界之宝破开",
+    "效果": "封锁环绕四大星域、封界内修士死亡后道念被吸入种道星阵化作养分、封锁界内界外不容踏出半步、承受攻击达阈值后自动凝聚阵灵反击、对攻击产生惊人反弹",
+    "破解法": "未知",
     "布置者": "掌尊（推测）"
   },
   "observations": {
@@ -24,6 +26,21 @@
         "value": "封界内修士死亡后道念被吸入种道星阵化作养分",
         "docId": "plot.xianni-1216-seven-colored-flower-dao-planting",
         "seq": 1132
+      },
+      {
+        "value": "封锁界内界外不容踏出半步",
+        "docId": "plot.xianni-ch1218-feng-jie-zhi-zhen",
+        "seq": 1132
+      },
+      {
+        "value": "承受攻击达阈值后自动凝聚阵灵反击",
+        "docId": "plot.xianni-ch1218-feng-jie-zhi-zhen",
+        "seq": 1132
+      },
+      {
+        "value": "对攻击产生惊人反弹",
+        "docId": "plot.xianni-ch1218-feng-jie-zhi-zhen",
+        "seq": 1132
       }
     ],
     "破解法": [
@@ -32,6 +49,12 @@
         "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
         "seq": 945,
         "note": "传闻，未证实"
+      },
+      {
+        "value": "未知",
+        "docId": "plot.xianni-ch1218-feng-jie-zhi-zhen",
+        "seq": 1132,
+        "note": "拓森以古神一拳连续轰击仅使阵法罕见颤抖，未能破开"
       }
     ],
     "布置者": [
@@ -47,16 +70,16 @@
   "attrProvenance": {
     "效果": {
       "asOf": null,
-      "docId": "plot.xianni-1216-seven-colored-flower-dao-planting",
+      "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
       "dated": false,
-      "seq": 1132
+      "seq": 945
     },
     "破解法": {
       "asOf": null,
-      "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
+      "docId": "plot.xianni-ch1218-feng-jie-zhi-zhen",
       "dated": false,
-      "seq": 945,
-      "note": "传闻，未证实"
+      "seq": 1132,
+      "note": "拓森以古神一拳连续轰击仅使阵法罕见颤抖，未能破开"
     },
     "布置者": {
       "asOf": null,
@@ -70,7 +93,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
-    "plot.xianni-1216-seven-colored-flower-dao-planting"
+    "plot.xianni-1216-seven-colored-flower-dao-planting",
+    "plot.xianni-ch1218-feng-jie-zhi-zhen"
   ],
-  "updatedAt": "2026-08-25T01:48:55.239Z"
+  "updatedAt": "2026-08-25T01:58:56.853Z"
 }

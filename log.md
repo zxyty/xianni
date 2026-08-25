@@ -613,3 +613,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T01:46:33.583Z** `ingest` plot.xianni-ch1215-yunhai-zhidian-qicai-jie-slay-white-haired-elder — 第1215章 美妙与回味：王林雷火合击灭杀碎涅后期白发老者 · kind=plot asOf=2026-08-25 entities=21 relations=28 src=01132-01136.p2.md
 - **2026-08-25T01:48:55.515Z** `ingest` plot.xianni-1216-seven-colored-flower-dao-planting — 第1216章 七彩花——七彩界光芒尽噬、王林入魔坠种道之地 · kind=plot asOf=2026-08-25 entities=20 relations=29 src=01132-01136.p3.md
 - **2026-08-25T01:56:57.564Z** `ingest` plot.xianni-1217-tuosen-awakens-sweeps-star-domain — 第1217章 苏醒：拓森破阵而出，横扫联盟星域九十九年之变 · kind=plot asOf=2026-08-25 entities=55 relations=80 src=01132-01136.p4.md
+- **2026-08-25T01:58:57.184Z** `ingest` plot.xianni-ch1218-feng-jie-zhi-zhen — 第1218章 封界之阵——拓森横扫罗天、跨入云海，强撼封界大阵 · kind=plot asOf=2026-08-25 entities=16 relations=21 src=01132-01136.p5.md
