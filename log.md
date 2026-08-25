@@ -654,3 +654,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T05:21:36.646Z** `ingest` plot.xianni-1266-tianyunzi-soul-fusion-death-foresight — 第1266章 一线生机——王林融合天运子之魂推衍未来，千百次皆死，唯召逆行者见「刘金彪」 · kind=plot asOf=2026-08-25 entities=25 relations=34 src=01183-01186.p2.md
 - **2026-08-25T05:24:03.868Z** `ingest` plot.xianni-1267-liu-jin-biao-jade-pendant-extortion — 第1267章 你就是刘金彪？——金彪子玉简勒索归元宗，王林追杀遇诡异玉佩 · kind=plot asOf=2026-08-25 entities=23 relations=31 src=01183-01186.p3.md
 - **2026-08-25T05:26:48.390Z** `ingest` plot.xianni-1268-tianni-vanishes-jade-pendant-centipedes — 第1268章 天逆消失！——王林灭七蜈蚣夺玉佩，天逆珠融佩而逝 · kind=plot asOf=2026-08-25 entities=20 relations=32 src=01183-01186.p4.md
+- **2026-08-25T05:29:39.469Z** `ingest` plot.xianni-ch1269-1270-li-qianmei-leaves-potian-sect-no-home — 第1269–1270章 没有了家：归元宗散去、李倩梅弃宗奔王林、双短剑百万剑影 · kind=plot asOf=2026-08-25 entities=26 relations=34 src=01187-01190.p1.md

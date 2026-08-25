@@ -14,16 +14,18 @@
     "Po Tian Sect",
     "云海破天宗",
     "破天宗门",
-    "破天宗门派"
+    "破天宗门派",
+    "九阶星域破天宗"
   ],
   "summary": "八阶星域的宗门，其玉简为众势力争夺焦点。",
   "attributes": {
     "等级": "八阶星域宗门、八阶、八阶宗派（已具搬迁九阶星域资格）、九阶、九阶星域宗门、九阶星域宗派、九阶（最弱）、九阶宗派（传闻晋升）、九阶宗派、云海星域宗派",
     "镇派之宝": "丹药、残剑、兽骨（涅空丹丹方）",
     "理念": "以战场历练换取传承机会",
-    "所属界面": "云海九阶星域",
+    "所属界面": "九阶星域",
     "据点": "妖宗山门",
-    "阵营": "云海星域宗门"
+    "阵营": "依附神宗",
+    "掌门": "破天宗宗主"
   },
   "observations": {
     "等级": [
@@ -129,6 +131,11 @@
         "value": "云海九阶星域",
         "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
         "seq": 1082
+      },
+      {
+        "value": "九阶星域",
+        "docId": "plot.xianni-ch1269-1270-li-qianmei-leaves-potian-sect-no-home",
+        "seq": 1187
       }
     ],
     "据点": [
@@ -153,6 +160,19 @@
         "value": "云海星域宗门",
         "docId": "plot.xianni-ch1263-fish-and-bird-li-qianmei-farewell",
         "seq": 1178
+      },
+      {
+        "value": "依附神宗",
+        "docId": "plot.xianni-ch1269-1270-li-qianmei-leaves-potian-sect-no-home",
+        "seq": 1187,
+        "note": "自一万八千年前为神宗奴才"
+      }
+    ],
+    "掌门": [
+      {
+        "value": "破天宗宗主",
+        "docId": "plot.xianni-ch1269-1270-li-qianmei-leaves-potian-sect-no-home",
+        "seq": 1187
       }
     ]
   },
@@ -178,9 +198,9 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+      "docId": "plot.xianni-ch1269-1270-li-qianmei-leaves-potian-sect-no-home",
       "dated": false,
-      "seq": 1082
+      "seq": 1187
     },
     "据点": {
       "asOf": null,
@@ -190,9 +210,16 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch1263-fish-and-bird-li-qianmei-farewell",
+      "docId": "plot.xianni-ch1269-1270-li-qianmei-leaves-potian-sect-no-home",
       "dated": false,
-      "seq": 1178
+      "seq": 1187,
+      "note": "自一万八千年前为神宗奴才"
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1269-1270-li-qianmei-leaves-potian-sect-no-home",
+      "dated": false,
+      "seq": 1187
     }
   },
   "contested": false,
@@ -220,7 +247,8 @@
     "plot.xianni-1252-chizha-wuji-3-wang-lin-arrives-with-thunder",
     "plot.xianni-1254-chizha-wuji-5-wang-lin-kills-zhao-long",
     "plot.xianni-ch1263-fish-and-bird-li-qianmei-farewell",
-    "plot.xianni-1264-mubingmei-farewell-liqianmei-summons-wuji-sect-departs"
+    "plot.xianni-1264-mubingmei-farewell-liqianmei-summons-wuji-sect-departs",
+    "plot.xianni-ch1269-1270-li-qianmei-leaves-potian-sect-no-home"
   ],
-  "updatedAt": "2026-08-25T05:18:57.523Z"
+  "updatedAt": "2026-08-25T05:29:39.131Z"
 }
