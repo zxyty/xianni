@@ -6,13 +6,16 @@
     "龟甲",
     "凌天候的卜卦龟甲",
     "仙府龟甲",
-    "妖宗长老的龟甲"
+    "妖宗长老的龟甲",
+    "巨龟所化龟甲",
+    "巴掌大小的龟甲"
   ],
   "summary": "凌天候用于卜算吉凶的法宝，本章从储物袋中取出旋转掐诀，却算不出王林之事的吉凶。",
   "attributes": {
-    "持有者": "妖宗长老",
-    "能力": "挡在身前的防御护罩",
-    "外形": "一片龟甲"
+    "持有者": "王林",
+    "能力": "临别所赠护身之宝",
+    "外形": "巴掌大小、幽光如月",
+    "来历": "老朱雀所召巨龟兽所化"
   },
   "observations": {
     "持有者": [
@@ -25,6 +28,11 @@
         "value": "妖宗长老",
         "docId": "plot.xianni-ch1294-dao-shu-jiuyou-long-tamed",
         "seq": 1207
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch1426-jiang-li-liujinbiao-captured-huoquezu",
+        "seq": 1336
       }
     ],
     "能力": [
@@ -42,6 +50,11 @@
         "value": "挡在身前的防御护罩",
         "docId": "plot.xianni-ch1294-dao-shu-jiuyou-long-tamed",
         "seq": 1207
+      },
+      {
+        "value": "临别所赠护身之宝",
+        "docId": "plot.xianni-ch1426-jiang-li-liujinbiao-captured-huoquezu",
+        "seq": 1336
       }
     ],
     "外形": [
@@ -54,6 +67,18 @@
         "value": "一片龟甲",
         "docId": "plot.xianni-ch1294-dao-shu-jiuyou-long-tamed",
         "seq": 1207
+      },
+      {
+        "value": "巴掌大小、幽光如月",
+        "docId": "plot.xianni-ch1426-jiang-li-liujinbiao-captured-huoquezu",
+        "seq": 1336
+      }
+    ],
+    "来历": [
+      {
+        "value": "老朱雀所召巨龟兽所化",
+        "docId": "plot.xianni-ch1426-jiang-li-liujinbiao-captured-huoquezu",
+        "seq": 1336
       }
     ]
   },
@@ -61,21 +86,27 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch1294-dao-shu-jiuyou-long-tamed",
+      "docId": "plot.xianni-ch1426-jiang-li-liujinbiao-captured-huoquezu",
       "dated": false,
-      "seq": 1207
+      "seq": 1336
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-ch1294-dao-shu-jiuyou-long-tamed",
+      "docId": "plot.xianni-ch1426-jiang-li-liujinbiao-captured-huoquezu",
       "dated": false,
-      "seq": 1207
+      "seq": 1336
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch1294-dao-shu-jiuyou-long-tamed",
+      "docId": "plot.xianni-ch1426-jiang-li-liujinbiao-captured-huoquezu",
       "dated": false,
-      "seq": 1207
+      "seq": 1336
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1426-jiang-li-liujinbiao-captured-huoquezu",
+      "dated": false,
+      "seq": 1336
     }
   },
   "contested": false,
@@ -83,7 +114,8 @@
   "docs": [
     "plot.xianni-ch904-908-tianyunzi-finger-strike",
     "plot.xianni-1007-huaxian-warning-turtle-shell",
-    "plot.xianni-ch1294-dao-shu-jiuyou-long-tamed"
+    "plot.xianni-ch1294-dao-shu-jiuyou-long-tamed",
+    "plot.xianni-ch1426-jiang-li-liujinbiao-captured-huoquezu"
   ],
-  "updatedAt": "2026-08-25T07:40:35.077Z"
+  "updatedAt": "2026-08-25T18:14:34.361Z"
 }
