@@ -6,16 +6,18 @@
     "第三代朱雀",
     "三代",
     "三代朱雀孽雀",
-    "三代朱雀圣皇"
+    "三代朱雀圣皇",
+    "三代孽雀朱雀"
   ],
   "summary": "当年算计二代朱雀司徒南、引来域外修士之人，为司徒南沉睡万载的祸首。",
   "attributes": {
-    "称号": "三代朱雀",
+    "称号": "三代孽雀",
     "身份": "冒充朱雀族人者、疑在太古星辰另有别的身份、在太古星辰另有身份",
     "标志特征": "搜魂亦无破绽、一代朱雀所见天资第一；在火雀族留有火本源",
     "出身地": "被人造出（非天生族人）",
     "性格": "奸诈异常",
-    "阵营": "暗中操控太古，与一代朱雀为敌"
+    "阵营": "暗中操控太古，与一代朱雀为敌",
+    "种族": "朱雀一族"
   },
   "observations": {
     "称号": [
@@ -23,6 +25,11 @@
         "value": "三代朱雀",
         "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
         "seq": 401
+      },
+      {
+        "value": "三代孽雀",
+        "docId": "plot.xianni-ch1433-is-he-zhangzun",
+        "seq": 1341
       }
     ],
     "身份": [
@@ -77,15 +84,22 @@
         "docId": "plot.xianni-1428-crazy-idea-fire-sparrow-ancestor-master",
         "seq": 1336
       }
+    ],
+    "种族": [
+      {
+        "value": "朱雀一族",
+        "docId": "plot.xianni-ch1433-is-he-zhangzun",
+        "seq": 1341
+      }
     ]
   },
   "firstSeq": 401,
   "attrProvenance": {
     "称号": {
       "asOf": null,
-      "docId": "plot.xianni-ch423-zhuquezi-vs-duntian-fourth-soul",
+      "docId": "plot.xianni-ch1433-is-he-zhangzun",
       "dated": false,
-      "seq": 401
+      "seq": 1341
     },
     "身份": {
       "asOf": null,
@@ -117,6 +131,12 @@
       "docId": "plot.xianni-1428-crazy-idea-fire-sparrow-ancestor-master",
       "dated": false,
       "seq": 1336
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1433-is-he-zhangzun",
+      "dated": false,
+      "seq": 1341
     }
   },
   "contested": false,
@@ -127,7 +147,8 @@
     "plot.xianni-ch1417-cultivation-is-a-palm",
     "plot.xianni-1419-lai-yidai-zhuque-jiuse-yumao-tianfangxiang-liwei",
     "plot.xianni-ch1426-jiang-li-liujinbiao-captured-huoquezu",
-    "plot.xianni-1428-crazy-idea-fire-sparrow-ancestor-master"
+    "plot.xianni-1428-crazy-idea-fire-sparrow-ancestor-master",
+    "plot.xianni-ch1433-is-he-zhangzun"
   ],
-  "updatedAt": "2026-08-25T18:24:03.295Z"
+  "updatedAt": "2026-08-25T18:36:13.115Z"
 }
