@@ -703,3 +703,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T09:46:22.915Z** `ingest` plot.xianni-ch1318-white-robed-woman — 第1318章 白衣女子：五道本源破迷障，蓝梦道尊授九大神通 · kind=plot asOf=2026-08-25 entities=19 relations=28 src=01232-01236.p2.md
 - **2026-08-25T09:48:50.647Z** `ingest` plot.xianni-ch1319-lanmeng-daozun-choice — 仙逆 第1319章 抉择：蓝梦道尊的诱惑与三式神通 · kind=plot asOf=2026-08-25 entities=26 relations=30 src=01232-01236.p3.md
 - **2026-08-25T09:51:18.903Z** `ingest` plot.xianni-1320-lan-meng-dao-zun-third-art-rong-fan-tian-yin — 第1320章 融：蓝梦道尊传第三式「融」，王林四月悟成翻天印 · kind=plot asOf=2026-08-25 entities=18 relations=31 src=01232-01236.p4.md
+- **2026-08-25T09:53:55.753Z** `ingest` plot.xianni-1321-third-step-membrane — 第1321章 第三步的隔膜——王林悟光影盾之光与蓝梦道尊道术 · kind=plot asOf=2026-08-25 entities=31 relations=33 src=01232-01236.p5.md
