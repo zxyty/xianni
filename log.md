@@ -638,3 +638,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T03:43:39.646Z** `ingest` plot.xianni-1247-wen-wang-bian-yi — 第1247章 蚊王变异——王林助蚊王争夺裂缝古蚊血脉 · kind=plot asOf=2026-08-25 entities=14 relations=17 src=01165-01169.p1.md
 - **2026-08-25T03:46:10.144Z** `ingest` plot.xianni-1248-mosquito-king-recruit-retreat — 《仙逆》第1248章 收：王林蚊王吸食万丈蚊王之血，万余蚊兽归附并逃出风仙界 · kind=plot asOf=2026-08-25 entities=22 relations=28 src=01165-01169.p2.md
 - **2026-08-25T03:56:31.726Z** `ingest` plot.xianni-1249-mu-bing-mei-storage-rift-suo-di-cheng-cun — 仙逆 第1249章 木冰眉：王林开辟第二储物空间收纳蚊兽，风仙界内施展缩地成寸 · kind=plot asOf=2026-08-25 entities=45 relations=76 src=01165-01169.p3.md
+- **2026-08-25T03:58:56.779Z** `ingest` plot.xianni-1250-wuji-zong-five-tier-competition-lu-yuncong-refuses — 第1250章 叱咤无极（一）：卢云从拒战归元宗，吕子浩之名震动无极宗 · kind=plot asOf=2026-08-25 entities=25 relations=37 src=01165-01169.p4.md

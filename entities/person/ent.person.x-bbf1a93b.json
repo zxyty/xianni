@@ -8,14 +8,16 @@
     "吕家先祖",
     "归元宗吕子浩",
     "师叔祖吕子浩",
-    "归元宗故人吕子浩"
+    "归元宗故人吕子浩",
+    "Lyu Zihao"
   ],
   "summary": "归元宗故人，吕烟菲师尊的师叔，也是吕家先祖；道痴，终生未离莫罗大陆，最后一次外出失踪，宗内已无人见过。",
   "attributes": {
-    "身份": "归元宗修士、吕烟菲师尊的师叔、吕家先祖、归元宗故人（名号被王林借用）、归元宗故人",
-    "性格": "道痴",
+    "身份": "归元宗修士、吕烟菲师尊的师叔、吕家先祖、归元宗故人（名号被王林借用）、归元宗故人、归元宗师祖之辈、丹修",
+    "性格": "一生痴于炼丹",
     "结局": "最后一次外出失踪",
-    "标志特征": "宗内无人见过其人，画像已破碎"
+    "标志特征": "宗内无人见过其人，画像已破碎",
+    "存殁": "下落不明"
   },
   "observations": {
     "身份": [
@@ -43,6 +45,11 @@
         "value": "归元宗故人",
         "docId": "plot.xianni-1189-cangsongzi-duobao-po-suiyuejin-fengyin",
         "seq": 1105
+      },
+      {
+        "value": "归元宗师祖之辈、丹修",
+        "docId": "plot.xianni-1250-wuji-zong-five-tier-competition-lu-yuncong-refuses",
+        "seq": 1165
       }
     ],
     "性格": [
@@ -50,6 +57,11 @@
         "value": "道痴",
         "docId": "plot.xianni-1146-tianni-second-perfection-hope",
         "seq": 1063
+      },
+      {
+        "value": "一生痴于炼丹",
+        "docId": "plot.xianni-1250-wuji-zong-five-tier-competition-lu-yuncong-refuses",
+        "seq": 1165
       }
     ],
     "结局": [
@@ -65,6 +77,14 @@
         "docId": "plot.xianni-1146-tianni-second-perfection-hope",
         "seq": 1063
       }
+    ],
+    "存殁": [
+      {
+        "value": "下落不明",
+        "docId": "plot.xianni-1250-wuji-zong-five-tier-competition-lu-yuncong-refuses",
+        "seq": 1165,
+        "note": "多年前外出寻药后失踪，典命阁存档"
+      }
     ]
   },
   "firstSeq": 1063,
@@ -77,9 +97,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-1146-tianni-second-perfection-hope",
+      "docId": "plot.xianni-1250-wuji-zong-five-tier-competition-lu-yuncong-refuses",
       "dated": false,
-      "seq": 1063
+      "seq": 1165
     },
     "结局": {
       "asOf": null,
@@ -92,6 +112,13 @@
       "docId": "plot.xianni-1146-tianni-second-perfection-hope",
       "dated": false,
       "seq": 1063
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1250-wuji-zong-five-tier-competition-lu-yuncong-refuses",
+      "dated": false,
+      "seq": 1165,
+      "note": "多年前外出寻药后失踪，典命阁存档"
     }
   },
   "contested": false,
@@ -128,7 +155,8 @@
     "plot.xianni-1193-blood-battle-cang-song-zi",
     "plot.xianni-1201-shouhu-qicaijie-canglaozhe-daonian-jingshi",
     "plot.xianni-1206-zhan-xingye-daotong-jiewai-sanren-tuxi",
-    "plot.xianni-1241-ta-lai-le-me"
+    "plot.xianni-1241-ta-lai-le-me",
+    "plot.xianni-1250-wuji-zong-five-tier-competition-lu-yuncong-refuses"
   ],
-  "updatedAt": "2026-08-25T03:05:44.110Z"
+  "updatedAt": "2026-08-25T03:58:56.445Z"
 }

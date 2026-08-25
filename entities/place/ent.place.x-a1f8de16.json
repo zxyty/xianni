@@ -1,23 +1,17 @@
 {
-  "id": "ent.place.x-cf528543",
+  "id": "ent.place.x-a1f8de16",
   "type": "place",
-  "name": "大比平台",
+  "name": "典命阁",
   "aliases": [
-    "炼魂宗大比平台",
-    "五阶分宗大比平台"
+    "无极宗典命阁"
   ],
-  "summary": "炼魂宗外围弟子大比的比试平台，莽汉在此认输、王林与司马在此决战。",
+  "summary": "无极宗内记录各分宗门人档案之所，冯海在此查得吕子浩其人的记载。",
   "attributes": {
     "所属势力": "无极宗",
-    "类型": "比武擂台"
+    "类型": "档案殿阁"
   },
   "observations": {
     "所属势力": [
-      {
-        "value": "炼魂宗",
-        "docId": "plot.xianni-ch380-lianhunzong-search",
-        "seq": 358
-      },
       {
         "value": "无极宗",
         "docId": "plot.xianni-1250-wuji-zong-five-tier-competition-lu-yuncong-refuses",
@@ -26,18 +20,13 @@
     ],
     "类型": [
       {
-        "value": "比试平台",
-        "docId": "plot.xianni-ch380-lianhunzong-search",
-        "seq": 358
-      },
-      {
-        "value": "比武擂台",
+        "value": "档案殿阁",
         "docId": "plot.xianni-1250-wuji-zong-five-tier-competition-lu-yuncong-refuses",
         "seq": 1165
       }
     ]
   },
-  "firstSeq": 358,
+  "firstSeq": 1165,
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
@@ -55,8 +44,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch380-lianhunzong-search",
     "plot.xianni-1250-wuji-zong-five-tier-competition-lu-yuncong-refuses"
   ],
-  "updatedAt": "2026-08-25T03:58:56.460Z"
+  "updatedAt": "2026-08-25T03:58:56.459Z"
 }
