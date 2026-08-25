@@ -4,20 +4,28 @@
   "name": "追杀拓森的三名第三步大能",
   "aliases": [
     "两男一女",
-    "太古星辰第三步大能三人"
+    "太古星辰第三步大能三人",
+    "三个第三步大能",
+    "太古星辰三大能"
   ],
   "summary": "两男一女共三人，因拓森屠戮太古部落而追杀之；身外均有扭曲遮蔽，遥遥跟随不愿逼近，意在耗尽拓森体力。",
   "attributes": {
-    "身份": "太古星辰第三步大能",
+    "身份": "太古星辰第三步大能、太古星辰的第三步大能",
     "性别": "两男一女",
     "外貌": "身外一片扭曲阻止一切神识与目光",
-    "阵营": "太古星辰一方"
+    "阵营": "太古星辰一方、太古星辰",
+    "标志特征": "三人中有一人为空灵境界"
   },
   "observations": {
     "身份": [
       {
         "value": "太古星辰第三步大能",
         "docId": "plot.xianni-ch1309-tuosen-pursuit-star-rift-chase",
+        "seq": 1222
+      },
+      {
+        "value": "太古星辰的第三步大能",
+        "docId": "plot.xianni-1310-star-soul-harvest-and-moon-clan-plan",
         "seq": 1222
       }
     ],
@@ -40,6 +48,18 @@
       {
         "value": "太古星辰一方",
         "docId": "plot.xianni-ch1309-tuosen-pursuit-star-rift-chase",
+        "seq": 1222
+      },
+      {
+        "value": "太古星辰",
+        "docId": "plot.xianni-1310-star-soul-harvest-and-moon-clan-plan",
+        "seq": 1222
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "三人中有一人为空灵境界",
+        "docId": "plot.xianni-1310-star-soul-harvest-and-moon-clan-plan",
         "seq": 1222
       }
     ]
@@ -70,12 +90,19 @@
       "docId": "plot.xianni-ch1309-tuosen-pursuit-star-rift-chase",
       "dated": false,
       "seq": 1222
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-1310-star-soul-harvest-and-moon-clan-plan",
+      "dated": false,
+      "seq": 1222
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1309-tuosen-pursuit-star-rift-chase"
+    "plot.xianni-ch1309-tuosen-pursuit-star-rift-chase",
+    "plot.xianni-1310-star-soul-harvest-and-moon-clan-plan"
   ],
-  "updatedAt": "2026-08-25T08:26:11.895Z"
+  "updatedAt": "2026-08-25T08:33:42.320Z"
 }

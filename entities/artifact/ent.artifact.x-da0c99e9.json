@@ -4,13 +4,15 @@
   "name": "开天巨斧",
   "aliases": [
     "开夭巨斧",
-    "黑电巨斧"
+    "黑电巨斧",
+    "斧芒"
   ],
   "summary": "巨魔族老祖身化十丈后祭出的巨斧，一斩即出巨大斧芒，可斩碎虚空致其龟裂。",
   "attributes": {
     "持有者": "王林",
-    "能力": "斩出巨大斧芒、崩碎虚空、斩出十丈斧芒并携雷球降下、虚空操控在地底绕行掏空地基、所伤之处气息残留，令古神一族极难愈合",
-    "外形": "闪烁黑色电光的巨斧，四周浮现缓缓旋转的雷球"
+    "能力": "斩出巨大斧芒、崩碎虚空、斩出十丈斧芒并携雷球降下、虚空操控在地底绕行掏空地基、所伤之处气息残留，令古神一族极难愈合、所造伤口残留斧芒气息阻碍愈合",
+    "外形": "闪烁黑色电光的巨斧，四周浮现缓缓旋转的雷球",
+    "禁制": "斧芒不逼出则伤口难愈"
   },
   "observations": {
     "持有者": [
@@ -50,6 +52,11 @@
         "value": "所伤之处气息残留，令古神一族极难愈合",
         "docId": "plot.xianni-ch1309-tuosen-pursuit-star-rift-chase",
         "seq": 1222
+      },
+      {
+        "value": "所造伤口残留斧芒气息阻碍愈合",
+        "docId": "plot.xianni-1310-star-soul-harvest-and-moon-clan-plan",
+        "seq": 1222
       }
     ],
     "外形": [
@@ -62,6 +69,13 @@
         "value": "闪烁黑色电光的巨斧，四周浮现缓缓旋转的雷球",
         "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
         "seq": 514
+      }
+    ],
+    "禁制": [
+      {
+        "value": "斧芒不逼出则伤口难愈",
+        "docId": "plot.xianni-1310-star-soul-harvest-and-moon-clan-plan",
+        "seq": 1222
       }
     ]
   },
@@ -84,6 +98,12 @@
       "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
       "dated": false,
       "seq": 514
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-1310-star-soul-harvest-and-moon-clan-plan",
+      "dated": false,
+      "seq": 1222
     }
   },
   "contested": false,
@@ -91,7 +111,8 @@
   "docs": [
     "plot.xianni-ch346-350-conspiracy-emerges-kunji-whip",
     "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
-    "plot.xianni-ch1309-tuosen-pursuit-star-rift-chase"
+    "plot.xianni-ch1309-tuosen-pursuit-star-rift-chase",
+    "plot.xianni-1310-star-soul-harvest-and-moon-clan-plan"
   ],
-  "updatedAt": "2026-08-25T08:26:11.938Z"
+  "updatedAt": "2026-08-25T08:33:42.283Z"
 }

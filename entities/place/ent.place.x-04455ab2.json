@@ -13,13 +13,16 @@
     "封界之地",
     "Feng Jie",
     "界内",
-    "界内星辰"
+    "界内星辰",
+    "界内星空",
+    "牢笼",
+    "界内之地"
   ],
   "summary": "包裹王林等人所在世界的屏障，形态为连绵不绝的闪烁之网，可被古神一拳撕裂数十万里、亦可由开天斧化晶光急速修复；界内众生被外来者称为「封界人」。",
   "attributes": {
-    "类型": "界壁屏障 / 闪烁之网、封印空间/禁地、被封禁之界",
-    "守护": "封界九十九阵、闪烁之网、封界大阵",
-    "危险度": "被撕裂后外部势力可伸手入内擒人"
+    "类型": "界壁屏障 / 闪烁之网、封印空间/禁地、被封禁之界、被封锁的星空区域",
+    "守护": "封界九十九阵、闪烁之网、封界大阵、封界大阵（封界之主融入后）",
+    "危险度": "被撕裂后外部势力可伸手入内擒人、长期被界外布局削弱、极虚弱、濒临被界外攻破"
   },
   "observations": {
     "类型": [
@@ -37,6 +40,11 @@
         "value": "被封禁之界",
         "docId": "plot.xianni-1221-feng-jie-zhi-zhu-identity",
         "seq": 1137
+      },
+      {
+        "value": "被封锁的星空区域",
+        "docId": "plot.xianni-1310-star-soul-harvest-and-moon-clan-plan",
+        "seq": 1222
       }
     ],
     "守护": [
@@ -54,6 +62,11 @@
         "value": "封界大阵",
         "docId": "plot.xianni-1221-feng-jie-zhi-zhu-identity",
         "seq": 1137
+      },
+      {
+        "value": "封界大阵（封界之主融入后）",
+        "docId": "plot.xianni-1310-star-soul-harvest-and-moon-clan-plan",
+        "seq": 1222
       }
     ],
     "危险度": [
@@ -61,6 +74,17 @@
         "value": "被撕裂后外部势力可伸手入内擒人",
         "docId": "plot.xianni-ch943-tiandao-fengjie-jiuzhen-luochen-guxing",
         "seq": 876
+      },
+      {
+        "value": "长期被界外布局削弱",
+        "docId": "plot.xianni-1310-star-soul-harvest-and-moon-clan-plan",
+        "seq": 1222
+      },
+      {
+        "value": "极虚弱、濒临被界外攻破",
+        "docId": "plot.xianni-1310-star-soul-harvest-and-moon-clan-plan",
+        "seq": 1222,
+        "note": "本片段当时"
       }
     ]
   },
@@ -93,7 +117,8 @@
     "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
     "plot.xianni-1221-feng-jie-zhi-zhu-identity",
     "plot.xianni-1274-shui-daozi-benti-jianglin-wanglin-jinzhi-shesheche-sebian",
-    "lore.xianni-1284-tianni-origin-fengjie-zhizun"
+    "lore.xianni-1284-tianni-origin-fengjie-zhizun",
+    "plot.xianni-1310-star-soul-harvest-and-moon-clan-plan"
   ],
-  "updatedAt": "2026-08-25T06:20:26.503Z"
+  "updatedAt": "2026-08-25T08:33:42.327Z"
 }
