@@ -828,3 +828,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T20:58:43.827Z** `ingest` plot.xianni-ch1458-jiushe-jiuxing-gushen-toulu — 第1458章 假设——九星古神头颅与七彩道人抢夺天道的猜测 · kind=plot asOf=2026-08-25 entities=31 relations=48 src=01365-01369.p5.md
 - **2026-08-25T21:05:41.450Z** `ingest` plot.xianni-1458-ci-dao-wanglin-ponders-ancient-tomb-revives-trees — 第1458章 赐道（第二更）：王林推演古之墓地诸谜，以古神之力复苏十九株枯树 · kind=plot asOf=2026-08-25 entities=51 relations=61 src=01370-01374.p1.md
 - **2026-08-25T21:08:17.552Z** `ingest` plot.xianni-ch1460-si-xi-four-joys — 第1460章 四喜——灵动上人成第三步、王林搜魂封芷曼夺族印、十八片古息叶到手 · kind=plot asOf=2026-08-25 entities=25 relations=46 src=01370-01374.p2.md
+- **2026-08-25T21:10:06.482Z** `ingest` plot.xianni-ch1461-zhijie-fengsha-fengjin-zhoujin — 仙逆 第1461章 制敌！——王林联手灵动上人以古息叶封死奉天狼族大汉周谨 · kind=plot asOf=2026-08-25 entities=14 relations=19 src=01370-01374.p3.md
