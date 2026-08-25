@@ -4,11 +4,12 @@
   "name": "裂缝凶兽",
   "aliases": [
     "裂缝内凶兽",
-    "战场凶兽"
+    "战场凶兽",
+    "裂缝世界凶兽"
   ],
   "summary": "自裂缝内不断冲出的各类凶兽，在无尽杀戮中存活，凶焰远超云海雾气中的凶兽，欲撕裂一切生灵。",
   "attributes": {
-    "栖息地": "裂缝战场内",
+    "栖息地": "裂缝世界",
     "外形": "样子各异",
     "能力": "撕裂修士肉身、崩溃其元神",
     "天敌": "妖宗"
@@ -19,6 +20,11 @@
         "value": "裂缝战场内",
         "docId": "plot.xianni-1291-yaozong-rift",
         "seq": 1202
+      },
+      {
+        "value": "裂缝世界",
+        "docId": "plot.xianni-ch1298-tear-open-seal-shatter-nirvana-breakthrough",
+        "seq": 1212
       }
     ],
     "外形": [
@@ -47,9 +53,9 @@
   "attrProvenance": {
     "栖息地": {
       "asOf": null,
-      "docId": "plot.xianni-1291-yaozong-rift",
+      "docId": "plot.xianni-ch1298-tear-open-seal-shatter-nirvana-breakthrough",
       "dated": false,
-      "seq": 1202
+      "seq": 1212
     },
     "外形": {
       "asOf": null,
@@ -73,7 +79,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1291-yaozong-rift"
+    "plot.xianni-1291-yaozong-rift",
+    "plot.xianni-ch1298-tear-open-seal-shatter-nirvana-breakthrough"
   ],
-  "updatedAt": "2026-08-25T07:28:53.098Z"
+  "updatedAt": "2026-08-25T07:50:01.664Z"
 }
