@@ -656,3 +656,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T05:26:48.390Z** `ingest` plot.xianni-1268-tianni-vanishes-jade-pendant-centipedes — 第1268章 天逆消失！——王林灭七蜈蚣夺玉佩，天逆珠融佩而逝 · kind=plot asOf=2026-08-25 entities=20 relations=32 src=01183-01186.p4.md
 - **2026-08-25T05:29:39.469Z** `ingest` plot.xianni-ch1269-1270-li-qianmei-leaves-potian-sect-no-home — 第1269–1270章 没有了家：归元宗散去、李倩梅弃宗奔王林、双短剑百万剑影 · kind=plot asOf=2026-08-25 entities=26 relations=34 src=01187-01190.p1.md
 - **2026-08-25T05:31:59.457Z** `ingest` plot.xianni-1271-deng-ni-dao-lai-wang-lin-po-jian-feng-yin-bu-zhen — 第1271章 等你到来：王林破七道剑印凝千万剑指，百陆布三禁大阵候敌 · kind=plot asOf=2026-08-25 entities=19 relations=29 src=01187-01190.p2.md
+- **2026-08-25T05:34:41.964Z** `ingest` plot.xianni-1272-shooting-god-chariot-reappears — 仙逆 第1272章 射神车再现：王林四道杀招备战第三步大能 · kind=plot asOf=2026-08-25 entities=23 relations=26 src=01187-01190.p3.md
