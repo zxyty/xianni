@@ -4,13 +4,15 @@
   "name": "血色河流",
   "aliases": [
     "血河",
-    "地面血河"
+    "地面血河",
+    "封印之地血河"
   ],
   "summary": "古之墓地地面上的一条条血色河流，在之前的崩溃中未瓦解；王林推断此地人形凶兽的诞生与之有关，遂放蚊兽探查。",
   "attributes": {
     "所属势力": "无",
-    "类型": "地貌／灵异之河",
-    "上级区域": "古之墓地"
+    "类型": "地貌／灵异之河、血色河流",
+    "上级区域": "古之墓地、封印之地",
+    "特产": "促凶兽生长之血"
   },
   "observations": {
     "所属势力": [
@@ -25,12 +27,29 @@
         "value": "地貌／灵异之河",
         "docId": "plot.xianni-ch1451-answer-dao-ling-dan-heaven-dao",
         "seq": 1360
+      },
+      {
+        "value": "血色河流",
+        "docId": "plot.xianni-ch1452-dahuang-laodu",
+        "seq": 1360
       }
     ],
     "上级区域": [
       {
         "value": "古之墓地",
         "docId": "plot.xianni-ch1451-answer-dao-ling-dan-heaven-dao",
+        "seq": 1360
+      },
+      {
+        "value": "封印之地",
+        "docId": "plot.xianni-ch1452-dahuang-laodu",
+        "seq": 1360
+      }
+    ],
+    "特产": [
+      {
+        "value": "促凶兽生长之血",
+        "docId": "plot.xianni-ch1452-dahuang-laodu",
         "seq": 1360
       }
     ]
@@ -54,12 +73,19 @@
       "docId": "plot.xianni-ch1451-answer-dao-ling-dan-heaven-dao",
       "dated": false,
       "seq": 1360
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1452-dahuang-laodu",
+      "dated": false,
+      "seq": 1360
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1451-answer-dao-ling-dan-heaven-dao"
+    "plot.xianni-ch1451-answer-dao-ling-dan-heaven-dao",
+    "plot.xianni-ch1452-dahuang-laodu"
   ],
-  "updatedAt": "2026-08-25T19:37:03.579Z"
+  "updatedAt": "2026-08-25T19:39:38.697Z"
 }
