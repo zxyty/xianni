@@ -4,12 +4,13 @@
   "name": "闪雷族任务玉简",
   "aliases": [
     "西门任务玉简",
-    "青光玉简"
+    "青光玉简",
+    "显影玉简"
   ],
   "summary": "漂浮于西门空间半空的上百枚青光玉简，每枚记录一项闪雷族任务（追杀某修、采集独特材料等），光芒越强难度与雷晶奖励越高。",
   "attributes": {
-    "类型": "任务玉简",
-    "用途": "领取闪雷族任务、换取雷晶",
+    "类型": "玉简",
+    "用途": "催动墙壁显影展示商品",
     "产地": "闪雷族"
   },
   "observations": {
@@ -18,6 +19,11 @@
         "value": "任务玉简",
         "docId": "plot.xianni-1337-shanleizu-liudao-zhilei",
         "seq": 1250
+      },
+      {
+        "value": "玉简",
+        "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
+        "seq": 1288
       }
     ],
     "用途": [
@@ -25,6 +31,11 @@
         "value": "领取闪雷族任务、换取雷晶",
         "docId": "plot.xianni-1337-shanleizu-liudao-zhilei",
         "seq": 1250
+      },
+      {
+        "value": "催动墙壁显影展示商品",
+        "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
+        "seq": 1288
       }
     ],
     "产地": [
@@ -39,15 +50,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1337-shanleizu-liudao-zhilei",
+      "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
       "dated": false,
-      "seq": 1250
+      "seq": 1288
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-1337-shanleizu-liudao-zhilei",
+      "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
       "dated": false,
-      "seq": 1250
+      "seq": 1288
     },
     "产地": {
       "asOf": null,
@@ -59,7 +70,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1337-shanleizu-liudao-zhilei"
+    "plot.xianni-1337-shanleizu-liudao-zhilei",
+    "plot.xianni-ch1375-first-encounter-fire-sparrow"
   ],
-  "updatedAt": "2026-08-25T11:37:50.002Z"
+  "updatedAt": "2026-08-25T13:59:42.591Z"
 }

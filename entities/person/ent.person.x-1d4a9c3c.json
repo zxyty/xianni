@@ -3,12 +3,18 @@
   "type": "person",
   "name": "火雀族老者",
   "aliases": [
-    "火雀族星球内的老者"
+    "火雀族星球内的老者",
+    "火雀族天人第三衰老者",
+    "颠落之地火雀族分族首领",
+    "何道友"
   ],
   "summary": "火雀族一老者，见火鸟像崩溃后道出『他们将要回来之时，赝雀会自崩』的古老传说。",
   "attributes": {
     "种族": "火雀族",
-    "身份": "火雀族知晓古老传说的老者"
+    "身份": "颠落之地火雀族分族首领",
+    "外貌": "老者",
+    "性格": "初显傲然，受挫后极度恭谨",
+    "标志特征": "全身火焰之力，受创时火焰失控"
   },
   "observations": {
     "种族": [
@@ -23,6 +29,33 @@
         "value": "火雀族知晓古老传说的老者",
         "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
         "seq": 1123
+      },
+      {
+        "value": "颠落之地火雀族分族首领",
+        "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
+        "seq": 1288
+      }
+    ],
+    "外貌": [
+      {
+        "value": "老者",
+        "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
+        "seq": 1288
+      }
+    ],
+    "性格": [
+      {
+        "value": "初显傲然，受挫后极度恭谨",
+        "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
+        "seq": 1288,
+        "note": "第1288章"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "全身火焰之力，受创时火焰失控",
+        "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
+        "seq": 1288
       }
     ]
   },
@@ -36,15 +69,35 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
+      "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
       "dated": false,
-      "seq": 1123
+      "seq": 1288
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
+      "dated": false,
+      "seq": 1288
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
+      "dated": false,
+      "seq": 1288,
+      "note": "第1288章"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
+      "dated": false,
+      "seq": 1288
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu"
+    "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
+    "plot.xianni-ch1375-first-encounter-fire-sparrow"
   ],
-  "updatedAt": "2026-08-25T00:37:02.616Z"
+  "updatedAt": "2026-08-25T13:59:42.572Z"
 }

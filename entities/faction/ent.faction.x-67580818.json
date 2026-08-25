@@ -8,15 +8,21 @@
   ],
   "summary": "颠落之地的掌权组织，设十三位长老，长老之位每百年可被挑战；实为颠落大帝操控。",
   "attributes": {
-    "等级": "颠落之地最高权力机构",
-    "据点": "颠落之地、颠落之地诸修真星",
-    "理念": "强者为尊，长老之位以挑战定"
+    "等级": "颠落之地最高权力机构、统辖三百七十二个族落",
+    "据点": "颠落之地、颠落之地诸修真星、各长老修真星",
+    "理念": "强者为尊，长老之位以挑战定",
+    "所属界面": "颠落之地"
   },
   "observations": {
     "等级": [
       {
         "value": "颠落之地最高权力机构",
         "docId": "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
+        "seq": 1288
+      },
+      {
+        "value": "统辖三百七十二个族落",
+        "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
         "seq": 1288
       }
     ],
@@ -30,12 +36,24 @@
         "value": "颠落之地诸修真星",
         "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
         "seq": 1288
+      },
+      {
+        "value": "各长老修真星",
+        "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
+        "seq": 1288
       }
     ],
     "理念": [
       {
         "value": "强者为尊，长老之位以挑战定",
         "docId": "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
+        "seq": 1288
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "颠落之地",
+        "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
         "seq": 1288
       }
     ]
@@ -59,13 +77,20 @@
       "docId": "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
       "dated": false,
       "seq": 1288
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
+      "dated": false,
+      "seq": 1288
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
-    "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet"
+    "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
+    "plot.xianni-ch1375-first-encounter-fire-sparrow"
   ],
-  "updatedAt": "2026-08-25T13:51:55.648Z"
+  "updatedAt": "2026-08-25T13:59:42.543Z"
 }

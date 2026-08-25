@@ -3,13 +3,14 @@
   "type": "person",
   "name": "云落大司",
   "aliases": [
-    "长尊会云落大司"
+    "长尊会云落大司",
+    "云落大司算者"
   ],
   "summary": "长尊会中人，神通可推算他人所在，已算出王林在这片星域内，不久即可算出具体位置。",
   "attributes": {
-    "身份": "擅推算者",
+    "身份": "长尊会大司、擅推算者、推算者",
     "称号": "大司",
-    "阵营": "长尊会"
+    "阵营": "太古星辰一方"
   },
   "observations": {
     "身份": [
@@ -21,6 +22,11 @@
       {
         "value": "擅推算者",
         "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
+        "seq": 1288
+      },
+      {
+        "value": "推算者",
+        "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
         "seq": 1288
       }
     ],
@@ -36,6 +42,11 @@
         "value": "长尊会",
         "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
         "seq": 1280
+      },
+      {
+        "value": "太古星辰一方",
+        "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
+        "seq": 1288
       }
     ]
   },
@@ -43,9 +54,9 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
+      "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
       "dated": false,
-      "seq": 1288
+      "seq": 1280
     },
     "称号": {
       "asOf": null,
@@ -55,16 +66,17 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
+      "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
       "dated": false,
-      "seq": 1280
+      "seq": 1288
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1366-wucai-jijing-naduo-mystery",
-    "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet"
+    "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
+    "plot.xianni-ch1375-first-encounter-fire-sparrow"
   ],
-  "updatedAt": "2026-08-25T13:51:55.624Z"
+  "updatedAt": "2026-08-25T13:59:42.534Z"
 }
