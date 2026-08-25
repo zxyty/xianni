@@ -5,14 +5,16 @@
   "aliases": [
     "上品丹药",
     "王林所赐丹药",
-    "魂丸"
+    "魂丸",
+    "火雀族老者购得的魂丹"
   ],
   "summary": "王林交给钟大洪的丹药，被暗蝎族认出为『魂丹』；少主评其品阶寻常但内中之魂尚可，章姓老者则视为极难寻的上品丹药，正合其化神后期修为服用。",
   "attributes": {
     "品阶": "寻常",
     "功效": "助化神修士突破瓶颈、内蕴魂之力、蕴含魂魄、带本源气息（源于其中一滴赤红鲜血）",
     "适用境界": "化神期",
-    "炼制者": "王林"
+    "炼制者": "王林",
+    "主料": "内含来历不明的血液"
   },
   "observations": {
     "品阶": [
@@ -58,6 +60,14 @@
         "docId": "plot.xianni-1377-longbeng-dan-refine-challenge",
         "seq": 1288
       }
+    ],
+    "主料": [
+      {
+        "value": "内含来历不明的血液",
+        "docId": "plot.xianni-1379-emperor-arrives-siwang-po-tian-dao-duel",
+        "seq": 1292,
+        "note": "火雀族老者尚未查明来源"
+      }
     ]
   },
   "firstSeq": 1285,
@@ -86,13 +96,21 @@
       "docId": "plot.xianni-1377-longbeng-dan-refine-challenge",
       "dated": false,
       "seq": 1288
+    },
+    "主料": {
+      "asOf": null,
+      "docId": "plot.xianni-1379-emperor-arrives-siwang-po-tian-dao-duel",
+      "dated": false,
+      "seq": 1292,
+      "note": "火雀族老者尚未查明来源"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
-    "plot.xianni-1377-longbeng-dan-refine-challenge"
+    "plot.xianni-1377-longbeng-dan-refine-challenge",
+    "plot.xianni-1379-emperor-arrives-siwang-po-tian-dao-duel"
   ],
-  "updatedAt": "2026-08-25T14:02:42.526Z"
+  "updatedAt": "2026-08-25T14:07:57.977Z"
 }

@@ -11,19 +11,21 @@
     "追杀王林的中年男子",
     "阴森微笑的中年男子",
     "第三步大能司墨子",
-    "老夫司墨子"
+    "老夫司墨子",
+    "破天宗司墨子"
   ],
   "summary": "太古星辰第三步大能，空涅初期，追杀拓森十年的三人之一；被星点漩涡罩下时念出囚天封道法诀，令拓森色变放弃击杀，事后与空灵老者收取白衣女子的六品道灵酬劳。",
   "attributes": {
     "性别": "男",
     "外貌": "中年男子",
-    "小阶段": "天人第五衰",
-    "身份": "太古星辰第三步大能、猎杀古神者、借用龙甲族身份行事、太古星辰来客、奉命索拿王林者、龙甲族请来的外援强者、第三步大能",
-    "存殁": "存活",
+    "小阶段": "空涅初期、第三步大能（吸收六品道灵六成，隐有将破空涅初期之兆）、天人第五衰、第三步大能",
+    "身份": "太古星辰第三步大能、猎杀古神者、借用龙甲族身份行事、太古星辰来客、奉命索拿王林者、龙甲族请来的外援强者、第三步大能、破天宗之人",
+    "存殁": "分身在场存活",
     "称号": "大能",
-    "性格": "桀骜、以猎杀为乐",
+    "性格": "自负、狰狞",
     "阵营": "追杀王林一方、太古星辰一方、龙甲族一方",
-    "分身": "本章对战王林者为分身"
+    "分身": "本章对战王林者为分身、本章前来者为分身",
+    "本命法宝": "十丈大幡（岁月禁）"
   },
   "observations": {
     "性别": [
@@ -67,6 +69,11 @@
         "docId": "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi",
         "seq": 1292,
         "note": "本章现身者为分身，仅此修为"
+      },
+      {
+        "value": "第三步大能",
+        "docId": "plot.xianni-1379-emperor-arrives-siwang-po-tian-dao-duel",
+        "seq": 1292
       }
     ],
     "身份": [
@@ -100,6 +107,11 @@
         "value": "第三步大能",
         "docId": "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi",
         "seq": 1292
+      },
+      {
+        "value": "破天宗之人",
+        "docId": "plot.xianni-1379-emperor-arrives-siwang-po-tian-dao-duel",
+        "seq": 1292
       }
     ],
     "存殁": [
@@ -107,6 +119,12 @@
         "value": "存活",
         "docId": "plot.xianni-ch1311-fate-first-battle-tuosen-vs-wanglin-moon-tribe",
         "seq": 1222
+      },
+      {
+        "value": "分身在场存活",
+        "docId": "plot.xianni-1379-emperor-arrives-siwang-po-tian-dao-duel",
+        "seq": 1292,
+        "note": "章末闻『大帝』之声面色大变、露出惊恐"
       }
     ],
     "称号": [
@@ -126,6 +144,11 @@
         "value": "桀骜、以猎杀为乐",
         "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
         "seq": 1285
+      },
+      {
+        "value": "自负、狰狞",
+        "docId": "plot.xianni-1379-emperor-arrives-siwang-po-tian-dao-duel",
+        "seq": 1292
       }
     ],
     "阵营": [
@@ -152,6 +175,20 @@
         "value": "本章对战王林者为分身",
         "docId": "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi",
         "seq": 1292
+      },
+      {
+        "value": "本章前来者为分身",
+        "docId": "plot.xianni-1379-emperor-arrives-siwang-po-tian-dao-duel",
+        "seq": 1292,
+        "note": "第1379章自称『老夫就算是分身前来』"
+      }
+    ],
+    "本命法宝": [
+      {
+        "value": "十丈大幡（岁月禁）",
+        "docId": "plot.xianni-1379-emperor-arrives-siwang-po-tian-dao-duel",
+        "seq": 1292,
+        "note": "第1379章首次拿出法宝"
       }
     ]
   },
@@ -172,10 +209,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi",
+      "docId": "plot.xianni-ch1311-fate-first-battle-tuosen-vs-wanglin-moon-tribe",
       "dated": false,
-      "seq": 1292,
-      "note": "本章现身者为分身，仅此修为"
+      "seq": 1222
     },
     "身份": {
       "asOf": null,
@@ -185,9 +221,10 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch1311-fate-first-battle-tuosen-vs-wanglin-moon-tribe",
+      "docId": "plot.xianni-1379-emperor-arrives-siwang-po-tian-dao-duel",
       "dated": false,
-      "seq": 1222
+      "seq": 1292,
+      "note": "章末闻『大帝』之声面色大变、露出惊恐"
     },
     "称号": {
       "asOf": null,
@@ -197,9 +234,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
+      "docId": "plot.xianni-1379-emperor-arrives-siwang-po-tian-dao-duel",
       "dated": false,
-      "seq": 1285
+      "seq": 1292
     },
     "阵营": {
       "asOf": null,
@@ -213,6 +250,13 @@
       "docId": "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi",
       "dated": false,
       "seq": 1292
+    },
+    "本命法宝": {
+      "asOf": null,
+      "docId": "plot.xianni-1379-emperor-arrives-siwang-po-tian-dao-duel",
+      "dated": false,
+      "seq": 1292,
+      "note": "第1379章首次拿出法宝"
     }
   },
   "contested": false,
@@ -224,7 +268,8 @@
     "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
     "plot.xianni-ch1375-first-encounter-fire-sparrow",
     "plot.xianni-1377-longbeng-dan-refine-challenge",
-    "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi"
+    "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi",
+    "plot.xianni-1379-emperor-arrives-siwang-po-tian-dao-duel"
   ],
-  "updatedAt": "2026-08-25T14:05:22.497Z"
+  "updatedAt": "2026-08-25T14:07:57.963Z"
 }

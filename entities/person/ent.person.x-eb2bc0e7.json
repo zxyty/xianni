@@ -5,13 +5,15 @@
   "aliases": [
     "落生会第九长老",
     "第九长老",
-    "龙甲族族长（第九长老）"
+    "龙甲族族长（第九长老）",
+    "龙甲族的族长"
   ],
   "summary": "落生会第九长老，龙甲族族长，与司墨子当年有旧；司墨子欲借其龙甲族身份在颠落之地行事。",
   "attributes": {
     "种族": "龙甲族",
     "身份": "落生会第九长老、龙甲族族长",
-    "性格": "阴沉、傲然"
+    "性格": "阴沉、傲然",
+    "阵营": "与王林有旧怨（王林曾寻龙甲族帮助）"
   },
   "observations": {
     "种族": [
@@ -39,6 +41,14 @@
         "docId": "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi",
         "seq": 1292
       }
+    ],
+    "阵营": [
+      {
+        "value": "与王林有旧怨（王林曾寻龙甲族帮助）",
+        "docId": "plot.xianni-1379-emperor-arrives-siwang-po-tian-dao-duel",
+        "seq": 1292,
+        "note": "第1379章族长自述"
+      }
     ]
   },
   "firstSeq": 1288,
@@ -60,6 +70,13 @@
       "docId": "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi",
       "dated": false,
       "seq": 1292
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1379-emperor-arrives-siwang-po-tian-dao-duel",
+      "dated": false,
+      "seq": 1292,
+      "note": "第1379章族长自述"
     }
   },
   "contested": false,
@@ -67,7 +84,8 @@
   "docs": [
     "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
     "plot.xianni-1377-longbeng-dan-refine-challenge",
-    "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi"
+    "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi",
+    "plot.xianni-1379-emperor-arrives-siwang-po-tian-dao-duel"
   ],
-  "updatedAt": "2026-08-25T14:05:22.499Z"
+  "updatedAt": "2026-08-25T14:07:57.970Z"
 }
