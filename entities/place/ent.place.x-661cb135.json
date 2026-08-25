@@ -3,13 +3,14 @@
   "type": "place",
   "name": "蓝山",
   "aliases": [
-    "蓝光山峰"
+    "蓝光山峰",
+    "蓝丝族蓝山"
   ],
   "summary": "蓝丝族星域内一颗平凡星球上的山峰，常年笼罩蓝光，当地凡人称之蓝山；山顶茅舍为蓝梦道尊居所。",
   "attributes": {
-    "类型": "山峰·居所",
+    "类型": "山脉/族地",
     "所属势力": "蓝丝族",
-    "上级区域": "蓝丝族星域",
+    "上级区域": "太古星辰",
     "守护": "蓝梦道尊"
   },
   "observations": {
@@ -18,6 +19,11 @@
         "value": "山峰·居所",
         "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
         "seq": 1142
+      },
+      {
+        "value": "山脉/族地",
+        "docId": "plot.xianni-ch1309-tuosen-pursuit-star-rift-chase",
+        "seq": 1222
       }
     ],
     "所属势力": [
@@ -32,6 +38,11 @@
         "value": "蓝丝族星域",
         "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
         "seq": 1142
+      },
+      {
+        "value": "太古星辰",
+        "docId": "plot.xianni-ch1309-tuosen-pursuit-star-rift-chase",
+        "seq": 1222
       }
     ],
     "守护": [
@@ -46,9 +57,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
+      "docId": "plot.xianni-ch1309-tuosen-pursuit-star-rift-chase",
       "dated": false,
-      "seq": 1142
+      "seq": 1222
     },
     "所属势力": {
       "asOf": null,
@@ -58,9 +69,9 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
+      "docId": "plot.xianni-ch1309-tuosen-pursuit-star-rift-chase",
       "dated": false,
-      "seq": 1142
+      "seq": 1222
     },
     "守护": {
       "asOf": null,
@@ -72,7 +83,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1142-1145-seven-colored-realm-palm-strike"
+    "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
+    "plot.xianni-ch1309-tuosen-pursuit-star-rift-chase"
   ],
-  "updatedAt": "2026-08-25T02:28:51.431Z"
+  "updatedAt": "2026-08-25T08:26:11.949Z"
 }

@@ -691,3 +691,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T08:14:35.447Z** `ingest` plot.xianni-ch1306-ji-jing-dan-sheng — 第1306章 极境诞生：王林独抗天劫九宫至一劫 · kind=plot asOf=2026-08-25 entities=19 relations=24 src=01217-01221.p5.md
 - **2026-08-25T08:17:18.124Z** `ingest` plot.xianni-1307-tunling-shiti-juetian-breakout — 第1307章 吞灵噬体绝天大法：王林借极境破封界大阵，重伤逃出界外 · kind=plot asOf=2026-08-25 entities=21 relations=21 src=01222-01226.p1.md
 - **2026-08-25T08:19:10.560Z** `ingest` plot.xianni-ch1308-tuosen-devour-massacre — 第1308章 拓森！！——王林封界大阵外屠尽界外守阵修士 · kind=plot asOf=2026-08-25 entities=16 relations=29 src=01222-01226.p2.md
+- **2026-08-25T08:26:12.279Z** `ingest` plot.xianni-ch1309-tuosen-pursuit-star-rift-chase — 《仙逆》第1309章 追杀！！——拓森撕裂星空追至太古星辰北部 · kind=plot asOf=2026-08-25 entities=32 relations=48 src=01222-01226.p3.md
