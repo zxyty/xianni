@@ -678,3 +678,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T07:38:15.960Z** `ingest` plot.xianni-ch1293-yaozong-six-star-formation-wang-lin-arrives-rift — 第1293章 妖宗六星大阵与王林抵达裂缝战场 · kind=plot asOf=2026-08-25 entities=30 relations=48 src=01207-01211.p2.md
 - **2026-08-25T07:40:35.702Z** `ingest` plot.xianni-ch1294-dao-shu-jiuyou-long-tamed — 第1294章 道术：王林收服九幽龙、重伤妖宗长老并以道术留伤 · kind=plot asOf=2026-08-25 entities=18 relations=24 src=01207-01211.p3.md
 - **2026-08-25T07:43:00.192Z** `ingest` plot.xianni-ch1295-li-qianmei-clue-in-rift — 《仙逆》第1295章 李倩梅的线索——王林深入妖宗裂缝紫界 · kind=plot asOf=2026-08-25 entities=20 relations=32 src=01207-01211.p4.md
+- **2026-08-25T07:45:45.161Z** `ingest` plot.xianni-1296-changxiao-wanglin-rescues-li-qianmei — 仙逆 第1296章 长啸！——王林紫色裂缝内血战凶兽驰援李倩梅 · kind=plot asOf=2026-08-25 entities=20 relations=29 src=01207-01211.p5.md
