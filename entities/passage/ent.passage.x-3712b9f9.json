@@ -4,13 +4,15 @@
   "name": "联盟北部战场星空漩涡",
   "aliases": [
     "北部战场漩涡",
-    "星空漩涡"
+    "星空漩涡",
+    "闪电漩涡"
   ],
   "summary": "大战后北部战场中央形成的庞大漩涡，不断旋转吸入尘埃，内里通往虚无之界。",
   "attributes": {
-    "类型": "星空碎裂形成的漩涡通道",
-    "两端": "联盟北部战场 ↔ 虚无之界",
-    "坐标": "北部战场中间位置"
+    "类型": "星空漩涡通道",
+    "两端": "太古星辰星空 ↔ 未知之地",
+    "坐标": "闪雷族圣地正上方星空",
+    "来历": "不灭雷霆遁逃时显现"
   },
   "observations": {
     "类型": [
@@ -18,6 +20,11 @@
         "value": "星空碎裂形成的漩涡通道",
         "docId": "plot.xianni-ch935-huanglong-siheng-zong-scheme-and-thunder-beast",
         "seq": 865
+      },
+      {
+        "value": "星空漩涡通道",
+        "docId": "plot.xianni-ch1361-shanleizu-shengdi-buminleiting-tug",
+        "seq": 1275
       }
     ],
     "两端": [
@@ -25,6 +32,12 @@
         "value": "联盟北部战场 ↔ 虚无之界",
         "docId": "plot.xianni-ch935-huanglong-siheng-zong-scheme-and-thunder-beast",
         "seq": 865
+      },
+      {
+        "value": "太古星辰星空 ↔ 未知之地",
+        "docId": "plot.xianni-ch1361-shanleizu-shengdi-buminleiting-tug",
+        "seq": 1275,
+        "note": "彼端不明，王林对其气息极为陌生"
       }
     ],
     "坐标": [
@@ -32,6 +45,18 @@
         "value": "北部战场中间位置",
         "docId": "plot.xianni-ch935-huanglong-siheng-zong-scheme-and-thunder-beast",
         "seq": 865
+      },
+      {
+        "value": "闪雷族圣地正上方星空",
+        "docId": "plot.xianni-ch1361-shanleizu-shengdi-buminleiting-tug",
+        "seq": 1275
+      }
+    ],
+    "来历": [
+      {
+        "value": "不灭雷霆遁逃时显现",
+        "docId": "plot.xianni-ch1361-shanleizu-shengdi-buminleiting-tug",
+        "seq": 1275
       }
     ]
   },
@@ -39,27 +64,35 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch935-huanglong-siheng-zong-scheme-and-thunder-beast",
+      "docId": "plot.xianni-ch1361-shanleizu-shengdi-buminleiting-tug",
       "dated": false,
-      "seq": 865
+      "seq": 1275
     },
     "两端": {
       "asOf": null,
-      "docId": "plot.xianni-ch935-huanglong-siheng-zong-scheme-and-thunder-beast",
+      "docId": "plot.xianni-ch1361-shanleizu-shengdi-buminleiting-tug",
       "dated": false,
-      "seq": 865
+      "seq": 1275,
+      "note": "彼端不明，王林对其气息极为陌生"
     },
     "坐标": {
       "asOf": null,
-      "docId": "plot.xianni-ch935-huanglong-siheng-zong-scheme-and-thunder-beast",
+      "docId": "plot.xianni-ch1361-shanleizu-shengdi-buminleiting-tug",
       "dated": false,
-      "seq": 865
+      "seq": 1275
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1361-shanleizu-shengdi-buminleiting-tug",
+      "dated": false,
+      "seq": 1275
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch935-huanglong-siheng-zong-scheme-and-thunder-beast"
+    "plot.xianni-ch935-huanglong-siheng-zong-scheme-and-thunder-beast",
+    "plot.xianni-ch1361-shanleizu-shengdi-buminleiting-tug"
   ],
-  "updatedAt": "2026-08-23T21:22:06.652Z"
+  "updatedAt": "2026-08-25T12:34:09.342Z"
 }
