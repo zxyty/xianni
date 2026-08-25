@@ -3,12 +3,13 @@
   "type": "item",
   "name": "闪雷族族印",
   "aliases": [
-    "于非族印"
+    "于非族印",
+    "闪雷之印"
   ],
   "summary": "闪雷族人眉心的闪电印记，属传承之物，为万古不灭之雷的分支，开启越多修为越高。",
   "attributes": {
-    "类型": "身份印记/储物",
-    "用途": "承载闪雷族全部修为，开启越多修为越高、换取雷晶之物、储藏灵念之雷"
+    "类型": "族传印记",
+    "用途": "承载闪雷族全部修为，开启越多修为越高、换取雷晶之物、储藏灵念之雷、激发族印之力护体、召唤外界不灭雷霆、开启后化作阴阳不灭雷"
   },
   "observations": {
     "类型": [
@@ -21,6 +22,11 @@
         "value": "身份印记/储物",
         "docId": "plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu",
         "seq": 1255
+      },
+      {
+        "value": "族传印记",
+        "docId": "plot.xianni-1357-seven-swords-cutting-heaven-4",
+        "seq": 1270
       }
     ],
     "用途": [
@@ -38,6 +44,21 @@
         "value": "储藏灵念之雷",
         "docId": "plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu",
         "seq": 1255
+      },
+      {
+        "value": "激发族印之力护体",
+        "docId": "plot.xianni-1357-seven-swords-cutting-heaven-4",
+        "seq": 1270
+      },
+      {
+        "value": "召唤外界不灭雷霆",
+        "docId": "plot.xianni-1357-seven-swords-cutting-heaven-4",
+        "seq": 1270
+      },
+      {
+        "value": "开启后化作阴阳不灭雷",
+        "docId": "plot.xianni-1357-seven-swords-cutting-heaven-4",
+        "seq": 1270
       }
     ]
   },
@@ -45,9 +66,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu",
+      "docId": "plot.xianni-1357-seven-swords-cutting-heaven-4",
       "dated": false,
-      "seq": 1255
+      "seq": 1270
     },
     "用途": {
       "asOf": null,
@@ -61,7 +82,8 @@
   "docs": [
     "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
     "plot.xianni-1334-frightening-guess-thunder-seal-study",
-    "plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu"
+    "plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu",
+    "plot.xianni-1357-seven-swords-cutting-heaven-4"
   ],
-  "updatedAt": "2026-08-25T11:50:27.142Z"
+  "updatedAt": "2026-08-25T12:24:16.685Z"
 }
