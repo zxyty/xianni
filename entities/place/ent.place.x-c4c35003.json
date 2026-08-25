@@ -10,13 +10,14 @@
     "古墓封印之地",
     "生死禁封印之地",
     "古之三族封印之地",
-    "扭曲之雾内的封印之地"
+    "扭曲之雾内的封印之地",
+    "古墓内"
   ],
   "summary": "王林被传送而至的封闭之地，天空蔚蓝但白云尽头疑似肉壁；他判断其非善地却是最佳藏身处。",
   "attributes": {
-    "类型": "封印空间/秘境",
-    "特产": "玄阴鼎灵、大鼎、血河、古之三族尸骸、千丈平台、四品木道灵",
-    "危险度": "高（但适合藏身）、高、极高（两名第三步大能交战）",
+    "类型": "封印空间、封印秘境、封印之地、封印空间/秘境、封印之地/古墓",
+    "特产": "玄阴鼎灵、大鼎、血河、古之三族尸骸、千丈平台、四品木道灵、道灵",
+    "危险度": "高（但适合藏身）、高、极高（两名第三步大能交战）、极高",
     "上级区域": "妖灵之地、古之墓地、古墓、古之墓地外围",
     "守护": "古神、古妖、古魔",
     "方位": "自此一直向北可离开外围、进入墓地深处"
@@ -41,6 +42,11 @@
       {
         "value": "封印空间/秘境",
         "docId": "plot.xianni-ch1452-dahuang-laodu",
+        "seq": 1360
+      },
+      {
+        "value": "封印之地/古墓",
+        "docId": "plot.xianni-ch1454-fen-miaoyin-daozun-dahuang-alliance-break",
         "seq": 1360
       }
     ],
@@ -69,6 +75,12 @@
         "value": "四品木道灵",
         "docId": "plot.xianni-ch1453-han-mu-wang-tian",
         "seq": 1360
+      },
+      {
+        "value": "道灵",
+        "docId": "plot.xianni-ch1454-fen-miaoyin-daozun-dahuang-alliance-break",
+        "seq": 1360,
+        "note": "妙音道尊自大荒上人处所抢"
       }
     ],
     "危险度": [
@@ -85,6 +97,11 @@
       {
         "value": "极高（两名第三步大能交战）",
         "docId": "plot.xianni-ch1453-han-mu-wang-tian",
+        "seq": 1360
+      },
+      {
+        "value": "极高",
+        "docId": "plot.xianni-ch1454-fen-miaoyin-daozun-dahuang-alliance-break",
         "seq": 1360
       }
     ],
@@ -129,9 +146,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1452-dahuang-laodu",
+      "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
       "dated": false,
-      "seq": 1360
+      "seq": 758
     },
     "特产": {
       "asOf": null,
@@ -172,7 +189,8 @@
     "plot.xianni-1444-di-lin-guzhi-mudi-liwei",
     "plot.xianni-ch1447-who-is-the-oriole",
     "plot.xianni-ch1452-dahuang-laodu",
-    "plot.xianni-ch1453-han-mu-wang-tian"
+    "plot.xianni-ch1453-han-mu-wang-tian",
+    "plot.xianni-ch1454-fen-miaoyin-daozun-dahuang-alliance-break"
   ],
-  "updatedAt": "2026-08-25T19:42:23.293Z"
+  "updatedAt": "2026-08-25T19:45:23.537Z"
 }

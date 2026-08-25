@@ -820,3 +820,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T19:37:03.979Z** `ingest` plot.xianni-ch1451-answer-dao-ling-dan-heaven-dao — 仙逆 第1451章 答案！——道灵实为九阳炼成的道丹，天道乃被抢来饲养之物 · kind=plot asOf=2026-08-25 entities=25 relations=32 src=01360-01364.p2.md
 - **2026-08-25T19:39:39.148Z** `ingest` plot.xianni-ch1452-dahuang-laodu — 第1452章 大荒老毒：蚊兽饮血河、三阶墓台夺符、古之墓枷现万丈巨手 · kind=plot asOf=2026-08-25 entities=29 relations=41 src=01360-01364.p3.md
 - **2026-08-25T19:42:23.752Z** `ingest` plot.xianni-ch1453-han-mu-wang-tian — 第1453章 寒目望天！——王林闯封印之地强夺封灭族少女 · kind=plot asOf=2026-08-25 entities=22 relations=33 src=01360-01364.p4.md
+- **2026-08-25T19:45:23.899Z** `ingest` plot.xianni-ch1454-fen-miaoyin-daozun-dahuang-alliance-break — 第1454章 分！——大荒上人背誓返身，王林血剑贯穿妙音道尊 · kind=plot asOf=2026-08-25 entities=28 relations=43 src=01360-01364.p5.md
