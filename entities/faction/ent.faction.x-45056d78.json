@@ -8,14 +8,17 @@
     "Yao Sect",
     "妖宗一脉",
     "妖宗势力",
-    "九阶星域妖宗"
+    "九阶星域妖宗",
+    "云海妖宗",
+    "妖宗之人",
+    "妖宗门人"
   ],
   "summary": "本为神宗镇压凶兽后留守九阶星域深处的门人，久而独立自称妖宗，不听神宗号令但仍防守断裂空间；据传内有可修成人形的无上凶兽。",
   "attributes": {
-    "等级": "九阶星域势力",
-    "据点": "九阶星域",
-    "理念": "以儆效尤、严惩中途离场者",
-    "所属界面": "九阶星域"
+    "等级": "云海星域九阶宗派",
+    "据点": "九阶星域最深处（断裂空间处）、九阶星域雾气至深处、九阶星域、妖宗战场裂缝、六个成环形的修真星（旁为裂缝沟壑）",
+    "理念": "世代镇守断裂空间、阻止凶兽冲击，几乎不问世事、视外来修士为分散凶兽残力者，认可极苛、以战场表现选拔并传道、以儆效尤、严惩中途离场者、驻守裂缝战场抵抗凶兽入侵、保云海平安、铁血无情、以守护云海为使命、违令即杀、对绝伦之人惜才",
+    "所属界面": "云海九阶星域、九阶星域、云海星域九阶星域、云海星域"
   },
   "observations": {
     "等级": [
@@ -33,6 +36,11 @@
         "value": "九阶星域势力",
         "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
         "seq": 1200
+      },
+      {
+        "value": "云海星域九阶宗派",
+        "docId": "plot.xianni-1291-yaozong-rift",
+        "seq": 1202
       }
     ],
     "据点": [
@@ -50,6 +58,16 @@
         "value": "九阶星域",
         "docId": "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm",
         "seq": 1151
+      },
+      {
+        "value": "妖宗战场裂缝",
+        "docId": "plot.xianni-1291-yaozong-rift",
+        "seq": 1202
+      },
+      {
+        "value": "六个成环形的修真星（旁为裂缝沟壑）",
+        "docId": "plot.xianni-1291-yaozong-rift",
+        "seq": 1202
       }
     ],
     "理念": [
@@ -73,6 +91,36 @@
         "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
         "seq": 1200,
         "note": "对李倩梅一事"
+      },
+      {
+        "value": "驻守裂缝战场抵抗凶兽入侵",
+        "docId": "plot.xianni-1291-yaozong-rift",
+        "seq": 1202
+      },
+      {
+        "value": "保云海平安",
+        "docId": "plot.xianni-1291-yaozong-rift",
+        "seq": 1202
+      },
+      {
+        "value": "铁血无情",
+        "docId": "plot.xianni-1291-yaozong-rift",
+        "seq": 1202
+      },
+      {
+        "value": "以守护云海为使命",
+        "docId": "plot.xianni-1291-yaozong-rift",
+        "seq": 1202
+      },
+      {
+        "value": "违令即杀",
+        "docId": "plot.xianni-1291-yaozong-rift",
+        "seq": 1202
+      },
+      {
+        "value": "对绝伦之人惜才",
+        "docId": "plot.xianni-1291-yaozong-rift",
+        "seq": 1202
       }
     ],
     "所属界面": [
@@ -85,6 +133,16 @@
         "value": "九阶星域",
         "docId": "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm",
         "seq": 1151
+      },
+      {
+        "value": "云海星域九阶星域",
+        "docId": "plot.xianni-1291-yaozong-rift",
+        "seq": 1202
+      },
+      {
+        "value": "云海星域",
+        "docId": "plot.xianni-1291-yaozong-rift",
+        "seq": 1202
       }
     ]
   },
@@ -92,28 +150,27 @@
   "attrProvenance": {
     "等级": {
       "asOf": null,
-      "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
+      "docId": "plot.xianni-1291-yaozong-rift",
       "dated": false,
-      "seq": 1200
+      "seq": 1202
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm",
+      "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
       "dated": false,
-      "seq": 1151
+      "seq": 1082
     },
     "理念": {
       "asOf": null,
-      "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
+      "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
       "dated": false,
-      "seq": 1200,
-      "note": "对李倩梅一事"
+      "seq": 1082
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm",
+      "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
       "dated": false,
-      "seq": 1151
+      "seq": 1082
     }
   },
   "contested": false,
@@ -129,7 +186,8 @@
     "plot.xianni-ch1263-fish-and-bird-li-qianmei-farewell",
     "plot.xianni-ch1269-1270-li-qianmei-leaves-potian-sect-no-home",
     "lore.xianni-1284-tianni-origin-fengjie-zhizun",
-    "plot.xianni-1287-sui-qian-wan-ren-wu-wang-yi"
+    "plot.xianni-1287-sui-qian-wan-ren-wu-wang-yi",
+    "plot.xianni-1291-yaozong-rift"
   ],
-  "updatedAt": "2026-08-25T07:14:21.285Z"
+  "updatedAt": "2026-08-25T07:28:53.077Z"
 }

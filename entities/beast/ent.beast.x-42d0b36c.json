@@ -4,13 +4,17 @@
   "name": "蚊兽王兽",
   "aliases": [
     "王兽",
-    "蚊兽之王"
+    "蚊兽之王",
+    "裂缝王兽",
+    "凶兽之王"
   ],
   "summary": "蚊兽群的王者；贪狼将七魔针全部刺入其体内，从而等同操控整群蚊兽。",
   "attributes": {
     "种族": "蚊兽",
     "主人": "贪狼",
-    "能力": "统领整群蚊兽、以历啸号令蚊兽群"
+    "能力": "统领整群蚊兽、以历啸号令蚊兽群、气息爆发压制群兽、引发凶兽数量暴增",
+    "栖息地": "裂缝战场（裂缝内）",
+    "等级": "凶兽中的王者"
   },
   "observations": {
     "种族": [
@@ -38,6 +42,30 @@
         "value": "以历啸号令蚊兽群",
         "docId": "plot.xianni-ch645-jueduan-chenlong-escapes-purple-mist",
         "seq": 605
+      },
+      {
+        "value": "气息爆发压制群兽",
+        "docId": "plot.xianni-1291-yaozong-rift",
+        "seq": 1202
+      },
+      {
+        "value": "引发凶兽数量暴增",
+        "docId": "plot.xianni-1291-yaozong-rift",
+        "seq": 1202
+      }
+    ],
+    "栖息地": [
+      {
+        "value": "裂缝战场（裂缝内）",
+        "docId": "plot.xianni-1291-yaozong-rift",
+        "seq": 1202
+      }
+    ],
+    "等级": [
+      {
+        "value": "凶兽中的王者",
+        "docId": "plot.xianni-1291-yaozong-rift",
+        "seq": 1202
       }
     ]
   },
@@ -61,13 +89,26 @@
       "docId": "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua",
       "dated": false,
       "seq": 605
+    },
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.xianni-1291-yaozong-rift",
+      "dated": false,
+      "seq": 1202
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-1291-yaozong-rift",
+      "dated": false,
+      "seq": 1202
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua",
-    "plot.xianni-ch645-jueduan-chenlong-escapes-purple-mist"
+    "plot.xianni-ch645-jueduan-chenlong-escapes-purple-mist",
+    "plot.xianni-1291-yaozong-rift"
   ],
-  "updatedAt": "2026-08-22T19:03:03.675Z"
+  "updatedAt": "2026-08-25T07:28:53.096Z"
 }

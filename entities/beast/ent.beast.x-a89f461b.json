@@ -7,12 +7,15 @@
     "七彩界十二阶凶兽",
     "十二阶凶兽群",
     "七彩界凶兽",
-    "十二阶凶兽（七彩界）"
+    "十二阶凶兽（七彩界）",
+    "九阶星域凶兽"
   ],
   "summary": "盘踞此山脉之上的七头十二阶凶兽，苍松子曾攀山遭遇、死伤惨重而未能通过。",
   "attributes": {
     "等级": "十二阶",
-    "栖息地": "九阶星域奇异裂缝战场（兽潮）"
+    "栖息地": "云海九阶星域星雾",
+    "能力": "化作雾气隐藏",
+    "天敌": "妖宗"
   },
   "observations": {
     "等级": [
@@ -42,6 +45,25 @@
         "value": "九阶星域奇异裂缝战场（兽潮）",
         "docId": "plot.xianni-1217-tuosen-awakens-sweeps-star-domain",
         "seq": 1132
+      },
+      {
+        "value": "云海九阶星域星雾",
+        "docId": "plot.xianni-1291-yaozong-rift",
+        "seq": 1202
+      }
+    ],
+    "能力": [
+      {
+        "value": "化作雾气隐藏",
+        "docId": "plot.xianni-1291-yaozong-rift",
+        "seq": 1202
+      }
+    ],
+    "天敌": [
+      {
+        "value": "妖宗",
+        "docId": "plot.xianni-1291-yaozong-rift",
+        "seq": 1202
       }
     ]
   },
@@ -55,9 +77,21 @@
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.xianni-1217-tuosen-awakens-sweeps-star-domain",
+      "docId": "plot.xianni-1291-yaozong-rift",
       "dated": false,
-      "seq": 1132
+      "seq": 1202
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-1291-yaozong-rift",
+      "dated": false,
+      "seq": 1202
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.xianni-1291-yaozong-rift",
+      "dated": false,
+      "seq": 1202
     }
   },
   "contested": false,
@@ -67,7 +101,8 @@
     "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
     "plot.xianni-1201-shouhu-qicaijie-canglaozhe-daonian-jingshi",
     "plot.xianni-1202-zhong-dao-cangsongzi-slain",
-    "plot.xianni-1217-tuosen-awakens-sweeps-star-domain"
+    "plot.xianni-1217-tuosen-awakens-sweeps-star-domain",
+    "plot.xianni-1291-yaozong-rift"
   ],
-  "updatedAt": "2026-08-25T01:56:57.267Z"
+  "updatedAt": "2026-08-25T07:28:53.072Z"
 }
