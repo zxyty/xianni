@@ -7,13 +7,17 @@
     "天酝之雷、地融之雷、元化之雷、磁含之雷、道意之雷、灵念之雷",
     "闪雷族伴随之雷",
     "九道伴雷",
-    "六道伴雷"
+    "六道伴雷",
+    "伴雷",
+    "九道伴随之雷",
+    "Nine Companion Thunders"
   ],
   "summary": "闪雷族大长老的神通：六道雷非自体内凝聚而是召唤而出，消散后并未毁灭、可再次唤出，故随元神被夺而易主。",
   "attributes": {
     "类型": "雷系召唤神通",
-    "出处": "闪雷族大长老",
-    "威力": "六道雷分列：天酝、地融、元化、磁含、道意、灵念"
+    "出处": "闪雷族大长老、雷修之道",
+    "威力": "六道雷分列：天酝、地融、元化、磁含、道意、灵念",
+    "适用境界": "碎涅（第二步）至冲击第三步"
   },
   "observations": {
     "类型": [
@@ -28,12 +32,24 @@
         "value": "闪雷族大长老",
         "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
         "seq": 1280
+      },
+      {
+        "value": "雷修之道",
+        "docId": "plot.xianni-1368-nine-companion-thunders-gate-of-void",
+        "seq": 1280
       }
     ],
     "威力": [
       {
         "value": "六道雷分列：天酝、地融、元化、磁含、道意、灵念",
         "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
+        "seq": 1280
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "碎涅（第二步）至冲击第三步",
+        "docId": "plot.xianni-1368-nine-companion-thunders-gate-of-void",
         "seq": 1280
       }
     ]
@@ -57,13 +73,20 @@
       "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
       "dated": false,
       "seq": 1280
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-1368-nine-companion-thunders-gate-of-void",
+      "dated": false,
+      "seq": 1280
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1366-wucai-jijing-naduo-mystery",
-    "plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin"
+    "plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin",
+    "plot.xianni-1368-nine-companion-thunders-gate-of-void"
   ],
-  "updatedAt": "2026-08-25T13:00:07.451Z"
+  "updatedAt": "2026-08-25T13:02:24.518Z"
 }
