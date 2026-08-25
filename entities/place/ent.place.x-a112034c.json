@@ -7,14 +7,16 @@
     "凸起的大石",
     "斜着凸起的石台",
     "巨大石台",
-    "宝座石台"
+    "宝座石台",
+    "传承石台",
+    "宫殿内石台"
   ],
   "summary": "距裂缝口约二十丈外下方、斜着凸出的石台，其上有古朴传送阵；王林在此坐了十一年逼红线、悟吸力。",
   "attributes": {
-    "类型": "台/座",
-    "方位": "无尽大殿中心，殿内众石化修士与巨龙皆朝向之",
+    "类型": "传承之地/古战场核心",
+    "方位": "宫殿之内",
     "上级区域": "无尽大殿",
-    "守护": "无（已成遗迹）"
+    "守护": "道古之力显化的头颅虚影"
   },
   "observations": {
     "类型": [
@@ -27,6 +29,11 @@
         "value": "台/座",
         "docId": "plot.xianni-1468-borrowed-momentum-throne-of-ancient-god",
         "seq": 1375
+      },
+      {
+        "value": "传承之地/古战场核心",
+        "docId": "plot.xianni-1469-chuancheng-1-daogu-yemo-battle-vision",
+        "seq": 1380
       }
     ],
     "方位": [
@@ -39,6 +46,11 @@
         "value": "无尽大殿中心，殿内众石化修士与巨龙皆朝向之",
         "docId": "plot.xianni-1468-borrowed-momentum-throne-of-ancient-god",
         "seq": 1375
+      },
+      {
+        "value": "宫殿之内",
+        "docId": "plot.xianni-1469-chuancheng-1-daogu-yemo-battle-vision",
+        "seq": 1380
       }
     ],
     "上级区域": [
@@ -63,6 +75,11 @@
         "value": "无（已成遗迹）",
         "docId": "plot.xianni-1468-borrowed-momentum-throne-of-ancient-god",
         "seq": 1375
+      },
+      {
+        "value": "道古之力显化的头颅虚影",
+        "docId": "plot.xianni-1469-chuancheng-1-daogu-yemo-battle-vision",
+        "seq": 1380
       }
     ]
   },
@@ -70,15 +87,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1468-borrowed-momentum-throne-of-ancient-god",
+      "docId": "plot.xianni-1469-chuancheng-1-daogu-yemo-battle-vision",
       "dated": false,
-      "seq": 1375
+      "seq": 1380
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-1468-borrowed-momentum-throne-of-ancient-god",
+      "docId": "plot.xianni-1469-chuancheng-1-daogu-yemo-battle-vision",
       "dated": false,
-      "seq": 1375
+      "seq": 1380
     },
     "上级区域": {
       "asOf": null,
@@ -88,16 +105,17 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-1468-borrowed-momentum-throne-of-ancient-god",
+      "docId": "plot.xianni-1469-chuancheng-1-daogu-yemo-battle-vision",
       "dated": false,
-      "seq": 1375
+      "seq": 1380
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch614-617-refine-immortal-guard-dujian",
-    "plot.xianni-1468-borrowed-momentum-throne-of-ancient-god"
+    "plot.xianni-1468-borrowed-momentum-throne-of-ancient-god",
+    "plot.xianni-1469-chuancheng-1-daogu-yemo-battle-vision"
   ],
-  "updatedAt": "2026-08-25T21:40:54.412Z"
+  "updatedAt": "2026-08-25T21:43:21.467Z"
 }

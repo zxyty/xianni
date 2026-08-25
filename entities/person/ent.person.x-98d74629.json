@@ -4,13 +4,17 @@
   "name": "撑伞中年文士",
   "aliases": [
     "伞下中年文士",
-    "撑伞的中年文士"
+    "撑伞的中年文士",
+    "撑伞男子",
+    "撑伞的中年男子"
   ],
   "summary": "王林所见无数年前旧景中的人物：撑起一把伞，隔着无数冲上前去的修士，遥望座椅之上的存在，抬起左手向前一指。身份未明。",
   "attributes": {
-    "外貌": "中年文士，撑伞",
+    "外貌": "中年文士，手撑一伞",
     "标志特征": "抬左手向前一指",
-    "身份": "身份未明"
+    "身份": "身份未明",
+    "存殁": "石化",
+    "死因": "被道古头颅虚影所喷气息卷中而石化"
   },
   "observations": {
     "外貌": [
@@ -18,6 +22,11 @@
         "value": "中年文士，撑伞",
         "docId": "plot.xianni-1468-borrowed-momentum-throne-of-ancient-god",
         "seq": 1375
+      },
+      {
+        "value": "中年文士，手撑一伞",
+        "docId": "plot.xianni-1469-chuancheng-1-daogu-yemo-battle-vision",
+        "seq": 1380
       }
     ],
     "标志特征": [
@@ -34,15 +43,30 @@
         "seq": 1375,
         "note": "仅出现于王林眼中无数年前的旧景"
       }
+    ],
+    "存殁": [
+      {
+        "value": "石化",
+        "docId": "plot.xianni-1469-chuancheng-1-daogu-yemo-battle-vision",
+        "seq": 1380,
+        "note": "幻象中被道古之息卷中，与伞一同化为石人"
+      }
+    ],
+    "死因": [
+      {
+        "value": "被道古头颅虚影所喷气息卷中而石化",
+        "docId": "plot.xianni-1469-chuancheng-1-daogu-yemo-battle-vision",
+        "seq": 1380
+      }
     ]
   },
   "firstSeq": 1375,
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-1468-borrowed-momentum-throne-of-ancient-god",
+      "docId": "plot.xianni-1469-chuancheng-1-daogu-yemo-battle-vision",
       "dated": false,
-      "seq": 1375
+      "seq": 1380
     },
     "标志特征": {
       "asOf": null,
@@ -56,12 +80,26 @@
       "dated": false,
       "seq": 1375,
       "note": "仅出现于王林眼中无数年前的旧景"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1469-chuancheng-1-daogu-yemo-battle-vision",
+      "dated": false,
+      "seq": 1380,
+      "note": "幻象中被道古之息卷中，与伞一同化为石人"
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-1469-chuancheng-1-daogu-yemo-battle-vision",
+      "dated": false,
+      "seq": 1380
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1468-borrowed-momentum-throne-of-ancient-god"
+    "plot.xianni-1468-borrowed-momentum-throne-of-ancient-god",
+    "plot.xianni-1469-chuancheng-1-daogu-yemo-battle-vision"
   ],
-  "updatedAt": "2026-08-25T21:40:54.440Z"
+  "updatedAt": "2026-08-25T21:43:21.460Z"
 }

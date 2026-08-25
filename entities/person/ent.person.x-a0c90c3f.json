@@ -6,12 +6,16 @@
     "道古烨寞",
     "本道烨寞",
     "Ye Mo",
-    "古墓传承之主"
+    "古墓传承之主",
+    "当年坐在石台座椅上的男子",
+    "道古之主"
   ],
   "summary": "古之墓地传承的留声者，自称「本道，烨寞」，设下五阶开轮回门、九阶为终的传承试炼规则；王林第二次听到此名（第一次出自一代朱雀）。",
   "attributes": {
-    "身份": "古墓传承留下者",
-    "称号": "道古烨寞、未名列仙尊、道古"
+    "身份": "当年石台座椅之主",
+    "称号": "道古烨寞、未名列仙尊、道古",
+    "标志特征": "左目被射落，左目含半生记忆与故乡思念",
+    "外貌": "只有头颅、与天地齐高的巨大虚影"
   },
   "observations": {
     "身份": [
@@ -19,6 +23,11 @@
         "value": "古墓传承留下者",
         "docId": "plot.xianni-ch1457-shao-yi-ge",
         "seq": 1365
+      },
+      {
+        "value": "当年石台座椅之主",
+        "docId": "plot.xianni-1469-chuancheng-1-daogu-yemo-battle-vision",
+        "seq": 1380
       }
     ],
     "称号": [
@@ -38,21 +47,49 @@
         "docId": "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
         "seq": 1370
       }
+    ],
+    "标志特征": [
+      {
+        "value": "左目被射落，左目含半生记忆与故乡思念",
+        "docId": "plot.xianni-1469-chuancheng-1-daogu-yemo-battle-vision",
+        "seq": 1380
+      }
+    ],
+    "外貌": [
+      {
+        "value": "只有头颅、与天地齐高的巨大虚影",
+        "docId": "plot.xianni-1469-chuancheng-1-daogu-yemo-battle-vision",
+        "seq": 1380,
+        "note": "道古之力凝成的显化形态"
+      }
     ]
   },
   "firstSeq": 1365,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1457-shao-yi-ge",
+      "docId": "plot.xianni-1469-chuancheng-1-daogu-yemo-battle-vision",
       "dated": false,
-      "seq": 1365
+      "seq": 1380
     },
     "称号": {
       "asOf": null,
       "docId": "plot.xianni-ch1457-shao-yi-ge",
       "dated": false,
       "seq": 1365
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-1469-chuancheng-1-daogu-yemo-battle-vision",
+      "dated": false,
+      "seq": 1380
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-1469-chuancheng-1-daogu-yemo-battle-vision",
+      "dated": false,
+      "seq": 1380,
+      "note": "道古之力凝成的显化形态"
     }
   },
   "contested": false,
@@ -60,7 +97,8 @@
   "docs": [
     "plot.xianni-ch1457-shao-yi-ge",
     "plot.xianni-1458-ci-dao-wanglin-ponders-ancient-tomb-revives-trees",
-    "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight"
+    "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
+    "plot.xianni-1469-chuancheng-1-daogu-yemo-battle-vision"
   ],
-  "updatedAt": "2026-08-25T21:19:26.236Z"
+  "updatedAt": "2026-08-25T21:43:21.458Z"
 }
