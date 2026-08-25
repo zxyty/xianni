@@ -1,47 +1,40 @@
 {
-  "id": "ent.realm.x-c97f5cdd",
-  "type": "realm",
-  "name": "空劫",
+  "id": "ent.item.x-5f8f0664",
+  "type": "item",
+  "name": "多宝上人的玉简",
   "aliases": [
-    "空劫期",
-    "空劫境"
+    "多宝玉简"
   ],
-  "summary": "战老鬼埋骨时所处之境界，王林推测为第三步中的某个境界，疑在空灵之上。",
+  "summary": "承载多宝上人一生遗憾与射神车之秘的玉简，最终落在王林手上。",
   "attributes": {
-    "阶序": "涅劫四境第四境",
-    "上一境": "空玄"
+    "类型": "玉简",
+    "用途": "承载射神车传承与遗憾"
   },
   "observations": {
-    "阶序": [
+    "类型": [
       {
-        "value": "第三步境界之一",
-        "docId": "plot.xianni-1204-tiandao-zhi-ji-zhanxingye-remains",
-        "seq": 1119,
-        "note": "王林推测"
-      },
-      {
-        "value": "涅劫四境第四境",
+        "value": "玉简",
         "docId": "plot.xianni-1275-nie-jie-si-jing-she-shen-che-vs-shui-dao-zi",
         "seq": 1191
       }
     ],
-    "上一境": [
+    "用途": [
       {
-        "value": "空玄",
+        "value": "承载射神车传承与遗憾",
         "docId": "plot.xianni-1275-nie-jie-si-jing-she-shen-che-vs-shui-dao-zi",
         "seq": 1191
       }
     ]
   },
-  "firstSeq": 1119,
+  "firstSeq": 1191,
   "attrProvenance": {
-    "阶序": {
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-1275-nie-jie-si-jing-she-shen-che-vs-shui-dao-zi",
       "dated": false,
       "seq": 1191
     },
-    "上一境": {
+    "用途": {
       "asOf": null,
       "docId": "plot.xianni-1275-nie-jie-si-jing-she-shen-che-vs-shui-dao-zi",
       "dated": false,
@@ -51,8 +44,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1204-tiandao-zhi-ji-zhanxingye-remains",
     "plot.xianni-1275-nie-jie-si-jing-she-shen-che-vs-shui-dao-zi"
   ],
-  "updatedAt": "2026-08-25T05:42:17.187Z"
+  "updatedAt": "2026-08-25T05:42:17.175Z"
 }

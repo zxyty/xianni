@@ -1,62 +1,55 @@
 {
-  "id": "ent.realm.x-8d83912d",
-  "type": "realm",
-  "name": "空灵",
+  "id": "ent.spell.x-2c4aba08",
+  "type": "spell",
+  "name": "九鬼雾气",
   "aliases": [
-    "空灵之境",
-    "空灵境界",
-    "空灵期"
+    "九鬼雾",
+    "九个鬼头神通"
   ],
-  "summary": "战星野凭战字贴所达之境界，王林推测为第三步中的某个境界。",
+  "summary": "水道子口喷漆黑雾气，内现九个狰狞鬼头吞噬敌手，每头相当于一名天人第三衰修士全部之力，足以横扫任何星域。",
   "attributes": {
-    "阶序": "涅劫四境第二境",
-    "上一境": "空涅",
-    "下一境": "空玄"
+    "类型": "吞噬类神通",
+    "威力": "每鬼头等同天人第三衰修士全力，可横扫一个星域",
+    "消耗": "本章两个鬼头被七彩之芒撞碎，化作天地之力消散"
   },
   "observations": {
-    "阶序": [
+    "类型": [
       {
-        "value": "第三步境界之一",
-        "docId": "plot.xianni-1204-tiandao-zhi-ji-zhanxingye-remains",
-        "seq": 1119,
-        "note": "王林推测"
-      },
-      {
-        "value": "涅劫四境第二境",
+        "value": "吞噬类神通",
         "docId": "plot.xianni-1275-nie-jie-si-jing-she-shen-che-vs-shui-dao-zi",
         "seq": 1191
       }
     ],
-    "上一境": [
+    "威力": [
       {
-        "value": "空涅",
+        "value": "每鬼头等同天人第三衰修士全力，可横扫一个星域",
         "docId": "plot.xianni-1275-nie-jie-si-jing-she-shen-che-vs-shui-dao-zi",
         "seq": 1191
       }
     ],
-    "下一境": [
+    "消耗": [
       {
-        "value": "空玄",
+        "value": "本章两个鬼头被七彩之芒撞碎，化作天地之力消散",
         "docId": "plot.xianni-1275-nie-jie-si-jing-she-shen-che-vs-shui-dao-zi",
         "seq": 1191
       }
     ]
   },
-  "firstSeq": 1119,
+  "firstSeq": 1191,
   "attrProvenance": {
-    "阶序": {
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-1275-nie-jie-si-jing-she-shen-che-vs-shui-dao-zi",
       "dated": false,
       "seq": 1191
     },
-    "上一境": {
+    "威力": {
       "asOf": null,
       "docId": "plot.xianni-1275-nie-jie-si-jing-she-shen-che-vs-shui-dao-zi",
       "dated": false,
       "seq": 1191
     },
-    "下一境": {
+    "消耗": {
       "asOf": null,
       "docId": "plot.xianni-1275-nie-jie-si-jing-she-shen-che-vs-shui-dao-zi",
       "dated": false,
@@ -66,8 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1204-tiandao-zhi-ji-zhanxingye-remains",
     "plot.xianni-1275-nie-jie-si-jing-she-shen-che-vs-shui-dao-zi"
   ],
-  "updatedAt": "2026-08-25T05:42:17.186Z"
+  "updatedAt": "2026-08-25T05:42:17.177Z"
 }

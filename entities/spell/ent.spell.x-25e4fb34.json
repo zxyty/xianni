@@ -1,62 +1,55 @@
 {
-  "id": "ent.realm.x-8d83912d",
-  "type": "realm",
-  "name": "空灵",
+  "id": "ent.spell.x-25e4fb34",
+  "type": "spell",
+  "name": "大自在切割道",
   "aliases": [
-    "空灵之境",
-    "空灵境界",
-    "空灵期"
+    "大自在切割道刃",
+    "切割道"
   ],
-  "summary": "战星野凭战字贴所达之境界，王林推测为第三步中的某个境界。",
+  "summary": "水道子神通，右手化作可切割天地一切物质的最强规则，可切碎虚空为锯齿，并化出连接天地的巨大锯齿裂缝将一切一分为二。",
   "attributes": {
-    "阶序": "涅劫四境第二境",
-    "上一境": "空涅",
-    "下一境": "空玄"
+    "类型": "规则类攻击神通",
+    "威力": "切开虚空、斩断万丈长矛、一切物质一分为二",
+    "适用境界": "第三步大能"
   },
   "observations": {
-    "阶序": [
+    "类型": [
       {
-        "value": "第三步境界之一",
-        "docId": "plot.xianni-1204-tiandao-zhi-ji-zhanxingye-remains",
-        "seq": 1119,
-        "note": "王林推测"
-      },
-      {
-        "value": "涅劫四境第二境",
+        "value": "规则类攻击神通",
         "docId": "plot.xianni-1275-nie-jie-si-jing-she-shen-che-vs-shui-dao-zi",
         "seq": 1191
       }
     ],
-    "上一境": [
+    "威力": [
       {
-        "value": "空涅",
+        "value": "切开虚空、斩断万丈长矛、一切物质一分为二",
         "docId": "plot.xianni-1275-nie-jie-si-jing-she-shen-che-vs-shui-dao-zi",
         "seq": 1191
       }
     ],
-    "下一境": [
+    "适用境界": [
       {
-        "value": "空玄",
+        "value": "第三步大能",
         "docId": "plot.xianni-1275-nie-jie-si-jing-she-shen-che-vs-shui-dao-zi",
         "seq": 1191
       }
     ]
   },
-  "firstSeq": 1119,
+  "firstSeq": 1191,
   "attrProvenance": {
-    "阶序": {
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-1275-nie-jie-si-jing-she-shen-che-vs-shui-dao-zi",
       "dated": false,
       "seq": 1191
     },
-    "上一境": {
+    "威力": {
       "asOf": null,
       "docId": "plot.xianni-1275-nie-jie-si-jing-she-shen-che-vs-shui-dao-zi",
       "dated": false,
       "seq": 1191
     },
-    "下一境": {
+    "适用境界": {
       "asOf": null,
       "docId": "plot.xianni-1275-nie-jie-si-jing-she-shen-che-vs-shui-dao-zi",
       "dated": false,
@@ -66,8 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1204-tiandao-zhi-ji-zhanxingye-remains",
     "plot.xianni-1275-nie-jie-si-jing-she-shen-che-vs-shui-dao-zi"
   ],
-  "updatedAt": "2026-08-25T05:42:17.186Z"
+  "updatedAt": "2026-08-25T05:42:17.176Z"
 }
