@@ -5,13 +5,16 @@
   "aliases": [
     "先祖战星野",
     "Zhan Xingye",
-    "战家先祖"
+    "战家先祖",
+    "战空野（原文误写）"
   ],
   "summary": "战家先祖，无数年来唯一能令战字帖兽灵畏惧者；多年参详后打开第三幅图，表情古怪后带图闭关千年，最终失踪，只余第三幅图与一枚玉简。",
   "attributes": {
-    "身份": "战家先祖",
-    "存殁": "失踪",
-    "结局": "失踪，疑与战字帖传承有关"
+    "身份": "罗天战家先祖",
+    "存殁": "疑似死亡/被封",
+    "结局": "失踪，疑与战字帖传承有关",
+    "外貌": "一身白衣、身形极为模糊的老者",
+    "死因": "被自称「本尊」者以七彩太初之力一字「封」凝聚封印封死，为取其战魂寻战老鬼埋骨地"
   },
   "observations": {
     "身份": [
@@ -19,6 +22,11 @@
         "value": "战家先祖",
         "docId": "plot.xianni-881-884-qualification-war-scroll-second",
         "seq": 881
+      },
+      {
+        "value": "罗天战家先祖",
+        "docId": "plot.xianni-1204-tiandao-zhi-ji-zhanxingye-remains",
+        "seq": 1119
       }
     ],
     "存殁": [
@@ -27,6 +35,12 @@
         "docId": "plot.xianni-881-884-qualification-war-scroll-second",
         "seq": 881,
         "note": "闭关千年后族人发现只剩第三幅战字图与一枚玉简"
+      },
+      {
+        "value": "疑似死亡/被封",
+        "docId": "plot.xianni-1204-tiandao-zhi-ji-zhanxingye-remains",
+        "seq": 1119,
+        "note": "王林质疑其未完全死亡——骨内意志过于清晰"
       }
     ],
     "结局": [
@@ -35,34 +49,61 @@
         "docId": "plot.xianni-881-884-qualification-war-scroll-second",
         "seq": 881
       }
+    ],
+    "外貌": [
+      {
+        "value": "一身白衣、身形极为模糊的老者",
+        "docId": "plot.xianni-1204-tiandao-zhi-ji-zhanxingye-remains",
+        "seq": 1119
+      }
+    ],
+    "死因": [
+      {
+        "value": "被自称「本尊」者以七彩太初之力一字「封」凝聚封印封死，为取其战魂寻战老鬼埋骨地",
+        "docId": "plot.xianni-1204-tiandao-zhi-ji-zhanxingye-remains",
+        "seq": 1119
+      }
     ]
   },
   "firstSeq": 881,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-881-884-qualification-war-scroll-second",
+      "docId": "plot.xianni-1204-tiandao-zhi-ji-zhanxingye-remains",
       "dated": false,
-      "seq": 881
+      "seq": 1119
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-881-884-qualification-war-scroll-second",
+      "docId": "plot.xianni-1204-tiandao-zhi-ji-zhanxingye-remains",
       "dated": false,
-      "seq": 881,
-      "note": "闭关千年后族人发现只剩第三幅战字图与一枚玉简"
+      "seq": 1119,
+      "note": "王林质疑其未完全死亡——骨内意志过于清晰"
     },
     "结局": {
       "asOf": null,
       "docId": "plot.xianni-881-884-qualification-war-scroll-second",
       "dated": false,
       "seq": 881
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-1204-tiandao-zhi-ji-zhanxingye-remains",
+      "dated": false,
+      "seq": 1119
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-1204-tiandao-zhi-ji-zhanxingye-remains",
+      "dated": false,
+      "seq": 1119
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-881-884-qualification-war-scroll-second"
+    "plot.xianni-881-884-qualification-war-scroll-second",
+    "plot.xianni-1204-tiandao-zhi-ji-zhanxingye-remains"
   ],
-  "updatedAt": "2026-08-23T22:14:20.070Z"
+  "updatedAt": "2026-08-25T00:26:49.392Z"
 }
