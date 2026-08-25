@@ -706,3 +706,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T09:53:55.753Z** `ingest` plot.xianni-1321-third-step-membrane — 第1321章 第三步的隔膜——王林悟光影盾之光与蓝梦道尊道术 · kind=plot asOf=2026-08-25 entities=31 relations=33 src=01232-01236.p5.md
 - **2026-08-25T09:56:19.718Z** `ingest` plot.xianni-ch1322-yibian-fusion-of-fengxian-seal-and-huhuan-huanyu-realm — 第1322章 异变！——王林融合缩地成寸、强融封仙印致爆炸，改以呼风唤雨界收纳 · kind=plot asOf=2026-08-25 entities=22 relations=28 src=01237-01241.p1.md
 - **2026-08-25T10:03:55.850Z** `ingest` plot.xianni-ch1322-mentu-xianghuo-fengxianyin-fusion — 第1322章 门徒香火：封仙印融入呼风唤雨界，战魂化香火之源 · kind=plot asOf=2026-08-25 entities=40 relations=70 src=01237-01241.p2.md
+- **2026-08-25T10:10:41.277Z** `ingest` plot.xianni-1324-walking-out-of-lansi — 第1324章 走出蓝丝！——月噬族青云灵术之秘与白衣女子三度拦路 · kind=plot asOf=2026-08-25 entities=30 relations=43 src=01237-01241.p3.md
