@@ -3,15 +3,17 @@
   "type": "race",
   "name": "火雀族",
   "aliases": [
-    "火雀一族"
+    "火雀一族",
+    "Huo Que Clan"
   ],
   "summary": "以眉心火焰图腾（族腾）为标志的异族，其青年在七彩界深处感受到召唤与族腾欲离体，断定此地有火雀族先祖。",
   "attributes": {
-    "特性": "眉心有火焰图腾（族腾），受强大心神感应时图腾燃烧、眉心带火焰图腾，背生朱雀状火焰双翼、地域充满燃烧的火焰、庙宇立黑色火鸟朱雀像、传说：他们将要回来时赝雀自崩、火系、可召唤火鸟祖灵",
+    "特性": "眉心有火焰图腾（族腾），受强大心神感应时图腾燃烧、眉心带火焰图腾，背生朱雀状火焰双翼、地域充满燃烧的火焰、庙宇立黑色火鸟朱雀像、传说：他们将要回来时赝雀自崩、火系、可召唤火鸟祖灵、火属性种族",
     "代表人物": "眉心火焰图腾的青年",
     "天赋神通": "火焰风暴、火焰之枪、请族灵、掌控火焰、火",
     "阵营": "界外之人",
-    "聚居地": "太古星辰"
+    "聚居地": "火属性浓郁的修真星",
+    "天敌": "王林"
   },
   "observations": {
     "特性": [
@@ -44,6 +46,11 @@
         "value": "火系、可召唤火鸟祖灵",
         "docId": "plot.xianni-1209-yueshi-clan-ancient-god-statues-collapse",
         "seq": 1127
+      },
+      {
+        "value": "火属性种族",
+        "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
+        "seq": 1285
       }
     ],
     "代表人物": [
@@ -97,6 +104,18 @@
         "value": "太古星辰",
         "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
         "seq": 1123
+      },
+      {
+        "value": "火属性浓郁的修真星",
+        "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
+        "seq": 1285
+      }
+    ],
+    "天敌": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
+        "seq": 1285
       }
     ]
   },
@@ -128,9 +147,15 @@
     },
     "聚居地": {
       "asOf": null,
-      "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
+      "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
       "dated": false,
-      "seq": 1123
+      "seq": 1285
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
+      "dated": false,
+      "seq": 1285
     }
   },
   "contested": false,
@@ -141,7 +166,8 @@
     "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
     "plot.xianni-1209-yueshi-clan-ancient-god-statues-collapse",
     "plot.xianni-ch1212-feng-mie-zu-seal-flame-totem",
-    "plot.xianni-1321-third-step-membrane"
+    "plot.xianni-1321-third-step-membrane",
+    "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng"
   ],
-  "updatedAt": "2026-08-25T09:53:55.445Z"
+  "updatedAt": "2026-08-25T13:25:11.747Z"
 }

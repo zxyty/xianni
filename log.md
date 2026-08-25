@@ -749,3 +749,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T12:53:00.410Z** `ingest` plot.xianni-1366-wucai-jijing-naduo-mystery — 第1366章 五彩极境：昆极鞭与纳多之谜，雷霆修为破碎涅后期 · kind=plot asOf=2026-08-25 entities=36 relations=51 src=01280-01284.p3.md
 - **2026-08-25T13:00:07.877Z** `ingest` plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin — 第1367章 司墨子！——王林炼化六道伴随之雷暴露行踪，飘渺族云落算出其所在 · kind=plot asOf=2026-08-25 entities=38 relations=53 src=01280-01284.p4.md
 - **2026-08-25T13:02:24.983Z** `ingest` plot.xianni-1368-nine-companion-thunders-gate-of-void — 第1368章 空之大门——王林九道伴随之雷大成，第三步之门显现 · kind=plot asOf=2026-08-25 entities=22 relations=33 src=01280-01284.p5.md
+- **2026-08-25T13:25:12.354Z** `ingest` plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng — 第1285-1287章 雷图轰天：三撞空之大门裂缝、十万雷山镇压数万修士 · kind=plot asOf=2026-08-25 entities=86 relations=146 src=01285-01287.md

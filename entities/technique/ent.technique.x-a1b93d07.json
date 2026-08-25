@@ -4,12 +4,17 @@
   "name": "雷图",
   "aliases": [
     "王林的雷图",
-    "九道雷之图"
+    "九道雷之图",
+    "王林雷图",
+    "Lei Tu"
   ],
   "summary": "王林以雷道修行的核心凭依，需集齐九道雷方能完整，用以跨越天人衰劫、证第三步大能雷修。",
   "attributes": {
-    "效果": "集九雷可跨越天人衰劫、证第三步雷修",
-    "修炼条件": "需集齐九道雷，本章尚不全"
+    "效果": "集九雷可跨越天人衰劫、证第三步雷修、引动天地一切雷霆、化身雷霆冲撞空之大门、分化十万份印于山上形成镇压符印",
+    "修炼条件": "需集齐九道雷，本章尚不全",
+    "出处": "王林自创",
+    "五行属性": "雷",
+    "外显异象": "右目瞳孔光芒万丈、千丈至数万丈磅礴雷图、四周九道伴随之雷旋转"
   },
   "observations": {
     "效果": [
@@ -17,6 +22,21 @@
         "value": "集九雷可跨越天人衰劫、证第三步雷修",
         "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
         "seq": 1280
+      },
+      {
+        "value": "引动天地一切雷霆",
+        "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
+        "seq": 1285
+      },
+      {
+        "value": "化身雷霆冲撞空之大门",
+        "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
+        "seq": 1285
+      },
+      {
+        "value": "分化十万份印于山上形成镇压符印",
+        "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
+        "seq": 1285
       }
     ],
     "修炼条件": [
@@ -24,6 +44,37 @@
         "value": "需集齐九道雷，本章尚不全",
         "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
         "seq": 1280
+      }
+    ],
+    "出处": [
+      {
+        "value": "王林自创",
+        "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
+        "seq": 1285
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "雷",
+        "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
+        "seq": 1285
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "右目瞳孔光芒万丈",
+        "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
+        "seq": 1285
+      },
+      {
+        "value": "千丈至数万丈磅礴雷图",
+        "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
+        "seq": 1285
+      },
+      {
+        "value": "四周九道伴随之雷旋转",
+        "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
+        "seq": 1285
       }
     ]
   },
@@ -40,12 +91,31 @@
       "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
       "dated": false,
       "seq": 1280
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
+      "dated": false,
+      "seq": 1285
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
+      "dated": false,
+      "seq": 1285
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
+      "dated": false,
+      "seq": 1285
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1366-wucai-jijing-naduo-mystery"
+    "plot.xianni-1366-wucai-jijing-naduo-mystery",
+    "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng"
   ],
-  "updatedAt": "2026-08-25T12:52:59.983Z"
+  "updatedAt": "2026-08-25T13:25:11.625Z"
 }
