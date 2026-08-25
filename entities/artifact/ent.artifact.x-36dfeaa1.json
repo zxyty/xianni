@@ -4,11 +4,14 @@
   "name": "天方香",
   "aliases": [
     "第三根香",
-    "最后一根天方香"
+    "最后一根天方香",
+    "三根天方香"
   ],
   "summary": "少帝试炼三香之最后一根，人方香熄灭、地方香断裂后唯一仍高耸者。",
   "attributes": {
-    "禁制": "仍高耸未损"
+    "禁制": "仍高耸未损",
+    "能力": "计量试炼时长",
+    "外形": "燃时狼烟滚滚、火焰熊熊如火炬"
   },
   "observations": {
     "禁制": [
@@ -17,6 +20,20 @@
         "docId": "plot.xianni-ch1414-dianluo-zhi-ming",
         "seq": 1321,
         "note": "本章"
+      }
+    ],
+    "能力": [
+      {
+        "value": "计量试炼时长",
+        "docId": "plot.xianni-1416-san-dai-nie-que",
+        "seq": 1326
+      }
+    ],
+    "外形": [
+      {
+        "value": "燃时狼烟滚滚、火焰熊熊如火炬",
+        "docId": "plot.xianni-1416-san-dai-nie-que",
+        "seq": 1326
       }
     ]
   },
@@ -28,13 +45,26 @@
       "dated": false,
       "seq": 1321,
       "note": "本章"
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-1416-san-dai-nie-que",
+      "dated": false,
+      "seq": 1326
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.xianni-1416-san-dai-nie-que",
+      "dated": false,
+      "seq": 1326
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1414-dianluo-zhi-ming",
-    "plot.xianni-1415-gu-zhi-mu-di-kai"
+    "plot.xianni-1415-gu-zhi-mu-di-kai",
+    "plot.xianni-1416-san-dai-nie-que"
   ],
-  "updatedAt": "2026-08-25T17:17:44.319Z"
+  "updatedAt": "2026-08-25T17:20:16.423Z"
 }

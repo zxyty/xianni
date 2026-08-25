@@ -11,8 +11,9 @@
   "summary": "传说中埋葬『古』的墓地，需破开虚无方可前往，内有古魂。",
   "attributes": {
     "类型": "秘境/禁地",
-    "危险度": "需破开虚无方可抵达",
-    "特产": "古魂"
+    "危险度": "极高，风暴内毁灭一切生灵",
+    "特产": "古魂",
+    "上级区域": "太古星辰"
   },
   "observations": {
     "类型": [
@@ -27,6 +28,11 @@
         "value": "需破开虚无方可抵达",
         "docId": "plot.xianni-ch1319-lanmeng-daozun-choice",
         "seq": 1232
+      },
+      {
+        "value": "极高，风暴内毁灭一切生灵",
+        "docId": "plot.xianni-1416-san-dai-nie-que",
+        "seq": 1326
       }
     ],
     "特产": [
@@ -34,6 +40,13 @@
         "value": "古魂",
         "docId": "plot.xianni-ch1319-lanmeng-daozun-choice",
         "seq": 1232
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "太古星辰",
+        "docId": "plot.xianni-1416-san-dai-nie-que",
+        "seq": 1326
       }
     ]
   },
@@ -47,22 +60,29 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch1319-lanmeng-daozun-choice",
+      "docId": "plot.xianni-1416-san-dai-nie-que",
       "dated": false,
-      "seq": 1232
+      "seq": 1326
     },
     "特产": {
       "asOf": null,
       "docId": "plot.xianni-ch1319-lanmeng-daozun-choice",
       "dated": false,
       "seq": 1232
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-1416-san-dai-nie-que",
+      "dated": false,
+      "seq": 1326
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1319-lanmeng-daozun-choice",
-    "plot.xianni-1415-gu-zhi-mu-di-kai"
+    "plot.xianni-1415-gu-zhi-mu-di-kai",
+    "plot.xianni-1416-san-dai-nie-que"
   ],
-  "updatedAt": "2026-08-25T17:17:44.328Z"
+  "updatedAt": "2026-08-25T17:20:16.428Z"
 }

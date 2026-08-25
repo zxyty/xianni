@@ -3,13 +3,16 @@
   "type": "person",
   "name": "半面黑脸白袍老者",
   "aliases": [
-    "阴阳脸老者"
+    "阴阳脸老者",
+    "有着阴阳脸的老者",
+    "望月之主"
   ],
   "summary": "乘望月而行的神秘强者，相貌诡异，半边脸为黑色如阴阳阻隔，身后有一木子、武东禅、极贤天三名仆从。",
   "attributes": {
     "性别": "男",
-    "外貌": "身穿白袍，相貌诡异，半边脸为黑色如阴阳阻隔",
-    "身份": "望月之主、三仆之主"
+    "外貌": "阴阳脸",
+    "身份": "望月之主、三仆之主",
+    "标志特征": "骑乘巨兽望月"
   },
   "observations": {
     "性别": [
@@ -24,6 +27,11 @@
         "value": "身穿白袍，相貌诡异，半边脸为黑色如阴阳阻隔",
         "docId": "plot.xianni-1396-lang-yong-mo-hun-fen-shen-cheng-xing",
         "seq": 1303
+      },
+      {
+        "value": "阴阳脸",
+        "docId": "plot.xianni-1416-san-dai-nie-que",
+        "seq": 1326
       }
     ],
     "身份": [
@@ -31,6 +39,13 @@
         "value": "望月之主、三仆之主",
         "docId": "plot.xianni-1396-lang-yong-mo-hun-fen-shen-cheng-xing",
         "seq": 1303
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "骑乘巨兽望月",
+        "docId": "plot.xianni-1416-san-dai-nie-que",
+        "seq": 1326
       }
     ]
   },
@@ -44,21 +59,28 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-1396-lang-yong-mo-hun-fen-shen-cheng-xing",
+      "docId": "plot.xianni-1416-san-dai-nie-que",
       "dated": false,
-      "seq": 1303
+      "seq": 1326
     },
     "身份": {
       "asOf": null,
       "docId": "plot.xianni-1396-lang-yong-mo-hun-fen-shen-cheng-xing",
       "dated": false,
       "seq": 1303
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-1416-san-dai-nie-que",
+      "dated": false,
+      "seq": 1326
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1396-lang-yong-mo-hun-fen-shen-cheng-xing"
+    "plot.xianni-1396-lang-yong-mo-hun-fen-shen-cheng-xing",
+    "plot.xianni-1416-san-dai-nie-que"
   ],
-  "updatedAt": "2026-08-25T16:22:33.878Z"
+  "updatedAt": "2026-08-25T17:20:16.416Z"
 }
