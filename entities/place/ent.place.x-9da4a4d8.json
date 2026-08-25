@@ -2,14 +2,19 @@
   "id": "ent.place.x-9da4a4d8",
   "type": "place",
   "name": "妖宗战场裂缝",
-  "aliases": [],
+  "aliases": [
+    "妖宗外的巨大裂缝"
+  ],
   "summary": "妖宗无数万年驻守之地，凶兽一次次自此入侵，妖宗于此抵抗；王林本章的目的地。",
   "attributes": {
-    "所属势力": "妖宗",
-    "类型": "战场裂缝",
+    "所属势力": "妖宗（长期争战与探查）",
+    "类型": "空间裂缝/异域战场",
     "上级区域": "云海九阶星域",
-    "危险度": "极高（凶兽入侵通道）",
-    "守护": "妖宗"
+    "危险度": "极高（百人入内生还不足三人）",
+    "守护": "妖宗",
+    "所属界面": "云海星域",
+    "方位": "妖宗之外",
+    "规模": "内部太大，好似另外一片星空"
   },
   "observations": {
     "所属势力": [
@@ -17,6 +22,11 @@
         "value": "妖宗",
         "docId": "plot.xianni-1291-yaozong-rift",
         "seq": 1202
+      },
+      {
+        "value": "妖宗（长期争战与探查）",
+        "docId": "plot.xianni-ch1295-li-qianmei-clue-in-rift",
+        "seq": 1207
       }
     ],
     "类型": [
@@ -24,6 +34,11 @@
         "value": "战场裂缝",
         "docId": "plot.xianni-1291-yaozong-rift",
         "seq": 1202
+      },
+      {
+        "value": "空间裂缝/异域战场",
+        "docId": "plot.xianni-ch1295-li-qianmei-clue-in-rift",
+        "seq": 1207
       }
     ],
     "上级区域": [
@@ -38,6 +53,11 @@
         "value": "极高（凶兽入侵通道）",
         "docId": "plot.xianni-1291-yaozong-rift",
         "seq": 1202
+      },
+      {
+        "value": "极高（百人入内生还不足三人）",
+        "docId": "plot.xianni-ch1295-li-qianmei-clue-in-rift",
+        "seq": 1207
       }
     ],
     "守护": [
@@ -46,21 +66,42 @@
         "docId": "plot.xianni-1291-yaozong-rift",
         "seq": 1202
       }
+    ],
+    "所属界面": [
+      {
+        "value": "云海星域",
+        "docId": "plot.xianni-ch1295-li-qianmei-clue-in-rift",
+        "seq": 1207
+      }
+    ],
+    "方位": [
+      {
+        "value": "妖宗之外",
+        "docId": "plot.xianni-ch1295-li-qianmei-clue-in-rift",
+        "seq": 1207
+      }
+    ],
+    "规模": [
+      {
+        "value": "内部太大，好似另外一片星空",
+        "docId": "plot.xianni-ch1295-li-qianmei-clue-in-rift",
+        "seq": 1207
+      }
     ]
   },
   "firstSeq": 1202,
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-1291-yaozong-rift",
+      "docId": "plot.xianni-ch1295-li-qianmei-clue-in-rift",
       "dated": false,
-      "seq": 1202
+      "seq": 1207
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1291-yaozong-rift",
+      "docId": "plot.xianni-ch1295-li-qianmei-clue-in-rift",
       "dated": false,
-      "seq": 1202
+      "seq": 1207
     },
     "上级区域": {
       "asOf": null,
@@ -70,21 +111,40 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-1291-yaozong-rift",
+      "docId": "plot.xianni-ch1295-li-qianmei-clue-in-rift",
       "dated": false,
-      "seq": 1202
+      "seq": 1207
     },
     "守护": {
       "asOf": null,
       "docId": "plot.xianni-1291-yaozong-rift",
       "dated": false,
       "seq": 1202
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1295-li-qianmei-clue-in-rift",
+      "dated": false,
+      "seq": 1207
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1295-li-qianmei-clue-in-rift",
+      "dated": false,
+      "seq": 1207
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1295-li-qianmei-clue-in-rift",
+      "dated": false,
+      "seq": 1207
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1291-yaozong-rift"
+    "plot.xianni-1291-yaozong-rift",
+    "plot.xianni-ch1295-li-qianmei-clue-in-rift"
   ],
-  "updatedAt": "2026-08-25T07:28:53.056Z"
+  "updatedAt": "2026-08-25T07:42:59.833Z"
 }

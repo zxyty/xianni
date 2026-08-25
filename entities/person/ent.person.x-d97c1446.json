@@ -4,7 +4,8 @@
   "name": "妖宗长老",
   "aliases": [
     "三步而至的身影",
-    "妖宗白发长老"
+    "妖宗白发长老",
+    "妖宗的长老"
   ],
   "summary": "妖宗长老，修为自称「天人第二衰」，三步跨越星空拦阻王林试探，被王林以血剑与剑指重伤逐退，事后献上李倩梅方位地图玉简，并被王林点破其道念已受道术之伤。",
   "attributes": {
@@ -12,7 +13,8 @@
     "身份": "妖宗长老",
     "小阶段": "天人第二衰",
     "性格": "温和自负、知机识趣、心存善念",
-    "存殁": "存活"
+    "存殁": "存活、生存（受暗伤）",
+    "阵营": "妖宗"
   },
   "observations": {
     "外貌": [
@@ -48,6 +50,18 @@
         "value": "存活",
         "docId": "plot.xianni-ch1294-dao-shu-jiuyou-long-tamed",
         "seq": 1207
+      },
+      {
+        "value": "生存（受暗伤）",
+        "docId": "plot.xianni-ch1295-li-qianmei-clue-in-rift",
+        "seq": 1207
+      }
+    ],
+    "阵营": [
+      {
+        "value": "妖宗",
+        "docId": "plot.xianni-ch1295-li-qianmei-clue-in-rift",
+        "seq": 1207
       }
     ]
   },
@@ -82,12 +96,19 @@
       "docId": "plot.xianni-ch1294-dao-shu-jiuyou-long-tamed",
       "dated": false,
       "seq": 1207
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1295-li-qianmei-clue-in-rift",
+      "dated": false,
+      "seq": 1207
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1294-dao-shu-jiuyou-long-tamed"
+    "plot.xianni-ch1294-dao-shu-jiuyou-long-tamed",
+    "plot.xianni-ch1295-li-qianmei-clue-in-rift"
   ],
-  "updatedAt": "2026-08-25T07:40:35.056Z"
+  "updatedAt": "2026-08-25T07:42:59.822Z"
 }
