@@ -10,13 +10,13 @@
   ],
   "summary": "闪雷族兑换雷晶之所，本章将于数日后开启兑换。",
   "attributes": {
-    "类型": "兑换殿宇、禁地/交易殿宇、族中重地大殿、宗族大殿、任务殿堂",
+    "类型": "兑换殿宇、禁地/交易殿宇、族中重地大殿、宗族大殿、任务殿堂、殿宇/任务发放地",
     "所属势力": "闪雷族",
     "方位": "修真星中心最高山峰之上、雷雾裂缝尽头的高耸山峰顶部",
     "规模": "存在于十三颗修真星上、共四层空间（东、西、南三门各一，另一处无门）",
     "危险度": "极高（四周青雾雷霆可致死）、闪雷族核心重地",
     "特产": "雷晶",
-    "守护": "青雾雷霆、两名阴虚境红衣修士、第四空间九股气息：碎涅一人、净涅三人、窥涅五人、东门三老、西门六名阴虚阳实老者"
+    "守护": "青雾雷霆、两名阴虚境红衣修士、第四空间九股气息：碎涅一人、净涅三人、窥涅五人、东门三老、西门六名阴虚阳实老者、六名闪雷族修士"
   },
   "observations": {
     "类型": [
@@ -43,6 +43,11 @@
       {
         "value": "任务殿堂",
         "docId": "plot.xianni-1337-shanleizu-liudao-zhilei",
+        "seq": 1250
+      },
+      {
+        "value": "殿宇/任务发放地",
+        "docId": "plot.xianni-ch1338-kill-zhou-tianzi",
         "seq": 1250
       }
     ],
@@ -116,6 +121,11 @@
         "value": "东门三老、西门六名阴虚阳实老者",
         "docId": "plot.xianni-1337-shanleizu-liudao-zhilei",
         "seq": 1250
+      },
+      {
+        "value": "六名闪雷族修士",
+        "docId": "plot.xianni-ch1338-kill-zhou-tianzi",
+        "seq": 1250
       }
     ]
   },
@@ -170,7 +180,8 @@
     "plot.xianni-1334-frightening-guess-thunder-seal-study",
     "plot.xianni-1335-lei-jing-dian",
     "plot.xianni-1336-jinsheng-shanlei-bang",
-    "plot.xianni-1337-shanleizu-liudao-zhilei"
+    "plot.xianni-1337-shanleizu-liudao-zhilei",
+    "plot.xianni-ch1338-kill-zhou-tianzi"
   ],
-  "updatedAt": "2026-08-25T11:37:50.028Z"
+  "updatedAt": "2026-08-25T11:40:11.828Z"
 }

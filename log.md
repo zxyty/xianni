@@ -717,3 +717,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T11:28:09.881Z** `ingest` plot.xianni-1335-lei-jing-dian — 第1335章 雷晶殿——闪雷族三日开市与禁地青雾裂缝 · kind=plot asOf=2026-08-25 entities=27 relations=36 src=01250-01254.p1.md
 - **2026-08-25T11:30:44.055Z** `ingest` plot.xianni-1336-jinsheng-shanlei-bang — 第1336章 晋升闪雷榜：王林窥破化雷为雾、以「于非」之名入榜第799位 · kind=plot asOf=2026-08-25 entities=22 relations=30 src=01250-01254.p2.md
 - **2026-08-25T11:37:50.423Z** `ingest` plot.xianni-1337-shanleizu-liudao-zhilei — 第1337章 闪雷族的隐秘：雷之六道与西门任务 · kind=plot asOf=2026-08-25 entities=39 relations=69 src=01250-01254.p3.md
+- **2026-08-25T11:40:12.301Z** `ingest` plot.xianni-ch1338-kill-zhou-tianzi — 第1338章 杀周天子：王林入七百万天地通道反杀窥涅修士 · kind=plot asOf=2026-08-25 entities=22 relations=36 src=01250-01254.p4.md
