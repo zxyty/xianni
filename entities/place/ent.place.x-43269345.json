@@ -5,14 +5,16 @@
   "aliases": [
     "三间洞府",
     "山谷洞府",
-    "遗留洞府"
+    "遗留洞府",
+    "王林的山谷洞府"
   ],
   "summary": "位于七彩界山谷内的一排洞府：第一间藏仿天逆石珠，第二间为丹炉与药材库，第三间以阵法封存三瓶高阶丹药。",
   "attributes": {
-    "类型": "洞府群",
+    "类型": "洞府",
     "所属势力": "司马墨与其同门",
     "上级区域": "七彩界",
-    "守护": "禁制与蕴含岁月禁痕迹的阵法"
+    "守护": "禁制与蕴含岁月禁痕迹的阵法",
+    "所属界面": "七彩界"
   },
   "observations": {
     "类型": [
@@ -20,6 +22,11 @@
         "value": "洞府群",
         "docId": "plot.xianni-1198-danyao-tianni-fangzhipin-yu-liefeng-sanren",
         "seq": 1114
+      },
+      {
+        "value": "洞府",
+        "docId": "plot.xianni-1202-zhong-dao-cangsongzi-slain",
+        "seq": 1119
       }
     ],
     "所属势力": [
@@ -42,15 +49,22 @@
         "docId": "plot.xianni-1198-danyao-tianni-fangzhipin-yu-liefeng-sanren",
         "seq": 1114
       }
+    ],
+    "所属界面": [
+      {
+        "value": "七彩界",
+        "docId": "plot.xianni-1202-zhong-dao-cangsongzi-slain",
+        "seq": 1119
+      }
     ]
   },
   "firstSeq": 1114,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1198-danyao-tianni-fangzhipin-yu-liefeng-sanren",
+      "docId": "plot.xianni-1202-zhong-dao-cangsongzi-slain",
       "dated": false,
-      "seq": 1114
+      "seq": 1119
     },
     "所属势力": {
       "asOf": null,
@@ -69,12 +83,19 @@
       "docId": "plot.xianni-1198-danyao-tianni-fangzhipin-yu-liefeng-sanren",
       "dated": false,
       "seq": 1114
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-1202-zhong-dao-cangsongzi-slain",
+      "dated": false,
+      "seq": 1119
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1198-danyao-tianni-fangzhipin-yu-liefeng-sanren"
+    "plot.xianni-1198-danyao-tianni-fangzhipin-yu-liefeng-sanren",
+    "plot.xianni-1202-zhong-dao-cangsongzi-slain"
   ],
-  "updatedAt": "2026-08-24T23:18:04.741Z"
+  "updatedAt": "2026-08-25T00:21:16.482Z"
 }

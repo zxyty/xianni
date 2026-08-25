@@ -597,3 +597,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-24T23:20:49.781Z** `ingest` plot.xianni-ch1199-wendao-qicaijie-dao-ascension — 第1199章 闻道——王林以兽魂丹印证真假意境，道念席卷七彩界 · kind=plot asOf=2026-08-24 entities=22 relations=28 src=01114-01118.p4.md
 - **2026-08-24T23:28:06.639Z** `ingest` plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia — 第1200章 道散：王林三重意境（生死轮回·因果循环·真假之变）与七彩界道念扩散 · kind=plot asOf=2026-08-24 entities=43 relations=63 src=01114-01118.p5.md
 - **2026-08-25T00:18:30.002Z** `ingest` plot.xianni-1201-shouhu-qicaijie-canglaozhe-daonian-jingshi — 《仙逆》第1201章 守护——王林心神探山峰遭碎涅后期白发老者截击，凝道念黑晶 · kind=plot asOf=2026-08-25 entities=30 relations=48 src=01119-01122.p1.md
+- **2026-08-25T00:21:16.746Z** `ingest` plot.xianni-1202-zhong-dao-cangsongzi-slain — 第1202章 种道：七彩钉子诛苍松子，界外太古星辰玉简换名王林 · kind=plot asOf=2026-08-25 entities=35 relations=49 src=01119-01122.p2.md

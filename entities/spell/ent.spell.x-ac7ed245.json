@@ -7,8 +7,9 @@
   ],
   "summary": "提取他人元神神识记忆的法术，被搜者神识剧痛并渐渐消散。",
   "attributes": {
-    "类型": "元神搜魂类",
-    "消耗": "被搜者神识消散"
+    "类型": "神魂类神通",
+    "消耗": "被搜者神识消散",
+    "威力": "尽取对方记忆"
   },
   "observations": {
     "类型": [
@@ -21,6 +22,11 @@
         "value": "元神搜魂类",
         "docId": "plot.xianni-ch896-shi-yin-zong-zhu-que-star-wang-family-rescue",
         "seq": 834
+      },
+      {
+        "value": "神魂类神通",
+        "docId": "plot.xianni-1202-zhong-dao-cangsongzi-slain",
+        "seq": 1119
       }
     ],
     "消耗": [
@@ -29,28 +35,42 @@
         "docId": "plot.xianni-ch768-769-xuanchen-star-betrayal-xu-mu-exposed",
         "seq": 768
       }
+    ],
+    "威力": [
+      {
+        "value": "尽取对方记忆",
+        "docId": "plot.xianni-1202-zhong-dao-cangsongzi-slain",
+        "seq": 1119
+      }
     ]
   },
   "firstSeq": 768,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch896-shi-yin-zong-zhu-que-star-wang-family-rescue",
+      "docId": "plot.xianni-1202-zhong-dao-cangsongzi-slain",
       "dated": false,
-      "seq": 834
+      "seq": 1119
     },
     "消耗": {
       "asOf": null,
       "docId": "plot.xianni-ch768-769-xuanchen-star-betrayal-xu-mu-exposed",
       "dated": false,
       "seq": 768
+    },
+    "威力": {
+      "asOf": null,
+      "docId": "plot.xianni-1202-zhong-dao-cangsongzi-slain",
+      "dated": false,
+      "seq": 1119
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch768-769-xuanchen-star-betrayal-xu-mu-exposed",
-    "plot.xianni-ch896-shi-yin-zong-zhu-que-star-wang-family-rescue"
+    "plot.xianni-ch896-shi-yin-zong-zhu-que-star-wang-family-rescue",
+    "plot.xianni-1202-zhong-dao-cangsongzi-slain"
   ],
-  "updatedAt": "2026-08-23T18:11:16.442Z"
+  "updatedAt": "2026-08-25T00:21:16.477Z"
 }
