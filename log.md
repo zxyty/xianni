@@ -670,3 +670,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T06:07:02.835Z** `ingest` plot.xianni-ch1283-feng-jie-zhi-zun — 第1283章 封界之尊——王林魂入天逆世界，石门内自称封界之主的呢喃 · kind=plot asOf=2026-08-25 entities=14 relations=19 src=01200-01201.p1.md
 - **2026-08-25T06:20:26.905Z** `ingest` lore.xianni-1284-tianni-origin-fengjie-zhizun — 第1284章 天逆的来历——封界之尊、远古仙域分裂与天逆罗盘 · kind=lore asOf=2026-08-25 entities=54 relations=96 src=01200-01201.p2.md
 - **2026-08-25T07:14:21.722Z** `ingest` plot.xianni-1287-sui-qian-wan-ren-wu-wang-yi — 第1287章 虽千万人吾往矣！——王林闻李倩梅十年付出，破阵夺传送阵北上救人 · kind=plot asOf=2026-08-25 entities=29 relations=38 src=01202-01206.p1.md
+- **2026-08-25T07:16:45.707Z** `ingest` plot.xianni-ch1288-ten-year-old-prestige-xianyin-gate — 第1288章 十年前的威名——王林（化名吕子浩）强破仙音门大阵，索元晶传送返无极宗 · kind=plot asOf=2026-08-25 entities=26 relations=39 src=01202-01206.p2.md
