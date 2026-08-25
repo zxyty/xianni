@@ -756,3 +756,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T14:02:42.979Z** `ingest` plot.xianni-1377-longbeng-dan-refine-challenge — 第1377章：万粒龙崩丹熔一，王林修真星长啸挑战 · kind=plot asOf=2026-08-25 entities=33 relations=54 src=01288-01291.p4.md
 - **2026-08-25T14:05:22.987Z** `ingest` plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi — 第1378章 一代宗师：王林山崩之术大成，对撼司墨子破天道 · kind=plot asOf=2026-08-25 entities=28 relations=37 src=01292-01296.p1.md
 - **2026-08-25T14:07:58.375Z** `ingest` plot.xianni-1379-emperor-arrives-siwang-po-tian-dao-duel — 第1379章 大帝！——王林破「破天道」，翻天神通对岁月禁，大帝五息之约 · kind=plot asOf=2026-08-25 entities=22 relations=29 src=01292-01296.p2.md
+- **2026-08-25T14:09:53.863Z** `ingest` plot.xianni-1380-four-breaths-wang-lin-vs-simozi — 第1380章 四息！——王林五息之约破司墨子分身 · kind=plot asOf=2026-08-25 entities=20 relations=23 src=01292-01296.p3.md

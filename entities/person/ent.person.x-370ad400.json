@@ -19,13 +19,14 @@
     "性别": "男",
     "外貌": "中年男子",
     "小阶段": "空涅初期、第三步大能（吸收六品道灵六成，隐有将破空涅初期之兆）、天人第五衰、第三步大能",
-    "身份": "太古星辰第三步大能、猎杀古神者、借用龙甲族身份行事、太古星辰来客、奉命索拿王林者、龙甲族请来的外援强者、第三步大能、破天宗之人",
+    "身份": "太古星辰第三步大能、猎杀古神者、借用龙甲族身份行事、太古星辰来客、奉命索拿王林者、龙甲族请来的外援强者、第三步大能、破天宗之人、第三步大能分身",
     "存殁": "分身在场存活",
     "称号": "大能",
     "性格": "自负、狰狞",
     "阵营": "追杀王林一方、太古星辰一方、龙甲族一方",
     "分身": "本章对战王林者为分身、本章前来者为分身",
-    "本命法宝": "十丈大幡（岁月禁）"
+    "本命法宝": "十丈大幡（岁月禁）",
+    "标志特征": "几近不灭之身的肉身防护"
   },
   "observations": {
     "性别": [
@@ -57,7 +58,8 @@
       {
         "value": "空涅初期",
         "docId": "plot.xianni-ch1311-fate-first-battle-tuosen-vs-wanglin-moon-tribe",
-        "seq": 1222
+        "seq": 1222,
+        "note": "本尊修为几乎停滞不前"
       },
       {
         "value": "第三步大能（吸收六品道灵六成，隐有将破空涅初期之兆）",
@@ -112,6 +114,12 @@
         "value": "破天宗之人",
         "docId": "plot.xianni-1379-emperor-arrives-siwang-po-tian-dao-duel",
         "seq": 1292
+      },
+      {
+        "value": "第三步大能分身",
+        "docId": "plot.xianni-1380-four-breaths-wang-lin-vs-simozi",
+        "seq": 1292,
+        "note": "本尊为第三步大能，为提升神通而炼化"
       }
     ],
     "存殁": [
@@ -190,6 +198,13 @@
         "seq": 1292,
         "note": "第1379章首次拿出法宝"
       }
+    ],
+    "标志特征": [
+      {
+        "value": "几近不灭之身的肉身防护",
+        "docId": "plot.xianni-1380-four-breaths-wang-lin-vs-simozi",
+        "seq": 1292
+      }
     ]
   },
   "firstSeq": 1222,
@@ -211,7 +226,8 @@
       "asOf": null,
       "docId": "plot.xianni-ch1311-fate-first-battle-tuosen-vs-wanglin-moon-tribe",
       "dated": false,
-      "seq": 1222
+      "seq": 1222,
+      "note": "本尊修为几乎停滞不前"
     },
     "身份": {
       "asOf": null,
@@ -257,6 +273,12 @@
       "dated": false,
       "seq": 1292,
       "note": "第1379章首次拿出法宝"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-1380-four-breaths-wang-lin-vs-simozi",
+      "dated": false,
+      "seq": 1292
     }
   },
   "contested": false,
@@ -269,7 +291,8 @@
     "plot.xianni-ch1375-first-encounter-fire-sparrow",
     "plot.xianni-1377-longbeng-dan-refine-challenge",
     "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi",
-    "plot.xianni-1379-emperor-arrives-siwang-po-tian-dao-duel"
+    "plot.xianni-1379-emperor-arrives-siwang-po-tian-dao-duel",
+    "plot.xianni-1380-four-breaths-wang-lin-vs-simozi"
   ],
-  "updatedAt": "2026-08-25T14:07:57.963Z"
+  "updatedAt": "2026-08-25T14:09:53.358Z"
 }
