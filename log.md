@@ -847,3 +847,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T22:02:43.427Z** `ingest` plot.xianni-1477-daogu-inheritance — 第1477章 道古传承——王林弃涂司传承、承道古之魂 · kind=plot asOf=2026-08-25 entities=19 relations=30 src=01385-01389.p4.md
 - **2026-08-25T22:05:27.308Z** `ingest` plot.xianni-1478-return-home-luotian — 第1478章 回家！——归还记忆传承、取地府封古墓、王林重返罗天星域 · kind=plot asOf=2026-08-25 entities=40 relations=44 src=01385-01389.p5.md
 - **2026-08-25T22:08:05.543Z** `ingest` plot.xianni-1479-luotian-preparing-for-war-lu-fuzi — 第1479章 备战中的罗天：鲁夫子察觉王林归来 · kind=plot asOf=2026-08-25 entities=31 relations=50 src=01390-01394.p1.md
+- **2026-08-25T22:10:10.609Z** `ingest` plot.xianni-ch1480-most-difficult-old-friends-in-wind-and-rain — 第1480章 最难风雨故人来｜王林重返罗天星域，战空烈星空惊觉、谢青雨中候师 · kind=plot asOf=2026-08-25 entities=21 relations=30 src=01390-01394.p2.md
