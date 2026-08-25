@@ -8,14 +8,16 @@
     "二次觉醒的朱雀",
     "朱雀灵",
     "铠甲白色朱雀",
-    "白朱雀"
+    "白朱雀",
+    "真正的朱雀"
   ],
   "summary": "王林二次觉醒后幻化于身后的朱雀，通体由赤红转为雪白，蕴含无法想象的炙热，神色高傲，鸣声穿透天地。",
   "attributes": {
     "种族": "朱雀圣兽",
     "主人": "王林",
     "外形": "白色朱雀",
-    "能力": "极致炙热、穿透天地的朱雀之音、火焰滔天、朱雀之音"
+    "能力": "极致炙热、穿透天地的朱雀之音、火焰滔天、朱雀之音、半个天地化火海、吞噬同源火焰与鸟灵",
+    "血脉": "真正的朱雀"
   },
   "observations": {
     "种族": [
@@ -64,6 +66,23 @@
         "value": "朱雀之音",
         "docId": "plot.xianni-1077-master-disciple-battle",
         "seq": 997
+      },
+      {
+        "value": "半个天地化火海",
+        "docId": "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
+        "seq": 1123
+      },
+      {
+        "value": "吞噬同源火焰与鸟灵",
+        "docId": "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
+        "seq": 1123
+      }
+    ],
+    "血脉": [
+      {
+        "value": "真正的朱雀",
+        "docId": "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
+        "seq": 1123
       }
     ]
   },
@@ -92,13 +111,20 @@
       "docId": "plot.xianni-1068-zhuque-second-awakening",
       "dated": false,
       "seq": 987
+    },
+    "血脉": {
+      "asOf": null,
+      "docId": "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
+      "dated": false,
+      "seq": 1123
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1068-zhuque-second-awakening",
-    "plot.xianni-1077-master-disciple-battle"
+    "plot.xianni-1077-master-disciple-battle",
+    "plot.xianni-1207-lei-huo-wang-lin-duo-quan"
   ],
-  "updatedAt": "2026-08-24T12:02:57.061Z"
+  "updatedAt": "2026-08-25T00:34:35.907Z"
 }

@@ -10,9 +10,11 @@
   "summary": "自裂缝走出的三人之一，眼露兴奋，问『这里就是你发现的空间裂缝』。",
   "attributes": {
     "性别": "男",
-    "标志特征": "眉心有月牙印记、眉心月牙印记（图腾）",
-    "阵营": "界外／裂缝来客",
-    "性格": "谨慎、沉默"
+    "标志特征": "眉心有月牙印记、眉心月牙印记（图腾）、眉心月牙印记",
+    "阵营": "界外之人",
+    "性格": "谨慎、沉默",
+    "存殁": "存活",
+    "结局": "疯狂后退逃遁"
   },
   "observations": {
     "性别": [
@@ -32,6 +34,11 @@
         "value": "眉心月牙印记（图腾）",
         "docId": "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
         "seq": 1114
+      },
+      {
+        "value": "眉心月牙印记",
+        "docId": "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
+        "seq": 1123
       }
     ],
     "阵营": [
@@ -40,6 +47,11 @@
         "docId": "plot.xianni-1198-danyao-tianni-fangzhipin-yu-liefeng-sanren",
         "seq": 1114,
         "note": "身份未明"
+      },
+      {
+        "value": "界外之人",
+        "docId": "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
+        "seq": 1123
       }
     ],
     "性格": [
@@ -47,6 +59,21 @@
         "value": "谨慎、沉默",
         "docId": "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
         "seq": 1114
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
+        "seq": 1123
+      }
+    ],
+    "结局": [
+      {
+        "value": "疯狂后退逃遁",
+        "docId": "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
+        "seq": 1123,
+        "note": "本章未被斩杀"
       }
     ]
   },
@@ -66,23 +93,36 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-1198-danyao-tianni-fangzhipin-yu-liefeng-sanren",
+      "docId": "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
       "dated": false,
-      "seq": 1114,
-      "note": "身份未明"
+      "seq": 1123
     },
     "性格": {
       "asOf": null,
       "docId": "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
       "dated": false,
       "seq": 1114
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
+      "dated": false,
+      "seq": 1123
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
+      "dated": false,
+      "seq": 1123,
+      "note": "本章未被斩杀"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1198-danyao-tianni-fangzhipin-yu-liefeng-sanren",
-    "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia"
+    "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
+    "plot.xianni-1207-lei-huo-wang-lin-duo-quan"
   ],
-  "updatedAt": "2026-08-24T23:28:06.313Z"
+  "updatedAt": "2026-08-25T00:34:35.899Z"
 }

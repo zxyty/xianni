@@ -9,8 +9,10 @@
   ],
   "summary": "以眉心闪电印记（族腾）为标志的异族，其青年称在七彩界深处能感受到本族先祖的气息。",
   "attributes": {
-    "特性": "与雷为伴、身可成雷、不受天道屈服",
-    "代表人物": "闪雷族先祖"
+    "特性": "眉心有闪电印记（族腾）、与雷为伴、身可成雷、不受天道屈服、眉心带闪电印记，雷霆之力借自雷之道所赐",
+    "代表人物": "闪雷族青年、闪雷族先祖、眉心闪电印记的青年",
+    "天赋神通": "闪雷崩、雷祖借力",
+    "阵营": "界外之人"
   },
   "observations": {
     "特性": [
@@ -22,6 +24,11 @@
       {
         "value": "与雷为伴、身可成雷、不受天道屈服",
         "docId": "plot.xianni-1205-ao-wang-lin-subdues-lightning-statue",
+        "seq": 1123
+      },
+      {
+        "value": "眉心带闪电印记，雷霆之力借自雷之道所赐",
+        "docId": "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
         "seq": 1123
       }
     ],
@@ -35,6 +42,30 @@
         "value": "闪雷族先祖",
         "docId": "plot.xianni-1205-ao-wang-lin-subdues-lightning-statue",
         "seq": 1123
+      },
+      {
+        "value": "眉心闪电印记的青年",
+        "docId": "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
+        "seq": 1123
+      }
+    ],
+    "天赋神通": [
+      {
+        "value": "闪雷崩",
+        "docId": "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
+        "seq": 1123
+      },
+      {
+        "value": "雷祖借力",
+        "docId": "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
+        "seq": 1123
+      }
+    ],
+    "阵营": [
+      {
+        "value": "界外之人",
+        "docId": "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
+        "seq": 1123
       }
     ]
   },
@@ -42,13 +73,25 @@
   "attrProvenance": {
     "特性": {
       "asOf": null,
-      "docId": "plot.xianni-1205-ao-wang-lin-subdues-lightning-statue",
+      "docId": "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
       "dated": false,
-      "seq": 1123
+      "seq": 1114
     },
     "代表人物": {
       "asOf": null,
-      "docId": "plot.xianni-1205-ao-wang-lin-subdues-lightning-statue",
+      "docId": "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
+      "dated": false,
+      "seq": 1114
+    },
+    "天赋神通": {
+      "asOf": null,
+      "docId": "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
+      "dated": false,
+      "seq": 1123
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
       "dated": false,
       "seq": 1123
     }
@@ -57,7 +100,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
-    "plot.xianni-1205-ao-wang-lin-subdues-lightning-statue"
+    "plot.xianni-1205-ao-wang-lin-subdues-lightning-statue",
+    "plot.xianni-1207-lei-huo-wang-lin-duo-quan"
   ],
-  "updatedAt": "2026-08-25T00:29:26.828Z"
+  "updatedAt": "2026-08-25T00:34:35.901Z"
 }
