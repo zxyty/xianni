@@ -1,0 +1,78 @@
+{
+  "id": "ent.technique.x-25a9c537",
+  "type": "technique",
+  "name": "以血抹身（血祭石像之法）",
+  "aliases": [
+    "以鲜血涂抹石像",
+    "血抹石像",
+    "十年血祭"
+  ],
+  "summary": "以自身鲜血反复涂抹王林所化石像，需在血液被吸收殆尽前不断补涂，不容一息缺口；坚持十年则石像中人有苏醒可能。",
+  "attributes": {
+    "效果": "供石像吸收血气、十年可致其苏醒",
+    "修炼条件": "十年不间断、血液不足时需依次动用舌尖精血、心头精血、元神道血",
+    "出处": "苍老之声所授"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "供石像吸收血气",
+        "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
+        "seq": 1200
+      },
+      {
+        "value": "十年可致其苏醒",
+        "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
+        "seq": 1200
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "十年不间断",
+        "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
+        "seq": 1200
+      },
+      {
+        "value": "血液不足时需依次动用舌尖精血、心头精血、元神道血",
+        "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
+        "seq": 1200
+      }
+    ],
+    "出处": [
+      {
+        "value": "苍老之声所授",
+        "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
+        "seq": 1200,
+        "note": "本片段未点明授法者身份"
+      }
+    ]
+  },
+  "firstSeq": 1200,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
+      "dated": false,
+      "seq": 1200
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
+      "dated": false,
+      "seq": 1200
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
+      "dated": false,
+      "seq": 1200,
+      "note": "本片段未点明授法者身份"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.xianni-1284-tianni-origin-fengjie-zhizun"
+  ],
+  "updatedAt": "2026-08-25T06:20:26.532Z"
+}

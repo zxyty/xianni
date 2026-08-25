@@ -7,13 +7,14 @@
     "封界之尊的玉佩",
     "Feng Jie Zhi Yu",
     "Sealing Realm Jade",
-    "封界玉佩"
+    "封界玉佩",
+    "当年消散的玉佩"
   ],
   "summary": "水道子主人（封界之尊）自远古仙域降临时携带的唯一之物，原在刘金彪身上，后融入王林体内隐匿无踪；本章金光现世，幻化通体如玉的金色手指将七彩钉子按入水道子头颅。",
   "attributes": {
-    "来历": "封界之尊随身之物",
+    "来历": "主人自远古仙域降临时携带的唯一之物、封界之尊随身之物、封界之尊当年消散之物",
     "持有者": "封界之尊",
-    "能力": "幻化金色手指出手、散发令第三步大能颤抖的无法形容之威压、融入宿主体内彻底隐匿不被探查、金光化指出手、将七彩钉子钉入白发童子眉心令其重伤",
+    "能力": "幻化金色手指出手、散发令第三步大能颤抖的无法形容之威压、融入宿主体内彻底隐匿不被探查、金光化指出手、将七彩钉子钉入白发童子眉心令其重伤、为封界之尊施展残存之力的媒介",
     "外形": "玉佩"
   },
   "observations": {
@@ -26,6 +27,11 @@
       {
         "value": "封界之尊随身之物",
         "docId": "plot.xianni-ch1283-feng-jie-zhi-zun",
+        "seq": 1200
+      },
+      {
+        "value": "封界之尊当年消散之物",
+        "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
         "seq": 1200
       }
     ],
@@ -66,6 +72,11 @@
         "value": "将七彩钉子钉入白发童子眉心令其重伤",
         "docId": "plot.xianni-ch1283-feng-jie-zhi-zun",
         "seq": 1200
+      },
+      {
+        "value": "为封界之尊施展残存之力的媒介",
+        "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
+        "seq": 1200
       }
     ],
     "外形": [
@@ -85,9 +96,9 @@
   "attrProvenance": {
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch1283-feng-jie-zhi-zun",
+      "docId": "plot.xianni-1281-feng-jie-zhi-yu",
       "dated": false,
-      "seq": 1200
+      "seq": 1196
     },
     "持有者": {
       "asOf": null,
@@ -112,7 +123,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-1281-feng-jie-zhi-yu",
-    "plot.xianni-ch1283-feng-jie-zhi-zun"
+    "plot.xianni-ch1283-feng-jie-zhi-zun",
+    "lore.xianni-1284-tianni-origin-fengjie-zhizun"
   ],
-  "updatedAt": "2026-08-25T06:07:02.510Z"
+  "updatedAt": "2026-08-25T06:20:26.492Z"
 }

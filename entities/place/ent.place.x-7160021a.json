@@ -6,14 +6,16 @@
     "妖宗裂缝战场",
     "雾气至深处的战场",
     "妖宗外的奇异裂缝",
-    "裂缝战场"
+    "裂缝战场",
+    "裂缝战场深处"
   ],
   "summary": "九阶星域雾气至深处、妖宗所在的裂缝战场，百年兽潮不绝，十二阶凶兽成群、十三阶凶兽偶现，修士每日战死。",
   "attributes": {
     "上级区域": "九阶星域",
     "所属势力": "妖宗",
-    "危险度": "高（兽潮不断）",
-    "类型": "战场／空间裂缝"
+    "危险度": "必死之地（至强凶兽）",
+    "类型": "战场／裂缝世界",
+    "特产": "凶兽"
   },
   "observations": {
     "上级区域": [
@@ -40,6 +42,11 @@
         "value": "高（兽潮不断）",
         "docId": "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm",
         "seq": 1151
+      },
+      {
+        "value": "必死之地（至强凶兽）",
+        "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
+        "seq": 1200
       }
     ],
     "类型": [
@@ -52,6 +59,18 @@
         "value": "战场／空间裂缝",
         "docId": "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm",
         "seq": 1151
+      },
+      {
+        "value": "战场／裂缝世界",
+        "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
+        "seq": 1200
+      }
+    ],
+    "特产": [
+      {
+        "value": "凶兽",
+        "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
+        "seq": 1200
       }
     ]
   },
@@ -71,22 +90,29 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm",
+      "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
       "dated": false,
-      "seq": 1151
+      "seq": 1200
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm",
+      "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
       "dated": false,
-      "seq": 1151
+      "seq": 1200
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
+      "dated": false,
+      "seq": 1200
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1217-tuosen-awakens-sweeps-star-domain",
-    "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm"
+    "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm",
+    "lore.xianni-1284-tianni-origin-fengjie-zhizun"
   ],
-  "updatedAt": "2026-08-25T02:48:21.970Z"
+  "updatedAt": "2026-08-25T06:20:26.595Z"
 }

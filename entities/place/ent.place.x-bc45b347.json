@@ -26,19 +26,21 @@
     "上百蛮荒大地",
     "星雾内的蛮荒大陆",
     "偏僻蛮荒大陆",
-    "雾中蛮荒大陆"
+    "雾中蛮荒大陆",
+    "云海二阶星域蛮荒大陆",
+    "王林沉睡的大陆"
   ],
   "summary": "云海五阶星域星雾深处的无防护大陆，无黑塔守护、被星雾弥漫，是凶兽巢穴，亦生长极珍贵药草；王林行三日抵达星图标注危险的一处。",
   "attributes": {
     "所属界面": "云海星域、云海五阶星域、云海星域（五阶星域）、六阶星域",
     "类型": "无防护的凶兽荒陆、星域内漂浮大陆、大陆/秘境、凶兽荒陆、大陆、蛮荒之地/秘境、禁地大陆、荒芜大陆/会合地、蛮荒之地、蛮荒大陆、漂浮大陆、大陆群",
-    "危险度": "星图标注危险、极高：兽潮汇聚，存在五阶凶兽、极高（凶兽可聚成千上万乃至十万以上）、高，中心地带更高阶凶兽出没、极高（凶兽、剧毒、各宗修士齐至）、本章各方势力汇聚，一触即发、极高，凶兽遍布、四周星域严密封锁、严禁外宗踏入、极高（疑有十一阶凶兽）、深处有凶兽群、极高（地底藏有裂缝）、平时罕有人至、本章被役灵印劈裂、严寒足以冻僵生灵、极高、凶兽众多",
+    "危险度": "星图标注危险、极高：兽潮汇聚，存在五阶凶兽、极高（凶兽可聚成千上万乃至十万以上）、高，中心地带更高阶凶兽出没、极高（凶兽、剧毒、各宗修士齐至）、本章各方势力汇聚，一触即发、极高，凶兽遍布、四周星域严密封锁、严禁外宗踏入、极高（疑有十一阶凶兽）、深处有凶兽群、极高（地底藏有裂缝）、平时罕有人至、本章被役灵印劈裂、严寒足以冻僵生灵、极高、凶兽众多、极高（凶兽成群）",
     "特产": "极为珍贵的药草、红色小草（生于鹰兽巢穴内）、雾中花、各类药草、万年死魂、凶兽、药草、兽魂、朱雀之羽、火属性凶兽、低阶凶兽、严寒、数量恐怖的凶兽、无（一片荒凉）",
-    "上级区域": "七阶星域",
+    "上级区域": "云海二阶星域",
     "方位": "远离莫罗大陆的星雾深处、蓬莱星外不远、云海星域内一片雾气中、云海五阶星域至深之处、与六阶星域交错的边缘、云海星域内极偏僻处，隐于无尽雾气",
     "所属势力": "宝玉宗",
     "规模": "近百个",
-    "守护": "三大禁制"
+    "守护": "九剑剑阵"
   },
   "observations": {
     "所属界面": [
@@ -212,6 +214,11 @@
         "value": "凶兽众多",
         "docId": "plot.xianni-1282-great-fortune-begins-wang-lin-stone-statue",
         "seq": 1196
+      },
+      {
+        "value": "极高（凶兽成群）",
+        "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
+        "seq": 1200
       }
     ],
     "特产": [
@@ -301,6 +308,11 @@
         "value": "七阶星域",
         "docId": "plot.xianni-ch1230-wang-lin-breaks-tier7-blockade-array",
         "seq": 1146
+      },
+      {
+        "value": "云海二阶星域",
+        "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
+        "seq": 1200
       }
     ],
     "方位": [
@@ -354,6 +366,12 @@
         "value": "三大禁制",
         "docId": "plot.xianni-1274-shui-daozi-benti-jianglin-wanglin-jinzhi-shesheche-sebian",
         "seq": 1191
+      },
+      {
+        "value": "九剑剑阵",
+        "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
+        "seq": 1200,
+        "note": "仅护山谷范围"
       }
     ]
   },
@@ -386,9 +404,9 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch1230-wang-lin-breaks-tier7-blockade-array",
+      "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
       "dated": false,
-      "seq": 1146
+      "seq": 1200
     },
     "方位": {
       "asOf": null,
@@ -410,9 +428,10 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-1274-shui-daozi-benti-jianglin-wanglin-jinzhi-shesheche-sebian",
+      "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
       "dated": false,
-      "seq": 1191
+      "seq": 1200,
+      "note": "仅护山谷范围"
     }
   },
   "contested": false,
@@ -443,7 +462,8 @@
     "plot.xianni-ch1273-water-daozi-arrival-first-clash",
     "plot.xianni-1274-shui-daozi-benti-jianglin-wanglin-jinzhi-shesheche-sebian",
     "plot.xianni-1282-great-fortune-begins-wang-lin-stone-statue",
-    "plot.xianni-ch1283-feng-jie-zhi-zun"
+    "plot.xianni-ch1283-feng-jie-zhi-zun",
+    "lore.xianni-1284-tianni-origin-fengjie-zhizun"
   ],
-  "updatedAt": "2026-08-25T06:07:02.513Z"
+  "updatedAt": "2026-08-25T06:20:26.577Z"
 }

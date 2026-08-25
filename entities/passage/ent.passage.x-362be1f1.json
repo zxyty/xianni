@@ -3,12 +3,15 @@
   "type": "passage",
   "name": "通天之门",
   "aliases": [
-    "通天门"
+    "通天门",
+    "天逆内的通天之门"
   ],
   "summary": "界外之人欲在封界中寻找的目标，为其毁灭封界的最终动机。",
   "attributes": {
-    "类型": "门户",
-    "来历": "仙界劫难之根源"
+    "类型": "法宝内空间之门",
+    "来历": "天逆之内",
+    "两端": "外界 ↔ 天逆内星空/星辰",
+    "可通行境界": "有缘者（至本章仅三人）"
   },
   "observations": {
     "类型": [
@@ -21,6 +24,11 @@
         "value": "门户",
         "docId": "plot.xianni-1121-wu-hou-gu-zhi-you-qinglin-bitian-guan-kunxu-chuansongzhen",
         "seq": 1039
+      },
+      {
+        "value": "法宝内空间之门",
+        "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
+        "seq": 1200
       }
     ],
     "来历": [
@@ -34,6 +42,25 @@
         "docId": "plot.xianni-1121-wu-hou-gu-zhi-you-qinglin-bitian-guan-kunxu-chuansongzhen",
         "seq": 1039,
         "note": "青霖本章仅点名未详述"
+      },
+      {
+        "value": "天逆之内",
+        "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
+        "seq": 1200
+      }
+    ],
+    "两端": [
+      {
+        "value": "外界 ↔ 天逆内星空/星辰",
+        "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
+        "seq": 1200
+      }
+    ],
+    "可通行境界": [
+      {
+        "value": "有缘者（至本章仅三人）",
+        "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
+        "seq": 1200
       }
     ]
   },
@@ -41,23 +68,35 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1121-wu-hou-gu-zhi-you-qinglin-bitian-guan-kunxu-chuansongzhen",
+      "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
       "dated": false,
-      "seq": 1039
+      "seq": 1200
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-1121-wu-hou-gu-zhi-you-qinglin-bitian-guan-kunxu-chuansongzhen",
+      "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
       "dated": false,
-      "seq": 1039,
-      "note": "青霖本章仅点名未详述"
+      "seq": 1200
+    },
+    "两端": {
+      "asOf": null,
+      "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
+      "dated": false,
+      "seq": 1200
+    },
+    "可通行境界": {
+      "asOf": null,
+      "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
+      "dated": false,
+      "seq": 1200
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
-    "plot.xianni-1121-wu-hou-gu-zhi-you-qinglin-bitian-guan-kunxu-chuansongzhen"
+    "plot.xianni-1121-wu-hou-gu-zhi-you-qinglin-bitian-guan-kunxu-chuansongzhen",
+    "lore.xianni-1284-tianni-origin-fengjie-zhizun"
   ],
-  "updatedAt": "2026-08-24T16:14:46.075Z"
+  "updatedAt": "2026-08-25T06:20:26.497Z"
 }
