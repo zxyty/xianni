@@ -3,14 +3,18 @@
   "type": "artifact",
   "name": "古息叶",
   "aliases": [
-    "一叶遮天之叶"
+    "一叶遮天之叶",
+    "息叶",
+    "古息之叶",
+    "古息叶片",
+    "叶片"
   ],
   "summary": "贪狼原有法宝之一，已被王林夺走。",
   "attributes": {
     "持有者": "王林",
     "来历": "贪狼得自古之墓地",
-    "能力": "封印他人神通（曾封王林缩地成寸）、封印第三步修士的香火界、迎风见长至万丈",
-    "外形": "枯黄的树叶，得古神之血后散发赤红之芒",
+    "能力": "封印他人神通（曾封王林缩地成寸）、封印第三步修士的香火界、迎风见长至万丈、增长至千丈封印空间裂缝、消散后可以『落叶归根』召回、封锁空间黑洞漩涡、抵挡第三步大能的冲击",
+    "外形": "枯黄的树叶，得古神之血后散发赤红之芒、叶片，可增至十丈、百丈、千丈、叶片，消散时化作晶光",
     "禁制": "封印符文之力"
   },
   "observations": {
@@ -44,6 +48,26 @@
         "value": "迎风见长至万丈",
         "docId": "plot.xianni-1422-feng-xianghuo-jie",
         "seq": 1331
+      },
+      {
+        "value": "增长至千丈封印空间裂缝",
+        "docId": "plot.xianni-1434-fengtianlang-pursuit",
+        "seq": 1341
+      },
+      {
+        "value": "消散后可以『落叶归根』召回",
+        "docId": "plot.xianni-1434-fengtianlang-pursuit",
+        "seq": 1341
+      },
+      {
+        "value": "封锁空间黑洞漩涡",
+        "docId": "plot.xianni-1434-fengtianlang-pursuit",
+        "seq": 1341
+      },
+      {
+        "value": "抵挡第三步大能的冲击",
+        "docId": "plot.xianni-1434-fengtianlang-pursuit",
+        "seq": 1341
       }
     ],
     "外形": [
@@ -51,6 +75,16 @@
         "value": "枯黄的树叶，得古神之血后散发赤红之芒",
         "docId": "plot.xianni-1422-feng-xianghuo-jie",
         "seq": 1331
+      },
+      {
+        "value": "叶片，可增至十丈、百丈、千丈",
+        "docId": "plot.xianni-1434-fengtianlang-pursuit",
+        "seq": 1341
+      },
+      {
+        "value": "叶片，消散时化作晶光",
+        "docId": "plot.xianni-1434-fengtianlang-pursuit",
+        "seq": 1341
       }
     ],
     "禁制": [
@@ -99,7 +133,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang",
-    "plot.xianni-1422-feng-xianghuo-jie"
+    "plot.xianni-1422-feng-xianghuo-jie",
+    "plot.xianni-1434-fengtianlang-pursuit"
   ],
-  "updatedAt": "2026-08-25T17:34:54.062Z"
+  "updatedAt": "2026-08-25T18:43:36.270Z"
 }

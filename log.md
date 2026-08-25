@@ -803,3 +803,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T18:31:04.873Z** `ingest` plot.xianni-1431-fenshi-guisan-zhangzun-fuhuo-tiaojian — 第1431章 这一天，到了！——焚世古伞爆裂、古之庇佑退掌尊，掌尊以复活李慕婉相诱 · kind=plot asOf=2026-08-25 entities=26 relations=37 src=01341-01345.p1.md
 - **2026-08-25T18:33:32.690Z** `ingest` plot.xianni-1432-qing-yu-en-wang-lin-ju-zhang-zun — 第1432章 情与恩：掌尊许诺复活妻儿，王林拒为死士 · kind=plot asOf=2026-08-25 entities=31 relations=31 src=01341-01345.p2.md
 - **2026-08-25T18:36:13.517Z** `ingest` plot.xianni-ch1433-is-he-zhangzun — 仙逆 第1433章 他，是不是掌尊？——王林出走疗伤与身份之疑 · kind=plot asOf=2026-08-25 entities=32 relations=35 src=01341-01345.p3.md
+- **2026-08-25T18:43:36.690Z** `ingest` plot.xianni-1434-fengtianlang-pursuit — 第1434章 奉天狼——古息叶封裂缝，长尊会太古追杀令再起 · kind=plot asOf=2026-08-25 entities=41 relations=68 src=01341-01345.p4.md

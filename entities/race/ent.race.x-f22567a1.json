@@ -6,13 +6,15 @@
     "封灭族后人",
     "太古封天之族",
     "Feng Mie Zu",
-    "封灭一族"
+    "封灭一族",
+    "封灭"
   ],
   "summary": "太古拥有封天之力的一族，曾一度为太古之民内的至强者，因族人稀少至今几乎灭绝；传说族人皆有封印一切生灵之力。",
   "attributes": {
-    "特性": "封天之力，可封印一切生灵",
+    "特性": "封天之力，可封印一切生灵、眉心古怪符文印记、擅长道术",
     "天赋神通": "封天之术（族之大神通封印）",
-    "聚居地": "太古之民（现几近灭绝）"
+    "聚居地": "太古星辰",
+    "代表人物": "封灭族红衣少女"
   },
   "observations": {
     "特性": [
@@ -20,6 +22,16 @@
         "value": "封天之力，可封印一切生灵",
         "docId": "plot.xianni-ch1212-feng-mie-zu-seal-flame-totem",
         "seq": 1127
+      },
+      {
+        "value": "眉心古怪符文印记",
+        "docId": "plot.xianni-1434-fengtianlang-pursuit",
+        "seq": 1341
+      },
+      {
+        "value": "擅长道术",
+        "docId": "plot.xianni-1434-fengtianlang-pursuit",
+        "seq": 1341
       }
     ],
     "天赋神通": [
@@ -34,6 +46,18 @@
         "value": "太古之民（现几近灭绝）",
         "docId": "plot.xianni-ch1212-feng-mie-zu-seal-flame-totem",
         "seq": 1127
+      },
+      {
+        "value": "太古星辰",
+        "docId": "plot.xianni-1434-fengtianlang-pursuit",
+        "seq": 1341
+      }
+    ],
+    "代表人物": [
+      {
+        "value": "封灭族红衣少女",
+        "docId": "plot.xianni-1434-fengtianlang-pursuit",
+        "seq": 1341
       }
     ]
   },
@@ -53,16 +77,23 @@
     },
     "聚居地": {
       "asOf": null,
-      "docId": "plot.xianni-ch1212-feng-mie-zu-seal-flame-totem",
+      "docId": "plot.xianni-1434-fengtianlang-pursuit",
       "dated": false,
-      "seq": 1127
+      "seq": 1341
+    },
+    "代表人物": {
+      "asOf": null,
+      "docId": "plot.xianni-1434-fengtianlang-pursuit",
+      "dated": false,
+      "seq": 1341
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1212-feng-mie-zu-seal-flame-totem",
-    "plot.xianni-1214-tiezhu-dao-shu-memory-illusion"
+    "plot.xianni-1214-tiezhu-dao-shu-memory-illusion",
+    "plot.xianni-1434-fengtianlang-pursuit"
   ],
-  "updatedAt": "2026-08-25T01:44:20.328Z"
+  "updatedAt": "2026-08-25T18:43:36.224Z"
 }

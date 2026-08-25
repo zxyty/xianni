@@ -8,7 +8,8 @@
   "summary": "当年在七彩界内施展散道之术者，是王林一生第一次接触道术的来源，为其打开道术之门。",
   "attributes": {
     "身份": "封灭族老者",
-    "外貌": "老者"
+    "外貌": "老者",
+    "种族": "封灭族"
   },
   "observations": {
     "身份": [
@@ -23,6 +24,13 @@
         "value": "老者",
         "docId": "lore.xianni-1424-meng-dao-zhong-mo",
         "seq": 1331
+      }
+    ],
+    "种族": [
+      {
+        "value": "封灭族",
+        "docId": "plot.xianni-1434-fengtianlang-pursuit",
+        "seq": 1341
       }
     ]
   },
@@ -39,12 +47,19 @@
       "docId": "lore.xianni-1424-meng-dao-zhong-mo",
       "dated": false,
       "seq": 1331
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-1434-fengtianlang-pursuit",
+      "dated": false,
+      "seq": 1341
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.xianni-1424-meng-dao-zhong-mo"
+    "lore.xianni-1424-meng-dao-zhong-mo",
+    "plot.xianni-1434-fengtianlang-pursuit"
   ],
-  "updatedAt": "2026-08-25T17:44:08.965Z"
+  "updatedAt": "2026-08-25T18:43:36.204Z"
 }

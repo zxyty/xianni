@@ -2,12 +2,15 @@
   "id": "ent.passage.x-e7207606",
   "type": "passage",
   "name": "虚空黑洞",
-  "aliases": [],
+  "aliases": [
+    "光球撕裂形成的黑洞",
+    "明暗不定的黑洞"
+  ],
   "summary": "天墨子在虚无中开出的通道，钻入后即离开仙界返回天墨星。",
   "attributes": {
-    "类型": "空间通道",
+    "类型": "人为撕裂的空间黑洞",
     "两端": "仙界碎片 ↔ 天墨星",
-    "来历": "天墨子以自身手段开辟"
+    "来历": "以碎星冲击凝成光球撕裂虚空"
   },
   "observations": {
     "类型": [
@@ -15,6 +18,11 @@
         "value": "空间通道",
         "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
         "seq": 304
+      },
+      {
+        "value": "人为撕裂的空间黑洞",
+        "docId": "plot.xianni-1434-fengtianlang-pursuit",
+        "seq": 1341
       }
     ],
     "两端": [
@@ -29,6 +37,11 @@
         "value": "天墨子以自身手段开辟",
         "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
         "seq": 304
+      },
+      {
+        "value": "以碎星冲击凝成光球撕裂虚空",
+        "docId": "plot.xianni-1434-fengtianlang-pursuit",
+        "seq": 1341
       }
     ]
   },
@@ -36,9 +49,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
+      "docId": "plot.xianni-1434-fengtianlang-pursuit",
       "dated": false,
-      "seq": 304
+      "seq": 1341
     },
     "两端": {
       "asOf": null,
@@ -48,15 +61,16 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
+      "docId": "plot.xianni-1434-fengtianlang-pursuit",
       "dated": false,
-      "seq": 304
+      "seq": 1341
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void"
+    "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
+    "plot.xianni-1434-fengtianlang-pursuit"
   ],
-  "updatedAt": "2026-08-08T05:44:31.206Z"
+  "updatedAt": "2026-08-25T18:43:36.230Z"
 }

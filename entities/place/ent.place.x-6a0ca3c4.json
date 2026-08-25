@@ -4,13 +4,15 @@
   "name": "西域北域交界废弃修真星",
   "aliases": [
     "废弃的修真星",
-    "无灵力废星"
+    "无灵力废星",
+    "那废弃的修真星"
   ],
   "summary": "罗天西域与北域交界处一颗无灵力、处处废墟的修真星，昔年曾有辉煌；王林在其盆地布禁制疗伤。",
   "attributes": {
     "方位": "罗天西域与北域交界处",
     "类型": "废弃修真星",
-    "特产": "无灵力、遍地废墟"
+    "特产": "无灵力、遍地废墟",
+    "危险度": "本章被踏碎瓦解"
   },
   "observations": {
     "方位": [
@@ -33,6 +35,13 @@
         "docId": "plot.xianni-ch827-yao-bingyun-pursuit",
         "seq": 771
       }
+    ],
+    "危险度": [
+      {
+        "value": "本章被踏碎瓦解",
+        "docId": "plot.xianni-1434-fengtianlang-pursuit",
+        "seq": 1341
+      }
     ]
   },
   "firstSeq": 771,
@@ -54,12 +63,19 @@
       "docId": "plot.xianni-ch827-yao-bingyun-pursuit",
       "dated": false,
       "seq": 771
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-1434-fengtianlang-pursuit",
+      "dated": false,
+      "seq": 1341
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch827-yao-bingyun-pursuit"
+    "plot.xianni-ch827-yao-bingyun-pursuit",
+    "plot.xianni-1434-fengtianlang-pursuit"
   ],
-  "updatedAt": "2026-08-23T12:23:28.312Z"
+  "updatedAt": "2026-08-25T18:43:36.226Z"
 }
