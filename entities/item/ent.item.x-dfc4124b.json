@@ -4,12 +4,15 @@
   "name": "星魂之球",
   "aliases": [
     "白色光球",
-    "修真星之魂"
+    "修真星之魂",
+    "七个修真星之魂",
+    "乳白色光团"
   ],
   "summary": "抽星魂所凝的拳头大小乳白色光球，蕴含可令天地腐朽的万古沧桑气息，代表整颗修真星。",
   "attributes": {
-    "类型": "神通凝聚之物",
-    "用途": "作为攻击手段掷出爆开，释放整星之力"
+    "类型": "星辰之魂",
+    "用途": "放出化作修真星虚影撞击敌人",
+    "产地": "王林沿途抽取的七个修真星"
   },
   "observations": {
     "类型": [
@@ -17,6 +20,11 @@
         "value": "神通凝聚之物",
         "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
         "seq": 1174
+      },
+      {
+        "value": "星辰之魂",
+        "docId": "plot.xianni-ch1312-wang-lin-vs-tuosen-first-fated-battle",
+        "seq": 1227
       }
     ],
     "用途": [
@@ -24,6 +32,18 @@
         "value": "作为攻击手段掷出爆开，释放整星之力",
         "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
         "seq": 1174
+      },
+      {
+        "value": "放出化作修真星虚影撞击敌人",
+        "docId": "plot.xianni-ch1312-wang-lin-vs-tuosen-first-fated-battle",
+        "seq": 1227
+      }
+    ],
+    "产地": [
+      {
+        "value": "王林沿途抽取的七个修真星",
+        "docId": "plot.xianni-ch1312-wang-lin-vs-tuosen-first-fated-battle",
+        "seq": 1227
       }
     ]
   },
@@ -31,21 +51,28 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
+      "docId": "plot.xianni-ch1312-wang-lin-vs-tuosen-first-fated-battle",
       "dated": false,
-      "seq": 1174
+      "seq": 1227
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
+      "docId": "plot.xianni-ch1312-wang-lin-vs-tuosen-first-fated-battle",
       "dated": false,
-      "seq": 1174
+      "seq": 1227
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1312-wang-lin-vs-tuosen-first-fated-battle",
+      "dated": false,
+      "seq": 1227
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong"
+    "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
+    "plot.xianni-ch1312-wang-lin-vs-tuosen-first-fated-battle"
   ],
-  "updatedAt": "2026-08-25T04:28:57.150Z"
+  "updatedAt": "2026-08-25T08:38:32.890Z"
 }
