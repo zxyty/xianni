@@ -5,13 +5,17 @@
   "aliases": [
     "闪雷族的大长老",
     "当年降临散灵天劫的仙人",
-    "天人第五衰大长老"
+    "天人第五衰大长老",
+    "天人第五衰的大长老",
+    "不灭之雷内的面孔"
   ],
   "summary": "散灵二百余岁引动天劫时降临的仙人，当年修为窥涅；重伤散灵后废其修为却留其性命，意在让其继续修炼以诞生念雷。",
   "attributes": {
     "身份": "闪雷族大长老",
     "小阶段": "天人第五衰",
-    "存殁": "存活"
+    "存殁": "存活",
+    "种族": "闪雷族",
+    "外貌": "不灭之雷内百丈大小的面孔，眉心族印如骄阳"
   },
   "observations": {
     "身份": [
@@ -40,6 +44,21 @@
         "docId": "plot.xianni-1345-edge-of-heaven-and-earth-alliance-with-bald-youth",
         "seq": 1260
       }
+    ],
+    "种族": [
+      {
+        "value": "闪雷族",
+        "docId": "plot.xianni-1347-shanlei-war-1",
+        "seq": 1260
+      }
+    ],
+    "外貌": [
+      {
+        "value": "不灭之雷内百丈大小的面孔，眉心族印如骄阳",
+        "docId": "plot.xianni-1347-shanlei-war-1",
+        "seq": 1260,
+        "note": "闭关中显化"
+      }
     ]
   },
   "firstSeq": 1255,
@@ -61,13 +80,27 @@
       "docId": "plot.xianni-1345-edge-of-heaven-and-earth-alliance-with-bald-youth",
       "dated": false,
       "seq": 1260
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-1347-shanlei-war-1",
+      "dated": false,
+      "seq": 1260
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-1347-shanlei-war-1",
+      "dated": false,
+      "seq": 1260,
+      "note": "闭关中显化"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1344-san-ling-shang-ren",
-    "plot.xianni-1345-edge-of-heaven-and-earth-alliance-with-bald-youth"
+    "plot.xianni-1345-edge-of-heaven-and-earth-alliance-with-bald-youth",
+    "plot.xianni-1347-shanlei-war-1"
   ],
-  "updatedAt": "2026-08-25T11:57:45.084Z"
+  "updatedAt": "2026-08-25T12:01:54.004Z"
 }

@@ -5,16 +5,19 @@
   "aliases": [
     "残破的漂浮大陆",
     "闪雷族圣地",
-    "圣地"
+    "圣地",
+    "闪雷圣地",
+    "我族圣地"
   ],
   "summary": "雷池最深处十六颗修真星围成之圆的圆心，一块通体黑色、毫无生机、边缘碎石漂浮的残破漂浮大陆，为闪雷族圣地。",
   "attributes": {
-    "类型": "圣地/漂浮大陆碎片、族中圣地/禁地",
+    "类型": "圣地/漂浮大陆碎片、族中圣地/禁地、圣地/禁地",
     "所属势力": "闪雷族",
-    "方位": "雷池最深处、十六颗修真星围成圆圈的中心",
+    "方位": "十六颗修真星环绕的中心漂浮大地",
     "上级区域": "闪雷族雷池",
     "特产": "通天庙宇与开天不灭雷霆、不灭之雷",
-    "危险度": "百年仅一个名额，需以雷晶夺魁方可进入"
+    "危险度": "极高",
+    "守护": "青光防护罩、碎涅至天人第五衰的族中高手"
   },
   "observations": {
     "类型": [
@@ -27,6 +30,11 @@
         "value": "族中圣地/禁地",
         "docId": "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
         "seq": 1242
+      },
+      {
+        "value": "圣地/禁地",
+        "docId": "plot.xianni-1347-shanlei-war-1",
+        "seq": 1260
       }
     ],
     "所属势力": [
@@ -41,6 +49,11 @@
         "value": "雷池最深处、十六颗修真星围成圆圈的中心",
         "docId": "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
         "seq": 1242
+      },
+      {
+        "value": "十六颗修真星环绕的中心漂浮大地",
+        "docId": "plot.xianni-1347-shanlei-war-1",
+        "seq": 1260
       }
     ],
     "上级区域": [
@@ -67,6 +80,23 @@
         "value": "百年仅一个名额，需以雷晶夺魁方可进入",
         "docId": "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
         "seq": 1242
+      },
+      {
+        "value": "极高",
+        "docId": "plot.xianni-1347-shanlei-war-1",
+        "seq": 1260
+      }
+    ],
+    "守护": [
+      {
+        "value": "青光防护罩",
+        "docId": "plot.xianni-1347-shanlei-war-1",
+        "seq": 1260
+      },
+      {
+        "value": "碎涅至天人第五衰的族中高手",
+        "docId": "plot.xianni-1347-shanlei-war-1",
+        "seq": 1260
       }
     ]
   },
@@ -86,9 +116,9 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
+      "docId": "plot.xianni-1347-shanlei-war-1",
       "dated": false,
-      "seq": 1242
+      "seq": 1260
     },
     "上级区域": {
       "asOf": null,
@@ -104,15 +134,22 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
+      "docId": "plot.xianni-1347-shanlei-war-1",
       "dated": false,
-      "seq": 1242
+      "seq": 1260
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-1347-shanlei-war-1",
+      "dated": false,
+      "seq": 1260
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam"
+    "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
+    "plot.xianni-1347-shanlei-war-1"
   ],
-  "updatedAt": "2026-08-25T10:35:24.583Z"
+  "updatedAt": "2026-08-25T12:01:54.005Z"
 }
