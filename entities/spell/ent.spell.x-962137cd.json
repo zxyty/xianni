@@ -3,11 +3,15 @@
   "type": "spell",
   "name": "雷霆风暴",
   "aliases": [
-    "双指成剑引雷"
+    "双指成剑引雷",
+    "万丈雷霆风暴",
+    "王林所化雷霆风暴"
   ],
   "summary": "王林右手双指成剑向前一指，虚空幻化无尽雷霆形成的风暴，撞击黑幕引发溶洞大范围坍塌。",
   "attributes": {
-    "类型": "雷系大范围攻击"
+    "类型": "本体所化/大范围杀伐",
+    "威力": "阴虚、阳实、窥涅、净涅皆无半点反抗之力；可破瞬移",
+    "适用境界": "问鼎以上（本章施展者为王林）"
   },
   "observations": {
     "类型": [
@@ -15,6 +19,25 @@
         "value": "雷系大范围攻击",
         "docId": "plot.xianni-ch898-lei-ji-shiyinzong-liuqingyun",
         "seq": 839
+      },
+      {
+        "value": "本体所化/大范围杀伐",
+        "docId": "plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu",
+        "seq": 1255
+      }
+    ],
+    "威力": [
+      {
+        "value": "阴虚、阳实、窥涅、净涅皆无半点反抗之力；可破瞬移",
+        "docId": "plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu",
+        "seq": 1255
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "问鼎以上（本章施展者为王林）",
+        "docId": "plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu",
+        "seq": 1255
       }
     ]
   },
@@ -22,15 +45,28 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch898-lei-ji-shiyinzong-liuqingyun",
+      "docId": "plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu",
       "dated": false,
-      "seq": 839
+      "seq": 1255
+    },
+    "威力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu",
+      "dated": false,
+      "seq": 1255
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu",
+      "dated": false,
+      "seq": 1255
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch898-lei-ji-shiyinzong-liuqingyun"
+    "plot.xianni-ch898-lei-ji-shiyinzong-liuqingyun",
+    "plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu"
   ],
-  "updatedAt": "2026-08-23T18:16:36.610Z"
+  "updatedAt": "2026-08-25T11:50:27.157Z"
 }

@@ -721,3 +721,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T11:42:59.597Z** `ingest` plot.xianni-ch1339-buhuaihaoyi-zhoutianzi-slain-seven-million-worlds — 第1339章 不怀好意：王林灭周天子，踏入闪雷族七百万天地 · kind=plot asOf=2026-08-25 entities=26 relations=40 src=01250-01254.p5.md
 - **2026-08-25T11:45:18.206Z** `ingest` plot.xianni-1340-tianjie-tiandao-lubei-dujie — 第1340章 这就是天劫么！——王林化身天道，目睹鲁备渡劫身死 · kind=plot asOf=2026-08-25 entities=21 relations=30 src=01255-01259.p1.md
 - **2026-08-25T11:47:47.898Z** `ingest` plot.xianni-1341-i-am-the-heavenly-tribulation — 第1341章 我就是天劫！——王林反杀闪雷族「化身天道」四人组与阴虚修士 · kind=plot asOf=2026-08-25 entities=16 relations=26 src=01255-01259.p2.md
+- **2026-08-25T11:50:27.612Z** `ingest` plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu — 第1342章 雷修大能之路——王林融合灵念之雷，悟得十道圆满雷本源，血洗闪雷族 · kind=plot asOf=2026-08-25 entities=21 relations=28 src=01255-01259.p3.md

@@ -3,13 +3,17 @@
   "type": "technique",
   "name": "雷之本源",
   "aliases": [
-    "雷本源"
+    "雷本源",
+    "本源之雷",
+    "十道圆满之雷"
   ],
   "summary": "王林在生死危机中自行诞生的雷之本源，使其对雷霆操控达到可怕程度；吞噬闪雷族圣雷或可使之进化。",
   "attributes": {
     "五行属性": "雷",
-    "修炼条件": "自行感悟，不依赖门徒香火",
-    "效果": "可怕程度的雷霆操控，安然穿越闪雷族雷池"
+    "修炼条件": "需寻得并吸收九种伴随之雷",
+    "效果": "可怕程度的雷霆操控，安然穿越闪雷族雷池、吸收伴随之雷可壮大本源、集齐九道伴随之雷则本源大成、可凭此突破修道第二步壁障成为第三步雷修大能",
+    "出处": "天地初开第一道诞生的雷霆之记忆（太古）",
+    "外显异象": "右目瞳孔内闪电印记；本源雷霆印记在中、伴随之雷环绕在外自成天地"
   },
   "observations": {
     "五行属性": [
@@ -25,6 +29,11 @@
         "docId": "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
         "seq": 1242,
         "note": "王林自陈"
+      },
+      {
+        "value": "需寻得并吸收九种伴随之雷",
+        "docId": "plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu",
+        "seq": 1255
       }
     ],
     "效果": [
@@ -32,6 +41,35 @@
         "value": "可怕程度的雷霆操控，安然穿越闪雷族雷池",
         "docId": "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
         "seq": 1242
+      },
+      {
+        "value": "吸收伴随之雷可壮大本源",
+        "docId": "plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu",
+        "seq": 1255
+      },
+      {
+        "value": "集齐九道伴随之雷则本源大成",
+        "docId": "plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu",
+        "seq": 1255
+      },
+      {
+        "value": "可凭此突破修道第二步壁障成为第三步雷修大能",
+        "docId": "plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu",
+        "seq": 1255
+      }
+    ],
+    "出处": [
+      {
+        "value": "天地初开第一道诞生的雷霆之记忆（太古）",
+        "docId": "plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu",
+        "seq": 1255
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "右目瞳孔内闪电印记；本源雷霆印记在中、伴随之雷环绕在外自成天地",
+        "docId": "plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu",
+        "seq": 1255
       }
     ]
   },
@@ -45,22 +83,34 @@
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
+      "docId": "plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu",
       "dated": false,
-      "seq": 1242,
-      "note": "王林自陈"
+      "seq": 1255
     },
     "效果": {
       "asOf": null,
       "docId": "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
       "dated": false,
       "seq": 1242
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu",
+      "dated": false,
+      "seq": 1255
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu",
+      "dated": false,
+      "seq": 1255
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam"
+    "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
+    "plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu"
   ],
-  "updatedAt": "2026-08-25T10:35:24.446Z"
+  "updatedAt": "2026-08-25T11:50:27.146Z"
 }
