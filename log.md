@@ -796,3 +796,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T17:44:09.407Z** `ingest` lore.xianni-1424-meng-dao-zhong-mo — 第1424章 梦道种魔：王林第三神通「梦回道古」的由来与原理 · kind=lore asOf=2026-08-25 entities=43 relations=65 src=01331-01335.p4.md
 - **2026-08-25T17:46:32.009Z** `ingest` plot.xianni-ch1425-sima-mo-memory-village-massacre-mengdao — 第1425章 或许会有这一天……——司墨子（司马墨）灭门血仇往事与梦道之术终局 · kind=plot asOf=2026-08-25 entities=23 relations=32 src=01331-01335.p5.md
 - **2026-08-25T18:14:34.746Z** `ingest` plot.xianni-ch1426-jiang-li-liujinbiao-captured-huoquezu — 第1426章 将离：刘金彪以骗道之术诱擒于火雀族，王林辞别老朱雀获龟甲与朱雀三术 · kind=plot asOf=2026-08-25 entities=32 relations=43 src=01336-01340.p1.md
+- **2026-08-25T18:16:21.457Z** `ingest` plot.xianni-ch1427-ming-zhi-fen-jie-gu-san — 第1427章 铭志！——老朱雀传授朱雀一族最强之术「焚界古伞」 · kind=plot asOf=2026-08-25 entities=12 relations=20 src=01336-01340.p2.md
