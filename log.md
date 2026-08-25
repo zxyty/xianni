@@ -816,3 +816,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T19:27:00.541Z** `ingest` plot.xianni-ch1447-who-is-the-oriole — 第1447章 谁是黄雀！——谋狐算尽死于生死禁，灵动上人反擒王林 · kind=plot asOf=2026-08-25 entities=22 relations=41 src=01355-01359.p3.md
 - **2026-08-25T19:28:59.705Z** `ingest` plot.xianni-ch1448-trap-siege-lingdong-shangren — 第1448章 趁病要命！——王林雾中围杀灵动上人 · kind=plot asOf=2026-08-25 entities=20 relations=24 src=01355-01359.p4.md
 - **2026-08-25T19:31:37.858Z** `ingest` plot.xianni-ch1449-mutai-secret — 仙逆 第1449章 墓台之秘：定身术擒灵动、天皇炉炼奴与三阶墓台地图 · kind=plot asOf=2026-08-25 entities=17 relations=25 src=01355-01359.p5.md
+- **2026-08-25T19:34:21.308Z** `ingest` plot.xianni-ch1450-ci-ming-gu-nu-zi — 仙逆 第1450章 赐名古奴子——天皇炉十斧炼奴、梦道种烙印 · kind=plot asOf=2026-08-25 entities=18 relations=25 src=01360-01364.p1.md
