@@ -631,3 +631,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T02:54:55.622Z** `ingest` plot.xianni-1236-another-mosquito-beast-king — 第1236章 另一个蚊兽王：王林窥见风仙界蚊兽全貌，元神附体蚊兽王潜入探路 · kind=plot asOf=2026-08-25 entities=18 relations=25 src=01151-01154.p4.md
 - **2026-08-25T02:56:57.268Z** `ingest` plot.xianni-1237-mosquito-king-approach — 仙逆 第1237章 逼近：蚊兽王连吞同族、力战白蚊，紫色蚊王现身 · kind=plot asOf=2026-08-25 entities=14 relations=24 src=01155-01159.p1.md
 - **2026-08-25T02:58:45.580Z** `ingest` plot.xianni-1238-new-mosquito-king — 第1238章 新王！——王林蚊兽吞噬紫色蚊王，登临蚊王之位 · kind=plot asOf=2026-08-25 entities=15 relations=18 src=01155-01159.p2.md
+- **2026-08-25T03:01:36.275Z** `ingest` plot.xianni-1239-guiyuanzong-mosquito-king-song-luohai — 第1239章 归元宗：蚊王立威诛宋洛海，无极宗分宗大比归元宗遭欺 · kind=plot asOf=2026-08-25 entities=27 relations=40 src=01155-01159.p3.md

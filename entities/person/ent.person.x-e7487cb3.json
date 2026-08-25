@@ -12,8 +12,9 @@
     "身份": "寂魂道长老、旁观者",
     "小阶段": "碎涅中期",
     "阵营": "寂魂道",
-    "性格": "谨慎、贪婪、功利心重、隐忍窥伺、见宝心动",
-    "标志特征": "收敛全身气息藏身山石后，半月一动不敢动"
+    "性格": "谨慎、贪婪、功利心重、隐忍窥伺、见宝心动、贪念压过理智、善于算计时机",
+    "标志特征": "收敛全身气息藏身山石后，半月一动不敢动",
+    "结局": "被蚊群四面封死围困、求饶未获宽赦，蚊群攻势更疯狂"
   },
   "observations": {
     "性别": [
@@ -70,6 +71,11 @@
         "value": "隐忍窥伺、见宝心动",
         "docId": "plot.xianni-1238-new-mosquito-king",
         "seq": 1155
+      },
+      {
+        "value": "贪念压过理智、善于算计时机",
+        "docId": "plot.xianni-1239-guiyuanzong-mosquito-king-song-luohai",
+        "seq": 1155
       }
     ],
     "标志特征": [
@@ -77,6 +83,14 @@
         "value": "收敛全身气息藏身山石后，半月一动不敢动",
         "docId": "plot.xianni-1237-mosquito-king-approach",
         "seq": 1155
+      }
+    ],
+    "结局": [
+      {
+        "value": "被蚊群四面封死围困、求饶未获宽赦，蚊群攻势更疯狂",
+        "docId": "plot.xianni-1239-guiyuanzong-mosquito-king-song-luohai",
+        "seq": 1155,
+        "note": "本章未明写生死"
       }
     ]
   },
@@ -117,13 +131,21 @@
       "docId": "plot.xianni-1237-mosquito-king-approach",
       "dated": false,
       "seq": 1155
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-1239-guiyuanzong-mosquito-king-song-luohai",
+      "dated": false,
+      "seq": 1155,
+      "note": "本章未明写生死"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1237-mosquito-king-approach",
-    "plot.xianni-1238-new-mosquito-king"
+    "plot.xianni-1238-new-mosquito-king",
+    "plot.xianni-1239-guiyuanzong-mosquito-king-song-luohai"
   ],
-  "updatedAt": "2026-08-25T02:58:45.242Z"
+  "updatedAt": "2026-08-25T03:01:35.887Z"
 }
