@@ -8,16 +8,18 @@
     "黑衣人炎龙",
     "天下之火·炎龙",
     "万丈炎龙",
-    "小龙"
+    "小龙",
+    "老龙"
   ],
   "summary": "黑衣人所拥有的火系龙类之力/血脉，其暗忖若再吞火朱雀，炎龙或可第二次觉醒。",
   "attributes": {
     "主人": "隐藏黑龙印记的黑衣人",
     "血脉": "火/龙",
-    "能力": "火焰之血可助朱雀觉醒",
+    "能力": "可被吞噬火属性存在而「觉醒」、火焰之血可助朱雀觉醒、体内龙炎血蕴含全身火之精华",
     "种族": "龙",
-    "外形": "万丈炎龙",
-    "栖息地": "大帝星远处天际"
+    "外形": "万丈炎龙、万丈之躯，头顶有鼓包",
+    "栖息地": "大帝星远处天际、炎域（幼年时）",
+    "天敌": "朱雀一族"
   },
   "observations": {
     "主人": [
@@ -45,6 +47,11 @@
         "value": "火焰之血可助朱雀觉醒",
         "docId": "plot.xianni-1411-fourth-awakening-nine-turn-karma-tribulation",
         "seq": 1321
+      },
+      {
+        "value": "体内龙炎血蕴含全身火之精华",
+        "docId": "plot.xianni-ch1412-nine-colors-into-one-fourth-zhuque-awakening",
+        "seq": 1321
       }
     ],
     "种族": [
@@ -59,12 +66,29 @@
         "value": "万丈炎龙",
         "docId": "plot.xianni-1411-fourth-awakening-nine-turn-karma-tribulation",
         "seq": 1321
+      },
+      {
+        "value": "万丈之躯，头顶有鼓包",
+        "docId": "plot.xianni-ch1412-nine-colors-into-one-fourth-zhuque-awakening",
+        "seq": 1321
       }
     ],
     "栖息地": [
       {
         "value": "大帝星远处天际",
         "docId": "plot.xianni-1411-fourth-awakening-nine-turn-karma-tribulation",
+        "seq": 1321
+      },
+      {
+        "value": "炎域（幼年时）",
+        "docId": "plot.xianni-ch1412-nine-colors-into-one-fourth-zhuque-awakening",
+        "seq": 1321
+      }
+    ],
+    "天敌": [
+      {
+        "value": "朱雀一族",
+        "docId": "plot.xianni-ch1412-nine-colors-into-one-fourth-zhuque-awakening",
         "seq": 1321
       }
     ]
@@ -85,9 +109,10 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-1411-fourth-awakening-nine-turn-karma-tribulation",
+      "docId": "plot.xianni-ch1055-shanbeng-seventh-layer-volcano",
       "dated": false,
-      "seq": 1321
+      "seq": 972,
+      "note": "黑衣人猜想，已觉醒过一次"
     },
     "种族": {
       "asOf": null,
@@ -106,6 +131,12 @@
       "docId": "plot.xianni-1411-fourth-awakening-nine-turn-karma-tribulation",
       "dated": false,
       "seq": 1321
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1412-nine-colors-into-one-fourth-zhuque-awakening",
+      "dated": false,
+      "seq": 1321
     }
   },
   "contested": false,
@@ -113,7 +144,8 @@
   "docs": [
     "plot.xianni-ch1055-shanbeng-seventh-layer-volcano",
     "plot.xianni-1068-zhuque-second-awakening",
-    "plot.xianni-1411-fourth-awakening-nine-turn-karma-tribulation"
+    "plot.xianni-1411-fourth-awakening-nine-turn-karma-tribulation",
+    "plot.xianni-ch1412-nine-colors-into-one-fourth-zhuque-awakening"
   ],
-  "updatedAt": "2026-08-25T17:07:40.012Z"
+  "updatedAt": "2026-08-25T17:09:34.104Z"
 }
