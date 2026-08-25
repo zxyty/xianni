@@ -3,13 +3,14 @@
   "type": "material",
   "name": "墓台符文",
   "aliases": [
-    "数字符文"
+    "数字符文",
+    "古墓符文"
   ],
   "summary": "可融入墓台使其膨胀升阶的符文；王林另藏有近百个，取自崩溃封印之地内死亡修士。",
   "attributes": {
-    "类型": "符文",
-    "用途": "融入墓台提升阶位与尺寸",
-    "产地": "妙音墓台、崩溃的封印之地"
+    "类型": "古墓规则道具",
+    "用途": "抢夺融入以提升墓台阶位",
+    "产地": "妙音墓台、崩溃的封印之地、古墓雾海"
   },
   "observations": {
     "类型": [
@@ -17,6 +18,11 @@
         "value": "符文",
         "docId": "plot.xianni-ch1456-three-killing-intents-fog-hand-throw",
         "seq": 1365
+      },
+      {
+        "value": "古墓规则道具",
+        "docId": "plot.xianni-1464-who-is-faster-eighth-tier-tomb-platform",
+        "seq": 1375
       }
     ],
     "用途": [
@@ -24,6 +30,11 @@
         "value": "融入墓台提升阶位与尺寸",
         "docId": "plot.xianni-ch1456-three-killing-intents-fog-hand-throw",
         "seq": 1365
+      },
+      {
+        "value": "抢夺融入以提升墓台阶位",
+        "docId": "plot.xianni-1464-who-is-faster-eighth-tier-tomb-platform",
+        "seq": 1375
       }
     ],
     "产地": [
@@ -36,6 +47,11 @@
         "value": "崩溃的封印之地",
         "docId": "plot.xianni-ch1456-three-killing-intents-fog-hand-throw",
         "seq": 1365
+      },
+      {
+        "value": "古墓雾海",
+        "docId": "plot.xianni-1464-who-is-faster-eighth-tier-tomb-platform",
+        "seq": 1375
       }
     ]
   },
@@ -43,15 +59,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1456-three-killing-intents-fog-hand-throw",
+      "docId": "plot.xianni-1464-who-is-faster-eighth-tier-tomb-platform",
       "dated": false,
-      "seq": 1365
+      "seq": 1375
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch1456-three-killing-intents-fog-hand-throw",
+      "docId": "plot.xianni-1464-who-is-faster-eighth-tier-tomb-platform",
       "dated": false,
-      "seq": 1365
+      "seq": 1375
     },
     "产地": {
       "asOf": null,
@@ -63,7 +79,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1456-three-killing-intents-fog-hand-throw"
+    "plot.xianni-ch1456-three-killing-intents-fog-hand-throw",
+    "plot.xianni-1464-who-is-faster-eighth-tier-tomb-platform"
   ],
-  "updatedAt": "2026-08-25T20:48:29.601Z"
+  "updatedAt": "2026-08-25T21:21:35.283Z"
 }

@@ -6,15 +6,17 @@
     "烨寞地府",
     "地府",
     "古墓地府",
-    "地府为魂"
+    "地府为魂",
+    "天地人三府之地府"
   ],
   "summary": "烨寞所言之物/地：非其族者若首成九阶墓台，可取本道地府而去。",
   "attributes": {
-    "类型": "传承奖赏/秘地、未知、囚魂之地/传承秘藏",
+    "类型": "传承奖赏/秘地、未知、囚魂之地/传承秘藏、传承之地",
     "守护": "以九阶墓台为取得条件",
     "所属势力": "道古烨寞",
     "危险度": "极高",
-    "特产": "三仙尊之魂、仁和剑、枷"
+    "特产": "三仙尊之魂、仁和剑、枷",
+    "上级区域": "天地人三府"
   },
   "observations": {
     "类型": [
@@ -33,6 +35,11 @@
         "value": "囚魂之地/传承秘藏",
         "docId": "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
         "seq": 1370
+      },
+      {
+        "value": "传承之地",
+        "docId": "plot.xianni-1464-who-is-faster-eighth-tier-tomb-platform",
+        "seq": 1375
       }
     ],
     "守护": [
@@ -73,6 +80,13 @@
         "docId": "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
         "seq": 1370
       }
+    ],
+    "上级区域": [
+      {
+        "value": "天地人三府",
+        "docId": "plot.xianni-1464-who-is-faster-eighth-tier-tomb-platform",
+        "seq": 1375
+      }
     ]
   },
   "firstSeq": 1365,
@@ -107,6 +121,12 @@
       "docId": "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
       "dated": false,
       "seq": 1370
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-1464-who-is-faster-eighth-tier-tomb-platform",
+      "dated": false,
+      "seq": 1375
     }
   },
   "contested": false,
@@ -114,7 +134,8 @@
   "docs": [
     "plot.xianni-ch1457-shao-yi-ge",
     "plot.xianni-1458-ci-dao-wanglin-ponders-ancient-tomb-revives-trees",
-    "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight"
+    "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
+    "plot.xianni-1464-who-is-faster-eighth-tier-tomb-platform"
   ],
-  "updatedAt": "2026-08-25T21:19:26.248Z"
+  "updatedAt": "2026-08-25T21:21:35.288Z"
 }

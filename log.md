@@ -831,3 +831,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T21:10:06.482Z** `ingest` plot.xianni-ch1461-zhijie-fengsha-fengjin-zhoujin — 仙逆 第1461章 制敌！——王林联手灵动上人以古息叶封死奉天狼族大汉周谨 · kind=plot asOf=2026-08-25 entities=14 relations=19 src=01370-01374.p3.md
 - **2026-08-25T21:17:02.238Z** `ingest` plot.xianni-ch1462-destroy-rules-refine-zhou-jin — 第1462章 破坏规则：王林九滴毒液困周谨，令灵动上人助炼古奴 · kind=plot asOf=2026-08-25 entities=43 relations=63 src=01370-01374.p4.md
 - **2026-08-25T21:19:26.665Z** `ingest` plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight — 第1463章 作弊：王林自造符文印记，墓台连升至八阶 · kind=plot asOf=2026-08-25 entities=21 relations=33 src=01370-01374.p5.md
+- **2026-08-25T21:21:35.693Z** `ingest` plot.xianni-1464-who-is-faster-eighth-tier-tomb-platform — 《仙逆》第1464章 谁快！——王林首成八阶墓台，三方强者围杀 · kind=plot asOf=2026-08-25 entities=18 relations=28 src=01375-01379.p1.md
