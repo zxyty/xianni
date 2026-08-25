@@ -837,3 +837,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T21:34:25.162Z** `ingest` plot.xianni-ch1467-ancient-tomb-upheaval — 仙逆·第1467章 古墓剧变：裂缝再现吞雾、修为限制消失，大荒上人抢入，妙音道尊与九天魔尊结盟被黑袍人喝止 · kind=plot asOf=2026-08-25 entities=33 relations=59 src=01375-01379.p4.md
 - **2026-08-25T21:40:54.941Z** `ingest` plot.xianni-1468-borrowed-momentum-throne-of-ancient-god — 第1468章 借来之势！！——王林登石台坐宝座，双目六星与古神真身觉醒 · kind=plot asOf=2026-08-25 entities=25 relations=37 src=01375-01379.p5.md
 - **2026-08-25T21:43:21.916Z** `ingest` plot.xianni-1469-chuancheng-1-daogu-yemo-battle-vision — 仙逆 第1469章 传承（一）：王林化身道古烨寞，李广一箭射落左目 · kind=plot asOf=2026-08-25 entities=17 relations=23 src=01380-01384.p1.md
+- **2026-08-25T21:45:56.560Z** `ingest` plot.xianni-ch1470-daogu-inheritance-chair-resistance — 第1470章 传承（二）：石椅意志排斥与古墓三层真相 · kind=plot asOf=2026-08-25 entities=22 relations=33 src=01380-01384.p2.md

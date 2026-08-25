@@ -10,12 +10,13 @@
   "summary": "奉天狼族三步大能，持有墓台，一路追杀王林进入古墓，欲杀王林取古息叶并令自身墓台晋为六阶，最终被王林与灵动上人联手封死退路、以九滴黑色水滴定住。",
   "attributes": {
     "种族": "奉天狼族",
-    "身份": "三步大能、墓台持有者、第三步大能、奉天狼族老祖",
+    "身份": "三步大能、墓台持有者、第三步大能、奉天狼族老祖、王林的古奴",
     "结局": "道心碎开，跪地屈服",
     "存殁": "存活、被困待炼化",
     "外貌": "大汉",
     "性别": "男",
-    "性格": "桀骜，不跪天地，不敬鬼神"
+    "性格": "桀骜，不跪天地，不敬鬼神",
+    "标志特征": "眉心古奴符文（挣扎越烈越闪烁）"
   },
   "observations": {
     "种族": [
@@ -40,6 +41,12 @@
         "value": "奉天狼族老祖",
         "docId": "plot.xianni-1468-borrowed-momentum-throne-of-ancient-god",
         "seq": 1375
+      },
+      {
+        "value": "王林的古奴",
+        "docId": "plot.xianni-ch1470-daogu-inheritance-chair-resistance",
+        "seq": 1380,
+        "note": "第1470章被一指种下古奴符文后"
       }
     ],
     "结局": [
@@ -89,6 +96,13 @@
         "docId": "plot.xianni-1468-borrowed-momentum-throne-of-ancient-god",
         "seq": 1375
       }
+    ],
+    "标志特征": [
+      {
+        "value": "眉心古奴符文（挣扎越烈越闪烁）",
+        "docId": "plot.xianni-ch1470-daogu-inheritance-chair-resistance",
+        "seq": 1380
+      }
     ]
   },
   "firstSeq": 1370,
@@ -135,6 +149,12 @@
       "docId": "plot.xianni-1468-borrowed-momentum-throne-of-ancient-god",
       "dated": false,
       "seq": 1375
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1470-daogu-inheritance-chair-resistance",
+      "dated": false,
+      "seq": 1380
     }
   },
   "contested": false,
@@ -142,7 +162,8 @@
   "docs": [
     "plot.xianni-ch1461-zhijie-fengsha-fengjin-zhoujin",
     "plot.xianni-ch1462-destroy-rules-refine-zhou-jin",
-    "plot.xianni-1468-borrowed-momentum-throne-of-ancient-god"
+    "plot.xianni-1468-borrowed-momentum-throne-of-ancient-god",
+    "plot.xianni-ch1470-daogu-inheritance-chair-resistance"
   ],
-  "updatedAt": "2026-08-25T21:40:54.439Z"
+  "updatedAt": "2026-08-25T21:45:56.062Z"
 }

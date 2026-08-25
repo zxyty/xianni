@@ -4,12 +4,15 @@
   "name": "道忆李广",
   "aliases": [
     "李广",
-    "道忆"
+    "道忆",
+    "持弓的李广"
   ],
   "summary": "射下古墓主人左眼之人，该左眼内含其半生记忆与对故乡的思念。",
   "attributes": {
     "身份": "射落古墓主人左眼者",
-    "阵营": "古墓主人之敌"
+    "阵营": "古墓主人之敌",
+    "标志特征": "手持弓、保持生前动作",
+    "存殁": "已亡"
   },
   "observations": {
     "身份": [
@@ -24,6 +27,21 @@
         "value": "古墓主人之敌",
         "docId": "plot.xianni-ch1467-ancient-tomb-upheaval",
         "seq": 1375
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "手持弓、保持生前动作",
+        "docId": "plot.xianni-ch1470-daogu-inheritance-chair-resistance",
+        "seq": 1380
+      }
+    ],
+    "存殁": [
+      {
+        "value": "已亡",
+        "docId": "plot.xianni-ch1470-daogu-inheritance-chair-resistance",
+        "seq": 1380,
+        "note": "画面中保持生前姿态、由七彩修士取弓"
       }
     ]
   },
@@ -40,12 +58,26 @@
       "docId": "plot.xianni-ch1467-ancient-tomb-upheaval",
       "dated": false,
       "seq": 1375
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1470-daogu-inheritance-chair-resistance",
+      "dated": false,
+      "seq": 1380
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1470-daogu-inheritance-chair-resistance",
+      "dated": false,
+      "seq": 1380,
+      "note": "画面中保持生前姿态、由七彩修士取弓"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1467-ancient-tomb-upheaval"
+    "plot.xianni-ch1467-ancient-tomb-upheaval",
+    "plot.xianni-ch1470-daogu-inheritance-chair-resistance"
   ],
-  "updatedAt": "2026-08-25T21:34:24.763Z"
+  "updatedAt": "2026-08-25T21:45:56.067Z"
 }

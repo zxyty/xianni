@@ -3,12 +3,16 @@
   "type": "place",
   "name": "石台宫殿",
   "aliases": [
-    "石台平台"
+    "石台平台",
+    "石台所在宫殿",
+    "道古石台"
   ],
   "summary": "本章事件发生地：安静的宫殿内有石台与平台，石台之上有诡异座椅，石台八方遍布早已死亡的修士；威压爆发时横扫整个宫殿。",
   "attributes": {
-    "类型": "宫殿·石台",
-    "特产": "石台八方早已死亡之修士"
+    "类型": "古墓宫殿",
+    "特产": "石台八方早已死亡之修士",
+    "上级区域": "道古古墓第一层",
+    "守护": "座椅内的意志"
   },
   "observations": {
     "类型": [
@@ -16,6 +20,11 @@
         "value": "宫殿·石台",
         "docId": "plot.xianni-1468-borrowed-momentum-throne-of-ancient-god",
         "seq": 1375
+      },
+      {
+        "value": "古墓宫殿",
+        "docId": "plot.xianni-ch1470-daogu-inheritance-chair-resistance",
+        "seq": 1380
       }
     ],
     "特产": [
@@ -25,15 +34,29 @@
         "seq": 1375,
         "note": "无数年前厮杀的遗留"
       }
+    ],
+    "上级区域": [
+      {
+        "value": "道古古墓第一层",
+        "docId": "plot.xianni-ch1470-daogu-inheritance-chair-resistance",
+        "seq": 1380
+      }
+    ],
+    "守护": [
+      {
+        "value": "座椅内的意志",
+        "docId": "plot.xianni-ch1470-daogu-inheritance-chair-resistance",
+        "seq": 1380
+      }
     ]
   },
   "firstSeq": 1375,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1468-borrowed-momentum-throne-of-ancient-god",
+      "docId": "plot.xianni-ch1470-daogu-inheritance-chair-resistance",
       "dated": false,
-      "seq": 1375
+      "seq": 1380
     },
     "特产": {
       "asOf": null,
@@ -41,12 +64,25 @@
       "dated": false,
       "seq": 1375,
       "note": "无数年前厮杀的遗留"
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1470-daogu-inheritance-chair-resistance",
+      "dated": false,
+      "seq": 1380
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1470-daogu-inheritance-chair-resistance",
+      "dated": false,
+      "seq": 1380
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1468-borrowed-momentum-throne-of-ancient-god"
+    "plot.xianni-1468-borrowed-momentum-throne-of-ancient-god",
+    "plot.xianni-ch1470-daogu-inheritance-chair-resistance"
   ],
-  "updatedAt": "2026-08-25T21:40:54.451Z"
+  "updatedAt": "2026-08-25T21:45:56.077Z"
 }

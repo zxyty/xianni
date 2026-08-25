@@ -5,13 +5,16 @@
   "aliases": [
     "宝座",
     "巨大的座椅",
-    "石台宝座"
+    "石台宝座",
+    "道古石台座椅",
+    "阵法中枢座椅"
   ],
   "summary": "石台之上的巨大座椅，王林坐上后自其内涌出妖气与魔气，分别经其左右手入体、于双目各凝六个虚幻星点，并令其化作古神真身。",
   "attributes": {
-    "能力": "令坐者化数百丈古神真身、涌出妖气入左手凝左目六星、涌出滔天魔气入右手凝右目六星、赋予令第三步大能颤栗的威严",
+    "能力": "令坐者化数百丈古神真身、涌出妖气入左手凝左目六星、涌出滔天魔气入右手凝右目六星、赋予令第三步大能颤栗的威严、传导第三层心脏之传承气息入坐者体内、苏醒后爆发排斥之力推出坐者并收回气息、作为第一层阵法正心与中枢",
     "来历": "当年曾有一人坐于其上，被殿内无数修士与巨影围攻",
-    "外形": "巨大座椅，位于石台之上"
+    "外形": "石台上的座椅，椅上有椭圆形光团",
+    "器灵": "椅内沉睡的意志（因妖魔气息与画面崩溃而苏醒）"
   },
   "observations": {
     "能力": [
@@ -34,6 +37,21 @@
         "value": "赋予令第三步大能颤栗的威严",
         "docId": "plot.xianni-1468-borrowed-momentum-throne-of-ancient-god",
         "seq": 1375
+      },
+      {
+        "value": "传导第三层心脏之传承气息入坐者体内",
+        "docId": "plot.xianni-ch1470-daogu-inheritance-chair-resistance",
+        "seq": 1380
+      },
+      {
+        "value": "苏醒后爆发排斥之力推出坐者并收回气息",
+        "docId": "plot.xianni-ch1470-daogu-inheritance-chair-resistance",
+        "seq": 1380
+      },
+      {
+        "value": "作为第一层阵法正心与中枢",
+        "docId": "plot.xianni-ch1470-daogu-inheritance-chair-resistance",
+        "seq": 1380
       }
     ],
     "来历": [
@@ -48,6 +66,18 @@
         "value": "巨大座椅，位于石台之上",
         "docId": "plot.xianni-1468-borrowed-momentum-throne-of-ancient-god",
         "seq": 1375
+      },
+      {
+        "value": "石台上的座椅，椅上有椭圆形光团",
+        "docId": "plot.xianni-ch1470-daogu-inheritance-chair-resistance",
+        "seq": 1380
+      }
+    ],
+    "器灵": [
+      {
+        "value": "椅内沉睡的意志（因妖魔气息与画面崩溃而苏醒）",
+        "docId": "plot.xianni-ch1470-daogu-inheritance-chair-resistance",
+        "seq": 1380
       }
     ]
   },
@@ -67,15 +97,22 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-1468-borrowed-momentum-throne-of-ancient-god",
+      "docId": "plot.xianni-ch1470-daogu-inheritance-chair-resistance",
       "dated": false,
-      "seq": 1375
+      "seq": 1380
+    },
+    "器灵": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1470-daogu-inheritance-chair-resistance",
+      "dated": false,
+      "seq": 1380
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1468-borrowed-momentum-throne-of-ancient-god"
+    "plot.xianni-1468-borrowed-momentum-throne-of-ancient-god",
+    "plot.xianni-ch1470-daogu-inheritance-chair-resistance"
   ],
-  "updatedAt": "2026-08-25T21:40:54.413Z"
+  "updatedAt": "2026-08-25T21:45:56.074Z"
 }
