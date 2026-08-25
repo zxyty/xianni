@@ -6,15 +6,17 @@
     "上古时期",
     "上古修真界",
     "上古纪元",
-    "仙人鼎盛之时"
+    "仙人鼎盛之时",
+    "上古仙人的时代"
   ],
   "summary": "远古之后的纪元，传承至上古的修真家族源起于此，历经仙界崩溃仍存。",
   "attributes": {
     "时序": "远古之后",
     "上一纪元": "远古",
-    "特征": "仙已不再、炼气士兴起、仙人鼎盛、鼎盛持续不久、四大仙界之战、符族入侵、刘文明悟神之始、掀起腥风血雨的追查风暴",
+    "特征": "仙已不再、炼气士兴起、仙人鼎盛、鼎盛持续不久、四大仙界之战、符族入侵、刘文明悟神之始、掀起腥风血雨的追查风暴、有仙人、无意境",
     "代表势力": "四大仙界、仙人、符文族",
-    "重大事件": "上古以后三次觉醒者灭绝"
+    "重大事件": "上古以后三次觉醒者灭绝",
+    "下一纪元": "远古"
   },
   "observations": {
     "时序": [
@@ -66,6 +68,11 @@
         "value": "刘文明悟神之始、掀起腥风血雨的追查风暴",
         "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
         "seq": 914
+      },
+      {
+        "value": "有仙人、无意境",
+        "docId": "plot.xianni-1216-seven-colored-flower-dao-planting",
+        "seq": 1132
       }
     ],
     "代表势力": [
@@ -90,6 +97,13 @@
         "value": "上古以后三次觉醒者灭绝",
         "docId": "plot.xianni-1209-yueshi-clan-ancient-god-statues-collapse",
         "seq": 1127
+      }
+    ],
+    "下一纪元": [
+      {
+        "value": "远古",
+        "docId": "plot.xianni-1216-seven-colored-flower-dao-planting",
+        "seq": 1132
       }
     ]
   },
@@ -124,6 +138,12 @@
       "docId": "plot.xianni-1209-yueshi-clan-ancient-god-statues-collapse",
       "dated": false,
       "seq": 1127
+    },
+    "下一纪元": {
+      "asOf": null,
+      "docId": "plot.xianni-1216-seven-colored-flower-dao-planting",
+      "dated": false,
+      "seq": 1132
     }
   },
   "contested": false,
@@ -132,7 +152,8 @@
     "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
     "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
     "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
-    "plot.xianni-1209-yueshi-clan-ancient-god-statues-collapse"
+    "plot.xianni-1209-yueshi-clan-ancient-god-statues-collapse",
+    "plot.xianni-1216-seven-colored-flower-dao-planting"
   ],
-  "updatedAt": "2026-08-25T00:44:47.968Z"
+  "updatedAt": "2026-08-25T01:48:55.244Z"
 }

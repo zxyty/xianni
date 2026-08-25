@@ -4,12 +4,14 @@
   "name": "封界之阵",
   "aliases": [
     "环绕四大星域的封界之阵",
-    "封界大阵"
+    "封界大阵",
+    "环绕封界大阵"
   ],
   "summary": "环绕四大星域的封锁大阵；传闻通过瓶中界此宝可破开此阵。",
   "attributes": {
-    "效果": "封锁环绕四大星域",
-    "破解法": "以瓶中界之宝破开"
+    "效果": "封界内修士死亡后道念被吸入种道星阵化作养分",
+    "破解法": "以瓶中界之宝破开",
+    "布置者": "掌尊（推测）"
   },
   "observations": {
     "效果": [
@@ -17,6 +19,11 @@
         "value": "封锁环绕四大星域",
         "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
         "seq": 945
+      },
+      {
+        "value": "封界内修士死亡后道念被吸入种道星阵化作养分",
+        "docId": "plot.xianni-1216-seven-colored-flower-dao-planting",
+        "seq": 1132
       }
     ],
     "破解法": [
@@ -26,15 +33,23 @@
         "seq": 945,
         "note": "传闻，未证实"
       }
+    ],
+    "布置者": [
+      {
+        "value": "掌尊（推测）",
+        "docId": "plot.xianni-1216-seven-colored-flower-dao-planting",
+        "seq": 1132,
+        "note": "文中未明言布阵者，仅言以大神通之术建立并融合"
+      }
     ]
   },
   "firstSeq": 945,
   "attrProvenance": {
     "效果": {
       "asOf": null,
-      "docId": "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
+      "docId": "plot.xianni-1216-seven-colored-flower-dao-planting",
       "dated": false,
-      "seq": 945
+      "seq": 1132
     },
     "破解法": {
       "asOf": null,
@@ -42,12 +57,20 @@
       "dated": false,
       "seq": 945,
       "note": "传闻，未证实"
+    },
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.xianni-1216-seven-colored-flower-dao-planting",
+      "dated": false,
+      "seq": 1132,
+      "note": "文中未明言布阵者，仅言以大神通之术建立并融合"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm"
+    "plot.xianni-1022-kui-zhuque-awakening-echoes-bottle-realm",
+    "plot.xianni-1216-seven-colored-flower-dao-planting"
   ],
-  "updatedAt": "2026-08-24T06:51:16.690Z"
+  "updatedAt": "2026-08-25T01:48:55.239Z"
 }
