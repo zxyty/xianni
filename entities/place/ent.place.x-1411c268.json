@@ -10,7 +10,7 @@
   ],
   "summary": "传说中埋葬『古』的墓地，需破开虚无方可前往，内有古魂。",
   "attributes": {
-    "类型": "秘境/禁地",
+    "类型": "古老墓地/秘境",
     "危险度": "极高，风暴内毁灭一切生灵",
     "特产": "古魂",
     "上级区域": "太古星辰"
@@ -21,6 +21,11 @@
         "value": "秘境/禁地",
         "docId": "plot.xianni-ch1319-lanmeng-daozun-choice",
         "seq": 1232
+      },
+      {
+        "value": "古老墓地/秘境",
+        "docId": "plot.xianni-1422-feng-xianghuo-jie",
+        "seq": 1331
       }
     ],
     "危险度": [
@@ -54,9 +59,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1319-lanmeng-daozun-choice",
+      "docId": "plot.xianni-1422-feng-xianghuo-jie",
       "dated": false,
-      "seq": 1232
+      "seq": 1331
     },
     "危险度": {
       "asOf": null,
@@ -82,7 +87,8 @@
   "docs": [
     "plot.xianni-ch1319-lanmeng-daozun-choice",
     "plot.xianni-1415-gu-zhi-mu-di-kai",
-    "plot.xianni-1416-san-dai-nie-que"
+    "plot.xianni-1416-san-dai-nie-que",
+    "plot.xianni-1422-feng-xianghuo-jie"
   ],
-  "updatedAt": "2026-08-25T17:20:16.428Z"
+  "updatedAt": "2026-08-25T17:34:54.081Z"
 }

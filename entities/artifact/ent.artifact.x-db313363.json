@@ -2,10 +2,16 @@
   "id": "ent.artifact.x-db313363",
   "type": "artifact",
   "name": "古息叶",
-  "aliases": [],
+  "aliases": [
+    "一叶遮天之叶"
+  ],
   "summary": "贪狼原有法宝之一，已被王林夺走。",
   "attributes": {
-    "持有者": "王林"
+    "持有者": "王林",
+    "来历": "贪狼得自古之墓地",
+    "能力": "封印他人神通（曾封王林缩地成寸）、封印第三步修士的香火界、迎风见长至万丈",
+    "外形": "枯黄的树叶，得古神之血后散发赤红之芒",
+    "禁制": "封印符文之力"
   },
   "observations": {
     "持有者": [
@@ -14,6 +20,44 @@
         "docId": "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang",
         "seq": 1300,
         "note": "夺自贪狼"
+      }
+    ],
+    "来历": [
+      {
+        "value": "贪狼得自古之墓地",
+        "docId": "plot.xianni-1422-feng-xianghuo-jie",
+        "seq": 1331
+      }
+    ],
+    "能力": [
+      {
+        "value": "封印他人神通（曾封王林缩地成寸）",
+        "docId": "plot.xianni-1422-feng-xianghuo-jie",
+        "seq": 1331
+      },
+      {
+        "value": "封印第三步修士的香火界",
+        "docId": "plot.xianni-1422-feng-xianghuo-jie",
+        "seq": 1331
+      },
+      {
+        "value": "迎风见长至万丈",
+        "docId": "plot.xianni-1422-feng-xianghuo-jie",
+        "seq": 1331
+      }
+    ],
+    "外形": [
+      {
+        "value": "枯黄的树叶，得古神之血后散发赤红之芒",
+        "docId": "plot.xianni-1422-feng-xianghuo-jie",
+        "seq": 1331
+      }
+    ],
+    "禁制": [
+      {
+        "value": "封印符文之力",
+        "docId": "plot.xianni-1422-feng-xianghuo-jie",
+        "seq": 1331
       }
     ]
   },
@@ -25,12 +69,37 @@
       "dated": false,
       "seq": 1300,
       "note": "夺自贪狼"
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-1422-feng-xianghuo-jie",
+      "dated": false,
+      "seq": 1331
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-1422-feng-xianghuo-jie",
+      "dated": false,
+      "seq": 1331
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.xianni-1422-feng-xianghuo-jie",
+      "dated": false,
+      "seq": 1331
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-1422-feng-xianghuo-jie",
+      "dated": false,
+      "seq": 1331
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang"
+    "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang",
+    "plot.xianni-1422-feng-xianghuo-jie"
   ],
-  "updatedAt": "2026-08-25T15:54:04.972Z"
+  "updatedAt": "2026-08-25T17:34:54.062Z"
 }

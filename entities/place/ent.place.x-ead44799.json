@@ -3,12 +3,14 @@
   "type": "place",
   "name": "太古雷界",
   "aliases": [
-    "太古雷龙之界"
+    "太古雷龙之界",
+    "雷界裂缝"
   ],
   "summary": "闪雷族大长老在重伤后宣告开启的界域，用以召唤万古岁月中的太古雷龙。",
   "attributes": {
-    "类型": "界域/秘境",
-    "守护": "太古雷龙"
+    "类型": "雷霆界域/裂缝",
+    "守护": "太古雷龙",
+    "特产": "太古雷龙、万古雷霆之力"
   },
   "observations": {
     "类型": [
@@ -16,6 +18,11 @@
         "value": "界域/秘境",
         "docId": "plot.xianni-1350-shanlei-war-4-julei-seal-duel",
         "seq": 1265
+      },
+      {
+        "value": "雷霆界域/裂缝",
+        "docId": "plot.xianni-1422-feng-xianghuo-jie",
+        "seq": 1331
       }
     ],
     "守护": [
@@ -24,28 +31,42 @@
         "docId": "plot.xianni-1350-shanlei-war-4-julei-seal-duel",
         "seq": 1265
       }
+    ],
+    "特产": [
+      {
+        "value": "太古雷龙、万古雷霆之力",
+        "docId": "plot.xianni-1422-feng-xianghuo-jie",
+        "seq": 1331
+      }
     ]
   },
   "firstSeq": 1265,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1350-shanlei-war-4-julei-seal-duel",
+      "docId": "plot.xianni-1422-feng-xianghuo-jie",
       "dated": false,
-      "seq": 1265
+      "seq": 1331
     },
     "守护": {
       "asOf": null,
       "docId": "plot.xianni-1350-shanlei-war-4-julei-seal-duel",
       "dated": false,
       "seq": 1265
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-1422-feng-xianghuo-jie",
+      "dated": false,
+      "seq": 1331
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1350-shanlei-war-4-julei-seal-duel",
-    "plot.xianni-ch1352-shanlei-battle-6-kunji-whip-wanjie-fenghun-bian"
+    "plot.xianni-ch1352-shanlei-battle-6-kunji-whip-wanjie-fenghun-bian",
+    "plot.xianni-1422-feng-xianghuo-jie"
   ],
-  "updatedAt": "2026-08-25T12:12:41.570Z"
+  "updatedAt": "2026-08-25T17:34:54.073Z"
 }
