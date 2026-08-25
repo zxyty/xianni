@@ -10,8 +10,9 @@
   "summary": "被封印在红雾通道深处的四品道灵，形似麒麟、通体赤红，本章咆哮冲来夹击灵动上人。",
   "attributes": {
     "等级": "四品",
-    "外形": "形似麒麟的赤红之兽",
-    "栖息地": "红雾通道深处"
+    "外形": "形似麒麟的赤红之兽、似麒麟",
+    "栖息地": "红雾通道深处、火道封地封印之地的红雾内",
+    "能力": "极为强悍，可察觉炉外王林方位"
   },
   "observations": {
     "等级": [
@@ -26,12 +27,29 @@
         "value": "形似麒麟的赤红之兽",
         "docId": "plot.xianni-ch1448-trap-siege-lingdong-shangren",
         "seq": 1355
+      },
+      {
+        "value": "似麒麟",
+        "docId": "plot.xianni-ch1449-mutai-secret",
+        "seq": 1355
       }
     ],
     "栖息地": [
       {
         "value": "红雾通道深处",
         "docId": "plot.xianni-ch1448-trap-siege-lingdong-shangren",
+        "seq": 1355
+      },
+      {
+        "value": "火道封地封印之地的红雾内",
+        "docId": "plot.xianni-ch1449-mutai-secret",
+        "seq": 1355
+      }
+    ],
+    "能力": [
+      {
+        "value": "极为强悍，可察觉炉外王林方位",
+        "docId": "plot.xianni-ch1449-mutai-secret",
         "seq": 1355
       }
     ]
@@ -55,12 +73,19 @@
       "docId": "plot.xianni-ch1448-trap-siege-lingdong-shangren",
       "dated": false,
       "seq": 1355
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1449-mutai-secret",
+      "dated": false,
+      "seq": 1355
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1448-trap-siege-lingdong-shangren"
+    "plot.xianni-ch1448-trap-siege-lingdong-shangren",
+    "plot.xianni-ch1449-mutai-secret"
   ],
-  "updatedAt": "2026-08-25T19:28:59.314Z"
+  "updatedAt": "2026-08-25T19:31:37.403Z"
 }
