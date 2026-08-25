@@ -4,17 +4,18 @@
   "name": "雷晶殿",
   "aliases": [
     "雷晶大殿",
-    "Lei Jing Dian"
+    "Lei Jing Dian",
+    "Thunder Crystal Hall"
   ],
   "summary": "闪雷族兑换雷晶之所，本章将于数日后开启兑换。",
   "attributes": {
-    "类型": "禁地/交易殿宇",
+    "类型": "兑换殿宇、禁地/交易殿宇、族中重地大殿",
     "所属势力": "闪雷族",
-    "方位": "修真星中心最高山峰之上",
-    "规模": "存在于十三颗修真星上",
-    "危险度": "极高（四周青雾雷霆可致死）",
+    "方位": "修真星中心最高山峰之上、雷雾裂缝尽头的高耸山峰顶部",
+    "规模": "存在于十三颗修真星上、共四层空间（东、西、南三门各一，另一处无门）",
+    "危险度": "极高（四周青雾雷霆可致死）、闪雷族核心重地",
     "特产": "雷晶",
-    "守护": "青雾雷霆、两名阴虚境红衣修士"
+    "守护": "青雾雷霆、两名阴虚境红衣修士、第四空间九股气息：碎涅一人、净涅三人、窥涅五人"
   },
   "observations": {
     "类型": [
@@ -26,6 +27,11 @@
       {
         "value": "禁地/交易殿宇",
         "docId": "plot.xianni-1335-lei-jing-dian",
+        "seq": 1250
+      },
+      {
+        "value": "族中重地大殿",
+        "docId": "plot.xianni-1336-jinsheng-shanlei-bang",
         "seq": 1250
       }
     ],
@@ -41,6 +47,11 @@
         "value": "修真星中心最高山峰之上",
         "docId": "plot.xianni-1335-lei-jing-dian",
         "seq": 1250
+      },
+      {
+        "value": "雷雾裂缝尽头的高耸山峰顶部",
+        "docId": "plot.xianni-1336-jinsheng-shanlei-bang",
+        "seq": 1250
       }
     ],
     "规模": [
@@ -48,12 +59,22 @@
         "value": "存在于十三颗修真星上",
         "docId": "plot.xianni-1335-lei-jing-dian",
         "seq": 1250
+      },
+      {
+        "value": "共四层空间（东、西、南三门各一，另一处无门）",
+        "docId": "plot.xianni-1336-jinsheng-shanlei-bang",
+        "seq": 1250
       }
     ],
     "危险度": [
       {
         "value": "极高（四周青雾雷霆可致死）",
         "docId": "plot.xianni-1335-lei-jing-dian",
+        "seq": 1250
+      },
+      {
+        "value": "闪雷族核心重地",
+        "docId": "plot.xianni-1336-jinsheng-shanlei-bang",
         "seq": 1250
       }
     ],
@@ -74,6 +95,11 @@
         "value": "两名阴虚境红衣修士",
         "docId": "plot.xianni-1335-lei-jing-dian",
         "seq": 1250
+      },
+      {
+        "value": "第四空间九股气息：碎涅一人、净涅三人、窥涅五人",
+        "docId": "plot.xianni-1336-jinsheng-shanlei-bang",
+        "seq": 1250
       }
     ]
   },
@@ -81,9 +107,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1335-lei-jing-dian",
+      "docId": "plot.xianni-1334-frightening-guess-thunder-seal-study",
       "dated": false,
-      "seq": 1250
+      "seq": 1246
     },
     "所属势力": {
       "asOf": null,
@@ -126,7 +152,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-1334-frightening-guess-thunder-seal-study",
-    "plot.xianni-1335-lei-jing-dian"
+    "plot.xianni-1335-lei-jing-dian",
+    "plot.xianni-1336-jinsheng-shanlei-bang"
   ],
-  "updatedAt": "2026-08-25T11:28:09.499Z"
+  "updatedAt": "2026-08-25T11:30:43.685Z"
 }

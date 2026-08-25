@@ -4,12 +4,14 @@
   "name": "云杉子",
   "aliases": [
     "Yun Shan Zi",
-    "闪雷榜第一"
+    "闪雷榜第一",
+    "闪雷榜第一位云杉子"
   ],
   "summary": "闪雷榜排名第一者，拥有雷晶十九亿七千。",
   "attributes": {
-    "称号": "闪雷榜第一",
-    "种族": "闪雷族"
+    "称号": "闪雷榜第一位",
+    "种族": "闪雷族",
+    "身份": "闪雷族顶尖强者"
   },
   "observations": {
     "称号": [
@@ -17,6 +19,11 @@
         "value": "闪雷榜第一",
         "docId": "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
         "seq": 1242
+      },
+      {
+        "value": "闪雷榜第一位",
+        "docId": "plot.xianni-1336-jinsheng-shanlei-bang",
+        "seq": 1250
       }
     ],
     "种族": [
@@ -25,27 +32,41 @@
         "docId": "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
         "seq": 1242
       }
+    ],
+    "身份": [
+      {
+        "value": "闪雷族顶尖强者",
+        "docId": "plot.xianni-1336-jinsheng-shanlei-bang",
+        "seq": 1250
+      }
     ]
   },
   "firstSeq": 1242,
   "attrProvenance": {
     "称号": {
       "asOf": null,
-      "docId": "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
+      "docId": "plot.xianni-1336-jinsheng-shanlei-bang",
       "dated": false,
-      "seq": 1242
+      "seq": 1250
     },
     "种族": {
       "asOf": null,
       "docId": "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
       "dated": false,
       "seq": 1242
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-1336-jinsheng-shanlei-bang",
+      "dated": false,
+      "seq": 1250
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam"
+    "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
+    "plot.xianni-1336-jinsheng-shanlei-bang"
   ],
-  "updatedAt": "2026-08-25T10:35:24.532Z"
+  "updatedAt": "2026-08-25T11:30:43.682Z"
 }

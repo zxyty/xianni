@@ -9,13 +9,14 @@
     "Thunder Crystal",
     "雷晶石",
     "闪雷榜雷晶",
-    "雷之晶"
+    "雷之晶",
+    "闪雷族雷晶"
   ],
   "summary": "闪雷族的功勋计数单位，并非实物；以功法神通、法宝丹药、炼器炼丹材料乃至香火之力奉献换取，香火之力换得最多，七年后雷晶最多者可入圣地。",
   "attributes": {
-    "类型": "功勋计数（非实物）、晶石资源、货币/资源晶石、资源/晶石、雷属性晶石、闪雷族通货/资源",
-    "用途": "争夺百年一次的圣地名额、闪雷榜排名依据、以雷果换取的等价物、闪雷族通用兑换物、闪雷族内换取交易之物、闪雷族内兑换与排名、购买闪雷族法宝功法、提升闪雷榜排名",
-    "产地": "闪雷族奉献制度、闪雷族、闪雷族修真星、闪雷族/太古星辰、雷晶殿"
+    "类型": "功勋计数（非实物）、晶石资源、货币/资源晶石、资源/晶石、雷属性晶石、闪雷族通货/资源、雷属性晶石/族内通货",
+    "用途": "争夺百年一次的圣地名额、闪雷榜排名依据、以雷果换取的等价物、闪雷族通用兑换物、闪雷族内换取交易之物、闪雷族内兑换与排名、购买闪雷族法宝功法、提升闪雷榜排名、兑换法宝、丹药、功法、决定闪雷榜排名",
+    "产地": "闪雷族奉献制度、闪雷族、闪雷族修真星、闪雷族/太古星辰、雷晶殿、闪雷族雷晶殿"
   },
   "observations": {
     "类型": [
@@ -47,6 +48,11 @@
       {
         "value": "闪雷族通货/资源",
         "docId": "plot.xianni-1335-lei-jing-dian",
+        "seq": 1250
+      },
+      {
+        "value": "雷属性晶石/族内通货",
+        "docId": "plot.xianni-1336-jinsheng-shanlei-bang",
         "seq": 1250
       }
     ],
@@ -90,6 +96,16 @@
         "value": "提升闪雷榜排名",
         "docId": "plot.xianni-1335-lei-jing-dian",
         "seq": 1250
+      },
+      {
+        "value": "兑换法宝、丹药、功法",
+        "docId": "plot.xianni-1336-jinsheng-shanlei-bang",
+        "seq": 1250
+      },
+      {
+        "value": "决定闪雷榜排名",
+        "docId": "plot.xianni-1336-jinsheng-shanlei-bang",
+        "seq": 1250
       }
     ],
     "产地": [
@@ -116,6 +132,11 @@
       {
         "value": "雷晶殿",
         "docId": "plot.xianni-1335-lei-jing-dian",
+        "seq": 1250
+      },
+      {
+        "value": "闪雷族雷晶殿",
+        "docId": "plot.xianni-1336-jinsheng-shanlei-bang",
         "seq": 1250
       }
     ]
@@ -149,7 +170,8 @@
     "plot.xianni-ch1332-jingdi-zhongdahong-xuliguo",
     "plot.xianni-1333-this-is-life-xu-liguo-plunder",
     "plot.xianni-1334-frightening-guess-thunder-seal-study",
-    "plot.xianni-1335-lei-jing-dian"
+    "plot.xianni-1335-lei-jing-dian",
+    "plot.xianni-1336-jinsheng-shanlei-bang"
   ],
-  "updatedAt": "2026-08-25T11:28:09.506Z"
+  "updatedAt": "2026-08-25T11:30:43.691Z"
 }

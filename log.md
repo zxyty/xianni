@@ -715,3 +715,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T11:18:53.750Z** `ingest` plot.xianni-1333-this-is-life-xu-liguo-plunder — 第1333章 这才是生活——许立国、钟大洪横扫闪雷族搜刮雷晶，王林参悟聚雷印 · kind=plot asOf=2026-08-25 entities=29 relations=40 src=01246-01249.p3.md
 - **2026-08-25T11:25:37.088Z** `ingest` plot.xianni-1334-frightening-guess-thunder-seal-study — 第1334章 一个可怕的猜测：王林参悟聚雷印与闪雷族族印 · kind=plot asOf=2026-08-25 entities=34 relations=46 src=01246-01249.p4.md
 - **2026-08-25T11:28:09.881Z** `ingest` plot.xianni-1335-lei-jing-dian — 第1335章 雷晶殿——闪雷族三日开市与禁地青雾裂缝 · kind=plot asOf=2026-08-25 entities=27 relations=36 src=01250-01254.p1.md
+- **2026-08-25T11:30:44.055Z** `ingest` plot.xianni-1336-jinsheng-shanlei-bang — 第1336章 晋升闪雷榜：王林窥破化雷为雾、以「于非」之名入榜第799位 · kind=plot asOf=2026-08-25 entities=22 relations=30 src=01250-01254.p2.md
