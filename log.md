@@ -853,3 +853,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T22:22:30.394Z** `ingest` plot.xianni-1483-donglin-star-wang-lin-roar — 第1483章 此事，无碍！——王林重临东临星，一吼崩九星 · kind=plot asOf=2026-08-25 entities=25 relations=41 src=01390-01394.p5.md
 - **2026-08-25T23:09:08.788Z** `ingest` plot.xianni-1395-1399-wang-lin-destroys-donglin-star — 仙逆 第1395-1399章：王林道古神震一拳破东临星，鲁夫子改判 · kind=plot asOf=2026-08-25 entities=87 relations=164 src=01395-01399.md
 - **2026-08-25T23:28:05.431Z** `ingest` plot.xianni-ch1400-1404-xizi-forget-love-blood-sword — 第1400-1404章 西子忘情·王林收西子凤为徒并赠血剑 · kind=plot asOf=2026-08-25 entities=78 relations=148 src=01400-01404.md
+- **2026-08-25T23:47:33.753Z** `ingest` plot.xianni-1405-1409-lingdong-zhoujin-two-third-step-slaves — 仙逆 第1405-1409章：王林亮出两名第三步古奴，鲁夫子战意崩溃 · kind=plot asOf=2026-08-25 entities=93 relations=157 src=01405-01409.md

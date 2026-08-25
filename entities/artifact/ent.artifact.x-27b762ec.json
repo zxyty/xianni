@@ -3,12 +3,17 @@
   "type": "artifact",
   "name": "残剑",
   "aliases": [
-    "骸骨旁的残剑"
+    "骸骨旁的残剑",
+    "半截残剑",
+    "鲁夫子的残剑"
   ],
   "summary": "破天宗于空间裂缝骸骨旁所得三物之一，后被大部分破天宗修士连同丹药一并献出以换取进入九阶星域的资格。",
   "attributes": {
-    "外形": "残缺之剑",
-    "来历": "空间裂缝深处骸骨旁"
+    "外形": "只有半截的残剑",
+    "来历": "当年穿透古神涂司八星肉身之剑",
+    "持有者": "鲁夫子",
+    "器灵": "有灵，受创会凄厉惨叫并颤抖",
+    "能力": "剑气可穿透古神八星肉身"
   },
   "observations": {
     "外形": [
@@ -16,6 +21,11 @@
         "value": "残缺之剑",
         "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
         "seq": 1068
+      },
+      {
+        "value": "只有半截的残剑",
+        "docId": "plot.xianni-1405-1409-lingdong-zhoujin-two-third-step-slaves",
+        "seq": 1405
       }
     ],
     "来历": [
@@ -23,6 +33,32 @@
         "value": "空间裂缝深处骸骨旁",
         "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
         "seq": 1068
+      },
+      {
+        "value": "当年穿透古神涂司八星肉身之剑",
+        "docId": "plot.xianni-1405-1409-lingdong-zhoujin-two-third-step-slaves",
+        "seq": 1405
+      }
+    ],
+    "持有者": [
+      {
+        "value": "鲁夫子",
+        "docId": "plot.xianni-1405-1409-lingdong-zhoujin-two-third-step-slaves",
+        "seq": 1405
+      }
+    ],
+    "器灵": [
+      {
+        "value": "有灵，受创会凄厉惨叫并颤抖",
+        "docId": "plot.xianni-1405-1409-lingdong-zhoujin-two-third-step-slaves",
+        "seq": 1405
+      }
+    ],
+    "能力": [
+      {
+        "value": "剑气可穿透古神八星肉身",
+        "docId": "plot.xianni-1405-1409-lingdong-zhoujin-two-third-step-slaves",
+        "seq": 1405
       }
     ]
   },
@@ -30,21 +66,40 @@
   "attrProvenance": {
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
+      "docId": "plot.xianni-1405-1409-lingdong-zhoujin-two-third-step-slaves",
       "dated": false,
-      "seq": 1068
+      "seq": 1405
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
+      "docId": "plot.xianni-1405-1409-lingdong-zhoujin-two-third-step-slaves",
       "dated": false,
-      "seq": 1068
+      "seq": 1405
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.xianni-1405-1409-lingdong-zhoujin-two-third-step-slaves",
+      "dated": false,
+      "seq": 1405
+    },
+    "器灵": {
+      "asOf": null,
+      "docId": "plot.xianni-1405-1409-lingdong-zhoujin-two-third-step-slaves",
+      "dated": false,
+      "seq": 1405
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-1405-1409-lingdong-zhoujin-two-third-step-slaves",
+      "dated": false,
+      "seq": 1405
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong"
+    "plot.xianni-1154-yichu-jifa-qian-guizhong-huaqing-zong",
+    "plot.xianni-1405-1409-lingdong-zhoujin-two-third-step-slaves"
   ],
-  "updatedAt": "2026-08-24T18:57:10.882Z"
+  "updatedAt": "2026-08-25T23:47:33.006Z"
 }

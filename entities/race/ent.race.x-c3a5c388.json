@@ -3,12 +3,14 @@
   "type": "race",
   "name": "灵动族",
   "aliases": [
-    "灵动一族"
+    "灵动一族",
+    "界外灵动族"
   ],
   "summary": "灵动上人所属种族，有始祖魔神与「灵动大魔界」，可以香火之力凝聚黑色抱胸雕像。",
   "attributes": {
     "天赋神通": "香火之力化雕像、开灵动大魔界唤始祖魔神、幻化魔神雕像",
-    "代表人物": "灵动上人"
+    "代表人物": "灵动上人",
+    "聚居地": "太古星辰"
   },
   "observations": {
     "天赋神通": [
@@ -34,6 +36,13 @@
         "docId": "plot.xianni-ch1448-trap-siege-lingdong-shangren",
         "seq": 1355
       }
+    ],
+    "聚居地": [
+      {
+        "value": "太古星辰",
+        "docId": "plot.xianni-1405-1409-lingdong-zhoujin-two-third-step-slaves",
+        "seq": 1405
+      }
     ]
   },
   "firstSeq": 1355,
@@ -49,6 +58,12 @@
       "docId": "plot.xianni-ch1448-trap-siege-lingdong-shangren",
       "dated": false,
       "seq": 1355
+    },
+    "聚居地": {
+      "asOf": null,
+      "docId": "plot.xianni-1405-1409-lingdong-zhoujin-two-third-step-slaves",
+      "dated": false,
+      "seq": 1405
     }
   },
   "contested": false,
@@ -57,7 +72,8 @@
     "plot.xianni-ch1448-trap-siege-lingdong-shangren",
     "plot.xianni-ch1450-ci-ming-gu-nu-zi",
     "plot.xianni-1458-ci-dao-wanglin-ponders-ancient-tomb-revives-trees",
-    "plot.xianni-1471-inheritance-three-seventh-star-vs-tuosen"
+    "plot.xianni-1471-inheritance-three-seventh-star-vs-tuosen",
+    "plot.xianni-1405-1409-lingdong-zhoujin-two-third-step-slaves"
   ],
-  "updatedAt": "2026-08-25T21:48:03.543Z"
+  "updatedAt": "2026-08-25T23:47:33.268Z"
 }
