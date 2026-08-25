@@ -2,10 +2,14 @@
   "id": "ent.technique.x-9a5ba245",
   "type": "technique",
   "name": "火焰本源",
-  "aliases": [],
+  "aliases": [
+    "雷火本源"
+  ],
   "summary": "王林另一大神通根基，本章已达虚火之境；司墨子体内亦有虚火滋生为其旧伤。",
   "attributes": {
-    "适用境界": "虚火之境"
+    "适用境界": "虚火之境",
+    "五行属性": "火、雷",
+    "效果": "虚火→道火→雷火本源大成"
   },
   "observations": {
     "适用境界": [
@@ -13,6 +17,25 @@
         "value": "虚火之境",
         "docId": "plot.xianni-1422-feng-xianghuo-jie",
         "seq": 1331
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "火",
+        "docId": "plot.xianni-ch1451-answer-dao-ling-dan-heaven-dao",
+        "seq": 1360
+      },
+      {
+        "value": "雷",
+        "docId": "plot.xianni-ch1451-answer-dao-ling-dan-heaven-dao",
+        "seq": 1360
+      }
+    ],
+    "效果": [
+      {
+        "value": "虚火→道火→雷火本源大成",
+        "docId": "plot.xianni-ch1451-answer-dao-ling-dan-heaven-dao",
+        "seq": 1360
       }
     ]
   },
@@ -23,12 +46,25 @@
       "docId": "plot.xianni-1422-feng-xianghuo-jie",
       "dated": false,
       "seq": 1331
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1451-answer-dao-ling-dan-heaven-dao",
+      "dated": false,
+      "seq": 1360
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1451-answer-dao-ling-dan-heaven-dao",
+      "dated": false,
+      "seq": 1360
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1422-feng-xianghuo-jie"
+    "plot.xianni-1422-feng-xianghuo-jie",
+    "plot.xianni-ch1451-answer-dao-ling-dan-heaven-dao"
   ],
-  "updatedAt": "2026-08-25T17:34:54.071Z"
+  "updatedAt": "2026-08-25T19:37:03.565Z"
 }
