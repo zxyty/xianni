@@ -3,12 +3,14 @@
   "type": "person",
   "name": "龙甲族少族",
   "aliases": [
-    "龙甲族少族主"
+    "龙甲族少族主",
+    "龙甲族少族长",
+    "少族"
   ],
   "summary": "龙甲族身份高贵的少族，极少现身阁楼，为火本源魂丹破例亲至，交付三块炎火异晶并向王林介绍龙甲族三宝以求继续交易。",
   "attributes": {
     "种族": "龙甲族",
-    "身份": "龙甲族少族",
+    "身份": "龙甲族少族、龙甲族少族（族长之子）",
     "外貌": "身穿道袍、头发紫色、不怒自威的中年男子"
   },
   "observations": {
@@ -23,6 +25,11 @@
       {
         "value": "龙甲族少族",
         "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
+        "seq": 1288
+      },
+      {
+        "value": "龙甲族少族（族长之子）",
+        "docId": "plot.xianni-1377-longbeng-dan-refine-challenge",
         "seq": 1288
       }
     ],
@@ -58,7 +65,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1375-first-encounter-fire-sparrow"
+    "plot.xianni-ch1375-first-encounter-fire-sparrow",
+    "plot.xianni-1377-longbeng-dan-refine-challenge"
   ],
-  "updatedAt": "2026-08-25T13:59:42.576Z"
+  "updatedAt": "2026-08-25T14:02:42.516Z"
 }

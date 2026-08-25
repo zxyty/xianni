@@ -14,9 +14,9 @@
   "summary": "太古星辰一处星域，修真星数千、由三百七十二个小族组成，是叛族与结仇者的庇护所，亦为太古星辰最大的交易之所。",
   "attributes": {
     "所属界面": "太古星辰",
-    "类型": "庇护所、交易之所、化外之地/自由交易区、区域／修真星所在之地、神秘禁区/独立势力辖区、秘境/异域、星域/地域、界外区域",
+    "类型": "庇护所、交易之所、化外之地/自由交易区、区域／修真星所在之地、神秘禁区/独立势力辖区、秘境/异域、星域/地域、界外区域、秘境/禁地",
     "规模": "三百七十二个小族",
-    "危险度": "极高（外敌入侵者曾被虚无狂风尽灭）、相对安全但并非绝对安全、极高、强者为尊；争夺长老之位者多莫名死亡、龙蛇混杂",
+    "危险度": "极高（外敌入侵者曾被虚无狂风尽灭）、相对安全但并非绝对安全、极高、强者为尊；争夺长老之位者多莫名死亡、龙蛇混杂、极高（第三步神通展开即可令其崩溃）",
     "特产": "法宝交易、功法交易、丹药、法宝、元晶、可印神识操控的傀儡、炉鼎交易、炎火异晶、傀儡",
     "上级区域": "太古星辰",
     "所属势力": "不属长尊会控制、落生会、颠落大帝、不归长尊会、火雀族分族、龙甲族、暗蝎族"
@@ -69,6 +69,11 @@
         "value": "界外区域",
         "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
         "seq": 1288
+      },
+      {
+        "value": "秘境/禁地",
+        "docId": "plot.xianni-1377-longbeng-dan-refine-challenge",
+        "seq": 1288
       }
     ],
     "规模": [
@@ -109,6 +114,11 @@
         "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
         "seq": 1288,
         "note": "司墨子评价，需谨慎行事"
+      },
+      {
+        "value": "极高（第三步神通展开即可令其崩溃）",
+        "docId": "plot.xianni-1377-longbeng-dan-refine-challenge",
+        "seq": 1288
       }
     ],
     "特产": [
@@ -256,7 +266,8 @@
     "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
     "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
     "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
-    "plot.xianni-ch1375-first-encounter-fire-sparrow"
+    "plot.xianni-ch1375-first-encounter-fire-sparrow",
+    "plot.xianni-1377-longbeng-dan-refine-challenge"
   ],
-  "updatedAt": "2026-08-25T13:59:42.582Z"
+  "updatedAt": "2026-08-25T14:02:42.540Z"
 }
