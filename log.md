@@ -699,3 +699,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T08:43:28.771Z** `ingest` plot.xianni-ch1314-fated-first-battle-yue-clan-treasures-vs-ancient-gods — 第1314章 宿命第一战：月族倾族至宝围杀，王林与拓森合施古神八星「虚」 · kind=plot asOf=2026-08-25 entities=19 relations=25 src=01227-01231.p3.md
 - **2026-08-25T08:45:32.575Z** `ingest` plot.xianni-ch1315-destined-first-battle-yue-clan-star-domain — 第1315章 宿命第一战：王林与拓森月族星域血战，斩指骨、擒白发老者 · kind=plot asOf=2026-08-25 entities=15 relations=23 src=01227-01231.p4.md
 - **2026-08-25T08:48:04.015Z** `ingest` plot.xianni-1316-blue-silk-clan-give-her-to-me — 第1316章 把她，给我——王林送李倩梅归蓝丝族，蓝梦道尊喝退白衣女子 · kind=plot asOf=2026-08-25 entities=22 relations=30 src=01227-01231.p5.md
+- **2026-08-25T09:44:22.269Z** `ingest` plot.xianni-1317-blue-mountain-climb-lanyue — 第1317章 续……｜蓝梦道尊携走李倩梅，王林登蓝山证其苏醒，李倩梅忘情更名蓝月 · kind=plot asOf=2026-08-25 entities=20 relations=35 src=01232-01236.p1.md
