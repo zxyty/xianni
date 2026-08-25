@@ -790,3 +790,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T17:25:44.451Z** `ingest` plot.xianni-1418-ye-keyi-wang-lin-refuses-first-zhu-que-offer — 第1418章 也可以：一代朱雀开出留守条件，王林拒绝并立五道本源之道 · kind=plot asOf=2026-08-25 entities=27 relations=42 src=01326-01330.p3.md
 - **2026-08-25T17:28:28.884Z** `ingest` plot.xianni-1419-lai-yidai-zhuque-jiuse-yumao-tianfangxiang-liwei — 第1419章 来！！——王林受一代朱雀赠九色羽毛，天方香燃尽出关立威召战司墨子 · kind=plot asOf=2026-08-25 entities=25 relations=36 src=01326-01330.p4.md
 - **2026-08-25T17:30:12.945Z** `ingest` plot.xianni-ch1420-challenge-third-step-simozi-battle — 第1420章 战！！——王林挑战第三步大能司墨子，九炎龙对破空九灭 · kind=plot asOf=2026-08-25 entities=12 relations=16 src=01326-01330.p5.md
+- **2026-08-25T17:32:24.536Z** `ingest` plot.xianni-1421-xianghuo-yibai — 仙逆 第1421章 香火一拜！——王林凝天地虚火战司墨子，司墨子开香火界 · kind=plot asOf=2026-08-25 entities=17 relations=24 src=01331-01335.p1.md

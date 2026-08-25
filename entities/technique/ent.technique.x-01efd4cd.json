@@ -8,14 +8,17 @@
     "虚幻之火",
     "虚火境界",
     "朱雀虚火",
-    "灭世之炎"
+    "灭世之炎",
+    "灭世虚炎",
+    "天地虚火"
   ],
   "summary": "火分实火与虚火；虚火诡秘远超实火，怒火为其一种，无形却可超天地一切火焰之威，是道、是精神、是意境，被燃而驾驭不住者必死。",
   "attributes": {
-    "修炼条件": "由实火转化，转化所成即为终生定数；四次觉醒后需温养一段时日",
-    "效果": "超越天地一切实火之威、可燃他人怒火令其自焚、对不修火焰神通者亦有效、无形不灭、可燃情绪化为火焰、灭世伤敌、不能提升自身修为、无法从体内提炼",
+    "修炼条件": "实火巅峰之后迈出破碎虚空那一步",
+    "效果": "超越天地一切实火之威、可燃他人怒火令其自焚、对不修火焰神通者亦有效、无形不灭、可燃情绪化为火焰、灭世伤敌、不能提升自身修为、无法从体内提炼、由实火转化为灭世虚炎、以情绪为燃烧之因，情绪波动即自燃",
     "品阶": "高于实火",
-    "出处": "朱雀一族"
+    "出处": "朱雀一族",
+    "五行属性": "不属天地五行之内"
   },
   "observations": {
     "修炼条件": [
@@ -28,6 +31,11 @@
         "value": "由实火转化，转化所成即为终生定数；四次觉醒后需温养一段时日",
         "docId": "plot.xianni-ch1414-dianluo-zhi-ming",
         "seq": 1321
+      },
+      {
+        "value": "实火巅峰之后迈出破碎虚空那一步",
+        "docId": "plot.xianni-1421-xianghuo-yibai",
+        "seq": 1331
       }
     ],
     "效果": [
@@ -70,6 +78,16 @@
         "value": "无法从体内提炼",
         "docId": "plot.xianni-ch1414-dianluo-zhi-ming",
         "seq": 1321
+      },
+      {
+        "value": "由实火转化为灭世虚炎",
+        "docId": "plot.xianni-1421-xianghuo-yibai",
+        "seq": 1331
+      },
+      {
+        "value": "以情绪为燃烧之因，情绪波动即自燃",
+        "docId": "plot.xianni-1421-xianghuo-yibai",
+        "seq": 1331
       }
     ],
     "品阶": [
@@ -85,15 +103,22 @@
         "docId": "plot.xianni-1403-shattering-force-dao-of-power",
         "seq": 1312
       }
+    ],
+    "五行属性": [
+      {
+        "value": "不属天地五行之内",
+        "docId": "plot.xianni-1421-xianghuo-yibai",
+        "seq": 1331
+      }
     ]
   },
   "firstSeq": 1217,
   "attrProvenance": {
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.xianni-ch1414-dianluo-zhi-ming",
+      "docId": "plot.xianni-1421-xianghuo-yibai",
       "dated": false,
-      "seq": 1321
+      "seq": 1331
     },
     "效果": {
       "asOf": null,
@@ -112,6 +137,12 @@
       "docId": "plot.xianni-1403-shattering-force-dao-of-power",
       "dated": false,
       "seq": 1312
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.xianni-1421-xianghuo-yibai",
+      "dated": false,
+      "seq": 1331
     }
   },
   "contested": false,
@@ -121,7 +152,8 @@
     "plot.xianni-1403-shattering-force-dao-of-power",
     "plot.xianni-1411-fourth-awakening-nine-turn-karma-tribulation",
     "plot.xianni-ch1412-nine-colors-into-one-fourth-zhuque-awakening",
-    "plot.xianni-ch1414-dianluo-zhi-ming"
+    "plot.xianni-ch1414-dianluo-zhi-ming",
+    "plot.xianni-1421-xianghuo-yibai"
   ],
-  "updatedAt": "2026-08-25T17:15:01.285Z"
+  "updatedAt": "2026-08-25T17:32:24.088Z"
 }
