@@ -6,12 +6,16 @@
     "古墓第八张地图",
     "第八幅地图",
     "第八副地图",
-    "古墓第八图"
+    "古墓第八图",
+    "第八地图"
   ],
   "summary": "古墓内的一层区域，九天魔尊在雾海中、白衣女子在雾气之上的天空中，本章两人墓台各成七阶。",
   "attributes": {
     "上级区域": "古墓",
-    "类型": "古墓分区地图"
+    "类型": "古墓分层地图、古墓分区地图、古墓地图区域",
+    "危险度": "入口即有致命危机",
+    "特产": "三处封印之地（神/妖/魔）",
+    "方位": "位于第七张地图之后、第九张地图之前"
   },
   "observations": {
     "上级区域": [
@@ -31,6 +35,32 @@
         "value": "古墓分区地图",
         "docId": "plot.xianni-1464-who-is-faster-eighth-tier-tomb-platform",
         "seq": 1375
+      },
+      {
+        "value": "古墓地图区域",
+        "docId": "plot.xianni-1465-living-ancient-yao-seal",
+        "seq": 1375
+      }
+    ],
+    "危险度": [
+      {
+        "value": "入口即有致命危机",
+        "docId": "plot.xianni-1465-living-ancient-yao-seal",
+        "seq": 1375
+      }
+    ],
+    "特产": [
+      {
+        "value": "三处封印之地（神/妖/魔）",
+        "docId": "plot.xianni-1465-living-ancient-yao-seal",
+        "seq": 1375
+      }
+    ],
+    "方位": [
+      {
+        "value": "位于第七张地图之后、第九张地图之前",
+        "docId": "plot.xianni-1465-living-ancient-yao-seal",
+        "seq": 1375
       }
     ]
   },
@@ -44,7 +74,25 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1464-who-is-faster-eighth-tier-tomb-platform",
+      "docId": "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
+      "dated": false,
+      "seq": 1370
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-1465-living-ancient-yao-seal",
+      "dated": false,
+      "seq": 1375
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-1465-living-ancient-yao-seal",
+      "dated": false,
+      "seq": 1375
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-1465-living-ancient-yao-seal",
       "dated": false,
       "seq": 1375
     }
@@ -53,7 +101,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
-    "plot.xianni-1464-who-is-faster-eighth-tier-tomb-platform"
+    "plot.xianni-1464-who-is-faster-eighth-tier-tomb-platform",
+    "plot.xianni-1465-living-ancient-yao-seal"
   ],
-  "updatedAt": "2026-08-25T21:21:35.286Z"
+  "updatedAt": "2026-08-25T21:24:33.884Z"
 }

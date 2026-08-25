@@ -12,8 +12,9 @@
   "summary": "古墓地图的最末一幅；王林判断真正的通关要求并非最快进入此处，而是第一个成为九阶墓台。",
   "attributes": {
     "上级区域": "古墓",
-    "类型": "古墓分区、古墓分层地图、古墓分区地图",
-    "危险度": "极高（空间乱流密布，行进被迫放缓）"
+    "类型": "古墓分区、古墓分层地图、古墓分区地图、古墓地图区域",
+    "危险度": "极高（空间乱流密布，行进被迫放缓）",
+    "方位": "第八张地图之后"
   },
   "observations": {
     "上级区域": [
@@ -38,6 +39,11 @@
         "value": "古墓分区地图",
         "docId": "plot.xianni-1464-who-is-faster-eighth-tier-tomb-platform",
         "seq": 1375
+      },
+      {
+        "value": "古墓地图区域",
+        "docId": "plot.xianni-1465-living-ancient-yao-seal",
+        "seq": 1375
       }
     ],
     "危险度": [
@@ -45,6 +51,13 @@
         "value": "极高（空间乱流密布，行进被迫放缓）",
         "docId": "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
         "seq": 1370
+      }
+    ],
+    "方位": [
+      {
+        "value": "第八张地图之后",
+        "docId": "plot.xianni-1465-living-ancient-yao-seal",
+        "seq": 1375
       }
     ]
   },
@@ -67,6 +80,12 @@
       "docId": "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
       "dated": false,
       "seq": 1370
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-1465-living-ancient-yao-seal",
+      "dated": false,
+      "seq": 1375
     }
   },
   "contested": false,
@@ -74,7 +93,8 @@
   "docs": [
     "plot.xianni-ch1462-destroy-rules-refine-zhou-jin",
     "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
-    "plot.xianni-1464-who-is-faster-eighth-tier-tomb-platform"
+    "plot.xianni-1464-who-is-faster-eighth-tier-tomb-platform",
+    "plot.xianni-1465-living-ancient-yao-seal"
   ],
-  "updatedAt": "2026-08-25T21:21:35.287Z"
+  "updatedAt": "2026-08-25T21:24:33.886Z"
 }

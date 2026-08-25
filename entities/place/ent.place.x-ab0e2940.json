@@ -3,12 +3,14 @@
   "type": "place",
   "name": "第七张地图",
   "aliases": [
-    "第七副地图"
+    "第七副地图",
+    "古墓第七张地图"
   ],
   "summary": "王林绕开追兵后进入的地图，本章与九天魔尊、白衣女子在此正面遭遇。",
   "attributes": {
     "上级区域": "古墓",
-    "类型": "古墓分区地图"
+    "类型": "古墓分区地图、古墓地图区域",
+    "方位": "第八张地图之前"
   },
   "observations": {
     "上级区域": [
@@ -22,6 +24,18 @@
       {
         "value": "古墓分区地图",
         "docId": "plot.xianni-1464-who-is-faster-eighth-tier-tomb-platform",
+        "seq": 1375
+      },
+      {
+        "value": "古墓地图区域",
+        "docId": "plot.xianni-1465-living-ancient-yao-seal",
+        "seq": 1375
+      }
+    ],
+    "方位": [
+      {
+        "value": "第八张地图之前",
+        "docId": "plot.xianni-1465-living-ancient-yao-seal",
         "seq": 1375
       }
     ]
@@ -39,12 +53,19 @@
       "docId": "plot.xianni-1464-who-is-faster-eighth-tier-tomb-platform",
       "dated": false,
       "seq": 1375
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-1465-living-ancient-yao-seal",
+      "dated": false,
+      "seq": 1375
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1464-who-is-faster-eighth-tier-tomb-platform"
+    "plot.xianni-1464-who-is-faster-eighth-tier-tomb-platform",
+    "plot.xianni-1465-living-ancient-yao-seal"
   ],
-  "updatedAt": "2026-08-25T21:21:35.287Z"
+  "updatedAt": "2026-08-25T21:24:33.885Z"
 }
