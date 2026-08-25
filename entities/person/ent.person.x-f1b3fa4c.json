@@ -1,46 +1,42 @@
 {
-  "id": "ent.person.x-7babd989",
+  "id": "ent.person.x-f1b3fa4c",
   "type": "person",
-  "name": "妙音道尊",
+  "name": "太荒上人",
   "aliases": [
-    "妙音",
-    "吃桃子的美貌少年",
-    "Miao Yin Dao Zun"
+    "小毒虫",
+    "兽皮老者",
+    "嘴上有针的老家伙"
   ],
-  "summary": "当年与水道子、掌尊三人全力合击水道子之主的其中一人。",
+  "summary": "自号太荒上人，非太古五尊之一但修为不弱，一身毒攻凶名赫赫；坐蜥兽、双唇未动而出声，本章赠王林半截含毒指甲并欲与老朱雀再战。",
   "attributes": {
-    "身份": "当年围杀神宗旧主的三人之一",
-    "称号": "太古五尊之一",
-    "外貌": "美貌翩翩少年",
-    "标志特征": "手中吃着桃子、看不出修为痕迹",
+    "道号": "太荒上人",
+    "外貌": "身穿兽皮、盘膝坐在蜥兽上的老者",
+    "标志特征": "嘴上有针、双唇未动声自体内传出",
     "存殁": "在世"
   },
   "observations": {
-    "身份": [
+    "道号": [
       {
-        "value": "当年围杀神宗旧主的三人之一",
-        "docId": "plot.xianni-1262-return-wuji-sect-ancient-god-qi-shui-daozi-plot",
-        "seq": 1178
-      }
-    ],
-    "称号": [
-      {
-        "value": "太古五尊之一",
+        "value": "太荒上人",
         "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
         "seq": 1312
       }
     ],
     "外貌": [
       {
-        "value": "美貌翩翩少年",
+        "value": "身穿兽皮、盘膝坐在蜥兽上的老者",
         "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
-        "seq": 1312,
-        "note": "实为老怪，年轻只是外表"
+        "seq": 1312
       }
     ],
     "标志特征": [
       {
-        "value": "手中吃着桃子、看不出修为痕迹",
+        "value": "嘴上有针",
+        "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
+        "seq": 1312
+      },
+      {
+        "value": "双唇未动声自体内传出",
         "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
         "seq": 1312
       }
@@ -53,15 +49,9 @@
       }
     ]
   },
-  "firstSeq": 1178,
+  "firstSeq": 1312,
   "attrProvenance": {
-    "身份": {
-      "asOf": null,
-      "docId": "plot.xianni-1262-return-wuji-sect-ancient-god-qi-shui-daozi-plot",
-      "dated": false,
-      "seq": 1178
-    },
-    "称号": {
+    "道号": {
       "asOf": null,
       "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
       "dated": false,
@@ -71,8 +61,7 @@
       "asOf": null,
       "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
       "dated": false,
-      "seq": 1312,
-      "note": "实为老怪，年轻只是外表"
+      "seq": 1312
     },
     "标志特征": {
       "asOf": null,
@@ -90,8 +79,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1262-return-wuji-sect-ancient-god-qi-shui-daozi-plot",
     "plot.xianni-ch1404-old-zhuque-protects-wang-lin"
   ],
-  "updatedAt": "2026-08-25T16:41:13.659Z"
+  "updatedAt": "2026-08-25T16:41:13.660Z"
 }

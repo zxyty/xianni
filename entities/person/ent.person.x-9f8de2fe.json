@@ -2,13 +2,21 @@
   "id": "ent.person.x-9f8de2fe",
   "type": "person",
   "name": "老朱雀",
-  "aliases": [],
+  "aliases": [
+    "第一少帝",
+    "老鸟",
+    "小家伙的长辈",
+    "颠落之地第一少帝"
+  ],
   "summary": "活了极久的朱雀一族老怪，向王林演示并传授反震崩溃秘术；实则当年自己也未曾明悟此术，强撑长辈体面。",
   "attributes": {
     "种族": "朱雀一族",
-    "身份": "王林的秘术传授者",
-    "性格": "故作高深、内心心虚市侩",
-    "元神强度": "极高（可化虚火卷人瞬息千里）"
+    "身份": "王林的秘术传授者、颠落之地第一少帝、大帝麾下第一人",
+    "性格": "故作高深、内心心虚市侩、护短、火爆脾性、对王林和蔼",
+    "元神强度": "极高（可化虚火卷人瞬息千里）",
+    "标志特征": "身外弥漫虚幻之火",
+    "阵营": "颠落之地·朱雀一族",
+    "存殁": "在世"
   },
   "observations": {
     "种族": [
@@ -23,6 +31,16 @@
         "value": "王林的秘术传授者",
         "docId": "plot.xianni-1403-shattering-force-dao-of-power",
         "seq": 1312
+      },
+      {
+        "value": "颠落之地第一少帝",
+        "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
+        "seq": 1312
+      },
+      {
+        "value": "大帝麾下第一人",
+        "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
+        "seq": 1312
       }
     ],
     "性格": [
@@ -31,12 +49,48 @@
         "docId": "plot.xianni-1403-shattering-force-dao-of-power",
         "seq": 1312,
         "note": "怕被王林看破自己未明悟"
+      },
+      {
+        "value": "护短",
+        "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
+        "seq": 1312
+      },
+      {
+        "value": "火爆脾性",
+        "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
+        "seq": 1312
+      },
+      {
+        "value": "对王林和蔼",
+        "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
+        "seq": 1312
       }
     ],
     "元神强度": [
       {
         "value": "极高（可化虚火卷人瞬息千里）",
         "docId": "plot.xianni-1403-shattering-force-dao-of-power",
+        "seq": 1312
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "身外弥漫虚幻之火",
+        "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
+        "seq": 1312
+      }
+    ],
+    "阵营": [
+      {
+        "value": "颠落之地·朱雀一族",
+        "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
+        "seq": 1312
+      }
+    ],
+    "存殁": [
+      {
+        "value": "在世",
+        "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
         "seq": 1312
       }
     ]
@@ -67,12 +121,31 @@
       "docId": "plot.xianni-1403-shattering-force-dao-of-power",
       "dated": false,
       "seq": 1312
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
+      "dated": false,
+      "seq": 1312
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
+      "dated": false,
+      "seq": 1312
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
+      "dated": false,
+      "seq": 1312
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1403-shattering-force-dao-of-power"
+    "plot.xianni-1403-shattering-force-dao-of-power",
+    "plot.xianni-ch1404-old-zhuque-protects-wang-lin"
   ],
-  "updatedAt": "2026-08-25T16:38:46.858Z"
+  "updatedAt": "2026-08-25T16:41:13.654Z"
 }

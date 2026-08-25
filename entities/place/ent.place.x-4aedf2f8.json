@@ -7,16 +7,18 @@
     "落生会长老之选赛场",
     "西北空地",
     "西北千里赛场",
-    "赛场"
+    "赛场",
+    "遁天赛场"
   ],
   "summary": "大帝星西北植被稀少处的约千里灰色空地，四周布满禁制（古魂禁），为次日落生会长老之选的场地。",
   "attributes": {
     "所属界面": "大帝星",
     "方位": "湖泊所在地的西北方",
-    "规模": "千里，环绕数万修士",
+    "规模": "约千里、千里，环绕数万修士、千里",
     "类型": "比试赛场",
     "守护": "古魂禁所化千里巨龟",
-    "所属势力": "落生会"
+    "所属势力": "颠落之地",
+    "上级区域": "大帝星"
   },
   "observations": {
     "所属界面": [
@@ -48,6 +50,11 @@
         "value": "千里，环绕数万修士",
         "docId": "plot.xianni-1403-shattering-force-dao-of-power",
         "seq": 1312
+      },
+      {
+        "value": "千里",
+        "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
+        "seq": 1312
       }
     ],
     "类型": [
@@ -74,6 +81,18 @@
         "value": "落生会",
         "docId": "plot.xianni-1399-guhun-jin-dadi-xing",
         "seq": 1307
+      },
+      {
+        "value": "颠落之地",
+        "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
+        "seq": 1312
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "大帝星",
+        "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
+        "seq": 1312
       }
     ]
   },
@@ -93,9 +112,9 @@
     },
     "规模": {
       "asOf": null,
-      "docId": "plot.xianni-1403-shattering-force-dao-of-power",
+      "docId": "plot.xianni-1399-guhun-jin-dadi-xing",
       "dated": false,
-      "seq": 1312
+      "seq": 1307
     },
     "类型": {
       "asOf": null,
@@ -111,16 +130,23 @@
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-1399-guhun-jin-dadi-xing",
+      "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
       "dated": false,
-      "seq": 1307
+      "seq": 1312
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
+      "dated": false,
+      "seq": 1312
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1399-guhun-jin-dadi-xing",
-    "plot.xianni-1403-shattering-force-dao-of-power"
+    "plot.xianni-1403-shattering-force-dao-of-power",
+    "plot.xianni-ch1404-old-zhuque-protects-wang-lin"
   ],
-  "updatedAt": "2026-08-25T16:38:46.875Z"
+  "updatedAt": "2026-08-25T16:41:13.673Z"
 }
