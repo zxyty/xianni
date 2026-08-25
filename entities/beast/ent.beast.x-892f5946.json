@@ -7,16 +7,20 @@
     "九幽深渊的幼龙",
     "九幽之龙",
     "龙形凶兽",
-    "黑色龙兽"
+    "黑色龙兽",
+    "裂缝内九幽龙",
+    "Jiuyou Dragon",
+    "王林的九幽龙坐骑"
   ],
   "summary": "自妖宗六星外裂缝内现身的九幽深渊幼龙，通体黑色满身鳞片、双角弯曲、身长数千丈，可喷黑气化无尽骷髅头吞噬修士生机。",
   "attributes": {
     "种族": "九幽深渊之龙",
     "等级": "十二阶",
-    "能力": "喷黑气化黑色骷髅头（穿透神通法宝，触身爆开毁肉身元神）、吞噬修士生机、惊天威压",
-    "栖息地": "九幽深渊（裂缝之内）",
-    "外形": "通体黑色、满身鳞片、头顶两根弯曲之角、身长约数千丈",
-    "血脉": "传说为天阶道兽吉穷的六种伴生兽之一"
+    "能力": "喷黑气化黑色骷髅头（穿透神通法宝，触身爆开毁肉身元神）、吞噬修士生机、惊天威压、咆哮震动裂缝、咆哮临近、张口吞噬、喷吐黑气黑雾",
+    "栖息地": "九幽深渊（裂缝之内）、裂缝之内",
+    "外形": "通体黑色、满身鳞片、头顶两根弯曲之角、身长约数千丈、龙形凶兽、身长数千丈，鳞片间隙与大口喷出大量黑气黑雾，头生两角（被王林砸断）",
+    "血脉": "传说为天阶道兽吉穷的六种伴生兽之一",
+    "主人": "王林"
   },
   "observations": {
     "种族": [
@@ -49,12 +53,32 @@
         "value": "惊天威压",
         "docId": "plot.xianni-ch1292-red-glow-white-robed-figure",
         "seq": 1207
+      },
+      {
+        "value": "咆哮震动裂缝",
+        "docId": "plot.xianni-ch1293-yaozong-six-star-formation-wang-lin-arrives-rift",
+        "seq": 1207
+      },
+      {
+        "value": "咆哮临近、张口吞噬",
+        "docId": "plot.xianni-ch1293-yaozong-six-star-formation-wang-lin-arrives-rift",
+        "seq": 1207
+      },
+      {
+        "value": "喷吐黑气黑雾",
+        "docId": "plot.xianni-ch1293-yaozong-six-star-formation-wang-lin-arrives-rift",
+        "seq": 1207
       }
     ],
     "栖息地": [
       {
         "value": "九幽深渊（裂缝之内）",
         "docId": "plot.xianni-ch1292-red-glow-white-robed-figure",
+        "seq": 1207
+      },
+      {
+        "value": "裂缝之内",
+        "docId": "plot.xianni-ch1293-yaozong-six-star-formation-wang-lin-arrives-rift",
         "seq": 1207
       }
     ],
@@ -63,6 +87,16 @@
         "value": "通体黑色、满身鳞片、头顶两根弯曲之角、身长约数千丈",
         "docId": "plot.xianni-ch1292-red-glow-white-robed-figure",
         "seq": 1207
+      },
+      {
+        "value": "龙形凶兽",
+        "docId": "plot.xianni-ch1293-yaozong-six-star-formation-wang-lin-arrives-rift",
+        "seq": 1207
+      },
+      {
+        "value": "身长数千丈，鳞片间隙与大口喷出大量黑气黑雾，头生两角（被王林砸断）",
+        "docId": "plot.xianni-ch1293-yaozong-six-star-formation-wang-lin-arrives-rift",
+        "seq": 1207
       }
     ],
     "血脉": [
@@ -70,6 +104,14 @@
         "value": "传说为天阶道兽吉穷的六种伴生兽之一",
         "docId": "plot.xianni-ch1292-red-glow-white-robed-figure",
         "seq": 1207
+      }
+    ],
+    "主人": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch1293-yaozong-six-star-formation-wang-lin-arrives-rift",
+        "seq": 1207,
+        "note": "第1207章被打服后收为坐骑"
       }
     ]
   },
@@ -111,12 +153,20 @@
       "docId": "plot.xianni-ch1292-red-glow-white-robed-figure",
       "dated": false,
       "seq": 1207
+    },
+    "主人": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1293-yaozong-six-star-formation-wang-lin-arrives-rift",
+      "dated": false,
+      "seq": 1207,
+      "note": "第1207章被打服后收为坐骑"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1292-red-glow-white-robed-figure"
+    "plot.xianni-ch1292-red-glow-white-robed-figure",
+    "plot.xianni-ch1293-yaozong-six-star-formation-wang-lin-arrives-rift"
   ],
-  "updatedAt": "2026-08-25T07:31:16.676Z"
+  "updatedAt": "2026-08-25T07:38:15.635Z"
 }
