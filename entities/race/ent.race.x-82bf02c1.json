@@ -15,9 +15,10 @@
   ],
   "summary": "当年在归途中纠缠带伤的仙帝青霖、迫使其开启仙府疗伤的存在。",
   "attributes": {
-    "特性": "来自界外，可与仙帝级存在纠缠、非修士、穿着古怪、视修士如蝼蚁",
-    "阵营": "封锁上古修真者的一方",
-    "聚居地": "界外"
+    "特性": "来自界外，可与仙帝级存在纠缠、非修士、穿着古怪、视修士如蝼蚁、眉心带印记（闪电/火焰/月牙），可打开眉心封印短时借取巅峰之力",
+    "阵营": "与昆虚之境敌对、封锁上古修真者的一方、界外",
+    "聚居地": "界外",
+    "天敌": "罗天修士"
   },
   "observations": {
     "特性": [
@@ -40,6 +41,11 @@
         "value": "视修士如蝼蚁",
         "docId": "plot.xianni-1205-ao-wang-lin-subdues-lightning-statue",
         "seq": 1123
+      },
+      {
+        "value": "眉心带印记（闪电/火焰/月牙），可打开眉心封印短时借取巅峰之力",
+        "docId": "plot.xianni-1206-zhan-xingye-daotong-jiewai-sanren-tuxi",
+        "seq": 1123
       }
     ],
     "阵营": [
@@ -52,6 +58,11 @@
         "value": "封锁上古修真者的一方",
         "docId": "plot.xianni-1205-ao-wang-lin-subdues-lightning-statue",
         "seq": 1123
+      },
+      {
+        "value": "界外",
+        "docId": "plot.xianni-1206-zhan-xingye-daotong-jiewai-sanren-tuxi",
+        "seq": 1123
       }
     ],
     "聚居地": [
@@ -59,6 +70,13 @@
         "value": "界外",
         "docId": "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
         "seq": 982
+      }
+    ],
+    "天敌": [
+      {
+        "value": "罗天修士",
+        "docId": "plot.xianni-1206-zhan-xingye-daotong-jiewai-sanren-tuxi",
+        "seq": 1123
       }
     ]
   },
@@ -72,15 +90,21 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-1205-ao-wang-lin-subdues-lightning-statue",
+      "docId": "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
       "dated": false,
-      "seq": 1123
+      "seq": 982
     },
     "聚居地": {
       "asOf": null,
       "docId": "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
       "dated": false,
       "seq": 982
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.xianni-1206-zhan-xingye-daotong-jiewai-sanren-tuxi",
+      "dated": false,
+      "seq": 1123
     }
   },
   "contested": false,
@@ -90,7 +114,8 @@
     "plot.xianni-ch1066-mu-bingmei-kunxu-and-taja-devours-qinglin-fire-dragon",
     "plot.xianni-1096-jingtian-yinmi-limo-baiyi-lundao",
     "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
-    "plot.xianni-1205-ao-wang-lin-subdues-lightning-statue"
+    "plot.xianni-1205-ao-wang-lin-subdues-lightning-statue",
+    "plot.xianni-1206-zhan-xingye-daotong-jiewai-sanren-tuxi"
   ],
-  "updatedAt": "2026-08-25T00:29:26.832Z"
+  "updatedAt": "2026-08-25T00:32:11.218Z"
 }

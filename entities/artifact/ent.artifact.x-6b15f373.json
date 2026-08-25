@@ -3,14 +3,15 @@
   "type": "artifact",
   "name": "水晶剑",
   "aliases": [
-    "苍松子的水晶剑"
+    "苍松子的水晶剑",
+    "王林的水晶剑"
   ],
   "summary": "苍松子在此战中损失的法宝之一，令其心如刀割。",
   "attributes": {
     "持有者": "王林",
     "外形": "水晶质飞剑",
     "来历": "夺自苍松子",
-    "能力": "承载王林一丝心神作后手、留存心神自主护主、极速掠斩切断接触"
+    "能力": "承载王林一丝心神作后手、留存心神自主护主、极速掠斩切断接触、剑芒破禁、散发次空涅气息"
   },
   "observations": {
     "持有者": [
@@ -60,6 +61,16 @@
         "value": "极速掠斩切断接触",
         "docId": "plot.xianni-1204-tiandao-zhi-ji-zhanxingye-remains",
         "seq": 1119
+      },
+      {
+        "value": "剑芒破禁",
+        "docId": "plot.xianni-1206-zhan-xingye-daotong-jiewai-sanren-tuxi",
+        "seq": 1123
+      },
+      {
+        "value": "散发次空涅气息",
+        "docId": "plot.xianni-1206-zhan-xingye-daotong-jiewai-sanren-tuxi",
+        "seq": 1123
       }
     ]
   },
@@ -96,7 +107,8 @@
   "docs": [
     "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan",
     "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
-    "plot.xianni-1204-tiandao-zhi-ji-zhanxingye-remains"
+    "plot.xianni-1204-tiandao-zhi-ji-zhanxingye-remains",
+    "plot.xianni-1206-zhan-xingye-daotong-jiewai-sanren-tuxi"
   ],
-  "updatedAt": "2026-08-25T00:26:49.405Z"
+  "updatedAt": "2026-08-25T00:32:11.204Z"
 }
