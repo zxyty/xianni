@@ -10,17 +10,20 @@
     "黑色龙兽",
     "裂缝内九幽龙",
     "Jiuyou Dragon",
-    "王林的九幽龙坐骑"
+    "王林的九幽龙坐骑",
+    "九幽龙坐骑",
+    "Jiu You Long"
   ],
   "summary": "自妖宗六星外裂缝内现身的九幽深渊幼龙，通体黑色满身鳞片、双角弯曲、身长数千丈，可喷黑气化无尽骷髅头吞噬修士生机。",
   "attributes": {
     "种族": "九幽深渊之龙",
-    "等级": "十二阶",
+    "等级": "十二阶、天阶兽吉穷的伴生兽",
     "能力": "喷黑气化黑色骷髅头（穿透神通法宝，触身爆开毁肉身元神）、吞噬修士生机、惊天威压、咆哮震动裂缝、咆哮临近、张口吞噬、喷吐黑气黑雾",
-    "栖息地": "九幽深渊（裂缝之内）、裂缝之内",
+    "栖息地": "九幽深渊（裂缝之内）、裂缝之内、裂缝内",
     "外形": "通体黑色、满身鳞片、头顶两根弯曲之角、身长约数千丈、龙形凶兽、身长数千丈，鳞片间隙与大口喷出大量黑气黑雾，头生两角（被王林砸断）",
-    "血脉": "传说为天阶道兽吉穷的六种伴生兽之一",
-    "主人": "王林"
+    "血脉": "传说为天阶道兽吉穷的六种伴生兽之一、吉穷伴生兽",
+    "主人": "王林",
+    "天敌": "吉穷之气与可吞噬其魂魄之力"
   },
   "observations": {
     "种族": [
@@ -36,6 +39,11 @@
         "docId": "plot.xianni-ch1292-red-glow-white-robed-figure",
         "seq": 1207,
         "note": "可爆发相当于寻常十三阶皇兽之力"
+      },
+      {
+        "value": "天阶兽吉穷的伴生兽",
+        "docId": "plot.xianni-ch1294-dao-shu-jiuyou-long-tamed",
+        "seq": 1207
       }
     ],
     "能力": [
@@ -80,6 +88,11 @@
         "value": "裂缝之内",
         "docId": "plot.xianni-ch1293-yaozong-six-star-formation-wang-lin-arrives-rift",
         "seq": 1207
+      },
+      {
+        "value": "裂缝内",
+        "docId": "plot.xianni-ch1294-dao-shu-jiuyou-long-tamed",
+        "seq": 1207
       }
     ],
     "外形": [
@@ -104,6 +117,11 @@
         "value": "传说为天阶道兽吉穷的六种伴生兽之一",
         "docId": "plot.xianni-ch1292-red-glow-white-robed-figure",
         "seq": 1207
+      },
+      {
+        "value": "吉穷伴生兽",
+        "docId": "plot.xianni-ch1294-dao-shu-jiuyou-long-tamed",
+        "seq": 1207
       }
     ],
     "主人": [
@@ -112,6 +130,13 @@
         "docId": "plot.xianni-ch1293-yaozong-six-star-formation-wang-lin-arrives-rift",
         "seq": 1207,
         "note": "第1207章被打服后收为坐骑"
+      }
+    ],
+    "天敌": [
+      {
+        "value": "吉穷之气与可吞噬其魂魄之力",
+        "docId": "plot.xianni-ch1294-dao-shu-jiuyou-long-tamed",
+        "seq": 1207
       }
     ]
   },
@@ -160,13 +185,20 @@
       "dated": false,
       "seq": 1207,
       "note": "第1207章被打服后收为坐骑"
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1294-dao-shu-jiuyou-long-tamed",
+      "dated": false,
+      "seq": 1207
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1292-red-glow-white-robed-figure",
-    "plot.xianni-ch1293-yaozong-six-star-formation-wang-lin-arrives-rift"
+    "plot.xianni-ch1293-yaozong-six-star-formation-wang-lin-arrives-rift",
+    "plot.xianni-ch1294-dao-shu-jiuyou-long-tamed"
   ],
-  "updatedAt": "2026-08-25T07:38:15.635Z"
+  "updatedAt": "2026-08-25T07:40:35.047Z"
 }

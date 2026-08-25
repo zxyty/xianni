@@ -2,11 +2,16 @@
   "id": "ent.place.x-40db53f9",
   "type": "place",
   "name": "妖宗六个修真星",
-  "aliases": [],
+  "aliases": [
+    "妖宗修真星",
+    "妖宗山门所在修真星"
+  ],
   "summary": "妖宗所辖的六个修真星，裂缝战场即在其外。",
   "attributes": {
     "所属势力": "妖宗",
-    "类型": "修真星群"
+    "类型": "修真星群、修真星",
+    "方位": "裂缝之外",
+    "规模": "六颗"
   },
   "observations": {
     "所属势力": [
@@ -20,6 +25,25 @@
       {
         "value": "修真星群",
         "docId": "plot.xianni-ch1292-red-glow-white-robed-figure",
+        "seq": 1207
+      },
+      {
+        "value": "修真星",
+        "docId": "plot.xianni-ch1294-dao-shu-jiuyou-long-tamed",
+        "seq": 1207
+      }
+    ],
+    "方位": [
+      {
+        "value": "裂缝之外",
+        "docId": "plot.xianni-ch1294-dao-shu-jiuyou-long-tamed",
+        "seq": 1207
+      }
+    ],
+    "规模": [
+      {
+        "value": "六颗",
+        "docId": "plot.xianni-ch1294-dao-shu-jiuyou-long-tamed",
         "seq": 1207
       }
     ]
@@ -37,12 +61,25 @@
       "docId": "plot.xianni-ch1292-red-glow-white-robed-figure",
       "dated": false,
       "seq": 1207
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1294-dao-shu-jiuyou-long-tamed",
+      "dated": false,
+      "seq": 1207
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1294-dao-shu-jiuyou-long-tamed",
+      "dated": false,
+      "seq": 1207
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1292-red-glow-white-robed-figure"
+    "plot.xianni-ch1292-red-glow-white-robed-figure",
+    "plot.xianni-ch1294-dao-shu-jiuyou-long-tamed"
   ],
-  "updatedAt": "2026-08-25T07:31:16.686Z"
+  "updatedAt": "2026-08-25T07:40:35.071Z"
 }

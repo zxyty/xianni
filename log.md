@@ -676,3 +676,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T07:28:53.394Z** `ingest` plot.xianni-1291-yaozong-rift — 《仙逆》第1291章 妖宗裂缝：王林踏入九阶星域直奔妖宗，水道子十年痛苦 · kind=plot asOf=2026-08-25 entities=35 relations=59 src=01202-01206.p5.md
 - **2026-08-25T07:31:17.051Z** `ingest` plot.xianni-ch1292-red-glow-white-robed-figure — 第1292章 红芒下的白衣身影：九幽龙出裂缝，白衣白发者携白衣老妪降临 · kind=plot asOf=2026-08-25 entities=19 relations=32 src=01207-01211.p1.md
 - **2026-08-25T07:38:15.960Z** `ingest` plot.xianni-ch1293-yaozong-six-star-formation-wang-lin-arrives-rift — 第1293章 妖宗六星大阵与王林抵达裂缝战场 · kind=plot asOf=2026-08-25 entities=30 relations=48 src=01207-01211.p2.md
+- **2026-08-25T07:40:35.702Z** `ingest` plot.xianni-ch1294-dao-shu-jiuyou-long-tamed — 第1294章 道术：王林收服九幽龙、重伤妖宗长老并以道术留伤 · kind=plot asOf=2026-08-25 entities=18 relations=24 src=01207-01211.p3.md
