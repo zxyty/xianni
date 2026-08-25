@@ -16,12 +16,13 @@
     "Feng Jie Da Zhen",
     "闪烁巨网大阵",
     "虚无封界大阵",
-    "磅礴封界大阵"
+    "磅礴封界大阵",
+    "界壁大阵"
   ],
   "summary": "环绕四大星域的封锁大阵；传闻通过瓶中界此宝可破开此阵。",
   "attributes": {
-    "效果": "封锁环绕四大星域、封界内修士死亡后道念被吸入种道星阵化作养分、封锁界内界外不容踏出半步、承受攻击达阈值后自动凝聚阵灵反击、对攻击产生惊人反弹、封锁界内之修、封锁古神一族、唤出九灵御敌、封锁并守护封界、阵灵齐出时波纹无尽、轰鸣惊天、封隔界内界外、遮蔽气息感应、封锁界域，阻断外出、封锁界面/星域、包裹界内所有天地、阻挡一切生灵破开出界、阻止界内之人踏出半步、开启时爆发七彩光芒，可穿透天劫云山、受攻击达阈值可幻化阵灵、封界",
-    "破解法": "以瓶中界之宝破开、未知、以第三步修士本源之力硬撼，配合墨流分神术干扰阵灵、拓森曾以某种方法破开、借天劫之力冲击、以完全引发的天劫之力轰破、极个别惊艳之辈凭强悍修为破阵一人走出；王林首创借天劫之力冲击、界内后人立誓破开阵法、借天劫之力，并凭封界之主（妖尊）遗留之力、玉佩青色丝线顺阵蔓延（作用未明）",
+    "效果": "封锁环绕四大星域、封界内修士死亡后道念被吸入种道星阵化作养分、封锁界内界外不容踏出半步、承受攻击达阈值后自动凝聚阵灵反击、对攻击产生惊人反弹、封锁界内之修、封锁古神一族、唤出九灵御敌、封锁并守护封界、阵灵齐出时波纹无尽、轰鸣惊天、封隔界内界外、遮蔽气息感应、封锁界域，阻断外出、封锁界面/星域、包裹界内所有天地、阻挡一切生灵破开出界、阻止界内之人踏出半步、开启时爆发七彩光芒，可穿透天劫云山、受攻击达阈值可幻化阵灵、封界、封锁界内界外、内蕴器灵可幻化反击、受击可如网被拉长鼓包、缺口可自行愈合封印",
+    "破解法": "以瓶中界之宝破开、未知、以第三步修士本源之力硬撼，配合墨流分神术干扰阵灵、拓森曾以某种方法破开、借天劫之力冲击、以完全引发的天劫之力轰破、极个别惊艳之辈凭强悍修为破阵一人走出；王林首创借天劫之力冲击、界内后人立誓破开阵法、借天劫之力，并凭封界之主（妖尊）遗留之力、玉佩青色丝线顺阵蔓延（作用未明）、天劫之极与自身极境合击，配合青色丝线压制器灵",
     "布置者": "封界之主",
     "出处": "封界"
   },
@@ -121,6 +122,26 @@
         "value": "封界",
         "docId": "plot.xianni-ch1305-tianjie-wei-jie-yi-wei-zaohua",
         "seq": 1217
+      },
+      {
+        "value": "封锁界内界外",
+        "docId": "plot.xianni-1307-tunling-shiti-juetian-breakout",
+        "seq": 1222
+      },
+      {
+        "value": "内蕴器灵可幻化反击",
+        "docId": "plot.xianni-1307-tunling-shiti-juetian-breakout",
+        "seq": 1222
+      },
+      {
+        "value": "受击可如网被拉长鼓包",
+        "docId": "plot.xianni-1307-tunling-shiti-juetian-breakout",
+        "seq": 1222
+      },
+      {
+        "value": "缺口可自行愈合封印",
+        "docId": "plot.xianni-1307-tunling-shiti-juetian-breakout",
+        "seq": 1222
       }
     ],
     "破解法": [
@@ -181,6 +202,11 @@
         "value": "玉佩青色丝线顺阵蔓延（作用未明）",
         "docId": "plot.xianni-ch1305-tianjie-wei-jie-yi-wei-zaohua",
         "seq": 1217
+      },
+      {
+        "value": "天劫之极与自身极境合击，配合青色丝线压制器灵",
+        "docId": "plot.xianni-1307-tunling-shiti-juetian-breakout",
+        "seq": 1222
       }
     ],
     "布置者": [
@@ -193,7 +219,8 @@
       {
         "value": "封界之主",
         "docId": "plot.xianni-ch1304-jiugong-bagua-tianjie",
-        "seq": 1217
+        "seq": 1217,
+        "note": "阵内沧桑之声者"
       }
     ],
     "出处": [
@@ -223,7 +250,8 @@
       "asOf": null,
       "docId": "plot.xianni-ch1304-jiugong-bagua-tianjie",
       "dated": false,
-      "seq": 1217
+      "seq": 1217,
+      "note": "阵内沧桑之声者"
     },
     "出处": {
       "asOf": null,
@@ -245,7 +273,8 @@
     "plot.xianni-1302-zhi-shou-zhe-tian-tianjie",
     "plot.xianni-ch1303-feng-jie-da-zhen",
     "plot.xianni-ch1304-jiugong-bagua-tianjie",
-    "plot.xianni-ch1305-tianjie-wei-jie-yi-wei-zaohua"
+    "plot.xianni-ch1305-tianjie-wei-jie-yi-wei-zaohua",
+    "plot.xianni-1307-tunling-shiti-juetian-breakout"
   ],
-  "updatedAt": "2026-08-25T08:12:16.177Z"
+  "updatedAt": "2026-08-25T08:17:17.795Z"
 }
