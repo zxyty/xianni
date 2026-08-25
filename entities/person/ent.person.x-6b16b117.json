@@ -4,13 +4,16 @@
   "name": "云落大司",
   "aliases": [
     "长尊会云落大司",
-    "云落大司算者"
+    "云落大司算者",
+    "长发披肩女子"
   ],
   "summary": "长尊会中人，神通可推算他人所在，已算出王林在这片星域内，不久即可算出具体位置。",
   "attributes": {
-    "身份": "长尊会大司、擅推算者、推算者",
+    "身份": "长尊会大司、擅推算者、推算者、长尊会·大司",
     "称号": "大司",
-    "阵营": "太古星辰一方"
+    "阵营": "太古星辰一方",
+    "性别": "女",
+    "外貌": "长发披肩，秀眉紧皱"
   },
   "observations": {
     "身份": [
@@ -28,6 +31,11 @@
         "value": "推算者",
         "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
         "seq": 1288
+      },
+      {
+        "value": "长尊会·大司",
+        "docId": "plot.xianni-1396-lang-yong-mo-hun-fen-shen-cheng-xing",
+        "seq": 1303
       }
     ],
     "称号": [
@@ -47,6 +55,20 @@
         "value": "太古星辰一方",
         "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
         "seq": 1288
+      }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.xianni-1396-lang-yong-mo-hun-fen-shen-cheng-xing",
+        "seq": 1303
+      }
+    ],
+    "外貌": [
+      {
+        "value": "长发披肩，秀眉紧皱",
+        "docId": "plot.xianni-1396-lang-yong-mo-hun-fen-shen-cheng-xing",
+        "seq": 1303
       }
     ]
   },
@@ -69,6 +91,18 @@
       "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
       "dated": false,
       "seq": 1288
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-1396-lang-yong-mo-hun-fen-shen-cheng-xing",
+      "dated": false,
+      "seq": 1303
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-1396-lang-yong-mo-hun-fen-shen-cheng-xing",
+      "dated": false,
+      "seq": 1303
     }
   },
   "contested": false,
@@ -76,7 +110,8 @@
   "docs": [
     "plot.xianni-1366-wucai-jijing-naduo-mystery",
     "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
-    "plot.xianni-ch1375-first-encounter-fire-sparrow"
+    "plot.xianni-ch1375-first-encounter-fire-sparrow",
+    "plot.xianni-1396-lang-yong-mo-hun-fen-shen-cheng-xing"
   ],
-  "updatedAt": "2026-08-25T13:59:42.534Z"
+  "updatedAt": "2026-08-25T16:22:33.869Z"
 }

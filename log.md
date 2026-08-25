@@ -768,3 +768,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T16:10:35.397Z** `ingest` plot.xianni-1392-sixth-generation-zhuque — 第1392章 六代朱雀——刘金彪骗道第二境·王林放出第二个诱饵 · kind=plot asOf=2026-08-25 entities=37 relations=56 src=01303-01306.p1.md
 - **2026-08-25T16:17:32.221Z** `ingest` plot.xianni-1393-silver-clad-woman-sea-of-consciousness-seven-colored-seal-and-tanlan — 第1393章 银衣女子识海探秘：七彩封印身影与贪狼法宝的祭炼 · kind=plot asOf=2026-08-25 entities=35 relations=52 src=01303-01306.p2.md
 - **2026-08-25T16:19:45.845Z** `ingest` plot.xianni-1395-feng-qi-zhu-que-zhi-xue — 第1395章 风起：王林融炼三千古魔之魂，火雀族因朱雀之血震动 · kind=plot asOf=2026-08-25 entities=22 relations=28 src=01303-01306.p3.md
+- **2026-08-25T16:22:34.341Z** `ingest` plot.xianni-1396-lang-yong-mo-hun-fen-shen-cheng-xing — 第1396章 浪涌：魔魂分身初具雏形、落生会长老之选与大帝星 · kind=plot asOf=2026-08-25 entities=30 relations=35 src=01303-01306.p4.md
