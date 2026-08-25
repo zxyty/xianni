@@ -801,3 +801,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T18:26:22.619Z** `ingest` plot.xianni-ch1429-well-scooping-moon — 第1429章 井中捞月：王林以古魔魂替身对决火雀族掌尊 · kind=plot asOf=2026-08-25 entities=25 relations=31 src=01336-01340.p4.md
 - **2026-08-25T18:28:29.963Z** `ingest` plot.xianni-ch1430-umbrella-opens-world-destruction — 第1430章 伞开灭世：朱雀源灵降临与焚界古伞初展 · kind=plot asOf=2026-08-25 entities=21 relations=33 src=01336-01340.p5.md
 - **2026-08-25T18:31:04.873Z** `ingest` plot.xianni-1431-fenshi-guisan-zhangzun-fuhuo-tiaojian — 第1431章 这一天，到了！——焚世古伞爆裂、古之庇佑退掌尊，掌尊以复活李慕婉相诱 · kind=plot asOf=2026-08-25 entities=26 relations=37 src=01341-01345.p1.md
+- **2026-08-25T18:33:32.690Z** `ingest` plot.xianni-1432-qing-yu-en-wang-lin-ju-zhang-zun — 第1432章 情与恩：掌尊许诺复活妻儿，王林拒为死士 · kind=plot asOf=2026-08-25 entities=31 relations=31 src=01341-01345.p2.md

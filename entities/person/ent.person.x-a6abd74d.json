@@ -10,7 +10,8 @@
   "attributes": {
     "阵营": "朱雀一族",
     "存殁": "死亡",
-    "身份": "朱雀一族第五代"
+    "身份": "朱雀圣宗第五代圣皇",
+    "结局": "归墟前托付朱雀圣宗"
   },
   "observations": {
     "阵营": [
@@ -37,6 +38,18 @@
         "value": "朱雀一族第五代",
         "docId": "plot.xianni-ch1417-cultivation-is-a-palm",
         "seq": 1326
+      },
+      {
+        "value": "朱雀圣宗第五代圣皇",
+        "docId": "plot.xianni-1432-qing-yu-en-wang-lin-ju-zhang-zun",
+        "seq": 1341
+      }
+    ],
+    "结局": [
+      {
+        "value": "归墟前托付朱雀圣宗",
+        "docId": "plot.xianni-1432-qing-yu-en-wang-lin-ju-zhang-zun",
+        "seq": 1341
       }
     ]
   },
@@ -56,9 +69,15 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1417-cultivation-is-a-palm",
+      "docId": "plot.xianni-1432-qing-yu-en-wang-lin-ju-zhang-zun",
       "dated": false,
-      "seq": 1326
+      "seq": 1341
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-1432-qing-yu-en-wang-lin-ju-zhang-zun",
+      "dated": false,
+      "seq": 1341
     }
   },
   "contested": false,
@@ -66,7 +85,8 @@
   "docs": [
     "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
     "plot.xianni-ch1414-dianluo-zhi-ming",
-    "plot.xianni-ch1417-cultivation-is-a-palm"
+    "plot.xianni-ch1417-cultivation-is-a-palm",
+    "plot.xianni-1432-qing-yu-en-wang-lin-ju-zhang-zun"
   ],
-  "updatedAt": "2026-08-25T17:22:53.150Z"
+  "updatedAt": "2026-08-25T18:33:32.305Z"
 }
