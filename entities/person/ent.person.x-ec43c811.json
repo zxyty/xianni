@@ -3,12 +3,17 @@
   "type": "person",
   "name": "火雀族长老",
   "aliases": [
-    "火雀族的长老"
+    "火雀族的长老",
+    "与王林交易的火雀族长老",
+    "颠落之地火雀族长老"
   ],
   "summary": "命人将丹药内血液送回族中研究的火雀族长老，其分析结果将决定族长与大长老的后续命令。",
   "attributes": {
     "身份": "火雀族长老",
-    "种族": "火雀族"
+    "种族": "火雀族",
+    "性别": "男",
+    "阵营": "火雀族",
+    "标志特征": "体内火焰受召化作火鸟"
   },
   "observations": {
     "身份": [
@@ -23,6 +28,27 @@
         "value": "火雀族",
         "docId": "plot.xianni-1391-pian-dao-blood-bait-and-xu-liguo",
         "seq": 1300
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-1395-feng-qi-zhu-que-zhi-xue",
+        "seq": 1303
+      }
+    ],
+    "阵营": [
+      {
+        "value": "火雀族",
+        "docId": "plot.xianni-1395-feng-qi-zhu-que-zhi-xue",
+        "seq": 1303
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "体内火焰受召化作火鸟",
+        "docId": "plot.xianni-1395-feng-qi-zhu-que-zhi-xue",
+        "seq": 1303
       }
     ]
   },
@@ -39,12 +65,31 @@
       "docId": "plot.xianni-1391-pian-dao-blood-bait-and-xu-liguo",
       "dated": false,
       "seq": 1300
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-1395-feng-qi-zhu-que-zhi-xue",
+      "dated": false,
+      "seq": 1303
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1395-feng-qi-zhu-que-zhi-xue",
+      "dated": false,
+      "seq": 1303
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-1395-feng-qi-zhu-que-zhi-xue",
+      "dated": false,
+      "seq": 1303
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1391-pian-dao-blood-bait-and-xu-liguo"
+    "plot.xianni-1391-pian-dao-blood-bait-and-xu-liguo",
+    "plot.xianni-1395-feng-qi-zhu-que-zhi-xue"
   ],
-  "updatedAt": "2026-08-25T16:02:47.518Z"
+  "updatedAt": "2026-08-25T16:19:45.413Z"
 }

@@ -3,13 +3,15 @@
   "type": "artifact",
   "name": "魔魂瓶",
   "aliases": [
-    "贪狼至宝魔魂瓶"
+    "贪狼至宝魔魂瓶",
+    "古魔法宝",
+    "魔魂之瓶"
   ],
   "summary": "贪狼原有法宝之一，已被王林夺走。",
   "attributes": {
     "持有者": "王林、贪狼",
-    "来历": "贪狼至宝",
-    "能力": "催生海量魔气与魔影，为王林造魔魂之凭依"
+    "来历": "古墓、贪狼至宝、古魔一族法宝",
+    "能力": "催生海量魔气与魔影，为王林造魔魂之凭依、封存并释放三千古魔之魂"
   },
   "observations": {
     "持有者": [
@@ -35,12 +37,22 @@
         "value": "贪狼至宝",
         "docId": "plot.xianni-1393-silver-clad-woman-sea-of-consciousness-seven-colored-seal-and-tanlan",
         "seq": 1303
+      },
+      {
+        "value": "古魔一族法宝",
+        "docId": "plot.xianni-1395-feng-qi-zhu-que-zhi-xue",
+        "seq": 1303
       }
     ],
     "能力": [
       {
         "value": "催生海量魔气与魔影，为王林造魔魂之凭依",
         "docId": "plot.xianni-1393-silver-clad-woman-sea-of-consciousness-seven-colored-seal-and-tanlan",
+        "seq": 1303
+      },
+      {
+        "value": "封存并释放三千古魔之魂",
+        "docId": "plot.xianni-1395-feng-qi-zhu-que-zhi-xue",
         "seq": 1303
       }
     ]
@@ -56,9 +68,9 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-1393-silver-clad-woman-sea-of-consciousness-seven-colored-seal-and-tanlan",
+      "docId": "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang",
       "dated": false,
-      "seq": 1303
+      "seq": 1300
     },
     "能力": {
       "asOf": null,
@@ -71,7 +83,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang",
-    "plot.xianni-1393-silver-clad-woman-sea-of-consciousness-seven-colored-seal-and-tanlan"
+    "plot.xianni-1393-silver-clad-woman-sea-of-consciousness-seven-colored-seal-and-tanlan",
+    "plot.xianni-1395-feng-qi-zhu-que-zhi-xue"
   ],
-  "updatedAt": "2026-08-25T16:17:31.801Z"
+  "updatedAt": "2026-08-25T16:19:45.395Z"
 }
