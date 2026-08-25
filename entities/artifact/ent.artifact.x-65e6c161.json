@@ -1,0 +1,66 @@
+{
+  "id": "ent.artifact.x-65e6c161",
+  "type": "artifact",
+  "name": "尊者所赐法器",
+  "aliases": [
+    "尊者所赐法宝"
+  ],
+  "summary": "老者自称由尊者赐下的法宝，声称王林的火焰破不开它。",
+  "attributes": {
+    "持有者": "白发老者",
+    "来历": "尊者所赐",
+    "能力": "抵挡王林火焰"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "白发老者",
+        "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
+        "seq": 1127
+      }
+    ],
+    "来历": [
+      {
+        "value": "尊者所赐",
+        "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
+        "seq": 1127
+      }
+    ],
+    "能力": [
+      {
+        "value": "抵挡王林火焰",
+        "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
+        "seq": 1127,
+        "note": "老者自称，未经验证"
+      }
+    ]
+  },
+  "firstSeq": 1127,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
+      "dated": false,
+      "seq": 1127
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
+      "dated": false,
+      "seq": 1127
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
+      "dated": false,
+      "seq": 1127,
+      "note": "老者自称，未经验证"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes"
+  ],
+  "updatedAt": "2026-08-25T00:53:51.269Z"
+}

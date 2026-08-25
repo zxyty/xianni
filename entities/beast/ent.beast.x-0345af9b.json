@@ -3,13 +3,17 @@
   "type": "beast",
   "name": "蓝色朱雀",
   "aliases": [
-    "Blue Vermillion Bird"
+    "Blue Vermillion Bird",
+    "七彩界蓝色朱雀",
+    "蓝焰朱雀"
   ],
   "summary": "寄于王林体内的朱雀，第三次觉醒中由白色浴火重生为蓝色，出现时全界蓝色火海如欢呼般疯狂。",
   "attributes": {
     "主人": "王林",
-    "能力": "体内蕴含火种，散出无尽热气、蓝焰可焚烧碎涅修士肉身与元神、焚杀者魂魄被吞入火焰化为其内意志",
-    "外形": "蓝色朱雀"
+    "能力": "体内蕴含火种，散出无尽热气、蓝焰可焚烧碎涅修士肉身与元神、焚杀者魂魄被吞入火焰化为其内意志、卷动天地蓝色火焰、冲击崩溃敌方神通",
+    "外形": "蓝色朱雀、蓝色、蓝色朱雀虚影",
+    "种族": "朱雀",
+    "栖息地": "七彩界"
   },
   "observations": {
     "主人": [
@@ -34,6 +38,16 @@
         "value": "焚杀者魂魄被吞入火焰化为其内意志",
         "docId": "plot.xianni-1210-blue-vermillion-bird-third-awakening",
         "seq": 1127
+      },
+      {
+        "value": "卷动天地蓝色火焰",
+        "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
+        "seq": 1127
+      },
+      {
+        "value": "冲击崩溃敌方神通",
+        "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
+        "seq": 1127
       }
     ],
     "外形": [
@@ -42,6 +56,30 @@
         "docId": "plot.xianni-1210-blue-vermillion-bird-third-awakening",
         "seq": 1127,
         "note": "第三次觉醒后；此前为白色"
+      },
+      {
+        "value": "蓝色",
+        "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
+        "seq": 1127
+      },
+      {
+        "value": "蓝色朱雀虚影",
+        "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
+        "seq": 1127
+      }
+    ],
+    "种族": [
+      {
+        "value": "朱雀",
+        "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
+        "seq": 1127
+      }
+    ],
+    "栖息地": [
+      {
+        "value": "七彩界",
+        "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
+        "seq": 1127
       }
     ]
   },
@@ -65,12 +103,25 @@
       "dated": false,
       "seq": 1127,
       "note": "第三次觉醒后；此前为白色"
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
+      "dated": false,
+      "seq": 1127
+    },
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
+      "dated": false,
+      "seq": 1127
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1210-blue-vermillion-bird-third-awakening"
+    "plot.xianni-1210-blue-vermillion-bird-third-awakening",
+    "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes"
   ],
-  "updatedAt": "2026-08-25T00:46:47.983Z"
+  "updatedAt": "2026-08-25T00:53:51.267Z"
 }

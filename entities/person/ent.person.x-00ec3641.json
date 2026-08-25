@@ -24,16 +24,18 @@
     "太古古神",
     "王族八星古神",
     "Ancient God Clan",
-    "九尊古神"
+    "九尊古神",
+    "空间裂缝内的古神"
   ],
   "summary": "远古时期与古仙人同级的存在，某方面更强，年代比上古更久远；其尸身藏于碎星乱内。",
   "attributes": {
     "称号": "古神",
-    "存殁": "死亡",
+    "存殁": "沉睡将醒",
     "标志特征": "远古存在，比古仙人某方面更强、力量源于身体、死后神识不灭沉睡、不用储物袋",
     "种族": "古神",
     "外貌": "成年古神躯体比整个朱雀星还大",
-    "死因": "第151章死亡（据世界状态须知）"
+    "死因": "第151章死亡（据世界状态须知）",
+    "身份": "古神"
   },
   "observations": {
     "称号": [
@@ -49,6 +51,11 @@
         "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
         "seq": 151,
         "note": "第151章已亡，其躯为传承秘境"
+      },
+      {
+        "value": "沉睡将醒",
+        "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
+        "seq": 1127
       }
     ],
     "标志特征": [
@@ -99,6 +106,13 @@
         "seq": 176,
         "note": "本片段仅一道分识被吞"
       }
+    ],
+    "身份": [
+      {
+        "value": "古神",
+        "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
+        "seq": 1127
+      }
     ]
   },
   "firstSeq": 151,
@@ -111,10 +125,9 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch151-154-ancient-teleport-array-suixingluan",
+      "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
       "dated": false,
-      "seq": 151,
-      "note": "第151章已亡，其躯为传承秘境"
+      "seq": 1127
     },
     "标志特征": {
       "asOf": null,
@@ -140,6 +153,12 @@
       "dated": false,
       "seq": 176,
       "note": "本片段仅一道分识被吞"
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
+      "dated": false,
+      "seq": 1127
     }
   },
   "contested": false,
@@ -195,7 +214,8 @@
     "plot.xianni-ch1195-seven-colored-nail",
     "plot.xianni-1205-ao-wang-lin-subdues-lightning-statue",
     "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
-    "plot.xianni-1209-yueshi-clan-ancient-god-statues-collapse"
+    "plot.xianni-1209-yueshi-clan-ancient-god-statues-collapse",
+    "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes"
   ],
-  "updatedAt": "2026-08-25T00:44:47.912Z"
+  "updatedAt": "2026-08-25T00:53:51.212Z"
 }

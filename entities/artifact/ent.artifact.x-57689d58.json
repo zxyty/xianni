@@ -9,13 +9,15 @@
     "巨大的罗盘",
     "七彩罗盘",
     "追踪罗盘",
-    "Luo Pan"
+    "Luo Pan",
+    "巨大罗盘"
   ],
   "summary": "叱虎所持罗盘，可在仙界吞噬虚无中锁定方向，使三人不致迷失。",
   "attributes": {
-    "持有者": "王林",
+    "持有者": "白发老者",
     "能力": "在虚无中锁定方向、防止迷失、辅助推演禁制变化、旋转生威压锁定目标、卷七彩之芒凝无数七彩印记轰击、长久追踪、便于他人定位目标",
-    "外形": "天空中巨大的旋转罗盘，通体七彩之芒"
+    "外形": "弥漫天际的巨大罗盘",
+    "来历": "逆行者之术召唤"
   },
   "observations": {
     "持有者": [
@@ -28,6 +30,11 @@
         "value": "王林",
         "docId": "plot.xianni-1051-zhou-yi-reappears",
         "seq": 967
+      },
+      {
+        "value": "白发老者",
+        "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
+        "seq": 1127
       }
     ],
     "能力": [
@@ -62,6 +69,18 @@
         "value": "天空中巨大的旋转罗盘，通体七彩之芒",
         "docId": "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan",
         "seq": 1110
+      },
+      {
+        "value": "弥漫天际的巨大罗盘",
+        "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
+        "seq": 1127
+      }
+    ],
+    "来历": [
+      {
+        "value": "逆行者之术召唤",
+        "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
+        "seq": 1127
       }
     ]
   },
@@ -69,9 +88,9 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-1051-zhou-yi-reappears",
+      "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
       "dated": false,
-      "seq": 967
+      "seq": 1127
     },
     "能力": {
       "asOf": null,
@@ -81,9 +100,15 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan",
+      "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
       "dated": false,
-      "seq": 1110
+      "seq": 1127
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
+      "dated": false,
+      "seq": 1127
     }
   },
   "contested": false,
@@ -92,7 +117,8 @@
     "plot.xianni-ch307-shooting-god-chariot",
     "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
     "plot.xianni-1051-zhou-yi-reappears",
-    "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan"
+    "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan",
+    "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes"
   ],
-  "updatedAt": "2026-08-24T23:06:30.686Z"
+  "updatedAt": "2026-08-25T00:53:51.271Z"
 }

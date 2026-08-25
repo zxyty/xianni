@@ -4,12 +4,14 @@
   "name": "朱雀一族",
   "aliases": [
     "朱雀族",
-    "Zhu Que Clan"
+    "Zhu Que Clan",
+    "老雀一脉"
   ],
   "summary": "自太古以来自名朱雀之族，浴火而生、久燃不灭，族人均修火力并身带朱雀印记。",
   "attributes": {
-    "特性": "浴火而生、久燃不灭、族人均修火力、身带朱雀印记",
-    "天赋神通": "朱雀印记觉醒（一次/二次/三次觉醒）"
+    "特性": "浴火而生、久燃不灭、族人均修火力、身带朱雀印记、浴火重生、可多次觉醒",
+    "天赋神通": "朱雀印记觉醒（一次/二次/三次觉醒）",
+    "阵营": "四圣宗"
   },
   "observations": {
     "特性": [
@@ -32,12 +34,29 @@
         "value": "身带朱雀印记",
         "docId": "plot.xianni-1209-yueshi-clan-ancient-god-statues-collapse",
         "seq": 1127
+      },
+      {
+        "value": "浴火重生",
+        "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
+        "seq": 1127
+      },
+      {
+        "value": "可多次觉醒",
+        "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
+        "seq": 1127
       }
     ],
     "天赋神通": [
       {
         "value": "朱雀印记觉醒（一次/二次/三次觉醒）",
         "docId": "plot.xianni-1209-yueshi-clan-ancient-god-statues-collapse",
+        "seq": 1127
+      }
+    ],
+    "阵营": [
+      {
+        "value": "四圣宗",
+        "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
         "seq": 1127
       }
     ]
@@ -55,12 +74,19 @@
       "docId": "plot.xianni-1209-yueshi-clan-ancient-god-statues-collapse",
       "dated": false,
       "seq": 1127
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
+      "dated": false,
+      "seq": 1127
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1209-yueshi-clan-ancient-god-statues-collapse"
+    "plot.xianni-1209-yueshi-clan-ancient-god-statues-collapse",
+    "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes"
   ],
-  "updatedAt": "2026-08-25T00:44:47.940Z"
+  "updatedAt": "2026-08-25T00:53:51.209Z"
 }
