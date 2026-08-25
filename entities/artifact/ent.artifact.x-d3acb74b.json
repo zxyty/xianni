@@ -3,14 +3,16 @@
   "type": "artifact",
   "name": "天皇炉",
   "aliases": [
-    "烘炉"
+    "烘炉",
+    "庞大烘炉"
   ],
   "summary": "贪狼至宝之一，自撕开的巨大裂缝中取出的巨大烘炉；传闻贪狼尚是净涅修为时以此宝在三名碎涅大圆满修士追击下反杀一人、重伤二人。",
   "attributes": {
-    "持有者": "贪狼",
-    "外形": "巨大烘炉",
-    "来历": "贪狼至宝之一，自空间裂缝中取出",
-    "能力": "曾助净涅期的贪狼反杀碎涅大圆满修士"
+    "持有者": "贪狼、王林",
+    "外形": "巨大烘炉、庞大烘炉",
+    "来历": "贪狼至宝之一，自空间裂缝中取出、与古妖有莫大关联，其上并无妖气",
+    "能力": "曾助净涅期的贪狼反杀碎涅大圆满修士",
+    "禁制": "贪狼留神识方法不对，仅操控皮毛"
   },
   "observations": {
     "持有者": [
@@ -18,12 +20,23 @@
         "value": "贪狼",
         "docId": "character.xianni-1383-tanlang-origin",
         "seq": 1297
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-1386-shou-bao-wang-lin-duo-tan-lang-fabao",
+        "seq": 1297,
+        "note": "第1386章夺自贪狼"
       }
     ],
     "外形": [
       {
         "value": "巨大烘炉",
         "docId": "character.xianni-1383-tanlang-origin",
+        "seq": 1297
+      },
+      {
+        "value": "庞大烘炉",
+        "docId": "plot.xianni-1386-shou-bao-wang-lin-duo-tan-lang-fabao",
         "seq": 1297
       }
     ],
@@ -32,6 +45,11 @@
         "value": "贪狼至宝之一，自空间裂缝中取出",
         "docId": "character.xianni-1383-tanlang-origin",
         "seq": 1297
+      },
+      {
+        "value": "与古妖有莫大关联，其上并无妖气",
+        "docId": "plot.xianni-1386-shou-bao-wang-lin-duo-tan-lang-fabao",
+        "seq": 1297
       }
     ],
     "能力": [
@@ -39,6 +57,14 @@
         "value": "曾助净涅期的贪狼反杀碎涅大圆满修士",
         "docId": "character.xianni-1383-tanlang-origin",
         "seq": 1297
+      }
+    ],
+    "禁制": [
+      {
+        "value": "贪狼留神识方法不对，仅操控皮毛",
+        "docId": "plot.xianni-1386-shou-bao-wang-lin-duo-tan-lang-fabao",
+        "seq": 1297,
+        "note": "与当年古神大鼎情形相同"
       }
     ]
   },
@@ -67,12 +93,20 @@
       "docId": "character.xianni-1383-tanlang-origin",
       "dated": false,
       "seq": 1297
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-1386-shou-bao-wang-lin-duo-tan-lang-fabao",
+      "dated": false,
+      "seq": 1297,
+      "note": "与当年古神大鼎情形相同"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "character.xianni-1383-tanlang-origin"
+    "character.xianni-1383-tanlang-origin",
+    "plot.xianni-1386-shou-bao-wang-lin-duo-tan-lang-fabao"
   ],
-  "updatedAt": "2026-08-25T14:36:50.033Z"
+  "updatedAt": "2026-08-25T14:39:14.811Z"
 }

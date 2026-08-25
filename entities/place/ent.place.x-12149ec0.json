@@ -6,7 +6,8 @@
     "蝎族修真星",
     "暗蝎族的修真星",
     "暗蝎族所居修真星",
-    "此星"
+    "此星",
+    "暗蝎族星球"
   ],
   "summary": "暗蝎族所在修真星，灵力与生机远逊于龙甲族主星；王林一行由此出发。",
   "attributes": {
@@ -14,7 +15,8 @@
     "类型": "修真星",
     "所属界面": "颠落星域",
     "特产": "万古蝎尸（疑）",
-    "守护": "罡风层"
+    "守护": "罡风层",
+    "上级区域": "颠落之地"
   },
   "observations": {
     "所属势力": [
@@ -57,6 +59,13 @@
         "docId": "character.xianni-1383-tanlang-origin",
         "seq": 1297
       }
+    ],
+    "上级区域": [
+      {
+        "value": "颠落之地",
+        "docId": "plot.xianni-1386-shou-bao-wang-lin-duo-tan-lang-fabao",
+        "seq": 1297
+      }
     ]
   },
   "firstSeq": 1288,
@@ -91,6 +100,12 @@
       "docId": "character.xianni-1383-tanlang-origin",
       "dated": false,
       "seq": 1297
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-1386-shou-bao-wang-lin-duo-tan-lang-fabao",
+      "dated": false,
+      "seq": 1297
     }
   },
   "contested": false,
@@ -98,7 +113,8 @@
   "docs": [
     "plot.xianni-ch1375-first-encounter-fire-sparrow",
     "plot.xianni-1382-gu-ren-longjia-clan-poison-pill",
-    "character.xianni-1383-tanlang-origin"
+    "character.xianni-1383-tanlang-origin",
+    "plot.xianni-1386-shou-bao-wang-lin-duo-tan-lang-fabao"
   ],
-  "updatedAt": "2026-08-25T14:36:50.030Z"
+  "updatedAt": "2026-08-25T14:39:14.815Z"
 }
