@@ -49,7 +49,8 @@
     "八星古神尸身空间",
     "关卡",
     "虚无之地外的关卡",
-    "古神之地遗迹"
+    "古神之地遗迹",
+    "联盟古神之地"
   ],
   "summary": "古神留下的三关闯关之地，含禁制之山（第二关）、三层宝塔奖励层与第三关寂灭界，历代仅四人获领悟者身份。",
   "attributes": {
@@ -60,7 +61,8 @@
     "规模": "足够躺下一具庞大无比的八星古神肉身",
     "特产": "传承之物手骨、六欲欲念、古神传承、古神之欲、手骨、香魂、强大灵兽、荒兽、上品灵兽、血海（可壮大修为）",
     "上级区域": "古神之地",
-    "方位": "入口位于朱雀星，本体空间不属于该星域"
+    "方位": "入口位于朱雀星，本体空间不属于该星域",
+    "所属势力": "修真联盟"
   },
   "observations": {
     "类型": [
@@ -513,6 +515,13 @@
         "docId": "plot.xianni-1132-wuji-zi-years-rule",
         "seq": 1049
       }
+    ],
+    "所属势力": [
+      {
+        "value": "修真联盟",
+        "docId": "plot.xianni-1479-luotian-preparing-for-war-lu-fuzi",
+        "seq": 1390
+      }
     ]
   },
   "firstSeq": 166,
@@ -564,6 +573,12 @@
       "docId": "plot.xianni-1132-wuji-zi-years-rule",
       "dated": false,
       "seq": 1049
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-1479-luotian-preparing-for-war-lu-fuzi",
+      "dated": false,
+      "seq": 1390
     }
   },
   "contested": false,
@@ -611,7 +626,8 @@
     "plot.xianni-ch1125-ji-qiong-avatar-into-ancient-god-land",
     "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass",
     "plot.xianni-1132-wuji-zi-years-rule",
-    "plot.xianni-1477-daogu-inheritance"
+    "plot.xianni-1477-daogu-inheritance",
+    "plot.xianni-1479-luotian-preparing-for-war-lu-fuzi"
   ],
-  "updatedAt": "2026-08-25T22:02:43.083Z"
+  "updatedAt": "2026-08-25T22:08:05.093Z"
 }

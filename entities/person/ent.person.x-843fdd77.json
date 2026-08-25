@@ -11,7 +11,8 @@
   "attributes": {
     "身份": "向家老祖",
     "阵营": "向家",
-    "外貌": "老者"
+    "外貌": "老者",
+    "标志特征": "闭关数万年"
   },
   "observations": {
     "身份": [
@@ -34,6 +35,14 @@
         "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
         "seq": 810
       }
+    ],
+    "标志特征": [
+      {
+        "value": "闭关数万年",
+        "docId": "plot.xianni-1479-luotian-preparing-for-war-lu-fuzi",
+        "seq": 1390,
+        "note": "向家倚仗"
+      }
     ]
   },
   "firstSeq": 810,
@@ -55,13 +64,21 @@
       "docId": "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
       "dated": false,
       "seq": 810
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-1479-luotian-preparing-for-war-lu-fuzi",
+      "dated": false,
+      "seq": 1390,
+      "note": "向家倚仗"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
-    "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling"
+    "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
+    "plot.xianni-1479-luotian-preparing-for-war-lu-fuzi"
   ],
-  "updatedAt": "2026-08-23T15:28:10.185Z"
+  "updatedAt": "2026-08-25T22:08:05.080Z"
 }
