@@ -4,12 +4,14 @@
   "name": "绉姓中年男子",
   "aliases": [
     "绉某",
-    "无极宗绉姓中年男子"
+    "无极宗绉姓中年男子",
+    "绉姓长老"
   ],
   "summary": "无极宗身份极高者，与宗主同坐；无礼追问木冰眉故人姓名，被拒后讥其「区区净涅初期的修士」。",
   "attributes": {
-    "身份": "无极宗高层",
-    "性格": "傲慢无礼"
+    "身份": "无极宗高层、无极宗一方长老/要员",
+    "性格": "傲慢无礼",
+    "外貌": "中年男子，姓绉"
   },
   "observations": {
     "身份": [
@@ -17,12 +19,24 @@
         "value": "无极宗高层",
         "docId": "plot.xianni-1250-wuji-zong-five-tier-competition-lu-yuncong-refuses",
         "seq": 1165
+      },
+      {
+        "value": "无极宗一方长老/要员",
+        "docId": "plot.xianni-1251-chizha-wuji-2-luyuncong-recounts-lu-zihao",
+        "seq": 1165
       }
     ],
     "性格": [
       {
         "value": "傲慢无礼",
         "docId": "plot.xianni-1250-wuji-zong-five-tier-competition-lu-yuncong-refuses",
+        "seq": 1165
+      }
+    ],
+    "外貌": [
+      {
+        "value": "中年男子，姓绉",
+        "docId": "plot.xianni-1251-chizha-wuji-2-luyuncong-recounts-lu-zihao",
         "seq": 1165
       }
     ]
@@ -40,12 +54,19 @@
       "docId": "plot.xianni-1250-wuji-zong-five-tier-competition-lu-yuncong-refuses",
       "dated": false,
       "seq": 1165
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-1251-chizha-wuji-2-luyuncong-recounts-lu-zihao",
+      "dated": false,
+      "seq": 1165
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1250-wuji-zong-five-tier-competition-lu-yuncong-refuses"
+    "plot.xianni-1250-wuji-zong-five-tier-competition-lu-yuncong-refuses",
+    "plot.xianni-1251-chizha-wuji-2-luyuncong-recounts-lu-zihao"
   ],
-  "updatedAt": "2026-08-25T03:58:56.452Z"
+  "updatedAt": "2026-08-25T04:01:25.364Z"
 }
