@@ -849,3 +849,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T22:08:05.543Z** `ingest` plot.xianni-1479-luotian-preparing-for-war-lu-fuzi — 第1479章 备战中的罗天：鲁夫子察觉王林归来 · kind=plot asOf=2026-08-25 entities=31 relations=50 src=01390-01394.p1.md
 - **2026-08-25T22:10:10.609Z** `ingest` plot.xianni-ch1480-most-difficult-old-friends-in-wind-and-rain — 第1480章 最难风雨故人来｜王林重返罗天星域，战空烈星空惊觉、谢青雨中候师 · kind=plot asOf=2026-08-25 entities=21 relations=30 src=01390-01394.p2.md
 - **2026-08-25T22:13:01.278Z** `ingest` plot.xianni-1481-hengyun-rain-sword-xie-qing — 第1481章 今昔横云有雨——王林重返青灵星点化谢青、雨水化剑镇星 · kind=plot asOf=2026-08-25 entities=27 relations=37 src=01390-01394.p3.md
+- **2026-08-25T22:20:05.989Z** `ingest` lore.xianni-1482-dongling-star-xiang-clan — 第1482章 东临星向家：罗天最强上古家族与东临血令 · kind=lore asOf=2026-08-25 entities=44 relations=72 src=01390-01394.p4.md

@@ -5,11 +5,12 @@
   "aliases": [],
   "summary": "王林回忆中的大战：联盟拿出骸狱界的三具顶级炼尸，其中一具受伤后被王林冒险抢到手中。",
   "attributes": {
-    "章节": "第984章（回忆）",
-    "世内时序": "本章之前（回忆）",
-    "参与方": "罗天星域、修真联盟、王林、鲁夫子",
-    "结果": "王林夺得三大顶级炼尸之一",
-    "起因": "鲁夫子发起"
+    "章节": "第1390章（追述）",
+    "世内时序": "本章之前、本章之前（回忆）、王林在罗天的那些日子（本章之前）",
+    "参与方": "罗天星域、修真联盟、王林、鲁夫子、远古修真家族",
+    "结果": "一木子抢夺望月体内月华",
+    "起因": "鲁夫子发起、鲁夫子推动",
+    "经过": "远古家族仅下封真仙诏令、派出第九长老一木子"
   },
   "observations": {
     "章节": [
@@ -17,6 +18,11 @@
         "value": "第984章（回忆）",
         "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
         "seq": 914
+      },
+      {
+        "value": "第1390章（追述）",
+        "docId": "lore.xianni-1482-dongling-star-xiang-clan",
+        "seq": 1390
       }
     ],
     "世内时序": [
@@ -28,6 +34,11 @@
       {
         "value": "本章之前（回忆）",
         "docId": "plot.xianni-1479-luotian-preparing-for-war-lu-fuzi",
+        "seq": 1390
+      },
+      {
+        "value": "王林在罗天的那些日子（本章之前）",
+        "docId": "lore.xianni-1482-dongling-star-xiang-clan",
         "seq": 1390
       }
     ],
@@ -51,6 +62,11 @@
         "value": "鲁夫子",
         "docId": "plot.xianni-1479-luotian-preparing-for-war-lu-fuzi",
         "seq": 1390
+      },
+      {
+        "value": "远古修真家族",
+        "docId": "lore.xianni-1482-dongling-star-xiang-clan",
+        "seq": 1390
       }
     ],
     "结果": [
@@ -58,12 +74,29 @@
         "value": "王林夺得三大顶级炼尸之一",
         "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
         "seq": 914
+      },
+      {
+        "value": "一木子抢夺望月体内月华",
+        "docId": "lore.xianni-1482-dongling-star-xiang-clan",
+        "seq": 1390
       }
     ],
     "起因": [
       {
         "value": "鲁夫子发起",
         "docId": "plot.xianni-1479-luotian-preparing-for-war-lu-fuzi",
+        "seq": 1390
+      },
+      {
+        "value": "鲁夫子推动",
+        "docId": "lore.xianni-1482-dongling-star-xiang-clan",
+        "seq": 1390
+      }
+    ],
+    "经过": [
+      {
+        "value": "远古家族仅下封真仙诏令、派出第九长老一木子",
+        "docId": "lore.xianni-1482-dongling-star-xiang-clan",
         "seq": 1390
       }
     ]
@@ -72,15 +105,15 @@
   "attrProvenance": {
     "章节": {
       "asOf": null,
-      "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
+      "docId": "lore.xianni-1482-dongling-star-xiang-clan",
       "dated": false,
-      "seq": 914
+      "seq": 1390
     },
     "世内时序": {
       "asOf": null,
-      "docId": "plot.xianni-1479-luotian-preparing-for-war-lu-fuzi",
+      "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
       "dated": false,
-      "seq": 1390
+      "seq": 914
     },
     "参与方": {
       "asOf": null,
@@ -90,13 +123,19 @@
     },
     "结果": {
       "asOf": null,
-      "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
+      "docId": "lore.xianni-1482-dongling-star-xiang-clan",
       "dated": false,
-      "seq": 914
+      "seq": 1390
     },
     "起因": {
       "asOf": null,
       "docId": "plot.xianni-1479-luotian-preparing-for-war-lu-fuzi",
+      "dated": false,
+      "seq": 1390
+    },
+    "经过": {
+      "asOf": null,
+      "docId": "lore.xianni-1482-dongling-star-xiang-clan",
       "dated": false,
       "seq": 1390
     }
@@ -105,7 +144,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
-    "plot.xianni-1479-luotian-preparing-for-war-lu-fuzi"
+    "plot.xianni-1479-luotian-preparing-for-war-lu-fuzi",
+    "lore.xianni-1482-dongling-star-xiang-clan"
   ],
-  "updatedAt": "2026-08-25T22:08:05.106Z"
+  "updatedAt": "2026-08-25T22:20:05.571Z"
 }

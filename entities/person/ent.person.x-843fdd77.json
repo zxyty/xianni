@@ -5,14 +5,17 @@
   "aliases": [
     "向家的那位老祖",
     "向家的老祖",
-    "向家老祖宗"
+    "向家老祖宗",
+    "向家仅存的唯一老祖",
+    "棺中沙哑之声"
   ],
   "summary": "向家老祖，一步之间于半空幻化现身，向炎雷子抱拳后落座蒲团观战。",
   "attributes": {
     "身份": "向家老祖",
     "阵营": "向家",
     "外貌": "老者",
-    "标志特征": "闭关数万年"
+    "标志特征": "闭关数万年、栖身人头塔上土黄溃烂棺材，声音沙哑苍老",
+    "存殁": "在世"
   },
   "observations": {
     "身份": [
@@ -42,6 +45,18 @@
         "docId": "plot.xianni-1479-luotian-preparing-for-war-lu-fuzi",
         "seq": 1390,
         "note": "向家倚仗"
+      },
+      {
+        "value": "栖身人头塔上土黄溃烂棺材，声音沙哑苍老",
+        "docId": "lore.xianni-1482-dongling-star-xiang-clan",
+        "seq": 1390
+      }
+    ],
+    "存殁": [
+      {
+        "value": "在世",
+        "docId": "lore.xianni-1482-dongling-star-xiang-clan",
+        "seq": 1390
       }
     ]
   },
@@ -71,6 +86,12 @@
       "dated": false,
       "seq": 1390,
       "note": "向家倚仗"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "lore.xianni-1482-dongling-star-xiang-clan",
+      "dated": false,
+      "seq": 1390
     }
   },
   "contested": false,
@@ -79,7 +100,8 @@
     "plot.xianni-ch866-xi-zi-feng-yan-lei-zi-summons-fengxian-war-begins",
     "plot.xianni-ch813-816-lei-chi-di-zhi-guan-swallow-lei-ling",
     "plot.xianni-1479-luotian-preparing-for-war-lu-fuzi",
-    "plot.xianni-1481-hengyun-rain-sword-xie-qing"
+    "plot.xianni-1481-hengyun-rain-sword-xie-qing",
+    "lore.xianni-1482-dongling-star-xiang-clan"
   ],
-  "updatedAt": "2026-08-25T22:13:00.848Z"
+  "updatedAt": "2026-08-25T22:20:05.535Z"
 }

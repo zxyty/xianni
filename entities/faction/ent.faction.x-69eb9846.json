@@ -7,15 +7,17 @@
     "罗天远古修真家族",
     "神秘的远古修真家族",
     "罗天古族",
-    "罗天唯一传承至远古的修真家族"
+    "罗天唯一传承至远古的修真家族",
+    "姓氏罕有人知的远古家族"
   ],
   "summary": "罗天星域最古老神秘的家族层级，历经上古演变、仙界崩溃、雷仙殿行程与星域变迁，或知远古仙域隐秘。",
   "attributes": {
     "等级": "罗天最强，高于上古修真家族",
-    "理念": "底蕴可怕，神通功法足以傲临罗天",
+    "理念": "隐世不出、万年难现身",
     "所属界面": "罗天星域",
     "阵营": "罗天一方",
-    "据点": "罗天星域"
+    "据点": "罗天星域",
+    "镇派之宝": "不详"
   },
   "observations": {
     "等级": [
@@ -35,6 +37,11 @@
         "value": "底蕴可怕，神通功法足以傲临罗天",
         "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
         "seq": 736
+      },
+      {
+        "value": "隐世不出、万年难现身",
+        "docId": "lore.xianni-1482-dongling-star-xiang-clan",
+        "seq": 1390
       }
     ],
     "所属界面": [
@@ -57,6 +64,13 @@
         "docId": "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
         "seq": 1024
       }
+    ],
+    "镇派之宝": [
+      {
+        "value": "不详",
+        "docId": "lore.xianni-1482-dongling-star-xiang-clan",
+        "seq": 1390
+      }
     ]
   },
   "firstSeq": 736,
@@ -69,9 +83,9 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
+      "docId": "lore.xianni-1482-dongling-star-xiang-clan",
       "dated": false,
-      "seq": 736
+      "seq": 1390
     },
     "所属界面": {
       "asOf": null,
@@ -90,6 +104,12 @@
       "docId": "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
       "dated": false,
       "seq": 1024
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "lore.xianni-1482-dongling-star-xiang-clan",
+      "dated": false,
+      "seq": 1390
     }
   },
   "contested": false,
@@ -98,7 +118,8 @@
     "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
     "plot.xianni-820-luotian-fengxian-yaojia-tianqiongling",
     "plot.xianni-ch934-chase-into-wangyue-mouth",
-    "plot.xianni-ch1109-zhuque-old-shenghuang-guixu"
+    "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
+    "lore.xianni-1482-dongling-star-xiang-clan"
   ],
-  "updatedAt": "2026-08-24T15:34:45.615Z"
+  "updatedAt": "2026-08-25T22:20:05.556Z"
 }

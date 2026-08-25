@@ -8,7 +8,8 @@
   "summary": "东临星三大最强家族之一，实力深不可测。",
   "attributes": {
     "据点": "东临星",
-    "等级": "东临星三大最强家族之一"
+    "等级": "东临星三大最强家族之一",
+    "镇派之宝": "九生血葵术"
   },
   "observations": {
     "据点": [
@@ -23,6 +24,13 @@
         "value": "东临星三大最强家族之一",
         "docId": "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
         "seq": 626
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "九生血葵术",
+        "docId": "lore.xianni-1482-dongling-star-xiang-clan",
+        "seq": 1390
       }
     ]
   },
@@ -39,12 +47,19 @@
       "docId": "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
       "dated": false,
       "seq": 626
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "lore.xianni-1482-dongling-star-xiang-clan",
+      "dated": false,
+      "seq": 1390
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch670-sun-tai-reunion-cause-and-effect"
+    "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
+    "lore.xianni-1482-dongling-star-xiang-clan"
   ],
-  "updatedAt": "2026-08-22T22:42:44.921Z"
+  "updatedAt": "2026-08-25T22:20:05.501Z"
 }
