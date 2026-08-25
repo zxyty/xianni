@@ -5,14 +5,18 @@
   "aliases": [
     "散灵上人",
     "无发的慈祥青年",
-    "踏虚而来的光头青年"
+    "踏虚而来的光头青年",
+    "San Ling Shang Ren",
+    "拿走尸体的光头青年"
   ],
   "summary": "尸体坠落后现身的无发慈祥青年，被元婴后期老者疑为「散灵上人」，答以「如你想，则我是」，取走尸体并暗忖王林「或许不是雷奴」；修为隐隐达净涅。",
   "attributes": {
     "小阶段": "隐隐达到净涅",
-    "外貌": "没有头发、光光的头顶、容颜慈祥",
+    "外貌": "没有头发、光光的头顶、容颜慈祥、光头青年",
     "称号": "散灵上人",
-    "性格": "柔和、超然"
+    "性格": "柔和、超然",
+    "身份": "一路尾随王林者",
+    "存殁": "在世"
   },
   "observations": {
     "小阶段": [
@@ -26,6 +30,11 @@
       {
         "value": "没有头发、光光的头顶、容颜慈祥",
         "docId": "plot.xianni-1341-i-am-the-heavenly-tribulation",
+        "seq": 1255
+      },
+      {
+        "value": "光头青年",
+        "docId": "plot.xianni-1343-bait-wang-lin-slaughters-shan-lei-clan",
         "seq": 1255
       }
     ],
@@ -41,6 +50,21 @@
       {
         "value": "柔和、超然",
         "docId": "plot.xianni-1341-i-am-the-heavenly-tribulation",
+        "seq": 1255
+      }
+    ],
+    "身份": [
+      {
+        "value": "一路尾随王林者",
+        "docId": "plot.xianni-1343-bait-wang-lin-slaughters-shan-lei-clan",
+        "seq": 1255,
+        "note": "动机未明"
+      }
+    ],
+    "存殁": [
+      {
+        "value": "在世",
+        "docId": "plot.xianni-1343-bait-wang-lin-slaughters-shan-lei-clan",
         "seq": 1255
       }
     ]
@@ -71,12 +95,26 @@
       "docId": "plot.xianni-1341-i-am-the-heavenly-tribulation",
       "dated": false,
       "seq": 1255
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-1343-bait-wang-lin-slaughters-shan-lei-clan",
+      "dated": false,
+      "seq": 1255,
+      "note": "动机未明"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1343-bait-wang-lin-slaughters-shan-lei-clan",
+      "dated": false,
+      "seq": 1255
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1341-i-am-the-heavenly-tribulation"
+    "plot.xianni-1341-i-am-the-heavenly-tribulation",
+    "plot.xianni-1343-bait-wang-lin-slaughters-shan-lei-clan"
   ],
-  "updatedAt": "2026-08-25T11:47:47.431Z"
+  "updatedAt": "2026-08-25T11:52:53.475Z"
 }
