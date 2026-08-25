@@ -6,8 +6,10 @@
   "summary": "王林所属蚊兽的首领，速度极快，率十余只蚊兽在山崩神通内不受火焰侵扰，撕杀先前掠夺同族的修士复仇。",
   "attributes": {
     "主人": "王林",
-    "能力": "速度极快、山崩火毒中不受侵扰",
-    "外形": "巨蚊，一双冰冷的眼"
+    "能力": "速度极快、山崩火毒中不受侵扰、统御蚊兽群、以蚊群气息掩藏主人行踪、统御约五千只蚊兽的小型蚊群",
+    "外形": "冷漠冰寒的双眼",
+    "种族": "蚊兽",
+    "栖息地": "风仙界"
   },
   "observations": {
     "主人": [
@@ -27,6 +29,16 @@
         "value": "山崩火毒中不受侵扰",
         "docId": "plot.xianni-1106-yi-shan-er-beng",
         "seq": 1024
+      },
+      {
+        "value": "统御蚊兽群、以蚊群气息掩藏主人行踪",
+        "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
+        "seq": 1160
+      },
+      {
+        "value": "统御约五千只蚊兽的小型蚊群",
+        "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
+        "seq": 1160
       }
     ],
     "外形": [
@@ -34,6 +46,25 @@
         "value": "巨蚊，一双冰冷的眼",
         "docId": "plot.xianni-1106-yi-shan-er-beng",
         "seq": 1024
+      },
+      {
+        "value": "冷漠冰寒的双眼",
+        "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
+        "seq": 1160
+      }
+    ],
+    "种族": [
+      {
+        "value": "蚊兽",
+        "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
+        "seq": 1160
+      }
+    ],
+    "栖息地": [
+      {
+        "value": "风仙界",
+        "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
+        "seq": 1160
       }
     ]
   },
@@ -53,15 +84,28 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-1106-yi-shan-er-beng",
+      "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
       "dated": false,
-      "seq": 1024
+      "seq": 1160
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
+      "dated": false,
+      "seq": 1160
+    },
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
+      "dated": false,
+      "seq": 1160
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1106-yi-shan-er-beng"
+    "plot.xianni-1106-yi-shan-er-beng",
+    "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules"
   ],
-  "updatedAt": "2026-08-24T15:22:21.644Z"
+  "updatedAt": "2026-08-25T03:24:48.105Z"
 }

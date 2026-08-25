@@ -4,12 +4,13 @@
   "name": "紫色星球",
   "aliases": [
     "紫色星辰",
-    "吉穷所出的紫色星球"
+    "吉穷所出的紫色星球",
+    "裂缝内星空中的紫色星球"
   ],
   "summary": "贪狼回忆中位于一片灰色气息星空里的唯一星球，其外密布近乎无边无际的蚊兽群，威压骇人。",
   "attributes": {
     "类型": "星球",
-    "特产": "蚊兽（无边无际）",
+    "特产": "口器凶兽",
     "危险度": "极高",
     "方位": "漆黑星空深处"
   },
@@ -26,6 +27,11 @@
         "value": "蚊兽（无边无际）",
         "docId": "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua",
         "seq": 605
+      },
+      {
+        "value": "口器凶兽",
+        "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
+        "seq": 1160
       }
     ],
     "危险度": [
@@ -53,9 +59,9 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua",
+      "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
       "dated": false,
-      "seq": 605
+      "seq": 1160
     },
     "危险度": {
       "asOf": null,
@@ -74,7 +80,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-642-wanglin-rui-zhi-tanlang-zi-wu-jihua",
-    "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass"
+    "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass",
+    "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules"
   ],
-  "updatedAt": "2026-08-24T16:52:32.559Z"
+  "updatedAt": "2026-08-25T03:24:48.099Z"
 }

@@ -9,7 +9,9 @@
   "attributes": {
     "主人": "王林",
     "外形": "淡金色",
-    "能力": "嘶鸣号令蚊兽群"
+    "能力": "嘶鸣号令蚊兽群、嘶鸣号令数千蚊兽、自主判断与扣留来犯修士",
+    "种族": "蚊兽",
+    "栖息地": "风界"
   },
   "observations": {
     "主人": [
@@ -31,6 +33,30 @@
         "value": "嘶鸣号令蚊兽群",
         "docId": "plot.xianni-1241-ta-lai-le-me",
         "seq": 1155
+      },
+      {
+        "value": "嘶鸣号令数千蚊兽",
+        "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
+        "seq": 1160
+      },
+      {
+        "value": "自主判断与扣留来犯修士",
+        "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
+        "seq": 1160
+      }
+    ],
+    "种族": [
+      {
+        "value": "蚊兽",
+        "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
+        "seq": 1160
+      }
+    ],
+    "栖息地": [
+      {
+        "value": "风界",
+        "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
+        "seq": 1160
       }
     ]
   },
@@ -53,12 +79,25 @@
       "docId": "plot.xianni-1241-ta-lai-le-me",
       "dated": false,
       "seq": 1155
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
+      "dated": false,
+      "seq": 1160
+    },
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
+      "dated": false,
+      "seq": 1160
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1241-ta-lai-le-me"
+    "plot.xianni-1241-ta-lai-le-me",
+    "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules"
   ],
-  "updatedAt": "2026-08-25T03:05:44.105Z"
+  "updatedAt": "2026-08-25T03:24:48.143Z"
 }

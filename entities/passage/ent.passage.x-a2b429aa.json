@@ -5,12 +5,13 @@
   "aliases": [
     "风仙界残破入口",
     "风界入口裂缝",
-    "风界裂缝"
+    "风界裂缝",
+    "通往风界的裂缝"
   ],
   "summary": "位于八阶星域内、通往风仙界的巨大撕裂状裂缝，外有密密麻麻的蚊兽群把守，不需风鼎即可强冲进入。",
   "attributes": {
-    "类型": "空间裂缝／界面入口",
-    "两端": "八阶星域 ↔ 风仙界",
+    "类型": "空间裂缝",
+    "两端": "外界—风界",
     "可通行境界": "须人多且有大神通修士，或数个大神通老怪结伴方可强闯",
     "守护": "密密麻麻的蚊兽群",
     "来历": "风仙界当年被破坏所致的残破入口"
@@ -21,6 +22,11 @@
         "value": "空间裂缝／界面入口",
         "docId": "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm",
         "seq": 1151
+      },
+      {
+        "value": "空间裂缝",
+        "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
+        "seq": 1160
       }
     ],
     "两端": [
@@ -28,6 +34,11 @@
         "value": "八阶星域 ↔ 风仙界",
         "docId": "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm",
         "seq": 1151
+      },
+      {
+        "value": "外界—风界",
+        "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
+        "seq": 1160
       }
     ],
     "可通行境界": [
@@ -56,15 +67,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm",
+      "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
       "dated": false,
-      "seq": 1151
+      "seq": 1160
     },
     "两端": {
       "asOf": null,
-      "docId": "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm",
+      "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
       "dated": false,
-      "seq": 1151
+      "seq": 1160
     },
     "可通行境界": {
       "asOf": null,
@@ -88,7 +99,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm"
+    "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm",
+    "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules"
   ],
-  "updatedAt": "2026-08-25T02:48:21.963Z"
+  "updatedAt": "2026-08-25T03:24:48.153Z"
 }

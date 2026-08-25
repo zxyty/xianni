@@ -634,3 +634,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T03:01:36.275Z** `ingest` plot.xianni-1239-guiyuanzong-mosquito-king-song-luohai — 第1239章 归元宗：蚊王立威诛宋洛海，无极宗分宗大比归元宗遭欺 · kind=plot asOf=2026-08-25 entities=27 relations=40 src=01155-01159.p3.md
 - **2026-08-25T03:03:47.663Z** `ingest` plot.xianni-ch1240-li-qianmei-arrives-wuji-sect — 仙逆 第1240章 李倩梅（卢云从对峙吕英杰与赵龙；李倩梅降临无极宗寻归元宗） · kind=plot asOf=2026-08-25 entities=21 relations=32 src=01155-01159.p4.md
 - **2026-08-25T03:05:44.427Z** `ingest` plot.xianni-1241-ta-lai-le-me — 仙逆 第1241章 他，来了么——李倩梅问归元宗，斩赵龙留吕英杰 · kind=plot asOf=2026-08-25 entities=22 relations=31 src=01155-01159.p5.md
+- **2026-08-25T03:24:48.548Z** `ingest` plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules — 仙逆 第1160-1164章 风仙界巨门·残夜之后与第九道规则 · kind=plot asOf=2026-08-25 entities=57 relations=111 src=01160-01164.md
