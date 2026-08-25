@@ -14,17 +14,22 @@
     "七彩界至深处白发老者",
     "山顶白发老者",
     "七彩界白发老者",
-    "七彩界守界之人"
+    "七彩界守界之人",
+    "自称封灭族后人的老者",
+    "碎涅后期修士",
+    "神宗弟子出身的老者"
   ],
   "summary": "隐于城池、气势骤升的高手，骑乘玄武穿行修魔海黑雾，身份未明。",
   "attributes": {
-    "外貌": "驼背白发老者、白发苍苍、白发老者、一头白发飘逸，宽大衣衫、白发老者，背负双手、白发",
-    "身份": "高手、炼器阁掌权之人、炼器阁相关人士、疑似申公虎口中的『前辈·高人』、筹划数万年庞大计划者、七彩界至深处的神秘存在、守护者、似受太古星辰宫殿内存在指令、七彩界至深处的修士、七彩界守界之人、尊者所遣取魂者",
+    "外貌": "驼背白发老者、白发苍苍、白发老者、一头白发飘逸，宽大衣衫、白发老者，背负双手、白发、施展封天之术后变得无限苍老",
+    "身份": "高手、炼器阁掌权之人、炼器阁相关人士、疑似申公虎口中的『前辈·高人』、筹划数万年庞大计划者、七彩界至深处的神秘存在、守护者、似受太古星辰宫殿内存在指令、七彩界至深处的修士、七彩界守界之人、尊者所遣取魂者、并非修士，具封灭族部分血脉者",
     "性别": "男",
     "本命法宝": "紫红棺材",
     "性格": "戏谑、纠缠不放、见多识广、爽朗好谈、闲适好奇，喜以试炼戏弄有缘人、定力极高、桀骜自负、此刻难掩兴奋、见闻识广",
-    "标志特征": "消失时化作无数晶点、隐约透出回归本源的气息、身外环绕九块兽骨碎片",
-    "存殁": "存活"
+    "标志特征": "消失时化作无数晶点、隐约透出回归本源的气息、身外环绕九块兽骨碎片、眉心裂开如第三只眼、散发黑芒、身外九个兽骨（本章被蓝焰焚碎）",
+    "存殁": "存活",
+    "阵营": "太古之族一方（听命于「尊者」）",
+    "寿元": "施展封天之术耗费大量生机且永不可恢复"
   },
   "observations": {
     "外貌": [
@@ -58,6 +63,12 @@
         "value": "白发",
         "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
         "seq": 1119
+      },
+      {
+        "value": "施展封天之术后变得无限苍老",
+        "docId": "plot.xianni-ch1212-feng-mie-zu-seal-flame-totem",
+        "seq": 1127,
+        "note": "符文吸收其生机所致"
       }
     ],
     "身份": [
@@ -119,6 +130,12 @@
         "value": "尊者所遣取魂者",
         "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
         "seq": 1127
+      },
+      {
+        "value": "并非修士，具封灭族部分血脉者",
+        "docId": "plot.xianni-ch1212-feng-mie-zu-seal-flame-totem",
+        "seq": 1127,
+        "note": "本章为逼退王林火焰而主动暴露"
       }
     ],
     "性别": [
@@ -177,6 +194,16 @@
         "value": "身外环绕九块兽骨碎片",
         "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
         "seq": 1127
+      },
+      {
+        "value": "眉心裂开如第三只眼、散发黑芒",
+        "docId": "plot.xianni-ch1212-feng-mie-zu-seal-flame-totem",
+        "seq": 1127
+      },
+      {
+        "value": "身外九个兽骨（本章被蓝焰焚碎）",
+        "docId": "plot.xianni-ch1212-feng-mie-zu-seal-flame-totem",
+        "seq": 1127
       }
     ],
     "存殁": [
@@ -184,6 +211,21 @@
         "value": "存活",
         "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
         "seq": 1127
+      }
+    ],
+    "阵营": [
+      {
+        "value": "太古之族一方（听命于「尊者」）",
+        "docId": "plot.xianni-ch1212-feng-mie-zu-seal-flame-totem",
+        "seq": 1127
+      }
+    ],
+    "寿元": [
+      {
+        "value": "施展封天之术耗费大量生机且永不可恢复",
+        "docId": "plot.xianni-ch1212-feng-mie-zu-seal-flame-totem",
+        "seq": 1127,
+        "note": "本章施展一次"
       }
     ]
   },
@@ -231,6 +273,19 @@
       "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
       "dated": false,
       "seq": 1127
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1212-feng-mie-zu-seal-flame-totem",
+      "dated": false,
+      "seq": 1127
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1212-feng-mie-zu-seal-flame-totem",
+      "dated": false,
+      "seq": 1127,
+      "note": "本章施展一次"
     }
   },
   "contested": false,
@@ -244,7 +299,8 @@
     "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
     "plot.xianni-1209-yueshi-clan-ancient-god-statues-collapse",
     "plot.xianni-1210-blue-vermillion-bird-third-awakening",
-    "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes"
+    "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
+    "plot.xianni-ch1212-feng-mie-zu-seal-flame-totem"
   ],
-  "updatedAt": "2026-08-25T00:53:51.242Z"
+  "updatedAt": "2026-08-25T00:56:04.515Z"
 }
