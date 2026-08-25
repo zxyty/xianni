@@ -1,67 +1,55 @@
 {
-  "id": "ent.place.x-d7f5f845",
+  "id": "ent.place.x-423d74fe",
   "type": "place",
-  "name": "朱雀星凡人皇城",
+  "name": "修真星都城",
   "aliases": [
-    "凡人皇城",
-    "皇城",
-    "修真星都城皇城",
-    "东处皇城"
+    "小族修真星都城",
+    "王林入凡所在都城"
   ],
-  "summary": "朱雀星上的凡人皇城，距王林与大头童子交战处不远，城中密室供奉王氏一族先祖灵位。",
+  "summary": "该修真星上的都城，人声鼎沸、车水马龙，商铺酒楼济济一堂，城中修士不少，东处皇城所在更有修士近百。",
   "attributes": {
-    "所属界面": "朱雀星",
-    "类型": "皇城",
-    "方位": "都城东处",
-    "上级区域": "修真星都城"
+    "所属界面": "无名小族修真星",
+    "类型": "凡人都城",
+    "规模": "不下千万人",
+    "上级区域": "无名小族修真星"
   },
   "observations": {
     "所属界面": [
       {
-        "value": "朱雀星",
-        "docId": "plot.xianni-ch890-datou-tongzi-battle",
-        "seq": 830
-      }
-    ],
-    "类型": [
-      {
-        "value": "凡人皇城",
-        "docId": "plot.xianni-ch890-datou-tongzi-battle",
-        "seq": 830
-      },
-      {
-        "value": "皇城",
+        "value": "无名小族修真星",
         "docId": "plot.xianni-ch1362-dunchen-lianlei-zhong-dahong-touji",
         "seq": 1275
       }
     ],
-    "方位": [
+    "类型": [
       {
-        "value": "王林与大头童子交战处不远",
-        "docId": "plot.xianni-ch890-datou-tongzi-battle",
-        "seq": 830
-      },
+        "value": "凡人都城",
+        "docId": "plot.xianni-ch1362-dunchen-lianlei-zhong-dahong-touji",
+        "seq": 1275
+      }
+    ],
+    "规模": [
       {
-        "value": "都城东处",
+        "value": "不下千万人",
         "docId": "plot.xianni-ch1362-dunchen-lianlei-zhong-dahong-touji",
         "seq": 1275
       }
     ],
     "上级区域": [
       {
-        "value": "修真星都城",
+        "value": "无名小族修真星",
         "docId": "plot.xianni-ch1362-dunchen-lianlei-zhong-dahong-touji",
         "seq": 1275
       }
     ]
   },
-  "firstSeq": 830,
+  "firstSeq": 1275,
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch890-datou-tongzi-battle",
+      "docId": "plot.xianni-ch1362-dunchen-lianlei-zhong-dahong-touji",
       "dated": false,
-      "seq": 830
+      "seq": 1275
     },
     "类型": {
       "asOf": null,
@@ -69,7 +57,7 @@
       "dated": false,
       "seq": 1275
     },
-    "方位": {
+    "规模": {
       "asOf": null,
       "docId": "plot.xianni-ch1362-dunchen-lianlei-zhong-dahong-touji",
       "dated": false,
@@ -85,8 +73,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch890-datou-tongzi-battle",
     "plot.xianni-ch1362-dunchen-lianlei-zhong-dahong-touji"
   ],
-  "updatedAt": "2026-08-25T12:39:06.024Z"
+  "updatedAt": "2026-08-25T12:39:06.023Z"
 }

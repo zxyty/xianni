@@ -742,3 +742,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T12:31:44.691Z** `ingest` plot.xianni-1360-flash-lightning-clan-array-broken — 仙逆 第1360章 精神支柱坍塌！——王林九龙归位破闪雷族护族大阵 · kind=plot asOf=2026-08-25 entities=14 relations=22 src=01275-01279.p1.md
 - **2026-08-25T12:34:09.758Z** `ingest` plot.xianni-ch1361-shanleizu-shengdi-buminleiting-tug — 第1361章 给我下来！！——王林亮出大长老元神、破圣地夺不灭雷霆 · kind=plot asOf=2026-08-25 entities=22 relations=36 src=01275-01279.p2.md
 - **2026-08-25T12:36:33.441Z** `ingest` plot.xianni-1362-tiandao-envoy-reappears — 第1362章 天道使者再现！——王林夺不灭雷霆，怒斩天道使者手掌 · kind=plot asOf=2026-08-25 entities=23 relations=31 src=01275-01279.p3.md
+- **2026-08-25T12:39:06.452Z** `ingest` plot.xianni-ch1362-dunchen-lianlei-zhong-dahong-touji — 第1362章 遁尘炼雷：天道使者晶掌、钟大洪叛族投主、王林隐入凡尘 · kind=plot asOf=2026-08-25 entities=28 relations=37 src=01275-01279.p4.md
