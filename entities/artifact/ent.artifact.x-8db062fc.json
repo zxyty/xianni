@@ -9,14 +9,18 @@
     "虚空储物裂缝",
     "储物空间裂缝",
     "吴青的储物裂缝",
-    "王林的储物空间"
+    "王林的储物空间",
+    "王林的第二道储物空间",
+    "容纳蚊兽的储物空间"
   ],
   "summary": "王林心念一动即可出现的储物空间，本章用以收纳许立国大剑。",
   "attributes": {
     "持有者": "王林",
-    "能力": "虚空开启、可存放活物与符纸",
-    "外形": "空间裂缝",
-    "品阶": "净涅以上修士所用"
+    "能力": "心念一动出现，收纳物品、虚空开启、可存放活物与符纸、容纳上万蚊兽、内蕴充足仙元之力",
+    "外形": "约千丈大小的虚空缝隙",
+    "品阶": "净涅以上修士所用",
+    "禁制": "雷霆环绕稳固裂缝边缘",
+    "来历": "净涅之后凭自身神通开辟"
   },
   "observations": {
     "持有者": [
@@ -36,6 +40,16 @@
         "value": "虚空开启、可存放活物与符纸",
         "docId": "plot.xianni-1151-lai-de-hao-kuai-heiyuan-yaocao-wudumen",
         "seq": 1068
+      },
+      {
+        "value": "容纳上万蚊兽",
+        "docId": "plot.xianni-1249-mu-bing-mei-storage-rift-suo-di-cheng-cun",
+        "seq": 1165
+      },
+      {
+        "value": "内蕴充足仙元之力",
+        "docId": "plot.xianni-1249-mu-bing-mei-storage-rift-suo-di-cheng-cun",
+        "seq": 1165
       }
     ],
     "外形": [
@@ -43,6 +57,11 @@
         "value": "空间裂缝",
         "docId": "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell",
         "seq": 1024
+      },
+      {
+        "value": "约千丈大小的虚空缝隙",
+        "docId": "plot.xianni-1249-mu-bing-mei-storage-rift-suo-di-cheng-cun",
+        "seq": 1165
       }
     ],
     "品阶": [
@@ -50,6 +69,20 @@
         "value": "净涅以上修士所用",
         "docId": "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
         "seq": 1091
+      }
+    ],
+    "禁制": [
+      {
+        "value": "雷霆环绕稳固裂缝边缘",
+        "docId": "plot.xianni-1249-mu-bing-mei-storage-rift-suo-di-cheng-cun",
+        "seq": 1165
+      }
+    ],
+    "来历": [
+      {
+        "value": "净涅之后凭自身神通开辟",
+        "docId": "plot.xianni-1249-mu-bing-mei-storage-rift-suo-di-cheng-cun",
+        "seq": 1165
       }
     ]
   },
@@ -63,21 +96,33 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-1151-lai-de-hao-kuai-heiyuan-yaocao-wudumen",
-      "dated": false,
-      "seq": 1068
-    },
-    "外形": {
-      "asOf": null,
       "docId": "plot.xianni-ch1110-rain-realm-reopens-tashan-farewell",
       "dated": false,
       "seq": 1024
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.xianni-1249-mu-bing-mei-storage-rift-suo-di-cheng-cun",
+      "dated": false,
+      "seq": 1165
     },
     "品阶": {
       "asOf": null,
       "docId": "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
       "dated": false,
       "seq": 1091
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-1249-mu-bing-mei-storage-rift-suo-di-cheng-cun",
+      "dated": false,
+      "seq": 1165
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-1249-mu-bing-mei-storage-rift-suo-di-cheng-cun",
+      "dated": false,
+      "seq": 1165
     }
   },
   "contested": false,
@@ -93,7 +138,8 @@
     "plot.xianni-1174-you-came-too-late-wang-lin-vs-wu-qing",
     "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan",
     "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
-    "plot.xianni-1206-zhan-xingye-daotong-jiewai-sanren-tuxi"
+    "plot.xianni-1206-zhan-xingye-daotong-jiewai-sanren-tuxi",
+    "plot.xianni-1249-mu-bing-mei-storage-rift-suo-di-cheng-cun"
   ],
-  "updatedAt": "2026-08-25T00:32:11.215Z"
+  "updatedAt": "2026-08-25T03:56:31.305Z"
 }
