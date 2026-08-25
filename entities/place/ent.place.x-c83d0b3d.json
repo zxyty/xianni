@@ -3,13 +3,16 @@
   "type": "place",
   "name": "王林闭关的山峰",
   "aliases": [
-    "雪封山峰"
+    "雪封山峰",
+    "蓝丝族山峰",
+    "王林所在山峰"
   ],
   "summary": "王林盘膝闭关四月余的山巅，冬季为厚雪覆盖如雪山，仅数处黑色山石点缀。",
   "attributes": {
     "上级区域": "王林悟道的修真星",
-    "类型": "山峰",
-    "方位": "该修真星之上"
+    "类型": "闭关修炼之地",
+    "方位": "该修真星之上",
+    "所属界面": "蓝丝族修真星"
   },
   "observations": {
     "上级区域": [
@@ -24,6 +27,11 @@
         "value": "山峰",
         "docId": "plot.xianni-1321-third-step-membrane",
         "seq": 1232
+      },
+      {
+        "value": "闭关修炼之地",
+        "docId": "plot.xianni-ch1322-yibian-fusion-of-fengxian-seal-and-huhuan-huanyu-realm",
+        "seq": 1237
       }
     ],
     "方位": [
@@ -31,6 +39,13 @@
         "value": "该修真星之上",
         "docId": "plot.xianni-1321-third-step-membrane",
         "seq": 1232
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "蓝丝族修真星",
+        "docId": "plot.xianni-ch1322-yibian-fusion-of-fengxian-seal-and-huhuan-huanyu-realm",
+        "seq": 1237
       }
     ]
   },
@@ -44,21 +59,28 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1321-third-step-membrane",
+      "docId": "plot.xianni-ch1322-yibian-fusion-of-fengxian-seal-and-huhuan-huanyu-realm",
       "dated": false,
-      "seq": 1232
+      "seq": 1237
     },
     "方位": {
       "asOf": null,
       "docId": "plot.xianni-1321-third-step-membrane",
       "dated": false,
       "seq": 1232
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1322-yibian-fusion-of-fengxian-seal-and-huhuan-huanyu-realm",
+      "dated": false,
+      "seq": 1237
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1321-third-step-membrane"
+    "plot.xianni-1321-third-step-membrane",
+    "plot.xianni-ch1322-yibian-fusion-of-fengxian-seal-and-huhuan-huanyu-realm"
   ],
-  "updatedAt": "2026-08-25T09:53:55.450Z"
+  "updatedAt": "2026-08-25T09:56:19.410Z"
 }
