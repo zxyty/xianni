@@ -5,8 +5,8 @@
   "aliases": [],
   "summary": "闪雷族人眉心的印记，开启后换取雷霆之力，兼具储物之用；王林推断各族族印形态不一（如蓝丝族的蓝色头发）。",
   "attributes": {
-    "类型": "血脉/门徒印记",
-    "用途": "开启换取雷霆之力、储物"
+    "类型": "身份印记",
+    "用途": "开启换取雷霆之力、储物、闪雷族身份标识，可被夺取"
   },
   "observations": {
     "类型": [
@@ -14,6 +14,11 @@
         "value": "血脉/门徒印记",
         "docId": "plot.xianni-1334-frightening-guess-thunder-seal-study",
         "seq": 1246
+      },
+      {
+        "value": "身份印记",
+        "docId": "plot.xianni-1341-i-am-the-heavenly-tribulation",
+        "seq": 1255
       }
     ],
     "用途": [
@@ -26,6 +31,11 @@
         "value": "储物",
         "docId": "plot.xianni-1334-frightening-guess-thunder-seal-study",
         "seq": 1246
+      },
+      {
+        "value": "闪雷族身份标识，可被夺取",
+        "docId": "plot.xianni-1341-i-am-the-heavenly-tribulation",
+        "seq": 1255
       }
     ]
   },
@@ -33,9 +43,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1334-frightening-guess-thunder-seal-study",
+      "docId": "plot.xianni-1341-i-am-the-heavenly-tribulation",
       "dated": false,
-      "seq": 1246
+      "seq": 1255
     },
     "用途": {
       "asOf": null,
@@ -47,7 +57,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1334-frightening-guess-thunder-seal-study"
+    "plot.xianni-1334-frightening-guess-thunder-seal-study",
+    "plot.xianni-1341-i-am-the-heavenly-tribulation"
   ],
-  "updatedAt": "2026-08-25T11:25:36.732Z"
+  "updatedAt": "2026-08-25T11:47:47.442Z"
 }

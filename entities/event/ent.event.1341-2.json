@@ -1,64 +1,69 @@
 {
-  "id": "ent.person.x-d6c59f45",
-  "type": "person",
-  "name": "周姓修士",
+  "id": "ent.event.1341-2",
+  "type": "event",
+  "name": "第1341章 仙人尸体坠落下界",
   "aliases": [
-    "那周姓修士",
-    "周姓问鼎修士"
+    "仙人尸体坠落",
+    "这就是你们眼中的仙人"
   ],
-  "summary": "张景云一伙之一，性情谨慎；向新人道破天劫渐强的真实用意——逼出下界修士的不屈之意以催生灵念之雷。",
+  "summary": "阴虚修士尸体坠落时仙气层层剥落，数千下界修士发现「仙人」其实只是更强的修士，王林留下祛魅之语后离去。",
   "attributes": {
-    "性格": "谨慎多虑、冷漠狠毒",
-    "阵营": "闪雷族",
-    "小阶段": "问鼎中期以上",
-    "存殁": "死亡",
-    "死因": "被王林极境红色闪电轰入体内",
-    "结局": "第1341章死于王林之手"
+    "章节": "第1341章",
+    "地点": "下界修真星大地",
+    "参与方": "王林、旁观的阴虚修士、光头青年",
+    "起因": "王林击杀阴虚修士，尸身完整坠落",
+    "结果": "数千修士震撼，光头青年虚空取走尸体",
+    "影响": "王林身影永生永世烙印于数千修士心中"
   },
   "observations": {
-    "性格": [
+    "章节": [
       {
-        "value": "谨慎多虑",
-        "docId": "plot.xianni-1340-tianjie-tiandao-lubei-dujie",
+        "value": "第1341章",
+        "docId": "plot.xianni-1341-i-am-the-heavenly-tribulation",
+        "seq": 1255
+      }
+    ],
+    "地点": [
+      {
+        "value": "下界修真星大地",
+        "docId": "plot.xianni-1341-i-am-the-heavenly-tribulation",
+        "seq": 1255
+      }
+    ],
+    "参与方": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-1341-i-am-the-heavenly-tribulation",
         "seq": 1255
       },
       {
-        "value": "冷漠狠毒",
+        "value": "旁观的阴虚修士",
+        "docId": "plot.xianni-1341-i-am-the-heavenly-tribulation",
+        "seq": 1255
+      },
+      {
+        "value": "光头青年",
         "docId": "plot.xianni-1341-i-am-the-heavenly-tribulation",
         "seq": 1255
       }
     ],
-    "阵营": [
+    "起因": [
       {
-        "value": "闪雷族",
+        "value": "王林击杀阴虚修士，尸身完整坠落",
         "docId": "plot.xianni-1341-i-am-the-heavenly-tribulation",
         "seq": 1255
       }
     ],
-    "小阶段": [
+    "结果": [
       {
-        "value": "问鼎中期以上",
+        "value": "数千修士震撼，光头青年虚空取走尸体",
         "docId": "plot.xianni-1341-i-am-the-heavenly-tribulation",
         "seq": 1255
       }
     ],
-    "存殁": [
+    "影响": [
       {
-        "value": "死亡",
-        "docId": "plot.xianni-1341-i-am-the-heavenly-tribulation",
-        "seq": 1255
-      }
-    ],
-    "死因": [
-      {
-        "value": "被王林极境红色闪电轰入体内",
-        "docId": "plot.xianni-1341-i-am-the-heavenly-tribulation",
-        "seq": 1255
-      }
-    ],
-    "结局": [
-      {
-        "value": "第1341章死于王林之手",
+        "value": "王林身影永生永世烙印于数千修士心中",
         "docId": "plot.xianni-1341-i-am-the-heavenly-tribulation",
         "seq": 1255
       }
@@ -66,37 +71,37 @@
   },
   "firstSeq": 1255,
   "attrProvenance": {
-    "性格": {
-      "asOf": null,
-      "docId": "plot.xianni-1340-tianjie-tiandao-lubei-dujie",
-      "dated": false,
-      "seq": 1255
-    },
-    "阵营": {
+    "章节": {
       "asOf": null,
       "docId": "plot.xianni-1341-i-am-the-heavenly-tribulation",
       "dated": false,
       "seq": 1255
     },
-    "小阶段": {
+    "地点": {
       "asOf": null,
       "docId": "plot.xianni-1341-i-am-the-heavenly-tribulation",
       "dated": false,
       "seq": 1255
     },
-    "存殁": {
+    "参与方": {
       "asOf": null,
       "docId": "plot.xianni-1341-i-am-the-heavenly-tribulation",
       "dated": false,
       "seq": 1255
     },
-    "死因": {
+    "起因": {
       "asOf": null,
       "docId": "plot.xianni-1341-i-am-the-heavenly-tribulation",
       "dated": false,
       "seq": 1255
     },
-    "结局": {
+    "结果": {
+      "asOf": null,
+      "docId": "plot.xianni-1341-i-am-the-heavenly-tribulation",
+      "dated": false,
+      "seq": 1255
+    },
+    "影响": {
       "asOf": null,
       "docId": "plot.xianni-1341-i-am-the-heavenly-tribulation",
       "dated": false,
@@ -106,8 +111,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1340-tianjie-tiandao-lubei-dujie",
     "plot.xianni-1341-i-am-the-heavenly-tribulation"
   ],
-  "updatedAt": "2026-08-25T11:47:47.429Z"
+  "updatedAt": "2026-08-25T11:47:47.445Z"
 }
