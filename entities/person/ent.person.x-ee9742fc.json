@@ -4,12 +4,14 @@
   "name": "冯海",
   "aliases": [
     "冯道友",
-    "无极宗冯海"
+    "无极宗冯海",
+    "冯长老"
   ],
   "summary": "无极宗老者，本次分宗大比盛典负责人，率六长老与数百门人迎接李倩梅。",
   "attributes": {
-    "身份": "无极宗分宗大比盛典负责人",
-    "外貌": "老者"
+    "身份": "无极宗分宗大比盛典负责人、无极宗长老",
+    "外貌": "老者",
+    "性别": "男"
   },
   "observations": {
     "身份": [
@@ -17,12 +19,24 @@
         "value": "无极宗分宗大比盛典负责人",
         "docId": "plot.xianni-ch1240-li-qianmei-arrives-wuji-sect",
         "seq": 1155
+      },
+      {
+        "value": "无极宗长老",
+        "docId": "plot.xianni-1241-ta-lai-le-me",
+        "seq": 1155
       }
     ],
     "外貌": [
       {
         "value": "老者",
         "docId": "plot.xianni-ch1240-li-qianmei-arrives-wuji-sect",
+        "seq": 1155
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-1241-ta-lai-le-me",
         "seq": 1155
       }
     ]
@@ -40,12 +54,19 @@
       "docId": "plot.xianni-ch1240-li-qianmei-arrives-wuji-sect",
       "dated": false,
       "seq": 1155
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-1241-ta-lai-le-me",
+      "dated": false,
+      "seq": 1155
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1240-li-qianmei-arrives-wuji-sect"
+    "plot.xianni-ch1240-li-qianmei-arrives-wuji-sect",
+    "plot.xianni-1241-ta-lai-le-me"
   ],
-  "updatedAt": "2026-08-25T03:03:47.363Z"
+  "updatedAt": "2026-08-25T03:05:44.096Z"
 }

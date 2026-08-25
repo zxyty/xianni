@@ -4,17 +4,24 @@
   "name": "寻峦宗",
   "aliases": [
     "寻栾宗",
-    "七阶寻峦宗"
+    "七阶寻峦宗",
+    "七阶寻栾宗",
+    "Xunluan Sect"
   ],
   "summary": "七阶宗派，虽非七阶分宗最强，但外事长老赵龙与仙音门私交甚密、行事强横。",
   "attributes": {
-    "等级": "七阶宗派"
+    "等级": "七阶宗派、七阶"
   },
   "observations": {
     "等级": [
       {
         "value": "七阶宗派",
         "docId": "plot.xianni-ch1240-li-qianmei-arrives-wuji-sect",
+        "seq": 1155
+      },
+      {
+        "value": "七阶",
+        "docId": "plot.xianni-1241-ta-lai-le-me",
         "seq": 1155
       }
     ]
@@ -31,7 +38,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1240-li-qianmei-arrives-wuji-sect"
+    "plot.xianni-ch1240-li-qianmei-arrives-wuji-sect",
+    "plot.xianni-1241-ta-lai-le-me"
   ],
-  "updatedAt": "2026-08-25T03:03:47.366Z"
+  "updatedAt": "2026-08-25T03:05:44.101Z"
 }

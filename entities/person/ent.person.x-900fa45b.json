@@ -5,16 +5,20 @@
   "aliases": [
     "赵前辈",
     "赵姓中年男子",
-    "寻峦宗外事长老"
+    "寻峦宗外事长老",
+    "赵姓之人",
+    "七阶寻栾宗赵龙"
   ],
   "summary": "恒岳派凝气期第六层内门弟子，莲花剑气练至中品·剑意，被柳风水幕折射反弹重创落败。",
   "attributes": {
     "小阶段": "凝气期第六层",
     "阵营": "恒岳派",
-    "身份": "寻峦宗外事长老",
+    "身份": "内门弟子、寻峦宗外事长老、七阶寻栾宗修士",
     "性格": "阴沉刻薄",
     "外貌": "鹰钩鼻、薄唇、目光阴森、刻薄中年男子",
-    "标志特征": "阴阳怪调阴柔声音，可引动他人元神剧烈波动"
+    "标志特征": "阴阳怪调阴柔声音，可引动他人元神剧烈波动",
+    "性别": "男",
+    "存殁": "肉身崩毁、元神逃遁"
   },
   "observations": {
     "小阶段": [
@@ -40,6 +44,11 @@
       {
         "value": "寻峦宗外事长老",
         "docId": "plot.xianni-ch1240-li-qianmei-arrives-wuji-sect",
+        "seq": 1155
+      },
+      {
+        "value": "七阶寻栾宗修士",
+        "docId": "plot.xianni-1241-ta-lai-le-me",
         "seq": 1155
       }
     ],
@@ -73,6 +82,21 @@
         "docId": "plot.xianni-ch1240-li-qianmei-arrives-wuji-sect",
         "seq": 1155
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-1241-ta-lai-le-me",
+        "seq": 1155
+      }
+    ],
+    "存殁": [
+      {
+        "value": "肉身崩毁、元神逃遁",
+        "docId": "plot.xianni-1241-ta-lai-le-me",
+        "seq": 1155,
+        "note": "本章未确认身死"
+      }
     ]
   },
   "firstSeq": 43,
@@ -91,9 +115,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1240-li-qianmei-arrives-wuji-sect",
+      "docId": "plot.xianni-ch43-48-lishan-pilidan-shenshi",
       "dated": false,
-      "seq": 1155
+      "seq": 43
     },
     "性格": {
       "asOf": null,
@@ -112,13 +136,27 @@
       "docId": "plot.xianni-ch1240-li-qianmei-arrives-wuji-sect",
       "dated": false,
       "seq": 1155
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-1241-ta-lai-le-me",
+      "dated": false,
+      "seq": 1155
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1241-ta-lai-le-me",
+      "dated": false,
+      "seq": 1155,
+      "note": "本章未确认身死"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch43-48-lishan-pilidan-shenshi",
-    "plot.xianni-ch1240-li-qianmei-arrives-wuji-sect"
+    "plot.xianni-ch1240-li-qianmei-arrives-wuji-sect",
+    "plot.xianni-1241-ta-lai-le-me"
   ],
-  "updatedAt": "2026-08-25T03:03:47.357Z"
+  "updatedAt": "2026-08-25T03:05:44.095Z"
 }

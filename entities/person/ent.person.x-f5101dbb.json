@@ -11,7 +11,9 @@
   "attributes": {
     "身份": "仙音门宗主大弟子、仙音门修士",
     "外貌": "身穿蓝衫的中年男子，相貌英俊，一股雄姿笼罩",
-    "性格": "轻佻霸道、笑里藏刀、风轻云淡、阴沉、喜怒不形于色"
+    "性格": "轻佻霸道、笑里藏刀、风轻云淡、阴沉、喜怒不形于色、风流自负、城府尚可但此刻失态",
+    "性别": "男",
+    "存殁": "在世"
   },
   "observations": {
     "身份": [
@@ -43,6 +45,25 @@
         "value": "阴沉、喜怒不形于色",
         "docId": "plot.xianni-ch1240-li-qianmei-arrives-wuji-sect",
         "seq": 1155
+      },
+      {
+        "value": "风流自负、城府尚可但此刻失态",
+        "docId": "plot.xianni-1241-ta-lai-le-me",
+        "seq": 1155
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-1241-ta-lai-le-me",
+        "seq": 1155
+      }
+    ],
+    "存殁": [
+      {
+        "value": "在世",
+        "docId": "plot.xianni-1241-ta-lai-le-me",
+        "seq": 1155
       }
     ]
   },
@@ -65,13 +86,26 @@
       "docId": "plot.xianni-1239-guiyuanzong-mosquito-king-song-luohai",
       "dated": false,
       "seq": 1155
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-1241-ta-lai-le-me",
+      "dated": false,
+      "seq": 1155
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1241-ta-lai-le-me",
+      "dated": false,
+      "seq": 1155
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1239-guiyuanzong-mosquito-king-song-luohai",
-    "plot.xianni-ch1240-li-qianmei-arrives-wuji-sect"
+    "plot.xianni-ch1240-li-qianmei-arrives-wuji-sect",
+    "plot.xianni-1241-ta-lai-le-me"
   ],
-  "updatedAt": "2026-08-25T03:03:47.355Z"
+  "updatedAt": "2026-08-25T03:05:44.094Z"
 }
