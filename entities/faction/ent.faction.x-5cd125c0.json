@@ -9,7 +9,10 @@
   "summary": "闪雷族内的宗门势力，遣族老与结丹修士外出劫掠资源上交宗主以冲击闪雷榜。",
   "attributes": {
     "掌门": "天雷宗宗主",
-    "理念": "聚敛宝物换取雷晶、冲击闪雷榜"
+    "理念": "聚敛宝物换取雷晶、冲击闪雷榜",
+    "等级": "闪雷族内小宗派",
+    "据点": "天雷宗山门（云雾缭绕的山峰）",
+    "所属界面": "闪雷族修真星"
   },
   "observations": {
     "掌门": [
@@ -24,6 +27,27 @@
         "value": "聚敛宝物换取雷晶、冲击闪雷榜",
         "docId": "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
         "seq": 1242
+      }
+    ],
+    "等级": [
+      {
+        "value": "闪雷族内小宗派",
+        "docId": "plot.xianni-1331-tianlei-zong-qiudehai-flees-wanglin",
+        "seq": 1246
+      }
+    ],
+    "据点": [
+      {
+        "value": "天雷宗山门（云雾缭绕的山峰）",
+        "docId": "plot.xianni-1331-tianlei-zong-qiudehai-flees-wanglin",
+        "seq": 1246
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "闪雷族修真星",
+        "docId": "plot.xianni-1331-tianlei-zong-qiudehai-flees-wanglin",
+        "seq": 1246
       }
     ]
   },
@@ -40,12 +64,31 @@
       "docId": "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
       "dated": false,
       "seq": 1242
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-1331-tianlei-zong-qiudehai-flees-wanglin",
+      "dated": false,
+      "seq": 1246
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.xianni-1331-tianlei-zong-qiudehai-flees-wanglin",
+      "dated": false,
+      "seq": 1246
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-1331-tianlei-zong-qiudehai-flees-wanglin",
+      "dated": false,
+      "seq": 1246
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam"
+    "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
+    "plot.xianni-1331-tianlei-zong-qiudehai-flees-wanglin"
   ],
-  "updatedAt": "2026-08-25T10:35:24.548Z"
+  "updatedAt": "2026-08-25T11:14:17.440Z"
 }

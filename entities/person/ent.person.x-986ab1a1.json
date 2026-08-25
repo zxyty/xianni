@@ -4,16 +4,18 @@
   "name": "齐治",
   "aliases": [
     "元婴老者齐治",
-    "Qi Zhi"
+    "Qi Zhi",
+    "齐治老怪"
   ],
   "summary": "闪雷族元婴初期老者，方圆十万里内唯一的元婴初期修士，洞府布满数百年自烙禁制；偷袭王林失败后被搜神术夺忆、法宝尽失并昏迷。",
   "attributes": {
-    "小阶段": "元婴初期",
+    "小阶段": "元婴期",
     "种族": "闪雷族",
     "外貌": "青衣老者",
     "存殁": "重伤昏迷未死",
     "本命法宝": "绿光天雷",
-    "身份": "附近十万里内唯一的元婴初期老怪，多年抢夺不少宝物"
+    "身份": "洞府主人",
+    "标志特征": "洞府外禁制阵法精妙"
   },
   "observations": {
     "小阶段": [
@@ -21,6 +23,11 @@
         "value": "元婴初期",
         "docId": "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
         "seq": 1242
+      },
+      {
+        "value": "元婴期",
+        "docId": "plot.xianni-1331-tianlei-zong-qiudehai-flees-wanglin",
+        "seq": 1246
       }
     ],
     "种族": [
@@ -57,6 +64,18 @@
         "value": "附近十万里内唯一的元婴初期老怪，多年抢夺不少宝物",
         "docId": "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
         "seq": 1242
+      },
+      {
+        "value": "洞府主人",
+        "docId": "plot.xianni-1331-tianlei-zong-qiudehai-flees-wanglin",
+        "seq": 1246
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "洞府外禁制阵法精妙",
+        "docId": "plot.xianni-1331-tianlei-zong-qiudehai-flees-wanglin",
+        "seq": 1246
       }
     ]
   },
@@ -64,9 +83,9 @@
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
+      "docId": "plot.xianni-1331-tianlei-zong-qiudehai-flees-wanglin",
       "dated": false,
-      "seq": 1242
+      "seq": 1246
     },
     "种族": {
       "asOf": null,
@@ -95,15 +114,22 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
+      "docId": "plot.xianni-1331-tianlei-zong-qiudehai-flees-wanglin",
       "dated": false,
-      "seq": 1242
+      "seq": 1246
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-1331-tianlei-zong-qiudehai-flees-wanglin",
+      "dated": false,
+      "seq": 1246
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam"
+    "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
+    "plot.xianni-1331-tianlei-zong-qiudehai-flees-wanglin"
   ],
-  "updatedAt": "2026-08-25T10:35:24.528Z"
+  "updatedAt": "2026-08-25T11:14:17.434Z"
 }
