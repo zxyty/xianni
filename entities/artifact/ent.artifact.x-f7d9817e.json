@@ -4,19 +4,25 @@
   "name": "古魔尸体",
   "aliases": [
     "古魔石化肉身",
-    "古魔的尸体"
+    "古魔的尸体",
+    "未毁灭的古魔尸身"
   ],
   "summary": "王林右手所按的石化古魔遗体，被灌入磅礴魔气与一颗未凝固魔星后开始松软，右目内魔星缓缓凝聚。",
   "attributes": {
-    "外形": "石化肉身，本章渐转松软",
+    "外形": "石化肉身，本章渐转松软、右目中幻化魔星",
     "持有者": "王林",
-    "能力": "可承载魔气与魔星凝聚"
+    "能力": "可承载魔气与魔星凝聚、吸纳魔气凝聚魔星"
   },
   "observations": {
     "外形": [
       {
         "value": "石化肉身，本章渐转松软",
         "docId": "plot.xianni-1475-suming-second-battle-part1",
+        "seq": 1385
+      },
+      {
+        "value": "右目中幻化魔星",
+        "docId": "plot.xianni-1476-suming-second-battle-2",
         "seq": 1385
       }
     ],
@@ -31,6 +37,11 @@
       {
         "value": "可承载魔气与魔星凝聚",
         "docId": "plot.xianni-1475-suming-second-battle-part1",
+        "seq": 1385
+      },
+      {
+        "value": "吸纳魔气凝聚魔星",
+        "docId": "plot.xianni-1476-suming-second-battle-2",
         "seq": 1385
       }
     ]
@@ -59,7 +70,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1475-suming-second-battle-part1"
+    "plot.xianni-1475-suming-second-battle-part1",
+    "plot.xianni-1476-suming-second-battle-2"
   ],
-  "updatedAt": "2026-08-25T21:58:01.561Z"
+  "updatedAt": "2026-08-25T22:00:41.308Z"
 }

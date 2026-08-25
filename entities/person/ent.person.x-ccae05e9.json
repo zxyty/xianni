@@ -4,12 +4,17 @@
   "name": "九位仙妃",
   "aliases": [
     "仙妃",
-    "界外九位仙妃"
+    "界外九位仙妃",
+    "本妃",
+    "仙尊的玩物"
   ],
   "summary": "带领界外远古仙域之人的九位仙妃，虎视界内，图谋天逆法宝与通往界内远古仙域的通天大路；当年正是仙妃出手灭去封界之尊肉身。",
   "attributes": {
     "阵营": "界外远古仙域",
-    "身份": "界外远古仙域的领导者"
+    "身份": "仙尊的玩物（拓森语）",
+    "性别": "女",
+    "外貌": "风情妩媚尽消，转为狰狞凄厉",
+    "存殁": "重伤存活"
   },
   "observations": {
     "阵营": [
@@ -24,6 +29,33 @@
         "value": "界外远古仙域的领导者",
         "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
         "seq": 1200
+      },
+      {
+        "value": "仙尊的玩物（拓森语）",
+        "docId": "plot.xianni-1476-suming-second-battle-2",
+        "seq": 1385
+      }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.xianni-1476-suming-second-battle-2",
+        "seq": 1385
+      }
+    ],
+    "外貌": [
+      {
+        "value": "风情妩媚尽消，转为狰狞凄厉",
+        "docId": "plot.xianni-1476-suming-second-battle-2",
+        "seq": 1385,
+        "note": "被拓森击退后"
+      }
+    ],
+    "存殁": [
+      {
+        "value": "重伤存活",
+        "docId": "plot.xianni-1476-suming-second-battle-2",
+        "seq": 1385
       }
     ]
   },
@@ -37,15 +69,35 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
+      "docId": "plot.xianni-1476-suming-second-battle-2",
       "dated": false,
-      "seq": 1200
+      "seq": 1385
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-1476-suming-second-battle-2",
+      "dated": false,
+      "seq": 1385
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-1476-suming-second-battle-2",
+      "dated": false,
+      "seq": 1385,
+      "note": "被拓森击退后"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1476-suming-second-battle-2",
+      "dated": false,
+      "seq": 1385
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.xianni-1284-tianni-origin-fengjie-zhizun"
+    "lore.xianni-1284-tianni-origin-fengjie-zhizun",
+    "plot.xianni-1476-suming-second-battle-2"
   ],
-  "updatedAt": "2026-08-25T06:20:26.482Z"
+  "updatedAt": "2026-08-25T22:00:41.297Z"
 }
