@@ -724,3 +724,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T11:50:27.612Z** `ingest` plot.xianni-ch1342-lei-xiu-da-neng-zhi-lu — 第1342章 雷修大能之路——王林融合灵念之雷，悟得十道圆满雷本源，血洗闪雷族 · kind=plot asOf=2026-08-25 entities=21 relations=28 src=01255-01259.p3.md
 - **2026-08-25T11:52:53.940Z** `ingest` plot.xianni-1343-bait-wang-lin-slaughters-shan-lei-clan — 第1343章 诱饵——王林借渡劫者引杀闪雷族百人、收念雷并逼问散灵上人 · kind=plot asOf=2026-08-25 entities=20 relations=37 src=01255-01259.p4.md
 - **2026-08-25T11:55:16.445Z** `ingest` plot.xianni-ch1344-san-ling-shang-ren — 第1344章 散灵上人：九百七十一分身与世界尽头之约 · kind=plot asOf=2026-08-25 entities=19 relations=31 src=01255-01259.p5.md
+- **2026-08-25T11:57:45.559Z** `ingest` plot.xianni-1345-edge-of-heaven-and-earth-alliance-with-bald-youth — 第1345章 天地的尽头——散灵上人本尊道出七百万天地真相，与王林结盟弑仙 · kind=plot asOf=2026-08-25 entities=19 relations=28 src=01260-01264.p1.md

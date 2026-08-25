@@ -4,12 +4,14 @@
   "name": "闪雷族大长老",
   "aliases": [
     "闪雷族的大长老",
-    "当年降临散灵天劫的仙人"
+    "当年降临散灵天劫的仙人",
+    "天人第五衰大长老"
   ],
   "summary": "散灵二百余岁引动天劫时降临的仙人，当年修为窥涅；重伤散灵后废其修为却留其性命，意在让其继续修炼以诞生念雷。",
   "attributes": {
     "身份": "闪雷族大长老",
-    "小阶段": "窥涅"
+    "小阶段": "天人第五衰",
+    "存殁": "存活"
   },
   "observations": {
     "身份": [
@@ -25,6 +27,18 @@
         "docId": "plot.xianni-ch1344-san-ling-shang-ren",
         "seq": 1255,
         "note": "当年降临散灵天劫时的修为，现已更高"
+      },
+      {
+        "value": "天人第五衰",
+        "docId": "plot.xianni-1345-edge-of-heaven-and-earth-alliance-with-bald-youth",
+        "seq": 1260
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-1345-edge-of-heaven-and-earth-alliance-with-bald-youth",
+        "seq": 1260
       }
     ]
   },
@@ -38,16 +52,22 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch1344-san-ling-shang-ren",
+      "docId": "plot.xianni-1345-edge-of-heaven-and-earth-alliance-with-bald-youth",
       "dated": false,
-      "seq": 1255,
-      "note": "当年降临散灵天劫时的修为，现已更高"
+      "seq": 1260
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1345-edge-of-heaven-and-earth-alliance-with-bald-youth",
+      "dated": false,
+      "seq": 1260
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1344-san-ling-shang-ren"
+    "plot.xianni-ch1344-san-ling-shang-ren",
+    "plot.xianni-1345-edge-of-heaven-and-earth-alliance-with-bald-youth"
   ],
-  "updatedAt": "2026-08-25T11:55:16.087Z"
+  "updatedAt": "2026-08-25T11:57:45.084Z"
 }

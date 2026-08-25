@@ -3,12 +3,15 @@
   "type": "passage",
   "name": "中心广场传送阵",
   "aliases": [
-    "大殿外的巨大传送阵"
+    "大殿外的巨大传送阵",
+    "大殿旁的巨大阵法",
+    "离开七百万天地的传送阵"
   ],
   "summary": "中心广场每座大殿外都有的巨大传送阵，闪雷族修士由此现身；另有一处磅礴阵法用于前往七百万天地内部。",
   "attributes": {
     "类型": "传送阵",
-    "守护": "阳实修士看守查验玉简"
+    "守护": "数个闪雷族人负责操控",
+    "两端": "七百万天地 ↔ 闪雷族之地"
   },
   "observations": {
     "类型": [
@@ -23,6 +26,18 @@
         "value": "阳实修士看守查验玉简",
         "docId": "plot.xianni-ch1339-buhuaihaoyi-zhoutianzi-slain-seven-million-worlds",
         "seq": 1250
+      },
+      {
+        "value": "数个闪雷族人负责操控",
+        "docId": "plot.xianni-1345-edge-of-heaven-and-earth-alliance-with-bald-youth",
+        "seq": 1260
+      }
+    ],
+    "两端": [
+      {
+        "value": "七百万天地 ↔ 闪雷族之地",
+        "docId": "plot.xianni-1345-edge-of-heaven-and-earth-alliance-with-bald-youth",
+        "seq": 1260
       }
     ]
   },
@@ -36,15 +51,22 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch1339-buhuaihaoyi-zhoutianzi-slain-seven-million-worlds",
+      "docId": "plot.xianni-1345-edge-of-heaven-and-earth-alliance-with-bald-youth",
       "dated": false,
-      "seq": 1250
+      "seq": 1260
+    },
+    "两端": {
+      "asOf": null,
+      "docId": "plot.xianni-1345-edge-of-heaven-and-earth-alliance-with-bald-youth",
+      "dated": false,
+      "seq": 1260
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1339-buhuaihaoyi-zhoutianzi-slain-seven-million-worlds"
+    "plot.xianni-ch1339-buhuaihaoyi-zhoutianzi-slain-seven-million-worlds",
+    "plot.xianni-1345-edge-of-heaven-and-earth-alliance-with-bald-youth"
   ],
-  "updatedAt": "2026-08-25T11:42:59.092Z"
+  "updatedAt": "2026-08-25T11:57:45.090Z"
 }
