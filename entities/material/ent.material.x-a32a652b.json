@@ -4,12 +4,13 @@
   "name": "矾晶",
   "aliases": [
     "矾晶脉",
-    "fan crystal"
+    "fan crystal",
+    "矾晶石"
   ],
   "summary": "此地凡间通行的钱币之物，按大小计值；极为璀璨、产量不多，但对修士毫无用处。王林炼化地底矾晶脉获得大量矾晶。",
   "attributes": {
-    "类型": "晶石/凡间货币",
-    "用途": "凡人钱币流通（对修士无用）",
+    "类型": "货币/晶石",
+    "用途": "交易付账",
     "稀有度": "凡间产量不多",
     "产地": "凡间都城地底深处的矾晶脉"
   },
@@ -19,6 +20,11 @@
         "value": "晶石/凡间货币",
         "docId": "plot.xianni-ch1363-jiuwei-de-pingjing",
         "seq": 1275
+      },
+      {
+        "value": "货币/晶石",
+        "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
+        "seq": 1280
       }
     ],
     "用途": [
@@ -26,6 +32,11 @@
         "value": "凡人钱币流通（对修士无用）",
         "docId": "plot.xianni-ch1363-jiuwei-de-pingjing",
         "seq": 1275
+      },
+      {
+        "value": "交易付账",
+        "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
+        "seq": 1280
       }
     ],
     "稀有度": [
@@ -47,15 +58,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1363-jiuwei-de-pingjing",
+      "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
       "dated": false,
-      "seq": 1275
+      "seq": 1280
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch1363-jiuwei-de-pingjing",
+      "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
       "dated": false,
-      "seq": 1275
+      "seq": 1280
     },
     "稀有度": {
       "asOf": null,
@@ -73,7 +84,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1363-jiuwei-de-pingjing"
+    "plot.xianni-ch1363-jiuwei-de-pingjing",
+    "plot.xianni-1366-wucai-jijing-naduo-mystery"
   ],
-  "updatedAt": "2026-08-25T12:40:56.044Z"
+  "updatedAt": "2026-08-25T12:52:59.996Z"
 }

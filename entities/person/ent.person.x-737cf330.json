@@ -29,7 +29,8 @@
     "元神强度": "略有萎靡、修为通天，仅次于第三步大能、元神被剑气贯穿、急速消散、仅剩一缕残破元神，记忆消散大半、神智模糊、残破一缕，闭目",
     "本命法宝": "庞大罗盘",
     "阵营": "闪雷族",
-    "死因": "败亡于灭闪雷族之元凶（即王林）之手"
+    "死因": "元神先被剑气所伤，再于不灭雷霆与七尺长剑碰撞的冲击下大半崩溃，残魂被王林昆极鞭擒走、败亡于灭闪雷族之元凶（即王林）之手、元神被王林吞噬、以雷霆元神绞碎吸收",
+    "结局": "元神被吞噬，所召唤的六道伴随之雷为王林所得"
   },
   "observations": {
     "身份": [
@@ -364,6 +365,18 @@
         "docId": "plot.xianni-1364-taigu-xingchen-ling",
         "seq": 1280,
         "note": "外界只知其败亡失踪"
+      },
+      {
+        "value": "元神被王林吞噬、以雷霆元神绞碎吸收",
+        "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
+        "seq": 1280
+      }
+    ],
+    "结局": [
+      {
+        "value": "元神被吞噬，所召唤的六道伴随之雷为王林所得",
+        "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
+        "seq": 1280
       }
     ]
   },
@@ -452,10 +465,15 @@
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.xianni-1364-taigu-xingchen-ling",
+      "docId": "plot.xianni-ch1359-legend-of-third-step",
       "dated": false,
-      "seq": 1280,
-      "note": "外界只知其败亡失踪"
+      "seq": 1270
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
+      "dated": false,
+      "seq": 1280
     }
   },
   "contested": false,
@@ -479,7 +497,8 @@
     "plot.xianni-1360-flash-lightning-clan-array-broken",
     "plot.xianni-ch1361-shanleizu-shengdi-buminleiting-tug",
     "plot.xianni-1362-tiandao-envoy-reappears",
-    "plot.xianni-1364-taigu-xingchen-ling"
+    "plot.xianni-1364-taigu-xingchen-ling",
+    "plot.xianni-1366-wucai-jijing-naduo-mystery"
   ],
-  "updatedAt": "2026-08-25T12:43:26.168Z"
+  "updatedAt": "2026-08-25T12:52:59.971Z"
 }

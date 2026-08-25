@@ -4,14 +4,16 @@
   "name": "修真星都城",
   "aliases": [
     "小族修真星都城",
-    "王林入凡所在都城"
+    "王林入凡所在都城",
+    "本章所在都城"
   ],
   "summary": "该修真星上的都城，人声鼎沸、车水马龙，商铺酒楼济济一堂，城中修士不少，东处皇城所在更有修士近百。",
   "attributes": {
     "所属界面": "无名小族修真星",
-    "类型": "凡人都城",
+    "类型": "城池",
     "规模": "不下千万人",
-    "上级区域": "无名小族修真星"
+    "上级区域": "无名小族修真星",
+    "方位": "该修真星"
   },
   "observations": {
     "所属界面": [
@@ -26,6 +28,11 @@
         "value": "凡人都城",
         "docId": "plot.xianni-ch1362-dunchen-lianlei-zhong-dahong-touji",
         "seq": 1275
+      },
+      {
+        "value": "城池",
+        "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
+        "seq": 1280
       }
     ],
     "规模": [
@@ -41,6 +48,13 @@
         "docId": "plot.xianni-ch1362-dunchen-lianlei-zhong-dahong-touji",
         "seq": 1275
       }
+    ],
+    "方位": [
+      {
+        "value": "该修真星",
+        "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
+        "seq": 1280
+      }
     ]
   },
   "firstSeq": 1275,
@@ -53,9 +67,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1362-dunchen-lianlei-zhong-dahong-touji",
+      "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
       "dated": false,
-      "seq": 1275
+      "seq": 1280
     },
     "规模": {
       "asOf": null,
@@ -68,12 +82,19 @@
       "docId": "plot.xianni-ch1362-dunchen-lianlei-zhong-dahong-touji",
       "dated": false,
       "seq": 1275
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
+      "dated": false,
+      "seq": 1280
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1362-dunchen-lianlei-zhong-dahong-touji"
+    "plot.xianni-ch1362-dunchen-lianlei-zhong-dahong-touji",
+    "plot.xianni-1366-wucai-jijing-naduo-mystery"
   ],
-  "updatedAt": "2026-08-25T12:39:06.023Z"
+  "updatedAt": "2026-08-25T12:52:59.995Z"
 }

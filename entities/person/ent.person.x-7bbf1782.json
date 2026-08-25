@@ -5,15 +5,18 @@
   "aliases": [
     "身穿道袍的老者",
     "选徒老者",
-    "道长"
+    "道长",
+    "太古星辰道袍老者",
+    "搜寻长老"
   ],
   "summary": "依附云天宗的小门派修士，按门派规定每六年下山寻找拥有灵根之人。神态倨傲，在周家村发现天资绝佳的周茹后狂喜，欲以此换取一块上品灵石冲击筑基中期，强行将周茹带走。",
   "attributes": {
     "性别": "男",
-    "身份": "小门派修士·奉命下山寻灵根者",
+    "身份": "太古星辰一方的长老（搜捕负责人）",
     "性格": "倨傲、势利、不耐",
-    "外貌": "身穿道袍的老者",
-    "存殁": "在世"
+    "外貌": "身着道袍的老者",
+    "存殁": "存活",
+    "元神强度": "元神被撕走一部分"
   },
   "observations": {
     "性别": [
@@ -28,6 +31,11 @@
         "value": "小门派修士·奉命下山寻灵根者",
         "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
         "seq": 336
+      },
+      {
+        "value": "太古星辰一方的长老（搜捕负责人）",
+        "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
+        "seq": 1280
       }
     ],
     "性格": [
@@ -42,6 +50,11 @@
         "value": "身穿道袍的老者",
         "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
         "seq": 336
+      },
+      {
+        "value": "身着道袍的老者",
+        "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
+        "seq": 1280
       }
     ],
     "存殁": [
@@ -49,6 +62,19 @@
         "value": "在世",
         "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
         "seq": 336
+      },
+      {
+        "value": "存活",
+        "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
+        "seq": 1280
+      }
+    ],
+    "元神强度": [
+      {
+        "value": "元神被撕走一部分",
+        "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
+        "seq": 1280,
+        "note": "第1280章遭王林割魂后"
       }
     ]
   },
@@ -62,9 +88,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+      "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
       "dated": false,
-      "seq": 336
+      "seq": 1280
     },
     "性格": {
       "asOf": null,
@@ -74,21 +100,29 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+      "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
       "dated": false,
-      "seq": 336
+      "seq": 1280
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
+      "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
       "dated": false,
-      "seq": 336
+      "seq": 1280
+    },
+    "元神强度": {
+      "asOf": null,
+      "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
+      "dated": false,
+      "seq": 1280,
+      "note": "第1280章遭王林割魂后"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch356-departure-immortal-remains-void-rift"
+    "plot.xianni-ch356-departure-immortal-remains-void-rift",
+    "plot.xianni-1366-wucai-jijing-naduo-mystery"
   ],
-  "updatedAt": "2026-08-08T14:28:21.293Z"
+  "updatedAt": "2026-08-25T12:52:59.972Z"
 }
