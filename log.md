@@ -727,3 +727,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T11:57:45.559Z** `ingest` plot.xianni-1345-edge-of-heaven-and-earth-alliance-with-bald-youth — 第1345章 天地的尽头——散灵上人本尊道出七百万天地真相，与王林结盟弑仙 · kind=plot asOf=2026-08-25 entities=19 relations=28 src=01260-01264.p1.md
 - **2026-08-25T11:59:24.781Z** `ingest` plot.xianni-ch1346-master-where-are-you-wang-lin-rescues-xu-liguo — 第1346章 主人在哪！——王林现身救许立国，一指灭净涅长老 · kind=plot asOf=2026-08-25 entities=12 relations=20 src=01260-01264.p2.md
 - **2026-08-25T12:01:54.473Z** `ingest` plot.xianni-1347-shanlei-war-1 — 《仙逆》第1347章 闪雷之战！（一）——王林踏雷破圣地，扬言收不灭天雷灭闪雷族 · kind=plot asOf=2026-08-25 entities=25 relations=42 src=01260-01264.p3.md
+- **2026-08-25T12:04:08.328Z** `ingest` plot.xianni-ch1348-shanlei-war-2-wang-lin-vs-elder — 《仙逆》第1348章 闪雷之战（二）：王林元神弃于非之身，引闪雷族大长老出圣地决战 · kind=plot asOf=2026-08-25 entities=14 relations=23 src=01260-01264.p4.md
