@@ -4,11 +4,12 @@
   "name": "鬼宗",
   "aliases": [
     "Gui Zong",
-    "九阶鬼宗"
+    "九阶鬼宗",
+    "Gui Sect"
   ],
   "summary": "九阶星域最神秘的宗派，擅长摄魂之术，由神宗提拔为九阶；两万年前曾将半个修真星赐予宝玉宗先祖。",
   "attributes": {
-    "等级": "九阶",
+    "等级": "九阶宗派（传闻晋升）",
     "理念": "摄魂之术见长",
     "所属界面": "云海九阶星域"
   },
@@ -18,6 +19,11 @@
         "value": "九阶",
         "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
         "seq": 1082
+      },
+      {
+        "value": "九阶宗派（传闻晋升）",
+        "docId": "plot.xianni-1228-liu-jin-biao-yunhai-fenzong-dabi",
+        "seq": 1146
       }
     ],
     "理念": [
@@ -39,9 +45,9 @@
   "attrProvenance": {
     "等级": {
       "asOf": null,
-      "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+      "docId": "plot.xianni-1228-liu-jin-biao-yunhai-fenzong-dabi",
       "dated": false,
-      "seq": 1082
+      "seq": 1146
     },
     "理念": {
       "asOf": null,
@@ -59,7 +65,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair"
+    "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+    "plot.xianni-1228-liu-jin-biao-yunhai-fenzong-dabi"
   ],
-  "updatedAt": "2026-08-24T20:15:08.161Z"
+  "updatedAt": "2026-08-25T02:31:52.006Z"
 }

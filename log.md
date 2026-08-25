@@ -620,3 +620,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T02:12:48.229Z** `ingest` plot.xianni-1222-yunhunzi-submits-to-wanglin — 第1222章 云魂子的敬畏：王林沉睡九十九年后收服云魂子 · kind=plot asOf=2026-08-25 entities=17 relations=28 src=01137-01141.p4.md
 - **2026-08-25T02:15:13.990Z** `ingest` plot.xianni-ch1223-jingbian-qicai-wu-yu-xuanwo — 第1223章 惊变：蚊兽蜕变、岁月禁到手、七彩雾喂天运子魂，离界之际漩涡降临 · kind=plot asOf=2026-08-25 entities=23 relations=25 src=01137-01141.p5.md
 - **2026-08-25T02:28:51.871Z** `ingest` plot.xianni-1142-1145-seven-colored-realm-palm-strike — 仙逆 第1142-1145章：七彩界化掌，王林碎指抗天 · kind=plot asOf=2026-08-25 entities=63 relations=91 src=01142-01145.md
+- **2026-08-25T02:31:52.304Z** `ingest` plot.xianni-1228-liu-jin-biao-yunhai-fenzong-dabi — 仙逆·第1228章 老夫刘金彪！！——云海八阶分宗大比与王林归来 · kind=plot asOf=2026-08-25 entities=35 relations=43 src=01146-01150.p1.md

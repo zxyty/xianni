@@ -4,13 +4,15 @@
   "name": "翠绿玉镯",
   "aliases": [
     "翠绿色的镯子",
-    "防护法宝玉镯"
+    "防护法宝玉镯",
+    "王林手腕玉镯"
   ],
   "summary": "李倩梅右手所戴的翠绿色防护法宝，作为三问三物之约第三件物品赠予王林被拒，遂被抛入星雾；后被循星图疾驰的王林意外撞见并收起。",
   "attributes": {
-    "外形": "翠绿色镯子",
+    "外形": "翠绿色玉镯",
     "能力": "防护",
-    "来历": "李倩梅随身佩戴，作为三问之约的第三件物品"
+    "来历": "李倩梅随身佩戴，作为三问之约的第三件物品",
+    "持有者": "王林"
   },
   "observations": {
     "外形": [
@@ -18,6 +20,11 @@
         "value": "翠绿色镯子",
         "docId": "plot.xianni-ch1178-zige-cangsongzi-team",
         "seq": 1095
+      },
+      {
+        "value": "翠绿色玉镯",
+        "docId": "plot.xianni-1228-liu-jin-biao-yunhai-fenzong-dabi",
+        "seq": 1146
       }
     ],
     "能力": [
@@ -33,15 +40,22 @@
         "docId": "plot.xianni-ch1178-zige-cangsongzi-team",
         "seq": 1095
       }
+    ],
+    "持有者": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-1228-liu-jin-biao-yunhai-fenzong-dabi",
+        "seq": 1146
+      }
     ]
   },
   "firstSeq": 1095,
   "attrProvenance": {
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch1178-zige-cangsongzi-team",
+      "docId": "plot.xianni-1228-liu-jin-biao-yunhai-fenzong-dabi",
       "dated": false,
-      "seq": 1095
+      "seq": 1146
     },
     "能力": {
       "asOf": null,
@@ -54,12 +68,19 @@
       "docId": "plot.xianni-ch1178-zige-cangsongzi-team",
       "dated": false,
       "seq": 1095
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.xianni-1228-liu-jin-biao-yunhai-fenzong-dabi",
+      "dated": false,
+      "seq": 1146
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1178-zige-cangsongzi-team"
+    "plot.xianni-ch1178-zige-cangsongzi-team",
+    "plot.xianni-1228-liu-jin-biao-yunhai-fenzong-dabi"
   ],
-  "updatedAt": "2026-08-24T21:18:49.548Z"
+  "updatedAt": "2026-08-25T02:31:52.016Z"
 }

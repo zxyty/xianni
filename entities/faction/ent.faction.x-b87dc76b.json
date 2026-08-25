@@ -2,10 +2,14 @@
   "id": "ent.faction.x-b87dc76b",
   "type": "faction",
   "name": "天罡宗",
-  "aliases": [],
+  "aliases": [
+    "Tiangang Sect"
+  ],
   "summary": "四级修真国门派，许立国所属宗门。",
   "attributes": {
-    "所属界面": "天罡国"
+    "所属界面": "天罡国",
+    "等级": "分宗（隶属八阶应天宗）",
+    "掌门": "祝允明"
   },
   "observations": {
     "所属界面": [
@@ -19,6 +23,20 @@
         "docId": "plot.xianni-ch147-150-shendaoshu-deal",
         "seq": 147
       }
+    ],
+    "等级": [
+      {
+        "value": "分宗（隶属八阶应天宗）",
+        "docId": "plot.xianni-1228-liu-jin-biao-yunhai-fenzong-dabi",
+        "seq": 1146
+      }
+    ],
+    "掌门": [
+      {
+        "value": "祝允明",
+        "docId": "plot.xianni-1228-liu-jin-biao-yunhai-fenzong-dabi",
+        "seq": 1146
+      }
     ]
   },
   "firstSeq": 111,
@@ -28,13 +46,26 @@
       "docId": "plot.xianni-ch147-150-shendaoshu-deal",
       "dated": false,
       "seq": 147
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-1228-liu-jin-biao-yunhai-fenzong-dabi",
+      "dated": false,
+      "seq": 1146
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.xianni-1228-liu-jin-biao-yunhai-fenzong-dabi",
+      "dated": false,
+      "seq": 1146
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch111-114-wanglin-takeover-maliang-huofenguo",
-    "plot.xianni-ch147-150-shendaoshu-deal"
+    "plot.xianni-ch147-150-shendaoshu-deal",
+    "plot.xianni-1228-liu-jin-biao-yunhai-fenzong-dabi"
   ],
-  "updatedAt": "2026-07-06T15:33:53.296Z"
+  "updatedAt": "2026-08-25T02:31:52.000Z"
 }
