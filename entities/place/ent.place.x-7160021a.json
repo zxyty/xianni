@@ -9,18 +9,19 @@
     "裂缝战场",
     "裂缝战场深处",
     "如裂缝的沟壑",
-    "战场"
+    "战场",
+    "裂缝外战场"
   ],
   "summary": "九阶星域雾气至深处、妖宗所在的裂缝战场，百年兽潮不绝，十二阶凶兽成群、十三阶凶兽偶现，修士每日战死。",
   "attributes": {
     "上级区域": "九阶星域",
     "所属势力": "妖宗",
-    "危险度": "极高（本战数百修士身死）",
-    "类型": "凶兽冲出的裂缝/战场",
+    "危险度": "极高（凶兽、黑气骷髅、九幽龙）",
+    "类型": "战场/裂缝前线",
     "特产": "凶兽",
     "所属界面": "云海星域",
-    "方位": "妖宗六个环形修真星旁",
-    "守护": "妖宗"
+    "方位": "妖宗六个修真星之外",
+    "守护": "数千修士与三名蓝色雾气妖宗修士"
   },
   "observations": {
     "上级区域": [
@@ -57,6 +58,11 @@
         "value": "极高（本战数百修士身死）",
         "docId": "plot.xianni-1291-yaozong-rift",
         "seq": 1202
+      },
+      {
+        "value": "极高（凶兽、黑气骷髅、九幽龙）",
+        "docId": "plot.xianni-ch1292-red-glow-white-robed-figure",
+        "seq": 1207
       }
     ],
     "类型": [
@@ -79,6 +85,11 @@
         "value": "凶兽冲出的裂缝/战场",
         "docId": "plot.xianni-1291-yaozong-rift",
         "seq": 1202
+      },
+      {
+        "value": "战场/裂缝前线",
+        "docId": "plot.xianni-ch1292-red-glow-white-robed-figure",
+        "seq": 1207
       }
     ],
     "特产": [
@@ -100,6 +111,11 @@
         "value": "妖宗六个环形修真星旁",
         "docId": "plot.xianni-1291-yaozong-rift",
         "seq": 1202
+      },
+      {
+        "value": "妖宗六个修真星之外",
+        "docId": "plot.xianni-ch1292-red-glow-white-robed-figure",
+        "seq": 1207
       }
     ],
     "守护": [
@@ -107,6 +123,11 @@
         "value": "妖宗",
         "docId": "plot.xianni-1291-yaozong-rift",
         "seq": 1202
+      },
+      {
+        "value": "数千修士与三名蓝色雾气妖宗修士",
+        "docId": "plot.xianni-ch1292-red-glow-white-robed-figure",
+        "seq": 1207
       }
     ]
   },
@@ -126,15 +147,15 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-1291-yaozong-rift",
+      "docId": "plot.xianni-ch1292-red-glow-white-robed-figure",
       "dated": false,
-      "seq": 1202
+      "seq": 1207
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1291-yaozong-rift",
+      "docId": "plot.xianni-ch1292-red-glow-white-robed-figure",
       "dated": false,
-      "seq": 1202
+      "seq": 1207
     },
     "特产": {
       "asOf": null,
@@ -150,15 +171,15 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-1291-yaozong-rift",
+      "docId": "plot.xianni-ch1292-red-glow-white-robed-figure",
       "dated": false,
-      "seq": 1202
+      "seq": 1207
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-1291-yaozong-rift",
+      "docId": "plot.xianni-ch1292-red-glow-white-robed-figure",
       "dated": false,
-      "seq": 1202
+      "seq": 1207
     }
   },
   "contested": false,
@@ -167,7 +188,8 @@
     "plot.xianni-1217-tuosen-awakens-sweeps-star-domain",
     "plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm",
     "lore.xianni-1284-tianni-origin-fengjie-zhizun",
-    "plot.xianni-1291-yaozong-rift"
+    "plot.xianni-1291-yaozong-rift",
+    "plot.xianni-ch1292-red-glow-white-robed-figure"
   ],
-  "updatedAt": "2026-08-25T07:28:53.078Z"
+  "updatedAt": "2026-08-25T07:31:16.682Z"
 }

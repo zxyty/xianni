@@ -674,3 +674,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T07:19:37.425Z** `ingest` plot.xianni-1289-strength-is-supreme-wang-lin-seizes-wuji-sect-ancient-god-sword-peak — 第1289章 强者为尊！——王林强夺无极宗山门古神之剑山峰 · kind=plot asOf=2026-08-25 entities=26 relations=40 src=01202-01206.p3.md
 - **2026-08-25T07:21:34.259Z** `ingest` plot.xianni-ch1290-one-sentence-blood-sword-six-star-ancient-god — 第1290章 一句话！——王林踏碎无极宗山峰，得血剑一斩六长老 · kind=plot asOf=2026-08-25 entities=19 relations=28 src=01202-01206.p4.md
 - **2026-08-25T07:28:53.394Z** `ingest` plot.xianni-1291-yaozong-rift — 《仙逆》第1291章 妖宗裂缝：王林踏入九阶星域直奔妖宗，水道子十年痛苦 · kind=plot asOf=2026-08-25 entities=35 relations=59 src=01202-01206.p5.md
+- **2026-08-25T07:31:17.051Z** `ingest` plot.xianni-ch1292-red-glow-white-robed-figure — 第1292章 红芒下的白衣身影：九幽龙出裂缝，白衣白发者携白衣老妪降临 · kind=plot asOf=2026-08-25 entities=19 relations=32 src=01207-01211.p1.md
