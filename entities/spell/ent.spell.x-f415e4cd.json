@@ -6,12 +6,14 @@
     "神震",
     "兵修列位",
     "神震，兵修列位",
-    "神震 兵修列位"
+    "神震 兵修列位",
+    "神震一拳",
+    "震动波纹"
   ],
   "summary": "神之一道的术法，隔空一拳打出，以漩涡牵引强行将八方数万修士排成整齐列队，同时震碎其内府、元神与一切生机。",
   "attributes": {
-    "类型": "古神传承神通",
-    "威力": "一拳震碎八方数万修士内府与元神",
+    "类型": "神道术法、古神传承神通、震动类神通",
+    "威力": "大地碎裂倒卷、虚空撕裂、化作漩涡风暴",
     "出处": "道古烨寞座椅传承"
   },
   "observations": {
@@ -25,6 +27,11 @@
         "value": "古神传承神通",
         "docId": "plot.xianni-1476-suming-second-battle-2",
         "seq": 1385
+      },
+      {
+        "value": "震动类神通",
+        "docId": "plot.xianni-1477-daogu-inheritance",
+        "seq": 1385
       }
     ],
     "威力": [
@@ -32,6 +39,11 @@
         "value": "一拳震碎八方数万修士内府与元神",
         "docId": "plot.xianni-1469-chuancheng-1-daogu-yemo-battle-vision",
         "seq": 1380
+      },
+      {
+        "value": "大地碎裂倒卷、虚空撕裂、化作漩涡风暴",
+        "docId": "plot.xianni-1477-daogu-inheritance",
+        "seq": 1385
       }
     ],
     "出处": [
@@ -51,15 +63,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1476-suming-second-battle-2",
-      "dated": false,
-      "seq": 1385
-    },
-    "威力": {
-      "asOf": null,
       "docId": "plot.xianni-1469-chuancheng-1-daogu-yemo-battle-vision",
       "dated": false,
       "seq": 1380
+    },
+    "威力": {
+      "asOf": null,
+      "docId": "plot.xianni-1477-daogu-inheritance",
+      "dated": false,
+      "seq": 1385
     },
     "出处": {
       "asOf": null,
@@ -72,7 +84,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-1469-chuancheng-1-daogu-yemo-battle-vision",
-    "plot.xianni-1476-suming-second-battle-2"
+    "plot.xianni-1476-suming-second-battle-2",
+    "plot.xianni-1477-daogu-inheritance"
   ],
-  "updatedAt": "2026-08-25T22:00:41.310Z"
+  "updatedAt": "2026-08-25T22:02:43.071Z"
 }

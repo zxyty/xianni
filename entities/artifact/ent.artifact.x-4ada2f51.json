@@ -4,13 +4,15 @@
   "name": "传承座椅",
   "aliases": [
     "道古烨寞的椅子",
-    "石台上的座椅"
+    "石台上的座椅",
+    "石台之上的座椅"
   ],
   "summary": "道古烨寞所造，坐者受逐息暴增的排斥与反震冲击，同时可获取其内浓郁的传承气息；与第三层跳动心脏隐秘相连。",
   "attributes": {
     "来历": "道古烨寞所做",
-    "能力": "逐息暴增的排斥反震、第十六息化为吸撤之威后百倍爆发、释放传承气息灌入坐者",
-    "禁制": "非资格者久坐则全身崩溃"
+    "能力": "逐息暴增的排斥反震、第十六息化为吸撤之威后百倍爆发、释放传承气息灌入坐者、与第三层跳动心脏建立奇异联系，传导传承",
+    "禁制": "非资格者久坐则全身崩溃",
+    "外形": "扶手碎开、靠背半毁"
   },
   "observations": {
     "来历": [
@@ -35,6 +37,11 @@
         "value": "释放传承气息灌入坐者",
         "docId": "plot.xianni-1471-inheritance-three-seventh-star-vs-tuosen",
         "seq": 1380
+      },
+      {
+        "value": "与第三层跳动心脏建立奇异联系，传导传承",
+        "docId": "plot.xianni-1477-daogu-inheritance",
+        "seq": 1385
       }
     ],
     "禁制": [
@@ -42,6 +49,14 @@
         "value": "非资格者久坐则全身崩溃",
         "docId": "plot.xianni-1471-inheritance-three-seventh-star-vs-tuosen",
         "seq": 1380
+      }
+    ],
+    "外形": [
+      {
+        "value": "扶手碎开、靠背半毁",
+        "docId": "plot.xianni-1477-daogu-inheritance",
+        "seq": 1385,
+        "note": "第1477章受创后，最终彻底崩溃"
       }
     ]
   },
@@ -64,12 +79,20 @@
       "docId": "plot.xianni-1471-inheritance-three-seventh-star-vs-tuosen",
       "dated": false,
       "seq": 1380
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.xianni-1477-daogu-inheritance",
+      "dated": false,
+      "seq": 1385,
+      "note": "第1477章受创后，最终彻底崩溃"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1471-inheritance-three-seventh-star-vs-tuosen"
+    "plot.xianni-1471-inheritance-three-seventh-star-vs-tuosen",
+    "plot.xianni-1477-daogu-inheritance"
   ],
-  "updatedAt": "2026-08-25T21:48:03.533Z"
+  "updatedAt": "2026-08-25T22:02:43.076Z"
 }

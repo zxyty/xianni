@@ -844,3 +844,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T21:55:44.335Z** `ingest` plot.xianni-ch1474-active-initiative-tomb-inheritance — 仙逆 第1474章 主动：一吼退掌尊、放走白衣女子、王林主动吸取古墓传承 · kind=plot asOf=2026-08-25 entities=19 relations=31 src=01385-01389.p1.md
 - **2026-08-25T21:58:01.904Z** `ingest` plot.xianni-1475-suming-second-battle-part1 — 第1475章 宿命第二战！（一）——王林七星古神大成，与拓森再战 · kind=plot asOf=2026-08-25 entities=22 relations=38 src=01385-01389.p2.md
 - **2026-08-25T22:00:41.725Z** `ingest` plot.xianni-1476-suming-second-battle-2 — 第1476章 宿命第二战（二）：王林与拓森以力证道、灭神矛与第八星筑基 · kind=plot asOf=2026-08-25 entities=21 relations=29 src=01385-01389.p3.md
+- **2026-08-25T22:02:43.427Z** `ingest` plot.xianni-1477-daogu-inheritance — 第1477章 道古传承——王林弃涂司传承、承道古之魂 · kind=plot asOf=2026-08-25 entities=19 relations=30 src=01385-01389.p4.md

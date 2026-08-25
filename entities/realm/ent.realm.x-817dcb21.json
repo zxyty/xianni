@@ -11,14 +11,16 @@
     "被斩首的八星古神",
     "八星古神肉身",
     "妖灵之地的八星古神",
-    "古神八星"
+    "古神八星",
+    "第八星"
   ],
   "summary": "涂司所处的古神层级；拓森继承其全部力量却无法施展，须得忆之传承并凝练身体方能成为真正的八星古神。",
   "attributes": {
-    "阶序": "古神九星之第八星",
-    "下一境": "五星古神",
+    "阶序": "古神八星、古神九星之第八星、古神一族仅次于九星",
+    "下一境": "九星古神",
     "上一境": "七星古神",
-    "突破征兆": "七星之外出现微弱气旋"
+    "突破征兆": "七星之外出现微弱气旋",
+    "突破关键": "眉心第八颗星点气旋的完全凝聚"
   },
   "observations": {
     "阶序": [
@@ -31,6 +33,11 @@
         "value": "古神九星之第八星",
         "docId": "plot.xianni-1475-suming-second-battle-part1",
         "seq": 1385
+      },
+      {
+        "value": "古神一族仅次于九星",
+        "docId": "plot.xianni-1477-daogu-inheritance",
+        "seq": 1385
       }
     ],
     "下一境": [
@@ -38,6 +45,11 @@
         "value": "五星古神",
         "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
         "seq": 433
+      },
+      {
+        "value": "九星古神",
+        "docId": "plot.xianni-1477-daogu-inheritance",
+        "seq": 1385
       }
     ],
     "上一境": [
@@ -53,21 +65,28 @@
         "docId": "plot.xianni-1475-suming-second-battle-part1",
         "seq": 1385
       }
+    ],
+    "突破关键": [
+      {
+        "value": "眉心第八颗星点气旋的完全凝聚",
+        "docId": "plot.xianni-1477-daogu-inheritance",
+        "seq": 1385
+      }
     ]
   },
   "firstSeq": 433,
   "attrProvenance": {
     "阶序": {
       "asOf": null,
-      "docId": "plot.xianni-1475-suming-second-battle-part1",
-      "dated": false,
-      "seq": 1385
-    },
-    "下一境": {
-      "asOf": null,
       "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
       "dated": false,
       "seq": 433
+    },
+    "下一境": {
+      "asOf": null,
+      "docId": "plot.xianni-1477-daogu-inheritance",
+      "dated": false,
+      "seq": 1385
     },
     "上一境": {
       "asOf": null,
@@ -80,6 +99,12 @@
       "docId": "plot.xianni-1475-suming-second-battle-part1",
       "dated": false,
       "seq": 1385
+    },
+    "突破关键": {
+      "asOf": null,
+      "docId": "plot.xianni-1477-daogu-inheritance",
+      "dated": false,
+      "seq": 1385
     }
   },
   "contested": false,
@@ -90,7 +115,8 @@
     "plot.xianni-1044-confusion-immortal-emperor-cave-bamboo-forest",
     "plot.xianni-1132-wuji-zi-years-rule",
     "lore.xianni-1424-meng-dao-zhong-mo",
-    "plot.xianni-1475-suming-second-battle-part1"
+    "plot.xianni-1475-suming-second-battle-part1",
+    "plot.xianni-1477-daogu-inheritance"
   ],
-  "updatedAt": "2026-08-25T21:58:01.558Z"
+  "updatedAt": "2026-08-25T22:02:43.079Z"
 }

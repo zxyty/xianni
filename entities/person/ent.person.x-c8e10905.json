@@ -3,12 +3,16 @@
   "type": "person",
   "name": "道古",
   "aliases": [
-    "古神道古"
+    "古神道古",
+    "道古之魂",
+    "第三层心脏之主"
   ],
   "summary": "一代朱雀时代的古神强者，未名列仙尊，但修为足令仙尊忌惮；其详情被一代朱雀以当年誓言封口。",
   "attributes": {
     "身份": "古神",
-    "称号": "非仙尊之列"
+    "称号": "非仙尊之列",
+    "外貌": "巨大头颅，与涂司全身等大，面目模糊，左目空旷流漆黑血液，神色狰狞",
+    "标志特征": "曾半生失去记忆"
   },
   "observations": {
     "身份": [
@@ -24,6 +28,20 @@
         "docId": "plot.xianni-1418-ye-keyi-wang-lin-refuses-first-zhu-que-offer",
         "seq": 1326,
         "note": "但修为足令仙尊忌惮"
+      }
+    ],
+    "外貌": [
+      {
+        "value": "巨大头颅，与涂司全身等大，面目模糊，左目空旷流漆黑血液，神色狰狞",
+        "docId": "plot.xianni-1477-daogu-inheritance",
+        "seq": 1385
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "曾半生失去记忆",
+        "docId": "plot.xianni-1477-daogu-inheritance",
+        "seq": 1385
       }
     ]
   },
@@ -41,13 +59,26 @@
       "dated": false,
       "seq": 1326,
       "note": "但修为足令仙尊忌惮"
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-1477-daogu-inheritance",
+      "dated": false,
+      "seq": 1385
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-1477-daogu-inheritance",
+      "dated": false,
+      "seq": 1385
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1418-ye-keyi-wang-lin-refuses-first-zhu-que-offer",
-    "plot.xianni-1458-ci-dao-wanglin-ponders-ancient-tomb-revives-trees"
+    "plot.xianni-1458-ci-dao-wanglin-ponders-ancient-tomb-revives-trees",
+    "plot.xianni-1477-daogu-inheritance"
   ],
-  "updatedAt": "2026-08-25T21:05:40.974Z"
+  "updatedAt": "2026-08-25T22:02:43.065Z"
 }
