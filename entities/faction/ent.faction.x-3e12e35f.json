@@ -5,13 +5,14 @@
   "aliases": [
     "Gui Zong",
     "九阶鬼宗",
-    "Gui Sect"
+    "Gui Sect",
+    "神秘鬼宗"
   ],
   "summary": "九阶星域最神秘的宗派，擅长摄魂之术，由神宗提拔为九阶；两万年前曾将半个修真星赐予宝玉宗先祖。",
   "attributes": {
     "等级": "九阶宗派（传闻晋升）",
-    "理念": "摄魂之术见长",
-    "所属界面": "云海九阶星域"
+    "理念": "神秘、隐于幕后",
+    "所属界面": "九阶星域"
   },
   "observations": {
     "等级": [
@@ -31,6 +32,12 @@
         "value": "摄魂之术见长",
         "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
         "seq": 1082
+      },
+      {
+        "value": "神秘、隐于幕后",
+        "docId": "plot.xianni-1302-zhi-shou-zhe-tian-tianjie",
+        "seq": 1217,
+        "note": "本章首次并列点出"
       }
     ],
     "所属界面": [
@@ -38,6 +45,11 @@
         "value": "云海九阶星域",
         "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
         "seq": 1082
+      },
+      {
+        "value": "九阶星域",
+        "docId": "plot.xianni-1302-zhi-shou-zhe-tian-tianjie",
+        "seq": 1217
       }
     ]
   },
@@ -51,22 +63,24 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+      "docId": "plot.xianni-1302-zhi-shou-zhe-tian-tianjie",
       "dated": false,
-      "seq": 1082
+      "seq": 1217,
+      "note": "本章首次并列点出"
     },
     "所属界面": {
       "asOf": null,
-      "docId": "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
+      "docId": "plot.xianni-1302-zhi-shou-zhe-tian-tianjie",
       "dated": false,
-      "seq": 1082
+      "seq": 1217
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "lore.yunhai-nine-tier-star-region-secret-and-penglai-fair",
-    "plot.xianni-1228-liu-jin-biao-yunhai-fenzong-dabi"
+    "plot.xianni-1228-liu-jin-biao-yunhai-fenzong-dabi",
+    "plot.xianni-1302-zhi-shou-zhe-tian-tianjie"
   ],
-  "updatedAt": "2026-08-25T02:31:52.006Z"
+  "updatedAt": "2026-08-25T07:59:54.801Z"
 }
