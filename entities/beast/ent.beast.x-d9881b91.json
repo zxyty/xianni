@@ -13,8 +13,9 @@
     "种族": "蚊兽",
     "等级": "蚊兽群中最低阶",
     "栖息地": "山脉外围",
-    "外形": "赤红色",
-    "能力": "身带仙气；一只嘶鸣即可引来成千上万同类"
+    "外形": "红色",
+    "能力": "身带仙气；一只嘶鸣即可引来成千上万同类",
+    "主人": "王林"
   },
   "observations": {
     "种族": [
@@ -53,6 +54,11 @@
         "value": "赤红色",
         "docId": "plot.xianni-1235-condensing-crimson-mosquito-beasts",
         "seq": 1151
+      },
+      {
+        "value": "红色",
+        "docId": "plot.xianni-1248-mosquito-king-recruit-retreat",
+        "seq": 1165
       }
     ],
     "能力": [
@@ -60,6 +66,14 @@
         "value": "身带仙气；一只嘶鸣即可引来成千上万同类",
         "docId": "plot.xianni-1235-condensing-crimson-mosquito-beasts",
         "seq": 1151
+      }
+    ],
+    "主人": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-1248-mosquito-king-recruit-retreat",
+        "seq": 1165,
+        "note": "第1248章归附，近万只"
       }
     ]
   },
@@ -85,15 +99,22 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-1235-condensing-crimson-mosquito-beasts",
+      "docId": "plot.xianni-1248-mosquito-king-recruit-retreat",
       "dated": false,
-      "seq": 1151
+      "seq": 1165
     },
     "能力": {
       "asOf": null,
       "docId": "plot.xianni-1235-condensing-crimson-mosquito-beasts",
       "dated": false,
       "seq": 1151
+    },
+    "主人": {
+      "asOf": null,
+      "docId": "plot.xianni-1248-mosquito-king-recruit-retreat",
+      "dated": false,
+      "seq": 1165,
+      "note": "第1248章归附，近万只"
     }
   },
   "contested": false,
@@ -101,7 +122,8 @@
   "docs": [
     "plot.xianni-1235-condensing-crimson-mosquito-beasts",
     "plot.xianni-1237-mosquito-king-approach",
-    "plot.xianni-1238-new-mosquito-king"
+    "plot.xianni-1238-new-mosquito-king",
+    "plot.xianni-1248-mosquito-king-recruit-retreat"
   ],
-  "updatedAt": "2026-08-25T02:58:45.241Z"
+  "updatedAt": "2026-08-25T03:46:09.852Z"
 }

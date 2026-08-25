@@ -636,3 +636,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T03:05:44.427Z** `ingest` plot.xianni-1241-ta-lai-le-me — 仙逆 第1241章 他，来了么——李倩梅问归元宗，斩赵龙留吕英杰 · kind=plot asOf=2026-08-25 entities=22 relations=31 src=01155-01159.p5.md
 - **2026-08-25T03:24:48.548Z** `ingest` plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules — 仙逆 第1160-1164章 风仙界巨门·残夜之后与第九道规则 · kind=plot asOf=2026-08-25 entities=57 relations=111 src=01160-01164.md
 - **2026-08-25T03:43:39.646Z** `ingest` plot.xianni-1247-wen-wang-bian-yi — 第1247章 蚊王变异——王林助蚊王争夺裂缝古蚊血脉 · kind=plot asOf=2026-08-25 entities=14 relations=17 src=01165-01169.p1.md
+- **2026-08-25T03:46:10.144Z** `ingest` plot.xianni-1248-mosquito-king-recruit-retreat — 《仙逆》第1248章 收：王林蚊王吸食万丈蚊王之血，万余蚊兽归附并逃出风仙界 · kind=plot asOf=2026-08-25 entities=22 relations=28 src=01165-01169.p2.md

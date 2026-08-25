@@ -7,15 +7,17 @@
     "半透明白色蚊兽",
     "白蚊",
     "白色蚊兽（两只）",
-    "两只白色蚊兽"
+    "两只白色蚊兽",
+    "白云蚊兽"
   ],
   "summary": "风之仙界内通体半透明的白色蚊兽，散发碎涅气息，数万蚊群中约三百余只；两只在目标山脉壁上以口器摩擦山石。",
   "attributes": {
     "种族": "蚊兽",
     "等级": "气息威压堪比碎涅",
     "栖息地": "风之仙界、山脉之上（守在蚊王所在山脉）、风仙界蚊兽山脉",
-    "外形": "白色，化白光疾驰",
-    "能力": "倒钩须发延长遍体如长毛、须发整体脱落如飞剑齐射，蕴含破天神通"
+    "外形": "白色",
+    "能力": "倒钩须发延长遍体如长毛、须发整体脱落如飞剑齐射，蕴含破天神通",
+    "主人": "王林"
   },
   "observations": {
     "种族": [
@@ -64,6 +66,11 @@
         "value": "白色，化白光疾驰",
         "docId": "plot.xianni-1237-mosquito-king-approach",
         "seq": 1155
+      },
+      {
+        "value": "白色",
+        "docId": "plot.xianni-1248-mosquito-king-recruit-retreat",
+        "seq": 1165
       }
     ],
     "能力": [
@@ -76,6 +83,14 @@
         "value": "须发整体脱落如飞剑齐射，蕴含破天神通",
         "docId": "plot.xianni-1237-mosquito-king-approach",
         "seq": 1155
+      }
+    ],
+    "主人": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-1248-mosquito-king-recruit-retreat",
+        "seq": 1165,
+        "note": "第1248章归附，近百只"
       }
     ]
   },
@@ -101,15 +116,22 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-1237-mosquito-king-approach",
+      "docId": "plot.xianni-1248-mosquito-king-recruit-retreat",
       "dated": false,
-      "seq": 1155
+      "seq": 1165
     },
     "能力": {
       "asOf": null,
       "docId": "plot.xianni-1237-mosquito-king-approach",
       "dated": false,
       "seq": 1155
+    },
+    "主人": {
+      "asOf": null,
+      "docId": "plot.xianni-1248-mosquito-king-recruit-retreat",
+      "dated": false,
+      "seq": 1165,
+      "note": "第1248章归附，近百只"
     }
   },
   "contested": false,
@@ -117,7 +139,8 @@
   "docs": [
     "plot.xianni-1236-another-mosquito-beast-king",
     "plot.xianni-1237-mosquito-king-approach",
-    "plot.xianni-1238-new-mosquito-king"
+    "plot.xianni-1238-new-mosquito-king",
+    "plot.xianni-1248-mosquito-king-recruit-retreat"
   ],
-  "updatedAt": "2026-08-25T02:58:45.239Z"
+  "updatedAt": "2026-08-25T03:46:09.854Z"
 }

@@ -10,14 +10,15 @@
     "七彩罗盘",
     "追踪罗盘",
     "Luo Pan",
-    "巨大罗盘"
+    "巨大罗盘",
+    "逆行者罗盘"
   ],
   "summary": "叱虎所持罗盘，可在仙界吞噬虚无中锁定方向，使三人不致迷失。",
   "attributes": {
     "持有者": "白发老者",
-    "能力": "在虚无中锁定方向、防止迷失、辅助推演禁制变化、旋转生威压锁定目标、卷七彩之芒凝无数七彩印记轰击、长久追踪、便于他人定位目标",
-    "外形": "弥漫天际的巨大罗盘",
-    "来历": "逆行者之术召唤"
+    "能力": "在虚无中锁定方向、防止迷失、辅助推演禁制变化、旋转生威压锁定目标、卷七彩之芒凝无数七彩印记轰击、长久追踪、便于他人定位目标、阻挡追兵、散发浩瀚之力与威压",
+    "外形": "约千丈大小、七彩之芒刺目、急速旋转",
+    "来历": "由逆行者神通凭空幻化"
   },
   "observations": {
     "持有者": [
@@ -62,6 +63,16 @@
         "value": "长久追踪、便于他人定位目标",
         "docId": "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan",
         "seq": 1110
+      },
+      {
+        "value": "阻挡追兵",
+        "docId": "plot.xianni-1248-mosquito-king-recruit-retreat",
+        "seq": 1165
+      },
+      {
+        "value": "散发浩瀚之力与威压",
+        "docId": "plot.xianni-1248-mosquito-king-recruit-retreat",
+        "seq": 1165
       }
     ],
     "外形": [
@@ -74,6 +85,11 @@
         "value": "弥漫天际的巨大罗盘",
         "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
         "seq": 1127
+      },
+      {
+        "value": "约千丈大小、七彩之芒刺目、急速旋转",
+        "docId": "plot.xianni-1248-mosquito-king-recruit-retreat",
+        "seq": 1165
       }
     ],
     "来历": [
@@ -81,6 +97,11 @@
         "value": "逆行者之术召唤",
         "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
         "seq": 1127
+      },
+      {
+        "value": "由逆行者神通凭空幻化",
+        "docId": "plot.xianni-1248-mosquito-king-recruit-retreat",
+        "seq": 1165
       }
     ]
   },
@@ -100,15 +121,15 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
+      "docId": "plot.xianni-1248-mosquito-king-recruit-retreat",
       "dated": false,
-      "seq": 1127
+      "seq": 1165
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
+      "docId": "plot.xianni-1248-mosquito-king-recruit-retreat",
       "dated": false,
-      "seq": 1127
+      "seq": 1165
     }
   },
   "contested": false,
@@ -118,7 +139,8 @@
     "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
     "plot.xianni-1051-zhou-yi-reappears",
     "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan",
-    "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes"
+    "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
+    "plot.xianni-1248-mosquito-king-recruit-retreat"
   ],
-  "updatedAt": "2026-08-25T00:53:51.271Z"
+  "updatedAt": "2026-08-25T03:46:09.860Z"
 }

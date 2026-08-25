@@ -16,8 +16,9 @@
     "种族": "蚊兽",
     "等级": "净涅初期（落单者）、净涅中期（蓝芒略深者）、高于赤红色蚊兽、低于白色蚊兽、相当于净涅、堪比净涅修士",
     "栖息地": "风之仙界、山脉附近、风仙界、风界",
-    "外形": "通体散出蓝光，口器巨大狰狞",
-    "能力": "对红色蚊兽极为霸道，红蚊遇之避让、臣服蚊兽王后仍对王林凶焰滔天、速度极快，远超赤红蚊兽、拥有神通"
+    "外形": "蓝色",
+    "能力": "对红色蚊兽极为霸道，红蚊遇之避让、臣服蚊兽王后仍对王林凶焰滔天、速度极快，远超赤红蚊兽、拥有神通",
+    "主人": "王林"
   },
   "observations": {
     "种族": [
@@ -91,6 +92,11 @@
         "value": "通体散出蓝光，口器巨大狰狞",
         "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
         "seq": 1160
+      },
+      {
+        "value": "蓝色",
+        "docId": "plot.xianni-1248-mosquito-king-recruit-retreat",
+        "seq": 1165
       }
     ],
     "能力": [
@@ -113,6 +119,14 @@
         "value": "拥有神通",
         "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
         "seq": 1160
+      }
+    ],
+    "主人": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-1248-mosquito-king-recruit-retreat",
+        "seq": 1165,
+        "note": "第1248章归附，近千只"
       }
     ]
   },
@@ -138,15 +152,22 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
+      "docId": "plot.xianni-1248-mosquito-king-recruit-retreat",
       "dated": false,
-      "seq": 1160
+      "seq": 1165
     },
     "能力": {
       "asOf": null,
       "docId": "plot.xianni-1236-another-mosquito-beast-king",
       "dated": false,
       "seq": 1151
+    },
+    "主人": {
+      "asOf": null,
+      "docId": "plot.xianni-1248-mosquito-king-recruit-retreat",
+      "dated": false,
+      "seq": 1165,
+      "note": "第1248章归附，近千只"
     }
   },
   "contested": false,
@@ -156,7 +177,8 @@
     "plot.xianni-1237-mosquito-king-approach",
     "plot.xianni-1238-new-mosquito-king",
     "plot.xianni-1241-ta-lai-le-me",
-    "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules"
+    "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
+    "plot.xianni-1248-mosquito-king-recruit-retreat"
   ],
-  "updatedAt": "2026-08-25T03:24:48.145Z"
+  "updatedAt": "2026-08-25T03:46:09.853Z"
 }
