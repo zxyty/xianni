@@ -8,8 +8,8 @@
   ],
   "summary": "布置朱雀星裂缝外太古大阵所用的材料，取自朱雀、青龙、白虎、玄武四族族人。",
   "attributes": {
-    "类型": "族群印记/储物空间",
-    "用途": "储存法宝之物，标识闪雷族身份"
+    "类型": "阵法材料、族群印记/储物空间、种族印记",
+    "用途": "布置太古大阵、储存法宝之物，标识闪雷族身份、配合聚雷印修行、长期修行可缓缓开启"
   },
   "observations": {
     "类型": [
@@ -21,6 +21,11 @@
       {
         "value": "族群印记/储物空间",
         "docId": "plot.xianni-1331-tianlei-zong-qiudehai-flees-wanglin",
+        "seq": 1246
+      },
+      {
+        "value": "种族印记",
+        "docId": "plot.xianni-1333-this-is-life-xu-liguo-plunder",
         "seq": 1246
       }
     ],
@@ -34,6 +39,16 @@
         "value": "储存法宝之物，标识闪雷族身份",
         "docId": "plot.xianni-1331-tianlei-zong-qiudehai-flees-wanglin",
         "seq": 1246
+      },
+      {
+        "value": "配合聚雷印修行",
+        "docId": "plot.xianni-1333-this-is-life-xu-liguo-plunder",
+        "seq": 1246
+      },
+      {
+        "value": "长期修行可缓缓开启",
+        "docId": "plot.xianni-1333-this-is-life-xu-liguo-plunder",
+        "seq": 1246
       }
     ]
   },
@@ -41,22 +56,23 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1331-tianlei-zong-qiudehai-flees-wanglin",
+      "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
       "dated": false,
-      "seq": 1246
+      "seq": 1127
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-1331-tianlei-zong-qiudehai-flees-wanglin",
+      "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
       "dated": false,
-      "seq": 1246
+      "seq": 1127
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
-    "plot.xianni-1331-tianlei-zong-qiudehai-flees-wanglin"
+    "plot.xianni-1331-tianlei-zong-qiudehai-flees-wanglin",
+    "plot.xianni-1333-this-is-life-xu-liguo-plunder"
   ],
-  "updatedAt": "2026-08-25T11:14:17.448Z"
+  "updatedAt": "2026-08-25T11:18:53.443Z"
 }

@@ -6,13 +6,14 @@
     "Lei Jing",
     "Lightning Crystal",
     "雷之晶石",
-    "Thunder Crystal"
+    "Thunder Crystal",
+    "雷晶石"
   ],
   "summary": "闪雷族的功勋计数单位，并非实物；以功法神通、法宝丹药、炼器炼丹材料乃至香火之力奉献换取，香火之力换得最多，七年后雷晶最多者可入圣地。",
   "attributes": {
-    "类型": "功勋计数（非实物）、晶石资源、货币/资源晶石",
-    "用途": "争夺百年一次的圣地名额、闪雷榜排名依据、以雷果换取的等价物、闪雷族通用兑换物",
-    "产地": "闪雷族"
+    "类型": "功勋计数（非实物）、晶石资源、货币/资源晶石、资源/晶石",
+    "用途": "争夺百年一次的圣地名额、闪雷榜排名依据、以雷果换取的等价物、闪雷族通用兑换物、闪雷族内换取交易之物",
+    "产地": "闪雷族奉献制度、闪雷族、闪雷族修真星"
   },
   "observations": {
     "类型": [
@@ -29,6 +30,11 @@
       {
         "value": "货币/资源晶石",
         "docId": "plot.xianni-ch1332-jingdi-zhongdahong-xuliguo",
+        "seq": 1246
+      },
+      {
+        "value": "资源/晶石",
+        "docId": "plot.xianni-1333-this-is-life-xu-liguo-plunder",
         "seq": 1246
       }
     ],
@@ -52,6 +58,11 @@
         "value": "闪雷族通用兑换物",
         "docId": "plot.xianni-ch1332-jingdi-zhongdahong-xuliguo",
         "seq": 1246
+      },
+      {
+        "value": "闪雷族内换取交易之物",
+        "docId": "plot.xianni-1333-this-is-life-xu-liguo-plunder",
+        "seq": 1246
       }
     ],
     "产地": [
@@ -63,6 +74,11 @@
       {
         "value": "闪雷族",
         "docId": "plot.xianni-ch1332-jingdi-zhongdahong-xuliguo",
+        "seq": 1246
+      },
+      {
+        "value": "闪雷族修真星",
+        "docId": "plot.xianni-1333-this-is-life-xu-liguo-plunder",
         "seq": 1246
       }
     ]
@@ -83,9 +99,9 @@
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.xianni-ch1332-jingdi-zhongdahong-xuliguo",
+      "docId": "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
       "dated": false,
-      "seq": 1246
+      "seq": 1242
     }
   },
   "contested": false,
@@ -93,7 +109,8 @@
   "docs": [
     "plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam",
     "plot.xianni-1331-tianlei-zong-qiudehai-flees-wanglin",
-    "plot.xianni-ch1332-jingdi-zhongdahong-xuliguo"
+    "plot.xianni-ch1332-jingdi-zhongdahong-xuliguo",
+    "plot.xianni-1333-this-is-life-xu-liguo-plunder"
   ],
-  "updatedAt": "2026-08-25T11:16:10.508Z"
+  "updatedAt": "2026-08-25T11:18:53.441Z"
 }

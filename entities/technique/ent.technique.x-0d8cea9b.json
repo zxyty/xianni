@@ -4,19 +4,31 @@
   "name": "无敌之术",
   "aliases": [
     "钟大洪的无敌之术",
-    "阿谀保命之术"
+    "阿谀保命之术",
+    "拍马之术",
+    "奉承之术"
   ],
   "summary": "钟大洪自诩的保命杀手锏，实为极致的阿谀奉承；他认定许立国亦精通此术且境界更高（数语乃至表情皆含真意）。",
   "attributes": {
-    "效果": "危急关头保住修为性命",
+    "效果": "危急关头保住修为性命、博取王林欢心、换取丹药法宝赏赐",
     "出处": "钟大洪自创并暗中练至炉火纯青",
-    "修炼条件": "轻易不用，一生仅用三次"
+    "修炼条件": "轻易不用，一生仅用三次、长期钻研与随时施展"
   },
   "observations": {
     "效果": [
       {
         "value": "危急关头保住修为性命",
         "docId": "plot.xianni-ch1332-jingdi-zhongdahong-xuliguo",
+        "seq": 1246
+      },
+      {
+        "value": "博取王林欢心",
+        "docId": "plot.xianni-1333-this-is-life-xu-liguo-plunder",
+        "seq": 1246
+      },
+      {
+        "value": "换取丹药法宝赏赐",
+        "docId": "plot.xianni-1333-this-is-life-xu-liguo-plunder",
         "seq": 1246
       }
     ],
@@ -31,6 +43,11 @@
       {
         "value": "轻易不用，一生仅用三次",
         "docId": "plot.xianni-ch1332-jingdi-zhongdahong-xuliguo",
+        "seq": 1246
+      },
+      {
+        "value": "长期钻研与随时施展",
+        "docId": "plot.xianni-1333-this-is-life-xu-liguo-plunder",
         "seq": 1246
       }
     ]
@@ -59,7 +76,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1332-jingdi-zhongdahong-xuliguo"
+    "plot.xianni-ch1332-jingdi-zhongdahong-xuliguo",
+    "plot.xianni-1333-this-is-life-xu-liguo-plunder"
   ],
-  "updatedAt": "2026-08-25T11:16:10.519Z"
+  "updatedAt": "2026-08-25T11:18:53.438Z"
 }

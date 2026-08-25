@@ -712,3 +712,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T10:35:25.042Z** `ingest` plot.xianni-ch1327-white-robed-woman-death-incense-poison-scam — 仙逆 第1327章 骗局——白衣女子被斩·兰妃投影金线被银尸吞噬·香火是毒的警示 · kind=plot asOf=2026-08-25 entities=88 relations=144 src=01242-01245.md
 - **2026-08-25T11:14:17.821Z** `ingest` plot.xianni-1331-tianlei-zong-qiudehai-flees-wanglin — 第1331章 为前辈……：王林碎雷果、废天雷宗四长老，干瘦化神修士纳头便拜 · kind=plot asOf=2026-08-25 entities=19 relations=31 src=01246-01249.p1.md
 - **2026-08-25T11:16:10.882Z** `ingest` plot.xianni-ch1332-jingdi-zhongdahong-xuliguo — 第1332章 劲敌：天雷宗宗主钟大洪献宝投诚，许立国出关争宠 · kind=plot asOf=2026-08-25 entities=19 relations=26 src=01246-01249.p2.md
+- **2026-08-25T11:18:53.750Z** `ingest` plot.xianni-1333-this-is-life-xu-liguo-plunder — 第1333章 这才是生活——许立国、钟大洪横扫闪雷族搜刮雷晶，王林参悟聚雷印 · kind=plot asOf=2026-08-25 entities=29 relations=40 src=01246-01249.p3.md
