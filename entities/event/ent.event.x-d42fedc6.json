@@ -3,14 +3,16 @@
   "type": "event",
   "name": "虚无与望月之战",
   "aliases": [
-    "望月之战"
+    "望月之战",
+    "与望月一战"
   ],
   "summary": "王林与月牙印记青年初次相遇的战事，青年于界外形成漩涡妄图收走望月，并傲言自己在界内修士眼中就是天道。",
   "attributes": {
-    "参与方": "王林、月牙印记青年",
+    "参与方": "王林、月牙印记青年、望月",
     "地点": "界外/虚无",
     "经过": "青年在界外形成漩涡，妄图收走望月",
-    "影响": "王林由此震惊并逐步查明月噬族为古神奴族"
+    "影响": "王林由此震惊并逐步查明月噬族为古神奴族",
+    "世内时序": "当年（早于本章）"
   },
   "observations": {
     "参与方": [
@@ -23,6 +25,11 @@
         "value": "月牙印记青年",
         "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
         "seq": 1123
+      },
+      {
+        "value": "望月",
+        "docId": "plot.xianni-1337-shanleizu-liudao-zhilei",
+        "seq": 1250
       }
     ],
     "地点": [
@@ -44,6 +51,13 @@
         "value": "王林由此震惊并逐步查明月噬族为古神奴族",
         "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
         "seq": 1123
+      }
+    ],
+    "世内时序": [
+      {
+        "value": "当年（早于本章）",
+        "docId": "plot.xianni-1337-shanleizu-liudao-zhilei",
+        "seq": 1250
       }
     ]
   },
@@ -72,12 +86,19 @@
       "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
       "dated": false,
       "seq": 1123
+    },
+    "世内时序": {
+      "asOf": null,
+      "docId": "plot.xianni-1337-shanleizu-liudao-zhilei",
+      "dated": false,
+      "seq": 1250
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu"
+    "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
+    "plot.xianni-1337-shanleizu-liudao-zhilei"
   ],
-  "updatedAt": "2026-08-25T00:37:02.626Z"
+  "updatedAt": "2026-08-25T11:37:50.048Z"
 }
