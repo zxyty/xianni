@@ -1,45 +1,41 @@
 {
-  "id": "ent.place.x-51f549a2",
-  "type": "place",
-  "name": "妖宗裂缝",
+  "id": "ent.artifact.x-fcb27f74",
+  "type": "artifact",
+  "name": "阁楼上的两把石剑",
   "aliases": [
-    "漆黑的裂缝"
+    "两把石剑",
+    "雕像身前的石剑"
   ],
-  "summary": "三千年前白发老者最喜爱的弟子战死之地（流月回溯记忆中提及）。",
+  "summary": "插在白玉阁楼盘膝雕像身前的两把石剑，为本章结尾悬念。",
   "attributes": {
-    "类型": "空间裂缝",
-    "守护": "妖宗与数千驻守修士"
+    "外形": "石剑两把",
+    "持有者": "白玉阁楼上的盘膝雕像"
   },
   "observations": {
-    "类型": [
+    "外形": [
       {
-        "value": "空间裂缝/战场",
-        "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
-        "seq": 1174
-      },
-      {
-        "value": "空间裂缝",
+        "value": "石剑两把",
         "docId": "plot.xianni-ch1301-wuliang-tribulation-descends",
         "seq": 1212
       }
     ],
-    "守护": [
+    "持有者": [
       {
-        "value": "妖宗与数千驻守修士",
+        "value": "白玉阁楼上的盘膝雕像",
         "docId": "plot.xianni-ch1301-wuliang-tribulation-descends",
         "seq": 1212
       }
     ]
   },
-  "firstSeq": 1174,
+  "firstSeq": 1212,
   "attrProvenance": {
-    "类型": {
+    "外形": {
       "asOf": null,
       "docId": "plot.xianni-ch1301-wuliang-tribulation-descends",
       "dated": false,
       "seq": 1212
     },
-    "守护": {
+    "持有者": {
       "asOf": null,
       "docId": "plot.xianni-ch1301-wuliang-tribulation-descends",
       "dated": false,
@@ -49,8 +45,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
     "plot.xianni-ch1301-wuliang-tribulation-descends"
   ],
-  "updatedAt": "2026-08-25T07:57:07.173Z"
+  "updatedAt": "2026-08-25T07:57:07.178Z"
 }

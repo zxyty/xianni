@@ -5,7 +5,8 @@
   "aliases": [
     "妖宗第一代宗主",
     "妖宗最后一代宗主",
-    "石碑上的中年男子"
+    "石碑上的中年男子",
+    "妖宗之主"
   ],
   "summary": "妖宗第一代也是最后一代宗主，齐天石碑所刻中年男子；传闻与神宗宗主为同一人、来自远古仙域，曾几乎彻底封印裂缝，如今已失踪生死不知。",
   "attributes": {
@@ -13,7 +14,8 @@
     "出身地": "远古仙域",
     "外貌": "中年，衣衫飘动，脚踏祥云",
     "本命法宝": "苍天巨树",
-    "存殁": "失踪，生死不知"
+    "存殁": "失踪，生死不知",
+    "身份": "妖宗宗主"
   },
   "observations": {
     "称号": [
@@ -52,6 +54,13 @@
         "seq": 1207,
         "note": "传闻"
       }
+    ],
+    "身份": [
+      {
+        "value": "妖宗宗主",
+        "docId": "plot.xianni-ch1301-wuliang-tribulation-descends",
+        "seq": 1212
+      }
     ]
   },
   "firstSeq": 1207,
@@ -87,12 +96,19 @@
       "dated": false,
       "seq": 1207,
       "note": "传闻"
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1301-wuliang-tribulation-descends",
+      "dated": false,
+      "seq": 1212
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1293-yaozong-six-star-formation-wang-lin-arrives-rift"
+    "plot.xianni-ch1293-yaozong-six-star-formation-wang-lin-arrives-rift",
+    "plot.xianni-ch1301-wuliang-tribulation-descends"
   ],
-  "updatedAt": "2026-08-25T07:38:15.597Z"
+  "updatedAt": "2026-08-25T07:57:07.166Z"
 }

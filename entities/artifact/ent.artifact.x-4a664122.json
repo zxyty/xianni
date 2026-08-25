@@ -1,45 +1,41 @@
 {
-  "id": "ent.place.x-51f549a2",
-  "type": "place",
-  "name": "妖宗裂缝",
+  "id": "ent.artifact.x-4a664122",
+  "type": "artifact",
+  "name": "白玉阁楼",
   "aliases": [
-    "漆黑的裂缝"
+    "庞大的白玉阁楼",
+    "劫云中的阁楼"
   ],
-  "summary": "三千年前白发老者最喜爱的弟子战死之地（流月回溯记忆中提及）。",
+  "summary": "无量劫云层缺口中自另一个世界不断挤出的通体白玉巨大阁楼，章末已挤出一半，其上有一座盘膝雕像。",
   "attributes": {
-    "类型": "空间裂缝",
-    "守护": "妖宗与数千驻守修士"
+    "外形": "通体白玉的巨大阁楼",
+    "来历": "自劫云中通往另一个世界的缺口挤出"
   },
   "observations": {
-    "类型": [
+    "外形": [
       {
-        "value": "空间裂缝/战场",
-        "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
-        "seq": 1174
-      },
-      {
-        "value": "空间裂缝",
+        "value": "通体白玉的巨大阁楼",
         "docId": "plot.xianni-ch1301-wuliang-tribulation-descends",
         "seq": 1212
       }
     ],
-    "守护": [
+    "来历": [
       {
-        "value": "妖宗与数千驻守修士",
+        "value": "自劫云中通往另一个世界的缺口挤出",
         "docId": "plot.xianni-ch1301-wuliang-tribulation-descends",
         "seq": 1212
       }
     ]
   },
-  "firstSeq": 1174,
+  "firstSeq": 1212,
   "attrProvenance": {
-    "类型": {
+    "外形": {
       "asOf": null,
       "docId": "plot.xianni-ch1301-wuliang-tribulation-descends",
       "dated": false,
       "seq": 1212
     },
-    "守护": {
+    "来历": {
       "asOf": null,
       "docId": "plot.xianni-ch1301-wuliang-tribulation-descends",
       "dated": false,
@@ -49,8 +45,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
     "plot.xianni-ch1301-wuliang-tribulation-descends"
   ],
-  "updatedAt": "2026-08-25T07:57:07.173Z"
+  "updatedAt": "2026-08-25T07:57:07.177Z"
 }

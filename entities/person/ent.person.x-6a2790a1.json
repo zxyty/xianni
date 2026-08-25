@@ -2,10 +2,16 @@
   "id": "ent.person.x-6a2790a1",
   "type": "person",
   "name": "妖宗太上长老",
-  "aliases": [],
+  "aliases": [
+    "妖宗的太上长老",
+    "身穿道袍的中年男子"
+  ],
   "summary": "妖宗高层，可施展神通为被认可的战场修士取出并储存魂血；千年前曾为白衣老妪留下疗伤封印。",
   "attributes": {
-    "身份": "妖宗太上长老"
+    "身份": "妖宗太上长老",
+    "性别": "男",
+    "外貌": "身穿道袍的中年男子，看似年轻却沧桑弥漫，似存活太久",
+    "性格": "凝重、见识广博、当机立断"
   },
   "observations": {
     "身份": [
@@ -13,6 +19,27 @@
         "value": "妖宗太上长老",
         "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
         "seq": 1200
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch1301-wuliang-tribulation-descends",
+        "seq": 1212
+      }
+    ],
+    "外貌": [
+      {
+        "value": "身穿道袍的中年男子，看似年轻却沧桑弥漫，似存活太久",
+        "docId": "plot.xianni-ch1301-wuliang-tribulation-descends",
+        "seq": 1212
+      }
+    ],
+    "性格": [
+      {
+        "value": "凝重、见识广博、当机立断",
+        "docId": "plot.xianni-ch1301-wuliang-tribulation-descends",
+        "seq": 1212
       }
     ]
   },
@@ -23,12 +50,31 @@
       "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
       "dated": false,
       "seq": 1200
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1301-wuliang-tribulation-descends",
+      "dated": false,
+      "seq": 1212
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1301-wuliang-tribulation-descends",
+      "dated": false,
+      "seq": 1212
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1301-wuliang-tribulation-descends",
+      "dated": false,
+      "seq": 1212
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.xianni-1284-tianni-origin-fengjie-zhizun"
+    "lore.xianni-1284-tianni-origin-fengjie-zhizun",
+    "plot.xianni-ch1301-wuliang-tribulation-descends"
   ],
-  "updatedAt": "2026-08-25T06:20:26.566Z"
+  "updatedAt": "2026-08-25T07:57:07.160Z"
 }

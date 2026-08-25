@@ -1,45 +1,41 @@
 {
-  "id": "ent.place.x-51f549a2",
-  "type": "place",
-  "name": "妖宗裂缝",
+  "id": "ent.person.x-48dfd8ef",
+  "type": "person",
+  "name": "裂缝外探查老者",
   "aliases": [
-    "漆黑的裂缝"
+    "六大高手之一的老者",
+    "化绿芒的老者"
   ],
-  "summary": "三千年前白发老者最喜爱的弟子战死之地（流月回溯记忆中提及）。",
+  "summary": "裂缝外数千修士中六大高手之一，数日前潜入裂缝探查，带回『凶兽尽数一击毙命、深处疑成血海』的骇闻。",
   "attributes": {
-    "类型": "空间裂缝",
-    "守护": "妖宗与数千驻守修士"
+    "身份": "裂缝外散修阵营六大高手之一",
+    "外貌": "老者，遁光为绿芒"
   },
   "observations": {
-    "类型": [
+    "身份": [
       {
-        "value": "空间裂缝/战场",
-        "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
-        "seq": 1174
-      },
-      {
-        "value": "空间裂缝",
+        "value": "裂缝外散修阵营六大高手之一",
         "docId": "plot.xianni-ch1301-wuliang-tribulation-descends",
         "seq": 1212
       }
     ],
-    "守护": [
+    "外貌": [
       {
-        "value": "妖宗与数千驻守修士",
+        "value": "老者，遁光为绿芒",
         "docId": "plot.xianni-ch1301-wuliang-tribulation-descends",
         "seq": 1212
       }
     ]
   },
-  "firstSeq": 1174,
+  "firstSeq": 1212,
   "attrProvenance": {
-    "类型": {
+    "身份": {
       "asOf": null,
       "docId": "plot.xianni-ch1301-wuliang-tribulation-descends",
       "dated": false,
       "seq": 1212
     },
-    "守护": {
+    "外貌": {
       "asOf": null,
       "docId": "plot.xianni-ch1301-wuliang-tribulation-descends",
       "dated": false,
@@ -49,8 +45,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
     "plot.xianni-ch1301-wuliang-tribulation-descends"
   ],
-  "updatedAt": "2026-08-25T07:57:07.173Z"
+  "updatedAt": "2026-08-25T07:57:07.164Z"
 }
