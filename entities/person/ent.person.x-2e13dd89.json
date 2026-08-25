@@ -4,13 +4,16 @@
   "name": "大帝使者",
   "aliases": [
     "赤红衣衫中年男子",
-    "大帝口谕宣读者"
+    "大帝口谕宣读者",
+    "使者中年男子",
+    "大帝使者中年男子"
   ],
   "summary": "赤红衣衫中年男子，修炼隐藏修为的绝顶功法，携红色玉简宣读大帝口谕，并向王林自称属下、称其少帝。",
   "attributes": {
-    "身份": "大帝使者",
-    "外貌": "身穿赤红衣衫的中年男子",
-    "标志特征": "身上毫无修为气息"
+    "身份": "大帝使者、颠落大帝使者",
+    "外貌": "身穿赤红衣衫的中年男子、中年男子",
+    "标志特征": "身上毫无修为气息",
+    "性格": "笑容恭敬、转瞬冷漠"
   },
   "observations": {
     "身份": [
@@ -18,12 +21,22 @@
         "value": "大帝使者",
         "docId": "plot.xianni-1381-shao-di",
         "seq": 1292
+      },
+      {
+        "value": "颠落大帝使者",
+        "docId": "plot.xianni-1382-gu-ren-longjia-clan-poison-pill",
+        "seq": 1292
       }
     ],
     "外貌": [
       {
         "value": "身穿赤红衣衫的中年男子",
         "docId": "plot.xianni-1381-shao-di",
+        "seq": 1292
+      },
+      {
+        "value": "中年男子",
+        "docId": "plot.xianni-1382-gu-ren-longjia-clan-poison-pill",
         "seq": 1292
       }
     ],
@@ -33,6 +46,13 @@
         "docId": "plot.xianni-1381-shao-di",
         "seq": 1292,
         "note": "修炼了隐藏修为的绝顶功法，王林亦无法察觉"
+      }
+    ],
+    "性格": [
+      {
+        "value": "笑容恭敬、转瞬冷漠",
+        "docId": "plot.xianni-1382-gu-ren-longjia-clan-poison-pill",
+        "seq": 1292
       }
     ]
   },
@@ -56,12 +76,19 @@
       "dated": false,
       "seq": 1292,
       "note": "修炼了隐藏修为的绝顶功法，王林亦无法察觉"
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-1382-gu-ren-longjia-clan-poison-pill",
+      "dated": false,
+      "seq": 1292
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1381-shao-di"
+    "plot.xianni-1381-shao-di",
+    "plot.xianni-1382-gu-ren-longjia-clan-poison-pill"
   ],
-  "updatedAt": "2026-08-25T14:12:03.411Z"
+  "updatedAt": "2026-08-25T14:18:50.972Z"
 }

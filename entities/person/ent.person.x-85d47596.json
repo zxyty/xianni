@@ -5,13 +5,17 @@
   "aliases": [
     "龙甲族少族主",
     "龙甲族少族长",
-    "少族"
+    "少族",
+    "龙甲族族长之子",
+    "龙甲族少主"
   ],
   "summary": "龙甲族身份高贵的少族，极少现身阁楼，为火本源魂丹破例亲至，交付三块炎火异晶并向王林介绍龙甲族三宝以求继续交易。",
   "attributes": {
     "种族": "龙甲族",
     "身份": "龙甲族少族、龙甲族少族（族长之子）、龙甲族少族长",
-    "外貌": "身穿道袍、头发紫色、不怒自威的中年男子"
+    "外貌": "身穿道袍、头发紫色、不怒自威的中年男子",
+    "存殁": "存活",
+    "结局": "修为尽废成为凡人，昏迷后被其父送入地面安全处"
   },
   "observations": {
     "种族": [
@@ -44,6 +48,20 @@
         "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
         "seq": 1288
       }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-1382-gu-ren-longjia-clan-poison-pill",
+        "seq": 1292
+      }
+    ],
+    "结局": [
+      {
+        "value": "修为尽废成为凡人，昏迷后被其父送入地面安全处",
+        "docId": "plot.xianni-1382-gu-ren-longjia-clan-poison-pill",
+        "seq": 1292
+      }
     ]
   },
   "firstSeq": 1288,
@@ -65,6 +83,18 @@
       "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
       "dated": false,
       "seq": 1288
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1382-gu-ren-longjia-clan-poison-pill",
+      "dated": false,
+      "seq": 1292
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-1382-gu-ren-longjia-clan-poison-pill",
+      "dated": false,
+      "seq": 1292
     }
   },
   "contested": false,
@@ -74,7 +104,8 @@
     "plot.xianni-1377-longbeng-dan-refine-challenge",
     "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi",
     "plot.xianni-1379-emperor-arrives-siwang-po-tian-dao-duel",
-    "plot.xianni-1381-shao-di"
+    "plot.xianni-1381-shao-di",
+    "plot.xianni-1382-gu-ren-longjia-clan-poison-pill"
   ],
-  "updatedAt": "2026-08-25T14:12:03.413Z"
+  "updatedAt": "2026-08-25T14:18:50.943Z"
 }
