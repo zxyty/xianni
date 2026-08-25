@@ -5,13 +5,17 @@
   "aliases": [
     "紫色裂缝",
     "裂缝世界",
-    "紫色世界"
+    "紫色世界",
+    "无边裂缝",
+    "凶兽裂缝"
   ],
   "summary": "本章战场：一处紫色裂缝构成的空间，内有数不尽的本土凶兽，越深入寒气越盛，深处白色气息可幻化阴寒凶兽。",
   "attributes": {
-    "类型": "空间裂缝/秘境",
-    "危险度": "极高——凶兽无穷、深处极寒可冻结法术、压制元神",
-    "守护": "无边无迹的凶兽与白气所化阴寒凶兽"
+    "类型": "裂缝空间/神秘之地",
+    "危险度": "极高（十九头化形凶兽，深处有更强者）",
+    "守护": "无边无迹的凶兽与白气所化阴寒凶兽",
+    "特产": "凶兽精血",
+    "所属势力": "疑为依月一方"
   },
   "observations": {
     "类型": [
@@ -19,6 +23,11 @@
         "value": "空间裂缝/秘境",
         "docId": "plot.xianni-1296-changxiao-wanglin-rescues-li-qianmei",
         "seq": 1207
+      },
+      {
+        "value": "裂缝空间/神秘之地",
+        "docId": "plot.xianni-ch1300-ancient-god-altar",
+        "seq": 1212
       }
     ],
     "危险度": [
@@ -26,6 +35,11 @@
         "value": "极高——凶兽无穷、深处极寒可冻结法术、压制元神",
         "docId": "plot.xianni-1296-changxiao-wanglin-rescues-li-qianmei",
         "seq": 1207
+      },
+      {
+        "value": "极高（十九头化形凶兽，深处有更强者）",
+        "docId": "plot.xianni-ch1300-ancient-god-altar",
+        "seq": 1212
       }
     ],
     "守护": [
@@ -34,34 +48,63 @@
         "docId": "plot.xianni-1296-changxiao-wanglin-rescues-li-qianmei",
         "seq": 1207
       }
+    ],
+    "特产": [
+      {
+        "value": "凶兽精血",
+        "docId": "plot.xianni-ch1300-ancient-god-altar",
+        "seq": 1212
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "疑为依月一方",
+        "docId": "plot.xianni-ch1300-ancient-god-altar",
+        "seq": 1212,
+        "note": "深处禁锢之地为依月本体疗伤处"
+      }
     ]
   },
   "firstSeq": 1207,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1296-changxiao-wanglin-rescues-li-qianmei",
+      "docId": "plot.xianni-ch1300-ancient-god-altar",
       "dated": false,
-      "seq": 1207
+      "seq": 1212
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-1296-changxiao-wanglin-rescues-li-qianmei",
+      "docId": "plot.xianni-ch1300-ancient-god-altar",
       "dated": false,
-      "seq": 1207
+      "seq": 1212
     },
     "守护": {
       "asOf": null,
       "docId": "plot.xianni-1296-changxiao-wanglin-rescues-li-qianmei",
       "dated": false,
       "seq": 1207
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1300-ancient-god-altar",
+      "dated": false,
+      "seq": 1212
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1300-ancient-god-altar",
+      "dated": false,
+      "seq": 1212,
+      "note": "深处禁锢之地为依月本体疗伤处"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1296-changxiao-wanglin-rescues-li-qianmei",
-    "plot.xianni-ch1298-tear-open-seal-shatter-nirvana-breakthrough"
+    "plot.xianni-ch1298-tear-open-seal-shatter-nirvana-breakthrough",
+    "plot.xianni-ch1300-ancient-god-altar"
   ],
-  "updatedAt": "2026-08-25T07:50:01.668Z"
+  "updatedAt": "2026-08-25T07:54:54.213Z"
 }

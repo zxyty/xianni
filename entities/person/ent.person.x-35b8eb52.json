@@ -5,15 +5,20 @@
   "aliases": [
     "Zi Xue",
     "黑衣蝎纹女子",
-    "远古帝妃麾下紫血"
+    "远古帝妃麾下紫血",
+    "十三阶蝎子",
+    "依月兽将紫血"
   ],
   "summary": "章末现身的黑衣女子，面有蝎子纹路、嘴角带血，身前浮现万丈九尾巨蝎虚影，自称远古帝妃麾下，向王林问名。",
   "attributes": {
     "性别": "女",
-    "身份": "远古帝妃麾下",
+    "身份": "远古帝妃麾下、麾下兽将之一，为主人疗伤护法",
     "称号": "紫血",
-    "外貌": "身穿黑衣、面部有蝎子纹路、双目阴沉、嘴角带血",
-    "标志特征": "身后万丈九尾巨蝎虚影、九道鞭影"
+    "外貌": "身穿黑衣、面部有蝎子纹路、双目阴沉、嘴角带血、九条尾巴的庞大蝎子；元神呈黑衣女子面孔",
+    "标志特征": "身后万丈九尾巨蝎虚影、九道鞭影",
+    "种族": "凶兽（化人形）",
+    "存殁": "死亡",
+    "死因": "被王林撕裂蝎尾重创，再遭蚊王与五千蚊兽吸尽血液与天道感悟，头颅被轰爆"
   },
   "observations": {
     "性别": [
@@ -27,6 +32,11 @@
       {
         "value": "远古帝妃麾下",
         "docId": "plot.xianni-ch1298-tear-open-seal-shatter-nirvana-breakthrough",
+        "seq": 1212
+      },
+      {
+        "value": "麾下兽将之一，为主人疗伤护法",
+        "docId": "plot.xianni-ch1300-ancient-god-altar",
         "seq": 1212
       }
     ],
@@ -42,12 +52,38 @@
         "value": "身穿黑衣、面部有蝎子纹路、双目阴沉、嘴角带血",
         "docId": "plot.xianni-ch1298-tear-open-seal-shatter-nirvana-breakthrough",
         "seq": 1212
+      },
+      {
+        "value": "九条尾巴的庞大蝎子；元神呈黑衣女子面孔",
+        "docId": "plot.xianni-ch1300-ancient-god-altar",
+        "seq": 1212
       }
     ],
     "标志特征": [
       {
         "value": "身后万丈九尾巨蝎虚影、九道鞭影",
         "docId": "plot.xianni-ch1298-tear-open-seal-shatter-nirvana-breakthrough",
+        "seq": 1212
+      }
+    ],
+    "种族": [
+      {
+        "value": "凶兽（化人形）",
+        "docId": "plot.xianni-ch1300-ancient-god-altar",
+        "seq": 1212
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch1300-ancient-god-altar",
+        "seq": 1212
+      }
+    ],
+    "死因": [
+      {
+        "value": "被王林撕裂蝎尾重创，再遭蚊王与五千蚊兽吸尽血液与天道感悟，头颅被轰爆",
+        "docId": "plot.xianni-ch1300-ancient-god-altar",
         "seq": 1212
       }
     ]
@@ -83,12 +119,31 @@
       "docId": "plot.xianni-ch1298-tear-open-seal-shatter-nirvana-breakthrough",
       "dated": false,
       "seq": 1212
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1300-ancient-god-altar",
+      "dated": false,
+      "seq": 1212
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1300-ancient-god-altar",
+      "dated": false,
+      "seq": 1212
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1300-ancient-god-altar",
+      "dated": false,
+      "seq": 1212
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1298-tear-open-seal-shatter-nirvana-breakthrough"
+    "plot.xianni-ch1298-tear-open-seal-shatter-nirvana-breakthrough",
+    "plot.xianni-ch1300-ancient-god-altar"
   ],
-  "updatedAt": "2026-08-25T07:50:01.646Z"
+  "updatedAt": "2026-08-25T07:54:54.199Z"
 }
