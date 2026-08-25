@@ -3,15 +3,16 @@
   "type": "race",
   "name": "月噬族",
   "aliases": [
-    "Yue Shi Clan"
+    "Yue Shi Clan",
+    "Yueshi Clan"
   ],
   "summary": "极强之族，但据灵儿所言，早年不过是古神一族的仆从之流。",
   "attributes": {
-    "特性": "强大、月之力/反月之力、禁术『月之禁·神怒』可借古神族魂",
+    "特性": "强大、月之力/反月之力、禁术『月之禁·神怒』可借古神族魂、太古星辰七大强族之一、自太古叛离古神、掌握尚不完善的『吞古神』之法、狂妄，称古神为『奴神』",
     "阵营": "古神一族仆从",
-    "聚居地": "太古星辰（界外）",
+    "聚居地": "月噬族星域",
     "天赋神通": "反月之力",
-    "代表人物": "月牙印记青年",
+    "代表人物": "月牙印记青年、月袍沧桑老者、禁地九名月噬族老者",
     "天敌": "古神一族"
   },
   "observations": {
@@ -30,6 +31,26 @@
         "value": "禁术『月之禁·神怒』可借古神族魂",
         "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
         "seq": 1123
+      },
+      {
+        "value": "太古星辰七大强族之一",
+        "docId": "plot.xianni-1209-yueshi-clan-ancient-god-statues-collapse",
+        "seq": 1127
+      },
+      {
+        "value": "自太古叛离古神",
+        "docId": "plot.xianni-1209-yueshi-clan-ancient-god-statues-collapse",
+        "seq": 1127
+      },
+      {
+        "value": "掌握尚不完善的『吞古神』之法",
+        "docId": "plot.xianni-1209-yueshi-clan-ancient-god-statues-collapse",
+        "seq": 1127
+      },
+      {
+        "value": "狂妄，称古神为『奴神』",
+        "docId": "plot.xianni-1209-yueshi-clan-ancient-god-statues-collapse",
+        "seq": 1127
       }
     ],
     "阵营": [
@@ -45,6 +66,11 @@
         "value": "太古星辰（界外）",
         "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
         "seq": 1123
+      },
+      {
+        "value": "月噬族星域",
+        "docId": "plot.xianni-1209-yueshi-clan-ancient-god-statues-collapse",
+        "seq": 1127
       }
     ],
     "天赋神通": [
@@ -59,6 +85,16 @@
         "value": "月牙印记青年",
         "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
         "seq": 1123
+      },
+      {
+        "value": "月袍沧桑老者",
+        "docId": "plot.xianni-1209-yueshi-clan-ancient-god-statues-collapse",
+        "seq": 1127
+      },
+      {
+        "value": "禁地九名月噬族老者",
+        "docId": "plot.xianni-1209-yueshi-clan-ancient-god-statues-collapse",
+        "seq": 1127
       }
     ],
     "天敌": [
@@ -87,9 +123,9 @@
     },
     "聚居地": {
       "asOf": null,
-      "docId": "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
+      "docId": "plot.xianni-1209-yueshi-clan-ancient-god-statues-collapse",
       "dated": false,
-      "seq": 1123
+      "seq": 1127
     },
     "天赋神通": {
       "asOf": null,
@@ -115,7 +151,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-1205-ao-wang-lin-subdues-lightning-statue",
-    "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu"
+    "plot.xianni-1208-jie-taigu-zhi-yue-yueshi-zu",
+    "plot.xianni-1209-yueshi-clan-ancient-god-statues-collapse"
   ],
-  "updatedAt": "2026-08-25T00:37:02.617Z"
+  "updatedAt": "2026-08-25T00:44:47.904Z"
 }
