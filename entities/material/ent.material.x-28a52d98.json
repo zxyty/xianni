@@ -4,12 +4,14 @@
   "name": "四族族人鲜血与族印",
   "aliases": [
     "四族鲜血",
-    "族印"
+    "族印",
+    "元神眉心族印"
   ],
   "summary": "布置朱雀星裂缝外太古大阵所用的材料，取自朱雀、青龙、白虎、玄武四族族人。",
   "attributes": {
     "类型": "阵法材料、族群印记/储物空间、种族印记、闪雷族血脉印记、族传印记",
-    "用途": "布置太古大阵、储存法宝之物，标识闪雷族身份、配合聚雷印修行、长期修行可缓缓开启、开启程度决定修为上限、封印修为、存放至宝、撕开可解封修为"
+    "用途": "布置太古大阵、储存法宝之物，标识闪雷族身份、配合聚雷印修行、长期修行可缓缓开启、开启程度决定修为上限、封印修为、存放至宝、撕开可解封修为、自爆换取修为暴增并短暂存活",
+    "产地": "太古星辰"
   },
   "observations": {
     "类型": [
@@ -79,6 +81,18 @@
         "value": "撕开可解封修为",
         "docId": "plot.xianni-ch1349-shanlei-war-3-lei-quan-vs-lei-sha-mirror",
         "seq": 1260
+      },
+      {
+        "value": "自爆换取修为暴增并短暂存活",
+        "docId": "plot.xianni-ch1358-seven-swords-cut-sky-finale",
+        "seq": 1270
+      }
+    ],
+    "产地": [
+      {
+        "value": "太古星辰",
+        "docId": "plot.xianni-ch1358-seven-swords-cut-sky-finale",
+        "seq": 1270
       }
     ]
   },
@@ -95,6 +109,12 @@
       "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
       "dated": false,
       "seq": 1127
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1358-seven-swords-cut-sky-finale",
+      "dated": false,
+      "seq": 1270
     }
   },
   "contested": false,
@@ -104,7 +124,8 @@
     "plot.xianni-1331-tianlei-zong-qiudehai-flees-wanglin",
     "plot.xianni-1333-this-is-life-xu-liguo-plunder",
     "plot.xianni-1335-lei-jing-dian",
-    "plot.xianni-ch1349-shanlei-war-3-lei-quan-vs-lei-sha-mirror"
+    "plot.xianni-ch1349-shanlei-war-3-lei-quan-vs-lei-sha-mirror",
+    "plot.xianni-ch1358-seven-swords-cut-sky-finale"
   ],
-  "updatedAt": "2026-08-25T12:05:55.059Z"
+  "updatedAt": "2026-08-25T12:27:12.925Z"
 }

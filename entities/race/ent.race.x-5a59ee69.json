@@ -4,14 +4,16 @@
   "name": "太古星辰之民",
   "aliases": [
     "界外修士",
-    "界外一方"
+    "界外一方",
+    "太古星辰之人"
   ],
   "summary": "居于封界大阵之外的种族，衣着奇异，与界内之人为不问原因的死敌，数百人守阵。",
   "attributes": {
     "聚居地": "太古星辰、封界大阵之外",
     "阵营": "界外",
     "天敌": "界内修士",
-    "特性": "见界内之人即杀，杀之可向族中领赏、自认每一个族人都可称界内的天道、视界内修士如绵羊、困兽、野人"
+    "特性": "见界内之人即杀，杀之可向族中领赏、自认每一个族人都可称界内的天道、视界内修士如绵羊、困兽、野人、族印爆开换取磅礴之力，且可短暂存活（不同于界内修士自爆即亡）",
+    "代表人物": "闪雷族大长老"
   },
   "observations": {
     "聚居地": [
@@ -55,6 +57,18 @@
         "value": "视界内修士如绵羊、困兽、野人",
         "docId": "plot.xianni-ch1308-tuosen-devour-massacre",
         "seq": 1222
+      },
+      {
+        "value": "族印爆开换取磅礴之力，且可短暂存活（不同于界内修士自爆即亡）",
+        "docId": "plot.xianni-ch1358-seven-swords-cut-sky-finale",
+        "seq": 1270
+      }
+    ],
+    "代表人物": [
+      {
+        "value": "闪雷族大长老",
+        "docId": "plot.xianni-ch1358-seven-swords-cut-sky-finale",
+        "seq": 1270
       }
     ]
   },
@@ -83,13 +97,20 @@
       "docId": "plot.xianni-1307-tunling-shiti-juetian-breakout",
       "dated": false,
       "seq": 1222
+    },
+    "代表人物": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1358-seven-swords-cut-sky-finale",
+      "dated": false,
+      "seq": 1270
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1307-tunling-shiti-juetian-breakout",
-    "plot.xianni-ch1308-tuosen-devour-massacre"
+    "plot.xianni-ch1308-tuosen-devour-massacre",
+    "plot.xianni-ch1358-seven-swords-cut-sky-finale"
   ],
-  "updatedAt": "2026-08-25T08:19:10.114Z"
+  "updatedAt": "2026-08-25T12:27:12.938Z"
 }

@@ -737,3 +737,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T12:19:59.668Z** `ingest` plot.xianni-ch1355-seven-swords-slash-heaven-mountain-2 — 仙逆 第1355章 七剑斩天山（二）：六道神雷对香火，闪雷族大长老祭出不灭圣雷 · kind=plot asOf=2026-08-25 entities=25 relations=33 src=01270-01274.p1.md
 - **2026-08-25T12:22:00.847Z** `ingest` plot.xianni-1356-seven-swords-slash-heaven-3 — 第1356章 七剑斩天山（三）：七百万天地生灵大阵与第一剑 · kind=plot asOf=2026-08-25 entities=15 relations=22 src=01270-01274.p2.md
 - **2026-08-25T12:24:17.130Z** `ingest` plot.xianni-1357-seven-swords-cutting-heaven-4 — 仙逆·第1357章 七剑斩天山（四）：王林第二至第六剑重创闪雷族大长老 · kind=plot asOf=2026-08-25 entities=16 relations=22 src=01270-01274.p3.md
+- **2026-08-25T12:27:13.341Z** `ingest` plot.xianni-ch1358-seven-swords-cut-sky-finale — 第1358章 七剑斩天山（完）：第六剑怨仙、大长老三息之术与七百万天地崩灭 · kind=plot asOf=2026-08-25 entities=27 relations=43 src=01270-01274.p4.md
