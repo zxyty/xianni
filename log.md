@@ -681,3 +681,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T07:45:45.161Z** `ingest` plot.xianni-1296-changxiao-wanglin-rescues-li-qianmei — 仙逆 第1296章 长啸！——王林紫色裂缝内血战凶兽驰援李倩梅 · kind=plot asOf=2026-08-25 entities=20 relations=29 src=01207-01211.p5.md
 - **2026-08-25T07:47:40.118Z** `ingest` plot.xianni-ch1297-chong-wang-lin-saves-li-qianmei — 《仙逆》第1297章 冲！！！——王林血路救李倩梅、解封七彩界封印修为 · kind=plot asOf=2026-08-25 entities=15 relations=19 src=01212-01216.p1.md
 - **2026-08-25T07:50:02.036Z** `ingest` plot.xianni-ch1298-tear-open-seal-shatter-nirvana-breakthrough — 第1298章 撕开封印：王林破净涅入碎涅中期，血洗裂缝凶兽，紫血现身 · kind=plot asOf=2026-08-25 entities=24 relations=32 src=01212-01216.p2.md
+- **2026-08-25T07:52:05.735Z** `ingest` plot.xianni-ch1299-thirteenth-rank-scorpion — 仙逆 第1299章 十三阶——王林碎涅中期化古神战九尾蝎化人凶兽 · kind=plot asOf=2026-08-25 entities=19 relations=23 src=01212-01216.p3.md

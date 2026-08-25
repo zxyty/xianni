@@ -16,16 +16,17 @@
     "葬仙漩涡血海",
     "滔天血浪",
     "血色的世间",
-    "无尽血海"
+    "无尽血海",
+    "凶兽血海"
   ],
   "summary": "第三关内血色之地，历年死于古神之地者尽聚于此，有沙哑之声自内传出。",
   "attributes": {
-    "类型": "血色亡者聚集之地、血海/秘域、血海、封印之地、血色空间／秘境、神识所化海洋、体内血海、秘地/修炼场、血色海域、凶地、血池、血海界域、血色世界/封印之地",
+    "类型": "血色亡者聚集之地、血海/秘域、血海、封印之地、血色空间／秘境、神识所化海洋、体内血海、秘地/修炼场、血色海域、凶地、血池、血海界域、血色世界/封印之地、血色海域/凶兽领域",
     "所属界面": "寂灭界古神之地、寂灭界、古神之地",
     "特产": "翻滚的血海",
     "上级区域": "葬仙漩涡",
     "守护": "妖神众修、封印红发男子、拓森、红发男子、力之传承",
-    "危险度": "极高",
+    "危险度": "极高（凶兽成群，有十三阶化人凶兽）",
     "所属势力": "拓森",
     "方位": "碎星乱吉神之地深处"
   },
@@ -95,6 +96,11 @@
         "value": "血色世界/封印之地",
         "docId": "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass",
         "seq": 1044
+      },
+      {
+        "value": "血色海域/凶兽领域",
+        "docId": "plot.xianni-ch1299-thirteenth-rank-scorpion",
+        "seq": 1212
       }
     ],
     "所属界面": [
@@ -195,6 +201,11 @@
         "value": "极高",
         "docId": "plot.xianni-ch191-shenshi-sihai",
         "seq": 176
+      },
+      {
+        "value": "极高（凶兽成群，有十三阶化人凶兽）",
+        "docId": "plot.xianni-ch1299-thirteenth-rank-scorpion",
+        "seq": 1212
       }
     ],
     "所属势力": [
@@ -252,9 +263,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch191-shenshi-sihai",
+      "docId": "plot.xianni-ch1299-thirteenth-rank-scorpion",
       "dated": false,
-      "seq": 176
+      "seq": 1212
     },
     "所属势力": {
       "asOf": null,
@@ -286,7 +297,8 @@
     "plot.xianni-ch1111-tuosen-alliance-forces-descend-zhuque-star",
     "plot.xianni-1112-yujie-huhjiu-mieshen-mao",
     "plot.xianni-1044-1048-jiqiong-pursuit-and-jin-pass",
-    "plot.xianni-1131-blood-dragon-frozen-tuosen-imminent"
+    "plot.xianni-1131-blood-dragon-frozen-tuosen-imminent",
+    "plot.xianni-ch1299-thirteenth-rank-scorpion"
   ],
-  "updatedAt": "2026-08-24T17:44:18.604Z"
+  "updatedAt": "2026-08-25T07:52:05.375Z"
 }

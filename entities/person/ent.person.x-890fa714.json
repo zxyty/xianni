@@ -4,13 +4,21 @@
   "name": "复仇黑衣女子",
   "aliases": [
     "黑衣女子",
-    "持剑复仇女子"
+    "持剑复仇女子",
+    "十三阶化人凶兽",
+    "九尾蝎女",
+    "依月帝妃麾下黑衣女子"
   ],
   "summary": "因家破人亡而追杀蓝衫「狗官」的女子，终斩其头颅，跪向北方泣告父母大仇得报。",
   "attributes": {
     "性别": "女",
-    "外貌": "黑衣持长剑",
-    "阵营": "凡人复仇者"
+    "外貌": "黑衣女子",
+    "阵营": "凡人复仇者",
+    "种族": "化人凶兽（九尾蝎）",
+    "身份": "远古依月帝妃麾下",
+    "称号": "十三阶化人凶兽",
+    "标志特征": "身后九尾蝎虚影、实质蝎尾鞭",
+    "结局": "本章被王林抓住蝎尾抡砸重创，越发虚弱"
   },
   "observations": {
     "性别": [
@@ -25,6 +33,12 @@
         "value": "黑衣持长剑",
         "docId": "plot.xianni-846-you-ke-mingwu-qingling-star-dao-quest",
         "seq": 790
+      },
+      {
+        "value": "黑衣女子",
+        "docId": "plot.xianni-ch1299-thirteenth-rank-scorpion",
+        "seq": 1212,
+        "note": "人形；本体为万丈黑蝎，头部血肉化出其人脸"
       }
     ],
     "阵营": [
@@ -32,6 +46,41 @@
         "value": "凡人复仇者",
         "docId": "plot.xianni-846-you-ke-mingwu-qingling-star-dao-quest",
         "seq": 790
+      }
+    ],
+    "种族": [
+      {
+        "value": "化人凶兽（九尾蝎）",
+        "docId": "plot.xianni-ch1299-thirteenth-rank-scorpion",
+        "seq": 1212
+      }
+    ],
+    "身份": [
+      {
+        "value": "远古依月帝妃麾下",
+        "docId": "plot.xianni-ch1299-thirteenth-rank-scorpion",
+        "seq": 1212
+      }
+    ],
+    "称号": [
+      {
+        "value": "十三阶化人凶兽",
+        "docId": "plot.xianni-ch1299-thirteenth-rank-scorpion",
+        "seq": 1212
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "身后九尾蝎虚影、实质蝎尾鞭",
+        "docId": "plot.xianni-ch1299-thirteenth-rank-scorpion",
+        "seq": 1212
+      }
+    ],
+    "结局": [
+      {
+        "value": "本章被王林抓住蝎尾抡砸重创，越发虚弱",
+        "docId": "plot.xianni-ch1299-thirteenth-rank-scorpion",
+        "seq": 1212
       }
     ]
   },
@@ -45,21 +94,53 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-846-you-ke-mingwu-qingling-star-dao-quest",
+      "docId": "plot.xianni-ch1299-thirteenth-rank-scorpion",
       "dated": false,
-      "seq": 790
+      "seq": 1212,
+      "note": "人形；本体为万丈黑蝎，头部血肉化出其人脸"
     },
     "阵营": {
       "asOf": null,
       "docId": "plot.xianni-846-you-ke-mingwu-qingling-star-dao-quest",
       "dated": false,
       "seq": 790
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1299-thirteenth-rank-scorpion",
+      "dated": false,
+      "seq": 1212
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1299-thirteenth-rank-scorpion",
+      "dated": false,
+      "seq": 1212
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1299-thirteenth-rank-scorpion",
+      "dated": false,
+      "seq": 1212
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1299-thirteenth-rank-scorpion",
+      "dated": false,
+      "seq": 1212
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1299-thirteenth-rank-scorpion",
+      "dated": false,
+      "seq": 1212
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-846-you-ke-mingwu-qingling-star-dao-quest"
+    "plot.xianni-846-you-ke-mingwu-qingling-star-dao-quest",
+    "plot.xianni-ch1299-thirteenth-rank-scorpion"
   ],
-  "updatedAt": "2026-08-23T13:56:01.013Z"
+  "updatedAt": "2026-08-25T07:52:05.357Z"
 }
