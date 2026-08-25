@@ -18,16 +18,18 @@
     "蓝色的蚊兽王",
     "化作蓝色的蚊兽王",
     "Mosquito Beast King",
-    "金蚊"
+    "金蚊",
+    "紫色蚊兽群",
+    "裂缝外金色蚊兽"
   ],
   "summary": "约十丈大小、通体淡紫的蚊兽首领，头插七根银针致其时露痛苦，一声嘶鸣可震慑全群，以口器穿透吸干内斗的两只蚊兽立威，身上透出沧桑。",
   "attributes": {
-    "种族": "巨蚊兽",
+    "种族": "蚊族",
     "外形": "身长约十丈，通体略带很淡的紫色，头部插着七根银针、身体如小山般巨大的紫色蚊兽、通体紫色，长口器、庞大蚊兽、淡金色、通体淡蓝、气息平平的普通蓝色蚊兽、蓝色，巨大口器，倒钩须发",
-    "能力": "嘶鸣如神通，震慑全群、速度如电光、口器穿透吸干同类、重伤仍能跨星空归主、察觉同族独有气息、极速飞行、蜕变后散发同类灵魂威压使蚊兽臣服、嘶鸣可震散红雾、召来蚊兽群、王者间吞噬可实力暴增、王者威压压服诸色蚊兽、淡金色光芒环绕、长嘶号令蚊群、口器贯体吸干精华血液、承载王林规则之星降下威压与天地之力、倒钩须发暴长数十丈后脱落如剑雨（本章模仿白蚊习得）",
-    "栖息地": "风仙界最深处",
+    "能力": "嘶鸣如神通，震慑全群、速度如电光、口器穿透吸干同类、重伤仍能跨星空归主、察觉同族独有气息、极速飞行、蜕变后散发同类灵魂威压使蚊兽臣服、嘶鸣可震散红雾、召来蚊兽群、王者间吞噬可实力暴增、王者威压压服诸色蚊兽、淡金色光芒环绕、长嘶号令蚊群、口器贯体吸干精华血液、承载王林规则之星降下威压与天地之力、倒钩须发暴长数十丈后脱落如剑雨（本章模仿白蚊习得）、巨大口器一吸可将修士吸干、体外可凝聚仙力",
+    "栖息地": "裂缝外围",
     "主人": "王林",
-    "等级": "蚊兽色阶最高一档"
+    "等级": "金色（曾为紫色）、蚊兽色阶最高一档、堪比碎涅大圆满、蚊兽色阶最高（金色）"
   },
   "observations": {
     "种族": [
@@ -40,6 +42,11 @@
         "value": "巨蚊兽",
         "docId": "plot.xianni-1104-tianjie-mosquito-beast-pursuit",
         "seq": 1019
+      },
+      {
+        "value": "蚊族",
+        "docId": "plot.xianni-1247-wen-wang-bian-yi",
+        "seq": 1165
       }
     ],
     "外形": [
@@ -156,6 +163,16 @@
         "value": "倒钩须发暴长数十丈后脱落如剑雨（本章模仿白蚊习得）",
         "docId": "plot.xianni-1237-mosquito-king-approach",
         "seq": 1155
+      },
+      {
+        "value": "巨大口器一吸可将修士吸干",
+        "docId": "plot.xianni-1247-wen-wang-bian-yi",
+        "seq": 1165
+      },
+      {
+        "value": "体外可凝聚仙力",
+        "docId": "plot.xianni-1247-wen-wang-bian-yi",
+        "seq": 1165
       }
     ],
     "栖息地": [
@@ -178,6 +195,11 @@
         "value": "风仙界最深处",
         "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
         "seq": 1160
+      },
+      {
+        "value": "裂缝外围",
+        "docId": "plot.xianni-1247-wen-wang-bian-yi",
+        "seq": 1165
       }
     ],
     "主人": [
@@ -198,6 +220,16 @@
         "value": "蚊兽色阶最高一档",
         "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
         "seq": 1160
+      },
+      {
+        "value": "堪比碎涅大圆满",
+        "docId": "plot.xianni-1247-wen-wang-bian-yi",
+        "seq": 1165
+      },
+      {
+        "value": "蚊兽色阶最高（金色）",
+        "docId": "plot.xianni-1247-wen-wang-bian-yi",
+        "seq": 1165
       }
     ]
   },
@@ -205,9 +237,9 @@
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.xianni-1104-tianjie-mosquito-beast-pursuit",
+      "docId": "plot.xianni-1247-wen-wang-bian-yi",
       "dated": false,
-      "seq": 1019
+      "seq": 1165
     },
     "外形": {
       "asOf": null,
@@ -223,9 +255,9 @@
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
+      "docId": "plot.xianni-1247-wen-wang-bian-yi",
       "dated": false,
-      "seq": 1160
+      "seq": 1165
     },
     "主人": {
       "asOf": null,
@@ -235,9 +267,10 @@
     },
     "等级": {
       "asOf": null,
-      "docId": "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
+      "docId": "plot.xianni-1236-another-mosquito-beast-king",
       "dated": false,
-      "seq": 1160
+      "seq": 1151,
+      "note": "第1236章时为金色"
     }
   },
   "contested": false,
@@ -250,7 +283,8 @@
     "plot.xianni-1235-condensing-crimson-mosquito-beasts",
     "plot.xianni-1236-another-mosquito-beast-king",
     "plot.xianni-1237-mosquito-king-approach",
-    "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules"
+    "plot.xianni-ch1160-1164-feng-xian-jie-stone-gate-nine-rules",
+    "plot.xianni-1247-wen-wang-bian-yi"
   ],
-  "updatedAt": "2026-08-25T03:24:48.200Z"
+  "updatedAt": "2026-08-25T03:43:39.318Z"
 }
