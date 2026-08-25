@@ -3,12 +3,18 @@
   "type": "place",
   "name": "雷晶殿",
   "aliases": [
-    "雷晶大殿"
+    "雷晶大殿",
+    "Lei Jing Dian"
   ],
   "summary": "闪雷族兑换雷晶之所，本章将于数日后开启兑换。",
   "attributes": {
-    "类型": "兑换殿宇",
-    "所属势力": "闪雷族"
+    "类型": "禁地/交易殿宇",
+    "所属势力": "闪雷族",
+    "方位": "修真星中心最高山峰之上",
+    "规模": "存在于十三颗修真星上",
+    "危险度": "极高（四周青雾雷霆可致死）",
+    "特产": "雷晶",
+    "守护": "青雾雷霆、两名阴虚境红衣修士"
   },
   "observations": {
     "类型": [
@@ -16,6 +22,11 @@
         "value": "兑换殿宇",
         "docId": "plot.xianni-1334-frightening-guess-thunder-seal-study",
         "seq": 1246
+      },
+      {
+        "value": "禁地/交易殿宇",
+        "docId": "plot.xianni-1335-lei-jing-dian",
+        "seq": 1250
       }
     ],
     "所属势力": [
@@ -24,27 +35,98 @@
         "docId": "plot.xianni-1334-frightening-guess-thunder-seal-study",
         "seq": 1246
       }
+    ],
+    "方位": [
+      {
+        "value": "修真星中心最高山峰之上",
+        "docId": "plot.xianni-1335-lei-jing-dian",
+        "seq": 1250
+      }
+    ],
+    "规模": [
+      {
+        "value": "存在于十三颗修真星上",
+        "docId": "plot.xianni-1335-lei-jing-dian",
+        "seq": 1250
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高（四周青雾雷霆可致死）",
+        "docId": "plot.xianni-1335-lei-jing-dian",
+        "seq": 1250
+      }
+    ],
+    "特产": [
+      {
+        "value": "雷晶",
+        "docId": "plot.xianni-1335-lei-jing-dian",
+        "seq": 1250
+      }
+    ],
+    "守护": [
+      {
+        "value": "青雾雷霆",
+        "docId": "plot.xianni-1335-lei-jing-dian",
+        "seq": 1250
+      },
+      {
+        "value": "两名阴虚境红衣修士",
+        "docId": "plot.xianni-1335-lei-jing-dian",
+        "seq": 1250
+      }
     ]
   },
   "firstSeq": 1246,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1334-frightening-guess-thunder-seal-study",
+      "docId": "plot.xianni-1335-lei-jing-dian",
       "dated": false,
-      "seq": 1246
+      "seq": 1250
     },
     "所属势力": {
       "asOf": null,
       "docId": "plot.xianni-1334-frightening-guess-thunder-seal-study",
       "dated": false,
       "seq": 1246
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-1335-lei-jing-dian",
+      "dated": false,
+      "seq": 1250
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-1335-lei-jing-dian",
+      "dated": false,
+      "seq": 1250
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-1335-lei-jing-dian",
+      "dated": false,
+      "seq": 1250
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-1335-lei-jing-dian",
+      "dated": false,
+      "seq": 1250
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-1335-lei-jing-dian",
+      "dated": false,
+      "seq": 1250
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1334-frightening-guess-thunder-seal-study"
+    "plot.xianni-1334-frightening-guess-thunder-seal-study",
+    "plot.xianni-1335-lei-jing-dian"
   ],
-  "updatedAt": "2026-08-25T11:25:36.734Z"
+  "updatedAt": "2026-08-25T11:28:09.499Z"
 }
