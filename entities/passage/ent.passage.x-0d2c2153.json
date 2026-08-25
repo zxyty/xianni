@@ -4,19 +4,26 @@
   "name": "破禁后的长通道",
   "aliases": [
     "红雾通道",
-    "通往千丈平台的通道"
+    "通往千丈平台的通道",
+    "雾气通道",
+    "赤红雾气"
   ],
   "summary": "王林抽出生死禁生机、红雾崩溃后显露的长通道，似与千丈平台连接；通道中段仍有禁制，灵动上人入内即发出凄厉惨叫。",
   "attributes": {
-    "类型": "禁制通道",
+    "类型": "禁制通道、封印禁地/雾气通道",
     "两端": "红雾门户 ↔ 千丈平台",
-    "守护": "中段仍有禁制"
+    "守护": "中段仍有禁制、苏醒中的禁制与四品火道灵"
   },
   "observations": {
     "类型": [
       {
         "value": "禁制通道",
         "docId": "plot.xianni-ch1447-who-is-the-oriole",
+        "seq": 1355
+      },
+      {
+        "value": "封印禁地/雾气通道",
+        "docId": "plot.xianni-ch1448-trap-siege-lingdong-shangren",
         "seq": 1355
       }
     ],
@@ -33,6 +40,11 @@
         "docId": "plot.xianni-ch1447-who-is-the-oriole",
         "seq": 1355,
         "note": "灵动上人踏入中段即遭袭"
+      },
+      {
+        "value": "苏醒中的禁制与四品火道灵",
+        "docId": "plot.xianni-ch1448-trap-siege-lingdong-shangren",
+        "seq": 1355
       }
     ]
   },
@@ -61,7 +73,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1447-who-is-the-oriole"
+    "plot.xianni-ch1447-who-is-the-oriole",
+    "plot.xianni-ch1448-trap-siege-lingdong-shangren"
   ],
-  "updatedAt": "2026-08-25T19:27:00.075Z"
+  "updatedAt": "2026-08-25T19:28:59.316Z"
 }

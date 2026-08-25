@@ -3,12 +3,13 @@
   "type": "spell",
   "name": "古之庇佑",
   "aliases": [
-    "八星古神保命之术"
+    "八星古神保命之术",
+    "古神庇佑"
   ],
   "summary": "给幼年古神的保命神通，召出堪比修真星大小的虚幻古神护主，且能回身一拳重创强敌。",
   "attributes": {
-    "类型": "保命神通（攻防兼备）",
-    "出处": "古神传承",
+    "类型": "护身反击神通",
+    "出处": "古神护臂",
     "适用境界": "八星古神",
     "威力": "掌尊掌印在其体内如蝇蚊撞击般崩溃；一拳令掌尊彻底重伤、数万年压制的旧伤爆发",
     "消耗": "体内古神之力尽数涌入护臂"
@@ -19,6 +20,11 @@
         "value": "保命神通（攻防兼备）",
         "docId": "plot.xianni-1431-fenshi-guisan-zhangzun-fuhuo-tiaojian",
         "seq": 1341
+      },
+      {
+        "value": "护身反击神通",
+        "docId": "plot.xianni-ch1448-trap-siege-lingdong-shangren",
+        "seq": 1355
       }
     ],
     "出处": [
@@ -26,6 +32,11 @@
         "value": "古神传承",
         "docId": "plot.xianni-1431-fenshi-guisan-zhangzun-fuhuo-tiaojian",
         "seq": 1341
+      },
+      {
+        "value": "古神护臂",
+        "docId": "plot.xianni-ch1448-trap-siege-lingdong-shangren",
+        "seq": 1355
       }
     ],
     "适用境界": [
@@ -55,15 +66,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1431-fenshi-guisan-zhangzun-fuhuo-tiaojian",
+      "docId": "plot.xianni-ch1448-trap-siege-lingdong-shangren",
       "dated": false,
-      "seq": 1341
+      "seq": 1355
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-1431-fenshi-guisan-zhangzun-fuhuo-tiaojian",
+      "docId": "plot.xianni-ch1448-trap-siege-lingdong-shangren",
       "dated": false,
-      "seq": 1341
+      "seq": 1355
     },
     "适用境界": {
       "asOf": null,
@@ -88,7 +99,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1431-fenshi-guisan-zhangzun-fuhuo-tiaojian"
+    "plot.xianni-1431-fenshi-guisan-zhangzun-fuhuo-tiaojian",
+    "plot.xianni-ch1448-trap-siege-lingdong-shangren"
   ],
-  "updatedAt": "2026-08-25T18:31:04.541Z"
+  "updatedAt": "2026-08-25T19:28:59.313Z"
 }
