@@ -20,12 +20,13 @@
     "凶兽之骨",
     "兽骨丹方玉简",
     "巴掌大小的兽骨",
-    "司马墨的兽骨"
+    "司马墨的兽骨",
+    "带掌印的兽骨"
   ],
   "summary": "天运子身旁数枚极为光亮、弥漫邪异气息的漆黑兽骨，抖散于地用以卜算王林的机运。",
   "attributes": {
-    "类型": "兽骨",
-    "用途": "司马墨被逐出破天宗的根源；王林用以攻心",
+    "类型": "卜算之骨、一次性传送法器、载有涅空丹丹方的兽骨、丹方、丹方载体 / 炼丹药引、兽骨、带掌印的兽骨",
+    "用途": "卜算机运、直接传送回都城、炼制涅空丹的丹方来源、炼丹方剂、炼制涅空丹的必需引子、司马墨被逐出破天宗的根源；王林用以攻心、需以手掌按于掌印之上方可触发",
     "稀有度": "云海星域永恒隐秘级",
     "产地": "七彩界（破天宗发现的空间裂缝内）"
   },
@@ -60,6 +61,11 @@
         "value": "兽骨",
         "docId": "plot.xianni-1421-xianghuo-yibai",
         "seq": 1331
+      },
+      {
+        "value": "带掌印的兽骨",
+        "docId": "lore.xianni-1424-meng-dao-zhong-mo",
+        "seq": 1331
       }
     ],
     "用途": [
@@ -91,6 +97,11 @@
       {
         "value": "司马墨被逐出破天宗的根源；王林用以攻心",
         "docId": "plot.xianni-1421-xianghuo-yibai",
+        "seq": 1331
+      },
+      {
+        "value": "需以手掌按于掌印之上方可触发",
+        "docId": "lore.xianni-1424-meng-dao-zhong-mo",
         "seq": 1331
       }
     ],
@@ -124,15 +135,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1421-xianghuo-yibai",
+      "docId": "plot.xianni-ch519-tide-recede-golden-token",
       "dated": false,
-      "seq": 1331
+      "seq": 496
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-1421-xianghuo-yibai",
+      "docId": "plot.xianni-ch519-tide-recede-golden-token",
       "dated": false,
-      "seq": 1331
+      "seq": 496
     },
     "稀有度": {
       "asOf": null,
@@ -160,7 +171,8 @@
     "plot.xianni-ch1156-leave-vortex-qian-guizhong-slain",
     "plot.xianni-ch1161-tun-dan-mang-dao-poti-danfang-yujian",
     "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
-    "plot.xianni-1421-xianghuo-yibai"
+    "plot.xianni-1421-xianghuo-yibai",
+    "lore.xianni-1424-meng-dao-zhong-mo"
   ],
-  "updatedAt": "2026-08-25T17:32:24.101Z"
+  "updatedAt": "2026-08-25T17:44:09.005Z"
 }

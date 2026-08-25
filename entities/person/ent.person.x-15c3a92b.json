@@ -13,18 +13,23 @@
     "破天宗司马墨",
     "司马墨道友",
     "司马墨玉简之主",
-    "司马墨的骸骨"
+    "司马墨的骸骨",
+    "干瘦少年",
+    "小兰的哥哥",
+    "哥哥"
   ],
   "summary": "其遗留玉简的现世引发多星域追索；被破天宗雕像内老者称作「司马师兄」，当年似与其师尊之决断有关。",
   "attributes": {
-    "身份": "破天宗溃烂老者的师兄、破天宗掌门大弟子、破天宗大弟子、该秘地内洞府主人（本章未现身）、七彩界洞府主人、被师尊逐出门派的弃徒、破天宗修士、七彩界洞府群与三瓶高阶丹药的原主人之一、山谷九洞府主人、九洞府原主、破天宗弟子",
+    "身份": "破天宗溃烂老者的师兄、破天宗掌门大弟子、破天宗大弟子、该秘地内洞府主人（本章未现身）、七彩界洞府主人、被师尊逐出门派的弃徒、破天宗修士、七彩界洞府群与三瓶高阶丹药的原主人之一、山谷九洞府主人、九洞府原主、破天宗弟子、山村采药少年",
     "存殁": "死亡",
     "结局": "率部分裂出走后音讯全无、盘膝坐化于洞府山谷，骸骨全身透七彩微光，身前留三枚玉简、或已按掌尊相关念头『重生』、封印同门以求其苏醒，终未成功；洞府遗产为王林所得",
     "称号": "擅长炼丹者",
-    "标志特征": "岁月禁",
-    "外貌": "骸骨全身隐透七彩之色",
-    "性格": "信奉命运，自认罪人",
-    "死因": "被七彩钉子钉入体内后意识消散、第1114章身亡"
+    "标志特征": "背药筐上山采药",
+    "外貌": "身子干瘦、个子不高、肤色略黑，似有病魔缠身，双眼极亮如星火，牙齿很白",
+    "性格": "疼爱妹妹、外表随和爱打哈哈，内里志向极大、不甘平凡",
+    "死因": "被七彩钉子钉入体内后意识消散、第1114章身亡",
+    "性别": "男",
+    "出身地": "云雾缭绕仙山下的凡人村庄"
   },
   "observations": {
     "身份": [
@@ -82,6 +87,12 @@
         "value": "破天宗弟子",
         "docId": "plot.xianni-ch1269-1270-li-qianmei-leaves-potian-sect-no-home",
         "seq": 1187
+      },
+      {
+        "value": "山村采药少年",
+        "docId": "lore.xianni-1424-meng-dao-zhong-mo",
+        "seq": 1331,
+        "note": "本片段为其凡人少年时期的回忆"
       }
     ],
     "存殁": [
@@ -139,6 +150,11 @@
         "value": "岁月禁",
         "docId": "plot.xianni-1202-zhong-dao-cangsongzi-slain",
         "seq": 1119
+      },
+      {
+        "value": "背药筐上山采药",
+        "docId": "lore.xianni-1424-meng-dao-zhong-mo",
+        "seq": 1331
       }
     ],
     "外貌": [
@@ -147,6 +163,11 @@
         "docId": "plot.xianni-1196-sima-mo-cave-secret",
         "seq": 1114,
         "note": "遗骸状态"
+      },
+      {
+        "value": "身子干瘦、个子不高、肤色略黑，似有病魔缠身，双眼极亮如星火，牙齿很白",
+        "docId": "lore.xianni-1424-meng-dao-zhong-mo",
+        "seq": 1331
       }
     ],
     "性格": [
@@ -154,6 +175,11 @@
         "value": "信奉命运，自认罪人",
         "docId": "plot.xianni-1196-sima-mo-cave-secret",
         "seq": 1114
+      },
+      {
+        "value": "疼爱妹妹、外表随和爱打哈哈，内里志向极大、不甘平凡",
+        "docId": "lore.xianni-1424-meng-dao-zhong-mo",
+        "seq": 1331
       }
     ],
     "死因": [
@@ -168,6 +194,20 @@
         "docId": "plot.xianni-ch1199-wendao-qicaijie-dao-ascension",
         "seq": 1114,
         "note": "本章未再出场，仅遗留洞府"
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "lore.xianni-1424-meng-dao-zhong-mo",
+        "seq": 1331
+      }
+    ],
+    "出身地": [
+      {
+        "value": "云雾缭绕仙山下的凡人村庄",
+        "docId": "lore.xianni-1424-meng-dao-zhong-mo",
+        "seq": 1331
       }
     ]
   },
@@ -201,22 +241,21 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-1202-zhong-dao-cangsongzi-slain",
+      "docId": "lore.xianni-1424-meng-dao-zhong-mo",
       "dated": false,
-      "seq": 1119
+      "seq": 1331
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-1196-sima-mo-cave-secret",
+      "docId": "lore.xianni-1424-meng-dao-zhong-mo",
       "dated": false,
-      "seq": 1114,
-      "note": "遗骸状态"
+      "seq": 1331
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-1196-sima-mo-cave-secret",
+      "docId": "lore.xianni-1424-meng-dao-zhong-mo",
       "dated": false,
-      "seq": 1114
+      "seq": 1331
     },
     "死因": {
       "asOf": null,
@@ -224,6 +263,18 @@
       "dated": false,
       "seq": 1114,
       "note": "王林据骸骨四周无破坏痕迹判断其最终未发狂"
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "lore.xianni-1424-meng-dao-zhong-mo",
+      "dated": false,
+      "seq": 1331
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "lore.xianni-1424-meng-dao-zhong-mo",
+      "dated": false,
+      "seq": 1331
     }
   },
   "contested": false,
@@ -246,7 +297,8 @@
     "plot.xianni-ch1223-jingbian-qicai-wu-yu-xuanwo",
     "plot.xianni-ch1229-target-wind-immortal-realm",
     "plot.xianni-ch1269-1270-li-qianmei-leaves-potian-sect-no-home",
-    "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi"
+    "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi",
+    "lore.xianni-1424-meng-dao-zhong-mo"
   ],
-  "updatedAt": "2026-08-25T14:05:22.505Z"
+  "updatedAt": "2026-08-25T17:44:09.028Z"
 }
