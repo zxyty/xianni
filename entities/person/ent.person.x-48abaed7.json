@@ -3,12 +3,20 @@
   "type": "person",
   "name": "云杉",
   "aliases": [
-    "青云道云杉"
+    "青云道云杉",
+    "Yun Shan",
+    "青云宗云杉"
   ],
   "summary": "七阶青云道修士，主动出声要与「吕道友」切磋，成为王林挑战赛的第一个对手。",
   "attributes": {
-    "身份": "七阶青云道修士",
-    "性格": "平淡从容"
+    "身份": "七阶青云道修士、无极宗八阶星域之争内定三人之一、闭关修士",
+    "性格": "平淡从容",
+    "性别": "男",
+    "小阶段": "碎涅后期",
+    "外貌": "身穿道袍的中年男子，皮肤略黄，似有重病缠身",
+    "标志特征": "踏空如脚下有无形祥云",
+    "寿元": "修道数千年",
+    "存殁": "在世"
   },
   "observations": {
     "身份": [
@@ -16,12 +24,64 @@
         "value": "七阶青云道修士",
         "docId": "plot.xianni-1254-chizha-wuji-5-wang-lin-kills-zhao-long",
         "seq": 1170
+      },
+      {
+        "value": "无极宗八阶星域之争内定三人之一",
+        "docId": "plot.xianni-ch1255-chidha-wuji-6-yunshan-defeat",
+        "seq": 1170
+      },
+      {
+        "value": "闭关修士",
+        "docId": "plot.xianni-ch1255-chidha-wuji-6-yunshan-defeat",
+        "seq": 1170
       }
     ],
     "性格": [
       {
         "value": "平淡从容",
         "docId": "plot.xianni-1254-chizha-wuji-5-wang-lin-kills-zhao-long",
+        "seq": 1170
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch1255-chidha-wuji-6-yunshan-defeat",
+        "seq": 1170
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "碎涅后期",
+        "docId": "plot.xianni-ch1255-chidha-wuji-6-yunshan-defeat",
+        "seq": 1170
+      }
+    ],
+    "外貌": [
+      {
+        "value": "身穿道袍的中年男子，皮肤略黄，似有重病缠身",
+        "docId": "plot.xianni-ch1255-chidha-wuji-6-yunshan-defeat",
+        "seq": 1170
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "踏空如脚下有无形祥云",
+        "docId": "plot.xianni-ch1255-chidha-wuji-6-yunshan-defeat",
+        "seq": 1170
+      }
+    ],
+    "寿元": [
+      {
+        "value": "修道数千年",
+        "docId": "plot.xianni-ch1255-chidha-wuji-6-yunshan-defeat",
+        "seq": 1170
+      }
+    ],
+    "存殁": [
+      {
+        "value": "在世",
+        "docId": "plot.xianni-ch1255-chidha-wuji-6-yunshan-defeat",
         "seq": 1170
       }
     ]
@@ -39,12 +99,49 @@
       "docId": "plot.xianni-1254-chizha-wuji-5-wang-lin-kills-zhao-long",
       "dated": false,
       "seq": 1170
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1255-chidha-wuji-6-yunshan-defeat",
+      "dated": false,
+      "seq": 1170
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1255-chidha-wuji-6-yunshan-defeat",
+      "dated": false,
+      "seq": 1170
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1255-chidha-wuji-6-yunshan-defeat",
+      "dated": false,
+      "seq": 1170
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1255-chidha-wuji-6-yunshan-defeat",
+      "dated": false,
+      "seq": 1170
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1255-chidha-wuji-6-yunshan-defeat",
+      "dated": false,
+      "seq": 1170
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1255-chidha-wuji-6-yunshan-defeat",
+      "dated": false,
+      "seq": 1170
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1254-chizha-wuji-5-wang-lin-kills-zhao-long"
+    "plot.xianni-1254-chizha-wuji-5-wang-lin-kills-zhao-long",
+    "plot.xianni-ch1255-chidha-wuji-6-yunshan-defeat"
   ],
-  "updatedAt": "2026-08-25T04:08:30.807Z"
+  "updatedAt": "2026-08-25T04:11:08.327Z"
 }
