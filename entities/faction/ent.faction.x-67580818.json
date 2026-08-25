@@ -3,12 +3,13 @@
   "type": "faction",
   "name": "落生会",
   "aliases": [
-    "落生會"
+    "落生會",
+    "落生会势力"
   ],
   "summary": "颠落之地的掌权组织，设十三位长老，长老之位每百年可被挑战；实为颠落大帝操控。",
   "attributes": {
     "等级": "颠落之地最高权力机构",
-    "据点": "颠落之地",
+    "据点": "颠落之地、颠落之地诸修真星",
     "理念": "强者为尊，长老之位以挑战定"
   },
   "observations": {
@@ -23,6 +24,11 @@
       {
         "value": "颠落之地",
         "docId": "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
+        "seq": 1288
+      },
+      {
+        "value": "颠落之地诸修真星",
+        "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
         "seq": 1288
       }
     ],
@@ -58,7 +64,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing"
+    "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
+    "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet"
   ],
-  "updatedAt": "2026-08-25T13:44:40.876Z"
+  "updatedAt": "2026-08-25T13:51:55.648Z"
 }

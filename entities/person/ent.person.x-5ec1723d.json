@@ -4,13 +4,16 @@
   "name": "暗蝎族老者",
   "aliases": [
     "暗蝎族族老",
-    "四尾蝎族印老者"
+    "四尾蝎族印老者",
+    "暗蝎族的老者",
+    "蝎长老"
   ],
   "summary": "暗蝎族掌权老者，眉心有四尾蝎族印，被王林一指震出元神后以族印立太古族盟之誓奉王林为主，并详述颠落之地内情。",
   "attributes": {
-    "身份": "暗蝎族首领→王林麾下",
+    "身份": "暗蝎族首领→王林麾下、暗蝎族长老",
     "标志特征": "眉心四尾蝎子族印，可放出百丈四尾蝎与上百傀儡",
-    "存殁": "存活"
+    "存殁": "存活",
+    "种族": "暗蝎族"
   },
   "observations": {
     "身份": [
@@ -19,6 +22,11 @@
         "docId": "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
         "seq": 1288,
         "note": "本章立誓归顺"
+      },
+      {
+        "value": "暗蝎族长老",
+        "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
+        "seq": 1288
       }
     ],
     "标志特征": [
@@ -32,6 +40,13 @@
       {
         "value": "存活",
         "docId": "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
+        "seq": 1288
+      }
+    ],
+    "种族": [
+      {
+        "value": "暗蝎族",
+        "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
         "seq": 1288
       }
     ]
@@ -56,12 +71,19 @@
       "docId": "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
       "dated": false,
       "seq": 1288
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
+      "dated": false,
+      "seq": 1288
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing"
+    "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
+    "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet"
   ],
-  "updatedAt": "2026-08-25T13:44:40.867Z"
+  "updatedAt": "2026-08-25T13:51:55.627Z"
 }

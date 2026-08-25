@@ -4,15 +4,19 @@
   "name": "化神初期傀儡",
   "aliases": [
     "暗蝎族傀儡",
-    "钟大洪换来的傀儡"
+    "钟大洪换来的傀儡",
+    "暗蝎族的那具傀儡",
+    "有经脉的傀儡"
   ],
   "summary": "暗蝎族以两粒魂丹换出的傀儡，与真人无异但眉心无族印、神色呆滞、无灵性无生机，阴森气息弥漫，修为化神初期；王林查看时眼露奇异之芒。",
   "attributes": {
     "品阶": "化神初期",
     "炼制者": "暗蝎族",
-    "操控者": "王林",
-    "外形": "与真人无异、眉心无族印、神色呆滞、阴森气息弥漫",
-    "能力": "无灵性、无生机"
+    "操控者": "暗蝎族",
+    "外形": "面容麻木无表情、双眼空洞、无生机灵性",
+    "能力": "内部有防护之光护体",
+    "本体来源": "修士（被生生祭炼后凝聚）",
+    "材料": "取代血肉的结晶颗粒"
   },
   "observations": {
     "品阶": [
@@ -34,6 +38,12 @@
         "value": "王林",
         "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
         "seq": 1285
+      },
+      {
+        "value": "暗蝎族",
+        "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
+        "seq": 1288,
+        "note": "毁灭前由暗蝎族保有"
       }
     ],
     "外形": [
@@ -41,6 +51,11 @@
         "value": "与真人无异、眉心无族印、神色呆滞、阴森气息弥漫",
         "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
         "seq": 1285
+      },
+      {
+        "value": "面容麻木无表情、双眼空洞、无生机灵性",
+        "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
+        "seq": 1288
       }
     ],
     "能力": [
@@ -49,6 +64,25 @@
         "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
         "seq": 1285,
         "note": "与暗蝎族自身有族印的傀儡相区别"
+      },
+      {
+        "value": "内部有防护之光护体",
+        "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
+        "seq": 1288
+      }
+    ],
+    "本体来源": [
+      {
+        "value": "修士（被生生祭炼后凝聚）",
+        "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
+        "seq": 1288
+      }
+    ],
+    "材料": [
+      {
+        "value": "取代血肉的结晶颗粒",
+        "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
+        "seq": 1288
       }
     ]
   },
@@ -68,28 +102,41 @@
     },
     "操控者": {
       "asOf": null,
-      "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
+      "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
       "dated": false,
-      "seq": 1285
+      "seq": 1288,
+      "note": "毁灭前由暗蝎族保有"
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
+      "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
       "dated": false,
-      "seq": 1285
+      "seq": 1288
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
+      "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
       "dated": false,
-      "seq": 1285,
-      "note": "与暗蝎族自身有族印的傀儡相区别"
+      "seq": 1288
+    },
+    "本体来源": {
+      "asOf": null,
+      "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
+      "dated": false,
+      "seq": 1288
+    },
+    "材料": {
+      "asOf": null,
+      "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
+      "dated": false,
+      "seq": 1288
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng"
+    "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
+    "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet"
   ],
-  "updatedAt": "2026-08-25T13:25:11.834Z"
+  "updatedAt": "2026-08-25T13:51:55.629Z"
 }

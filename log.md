@@ -751,3 +751,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T13:02:24.983Z** `ingest` plot.xianni-1368-nine-companion-thunders-gate-of-void — 第1368章 空之大门——王林九道伴随之雷大成，第三步之门显现 · kind=plot asOf=2026-08-25 entities=22 relations=33 src=01280-01284.p5.md
 - **2026-08-25T13:25:12.354Z** `ingest` plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng — 第1285-1287章 雷图轰天：三撞空之大门裂缝、十万雷山镇压数万修士 · kind=plot asOf=2026-08-25 entities=86 relations=146 src=01285-01287.md
 - **2026-08-25T13:44:41.293Z** `ingest` plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing — 第1373章 王林降服暗蝎族·颠落之地情报与炎火异晶之秘 · kind=plot asOf=2026-08-25 entities=29 relations=42 src=01288-01291.p1.md
+- **2026-08-25T13:51:56.077Z** `ingest` plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet — 第1374章 司墨子来临：炎火异晶疑连朱雀圣宗，王林探查颠落傀儡受阻 · kind=plot asOf=2026-08-25 entities=39 relations=69 src=01288-01291.p2.md

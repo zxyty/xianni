@@ -4,16 +4,21 @@
   "name": "朱雀老圣皇",
   "aliases": [
     "朱雀圣皇（老）",
-    "Old Zhu Que Sheng Huang"
+    "Old Zhu Que Sheng Huang",
+    "第五代圣皇",
+    "朱雀圣宗五代圣皇"
   ],
   "summary": "当初邀王林前来朱雀圣宗之人；王林因伤势沉重、需依托而痛快答应。",
   "attributes": {
-    "身份": "朱雀圣宗前任圣皇、朱雀圣皇、前代朱雀圣皇、朱雀圣宗老圣皇、朱雀国老圣皇、四圣宗前代圣皇；唯一知晓引发修真联盟与昆虚之境大战秘密之人、四圣宗一脉圣皇",
+    "身份": "朱雀圣宗前任圣皇、朱雀圣皇、前代朱雀圣皇、朱雀圣宗老圣皇、朱雀国老圣皇、四圣宗前代圣皇；唯一知晓引发修真联盟与昆虚之境大战秘密之人、四圣宗一脉圣皇、朱雀圣宗第五代圣皇",
     "存殁": "死亡",
     "死因": "为四圣宗而死",
-    "结局": "临归墟前托王林送玉简至昆虚之境",
+    "结局": "归墟，肉身化作石像，保持手臂点在眉心的动作，由王林收于储物空间",
     "外貌": "双目鲜血淋淋、流黑血",
-    "标志特征": "遗体化作石像"
+    "标志特征": "遗体化作石像",
+    "称号": "五代圣皇",
+    "出身地": "上古炼气时代",
+    "性格": "气节高洁，数万年默默付出"
   },
   "observations": {
     "身份": [
@@ -51,6 +56,11 @@
         "value": "四圣宗一脉圣皇",
         "docId": "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
         "seq": 1288
+      },
+      {
+        "value": "朱雀圣宗第五代圣皇",
+        "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
+        "seq": 1288
       }
     ],
     "存殁": [
@@ -84,6 +94,12 @@
         "docId": "plot.xianni-ch1123-duibuqi-zhouru-kunxu-departure",
         "seq": 1039,
         "note": "本章为转述，其已于第1024章死亡"
+      },
+      {
+        "value": "归墟，肉身化作石像，保持手臂点在眉心的动作，由王林收于储物空间",
+        "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
+        "seq": 1288,
+        "note": "本章为王林回忆与神识扫视"
       }
     ],
     "外貌": [
@@ -99,6 +115,27 @@
         "value": "遗体化作石像",
         "docId": "plot.xianni-ch1125-ji-qiong-avatar-into-ancient-god-land",
         "seq": 1039
+      }
+    ],
+    "称号": [
+      {
+        "value": "五代圣皇",
+        "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
+        "seq": 1288
+      }
+    ],
+    "出身地": [
+      {
+        "value": "上古炼气时代",
+        "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
+        "seq": 1288
+      }
+    ],
+    "性格": [
+      {
+        "value": "气节高洁，数万年默默付出",
+        "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
+        "seq": 1288
       }
     ]
   },
@@ -125,10 +162,10 @@
     },
     "结局": {
       "asOf": null,
-      "docId": "plot.xianni-ch1123-duibuqi-zhouru-kunxu-departure",
+      "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
       "dated": false,
-      "seq": 1039,
-      "note": "本章为转述，其已于第1024章死亡"
+      "seq": 1288,
+      "note": "本章为王林回忆与神识扫视"
     },
     "外貌": {
       "asOf": null,
@@ -142,6 +179,24 @@
       "docId": "plot.xianni-ch1125-ji-qiong-avatar-into-ancient-god-land",
       "dated": false,
       "seq": 1039
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
+      "dated": false,
+      "seq": 1288
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
+      "dated": false,
+      "seq": 1288
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
+      "dated": false,
+      "seq": 1288
     }
   },
   "contested": false,
@@ -157,7 +212,8 @@
     "plot.xianni-1124-parting-wang-lin-leaves-mu-bingmei-qinglong-shengzun",
     "plot.xianni-ch1125-ji-qiong-avatar-into-ancient-god-land",
     "plot.xianni-ch1303-feng-jie-da-zhen",
-    "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing"
+    "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
+    "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet"
   ],
-  "updatedAt": "2026-08-25T13:44:40.871Z"
+  "updatedAt": "2026-08-25T13:51:55.574Z"
 }

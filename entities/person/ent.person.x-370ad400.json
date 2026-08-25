@@ -7,17 +7,19 @@
     "空涅初期男修",
     "裂缝深渊中的中年男子",
     "Si Mozi",
-    "司墨子前辈"
+    "司墨子前辈",
+    "追杀王林的中年男子"
   ],
   "summary": "太古星辰第三步大能，空涅初期，追杀拓森十年的三人之一；被星点漩涡罩下时念出囚天封道法诀，令拓森色变放弃击杀，事后与空灵老者收取白衣女子的六品道灵酬劳。",
   "attributes": {
     "性别": "男",
-    "外貌": "中年男子，神色阴沉",
+    "外貌": "中年男子",
     "小阶段": "第三步大能（吸收六品道灵六成，隐有将破空涅初期之兆）",
-    "身份": "猎杀古神者",
+    "身份": "借用龙甲族身份行事",
     "存殁": "存活",
     "称号": "大能",
-    "性格": "桀骜、以猎杀为乐"
+    "性格": "桀骜、以猎杀为乐",
+    "阵营": "追杀王林一方"
   },
   "observations": {
     "性别": [
@@ -37,6 +39,11 @@
         "value": "中年男子，神色阴沉",
         "docId": "plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin",
         "seq": 1280
+      },
+      {
+        "value": "中年男子",
+        "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
+        "seq": 1288
       }
     ],
     "小阶段": [
@@ -61,6 +68,12 @@
         "value": "猎杀古神者",
         "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
         "seq": 1285
+      },
+      {
+        "value": "借用龙甲族身份行事",
+        "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
+        "seq": 1288,
+        "note": "潜入颠落之地的伪装计划"
       }
     ],
     "存殁": [
@@ -88,6 +101,14 @@
         "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
         "seq": 1285
       }
+    ],
+    "阵营": [
+      {
+        "value": "追杀王林一方",
+        "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
+        "seq": 1288,
+        "note": "第1288章"
+      }
     ]
   },
   "firstSeq": 1222,
@@ -100,9 +121,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin",
+      "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
       "dated": false,
-      "seq": 1280
+      "seq": 1288
     },
     "小阶段": {
       "asOf": null,
@@ -112,9 +133,10 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
+      "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
       "dated": false,
-      "seq": 1285
+      "seq": 1288,
+      "note": "潜入颠落之地的伪装计划"
     },
     "存殁": {
       "asOf": null,
@@ -133,6 +155,13 @@
       "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
       "dated": false,
       "seq": 1285
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
+      "dated": false,
+      "seq": 1288,
+      "note": "第1288章"
     }
   },
   "contested": false,
@@ -140,7 +169,8 @@
   "docs": [
     "plot.xianni-ch1311-fate-first-battle-tuosen-vs-wanglin-moon-tribe",
     "plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin",
-    "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng"
+    "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
+    "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet"
   ],
-  "updatedAt": "2026-08-25T13:25:11.666Z"
+  "updatedAt": "2026-08-25T13:51:55.621Z"
 }

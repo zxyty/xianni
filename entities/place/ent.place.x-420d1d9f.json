@@ -7,17 +7,18 @@
     "Dianluo Land",
     "Dian Luo Zhi Di",
     "颠落之地修真星",
-    "顛落之地"
+    "顛落之地",
+    "颠落之地星域"
   ],
   "summary": "太古星辰一处星域，修真星数千、由三百七十二个小族组成，是叛族与结仇者的庇护所，亦为太古星辰最大的交易之所。",
   "attributes": {
     "所属界面": "太古星辰",
-    "类型": "庇护所、交易之所、化外之地/自由交易区、区域／修真星所在之地、神秘禁区/独立势力辖区",
+    "类型": "庇护所、交易之所、化外之地/自由交易区、区域／修真星所在之地、神秘禁区/独立势力辖区、秘境/异域、星域/地域",
     "规模": "三百七十二个小族",
-    "危险度": "极高（外敌入侵者曾被虚无狂风尽灭）、相对安全但并非绝对安全、极高、强者为尊；争夺长老之位者多莫名死亡",
+    "危险度": "极高（外敌入侵者曾被虚无狂风尽灭）、相对安全但并非绝对安全、极高、强者为尊；争夺长老之位者多莫名死亡、龙蛇混杂",
     "特产": "法宝交易、功法交易、丹药、法宝、元晶、可印神识操控的傀儡、炉鼎交易、炎火异晶、傀儡",
     "上级区域": "太古星辰",
-    "所属势力": "不属长尊会控制、落生会、颠落大帝"
+    "所属势力": "不属长尊会控制、落生会、颠落大帝、不归长尊会"
   },
   "observations": {
     "所属界面": [
@@ -51,6 +52,16 @@
       {
         "value": "神秘禁区/独立势力辖区",
         "docId": "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
+        "seq": 1288
+      },
+      {
+        "value": "秘境/异域",
+        "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
+        "seq": 1288
+      },
+      {
+        "value": "星域/地域",
+        "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
         "seq": 1288
       }
     ],
@@ -86,6 +97,12 @@
         "value": "强者为尊；争夺长老之位者多莫名死亡",
         "docId": "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
         "seq": 1288
+      },
+      {
+        "value": "龙蛇混杂",
+        "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
+        "seq": 1288,
+        "note": "司墨子评价，需谨慎行事"
       }
     ],
     "特产": [
@@ -158,6 +175,11 @@
         "value": "颠落大帝",
         "docId": "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
         "seq": 1288
+      },
+      {
+        "value": "不归长尊会",
+        "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
+        "seq": 1288
       }
     ]
   },
@@ -211,7 +233,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
-    "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing"
+    "plot.xianni-1373-wang-lin-subdues-dark-scorpion-clan-yanhuo-yijing",
+    "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet"
   ],
-  "updatedAt": "2026-08-25T13:44:40.877Z"
+  "updatedAt": "2026-08-25T13:51:55.638Z"
 }
