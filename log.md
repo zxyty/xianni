@@ -661,3 +661,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T05:39:44.890Z** `ingest` plot.xianni-1274-shui-daozi-benti-jianglin-wanglin-jinzhi-shesheche-sebian — 第1274章 色变——水道子本体降临，王林血符·三大禁·射神车逼其变色 · kind=plot asOf=2026-08-25 entities=25 relations=29 src=01191-01195.p1.md
 - **2026-08-25T05:42:17.510Z** `ingest` plot.xianni-1275-nie-jie-si-jing-she-shen-che-vs-shui-dao-zi — 第1275章 涅劫四境——射神车三击撼水道子 · kind=plot asOf=2026-08-25 entities=31 relations=41 src=01191-01195.p2.md
 - **2026-08-25T05:49:35.592Z** `ingest` plot.xianni-1276-water-daoist-counterattack-shenche-destroyed — 第1276章 反击！——水道子定神术定住天地，毁灭雷兽射神车 · kind=plot asOf=2026-08-25 entities=41 relations=57 src=01191-01195.p3.md
+- **2026-08-25T05:52:23.621Z** `ingest` plot.xianni-1277-rebirth-seven-color-nails-vs-shui-daozi — 第1277章 重生！——七彩神空钉入水道子眉心，王林血肉重聚新生 · kind=plot asOf=2026-08-25 entities=29 relations=47 src=01191-01195.p4.md
