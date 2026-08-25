@@ -687,3 +687,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T07:59:55.120Z** `ingest` plot.xianni-1302-zhi-shou-zhe-tian-tianjie — 《仙逆》第1302章 只手遮天：王林出裂缝硬撼九阶星域天劫 · kind=plot asOf=2026-08-25 entities=30 relations=38 src=01217-01221.p1.md
 - **2026-08-25T08:02:35.693Z** `ingest` plot.xianni-ch1303-feng-jie-da-zhen — 仙逆 第1303章 封界大阵：四剑彼岸召唤与王林借天劫破界 · kind=plot asOf=2026-08-25 entities=25 relations=40 src=01217-01221.p2.md
 - **2026-08-25T08:04:54.173Z** `ingest` plot.xianni-ch1304-jiugong-bagua-tianjie — 《仙逆》第1304章 九宫八卦：王林借封界大阵抗劫，九宫封仙受阻于古神之力 · kind=plot asOf=2026-08-25 entities=16 relations=20 src=01217-01221.p3.md
+- **2026-08-25T08:12:16.529Z** `ingest` plot.xianni-ch1305-tianjie-wei-jie-yi-wei-zaohua — 第1305章 天劫为劫，亦为造化：妖尊玉佩现世，云海整合令下 · kind=plot asOf=2026-08-25 entities=40 relations=58 src=01217-01221.p4.md
