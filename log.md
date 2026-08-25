@@ -644,3 +644,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T04:06:17.098Z** `ingest` plot.xianni-ch1253-wang-lin-descends-wuji-zong-kills-lu-yingjie — 第1253章 叱咤无极（四）：王林踏雷降临无极宗，一指灭吕英杰 · kind=plot asOf=2026-08-25 entities=31 relations=36 src=01170-01173.p2.md
 - **2026-08-25T04:08:31.120Z** `ingest` plot.xianni-1254-chizha-wuji-5-wang-lin-kills-zhao-long — 第1254章 叱咤无极（五）：天运一指余威、一脚踏灭赵龙自爆元神 · kind=plot asOf=2026-08-25 entities=32 relations=36 src=01170-01173.p3.md
 - **2026-08-25T04:11:08.646Z** `ingest` plot.xianni-ch1255-chidha-wuji-6-yunshan-defeat — 第1255章 叱咤无极（六）：王林火焰神通败碎涅后期云杉，再邀二人同上 · kind=plot asOf=2026-08-25 entities=25 relations=34 src=01170-01173.p4.md
+- **2026-08-25T04:28:57.654Z** `ingest` plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong — 第1174-1177章 叱咤无极（七·八）：王林平生第三次抽星魂，一击重创杜林与尹玥 · kind=plot asOf=2026-08-25 entities=68 relations=102 src=01174-01177.md

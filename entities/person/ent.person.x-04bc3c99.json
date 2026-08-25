@@ -4,15 +4,18 @@
   "name": "无极宗宗主",
   "aliases": [
     "无极宗白袍老者",
-    "无极宗宗主白袍老者"
+    "无极宗宗主白袍老者",
+    "无极宗之主"
   ],
   "summary": "无极宗之主，对绉姓男子的无礼心中不喜；对神秘的吕子浩起了浓浓兴趣，最终亲自开口召卢云从与吕烟菲上前。",
   "attributes": {
     "身份": "无极宗宗主",
     "外貌": "身穿白袍的老者、白袍老者",
-    "小阶段": "天人第一衰",
+    "小阶段": "经历过天人衰劫",
     "存殁": "在世",
-    "阵营": "无极宗"
+    "阵营": "无极宗",
+    "标志特征": "双目如电、目光如实质剑芒",
+    "性格": "深沉、以杀机作迷障试探"
   },
   "observations": {
     "身份": [
@@ -44,6 +47,12 @@
         "value": "天人第一衰",
         "docId": "plot.xianni-ch1253-wang-lin-descends-wuji-zong-kills-lu-yingjie",
         "seq": 1170
+      },
+      {
+        "value": "经历过天人衰劫",
+        "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
+        "seq": 1174,
+        "note": "文中判定其超越碎涅修士"
       }
     ],
     "存殁": [
@@ -58,6 +67,20 @@
         "value": "无极宗",
         "docId": "plot.xianni-ch1253-wang-lin-descends-wuji-zong-kills-lu-yingjie",
         "seq": 1170
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "双目如电、目光如实质剑芒",
+        "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
+        "seq": 1174
+      }
+    ],
+    "性格": [
+      {
+        "value": "深沉、以杀机作迷障试探",
+        "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
+        "seq": 1174
       }
     ]
   },
@@ -77,9 +100,10 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch1253-wang-lin-descends-wuji-zong-kills-lu-yingjie",
+      "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
       "dated": false,
-      "seq": 1170
+      "seq": 1174,
+      "note": "文中判定其超越碎涅修士"
     },
     "存殁": {
       "asOf": null,
@@ -92,6 +116,18 @@
       "docId": "plot.xianni-ch1253-wang-lin-descends-wuji-zong-kills-lu-yingjie",
       "dated": false,
       "seq": 1170
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
+      "dated": false,
+      "seq": 1174
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
+      "dated": false,
+      "seq": 1174
     }
   },
   "contested": false,
@@ -102,7 +138,8 @@
     "plot.xianni-1252-chizha-wuji-3-wang-lin-arrives-with-thunder",
     "plot.xianni-ch1253-wang-lin-descends-wuji-zong-kills-lu-yingjie",
     "plot.xianni-1254-chizha-wuji-5-wang-lin-kills-zhao-long",
-    "plot.xianni-ch1255-chidha-wuji-6-yunshan-defeat"
+    "plot.xianni-ch1255-chidha-wuji-6-yunshan-defeat",
+    "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong"
   ],
-  "updatedAt": "2026-08-25T04:11:08.328Z"
+  "updatedAt": "2026-08-25T04:28:57.222Z"
 }

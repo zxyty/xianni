@@ -4,13 +4,17 @@
   "name": "尹玥",
   "aliases": [
     "天阴宗尹玥",
-    "七阶天阴宗尹玥"
+    "七阶天阴宗尹玥",
+    "Yin Yue",
+    "尹"
   ],
   "summary": "七阶天阴宗女修，本章自平台南向出战挑战王林，与杜林被王林要求一起上。",
   "attributes": {
     "性别": "女",
     "身份": "天阴宗修士",
-    "存殁": "在世"
+    "存殁": "存活",
+    "外貌": "娇躯，头发被雨水淋得散乱",
+    "结局": "本章败退离去"
   },
   "observations": {
     "性别": [
@@ -32,6 +36,25 @@
         "value": "在世",
         "docId": "plot.xianni-ch1255-chidha-wuji-6-yunshan-defeat",
         "seq": 1170
+      },
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
+        "seq": 1174
+      }
+    ],
+    "外貌": [
+      {
+        "value": "娇躯，头发被雨水淋得散乱",
+        "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
+        "seq": 1174
+      }
+    ],
+    "结局": [
+      {
+        "value": "本章败退离去",
+        "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
+        "seq": 1174
       }
     ]
   },
@@ -51,15 +74,28 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch1255-chidha-wuji-6-yunshan-defeat",
+      "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
       "dated": false,
-      "seq": 1170
+      "seq": 1174
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
+      "dated": false,
+      "seq": 1174
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
+      "dated": false,
+      "seq": 1174
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1255-chidha-wuji-6-yunshan-defeat"
+    "plot.xianni-ch1255-chidha-wuji-6-yunshan-defeat",
+    "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong"
   ],
-  "updatedAt": "2026-08-25T04:11:08.331Z"
+  "updatedAt": "2026-08-25T04:28:57.181Z"
 }

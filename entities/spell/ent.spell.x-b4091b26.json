@@ -6,14 +6,21 @@
     "抽星魂",
     "古魔·抽星之魂",
     "抽取星魂",
-    "抽星魂之法"
+    "抽星魂之法",
+    "抽星魂神通",
+    "索星抽魂",
+    "抽星魂之术",
+    "Chou Xing Hun",
+    "抽取修真星之魂",
+    "Star Soul Extraction"
   ],
   "summary": "散魔以古族之语喝出的古魔神通，右手成爪覆魔焰、透体化出数丈魔爪向大地虚空一抓，生生抽出星辰的星魂；王林借此略有所悟。",
   "attributes": {
-    "类型": "古魔神通",
-    "出处": "古魔",
-    "威力": "抽出整颗星辰的星魂",
-    "消耗": "需以古族之语喝出「古魔」「抽星之魂」"
+    "类型": "古魔神通、天地神通、第二步四大神通之一",
+    "出处": "风仙界尚未崩溃时的古书传闻，从未被证实",
+    "威力": "抽出整颗星辰的星魂、凝星魂为拳大光球，爆开等同以整颗修真星一击、一式即令七阶宗门大弟子毫无余地落败",
+    "消耗": "抽取修真星之魂，若尽抽则此星成废墟甚至崩溃",
+    "适用境界": "修为达一定程度且对天道理解达到不可思议高度、第二步（修道第二步）"
   },
   "observations": {
     "类型": [
@@ -21,6 +28,16 @@
         "value": "古魔神通",
         "docId": "plot.xianni-ch686-sanmo-appears",
         "seq": 646
+      },
+      {
+        "value": "天地神通",
+        "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
+        "seq": 1174
+      },
+      {
+        "value": "第二步四大神通之一",
+        "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
+        "seq": 1174
       }
     ],
     "出处": [
@@ -28,6 +45,11 @@
         "value": "古魔",
         "docId": "plot.xianni-ch686-sanmo-appears",
         "seq": 646
+      },
+      {
+        "value": "风仙界尚未崩溃时的古书传闻，从未被证实",
+        "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
+        "seq": 1174
       }
     ],
     "威力": [
@@ -35,6 +57,16 @@
         "value": "抽出整颗星辰的星魂",
         "docId": "plot.xianni-ch686-sanmo-appears",
         "seq": 646
+      },
+      {
+        "value": "凝星魂为拳大光球，爆开等同以整颗修真星一击",
+        "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
+        "seq": 1174
+      },
+      {
+        "value": "一式即令七阶宗门大弟子毫无余地落败",
+        "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
+        "seq": 1174
       }
     ],
     "消耗": [
@@ -42,6 +74,23 @@
         "value": "需以古族之语喝出「古魔」「抽星之魂」",
         "docId": "plot.xianni-ch686-sanmo-appears",
         "seq": 646
+      },
+      {
+        "value": "抽取修真星之魂，若尽抽则此星成废墟甚至崩溃",
+        "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
+        "seq": 1174
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "修为达一定程度且对天道理解达到不可思议高度",
+        "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
+        "seq": 1174
+      },
+      {
+        "value": "第二步（修道第二步）",
+        "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
+        "seq": 1174
       }
     ]
   },
@@ -55,9 +104,9 @@
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch686-sanmo-appears",
+      "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
       "dated": false,
-      "seq": 646
+      "seq": 1174
     },
     "威力": {
       "asOf": null,
@@ -67,16 +116,23 @@
     },
     "消耗": {
       "asOf": null,
-      "docId": "plot.xianni-ch686-sanmo-appears",
+      "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
       "dated": false,
-      "seq": 646
+      "seq": 1174
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
+      "dated": false,
+      "seq": 1174
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch686-sanmo-appears",
-    "plot.xianni-ch898-lei-ji-2-restore-zhuque-star-soul"
+    "plot.xianni-ch898-lei-ji-2-restore-zhuque-star-soul",
+    "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong"
   ],
-  "updatedAt": "2026-08-23T18:34:29.779Z"
+  "updatedAt": "2026-08-25T04:28:57.194Z"
 }

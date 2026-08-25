@@ -4,12 +4,14 @@
   "name": "杜林",
   "aliases": [
     "紫松谷杜林",
-    "七阶紫松谷杜林"
+    "七阶紫松谷杜林",
+    "Du Lin"
   ],
   "summary": "七阶紫松谷修士，本章自平台东向出战挑战王林，与尹玥被王林要求一起上。",
   "attributes": {
     "身份": "紫松谷修士",
-    "存殁": "在世"
+    "存殁": "存活",
+    "标志特征": "面色苍白、嘴角带血，雨中背影萧瑟"
   },
   "observations": {
     "身份": [
@@ -24,6 +26,18 @@
         "value": "在世",
         "docId": "plot.xianni-ch1255-chidha-wuji-6-yunshan-defeat",
         "seq": 1170
+      },
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
+        "seq": 1174
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "面色苍白、嘴角带血，雨中背影萧瑟",
+        "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
+        "seq": 1174
       }
     ]
   },
@@ -37,15 +51,22 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch1255-chidha-wuji-6-yunshan-defeat",
+      "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
       "dated": false,
-      "seq": 1170
+      "seq": 1174
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
+      "dated": false,
+      "seq": 1174
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1255-chidha-wuji-6-yunshan-defeat"
+    "plot.xianni-ch1255-chidha-wuji-6-yunshan-defeat",
+    "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong"
   ],
-  "updatedAt": "2026-08-25T04:11:08.330Z"
+  "updatedAt": "2026-08-25T04:28:57.138Z"
 }

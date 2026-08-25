@@ -16,7 +16,8 @@
     "外貌": "身穿道袍的中年男子，皮肤略黄，似有重病缠身",
     "标志特征": "踏空如脚下有无形祥云",
     "寿元": "修道数千年",
-    "存殁": "在世"
+    "存殁": "在世",
+    "结局": "败于王林"
   },
   "observations": {
     "身份": [
@@ -84,6 +85,13 @@
         "docId": "plot.xianni-ch1255-chidha-wuji-6-yunshan-defeat",
         "seq": 1170
       }
+    ],
+    "结局": [
+      {
+        "value": "败于王林",
+        "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
+        "seq": 1174
+      }
     ]
   },
   "firstSeq": 1170,
@@ -135,13 +143,20 @@
       "docId": "plot.xianni-ch1255-chidha-wuji-6-yunshan-defeat",
       "dated": false,
       "seq": 1170
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong",
+      "dated": false,
+      "seq": 1174
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1254-chizha-wuji-5-wang-lin-kills-zhao-long",
-    "plot.xianni-ch1255-chidha-wuji-6-yunshan-defeat"
+    "plot.xianni-ch1255-chidha-wuji-6-yunshan-defeat",
+    "plot.xianni-ch1174-1177-chou-xing-hun-wuji-zong"
   ],
-  "updatedAt": "2026-08-25T04:11:08.327Z"
+  "updatedAt": "2026-08-25T04:28:57.189Z"
 }
