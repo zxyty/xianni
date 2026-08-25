@@ -6,7 +6,10 @@
     "司墨子的分身",
     "天人第五衰分身",
     "中年青衫男子",
-    "Si Mo Zi"
+    "Si Mo Zi",
+    "司墨子第五衰分身",
+    "天人司墨子第五衰分身",
+    "Si Mozi 分身"
   ],
   "summary": "司墨子双目闭合时自体内走出的虚幻之影，化作与本尊一模一样的分身，修为为天人第五衰，奉命前去缉拿王林。",
   "attributes": {
@@ -14,7 +17,10 @@
     "外貌": "中年男子，一身青衫",
     "身份": "司墨子之分身，奉命生擒王林",
     "性别": "男",
-    "性格": "阴沉、老练"
+    "性格": "阴沉、老练",
+    "存殁": "死亡",
+    "死因": "被虚无中的大帝自天空漩涡探出的气浪巨指按下，肉身崩碎、元神四分五裂",
+    "结局": "第1381章身死道消"
   },
   "observations": {
     "小阶段": [
@@ -61,6 +67,27 @@
         "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
         "seq": 1285
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-1381-shao-di",
+        "seq": 1292
+      }
+    ],
+    "死因": [
+      {
+        "value": "被虚无中的大帝自天空漩涡探出的气浪巨指按下，肉身崩碎、元神四分五裂",
+        "docId": "plot.xianni-1381-shao-di",
+        "seq": 1292
+      }
+    ],
+    "结局": [
+      {
+        "value": "第1381章身死道消",
+        "docId": "plot.xianni-1381-shao-di",
+        "seq": 1292
+      }
     ]
   },
   "firstSeq": 1280,
@@ -94,13 +121,32 @@
       "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
       "dated": false,
       "seq": 1285
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1381-shao-di",
+      "dated": false,
+      "seq": 1292
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-1381-shao-di",
+      "dated": false,
+      "seq": 1292
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-1381-shao-di",
+      "dated": false,
+      "seq": 1292
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin",
-    "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng"
+    "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
+    "plot.xianni-1381-shao-di"
   ],
-  "updatedAt": "2026-08-25T13:25:11.621Z"
+  "updatedAt": "2026-08-25T14:12:03.407Z"
 }

@@ -4,11 +4,12 @@
   "name": "龙崩丹",
   "aliases": [
     "崩丹",
-    "Long Beng Dan"
+    "Long Beng Dan",
+    "龙崩之丹"
   ],
   "summary": "龙甲族三宝之一，颠落大帝所赐，独属龙甲族。并非吞服而是爆开伤敌，单粒威力相当于窥涅修士一击，万粒齐爆足以威胁天人一衰。",
   "attributes": {
-    "功效": "爆开伤敌、单粒威力约等于窥涅修士一击",
+    "功效": "爆开伤敌、单粒威力约等于窥涅修士一击、崩溃产生剧烈冲击伤敌",
     "主料": "四种气息交错平衡（平衡一破即爆）",
     "副作用": "非吞服之丹，服用无益"
   },
@@ -23,6 +24,11 @@
         "value": "单粒威力约等于窥涅修士一击",
         "docId": "plot.xianni-1377-longbeng-dan-refine-challenge",
         "seq": 1288
+      },
+      {
+        "value": "崩溃产生剧烈冲击伤敌",
+        "docId": "plot.xianni-1381-shao-di",
+        "seq": 1292
       }
     ],
     "主料": [
@@ -64,7 +70,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1377-longbeng-dan-refine-challenge"
+    "plot.xianni-1377-longbeng-dan-refine-challenge",
+    "plot.xianni-1381-shao-di"
   ],
-  "updatedAt": "2026-08-25T14:02:42.524Z"
+  "updatedAt": "2026-08-25T14:12:03.422Z"
 }

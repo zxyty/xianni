@@ -6,14 +6,16 @@
     "落生会第九长老",
     "第九长老",
     "龙甲族族长（第九长老）",
-    "龙甲族的族长"
+    "龙甲族的族长",
+    "龙甲族老族长"
   ],
   "summary": "落生会第九长老，龙甲族族长，与司墨子当年有旧；司墨子欲借其龙甲族身份在颠落之地行事。",
   "attributes": {
     "种族": "龙甲族",
     "身份": "落生会第九长老、龙甲族族长",
     "性格": "阴沉、傲然",
-    "阵营": "与王林有旧怨（王林曾寻龙甲族帮助）"
+    "阵营": "与王林有旧怨（王林曾寻龙甲族帮助）",
+    "结局": "被剥去第九长老资格，获赐毒命丹一枚令其即刻服下"
   },
   "observations": {
     "种族": [
@@ -27,7 +29,8 @@
       {
         "value": "落生会第九长老",
         "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
-        "seq": 1288
+        "seq": 1288,
+        "note": "第1381章被大帝口谕剥夺"
       },
       {
         "value": "龙甲族族长",
@@ -49,6 +52,13 @@
         "seq": 1292,
         "note": "第1379章族长自述"
       }
+    ],
+    "结局": [
+      {
+        "value": "被剥去第九长老资格，获赐毒命丹一枚令其即刻服下",
+        "docId": "plot.xianni-1381-shao-di",
+        "seq": 1292
+      }
     ]
   },
   "firstSeq": 1288,
@@ -63,7 +73,8 @@
       "asOf": null,
       "docId": "plot.xianni-1374-simozi-arrives-yanhuo-yijing-puppet",
       "dated": false,
-      "seq": 1288
+      "seq": 1288,
+      "note": "第1381章被大帝口谕剥夺"
     },
     "性格": {
       "asOf": null,
@@ -77,6 +88,12 @@
       "dated": false,
       "seq": 1292,
       "note": "第1379章族长自述"
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-1381-shao-di",
+      "dated": false,
+      "seq": 1292
     }
   },
   "contested": false,
@@ -86,7 +103,8 @@
     "plot.xianni-1377-longbeng-dan-refine-challenge",
     "plot.xianni-1378-yidai-zongshi-wanglin-vs-simozi",
     "plot.xianni-1379-emperor-arrives-siwang-po-tian-dao-duel",
-    "plot.xianni-1380-four-breaths-wang-lin-vs-simozi"
+    "plot.xianni-1380-four-breaths-wang-lin-vs-simozi",
+    "plot.xianni-1381-shao-di"
   ],
-  "updatedAt": "2026-08-25T14:09:53.359Z"
+  "updatedAt": "2026-08-25T14:12:03.412Z"
 }
