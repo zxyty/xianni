@@ -648,3 +648,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T04:31:32.884Z** `ingest` plot.xianni-1260-yinxian-shengsijie-wuji-zong-shanmen — 第1260章 隐现生死劫：一战成名，无极宗延揽与山门剑峰 · kind=plot asOf=2026-08-25 entities=29 relations=37 src=01178-01182.p1.md
 - **2026-08-25T04:34:20.276Z** `ingest` plot.xianni-ch1261-shenzong-killing-calamity-lusu-peak — 仙逆 第1261章 来自神宗的杀劫——鲁肃峰古神剑意与白发童子锁定“吕子浩” · kind=plot asOf=2026-08-25 entities=31 relations=35 src=01178-01182.p2.md
 - **2026-08-25T04:37:02.233Z** `ingest` plot.xianni-1262-return-wuji-sect-ancient-god-qi-shui-daozi-plot — 《仙逆》第1262章 回来了……——水道子疑其主未死、王林吸古神气息后归归元宗 · kind=plot asOf=2026-08-25 entities=30 relations=41 src=01178-01182.p3.md
+- **2026-08-25T04:39:39.906Z** `ingest` plot.xianni-ch1263-fish-and-bird-li-qianmei-farewell — 第1263章 鱼儿与飞鸟——李倩梅庭院道别与手镯之谢 · kind=plot asOf=2026-08-25 entities=24 relations=33 src=01178-01182.p4.md
