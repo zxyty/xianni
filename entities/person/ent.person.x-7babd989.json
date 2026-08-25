@@ -15,7 +15,7 @@
   ],
   "summary": "当年与水道子、掌尊三人全力合击水道子之主的其中一人。",
   "attributes": {
-    "身份": "分身来此",
+    "身份": "当年围杀神宗旧主的三人之一、道尊、太古五尊之一、封灭族少女之主、三步大能、分身来此、封灭族少女之主人",
     "称号": "太古五尊之一、道尊",
     "外貌": "样子苍老、白发在水中浮动，双目深邃如大海",
     "标志特征": "香火之力、香火界",
@@ -23,8 +23,9 @@
     "性格": "贪婪、张扬",
     "本命法宝": "扇子",
     "结局": "预言中肉身崩溃、元神死亡",
-    "分身": "分身",
-    "道号": "妙音道尊"
+    "分身": "三大分身（其一为大帝星上的翩翩少年）、分身、以分身进入古之墓地",
+    "道号": "妙音道尊",
+    "小阶段": "空涅初期"
   },
   "observations": {
     "身份": [
@@ -58,6 +59,11 @@
         "docId": "plot.xianni-ch1452-dahuang-laodu",
         "seq": 1360,
         "note": "本尊在音海"
+      },
+      {
+        "value": "封灭族少女之主人",
+        "docId": "plot.xianni-ch1453-han-mu-wang-tian",
+        "seq": 1360
       }
     ],
     "称号": [
@@ -156,6 +162,11 @@
         "value": "分身",
         "docId": "plot.xianni-ch1452-dahuang-laodu",
         "seq": 1360
+      },
+      {
+        "value": "以分身进入古之墓地",
+        "docId": "plot.xianni-ch1453-han-mu-wang-tian",
+        "seq": 1360
       }
     ],
     "道号": [
@@ -164,16 +175,23 @@
         "docId": "plot.xianni-1434-fengtianlang-pursuit",
         "seq": 1341
       }
+    ],
+    "小阶段": [
+      {
+        "value": "空涅初期",
+        "docId": "plot.xianni-ch1453-han-mu-wang-tian",
+        "seq": 1360,
+        "note": "第三步大能，在古之墓地内被压制后的极限"
+      }
     ]
   },
   "firstSeq": 1178,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1452-dahuang-laodu",
+      "docId": "plot.xianni-1262-return-wuji-sect-ancient-god-qi-shui-daozi-plot",
       "dated": false,
-      "seq": 1360,
-      "note": "本尊在音海"
+      "seq": 1178
     },
     "称号": {
       "asOf": null,
@@ -220,15 +238,22 @@
     },
     "分身": {
       "asOf": null,
-      "docId": "plot.xianni-ch1452-dahuang-laodu",
+      "docId": "plot.xianni-1416-san-dai-nie-que",
       "dated": false,
-      "seq": 1360
+      "seq": 1326
     },
     "道号": {
       "asOf": null,
       "docId": "plot.xianni-1434-fengtianlang-pursuit",
       "dated": false,
       "seq": 1341
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1453-han-mu-wang-tian",
+      "dated": false,
+      "seq": 1360,
+      "note": "第三步大能，在古之墓地内被压制后的极限"
     }
   },
   "contested": false,
@@ -246,7 +271,8 @@
     "plot.xianni-1434-fengtianlang-pursuit",
     "plot.xianni-1435-wang-lin-ambush-six-star-detonation",
     "plot.xianni-ch1346-1349-ancient-tomb-opens",
-    "plot.xianni-ch1452-dahuang-laodu"
+    "plot.xianni-ch1452-dahuang-laodu",
+    "plot.xianni-ch1453-han-mu-wang-tian"
   ],
-  "updatedAt": "2026-08-25T19:39:38.708Z"
+  "updatedAt": "2026-08-25T19:42:23.283Z"
 }

@@ -9,15 +9,17 @@
     "这封印之地",
     "古墓封印之地",
     "生死禁封印之地",
-    "古之三族封印之地"
+    "古之三族封印之地",
+    "扭曲之雾内的封印之地"
   ],
   "summary": "王林被传送而至的封闭之地，天空蔚蓝但白云尽头疑似肉壁；他判断其非善地却是最佳藏身处。",
   "attributes": {
     "类型": "封印空间/秘境",
-    "特产": "玄阴鼎灵、大鼎、血河、古之三族尸骸、千丈平台",
-    "危险度": "高",
-    "上级区域": "古墓",
-    "守护": "古神、古妖、古魔"
+    "特产": "玄阴鼎灵、大鼎、血河、古之三族尸骸、千丈平台、四品木道灵",
+    "危险度": "高（但适合藏身）、高、极高（两名第三步大能交战）",
+    "上级区域": "妖灵之地、古之墓地、古墓、古之墓地外围",
+    "守护": "古神、古妖、古魔",
+    "方位": "自此一直向北可离开外围、进入墓地深处"
   },
   "observations": {
     "类型": [
@@ -62,6 +64,11 @@
         "value": "千丈平台",
         "docId": "plot.xianni-ch1452-dahuang-laodu",
         "seq": 1360
+      },
+      {
+        "value": "四品木道灵",
+        "docId": "plot.xianni-ch1453-han-mu-wang-tian",
+        "seq": 1360
       }
     ],
     "危险度": [
@@ -73,6 +80,11 @@
       {
         "value": "高",
         "docId": "plot.xianni-ch1452-dahuang-laodu",
+        "seq": 1360
+      },
+      {
+        "value": "极高（两名第三步大能交战）",
+        "docId": "plot.xianni-ch1453-han-mu-wang-tian",
         "seq": 1360
       }
     ],
@@ -91,6 +103,11 @@
         "value": "古墓",
         "docId": "plot.xianni-ch1452-dahuang-laodu",
         "seq": 1360
+      },
+      {
+        "value": "古之墓地外围",
+        "docId": "plot.xianni-ch1453-han-mu-wang-tian",
+        "seq": 1360
       }
     ],
     "守护": [
@@ -98,6 +115,13 @@
         "value": "古神、古妖、古魔",
         "docId": "plot.xianni-1444-di-lin-guzhi-mudi-liwei",
         "seq": 1350
+      }
+    ],
+    "方位": [
+      {
+        "value": "自此一直向北可离开外围、进入墓地深处",
+        "docId": "plot.xianni-ch1453-han-mu-wang-tian",
+        "seq": 1360
       }
     ]
   },
@@ -117,21 +141,27 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch1452-dahuang-laodu",
+      "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
       "dated": false,
-      "seq": 1360
+      "seq": 758
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch1452-dahuang-laodu",
+      "docId": "plot.xianni-ch1010-hua-fei",
       "dated": false,
-      "seq": 1360
+      "seq": 934
     },
     "守护": {
       "asOf": null,
       "docId": "plot.xianni-1444-di-lin-guzhi-mudi-liwei",
       "dated": false,
       "seq": 1350
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1453-han-mu-wang-tian",
+      "dated": false,
+      "seq": 1360
     }
   },
   "contested": false,
@@ -141,7 +171,8 @@
     "plot.xianni-ch1010-hua-fei",
     "plot.xianni-1444-di-lin-guzhi-mudi-liwei",
     "plot.xianni-ch1447-who-is-the-oriole",
-    "plot.xianni-ch1452-dahuang-laodu"
+    "plot.xianni-ch1452-dahuang-laodu",
+    "plot.xianni-ch1453-han-mu-wang-tian"
   ],
-  "updatedAt": "2026-08-25T19:39:38.696Z"
+  "updatedAt": "2026-08-25T19:42:23.293Z"
 }
