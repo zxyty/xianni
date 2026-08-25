@@ -18,8 +18,10 @@
     "外貌": "身穿紫袍的高大汉子、大汉、壮汉，面色苍白、衣衫带褐色血点",
     "性格": "平缓倨傲、沉稳寡动、对七彩世界雾气异常狂热、急躁、避险、受惊后转趋保守、识时务、敬畏强者、谨慎、隐忍、渴望离开",
     "标志特征": "身后跟随数百凶兽、脚下两团黑气化两条鹰状兽魂、自蛟龙头颅内飞出，伴有阵阵黑气",
-    "存殁": "在世、生死不明（众人判断凶多吉少）、存活、存疑",
-    "阵营": "随王林行动"
+    "存殁": "在世、生死不明（众人判断凶多吉少）、存活、存疑、死亡",
+    "阵营": "随王林行动",
+    "死因": "冲击漩涡时兽魂崩溃、肉身被吸碎化作血肉",
+    "结局": "元神一分为二，半被漩涡吞噬，半被王林收取"
   },
   "observations": {
     "小阶段": [
@@ -146,6 +148,11 @@
         "docId": "plot.xianni-ch1195-seven-colored-nail",
         "seq": 1110,
         "note": "本章为王林回顾判断——曾感神通波动消散但难以证明已死；第1100章已记其死亡"
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
+        "seq": 1142
       }
     ],
     "阵营": [
@@ -164,6 +171,20 @@
         "value": "随王林行动",
         "docId": "plot.xianni-ch1223-jingbian-qicai-wu-yu-xuanwo",
         "seq": 1137
+      }
+    ],
+    "死因": [
+      {
+        "value": "冲击漩涡时兽魂崩溃、肉身被吸碎化作血肉",
+        "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
+        "seq": 1142
+      }
+    ],
+    "结局": [
+      {
+        "value": "元神一分为二，半被漩涡吞噬，半被王林收取",
+        "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
+        "seq": 1142
       }
     ]
   },
@@ -210,6 +231,18 @@
       "docId": "plot.xianni-ch1223-jingbian-qicai-wu-yu-xuanwo",
       "dated": false,
       "seq": 1137
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
+      "dated": false,
+      "seq": 1142
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
+      "dated": false,
+      "seq": 1142
     }
   },
   "contested": false,
@@ -230,7 +263,8 @@
     "plot.xianni-ch1213-dao-shu-san-dao",
     "plot.xianni-ch1215-yunhai-zhidian-qicai-jie-slay-white-haired-elder",
     "plot.xianni-1222-yunhunzi-submits-to-wanglin",
-    "plot.xianni-ch1223-jingbian-qicai-wu-yu-xuanwo"
+    "plot.xianni-ch1223-jingbian-qicai-wu-yu-xuanwo",
+    "plot.xianni-1142-1145-seven-colored-realm-palm-strike"
   ],
-  "updatedAt": "2026-08-25T02:15:13.662Z"
+  "updatedAt": "2026-08-25T02:28:51.317Z"
 }

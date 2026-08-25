@@ -8,16 +8,20 @@
     "那掌尊",
     "疑似掌尊之人",
     "自称本尊者",
-    "掌尊前辈"
+    "掌尊前辈",
+    "漩涡内苍老的声音",
+    "沧桑而疲惫的声音",
+    "太古掌尊"
   ],
   "summary": "符族当年所冒犯的至高存在，其力量无法操控封界，故符族逃入封界避祸。",
   "attributes": {
-    "身份": "罗睺之师尊、界外之民中的强大存在、疑为仿造天逆者、掌尊、天道之计的谋划者、七彩花的种植者",
+    "身份": "罗睺之师尊、界外之民中的强大存在、疑为仿造天逆者、掌尊、天道之计的谋划者、七彩花的种植者、疑似掌尊、太古强者",
     "外貌": "黑袍中年男子，眉心有圆形印记",
     "阵营": "界外之民、界外、疑与界外之民相关",
     "称号": "掌尊",
     "标志特征": "太初之力、七彩之芒；一式神通令战星野无反抗之力",
-    "性格": "布局深远、对战老鬼有忌惮"
+    "性格": "心机深沉、贪求外物",
+    "神识": "目光自天空漩涡降临，威压压迫整个七彩界"
   },
   "observations": {
     "身份": [
@@ -52,6 +56,17 @@
         "value": "七彩花的种植者",
         "docId": "plot.xianni-1220-tian-ni-zhi-zhu-dao-guo",
         "seq": 1137
+      },
+      {
+        "value": "疑似掌尊",
+        "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
+        "seq": 1142,
+        "note": "王林心中猜测，未证实"
+      },
+      {
+        "value": "太古强者",
+        "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
+        "seq": 1142
       }
     ],
     "外貌": [
@@ -102,6 +117,18 @@
         "value": "布局深远、对战老鬼有忌惮",
         "docId": "plot.xianni-1204-tiandao-zhi-ji-zhanxingye-remains",
         "seq": 1119
+      },
+      {
+        "value": "心机深沉、贪求外物",
+        "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
+        "seq": 1142
+      }
+    ],
+    "神识": [
+      {
+        "value": "目光自天空漩涡降临，威压压迫整个七彩界",
+        "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
+        "seq": 1142
       }
     ]
   },
@@ -139,9 +166,15 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-1204-tiandao-zhi-ji-zhanxingye-remains",
+      "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
       "dated": false,
-      "seq": 1119
+      "seq": 1142
+    },
+    "神识": {
+      "asOf": null,
+      "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
+      "dated": false,
+      "seq": 1142
     }
   },
   "contested": false,
@@ -156,7 +189,8 @@
     "plot.xianni-1206-zhan-xingye-daotong-jiewai-sanren-tuxi",
     "plot.xianni-1216-seven-colored-flower-dao-planting",
     "plot.xianni-1220-tian-ni-zhi-zhu-dao-guo",
-    "plot.xianni-1221-feng-jie-zhi-zhu-identity"
+    "plot.xianni-1221-feng-jie-zhi-zhu-identity",
+    "plot.xianni-1142-1145-seven-colored-realm-palm-strike"
   ],
-  "updatedAt": "2026-08-25T02:10:37.744Z"
+  "updatedAt": "2026-08-25T02:28:51.407Z"
 }

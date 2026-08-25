@@ -4,11 +4,13 @@
   "name": "空之境界",
   "aliases": [
     "空境",
-    "空的境界"
+    "空的境界",
+    "空境之修"
   ],
   "summary": "白衣老者三万年前所达之境，达此境后可摸索到「界的脉络」，进而尝试打破界线。",
   "attributes": {
-    "突破关键": "摸索界的脉络、打破界线"
+    "突破关键": "摸索界的脉络、打破界线",
+    "阶序": "高于当前王林境界"
   },
   "observations": {
     "突破关键": [
@@ -16,6 +18,13 @@
         "value": "摸索界的脉络、打破界线",
         "docId": "plot.xianni-881-884-qualification-war-scroll-second",
         "seq": 881
+      }
+    ],
+    "阶序": [
+      {
+        "value": "高于当前王林境界",
+        "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
+        "seq": 1142
       }
     ]
   },
@@ -26,12 +35,19 @@
       "docId": "plot.xianni-881-884-qualification-war-scroll-second",
       "dated": false,
       "seq": 881
+    },
+    "阶序": {
+      "asOf": null,
+      "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
+      "dated": false,
+      "seq": 1142
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-881-884-qualification-war-scroll-second"
+    "plot.xianni-881-884-qualification-war-scroll-second",
+    "plot.xianni-1142-1145-seven-colored-realm-palm-strike"
   ],
-  "updatedAt": "2026-08-23T22:14:20.057Z"
+  "updatedAt": "2026-08-25T02:28:51.436Z"
 }

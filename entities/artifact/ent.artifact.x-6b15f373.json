@@ -4,14 +4,16 @@
   "name": "水晶剑",
   "aliases": [
     "苍松子的水晶剑",
-    "王林的水晶剑"
+    "王林的水晶剑",
+    "次空涅水晶剑"
   ],
   "summary": "苍松子在此战中损失的法宝之一，令其心如刀割。",
   "attributes": {
     "持有者": "王林",
     "外形": "水晶质飞剑",
-    "来历": "夺自苍松子",
-    "能力": "承载王林一丝心神作后手、留存心神自主护主、极速掠斩切断接触、剑芒破禁、散发次空涅气息"
+    "来历": "得自苍松子",
+    "能力": "承载王林一丝心神作后手、留存心神自主护主、极速掠斩切断接触、剑芒破禁、散发次空涅气息、爆发滔天剑气、自爆式「碎剑」冲击",
+    "品阶": "次空涅法宝"
   },
   "observations": {
     "持有者": [
@@ -43,6 +45,11 @@
         "value": "夺自苍松子",
         "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
         "seq": 1119
+      },
+      {
+        "value": "得自苍松子",
+        "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
+        "seq": 1142
       }
     ],
     "能力": [
@@ -71,6 +78,23 @@
         "value": "散发次空涅气息",
         "docId": "plot.xianni-1206-zhan-xingye-daotong-jiewai-sanren-tuxi",
         "seq": 1123
+      },
+      {
+        "value": "爆发滔天剑气",
+        "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
+        "seq": 1142
+      },
+      {
+        "value": "自爆式「碎剑」冲击",
+        "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
+        "seq": 1142
+      }
+    ],
+    "品阶": [
+      {
+        "value": "次空涅法宝",
+        "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
+        "seq": 1142
       }
     ]
   },
@@ -90,9 +114,9 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
+      "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
       "dated": false,
-      "seq": 1119
+      "seq": 1142
     },
     "能力": {
       "asOf": null,
@@ -100,6 +124,12 @@
       "dated": false,
       "seq": 1119,
       "note": "第1203章用法"
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
+      "dated": false,
+      "seq": 1142
     }
   },
   "contested": false,
@@ -108,7 +138,8 @@
     "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan",
     "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
     "plot.xianni-1204-tiandao-zhi-ji-zhanxingye-remains",
-    "plot.xianni-1206-zhan-xingye-daotong-jiewai-sanren-tuxi"
+    "plot.xianni-1206-zhan-xingye-daotong-jiewai-sanren-tuxi",
+    "plot.xianni-1142-1145-seven-colored-realm-palm-strike"
   ],
-  "updatedAt": "2026-08-25T00:32:11.204Z"
+  "updatedAt": "2026-08-25T02:28:51.338Z"
 }

@@ -6,14 +6,16 @@
     "碎星",
     "古神幼子崩星送王林",
     "古神幼子碎星",
-    "古神之星自爆"
+    "古神之星自爆",
+    "崩碎星点"
   ],
   "summary": "古神幼子崩溃眉心八星点之一，化作庞大冲击风暴，可送人脱困并重创血神子。",
   "attributes": {
-    "类型": "望月本命秘术",
+    "类型": "古神秘法·燃命增幅",
     "出处": "古神一族",
-    "威力": "绝强之力自体内冲起，可逼出次空涅箭",
-    "消耗": "自爆一枚星点"
+    "威力": "片刻获得高一阶王族古神之力",
+    "消耗": "崩碎眉心一颗星点",
+    "适用境界": "古神"
   },
   "observations": {
     "类型": [
@@ -26,6 +28,11 @@
         "value": "望月本命秘术",
         "docId": "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian",
         "seq": 865
+      },
+      {
+        "value": "古神秘法·燃命增幅",
+        "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
+        "seq": 1142
       }
     ],
     "出处": [
@@ -55,6 +62,11 @@
         "value": "绝强之力自体内冲起，可逼出次空涅箭",
         "docId": "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian",
         "seq": 865
+      },
+      {
+        "value": "片刻获得高一阶王族古神之力",
+        "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
+        "seq": 1142
       }
     ],
     "消耗": [
@@ -68,6 +80,18 @@
         "docId": "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian",
         "seq": 865,
         "note": "望月体外共七个模糊星点"
+      },
+      {
+        "value": "崩碎眉心一颗星点",
+        "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
+        "seq": 1142
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "古神",
+        "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
+        "seq": 1142
       }
     ]
   },
@@ -75,9 +99,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian",
+      "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
       "dated": false,
-      "seq": 865
+      "seq": 1142
     },
     "出处": {
       "asOf": null,
@@ -87,16 +111,21 @@
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian",
+      "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
       "dated": false,
-      "seq": 865
+      "seq": 1142
     },
     "消耗": {
       "asOf": null,
-      "docId": "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian",
+      "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
       "dated": false,
-      "seq": 865,
-      "note": "望月体外共七个模糊星点"
+      "seq": 1142
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
+      "dated": false,
+      "seq": 1142
     }
   },
   "contested": false,
@@ -106,7 +135,8 @@
     "plot.xianni-ch854-you-have-no-right-qingshui-arrives",
     "plot.xianni-ch855-fengsheng-heli-caomu-jiebing",
     "plot.xianni-ch932-guudi-shen-zhi-qi-ci-kong-nie-jian",
-    "plot.xianni-ch943-tiandao-fengjie-jiuzhen-luochen-guxing"
+    "plot.xianni-ch943-tiandao-fengjie-jiuzhen-luochen-guxing",
+    "plot.xianni-1142-1145-seven-colored-realm-palm-strike"
   ],
-  "updatedAt": "2026-08-23T21:42:13.648Z"
+  "updatedAt": "2026-08-25T02:28:51.425Z"
 }
