@@ -1,69 +1,70 @@
 {
-  "id": "ent.realm.x-98cfde36",
-  "type": "realm",
-  "name": "净涅中期",
+  "id": "ent.material.x-88156ce5",
+  "type": "material",
+  "name": "道髓",
   "aliases": [
-    "净涅期中期",
-    "二境净涅中期"
+    "道之髓",
+    "骸骨逼出的血液",
+    "Dao Marrow"
   ],
-  "summary": "王林本章达到的境界，配合古神肉身可轻松斩杀碎涅中期。",
+  "summary": "以迷失者吞道、铭志者养道、经四座石碑与骸骨经文转化之力逼出的「血液」，实为骸骨之人生前的道；饮之可得其道，但会立刻陷入不知多久的沉睡。",
   "attributes": {
-    "小阶段": "中期",
-    "上一境": "净涅初期",
-    "下一境": "净涅大圆满",
-    "突破征兆": "元神胀至与肉身等大，双目射出堪比星辰之光，四周元晶崩溃化碎灰形成环形印记"
+    "类型": "道之精粹（形似血液）",
+    "用途": "饮下可获得骸骨之人生前的道",
+    "稀有度": "极稀有",
+    "产地": "七彩界石碑下骸骨"
   },
   "observations": {
-    "小阶段": [
+    "类型": [
       {
-        "value": "中期",
+        "value": "道之精粹（形似血液）",
         "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
         "seq": 1119
       }
     ],
-    "上一境": [
+    "用途": [
       {
-        "value": "净涅初期",
+        "value": "饮下可获得骸骨之人生前的道",
         "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
         "seq": 1119
       }
     ],
-    "下一境": [
+    "稀有度": [
       {
-        "value": "净涅大圆满",
+        "value": "极稀有",
         "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
         "seq": 1119
       }
     ],
-    "突破征兆": [
+    "产地": [
       {
-        "value": "元神胀至与肉身等大，双目射出堪比星辰之光，四周元晶崩溃化碎灰形成环形印记",
+        "value": "七彩界石碑下骸骨",
         "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
         "seq": 1119
       }
     ]
   },
-  "firstSeq": 721,
+  "firstSeq": 1119,
   "attrProvenance": {
-    "小阶段": {
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
       "dated": false,
       "seq": 1119
     },
-    "上一境": {
+    "用途": {
       "asOf": null,
       "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
       "dated": false,
       "seq": 1119
     },
-    "下一境": {
+    "稀有度": {
       "asOf": null,
       "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
       "dated": false,
       "seq": 1119
     },
-    "突破征兆": {
+    "产地": {
       "asOf": null,
       "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
       "dated": false,
@@ -73,8 +74,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
     "plot.xianni-1203-dao-marrow-simamo-cave-secrets"
   ],
-  "updatedAt": "2026-08-25T00:24:00.273Z"
+  "updatedAt": "2026-08-25T00:24:00.262Z"
 }

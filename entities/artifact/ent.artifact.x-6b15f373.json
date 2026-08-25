@@ -7,8 +7,10 @@
   ],
   "summary": "苍松子在此战中损失的法宝之一，令其心如刀割。",
   "attributes": {
-    "持有者": "苍松子",
-    "外形": "水晶剑"
+    "持有者": "王林",
+    "外形": "水晶质飞剑",
+    "来历": "夺自苍松子",
+    "能力": "承载王林一丝心神作后手"
   },
   "observations": {
     "持有者": [
@@ -16,6 +18,11 @@
         "value": "苍松子",
         "docId": "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan",
         "seq": 1110
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
+        "seq": 1119
       }
     ],
     "外形": [
@@ -23,6 +30,26 @@
         "value": "水晶剑",
         "docId": "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan",
         "seq": 1110
+      },
+      {
+        "value": "水晶质飞剑",
+        "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
+        "seq": 1119
+      }
+    ],
+    "来历": [
+      {
+        "value": "夺自苍松子",
+        "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
+        "seq": 1119
+      }
+    ],
+    "能力": [
+      {
+        "value": "承载王林一丝心神作后手",
+        "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
+        "seq": 1119,
+        "note": "第1203章用法"
       }
     ]
   },
@@ -30,21 +57,35 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan",
+      "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
       "dated": false,
-      "seq": 1110
+      "seq": 1119
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan",
+      "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
       "dated": false,
-      "seq": 1110
+      "seq": 1119
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
+      "dated": false,
+      "seq": 1119
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
+      "dated": false,
+      "seq": 1119,
+      "note": "第1203章用法"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan"
+    "plot.xianni-ch1194-po-luo-wang-lin-destroys-luopan",
+    "plot.xianni-1203-dao-marrow-simamo-cave-secrets"
   ],
-  "updatedAt": "2026-08-24T23:06:30.733Z"
+  "updatedAt": "2026-08-25T00:24:00.263Z"
 }

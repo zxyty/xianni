@@ -12,9 +12,10 @@
   ],
   "summary": "上古四大禁之一，神秘莫测，本章仅由李元旧言提及。",
   "attributes": {
-    "品阶": "上古四大禁之一",
-    "效果": "神秘莫测、阻断一切前行者、随岁月累积而愈难破解、以岁月痕迹布禁、守护一方之地、以禁幕包裹山峰、隔绝内外",
-    "出处": "七彩界内拾得的玉简"
+    "品阶": "极高",
+    "效果": "神秘莫测、阻断一切前行者、随岁月累积而愈难破解、以岁月痕迹布禁、守护一方之地、以禁幕包裹山峰、隔绝内外、封印、吸走来犯神通",
+    "出处": "七彩界内拾得的玉简",
+    "适用境界": "碎涅级以上"
   },
   "observations": {
     "品阶": [
@@ -22,6 +23,11 @@
         "value": "上古四大禁之一",
         "docId": "plot.xianni-1188-dao-jing-ming-zhi-zhe",
         "seq": 1105
+      },
+      {
+        "value": "极高",
+        "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
+        "seq": 1119
       }
     ],
     "效果": [
@@ -49,6 +55,11 @@
         "value": "以禁幕包裹山峰、隔绝内外",
         "docId": "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
         "seq": 1114
+      },
+      {
+        "value": "封印、吸走来犯神通",
+        "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
+        "seq": 1119
       }
     ],
     "出处": [
@@ -57,15 +68,22 @@
         "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
         "seq": 1114
       }
+    ],
+    "适用境界": [
+      {
+        "value": "碎涅级以上",
+        "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
+        "seq": 1119
+      }
     ]
   },
   "firstSeq": 1105,
   "attrProvenance": {
     "品阶": {
       "asOf": null,
-      "docId": "plot.xianni-1188-dao-jing-ming-zhi-zhe",
+      "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
       "dated": false,
-      "seq": 1105
+      "seq": 1119
     },
     "效果": {
       "asOf": null,
@@ -78,6 +96,12 @@
       "docId": "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
       "dated": false,
       "seq": 1114
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
+      "dated": false,
+      "seq": 1119
     }
   },
   "contested": false,
@@ -87,7 +111,8 @@
     "plot.xianni-1190-bone-jar-canglongzi-betrayal",
     "plot.xianni-1196-sima-mo-cave-secret",
     "plot.xianni-1197-sima-mo-jade-slips-zhang-zun-tianni-beads",
-    "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia"
+    "plot.xianni-1200-dao-san-wang-lin-yijing-zhenjia",
+    "plot.xianni-1203-dao-marrow-simamo-cave-secrets"
   ],
-  "updatedAt": "2026-08-24T23:28:06.323Z"
+  "updatedAt": "2026-08-25T00:24:00.265Z"
 }

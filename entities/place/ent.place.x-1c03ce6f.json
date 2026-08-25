@@ -1,69 +1,83 @@
 {
-  "id": "ent.realm.x-98cfde36",
-  "type": "realm",
-  "name": "净涅中期",
+  "id": "ent.place.x-1c03ce6f",
+  "type": "place",
+  "name": "七彩界至深处的山峰",
   "aliases": [
-    "净涅期中期",
-    "二境净涅中期"
+    "那座山峰",
+    "至深之处的山峰"
   ],
-  "summary": "王林本章达到的境界，配合古神肉身可轻松斩杀碎涅中期。",
+  "summary": "七彩界最深处的山峰，苍松子选定的沉睡之地，山上有白发老者疑在守护某物。",
   "attributes": {
-    "小阶段": "中期",
-    "上一境": "净涅初期",
-    "下一境": "净涅大圆满",
-    "突破征兆": "元神胀至与肉身等大，双目射出堪比星辰之光，四周元晶崩溃化碎灰形成环形印记"
+    "类型": "山峰",
+    "方位": "七彩界至深之处",
+    "危险度": "极高",
+    "守护": "白发老者",
+    "上级区域": "七彩界"
   },
   "observations": {
-    "小阶段": [
+    "类型": [
       {
-        "value": "中期",
+        "value": "山峰",
         "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
         "seq": 1119
       }
     ],
-    "上一境": [
+    "方位": [
       {
-        "value": "净涅初期",
+        "value": "七彩界至深之处",
         "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
         "seq": 1119
       }
     ],
-    "下一境": [
+    "危险度": [
       {
-        "value": "净涅大圆满",
+        "value": "极高",
         "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
         "seq": 1119
       }
     ],
-    "突破征兆": [
+    "守护": [
       {
-        "value": "元神胀至与肉身等大，双目射出堪比星辰之光，四周元晶崩溃化碎灰形成环形印记",
+        "value": "白发老者",
+        "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
+        "seq": 1119
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "七彩界",
         "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
         "seq": 1119
       }
     ]
   },
-  "firstSeq": 721,
+  "firstSeq": 1119,
   "attrProvenance": {
-    "小阶段": {
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
       "dated": false,
       "seq": 1119
     },
-    "上一境": {
+    "方位": {
       "asOf": null,
       "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
       "dated": false,
       "seq": 1119
     },
-    "下一境": {
+    "危险度": {
       "asOf": null,
       "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
       "dated": false,
       "seq": 1119
     },
-    "突破征兆": {
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
+      "dated": false,
+      "seq": 1119
+    },
+    "上级区域": {
       "asOf": null,
       "docId": "plot.xianni-1203-dao-marrow-simamo-cave-secrets",
       "dated": false,
@@ -73,8 +87,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch761-shixian-blood-ancestor-storage-space-collapse",
     "plot.xianni-1203-dao-marrow-simamo-cave-secrets"
   ],
-  "updatedAt": "2026-08-25T00:24:00.273Z"
+  "updatedAt": "2026-08-25T00:24:00.269Z"
 }
