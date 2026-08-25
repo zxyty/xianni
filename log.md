@@ -707,3 +707,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T09:56:19.718Z** `ingest` plot.xianni-ch1322-yibian-fusion-of-fengxian-seal-and-huhuan-huanyu-realm — 第1322章 异变！——王林融合缩地成寸、强融封仙印致爆炸，改以呼风唤雨界收纳 · kind=plot asOf=2026-08-25 entities=22 relations=28 src=01237-01241.p1.md
 - **2026-08-25T10:03:55.850Z** `ingest` plot.xianni-ch1322-mentu-xianghuo-fengxianyin-fusion — 第1322章 门徒香火：封仙印融入呼风唤雨界，战魂化香火之源 · kind=plot asOf=2026-08-25 entities=40 relations=70 src=01237-01241.p2.md
 - **2026-08-25T10:10:41.277Z** `ingest` plot.xianni-1324-walking-out-of-lansi — 第1324章 走出蓝丝！——月噬族青云灵术之秘与白衣女子三度拦路 · kind=plot asOf=2026-08-25 entities=30 relations=43 src=01237-01241.p3.md
+- **2026-08-25T10:12:40.071Z** `ingest` plot.xianni-ch1325-projection-avatar-white-robed-woman-battle — 第1325章 投影分身——王林翻天印破敌，白衣女子求援本尊 · kind=plot asOf=2026-08-25 entities=13 relations=18 src=01237-01241.p4.md
