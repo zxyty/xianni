@@ -8,17 +8,20 @@
     "中年文士木雕原型",
     "虚无中的中年文士",
     "被搜神的中年文士",
-    "文士修士"
+    "文士修士",
+    "三姐",
+    "天门道圣女"
   ],
   "summary": "战神殿元婴期高手，面如冠玉、温文尔雅带傲气，主张六人联手收服火灵兽。",
   "attributes": {
     "小阶段": "元婴后期巅峰",
-    "外貌": "中年文士",
-    "性格": "傲气",
+    "外貌": "白衣中年文士",
+    "性格": "冷傲清高",
     "标志特征": "任何异兽见之便远远避开",
-    "身份": "王林木雕题材",
-    "存殁": "死亡",
-    "死因": "被王林搜神取忆后神识消散，元神被收入十亿尊魂幡"
+    "身份": "曾为天门道圣女",
+    "存殁": "在世",
+    "死因": "被王林搜神取忆后神识消散，元神被收入十亿尊魂幡",
+    "称号": "三姐"
   },
   "observations": {
     "小阶段": [
@@ -44,6 +47,12 @@
         "value": "中年文士",
         "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
         "seq": 299
+      },
+      {
+        "value": "白衣中年文士",
+        "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
+        "seq": 1346,
+        "note": "本章所现形貌，被称『三姐』，疑为女子化形"
       }
     ],
     "性格": [
@@ -51,6 +60,11 @@
         "value": "傲气",
         "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
         "seq": 119
+      },
+      {
+        "value": "冷傲清高",
+        "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
+        "seq": 1346
       }
     ],
     "标志特征": [
@@ -70,6 +84,11 @@
         "value": "王林木雕题材",
         "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
         "seq": 244
+      },
+      {
+        "value": "曾为天门道圣女",
+        "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
+        "seq": 1346
       }
     ],
     "存殁": [
@@ -77,6 +96,11 @@
         "value": "死亡",
         "docId": "plot.xianni-ch768-769-xuanchen-star-betrayal-xu-mu-exposed",
         "seq": 768
+      },
+      {
+        "value": "在世",
+        "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
+        "seq": 1346
       }
     ],
     "死因": [
@@ -84,6 +108,13 @@
         "value": "被王林搜神取忆后神识消散，元神被收入十亿尊魂幡",
         "docId": "plot.xianni-ch768-769-xuanchen-star-betrayal-xu-mu-exposed",
         "seq": 768
+      }
+    ],
+    "称号": [
+      {
+        "value": "三姐",
+        "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
+        "seq": 1346
       }
     ]
   },
@@ -98,15 +129,16 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
+      "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
       "dated": false,
-      "seq": 299
+      "seq": 1346,
+      "note": "本章所现形貌，被称『三姐』，疑为女子化形"
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch134-shoufu-motou-jianku-dongfu-canlue-yujian",
+      "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
       "dated": false,
-      "seq": 119
+      "seq": 1346
     },
     "标志特征": {
       "asOf": null,
@@ -116,21 +148,27 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+      "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
       "dated": false,
-      "seq": 244
+      "seq": 1346
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch768-769-xuanchen-star-betrayal-xu-mu-exposed",
+      "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
       "dated": false,
-      "seq": 768
+      "seq": 1346
     },
     "死因": {
       "asOf": null,
       "docId": "plot.xianni-ch768-769-xuanchen-star-betrayal-xu-mu-exposed",
       "dated": false,
       "seq": 768
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
+      "dated": false,
+      "seq": 1346
     }
   },
   "contested": false,
@@ -140,7 +178,8 @@
     "plot.xianni-ch213-215-wenshou-lianmocheng-shalv",
     "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
     "plot.xianni-ch317-hongdie-escape-yiyuan-kaitai-bracelet",
-    "plot.xianni-ch768-769-xuanchen-star-betrayal-xu-mu-exposed"
+    "plot.xianni-ch768-769-xuanchen-star-betrayal-xu-mu-exposed",
+    "plot.xianni-ch1346-1349-ancient-tomb-opens"
   ],
-  "updatedAt": "2026-08-23T12:12:11.983Z"
+  "updatedAt": "2026-08-25T19:09:07.429Z"
 }

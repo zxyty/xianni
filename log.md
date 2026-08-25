@@ -805,3 +805,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T18:36:13.517Z** `ingest` plot.xianni-ch1433-is-he-zhangzun — 仙逆 第1433章 他，是不是掌尊？——王林出走疗伤与身份之疑 · kind=plot asOf=2026-08-25 entities=32 relations=35 src=01341-01345.p3.md
 - **2026-08-25T18:43:36.690Z** `ingest` plot.xianni-1434-fengtianlang-pursuit — 第1434章 奉天狼——古息叶封裂缝，长尊会太古追杀令再起 · kind=plot asOf=2026-08-25 entities=41 relations=68 src=01341-01345.p4.md
 - **2026-08-25T18:45:49.253Z** `ingest` plot.xianni-1435-wang-lin-ambush-six-star-detonation — 第1435章 王林的伏击：六星自爆与血剑斩封灭族少女 · kind=plot asOf=2026-08-25 entities=20 relations=26 src=01341-01345.p5.md
+- **2026-08-25T19:09:07.844Z** `ingest` plot.xianni-ch1346-1349-ancient-tomb-opens — 仙逆 第1346-1349章：古之墓地开启与数字标记筛选 · kind=plot asOf=2026-08-25 entities=86 relations=127 src=01346-01349.md

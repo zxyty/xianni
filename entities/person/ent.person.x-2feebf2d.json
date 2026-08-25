@@ -7,18 +7,22 @@
     "封灭族少女",
     "坐在肩上的少女",
     "大汉肩膀上的少女",
-    "持罗盘少女"
+    "持罗盘少女",
+    "封灭族女子",
+    "被王林算计杀死的封灭族少女",
+    "只剩一命的封灭族女子"
   ],
   "summary": "眉心带封灭族古怪符文印记的妩媚红衣少女，坐于奉天狼族大汉肩上，持罗盘测出王林方位「正东十九万七千八百四十五里」，并助大汉逼出右臂之毒。",
   "attributes": {
     "性别": "女",
     "种族": "封灭族",
     "小阶段": "天人第三衰",
-    "外貌": "红衣，相貌妩媚，俏脸如桃，眉目蕴含风情",
-    "标志特征": "眉心古怪符文印记（封灭族）、眉心印记（可施展封灭族大神通封印）、眉心永久疤痕、持罗盘测方位",
+    "外貌": "红衣，相貌妩媚，俏脸如桃，眉目蕴含风情、少女；死时化作红颜枯骨、红衣少女",
+    "标志特征": "眉心古怪符文印记（封灭族）、眉心印记（可施展封灭族大神通封印）、眉心永久疤痕、持罗盘测方位、封灭三命（本章已死其二）；眉心数字标示29",
     "阵营": "长尊会一方",
     "身份": "妙音道尊侍女",
-    "存殁": "死而复生"
+    "存殁": "死而复生",
+    "性格": "怯怯"
   },
   "observations": {
     "性别": [
@@ -47,6 +51,16 @@
         "value": "红衣，相貌妩媚，俏脸如桃，眉目蕴含风情",
         "docId": "plot.xianni-1434-fengtianlang-pursuit",
         "seq": 1341
+      },
+      {
+        "value": "少女；死时化作红颜枯骨",
+        "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
+        "seq": 1346
+      },
+      {
+        "value": "红衣少女",
+        "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
+        "seq": 1346
       }
     ],
     "标志特征": [
@@ -69,6 +83,11 @@
         "value": "持罗盘测方位",
         "docId": "plot.xianni-1435-wang-lin-ambush-six-star-detonation",
         "seq": 1341
+      },
+      {
+        "value": "封灭三命（本章已死其二）；眉心数字标示29",
+        "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
+        "seq": 1346
       }
     ],
     "阵营": [
@@ -91,6 +110,13 @@
         "docId": "plot.xianni-1435-wang-lin-ambush-six-star-detonation",
         "seq": 1341,
         "note": "被血剑穿眉心致死，凭三魂之命复活，第1435章"
+      }
+    ],
+    "性格": [
+      {
+        "value": "怯怯",
+        "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
+        "seq": 1346
       }
     ]
   },
@@ -144,13 +170,20 @@
       "dated": false,
       "seq": 1341,
       "note": "被血剑穿眉心致死，凭三魂之命复活，第1435章"
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
+      "dated": false,
+      "seq": 1346
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1434-fengtianlang-pursuit",
-    "plot.xianni-1435-wang-lin-ambush-six-star-detonation"
+    "plot.xianni-1435-wang-lin-ambush-six-star-detonation",
+    "plot.xianni-ch1346-1349-ancient-tomb-opens"
   ],
-  "updatedAt": "2026-08-25T18:45:48.904Z"
+  "updatedAt": "2026-08-25T19:09:07.469Z"
 }

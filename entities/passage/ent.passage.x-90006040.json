@@ -4,14 +4,20 @@
   "name": "古之墓地裂缝",
   "aliases": [
     "死气裂缝",
-    "古之墓地入口"
+    "古之墓地入口",
+    "古墓裂缝",
+    "裂缝外的扭曲",
+    "通往古之墓地的裂缝"
   ],
   "summary": "蛮荒星瓦解处露出的裂缝，初十丈、扩至百丈后停止，散发死气，静浮如森森之口；透过它可见另一界，漂浮无数碎石，每块碎石上都有古神、古魔或古妖的巨大头颅。",
   "attributes": {
-    "类型": "空间裂缝",
-    "两端": "太古星辰 ↔ 古之墓地",
+    "类型": "空间裂缝／传送入口",
+    "两端": "裂缝外 → 古之墓地内部不同区域",
     "稳定性": "扩至百丈后停止蔓延，静止不动",
-    "坐标": "原蛮荒星所在处"
+    "坐标": "原蛮荒星所在处",
+    "可通行境界": "本体强行踏入不可，需具古墓标示或特殊身份",
+    "守护": "暴躁浓雾",
+    "来历": "古之墓地入口"
   },
   "observations": {
     "类型": [
@@ -19,6 +25,11 @@
         "value": "空间裂缝",
         "docId": "plot.xianni-1415-gu-zhi-mu-di-kai",
         "seq": 1321
+      },
+      {
+        "value": "空间裂缝／传送入口",
+        "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
+        "seq": 1346
       }
     ],
     "两端": [
@@ -26,6 +37,11 @@
         "value": "太古星辰 ↔ 古之墓地",
         "docId": "plot.xianni-1415-gu-zhi-mu-di-kai",
         "seq": 1321
+      },
+      {
+        "value": "裂缝外 → 古之墓地内部不同区域",
+        "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
+        "seq": 1346
       }
     ],
     "稳定性": [
@@ -41,21 +57,43 @@
         "docId": "plot.xianni-1415-gu-zhi-mu-di-kai",
         "seq": 1321
       }
+    ],
+    "可通行境界": [
+      {
+        "value": "本体强行踏入不可，需具古墓标示或特殊身份",
+        "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
+        "seq": 1346,
+        "note": "中年文士距裂缝不足百丈即无法再进"
+      }
+    ],
+    "守护": [
+      {
+        "value": "暴躁浓雾",
+        "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
+        "seq": 1346
+      }
+    ],
+    "来历": [
+      {
+        "value": "古之墓地入口",
+        "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
+        "seq": 1346
+      }
     ]
   },
   "firstSeq": 1321,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1415-gu-zhi-mu-di-kai",
+      "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
       "dated": false,
-      "seq": 1321
+      "seq": 1346
     },
     "两端": {
       "asOf": null,
-      "docId": "plot.xianni-1415-gu-zhi-mu-di-kai",
+      "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
       "dated": false,
-      "seq": 1321
+      "seq": 1346
     },
     "稳定性": {
       "asOf": null,
@@ -68,12 +106,32 @@
       "docId": "plot.xianni-1415-gu-zhi-mu-di-kai",
       "dated": false,
       "seq": 1321
+    },
+    "可通行境界": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
+      "dated": false,
+      "seq": 1346,
+      "note": "中年文士距裂缝不足百丈即无法再进"
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
+      "dated": false,
+      "seq": 1346
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
+      "dated": false,
+      "seq": 1346
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1415-gu-zhi-mu-di-kai"
+    "plot.xianni-1415-gu-zhi-mu-di-kai",
+    "plot.xianni-ch1346-1349-ancient-tomb-opens"
   ],
-  "updatedAt": "2026-08-25T17:17:44.327Z"
+  "updatedAt": "2026-08-25T19:09:07.445Z"
 }
