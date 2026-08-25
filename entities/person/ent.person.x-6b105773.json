@@ -2,11 +2,14 @@
   "id": "ent.person.x-6b105773",
   "type": "person",
   "name": "寻栾宗宗主",
-  "aliases": [],
+  "aliases": [
+    "寻栾宗之主"
+  ],
   "summary": "认出王林即此前逼寻栾宗挪移宗派大陆让道之人，面无血色。",
   "attributes": {
     "身份": "寻栾宗宗主",
-    "阵营": "寻栾宗"
+    "阵营": "寻栾宗",
+    "小阶段": "碎涅"
   },
   "observations": {
     "身份": [
@@ -21,6 +24,14 @@
         "value": "寻栾宗",
         "docId": "plot.xianni-ch1253-wang-lin-descends-wuji-zong-kills-lu-yingjie",
         "seq": 1170
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "碎涅",
+        "docId": "plot.xianni-1254-chizha-wuji-5-wang-lin-kills-zhao-long",
+        "seq": 1170,
+        "note": "第1254章"
       }
     ]
   },
@@ -37,12 +48,20 @@
       "docId": "plot.xianni-ch1253-wang-lin-descends-wuji-zong-kills-lu-yingjie",
       "dated": false,
       "seq": 1170
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-1254-chizha-wuji-5-wang-lin-kills-zhao-long",
+      "dated": false,
+      "seq": 1170,
+      "note": "第1254章"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1253-wang-lin-descends-wuji-zong-kills-lu-yingjie"
+    "plot.xianni-ch1253-wang-lin-descends-wuji-zong-kills-lu-yingjie",
+    "plot.xianni-1254-chizha-wuji-5-wang-lin-kills-zhao-long"
   ],
-  "updatedAt": "2026-08-25T04:06:16.766Z"
+  "updatedAt": "2026-08-25T04:08:30.799Z"
 }
