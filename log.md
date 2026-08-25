@@ -812,3 +812,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T19:17:38.848Z** `ingest` plot.xianni-ch1443-xuhuo-cultivator — 《仙逆》第1443章 虚火修士！！——古之墓地封印之地，王林虚火焚尽数万凶兽 · kind=plot asOf=2026-08-25 entities=21 relations=24 src=01350-01354.p4.md
 - **2026-08-25T19:19:58.364Z** `ingest` plot.xianni-1444-di-lin-guzhi-mudi-liwei — 仙逆 第1444章 敌临：王林古之墓地立威索宝，九平台强敌降临 · kind=plot asOf=2026-08-25 entities=25 relations=30 src=01350-01354.p5.md
 - **2026-08-25T19:22:09.612Z** `ingest` plot.xianni-ch1445-second-tier-tomb-platform — 仙逆 第1445章 二阶墓台：灵动上人现身，红雾道灵与古魂禁连吞二人 · kind=plot asOf=2026-08-25 entities=14 relations=25 src=01355-01359.p1.md
+- **2026-08-25T19:24:23.863Z** `ingest` plot.xianni-ch1446-mantis-stalks-cicada-red-mist-seal — 第1446章 螳螂捕蝉：红雾禁制反噬，萧靖诈死独吞道灵 · kind=plot asOf=2026-08-25 entities=16 relations=23 src=01355-01359.p2.md
