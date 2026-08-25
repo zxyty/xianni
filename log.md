@@ -693,3 +693,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T08:19:10.560Z** `ingest` plot.xianni-ch1308-tuosen-devour-massacre — 第1308章 拓森！！——王林封界大阵外屠尽界外守阵修士 · kind=plot asOf=2026-08-25 entities=16 relations=29 src=01222-01226.p2.md
 - **2026-08-25T08:26:12.279Z** `ingest` plot.xianni-ch1309-tuosen-pursuit-star-rift-chase — 《仙逆》第1309章 追杀！！——拓森撕裂星空追至太古星辰北部 · kind=plot asOf=2026-08-25 entities=32 relations=48 src=01222-01226.p3.md
 - **2026-08-25T08:33:42.702Z** `ingest` plot.xianni-1310-star-soul-harvest-and-moon-clan-plan — 第1310章 关联：王林吞噬界外修士抽星魂，定计引拓森入月族 · kind=plot asOf=2026-08-25 entities=40 relations=71 src=01222-01226.p4.md
+- **2026-08-25T08:36:19.149Z** `ingest` plot.xianni-ch1311-fate-first-battle-tuosen-vs-wanglin-moon-tribe — 第1311章 宿命第一战：拓森碎星脱困，王林月族星域借古神气息逼出开天斧影 · kind=plot asOf=2026-08-25 entities=23 relations=37 src=01222-01226.p5.md

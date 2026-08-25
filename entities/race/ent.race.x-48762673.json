@@ -4,14 +4,16 @@
   "name": "月族",
   "aliases": [
     "太古之民月族",
-    "Moon Tribe"
+    "Moon Tribe",
+    "月族一脉"
   ],
   "summary": "太古之民的一支，族人眉心带明月印记，可凝聚天地之力献祭古神以换取神力，曾与塔族征战。",
   "attributes": {
-    "特性": "眉心明月印记、可凝聚并献祭天地之力",
+    "特性": "眉心明月印记、可凝聚并献祭天地之力、对星空剧变毫无反应，一片寂静",
     "天赋神通": "以咒语汇聚天地之力成宝瓶气旋",
     "天敌": "塔族",
-    "代表人物": "木灵（灵儿前世，月族神奴）"
+    "代表人物": "木灵（灵儿前世，月族神奴）",
+    "聚居地": "月光星域"
   },
   "observations": {
     "特性": [
@@ -24,6 +26,12 @@
         "value": "可凝聚并献祭天地之力",
         "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
         "seq": 914
+      },
+      {
+        "value": "对星空剧变毫无反应，一片寂静",
+        "docId": "plot.xianni-ch1311-fate-first-battle-tuosen-vs-wanglin-moon-tribe",
+        "seq": 1222,
+        "note": "第1311章异常现象"
       }
     ],
     "天赋神通": [
@@ -45,6 +53,13 @@
         "value": "木灵（灵儿前世，月族神奴）",
         "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
         "seq": 914
+      }
+    ],
+    "聚居地": [
+      {
+        "value": "月光星域",
+        "docId": "plot.xianni-ch1311-fate-first-battle-tuosen-vs-wanglin-moon-tribe",
+        "seq": 1222
       }
     ]
   },
@@ -73,12 +88,19 @@
       "docId": "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
       "dated": false,
       "seq": 914
+    },
+    "聚居地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1311-fate-first-battle-tuosen-vs-wanglin-moon-tribe",
+      "dated": false,
+      "seq": 1222
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power"
+    "plot.xianni-ch914-918-ancient-god-shield-lifesaving-divine-power",
+    "plot.xianni-ch1311-fate-first-battle-tuosen-vs-wanglin-moon-tribe"
   ],
-  "updatedAt": "2026-08-24T01:25:19.241Z"
+  "updatedAt": "2026-08-25T08:36:18.828Z"
 }
