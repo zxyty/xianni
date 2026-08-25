@@ -626,3 +626,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T02:38:48.357Z** `ingest` plot.xianni-ch1231-huo-wu-luan-shou-wu-jie — 《仙逆》第1231章 火蜈——王林强闯乱兽雾界，遭火蜈灵群围攻 · kind=plot asOf=2026-08-25 entities=19 relations=32 src=01146-01150.p4.md
 - **2026-08-25T02:40:51.607Z** `ingest` plot.xianni-ch1232-jing-rong-luan-shou-wu-jie-huo-wu-ling — 《仙逆》第1232章 惊容：王林火焰规则横扫乱兽雾界火蜈灵 · kind=plot asOf=2026-08-25 entities=13 relations=17 src=01146-01150.p5.md
 - **2026-08-25T02:48:22.319Z** `ingest` plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm — 第1233章 风动：王林抵风仙界裂缝入口，吕烟菲随归元宗赴无极宗主宗 · kind=plot asOf=2026-08-25 entities=48 relations=69 src=01151-01154.p1.md
+- **2026-08-25T02:50:10.967Z** `ingest` plot.xianni-ch1234-wind-immortal-realm-mosquito-beasts-welcome — 第1234章 迎接：王林独闯风仙界裂缝，百余巨蚊兽出迎 · kind=plot asOf=2026-08-25 entities=10 relations=13 src=01151-01154.p2.md

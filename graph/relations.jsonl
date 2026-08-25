@@ -38016,3 +38016,16 @@
 {"s":"ent.event.x-c0de0421","p":"precedes","o":"ent.event.x-f4d2549b","evidence":"plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm","confidence":0.7,"seq":1151}
 {"s":"ent.event.x-f4d2549b","p":"occursAt","o":"ent.place.x-bc45b347","evidence":"plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm","confidence":0.3,"seq":1151,"note":"仅知在云海星域内举行，具体地点未明"}
 {"s":"ent.event.x-671b87b4","p":"relatedTo","o":"ent.region.x-9d49a66b","evidence":"plot.xianni-1233-wind-stirs-wang-lin-approaches-feng-immortal-realm","confidence":0.9,"seq":1151}
+{"s":"ent.passage.x-b1c4f0e0","p":"leadsTo","o":"ent.world.x-fdc42397","evidence":"plot.xianni-ch1234-wind-immortal-realm-mosquito-beasts-welcome","confidence":0.95,"seq":1151,"note":"第1234章：裂缝为风之仙界入口，神识入内即被吞噬撕碎"}
+{"s":"ent.passage.x-b1c4f0e0","p":"relatedTo","o":"ent.region.x-9d49a66b","evidence":"plot.xianni-ch1234-wind-immortal-realm-mosquito-beasts-welcome","confidence":0.85,"seq":1151,"note":"裂缝展露于八阶星域星空之中（原:locatedIn）"}
+{"s":"ent.person.x-73d2856c","p":"tames","o":"ent.beast.x-0fa2dd27","evidence":"plot.xianni-ch1234-wind-immortal-realm-mosquito-beasts-welcome","confidence":0.85,"seq":1151,"note":"第1234章：王林身下骑乘淡金色特殊蚊兽，众修士视为『驯化不可能之兽』"}
+{"s":"ent.beast.x-0fa2dd27","p":"relatedTo","o":"ent.beast.x-cd2694db","evidence":"plot.xianni-ch1234-wind-immortal-realm-mosquito-beasts-welcome","confidence":0.9,"seq":1151,"note":"同族但为特殊金色个体，普通赤红巨蚊兽对其恭敬环拥"}
+{"s":"ent.beast.x-cd2694db","p":"relatedTo","o":"ent.world.x-fdc42397","evidence":"plot.xianni-ch1234-wind-immortal-realm-mosquito-beasts-welcome","confidence":0.9,"seq":1151,"note":"占据风仙界，连神宗亦无把握收回（原:locatedIn）"}
+{"s":"ent.faction.x-24a3eb24","p":"relatedTo","o":"ent.world.x-fdc42397","evidence":"plot.xianni-ch1234-wind-immortal-realm-mosquito-beasts-welcome","confidence":0.8,"seq":1151,"note":"曾派大神通修士图谋收回风仙界，全部失败无一生还"}
+{"s":"ent.person.x-73d2856c","p":"possesses","o":"ent.item.x-5caeb2da","evidence":"plot.xianni-ch1234-wind-immortal-realm-mosquito-beasts-welcome","confidence":0.2,"seq":1151,"note":"存疑：本章仅李元雷一行取出祭天香，王林未见使用，置低置信度备核"}
+{"s":"ent.person.x-e620f93c","p":"possesses","o":"ent.item.x-5caeb2da","evidence":"plot.xianni-ch1234-wind-immortal-realm-mosquito-beasts-welcome","confidence":0.9,"seq":1151,"note":"第1234章：取出手臂粗细黑色燃香点燃驱退巨蚊兽"}
+{"s":"ent.event.x-205fa7fb","p":"relatedTo","o":"ent.passage.x-b1c4f0e0","evidence":"plot.xianni-ch1234-wind-immortal-realm-mosquito-beasts-welcome","confidence":0.95,"seq":1151,"note":"原:occursAt"}
+{"s":"ent.event.x-205fa7fb","p":"involves","o":"ent.person.x-73d2856c","evidence":"plot.xianni-ch1234-wind-immortal-realm-mosquito-beasts-welcome","confidence":0.95,"seq":1151}
+{"s":"ent.event.x-205fa7fb","p":"involves","o":"ent.person.x-e620f93c","evidence":"plot.xianni-ch1234-wind-immortal-realm-mosquito-beasts-welcome","confidence":0.9,"seq":1151}
+{"s":"ent.person.x-73d2856c","p":"relatedTo","o":"ent.person.x-e620f93c","evidence":"plot.xianni-ch1234-wind-immortal-realm-mosquito-beasts-welcome","confidence":0.8,"seq":1151,"note":"李元雷善意邀其结伴入界，被王林一句『不用』拒绝；非敌非友"}
+{"s":"ent.person.x-e620f93c","p":"relatedTo","o":"ent.region.x-9d49a66b","evidence":"plot.xianni-ch1234-wind-immortal-realm-mosquito-beasts-welcome","confidence":0.7,"seq":1151,"note":"八阶星域宗派小辈弟子，未参加盛典而结伴探风界"}
