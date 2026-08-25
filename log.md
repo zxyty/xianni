@@ -624,3 +624,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T02:34:38.798Z** `ingest` plot.xianni-ch1229-target-wind-immortal-realm — 第1229章 目标，风之仙界！——王林出七彩界后疗伤、清点得失与仿造天逆珠子的启用 · kind=plot asOf=2026-08-25 entities=42 relations=49 src=01146-01150.p2.md
 - **2026-08-25T02:36:30.999Z** `ingest` plot.xianni-ch1230-wang-lin-breaks-tier7-blockade-array — 第1230章 强！——王林横穿六阶星域、硬撼七阶封锁大阵，役灵印开道直逼八阶 · kind=plot asOf=2026-08-25 entities=14 relations=15 src=01146-01150.p3.md
 - **2026-08-25T02:38:48.357Z** `ingest` plot.xianni-ch1231-huo-wu-luan-shou-wu-jie — 《仙逆》第1231章 火蜈——王林强闯乱兽雾界，遭火蜈灵群围攻 · kind=plot asOf=2026-08-25 entities=19 relations=32 src=01146-01150.p4.md
+- **2026-08-25T02:40:51.607Z** `ingest` plot.xianni-ch1232-jing-rong-luan-shou-wu-jie-huo-wu-ling — 《仙逆》第1232章 惊容：王林火焰规则横扫乱兽雾界火蜈灵 · kind=plot asOf=2026-08-25 entities=13 relations=17 src=01146-01150.p5.md

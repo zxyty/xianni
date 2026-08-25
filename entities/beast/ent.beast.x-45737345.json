@@ -5,20 +5,29 @@
   "aliases": [
     "千丈蓝色蜈蚣",
     "蓝色狰狞蜈蚣",
-    "十二阶火蜈灵"
+    "十二阶火蜈灵",
+    "蓝色蜈蚣",
+    "十二阶蜈蚣凶兽"
   ],
   "summary": "十二阶凶兽，千丈大小的蓝色狰狞蜈蚣，栖于乱兽雾界深处极少现身，本章因役灵印之故发出愤怒吼声疾冲而来。",
   "attributes": {
-    "等级": "十二阶",
-    "栖息地": "乱兽雾界深处",
-    "外形": "千丈大小的蓝色狰狞蜈蚣",
-    "能力": "吼声压过一切咆哮，透出十二阶威严、疾速穿雾"
+    "等级": "十二阶、十二阶凶兽",
+    "栖息地": "乱兽雾界深处、乱兽雾界",
+    "外形": "千丈大小的蓝色狰狞蜈蚣、自千丈脱壳缩至八百余丈、六百余丈、三百余丈的狰狞蜈蚣",
+    "能力": "吼声压过一切咆哮，透出十二阶威严、疾速穿雾、淡蓝色火海、自裂脱壳缩身倍增速度",
+    "血脉": "火属凶兽",
+    "天敌": "王林的火之规则"
   },
   "observations": {
     "等级": [
       {
         "value": "十二阶",
         "docId": "plot.xianni-ch1231-huo-wu-luan-shou-wu-jie",
+        "seq": 1146
+      },
+      {
+        "value": "十二阶凶兽",
+        "docId": "plot.xianni-ch1232-jing-rong-luan-shou-wu-jie-huo-wu-ling",
         "seq": 1146
       }
     ],
@@ -27,12 +36,22 @@
         "value": "乱兽雾界深处",
         "docId": "plot.xianni-ch1231-huo-wu-luan-shou-wu-jie",
         "seq": 1146
+      },
+      {
+        "value": "乱兽雾界",
+        "docId": "plot.xianni-ch1232-jing-rong-luan-shou-wu-jie-huo-wu-ling",
+        "seq": 1146
       }
     ],
     "外形": [
       {
         "value": "千丈大小的蓝色狰狞蜈蚣",
         "docId": "plot.xianni-ch1231-huo-wu-luan-shou-wu-jie",
+        "seq": 1146
+      },
+      {
+        "value": "自千丈脱壳缩至八百余丈、六百余丈、三百余丈的狰狞蜈蚣",
+        "docId": "plot.xianni-ch1232-jing-rong-luan-shou-wu-jie-huo-wu-ling",
         "seq": 1146
       }
     ],
@@ -45,6 +64,30 @@
       {
         "value": "疾速穿雾",
         "docId": "plot.xianni-ch1231-huo-wu-luan-shou-wu-jie",
+        "seq": 1146
+      },
+      {
+        "value": "淡蓝色火海",
+        "docId": "plot.xianni-ch1232-jing-rong-luan-shou-wu-jie-huo-wu-ling",
+        "seq": 1146
+      },
+      {
+        "value": "自裂脱壳缩身倍增速度",
+        "docId": "plot.xianni-ch1232-jing-rong-luan-shou-wu-jie-huo-wu-ling",
+        "seq": 1146
+      }
+    ],
+    "血脉": [
+      {
+        "value": "火属凶兽",
+        "docId": "plot.xianni-ch1232-jing-rong-luan-shou-wu-jie-huo-wu-ling",
+        "seq": 1146
+      }
+    ],
+    "天敌": [
+      {
+        "value": "王林的火之规则",
+        "docId": "plot.xianni-ch1232-jing-rong-luan-shou-wu-jie-huo-wu-ling",
         "seq": 1146
       }
     ]
@@ -74,12 +117,25 @@
       "docId": "plot.xianni-ch1231-huo-wu-luan-shou-wu-jie",
       "dated": false,
       "seq": 1146
+    },
+    "血脉": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1232-jing-rong-luan-shou-wu-jie-huo-wu-ling",
+      "dated": false,
+      "seq": 1146
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1232-jing-rong-luan-shou-wu-jie-huo-wu-ling",
+      "dated": false,
+      "seq": 1146
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1231-huo-wu-luan-shou-wu-jie"
+    "plot.xianni-ch1231-huo-wu-luan-shou-wu-jie",
+    "plot.xianni-ch1232-jing-rong-luan-shou-wu-jie-huo-wu-ling"
   ],
-  "updatedAt": "2026-08-25T02:38:48.045Z"
+  "updatedAt": "2026-08-25T02:40:51.286Z"
 }
