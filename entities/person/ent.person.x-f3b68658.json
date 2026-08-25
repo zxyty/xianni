@@ -3,14 +3,15 @@
   "type": "person",
   "name": "眉心闪电印记的青年",
   "aliases": [
-    "闪雷族修士"
+    "闪雷族修士",
+    "闪电印记的青年"
   ],
   "summary": "界外之人，闪雷族修士，原为净涅大圆满，变身后暴增至碎涅中期，施展闪雷崩与雷祖借力，被王林四指点破心脏、剥夺雷之权利后肉身化黑灰、元神被封。",
   "attributes": {
     "种族": "闪雷族",
     "小阶段": "净涅大圆满、碎涅中期",
     "标志特征": "眉心闪电印记",
-    "存殁": "死亡",
+    "存殁": "元神崩溃并被吞噬",
     "死因": "被王林双指成剑连点四下重创、一步意境崩溃心脏，继而百丈雷影被夺权反噬，肉身化黑灰、元神被闪电封锁吸入王林右目",
     "结局": "肉身消散、元神被王林右目吸收"
   },
@@ -46,6 +47,12 @@
         "value": "死亡",
         "docId": "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
         "seq": 1123
+      },
+      {
+        "value": "元神崩溃并被吞噬",
+        "docId": "plot.xianni-ch1229-target-wind-immortal-realm",
+        "seq": 1146,
+        "note": "第1229章由王林搜魂后吸收；本体已于第1123章死亡"
       }
     ],
     "死因": [
@@ -85,9 +92,10 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
+      "docId": "plot.xianni-ch1229-target-wind-immortal-realm",
       "dated": false,
-      "seq": 1123
+      "seq": 1146,
+      "note": "第1229章由王林搜魂后吸收；本体已于第1123章死亡"
     },
     "死因": {
       "asOf": null,
@@ -105,7 +113,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1207-lei-huo-wang-lin-duo-quan"
+    "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
+    "plot.xianni-ch1229-target-wind-immortal-realm"
   ],
-  "updatedAt": "2026-08-25T00:34:35.897Z"
+  "updatedAt": "2026-08-25T02:34:38.460Z"
 }

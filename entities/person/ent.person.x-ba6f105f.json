@@ -3,13 +3,14 @@
   "type": "person",
   "name": "眉心火焰图腾的青年",
   "aliases": [
-    "火雀族修士"
+    "火雀族修士",
+    "火焰图腾的青年"
   ],
   "summary": "界外之人，火雀族修士，以火焰风暴与火枪攻王林，见朱雀圣铠而疯癫，被王林一指「焚」以自身火焰反噬化灰，临死请出族灵黑色火鸟仍被白色朱雀吞噬。",
   "attributes": {
     "种族": "火雀族",
     "标志特征": "眉心火焰图腾、背生朱雀状火焰双翼、紫色火焰",
-    "存殁": "死亡",
+    "存殁": "元神崩溃并被吞噬",
     "死因": "被王林隔空一指「焚」，自身火焰反噬焚身，肉身化为灰迹，元神请族灵后崩溃",
     "结局": "元神所化黑色火鸟被王林的白色朱雀吞噬"
   },
@@ -43,6 +44,12 @@
         "value": "死亡",
         "docId": "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
         "seq": 1123
+      },
+      {
+        "value": "元神崩溃并被吞噬",
+        "docId": "plot.xianni-ch1229-target-wind-immortal-realm",
+        "seq": 1146,
+        "note": "第1229章由王林搜魂后吸收；本体已于第1123章死亡"
       }
     ],
     "死因": [
@@ -76,9 +83,10 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
+      "docId": "plot.xianni-ch1229-target-wind-immortal-realm",
       "dated": false,
-      "seq": 1123
+      "seq": 1146,
+      "note": "第1229章由王林搜魂后吸收；本体已于第1123章死亡"
     },
     "死因": {
       "asOf": null,
@@ -96,7 +104,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1207-lei-huo-wang-lin-duo-quan"
+    "plot.xianni-1207-lei-huo-wang-lin-duo-quan",
+    "plot.xianni-ch1229-target-wind-immortal-realm"
   ],
-  "updatedAt": "2026-08-25T00:34:35.898Z"
+  "updatedAt": "2026-08-25T02:34:38.461Z"
 }
