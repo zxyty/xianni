@@ -9,7 +9,8 @@
   "attributes": {
     "外貌": "翩翩少年，后肉身枯萎",
     "身份": "妙音道尊之分身",
-    "标志特征": "百亿香火之魂环绕（俊男美女形貌）"
+    "标志特征": "百亿香火之魂环绕（俊男美女形貌）",
+    "存殁": "已被夺舍"
   },
   "observations": {
     "外貌": [
@@ -33,6 +34,14 @@
         "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
         "seq": 1346
       }
+    ],
+    "存殁": [
+      {
+        "value": "已被夺舍",
+        "docId": "plot.xianni-ch1457-shao-yi-ge",
+        "seq": 1365,
+        "note": "本章旁白提及"
+      }
     ]
   },
   "firstSeq": 1346,
@@ -55,12 +64,20 @@
       "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
       "dated": false,
       "seq": 1346
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1457-shao-yi-ge",
+      "dated": false,
+      "seq": 1365,
+      "note": "本章旁白提及"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1346-1349-ancient-tomb-opens"
+    "plot.xianni-ch1346-1349-ancient-tomb-opens",
+    "plot.xianni-ch1457-shao-yi-ge"
   ],
-  "updatedAt": "2026-08-25T19:09:07.305Z"
+  "updatedAt": "2026-08-25T20:55:56.969Z"
 }

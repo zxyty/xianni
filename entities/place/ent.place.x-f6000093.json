@@ -4,14 +4,19 @@
   "name": "枯萎森林",
   "aliases": [
     "枯死的磅礴森林",
-    "颠落之地深处的森林"
+    "颠落之地深处的森林",
+    "诡异的森林",
+    "奇异的森林",
+    "无尽枯木森林"
   ],
   "summary": "一眼望不到尽头、神识无法笼罩的巨大枯死森林，越近中心枯萎越甚，草木一碰化为飞灰；中心处有雕像。",
   "attributes": {
-    "上级区域": "颠落之地深处",
-    "方位": "颠落之地深处",
-    "规模": "神识无法笼罩全貌",
-    "特产": "枯黄树叶、唯一未彻底枯萎的大树"
+    "上级区域": "古墓",
+    "方位": "雾气深处（据地图标记）",
+    "规模": "无边无际",
+    "特产": "古息叶",
+    "类型": "禁地·枯萎森林",
+    "危险度": "高"
   },
   "observations": {
     "上级区域": [
@@ -19,6 +24,11 @@
         "value": "颠落之地深处",
         "docId": "plot.xianni-1389-tanlang-tale-diedluo-forest-statue-and-release",
         "seq": 1300
+      },
+      {
+        "value": "古墓",
+        "docId": "plot.xianni-ch1457-shao-yi-ge",
+        "seq": 1365
       }
     ],
     "方位": [
@@ -26,6 +36,11 @@
         "value": "颠落之地深处",
         "docId": "plot.xianni-1389-tanlang-tale-diedluo-forest-statue-and-release",
         "seq": 1300
+      },
+      {
+        "value": "雾气深处（据地图标记）",
+        "docId": "plot.xianni-ch1457-shao-yi-ge",
+        "seq": 1365
       }
     ],
     "规模": [
@@ -33,6 +48,11 @@
         "value": "神识无法笼罩全貌",
         "docId": "plot.xianni-1389-tanlang-tale-diedluo-forest-statue-and-release",
         "seq": 1300
+      },
+      {
+        "value": "无边无际",
+        "docId": "plot.xianni-ch1457-shao-yi-ge",
+        "seq": 1365
       }
     ],
     "特产": [
@@ -40,6 +60,25 @@
         "value": "枯黄树叶、唯一未彻底枯萎的大树",
         "docId": "plot.xianni-1389-tanlang-tale-diedluo-forest-statue-and-release",
         "seq": 1300
+      },
+      {
+        "value": "古息叶",
+        "docId": "plot.xianni-ch1457-shao-yi-ge",
+        "seq": 1365
+      }
+    ],
+    "类型": [
+      {
+        "value": "禁地·枯萎森林",
+        "docId": "plot.xianni-ch1457-shao-yi-ge",
+        "seq": 1365
+      }
+    ],
+    "危险度": [
+      {
+        "value": "高",
+        "docId": "plot.xianni-ch1457-shao-yi-ge",
+        "seq": 1365
       }
     ]
   },
@@ -47,33 +86,46 @@
   "attrProvenance": {
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-1389-tanlang-tale-diedluo-forest-statue-and-release",
+      "docId": "plot.xianni-ch1457-shao-yi-ge",
       "dated": false,
-      "seq": 1300
+      "seq": 1365
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-1389-tanlang-tale-diedluo-forest-statue-and-release",
+      "docId": "plot.xianni-ch1457-shao-yi-ge",
       "dated": false,
-      "seq": 1300
+      "seq": 1365
     },
     "规模": {
       "asOf": null,
-      "docId": "plot.xianni-1389-tanlang-tale-diedluo-forest-statue-and-release",
+      "docId": "plot.xianni-ch1457-shao-yi-ge",
       "dated": false,
-      "seq": 1300
+      "seq": 1365
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-1389-tanlang-tale-diedluo-forest-statue-and-release",
+      "docId": "plot.xianni-ch1457-shao-yi-ge",
       "dated": false,
-      "seq": 1300
+      "seq": 1365
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1457-shao-yi-ge",
+      "dated": false,
+      "seq": 1365
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1457-shao-yi-ge",
+      "dated": false,
+      "seq": 1365
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1389-tanlang-tale-diedluo-forest-statue-and-release"
+    "plot.xianni-1389-tanlang-tale-diedluo-forest-statue-and-release",
+    "plot.xianni-ch1457-shao-yi-ge"
   ],
-  "updatedAt": "2026-08-25T15:56:39.920Z"
+  "updatedAt": "2026-08-25T20:55:57.011Z"
 }
