@@ -3,12 +3,13 @@
   "type": "faction",
   "name": "长尊会",
   "aliases": [
-    "长尊会势力"
+    "长尊会势力",
+    "太古长尊会"
   ],
   "summary": "老者所属体系内的权力机构，其成员席位以修为论；老者认为吞噬王族古神之力便可在其中占据一席乃至问鼎。",
   "attributes": {
-    "理念": "以修为定席位",
-    "阵营": "太古仙族一方"
+    "理念": "以封命号令太古万灵，缉杀灭闪雷族之元凶",
+    "阵营": "太古"
   },
   "observations": {
     "理念": [
@@ -16,6 +17,11 @@
         "value": "以修为定席位",
         "docId": "plot.xianni-ch944-tianni-zhu-reappears-wanglin-five-star-royal-ancient-god",
         "seq": 876
+      },
+      {
+        "value": "以封命号令太古万灵，缉杀灭闪雷族之元凶",
+        "docId": "plot.xianni-1364-taigu-xingchen-ling",
+        "seq": 1280
       }
     ],
     "阵营": [
@@ -23,6 +29,11 @@
         "value": "太古仙族一方",
         "docId": "plot.xianni-ch944-tianni-zhu-reappears-wanglin-five-star-royal-ancient-god",
         "seq": 876
+      },
+      {
+        "value": "太古",
+        "docId": "plot.xianni-1364-taigu-xingchen-ling",
+        "seq": 1280
       }
     ]
   },
@@ -30,21 +41,22 @@
   "attrProvenance": {
     "理念": {
       "asOf": null,
-      "docId": "plot.xianni-ch944-tianni-zhu-reappears-wanglin-five-star-royal-ancient-god",
+      "docId": "plot.xianni-1364-taigu-xingchen-ling",
       "dated": false,
-      "seq": 876
+      "seq": 1280
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch944-tianni-zhu-reappears-wanglin-five-star-royal-ancient-god",
+      "docId": "plot.xianni-1364-taigu-xingchen-ling",
       "dated": false,
-      "seq": 876
+      "seq": 1280
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch944-tianni-zhu-reappears-wanglin-five-star-royal-ancient-god"
+    "plot.xianni-ch944-tianni-zhu-reappears-wanglin-five-star-royal-ancient-god",
+    "plot.xianni-1364-taigu-xingchen-ling"
   ],
-  "updatedAt": "2026-08-23T21:44:28.512Z"
+  "updatedAt": "2026-08-25T12:43:26.161Z"
 }
