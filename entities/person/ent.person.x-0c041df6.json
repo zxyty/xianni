@@ -11,13 +11,14 @@
   ],
   "summary": "曾看在老朱雀面上赠予王林漆黑剧毒指甲之人，该毒物本章重创空涅初期强者。",
   "attributes": {
-    "外貌": "老者",
+    "外貌": "满脸疤痕、双唇被三根针穿透、一头乱发、双目寒光",
     "身份": "第三步大能",
-    "分身": "无（一生修道没有分身）",
+    "分身": "分魂（本尊盘膝于太古星辰蛮荒星）",
     "小阶段": "空涅初期",
     "性格": "孤傲、性格古怪、罕有交好之友、桀骜、“分人来守承诺”",
-    "标志特征": "挥手间腥风弥漫、全身涌现腥毒、香火之力环绕、腥风毒气漆黑巨掌、弯刀状黑指甲",
-    "称号": "大荒老毒"
+    "标志特征": "挥手间腥风弥漫、全身涌现腥毒、香火之力环绕、腥风毒气漆黑巨掌、弯刀状黑指甲、紫黑色毒舌、双唇以三针封印",
+    "称号": "大荒上人",
+    "结局": "肉身崩溃，仅余一缕分魂"
   },
   "observations": {
     "外貌": [
@@ -31,6 +32,12 @@
         "docId": "plot.xianni-ch1453-han-mu-wang-tian",
         "seq": 1360,
         "note": "分魂融入的躯体，非本身凝练"
+      },
+      {
+        "value": "满脸疤痕、双唇被三根针穿透、一头乱发、双目寒光",
+        "docId": "plot.xianni-1455-shashoujian-lingdong-shangren-ambush",
+        "seq": 1365,
+        "note": "解印后现出的本尊之容"
       }
     ],
     "身份": [
@@ -50,6 +57,11 @@
         "value": "无（一生修道没有分身）",
         "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
         "seq": 1346
+      },
+      {
+        "value": "分魂（本尊盘膝于太古星辰蛮荒星）",
+        "docId": "plot.xianni-1455-shashoujian-lingdong-shangren-ambush",
+        "seq": 1365
       }
     ],
     "小阶段": [
@@ -87,6 +99,16 @@
         "value": "弯刀状黑指甲",
         "docId": "plot.xianni-ch1454-fen-miaoyin-daozun-dahuang-alliance-break",
         "seq": 1360
+      },
+      {
+        "value": "紫黑色毒舌",
+        "docId": "plot.xianni-1455-shashoujian-lingdong-shangren-ambush",
+        "seq": 1365
+      },
+      {
+        "value": "双唇以三针封印",
+        "docId": "plot.xianni-1455-shashoujian-lingdong-shangren-ambush",
+        "seq": 1365
       }
     ],
     "称号": [
@@ -94,6 +116,19 @@
         "value": "大荒老毒",
         "docId": "plot.xianni-ch1454-fen-miaoyin-daozun-dahuang-alliance-break",
         "seq": 1360
+      },
+      {
+        "value": "大荒上人",
+        "docId": "plot.xianni-1455-shashoujian-lingdong-shangren-ambush",
+        "seq": 1365
+      }
+    ],
+    "结局": [
+      {
+        "value": "肉身崩溃，仅余一缕分魂",
+        "docId": "plot.xianni-1455-shashoujian-lingdong-shangren-ambush",
+        "seq": 1365,
+        "note": "本章"
       }
     ]
   },
@@ -101,10 +136,10 @@
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch1453-han-mu-wang-tian",
+      "docId": "plot.xianni-1455-shashoujian-lingdong-shangren-ambush",
       "dated": false,
-      "seq": 1360,
-      "note": "分魂融入的躯体，非本身凝练"
+      "seq": 1365,
+      "note": "解印后现出的本尊之容"
     },
     "身份": {
       "asOf": null,
@@ -114,9 +149,9 @@
     },
     "分身": {
       "asOf": null,
-      "docId": "plot.xianni-ch1346-1349-ancient-tomb-opens",
+      "docId": "plot.xianni-1455-shashoujian-lingdong-shangren-ambush",
       "dated": false,
-      "seq": 1346
+      "seq": 1365
     },
     "小阶段": {
       "asOf": null,
@@ -139,9 +174,16 @@
     },
     "称号": {
       "asOf": null,
-      "docId": "plot.xianni-ch1454-fen-miaoyin-daozun-dahuang-alliance-break",
+      "docId": "plot.xianni-1455-shashoujian-lingdong-shangren-ambush",
       "dated": false,
-      "seq": 1360
+      "seq": 1365
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-1455-shashoujian-lingdong-shangren-ambush",
+      "dated": false,
+      "seq": 1365,
+      "note": "本章"
     }
   },
   "contested": false,
@@ -150,7 +192,8 @@
     "plot.xianni-1434-fengtianlang-pursuit",
     "plot.xianni-ch1346-1349-ancient-tomb-opens",
     "plot.xianni-ch1453-han-mu-wang-tian",
-    "plot.xianni-ch1454-fen-miaoyin-daozun-dahuang-alliance-break"
+    "plot.xianni-ch1454-fen-miaoyin-daozun-dahuang-alliance-break",
+    "plot.xianni-1455-shashoujian-lingdong-shangren-ambush"
   ],
-  "updatedAt": "2026-08-25T19:45:23.530Z"
+  "updatedAt": "2026-08-25T20:43:56.892Z"
 }

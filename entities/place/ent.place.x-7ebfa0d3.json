@@ -8,10 +8,10 @@
   ],
   "summary": "古之墓地内一处万古前被封印、无数万年无人踏入之地，范围约数十万丈，四周皆是扭曲空间撕裂形成巨大困牢；赤色天空、血液成河，中心有古神驮血色碎石平台跪地，古魔古妖跪拜两侧，大地遍布数万人形凶兽。",
   "attributes": {
-    "类型": "上古葬地/封印之地",
+    "类型": "禁地/封印",
     "上级区域": "太古星辰",
     "规模": "约数十万丈",
-    "危险度": "极高（古魂禁红雾连吞两名强者）",
+    "危险度": "极高（近百修士当场肉身崩溃）",
     "守护": "数万人形凶兽",
     "特产": "血河、生机、葬地之宝、墓地之宝、道灵"
   },
@@ -26,6 +26,11 @@
         "value": "上古葬地/封印之地",
         "docId": "plot.xianni-ch1445-second-tier-tomb-platform",
         "seq": 1355
+      },
+      {
+        "value": "禁地/封印",
+        "docId": "plot.xianni-1455-shashoujian-lingdong-shangren-ambush",
+        "seq": 1365
       }
     ],
     "上级区域": [
@@ -57,6 +62,11 @@
         "value": "极高（古魂禁红雾连吞两名强者）",
         "docId": "plot.xianni-ch1445-second-tier-tomb-platform",
         "seq": 1355
+      },
+      {
+        "value": "极高（近百修士当场肉身崩溃）",
+        "docId": "plot.xianni-1455-shashoujian-lingdong-shangren-ambush",
+        "seq": 1365
       }
     ],
     "守护": [
@@ -98,9 +108,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1445-second-tier-tomb-platform",
+      "docId": "plot.xianni-1455-shashoujian-lingdong-shangren-ambush",
       "dated": false,
-      "seq": 1355
+      "seq": 1365
     },
     "上级区域": {
       "asOf": null,
@@ -116,9 +126,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch1445-second-tier-tomb-platform",
+      "docId": "plot.xianni-1455-shashoujian-lingdong-shangren-ambush",
       "dated": false,
-      "seq": 1355
+      "seq": 1365
     },
     "守护": {
       "asOf": null,
@@ -137,7 +147,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1443-xuhuo-cultivator",
-    "plot.xianni-ch1445-second-tier-tomb-platform"
+    "plot.xianni-ch1445-second-tier-tomb-platform",
+    "plot.xianni-1455-shashoujian-lingdong-shangren-ambush"
   ],
-  "updatedAt": "2026-08-25T19:22:09.267Z"
+  "updatedAt": "2026-08-25T20:43:56.903Z"
 }
