@@ -3,13 +3,14 @@
   "type": "event",
   "name": "第二次封界大战",
   "aliases": [
-    "第二次封界之战"
+    "第二次封界之战",
+    "当年的第二次封界大战"
   ],
   "summary": "界外流传数万年的可怕传闻所指的大战，传闻中只说一个人——血衫童子（红杉子）。",
   "attributes": {
     "章节": "第1521章（追述）",
-    "世内时序": "数万年前",
-    "参与方": "界内与界外",
+    "世内时序": "远早于第1525章（界外修士祖先之世）",
+    "参与方": "界内与界外、封界之尊、界外修士祖先",
     "影响": "血衫童子之名在界外流传数万年"
   },
   "observations": {
@@ -25,6 +26,11 @@
         "value": "数万年前",
         "docId": "plot.xianni-1521-blood-shirt-boy-red-shirt-master",
         "seq": 1429
+      },
+      {
+        "value": "远早于第1525章（界外修士祖先之世）",
+        "docId": "plot.xianni-ch1525-zang-gu-wu-ren-yi",
+        "seq": 1434
       }
     ],
     "参与方": [
@@ -32,6 +38,16 @@
         "value": "界内与界外",
         "docId": "plot.xianni-1521-blood-shirt-boy-red-shirt-master",
         "seq": 1429
+      },
+      {
+        "value": "封界之尊",
+        "docId": "plot.xianni-ch1525-zang-gu-wu-ren-yi",
+        "seq": 1434
+      },
+      {
+        "value": "界外修士祖先",
+        "docId": "plot.xianni-ch1525-zang-gu-wu-ren-yi",
+        "seq": 1434
       }
     ],
     "影响": [
@@ -52,9 +68,9 @@
     },
     "世内时序": {
       "asOf": null,
-      "docId": "plot.xianni-1521-blood-shirt-boy-red-shirt-master",
+      "docId": "plot.xianni-ch1525-zang-gu-wu-ren-yi",
       "dated": false,
-      "seq": 1429
+      "seq": 1434
     },
     "参与方": {
       "asOf": null,
@@ -72,7 +88,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1521-blood-shirt-boy-red-shirt-master"
+    "plot.xianni-1521-blood-shirt-boy-red-shirt-master",
+    "plot.xianni-ch1525-zang-gu-wu-ren-yi"
   ],
-  "updatedAt": "2026-08-26T01:16:02.553Z"
+  "updatedAt": "2026-08-26T01:24:56.458Z"
 }
