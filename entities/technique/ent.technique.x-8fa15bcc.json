@@ -5,12 +5,14 @@
   "aliases": [
     "掐指捏算",
     "占卜术",
-    "推衍之术"
+    "推衍之术",
+    "心神推衍",
+    "计算之力"
   ],
   "summary": "天运子所修的卜算推衍神通；在外界受东海阻拦总有一团迷雾，身处妖灵之地内则不再受阻。",
   "attributes": {
-    "效果": "推衍吉凶、卜算人事下落",
-    "修炼条件": "受东海阻隔而生迷雾"
+    "效果": "推衍吉凶、卜算人事下落、解析数十亿符文结构、寻找法宝破绽并夺取、本章已操控三成符文",
+    "修炼条件": "需古神、修士、五道本源之感悟与大儒浩然之智综合"
   },
   "observations": {
     "效果": [
@@ -18,6 +20,21 @@
         "value": "推衍吉凶、卜算人事下落",
         "docId": "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang",
         "seq": 618
+      },
+      {
+        "value": "解析数十亿符文结构",
+        "docId": "plot.xianni-ch1630-feng-ming-huan",
+        "seq": 1536
+      },
+      {
+        "value": "寻找法宝破绽并夺取",
+        "docId": "plot.xianni-ch1630-feng-ming-huan",
+        "seq": 1536
+      },
+      {
+        "value": "本章已操控三成符文",
+        "docId": "plot.xianni-ch1630-feng-ming-huan",
+        "seq": 1536
       }
     ],
     "修炼条件": [
@@ -26,6 +43,11 @@
         "docId": "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang",
         "seq": 618,
         "note": "仅在妖灵之地外界如此"
+      },
+      {
+        "value": "需古神、修士、五道本源之感悟与大儒浩然之智综合",
+        "docId": "plot.xianni-ch1630-feng-ming-huan",
+        "seq": 1536
       }
     ]
   },
@@ -39,16 +61,16 @@
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang",
+      "docId": "plot.xianni-ch1630-feng-ming-huan",
       "dated": false,
-      "seq": 618,
-      "note": "仅在妖灵之地外界如此"
+      "seq": 1536
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang"
+    "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang",
+    "plot.xianni-ch1630-feng-ming-huan"
   ],
-  "updatedAt": "2026-08-22T21:10:04.055Z"
+  "updatedAt": "2026-08-26T08:32:05.456Z"
 }

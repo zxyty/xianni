@@ -3,18 +3,29 @@
   "type": "artifact",
   "name": "封命环",
   "aliases": [
-    "封命环法宝"
+    "封命环法宝",
+    "金色光环",
+    "环形金色光圈",
+    "天劫第三宝",
+    "Feng Ming Huan"
   ],
   "summary": "战老鬼提及的第三件天劫法宝，与三九拂尘、镇仙宝塔同为当年被投入府内天劫之物；本章尚未现身。",
   "attributes": {
-    "来历": "当年设置府内天劫者投入其中的三宝之一",
-    "能力": "未知"
+    "来历": "当年设置府内天劫者投入其中的三宝之一、当年设置天劫的第三宝，被人以神通之力融入天劫借劫补全；在仙罡大陆亦有名气",
+    "能力": "未知、封印肉身、封印元神、封印魂魄、散发无上天威般的威压",
+    "外形": "金色环形光圈，可膨胀至数百丈亦可缩至数尺绕于额头",
+    "禁制": "由数十亿气息各异的符文急速旋转组成"
   },
   "observations": {
     "来历": [
       {
         "value": "当年设置府内天劫者投入其中的三宝之一",
         "docId": "plot.xianni-1629-bukan-yiji-tianjie-fuchen-baota",
+        "seq": 1536
+      },
+      {
+        "value": "当年设置天劫的第三宝，被人以神通之力融入天劫借劫补全；在仙罡大陆亦有名气",
+        "docId": "plot.xianni-ch1630-feng-ming-huan",
         "seq": 1536
       }
     ],
@@ -24,6 +35,40 @@
         "docId": "plot.xianni-1629-bukan-yiji-tianjie-fuchen-baota",
         "seq": 1536,
         "note": "本章仅被提及未现身"
+      },
+      {
+        "value": "封印肉身",
+        "docId": "plot.xianni-ch1630-feng-ming-huan",
+        "seq": 1536
+      },
+      {
+        "value": "封印元神",
+        "docId": "plot.xianni-ch1630-feng-ming-huan",
+        "seq": 1536
+      },
+      {
+        "value": "封印魂魄",
+        "docId": "plot.xianni-ch1630-feng-ming-huan",
+        "seq": 1536
+      },
+      {
+        "value": "散发无上天威般的威压",
+        "docId": "plot.xianni-ch1630-feng-ming-huan",
+        "seq": 1536
+      }
+    ],
+    "外形": [
+      {
+        "value": "金色环形光圈，可膨胀至数百丈亦可缩至数尺绕于额头",
+        "docId": "plot.xianni-ch1630-feng-ming-huan",
+        "seq": 1536
+      }
+    ],
+    "禁制": [
+      {
+        "value": "由数十亿气息各异的符文急速旋转组成",
+        "docId": "plot.xianni-ch1630-feng-ming-huan",
+        "seq": 1536
       }
     ]
   },
@@ -41,12 +86,25 @@
       "dated": false,
       "seq": 1536,
       "note": "本章仅被提及未现身"
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1630-feng-ming-huan",
+      "dated": false,
+      "seq": 1536
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1630-feng-ming-huan",
+      "dated": false,
+      "seq": 1536
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1629-bukan-yiji-tianjie-fuchen-baota"
+    "plot.xianni-1629-bukan-yiji-tianjie-fuchen-baota",
+    "plot.xianni-ch1630-feng-ming-huan"
   ],
-  "updatedAt": "2026-08-26T08:29:59.137Z"
+  "updatedAt": "2026-08-26T08:32:05.452Z"
 }
