@@ -862,3 +862,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T00:28:25.368Z** `ingest` plot.xianni-1508-shuidaozi-fengjieling-hunt-wanglin — 第1508章 卑鄙！！——水道子七枚玉简发封界令，悬赏天下必杀王林 · kind=plot asOf=2026-08-26 entities=45 relations=75 src=01415-01419.p5.md
 - **2026-08-26T00:36:32.626Z** `ingest` plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm — 《仙逆》第1509章 这一战！！——水道子六枚玉简封命，界内震动，青霖传念护王林 · kind=plot asOf=2026-08-26 entities=52 relations=82 src=01420-01424.p1.md
 - **2026-08-26T00:38:38.272Z** `ingest` plot.xianni-1510-yunhai-glory-dingshen-vs-shuidaozi — 第1510章 云海荣耀：近万修士血肉守宗，王林一字定神破阵直逼水道子 · kind=plot asOf=2026-08-26 entities=16 relations=22 src=01420-01424.p2.md
+- **2026-08-26T00:40:54.425Z** `ingest` plot.xianni-1511-blood-sword-slaughter-wang-lin-vs-shui-daozi — 《仙逆》第1511章 弱弱弱！——血剑破山峰屠黑衣修士，王林一掌逼水道子求援 · kind=plot asOf=2026-08-26 entities=22 relations=32 src=01420-01424.p3.md

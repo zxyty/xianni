@@ -5,12 +5,13 @@
   "aliases": [
     "盆地",
     "盘地",
-    "剑冢"
+    "剑冢",
+    "虚幻天地内的巨大盆地"
   ],
   "summary": "朱雀墓内埋藏无数宝剑与命魂灵物的盆地群，深蓝弯刀自此飞出，盆地内存在压制弯刀速度的奇异之力。",
   "attributes": {
-    "类型": "剑冢/命魂灵物聚集地",
-    "危险度": "极高",
+    "类型": "盆地/战场",
+    "危险度": "极高（山峰镇压）",
     "特产": "无数宝剑、命魂灵物",
     "守护": "深蓝弯刀（群剑之主）"
   },
@@ -20,6 +21,11 @@
         "value": "剑冢/命魂灵物聚集地",
         "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
         "seq": 428
+      },
+      {
+        "value": "盆地/战场",
+        "docId": "plot.xianni-1511-blood-sword-slaughter-wang-lin-vs-shui-daozi",
+        "seq": 1420
       }
     ],
     "危险度": [
@@ -27,6 +33,11 @@
         "value": "极高",
         "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
         "seq": 428
+      },
+      {
+        "value": "极高（山峰镇压）",
+        "docId": "plot.xianni-1511-blood-sword-slaughter-wang-lin-vs-shui-daozi",
+        "seq": 1420
       }
     ],
     "特产": [
@@ -53,15 +64,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+      "docId": "plot.xianni-1511-blood-sword-slaughter-wang-lin-vs-shui-daozi",
       "dated": false,
-      "seq": 428
+      "seq": 1420
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+      "docId": "plot.xianni-1511-blood-sword-slaughter-wang-lin-vs-shui-daozi",
       "dated": false,
-      "seq": 428
+      "seq": 1420
     },
     "特产": {
       "asOf": null,
@@ -79,7 +90,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch451-waner-mingpo-tianyun-star"
+    "plot.xianni-ch451-waner-mingpo-tianyun-star",
+    "plot.xianni-1511-blood-sword-slaughter-wang-lin-vs-shui-daozi"
   ],
-  "updatedAt": "2026-08-21T02:32:55.688Z"
+  "updatedAt": "2026-08-26T00:40:53.969Z"
 }
