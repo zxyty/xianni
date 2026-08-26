@@ -4,12 +4,14 @@
   "name": "香火之魂",
   "aliases": [
     "被毒染的香火之魂",
-    "香火魂"
+    "香火魂",
+    "香火之民之魂"
   ],
   "summary": "毒海与紫色海洋中大量存在的魂类存在，属妙音道尊，可被炼化改变归属而向新主奉献香火。",
   "attributes": {
-    "类型": "魂类能量",
-    "用途": "化泥土沙粒或鬼影施杀"
+    "类型": "魂类资源",
+    "用途": "凝固香火界、膜拜香火界之主以成就无上神通",
+    "产地": "香火界"
   },
   "observations": {
     "类型": [
@@ -22,6 +24,11 @@
         "value": "魂类能量",
         "docId": "plot.xianni-ch1580-fierce-battle-three-elders-siege",
         "seq": 1486
+      },
+      {
+        "value": "魂类资源",
+        "docId": "lore.kongxuan-realm-virtual-origin-xianghuo-world-cultivation",
+        "seq": 1561
       }
     ],
     "用途": [
@@ -34,6 +41,18 @@
         "value": "化泥土沙粒或鬼影施杀",
         "docId": "plot.xianni-ch1580-fierce-battle-three-elders-siege",
         "seq": 1486
+      },
+      {
+        "value": "凝固香火界、膜拜香火界之主以成就无上神通",
+        "docId": "lore.kongxuan-realm-virtual-origin-xianghuo-world-cultivation",
+        "seq": 1561
+      }
+    ],
+    "产地": [
+      {
+        "value": "香火界",
+        "docId": "lore.kongxuan-realm-virtual-origin-xianghuo-world-cultivation",
+        "seq": 1561
       }
     ]
   },
@@ -41,22 +60,29 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1580-fierce-battle-three-elders-siege",
+      "docId": "lore.kongxuan-realm-virtual-origin-xianghuo-world-cultivation",
       "dated": false,
-      "seq": 1486
+      "seq": 1561
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch1580-fierce-battle-three-elders-siege",
+      "docId": "lore.kongxuan-realm-virtual-origin-xianghuo-world-cultivation",
       "dated": false,
-      "seq": 1486
+      "seq": 1561
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "lore.kongxuan-realm-virtual-origin-xianghuo-world-cultivation",
+      "dated": false,
+      "seq": 1561
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1458-ci-dao-wanglin-ponders-ancient-tomb-revives-trees",
-    "plot.xianni-ch1580-fierce-battle-three-elders-siege"
+    "plot.xianni-ch1580-fierce-battle-three-elders-siege",
+    "lore.kongxuan-realm-virtual-origin-xianghuo-world-cultivation"
   ],
-  "updatedAt": "2026-08-26T05:02:20.579Z"
+  "updatedAt": "2026-08-26T09:23:36.944Z"
 }

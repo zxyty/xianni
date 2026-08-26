@@ -3,12 +3,15 @@
   "type": "race",
   "name": "香火之民",
   "aliases": [
-    "香火民"
+    "香火民",
+    "香火界之民",
+    "虚本源之民"
   ],
   "summary": "居于香火界内的民众，盘膝而坐，将自身香火疯狂祭献而出，供养香火之力。",
   "attributes": {
     "聚居地": "香火界",
-    "特性": "盘膝祭献自身香火"
+    "特性": "盘膝祭献自身香火、受大能相助修炼突飞猛进、所得修为亦是虚幻之力、不知身处虚幻世界",
+    "天赋神通": "无数年后可自行诞生虚本源之民"
   },
   "observations": {
     "聚居地": [
@@ -23,6 +26,28 @@
         "value": "盘膝祭献自身香火",
         "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
         "seq": 1425
+      },
+      {
+        "value": "受大能相助修炼突飞猛进",
+        "docId": "lore.kongxuan-realm-virtual-origin-xianghuo-world-cultivation",
+        "seq": 1561
+      },
+      {
+        "value": "所得修为亦是虚幻之力",
+        "docId": "lore.kongxuan-realm-virtual-origin-xianghuo-world-cultivation",
+        "seq": 1561
+      },
+      {
+        "value": "不知身处虚幻世界",
+        "docId": "lore.kongxuan-realm-virtual-origin-xianghuo-world-cultivation",
+        "seq": 1561
+      }
+    ],
+    "天赋神通": [
+      {
+        "value": "无数年后可自行诞生虚本源之民",
+        "docId": "lore.kongxuan-realm-virtual-origin-xianghuo-world-cultivation",
+        "seq": 1561
       }
     ]
   },
@@ -39,12 +64,19 @@
       "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
       "dated": false,
       "seq": 1425
+    },
+    "天赋神通": {
+      "asOf": null,
+      "docId": "lore.kongxuan-realm-virtual-origin-xianghuo-world-cultivation",
+      "dated": false,
+      "seq": 1561
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1516-ru-jie-di-yi-zhan"
+    "plot.xianni-1516-ru-jie-di-yi-zhan",
+    "lore.kongxuan-realm-virtual-origin-xianghuo-world-cultivation"
   ],
-  "updatedAt": "2026-08-26T01:06:21.733Z"
+  "updatedAt": "2026-08-26T09:23:36.947Z"
 }
