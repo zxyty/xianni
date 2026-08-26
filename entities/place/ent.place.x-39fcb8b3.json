@@ -14,17 +14,19 @@
     "赵国故地",
     "往昔的赵国",
     "封尊幼年长大的地方",
-    "封尊故乡"
+    "封尊故乡",
+    "王林故乡赵国"
   ],
   "summary": "凡俗国度，恒岳派为其为数不多的修真门派之一。",
   "attributes": {
     "类型": "圣地/禁地",
     "规模": "五级修真国",
-    "守护": "联盟盟约约束、为数不多的几名元婴修士、无常驻化神修士、大量禁制阵法、赵国护国光幕阵法、赵国九大宗门、朱雀星大神通修士",
+    "守护": "联盟盟约约束、为数不多的几名元婴修士、无常驻化神修士、大量禁制阵法、赵国护国光幕阵法、赵国九大宗门、朱雀星大神通修士、笼罩全境的阵法",
     "方位": "朱雀星偏僻边缘",
     "所属界面": "孔孟大陆",
     "特产": "王林出生地",
-    "危险度": "地处偏僻、凋零闭派、曾遭异国修士入侵逼至绝路、极高——异族入侵、修士溃败、异族入侵中、尸骸之地、尸阴宗总部所在、擅入者遭全星围剿"
+    "危险度": "地处偏僻、凋零闭派、曾遭异国修士入侵逼至绝路、极高——异族入侵、修士溃败、异族入侵中、尸骸之地、尸阴宗总部所在、擅入者遭全星围剿",
+    "上级区域": "朱雀星"
   },
   "observations": {
     "类型": [
@@ -171,6 +173,11 @@
         "value": "朱雀星大神通修士",
         "docId": "plot.xianni-ch1571-ye-you-gen-wang-lin-returns-zhaoguo",
         "seq": 1481
+      },
+      {
+        "value": "笼罩全境的阵法",
+        "docId": "plot.xianni-ch1572-wang-ru-yan-parents-grave-zhou-wutai",
+        "seq": 1481
       }
     ],
     "方位": [
@@ -264,6 +271,13 @@
         "docId": "plot.xianni-ch1571-ye-you-gen-wang-lin-returns-zhaoguo",
         "seq": 1481
       }
+    ],
+    "上级区域": [
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch1572-wang-ru-yan-parents-grave-zhou-wutai",
+        "seq": 1481
+      }
     ]
   },
   "firstSeq": 1,
@@ -310,6 +324,12 @@
       "docId": "plot.xianni-ch263-267-tianni-change-xueyu-country",
       "dated": false,
       "seq": 263
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1572-wang-ru-yan-parents-grave-zhou-wutai",
+      "dated": false,
+      "seq": 1481
     }
   },
   "contested": false,
@@ -373,7 +393,8 @@
     "plot.xianni-ch1562-zhao-he-qingshui-killing-origin",
     "plot.xianni-1565-zhou-zihong-recalls-feng-zun",
     "plot.xianni-1570-luoye-xungen-zhuque-star-return",
-    "plot.xianni-ch1571-ye-you-gen-wang-lin-returns-zhaoguo"
+    "plot.xianni-ch1571-ye-you-gen-wang-lin-returns-zhaoguo",
+    "plot.xianni-ch1572-wang-ru-yan-parents-grave-zhou-wutai"
   ],
-  "updatedAt": "2026-08-26T04:40:53.690Z"
+  "updatedAt": "2026-08-26T04:43:04.635Z"
 }
