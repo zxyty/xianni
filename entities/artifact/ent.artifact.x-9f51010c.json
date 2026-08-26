@@ -6,14 +6,16 @@
     "金铃",
     "远古仙域赐下的宝物",
     "金光闪闪的法宝",
-    "水道子的金色铃铛"
+    "水道子的金色铃铛",
+    "远古仙域铃铛"
   ],
   "summary": "远古上仙自血色漩涡降下的金色铃铛，下降时铛铛作响；本应融入封界大阵为界内延缓百年被入侵，水道子却欲私用于杀王林。",
   "attributes": {
-    "外形": "金色铃铛",
-    "来历": "远古仙域上仙奉命所赐",
+    "外形": "金色铃铛，声清脆、金色铃铛、金光内一枚铃铛，清脆作响",
+    "来历": "远古仙域之物",
     "持有者": "水道子",
-    "能力": "融入封界大阵可延缓界外入侵百年、水道子欲用以对抗/击杀王林"
+    "能力": "融入封界大阵可延缓界外入侵百年、水道子欲用以对抗/击杀王林、爆发金色之浪，扫去星空一切隐藏、令封界大阵幻化显形、释放极为精纯的仙气与远古仙域道术神通",
+    "禁制": "似与封阵融合之物，在没融合前极为脆弱、毁不得"
   },
   "observations": {
     "外形": [
@@ -26,6 +28,11 @@
         "value": "金色铃铛",
         "docId": "plot.xianni-1510-yunhai-glory-dingshen-vs-shuidaozi",
         "seq": 1420
+      },
+      {
+        "value": "金光内一枚铃铛，清脆作响",
+        "docId": "plot.xianni-1512-golden-bell-seal-realm-array-revealed",
+        "seq": 1420
       }
     ],
     "来历": [
@@ -33,6 +40,11 @@
         "value": "远古仙域上仙奉命所赐",
         "docId": "plot.xianni-1508-shuidaozi-fengjieling-hunt-wanglin",
         "seq": 1415
+      },
+      {
+        "value": "远古仙域之物",
+        "docId": "plot.xianni-1512-golden-bell-seal-realm-array-revealed",
+        "seq": 1420
       }
     ],
     "持有者": [
@@ -52,6 +64,29 @@
         "value": "水道子欲用以对抗/击杀王林",
         "docId": "plot.xianni-1508-shuidaozi-fengjieling-hunt-wanglin",
         "seq": 1415
+      },
+      {
+        "value": "爆发金色之浪，扫去星空一切隐藏",
+        "docId": "plot.xianni-1512-golden-bell-seal-realm-array-revealed",
+        "seq": 1420
+      },
+      {
+        "value": "令封界大阵幻化显形",
+        "docId": "plot.xianni-1512-golden-bell-seal-realm-array-revealed",
+        "seq": 1420
+      },
+      {
+        "value": "释放极为精纯的仙气与远古仙域道术神通",
+        "docId": "plot.xianni-1512-golden-bell-seal-realm-array-revealed",
+        "seq": 1420
+      }
+    ],
+    "禁制": [
+      {
+        "value": "似与封阵融合之物，在没融合前极为脆弱、毁不得",
+        "docId": "plot.xianni-1512-golden-bell-seal-realm-array-revealed",
+        "seq": 1420,
+        "note": "尸阴宗虚幻老者的判断"
       }
     ]
   },
@@ -59,15 +94,15 @@
   "attrProvenance": {
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-1510-yunhai-glory-dingshen-vs-shuidaozi",
-      "dated": false,
-      "seq": 1420
-    },
-    "来历": {
-      "asOf": null,
       "docId": "plot.xianni-1508-shuidaozi-fengjieling-hunt-wanglin",
       "dated": false,
       "seq": 1415
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-1512-golden-bell-seal-realm-array-revealed",
+      "dated": false,
+      "seq": 1420
     },
     "持有者": {
       "asOf": null,
@@ -80,13 +115,21 @@
       "docId": "plot.xianni-1508-shuidaozi-fengjieling-hunt-wanglin",
       "dated": false,
       "seq": 1415
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-1512-golden-bell-seal-realm-array-revealed",
+      "dated": false,
+      "seq": 1420,
+      "note": "尸阴宗虚幻老者的判断"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1508-shuidaozi-fengjieling-hunt-wanglin",
-    "plot.xianni-1510-yunhai-glory-dingshen-vs-shuidaozi"
+    "plot.xianni-1510-yunhai-glory-dingshen-vs-shuidaozi",
+    "plot.xianni-1512-golden-bell-seal-realm-array-revealed"
   ],
-  "updatedAt": "2026-08-26T00:38:37.864Z"
+  "updatedAt": "2026-08-26T00:43:44.699Z"
 }
