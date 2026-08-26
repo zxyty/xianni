@@ -1017,3 +1017,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T12:13:46.020Z** `ingest` plot.xianni-ch1690-jue-bu-hui-cuo-zhangzun-fifth-strike — 第1690章 绝不会错——掌尊现身必杀，王林两弓已尽 · kind=plot asOf=2026-08-26 entities=38 relations=53 src=01596-01600.p5.md
 - **2026-08-26T12:16:12.630Z** `ingest` plot.xianni-1691-li-guang-bow-third-arrow-kills-zhang-zun — 第1691章 绝不会错？——王林三箭破算，李广弓射灭掌尊 · kind=plot asOf=2026-08-26 entities=22 relations=34 src=01601-01605.p1.md
 - **2026-08-26T12:23:05.037Z** `ingest` plot.xianni-ch1692-the-promise-of-those-years — 第1692章 当年的约定：彩玉七手印现世，王林借玉简黑洞遁走 · kind=plot asOf=2026-08-26 entities=34 relations=54 src=01601-01605.p2.md
+- **2026-08-26T12:25:33.144Z** `ingest` plot.xianni-1693-qicai-arrival — 第1693章 七彩来临——七彩道人索弓，王林与矾珊璐星空逃亡 · kind=plot asOf=2026-08-26 entities=23 relations=29 src=01601-01605.p3.md

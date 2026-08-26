@@ -4,12 +4,15 @@
   "name": "星空狮兽",
   "aliases": [
     "巨大狮兽",
-    "狮兽"
+    "狮兽",
+    "矾珊璐的狮兽",
+    "坐骑狮兽"
   ],
   "summary": "在星空中向前奔跑的巨大狮兽，王林走出黑洞漩涡后落于其身上并盘膝而坐。",
   "attributes": {
     "外形": "巨大狮形",
-    "栖息地": "星空"
+    "栖息地": "星空",
+    "主人": "矾珊璐"
   },
   "observations": {
     "外形": [
@@ -23,6 +26,13 @@
       {
         "value": "星空",
         "docId": "plot.xianni-ch1692-the-promise-of-those-years",
+        "seq": 1601
+      }
+    ],
+    "主人": [
+      {
+        "value": "矾珊璐",
+        "docId": "plot.xianni-1693-qicai-arrival",
         "seq": 1601
       }
     ]
@@ -40,12 +50,19 @@
       "docId": "plot.xianni-ch1692-the-promise-of-those-years",
       "dated": false,
       "seq": 1601
+    },
+    "主人": {
+      "asOf": null,
+      "docId": "plot.xianni-1693-qicai-arrival",
+      "dated": false,
+      "seq": 1601
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1692-the-promise-of-those-years"
+    "plot.xianni-ch1692-the-promise-of-those-years",
+    "plot.xianni-1693-qicai-arrival"
   ],
-  "updatedAt": "2026-08-26T12:23:04.559Z"
+  "updatedAt": "2026-08-26T12:25:32.635Z"
 }
