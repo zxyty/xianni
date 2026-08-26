@@ -6,14 +6,16 @@
     "本命之血",
     "本命精血",
     "疯子的鲜血",
-    "金色鲜血"
+    "金色鲜血",
+    "王爷的鲜血",
+    "疯子鲜血"
   ],
   "summary": "透着浓金色、极为精纯的血液；须本命自愿送出方才有用，被抽干亦无效；可疗天下一切伤势，并能改造受血者骨髓与血脉。",
   "attributes": {
-    "类型": "本命精血",
-    "用途": "疗愈一切伤势、改造骨髓与血脉、使凡人蜕变为仙人",
+    "类型": "精血",
+    "用途": "疗愈一切伤势、改造骨髓与血脉、使凡人蜕变为仙人、被许立国、刘金彪骗取收集",
     "稀有度": "无法形容之珍贵",
-    "产地": "疯子及其族"
+    "产地": "疯子体内"
   },
   "observations": {
     "类型": [
@@ -21,6 +23,11 @@
         "value": "本命精血",
         "docId": "plot.xianni-ch1536-mad-mans-blood-transforms-wang-lin-bloodline",
         "seq": 1443
+      },
+      {
+        "value": "精血",
+        "docId": "plot.xianni-ch1567-nothing-happened-liu-jinbiao-scam",
+        "seq": 1476
       }
     ],
     "用途": [
@@ -38,6 +45,11 @@
         "value": "使凡人蜕变为仙人",
         "docId": "plot.xianni-ch1536-mad-mans-blood-transforms-wang-lin-bloodline",
         "seq": 1443
+      },
+      {
+        "value": "被许立国、刘金彪骗取收集",
+        "docId": "plot.xianni-ch1567-nothing-happened-liu-jinbiao-scam",
+        "seq": 1476
       }
     ],
     "稀有度": [
@@ -53,6 +65,11 @@
         "docId": "plot.xianni-ch1536-mad-mans-blood-transforms-wang-lin-bloodline",
         "seq": 1443,
         "note": "族名未明"
+      },
+      {
+        "value": "疯子体内",
+        "docId": "plot.xianni-ch1567-nothing-happened-liu-jinbiao-scam",
+        "seq": 1476
       }
     ]
   },
@@ -60,9 +77,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1536-mad-mans-blood-transforms-wang-lin-bloodline",
+      "docId": "plot.xianni-ch1567-nothing-happened-liu-jinbiao-scam",
       "dated": false,
-      "seq": 1443
+      "seq": 1476
     },
     "用途": {
       "asOf": null,
@@ -78,16 +95,16 @@
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.xianni-ch1536-mad-mans-blood-transforms-wang-lin-bloodline",
+      "docId": "plot.xianni-ch1567-nothing-happened-liu-jinbiao-scam",
       "dated": false,
-      "seq": 1443,
-      "note": "族名未明"
+      "seq": 1476
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1536-mad-mans-blood-transforms-wang-lin-bloodline"
+    "plot.xianni-ch1536-mad-mans-blood-transforms-wang-lin-bloodline",
+    "plot.xianni-ch1567-nothing-happened-liu-jinbiao-scam"
   ],
-  "updatedAt": "2026-08-26T02:25:56.696Z"
+  "updatedAt": "2026-08-26T04:33:16.232Z"
 }
