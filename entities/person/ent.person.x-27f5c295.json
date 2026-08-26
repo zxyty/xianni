@@ -10,14 +10,16 @@
     "t彩道人",
     "七彩界道人",
     "召河七彩界七彩道人",
-    "召河七彩界的七彩道人"
+    "召河七彩界的七彩道人",
+    "七彩界的七彩道人"
   ],
   "summary": "斩杀九星古神并以七彩雕像封印其头颅之人；曾自陈以道灵饲养抢来的天道非易事，需另想法子。王林假设其即远古仙皇、即「叛空」之「空」、即一代朱雀的主子仙尊。",
   "attributes": {
     "外貌": "身穿七彩",
-    "身份": "身份不明",
+    "身份": "远古仙皇／一代朱雀的主子仙尊、古之墓地疑似主人、身份不明、界外之首",
     "称号": "七彩道人",
-    "标志特征": "以奇异目光注视清水一生"
+    "标志特征": "以奇异目光注视清水一生",
+    "阵营": "界外"
   },
   "observations": {
     "外貌": [
@@ -44,6 +46,11 @@
         "docId": "plot.xianni-1641-immortals-nothing-special",
         "seq": 1551,
         "note": "王林本章存疑"
+      },
+      {
+        "value": "界外之首",
+        "docId": "plot.xianni-ch1645-wang-lin-four-war-generals-trade",
+        "seq": 1551
       }
     ],
     "称号": [
@@ -69,6 +76,13 @@
         "docId": "plot.xianni-1636-healing-crippled-immortal",
         "seq": 1546
       }
+    ],
+    "阵营": [
+      {
+        "value": "界外",
+        "docId": "plot.xianni-ch1645-wang-lin-four-war-generals-trade",
+        "seq": 1551
+      }
     ]
   },
   "firstSeq": 1365,
@@ -81,10 +95,10 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1641-immortals-nothing-special",
+      "docId": "plot.xianni-ch1458-jiushe-jiuxing-gushen-toulu",
       "dated": false,
-      "seq": 1551,
-      "note": "王林本章存疑"
+      "seq": 1365,
+      "note": "王林第1458章的假设，未证实"
     },
     "称号": {
       "asOf": null,
@@ -97,6 +111,12 @@
       "docId": "plot.xianni-1636-healing-crippled-immortal",
       "dated": false,
       "seq": 1546
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1645-wang-lin-four-war-generals-trade",
+      "dated": false,
+      "seq": 1551
     }
   },
   "contested": false,
@@ -110,7 +130,8 @@
     "plot.xianni-ch1578-tianbian-yuwai-zhanchang-men-fragment",
     "plot.xianni-ch1526-1530-six-source-void-gate",
     "plot.xianni-1636-healing-crippled-immortal",
-    "plot.xianni-1641-immortals-nothing-special"
+    "plot.xianni-1641-immortals-nothing-special",
+    "plot.xianni-ch1645-wang-lin-four-war-generals-trade"
   ],
-  "updatedAt": "2026-08-26T08:54:59.996Z"
+  "updatedAt": "2026-08-26T09:02:53.878Z"
 }

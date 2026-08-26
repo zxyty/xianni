@@ -981,3 +981,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T08:56:50.566Z** `ingest` plot.xianni-1642-hu-xiao-shan-he — 第1642章 虎啸山河：白虎老者三式神通，王林以真假本源与道古之吼反制 · kind=plot asOf=2026-08-26 entities=14 relations=17 src=01551-01555.p2.md
 - **2026-08-26T08:58:34.639Z** `ingest` plot.xianni-ch1643-qi-hu-nan-xia-baihu-zhanjiang — 第1643章 骑虎不下：王林大儒之威震慑白虎战将虎灵 · kind=plot asOf=2026-08-26 entities=16 relations=22 src=01551-01555.p3.md
 - **2026-08-26T09:00:30.210Z** `ingest` plot.xianni-ch1644-jing-four-generals-ambush — 第1644章 静！——四大战将偷袭，王林弯弓退敌 · kind=plot asOf=2026-08-26 entities=16 relations=24 src=01551-01555.p4.md
+- **2026-08-26T09:02:54.292Z** `ingest` plot.xianni-ch1645-wang-lin-four-war-generals-trade — 第1645章 交易：王林以李广弓要挟四大战将达成远古仙域之约 · kind=plot asOf=2026-08-26 entities=23 relations=29 src=01551-01555.p5.md
