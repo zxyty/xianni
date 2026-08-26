@@ -870,3 +870,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T01:06:22.173Z** `ingest` plot.xianni-1516-ru-jie-di-yi-zhan — 第1516章 入界第一战！——王林受封尊之礼、太古星辰十三族列阵封界大阵东部 · kind=plot asOf=2026-08-26 entities=85 relations=125 src=01425-01428.p3.md
 - **2026-08-26T01:08:51.689Z** `ingest` plot.xianni-1518-fengjie-dazhen-poliekaizhan — 第1518章 不能退！！——封界大阵被撕裂，界外太古星辰入侵开战 · kind=plot asOf=2026-08-26 entities=30 relations=32 src=01425-01428.p4.md
 - **2026-08-26T01:11:08.977Z** `ingest` plot.xianni-1519-fanji-fengjie-dazhen-liefeng-kaitianfu — 第1519章 反击！！——封界大阵破口、开天斧屠戮界外大军 · kind=plot asOf=2026-08-26 entities=26 relations=32 src=01429-01433.p1.md
+- **2026-08-26T01:13:30.340Z** `ingest` plot.xianni-1520-lingshen-nanzhao-xianghuojie — 第1520章 灵神！——云海援军压境，王林以古神护腕破南诏上人香火界一掌 · kind=plot asOf=2026-08-26 entities=24 relations=27 src=01429-01433.p2.md

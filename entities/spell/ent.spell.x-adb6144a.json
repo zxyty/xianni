@@ -4,14 +4,15 @@
   "name": "古之庇佑",
   "aliases": [
     "八星古神保命之术",
-    "古神庇佑"
+    "古神庇佑",
+    "我是古神，我是道吉"
   ],
   "summary": "给幼年古神的保命神通，召出堪比修真星大小的虚幻古神护主，且能回身一拳重创强敌。",
   "attributes": {
-    "类型": "保命神通",
-    "出处": "古神一族（藏于王林右手护臂）",
+    "类型": "护身/反击",
+    "出处": "古神护腕",
     "适用境界": "八星古神",
-    "威力": "掌尊掌印在其体内如蝇蚊撞击般崩溃；一拳令掌尊彻底重伤、数万年压制的旧伤爆发",
+    "威力": "可硬抗空灵境界一掌",
     "消耗": "每用一次损伤护臂，直至护臂崩溃"
   },
   "observations": {
@@ -30,6 +31,11 @@
         "value": "保命神通",
         "docId": "plot.xianni-ch1455-giant-hand-reappears",
         "seq": 1365
+      },
+      {
+        "value": "护身/反击",
+        "docId": "plot.xianni-1520-lingshen-nanzhao-xianghuojie",
+        "seq": 1429
       }
     ],
     "出处": [
@@ -47,6 +53,11 @@
         "value": "古神一族（藏于王林右手护臂）",
         "docId": "plot.xianni-ch1455-giant-hand-reappears",
         "seq": 1365
+      },
+      {
+        "value": "古神护腕",
+        "docId": "plot.xianni-1520-lingshen-nanzhao-xianghuojie",
+        "seq": 1429
       }
     ],
     "适用境界": [
@@ -62,6 +73,11 @@
         "value": "掌尊掌印在其体内如蝇蚊撞击般崩溃；一拳令掌尊彻底重伤、数万年压制的旧伤爆发",
         "docId": "plot.xianni-1431-fenshi-guisan-zhangzun-fuhuo-tiaojian",
         "seq": 1341
+      },
+      {
+        "value": "可硬抗空灵境界一掌",
+        "docId": "plot.xianni-1520-lingshen-nanzhao-xianghuojie",
+        "seq": 1429
       }
     ],
     "消耗": [
@@ -81,15 +97,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1455-giant-hand-reappears",
+      "docId": "plot.xianni-1520-lingshen-nanzhao-xianghuojie",
       "dated": false,
-      "seq": 1365
+      "seq": 1429
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch1455-giant-hand-reappears",
+      "docId": "plot.xianni-1520-lingshen-nanzhao-xianghuojie",
       "dated": false,
-      "seq": 1365
+      "seq": 1429
     },
     "适用境界": {
       "asOf": null,
@@ -100,9 +116,9 @@
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-1431-fenshi-guisan-zhangzun-fuhuo-tiaojian",
+      "docId": "plot.xianni-1520-lingshen-nanzhao-xianghuojie",
       "dated": false,
-      "seq": 1341
+      "seq": 1429
     },
     "消耗": {
       "asOf": null,
@@ -116,7 +132,8 @@
   "docs": [
     "plot.xianni-1431-fenshi-guisan-zhangzun-fuhuo-tiaojian",
     "plot.xianni-ch1448-trap-siege-lingdong-shangren",
-    "plot.xianni-ch1455-giant-hand-reappears"
+    "plot.xianni-ch1455-giant-hand-reappears",
+    "plot.xianni-1520-lingshen-nanzhao-xianghuojie"
   ],
-  "updatedAt": "2026-08-25T20:46:16.863Z"
+  "updatedAt": "2026-08-26T01:13:29.910Z"
 }

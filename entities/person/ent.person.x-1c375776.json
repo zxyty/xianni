@@ -10,7 +10,8 @@
   "attributes": {
     "身份": "尸阴宗修士",
     "外貌": "虚幻老者",
-    "阵营": "云海星域/界内"
+    "阵营": "界内、云海星域/界内、云海星域",
+    "性格": "神秘"
   },
   "observations": {
     "身份": [
@@ -42,6 +43,18 @@
         "value": "云海星域/界内",
         "docId": "plot.xianni-1519-fanji-fengjie-dazhen-liefeng-kaitianfu",
         "seq": 1429
+      },
+      {
+        "value": "云海星域",
+        "docId": "plot.xianni-1520-lingshen-nanzhao-xianghuojie",
+        "seq": 1429
+      }
+    ],
+    "性格": [
+      {
+        "value": "神秘",
+        "docId": "plot.xianni-1520-lingshen-nanzhao-xianghuojie",
+        "seq": 1429
       }
     ]
   },
@@ -61,7 +74,13 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-1519-fanji-fengjie-dazhen-liefeng-kaitianfu",
+      "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
+      "dated": false,
+      "seq": 1425
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-1520-lingshen-nanzhao-xianghuojie",
       "dated": false,
       "seq": 1429
     }
@@ -71,7 +90,8 @@
   "docs": [
     "plot.xianni-ch1305-tianjie-wei-jie-yi-wei-zaohua",
     "plot.xianni-1516-ru-jie-di-yi-zhan",
-    "plot.xianni-1519-fanji-fengjie-dazhen-liefeng-kaitianfu"
+    "plot.xianni-1519-fanji-fengjie-dazhen-liefeng-kaitianfu",
+    "plot.xianni-1520-lingshen-nanzhao-xianghuojie"
   ],
-  "updatedAt": "2026-08-26T01:11:08.507Z"
+  "updatedAt": "2026-08-26T01:13:29.899Z"
 }
