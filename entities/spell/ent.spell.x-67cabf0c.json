@@ -3,19 +3,28 @@
   "type": "spell",
   "name": "因果印",
   "aliases": [
-    "王林第四道自创神通"
+    "王林第四道自创神通",
+    "王林第四式神通",
+    "因果一印",
+    "Cause and Effect Seal"
   ],
   "summary": "王林第四道自创神通：因果本源无形无影凝聚于右掌，掌开为因、掌握为果。",
   "attributes": {
-    "类型": "自创神通·本源",
-    "出处": "王林自创（第四道）",
-    "威力": "凝因果本源于右掌，掌开为因，掌握为果"
+    "类型": "自创神通·本源、道术",
+    "出处": "王林自创（第四道）、王林自创（第1615章，因果本源大成时悟出）",
+    "威力": "凝因果本源于右掌，掌开为因，掌握为果、可将人打入因果轮回、自定因果",
+    "适用境界": "第三步大能"
   },
   "observations": {
     "类型": [
       {
         "value": "自创神通·本源",
         "docId": "plot.xianni-ch1614-cause-effect-seal",
+        "seq": 1521
+      },
+      {
+        "value": "道术",
+        "docId": "plot.xianni-ch1615-kunxu-last-stand-zhuque-star-void-gate",
         "seq": 1521
       }
     ],
@@ -24,12 +33,29 @@
         "value": "王林自创（第四道）",
         "docId": "plot.xianni-ch1614-cause-effect-seal",
         "seq": 1521
+      },
+      {
+        "value": "王林自创（第1615章，因果本源大成时悟出）",
+        "docId": "plot.xianni-ch1615-kunxu-last-stand-zhuque-star-void-gate",
+        "seq": 1521
       }
     ],
     "威力": [
       {
         "value": "凝因果本源于右掌，掌开为因，掌握为果",
         "docId": "plot.xianni-ch1614-cause-effect-seal",
+        "seq": 1521
+      },
+      {
+        "value": "可将人打入因果轮回、自定因果",
+        "docId": "plot.xianni-ch1615-kunxu-last-stand-zhuque-star-void-gate",
+        "seq": 1521
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "第三步大能",
+        "docId": "plot.xianni-ch1615-kunxu-last-stand-zhuque-star-void-gate",
         "seq": 1521
       }
     ]
@@ -53,12 +79,19 @@
       "docId": "plot.xianni-ch1614-cause-effect-seal",
       "dated": false,
       "seq": 1521
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1615-kunxu-last-stand-zhuque-star-void-gate",
+      "dated": false,
+      "seq": 1521
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1614-cause-effect-seal"
+    "plot.xianni-ch1614-cause-effect-seal",
+    "plot.xianni-ch1615-kunxu-last-stand-zhuque-star-void-gate"
   ],
-  "updatedAt": "2026-08-26T06:44:40.272Z"
+  "updatedAt": "2026-08-26T06:47:15.822Z"
 }

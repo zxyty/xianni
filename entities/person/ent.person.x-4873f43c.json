@@ -27,7 +27,7 @@
   ],
   "summary": "留在青光盾气旋神念中的求救者，自称受困于雨之仙界，许诺救者封青龙第一序列、传信者可让四圣宗为其做一件事。",
   "attributes": {
-    "身份": "青龙圣宗（四圣宗）尊者、青龙圣宗圣皇、青龙一脉圣皇、四圣宗圣皇之一、待救者、圣皇、四圣宗青龙一脉圣皇、四圣宗圣皇、四圣宗（合并后）唯一至尊、青龙圣宗/四圣宗之主、四圣宗强者",
+    "身份": "青龙圣宗（四圣宗）尊者、青龙圣宗圣皇、青龙一脉圣皇、四圣宗圣皇之一、待救者、圣皇、四圣宗青龙一脉圣皇、四圣宗圣皇、四圣宗（合并后）唯一至尊、青龙圣宗/四圣宗之主、四圣宗强者、四圣宗之主",
     "称号": "圣尊",
     "存殁": "受困、气息微弱，自称坚持不了太久、失踪、疑被困、待救援、下落不明、失踪待救、被困、在世（受困）、存活、在世、生死不明、死亡、已死",
     "阵营": "四圣宗",
@@ -35,7 +35,8 @@
     "外貌": "白发苍苍、全身干瘦的老者",
     "小阶段": "天人第四衰已度过",
     "标志特征": "八条黑色锁链锁身、体内七寸肉球游走、体上空现血瘤青龙虚影",
-    "性格": "冷厉、深沉、算计、阴沉、冰冷无情、强势、冷峻内敛、有所隐瞒、冷漠萧杀，对朱雀圣皇却暗含难言心血"
+    "性格": "冷厉、深沉、算计、阴沉、冰冷无情、强势、冷峻内敛、有所隐瞒、冷漠萧杀，对朱雀圣皇却暗含难言心血",
+    "元神强度": "天人第五衰巅峰（未至第三步）"
   },
   "observations": {
     "身份": [
@@ -95,6 +96,11 @@
         "value": "四圣宗强者",
         "docId": "plot.xianni-1264-zhixiao-mu-bingmei-tuosen-news",
         "seq": 1178
+      },
+      {
+        "value": "四圣宗之主",
+        "docId": "plot.xianni-ch1615-kunxu-last-stand-zhuque-star-void-gate",
+        "seq": 1521
       }
     ],
     "称号": [
@@ -176,7 +182,8 @@
       {
         "value": "在世",
         "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
-        "seq": 1127
+        "seq": 1127,
+        "note": "本章原文「他没有死」，与第1178章死亡记录相左"
       },
       {
         "value": "生死不明",
@@ -289,6 +296,14 @@
         "docId": "plot.xianni-1211-qinglong-shenghuang-seals-and-mobilizes",
         "seq": 1127
       }
+    ],
+    "元神强度": [
+      {
+        "value": "天人第五衰巅峰（未至第三步）",
+        "docId": "plot.xianni-ch1615-kunxu-last-stand-zhuque-star-void-gate",
+        "seq": 1521,
+        "note": "第1615章"
+      }
     ]
   },
   "firstSeq": 910,
@@ -350,6 +365,13 @@
       "docId": "plot.xianni-1114-tiandao-blood-qinglong-shenghuang-freed",
       "dated": false,
       "seq": 1029
+    },
+    "元神强度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1615-kunxu-last-stand-zhuque-star-void-gate",
+      "dated": false,
+      "seq": 1521,
+      "note": "第1615章"
     }
   },
   "contested": false,
@@ -380,7 +402,8 @@
     "plot.xianni-1281-feng-jie-zhi-yu",
     "plot.xianni-ch1322-mentu-xianghuo-fengxianyin-fusion",
     "plot.xianni-ch1414-dianluo-zhi-ming",
-    "plot.xianni-ch1451-answer-dao-ling-dan-heaven-dao"
+    "plot.xianni-ch1451-answer-dao-ling-dan-heaven-dao",
+    "plot.xianni-ch1615-kunxu-last-stand-zhuque-star-void-gate"
   ],
-  "updatedAt": "2026-08-25T19:37:03.556Z"
+  "updatedAt": "2026-08-26T06:47:15.834Z"
 }
