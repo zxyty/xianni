@@ -9,8 +9,10 @@
   ],
   "summary": "疯子口中反复提及的兄长，曾告知疯子本族鲜血的用法与珍贵（一滴即可如何、可疗天下一切伤势）。",
   "attributes": {
-    "身份": "疯子之兄、仙族尊长",
-    "阵营": "仙族"
+    "身份": "疯子之兄、仙族尊长、皇族",
+    "阵营": "仙族",
+    "种族": "仙族",
+    "标志特征": "拥有不灭体"
   },
   "observations": {
     "身份": [
@@ -23,6 +25,11 @@
         "value": "仙族尊长",
         "docId": "plot.xianni-ch1537-immortal-ancestor-three-seals-immortal-race-immortal-body",
         "seq": 1443
+      },
+      {
+        "value": "皇族",
+        "docId": "plot.xianni-ch1539-jiguo-three-royal-surnames",
+        "seq": 1448
       }
     ],
     "阵营": [
@@ -30,6 +37,20 @@
         "value": "仙族",
         "docId": "plot.xianni-ch1537-immortal-ancestor-three-seals-immortal-race-immortal-body",
         "seq": 1443
+      }
+    ],
+    "种族": [
+      {
+        "value": "仙族",
+        "docId": "plot.xianni-ch1539-jiguo-three-royal-surnames",
+        "seq": 1448
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "拥有不灭体",
+        "docId": "plot.xianni-ch1539-jiguo-three-royal-surnames",
+        "seq": 1448
       }
     ]
   },
@@ -46,13 +67,26 @@
       "docId": "plot.xianni-ch1537-immortal-ancestor-three-seals-immortal-race-immortal-body",
       "dated": false,
       "seq": 1443
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1539-jiguo-three-royal-surnames",
+      "dated": false,
+      "seq": 1448
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1539-jiguo-three-royal-surnames",
+      "dated": false,
+      "seq": 1448
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1536-mad-mans-blood-transforms-wang-lin-bloodline",
-    "plot.xianni-ch1537-immortal-ancestor-three-seals-immortal-race-immortal-body"
+    "plot.xianni-ch1537-immortal-ancestor-three-seals-immortal-race-immortal-body",
+    "plot.xianni-ch1539-jiguo-three-royal-surnames"
   ],
-  "updatedAt": "2026-08-26T02:28:30.146Z"
+  "updatedAt": "2026-08-26T02:32:57.650Z"
 }

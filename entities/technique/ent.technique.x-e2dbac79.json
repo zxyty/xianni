@@ -4,19 +4,26 @@
   "name": "仙人不灭体",
   "aliases": [
     "不灭体",
-    "仙体"
+    "仙体",
+    "皇族不灭体"
   ],
   "summary": "源自仙祖之印的不灭之躯，通体晶莹、仙气无尽，其元神为真正仙人的“元仙”而非修士元神。",
   "attributes": {
-    "出处": "仙祖之印",
+    "出处": "仙祖之印、仙族皇族",
     "效果": "肉身崩溃后可由仙气重凝、赋予不灭之躯",
-    "外显异象": "通体晶莹、仙气缭绕"
+    "外显异象": "通体晶莹、仙气缭绕",
+    "修炼条件": "皇族中仅疯子与其兄二人拥有"
   },
   "observations": {
     "出处": [
       {
         "value": "仙祖之印",
         "docId": "plot.xianni-ch1538-golden-sky-black-earth",
+        "seq": 1448
+      },
+      {
+        "value": "仙族皇族",
+        "docId": "plot.xianni-ch1539-jiguo-three-royal-surnames",
         "seq": 1448
       }
     ],
@@ -37,6 +44,14 @@
         "value": "通体晶莹、仙气缭绕",
         "docId": "plot.xianni-ch1538-golden-sky-black-earth",
         "seq": 1448
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "皇族中仅疯子与其兄二人拥有",
+        "docId": "plot.xianni-ch1539-jiguo-three-royal-surnames",
+        "seq": 1448,
+        "note": "据疯子本章所言"
       }
     ]
   },
@@ -59,12 +74,20 @@
       "docId": "plot.xianni-ch1538-golden-sky-black-earth",
       "dated": false,
       "seq": 1448
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1539-jiguo-three-royal-surnames",
+      "dated": false,
+      "seq": 1448,
+      "note": "据疯子本章所言"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1538-golden-sky-black-earth"
+    "plot.xianni-ch1538-golden-sky-black-earth",
+    "plot.xianni-ch1539-jiguo-three-royal-surnames"
   ],
-  "updatedAt": "2026-08-26T02:30:32.352Z"
+  "updatedAt": "2026-08-26T02:32:57.657Z"
 }
