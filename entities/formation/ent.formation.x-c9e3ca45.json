@@ -4,12 +4,15 @@
   "name": "九百九十九修真星大阵",
   "aliases": [
     "九百九十九星阵法",
-    "罗天星域界内大阵"
+    "罗天星域界内大阵",
+    "修真星之阵",
+    "九百九十九个修真星组成的大阵"
   ],
   "summary": "罗天星域内由九百九十九个修真星组成的磅礴阵法，每星皆有界内修士死守，中心为雾气缭绕的圆形祭坛。",
   "attributes": {
-    "效果": "护住界内修士抵抗数十万界外修士围攻",
-    "布置者": "界内一方"
+    "效果": "护住界内修士抵抗数十万界外修士围攻、界内最后根基，抵御数十万界外修士围攻",
+    "布置者": "界内一方、界内之修",
+    "出处": "由四大星域挑选修真星组成"
   },
   "observations": {
     "效果": [
@@ -17,12 +20,29 @@
         "value": "护住界内修士抵抗数十万界外修士围攻",
         "docId": "lore.kongxuan-realm-virtual-origin-xianghuo-world-cultivation",
         "seq": 1561
+      },
+      {
+        "value": "界内最后根基，抵御数十万界外修士围攻",
+        "docId": "plot.xianni-ch1653-departing-for-luotian",
+        "seq": 1561
       }
     ],
     "布置者": [
       {
         "value": "界内一方",
         "docId": "lore.kongxuan-realm-virtual-origin-xianghuo-world-cultivation",
+        "seq": 1561
+      },
+      {
+        "value": "界内之修",
+        "docId": "plot.xianni-ch1653-departing-for-luotian",
+        "seq": 1561
+      }
+    ],
+    "出处": [
+      {
+        "value": "由四大星域挑选修真星组成",
+        "docId": "plot.xianni-ch1653-departing-for-luotian",
         "seq": 1561
       }
     ]
@@ -40,12 +60,19 @@
       "docId": "lore.kongxuan-realm-virtual-origin-xianghuo-world-cultivation",
       "dated": false,
       "seq": 1561
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1653-departing-for-luotian",
+      "dated": false,
+      "seq": 1561
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.kongxuan-realm-virtual-origin-xianghuo-world-cultivation"
+    "lore.kongxuan-realm-virtual-origin-xianghuo-world-cultivation",
+    "plot.xianni-ch1653-departing-for-luotian"
   ],
-  "updatedAt": "2026-08-26T09:23:37.092Z"
+  "updatedAt": "2026-08-26T09:27:36.708Z"
 }
