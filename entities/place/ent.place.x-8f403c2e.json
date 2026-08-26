@@ -3,13 +3,14 @@
   "type": "place",
   "name": "苏城",
   "aliases": [
-    "苏城河道"
+    "苏城河道",
+    "苏城（桂花酒产地）"
   ],
   "summary": "人方幻界中赵国境内的城池，河道上可租舟船，特产桂花老酒。",
   "attributes": {
-    "所属界面": "人方之幻界（貌如赵国／朱雀星）",
+    "所属界面": "人方界",
     "类型": "凡人城池",
-    "特产": "桂花老酒"
+    "特产": "桂花酒"
   },
   "observations": {
     "所属界面": [
@@ -17,6 +18,11 @@
         "value": "人方之幻界（貌如赵国／朱雀星）",
         "docId": "plot.xianni-ch1406-ruo-hun-bei-ren-fang-zhi-xiang",
         "seq": 1312
+      },
+      {
+        "value": "人方界",
+        "docId": "plot.xianni-ch1594-huishou-yiwang-lunhui-zai",
+        "seq": 1501
       }
     ],
     "类型": [
@@ -31,6 +37,11 @@
         "value": "桂花老酒",
         "docId": "plot.xianni-ch1406-ruo-hun-bei-ren-fang-zhi-xiang",
         "seq": 1312
+      },
+      {
+        "value": "桂花酒",
+        "docId": "plot.xianni-ch1594-huishou-yiwang-lunhui-zai",
+        "seq": 1501
       }
     ]
   },
@@ -38,9 +49,9 @@
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch1406-ruo-hun-bei-ren-fang-zhi-xiang",
+      "docId": "plot.xianni-ch1594-huishou-yiwang-lunhui-zai",
       "dated": false,
-      "seq": 1312
+      "seq": 1501
     },
     "类型": {
       "asOf": null,
@@ -50,15 +61,16 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-ch1406-ruo-hun-bei-ren-fang-zhi-xiang",
+      "docId": "plot.xianni-ch1594-huishou-yiwang-lunhui-zai",
       "dated": false,
-      "seq": 1312
+      "seq": 1501
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1406-ruo-hun-bei-ren-fang-zhi-xiang"
+    "plot.xianni-ch1406-ruo-hun-bei-ren-fang-zhi-xiang",
+    "plot.xianni-ch1594-huishou-yiwang-lunhui-zai"
   ],
-  "updatedAt": "2026-08-25T16:45:59.884Z"
+  "updatedAt": "2026-08-26T06:02:04.758Z"
 }

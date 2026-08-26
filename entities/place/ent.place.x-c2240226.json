@@ -5,13 +5,15 @@
   "aliases": [
     "破庙",
     "土地庙",
-    "赵国官道土地庙"
+    "赵国官道土地庙",
+    "荒野破庙",
+    "雨夜庙宇"
   ],
   "summary": "赵国官道旁林荫间的破败土地庙：半扇庙门破损摇晃嘎吱作响，院中碎石杂草与数具白骨，殿内立数丈高褪色土地像，庙顶碎瓦漏雨。",
   "attributes": {
     "所属界面": "凡俗人间·赵国",
-    "类型": "废弃庙宇",
-    "方位": "赵国官道旁林荫间，距县城约一天路程",
+    "类型": "废弃庙宇、荒废庙宇",
+    "方位": "赵国官道旁林荫间，距县城约一天路程、县城赴考途中的荒野",
     "规模": "庙宇不大，两扇庙门、一进院落与正殿",
     "上级区域": "赵国"
   },
@@ -28,6 +30,11 @@
         "value": "废弃庙宇",
         "docId": "plot.xianni-ch1593-ancient-temple-rainy-night",
         "seq": 1501
+      },
+      {
+        "value": "荒废庙宇",
+        "docId": "plot.xianni-ch1594-huishou-yiwang-lunhui-zai",
+        "seq": 1501
       }
     ],
     "方位": [
@@ -35,6 +42,12 @@
         "value": "赵国官道旁林荫间，距县城约一天路程",
         "docId": "plot.xianni-ch1593-ancient-temple-rainy-night",
         "seq": 1501
+      },
+      {
+        "value": "县城赴考途中的荒野",
+        "docId": "plot.xianni-ch1594-huishou-yiwang-lunhui-zai",
+        "seq": 1501,
+        "note": "梦凡世界"
       }
     ],
     "规模": [
@@ -88,7 +101,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1593-ancient-temple-rainy-night"
+    "plot.xianni-ch1593-ancient-temple-rainy-night",
+    "plot.xianni-ch1594-huishou-yiwang-lunhui-zai"
   ],
-  "updatedAt": "2026-08-26T06:00:21.455Z"
+  "updatedAt": "2026-08-26T06:02:04.754Z"
 }
