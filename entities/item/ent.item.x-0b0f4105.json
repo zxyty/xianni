@@ -6,12 +6,14 @@
     "传送玉简",
     "大罗派传送玉简",
     "叱虎所赠玉简",
-    "开启传送阵的玉简"
+    "开启传送阵的玉简",
+    "云海裂缝传送玉简",
+    "神秘女子所赠玉简"
   ],
   "summary": "四级修真国宗派发放给核心弟子的保命玉简，内蕴传送阵，一定范围内捏碎可瞬回宗派总坛。",
   "attributes": {
-    "类型": "传送凭信",
-    "用途": "开启传送阵、选择目标仙界碎片",
+    "类型": "传送法器",
+    "用途": "传送往云海裂缝",
     "产地": "四级修真国宗派"
   },
   "observations": {
@@ -25,6 +27,11 @@
         "value": "传送凭信",
         "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
         "seq": 281
+      },
+      {
+        "value": "传送法器",
+        "docId": "plot.xianni-1582-yin-yue-you-qing",
+        "seq": 1491
       }
     ],
     "用途": [
@@ -37,6 +44,12 @@
         "value": "开启传送阵、选择目标仙界碎片",
         "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
         "seq": 281
+      },
+      {
+        "value": "传送往云海裂缝",
+        "docId": "plot.xianni-1582-yin-yue-you-qing",
+        "seq": 1491,
+        "note": "在此封印之地没有半点作用"
       }
     ],
     "产地": [
@@ -51,15 +64,16 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
+      "docId": "plot.xianni-1582-yin-yue-you-qing",
       "dated": false,
-      "seq": 281
+      "seq": 1491
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
+      "docId": "plot.xianni-1582-yin-yue-you-qing",
       "dated": false,
-      "seq": 281
+      "seq": 1491,
+      "note": "在此封印之地没有半点作用"
     },
     "产地": {
       "asOf": null,
@@ -73,7 +87,8 @@
   "docs": [
     "plot.xianni-ch231-234-xieyi-nanzi",
     "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
-    "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal"
+    "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
+    "plot.xianni-1582-yin-yue-you-qing"
   ],
-  "updatedAt": "2026-08-02T15:12:09.090Z"
+  "updatedAt": "2026-08-26T05:07:25.674Z"
 }

@@ -7,15 +7,19 @@
     "界外九位仙妃",
     "本妃",
     "仙尊的玩物",
-    "仙妃娘娘"
+    "仙妃娘娘",
+    "五脏奇术女子",
+    "紫衣女子的姐姐"
   ],
   "summary": "带领界外远古仙域之人的九位仙妃，虎视界内，图谋天逆法宝与通往界内远古仙域的通天大路；当年正是仙妃出手灭去封界之尊肉身。",
   "attributes": {
-    "阵营": "界外远古仙域、界外入侵者、界外、太古星辰",
+    "阵营": "界外远古仙域、界外入侵者、界外、太古星辰、设局围杀王林的一方",
     "身份": "仙尊的玩物（拓森语）",
     "性别": "女",
-    "外貌": "风情妩媚尽消，转为狰狞凄厉",
-    "存殁": "重伤存活"
+    "外貌": "面覆巨大阴月、裂缝血漫如厉鬼",
+    "存殁": "重伤存活",
+    "称号": "仙妃",
+    "本命法宝": "古琴"
   },
   "observations": {
     "阵营": [
@@ -38,6 +42,11 @@
         "value": "太古星辰",
         "docId": "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
         "seq": 1439
+      },
+      {
+        "value": "设局围杀王林的一方",
+        "docId": "plot.xianni-1582-yin-yue-you-qing",
+        "seq": 1491
       }
     ],
     "身份": [
@@ -65,6 +74,12 @@
         "docId": "plot.xianni-1476-suming-second-battle-2",
         "seq": 1385,
         "note": "被拓森击退后"
+      },
+      {
+        "value": "面覆巨大阴月、裂缝血漫如厉鬼",
+        "docId": "plot.xianni-1582-yin-yue-you-qing",
+        "seq": 1491,
+        "note": "中阴月有晴之后"
       }
     ],
     "存殁": [
@@ -72,6 +87,20 @@
         "value": "重伤存活",
         "docId": "plot.xianni-1476-suming-second-battle-2",
         "seq": 1385
+      }
+    ],
+    "称号": [
+      {
+        "value": "仙妃",
+        "docId": "plot.xianni-1582-yin-yue-you-qing",
+        "seq": 1491
+      }
+    ],
+    "本命法宝": [
+      {
+        "value": "古琴",
+        "docId": "plot.xianni-1582-yin-yue-you-qing",
+        "seq": 1491
       }
     ]
   },
@@ -97,16 +126,28 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-1476-suming-second-battle-2",
+      "docId": "plot.xianni-1582-yin-yue-you-qing",
       "dated": false,
-      "seq": 1385,
-      "note": "被拓森击退后"
+      "seq": 1491,
+      "note": "中阴月有晴之后"
     },
     "存殁": {
       "asOf": null,
       "docId": "plot.xianni-1476-suming-second-battle-2",
       "dated": false,
       "seq": 1385
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-1582-yin-yue-you-qing",
+      "dated": false,
+      "seq": 1491
+    },
+    "本命法宝": {
+      "asOf": null,
+      "docId": "plot.xianni-1582-yin-yue-you-qing",
+      "dated": false,
+      "seq": 1491
     }
   },
   "contested": false,
@@ -117,7 +158,8 @@
     "plot.xianni-1524-wangao-yiwo-kaitianfu",
     "plot.xianni-ch1525-zang-gu-wu-ren-yi",
     "plot.xianni-ch1526-nanzhao-shangren-dies",
-    "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun"
+    "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
+    "plot.xianni-1582-yin-yue-you-qing"
   ],
-  "updatedAt": "2026-08-26T01:51:33.335Z"
+  "updatedAt": "2026-08-26T05:07:25.652Z"
 }

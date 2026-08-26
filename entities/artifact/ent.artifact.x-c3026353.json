@@ -4,13 +4,14 @@
   "name": "蓝梦道尊的古琴",
   "aliases": [
     "蓝山古琴",
-    "古琴"
+    "古琴",
+    "仙妃的古琴"
   ],
   "summary": "蓝山屋舍中蓝梦道尊反复摩挲追忆的古琴，与其痴情与悲哀的曲乐相连。",
   "attributes": {
-    "持有者": "蓝梦道尊",
-    "外形": "古琴",
-    "能力": "琴音映心，杀伐与仙音并存"
+    "持有者": "仙妃",
+    "外形": "飘于身前的古琴",
+    "能力": "琴音化萧杀波纹与魔念，攻心神"
   },
   "observations": {
     "持有者": [
@@ -18,6 +19,11 @@
         "value": "蓝梦道尊",
         "docId": "plot.xianni-1316-blue-silk-clan-give-her-to-me",
         "seq": 1227
+      },
+      {
+        "value": "仙妃",
+        "docId": "plot.xianni-1582-yin-yue-you-qing",
+        "seq": 1491
       }
     ],
     "外形": [
@@ -25,6 +31,11 @@
         "value": "古琴",
         "docId": "plot.xianni-1316-blue-silk-clan-give-her-to-me",
         "seq": 1227
+      },
+      {
+        "value": "飘于身前的古琴",
+        "docId": "plot.xianni-1582-yin-yue-you-qing",
+        "seq": 1491
       }
     ],
     "能力": [
@@ -32,6 +43,11 @@
         "value": "琴音映心，杀伐与仙音并存",
         "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
         "seq": 1425
+      },
+      {
+        "value": "琴音化萧杀波纹与魔念，攻心神",
+        "docId": "plot.xianni-1582-yin-yue-you-qing",
+        "seq": 1491
       }
     ]
   },
@@ -39,21 +55,21 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-1316-blue-silk-clan-give-her-to-me",
+      "docId": "plot.xianni-1582-yin-yue-you-qing",
       "dated": false,
-      "seq": 1227
+      "seq": 1491
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-1316-blue-silk-clan-give-her-to-me",
+      "docId": "plot.xianni-1582-yin-yue-you-qing",
       "dated": false,
-      "seq": 1227
+      "seq": 1491
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
+      "docId": "plot.xianni-1582-yin-yue-you-qing",
       "dated": false,
-      "seq": 1425
+      "seq": 1491
     }
   },
   "contested": false,
@@ -61,7 +77,8 @@
   "docs": [
     "plot.xianni-1316-blue-silk-clan-give-her-to-me",
     "plot.xianni-1317-blue-mountain-climb-lanyue",
-    "plot.xianni-1516-ru-jie-di-yi-zhan"
+    "plot.xianni-1516-ru-jie-di-yi-zhan",
+    "plot.xianni-1582-yin-yue-you-qing"
   ],
-  "updatedAt": "2026-08-26T01:06:21.771Z"
+  "updatedAt": "2026-08-26T05:07:25.669Z"
 }

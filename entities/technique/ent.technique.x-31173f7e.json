@@ -2,11 +2,14 @@
   "id": "ent.technique.x-31173f7e",
   "type": "technique",
   "name": "白凡三重六道术",
-  "aliases": [],
+  "aliases": [
+    "白凡三重六道"
+  ],
   "summary": "源自已死的白凡的术法，「阴月」为其中一式；天罚殿殿主凭此术认出施法者为清水。",
   "attributes": {
     "出处": "白凡",
-    "效果": "在敌身外生阴云、脸上现明月图腾并爆发万丈阳光崩之"
+    "效果": "在敌身外生阴云、脸上现明月图腾并爆发万丈阳光崩之、呼风唤雨·撒豆成兵、山崩地裂、阴月有晴",
+    "修炼条件": "终式阴月有晴需先施展其余神通铺垫方能推出"
   },
   "observations": {
     "出处": [
@@ -21,6 +24,29 @@
         "value": "在敌身外生阴云、脸上现明月图腾并爆发万丈阳光崩之",
         "docId": "plot.xianni-ch1563-third-dao-fruit",
         "seq": 1471
+      },
+      {
+        "value": "呼风唤雨·撒豆成兵",
+        "docId": "plot.xianni-1582-yin-yue-you-qing",
+        "seq": 1491
+      },
+      {
+        "value": "山崩地裂",
+        "docId": "plot.xianni-1582-yin-yue-you-qing",
+        "seq": 1491
+      },
+      {
+        "value": "阴月有晴",
+        "docId": "plot.xianni-1582-yin-yue-you-qing",
+        "seq": 1491
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "终式阴月有晴需先施展其余神通铺垫方能推出",
+        "docId": "plot.xianni-1582-yin-yue-you-qing",
+        "seq": 1491,
+        "note": "王林不如清水娴熟"
       }
     ]
   },
@@ -37,12 +63,20 @@
       "docId": "plot.xianni-ch1563-third-dao-fruit",
       "dated": false,
       "seq": 1471
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.xianni-1582-yin-yue-you-qing",
+      "dated": false,
+      "seq": 1491,
+      "note": "王林不如清水娴熟"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1563-third-dao-fruit"
+    "plot.xianni-ch1563-third-dao-fruit",
+    "plot.xianni-1582-yin-yue-you-qing"
   ],
-  "updatedAt": "2026-08-26T04:19:49.693Z"
+  "updatedAt": "2026-08-26T05:07:25.662Z"
 }

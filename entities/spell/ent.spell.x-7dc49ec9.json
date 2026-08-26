@@ -4,13 +4,15 @@
   "name": "阴月有晴",
   "aliases": [
     "阴月有晴之术",
-    "阴月有情之术"
+    "阴月有情之术",
+    "阴月宗起手神通第一式",
+    "白凡三重六道术终式"
   ],
   "summary": "六道术中当年极为惊艳的一术，水道子承认若对手会此术会有些麻烦。",
   "attributes": {
-    "类型": "诅咒/持续伤害类神通",
-    "出处": "六道三重仙术",
-    "威力": "如髓入骨，持续爆发恐怖之力"
+    "类型": "诅咒类·持续伤害",
+    "出处": "六道三重仙术、阴月宗、白凡三重六道术",
+    "威力": "重创仙妃、近乎毁容并扩散至颈部"
   },
   "observations": {
     "类型": [
@@ -23,6 +25,11 @@
         "value": "诅咒/持续伤害类神通",
         "docId": "plot.xianni-ch1564-shisan-qicai-realm-collapse-aftermath",
         "seq": 1471
+      },
+      {
+        "value": "诅咒类·持续伤害",
+        "docId": "plot.xianni-1582-yin-yue-you-qing",
+        "seq": 1491
       }
     ],
     "出处": [
@@ -30,6 +37,16 @@
         "value": "六道三重仙术",
         "docId": "plot.xianni-1276-water-daoist-counterattack-shenche-destroyed",
         "seq": 1191
+      },
+      {
+        "value": "阴月宗",
+        "docId": "plot.xianni-1582-yin-yue-you-qing",
+        "seq": 1491
+      },
+      {
+        "value": "白凡三重六道术",
+        "docId": "plot.xianni-1582-yin-yue-you-qing",
+        "seq": 1491
       }
     ],
     "威力": [
@@ -37,6 +54,11 @@
         "value": "如髓入骨，持续爆发恐怖之力",
         "docId": "plot.xianni-ch1564-shisan-qicai-realm-collapse-aftermath",
         "seq": 1471
+      },
+      {
+        "value": "重创仙妃、近乎毁容并扩散至颈部",
+        "docId": "plot.xianni-1582-yin-yue-you-qing",
+        "seq": 1491
       }
     ]
   },
@@ -44,9 +66,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1564-shisan-qicai-realm-collapse-aftermath",
+      "docId": "plot.xianni-1582-yin-yue-you-qing",
       "dated": false,
-      "seq": 1471
+      "seq": 1491
     },
     "出处": {
       "asOf": null,
@@ -56,16 +78,17 @@
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-ch1564-shisan-qicai-realm-collapse-aftermath",
+      "docId": "plot.xianni-1582-yin-yue-you-qing",
       "dated": false,
-      "seq": 1471
+      "seq": 1491
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1276-water-daoist-counterattack-shenche-destroyed",
-    "plot.xianni-ch1564-shisan-qicai-realm-collapse-aftermath"
+    "plot.xianni-ch1564-shisan-qicai-realm-collapse-aftermath",
+    "plot.xianni-1582-yin-yue-you-qing"
   ],
-  "updatedAt": "2026-08-26T04:26:29.802Z"
+  "updatedAt": "2026-08-26T05:07:25.663Z"
 }

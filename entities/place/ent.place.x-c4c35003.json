@@ -12,13 +12,15 @@
     "古之三族封印之地",
     "扭曲之雾内的封印之地",
     "古墓内",
-    "古息叶封印之地"
+    "古息叶封印之地",
+    "此封印之地",
+    "杀局所在之地"
   ],
   "summary": "王林被传送而至的封闭之地，天空蔚蓝但白云尽头疑似肉壁；他判断其非善地却是最佳藏身处。",
   "attributes": {
-    "类型": "封印空间、封印秘境、封印之地、封印空间/秘境、封印之地/古墓、封印秘地",
-    "特产": "玄阴鼎灵、大鼎、血河、古之三族尸骸、千丈平台、四品木道灵、道灵",
-    "危险度": "高（但适合藏身）、高、极高（两名第三步大能交战）、极高",
+    "类型": "封印空间、封印秘境、封印之地、封印空间/秘境、封印之地/古墓、封印秘地、封印·杀局战场",
+    "特产": "玄阴鼎灵、大鼎、血河、古之三族尸骸、千丈平台、四品木道灵、道灵、冰层与可融化的水面",
+    "危险度": "高（但适合藏身）、高、极高（两名第三步大能交战）、极高、极高（禁传送、断灵兽感应）",
     "上级区域": "妖灵之地、古之墓地、古墓、古之墓地外围、第五张地图",
     "守护": "需古息叶方可开启入口",
     "方位": "自此一直向北可离开外围、进入墓地深处",
@@ -55,6 +57,11 @@
         "value": "封印秘地",
         "docId": "plot.xianni-1478-return-home-luotian",
         "seq": 1385
+      },
+      {
+        "value": "封印·杀局战场",
+        "docId": "plot.xianni-1582-yin-yue-you-qing",
+        "seq": 1491
       }
     ],
     "特产": [
@@ -88,6 +95,12 @@
         "docId": "plot.xianni-ch1454-fen-miaoyin-daozun-dahuang-alliance-break",
         "seq": 1360,
         "note": "妙音道尊自大荒上人处所抢"
+      },
+      {
+        "value": "冰层与可融化的水面",
+        "docId": "plot.xianni-1582-yin-yue-you-qing",
+        "seq": 1491,
+        "note": "白衣男子所在处为冰层"
       }
     ],
     "危险度": [
@@ -110,6 +123,11 @@
         "value": "极高",
         "docId": "plot.xianni-ch1454-fen-miaoyin-daozun-dahuang-alliance-break",
         "seq": 1360
+      },
+      {
+        "value": "极高（禁传送、断灵兽感应）",
+        "docId": "plot.xianni-1582-yin-yue-you-qing",
+        "seq": 1491
       }
     ],
     "上级区域": [
@@ -223,7 +241,8 @@
     "plot.xianni-ch1452-dahuang-laodu",
     "plot.xianni-ch1453-han-mu-wang-tian",
     "plot.xianni-ch1454-fen-miaoyin-daozun-dahuang-alliance-break",
-    "plot.xianni-1478-return-home-luotian"
+    "plot.xianni-1478-return-home-luotian",
+    "plot.xianni-1582-yin-yue-you-qing"
   ],
-  "updatedAt": "2026-08-25T22:05:26.922Z"
+  "updatedAt": "2026-08-26T05:07:25.676Z"
 }
