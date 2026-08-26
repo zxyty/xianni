@@ -12,19 +12,22 @@
     "妖卫干瘦老者",
     "天脓地疮老者",
     "远古仙域干瘦老者",
-    "被王林搜魂的干瘦老者"
+    "被王林搜魂的干瘦老者",
+    "记忆结晶的主人",
+    "七彩仙尊的百卫之一"
   ],
   "summary": "性格古怪、自恋好夸的绝世高手，深夜向王林讲解仙门与古仙界碎片法则，索木雕、借出草帽法宝后离去，留下九十九个木雕之约。",
   "attributes": {
     "外貌": "身子干瘦、全身漆黑，常趴伏侧头、伸舌舔唇",
     "性格": "古怪、自恋、好色（心系红粉楼小翠）、怒时略显狂暴",
     "标志特征": "身后可幻化十丈高的漆黑茧形虚影，表面生脓包",
-    "身份": "妖卫",
+    "身份": "七道宗百卫之一",
     "阵营": "受「主人」驱使",
     "存殁": "死亡",
-    "死因": "识海封印被王林以古族不灭指轰破，识海反噬轰灭元神、粉碎骨骼血肉，身体四分五裂爆开",
+    "死因": "茧形虚影被王林拽出捏爆、寂灭黑芒穿体，战后成一具干尸、识海封印被王林以古族不灭指轰破，识海反噬轰灭元神、粉碎骨骼血肉，身体四分五裂爆开、与王林一战后身死，记忆化作结晶",
     "种族": "具仙人血脉",
-    "结局": "记忆结晶被王林夺走"
+    "结局": "记忆结晶被王林夺走",
+    "出身地": "仙罡大陆"
   },
   "observations": {
     "外貌": [
@@ -94,6 +97,11 @@
         "value": "妖卫",
         "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
         "seq": 566
+      },
+      {
+        "value": "七道宗百卫之一",
+        "docId": "plot.xianni-1640-qidao-zong-memory-crystal",
+        "seq": 1546
       }
     ],
     "阵营": [
@@ -120,6 +128,12 @@
         "value": "识海封印被王林以古族不灭指轰破，识海反噬轰灭元神、粉碎骨骼血肉，身体四分五裂爆开",
         "docId": "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
         "seq": 1546
+      },
+      {
+        "value": "与王林一战后身死，记忆化作结晶",
+        "docId": "plot.xianni-1640-qidao-zong-memory-crystal",
+        "seq": 1546,
+        "note": "本章仅见其记忆结晶"
       }
     ],
     "种族": [
@@ -133,6 +147,13 @@
       {
         "value": "记忆结晶被王林夺走",
         "docId": "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
+        "seq": 1546
+      }
+    ],
+    "出身地": [
+      {
+        "value": "仙罡大陆",
+        "docId": "plot.xianni-1640-qidao-zong-memory-crystal",
         "seq": 1546
       }
     ]
@@ -159,9 +180,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
+      "docId": "plot.xianni-1640-qidao-zong-memory-crystal",
       "dated": false,
-      "seq": 566
+      "seq": 1546
     },
     "阵营": {
       "asOf": null,
@@ -177,9 +198,9 @@
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
+      "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
       "dated": false,
-      "seq": 1546
+      "seq": 566
     },
     "种族": {
       "asOf": null,
@@ -192,6 +213,12 @@
       "docId": "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
       "dated": false,
       "seq": 1546
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-1640-qidao-zong-memory-crystal",
+      "dated": false,
+      "seq": 1546
     }
   },
   "contested": false,
@@ -200,7 +227,8 @@
     "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
     "plot.xianni-ch519-tide-recede-golden-token",
     "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
-    "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger"
+    "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
+    "plot.xianni-1640-qidao-zong-memory-crystal"
   ],
-  "updatedAt": "2026-08-26T08:50:35.047Z"
+  "updatedAt": "2026-08-26T08:52:58.210Z"
 }
