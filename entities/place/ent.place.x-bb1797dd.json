@@ -3,13 +3,15 @@
   "type": "place",
   "name": "东北角亭榭",
   "aliases": [
-    "亭榭"
+    "亭榭",
+    "雨中亭榭",
+    "王林所居亭榭"
   ],
   "summary": "位于第一层东北角，内有通往一处储物空间的传送阵，是黑衣男子与村姑美妇争夺之地，也是通往黑雾宫殿路上禁制最少之处。",
   "attributes": {
     "方位": "仙帝洞府第一层东北角",
-    "上级区域": "仙帝洞府第一层",
-    "类型": "亭榭（内藏传送阵）"
+    "上级区域": "朱雀星",
+    "类型": "亭榭"
   },
   "observations": {
     "方位": [
@@ -24,6 +26,11 @@
         "value": "仙帝洞府第一层",
         "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
         "seq": 963
+      },
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch1607-li-muwan-red-butterfly-naming-and-sea-mirage",
+        "seq": 1516
       }
     ],
     "类型": [
@@ -31,6 +38,11 @@
         "value": "亭榭（内藏传送阵）",
         "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
         "seq": 963
+      },
+      {
+        "value": "亭榭",
+        "docId": "plot.xianni-ch1607-li-muwan-red-butterfly-naming-and-sea-mirage",
+        "seq": 1516
       }
     ]
   },
@@ -44,21 +56,22 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
+      "docId": "plot.xianni-ch1607-li-muwan-red-butterfly-naming-and-sea-mirage",
       "dated": false,
-      "seq": 963
+      "seq": 1516
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1045-ci-kong-nie-iron-sword",
+      "docId": "plot.xianni-ch1607-li-muwan-red-butterfly-naming-and-sea-mirage",
       "dated": false,
-      "seq": 963
+      "seq": 1516
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1045-ci-kong-nie-iron-sword"
+    "plot.xianni-1045-ci-kong-nie-iron-sword",
+    "plot.xianni-ch1607-li-muwan-red-butterfly-naming-and-sea-mirage"
   ],
-  "updatedAt": "2026-08-24T09:11:41.291Z"
+  "updatedAt": "2026-08-26T06:29:01.645Z"
 }

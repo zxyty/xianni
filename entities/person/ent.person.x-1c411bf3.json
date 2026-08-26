@@ -8,7 +8,10 @@
     "雪域女子",
     "万年天资第一人",
     "来自雪域的中年女子",
-    "抱婴女子"
+    "抱婴女子",
+    "来自雪域的女子",
+    "抱婴的冷漠女子",
+    "红蝶的养护者"
   ],
   "summary": "雪域出身的绝世天才女修，百年即达化神后期巅峰且从未服丹，被朱雀国破格延揽，其条件促成了对四派联盟的灭国之战。",
   "attributes": {
@@ -18,7 +21,9 @@
     "出身地": "雪域",
     "阵营": "朱雀国",
     "标志特征": "所过之处雨水成冰晶，身后天空冰封；怀抱不沾雨水的婴儿",
-    "外貌": "已入中年，容颜娇美，冷意弥漫、萧杀如罗刹"
+    "外貌": "已入中年，容颜娇美，冷意弥漫、萧杀如罗刹",
+    "性格": "神色冷漠、双目如蕴寒风",
+    "身份": "红蝶的养育与护持者、擅长推衍计算的修者"
   },
   "observations": {
     "性别": [
@@ -80,6 +85,25 @@
         "docId": "plot.xianni-ch1606-ke-cong-xueyu-lai",
         "seq": 1516
       }
+    ],
+    "性格": [
+      {
+        "value": "神色冷漠、双目如蕴寒风",
+        "docId": "plot.xianni-ch1607-li-muwan-red-butterfly-naming-and-sea-mirage",
+        "seq": 1516
+      }
+    ],
+    "身份": [
+      {
+        "value": "红蝶的养育与护持者",
+        "docId": "plot.xianni-ch1607-li-muwan-red-butterfly-naming-and-sea-mirage",
+        "seq": 1516
+      },
+      {
+        "value": "擅长推衍计算的修者",
+        "docId": "plot.xianni-ch1607-li-muwan-red-butterfly-naming-and-sea-mirage",
+        "seq": 1516
+      }
     ]
   },
   "firstSeq": 253,
@@ -126,13 +150,26 @@
       "docId": "plot.xianni-ch1606-ke-cong-xueyu-lai",
       "dated": false,
       "seq": 1516
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1607-li-muwan-red-butterfly-naming-and-sea-mirage",
+      "dated": false,
+      "seq": 1516
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1607-li-muwan-red-butterfly-naming-and-sea-mirage",
+      "dated": false,
+      "seq": 1516
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
-    "plot.xianni-ch1606-ke-cong-xueyu-lai"
+    "plot.xianni-ch1606-ke-cong-xueyu-lai",
+    "plot.xianni-ch1607-li-muwan-red-butterfly-naming-and-sea-mirage"
   ],
-  "updatedAt": "2026-08-26T06:26:38.205Z"
+  "updatedAt": "2026-08-26T06:29:01.638Z"
 }
