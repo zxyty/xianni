@@ -960,3 +960,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T06:43:06.500Z** `ingest` plot.xianni-ch1613-dream-awakening-suzhou-illusion-collapse — 第1613章 梦醒！——化凡之梦终结，王林悟「缘起性空，真空妙有」 · kind=plot asOf=2026-08-26 entities=34 relations=28 src=01521-01525.p3.md
 - **2026-08-26T06:44:40.679Z** `ingest` plot.xianni-ch1614-cause-effect-seal — 第1614章 因果印——王林梦醒，凝雷火本源与自创第四神通 · kind=plot asOf=2026-08-26 entities=15 relations=16 src=01521-01525.p4.md
 - **2026-08-26T06:47:16.256Z** `ingest` plot.xianni-ch1615-kunxu-last-stand-zhuque-star-void-gate — 第1615章 众修目前空门现：昆虚最后一战与王林因果印大成 · kind=plot asOf=2026-08-26 entities=28 relations=40 src=01521-01525.p5.md
+- **2026-08-26T07:06:30.673Z** `ingest` plot.xianni-ch1526-1530-six-source-void-gate — 仙逆 第1526-1530章：六道本源引动空门，虚神天尊分身临朱雀星 · kind=plot asOf=2026-08-26 entities=68 relations=130 src=01526-01530.md

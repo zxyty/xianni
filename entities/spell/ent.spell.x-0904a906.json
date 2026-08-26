@@ -4,13 +4,16 @@
   "name": "号令天地雷霆",
   "aliases": [
     "这天地间一切雷霆听我号令崩",
-    "崩雷之术"
+    "崩雷之术",
+    "以我王林之名，号令天地雷霆",
+    "雷霆一拳"
   ],
   "summary": "王林抬手一挥即令天地间雷霆崩灭的手段，瞬息碎灭周天子的雷龙。",
   "attributes": {
-    "类型": "雷之掌控/破法",
-    "威力": "一挥间令雷龙自龙头蔓延崩碎",
-    "消耗": "轻描淡写（仅抬手一挥）"
+    "类型": "雷法/本源神通",
+    "威力": "当年同一拳的数倍不止，一拳震得数万修士喷血倒卷",
+    "消耗": "轻描淡写（仅抬手一挥）",
+    "适用境界": "六道本源大成"
   },
   "observations": {
     "类型": [
@@ -18,6 +21,11 @@
         "value": "雷之掌控/破法",
         "docId": "plot.xianni-ch1338-kill-zhou-tianzi",
         "seq": 1250
+      },
+      {
+        "value": "雷法/本源神通",
+        "docId": "plot.xianni-ch1526-1530-six-source-void-gate",
+        "seq": 1526
       }
     ],
     "威力": [
@@ -25,6 +33,11 @@
         "value": "一挥间令雷龙自龙头蔓延崩碎",
         "docId": "plot.xianni-ch1338-kill-zhou-tianzi",
         "seq": 1250
+      },
+      {
+        "value": "当年同一拳的数倍不止，一拳震得数万修士喷血倒卷",
+        "docId": "plot.xianni-ch1526-1530-six-source-void-gate",
+        "seq": 1526
       }
     ],
     "消耗": [
@@ -33,33 +46,47 @@
         "docId": "plot.xianni-ch1338-kill-zhou-tianzi",
         "seq": 1250
       }
+    ],
+    "适用境界": [
+      {
+        "value": "六道本源大成",
+        "docId": "plot.xianni-ch1526-1530-six-source-void-gate",
+        "seq": 1526
+      }
     ]
   },
   "firstSeq": 1250,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1338-kill-zhou-tianzi",
+      "docId": "plot.xianni-ch1526-1530-six-source-void-gate",
       "dated": false,
-      "seq": 1250
+      "seq": 1526
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-ch1338-kill-zhou-tianzi",
+      "docId": "plot.xianni-ch1526-1530-six-source-void-gate",
       "dated": false,
-      "seq": 1250
+      "seq": 1526
     },
     "消耗": {
       "asOf": null,
       "docId": "plot.xianni-ch1338-kill-zhou-tianzi",
       "dated": false,
       "seq": 1250
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1526-1530-six-source-void-gate",
+      "dated": false,
+      "seq": 1526
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1338-kill-zhou-tianzi"
+    "plot.xianni-ch1338-kill-zhou-tianzi",
+    "plot.xianni-ch1526-1530-six-source-void-gate"
   ],
-  "updatedAt": "2026-08-25T11:40:11.836Z"
+  "updatedAt": "2026-08-26T07:06:30.029Z"
 }

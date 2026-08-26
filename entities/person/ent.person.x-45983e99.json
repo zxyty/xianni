@@ -6,18 +6,22 @@
     "雾气所化之人",
     "太古五尊之一虚神天尊",
     "太吉五尊之一（原文误写）",
-    "虚神"
+    "虚神",
+    "太古五尊虚神天尊",
+    "紫雾老者"
   ],
   "summary": "自称太古五尊之一，由模糊雾气所化、看不出男女老少；本章末现身一掌拍飞王林，吞食其金色仙血，宣称要夺走王林的仙人不灭体。",
   "attributes": {
-    "称号": "虚神天尊、太古五尊之一",
-    "身份": "太古五尊之一",
-    "外貌": "全身由模糊雾气所化，雾气如烟丝飘散，看不出男女老少、身子完全由雾气组成、一团雾气所化、身穿黑衣的老者",
-    "性格": "贪婪、桀骜、贪婪、狞笑、见势不妙即抽身",
-    "存殁": "存活、死亡、已于第1491章死亡、已死",
-    "阵营": "围攻王林一方、太古星辰、界外、王林之敌",
+    "称号": "虚神天尊、太古五尊之一、天尊",
+    "身份": "太古五尊",
+    "外貌": "全身由模糊雾气所化，雾气如烟丝飘散，看不出男女老少、身子完全由雾气组成、一团雾气所化、身穿黑衣的老者、神色不怒自威的老者",
+    "性格": "贪婪、桀骜、贪婪、狞笑、见势不妙即抽身、阴沉、狠辣",
+    "存殁": "存活、死亡、已于第1491章死亡、已死、本片段以分身现身",
+    "阵营": "围攻王林一方、太古星辰、界外、王林之敌、界外太古星辰",
     "死因": "被王林以李家弓箭一箭穿透眉心，身体爆开化雾消散",
-    "结局": "投影崩溃消散，死前指控掌尊"
+    "结局": "投影崩溃消散，死前指控掌尊",
+    "分身": "本章到场者为分身、分身来此",
+    "小阶段": "空玄初期"
   },
   "observations": {
     "称号": [
@@ -30,6 +34,11 @@
         "value": "太古五尊之一",
         "docId": "plot.xianni-ch1584-xushen-tianzun-seizes-wang-lin-body",
         "seq": 1491
+      },
+      {
+        "value": "天尊",
+        "docId": "plot.xianni-ch1526-1530-six-source-void-gate",
+        "seq": 1526
       }
     ],
     "身份": [
@@ -37,6 +46,11 @@
         "value": "太古五尊之一",
         "docId": "plot.xianni-ch1583-immortal-indestructible-body",
         "seq": 1491
+      },
+      {
+        "value": "太古五尊",
+        "docId": "plot.xianni-ch1526-1530-six-source-void-gate",
+        "seq": 1526
       }
     ],
     "外貌": [
@@ -59,6 +73,11 @@
         "value": "身穿黑衣的老者",
         "docId": "plot.xianni-ch1585-one-arrow-power-li-family-bow",
         "seq": 1491
+      },
+      {
+        "value": "神色不怒自威的老者",
+        "docId": "plot.xianni-ch1526-1530-six-source-void-gate",
+        "seq": 1526
       }
     ],
     "性格": [
@@ -71,6 +90,11 @@
         "value": "贪婪、狞笑、见势不妙即抽身",
         "docId": "plot.xianni-ch1584-xushen-tianzun-seizes-wang-lin-body",
         "seq": 1491
+      },
+      {
+        "value": "阴沉、狠辣",
+        "docId": "plot.xianni-ch1526-1530-six-source-void-gate",
+        "seq": 1526
       }
     ],
     "存殁": [
@@ -94,6 +118,12 @@
         "docId": "plot.xianni-ch1614-cause-effect-seal",
         "seq": 1521,
         "note": "第1491章死亡；本章为王林点名追述"
+      },
+      {
+        "value": "本片段以分身现身",
+        "docId": "plot.xianni-ch1526-1530-six-source-void-gate",
+        "seq": 1526,
+        "note": "据世界状态须知，虚神天尊已于第1491章死亡，此处为其分身行动"
       }
     ],
     "阵营": [
@@ -117,6 +147,11 @@
         "value": "王林之敌",
         "docId": "plot.xianni-ch1614-cause-effect-seal",
         "seq": 1521
+      },
+      {
+        "value": "界外太古星辰",
+        "docId": "plot.xianni-ch1526-1530-six-source-void-gate",
+        "seq": 1526
       }
     ],
     "死因": [
@@ -132,6 +167,27 @@
         "docId": "plot.xianni-ch1585-one-arrow-power-li-family-bow",
         "seq": 1491
       }
+    ],
+    "分身": [
+      {
+        "value": "本章到场者为分身",
+        "docId": "plot.xianni-ch1526-1530-six-source-void-gate",
+        "seq": 1526,
+        "note": "非本尊"
+      },
+      {
+        "value": "分身来此",
+        "docId": "plot.xianni-ch1526-1530-six-source-void-gate",
+        "seq": 1526,
+        "note": "本尊未至"
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "空玄初期",
+        "docId": "plot.xianni-ch1526-1530-six-source-void-gate",
+        "seq": 1526
+      }
     ]
   },
   "firstSeq": 1491,
@@ -144,9 +200,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1583-immortal-indestructible-body",
+      "docId": "plot.xianni-ch1526-1530-six-source-void-gate",
       "dated": false,
-      "seq": 1491
+      "seq": 1526
     },
     "外貌": {
       "asOf": null,
@@ -184,6 +240,19 @@
       "docId": "plot.xianni-ch1585-one-arrow-power-li-family-bow",
       "dated": false,
       "seq": 1491
+    },
+    "分身": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1526-1530-six-source-void-gate",
+      "dated": false,
+      "seq": 1526,
+      "note": "非本尊"
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1526-1530-six-source-void-gate",
+      "dated": false,
+      "seq": 1526
     }
   },
   "contested": false,
@@ -193,7 +262,8 @@
     "plot.xianni-ch1584-xushen-tianzun-seizes-wang-lin-body",
     "plot.xianni-ch1585-one-arrow-power-li-family-bow",
     "plot.xianni-1611-hongyan-dream-life-with-li-muwan",
-    "plot.xianni-ch1614-cause-effect-seal"
+    "plot.xianni-ch1614-cause-effect-seal",
+    "plot.xianni-ch1526-1530-six-source-void-gate"
   ],
-  "updatedAt": "2026-08-26T06:44:40.284Z"
+  "updatedAt": "2026-08-26T07:06:30.084Z"
 }
