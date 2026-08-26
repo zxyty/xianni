@@ -991,3 +991,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T09:25:21.007Z** `ingest` plot.xianni-ch1652-yunhai-life-death-formation — 第1652章 强！——王林云海屠界外修士、结生死大阵 · kind=plot asOf=2026-08-26 entities=17 relations=21 src=01561-01565.p2.md
 - **2026-08-26T09:27:37.155Z** `ingest` plot.xianni-ch1653-departing-for-luotian — 第1653章 去往罗天：生死大阵灭陆，王林携生死·因果双转轮踏入罗天战场 · kind=plot asOf=2026-08-26 entities=22 relations=30 src=01561-01565.p3.md
 - **2026-08-26T09:30:22.441Z** `ingest` plot.xianni-ch1654-qingshui-daughter-star-formation-final-battle — 第1654章 清水的女儿——星阵最后防线崩塌与封尊旧部死战 · kind=plot asOf=2026-08-26 entities=32 relations=33 src=01561-01565.p4.md
+- **2026-08-26T09:32:42.912Z** `ingest` plot.xianni-ch1655-zhangzun-appears-qingshui-saves-daughter — 第1655章 掌尊现！——清水舍命护女，掌尊本尊入界，王林之箭破空 · kind=plot asOf=2026-08-26 entities=25 relations=39 src=01561-01565.p5.md
