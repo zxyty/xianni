@@ -3,13 +3,17 @@
   "type": "artifact",
   "name": "阵灵蓝色短剑",
   "aliases": [
-    "蓝色短剑"
+    "蓝色短剑",
+    "寒剑",
+    "冰锥短剑"
   ],
   "summary": "封界大阵凝出的第二件阵灵兵器，带滔天剑气与阴寒直奔拓森。",
   "attributes": {
     "来历": "封界大阵阵灵凝聚",
-    "能力": "滔天剑气、阴寒",
-    "外形": "蓝色短剑"
+    "能力": "滔天剑气、阴寒、化冰锥、天地寒霜、冻结光影盾",
+    "外形": "蓝色短剑",
+    "持有者": "白衣男子",
+    "五行属性": "冰/寒"
   },
   "observations": {
     "来历": [
@@ -29,6 +33,21 @@
         "value": "阴寒",
         "docId": "plot.xianni-ch1218-feng-jie-zhi-zhen",
         "seq": 1132
+      },
+      {
+        "value": "化冰锥",
+        "docId": "plot.xianni-1579-fengzun-shajie",
+        "seq": 1486
+      },
+      {
+        "value": "天地寒霜",
+        "docId": "plot.xianni-1579-fengzun-shajie",
+        "seq": 1486
+      },
+      {
+        "value": "冻结光影盾",
+        "docId": "plot.xianni-1579-fengzun-shajie",
+        "seq": 1486
       }
     ],
     "外形": [
@@ -36,6 +55,20 @@
         "value": "蓝色短剑",
         "docId": "plot.xianni-ch1218-feng-jie-zhi-zhen",
         "seq": 1132
+      }
+    ],
+    "持有者": [
+      {
+        "value": "白衣男子",
+        "docId": "plot.xianni-1579-fengzun-shajie",
+        "seq": 1486
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "冰/寒",
+        "docId": "plot.xianni-1579-fengzun-shajie",
+        "seq": 1486
       }
     ]
   },
@@ -58,12 +91,25 @@
       "docId": "plot.xianni-ch1218-feng-jie-zhi-zhen",
       "dated": false,
       "seq": 1132
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.xianni-1579-fengzun-shajie",
+      "dated": false,
+      "seq": 1486
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.xianni-1579-fengzun-shajie",
+      "dated": false,
+      "seq": 1486
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1218-feng-jie-zhi-zhen"
+    "plot.xianni-ch1218-feng-jie-zhi-zhen",
+    "plot.xianni-1579-fengzun-shajie"
   ],
-  "updatedAt": "2026-08-25T01:58:56.855Z"
+  "updatedAt": "2026-08-26T05:00:04.575Z"
 }

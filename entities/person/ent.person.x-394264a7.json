@@ -11,19 +11,22 @@
     "天水部落灰衣老者",
     "部族灰衣老者",
     "撤阵的灰衣老者",
-    "山谷外灰衣老者"
+    "山谷外灰衣老者",
+    "模糊的灰衣老者",
+    "香火长龙老者"
   ],
   "summary": "云天宗外宗长老之一，修为元婴中期圆满，被誉为近百年最可能进入后期成为始祖者。为孙镇伟布防王林之事。",
   "attributes": {
     "性别": "男",
     "小阶段": "元婴中期圆满、元婴中期、化神中期",
-    "身份": "部族长辈、阵法知情者",
-    "外貌": "身穿灰衣的老者",
-    "阵营": "炼魂部落（被吸收）",
+    "身份": "围杀者",
+    "外貌": "身子一片模糊的灰衣老者",
+    "阵营": "太古星辰",
     "存殁": "死亡",
     "结局": "意境被破、道心被强行磨灭，化神修为立刻跌落",
     "死因": "王林极境神识重创、青铜古镜擒杀",
-    "性格": "谨慎务实、审时度势"
+    "性格": "谨慎务实、审时度势",
+    "标志特征": "指风化灰色长龙，龙内含庞杂香火之力"
   },
   "observations": {
     "性别": [
@@ -60,6 +63,11 @@
         "value": "部族长辈、阵法知情者",
         "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
         "seq": 514
+      },
+      {
+        "value": "围杀者",
+        "docId": "plot.xianni-1579-fengzun-shajie",
+        "seq": 1486
       }
     ],
     "外貌": [
@@ -77,6 +85,11 @@
         "value": "身穿灰衣的老者",
         "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
         "seq": 510
+      },
+      {
+        "value": "身子一片模糊的灰衣老者",
+        "docId": "plot.xianni-1579-fengzun-shajie",
+        "seq": 1486
       }
     ],
     "阵营": [
@@ -89,6 +102,11 @@
         "value": "炼魂部落（被吸收）",
         "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
         "seq": 514
+      },
+      {
+        "value": "太古星辰",
+        "docId": "plot.xianni-1579-fengzun-shajie",
+        "seq": 1486
       }
     ],
     "存殁": [
@@ -133,6 +151,13 @@
         "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
         "seq": 514
       }
+    ],
+    "标志特征": [
+      {
+        "value": "指风化灰色长龙，龙内含庞杂香火之力",
+        "docId": "plot.xianni-1579-fengzun-shajie",
+        "seq": 1486
+      }
     ]
   },
   "firstSeq": 208,
@@ -151,21 +176,21 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
+      "docId": "plot.xianni-1579-fengzun-shajie",
       "dated": false,
-      "seq": 514
+      "seq": 1486
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
+      "docId": "plot.xianni-1579-fengzun-shajie",
       "dated": false,
-      "seq": 510
+      "seq": 1486
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
+      "docId": "plot.xianni-1579-fengzun-shajie",
       "dated": false,
-      "seq": 514
+      "seq": 1486
     },
     "存殁": {
       "asOf": null,
@@ -190,6 +215,12 @@
       "docId": "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
       "dated": false,
       "seq": 514
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-1579-fengzun-shajie",
+      "dated": false,
+      "seq": 1486
     }
   },
   "contested": false,
@@ -198,7 +229,8 @@
     "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
     "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
     "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
-    "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground"
+    "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
+    "plot.xianni-1579-fengzun-shajie"
   ],
-  "updatedAt": "2026-08-22T02:43:48.208Z"
+  "updatedAt": "2026-08-26T05:00:04.555Z"
 }

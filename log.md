@@ -923,3 +923,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T04:52:44.523Z** `ingest` plot.xianni-1576-yuanyou-daogu-left-eye-arrow-truth — 仙逆 第1576章 缘由：贯穿星空断层界的道古之箭真相 · kind=plot asOf=2026-08-26 entities=26 relations=40 src=01486-01490.p1.md
 - **2026-08-26T04:55:23.547Z** `ingest` plot.xianni-1577-yuwai — 《仙逆》第1577章 域外——王林温养古妖雕像、收服道古之箭、发现域外战场 · kind=plot asOf=2026-08-26 entities=25 relations=38 src=01486-01490.p2.md
 - **2026-08-26T04:57:50.638Z** `ingest` plot.xianni-ch1578-tianbian-yuwai-zhanchang-men-fragment — 仙逆 第1578章 天变！——域外战场竟是「门」的碎片，王林遭遇生死大劫前兆 · kind=plot asOf=2026-08-26 entities=32 relations=37 src=01486-01490.p3.md
+- **2026-08-26T05:00:04.946Z** `ingest` plot.xianni-1579-fengzun-shajie — 第1579章 封尊杀劫！——蓝梦道尊布下的镜像朱雀星围杀 · kind=plot asOf=2026-08-26 entities=20 relations=32 src=01486-01490.p4.md

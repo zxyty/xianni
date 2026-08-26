@@ -1,38 +1,40 @@
 {
-  "id": "ent.person.x-9a3b05a9",
-  "type": "person",
-  "name": "远古仙妃",
-  "aliases": [],
-  "summary": "曾预言天空征兆之人，本章未现身，其所说的征兆再次出现引发太古星辰群雄震动。",
+  "id": "ent.place.x-74c75af3",
+  "type": "place",
+  "name": "镜像朱雀星山峰",
+  "aliases": [
+    "王林所站的山峰"
+  ],
+  "summary": "王林在被剥离的朱雀星上所立山巅，四周乌云滚滚、雷霆咆哮、大雨倾盆；界内同一山峰则风和日丽、空无一人。",
   "attributes": {
-    "身份": "封困天地的布置参与者",
-    "阵营": "太古星辰一方"
+    "类型": "山峰",
+    "上级区域": "朱雀星"
   },
   "observations": {
-    "身份": [
+    "类型": [
       {
-        "value": "封困天地的布置参与者",
+        "value": "山峰",
         "docId": "plot.xianni-1579-fengzun-shajie",
         "seq": 1486
       }
     ],
-    "阵营": [
+    "上级区域": [
       {
-        "value": "太古星辰一方",
+        "value": "朱雀星",
         "docId": "plot.xianni-1579-fengzun-shajie",
         "seq": 1486
       }
     ]
   },
-  "firstSeq": 1275,
+  "firstSeq": 1486,
   "attrProvenance": {
-    "身份": {
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-1579-fengzun-shajie",
       "dated": false,
       "seq": 1486
     },
-    "阵营": {
+    "上级区域": {
       "asOf": null,
       "docId": "plot.xianni-1579-fengzun-shajie",
       "dated": false,
@@ -42,8 +44,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1362-tiandao-envoy-reappears",
     "plot.xianni-1579-fengzun-shajie"
   ],
-  "updatedAt": "2026-08-26T05:00:04.561Z"
+  "updatedAt": "2026-08-26T05:00:04.566Z"
 }
