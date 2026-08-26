@@ -858,3 +858,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T00:14:03.666Z** `ingest` plot.xianni-1504-lie-youming-4-seven-star-soul-seal-and-seven-color-realm — 第1504章 猎幽冥（四）：七星魂封告成与幽冥兽体内的七彩界 · kind=plot asOf=2026-08-26 entities=16 relations=24 src=01415-01419.p1.md
 - **2026-08-26T00:16:11.172Z** `ingest` plot.xianni-ch1505-lian-refine-star-space-force-out-youming-beast — 第1505章 炼！——王林祭炼八千万丈星空逼出幽冥兽 · kind=plot asOf=2026-08-26 entities=23 relations=27 src=01415-01419.p2.md
 - **2026-08-26T00:18:16.162Z** `ingest` plot.xianni-1506-benming-zhi-shou-youming-shou — 第1506章 本命之兽！——王林以昆极鞭百鞭三封幽冥兽，收为本命之兽并取出道果 · kind=plot asOf=2026-08-26 entities=17 relations=23 src=01415-01419.p3.md
+- **2026-08-26T00:20:52.611Z** `ingest` plot.xianni-1507-fengmiezu-jitan-blood-star — 第1507章 封灭族祭坛——血星裂缝中的心斗与血阁 · kind=plot asOf=2026-08-26 entities=25 relations=36 src=01415-01419.p4.md

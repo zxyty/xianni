@@ -4,13 +4,14 @@
   "name": "三命之术",
   "aliases": [
     "三命",
-    "封灭族三命之术"
+    "封灭族三命之术",
+    "三条性命之术"
   ],
   "summary": "封灭族祭祖后随族印而来的秘术，使族人一生有三条命；可被他人夺走自用，但须往封灭族祭坛施行，成功率低且失败会反噬。",
   "attributes": {
-    "出处": "封灭族祭祖/族印",
-    "效果": "一生三命；可被他人夺取自用",
-    "修炼条件": "须往封灭族祭坛施行夺取"
+    "出处": "远古仙界祭坛",
+    "效果": "成功者拥有三条性命",
+    "修炼条件": "需拥有莫大造化"
   },
   "observations": {
     "出处": [
@@ -18,6 +19,11 @@
         "value": "封灭族祭祖/族印",
         "docId": "plot.xianni-ch1460-si-xi-four-joys",
         "seq": 1370
+      },
+      {
+        "value": "远古仙界祭坛",
+        "docId": "plot.xianni-1507-fengmiezu-jitan-blood-star",
+        "seq": 1415
       }
     ],
     "效果": [
@@ -25,6 +31,11 @@
         "value": "一生三命；可被他人夺取自用",
         "docId": "plot.xianni-ch1460-si-xi-four-joys",
         "seq": 1370
+      },
+      {
+        "value": "成功者拥有三条性命",
+        "docId": "plot.xianni-1507-fengmiezu-jitan-blood-star",
+        "seq": 1415
       }
     ],
     "修炼条件": [
@@ -33,6 +44,11 @@
         "docId": "plot.xianni-ch1460-si-xi-four-joys",
         "seq": 1370,
         "note": "祭坛已失踪太久，成功率低、失败反噬"
+      },
+      {
+        "value": "需拥有莫大造化",
+        "docId": "plot.xianni-1507-fengmiezu-jitan-blood-star",
+        "seq": 1415
       }
     ]
   },
@@ -40,28 +56,28 @@
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch1460-si-xi-four-joys",
+      "docId": "plot.xianni-1507-fengmiezu-jitan-blood-star",
       "dated": false,
-      "seq": 1370
+      "seq": 1415
     },
     "效果": {
       "asOf": null,
-      "docId": "plot.xianni-ch1460-si-xi-four-joys",
+      "docId": "plot.xianni-1507-fengmiezu-jitan-blood-star",
       "dated": false,
-      "seq": 1370
+      "seq": 1415
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.xianni-ch1460-si-xi-four-joys",
+      "docId": "plot.xianni-1507-fengmiezu-jitan-blood-star",
       "dated": false,
-      "seq": 1370,
-      "note": "祭坛已失踪太久，成功率低、失败反噬"
+      "seq": 1415
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1460-si-xi-four-joys"
+    "plot.xianni-ch1460-si-xi-four-joys",
+    "plot.xianni-1507-fengmiezu-jitan-blood-star"
   ],
-  "updatedAt": "2026-08-25T21:08:17.135Z"
+  "updatedAt": "2026-08-26T00:20:52.235Z"
 }
