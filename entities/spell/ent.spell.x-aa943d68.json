@@ -3,12 +3,15 @@
   "type": "spell",
   "name": "魂杀",
   "aliases": [
-    "魂，杀"
+    "魂，杀",
+    "九甲鬼影",
+    "指甲鬼影术"
   ],
   "summary": "周天神通：一指眉心，脸生黑纹，天灵现环形黑圈疯狂蔓延，触体化细线钻入敌人体内。",
   "attributes": {
-    "类型": "魂道侵袭神通",
-    "出处": "周天"
+    "类型": "魂系/鬼影类神通",
+    "出处": "周天",
+    "威力": "指甲刺入体内可令伤口化作泥土（与土术协同）"
   },
   "observations": {
     "类型": [
@@ -16,6 +19,11 @@
         "value": "魂道侵袭神通",
         "docId": "plot.xianni-ch917-luotian-counterattack",
         "seq": 853
+      },
+      {
+        "value": "魂系/鬼影类神通",
+        "docId": "plot.xianni-ch1580-fierce-battle-three-elders-siege",
+        "seq": 1486
       }
     ],
     "出处": [
@@ -24,27 +32,41 @@
         "docId": "plot.xianni-ch917-luotian-counterattack",
         "seq": 853
       }
+    ],
+    "威力": [
+      {
+        "value": "指甲刺入体内可令伤口化作泥土（与土术协同）",
+        "docId": "plot.xianni-ch1580-fierce-battle-three-elders-siege",
+        "seq": 1486
+      }
     ]
   },
   "firstSeq": 853,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch917-luotian-counterattack",
+      "docId": "plot.xianni-ch1580-fierce-battle-three-elders-siege",
       "dated": false,
-      "seq": 853
+      "seq": 1486
     },
     "出处": {
       "asOf": null,
       "docId": "plot.xianni-ch917-luotian-counterattack",
       "dated": false,
       "seq": 853
+    },
+    "威力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1580-fierce-battle-three-elders-siege",
+      "dated": false,
+      "seq": 1486
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch917-luotian-counterattack"
+    "plot.xianni-ch917-luotian-counterattack",
+    "plot.xianni-ch1580-fierce-battle-three-elders-siege"
   ],
-  "updatedAt": "2026-08-23T20:01:28.582Z"
+  "updatedAt": "2026-08-26T05:02:20.568Z"
 }

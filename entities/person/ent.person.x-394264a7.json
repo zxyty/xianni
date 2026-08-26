@@ -13,7 +13,8 @@
     "撤阵的灰衣老者",
     "山谷外灰衣老者",
     "模糊的灰衣老者",
-    "香火长龙老者"
+    "香火长龙老者",
+    "土系灰衣老者"
   ],
   "summary": "云天宗外宗长老之一，修为元婴中期圆满，被誉为近百年最可能进入后期成为始祖者。为孙镇伟布防王林之事。",
   "attributes": {
@@ -21,12 +22,12 @@
     "小阶段": "元婴中期圆满、元婴中期、化神中期",
     "身份": "围杀者",
     "外貌": "身子一片模糊的灰衣老者",
-    "阵营": "太古星辰",
-    "存殁": "死亡",
+    "阵营": "云天宗、炼魂部落（被吸收）、太古星辰、界外太古星辰围杀方",
+    "存殁": "存活（受伤吐血）",
     "结局": "意境被破、道心被强行磨灭，化神修为立刻跌落",
     "死因": "王林极境神识重创、青铜古镜擒杀",
     "性格": "谨慎务实、审时度势",
-    "标志特征": "指风化灰色长龙，龙内含庞杂香火之力"
+    "标志特征": "指风化灰色长龙，龙内含庞杂香火之力、土黄之力、指化泥土、香火之魂"
   },
   "observations": {
     "性别": [
@@ -107,6 +108,11 @@
         "value": "太古星辰",
         "docId": "plot.xianni-1579-fengzun-shajie",
         "seq": 1486
+      },
+      {
+        "value": "界外太古星辰围杀方",
+        "docId": "plot.xianni-ch1580-fierce-battle-three-elders-siege",
+        "seq": 1486
       }
     ],
     "存殁": [
@@ -114,6 +120,11 @@
         "value": "死亡",
         "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
         "seq": 208
+      },
+      {
+        "value": "存活（受伤吐血）",
+        "docId": "plot.xianni-ch1580-fierce-battle-three-elders-siege",
+        "seq": 1486
       }
     ],
     "结局": [
@@ -157,6 +168,21 @@
         "value": "指风化灰色长龙，龙内含庞杂香火之力",
         "docId": "plot.xianni-1579-fengzun-shajie",
         "seq": 1486
+      },
+      {
+        "value": "土黄之力",
+        "docId": "plot.xianni-ch1580-fierce-battle-three-elders-siege",
+        "seq": 1486
+      },
+      {
+        "value": "指化泥土",
+        "docId": "plot.xianni-ch1580-fierce-battle-three-elders-siege",
+        "seq": 1486
+      },
+      {
+        "value": "香火之魂",
+        "docId": "plot.xianni-ch1580-fierce-battle-three-elders-siege",
+        "seq": 1486
       }
     ]
   },
@@ -188,15 +214,15 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-1579-fengzun-shajie",
-      "dated": false,
-      "seq": 1486
-    },
-    "存殁": {
-      "asOf": null,
       "docId": "plot.xianni-ch224-jieying-fenshen-benzun-ronghe",
       "dated": false,
       "seq": 208
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1580-fierce-battle-three-elders-siege",
+      "dated": false,
+      "seq": 1486
     },
     "结局": {
       "asOf": null,
@@ -230,7 +256,8 @@
     "plot.xianni-ch322-future-senior-brother-sword-swarm-in-void",
     "plot.xianni-ch510-513-yaoli-crystal-lianhun-shisan",
     "plot.xianni-ch514-517-wang-lin-uproots-ten-li-formation-ground",
-    "plot.xianni-1579-fengzun-shajie"
+    "plot.xianni-1579-fengzun-shajie",
+    "plot.xianni-ch1580-fierce-battle-three-elders-siege"
   ],
-  "updatedAt": "2026-08-26T05:00:04.555Z"
+  "updatedAt": "2026-08-26T05:02:20.549Z"
 }

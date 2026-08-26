@@ -3,12 +3,13 @@
   "type": "item",
   "name": "香火之魂",
   "aliases": [
-    "被毒染的香火之魂"
+    "被毒染的香火之魂",
+    "香火魂"
   ],
   "summary": "毒海与紫色海洋中大量存在的魂类存在，属妙音道尊，可被炼化改变归属而向新主奉献香火。",
   "attributes": {
-    "类型": "魂",
-    "用途": "供修士吸收香火、助踏第三步"
+    "类型": "魂类能量",
+    "用途": "化泥土沙粒或鬼影施杀"
   },
   "observations": {
     "类型": [
@@ -16,6 +17,11 @@
         "value": "魂",
         "docId": "plot.xianni-1458-ci-dao-wanglin-ponders-ancient-tomb-revives-trees",
         "seq": 1370
+      },
+      {
+        "value": "魂类能量",
+        "docId": "plot.xianni-ch1580-fierce-battle-three-elders-siege",
+        "seq": 1486
       }
     ],
     "用途": [
@@ -23,6 +29,11 @@
         "value": "供修士吸收香火、助踏第三步",
         "docId": "plot.xianni-1458-ci-dao-wanglin-ponders-ancient-tomb-revives-trees",
         "seq": 1370
+      },
+      {
+        "value": "化泥土沙粒或鬼影施杀",
+        "docId": "plot.xianni-ch1580-fierce-battle-three-elders-siege",
+        "seq": 1486
       }
     ]
   },
@@ -30,21 +41,22 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1458-ci-dao-wanglin-ponders-ancient-tomb-revives-trees",
+      "docId": "plot.xianni-ch1580-fierce-battle-three-elders-siege",
       "dated": false,
-      "seq": 1370
+      "seq": 1486
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-1458-ci-dao-wanglin-ponders-ancient-tomb-revives-trees",
+      "docId": "plot.xianni-ch1580-fierce-battle-three-elders-siege",
       "dated": false,
-      "seq": 1370
+      "seq": 1486
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1458-ci-dao-wanglin-ponders-ancient-tomb-revives-trees"
+    "plot.xianni-1458-ci-dao-wanglin-ponders-ancient-tomb-revives-trees",
+    "plot.xianni-ch1580-fierce-battle-three-elders-siege"
   ],
-  "updatedAt": "2026-08-25T21:05:41.041Z"
+  "updatedAt": "2026-08-26T05:02:20.579Z"
 }
