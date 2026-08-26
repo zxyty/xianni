@@ -891,3 +891,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T02:36:26.300Z** `ingest` plot.xianni-ch1541-mad-monkey-yiling-seal-deduction — 第1541章 有些无耻了——王林以激将法诱疯子反复施展役灵印 · kind=plot asOf=2026-08-26 entities=8 relations=10 src=01448-01452.p4.md
 - **2026-08-26T02:38:24.718Z** `ingest` plot.xianni-1542-madman-daoshu-yiling-seal — 第1542章 惊吓！——疯子传授役灵印口诀，展露三大道术，被幽冥兽魂影吓崩 · kind=plot asOf=2026-08-26 entities=15 relations=25 src=01448-01452.p5.md
 - **2026-08-26T02:40:09.043Z** `ingest` plot.xianni-1543-shou-wo-wei-tu-ba — 仙逆 第1543章 收我为徒吧——王林借幽冥兽演戏骗取疯子三大神通 · kind=plot asOf=2026-08-26 entities=11 relations=16 src=01453-01457.p1.md
+- **2026-08-26T02:42:19.735Z** `ingest` plot.xianni-ch1544-departure-madman-disciple-attraction-art — 第1544章 离去！——疯子拜师、遍演神通，独选引力术 · kind=plot asOf=2026-08-26 entities=23 relations=36 src=01453-01457.p2.md
