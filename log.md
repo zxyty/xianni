@@ -866,3 +866,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T00:43:45.103Z** `ingest` plot.xianni-1512-golden-bell-seal-realm-array-revealed — 第1512章 金色铃铛！——王林三拳镇水道子，金色之浪显封界大阵 · kind=plot asOf=2026-08-26 entities=36 relations=39 src=01420-01424.p4.md
 - **2026-08-26T00:46:03.239Z** `ingest` plot.xianni-ch1513-golden-storm-youming-devours — 第1513章 金色风暴！——水道子自爆金色铃铛，幽冥兽一口吞下 · kind=plot asOf=2026-08-26 entities=25 relations=27 src=01420-01424.p5.md
 - **2026-08-26T00:47:57.844Z** `ingest` plot.xianni-1514-mantis-arm-blocks-cart-shuidaozi-crushed — 《仙逆》第1514章 螳臂挡车——幽冥兽威慑群修，王林一拳崩碎水道子肉身 · kind=plot asOf=2026-08-26 entities=19 relations=22 src=01425-01428.p1.md
+- **2026-08-26T00:50:08.734Z** `ingest` plot.xianni-1515-feng-zun-wang-lin-kills-shui-daozi — 第1515章 封尊！——王林六拳诛水道子，道古化命术救木冰眉 · kind=plot asOf=2026-08-26 entities=22 relations=31 src=01425-01428.p2.md
