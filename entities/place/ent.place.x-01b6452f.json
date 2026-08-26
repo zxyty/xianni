@@ -1,40 +1,37 @@
 {
-  "id": "ent.place.x-911944a5",
+  "id": "ent.place.x-01b6452f",
   "type": "place",
-  "name": "符文族第十九层",
+  "name": "符文族深坑",
   "aliases": [
-    "天坑第十九层",
-    "第十九层",
-    "十九层的秘密"
+    "符文族之地",
+    "符文族遗迹"
   ],
-  "summary": "符文族天坑内的最深处层级，其中隐秘困扰王林很久，亦为黄龙真人所图。",
+  "summary": "朱雀星上最神秘之地，历经朱雀星巨变仍存，共有十九层，层层设封印，常年有修士探秘却无人能达最深一层。",
   "attributes": {
-    "类型": "秘境层级、终极封印之地",
-    "上级区域": "符文族天坑、符文族深坑",
+    "所属界面": "朱雀星",
+    "类型": "上古族群遗迹/禁地",
+    "规模": "至少十九层",
     "危险度": "极高",
-    "守护": "环形符文之门（含封气息的圆圈符文）"
+    "守护": "各层封印、仙人干尸守卫、幽魂"
   },
   "observations": {
-    "类型": [
+    "所属界面": [
       {
-        "value": "秘境层级",
-        "docId": "plot.xianni-ch1573-qingsi-hun-red-butterfly-soul-split-array",
-        "seq": 1481
-      },
-      {
-        "value": "终极封印之地",
+        "value": "朱雀星",
         "docId": "plot.xianni-1574-fuwen-clan-19th-layer-secret",
         "seq": 1481
       }
     ],
-    "上级区域": [
+    "类型": [
       {
-        "value": "符文族天坑",
-        "docId": "plot.xianni-ch1573-qingsi-hun-red-butterfly-soul-split-array",
+        "value": "上古族群遗迹/禁地",
+        "docId": "plot.xianni-1574-fuwen-clan-19th-layer-secret",
         "seq": 1481
-      },
+      }
+    ],
+    "规模": [
       {
-        "value": "符文族深坑",
+        "value": "至少十九层",
         "docId": "plot.xianni-1574-fuwen-clan-19th-layer-secret",
         "seq": 1481
       }
@@ -48,7 +45,7 @@
     ],
     "守护": [
       {
-        "value": "环形符文之门（含封气息的圆圈符文）",
+        "value": "各层封印、仙人干尸守卫、幽魂",
         "docId": "plot.xianni-1574-fuwen-clan-19th-layer-secret",
         "seq": 1481
       }
@@ -56,15 +53,21 @@
   },
   "firstSeq": 1481,
   "attrProvenance": {
-    "类型": {
+    "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch1573-qingsi-hun-red-butterfly-soul-split-array",
+      "docId": "plot.xianni-1574-fuwen-clan-19th-layer-secret",
       "dated": false,
       "seq": 1481
     },
-    "上级区域": {
+    "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1573-qingsi-hun-red-butterfly-soul-split-array",
+      "docId": "plot.xianni-1574-fuwen-clan-19th-layer-secret",
+      "dated": false,
+      "seq": 1481
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-1574-fuwen-clan-19th-layer-secret",
       "dated": false,
       "seq": 1481
     },
@@ -84,8 +87,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1573-qingsi-hun-red-butterfly-soul-split-array",
     "plot.xianni-1574-fuwen-clan-19th-layer-secret"
   ],
-  "updatedAt": "2026-08-26T04:48:09.948Z"
+  "updatedAt": "2026-08-26T04:48:09.945Z"
 }
