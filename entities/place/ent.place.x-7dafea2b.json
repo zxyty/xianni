@@ -8,7 +8,8 @@
     "所属界面": "赵国",
     "类型": "国都",
     "上级区域": "赵国",
-    "方位": "苏城北侧五百里"
+    "方位": "苏城北侧五百里",
+    "所属势力": "赵国"
   },
   "observations": {
     "所属界面": [
@@ -48,6 +49,13 @@
         "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
         "seq": 1506
       }
+    ],
+    "所属势力": [
+      {
+        "value": "赵国",
+        "docId": "plot.xianni-1601-family-letter-su-dao-death",
+        "seq": 1511
+      }
     ]
   },
   "firstSeq": 392,
@@ -75,6 +83,12 @@
       "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
       "dated": false,
       "seq": 1506
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-1601-family-letter-su-dao-death",
+      "dated": false,
+      "seq": 1511
     }
   },
   "contested": false,
@@ -82,7 +96,8 @@
   "docs": [
     "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
     "plot.xianni-1595-lianhunzong-de-yin",
-    "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine"
+    "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
+    "plot.xianni-1601-family-letter-su-dao-death"
   ],
-  "updatedAt": "2026-08-26T06:10:32.851Z"
+  "updatedAt": "2026-08-26T06:16:42.966Z"
 }

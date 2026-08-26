@@ -945,3 +945,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T06:10:33.291Z** `ingest` plot.xianni-ch1598-a-date-suzhou-osmanthus-wine — 第1598章 一次约会：念天临终识破儒生、王林中秀才赴苏城等人 · kind=plot asOf=2026-08-26 entities=16 relations=23 src=01506-01510.p3.md
 - **2026-08-26T06:12:29.684Z** `ingest` plot.xianni-ch1599-su-dao-yin-guo — 第1599章 苏道——苏城画舫、悲魂琴音与「我是因，我是果」 · kind=plot asOf=2026-08-26 entities=14 relations=20 src=01506-01510.p4.md
 - **2026-08-26T06:14:40.874Z** `ingest` plot.xianni-ch1600-ten-years-su-dao-catkins-karma — 第1600章 十年：拜苏道为关门门生，柳絮即因果 · kind=plot asOf=2026-08-26 entities=17 relations=29 src=01506-01510.p5.md
+- **2026-08-26T06:16:43.424Z** `ingest` plot.xianni-1601-family-letter-su-dao-death — 第1601章 家书：苏道归墟与王林十年讲学之誓 · kind=plot asOf=2026-08-26 entities=20 relations=29 src=01511-01515.p1.md

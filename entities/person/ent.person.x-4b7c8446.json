@@ -12,7 +12,8 @@
     "王林的父亲",
     "木雕匠人",
     "木匠王天水",
-    "铁柱的爹"
+    "铁柱的爹",
+    "王卜"
   ],
   "summary": "王林之父，王氏家族庶出次子，离乡为木匠。",
   "attributes": {
@@ -21,7 +22,8 @@
     "身份": "木匠",
     "出身地": "赵国恒岳山下山村",
     "标志特征": "魂魄被王林冰冻保存",
-    "存殁": "死亡、魂魄留存、在世、已死"
+    "存殁": "死亡、魂魄留存、在世、已死、在世（病倒）",
+    "外貌": "年迈"
   },
   "observations": {
     "性别": [
@@ -138,6 +140,19 @@
         "docId": "plot.xianni-1588-life-and-death-seven-colored-spear",
         "seq": 1496,
         "note": "本章为回忆画面；王林呼唤「爹、娘……来陪你们」"
+      },
+      {
+        "value": "在世（病倒）",
+        "docId": "plot.xianni-1601-family-letter-su-dao-death",
+        "seq": 1511,
+        "note": "本章家书称『无碍』"
+      }
+    ],
+    "外貌": [
+      {
+        "value": "年迈",
+        "docId": "plot.xianni-1601-family-letter-su-dao-death",
+        "seq": 1511
       }
     ]
   },
@@ -178,6 +193,12 @@
       "docId": "plot.xianni-ch117-wanglin-death",
       "dated": false,
       "seq": 102
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-1601-family-letter-su-dao-death",
+      "dated": false,
+      "seq": 1511
     }
   },
   "contested": false,
@@ -194,7 +215,8 @@
     "plot.xianni-ch893-thank-you-wang-lin-returns-to-ancestral-home",
     "plot.xianni-1214-tiezhu-dao-shu-memory-illusion",
     "plot.xianni-ch1406-ruo-hun-bei-ren-fang-zhi-xiang",
-    "plot.xianni-1588-life-and-death-seven-colored-spear"
+    "plot.xianni-1588-life-and-death-seven-colored-spear",
+    "plot.xianni-1601-family-letter-su-dao-death"
   ],
-  "updatedAt": "2026-08-26T05:50:20.065Z"
+  "updatedAt": "2026-08-26T06:16:42.959Z"
 }

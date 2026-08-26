@@ -3,12 +3,14 @@
   "type": "place",
   "name": "王家祖屋",
   "aliases": [
-    "王林故乡山村"
+    "王林故乡山村",
+    "王林老家"
   ],
   "summary": "王林凡人故乡山村中的祖屋，被后代依原样重修，正厅供王天水、周英素及王林三座灵牌，是王家嫡系每年祭拜之地。",
   "attributes": {
     "所属界面": "赵国",
-    "类型": "凡人山村祖宅"
+    "类型": "村落",
+    "上级区域": "赵国"
   },
   "observations": {
     "所属界面": [
@@ -23,6 +25,18 @@
         "value": "凡人山村祖宅",
         "docId": "plot.xianni-ch235-because-he-is-surnamed-teng",
         "seq": 219
+      },
+      {
+        "value": "村落",
+        "docId": "plot.xianni-1601-family-letter-su-dao-death",
+        "seq": 1511
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "赵国",
+        "docId": "plot.xianni-1601-family-letter-su-dao-death",
+        "seq": 1511
       }
     ]
   },
@@ -36,15 +50,22 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch235-because-he-is-surnamed-teng",
+      "docId": "plot.xianni-1601-family-letter-su-dao-death",
       "dated": false,
-      "seq": 219
+      "seq": 1511
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-1601-family-letter-su-dao-death",
+      "dated": false,
+      "seq": 1511
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch235-because-he-is-surnamed-teng"
+    "plot.xianni-ch235-because-he-is-surnamed-teng",
+    "plot.xianni-1601-family-letter-su-dao-death"
   ],
-  "updatedAt": "2026-07-18T11:07:09.237Z"
+  "updatedAt": "2026-08-26T06:16:42.967Z"
 }

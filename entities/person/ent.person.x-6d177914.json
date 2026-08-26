@@ -9,7 +9,8 @@
     "Su Dao",
     "苏先生",
     "苏城大儒",
-    "先生"
+    "先生",
+    "苏道大儒"
   ],
   "summary": "赵国大儒，苏城因其得名，使苏城成为赵国文墨之都。",
   "attributes": {
@@ -20,7 +21,10 @@
     "性别": "男",
     "外貌": "白发苍苍、身穿青衫、身子笔直如青松、青衫老者；十年后苍老需仆从推椅",
     "标志特征": "神色沧桑、双眼睿智、以『因果』为一生之思；以柳絮喻人生",
-    "寿元": "收王林为门生时八十三岁"
+    "寿元": "收王林为门生时八十三岁",
+    "存殁": "死亡",
+    "死因": "年老病衰、寿终正寝（归墟）",
+    "结局": "第十七年冬葬于苏山，半月后坟立于故人孤坟旁"
   },
   "observations": {
     "身份": [
@@ -119,6 +123,27 @@
         "seq": 1506,
         "note": "十年后更为衰朽"
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-1601-family-letter-su-dao-death",
+        "seq": 1511
+      }
+    ],
+    "死因": [
+      {
+        "value": "年老病衰、寿终正寝（归墟）",
+        "docId": "plot.xianni-1601-family-letter-su-dao-death",
+        "seq": 1511
+      }
+    ],
+    "结局": [
+      {
+        "value": "第十七年冬葬于苏山，半月后坟立于故人孤坟旁",
+        "docId": "plot.xianni-1601-family-letter-su-dao-death",
+        "seq": 1511
+      }
     ]
   },
   "firstSeq": 1501,
@@ -171,6 +196,24 @@
       "dated": false,
       "seq": 1506,
       "note": "十年后更为衰朽"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1601-family-letter-su-dao-death",
+      "dated": false,
+      "seq": 1511
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-1601-family-letter-su-dao-death",
+      "dated": false,
+      "seq": 1511
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-1601-family-letter-su-dao-death",
+      "dated": false,
+      "seq": 1511
     }
   },
   "contested": false,
@@ -179,7 +222,8 @@
     "plot.xianni-1595-lianhunzong-de-yin",
     "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
     "plot.xianni-ch1599-su-dao-yin-guo",
-    "plot.xianni-ch1600-ten-years-su-dao-catkins-karma"
+    "plot.xianni-ch1600-ten-years-su-dao-catkins-karma",
+    "plot.xianni-1601-family-letter-su-dao-death"
   ],
-  "updatedAt": "2026-08-26T06:14:40.389Z"
+  "updatedAt": "2026-08-26T06:16:42.954Z"
 }
