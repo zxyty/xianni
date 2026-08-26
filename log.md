@@ -897,3 +897,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T02:55:02.256Z** `ingest` plot.xianni-ch1547-decades-of-change — 第1547章 几十年的变化：封尊威压秒杀界外二修，炎雷子详述第二战与七彩界之变 · kind=plot asOf=2026-08-26 entities=44 relations=71 src=01453-01457.p5.md
 - **2026-08-26T03:08:43.846Z** `ingest` plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao — 第1458-1461章 封尊余威：王林一指停漩涡、金光万修跪、拳斩天兆上师 · kind=plot asOf=2026-08-26 entities=54 relations=101 src=01458-01461.md
 - **2026-08-26T03:49:38.830Z** `ingest` plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi — 第1552章 你说什么？——战老鬼隐居雷仙界残骸感应仙气，四尊古神雕像内金色人影议谋出封 · kind=plot asOf=2026-08-26 entities=55 relations=81 src=01462-01465.p1.md
+- **2026-08-26T03:52:29.728Z** `ingest` plot.xianni-ch1553-zhongxuanzi-longpanzi-atonement — 仙逆 第1553章 重玄子——龙磐子燃神代徒偿罪，七彩界裂缝重开 · kind=plot asOf=2026-08-26 entities=24 relations=44 src=01462-01465.p2.md

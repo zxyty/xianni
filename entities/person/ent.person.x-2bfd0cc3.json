@@ -5,16 +5,19 @@
   "aliases": [
     "Long Panzi",
     "白芒内的老者",
-    "与修真星融合者"
+    "与修真星融合者",
+    "重玄子之师尊",
+    "Long Pan Zi"
   ],
   "summary": "当年修真联盟太上长老、重玄子之师，世人以为其已坐化，实则将元神与魂融入总部巨大修真星祭炼，成为万古不灭之魂并化白发老者虚影现身。",
   "attributes": {
-    "身份": "修真联盟太上长老、总部修真星之魂、修真联盟守护者、重玄子之师",
-    "外貌": "白芒内的苍老老者",
-    "存殁": "外界认为已坐化死亡",
-    "元神强度": "某种程度的万古不灭之魂",
+    "身份": "修真联盟太上长老、总部修真星之魂、修真联盟守护者、重玄子之师、七彩界封印者",
+    "外貌": "白发老者，身子虚幻与修真星相连、白芒内的苍老老者、沧桑虚幻之身，白芒笼罩",
+    "存殁": "自毁赴死",
+    "元神强度": "燃耗元神后可爆发空玄初期实力",
     "小阶段": "空灵中期",
-    "标志特征": "与修真星融为一体、拥有香火"
+    "标志特征": "与修真星融为一体、拥有香火",
+    "死因": "一掌断绝生机、燃烧元神，代弟子重玄子偿罪"
   },
   "observations": {
     "身份": [
@@ -37,6 +40,11 @@
         "value": "重玄子之师",
         "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
         "seq": 1462
+      },
+      {
+        "value": "七彩界封印者",
+        "docId": "plot.xianni-ch1553-zhongxuanzi-longpanzi-atonement",
+        "seq": 1462
       }
     ],
     "外貌": [
@@ -50,6 +58,11 @@
         "value": "白芒内的苍老老者",
         "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
         "seq": 1462
+      },
+      {
+        "value": "沧桑虚幻之身，白芒笼罩",
+        "docId": "plot.xianni-ch1553-zhongxuanzi-longpanzi-atonement",
+        "seq": 1462
       }
     ],
     "存殁": [
@@ -58,6 +71,11 @@
         "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
         "seq": 1458,
         "note": "实为融魂入星，本章现身反驳"
+      },
+      {
+        "value": "自毁赴死",
+        "docId": "plot.xianni-ch1553-zhongxuanzi-longpanzi-atonement",
+        "seq": 1462
       }
     ],
     "元神强度": [
@@ -65,6 +83,12 @@
         "value": "某种程度的万古不灭之魂",
         "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
         "seq": 1458
+      },
+      {
+        "value": "燃耗元神后可爆发空玄初期实力",
+        "docId": "plot.xianni-ch1553-zhongxuanzi-longpanzi-atonement",
+        "seq": 1462,
+        "note": "以断绝生机为代价"
       }
     ],
     "小阶段": [
@@ -86,6 +110,13 @@
         "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
         "seq": 1462
       }
+    ],
+    "死因": [
+      {
+        "value": "一掌断绝生机、燃烧元神，代弟子重玄子偿罪",
+        "docId": "plot.xianni-ch1553-zhongxuanzi-longpanzi-atonement",
+        "seq": 1462
+      }
     ]
   },
   "firstSeq": 1458,
@@ -98,22 +129,23 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
-      "dated": false,
-      "seq": 1462
-    },
-    "存殁": {
-      "asOf": null,
       "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
       "dated": false,
       "seq": 1458,
-      "note": "实为融魂入星，本章现身反驳"
+      "note": "元神融星后的显化形态"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1553-zhongxuanzi-longpanzi-atonement",
+      "dated": false,
+      "seq": 1462
     },
     "元神强度": {
       "asOf": null,
-      "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
+      "docId": "plot.xianni-ch1553-zhongxuanzi-longpanzi-atonement",
       "dated": false,
-      "seq": 1458
+      "seq": 1462,
+      "note": "以断绝生机为代价"
     },
     "小阶段": {
       "asOf": null,
@@ -127,13 +159,20 @@
       "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
       "dated": false,
       "seq": 1462
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1553-zhongxuanzi-longpanzi-atonement",
+      "dated": false,
+      "seq": 1462
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
-    "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi"
+    "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
+    "plot.xianni-ch1553-zhongxuanzi-longpanzi-atonement"
   ],
-  "updatedAt": "2026-08-26T03:49:38.377Z"
+  "updatedAt": "2026-08-26T03:52:29.308Z"
 }
