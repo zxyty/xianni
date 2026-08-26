@@ -3,12 +3,14 @@
   "type": "spell",
   "name": "阴月有晴",
   "aliases": [
-    "阴月有晴之术"
+    "阴月有晴之术",
+    "阴月有情之术"
   ],
   "summary": "六道术中当年极为惊艳的一术，水道子承认若对手会此术会有些麻烦。",
   "attributes": {
-    "类型": "六道术之一",
-    "出处": "六道三重仙术"
+    "类型": "诅咒/持续伤害类神通",
+    "出处": "六道三重仙术",
+    "威力": "如髓入骨，持续爆发恐怖之力"
   },
   "observations": {
     "类型": [
@@ -16,6 +18,11 @@
         "value": "六道术之一",
         "docId": "plot.xianni-1276-water-daoist-counterattack-shenche-destroyed",
         "seq": 1191
+      },
+      {
+        "value": "诅咒/持续伤害类神通",
+        "docId": "plot.xianni-ch1564-shisan-qicai-realm-collapse-aftermath",
+        "seq": 1471
       }
     ],
     "出处": [
@@ -24,27 +31,41 @@
         "docId": "plot.xianni-1276-water-daoist-counterattack-shenche-destroyed",
         "seq": 1191
       }
+    ],
+    "威力": [
+      {
+        "value": "如髓入骨，持续爆发恐怖之力",
+        "docId": "plot.xianni-ch1564-shisan-qicai-realm-collapse-aftermath",
+        "seq": 1471
+      }
     ]
   },
   "firstSeq": 1191,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1276-water-daoist-counterattack-shenche-destroyed",
+      "docId": "plot.xianni-ch1564-shisan-qicai-realm-collapse-aftermath",
       "dated": false,
-      "seq": 1191
+      "seq": 1471
     },
     "出处": {
       "asOf": null,
       "docId": "plot.xianni-1276-water-daoist-counterattack-shenche-destroyed",
       "dated": false,
       "seq": 1191
+    },
+    "威力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1564-shisan-qicai-realm-collapse-aftermath",
+      "dated": false,
+      "seq": 1471
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1276-water-daoist-counterattack-shenche-destroyed"
+    "plot.xianni-1276-water-daoist-counterattack-shenche-destroyed",
+    "plot.xianni-ch1564-shisan-qicai-realm-collapse-aftermath"
   ],
-  "updatedAt": "2026-08-25T05:49:35.181Z"
+  "updatedAt": "2026-08-26T04:26:29.802Z"
 }
