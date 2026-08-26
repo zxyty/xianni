@@ -904,3 +904,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T04:01:58.743Z** `ingest` plot.xianni-ch1557-pull-out-the-thorn — 仙逆 第1557章 拔刺！——王林轰碎石化玄武，身受十万利刺救清水 · kind=plot asOf=2026-08-26 entities=11 relations=14 src=01466-01470.p2.md
 - **2026-08-26T04:04:31.527Z** `ingest` plot.xianni-ch1558-seven-colored-figure-three-thousand-blood — 第1558章 七彩身影！——王林拔刺救清水，七彩之人道破道古烨寞三千鲜血 · kind=plot asOf=2026-08-26 entities=26 relations=35 src=01466-01470.p3.md
 - **2026-08-26T04:06:37.388Z** `ingest` plot.xianni-ch1559-wang-lin-pulls-seals-frees-qingshui — 第1559章 谢谢……——王林拔除清水第五至第八根封刺，携道果与清水离开七彩界 · kind=plot asOf=2026-08-26 entities=17 relations=27 src=01466-01470.p4.md
+- **2026-08-26T04:08:05.557Z** `ingest` plot.xianni-ch1560-fierce-wine-last-thorn — 第1560章 烈酒！——王林拔第九、第十根利刺，清水破封现空之大门 · kind=plot asOf=2026-08-26 entities=11 relations=12 src=01466-01470.p5.md
