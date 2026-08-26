@@ -3,19 +3,33 @@
   "type": "race",
   "name": "冥灵族",
   "aliases": [
-    "冥灵一族"
+    "冥灵一族",
+    "冥灵",
+    "Ming Ling Clan"
   ],
   "summary": "太古星辰的小族，吸收死气而修，聚居于死气最浓之处；因大战有功被长尊会赏赐一颗修真星，大半族人自界外迁来建立新部落。",
   "attributes": {
-    "特性": "吸收死气而修",
+    "特性": "吸收死气而修、聚死气而强、噬活灵元神",
     "聚居地": "太古星辰、召河星域内被赏赐的死气修真星",
-    "阵营": "界外"
+    "阵营": "界外",
+    "代表人物": "冥灵族族长",
+    "天敌": "王林"
   },
   "observations": {
     "特性": [
       {
         "value": "吸收死气而修",
         "docId": "plot.xianni-ch1649-life-death-truth-falsehood-karma-formation-massacre",
+        "seq": 1556
+      },
+      {
+        "value": "聚死气而强",
+        "docId": "plot.xianni-ch1650-zhan-san-bu-ming-ling-zu-mie-zu",
+        "seq": 1556
+      },
+      {
+        "value": "噬活灵元神",
+        "docId": "plot.xianni-ch1650-zhan-san-bu-ming-ling-zu-mie-zu",
         "seq": 1556
       }
     ],
@@ -35,6 +49,20 @@
       {
         "value": "界外",
         "docId": "plot.xianni-ch1649-life-death-truth-falsehood-karma-formation-massacre",
+        "seq": 1556
+      }
+    ],
+    "代表人物": [
+      {
+        "value": "冥灵族族长",
+        "docId": "plot.xianni-ch1650-zhan-san-bu-ming-ling-zu-mie-zu",
+        "seq": 1556
+      }
+    ],
+    "天敌": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch1650-zhan-san-bu-ming-ling-zu-mie-zu",
         "seq": 1556
       }
     ]
@@ -58,12 +86,25 @@
       "docId": "plot.xianni-ch1649-life-death-truth-falsehood-karma-formation-massacre",
       "dated": false,
       "seq": 1556
+    },
+    "代表人物": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1650-zhan-san-bu-ming-ling-zu-mie-zu",
+      "dated": false,
+      "seq": 1556
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1650-zhan-san-bu-ming-ling-zu-mie-zu",
+      "dated": false,
+      "seq": 1556
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1649-life-death-truth-falsehood-karma-formation-massacre"
+    "plot.xianni-ch1649-life-death-truth-falsehood-karma-formation-massacre",
+    "plot.xianni-ch1650-zhan-san-bu-ming-ling-zu-mie-zu"
   ],
-  "updatedAt": "2026-08-26T09:12:13.774Z"
+  "updatedAt": "2026-08-26T09:14:29.749Z"
 }

@@ -986,3 +986,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T09:07:58.315Z** `ingest` plot.xianni-ch1647-dandang-wang-lin-third-stage-of-cultivation — 第1647章 担当！——王林揭破洞府真相、立志杀仙尊，朱雀星修士誓随其往罗天 · kind=plot asOf=2026-08-26 entities=26 relations=33 src=01556-01560.p2.md
 - **2026-08-26T09:09:49.930Z** `ingest` plot.xianni-ch1648-wang-lin-sweeps-kunxu-star-region — 仙逆 第1648章 太静了——王林率界内数千修士横扫昆虚星域 · kind=plot asOf=2026-08-26 entities=17 relations=25 src=01556-01560.p3.md
 - **2026-08-26T09:12:14.170Z** `ingest` plot.xianni-ch1649-life-death-truth-falsehood-karma-formation-massacre — 第1649章 还不够！——王林布生死真假因果阵，血洗召河星域界外修士 · kind=plot asOf=2026-08-26 entities=21 relations=29 src=01556-01560.p4.md
+- **2026-08-26T09:14:30.134Z** `ingest` plot.xianni-ch1650-zhan-san-bu-ming-ling-zu-mie-zu — 第1650章 斩三步！——王林灭冥灵族一星、擒杀龟甲盾中年男子 · kind=plot asOf=2026-08-26 entities=18 relations=26 src=01556-01560.p5.md
