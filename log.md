@@ -952,3 +952,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T06:24:18.588Z** `ingest` plot.xianni-ch1605-liumei-yanmei-de-mei — 第1605章 柳眉，眼眉的眉——王林送别双亲，凡尘重逢柳眉 · kind=plot asOf=2026-08-26 entities=14 relations=22 src=01511-01515.p5.md
 - **2026-08-26T06:26:38.618Z** `ingest` plot.xianni-ch1606-ke-cong-xueyu-lai — 仙逆 第1606章 客从雪域来：大儒王林周游朱雀星十五年，雪域女子携婴来访 · kind=plot asOf=2026-08-26 entities=25 relations=31 src=01516-01520.p1.md
 - **2026-08-26T06:29:02.101Z** `ingest` plot.xianni-ch1607-li-muwan-red-butterfly-naming-and-sea-mirage — 第1607章 李慕婉：王林为雪域女婴取名「红蝶」、海上蜃景重见白衣女子 · kind=plot asOf=2026-08-26 entities=15 relations=24 src=01516-01520.p2.md
+- **2026-08-26T06:31:26.979Z** `ingest` plot.xianni-ch1608-this-one-glance-life-death-third-realm — 第1608章 这一眼——海怒悟逆意，火焚国重逢白衣女子 · kind=plot asOf=2026-08-26 entities=18 relations=30 src=01516-01520.p3.md
