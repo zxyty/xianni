@@ -8,7 +8,8 @@
   "summary": "朱雀星安葬历代朱雀子肉身之处；乾平海的肉身被朱雀子刻意排除在外。",
   "attributes": {
     "所属势力": "朱雀国",
-    "类型": "葬地/禁地"
+    "类型": "葬地/禁地",
+    "所属界面": "朱雀星"
   },
   "observations": {
     "所属势力": [
@@ -23,6 +24,13 @@
         "value": "葬地/禁地",
         "docId": "plot.xianni-ch432-ancestral-rune-skull",
         "seq": 410
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-1676-qingshou-de-li-qianmei",
+        "seq": 1586
       }
     ]
   },
@@ -39,12 +47,19 @@
       "docId": "plot.xianni-ch432-ancestral-rune-skull",
       "dated": false,
       "seq": 410
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-1676-qingshou-de-li-qianmei",
+      "dated": false,
+      "seq": 1586
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch432-ancestral-rune-skull"
+    "plot.xianni-ch432-ancestral-rune-skull",
+    "plot.xianni-1676-qingshou-de-li-qianmei"
   ],
-  "updatedAt": "2026-08-17T19:46:41.460Z"
+  "updatedAt": "2026-08-26T11:24:56.972Z"
 }

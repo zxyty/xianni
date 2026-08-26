@@ -11,15 +11,16 @@
     "蓝色山峰",
     "散发蓝芒的蓝山",
     "蓝梦道尊所在的蓝山",
-    "蓝山之上"
+    "蓝山之上",
+    "蓝山之地"
   ],
   "summary": "蓝丝族星域内一颗平凡星球上的山峰，常年笼罩蓝光，当地凡人称之蓝山；山顶茅舍为蓝梦道尊居所。",
   "attributes": {
     "类型": "山峰·居所、山脉/族地、圣地/居所、山峰／洞府居地、试炼之山、洞府/居所所在山、族内山峰、族地山脉、族地灵山",
     "所属势力": "蓝丝族",
     "上级区域": "太古星辰",
-    "守护": "山内蓝光形成的天然阻力禁制",
-    "危险度": "极高（天然禁制，非人为布置）、攀登时有无尽阻力，会致伤、其上存在极强阻力",
+    "守护": "无尽反弹压力",
+    "危险度": "极高（天然禁制，非人为布置）、攀登时有无尽阻力，会致伤、其上存在极强阻力、极高",
     "规模": "高耸入云，一眼不见尽头",
     "所属界面": "太古星辰"
   },
@@ -100,6 +101,11 @@
         "value": "山内蓝光形成的天然阻力禁制",
         "docId": "plot.xianni-1317-blue-mountain-climb-lanyue",
         "seq": 1232
+      },
+      {
+        "value": "无尽反弹压力",
+        "docId": "plot.xianni-1676-qingshou-de-li-qianmei",
+        "seq": 1586
       }
     ],
     "危险度": [
@@ -117,6 +123,11 @@
         "value": "其上存在极强阻力",
         "docId": "plot.xianni-ch1322-yibian-fusion-of-fengxian-seal-and-huhuan-huanyu-realm",
         "seq": 1237
+      },
+      {
+        "value": "极高",
+        "docId": "plot.xianni-1676-qingshou-de-li-qianmei",
+        "seq": 1586
       }
     ],
     "规模": [
@@ -161,9 +172,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-1317-blue-mountain-climb-lanyue",
+      "docId": "plot.xianni-1676-qingshou-de-li-qianmei",
       "dated": false,
-      "seq": 1232
+      "seq": 1586
     },
     "危险度": {
       "asOf": null,
@@ -198,7 +209,8 @@
     "plot.xianni-ch1361-shanleizu-shengdi-buminleiting-tug",
     "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
     "plot.xianni-1516-ru-jie-di-yi-zhan",
-    "plot.xianni-ch1666-ji-dian-ying-hun-ru-zhen-ling"
+    "plot.xianni-ch1666-ji-dian-ying-hun-ru-zhen-ling",
+    "plot.xianni-1676-qingshou-de-li-qianmei"
   ],
-  "updatedAt": "2026-08-26T11:01:47.302Z"
+  "updatedAt": "2026-08-26T11:24:56.969Z"
 }
