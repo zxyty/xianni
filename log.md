@@ -893,3 +893,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T02:40:09.043Z** `ingest` plot.xianni-1543-shou-wo-wei-tu-ba — 仙逆 第1543章 收我为徒吧——王林借幽冥兽演戏骗取疯子三大神通 · kind=plot asOf=2026-08-26 entities=11 relations=16 src=01453-01457.p1.md
 - **2026-08-26T02:42:19.735Z** `ingest` plot.xianni-ch1544-departure-madman-disciple-attraction-art — 第1544章 离去！——疯子拜师、遍演神通，独选引力术 · kind=plot asOf=2026-08-26 entities=23 relations=36 src=01453-01457.p2.md
 - **2026-08-26T02:44:26.247Z** `ingest` plot.xianni-ch1545-three-treasures-return-to-alliance — 仙逆 第1545章 三个宝——王林归乡联盟星域，托付疯子于七级修真星 · kind=plot asOf=2026-08-26 entities=22 relations=23 src=01453-01457.p3.md
+- **2026-08-26T02:47:16.153Z** `ingest` plot.xianni-ch1546-i-have-returned — 第1546章 我，回来了——王林现身昆虚，救炎雷子、封尊归来 · kind=plot asOf=2026-08-26 entities=25 relations=40 src=01453-01457.p4.md
