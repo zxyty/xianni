@@ -6,13 +6,17 @@
     "蓝山古琴",
     "古琴",
     "仙妃的古琴",
-    "弹琴女子的古琴"
+    "弹琴女子的古琴",
+    "吉琴（原文误写）",
+    "仙尊所赠古琴"
   ],
   "summary": "蓝山屋舍中蓝梦道尊反复摩挲追忆的古琴，与其痴情与悲哀的曲乐相连。",
   "attributes": {
-    "持有者": "蓝梦道尊、仙妃、弹琴仙妃",
+    "持有者": "蓝梦道尊、仙妃、弹琴仙妃、阴月仙妃",
     "外形": "飘于身前的古琴",
-    "能力": "琴音映心，杀伐与仙音并存、琴音化萧杀波纹与魔念，攻心神、琴音乱心神并冲击敌身、拽弦化出九把血色飞刀"
+    "能力": "琴音映心，杀伐与仙音并存、琴音化萧杀波纹与魔念，攻心神、琴音乱心神并冲击敌身、拽弦化出九把血色飞刀",
+    "品阶": "至强法宝",
+    "来历": "仙尊当年所赠"
   },
   "observations": {
     "持有者": [
@@ -29,6 +33,11 @@
       {
         "value": "弹琴仙妃",
         "docId": "plot.xianni-ch1583-immortal-indestructible-body",
+        "seq": 1491
+      },
+      {
+        "value": "阴月仙妃",
+        "docId": "plot.xianni-ch1585-one-arrow-power-li-family-bow",
         "seq": 1491
       }
     ],
@@ -65,6 +74,20 @@
         "docId": "plot.xianni-ch1583-immortal-indestructible-body",
         "seq": 1491
       }
+    ],
+    "品阶": [
+      {
+        "value": "至强法宝",
+        "docId": "plot.xianni-ch1585-one-arrow-power-li-family-bow",
+        "seq": 1491
+      }
+    ],
+    "来历": [
+      {
+        "value": "仙尊当年所赠",
+        "docId": "plot.xianni-ch1585-one-arrow-power-li-family-bow",
+        "seq": 1491
+      }
     ]
   },
   "firstSeq": 1227,
@@ -86,6 +109,18 @@
       "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
       "dated": false,
       "seq": 1425
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1585-one-arrow-power-li-family-bow",
+      "dated": false,
+      "seq": 1491
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1585-one-arrow-power-li-family-bow",
+      "dated": false,
+      "seq": 1491
     }
   },
   "contested": false,
@@ -95,7 +130,8 @@
     "plot.xianni-1317-blue-mountain-climb-lanyue",
     "plot.xianni-1516-ru-jie-di-yi-zhan",
     "plot.xianni-1582-yin-yue-you-qing",
-    "plot.xianni-ch1583-immortal-indestructible-body"
+    "plot.xianni-ch1583-immortal-indestructible-body",
+    "plot.xianni-ch1585-one-arrow-power-li-family-bow"
   ],
-  "updatedAt": "2026-08-26T05:09:54.249Z"
+  "updatedAt": "2026-08-26T05:14:58.137Z"
 }

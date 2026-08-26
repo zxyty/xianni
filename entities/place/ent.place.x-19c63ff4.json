@@ -3,11 +3,13 @@
   "type": "place",
   "name": "仙罡大陆",
   "aliases": [
-    "仙罡"
+    "仙罡",
+    "Xian Gang Continent"
   ],
   "summary": "疯子自述的出身之地，其自夸「整个仙罡大陆谁不知本王声音最大」。",
   "attributes": {
-    "类型": "大陆"
+    "类型": "大陆",
+    "所属势力": "李家等"
   },
   "observations": {
     "类型": [
@@ -15,6 +17,13 @@
         "value": "大陆",
         "docId": "plot.xianni-ch1540-shentong-yiling-yin",
         "seq": 1448
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "李家等",
+        "docId": "plot.xianni-ch1585-one-arrow-power-li-family-bow",
+        "seq": 1491
       }
     ]
   },
@@ -25,12 +34,19 @@
       "docId": "plot.xianni-ch1540-shentong-yiling-yin",
       "dated": false,
       "seq": 1448
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1585-one-arrow-power-li-family-bow",
+      "dated": false,
+      "seq": 1491
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1540-shentong-yiling-yin"
+    "plot.xianni-ch1540-shentong-yiling-yin",
+    "plot.xianni-ch1585-one-arrow-power-li-family-bow"
   ],
-  "updatedAt": "2026-08-26T02:34:47.920Z"
+  "updatedAt": "2026-08-26T05:14:58.144Z"
 }

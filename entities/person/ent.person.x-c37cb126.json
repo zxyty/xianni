@@ -5,15 +5,19 @@
   "aliases": [
     "口出预测的女子",
     "神色温柔的女子",
-    "第二个仙妃"
+    "第二个仙妃",
+    "施展占卜预测之术的女子",
+    "仙罡大陆李家女子",
+    "戴泪石吊坠的仙妃"
   ],
   "summary": "来自仙尊世界的仙妃，以占卜预测之术连预王林肉溃、骨崩、魂亡；见王林现仙人不灭体后惊骇失据，占卜之术被毁，喷血后退、无心再战。",
   "attributes": {
     "性别": "女",
     "身份": "仙妃",
-    "出身地": "仙尊的世界",
+    "出身地": "仙尊的世界、仙罡大陆李家",
     "性格": "神色柔和、如看情人般含笑杀人",
-    "存殁": "存活"
+    "存殁": "存活",
+    "标志特征": "颈挂泪石吊坠、擅占卜预测之术"
   },
   "observations": {
     "性别": [
@@ -35,6 +39,11 @@
         "value": "仙尊的世界",
         "docId": "plot.xianni-ch1583-immortal-indestructible-body",
         "seq": 1491
+      },
+      {
+        "value": "仙罡大陆李家",
+        "docId": "plot.xianni-ch1585-one-arrow-power-li-family-bow",
+        "seq": 1491
       }
     ],
     "性格": [
@@ -49,6 +58,13 @@
       {
         "value": "存活",
         "docId": "plot.xianni-ch1583-immortal-indestructible-body",
+        "seq": 1491
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "颈挂泪石吊坠、擅占卜预测之术",
+        "docId": "plot.xianni-ch1585-one-arrow-power-li-family-bow",
         "seq": 1491
       }
     ]
@@ -85,12 +101,19 @@
       "docId": "plot.xianni-ch1583-immortal-indestructible-body",
       "dated": false,
       "seq": 1491
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1585-one-arrow-power-li-family-bow",
+      "dated": false,
+      "seq": 1491
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1583-immortal-indestructible-body"
+    "plot.xianni-ch1583-immortal-indestructible-body",
+    "plot.xianni-ch1585-one-arrow-power-li-family-bow"
   ],
-  "updatedAt": "2026-08-26T05:09:54.237Z"
+  "updatedAt": "2026-08-26T05:14:58.129Z"
 }
