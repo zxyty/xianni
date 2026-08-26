@@ -3,13 +3,15 @@
   "type": "artifact",
   "name": "封尊玉佩",
   "aliases": [
-    "封尊残识玉佩"
+    "封尊残识玉佩",
+    "封尊玉牌"
   ],
   "summary": "困住天罚殿殿主、使其无法参战的法宝。",
   "attributes": {
-    "能力": "承载封尊残留神识",
+    "能力": "困锁强者（天罚殿殿主）",
     "持有者": "云海一方",
-    "来历": "封尊遗物"
+    "来历": "封尊遗物",
+    "外形": "玉佩"
   },
   "observations": {
     "能力": [
@@ -22,6 +24,11 @@
         "value": "承载封尊残留神识",
         "docId": "plot.xianni-1524-wangao-yiwo-kaitianfu",
         "seq": 1434
+      },
+      {
+        "value": "困锁强者（天罚殿殿主）",
+        "docId": "plot.xianni-ch1533-youming-awakens-golden-storm",
+        "seq": 1443
       }
     ],
     "持有者": [
@@ -37,15 +44,22 @@
         "docId": "plot.xianni-1524-wangao-yiwo-kaitianfu",
         "seq": 1434
       }
+    ],
+    "外形": [
+      {
+        "value": "玉佩",
+        "docId": "plot.xianni-ch1533-youming-awakens-golden-storm",
+        "seq": 1443
+      }
     ]
   },
   "firstSeq": 1429,
   "attrProvenance": {
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-1524-wangao-yiwo-kaitianfu",
+      "docId": "plot.xianni-ch1533-youming-awakens-golden-storm",
       "dated": false,
-      "seq": 1434
+      "seq": 1443
     },
     "持有者": {
       "asOf": null,
@@ -58,13 +72,20 @@
       "docId": "plot.xianni-1524-wangao-yiwo-kaitianfu",
       "dated": false,
       "seq": 1434
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1533-youming-awakens-golden-storm",
+      "dated": false,
+      "seq": 1443
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1523-yunhai-rout-hongshanzi-ambushed",
-    "plot.xianni-1524-wangao-yiwo-kaitianfu"
+    "plot.xianni-1524-wangao-yiwo-kaitianfu",
+    "plot.xianni-ch1533-youming-awakens-golden-storm"
   ],
-  "updatedAt": "2026-08-26T01:22:48.299Z"
+  "updatedAt": "2026-08-26T02:14:18.618Z"
 }

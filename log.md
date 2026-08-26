@@ -880,3 +880,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T01:29:49.857Z** `ingest` plot.xianni-ch1527-luotian-zhaohe-reinforcements — 第1527章 罗天召河动——王林开天斧斩云落大司分身、循魂追杀本尊 · kind=plot asOf=2026-08-26 entities=22 relations=33 src=01434-01438.p4.md
 - **2026-08-26T01:32:43.233Z** `ingest` plot.xianni-ch1528-zhaohe-female-cultivators-reinforcements — 第1528章 召河女修！——罗天、召河援军抵达，王林独守封界大阵缺口 · kind=plot asOf=2026-08-26 entities=36 relations=50 src=01434-01438.p5.md
 - **2026-08-26T01:51:33.886Z** `ingest` plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun — 仙逆 第1529章 战结！——开天斧破敌、蓝梦道尊三次相让与焚天古伞开启 · kind=plot asOf=2026-08-26 entities=70 relations=121 src=01439-01442.md
+- **2026-08-26T02:14:19.042Z** `ingest` plot.xianni-ch1533-youming-awakens-golden-storm — 第1533章 幽冥醒！——七彩道人断弓弦破封阵，王林腰斩夺弓，幽冥兽喷金色风暴终结第一战 · kind=plot asOf=2026-08-26 entities=23 relations=28 src=01443-01447.p1.md
