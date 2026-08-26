@@ -877,3 +877,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T01:22:48.783Z** `ingest` plot.xianni-1524-wangao-yiwo-kaitianfu — 第1524章 万古一握开天斧——王林独阻界外大军，封尊借斧 · kind=plot asOf=2026-08-26 entities=22 relations=29 src=01434-01438.p1.md
 - **2026-08-26T01:24:56.855Z** `ingest` plot.xianni-ch1525-zang-gu-wu-ren-yi — 仙逆 第1525章 葬骨无人忆——王林执开天斧瞬杀火雀族老祖，封尊荣耀响彻星空 · kind=plot asOf=2026-08-26 entities=16 relations=29 src=01434-01438.p2.md
 - **2026-08-26T01:27:00.199Z** `ingest` plot.xianni-ch1526-nanzhao-shangren-dies — 第1526章 南诏亡——王林毒海灭南诏上人，直取云落大司 · kind=plot asOf=2026-08-26 entities=22 relations=29 src=01434-01438.p3.md
+- **2026-08-26T01:29:49.857Z** `ingest` plot.xianni-ch1527-luotian-zhaohe-reinforcements — 第1527章 罗天召河动——王林开天斧斩云落大司分身、循魂追杀本尊 · kind=plot asOf=2026-08-26 entities=22 relations=33 src=01434-01438.p4.md

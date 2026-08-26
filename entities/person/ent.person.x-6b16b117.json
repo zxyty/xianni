@@ -10,7 +10,10 @@
     "云落大司秀眉女子",
     "大司",
     "云落大司者",
-    "云落那丫头"
+    "云落那丫头",
+    "云落大司分身",
+    "云布布偶分身",
+    "云落分身"
   ],
   "summary": "长尊会中人，神通可推算他人所在，已算出王林在这片星域内，不久即可算出具体位置。",
   "attributes": {
@@ -18,11 +21,13 @@
     "称号": "大司",
     "阵营": "长尊会、太古星辰一方、界外太古星辰、界外太古星辰一方、界外、界外（太古星辰一方）、界外入侵者",
     "性别": "女",
-    "外貌": "长发披肩，秀眉紧皱、面色惨白、身子颤抖、面色之白如同死人、身穿云纱、青丝弥漫、绝美螓首、玉手抬起掐诀、玉手掐诀，被大量修士保护",
-    "存殁": "在世",
+    "外貌": "长发披肩，秀眉紧皱、面色惨白、身子颤抖、面色之白如同死人、身穿云纱、青丝弥漫、绝美螓首、玉手抬起掐诀、玉手掐诀，被大量修士保护、白衣黑发披肩、面色苍白的女子、两团云布合成的孩童布偶，有眼有鼻，与云落大司一模一样",
+    "存殁": "在世、肉身碎灭、元神崩溃、毁灭",
     "标志特征": "以指血掐诀卜算、右手血肉模糊、荒废、掐诀推衍、化作虚影观战；推衍被打断时右手血丝弥漫、曾见到关于王林的未来画面、曾推算出令其恐惧的背影画面、右手掐诀推算生机、右手模糊成残影",
     "结局": "预言中被模糊背影一掌拍成灰、元神灭亡",
-    "性格": "心高气傲、讥讽"
+    "性格": "心高气傲、讥讽",
+    "分身": "云布布偶分身（形如凡间孩童布偶，有眼有鼻，容貌与本尊一模一样）",
+    "死因": "王林以幽丝魂引黑洞投送极境之雷与火之本源，轰灭其禁地圣岛本尊"
   },
   "observations": {
     "身份": [
@@ -180,6 +185,17 @@
         "value": "玉手掐诀，被大量修士保护",
         "docId": "plot.xianni-1523-yunhai-rout-hongshanzi-ambushed",
         "seq": 1429
+      },
+      {
+        "value": "白衣黑发披肩、面色苍白的女子",
+        "docId": "plot.xianni-ch1527-luotian-zhaohe-reinforcements",
+        "seq": 1434,
+        "note": "本尊，禁地圣岛内盘膝"
+      },
+      {
+        "value": "两团云布合成的孩童布偶，有眼有鼻，与云落大司一模一样",
+        "docId": "plot.xianni-ch1527-luotian-zhaohe-reinforcements",
+        "seq": 1434
       }
     ],
     "存殁": [
@@ -187,6 +203,18 @@
         "value": "在世",
         "docId": "plot.xianni-ch1404-old-zhuque-protects-wang-lin",
         "seq": 1312
+      },
+      {
+        "value": "肉身碎灭、元神崩溃",
+        "docId": "plot.xianni-ch1527-luotian-zhaohe-reinforcements",
+        "seq": 1434,
+        "note": "第1527章；但魂融入师尊骸骨所化风暴遁走，未必彻底身死"
+      },
+      {
+        "value": "毁灭",
+        "docId": "plot.xianni-ch1527-luotian-zhaohe-reinforcements",
+        "seq": 1434,
+        "note": "第1527章被王林斩碎并焚烧崩溃"
       }
     ],
     "标志特征": [
@@ -241,6 +269,21 @@
         "docId": "plot.xianni-1523-yunhai-rout-hongshanzi-ambushed",
         "seq": 1429,
         "note": "自称界内界外除三人外无人入其目"
+      }
+    ],
+    "分身": [
+      {
+        "value": "云布布偶分身（形如凡间孩童布偶，有眼有鼻，容貌与本尊一模一样）",
+        "docId": "plot.xianni-ch1527-luotian-zhaohe-reinforcements",
+        "seq": 1434,
+        "note": "第1527章被王林一斧斩为两团云布并焚毁"
+      }
+    ],
+    "死因": [
+      {
+        "value": "王林以幽丝魂引黑洞投送极境之雷与火之本源，轰灭其禁地圣岛本尊",
+        "docId": "plot.xianni-ch1527-luotian-zhaohe-reinforcements",
+        "seq": 1434
       }
     ]
   },
@@ -301,6 +344,19 @@
       "dated": false,
       "seq": 1429,
       "note": "自称界内界外除三人外无人入其目"
+    },
+    "分身": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1527-luotian-zhaohe-reinforcements",
+      "dated": false,
+      "seq": 1434,
+      "note": "第1527章被王林一斧斩为两团云布并焚毁"
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1527-luotian-zhaohe-reinforcements",
+      "dated": false,
+      "seq": 1434
     }
   },
   "contested": false,
@@ -332,7 +388,8 @@
     "plot.xianni-ch1522-three-seals-fengmie-clan",
     "plot.xianni-1523-yunhai-rout-hongshanzi-ambushed",
     "plot.xianni-ch1525-zang-gu-wu-ren-yi",
-    "plot.xianni-ch1526-nanzhao-shangren-dies"
+    "plot.xianni-ch1526-nanzhao-shangren-dies",
+    "plot.xianni-ch1527-luotian-zhaohe-reinforcements"
   ],
-  "updatedAt": "2026-08-26T01:26:59.694Z"
+  "updatedAt": "2026-08-26T01:29:49.474Z"
 }
