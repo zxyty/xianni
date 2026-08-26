@@ -9,9 +9,9 @@
   ],
   "summary": "王林随行的中年男子，被王林取名「大福」充作书童；不喜此名，隐约记得自己「以前好像经历过什么事情，知晓银两非常重要」。",
   "attributes": {
-    "身份": "王林的书童",
+    "身份": "王林身边之人（凡人）",
     "外貌": "中年男子，背竹排书箱",
-    "性格": "好动、爱吹嘘、吝啬",
+    "性格": "悠闲爱哼小曲、对银两极为肉痛、好动、爱吹嘘、吝啬、嗜睡、憨直",
     "标志特征": "背竹排书箱、爱吃包子"
   },
   "observations": {
@@ -20,6 +20,11 @@
         "value": "王林的书童",
         "docId": "plot.xianni-1595-lianhunzong-de-yin",
         "seq": 1501
+      },
+      {
+        "value": "王林身边之人（凡人）",
+        "docId": "plot.xianni-ch1597-lianhun-zong-tongtian-zhi-lu",
+        "seq": 1506
       }
     ],
     "外貌": [
@@ -39,6 +44,11 @@
         "value": "好动、爱吹嘘、吝啬",
         "docId": "plot.xianni-ch1596-lianhunzong-de-guo",
         "seq": 1506
+      },
+      {
+        "value": "嗜睡、憨直",
+        "docId": "plot.xianni-ch1597-lianhun-zong-tongtian-zhi-lu",
+        "seq": 1506
       }
     ],
     "标志特征": [
@@ -53,9 +63,9 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1595-lianhunzong-de-yin",
+      "docId": "plot.xianni-ch1597-lianhun-zong-tongtian-zhi-lu",
       "dated": false,
-      "seq": 1501
+      "seq": 1506
     },
     "外貌": {
       "asOf": null,
@@ -65,9 +75,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch1596-lianhunzong-de-guo",
+      "docId": "plot.xianni-1595-lianhunzong-de-yin",
       "dated": false,
-      "seq": 1506
+      "seq": 1501
     },
     "标志特征": {
       "asOf": null,
@@ -80,7 +90,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-1595-lianhunzong-de-yin",
-    "plot.xianni-ch1596-lianhunzong-de-guo"
+    "plot.xianni-ch1596-lianhunzong-de-guo",
+    "plot.xianni-ch1597-lianhun-zong-tongtian-zhi-lu"
   ],
-  "updatedAt": "2026-08-26T06:06:11.050Z"
+  "updatedAt": "2026-08-26T06:08:27.480Z"
 }

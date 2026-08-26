@@ -941,3 +941,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T06:02:05.203Z** `ingest` plot.xianni-ch1594-huishou-yiwang-lunhui-zai — 第1594章 回首一望轮回在——梦凡破庙收疯子为书童 · kind=plot asOf=2026-08-26 entities=12 relations=16 src=01501-01505.p4.md
 - **2026-08-26T06:04:12.684Z** `ingest` plot.xianni-1595-lianhunzong-de-yin — 第1595章 炼魂宗的因——赵国科考路上一指止雷，惊动四方 · kind=plot asOf=2026-08-26 entities=27 relations=32 src=01501-01505.p5.md
 - **2026-08-26T06:06:11.493Z** `ingest` plot.xianni-ch1596-lianhunzong-de-guo — 第1596章 炼魂宗的果——凡人王林科考论因果，遁天现身县城 · kind=plot asOf=2026-08-26 entities=13 relations=21 src=01506-01510.p1.md
+- **2026-08-26T06:08:27.935Z** `ingest` plot.xianni-ch1597-lianhun-zong-tongtian-zhi-lu — 第1597章 数百年前的一句话——念天问道凡人书生王林 · kind=plot asOf=2026-08-26 entities=15 relations=28 src=01506-01510.p2.md

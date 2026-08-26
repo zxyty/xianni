@@ -3,13 +3,16 @@
   "type": "place",
   "name": "赵国县城",
   "aliases": [
-    "县城"
+    "县城",
+    "科考县城"
   ],
   "summary": "王林此行目的地，第八天黄昏时尚有一天路程。",
   "attributes": {
-    "类型": "城镇",
+    "类型": "县城",
     "上级区域": "赵国",
-    "方位": "沿官道前方，距土地庙约一日路程"
+    "方位": "沿官道前方，距土地庙约一日路程",
+    "所属界面": "朱雀星",
+    "守护": "无"
   },
   "observations": {
     "类型": [
@@ -17,6 +20,11 @@
         "value": "城镇",
         "docId": "plot.xianni-ch1593-ancient-temple-rainy-night",
         "seq": 1501
+      },
+      {
+        "value": "县城",
+        "docId": "plot.xianni-ch1597-lianhun-zong-tongtian-zhi-lu",
+        "seq": 1506
       }
     ],
     "上级区域": [
@@ -32,15 +40,29 @@
         "docId": "plot.xianni-ch1593-ancient-temple-rainy-night",
         "seq": 1501
       }
+    ],
+    "所属界面": [
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch1597-lianhun-zong-tongtian-zhi-lu",
+        "seq": 1506
+      }
+    ],
+    "守护": [
+      {
+        "value": "无",
+        "docId": "plot.xianni-ch1597-lianhun-zong-tongtian-zhi-lu",
+        "seq": 1506
+      }
     ]
   },
   "firstSeq": 1501,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1593-ancient-temple-rainy-night",
+      "docId": "plot.xianni-ch1597-lianhun-zong-tongtian-zhi-lu",
       "dated": false,
-      "seq": 1501
+      "seq": 1506
     },
     "上级区域": {
       "asOf": null,
@@ -53,12 +75,25 @@
       "docId": "plot.xianni-ch1593-ancient-temple-rainy-night",
       "dated": false,
       "seq": 1501
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1597-lianhun-zong-tongtian-zhi-lu",
+      "dated": false,
+      "seq": 1506
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1597-lianhun-zong-tongtian-zhi-lu",
+      "dated": false,
+      "seq": 1506
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1593-ancient-temple-rainy-night"
+    "plot.xianni-ch1593-ancient-temple-rainy-night",
+    "plot.xianni-ch1597-lianhun-zong-tongtian-zhi-lu"
   ],
-  "updatedAt": "2026-08-26T06:00:21.457Z"
+  "updatedAt": "2026-08-26T06:08:27.485Z"
 }
