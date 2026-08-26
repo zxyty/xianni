@@ -925,3 +925,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T04:57:50.638Z** `ingest` plot.xianni-ch1578-tianbian-yuwai-zhanchang-men-fragment — 仙逆 第1578章 天变！——域外战场竟是「门」的碎片，王林遭遇生死大劫前兆 · kind=plot asOf=2026-08-26 entities=32 relations=37 src=01486-01490.p3.md
 - **2026-08-26T05:00:04.946Z** `ingest` plot.xianni-1579-fengzun-shajie — 第1579章 封尊杀劫！——蓝梦道尊布下的镜像朱雀星围杀 · kind=plot asOf=2026-08-26 entities=20 relations=32 src=01486-01490.p4.md
 - **2026-08-26T05:02:20.956Z** `ingest` plot.xianni-ch1580-fierce-battle-three-elders-siege — 第1580章 激战！——三名太古星辰强者围杀王林，古神护臂碎裂、焚界古伞现世 · kind=plot asOf=2026-08-26 entities=20 relations=27 src=01486-01490.p5.md
+- **2026-08-26T05:04:34.675Z** `ingest` plot.xianni-1581-kill-one-burning-realm-umbrella — 第1581章 杀一人！——焚界古伞焚杀黑衣老妪，五脏仙道女子现身 · kind=plot asOf=2026-08-26 entities=16 relations=27 src=01491-01495.p1.md

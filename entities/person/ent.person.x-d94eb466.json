@@ -10,10 +10,10 @@
   "attributes": {
     "性别": "女",
     "外貌": "身形模糊的黑衣老妪，干枯右手、黑衣老妪",
-    "阵营": "太古星辰、界外太古星辰围杀方",
+    "阵营": "太古星辰、界外太古星辰围杀方、太古星辰·漆黑阁楼",
     "身份": "围杀者",
     "标志特征": "九根指甲化飞剑、指内香火之魂化鬼影",
-    "存殁": "存活（受伤吐血）"
+    "存殁": "存活"
   },
   "observations": {
     "性别": [
@@ -45,6 +45,11 @@
         "value": "界外太古星辰围杀方",
         "docId": "plot.xianni-ch1580-fierce-battle-three-elders-siege",
         "seq": 1486
+      },
+      {
+        "value": "太古星辰·漆黑阁楼",
+        "docId": "plot.xianni-1581-kill-one-burning-realm-umbrella",
+        "seq": 1491
       }
     ],
     "身份": [
@@ -71,6 +76,12 @@
         "value": "存活（受伤吐血）",
         "docId": "plot.xianni-ch1580-fierce-battle-three-elders-siege",
         "seq": 1486
+      },
+      {
+        "value": "存活",
+        "docId": "plot.xianni-1581-kill-one-burning-realm-umbrella",
+        "seq": 1491,
+        "note": "仅投影被焚杀崩溃，本尊喷血重伤"
       }
     ]
   },
@@ -108,16 +119,18 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch1580-fierce-battle-three-elders-siege",
+      "docId": "plot.xianni-1581-kill-one-burning-realm-umbrella",
       "dated": false,
-      "seq": 1486
+      "seq": 1491,
+      "note": "仅投影被焚杀崩溃，本尊喷血重伤"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1579-fengzun-shajie",
-    "plot.xianni-ch1580-fierce-battle-three-elders-siege"
+    "plot.xianni-ch1580-fierce-battle-three-elders-siege",
+    "plot.xianni-1581-kill-one-burning-realm-umbrella"
   ],
-  "updatedAt": "2026-08-26T05:02:20.550Z"
+  "updatedAt": "2026-08-26T05:04:34.275Z"
 }
