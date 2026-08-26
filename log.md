@@ -988,3 +988,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T09:12:14.170Z** `ingest` plot.xianni-ch1649-life-death-truth-falsehood-karma-formation-massacre — 第1649章 还不够！——王林布生死真假因果阵，血洗召河星域界外修士 · kind=plot asOf=2026-08-26 entities=21 relations=29 src=01556-01560.p4.md
 - **2026-08-26T09:14:30.134Z** `ingest` plot.xianni-ch1650-zhan-san-bu-ming-ling-zu-mie-zu — 第1650章 斩三步！——王林灭冥灵族一星、擒杀龟甲盾中年男子 · kind=plot asOf=2026-08-26 entities=18 relations=26 src=01556-01560.p5.md
 - **2026-08-26T09:23:37.627Z** `ingest` lore.kongxuan-realm-virtual-origin-xianghuo-world-cultivation — 空之四境与虚之本源：香火界内培育虚本源之民的方法 · kind=lore asOf=2026-08-26 entities=36 relations=58 src=01561-01565.p1.md
+- **2026-08-26T09:25:21.007Z** `ingest` plot.xianni-ch1652-yunhai-life-death-formation — 第1652章 强！——王林云海屠界外修士、结生死大阵 · kind=plot asOf=2026-08-26 entities=17 relations=21 src=01561-01565.p2.md
