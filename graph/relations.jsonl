@@ -52858,3 +52858,23 @@
 {"s":"ent.person.x-7babd989","p":"relatedTo","o":"ent.person.x-73d2856c","evidence":"plot.xianni-ch1684-immortal-dragon-manifests-dao","confidence":0.8,"seq":1591,"note":"苏醒后遥望，因王林之弓感到压力"}
 {"s":"ent.person.x-991ca9b7","p":"relatedTo","o":"ent.person.x-73d2856c","evidence":"plot.xianni-ch1684-immortal-dragon-manifests-dao","confidence":0.8,"seq":1591,"note":"苏醒后遥望，神色阴沉"}
 {"s":"ent.person.x-7babd989","p":"fellow","o":"ent.person.x-991ca9b7","evidence":"plot.xianni-ch1684-immortal-dragon-manifests-dao","confidence":0.6,"seq":1591,"note":"同为太古星辰大能，同时苏醒遥望"}
+{"s":"ent.beast.x-6b9d3f3a","p":"relatedTo","o":"ent.faction.x-9e7f22f8","evidence":"plot.xianni-1685-yan-long-xian-long-dao","confidence":0.5,"seq":1591,"note":"炎龙为仙龙道自创者与尊主；类型限制下以关联表达（原:memberOf）"}
+{"s":"ent.faction.x-9e7f22f8","p":"relatedTo","o":"ent.beast.x-6b9d3f3a","evidence":"plot.xianni-1685-yan-long-xian-long-dao","confidence":0.95,"seq":1591,"note":"炎龙自创的势力，门徒逾千"}
+{"s":"ent.artifact.x-c59e6742","p":"relatedTo","o":"ent.beast.x-6b9d3f3a","evidence":"plot.xianni-1685-yan-long-xian-long-dao","confidence":0.95,"seq":1591,"note":"炎龙的坐台兼食物，由一千多门徒扛抬"}
+{"s":"ent.artifact.x-c59e6742","p":"partOf","o":"ent.faction.x-9e7f22f8","evidence":"plot.xianni-1685-yan-long-xian-long-dao","confidence":0.7,"seq":1591,"note":"仙龙道出行仪仗的核心"}
+{"s":"ent.person.x-55e4efe3","p":"tames","o":"ent.beast.x-6b9d3f3a","evidence":"plot.xianni-1685-yan-long-xian-long-dao","confidence":0.85,"seq":1591,"note":"在颠落之地内为其放血并将其赠予王林"}
+{"s":"ent.person.x-73d2856c","p":"tames","o":"ent.beast.x-6b9d3f3a","evidence":"plot.xianni-1685-yan-long-xian-long-dao","confidence":0.6,"seq":1591,"note":"二代朱雀所赠，但炎龙提前逃走，名义所属而实未在手"}
+{"s":"ent.beast.x-6b9d3f3a","p":"relatedTo","o":"ent.region.x-ed243278","evidence":"plot.xianni-1685-yan-long-xian-long-dao","confidence":0.9,"seq":1591,"note":"原:locatedIn"}
+{"s":"ent.person.x-73d2856c","p":"relatedTo","o":"ent.region.x-ed243278","evidence":"plot.xianni-1685-yan-long-xian-long-dao","confidence":0.9,"seq":1591,"note":"原:locatedIn"}
+{"s":"ent.beast.x-6b9d3f3a","p":"relatedTo","o":"ent.place.x-420d1d9f","evidence":"plot.xianni-1685-yan-long-xian-long-dao","confidence":0.9,"seq":1591,"note":"当年在此被二代朱雀放血"}
+{"s":"ent.beast.x-6b9d3f3a","p":"relatedTo","o":"ent.place.x-70ee0783","evidence":"plot.xianni-1685-yan-long-xian-long-dao","confidence":0.75,"seq":1591,"note":"歌中提及的家乡，思念飞雪山下的二龙小妞"}
+{"s":"ent.beast.x-6b9d3f3a","p":"relatedTo","o":"ent.place.x-b115b9b1","evidence":"plot.xianni-1685-yan-long-xian-long-dao","confidence":0.7,"seq":1591,"note":"自述若非被困多年可在此界过得更好"}
+{"s":"ent.event.x-09af1c96","p":"relatedTo","o":"ent.region.x-ed243278","evidence":"plot.xianni-1685-yan-long-xian-long-dao","confidence":0.9,"seq":1591,"note":"原:occursAt"}
+{"s":"ent.event.x-09af1c96","p":"involves","o":"ent.person.x-73d2856c","evidence":"plot.xianni-1685-yan-long-xian-long-dao","confidence":0.9,"seq":1591}
+{"s":"ent.event.x-09af1c96","p":"relatedTo","o":"ent.beast.x-6b9d3f3a","evidence":"plot.xianni-1685-yan-long-xian-long-dao","confidence":0.95,"seq":1591}
+{"s":"ent.event.x-09af1c96","p":"relatedTo","o":"ent.place.x-1411c268","evidence":"plot.xianni-1685-yan-long-xian-long-dao","confidence":0.6,"seq":1591,"note":"回溯：当年古之墓地开启，王林因而未追究炎龙逃走"}
+{"s":"ent.event.x-15c25eba","p":"involves","o":"ent.person.x-73d2856c","evidence":"plot.xianni-1685-yan-long-xian-long-dao","confidence":0.95,"seq":1591}
+{"s":"ent.event.x-15c25eba","p":"relatedTo","o":"ent.beast.x-6b9d3f3a","evidence":"plot.xianni-1685-yan-long-xian-long-dao","confidence":0.95,"seq":1591,"note":"事件主角之一（beast 不能作 involves 宾语）"}
+{"s":"ent.person.x-73d2856c","p":"relatedTo","o":"ent.beast.x-6b9d3f3a","evidence":"plot.xianni-1685-yan-long-xian-long-dao","confidence":0.9,"seq":1591,"note":"旧怨：炎龙称王林「当初喝过本龙的血」；本章王林拦路并轰散其火焰"}
+{"s":"ent.beast.x-6b9d3f3a","p":"relatedTo","o":"ent.person.x-55e4efe3","evidence":"plot.xianni-1685-yan-long-xian-long-dao","confidence":0.8,"seq":1591,"note":"被二代朱雀称为「傻龙」"}
+{"s":"ent.beast.x-6b9d3f3a","p":"relatedTo","o":"ent.item.x-69980124","evidence":"plot.xianni-1685-yan-long-xian-long-dao","confidence":0.75,"seq":1591,"note":"原本所据，逃遁时弃之不要"}
