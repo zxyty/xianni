@@ -856,3 +856,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-25T23:47:33.753Z** `ingest` plot.xianni-1405-1409-lingdong-zhoujin-two-third-step-slaves — 仙逆 第1405-1409章：王林亮出两名第三步古奴，鲁夫子战意崩溃 · kind=plot asOf=2026-08-25 entities=93 relations=157 src=01405-01409.md
 - **2026-08-26T00:01:41.666Z** `ingest` plot.xianni-ch1410-1414-qicaijie-hidden-peril-and-ranyun-return — 仙逆 第1410-1414章：七彩界隐患曝光与重返冉云星 · kind=plot asOf=2026-08-26 entities=66 relations=98 src=01410-01414.md
 - **2026-08-26T00:14:03.666Z** `ingest` plot.xianni-1504-lie-youming-4-seven-star-soul-seal-and-seven-color-realm — 第1504章 猎幽冥（四）：七星魂封告成与幽冥兽体内的七彩界 · kind=plot asOf=2026-08-26 entities=16 relations=24 src=01415-01419.p1.md
+- **2026-08-26T00:16:11.172Z** `ingest` plot.xianni-ch1505-lian-refine-star-space-force-out-youming-beast — 第1505章 炼！——王林祭炼八千万丈星空逼出幽冥兽 · kind=plot asOf=2026-08-26 entities=23 relations=27 src=01415-01419.p2.md
