@@ -993,3 +993,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T09:30:22.441Z** `ingest` plot.xianni-ch1654-qingshui-daughter-star-formation-final-battle — 第1654章 清水的女儿——星阵最后防线崩塌与封尊旧部死战 · kind=plot asOf=2026-08-26 entities=32 relations=33 src=01561-01565.p4.md
 - **2026-08-26T09:32:42.912Z** `ingest` plot.xianni-ch1655-zhangzun-appears-qingshui-saves-daughter — 第1655章 掌尊现！——清水舍命护女，掌尊本尊入界，王林之箭破空 · kind=plot asOf=2026-08-26 entities=25 relations=39 src=01561-01565.p5.md
 - **2026-08-26T09:55:32.957Z** `ingest` plot.xianni-ch1566-1570-li-guang-arrow-slays-zhang-zun — 仙逆 第1566-1570章 大爆发：李广箭破掌尊、王林归来罗天 · kind=plot asOf=2026-08-26 entities=96 relations=174 src=01566-01570.md
+- **2026-08-26T10:14:37.995Z** `ingest` plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei — 仙逆 第1571-1575章：界内休整三年与紫霞八妃现身 · kind=plot asOf=2026-08-26 entities=81 relations=118 src=01571-01575.md

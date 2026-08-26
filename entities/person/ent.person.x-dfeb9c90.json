@@ -10,11 +10,12 @@
   ],
   "summary": "仙罡大陆七道宗宗主之一，与道侣共同开宗立派；双日事件后独自归来、封死洞府，最终在大战中重伤。",
   "attributes": {
-    "身份": "七道宗宗主、远古仙域之主/封印设置者、远古仙尊、洞府之主、洞府主人、天道的掠夺者与饲养者",
-    "称号": "七彩仙尊、远古仙皇、七彩道尊",
+    "身份": "七道宗宗主、远古仙域之主/封印设置者、远古仙尊、洞府之主、洞府主人、天道的掠夺者与饲养者、空劫大尊、七道宗开创者",
+    "称号": "七彩仙尊、远古仙皇、七彩道尊、大尊",
     "出身地": "仙罡大陆",
     "结局": "大战中重伤",
-    "存殁": "重伤闭关"
+    "存殁": "沉睡",
+    "小阶段": "空劫中期"
   },
   "observations": {
     "身份": [
@@ -42,6 +43,16 @@
         "value": "天道的掠夺者与饲养者",
         "docId": "plot.xianni-ch1647-dandang-wang-lin-third-stage-of-cultivation",
         "seq": 1556
+      },
+      {
+        "value": "空劫大尊",
+        "docId": "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
+        "seq": 1571
+      },
+      {
+        "value": "七道宗开创者",
+        "docId": "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
+        "seq": 1571
       }
     ],
     "称号": [
@@ -59,6 +70,11 @@
         "value": "七彩道尊",
         "docId": "plot.xianni-1640-qidao-zong-memory-crystal",
         "seq": 1546
+      },
+      {
+        "value": "大尊",
+        "docId": "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
+        "seq": 1571
       }
     ],
     "出身地": [
@@ -82,6 +98,19 @@
         "docId": "plot.xianni-1641-immortals-nothing-special",
         "seq": 1551,
         "note": "本章开篇王林所述前提"
+      },
+      {
+        "value": "沉睡",
+        "docId": "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
+        "seq": 1571,
+        "note": "本片段中尚未苏醒"
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "空劫中期",
+        "docId": "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
+        "seq": 1571
       }
     ]
   },
@@ -114,10 +143,16 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-1641-immortals-nothing-special",
+      "docId": "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
       "dated": false,
-      "seq": 1551,
-      "note": "本章开篇王林所述前提"
+      "seq": 1571,
+      "note": "本片段中尚未苏醒"
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
+      "dated": false,
+      "seq": 1571
     }
   },
   "contested": false,
@@ -127,7 +162,8 @@
     "plot.xianni-1641-immortals-nothing-special",
     "plot.xianni-ch1643-qi-hu-nan-xia-baihu-zhanjiang",
     "plot.xianni-ch1645-wang-lin-four-war-generals-trade",
-    "plot.xianni-ch1647-dandang-wang-lin-third-stage-of-cultivation"
+    "plot.xianni-ch1647-dandang-wang-lin-third-stage-of-cultivation",
+    "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei"
   ],
-  "updatedAt": "2026-08-26T09:07:57.886Z"
+  "updatedAt": "2026-08-26T10:14:37.370Z"
 }
