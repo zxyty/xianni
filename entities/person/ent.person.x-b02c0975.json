@@ -7,10 +7,11 @@
   ],
   "summary": "与东迪子共同主持入界第一战。",
   "attributes": {
-    "阵营": "界外太古星辰、界外太古星辰一方",
+    "阵营": "界外太古星辰、界外太古星辰一方、界外",
     "小阶段": "空灵初期",
     "外貌": "样子清秀的青年，双眼细长眯起如缝、露森森寒光",
-    "标志特征": "身外弥漫一层雾气、眉心印记为一片旋转的黑雾、一身毒攻与大荒上人齐名"
+    "标志特征": "身外弥漫一层雾气、眉心印记为一片旋转的黑雾、一身毒攻与大荒上人齐名、右手化黑、剧毒毒攻",
+    "称号": "与大荒齐名的毒功者"
   },
   "observations": {
     "阵营": [
@@ -23,6 +24,11 @@
         "value": "界外太古星辰一方",
         "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
         "seq": 1425
+      },
+      {
+        "value": "界外",
+        "docId": "plot.xianni-1519-fanji-fengjie-dazhen-liefeng-kaitianfu",
+        "seq": 1429
       }
     ],
     "小阶段": [
@@ -54,6 +60,18 @@
         "value": "一身毒攻与大荒上人齐名",
         "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
         "seq": 1425
+      },
+      {
+        "value": "右手化黑、剧毒毒攻",
+        "docId": "plot.xianni-1519-fanji-fengjie-dazhen-liefeng-kaitianfu",
+        "seq": 1429
+      }
+    ],
+    "称号": [
+      {
+        "value": "与大荒齐名的毒功者",
+        "docId": "plot.xianni-1519-fanji-fengjie-dazhen-liefeng-kaitianfu",
+        "seq": 1429
       }
     ]
   },
@@ -82,12 +100,19 @@
       "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
       "dated": false,
       "seq": 1425
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-1519-fanji-fengjie-dazhen-liefeng-kaitianfu",
+      "dated": false,
+      "seq": 1429
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1516-ru-jie-di-yi-zhan"
+    "plot.xianni-1516-ru-jie-di-yi-zhan",
+    "plot.xianni-1519-fanji-fengjie-dazhen-liefeng-kaitianfu"
   ],
-  "updatedAt": "2026-08-26T01:06:21.702Z"
+  "updatedAt": "2026-08-26T01:11:08.501Z"
 }
