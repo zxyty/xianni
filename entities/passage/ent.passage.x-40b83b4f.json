@@ -7,14 +7,18 @@
     "万丈长裂缝",
     "上空裂缝",
     "象征天劫的裂缝",
-    "王林上空裂缝"
+    "王林上空裂缝",
+    "远古仙域裂缝",
+    "天劫产生的裂缝"
   ],
   "summary": "天劫漩涡瓦解后出现的万丈长裂缝，内传闷闷咆哮，四角祭坛阁楼自其中缓缓蔓延而出。",
   "attributes": {
-    "类型": "空间裂缝",
+    "类型": "天劫裂缝／封印通道",
     "来历": "天劫漩涡被万道赤雷轰溃后显现、天劫降临所化、第三步天劫降临通道",
     "守护": "其内不断咆哮之力",
-    "两端": "昆虚星域上空 ↔ 远古仙域"
+    "两端": "界内星空（朱雀星外）—远古仙域",
+    "稳定性": "极不稳定，开启需天劫，王林离开后收缩消失",
+    "可通行境界": "具仙人血脉的仙罡大陆之人极难走出"
   },
   "observations": {
     "类型": [
@@ -22,6 +26,11 @@
         "value": "空间裂缝",
         "docId": "plot.xianni-ch1627-wo-yi-jie",
         "seq": 1536
+      },
+      {
+        "value": "天劫裂缝／封印通道",
+        "docId": "plot.xianni-ch1646-drink-with-situ-nan-cave-dwelling-truth",
+        "seq": 1556
       }
     ],
     "来历": [
@@ -53,6 +62,26 @@
         "value": "昆虚星域上空 ↔ 远古仙域",
         "docId": "plot.xianni-1629-bukan-yiji-tianjie-fuchen-baota",
         "seq": 1536
+      },
+      {
+        "value": "界内星空（朱雀星外）—远古仙域",
+        "docId": "plot.xianni-ch1646-drink-with-situ-nan-cave-dwelling-truth",
+        "seq": 1556
+      }
+    ],
+    "稳定性": [
+      {
+        "value": "极不稳定，开启需天劫，王林离开后收缩消失",
+        "docId": "plot.xianni-ch1646-drink-with-situ-nan-cave-dwelling-truth",
+        "seq": 1556
+      }
+    ],
+    "可通行境界": [
+      {
+        "value": "具仙人血脉的仙罡大陆之人极难走出",
+        "docId": "plot.xianni-ch1646-drink-with-situ-nan-cave-dwelling-truth",
+        "seq": 1556,
+        "note": "除非倾众人之力相送，如当年送出上代封尊"
       }
     ]
   },
@@ -60,9 +89,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1627-wo-yi-jie",
+      "docId": "plot.xianni-ch1646-drink-with-situ-nan-cave-dwelling-truth",
       "dated": false,
-      "seq": 1536
+      "seq": 1556
     },
     "来历": {
       "asOf": null,
@@ -78,9 +107,22 @@
     },
     "两端": {
       "asOf": null,
-      "docId": "plot.xianni-1629-bukan-yiji-tianjie-fuchen-baota",
+      "docId": "plot.xianni-ch1646-drink-with-situ-nan-cave-dwelling-truth",
       "dated": false,
-      "seq": 1536
+      "seq": 1556
+    },
+    "稳定性": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1646-drink-with-situ-nan-cave-dwelling-truth",
+      "dated": false,
+      "seq": 1556
+    },
+    "可通行境界": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1646-drink-with-situ-nan-cave-dwelling-truth",
+      "dated": false,
+      "seq": 1556,
+      "note": "除非倾众人之力相送，如当年送出上代封尊"
     }
   },
   "contested": false,
@@ -88,7 +130,8 @@
   "docs": [
     "plot.xianni-ch1627-wo-yi-jie",
     "plot.xianni-ch1628-huanzhen-jie-tianjie-shizhe-po",
-    "plot.xianni-1629-bukan-yiji-tianjie-fuchen-baota"
+    "plot.xianni-1629-bukan-yiji-tianjie-fuchen-baota",
+    "plot.xianni-ch1646-drink-with-situ-nan-cave-dwelling-truth"
   ],
-  "updatedAt": "2026-08-26T08:29:59.160Z"
+  "updatedAt": "2026-08-26T09:05:18.513Z"
 }

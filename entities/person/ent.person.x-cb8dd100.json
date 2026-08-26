@@ -4,14 +4,18 @@
   "name": "上代封尊",
   "aliases": [
     "前代封尊",
-    "前任封尊"
+    "前任封尊",
+    "前一代封尊"
   ],
   "summary": "与龙磐子同一时期之人，王林作为「当代封尊」的前任。",
   "attributes": {
     "称号": "封尊",
-    "身份": "上一代封尊",
+    "身份": "仙尊的手下",
     "存殁": "死亡",
-    "死因": "被掌尊所杀"
+    "死因": "被掌尊所杀",
+    "种族": "拥有仙人血脉",
+    "出身地": "仙罡大陆",
+    "性格": "迂腐"
   },
   "observations": {
     "称号": [
@@ -26,6 +30,11 @@
         "value": "上一代封尊",
         "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
         "seq": 1462
+      },
+      {
+        "value": "仙尊的手下",
+        "docId": "plot.xianni-ch1646-drink-with-situ-nan-cave-dwelling-truth",
+        "seq": 1556
       }
     ],
     "存殁": [
@@ -41,6 +50,27 @@
         "docId": "plot.xianni-ch1586-jing-zhong-lao-yue-xian-gu-fen",
         "seq": 1496
       }
+    ],
+    "种族": [
+      {
+        "value": "拥有仙人血脉",
+        "docId": "plot.xianni-ch1646-drink-with-situ-nan-cave-dwelling-truth",
+        "seq": 1556
+      }
+    ],
+    "出身地": [
+      {
+        "value": "仙罡大陆",
+        "docId": "plot.xianni-ch1646-drink-with-situ-nan-cave-dwelling-truth",
+        "seq": 1556
+      }
+    ],
+    "性格": [
+      {
+        "value": "迂腐",
+        "docId": "plot.xianni-ch1646-drink-with-situ-nan-cave-dwelling-truth",
+        "seq": 1556
+      }
     ]
   },
   "firstSeq": 1462,
@@ -53,9 +83,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
+      "docId": "plot.xianni-ch1646-drink-with-situ-nan-cave-dwelling-truth",
       "dated": false,
-      "seq": 1462
+      "seq": 1556
     },
     "存殁": {
       "asOf": null,
@@ -68,6 +98,24 @@
       "docId": "plot.xianni-ch1586-jing-zhong-lao-yue-xian-gu-fen",
       "dated": false,
       "seq": 1496
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1646-drink-with-situ-nan-cave-dwelling-truth",
+      "dated": false,
+      "seq": 1556
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1646-drink-with-situ-nan-cave-dwelling-truth",
+      "dated": false,
+      "seq": 1556
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1646-drink-with-situ-nan-cave-dwelling-truth",
+      "dated": false,
+      "seq": 1556
     }
   },
   "contested": false,
@@ -75,7 +123,8 @@
   "docs": [
     "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
     "plot.xianni-ch1563-third-dao-fruit",
-    "plot.xianni-ch1586-jing-zhong-lao-yue-xian-gu-fen"
+    "plot.xianni-ch1586-jing-zhong-lao-yue-xian-gu-fen",
+    "plot.xianni-ch1646-drink-with-situ-nan-cave-dwelling-truth"
   ],
-  "updatedAt": "2026-08-26T05:44:44.317Z"
+  "updatedAt": "2026-08-26T09:05:18.496Z"
 }

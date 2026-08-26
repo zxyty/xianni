@@ -982,3 +982,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T08:58:34.639Z** `ingest` plot.xianni-ch1643-qi-hu-nan-xia-baihu-zhanjiang — 第1643章 骑虎不下：王林大儒之威震慑白虎战将虎灵 · kind=plot asOf=2026-08-26 entities=16 relations=22 src=01551-01555.p3.md
 - **2026-08-26T09:00:30.210Z** `ingest` plot.xianni-ch1644-jing-four-generals-ambush — 第1644章 静！——四大战将偷袭，王林弯弓退敌 · kind=plot asOf=2026-08-26 entities=16 relations=24 src=01551-01555.p4.md
 - **2026-08-26T09:02:54.292Z** `ingest` plot.xianni-ch1645-wang-lin-four-war-generals-trade — 第1645章 交易：王林以李广弓要挟四大战将达成远古仙域之约 · kind=plot asOf=2026-08-26 entities=23 relations=29 src=01551-01555.p5.md
+- **2026-08-26T09:05:18.929Z** `ingest` plot.xianni-ch1646-drink-with-situ-nan-cave-dwelling-truth — 第1646章 与司徒一醉：王林出远古仙域后向司徒南吐露洞府真相 · kind=plot asOf=2026-08-26 entities=23 relations=31 src=01556-01560.p1.md
