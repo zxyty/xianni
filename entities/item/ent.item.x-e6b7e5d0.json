@@ -1,44 +1,33 @@
 {
-  "id": "ent.item.x-0b16d330",
+  "id": "ent.item.x-e6b7e5d0",
   "type": "item",
-  "name": "竹排书箱",
+  "name": "紫衣女子的外套",
   "aliases": [
-    "竹排",
-    "书箱",
-    "王林的书箱"
+    "厚实外套",
+    "女子外套"
   ],
-  "summary": "王林背负的赶考行囊，内有银两、干粮、衣衫、笔墨书籍与折叠油伞。",
+  "summary": "紫衣女子自储物袋取出、盖在发冷的王林身上的厚外套，带淡淡清香；王林醒后将其折起放入书箱。",
   "attributes": {
-    "类型": "行装",
-    "用途": "盛放书册与随身物"
+    "类型": "衣物",
+    "用途": "御寒"
   },
   "observations": {
     "类型": [
       {
-        "value": "行囊书箱",
-        "docId": "plot.xianni-ch1590-meng-ru-ren-sheng",
-        "seq": 1496
-      },
-      {
-        "value": "行装",
+        "value": "衣物",
         "docId": "plot.xianni-ch1592-life-is-a-play-who-am-i",
         "seq": 1501
       }
     ],
     "用途": [
       {
-        "value": "盛放赶考所需银两、干粮、衣衫、笔墨书籍",
-        "docId": "plot.xianni-ch1590-meng-ru-ren-sheng",
-        "seq": 1496
-      },
-      {
-        "value": "盛放书册与随身物",
+        "value": "御寒",
         "docId": "plot.xianni-ch1592-life-is-a-play-who-am-i",
         "seq": 1501
       }
     ]
   },
-  "firstSeq": 1496,
+  "firstSeq": 1501,
   "attrProvenance": {
     "类型": {
       "asOf": null,
@@ -56,8 +45,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1590-meng-ru-ren-sheng",
     "plot.xianni-ch1592-life-is-a-play-who-am-i"
   ],
-  "updatedAt": "2026-08-26T05:58:37.489Z"
+  "updatedAt": "2026-08-26T05:58:37.485Z"
 }

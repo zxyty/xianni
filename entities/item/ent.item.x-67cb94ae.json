@@ -1,44 +1,32 @@
 {
-  "id": "ent.item.x-0b16d330",
+  "id": "ent.item.x-67cb94ae",
   "type": "item",
-  "name": "竹排书箱",
+  "name": "乌篷船的烛台",
   "aliases": [
-    "竹排",
-    "书箱",
-    "王林的书箱"
+    "船中烛火"
   ],
-  "summary": "王林背负的赶考行囊，内有银两、干粮、衣衫、笔墨书籍与折叠油伞。",
+  "summary": "乌篷内的烛台，夜里自行熄灭；清晨被王林下意识一指隔空点燃，白鸟离去后又自行熄灭。",
   "attributes": {
-    "类型": "行装",
-    "用途": "盛放书册与随身物"
+    "类型": "灯具",
+    "用途": "照明"
   },
   "observations": {
     "类型": [
       {
-        "value": "行囊书箱",
-        "docId": "plot.xianni-ch1590-meng-ru-ren-sheng",
-        "seq": 1496
-      },
-      {
-        "value": "行装",
+        "value": "灯具",
         "docId": "plot.xianni-ch1592-life-is-a-play-who-am-i",
         "seq": 1501
       }
     ],
     "用途": [
       {
-        "value": "盛放赶考所需银两、干粮、衣衫、笔墨书籍",
-        "docId": "plot.xianni-ch1590-meng-ru-ren-sheng",
-        "seq": 1496
-      },
-      {
-        "value": "盛放书册与随身物",
+        "value": "照明",
         "docId": "plot.xianni-ch1592-life-is-a-play-who-am-i",
         "seq": 1501
       }
     ]
   },
-  "firstSeq": 1496,
+  "firstSeq": 1501,
   "attrProvenance": {
     "类型": {
       "asOf": null,
@@ -56,8 +44,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1590-meng-ru-ren-sheng",
     "plot.xianni-ch1592-life-is-a-play-who-am-i"
   ],
-  "updatedAt": "2026-08-26T05:58:37.489Z"
+  "updatedAt": "2026-08-26T05:58:37.490Z"
 }
