@@ -9,9 +9,11 @@
   ],
   "summary": "远古仙尊四大战将之一，被封印于雕像；其被封印使「一代朱雀」的身份成疑。",
   "attributes": {
-    "身份": "七彩仙尊麾下战将",
+    "身份": "远古仙尊四大战将之一、七彩仙尊麾下战将、残仙·四大战将之一",
     "结局": "被封印于雕像",
-    "标志特征": "气息仿若朱雀之祖"
+    "标志特征": "气息仿若朱雀之祖",
+    "外貌": "身穿红袍",
+    "存殁": "在世"
   },
   "observations": {
     "身份": [
@@ -23,6 +25,11 @@
       {
         "value": "七彩仙尊麾下战将",
         "docId": "plot.xianni-1641-immortals-nothing-special",
+        "seq": 1551
+      },
+      {
+        "value": "残仙·四大战将之一",
+        "docId": "plot.xianni-ch1644-jing-four-generals-ambush",
         "seq": 1551
       }
     ],
@@ -40,15 +47,29 @@
         "docId": "plot.xianni-1641-immortals-nothing-special",
         "seq": 1551
       }
+    ],
+    "外貌": [
+      {
+        "value": "身穿红袍",
+        "docId": "plot.xianni-ch1644-jing-four-generals-ambush",
+        "seq": 1551
+      }
+    ],
+    "存殁": [
+      {
+        "value": "在世",
+        "docId": "plot.xianni-ch1644-jing-four-generals-ambush",
+        "seq": 1551
+      }
     ]
   },
   "firstSeq": 1462,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1641-immortals-nothing-special",
+      "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
       "dated": false,
-      "seq": 1551
+      "seq": 1462
     },
     "结局": {
       "asOf": null,
@@ -62,13 +83,26 @@
       "docId": "plot.xianni-1641-immortals-nothing-special",
       "dated": false,
       "seq": 1551
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1644-jing-four-generals-ambush",
+      "dated": false,
+      "seq": 1551
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1644-jing-four-generals-ambush",
+      "dated": false,
+      "seq": 1551
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
-    "plot.xianni-1641-immortals-nothing-special"
+    "plot.xianni-1641-immortals-nothing-special",
+    "plot.xianni-ch1644-jing-four-generals-ambush"
   ],
-  "updatedAt": "2026-08-26T08:54:59.992Z"
+  "updatedAt": "2026-08-26T09:00:29.713Z"
 }
