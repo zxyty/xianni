@@ -1,54 +1,55 @@
 {
-  "id": "ent.person.x-d8b32541",
+  "id": "ent.person.x-1b49f0b4",
   "type": "person",
-  "name": "红杉子",
+  "name": "鬼宗大虚",
   "aliases": [
-    "Hong Shan Zi"
+    "鬼宗青衣老者",
+    "大虚"
   ],
-  "summary": "妖尊当年立约的三人之一，身处其余三大星域，玄炳受命前往寻访履约。",
+  "summary": "鬼宗闭关洞府中的青衣老者，面色阴沉、四周鬼火环绕，接到云鹤传来的交易请求。",
   "attributes": {
-    "身份": "与妖尊有当年之约者",
-    "外貌": "红衣男子，眼中寒光",
-    "性格": "冷厉而识才"
+    "外貌": "青衣、面色阴沉、四周环绕无数鬼火",
+    "身份": "鬼宗高层",
+    "阵营": "鬼宗"
   },
   "observations": {
-    "身份": [
-      {
-        "value": "与妖尊有当年之约者",
-        "docId": "plot.xianni-ch1305-tianjie-wei-jie-yi-wei-zaohua",
-        "seq": 1217
-      }
-    ],
     "外貌": [
       {
-        "value": "红衣男子，眼中寒光",
+        "value": "青衣、面色阴沉、四周环绕无数鬼火",
         "docId": "plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm",
         "seq": 1420
       }
     ],
-    "性格": [
+    "身份": [
       {
-        "value": "冷厉而识才",
+        "value": "鬼宗高层",
+        "docId": "plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm",
+        "seq": 1420
+      }
+    ],
+    "阵营": [
+      {
+        "value": "鬼宗",
         "docId": "plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm",
         "seq": 1420
       }
     ]
   },
-  "firstSeq": 1217,
+  "firstSeq": 1420,
   "attrProvenance": {
-    "身份": {
-      "asOf": null,
-      "docId": "plot.xianni-ch1305-tianjie-wei-jie-yi-wei-zaohua",
-      "dated": false,
-      "seq": 1217
-    },
     "外貌": {
       "asOf": null,
       "docId": "plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm",
       "dated": false,
       "seq": 1420
     },
-    "性格": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm",
+      "dated": false,
+      "seq": 1420
+    },
+    "阵营": {
       "asOf": null,
       "docId": "plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm",
       "dated": false,
@@ -58,8 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1305-tianjie-wei-jie-yi-wei-zaohua",
     "plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm"
   ],
-  "updatedAt": "2026-08-26T00:36:32.164Z"
+  "updatedAt": "2026-08-26T00:36:32.099Z"
 }

@@ -860,3 +860,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T00:18:16.162Z** `ingest` plot.xianni-1506-benming-zhi-shou-youming-shou — 第1506章 本命之兽！——王林以昆极鞭百鞭三封幽冥兽，收为本命之兽并取出道果 · kind=plot asOf=2026-08-26 entities=17 relations=23 src=01415-01419.p3.md
 - **2026-08-26T00:20:52.611Z** `ingest` plot.xianni-1507-fengmiezu-jitan-blood-star — 第1507章 封灭族祭坛——血星裂缝中的心斗与血阁 · kind=plot asOf=2026-08-26 entities=25 relations=36 src=01415-01419.p4.md
 - **2026-08-26T00:28:25.368Z** `ingest` plot.xianni-1508-shuidaozi-fengjieling-hunt-wanglin — 第1508章 卑鄙！！——水道子七枚玉简发封界令，悬赏天下必杀王林 · kind=plot asOf=2026-08-26 entities=45 relations=75 src=01415-01419.p5.md
+- **2026-08-26T00:36:32.626Z** `ingest` plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm — 《仙逆》第1509章 这一战！！——水道子六枚玉简封命，界内震动，青霖传念护王林 · kind=plot asOf=2026-08-26 entities=52 relations=82 src=01420-01424.p1.md

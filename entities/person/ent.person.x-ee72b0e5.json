@@ -1,46 +1,47 @@
 {
-  "id": "ent.person.x-d8b32541",
+  "id": "ent.person.x-ee72b0e5",
   "type": "person",
-  "name": "红杉子",
+  "name": "召河星域青衣男子",
   "aliases": [
-    "Hong Shan Zi"
+    "慵懒青衣男子",
+    "打哈气的青衣男子"
   ],
-  "summary": "妖尊当年立约的三人之一，身处其余三大星域，玄炳受命前往寻访履约。",
+  "summary": "在召河星空中寻找「马师伯说的那样东西」的慵懒青年，认出王林是「当年那个小家伙」。",
   "attributes": {
-    "身份": "与妖尊有当年之约者",
-    "外貌": "红衣男子，眼中寒光",
-    "性格": "冷厉而识才"
+    "性别": "男",
+    "外貌": "身穿青衣、神色慵懒、不断打哈气",
+    "身份": "马师伯的晚辈/后学"
   },
   "observations": {
-    "身份": [
+    "性别": [
       {
-        "value": "与妖尊有当年之约者",
-        "docId": "plot.xianni-ch1305-tianjie-wei-jie-yi-wei-zaohua",
-        "seq": 1217
-      }
-    ],
-    "外貌": [
-      {
-        "value": "红衣男子，眼中寒光",
+        "value": "男",
         "docId": "plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm",
         "seq": 1420
       }
     ],
-    "性格": [
+    "外貌": [
       {
-        "value": "冷厉而识才",
+        "value": "身穿青衣、神色慵懒、不断打哈气",
+        "docId": "plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm",
+        "seq": 1420
+      }
+    ],
+    "身份": [
+      {
+        "value": "马师伯的晚辈/后学",
         "docId": "plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm",
         "seq": 1420
       }
     ]
   },
-  "firstSeq": 1217,
+  "firstSeq": 1420,
   "attrProvenance": {
-    "身份": {
+    "性别": {
       "asOf": null,
-      "docId": "plot.xianni-ch1305-tianjie-wei-jie-yi-wei-zaohua",
+      "docId": "plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm",
       "dated": false,
-      "seq": 1217
+      "seq": 1420
     },
     "外貌": {
       "asOf": null,
@@ -48,7 +49,7 @@
       "dated": false,
       "seq": 1420
     },
-    "性格": {
+    "身份": {
       "asOf": null,
       "docId": "plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm",
       "dated": false,
@@ -58,8 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1305-tianjie-wei-jie-yi-wei-zaohua",
     "plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm"
   ],
-  "updatedAt": "2026-08-26T00:36:32.164Z"
+  "updatedAt": "2026-08-26T00:36:32.102Z"
 }
