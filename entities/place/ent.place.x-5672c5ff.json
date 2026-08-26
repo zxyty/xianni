@@ -10,18 +10,20 @@
     "真言族修真星十万大山",
     "十万大山雷山",
     "十万座大山",
-    "玄武背刺"
+    "玄武背刺",
+    "十万大山最高山峰",
+    "十万利刺化山"
   ],
   "summary": "天运宗所在的广袤山脉，入门三关的出口在其外，穿越之后方达紫宗山门所在巨峰。",
   "attributes": {
-    "所属势力": "天运宗",
-    "类型": "阵法山群/血祭之地",
+    "所属势力": "修真联盟",
+    "类型": "山脉、被镇压封印之地、阵法山群/血祭之地、大阵/封印之地",
     "方位": "修真星南部尽头",
-    "规模": "近十万座",
+    "规模": "连绵成片，一眼看不到尽头、十万山峰、近十万座、十万大山、十万修士",
     "特产": "浓密原始巨树、众多凶猛之兽",
-    "危险度": "极高",
+    "危险度": "高、极高、极高（杀气可轰开修士道心致死）",
     "上级区域": "真言族修真星、修真星、七彩界",
-    "守护": "王林所布雷霆之力",
+    "守护": "石化玄武真身、十根七彩利刺",
     "所属界面": "七彩界"
   },
   "observations": {
@@ -30,6 +32,11 @@
         "value": "天运宗",
         "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
         "seq": 457
+      },
+      {
+        "value": "修真联盟",
+        "docId": "plot.xianni-ch1555-qingshui-shilingwushan-yangdao",
+        "seq": 1462
       }
     ],
     "类型": [
@@ -46,6 +53,11 @@
       {
         "value": "阵法山群/血祭之地",
         "docId": "plot.xianni-ch1554-xuanwu-seven-color-realm",
+        "seq": 1462
+      },
+      {
+        "value": "大阵/封印之地",
+        "docId": "plot.xianni-ch1555-qingshui-shilingwushan-yangdao",
         "seq": 1462
       }
     ],
@@ -71,6 +83,11 @@
         "value": "近十万座",
         "docId": "plot.xianni-ch1554-xuanwu-seven-color-realm",
         "seq": 1462
+      },
+      {
+        "value": "十万大山、十万修士",
+        "docId": "plot.xianni-ch1555-qingshui-shilingwushan-yangdao",
+        "seq": 1462
       }
     ],
     "特产": [
@@ -89,6 +106,11 @@
       {
         "value": "极高",
         "docId": "plot.xianni-ch1554-xuanwu-seven-color-realm",
+        "seq": 1462
+      },
+      {
+        "value": "极高（杀气可轰开修士道心致死）",
+        "docId": "plot.xianni-ch1555-qingshui-shilingwushan-yangdao",
         "seq": 1462
       }
     ],
@@ -114,6 +136,11 @@
         "value": "王林所布雷霆之力",
         "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
         "seq": 1285
+      },
+      {
+        "value": "石化玄武真身、十根七彩利刺",
+        "docId": "plot.xianni-ch1555-qingshui-shilingwushan-yangdao",
+        "seq": 1462
       }
     ],
     "所属界面": [
@@ -128,15 +155,15 @@
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
+      "docId": "plot.xianni-ch1555-qingshui-shilingwushan-yangdao",
       "dated": false,
-      "seq": 457
+      "seq": 1462
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1554-xuanwu-seven-color-realm",
+      "docId": "plot.xianni-ch457-461-tianyunzong-ziyunge",
       "dated": false,
-      "seq": 1462
+      "seq": 457
     },
     "方位": {
       "asOf": null,
@@ -146,9 +173,9 @@
     },
     "规模": {
       "asOf": null,
-      "docId": "plot.xianni-ch1554-xuanwu-seven-color-realm",
+      "docId": "plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin",
       "dated": false,
-      "seq": 1462
+      "seq": 1280
     },
     "特产": {
       "asOf": null,
@@ -158,9 +185,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch1554-xuanwu-seven-color-realm",
+      "docId": "plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin",
       "dated": false,
-      "seq": 1462
+      "seq": 1280
     },
     "上级区域": {
       "asOf": null,
@@ -170,9 +197,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
+      "docId": "plot.xianni-ch1555-qingshui-shilingwushan-yangdao",
       "dated": false,
-      "seq": 1285
+      "seq": 1462
     },
     "所属界面": {
       "asOf": null,
@@ -188,7 +215,8 @@
     "plot.xianni-1367-si-mo-zi-yun-luo-locates-wang-lin",
     "plot.xianni-1368-nine-companion-thunders-gate-of-void",
     "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
-    "plot.xianni-ch1554-xuanwu-seven-color-realm"
+    "plot.xianni-ch1554-xuanwu-seven-color-realm",
+    "plot.xianni-ch1555-qingshui-shilingwushan-yangdao"
   ],
-  "updatedAt": "2026-08-26T03:55:06.861Z"
+  "updatedAt": "2026-08-26T03:57:22.743Z"
 }

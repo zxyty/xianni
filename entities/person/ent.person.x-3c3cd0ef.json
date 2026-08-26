@@ -6,7 +6,8 @@
     "玄武圣宗圣皇",
     "修真联盟昔日玄武圣皇",
     "背叛的玄武圣皇",
-    "Xuan Wu Sheng Huang"
+    "Xuan Wu Sheng Huang",
+    "叛离四圣宗的玄武"
   ],
   "summary": "决战关键时刻率三大弟子及绝大部分族人叛变四圣宗，并偷袭朱雀圣皇（失败但引爆其天人第三衰）；叛变原因至今成谜。",
   "attributes": {
@@ -15,7 +16,10 @@
     "性格": "背叛者",
     "身份": "玄武圣宗圣皇",
     "存殁": "死亡",
-    "结局": "叛逃"
+    "结局": "叛逃",
+    "出身地": "四圣宗",
+    "死因": "吸收玄武之力至最兴奋时遭遇骇然之事而死",
+    "外貌": "中年男子，正面盘膝，死前神色似喜似惊"
   },
   "observations": {
     "称号": [
@@ -75,7 +79,8 @@
       {
         "value": "死亡",
         "docId": "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
-        "seq": 1024
+        "seq": 1024,
+        "note": "第1555章见其疑似尸体；身份为王林冥冥中推测，未证实"
       }
     ],
     "结局": [
@@ -83,6 +88,28 @@
         "value": "叛逃",
         "docId": "plot.xianni-ch1414-dianluo-zhi-ming",
         "seq": 1321
+      }
+    ],
+    "出身地": [
+      {
+        "value": "四圣宗",
+        "docId": "plot.xianni-ch1555-qingshui-shilingwushan-yangdao",
+        "seq": 1462
+      }
+    ],
+    "死因": [
+      {
+        "value": "吸收玄武之力至最兴奋时遭遇骇然之事而死",
+        "docId": "plot.xianni-ch1555-qingshui-shilingwushan-yangdao",
+        "seq": 1462,
+        "note": "由死状推测"
+      }
+    ],
+    "外貌": [
+      {
+        "value": "中年男子，正面盘膝，死前神色似喜似惊",
+        "docId": "plot.xianni-ch1555-qingshui-shilingwushan-yangdao",
+        "seq": 1462
       }
     ]
   },
@@ -117,13 +144,33 @@
       "asOf": null,
       "docId": "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
       "dated": false,
-      "seq": 1024
+      "seq": 1024,
+      "note": "第1555章见其疑似尸体；身份为王林冥冥中推测，未证实"
     },
     "结局": {
       "asOf": null,
       "docId": "plot.xianni-ch1414-dianluo-zhi-ming",
       "dated": false,
       "seq": 1321
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1555-qingshui-shilingwushan-yangdao",
+      "dated": false,
+      "seq": 1462
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1555-qingshui-shilingwushan-yangdao",
+      "dated": false,
+      "seq": 1462,
+      "note": "由死状推测"
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1555-qingshui-shilingwushan-yangdao",
+      "dated": false,
+      "seq": 1462
     }
   },
   "contested": false,
@@ -133,7 +180,8 @@
     "plot.xianni-ch1002-1005-yaoling-zhi-di-final-clash-zhuque-shenghuang-arrival",
     "plot.xianni-1097-si-sheng-zong-mi-mi-si-fen-zhi-men",
     "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
-    "plot.xianni-ch1414-dianluo-zhi-ming"
+    "plot.xianni-ch1414-dianluo-zhi-ming",
+    "plot.xianni-ch1555-qingshui-shilingwushan-yangdao"
   ],
-  "updatedAt": "2026-08-25T17:15:01.282Z"
+  "updatedAt": "2026-08-26T03:57:22.740Z"
 }
