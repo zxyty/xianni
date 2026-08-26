@@ -12,7 +12,8 @@
   "attributes": {
     "阵营": "界外",
     "等级": "圣地",
-    "理念": "夺回天逆、打通通往界内远古仙域之路"
+    "理念": "夺回天逆、打通通往界内远古仙域之路",
+    "所属界面": "界外太古星辰"
   },
   "observations": {
     "阵营": [
@@ -35,6 +36,13 @@
         "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
         "seq": 1200
       }
+    ],
+    "所属界面": [
+      {
+        "value": "界外太古星辰",
+        "docId": "plot.xianni-ch1684-immortal-dragon-manifests-dao",
+        "seq": 1591
+      }
     ]
   },
   "firstSeq": 1200,
@@ -56,13 +64,20 @@
       "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
       "dated": false,
       "seq": 1200
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1684-immortal-dragon-manifests-dao",
+      "dated": false,
+      "seq": 1591
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "lore.xianni-1284-tianni-origin-fengjie-zhizun",
-    "plot.xianni-ch1645-wang-lin-four-war-generals-trade"
+    "plot.xianni-ch1645-wang-lin-four-war-generals-trade",
+    "plot.xianni-ch1684-immortal-dragon-manifests-dao"
   ],
-  "updatedAt": "2026-08-26T09:02:53.867Z"
+  "updatedAt": "2026-08-26T11:53:37.689Z"
 }

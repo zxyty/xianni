@@ -1008,3 +1008,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T11:41:18.924Z** `ingest` plot.xianni-1681-blood-sword-tip-pierces-into-xiangang — 第1681章 进入仙罡的剑尖！——石门封印外通仙罡大陆，归一宗分宗东丹钟现烨寞之剑 · kind=plot asOf=2026-08-26 entities=15 relations=21 src=01591-01595.p1.md
 - **2026-08-26T11:43:59.238Z** `ingest` plot.xianni-ch1682-outsiders-wind-immortal-realm-reassembled — 第1682章 外来者：王林推衍七道宗洞府通道来历，封裂缝、重聚风仙界并奔赴闪界 · kind=plot asOf=2026-08-26 entities=32 relations=38 src=01591-01595.p2.md
 - **2026-08-26T11:46:44.227Z** `ingest` plot.xianni-ch1683-new-immortal-realm-forged-wang-lin-departs-to-defy-immortality — 第1683章 此去，逆仙！——王林凝聚新仙界后孤身赴逆仙之路 · kind=plot asOf=2026-08-26 entities=25 relations=38 src=01591-01595.p3.md
+- **2026-08-26T11:53:38.252Z** `ingest` plot.xianni-ch1684-immortal-dragon-manifests-dao — 第1684章 仙龙显道：王林分身归体，独闯界外太古星辰 · kind=plot asOf=2026-08-26 entities=41 relations=66 src=01591-01595.p4.md

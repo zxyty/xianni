@@ -3,13 +3,15 @@
   "type": "place",
   "name": "掌尊宫殿",
   "aliases": [
-    "掌尊的宫殿"
+    "掌尊的宫殿",
+    "漂浮星空的宫殿"
   ],
   "summary": "太古星辰内始终漂浮于星空的宫殿，重伤黑袍人盘膝于其内烛火前施展「井中捞月」。",
   "attributes": {
     "上级区域": "太古星辰",
     "类型": "漂浮宫殿",
-    "所属势力": "掌尊"
+    "所属势力": "掌尊",
+    "方位": "漂浮星空"
   },
   "observations": {
     "上级区域": [
@@ -32,6 +34,13 @@
         "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
         "seq": 1425
       }
+    ],
+    "方位": [
+      {
+        "value": "漂浮星空",
+        "docId": "plot.xianni-ch1684-immortal-dragon-manifests-dao",
+        "seq": 1591
+      }
     ]
   },
   "firstSeq": 1425,
@@ -53,12 +62,19 @@
       "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
       "dated": false,
       "seq": 1425
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1684-immortal-dragon-manifests-dao",
+      "dated": false,
+      "seq": 1591
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1516-ru-jie-di-yi-zhan"
+    "plot.xianni-1516-ru-jie-di-yi-zhan",
+    "plot.xianni-ch1684-immortal-dragon-manifests-dao"
   ],
-  "updatedAt": "2026-08-26T01:06:21.797Z"
+  "updatedAt": "2026-08-26T11:53:37.702Z"
 }

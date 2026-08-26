@@ -3,13 +3,17 @@
   "type": "person",
   "name": "第三妃",
   "aliases": [
-    "仙尊第三妃"
+    "仙尊第三妃",
+    "仙尊八妃第三妃"
   ],
   "summary": "仙尊八妃之一，与王林有过交集，被王林放出古之墓地，未参与界内大战。",
   "attributes": {
     "性别": "女",
-    "身份": "七彩仙尊第三妃",
-    "性格": "冷漠"
+    "身份": "仙尊八妃之一",
+    "性格": "冷漠",
+    "外貌": "白衣、容颜绝美",
+    "标志特征": "一身寒冰之冷，如不化之雪",
+    "阵营": "未参与界内之战"
   },
   "observations": {
     "性别": [
@@ -24,6 +28,11 @@
         "value": "七彩仙尊第三妃",
         "docId": "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
         "seq": 1571
+      },
+      {
+        "value": "仙尊八妃之一",
+        "docId": "plot.xianni-ch1684-immortal-dragon-manifests-dao",
+        "seq": 1591
       }
     ],
     "性格": [
@@ -31,6 +40,28 @@
         "value": "冷漠",
         "docId": "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
         "seq": 1571
+      }
+    ],
+    "外貌": [
+      {
+        "value": "白衣、容颜绝美",
+        "docId": "plot.xianni-ch1684-immortal-dragon-manifests-dao",
+        "seq": 1591
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "一身寒冰之冷，如不化之雪",
+        "docId": "plot.xianni-ch1684-immortal-dragon-manifests-dao",
+        "seq": 1591
+      }
+    ],
+    "阵营": [
+      {
+        "value": "未参与界内之战",
+        "docId": "plot.xianni-ch1684-immortal-dragon-manifests-dao",
+        "seq": 1591,
+        "note": "自离开古之墓地后独处等待"
       }
     ]
   },
@@ -44,21 +75,41 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
+      "docId": "plot.xianni-ch1684-immortal-dragon-manifests-dao",
       "dated": false,
-      "seq": 1571
+      "seq": 1591
     },
     "性格": {
       "asOf": null,
       "docId": "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
       "dated": false,
       "seq": 1571
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1684-immortal-dragon-manifests-dao",
+      "dated": false,
+      "seq": 1591
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1684-immortal-dragon-manifests-dao",
+      "dated": false,
+      "seq": 1591
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1684-immortal-dragon-manifests-dao",
+      "dated": false,
+      "seq": 1591,
+      "note": "自离开古之墓地后独处等待"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei"
+    "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
+    "plot.xianni-ch1684-immortal-dragon-manifests-dao"
   ],
-  "updatedAt": "2026-08-26T10:14:37.394Z"
+  "updatedAt": "2026-08-26T11:53:37.728Z"
 }
