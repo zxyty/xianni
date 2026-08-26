@@ -13,17 +13,19 @@
     "总部深处星球",
     "修真联盟总部外围",
     "修真联盟总部大阵",
-    "被封死的修真联盟总部"
+    "被封死的修真联盟总部",
+    "联盟总部七彩界",
+    "七彩部落"
   ],
   "summary": "杀域界绝大部分净涅修士本章前往之地，导致杀域界防务空虚、无法施展九十九剑之阵。",
   "attributes": {
-    "所属势力": "修真联盟",
-    "类型": "独立开辟空间、漂浮于漩涡之上的星球、势力总部、闭关之地、总部/封禁之地",
+    "所属势力": "太古星辰（界外之修）",
+    "类型": "独立开辟空间、漂浮于漩涡之上的星球、势力总部、闭关之地、总部/封禁之地、势力中枢、势力总部／七彩界据点",
     "规模": "一百七十三颗巨大修真星",
     "所属界面": "联盟星域",
-    "上级区域": "联盟星域",
+    "上级区域": "昆虚",
     "方位": "联盟星域中心部位",
-    "守护": "外围封锁大阵",
+    "守护": "天兆上师、联盟遗留法宝与阵法",
     "危险度": "极高"
   },
   "observations": {
@@ -32,6 +34,12 @@
         "value": "修真联盟",
         "docId": "plot.xianni-ch953-chaizi-qingshui-shanbeng-shayujie-destroyed",
         "seq": 885
+      },
+      {
+        "value": "太古星辰（界外之修）",
+        "docId": "plot.xianni-ch1547-decades-of-change",
+        "seq": 1453,
+        "note": "原属修真联盟，已沦陷"
       }
     ],
     "类型": [
@@ -59,6 +67,16 @@
         "value": "总部/封禁之地",
         "docId": "plot.xianni-1405-1409-lingdong-zhoujin-two-third-step-slaves",
         "seq": 1405
+      },
+      {
+        "value": "势力中枢",
+        "docId": "plot.xianni-ch1547-decades-of-change",
+        "seq": 1453
+      },
+      {
+        "value": "势力总部／七彩界据点",
+        "docId": "plot.xianni-ch1547-decades-of-change",
+        "seq": 1453
       }
     ],
     "规模": [
@@ -85,6 +103,11 @@
         "value": "联盟星域",
         "docId": "plot.xianni-1096-jingtian-yinmi-limo-baiyi-lundao",
         "seq": 1014
+      },
+      {
+        "value": "昆虚",
+        "docId": "plot.xianni-ch1547-decades-of-change",
+        "seq": 1453
       }
     ],
     "方位": [
@@ -124,6 +147,11 @@
         "value": "外围封锁大阵",
         "docId": "plot.xianni-ch1108-ancient-immortal-domain-aura",
         "seq": 1024
+      },
+      {
+        "value": "天兆上师、联盟遗留法宝与阵法",
+        "docId": "plot.xianni-ch1547-decades-of-change",
+        "seq": 1453
       }
     ],
     "危险度": [
@@ -150,9 +178,10 @@
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch953-chaizi-qingshui-shanbeng-shayujie-destroyed",
+      "docId": "plot.xianni-ch1547-decades-of-change",
       "dated": false,
-      "seq": 885
+      "seq": 1453,
+      "note": "原属修真联盟，已沦陷"
     },
     "类型": {
       "asOf": null,
@@ -174,9 +203,9 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-1096-jingtian-yinmi-limo-baiyi-lundao",
+      "docId": "plot.xianni-ch1547-decades-of-change",
       "dated": false,
-      "seq": 1014
+      "seq": 1453
     },
     "方位": {
       "asOf": null,
@@ -186,9 +215,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch1108-ancient-immortal-domain-aura",
+      "docId": "plot.xianni-ch1547-decades-of-change",
       "dated": false,
-      "seq": 1024
+      "seq": 1453
     },
     "危险度": {
       "asOf": null,
@@ -214,7 +243,8 @@
     "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
     "plot.xianni-1405-1409-lingdong-zhoujin-two-third-step-slaves",
     "plot.xianni-ch1410-1414-qicaijie-hidden-peril-and-ranyun-return",
-    "plot.xianni-ch1545-three-treasures-return-to-alliance"
+    "plot.xianni-ch1545-three-treasures-return-to-alliance",
+    "plot.xianni-ch1547-decades-of-change"
   ],
-  "updatedAt": "2026-08-26T02:44:25.811Z"
+  "updatedAt": "2026-08-26T02:55:01.824Z"
 }

@@ -16,18 +16,18 @@
   ],
   "summary": "妖尊当年立约的三人之一，身处其余三大星域，玄炳受命前往寻访履约。",
   "attributes": {
-    "身份": "被困",
+    "身份": "与妖尊有当年之约者、大能、界内大能、被困、封尊界大能",
     "外貌": "红衣男子，眼中寒光、红衣男子、一身红衣、身外弥漫红云；当年为童子之样",
     "性格": "冷厉而识才、刚烈决断、豪迈磅礴，不畏天地",
     "出身地": "云海一阶星雾内的山谷",
-    "阵营": "界内、云海星域/界内、云海星域、云海一方（界内）、界内·云海一方、云海星域界内一方",
+    "阵营": "界内、云海星域/界内、云海星域、云海一方（界内）、界内·云海一方、云海星域界内一方、封尊界",
     "元神强度": "威压堪比蓝梦道尊",
     "小阶段": "第三步大能、空玄中期，距后期半步之遥",
     "道号": "红杉子",
     "称号": "血衫童子",
     "标志特征": "逼出敌人体内血液凝成红色长衫，令其成干尸并化作活死人受其操控、所传阵法为云海修士根深蒂固之战法",
-    "分身": "本章现身者为分身，本体未出",
-    "存殁": "在世"
+    "分身": "本章现身者为分身，本体未出、封界战台之上者为其一具分身、以分身推算战局并行事",
+    "存殁": "被封印"
   },
   "observations": {
     "身份": [
@@ -51,6 +51,11 @@
         "docId": "plot.xianni-ch1546-i-have-returned",
         "seq": 1453,
         "note": "本章为他人转述的现状"
+      },
+      {
+        "value": "封尊界大能",
+        "docId": "plot.xianni-ch1547-decades-of-change",
+        "seq": 1453
       }
     ],
     "外貌": [
@@ -130,6 +135,11 @@
         "value": "云海星域界内一方",
         "docId": "plot.xianni-ch1526-nanzhao-shangren-dies",
         "seq": 1434
+      },
+      {
+        "value": "封尊界",
+        "docId": "plot.xianni-ch1547-decades-of-change",
+        "seq": 1453
       }
     ],
     "元神强度": [
@@ -185,6 +195,16 @@
         "docId": "plot.xianni-1523-yunhai-rout-hongshanzi-ambushed",
         "seq": 1429,
         "note": "寒衣童子点破"
+      },
+      {
+        "value": "封界战台之上者为其一具分身",
+        "docId": "plot.xianni-ch1547-decades-of-change",
+        "seq": 1453
+      },
+      {
+        "value": "以分身推算战局并行事",
+        "docId": "plot.xianni-ch1547-decades-of-change",
+        "seq": 1453
       }
     ],
     "存殁": [
@@ -193,6 +213,12 @@
         "docId": "plot.xianni-ch1525-zang-gu-wu-ren-yi",
         "seq": 1434,
         "note": "本章带伤"
+      },
+      {
+        "value": "被封印",
+        "docId": "plot.xianni-ch1547-decades-of-change",
+        "seq": 1453,
+        "note": "本体困于召河七彩界，被三万界外修士镇压"
       }
     ]
   },
@@ -200,10 +226,9 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1546-i-have-returned",
+      "docId": "plot.xianni-ch1305-tianjie-wei-jie-yi-wei-zaohua",
       "dated": false,
-      "seq": 1453,
-      "note": "本章为他人转述的现状"
+      "seq": 1217
     },
     "外貌": {
       "asOf": null,
@@ -269,10 +294,10 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch1525-zang-gu-wu-ren-yi",
+      "docId": "plot.xianni-ch1547-decades-of-change",
       "dated": false,
-      "seq": 1434,
-      "note": "本章带伤"
+      "seq": 1453,
+      "note": "本体困于召河七彩界，被三万界外修士镇压"
     }
   },
   "contested": false,
@@ -296,7 +321,8 @@
     "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
     "plot.xianni-ch1533-youming-awakens-golden-storm",
     "plot.xianni-ch1534-xunzhao-post-first-war-aftermath",
-    "plot.xianni-ch1546-i-have-returned"
+    "plot.xianni-ch1546-i-have-returned",
+    "plot.xianni-ch1547-decades-of-change"
   ],
-  "updatedAt": "2026-08-26T02:47:15.733Z"
+  "updatedAt": "2026-08-26T02:55:01.815Z"
 }

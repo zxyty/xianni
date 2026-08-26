@@ -10,7 +10,8 @@
     "奉天狼族的大汉",
     "奉天族大汉",
     "追杀王林的奉天狼族修士",
-    "奉天狼族修士"
+    "奉天狼族修士",
+    "界外奉天狼族修士"
   ],
   "summary": "长尊会麾下四大太古凶族之一奉天狼族的空涅初期强者，眉心青色狼头印记，以狼嚎阻断王林遁法并出手擒杀，右臂中王林剧毒指甲之毒后战力下降三成，仍踏碎修真星、破开黑洞继续追击。",
   "attributes": {
@@ -19,9 +20,11 @@
     "小阶段": "空涅初期、初期",
     "外貌": "大汉",
     "标志特征": "眉心青色狼头印记、身后浮现巨大虚幻青狼、驱使万丈青狼；体内被王林种下虚火、右肩藏有一道灰色印记、眉心数字标示14",
-    "阵营": "长尊会、奉天狼族",
+    "阵营": "长尊会、奉天狼族、界外",
     "身份": "奉天狼族强者、追杀王林者",
-    "性格": "兴奋、势在必得"
+    "性格": "兴奋、势在必得",
+    "存殁": "死亡",
+    "死因": "极致恐惧下发疯，皮肤融化、元神崩溃、肉身消散于王林金光中"
   },
   "observations": {
     "性别": [
@@ -99,6 +102,11 @@
         "value": "奉天狼族",
         "docId": "plot.xianni-1434-fengtianlang-pursuit",
         "seq": 1341
+      },
+      {
+        "value": "界外",
+        "docId": "plot.xianni-ch1547-decades-of-change",
+        "seq": 1453
       }
     ],
     "身份": [
@@ -128,6 +136,20 @@
         "value": "兴奋、势在必得",
         "docId": "plot.xianni-1458-ci-dao-wanglin-ponders-ancient-tomb-revives-trees",
         "seq": 1370
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch1547-decades-of-change",
+        "seq": 1453
+      }
+    ],
+    "死因": [
+      {
+        "value": "极致恐惧下发疯，皮肤融化、元神崩溃、肉身消散于王林金光中",
+        "docId": "plot.xianni-ch1547-decades-of-change",
+        "seq": 1453
       }
     ]
   },
@@ -180,6 +202,18 @@
       "docId": "plot.xianni-1458-ci-dao-wanglin-ponders-ancient-tomb-revives-trees",
       "dated": false,
       "seq": 1370
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1547-decades-of-change",
+      "dated": false,
+      "seq": 1453
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1547-decades-of-change",
+      "dated": false,
+      "seq": 1453
     }
   },
   "contested": false,
@@ -190,7 +224,8 @@
     "plot.xianni-ch1346-1349-ancient-tomb-opens",
     "plot.xianni-ch1457-shao-yi-ge",
     "plot.xianni-1458-ci-dao-wanglin-ponders-ancient-tomb-revives-trees",
-    "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight"
+    "plot.xianni-1463-wang-lin-cheats-tomb-platform-rank-eight",
+    "plot.xianni-ch1547-decades-of-change"
   ],
-  "updatedAt": "2026-08-25T21:19:26.238Z"
+  "updatedAt": "2026-08-26T02:55:01.742Z"
 }
