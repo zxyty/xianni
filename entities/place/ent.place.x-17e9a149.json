@@ -4,16 +4,19 @@
   "name": "皇祖城",
   "aliases": [
     "Huang Zu City",
-    "王家祖宅所在之城"
+    "王家祖宅所在之城",
+    "恒岳山下城池",
+    "旧山村"
   ],
   "summary": "朱雀星上王林故乡旧址所建的庞大凡人城池，城匾金边紫底，入城需路引；城内最重要之地是石墙环绕、重兵与修士守护的旧居与坟头所在。",
   "attributes": {
     "所属界面": "朱雀星",
     "类型": "城池",
-    "方位": "王林故乡旧地（当年为乡间小路一带）",
+    "方位": "恒岳山下、丛林之外",
     "规模": "庞大，人声鼎沸，店铺林立",
     "守护": "城门守卫查验路引；城内禁地有成队士兵与数十道修真者气息、玄道宗、朱雀星各门派轮流守护",
-    "所属势力": "赵国凡间皇族"
+    "所属势力": "赵国凡间皇族",
+    "上级区域": "赵国"
   },
   "observations": {
     "所属界面": [
@@ -40,6 +43,11 @@
         "value": "王林故乡旧地（当年为乡间小路一带）",
         "docId": "plot.xianni-ch892-wang-lin-returns-home-zhuque-star",
         "seq": 830
+      },
+      {
+        "value": "恒岳山下、丛林之外",
+        "docId": "plot.xianni-ch1571-ye-you-gen-wang-lin-returns-zhaoguo",
+        "seq": 1481
       }
     ],
     "规模": [
@@ -72,6 +80,13 @@
         "docId": "plot.xianni-ch893-thank-you-wang-lin-returns-to-ancestral-home",
         "seq": 834
       }
+    ],
+    "上级区域": [
+      {
+        "value": "赵国",
+        "docId": "plot.xianni-ch1571-ye-you-gen-wang-lin-returns-zhaoguo",
+        "seq": 1481
+      }
     ]
   },
   "firstSeq": 830,
@@ -90,9 +105,9 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch892-wang-lin-returns-home-zhuque-star",
+      "docId": "plot.xianni-ch1571-ye-you-gen-wang-lin-returns-zhaoguo",
       "dated": false,
-      "seq": 830
+      "seq": 1481
     },
     "规模": {
       "asOf": null,
@@ -111,13 +126,20 @@
       "docId": "plot.xianni-ch893-thank-you-wang-lin-returns-to-ancestral-home",
       "dated": false,
       "seq": 834
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1571-ye-you-gen-wang-lin-returns-zhaoguo",
+      "dated": false,
+      "seq": 1481
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch892-wang-lin-returns-home-zhuque-star",
-    "plot.xianni-ch893-thank-you-wang-lin-returns-to-ancestral-home"
+    "plot.xianni-ch893-thank-you-wang-lin-returns-to-ancestral-home",
+    "plot.xianni-ch1571-ye-you-gen-wang-lin-returns-zhaoguo"
   ],
-  "updatedAt": "2026-08-23T18:03:50.091Z"
+  "updatedAt": "2026-08-26T04:40:53.691Z"
 }

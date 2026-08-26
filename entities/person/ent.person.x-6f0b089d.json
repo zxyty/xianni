@@ -1,39 +1,32 @@
 {
-  "id": "ent.person.x-2575d5e1",
+  "id": "ent.person.x-6f0b089d",
   "type": "person",
-  "name": "王林父母",
+  "name": "赵国阵外的老者",
   "aliases": [
-    "鬓角发白的男子与慈爱女子",
-    "王林之父母"
+    "带三弟子的老者"
   ],
-  "summary": "王林「亲情」之情的化身，自光团幻化而出，被红蝶分身慧剑一剑斩杀。",
+  "summary": "在赵国光幕外向三名弟子讲述封尊事迹的沧桑老者，喝止并追击王林，会缩地成寸；最终因听到「铁柱」而震惊，疑已猜到王林身份。",
   "attributes": {
-    "身份": "王林双亲",
-    "存殁": "死亡"
+    "身份": "朱雀星修士、三名弟子的师尊",
+    "外貌": "声音沧桑的老者"
   },
   "observations": {
     "身份": [
       {
-        "value": "亲情幻影",
-        "docId": "plot.xianni-ch361-zhuque-guo-arrival",
-        "seq": 341,
-        "note": "红蝶绝情意境所化"
-      },
-      {
-        "value": "王林双亲",
+        "value": "朱雀星修士、三名弟子的师尊",
         "docId": "plot.xianni-ch1571-ye-you-gen-wang-lin-returns-zhaoguo",
         "seq": 1481
       }
     ],
-    "存殁": [
+    "外貌": [
       {
-        "value": "死亡",
+        "value": "声音沧桑的老者",
         "docId": "plot.xianni-ch1571-ye-you-gen-wang-lin-returns-zhaoguo",
         "seq": 1481
       }
     ]
   },
-  "firstSeq": 341,
+  "firstSeq": 1481,
   "attrProvenance": {
     "身份": {
       "asOf": null,
@@ -41,7 +34,7 @@
       "dated": false,
       "seq": 1481
     },
-    "存殁": {
+    "外貌": {
       "asOf": null,
       "docId": "plot.xianni-ch1571-ye-you-gen-wang-lin-returns-zhaoguo",
       "dated": false,
@@ -51,8 +44,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch361-zhuque-guo-arrival",
     "plot.xianni-ch1571-ye-you-gen-wang-lin-returns-zhaoguo"
   ],
-  "updatedAt": "2026-08-26T04:40:53.689Z"
+  "updatedAt": "2026-08-26T04:40:53.685Z"
 }

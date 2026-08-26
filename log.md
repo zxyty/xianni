@@ -915,3 +915,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T04:34:59.318Z** `ingest` plot.xianni-ch1568-punishing-evil-servants — 《仙逆》第1568章 收拾恶奴：王林现身惩处许立国与刘金彪 · kind=plot asOf=2026-08-26 entities=14 relations=23 src=01476-01480.p3.md
 - **2026-08-26T04:36:43.817Z** `ingest` plot.xianni-ch1569-zhuque-star-homecoming — 第1569章 朱雀星：王林重返故乡，圣地朝圣与守护大阵 · kind=plot asOf=2026-08-26 entities=13 relations=22 src=01476-01480.p4.md
 - **2026-08-26T04:38:57.198Z** `ingest` plot.xianni-1570-luoye-xungen-zhuque-star-return — 第1570章 落叶寻根：王林重返朱雀星，故乡已面目全非 · kind=plot asOf=2026-08-26 entities=25 relations=36 src=01476-01480.p5.md
+- **2026-08-26T04:40:54.085Z** `ingest` plot.xianni-ch1571-ye-you-gen-wang-lin-returns-zhaoguo — 第1571章 叶有根：王林重返赵国祖坟，跪拜父母 · kind=plot asOf=2026-08-26 entities=19 relations=27 src=01481-01485.p1.md

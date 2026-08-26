@@ -13,17 +13,18 @@
     "朱雀星赵国",
     "赵国故地",
     "往昔的赵国",
-    "封尊幼年长大的地方"
+    "封尊幼年长大的地方",
+    "封尊故乡"
   ],
   "summary": "凡俗国度，恒岳派为其为数不多的修真门派之一。",
   "attributes": {
-    "类型": "凡俗国度",
+    "类型": "圣地/禁地",
     "规模": "五级修真国",
-    "守护": "联盟盟约约束、为数不多的几名元婴修士、无常驻化神修士、大量禁制阵法",
+    "守护": "联盟盟约约束、为数不多的几名元婴修士、无常驻化神修士、大量禁制阵法、赵国护国光幕阵法、赵国九大宗门、朱雀星大神通修士",
     "方位": "朱雀星偏僻边缘",
     "所属界面": "孔孟大陆",
     "特产": "王林出生地",
-    "危险度": "地处偏僻、凋零闭派、曾遭异国修士入侵逼至绝路、极高——异族入侵、修士溃败、异族入侵中、尸骸之地、尸阴宗总部所在"
+    "危险度": "地处偏僻、凋零闭派、曾遭异国修士入侵逼至绝路、极高——异族入侵、修士溃败、异族入侵中、尸骸之地、尸阴宗总部所在、擅入者遭全星围剿"
   },
   "observations": {
     "类型": [
@@ -92,6 +93,11 @@
         "value": "凡俗国度",
         "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
         "seq": 1280
+      },
+      {
+        "value": "圣地/禁地",
+        "docId": "plot.xianni-ch1571-ye-you-gen-wang-lin-returns-zhaoguo",
+        "seq": 1481
       }
     ],
     "规模": [
@@ -150,6 +156,21 @@
         "docId": "plot.xianni-ch897-feng-sao-can-ye-wang-lin-qing-jiao-shi-yin-zong",
         "seq": 834,
         "note": "被塔山一拳尽数轰碎"
+      },
+      {
+        "value": "赵国护国光幕阵法",
+        "docId": "plot.xianni-ch1571-ye-you-gen-wang-lin-returns-zhaoguo",
+        "seq": 1481
+      },
+      {
+        "value": "赵国九大宗门",
+        "docId": "plot.xianni-ch1571-ye-you-gen-wang-lin-returns-zhaoguo",
+        "seq": 1481
+      },
+      {
+        "value": "朱雀星大神通修士",
+        "docId": "plot.xianni-ch1571-ye-you-gen-wang-lin-returns-zhaoguo",
+        "seq": 1481
       }
     ],
     "方位": [
@@ -237,6 +258,11 @@
         "value": "尸阴宗总部所在",
         "docId": "plot.xianni-ch897-feng-sao-can-ye-wang-lin-qing-jiao-shi-yin-zong",
         "seq": 834
+      },
+      {
+        "value": "擅入者遭全星围剿",
+        "docId": "plot.xianni-ch1571-ye-you-gen-wang-lin-returns-zhaoguo",
+        "seq": 1481
       }
     ]
   },
@@ -244,9 +270,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
+      "docId": "plot.xianni-ch1571-ye-you-gen-wang-lin-returns-zhaoguo",
       "dated": false,
-      "seq": 1280
+      "seq": 1481
     },
     "规模": {
       "asOf": null,
@@ -346,7 +372,8 @@
     "plot.xianni-ch1406-ruo-hun-bei-ren-fang-zhi-xiang",
     "plot.xianni-ch1562-zhao-he-qingshui-killing-origin",
     "plot.xianni-1565-zhou-zihong-recalls-feng-zun",
-    "plot.xianni-1570-luoye-xungen-zhuque-star-return"
+    "plot.xianni-1570-luoye-xungen-zhuque-star-return",
+    "plot.xianni-ch1571-ye-you-gen-wang-lin-returns-zhaoguo"
   ],
-  "updatedAt": "2026-08-26T04:38:56.815Z"
+  "updatedAt": "2026-08-26T04:40:53.690Z"
 }
