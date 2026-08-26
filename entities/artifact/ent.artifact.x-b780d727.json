@@ -4,12 +4,14 @@
   "name": "三瞳之眼",
   "aliases": [
     "三瞳巨眼",
-    "三瞳幽光"
+    "三瞳幽光",
+    "寒冰三瞳之眼"
   ],
   "summary": "三瞳童子睁眼时于冰层内浮现的虚幻巨眼，三瞳化作三道幽光射向星空，最终在封界大阵外幻化成形。",
   "attributes": {
-    "来历": "三瞳童子所化",
-    "外形": "眼内三瞳，触目惊心"
+    "来历": "三瞳童子所化、太古星辰一方",
+    "外形": "眼内三瞳，触目惊心、三只瞳孔之眼",
+    "五行属性": "冰"
   },
   "observations": {
     "来历": [
@@ -17,12 +19,29 @@
         "value": "三瞳童子所化",
         "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
         "seq": 1425
+      },
+      {
+        "value": "太古星辰一方",
+        "docId": "plot.xianni-1518-fengjie-dazhen-poliekaizhan",
+        "seq": 1425
       }
     ],
     "外形": [
       {
         "value": "眼内三瞳，触目惊心",
         "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
+        "seq": 1425
+      },
+      {
+        "value": "三只瞳孔之眼",
+        "docId": "plot.xianni-1518-fengjie-dazhen-poliekaizhan",
+        "seq": 1425
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "冰",
+        "docId": "plot.xianni-1518-fengjie-dazhen-poliekaizhan",
         "seq": 1425
       }
     ]
@@ -40,12 +59,19 @@
       "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
       "dated": false,
       "seq": 1425
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.xianni-1518-fengjie-dazhen-poliekaizhan",
+      "dated": false,
+      "seq": 1425
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1516-ru-jie-di-yi-zhan"
+    "plot.xianni-1516-ru-jie-di-yi-zhan",
+    "plot.xianni-1518-fengjie-dazhen-poliekaizhan"
   ],
-  "updatedAt": "2026-08-26T01:06:21.781Z"
+  "updatedAt": "2026-08-26T01:08:51.290Z"
 }
