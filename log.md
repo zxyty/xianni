@@ -984,3 +984,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T09:02:54.292Z** `ingest` plot.xianni-ch1645-wang-lin-four-war-generals-trade — 第1645章 交易：王林以李广弓要挟四大战将达成远古仙域之约 · kind=plot asOf=2026-08-26 entities=23 relations=29 src=01551-01555.p5.md
 - **2026-08-26T09:05:18.929Z** `ingest` plot.xianni-ch1646-drink-with-situ-nan-cave-dwelling-truth — 第1646章 与司徒一醉：王林出远古仙域后向司徒南吐露洞府真相 · kind=plot asOf=2026-08-26 entities=23 relations=31 src=01556-01560.p1.md
 - **2026-08-26T09:07:58.315Z** `ingest` plot.xianni-ch1647-dandang-wang-lin-third-stage-of-cultivation — 第1647章 担当！——王林揭破洞府真相、立志杀仙尊，朱雀星修士誓随其往罗天 · kind=plot asOf=2026-08-26 entities=26 relations=33 src=01556-01560.p2.md
+- **2026-08-26T09:09:49.930Z** `ingest` plot.xianni-ch1648-wang-lin-sweeps-kunxu-star-region — 仙逆 第1648章 太静了——王林率界内数千修士横扫昆虚星域 · kind=plot asOf=2026-08-26 entities=17 relations=25 src=01556-01560.p3.md
