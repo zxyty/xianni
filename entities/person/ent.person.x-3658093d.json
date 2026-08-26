@@ -4,14 +4,19 @@
   "name": "连道非",
   "aliases": [
     "本王连道非",
-    "王林的徒儿"
+    "王林的徒儿",
+    "小红的以前主人",
+    "Lian Daofei"
   ],
   "summary": "被困幽冥兽体内之界的疯癫强者，自称「本王」，以仙祖之誓拜王林为师，声称掌握「仙之九绝道」，独独看中引力术并瞬间学会，操控上万石块自娱。",
   "attributes": {
     "身份": "王林之徒",
     "称号": "本王",
     "性格": "疯癫、顽劣、执拗、爱玩，自称聪明",
-    "标志特征": "常与不存在的「小红」对话；捂口扣鼻孔的做派"
+    "标志特征": "常与不存在的「小红」对话；捂口扣鼻孔的做派",
+    "出身地": "仙罡大陆",
+    "存殁": "死亡",
+    "死因": "被人以七道宗宝物骗来此地后身死"
   },
   "observations": {
     "身份": [
@@ -41,6 +46,28 @@
         "docId": "plot.xianni-ch1544-departure-madman-disciple-attraction-art",
         "seq": 1453
       }
+    ],
+    "出身地": [
+      {
+        "value": "仙罡大陆",
+        "docId": "plot.xianni-ch1686-xiaohong-yanlong-subdued",
+        "seq": 1596
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch1686-xiaohong-yanlong-subdued",
+        "seq": 1596
+      }
+    ],
+    "死因": [
+      {
+        "value": "被人以七道宗宝物骗来此地后身死",
+        "docId": "plot.xianni-ch1686-xiaohong-yanlong-subdued",
+        "seq": 1596,
+        "note": "本章仅由炎龙转述『可惜他死了』，详情未明"
+      }
     ]
   },
   "firstSeq": 1453,
@@ -68,12 +95,32 @@
       "docId": "plot.xianni-ch1544-departure-madman-disciple-attraction-art",
       "dated": false,
       "seq": 1453
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1686-xiaohong-yanlong-subdued",
+      "dated": false,
+      "seq": 1596
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1686-xiaohong-yanlong-subdued",
+      "dated": false,
+      "seq": 1596
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1686-xiaohong-yanlong-subdued",
+      "dated": false,
+      "seq": 1596,
+      "note": "本章仅由炎龙转述『可惜他死了』，详情未明"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1544-departure-madman-disciple-attraction-art"
+    "plot.xianni-ch1544-departure-madman-disciple-attraction-art",
+    "plot.xianni-ch1686-xiaohong-yanlong-subdued"
   ],
-  "updatedAt": "2026-08-26T02:42:19.283Z"
+  "updatedAt": "2026-08-26T11:59:58.078Z"
 }

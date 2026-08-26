@@ -1010,3 +1010,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T11:46:44.227Z** `ingest` plot.xianni-ch1683-new-immortal-realm-forged-wang-lin-departs-to-defy-immortality — 第1683章 此去，逆仙！——王林凝聚新仙界后孤身赴逆仙之路 · kind=plot asOf=2026-08-26 entities=25 relations=38 src=01591-01595.p3.md
 - **2026-08-26T11:53:38.252Z** `ingest` plot.xianni-ch1684-immortal-dragon-manifests-dao — 第1684章 仙龙显道：王林分身归体，独闯界外太古星辰 · kind=plot asOf=2026-08-26 entities=41 relations=66 src=01591-01595.p4.md
 - **2026-08-26T11:57:52.484Z** `ingest` plot.xianni-1685-yan-long-xian-long-dao — 第1685章 一条蛇！——炎龙的「仙龙道」现身太古星辰 · kind=plot asOf=2026-08-26 entities=13 relations=20 src=01591-01595.p5.md
+- **2026-08-26T11:59:58.569Z** `ingest` plot.xianni-ch1686-xiaohong-yanlong-subdued — 第1686章 小红！——王林收服炎龙，牵出连道非旧事 · kind=plot asOf=2026-08-26 entities=18 relations=26 src=01596-01600.p1.md
