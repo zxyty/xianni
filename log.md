@@ -972,3 +972,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T08:37:50.988Z** `ingest` plot.xianni-ch1633-slay-benwo-tribulation — 第1633章 斩本我——王林以骗道杀本我劫白发青年 · kind=plot asOf=2026-08-26 entities=17 relations=27 src=01541-01545.p3.md
 - **2026-08-26T08:40:09.204Z** `ingest` plot.xianni-1634-yigedongfu-yuangu-xianyu-tianjie-zhenxiang — 第1634章 一个洞府：王林踏入远古仙域，破九阳解开天劫之秘 · kind=plot asOf=2026-08-26 entities=17 relations=27 src=01541-01545.p4.md
 - **2026-08-26T08:42:07.979Z** `ingest` plot.xianni-ch1635-master-of-own-destiny — 第1635章 主宰命运：王林轰开九阳、取回己身与亲友命运 · kind=plot asOf=2026-08-26 entities=36 relations=38 src=01541-01545.p5.md
+- **2026-08-26T08:44:25.665Z** `ingest` plot.xianni-1636-healing-crippled-immortal — 第1636章 疗伤的残仙：王林毁尽古之三族雕像，拽出九星古神眉心的残仙 · kind=plot asOf=2026-08-26 entities=22 relations=33 src=01546-01550.p1.md
