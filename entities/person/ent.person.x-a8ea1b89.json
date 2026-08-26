@@ -10,7 +10,9 @@
     "出声警告的成名老怪",
     "漆黑干瘦老者",
     "妖卫干瘦老者",
-    "天脓地疮老者"
+    "天脓地疮老者",
+    "远古仙域干瘦老者",
+    "被王林搜魂的干瘦老者"
   ],
   "summary": "性格古怪、自恋好夸的绝世高手，深夜向王林讲解仙门与古仙界碎片法则，索木雕、借出草帽法宝后离去，留下九十九个木雕之约。",
   "attributes": {
@@ -20,7 +22,9 @@
     "身份": "妖卫",
     "阵营": "受「主人」驱使",
     "存殁": "死亡",
-    "死因": "茧形虚影被王林拽出捏爆、寂灭黑芒穿体，战后成一具干尸"
+    "死因": "识海封印被王林以古族不灭指轰破，识海反噬轰灭元神、粉碎骨骼血肉，身体四分五裂爆开",
+    "种族": "具仙人血脉",
+    "结局": "记忆结晶被王林夺走"
   },
   "observations": {
     "外貌": [
@@ -111,6 +115,25 @@
         "value": "茧形虚影被王林拽出捏爆、寂灭黑芒穿体，战后成一具干尸",
         "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
         "seq": 566
+      },
+      {
+        "value": "识海封印被王林以古族不灭指轰破，识海反噬轰灭元神、粉碎骨骼血肉，身体四分五裂爆开",
+        "docId": "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
+        "seq": 1546
+      }
+    ],
+    "种族": [
+      {
+        "value": "具仙人血脉",
+        "docId": "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
+        "seq": 1546
+      }
+    ],
+    "结局": [
+      {
+        "value": "记忆结晶被王林夺走",
+        "docId": "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
+        "seq": 1546
       }
     ]
   },
@@ -154,9 +177,21 @@
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
+      "docId": "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
       "dated": false,
-      "seq": 566
+      "seq": 1546
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
+      "dated": false,
+      "seq": 1546
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
+      "dated": false,
+      "seq": 1546
     }
   },
   "contested": false,
@@ -164,7 +199,8 @@
   "docs": [
     "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
     "plot.xianni-ch519-tide-recede-golden-token",
-    "plot.xianni-ch605-yaowei-pusa-old-man-fengyin"
+    "plot.xianni-ch605-yaowei-pusa-old-man-fengyin",
+    "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger"
   ],
-  "updatedAt": "2026-08-22T14:43:24.033Z"
+  "updatedAt": "2026-08-26T08:50:35.047Z"
 }

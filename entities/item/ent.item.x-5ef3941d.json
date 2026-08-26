@@ -4,13 +4,15 @@
   "name": "记忆传承结晶",
   "aliases": [
     "最后一个记忆传承结晶",
-    "记忆结晶"
+    "记忆结晶",
+    "淡金色结晶",
+    "干瘦老者的记忆结晶"
   ],
   "summary": "承载古神记忆的结晶；最后一枚隐藏极深，被拓森找遍古神之地寻得并融合，令其想起大量往事，也使王林的忆之传承不圆满。",
   "attributes": {
-    "类型": "传承结晶",
-    "用途": "融合后恢复记忆、补全忆之传承",
-    "产地": "古神之地"
+    "类型": "记忆载体",
+    "用途": "承载干瘦老者一生记忆，可供查阅洞府真相",
+    "产地": "干瘦老者识海"
   },
   "observations": {
     "类型": [
@@ -18,6 +20,11 @@
         "value": "传承结晶",
         "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
         "seq": 428
+      },
+      {
+        "value": "记忆载体",
+        "docId": "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
+        "seq": 1546
       }
     ],
     "用途": [
@@ -25,6 +32,11 @@
         "value": "融合后恢复记忆、补全忆之传承",
         "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
         "seq": 428
+      },
+      {
+        "value": "承载干瘦老者一生记忆，可供查阅洞府真相",
+        "docId": "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
+        "seq": 1546
       }
     ],
     "产地": [
@@ -32,6 +44,11 @@
         "value": "古神之地",
         "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
         "seq": 428
+      },
+      {
+        "value": "干瘦老者识海",
+        "docId": "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
+        "seq": 1546
       }
     ]
   },
@@ -39,27 +56,28 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+      "docId": "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
       "dated": false,
-      "seq": 428
+      "seq": 1546
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+      "docId": "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
       "dated": false,
-      "seq": 428
+      "seq": 1546
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.xianni-ch451-waner-mingpo-tianyun-star",
+      "docId": "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
       "dated": false,
-      "seq": 428
+      "seq": 1546
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch451-waner-mingpo-tianyun-star"
+    "plot.xianni-ch451-waner-mingpo-tianyun-star",
+    "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger"
   ],
-  "updatedAt": "2026-08-21T02:32:55.616Z"
+  "updatedAt": "2026-08-26T08:50:35.045Z"
 }

@@ -3,11 +3,13 @@
   "type": "faction",
   "name": "七道宗",
   "aliases": [
-    "七道宗核心门人"
+    "七道宗核心门人",
+    "七道宗核心弟子"
   ],
   "summary": "白虎所言之宗门，仙人记忆受仙尊封印乃其核心门人才可享有的造化。",
   "attributes": {
-    "理念": "核心门人方可享有仙尊封印记忆之造化"
+    "理念": "核心门人方可享有仙尊封印记忆之造化",
+    "镇派之宝": "仙尊封印（核心弟子保护隐秘的终极手段）"
   },
   "observations": {
     "理念": [
@@ -15,6 +17,14 @@
         "value": "核心门人方可享有仙尊封印记忆之造化",
         "docId": "plot.xianni-ch1638-seal-appears-soul-search-shixian",
         "seq": 1546
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "仙尊封印（核心弟子保护隐秘的终极手段）",
+        "docId": "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
+        "seq": 1546,
+        "note": "玄武所述"
       }
     ]
   },
@@ -25,12 +35,20 @@
       "docId": "plot.xianni-ch1638-seal-appears-soul-search-shixian",
       "dated": false,
       "seq": 1546
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
+      "dated": false,
+      "seq": 1546,
+      "note": "玄武所述"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1638-seal-appears-soul-search-shixian"
+    "plot.xianni-ch1638-seal-appears-soul-search-shixian",
+    "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger"
   ],
-  "updatedAt": "2026-08-26T08:48:19.142Z"
+  "updatedAt": "2026-08-26T08:50:35.063Z"
 }

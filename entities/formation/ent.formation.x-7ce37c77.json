@@ -4,13 +4,16 @@
   "name": "仙尊封印",
   "aliases": [
     "仙尊的封印",
-    "识海雾气封印"
+    "识海雾气封印",
+    "三寸封印",
+    "仙尊自创封印神通",
+    "Immortal Venerable Seal"
   ],
   "summary": "仙尊在麾下仙人识海外围设下的浓雾封印，以七彩中年男子之影为核心，阻绝一切搜魂之术，雕像中人称联手亦无法破开。",
   "attributes": {
-    "效果": "阻止一切搜魂之术、身外三寸内一切力量无痛瓦解",
-    "出处": "仙尊",
-    "破解法": "未知，雕像中四人称联手亦无法破开"
+    "效果": "阻止一切搜魂之术、身外三寸内一切力量无痛瓦解、身外三寸内瓦解一切力量与物质、阻止他人搜寻记忆、消散时连带崩溃被封者记忆",
+    "出处": "仙尊、仙尊自创神通",
+    "破解法": "未知，雕像中四人称联手亦无法破开、以古族不灭指之不灭恢复力硬闯三寸，再以定神之术定住将崩的记忆结晶"
   },
   "observations": {
     "效果": [
@@ -23,12 +26,32 @@
         "value": "身外三寸内一切力量无痛瓦解",
         "docId": "plot.xianni-ch1638-seal-appears-soul-search-shixian",
         "seq": 1546
+      },
+      {
+        "value": "身外三寸内瓦解一切力量与物质",
+        "docId": "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
+        "seq": 1546
+      },
+      {
+        "value": "阻止他人搜寻记忆",
+        "docId": "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
+        "seq": 1546
+      },
+      {
+        "value": "消散时连带崩溃被封者记忆",
+        "docId": "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
+        "seq": 1546
       }
     ],
     "出处": [
       {
         "value": "仙尊",
         "docId": "plot.xianni-ch1638-seal-appears-soul-search-shixian",
+        "seq": 1546
+      },
+      {
+        "value": "仙尊自创神通",
+        "docId": "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
         "seq": 1546
       }
     ],
@@ -38,6 +61,12 @@
         "docId": "plot.xianni-ch1638-seal-appears-soul-search-shixian",
         "seq": 1546,
         "note": "王林认为艰难但并非没有可能"
+      },
+      {
+        "value": "以古族不灭指之不灭恢复力硬闯三寸，再以定神之术定住将崩的记忆结晶",
+        "docId": "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
+        "seq": 1546,
+        "note": "王林第1639章首创"
       }
     ]
   },
@@ -66,7 +95,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1638-seal-appears-soul-search-shixian"
+    "plot.xianni-ch1638-seal-appears-soul-search-shixian",
+    "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger"
   ],
-  "updatedAt": "2026-08-26T08:48:19.145Z"
+  "updatedAt": "2026-08-26T08:50:35.051Z"
 }

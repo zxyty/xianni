@@ -4,13 +4,16 @@
   "name": "齐天古之三族雕像群",
   "aliases": [
     "四座巨大雕像",
-    "齐天古三族雕像"
+    "齐天古三族雕像",
+    "高耸入天的四座雕像",
+    "雕像漩涡"
   ],
   "summary": "远古仙域深处中心的四座巨大雕像，内有四个声音（含白虎、朱雀）旁观议论王林搜魂之举。",
   "attributes": {
     "类型": "雕像群",
-    "方位": "远古仙域深处、诸多雕像的中心位置",
-    "规模": "四座巨大雕像"
+    "方位": "远古仙域深处、诸多雕像的中心位置、远古仙域诸多雕像深处",
+    "规模": "四座巨大雕像",
+    "上级区域": "远古仙域"
   },
   "observations": {
     "类型": [
@@ -25,12 +28,24 @@
         "value": "远古仙域深处、诸多雕像的中心位置",
         "docId": "plot.xianni-ch1638-seal-appears-soul-search-shixian",
         "seq": 1546
+      },
+      {
+        "value": "远古仙域诸多雕像深处",
+        "docId": "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
+        "seq": 1546
       }
     ],
     "规模": [
       {
         "value": "四座巨大雕像",
         "docId": "plot.xianni-ch1638-seal-appears-soul-search-shixian",
+        "seq": 1546
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "远古仙域",
+        "docId": "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
         "seq": 1546
       }
     ]
@@ -54,12 +69,19 @@
       "docId": "plot.xianni-ch1638-seal-appears-soul-search-shixian",
       "dated": false,
       "seq": 1546
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
+      "dated": false,
+      "seq": 1546
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1638-seal-appears-soul-search-shixian"
+    "plot.xianni-ch1638-seal-appears-soul-search-shixian",
+    "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger"
   ],
-  "updatedAt": "2026-08-26T08:48:19.141Z"
+  "updatedAt": "2026-08-26T08:50:35.060Z"
 }
