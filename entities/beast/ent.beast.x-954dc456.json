@@ -5,14 +5,17 @@
   "aliases": [
     "黑雾巨兽",
     "战意所化兽灵",
-    "远古凶兽"
+    "远古凶兽",
+    "远古凶兽之魂",
+    "仙兽"
   ],
   "summary": "战字帖内战意与远古凶焰所化的黑雾巨兽，扑噬强行开帖者并吸走其本源；在王林低喝下感到记忆中不敢招惹的气息，恐惧退回画轴。",
   "attributes": {
     "外形": "大量黑雾化作的巨兽",
-    "能力": "吞噬开启者、吸走观者所得战帖本源",
-    "栖息地": "战字帖画轴之内",
-    "天敌": "古神（王林）"
+    "能力": "吞噬开启者、吸走观者所得战帖本源、魂蕴先祖记忆",
+    "栖息地": "洞府之界",
+    "天敌": "古神（王林）",
+    "血脉": "仙罡大陆仙兽后裔"
   },
   "observations": {
     "外形": [
@@ -32,6 +35,11 @@
         "value": "吸走观者所得战帖本源",
         "docId": "plot.xianni-881-884-qualification-war-scroll-second",
         "seq": 881
+      },
+      {
+        "value": "魂蕴先祖记忆",
+        "docId": "plot.xianni-ch1666-ji-dian-ying-hun-ru-zhen-ling",
+        "seq": 1576
       }
     ],
     "栖息地": [
@@ -39,6 +47,11 @@
         "value": "战字帖画轴之内",
         "docId": "plot.xianni-881-884-qualification-war-scroll-second",
         "seq": 881
+      },
+      {
+        "value": "洞府之界",
+        "docId": "plot.xianni-ch1666-ji-dian-ying-hun-ru-zhen-ling",
+        "seq": 1576
       }
     ],
     "天敌": [
@@ -46,6 +59,13 @@
         "value": "古神（王林）",
         "docId": "plot.xianni-881-884-qualification-war-scroll-second",
         "seq": 881
+      }
+    ],
+    "血脉": [
+      {
+        "value": "仙罡大陆仙兽后裔",
+        "docId": "plot.xianni-ch1666-ji-dian-ying-hun-ru-zhen-ling",
+        "seq": 1576
       }
     ]
   },
@@ -65,21 +85,28 @@
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.xianni-881-884-qualification-war-scroll-second",
+      "docId": "plot.xianni-ch1666-ji-dian-ying-hun-ru-zhen-ling",
       "dated": false,
-      "seq": 881
+      "seq": 1576
     },
     "天敌": {
       "asOf": null,
       "docId": "plot.xianni-881-884-qualification-war-scroll-second",
       "dated": false,
       "seq": 881
+    },
+    "血脉": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1666-ji-dian-ying-hun-ru-zhen-ling",
+      "dated": false,
+      "seq": 1576
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-881-884-qualification-war-scroll-second"
+    "plot.xianni-881-884-qualification-war-scroll-second",
+    "plot.xianni-ch1666-ji-dian-ying-hun-ru-zhen-ling"
   ],
-  "updatedAt": "2026-08-23T22:14:20.050Z"
+  "updatedAt": "2026-08-26T11:01:47.387Z"
 }

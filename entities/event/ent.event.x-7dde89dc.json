@@ -4,13 +4,15 @@
   "name": "百年战争",
   "aliases": [
     "这一次百年战争",
-    "界内界外百年之战"
+    "界内界外百年之战",
+    "界内界外百年战争"
   ],
   "summary": "王林毁阵前的界内界外大战，战中大量修士法宝毁灭、修真星崩溃、界外之修葬身界内。",
   "attributes": {
     "时长": "百年",
     "地点": "界内四大星域",
-    "结果": "界内惨胜，界外入侵修士被轰杀"
+    "结果": "界内惨胜，界外入侵修士被轰杀",
+    "参与方": "界内修士、界外太古星辰之修"
   },
   "observations": {
     "时长": [
@@ -33,6 +35,18 @@
         "docId": "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
         "seq": 1571
       }
+    ],
+    "参与方": [
+      {
+        "value": "界内修士",
+        "docId": "plot.xianni-ch1666-ji-dian-ying-hun-ru-zhen-ling",
+        "seq": 1576
+      },
+      {
+        "value": "界外太古星辰之修",
+        "docId": "plot.xianni-ch1666-ji-dian-ying-hun-ru-zhen-ling",
+        "seq": 1576
+      }
     ]
   },
   "firstSeq": 1571,
@@ -54,12 +68,19 @@
       "docId": "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
       "dated": false,
       "seq": 1571
+    },
+    "参与方": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1666-ji-dian-ying-hun-ru-zhen-ling",
+      "dated": false,
+      "seq": 1576
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei"
+    "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
+    "plot.xianni-ch1666-ji-dian-ying-hun-ru-zhen-ling"
   ],
-  "updatedAt": "2026-08-26T10:14:37.580Z"
+  "updatedAt": "2026-08-26T11:01:47.167Z"
 }

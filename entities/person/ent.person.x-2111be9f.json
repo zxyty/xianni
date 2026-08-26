@@ -8,8 +8,9 @@
   ],
   "summary": "道袍青年口中提及之人，曾告知『劫动之口』所在，本章未出场。",
   "attributes": {
-    "身份": "道袍青年的师伯",
-    "称号": "马师伯"
+    "身份": "远古仙域裂缝青年之师伯",
+    "称号": "马师伯",
+    "存殁": "沉睡中，将醒"
   },
   "observations": {
     "身份": [
@@ -17,6 +18,11 @@
         "value": "道袍青年的师伯",
         "docId": "plot.xianni-ch1108-ancient-immortal-domain-aura",
         "seq": 1024
+      },
+      {
+        "value": "远古仙域裂缝青年之师伯",
+        "docId": "plot.xianni-ch1666-ji-dian-ying-hun-ru-zhen-ling",
+        "seq": 1576
       }
     ],
     "称号": [
@@ -25,21 +31,36 @@
         "docId": "plot.xianni-ch1108-ancient-immortal-domain-aura",
         "seq": 1024
       }
+    ],
+    "存殁": [
+      {
+        "value": "沉睡中，将醒",
+        "docId": "plot.xianni-ch1666-ji-dian-ying-hun-ru-zhen-ling",
+        "seq": 1576,
+        "note": "本章仅由他人提及"
+      }
     ]
   },
   "firstSeq": 1024,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1108-ancient-immortal-domain-aura",
+      "docId": "plot.xianni-ch1666-ji-dian-ying-hun-ru-zhen-ling",
       "dated": false,
-      "seq": 1024
+      "seq": 1576
     },
     "称号": {
       "asOf": null,
       "docId": "plot.xianni-ch1108-ancient-immortal-domain-aura",
       "dated": false,
       "seq": 1024
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1666-ji-dian-ying-hun-ru-zhen-ling",
+      "dated": false,
+      "seq": 1576,
+      "note": "本章仅由他人提及"
     }
   },
   "contested": false,
@@ -47,7 +68,8 @@
   "docs": [
     "plot.xianni-ch1108-ancient-immortal-domain-aura",
     "plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm",
-    "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao"
+    "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
+    "plot.xianni-ch1666-ji-dian-ying-hun-ru-zhen-ling"
   ],
-  "updatedAt": "2026-08-26T03:08:43.381Z"
+  "updatedAt": "2026-08-26T11:01:47.191Z"
 }
