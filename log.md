@@ -1006,3 +1006,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T11:36:55.681Z** `ingest` plot.xianni-ch1679-mosquito-beast-reunion — 第1679章 蚊兽重逢：李倩梅随父归蓝丝族、木冰眉辞别，王林分身赴风仙界 · kind=plot asOf=2026-08-26 entities=34 relations=41 src=01586-01590.p4.md
 - **2026-08-26T11:38:52.503Z** `ingest` plot.xianni-ch1680-unexpected-discovery-wind-immortal-realm-rift — 第1680章 意外的发现：风仙界重逢蚊王、三指杀兽之谜与裂缝内的蚊卵世界 · kind=plot asOf=2026-08-26 entities=9 relations=13 src=01586-01590.p5.md
 - **2026-08-26T11:41:18.924Z** `ingest` plot.xianni-1681-blood-sword-tip-pierces-into-xiangang — 第1681章 进入仙罡的剑尖！——石门封印外通仙罡大陆，归一宗分宗东丹钟现烨寞之剑 · kind=plot asOf=2026-08-26 entities=15 relations=21 src=01591-01595.p1.md
+- **2026-08-26T11:43:59.238Z** `ingest` plot.xianni-ch1682-outsiders-wind-immortal-realm-reassembled — 第1682章 外来者：王林推衍七道宗洞府通道来历，封裂缝、重聚风仙界并奔赴闪界 · kind=plot asOf=2026-08-26 entities=32 relations=38 src=01591-01595.p2.md
