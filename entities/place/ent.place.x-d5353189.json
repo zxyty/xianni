@@ -5,12 +5,15 @@
   "aliases": [
     "铁柱的山村",
     "赵国山村",
-    "王林家乡山村"
+    "王林家乡山村",
+    "恒岳山山村",
+    "王家山村"
   ],
   "summary": "王林（铁柱）出生长大的平静山村，炊烟渺渺、犬吠孩童声；村外有翠林小路，远处可见云雾缭绕的宗派山峰。",
   "attributes": {
     "类型": "村落",
-    "上级区域": "赵国"
+    "上级区域": "恒岳山",
+    "方位": "苏城数十里外官道尽处"
   },
   "observations": {
     "类型": [
@@ -30,6 +33,18 @@
         "value": "赵国",
         "docId": "plot.xianni-1214-tiezhu-dao-shu-memory-illusion",
         "seq": 1132
+      },
+      {
+        "value": "恒岳山",
+        "docId": "plot.xianni-ch1604-father-passes-in-wang-lin-arms",
+        "seq": 1511
+      }
+    ],
+    "方位": [
+      {
+        "value": "苏城数十里外官道尽处",
+        "docId": "plot.xianni-ch1604-father-passes-in-wang-lin-arms",
+        "seq": 1511
       }
     ]
   },
@@ -43,16 +58,23 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-1214-tiezhu-dao-shu-memory-illusion",
+      "docId": "plot.xianni-ch1604-father-passes-in-wang-lin-arms",
       "dated": false,
-      "seq": 1132
+      "seq": 1511
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1604-father-passes-in-wang-lin-arms",
+      "dated": false,
+      "seq": 1511
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1214-tiezhu-dao-shu-memory-illusion",
-    "plot.xianni-ch1590-meng-ru-ren-sheng"
+    "plot.xianni-ch1590-meng-ru-ren-sheng",
+    "plot.xianni-ch1604-father-passes-in-wang-lin-arms"
   ],
-  "updatedAt": "2026-08-26T05:55:05.162Z"
+  "updatedAt": "2026-08-26T06:22:25.489Z"
 }

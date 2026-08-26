@@ -11,7 +11,8 @@
   "attributes": {
     "性别": "女",
     "身份": "修仙者、徐飞的师姐、恒岳派修士、修士（徐飞的师姐）",
-    "外貌": "容颜年轻美丽，二十余年不变"
+    "外貌": "紫色衣衫，明月般双眸，容色绝美，眉间含一丝忧愁、容颜年轻美丽，二十余年不变、改作很寻常的样子",
+    "出身地": "苏城"
   },
   "observations": {
     "性别": [
@@ -49,6 +50,19 @@
         "docId": "plot.xianni-ch1603-home-at-hengyue-mountain",
         "seq": 1511,
         "note": "修士驻颜"
+      },
+      {
+        "value": "改作很寻常的样子",
+        "docId": "plot.xianni-ch1604-father-passes-in-wang-lin-arms",
+        "seq": 1511,
+        "note": "下画舫后变化容颜"
+      }
+    ],
+    "出身地": [
+      {
+        "value": "苏城",
+        "docId": "plot.xianni-ch1604-father-passes-in-wang-lin-arms",
+        "seq": 1511
       }
     ]
   },
@@ -68,10 +82,15 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch1603-home-at-hengyue-mountain",
+      "docId": "plot.xianni-1591-weixing-shi-dream-boat",
       "dated": false,
-      "seq": 1511,
-      "note": "修士驻颜"
+      "seq": 1501
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1604-father-passes-in-wang-lin-arms",
+      "dated": false,
+      "seq": 1511
     }
   },
   "contested": false,
@@ -79,7 +98,8 @@
   "docs": [
     "plot.xianni-1591-weixing-shi-dream-boat",
     "plot.xianni-1595-lianhunzong-de-yin",
-    "plot.xianni-ch1603-home-at-hengyue-mountain"
+    "plot.xianni-ch1603-home-at-hengyue-mountain",
+    "plot.xianni-ch1604-father-passes-in-wang-lin-arms"
   ],
-  "updatedAt": "2026-08-26T06:20:34.540Z"
+  "updatedAt": "2026-08-26T06:22:25.482Z"
 }
