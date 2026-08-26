@@ -7,7 +7,9 @@
     "老者所扛修真星",
     "太古星辰修真星",
     "云海星域的修真星",
-    "本章战场修真星"
+    "本章战场修真星",
+    "安静的修真星",
+    "王林与疯子所在修真星"
   ],
   "summary": "修真联盟赐予其天道印诀的星辰，本章作为仙术对照被提及。",
   "attributes": {
@@ -15,7 +17,8 @@
     "类型": "修真星",
     "方位": "太古星辰的星空之内",
     "所属界面": "云海星域",
-    "危险度": "地表尽毁"
+    "危险度": "地表尽毁",
+    "上级区域": "幽冥兽体内世界"
   },
   "observations": {
     "所属势力": [
@@ -63,6 +66,13 @@
         "seq": 1448,
         "note": "第1538章王林仙古相争所致"
       }
+    ],
+    "上级区域": [
+      {
+        "value": "幽冥兽体内世界",
+        "docId": "plot.xianni-ch1540-shentong-yiling-yin",
+        "seq": 1448
+      }
     ]
   },
   "firstSeq": 462,
@@ -97,6 +107,12 @@
       "dated": false,
       "seq": 1448,
       "note": "第1538章王林仙古相争所致"
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1540-shentong-yiling-yin",
+      "dated": false,
+      "seq": 1448
     }
   },
   "contested": false,
@@ -108,7 +124,8 @@
     "plot.xianni-1368-nine-companion-thunders-gate-of-void",
     "plot.xianni-1431-fenshi-guisan-zhangzun-fuhuo-tiaojian",
     "plot.xianni-1511-blood-sword-slaughter-wang-lin-vs-shui-daozi",
-    "plot.xianni-ch1538-golden-sky-black-earth"
+    "plot.xianni-ch1538-golden-sky-black-earth",
+    "plot.xianni-ch1540-shentong-yiling-yin"
   ],
-  "updatedAt": "2026-08-26T02:30:32.358Z"
+  "updatedAt": "2026-08-26T02:34:47.919Z"
 }
