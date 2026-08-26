@@ -1,66 +1,55 @@
 {
-  "id": "ent.place.x-9991a54a",
-  "type": "place",
-  "name": "府壁之层",
+  "id": "ent.artifact.x-ad21ada0",
+  "type": "artifact",
+  "name": "那壶酒",
   "aliases": [
-    "府壁",
-    "界内界外的漆黑虚无",
-    "血色虚无"
+    "白发青年留下的酒壶",
+    "梦醒之酒"
   ],
-  "summary": "战老鬼由黑洞气息辨认出的所在，其形容为「一步仙罡，一步此地」。",
+  "summary": "白发青年离去前抬手自天空抓出并留下的一壶酒，是终结梦境的钥匙——王林饮下后即以三问崩梦。",
   "attributes": {
-    "类型": "虚无秘境",
-    "方位": "界内界外之中",
-    "危险度": "未知"
+    "能力": "饮下即终结化凡之梦",
+    "来历": "白发青年抬手向天空一抓而生",
+    "外形": "酒壶；酒如水不辣，入腹如火燃烧"
   },
   "observations": {
-    "类型": [
+    "能力": [
       {
-        "value": "层界/特殊之地",
-        "docId": "plot.xianni-1588-life-and-death-seven-colored-spear",
-        "seq": 1496
-      },
-      {
-        "value": "虚无秘境",
+        "value": "饮下即终结化凡之梦",
         "docId": "plot.xianni-ch1613-dream-awakening-suzhou-illusion-collapse",
         "seq": 1521
       }
     ],
-    "方位": [
+    "来历": [
       {
-        "value": "一步仙罡，一步此地",
-        "docId": "plot.xianni-1588-life-and-death-seven-colored-spear",
-        "seq": 1496
-      },
-      {
-        "value": "界内界外之中",
+        "value": "白发青年抬手向天空一抓而生",
         "docId": "plot.xianni-ch1613-dream-awakening-suzhou-illusion-collapse",
         "seq": 1521
       }
     ],
-    "危险度": [
+    "外形": [
       {
-        "value": "未知",
+        "value": "酒壶；酒如水不辣，入腹如火燃烧",
         "docId": "plot.xianni-ch1613-dream-awakening-suzhou-illusion-collapse",
         "seq": 1521
       }
     ]
   },
-  "firstSeq": 1496,
+  "firstSeq": 1521,
   "attrProvenance": {
-    "类型": {
+    "能力": {
       "asOf": null,
       "docId": "plot.xianni-ch1613-dream-awakening-suzhou-illusion-collapse",
       "dated": false,
       "seq": 1521
     },
-    "方位": {
+    "来历": {
       "asOf": null,
       "docId": "plot.xianni-ch1613-dream-awakening-suzhou-illusion-collapse",
       "dated": false,
       "seq": 1521
     },
-    "危险度": {
+    "外形": {
       "asOf": null,
       "docId": "plot.xianni-ch1613-dream-awakening-suzhou-illusion-collapse",
       "dated": false,
@@ -70,8 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1588-life-and-death-seven-colored-spear",
     "plot.xianni-ch1613-dream-awakening-suzhou-illusion-collapse"
   ],
-  "updatedAt": "2026-08-26T06:43:06.074Z"
+  "updatedAt": "2026-08-26T06:43:06.085Z"
 }

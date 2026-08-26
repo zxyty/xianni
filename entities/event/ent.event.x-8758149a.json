@@ -1,66 +1,68 @@
 {
-  "id": "ent.place.x-9991a54a",
-  "type": "place",
-  "name": "府壁之层",
+  "id": "ent.event.x-8758149a",
+  "type": "event",
+  "name": "府壁苏醒",
   "aliases": [
-    "府壁",
-    "界内界外的漆黑虚无",
-    "血色虚无"
+    "缘起性空真空妙有之悟"
   ],
-  "summary": "战老鬼由黑洞气息辨认出的所在，其形容为「一步仙罡，一步此地」。",
+  "summary": "梦碎的同时，躺在府壁血色光芒中恒久沉睡的白发青年（王林本体）睁开双眼，道出「缘起性空，真空妙有，我明白了」。",
   "attributes": {
-    "类型": "虚无秘境",
-    "方位": "界内界外之中",
-    "危险度": "未知"
+    "章节": "第1613章",
+    "地点": "府壁",
+    "参与方": "王林",
+    "结果": "王林本体苏醒并完成悟道"
   },
   "observations": {
-    "类型": [
+    "章节": [
       {
-        "value": "层界/特殊之地",
-        "docId": "plot.xianni-1588-life-and-death-seven-colored-spear",
-        "seq": 1496
-      },
-      {
-        "value": "虚无秘境",
+        "value": "第1613章",
         "docId": "plot.xianni-ch1613-dream-awakening-suzhou-illusion-collapse",
         "seq": 1521
       }
     ],
-    "方位": [
+    "地点": [
       {
-        "value": "一步仙罡，一步此地",
-        "docId": "plot.xianni-1588-life-and-death-seven-colored-spear",
-        "seq": 1496
-      },
-      {
-        "value": "界内界外之中",
+        "value": "府壁",
         "docId": "plot.xianni-ch1613-dream-awakening-suzhou-illusion-collapse",
         "seq": 1521
       }
     ],
-    "危险度": [
+    "参与方": [
       {
-        "value": "未知",
+        "value": "王林",
+        "docId": "plot.xianni-ch1613-dream-awakening-suzhou-illusion-collapse",
+        "seq": 1521
+      }
+    ],
+    "结果": [
+      {
+        "value": "王林本体苏醒并完成悟道",
         "docId": "plot.xianni-ch1613-dream-awakening-suzhou-illusion-collapse",
         "seq": 1521
       }
     ]
   },
-  "firstSeq": 1496,
+  "firstSeq": 1521,
   "attrProvenance": {
-    "类型": {
+    "章节": {
       "asOf": null,
       "docId": "plot.xianni-ch1613-dream-awakening-suzhou-illusion-collapse",
       "dated": false,
       "seq": 1521
     },
-    "方位": {
+    "地点": {
       "asOf": null,
       "docId": "plot.xianni-ch1613-dream-awakening-suzhou-illusion-collapse",
       "dated": false,
       "seq": 1521
     },
-    "危险度": {
+    "参与方": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1613-dream-awakening-suzhou-illusion-collapse",
+      "dated": false,
+      "seq": 1521
+    },
+    "结果": {
       "asOf": null,
       "docId": "plot.xianni-ch1613-dream-awakening-suzhou-illusion-collapse",
       "dated": false,
@@ -70,7 +72,6 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1588-life-and-death-seven-colored-spear",
     "plot.xianni-ch1613-dream-awakening-suzhou-illusion-collapse"
   ],
   "updatedAt": "2026-08-26T06:43:06.074Z"

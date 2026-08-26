@@ -957,3 +957,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T06:36:23.481Z** `ingest` plot.xianni-ch1610-yuanqi-xingkong-liu-mu-wan-awakens — 第1610章 缘起空——王林在梦中悟「缘起性空」，点醒李慕婉 · kind=plot asOf=2026-08-26 entities=26 relations=34 src=01516-01520.p5.md
 - **2026-08-26T06:38:30.013Z** `ingest` plot.xianni-1611-hongyan-dream-life-with-li-muwan — 第1611章 红颜——梦中一生与李慕婉白首，界外入侵界内濒危 · kind=plot asOf=2026-08-26 entities=22 relations=22 src=01521-01525.p1.md
 - **2026-08-26T06:40:31.015Z** `ingest` plot.xianni-ch1612-yu-ji-yi-hui-meeting-oneself — 第1612章 与己一会：三十五年归乡、苏城画舫与白发青年赴约 · kind=plot asOf=2026-08-26 entities=17 relations=28 src=01521-01525.p2.md
+- **2026-08-26T06:43:06.500Z** `ingest` plot.xianni-ch1613-dream-awakening-suzhou-illusion-collapse — 第1613章 梦醒！——化凡之梦终结，王林悟「缘起性空，真空妙有」 · kind=plot asOf=2026-08-26 entities=34 relations=28 src=01521-01525.p3.md

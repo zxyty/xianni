@@ -3,12 +3,13 @@
   "type": "technique",
   "name": "骗道之术",
   "aliases": [
-    "刘金彪的骗道之术"
+    "刘金彪的骗道之术",
+    "骗天之术"
   ],
   "summary": "刘金彪所擅的欺瞒之术，骗过火雀族老祖的火焰探查、验血与搜魂三重检验而无破绽。",
   "attributes": {
-    "效果": "伪造身份气息与记忆，可欺瞒搜魂",
-    "出处": "刘金彪"
+    "效果": "伪造身份气息与记忆，可欺瞒搜魂、编织足以自欺的完整梦境世界、梦境依道果道念自行推衍，施术者不可操控",
+    "出处": "王林所修"
   },
   "observations": {
     "效果": [
@@ -16,6 +17,16 @@
         "value": "伪造身份气息与记忆，可欺瞒搜魂",
         "docId": "plot.xianni-ch1426-jiang-li-liujinbiao-captured-huoquezu",
         "seq": 1336
+      },
+      {
+        "value": "编织足以自欺的完整梦境世界",
+        "docId": "plot.xianni-ch1613-dream-awakening-suzhou-illusion-collapse",
+        "seq": 1521
+      },
+      {
+        "value": "梦境依道果道念自行推衍，施术者不可操控",
+        "docId": "plot.xianni-ch1613-dream-awakening-suzhou-illusion-collapse",
+        "seq": 1521
       }
     ],
     "出处": [
@@ -23,6 +34,11 @@
         "value": "刘金彪",
         "docId": "plot.xianni-ch1426-jiang-li-liujinbiao-captured-huoquezu",
         "seq": 1336
+      },
+      {
+        "value": "王林所修",
+        "docId": "plot.xianni-ch1613-dream-awakening-suzhou-illusion-collapse",
+        "seq": 1521
       }
     ]
   },
@@ -36,15 +52,16 @@
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch1426-jiang-li-liujinbiao-captured-huoquezu",
+      "docId": "plot.xianni-ch1613-dream-awakening-suzhou-illusion-collapse",
       "dated": false,
-      "seq": 1336
+      "seq": 1521
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1426-jiang-li-liujinbiao-captured-huoquezu"
+    "plot.xianni-ch1426-jiang-li-liujinbiao-captured-huoquezu",
+    "plot.xianni-ch1613-dream-awakening-suzhou-illusion-collapse"
   ],
-  "updatedAt": "2026-08-25T18:14:34.364Z"
+  "updatedAt": "2026-08-26T06:43:06.071Z"
 }
