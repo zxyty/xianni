@@ -5,20 +5,41 @@
   "aliases": [
     "天空之箭",
     "无锋之箭",
-    "射下道古左眼的箭"
+    "射下道古左眼的箭",
+    "射落道古左目之箭",
+    "巨箭",
+    "万丈之箭",
+    "王林之箭"
   ],
   "summary": "数千丈粗、露出部分数万丈长的巨箭，箭尖为圆形符文之环而非锋刃，箭尖留有道古左目干枯黑血；卡在星空断层界天空的窟窿中。",
   "attributes": {
-    "外形": "数千丈粗，露出数万丈长，箭尖为圆形之环，如符文之印",
-    "能力": "穿透星空与数个庞大修真星、残余杀机与道古左目之血融合形成排斥之力",
-    "禁制": "被符文族万古封印于星空断层界",
-    "来历": "李广射下道古左眼之箭，携眼冲出吉神墓地后余力消散卡入断层界"
+    "外形": "数千丈粗，露出数万丈长，箭尖为圆形之环，如符文之印、初为贯穿天空窟窿的巨箭、缩小后仍万丈长数百丈宽、最终化作正常大小",
+    "能力": "穿透星空与数个庞大修真星、残余杀机与道古左目之血融合形成排斥之力、配合李广之弓发射；箭身四道符文可以强魂加持增威",
+    "禁制": "被符文族万古封印于星空断层界、箭尖圆形之环，融合道古与仙威所化排斥之力，王林看不透",
+    "来历": "李广射下道古左眼之箭，携眼冲出吉神墓地后余力消散卡入断层界、当年李广以此箭射下道古左目",
+    "持有者": "王林",
+    "器灵": "箭之魂（沧桑之魂，本章苏醒）"
   },
   "observations": {
     "外形": [
       {
         "value": "数千丈粗，露出数万丈长，箭尖为圆形之环，如符文之印",
         "docId": "plot.xianni-1576-yuanyou-daogu-left-eye-arrow-truth",
+        "seq": 1486
+      },
+      {
+        "value": "初为贯穿天空窟窿的巨箭",
+        "docId": "plot.xianni-1577-yuwai",
+        "seq": 1486
+      },
+      {
+        "value": "缩小后仍万丈长数百丈宽",
+        "docId": "plot.xianni-1577-yuwai",
+        "seq": 1486
+      },
+      {
+        "value": "最终化作正常大小",
+        "docId": "plot.xianni-1577-yuwai",
         "seq": 1486
       }
     ],
@@ -32,6 +53,11 @@
         "value": "残余杀机与道古左目之血融合形成排斥之力",
         "docId": "plot.xianni-1576-yuanyou-daogu-left-eye-arrow-truth",
         "seq": 1486
+      },
+      {
+        "value": "配合李广之弓发射；箭身四道符文可以强魂加持增威",
+        "docId": "plot.xianni-1577-yuwai",
+        "seq": 1486
       }
     ],
     "禁制": [
@@ -39,12 +65,36 @@
         "value": "被符文族万古封印于星空断层界",
         "docId": "plot.xianni-1576-yuanyou-daogu-left-eye-arrow-truth",
         "seq": 1486
+      },
+      {
+        "value": "箭尖圆形之环，融合道古与仙威所化排斥之力，王林看不透",
+        "docId": "plot.xianni-1577-yuwai",
+        "seq": 1486
       }
     ],
     "来历": [
       {
         "value": "李广射下道古左眼之箭，携眼冲出吉神墓地后余力消散卡入断层界",
         "docId": "plot.xianni-1576-yuanyou-daogu-left-eye-arrow-truth",
+        "seq": 1486
+      },
+      {
+        "value": "当年李广以此箭射下道古左目",
+        "docId": "plot.xianni-1577-yuwai",
+        "seq": 1486
+      }
+    ],
+    "持有者": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-1577-yuwai",
+        "seq": 1486
+      }
+    ],
+    "器灵": [
+      {
+        "value": "箭之魂（沧桑之魂，本章苏醒）",
+        "docId": "plot.xianni-1577-yuwai",
         "seq": 1486
       }
     ]
@@ -74,12 +124,25 @@
       "docId": "plot.xianni-1576-yuanyou-daogu-left-eye-arrow-truth",
       "dated": false,
       "seq": 1486
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.xianni-1577-yuwai",
+      "dated": false,
+      "seq": 1486
+    },
+    "器灵": {
+      "asOf": null,
+      "docId": "plot.xianni-1577-yuwai",
+      "dated": false,
+      "seq": 1486
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1576-yuanyou-daogu-left-eye-arrow-truth"
+    "plot.xianni-1576-yuanyou-daogu-left-eye-arrow-truth",
+    "plot.xianni-1577-yuwai"
   ],
-  "updatedAt": "2026-08-26T04:52:44.007Z"
+  "updatedAt": "2026-08-26T04:55:23.158Z"
 }

@@ -5,14 +5,16 @@
   "aliases": [
     "巨大石门",
     "石门",
-    "苍凉石门"
+    "苍凉石门",
+    "尽头石门",
+    "符文族第十八层石门"
   ],
   "summary": "第十二道平台上的巨门，门上有交错模糊如人脸的刻画；开启时吹出极寒之风，白雾化府灵，门后即洞府本体。",
   "attributes": {
-    "类型": "洞府入口门户",
-    "两端": "第十二道封印平台 ↔ 仙人洞府",
+    "类型": "门户",
+    "两端": "符文族第十八层 ↔ 石门内环形世界",
     "可通行境界": "问鼎之后（接下三道剑气）或持令牌",
-    "守护": "洞府之灵",
+    "守护": "王林所留诸多封印",
     "来历": "仙人洞府的正门"
   },
   "observations": {
@@ -21,6 +23,11 @@
         "value": "洞府入口门户",
         "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
         "seq": 532
+      },
+      {
+        "value": "门户",
+        "docId": "plot.xianni-1577-yuwai",
+        "seq": 1486
       }
     ],
     "两端": [
@@ -28,6 +35,11 @@
         "value": "第十二道封印平台 ↔ 仙人洞府",
         "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
         "seq": 532
+      },
+      {
+        "value": "符文族第十八层 ↔ 石门内环形世界",
+        "docId": "plot.xianni-1577-yuwai",
+        "seq": 1486
       }
     ],
     "可通行境界": [
@@ -42,6 +54,11 @@
         "value": "洞府之灵",
         "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
         "seq": 532
+      },
+      {
+        "value": "王林所留诸多封印",
+        "docId": "plot.xianni-1577-yuwai",
+        "seq": 1486
       }
     ],
     "来历": [
@@ -56,15 +73,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
+      "docId": "plot.xianni-1577-yuwai",
       "dated": false,
-      "seq": 532
+      "seq": 1486
     },
     "两端": {
       "asOf": null,
-      "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
+      "docId": "plot.xianni-1577-yuwai",
       "dated": false,
-      "seq": 532
+      "seq": 1486
     },
     "可通行境界": {
       "asOf": null,
@@ -74,9 +91,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch532-533-three-stroke-rune-second-seal",
+      "docId": "plot.xianni-1577-yuwai",
       "dated": false,
-      "seq": 532
+      "seq": 1486
     },
     "来历": {
       "asOf": null,
@@ -89,7 +106,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch532-533-three-stroke-rune-second-seal",
-    "plot.xianni-1380-four-breaths-wang-lin-vs-simozi"
+    "plot.xianni-1380-four-breaths-wang-lin-vs-simozi",
+    "plot.xianni-1577-yuwai"
   ],
-  "updatedAt": "2026-08-25T14:09:53.370Z"
+  "updatedAt": "2026-08-26T04:55:23.170Z"
 }

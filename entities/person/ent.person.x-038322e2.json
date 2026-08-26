@@ -4,13 +4,15 @@
   "name": "九星古妖",
   "aliases": [
     "鬼宗阵法外的古妖虚影",
-    "妖容"
+    "妖容",
+    "凝聚道古左目的九星古妖"
   ],
   "summary": "当年受妖尊赠鬼宗为门徒并助其疗伤，如今伤愈成九星古妖；本章正暗中吞噬天劫之力，被妖尊唤醒旧约后点头应下，望向太古星辰目露恨意。",
   "attributes": {
     "身份": "九星古妖、鬼宗之主",
     "外貌": "鬼宗阵法外幻化的古妖虚影",
-    "标志特征": "对太古星辰透出寒光与恨意"
+    "标志特征": "对太古星辰透出寒光与恨意",
+    "种族": "古妖"
   },
   "observations": {
     "身份": [
@@ -38,6 +40,13 @@
         "docId": "plot.xianni-ch1305-tianjie-wei-jie-yi-wei-zaohua",
         "seq": 1217
       }
+    ],
+    "种族": [
+      {
+        "value": "古妖",
+        "docId": "plot.xianni-1577-yuwai",
+        "seq": 1486
+      }
     ]
   },
   "firstSeq": 1217,
@@ -59,13 +68,20 @@
       "docId": "plot.xianni-ch1305-tianjie-wei-jie-yi-wei-zaohua",
       "dated": false,
       "seq": 1217
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-1577-yuwai",
+      "dated": false,
+      "seq": 1486
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1305-tianjie-wei-jie-yi-wei-zaohua",
-    "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun"
+    "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
+    "plot.xianni-1577-yuwai"
   ],
-  "updatedAt": "2026-08-26T01:51:33.465Z"
+  "updatedAt": "2026-08-26T04:55:23.165Z"
 }

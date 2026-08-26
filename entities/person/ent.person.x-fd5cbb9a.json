@@ -8,7 +8,8 @@
     "天兆",
     "长尊会副会天兆上师",
     "天兆上人",
-    "Tianzhao Shangshi"
+    "Tianzhao Shangshi",
+    "天兆上师之魂"
   ],
   "summary": "太古星辰长尊会副会长，与界内有约定彼此暂缓交战，是昆虚星域未被太古星辰全面吞并的原因。",
   "attributes": {
@@ -17,9 +18,9 @@
     "称号": "上师",
     "小阶段": "空灵初期",
     "外貌": "黑袍老者，随黑雾烟柱现身",
-    "存殁": "死亡",
-    "死因": "被王林爆发的十成之力灭杀",
-    "结局": "元神被王林以天皇炉收走"
+    "存殁": "魂被炼入箭身符文",
+    "死因": "被王林按于箭上，魂融符文",
+    "结局": "与道古之箭四道符文之一融合，魂吼骤止"
   },
   "observations": {
     "身份": [
@@ -83,6 +84,11 @@
         "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
         "seq": 1458,
         "note": "本章作为既成事实追述"
+      },
+      {
+        "value": "魂被炼入箭身符文",
+        "docId": "plot.xianni-1577-yuwai",
+        "seq": 1486
       }
     ],
     "死因": [
@@ -100,6 +106,11 @@
         "value": "被王林爆发的十成之力灭杀",
         "docId": "plot.xianni-ch1556-strange-gaze-qingshui-past-xuanwu",
         "seq": 1466
+      },
+      {
+        "value": "被王林按于箭上，魂融符文",
+        "docId": "plot.xianni-1577-yuwai",
+        "seq": 1486
       }
     ],
     "结局": [
@@ -107,6 +118,11 @@
         "value": "元神被王林以天皇炉收走",
         "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
         "seq": 1458
+      },
+      {
+        "value": "与道古之箭四道符文之一融合，魂吼骤止",
+        "docId": "plot.xianni-1577-yuwai",
+        "seq": 1486
       }
     ]
   },
@@ -144,22 +160,21 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
+      "docId": "plot.xianni-1577-yuwai",
       "dated": false,
-      "seq": 1458,
-      "note": "本章作为既成事实追述"
+      "seq": 1486
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.xianni-ch1556-strange-gaze-qingshui-past-xuanwu",
+      "docId": "plot.xianni-1577-yuwai",
       "dated": false,
-      "seq": 1466
+      "seq": 1486
     },
     "结局": {
       "asOf": null,
-      "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
+      "docId": "plot.xianni-1577-yuwai",
       "dated": false,
-      "seq": 1458
+      "seq": 1486
     }
   },
   "contested": false,
@@ -171,7 +186,8 @@
     "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
     "plot.xianni-ch1556-strange-gaze-qingshui-past-xuanwu",
     "plot.xianni-ch1561-qingshui-zhengdao-qingshang-zengbao",
-    "plot.xianni-ch1564-shisan-qicai-realm-collapse-aftermath"
+    "plot.xianni-ch1564-shisan-qicai-realm-collapse-aftermath",
+    "plot.xianni-1577-yuwai"
   ],
-  "updatedAt": "2026-08-26T04:26:29.799Z"
+  "updatedAt": "2026-08-26T04:55:23.156Z"
 }
