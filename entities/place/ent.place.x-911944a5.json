@@ -5,14 +5,17 @@
   "aliases": [
     "天坑第十九层",
     "第十九层",
-    "十九层的秘密"
+    "十九层的秘密",
+    "符文族最大的隐秘之地"
   ],
   "summary": "符文族天坑内的最深处层级，其中隐秘困扰王林很久，亦为黄龙真人所图。",
   "attributes": {
-    "类型": "秘境层级、终极封印之地",
+    "类型": "秘境层级、终极封印之地、禁地/隐秘之地",
     "上级区域": "符文族天坑、符文族深坑",
     "危险度": "极高",
-    "守护": "环形符文之门（含封气息的圆圈符文）"
+    "守护": "环形符文之门（含封气息的圆圈符文）、融合仙力与道古气息的圆形符文封印",
+    "所属势力": "符文族",
+    "方位": "朱雀星地底深处"
   },
   "observations": {
     "类型": [
@@ -24,6 +27,11 @@
       {
         "value": "终极封印之地",
         "docId": "plot.xianni-1574-fuwen-clan-19th-layer-secret",
+        "seq": 1481
+      },
+      {
+        "value": "禁地/隐秘之地",
+        "docId": "plot.xianni-ch1575-origin-point-19th-floor-gate",
         "seq": 1481
       }
     ],
@@ -50,6 +58,25 @@
       {
         "value": "环形符文之门（含封气息的圆圈符文）",
         "docId": "plot.xianni-1574-fuwen-clan-19th-layer-secret",
+        "seq": 1481
+      },
+      {
+        "value": "融合仙力与道古气息的圆形符文封印",
+        "docId": "plot.xianni-ch1575-origin-point-19th-floor-gate",
+        "seq": 1481
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "符文族",
+        "docId": "plot.xianni-ch1575-origin-point-19th-floor-gate",
+        "seq": 1481
+      }
+    ],
+    "方位": [
+      {
+        "value": "朱雀星地底深处",
+        "docId": "plot.xianni-ch1575-origin-point-19th-floor-gate",
         "seq": 1481
       }
     ]
@@ -79,13 +106,26 @@
       "docId": "plot.xianni-1574-fuwen-clan-19th-layer-secret",
       "dated": false,
       "seq": 1481
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1575-origin-point-19th-floor-gate",
+      "dated": false,
+      "seq": 1481
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1575-origin-point-19th-floor-gate",
+      "dated": false,
+      "seq": 1481
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1573-qingsi-hun-red-butterfly-soul-split-array",
-    "plot.xianni-1574-fuwen-clan-19th-layer-secret"
+    "plot.xianni-1574-fuwen-clan-19th-layer-secret",
+    "plot.xianni-ch1575-origin-point-19th-floor-gate"
   ],
-  "updatedAt": "2026-08-26T04:48:09.948Z"
+  "updatedAt": "2026-08-26T04:50:04.668Z"
 }
