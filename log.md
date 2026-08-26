@@ -912,3 +912,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T04:28:52.355Z** `ingest` plot.xianni-1565-zhou-zihong-recalls-feng-zun — 第1565章 她是周紫虹——客栈说封尊往事，王林别十三 · kind=plot asOf=2026-08-26 entities=24 relations=33 src=01471-01475.p5.md
 - **2026-08-26T04:31:03.256Z** `ingest` plot.xianni-1566-fengzi-de-paoxiao — 仙逆 第1566章 疯子的咆哮：王林授本源之种别十三，往接疯子 · kind=plot asOf=2026-08-26 entities=17 relations=23 src=01476-01480.p1.md
 - **2026-08-26T04:33:16.670Z** `ingest` plot.xianni-ch1567-nothing-happened-liu-jinbiao-scam — 第1567章 什么都没干——刘金彪、许立国设局骗疯子鲜血 · kind=plot asOf=2026-08-26 entities=14 relations=25 src=01476-01480.p2.md
+- **2026-08-26T04:34:59.318Z** `ingest` plot.xianni-ch1568-punishing-evil-servants — 《仙逆》第1568章 收拾恶奴：王林现身惩处许立国与刘金彪 · kind=plot asOf=2026-08-26 entities=14 relations=23 src=01476-01480.p3.md
