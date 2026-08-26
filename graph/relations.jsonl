@@ -50136,3 +50136,14 @@
 {"s":"ent.event.1590-2","p":"occursAt","o":"ent.place.x-39fcb8b3","evidence":"plot.xianni-ch1590-meng-ru-ren-sheng","confidence":0.85,"seq":1496,"note":"赵国境内官道与河道并行处"}
 {"s":"ent.event.1590-2","p":"involves","o":"ent.person.x-73d2856c","evidence":"plot.xianni-ch1590-meng-ru-ren-sheng","confidence":0.95,"seq":1496}
 {"s":"ent.event.1590-2","p":"involves","o":"ent.person.x-d333fbef","evidence":"plot.xianni-ch1590-meng-ru-ren-sheng","confidence":0.95,"seq":1496}
+{"s":"ent.person.x-2d78e50c","p":"fellow","o":"ent.person.x-80bd3f01","evidence":"plot.xianni-1591-weixing-shi-dream-boat","confidence":0.95,"seq":1501,"note":"徐飞称周蕊为师姐，周蕊称其师妹"}
+{"s":"ent.person.x-80bd3f01","p":"fellow","o":"ent.person.x-2d78e50c","evidence":"plot.xianni-1591-weixing-shi-dream-boat","confidence":0.95,"seq":1501,"note":"同门师姐妹"}
+{"s":"ent.person.x-80bd3f01","p":"relatedTo","o":"ent.person.x-73d2856c","evidence":"plot.xianni-1591-weixing-shi-dream-boat","confidence":0.9,"seq":1501,"note":"第1591章梦中相遇；周蕊觉其面容与名字熟悉，疑「前生见过」，并施法令其昏睡"}
+{"s":"ent.person.x-2d78e50c","p":"relatedTo","o":"ent.person.x-73d2856c","evidence":"plot.xianni-1591-weixing-shi-dream-boat","confidence":0.85,"seq":1501,"note":"第1591章梦中相遇；徐飞亦觉「王林」之名熟悉"}
+{"s":"ent.person.x-80bd3f01","p":"relatedTo","o":"ent.person.x-cd2c0d55","evidence":"plot.xianni-1591-weixing-shi-dream-boat","confidence":0.6,"seq":1501,"note":"本章正要前往与王卓等人汇合"}
+{"s":"ent.person.x-2d78e50c","p":"relatedTo","o":"ent.person.x-cd2c0d55","evidence":"plot.xianni-1591-weixing-shi-dream-boat","confidence":0.6,"seq":1501,"note":"本章正要前往与王卓等人汇合"}
+{"s":"ent.event.x-683ca143","p":"involves","o":"ent.person.x-73d2856c","evidence":"plot.xianni-1591-weixing-shi-dream-boat","confidence":0.95,"seq":1501}
+{"s":"ent.event.x-683ca143","p":"involves","o":"ent.person.x-80bd3f01","evidence":"plot.xianni-1591-weixing-shi-dream-boat","confidence":0.95,"seq":1501}
+{"s":"ent.event.x-683ca143","p":"involves","o":"ent.person.x-2d78e50c","evidence":"plot.xianni-1591-weixing-shi-dream-boat","confidence":0.95,"seq":1501}
+{"s":"ent.event.x-7f4e5bc9","p":"causes","o":"ent.event.x-683ca143","evidence":"plot.xianni-1591-weixing-shi-dream-boat","confidence":0.4,"seq":1501,"note":"二女因赶去与王卓汇合探寻异宝而行船于此，故有此遇；因果为推断"}
+{"s":"ent.faction.x-feb5147c","p":"relatedTo","o":"ent.person.x-73d2856c","evidence":"plot.xianni-1591-weixing-shi-dream-boat","confidence":0.6,"seq":1501,"note":"王林昏睡前依稀听到「恒岳派」三字"}
