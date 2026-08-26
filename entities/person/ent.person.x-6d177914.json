@@ -3,12 +3,16 @@
   "type": "person",
   "name": "苏道",
   "aliases": [
-    "赵国大儒苏道"
+    "赵国大儒苏道",
+    "苏城大儒苏道",
+    "当代大儒苏道"
   ],
   "summary": "赵国大儒，苏城因其得名，使苏城成为赵国文墨之都。",
   "attributes": {
-    "身份": "赵国大儒",
-    "出身地": "赵国"
+    "身份": "赵国当代大儒",
+    "出身地": "赵国",
+    "称号": "大儒",
+    "性格": "好酒（桂花酒），饮酒感悟天地浩荡"
   },
   "observations": {
     "身份": [
@@ -16,6 +20,11 @@
         "value": "赵国大儒",
         "docId": "plot.xianni-1595-lianhunzong-de-yin",
         "seq": 1501
+      },
+      {
+        "value": "赵国当代大儒",
+        "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
+        "seq": 1506
       }
     ],
     "出身地": [
@@ -24,27 +33,54 @@
         "docId": "plot.xianni-1595-lianhunzong-de-yin",
         "seq": 1501
       }
+    ],
+    "称号": [
+      {
+        "value": "大儒",
+        "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
+        "seq": 1506
+      }
+    ],
+    "性格": [
+      {
+        "value": "好酒（桂花酒），饮酒感悟天地浩荡",
+        "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
+        "seq": 1506
+      }
     ]
   },
   "firstSeq": 1501,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1595-lianhunzong-de-yin",
+      "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
       "dated": false,
-      "seq": 1501
+      "seq": 1506
     },
     "出身地": {
       "asOf": null,
       "docId": "plot.xianni-1595-lianhunzong-de-yin",
       "dated": false,
       "seq": 1501
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
+      "dated": false,
+      "seq": 1506
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
+      "dated": false,
+      "seq": 1506
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1595-lianhunzong-de-yin"
+    "plot.xianni-1595-lianhunzong-de-yin",
+    "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine"
   ],
-  "updatedAt": "2026-08-26T06:04:12.054Z"
+  "updatedAt": "2026-08-26T06:10:32.838Z"
 }

@@ -6,7 +6,9 @@
     "炼魂宗宗主念天",
     "老夫炼魂宗宗主念天",
     "Nian Tian",
-    "一线念天"
+    "一线念天",
+    "炼魂宗念天",
+    "十万大幡主魂"
   ],
   "summary": "炼魂宗宗主、遁天的师兄，婴变期修士。耗寿元九次推衍以求炼魂宗通天之路，结论皆指向赵国县城的书生王林，遂亲往求问。",
   "attributes": {
@@ -14,8 +16,9 @@
     "身份": "炼魂宗宗主",
     "外貌": "中年男子；卷袖间黑风呼啸、阴魂狰狞",
     "小阶段": "婴变",
-    "存殁": "存活",
-    "结局": "数百年后坐化，弥留之际想起数百年前儒生的话"
+    "存殁": "存活、死亡",
+    "结局": "数百年后坐化，弥留之际想起数百年前儒生的话、元婴投身炼魂幡内，成为十万大幡之魂（主魂）",
+    "死因": "寿元断绝"
   },
   "observations": {
     "性别": [
@@ -53,12 +56,29 @@
         "docId": "plot.xianni-ch1597-lianhun-zong-tongtian-zhi-lu",
         "seq": 1506,
         "note": "本章存活；文末交代其数百年后大限将至、弥留之际忆起王林之言"
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
+        "seq": 1506
       }
     ],
     "结局": [
       {
         "value": "数百年后坐化，弥留之际想起数百年前儒生的话",
         "docId": "plot.xianni-ch1597-lianhun-zong-tongtian-zhi-lu",
+        "seq": 1506
+      },
+      {
+        "value": "元婴投身炼魂幡内，成为十万大幡之魂（主魂）",
+        "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
+        "seq": 1506
+      }
+    ],
+    "死因": [
+      {
+        "value": "寿元断绝",
+        "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
         "seq": 1506
       }
     ]
@@ -102,12 +122,19 @@
       "docId": "plot.xianni-ch1597-lianhun-zong-tongtian-zhi-lu",
       "dated": false,
       "seq": 1506
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
+      "dated": false,
+      "seq": 1506
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1597-lianhun-zong-tongtian-zhi-lu"
+    "plot.xianni-ch1597-lianhun-zong-tongtian-zhi-lu",
+    "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine"
   ],
-  "updatedAt": "2026-08-26T06:08:27.478Z"
+  "updatedAt": "2026-08-26T06:10:32.836Z"
 }

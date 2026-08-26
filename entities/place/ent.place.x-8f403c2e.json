@@ -6,14 +6,18 @@
     "苏城河道",
     "苏城（桂花酒产地）",
     "赵国苏城",
-    "文墨之都"
+    "文墨之都",
+    "芴城（原文误写）",
+    "Su City"
   ],
   "summary": "人方幻界中赵国境内的城池，河道上可租舟船，特产桂花老酒。",
   "attributes": {
-    "所属界面": "人方界",
-    "类型": "城池/科考之地",
-    "特产": "桂花老酒、桂花酒、文墨之风",
-    "上级区域": "赵国"
+    "所属界面": "赵国（凡人梦境世界）",
+    "类型": "城池（科举重镇、水乡）",
+    "特产": "桂花老酒、桂花酒、文墨之风、画舫歌舞、才子佳人",
+    "上级区域": "赵国",
+    "方位": "赵国京都南侧五百里外",
+    "规模": "很大，远望如雄城"
   },
   "observations": {
     "所属界面": [
@@ -26,6 +30,11 @@
         "value": "人方界",
         "docId": "plot.xianni-ch1594-huishou-yiwang-lunhui-zai",
         "seq": 1501
+      },
+      {
+        "value": "赵国（凡人梦境世界）",
+        "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
+        "seq": 1506
       }
     ],
     "类型": [
@@ -38,6 +47,11 @@
         "value": "城池/科考之地",
         "docId": "plot.xianni-1595-lianhunzong-de-yin",
         "seq": 1501
+      },
+      {
+        "value": "城池（科举重镇、水乡）",
+        "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
+        "seq": 1506
       }
     ],
     "特产": [
@@ -55,6 +69,16 @@
         "value": "文墨之风",
         "docId": "plot.xianni-1595-lianhunzong-de-yin",
         "seq": 1501
+      },
+      {
+        "value": "画舫歌舞",
+        "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
+        "seq": 1506
+      },
+      {
+        "value": "才子佳人",
+        "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
+        "seq": 1506
       }
     ],
     "上级区域": [
@@ -63,21 +87,35 @@
         "docId": "plot.xianni-1595-lianhunzong-de-yin",
         "seq": 1501
       }
+    ],
+    "方位": [
+      {
+        "value": "赵国京都南侧五百里外",
+        "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
+        "seq": 1506
+      }
+    ],
+    "规模": [
+      {
+        "value": "很大，远望如雄城",
+        "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
+        "seq": 1506
+      }
     ]
   },
   "firstSeq": 1312,
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch1594-huishou-yiwang-lunhui-zai",
+      "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
       "dated": false,
-      "seq": 1501
+      "seq": 1506
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1595-lianhunzong-de-yin",
+      "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
       "dated": false,
-      "seq": 1501
+      "seq": 1506
     },
     "特产": {
       "asOf": null,
@@ -90,6 +128,18 @@
       "docId": "plot.xianni-1595-lianhunzong-de-yin",
       "dated": false,
       "seq": 1501
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
+      "dated": false,
+      "seq": 1506
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
+      "dated": false,
+      "seq": 1506
     }
   },
   "contested": false,
@@ -97,7 +147,8 @@
   "docs": [
     "plot.xianni-ch1406-ruo-hun-bei-ren-fang-zhi-xiang",
     "plot.xianni-ch1594-huishou-yiwang-lunhui-zai",
-    "plot.xianni-1595-lianhunzong-de-yin"
+    "plot.xianni-1595-lianhunzong-de-yin",
+    "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine"
   ],
-  "updatedAt": "2026-08-26T06:04:12.083Z"
+  "updatedAt": "2026-08-26T06:10:32.848Z"
 }

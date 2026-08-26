@@ -1,22 +1,19 @@
 {
-  "id": "ent.place.x-7dafea2b",
+  "id": "ent.place.x-5418c31d",
   "type": "place",
-  "name": "赵国京都",
-  "aliases": [],
-  "summary": "赵国凡人界都城，王家所在之地。",
+  "name": "银龙溪",
+  "aliases": [
+    "银龙小溪",
+    "苏城河溪"
+  ],
+  "summary": "蜿蜒穿过苏城的几条小溪，其上常年停有画舫，日夜歌舞升平。",
   "attributes": {
     "所属界面": "赵国",
-    "类型": "国都",
-    "上级区域": "赵国",
-    "方位": "苏城北侧五百里"
+    "类型": "溪流水系",
+    "上级区域": "苏城"
   },
   "observations": {
     "所属界面": [
-      {
-        "value": "赵国凡人界",
-        "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
-        "seq": 392
-      },
       {
         "value": "赵国",
         "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
@@ -25,32 +22,20 @@
     ],
     "类型": [
       {
-        "value": "都城",
-        "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
-        "seq": 392
-      },
-      {
-        "value": "国都",
+        "value": "溪流水系",
         "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
         "seq": 1506
       }
     ],
     "上级区域": [
       {
-        "value": "赵国",
-        "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
-        "seq": 392
-      }
-    ],
-    "方位": [
-      {
-        "value": "苏城北侧五百里",
+        "value": "苏城",
         "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
         "seq": 1506
       }
     ]
   },
-  "firstSeq": 392,
+  "firstSeq": 1506,
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
@@ -66,12 +51,6 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
-      "dated": false,
-      "seq": 392
-    },
-    "方位": {
-      "asOf": null,
       "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
       "dated": false,
       "seq": 1506
@@ -80,9 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
-    "plot.xianni-1595-lianhunzong-de-yin",
     "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine"
   ],
-  "updatedAt": "2026-08-26T06:10:32.851Z"
+  "updatedAt": "2026-08-26T06:10:32.854Z"
 }
