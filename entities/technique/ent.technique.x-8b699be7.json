@@ -3,13 +3,16 @@
   "type": "technique",
   "name": "杀戮本源",
   "aliases": [
-    "杀戮之本源"
+    "杀戮之本源",
+    "一丝杀戮本源",
+    "Killing Origin"
   ],
   "summary": "天地万物皆可成本源，而杀戮本源极难出现，且并非杀戮越多越有可能；王林在冰封云海的疾驰中不知不觉诞生出一丝。",
   "attributes": {
     "出处": "王林一生杀戮于云海途中自然诞生",
-    "效果": "本源级力量，机理至今无人明悟",
-    "修炼条件": "非杀戮多寡可致，需一个念头或契机"
+    "效果": "本源级力量，机理至今无人明悟、杀气笼罩、震慑大能",
+    "修炼条件": "非杀戮多寡可致，需一个念头或契机",
+    "外显异象": "数万丈寒霜冰封、滔天杀气"
   },
   "observations": {
     "出处": [
@@ -24,12 +27,24 @@
         "value": "本源级力量，机理至今无人明悟",
         "docId": "plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm",
         "seq": 1420
+      },
+      {
+        "value": "杀气笼罩、震慑大能",
+        "docId": "plot.xianni-1510-yunhai-glory-dingshen-vs-shuidaozi",
+        "seq": 1420
       }
     ],
     "修炼条件": [
       {
         "value": "非杀戮多寡可致，需一个念头或契机",
         "docId": "plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm",
+        "seq": 1420
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "数万丈寒霜冰封、滔天杀气",
+        "docId": "plot.xianni-1510-yunhai-glory-dingshen-vs-shuidaozi",
         "seq": 1420
       }
     ]
@@ -53,12 +68,19 @@
       "docId": "plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm",
       "dated": false,
       "seq": 1420
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.xianni-1510-yunhai-glory-dingshen-vs-shuidaozi",
+      "dated": false,
+      "seq": 1420
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm"
+    "plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm",
+    "plot.xianni-1510-yunhai-glory-dingshen-vs-shuidaozi"
   ],
-  "updatedAt": "2026-08-26T00:36:32.216Z"
+  "updatedAt": "2026-08-26T00:38:37.846Z"
 }

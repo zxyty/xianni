@@ -7,8 +7,9 @@
   ],
   "summary": "水道子下令召集云海备战之修，于神宗外布置的大阵。",
   "attributes": {
-    "布置者": "神宗外聚集的上万云海修士",
-    "效果": "本欲抵抗界外来敌，本片段转用于神宗之战"
+    "布置者": "云海备战之修（奉水道子之命）、神宗外聚集的上万云海修士、神宗外近万云海修士",
+    "效果": "护卫神宗外围、本欲抵抗界外来敌，本片段转用于神宗之战、群修合力轰杀强敌",
+    "出处": "神宗"
   },
   "observations": {
     "布置者": [
@@ -20,6 +21,11 @@
       {
         "value": "神宗外聚集的上万云海修士",
         "docId": "plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm",
+        "seq": 1420
+      },
+      {
+        "value": "神宗外近万云海修士",
+        "docId": "plot.xianni-1510-yunhai-glory-dingshen-vs-shuidaozi",
         "seq": 1420
       }
     ],
@@ -33,6 +39,18 @@
         "value": "本欲抵抗界外来敌，本片段转用于神宗之战",
         "docId": "plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm",
         "seq": 1420
+      },
+      {
+        "value": "群修合力轰杀强敌",
+        "docId": "plot.xianni-1510-yunhai-glory-dingshen-vs-shuidaozi",
+        "seq": 1420
+      }
+    ],
+    "出处": [
+      {
+        "value": "神宗",
+        "docId": "plot.xianni-1510-yunhai-glory-dingshen-vs-shuidaozi",
+        "seq": 1420
       }
     ]
   },
@@ -40,13 +58,19 @@
   "attrProvenance": {
     "布置者": {
       "asOf": null,
-      "docId": "plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm",
+      "docId": "plot.xianni-1508-shuidaozi-fengjieling-hunt-wanglin",
       "dated": false,
-      "seq": 1420
+      "seq": 1415
     },
     "效果": {
       "asOf": null,
-      "docId": "plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm",
+      "docId": "plot.xianni-1508-shuidaozi-fengjieling-hunt-wanglin",
+      "dated": false,
+      "seq": 1415
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.xianni-1510-yunhai-glory-dingshen-vs-shuidaozi",
       "dated": false,
       "seq": 1420
     }
@@ -55,7 +79,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-1508-shuidaozi-fengjieling-hunt-wanglin",
-    "plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm"
+    "plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm",
+    "plot.xianni-1510-yunhai-glory-dingshen-vs-shuidaozi"
   ],
-  "updatedAt": "2026-08-26T00:36:32.214Z"
+  "updatedAt": "2026-08-26T00:38:37.841Z"
 }
