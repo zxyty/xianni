@@ -9,10 +9,11 @@
   ],
   "summary": "仙罡大陆七道宗宗主之一，与道侣共同开宗立派；双日事件后独自归来、封死洞府，最终在大战中重伤。",
   "attributes": {
-    "身份": "七道宗宗主",
+    "身份": "远古仙域之主/封印设置者",
     "称号": "七彩仙尊、远古仙皇、七彩道尊",
     "出身地": "仙罡大陆",
-    "结局": "大战中重伤"
+    "结局": "大战中重伤",
+    "存殁": "重伤闭关"
   },
   "observations": {
     "身份": [
@@ -20,6 +21,11 @@
         "value": "七道宗宗主",
         "docId": "plot.xianni-1640-qidao-zong-memory-crystal",
         "seq": 1546
+      },
+      {
+        "value": "远古仙域之主/封印设置者",
+        "docId": "plot.xianni-1641-immortals-nothing-special",
+        "seq": 1551
       }
     ],
     "称号": [
@@ -53,15 +59,23 @@
         "seq": 1546,
         "note": "王林据记忆碎片推断"
       }
+    ],
+    "存殁": [
+      {
+        "value": "重伤闭关",
+        "docId": "plot.xianni-1641-immortals-nothing-special",
+        "seq": 1551,
+        "note": "本章开篇王林所述前提"
+      }
     ]
   },
   "firstSeq": 1546,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1640-qidao-zong-memory-crystal",
+      "docId": "plot.xianni-1641-immortals-nothing-special",
       "dated": false,
-      "seq": 1546
+      "seq": 1551
     },
     "称号": {
       "asOf": null,
@@ -81,12 +95,20 @@
       "dated": false,
       "seq": 1546,
       "note": "王林据记忆碎片推断"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1641-immortals-nothing-special",
+      "dated": false,
+      "seq": 1551,
+      "note": "本章开篇王林所述前提"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1640-qidao-zong-memory-crystal"
+    "plot.xianni-1640-qidao-zong-memory-crystal",
+    "plot.xianni-1641-immortals-nothing-special"
   ],
-  "updatedAt": "2026-08-26T08:52:58.207Z"
+  "updatedAt": "2026-08-26T08:54:59.995Z"
 }

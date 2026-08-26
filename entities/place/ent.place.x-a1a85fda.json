@@ -6,14 +6,17 @@
     "四座巨大雕像",
     "齐天古三族雕像",
     "高耸入天的四座雕像",
-    "雕像漩涡"
+    "雕像漩涡",
+    "四座冲天之山般的雕像",
+    "四大巨像"
   ],
   "summary": "远古仙域深处中心的四座巨大雕像，内有四个声音（含白虎、朱雀）旁观议论王林搜魂之举。",
   "attributes": {
-    "类型": "雕像群",
-    "方位": "远古仙域深处、诸多雕像的中心位置、远古仙域诸多雕像深处",
-    "规模": "四座巨大雕像",
-    "上级区域": "远古仙域"
+    "类型": "巨型雕像/仙人栖身之所",
+    "方位": "远古仙域深处、诸多雕像的中心位置、远古仙域诸多雕像深处、远古仙域深处",
+    "规模": "几乎与天齐高，远看如四座冲天之山",
+    "上级区域": "远古仙域",
+    "所属界面": "远古仙域"
   },
   "observations": {
     "类型": [
@@ -21,6 +24,11 @@
         "value": "雕像群",
         "docId": "plot.xianni-ch1638-seal-appears-soul-search-shixian",
         "seq": 1546
+      },
+      {
+        "value": "巨型雕像/仙人栖身之所",
+        "docId": "plot.xianni-1641-immortals-nothing-special",
+        "seq": 1551
       }
     ],
     "方位": [
@@ -33,6 +41,11 @@
         "value": "远古仙域诸多雕像深处",
         "docId": "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
         "seq": 1546
+      },
+      {
+        "value": "远古仙域深处",
+        "docId": "plot.xianni-1641-immortals-nothing-special",
+        "seq": 1551
       }
     ],
     "规模": [
@@ -40,6 +53,11 @@
         "value": "四座巨大雕像",
         "docId": "plot.xianni-ch1638-seal-appears-soul-search-shixian",
         "seq": 1546
+      },
+      {
+        "value": "几乎与天齐高，远看如四座冲天之山",
+        "docId": "plot.xianni-1641-immortals-nothing-special",
+        "seq": 1551
       }
     ],
     "上级区域": [
@@ -48,15 +66,22 @@
         "docId": "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
         "seq": 1546
       }
+    ],
+    "所属界面": [
+      {
+        "value": "远古仙域",
+        "docId": "plot.xianni-1641-immortals-nothing-special",
+        "seq": 1551
+      }
     ]
   },
   "firstSeq": 1546,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1638-seal-appears-soul-search-shixian",
+      "docId": "plot.xianni-1641-immortals-nothing-special",
       "dated": false,
-      "seq": 1546
+      "seq": 1551
     },
     "方位": {
       "asOf": null,
@@ -66,22 +91,29 @@
     },
     "规模": {
       "asOf": null,
-      "docId": "plot.xianni-ch1638-seal-appears-soul-search-shixian",
+      "docId": "plot.xianni-1641-immortals-nothing-special",
       "dated": false,
-      "seq": 1546
+      "seq": 1551
     },
     "上级区域": {
       "asOf": null,
       "docId": "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
       "dated": false,
       "seq": 1546
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-1641-immortals-nothing-special",
+      "dated": false,
+      "seq": 1551
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1638-seal-appears-soul-search-shixian",
-    "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger"
+    "plot.xianni-1639-immortal-memory-ancient-race-immortality-finger",
+    "plot.xianni-1641-immortals-nothing-special"
   ],
-  "updatedAt": "2026-08-26T08:50:35.060Z"
+  "updatedAt": "2026-08-26T08:55:00.001Z"
 }

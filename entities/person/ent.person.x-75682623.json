@@ -4,12 +4,14 @@
   "name": "朱雀战将",
   "aliases": [
     "真正的朱雀战将",
-    "远古仙尊麾下朱雀"
+    "远古仙尊麾下朱雀",
+    "七彩仙尊麾下朱雀战将"
   ],
   "summary": "远古仙尊四大战将之一，被封印于雕像；其被封印使「一代朱雀」的身份成疑。",
   "attributes": {
-    "身份": "远古仙尊四大战将之一",
-    "结局": "被封印于雕像"
+    "身份": "七彩仙尊麾下战将",
+    "结局": "被封印于雕像",
+    "标志特征": "气息仿若朱雀之祖"
   },
   "observations": {
     "身份": [
@@ -17,6 +19,11 @@
         "value": "远古仙尊四大战将之一",
         "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
         "seq": 1462
+      },
+      {
+        "value": "七彩仙尊麾下战将",
+        "docId": "plot.xianni-1641-immortals-nothing-special",
+        "seq": 1551
       }
     ],
     "结局": [
@@ -26,15 +33,22 @@
         "seq": 1462,
         "note": "引出一代朱雀身份之谜"
       }
+    ],
+    "标志特征": [
+      {
+        "value": "气息仿若朱雀之祖",
+        "docId": "plot.xianni-1641-immortals-nothing-special",
+        "seq": 1551
+      }
     ]
   },
   "firstSeq": 1462,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
+      "docId": "plot.xianni-1641-immortals-nothing-special",
       "dated": false,
-      "seq": 1462
+      "seq": 1551
     },
     "结局": {
       "asOf": null,
@@ -42,12 +56,19 @@
       "dated": false,
       "seq": 1462,
       "note": "引出一代朱雀身份之谜"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-1641-immortals-nothing-special",
+      "dated": false,
+      "seq": 1551
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi"
+    "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
+    "plot.xianni-1641-immortals-nothing-special"
   ],
-  "updatedAt": "2026-08-26T03:49:38.388Z"
+  "updatedAt": "2026-08-26T08:54:59.992Z"
 }
