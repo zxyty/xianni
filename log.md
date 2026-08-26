@@ -909,3 +909,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T04:17:39.780Z** `ingest` plot.xianni-ch1562-zhao-he-qingshui-killing-origin — 第1562章 召河：清水赠杀戮之剑，与王林蛮荒星共饮立誓 · kind=plot asOf=2026-08-26 entities=40 relations=63 src=01471-01475.p2.md
 - **2026-08-26T04:19:50.136Z** `ingest` plot.xianni-ch1563-third-dao-fruit — 第1563章 第三个道果！——王林徒手取出红杉子、清水与龙磐子重创天罚殿殿主 · kind=plot asOf=2026-08-26 entities=18 relations=28 src=01471-01475.p3.md
 - **2026-08-26T04:26:30.282Z** `ingest` plot.xianni-ch1564-shisan-qicai-realm-collapse-aftermath — 仙逆 第1564章 十三：七彩界崩溃、秦九延被擒与四大星域交融坊市 · kind=plot asOf=2026-08-26 entities=37 relations=53 src=01471-01475.p4.md
+- **2026-08-26T04:28:52.355Z** `ingest` plot.xianni-1565-zhou-zihong-recalls-feng-zun — 第1565章 她是周紫虹——客栈说封尊往事，王林别十三 · kind=plot asOf=2026-08-26 entities=24 relations=33 src=01471-01475.p5.md
