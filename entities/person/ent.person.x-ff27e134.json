@@ -9,7 +9,8 @@
   "attributes": {
     "外貌": "年轻人",
     "存殁": "魂飞魄散",
-    "死因": "被周佚撞击"
+    "死因": "被周佚撞击",
+    "身份": "七彩道人之魂之一"
   },
   "observations": {
     "外貌": [
@@ -32,6 +33,13 @@
         "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
         "seq": 294
       }
+    ],
+    "身份": [
+      {
+        "value": "七彩道人之魂之一",
+        "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+        "seq": 1601
+      }
     ]
   },
   "firstSeq": 294,
@@ -53,12 +61,19 @@
       "docId": "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
       "dated": false,
       "seq": 294
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+      "dated": false,
+      "seq": 1601
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch294-298-void-voyage-first-fairy-fragment"
+    "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
+    "lore.xianni-ch1695-qicai-three-souls-seven-po"
   ],
-  "updatedAt": "2026-08-08T04:38:19.320Z"
+  "updatedAt": "2026-08-26T12:40:21.101Z"
 }

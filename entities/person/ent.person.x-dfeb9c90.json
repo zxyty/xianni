@@ -8,7 +8,8 @@
     "七道宗宗主",
     "Qicai Xianzun",
     "七道宗七彩仙尊",
-    "七道宗仙尊"
+    "七道宗仙尊",
+    "七彩之主"
   ],
   "summary": "仙罡大陆七道宗宗主之一，与道侣共同开宗立派；双日事件后独自归来、封死洞府，最终在大战中重伤。",
   "attributes": {
@@ -16,11 +17,13 @@
     "称号": "七彩仙尊、远古仙皇、七彩道尊、大尊",
     "出身地": "仙罡大陆",
     "结局": "大战中重伤",
-    "存殁": "沉睡",
+    "存殁": "死亡",
     "小阶段": "空劫中期",
     "性格": "歹毒",
     "阵营": "七道宗",
-    "标志特征": "不完整"
+    "标志特征": "不完整",
+    "死因": "与连道非大战重伤崩溃",
+    "分身": "七彩道人（神通魂）、第二魂（本源意境）、第三魂（记忆）、分离的七魄"
   },
   "observations": {
     "身份": [
@@ -129,6 +132,12 @@
         "docId": "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
         "seq": 1571,
         "note": "本片段中尚未苏醒"
+      },
+      {
+        "value": "死亡",
+        "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+        "seq": 1601,
+        "note": "全身崩溃化作三魂七魄，魂仍存世，可重新组合为完整的七彩仙尊"
       }
     ],
     "小阶段": [
@@ -164,6 +173,35 @@
         "seq": 1601,
         "note": "矾珊梦语：如今的七彩与当年大不一样"
       }
+    ],
+    "死因": [
+      {
+        "value": "与连道非大战重伤崩溃",
+        "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+        "seq": 1601
+      }
+    ],
+    "分身": [
+      {
+        "value": "七彩道人（神通魂）",
+        "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+        "seq": 1601
+      },
+      {
+        "value": "第二魂（本源意境）",
+        "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+        "seq": 1601
+      },
+      {
+        "value": "第三魂（记忆）",
+        "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+        "seq": 1601
+      },
+      {
+        "value": "分离的七魄",
+        "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+        "seq": 1601
+      }
     ]
   },
   "firstSeq": 1546,
@@ -195,10 +233,10 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
+      "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
       "dated": false,
-      "seq": 1571,
-      "note": "本片段中尚未苏醒"
+      "seq": 1601,
+      "note": "全身崩溃化作三魂七魄，魂仍存世，可重新组合为完整的七彩仙尊"
     },
     "小阶段": {
       "asOf": null,
@@ -224,6 +262,18 @@
       "dated": false,
       "seq": 1601,
       "note": "矾珊梦语：如今的七彩与当年大不一样"
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+      "dated": false,
+      "seq": 1601
+    },
+    "分身": {
+      "asOf": null,
+      "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+      "dated": false,
+      "seq": 1601
     }
   },
   "contested": false,
@@ -240,7 +290,8 @@
     "plot.xianni-ch1682-outsiders-wind-immortal-realm-reassembled",
     "plot.xianni-1688-get-out-ancient-immortals-invade-immortal-realm",
     "plot.xianni-ch1692-the-promise-of-those-years",
-    "plot.xianni-1694-fan-shanlu-dream-forbidden-ship"
+    "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
+    "lore.xianni-ch1695-qicai-three-souls-seven-po"
   ],
-  "updatedAt": "2026-08-26T12:32:37.505Z"
+  "updatedAt": "2026-08-26T12:40:21.034Z"
 }

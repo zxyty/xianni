@@ -18,18 +18,23 @@
     "Qicai Daoren",
     "七彩之光中的中年男子",
     "Seven-Colored Daoist",
-    "七彩道人界外主宰"
+    "七彩道人界外主宰",
+    "第一魂",
+    "神通魂",
+    "船只外的七彩道人",
+    "七道宗七彩道人"
   ],
   "summary": "斩杀九星古神并以七彩雕像封印其头颅之人；曾自陈以道灵饲养抢来的天道非易事，需另想法子。王林假设其即远古仙皇、即「叛空」之「空」、即一代朱雀的主子仙尊。",
   "attributes": {
     "外貌": "身穿七彩、七彩弥漫的模糊身影，可化作七彩之芒消散、七彩光芒凝聚之身影、虚幻身影、中年男子、一身道袍、仙风道骨、七彩缭绕、神色平静、背着双手缓步而行的道人",
-    "身份": "远古仙皇／一代朱雀的主子仙尊、古之墓地疑似主人、身份不明、界外之首、神秘存在、掌尊的师尊、太古星辰大能、掌尊之师、界外之主、七彩仙尊",
+    "身份": "远古仙皇／一代朱雀的主子仙尊、古之墓地疑似主人、身份不明、界外之首、神秘存在、掌尊的师尊、太古星辰大能、掌尊之师、界外之主、七彩仙尊、七彩仙尊神通所化之魂、七道宗之主、疑即仙尊",
     "称号": "七彩道人",
     "标志特征": "七彩之芒、以奇异目光注视清水一生、周身七彩缭绕、浑身七彩之芒；言语本身即可伤人心神、七彩光芒弥漫驱散星空黑暗、记忆缺失——『我没有获得记忆』",
-    "阵营": "王林之敌",
+    "阵营": "界外一方",
     "出身地": "仙罡大陆",
-    "性格": "平静、微笑、深藏算计、神色淡然、算计深远、平静、傲然、神色始终平静，仿若天地间任何事都无法令其动容色变",
-    "性别": "男"
+    "性格": "平静、微笑、深藏算计、神色淡然、算计深远、平静、傲然、神色始终平静，仿若天地间任何事都无法令其动容色变、渐渐有了自己的意志",
+    "性别": "男",
+    "分身": "第二魂、第三魂、七魄"
   },
   "observations": {
     "外貌": [
@@ -112,6 +117,21 @@
         "docId": "plot.xianni-1693-qicai-arrival",
         "seq": 1601,
         "note": "自称；矾珊璐评价为「是，也不是他」，真伪存疑"
+      },
+      {
+        "value": "七彩仙尊神通所化之魂",
+        "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+        "seq": 1601
+      },
+      {
+        "value": "七道宗之主",
+        "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+        "seq": 1601
+      },
+      {
+        "value": "疑即仙尊",
+        "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+        "seq": 1601
       }
     ],
     "称号": [
@@ -168,6 +188,11 @@
         "value": "王林之敌",
         "docId": "plot.xianni-ch1677-second-year-six-months-hongdie-departs",
         "seq": 1586
+      },
+      {
+        "value": "界外一方",
+        "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+        "seq": 1601
       }
     ],
     "出身地": [
@@ -197,12 +222,34 @@
         "value": "神色始终平静，仿若天地间任何事都无法令其动容色变",
         "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
         "seq": 1601
+      },
+      {
+        "value": "渐渐有了自己的意志",
+        "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+        "seq": 1601
       }
     ],
     "性别": [
       {
         "value": "男",
         "docId": "plot.xianni-ch1692-the-promise-of-those-years",
+        "seq": 1601
+      }
+    ],
+    "分身": [
+      {
+        "value": "第二魂",
+        "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+        "seq": 1601
+      },
+      {
+        "value": "第三魂",
+        "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+        "seq": 1601
+      },
+      {
+        "value": "七魄",
+        "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
         "seq": 1601
       }
     ]
@@ -236,9 +283,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch1677-second-year-six-months-hongdie-departs",
+      "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
       "dated": false,
-      "seq": 1586
+      "seq": 1601
     },
     "出身地": {
       "asOf": null,
@@ -255,6 +302,12 @@
     "性别": {
       "asOf": null,
       "docId": "plot.xianni-ch1692-the-promise-of-those-years",
+      "dated": false,
+      "seq": 1601
+    },
+    "分身": {
+      "asOf": null,
+      "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
       "dated": false,
       "seq": 1601
     }
@@ -282,7 +335,8 @@
     "plot.xianni-ch1690-jue-bu-hui-cuo-zhangzun-fifth-strike",
     "plot.xianni-ch1692-the-promise-of-those-years",
     "plot.xianni-1693-qicai-arrival",
-    "plot.xianni-1694-fan-shanlu-dream-forbidden-ship"
+    "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
+    "lore.xianni-ch1695-qicai-three-souls-seven-po"
   ],
-  "updatedAt": "2026-08-26T12:32:37.468Z"
+  "updatedAt": "2026-08-26T12:40:21.098Z"
 }

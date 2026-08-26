@@ -3,13 +3,17 @@
   "type": "person",
   "name": "符文族圣祖",
   "aliases": [
-    "圣祖"
+    "圣祖",
+    "妖灵之地的符文族圣祖",
+    "被镇压的女子"
   ],
   "summary": "王林曾在青霖洞府内见到的符文族人物；青霖反问王林是否相信她的话，暗示其言可疑。",
   "attributes": {
     "性别": "女",
     "种族": "符文族",
-    "身份": "符文族圣祖"
+    "身份": "掌尊之女",
+    "外貌": "双目被挖，全身被镇压",
+    "标志特征": "怨气冲天"
   },
   "observations": {
     "性别": [
@@ -31,6 +35,25 @@
         "value": "符文族圣祖",
         "docId": "plot.xianni-1121-wu-hou-gu-zhi-you-qinglin-bitian-guan-kunxu-chuansongzhen",
         "seq": 1039
+      },
+      {
+        "value": "掌尊之女",
+        "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+        "seq": 1601
+      }
+    ],
+    "外貌": [
+      {
+        "value": "双目被挖，全身被镇压",
+        "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+        "seq": 1601
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "怨气冲天",
+        "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+        "seq": 1601
       }
     ]
   },
@@ -50,15 +73,28 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1121-wu-hou-gu-zhi-you-qinglin-bitian-guan-kunxu-chuansongzhen",
+      "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
       "dated": false,
-      "seq": 1039
+      "seq": 1601
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+      "dated": false,
+      "seq": 1601
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+      "dated": false,
+      "seq": 1601
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1121-wu-hou-gu-zhi-you-qinglin-bitian-guan-kunxu-chuansongzhen"
+    "plot.xianni-1121-wu-hou-gu-zhi-you-qinglin-bitian-guan-kunxu-chuansongzhen",
+    "lore.xianni-ch1695-qicai-three-souls-seven-po"
   ],
-  "updatedAt": "2026-08-24T16:14:46.059Z"
+  "updatedAt": "2026-08-26T12:40:21.111Z"
 }

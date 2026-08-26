@@ -14,10 +14,11 @@
     "身份": "王林之徒",
     "称号": "本王",
     "性格": "疯癫、顽劣、执拗、爱玩，自称聪明",
-    "标志特征": "常与不存在的「小红」对话；捂口扣鼻孔的做派",
+    "标志特征": "仙人不灭体",
     "出身地": "仙罡大陆",
-    "存殁": "死亡",
-    "死因": "被人以七道宗宝物骗来此地后身死"
+    "存殁": "生死未卜",
+    "死因": "被人以七道宗宝物骗来此地后身死",
+    "元神强度": "修为通天"
   },
   "observations": {
     "身份": [
@@ -46,6 +47,11 @@
         "value": "常与不存在的「小红」对话；捂口扣鼻孔的做派",
         "docId": "plot.xianni-ch1544-departure-madman-disciple-attraction-art",
         "seq": 1453
+      },
+      {
+        "value": "仙人不灭体",
+        "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+        "seq": 1601
       }
     ],
     "出身地": [
@@ -61,6 +67,12 @@
         "docId": "plot.xianni-ch1686-xiaohong-yanlong-subdued",
         "seq": 1596,
         "note": "据世界状态须知第1596章已死；本片段为往事追述"
+      },
+      {
+        "value": "生死未卜",
+        "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+        "seq": 1601,
+        "note": "被天道所伤后不知去向，因仙人不灭体应不会死亡，眼下仍在洞府界内"
       }
     ],
     "死因": [
@@ -69,6 +81,13 @@
         "docId": "plot.xianni-ch1686-xiaohong-yanlong-subdued",
         "seq": 1596,
         "note": "本章仅由炎龙转述『可惜他死了』，详情未明"
+      }
+    ],
+    "元神强度": [
+      {
+        "value": "修为通天",
+        "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+        "seq": 1601
       }
     ]
   },
@@ -94,9 +113,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch1544-departure-madman-disciple-attraction-art",
+      "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
       "dated": false,
-      "seq": 1453
+      "seq": 1601
     },
     "出身地": {
       "asOf": null,
@@ -106,10 +125,10 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch1686-xiaohong-yanlong-subdued",
+      "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
       "dated": false,
-      "seq": 1596,
-      "note": "据世界状态须知第1596章已死；本片段为往事追述"
+      "seq": 1601,
+      "note": "被天道所伤后不知去向，因仙人不灭体应不会死亡，眼下仍在洞府界内"
     },
     "死因": {
       "asOf": null,
@@ -117,6 +136,12 @@
       "dated": false,
       "seq": 1596,
       "note": "本章仅由炎龙转述『可惜他死了』，详情未明"
+    },
+    "元神强度": {
+      "asOf": null,
+      "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+      "dated": false,
+      "seq": 1601
     }
   },
   "contested": false,
@@ -124,7 +149,8 @@
   "docs": [
     "plot.xianni-ch1544-departure-madman-disciple-attraction-art",
     "plot.xianni-ch1686-xiaohong-yanlong-subdued",
-    "plot.xianni-1694-fan-shanlu-dream-forbidden-ship"
+    "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
+    "lore.xianni-ch1695-qicai-three-souls-seven-po"
   ],
-  "updatedAt": "2026-08-26T12:32:37.506Z"
+  "updatedAt": "2026-08-26T12:40:21.039Z"
 }
