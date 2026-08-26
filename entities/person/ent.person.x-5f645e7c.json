@@ -6,7 +6,8 @@
   "summary": "形如翩翩少年的仙尊，见第一根香延至七息时双目一凝，眼露奇异之色。",
   "attributes": {
     "称号": "仙尊",
-    "外貌": "翩翩少年"
+    "外貌": "翩翩少年",
+    "阵营": "追杀王林一方"
   },
   "observations": {
     "称号": [
@@ -21,6 +22,13 @@
         "value": "翩翩少年",
         "docId": "plot.xianni-1407-renfang-jie-li-muwan-wo-buyuan",
         "seq": 1317
+      }
+    ],
+    "阵营": [
+      {
+        "value": "追杀王林一方",
+        "docId": "plot.xianni-ch1688-two-bows-li-guang-bow-slaughter",
+        "seq": 1596
       }
     ]
   },
@@ -37,12 +45,19 @@
       "docId": "plot.xianni-1407-renfang-jie-li-muwan-wo-buyuan",
       "dated": false,
       "seq": 1317
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1688-two-bows-li-guang-bow-slaughter",
+      "dated": false,
+      "seq": 1596
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1407-renfang-jie-li-muwan-wo-buyuan"
+    "plot.xianni-1407-renfang-jie-li-muwan-wo-buyuan",
+    "plot.xianni-ch1688-two-bows-li-guang-bow-slaughter"
   ],
-  "updatedAt": "2026-08-25T17:04:44.494Z"
+  "updatedAt": "2026-08-26T12:11:04.737Z"
 }
