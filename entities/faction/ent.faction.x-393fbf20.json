@@ -6,13 +6,15 @@
     "青龙玄武白虎朱雀四将",
     "Four Great Generals",
     "远古仙域四大战将",
-    "仙域四大战将"
+    "仙域四大战将",
+    "界内远古仙域四大战将"
   ],
   "summary": "远古仙域内镇守四座如山雕像的四位残仙战将，彼此配合多年已至心有灵犀，本章因疗伤中而战力受限。",
   "attributes": {
     "据点": "远古仙域四座如山雕像",
     "所属界面": "远古仙域",
-    "理念": "唤醒仙尊"
+    "理念": "唤醒仙尊",
+    "阵营": "远古仙域"
   },
   "observations": {
     "据点": [
@@ -35,6 +37,14 @@
         "docId": "plot.xianni-ch1684-immortal-dragon-manifests-dao",
         "seq": 1591
       }
+    ],
+    "阵营": [
+      {
+        "value": "远古仙域",
+        "docId": "plot.xianni-ch1687-yuangu-xianyu-return",
+        "seq": 1596,
+        "note": "与王林另有约定交易"
+      }
     ]
   },
   "firstSeq": 1551,
@@ -56,6 +66,13 @@
       "docId": "plot.xianni-ch1684-immortal-dragon-manifests-dao",
       "dated": false,
       "seq": 1591
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1687-yuangu-xianyu-return",
+      "dated": false,
+      "seq": 1596,
+      "note": "与王林另有约定交易"
     }
   },
   "contested": false,
@@ -64,7 +81,8 @@
     "plot.xianni-ch1644-jing-four-generals-ambush",
     "plot.xianni-ch1646-drink-with-situ-nan-cave-dwelling-truth",
     "plot.xianni-ch1679-mosquito-beast-reunion",
-    "plot.xianni-ch1684-immortal-dragon-manifests-dao"
+    "plot.xianni-ch1684-immortal-dragon-manifests-dao",
+    "plot.xianni-ch1687-yuangu-xianyu-return"
   ],
-  "updatedAt": "2026-08-26T11:53:37.687Z"
+  "updatedAt": "2026-08-26T12:02:14.626Z"
 }
