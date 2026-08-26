@@ -4,14 +4,16 @@
   "name": "寒衣童子",
   "aliases": [
     "寒冰童子",
-    "寒衣"
+    "寒衣",
+    "寒衣子"
   ],
   "summary": "自太古星辰九颗被冰封修真星内走出的界外大能，驱动巨冰撞破封界大阵制造寒冰风暴，与红杉子有旧怨，称其为血衫童子并要其现出本体再战。",
   "attributes": {
-    "阵营": "界外入侵者",
-    "外貌": "童子之样",
+    "阵营": "界外（太古星辰一方）、界外入侵者、界外",
+    "外貌": "童子",
     "性格": "唯独畏惧封尊",
-    "标志特征": "驱动巨大寒冰瞬移、化寒冰风暴冻杀修士"
+    "标志特征": "驱动巨大寒冰瞬移、化寒冰风暴冻杀修士",
+    "身份": "界外强者"
   },
   "observations": {
     "阵营": [
@@ -24,6 +26,11 @@
         "value": "界外入侵者",
         "docId": "plot.xianni-ch1525-zang-gu-wu-ren-yi",
         "seq": 1434
+      },
+      {
+        "value": "界外",
+        "docId": "plot.xianni-ch1526-nanzhao-shangren-dies",
+        "seq": 1434
       }
     ],
     "外貌": [
@@ -31,6 +38,11 @@
         "value": "童子之样",
         "docId": "plot.xianni-1523-yunhai-rout-hongshanzi-ambushed",
         "seq": 1429
+      },
+      {
+        "value": "童子",
+        "docId": "plot.xianni-ch1526-nanzhao-shangren-dies",
+        "seq": 1434
       }
     ],
     "性格": [
@@ -51,21 +63,28 @@
         "docId": "plot.xianni-1523-yunhai-rout-hongshanzi-ambushed",
         "seq": 1429
       }
+    ],
+    "身份": [
+      {
+        "value": "界外强者",
+        "docId": "plot.xianni-ch1526-nanzhao-shangren-dies",
+        "seq": 1434
+      }
     ]
   },
   "firstSeq": 1429,
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch1525-zang-gu-wu-ren-yi",
-      "dated": false,
-      "seq": 1434
-    },
-    "外貌": {
-      "asOf": null,
       "docId": "plot.xianni-1523-yunhai-rout-hongshanzi-ambushed",
       "dated": false,
       "seq": 1429
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1526-nanzhao-shangren-dies",
+      "dated": false,
+      "seq": 1434
     },
     "性格": {
       "asOf": null,
@@ -78,6 +97,12 @@
       "docId": "plot.xianni-1523-yunhai-rout-hongshanzi-ambushed",
       "dated": false,
       "seq": 1429
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1526-nanzhao-shangren-dies",
+      "dated": false,
+      "seq": 1434
     }
   },
   "contested": false,
@@ -85,7 +110,8 @@
   "docs": [
     "plot.xianni-1523-yunhai-rout-hongshanzi-ambushed",
     "plot.xianni-1524-wangao-yiwo-kaitianfu",
-    "plot.xianni-ch1525-zang-gu-wu-ren-yi"
+    "plot.xianni-ch1525-zang-gu-wu-ren-yi",
+    "plot.xianni-ch1526-nanzhao-shangren-dies"
   ],
-  "updatedAt": "2026-08-26T01:24:56.434Z"
+  "updatedAt": "2026-08-26T01:26:59.695Z"
 }
