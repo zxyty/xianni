@@ -4,12 +4,14 @@
   "name": "浩然之气",
   "aliases": [
     "浩然正气",
-    "haoran qi"
+    "haoran qi",
+    "儒道浩然之气"
   ],
   "summary": "王林一声「你敢」时自体内轰然而出的气势，化作无形威压笼罩天地，引动无数雷霆闪电、风云色变。",
   "attributes": {
-    "效果": "形成无形威压笼罩天地、引动雷霆闪电交错、令仙修与凡人皆骇然",
-    "外显异象": "天地轰鸣、雷霆游走、朗朗乾坤瞬间风云色变"
+    "效果": "形成无形威压笼罩天地、引动雷霆闪电交错、令仙修与凡人皆骇然、惊鬼神、扩散冲天、驱散天怒漩涡",
+    "外显异象": "苍发飘动，气冲天空",
+    "出处": "感悟天地、明悟道理"
   },
   "observations": {
     "效果": [
@@ -27,6 +29,21 @@
         "value": "令仙修与凡人皆骇然",
         "docId": "plot.xianni-ch1602-you-dare-scholar-lecture-ten-years",
         "seq": 1511
+      },
+      {
+        "value": "惊鬼神",
+        "docId": "plot.xianni-ch1609-meng-wen-ji",
+        "seq": 1516
+      },
+      {
+        "value": "扩散冲天",
+        "docId": "plot.xianni-ch1609-meng-wen-ji",
+        "seq": 1516
+      },
+      {
+        "value": "驱散天怒漩涡",
+        "docId": "plot.xianni-ch1609-meng-wen-ji",
+        "seq": 1516
       }
     ],
     "外显异象": [
@@ -34,6 +51,18 @@
         "value": "天地轰鸣、雷霆游走、朗朗乾坤瞬间风云色变",
         "docId": "plot.xianni-ch1602-you-dare-scholar-lecture-ten-years",
         "seq": 1511
+      },
+      {
+        "value": "苍发飘动，气冲天空",
+        "docId": "plot.xianni-ch1609-meng-wen-ji",
+        "seq": 1516
+      }
+    ],
+    "出处": [
+      {
+        "value": "感悟天地、明悟道理",
+        "docId": "plot.xianni-ch1609-meng-wen-ji",
+        "seq": 1516
       }
     ]
   },
@@ -47,15 +76,22 @@
     },
     "外显异象": {
       "asOf": null,
-      "docId": "plot.xianni-ch1602-you-dare-scholar-lecture-ten-years",
+      "docId": "plot.xianni-ch1609-meng-wen-ji",
       "dated": false,
-      "seq": 1511
+      "seq": 1516
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1609-meng-wen-ji",
+      "dated": false,
+      "seq": 1516
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1602-you-dare-scholar-lecture-ten-years"
+    "plot.xianni-ch1602-you-dare-scholar-lecture-ten-years",
+    "plot.xianni-ch1609-meng-wen-ji"
   ],
-  "updatedAt": "2026-08-26T06:18:38.671Z"
+  "updatedAt": "2026-08-26T06:33:54.485Z"
 }
