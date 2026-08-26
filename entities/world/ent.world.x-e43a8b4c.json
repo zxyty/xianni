@@ -3,12 +3,15 @@
   "type": "world",
   "name": "神通一界",
   "aliases": [
-    "幽冥兽体内一界"
+    "幽冥兽体内一界",
+    "幽冥兽体内之界",
+    "幽冥兽体内的奇异一界"
   ],
   "summary": "幽冥兽体内自成的一界，入口旋转如黑洞、吸力惊人，可将整片空间吞入；灵动、周瑾、古息叶、望月先后被吸入其中。",
   "attributes": {
     "层次": "兽体内自成一界",
-    "特点": "入口如黑洞漩涡、吸力横扫、可吞噬整片空间"
+    "特点": "入口如黑洞漩涡、吸力横扫、可吞噬整片空间、有星空与修真星、几乎没有生灵、被困者误认为真正星空",
+    "主宰势力": "幽冥兽"
   },
   "observations": {
     "层次": [
@@ -33,6 +36,28 @@
         "value": "可吞噬整片空间",
         "docId": "plot.xianni-1504-lie-youming-4-seven-star-soul-seal-and-seven-color-realm",
         "seq": 1415
+      },
+      {
+        "value": "有星空与修真星",
+        "docId": "plot.xianni-ch1535-madman-in-youming-beast-world",
+        "seq": 1443
+      },
+      {
+        "value": "几乎没有生灵",
+        "docId": "plot.xianni-ch1535-madman-in-youming-beast-world",
+        "seq": 1443
+      },
+      {
+        "value": "被困者误认为真正星空",
+        "docId": "plot.xianni-ch1535-madman-in-youming-beast-world",
+        "seq": 1443
+      }
+    ],
+    "主宰势力": [
+      {
+        "value": "幽冥兽",
+        "docId": "plot.xianni-ch1535-madman-in-youming-beast-world",
+        "seq": 1443
       }
     ]
   },
@@ -49,12 +74,19 @@
       "docId": "plot.xianni-1504-lie-youming-4-seven-star-soul-seal-and-seven-color-realm",
       "dated": false,
       "seq": 1415
+    },
+    "主宰势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1535-madman-in-youming-beast-world",
+      "dated": false,
+      "seq": 1443
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1504-lie-youming-4-seven-star-soul-seal-and-seven-color-realm"
+    "plot.xianni-1504-lie-youming-4-seven-star-soul-seal-and-seven-color-realm",
+    "plot.xianni-ch1535-madman-in-youming-beast-world"
   ],
-  "updatedAt": "2026-08-26T00:14:03.237Z"
+  "updatedAt": "2026-08-26T02:23:53.543Z"
 }

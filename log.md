@@ -882,3 +882,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T01:51:33.886Z** `ingest` plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun — 仙逆 第1529章 战结！——开天斧破敌、蓝梦道尊三次相让与焚天古伞开启 · kind=plot asOf=2026-08-26 entities=70 relations=121 src=01439-01442.md
 - **2026-08-26T02:14:19.042Z** `ingest` plot.xianni-ch1533-youming-awakens-golden-storm — 第1533章 幽冥醒！——七彩道人断弓弦破封阵，王林腰斩夺弓，幽冥兽喷金色风暴终结第一战 · kind=plot asOf=2026-08-26 entities=23 relations=28 src=01443-01447.p1.md
 - **2026-08-26T02:21:41.068Z** `ingest` plot.xianni-ch1534-xunzhao-post-first-war-aftermath — 仙逆 第1534章 寻找：第一战余波——界外备战复仇、云海十宗重组、昆虚水罗蓝裙女子统军 · kind=plot asOf=2026-08-26 entities=49 relations=73 src=01443-01447.p2.md
+- **2026-08-26T02:23:53.904Z** `ingest` plot.xianni-ch1535-madman-in-youming-beast-world — 第1535章 疯子！——幽冥兽体内一界的疯癫修士与王林血脉之变 · kind=plot asOf=2026-08-26 entities=16 relations=23 src=01443-01447.p3.md
