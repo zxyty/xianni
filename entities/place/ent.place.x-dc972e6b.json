@@ -8,18 +8,19 @@
     "域外",
     "域外空间",
     "漆黑空旷之地",
-    "域外战场碎片"
+    "域外战场碎片",
+    "域外战场投影"
   ],
   "summary": "域外通道之外的厮杀战场，每百年清理一次，强者云集、生死一瞬。",
   "attributes": {
-    "类型": "战场、战场/资格赛场、秘境·战场、充满裂缝的空间、战场/域外之地、战场/秘境、战场/界外、古战场/域外空间、域外战场（星空战场）、独立空间战场、秘境/战场空间、混乱之地、百年一次的域外战场、战场/试炼、试炼战场、多关卡战场空间、战场空间／内含空间裂缝、战场空间、古战场/秘境、战场/秘境空间、战场空间/秘境、战场/域外空间、遗迹战场／门之碎片",
-    "危险度": "极高、极高（罡风熔化神、裂痕吞婴变）、极高（去者十存一）、高（生还率约30%）、极高（濒临崩溃、遍布裂缝）、极高（濒临空间崩溃，禁止四五级修真国修士进入）、极高（坍塌与吞魂/游魂）、极高（坍塌中，游魂遍地）、极高（生死由命）",
+    "类型": "战场、战场/资格赛场、秘境·战场、充满裂缝的空间、战场/域外之地、战场/秘境、战场/界外、古战场/域外空间、域外战场（星空战场）、独立空间战场、秘境/战场空间、混乱之地、百年一次的域外战场、战场/试炼、试炼战场、多关卡战场空间、战场空间／内含空间裂缝、战场空间、古战场/秘境、战场/秘境空间、战场空间/秘境、战场/域外空间、遗迹战场／门之碎片、战场遗迹/投影",
+    "危险度": "极高、极高（罡风熔化神、裂痕吞婴变）、极高（去者十存一）、高（生还率约30%）、极高（濒临崩溃、遍布裂缝）、极高（濒临空间崩溃，禁止四五级修真国修士进入）、极高（坍塌与吞魂/游魂）、极高（坍塌中，游魂遍地）、极高（生死由命）、极高（无尽幽魂、无数骸骨）",
     "所属势力": "联盟",
     "规模": "撞破隔膜后其外范围如大海之于江河",
     "所属界面": "朱雀星",
-    "特产": "材料、法宝、神识（征缴单前十的至珍之物）、狰狞野生游魂/魔头、游魂魔头、游魂、香魂、修士骸骨、凶兽骸骨、仙人金光骸骨、游魂风暴",
+    "特产": "材料、法宝、神识（征缴单前十的至珍之物）、狰狞野生游魂/魔头、游魂魔头、游魂、香魂、修士骸骨、凶兽骸骨、仙人金光骸骨、游魂风暴、无尽游魂、数个吞魂、无数骸骨",
     "守护": "修真联盟定期加固",
-    "方位": "符文族第十八层墙壁之外"
+    "方位": "符文族第十八层石室缺口之外"
   },
   "observations": {
     "类型": [
@@ -137,6 +138,11 @@
         "value": "遗迹战场／门之碎片",
         "docId": "plot.xianni-ch1578-tianbian-yuwai-zhanchang-men-fragment",
         "seq": 1486
+      },
+      {
+        "value": "战场遗迹/投影",
+        "docId": "plot.xianni-ch1584-xushen-tianzun-seizes-wang-lin-body",
+        "seq": 1491
       }
     ],
     "危险度": [
@@ -184,6 +190,11 @@
         "value": "极高（生死由命）",
         "docId": "plot.xianni-ch289-ancient-god-sacrifice-treasure",
         "seq": 273
+      },
+      {
+        "value": "极高（无尽幽魂、无数骸骨）",
+        "docId": "plot.xianni-ch1584-xushen-tianzun-seizes-wang-lin-body",
+        "seq": 1491
       }
     ],
     "所属势力": [
@@ -283,6 +294,21 @@
         "value": "游魂风暴",
         "docId": "plot.xianni-ch1578-tianbian-yuwai-zhanchang-men-fragment",
         "seq": 1486
+      },
+      {
+        "value": "无尽游魂",
+        "docId": "plot.xianni-ch1584-xushen-tianzun-seizes-wang-lin-body",
+        "seq": 1491
+      },
+      {
+        "value": "数个吞魂",
+        "docId": "plot.xianni-ch1584-xushen-tianzun-seizes-wang-lin-body",
+        "seq": 1491
+      },
+      {
+        "value": "无数骸骨",
+        "docId": "plot.xianni-ch1584-xushen-tianzun-seizes-wang-lin-body",
+        "seq": 1491
       }
     ],
     "守护": [
@@ -302,6 +328,11 @@
         "value": "符文族第十八层墙壁之外",
         "docId": "plot.xianni-1577-yuwai",
         "seq": 1486
+      },
+      {
+        "value": "符文族第十八层石室缺口之外",
+        "docId": "plot.xianni-ch1584-xushen-tianzun-seizes-wang-lin-body",
+        "seq": 1491
       }
     ]
   },
@@ -351,9 +382,9 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-1577-yuwai",
+      "docId": "plot.xianni-ch1584-xushen-tianzun-seizes-wang-lin-body",
       "dated": false,
-      "seq": 1486
+      "seq": 1491
     }
   },
   "contested": false,
@@ -384,7 +415,8 @@
     "plot.xianni-ch432-ancestral-rune-skull",
     "plot.xianni-ch1564-shisan-qicai-realm-collapse-aftermath",
     "plot.xianni-1577-yuwai",
-    "plot.xianni-ch1578-tianbian-yuwai-zhanchang-men-fragment"
+    "plot.xianni-ch1578-tianbian-yuwai-zhanchang-men-fragment",
+    "plot.xianni-ch1584-xushen-tianzun-seizes-wang-lin-body"
   ],
-  "updatedAt": "2026-08-26T04:57:50.231Z"
+  "updatedAt": "2026-08-26T05:12:28.431Z"
 }

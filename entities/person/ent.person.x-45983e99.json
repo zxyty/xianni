@@ -3,21 +3,30 @@
   "type": "person",
   "name": "虚神天尊",
   "aliases": [
-    "雾气所化之人"
+    "雾气所化之人",
+    "太古五尊之一虚神天尊",
+    "太吉五尊之一（原文误写）",
+    "虚神"
   ],
   "summary": "自称太古五尊之一，由模糊雾气所化、看不出男女老少；本章末现身一掌拍飞王林，吞食其金色仙血，宣称要夺走王林的仙人不灭体。",
   "attributes": {
-    "称号": "虚神天尊",
+    "称号": "虚神天尊、太古五尊之一",
     "身份": "太古五尊之一",
-    "外貌": "全身由模糊雾气所化，雾气如烟丝飘散，看不出男女老少",
-    "性格": "贪婪、桀骜",
-    "存殁": "存活"
+    "外貌": "全身由模糊雾气所化，雾气如烟丝飘散，看不出男女老少、身子完全由雾气组成",
+    "性格": "贪婪、桀骜、贪婪、狞笑、见势不妙即抽身",
+    "存殁": "存活",
+    "阵营": "围攻王林一方"
   },
   "observations": {
     "称号": [
       {
         "value": "虚神天尊",
         "docId": "plot.xianni-ch1583-immortal-indestructible-body",
+        "seq": 1491
+      },
+      {
+        "value": "太古五尊之一",
+        "docId": "plot.xianni-ch1584-xushen-tianzun-seizes-wang-lin-body",
         "seq": 1491
       }
     ],
@@ -33,12 +42,22 @@
         "value": "全身由模糊雾气所化，雾气如烟丝飘散，看不出男女老少",
         "docId": "plot.xianni-ch1583-immortal-indestructible-body",
         "seq": 1491
+      },
+      {
+        "value": "身子完全由雾气组成",
+        "docId": "plot.xianni-ch1584-xushen-tianzun-seizes-wang-lin-body",
+        "seq": 1491
       }
     ],
     "性格": [
       {
         "value": "贪婪、桀骜",
         "docId": "plot.xianni-ch1583-immortal-indestructible-body",
+        "seq": 1491
+      },
+      {
+        "value": "贪婪、狞笑、见势不妙即抽身",
+        "docId": "plot.xianni-ch1584-xushen-tianzun-seizes-wang-lin-body",
         "seq": 1491
       }
     ],
@@ -47,6 +66,14 @@
         "value": "存活",
         "docId": "plot.xianni-ch1583-immortal-indestructible-body",
         "seq": 1491
+      }
+    ],
+    "阵营": [
+      {
+        "value": "围攻王林一方",
+        "docId": "plot.xianni-ch1584-xushen-tianzun-seizes-wang-lin-body",
+        "seq": 1491,
+        "note": "本章末宣称『老夫不参与了』"
       }
     ]
   },
@@ -81,12 +108,20 @@
       "docId": "plot.xianni-ch1583-immortal-indestructible-body",
       "dated": false,
       "seq": 1491
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1584-xushen-tianzun-seizes-wang-lin-body",
+      "dated": false,
+      "seq": 1491,
+      "note": "本章末宣称『老夫不参与了』"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1583-immortal-indestructible-body"
+    "plot.xianni-ch1583-immortal-indestructible-body",
+    "plot.xianni-ch1584-xushen-tianzun-seizes-wang-lin-body"
   ],
-  "updatedAt": "2026-08-26T05:09:54.239Z"
+  "updatedAt": "2026-08-26T05:12:28.412Z"
 }

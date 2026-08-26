@@ -928,3 +928,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T05:04:34.675Z** `ingest` plot.xianni-1581-kill-one-burning-realm-umbrella — 第1581章 杀一人！——焚界古伞焚杀黑衣老妪，五脏仙道女子现身 · kind=plot asOf=2026-08-26 entities=16 relations=27 src=01491-01495.p1.md
 - **2026-08-26T05:07:26.059Z** `ingest` plot.xianni-1582-yin-yue-you-qing — 第1582章 阴月有晴！——五脏奇术碎心，王林反推白凡终式 · kind=plot asOf=2026-08-26 entities=29 relations=42 src=01491-01495.p2.md
 - **2026-08-26T05:09:54.646Z** `ingest` plot.xianni-ch1583-immortal-indestructible-body — 第1583章 仙人不灭体！——王林转换仙体，虚神天尊现身夺体 · kind=plot asOf=2026-08-26 entities=22 relations=29 src=01491-01495.p3.md
+- **2026-08-26T05:12:28.897Z** `ingest` plot.xianni-ch1584-xushen-tianzun-seizes-wang-lin-body — 第1584章 天尊夺舍！——虚神天尊夺王林仙体，游魂风暴反噬，李广弓现世 · kind=plot asOf=2026-08-26 entities=20 relations=36 src=01491-01495.p4.md

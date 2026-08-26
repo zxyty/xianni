@@ -4,16 +4,18 @@
   "name": "符文族第十八层",
   "aliases": [
     "本源石室",
-    "符文族十八层"
+    "符文族十八层",
+    "符文族地底洞穴第十八层",
+    "百丈石室"
   ],
   "summary": "百丈大小的漆黑石室，中央一团蕴含驳杂本源之力的火苗震慑四周幽魂；王林当年在此吸收一丝本源，本章将火苗捏碎。",
   "attributes": {
-    "类型": "秘境层级",
-    "上级区域": "符文族",
+    "类型": "地底洞穴层",
+    "上级区域": "符文族地底洞穴",
     "规模": "百丈石室",
     "特产": "蕴含本源之力的火苗",
     "所属势力": "符文族",
-    "方位": "建于域外战场内（非朱雀星地底深处）"
+    "方位": "朱雀星地底"
   },
   "observations": {
     "类型": [
@@ -26,6 +28,11 @@
         "value": "秘境层级",
         "docId": "plot.xianni-1577-yuwai",
         "seq": 1486
+      },
+      {
+        "value": "地底洞穴层",
+        "docId": "plot.xianni-ch1584-xushen-tianzun-seizes-wang-lin-body",
+        "seq": 1491
       }
     ],
     "上级区域": [
@@ -38,6 +45,11 @@
         "value": "符文族",
         "docId": "plot.xianni-1577-yuwai",
         "seq": 1486
+      },
+      {
+        "value": "符文族地底洞穴",
+        "docId": "plot.xianni-ch1584-xushen-tianzun-seizes-wang-lin-body",
+        "seq": 1491
       }
     ],
     "规模": [
@@ -67,6 +79,11 @@
         "value": "建于域外战场内（非朱雀星地底深处）",
         "docId": "plot.xianni-ch1578-tianbian-yuwai-zhanchang-men-fragment",
         "seq": 1486
+      },
+      {
+        "value": "朱雀星地底",
+        "docId": "plot.xianni-ch1584-xushen-tianzun-seizes-wang-lin-body",
+        "seq": 1491
       }
     ]
   },
@@ -74,15 +91,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1577-yuwai",
+      "docId": "plot.xianni-ch1584-xushen-tianzun-seizes-wang-lin-body",
       "dated": false,
-      "seq": 1486
+      "seq": 1491
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-1577-yuwai",
+      "docId": "plot.xianni-ch1584-xushen-tianzun-seizes-wang-lin-body",
       "dated": false,
-      "seq": 1486
+      "seq": 1491
     },
     "规模": {
       "asOf": null,
@@ -105,9 +122,9 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch1578-tianbian-yuwai-zhanchang-men-fragment",
+      "docId": "plot.xianni-ch1584-xushen-tianzun-seizes-wang-lin-body",
       "dated": false,
-      "seq": 1486
+      "seq": 1491
     }
   },
   "contested": false,
@@ -115,7 +132,8 @@
   "docs": [
     "plot.xianni-1574-fuwen-clan-19th-layer-secret",
     "plot.xianni-1577-yuwai",
-    "plot.xianni-ch1578-tianbian-yuwai-zhanchang-men-fragment"
+    "plot.xianni-ch1578-tianbian-yuwai-zhanchang-men-fragment",
+    "plot.xianni-ch1584-xushen-tianzun-seizes-wang-lin-body"
   ],
-  "updatedAt": "2026-08-26T04:57:50.232Z"
+  "updatedAt": "2026-08-26T05:12:28.430Z"
 }
