@@ -950,3 +950,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T06:20:34.975Z** `ingest` plot.xianni-ch1603-home-at-hengyue-mountain — 第1603章 家在恒岳山下：凡人惊仙，苏城二十八年终别 · kind=plot asOf=2026-08-26 entities=15 relations=24 src=01511-01515.p3.md
 - **2026-08-26T06:22:25.958Z** `ingest` plot.xianni-ch1604-father-passes-in-wang-lin-arms — 第1604章 怀中老父暝：王林归乡送父终老 · kind=plot asOf=2026-08-26 entities=14 relations=20 src=01511-01515.p4.md
 - **2026-08-26T06:24:18.588Z** `ingest` plot.xianni-ch1605-liumei-yanmei-de-mei — 第1605章 柳眉，眼眉的眉——王林送别双亲，凡尘重逢柳眉 · kind=plot asOf=2026-08-26 entities=14 relations=22 src=01511-01515.p5.md
+- **2026-08-26T06:26:38.618Z** `ingest` plot.xianni-ch1606-ke-cong-xueyu-lai — 仙逆 第1606章 客从雪域来：大儒王林周游朱雀星十五年，雪域女子携婴来访 · kind=plot asOf=2026-08-26 entities=25 relations=31 src=01516-01520.p1.md
