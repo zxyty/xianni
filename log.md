@@ -978,3 +978,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T08:50:35.548Z** `ingest` plot.xianni-1639-immortal-memory-ancient-race-immortality-finger — 第1639章 仙人忆：王林以古族不灭指破仙尊封印、定神夺记忆结晶 · kind=plot asOf=2026-08-26 entities=23 relations=40 src=01546-01550.p4.md
 - **2026-08-26T08:52:58.706Z** `ingest` plot.xianni-1640-qidao-zong-memory-crystal — 第1640章 七道宗——干瘦老者记忆中的仙罡大陆与远古大战 · kind=plot asOf=2026-08-26 entities=23 relations=27 src=01546-01550.p5.md
 - **2026-08-26T08:55:00.400Z** `ingest` plot.xianni-1641-immortals-nothing-special — 第1641章 仙人不外如是：王林横扫远古仙域，逼白虎战将退让、召朱雀现身 · kind=plot asOf=2026-08-26 entities=17 relations=27 src=01551-01555.p1.md
+- **2026-08-26T08:56:50.566Z** `ingest` plot.xianni-1642-hu-xiao-shan-he — 第1642章 虎啸山河：白虎老者三式神通，王林以真假本源与道古之吼反制 · kind=plot asOf=2026-08-26 entities=14 relations=17 src=01551-01555.p2.md
