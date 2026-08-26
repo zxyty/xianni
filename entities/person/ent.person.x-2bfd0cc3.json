@@ -3,14 +3,18 @@
   "type": "person",
   "name": "龙磐子",
   "aliases": [
-    "Long Panzi"
+    "Long Panzi",
+    "白芒内的老者",
+    "与修真星融合者"
   ],
   "summary": "当年修真联盟太上长老、重玄子之师，世人以为其已坐化，实则将元神与魂融入总部巨大修真星祭炼，成为万古不灭之魂并化白发老者虚影现身。",
   "attributes": {
-    "身份": "修真联盟太上长老、总部修真星之魂",
-    "外貌": "白发老者，身子虚幻与修真星相连",
+    "身份": "修真联盟太上长老、总部修真星之魂、修真联盟守护者、重玄子之师",
+    "外貌": "白芒内的苍老老者",
     "存殁": "外界认为已坐化死亡",
-    "元神强度": "某种程度的万古不灭之魂"
+    "元神强度": "某种程度的万古不灭之魂",
+    "小阶段": "空灵中期",
+    "标志特征": "与修真星融为一体、拥有香火"
   },
   "observations": {
     "身份": [
@@ -23,6 +27,16 @@
         "value": "总部修真星之魂",
         "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
         "seq": 1458
+      },
+      {
+        "value": "修真联盟守护者",
+        "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
+        "seq": 1462
+      },
+      {
+        "value": "重玄子之师",
+        "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
+        "seq": 1462
       }
     ],
     "外貌": [
@@ -31,6 +45,11 @@
         "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
         "seq": 1458,
         "note": "元神融星后的显化形态"
+      },
+      {
+        "value": "白芒内的苍老老者",
+        "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
+        "seq": 1462
       }
     ],
     "存殁": [
@@ -47,6 +66,26 @@
         "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
         "seq": 1458
       }
+    ],
+    "小阶段": [
+      {
+        "value": "空灵中期",
+        "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
+        "seq": 1462,
+        "note": "山河图出现后；一度隐现空灵中期巅峰。刚苏醒时仅空涅之境"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "与修真星融为一体",
+        "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
+        "seq": 1462
+      },
+      {
+        "value": "拥有香火",
+        "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
+        "seq": 1462
+      }
     ]
   },
   "firstSeq": 1458,
@@ -59,10 +98,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
+      "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
       "dated": false,
-      "seq": 1458,
-      "note": "元神融星后的显化形态"
+      "seq": 1462
     },
     "存殁": {
       "asOf": null,
@@ -76,12 +114,26 @@
       "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
       "dated": false,
       "seq": 1458
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
+      "dated": false,
+      "seq": 1462,
+      "note": "山河图出现后；一度隐现空灵中期巅峰。刚苏醒时仅空涅之境"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
+      "dated": false,
+      "seq": 1462
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao"
+    "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
+    "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi"
   ],
-  "updatedAt": "2026-08-26T03:08:43.341Z"
+  "updatedAt": "2026-08-26T03:49:38.377Z"
 }

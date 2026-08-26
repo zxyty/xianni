@@ -9,16 +9,18 @@
     "云海星域的修真星",
     "本章战场修真星",
     "安静的修真星",
-    "王林与疯子所在修真星"
+    "王林与疯子所在修真星",
+    "巨大的修真星"
   ],
   "summary": "修真联盟赐予其天道印诀的星辰，本章作为仙术对照被提及。",
   "attributes": {
     "所属势力": "修真联盟一方",
-    "类型": "修真星",
+    "类型": "星辰",
     "方位": "太古星辰的星空之内",
     "所属界面": "云海星域",
     "危险度": "地表尽毁、被役灵印反复轰击，大地撕开沟壑、留下天坑",
-    "上级区域": "幽冥兽体内世界"
+    "上级区域": "昆虚星域",
+    "守护": "龙磐子"
   },
   "observations": {
     "所属势力": [
@@ -43,6 +45,11 @@
         "value": "修真星",
         "docId": "plot.xianni-ch1322-mentu-xianghuo-fengxianyin-fusion",
         "seq": 1237
+      },
+      {
+        "value": "星辰",
+        "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
+        "seq": 1462
       }
     ],
     "方位": [
@@ -77,6 +84,18 @@
         "value": "幽冥兽体内世界",
         "docId": "plot.xianni-ch1540-shentong-yiling-yin",
         "seq": 1448
+      },
+      {
+        "value": "昆虚星域",
+        "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
+        "seq": 1462
+      }
+    ],
+    "守护": [
+      {
+        "value": "龙磐子",
+        "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
+        "seq": 1462
       }
     ]
   },
@@ -90,9 +109,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1322-mentu-xianghuo-fengxianyin-fusion",
+      "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
       "dated": false,
-      "seq": 1237
+      "seq": 1462
     },
     "方位": {
       "asOf": null,
@@ -115,9 +134,15 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch1540-shentong-yiling-yin",
+      "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
       "dated": false,
-      "seq": 1448
+      "seq": 1462
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
+      "dated": false,
+      "seq": 1462
     }
   },
   "contested": false,
@@ -131,7 +156,8 @@
     "plot.xianni-1511-blood-sword-slaughter-wang-lin-vs-shui-daozi",
     "plot.xianni-ch1538-golden-sky-black-earth",
     "plot.xianni-ch1540-shentong-yiling-yin",
-    "plot.xianni-ch1541-mad-monkey-yiling-seal-deduction"
+    "plot.xianni-ch1541-mad-monkey-yiling-seal-deduction",
+    "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi"
   ],
-  "updatedAt": "2026-08-26T02:36:25.897Z"
+  "updatedAt": "2026-08-26T03:49:38.409Z"
 }

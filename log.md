@@ -896,3 +896,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T02:47:16.153Z** `ingest` plot.xianni-ch1546-i-have-returned — 第1546章 我，回来了——王林现身昆虚，救炎雷子、封尊归来 · kind=plot asOf=2026-08-26 entities=25 relations=40 src=01453-01457.p4.md
 - **2026-08-26T02:55:02.256Z** `ingest` plot.xianni-ch1547-decades-of-change — 第1547章 几十年的变化：封尊威压秒杀界外二修，炎雷子详述第二战与七彩界之变 · kind=plot asOf=2026-08-26 entities=44 relations=71 src=01453-01457.p5.md
 - **2026-08-26T03:08:43.846Z** `ingest` plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao — 第1458-1461章 封尊余威：王林一指停漩涡、金光万修跪、拳斩天兆上师 · kind=plot asOf=2026-08-26 entities=54 relations=101 src=01458-01461.md
+- **2026-08-26T03:49:38.830Z** `ingest` plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi — 第1552章 你说什么？——战老鬼隐居雷仙界残骸感应仙气，四尊古神雕像内金色人影议谋出封 · kind=plot asOf=2026-08-26 entities=55 relations=81 src=01462-01465.p1.md
