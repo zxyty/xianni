@@ -970,3 +970,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T08:34:15.635Z** `ingest` plot.xianni-1631-yuangu-xianyu-tianjie-guardians — 仙逆 第1631章 远古仙域：王林闭目退古神古魔古妖、收服金色光环，踏入裂缝遇「另一个自己」 · kind=plot asOf=2026-08-26 entities=22 relations=32 src=01541-01545.p1.md
 - **2026-08-26T08:35:56.947Z** `ingest` plot.xianni-ch1632-benwo-jie-white-haired-mirror-duel — 第1632章 本我劫——王林对战「另一个自己」 · kind=plot asOf=2026-08-26 entities=11 relations=19 src=01541-01545.p2.md
 - **2026-08-26T08:37:50.988Z** `ingest` plot.xianni-ch1633-slay-benwo-tribulation — 第1633章 斩本我——王林以骗道杀本我劫白发青年 · kind=plot asOf=2026-08-26 entities=17 relations=27 src=01541-01545.p3.md
+- **2026-08-26T08:40:09.204Z** `ingest` plot.xianni-1634-yigedongfu-yuangu-xianyu-tianjie-zhenxiang — 第1634章 一个洞府：王林踏入远古仙域，破九阳解开天劫之秘 · kind=plot asOf=2026-08-26 entities=17 relations=27 src=01541-01545.p4.md
