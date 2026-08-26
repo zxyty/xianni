@@ -864,3 +864,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T00:38:38.272Z** `ingest` plot.xianni-1510-yunhai-glory-dingshen-vs-shuidaozi — 第1510章 云海荣耀：近万修士血肉守宗，王林一字定神破阵直逼水道子 · kind=plot asOf=2026-08-26 entities=16 relations=22 src=01420-01424.p2.md
 - **2026-08-26T00:40:54.425Z** `ingest` plot.xianni-1511-blood-sword-slaughter-wang-lin-vs-shui-daozi — 《仙逆》第1511章 弱弱弱！——血剑破山峰屠黑衣修士，王林一掌逼水道子求援 · kind=plot asOf=2026-08-26 entities=22 relations=32 src=01420-01424.p3.md
 - **2026-08-26T00:43:45.103Z** `ingest` plot.xianni-1512-golden-bell-seal-realm-array-revealed — 第1512章 金色铃铛！——王林三拳镇水道子，金色之浪显封界大阵 · kind=plot asOf=2026-08-26 entities=36 relations=39 src=01420-01424.p4.md
+- **2026-08-26T00:46:03.239Z** `ingest` plot.xianni-ch1513-golden-storm-youming-devours — 第1513章 金色风暴！——水道子自爆金色铃铛，幽冥兽一口吞下 · kind=plot asOf=2026-08-26 entities=25 relations=27 src=01420-01424.p5.md

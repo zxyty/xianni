@@ -7,15 +7,17 @@
     "远古仙域赐下的宝物",
     "金光闪闪的法宝",
     "水道子的金色铃铛",
-    "远古仙域铃铛"
+    "远古仙域铃铛",
+    "远古仙域金色铃铛",
+    "金色灵动之铃"
   ],
   "summary": "远古上仙自血色漩涡降下的金色铃铛，下降时铛铛作响；本应融入封界大阵为界内延缓百年被入侵，水道子却欲私用于杀王林。",
   "attributes": {
     "外形": "金色铃铛，声清脆、金色铃铛、金光内一枚铃铛，清脆作响",
-    "来历": "远古仙域之物",
+    "来历": "远古仙域上仙奉命所赐、远古仙域之物、远古仙域之仙所赐（水道子以传自封尊的秘术召唤，借龟甲在身）",
     "持有者": "水道子",
-    "能力": "融入封界大阵可延缓界外入侵百年、水道子欲用以对抗/击杀王林、爆发金色之浪，扫去星空一切隐藏、令封界大阵幻化显形、释放极为精纯的仙气与远古仙域道术神通",
-    "禁制": "似与封阵融合之物，在没融合前极为脆弱、毁不得"
+    "能力": "融入封界大阵可延缓界外入侵百年、水道子欲用以对抗/击杀王林、爆发金色之浪，扫去星空一切隐藏、令封界大阵幻化显形、释放极为精纯的仙气与远古仙域道术神通、融入封界大阵可使阵法更凝聚、拖延百年、自爆化金色风暴，足以毁灭整个云海星域",
+    "禁制": "似与封阵融合之物，在没融合前极为脆弱、毁不得、唯水道子一人可操控"
   },
   "observations": {
     "外形": [
@@ -44,6 +46,11 @@
       {
         "value": "远古仙域之物",
         "docId": "plot.xianni-1512-golden-bell-seal-realm-array-revealed",
+        "seq": 1420
+      },
+      {
+        "value": "远古仙域之仙所赐（水道子以传自封尊的秘术召唤，借龟甲在身）",
+        "docId": "plot.xianni-ch1513-golden-storm-youming-devours",
         "seq": 1420
       }
     ],
@@ -79,6 +86,16 @@
         "value": "释放极为精纯的仙气与远古仙域道术神通",
         "docId": "plot.xianni-1512-golden-bell-seal-realm-array-revealed",
         "seq": 1420
+      },
+      {
+        "value": "融入封界大阵可使阵法更凝聚、拖延百年",
+        "docId": "plot.xianni-ch1513-golden-storm-youming-devours",
+        "seq": 1420
+      },
+      {
+        "value": "自爆化金色风暴，足以毁灭整个云海星域",
+        "docId": "plot.xianni-ch1513-golden-storm-youming-devours",
+        "seq": 1420
       }
     ],
     "禁制": [
@@ -87,6 +104,11 @@
         "docId": "plot.xianni-1512-golden-bell-seal-realm-array-revealed",
         "seq": 1420,
         "note": "尸阴宗虚幻老者的判断"
+      },
+      {
+        "value": "唯水道子一人可操控",
+        "docId": "plot.xianni-ch1513-golden-storm-youming-devours",
+        "seq": 1420
       }
     ]
   },
@@ -100,9 +122,9 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-1512-golden-bell-seal-realm-array-revealed",
+      "docId": "plot.xianni-1508-shuidaozi-fengjieling-hunt-wanglin",
       "dated": false,
-      "seq": 1420
+      "seq": 1415
     },
     "持有者": {
       "asOf": null,
@@ -129,7 +151,8 @@
   "docs": [
     "plot.xianni-1508-shuidaozi-fengjieling-hunt-wanglin",
     "plot.xianni-1510-yunhai-glory-dingshen-vs-shuidaozi",
-    "plot.xianni-1512-golden-bell-seal-realm-array-revealed"
+    "plot.xianni-1512-golden-bell-seal-realm-array-revealed",
+    "plot.xianni-ch1513-golden-storm-youming-devours"
   ],
-  "updatedAt": "2026-08-26T00:43:44.699Z"
+  "updatedAt": "2026-08-26T00:46:02.795Z"
 }
