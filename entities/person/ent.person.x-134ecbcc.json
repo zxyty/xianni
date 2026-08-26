@@ -3,20 +3,28 @@
   "type": "person",
   "name": "赤魂子",
   "aliases": [
-    "Chi Hun Zi"
+    "Chi Hun Zi",
+    "赤红血影",
+    "地府赤魂子"
   ],
   "summary": "被烨寞封印于黑色阁楼万古无尽的至强之魂，本章由王林以道古鲜血开启一窗放出；出世撞退掌尊，吞噬仙妃后撞破天幕逃离。",
   "attributes": {
-    "外貌": "一道红影，看不清容颜，只是一片鲜血",
+    "外貌": "一道红影，看不清容颜，只是一片鲜血、赤红血影",
     "性格": "疯狂、兴奋、桀骜，不理会掌尊与王林",
     "身份": "被烨寞封印的至强之魂",
-    "存殁": "存活"
+    "存殁": "存活",
+    "出身地": "地府"
   },
   "observations": {
     "外貌": [
       {
         "value": "一道红影，看不清容颜，只是一片鲜血",
         "docId": "plot.xianni-ch1586-jing-zhong-lao-yue-xian-gu-fen",
+        "seq": 1496
+      },
+      {
+        "value": "赤红血影",
+        "docId": "plot.xianni-ch1587-en-duan-chi-hun-zi-chuang-feng-yin",
         "seq": 1496
       }
     ],
@@ -38,6 +46,13 @@
       {
         "value": "存活",
         "docId": "plot.xianni-ch1586-jing-zhong-lao-yue-xian-gu-fen",
+        "seq": 1496
+      }
+    ],
+    "出身地": [
+      {
+        "value": "地府",
+        "docId": "plot.xianni-ch1587-en-duan-chi-hun-zi-chuang-feng-yin",
         "seq": 1496
       }
     ]
@@ -67,12 +82,19 @@
       "docId": "plot.xianni-ch1586-jing-zhong-lao-yue-xian-gu-fen",
       "dated": false,
       "seq": 1496
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1587-en-duan-chi-hun-zi-chuang-feng-yin",
+      "dated": false,
+      "seq": 1496
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1586-jing-zhong-lao-yue-xian-gu-fen"
+    "plot.xianni-ch1586-jing-zhong-lao-yue-xian-gu-fen",
+    "plot.xianni-ch1587-en-duan-chi-hun-zi-chuang-feng-yin"
   ],
-  "updatedAt": "2026-08-26T05:44:44.298Z"
+  "updatedAt": "2026-08-26T05:47:26.143Z"
 }
