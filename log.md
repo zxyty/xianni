@@ -964,3 +964,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T07:24:58.632Z** `ingest` plot.xianni-ch1531-1535-wanking-bone-gate-six-source-gates — 仙逆 第1531-1535章：六道本源连轰空门、万空骨门现世与王林踏入第三步大能 · kind=plot asOf=2026-08-26 entities=75 relations=111 src=01531-01535.md
 - **2026-08-26T08:18:41.940Z** `ingest` plot.xianni-1626-third-step-kongling-mid-tribulation — 仙逆 第1626章 第三个么｜王林踏入第三步空灵中期，天劫降临 · kind=plot asOf=2026-08-26 entities=35 relations=52 src=01536-01540.p1.md
 - **2026-08-26T08:20:30.180Z** `ingest` plot.xianni-ch1627-wo-yi-jie — 第1627章 我意劫——王林反向天劫降劫（雷劫·火劫·因果印） · kind=plot asOf=2026-08-26 entities=12 relations=14 src=01536-01540.p2.md
+- **2026-08-26T08:27:21.605Z** `ingest` plot.xianni-ch1628-huanzhen-jie-tianjie-shizhe-po — 第1628章 幻真劫：王林因果印碎祭坛，生死大印灭天劫使者 · kind=plot asOf=2026-08-26 entities=35 relations=49 src=01536-01540.p3.md

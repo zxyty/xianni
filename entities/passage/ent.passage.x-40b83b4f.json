@@ -4,12 +4,15 @@
   "name": "漩涡万丈裂缝",
   "aliases": [
     "天劫裂缝",
-    "万丈长裂缝"
+    "万丈长裂缝",
+    "上空裂缝",
+    "象征天劫的裂缝"
   ],
   "summary": "天劫漩涡瓦解后出现的万丈长裂缝，内传闷闷咆哮，四角祭坛阁楼自其中缓缓蔓延而出。",
   "attributes": {
     "类型": "空间裂缝",
-    "来历": "天劫漩涡被万道赤雷轰溃后显现"
+    "来历": "天劫漩涡被万道赤雷轰溃后显现、天劫降临所化",
+    "守护": "其内不断咆哮之力"
   },
   "observations": {
     "类型": [
@@ -23,6 +26,18 @@
       {
         "value": "天劫漩涡被万道赤雷轰溃后显现",
         "docId": "plot.xianni-ch1627-wo-yi-jie",
+        "seq": 1536
+      },
+      {
+        "value": "天劫降临所化",
+        "docId": "plot.xianni-ch1628-huanzhen-jie-tianjie-shizhe-po",
+        "seq": 1536
+      }
+    ],
+    "守护": [
+      {
+        "value": "其内不断咆哮之力",
+        "docId": "plot.xianni-ch1628-huanzhen-jie-tianjie-shizhe-po",
         "seq": 1536
       }
     ]
@@ -40,12 +55,19 @@
       "docId": "plot.xianni-ch1627-wo-yi-jie",
       "dated": false,
       "seq": 1536
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1628-huanzhen-jie-tianjie-shizhe-po",
+      "dated": false,
+      "seq": 1536
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1627-wo-yi-jie"
+    "plot.xianni-ch1627-wo-yi-jie",
+    "plot.xianni-ch1628-huanzhen-jie-tianjie-shizhe-po"
   ],
-  "updatedAt": "2026-08-26T08:20:29.798Z"
+  "updatedAt": "2026-08-26T08:27:21.156Z"
 }
