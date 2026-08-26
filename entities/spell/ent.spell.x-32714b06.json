@@ -4,12 +4,15 @@
   "name": "五脏奇术",
   "aliases": [
     "五脏之术",
-    "仙妃五脏奇术"
+    "仙妃五脏奇术",
+    "心肝脾肺肾",
+    "五脏神通"
   ],
   "summary": "仙妃的杀术，以五指依次弯曲对应五脏，可远隔毁去敌人肺、脾、肝、心，握拳成心石化之击。",
   "attributes": {
-    "类型": "远隔毁脏杀术",
-    "威力": "依次毁肺（枯萎）、脾（腐烂）、肝（融化）、心（石化停跳）"
+    "类型": "音波·内腑攻击",
+    "威力": "令对手五脏碎裂、剧痛难忍",
+    "出处": "仙妃（仙罡大陆）"
   },
   "observations": {
     "类型": [
@@ -17,6 +20,11 @@
         "value": "远隔毁脏杀术",
         "docId": "plot.xianni-1582-yin-yue-you-qing",
         "seq": 1491
+      },
+      {
+        "value": "音波·内腑攻击",
+        "docId": "plot.xianni-ch1566-1570-li-guang-arrow-slays-zhang-zun",
+        "seq": 1566
       }
     ],
     "威力": [
@@ -24,6 +32,18 @@
         "value": "依次毁肺（枯萎）、脾（腐烂）、肝（融化）、心（石化停跳）",
         "docId": "plot.xianni-1582-yin-yue-you-qing",
         "seq": 1491
+      },
+      {
+        "value": "令对手五脏碎裂、剧痛难忍",
+        "docId": "plot.xianni-ch1566-1570-li-guang-arrow-slays-zhang-zun",
+        "seq": 1566
+      }
+    ],
+    "出处": [
+      {
+        "value": "仙妃（仙罡大陆）",
+        "docId": "plot.xianni-ch1566-1570-li-guang-arrow-slays-zhang-zun",
+        "seq": 1566
       }
     ]
   },
@@ -31,21 +51,28 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1582-yin-yue-you-qing",
+      "docId": "plot.xianni-ch1566-1570-li-guang-arrow-slays-zhang-zun",
       "dated": false,
-      "seq": 1491
+      "seq": 1566
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-1582-yin-yue-you-qing",
+      "docId": "plot.xianni-ch1566-1570-li-guang-arrow-slays-zhang-zun",
       "dated": false,
-      "seq": 1491
+      "seq": 1566
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1566-1570-li-guang-arrow-slays-zhang-zun",
+      "dated": false,
+      "seq": 1566
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1582-yin-yue-you-qing"
+    "plot.xianni-1582-yin-yue-you-qing",
+    "plot.xianni-ch1566-1570-li-guang-arrow-slays-zhang-zun"
   ],
-  "updatedAt": "2026-08-26T05:07:25.667Z"
+  "updatedAt": "2026-08-26T09:55:32.335Z"
 }

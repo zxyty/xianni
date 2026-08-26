@@ -3,14 +3,16 @@
   "type": "person",
   "name": "生死大劫中的黑衣老者",
   "aliases": [
-    "界外黑衣老者"
+    "界外黑衣老者",
+    "空玄初期老者"
   ],
   "summary": "界外空玄大能之一，当年曾在生死大劫中与王林一战，本章在罗天冷眼旁观。",
   "attributes": {
     "性别": "男",
-    "外貌": "黑衣",
+    "外貌": "黑衣老者",
     "阵营": "界外",
-    "身份": "空玄大能"
+    "身份": "空玄初期大能",
+    "结局": "被天皇炉吞噬、以流月石门镇压万万年"
   },
   "observations": {
     "性别": [
@@ -25,6 +27,11 @@
         "value": "黑衣",
         "docId": "plot.xianni-ch1653-departing-for-luotian",
         "seq": 1561
+      },
+      {
+        "value": "黑衣老者",
+        "docId": "plot.xianni-ch1566-1570-li-guang-arrow-slays-zhang-zun",
+        "seq": 1566
       }
     ],
     "阵营": [
@@ -39,6 +46,19 @@
         "value": "空玄大能",
         "docId": "plot.xianni-ch1653-departing-for-luotian",
         "seq": 1561
+      },
+      {
+        "value": "空玄初期大能",
+        "docId": "plot.xianni-ch1566-1570-li-guang-arrow-slays-zhang-zun",
+        "seq": 1566
+      }
+    ],
+    "结局": [
+      {
+        "value": "被天皇炉吞噬、以流月石门镇压万万年",
+        "docId": "plot.xianni-ch1566-1570-li-guang-arrow-slays-zhang-zun",
+        "seq": 1566,
+        "note": "第1659章"
       }
     ]
   },
@@ -52,9 +72,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch1653-departing-for-luotian",
+      "docId": "plot.xianni-ch1566-1570-li-guang-arrow-slays-zhang-zun",
       "dated": false,
-      "seq": 1561
+      "seq": 1566
     },
     "阵营": {
       "asOf": null,
@@ -64,15 +84,23 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1653-departing-for-luotian",
+      "docId": "plot.xianni-ch1566-1570-li-guang-arrow-slays-zhang-zun",
       "dated": false,
-      "seq": 1561
+      "seq": 1566
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1566-1570-li-guang-arrow-slays-zhang-zun",
+      "dated": false,
+      "seq": 1566,
+      "note": "第1659章"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1653-departing-for-luotian"
+    "plot.xianni-ch1653-departing-for-luotian",
+    "plot.xianni-ch1566-1570-li-guang-arrow-slays-zhang-zun"
   ],
-  "updatedAt": "2026-08-26T09:27:36.723Z"
+  "updatedAt": "2026-08-26T09:55:32.366Z"
 }
