@@ -4,16 +4,17 @@
   "name": "天罚殿殿主",
   "aliases": [
     "天罚殿主",
-    "长尊会天罚殿殿主"
+    "长尊会天罚殿殿主",
+    "夭罚殿殿主"
   ],
   "summary": "界外大能之一，本章被封尊玉佩困住，未能参与围攻。",
   "attributes": {
     "阵营": "界外修士/长尊会",
     "身份": "长尊会天罚殿殿主",
     "结局": "第1533章身死道消",
-    "存殁": "死亡",
+    "存殁": "重伤",
     "死因": "刚脱困即被幽冥兽喷出的金色风暴吞噬，身体元神香火烟消云散、第一战中葬身界内",
-    "外貌": "黑袍老者"
+    "外貌": "黑袍老者、黑衣老者"
   },
   "observations": {
     "阵营": [
@@ -63,6 +64,12 @@
         "value": "死亡",
         "docId": "plot.xianni-ch1533-youming-awakens-golden-storm",
         "seq": 1443
+      },
+      {
+        "value": "重伤",
+        "docId": "plot.xianni-ch1563-third-dao-fruit",
+        "seq": 1471,
+        "note": "本章末仍在场"
       }
     ],
     "死因": [
@@ -81,6 +88,11 @@
       {
         "value": "黑袍老者",
         "docId": "plot.xianni-ch1562-zhao-he-qingshui-killing-origin",
+        "seq": 1471
+      },
+      {
+        "value": "黑衣老者",
+        "docId": "plot.xianni-ch1563-third-dao-fruit",
         "seq": 1471
       }
     ]
@@ -107,9 +119,10 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch1533-youming-awakens-golden-storm",
+      "docId": "plot.xianni-ch1563-third-dao-fruit",
       "dated": false,
-      "seq": 1443
+      "seq": 1471,
+      "note": "本章末仍在场"
     },
     "死因": {
       "asOf": null,
@@ -131,7 +144,8 @@
     "plot.xianni-1524-wangao-yiwo-kaitianfu",
     "plot.xianni-ch1533-youming-awakens-golden-storm",
     "plot.xianni-ch1534-xunzhao-post-first-war-aftermath",
-    "plot.xianni-ch1562-zhao-he-qingshui-killing-origin"
+    "plot.xianni-ch1562-zhao-he-qingshui-killing-origin",
+    "plot.xianni-ch1563-third-dao-fruit"
   ],
-  "updatedAt": "2026-08-26T04:17:39.324Z"
+  "updatedAt": "2026-08-26T04:19:49.678Z"
 }
