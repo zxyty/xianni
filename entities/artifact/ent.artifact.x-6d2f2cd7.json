@@ -4,14 +4,16 @@
   "name": "七彩雕像",
   "aliases": [
     "七彩雕像:",
-    "七彩雕塑"
+    "七彩雕塑",
+    "七彩之雕像"
   ],
   "summary": "古息叶森林中的雕像，贪狼曾目睹，令银衣女子惊恐尖叫；本章作为强伏笔点出。",
   "attributes": {
-    "外形": "七彩",
+    "外形": "七彩雕像",
     "来历": "古墓内部森林中、身穿七彩的修士（七彩道人）所留",
     "能力": "以一点制约整颗古神头颅",
-    "禁制": "封印九星古神之头"
+    "禁制": "封印九星古神之头",
+    "持有者": "王林"
   },
   "observations": {
     "外形": [
@@ -19,6 +21,11 @@
         "value": "七彩",
         "docId": "plot.xianni-ch1456-three-killing-intents-fog-hand-throw",
         "seq": 1365
+      },
+      {
+        "value": "七彩雕像",
+        "docId": "plot.xianni-ch1558-seven-colored-figure-three-thousand-blood",
+        "seq": 1466
       }
     ],
     "来历": [
@@ -47,15 +54,22 @@
         "docId": "plot.xianni-ch1458-jiushe-jiuxing-gushen-toulu",
         "seq": 1365
       }
+    ],
+    "持有者": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch1558-seven-colored-figure-three-thousand-blood",
+        "seq": 1466
+      }
     ]
   },
   "firstSeq": 1365,
   "attrProvenance": {
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch1456-three-killing-intents-fog-hand-throw",
+      "docId": "plot.xianni-ch1558-seven-colored-figure-three-thousand-blood",
       "dated": false,
-      "seq": 1365
+      "seq": 1466
     },
     "来历": {
       "asOf": null,
@@ -75,13 +89,20 @@
       "docId": "plot.xianni-ch1458-jiushe-jiuxing-gushen-toulu",
       "dated": false,
       "seq": 1365
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1558-seven-colored-figure-three-thousand-blood",
+      "dated": false,
+      "seq": 1466
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1456-three-killing-intents-fog-hand-throw",
-    "plot.xianni-ch1458-jiushe-jiuxing-gushen-toulu"
+    "plot.xianni-ch1458-jiushe-jiuxing-gushen-toulu",
+    "plot.xianni-ch1558-seven-colored-figure-three-thousand-blood"
   ],
-  "updatedAt": "2026-08-25T20:58:43.481Z"
+  "updatedAt": "2026-08-26T04:04:31.131Z"
 }
