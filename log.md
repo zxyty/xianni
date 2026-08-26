@@ -888,3 +888,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T02:30:32.782Z** `ingest` plot.xianni-ch1538-golden-sky-black-earth — 仙逆 第1538章 金天黑地！——王林仙古融合、天逆再现 · kind=plot asOf=2026-08-26 entities=16 relations=24 src=01448-01452.p1.md
 - **2026-08-26T02:32:58.049Z** `ingest` plot.xianni-ch1539-jiguo-three-royal-surnames — 第1539章 吉国三姓！——王林仙神合体后患与古魔入目 · kind=plot asOf=2026-08-26 entities=18 relations=30 src=01448-01452.p2.md
 - **2026-08-26T02:34:48.334Z** `ingest` plot.xianni-ch1540-shentong-yiling-yin — 第1540章 神通！——王林压制排斥之力、悟五道本源之法与疯子的役灵印 · kind=plot asOf=2026-08-26 entities=18 relations=21 src=01448-01452.p3.md
+- **2026-08-26T02:36:26.300Z** `ingest` plot.xianni-ch1541-mad-monkey-yiling-seal-deduction — 第1541章 有些无耻了——王林以激将法诱疯子反复施展役灵印 · kind=plot asOf=2026-08-26 entities=8 relations=10 src=01448-01452.p4.md
