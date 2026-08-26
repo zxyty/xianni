@@ -12,18 +12,22 @@
     "水罗",
     "水罗蓝裙女",
     "主持大战的女子",
-    "Shui Luo"
+    "Shui Luo",
+    "昆虚水罗蓝裙女子",
+    "身穿水罗蓝裙的女子",
+    "漩涡外的蓝裙女子"
   ],
   "summary": "联盟援军中的核心人物，立于巨魔族所扛修真星上，手托八叶莲花台；请出武东禅、下令封锁望月，并以复杂眼神注视王林。",
   "attributes": {
     "性别": "女",
-    "外貌": "一身水罗蓝裙、秀发垂肩、凤目含煞、蓝裙、水罗蓝裙、目光清澈冰冷、蓝裙、葱葱玉手",
+    "外貌": "一身水罗蓝裙、秀发垂肩、凤目含煞、蓝裙、水罗蓝裙、目光清澈冰冷、蓝裙、葱葱玉手、身穿水罗蓝裙，容颜秀美、身穿水罗蓝裙",
     "本命法宝": "八叶莲花台、炼化台、莲花台",
-    "阵营": "修真联盟、修真联盟一方",
+    "阵营": "修真联盟、修真联盟一方、界内",
     "标志特征": "莲花台吸收死气如雾中之物",
-    "身份": "主持此场大战之人、主持此战的联盟特殊身份之人、此战主持者，一切人等听其号令、身份不明",
-    "性格": "冷静不慌，判断真正大战尚未展开、神色平静如水，临变不乱",
-    "称号": "水罗"
+    "身份": "主持此场大战之人、主持此战的联盟特殊身份之人、此战主持者，一切人等听其号令、身份不明、昆虚驻军首领、界内驻留修士总指挥",
+    "性格": "冷静不慌，判断真正大战尚未展开、神色平静如水，临变不乱、冰冷、双眸冷漠",
+    "称号": "水罗",
+    "出身地": "昆虚星域"
   },
   "observations": {
     "性别": [
@@ -58,6 +62,16 @@
         "value": "蓝裙、葱葱玉手",
         "docId": "plot.xianni-ch928-wuxing-jinshi",
         "seq": 860
+      },
+      {
+        "value": "身穿水罗蓝裙，容颜秀美",
+        "docId": "plot.xianni-ch1534-xunzhao-post-first-war-aftermath",
+        "seq": 1443
+      },
+      {
+        "value": "身穿水罗蓝裙",
+        "docId": "plot.xianni-ch1534-xunzhao-post-first-war-aftermath",
+        "seq": 1443
       }
     ],
     "本命法宝": [
@@ -87,6 +101,11 @@
         "value": "修真联盟一方",
         "docId": "plot.xianni-ch926-thousand-zhang-giant-demon-self-destruct",
         "seq": 855
+      },
+      {
+        "value": "界内",
+        "docId": "plot.xianni-ch1534-xunzhao-post-first-war-aftermath",
+        "seq": 1443
       }
     ],
     "标志特征": [
@@ -122,6 +141,16 @@
         "docId": "plot.xianni-ch931-ci-kong-nie-arrow-xuanbao-shangren-immortal-guards",
         "seq": 860,
         "note": "王林反复思索此女到底是谁"
+      },
+      {
+        "value": "昆虚驻军首领",
+        "docId": "plot.xianni-ch1534-xunzhao-post-first-war-aftermath",
+        "seq": 1443
+      },
+      {
+        "value": "界内驻留修士总指挥",
+        "docId": "plot.xianni-ch1534-xunzhao-post-first-war-aftermath",
+        "seq": 1443
       }
     ],
     "性格": [
@@ -134,6 +163,11 @@
         "value": "神色平静如水，临变不乱",
         "docId": "plot.xianni-ch930-alliance-elder-council",
         "seq": 860
+      },
+      {
+        "value": "冰冷、双眸冷漠",
+        "docId": "plot.xianni-ch1534-xunzhao-post-first-war-aftermath",
+        "seq": 1443
       }
     ],
     "称号": [
@@ -141,6 +175,13 @@
         "value": "水罗",
         "docId": "plot.xianni-ch928-wuxing-jinshi",
         "seq": 860
+      }
+    ],
+    "出身地": [
+      {
+        "value": "昆虚星域",
+        "docId": "plot.xianni-ch1534-xunzhao-post-first-war-aftermath",
+        "seq": 1443
       }
     ]
   },
@@ -193,6 +234,12 @@
       "docId": "plot.xianni-ch928-wuxing-jinshi",
       "dated": false,
       "seq": 860
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1534-xunzhao-post-first-war-aftermath",
+      "dated": false,
+      "seq": 1443
     }
   },
   "contested": false,
@@ -205,7 +252,8 @@
     "plot.xianni-ch928-wuxing-jinshi",
     "plot.xianni-ch930-alliance-elder-council",
     "plot.xianni-ch931-ci-kong-nie-arrow-xuanbao-shangren-immortal-guards",
-    "plot.xianni-ch934-chase-into-wangyue-mouth"
+    "plot.xianni-ch934-chase-into-wangyue-mouth",
+    "plot.xianni-ch1534-xunzhao-post-first-war-aftermath"
   ],
-  "updatedAt": "2026-08-23T21:19:12.298Z"
+  "updatedAt": "2026-08-26T02:21:40.650Z"
 }

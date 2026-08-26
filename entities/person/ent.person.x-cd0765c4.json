@@ -10,7 +10,8 @@
   "attributes": {
     "性别": "女",
     "外貌": "中年美妇",
-    "阵营": "界内援军（召河）"
+    "阵营": "界内",
+    "身份": "召河驻军首领"
   },
   "observations": {
     "性别": [
@@ -32,6 +33,18 @@
         "value": "界内援军（召河）",
         "docId": "plot.xianni-ch1528-zhaohe-female-cultivators-reinforcements",
         "seq": 1434
+      },
+      {
+        "value": "界内",
+        "docId": "plot.xianni-ch1534-xunzhao-post-first-war-aftermath",
+        "seq": 1443
+      }
+    ],
+    "身份": [
+      {
+        "value": "召河驻军首领",
+        "docId": "plot.xianni-ch1534-xunzhao-post-first-war-aftermath",
+        "seq": 1443
       }
     ]
   },
@@ -51,15 +64,22 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch1528-zhaohe-female-cultivators-reinforcements",
+      "docId": "plot.xianni-ch1534-xunzhao-post-first-war-aftermath",
       "dated": false,
-      "seq": 1434
+      "seq": 1443
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1534-xunzhao-post-first-war-aftermath",
+      "dated": false,
+      "seq": 1443
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1528-zhaohe-female-cultivators-reinforcements"
+    "plot.xianni-ch1528-zhaohe-female-cultivators-reinforcements",
+    "plot.xianni-ch1534-xunzhao-post-first-war-aftermath"
   ],
-  "updatedAt": "2026-08-26T01:32:42.852Z"
+  "updatedAt": "2026-08-26T02:21:40.598Z"
 }
