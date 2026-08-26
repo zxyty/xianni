@@ -50323,3 +50323,23 @@
 {"s":"ent.event.x-fa8414bc","p":"precedes","o":"ent.event.x-d25beb71","evidence":"plot.xianni-ch1598-a-date-suzhou-osmanthus-wine","confidence":0.95,"seq":1506}
 {"s":"ent.event.x-fa8414bc","p":"causes","o":"ent.event.x-d25beb71","evidence":"plot.xianni-ch1598-a-date-suzhou-osmanthus-wine","confidence":0.7,"seq":1506,"note":"得秀才功名后方有资格赴苏城"}
 {"s":"ent.person.x-4ec58e84","p":"relatedTo","o":"ent.person.x-73d2856c","evidence":"plot.xianni-ch1598-a-date-suzhou-osmanthus-wine","confidence":0.45,"seq":1506,"note":"存疑：念天所见儒生疑与梦境中的书生王林为同一人，本章未明说"}
+{"s":"ent.person.x-73d2856c","p":"practices","o":"ent.technique.x-1e0847ab","evidence":"plot.xianni-ch1599-su-dao-yin-guo","confidence":0.85,"seq":1506,"note":"第1599章醉后凭梦中记忆抚琴弹出，非修炼功法而是所习曲艺"}
+{"s":"ent.person.x-73d2856c","p":"owns","o":"ent.artifact.x-6cb7380a","evidence":"plot.xianni-ch1599-su-dao-yin-guo","confidence":0.5,"seq":1506,"note":"临时借用琴女之琴，非真正持有"}
+{"s":"ent.person.x-73d2856c","p":"companion","o":"ent.person.x-58389939","evidence":"plot.xianni-ch1599-su-dao-yin-guo","confidence":0.9,"seq":1506,"note":"第1599章大福以书童身份随行苏城，掌管银钱"}
+{"s":"ent.person.x-73d2856c","p":"relatedTo","o":"ent.person.x-60815b85","evidence":"plot.xianni-ch1599-su-dao-yin-guo","confidence":0.9,"seq":1506,"note":"所弹琴曲与李慕婉当年琴韵相同，令王林落泪；李慕婉第188章已死，本章为回忆"}
+{"s":"ent.person.x-5b9676e3","p":"relatedTo","o":"ent.person.x-60815b85","evidence":"plot.xianni-ch1599-su-dao-yin-guo","confidence":0.8,"seq":1506,"note":"两人琴曲不同却同一神韵，由王林回忆点出"}
+{"s":"ent.person.x-73d2856c","p":"relatedTo","o":"ent.person.x-5b9676e3","evidence":"plot.xianni-ch1599-su-dao-yin-guo","confidence":0.75,"seq":1506,"note":"王林曾在妖灵之地听盲女奏出同神韵之音"}
+{"s":"ent.person.x-36bde194","p":"master","o":"ent.person.x-6d177914","evidence":"plot.xianni-ch1599-su-dao-yin-guo","confidence":0.95,"seq":1506,"note":"监官老者自称『学生』，苏道唤其『苏三』"}
+{"s":"ent.person.x-36bde194","p":"relatedTo","o":"ent.person.x-73d2856c","evidence":"plot.xianni-ch1599-su-dao-yin-guo","confidence":0.85,"seq":1506,"note":"考场中始终注视王林考卷、觉其不凡，遂引恩师苏道来见"}
+{"s":"ent.person.x-6d177914","p":"relatedTo","o":"ent.person.x-73d2856c","evidence":"plot.xianni-ch1599-su-dao-yin-guo","confidence":0.9,"seq":1506,"note":"第1599章隔桥两问因果，章末问其姓名"}
+{"s":"ent.place.x-5cfcd5c7","p":"locatedIn","o":"ent.place.x-8f403c2e","evidence":"plot.xianni-ch1599-su-dao-yin-guo","confidence":0.95,"seq":1506}
+{"s":"ent.person.x-6c1881d7","p":"relatedTo","o":"ent.person.x-73d2856c","evidence":"plot.xianni-ch1599-su-dao-yin-guo","confidence":0.7,"seq":1506,"note":"王林梦中的『另一个自己』，性质未明；不作 avatarOf 断言"}
+{"s":"ent.person.x-6c1881d7","p":"relatedTo","o":"ent.faction.x-243db6ee","evidence":"plot.xianni-ch1599-su-dao-yin-guo","confidence":0.6,"seq":1506,"note":"王林隐隐猜测炼魂宗数百年后出现的人即梦中的自己，属推测"}
+{"s":"ent.event.x-68284607","p":"occursAt","o":"ent.place.x-5cfcd5c7","evidence":"plot.xianni-ch1599-su-dao-yin-guo","confidence":0.9,"seq":1506}
+{"s":"ent.event.x-68284607","p":"involves","o":"ent.person.x-73d2856c","evidence":"plot.xianni-ch1599-su-dao-yin-guo","confidence":0.95,"seq":1506}
+{"s":"ent.event.x-68284607","p":"involves","o":"ent.person.x-6d177914","evidence":"plot.xianni-ch1599-su-dao-yin-guo","confidence":0.95,"seq":1506}
+{"s":"ent.event.x-68284607","p":"involves","o":"ent.person.x-36bde194","evidence":"plot.xianni-ch1599-su-dao-yin-guo","confidence":0.9,"seq":1506}
+{"s":"ent.event.x-dd366dc8","p":"occursAt","o":"ent.place.x-8f403c2e","evidence":"plot.xianni-ch1599-su-dao-yin-guo","confidence":0.9,"seq":1506}
+{"s":"ent.event.x-dd366dc8","p":"involves","o":"ent.person.x-58389939","evidence":"plot.xianni-ch1599-su-dao-yin-guo","confidence":0.9,"seq":1506}
+{"s":"ent.event.x-dd366dc8","p":"precedes","o":"ent.event.x-68284607","evidence":"plot.xianni-ch1599-su-dao-yin-guo","confidence":0.9,"seq":1506}
+{"s":"ent.event.x-dd366dc8","p":"causes","o":"ent.event.x-68284607","evidence":"plot.xianni-ch1599-su-dao-yin-guo","confidence":0.6,"seq":1506,"note":"游船之举被监官老者看到，遂引出苏道来见"}

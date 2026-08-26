@@ -7,14 +7,17 @@
     "背竹排书箱的中年男子",
     "王林的书童大福",
     "六福（原文误写）",
-    "大福管家"
+    "大福管家",
+    "大福书童",
+    "中年书童"
   ],
   "summary": "王林随行的中年男子，被王林取名「大福」充作书童；不喜此名，隐约记得自己「以前好像经历过什么事情，知晓银两非常重要」。",
   "attributes": {
-    "身份": "王林的书童、王林身边之人（凡人）、书童、管家",
-    "外貌": "中年男子，背竹排书箱",
-    "性格": "悠闲爱哼小曲、对银两极为肉痛、好动、爱吹嘘、吝啬、嗜睡、憨直、爱财、絮叨、心痛银两、好色（偷看画舫舞女）",
-    "标志特征": "背竹排书箱、爱吃包子"
+    "身份": "王林的书童、王林身边之人（凡人）、书童、管家、王林的书童/仆从",
+    "外貌": "穿着书童装束的中年男子",
+    "性格": "悠闲爱哼小曲、对银两极为肉痛、好动、爱吹嘘、吝啬、嗜睡、憨直、爱财、絮叨、心痛银两、好色（偷看画舫舞女）、吝啬爱钱、苦口婆心、絮叨",
+    "标志特征": "背竹排书箱、爱吃包子",
+    "性别": "男"
   },
   "observations": {
     "身份": [
@@ -37,6 +40,12 @@
         "value": "管家",
         "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
         "seq": 1506
+      },
+      {
+        "value": "王林的书童/仆从",
+        "docId": "plot.xianni-ch1599-su-dao-yin-guo",
+        "seq": 1506,
+        "note": "凡俗苏城期间"
       }
     ],
     "外貌": [
@@ -44,6 +53,11 @@
         "value": "中年男子，背竹排书箱",
         "docId": "plot.xianni-1595-lianhunzong-de-yin",
         "seq": 1501
+      },
+      {
+        "value": "穿着书童装束的中年男子",
+        "docId": "plot.xianni-ch1599-su-dao-yin-guo",
+        "seq": 1506
       }
     ],
     "性格": [
@@ -66,12 +80,24 @@
         "value": "爱财、絮叨、心痛银两、好色（偷看画舫舞女）",
         "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
         "seq": 1506
+      },
+      {
+        "value": "吝啬爱钱、苦口婆心、絮叨",
+        "docId": "plot.xianni-ch1599-su-dao-yin-guo",
+        "seq": 1506
       }
     ],
     "标志特征": [
       {
         "value": "背竹排书箱、爱吃包子",
         "docId": "plot.xianni-ch1596-lianhunzong-de-guo",
+        "seq": 1506
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch1599-su-dao-yin-guo",
         "seq": 1506
       }
     ]
@@ -86,9 +112,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-1595-lianhunzong-de-yin",
+      "docId": "plot.xianni-ch1599-su-dao-yin-guo",
       "dated": false,
-      "seq": 1501
+      "seq": 1506
     },
     "性格": {
       "asOf": null,
@@ -101,6 +127,12 @@
       "docId": "plot.xianni-ch1596-lianhunzong-de-guo",
       "dated": false,
       "seq": 1506
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1599-su-dao-yin-guo",
+      "dated": false,
+      "seq": 1506
     }
   },
   "contested": false,
@@ -109,7 +141,8 @@
     "plot.xianni-1595-lianhunzong-de-yin",
     "plot.xianni-ch1596-lianhunzong-de-guo",
     "plot.xianni-ch1597-lianhun-zong-tongtian-zhi-lu",
-    "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine"
+    "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
+    "plot.xianni-ch1599-su-dao-yin-guo"
   ],
-  "updatedAt": "2026-08-26T06:10:32.835Z"
+  "updatedAt": "2026-08-26T06:12:29.231Z"
 }

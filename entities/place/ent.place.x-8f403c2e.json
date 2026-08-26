@@ -13,11 +13,11 @@
   "summary": "人方幻界中赵国境内的城池，河道上可租舟船，特产桂花老酒。",
   "attributes": {
     "所属界面": "赵国（凡人梦境世界）",
-    "类型": "城池（科举重镇、水乡）",
-    "特产": "桂花老酒、桂花酒、文墨之风、画舫歌舞、才子佳人",
+    "类型": "凡人城池、城池/科考之地、城池（科举重镇、水乡）、凡俗城池",
+    "特产": "桂花老酒、桂花酒、文墨之风、画舫歌舞、才子佳人、桂花酒（七钱银子一壶）、画舫游河",
     "上级区域": "赵国",
     "方位": "赵国京都南侧五百里外",
-    "规模": "很大，远望如雄城"
+    "规模": "很大，远望如雄城、河道纵横、石桥相连"
   },
   "observations": {
     "所属界面": [
@@ -52,6 +52,11 @@
         "value": "城池（科举重镇、水乡）",
         "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
         "seq": 1506
+      },
+      {
+        "value": "凡俗城池",
+        "docId": "plot.xianni-ch1599-su-dao-yin-guo",
+        "seq": 1506
       }
     ],
     "特产": [
@@ -79,6 +84,16 @@
         "value": "才子佳人",
         "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
         "seq": 1506
+      },
+      {
+        "value": "桂花酒（七钱银子一壶）",
+        "docId": "plot.xianni-ch1599-su-dao-yin-guo",
+        "seq": 1506
+      },
+      {
+        "value": "画舫游河",
+        "docId": "plot.xianni-ch1599-su-dao-yin-guo",
+        "seq": 1506
       }
     ],
     "上级区域": [
@@ -100,6 +115,11 @@
         "value": "很大，远望如雄城",
         "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
         "seq": 1506
+      },
+      {
+        "value": "河道纵横、石桥相连",
+        "docId": "plot.xianni-ch1599-su-dao-yin-guo",
+        "seq": 1506
       }
     ]
   },
@@ -113,9 +133,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
+      "docId": "plot.xianni-ch1406-ruo-hun-bei-ren-fang-zhi-xiang",
       "dated": false,
-      "seq": 1506
+      "seq": 1312
     },
     "特产": {
       "asOf": null,
@@ -148,7 +168,8 @@
     "plot.xianni-ch1406-ruo-hun-bei-ren-fang-zhi-xiang",
     "plot.xianni-ch1594-huishou-yiwang-lunhui-zai",
     "plot.xianni-1595-lianhunzong-de-yin",
-    "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine"
+    "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
+    "plot.xianni-ch1599-su-dao-yin-guo"
   ],
-  "updatedAt": "2026-08-26T06:10:32.848Z"
+  "updatedAt": "2026-08-26T06:12:29.236Z"
 }

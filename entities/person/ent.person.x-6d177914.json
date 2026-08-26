@@ -5,14 +5,19 @@
   "aliases": [
     "赵国大儒苏道",
     "苏城大儒苏道",
-    "当代大儒苏道"
+    "当代大儒苏道",
+    "Su Dao",
+    "苏先生"
   ],
   "summary": "赵国大儒，苏城因其得名，使苏城成为赵国文墨之都。",
   "attributes": {
-    "身份": "赵国当代大儒",
-    "出身地": "赵国",
+    "身份": "赵国大儒、赵国当代大儒、当代文豪大儒、监官老者之恩师",
+    "出身地": "苏城",
     "称号": "大儒",
-    "性格": "好酒（桂花酒），饮酒感悟天地浩荡"
+    "性格": "好酒（桂花酒），饮酒感悟天地浩荡",
+    "性别": "男",
+    "外貌": "白发苍苍、身穿青衫、身子笔直如青松",
+    "标志特征": "神色沧桑、双眼睿智"
   },
   "observations": {
     "身份": [
@@ -25,6 +30,16 @@
         "value": "赵国当代大儒",
         "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
         "seq": 1506
+      },
+      {
+        "value": "当代文豪大儒",
+        "docId": "plot.xianni-ch1599-su-dao-yin-guo",
+        "seq": 1506
+      },
+      {
+        "value": "监官老者之恩师",
+        "docId": "plot.xianni-ch1599-su-dao-yin-guo",
+        "seq": 1506
       }
     ],
     "出身地": [
@@ -32,6 +47,11 @@
         "value": "赵国",
         "docId": "plot.xianni-1595-lianhunzong-de-yin",
         "seq": 1501
+      },
+      {
+        "value": "苏城",
+        "docId": "plot.xianni-ch1599-su-dao-yin-guo",
+        "seq": 1506
       }
     ],
     "称号": [
@@ -47,21 +67,42 @@
         "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
         "seq": 1506
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch1599-su-dao-yin-guo",
+        "seq": 1506
+      }
+    ],
+    "外貌": [
+      {
+        "value": "白发苍苍、身穿青衫、身子笔直如青松",
+        "docId": "plot.xianni-ch1599-su-dao-yin-guo",
+        "seq": 1506
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "神色沧桑、双眼睿智",
+        "docId": "plot.xianni-ch1599-su-dao-yin-guo",
+        "seq": 1506
+      }
     ]
   },
   "firstSeq": 1501,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
-      "dated": false,
-      "seq": 1506
-    },
-    "出身地": {
-      "asOf": null,
       "docId": "plot.xianni-1595-lianhunzong-de-yin",
       "dated": false,
       "seq": 1501
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1599-su-dao-yin-guo",
+      "dated": false,
+      "seq": 1506
     },
     "称号": {
       "asOf": null,
@@ -74,13 +115,32 @@
       "docId": "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
       "dated": false,
       "seq": 1506
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1599-su-dao-yin-guo",
+      "dated": false,
+      "seq": 1506
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1599-su-dao-yin-guo",
+      "dated": false,
+      "seq": 1506
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1599-su-dao-yin-guo",
+      "dated": false,
+      "seq": 1506
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1595-lianhunzong-de-yin",
-    "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine"
+    "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
+    "plot.xianni-ch1599-su-dao-yin-guo"
   ],
-  "updatedAt": "2026-08-26T06:10:32.838Z"
+  "updatedAt": "2026-08-26T06:12:29.226Z"
 }

@@ -943,3 +943,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T06:06:11.493Z** `ingest` plot.xianni-ch1596-lianhunzong-de-guo — 第1596章 炼魂宗的果——凡人王林科考论因果，遁天现身县城 · kind=plot asOf=2026-08-26 entities=13 relations=21 src=01506-01510.p1.md
 - **2026-08-26T06:08:27.935Z** `ingest` plot.xianni-ch1597-lianhun-zong-tongtian-zhi-lu — 第1597章 数百年前的一句话——念天问道凡人书生王林 · kind=plot asOf=2026-08-26 entities=15 relations=28 src=01506-01510.p2.md
 - **2026-08-26T06:10:33.291Z** `ingest` plot.xianni-ch1598-a-date-suzhou-osmanthus-wine — 第1598章 一次约会：念天临终识破儒生、王林中秀才赴苏城等人 · kind=plot asOf=2026-08-26 entities=16 relations=23 src=01506-01510.p3.md
+- **2026-08-26T06:12:29.684Z** `ingest` plot.xianni-ch1599-su-dao-yin-guo — 第1599章 苏道——苏城画舫、悲魂琴音与「我是因，我是果」 · kind=plot asOf=2026-08-26 entities=14 relations=20 src=01506-01510.p4.md
