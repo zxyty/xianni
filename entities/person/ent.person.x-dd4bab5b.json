@@ -6,14 +6,17 @@
     "凶兽之皇太阿罗",
     "凶兽之皇",
     "长发太阿罗",
-    "赤脚的太阿罗"
+    "赤脚的太阿罗",
+    "赤脚的中年男子",
+    "绝代凶兽太阿罗",
+    "Tai A Luo"
   ],
   "summary": "凶兽之皇，已化人形，无数年前被封界之尊封印；水道子许其解封归乡，换其出手杀一人。",
   "attributes": {
-    "身份": "凶兽之皇",
-    "外貌": "赤脚",
-    "存殁": "被封印中",
-    "标志特征": "封印解开一半"
+    "身份": "凶兽之皇、绝代凶兽、被封尊所印者",
+    "外貌": "赤脚中年男子；掐诀时全身幻化淡黑细密鳞片",
+    "存殁": "存活",
+    "标志特征": "封印解开一半、鳞片脱体组成鳞盾、盾心三枚金色鳞片"
   },
   "observations": {
     "身份": [
@@ -21,6 +24,16 @@
         "value": "凶兽之皇",
         "docId": "plot.xianni-1508-shuidaozi-fengjieling-hunt-wanglin",
         "seq": 1415
+      },
+      {
+        "value": "绝代凶兽",
+        "docId": "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
+        "seq": 1439
+      },
+      {
+        "value": "被封尊所印者",
+        "docId": "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
+        "seq": 1439
       }
     ],
     "外貌": [
@@ -38,6 +51,11 @@
         "value": "赤脚",
         "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
         "seq": 1425
+      },
+      {
+        "value": "赤脚中年男子；掐诀时全身幻化淡黑细密鳞片",
+        "docId": "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
+        "seq": 1439
       }
     ],
     "存殁": [
@@ -46,6 +64,11 @@
         "docId": "plot.xianni-1508-shuidaozi-fengjieling-hunt-wanglin",
         "seq": 1415,
         "note": "无数年前被封界之尊所封"
+      },
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
+        "seq": 1439
       }
     ],
     "标志特征": [
@@ -54,6 +77,16 @@
         "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
         "seq": 1425,
         "note": "第1516章，余半待战后"
+      },
+      {
+        "value": "鳞片脱体组成鳞盾",
+        "docId": "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
+        "seq": 1439
+      },
+      {
+        "value": "盾心三枚金色鳞片",
+        "docId": "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
+        "seq": 1439
       }
     ]
   },
@@ -67,16 +100,15 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
+      "docId": "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
       "dated": false,
-      "seq": 1425
+      "seq": 1439
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-1508-shuidaozi-fengjieling-hunt-wanglin",
+      "docId": "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
       "dated": false,
-      "seq": 1415,
-      "note": "无数年前被封界之尊所封"
+      "seq": 1439
     },
     "标志特征": {
       "asOf": null,
@@ -91,7 +123,8 @@
   "docs": [
     "plot.xianni-1508-shuidaozi-fengjieling-hunt-wanglin",
     "plot.xianni-ch1513-golden-storm-youming-devours",
-    "plot.xianni-1516-ru-jie-di-yi-zhan"
+    "plot.xianni-1516-ru-jie-di-yi-zhan",
+    "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun"
   ],
-  "updatedAt": "2026-08-26T01:06:21.643Z"
+  "updatedAt": "2026-08-26T01:51:33.452Z"
 }

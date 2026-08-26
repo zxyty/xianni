@@ -5,14 +5,17 @@
   "aliases": [
     "召河长衫文士",
     "女扮男装的长衫文士",
-    "Zi Meng"
+    "Zi Meng",
+    "召河女子紫梦",
+    "召河女子"
   ],
   "summary": "召河修士为首者，女扮男装作长衫文士，脚踏如龙闪电，接手南云子的对手红衣仙妃，言其姐姐很快会到。",
   "attributes": {
     "性别": "女",
     "外貌": "长衫文士，头发飘动，容颜极为秀美",
     "身份": "召河援修领头者",
-    "阵营": "界内援军（召河）"
+    "阵营": "界内援军（召河）",
+    "出身地": "召河"
   },
   "observations": {
     "性别": [
@@ -43,6 +46,13 @@
         "docId": "plot.xianni-ch1528-zhaohe-female-cultivators-reinforcements",
         "seq": 1434
       }
+    ],
+    "出身地": [
+      {
+        "value": "召河",
+        "docId": "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
+        "seq": 1439
+      }
     ]
   },
   "firstSeq": 1434,
@@ -71,12 +81,19 @@
       "docId": "plot.xianni-ch1528-zhaohe-female-cultivators-reinforcements",
       "dated": false,
       "seq": 1434
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
+      "dated": false,
+      "seq": 1439
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1528-zhaohe-female-cultivators-reinforcements"
+    "plot.xianni-ch1528-zhaohe-female-cultivators-reinforcements",
+    "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun"
   ],
-  "updatedAt": "2026-08-26T01:32:42.850Z"
+  "updatedAt": "2026-08-26T01:51:33.335Z"
 }

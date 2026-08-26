@@ -12,7 +12,8 @@
     "身份": "古神",
     "称号": "非仙尊之列",
     "外貌": "巨大头颅，与涂司全身等大，面目模糊，左目空旷流漆黑血液，神色狰狞",
-    "标志特征": "曾半生失去记忆"
+    "标志特征": "左目被李广一箭摘取",
+    "存殁": "死亡"
   },
   "observations": {
     "身份": [
@@ -42,6 +43,18 @@
         "value": "曾半生失去记忆",
         "docId": "plot.xianni-1477-daogu-inheritance",
         "seq": 1385
+      },
+      {
+        "value": "左目被李广一箭摘取",
+        "docId": "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
+        "seq": 1439
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
+        "seq": 1439
       }
     ]
   },
@@ -68,9 +81,15 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-1477-daogu-inheritance",
+      "docId": "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
       "dated": false,
-      "seq": 1385
+      "seq": 1439
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
+      "dated": false,
+      "seq": 1439
     }
   },
   "contested": false,
@@ -78,7 +97,8 @@
   "docs": [
     "plot.xianni-1418-ye-keyi-wang-lin-refuses-first-zhu-que-offer",
     "plot.xianni-1458-ci-dao-wanglin-ponders-ancient-tomb-revives-trees",
-    "plot.xianni-1477-daogu-inheritance"
+    "plot.xianni-1477-daogu-inheritance",
+    "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun"
   ],
-  "updatedAt": "2026-08-25T22:02:43.065Z"
+  "updatedAt": "2026-08-26T01:51:33.333Z"
 }

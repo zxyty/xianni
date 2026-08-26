@@ -7,7 +7,8 @@
   "attributes": {
     "性别": "女",
     "外貌": "红衣",
-    "阵营": "界外入侵者"
+    "阵营": "界外入侵者",
+    "性格": "心机深、神色阴沉"
   },
   "observations": {
     "性别": [
@@ -30,6 +31,13 @@
         "docId": "plot.xianni-ch1528-zhaohe-female-cultivators-reinforcements",
         "seq": 1434
       }
+    ],
+    "性格": [
+      {
+        "value": "心机深、神色阴沉",
+        "docId": "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
+        "seq": 1439
+      }
     ]
   },
   "firstSeq": 1434,
@@ -51,12 +59,19 @@
       "docId": "plot.xianni-ch1528-zhaohe-female-cultivators-reinforcements",
       "dated": false,
       "seq": 1434
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
+      "dated": false,
+      "seq": 1439
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1528-zhaohe-female-cultivators-reinforcements"
+    "plot.xianni-ch1528-zhaohe-female-cultivators-reinforcements",
+    "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun"
   ],
-  "updatedAt": "2026-08-26T01:32:42.856Z"
+  "updatedAt": "2026-08-26T01:51:33.447Z"
 }

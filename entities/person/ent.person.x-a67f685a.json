@@ -4,12 +4,16 @@
   "name": "鬼宗妖圣",
   "aliases": [
     "妖圣",
-    "鬼宗妖圣大人"
+    "鬼宗妖圣大人",
+    "鬼宗妖圣本尊"
   ],
   "summary": "鬼宗的至强者，有人愿以五亿阴阳门徒换其出手一次。",
   "attributes": {
     "称号": "妖圣",
-    "阵营": "鬼宗"
+    "阵营": "鬼宗",
+    "种族": "古妖",
+    "标志特征": "左目九星旋转",
+    "存殁": "存活"
   },
   "observations": {
     "称号": [
@@ -24,6 +28,27 @@
         "value": "鬼宗",
         "docId": "plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm",
         "seq": 1420
+      }
+    ],
+    "种族": [
+      {
+        "value": "古妖",
+        "docId": "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
+        "seq": 1439
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "左目九星旋转",
+        "docId": "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
+        "seq": 1439
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
+        "seq": 1439
       }
     ]
   },
@@ -40,13 +65,32 @@
       "docId": "plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm",
       "dated": false,
       "seq": 1420
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
+      "dated": false,
+      "seq": 1439
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
+      "dated": false,
+      "seq": 1439
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
+      "dated": false,
+      "seq": 1439
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm",
-    "plot.xianni-1512-golden-bell-seal-realm-array-revealed"
+    "plot.xianni-1512-golden-bell-seal-realm-array-revealed",
+    "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun"
   ],
-  "updatedAt": "2026-08-26T00:43:44.695Z"
+  "updatedAt": "2026-08-26T01:51:33.380Z"
 }

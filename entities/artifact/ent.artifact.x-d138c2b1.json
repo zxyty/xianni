@@ -4,15 +4,16 @@
   "name": "焚世古伞",
   "aliases": [
     "古伞",
-    "焚世古伞/焚界古伞"
+    "焚世古伞/焚界古伞",
+    "那古伞"
   ],
   "summary": "由火焰风暴与火骨伞架融合而成的太古级巨伞，开启后宣泄无色的灭世火气，覆盖处化为虚无；本章由王林以鲜血生机催动并最终引爆。",
   "attributes": {
     "持有者": "王林",
-    "能力": "宣泄灭世之火（无形火气）、焚灭一切化为虚无、可自爆释放毁灭之力",
+    "能力": "宣泄灭世之火（无形火气）、焚灭一切化为虚无、可自爆释放毁灭之力、威力极大",
     "五行属性": "火",
     "外形": "由火骨伞架与火焰风暴融合而成的巨伞",
-    "禁制": "需以持有者鲜血与生机灌注方能撑开"
+    "禁制": "消耗寿元/生机极巨，不可多用"
   },
   "observations": {
     "持有者": [
@@ -37,6 +38,11 @@
         "value": "可自爆释放毁灭之力",
         "docId": "plot.xianni-1431-fenshi-guisan-zhangzun-fuhuo-tiaojian",
         "seq": 1341
+      },
+      {
+        "value": "威力极大",
+        "docId": "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
+        "seq": 1439
       }
     ],
     "五行属性": [
@@ -59,6 +65,11 @@
         "docId": "plot.xianni-1431-fenshi-guisan-zhangzun-fuhuo-tiaojian",
         "seq": 1341,
         "note": "王林修为不足仅开两成"
+      },
+      {
+        "value": "消耗寿元/生机极巨，不可多用",
+        "docId": "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
+        "seq": 1439
       }
     ]
   },
@@ -90,16 +101,16 @@
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.xianni-1431-fenshi-guisan-zhangzun-fuhuo-tiaojian",
+      "docId": "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
       "dated": false,
-      "seq": 1341,
-      "note": "王林修为不足仅开两成"
+      "seq": 1439
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1431-fenshi-guisan-zhangzun-fuhuo-tiaojian"
+    "plot.xianni-1431-fenshi-guisan-zhangzun-fuhuo-tiaojian",
+    "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun"
   ],
-  "updatedAt": "2026-08-25T18:31:04.535Z"
+  "updatedAt": "2026-08-26T01:51:33.458Z"
 }
