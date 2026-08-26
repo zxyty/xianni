@@ -3,12 +3,14 @@
   "type": "place",
   "name": "幽冥兽体内虚无",
   "aliases": [
-    "漆黑虚无"
+    "漆黑虚无",
+    "那片虚无"
   ],
   "summary": "幽冥兽体内一处漆黑的虚无空间，飘浮着血液大阵与水晶棺材，由黑衣男子盘膝守护。",
   "attributes": {
-    "类型": "体内空间/虚无",
-    "守护": "黑衣男子"
+    "类型": "虚无空间",
+    "守护": "黑衣男子",
+    "危险度": "死寂无生"
   },
   "observations": {
     "类型": [
@@ -16,6 +18,11 @@
         "value": "体内空间/虚无",
         "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
         "seq": 764
+      },
+      {
+        "value": "虚无空间",
+        "docId": "plot.xianni-ch1589-meng-xian-huo-xian-meng",
+        "seq": 1496
       }
     ],
     "守护": [
@@ -24,27 +31,41 @@
         "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
         "seq": 764
       }
+    ],
+    "危险度": [
+      {
+        "value": "死寂无生",
+        "docId": "plot.xianni-ch1589-meng-xian-huo-xian-meng",
+        "seq": 1496
+      }
     ]
   },
   "firstSeq": 764,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
+      "docId": "plot.xianni-ch1589-meng-xian-huo-xian-meng",
       "dated": false,
-      "seq": 764
+      "seq": 1496
     },
     "守护": {
       "asOf": null,
       "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
       "dated": false,
       "seq": 764
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1589-meng-xian-huo-xian-meng",
+      "dated": false,
+      "seq": 1496
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch764-765-tashan-xianwei-cangpinge"
+    "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
+    "plot.xianni-ch1589-meng-xian-huo-xian-meng"
   ],
-  "updatedAt": "2026-08-23T10:56:47.395Z"
+  "updatedAt": "2026-08-26T05:53:01.553Z"
 }

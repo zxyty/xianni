@@ -933,3 +933,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T05:44:44.796Z** `ingest` plot.xianni-ch1586-jing-zhong-lao-yue-xian-gu-fen — 第1586章 仙古分！——掌尊现身，井中捞月剥离仙人血脉，赤魂子出阁楼 · kind=plot asOf=2026-08-26 entities=29 relations=37 src=01496-01500.p1.md
 - **2026-08-26T05:47:26.627Z** `ingest` plot.xianni-ch1587-en-duan-chi-hun-zi-chuang-feng-yin — 第1587章 恩断！——赤魂子撞破封印，蓝梦出手，恩义一刀两断 · kind=plot asOf=2026-08-26 entities=37 relations=52 src=01496-01500.p2.md
 - **2026-08-26T05:50:20.499Z** `ingest` plot.xianni-1588-life-and-death-seven-colored-spear — 第1588章 生死！——七彩之枪下的解脱与疯子救王林堕入黑洞 · kind=plot asOf=2026-08-26 entities=28 relations=32 src=01496-01500.p3.md
+- **2026-08-26T05:53:01.972Z** `ingest` plot.xianni-ch1589-meng-xian-huo-xian-meng — 第1589章 梦仙，还是仙梦！——王林封尊杀劫落幕，众人凭吊，梦道千年 · kind=plot asOf=2026-08-26 entities=31 relations=38 src=01496-01500.p4.md

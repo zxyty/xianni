@@ -3,11 +3,12 @@
   "type": "place",
   "name": "云海战台",
   "aliases": [
-    "战台"
+    "战台",
+    "站台"
   ],
   "summary": "红杉子邀王林以封尊之名前往、成为余下战争之魂并带动界内之修最终反击之地；王林未去。",
   "attributes": {
-    "类型": "战争据点/战台",
+    "类型": "战台/闭关之地",
     "上级区域": "云海星域"
   },
   "observations": {
@@ -16,6 +17,11 @@
         "value": "战争据点/战台",
         "docId": "plot.xianni-ch1564-shisan-qicai-realm-collapse-aftermath",
         "seq": 1471
+      },
+      {
+        "value": "战台/闭关之地",
+        "docId": "plot.xianni-ch1589-meng-xian-huo-xian-meng",
+        "seq": 1496
       }
     ],
     "上级区域": [
@@ -30,9 +36,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1564-shisan-qicai-realm-collapse-aftermath",
+      "docId": "plot.xianni-ch1589-meng-xian-huo-xian-meng",
       "dated": false,
-      "seq": 1471
+      "seq": 1496
     },
     "上级区域": {
       "asOf": null,
@@ -45,7 +51,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1564-shisan-qicai-realm-collapse-aftermath",
-    "plot.xianni-ch1587-en-duan-chi-hun-zi-chuang-feng-yin"
+    "plot.xianni-ch1587-en-duan-chi-hun-zi-chuang-feng-yin",
+    "plot.xianni-ch1589-meng-xian-huo-xian-meng"
   ],
-  "updatedAt": "2026-08-26T05:47:26.169Z"
+  "updatedAt": "2026-08-26T05:53:01.552Z"
 }
