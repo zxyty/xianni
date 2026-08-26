@@ -1,52 +1,41 @@
 {
-  "id": "ent.place.x-1b90be7e",
-  "type": "place",
-  "name": "太古神境",
+  "id": "ent.item.x-5661cb70",
+  "type": "item",
+  "name": "太古神境储物残片",
   "aliases": [
-    "太古神境所在",
-    "太吉神境",
-    "Taigu Shenjing"
+    "储物残片",
+    "太古神境碎片"
   ],
-  "summary": "封界之尊推断存在的所在，破开天逆珠最终秘密方可寻到，其详情连他也所知不多。",
+  "summary": "自太古神境飞出的储物残片，碎开后少了一块落入七彩手中；开启极为艰难，需以修为镇压与开启，内藏「一个天道」。",
   "attributes": {
-    "类型": "神秘秘境",
-    "危险度": "极高",
-    "特产": "储物残片、天道"
+    "类型": "储物残片",
+    "产地": "太古神境",
+    "用途": "内藏太古神境之物（含一个天道）"
   },
   "observations": {
     "类型": [
       {
-        "value": "秘境/神境",
-        "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
-        "seq": 1200
-      },
-      {
-        "value": "神秘秘境",
+        "value": "储物残片",
         "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
         "seq": 1601
       }
     ],
-    "危险度": [
+    "产地": [
       {
-        "value": "未知",
-        "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
-        "seq": 1200
-      },
-      {
-        "value": "极高",
+        "value": "太古神境",
         "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
         "seq": 1601
       }
     ],
-    "特产": [
+    "用途": [
       {
-        "value": "储物残片、天道",
+        "value": "内藏太古神境之物（含一个天道）",
         "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
         "seq": 1601
       }
     ]
   },
-  "firstSeq": 1200,
+  "firstSeq": 1601,
   "attrProvenance": {
     "类型": {
       "asOf": null,
@@ -54,13 +43,13 @@
       "dated": false,
       "seq": 1601
     },
-    "危险度": {
+    "产地": {
       "asOf": null,
       "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
       "dated": false,
       "seq": 1601
     },
-    "特产": {
+    "用途": {
       "asOf": null,
       "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
       "dated": false,
@@ -70,8 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.xianni-1284-tianni-origin-fengjie-zhizun",
     "plot.xianni-1694-fan-shanlu-dream-forbidden-ship"
   ],
-  "updatedAt": "2026-08-26T12:32:37.525Z"
+  "updatedAt": "2026-08-26T12:32:37.515Z"
 }

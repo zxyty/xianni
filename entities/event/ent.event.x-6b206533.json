@@ -1,66 +1,64 @@
 {
-  "id": "ent.place.x-1b90be7e",
-  "type": "place",
-  "name": "太古神境",
+  "id": "ent.event.x-6b206533",
+  "type": "event",
+  "name": "李广斩杀道古烨寞",
   "aliases": [
-    "太古神境所在",
-    "太吉神境",
-    "Taigu Shenjing"
+    "道古烨寞之死"
   ],
-  "summary": "封界之尊推断存在的所在，破开天逆珠最终秘密方可寻到，其详情连他也所知不多。",
+  "summary": "七彩以不知名方式请动李广相助，斩杀了被其引来的道古烨寞；此后不久七彩受伤闭关参详碎片所得之物。",
   "attributes": {
-    "类型": "神秘秘境",
-    "危险度": "极高",
-    "特产": "储物残片、天道"
+    "参与方": "李广、七彩仙尊、道古烨寞",
+    "结果": "道古烨寞身死，七彩受伤闭关",
+    "地点": "七道宗"
   },
   "observations": {
-    "类型": [
+    "参与方": [
       {
-        "value": "秘境/神境",
-        "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
-        "seq": 1200
+        "value": "李广",
+        "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
+        "seq": 1601
       },
       {
-        "value": "神秘秘境",
+        "value": "七彩仙尊",
+        "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
+        "seq": 1601
+      },
+      {
+        "value": "道古烨寞",
         "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
         "seq": 1601
       }
     ],
-    "危险度": [
+    "结果": [
       {
-        "value": "未知",
-        "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
-        "seq": 1200
-      },
-      {
-        "value": "极高",
+        "value": "道古烨寞身死，七彩受伤闭关",
         "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
         "seq": 1601
       }
     ],
-    "特产": [
+    "地点": [
       {
-        "value": "储物残片、天道",
+        "value": "七道宗",
         "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
         "seq": 1601
       }
     ]
   },
-  "firstSeq": 1200,
+  "firstSeq": 1601,
   "attrProvenance": {
-    "类型": {
+    "参与方": {
       "asOf": null,
       "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
       "dated": false,
       "seq": 1601
     },
-    "危险度": {
+    "结果": {
       "asOf": null,
       "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
       "dated": false,
       "seq": 1601
     },
-    "特产": {
+    "地点": {
       "asOf": null,
       "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
       "dated": false,
@@ -70,8 +68,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.xianni-1284-tianni-origin-fengjie-zhizun",
     "plot.xianni-1694-fan-shanlu-dream-forbidden-ship"
   ],
-  "updatedAt": "2026-08-26T12:32:37.525Z"
+  "updatedAt": "2026-08-26T12:32:37.534Z"
 }

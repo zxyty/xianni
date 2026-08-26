@@ -1,66 +1,54 @@
 {
-  "id": "ent.place.x-1b90be7e",
-  "type": "place",
-  "name": "太古神境",
+  "id": "ent.technique.x-7d7fbbc9",
+  "type": "technique",
+  "name": "轮回术",
   "aliases": [
-    "太古神境所在",
-    "太吉神境",
-    "Taigu Shenjing"
+    "大神通轮回术"
   ],
-  "summary": "封界之尊推断存在的所在，破开天逆珠最终秘密方可寻到，其详情连他也所知不多。",
+  "summary": "大魂门师尊所施的大神通，可凭命魂将形神俱灭者快速轮回重生。",
   "attributes": {
-    "类型": "神秘秘境",
-    "危险度": "极高",
-    "特产": "储物残片、天道"
+    "品阶": "大神通",
+    "出处": "大魂门",
+    "效果": "凭命魂令死者快速轮回重生"
   },
   "observations": {
-    "类型": [
+    "品阶": [
       {
-        "value": "秘境/神境",
-        "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
-        "seq": 1200
-      },
-      {
-        "value": "神秘秘境",
+        "value": "大神通",
         "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
         "seq": 1601
       }
     ],
-    "危险度": [
+    "出处": [
       {
-        "value": "未知",
-        "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
-        "seq": 1200
-      },
-      {
-        "value": "极高",
+        "value": "大魂门",
         "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
         "seq": 1601
       }
     ],
-    "特产": [
+    "效果": [
       {
-        "value": "储物残片、天道",
+        "value": "凭命魂令死者快速轮回重生",
         "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
         "seq": 1601
       }
     ]
   },
-  "firstSeq": 1200,
+  "firstSeq": 1601,
   "attrProvenance": {
-    "类型": {
+    "品阶": {
       "asOf": null,
       "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
       "dated": false,
       "seq": 1601
     },
-    "危险度": {
+    "出处": {
       "asOf": null,
       "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
       "dated": false,
       "seq": 1601
     },
-    "特产": {
+    "效果": {
       "asOf": null,
       "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
       "dated": false,
@@ -70,8 +58,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.xianni-1284-tianni-origin-fengjie-zhizun",
     "plot.xianni-1694-fan-shanlu-dream-forbidden-ship"
   ],
-  "updatedAt": "2026-08-26T12:32:37.525Z"
+  "updatedAt": "2026-08-26T12:32:37.521Z"
 }

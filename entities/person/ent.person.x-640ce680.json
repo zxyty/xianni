@@ -3,15 +3,18 @@
   "type": "person",
   "name": "矾珊璐",
   "aliases": [
-    "本尊的第一妃"
+    "本尊的第一妃",
+    "矾珊",
+    "矾珊梦的妹妹"
   ],
   "summary": "与王林同行的绝色女修，修为极高但受伤未愈且长年压制；被七彩道人认作「本尊的第一妃」，本章施展血祭、大魂道血刀与彩玉七手印护住王林。",
   "attributes": {
     "性别": "女",
-    "身份": "七彩道人口中的「本尊的第一妃」",
-    "外貌": "遁走时如一道彩蝶",
+    "身份": "七彩道人口中的「本尊的第一妃」、七道宗内应",
+    "外貌": "遁走时如一道彩蝶、面色苍白，异变时青筋鼓起面容狰狞",
     "存殁": "在世",
-    "分身": "仙罡大陆冰封之地冰山内与其一模一样的女子（其称之为「姐姐」）"
+    "分身": "仙罡大陆冰封之地冰山内与其一模一样的女子（其称之为「姐姐」）",
+    "标志特征": "身体七彩之芒闪烁、眉心七彩寒气漩涡、喷出的鲜血落地化作血冰颗粒"
   },
   "observations": {
     "性别": [
@@ -27,12 +30,22 @@
         "docId": "plot.xianni-1693-qicai-arrival",
         "seq": 1601,
         "note": "第1693章由七彩道人当面指认"
+      },
+      {
+        "value": "七道宗内应",
+        "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
+        "seq": 1601
       }
     ],
     "外貌": [
       {
         "value": "遁走时如一道彩蝶",
         "docId": "plot.xianni-1693-qicai-arrival",
+        "seq": 1601
+      },
+      {
+        "value": "面色苍白，异变时青筋鼓起面容狰狞",
+        "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
         "seq": 1601
       }
     ],
@@ -49,6 +62,23 @@
         "docId": "plot.xianni-1693-qicai-arrival",
         "seq": 1601,
         "note": "关系未明，可隔空注力"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "身体七彩之芒闪烁",
+        "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
+        "seq": 1601
+      },
+      {
+        "value": "眉心七彩寒气漩涡",
+        "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
+        "seq": 1601
+      },
+      {
+        "value": "喷出的鲜血落地化作血冰颗粒",
+        "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
+        "seq": 1601
       }
     ]
   },
@@ -85,12 +115,19 @@
       "dated": false,
       "seq": 1601,
       "note": "关系未明，可隔空注力"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
+      "dated": false,
+      "seq": 1601
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1693-qicai-arrival"
+    "plot.xianni-1693-qicai-arrival",
+    "plot.xianni-1694-fan-shanlu-dream-forbidden-ship"
   ],
-  "updatedAt": "2026-08-26T12:25:32.615Z"
+  "updatedAt": "2026-08-26T12:32:37.504Z"
 }

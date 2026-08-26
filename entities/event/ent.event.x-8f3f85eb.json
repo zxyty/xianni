@@ -1,66 +1,60 @@
 {
-  "id": "ent.place.x-1b90be7e",
-  "type": "place",
-  "name": "太古神境",
+  "id": "ent.event.x-8f3f85eb",
+  "type": "event",
+  "name": "王林识破矾珊梦身份",
   "aliases": [
-    "太古神境所在",
-    "太吉神境",
-    "Taigu Shenjing"
+    "魂魔舟对话",
+    "矾珊梦自陈"
   ],
-  "summary": "封界之尊推断存在的所在，破开天逆珠最终秘密方可寻到，其详情连他也所知不多。",
+  "summary": "魂魔舟被七彩道人轰击期间，王林当面指出对方并非矾珊璐，女子承认自己是矾珊梦并自述全部往事与太古神境传说。",
   "attributes": {
-    "类型": "神秘秘境",
-    "危险度": "极高",
-    "特产": "储物残片、天道"
+    "地点": "魂魔舟内",
+    "参与方": "王林、矾珊梦",
+    "结果": "王林获知残片、轮回重生、界内界外成因等信息，但只信一部分"
   },
   "observations": {
-    "类型": [
+    "地点": [
       {
-        "value": "秘境/神境",
-        "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
-        "seq": 1200
-      },
-      {
-        "value": "神秘秘境",
+        "value": "魂魔舟内",
         "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
         "seq": 1601
       }
     ],
-    "危险度": [
+    "参与方": [
       {
-        "value": "未知",
-        "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
-        "seq": 1200
+        "value": "王林",
+        "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
+        "seq": 1601
       },
       {
-        "value": "极高",
+        "value": "矾珊梦",
         "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
         "seq": 1601
       }
     ],
-    "特产": [
+    "结果": [
       {
-        "value": "储物残片、天道",
+        "value": "王林获知残片、轮回重生、界内界外成因等信息，但只信一部分",
         "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
         "seq": 1601
       }
     ]
   },
-  "firstSeq": 1200,
+  "firstSeq": 1601,
   "attrProvenance": {
-    "类型": {
+    "地点": {
       "asOf": null,
       "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
       "dated": false,
       "seq": 1601
     },
-    "危险度": {
+    "参与方": {
       "asOf": null,
       "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
       "dated": false,
       "seq": 1601
     },
-    "特产": {
+    "结果": {
       "asOf": null,
       "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
       "dated": false,
@@ -70,8 +64,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.xianni-1284-tianni-origin-fengjie-zhizun",
     "plot.xianni-1694-fan-shanlu-dream-forbidden-ship"
   ],
-  "updatedAt": "2026-08-26T12:32:37.525Z"
+  "updatedAt": "2026-08-26T12:32:37.535Z"
 }

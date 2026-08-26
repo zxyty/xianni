@@ -12,7 +12,8 @@
   "attributes": {
     "所属势力": "七道宗",
     "类型": "洞府（内含界内界外诸星域）",
-    "守护": "百卫、四大战将"
+    "守护": "百卫、四大战将",
+    "上级区域": "七道宗"
   },
   "observations": {
     "所属势力": [
@@ -45,6 +46,13 @@
         "docId": "plot.xianni-1640-qidao-zong-memory-crystal",
         "seq": 1546
       }
+    ],
+    "上级区域": [
+      {
+        "value": "七道宗",
+        "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
+        "seq": 1601
+      }
     ]
   },
   "firstSeq": 1546,
@@ -66,6 +74,12 @@
       "docId": "plot.xianni-1640-qidao-zong-memory-crystal",
       "dated": false,
       "seq": 1546
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
+      "dated": false,
+      "seq": 1601
     }
   },
   "contested": false,
@@ -73,7 +87,8 @@
   "docs": [
     "plot.xianni-1640-qidao-zong-memory-crystal",
     "plot.xianni-ch1647-dandang-wang-lin-third-stage-of-cultivation",
-    "plot.xianni-ch1666-ji-dian-ying-hun-ru-zhen-ling"
+    "plot.xianni-ch1666-ji-dian-ying-hun-ru-zhen-ling",
+    "plot.xianni-1694-fan-shanlu-dream-forbidden-ship"
   ],
-  "updatedAt": "2026-08-26T11:01:47.258Z"
+  "updatedAt": "2026-08-26T12:32:37.527Z"
 }

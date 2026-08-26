@@ -4,13 +4,17 @@
   "name": "矾珊梦",
   "aliases": [
     "七彩仙尊道侣",
-    "矾姗璐的姐姐"
+    "矾姗璐的姐姐",
+    "矾珊璐的姐姐",
+    "Fan Shanmeng"
   ],
   "summary": "七彩仙尊道侣、矾姗璐之姐；当年被七彩仙尊当作夺宝诱饵，本章揭示其并未死，身在仙罡大陆，为大魂门核心弟子。",
   "attributes": {
     "性别": "女",
-    "身份": "七彩仙尊道侣、大魂门核心弟子",
-    "存殁": "在世"
+    "身份": "七彩仙尊道侣、大魂门核心弟子、七彩仙尊的道侣",
+    "存殁": "在世、已重生",
+    "外貌": "与矾珊璐同貌",
+    "死因": "被七彩仙尊一掌形神俱灭（灭口）"
   },
   "observations": {
     "性别": [
@@ -30,6 +34,11 @@
         "value": "大魂门核心弟子",
         "docId": "plot.xianni-ch1692-the-promise-of-those-years",
         "seq": 1601
+      },
+      {
+        "value": "七彩仙尊的道侣",
+        "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
+        "seq": 1601
       }
     ],
     "存殁": [
@@ -38,6 +47,28 @@
         "docId": "plot.xianni-ch1692-the-promise-of-those-years",
         "seq": 1601,
         "note": "第1601章由矾姗璐揭示『我姐姐，没有死』，人在仙罡大陆"
+      },
+      {
+        "value": "已重生",
+        "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
+        "seq": 1601,
+        "note": "曾被七彩一掌形神俱灭，后由师尊以轮回术轮回快速重生"
+      }
+    ],
+    "外貌": [
+      {
+        "value": "与矾珊璐同貌",
+        "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
+        "seq": 1601,
+        "note": "初被王林误认为矾珊璐"
+      }
+    ],
+    "死因": [
+      {
+        "value": "被七彩仙尊一掌形神俱灭（灭口）",
+        "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
+        "seq": 1601,
+        "note": "当年往事，后已重生"
       }
     ]
   },
@@ -61,12 +92,27 @@
       "dated": false,
       "seq": 1601,
       "note": "第1601章由矾姗璐揭示『我姐姐，没有死』，人在仙罡大陆"
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
+      "dated": false,
+      "seq": 1601,
+      "note": "初被王林误认为矾珊璐"
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
+      "dated": false,
+      "seq": 1601,
+      "note": "当年往事，后已重生"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1692-the-promise-of-those-years"
+    "plot.xianni-ch1692-the-promise-of-those-years",
+    "plot.xianni-1694-fan-shanlu-dream-forbidden-ship"
   ],
-  "updatedAt": "2026-08-26T12:23:04.539Z"
+  "updatedAt": "2026-08-26T12:32:37.501Z"
 }
