@@ -3,12 +3,16 @@
   "type": "person",
   "name": "虚神天尊分身",
   "aliases": [
-    "紫色雾气老者"
+    "紫色雾气老者",
+    "虚神天尊的分身"
   ],
   "summary": "虚神天尊派来朱雀星战场的分身，以紫色雾气之姿瞬息临场，重创界内数名大能后步步压向朱雀星护星大阵。",
   "attributes": {
     "身份": "虚神天尊的分身",
-    "外貌": "自紫雾中走出的老者"
+    "外貌": "自紫雾中走出的老者",
+    "阵营": "界外",
+    "存殁": "死亡",
+    "死因": "被王林以空门之弓射出的一箭破空洞穿"
   },
   "observations": {
     "身份": [
@@ -23,6 +27,27 @@
         "value": "自紫雾中走出的老者",
         "docId": "plot.xianni-ch1526-1530-six-source-void-gate",
         "seq": 1526
+      }
+    ],
+    "阵营": [
+      {
+        "value": "界外",
+        "docId": "plot.xianni-ch1531-1535-wanking-bone-gate-six-source-gates",
+        "seq": 1531
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch1531-1535-wanking-bone-gate-six-source-gates",
+        "seq": 1531
+      }
+    ],
+    "死因": [
+      {
+        "value": "被王林以空门之弓射出的一箭破空洞穿",
+        "docId": "plot.xianni-ch1531-1535-wanking-bone-gate-six-source-gates",
+        "seq": 1531
       }
     ]
   },
@@ -39,12 +64,31 @@
       "docId": "plot.xianni-ch1526-1530-six-source-void-gate",
       "dated": false,
       "seq": 1526
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1531-1535-wanking-bone-gate-six-source-gates",
+      "dated": false,
+      "seq": 1531
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1531-1535-wanking-bone-gate-six-source-gates",
+      "dated": false,
+      "seq": 1531
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1531-1535-wanking-bone-gate-six-source-gates",
+      "dated": false,
+      "seq": 1531
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1526-1530-six-source-void-gate"
+    "plot.xianni-ch1526-1530-six-source-void-gate",
+    "plot.xianni-ch1531-1535-wanking-bone-gate-six-source-gates"
   ],
-  "updatedAt": "2026-08-26T07:06:29.858Z"
+  "updatedAt": "2026-08-26T07:24:58.053Z"
 }
