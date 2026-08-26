@@ -3,11 +3,13 @@
   "type": "person",
   "name": "云烽子",
   "aliases": [
-    "中年男子云烽子"
+    "中年男子云烽子",
+    "云烽子道友"
   ],
   "summary": "中年男子，与周德一同赶来抵抗风暴。",
   "attributes": {
-    "外貌": "中年男子"
+    "外貌": "中年男子",
+    "身份": "大能"
   },
   "observations": {
     "外貌": [
@@ -15,6 +17,13 @@
         "value": "中年男子",
         "docId": "plot.xianni-ch1513-golden-storm-youming-devours",
         "seq": 1420
+      }
+    ],
+    "身份": [
+      {
+        "value": "大能",
+        "docId": "plot.xianni-1514-mantis-arm-blocks-cart-shuidaozi-crushed",
+        "seq": 1425
       }
     ]
   },
@@ -25,12 +34,19 @@
       "docId": "plot.xianni-ch1513-golden-storm-youming-devours",
       "dated": false,
       "seq": 1420
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-1514-mantis-arm-blocks-cart-shuidaozi-crushed",
+      "dated": false,
+      "seq": 1425
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1513-golden-storm-youming-devours"
+    "plot.xianni-ch1513-golden-storm-youming-devours",
+    "plot.xianni-1514-mantis-arm-blocks-cart-shuidaozi-crushed"
   ],
-  "updatedAt": "2026-08-26T00:46:02.805Z"
+  "updatedAt": "2026-08-26T00:47:57.389Z"
 }
