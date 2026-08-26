@@ -4,11 +4,13 @@
   "name": "召河星域",
   "aliases": [
     "召河",
-    "Zhao He"
+    "Zhao He",
+    "闪界召河"
   ],
   "summary": "电闪之仙界之下的星域。",
   "attributes": {
-    "层次": "仙界之下的星域"
+    "层次": "仙界之下的星域",
+    "特点": "内有恒古漩涡险地，多修真星"
   },
   "observations": {
     "层次": [
@@ -16,6 +18,13 @@
         "value": "仙界之下的星域",
         "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
         "seq": 876
+      }
+    ],
+    "特点": [
+      {
+        "value": "内有恒古漩涡险地，多修真星",
+        "docId": "plot.xianni-1508-shuidaozi-fengjieling-hunt-wanglin",
+        "seq": 1415
       }
     ]
   },
@@ -26,6 +35,12 @@
       "docId": "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
       "dated": false,
       "seq": 876
+    },
+    "特点": {
+      "asOf": null,
+      "docId": "plot.xianni-1508-shuidaozi-fengjieling-hunt-wanglin",
+      "dated": false,
+      "seq": 1415
     }
   },
   "contested": false,
@@ -33,7 +48,8 @@
   "docs": [
     "lore.xianni-ch945-yuangu-xianyu-and-four-immortal-realms-origin",
     "plot.xianni-1196-sima-mo-cave-secret",
-    "plot.xianni-1202-zhong-dao-cangsongzi-slain"
+    "plot.xianni-1202-zhong-dao-cangsongzi-slain",
+    "plot.xianni-1508-shuidaozi-fengjieling-hunt-wanglin"
   ],
-  "updatedAt": "2026-08-25T00:21:16.487Z"
+  "updatedAt": "2026-08-26T00:28:24.961Z"
 }
