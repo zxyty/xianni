@@ -937,3 +937,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T05:55:05.568Z** `ingest` plot.xianni-ch1590-meng-ru-ren-sheng — 第1590章 梦如人生——赵国官道客栈的赶考书生王林 · kind=plot asOf=2026-08-26 entities=16 relations=24 src=01496-01500.p5.md
 - **2026-08-26T05:56:19.663Z** `ingest` plot.xianni-1591-weixing-shi-dream-boat — 第1591章 未醒时：梦中书生王林与乌篷船上的周蕊、徐飞 · kind=plot asOf=2026-08-26 entities=7 relations=11 src=01501-01505.p1.md
 - **2026-08-26T05:58:37.880Z** `ingest` plot.xianni-ch1592-life-is-a-play-who-am-i — 第1592章 人生如戏我是谁——凡人书生王林雨夜孤舟的前世悲恸 · kind=plot asOf=2026-08-26 entities=25 relations=43 src=01501-01505.p2.md
+- **2026-08-26T06:00:21.870Z** `ingest` plot.xianni-ch1593-ancient-temple-rainy-night — 第1593章 古庙夜雨归魂来：凡人王林梦醒赶路，破庙遇疯汉 · kind=plot asOf=2026-08-26 entities=8 relations=13 src=01501-01505.p3.md

@@ -50190,3 +50190,16 @@
 {"s":"ent.event.x-e0bd1c99","p":"involves","o":"ent.person.x-73d2856c","evidence":"plot.xianni-ch1592-life-is-a-play-who-am-i","confidence":0.9,"seq":1501}
 {"s":"ent.person.x-39ca0693","p":"relatedTo","o":"ent.place.x-f7923804","evidence":"plot.xianni-ch1592-life-is-a-play-who-am-i","confidence":0.85,"seq":1501,"note":"催促与师门汇合后前往"}
 {"s":"ent.person.x-da36c616","p":"relatedTo","o":"ent.place.x-f7923804","evidence":"plot.xianni-ch1592-life-is-a-play-who-am-i","confidence":0.85,"seq":1501,"note":"与同门一同赶往"}
+{"s":"ent.place.x-c2240226","p":"locatedIn","o":"ent.place.x-39fcb8b3","evidence":"plot.xianni-ch1593-ancient-temple-rainy-night","confidence":0.95,"seq":1501,"note":"位于赵国官道旁林荫间"}
+{"s":"ent.place.x-10325451","p":"locatedIn","o":"ent.place.x-39fcb8b3","evidence":"plot.xianni-ch1593-ancient-temple-rainy-night","confidence":0.9,"seq":1501}
+{"s":"ent.place.x-c2240226","p":"leadsTo","o":"ent.place.x-10325451","evidence":"plot.xianni-ch1593-ancient-temple-rainy-night","confidence":0.75,"seq":1501,"note":"沿官道再行约一天路程即到县城"}
+{"s":"ent.person.x-73d2856c","p":"possesses","o":"ent.item.x-0b16d330","evidence":"plot.xianni-ch1593-ancient-temple-rainy-night","confidence":0.95,"seq":1501,"note":"凡俗赶路时背负"}
+{"s":"ent.event.x-3d809e81","p":"involves","o":"ent.person.x-73d2856c","evidence":"plot.xianni-ch1593-ancient-temple-rainy-night","confidence":0.95,"seq":1501}
+{"s":"ent.event.x-c6da01af","p":"involves","o":"ent.person.x-73d2856c","evidence":"plot.xianni-ch1593-ancient-temple-rainy-night","confidence":0.95,"seq":1501}
+{"s":"ent.event.x-c6da01af","p":"involves","o":"ent.person.x-8cc5d1b4","evidence":"plot.xianni-ch1593-ancient-temple-rainy-night","confidence":0.95,"seq":1501}
+{"s":"ent.event.x-c6da01af","p":"occursAt","o":"ent.place.x-c2240226","evidence":"plot.xianni-ch1593-ancient-temple-rainy-night","confidence":0.95,"seq":1501}
+{"s":"ent.event.x-3d809e81","p":"occursAt","o":"ent.place.x-39fcb8b3","evidence":"plot.xianni-ch1593-ancient-temple-rainy-night","confidence":0.8,"seq":1501,"note":"赵国官道旁，具体地点未名"}
+{"s":"ent.event.x-3d809e81","p":"precedes","o":"ent.event.x-c6da01af","evidence":"plot.xianni-ch1593-ancient-temple-rainy-night","confidence":0.95,"seq":1501,"note":"相隔七日赶路"}
+{"s":"ent.event.x-3d809e81","p":"causes","o":"ent.event.x-c6da01af","evidence":"plot.xianni-ch1593-ancient-temple-rainy-night","confidence":0.6,"seq":1501,"note":"见仙人后沉默前行，八日后方遇此事，因果为叙事性关联"}
+{"s":"ent.person.x-73d2856c","p":"relatedTo","o":"ent.person.x-8cc5d1b4","evidence":"plot.xianni-ch1593-ancient-temple-rainy-night","confidence":0.85,"seq":1501,"note":"雨夜同庙避雨，「两个似不属于这里的梦魂」相遇"}
+{"s":"ent.person.x-73d2856c","p":"relatedTo","o":"ent.place.x-c2240226","evidence":"plot.xianni-ch1593-ancient-temple-rainy-night","confidence":0.85,"seq":1501,"note":"第1593章于此避雨过夜、拜土地像、生火"}
