@@ -998,3 +998,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T11:13:51.378Z** `ingest` plot.xianni-1671-youmingshou-vs-taigu-huangshen-nine-coffins — 第1671章 是左眼么！——幽冥兽吞噬远古凶兽，界外九棺唤太古皇神 · kind=plot asOf=2026-08-26 entities=21 relations=21 src=01581-01585.p1.md
 - **2026-08-26T11:16:19.274Z** `ingest` plot.xianni-ch1672-guzu-zhanyin — 第1672章 古族战印：九棺合体的道古中年男子与王林生死战约 · kind=plot asOf=2026-08-26 entities=21 relations=35 src=01581-01585.p2.md
 - **2026-08-26T11:18:23.347Z** `ingest` plot.xianni-ch1673-yemo-wuzi-guzu-zhanyin-shengsidou — 第1673章 烨寞无子！——王林与道古「八滴心头血之子」的古族肉身生死斗 · kind=plot asOf=2026-08-26 entities=21 relations=24 src=01581-01585.p3.md
+- **2026-08-26T11:20:19.403Z** `ingest` plot.xianni-1674-si-tian — 第1674章 撕天！——王林化身道古左目对决烨寞之子 · kind=plot asOf=2026-08-26 entities=20 relations=24 src=01581-01585.p4.md

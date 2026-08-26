@@ -8,14 +8,17 @@
     "八星古神保命神通",
     "梦回远古神通",
     "古神保命神通梦回远古",
-    "古神秘术梦回远古"
+    "古神秘术梦回远古",
+    "梦回远古之术",
+    "Dream Return to Ancient Times"
   ],
   "summary": "封存于青光盾内的八星古神保命神通，能将方圆星空化作巨大漩涡，把所有人拖入真实可致死的远古三族大战战场。",
   "attributes": {
-    "类型": "保命神通",
-    "威力": "覆盖整个妖灵之地与外围星空；幻境中的古神、巨鸟可实杀仙人与数百联盟修士",
-    "出处": "青光盾内蕴",
-    "适用境界": "八星古神级别"
+    "类型": "古神神通/幻境召唤",
+    "威力": "以王林当年修为施展已足以轰杀天人衰劫修士",
+    "出处": "青光盾内的古神神通",
+    "适用境界": "八星古神级别",
+    "消耗": "需注入道吉之力"
   },
   "observations": {
     "类型": [
@@ -38,6 +41,11 @@
         "value": "保命神通",
         "docId": "plot.xianni-ch1531-1535-wanking-bone-gate-six-source-gates",
         "seq": 1531
+      },
+      {
+        "value": "古神神通/幻境召唤",
+        "docId": "plot.xianni-1674-si-tian",
+        "seq": 1581
       }
     ],
     "威力": [
@@ -45,6 +53,11 @@
         "value": "覆盖整个妖灵之地与外围星空；幻境中的古神、巨鸟可实杀仙人与数百联盟修士",
         "docId": "plot.xianni-ch1081-meng-hui-yuan-gu",
         "seq": 997
+      },
+      {
+        "value": "以王林当年修为施展已足以轰杀天人衰劫修士",
+        "docId": "plot.xianni-1674-si-tian",
+        "seq": 1581
       }
     ],
     "出处": [
@@ -77,6 +90,11 @@
         "value": "青光盾内蕴",
         "docId": "plot.xianni-ch1531-1535-wanking-bone-gate-six-source-gates",
         "seq": 1531
+      },
+      {
+        "value": "青光盾内的古神神通",
+        "docId": "plot.xianni-1674-si-tian",
+        "seq": 1581
       }
     ],
     "适用境界": [
@@ -85,33 +103,46 @@
         "docId": "plot.xianni-ch1081-meng-hui-yuan-gu",
         "seq": 997
       }
+    ],
+    "消耗": [
+      {
+        "value": "需注入道吉之力",
+        "docId": "plot.xianni-1674-si-tian",
+        "seq": 1581
+      }
     ]
   },
   "firstSeq": 997,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1531-1535-wanking-bone-gate-six-source-gates",
+      "docId": "plot.xianni-1674-si-tian",
       "dated": false,
-      "seq": 1531
+      "seq": 1581
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-ch1081-meng-hui-yuan-gu",
+      "docId": "plot.xianni-1674-si-tian",
       "dated": false,
-      "seq": 997
+      "seq": 1581
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch1531-1535-wanking-bone-gate-six-source-gates",
+      "docId": "plot.xianni-1674-si-tian",
       "dated": false,
-      "seq": 1531
+      "seq": 1581
     },
     "适用境界": {
       "asOf": null,
       "docId": "plot.xianni-ch1081-meng-hui-yuan-gu",
       "dated": false,
       "seq": 997
+    },
+    "消耗": {
+      "asOf": null,
+      "docId": "plot.xianni-1674-si-tian",
+      "dated": false,
+      "seq": 1581
     }
   },
   "contested": false,
@@ -123,7 +154,8 @@
     "plot.xianni-1393-silver-clad-woman-sea-of-consciousness-seven-colored-seal-and-tanlan",
     "lore.xianni-1424-meng-dao-zhong-mo",
     "plot.xianni-ch1554-xuanwu-seven-color-realm",
-    "plot.xianni-ch1531-1535-wanking-bone-gate-six-source-gates"
+    "plot.xianni-ch1531-1535-wanking-bone-gate-six-source-gates",
+    "plot.xianni-1674-si-tian"
   ],
-  "updatedAt": "2026-08-26T07:24:58.124Z"
+  "updatedAt": "2026-08-26T11:20:18.956Z"
 }
