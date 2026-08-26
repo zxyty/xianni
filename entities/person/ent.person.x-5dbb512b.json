@@ -4,12 +4,15 @@
   "name": "七彩之人",
   "aliases": [
     "天空上的七彩之人",
-    "七彩之芒目光"
+    "七彩之芒目光",
+    "t彩之人",
+    "七彩雕像之人"
   ],
   "summary": "贯穿清水一生画面的神秘存在，冷漠目光多次盯着清水，最终伸右手一点使清水疯癫；王林觉其目光如在看镜中的另一个自己。",
   "attributes": {
     "外貌": "七彩之芒所化人形",
-    "标志特征": "冷漠而奇异的目光，多次隐现于天空"
+    "标志特征": "冷漠而奇异的目光，多次隐现于天空",
+    "身份": "在清水体内种下杀戮本源者"
   },
   "observations": {
     "外貌": [
@@ -24,6 +27,14 @@
         "value": "冷漠而奇异的目光，多次隐现于天空",
         "docId": "plot.xianni-ch1556-strange-gaze-qingshui-past-xuanwu",
         "seq": 1466
+      }
+    ],
+    "身份": [
+      {
+        "value": "在清水体内种下杀戮本源者",
+        "docId": "plot.xianni-ch1561-qingshui-zhengdao-qingshang-zengbao",
+        "seq": 1471,
+        "note": "目的不明，疑与轮回有关"
       }
     ]
   },
@@ -40,12 +51,20 @@
       "docId": "plot.xianni-ch1556-strange-gaze-qingshui-past-xuanwu",
       "dated": false,
       "seq": 1466
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1561-qingshui-zhengdao-qingshang-zengbao",
+      "dated": false,
+      "seq": 1471,
+      "note": "目的不明，疑与轮回有关"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1556-strange-gaze-qingshui-past-xuanwu"
+    "plot.xianni-ch1556-strange-gaze-qingshui-past-xuanwu",
+    "plot.xianni-ch1561-qingshui-zhengdao-qingshang-zengbao"
   ],
-  "updatedAt": "2026-08-26T04:00:08.981Z"
+  "updatedAt": "2026-08-26T04:10:35.630Z"
 }
