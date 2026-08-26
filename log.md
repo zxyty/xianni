@@ -974,3 +974,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T08:42:07.979Z** `ingest` plot.xianni-ch1635-master-of-own-destiny — 第1635章 主宰命运：王林轰开九阳、取回己身与亲友命运 · kind=plot asOf=2026-08-26 entities=36 relations=38 src=01541-01545.p5.md
 - **2026-08-26T08:44:25.665Z** `ingest` plot.xianni-1636-healing-crippled-immortal — 第1636章 疗伤的残仙：王林毁尽古之三族雕像，拽出九星古神眉心的残仙 · kind=plot asOf=2026-08-26 entities=22 relations=33 src=01546-01550.p1.md
 - **2026-08-26T08:46:05.021Z** `ingest` plot.xianni-ch1637-ding-kong-shu — 第1637章 定空术：王林生擒仙尊百兵护卫、搜其记忆 · kind=plot asOf=2026-08-26 entities=14 relations=20 src=01546-01550.p2.md
+- **2026-08-26T08:48:19.612Z** `ingest` plot.xianni-ch1638-seal-appears-soul-search-shixian — 第1638章 封印现——搜魂士仙遇仙尊七彩封印 · kind=plot asOf=2026-08-26 entities=17 relations=27 src=01546-01550.p3.md
