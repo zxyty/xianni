@@ -14,10 +14,11 @@
   "attributes": {
     "存殁": "死亡",
     "死因": "被疯癫中的清水亲手杀死",
-    "结局": "遗言劝清水不要自弃一生，要找出一切的原因",
+    "结局": "魂魄被清水化作心口印记随身携带",
     "标志特征": "头戴清水灭界取回的古朴钗子",
     "身份": "清水仙君之妻",
-    "外貌": "含笑而悲、如烟丝般虚幻的残魂"
+    "外貌": "含笑而悲、如烟丝般虚幻的残魂",
+    "性别": "女"
   },
   "observations": {
     "存殁": [
@@ -44,6 +45,11 @@
         "value": "遗言劝清水不要自弃一生，要找出一切的原因",
         "docId": "plot.xianni-ch953-chaizi-qingshui-shanbeng-shayujie-destroyed",
         "seq": 885
+      },
+      {
+        "value": "魂魄被清水化作心口印记随身携带",
+        "docId": "plot.xianni-ch1562-zhao-he-qingshui-killing-origin",
+        "seq": 1471
       }
     ],
     "标志特征": [
@@ -72,6 +78,13 @@
         "seq": 1471,
         "note": "空之大门出现时幻化的虚弱投影"
       }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.xianni-ch1562-zhao-he-qingshui-killing-origin",
+        "seq": 1471
+      }
     ]
   },
   "firstSeq": 885,
@@ -90,9 +103,9 @@
     },
     "结局": {
       "asOf": null,
-      "docId": "plot.xianni-ch953-chaizi-qingshui-shanbeng-shayujie-destroyed",
+      "docId": "plot.xianni-ch1562-zhao-he-qingshui-killing-origin",
       "dated": false,
-      "seq": 885
+      "seq": 1471
     },
     "标志特征": {
       "asOf": null,
@@ -112,6 +125,12 @@
       "dated": false,
       "seq": 1471,
       "note": "空之大门出现时幻化的虚弱投影"
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1562-zhao-he-qingshui-killing-origin",
+      "dated": false,
+      "seq": 1471
     }
   },
   "contested": false,
@@ -119,7 +138,8 @@
   "docs": [
     "plot.xianni-ch953-chaizi-qingshui-shanbeng-shayujie-destroyed",
     "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
-    "plot.xianni-ch1561-qingshui-zhengdao-qingshang-zengbao"
+    "plot.xianni-ch1561-qingshui-zhengdao-qingshang-zengbao",
+    "plot.xianni-ch1562-zhao-he-qingshui-killing-origin"
   ],
-  "updatedAt": "2026-08-26T04:10:35.627Z"
+  "updatedAt": "2026-08-26T04:17:39.271Z"
 }

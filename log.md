@@ -906,3 +906,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T04:06:37.388Z** `ingest` plot.xianni-ch1559-wang-lin-pulls-seals-frees-qingshui — 第1559章 谢谢……——王林拔除清水第五至第八根封刺，携道果与清水离开七彩界 · kind=plot asOf=2026-08-26 entities=17 relations=27 src=01466-01470.p4.md
 - **2026-08-26T04:08:05.557Z** `ingest` plot.xianni-ch1560-fierce-wine-last-thorn — 第1560章 烈酒！——王林拔第九、第十根利刺，清水破封现空之大门 · kind=plot asOf=2026-08-26 entities=11 relations=12 src=01466-01470.p5.md
 - **2026-08-26T04:10:36.116Z** `ingest` plot.xianni-ch1561-qingshui-zhengdao-qingshang-zengbao — 第1561章 情殇、赠宝！——清水一剑轰开空之大门，含烟残魂重现，赠王林杀戮本源黑剑 · kind=plot asOf=2026-08-26 entities=30 relations=39 src=01471-01475.p1.md
+- **2026-08-26T04:17:39.780Z** `ingest` plot.xianni-ch1562-zhao-he-qingshui-killing-origin — 第1562章 召河：清水赠杀戮之剑，与王林蛮荒星共饮立誓 · kind=plot asOf=2026-08-26 entities=40 relations=63 src=01471-01475.p2.md

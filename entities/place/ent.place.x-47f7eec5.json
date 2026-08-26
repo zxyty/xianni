@@ -3,13 +3,16 @@
   "type": "place",
   "name": "召河七彩界",
   "aliases": [
-    "召河的七彩界"
+    "召河的七彩界",
+    "最后一个七彩界"
   ],
   "summary": "五处七彩界之一，红杉子被封印困于其中，被三万界外修士镇压。",
   "attributes": {
-    "类型": "秘境/囚牢",
+    "类型": "秘境/封印之地",
     "上级区域": "召河",
-    "守护": "三万界外修士镇压"
+    "守护": "红杉子本尊封印",
+    "方位": "召河深处",
+    "规模": "数块漂浮大陆，仅余三块"
   },
   "observations": {
     "类型": [
@@ -17,6 +20,11 @@
         "value": "秘境/囚牢",
         "docId": "plot.xianni-ch1547-decades-of-change",
         "seq": 1453
+      },
+      {
+        "value": "秘境/封印之地",
+        "docId": "plot.xianni-ch1562-zhao-he-qingshui-killing-origin",
+        "seq": 1471
       }
     ],
     "上级区域": [
@@ -31,6 +39,26 @@
         "value": "三万界外修士镇压",
         "docId": "plot.xianni-ch1547-decades-of-change",
         "seq": 1453
+      },
+      {
+        "value": "红杉子本尊封印",
+        "docId": "plot.xianni-ch1562-zhao-he-qingshui-killing-origin",
+        "seq": 1471
+      }
+    ],
+    "方位": [
+      {
+        "value": "召河深处",
+        "docId": "plot.xianni-ch1562-zhao-he-qingshui-killing-origin",
+        "seq": 1471
+      }
+    ],
+    "规模": [
+      {
+        "value": "数块漂浮大陆，仅余三块",
+        "docId": "plot.xianni-ch1562-zhao-he-qingshui-killing-origin",
+        "seq": 1471,
+        "note": "本片段大陆多已崩溃"
       }
     ]
   },
@@ -38,9 +66,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1547-decades-of-change",
+      "docId": "plot.xianni-ch1562-zhao-he-qingshui-killing-origin",
       "dated": false,
-      "seq": 1453
+      "seq": 1471
     },
     "上级区域": {
       "asOf": null,
@@ -50,15 +78,29 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch1547-decades-of-change",
+      "docId": "plot.xianni-ch1562-zhao-he-qingshui-killing-origin",
       "dated": false,
-      "seq": 1453
+      "seq": 1471
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1562-zhao-he-qingshui-killing-origin",
+      "dated": false,
+      "seq": 1471
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1562-zhao-he-qingshui-killing-origin",
+      "dated": false,
+      "seq": 1471,
+      "note": "本片段大陆多已崩溃"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1547-decades-of-change"
+    "plot.xianni-ch1547-decades-of-change",
+    "plot.xianni-ch1562-zhao-he-qingshui-killing-origin"
   ],
-  "updatedAt": "2026-08-26T02:55:01.774Z"
+  "updatedAt": "2026-08-26T04:17:39.340Z"
 }
