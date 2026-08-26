@@ -10,7 +10,9 @@
     "苏先生",
     "苏城大儒",
     "先生",
-    "苏道大儒"
+    "苏道大儒",
+    "苏儒",
+    "苏道先生"
   ],
   "summary": "赵国大儒，苏城因其得名，使苏城成为赵国文墨之都。",
   "attributes": {
@@ -24,7 +26,7 @@
     "寿元": "收王林为门生时八十三岁",
     "存殁": "死亡",
     "死因": "年老病衰、寿终正寝（归墟）",
-    "结局": "第十七年冬葬于苏山，半月后坟立于故人孤坟旁"
+    "结局": "第十七年冬葬于苏山，半月后坟立于故人孤坟旁、已死，赵国皇帝以其为鉴欲杀王林"
   },
   "observations": {
     "身份": [
@@ -128,7 +130,8 @@
       {
         "value": "死亡",
         "docId": "plot.xianni-1601-family-letter-su-dao-death",
-        "seq": 1511
+        "seq": 1511,
+        "note": "本章仅追述其已死"
       }
     ],
     "死因": [
@@ -142,6 +145,11 @@
       {
         "value": "第十七年冬葬于苏山，半月后坟立于故人孤坟旁",
         "docId": "plot.xianni-1601-family-letter-su-dao-death",
+        "seq": 1511
+      },
+      {
+        "value": "已死，赵国皇帝以其为鉴欲杀王林",
+        "docId": "plot.xianni-ch1602-you-dare-scholar-lecture-ten-years",
         "seq": 1511
       }
     ]
@@ -201,7 +209,8 @@
       "asOf": null,
       "docId": "plot.xianni-1601-family-letter-su-dao-death",
       "dated": false,
-      "seq": 1511
+      "seq": 1511,
+      "note": "本章仅追述其已死"
     },
     "死因": {
       "asOf": null,
@@ -223,7 +232,8 @@
     "plot.xianni-ch1598-a-date-suzhou-osmanthus-wine",
     "plot.xianni-ch1599-su-dao-yin-guo",
     "plot.xianni-ch1600-ten-years-su-dao-catkins-karma",
-    "plot.xianni-1601-family-letter-su-dao-death"
+    "plot.xianni-1601-family-letter-su-dao-death",
+    "plot.xianni-ch1602-you-dare-scholar-lecture-ten-years"
   ],
-  "updatedAt": "2026-08-26T06:16:42.954Z"
+  "updatedAt": "2026-08-26T06:18:38.662Z"
 }

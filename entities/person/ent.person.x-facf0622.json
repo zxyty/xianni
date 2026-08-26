@@ -4,12 +4,16 @@
   "name": "赵国皇帝",
   "aliases": [
     "赵国国君",
-    "皇帝"
+    "皇帝",
+    "朕",
+    "酒楼中的中年人"
   ],
   "summary": "三年内连下九道圣旨召王林入京做帝师，同时是质疑王林不配称儒的主要推手。",
   "attributes": {
-    "身份": "赵国国君",
-    "阵营": "质疑王林一方"
+    "身份": "赵国国君、赵国皇帝",
+    "阵营": "质疑王林一方、敌视王林",
+    "外貌": "华服中年人，不怒自威",
+    "性格": "阴沉、忌惮大儒"
   },
   "observations": {
     "身份": [
@@ -17,12 +21,36 @@
         "value": "赵国国君",
         "docId": "plot.xianni-1601-family-letter-su-dao-death",
         "seq": 1511
+      },
+      {
+        "value": "赵国皇帝",
+        "docId": "plot.xianni-ch1602-you-dare-scholar-lecture-ten-years",
+        "seq": 1511
       }
     ],
     "阵营": [
       {
         "value": "质疑王林一方",
         "docId": "plot.xianni-1601-family-letter-su-dao-death",
+        "seq": 1511
+      },
+      {
+        "value": "敌视王林",
+        "docId": "plot.xianni-ch1602-you-dare-scholar-lecture-ten-years",
+        "seq": 1511
+      }
+    ],
+    "外貌": [
+      {
+        "value": "华服中年人，不怒自威",
+        "docId": "plot.xianni-ch1602-you-dare-scholar-lecture-ten-years",
+        "seq": 1511
+      }
+    ],
+    "性格": [
+      {
+        "value": "阴沉、忌惮大儒",
+        "docId": "plot.xianni-ch1602-you-dare-scholar-lecture-ten-years",
         "seq": 1511
       }
     ]
@@ -40,12 +68,25 @@
       "docId": "plot.xianni-1601-family-letter-su-dao-death",
       "dated": false,
       "seq": 1511
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1602-you-dare-scholar-lecture-ten-years",
+      "dated": false,
+      "seq": 1511
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1602-you-dare-scholar-lecture-ten-years",
+      "dated": false,
+      "seq": 1511
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1601-family-letter-su-dao-death"
+    "plot.xianni-1601-family-letter-su-dao-death",
+    "plot.xianni-ch1602-you-dare-scholar-lecture-ten-years"
   ],
-  "updatedAt": "2026-08-26T06:16:42.958Z"
+  "updatedAt": "2026-08-26T06:18:38.665Z"
 }

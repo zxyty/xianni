@@ -6,15 +6,19 @@
     "苏道的门府",
     "苏道府邸",
     "苏城府邸",
-    "王林府邸"
+    "王林府邸",
+    "苏府",
+    "往日苏道府邸"
   ],
   "summary": "位于苏城的宅院，不大而典雅幽静，内有庭院与亭榭；王林与大福在此居住十年。",
   "attributes": {
     "所属势力": "苏道",
     "上级区域": "苏城",
-    "类型": "宅邸",
+    "类型": "宅院、宅邸、府邸",
     "规模": "不大，典雅幽静",
-    "方位": "苏城内"
+    "方位": "苏城内",
+    "所属界面": "凡人界·赵国",
+    "守护": "仆从（如大福）"
   },
   "observations": {
     "所属势力": [
@@ -41,6 +45,11 @@
         "value": "宅邸",
         "docId": "plot.xianni-1601-family-letter-su-dao-death",
         "seq": 1511
+      },
+      {
+        "value": "府邸",
+        "docId": "plot.xianni-ch1602-you-dare-scholar-lecture-ten-years",
+        "seq": 1511
       }
     ],
     "规模": [
@@ -54,6 +63,20 @@
       {
         "value": "苏城内",
         "docId": "plot.xianni-1601-family-letter-su-dao-death",
+        "seq": 1511
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "凡人界·赵国",
+        "docId": "plot.xianni-ch1602-you-dare-scholar-lecture-ten-years",
+        "seq": 1511
+      }
+    ],
+    "守护": [
+      {
+        "value": "仆从（如大福）",
+        "docId": "plot.xianni-ch1602-you-dare-scholar-lecture-ten-years",
         "seq": 1511
       }
     ]
@@ -74,9 +97,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1601-family-letter-su-dao-death",
+      "docId": "plot.xianni-ch1600-ten-years-su-dao-catkins-karma",
       "dated": false,
-      "seq": 1511
+      "seq": 1506
     },
     "规模": {
       "asOf": null,
@@ -89,13 +112,26 @@
       "docId": "plot.xianni-1601-family-letter-su-dao-death",
       "dated": false,
       "seq": 1511
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1602-you-dare-scholar-lecture-ten-years",
+      "dated": false,
+      "seq": 1511
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1602-you-dare-scholar-lecture-ten-years",
+      "dated": false,
+      "seq": 1511
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1600-ten-years-su-dao-catkins-karma",
-    "plot.xianni-1601-family-letter-su-dao-death"
+    "plot.xianni-1601-family-letter-su-dao-death",
+    "plot.xianni-ch1602-you-dare-scholar-lecture-ten-years"
   ],
-  "updatedAt": "2026-08-26T06:16:42.965Z"
+  "updatedAt": "2026-08-26T06:18:38.670Z"
 }
