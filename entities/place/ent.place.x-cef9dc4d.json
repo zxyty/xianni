@@ -19,16 +19,18 @@
     "洞府深坑",
     "深坑之下",
     "无底深坑",
-    "古神头颅所在深坑"
+    "古神头颅所在深坑",
+    "被砸出的深坑"
   ],
   "summary": "进入仙遗之地的巨大深坑，本尊打出上千裂缝后抵此，低头一看便转向他处。",
   "attributes": {
     "上级区域": "仙帝洞府",
-    "类型": "洞府禁地/深坑",
+    "类型": "战场遗迹",
     "方位": "仙帝洞府内、当年葬仙池下方",
     "守护": "坑底不明吸力来源",
     "危险度": "极高（森森寒气、无尽黑暗，神识无法查看）",
-    "特产": "冰剑、冰封尸体、冰封古神头颅"
+    "特产": "冰剑、冰封尸体、冰封古神头颅",
+    "所属界面": "洞府界"
   },
   "observations": {
     "上级区域": [
@@ -83,6 +85,11 @@
         "value": "洞府禁地/深坑",
         "docId": "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu",
         "seq": 960
+      },
+      {
+        "value": "战场遗迹",
+        "docId": "plot.xianni-ch1637-ding-kong-shu",
+        "seq": 1546
       }
     ],
     "方位": [
@@ -153,6 +160,13 @@
         "docId": "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu",
         "seq": 960
       }
+    ],
+    "所属界面": [
+      {
+        "value": "洞府界",
+        "docId": "plot.xianni-ch1637-ding-kong-shu",
+        "seq": 1546
+      }
     ]
   },
   "firstSeq": 332,
@@ -165,9 +179,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu",
+      "docId": "plot.xianni-ch1637-ding-kong-shu",
       "dated": false,
-      "seq": 960
+      "seq": 1546
     },
     "方位": {
       "asOf": null,
@@ -192,6 +206,12 @@
       "docId": "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu",
       "dated": false,
       "seq": 960
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1637-ding-kong-shu",
+      "dated": false,
+      "seq": 1546
     }
   },
   "contested": false,
@@ -205,7 +225,8 @@
     "plot.xianni-ch659-liqu-yaoling-laoguai-ruzhen-wangwei-jiaochu-tanlang",
     "plot.xianni-1029-niao-san-qiuyao-zangxianchi-tongguiyujin",
     "plot.xianni-1041-shen-keng-zhi-xia-gu-shen-tou-lu",
-    "plot.xianni-1044-confusion-immortal-emperor-cave-bamboo-forest"
+    "plot.xianni-1044-confusion-immortal-emperor-cave-bamboo-forest",
+    "plot.xianni-ch1637-ding-kong-shu"
   ],
-  "updatedAt": "2026-08-24T09:08:49.104Z"
+  "updatedAt": "2026-08-26T08:46:04.581Z"
 }
