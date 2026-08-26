@@ -967,3 +967,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T08:27:21.605Z** `ingest` plot.xianni-ch1628-huanzhen-jie-tianjie-shizhe-po — 第1628章 幻真劫：王林因果印碎祭坛，生死大印灭天劫使者 · kind=plot asOf=2026-08-26 entities=35 relations=49 src=01536-01540.p3.md
 - **2026-08-26T08:29:59.565Z** `ingest` plot.xianni-1629-bukan-yiji-tianjie-fuchen-baota — 第1629章 不堪一击：三千拂尘与镇仙宝塔天劫，王林化古神破塔 · kind=plot asOf=2026-08-26 entities=26 relations=34 src=01536-01540.p4.md
 - **2026-08-26T08:32:05.866Z** `ingest` plot.xianni-ch1630-feng-ming-huan — 第1630章 封命环——王林三拳破塔、以身受封推衍第三宝 · kind=plot asOf=2026-08-26 entities=18 relations=23 src=01536-01540.p5.md
+- **2026-08-26T08:34:15.635Z** `ingest` plot.xianni-1631-yuangu-xianyu-tianjie-guardians — 仙逆 第1631章 远古仙域：王林闭目退古神古魔古妖、收服金色光环，踏入裂缝遇「另一个自己」 · kind=plot asOf=2026-08-26 entities=22 relations=32 src=01541-01545.p1.md

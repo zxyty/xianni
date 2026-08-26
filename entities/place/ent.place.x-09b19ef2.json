@@ -2,10 +2,12 @@
   "id": "ent.place.x-09b19ef2",
   "type": "place",
   "name": "内府",
-  "aliases": [],
+  "aliases": [
+    "内府之地"
+  ],
   "summary": "战老鬼提及之地：当年掌尊被一吼之力赶出，并被警告若再踏入内府半步必死无疑。",
   "attributes": {
-    "类型": "禁地/圣地",
+    "类型": "势力辖域/区域",
     "危险度": "掌尊踏入半步必死"
   },
   "observations": {
@@ -14,6 +16,11 @@
         "value": "禁地/圣地",
         "docId": "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
         "seq": 1439
+      },
+      {
+        "value": "势力辖域/区域",
+        "docId": "plot.xianni-1631-yuangu-xianyu-tianjie-guardians",
+        "seq": 1541
       }
     ],
     "危险度": [
@@ -28,9 +35,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
+      "docId": "plot.xianni-1631-yuangu-xianyu-tianjie-guardians",
       "dated": false,
-      "seq": 1439
+      "seq": 1541
     },
     "危险度": {
       "asOf": null,
@@ -42,7 +49,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun"
+    "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
+    "plot.xianni-1631-yuangu-xianyu-tianjie-guardians"
   ],
-  "updatedAt": "2026-08-26T01:51:33.470Z"
+  "updatedAt": "2026-08-26T08:34:15.225Z"
 }
