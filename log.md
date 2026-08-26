@@ -1004,3 +1004,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T11:31:45.929Z** `ingest` plot.xianni-ch1677-second-year-six-months-hongdie-departs — 第1677章 第二年又六月：红蝶告别与王林的真假之惑 · kind=plot asOf=2026-08-26 entities=35 relations=54 src=01586-01590.p2.md
 - **2026-08-26T11:34:05.783Z** `ingest` plot.xianni-ch1678-accept-li-qianmei — 第1678章 还是接受吧：蓝梦道尊逼诺、王林毁画接纳李倩梅 · kind=plot asOf=2026-08-26 entities=23 relations=38 src=01586-01590.p3.md
 - **2026-08-26T11:36:55.681Z** `ingest` plot.xianni-ch1679-mosquito-beast-reunion — 第1679章 蚊兽重逢：李倩梅随父归蓝丝族、木冰眉辞别，王林分身赴风仙界 · kind=plot asOf=2026-08-26 entities=34 relations=41 src=01586-01590.p4.md
+- **2026-08-26T11:38:52.503Z** `ingest` plot.xianni-ch1680-unexpected-discovery-wind-immortal-realm-rift — 第1680章 意外的发现：风仙界重逢蚊王、三指杀兽之谜与裂缝内的蚊卵世界 · kind=plot asOf=2026-08-26 entities=9 relations=13 src=01586-01590.p5.md
