@@ -900,3 +900,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T03:52:29.728Z** `ingest` plot.xianni-ch1553-zhongxuanzi-longpanzi-atonement — 仙逆 第1553章 重玄子——龙磐子燃神代徒偿罪，七彩界裂缝重开 · kind=plot asOf=2026-08-26 entities=24 relations=44 src=01462-01465.p2.md
 - **2026-08-26T03:55:07.287Z** `ingest` plot.xianni-ch1554-xuanwu-seven-color-realm — 仙逆 第1554章 玄武：炎雷子与重玄子的血仇、王林独入七彩界见十万大山与石化玄武 · kind=plot asOf=2026-08-26 entities=22 relations=32 src=01462-01465.p3.md
 - **2026-08-26T03:57:23.217Z** `ingest` plot.xianni-ch1555-qingshui-shilingwushan-yangdao — 第1555章 清水！——十万大山养道，清水为杀戮本源炉鼎 · kind=plot asOf=2026-08-26 entities=15 relations=24 src=01462-01465.p4.md
+- **2026-08-26T04:00:09.369Z** `ingest` plot.xianni-ch1556-strange-gaze-qingshui-past-xuanwu — 第1556章 古怪的目光：清水往事循环与王林轰击石化玄武 · kind=plot asOf=2026-08-26 entities=21 relations=33 src=01466-01470.p1.md
