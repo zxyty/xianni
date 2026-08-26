@@ -947,3 +947,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T06:14:40.874Z** `ingest` plot.xianni-ch1600-ten-years-su-dao-catkins-karma — 第1600章 十年：拜苏道为关门门生，柳絮即因果 · kind=plot asOf=2026-08-26 entities=17 relations=29 src=01506-01510.p5.md
 - **2026-08-26T06:16:43.424Z** `ingest` plot.xianni-1601-family-letter-su-dao-death — 第1601章 家书：苏道归墟与王林十年讲学之誓 · kind=plot asOf=2026-08-26 entities=20 relations=29 src=01511-01515.p1.md
 - **2026-08-26T06:18:39.104Z** `ingest` plot.xianni-ch1602-you-dare-scholar-lecture-ten-years — 第1602章 你敢！——王林苏城讲学十年，浩然之气震退仙人 · kind=plot asOf=2026-08-26 entities=15 relations=25 src=01511-01515.p2.md
+- **2026-08-26T06:20:34.975Z** `ingest` plot.xianni-ch1603-home-at-hengyue-mountain — 第1603章 家在恒岳山下：凡人惊仙，苏城二十八年终别 · kind=plot asOf=2026-08-26 entities=15 relations=24 src=01511-01515.p3.md
