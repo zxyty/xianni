@@ -4,13 +4,15 @@
   "name": "第五妃",
   "aliases": [
     "仙尊第五妃",
-    "五姐"
+    "五姐",
+    "蓝梦道尊之妻（被夺舍后）"
   ],
   "summary": "仙尊八妃之一，被王林封镇于天皇炉中无法被完全炼化；紫霞索要未果。",
   "attributes": {
     "性别": "女",
-    "身份": "七彩仙尊第五妃",
-    "存殁": "被封镇"
+    "身份": "仙尊八妃之一",
+    "存殁": "被封印于炉内",
+    "标志特征": "只有魂体，无肉身"
   },
   "observations": {
     "性别": [
@@ -25,6 +27,11 @@
         "value": "七彩仙尊第五妃",
         "docId": "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
         "seq": 1571
+      },
+      {
+        "value": "仙尊八妃之一",
+        "docId": "plot.xianni-ch1677-second-year-six-months-hongdie-departs",
+        "seq": 1586
       }
     ],
     "存殁": [
@@ -33,6 +40,19 @@
         "docId": "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
         "seq": 1571,
         "note": "镇于天皇炉中，未被完全炼化"
+      },
+      {
+        "value": "被封印于炉内",
+        "docId": "plot.xianni-ch1677-second-year-six-months-hongdie-departs",
+        "seq": 1586,
+        "note": "由王林封印，蓝梦道尊视为解脱"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "只有魂体，无肉身",
+        "docId": "plot.xianni-ch1677-second-year-six-months-hongdie-departs",
+        "seq": 1586
       }
     ]
   },
@@ -46,22 +66,29 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
+      "docId": "plot.xianni-ch1677-second-year-six-months-hongdie-departs",
       "dated": false,
-      "seq": 1571
+      "seq": 1586
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
+      "docId": "plot.xianni-ch1677-second-year-six-months-hongdie-departs",
       "dated": false,
-      "seq": 1571,
-      "note": "镇于天皇炉中，未被完全炼化"
+      "seq": 1586,
+      "note": "由王林封印，蓝梦道尊视为解脱"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1677-second-year-six-months-hongdie-departs",
+      "dated": false,
+      "seq": 1586
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei"
+    "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
+    "plot.xianni-ch1677-second-year-six-months-hongdie-departs"
   ],
-  "updatedAt": "2026-08-26T10:14:37.403Z"
+  "updatedAt": "2026-08-26T11:31:45.471Z"
 }

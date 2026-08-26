@@ -1,18 +1,18 @@
 {
-  "id": "ent.formation.x-d5a991d5",
-  "type": "formation",
-  "name": "幻真大阵",
+  "id": "ent.place.x-8c30e405",
+  "type": "place",
+  "name": "古之基地",
   "aliases": [
-    "幻真阵"
+    "古之基地内"
   ],
-  "summary": "蓝梦道尊曾于其中对王林出手之处，本章由其自陈动机。",
+  "summary": "王林早前困住妙音道尊、九天魔尊、大荒上人三人之地，三人被掌尊自此救出。",
   "attributes": {
-    "效果": "构成王林的一场杀劫"
+    "类型": "远古遗留基地"
   },
   "observations": {
-    "效果": [
+    "类型": [
       {
-        "value": "构成王林的一场杀劫",
+        "value": "远古遗留基地",
         "docId": "plot.xianni-ch1677-second-year-six-months-hongdie-departs",
         "seq": 1586
       }
@@ -20,7 +20,7 @@
   },
   "firstSeq": 1586,
   "attrProvenance": {
-    "效果": {
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-ch1677-second-year-six-months-hongdie-departs",
       "dated": false,
@@ -30,8 +30,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1676-qingshou-de-li-qianmei",
     "plot.xianni-ch1677-second-year-six-months-hongdie-departs"
   ],
-  "updatedAt": "2026-08-26T11:31:45.497Z"
+  "updatedAt": "2026-08-26T11:31:45.495Z"
 }

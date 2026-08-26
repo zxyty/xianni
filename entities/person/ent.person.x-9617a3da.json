@@ -4,14 +4,17 @@
   "name": "梦儿",
   "aliases": [
     "蓝梦道尊之妻",
-    "云梦族梦儿"
+    "云梦族梦儿",
+    "蓝梦的妻子",
+    "被第五妃夺舍者"
   ],
   "summary": "蓝梦道尊亡妻，出自云梦族，手镯福佑传承自其族。",
   "attributes": {
     "性别": "女",
     "种族": "云梦族",
     "身份": "蓝梦道尊之妻",
-    "存殁": "不明"
+    "存殁": "魂存于被夺舍之躯并遭封印",
+    "标志特征": "魂与第五妃之魂完美融合、不可分离"
   },
   "observations": {
     "性别": [
@@ -46,6 +49,19 @@
         "docId": "plot.xianni-ch1405-fusheng-ruomeng-diandluo-shaodi-trial-first-incense",
         "seq": 1312,
         "note": "当年似死似走，成为陌生人"
+      },
+      {
+        "value": "魂存于被夺舍之躯并遭封印",
+        "docId": "plot.xianni-ch1677-second-year-six-months-hongdie-departs",
+        "seq": 1586,
+        "note": "肉身为第五妃所占"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "魂与第五妃之魂完美融合、不可分离",
+        "docId": "plot.xianni-ch1677-second-year-six-months-hongdie-departs",
+        "seq": 1586
       }
     ]
   },
@@ -71,17 +87,24 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch1405-fusheng-ruomeng-diandluo-shaodi-trial-first-incense",
+      "docId": "plot.xianni-ch1677-second-year-six-months-hongdie-departs",
       "dated": false,
-      "seq": 1312,
-      "note": "当年似死似走，成为陌生人"
+      "seq": 1586,
+      "note": "肉身为第五妃所占"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1677-second-year-six-months-hongdie-departs",
+      "dated": false,
+      "seq": 1586
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1142-1145-seven-colored-realm-palm-strike",
-    "plot.xianni-ch1405-fusheng-ruomeng-diandluo-shaodi-trial-first-incense"
+    "plot.xianni-ch1405-fusheng-ruomeng-diandluo-shaodi-trial-first-incense",
+    "plot.xianni-ch1677-second-year-six-months-hongdie-departs"
   ],
-  "updatedAt": "2026-08-25T16:43:41.540Z"
+  "updatedAt": "2026-08-26T11:31:45.473Z"
 }
