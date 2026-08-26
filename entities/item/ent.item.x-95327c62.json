@@ -4,12 +4,13 @@
   "name": "金色手印",
   "aliases": [
     "右腕金光手印",
-    "无形之手的印记"
+    "无形之手的印记",
+    "大福腕上的金色手印"
   ],
   "summary": "疯子右手腕上的模糊手印，仅在黑暗中透出微弱金光，似有无形之手曾抓住其手腕留下；天明即恢复原状不可见。",
   "attributes": {
-    "类型": "身上印记",
-    "用途": "疯子据以寻找「那个人」的唯一线索"
+    "类型": "印记",
+    "用途": "守候凭证/联系印记"
   },
   "observations": {
     "类型": [
@@ -17,6 +18,11 @@
         "value": "身上印记",
         "docId": "plot.xianni-ch1594-huishou-yiwang-lunhui-zai",
         "seq": 1501
+      },
+      {
+        "value": "印记",
+        "docId": "plot.xianni-ch1612-yu-ji-yi-hui-meeting-oneself",
+        "seq": 1521
       }
     ],
     "用途": [
@@ -24,6 +30,11 @@
         "value": "疯子据以寻找「那个人」的唯一线索",
         "docId": "plot.xianni-ch1594-huishou-yiwang-lunhui-zai",
         "seq": 1501
+      },
+      {
+        "value": "守候凭证/联系印记",
+        "docId": "plot.xianni-ch1612-yu-ji-yi-hui-meeting-oneself",
+        "seq": 1521
       }
     ]
   },
@@ -31,21 +42,22 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1594-huishou-yiwang-lunhui-zai",
+      "docId": "plot.xianni-ch1612-yu-ji-yi-hui-meeting-oneself",
       "dated": false,
-      "seq": 1501
+      "seq": 1521
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch1594-huishou-yiwang-lunhui-zai",
+      "docId": "plot.xianni-ch1612-yu-ji-yi-hui-meeting-oneself",
       "dated": false,
-      "seq": 1501
+      "seq": 1521
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1594-huishou-yiwang-lunhui-zai"
+    "plot.xianni-ch1594-huishou-yiwang-lunhui-zai",
+    "plot.xianni-ch1612-yu-ji-yi-hui-meeting-oneself"
   ],
-  "updatedAt": "2026-08-26T06:02:04.761Z"
+  "updatedAt": "2026-08-26T06:40:30.564Z"
 }
