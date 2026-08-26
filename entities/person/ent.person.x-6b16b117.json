@@ -13,14 +13,15 @@
   ],
   "summary": "长尊会中人，神通可推算他人所在，已算出王林在这片星域内，不久即可算出具体位置。",
   "attributes": {
-    "身份": "长尊会大司、擅推算者、推算者、长尊会·大司、大司、大司／推算者、第三步大能、云落大司",
+    "身份": "长尊会大司、擅推算者、推算者、长尊会·大司、大司、大司／推算者、第三步大能、云落大司、此战中枢、大司（推演/主策者）",
     "称号": "大司",
-    "阵营": "太古星辰一方",
+    "阵营": "长尊会、太古星辰一方、界外太古星辰、界外太古星辰一方",
     "性别": "女",
-    "外貌": "长发披肩，秀眉紧皱、面色惨白、身子颤抖、面色之白如同死人",
+    "外貌": "长发披肩，秀眉紧皱、面色惨白、身子颤抖、面色之白如同死人、身穿云纱、青丝弥漫、绝美螓首",
     "存殁": "在世",
     "标志特征": "曾见到关于王林的未来画面",
-    "结局": "预言中被模糊背影一掌拍成灰、元神灭亡"
+    "结局": "预言中被模糊背影一掌拍成灰、元神灭亡",
+    "性格": "谨慎、有担忧之色"
   },
   "observations": {
     "身份": [
@@ -63,6 +64,16 @@
         "value": "云落大司",
         "docId": "plot.xianni-1419-lai-yidai-zhuque-jiuse-yumao-tianfangxiang-liwei",
         "seq": 1326
+      },
+      {
+        "value": "此战中枢",
+        "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
+        "seq": 1425
+      },
+      {
+        "value": "大司（推演/主策者）",
+        "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
+        "seq": 1425
       }
     ],
     "称号": [
@@ -82,6 +93,16 @@
         "value": "太古星辰一方",
         "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
         "seq": 1288
+      },
+      {
+        "value": "界外太古星辰",
+        "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
+        "seq": 1425
+      },
+      {
+        "value": "界外太古星辰一方",
+        "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
+        "seq": 1425
       }
     ],
     "性别": [
@@ -108,6 +129,11 @@
         "docId": "plot.xianni-1415-gu-zhi-mu-di-kai",
         "seq": 1321,
         "note": "受惊时"
+      },
+      {
+        "value": "身穿云纱、青丝弥漫、绝美螓首",
+        "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
+        "seq": 1425
       }
     ],
     "存殁": [
@@ -147,6 +173,13 @@
         "seq": 1321,
         "note": "仅为其所见虚幻画面，非本章实况"
       }
+    ],
+    "性格": [
+      {
+        "value": "谨慎、有担忧之色",
+        "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
+        "seq": 1425
+      }
     ]
   },
   "firstSeq": 1280,
@@ -165,9 +198,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch1375-first-encounter-fire-sparrow",
+      "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
       "dated": false,
-      "seq": 1288
+      "seq": 1280
     },
     "性别": {
       "asOf": null,
@@ -199,6 +232,12 @@
       "dated": false,
       "seq": 1321,
       "note": "仅为其所见虚幻画面，非本章实况"
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
+      "dated": false,
+      "seq": 1425
     }
   },
   "contested": false,
@@ -223,7 +262,8 @@
     "plot.xianni-ch1420-challenge-third-step-simozi-battle",
     "plot.xianni-1422-feng-xianghuo-jie",
     "plot.xianni-ch1426-jiang-li-liujinbiao-captured-huoquezu",
-    "plot.xianni-1434-fengtianlang-pursuit"
+    "plot.xianni-1434-fengtianlang-pursuit",
+    "plot.xianni-1516-ru-jie-di-yi-zhan"
   ],
-  "updatedAt": "2026-08-25T18:43:36.268Z"
+  "updatedAt": "2026-08-26T01:06:21.704Z"
 }

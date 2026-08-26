@@ -4,14 +4,17 @@
   "name": "红杉子",
   "aliases": [
     "Hong Shan Zi",
-    "自山谷来临的红衣男子"
+    "自山谷来临的红衣男子",
+    "老夫红杉子"
   ],
   "summary": "妖尊当年立约的三人之一，身处其余三大星域，玄炳受命前往寻访履约。",
   "attributes": {
     "身份": "与妖尊有当年之约者",
     "外貌": "红衣男子，眼中寒光、红衣男子",
     "性格": "冷厉而识才、刚烈决断",
-    "出身地": "云海一阶星雾内的山谷"
+    "出身地": "云海一阶星雾内的山谷",
+    "阵营": "界内",
+    "元神强度": "威压堪比蓝梦道尊"
   },
   "observations": {
     "身份": [
@@ -51,6 +54,21 @@
         "docId": "plot.xianni-1512-golden-bell-seal-realm-array-revealed",
         "seq": 1420
       }
+    ],
+    "阵营": [
+      {
+        "value": "界内",
+        "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
+        "seq": 1425
+      }
+    ],
+    "元神强度": [
+      {
+        "value": "威压堪比蓝梦道尊",
+        "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
+        "seq": 1425,
+        "note": "本章描写"
+      }
     ]
   },
   "firstSeq": 1217,
@@ -78,6 +96,19 @@
       "docId": "plot.xianni-1512-golden-bell-seal-realm-array-revealed",
       "dated": false,
       "seq": 1420
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
+      "dated": false,
+      "seq": 1425
+    },
+    "元神强度": {
+      "asOf": null,
+      "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
+      "dated": false,
+      "seq": 1425,
+      "note": "本章描写"
     }
   },
   "contested": false,
@@ -87,7 +118,8 @@
     "plot.xianni-1509-this-battle-water-daozi-jade-slips-shock-realm",
     "plot.xianni-1512-golden-bell-seal-realm-array-revealed",
     "plot.xianni-ch1513-golden-storm-youming-devours",
-    "plot.xianni-1514-mantis-arm-blocks-cart-shuidaozi-crushed"
+    "plot.xianni-1514-mantis-arm-blocks-cart-shuidaozi-crushed",
+    "plot.xianni-1516-ru-jie-di-yi-zhan"
   ],
-  "updatedAt": "2026-08-26T00:47:57.390Z"
+  "updatedAt": "2026-08-26T01:06:21.631Z"
 }

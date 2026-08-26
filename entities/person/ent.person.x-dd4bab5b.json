@@ -5,13 +5,15 @@
   "aliases": [
     "凶兽之皇太阿罗",
     "凶兽之皇",
-    "长发太阿罗"
+    "长发太阿罗",
+    "赤脚的太阿罗"
   ],
   "summary": "凶兽之皇，已化人形，无数年前被封界之尊封印；水道子许其解封归乡，换其出手杀一人。",
   "attributes": {
     "身份": "凶兽之皇",
-    "外貌": "一头长发",
-    "存殁": "被封印中"
+    "外貌": "赤脚",
+    "存殁": "被封印中",
+    "标志特征": "封印解开一半"
   },
   "observations": {
     "身份": [
@@ -31,6 +33,11 @@
         "value": "一头长发",
         "docId": "plot.xianni-ch1513-golden-storm-youming-devours",
         "seq": 1420
+      },
+      {
+        "value": "赤脚",
+        "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
+        "seq": 1425
       }
     ],
     "存殁": [
@@ -39,6 +46,14 @@
         "docId": "plot.xianni-1508-shuidaozi-fengjieling-hunt-wanglin",
         "seq": 1415,
         "note": "无数年前被封界之尊所封"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "封印解开一半",
+        "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
+        "seq": 1425,
+        "note": "第1516章，余半待战后"
       }
     ]
   },
@@ -52,9 +67,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch1513-golden-storm-youming-devours",
+      "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
       "dated": false,
-      "seq": 1420
+      "seq": 1425
     },
     "存殁": {
       "asOf": null,
@@ -62,13 +77,21 @@
       "dated": false,
       "seq": 1415,
       "note": "无数年前被封界之尊所封"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
+      "dated": false,
+      "seq": 1425,
+      "note": "第1516章，余半待战后"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1508-shuidaozi-fengjieling-hunt-wanglin",
-    "plot.xianni-ch1513-golden-storm-youming-devours"
+    "plot.xianni-ch1513-golden-storm-youming-devours",
+    "plot.xianni-1516-ru-jie-di-yi-zhan"
   ],
-  "updatedAt": "2026-08-26T00:46:02.807Z"
+  "updatedAt": "2026-08-26T01:06:21.643Z"
 }

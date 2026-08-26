@@ -2,10 +2,14 @@
   "id": "ent.person.x-1c375776",
   "type": "person",
   "name": "南云子",
-  "aliases": [],
+  "aliases": [
+    "老夫南云子"
+  ],
   "summary": "妖尊当年立约的三人之一，身处其余三大星域，玄炳受命前往寻访履约。",
   "attributes": {
-    "身份": "与妖尊有当年之约者"
+    "身份": "尸阴宗修士",
+    "外貌": "虚幻老者",
+    "阵营": "界内"
   },
   "observations": {
     "身份": [
@@ -13,6 +17,25 @@
         "value": "与妖尊有当年之约者",
         "docId": "plot.xianni-ch1305-tianjie-wei-jie-yi-wei-zaohua",
         "seq": 1217
+      },
+      {
+        "value": "尸阴宗修士",
+        "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
+        "seq": 1425
+      }
+    ],
+    "外貌": [
+      {
+        "value": "虚幻老者",
+        "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
+        "seq": 1425
+      }
+    ],
+    "阵营": [
+      {
+        "value": "界内",
+        "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
+        "seq": 1425
       }
     ]
   },
@@ -20,15 +43,28 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1305-tianjie-wei-jie-yi-wei-zaohua",
+      "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
       "dated": false,
-      "seq": 1217
+      "seq": 1425
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
+      "dated": false,
+      "seq": 1425
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
+      "dated": false,
+      "seq": 1425
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1305-tianjie-wei-jie-yi-wei-zaohua"
+    "plot.xianni-ch1305-tianjie-wei-jie-yi-wei-zaohua",
+    "plot.xianni-1516-ru-jie-di-yi-zhan"
   ],
-  "updatedAt": "2026-08-25T08:12:16.134Z"
+  "updatedAt": "2026-08-26T01:06:21.633Z"
 }

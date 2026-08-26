@@ -4,12 +4,14 @@
   "name": "云烽子",
   "aliases": [
     "中年男子云烽子",
-    "云烽子道友"
+    "云烽子道友",
+    "召河星域云烽子"
   ],
   "summary": "中年男子，与周德一同赶来抵抗风暴。",
   "attributes": {
     "外貌": "中年男子",
-    "身份": "大能"
+    "身份": "大能",
+    "出身地": "召河星域"
   },
   "observations": {
     "外貌": [
@@ -23,6 +25,13 @@
       {
         "value": "大能",
         "docId": "plot.xianni-1514-mantis-arm-blocks-cart-shuidaozi-crushed",
+        "seq": 1425
+      }
+    ],
+    "出身地": [
+      {
+        "value": "召河星域",
+        "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
         "seq": 1425
       }
     ]
@@ -40,13 +49,20 @@
       "docId": "plot.xianni-1514-mantis-arm-blocks-cart-shuidaozi-crushed",
       "dated": false,
       "seq": 1425
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
+      "dated": false,
+      "seq": 1425
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1513-golden-storm-youming-devours",
-    "plot.xianni-1514-mantis-arm-blocks-cart-shuidaozi-crushed"
+    "plot.xianni-1514-mantis-arm-blocks-cart-shuidaozi-crushed",
+    "plot.xianni-1516-ru-jie-di-yi-zhan"
   ],
-  "updatedAt": "2026-08-26T00:47:57.389Z"
+  "updatedAt": "2026-08-26T01:06:21.637Z"
 }
