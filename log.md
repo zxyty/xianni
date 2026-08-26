@@ -920,3 +920,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T04:45:25.311Z** `ingest` plot.xianni-ch1573-qingsi-hun-red-butterfly-soul-split-array — 第1573章 青丝魂——红蝶分魂传送阵之谜与朱雀星辞别 · kind=plot asOf=2026-08-26 entities=26 relations=39 src=01481-01485.p3.md
 - **2026-08-26T04:48:10.437Z** `ingest` plot.xianni-1574-fuwen-clan-19th-layer-secret — 第1574章 十九层的秘密：符文族深坑尽头封印着道古左眼 · kind=plot asOf=2026-08-26 entities=28 relations=41 src=01481-01485.p4.md
 - **2026-08-26T04:50:05.111Z** `ingest` plot.xianni-ch1575-origin-point-19th-floor-gate — 第1575章 原点——王林以排斥之力开启符文族第十九层石门 · kind=plot asOf=2026-08-26 entities=13 relations=15 src=01481-01485.p5.md
+- **2026-08-26T04:52:44.523Z** `ingest` plot.xianni-1576-yuanyou-daogu-left-eye-arrow-truth — 仙逆 第1576章 缘由：贯穿星空断层界的道古之箭真相 · kind=plot asOf=2026-08-26 entities=26 relations=40 src=01486-01490.p1.md
