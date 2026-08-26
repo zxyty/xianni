@@ -1002,3 +1002,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T11:22:24.590Z** `ingest` plot.xianni-ch1675-one-year-dream-dao-kills-ye-mo-son — 第1675章 一年：梦道融合梦回远古，斩杀烨寞之子；转轮碾敌，掌尊退去 · kind=plot asOf=2026-08-26 entities=22 relations=29 src=01581-01585.p5.md
 - **2026-08-26T11:24:57.430Z** `ingest` plot.xianni-1676-qingshou-de-li-qianmei — 第1676章 清瘦的李倩梅：红蝶重逢与蓝梦道尊的招婿之约 · kind=plot asOf=2026-08-26 entities=34 relations=34 src=01586-01590.p1.md
 - **2026-08-26T11:31:45.929Z** `ingest` plot.xianni-ch1677-second-year-six-months-hongdie-departs — 第1677章 第二年又六月：红蝶告别与王林的真假之惑 · kind=plot asOf=2026-08-26 entities=35 relations=54 src=01586-01590.p2.md
+- **2026-08-26T11:34:05.783Z** `ingest` plot.xianni-ch1678-accept-li-qianmei — 第1678章 还是接受吧：蓝梦道尊逼诺、王林毁画接纳李倩梅 · kind=plot asOf=2026-08-26 entities=23 relations=38 src=01586-01590.p3.md
