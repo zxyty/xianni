@@ -21,14 +21,16 @@
     "Jie Nei",
     "封界力量",
     "陨界内远古",
-    "封界之内"
+    "封界之内",
+    "洞府内府"
   ],
   "summary": "包裹王林等人所在世界的屏障，形态为连绵不绝的闪烁之网，可被古神一拳撕裂数十万里、亦可由开天斧化晶光急速修复；界内众生被外来者称为「封界人」。",
   "attributes": {
-    "类型": "界壁屏障 / 闪烁之网、封印空间/禁地、被封禁之界、被封锁的星空区域、界域、被封印的星空整体",
+    "类型": "界壁屏障 / 闪烁之网、封印空间/禁地、被封禁之界、被封锁的星空区域、界域、被封印的星空整体、洞府内府",
     "守护": "封界九十九阵、闪烁之网、封界大阵、封界大阵（封界之主融入后）",
     "危险度": "被撕裂后外部势力可伸手入内擒人、长期被界外布局削弱、极虚弱、濒临被界外攻破",
-    "规模": "远小于幻象中的无边大陆"
+    "规模": "远小于幻象中的无边大陆",
+    "所属界面": "七彩仙尊的洞府"
   },
   "observations": {
     "类型": [
@@ -61,6 +63,11 @@
         "value": "被封印的星空整体",
         "docId": "plot.xianni-1512-golden-bell-seal-realm-array-revealed",
         "seq": 1420
+      },
+      {
+        "value": "洞府内府",
+        "docId": "plot.xianni-ch1647-dandang-wang-lin-third-stage-of-cultivation",
+        "seq": 1556
       }
     ],
     "守护": [
@@ -109,6 +116,13 @@
         "docId": "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang",
         "seq": 1300
       }
+    ],
+    "所属界面": [
+      {
+        "value": "七彩仙尊的洞府",
+        "docId": "plot.xianni-ch1647-dandang-wang-lin-third-stage-of-cultivation",
+        "seq": 1556
+      }
     ]
   },
   "firstSeq": 876,
@@ -136,6 +150,12 @@
       "docId": "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang",
       "dated": false,
       "seq": 1300
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1647-dandang-wang-lin-third-stage-of-cultivation",
+      "dated": false,
+      "seq": 1556
     }
   },
   "contested": false,
@@ -152,7 +172,8 @@
     "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang",
     "plot.xianni-1428-crazy-idea-fire-sparrow-ancestor-master",
     "plot.xianni-1507-fengmiezu-jitan-blood-star",
-    "plot.xianni-1512-golden-bell-seal-realm-array-revealed"
+    "plot.xianni-1512-golden-bell-seal-realm-array-revealed",
+    "plot.xianni-ch1647-dandang-wang-lin-third-stage-of-cultivation"
   ],
-  "updatedAt": "2026-08-26T00:43:44.709Z"
+  "updatedAt": "2026-08-26T09:07:57.897Z"
 }
