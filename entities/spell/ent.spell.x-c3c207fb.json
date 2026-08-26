@@ -11,10 +11,11 @@
   ],
   "summary": "王林自创的第五道神通，左手化生机白印、右手化死气黑印，双掌合一放出黑白交错光芒凝成生死印记。",
   "attributes": {
-    "类型": "神通",
-    "威力": "扰乱生死、崩溃肉身",
+    "类型": "生死双属性杀伐神通",
+    "威力": "非明悟生死者中印必受重伤",
     "出处": "王林明悟生死所得",
-    "适用境界": "空涅"
+    "适用境界": "空涅",
+    "消耗": "同级互施则两败俱伤"
   },
   "observations": {
     "类型": [
@@ -32,6 +33,11 @@
         "value": "神通",
         "docId": "plot.xianni-ch1628-huanzhen-jie-tianjie-shizhe-po",
         "seq": 1536
+      },
+      {
+        "value": "生死双属性杀伐神通",
+        "docId": "plot.xianni-ch1632-benwo-jie-white-haired-mirror-duel",
+        "seq": 1541
       }
     ],
     "威力": [
@@ -49,6 +55,11 @@
         "value": "扰乱生死、崩溃肉身",
         "docId": "plot.xianni-ch1628-huanzhen-jie-tianjie-shizhe-po",
         "seq": 1536
+      },
+      {
+        "value": "非明悟生死者中印必受重伤",
+        "docId": "plot.xianni-ch1632-benwo-jie-white-haired-mirror-duel",
+        "seq": 1541
       }
     ],
     "出处": [
@@ -69,21 +80,28 @@
         "docId": "plot.xianni-ch1526-1530-six-source-void-gate",
         "seq": 1526
       }
+    ],
+    "消耗": [
+      {
+        "value": "同级互施则两败俱伤",
+        "docId": "plot.xianni-ch1632-benwo-jie-white-haired-mirror-duel",
+        "seq": 1541
+      }
     ]
   },
   "firstSeq": 1526,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1628-huanzhen-jie-tianjie-shizhe-po",
+      "docId": "plot.xianni-ch1632-benwo-jie-white-haired-mirror-duel",
       "dated": false,
-      "seq": 1536
+      "seq": 1541
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-ch1628-huanzhen-jie-tianjie-shizhe-po",
+      "docId": "plot.xianni-ch1632-benwo-jie-white-haired-mirror-duel",
       "dated": false,
-      "seq": 1536
+      "seq": 1541
     },
     "出处": {
       "asOf": null,
@@ -96,6 +114,12 @@
       "docId": "plot.xianni-ch1526-1530-six-source-void-gate",
       "dated": false,
       "seq": 1526
+    },
+    "消耗": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1632-benwo-jie-white-haired-mirror-duel",
+      "dated": false,
+      "seq": 1541
     }
   },
   "contested": false,
@@ -103,7 +127,8 @@
   "docs": [
     "plot.xianni-ch1526-1530-six-source-void-gate",
     "plot.xianni-ch1531-1535-wanking-bone-gate-six-source-gates",
-    "plot.xianni-ch1628-huanzhen-jie-tianjie-shizhe-po"
+    "plot.xianni-ch1628-huanzhen-jie-tianjie-shizhe-po",
+    "plot.xianni-ch1632-benwo-jie-white-haired-mirror-duel"
   ],
-  "updatedAt": "2026-08-26T08:27:21.126Z"
+  "updatedAt": "2026-08-26T08:35:56.501Z"
 }
