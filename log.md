@@ -917,3 +917,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T04:38:57.198Z** `ingest` plot.xianni-1570-luoye-xungen-zhuque-star-return — 第1570章 落叶寻根：王林重返朱雀星，故乡已面目全非 · kind=plot asOf=2026-08-26 entities=25 relations=36 src=01476-01480.p5.md
 - **2026-08-26T04:40:54.085Z** `ingest` plot.xianni-ch1571-ye-you-gen-wang-lin-returns-zhaoguo — 第1571章 叶有根：王林重返赵国祖坟，跪拜父母 · kind=plot asOf=2026-08-26 entities=19 relations=27 src=01481-01485.p1.md
 - **2026-08-26T04:43:05.012Z** `ingest` plot.xianni-ch1572-wang-ru-yan-parents-grave-zhou-wutai — 第1572章 往如烟——王林跪祭父母坟，周武泰月下叙旧 · kind=plot asOf=2026-08-26 entities=23 relations=35 src=01481-01485.p2.md
+- **2026-08-26T04:45:25.311Z** `ingest` plot.xianni-ch1573-qingsi-hun-red-butterfly-soul-split-array — 第1573章 青丝魂——红蝶分魂传送阵之谜与朱雀星辞别 · kind=plot asOf=2026-08-26 entities=26 relations=39 src=01481-01485.p3.md

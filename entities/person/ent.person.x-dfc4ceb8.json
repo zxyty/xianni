@@ -3,12 +3,14 @@
   "type": "person",
   "name": "红蝶的师尊",
   "aliases": [
-    "红蝶师尊"
+    "红蝶师尊",
+    "雪域国女修之师"
   ],
   "summary": "红蝶的师尊，幼年教导、少女时期慈祥与严厉并存；曾以毕生心血为红蝶算出一卦，预言其此生有生死一线之劫，并断言此劫应在『曾牛』身上、『曾牛，留之不得』。",
   "attributes": {
     "身份": "红蝶之师",
-    "标志特征": "以毕生心血为红蝶推算卦象"
+    "标志特征": "曾算出红蝶生死大劫",
+    "存殁": "死亡"
   },
   "observations": {
     "身份": [
@@ -23,6 +25,18 @@
         "value": "以毕生心血为红蝶推算卦象",
         "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
         "seq": 433
+      },
+      {
+        "value": "曾算出红蝶生死大劫",
+        "docId": "plot.xianni-ch1573-qingsi-hun-red-butterfly-soul-split-array",
+        "seq": 1481
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch1573-qingsi-hun-red-butterfly-soul-split-array",
+        "seq": 1481
       }
     ]
   },
@@ -36,15 +50,22 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+      "docId": "plot.xianni-ch1573-qingsi-hun-red-butterfly-soul-split-array",
       "dated": false,
-      "seq": 433
+      "seq": 1481
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1573-qingsi-hun-red-butterfly-soul-split-array",
+      "dated": false,
+      "seq": 1481
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch433-437-hongdie-yanhong-yunquezi"
+    "plot.xianni-ch433-437-hongdie-yanhong-yunquezi",
+    "plot.xianni-ch1573-qingsi-hun-red-butterfly-soul-split-array"
   ],
-  "updatedAt": "2026-08-21T03:06:39.387Z"
+  "updatedAt": "2026-08-26T04:45:24.885Z"
 }
