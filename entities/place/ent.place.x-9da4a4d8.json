@@ -3,15 +3,16 @@
   "type": "place",
   "name": "妖宗战场裂缝",
   "aliases": [
-    "妖宗外的巨大裂缝"
+    "妖宗外的巨大裂缝",
+    "云海星域深处的裂缝"
   ],
   "summary": "妖宗无数万年驻守之地，凶兽一次次自此入侵，妖宗于此抵抗；王林本章的目的地。",
   "attributes": {
     "所属势力": "妖宗（长期争战与探查）",
-    "类型": "空间裂缝/异域战场",
+    "类型": "空间裂缝",
     "上级区域": "云海九阶星域",
     "危险度": "极高（百人入内生还不足三人）",
-    "守护": "妖宗",
+    "守护": "内中凶兽众多",
     "所属界面": "云海星域",
     "方位": "妖宗之外",
     "规模": "内部太大，好似另外一片星空"
@@ -39,6 +40,11 @@
         "value": "空间裂缝/异域战场",
         "docId": "plot.xianni-ch1295-li-qianmei-clue-in-rift",
         "seq": 1207
+      },
+      {
+        "value": "空间裂缝",
+        "docId": "plot.xianni-ch1692-the-promise-of-those-years",
+        "seq": 1601
       }
     ],
     "上级区域": [
@@ -65,6 +71,11 @@
         "value": "妖宗",
         "docId": "plot.xianni-1291-yaozong-rift",
         "seq": 1202
+      },
+      {
+        "value": "内中凶兽众多",
+        "docId": "plot.xianni-ch1692-the-promise-of-those-years",
+        "seq": 1601
       }
     ],
     "所属界面": [
@@ -99,9 +110,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1295-li-qianmei-clue-in-rift",
+      "docId": "plot.xianni-ch1692-the-promise-of-those-years",
       "dated": false,
-      "seq": 1207
+      "seq": 1601
     },
     "上级区域": {
       "asOf": null,
@@ -117,9 +128,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-1291-yaozong-rift",
+      "docId": "plot.xianni-ch1692-the-promise-of-those-years",
       "dated": false,
-      "seq": 1202
+      "seq": 1601
     },
     "所属界面": {
       "asOf": null,
@@ -144,7 +155,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-1291-yaozong-rift",
-    "plot.xianni-ch1295-li-qianmei-clue-in-rift"
+    "plot.xianni-ch1295-li-qianmei-clue-in-rift",
+    "plot.xianni-ch1692-the-promise-of-those-years"
   ],
-  "updatedAt": "2026-08-25T07:42:59.833Z"
+  "updatedAt": "2026-08-26T12:23:04.516Z"
 }
