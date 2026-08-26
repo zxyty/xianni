@@ -4,14 +4,15 @@
   "name": "南云子",
   "aliases": [
     "老夫南云子",
-    "南云"
+    "南云",
+    "南云子前辈"
   ],
   "summary": "妖尊当年立约的三人之一，身处其余三大星域，玄炳受命前往寻访履约。",
   "attributes": {
-    "身份": "封界大阵修复者",
+    "身份": "与妖尊有当年之约者、尸阴宗修士、封界大阵修复者、修补封界大阵者",
     "外貌": "声音沙哑",
-    "阵营": "界内、云海星域/界内、云海星域",
-    "性格": "神秘"
+    "阵营": "界内、云海星域/界内、云海星域、云海一方（界内）",
+    "性格": "神秘、神色阴沉、长叹"
   },
   "observations": {
     "身份": [
@@ -29,6 +30,12 @@
         "value": "封界大阵修复者",
         "docId": "plot.xianni-1521-blood-shirt-boy-red-shirt-master",
         "seq": 1429
+      },
+      {
+        "value": "修补封界大阵者",
+        "docId": "plot.xianni-1523-yunhai-rout-hongshanzi-ambushed",
+        "seq": 1429,
+        "note": "第1523章放弃修复转而迎敌"
       }
     ],
     "外貌": [
@@ -58,12 +65,22 @@
         "value": "云海星域",
         "docId": "plot.xianni-1520-lingshen-nanzhao-xianghuojie",
         "seq": 1429
+      },
+      {
+        "value": "云海一方（界内）",
+        "docId": "plot.xianni-1523-yunhai-rout-hongshanzi-ambushed",
+        "seq": 1429
       }
     ],
     "性格": [
       {
         "value": "神秘",
         "docId": "plot.xianni-1520-lingshen-nanzhao-xianghuojie",
+        "seq": 1429
+      },
+      {
+        "value": "神色阴沉、长叹",
+        "docId": "plot.xianni-1523-yunhai-rout-hongshanzi-ambushed",
         "seq": 1429
       }
     ]
@@ -72,9 +89,9 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1521-blood-shirt-boy-red-shirt-master",
+      "docId": "plot.xianni-ch1305-tianjie-wei-jie-yi-wei-zaohua",
       "dated": false,
-      "seq": 1429
+      "seq": 1217
     },
     "外貌": {
       "asOf": null,
@@ -102,7 +119,8 @@
     "plot.xianni-1516-ru-jie-di-yi-zhan",
     "plot.xianni-1519-fanji-fengjie-dazhen-liefeng-kaitianfu",
     "plot.xianni-1520-lingshen-nanzhao-xianghuojie",
-    "plot.xianni-1521-blood-shirt-boy-red-shirt-master"
+    "plot.xianni-1521-blood-shirt-boy-red-shirt-master",
+    "plot.xianni-1523-yunhai-rout-hongshanzi-ambushed"
   ],
-  "updatedAt": "2026-08-26T01:16:02.536Z"
+  "updatedAt": "2026-08-26T01:20:32.847Z"
 }

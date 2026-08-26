@@ -873,3 +873,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T01:13:30.340Z** `ingest` plot.xianni-1520-lingshen-nanzhao-xianghuojie — 第1520章 灵神！——云海援军压境，王林以古神护腕破南诏上人香火界一掌 · kind=plot asOf=2026-08-26 entities=24 relations=27 src=01429-01433.p2.md
 - **2026-08-26T01:16:02.986Z** `ingest` plot.xianni-1521-blood-shirt-boy-red-shirt-master — 《仙逆》第1521章 此衫，非杉！——红杉子血衫童子之名震界外，云海血战开启 · kind=plot asOf=2026-08-26 entities=23 relations=26 src=01429-01433.p3.md
 - **2026-08-26T01:18:04.571Z** `ingest` plot.xianni-ch1522-three-seals-fengmie-clan — 第1522章 三道封印！——封灭族三老封印王林，王林借万修神通反破三封 · kind=plot asOf=2026-08-26 entities=15 relations=23 src=01429-01433.p4.md
+- **2026-08-26T01:20:33.341Z** `ingest` plot.xianni-1523-yunhai-rout-hongshanzi-ambushed — 第1523章 溃败！——云落大司算尽先机，红杉子中伏、云海荣耀崩塌 · kind=plot asOf=2026-08-26 entities=23 relations=33 src=01429-01433.p5.md
