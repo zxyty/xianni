@@ -4,11 +4,12 @@
   "name": "毒海",
   "aliases": [
     "黑色的海洋",
-    "被毒染的海洋"
+    "被毒染的海洋",
+    "王林的毒海"
   ],
   "summary": "被毒染的黑色海洋，腥臭无比，其内无尽香火之魂皆化为毒魂无法再祭献香火之力；被王林以天皇炉整片收走，欲炼成一滴足以撼动第三步大能的水滴。",
   "attributes": {
-    "类型": "毒化的海洋（王林视之为极难得的法宝素材）",
+    "类型": "大范围毒杀之物",
     "特产": "毒魂（被毒素弥漫的香火之魂）"
   },
   "observations": {
@@ -17,6 +18,11 @@
         "value": "毒化的海洋（王林视之为极难得的法宝素材）",
         "docId": "plot.xianni-ch1455-giant-hand-reappears",
         "seq": 1365
+      },
+      {
+        "value": "大范围毒杀之物",
+        "docId": "plot.xianni-ch1528-zhaohe-female-cultivators-reinforcements",
+        "seq": 1434
       }
     ],
     "特产": [
@@ -31,9 +37,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1455-giant-hand-reappears",
+      "docId": "plot.xianni-ch1528-zhaohe-female-cultivators-reinforcements",
       "dated": false,
-      "seq": 1365
+      "seq": 1434
     },
     "特产": {
       "asOf": null,
@@ -45,7 +51,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1455-giant-hand-reappears"
+    "plot.xianni-ch1455-giant-hand-reappears",
+    "plot.xianni-ch1528-zhaohe-female-cultivators-reinforcements"
   ],
-  "updatedAt": "2026-08-25T20:46:16.869Z"
+  "updatedAt": "2026-08-26T01:32:42.879Z"
 }

@@ -5,11 +5,13 @@
   "aliases": [
     "界外修士大军",
     "界外之修",
-    "界外入侵者"
+    "界外入侵者",
+    "界外入侵之修"
   ],
   "summary": "入侵云海的界外修士军团，数万之众，本章围杀被封印的王林，并以进入太古星辰榜为诱因。",
   "attributes": {
-    "阵营": "界外"
+    "阵营": "入侵方",
+    "理念": "视界内修士为蝼蚁，来此只为杀与抢"
   },
   "observations": {
     "阵营": [
@@ -17,6 +19,19 @@
         "value": "界外",
         "docId": "plot.xianni-ch1522-three-seals-fengmie-clan",
         "seq": 1429
+      },
+      {
+        "value": "入侵方",
+        "docId": "plot.xianni-ch1528-zhaohe-female-cultivators-reinforcements",
+        "seq": 1434
+      }
+    ],
+    "理念": [
+      {
+        "value": "视界内修士为蝼蚁，来此只为杀与抢",
+        "docId": "plot.xianni-ch1528-zhaohe-female-cultivators-reinforcements",
+        "seq": 1434,
+        "note": "第1528章败退后转为滔天恐惧"
       }
     ]
   },
@@ -24,16 +39,24 @@
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch1522-three-seals-fengmie-clan",
+      "docId": "plot.xianni-ch1528-zhaohe-female-cultivators-reinforcements",
       "dated": false,
-      "seq": 1429
+      "seq": 1434
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1528-zhaohe-female-cultivators-reinforcements",
+      "dated": false,
+      "seq": 1434,
+      "note": "第1528章败退后转为滔天恐惧"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1522-three-seals-fengmie-clan",
-    "plot.xianni-1524-wangao-yiwo-kaitianfu"
+    "plot.xianni-1524-wangao-yiwo-kaitianfu",
+    "plot.xianni-ch1528-zhaohe-female-cultivators-reinforcements"
   ],
-  "updatedAt": "2026-08-26T01:22:48.319Z"
+  "updatedAt": "2026-08-26T01:32:42.882Z"
 }
