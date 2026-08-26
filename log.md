@@ -1015,3 +1015,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T12:05:05.334Z** `ingest` plot.xianni-1688-get-out-ancient-immortals-invade-immortal-realm — 第1688章 滚出去！——远古仙人闯界内仙界，王林玉简神识退敌并直扑界外远古仙域 · kind=plot asOf=2026-08-26 entities=35 relations=58 src=01596-01600.p3.md
 - **2026-08-26T12:11:05.127Z** `ingest` plot.xianni-ch1688-two-bows-li-guang-bow-slaughter — 第1688章 两弓之力！——王林以李广弓截杀七道宗仙人 · kind=plot asOf=2026-08-26 entities=21 relations=32 src=01596-01600.p4.md
 - **2026-08-26T12:13:46.020Z** `ingest` plot.xianni-ch1690-jue-bu-hui-cuo-zhangzun-fifth-strike — 第1690章 绝不会错——掌尊现身必杀，王林两弓已尽 · kind=plot asOf=2026-08-26 entities=38 relations=53 src=01596-01600.p5.md
+- **2026-08-26T12:16:12.630Z** `ingest` plot.xianni-1691-li-guang-bow-third-arrow-kills-zhang-zun — 第1691章 绝不会错？——王林三箭破算，李广弓射灭掌尊 · kind=plot asOf=2026-08-26 entities=22 relations=34 src=01601-01605.p1.md

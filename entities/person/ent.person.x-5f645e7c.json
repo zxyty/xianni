@@ -7,7 +7,10 @@
   "attributes": {
     "称号": "仙尊",
     "外貌": "翩翩少年",
-    "阵营": "追杀王林一方"
+    "阵营": "追杀王林一方",
+    "身份": "太古五尊之一",
+    "存殁": "肉身爆开、元神被擒",
+    "死因": "李广箭余波震爆肉身，元神被王林收走"
   },
   "observations": {
     "称号": [
@@ -30,6 +33,28 @@
         "docId": "plot.xianni-ch1688-two-bows-li-guang-bow-slaughter",
         "seq": 1596
       }
+    ],
+    "身份": [
+      {
+        "value": "太古五尊之一",
+        "docId": "plot.xianni-1691-li-guang-bow-third-arrow-kills-zhang-zun",
+        "seq": 1601
+      }
+    ],
+    "存殁": [
+      {
+        "value": "肉身爆开、元神被擒",
+        "docId": "plot.xianni-1691-li-guang-bow-third-arrow-kills-zhang-zun",
+        "seq": 1601,
+        "note": "第1691章"
+      }
+    ],
+    "死因": [
+      {
+        "value": "李广箭余波震爆肉身，元神被王林收走",
+        "docId": "plot.xianni-1691-li-guang-bow-third-arrow-kills-zhang-zun",
+        "seq": 1601
+      }
     ]
   },
   "firstSeq": 1317,
@@ -51,13 +76,33 @@
       "docId": "plot.xianni-ch1688-two-bows-li-guang-bow-slaughter",
       "dated": false,
       "seq": 1596
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-1691-li-guang-bow-third-arrow-kills-zhang-zun",
+      "dated": false,
+      "seq": 1601
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1691-li-guang-bow-third-arrow-kills-zhang-zun",
+      "dated": false,
+      "seq": 1601,
+      "note": "第1691章"
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-1691-li-guang-bow-third-arrow-kills-zhang-zun",
+      "dated": false,
+      "seq": 1601
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1407-renfang-jie-li-muwan-wo-buyuan",
-    "plot.xianni-ch1688-two-bows-li-guang-bow-slaughter"
+    "plot.xianni-ch1688-two-bows-li-guang-bow-slaughter",
+    "plot.xianni-1691-li-guang-bow-third-arrow-kills-zhang-zun"
   ],
-  "updatedAt": "2026-08-26T12:11:04.737Z"
+  "updatedAt": "2026-08-26T12:16:12.196Z"
 }
