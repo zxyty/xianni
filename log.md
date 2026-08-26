@@ -1012,3 +1012,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T11:57:52.484Z** `ingest` plot.xianni-1685-yan-long-xian-long-dao — 第1685章 一条蛇！——炎龙的「仙龙道」现身太古星辰 · kind=plot asOf=2026-08-26 entities=13 relations=20 src=01591-01595.p5.md
 - **2026-08-26T11:59:58.569Z** `ingest` plot.xianni-ch1686-xiaohong-yanlong-subdued — 第1686章 小红！——王林收服炎龙，牵出连道非旧事 · kind=plot asOf=2026-08-26 entities=18 relations=26 src=01596-01600.p1.md
 - **2026-08-26T12:02:15.074Z** `ingest` plot.xianni-ch1687-yuangu-xianyu-return — 第1687章 远古开启：四大星域星幕撕裂，远古仙人归来吞噬香火 · kind=plot asOf=2026-08-26 entities=21 relations=33 src=01596-01600.p2.md
+- **2026-08-26T12:05:05.334Z** `ingest` plot.xianni-1688-get-out-ancient-immortals-invade-immortal-realm — 第1688章 滚出去！——远古仙人闯界内仙界，王林玉简神识退敌并直扑界外远古仙域 · kind=plot asOf=2026-08-26 entities=35 relations=58 src=01596-01600.p3.md
