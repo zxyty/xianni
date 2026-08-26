@@ -10,13 +10,14 @@
   ],
   "summary": "仙罡大陆七道宗宗主之一，与道侣共同开宗立派；双日事件后独自归来、封死洞府，最终在大战中重伤。",
   "attributes": {
-    "身份": "七道宗宗主、远古仙域之主/封印设置者、远古仙尊、洞府之主、洞府主人、天道的掠夺者与饲养者、空劫大尊、七道宗开创者、七道宗之尊",
+    "身份": "七道宗宗主、远古仙域之主/封印设置者、远古仙尊、洞府之主、洞府主人、天道的掠夺者与饲养者、空劫大尊、七道宗开创者、七道宗之尊、封锁七道宗者",
     "称号": "七彩仙尊、远古仙皇、七彩道尊、大尊",
     "出身地": "仙罡大陆",
     "结局": "大战中重伤",
     "存殁": "沉睡",
     "小阶段": "空劫中期",
-    "性格": "刻薄、古怪多变、喜怒无常（掌尊评）"
+    "性格": "刻薄、古怪多变、喜怒无常（掌尊评）",
+    "阵营": "七道宗"
   },
   "observations": {
     "身份": [
@@ -59,6 +60,11 @@
         "value": "七道宗之尊",
         "docId": "plot.xianni-ch1666-ji-dian-ying-hun-ru-zhen-ling",
         "seq": 1576
+      },
+      {
+        "value": "封锁七道宗者",
+        "docId": "plot.xianni-1681-blood-sword-tip-pierces-into-xiangang",
+        "seq": 1591
       }
     ],
     "称号": [
@@ -125,6 +131,13 @@
         "docId": "plot.xianni-ch1666-ji-dian-ying-hun-ru-zhen-ling",
         "seq": 1576
       }
+    ],
+    "阵营": [
+      {
+        "value": "七道宗",
+        "docId": "plot.xianni-1681-blood-sword-tip-pierces-into-xiangang",
+        "seq": 1591
+      }
     ]
   },
   "firstSeq": 1546,
@@ -172,6 +185,12 @@
       "docId": "plot.xianni-ch1666-ji-dian-ying-hun-ru-zhen-ling",
       "dated": false,
       "seq": 1576
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1681-blood-sword-tip-pierces-into-xiangang",
+      "dated": false,
+      "seq": 1591
     }
   },
   "contested": false,
@@ -183,7 +202,8 @@
     "plot.xianni-ch1645-wang-lin-four-war-generals-trade",
     "plot.xianni-ch1647-dandang-wang-lin-third-stage-of-cultivation",
     "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
-    "plot.xianni-ch1666-ji-dian-ying-hun-ru-zhen-ling"
+    "plot.xianni-ch1666-ji-dian-ying-hun-ru-zhen-ling",
+    "plot.xianni-1681-blood-sword-tip-pierces-into-xiangang"
   ],
-  "updatedAt": "2026-08-26T11:01:47.374Z"
+  "updatedAt": "2026-08-26T11:41:18.478Z"
 }
