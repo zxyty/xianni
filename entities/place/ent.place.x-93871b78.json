@@ -15,18 +15,20 @@
     "修真联盟总部大阵",
     "被封死的修真联盟总部",
     "联盟总部七彩界",
-    "七彩部落"
+    "七彩部落",
+    "修真联盟总坛",
+    "被封锁的总部"
   ],
   "summary": "杀域界绝大部分净涅修士本章前往之地，导致杀域界防务空虚、无法施展九十九剑之阵。",
   "attributes": {
     "所属势力": "太古星辰（界外之修）",
-    "类型": "独立开辟空间、漂浮于漩涡之上的星球、势力总部、闭关之地、总部/封禁之地、势力中枢、势力总部／七彩界据点",
-    "规模": "一百七十三颗巨大修真星",
+    "类型": "独立开辟空间、漂浮于漩涡之上的星球、势力总部、闭关之地、总部/封禁之地、势力中枢、势力总部／七彩界据点、总坛/修真星",
+    "规模": "巨大修真星＋无数环绕小星",
     "所属界面": "联盟星域",
-    "上级区域": "昆虚",
+    "上级区域": "昆虚星域",
     "方位": "联盟星域中心部位",
-    "守护": "天兆上师、联盟遗留法宝与阵法",
-    "危险度": "极高"
+    "守护": "封印漩涡与界外修士大军",
+    "危险度": "极高（封印漩涡＋数千至上万界外修士）"
   },
   "observations": {
     "所属势力": [
@@ -77,6 +79,11 @@
         "value": "势力总部／七彩界据点",
         "docId": "plot.xianni-ch1547-decades-of-change",
         "seq": 1453
+      },
+      {
+        "value": "总坛/修真星",
+        "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
+        "seq": 1458
       }
     ],
     "规模": [
@@ -84,6 +91,11 @@
         "value": "一百七十三颗巨大修真星",
         "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
         "seq": 960
+      },
+      {
+        "value": "巨大修真星＋无数环绕小星",
+        "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
+        "seq": 1458
       }
     ],
     "所属界面": [
@@ -108,6 +120,11 @@
         "value": "昆虚",
         "docId": "plot.xianni-ch1547-decades-of-change",
         "seq": 1453
+      },
+      {
+        "value": "昆虚星域",
+        "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
+        "seq": 1458
       }
     ],
     "方位": [
@@ -152,6 +169,11 @@
         "value": "天兆上师、联盟遗留法宝与阵法",
         "docId": "plot.xianni-ch1547-decades-of-change",
         "seq": 1453
+      },
+      {
+        "value": "封印漩涡与界外修士大军",
+        "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
+        "seq": 1458
       }
     ],
     "危险度": [
@@ -171,6 +193,11 @@
         "docId": "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
         "seq": 1024,
         "note": "老圣皇警告王林修为不够勿卷入"
+      },
+      {
+        "value": "极高（封印漩涡＋数千至上万界外修士）",
+        "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
+        "seq": 1458
       }
     ]
   },
@@ -191,9 +218,9 @@
     },
     "规模": {
       "asOf": null,
-      "docId": "plot.xianni-1038-kui-nie-peak-four-saint-sects-war-history",
+      "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
       "dated": false,
-      "seq": 960
+      "seq": 1458
     },
     "所属界面": {
       "asOf": null,
@@ -203,9 +230,9 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch1547-decades-of-change",
+      "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
       "dated": false,
-      "seq": 1453
+      "seq": 1458
     },
     "方位": {
       "asOf": null,
@@ -215,16 +242,15 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch1547-decades-of-change",
+      "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
       "dated": false,
-      "seq": 1453
+      "seq": 1458
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch1109-zhuque-old-shenghuang-guixu",
+      "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
       "dated": false,
-      "seq": 1024,
-      "note": "老圣皇警告王林修为不够勿卷入"
+      "seq": 1458
     }
   },
   "contested": false,
@@ -244,7 +270,8 @@
     "plot.xianni-1405-1409-lingdong-zhoujin-two-third-step-slaves",
     "plot.xianni-ch1410-1414-qicaijie-hidden-peril-and-ranyun-return",
     "plot.xianni-ch1545-three-treasures-return-to-alliance",
-    "plot.xianni-ch1547-decades-of-change"
+    "plot.xianni-ch1547-decades-of-change",
+    "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao"
   ],
-  "updatedAt": "2026-08-26T02:55:01.824Z"
+  "updatedAt": "2026-08-26T03:08:43.305Z"
 }

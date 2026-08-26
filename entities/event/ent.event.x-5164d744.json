@@ -4,16 +4,19 @@
   "name": "入界第一战",
   "aliases": [
     "第一战",
-    "入界之战"
+    "入界之战",
+    "当年第一战"
   ],
   "summary": "长尊会诏令十余太古星辰部落集列封界大阵东部，十三族近九万修士齐列待阵开冲入界内。",
   "attributes": {
-    "章节": "第1516章",
+    "章节": "第1548-1549章追述",
     "地点": "封界大阵东部之外",
-    "参与方": "月噬族、魂天族、太云族、火噬族、龙魔族、长尊会",
+    "参与方": "月噬族、魂天族、太云族、火噬族、龙魔族、长尊会、王林、界外修士大军",
     "起因": "长尊会诏、抢夺界内之物与太古星辰榜赏格",
     "经过": "十三族近九万修士列阵，眉心印记下诡异气息弥漫致其躁动疯狂",
-    "影响": "界外战意弥漫，王林被列为必杀榜榜首"
+    "影响": "王林成为界外修士的噩梦与眼中钉",
+    "世内时序": "本片段之前多年",
+    "结果": "第一战被王林崩溃，界外损失无数修士"
   },
   "observations": {
     "章节": [
@@ -21,6 +24,12 @@
         "value": "第1516章",
         "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
         "seq": 1425
+      },
+      {
+        "value": "第1548-1549章追述",
+        "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
+        "seq": 1458,
+        "note": "回忆/背景"
       }
     ],
     "地点": [
@@ -60,6 +69,16 @@
         "value": "长尊会",
         "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
         "seq": 1425
+      },
+      {
+        "value": "王林",
+        "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
+        "seq": 1458
+      },
+      {
+        "value": "界外修士大军",
+        "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
+        "seq": 1458
       }
     ],
     "起因": [
@@ -81,6 +100,25 @@
         "value": "界外战意弥漫，王林被列为必杀榜榜首",
         "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
         "seq": 1425
+      },
+      {
+        "value": "王林成为界外修士的噩梦与眼中钉",
+        "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
+        "seq": 1458
+      }
+    ],
+    "世内时序": [
+      {
+        "value": "本片段之前多年",
+        "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
+        "seq": 1458
+      }
+    ],
+    "结果": [
+      {
+        "value": "第一战被王林崩溃，界外损失无数修士",
+        "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
+        "seq": 1458
       }
     ]
   },
@@ -88,9 +126,10 @@
   "attrProvenance": {
     "章节": {
       "asOf": null,
-      "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
+      "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
       "dated": false,
-      "seq": 1425
+      "seq": 1458,
+      "note": "回忆/背景"
     },
     "地点": {
       "asOf": null,
@@ -118,15 +157,28 @@
     },
     "影响": {
       "asOf": null,
-      "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
+      "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
       "dated": false,
-      "seq": 1425
+      "seq": 1458
+    },
+    "世内时序": {
+      "asOf": null,
+      "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
+      "dated": false,
+      "seq": 1458
+    },
+    "结果": {
+      "asOf": null,
+      "docId": "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao",
+      "dated": false,
+      "seq": 1458
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1516-ru-jie-di-yi-zhan"
+    "plot.xianni-1516-ru-jie-di-yi-zhan",
+    "plot.chapter-1458-1461-wang-lin-breaks-alliance-hq-seal-kills-tianzhao"
   ],
-  "updatedAt": "2026-08-26T01:06:21.686Z"
+  "updatedAt": "2026-08-26T03:08:43.320Z"
 }
