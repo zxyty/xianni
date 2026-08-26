@@ -12,8 +12,9 @@
   ],
   "summary": "王林「亲情」之情的化身，自光团幻化而出，被红蝶分身慧剑一剑斩杀。",
   "attributes": {
-    "身份": "王林双亲",
-    "存殁": "死亡"
+    "身份": "王林的父母",
+    "存殁": "死亡",
+    "出身地": "赵国山村"
   },
   "observations": {
     "身份": [
@@ -27,6 +28,11 @@
         "value": "王林双亲",
         "docId": "plot.xianni-ch1571-ye-you-gen-wang-lin-returns-zhaoguo",
         "seq": 1481
+      },
+      {
+        "value": "王林的父母",
+        "docId": "plot.xianni-ch1590-meng-ru-ren-sheng",
+        "seq": 1496
       }
     ],
     "存殁": [
@@ -35,21 +41,34 @@
         "docId": "plot.xianni-ch1571-ye-you-gen-wang-lin-returns-zhaoguo",
         "seq": 1481
       }
+    ],
+    "出身地": [
+      {
+        "value": "赵国山村",
+        "docId": "plot.xianni-ch1590-meng-ru-ren-sheng",
+        "seq": 1496
+      }
     ]
   },
   "firstSeq": 341,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1571-ye-you-gen-wang-lin-returns-zhaoguo",
+      "docId": "plot.xianni-ch1590-meng-ru-ren-sheng",
       "dated": false,
-      "seq": 1481
+      "seq": 1496
     },
     "存殁": {
       "asOf": null,
       "docId": "plot.xianni-ch1571-ye-you-gen-wang-lin-returns-zhaoguo",
       "dated": false,
       "seq": 1481
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1590-meng-ru-ren-sheng",
+      "dated": false,
+      "seq": 1496
     }
   },
   "contested": false,
@@ -58,7 +77,8 @@
     "plot.xianni-ch361-zhuque-guo-arrival",
     "plot.xianni-ch1571-ye-you-gen-wang-lin-returns-zhaoguo",
     "plot.xianni-ch1572-wang-ru-yan-parents-grave-zhou-wutai",
-    "plot.xianni-ch1573-qingsi-hun-red-butterfly-soul-split-array"
+    "plot.xianni-ch1573-qingsi-hun-red-butterfly-soul-split-array",
+    "plot.xianni-ch1590-meng-ru-ren-sheng"
   ],
-  "updatedAt": "2026-08-26T04:45:24.894Z"
+  "updatedAt": "2026-08-26T05:55:05.155Z"
 }

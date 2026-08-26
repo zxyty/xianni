@@ -934,3 +934,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T05:47:26.627Z** `ingest` plot.xianni-ch1587-en-duan-chi-hun-zi-chuang-feng-yin — 第1587章 恩断！——赤魂子撞破封印，蓝梦出手，恩义一刀两断 · kind=plot asOf=2026-08-26 entities=37 relations=52 src=01496-01500.p2.md
 - **2026-08-26T05:50:20.499Z** `ingest` plot.xianni-1588-life-and-death-seven-colored-spear — 第1588章 生死！——七彩之枪下的解脱与疯子救王林堕入黑洞 · kind=plot asOf=2026-08-26 entities=28 relations=32 src=01496-01500.p3.md
 - **2026-08-26T05:53:01.972Z** `ingest` plot.xianni-ch1589-meng-xian-huo-xian-meng — 第1589章 梦仙，还是仙梦！——王林封尊杀劫落幕，众人凭吊，梦道千年 · kind=plot asOf=2026-08-26 entities=31 relations=38 src=01496-01500.p4.md
+- **2026-08-26T05:55:05.568Z** `ingest` plot.xianni-ch1590-meng-ru-ren-sheng — 第1590章 梦如人生——赵国官道客栈的赶考书生王林 · kind=plot asOf=2026-08-26 entities=16 relations=24 src=01496-01500.p5.md
