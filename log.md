@@ -885,3 +885,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T02:23:53.904Z** `ingest` plot.xianni-ch1535-madman-in-youming-beast-world — 第1535章 疯子！——幽冥兽体内一界的疯癫修士与王林血脉之变 · kind=plot asOf=2026-08-26 entities=16 relations=23 src=01443-01447.p3.md
 - **2026-08-26T02:25:57.112Z** `ingest` plot.xianni-ch1536-mad-mans-blood-transforms-wang-lin-bloodline — 第1536章 你等本王歇会——疯子本命血改造王林血脉，双目化金火金雷 · kind=plot asOf=2026-08-26 entities=18 relations=22 src=01443-01447.p4.md
 - **2026-08-26T02:28:30.595Z** `ingest` plot.xianni-ch1537-immortal-ancestor-three-seals-immortal-race-immortal-body — 第1537章 仙族不灭体！——疯子以「仙祖三印」烙入王林眉心 · kind=plot asOf=2026-08-26 entities=19 relations=24 src=01443-01447.p5.md
+- **2026-08-26T02:30:32.782Z** `ingest` plot.xianni-ch1538-golden-sky-black-earth — 仙逆 第1538章 金天黑地！——王林仙古融合、天逆再现 · kind=plot asOf=2026-08-26 entities=16 relations=24 src=01448-01452.p1.md
