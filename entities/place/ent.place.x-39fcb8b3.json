@@ -31,7 +31,8 @@
     "所属界面": "孔孟大陆",
     "特产": "雨季多雷雨",
     "危险度": "地处偏僻、凋零闭派、曾遭异国修士入侵逼至绝路、极高——异族入侵、修士溃败、异族入侵中、尸骸之地、尸阴宗总部所在、擅入者遭全星围剿",
-    "上级区域": "朱雀星"
+    "上级区域": "朱雀星",
+    "所属势力": "恒岳派、藤家"
   },
   "observations": {
     "类型": [
@@ -293,6 +294,18 @@
         "docId": "plot.xianni-ch1572-wang-ru-yan-parents-grave-zhou-wutai",
         "seq": 1481
       }
+    ],
+    "所属势力": [
+      {
+        "value": "恒岳派",
+        "docId": "plot.xianni-1595-lianhunzong-de-yin",
+        "seq": 1501
+      },
+      {
+        "value": "藤家",
+        "docId": "plot.xianni-1595-lianhunzong-de-yin",
+        "seq": 1501
+      }
     ]
   },
   "firstSeq": 1,
@@ -345,6 +358,12 @@
       "docId": "plot.xianni-ch1572-wang-ru-yan-parents-grave-zhou-wutai",
       "dated": false,
       "seq": 1481
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-1595-lianhunzong-de-yin",
+      "dated": false,
+      "seq": 1501
     }
   },
   "contested": false,
@@ -413,7 +432,8 @@
     "plot.xianni-ch1573-qingsi-hun-red-butterfly-soul-split-array",
     "plot.xianni-1588-life-and-death-seven-colored-spear",
     "plot.xianni-ch1590-meng-ru-ren-sheng",
-    "plot.xianni-ch1593-ancient-temple-rainy-night"
+    "plot.xianni-ch1593-ancient-temple-rainy-night",
+    "plot.xianni-1595-lianhunzong-de-yin"
   ],
-  "updatedAt": "2026-08-26T06:00:21.456Z"
+  "updatedAt": "2026-08-26T06:04:12.082Z"
 }

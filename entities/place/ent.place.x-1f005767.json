@@ -23,13 +23,16 @@
     "Vermillion Bird",
     "朱雀之音",
     "天下一切火之灵朱雀",
-    "觉醒中的朱雀"
+    "觉醒中的朱雀",
+    "朱雀星朱雀国"
   ],
   "summary": "六级修真国，司徒南为其第一强者。",
   "attributes": {
     "类型": "高阶修真势力/国度",
     "所属界面": "朱雀星",
-    "特产": "天阙羽丝"
+    "特产": "天阙羽丝",
+    "上级区域": "朱雀星",
+    "所属势力": "炼魂宗"
   },
   "observations": {
     "类型": [
@@ -82,6 +85,20 @@
         "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
         "seq": 336
       }
+    ],
+    "上级区域": [
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-1595-lianhunzong-de-yin",
+        "seq": 1501
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "炼魂宗",
+        "docId": "plot.xianni-1595-lianhunzong-de-yin",
+        "seq": 1501
+      }
     ]
   },
   "firstSeq": 43,
@@ -103,6 +120,18 @@
       "docId": "plot.xianni-ch356-departure-immortal-remains-void-rift",
       "dated": false,
       "seq": 336
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-1595-lianhunzong-de-yin",
+      "dated": false,
+      "seq": 1501
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-1595-lianhunzong-de-yin",
+      "dated": false,
+      "seq": 1501
     }
   },
   "contested": false,
@@ -167,7 +196,8 @@
     "plot.xianni-ch1056-immortal-emperor-cave-layer7-volcano-demon-seal",
     "plot.xianni-ch1285-1287-lei-tu-hong-tian-kong-men-lie-feng",
     "plot.xianni-1413-tianni-zhi-bian",
-    "plot.xianni-1570-luoye-xungen-zhuque-star-return"
+    "plot.xianni-1570-luoye-xungen-zhuque-star-return",
+    "plot.xianni-1595-lianhunzong-de-yin"
   ],
-  "updatedAt": "2026-08-26T04:38:56.821Z"
+  "updatedAt": "2026-08-26T06:04:12.093Z"
 }

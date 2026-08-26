@@ -4,13 +4,16 @@
   "name": "苏城",
   "aliases": [
     "苏城河道",
-    "苏城（桂花酒产地）"
+    "苏城（桂花酒产地）",
+    "赵国苏城",
+    "文墨之都"
   ],
   "summary": "人方幻界中赵国境内的城池，河道上可租舟船，特产桂花老酒。",
   "attributes": {
     "所属界面": "人方界",
-    "类型": "凡人城池",
-    "特产": "桂花酒"
+    "类型": "城池/科考之地",
+    "特产": "桂花老酒、桂花酒、文墨之风",
+    "上级区域": "赵国"
   },
   "observations": {
     "所属界面": [
@@ -30,6 +33,11 @@
         "value": "凡人城池",
         "docId": "plot.xianni-ch1406-ruo-hun-bei-ren-fang-zhi-xiang",
         "seq": 1312
+      },
+      {
+        "value": "城池/科考之地",
+        "docId": "plot.xianni-1595-lianhunzong-de-yin",
+        "seq": 1501
       }
     ],
     "特产": [
@@ -41,6 +49,18 @@
       {
         "value": "桂花酒",
         "docId": "plot.xianni-ch1594-huishou-yiwang-lunhui-zai",
+        "seq": 1501
+      },
+      {
+        "value": "文墨之风",
+        "docId": "plot.xianni-1595-lianhunzong-de-yin",
+        "seq": 1501
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "赵国",
+        "docId": "plot.xianni-1595-lianhunzong-de-yin",
         "seq": 1501
       }
     ]
@@ -55,13 +75,19 @@
     },
     "类型": {
       "asOf": null,
+      "docId": "plot.xianni-1595-lianhunzong-de-yin",
+      "dated": false,
+      "seq": 1501
+    },
+    "特产": {
+      "asOf": null,
       "docId": "plot.xianni-ch1406-ruo-hun-bei-ren-fang-zhi-xiang",
       "dated": false,
       "seq": 1312
     },
-    "特产": {
+    "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch1594-huishou-yiwang-lunhui-zai",
+      "docId": "plot.xianni-1595-lianhunzong-de-yin",
       "dated": false,
       "seq": 1501
     }
@@ -70,7 +96,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1406-ruo-hun-bei-ren-fang-zhi-xiang",
-    "plot.xianni-ch1594-huishou-yiwang-lunhui-zai"
+    "plot.xianni-ch1594-huishou-yiwang-lunhui-zai",
+    "plot.xianni-1595-lianhunzong-de-yin"
   ],
-  "updatedAt": "2026-08-26T06:02:04.758Z"
+  "updatedAt": "2026-08-26T06:04:12.083Z"
 }

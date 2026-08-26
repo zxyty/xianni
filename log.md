@@ -939,3 +939,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T05:58:37.880Z** `ingest` plot.xianni-ch1592-life-is-a-play-who-am-i — 第1592章 人生如戏我是谁——凡人书生王林雨夜孤舟的前世悲恸 · kind=plot asOf=2026-08-26 entities=25 relations=43 src=01501-01505.p2.md
 - **2026-08-26T06:00:21.870Z** `ingest` plot.xianni-ch1593-ancient-temple-rainy-night — 第1593章 古庙夜雨归魂来：凡人王林梦醒赶路，破庙遇疯汉 · kind=plot asOf=2026-08-26 entities=8 relations=13 src=01501-01505.p3.md
 - **2026-08-26T06:02:05.203Z** `ingest` plot.xianni-ch1594-huishou-yiwang-lunhui-zai — 第1594章 回首一望轮回在——梦凡破庙收疯子为书童 · kind=plot asOf=2026-08-26 entities=12 relations=16 src=01501-01505.p4.md
+- **2026-08-26T06:04:12.684Z** `ingest` plot.xianni-1595-lianhunzong-de-yin — 第1595章 炼魂宗的因——赵国科考路上一指止雷，惊动四方 · kind=plot asOf=2026-08-26 entities=27 relations=32 src=01501-01505.p5.md
