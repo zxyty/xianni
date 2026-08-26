@@ -12,7 +12,8 @@
     "上级区域": "符文族",
     "规模": "百丈石室",
     "特产": "蕴含本源之力的火苗",
-    "所属势力": "符文族"
+    "所属势力": "符文族",
+    "方位": "建于域外战场内（非朱雀星地底深处）"
   },
   "observations": {
     "类型": [
@@ -60,6 +61,13 @@
         "docId": "plot.xianni-1577-yuwai",
         "seq": 1486
       }
+    ],
+    "方位": [
+      {
+        "value": "建于域外战场内（非朱雀星地底深处）",
+        "docId": "plot.xianni-ch1578-tianbian-yuwai-zhanchang-men-fragment",
+        "seq": 1486
+      }
     ]
   },
   "firstSeq": 1481,
@@ -94,13 +102,20 @@
       "docId": "plot.xianni-1577-yuwai",
       "dated": false,
       "seq": 1486
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1578-tianbian-yuwai-zhanchang-men-fragment",
+      "dated": false,
+      "seq": 1486
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1574-fuwen-clan-19th-layer-secret",
-    "plot.xianni-1577-yuwai"
+    "plot.xianni-1577-yuwai",
+    "plot.xianni-ch1578-tianbian-yuwai-zhanchang-men-fragment"
   ],
-  "updatedAt": "2026-08-26T04:55:23.167Z"
+  "updatedAt": "2026-08-26T04:57:50.232Z"
 }

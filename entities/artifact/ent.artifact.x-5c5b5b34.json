@@ -13,7 +13,8 @@
     "来历": "李广之弓的配箭",
     "外形": "随道古左目破碎虚空后失踪",
     "能力": "射落道古烨寞左眼、箭中蕴含仙人血脉气息",
-    "持有者": "李广"
+    "持有者": "李广",
+    "禁制": "封印于符文族第十九层"
   },
   "observations": {
     "来历": [
@@ -48,6 +49,13 @@
         "docId": "plot.xianni-1574-fuwen-clan-19th-layer-secret",
         "seq": 1481
       }
+    ],
+    "禁制": [
+      {
+        "value": "封印于符文族第十九层",
+        "docId": "plot.xianni-ch1578-tianbian-yuwai-zhanchang-men-fragment",
+        "seq": 1486
+      }
     ]
   },
   "firstSeq": 1439,
@@ -75,13 +83,20 @@
       "docId": "plot.xianni-1574-fuwen-clan-19th-layer-secret",
       "dated": false,
       "seq": 1481
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1578-tianbian-yuwai-zhanchang-men-fragment",
+      "dated": false,
+      "seq": 1486
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
-    "plot.xianni-1574-fuwen-clan-19th-layer-secret"
+    "plot.xianni-1574-fuwen-clan-19th-layer-secret",
+    "plot.xianni-ch1578-tianbian-yuwai-zhanchang-men-fragment"
   ],
-  "updatedAt": "2026-08-26T04:48:09.951Z"
+  "updatedAt": "2026-08-26T04:57:50.240Z"
 }

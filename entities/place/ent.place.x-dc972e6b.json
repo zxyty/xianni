@@ -7,16 +7,17 @@
     "百年一次的域外战场",
     "域外",
     "域外空间",
-    "漆黑空旷之地"
+    "漆黑空旷之地",
+    "域外战场碎片"
   ],
   "summary": "域外通道之外的厮杀战场，每百年清理一次，强者云集、生死一瞬。",
   "attributes": {
-    "类型": "战场、战场/资格赛场、秘境·战场、充满裂缝的空间、战场/域外之地、战场/秘境、战场/界外、古战场/域外空间、域外战场（星空战场）、独立空间战场、秘境/战场空间、混乱之地、百年一次的域外战场、战场/试炼、试炼战场、多关卡战场空间、战场空间／内含空间裂缝、战场空间、古战场/秘境、战场/秘境空间、战场空间/秘境、战场/域外空间",
+    "类型": "战场、战场/资格赛场、秘境·战场、充满裂缝的空间、战场/域外之地、战场/秘境、战场/界外、古战场/域外空间、域外战场（星空战场）、独立空间战场、秘境/战场空间、混乱之地、百年一次的域外战场、战场/试炼、试炼战场、多关卡战场空间、战场空间／内含空间裂缝、战场空间、古战场/秘境、战场/秘境空间、战场空间/秘境、战场/域外空间、遗迹战场／门之碎片",
     "危险度": "极高、极高（罡风熔化神、裂痕吞婴变）、极高（去者十存一）、高（生还率约30%）、极高（濒临崩溃、遍布裂缝）、极高（濒临空间崩溃，禁止四五级修真国修士进入）、极高（坍塌与吞魂/游魂）、极高（坍塌中，游魂遍地）、极高（生死由命）",
     "所属势力": "联盟",
-    "规模": "极大，飞行未见边际",
-    "所属界面": "赵国修真界",
-    "特产": "材料、法宝、神识（征缴单前十的至珍之物）、狰狞野生游魂/魔头、游魂魔头、游魂、香魂",
+    "规模": "撞破隔膜后其外范围如大海之于江河",
+    "所属界面": "朱雀星",
+    "特产": "材料、法宝、神识（征缴单前十的至珍之物）、狰狞野生游魂/魔头、游魂魔头、游魂、香魂、修士骸骨、凶兽骸骨、仙人金光骸骨、游魂风暴",
     "守护": "修真联盟定期加固",
     "方位": "符文族第十八层墙壁之外"
   },
@@ -131,6 +132,11 @@
         "value": "战场/域外空间",
         "docId": "plot.xianni-1577-yuwai",
         "seq": 1486
+      },
+      {
+        "value": "遗迹战场／门之碎片",
+        "docId": "plot.xianni-ch1578-tianbian-yuwai-zhanchang-men-fragment",
+        "seq": 1486
       }
     ],
     "危险度": [
@@ -203,6 +209,11 @@
         "value": "极大，飞行未见边际",
         "docId": "plot.xianni-ch361-zhuque-guo-arrival",
         "seq": 341
+      },
+      {
+        "value": "撞破隔膜后其外范围如大海之于江河",
+        "docId": "plot.xianni-ch1578-tianbian-yuwai-zhanchang-men-fragment",
+        "seq": 1486
       }
     ],
     "所属界面": [
@@ -210,6 +221,11 @@
         "value": "赵国修真界",
         "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
         "seq": 96
+      },
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch1578-tianbian-yuwai-zhanchang-men-fragment",
+        "seq": 1486
       }
     ],
     "特产": [
@@ -247,6 +263,26 @@
         "value": "香魂",
         "docId": "plot.xianni-ch427-ancestral-spirit-tree",
         "seq": 405
+      },
+      {
+        "value": "修士骸骨",
+        "docId": "plot.xianni-ch1578-tianbian-yuwai-zhanchang-men-fragment",
+        "seq": 1486
+      },
+      {
+        "value": "凶兽骸骨",
+        "docId": "plot.xianni-ch1578-tianbian-yuwai-zhanchang-men-fragment",
+        "seq": 1486
+      },
+      {
+        "value": "仙人金光骸骨",
+        "docId": "plot.xianni-ch1578-tianbian-yuwai-zhanchang-men-fragment",
+        "seq": 1486
+      },
+      {
+        "value": "游魂风暴",
+        "docId": "plot.xianni-ch1578-tianbian-yuwai-zhanchang-men-fragment",
+        "seq": 1486
       }
     ],
     "守护": [
@@ -291,15 +327,15 @@
     },
     "规模": {
       "asOf": null,
-      "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+      "docId": "plot.xianni-ch1578-tianbian-yuwai-zhanchang-men-fragment",
       "dated": false,
-      "seq": 341
+      "seq": 1486
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch96-101-refine-flying-sword-tianni-bead-mystery",
+      "docId": "plot.xianni-ch1578-tianbian-yuwai-zhanchang-men-fragment",
       "dated": false,
-      "seq": 96
+      "seq": 1486
     },
     "特产": {
       "asOf": null,
@@ -347,7 +383,8 @@
     "plot.xianni-ch427-ancestral-spirit-tree",
     "plot.xianni-ch432-ancestral-rune-skull",
     "plot.xianni-ch1564-shisan-qicai-realm-collapse-aftermath",
-    "plot.xianni-1577-yuwai"
+    "plot.xianni-1577-yuwai",
+    "plot.xianni-ch1578-tianbian-yuwai-zhanchang-men-fragment"
   ],
-  "updatedAt": "2026-08-26T04:55:23.168Z"
+  "updatedAt": "2026-08-26T04:57:50.231Z"
 }
