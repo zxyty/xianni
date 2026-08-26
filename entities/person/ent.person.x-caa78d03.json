@@ -38,7 +38,7 @@
   ],
   "summary": "符族当年所冒犯的至高存在，其力量无法操控封界，故符族逃入封界避祸。",
   "attributes": {
-    "身份": "罗睺之师尊、界外之民中的强大存在、疑为仿造天逆者、掌尊、天道之计的谋划者、七彩花的种植者、疑似掌尊、太古强者、当年围杀神宗旧主的三人之一、太古星辰三尊之一、第三步大能（两道本源大成入道）、太古星辰掌权者、第三步大能、赐道者、界外势力之主、火雀族圣地内的至高存在、王林此战欲杀之目标、界外势力之尊、死士之主、水道子的上位者、太古星辰掌尊、风羿之师、界外掌尊、掌印小厮、布局者、道果封印布置者、界外强者、尚未出现的强敌、王林所忌惮的幕后主导者、太古修军之主、杀上代封尊、毁四大仙界、计算青霖仙帝等诸事的幕后主使、封杀王林之局的布置者",
+    "身份": "罗睺之师尊、界外之民中的强大存在、疑为仿造天逆者、掌尊、天道之计的谋划者、七彩花的种植者、疑似掌尊、太古强者、当年围杀神宗旧主的三人之一、太古星辰三尊之一、第三步大能（两道本源大成入道）、太古星辰掌权者、第三步大能、赐道者、界外势力之主、火雀族圣地内的至高存在、王林此战欲杀之目标、界外势力之尊、死士之主、水道子的上位者、太古星辰掌尊、风羿之师、界外掌尊、掌印小厮、布局者、道果封印布置者、界外强者、尚未出现的强敌、王林所忌惮的幕后主导者、太古修军之主、杀上代封尊、毁四大仙界、计算青霖仙帝等诸事的幕后主使、封杀王林之局的布置者、疯子的仆从/属下（称疯子为「主」）",
     "外貌": "黑袍中年男子，眉心有圆形印记、面色苍白、目中平静如水的英俊中年男子，仙风道骨、身外七彩火焰，身后七彩朱雀；重伤后面色苍白、神色狰狞、中年男子、全身被黑袍笼罩，双目爆出明亮精光，干枯手掌、黑袍遮颜，黑袍撕开大半、双腿爆开只余白骨、黑袍虚影、干枯双手、身穿黑袍，面貌被袍子笼罩，右手干枯、黑袍人，声音沙哑，右手干枯、干枯的右手",
     "阵营": "界外之民、界外、疑与界外之民相关、界外/敌对封界之主一方、界外·太古星辰、界外太古星辰、太古星辰、与界内敌对（伏笔布局者）",
     "称号": "太古五尊之首",
@@ -47,11 +47,12 @@
     "神识": "目光自天空漩涡降临，威压压迫整个七彩界",
     "小阶段": "空灵后期",
     "出身地": "太古星辰",
-    "存殁": "在世",
+    "存殁": "身影轰然崩溃消失",
     "结局": "被界内一吼之力重伤卷出界内",
     "性别": "男",
     "元神强度": "威压远超此地封印所限的空灵中期",
-    "分身": "火雀族中疑似掌尊分身之人"
+    "分身": "火雀族中疑似掌尊分身之人",
+    "死因": "被战老鬼于其身影模糊之际抬手一指击溃"
   },
   "observations": {
     "身份": [
@@ -213,6 +214,11 @@
       {
         "value": "封杀王林之局的布置者",
         "docId": "plot.xianni-ch1587-en-duan-chi-hun-zi-chuang-feng-yin",
+        "seq": 1496
+      },
+      {
+        "value": "疯子的仆从/属下（称疯子为「主」）",
+        "docId": "plot.xianni-1588-life-and-death-seven-colored-spear",
         "seq": 1496
       }
     ],
@@ -451,6 +457,12 @@
         "value": "在世",
         "docId": "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
         "seq": 1439
+      },
+      {
+        "value": "身影轰然崩溃消失",
+        "docId": "plot.xianni-1588-life-and-death-seven-colored-spear",
+        "seq": 1496,
+        "note": "第1588章被战老鬼一指所击，恍惚失警下避之不及"
       }
     ],
     "结局": [
@@ -488,6 +500,13 @@
         "docId": "plot.xianni-ch1586-jing-zhong-lao-yue-xian-gu-fen",
         "seq": 1496,
         "note": "王林曾在其身上见过井中捞月"
+      }
+    ],
+    "死因": [
+      {
+        "value": "被战老鬼于其身影模糊之际抬手一指击溃",
+        "docId": "plot.xianni-1588-life-and-death-seven-colored-spear",
+        "seq": 1496
       }
     ]
   },
@@ -550,9 +569,10 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch1529-fengjie-zhizhan-jieshu-lanmeng-daozun",
+      "docId": "plot.xianni-1588-life-and-death-seven-colored-spear",
       "dated": false,
-      "seq": 1439
+      "seq": 1496,
+      "note": "第1588章被战老鬼一指所击，恍惚失警下避之不及"
     },
     "结局": {
       "asOf": null,
@@ -580,6 +600,12 @@
       "dated": false,
       "seq": 1496,
       "note": "王林曾在其身上见过井中捞月"
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-1588-life-and-death-seven-colored-spear",
+      "dated": false,
+      "seq": 1496
     }
   },
   "contested": false,
@@ -639,7 +665,8 @@
     "plot.xianni-ch1584-xushen-tianzun-seizes-wang-lin-body",
     "plot.xianni-ch1585-one-arrow-power-li-family-bow",
     "plot.xianni-ch1586-jing-zhong-lao-yue-xian-gu-fen",
-    "plot.xianni-ch1587-en-duan-chi-hun-zi-chuang-feng-yin"
+    "plot.xianni-ch1587-en-duan-chi-hun-zi-chuang-feng-yin",
+    "plot.xianni-1588-life-and-death-seven-colored-spear"
   ],
-  "updatedAt": "2026-08-26T05:47:26.142Z"
+  "updatedAt": "2026-08-26T05:50:20.059Z"
 }

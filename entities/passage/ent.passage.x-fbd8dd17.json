@@ -4,15 +4,16 @@
   "name": "炼魂宗禁地黑洞漩涡",
   "aliases": [
     "黑洞漩涡",
-    "禁地漩涡通道"
+    "禁地漩涡通道",
+    "黑涧漩涡"
   ],
   "summary": "遁天以法诀在后山虚空打出的巨大黑洞漩涡，四周游走无数黑色闪电，入内感如身在传送阵，通往禁地溶洞。",
   "attributes": {
-    "类型": "空间漩涡通道（似传送阵）",
-    "两端": "炼魂宗后山 ↔ 炼魂宗后山禁地溶洞",
+    "类型": "空间漩涡/裂缝",
+    "两端": "炼魂宗后山 ↔ 炼魂宗后山禁地溶洞、封印之地（被撕碎的天地）、府壁之层（战老鬼判断）",
     "可通行境界": "唯历代掌握锁神术之人",
     "守护": "四周无数黑色闪电",
-    "来历": "遁天以法诀开启"
+    "来历": "七彩之枪七次倍增爆发撕裂天地星空所生"
   },
   "observations": {
     "类型": [
@@ -20,6 +21,11 @@
         "value": "空间漩涡通道（似传送阵）",
         "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
         "seq": 392
+      },
+      {
+        "value": "空间漩涡/裂缝",
+        "docId": "plot.xianni-1588-life-and-death-seven-colored-spear",
+        "seq": 1496
       }
     ],
     "两端": [
@@ -27,6 +33,16 @@
         "value": "炼魂宗后山 ↔ 炼魂宗后山禁地溶洞",
         "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
         "seq": 392
+      },
+      {
+        "value": "封印之地（被撕碎的天地）",
+        "docId": "plot.xianni-1588-life-and-death-seven-colored-spear",
+        "seq": 1496
+      },
+      {
+        "value": "府壁之层（战老鬼判断）",
+        "docId": "plot.xianni-1588-life-and-death-seven-colored-spear",
+        "seq": 1496
       }
     ],
     "可通行境界": [
@@ -48,6 +64,11 @@
         "value": "遁天以法诀开启",
         "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
         "seq": 392
+      },
+      {
+        "value": "七彩之枪七次倍增爆发撕裂天地星空所生",
+        "docId": "plot.xianni-1588-life-and-death-seven-colored-spear",
+        "seq": 1496
       }
     ]
   },
@@ -55,9 +76,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+      "docId": "plot.xianni-1588-life-and-death-seven-colored-spear",
       "dated": false,
-      "seq": 392
+      "seq": 1496
     },
     "两端": {
       "asOf": null,
@@ -79,15 +100,16 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+      "docId": "plot.xianni-1588-life-and-death-seven-colored-spear",
       "dated": false,
-      "seq": 392
+      "seq": 1496
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics"
+    "plot.xianni-ch414-zhaoguo-farewell-hengyue-relics",
+    "plot.xianni-1588-life-and-death-seven-colored-spear"
   ],
-  "updatedAt": "2026-08-17T16:51:11.912Z"
+  "updatedAt": "2026-08-26T05:50:20.074Z"
 }

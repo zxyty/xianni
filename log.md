@@ -932,3 +932,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T05:14:58.623Z** `ingest` plot.xianni-ch1585-one-arrow-power-li-family-bow — 第1585章 一箭之威：王林一箭连杀三尊，掌尊现身接箭 · kind=plot asOf=2026-08-26 entities=25 relations=41 src=01491-01495.p5.md
 - **2026-08-26T05:44:44.796Z** `ingest` plot.xianni-ch1586-jing-zhong-lao-yue-xian-gu-fen — 第1586章 仙古分！——掌尊现身，井中捞月剥离仙人血脉，赤魂子出阁楼 · kind=plot asOf=2026-08-26 entities=29 relations=37 src=01496-01500.p1.md
 - **2026-08-26T05:47:26.627Z** `ingest` plot.xianni-ch1587-en-duan-chi-hun-zi-chuang-feng-yin — 第1587章 恩断！——赤魂子撞破封印，蓝梦出手，恩义一刀两断 · kind=plot asOf=2026-08-26 entities=37 relations=52 src=01496-01500.p2.md
+- **2026-08-26T05:50:20.499Z** `ingest` plot.xianni-1588-life-and-death-seven-colored-spear — 第1588章 生死！——七彩之枪下的解脱与疯子救王林堕入黑洞 · kind=plot asOf=2026-08-26 entities=28 relations=32 src=01496-01500.p3.md
