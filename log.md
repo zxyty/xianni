@@ -995,3 +995,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T09:55:32.957Z** `ingest` plot.xianni-ch1566-1570-li-guang-arrow-slays-zhang-zun — 仙逆 第1566-1570章 大爆发：李广箭破掌尊、王林归来罗天 · kind=plot asOf=2026-08-26 entities=96 relations=174 src=01566-01570.md
 - **2026-08-26T10:14:37.995Z** `ingest` plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei — 仙逆 第1571-1575章：界内休整三年与紫霞八妃现身 · kind=plot asOf=2026-08-26 entities=81 relations=118 src=01571-01575.md
 - **2026-08-26T11:01:47.815Z** `ingest` plot.xianni-ch1666-ji-dian-ying-hun-ru-zhen-ling — 仙逆 第1666章 祭奠——王林召英魂入阵，界内亡魂自愿化作不灭阵灵 · kind=plot asOf=2026-08-26 entities=100 relations=158 src=01576-01580.md
+- **2026-08-26T11:13:51.378Z** `ingest` plot.xianni-1671-youmingshou-vs-taigu-huangshen-nine-coffins — 第1671章 是左眼么！——幽冥兽吞噬远古凶兽，界外九棺唤太古皇神 · kind=plot asOf=2026-08-26 entities=21 relations=21 src=01581-01585.p1.md
