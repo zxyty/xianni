@@ -9,7 +9,9 @@
   "summary": "与龙磐子同一时期之人，王林作为「当代封尊」的前任。",
   "attributes": {
     "称号": "封尊",
-    "身份": "上一代封尊"
+    "身份": "上一代封尊",
+    "存殁": "死亡",
+    "死因": "被掌尊所杀"
   },
   "observations": {
     "称号": [
@@ -24,6 +26,20 @@
         "value": "上一代封尊",
         "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
         "seq": 1462
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch1586-jing-zhong-lao-yue-xian-gu-fen",
+        "seq": 1496
+      }
+    ],
+    "死因": [
+      {
+        "value": "被掌尊所杀",
+        "docId": "plot.xianni-ch1586-jing-zhong-lao-yue-xian-gu-fen",
+        "seq": 1496
       }
     ]
   },
@@ -40,13 +56,26 @@
       "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
       "dated": false,
       "seq": 1462
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1586-jing-zhong-lao-yue-xian-gu-fen",
+      "dated": false,
+      "seq": 1496
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1586-jing-zhong-lao-yue-xian-gu-fen",
+      "dated": false,
+      "seq": 1496
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
-    "plot.xianni-ch1563-third-dao-fruit"
+    "plot.xianni-ch1563-third-dao-fruit",
+    "plot.xianni-ch1586-jing-zhong-lao-yue-xian-gu-fen"
   ],
-  "updatedAt": "2026-08-26T04:19:49.684Z"
+  "updatedAt": "2026-08-26T05:44:44.317Z"
 }

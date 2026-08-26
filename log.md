@@ -930,3 +930,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T05:09:54.646Z** `ingest` plot.xianni-ch1583-immortal-indestructible-body — 第1583章 仙人不灭体！——王林转换仙体，虚神天尊现身夺体 · kind=plot asOf=2026-08-26 entities=22 relations=29 src=01491-01495.p3.md
 - **2026-08-26T05:12:28.897Z** `ingest` plot.xianni-ch1584-xushen-tianzun-seizes-wang-lin-body — 第1584章 天尊夺舍！——虚神天尊夺王林仙体，游魂风暴反噬，李广弓现世 · kind=plot asOf=2026-08-26 entities=20 relations=36 src=01491-01495.p4.md
 - **2026-08-26T05:14:58.623Z** `ingest` plot.xianni-ch1585-one-arrow-power-li-family-bow — 第1585章 一箭之威：王林一箭连杀三尊，掌尊现身接箭 · kind=plot asOf=2026-08-26 entities=25 relations=41 src=01491-01495.p5.md
+- **2026-08-26T05:44:44.796Z** `ingest` plot.xianni-ch1586-jing-zhong-lao-yue-xian-gu-fen — 第1586章 仙古分！——掌尊现身，井中捞月剥离仙人血脉，赤魂子出阁楼 · kind=plot asOf=2026-08-26 entities=29 relations=37 src=01496-01500.p1.md
