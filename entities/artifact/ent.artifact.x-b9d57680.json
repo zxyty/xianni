@@ -2,11 +2,14 @@
   "id": "ent.artifact.x-b9d57680",
   "type": "artifact",
   "name": "封尊玉佩",
-  "aliases": [],
+  "aliases": [
+    "封尊残识玉佩"
+  ],
   "summary": "困住天罚殿殿主、使其无法参战的法宝。",
   "attributes": {
-    "能力": "困锁大能",
-    "持有者": "云海一方"
+    "能力": "承载封尊残留神识",
+    "持有者": "云海一方",
+    "来历": "封尊遗物"
   },
   "observations": {
     "能力": [
@@ -14,6 +17,11 @@
         "value": "困锁大能",
         "docId": "plot.xianni-1523-yunhai-rout-hongshanzi-ambushed",
         "seq": 1429
+      },
+      {
+        "value": "承载封尊残留神识",
+        "docId": "plot.xianni-1524-wangao-yiwo-kaitianfu",
+        "seq": 1434
       }
     ],
     "持有者": [
@@ -22,27 +30,41 @@
         "docId": "plot.xianni-1523-yunhai-rout-hongshanzi-ambushed",
         "seq": 1429
       }
+    ],
+    "来历": [
+      {
+        "value": "封尊遗物",
+        "docId": "plot.xianni-1524-wangao-yiwo-kaitianfu",
+        "seq": 1434
+      }
     ]
   },
   "firstSeq": 1429,
   "attrProvenance": {
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-1523-yunhai-rout-hongshanzi-ambushed",
+      "docId": "plot.xianni-1524-wangao-yiwo-kaitianfu",
       "dated": false,
-      "seq": 1429
+      "seq": 1434
     },
     "持有者": {
       "asOf": null,
       "docId": "plot.xianni-1523-yunhai-rout-hongshanzi-ambushed",
       "dated": false,
       "seq": 1429
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-1524-wangao-yiwo-kaitianfu",
+      "dated": false,
+      "seq": 1434
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1523-yunhai-rout-hongshanzi-ambushed"
+    "plot.xianni-1523-yunhai-rout-hongshanzi-ambushed",
+    "plot.xianni-1524-wangao-yiwo-kaitianfu"
   ],
-  "updatedAt": "2026-08-26T01:20:32.857Z"
+  "updatedAt": "2026-08-26T01:22:48.299Z"
 }
