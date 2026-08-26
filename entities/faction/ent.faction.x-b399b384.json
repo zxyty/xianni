@@ -4,13 +4,14 @@
   "name": "天罚殿",
   "aliases": [
     "长尊会天罚殿",
-    "Tian Fa Dian"
+    "Tian Fa Dian",
+    "天罚殿势力"
   ],
   "summary": "长尊会四殿之一，本章以庞大黑色阁楼形态降临封界大阵外督战，威压笼罩八方，九万修士齐拜。",
   "attributes": {
-    "阵营": "长尊会",
+    "阵营": "界外",
     "等级": "长尊会四殿之一",
-    "据点": "庞大的黑色阁楼",
+    "据点": "封界之外",
     "镇派之宝": "香火晶剑"
   },
   "observations": {
@@ -19,6 +20,11 @@
         "value": "长尊会",
         "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
         "seq": 1425
+      },
+      {
+        "value": "界外",
+        "docId": "plot.xianni-1521-blood-shirt-boy-red-shirt-master",
+        "seq": 1429
       }
     ],
     "等级": [
@@ -33,6 +39,11 @@
         "value": "庞大的黑色阁楼",
         "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
         "seq": 1425
+      },
+      {
+        "value": "封界之外",
+        "docId": "plot.xianni-1521-blood-shirt-boy-red-shirt-master",
+        "seq": 1429
       }
     ],
     "镇派之宝": [
@@ -47,9 +58,9 @@
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
+      "docId": "plot.xianni-1521-blood-shirt-boy-red-shirt-master",
       "dated": false,
-      "seq": 1425
+      "seq": 1429
     },
     "等级": {
       "asOf": null,
@@ -59,9 +70,9 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-1516-ru-jie-di-yi-zhan",
+      "docId": "plot.xianni-1521-blood-shirt-boy-red-shirt-master",
       "dated": false,
-      "seq": 1425
+      "seq": 1429
     },
     "镇派之宝": {
       "asOf": null,
@@ -74,7 +85,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-1516-ru-jie-di-yi-zhan",
-    "plot.xianni-1518-fengjie-dazhen-poliekaizhan"
+    "plot.xianni-1518-fengjie-dazhen-poliekaizhan",
+    "plot.xianni-1521-blood-shirt-boy-red-shirt-master"
   ],
-  "updatedAt": "2026-08-26T01:08:51.277Z"
+  "updatedAt": "2026-08-26T01:16:02.540Z"
 }

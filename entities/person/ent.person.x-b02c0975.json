@@ -10,8 +10,9 @@
     "阵营": "界外太古星辰、界外太古星辰一方、界外、界外修士（太古星辰一方）",
     "小阶段": "空灵境界",
     "外貌": "样子清秀的青年，双眼细长眯起如缝、露森森寒光",
-    "标志特征": "身外弥漫一层雾气、眉心印记为一片旋转的黑雾、一身毒攻与大荒上人齐名、右手化黑、剧毒毒攻、藏身黑色火鸟之内，香火界为黑天黑地、腥臭弥漫、无数黑袍子民",
-    "称号": "与大荒齐名的毒功者"
+    "标志特征": "身外弥漫一层雾气、眉心印记为一片旋转的黑雾、一身毒攻与大荒上人齐名、右手化黑、剧毒毒攻、藏身黑色火鸟之内，香火界为黑天黑地、腥臭弥漫、无数黑袍子民、自毁肉身以元神脱困，另备肉身可融灵神",
+    "称号": "与大荒齐名的毒功者",
+    "身份": "界外大能"
   },
   "observations": {
     "阵营": [
@@ -80,12 +81,25 @@
         "value": "藏身黑色火鸟之内，香火界为黑天黑地、腥臭弥漫、无数黑袍子民",
         "docId": "plot.xianni-1520-lingshen-nanzhao-xianghuojie",
         "seq": 1429
+      },
+      {
+        "value": "自毁肉身以元神脱困，另备肉身可融灵神",
+        "docId": "plot.xianni-1521-blood-shirt-boy-red-shirt-master",
+        "seq": 1429,
+        "note": "本章"
       }
     ],
     "称号": [
       {
         "value": "与大荒齐名的毒功者",
         "docId": "plot.xianni-1519-fanji-fengjie-dazhen-liefeng-kaitianfu",
+        "seq": 1429
+      }
+    ],
+    "身份": [
+      {
+        "value": "界外大能",
+        "docId": "plot.xianni-1521-blood-shirt-boy-red-shirt-master",
         "seq": 1429
       }
     ]
@@ -121,6 +135,12 @@
       "docId": "plot.xianni-1519-fanji-fengjie-dazhen-liefeng-kaitianfu",
       "dated": false,
       "seq": 1429
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-1521-blood-shirt-boy-red-shirt-master",
+      "dated": false,
+      "seq": 1429
     }
   },
   "contested": false,
@@ -128,7 +148,8 @@
   "docs": [
     "plot.xianni-1516-ru-jie-di-yi-zhan",
     "plot.xianni-1519-fanji-fengjie-dazhen-liefeng-kaitianfu",
-    "plot.xianni-1520-lingshen-nanzhao-xianghuojie"
+    "plot.xianni-1520-lingshen-nanzhao-xianghuojie",
+    "plot.xianni-1521-blood-shirt-boy-red-shirt-master"
   ],
-  "updatedAt": "2026-08-26T01:13:29.897Z"
+  "updatedAt": "2026-08-26T01:16:02.532Z"
 }

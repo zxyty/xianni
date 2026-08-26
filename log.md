@@ -871,3 +871,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T01:08:51.689Z** `ingest` plot.xianni-1518-fengjie-dazhen-poliekaizhan — 第1518章 不能退！！——封界大阵被撕裂，界外太古星辰入侵开战 · kind=plot asOf=2026-08-26 entities=30 relations=32 src=01425-01428.p4.md
 - **2026-08-26T01:11:08.977Z** `ingest` plot.xianni-1519-fanji-fengjie-dazhen-liefeng-kaitianfu — 第1519章 反击！！——封界大阵破口、开天斧屠戮界外大军 · kind=plot asOf=2026-08-26 entities=26 relations=32 src=01429-01433.p1.md
 - **2026-08-26T01:13:30.340Z** `ingest` plot.xianni-1520-lingshen-nanzhao-xianghuojie — 第1520章 灵神！——云海援军压境，王林以古神护腕破南诏上人香火界一掌 · kind=plot asOf=2026-08-26 entities=24 relations=27 src=01429-01433.p2.md
+- **2026-08-26T01:16:02.986Z** `ingest` plot.xianni-1521-blood-shirt-boy-red-shirt-master — 《仙逆》第1521章 此衫，非杉！——红杉子血衫童子之名震界外，云海血战开启 · kind=plot asOf=2026-08-26 entities=23 relations=26 src=01429-01433.p3.md
