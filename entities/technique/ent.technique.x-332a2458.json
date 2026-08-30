@@ -6,13 +6,17 @@
     "八本源真身",
     "本源化身",
     "八个本源真身",
-    "本源之身"
+    "本源之身",
+    "凝本源真身",
+    "火本源真身",
+    "源真身"
   ],
   "summary": "东临池池水令本源再次进化后凝出的、与本尊一模一样的实体化本源之身。王林共成八具：火、雷、生死、因果、真假、杀戮、禁制、水。",
   "attributes": {
-    "效果": "本源实体化、修为暴增数倍，可同时出手、幻化出与本尊同时出手的分身，威力叠加",
-    "修炼条件": "本源大成/圆满并得东临池池水之助",
-    "外显异象": "八身与本尊同貌，各具本源形态、多个与本尊同貌之身齐齐出掌"
+    "效果": "本源实体化、修为暴增数倍，可同时出手、幻化出与本尊同时出手的分身，威力叠加、以自身本源凝出真身，本章仅凝出四肢，尚差身躯与头颅",
+    "修炼条件": "本源须拥有自己的意志，且需极磅礴的本源之力供给",
+    "外显异象": "八身与本尊同貌，各具本源形态、多个与本尊同貌之身齐齐出掌、一丈火球内朱雀羽化人形双腿、双翅化作布满火焰印记的双手",
+    "五行属性": "火（王林所凝为火本源真身）"
   },
   "observations": {
     "效果": [
@@ -25,6 +29,11 @@
         "value": "幻化出与本尊同时出手的分身，威力叠加",
         "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
         "seq": 1695
+      },
+      {
+        "value": "以自身本源凝出真身，本章仅凝出四肢，尚差身躯与头颅",
+        "docId": "plot.xianni-ch1815-condense-source-true-body",
+        "seq": 1725
       }
     ],
     "修炼条件": [
@@ -32,6 +41,11 @@
         "value": "本源大成/圆满并得东临池池水之助",
         "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
         "seq": 1695
+      },
+      {
+        "value": "本源须拥有自己的意志，且需极磅礴的本源之力供给",
+        "docId": "plot.xianni-ch1815-condense-source-true-body",
+        "seq": 1725
       }
     ],
     "外显异象": [
@@ -44,6 +58,23 @@
         "value": "多个与本尊同貌之身齐齐出掌",
         "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
         "seq": 1695
+      },
+      {
+        "value": "一丈火球内朱雀羽化人形双腿",
+        "docId": "plot.xianni-ch1815-condense-source-true-body",
+        "seq": 1725
+      },
+      {
+        "value": "双翅化作布满火焰印记的双手",
+        "docId": "plot.xianni-ch1815-condense-source-true-body",
+        "seq": 1725
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "火（王林所凝为火本源真身）",
+        "docId": "plot.xianni-ch1815-condense-source-true-body",
+        "seq": 1725
       }
     ]
   },
@@ -57,21 +88,28 @@
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
+      "docId": "plot.xianni-ch1815-condense-source-true-body",
       "dated": false,
-      "seq": 1695
+      "seq": 1725
     },
     "外显异象": {
       "asOf": null,
       "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
       "dated": false,
       "seq": 1695
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1815-condense-source-true-body",
+      "dated": false,
+      "seq": 1725
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate"
+    "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
+    "plot.xianni-ch1815-condense-source-true-body"
   ],
-  "updatedAt": "2026-08-30T07:52:43.278Z"
+  "updatedAt": "2026-08-30T09:37:44.421Z"
 }

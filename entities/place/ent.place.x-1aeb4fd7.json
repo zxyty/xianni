@@ -10,10 +10,11 @@
   ],
   "summary": "对古国第三损最后一劫亦极为重视的势力所在之地。",
   "attributes": {
-    "类型": "种族领地",
+    "类型": "势力属地",
     "所属界面": "仙罡大陆",
     "所属势力": "仙族",
-    "方位": "仙罡大陆远处"
+    "方位": "仙罡大陆远处",
+    "危险度": "高（大天尊会驱赶乃至联手围攻外来大能）"
   },
   "observations": {
     "类型": [
@@ -26,6 +27,11 @@
         "value": "种族领地",
         "docId": "plot.xianni-1715-mu-si-ru-ze",
         "seq": 1621
+      },
+      {
+        "value": "势力属地",
+        "docId": "plot.xianni-ch1815-condense-source-true-body",
+        "seq": 1725
       }
     ],
     "所属界面": [
@@ -48,15 +54,22 @@
         "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
         "seq": 1616
       }
+    ],
+    "危险度": [
+      {
+        "value": "高（大天尊会驱赶乃至联手围攻外来大能）",
+        "docId": "plot.xianni-ch1815-condense-source-true-body",
+        "seq": 1725
+      }
     ]
   },
   "firstSeq": 1616,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1715-mu-si-ru-ze",
+      "docId": "plot.xianni-ch1815-condense-source-true-body",
       "dated": false,
-      "seq": 1621
+      "seq": 1725
     },
     "所属界面": {
       "asOf": null,
@@ -75,6 +88,12 @@
       "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
       "dated": false,
       "seq": 1616
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1815-condense-source-true-body",
+      "dated": false,
+      "seq": 1725
     }
   },
   "contested": false,
@@ -83,7 +102,8 @@
     "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
     "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
     "plot.xianni-1715-mu-si-ru-ze",
-    "plot.xianni-1794-baishi-xuanluo-wenshou-jinhua"
+    "plot.xianni-1794-baishi-xuanluo-wenshou-jinhua",
+    "plot.xianni-ch1815-condense-source-true-body"
   ],
-  "updatedAt": "2026-08-30T08:22:05.991Z"
+  "updatedAt": "2026-08-30T09:37:44.425Z"
 }
