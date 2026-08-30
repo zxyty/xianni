@@ -3,13 +3,17 @@
   "type": "place",
   "name": "藏魂阁",
   "aliases": [
-    "大魂门藏魂阁"
+    "大魂门藏魂阁",
+    "藏魂阁九层阁楼",
+    "Cang Hun Ge"
   ],
   "summary": "大魂门藏有诸多神通功法之地，每位长老有一次进入机会；炎栾获准进入三天作为补偿。",
   "attributes": {
     "所属势力": "大魂门",
-    "类型": "功法秘藏禁地、藏经／藏神通之阁",
-    "守护": "门规限制，长老仅一次机会"
+    "类型": "功法秘藏禁地、藏经／藏神通之阁、圣地／功法神通储存之地",
+    "守护": "门规限制，长老仅一次机会、两尊凶兽石像、各层楼梯禁制（阻非第三步大能）",
+    "规模": "九层阁楼，每层数千魂体（第五层约五百）",
+    "危险度": "杀机四伏"
   },
   "observations": {
     "所属势力": [
@@ -29,12 +33,41 @@
         "value": "藏经／藏神通之阁",
         "docId": "plot.xianni-1831-hun-yan-dao-lei",
         "seq": 1740
+      },
+      {
+        "value": "圣地／功法神通储存之地",
+        "docId": "plot.xianni-1832-cang-hun-ge",
+        "seq": 1740
       }
     ],
     "守护": [
       {
         "value": "门规限制，长老仅一次机会",
         "docId": "plot.xianni-ch1830-qingniu-zhenren-wang-lin-joins-dahunmen",
+        "seq": 1740
+      },
+      {
+        "value": "两尊凶兽石像",
+        "docId": "plot.xianni-1832-cang-hun-ge",
+        "seq": 1740
+      },
+      {
+        "value": "各层楼梯禁制（阻非第三步大能）",
+        "docId": "plot.xianni-1832-cang-hun-ge",
+        "seq": 1740
+      }
+    ],
+    "规模": [
+      {
+        "value": "九层阁楼，每层数千魂体（第五层约五百）",
+        "docId": "plot.xianni-1832-cang-hun-ge",
+        "seq": 1740
+      }
+    ],
+    "危险度": [
+      {
+        "value": "杀机四伏",
+        "docId": "plot.xianni-1832-cang-hun-ge",
         "seq": 1740
       }
     ]
@@ -58,13 +91,26 @@
       "docId": "plot.xianni-ch1830-qingniu-zhenren-wang-lin-joins-dahunmen",
       "dated": false,
       "seq": 1740
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-1832-cang-hun-ge",
+      "dated": false,
+      "seq": 1740
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-1832-cang-hun-ge",
+      "dated": false,
+      "seq": 1740
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1830-qingniu-zhenren-wang-lin-joins-dahunmen",
-    "plot.xianni-1831-hun-yan-dao-lei"
+    "plot.xianni-1831-hun-yan-dao-lei",
+    "plot.xianni-1832-cang-hun-ge"
   ],
-  "updatedAt": "2026-08-30T10:54:30.636Z"
+  "updatedAt": "2026-08-30T10:56:43.481Z"
 }
