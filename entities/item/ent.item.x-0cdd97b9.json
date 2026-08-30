@@ -7,8 +7,8 @@
   ],
   "summary": "孙凌自储物袋取出的玉简，捏碎即可向孙家传信求援；因王林制止而未捏碎。",
   "attributes": {
-    "类型": "传讯法器",
-    "用途": "捏碎传信求援",
+    "类型": "传讯之物",
+    "用途": "捏碎传信、引人来此",
     "产地": "孙家"
   },
   "observations": {
@@ -17,6 +17,11 @@
         "value": "传讯法器",
         "docId": "plot.xianni-ch667-special-artifact-targeting-wang-lin",
         "seq": 626
+      },
+      {
+        "value": "传讯之物",
+        "docId": "plot.xianni-ch1755-zixia-trap-kill",
+        "seq": 1665
       }
     ],
     "用途": [
@@ -24,6 +29,11 @@
         "value": "捏碎传信求援",
         "docId": "plot.xianni-ch667-special-artifact-targeting-wang-lin",
         "seq": 626
+      },
+      {
+        "value": "捏碎传信、引人来此",
+        "docId": "plot.xianni-ch1755-zixia-trap-kill",
+        "seq": 1665
       }
     ],
     "产地": [
@@ -38,15 +48,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch667-special-artifact-targeting-wang-lin",
+      "docId": "plot.xianni-ch1755-zixia-trap-kill",
       "dated": false,
-      "seq": 626
+      "seq": 1665
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch667-special-artifact-targeting-wang-lin",
+      "docId": "plot.xianni-ch1755-zixia-trap-kill",
       "dated": false,
-      "seq": 626
+      "seq": 1665
     },
     "产地": {
       "asOf": null,
@@ -58,7 +68,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch667-special-artifact-targeting-wang-lin"
+    "plot.xianni-ch667-special-artifact-targeting-wang-lin",
+    "plot.xianni-ch1755-zixia-trap-kill"
   ],
-  "updatedAt": "2026-08-22T22:35:11.791Z"
+  "updatedAt": "2026-08-30T06:22:41.027Z"
 }
