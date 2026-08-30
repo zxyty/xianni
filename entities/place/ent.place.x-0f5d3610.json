@@ -5,14 +5,16 @@
   "aliases": [
     "蝎子体内的绿色空间",
     "绿魔蝎庙绿色空间",
-    "蝎子空间"
+    "蝎子空间",
+    "绿魔一族的绿色空间"
   ],
   "summary": "位于蝎子建筑体内的空间，绿芒可化作大量绿色蝎子；本章被涌入的闪电几乎取代绿色，化为雷霆空间，是雷霆本源真身诞生之地。",
   "attributes": {
-    "类型": "密闭空间/囚室",
+    "类型": "体内空间/秘境、密闭空间/囚室、秘境空间",
     "上级区域": "绿魔蝎庙",
     "特产": "绿色蝎子（绿芒所化）",
-    "危险度": "极高"
+    "危险度": "极高",
+    "所属势力": "绿魔一族"
   },
   "observations": {
     "类型": [
@@ -24,6 +26,11 @@
       {
         "value": "密闭空间/囚室",
         "docId": "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao",
+        "seq": 1805
+      },
+      {
+        "value": "秘境空间",
+        "docId": "plot.xianni-1896-crazy-transformation-of-wang-lin-body",
         "seq": 1805
       }
     ],
@@ -52,15 +59,22 @@
         "docId": "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao",
         "seq": 1805
       }
+    ],
+    "所属势力": [
+      {
+        "value": "绿魔一族",
+        "docId": "plot.xianni-1896-crazy-transformation-of-wang-lin-body",
+        "seq": 1805
+      }
     ]
   },
   "firstSeq": 1800,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao",
+      "docId": "plot.xianni-ch1892-thunder-source-true-body-born",
       "dated": false,
-      "seq": 1805
+      "seq": 1800
     },
     "上级区域": {
       "asOf": null,
@@ -79,13 +93,20 @@
       "docId": "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao",
       "dated": false,
       "seq": 1805
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-1896-crazy-transformation-of-wang-lin-body",
+      "dated": false,
+      "seq": 1805
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1892-thunder-source-true-body-born",
-    "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao"
+    "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao",
+    "plot.xianni-1896-crazy-transformation-of-wang-lin-body"
   ],
-  "updatedAt": "2026-08-30T15:01:09.571Z"
+  "updatedAt": "2026-08-30T15:05:12.062Z"
 }

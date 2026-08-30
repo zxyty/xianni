@@ -1170,3 +1170,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T14:59:32.450Z** `ingest` plot.xianni-ch1893-geyou-tumou-luomo-jisi-shitan — 第1893章 各有图谋！——王林借天逆藏心神，绿魔祭祀三重试探 · kind=plot asOf=2026-08-30 entities=19 relations=36 src=01800-01804.p5.md
 - **2026-08-30T15:01:10.130Z** `ingest` plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao — 第1894章 一场岁月年华：王林与绿袍老者的八十年岁月赌局 · kind=plot asOf=2026-08-30 entities=13 relations=17 src=01805-01809.p1.md
 - **2026-08-30T15:03:21.248Z** `ingest` plot.xianni-ch1895-ninth-source-earth-origin — 第1895章 第九本源——绿袍老者献孟土珠与仙祖本源沙土，助王林凝土本源 · kind=plot asOf=2026-08-30 entities=22 relations=28 src=01805-01809.p2.md
+- **2026-08-30T15:05:12.581Z** `ingest` plot.xianni-1896-crazy-transformation-of-wang-lin-body — 第1896章 疯狂的造化：绿袍祭祀改造王林肉身 · kind=plot asOf=2026-08-30 entities=17 relations=21 src=01805-01809.p3.md
