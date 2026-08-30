@@ -4,13 +4,16 @@
   "name": "青牛真人",
   "aliases": [
     "Qing Niu Zhen Ren",
-    "大魂门老祖青牛真人"
+    "大魂门老祖青牛真人",
+    "Qingniu Zhenren"
   ],
   "summary": "大魂门老祖，修为高深，拥有与王林一样的本源真身，令杜青提及时神色恐惧。",
   "attributes": {
     "身份": "大魂门老祖",
     "称号": "青牛真人",
-    "标志特征": "拥有本源真身"
+    "标志特征": "拥有以寒本源凝聚的本源真身",
+    "外貌": "穿道袍的白发老者，目光清澈睿智",
+    "性格": "含笑不露威胁、以利诱与无形压力驱人"
   },
   "observations": {
     "身份": [
@@ -32,6 +35,26 @@
         "value": "拥有本源真身",
         "docId": "plot.xianni-1817-qingniu-zhenren",
         "seq": 1725
+      },
+      {
+        "value": "拥有以寒本源凝聚的本源真身",
+        "docId": "plot.xianni-ch1827-four-characters-guilai-bridge",
+        "seq": 1735
+      }
+    ],
+    "外貌": [
+      {
+        "value": "穿道袍的白发老者，目光清澈睿智",
+        "docId": "plot.xianni-ch1827-four-characters-guilai-bridge",
+        "seq": 1735,
+        "note": "本源真身形态，本尊未至"
+      }
+    ],
+    "性格": [
+      {
+        "value": "含笑不露威胁、以利诱与无形压力驱人",
+        "docId": "plot.xianni-ch1827-four-characters-guilai-bridge",
+        "seq": 1735
       }
     ]
   },
@@ -51,16 +74,30 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-1817-qingniu-zhenren",
+      "docId": "plot.xianni-ch1827-four-characters-guilai-bridge",
       "dated": false,
-      "seq": 1725
+      "seq": 1735
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1827-four-characters-guilai-bridge",
+      "dated": false,
+      "seq": 1735,
+      "note": "本源真身形态，本尊未至"
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1827-four-characters-guilai-bridge",
+      "dated": false,
+      "seq": 1735
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1817-qingniu-zhenren",
-    "plot.xianni-ch1825-immortal-ancestor-eight-extremes"
+    "plot.xianni-ch1825-immortal-ancestor-eight-extremes",
+    "plot.xianni-ch1827-four-characters-guilai-bridge"
   ],
-  "updatedAt": "2026-08-30T10:40:17.065Z"
+  "updatedAt": "2026-08-30T10:45:07.776Z"
 }

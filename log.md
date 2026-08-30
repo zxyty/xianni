@@ -1125,3 +1125,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T10:38:07.522Z** `ingest` plot.xianni-ch1824-candle-flame-will — 第1824章 烛火意志：血煞剑退大魂门少妇，地火主龙魂自压夺舍反噬 · kind=plot asOf=2026-08-30 entities=18 relations=25 src=01735-01739.p1.md
 - **2026-08-30T10:40:17.514Z** `ingest` plot.xianni-ch1825-immortal-ancestor-eight-extremes — 第1825章 仙祖八极！——火本源真身凝聚成功与天牛洲起源 · kind=plot asOf=2026-08-30 entities=18 relations=23 src=01735-01739.p2.md
 - **2026-08-30T10:42:54.058Z** `ingest` plot.xianni-ch1826-terrifying-avatar-jihuo-dao — 第1826章 恐怖的分身！——王林本源真身合击少妇，极火道之力源自虚无分身 · kind=plot asOf=2026-08-30 entities=25 relations=34 src=01735-01739.p3.md
+- **2026-08-30T10:45:08.239Z** `ingest` plot.xianni-ch1827-four-characters-guilai-bridge — 第1827章 四个字！——青牛真人本源真身招揽，天牛洲大地显「王林归来」 · kind=plot asOf=2026-08-30 entities=23 relations=24 src=01735-01739.p4.md
