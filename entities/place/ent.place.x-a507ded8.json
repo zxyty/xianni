@@ -5,16 +5,18 @@
   "aliases": [
     "极天草原地宫",
     "地底宫殿群",
-    "地底宫殿"
+    "地底宫殿",
+    "地宫洞府"
   ],
   "summary": "大魂门在天牛第三穴地底深处挖空布置的巨大宫殿群，外有层层禁制，需长老令牌方可入内，本片段内聚集近万修士。",
   "attributes": {
     "所属势力": "天牛洲",
-    "类型": "地底宫殿据点",
+    "类型": "地宫/洞府群、地底宫殿据点、地底洞府/防线、地下宫殿群/驻守要地",
     "上级区域": "天牛第三穴",
-    "规模": "近万修士",
-    "守护": "层层禁制、需长老令牌",
-    "方位": "极天草原地底深处"
+    "规模": "驻有一千多修士与七名空劫修士",
+    "守护": "层层禁制、需长老令牌、地宫大阵（可封死入口）、护宫大阵",
+    "方位": "极天草原大地深处",
+    "危险度": "被六名空劫中期老怪围攻，阵法早晚可能被轰开、极高（阵法将被轰开）"
   },
   "observations": {
     "所属势力": [
@@ -39,6 +41,16 @@
         "value": "地底宫殿据点",
         "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
         "seq": 1770
+      },
+      {
+        "value": "地底洞府/防线",
+        "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+        "seq": 1780
+      },
+      {
+        "value": "地下宫殿群/驻守要地",
+        "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+        "seq": 1780
       }
     ],
     "上级区域": [
@@ -53,6 +65,11 @@
         "value": "近万修士",
         "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
         "seq": 1765
+      },
+      {
+        "value": "驻有一千多修士与七名空劫修士",
+        "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+        "seq": 1780
       }
     ],
     "守护": [
@@ -60,6 +77,16 @@
         "value": "层层禁制、需长老令牌",
         "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
         "seq": 1765
+      },
+      {
+        "value": "地宫大阵（可封死入口）",
+        "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+        "seq": 1780
+      },
+      {
+        "value": "护宫大阵",
+        "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+        "seq": 1780
       }
     ],
     "方位": [
@@ -67,6 +94,23 @@
         "value": "极天草原地底深处",
         "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
         "seq": 1770
+      },
+      {
+        "value": "极天草原大地深处",
+        "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+        "seq": 1780
+      }
+    ],
+    "危险度": [
+      {
+        "value": "被六名空劫中期老怪围攻，阵法早晚可能被轰开",
+        "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+        "seq": 1780
+      },
+      {
+        "value": "极高（阵法将被轰开）",
+        "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+        "seq": 1780
       }
     ]
   },
@@ -80,9 +124,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
       "dated": false,
-      "seq": 1770
+      "seq": 1765
     },
     "上级区域": {
       "asOf": null,
@@ -92,9 +136,9 @@
     },
     "规模": {
       "asOf": null,
-      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+      "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
       "dated": false,
-      "seq": 1765
+      "seq": 1780
     },
     "守护": {
       "asOf": null,
@@ -104,16 +148,23 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+      "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
       "dated": false,
-      "seq": 1770
+      "seq": 1780
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+      "dated": false,
+      "seq": 1780
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
-    "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie"
+    "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+    "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace"
   ],
-  "updatedAt": "2026-08-30T12:50:55.708Z"
+  "updatedAt": "2026-08-30T13:23:54.794Z"
 }

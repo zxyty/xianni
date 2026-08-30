@@ -9,11 +9,12 @@
   ],
   "summary": "大魂门长老，七天前第一个发觉并击杀了欲混入大魂门的绿魔洲修士，引发老祖震怒与全门戒严。",
   "attributes": {
-    "身份": "天牛七穴最终镇守力量之一",
+    "身份": "天牛洲一方空劫修士",
     "性别": "男",
-    "外貌": "道袍青年",
+    "外貌": "神色萎靡",
     "性格": "沉默寡言",
-    "阵营": "天牛洲"
+    "阵营": "站队王林",
+    "存殁": "存活"
   },
   "observations": {
     "身份": [
@@ -26,6 +27,11 @@
         "value": "天牛七穴最终镇守力量之一",
         "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
         "seq": 1765
+      },
+      {
+        "value": "天牛洲一方空劫修士",
+        "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+        "seq": 1780
       }
     ],
     "性别": [
@@ -40,6 +46,12 @@
         "value": "道袍青年",
         "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
         "seq": 1765
+      },
+      {
+        "value": "神色萎靡",
+        "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+        "seq": 1780,
+        "note": "前战受重创"
       }
     ],
     "性格": [
@@ -54,6 +66,19 @@
         "value": "天牛洲",
         "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
         "seq": 1770
+      },
+      {
+        "value": "站队王林",
+        "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+        "seq": 1780,
+        "note": "第1873章出手相助"
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+        "seq": 1780
       }
     ]
   },
@@ -61,9 +86,9 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+      "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
       "dated": false,
-      "seq": 1765
+      "seq": 1780
     },
     "性别": {
       "asOf": null,
@@ -73,9 +98,10 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+      "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
       "dated": false,
-      "seq": 1765
+      "seq": 1780,
+      "note": "前战受重创"
     },
     "性格": {
       "asOf": null,
@@ -85,9 +111,16 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+      "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
       "dated": false,
-      "seq": 1770
+      "seq": 1780,
+      "note": "第1873章出手相助"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+      "dated": false,
+      "seq": 1780
     }
   },
   "contested": false,
@@ -96,7 +129,8 @@
     "plot.xianni-ch1852-wang-lin-guess-da-hun-men-war",
     "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
     "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
-    "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field"
+    "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
+    "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace"
   ],
-  "updatedAt": "2026-08-30T13:09:36.441Z"
+  "updatedAt": "2026-08-30T13:23:54.832Z"
 }

@@ -4,13 +4,15 @@
   "name": "天牛七穴大阵",
   "aliases": [
     "七道气墙壁障",
-    "天牛七穴阵法"
+    "天牛七穴阵法",
+    "七穴大阵"
   ],
   "summary": "七个天牛穴展开形成的七道气墙相连而成的万里厚壁障，借天牛魂之力与阵法禁制守护天牛洲与丹海之间的门户，并在战时化出黑雾天牛反击。",
   "attributes": {
-    "效果": "形成厚万里的壁障封锁门户、涌出黑雾凝成天牛冲击敌军、阵内天牛洲修士精力无限可任意抽取天地之力、阻碍绿魔洲修士神识与天地之力",
-    "布置者": "超过十万修士镇压而成",
-    "破解法": "须同时毁掉七穴"
+    "效果": "形成厚万里的壁障封锁门户、涌出黑雾凝成天牛冲击敌军、阵内天牛洲修士精力无限可任意抽取天地之力、阻碍绿魔洲修士神识与天地之力、借阵召唤天牛之魂、凝魂铠使人修为暴增",
+    "布置者": "天牛洲所有宗门",
+    "破解法": "须同时毁掉七穴",
+    "出处": "天牛洲"
   },
   "observations": {
     "效果": [
@@ -33,6 +35,16 @@
         "value": "阻碍绿魔洲修士神识与天地之力",
         "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
         "seq": 1765
+      },
+      {
+        "value": "借阵召唤天牛之魂",
+        "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+        "seq": 1780
+      },
+      {
+        "value": "凝魂铠使人修为暴增",
+        "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+        "seq": 1780
       }
     ],
     "布置者": [
@@ -40,6 +52,11 @@
         "value": "超过十万修士镇压而成",
         "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
         "seq": 1765
+      },
+      {
+        "value": "天牛洲所有宗门",
+        "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+        "seq": 1780
       }
     ],
     "破解法": [
@@ -47,6 +64,13 @@
         "value": "须同时毁掉七穴",
         "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
         "seq": 1765
+      }
+    ],
+    "出处": [
+      {
+        "value": "天牛洲",
+        "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+        "seq": 1780
       }
     ]
   },
@@ -60,21 +84,28 @@
     },
     "布置者": {
       "asOf": null,
-      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+      "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
       "dated": false,
-      "seq": 1765
+      "seq": 1780
     },
     "破解法": {
       "asOf": null,
       "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
       "dated": false,
       "seq": 1765
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+      "dated": false,
+      "seq": 1780
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave"
+    "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+    "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace"
   ],
-  "updatedAt": "2026-08-30T12:32:04.595Z"
+  "updatedAt": "2026-08-30T13:23:54.799Z"
 }

@@ -5,14 +5,17 @@
   "aliases": [
     "天牛第三穴地宫周姓老者",
     "周姓长老",
-    "地宫三老者之周姓者"
+    "地宫三老者之周姓者",
+    "天牛侍仆",
+    "主持请魂的周姓老者"
   ],
   "summary": "驻守天牛第三穴地宫的老者，与吕文冉相识千年，修为隐隐是玄劫六七次，与杜青相差不多。",
   "attributes": {
-    "身份": "天牛第三穴地宫驻守修士、地宫巡逻指派负责人（三老者之一）、受王林惩戒者",
+    "身份": "天牛第三穴地宫驻守修士、地宫巡逻指派负责人（三老者之一）、受王林惩戒者、极天草原地宫负责人、天牛侍仆、魂铠请魂仪式主持者",
     "性别": "男",
-    "性格": "擅长察言观色、势利轻蔑、怯懦、苦涩无奈",
-    "外貌": "老者"
+    "性格": "擅长察言观色、势利轻蔑、怯懦、苦涩无奈、谨慎、两不得罪",
+    "外貌": "面色苍白",
+    "标志特征": "体质极适合与天牛魂沟通"
   },
   "observations": {
     "身份": [
@@ -30,6 +33,21 @@
         "value": "受王林惩戒者",
         "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
         "seq": 1770
+      },
+      {
+        "value": "极天草原地宫负责人",
+        "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+        "seq": 1780
+      },
+      {
+        "value": "天牛侍仆",
+        "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+        "seq": 1780
+      },
+      {
+        "value": "魂铠请魂仪式主持者",
+        "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+        "seq": 1780
       }
     ],
     "性别": [
@@ -49,6 +67,11 @@
         "value": "怯懦、苦涩无奈",
         "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
         "seq": 1770
+      },
+      {
+        "value": "谨慎、两不得罪",
+        "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+        "seq": 1780
       }
     ],
     "外貌": [
@@ -56,6 +79,19 @@
         "value": "老者",
         "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
         "seq": 1770
+      },
+      {
+        "value": "面色苍白",
+        "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+        "seq": 1780,
+        "note": "本片段"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "体质极适合与天牛魂沟通",
+        "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+        "seq": 1780
       }
     ]
   },
@@ -81,16 +117,24 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+      "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
       "dated": false,
-      "seq": 1770
+      "seq": 1780,
+      "note": "本片段"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+      "dated": false,
+      "seq": 1780
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
-    "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie"
+    "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+    "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace"
   ],
-  "updatedAt": "2026-08-30T12:50:55.786Z"
+  "updatedAt": "2026-08-30T13:23:54.834Z"
 }

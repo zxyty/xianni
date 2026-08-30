@@ -4,13 +4,16 @@
   "name": "张道宗",
   "aliases": [
     "张姓空劫中期老怪",
-    "Zhang Daozong"
+    "Zhang Daozong",
+    "张道宗老怪"
   ],
   "summary": "绿魔洲空劫中期老怪，因王林杀刘之源而等候数日，出手锁定并追杀王林。",
   "attributes": {
     "阵营": "绿魔洲",
-    "身份": "空劫中期老怪",
-    "存殁": "存活"
+    "身份": "王林欲在逃遁中反击的目标",
+    "存殁": "存活",
+    "小阶段": "空劫中期",
+    "性格": "阴狠，喜看对手在绝望中受死亡前的折磨"
   },
   "observations": {
     "阵营": [
@@ -25,6 +28,11 @@
         "value": "空劫中期老怪",
         "docId": "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
         "seq": 1775
+      },
+      {
+        "value": "王林欲在逃遁中反击的目标",
+        "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+        "seq": 1780
       }
     ],
     "存殁": [
@@ -32,6 +40,20 @@
         "value": "存活",
         "docId": "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
         "seq": 1775
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "空劫中期",
+        "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+        "seq": 1780
+      }
+    ],
+    "性格": [
+      {
+        "value": "阴狠，喜看对手在绝望中受死亡前的折磨",
+        "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+        "seq": 1780
       }
     ]
   },
@@ -45,21 +67,34 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
+      "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
       "dated": false,
-      "seq": 1775
+      "seq": 1780
     },
     "存殁": {
       "asOf": null,
       "docId": "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
       "dated": false,
       "seq": 1775
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+      "dated": false,
+      "seq": 1780
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+      "dated": false,
+      "seq": 1780
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field"
+    "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
+    "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace"
   ],
-  "updatedAt": "2026-08-30T13:09:36.434Z"
+  "updatedAt": "2026-08-30T13:23:54.847Z"
 }

@@ -7,7 +7,8 @@
     "Xu Decai",
     "许德才前辈",
     "许德才元神",
-    "速神诀传人"
+    "速神诀传人",
+    "绿魔洲空劫初期大尊许德才"
   ],
   "summary": "绿魔洲散修，空劫初期且修为已达极限；受道魔宗邀请参与踏入天牛洲之战，为「入天坑修行千年」的悬赏而追杀王林，放出骷髅花信号。",
   "attributes": {
@@ -15,13 +16,14 @@
     "性格": "谨慎而贪功、狞笑残忍、不在乎他人死活、失天道后疯狂、阴沉、记恨",
     "阵营": "绿魔洲、道魔宗（受邀）、道魔宗一方",
     "出身地": "绿魔洲",
-    "标志特征": "施法速度快到令人发指，可瞬间打出近百万至六百万印决、施法速度极快、头顶护身灯笼、拥有七条神脉",
-    "存殁": "存活、重伤未死、死亡",
+    "标志特征": "施法速度快到令人发指，可瞬间打出近百万至六百万印决、施法速度极快、头顶护身灯笼、拥有七条神脉、施法（神通施展）速度极快",
+    "存殁": "存活、重伤未死、死亡、疑似死亡",
     "元神强度": "萎靡，短时间难以恢复",
     "结局": "第1865章追击王林时凭空消失，疑被拖入空间石杀场、元神被卷入王林储物空间；头颅被收藏；所化鬼魂逃走后被王林擒回收入储物空间",
     "小阶段": "空劫初期",
     "本命法宝": "护身灯笼（温养元神之宝）",
-    "死因": "被王林以三轮神通、定身术并联手已司、蚊兽合围，血剑斩断其与灯笼的联系后毁灭元神"
+    "死因": "被王林所杀，头颅被斩、鬼魂被擒",
+    "外貌": "头颅狼狈、双目黯淡、七窍有干枯褐色血痕"
   },
   "observations": {
     "身份": [
@@ -103,6 +105,11 @@
         "value": "拥有七条神脉",
         "docId": "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
         "seq": 1775
+      },
+      {
+        "value": "施法（神通施展）速度极快",
+        "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+        "seq": 1780
       }
     ],
     "存殁": [
@@ -121,6 +128,12 @@
         "value": "死亡",
         "docId": "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
         "seq": 1775
+      },
+      {
+        "value": "疑似死亡",
+        "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+        "seq": 1780,
+        "note": "原文称『甚至那许德才都有可能被其卑鄙的残杀』"
       }
     ],
     "元神强度": [
@@ -164,6 +177,19 @@
         "value": "被王林以三轮神通、定身术并联手已司、蚊兽合围，血剑斩断其与灯笼的联系后毁灭元神",
         "docId": "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
         "seq": 1775
+      },
+      {
+        "value": "被王林所杀，头颅被斩、鬼魂被擒",
+        "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+        "seq": 1780
+      }
+    ],
+    "外貌": [
+      {
+        "value": "头颅狼狈、双目黯淡、七窍有干枯褐色血痕",
+        "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+        "seq": 1780,
+        "note": "死后头颅状态"
       }
     ]
   },
@@ -234,16 +260,24 @@
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
+      "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
       "dated": false,
-      "seq": 1775
+      "seq": 1780
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+      "dated": false,
+      "seq": 1780,
+      "note": "死后头颅状态"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
-    "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field"
+    "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
+    "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace"
   ],
-  "updatedAt": "2026-08-30T13:09:36.432Z"
+  "updatedAt": "2026-08-30T13:23:54.840Z"
 }
