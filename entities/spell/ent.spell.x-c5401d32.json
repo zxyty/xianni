@@ -4,19 +4,26 @@
   "name": "极火道",
   "aliases": [
     "八极仙道·极火道",
-    "八极仙道，极火道"
+    "八极仙道，极火道",
+    "Ji Huo Dao"
   ],
   "summary": "八极仙道之一式：指间散出青色烟丝，缭绕九圈化作九个可无限膨胀的烟丝圆圈层层镇压，破冰封并将目标体内寒气尽转为滔天之火。",
   "attributes": {
-    "类型": "火属性镇压神通",
-    "出处": "八极仙道",
-    "威力": "九圈落尽即可将冰封星空之天牛转火并镇压化地"
+    "类型": "火属性镇压神通、攻击/封禁神通",
+    "出处": "八极仙道、八极仙道（仙祖）",
+    "威力": "九圈落尽即可将冰封星空之天牛转火并镇压化地、一圈可抗空劫初期、九圈可封天牛或一位大天尊",
+    "消耗": "虚无层内分身的体内之力"
   },
   "observations": {
     "类型": [
       {
         "value": "火属性镇压神通",
         "docId": "plot.xianni-ch1825-immortal-ancestor-eight-extremes",
+        "seq": 1735
+      },
+      {
+        "value": "攻击/封禁神通",
+        "docId": "plot.xianni-ch1826-terrifying-avatar-jihuo-dao",
         "seq": 1735
       }
     ],
@@ -25,12 +32,34 @@
         "value": "八极仙道",
         "docId": "plot.xianni-ch1825-immortal-ancestor-eight-extremes",
         "seq": 1735
+      },
+      {
+        "value": "八极仙道（仙祖）",
+        "docId": "plot.xianni-ch1826-terrifying-avatar-jihuo-dao",
+        "seq": 1735
       }
     ],
     "威力": [
       {
         "value": "九圈落尽即可将冰封星空之天牛转火并镇压化地",
         "docId": "plot.xianni-ch1825-immortal-ancestor-eight-extremes",
+        "seq": 1735
+      },
+      {
+        "value": "一圈可抗空劫初期",
+        "docId": "plot.xianni-ch1826-terrifying-avatar-jihuo-dao",
+        "seq": 1735
+      },
+      {
+        "value": "九圈可封天牛或一位大天尊",
+        "docId": "plot.xianni-ch1826-terrifying-avatar-jihuo-dao",
+        "seq": 1735
+      }
+    ],
+    "消耗": [
+      {
+        "value": "虚无层内分身的体内之力",
+        "docId": "plot.xianni-ch1826-terrifying-avatar-jihuo-dao",
         "seq": 1735
       }
     ]
@@ -54,12 +83,19 @@
       "docId": "plot.xianni-ch1825-immortal-ancestor-eight-extremes",
       "dated": false,
       "seq": 1735
+    },
+    "消耗": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1826-terrifying-avatar-jihuo-dao",
+      "dated": false,
+      "seq": 1735
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1825-immortal-ancestor-eight-extremes"
+    "plot.xianni-ch1825-immortal-ancestor-eight-extremes",
+    "plot.xianni-ch1826-terrifying-avatar-jihuo-dao"
   ],
-  "updatedAt": "2026-08-30T10:40:17.073Z"
+  "updatedAt": "2026-08-30T10:42:53.556Z"
 }
