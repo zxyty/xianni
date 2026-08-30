@@ -5,15 +5,16 @@
   "aliases": [
     "炎脉峰",
     "赤红色山峰",
-    "炎栾的炎脉峰"
+    "炎栾的炎脉峰",
+    "炎脉峰洞府"
   ],
   "summary": "大魂门四十九主峰之一，赤红色山峰，下方即地火主脉所在；因王林吞噬龙魂意志而剧震崩顶、火海冲天。",
   "attributes": {
     "所属势力": "大魂门",
     "所属界面": "仙罡大陆",
-    "类型": "宗门主峰、主峰、山峰、长老洞府山峰",
-    "特产": "地火主脉（已枯萎，后由王林以火焰补充）",
-    "守护": "炎栾",
+    "类型": "宗门主峰、主峰、山峰、长老洞府山峰、火属性山峰／洞府所在",
+    "特产": "地火主脉、地火闭关石室、地火主脉（已枯萎，后由王林以火焰补充）、永不熄灭的无烟烈焰",
+    "守护": "王林本源真身",
     "上级区域": "大魂门",
     "危险度": "环山永恒火海"
   },
@@ -52,6 +53,11 @@
         "value": "长老洞府山峰",
         "docId": "plot.xianni-ch1830-qingniu-zhenren-wang-lin-joins-dahunmen",
         "seq": 1740
+      },
+      {
+        "value": "火属性山峰／洞府所在",
+        "docId": "plot.xianni-1831-hun-yan-dao-lei",
+        "seq": 1740
       }
     ],
     "特产": [
@@ -63,6 +69,11 @@
       {
         "value": "地火主脉（已枯萎，后由王林以火焰补充）",
         "docId": "plot.xianni-ch1830-qingniu-zhenren-wang-lin-joins-dahunmen",
+        "seq": 1740
+      },
+      {
+        "value": "永不熄灭的无烟烈焰",
+        "docId": "plot.xianni-1831-hun-yan-dao-lei",
         "seq": 1740
       }
     ],
@@ -76,6 +87,12 @@
         "value": "炎栾",
         "docId": "plot.xianni-ch1828-da-hun-men-elder",
         "seq": 1735
+      },
+      {
+        "value": "王林本源真身",
+        "docId": "plot.xianni-1831-hun-yan-dao-lei",
+        "seq": 1740,
+        "note": "真身融入山峰，山即其身"
       }
     ],
     "上级区域": [
@@ -116,15 +133,16 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-ch1830-qingniu-zhenren-wang-lin-joins-dahunmen",
+      "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
       "dated": false,
-      "seq": 1740
+      "seq": 1730
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch1828-da-hun-men-elder",
+      "docId": "plot.xianni-1831-hun-yan-dao-lei",
       "dated": false,
-      "seq": 1735
+      "seq": 1740,
+      "note": "真身融入山峰，山即其身"
     },
     "上级区域": {
       "asOf": null,
@@ -147,7 +165,8 @@
     "plot.xianni-ch1827-four-characters-guilai-bridge",
     "plot.xianni-ch1828-da-hun-men-elder",
     "plot.xianni-1829-tianniu-death-soul",
-    "plot.xianni-ch1830-qingniu-zhenren-wang-lin-joins-dahunmen"
+    "plot.xianni-ch1830-qingniu-zhenren-wang-lin-joins-dahunmen",
+    "plot.xianni-1831-hun-yan-dao-lei"
   ],
-  "updatedAt": "2026-08-30T10:52:12.705Z"
+  "updatedAt": "2026-08-30T10:54:30.635Z"
 }

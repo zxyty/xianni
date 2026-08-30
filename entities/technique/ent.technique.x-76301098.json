@@ -6,13 +6,17 @@
     "魂衍道术",
     "Hun Yan Dao",
     "魂衍道功法",
-    "大魂门魂衍道"
+    "大魂门魂衍道",
+    "魂衍道神通",
+    "魂衍"
   ],
   "summary": "大魂门推衍类神通道术，可推算诸事；其重点不在推衍他人而在改变自身，令他人难以算到自己。",
   "attributes": {
-    "出处": "大魂门",
-    "效果": "推衍算出诸多事情、改变自身使人难以推算到自己",
-    "修炼条件": "由青牛真身直接授予"
+    "出处": "大魂门（青牛老祖所赠紫色玉简）",
+    "效果": "推衍算出诸多事情、改变自身使人难以推算到自己、推衍未来变化与自身凶吉、隐藏自己的一切使他人难以推算、衍化三寸魂人代为推算",
+    "修炼条件": "在魂中烙印符文铭字；十万为小成、二十七亿为中等、四十九亿为大成",
+    "品阶": "实际至多中等",
+    "外显异象": "魂气自天灵散出化作三寸无鼻无嘴无耳的小人"
   },
   "observations": {
     "出处": [
@@ -20,6 +24,11 @@
         "value": "大魂门",
         "docId": "plot.xianni-ch1827-four-characters-guilai-bridge",
         "seq": 1735
+      },
+      {
+        "value": "大魂门（青牛老祖所赠紫色玉简）",
+        "docId": "plot.xianni-1831-hun-yan-dao-lei",
+        "seq": 1740
       }
     ],
     "效果": [
@@ -32,6 +41,21 @@
         "value": "改变自身使人难以推算到自己",
         "docId": "plot.xianni-ch1827-four-characters-guilai-bridge",
         "seq": 1735
+      },
+      {
+        "value": "推衍未来变化与自身凶吉",
+        "docId": "plot.xianni-1831-hun-yan-dao-lei",
+        "seq": 1740
+      },
+      {
+        "value": "隐藏自己的一切使他人难以推算",
+        "docId": "plot.xianni-1831-hun-yan-dao-lei",
+        "seq": 1740
+      },
+      {
+        "value": "衍化三寸魂人代为推算",
+        "docId": "plot.xianni-1831-hun-yan-dao-lei",
+        "seq": 1740
       }
     ],
     "修炼条件": [
@@ -40,6 +64,26 @@
         "docId": "plot.xianni-ch1828-da-hun-men-elder",
         "seq": 1735,
         "note": "第1828章不问王林意愿即赠"
+      },
+      {
+        "value": "在魂中烙印符文铭字；十万为小成、二十七亿为中等、四十九亿为大成",
+        "docId": "plot.xianni-1831-hun-yan-dao-lei",
+        "seq": 1740
+      }
+    ],
+    "品阶": [
+      {
+        "value": "实际至多中等",
+        "docId": "plot.xianni-1831-hun-yan-dao-lei",
+        "seq": 1740,
+        "note": "大成需闭关十七万八千年，王林判定无法达到"
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "魂气自天灵散出化作三寸无鼻无嘴无耳的小人",
+        "docId": "plot.xianni-1831-hun-yan-dao-lei",
+        "seq": 1740
       }
     ]
   },
@@ -47,9 +91,9 @@
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch1827-four-characters-guilai-bridge",
+      "docId": "plot.xianni-1831-hun-yan-dao-lei",
       "dated": false,
-      "seq": 1735
+      "seq": 1740
     },
     "效果": {
       "asOf": null,
@@ -59,10 +103,22 @@
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.xianni-ch1828-da-hun-men-elder",
+      "docId": "plot.xianni-1831-hun-yan-dao-lei",
       "dated": false,
-      "seq": 1735,
-      "note": "第1828章不问王林意愿即赠"
+      "seq": 1740
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-1831-hun-yan-dao-lei",
+      "dated": false,
+      "seq": 1740,
+      "note": "大成需闭关十七万八千年，王林判定无法达到"
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.xianni-1831-hun-yan-dao-lei",
+      "dated": false,
+      "seq": 1740
     }
   },
   "contested": false,
@@ -70,7 +126,8 @@
   "docs": [
     "plot.xianni-ch1827-four-characters-guilai-bridge",
     "plot.xianni-ch1828-da-hun-men-elder",
-    "plot.xianni-1829-tianniu-death-soul"
+    "plot.xianni-1829-tianniu-death-soul",
+    "plot.xianni-1831-hun-yan-dao-lei"
   ],
-  "updatedAt": "2026-08-30T10:49:49.131Z"
+  "updatedAt": "2026-08-30T10:54:30.632Z"
 }

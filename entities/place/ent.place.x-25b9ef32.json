@@ -7,15 +7,18 @@
     "游走狂雷的山峰",
     "雷山",
     "散发雷光的山峰",
-    "王林疗伤山峰"
+    "王林疗伤山峰",
+    "天地至极的雷山",
+    "镇压王林的雷山"
   ],
   "summary": "碎片大陆上一座通体黑色、游走无数狂雷的山峰，白发老者出场时立于其上。",
   "attributes": {
     "所属界面": "雷之仙界",
-    "类型": "山峰",
+    "类型": "幻象中所见的未来之地",
     "上级区域": "雷之仙界碎片大陆",
     "方位": "碎片大陆边缘",
-    "特产": "雷霆之力"
+    "特产": "雷霆之力",
+    "危险度": "镇压王林"
   },
   "observations": {
     "所属界面": [
@@ -30,6 +33,12 @@
         "value": "山峰",
         "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
         "seq": 697
+      },
+      {
+        "value": "幻象中所见的未来之地",
+        "docId": "plot.xianni-1831-hun-yan-dao-lei",
+        "seq": 1740,
+        "note": "魂衍道推衍所见，尚未发生"
       }
     ],
     "上级区域": [
@@ -57,6 +66,13 @@
         "docId": "plot.xianni-ch742-mo-lian-daonian-storage",
         "seq": 701
       }
+    ],
+    "危险度": [
+      {
+        "value": "镇压王林",
+        "docId": "plot.xianni-1831-hun-yan-dao-lei",
+        "seq": 1740
+      }
     ]
   },
   "firstSeq": 697,
@@ -69,9 +85,10 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch736-lei-zhi-xianjie-gate",
+      "docId": "plot.xianni-1831-hun-yan-dao-lei",
       "dated": false,
-      "seq": 697
+      "seq": 1740,
+      "note": "魂衍道推衍所见，尚未发生"
     },
     "上级区域": {
       "asOf": null,
@@ -90,13 +107,20 @@
       "docId": "plot.xianni-ch742-mo-lian-daonian-storage",
       "dated": false,
       "seq": 701
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-1831-hun-yan-dao-lei",
+      "dated": false,
+      "seq": 1740
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch736-lei-zhi-xianjie-gate",
-    "plot.xianni-ch742-mo-lian-daonian-storage"
+    "plot.xianni-ch742-mo-lian-daonian-storage",
+    "plot.xianni-1831-hun-yan-dao-lei"
   ],
-  "updatedAt": "2026-08-23T04:53:10.171Z"
+  "updatedAt": "2026-08-30T10:54:30.638Z"
 }

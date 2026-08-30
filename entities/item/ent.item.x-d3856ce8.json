@@ -10,13 +10,14 @@
     "通体紫色的玉简",
     "卢迪的玉简",
     "师尊手中那紫色的玉简",
-    "魂衍道玉简"
+    "魂衍道玉简",
+    "魂衍道紫色玉简"
   ],
   "summary": "白发老者付给王林的凭证，可在炼器阁任何一家主城店铺兑换2万上品灵石。",
   "attributes": {
     "类型": "兑换凭证玉简、玉简、传讯玉简",
-    "用途": "在炼器阁主城店铺兑换2万上品灵石、记录信息/交易之资、传讯/逼迫",
-    "产地": "炼器阁",
+    "用途": "在炼器阁主城店铺兑换2万上品灵石、记录信息/交易之资、传讯/逼迫、承载魂衍道神通",
+    "产地": "大魂门",
     "品阶": "价值2万上品灵石"
   },
   "observations": {
@@ -52,6 +53,11 @@
         "value": "传讯/逼迫",
         "docId": "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
         "seq": 1058
+      },
+      {
+        "value": "承载魂衍道神通",
+        "docId": "plot.xianni-1831-hun-yan-dao-lei",
+        "seq": 1740
       }
     ],
     "产地": [
@@ -59,6 +65,11 @@
         "value": "炼器阁",
         "docId": "plot.xianni-ch312-316-yinju-xinjia",
         "seq": 312
+      },
+      {
+        "value": "大魂门",
+        "docId": "plot.xianni-1831-hun-yan-dao-lei",
+        "seq": 1740
       }
     ],
     "品阶": [
@@ -85,9 +96,9 @@
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.xianni-ch312-316-yinju-xinjia",
+      "docId": "plot.xianni-1831-hun-yan-dao-lei",
       "dated": false,
-      "seq": 312
+      "seq": 1740
     },
     "品阶": {
       "asOf": null,
@@ -101,7 +112,8 @@
   "docs": [
     "plot.xianni-ch312-316-yinju-xinjia",
     "plot.xianni-ch1140-guiyuan-zong-lv-yanfei",
-    "plot.xianni-ch1828-da-hun-men-elder"
+    "plot.xianni-ch1828-da-hun-men-elder",
+    "plot.xianni-1831-hun-yan-dao-lei"
   ],
-  "updatedAt": "2026-08-30T10:47:28.603Z"
+  "updatedAt": "2026-08-30T10:54:30.632Z"
 }
