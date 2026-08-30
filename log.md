@@ -1071,3 +1071,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T06:29:05.572Z** `ingest` plot.xianni-1758-deng-dao-baihu-qiju-jueshang — 第1758章 等刀！——王林斩白甲将领、吞金甲棋子，凝灭天一刀等敌 · kind=plot asOf=2026-08-30 entities=11 relations=19 src=01665-01669.p5.md
 - **2026-08-30T06:31:02.297Z** `ingest` plot.xianni-ch1759-qicai-arrival-one-realm-blade — 第1759章 七彩来临！——王林以一界之力斩出惊天一刀，撑焚界火伞遁走 · kind=plot asOf=2026-08-30 entities=16 relations=24 src=01670-01674.p1.md
 - **2026-08-30T06:33:27.743Z** `ingest` plot.xianni-ch1760-xinji-three-hundred-broken-realms-chase — 第1760章 心机！——三百残界中王林以计中计甩脱七彩道人追杀 · kind=plot asOf=2026-08-30 entities=20 relations=25 src=01670-01674.p2.md
+- **2026-08-30T06:35:40.456Z** `ingest` plot.xianni-ch1761-seven-ambush-kill — 第1761章 七伏杀——王林在黄沙修真星布下七重埋伏 · kind=plot asOf=2026-08-30 entities=19 relations=27 src=01670-01674.p3.md
