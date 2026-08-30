@@ -9,10 +9,11 @@
   ],
   "summary": "大魂门第九先祖罗云海生前法宝，原凝聚十亿道魂，现残存三千万道魂；一次性施展可发挥堪比空劫中期的最强之力，亦是召唤第九先祖的凭依。",
   "attributes": {
-    "持有者": "炎栾",
-    "能力": "残存三千万道魂、一次性发挥堪比空劫中期的最强之力、配合魂引归召唤第九先祖降临",
-    "来历": "第九先祖罗云海生前凝聚十亿道魂所炼，被炎栾无意中获得",
-    "外形": "紫色小葫芦"
+    "持有者": "王林",
+    "能力": "残存三千万道魂、一次性发挥堪比空劫中期的最强之力、配合魂引归召唤第九先祖降临、爆发三千万道魂",
+    "来历": "炎栾打赌输给王林，神识已被王林抹去",
+    "外形": "紫色小葫芦",
+    "禁制": "只有一次的机会"
   },
   "observations": {
     "持有者": [
@@ -21,6 +22,11 @@
         "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
         "seq": 1745,
         "note": "本章作为赌注，王林赢则归王林"
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch1847-hui-ma-qiang-danhai-tuwei-yunkong",
+        "seq": 1755
       }
     ],
     "能力": [
@@ -38,6 +44,11 @@
         "value": "配合魂引归召唤第九先祖降临",
         "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
         "seq": 1745
+      },
+      {
+        "value": "爆发三千万道魂",
+        "docId": "plot.xianni-ch1847-hui-ma-qiang-danhai-tuwei-yunkong",
+        "seq": 1755
       }
     ],
     "来历": [
@@ -45,6 +56,11 @@
         "value": "第九先祖罗云海生前凝聚十亿道魂所炼，被炎栾无意中获得",
         "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
         "seq": 1745
+      },
+      {
+        "value": "炎栾打赌输给王林，神识已被王林抹去",
+        "docId": "plot.xianni-ch1847-hui-ma-qiang-danhai-tuwei-yunkong",
+        "seq": 1755
       }
     ],
     "外形": [
@@ -53,16 +69,22 @@
         "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
         "seq": 1745
       }
+    ],
+    "禁制": [
+      {
+        "value": "只有一次的机会",
+        "docId": "plot.xianni-ch1847-hui-ma-qiang-danhai-tuwei-yunkong",
+        "seq": 1755
+      }
     ]
   },
   "firstSeq": 1745,
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
+      "docId": "plot.xianni-ch1847-hui-ma-qiang-danhai-tuwei-yunkong",
       "dated": false,
-      "seq": 1745,
-      "note": "本章作为赌注，王林赢则归王林"
+      "seq": 1755
     },
     "能力": {
       "asOf": null,
@@ -72,21 +94,28 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
+      "docId": "plot.xianni-ch1847-hui-ma-qiang-danhai-tuwei-yunkong",
       "dated": false,
-      "seq": 1745
+      "seq": 1755
     },
     "外形": {
       "asOf": null,
       "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
       "dated": false,
       "seq": 1745
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1847-hui-ma-qiang-danhai-tuwei-yunkong",
+      "dated": false,
+      "seq": 1755
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu"
+    "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
+    "plot.xianni-ch1847-hui-ma-qiang-danhai-tuwei-yunkong"
   ],
-  "updatedAt": "2026-08-30T11:02:35.093Z"
+  "updatedAt": "2026-08-30T11:34:53.850Z"
 }
