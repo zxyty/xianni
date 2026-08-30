@@ -10,15 +10,18 @@
     "第二花女古神所在的东临宗",
     "东临宗门",
     "东临门",
-    "大圣洲东临宗"
+    "大圣洲东临宗",
+    "死宗",
+    "Donglin Sect"
   ],
   "summary": "仙罡大陆上的宗门，七彩仙尊早年弟子出身之处、后将其驱除；七彩仙尊在第二花中按记忆一模一样复制出同名之地，由神长老云娜坐镇。",
   "attributes": {
     "所属界面": "仙罡大陆、洞府界",
-    "据点": "大圣洲山峦起伏之地",
+    "据点": "五花八门第二花冰封世界、东洲、大圣洲、东州、大圣洲山峦起伏之地、东临宗（青山绿水、阁楼大殿、药院子、弟子居所）",
     "理念": "—、看守主人（烨寞）遗泽、每一系每一代只可一人修习云道大术入门口诀、修士之修，弱肉强食、极为神秘，极少弟子外出、闭门修行、弟子绝少外出、神秘、门人少外出交流、向来神秘莫测，外人很少知晓底细、弟子几乎不外出，只在宗派内修行",
     "等级": "大圣洲第一宗门",
-    "镇派之宝": "东临池"
+    "镇派之宝": "东临池",
+    "掌门": "何道"
   },
   "observations": {
     "所属界面": [
@@ -58,6 +61,11 @@
       {
         "value": "大圣洲山峦起伏之地",
         "docId": "plot.xianni-1943-yumu-xia-liu-jinbiao-memory-restored",
+        "seq": 1853
+      },
+      {
+        "value": "东临宗（青山绿水、阁楼大殿、药院子、弟子居所）",
+        "docId": "plot.xianni-ch1945-dead-sect-donglin",
         "seq": 1853
       }
     ],
@@ -144,6 +152,14 @@
         "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
         "seq": 1695
       }
+    ],
+    "掌门": [
+      {
+        "value": "何道",
+        "docId": "plot.xianni-ch1945-dead-sect-donglin",
+        "seq": 1853,
+        "note": "梦障中的宗主"
+      }
     ]
   },
   "firstSeq": 1675,
@@ -156,9 +172,10 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-1943-yumu-xia-liu-jinbiao-memory-restored",
+      "docId": "plot.xianni-ch1766-donglin-zong-second-flower",
       "dated": false,
-      "seq": 1853
+      "seq": 1675,
+      "note": "七彩仙尊按记忆复制的版本"
     },
     "理念": {
       "asOf": null,
@@ -177,6 +194,13 @@
       "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
       "dated": false,
       "seq": 1695
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1945-dead-sect-donglin",
+      "dated": false,
+      "seq": 1853,
+      "note": "梦障中的宗主"
     }
   },
   "contested": false,
@@ -201,7 +225,8 @@
     "plot.xianni-ch1940-liu-jinbiao-deceive-heaven-cross-sea",
     "plot.xianni-1941-my-master-gu-ya-tianzun",
     "plot.xianni-1943-yumu-xia-liu-jinbiao-memory-restored",
-    "plot.xianni-ch1944-meng-zhang-lun-hui"
+    "plot.xianni-ch1944-meng-zhang-lun-hui",
+    "plot.xianni-ch1945-dead-sect-donglin"
   ],
-  "updatedAt": "2026-08-30T17:53:00.935Z"
+  "updatedAt": "2026-08-30T17:54:59.887Z"
 }

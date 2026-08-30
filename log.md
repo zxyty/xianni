@@ -1219,3 +1219,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T17:48:42.654Z** `ingest` plot.xianni-ch1942-who-are-you-liu-jinbiao-deception-dao — 仙逆 第1942章 你是谁！——刘金彪骗道第二步大成，王林一语道破前世封印松动 · kind=plot asOf=2026-08-30 entities=15 relations=20 src=01853-01857.p1.md
 - **2026-08-30T17:50:59.405Z** `ingest` plot.xianni-1943-yumu-xia-liu-jinbiao-memory-restored — 第1943章 雨幕下：王林点醒刘金彪转世记忆，同赴东临宗 · kind=plot asOf=2026-08-30 entities=21 relations=28 src=01853-01857.p2.md
 - **2026-08-30T17:53:01.407Z** `ingest` plot.xianni-ch1944-meng-zhang-lun-hui — 第1944章 梦障轮回：王林悟第四道虚之本源，东临宗实为死宗 · kind=plot asOf=2026-08-30 entities=16 relations=23 src=01853-01857.p3.md
+- **2026-08-30T17:55:00.368Z** `ingest` plot.xianni-ch1945-dead-sect-donglin — 第1945章 死宗！——东临宗的梦障与那句锁亡天之运的碑文 · kind=plot asOf=2026-08-30 entities=20 relations=25 src=01853-01857.p4.md
