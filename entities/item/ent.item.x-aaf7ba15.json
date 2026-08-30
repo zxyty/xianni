@@ -1,42 +1,40 @@
 {
-  "id": "ent.person.x-82badf45",
-  "type": "person",
-  "name": "大魂门先祖",
+  "id": "ent.item.x-aaf7ba15",
+  "type": "item",
+  "name": "不完整的天道",
   "aliases": [
-    "大魂门先辈",
-    "留礼者",
-    "石中苍老之声"
+    "残缺天道"
   ],
-  "summary": "当年迁移至天牛洲、择地火主脉所在建造大魂门者，曾留下关于「某人」的预言，青牛真人以此验证王林。",
+  "summary": "王林手中持有的一个不完整的天道，可在空间石内饲养使其慢慢完整。",
   "attributes": {
-    "身份": "大魂门先祖（疑）",
-    "标志特征": "一生修魂衍道，声音苍老"
+    "类型": "天道之物",
+    "用途": "可于空间石中饲养以趋完整"
   },
   "observations": {
-    "身份": [
+    "类型": [
       {
-        "value": "大魂门先祖（疑）",
+        "value": "天道之物",
         "docId": "plot.xianni-ch1838-three-gifts-space-stone-mist-jade-water-origin",
         "seq": 1745
       }
     ],
-    "标志特征": [
+    "用途": [
       {
-        "value": "一生修魂衍道，声音苍老",
+        "value": "可于空间石中饲养以趋完整",
         "docId": "plot.xianni-ch1838-three-gifts-space-stone-mist-jade-water-origin",
         "seq": 1745
       }
     ]
   },
-  "firstSeq": 1735,
+  "firstSeq": 1745,
   "attrProvenance": {
-    "身份": {
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-ch1838-three-gifts-space-stone-mist-jade-water-origin",
       "dated": false,
       "seq": 1745
     },
-    "标志特征": {
+    "用途": {
       "asOf": null,
       "docId": "plot.xianni-ch1838-three-gifts-space-stone-mist-jade-water-origin",
       "dated": false,
@@ -46,8 +44,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1827-four-characters-guilai-bridge",
     "plot.xianni-ch1838-three-gifts-space-stone-mist-jade-water-origin"
   ],
-  "updatedAt": "2026-08-30T11:13:52.769Z"
+  "updatedAt": "2026-08-30T11:13:52.771Z"
 }
