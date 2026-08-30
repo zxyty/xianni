@@ -1210,3 +1210,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T17:29:47.288Z** `ingest` plot.xianni-1933-wang-lin-saves-haizi-tianzun-severed-palm — 第1933章 转变——王林定身海子天尊后回身相救，断掌反噬自斩左手 · kind=plot asOf=2026-08-30 entities=20 relations=23 src=01844-01847.p1.md
 - **2026-08-30T17:31:33.594Z** `ingest` plot.xianni-1934-yi-nan-yi-nv-duan-zhang-feng-yin — 第1934章 一男一女：断掌吞噬光幕，王林与海子天尊被困一年 · kind=plot asOf=2026-08-30 entities=18 relations=24 src=01844-01847.p2.md
 - **2026-08-30T17:33:32.765Z** `ingest` plot.xianni-1935-whose-severed-palm — 第1935章 谁的断掌！——王林与海子天尊光幕内三年，直面断掌真容 · kind=plot asOf=2026-08-30 entities=18 relations=22 src=01844-01847.p3.md
+- **2026-08-30T17:35:37.828Z** `ingest` plot.xianni-ch1936-half-zhang-light-curtain — 第1936章 半丈的——仙祖断掌之谜与光幕缩至半丈 · kind=plot asOf=2026-08-30 entities=23 relations=29 src=01844-01847.p4.md
