@@ -3,12 +3,13 @@
   "type": "item",
   "name": "仙皇圣旨",
   "aliases": [
-    "三道圣旨"
+    "三道圣旨",
+    "仙皇旨意"
   ],
   "summary": "数万年难得一现的仙皇诏令，本章一次降下三道，分至归一宗、大魂门、道魔宗，令两洲停战并召十六名新秀入祖庙。",
   "attributes": {
-    "类型": "诏令法物、圣旨",
-    "用途": "传达仙皇不可抗拒的意志、宣旨；接旨之人受庇护，杀之即为大罪",
+    "类型": "诏令法物、圣旨、旨意信物",
+    "用途": "传达仙皇不可抗拒的意志、宣旨；接旨之人受庇护，杀之即为大罪、宣达仙皇旨意、定罪与召见",
     "产地": "中州"
   },
   "observations": {
@@ -22,6 +23,11 @@
         "value": "圣旨",
         "docId": "plot.xianni-ch1913-hailong-submits-imperial-edict-arrives",
         "seq": 1824
+      },
+      {
+        "value": "旨意信物",
+        "docId": "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master",
+        "seq": 1824
       }
     ],
     "用途": [
@@ -33,6 +39,11 @@
       {
         "value": "宣旨；接旨之人受庇护，杀之即为大罪",
         "docId": "plot.xianni-ch1913-hailong-submits-imperial-edict-arrives",
+        "seq": 1824
+      },
+      {
+        "value": "宣达仙皇旨意、定罪与召见",
+        "docId": "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master",
         "seq": 1824
       }
     ],
@@ -69,7 +80,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
-    "plot.xianni-ch1913-hailong-submits-imperial-edict-arrives"
+    "plot.xianni-ch1913-hailong-submits-imperial-edict-arrives",
+    "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master"
   ],
-  "updatedAt": "2026-08-30T16:41:14.671Z"
+  "updatedAt": "2026-08-30T16:43:13.528Z"
 }

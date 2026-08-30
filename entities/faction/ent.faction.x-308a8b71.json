@@ -3,11 +3,14 @@
   "type": "faction",
   "name": "皇族",
   "aliases": [
-    "仙族之地皇族"
+    "仙族之地皇族",
+    "仙皇皇族",
+    "皇族势力"
   ],
   "summary": "整个仙族之地的至高权威，颁布万万年不可违的禁令：非一洲生死存亡不可伤封印天外之兽的魂，违者一人死、一宗死、一洲死。",
   "attributes": {
-    "理念": "禁止随意损伤封印天外之兽之魂"
+    "理念": "仙祖血脉传承",
+    "据点": "中州"
   },
   "observations": {
     "理念": [
@@ -15,6 +18,18 @@
         "value": "禁止随意损伤封印天外之兽之魂",
         "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
         "seq": 1780
+      },
+      {
+        "value": "仙祖血脉传承",
+        "docId": "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master",
+        "seq": 1824
+      }
+    ],
+    "据点": [
+      {
+        "value": "中州",
+        "docId": "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master",
+        "seq": 1824
       }
     ]
   },
@@ -22,15 +37,22 @@
   "attrProvenance": {
     "理念": {
       "asOf": null,
-      "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+      "docId": "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master",
       "dated": false,
-      "seq": 1780
+      "seq": 1824
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master",
+      "dated": false,
+      "seq": 1824
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace"
+    "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+    "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master"
   ],
-  "updatedAt": "2026-08-30T13:23:54.793Z"
+  "updatedAt": "2026-08-30T16:43:13.523Z"
 }

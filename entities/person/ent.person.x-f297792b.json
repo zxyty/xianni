@@ -5,12 +5,14 @@
   "aliases": [
     "天空中金色的身影",
     "仙皇使者",
-    "皇族使者"
+    "皇族使者",
+    "宣旨使者"
   ],
   "summary": "持仙皇圣旨降临归一宗与大魂门上空的金色身影，本身并非仙皇，但持旨即为仙皇化身，宣旨后消散。",
   "attributes": {
-    "外貌": "威严的金色身影、金光笼罩中的金色身影",
-    "身份": "仙皇化身、仙皇使者／传旨者"
+    "外貌": "威严的金色身影、金光笼罩中的金色身影、金光弥漫的金色身影",
+    "身份": "仙皇化身、仙皇使者／传旨者、皇族使者（宣旨使者）",
+    "存殁": "存活"
   },
   "observations": {
     "外貌": [
@@ -22,6 +24,11 @@
       {
         "value": "金光笼罩中的金色身影",
         "docId": "plot.xianni-ch1913-hailong-submits-imperial-edict-arrives",
+        "seq": 1824
+      },
+      {
+        "value": "金光弥漫的金色身影",
+        "docId": "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master",
         "seq": 1824
       }
     ],
@@ -35,6 +42,18 @@
       {
         "value": "仙皇使者／传旨者",
         "docId": "plot.xianni-ch1913-hailong-submits-imperial-edict-arrives",
+        "seq": 1824
+      },
+      {
+        "value": "皇族使者（宣旨使者）",
+        "docId": "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master",
+        "seq": 1824
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master",
         "seq": 1824
       }
     ]
@@ -53,13 +72,20 @@
       "dated": false,
       "seq": 1824,
       "note": "仅因手持圣旨而代表仙皇，本身并非仙皇"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master",
+      "dated": false,
+      "seq": 1824
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
-    "plot.xianni-ch1913-hailong-submits-imperial-edict-arrives"
+    "plot.xianni-ch1913-hailong-submits-imperial-edict-arrives",
+    "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master"
   ],
-  "updatedAt": "2026-08-30T16:41:14.659Z"
+  "updatedAt": "2026-08-30T16:43:13.518Z"
 }

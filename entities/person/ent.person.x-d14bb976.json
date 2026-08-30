@@ -18,9 +18,11 @@
     "小阶段": "空劫后期巅峰",
     "性格": "恨意滔天、怯战、善用规矩自保",
     "外貌": "黑白道袍、身影挺拔、相貌英俊、双唇略薄、双眼略有疲惫",
-    "存殁": "重伤未死",
+    "存殁": "存活、重伤未死、死亡",
     "标志特征": "心神推衍千余次以判生死",
-    "称号": "金尊、金尊老祖"
+    "称号": "金尊、金尊老祖",
+    "死因": "被王林数拳轰碎肉身后元神遭其吞噬",
+    "结局": "听完圣旨内容后眼前一黑，被完全吞噬"
   },
   "observations": {
     "身份": [
@@ -112,6 +114,11 @@
         "value": "重伤未死",
         "docId": "plot.xianni-ch1913-hailong-submits-imperial-edict-arrives",
         "seq": 1824
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master",
+        "seq": 1824
       }
     ],
     "标志特征": [
@@ -136,6 +143,20 @@
         "value": "金尊老祖",
         "docId": "plot.xianni-ch1911-two-continent-final-battle-wang-lin-slays-two-kongjie-dazun",
         "seq": 1819
+      }
+    ],
+    "死因": [
+      {
+        "value": "被王林数拳轰碎肉身后元神遭其吞噬",
+        "docId": "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master",
+        "seq": 1824
+      }
+    ],
+    "结局": [
+      {
+        "value": "听完圣旨内容后眼前一黑，被完全吞噬",
+        "docId": "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master",
+        "seq": 1824
       }
     ]
   },
@@ -180,9 +201,9 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch1913-hailong-submits-imperial-edict-arrives",
+      "docId": "plot.xianni-ch1891-jie-lei-mo-shen",
       "dated": false,
-      "seq": 1824
+      "seq": 1800
     },
     "标志特征": {
       "asOf": null,
@@ -195,6 +216,18 @@
       "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
       "dated": false,
       "seq": 1819
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master",
+      "dated": false,
+      "seq": 1824
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master",
+      "dated": false,
+      "seq": 1824
     }
   },
   "contested": false,
@@ -214,7 +247,8 @@
     "plot.xianni-ch1910-dao-mo-zong-jie",
     "plot.xianni-ch1911-two-continent-final-battle-wang-lin-slays-two-kongjie-dazun",
     "plot.xianni-ch1912-imperial-edict-arrives",
-    "plot.xianni-ch1913-hailong-submits-imperial-edict-arrives"
+    "plot.xianni-ch1913-hailong-submits-imperial-edict-arrives",
+    "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master"
   ],
-  "updatedAt": "2026-08-30T16:41:14.656Z"
+  "updatedAt": "2026-08-30T16:43:13.517Z"
 }
