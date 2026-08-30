@@ -58110,3 +58110,31 @@
 {"s":"ent.item.x-c7b55d50","p":"relatedTo","o":"ent.place.x-64f8cb6b","evidence":"plot.xianni-ch1851-hun-yi-ling","confidence":0.9,"seq":1760,"note":"丹海所化之仙丹"}
 {"s":"ent.person.x-75601c8c","p":"relatedTo","o":"ent.faction.x-e4270801","evidence":"plot.xianni-ch1851-hun-yi-ling","confidence":0.6,"seq":1760,"note":"救走残存绿魔洲修士，疑为绿魔洲一方强者，身份未明"}
 {"s":"ent.artifact.x-a8cef809","p":"relatedTo","o":"ent.event.x-9e8abfb9","evidence":"plot.xianni-ch1851-hun-yi-ling","confidence":0.9,"seq":1760,"note":"魂一令的传讯载体"}
+{"s":"ent.person.x-73d2856c","p":"memberOf","o":"ent.faction.x-0fec1875","evidence":"plot.xianni-ch1852-wang-lin-guess-da-hun-men-war","confidence":0.98,"seq":1760,"note":"第1852章身为大魂门长老、火焰山峰主"}
+{"s":"ent.person.x-a9fa749e","p":"memberOf","o":"ent.faction.x-0fec1875","evidence":"plot.xianni-ch1852-wang-lin-guess-da-hun-men-war","confidence":0.97,"seq":1760,"note":"大魂门老祖，居青天峰"}
+{"s":"ent.person.x-7e214ef4","p":"memberOf","o":"ent.faction.x-0fec1875","evidence":"plot.xianni-ch1852-wang-lin-guess-da-hun-men-war","confidence":0.95,"seq":1760}
+{"s":"ent.person.x-640ce680","p":"memberOf","o":"ent.faction.x-0fec1875","evidence":"plot.xianni-ch1852-wang-lin-guess-da-hun-men-war","confidence":0.85,"seq":1760,"note":"随王林居火焰山，本章以『矾珊梦』之名出现"}
+{"s":"ent.person.x-640ce680","p":"impersonates","o":"ent.person.x-d2c7ab82","evidence":"plot.xianni-ch1852-wang-lin-guess-da-hun-men-war","confidence":0.9,"seq":1760,"note":"据世界状态须知：自第1606章起伪装成姐姐矾珊梦，第1698章被王林揭穿；本章仍以此名出现"}
+{"s":"ent.person.x-7e214ef4","p":"kills","o":"ent.person.x-cf6468ef","evidence":"plot.xianni-ch1852-wang-lin-guess-da-hun-men-war","confidence":0.95,"seq":1760,"note":"第1852章追述，事发于本章前七天"}
+{"s":"ent.person.x-73d2856c","p":"tames","o":"ent.beast.x-b0719979","evidence":"plot.xianni-ch1852-wang-lin-guess-da-hun-men-war","confidence":0.9,"seq":1760,"note":"本章于蚊兽背上思索"}
+{"s":"ent.person.x-73d2856c","p":"possesses","o":"ent.item.x-4cdc0f57","evidence":"plot.xianni-ch1852-wang-lin-guess-da-hun-men-war","confidence":0.95,"seq":1760,"note":"入门验证时取出，烙印神识并滴血"}
+{"s":"ent.person.x-73d2856c","p":"possesses","o":"ent.item.x-0115117c","evidence":"plot.xianni-ch1852-wang-lin-guess-da-hun-men-war","confidence":0.9,"seq":1760,"note":"其中推衍变化之礼本章未动用"}
+{"s":"ent.person.x-a9fa749e","p":"practices","o":"ent.technique.x-76301098","evidence":"plot.xianni-ch1852-wang-lin-guess-da-hun-men-war","confidence":0.93,"seq":1760,"note":"本章以掌心小人推衍，结果似不乐观"}
+{"s":"ent.technique.x-4a608258","p":"partOf","o":"ent.place.x-9337fb7e","evidence":"plot.xianni-ch1852-wang-lin-guess-da-hun-men-war","confidence":0.95,"seq":1760,"note":"藏魂阁第九层传承"}
+{"s":"ent.place.x-9337fb7e","p":"partOf","o":"ent.faction.x-0fec1875","evidence":"plot.xianni-ch1852-wang-lin-guess-da-hun-men-war","confidence":0.97,"seq":1760}
+{"s":"ent.place.x-222ed28d","p":"partOf","o":"ent.faction.x-0fec1875","evidence":"plot.xianni-ch1852-wang-lin-guess-da-hun-men-war","confidence":0.96,"seq":1760}
+{"s":"ent.place.x-641ad438","p":"partOf","o":"ent.faction.x-0fec1875","evidence":"plot.xianni-ch1852-wang-lin-guess-da-hun-men-war","confidence":0.96,"seq":1760}
+{"s":"ent.formation.x-2a1dd5d9","p":"partOf","o":"ent.faction.x-0fec1875","evidence":"plot.xianni-ch1852-wang-lin-guess-da-hun-men-war","confidence":0.95,"seq":1760}
+{"s":"ent.faction.x-0fec1875","p":"locatedIn","o":"ent.place.x-222ed28d","evidence":"plot.xianni-ch1852-wang-lin-guess-da-hun-men-war","confidence":0.4,"seq":1760,"note":"仅表示青天峰为大魂门宗门深处所在，若冲突以 partOf 为准"}
+{"s":"ent.world.x-7e7ac7c1","p":"relatedTo","o":"ent.faction.x-52207211","evidence":"plot.xianni-ch1852-wang-lin-guess-da-hun-men-war","confidence":0.9,"seq":1760,"note":"绿魔洲属仙族"}
+{"s":"ent.place.x-ff5e8fde","p":"relatedTo","o":"ent.faction.x-52207211","evidence":"plot.xianni-ch1852-wang-lin-guess-da-hun-men-war","confidence":0.9,"seq":1760,"note":"天牛洲属仙族"}
+{"s":"ent.world.x-7e7ac7c1","p":"relatedTo","o":"ent.place.x-ff5e8fde","evidence":"plot.xianni-ch1852-wang-lin-guess-da-hun-men-war","confidence":0.3,"seq":1760,"note":"势力层面的敌对（本章为战争关系）；类型不符时以下方 relatedTo 为准（原:enemy）"}
+{"s":"ent.faction.x-0fec1875","p":"partOf","o":"ent.place.x-ff5e8fde","evidence":"plot.xianni-ch1852-wang-lin-guess-da-hun-men-war","confidence":0.9,"seq":1760,"note":"大魂门多年前迁移至天牛洲"}
+{"s":"ent.event.x-ab8951f9","p":"involves","o":"ent.person.x-73d2856c","evidence":"plot.xianni-ch1852-wang-lin-guess-da-hun-men-war","confidence":0.8,"seq":1760,"note":"王林由此生出猜测"}
+{"s":"ent.event.x-ab8951f9","p":"causes","o":"ent.event.x-fb55a106","evidence":"plot.xianni-ch1852-wang-lin-guess-da-hun-men-war","confidence":0.7,"seq":1760,"note":"战事背景下绿魔洲修士潜入大魂门"}
+{"s":"ent.event.x-fb55a106","p":"precedes","o":"ent.event.x-eefb99a1","evidence":"plot.xianni-ch1852-wang-lin-guess-da-hun-men-war","confidence":0.9,"seq":1760,"note":"事发于本章前七天，导致王林归山时遭三重验证"}
+{"s":"ent.event.x-fb55a106","p":"involves","o":"ent.person.x-7e214ef4","evidence":"plot.xianni-ch1852-wang-lin-guess-da-hun-men-war","confidence":0.95,"seq":1760}
+{"s":"ent.event.x-eefb99a1","p":"involves","o":"ent.person.x-a9fa749e","evidence":"plot.xianni-ch1852-wang-lin-guess-da-hun-men-war","confidence":0.95,"seq":1760}
+{"s":"ent.event.x-eefb99a1","p":"occursAt","o":"ent.place.x-222ed28d","evidence":"plot.xianni-ch1852-wang-lin-guess-da-hun-men-war","confidence":0.95,"seq":1760}
+{"s":"ent.item.x-69a475c9","p":"relatedTo","o":"ent.event.x-ab8951f9","evidence":"plot.xianni-ch1852-wang-lin-guess-da-hun-men-war","confidence":0.75,"seq":1760,"note":"王林见纸鹤后生出对此战的猜测"}
+{"s":"ent.item.x-0115117c","p":"relatedTo","o":"ent.person.x-a9fa749e","evidence":"plot.xianni-ch1852-wang-lin-guess-da-hun-men-war","confidence":0.7,"seq":1760,"note":"由大魂门老祖留下，青牛曾言老祖算出王林到来"}
