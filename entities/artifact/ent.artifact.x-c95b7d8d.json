@@ -4,14 +4,17 @@
   "name": "金印",
   "aliases": [
     "掌尊金印",
-    "巴掌大小金印"
+    "巴掌大小金印",
+    "封印灭神道之金印",
+    "无主之宝金印"
   ],
   "summary": "掌尊第三灭神道咬舌喷金血所化的巨大金印，本为虚幻神通之物，被玄罗一指定住并缩为巴掌大小，化作实质法宝落于王林身前。",
   "attributes": {
-    "来历": "掌尊「第三灭神道」神通所化，经玄罗点化为实质",
-    "能力": "冲开一切屏障；实质化后传出似有灵性的臣服嗡鸣",
-    "外形": "巴掌般大小的金印",
-    "持有者": "王林"
+    "来历": "掌尊「第三灭神道」神通所化，经玄罗点化为实质、玄罗自虚幻中创造，原为无主之宝",
+    "能力": "冲开一切屏障；实质化后传出似有灵性的臣服嗡鸣、封印掌尊灭神道之术（玄劫修为施展）、蕴含一丝九阳之力、坚不可摧",
+    "外形": "巴掌般大小的金印、金印，光芒万丈、触之冰冷",
+    "持有者": "王林",
+    "禁制": "封印灭神道之术"
   },
   "observations": {
     "来历": [
@@ -19,12 +22,32 @@
         "value": "掌尊「第三灭神道」神通所化，经玄罗点化为实质",
         "docId": "plot.xianni-1772-xuanluo-chushou-zhangzun-jinyin-shizhi",
         "seq": 1680
+      },
+      {
+        "value": "玄罗自虚幻中创造，原为无主之宝",
+        "docId": "plot.xianni-1773-kunshou-zhengzha-zhangzun-siren-weigong",
+        "seq": 1680
       }
     ],
     "能力": [
       {
         "value": "冲开一切屏障；实质化后传出似有灵性的臣服嗡鸣",
         "docId": "plot.xianni-1772-xuanluo-chushou-zhangzun-jinyin-shizhi",
+        "seq": 1680
+      },
+      {
+        "value": "封印掌尊灭神道之术（玄劫修为施展）",
+        "docId": "plot.xianni-1773-kunshou-zhengzha-zhangzun-siren-weigong",
+        "seq": 1680
+      },
+      {
+        "value": "蕴含一丝九阳之力",
+        "docId": "plot.xianni-1773-kunshou-zhengzha-zhangzun-siren-weigong",
+        "seq": 1680
+      },
+      {
+        "value": "坚不可摧",
+        "docId": "plot.xianni-1773-kunshou-zhengzha-zhangzun-siren-weigong",
         "seq": 1680
       }
     ],
@@ -34,6 +57,11 @@
         "docId": "plot.xianni-1772-xuanluo-chushou-zhangzun-jinyin-shizhi",
         "seq": 1680,
         "note": "被玄罗缩小后；原为如山巨印"
+      },
+      {
+        "value": "金印，光芒万丈、触之冰冷",
+        "docId": "plot.xianni-1773-kunshou-zhengzha-zhangzun-siren-weigong",
+        "seq": 1680
       }
     ],
     "持有者": [
@@ -42,6 +70,13 @@
         "docId": "plot.xianni-1772-xuanluo-chushou-zhangzun-jinyin-shizhi",
         "seq": 1680,
         "note": "第1772章玄罗使其漂浮于王林身前"
+      }
+    ],
+    "禁制": [
+      {
+        "value": "封印灭神道之术",
+        "docId": "plot.xianni-1773-kunshou-zhengzha-zhangzun-siren-weigong",
+        "seq": 1680
       }
     ]
   },
@@ -72,12 +107,19 @@
       "dated": false,
       "seq": 1680,
       "note": "第1772章玄罗使其漂浮于王林身前"
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-1773-kunshou-zhengzha-zhangzun-siren-weigong",
+      "dated": false,
+      "seq": 1680
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1772-xuanluo-chushou-zhangzun-jinyin-shizhi"
+    "plot.xianni-1772-xuanluo-chushou-zhangzun-jinyin-shizhi",
+    "plot.xianni-1773-kunshou-zhengzha-zhangzun-siren-weigong"
   ],
-  "updatedAt": "2026-08-30T07:03:40.571Z"
+  "updatedAt": "2026-08-30T07:05:59.631Z"
 }

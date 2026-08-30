@@ -1083,3 +1083,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T06:59:09.817Z** `ingest` plot.xianni-1770-yisi-zhi-kui-tomb-second-last-layer — 第1770章 已司之傀——王林下探古之墓地倒数第二层 · kind=plot asOf=2026-08-30 entities=17 relations=29 src=01680-01684.p2.md
 - **2026-08-30T07:01:17.684Z** `ingest` plot.xianni-1771-yun-yifeng-fair-duel — 第1771章 你可敢堂堂正正一战——云逸封挑战王林，败后立誓臣服 · kind=plot asOf=2026-08-30 entities=20 relations=33 src=01680-01684.p3.md
 - **2026-08-30T07:03:41.017Z** `ingest` plot.xianni-1772-xuanluo-chushou-zhangzun-jinyin-shizhi — 第1772章 玄罗出手！——掌尊追杀重伤王林，玄罗一指化神通金印为实质法宝 · kind=plot asOf=2026-08-30 entities=26 relations=32 src=01680-01684.p4.md
+- **2026-08-30T07:06:00.075Z** `ingest` plot.xianni-1773-kunshou-zhengzha-zhangzun-siren-weigong — 第1773章 困兽挣扎：王林祭炼金印，四人围攻掌尊 · kind=plot asOf=2026-08-30 entities=26 relations=37 src=01680-01684.p5.md

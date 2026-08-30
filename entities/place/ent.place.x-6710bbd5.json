@@ -4,13 +4,14 @@
   "name": "古之墓地倒数第二层",
   "aliases": [
     "倒数第二层",
-    "已司所在层"
+    "已司所在层",
+    "古之墓地第二层（倒数）"
   ],
   "summary": "雾气稀薄、红芒如血狱之层，凶兽化赤红双眼窥伺，恐怖气息（疑为已司之傀）盘踞其中。",
   "attributes": {
     "所属界面": "古之墓地",
-    "类型": "地层/区域、墓地分层",
-    "方位": "古之墓地深处，倒数第二层",
+    "类型": "地层/区域、墓地分层、秘境层级",
+    "方位": "古之墓地深处，倒数第二层、古之墓地倒数第二层",
     "危险度": "极高",
     "特产": "红芒血狱之光、赤红双眼凶兽",
     "上级区域": "古之墓地"
@@ -33,12 +34,22 @@
         "value": "墓地分层",
         "docId": "plot.xianni-1772-xuanluo-chushou-zhangzun-jinyin-shizhi",
         "seq": 1680
+      },
+      {
+        "value": "秘境层级",
+        "docId": "plot.xianni-1773-kunshou-zhengzha-zhangzun-siren-weigong",
+        "seq": 1680
       }
     ],
     "方位": [
       {
         "value": "古之墓地深处，倒数第二层",
         "docId": "plot.xianni-1770-yisi-zhi-kui-tomb-second-last-layer",
+        "seq": 1680
+      },
+      {
+        "value": "古之墓地倒数第二层",
+        "docId": "plot.xianni-1773-kunshou-zhengzha-zhangzun-siren-weigong",
         "seq": 1680
       }
     ],
@@ -107,7 +118,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-1770-yisi-zhi-kui-tomb-second-last-layer",
-    "plot.xianni-1772-xuanluo-chushou-zhangzun-jinyin-shizhi"
+    "plot.xianni-1772-xuanluo-chushou-zhangzun-jinyin-shizhi",
+    "plot.xianni-1773-kunshou-zhengzha-zhangzun-siren-weigong"
   ],
-  "updatedAt": "2026-08-30T07:03:40.581Z"
+  "updatedAt": "2026-08-30T07:05:59.642Z"
 }
