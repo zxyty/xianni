@@ -6,16 +6,18 @@
     "Naduo",
     "域外修士纳多",
     "五行星的纳多",
-    "五行星纳多"
+    "五行星纳多",
+    "纳多长老"
   ],
   "summary": "来自其母星的强者，当前仅恢复三成修为（约婴变初期），欲夺回储物袋并偷袭王林，因见其极境而止杀，透露修星之晶可突破极境极限后乘星罗盘离去。",
   "attributes": {
     "小阶段": "婴变初期",
     "出身地": "五行星",
     "标志特征": "拥有五彩极境",
-    "身份": "当年追杀司徒南的几人之一",
+    "身份": "归一宗长老",
     "寿元": "存活数万年",
-    "称号": "老怪物"
+    "称号": "五彩极境拥有者",
+    "存殁": "闭死关中"
   },
   "observations": {
     "小阶段": [
@@ -70,6 +72,11 @@
         "value": "当年追杀司徒南的几人之一",
         "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
         "seq": 1280
+      },
+      {
+        "value": "归一宗长老",
+        "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
+        "seq": 1636
       }
     ],
     "寿元": [
@@ -85,6 +92,19 @@
         "value": "老怪物",
         "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
         "seq": 397
+      },
+      {
+        "value": "五彩极境拥有者",
+        "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
+        "seq": 1636
+      }
+    ],
+    "存殁": [
+      {
+        "value": "闭死关中",
+        "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
+        "seq": 1636,
+        "note": "自一千年前闭死关，宗内无法唤醒"
       }
     ]
   },
@@ -111,9 +131,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1366-wucai-jijing-naduo-mystery",
+      "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
       "dated": false,
-      "seq": 1280
+      "seq": 1636
     },
     "寿元": {
       "asOf": null,
@@ -124,9 +144,16 @@
     },
     "称号": {
       "asOf": null,
-      "docId": "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
+      "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
       "dated": false,
-      "seq": 397
+      "seq": 1636
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
+      "dated": false,
+      "seq": 1636,
+      "note": "自一千年前闭死关，宗内无法唤醒"
     }
   },
   "contested": false,
@@ -138,7 +165,8 @@
     "plot.xianni-ch438-442-shaji-ye-wuyou-jinjia-dahan-jianmang",
     "plot.xianni-ch779-jijing-reappears-vortex-seal-broken",
     "plot.xianni-1366-wucai-jijing-naduo-mystery",
-    "plot.xianni-ch1682-outsiders-wind-immortal-realm-reassembled"
+    "plot.xianni-ch1682-outsiders-wind-immortal-realm-reassembled",
+    "plot.xianni-1729-wuxing-star-guiyi-zong"
   ],
-  "updatedAt": "2026-08-26T11:43:58.747Z"
+  "updatedAt": "2026-08-30T04:03:44.887Z"
 }

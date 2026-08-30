@@ -10,11 +10,12 @@
   ],
   "summary": "仙罡大陆宗派，与七道宗一样算不得大宗；其至宝曾被马师兄用以开辟一条通往七道宗（烨寞）洞府的通道。",
   "attributes": {
-    "所属界面": "群仙罡大陆",
+    "所属界面": "仙罡大陆、群仙罡大陆、五行星",
     "等级": "与七道宗一样，算不得大宗",
-    "据点": "归一宗分宗山门",
-    "镇派之宝": "归一宗至宝",
-    "阵营": "洞府界外来者"
+    "据点": "五行星东部九峰中央的九十九层高塔",
+    "镇派之宝": "五行归一阵",
+    "阵营": "洞府界外来者",
+    "理念": "五行归一"
   },
   "observations": {
     "所属界面": [
@@ -26,6 +27,11 @@
       {
         "value": "群仙罡大陆",
         "docId": "plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou",
+        "seq": 1636
+      },
+      {
+        "value": "五行星",
+        "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
         "seq": 1636
       }
     ],
@@ -41,6 +47,11 @@
         "value": "归一宗分宗山门",
         "docId": "plot.xianni-1681-blood-sword-tip-pierces-into-xiangang",
         "seq": 1591
+      },
+      {
+        "value": "五行星东部九峰中央的九十九层高塔",
+        "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
+        "seq": 1636
       }
     ],
     "镇派之宝": [
@@ -49,6 +60,11 @@
         "docId": "plot.xianni-1681-blood-sword-tip-pierces-into-xiangang",
         "seq": 1591,
         "note": "被马师兄用以开辟通往七道宗洞府的通道"
+      },
+      {
+        "value": "五行归一阵",
+        "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
+        "seq": 1636
       }
     ],
     "阵营": [
@@ -57,15 +73,22 @@
         "docId": "plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou",
         "seq": 1636
       }
+    ],
+    "理念": [
+      {
+        "value": "五行归一",
+        "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
+        "seq": 1636
+      }
     ]
   },
   "firstSeq": 1591,
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou",
+      "docId": "plot.xianni-1681-blood-sword-tip-pierces-into-xiangang",
       "dated": false,
-      "seq": 1636
+      "seq": 1591
     },
     "等级": {
       "asOf": null,
@@ -75,20 +98,25 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-1681-blood-sword-tip-pierces-into-xiangang",
+      "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
       "dated": false,
-      "seq": 1591
+      "seq": 1636
     },
     "镇派之宝": {
       "asOf": null,
-      "docId": "plot.xianni-1681-blood-sword-tip-pierces-into-xiangang",
+      "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
       "dated": false,
-      "seq": 1591,
-      "note": "被马师兄用以开辟通往七道宗洞府的通道"
+      "seq": 1636
     },
     "阵营": {
       "asOf": null,
       "docId": "plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou",
+      "dated": false,
+      "seq": 1636
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
       "dated": false,
       "seq": 1636
     }
@@ -99,7 +127,8 @@
     "plot.xianni-1681-blood-sword-tip-pierces-into-xiangang",
     "plot.xianni-ch1682-outsiders-wind-immortal-realm-reassembled",
     "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
-    "plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou"
+    "plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou",
+    "plot.xianni-1729-wuxing-star-guiyi-zong"
   ],
-  "updatedAt": "2026-08-30T03:58:36.196Z"
+  "updatedAt": "2026-08-30T04:03:44.896Z"
 }
