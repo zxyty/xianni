@@ -1030,3 +1030,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T03:10:38.400Z** `ingest` plot.xianni-ch1707-guimai-cangqiong-blood-tribulation-xianggang-expectation — 第1707章 来自仙罡的期待：王林凝古脉苍穹血，仙罡大陆道古一脉四滴血芒 · kind=plot asOf=2026-08-30 entities=26 relations=37 src=01616-01620.p2.md
 - **2026-08-30T03:12:38.949Z** `ingest` plot.xianni-ch1708-first-one-to-charge-the-vortex — 第1708章 第一人！——王林融四滴古祖苍穹血成古国之民，不甘足而冲向漩涡 · kind=plot asOf=2026-08-30 entities=14 relations=26 src=01616-01620.p3.md
 - **2026-08-30T03:15:10.612Z** `ingest` plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue — 第1709章 皇尊的嫉妒！——王林逼问古祖，连获十滴苍穹血含一滴魂血 · kind=plot asOf=2026-08-30 entities=24 relations=33 src=01616-01620.p4.md
+- **2026-08-30T03:17:59.193Z** `ingest` plot.xianni-ch1710-yi-lv-hun — 第1710章 一缕魂：第十滴魂血震动道古，皇尊藏女子残魂与白发预言 · kind=plot asOf=2026-08-30 entities=31 relations=49 src=01616-01620.p5.md

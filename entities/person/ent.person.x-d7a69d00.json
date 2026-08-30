@@ -5,16 +5,22 @@
   "aliases": [],
   "summary": "道古一脉皇尊，玄罗大天尊之侄辈（称其为族叔），当年获六滴苍穹血而成皇尊；目睹王林连获十滴，嫉妒近乎崩溃，却笑里藏刀地当面道贺。",
   "attributes": {
-    "身份": "道古一脉皇尊、皇族血脉",
+    "身份": "道古一脉皇尊、皇族血脉、道古皇尊、吉祖嫡传后人",
     "称号": "皇尊",
     "外貌": "皇袍男子",
-    "性格": "阴险恶毒、极度嫉妒、擅长伪饰"
+    "性格": "阴险恶毒、极度嫉妒、擅长伪饰、阴沉、傲慢、城府深",
+    "阵营": "道吉一脉"
   },
   "observations": {
     "身份": [
       {
         "value": "道古一脉皇尊、皇族血脉",
         "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
+        "seq": 1616
+      },
+      {
+        "value": "道古皇尊、吉祖嫡传后人",
+        "docId": "plot.xianni-ch1710-yi-lv-hun",
         "seq": 1616
       }
     ],
@@ -36,6 +42,18 @@
       {
         "value": "阴险恶毒、极度嫉妒、擅长伪饰",
         "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
+        "seq": 1616
+      },
+      {
+        "value": "阴沉、傲慢、城府深",
+        "docId": "plot.xianni-ch1710-yi-lv-hun",
+        "seq": 1616
+      }
+    ],
+    "阵营": [
+      {
+        "value": "道吉一脉",
+        "docId": "plot.xianni-ch1710-yi-lv-hun",
         "seq": 1616
       }
     ]
@@ -65,12 +83,19 @@
       "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
       "dated": false,
       "seq": 1616
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1710-yi-lv-hun",
+      "dated": false,
+      "seq": 1616
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue"
+    "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
+    "plot.xianni-ch1710-yi-lv-hun"
   ],
-  "updatedAt": "2026-08-30T03:15:10.170Z"
+  "updatedAt": "2026-08-30T03:17:58.713Z"
 }

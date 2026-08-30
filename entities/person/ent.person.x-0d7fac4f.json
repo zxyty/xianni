@@ -6,12 +6,14 @@
     "吉祖",
     "冥冥中的古祖",
     "冥冥古祖",
-    "道古古祖"
+    "道古古祖",
+    "古之祖"
   ],
   "summary": "冥冥中存在的古之三族先祖，古脉苍穹血一劫需获其认可并被赐下鲜血，赐血数量按认可程度分级。",
   "attributes": {
-    "身份": "古之三族先祖、古国三脉之祖、古国之修心中的天",
-    "标志特征": "赐血1~8滴以示认可程度"
+    "身份": "古之三族先祖、古国三脉之祖、古国之修心中的天、古国始祖",
+    "标志特征": "赐血1~8滴以示认可程度",
+    "称号": "古祖／吉祖"
   },
   "observations": {
     "身份": [
@@ -24,12 +26,24 @@
         "value": "古国三脉之祖、古国之修心中的天",
         "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
         "seq": 1616
+      },
+      {
+        "value": "古国始祖",
+        "docId": "plot.xianni-ch1710-yi-lv-hun",
+        "seq": 1616
       }
     ],
     "标志特征": [
       {
         "value": "赐血1~8滴以示认可程度",
         "docId": "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
+        "seq": 1616
+      }
+    ],
+    "称号": [
+      {
+        "value": "古祖／吉祖",
+        "docId": "plot.xianni-ch1710-yi-lv-hun",
         "seq": 1616
       }
     ]
@@ -47,13 +61,20 @@
       "docId": "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
       "dated": false,
       "seq": 1616
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1710-yi-lv-hun",
+      "dated": false,
+      "seq": 1616
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
-    "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue"
+    "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
+    "plot.xianni-ch1710-yi-lv-hun"
   ],
-  "updatedAt": "2026-08-30T03:15:10.170Z"
+  "updatedAt": "2026-08-30T03:17:58.717Z"
 }
