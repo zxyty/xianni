@@ -3,13 +3,18 @@
   "type": "place",
   "name": "大圣洲",
   "aliases": [
-    "大圣洲地界"
+    "大圣洲地界",
+    "大圣",
+    "Da Sheng Zhou"
   ],
   "summary": "东州偏北之洲，东临宗所在。",
   "attributes": {
     "上级区域": "东州",
     "方位": "东州偏北",
-    "所属势力": "东临宗"
+    "所属势力": "东临宗",
+    "类型": "洲",
+    "特产": "地灵、农植生长顺利",
+    "危险度": "对修士而言偏僻荒凉，比天牛洲更甚"
   },
   "observations": {
     "上级区域": [
@@ -32,6 +37,27 @@
         "docId": "plot.xianni-1818-wang-lin-suo-di-cheng-cun-fen-shen-su-xing",
         "seq": 1725
       }
+    ],
+    "类型": [
+      {
+        "value": "洲",
+        "docId": "plot.xianni-1939-jin-daxian-dasheng-zhou",
+        "seq": 1848
+      }
+    ],
+    "特产": [
+      {
+        "value": "地灵、农植生长顺利",
+        "docId": "plot.xianni-1939-jin-daxian-dasheng-zhou",
+        "seq": 1848
+      }
+    ],
+    "危险度": [
+      {
+        "value": "对修士而言偏僻荒凉，比天牛洲更甚",
+        "docId": "plot.xianni-1939-jin-daxian-dasheng-zhou",
+        "seq": 1848
+      }
     ]
   },
   "firstSeq": 1725,
@@ -53,13 +79,32 @@
       "docId": "plot.xianni-1818-wang-lin-suo-di-cheng-cun-fen-shen-su-xing",
       "dated": false,
       "seq": 1725
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-1939-jin-daxian-dasheng-zhou",
+      "dated": false,
+      "seq": 1848
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-1939-jin-daxian-dasheng-zhou",
+      "dated": false,
+      "seq": 1848
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-1939-jin-daxian-dasheng-zhou",
+      "dated": false,
+      "seq": 1848
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1818-wang-lin-suo-di-cheng-cun-fen-shen-su-xing",
-    "plot.xianni-1886-compensation-rewards-from-tianniu-continent"
+    "plot.xianni-1886-compensation-rewards-from-tianniu-continent",
+    "plot.xianni-1939-jin-daxian-dasheng-zhou"
   ],
-  "updatedAt": "2026-08-30T14:43:12.722Z"
+  "updatedAt": "2026-08-30T17:41:56.189Z"
 }

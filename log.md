@@ -1213,3 +1213,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T17:35:37.828Z** `ingest` plot.xianni-ch1936-half-zhang-light-curtain — 第1936章 半丈的——仙祖断掌之谜与光幕缩至半丈 · kind=plot asOf=2026-08-30 entities=23 relations=29 src=01844-01847.p4.md
 - **2026-08-30T17:37:59.032Z** `ingest` plot.xianni-1937-let-the-great-heaven-venerate-see — 第1937章 让大天尊看到！——王林与海子天尊破封而出，信术残阳映照三大天尊 · kind=plot asOf=2026-08-30 entities=18 relations=26 src=01848-01852.p1.md
 - **2026-08-30T17:40:03.522Z** `ingest` plot.xianni-1938-bu-hui-de-zhizhuo — 第1938章 不悔的执着：王林融合第二枚仙极剑碎片，凝金本源、十三神通融体 · kind=plot asOf=2026-08-30 entities=22 relations=24 src=01848-01852.p2.md
+- **2026-08-30T17:41:56.650Z** `ingest` plot.xianni-1939-jin-daxian-dasheng-zhou — 第1939章 金大仙！——刘金彪化身「金彪大仙」行骗大圣洲，王林抵达东临宗所在之洲 · kind=plot asOf=2026-08-30 entities=12 relations=16 src=01848-01852.p3.md
