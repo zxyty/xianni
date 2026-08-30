@@ -4,13 +4,16 @@
   "name": "云门推衍老者",
   "aliases": [
     "云门老者",
-    "推衍的老者"
+    "推衍的老者",
+    "拦下刘金彪的云门老者"
   ],
   "summary": "云门中主持推衍之人，以孩童为引推算出刘金彪方位，派四名第二步修士擒拿并欲搜其魂。",
   "attributes": {
-    "身份": "云门高层",
+    "身份": "云门长者",
     "外貌": "老者",
-    "阵营": "云门"
+    "阵营": "云门",
+    "性别": "男",
+    "存殁": "在世"
   },
   "observations": {
     "身份": [
@@ -18,6 +21,11 @@
         "value": "云门高层",
         "docId": "plot.xianni-1941-my-master-gu-ya-tianzun",
         "seq": 1848
+      },
+      {
+        "value": "云门长者",
+        "docId": "plot.xianni-ch1942-who-are-you-liu-jinbiao-deception-dao",
+        "seq": 1853
       }
     ],
     "外貌": [
@@ -33,15 +41,29 @@
         "docId": "plot.xianni-1941-my-master-gu-ya-tianzun",
         "seq": 1848
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch1942-who-are-you-liu-jinbiao-deception-dao",
+        "seq": 1853
+      }
+    ],
+    "存殁": [
+      {
+        "value": "在世",
+        "docId": "plot.xianni-ch1942-who-are-you-liu-jinbiao-deception-dao",
+        "seq": 1853
+      }
     ]
   },
   "firstSeq": 1848,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1941-my-master-gu-ya-tianzun",
+      "docId": "plot.xianni-ch1942-who-are-you-liu-jinbiao-deception-dao",
       "dated": false,
-      "seq": 1848
+      "seq": 1853
     },
     "外貌": {
       "asOf": null,
@@ -54,12 +76,25 @@
       "docId": "plot.xianni-1941-my-master-gu-ya-tianzun",
       "dated": false,
       "seq": 1848
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1942-who-are-you-liu-jinbiao-deception-dao",
+      "dated": false,
+      "seq": 1853
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1942-who-are-you-liu-jinbiao-deception-dao",
+      "dated": false,
+      "seq": 1853
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1941-my-master-gu-ya-tianzun"
+    "plot.xianni-1941-my-master-gu-ya-tianzun",
+    "plot.xianni-ch1942-who-are-you-liu-jinbiao-deception-dao"
   ],
-  "updatedAt": "2026-08-30T17:46:31.303Z"
+  "updatedAt": "2026-08-30T17:48:42.073Z"
 }

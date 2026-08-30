@@ -3,12 +3,14 @@
   "type": "faction",
   "name": "云门",
   "aliases": [
-    "小小云门"
+    "小小云门",
+    "云门宗"
   ],
   "summary": "大圣洲北部山谷盆地内的一个寻常宗门，阁楼宫殿林立、阵法防护弥漫；因被刘金彪所骗而推衍锁定并擒其归山。",
   "attributes": {
-    "等级": "大圣洲寻常宗门",
-    "据点": "大圣洲北部山谷盆地"
+    "等级": "大圣洲内最底层宗门",
+    "据点": "云门山门与宫殿",
+    "所属界面": "大圣洲"
   },
   "observations": {
     "等级": [
@@ -16,6 +18,11 @@
         "value": "大圣洲寻常宗门",
         "docId": "plot.xianni-1941-my-master-gu-ya-tianzun",
         "seq": 1848
+      },
+      {
+        "value": "大圣洲内最底层宗门",
+        "docId": "plot.xianni-ch1942-who-are-you-liu-jinbiao-deception-dao",
+        "seq": 1853
       }
     ],
     "据点": [
@@ -23,6 +30,18 @@
         "value": "大圣洲北部山谷盆地",
         "docId": "plot.xianni-1941-my-master-gu-ya-tianzun",
         "seq": 1848
+      },
+      {
+        "value": "云门山门与宫殿",
+        "docId": "plot.xianni-ch1942-who-are-you-liu-jinbiao-deception-dao",
+        "seq": 1853
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "大圣洲",
+        "docId": "plot.xianni-ch1942-who-are-you-liu-jinbiao-deception-dao",
+        "seq": 1853
       }
     ]
   },
@@ -30,21 +49,28 @@
   "attrProvenance": {
     "等级": {
       "asOf": null,
-      "docId": "plot.xianni-1941-my-master-gu-ya-tianzun",
+      "docId": "plot.xianni-ch1942-who-are-you-liu-jinbiao-deception-dao",
       "dated": false,
-      "seq": 1848
+      "seq": 1853
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-1941-my-master-gu-ya-tianzun",
+      "docId": "plot.xianni-ch1942-who-are-you-liu-jinbiao-deception-dao",
       "dated": false,
-      "seq": 1848
+      "seq": 1853
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1942-who-are-you-liu-jinbiao-deception-dao",
+      "dated": false,
+      "seq": 1853
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1941-my-master-gu-ya-tianzun"
+    "plot.xianni-1941-my-master-gu-ya-tianzun",
+    "plot.xianni-ch1942-who-are-you-liu-jinbiao-deception-dao"
   ],
-  "updatedAt": "2026-08-30T17:46:31.307Z"
+  "updatedAt": "2026-08-30T17:48:42.078Z"
 }
