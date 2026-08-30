@@ -3,13 +3,16 @@
   "type": "technique",
   "name": "默灭本源",
   "aliases": [
-    "默灭"
+    "默灭",
+    "黑色天阳",
+    "黑暗本源"
   ],
   "summary": "与太初相对的本源，掌控日落，代表一切黑暗；杜某在归虚之间行走观黑夜后于明悟太初之后所悟。",
   "attributes": {
     "出处": "杜某于归虚之间行走所悟",
-    "效果": "代表一切黑暗、掌控日落",
-    "外显异象": "右目所见由模糊转为一片漆黑"
+    "效果": "代表一切黑暗、掌控日落、性近毁灭、使杀戮雷霆生变、气息毁天灭地",
+    "外显异象": "右目所见由模糊转为一片漆黑",
+    "修炼条件": "观黑夜吞噬光明、东临池感悟"
   },
   "observations": {
     "出处": [
@@ -24,12 +27,29 @@
         "value": "代表一切黑暗、掌控日落",
         "docId": "plot.xianni-1949-taichu-momie-benyuan",
         "seq": 1858
+      },
+      {
+        "value": "性近毁灭",
+        "docId": "plot.xianni-1950-zailin-tianzunnie",
+        "seq": 1858
+      },
+      {
+        "value": "使杀戮雷霆生变、气息毁天灭地",
+        "docId": "plot.xianni-1950-zailin-tianzunnie",
+        "seq": 1858
       }
     ],
     "外显异象": [
       {
         "value": "右目所见由模糊转为一片漆黑",
         "docId": "plot.xianni-1949-taichu-momie-benyuan",
+        "seq": 1858
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "观黑夜吞噬光明、东临池感悟",
+        "docId": "plot.xianni-1950-zailin-tianzunnie",
         "seq": 1858
       }
     ]
@@ -53,12 +73,19 @@
       "docId": "plot.xianni-1949-taichu-momie-benyuan",
       "dated": false,
       "seq": 1858
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.xianni-1950-zailin-tianzunnie",
+      "dated": false,
+      "seq": 1858
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1949-taichu-momie-benyuan"
+    "plot.xianni-1949-taichu-momie-benyuan",
+    "plot.xianni-1950-zailin-tianzunnie"
   ],
-  "updatedAt": "2026-08-30T18:03:55.434Z"
+  "updatedAt": "2026-08-30T18:06:31.433Z"
 }
