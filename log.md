@@ -1173,3 +1173,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T15:05:12.581Z** `ingest` plot.xianni-1896-crazy-transformation-of-wang-lin-body — 第1896章 疯狂的造化：绿袍祭祀改造王林肉身 · kind=plot asOf=2026-08-30 entities=17 relations=21 src=01805-01809.p3.md
 - **2026-08-30T15:07:41.077Z** `ingest` plot.xianni-ch1897-green-demon-furnace — 第1897章 绿魔炉！——绿袍老者为王林凝出第四具水本源真身并起炉温养 · kind=plot asOf=2026-08-30 entities=23 relations=32 src=01805-01809.p4.md
 - **2026-08-30T15:10:07.620Z** `ingest` plot.xianni-ch1898-green-demon-scorpion-soul-devour-failed-possession — 第1898章 气绝！！——王林反噬绿魔蝎分魂、四大本源真身齐出，绿袍老者活活气死 · kind=plot asOf=2026-08-30 entities=20 relations=31 src=01805-01809.p5.md
+- **2026-08-30T15:12:13.029Z** `ingest` plot.xianni-1899-green-robed-elder-dies-wang-lin-devours-scorpion-soul — 第1899章 奉献！——绿袍老者恨极身亡，王林五刀斩绿魔蝎魂 · kind=plot asOf=2026-08-30 entities=20 relations=28 src=01810-01814.p1.md
