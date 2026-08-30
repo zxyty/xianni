@@ -8,11 +8,12 @@
   ],
   "summary": "武封大天尊所在之州，云空多年前曾前往拜师问仙求道。",
   "attributes": {
-    "类型": "极寒州域",
+    "类型": "州",
     "上级区域": "七十二洲、仙族大地、仙族大陆",
-    "方位": "北",
+    "方位": "仙罡大陆北部，与无尽之海接壤",
     "所属界面": "仙罡大陆",
-    "特产": "万年不化冰川"
+    "特产": "万里冰封",
+    "所属势力": "仙族"
   },
   "observations": {
     "类型": [
@@ -25,6 +26,11 @@
         "value": "极寒州域",
         "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
         "seq": 1863
+      },
+      {
+        "value": "州",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909
       }
     ],
     "上级区域": [
@@ -59,6 +65,11 @@
         "value": "北",
         "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
         "seq": 1863
+      },
+      {
+        "value": "仙罡大陆北部，与无尽之海接壤",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909
       }
     ],
     "所属界面": [
@@ -73,6 +84,18 @@
         "value": "万年不化冰川",
         "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
         "seq": 1863
+      },
+      {
+        "value": "万里冰封",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "仙族",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909
       }
     ]
   },
@@ -80,9 +103,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+      "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
       "dated": false,
-      "seq": 1863
+      "seq": 1909
     },
     "上级区域": {
       "asOf": null,
@@ -92,9 +115,9 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+      "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
       "dated": false,
-      "seq": 1863
+      "seq": 1909
     },
     "所属界面": {
       "asOf": null,
@@ -104,9 +127,15 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+      "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
       "dated": false,
-      "seq": 1863
+      "seq": 1909
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+      "dated": false,
+      "seq": 1909
     }
   },
   "contested": false,
@@ -115,7 +144,8 @@
     "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
     "lore.xianni-1917-xianzu-five-great-tianzun",
     "plot.xianni-1921-tianzun-nie-trial-ground",
-    "plot.xianni-1863-1867-tianzun-nie-yiming-jingren"
+    "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+    "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi"
   ],
-  "updatedAt": "2026-08-30T18:30:48.301Z"
+  "updatedAt": "2026-08-30T23:13:27.961Z"
 }

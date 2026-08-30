@@ -6,13 +6,17 @@
     "仙祖死前的诅术",
     "仙祖之诅",
     "诅术",
-    "诅术之力"
+    "诅术之力",
+    "诅术黑气",
+    "诅咒之术"
   ],
   "summary": "仙祖死前所留：任何试图毁灭其身体者皆将死亡，唯有其后人以血脉之力弑祖、承受诅力并断绝血脉方可破解。",
   "attributes": {
     "类型": "诅咒",
-    "威力": "触之者黑气缠身、急速腐烂枯萎，修为不足者立毙、撕裂灼烧肉身与灵魂，衰老、烂肉脱落，跃天尊承受则形神俱灭",
-    "出处": "仙祖临死所留、仙祖头颅"
+    "威力": "触之者黑气缠身、急速腐烂枯萎，修为不足者立毙、撕裂灼烧肉身与灵魂，衰老、烂肉脱落，跃天尊承受则形神俱灭、令大天尊虚弱、血肉分离、修为受损、金尊沾之必死；天尊碰触后全身腐烂终死；跃天尊可硬撑度过但代价极大",
+    "出处": "仙祖临死所留、仙祖头颅",
+    "消耗": "中术者须持续分神压制",
+    "适用境界": "可迫使大天尊长期闭关驱除"
   },
   "observations": {
     "类型": [
@@ -32,6 +36,16 @@
         "value": "撕裂灼烧肉身与灵魂，衰老、烂肉脱落，跃天尊承受则形神俱灭",
         "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
         "seq": 1904
+      },
+      {
+        "value": "令大天尊虚弱、血肉分离、修为受损",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909
+      },
+      {
+        "value": "金尊沾之必死；天尊碰触后全身腐烂终死；跃天尊可硬撑度过但代价极大",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909
       }
     ],
     "出处": [
@@ -44,6 +58,20 @@
         "value": "仙祖头颅",
         "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
         "seq": 1904
+      }
+    ],
+    "消耗": [
+      {
+        "value": "中术者须持续分神压制",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "可迫使大天尊长期闭关驱除",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909
       }
     ]
   },
@@ -66,12 +94,25 @@
       "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
       "dated": false,
       "seq": 1904
+    },
+    "消耗": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+      "dated": false,
+      "seq": 1909
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+      "dated": false,
+      "seq": 1909
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head"
+    "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
+    "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi"
   ],
-  "updatedAt": "2026-08-30T22:02:32.533Z"
+  "updatedAt": "2026-08-30T23:13:27.918Z"
 }

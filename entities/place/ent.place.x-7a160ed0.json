@@ -5,16 +5,20 @@
   "aliases": [
     "世子藏身的皇宫",
     "仙族禁地",
-    "祖城皇宫"
+    "祖城皇宫",
+    "仙族祖城皇宫",
+    "中州祖城皇宫",
+    "祖城皇宫废墟"
   ],
   "summary": "世子殿下的避难之地，那名修士有所顾忌不便进入。",
   "attributes": {
-    "类型": "宫城",
+    "类型": "皇宫废墟",
     "危险度": "禁地，需允许方可入",
-    "上级区域": "祖城",
+    "上级区域": "仙族中州",
     "方位": "祖城最中央",
     "所属势力": "仙皇一系",
-    "守护": "仙祖雕像"
+    "守护": "仙祖雕像",
+    "所属界面": "仙罡大陆"
   },
   "observations": {
     "类型": [
@@ -42,6 +46,11 @@
         "value": "宫城",
         "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
         "seq": 1904
+      },
+      {
+        "value": "皇宫废墟",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909
       }
     ],
     "危险度": [
@@ -61,6 +70,11 @@
         "value": "祖城",
         "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
         "seq": 1878
+      },
+      {
+        "value": "仙族中州",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909
       }
     ],
     "方位": [
@@ -88,15 +102,22 @@
         "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
         "seq": 1904
       }
+    ],
+    "所属界面": [
+      {
+        "value": "仙罡大陆",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909
+      }
     ]
   },
   "firstSeq": 244,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
+      "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
       "dated": false,
-      "seq": 1904
+      "seq": 1909
     },
     "危险度": {
       "asOf": null,
@@ -106,9 +127,9 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+      "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
       "dated": false,
-      "seq": 1878
+      "seq": 1909
     },
     "方位": {
       "asOf": null,
@@ -127,6 +148,12 @@
       "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
       "dated": false,
       "seq": 1904
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+      "dated": false,
+      "seq": 1909
     }
   },
   "contested": false,
@@ -136,7 +163,8 @@
     "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
     "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
     "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
-    "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head"
+    "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
+    "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi"
   ],
-  "updatedAt": "2026-08-30T22:02:32.488Z"
+  "updatedAt": "2026-08-30T23:13:27.915Z"
 }

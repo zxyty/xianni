@@ -7,17 +7,19 @@
     "祖城的禁宫",
     "习禁宫",
     "皇宫禁宫",
-    "禁宫地宫"
+    "禁宫地宫",
+    "仙族禁宫",
+    "破碎的禁宫"
   ],
   "summary": "仙祖头颅所在之地：天空有巨大窟窿散发微弱光芒，下方八座山峰环绕，中央漂浮十丈仙祖头颅。",
   "attributes": {
-    "类型": "禁地/宫城、禁地/宫殿、禁地／宫殿、禁地",
+    "类型": "禁地/宫城、禁地/宫殿、禁地／宫殿、禁地、禁地/皇宫、禁地／皇宫核心",
     "上级区域": "祖城、仙族祖城皇宫、祖城皇宫",
     "方位": "八座山峰环绕之中",
     "特产": "仙祖头颅",
     "危险度": "极高",
     "所属势力": "仙族",
-    "守护": "仙祖头颅"
+    "守护": "仙祖头颅、仙祖头颅（镇压七十二洲之灵）、化作金山的连道非"
   },
   "observations": {
     "类型": [
@@ -40,6 +42,16 @@
         "value": "禁地",
         "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
         "seq": 1904
+      },
+      {
+        "value": "禁地/皇宫",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909
+      },
+      {
+        "value": "禁地／皇宫核心",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909
       }
     ],
     "上级区域": [
@@ -92,6 +104,17 @@
         "value": "仙祖头颅",
         "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
         "seq": 1898
+      },
+      {
+        "value": "仙祖头颅（镇压七十二洲之灵）",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909
+      },
+      {
+        "value": "化作金山的连道非",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909,
+        "note": "取代仙祖头颅镇压七十二洲之灵"
       }
     ]
   },
@@ -144,7 +167,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1898-1903-immortal-skull-mountain",
-    "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head"
+    "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
+    "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi"
   ],
-  "updatedAt": "2026-08-30T22:02:32.487Z"
+  "updatedAt": "2026-08-30T23:13:27.850Z"
 }

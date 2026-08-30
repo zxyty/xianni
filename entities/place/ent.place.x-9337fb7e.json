@@ -10,11 +10,12 @@
   "summary": "大魂门藏有诸多神通功法之地，每位长老有一次进入机会；炎栾获准进入三天作为补偿。",
   "attributes": {
     "所属势力": "大魂门",
-    "类型": "功法秘藏禁地、藏经／藏神通之阁、圣地／功法神通储存之地、宗门圣地/藏功法之阁、禁制楼阁/修炼秘地、禁地/传承之地、宗门传承楼阁、神通传承阁楼、传承楼阁、传承禁地、宗门藏经阁、楼阁/机构",
-    "守护": "门规限制，长老仅一次机会、两尊凶兽石像、各层楼梯禁制（阻非第三步大能）、阶梯神识威压「退下」、各层意志、阁内禁制、阁外天地裂缝，可开可闭、存有强者意志的禁制",
-    "规模": "九层阁楼，每层数千魂体（第五层约五百）、九层、至少十层",
+    "类型": "功法秘藏禁地、藏经／藏神通之阁、圣地／功法神通储存之地、宗门圣地/藏功法之阁、禁制楼阁/修炼秘地、禁地/传承之地、宗门传承楼阁、神通传承阁楼、传承楼阁、传承禁地、宗门藏经阁、楼阁/机构、秘阁、藏经阁楼",
+    "守护": "门规限制，长老仅一次机会、两尊凶兽石像、各层楼梯禁制（阻非第三步大能）、阶梯神识威压「退下」、各层意志、阁内禁制、阁外天地裂缝，可开可闭、存有强者意志的禁制、凶兽雕像与层层禁制",
+    "规模": "九层阁楼，每层数千魂体（第五层约五百）、九层、至少十层、外观七层，实为十层",
     "危险度": "杀机四伏、第六层需空劫意志，第七层需空劫中期意志、极高（第七层禁制可将人弹回）、第七层含空劫中期意志，第八层含空劫后期意志、登七八层会引发大魂门天变、层层威压递增，第九层楼梯威压极强、第十层连青牛真人也进不去",
-    "特产": "魂体、魂引归、多重幻术、九个七寸魂体（蕴含大魂门道法神通）"
+    "特产": "魂体、魂引归、多重幻术、九个七寸魂体（蕴含大魂门道法神通）",
+    "方位": "大魂门深处"
   },
   "observations": {
     "所属势力": [
@@ -84,6 +85,16 @@
         "value": "楼阁/机构",
         "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
         "seq": 1770
+      },
+      {
+        "value": "秘阁",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909
+      },
+      {
+        "value": "藏经阁楼",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909
       }
     ],
     "守护": [
@@ -126,6 +137,11 @@
         "value": "存有强者意志的禁制",
         "docId": "plot.xianni-ch1844-yugu-danhai-tuwei-yu-qidaozong-sanzhanjiang",
         "seq": 1755
+      },
+      {
+        "value": "凶兽雕像与层层禁制",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909
       }
     ],
     "规模": [
@@ -143,6 +159,11 @@
         "value": "至少十层",
         "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
         "seq": 1760
+      },
+      {
+        "value": "外观七层，实为十层",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909
       }
     ],
     "危险度": [
@@ -203,6 +224,13 @@
         "docId": "plot.xianni-ch1836-fenshen-zhenya-canghunge-8th-floor",
         "seq": 1745
       }
+    ],
+    "方位": [
+      {
+        "value": "大魂门深处",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909
+      }
     ]
   },
   "firstSeq": 1740,
@@ -242,6 +270,12 @@
       "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
       "dated": false,
       "seq": 1745
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+      "dated": false,
+      "seq": 1909
     }
   },
   "contested": false,
@@ -259,7 +293,8 @@
     "plot.xianni-ch1852-wang-lin-guess-da-hun-men-war",
     "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
     "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
-    "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie"
+    "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+    "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi"
   ],
-  "updatedAt": "2026-08-30T12:50:55.752Z"
+  "updatedAt": "2026-08-30T23:13:27.950Z"
 }

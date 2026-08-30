@@ -8,8 +8,9 @@
   "summary": "武封大天尊所在之地，其盯着冰川，目露果断。",
   "attributes": {
     "所属界面": "仙罡大陆",
-    "类型": "地域",
-    "方位": "仙罡大陆北州"
+    "类型": "冰川",
+    "方位": "北州",
+    "特产": "万载不化的寒气"
   },
   "observations": {
     "所属界面": [
@@ -24,6 +25,11 @@
         "value": "地域",
         "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
         "seq": 1863
+      },
+      {
+        "value": "冰川",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909
       }
     ],
     "方位": [
@@ -31,6 +37,18 @@
         "value": "仙罡大陆北州",
         "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
         "seq": 1863
+      },
+      {
+        "value": "北州",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909
+      }
+    ],
+    "特产": [
+      {
+        "value": "万载不化的寒气",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909
       }
     ]
   },
@@ -44,21 +62,28 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+      "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
       "dated": false,
-      "seq": 1863
+      "seq": 1909
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+      "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
       "dated": false,
-      "seq": 1863
+      "seq": 1909
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+      "dated": false,
+      "seq": 1909
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1863-1867-tianzun-nie-yiming-jingren"
+    "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+    "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi"
   ],
-  "updatedAt": "2026-08-30T18:30:48.360Z"
+  "updatedAt": "2026-08-30T23:13:27.913Z"
 }

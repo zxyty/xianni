@@ -9,8 +9,9 @@
   "attributes": {
     "上级区域": "藏魂阁",
     "危险度": "楼梯威压极强",
-    "特产": "完整版多重幻术（九重幻术）",
-    "所属势力": "大魂门"
+    "特产": "记录大魂门最强神通的玉简",
+    "所属势力": "大魂门",
+    "类型": "藏经之层"
   },
   "observations": {
     "上级区域": [
@@ -44,6 +45,11 @@
         "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
         "seq": 1745,
         "note": "王林推测"
+      },
+      {
+        "value": "记录大魂门最强神通的玉简",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909
       }
     ],
     "所属势力": [
@@ -51,6 +57,13 @@
         "value": "大魂门",
         "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
         "seq": 1745
+      }
+    ],
+    "类型": [
+      {
+        "value": "藏经之层",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909
       }
     ]
   },
@@ -71,23 +84,29 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
+      "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
       "dated": false,
-      "seq": 1745,
-      "note": "王林推测"
+      "seq": 1909
     },
     "所属势力": {
       "asOf": null,
       "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
       "dated": false,
       "seq": 1745
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+      "dated": false,
+      "seq": 1909
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
-    "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice"
+    "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
+    "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi"
   ],
-  "updatedAt": "2026-08-30T11:11:30.956Z"
+  "updatedAt": "2026-08-30T23:13:27.952Z"
 }

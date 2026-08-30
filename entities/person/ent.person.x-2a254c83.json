@@ -4,15 +4,22 @@
   "name": "大魂门老祖",
   "aliases": [
     "大魂门的老祖",
-    "大魂门老祖宗"
+    "大魂门老祖宗",
+    "悼亡族大魂门老祖",
+    "悼亡族一代天骄",
+    "藏魂阁第十层骸骨"
   ],
   "summary": "杜青一生所见唯一拥有本源真身者，其为魂之本源真身。",
   "attributes": {
     "身份": "大魂门创立者",
     "标志特征": "魂之本源真身、身后永远跟随虚影（影随身动）、已凝聚本源真身",
-    "存殁": "死亡",
+    "存殁": "或许已死，或许未死",
     "死因": "族人封印所限，离开祖城后必死",
-    "出身地": "悼亡族"
+    "出身地": "悼亡族",
+    "种族": "悼亡族",
+    "称号": "悼亡族历代无人可以超越的天骄之辈、悼亡族一代天骄",
+    "外貌": "跪姿骸骨，头裂无脑、胸有窟窿无心，左手托枯脑、右手托不动之心",
+    "结局": "魂被囚为祈求宽恕之念，跪于王林雕像前无数万年"
   },
   "observations": {
     "身份": [
@@ -53,7 +60,14 @@
       {
         "value": "死亡",
         "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
-        "seq": 1893
+        "seq": 1893,
+        "note": "据世界状态须知，第1893章已死；本章仅为王林追忆其计划与留言"
+      },
+      {
+        "value": "或许已死，或许未死",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909,
+        "note": "王林本章推测"
       }
     ],
     "死因": [
@@ -68,6 +82,39 @@
         "value": "悼亡族",
         "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
         "seq": 1904
+      }
+    ],
+    "种族": [
+      {
+        "value": "悼亡族",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909
+      }
+    ],
+    "称号": [
+      {
+        "value": "悼亡族历代无人可以超越的天骄之辈",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909
+      },
+      {
+        "value": "悼亡族一代天骄",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909
+      }
+    ],
+    "外貌": [
+      {
+        "value": "跪姿骸骨，头裂无脑、胸有窟窿无心，左手托枯脑、右手托不动之心",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909
+      }
+    ],
+    "结局": [
+      {
+        "value": "魂被囚为祈求宽恕之念，跪于王林雕像前无数万年",
+        "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+        "seq": 1909
       }
     ]
   },
@@ -87,9 +134,10 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+      "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
       "dated": false,
-      "seq": 1893
+      "seq": 1909,
+      "note": "王林本章推测"
     },
     "死因": {
       "asOf": null,
@@ -102,6 +150,30 @@
       "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
       "dated": false,
       "seq": 1904
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+      "dated": false,
+      "seq": 1909
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+      "dated": false,
+      "seq": 1909
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+      "dated": false,
+      "seq": 1909
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+      "dated": false,
+      "seq": 1909
     }
   },
   "contested": false,
@@ -112,7 +184,8 @@
     "plot.xianni-1818-wang-lin-suo-di-cheng-cun-fen-shen-su-xing",
     "lore.xianni-1917-xianzu-five-great-tianzun",
     "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
-    "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head"
+    "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
+    "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi"
   ],
-  "updatedAt": "2026-08-30T22:02:32.480Z"
+  "updatedAt": "2026-08-30T23:13:27.941Z"
 }
