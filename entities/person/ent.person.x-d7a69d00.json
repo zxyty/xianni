@@ -1,43 +1,40 @@
 {
-  "id": "ent.place.x-1aeb4fd7",
-  "type": "place",
-  "name": "仙族之地",
-  "aliases": [
-    "仙族占据的区域",
-    "仙罡大陆仙族疆域"
-  ],
-  "summary": "对古国第三损最后一劫亦极为重视的势力所在之地。",
+  "id": "ent.person.x-d7a69d00",
+  "type": "person",
+  "name": "道古皇尊",
+  "aliases": [],
+  "summary": "道古一脉皇尊，玄罗大天尊之侄辈（称其为族叔），当年获六滴苍穹血而成皇尊；目睹王林连获十滴，嫉妒近乎崩溃，却笑里藏刀地当面道贺。",
   "attributes": {
-    "类型": "地域",
-    "所属界面": "仙罡大陆",
-    "所属势力": "仙族",
-    "方位": "仙罡大陆远处"
+    "身份": "道古一脉皇尊、皇族血脉",
+    "称号": "皇尊",
+    "外貌": "皇袍男子",
+    "性格": "阴险恶毒、极度嫉妒、擅长伪饰"
   },
   "observations": {
-    "类型": [
+    "身份": [
       {
-        "value": "地域",
-        "docId": "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
-        "seq": 1616
-      }
-    ],
-    "所属界面": [
-      {
-        "value": "仙罡大陆",
+        "value": "道古一脉皇尊、皇族血脉",
         "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
         "seq": 1616
       }
     ],
-    "所属势力": [
+    "称号": [
       {
-        "value": "仙族",
+        "value": "皇尊",
         "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
         "seq": 1616
       }
     ],
-    "方位": [
+    "外貌": [
       {
-        "value": "仙罡大陆远处",
+        "value": "皇袍男子",
+        "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
+        "seq": 1616
+      }
+    ],
+    "性格": [
+      {
+        "value": "阴险恶毒、极度嫉妒、擅长伪饰",
         "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
         "seq": 1616
       }
@@ -45,25 +42,25 @@
   },
   "firstSeq": 1616,
   "attrProvenance": {
-    "类型": {
-      "asOf": null,
-      "docId": "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
-      "dated": false,
-      "seq": 1616
-    },
-    "所属界面": {
+    "身份": {
       "asOf": null,
       "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
       "dated": false,
       "seq": 1616
     },
-    "所属势力": {
+    "称号": {
       "asOf": null,
       "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
       "dated": false,
       "seq": 1616
     },
-    "方位": {
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
+      "dated": false,
+      "seq": 1616
+    },
+    "性格": {
       "asOf": null,
       "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
       "dated": false,
@@ -73,8 +70,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
     "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue"
   ],
-  "updatedAt": "2026-08-30T03:15:10.180Z"
+  "updatedAt": "2026-08-30T03:15:10.170Z"
 }

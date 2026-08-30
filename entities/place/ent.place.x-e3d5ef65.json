@@ -1,26 +1,19 @@
 {
-  "id": "ent.place.x-1aeb4fd7",
+  "id": "ent.place.x-e3d5ef65",
   "type": "place",
-  "name": "仙族之地",
+  "name": "道古一脉浮空城池",
   "aliases": [
-    "仙族占据的区域",
-    "仙罡大陆仙族疆域"
+    "漂浮在天空的城池",
+    "道古城池"
   ],
-  "summary": "对古国第三损最后一劫亦极为重视的势力所在之地。",
+  "summary": "道古一脉所在的漂浮天空之城，撑天雕像立于此，本章近百万道吉族人在此围观苍穹血赐下。",
   "attributes": {
-    "类型": "地域",
     "所属界面": "仙罡大陆",
-    "所属势力": "仙族",
-    "方位": "仙罡大陆远处"
+    "所属势力": "道古一脉",
+    "类型": "浮空城池",
+    "规模": "容纳近百万道吉族人"
   },
   "observations": {
-    "类型": [
-      {
-        "value": "地域",
-        "docId": "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
-        "seq": 1616
-      }
-    ],
     "所属界面": [
       {
         "value": "仙罡大陆",
@@ -30,14 +23,21 @@
     ],
     "所属势力": [
       {
-        "value": "仙族",
+        "value": "道古一脉",
         "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
         "seq": 1616
       }
     ],
-    "方位": [
+    "类型": [
       {
-        "value": "仙罡大陆远处",
+        "value": "浮空城池",
+        "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
+        "seq": 1616
+      }
+    ],
+    "规模": [
+      {
+        "value": "容纳近百万道吉族人",
         "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
         "seq": 1616
       }
@@ -45,12 +45,6 @@
   },
   "firstSeq": 1616,
   "attrProvenance": {
-    "类型": {
-      "asOf": null,
-      "docId": "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
-      "dated": false,
-      "seq": 1616
-    },
     "所属界面": {
       "asOf": null,
       "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
@@ -63,7 +57,13 @@
       "dated": false,
       "seq": 1616
     },
-    "方位": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
+      "dated": false,
+      "seq": 1616
+    },
+    "规模": {
       "asOf": null,
       "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
       "dated": false,
@@ -73,8 +73,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
     "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue"
   ],
-  "updatedAt": "2026-08-30T03:15:10.180Z"
+  "updatedAt": "2026-08-30T03:15:10.178Z"
 }

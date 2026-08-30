@@ -1,43 +1,35 @@
 {
-  "id": "ent.place.x-1aeb4fd7",
-  "type": "place",
-  "name": "仙族之地",
+  "id": "ent.spell.x-d27fd390",
+  "type": "spell",
+  "name": "玄阳之力",
   "aliases": [
-    "仙族占据的区域",
-    "仙罡大陆仙族疆域"
+    "玄阳",
+    "红色太阳封界"
   ],
-  "summary": "对古国第三损最后一劫亦极为重视的势力所在之地。",
+  "summary": "玄罗大天尊右手指天凭空造出巨大红色太阳，笼罩封锁一地气息、不让外界察觉的手段。",
   "attributes": {
-    "类型": "地域",
-    "所属界面": "仙罡大陆",
-    "所属势力": "仙族",
-    "方位": "仙罡大陆远处"
+    "类型": "封锁/隔绝类神通",
+    "威力": "笼罩浮空城全境、隔绝外界察觉",
+    "出处": "玄罗大天尊"
   },
   "observations": {
     "类型": [
       {
-        "value": "地域",
-        "docId": "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
-        "seq": 1616
-      }
-    ],
-    "所属界面": [
-      {
-        "value": "仙罡大陆",
+        "value": "封锁/隔绝类神通",
         "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
         "seq": 1616
       }
     ],
-    "所属势力": [
+    "威力": [
       {
-        "value": "仙族",
+        "value": "笼罩浮空城全境、隔绝外界察觉",
         "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
         "seq": 1616
       }
     ],
-    "方位": [
+    "出处": [
       {
-        "value": "仙罡大陆远处",
+        "value": "玄罗大天尊",
         "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
         "seq": 1616
       }
@@ -47,23 +39,17 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
+      "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
       "dated": false,
       "seq": 1616
     },
-    "所属界面": {
+    "威力": {
       "asOf": null,
       "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
       "dated": false,
       "seq": 1616
     },
-    "所属势力": {
-      "asOf": null,
-      "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
-      "dated": false,
-      "seq": 1616
-    },
-    "方位": {
+    "出处": {
       "asOf": null,
       "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
       "dated": false,
@@ -73,8 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
     "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue"
   ],
-  "updatedAt": "2026-08-30T03:15:10.180Z"
+  "updatedAt": "2026-08-30T03:15:10.178Z"
 }

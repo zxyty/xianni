@@ -1,43 +1,35 @@
 {
-  "id": "ent.place.x-1aeb4fd7",
-  "type": "place",
-  "name": "仙族之地",
+  "id": "ent.item.x-d3db34ee",
+  "type": "item",
+  "name": "古祖魂血",
   "aliases": [
-    "仙族占据的区域",
-    "仙罡大陆仙族疆域"
+    "紫色鲜血",
+    "第十滴鲜血"
   ],
-  "summary": "对古国第三损最后一劫亦极为重视的势力所在之地。",
+  "summary": "紫色的古祖血，层级远超普通苍穹血；自古至今仅出现过九滴，每三滴造就古之一脉，九滴成就今日的古（吉）之三脉；王林所得为第十滴，古往今来首次。",
   "attributes": {
-    "类型": "地域",
-    "所属界面": "仙罡大陆",
-    "所属势力": "仙族",
-    "方位": "仙罡大陆远处"
+    "类型": "至高血脉之物",
+    "品阶": "远高于普通苍穹血",
+    "用途": "每三滴造就古之一脉"
   },
   "observations": {
     "类型": [
       {
-        "value": "地域",
-        "docId": "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
-        "seq": 1616
-      }
-    ],
-    "所属界面": [
-      {
-        "value": "仙罡大陆",
+        "value": "至高血脉之物",
         "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
         "seq": 1616
       }
     ],
-    "所属势力": [
+    "品阶": [
       {
-        "value": "仙族",
+        "value": "远高于普通苍穹血",
         "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
         "seq": 1616
       }
     ],
-    "方位": [
+    "用途": [
       {
-        "value": "仙罡大陆远处",
+        "value": "每三滴造就古之一脉",
         "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
         "seq": 1616
       }
@@ -47,23 +39,17 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
+      "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
       "dated": false,
       "seq": 1616
     },
-    "所属界面": {
+    "品阶": {
       "asOf": null,
       "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
       "dated": false,
       "seq": 1616
     },
-    "所属势力": {
-      "asOf": null,
-      "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
-      "dated": false,
-      "seq": 1616
-    },
-    "方位": {
+    "用途": {
       "asOf": null,
       "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
       "dated": false,
@@ -73,8 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
     "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue"
   ],
-  "updatedAt": "2026-08-30T03:15:10.180Z"
+  "updatedAt": "2026-08-30T03:15:10.176Z"
 }
