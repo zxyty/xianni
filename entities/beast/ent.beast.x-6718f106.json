@@ -11,10 +11,11 @@
   "summary": "王林所属蚊兽的首领，速度极快，率十余只蚊兽在山崩神通内不受火焰侵扰，撕杀先前掠夺同族的修士复仇。",
   "attributes": {
     "主人": "王林",
-    "能力": "速度极快、山崩火毒中不受侵扰、统御蚊兽群、以蚊群气息掩藏主人行踪、统御约五千只蚊兽的小型蚊群、进化后可增衍蚊兽、巨大口器刺入吸噬血液精华、吞食凶兽精血后修为暴增、统御十万蚊兽、引动群兽行动",
-    "外形": "巨大口器、利刺遍体、极为狰狞",
+    "能力": "速度极快、山崩火毒中不受侵扰、统御蚊兽群、以蚊群气息掩藏主人行踪、统御约五千只蚊兽的小型蚊群、进化后可增衍蚊兽、巨大口器刺入吸噬血液精华、吞食凶兽精血后修为暴增、统御十万蚊兽、引动群兽行动、融合仙罡法则、返祖进化",
+    "外形": "大小足有一颗修真星，巨口器骇人",
     "种族": "蚊兽",
-    "栖息地": "随王林行动"
+    "栖息地": "随王林行动",
+    "血脉": "疑为与古祖仙祖同时诞生、可融合仙罡法则的九种凶兽之后裔"
   },
   "observations": {
     "主人": [
@@ -65,6 +66,16 @@
         "value": "统御十万蚊兽、引动群兽行动",
         "docId": "plot.xianni-ch1452-dahuang-laodu",
         "seq": 1360
+      },
+      {
+        "value": "融合仙罡法则",
+        "docId": "plot.xianni-1794-baishi-xuanluo-wenshou-jinhua",
+        "seq": 1705
+      },
+      {
+        "value": "返祖进化",
+        "docId": "plot.xianni-1794-baishi-xuanluo-wenshou-jinhua",
+        "seq": 1705
       }
     ],
     "外形": [
@@ -92,6 +103,12 @@
         "value": "巨大口器、利刺遍体、极为狰狞",
         "docId": "plot.xianni-ch1452-dahuang-laodu",
         "seq": 1360
+      },
+      {
+        "value": "大小足有一颗修真星，巨口器骇人",
+        "docId": "plot.xianni-1794-baishi-xuanluo-wenshou-jinhua",
+        "seq": 1705,
+        "note": "返祖后；此前远看数万丈"
       }
     ],
     "种族": [
@@ -112,6 +129,14 @@
         "docId": "plot.xianni-ch1299-thirteenth-rank-scorpion",
         "seq": 1212
       }
+    ],
+    "血脉": [
+      {
+        "value": "疑为与古祖仙祖同时诞生、可融合仙罡法则的九种凶兽之后裔",
+        "docId": "plot.xianni-1794-baishi-xuanluo-wenshou-jinhua",
+        "seq": 1705,
+        "note": "玄罗推测，第1794章"
+      }
     ]
   },
   "firstSeq": 1024,
@@ -131,9 +156,10 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch1452-dahuang-laodu",
+      "docId": "plot.xianni-1794-baishi-xuanluo-wenshou-jinhua",
       "dated": false,
-      "seq": 1360
+      "seq": 1705,
+      "note": "返祖后；此前远看数万丈"
     },
     "种族": {
       "asOf": null,
@@ -146,6 +172,13 @@
       "docId": "plot.xianni-ch1299-thirteenth-rank-scorpion",
       "dated": false,
       "seq": 1212
+    },
+    "血脉": {
+      "asOf": null,
+      "docId": "plot.xianni-1794-baishi-xuanluo-wenshou-jinhua",
+      "dated": false,
+      "seq": 1705,
+      "note": "玄罗推测，第1794章"
     }
   },
   "contested": false,
@@ -157,7 +190,8 @@
     "plot.xianni-ch1298-tear-open-seal-shatter-nirvana-breakthrough",
     "plot.xianni-ch1299-thirteenth-rank-scorpion",
     "plot.xianni-ch1300-ancient-god-altar",
-    "plot.xianni-ch1452-dahuang-laodu"
+    "plot.xianni-ch1452-dahuang-laodu",
+    "plot.xianni-1794-baishi-xuanluo-wenshou-jinhua"
   ],
-  "updatedAt": "2026-08-25T19:39:38.687Z"
+  "updatedAt": "2026-08-30T08:22:05.981Z"
 }

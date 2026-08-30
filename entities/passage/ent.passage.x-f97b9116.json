@@ -5,14 +5,16 @@
   "aliases": [
     "轮回之路",
     "转世之道",
-    "洞府大门内之路"
+    "洞府大门内之路",
+    "龙身路",
+    "转世投胎之路"
   ],
   "summary": "玄罗以龙皇鞭九击撕开洞府大门内雾气铺成的通往仙罡之路，四周由山妖冰封守护、剑仙剑气开锋、风魔黑雾封印，为转世投胎的完整通道。",
   "attributes": {
     "类型": "转世投胎通道",
     "两端": "洞府大门 ↔ 仙罡（仙罡大陆）",
     "稳定性": "需龙身为引方可通行，否则有迷失之危",
-    "守护": "山妖冰封、剑仙剑气、风魔黑雾封印",
+    "守护": "山妖冰封、剑仙剑气、风魔黑雾封印、四周寒冰防护",
     "来历": "玄罗以龙皇鞭连抽九下撕开雾气铺成"
   },
   "observations": {
@@ -53,6 +55,11 @@
         "value": "风魔黑雾封印",
         "docId": "plot.xianni-ch1791-siling-pulu-mengdao-zaishi",
         "seq": 1700
+      },
+      {
+        "value": "四周寒冰防护",
+        "docId": "plot.xianni-1794-baishi-xuanluo-wenshou-jinhua",
+        "seq": 1705
       }
     ],
     "来历": [
@@ -100,7 +107,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1791-siling-pulu-mengdao-zaishi"
+    "plot.xianni-ch1791-siling-pulu-mengdao-zaishi",
+    "plot.xianni-1794-baishi-xuanluo-wenshou-jinhua"
   ],
-  "updatedAt": "2026-08-30T08:14:40.142Z"
+  "updatedAt": "2026-08-30T08:22:05.988Z"
 }
