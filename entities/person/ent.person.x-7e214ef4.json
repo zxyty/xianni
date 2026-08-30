@@ -3,11 +3,15 @@
   "type": "person",
   "name": "许东德",
   "aliases": [
-    "许东德长老"
+    "许东德长老",
+    "许长老"
   ],
   "summary": "大魂门长老，七天前第一个发觉并击杀了欲混入大魂门的绿魔洲修士，引发老祖震怒与全门戒严。",
   "attributes": {
-    "身份": "大魂门长老"
+    "身份": "天牛七穴最终镇守力量之一",
+    "性别": "男",
+    "外貌": "道袍青年",
+    "性格": "沉默寡言"
   },
   "observations": {
     "身份": [
@@ -15,6 +19,32 @@
         "value": "大魂门长老",
         "docId": "plot.xianni-ch1852-wang-lin-guess-da-hun-men-war",
         "seq": 1760
+      },
+      {
+        "value": "天牛七穴最终镇守力量之一",
+        "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+        "seq": 1765
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+        "seq": 1765
+      }
+    ],
+    "外貌": [
+      {
+        "value": "道袍青年",
+        "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+        "seq": 1765
+      }
+    ],
+    "性格": [
+      {
+        "value": "沉默寡言",
+        "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+        "seq": 1765
       }
     ]
   },
@@ -22,15 +52,34 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1852-wang-lin-guess-da-hun-men-war",
+      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
       "dated": false,
-      "seq": 1760
+      "seq": 1765
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+      "dated": false,
+      "seq": 1765
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+      "dated": false,
+      "seq": 1765
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+      "dated": false,
+      "seq": 1765
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1852-wang-lin-guess-da-hun-men-war"
+    "plot.xianni-ch1852-wang-lin-guess-da-hun-men-war",
+    "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave"
   ],
-  "updatedAt": "2026-08-30T11:47:13.408Z"
+  "updatedAt": "2026-08-30T12:32:04.570Z"
 }

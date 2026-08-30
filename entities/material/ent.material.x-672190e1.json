@@ -2,13 +2,15 @@
   "id": "ent.material.x-672190e1",
   "type": "material",
   "name": "死魂",
-  "aliases": [],
+  "aliases": [
+    "鬼魂"
+  ],
   "summary": "人或兽死亡瞬间因执念、不甘或怨气凝成的隐形存在，是炼制鬼帆的关键之料，可视为一种意志。",
   "attributes": {
-    "类型": "魂类材料",
-    "用途": "炼制鬼帆的核心，承载多重幻术叠加",
-    "稀有度": "极难获取——多一丝成冤魂，少一丝无法凝聚",
-    "产地": "鬼峰可寻"
+    "类型": "魂类炼器材料",
+    "用途": "融入帆布炼成鬼帆以施展幻术",
+    "稀有度": "低品易得，浑厚高品极少",
+    "产地": "鬼峰"
   },
   "observations": {
     "类型": [
@@ -16,6 +18,11 @@
         "value": "魂类材料",
         "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
         "seq": 1760
+      },
+      {
+        "value": "魂类炼器材料",
+        "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+        "seq": 1765
       }
     ],
     "用途": [
@@ -23,6 +30,11 @@
         "value": "炼制鬼帆的核心，承载多重幻术叠加",
         "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
         "seq": 1760
+      },
+      {
+        "value": "融入帆布炼成鬼帆以施展幻术",
+        "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+        "seq": 1765
       }
     ],
     "稀有度": [
@@ -30,6 +42,11 @@
         "value": "极难获取——多一丝成冤魂，少一丝无法凝聚",
         "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
         "seq": 1760
+      },
+      {
+        "value": "低品易得，浑厚高品极少",
+        "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+        "seq": 1765
       }
     ],
     "产地": [
@@ -37,6 +54,11 @@
         "value": "鬼峰可寻",
         "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
         "seq": 1760
+      },
+      {
+        "value": "鬼峰",
+        "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+        "seq": 1765
       }
     ]
   },
@@ -44,33 +66,34 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
+      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
       "dated": false,
-      "seq": 1760
+      "seq": 1765
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
+      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
       "dated": false,
-      "seq": 1760
+      "seq": 1765
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
+      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
       "dated": false,
-      "seq": 1760
+      "seq": 1765
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
+      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
       "dated": false,
-      "seq": 1760
+      "seq": 1765
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan"
+    "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
+    "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave"
   ],
-  "updatedAt": "2026-08-30T11:49:35.248Z"
+  "updatedAt": "2026-08-30T12:32:04.409Z"
 }

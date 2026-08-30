@@ -4,16 +4,22 @@
   "name": "极天草原",
   "aliases": [
     "Jitian Grassland",
-    "极夭草原（原文误写）"
+    "极夭草原（原文误写）",
+    "极天草原禁地",
+    "极天草原战场",
+    "极天大草原"
   ],
   "summary": "天牛洲罕见的无尽草原，位于大魂门十万里外；青草弥漫透出仙气，地底深处遍布洞府，聚居大量散修。自此再行六个月路程可达与绿魔洲相连的内陆海。",
   "attributes": {
-    "所属界面": "仙罡大陆、天牛洲",
+    "所属界面": "仙罡大陆、天牛洲、仙罡大陆·天牛洲",
     "上级区域": "天牛洲",
-    "类型": "草原",
+    "类型": "草原、草原·大阵战场、战场／草原",
     "方位": "大魂门十万里外、天牛洲地表最低处、最接近地心",
-    "特产": "透出仙气的青草、接近地心的特殊地气",
-    "规模": "无尽/一眼难望尽头"
+    "特产": "透出仙气的青草、接近地心的特殊地气、吸收仙力并阻隔神识的雾气",
+    "规模": "无尽/一眼难望尽头",
+    "守护": "万里磅礴气墙禁制、天牛七穴阵法与雾气",
+    "所属势力": "大魂门",
+    "危险度": "极高（空劫初期群战引动天地轰鸣）"
   },
   "observations": {
     "所属界面": [
@@ -26,6 +32,11 @@
         "value": "天牛洲",
         "docId": "plot.xianni-ch1841-jitian-grassland-slaughter-danhai-water-origin",
         "seq": 1750
+      },
+      {
+        "value": "仙罡大陆·天牛洲",
+        "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+        "seq": 1765
       }
     ],
     "上级区域": [
@@ -40,6 +51,16 @@
         "value": "草原",
         "docId": "plot.xianni-ch1840-jitian-caoyuan",
         "seq": 1750
+      },
+      {
+        "value": "草原·大阵战场",
+        "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+        "seq": 1765
+      },
+      {
+        "value": "战场／草原",
+        "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+        "seq": 1765
       }
     ],
     "方位": [
@@ -64,6 +85,11 @@
         "value": "接近地心的特殊地气",
         "docId": "plot.xianni-ch1841-jitian-grassland-slaughter-danhai-water-origin",
         "seq": 1750
+      },
+      {
+        "value": "吸收仙力并阻隔神识的雾气",
+        "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+        "seq": 1765
       }
     ],
     "规模": [
@@ -71,6 +97,32 @@
         "value": "无尽/一眼难望尽头",
         "docId": "plot.xianni-ch1840-jitian-caoyuan",
         "seq": 1750
+      }
+    ],
+    "守护": [
+      {
+        "value": "万里磅礴气墙禁制",
+        "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+        "seq": 1765
+      },
+      {
+        "value": "天牛七穴阵法与雾气",
+        "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+        "seq": 1765
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "大魂门",
+        "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+        "seq": 1765
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高（空劫初期群战引动天地轰鸣）",
+        "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+        "seq": 1765
       }
     ]
   },
@@ -111,13 +163,32 @@
       "docId": "plot.xianni-ch1840-jitian-caoyuan",
       "dated": false,
       "seq": 1750
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+      "dated": false,
+      "seq": 1765
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+      "dated": false,
+      "seq": 1765
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+      "dated": false,
+      "seq": 1765
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1840-jitian-caoyuan",
-    "plot.xianni-ch1841-jitian-grassland-slaughter-danhai-water-origin"
+    "plot.xianni-ch1841-jitian-grassland-slaughter-danhai-water-origin",
+    "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave"
   ],
-  "updatedAt": "2026-08-30T11:20:25.886Z"
+  "updatedAt": "2026-08-30T12:32:04.649Z"
 }

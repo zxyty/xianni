@@ -3,14 +3,17 @@
   "type": "place",
   "name": "天牛七穴",
   "aliases": [
-    "七穴"
+    "七穴",
+    "七个天牛穴",
+    "天牛穴"
   ],
   "summary": "万古岁月前开辟出的所在，魂一令下令天牛洲一切可战修士前往集结之地。",
   "attributes": {
-    "所属界面": "天牛洲",
-    "类型": "集结要地、镇守要地",
+    "所属界面": "仙罡大陆",
+    "类型": "集结要地、镇守要地、精穴要地群、防御要穴",
     "上级区域": "天牛洲",
-    "规模": "七穴"
+    "规模": "共七处",
+    "所属势力": "大魂门"
   },
   "observations": {
     "所属界面": [
@@ -18,6 +21,11 @@
         "value": "天牛洲",
         "docId": "plot.xianni-ch1851-hun-yi-ling",
         "seq": 1760
+      },
+      {
+        "value": "仙罡大陆",
+        "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+        "seq": 1765
       }
     ],
     "类型": [
@@ -30,6 +38,16 @@
         "value": "镇守要地",
         "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
         "seq": 1760
+      },
+      {
+        "value": "精穴要地群",
+        "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+        "seq": 1765
+      },
+      {
+        "value": "防御要穴",
+        "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+        "seq": 1765
       }
     ],
     "上级区域": [
@@ -44,6 +62,18 @@
         "value": "七穴",
         "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
         "seq": 1760
+      },
+      {
+        "value": "共七处",
+        "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+        "seq": 1765
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "大魂门",
+        "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+        "seq": 1765
       }
     ]
   },
@@ -51,9 +81,9 @@
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch1851-hun-yi-ling",
+      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
       "dated": false,
-      "seq": 1760
+      "seq": 1765
     },
     "类型": {
       "asOf": null,
@@ -69,16 +99,23 @@
     },
     "规模": {
       "asOf": null,
-      "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
+      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
       "dated": false,
-      "seq": 1760
+      "seq": 1765
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+      "dated": false,
+      "seq": 1765
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1851-hun-yi-ling",
-    "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan"
+    "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
+    "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave"
   ],
-  "updatedAt": "2026-08-30T11:49:35.236Z"
+  "updatedAt": "2026-08-30T12:32:04.453Z"
 }

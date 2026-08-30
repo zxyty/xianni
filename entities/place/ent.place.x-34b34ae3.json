@@ -2,12 +2,17 @@
   "id": "ent.place.x-34b34ae3",
   "type": "place",
   "name": "鬼峰",
-  "aliases": [],
+  "aliases": [
+    "大魂门鬼峰"
+  ],
   "summary": "大魂门内可寻死魂之处，青牛真人指点王林若无合适之魂可往此寻找。",
   "attributes": {
     "所属势力": "大魂门",
-    "类型": "寻魂之地",
-    "特产": "死魂"
+    "类型": "禁地/死魂封存之地",
+    "特产": "死魂（多为低品，少数浑厚者可炼中品鬼帆）",
+    "方位": "大魂门正北方，靠近边缘",
+    "规模": "坟包不下数千",
+    "守护": "确认进入资格的禁制波纹"
   },
   "observations": {
     "所属势力": [
@@ -22,6 +27,11 @@
         "value": "寻魂之地",
         "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
         "seq": 1760
+      },
+      {
+        "value": "禁地/死魂封存之地",
+        "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+        "seq": 1765
       }
     ],
     "特产": [
@@ -29,6 +39,32 @@
         "value": "死魂",
         "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
         "seq": 1760
+      },
+      {
+        "value": "死魂（多为低品，少数浑厚者可炼中品鬼帆）",
+        "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+        "seq": 1765
+      }
+    ],
+    "方位": [
+      {
+        "value": "大魂门正北方，靠近边缘",
+        "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+        "seq": 1765
+      }
+    ],
+    "规模": [
+      {
+        "value": "坟包不下数千",
+        "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+        "seq": 1765
+      }
+    ],
+    "守护": [
+      {
+        "value": "确认进入资格的禁制波纹",
+        "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+        "seq": 1765
       }
     ]
   },
@@ -42,21 +78,40 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
+      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
       "dated": false,
-      "seq": 1760
+      "seq": 1765
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
+      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
       "dated": false,
-      "seq": 1760
+      "seq": 1765
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+      "dated": false,
+      "seq": 1765
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+      "dated": false,
+      "seq": 1765
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+      "dated": false,
+      "seq": 1765
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan"
+    "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
+    "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave"
   ],
-  "updatedAt": "2026-08-30T11:49:35.234Z"
+  "updatedAt": "2026-08-30T12:32:04.398Z"
 }

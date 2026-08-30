@@ -8,13 +8,15 @@
     "叱虎所赠玉简",
     "开启传送阵的玉简",
     "云海裂缝传送玉简",
-    "神秘女子所赠玉简"
+    "神秘女子所赠玉简",
+    "驱动传送阵的玉简",
+    "吕文冉手中玉简"
   ],
   "summary": "四级修真国宗派发放给核心弟子的保命玉简，内蕴传送阵，一定范围内捏碎可瞬回宗派总坛。",
   "attributes": {
-    "类型": "传送法器",
-    "用途": "传送往云海裂缝",
-    "产地": "四级修真国宗派"
+    "类型": "玉简",
+    "用途": "驱动/开启一代老祖传送阵",
+    "产地": "大魂门"
   },
   "observations": {
     "类型": [
@@ -32,6 +34,11 @@
         "value": "传送法器",
         "docId": "plot.xianni-1582-yin-yue-you-qing",
         "seq": 1491
+      },
+      {
+        "value": "玉简",
+        "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+        "seq": 1765
       }
     ],
     "用途": [
@@ -50,6 +57,11 @@
         "docId": "plot.xianni-1582-yin-yue-you-qing",
         "seq": 1491,
         "note": "在此封印之地没有半点作用"
+      },
+      {
+        "value": "驱动/开启一代老祖传送阵",
+        "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+        "seq": 1765
       }
     ],
     "产地": [
@@ -57,6 +69,11 @@
         "value": "四级修真国宗派",
         "docId": "plot.xianni-ch231-234-xieyi-nanzi",
         "seq": 231
+      },
+      {
+        "value": "大魂门",
+        "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+        "seq": 1765
       }
     ]
   },
@@ -64,22 +81,21 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1582-yin-yue-you-qing",
+      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
       "dated": false,
-      "seq": 1491
+      "seq": 1765
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-1582-yin-yue-you-qing",
+      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
       "dated": false,
-      "seq": 1491,
-      "note": "在此封印之地没有半点作用"
+      "seq": 1765
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.xianni-ch231-234-xieyi-nanzi",
+      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
       "dated": false,
-      "seq": 231
+      "seq": 1765
     }
   },
   "contested": false,
@@ -88,7 +104,8 @@
     "plot.xianni-ch231-234-xieyi-nanzi",
     "plot.xianni-ch281-284-immortal-realm-fragment-illusion-and-hongdie-ambush",
     "plot.xianni-ch285-288-immortal-beast-mansion-sun-lei-betrayal",
-    "plot.xianni-1582-yin-yue-you-qing"
+    "plot.xianni-1582-yin-yue-you-qing",
+    "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave"
   ],
-  "updatedAt": "2026-08-26T05:07:25.674Z"
+  "updatedAt": "2026-08-30T12:32:04.473Z"
 }
