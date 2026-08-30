@@ -4,13 +4,16 @@
   "name": "烨道",
   "aliases": [
     "卑职烨道",
-    "黑雾笼罩的男子"
+    "黑雾笼罩的男子",
+    "Ye Dao"
   ],
   "summary": "道古皇尊麾下黑袍老者，奉命查找红珠中女魂对应之人，查遍吉国无果后派人往仙族，并转述国师闭关前的双画面预言。",
   "attributes": {
-    "身份": "道古皇尊麾下执命者",
-    "外貌": "被黑雾笼罩的男子",
-    "阵营": "道古一脉"
+    "身份": "道古皇尊",
+    "外貌": "身穿皇袍、头戴帝冠，不怒自威",
+    "阵营": "道古一脉",
+    "称号": "道古之皇、古皇",
+    "性格": "喜怒无常，威严中笑如春风"
   },
   "observations": {
     "身份": [
@@ -23,6 +26,11 @@
         "value": "道古皇尊麾下执命者",
         "docId": "plot.xianni-ch1795-huangzun-yinian-huogen-xian",
         "seq": 1705
+      },
+      {
+        "value": "道古皇尊",
+        "docId": "plot.xianni-ch2009-yi-bei-re-cha-nuan-ru-jia",
+        "seq": 1919
       }
     ],
     "外貌": [
@@ -35,6 +43,11 @@
         "value": "被黑雾笼罩的男子",
         "docId": "plot.xianni-ch1795-huangzun-yinian-huogen-xian",
         "seq": 1705
+      },
+      {
+        "value": "身穿皇袍、头戴帝冠，不怒自威",
+        "docId": "plot.xianni-ch2009-yi-bei-re-cha-nuan-ru-jia",
+        "seq": 1919
       }
     ],
     "阵营": [
@@ -48,34 +61,66 @@
         "docId": "plot.xianni-ch1795-huangzun-yinian-huogen-xian",
         "seq": 1705
       }
+    ],
+    "称号": [
+      {
+        "value": "道古之皇",
+        "docId": "plot.xianni-ch2009-yi-bei-re-cha-nuan-ru-jia",
+        "seq": 1919
+      },
+      {
+        "value": "古皇",
+        "docId": "plot.xianni-ch2009-yi-bei-re-cha-nuan-ru-jia",
+        "seq": 1919
+      }
+    ],
+    "性格": [
+      {
+        "value": "喜怒无常，威严中笑如春风",
+        "docId": "plot.xianni-ch2009-yi-bei-re-cha-nuan-ru-jia",
+        "seq": 1919
+      }
     ]
   },
   "firstSeq": 1616,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1795-huangzun-yinian-huogen-xian",
+      "docId": "plot.xianni-ch2009-yi-bei-re-cha-nuan-ru-jia",
       "dated": false,
-      "seq": 1705
+      "seq": 1919
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch1795-huangzun-yinian-huogen-xian",
+      "docId": "plot.xianni-ch2009-yi-bei-re-cha-nuan-ru-jia",
       "dated": false,
-      "seq": 1705
+      "seq": 1919
     },
     "阵营": {
       "asOf": null,
       "docId": "plot.xianni-ch1795-huangzun-yinian-huogen-xian",
       "dated": false,
       "seq": 1705
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2009-yi-bei-re-cha-nuan-ru-jia",
+      "dated": false,
+      "seq": 1919
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2009-yi-bei-re-cha-nuan-ru-jia",
+      "dated": false,
+      "seq": 1919
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1710-yi-lv-hun",
-    "plot.xianni-ch1795-huangzun-yinian-huogen-xian"
+    "plot.xianni-ch1795-huangzun-yinian-huogen-xian",
+    "plot.xianni-ch2009-yi-bei-re-cha-nuan-ru-jia"
   ],
-  "updatedAt": "2026-08-30T08:24:56.411Z"
+  "updatedAt": "2026-08-30T23:59:43.755Z"
 }

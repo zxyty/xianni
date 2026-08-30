@@ -7,9 +7,10 @@
   ],
   "summary": "道吉一脉核心之城，近百万道吉族人在此目睹六滴血归天，深处即道古皇宫。",
   "attributes": {
-    "所属势力": "道吉一脉",
+    "所属势力": "道古一脉",
     "规模": "聚有近百万道吉族人",
-    "守护": "玄罗大天尊"
+    "守护": "玄罗大天尊",
+    "类型": "城池"
   },
   "observations": {
     "所属势力": [
@@ -17,6 +18,11 @@
         "value": "道吉一脉",
         "docId": "plot.xianni-ch1710-yi-lv-hun",
         "seq": 1616
+      },
+      {
+        "value": "道古一脉",
+        "docId": "plot.xianni-ch2009-yi-bei-re-cha-nuan-ru-jia",
+        "seq": 1919
       }
     ],
     "规模": [
@@ -32,15 +38,22 @@
         "docId": "plot.xianni-ch1710-yi-lv-hun",
         "seq": 1616
       }
+    ],
+    "类型": [
+      {
+        "value": "城池",
+        "docId": "plot.xianni-ch2009-yi-bei-re-cha-nuan-ru-jia",
+        "seq": 1919
+      }
     ]
   },
   "firstSeq": 1616,
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch1710-yi-lv-hun",
+      "docId": "plot.xianni-ch2009-yi-bei-re-cha-nuan-ru-jia",
       "dated": false,
-      "seq": 1616
+      "seq": 1919
     },
     "规模": {
       "asOf": null,
@@ -53,12 +66,19 @@
       "docId": "plot.xianni-ch1710-yi-lv-hun",
       "dated": false,
       "seq": 1616
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2009-yi-bei-re-cha-nuan-ru-jia",
+      "dated": false,
+      "seq": 1919
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1710-yi-lv-hun"
+    "plot.xianni-ch1710-yi-lv-hun",
+    "plot.xianni-ch2009-yi-bei-re-cha-nuan-ru-jia"
   ],
-  "updatedAt": "2026-08-30T03:17:58.724Z"
+  "updatedAt": "2026-08-30T23:59:43.764Z"
 }
