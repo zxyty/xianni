@@ -4,14 +4,16 @@
   "name": "归一宗九十九层高塔",
   "aliases": [
     "归一宗高塔",
-    "九十九层塔"
+    "九十九层塔",
+    "高塔第十层"
   ],
   "summary": "五行星东部九座环形山峰中央的巨塔，高过山峰共九十九层，整个归一宗都存在于其内；下三十层为第一步修士，中段三十层多为第二步老者，上端第十层坐有四名高层。",
   "attributes": {
     "所属势力": "归一宗",
-    "类型": "宗门本体巨塔",
+    "类型": "塔楼要地",
     "方位": "五行星东部九峰中央",
-    "规模": "九十九层"
+    "规模": "九十九层",
+    "上级区域": "五行星"
   },
   "observations": {
     "所属势力": [
@@ -26,6 +28,11 @@
         "value": "宗门本体巨塔",
         "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
         "seq": 1636
+      },
+      {
+        "value": "塔楼要地",
+        "docId": "plot.xianni-ch1734-water-source-comprehension-repay-grace",
+        "seq": 1641
       }
     ],
     "方位": [
@@ -41,6 +48,13 @@
         "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
         "seq": 1636
       }
+    ],
+    "上级区域": [
+      {
+        "value": "五行星",
+        "docId": "plot.xianni-ch1734-water-source-comprehension-repay-grace",
+        "seq": 1641
+      }
     ]
   },
   "firstSeq": 1636,
@@ -53,9 +67,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
+      "docId": "plot.xianni-ch1734-water-source-comprehension-repay-grace",
       "dated": false,
-      "seq": 1636
+      "seq": 1641
     },
     "方位": {
       "asOf": null,
@@ -68,12 +82,19 @@
       "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
       "dated": false,
       "seq": 1636
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1734-water-source-comprehension-repay-grace",
+      "dated": false,
+      "seq": 1641
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1729-wuxing-star-guiyi-zong"
+    "plot.xianni-1729-wuxing-star-guiyi-zong",
+    "plot.xianni-ch1734-water-source-comprehension-repay-grace"
   ],
-  "updatedAt": "2026-08-30T04:03:44.901Z"
+  "updatedAt": "2026-08-30T04:15:48.894Z"
 }
