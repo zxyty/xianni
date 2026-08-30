@@ -1038,3 +1038,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T03:29:36.364Z** `ingest` plot.xianni-1715-mu-si-ru-ze — 第1715章 目丝如则：王林以双目血丝化规则、成禁制本源，修为破空灵后期 · kind=plot asOf=2026-08-30 entities=22 relations=23 src=01621-01625.p5.md
 - **2026-08-30T03:32:15.123Z** `ingest` plot.xianni-1716-return-to-new-immortal-realm-and-divining-tian-yun-zi — 第1716章 算天运！——王林返回新仙界，加固银河禁制，起意反算天运子 · kind=plot asOf=2026-08-30 entities=37 relations=42 src=01626-01630.p1.md
 - **2026-08-30T03:34:34.876Z** `ingest` plot.xianni-ch1717-tianyunzi-fenshen-fanshi — 第1717章 天运子——分身推衍反噬，王林求青霖护法 · kind=plot asOf=2026-08-30 entities=20 relations=29 src=01626-01630.p2.md
+- **2026-08-30T03:36:46.947Z** `ingest` plot.xianni-ch1718-lunhui-yiti-shu — 第1718章 轮回一体（青霖探本源·蓝梦道尊道破轮回一体术） · kind=plot asOf=2026-08-30 entities=17 relations=22 src=01626-01630.p3.md
