@@ -1080,3 +1080,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T06:49:42.301Z** `ingest` plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood — 第1767章 残神欲夺：王林吸收烨寞元神之血，反噬夺舍失败 · kind=plot asOf=2026-08-30 entities=24 relations=41 src=01675-01679.p4.md
 - **2026-08-30T06:51:33.676Z** `ingest` plot.xianni-ch1768-yemo-left-arm-donglin-pool — 第1768章 烨寞左臂：东临池冰封中融合道古左手 · kind=plot asOf=2026-08-30 entities=18 relations=24 src=01675-01679.p5.md
 - **2026-08-30T06:53:58.815Z** `ingest` plot.xianni-1769-return-to-ancient-tomb — 仙逆 第1769章 再临古墓：融合烨寞左臂、撕天破冰池、五花八门第三/第四花 · kind=plot asOf=2026-08-30 entities=21 relations=38 src=01680-01684.p1.md
+- **2026-08-30T06:59:09.817Z** `ingest` plot.xianni-1770-yisi-zhi-kui-tomb-second-last-layer — 第1770章 已司之傀——王林下探古之墓地倒数第二层 · kind=plot asOf=2026-08-30 entities=17 relations=29 src=01680-01684.p2.md

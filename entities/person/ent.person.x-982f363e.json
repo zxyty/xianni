@@ -5,17 +5,19 @@
   "aliases": [
     "仙尊第三妃",
     "仙尊八妃第三妃",
-    "界外仙妃第三妃"
+    "界外仙妃第三妃",
+    "第三妃子"
   ],
   "summary": "仙尊八妃之一，与王林有过交集，被王林放出古之墓地，未参与界内大战。",
   "attributes": {
     "性别": "女",
     "身份": "七彩仙尊第三妃、仙尊八妃之一、界外仙妃、妃、天门道圣女、七彩仙尊之妃",
-    "性格": "喜静、不善与人交流、独来独往",
-    "外貌": "相貌美丽",
+    "性格": "冷漠、冰冷而复杂、犹豫、喜静、不善与人交流、独来独往、谨慎而果决",
+    "外貌": "面色苍白、嘴角带血",
     "标志特征": "一身寒冰之冷，如不化之雪",
     "阵营": "未参与界内之战",
-    "出身地": "仙罡大陆"
+    "出身地": "仙罡大陆",
+    "本命法宝": "金门"
   },
   "observations": {
     "性别": [
@@ -72,6 +74,12 @@
         "value": "喜静、不善与人交流、独来独往",
         "docId": "plot.xianni-1769-return-to-ancient-tomb",
         "seq": 1680
+      },
+      {
+        "value": "谨慎而果决",
+        "docId": "plot.xianni-1770-yisi-zhi-kui-tomb-second-last-layer",
+        "seq": 1680,
+        "note": "阵外犹豫许久后银牙一咬入阵"
       }
     ],
     "外貌": [
@@ -84,6 +92,11 @@
         "value": "相貌美丽",
         "docId": "plot.xianni-ch1751-ren-ju-cave-mansion-gate-gathering",
         "seq": 1660
+      },
+      {
+        "value": "面色苍白、嘴角带血",
+        "docId": "plot.xianni-1770-yisi-zhi-kui-tomb-second-last-layer",
+        "seq": 1680
       }
     ],
     "标志特征": [
@@ -107,6 +120,13 @@
         "docId": "plot.xianni-ch1762-small-decisive-battle-burning-incense-lure",
         "seq": 1670
       }
+    ],
+    "本命法宝": [
+      {
+        "value": "金门",
+        "docId": "plot.xianni-1770-yisi-zhi-kui-tomb-second-last-layer",
+        "seq": 1680
+      }
     ]
   },
   "firstSeq": 1571,
@@ -125,15 +145,15 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-1769-return-to-ancient-tomb",
+      "docId": "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
       "dated": false,
-      "seq": 1680
+      "seq": 1571
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch1751-ren-ju-cave-mansion-gate-gathering",
+      "docId": "plot.xianni-1770-yisi-zhi-kui-tomb-second-last-layer",
       "dated": false,
-      "seq": 1660
+      "seq": 1680
     },
     "标志特征": {
       "asOf": null,
@@ -153,6 +173,12 @@
       "docId": "plot.xianni-ch1762-small-decisive-battle-burning-incense-lure",
       "dated": false,
       "seq": 1670
+    },
+    "本命法宝": {
+      "asOf": null,
+      "docId": "plot.xianni-1770-yisi-zhi-kui-tomb-second-last-layer",
+      "dated": false,
+      "seq": 1680
     }
   },
   "contested": false,
@@ -164,7 +190,8 @@
     "plot.xianni-ch1751-ren-ju-cave-mansion-gate-gathering",
     "plot.xianni-ch1762-small-decisive-battle-burning-incense-lure",
     "plot.xianni-ch1765-dao-fei-xian",
-    "plot.xianni-1769-return-to-ancient-tomb"
+    "plot.xianni-1769-return-to-ancient-tomb",
+    "plot.xianni-1770-yisi-zhi-kui-tomb-second-last-layer"
   ],
-  "updatedAt": "2026-08-30T06:53:58.306Z"
+  "updatedAt": "2026-08-30T06:59:09.282Z"
 }
