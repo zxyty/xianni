@@ -1172,3 +1172,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T15:03:21.248Z** `ingest` plot.xianni-ch1895-ninth-source-earth-origin — 第1895章 第九本源——绿袍老者献孟土珠与仙祖本源沙土，助王林凝土本源 · kind=plot asOf=2026-08-30 entities=22 relations=28 src=01805-01809.p2.md
 - **2026-08-30T15:05:12.581Z** `ingest` plot.xianni-1896-crazy-transformation-of-wang-lin-body — 第1896章 疯狂的造化：绿袍祭祀改造王林肉身 · kind=plot asOf=2026-08-30 entities=17 relations=21 src=01805-01809.p3.md
 - **2026-08-30T15:07:41.077Z** `ingest` plot.xianni-ch1897-green-demon-furnace — 第1897章 绿魔炉！——绿袍老者为王林凝出第四具水本源真身并起炉温养 · kind=plot asOf=2026-08-30 entities=23 relations=32 src=01805-01809.p4.md
+- **2026-08-30T15:10:07.620Z** `ingest` plot.xianni-ch1898-green-demon-scorpion-soul-devour-failed-possession — 第1898章 气绝！！——王林反噬绿魔蝎分魂、四大本源真身齐出，绿袍老者活活气死 · kind=plot asOf=2026-08-30 entities=20 relations=31 src=01805-01809.p5.md

@@ -3,12 +3,16 @@
   "type": "person",
   "name": "两名绿魔使者",
   "aliases": [
-    "绿袍老者身后的两个绿魔使者"
+    "绿袍老者身后的两个绿魔使者",
+    "陪伴绿袍老者的两名绿魔使者"
   ],
   "summary": "随侍绿袍老者的两名使者，被阴刀寒气逼退结冰，后奉命盘膝炉旁以元神之气化火烧绿魔炉。",
   "attributes": {
     "身份": "绿魔使者",
-    "阵营": "绿魔一族"
+    "阵营": "绿魔一族",
+    "存殁": "死亡",
+    "死因": "连续十年喷吐元神之气，元神耗尽消散",
+    "结局": "先后死亡，相隔不到半柱香"
   },
   "observations": {
     "身份": [
@@ -22,6 +26,27 @@
       {
         "value": "绿魔一族",
         "docId": "plot.xianni-ch1897-green-demon-furnace",
+        "seq": 1805
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch1898-green-demon-scorpion-soul-devour-failed-possession",
+        "seq": 1805
+      }
+    ],
+    "死因": [
+      {
+        "value": "连续十年喷吐元神之气，元神耗尽消散",
+        "docId": "plot.xianni-ch1898-green-demon-scorpion-soul-devour-failed-possession",
+        "seq": 1805
+      }
+    ],
+    "结局": [
+      {
+        "value": "先后死亡，相隔不到半柱香",
+        "docId": "plot.xianni-ch1898-green-demon-scorpion-soul-devour-failed-possession",
         "seq": 1805
       }
     ]
@@ -39,12 +64,31 @@
       "docId": "plot.xianni-ch1897-green-demon-furnace",
       "dated": false,
       "seq": 1805
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1898-green-demon-scorpion-soul-devour-failed-possession",
+      "dated": false,
+      "seq": 1805
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1898-green-demon-scorpion-soul-devour-failed-possession",
+      "dated": false,
+      "seq": 1805
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1898-green-demon-scorpion-soul-devour-failed-possession",
+      "dated": false,
+      "seq": 1805
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1897-green-demon-furnace"
+    "plot.xianni-ch1897-green-demon-furnace",
+    "plot.xianni-ch1898-green-demon-scorpion-soul-devour-failed-possession"
   ],
-  "updatedAt": "2026-08-30T15:07:40.636Z"
+  "updatedAt": "2026-08-30T15:10:07.175Z"
 }

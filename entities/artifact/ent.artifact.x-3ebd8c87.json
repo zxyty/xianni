@@ -3,13 +3,14 @@
   "type": "artifact",
   "name": "绿魔炉",
   "aliases": [
-    "绿色丹炉"
+    "绿色丹炉",
+    "绿魔之炉"
   ],
   "summary": "由绿色空间收缩、无数蝎子崩溃之绿芒与老者余下全部罕见物品凝成的千丈绿色丹炉，用于温养炼化王林肉身。",
   "attributes": {
-    "外形": "千丈大小、通体绿色的巨大丹炉",
-    "能力": "温养炼化肉身，改造成适合绿魔大人夺舍的蝎体",
-    "来历": "绿色空间与无数蝎子及全族备物凝成",
+    "外形": "千丈大小、通体绿色的巨大丹炉、炉状，立于蝎子建筑之上",
+    "能力": "温养炼化肉身，改造成适合绿魔大人夺舍的蝎体、改造肉身、去除元神与神智以供夺舍",
+    "来历": "绿色空间与无数蝎子及全族备物凝成、绿魔洲祭祀一族所用",
     "持有者": "绿袍老者"
   },
   "observations": {
@@ -18,6 +19,11 @@
         "value": "千丈大小、通体绿色的巨大丹炉",
         "docId": "plot.xianni-ch1897-green-demon-furnace",
         "seq": 1805
+      },
+      {
+        "value": "炉状，立于蝎子建筑之上",
+        "docId": "plot.xianni-ch1898-green-demon-scorpion-soul-devour-failed-possession",
+        "seq": 1805
       }
     ],
     "能力": [
@@ -25,12 +31,22 @@
         "value": "温养炼化肉身，改造成适合绿魔大人夺舍的蝎体",
         "docId": "plot.xianni-ch1897-green-demon-furnace",
         "seq": 1805
+      },
+      {
+        "value": "改造肉身、去除元神与神智以供夺舍",
+        "docId": "plot.xianni-ch1898-green-demon-scorpion-soul-devour-failed-possession",
+        "seq": 1805
       }
     ],
     "来历": [
       {
         "value": "绿色空间与无数蝎子及全族备物凝成",
         "docId": "plot.xianni-ch1897-green-demon-furnace",
+        "seq": 1805
+      },
+      {
+        "value": "绿魔洲祭祀一族所用",
+        "docId": "plot.xianni-ch1898-green-demon-scorpion-soul-devour-failed-possession",
         "seq": 1805
       }
     ],
@@ -72,7 +88,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1897-green-demon-furnace"
+    "plot.xianni-ch1897-green-demon-furnace",
+    "plot.xianni-ch1898-green-demon-scorpion-soul-devour-failed-possession"
   ],
-  "updatedAt": "2026-08-30T15:07:40.641Z"
+  "updatedAt": "2026-08-30T15:10:07.184Z"
 }
