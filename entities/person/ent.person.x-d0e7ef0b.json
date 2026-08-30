@@ -19,9 +19,10 @@
     "小阶段": "天尊",
     "身份": "道一大天尊麾下、道魔宗老祖",
     "性格": "不问世事、只修自身、对宗门感情稀薄、平静无波、不轻视亦不动怒、平静、公道，重因果",
-    "阵营": "道一大天尊麾下",
-    "外貌": "赤发老者，一脸平静而双目蕴藏怒火、赤发、紫袍绣金边、右衣角火红太极图案、一头赤发无风自动",
-    "标志特征": "出拳时全身在虚幻与真实之间急速变化"
+    "阵营": "道魔宗、道一大天尊一系、道一大天尊麾下、道魔宗／道一大天尊一系",
+    "外貌": "赤发老者，一脸平静而双目蕴藏怒火、赤发、紫袍绣金边、右衣角火红太极图案、一头赤发无风自动、赤发老者，身穿紫色道袍",
+    "标志特征": "出拳时全身在虚幻与真实之间急速变化、一拳可凝二十七道神通",
+    "存殁": "存活"
   },
   "observations": {
     "称号": [
@@ -87,6 +88,11 @@
         "value": "道一大天尊麾下",
         "docId": "plot.xianni-1918-body-is-dao",
         "seq": 1829
+      },
+      {
+        "value": "道魔宗／道一大天尊一系",
+        "docId": "plot.xianni-ch1920-wo-buxiu-ni-buxiu",
+        "seq": 1829
       }
     ],
     "外貌": [
@@ -104,12 +110,29 @@
         "value": "一头赤发无风自动",
         "docId": "plot.xianni-1919-chuan-hun-kai-tianzun-three-punches",
         "seq": 1829
+      },
+      {
+        "value": "赤发老者，身穿紫色道袍",
+        "docId": "plot.xianni-ch1920-wo-buxiu-ni-buxiu",
+        "seq": 1829
       }
     ],
     "标志特征": [
       {
         "value": "出拳时全身在虚幻与真实之间急速变化",
         "docId": "plot.xianni-1919-chuan-hun-kai-tianzun-three-punches",
+        "seq": 1829
+      },
+      {
+        "value": "一拳可凝二十七道神通",
+        "docId": "plot.xianni-ch1920-wo-buxiu-ni-buxiu",
+        "seq": 1829
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch1920-wo-buxiu-ni-buxiu",
         "seq": 1829
       }
     ]
@@ -142,9 +165,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-1918-body-is-dao",
+      "docId": "plot.xianni-ch1910-dao-mo-zong-jie",
       "dated": false,
-      "seq": 1829
+      "seq": 1819
     },
     "外貌": {
       "asOf": null,
@@ -155,6 +178,12 @@
     "标志特征": {
       "asOf": null,
       "docId": "plot.xianni-1919-chuan-hun-kai-tianzun-three-punches",
+      "dated": false,
+      "seq": 1829
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1920-wo-buxiu-ni-buxiu",
       "dated": false,
       "seq": 1829
     }
@@ -170,7 +199,8 @@
     "plot.xianni-ch1916-wait-for-tianzun",
     "lore.xianni-1917-xianzu-five-great-tianzun",
     "plot.xianni-1918-body-is-dao",
-    "plot.xianni-1919-chuan-hun-kai-tianzun-three-punches"
+    "plot.xianni-1919-chuan-hun-kai-tianzun-three-punches",
+    "plot.xianni-ch1920-wo-buxiu-ni-buxiu"
   ],
-  "updatedAt": "2026-08-30T16:57:34.528Z"
+  "updatedAt": "2026-08-30T16:59:57.623Z"
 }

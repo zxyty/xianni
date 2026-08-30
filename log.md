@@ -1194,3 +1194,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T16:53:07.443Z** `ingest` lore.xianni-1917-xianzu-five-great-tianzun — 第1917章 仙族五大天尊与王林赴仙族皇城之志 · kind=lore asOf=2026-08-30 entities=54 relations=69 src=01824-01828.p5.md
 - **2026-08-30T16:55:15.167Z** `ingest` plot.xianni-1918-body-is-dao — 仙逆 第1918章 身体，就是道！——王林六道神脉与道魔宗天尊三拳之约 · kind=plot asOf=2026-08-30 entities=24 relations=32 src=01829-01833.p1.md
 - **2026-08-30T16:57:35.079Z** `ingest` plot.xianni-1919-chuan-hun-kai-tianzun-three-punches — 第1919章 穿魂铠！——王林硬接道魔宗天尊老祖三拳，借天牛魂力登金尊 · kind=plot asOf=2026-08-30 entities=22 relations=33 src=01829-01833.p2.md
+- **2026-08-30T16:59:58.206Z** `ingest` plot.xianni-ch1920-wo-buxiu-ni-buxiu — 仙逆 第1920章 我不朽，你不朽！——九十八道天牛撞与道一大天尊现身 · kind=plot asOf=2026-08-30 entities=20 relations=31 src=01829-01833.p3.md
