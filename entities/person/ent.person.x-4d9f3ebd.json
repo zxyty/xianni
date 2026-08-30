@@ -10,7 +10,9 @@
   "summary": "紫阳宗内以镜观战的中年修士，身处时有凄厉惨叫之处，激动于王林可能成为双子大天尊助力。",
   "attributes": {
     "身份": "紫阳宗修士",
-    "外貌": "中年修士"
+    "外貌": "中年修士",
+    "阵营": "紫阳宗",
+    "出身地": "东州"
   },
   "observations": {
     "身份": [
@@ -31,6 +33,20 @@
         "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
         "seq": 1868
       }
+    ],
+    "阵营": [
+      {
+        "value": "紫阳宗",
+        "docId": "plot.xianni-1873-1877-tianzun-nie-17th-floor",
+        "seq": 1873
+      }
+    ],
+    "出身地": [
+      {
+        "value": "东州",
+        "docId": "plot.xianni-1873-1877-tianzun-nie-17th-floor",
+        "seq": 1873
+      }
     ]
   },
   "firstSeq": 1863,
@@ -46,13 +62,26 @@
       "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
       "dated": false,
       "seq": 1868
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1873-1877-tianzun-nie-17th-floor",
+      "dated": false,
+      "seq": 1873
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-1873-1877-tianzun-nie-17th-floor",
+      "dated": false,
+      "seq": 1873
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
-    "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor"
+    "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+    "plot.xianni-1873-1877-tianzun-nie-17th-floor"
   ],
-  "updatedAt": "2026-08-30T18:45:27.842Z"
+  "updatedAt": "2026-08-30T18:59:15.528Z"
 }

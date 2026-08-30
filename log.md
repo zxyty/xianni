@@ -1228,3 +1228,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T18:12:14.195Z** `ingest` plot.xianni-ch1951-tianzun-nie-first-hall — 第1951章 一鸣惊人（一）：王林重临天尊涅之地 · kind=plot asOf=2026-08-30 entities=24 relations=34 src=01858-01862.p5.md
 - **2026-08-30T18:30:48.990Z** `ingest` plot.xianni-1863-1867-tianzun-nie-yiming-jingren — 仙逆 第1863-1867章 一鸣惊人（二）（三）（四）：王林连闯天尊涅第五至第九层，震动五州大天尊 · kind=plot asOf=2026-08-30 entities=80 relations=148 src=01863-01867.md
 - **2026-08-30T18:45:28.538Z** `ingest` plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor — 仙逆 第1868-1872章 一鸣惊人：王林闯过天尊涅第十一层得极火道，踏入第十二层引大天尊争抢 · kind=plot asOf=2026-08-30 entities=69 relations=136 src=01868-01872.md
+- **2026-08-30T18:59:16.305Z** `ingest` plot.xianni-1873-1877-tianzun-nie-17th-floor — 仙逆 第1873-1877章：王林连破天尊涅十四至十七层，反击仙皇与冥道尊 · kind=plot asOf=2026-08-30 entities=60 relations=110 src=01873-01877.md
