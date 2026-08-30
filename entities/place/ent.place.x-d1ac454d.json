@@ -10,7 +10,8 @@
     "本章战场修真星",
     "安静的修真星",
     "王林与疯子所在修真星",
-    "巨大的修真星"
+    "巨大的修真星",
+    "目鱼所在修真星"
   ],
   "summary": "修真联盟赐予其天道印诀的星辰，本章作为仙术对照被提及。",
   "attributes": {
@@ -18,9 +19,10 @@
     "类型": "星辰",
     "方位": "太古星辰的星空之内",
     "所属界面": "云海星域",
-    "危险度": "地表尽毁、被役灵印反复轰击，大地撕开沟壑、留下天坑",
+    "危险度": "地表尽毁、被役灵印反复轰击，大地撕开沟壑、留下天坑、极高（九条无限制目鱼）",
     "上级区域": "昆虚星域",
-    "守护": "龙磐子"
+    "守护": "龙磐子",
+    "特产": "目鱼"
   },
   "observations": {
     "所属势力": [
@@ -77,6 +79,11 @@
         "value": "被役灵印反复轰击，大地撕开沟壑、留下天坑",
         "docId": "plot.xianni-ch1541-mad-monkey-yiling-seal-deduction",
         "seq": 1448
+      },
+      {
+        "value": "极高（九条无限制目鱼）",
+        "docId": "plot.xianni-ch1764-qicai-jie-muyu-liguang-bow",
+        "seq": 1675
       }
     ],
     "上级区域": [
@@ -96,6 +103,13 @@
         "value": "龙磐子",
         "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
         "seq": 1462
+      }
+    ],
+    "特产": [
+      {
+        "value": "目鱼",
+        "docId": "plot.xianni-ch1764-qicai-jie-muyu-liguang-bow",
+        "seq": 1675
       }
     ]
   },
@@ -143,6 +157,12 @@
       "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
       "dated": false,
       "seq": 1462
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1764-qicai-jie-muyu-liguang-bow",
+      "dated": false,
+      "seq": 1675
     }
   },
   "contested": false,
@@ -157,7 +177,8 @@
     "plot.xianni-ch1538-golden-sky-black-earth",
     "plot.xianni-ch1540-shentong-yiling-yin",
     "plot.xianni-ch1541-mad-monkey-yiling-seal-deduction",
-    "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi"
+    "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
+    "plot.xianni-ch1764-qicai-jie-muyu-liguang-bow"
   ],
-  "updatedAt": "2026-08-26T03:49:38.409Z"
+  "updatedAt": "2026-08-30T06:42:16.277Z"
 }

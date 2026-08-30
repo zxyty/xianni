@@ -4,14 +4,17 @@
   "name": "目鱼",
   "aliases": [
     "目鱼凶兽",
-    "Mu Yu"
+    "Mu Yu",
+    "Muyu"
   ],
   "summary": "仙罡大陆凶兽，千丈之身、头若凹口、体若泥蛇，喜香泥土，入山与山相融抢夺仙气使仙山化为黄沙，故多被封印为护山之兽。",
   "attributes": {
-    "外形": "千丈之身，头若凹口，体若泥蛇",
-    "栖息地": "江河淤泥（幼体）、仙山（成年入山而眠）",
-    "能力": "取大地精华滋养其身、吸天地灵气润养其神、钻透江河淤泥自地底前行、与山相融、使仙山化黄沙",
-    "天敌": "被修士封印"
+    "外形": "身数千丈粗细、全长数万丈，通体覆泥，形如巨大泥鳅，大口占据整个头部",
+    "栖息地": "江河淤泥（幼体）、仙山（成年入山而眠）、修真星地底黄沙大漠",
+    "能力": "取大地精华滋养其身、吸天地灵气润养其神、钻透江河淤泥自地底前行、与山相融、使仙山化黄沙、大口吞噬、吸噬对手本源之力、睁眼后黑芒环绕、威势暴涨",
+    "天敌": "被修士封印",
+    "等级": "凶兽",
+    "血脉": "仙罡之兽"
   },
   "observations": {
     "外形": [
@@ -19,6 +22,11 @@
         "value": "千丈之身，头若凹口，体若泥蛇",
         "docId": "plot.xianni-ch1761-seven-ambush-kill",
         "seq": 1670
+      },
+      {
+        "value": "身数千丈粗细、全长数万丈，通体覆泥，形如巨大泥鳅，大口占据整个头部",
+        "docId": "plot.xianni-ch1764-qicai-jie-muyu-liguang-bow",
+        "seq": 1675
       }
     ],
     "栖息地": [
@@ -31,6 +39,11 @@
         "value": "仙山（成年入山而眠）",
         "docId": "plot.xianni-ch1761-seven-ambush-kill",
         "seq": 1670
+      },
+      {
+        "value": "修真星地底黄沙大漠",
+        "docId": "plot.xianni-ch1764-qicai-jie-muyu-liguang-bow",
+        "seq": 1675
       }
     ],
     "能力": [
@@ -53,6 +66,21 @@
         "value": "与山相融、使仙山化黄沙",
         "docId": "plot.xianni-ch1761-seven-ambush-kill",
         "seq": 1670
+      },
+      {
+        "value": "大口吞噬",
+        "docId": "plot.xianni-ch1764-qicai-jie-muyu-liguang-bow",
+        "seq": 1675
+      },
+      {
+        "value": "吸噬对手本源之力",
+        "docId": "plot.xianni-ch1764-qicai-jie-muyu-liguang-bow",
+        "seq": 1675
+      },
+      {
+        "value": "睁眼后黑芒环绕、威势暴涨",
+        "docId": "plot.xianni-ch1764-qicai-jie-muyu-liguang-bow",
+        "seq": 1675
       }
     ],
     "天敌": [
@@ -61,15 +89,29 @@
         "docId": "plot.xianni-ch1761-seven-ambush-kill",
         "seq": 1670
       }
+    ],
+    "等级": [
+      {
+        "value": "凶兽",
+        "docId": "plot.xianni-ch1764-qicai-jie-muyu-liguang-bow",
+        "seq": 1675
+      }
+    ],
+    "血脉": [
+      {
+        "value": "仙罡之兽",
+        "docId": "plot.xianni-ch1764-qicai-jie-muyu-liguang-bow",
+        "seq": 1675
+      }
     ]
   },
   "firstSeq": 1670,
   "attrProvenance": {
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch1761-seven-ambush-kill",
+      "docId": "plot.xianni-ch1764-qicai-jie-muyu-liguang-bow",
       "dated": false,
-      "seq": 1670
+      "seq": 1675
     },
     "栖息地": {
       "asOf": null,
@@ -88,12 +130,25 @@
       "docId": "plot.xianni-ch1761-seven-ambush-kill",
       "dated": false,
       "seq": 1670
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1764-qicai-jie-muyu-liguang-bow",
+      "dated": false,
+      "seq": 1675
+    },
+    "血脉": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1764-qicai-jie-muyu-liguang-bow",
+      "dated": false,
+      "seq": 1675
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1761-seven-ambush-kill"
+    "plot.xianni-ch1761-seven-ambush-kill",
+    "plot.xianni-ch1764-qicai-jie-muyu-liguang-bow"
   ],
-  "updatedAt": "2026-08-30T06:35:39.960Z"
+  "updatedAt": "2026-08-30T06:42:16.268Z"
 }
