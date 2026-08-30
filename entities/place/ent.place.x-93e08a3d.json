@@ -10,7 +10,8 @@
     "中州都城",
     "仙族大地中州",
     "中州地界",
-    "中州大地"
+    "中州大地",
+    "中州之地"
   ],
   "summary": "仙罡大陆仙族所在之州，皇都皇城所在地。",
   "attributes": {
@@ -20,7 +21,8 @@
     "特产": "元石、珍贵疗伤丹药、都城房产",
     "危险度": "龙潭虎穴（有大天尊坐镇）",
     "上级区域": "仙族大地",
-    "方位": "中"
+    "方位": "仙族大地中部",
+    "规模": "仙族五大州之一"
   },
   "observations": {
     "所属界面": [
@@ -156,6 +158,18 @@
         "value": "中",
         "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
         "seq": 1863
+      },
+      {
+        "value": "仙族大地中部",
+        "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+        "seq": 1878
+      }
+    ],
+    "规模": [
+      {
+        "value": "仙族五大州之一",
+        "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+        "seq": 1878
       }
     ]
   },
@@ -199,9 +213,15 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+      "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
       "dated": false,
-      "seq": 1863
+      "seq": 1878
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+      "dated": false,
+      "seq": 1878
     }
   },
   "contested": false,
@@ -222,7 +242,8 @@
     "plot.xianni-1943-yumu-xia-liu-jinbiao-memory-restored",
     "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
     "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
-    "plot.xianni-1873-1877-tianzun-nie-17th-floor"
+    "plot.xianni-1873-1877-tianzun-nie-17th-floor",
+    "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun"
   ],
-  "updatedAt": "2026-08-30T18:59:15.540Z"
+  "updatedAt": "2026-08-30T19:41:43.092Z"
 }

@@ -6,16 +6,19 @@
     "帝山",
     "帝山帝国",
     "帝山红叶",
-    "中州帝山"
+    "中州帝山",
+    "帝山秋叶",
+    "城中之山帝山"
   ],
   "summary": "冉云星北部凡人帝国，三大帝国之一，几乎全民皆为天行派教众，其都城为王平所居。",
   "attributes": {
     "所属界面": "仙罡大陆",
-    "方位": "冉云星北部",
-    "类型": "凡人帝国、山脉/修行地、大能居所、山、大天尊道场",
-    "特产": "满山红叶",
-    "上级区域": "中州",
-    "所属势力": "久帝大天尊"
+    "方位": "祖城东西两城之间",
+    "类型": "凡人帝国、山脉/修行地、大能居所、山、大天尊道场、城中之山",
+    "特产": "秋叶",
+    "上级区域": "祖城",
+    "所属势力": "久帝大天尊",
+    "守护": "久帝大天尊"
   },
   "observations": {
     "所属界面": [
@@ -35,6 +38,11 @@
         "value": "冉云星北部",
         "docId": "plot.xianni-ch656-660-separation-and-years",
         "seq": 656
+      },
+      {
+        "value": "祖城东西两城之间",
+        "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+        "seq": 1878
       }
     ],
     "类型": [
@@ -62,6 +70,11 @@
         "value": "大天尊道场",
         "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
         "seq": 1868
+      },
+      {
+        "value": "城中之山",
+        "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+        "seq": 1878
       }
     ],
     "特产": [
@@ -69,6 +82,11 @@
         "value": "满山红叶",
         "docId": "plot.xianni-1935-whose-severed-palm",
         "seq": 1844
+      },
+      {
+        "value": "秋叶",
+        "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+        "seq": 1878
       }
     ],
     "上级区域": [
@@ -76,6 +94,11 @@
         "value": "中州",
         "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
         "seq": 1863
+      },
+      {
+        "value": "祖城",
+        "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+        "seq": 1878
       }
     ],
     "所属势力": [
@@ -83,6 +106,13 @@
         "value": "久帝大天尊",
         "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
         "seq": 1868
+      }
+    ],
+    "守护": [
+      {
+        "value": "久帝大天尊",
+        "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+        "seq": 1878
       }
     ]
   },
@@ -96,9 +126,9 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch656-660-separation-and-years",
+      "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
       "dated": false,
-      "seq": 656
+      "seq": 1878
     },
     "类型": {
       "asOf": null,
@@ -108,21 +138,27 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-1935-whose-severed-palm",
+      "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
       "dated": false,
-      "seq": 1844
+      "seq": 1878
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+      "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
       "dated": false,
-      "seq": 1863
+      "seq": 1878
     },
     "所属势力": {
       "asOf": null,
       "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
       "dated": false,
       "seq": 1868
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+      "dated": false,
+      "seq": 1878
     }
   },
   "contested": false,
@@ -132,7 +168,8 @@
     "plot.xianni-1935-whose-severed-palm",
     "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
     "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
-    "plot.xianni-1873-1877-tianzun-nie-17th-floor"
+    "plot.xianni-1873-1877-tianzun-nie-17th-floor",
+    "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun"
   ],
-  "updatedAt": "2026-08-30T18:59:15.539Z"
+  "updatedAt": "2026-08-30T19:41:43.098Z"
 }

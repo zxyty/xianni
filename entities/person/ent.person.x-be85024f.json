@@ -4,12 +4,16 @@
   "name": "上道玄国师",
   "aliases": [
     "上道玄",
-    "皇城上道玄国师"
+    "皇城上道玄国师",
+    "国师上道玄",
+    "道门宗主上道玄"
   ],
   "summary": "仙族皇城国师，仙罡大陆推衍之术第一人，一人之力可对抗古国三脉皇族的三位大国师。",
   "attributes": {
-    "身份": "仙族皇城国师",
-    "称号": "仙罡大陆推衍第一"
+    "身份": "仙族皇城国师、皇族国师、道门宗主",
+    "称号": "仙罡大陆推衍第一",
+    "标志特征": "推衍之力惊天动地，一人可对抗古族三大国师齐力",
+    "阵营": "仙族皇权"
   },
   "observations": {
     "身份": [
@@ -17,6 +21,16 @@
         "value": "仙族皇城国师",
         "docId": "plot.xianni-ch1827-four-characters-guilai-bridge",
         "seq": 1735
+      },
+      {
+        "value": "皇族国师",
+        "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+        "seq": 1878
+      },
+      {
+        "value": "道门宗主",
+        "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+        "seq": 1878
       }
     ],
     "称号": [
@@ -24,6 +38,20 @@
         "value": "仙罡大陆推衍第一",
         "docId": "plot.xianni-ch1827-four-characters-guilai-bridge",
         "seq": 1735
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "推衍之力惊天动地，一人可对抗古族三大国师齐力",
+        "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+        "seq": 1878
+      }
+    ],
+    "阵营": [
+      {
+        "value": "仙族皇权",
+        "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+        "seq": 1878
       }
     ]
   },
@@ -40,12 +68,25 @@
       "docId": "plot.xianni-ch1827-four-characters-guilai-bridge",
       "dated": false,
       "seq": 1735
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+      "dated": false,
+      "seq": 1878
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+      "dated": false,
+      "seq": 1878
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1827-four-characters-guilai-bridge"
+    "plot.xianni-ch1827-four-characters-guilai-bridge",
+    "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun"
   ],
-  "updatedAt": "2026-08-30T10:45:07.777Z"
+  "updatedAt": "2026-08-30T19:41:43.085Z"
 }

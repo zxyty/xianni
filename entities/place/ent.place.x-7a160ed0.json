@@ -3,12 +3,16 @@
   "type": "place",
   "name": "皇宫",
   "aliases": [
-    "世子藏身的皇宫"
+    "世子藏身的皇宫",
+    "仙族禁地",
+    "祖城皇宫"
   ],
   "summary": "世子殿下的避难之地，那名修士有所顾忌不便进入。",
   "attributes": {
-    "类型": "凡俗王朝宫城",
-    "危险度": "对修士有顾忌之处"
+    "类型": "禁地",
+    "危险度": "禁地，需允许方可入",
+    "上级区域": "祖城",
+    "方位": "祖城最中央"
   },
   "observations": {
     "类型": [
@@ -16,6 +20,11 @@
         "value": "凡俗王朝宫城",
         "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
         "seq": 244
+      },
+      {
+        "value": "禁地",
+        "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+        "seq": 1878
       }
     ],
     "危险度": [
@@ -23,6 +32,25 @@
         "value": "对修士有顾忌之处",
         "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
         "seq": 244
+      },
+      {
+        "value": "禁地，需允许方可入",
+        "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+        "seq": 1878
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "祖城",
+        "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+        "seq": 1878
+      }
+    ],
+    "方位": [
+      {
+        "value": "祖城最中央",
+        "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+        "seq": 1878
       }
     ]
   },
@@ -30,21 +58,34 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+      "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
       "dated": false,
-      "seq": 244
+      "seq": 1878
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+      "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
       "dated": false,
-      "seq": 244
+      "seq": 1878
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+      "dated": false,
+      "seq": 1878
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+      "dated": false,
+      "seq": 1878
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch244-247-zuling-pai-yijing-ganwu"
+    "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
+    "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun"
   ],
-  "updatedAt": "2026-08-02T08:12:08.885Z"
+  "updatedAt": "2026-08-30T19:41:43.096Z"
 }

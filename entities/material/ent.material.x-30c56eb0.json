@@ -11,9 +11,10 @@
   ],
   "summary": "仙祖末年与绿魔大人一战中被蝎尾崩溃的仙极剑碎片，巴掌大小、似金像木，融入肉身可凝出镇压修士的天威。",
   "attributes": {
-    "类型": "上古神剑碎片",
-    "用途": "为肉身凝出天地至强之威，一个目光可镇压修士",
-    "产地": "仙极剑崩溃之碎片"
+    "类型": "本源材料/剑器碎片",
+    "用途": "圆满金本源",
+    "产地": "仙极剑崩溃之碎片",
+    "稀有度": "极稀有"
   },
   "observations": {
     "类型": [
@@ -21,6 +22,11 @@
         "value": "上古神剑碎片",
         "docId": "plot.xianni-1896-crazy-transformation-of-wang-lin-body",
         "seq": 1805
+      },
+      {
+        "value": "本源材料/剑器碎片",
+        "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+        "seq": 1878
       }
     ],
     "用途": [
@@ -28,6 +34,11 @@
         "value": "为肉身凝出天地至强之威，一个目光可镇压修士",
         "docId": "plot.xianni-1896-crazy-transformation-of-wang-lin-body",
         "seq": 1805
+      },
+      {
+        "value": "圆满金本源",
+        "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+        "seq": 1878
       }
     ],
     "产地": [
@@ -36,27 +47,40 @@
         "docId": "plot.xianni-1896-crazy-transformation-of-wang-lin-body",
         "seq": 1805
       }
+    ],
+    "稀有度": [
+      {
+        "value": "极稀有",
+        "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+        "seq": 1878
+      }
     ]
   },
   "firstSeq": 1805,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1896-crazy-transformation-of-wang-lin-body",
+      "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
       "dated": false,
-      "seq": 1805
+      "seq": 1878
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-1896-crazy-transformation-of-wang-lin-body",
+      "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
       "dated": false,
-      "seq": 1805
+      "seq": 1878
     },
     "产地": {
       "asOf": null,
       "docId": "plot.xianni-1896-crazy-transformation-of-wang-lin-body",
       "dated": false,
       "seq": 1805
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+      "dated": false,
+      "seq": 1878
     }
   },
   "contested": false,
@@ -66,7 +90,8 @@
     "plot.xianni-ch1905-hun-san-jie-first-trial",
     "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master",
     "plot.xianni-1931-miankong-fengyin-xianji-jian-suipian",
-    "plot.xianni-1938-bu-hui-de-zhizhuo"
+    "plot.xianni-1938-bu-hui-de-zhizhuo",
+    "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun"
   ],
-  "updatedAt": "2026-08-30T17:40:03.003Z"
+  "updatedAt": "2026-08-30T19:41:43.060Z"
 }
