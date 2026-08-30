@@ -3,16 +3,20 @@
   "type": "person",
   "name": "炎栾老祖",
   "aliases": [
-    "炎栾"
+    "炎栾",
+    "Yan Luan",
+    "炎脉峰主"
   ],
   "summary": "大魂门中一位需送去解魂果的前辈，本片段仅被弟子提及，未现身。",
   "attributes": {
     "身份": "大魂门炎脉峰之主、长老之一",
     "称号": "老祖",
     "性别": "女",
-    "外貌": "少妇，容颜极美，此时头发略散乱、满面煞气",
+    "外貌": "头发散乱、面色惨白",
     "性格": "心计深沉、善造势",
-    "标志特征": "化作巨大凤凰虚影"
+    "标志特征": "化作巨大凤凰虚影",
+    "阵营": "大魂门",
+    "结局": "喷血败退，被长辈喝止叫停"
   },
   "observations": {
     "身份": [
@@ -46,6 +50,12 @@
         "value": "少妇，容颜极美，此时头发略散乱、满面煞气",
         "docId": "plot.xianni-ch1828-da-hun-men-elder",
         "seq": 1735
+      },
+      {
+        "value": "头发散乱、面色惨白",
+        "docId": "plot.xianni-1829-tianniu-death-soul",
+        "seq": 1740,
+        "note": "斗法中"
       }
     ],
     "性格": [
@@ -60,6 +70,21 @@
         "value": "化作巨大凤凰虚影",
         "docId": "plot.xianni-ch1828-da-hun-men-elder",
         "seq": 1735
+      }
+    ],
+    "阵营": [
+      {
+        "value": "大魂门",
+        "docId": "plot.xianni-1829-tianniu-death-soul",
+        "seq": 1740
+      }
+    ],
+    "结局": [
+      {
+        "value": "喷血败退，被长辈喝止叫停",
+        "docId": "plot.xianni-1829-tianniu-death-soul",
+        "seq": 1740,
+        "note": "第1829章；炎脉峰另获补偿"
       }
     ]
   },
@@ -85,9 +110,10 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch1828-da-hun-men-elder",
+      "docId": "plot.xianni-1829-tianniu-death-soul",
       "dated": false,
-      "seq": 1735
+      "seq": 1740,
+      "note": "斗法中"
     },
     "性格": {
       "asOf": null,
@@ -100,13 +126,27 @@
       "docId": "plot.xianni-ch1828-da-hun-men-elder",
       "dated": false,
       "seq": 1735
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1829-tianniu-death-soul",
+      "dated": false,
+      "seq": 1740
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-1829-tianniu-death-soul",
+      "dated": false,
+      "seq": 1740,
+      "note": "第1829章；炎脉峰另获补偿"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
-    "plot.xianni-ch1828-da-hun-men-elder"
+    "plot.xianni-ch1828-da-hun-men-elder",
+    "plot.xianni-1829-tianniu-death-soul"
   ],
-  "updatedAt": "2026-08-30T10:47:28.587Z"
+  "updatedAt": "2026-08-30T10:49:49.114Z"
 }
