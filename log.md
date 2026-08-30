@@ -1185,3 +1185,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T15:31:57.036Z** `ingest` plot.xianni-1908-tianni-tower-missing-one — 仙逆 第1908章 缺了一个！——天逆大门内的四方塔与「缺了一个」之音 · kind=plot asOf=2026-08-30 entities=17 relations=23 src=01819-01823.p1.md
 - **2026-08-30T15:34:45.535Z** `ingest` lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege — 第1909章 金、天、跃！——仙罡大陆空劫巅峰四称号与王林封锁道魔宗 · kind=lore asOf=2026-08-30 entities=32 relations=40 src=01819-01823.p2.md
 - **2026-08-30T15:36:38.227Z** `ingest` plot.xianni-ch1910-dao-mo-zong-jie — 第1910章 道魔宗劫！——王林撕天破阵，血债重临 · kind=plot asOf=2026-08-30 entities=20 relations=29 src=01819-01823.p3.md
+- **2026-08-30T15:39:04.104Z** `ingest` plot.xianni-ch1911-two-continent-final-battle-wang-lin-slays-two-kongjie-dazun — 第1911章 两洲决：天牛洲最终决战与王林道魔宗内连斩空劫大尊 · kind=plot asOf=2026-08-30 entities=34 relations=40 src=01819-01823.p4.md
