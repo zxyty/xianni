@@ -1208,3 +1208,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T17:24:47.030Z** `ingest` plot.xianni-1931-miankong-fengyin-xianji-jian-suipian — 第1931章 面孔！——王林三身合力拽出仙极剑碎片，斩断封印面孔 · kind=plot asOf=2026-08-30 entities=14 relations=19 src=01839-01843.p4.md
 - **2026-08-30T17:27:12.067Z** `ingest` plot.xianni-ch1932-broken-palm-shanhai-battle — 仙逆·第1932章 断掌！！——王林斩灭面孔、力战海子天尊，海底断掌苏醒 · kind=plot asOf=2026-08-30 entities=27 relations=36 src=01839-01843.p5.md
 - **2026-08-30T17:29:47.288Z** `ingest` plot.xianni-1933-wang-lin-saves-haizi-tianzun-severed-palm — 第1933章 转变——王林定身海子天尊后回身相救，断掌反噬自斩左手 · kind=plot asOf=2026-08-30 entities=20 relations=23 src=01844-01847.p1.md
+- **2026-08-30T17:31:33.594Z** `ingest` plot.xianni-1934-yi-nan-yi-nv-duan-zhang-feng-yin — 第1934章 一男一女：断掌吞噬光幕，王林与海子天尊被困一年 · kind=plot asOf=2026-08-30 entities=18 relations=24 src=01844-01847.p2.md
