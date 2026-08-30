@@ -1059,3 +1059,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T04:26:44.942Z** `ingest` plot.xianni-1646-1649-wuxing-star-nine-turn-heart-wheel — 仙逆 第1646-1649章：破五行木阵金阵，九转心轮唯心故动 · kind=plot asOf=2026-08-30 entities=36 relations=57 src=01646-01649.md
 - **2026-08-30T04:45:06.019Z** `ingest` plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel — 第1740章 双行铠——王林战归一宗空玄中期老者 · kind=plot asOf=2026-08-30 entities=63 relations=120 src=01650-01654.md
 - **2026-08-30T05:27:27.479Z** `ingest` plot.xianni-1655-1659-search-third-soul-qingshui-seven-po — 仙逆 第1655-1659章：寻找第三魂，清水一魄的血色往事 · kind=plot asOf=2026-08-30 entities=74 relations=127 src=01655-01659.md
+- **2026-08-30T06:08:03.529Z** `ingest` plot.xianni-1749-kongmie-first-appearance-xieqing-death — 第1749章 空灭初现！——谢青自绝献第三魂，王林誓要灭天 · kind=plot asOf=2026-08-30 entities=22 relations=33 src=01660-01664.p1.md
