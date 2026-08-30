@@ -9,11 +9,12 @@
   ],
   "summary": "远古仙尊四大战将之一，被封印于雕像；其被封印使「一代朱雀」的身份成疑。",
   "attributes": {
-    "身份": "远古仙尊四大战将之一、七彩仙尊麾下战将、残仙·四大战将之一、远古仙域四大战将之一",
+    "身份": "远古仙尊四大战将之一、七彩仙尊麾下战将、残仙·四大战将之一、远古仙域四大战将之一、四大战将之一",
     "结局": "被封印于雕像",
     "标志特征": "气息仿若朱雀之祖",
     "外貌": "身穿红袍",
-    "存殁": "在世"
+    "存殁": "在世",
+    "小阶段": "空玄后期"
   },
   "observations": {
     "身份": [
@@ -35,6 +36,11 @@
       {
         "value": "远古仙域四大战将之一",
         "docId": "plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou",
+        "seq": 1636
+      },
+      {
+        "value": "四大战将之一",
+        "docId": "plot.xianni-ch1728-xuanluo-enters-mansion",
         "seq": 1636
       }
     ],
@@ -65,6 +71,14 @@
         "value": "在世",
         "docId": "plot.xianni-ch1644-jing-four-generals-ambush",
         "seq": 1551
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "空玄后期",
+        "docId": "plot.xianni-ch1728-xuanluo-enters-mansion",
+        "seq": 1636,
+        "note": "修为尚未完全恢复"
       }
     ]
   },
@@ -100,6 +114,13 @@
       "docId": "plot.xianni-ch1644-jing-four-generals-ambush",
       "dated": false,
       "seq": 1551
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1728-xuanluo-enters-mansion",
+      "dated": false,
+      "seq": 1636,
+      "note": "修为尚未完全恢复"
     }
   },
   "contested": false,
@@ -108,7 +129,8 @@
     "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
     "plot.xianni-1641-immortals-nothing-special",
     "plot.xianni-ch1644-jing-four-generals-ambush",
-    "plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou"
+    "plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou",
+    "plot.xianni-ch1728-xuanluo-enters-mansion"
   ],
-  "updatedAt": "2026-08-30T03:58:36.175Z"
+  "updatedAt": "2026-08-30T04:01:13.248Z"
 }

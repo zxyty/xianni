@@ -1048,3 +1048,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T03:52:59.258Z** `ingest` plot.xianni-1725-tianyunzi-destroyed-youmingshou-complete — 第1725章 逐鹿的资格——王林三言灭天运子，幽冥兽吞魂归一 · kind=plot asOf=2026-08-30 entities=14 relations=22 src=01631-01635.p5.md
 - **2026-08-30T03:56:02.967Z** `ingest` plot.xianni-ch1726-recondense-origins — 第1726章 重凝本源：王林以血凝新分身、召回火焰雷霆与生死真假四本源 · kind=plot asOf=2026-08-30 entities=32 relations=34 src=01636-01640.p1.md
 - **2026-08-30T03:58:36.623Z** `ingest` plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou — 第1727章 阻拦！——王林重凝七大本源，四大战将与战老鬼觊觎幽冥兽拦路 · kind=plot asOf=2026-08-30 entities=28 relations=44 src=01636-01640.p2.md
+- **2026-08-30T04:01:13.708Z** `ingest` plot.xianni-ch1728-xuanluo-enters-mansion — 第1728章 玄罗入府！——王林道破第三魂、幽冥兽天道吞噬八十仙人 · kind=plot asOf=2026-08-30 entities=27 relations=39 src=01636-01640.p3.md
