@@ -2,11 +2,13 @@
   "id": "ent.person.x-d14bb976",
   "type": "person",
   "name": "道魔宗宗主",
-  "aliases": [],
+  "aliases": [
+    "道魔宗主"
+  ],
   "summary": "绿魔洲道魔宗之主，多年封闭神识始终闭关；与刘之源关系匪浅，绿魔洲众人极度忌惮其得知刘之源死讯后的暴怒。",
   "attributes": {
     "身份": "道魔宗宗主",
-    "阵营": "绿魔洲"
+    "阵营": "道魔宗"
   },
   "observations": {
     "身份": [
@@ -21,6 +23,11 @@
         "value": "绿魔洲",
         "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
         "seq": 1770
+      },
+      {
+        "value": "道魔宗",
+        "docId": "plot.xianni-1889-daomo-zongzhu-breakout",
+        "seq": 1800
       }
     ]
   },
@@ -34,15 +41,16 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+      "docId": "plot.xianni-1889-daomo-zongzhu-breakout",
       "dated": false,
-      "seq": 1770
+      "seq": 1800
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie"
+    "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+    "plot.xianni-1889-daomo-zongzhu-breakout"
   ],
-  "updatedAt": "2026-08-30T12:50:55.656Z"
+  "updatedAt": "2026-08-30T14:50:49.294Z"
 }
