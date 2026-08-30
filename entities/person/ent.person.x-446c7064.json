@@ -15,7 +15,8 @@
     "出身地": "沧溟山",
     "性格": "宁静、清冷，厌恶被人久视、为宗门可付出一切、神色复杂，假意结盟而背刺",
     "外貌": "紫色衣衫、年纪不大、相貌美丽，右脸有天牛图腾",
-    "标志特征": "出手时双目瞳孔内金光闪烁；施法速度远逊王林"
+    "标志特征": "出手时双目瞳孔内金光闪烁；施法速度远逊王林",
+    "阵营": "中立"
   },
   "observations": {
     "性别": [
@@ -87,6 +88,14 @@
         "docId": "plot.xianni-ch1884-tianniu-dingyang",
         "seq": 1795
       }
+    ],
+    "阵营": [
+      {
+        "value": "中立",
+        "docId": "plot.xianni-ch1885-that-sentence-shi-you-bian-su-pan",
+        "seq": 1795,
+        "note": "先前助王林系代其姐，本章不再出手"
+      }
     ]
   },
   "firstSeq": 1790,
@@ -133,13 +142,21 @@
       "docId": "plot.xianni-ch1884-tianniu-dingyang",
       "dated": false,
       "seq": 1795
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1885-that-sentence-shi-you-bian-su-pan",
+      "dated": false,
+      "seq": 1795,
+      "note": "先前助王林系代其姐，本章不再出手"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
-    "plot.xianni-ch1884-tianniu-dingyang"
+    "plot.xianni-ch1884-tianniu-dingyang",
+    "plot.xianni-ch1885-that-sentence-shi-you-bian-su-pan"
   ],
-  "updatedAt": "2026-08-30T14:37:54.132Z"
+  "updatedAt": "2026-08-30T14:40:41.946Z"
 }

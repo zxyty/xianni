@@ -10,11 +10,13 @@
   "summary": "散修老者，天牛第四穴守护者，修为空劫中期巅峰；受封归一宗金系长老并获赐金系五行铠。",
   "attributes": {
     "性别": "男",
-    "小阶段": "空劫后期",
+    "小阶段": "空劫中期巅峰、空劫后期、空劫中期",
     "身份": "散修",
     "外貌": "白发苍苍、神色阴沉，右脸天牛图腾一闪一闪、老者",
     "性格": "冷酷、精于算计，明知归一宗内情有异仍装作不知以求赏赐",
-    "本命法宝": "天牛魂铠"
+    "本命法宝": "天牛魂铠",
+    "阵营": "归一宗一方",
+    "存殁": "重伤未死，被拽回归一宗"
   },
   "observations": {
     "性别": [
@@ -35,6 +37,12 @@
         "docId": "plot.xianni-ch1884-tianniu-dingyang",
         "seq": 1795,
         "note": "原文另处称其散修修至空劫中期、借天牛魂铠修为暴增"
+      },
+      {
+        "value": "空劫中期",
+        "docId": "plot.xianni-ch1885-that-sentence-shi-you-bian-su-pan",
+        "seq": 1795,
+        "note": "抛出魂铠后恢复本来修为；穿魂铠时气息为空劫后期"
       }
     ],
     "身份": [
@@ -80,6 +88,20 @@
         "docId": "plot.xianni-ch1884-tianniu-dingyang",
         "seq": 1795
       }
+    ],
+    "阵营": [
+      {
+        "value": "归一宗一方",
+        "docId": "plot.xianni-ch1885-that-sentence-shi-you-bian-su-pan",
+        "seq": 1795
+      }
+    ],
+    "存殁": [
+      {
+        "value": "重伤未死，被拽回归一宗",
+        "docId": "plot.xianni-ch1885-that-sentence-shi-you-bian-su-pan",
+        "seq": 1795
+      }
     ]
   },
   "firstSeq": 1790,
@@ -92,10 +114,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.xianni-ch1884-tianniu-dingyang",
+      "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
       "dated": false,
-      "seq": 1795,
-      "note": "原文另处称其散修修至空劫中期、借天牛魂铠修为暴增"
+      "seq": 1790
     },
     "身份": {
       "asOf": null,
@@ -120,13 +141,26 @@
       "docId": "plot.xianni-ch1884-tianniu-dingyang",
       "dated": false,
       "seq": 1795
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1885-that-sentence-shi-you-bian-su-pan",
+      "dated": false,
+      "seq": 1795
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1885-that-sentence-shi-you-bian-su-pan",
+      "dated": false,
+      "seq": 1795
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
-    "plot.xianni-ch1884-tianniu-dingyang"
+    "plot.xianni-ch1884-tianniu-dingyang",
+    "plot.xianni-ch1885-that-sentence-shi-you-bian-su-pan"
   ],
-  "updatedAt": "2026-08-30T14:37:54.131Z"
+  "updatedAt": "2026-08-30T14:40:41.945Z"
 }
