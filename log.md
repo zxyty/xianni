@@ -1141,3 +1141,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T11:18:01.467Z** `ingest` plot.xianni-ch1840-jitian-caoyuan — 仙逆 第1840章 极天草原：王林问路内陆海、蚊王与已司之傀斩三修 · kind=plot asOf=2026-08-30 entities=20 relations=28 src=01750-01754.p2.md
 - **2026-08-30T11:20:26.421Z** `ingest` plot.xianni-ch1841-jitian-grassland-slaughter-danhai-water-origin — 第1841章 惊变！——王林枯萎极天草原诛土遁修士，转赴丹海凝水本源遇绿魔洲屠杀 · kind=plot asOf=2026-08-30 entities=21 relations=29 src=01750-01754.p3.md
 - **2026-08-30T11:22:50.313Z** `ingest` plot.xianni-ch1842-green-demon-continent-slaughter-danhai — 第1842章 绿魔之修！——绿魔洲三宗屠戮丹海，王林吞海凝水本源 · kind=plot asOf=2026-08-30 entities=24 relations=32 src=01750-01754.p4.md
+- **2026-08-30T11:25:11.799Z** `ingest` plot.xianni-ch1843-water-source-breakthrough-danhai — 第1843章 突破！——王林凝聚水本源，修为攀至空灵巅峰 · kind=plot asOf=2026-08-30 entities=23 relations=36 src=01750-01754.p5.md
