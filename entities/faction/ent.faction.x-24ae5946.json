@@ -3,12 +3,13 @@
   "type": "faction",
   "name": "九宗十三门",
   "aliases": [
-    "仙罡东部九宗十三门"
+    "仙罡东部九宗十三门",
+    "仙罡大陆东部九宗十三门"
   ],
   "summary": "仙罡大陆东部的宗门集合体，大魂门为其中之一。",
   "attributes": {
     "所属界面": "仙罡大陆",
-    "据点": "仙罡东部"
+    "据点": "仙罡大陆东部"
   },
   "observations": {
     "所属界面": [
@@ -23,6 +24,11 @@
         "value": "仙罡东部",
         "docId": "plot.xianni-ch1692-the-promise-of-those-years",
         "seq": 1601
+      },
+      {
+        "value": "仙罡大陆东部",
+        "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+        "seq": 1611
       }
     ]
   },
@@ -36,15 +42,16 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-ch1692-the-promise-of-those-years",
+      "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
       "dated": false,
-      "seq": 1601
+      "seq": 1611
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1692-the-promise-of-those-years"
+    "plot.xianni-ch1692-the-promise-of-those-years",
+    "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause"
   ],
-  "updatedAt": "2026-08-26T12:23:04.549Z"
+  "updatedAt": "2026-08-30T02:28:06.824Z"
 }

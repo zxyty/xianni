@@ -3,14 +3,18 @@
   "type": "person",
   "name": "第三魂",
   "aliases": [
-    "那个年轻人"
+    "那个年轻人",
+    "承载全部记忆的一魂",
+    "七彩仙尊第三魂",
+    "第三魂轮回之处"
   ],
   "summary": "尸阴宗老头点眉心放出的第三个魂体，化作年轻人形态阻拦周佚，一现身即被撞得魂飞魄散。",
   "attributes": {
     "外貌": "年轻人",
     "存殁": "魂飞魄散",
     "死因": "被周佚撞击",
-    "身份": "七彩道人之魂之一"
+    "身份": "七彩仙尊三魂之第三魂",
+    "标志特征": "承载七彩仙尊全部记忆，化作长虹远遁并轮回"
   },
   "observations": {
     "外貌": [
@@ -39,6 +43,18 @@
         "value": "七彩道人之魂之一",
         "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
         "seq": 1601
+      },
+      {
+        "value": "七彩仙尊三魂之第三魂",
+        "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+        "seq": 1611
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "承载七彩仙尊全部记忆，化作长虹远遁并轮回",
+        "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+        "seq": 1611
       }
     ]
   },
@@ -64,16 +80,23 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+      "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
       "dated": false,
-      "seq": 1601
+      "seq": 1611
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+      "dated": false,
+      "seq": 1611
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch294-298-void-voyage-first-fairy-fragment",
-    "lore.xianni-ch1695-qicai-three-souls-seven-po"
+    "lore.xianni-ch1695-qicai-three-souls-seven-po",
+    "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause"
   ],
-  "updatedAt": "2026-08-26T12:40:21.101Z"
+  "updatedAt": "2026-08-30T02:28:06.646Z"
 }

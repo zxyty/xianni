@@ -3,13 +3,16 @@
   "type": "spell",
   "name": "道古一吼",
   "aliases": [
-    "道古之吼"
+    "道古之吼",
+    "古神之口",
+    "道古吼"
   ],
   "summary": "王林以古神之力发出的惊天之吼，压倒鲁夫子毕生修为所化的厉啸，震崩星空裂缝、逼退无数修士。",
   "attributes": {
-    "类型": "音波／古神神通",
-    "威力": "压倒第三步空涅初期修士的厉啸，令星阵震动、漩涡近乎停转",
-    "出处": "道古传承"
+    "类型": "音波／神魂冲击",
+    "威力": "天空崩溃、大地颤抖、虚空撕裂、风暴轰鸣",
+    "出处": "古之墓地震退掌尊后冥冥所学",
+    "消耗": "需运转全部吉之三族之力化作道古"
   },
   "observations": {
     "类型": [
@@ -17,6 +20,11 @@
         "value": "音波／古神神通",
         "docId": "plot.xianni-ch1400-1404-xizi-forget-love-blood-sword",
         "seq": 1400
+      },
+      {
+        "value": "音波／神魂冲击",
+        "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+        "seq": 1611
       }
     ],
     "威力": [
@@ -24,6 +32,11 @@
         "value": "压倒第三步空涅初期修士的厉啸，令星阵震动、漩涡近乎停转",
         "docId": "plot.xianni-ch1400-1404-xizi-forget-love-blood-sword",
         "seq": 1400
+      },
+      {
+        "value": "天空崩溃、大地颤抖、虚空撕裂、风暴轰鸣",
+        "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+        "seq": 1611
       }
     ],
     "出处": [
@@ -31,6 +44,18 @@
         "value": "道古传承",
         "docId": "plot.xianni-ch1400-1404-xizi-forget-love-blood-sword",
         "seq": 1400
+      },
+      {
+        "value": "古之墓地震退掌尊后冥冥所学",
+        "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+        "seq": 1611
+      }
+    ],
+    "消耗": [
+      {
+        "value": "需运转全部吉之三族之力化作道古",
+        "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+        "seq": 1611
       }
     ]
   },
@@ -38,27 +63,34 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1400-1404-xizi-forget-love-blood-sword",
+      "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
       "dated": false,
-      "seq": 1400
+      "seq": 1611
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-ch1400-1404-xizi-forget-love-blood-sword",
+      "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
       "dated": false,
-      "seq": 1400
+      "seq": 1611
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch1400-1404-xizi-forget-love-blood-sword",
+      "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
       "dated": false,
-      "seq": 1400
+      "seq": 1611
+    },
+    "消耗": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+      "dated": false,
+      "seq": 1611
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1400-1404-xizi-forget-love-blood-sword"
+    "plot.xianni-ch1400-1404-xizi-forget-love-blood-sword",
+    "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause"
   ],
-  "updatedAt": "2026-08-25T23:28:04.891Z"
+  "updatedAt": "2026-08-30T02:28:06.641Z"
 }

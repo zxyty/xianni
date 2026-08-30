@@ -20,17 +20,19 @@
     "洞府界修真界",
     "Dongfu Realm",
     "宗派洞府界",
-    "洞府界面"
+    "洞府界面",
+    "洞府界之战战场"
   ],
   "summary": "王林在火焚国非火山山脉削凿的洞府，洞外布迷踪阵法、封死东门。",
   "attributes": {
     "所属界面": "修魔海",
-    "类型": "界面",
+    "类型": "界面／战场",
     "守护": "封界大阵",
     "方位": "山脉中段",
     "危险度": "沿途禁制封印极多，行进艰难",
     "所属势力": "云天宗",
-    "上级区域": "妖灵之地"
+    "上级区域": "妖灵之地",
+    "规模": "阁楼耸立如山门宗派"
   },
   "observations": {
     "所属界面": [
@@ -75,6 +77,11 @@
         "value": "界面",
         "docId": "plot.xianni-ch1698-fake-realm-huanmo-boat",
         "seq": 1606
+      },
+      {
+        "value": "界面／战场",
+        "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+        "seq": 1611
       }
     ],
     "守护": [
@@ -131,6 +138,13 @@
         "docId": "plot.xianni-ch613-zishu-sword-qi",
         "seq": 571
       }
+    ],
+    "规模": [
+      {
+        "value": "阁楼耸立如山门宗派",
+        "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+        "seq": 1611
+      }
     ]
   },
   "firstSeq": 119,
@@ -143,9 +157,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1698-fake-realm-huanmo-boat",
+      "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
       "dated": false,
-      "seq": 1606
+      "seq": 1611
     },
     "守护": {
       "asOf": null,
@@ -176,6 +190,12 @@
       "docId": "plot.xianni-ch613-zishu-sword-qi",
       "dated": false,
       "seq": 571
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+      "dated": false,
+      "seq": 1611
     }
   },
   "contested": false,
@@ -204,7 +224,8 @@
     "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
     "lore.xianni-ch1695-qicai-three-souls-seven-po",
     "plot.xianni-ch1696-fan-ke-wei-zhu-hun-mo-zhou-jinzhi",
-    "plot.xianni-ch1698-fake-realm-huanmo-boat"
+    "plot.xianni-ch1698-fake-realm-huanmo-boat",
+    "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause"
   ],
-  "updatedAt": "2026-08-30T02:04:00.425Z"
+  "updatedAt": "2026-08-30T02:28:06.831Z"
 }

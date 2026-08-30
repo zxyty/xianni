@@ -2,11 +2,17 @@
   "id": "ent.place.x-8434b466",
   "type": "place",
   "name": "道古祭坛",
-  "aliases": [],
+  "aliases": [
+    "残破祭坛"
+  ],
   "summary": "矾珊璐地图所指之地，王林认为其中或有造化；本章尚未抵达，明确不在魂魔舟内。",
   "attributes": {
-    "类型": "祭坛/遗迹",
-    "危险度": "沿途凶兽无数"
+    "类型": "远古祭坛",
+    "危险度": "沿途凶兽无数",
+    "所属界面": "云海裂缝",
+    "方位": "裂缝星域深处",
+    "规模": "如小山，顶部百丈方圆",
+    "守护": "无（仅裂缝另一侧有两小女孩）"
   },
   "observations": {
     "类型": [
@@ -14,6 +20,11 @@
         "value": "祭坛/遗迹",
         "docId": "plot.xianni-ch1700-juejian-hunmozhou-guifanfan",
         "seq": 1606
+      },
+      {
+        "value": "远古祭坛",
+        "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+        "seq": 1611
       }
     ],
     "危险度": [
@@ -22,27 +33,80 @@
         "docId": "plot.xianni-ch1700-juejian-hunmozhou-guifanfan",
         "seq": 1606
       }
+    ],
+    "所属界面": [
+      {
+        "value": "云海裂缝",
+        "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+        "seq": 1611
+      }
+    ],
+    "方位": [
+      {
+        "value": "裂缝星域深处",
+        "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+        "seq": 1611
+      }
+    ],
+    "规模": [
+      {
+        "value": "如小山，顶部百丈方圆",
+        "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+        "seq": 1611
+      }
+    ],
+    "守护": [
+      {
+        "value": "无（仅裂缝另一侧有两小女孩）",
+        "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+        "seq": 1611
+      }
     ]
   },
   "firstSeq": 1606,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1700-juejian-hunmozhou-guifanfan",
+      "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
       "dated": false,
-      "seq": 1606
+      "seq": 1611
     },
     "危险度": {
       "asOf": null,
       "docId": "plot.xianni-ch1700-juejian-hunmozhou-guifanfan",
       "dated": false,
       "seq": 1606
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+      "dated": false,
+      "seq": 1611
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+      "dated": false,
+      "seq": 1611
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+      "dated": false,
+      "seq": 1611
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+      "dated": false,
+      "seq": 1611
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1700-juejian-hunmozhou-guifanfan"
+    "plot.xianni-ch1700-juejian-hunmozhou-guifanfan",
+    "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause"
   ],
-  "updatedAt": "2026-08-30T02:08:34.691Z"
+  "updatedAt": "2026-08-30T02:28:06.729Z"
 }

@@ -9,21 +9,24 @@
     "Qicai Xianzun",
     "七道宗七彩仙尊",
     "七道宗仙尊",
-    "七彩之主"
+    "七彩之主",
+    "真正的七彩仙尊",
+    "储物空间内雕像之人"
   ],
   "summary": "仙罡大陆七道宗宗主之一，与道侣共同开宗立派；双日事件后独自归来、封死洞府，最终在大战中重伤。",
   "attributes": {
-    "身份": "七道宗宗主、远古仙域之主/封印设置者、远古仙尊、洞府之主、洞府主人、天道的掠夺者与饲养者、空劫大尊、七道宗开创者、七道宗之尊、封锁七道宗者、七道宗仙尊、七道宗之主",
+    "身份": "七道宗宗主、远古仙域之主/封印设置者、远古仙尊、洞府之主、洞府主人、天道的掠夺者与饲养者、空劫大尊、七道宗开创者、七道宗之尊、封锁七道宗者、七道宗仙尊、七道宗之主、仙尊",
     "称号": "七彩仙尊、远古仙皇、七彩道尊、大尊、仙尊",
     "出身地": "仙罡大陆",
-    "结局": "大战中重伤",
+    "结局": "崩溃化作三魂七魄",
     "存殁": "死亡",
     "小阶段": "空劫中期",
-    "性格": "歹毒",
+    "性格": "重情而暴怒疯狂",
     "阵营": "七道宗",
     "标志特征": "不完整",
-    "死因": "与连道非大战重伤崩溃",
-    "分身": "七彩道人（神通魂）、第二魂（本源意境）、第三魂（记忆）、分离的七魄"
+    "死因": "洞府界之战中引动天道，身体崩溃碎为三份（七彩／意境／记忆）",
+    "分身": "七彩道人（神通魂）、第二魂（本源意境）、第三魂（记忆）、分离的七魄",
+    "外貌": "自崩溃阁楼的七彩光芒中走出，神色愤怒"
   },
   "observations": {
     "身份": [
@@ -81,6 +84,11 @@
         "value": "七道宗之主",
         "docId": "plot.xianni-ch1692-the-promise-of-those-years",
         "seq": 1601
+      },
+      {
+        "value": "仙尊",
+        "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+        "seq": 1611
       }
     ],
     "称号": [
@@ -123,6 +131,11 @@
         "docId": "plot.xianni-1640-qidao-zong-memory-crystal",
         "seq": 1546,
         "note": "王林据记忆碎片推断"
+      },
+      {
+        "value": "崩溃化作三魂七魄",
+        "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+        "seq": 1611
       }
     ],
     "存殁": [
@@ -162,6 +175,11 @@
         "value": "歹毒",
         "docId": "plot.xianni-ch1692-the-promise-of-those-years",
         "seq": 1601
+      },
+      {
+        "value": "重情而暴怒疯狂",
+        "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+        "seq": 1611
       }
     ],
     "阵营": [
@@ -184,6 +202,12 @@
         "value": "与连道非大战重伤崩溃",
         "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
         "seq": 1601
+      },
+      {
+        "value": "洞府界之战中引动天道，身体崩溃碎为三份（七彩／意境／记忆）",
+        "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+        "seq": 1611,
+        "note": "幻中幻回放的当年一幕"
       }
     ],
     "分身": [
@@ -206,6 +230,13 @@
         "value": "分离的七魄",
         "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
         "seq": 1601
+      }
+    ],
+    "外貌": [
+      {
+        "value": "自崩溃阁楼的七彩光芒中走出，神色愤怒",
+        "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+        "seq": 1611
       }
     ]
   },
@@ -231,10 +262,9 @@
     },
     "结局": {
       "asOf": null,
-      "docId": "plot.xianni-1640-qidao-zong-memory-crystal",
+      "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
       "dated": false,
-      "seq": 1546,
-      "note": "王林据记忆碎片推断"
+      "seq": 1611
     },
     "存殁": {
       "asOf": null,
@@ -251,9 +281,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch1692-the-promise-of-those-years",
+      "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
       "dated": false,
-      "seq": 1601
+      "seq": 1611
     },
     "阵营": {
       "asOf": null,
@@ -270,15 +300,22 @@
     },
     "死因": {
       "asOf": null,
-      "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+      "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
       "dated": false,
-      "seq": 1601
+      "seq": 1611,
+      "note": "幻中幻回放的当年一幕"
     },
     "分身": {
       "asOf": null,
       "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
       "dated": false,
       "seq": 1601
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+      "dated": false,
+      "seq": 1611
     }
   },
   "contested": false,
@@ -297,7 +334,8 @@
     "plot.xianni-ch1692-the-promise-of-those-years",
     "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
     "lore.xianni-ch1695-qicai-three-souls-seven-po",
-    "plot.xianni-ch1699-illusion-within-illusion"
+    "plot.xianni-ch1699-illusion-within-illusion",
+    "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause"
   ],
-  "updatedAt": "2026-08-30T02:05:48.166Z"
+  "updatedAt": "2026-08-30T02:28:06.710Z"
 }

@@ -4,12 +4,15 @@
   "name": "界外太吉星辰之修大范围入侵界内",
   "aliases": [
     "界内界外大战",
-    "外府入侵"
+    "外府入侵",
+    "界外大军入云海"
   ],
   "summary": "界外修士大范围入侵界内，界内之力不足以对抗，是王林前来交易的直接起因。",
   "attributes": {
-    "章节": "第1645章",
-    "参与方": "界内之修、界外太吉星辰之修"
+    "章节": "第1704章（追述）",
+    "参与方": "界内之修、界外太吉星辰之修、界外大军",
+    "地点": "云海星域",
+    "影响": "贪狼借机进入云海裂缝"
   },
   "observations": {
     "章节": [
@@ -17,6 +20,11 @@
         "value": "第1645章",
         "docId": "plot.xianni-ch1645-wang-lin-four-war-generals-trade",
         "seq": 1551
+      },
+      {
+        "value": "第1704章（追述）",
+        "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+        "seq": 1611
       }
     ],
     "参与方": [
@@ -29,6 +37,25 @@
         "value": "界外太吉星辰之修",
         "docId": "plot.xianni-ch1645-wang-lin-four-war-generals-trade",
         "seq": 1551
+      },
+      {
+        "value": "界外大军",
+        "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+        "seq": 1611
+      }
+    ],
+    "地点": [
+      {
+        "value": "云海星域",
+        "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+        "seq": 1611
+      }
+    ],
+    "影响": [
+      {
+        "value": "贪狼借机进入云海裂缝",
+        "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+        "seq": 1611
       }
     ]
   },
@@ -36,21 +63,34 @@
   "attrProvenance": {
     "章节": {
       "asOf": null,
-      "docId": "plot.xianni-ch1645-wang-lin-four-war-generals-trade",
+      "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
       "dated": false,
-      "seq": 1551
+      "seq": 1611
     },
     "参与方": {
       "asOf": null,
       "docId": "plot.xianni-ch1645-wang-lin-four-war-generals-trade",
       "dated": false,
       "seq": 1551
+    },
+    "地点": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+      "dated": false,
+      "seq": 1611
+    },
+    "影响": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+      "dated": false,
+      "seq": 1611
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1645-wang-lin-four-war-generals-trade"
+    "plot.xianni-ch1645-wang-lin-four-war-generals-trade",
+    "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause"
   ],
-  "updatedAt": "2026-08-26T09:02:53.895Z"
+  "updatedAt": "2026-08-30T02:28:06.787Z"
 }
