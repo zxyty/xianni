@@ -39,18 +39,21 @@
     "王林的洞府界",
     "洞府界界面",
     "洞府界幻境",
-    "幻境"
+    "幻境",
+    "洞府茶（原文误写）",
+    "香火洞府界"
   ],
   "summary": "王林在火焚国非火山山脉削凿的洞府，洞外布迷踪阵法、封死东门。",
   "attributes": {
-    "所属界面": "修魔海",
-    "类型": "界面/位面",
+    "所属界面": "仙罡大陆",
+    "类型": "提供香火的界",
     "守护": "封界大阵",
     "方位": "山脉中段",
     "危险度": "沿途禁制封印极多，行进艰难",
     "所属势力": "云天宗",
     "上级区域": "妖灵之地",
-    "规模": "阁楼耸立如山门宗派"
+    "规模": "阁楼耸立如山门宗派",
+    "特产": "香火之力"
   },
   "observations": {
     "所属界面": [
@@ -63,6 +66,11 @@
         "value": "修魔海",
         "docId": "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
         "seq": 192
+      },
+      {
+        "value": "仙罡大陆",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
       }
     ],
     "类型": [
@@ -120,6 +128,11 @@
         "value": "界面/位面",
         "docId": "plot.xianni-1949-taichu-momie-benyuan",
         "seq": 1858
+      },
+      {
+        "value": "提供香火的界",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
       }
     ],
     "守护": [
@@ -183,21 +196,28 @@
         "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
         "seq": 1611
       }
+    ],
+    "特产": [
+      {
+        "value": "香火之力",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
+      }
     ]
   },
   "firstSeq": 119,
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch208-sundian-shoutu-guchuansongzhen",
+      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
       "dated": false,
-      "seq": 192
+      "seq": 1893
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1949-taichu-momie-benyuan",
+      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
       "dated": false,
-      "seq": 1858
+      "seq": 1893
     },
     "守护": {
       "asOf": null,
@@ -234,6 +254,12 @@
       "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
       "dated": false,
       "seq": 1611
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+      "dated": false,
+      "seq": 1893
     }
   },
   "contested": false,
@@ -348,7 +374,8 @@
     "plot.xianni-1949-taichu-momie-benyuan",
     "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
     "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
-    "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression"
+    "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
+    "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken"
   ],
-  "updatedAt": "2026-08-30T20:01:03.843Z"
+  "updatedAt": "2026-08-30T20:38:14.296Z"
 }

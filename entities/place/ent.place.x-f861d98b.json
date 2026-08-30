@@ -6,15 +6,17 @@
     "东城",
     "东城长街",
     "长街",
-    "祖城东城长街"
+    "祖城东城长街",
+    "东城城门"
   ],
   "summary": "祖城东侧城区，无边无际，店铺府邸林立仙气浓郁；王林自东门踏入并在此落脚。",
   "attributes": {
-    "上级区域": "祖城",
-    "方位": "祖城东部",
-    "类型": "长街",
+    "上级区域": "仙族祖城",
+    "方位": "祖城东城",
+    "类型": "街道（战后废墟）",
     "特产": "常年风雪",
-    "危险度": "极高（被禁锢封锁的杀局之地）"
+    "危险度": "极高（被禁锢封锁的杀局之地）",
+    "所属势力": "仙族"
   },
   "observations": {
     "上级区域": [
@@ -22,6 +24,11 @@
         "value": "祖城",
         "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
         "seq": 1878
+      },
+      {
+        "value": "仙族祖城",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
       }
     ],
     "方位": [
@@ -29,6 +36,11 @@
         "value": "祖城东部",
         "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
         "seq": 1878
+      },
+      {
+        "value": "祖城东城",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
       }
     ],
     "类型": [
@@ -46,6 +58,11 @@
         "value": "长街",
         "docId": "plot.xianni-1888-1892-fengxue-changjie-shaju",
         "seq": 1888
+      },
+      {
+        "value": "街道（战后废墟）",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
       }
     ],
     "特产": [
@@ -71,27 +88,34 @@
         "docId": "plot.xianni-1888-1892-fengxue-changjie-shaju",
         "seq": 1888
       }
+    ],
+    "所属势力": [
+      {
+        "value": "仙族",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
+      }
     ]
   },
   "firstSeq": 1878,
   "attrProvenance": {
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
       "dated": false,
-      "seq": 1878
+      "seq": 1893
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
       "dated": false,
-      "seq": 1878
+      "seq": 1893
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1888-1892-fengxue-changjie-shaju",
+      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
       "dated": false,
-      "seq": 1888
+      "seq": 1893
     },
     "特产": {
       "asOf": null,
@@ -104,6 +128,12 @@
       "docId": "plot.xianni-1888-1892-fengxue-changjie-shaju",
       "dated": false,
       "seq": 1888
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+      "dated": false,
+      "seq": 1893
     }
   },
   "contested": false,
@@ -111,7 +141,8 @@
   "docs": [
     "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
     "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
-    "plot.xianni-1888-1892-fengxue-changjie-shaju"
+    "plot.xianni-1888-1892-fengxue-changjie-shaju",
+    "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken"
   ],
-  "updatedAt": "2026-08-30T20:19:15.580Z"
+  "updatedAt": "2026-08-30T20:38:14.196Z"
 }

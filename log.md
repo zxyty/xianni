@@ -1232,3 +1232,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T19:41:43.696Z** `ingest` plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun — 仙逆 第1878-1882章：白发跃天尊择主——王林投双子大天尊 · kind=plot asOf=2026-08-30 entities=85 relations=153 src=01878-01882.md
 - **2026-08-30T20:01:04.712Z** `ingest` plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression — 仙逆 第1883-1887章：李府箭阵与王林镇压——白发跃天尊现身 · kind=plot asOf=2026-08-30 entities=75 relations=133 src=01883-01887.md
 - **2026-08-30T20:19:16.154Z** `ingest` plot.xianni-1888-1892-fengxue-changjie-shaju — 仙逆 第1888-1892章：册封白发跃天尊、疯子失忆、风雪长街杀局 · kind=plot asOf=2026-08-30 entities=74 relations=118 src=01888-01892.md
+- **2026-08-30T20:38:14.766Z** `ingest` plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken — 仙逆 第1893-1897章：海子的沉默与久帝出手，白发黑发之定局 · kind=plot asOf=2026-08-30 entities=69 relations=120 src=01893-01897.md

@@ -9,7 +9,8 @@
   "attributes": {
     "身份": "仙皇、大天尊之一",
     "称号": "仙皇",
-    "阵营": "仙族"
+    "阵营": "仙族皇室",
+    "性格": "多疑、极为冷酷"
   },
   "observations": {
     "身份": [
@@ -36,6 +37,18 @@
         "value": "仙族",
         "docId": "plot.xianni-ch1916-wait-for-tianzun",
         "seq": 1824
+      },
+      {
+        "value": "仙族皇室",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
+      }
+    ],
+    "性格": [
+      {
+        "value": "多疑、极为冷酷",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
       }
     ]
   },
@@ -55,15 +68,22 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch1916-wait-for-tianzun",
+      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
       "dated": false,
-      "seq": 1824
+      "seq": 1893
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+      "dated": false,
+      "seq": 1893
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1916-wait-for-tianzun"
+    "plot.xianni-ch1916-wait-for-tianzun",
+    "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken"
   ],
-  "updatedAt": "2026-08-30T16:45:58.813Z"
+  "updatedAt": "2026-08-30T20:38:14.281Z"
 }

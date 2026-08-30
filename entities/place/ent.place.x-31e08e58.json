@@ -3,13 +3,15 @@
   "type": "place",
   "name": "仙祖闭关之地",
   "aliases": [
-    "仙祖闭关地"
+    "仙祖闭关地",
+    "皇宫下的仙祖闭关之地"
   ],
   "summary": "仙族秘境，跃天尊可入内感悟获巨大造化并增长修为；仙皇一脉一生至多三次，非仙皇血脉唯成跃天尊时可得一次。",
   "attributes": {
     "所属势力": "仙族",
-    "类型": "秘境/闭关感悟之地",
-    "危险度": "王林出于直觉提防而拒入"
+    "类型": "禁地/闭关之地",
+    "危险度": "高（王林明知危险仍前往）",
+    "方位": "皇宫之下"
   },
   "observations": {
     "所属势力": [
@@ -24,6 +26,11 @@
         "value": "秘境/闭关感悟之地",
         "docId": "plot.xianni-1888-1892-fengxue-changjie-shaju",
         "seq": 1888
+      },
+      {
+        "value": "禁地/闭关之地",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
       }
     ],
     "危险度": [
@@ -31,6 +38,18 @@
         "value": "王林出于直觉提防而拒入",
         "docId": "plot.xianni-1888-1892-fengxue-changjie-shaju",
         "seq": 1888
+      },
+      {
+        "value": "高（王林明知危险仍前往）",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
+      }
+    ],
+    "方位": [
+      {
+        "value": "皇宫之下",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
       }
     ]
   },
@@ -44,21 +63,28 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1888-1892-fengxue-changjie-shaju",
+      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
       "dated": false,
-      "seq": 1888
+      "seq": 1893
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-1888-1892-fengxue-changjie-shaju",
+      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
       "dated": false,
-      "seq": 1888
+      "seq": 1893
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+      "dated": false,
+      "seq": 1893
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1888-1892-fengxue-changjie-shaju"
+    "plot.xianni-1888-1892-fengxue-changjie-shaju",
+    "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken"
   ],
-  "updatedAt": "2026-08-30T20:19:15.520Z"
+  "updatedAt": "2026-08-30T20:38:14.100Z"
 }

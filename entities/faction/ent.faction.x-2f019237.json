@@ -3,17 +3,36 @@
   "type": "faction",
   "name": "仙族国师一脉",
   "aliases": [
-    "国师一脉"
+    "国师一脉",
+    "国师一脉宗门"
   ],
   "summary": "当今仙族的国师道统；大魂门一代老祖为其万古岁月前的道统传人。",
-  "attributes": {},
-  "observations": {},
+  "attributes": {
+    "阵营": "此次杀局主谋方"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "此次杀局主谋方",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
+      }
+    ]
+  },
   "firstSeq": 1765,
-  "attrProvenance": {},
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+      "dated": false,
+      "seq": 1893
+    }
+  },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave"
+    "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+    "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken"
   ],
-  "updatedAt": "2026-08-30T12:32:04.395Z"
+  "updatedAt": "2026-08-30T20:38:14.041Z"
 }

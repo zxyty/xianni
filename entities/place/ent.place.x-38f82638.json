@@ -7,17 +7,18 @@
     "Zu Cheng",
     "Ancestor City",
     "祖城城池",
-    "仙族祖城"
+    "仙族祖城",
+    "祖城东城门"
   ],
   "summary": "仙罡大陆第一雄城，大小堪比一洲，城内无凡人；分东南西北四大分城，中央为皇宫禁地。",
   "attributes": {
     "所属界面": "仙罡大陆",
-    "所属势力": "仙族",
+    "所属势力": "仙族皇室",
     "类型": "雄城、巨城、都城、城池、大城",
     "上级区域": "中州",
     "方位": "中州核心",
-    "规模": "堪比一洲，无边无际，第一雄城、天地罕有之城，仅东城便无边无际",
-    "特产": "仙气浓郁形成仙威，凡人无法生存、浓郁仙威",
+    "规模": "堪比一洲，无边无际，第一雄城、天地罕有之城，仅东城便无边无际、极大，东城至皇宫路程遥远",
+    "特产": "仙气浓郁形成仙威，凡人无法生存、浓郁仙威、常年风雪",
     "守护": "两个大天尊、神秘的道门、仙皇",
     "危险度": "极高（王林自认此地对己危险）"
   },
@@ -34,6 +35,11 @@
         "value": "仙族",
         "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
         "seq": 1878
+      },
+      {
+        "value": "仙族皇室",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
       }
     ],
     "类型": [
@@ -87,6 +93,11 @@
         "value": "天地罕有之城，仅东城便无边无际",
         "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
         "seq": 1878
+      },
+      {
+        "value": "极大，东城至皇宫路程遥远",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
       }
     ],
     "特产": [
@@ -100,6 +111,11 @@
         "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
         "seq": 1878,
         "note": "凡人肉身崩溃，修士吐纳胜过名山大川"
+      },
+      {
+        "value": "常年风雪",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
       }
     ],
     "守护": [
@@ -137,9 +153,9 @@
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
       "dated": false,
-      "seq": 1878
+      "seq": 1893
     },
     "类型": {
       "asOf": null,
@@ -189,7 +205,8 @@
   "docs": [
     "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
     "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
-    "plot.xianni-1888-1892-fengxue-changjie-shaju"
+    "plot.xianni-1888-1892-fengxue-changjie-shaju",
+    "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken"
   ],
-  "updatedAt": "2026-08-30T20:19:15.576Z"
+  "updatedAt": "2026-08-30T20:38:14.293Z"
 }

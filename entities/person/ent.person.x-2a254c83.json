@@ -8,8 +8,10 @@
   ],
   "summary": "杜青一生所见唯一拥有本源真身者，其为魂之本源真身。",
   "attributes": {
-    "身份": "大魂门老祖",
-    "标志特征": "魂之本源真身、身后永远跟随虚影（影随身动）、已凝聚本源真身"
+    "身份": "大魂门老祖、国师之族天骄",
+    "标志特征": "魂之本源真身、身后永远跟随虚影（影随身动）、已凝聚本源真身",
+    "存殁": "死亡",
+    "死因": "族人封印所限，离开祖城后必死"
   },
   "observations": {
     "身份": [
@@ -17,6 +19,11 @@
         "value": "大魂门老祖",
         "docId": "plot.xianni-1814-xuanluo-induction-du-qing-oath",
         "seq": 1725
+      },
+      {
+        "value": "大魂门老祖、国师之族天骄",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
       }
     ],
     "标志特征": [
@@ -35,21 +42,47 @@
         "docId": "plot.xianni-1818-wang-lin-suo-di-cheng-cun-fen-shen-su-xing",
         "seq": 1725
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
+      }
+    ],
+    "死因": [
+      {
+        "value": "族人封印所限，离开祖城后必死",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
+      }
     ]
   },
   "firstSeq": 1725,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1814-xuanluo-induction-du-qing-oath",
+      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
       "dated": false,
-      "seq": 1725
+      "seq": 1893
     },
     "标志特征": {
       "asOf": null,
       "docId": "plot.xianni-1814-xuanluo-induction-du-qing-oath",
       "dated": false,
       "seq": 1725
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+      "dated": false,
+      "seq": 1893
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+      "dated": false,
+      "seq": 1893
     }
   },
   "contested": false,
@@ -58,7 +91,8 @@
     "plot.xianni-1814-xuanluo-induction-du-qing-oath",
     "plot.xianni-ch1816-benyuan-zhenshen-regret",
     "plot.xianni-1818-wang-lin-suo-di-cheng-cun-fen-shen-su-xing",
-    "lore.xianni-1917-xianzu-five-great-tianzun"
+    "lore.xianni-1917-xianzu-five-great-tianzun",
+    "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken"
   ],
-  "updatedAt": "2026-08-30T16:53:06.858Z"
+  "updatedAt": "2026-08-30T20:38:14.285Z"
 }

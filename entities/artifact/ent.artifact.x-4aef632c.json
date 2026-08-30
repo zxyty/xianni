@@ -5,13 +5,15 @@
   "aliases": [
     "香火誓符",
     "以香火起誓所化符文",
-    "香火誓言所化符文"
+    "香火誓言所化符文",
+    "仙罡誓符"
   ],
   "summary": "以香火起誓化作的符文，是第三步修士之间较为信服的立约方式；大荒上人以之向妙音道尊立誓“一去不回”，随后背誓。",
   "attributes": {
-    "能力": "第三步修士间的立约凭证",
-    "来历": "以香火起誓幻化而出",
-    "持有者": "妙音道尊"
+    "能力": "以仙罡法则见证誓约，违誓者身躯灰飞烟灭",
+    "来历": "国师掐诀所化",
+    "持有者": "妙音道尊",
+    "外形": "散发幽光的符文凝聚成的复杂图腾，浮于半空后消失"
   },
   "observations": {
     "能力": [
@@ -19,6 +21,11 @@
         "value": "第三步修士间的立约凭证",
         "docId": "plot.xianni-ch1454-fen-miaoyin-daozun-dahuang-alliance-break",
         "seq": 1360
+      },
+      {
+        "value": "以仙罡法则见证誓约，违誓者身躯灰飞烟灭",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
       }
     ],
     "来历": [
@@ -26,6 +33,11 @@
         "value": "以香火起誓幻化而出",
         "docId": "plot.xianni-ch1454-fen-miaoyin-daozun-dahuang-alliance-break",
         "seq": 1360
+      },
+      {
+        "value": "国师掐诀所化",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
       }
     ],
     "持有者": [
@@ -35,21 +47,28 @@
         "seq": 1360,
         "note": "由大荒上人交出后被其背弃"
       }
+    ],
+    "外形": [
+      {
+        "value": "散发幽光的符文凝聚成的复杂图腾，浮于半空后消失",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
+      }
     ]
   },
   "firstSeq": 1360,
   "attrProvenance": {
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-ch1454-fen-miaoyin-daozun-dahuang-alliance-break",
+      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
       "dated": false,
-      "seq": 1360
+      "seq": 1893
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch1454-fen-miaoyin-daozun-dahuang-alliance-break",
+      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
       "dated": false,
-      "seq": 1360
+      "seq": 1893
     },
     "持有者": {
       "asOf": null,
@@ -57,13 +76,20 @@
       "dated": false,
       "seq": 1360,
       "note": "由大荒上人交出后被其背弃"
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+      "dated": false,
+      "seq": 1893
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1454-fen-miaoyin-daozun-dahuang-alliance-break",
-    "plot.xianni-1455-shashoujian-lingdong-shangren-ambush"
+    "plot.xianni-1455-shashoujian-lingdong-shangren-ambush",
+    "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken"
   ],
-  "updatedAt": "2026-08-25T20:43:56.900Z"
+  "updatedAt": "2026-08-30T20:38:14.287Z"
 }

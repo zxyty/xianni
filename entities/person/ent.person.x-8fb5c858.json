@@ -6,13 +6,20 @@
     "国师",
     "怨灵三弟子之师",
     "道古国师",
-    "仙族国师"
+    "仙族国师",
+    "册封之时的国师",
+    "白衣之人",
+    "白衣国师",
+    "仙罡国师"
   ],
   "summary": "大王朝国师，数月前夜观天象称凶星出自西北，遂促成屠杀西北平民数十万，致西北尸骸遍地、怨气冲天。",
   "attributes": {
-    "身份": "仙皇国师",
-    "标志特征": "本章只闻其声未见其人",
-    "阵营": "仙族"
+    "身份": "仙罡大陆国师、其族代表",
+    "标志特征": "本章只闻其声未见其人、掌心幻化白芒小人（魂衍道）、白衣、掐诀发誓符、族人受仙祖代代传承封印所限无法离开祖城",
+    "阵营": "表面效忠仙皇，暗中背叛",
+    "外貌": "一身白衣、取出命晶后一下子苍老腐朽",
+    "种族": "非仙罡大陆之族",
+    "寿元": "时日无多"
   },
   "observations": {
     "身份": [
@@ -35,6 +42,11 @@
         "value": "仙皇国师",
         "docId": "plot.xianni-1873-1877-tianzun-nie-17th-floor",
         "seq": 1873
+      },
+      {
+        "value": "仙罡大陆国师、其族代表",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
       }
     ],
     "标志特征": [
@@ -43,6 +55,16 @@
         "docId": "plot.xianni-ch895-wanglin-nu-zhuque-wangchao-yuanling",
         "seq": 834,
         "note": "第895章"
+      },
+      {
+        "value": "掌心幻化白芒小人（魂衍道）",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
+      },
+      {
+        "value": "白衣、掐诀发誓符、族人受仙祖代代传承封印所限无法离开祖城",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
       }
     ],
     "阵营": [
@@ -55,6 +77,41 @@
         "value": "仙族",
         "docId": "plot.xianni-1807-cangzhongzong-hunt-open-storage-space",
         "seq": 1715
+      },
+      {
+        "value": "表面效忠仙皇，暗中背叛",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893,
+        "note": "为全族自由"
+      }
+    ],
+    "外貌": [
+      {
+        "value": "一身白衣",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
+      },
+      {
+        "value": "取出命晶后一下子苍老腐朽",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893,
+        "note": "献出命晶之后"
+      }
+    ],
+    "种族": [
+      {
+        "value": "非仙罡大陆之族",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893,
+        "note": "自称与王林同样不属于仙罡大陆"
+      }
+    ],
+    "寿元": [
+      {
+        "value": "时日无多",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893,
+        "note": "失去命晶后"
       }
     ]
   },
@@ -62,9 +119,9 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1873-1877-tianzun-nie-17th-floor",
+      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
       "dated": false,
-      "seq": 1873
+      "seq": 1893
     },
     "标志特征": {
       "asOf": null,
@@ -75,9 +132,30 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-1807-cangzhongzong-hunt-open-storage-space",
+      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
       "dated": false,
-      "seq": 1715
+      "seq": 1893,
+      "note": "为全族自由"
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+      "dated": false,
+      "seq": 1893
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+      "dated": false,
+      "seq": 1893,
+      "note": "自称与王林同样不属于仙罡大陆"
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+      "dated": false,
+      "seq": 1893,
+      "note": "失去命晶后"
     }
   },
   "contested": false,
@@ -88,7 +166,8 @@
     "plot.xianni-ch1795-huangzun-yinian-huogen-xian",
     "plot.xianni-1807-cangzhongzong-hunt-open-storage-space",
     "plot.xianni-1873-1877-tianzun-nie-17th-floor",
-    "plot.xianni-1888-1892-fengxue-changjie-shaju"
+    "plot.xianni-1888-1892-fengxue-changjie-shaju",
+    "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken"
   ],
-  "updatedAt": "2026-08-30T20:19:15.683Z"
+  "updatedAt": "2026-08-30T20:38:14.276Z"
 }

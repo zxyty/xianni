@@ -8,14 +8,16 @@
     "黑甲修士",
     "十万黑甲修士",
     "黑甲禁兵军团",
-    "禁兵"
+    "禁兵",
+    "数万黑甲禁兵",
+    "皇宫禁兵"
   ],
   "summary": "仙族皇族力量，仅十万人，只效忠仙皇，人人修为不凡，掌握一种祭献生命所化的恐怖杀伤力；册封大典上齐吼封九门。",
   "attributes": {
-    "阵营": "仙族皇族、仙族皇宫",
+    "阵营": "仙族皇族、仙族皇宫、仙皇一方",
     "理念": "只效忠仙皇、以杀机凝聚威压、守护皇权",
-    "据点": "仙族皇宫",
-    "所属界面": "仙族"
+    "据点": "仙族祖城皇宫",
+    "所属界面": "仙罡大陆"
   },
   "observations": {
     "阵营": [
@@ -28,6 +30,11 @@
         "value": "仙族皇宫",
         "docId": "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
         "seq": 1883
+      },
+      {
+        "value": "仙皇一方",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
       }
     ],
     "理念": [
@@ -52,6 +59,11 @@
         "value": "仙族皇宫",
         "docId": "plot.xianni-1888-1892-fengxue-changjie-shaju",
         "seq": 1888
+      },
+      {
+        "value": "仙族祖城皇宫",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
       }
     ],
     "所属界面": [
@@ -59,6 +71,11 @@
         "value": "仙族",
         "docId": "plot.xianni-1888-1892-fengxue-changjie-shaju",
         "seq": 1888
+      },
+      {
+        "value": "仙罡大陆",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
       }
     ]
   },
@@ -78,22 +95,23 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-1888-1892-fengxue-changjie-shaju",
+      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
       "dated": false,
-      "seq": 1888
+      "seq": 1893
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-1888-1892-fengxue-changjie-shaju",
+      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
       "dated": false,
-      "seq": 1888
+      "seq": 1893
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
-    "plot.xianni-1888-1892-fengxue-changjie-shaju"
+    "plot.xianni-1888-1892-fengxue-changjie-shaju",
+    "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken"
   ],
-  "updatedAt": "2026-08-30T20:19:15.528Z"
+  "updatedAt": "2026-08-30T20:38:14.184Z"
 }

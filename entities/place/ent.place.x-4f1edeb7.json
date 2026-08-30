@@ -7,11 +7,11 @@
   ],
   "summary": "位于祖城正中的庞大皇宫群，望不到尽头，存在一处未开启的惊天禁制，宫内有一尊永恒望天的石像。",
   "attributes": {
-    "方位": "祖城正中",
+    "方位": "祖城中心",
     "所属势力": "仙族皇族、仙族",
     "危险度": "存在未开启的惊天禁制",
     "类型": "皇宫",
-    "守护": "十万九门黑甲禁兵与数万殿外黑甲禁兵",
+    "守护": "十万九门黑甲禁兵与数万殿外黑甲禁兵、数万黑甲禁兵、仙祖雕像金光大阵",
     "上级区域": "仙族祖城"
   },
   "observations": {
@@ -20,6 +20,11 @@
         "value": "祖城正中",
         "docId": "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
         "seq": 1883
+      },
+      {
+        "value": "祖城中心",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
       }
     ],
     "所属势力": [
@@ -53,6 +58,16 @@
         "value": "十万九门黑甲禁兵与数万殿外黑甲禁兵",
         "docId": "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
         "seq": 1883
+      },
+      {
+        "value": "数万黑甲禁兵",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
+      },
+      {
+        "value": "仙祖雕像金光大阵",
+        "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+        "seq": 1893
       }
     ],
     "上级区域": [
@@ -67,9 +82,9 @@
   "attrProvenance": {
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
+      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
       "dated": false,
-      "seq": 1883
+      "seq": 1893
     },
     "所属势力": {
       "asOf": null,
@@ -106,7 +121,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
-    "plot.xianni-1888-1892-fengxue-changjie-shaju"
+    "plot.xianni-1888-1892-fengxue-changjie-shaju",
+    "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken"
   ],
-  "updatedAt": "2026-08-30T20:19:15.518Z"
+  "updatedAt": "2026-08-30T20:38:14.198Z"
 }
