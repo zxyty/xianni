@@ -1221,3 +1221,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T17:53:01.407Z** `ingest` plot.xianni-ch1944-meng-zhang-lun-hui — 第1944章 梦障轮回：王林悟第四道虚之本源，东临宗实为死宗 · kind=plot asOf=2026-08-30 entities=16 relations=23 src=01853-01857.p3.md
 - **2026-08-30T17:55:00.368Z** `ingest` plot.xianni-ch1945-dead-sect-donglin — 第1945章 死宗！——东临宗的梦障与那句锁亡天之运的碑文 · kind=plot asOf=2026-08-30 entities=20 relations=25 src=01853-01857.p4.md
 - **2026-08-30T17:57:52.429Z** `ingest` plot.xianni-ch1946-tianyunzi-aura-stele-donglin-sect — 第1946章 天运子的气息！——东临宗灭门石碑与东临池秘辛 · kind=plot asOf=2026-08-30 entities=26 relations=38 src=01853-01857.p5.md
+- **2026-08-30T18:00:05.251Z** `ingest` plot.xianni-1947-dongling-bubble-destruction — 第1947章 破灭的气泡——东临宗真实东临池与灭门梦境 · kind=plot asOf=2026-08-30 entities=25 relations=32 src=01858-01862.p1.md
