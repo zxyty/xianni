@@ -5,15 +5,22 @@
   "aliases": [
     "马师兄",
     "马姓老者",
-    "归一宗马师兄"
+    "归一宗马师兄",
+    "第二层的老者",
+    "归一宗马姓老者",
+    "五行星马姓老者"
   ],
   "summary": "玄道宗集结地的筑基中期老者，出言不逊放飓风攻王林，被王林一剑冻杀。",
   "attributes": {
-    "小阶段": "筑基中期",
-    "身份": "归一宗前辈/开辟通往七道宗洞府通道之人",
+    "小阶段": "疑经历数次玄劫，未必已达空劫",
+    "身份": "玄道宗弟子、归一宗前辈/开辟通往七道宗洞府通道之人、五行星外来修士首领、五行星一方主事者",
     "存殁": "去向不明（临走前称会自己回来，尚未归来）",
     "死因": "被王林绿色飞剑一剑冻杀，胸口现碗大伤口气绝",
-    "结局": "本章身亡"
+    "结局": "本章身亡",
+    "称号": "马师兄、马师伯",
+    "外貌": "皮肤衰老、头发漆黑，全身弥漫五行之力、老者",
+    "标志特征": "瞳孔内有九转心轮回旋；样貌若年轻则与纳多相同",
+    "性格": "阴沉、谨慎"
   },
   "observations": {
     "小阶段": [
@@ -21,6 +28,12 @@
         "value": "筑基中期",
         "docId": "lore.xianni-ch105-jijing-realm",
         "seq": 90
+      },
+      {
+        "value": "疑经历数次玄劫，未必已达空劫",
+        "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
+        "seq": 1650,
+        "note": "王林推测，强于掌尊"
       }
     ],
     "身份": [
@@ -33,6 +46,16 @@
         "value": "归一宗前辈/开辟通往七道宗洞府通道之人",
         "docId": "plot.xianni-1681-blood-sword-tip-pierces-into-xiangang",
         "seq": 1591
+      },
+      {
+        "value": "五行星外来修士首领",
+        "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
+        "seq": 1650
+      },
+      {
+        "value": "五行星一方主事者",
+        "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
+        "seq": 1650
       }
     ],
     "存殁": [
@@ -61,21 +84,60 @@
         "docId": "lore.xianni-ch105-jijing-realm",
         "seq": 90
       }
+    ],
+    "称号": [
+      {
+        "value": "马师兄",
+        "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
+        "seq": 1650
+      },
+      {
+        "value": "马师伯",
+        "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
+        "seq": 1650
+      }
+    ],
+    "外貌": [
+      {
+        "value": "皮肤衰老、头发漆黑，全身弥漫五行之力",
+        "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
+        "seq": 1650
+      },
+      {
+        "value": "老者",
+        "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
+        "seq": 1650
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "瞳孔内有九转心轮回旋；样貌若年轻则与纳多相同",
+        "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
+        "seq": 1650
+      }
+    ],
+    "性格": [
+      {
+        "value": "阴沉、谨慎",
+        "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
+        "seq": 1650
+      }
     ]
   },
   "firstSeq": 90,
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "lore.xianni-ch105-jijing-realm",
+      "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
       "dated": false,
-      "seq": 90
+      "seq": 1650,
+      "note": "王林推测，强于掌尊"
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1681-blood-sword-tip-pierces-into-xiangang",
+      "docId": "lore.xianni-ch105-jijing-realm",
       "dated": false,
-      "seq": 1591
+      "seq": 90
     },
     "存殁": {
       "asOf": null,
@@ -95,13 +157,38 @@
       "docId": "lore.xianni-ch105-jijing-realm",
       "dated": false,
       "seq": 90
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
+      "dated": false,
+      "seq": 1650
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
+      "dated": false,
+      "seq": 1650
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
+      "dated": false,
+      "seq": 1650
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
+      "dated": false,
+      "seq": 1650
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "lore.xianni-ch105-jijing-realm",
-    "plot.xianni-1681-blood-sword-tip-pierces-into-xiangang"
+    "plot.xianni-1681-blood-sword-tip-pierces-into-xiangang",
+    "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel"
   ],
-  "updatedAt": "2026-08-26T11:41:18.476Z"
+  "updatedAt": "2026-08-30T04:45:05.488Z"
 }

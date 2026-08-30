@@ -4,16 +4,19 @@
   "name": "宣武国双修门长老",
   "aliases": [
     "油头粉面青年",
-    "双修门长老"
+    "双修门长老",
+    "银邪青年",
+    "油头粉面的男子"
   ],
   "summary": "宣武国双修门长老，结丹中期，为夺天离丹追杀李慕婉，见火兽红云弃追逃走。",
   "attributes": {
     "性别": "男",
     "小阶段": "结丹中期",
-    "身份": "双修门长老",
+    "身份": "宣武国双修门长老",
     "阵营": "宣武国",
-    "外貌": "油头粉面",
-    "标志特征": "擅飞剑、不擅速度"
+    "外貌": "油头粉面，一脸银邪",
+    "标志特征": "擅飞剑、不擅速度",
+    "存殁": "死亡"
   },
   "observations": {
     "性别": [
@@ -35,6 +38,11 @@
         "value": "双修门长老",
         "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
         "seq": 123
+      },
+      {
+        "value": "宣武国双修门长老",
+        "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
+        "seq": 1650
       }
     ],
     "阵营": [
@@ -49,6 +57,11 @@
         "value": "油头粉面",
         "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
         "seq": 123
+      },
+      {
+        "value": "油头粉面，一脸银邪",
+        "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
+        "seq": 1650
       }
     ],
     "标志特征": [
@@ -56,6 +69,14 @@
         "value": "擅飞剑、不擅速度",
         "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
         "seq": 123
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
+        "seq": 1650,
+        "note": "仅为王林梦幻世界中的重演，非现实事件"
       }
     ]
   },
@@ -75,9 +96,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+      "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
       "dated": false,
-      "seq": 123
+      "seq": 1650
     },
     "阵营": {
       "asOf": null,
@@ -87,21 +108,29 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+      "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
       "dated": false,
-      "seq": 123
+      "seq": 1650
     },
     "标志特征": {
       "asOf": null,
       "docId": "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
       "dated": false,
       "seq": 123
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
+      "dated": false,
+      "seq": 1650,
+      "note": "仅为王林梦幻世界中的重演，非现实事件"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch123-125-tianli-dan-huofen-invasion"
+    "plot.xianni-ch123-125-tianli-dan-huofen-invasion",
+    "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel"
   ],
-  "updatedAt": "2026-07-06T12:31:07.463Z"
+  "updatedAt": "2026-08-30T04:45:05.553Z"
 }

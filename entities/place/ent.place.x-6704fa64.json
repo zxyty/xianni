@@ -4,15 +4,18 @@
   "name": "五行星高塔",
   "aliases": [
     "五行星塔",
-    "高塔第九层"
+    "高塔第九层",
+    "三层高塔",
+    "五行星高塔第一层"
   ],
   "summary": "五行星上的多层高塔，第九层坐镇纳多与紫衣中年男子，更上数层沉睡着老祖，四长老在塔内以镜观战。",
   "attributes": {
-    "所属势力": "归一宗",
-    "类型": "守护高塔、宗门高塔、塔楼/观战据点、宗门重地、闭关坐镇之塔",
-    "规模": "至少九层以上",
+    "所属势力": "归一宗一方",
+    "类型": "守护高塔、宗门高塔、塔楼/观战据点、宗门重地、闭关坐镇之塔、高塔、塔",
+    "规模": "三层",
     "所属界面": "洞府界",
-    "上级区域": "五行星"
+    "上级区域": "五行星",
+    "守护": "第三层空玄中期老者及其护塔光圈、外层防护光圈"
   },
   "observations": {
     "所属势力": [
@@ -25,6 +28,11 @@
         "value": "归一宗",
         "docId": "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array",
         "seq": 1641
+      },
+      {
+        "value": "归一宗一方",
+        "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
+        "seq": 1650
       }
     ],
     "类型": [
@@ -52,6 +60,16 @@
         "value": "闭关坐镇之塔",
         "docId": "plot.xianni-1646-1649-wuxing-star-nine-turn-heart-wheel",
         "seq": 1646
+      },
+      {
+        "value": "高塔",
+        "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
+        "seq": 1650
+      },
+      {
+        "value": "塔",
+        "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
+        "seq": 1650
       }
     ],
     "规模": [
@@ -59,6 +77,11 @@
         "value": "至少九层以上",
         "docId": "plot.xianni-ch1730-earth-origin-wuxing-star-formation",
         "seq": 1636
+      },
+      {
+        "value": "三层",
+        "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
+        "seq": 1650
       }
     ],
     "所属界面": [
@@ -79,15 +102,27 @@
         "docId": "plot.xianni-1646-1649-wuxing-star-nine-turn-heart-wheel",
         "seq": 1646
       }
+    ],
+    "守护": [
+      {
+        "value": "第三层空玄中期老者及其护塔光圈",
+        "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
+        "seq": 1650
+      },
+      {
+        "value": "外层防护光圈",
+        "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
+        "seq": 1650
+      }
     ]
   },
   "firstSeq": 1636,
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array",
+      "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
       "dated": false,
-      "seq": 1641
+      "seq": 1650
     },
     "类型": {
       "asOf": null,
@@ -97,9 +132,9 @@
     },
     "规模": {
       "asOf": null,
-      "docId": "plot.xianni-ch1730-earth-origin-wuxing-star-formation",
+      "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
       "dated": false,
-      "seq": 1636
+      "seq": 1650
     },
     "所属界面": {
       "asOf": null,
@@ -112,6 +147,12 @@
       "docId": "plot.xianni-1646-1649-wuxing-star-nine-turn-heart-wheel",
       "dated": false,
       "seq": 1646
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
+      "dated": false,
+      "seq": 1650
     }
   },
   "contested": false,
@@ -120,7 +161,8 @@
     "plot.xianni-ch1730-earth-origin-wuxing-star-formation",
     "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array",
     "plot.xianni-ch1733-qiankun-yidi-water-origin",
-    "plot.xianni-1646-1649-wuxing-star-nine-turn-heart-wheel"
+    "plot.xianni-1646-1649-wuxing-star-nine-turn-heart-wheel",
+    "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel"
   ],
-  "updatedAt": "2026-08-30T04:26:44.446Z"
+  "updatedAt": "2026-08-30T04:45:05.503Z"
 }
