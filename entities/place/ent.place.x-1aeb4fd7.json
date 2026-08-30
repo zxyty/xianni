@@ -4,11 +4,12 @@
   "name": "仙族之地",
   "aliases": [
     "仙族占据的区域",
-    "仙罡大陆仙族疆域"
+    "仙罡大陆仙族疆域",
+    "仙族大陆"
   ],
   "summary": "对古国第三损最后一劫亦极为重视的势力所在之地。",
   "attributes": {
-    "类型": "地域",
+    "类型": "种族领地",
     "所属界面": "仙罡大陆",
     "所属势力": "仙族",
     "方位": "仙罡大陆远处"
@@ -19,6 +20,11 @@
         "value": "地域",
         "docId": "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
         "seq": 1616
+      },
+      {
+        "value": "种族领地",
+        "docId": "plot.xianni-1715-mu-si-ru-ze",
+        "seq": 1621
       }
     ],
     "所属界面": [
@@ -47,9 +53,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
+      "docId": "plot.xianni-1715-mu-si-ru-ze",
       "dated": false,
-      "seq": 1616
+      "seq": 1621
     },
     "所属界面": {
       "asOf": null,
@@ -74,7 +80,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
-    "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue"
+    "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
+    "plot.xianni-1715-mu-si-ru-ze"
   ],
-  "updatedAt": "2026-08-30T03:15:10.180Z"
+  "updatedAt": "2026-08-30T03:29:35.958Z"
 }

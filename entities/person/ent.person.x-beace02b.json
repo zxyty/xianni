@@ -9,7 +9,8 @@
   "summary": "仙罡大陆九阳尊之一，修为无上属传说中人，当年与玄罗大天尊争夺太古神境储物残片。",
   "attributes": {
     "称号": "大天尊",
-    "身份": "仙罡大陆九阳尊之一"
+    "身份": "道一宗修士",
+    "阵营": "仙族之地一方"
   },
   "observations": {
     "称号": [
@@ -24,6 +25,18 @@
         "value": "仙罡大陆九阳尊之一",
         "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
         "seq": 1601
+      },
+      {
+        "value": "道一宗修士",
+        "docId": "plot.xianni-1715-mu-si-ru-ze",
+        "seq": 1621
+      }
+    ],
+    "阵营": [
+      {
+        "value": "仙族之地一方",
+        "docId": "plot.xianni-1715-mu-si-ru-ze",
+        "seq": 1621
       }
     ]
   },
@@ -37,15 +50,22 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
+      "docId": "plot.xianni-1715-mu-si-ru-ze",
       "dated": false,
-      "seq": 1601
+      "seq": 1621
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1715-mu-si-ru-ze",
+      "dated": false,
+      "seq": 1621
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1694-fan-shanlu-dream-forbidden-ship"
+    "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
+    "plot.xianni-1715-mu-si-ru-ze"
   ],
-  "updatedAt": "2026-08-26T12:32:37.508Z"
+  "updatedAt": "2026-08-30T03:29:35.952Z"
 }
