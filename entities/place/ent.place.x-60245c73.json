@@ -5,13 +5,15 @@
   "aliases": [
     "洞府大门",
     "洞府大门之处",
-    "洞府界核心"
+    "洞府界核心",
+    "七彩仙尊洞府"
   ],
   "summary": "洞府界的核心即洞府大门所在；女子在此可凝聚更多元神，足以杀人，是其方法一的埋伏点。",
   "attributes": {
     "所属界面": "洞府界",
-    "类型": "界之核心/门户",
-    "方位": "洞府界核心"
+    "类型": "洞府/秘境核心",
+    "方位": "洞府之门内",
+    "守护": "王林新布的血丝禁制大阵"
   },
   "observations": {
     "所属界面": [
@@ -26,6 +28,11 @@
         "value": "界之核心/门户",
         "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
         "seq": 1601
+      },
+      {
+        "value": "洞府/秘境核心",
+        "docId": "plot.xianni-1752-hunting-ground-cave-mansion-door-opens",
+        "seq": 1660
       }
     ],
     "方位": [
@@ -33,6 +40,19 @@
         "value": "洞府界核心",
         "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
         "seq": 1601
+      },
+      {
+        "value": "洞府之门内",
+        "docId": "plot.xianni-1752-hunting-ground-cave-mansion-door-opens",
+        "seq": 1660
+      }
+    ],
+    "守护": [
+      {
+        "value": "王林新布的血丝禁制大阵",
+        "docId": "plot.xianni-1752-hunting-ground-cave-mansion-door-opens",
+        "seq": 1660,
+        "note": "第1752章入口附近"
       }
     ]
   },
@@ -46,21 +66,29 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+      "docId": "plot.xianni-1752-hunting-ground-cave-mansion-door-opens",
       "dated": false,
-      "seq": 1601
+      "seq": 1660
     },
     "方位": {
       "asOf": null,
-      "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+      "docId": "plot.xianni-1752-hunting-ground-cave-mansion-door-opens",
       "dated": false,
-      "seq": 1601
+      "seq": 1660
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-1752-hunting-ground-cave-mansion-door-opens",
+      "dated": false,
+      "seq": 1660,
+      "note": "第1752章入口附近"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.xianni-ch1695-qicai-three-souls-seven-po"
+    "lore.xianni-ch1695-qicai-three-souls-seven-po",
+    "plot.xianni-1752-hunting-ground-cave-mansion-door-opens"
   ],
-  "updatedAt": "2026-08-26T12:40:21.118Z"
+  "updatedAt": "2026-08-30T06:15:34.393Z"
 }

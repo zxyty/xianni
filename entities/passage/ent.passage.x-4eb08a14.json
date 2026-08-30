@@ -5,13 +5,16 @@
   "aliases": [
     "洞府门",
     "此门",
-    "通往仙罡的洞府之门"
+    "通往仙罡的洞府之门",
+    "洞府界大门"
   ],
   "summary": "通往洞府界之门；其开启并非任何人径直打开，而是画轴女子将开启之法告诉了疯子；王林疑此即银衣女子口中『不是她打开』的门。",
   "attributes": {
-    "类型": "界门",
+    "类型": "界门/通道",
     "来历": "开启方法由画轴女子告知疯子",
-    "两端": "洞府界—仙罡"
+    "两端": "洞府界星空 ↔ 洞府核心废墟",
+    "可通行境界": "唯具仙罡血脉之修可入",
+    "稳定性": "完全敞开、如永恒般漂浮于星空"
   },
   "observations": {
     "类型": [
@@ -19,6 +22,11 @@
         "value": "界门",
         "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
         "seq": 1601
+      },
+      {
+        "value": "界门/通道",
+        "docId": "plot.xianni-1752-hunting-ground-cave-mansion-door-opens",
+        "seq": 1660
       }
     ],
     "来历": [
@@ -33,6 +41,27 @@
         "value": "洞府界—仙罡",
         "docId": "plot.xianni-1655-1659-search-third-soul-qingshui-seven-po",
         "seq": 1655
+      },
+      {
+        "value": "洞府界星空 ↔ 洞府核心废墟",
+        "docId": "plot.xianni-1752-hunting-ground-cave-mansion-door-opens",
+        "seq": 1660
+      }
+    ],
+    "可通行境界": [
+      {
+        "value": "唯具仙罡血脉之修可入",
+        "docId": "plot.xianni-1752-hunting-ground-cave-mansion-door-opens",
+        "seq": 1660,
+        "note": "无血脉者唯有借魂方能进入"
+      }
+    ],
+    "稳定性": [
+      {
+        "value": "完全敞开、如永恒般漂浮于星空",
+        "docId": "plot.xianni-1752-hunting-ground-cave-mansion-door-opens",
+        "seq": 1660,
+        "note": "第1752章开启后"
       }
     ]
   },
@@ -40,9 +69,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+      "docId": "plot.xianni-1752-hunting-ground-cave-mansion-door-opens",
       "dated": false,
-      "seq": 1601
+      "seq": 1660
     },
     "来历": {
       "asOf": null,
@@ -52,16 +81,31 @@
     },
     "两端": {
       "asOf": null,
-      "docId": "plot.xianni-1655-1659-search-third-soul-qingshui-seven-po",
+      "docId": "plot.xianni-1752-hunting-ground-cave-mansion-door-opens",
       "dated": false,
-      "seq": 1655
+      "seq": 1660
+    },
+    "可通行境界": {
+      "asOf": null,
+      "docId": "plot.xianni-1752-hunting-ground-cave-mansion-door-opens",
+      "dated": false,
+      "seq": 1660,
+      "note": "无血脉者唯有借魂方能进入"
+    },
+    "稳定性": {
+      "asOf": null,
+      "docId": "plot.xianni-1752-hunting-ground-cave-mansion-door-opens",
+      "dated": false,
+      "seq": 1660,
+      "note": "第1752章开启后"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "lore.xianni-ch1695-qicai-three-souls-seven-po",
-    "plot.xianni-1655-1659-search-third-soul-qingshui-seven-po"
+    "plot.xianni-1655-1659-search-third-soul-qingshui-seven-po",
+    "plot.xianni-1752-hunting-ground-cave-mansion-door-opens"
   ],
-  "updatedAt": "2026-08-30T05:27:26.827Z"
+  "updatedAt": "2026-08-30T06:15:34.390Z"
 }
