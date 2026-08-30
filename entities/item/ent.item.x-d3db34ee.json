@@ -6,13 +6,14 @@
     "紫色鲜血",
     "第十滴鲜血",
     "九滴魂血",
-    "古祖之血"
+    "古祖之血",
+    "古祖所赐魂血"
   ],
   "summary": "紫色的古祖血，层级远超普通苍穹血；自古至今仅出现过九滴，每三滴造就古之一脉，九滴成就今日的古（吉）之三脉；王林所得为第十滴，古往今来首次。",
   "attributes": {
-    "类型": "古族血脉/魂血",
+    "类型": "至高血脉之物、血脉/魂之传承之物、古族血脉/魂血、血脉之力",
     "品阶": "远高于普通苍穹血",
-    "用途": "赋予九曲第一曲「银目」"
+    "用途": "每三滴造就古之一脉、改造魂魄成道古之魂，赋予相当于古祖之子的地位、赋予九曲第一曲「银目」、承接道古血脉、施展道古神通"
   },
   "observations": {
     "类型": [
@@ -29,6 +30,11 @@
       {
         "value": "古族血脉/魂血",
         "docId": "plot.xianni-1777-xindong-leiyin-wanglin-yinmu",
+        "seq": 1685
+      },
+      {
+        "value": "血脉之力",
+        "docId": "plot.xianni-1778-daogu-wuxian",
         "seq": 1685
       }
     ],
@@ -54,6 +60,11 @@
         "value": "赋予九曲第一曲「银目」",
         "docId": "plot.xianni-1777-xindong-leiyin-wanglin-yinmu",
         "seq": 1685
+      },
+      {
+        "value": "承接道古血脉、施展道古神通",
+        "docId": "plot.xianni-1778-daogu-wuxian",
+        "seq": 1685
       }
     ]
   },
@@ -61,9 +72,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1777-xindong-leiyin-wanglin-yinmu",
+      "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
       "dated": false,
-      "seq": 1685
+      "seq": 1616
     },
     "品阶": {
       "asOf": null,
@@ -73,9 +84,9 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-1777-xindong-leiyin-wanglin-yinmu",
+      "docId": "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
       "dated": false,
-      "seq": 1685
+      "seq": 1616
     }
   },
   "contested": false,
@@ -83,7 +94,8 @@
   "docs": [
     "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
     "plot.xianni-1711-gudao-ni-jiuzu-hunxue",
-    "plot.xianni-1777-xindong-leiyin-wanglin-yinmu"
+    "plot.xianni-1777-xindong-leiyin-wanglin-yinmu",
+    "plot.xianni-1778-daogu-wuxian"
   ],
-  "updatedAt": "2026-08-30T07:16:42.293Z"
+  "updatedAt": "2026-08-30T07:19:12.400Z"
 }
