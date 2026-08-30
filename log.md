@@ -1115,3 +1115,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T09:23:22.666Z** `ingest` plot.xianni-1810-qunlong-yique-tun-dimai — 第1810章 群龙一雀吞地脉：王林吞十六地火脉魂，杜青追至现木身 · kind=plot asOf=2026-08-30 entities=23 relations=36 src=01720-01724.p2.md
 - **2026-08-30T09:25:24.564Z** `ingest` plot.xianni-ch1811-jingxia-duqing — 第1811章 惊吓杜青——王林借力吞噬地火子脉，三大神通震慑杜青 · kind=plot asOf=2026-08-30 entities=23 relations=26 src=01720-01724.p3.md
 - **2026-08-30T09:27:40.720Z** `ingest` plot.xianni-1812-yu-wanglin-bi-benyuan — 第1812章 与王林比本源——杜青三道本源出手，王林四宗神通尽碎 · kind=plot asOf=2026-08-30 entities=25 relations=33 src=01720-01724.p4.md
+- **2026-08-30T09:29:42.433Z** `ingest` plot.xianni-1813-wang-lin-seven-origins-golden-seal-du-qing-retreat — 第1813章 太坑人了！——王林连出七道本源、亮大天尊金印吓退杜青 · kind=plot asOf=2026-08-30 entities=20 relations=23 src=01720-01724.p5.md
