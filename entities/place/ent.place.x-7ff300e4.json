@@ -8,15 +8,22 @@
   ],
   "summary": "罗天星域东部一颗寻常修真星上的山谷，谷内秋兰只在秋天盛开，深处有一间千百年前遗留的破旧屋舍，谢青在此隐居与死去。",
   "attributes": {
-    "类型": "山谷隐居地",
+    "类型": "山谷隐居地、山谷",
     "特产": "秋兰",
-    "方位": "该修真星山峦之间"
+    "方位": "该修真星山峦之间",
+    "所属界面": "洞府界",
+    "上级区域": "罗天星域"
   },
   "observations": {
     "类型": [
       {
         "value": "山谷隐居地",
         "docId": "plot.xianni-1749-kongmie-first-appearance-xieqing-death",
+        "seq": 1660
+      },
+      {
+        "value": "山谷",
+        "docId": "plot.xianni-1750-cave-mansion-core-opens",
         "seq": 1660
       }
     ],
@@ -31,6 +38,20 @@
       {
         "value": "该修真星山峦之间",
         "docId": "plot.xianni-1749-kongmie-first-appearance-xieqing-death",
+        "seq": 1660
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "洞府界",
+        "docId": "plot.xianni-1750-cave-mansion-core-opens",
+        "seq": 1660
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "罗天星域",
+        "docId": "plot.xianni-1750-cave-mansion-core-opens",
         "seq": 1660
       }
     ]
@@ -54,12 +75,25 @@
       "docId": "plot.xianni-1749-kongmie-first-appearance-xieqing-death",
       "dated": false,
       "seq": 1660
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-1750-cave-mansion-core-opens",
+      "dated": false,
+      "seq": 1660
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-1750-cave-mansion-core-opens",
+      "dated": false,
+      "seq": 1660
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1749-kongmie-first-appearance-xieqing-death"
+    "plot.xianni-1749-kongmie-first-appearance-xieqing-death",
+    "plot.xianni-1750-cave-mansion-core-opens"
   ],
-  "updatedAt": "2026-08-30T06:08:03.016Z"
+  "updatedAt": "2026-08-30T06:10:53.159Z"
 }
