@@ -2,13 +2,15 @@
   "id": "ent.artifact.x-48c74670",
   "type": "artifact",
   "name": "骨阴刀",
-  "aliases": [],
+  "aliases": [
+    "骨阴刀（掌心所生）"
+  ],
   "summary": "王林右手可自血肉间伸缩的刀，散发凌厉寒气似可冰封一切，本章一刀（配合五行真身三刀）斩碎千丈大鼓。",
   "attributes": {
     "持有者": "王林",
-    "来历": "绿袍老者所予",
-    "能力": "寒气冰封一切、斩碎内三劫大鼓",
-    "外形": "自右手血肉之间幻化伸缩"
+    "来历": "自王林右手掌心血肉中延伸生成",
+    "能力": "寒气冰封一切、斩碎内三劫大鼓、散发滔天阴气，供近身杀戮",
+    "外形": "近三丈长，比王林身子还大，惨白骨光"
   },
   "observations": {
     "持有者": [
@@ -23,6 +25,11 @@
         "value": "绿袍老者所予",
         "docId": "plot.xianni-ch1905-hun-san-jie-first-trial",
         "seq": 1815
+      },
+      {
+        "value": "自王林右手掌心血肉中延伸生成",
+        "docId": "plot.xianni-ch1910-dao-mo-zong-jie",
+        "seq": 1819
       }
     ],
     "能力": [
@@ -35,6 +42,11 @@
         "value": "斩碎内三劫大鼓",
         "docId": "plot.xianni-ch1905-hun-san-jie-first-trial",
         "seq": 1815
+      },
+      {
+        "value": "散发滔天阴气，供近身杀戮",
+        "docId": "plot.xianni-ch1910-dao-mo-zong-jie",
+        "seq": 1819
       }
     ],
     "外形": [
@@ -42,6 +54,11 @@
         "value": "自右手血肉之间幻化伸缩",
         "docId": "plot.xianni-ch1905-hun-san-jie-first-trial",
         "seq": 1815
+      },
+      {
+        "value": "近三丈长，比王林身子还大，惨白骨光",
+        "docId": "plot.xianni-ch1910-dao-mo-zong-jie",
+        "seq": 1819
       }
     ]
   },
@@ -55,9 +72,9 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch1905-hun-san-jie-first-trial",
+      "docId": "plot.xianni-ch1910-dao-mo-zong-jie",
       "dated": false,
-      "seq": 1815
+      "seq": 1819
     },
     "能力": {
       "asOf": null,
@@ -67,15 +84,16 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch1905-hun-san-jie-first-trial",
+      "docId": "plot.xianni-ch1910-dao-mo-zong-jie",
       "dated": false,
-      "seq": 1815
+      "seq": 1819
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1905-hun-san-jie-first-trial"
+    "plot.xianni-ch1905-hun-san-jie-first-trial",
+    "plot.xianni-ch1910-dao-mo-zong-jie"
   ],
-  "updatedAt": "2026-08-30T15:25:46.006Z"
+  "updatedAt": "2026-08-30T15:36:37.750Z"
 }
