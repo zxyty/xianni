@@ -1072,3 +1072,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T06:31:02.297Z** `ingest` plot.xianni-ch1759-qicai-arrival-one-realm-blade — 第1759章 七彩来临！——王林以一界之力斩出惊天一刀，撑焚界火伞遁走 · kind=plot asOf=2026-08-30 entities=16 relations=24 src=01670-01674.p1.md
 - **2026-08-30T06:33:27.743Z** `ingest` plot.xianni-ch1760-xinji-three-hundred-broken-realms-chase — 第1760章 心机！——三百残界中王林以计中计甩脱七彩道人追杀 · kind=plot asOf=2026-08-30 entities=20 relations=25 src=01670-01674.p2.md
 - **2026-08-30T06:35:40.456Z** `ingest` plot.xianni-ch1761-seven-ambush-kill — 第1761章 七伏杀——王林在黄沙修真星布下七重埋伏 · kind=plot asOf=2026-08-30 entities=19 relations=27 src=01670-01674.p3.md
+- **2026-08-30T06:38:16.537Z** `ingest` plot.xianni-ch1762-small-decisive-battle-burning-incense-lure — 第1762章 小决战：燃香引众入伏，焚界古伞封天焚敌 · kind=plot asOf=2026-08-30 entities=29 relations=34 src=01670-01674.p4.md

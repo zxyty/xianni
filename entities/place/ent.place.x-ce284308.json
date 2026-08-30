@@ -1,73 +1,69 @@
 {
-  "id": "ent.person.x-414d169a",
-  "type": "person",
-  "name": "第六妃",
+  "id": "ent.place.x-ce284308",
+  "type": "place",
+  "name": "凶兽修真星",
   "aliases": [
-    "仙尊第六妃"
+    "王林设伏的修真星",
+    "地心藏凶兽的修真星"
   ],
-  "summary": "仙尊八妃之一，即此前从王林处逃走的仙妃。",
+  "summary": "三百残界之一界内的修真星，地表遍布黄沙，地心沉睡着令七彩道人心惊的凶兽，故无人敢炼化此星；王林正因此选作决战设伏之地。",
   "attributes": {
-    "性别": "女",
-    "身份": "妃",
-    "性格": "怨毒记仇",
-    "阵营": "王林之敌"
+    "类型": "修真星",
+    "上级区域": "三百残界",
+    "危险度": "极高（地心凶兽沉睡）",
+    "守护": "地心凶兽"
   },
   "observations": {
-    "性别": [
+    "类型": [
       {
-        "value": "女",
-        "docId": "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
-        "seq": 1571
-      }
-    ],
-    "身份": [
-      {
-        "value": "七彩仙尊第六妃",
-        "docId": "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
-        "seq": 1571
-      },
-      {
-        "value": "妃",
+        "value": "修真星",
         "docId": "plot.xianni-ch1762-small-decisive-battle-burning-incense-lure",
         "seq": 1670
       }
     ],
-    "性格": [
+    "上级区域": [
       {
-        "value": "怨毒记仇",
+        "value": "三百残界",
         "docId": "plot.xianni-ch1762-small-decisive-battle-burning-incense-lure",
         "seq": 1670
       }
     ],
-    "阵营": [
+    "危险度": [
       {
-        "value": "王林之敌",
+        "value": "极高（地心凶兽沉睡）",
+        "docId": "plot.xianni-ch1762-small-decisive-battle-burning-incense-lure",
+        "seq": 1670
+      }
+    ],
+    "守护": [
+      {
+        "value": "地心凶兽",
         "docId": "plot.xianni-ch1762-small-decisive-battle-burning-incense-lure",
         "seq": 1670
       }
     ]
   },
-  "firstSeq": 1571,
+  "firstSeq": 1670,
   "attrProvenance": {
-    "性别": {
-      "asOf": null,
-      "docId": "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
-      "dated": false,
-      "seq": 1571
-    },
-    "身份": {
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-ch1762-small-decisive-battle-burning-incense-lure",
       "dated": false,
       "seq": 1670
     },
-    "性格": {
+    "上级区域": {
       "asOf": null,
       "docId": "plot.xianni-ch1762-small-decisive-battle-burning-incense-lure",
       "dated": false,
       "seq": 1670
     },
-    "阵营": {
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1762-small-decisive-battle-burning-incense-lure",
+      "dated": false,
+      "seq": 1670
+    },
+    "守护": {
       "asOf": null,
       "docId": "plot.xianni-ch1762-small-decisive-battle-burning-incense-lure",
       "dated": false,
@@ -77,8 +73,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
     "plot.xianni-ch1762-small-decisive-battle-burning-incense-lure"
   ],
-  "updatedAt": "2026-08-30T06:38:16.077Z"
+  "updatedAt": "2026-08-30T06:38:16.100Z"
 }

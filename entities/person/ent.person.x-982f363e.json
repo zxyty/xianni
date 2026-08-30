@@ -10,11 +10,12 @@
   "summary": "仙尊八妃之一，与王林有过交集，被王林放出古之墓地，未参与界内大战。",
   "attributes": {
     "性别": "女",
-    "身份": "界外仙妃",
-    "性格": "冷漠",
+    "身份": "妃",
+    "性格": "冰冷而复杂、犹豫",
     "外貌": "相貌美丽",
     "标志特征": "一身寒冰之冷，如不化之雪",
-    "阵营": "未参与界内之战"
+    "阵营": "未参与界内之战",
+    "出身地": "仙罡大陆"
   },
   "observations": {
     "性别": [
@@ -39,6 +40,11 @@
         "value": "界外仙妃",
         "docId": "plot.xianni-ch1751-ren-ju-cave-mansion-gate-gathering",
         "seq": 1660
+      },
+      {
+        "value": "妃",
+        "docId": "plot.xianni-ch1762-small-decisive-battle-burning-incense-lure",
+        "seq": 1670
       }
     ],
     "性格": [
@@ -46,6 +52,11 @@
         "value": "冷漠",
         "docId": "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
         "seq": 1571
+      },
+      {
+        "value": "冰冷而复杂、犹豫",
+        "docId": "plot.xianni-ch1762-small-decisive-battle-burning-incense-lure",
+        "seq": 1670
       }
     ],
     "外貌": [
@@ -74,6 +85,13 @@
         "seq": 1591,
         "note": "自离开古之墓地后独处等待"
       }
+    ],
+    "出身地": [
+      {
+        "value": "仙罡大陆",
+        "docId": "plot.xianni-ch1762-small-decisive-battle-burning-incense-lure",
+        "seq": 1670
+      }
     ]
   },
   "firstSeq": 1571,
@@ -86,15 +104,15 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1751-ren-ju-cave-mansion-gate-gathering",
+      "docId": "plot.xianni-ch1762-small-decisive-battle-burning-incense-lure",
       "dated": false,
-      "seq": 1660
+      "seq": 1670
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
+      "docId": "plot.xianni-ch1762-small-decisive-battle-burning-incense-lure",
       "dated": false,
-      "seq": 1571
+      "seq": 1670
     },
     "外貌": {
       "asOf": null,
@@ -114,6 +132,12 @@
       "dated": false,
       "seq": 1591,
       "note": "自离开古之墓地后独处等待"
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1762-small-decisive-battle-burning-incense-lure",
+      "dated": false,
+      "seq": 1670
     }
   },
   "contested": false,
@@ -122,7 +146,8 @@
     "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
     "plot.xianni-ch1684-immortal-dragon-manifests-dao",
     "plot.xianni-1688-get-out-ancient-immortals-invade-immortal-realm",
-    "plot.xianni-ch1751-ren-ju-cave-mansion-gate-gathering"
+    "plot.xianni-ch1751-ren-ju-cave-mansion-gate-gathering",
+    "plot.xianni-ch1762-small-decisive-battle-burning-incense-lure"
   ],
-  "updatedAt": "2026-08-30T06:13:17.382Z"
+  "updatedAt": "2026-08-30T06:38:16.075Z"
 }
