@@ -13,9 +13,11 @@
     "结局": "被封印于雕像",
     "标志特征": "气息仿若朱雀之祖",
     "外貌": "身穿红袍",
-    "存殁": "在世",
+    "存殁": "重创垂危",
     "小阶段": "空玄后期",
-    "称号": "朱雀战将"
+    "称号": "朱雀战将",
+    "阵营": "战老鬼一方",
+    "死因": "被已司之傀咬颈吸血、踏落大地"
   },
   "observations": {
     "身份": [
@@ -77,6 +79,11 @@
         "value": "在世",
         "docId": "plot.xianni-ch1644-jing-four-generals-ambush",
         "seq": 1551
+      },
+      {
+        "value": "重创垂危",
+        "docId": "plot.xianni-1777-xindong-leiyin-wanglin-yinmu",
+        "seq": 1685
       }
     ],
     "小阶段": [
@@ -92,6 +99,22 @@
         "value": "朱雀战将",
         "docId": "plot.xianni-1776-qunzhan-lao-gui",
         "seq": 1685
+      }
+    ],
+    "阵营": [
+      {
+        "value": "战老鬼一方",
+        "docId": "plot.xianni-1777-xindong-leiyin-wanglin-yinmu",
+        "seq": 1685,
+        "note": "达成协议或为形势所逼"
+      }
+    ],
+    "死因": [
+      {
+        "value": "被已司之傀咬颈吸血、踏落大地",
+        "docId": "plot.xianni-1777-xindong-leiyin-wanglin-yinmu",
+        "seq": 1685,
+        "note": "原文未明言彻底身死"
       }
     ]
   },
@@ -124,9 +147,9 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch1644-jing-four-generals-ambush",
+      "docId": "plot.xianni-1777-xindong-leiyin-wanglin-yinmu",
       "dated": false,
-      "seq": 1551
+      "seq": 1685
     },
     "小阶段": {
       "asOf": null,
@@ -140,6 +163,20 @@
       "docId": "plot.xianni-1776-qunzhan-lao-gui",
       "dated": false,
       "seq": 1685
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1777-xindong-leiyin-wanglin-yinmu",
+      "dated": false,
+      "seq": 1685,
+      "note": "达成协议或为形势所逼"
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-1777-xindong-leiyin-wanglin-yinmu",
+      "dated": false,
+      "seq": 1685,
+      "note": "原文未明言彻底身死"
     }
   },
   "contested": false,
@@ -153,7 +190,8 @@
     "plot.xianni-ch1762-small-decisive-battle-burning-incense-lure",
     "plot.xianni-ch1763-seven-ambush-strike",
     "plot.xianni-ch1765-dao-fei-xian",
-    "plot.xianni-1776-qunzhan-lao-gui"
+    "plot.xianni-1776-qunzhan-lao-gui",
+    "plot.xianni-1777-xindong-leiyin-wanglin-yinmu"
   ],
-  "updatedAt": "2026-08-30T07:13:52.873Z"
+  "updatedAt": "2026-08-30T07:16:42.278Z"
 }
