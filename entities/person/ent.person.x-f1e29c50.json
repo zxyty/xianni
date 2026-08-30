@@ -4,11 +4,15 @@
   "name": "仙祖",
   "aliases": [
     "Xian Zu",
-    "仙罡法则中诞生的仙祖"
+    "仙罡法则中诞生的仙祖",
+    "仙罡仙祖"
   ],
   "summary": "仙皇一脉所传承之祖。",
   "attributes": {
-    "身份": "仙皇一脉之祖"
+    "身份": "仙皇一脉之祖",
+    "外貌": "身着金袍、头顶高冠，仙气缭绕",
+    "标志特征": "诞生时天地出三相，其一为金天黑地",
+    "存殁": "消散于虚无"
   },
   "observations": {
     "身份": [
@@ -16,6 +20,29 @@
         "value": "仙皇一脉之祖",
         "docId": "plot.xianni-1796-stubborn-will-xianguang-continent-overview",
         "seq": 1705
+      }
+    ],
+    "外貌": [
+      {
+        "value": "身着金袍、头顶高冠，仙气缭绕",
+        "docId": "plot.xianni-1799-xiangang-third-vortex",
+        "seq": 1710,
+        "note": "模糊虚影"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "诞生时天地出三相，其一为金天黑地",
+        "docId": "plot.xianni-1799-xiangang-third-vortex",
+        "seq": 1710
+      }
+    ],
+    "存殁": [
+      {
+        "value": "消散于虚无",
+        "docId": "plot.xianni-1799-xiangang-third-vortex",
+        "seq": 1710,
+        "note": "本章仅现虚幻之影"
       }
     ]
   },
@@ -26,13 +53,34 @@
       "docId": "plot.xianni-1796-stubborn-will-xianguang-continent-overview",
       "dated": false,
       "seq": 1705
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-1799-xiangang-third-vortex",
+      "dated": false,
+      "seq": 1710,
+      "note": "模糊虚影"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-1799-xiangang-third-vortex",
+      "dated": false,
+      "seq": 1710
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1799-xiangang-third-vortex",
+      "dated": false,
+      "seq": 1710,
+      "note": "本章仅现虚幻之影"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1796-stubborn-will-xianguang-continent-overview",
-    "plot.xianni-1798-mosquito-beast-blood-drop-platform-strongest-avatar"
+    "plot.xianni-1798-mosquito-beast-blood-drop-platform-strongest-avatar",
+    "plot.xianni-1799-xiangang-third-vortex"
   ],
-  "updatedAt": "2026-08-30T08:41:13.606Z"
+  "updatedAt": "2026-08-30T08:43:34.715Z"
 }

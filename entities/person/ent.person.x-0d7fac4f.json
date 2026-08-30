@@ -10,14 +10,15 @@
     "古之祖",
     "我是古",
     "大空城巨大雕像",
-    "仙罡法则中诞生的吉祖"
+    "仙罡法则中诞生的吉祖",
+    "古国古祖"
   ],
   "summary": "冥冥中存在的古之三族先祖，古脉苍穹血一劫需获其认可并被赐下鲜血，赐血数量按认可程度分级。",
   "attributes": {
     "身份": "古之三族先祖、古国三脉之祖、古国之修心中的天、古国始祖、道古一族始祖、道古一脉至尊存在、道古一脉先祖",
-    "标志特征": "赐血1~8滴以示认可程度",
+    "标志特征": "赐血1~8滴以示认可程度、自身有九曲、银色双目为其一曲",
     "称号": "古祖／吉祖、古、古祖",
-    "外貌": "陌生容颜，散发悠悠无尽万古沧桑之气"
+    "外貌": "仅现一双银色眼睛"
   },
   "observations": {
     "身份": [
@@ -57,6 +58,16 @@
         "value": "赐血1~8滴以示认可程度",
         "docId": "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
         "seq": 1616
+      },
+      {
+        "value": "自身有九曲",
+        "docId": "plot.xianni-1799-xiangang-third-vortex",
+        "seq": 1710
+      },
+      {
+        "value": "银色双目为其一曲",
+        "docId": "plot.xianni-1799-xiangang-third-vortex",
+        "seq": 1710
       }
     ],
     "称号": [
@@ -86,6 +97,12 @@
         "value": "陌生容颜，散发悠悠无尽万古沧桑之气",
         "docId": "plot.xianni-1778-daogu-wuxian",
         "seq": 1685
+      },
+      {
+        "value": "仅现一双银色眼睛",
+        "docId": "plot.xianni-1799-xiangang-third-vortex",
+        "seq": 1710,
+        "note": "漩涡内显化"
       }
     ]
   },
@@ -111,9 +128,10 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-1778-daogu-wuxian",
+      "docId": "plot.xianni-1799-xiangang-third-vortex",
       "dated": false,
-      "seq": 1685
+      "seq": 1710,
+      "note": "漩涡内显化"
     }
   },
   "contested": false,
@@ -125,7 +143,8 @@
     "plot.xianni-1711-gudao-ni-jiuzu-hunxue",
     "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
     "plot.xianni-1778-daogu-wuxian",
-    "plot.xianni-1798-mosquito-beast-blood-drop-platform-strongest-avatar"
+    "plot.xianni-1798-mosquito-beast-blood-drop-platform-strongest-avatar",
+    "plot.xianni-1799-xiangang-third-vortex"
   ],
-  "updatedAt": "2026-08-30T08:41:13.607Z"
+  "updatedAt": "2026-08-30T08:43:34.716Z"
 }
