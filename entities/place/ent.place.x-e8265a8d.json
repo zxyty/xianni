@@ -4,15 +4,20 @@
   "name": "山海树",
   "aliases": [
     "山海之树",
-    "海底山海树"
+    "海底山海树",
+    "撑起山海的巨树",
+    "山海巨树"
   ],
   "summary": "位于山海最底部的巨树，支撑整个山海并封印山海洲；当年被仙祖封印（仙祖亦受伤），树魂已成死魂只余躯干，躯干内蕴含充沛木本源之力。",
   "attributes": {
     "所属界面": "山海洲",
-    "方位": "山海最底部",
-    "守护": "海子天尊",
-    "特产": "木本源之力",
-    "类型": "封印巨树/本源之源、灵树"
+    "方位": "山海最下方黑洞内的虚无之地",
+    "守护": "层层封印与封印所化的巨大面孔",
+    "特产": "山海树灵",
+    "类型": "封印巨树/本源之源、灵树、禁地/神树",
+    "规模": "半个山海大小",
+    "上级区域": "山海",
+    "危险度": "极高（仙祖所布层层封印，封印之力可化威严面孔镇压）"
   },
   "observations": {
     "所属界面": [
@@ -27,6 +32,11 @@
         "value": "山海最底部",
         "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
         "seq": 1834
+      },
+      {
+        "value": "山海最下方黑洞内的虚无之地",
+        "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
+        "seq": 1839
       }
     ],
     "守护": [
@@ -34,6 +44,11 @@
         "value": "海子天尊",
         "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
         "seq": 1834
+      },
+      {
+        "value": "层层封印与封印所化的巨大面孔",
+        "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
+        "seq": 1839
       }
     ],
     "特产": [
@@ -41,6 +56,11 @@
         "value": "木本源之力",
         "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
         "seq": 1834
+      },
+      {
+        "value": "山海树灵",
+        "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
+        "seq": 1839
       }
     ],
     "类型": [
@@ -53,6 +73,32 @@
         "value": "灵树",
         "docId": "plot.xianni-ch1927-tianzun-nie-di-first-palace",
         "seq": 1834
+      },
+      {
+        "value": "禁地/神树",
+        "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
+        "seq": 1839
+      }
+    ],
+    "规模": [
+      {
+        "value": "半个山海大小",
+        "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
+        "seq": 1839
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "山海",
+        "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
+        "seq": 1839
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高（仙祖所布层层封印，封印之力可化威严面孔镇压）",
+        "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
+        "seq": 1839
       }
     ]
   },
@@ -66,27 +112,45 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
+      "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
       "dated": false,
-      "seq": 1834
+      "seq": 1839
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
+      "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
       "dated": false,
-      "seq": 1834
+      "seq": 1839
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
+      "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
       "dated": false,
-      "seq": 1834
+      "seq": 1839
     },
     "类型": {
       "asOf": null,
       "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
       "dated": false,
       "seq": 1834
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
+      "dated": false,
+      "seq": 1839
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
+      "dated": false,
+      "seq": 1839
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
+      "dated": false,
+      "seq": 1839
     }
   },
   "contested": false,
@@ -94,7 +158,8 @@
   "docs": [
     "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
     "plot.xianni-ch1927-tianzun-nie-di-first-palace",
-    "plot.xianni-1928-tianzun-nie-zhi-di-chuang-si-ceng"
+    "plot.xianni-1928-tianzun-nie-zhi-di-chuang-si-ceng",
+    "plot.xianni-ch1930-fei-xiangang-zhi-ling"
   ],
-  "updatedAt": "2026-08-30T17:18:11.323Z"
+  "updatedAt": "2026-08-30T17:22:52.483Z"
 }

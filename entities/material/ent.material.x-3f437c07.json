@@ -3,19 +3,27 @@
   "type": "material",
   "name": "山海树灵",
   "aliases": [
-    "山海树之灵"
+    "山海树之灵",
+    "山海树魂所化之灵",
+    "绿色光团"
   ],
   "summary": "撑起整个山海的古树之灵，当年由仙祖封印于此，王林只需其中一部分，海子天尊虽无用亦不肯相让。",
   "attributes": {
-    "用途": "对王林有大用（未言明）",
-    "产地": "山海（山海洲）",
-    "稀有度": "仙祖亲封，极稀有"
+    "用途": "对王林有大用（未言明）、使修士诞生木本源",
+    "产地": "山海（山海洲）、山海树",
+    "稀有度": "仙祖亲封，极稀有、极稀有（仅剩七个，王林取走六个）",
+    "类型": "本源之灵"
   },
   "observations": {
     "用途": [
       {
         "value": "对王林有大用（未言明）",
         "docId": "plot.xianni-1929-haizi-tianzun-shanhai-shuling",
+        "seq": 1839
+      },
+      {
+        "value": "使修士诞生木本源",
+        "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
         "seq": 1839
       }
     ],
@@ -24,12 +32,29 @@
         "value": "山海（山海洲）",
         "docId": "plot.xianni-1929-haizi-tianzun-shanhai-shuling",
         "seq": 1839
+      },
+      {
+        "value": "山海树",
+        "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
+        "seq": 1839
       }
     ],
     "稀有度": [
       {
         "value": "仙祖亲封，极稀有",
         "docId": "plot.xianni-1929-haizi-tianzun-shanhai-shuling",
+        "seq": 1839
+      },
+      {
+        "value": "极稀有（仅剩七个，王林取走六个）",
+        "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
+        "seq": 1839
+      }
+    ],
+    "类型": [
+      {
+        "value": "本源之灵",
+        "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
         "seq": 1839
       }
     ]
@@ -53,12 +78,19 @@
       "docId": "plot.xianni-1929-haizi-tianzun-shanhai-shuling",
       "dated": false,
       "seq": 1839
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
+      "dated": false,
+      "seq": 1839
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1929-haizi-tianzun-shanhai-shuling"
+    "plot.xianni-1929-haizi-tianzun-shanhai-shuling",
+    "plot.xianni-ch1930-fei-xiangang-zhi-ling"
   ],
-  "updatedAt": "2026-08-30T17:20:20.172Z"
+  "updatedAt": "2026-08-30T17:22:52.482Z"
 }

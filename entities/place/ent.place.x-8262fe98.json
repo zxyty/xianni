@@ -23,13 +23,13 @@
   "summary": "绿魔洲的圣地，被选出的天资孩童修炼到一定程度后被送入此处侍奉绿魔，历经一次次淘汰死亡，最终获绿魔认可者至今仅九人。",
   "attributes": {
     "所属界面": "仙罡大陆",
-    "类型": "庙宇/试炼地、庙宇、庙宇/禁地、庙宇/建筑、庙宇／禁地、禁地/古庙、建筑/禁地、建筑/镇压之地、闭关之地/庙宇、庙宇/秘地、庙宇/古建筑、封印禁地/庙宇、庙宇/据点、囚禁之地、秘境／庙宇、秘境/庙宇",
-    "危险度": "深处有绿魔炉与绿魔蝎魂",
+    "类型": "庙宇/试炼地、庙宇、庙宇/禁地、庙宇/建筑、庙宇／禁地、禁地/古庙、建筑/禁地、建筑/镇压之地、闭关之地/庙宇、庙宇/秘地、庙宇/古建筑、封印禁地/庙宇、庙宇/据点、囚禁之地、秘境／庙宇、秘境/庙宇、古庙/秘境",
+    "危险度": "有封印",
     "所属势力": "绿魔洲、道魔宗、绿魔一族（绿魔蝎庙）、绿魔洲绿魔一系、绿魔一族",
     "上级区域": "天牛洲",
     "方位": "绿魔洲深处、绿魔洲中心、绿魔洲中心沼泽之上、绿魔洲最中心",
     "规模": "万丈",
-    "守护": "滔天魔气、绿魔使者（绿魔卫）、绿魔守护使者、绿袍老者一族与绿魔使者、绿袍老者（绿魔祭祀）、残余蝎魂、仙祖四道符文印记（位于底部封印之魂上）",
+    "守护": "滔天魔气、绿魔使者（绿魔卫）、绿魔守护使者、绿袍老者一族与绿魔使者、绿袍老者（绿魔祭祀）、残余蝎魂、仙祖四道符文印记（位于底部封印之魂上）、封印",
     "特产": "绿魔蝎"
   },
   "observations": {
@@ -125,6 +125,11 @@
         "value": "秘境/庙宇",
         "docId": "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master",
         "seq": 1824
+      },
+      {
+        "value": "古庙/秘境",
+        "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
+        "seq": 1839
       }
     ],
     "危险度": [
@@ -142,6 +147,11 @@
         "value": "深处有绿魔炉与绿魔蝎魂",
         "docId": "plot.xianni-1899-green-robed-elder-dies-wang-lin-devours-scorpion-soul",
         "seq": 1810
+      },
+      {
+        "value": "有封印",
+        "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
+        "seq": 1839
       }
     ],
     "所属势力": [
@@ -252,6 +262,11 @@
         "value": "仙祖四道符文印记（位于底部封印之魂上）",
         "docId": "plot.xianni-ch1907-tianni-great-gate",
         "seq": 1815
+      },
+      {
+        "value": "封印",
+        "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
+        "seq": 1839
       }
     ],
     "特产": [
@@ -278,9 +293,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-1899-green-robed-elder-dies-wang-lin-devours-scorpion-soul",
+      "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
       "dated": false,
-      "seq": 1810
+      "seq": 1839
     },
     "所属势力": {
       "asOf": null,
@@ -345,7 +360,8 @@
     "plot.xianni-ch1911-two-continent-final-battle-wang-lin-slays-two-kongjie-dazun",
     "plot.xianni-ch1913-hailong-submits-imperial-edict-arrives",
     "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master",
-    "plot.xianni-ch1916-wait-for-tianzun"
+    "plot.xianni-ch1916-wait-for-tianzun",
+    "plot.xianni-ch1930-fei-xiangang-zhi-ling"
   ],
-  "updatedAt": "2026-08-30T16:45:58.843Z"
+  "updatedAt": "2026-08-30T17:22:52.489Z"
 }

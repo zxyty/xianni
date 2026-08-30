@@ -1204,3 +1204,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T17:16:21.178Z** `ingest` plot.xianni-ch1927-tianzun-nie-di-first-palace — 第1927章 天尊涅：王林神识入天尊涅之地，初闯第一层宫殿 · kind=plot asOf=2026-08-30 entities=21 relations=28 src=01834-01838.p5.md
 - **2026-08-30T17:18:11.882Z** `ingest` plot.xianni-1928-tianzun-nie-zhi-di-chuang-si-ceng — 仙逆 第1928章 闯！！——王林连闯天尊涅之地前四层 · kind=plot asOf=2026-08-30 entities=17 relations=27 src=01839-01843.p1.md
 - **2026-08-30T17:20:20.717Z** `ingest` plot.xianni-1929-haizi-tianzun-shanhai-shuling — 第1929章 海子：王林弃闯第五宫，重披天牛魂铠强夺山海树灵 · kind=plot asOf=2026-08-30 entities=23 relations=31 src=01839-01843.p2.md
+- **2026-08-30T17:22:52.934Z** `ingest` plot.xianni-ch1930-fei-xiangang-zhi-ling — 第1930章 非仙罡之灵！——王林九十八道定身术定住海子天尊，海底取山海树灵触发仙极剑碎片封印 · kind=plot asOf=2026-08-30 entities=23 relations=32 src=01839-01843.p3.md

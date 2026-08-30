@@ -5,7 +5,8 @@
   "aliases": [
     "海子",
     "绿衣绝美女子",
-    "Haizi Tianzun"
+    "Haizi Tianzun",
+    "章鱼海兽上的绝美女子"
   ],
   "summary": "南州山海洲最强天尊，可融七十道神通于一指，据传极为接近传说中的跃天尊；三年前在山海一战中击败出动全部分身的王林，并守护着山海之底。",
   "attributes": {
@@ -13,9 +14,10 @@
     "身份": "天尊",
     "阵营": "南州·山海洲",
     "性别": "女",
-    "外貌": "绿色衣裙、长发束于脑后、明眸绝美",
+    "外貌": "绿色衣裙、长发束于脑后、明眸绝美、绝美女子",
     "标志特征": "额头五彩海星、手持碧绿色笛子",
-    "本命法宝": "碧绿色笛子"
+    "本命法宝": "碧绿色笛子",
+    "存殁": "存活"
   },
   "observations": {
     "称号": [
@@ -56,6 +58,11 @@
         "value": "绿色衣裙、长发束于脑后、明眸绝美",
         "docId": "plot.xianni-1929-haizi-tianzun-shanhai-shuling",
         "seq": 1839
+      },
+      {
+        "value": "绝美女子",
+        "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
+        "seq": 1839
       }
     ],
     "标志特征": [
@@ -74,6 +81,13 @@
       {
         "value": "碧绿色笛子",
         "docId": "plot.xianni-1929-haizi-tianzun-shanhai-shuling",
+        "seq": 1839
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
         "seq": 1839
       }
     ]
@@ -121,13 +135,20 @@
       "docId": "plot.xianni-1929-haizi-tianzun-shanhai-shuling",
       "dated": false,
       "seq": 1839
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
+      "dated": false,
+      "seq": 1839
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
-    "plot.xianni-1929-haizi-tianzun-shanhai-shuling"
+    "plot.xianni-1929-haizi-tianzun-shanhai-shuling",
+    "plot.xianni-ch1930-fei-xiangang-zhi-ling"
   ],
-  "updatedAt": "2026-08-30T17:20:20.161Z"
+  "updatedAt": "2026-08-30T17:22:52.469Z"
 }

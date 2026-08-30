@@ -3,13 +3,16 @@
   "type": "artifact",
   "name": "仙极剑",
   "aliases": [
-    "仙祖的仙极剑"
+    "仙祖的仙极剑",
+    "金色碎片"
   ],
   "summary": "当年仙祖之剑，其威被王林双目金光所蕴含，扫中蝎魂即令其颤抖。",
   "attributes": {
     "持有者": "仙祖",
-    "能力": "碎片化入目光可镇压空劫大尊",
-    "来历": "仙祖当年的法宝"
+    "能力": "融入双目后使目光具威严如剑、拥镇压之力",
+    "来历": "仙祖当年的法宝、传说仙祖与绿魔蝎一战中被蝎尾撞碎、传说仙祖失踪后自行崩溃爆开、碎片扩散至仙族领域多处",
+    "外形": "巴掌大小的金色碎片",
+    "禁制": "被山海树封印卡住，只露出一半在外"
   },
   "observations": {
     "持有者": [
@@ -29,6 +32,11 @@
         "value": "碎片化入目光可镇压空劫大尊",
         "docId": "plot.xianni-ch1911-two-continent-final-battle-wang-lin-slays-two-kongjie-dazun",
         "seq": 1819
+      },
+      {
+        "value": "融入双目后使目光具威严如剑、拥镇压之力",
+        "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
+        "seq": 1839
       }
     ],
     "来历": [
@@ -36,6 +44,31 @@
         "value": "仙祖当年的法宝",
         "docId": "plot.xianni-ch1911-two-continent-final-battle-wang-lin-slays-two-kongjie-dazun",
         "seq": 1819
+      },
+      {
+        "value": "传说仙祖与绿魔蝎一战中被蝎尾撞碎",
+        "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
+        "seq": 1839
+      },
+      {
+        "value": "传说仙祖失踪后自行崩溃爆开、碎片扩散至仙族领域多处",
+        "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
+        "seq": 1839
+      }
+    ],
+    "外形": [
+      {
+        "value": "巴掌大小的金色碎片",
+        "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
+        "seq": 1839
+      }
+    ],
+    "禁制": [
+      {
+        "value": "被山海树封印卡住，只露出一半在外",
+        "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
+        "seq": 1839,
+        "note": "第1930章山海树内那一枚"
       }
     ]
   },
@@ -49,22 +82,36 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-ch1911-two-continent-final-battle-wang-lin-slays-two-kongjie-dazun",
+      "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
       "dated": false,
-      "seq": 1819
+      "seq": 1839
     },
     "来历": {
       "asOf": null,
       "docId": "plot.xianni-ch1911-two-continent-final-battle-wang-lin-slays-two-kongjie-dazun",
       "dated": false,
       "seq": 1819
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
+      "dated": false,
+      "seq": 1839
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
+      "dated": false,
+      "seq": 1839,
+      "note": "第1930章山海树内那一枚"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1898-green-demon-scorpion-soul-devour-failed-possession",
-    "plot.xianni-ch1911-two-continent-final-battle-wang-lin-slays-two-kongjie-dazun"
+    "plot.xianni-ch1911-two-continent-final-battle-wang-lin-slays-two-kongjie-dazun",
+    "plot.xianni-ch1930-fei-xiangang-zhi-ling"
   ],
-  "updatedAt": "2026-08-30T15:39:03.652Z"
+  "updatedAt": "2026-08-30T17:22:52.479Z"
 }

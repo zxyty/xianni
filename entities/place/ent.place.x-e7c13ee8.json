@@ -14,10 +14,11 @@
   "attributes": {
     "上级区域": "南州、山海洲、仙族大地七十二洲",
     "类型": "洲、内陆海、地域、海域",
-    "守护": "海子天尊及其章鱼海兽",
+    "守护": "海子天尊、海子天尊及其章鱼海兽、海子天尊、金尊章鱼海兽",
     "特产": "山海树木本源、海底山海树、山海树、山海树灵",
     "规模": "山海占近七成、陆地三成",
-    "所属势力": "海子天尊"
+    "所属势力": "海子天尊",
+    "危险度": "海底深处重压足以挤爆寻常修士肉身"
   },
   "observations": {
     "上级区域": [
@@ -69,6 +70,11 @@
         "value": "海子天尊及其章鱼海兽",
         "docId": "plot.xianni-1929-haizi-tianzun-shanhai-shuling",
         "seq": 1839
+      },
+      {
+        "value": "海子天尊、金尊章鱼海兽",
+        "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
+        "seq": 1839
       }
     ],
     "特产": [
@@ -107,6 +113,13 @@
         "seq": 1839,
         "note": "占据为洞府"
       }
+    ],
+    "危险度": [
+      {
+        "value": "海底深处重压足以挤爆寻常修士肉身",
+        "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
+        "seq": 1839
+      }
     ]
   },
   "firstSeq": 1834,
@@ -125,9 +138,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-1929-haizi-tianzun-shanhai-shuling",
+      "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
       "dated": false,
-      "seq": 1839
+      "seq": 1834
     },
     "特产": {
       "asOf": null,
@@ -147,6 +160,12 @@
       "dated": false,
       "seq": 1839,
       "note": "占据为洞府"
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
+      "dated": false,
+      "seq": 1839
     }
   },
   "contested": false,
@@ -155,7 +174,8 @@
     "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
     "plot.xianni-ch1927-tianzun-nie-di-first-palace",
     "plot.xianni-1928-tianzun-nie-zhi-di-chuang-si-ceng",
-    "plot.xianni-1929-haizi-tianzun-shanhai-shuling"
+    "plot.xianni-1929-haizi-tianzun-shanhai-shuling",
+    "plot.xianni-ch1930-fei-xiangang-zhi-ling"
   ],
-  "updatedAt": "2026-08-30T17:20:20.180Z"
+  "updatedAt": "2026-08-30T17:22:52.484Z"
 }
