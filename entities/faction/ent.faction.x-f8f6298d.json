@@ -6,7 +6,8 @@
   "summary": "绿魔洲联合三宗之一，至宝为万净化污液，赵师妹持之。",
   "attributes": {
     "阵营": "绿魔洲",
-    "镇派之宝": "万净化污液"
+    "镇派之宝": "万净化污液",
+    "所属界面": "仙罡大陆"
   },
   "observations": {
     "阵营": [
@@ -21,6 +22,13 @@
         "value": "万净化污液",
         "docId": "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
         "seq": 1750
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "仙罡大陆",
+        "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
+        "seq": 1824
       }
     ]
   },
@@ -37,12 +45,19 @@
       "docId": "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
       "dated": false,
       "seq": 1750
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
+      "dated": false,
+      "seq": 1824
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1842-green-demon-continent-slaughter-danhai"
+    "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
+    "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong"
   ],
-  "updatedAt": "2026-08-30T11:22:49.866Z"
+  "updatedAt": "2026-08-30T16:38:43.152Z"
 }

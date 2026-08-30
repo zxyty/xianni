@@ -3,13 +3,15 @@
   "type": "faction",
   "name": "仙皇一脉",
   "aliases": [
-    "仙皇一脉传承"
+    "仙皇一脉传承",
+    "仙族皇族"
   ],
   "summary": "传承于仙祖，名义上统治仙族七十二洲各个宗派；本年皇尊出关。",
   "attributes": {
     "所属界面": "仙罡大陆",
-    "据点": "仙冥洲（仙皇都城）",
-    "理念": "名义统治仙族七十二洲各宗派"
+    "据点": "中州",
+    "理念": "诸侯放任，非大事不参与",
+    "镇派之宝": "仙祖血脉"
   },
   "observations": {
     "所属界面": [
@@ -24,6 +26,11 @@
         "value": "仙冥洲（仙皇都城）",
         "docId": "plot.xianni-1796-stubborn-will-xianguang-continent-overview",
         "seq": 1705
+      },
+      {
+        "value": "中州",
+        "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
+        "seq": 1824
       }
     ],
     "理念": [
@@ -31,6 +38,18 @@
         "value": "名义统治仙族七十二洲各宗派",
         "docId": "plot.xianni-1796-stubborn-will-xianguang-continent-overview",
         "seq": 1705
+      },
+      {
+        "value": "诸侯放任，非大事不参与",
+        "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
+        "seq": 1824
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "仙祖血脉",
+        "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
+        "seq": 1824
       }
     ]
   },
@@ -44,21 +63,28 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-1796-stubborn-will-xianguang-continent-overview",
+      "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
       "dated": false,
-      "seq": 1705
+      "seq": 1824
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.xianni-1796-stubborn-will-xianguang-continent-overview",
+      "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
       "dated": false,
-      "seq": 1705
+      "seq": 1824
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
+      "dated": false,
+      "seq": 1824
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1796-stubborn-will-xianguang-continent-overview"
+    "plot.xianni-1796-stubborn-will-xianguang-continent-overview",
+    "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong"
   ],
-  "updatedAt": "2026-08-30T08:32:00.007Z"
+  "updatedAt": "2026-08-30T16:38:43.154Z"
 }

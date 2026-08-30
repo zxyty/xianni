@@ -3,13 +3,16 @@
   "type": "place",
   "name": "道魔宗中心湖泊",
   "aliases": [
-    "道魔宗湖泊"
+    "道魔宗湖泊",
+    "道魔宗湖",
+    "海龙栖息湖泊"
   ],
   "summary": "道魔宗核心所在，湖上有岛屿，宗主闭关其中；王林察觉湖水下有隐隐游走的庞大暗影。",
   "attributes": {
     "所属势力": "道魔宗",
-    "类型": "湖泊与岛屿",
-    "方位": "道魔宗中心"
+    "类型": "湖泊",
+    "方位": "道魔宗中心",
+    "守护": "老祖海龙"
   },
   "observations": {
     "所属势力": [
@@ -24,6 +27,11 @@
         "value": "湖泊与岛屿",
         "docId": "plot.xianni-ch1912-imperial-edict-arrives",
         "seq": 1819
+      },
+      {
+        "value": "湖泊",
+        "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
+        "seq": 1824
       }
     ],
     "方位": [
@@ -31,6 +39,13 @@
         "value": "道魔宗中心",
         "docId": "plot.xianni-ch1912-imperial-edict-arrives",
         "seq": 1819
+      }
+    ],
+    "守护": [
+      {
+        "value": "老祖海龙",
+        "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
+        "seq": 1824
       }
     ]
   },
@@ -44,21 +59,28 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1912-imperial-edict-arrives",
+      "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
       "dated": false,
-      "seq": 1819
+      "seq": 1824
     },
     "方位": {
       "asOf": null,
       "docId": "plot.xianni-ch1912-imperial-edict-arrives",
       "dated": false,
       "seq": 1819
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
+      "dated": false,
+      "seq": 1824
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1912-imperial-edict-arrives"
+    "plot.xianni-ch1912-imperial-edict-arrives",
+    "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong"
   ],
-  "updatedAt": "2026-08-30T15:41:48.964Z"
+  "updatedAt": "2026-08-30T16:38:43.163Z"
 }

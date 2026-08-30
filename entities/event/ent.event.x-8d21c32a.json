@@ -3,15 +3,17 @@
   "type": "event",
   "name": "王林灭道魔宗满门",
   "aliases": [
-    "道魔宗灭门"
+    "道魔宗灭门",
+    "道魔宗覆灭"
   ],
   "summary": "王林封印道魔宗四周，逐一斩杀数十大能，并驱动封印大阵急速收缩，屠灭三万修士、夷平宗门建筑，逼视闭关不出的宗主。",
   "attributes": {
-    "章节": "第1912章",
-    "地点": "道魔宗",
+    "章节": "第1913章",
+    "地点": "绿魔洲道魔宗",
     "参与方": "王林、道魔宗",
     "经过": "封印—斩大能—阵法收缩绞杀",
-    "结果": "寸草不留，仅宗主藏于湖心岛屿"
+    "结果": "道魔宗宗门已毁、满门皆亡，仅余尚在天牛洲者",
+    "影响": "王林获数十大能元神以补速神决神脉"
   },
   "observations": {
     "章节": [
@@ -19,6 +21,11 @@
         "value": "第1912章",
         "docId": "plot.xianni-ch1912-imperial-edict-arrives",
         "seq": 1819
+      },
+      {
+        "value": "第1913章",
+        "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
+        "seq": 1824
       }
     ],
     "地点": [
@@ -26,6 +33,11 @@
         "value": "道魔宗",
         "docId": "plot.xianni-ch1912-imperial-edict-arrives",
         "seq": 1819
+      },
+      {
+        "value": "绿魔洲道魔宗",
+        "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
+        "seq": 1824
       }
     ],
     "参与方": [
@@ -52,6 +64,18 @@
         "value": "寸草不留，仅宗主藏于湖心岛屿",
         "docId": "plot.xianni-ch1912-imperial-edict-arrives",
         "seq": 1819
+      },
+      {
+        "value": "道魔宗宗门已毁、满门皆亡，仅余尚在天牛洲者",
+        "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
+        "seq": 1824
+      }
+    ],
+    "影响": [
+      {
+        "value": "王林获数十大能元神以补速神决神脉",
+        "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
+        "seq": 1824
       }
     ]
   },
@@ -59,15 +83,15 @@
   "attrProvenance": {
     "章节": {
       "asOf": null,
-      "docId": "plot.xianni-ch1912-imperial-edict-arrives",
+      "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
       "dated": false,
-      "seq": 1819
+      "seq": 1824
     },
     "地点": {
       "asOf": null,
-      "docId": "plot.xianni-ch1912-imperial-edict-arrives",
+      "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
       "dated": false,
-      "seq": 1819
+      "seq": 1824
     },
     "参与方": {
       "asOf": null,
@@ -83,15 +107,22 @@
     },
     "结果": {
       "asOf": null,
-      "docId": "plot.xianni-ch1912-imperial-edict-arrives",
+      "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
       "dated": false,
-      "seq": 1819
+      "seq": 1824
+    },
+    "影响": {
+      "asOf": null,
+      "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
+      "dated": false,
+      "seq": 1824
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1912-imperial-edict-arrives"
+    "plot.xianni-ch1912-imperial-edict-arrives",
+    "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong"
   ],
-  "updatedAt": "2026-08-30T15:41:48.979Z"
+  "updatedAt": "2026-08-30T16:38:43.177Z"
 }

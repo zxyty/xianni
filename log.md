@@ -1187,3 +1187,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T15:36:38.227Z** `ingest` plot.xianni-ch1910-dao-mo-zong-jie — 第1910章 道魔宗劫！——王林撕天破阵，血债重临 · kind=plot asOf=2026-08-30 entities=20 relations=29 src=01819-01823.p3.md
 - **2026-08-30T15:39:04.104Z** `ingest` plot.xianni-ch1911-two-continent-final-battle-wang-lin-slays-two-kongjie-dazun — 第1911章 两洲决：天牛洲最终决战与王林道魔宗内连斩空劫大尊 · kind=plot asOf=2026-08-30 entities=34 relations=40 src=01819-01823.p4.md
 - **2026-08-30T15:41:49.431Z** `ingest` plot.xianni-ch1912-imperial-edict-arrives — 第1912章 圣旨到！！——王林拳杀金尊红袍男子、灭道魔宗，仙皇圣旨降临天牛洲 · kind=plot asOf=2026-08-30 entities=34 relations=44 src=01819-01823.p5.md
+- **2026-08-30T16:38:43.666Z** `ingest` plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong — 第1913章 老祖海龙！——仙皇圣旨止战，王林逼出道魔宗守护仙兽 · kind=plot asOf=2026-08-30 entities=33 relations=46 src=01824-01828.p1.md

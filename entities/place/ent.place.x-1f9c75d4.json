@@ -3,13 +3,16 @@
   "type": "place",
   "name": "祖庙",
   "aliases": [
-    "中州祖庙"
+    "中州祖庙",
+    "皇宫祖庙"
   ],
   "summary": "位于仙族皇城中州的圣地，进入其中需要资格；云空炼丹海即为博取此资格。",
   "attributes": {
     "上级区域": "中州",
-    "类型": "圣地/庙宇",
-    "危险度": "需资格方可进入"
+    "类型": "试炼禁地",
+    "危险度": "需资格方可进入",
+    "所属界面": "仙罡大陆",
+    "所属势力": "仙皇一脉"
   },
   "observations": {
     "上级区域": [
@@ -24,6 +27,11 @@
         "value": "圣地/庙宇",
         "docId": "plot.xianni-1849-danhai-immortal-pill",
         "seq": 1760
+      },
+      {
+        "value": "试炼禁地",
+        "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
+        "seq": 1824
       }
     ],
     "危险度": [
@@ -31,6 +39,20 @@
         "value": "需资格方可进入",
         "docId": "plot.xianni-1849-danhai-immortal-pill",
         "seq": 1760
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "仙罡大陆",
+        "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
+        "seq": 1824
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "仙皇一脉",
+        "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
+        "seq": 1824
       }
     ]
   },
@@ -44,21 +66,34 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1849-danhai-immortal-pill",
+      "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
       "dated": false,
-      "seq": 1760
+      "seq": 1824
     },
     "危险度": {
       "asOf": null,
       "docId": "plot.xianni-1849-danhai-immortal-pill",
       "dated": false,
       "seq": 1760
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
+      "dated": false,
+      "seq": 1824
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
+      "dated": false,
+      "seq": 1824
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1849-danhai-immortal-pill"
+    "plot.xianni-1849-danhai-immortal-pill",
+    "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong"
   ],
-  "updatedAt": "2026-08-30T11:40:22.855Z"
+  "updatedAt": "2026-08-30T16:38:43.159Z"
 }

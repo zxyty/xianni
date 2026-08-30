@@ -5,13 +5,16 @@
   "aliases": [
     "仙皇",
     "天地初开就存在的远古仙皇",
-    "重新出关的仙皇"
+    "重新出关的仙皇",
+    "这一代仙皇",
+    "皇族仙皇"
   ],
   "summary": "远古仙域之主，天地初开便存在；在天逆引发的剧变中被那法宝重伤，闭关不问世事，至今未醒。",
   "attributes": {
-    "身份": "仙族之主",
+    "身份": "仙族至高存在",
     "存殁": "闭关未出",
-    "称号": "远古仙皇"
+    "称号": "远古仙皇",
+    "标志特征": "本身即九阳之一"
   },
   "observations": {
     "身份": [
@@ -34,6 +37,11 @@
         "value": "仙族之主",
         "docId": "plot.xianni-ch1912-imperial-edict-arrives",
         "seq": 1819
+      },
+      {
+        "value": "仙族至高存在",
+        "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
+        "seq": 1824
       }
     ],
     "存殁": [
@@ -55,15 +63,22 @@
         "docId": "plot.xianni-1415-gu-zhi-mu-di-kai",
         "seq": 1321
       }
+    ],
+    "标志特征": [
+      {
+        "value": "本身即九阳之一",
+        "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
+        "seq": 1824
+      }
     ]
   },
   "firstSeq": 1200,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1912-imperial-edict-arrives",
+      "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
       "dated": false,
-      "seq": 1819
+      "seq": 1824
     },
     "存殁": {
       "asOf": null,
@@ -77,6 +92,12 @@
       "docId": "plot.xianni-1415-gu-zhi-mu-di-kai",
       "dated": false,
       "seq": 1321
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
+      "dated": false,
+      "seq": 1824
     }
   },
   "contested": false,
@@ -86,7 +107,8 @@
     "plot.xianni-ch1300-ancient-god-altar",
     "plot.xianni-1415-gu-zhi-mu-di-kai",
     "plot.xianni-1458-ci-dao-wanglin-ponders-ancient-tomb-revives-trees",
-    "plot.xianni-ch1912-imperial-edict-arrives"
+    "plot.xianni-ch1912-imperial-edict-arrives",
+    "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong"
   ],
-  "updatedAt": "2026-08-30T15:41:48.952Z"
+  "updatedAt": "2026-08-30T16:38:43.133Z"
 }
