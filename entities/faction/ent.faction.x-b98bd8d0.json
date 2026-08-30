@@ -17,13 +17,14 @@
     "追魔宗",
     "绿魔三宗之一",
     "道魔宗山门",
-    "道魔宗势力"
+    "道魔宗势力",
+    "绿魔宗"
   ],
   "summary": "绿魔洲联合三宗之一，面白如玉的青年出自此宗，自言要展示「道魔宗的魔道」。",
   "attributes": {
-    "阵营": "绿魔洲、王林之敌、绿魔蝎复活一方、王林的死敌、王林死敌、绿魔洲一方",
+    "阵营": "绿魔洲、王林之敌、绿魔蝎复活一方、王林的死敌、王林死敌、绿魔洲一方、道一大天尊一系",
     "掌门": "道魔宗宗主",
-    "据点": "天坑（五个天坑之一，宗门修行地）、绿魔洲、绿魔洲西北部沼泽之中、以迷雾大阵护山，宗内有湖泊岛屿、以中心湖泊与岛屿为核心的宗门、绿魔洲道魔宗山门（本章已成废墟）",
+    "据点": "天坑（五个天坑之一，宗门修行地）、绿魔洲、绿魔洲西北部沼泽之中、以迷雾大阵护山，宗内有湖泊岛屿、以中心湖泊与岛屿为核心的宗门、绿魔洲道魔宗山门（本章已成废墟）、绿魔洲湖泊中的岛屿",
     "理念": "以重利招揽散修参战、道魔大手印只传历代宗主，绝不外传、以人头为‘大礼’的阴毒作风、不惜灭门代价必杀王林、道与魔并存、道魔、绿魔洲内占据最主导位置、道魔双修（宗主可化道尊、魔尊两大影尊）",
     "镇派之宝": "道魔迷雾大阵",
     "等级": "东州九宗十三门之一",
@@ -60,13 +61,19 @@
         "value": "绿魔洲一方",
         "docId": "plot.xianni-ch1912-imperial-edict-arrives",
         "seq": 1819
+      },
+      {
+        "value": "道一大天尊一系",
+        "docId": "plot.xianni-ch1916-wait-for-tianzun",
+        "seq": 1824
       }
     ],
     "掌门": [
       {
         "value": "道魔宗宗主",
         "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
-        "seq": 1770
+        "seq": 1770,
+        "note": "本章被王林吞噬身亡"
       }
     ],
     "据点": [
@@ -99,6 +106,12 @@
         "value": "绿魔洲道魔宗山门（本章已成废墟）",
         "docId": "plot.xianni-ch1913-hailong-submits-imperial-edict-arrives",
         "seq": 1824
+      },
+      {
+        "value": "绿魔洲湖泊中的岛屿",
+        "docId": "plot.xianni-ch1916-wait-for-tianzun",
+        "seq": 1824,
+        "note": "本章被王林毁为废墟"
       }
     ],
     "理念": [
@@ -205,7 +218,8 @@
       "asOf": null,
       "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
       "dated": false,
-      "seq": 1770
+      "seq": 1770,
+      "note": "本章被王林吞噬身亡"
     },
     "据点": {
       "asOf": null,
@@ -261,7 +275,8 @@
     "plot.xianni-ch1912-imperial-edict-arrives",
     "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
     "plot.xianni-ch1913-hailong-submits-imperial-edict-arrives",
-    "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master"
+    "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master",
+    "plot.xianni-ch1916-wait-for-tianzun"
   ],
-  "updatedAt": "2026-08-30T16:43:13.522Z"
+  "updatedAt": "2026-08-30T16:45:58.824Z"
 }

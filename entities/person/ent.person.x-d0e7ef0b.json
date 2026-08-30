@@ -6,7 +6,8 @@
     "道魔宗天尊老祖",
     "天尊老祖",
     "道魔宗的老祖",
-    "那位天尊老祖"
+    "那位天尊老祖",
+    "绿魔宗天尊老祖"
   ],
   "summary": "修为达天尊层次，不问世事、不尊绿魔蝎庙，一万三千年前被道一大天尊请走成为其麾下；对宗门感情稀薄，但若有人毁其道统必碍于颜面追究。",
   "attributes": {
@@ -14,7 +15,8 @@
     "小阶段": "空劫圆满",
     "身份": "道一大天尊麾下、道魔宗老祖",
     "性格": "不问世事、只修自身、对宗门感情稀薄",
-    "阵营": "道魔宗"
+    "阵营": "道一大天尊一系",
+    "外貌": "赤发老者，一脸平静而双目蕴藏怒火"
   },
   "observations": {
     "称号": [
@@ -55,6 +57,18 @@
         "value": "道魔宗",
         "docId": "plot.xianni-ch1910-dao-mo-zong-jie",
         "seq": 1819
+      },
+      {
+        "value": "道一大天尊一系",
+        "docId": "plot.xianni-ch1916-wait-for-tianzun",
+        "seq": 1824
+      }
+    ],
+    "外貌": [
+      {
+        "value": "赤发老者，一脸平静而双目蕴藏怒火",
+        "docId": "plot.xianni-ch1916-wait-for-tianzun",
+        "seq": 1824
       }
     ]
   },
@@ -86,9 +100,15 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch1910-dao-mo-zong-jie",
+      "docId": "plot.xianni-ch1916-wait-for-tianzun",
       "dated": false,
-      "seq": 1819
+      "seq": 1824
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1916-wait-for-tianzun",
+      "dated": false,
+      "seq": 1824
     }
   },
   "contested": false,
@@ -98,7 +118,8 @@
     "plot.xianni-ch1910-dao-mo-zong-jie",
     "plot.xianni-ch1912-imperial-edict-arrives",
     "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
-    "plot.xianni-ch1913-hailong-submits-imperial-edict-arrives"
+    "plot.xianni-ch1913-hailong-submits-imperial-edict-arrives",
+    "plot.xianni-ch1916-wait-for-tianzun"
   ],
-  "updatedAt": "2026-08-30T16:41:14.658Z"
+  "updatedAt": "2026-08-30T16:45:58.814Z"
 }

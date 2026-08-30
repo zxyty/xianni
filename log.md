@@ -1190,3 +1190,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T16:38:43.666Z** `ingest` plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong — 第1913章 老祖海龙！——仙皇圣旨止战，王林逼出道魔宗守护仙兽 · kind=plot asOf=2026-08-30 entities=33 relations=46 src=01824-01828.p1.md
 - **2026-08-30T16:41:15.173Z** `ingest` plot.xianni-ch1913-hailong-submits-imperial-edict-arrives — 第1913章 要逆旨？——王林信术「残夜」收服金尊海龙，仙皇圣旨临门 · kind=plot asOf=2026-08-30 entities=25 relations=40 src=01824-01828.p2.md
 - **2026-08-30T16:43:14.042Z** `ingest` plot.xianni-1915-imperial-decree-slaying-daomo-sect-master — 第1915章 眼前一黑：王林圣旨之下击杀并吞噬道魔宗宗主，仙皇旨意反令其入中州 · kind=plot asOf=2026-08-30 entities=22 relations=30 src=01824-01828.p3.md
+- **2026-08-30T16:45:59.329Z** `ingest` plot.xianni-ch1916-wait-for-tianzun — 第1916章 等天尊来！——王林灭道魔宗、皇族使者破财、连道非之谜 · kind=plot asOf=2026-08-30 entities=37 relations=47 src=01824-01828.p4.md

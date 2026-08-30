@@ -6,13 +6,17 @@
     "天空中金色的身影",
     "仙皇使者",
     "皇族使者",
-    "宣旨使者"
+    "宣旨使者",
+    "宣旨的皇族使者",
+    "天空金光中的皇族使者"
   ],
   "summary": "持仙皇圣旨降临归一宗与大魂门上空的金色身影，本身并非仙皇，但持旨即为仙皇化身，宣旨后消散。",
   "attributes": {
     "外貌": "威严的金色身影、金光笼罩中的金色身影、金光弥漫的金色身影",
-    "身份": "仙皇化身、仙皇使者／传旨者、皇族使者（宣旨使者）",
-    "存殁": "存活"
+    "身份": "仙皇化身、仙皇使者／传旨者、皇族使者（宣旨使者）、仙族皇族使者、传旨使者",
+    "存殁": "存活",
+    "性格": "见风使舵、惜财而怯势",
+    "出身地": "中州"
   },
   "observations": {
     "外貌": [
@@ -48,12 +52,31 @@
         "value": "皇族使者（宣旨使者）",
         "docId": "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master",
         "seq": 1824
+      },
+      {
+        "value": "仙族皇族使者、传旨使者",
+        "docId": "plot.xianni-ch1916-wait-for-tianzun",
+        "seq": 1824
       }
     ],
     "存殁": [
       {
         "value": "存活",
         "docId": "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master",
+        "seq": 1824
+      }
+    ],
+    "性格": [
+      {
+        "value": "见风使舵、惜财而怯势",
+        "docId": "plot.xianni-ch1916-wait-for-tianzun",
+        "seq": 1824
+      }
+    ],
+    "出身地": [
+      {
+        "value": "中州",
+        "docId": "plot.xianni-ch1916-wait-for-tianzun",
         "seq": 1824
       }
     ]
@@ -78,6 +101,18 @@
       "docId": "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master",
       "dated": false,
       "seq": 1824
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1916-wait-for-tianzun",
+      "dated": false,
+      "seq": 1824
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1916-wait-for-tianzun",
+      "dated": false,
+      "seq": 1824
     }
   },
   "contested": false,
@@ -85,7 +120,8 @@
   "docs": [
     "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
     "plot.xianni-ch1913-hailong-submits-imperial-edict-arrives",
-    "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master"
+    "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master",
+    "plot.xianni-ch1916-wait-for-tianzun"
   ],
-  "updatedAt": "2026-08-30T16:43:13.518Z"
+  "updatedAt": "2026-08-30T16:45:58.811Z"
 }

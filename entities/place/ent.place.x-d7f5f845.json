@@ -6,14 +6,16 @@
     "凡人皇城",
     "皇城",
     "修真星都城皇城",
-    "东处皇城"
+    "东处皇城",
+    "仙皇皇城"
   ],
   "summary": "朱雀星上的凡人皇城，距王林与大头童子交战处不远，城中密室供奉王氏一族先祖灵位。",
   "attributes": {
     "所属界面": "朱雀星",
     "类型": "皇城",
     "方位": "都城东处",
-    "上级区域": "修真星都城"
+    "上级区域": "中州",
+    "所属势力": "仙族"
   },
   "observations": {
     "所属界面": [
@@ -52,6 +54,18 @@
         "value": "修真星都城",
         "docId": "plot.xianni-ch1362-dunchen-lianlei-zhong-dahong-touji",
         "seq": 1275
+      },
+      {
+        "value": "中州",
+        "docId": "plot.xianni-ch1916-wait-for-tianzun",
+        "seq": 1824
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "仙族",
+        "docId": "plot.xianni-ch1916-wait-for-tianzun",
+        "seq": 1824
       }
     ]
   },
@@ -77,16 +91,23 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch1362-dunchen-lianlei-zhong-dahong-touji",
+      "docId": "plot.xianni-ch1916-wait-for-tianzun",
       "dated": false,
-      "seq": 1275
+      "seq": 1824
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1916-wait-for-tianzun",
+      "dated": false,
+      "seq": 1824
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch890-datou-tongzi-battle",
-    "plot.xianni-ch1362-dunchen-lianlei-zhong-dahong-touji"
+    "plot.xianni-ch1362-dunchen-lianlei-zhong-dahong-touji",
+    "plot.xianni-ch1916-wait-for-tianzun"
   ],
-  "updatedAt": "2026-08-25T12:39:06.024Z"
+  "updatedAt": "2026-08-30T16:45:58.835Z"
 }

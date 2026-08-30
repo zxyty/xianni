@@ -5,13 +5,17 @@
   "aliases": [
     "仙族中州",
     "仙族皇城中州",
-    "中州皇城所在之地"
+    "中州皇城所在之地",
+    "中洲",
+    "中州都城"
   ],
   "summary": "仙罡大陆仙族所在之州，皇都皇城所在地。",
   "attributes": {
     "所属界面": "仙罡大陆",
     "所属势力": "仙皇一脉",
-    "类型": "洲/域"
+    "类型": "洲/域",
+    "特产": "元石、珍贵疗伤丹药、都城房产",
+    "危险度": "龙潭虎穴（有大天尊坐镇）"
   },
   "observations": {
     "所属界面": [
@@ -60,6 +64,30 @@
         "docId": "plot.xianni-ch1895-ninth-source-earth-origin",
         "seq": 1805
       }
+    ],
+    "特产": [
+      {
+        "value": "元石",
+        "docId": "plot.xianni-ch1916-wait-for-tianzun",
+        "seq": 1824
+      },
+      {
+        "value": "珍贵疗伤丹药",
+        "docId": "plot.xianni-ch1916-wait-for-tianzun",
+        "seq": 1824
+      },
+      {
+        "value": "都城房产",
+        "docId": "plot.xianni-ch1916-wait-for-tianzun",
+        "seq": 1824
+      }
+    ],
+    "危险度": [
+      {
+        "value": "龙潭虎穴（有大天尊坐镇）",
+        "docId": "plot.xianni-ch1916-wait-for-tianzun",
+        "seq": 1824
+      }
     ]
   },
   "firstSeq": 1715,
@@ -81,6 +109,18 @@
       "docId": "plot.xianni-ch1895-ninth-source-earth-origin",
       "dated": false,
       "seq": 1805
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1916-wait-for-tianzun",
+      "dated": false,
+      "seq": 1824
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1916-wait-for-tianzun",
+      "dated": false,
+      "seq": 1824
     }
   },
   "contested": false,
@@ -91,7 +131,8 @@
     "plot.xianni-1849-danhai-immortal-pill",
     "plot.xianni-ch1893-geyou-tumou-luomo-jisi-shitan",
     "plot.xianni-ch1895-ninth-source-earth-origin",
-    "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong"
+    "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
+    "plot.xianni-ch1916-wait-for-tianzun"
   ],
-  "updatedAt": "2026-08-30T16:38:43.156Z"
+  "updatedAt": "2026-08-30T16:45:58.834Z"
 }
