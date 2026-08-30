@@ -2,10 +2,13 @@
   "id": "ent.faction.x-6cb7533b",
   "type": "faction",
   "name": "道一宗",
-  "aliases": [],
+  "aliases": [
+    "南州道一宗"
+  ],
   "summary": "道一所属宗门，位于仙罡大陆仙族之地范围，被玄罗扬言要杀其满门。",
   "attributes": {
-    "所属界面": "仙罡大陆"
+    "所属界面": "仙罡大陆",
+    "据点": "南州"
   },
   "observations": {
     "所属界面": [
@@ -13,6 +16,13 @@
         "value": "仙罡大陆",
         "docId": "plot.xianni-1715-mu-si-ru-ze",
         "seq": 1621
+      }
+    ],
+    "据点": [
+      {
+        "value": "南州",
+        "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
+        "seq": 1824
       }
     ]
   },
@@ -23,12 +33,19 @@
       "docId": "plot.xianni-1715-mu-si-ru-ze",
       "dated": false,
       "seq": 1621
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
+      "dated": false,
+      "seq": 1824
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1715-mu-si-ru-ze"
+    "plot.xianni-1715-mu-si-ru-ze",
+    "lore.xianni-1917-xianzu-five-great-tianzun"
   ],
-  "updatedAt": "2026-08-30T03:29:35.954Z"
+  "updatedAt": "2026-08-30T16:53:06.868Z"
 }

@@ -15,7 +15,9 @@
     "所属势力": "仙皇一脉",
     "类型": "洲/域",
     "特产": "元石、珍贵疗伤丹药、都城房产",
-    "危险度": "龙潭虎穴（有大天尊坐镇）"
+    "危险度": "龙潭虎穴（有大天尊坐镇）",
+    "上级区域": "七十二洲",
+    "方位": "仙族之地中部"
   },
   "observations": {
     "所属界面": [
@@ -88,6 +90,20 @@
         "docId": "plot.xianni-ch1916-wait-for-tianzun",
         "seq": 1824
       }
+    ],
+    "上级区域": [
+      {
+        "value": "七十二洲",
+        "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
+        "seq": 1824
+      }
+    ],
+    "方位": [
+      {
+        "value": "仙族之地中部",
+        "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
+        "seq": 1824
+      }
     ]
   },
   "firstSeq": 1715,
@@ -121,6 +137,18 @@
       "docId": "plot.xianni-ch1916-wait-for-tianzun",
       "dated": false,
       "seq": 1824
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
+      "dated": false,
+      "seq": 1824
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
+      "dated": false,
+      "seq": 1824
     }
   },
   "contested": false,
@@ -132,7 +160,8 @@
     "plot.xianni-ch1893-geyou-tumou-luomo-jisi-shitan",
     "plot.xianni-ch1895-ninth-source-earth-origin",
     "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
-    "plot.xianni-ch1916-wait-for-tianzun"
+    "plot.xianni-ch1916-wait-for-tianzun",
+    "lore.xianni-1917-xianzu-five-great-tianzun"
   ],
-  "updatedAt": "2026-08-30T16:45:58.834Z"
+  "updatedAt": "2026-08-30T16:53:06.874Z"
 }

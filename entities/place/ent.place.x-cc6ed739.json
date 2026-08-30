@@ -17,7 +17,8 @@
     "所属界面": "仙罡大陆",
     "规模": "近七成大地为无尽沙漠",
     "特产": "沙漠",
-    "危险度": "道魔宗弟子不便大举进入"
+    "危险度": "道魔宗弟子不便大举进入",
+    "上级区域": "仙罡大陆"
   },
   "observations": {
     "类型": [
@@ -83,6 +84,13 @@
         "seq": 1800,
         "note": "第1889章"
       }
+    ],
+    "上级区域": [
+      {
+        "value": "仙罡大陆",
+        "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
+        "seq": 1824
+      }
     ]
   },
   "firstSeq": 1795,
@@ -123,6 +131,12 @@
       "dated": false,
       "seq": 1800,
       "note": "第1889章"
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
+      "dated": false,
+      "seq": 1824
     }
   },
   "contested": false,
@@ -135,7 +149,8 @@
     "plot.xianni-ch1907-tianni-great-gate",
     "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
     "plot.xianni-ch1910-dao-mo-zong-jie",
-    "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master"
+    "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master",
+    "lore.xianni-1917-xianzu-five-great-tianzun"
   ],
-  "updatedAt": "2026-08-30T16:43:13.526Z"
+  "updatedAt": "2026-08-30T16:53:06.927Z"
 }

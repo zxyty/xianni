@@ -10,10 +10,11 @@
   ],
   "summary": "仙罡大陆九阳尊之一，修为无上属传说中人，当年与玄罗大天尊争夺太古神境储物残片。",
   "attributes": {
-    "称号": "大天尊",
+    "称号": "道一大天尊",
     "身份": "大天尊",
     "阵营": "仙族之地一方",
-    "外貌": "立于幻化太阳之内"
+    "外貌": "立于幻化太阳之内",
+    "出身地": "南州"
   },
   "observations": {
     "称号": [
@@ -21,6 +22,11 @@
         "value": "大天尊",
         "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
         "seq": 1601
+      },
+      {
+        "value": "道一大天尊",
+        "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
+        "seq": 1824
       }
     ],
     "身份": [
@@ -54,15 +60,22 @@
         "seq": 1705,
         "note": "冷目凝望"
       }
+    ],
+    "出身地": [
+      {
+        "value": "南州",
+        "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
+        "seq": 1824
+      }
     ]
   },
   "firstSeq": 1601,
   "attrProvenance": {
     "称号": {
       "asOf": null,
-      "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
+      "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
       "dated": false,
-      "seq": 1601
+      "seq": 1824
     },
     "身份": {
       "asOf": null,
@@ -82,6 +95,12 @@
       "dated": false,
       "seq": 1705,
       "note": "冷目凝望"
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
+      "dated": false,
+      "seq": 1824
     }
   },
   "contested": false,
@@ -92,7 +111,8 @@
     "plot.xianni-1797-strange-white-light-in-the-void",
     "plot.xianni-1829-tianniu-death-soul",
     "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
-    "plot.xianni-ch1916-wait-for-tianzun"
+    "plot.xianni-ch1916-wait-for-tianzun",
+    "lore.xianni-1917-xianzu-five-great-tianzun"
   ],
-  "updatedAt": "2026-08-30T16:45:58.815Z"
+  "updatedAt": "2026-08-30T16:53:06.913Z"
 }

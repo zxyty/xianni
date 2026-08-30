@@ -3,13 +3,15 @@
   "type": "realm",
   "name": "跃天尊",
   "aliases": [
-    "跃天尊层次"
+    "跃天尊层次",
+    "跃天尊修士",
+    "跃天尊程度"
   ],
   "summary": "天尊与大天尊之间的模糊境界，超越一切空劫圆满，即便大天尊麾下也极为少见；天牛洲有史仅出罗云海一人。",
   "attributes": {
-    "阶序": "天尊与大天尊之间",
-    "上一境": "虚天尊",
-    "下一境": "大天尊"
+    "阶序": "天尊与大天尊之间、高于天尊、大天尊之下第一",
+    "上一境": "大天尊",
+    "下一境": "天尊"
   },
   "observations": {
     "阶序": [
@@ -17,6 +19,16 @@
         "value": "天尊与大天尊之间",
         "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
         "seq": 1819
+      },
+      {
+        "value": "高于天尊",
+        "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
+        "seq": 1824
+      },
+      {
+        "value": "大天尊之下第一",
+        "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
+        "seq": 1824
       }
     ],
     "上一境": [
@@ -24,6 +36,11 @@
         "value": "虚天尊",
         "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
         "seq": 1819
+      },
+      {
+        "value": "大天尊",
+        "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
+        "seq": 1824
       }
     ],
     "下一境": [
@@ -31,6 +48,11 @@
         "value": "大天尊",
         "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
         "seq": 1819
+      },
+      {
+        "value": "天尊",
+        "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
+        "seq": 1824
       }
     ]
   },
@@ -44,21 +66,22 @@
     },
     "上一境": {
       "asOf": null,
-      "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
+      "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
       "dated": false,
-      "seq": 1819
+      "seq": 1824
     },
     "下一境": {
       "asOf": null,
-      "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
+      "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
       "dated": false,
-      "seq": 1819
+      "seq": 1824
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege"
+    "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
+    "lore.xianni-1917-xianzu-five-great-tianzun"
   ],
-  "updatedAt": "2026-08-30T15:34:44.994Z"
+  "updatedAt": "2026-08-30T16:53:06.932Z"
 }

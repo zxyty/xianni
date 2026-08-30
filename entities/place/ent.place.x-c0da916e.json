@@ -9,8 +9,9 @@
   "summary": "仙罡大陆仙族所在之州，行骗孩童诞生于此。",
   "attributes": {
     "所属界面": "仙罡大陆",
-    "方位": "仙罡大陆南部",
-    "所属势力": "仙族"
+    "方位": "仙族之地南部",
+    "所属势力": "仙族",
+    "上级区域": "七十二洲"
   },
   "observations": {
     "所属界面": [
@@ -25,6 +26,11 @@
         "value": "仙罡大陆南部",
         "docId": "plot.xianni-1797-strange-white-light-in-the-void",
         "seq": 1705
+      },
+      {
+        "value": "仙族之地南部",
+        "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
+        "seq": 1824
       }
     ],
     "所属势力": [
@@ -32,6 +38,13 @@
         "value": "仙族",
         "docId": "plot.xianni-1797-strange-white-light-in-the-void",
         "seq": 1705
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "七十二洲",
+        "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
+        "seq": 1824
       }
     ]
   },
@@ -45,21 +58,28 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-1797-strange-white-light-in-the-void",
+      "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
       "dated": false,
-      "seq": 1705
+      "seq": 1824
     },
     "所属势力": {
       "asOf": null,
       "docId": "plot.xianni-1797-strange-white-light-in-the-void",
       "dated": false,
       "seq": 1705
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
+      "dated": false,
+      "seq": 1824
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1797-strange-white-light-in-the-void"
+    "plot.xianni-1797-strange-white-light-in-the-void",
+    "lore.xianni-1917-xianzu-five-great-tianzun"
   ],
-  "updatedAt": "2026-08-30T08:39:02.115Z"
+  "updatedAt": "2026-08-30T16:53:06.876Z"
 }

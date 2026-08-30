@@ -2,10 +2,14 @@
   "id": "ent.place.x-f7c36da3",
   "type": "place",
   "name": "北州",
-  "aliases": [],
+  "aliases": [
+    "仙族北州"
+  ],
   "summary": "武封大天尊所在之州，云空多年前曾前往拜师问仙求道。",
   "attributes": {
-    "类型": "州域"
+    "类型": "州域",
+    "上级区域": "七十二洲",
+    "方位": "仙族之地北部"
   },
   "observations": {
     "类型": [
@@ -13,6 +17,20 @@
         "value": "州域",
         "docId": "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
         "seq": 1755
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "七十二洲",
+        "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
+        "seq": 1824
+      }
+    ],
+    "方位": [
+      {
+        "value": "仙族之地北部",
+        "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
+        "seq": 1824
       }
     ]
   },
@@ -23,12 +41,25 @@
       "docId": "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
       "dated": false,
       "seq": 1755
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
+      "dated": false,
+      "seq": 1824
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
+      "dated": false,
+      "seq": 1824
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1845-dongzhou-tianjiao-yunkong"
+    "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
+    "lore.xianni-1917-xianzu-five-great-tianzun"
   ],
-  "updatedAt": "2026-08-30T11:30:27.257Z"
+  "updatedAt": "2026-08-30T16:53:06.878Z"
 }

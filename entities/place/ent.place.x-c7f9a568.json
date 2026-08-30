@@ -7,14 +7,15 @@
     "East Continent",
     "东州地域",
     "东州之地",
-    "东州九宗十三门所在之州"
+    "东州九宗十三门所在之州",
+    "仙族东州"
   ],
   "summary": "仙罡大陆的一州，下辖包含天牛洲在内的多个内洲，有'九宗十三门'与'四大天骄'之说。",
   "attributes": {
     "所属界面": "仙罡大陆",
     "类型": "州、洲、大区域、巨大地域、州域",
-    "上级区域": "仙罡大陆",
-    "方位": "仙罡大陆东部",
+    "上级区域": "七十二洲",
+    "方位": "仙族之地东部",
     "规模": "庞大土地",
     "所属势力": "九宗十三门"
   },
@@ -58,6 +59,11 @@
         "value": "仙罡大陆",
         "docId": "plot.xianni-1801-tianniu-zhou-canglongzong-kangren",
         "seq": 1710
+      },
+      {
+        "value": "七十二洲",
+        "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
+        "seq": 1824
       }
     ],
     "方位": [
@@ -65,6 +71,11 @@
         "value": "仙罡大陆东部",
         "docId": "plot.xianni-1806-storage-space-problem",
         "seq": 1715
+      },
+      {
+        "value": "仙族之地东部",
+        "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
+        "seq": 1824
       }
     ],
     "规模": [
@@ -103,15 +114,15 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-1801-tianniu-zhou-canglongzong-kangren",
+      "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
       "dated": false,
-      "seq": 1710
+      "seq": 1824
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-1806-storage-space-problem",
+      "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
       "dated": false,
-      "seq": 1715
+      "seq": 1824
     },
     "规模": {
       "asOf": null,
@@ -139,7 +150,8 @@
     "plot.xianni-1886-compensation-rewards-from-tianniu-continent",
     "plot.xianni-1901-thunder-source-true-body-slaughter-lightning",
     "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
-    "plot.xianni-ch1910-dao-mo-zong-jie"
+    "plot.xianni-ch1910-dao-mo-zong-jie",
+    "lore.xianni-1917-xianzu-five-great-tianzun"
   ],
-  "updatedAt": "2026-08-30T15:36:37.761Z"
+  "updatedAt": "2026-08-30T16:53:06.875Z"
 }
