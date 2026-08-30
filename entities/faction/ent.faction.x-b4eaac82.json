@@ -7,13 +7,15 @@
     "黑甲长队",
     "黑甲修士",
     "十万黑甲修士",
-    "黑甲禁兵军团"
+    "黑甲禁兵军团",
+    "禁兵"
   ],
   "summary": "仙族皇族力量，仅十万人，只效忠仙皇，人人修为不凡，掌握一种祭献生命所化的恐怖杀伤力；册封大典上齐吼封九门。",
   "attributes": {
     "阵营": "仙族皇族、仙族皇宫",
     "理念": "只效忠仙皇、以杀机凝聚威压、守护皇权",
-    "据点": "九门通道与仙族皇宫广场"
+    "据点": "仙族皇宫",
+    "所属界面": "仙族"
   },
   "observations": {
     "阵营": [
@@ -45,6 +47,18 @@
         "value": "九门通道与仙族皇宫广场",
         "docId": "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
         "seq": 1883
+      },
+      {
+        "value": "仙族皇宫",
+        "docId": "plot.xianni-1888-1892-fengxue-changjie-shaju",
+        "seq": 1888
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "仙族",
+        "docId": "plot.xianni-1888-1892-fengxue-changjie-shaju",
+        "seq": 1888
       }
     ]
   },
@@ -64,15 +78,22 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
+      "docId": "plot.xianni-1888-1892-fengxue-changjie-shaju",
       "dated": false,
-      "seq": 1883
+      "seq": 1888
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-1888-1892-fengxue-changjie-shaju",
+      "dated": false,
+      "seq": 1888
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression"
+    "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
+    "plot.xianni-1888-1892-fengxue-changjie-shaju"
   ],
-  "updatedAt": "2026-08-30T20:01:03.969Z"
+  "updatedAt": "2026-08-30T20:19:15.528Z"
 }

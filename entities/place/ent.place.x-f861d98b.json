@@ -4,15 +4,17 @@
   "name": "祖城东城",
   "aliases": [
     "东城",
-    "东城长街"
+    "东城长街",
+    "长街",
+    "祖城东城长街"
   ],
   "summary": "祖城东侧城区，无边无际，店铺府邸林立仙气浓郁；王林自东门踏入并在此落脚。",
   "attributes": {
     "上级区域": "祖城",
     "方位": "祖城东部",
-    "类型": "城池",
-    "特产": "东城仙威（笼罩全城的威压）",
-    "危险度": "高（飞得太高即致命）"
+    "类型": "长街",
+    "特产": "常年风雪",
+    "危险度": "极高（被禁锢封锁的杀局之地）"
   },
   "observations": {
     "上级区域": [
@@ -39,6 +41,11 @@
         "value": "城池",
         "docId": "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
         "seq": 1883
+      },
+      {
+        "value": "长街",
+        "docId": "plot.xianni-1888-1892-fengxue-changjie-shaju",
+        "seq": 1888
       }
     ],
     "特产": [
@@ -46,6 +53,11 @@
         "value": "东城仙威（笼罩全城的威压）",
         "docId": "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
         "seq": 1883
+      },
+      {
+        "value": "常年风雪",
+        "docId": "plot.xianni-1888-1892-fengxue-changjie-shaju",
+        "seq": 1888
       }
     ],
     "危险度": [
@@ -53,6 +65,11 @@
         "value": "高（飞得太高即致命）",
         "docId": "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
         "seq": 1883
+      },
+      {
+        "value": "极高（被禁锢封锁的杀局之地）",
+        "docId": "plot.xianni-1888-1892-fengxue-changjie-shaju",
+        "seq": 1888
       }
     ]
   },
@@ -72,28 +89,29 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
+      "docId": "plot.xianni-1888-1892-fengxue-changjie-shaju",
       "dated": false,
-      "seq": 1883
+      "seq": 1888
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
+      "docId": "plot.xianni-1888-1892-fengxue-changjie-shaju",
       "dated": false,
-      "seq": 1883
+      "seq": 1888
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
+      "docId": "plot.xianni-1888-1892-fengxue-changjie-shaju",
       "dated": false,
-      "seq": 1883
+      "seq": 1888
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
-    "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression"
+    "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
+    "plot.xianni-1888-1892-fengxue-changjie-shaju"
   ],
-  "updatedAt": "2026-08-30T20:01:03.815Z"
+  "updatedAt": "2026-08-30T20:19:15.580Z"
 }

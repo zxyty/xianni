@@ -11,7 +11,8 @@
     "所属势力": "仙族皇族、仙族",
     "危险度": "存在未开启的惊天禁制",
     "类型": "皇宫",
-    "守护": "十万九门黑甲禁兵与数万殿外黑甲禁兵"
+    "守护": "十万九门黑甲禁兵与数万殿外黑甲禁兵",
+    "上级区域": "仙族祖城"
   },
   "observations": {
     "方位": [
@@ -53,6 +54,13 @@
         "docId": "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
         "seq": 1883
       }
+    ],
+    "上级区域": [
+      {
+        "value": "仙族祖城",
+        "docId": "plot.xianni-1888-1892-fengxue-changjie-shaju",
+        "seq": 1888
+      }
     ]
   },
   "firstSeq": 1883,
@@ -86,12 +94,19 @@
       "docId": "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
       "dated": false,
       "seq": 1883
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-1888-1892-fengxue-changjie-shaju",
+      "dated": false,
+      "seq": 1888
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression"
+    "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
+    "plot.xianni-1888-1892-fengxue-changjie-shaju"
   ],
-  "updatedAt": "2026-08-30T20:01:03.949Z"
+  "updatedAt": "2026-08-30T20:19:15.518Z"
 }
