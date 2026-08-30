@@ -4,14 +4,19 @@
   "name": "宋致",
   "aliases": [
     "宋致姑娘",
-    "Song Zhi"
+    "Song Zhi",
+    "姓宋此女",
+    "青衣女子宋致"
   ],
   "summary": "黑石城女子，被计部皇子选为道古皇选妃的最后一女，青衣清纯，出城时与王林目光相遇。",
   "attributes": {
     "性别": "女",
-    "外貌": "穿青色衣衫，相貌并非绝美，气质清纯",
-    "身份": "被选中随道古使团而去的选妃之女",
-    "出身地": "黑石城"
+    "外貌": "穿青色衣衫，相貌并非绝美，气质清纯、清纯如白莲，右眼下有一痣",
+    "身份": "被选中随道古使团而去的选妃之女、大天尊宋家分支远脉子弟",
+    "出身地": "黑石城",
+    "种族": "古族",
+    "标志特征": "右眼下的痣",
+    "性格": "柔和、不善拒绝"
   },
   "observations": {
     "性别": [
@@ -26,6 +31,11 @@
         "value": "穿青色衣衫，相貌并非绝美，气质清纯",
         "docId": "plot.xianni-ch2005-song-zhi-appears",
         "seq": 1914
+      },
+      {
+        "value": "清纯如白莲，右眼下有一痣",
+        "docId": "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
+        "seq": 1914
       }
     ],
     "身份": [
@@ -33,12 +43,38 @@
         "value": "被选中随道古使团而去的选妃之女",
         "docId": "plot.xianni-ch2005-song-zhi-appears",
         "seq": 1914
+      },
+      {
+        "value": "大天尊宋家分支远脉子弟",
+        "docId": "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
+        "seq": 1914
       }
     ],
     "出身地": [
       {
         "value": "黑石城",
         "docId": "plot.xianni-ch2005-song-zhi-appears",
+        "seq": 1914
+      }
+    ],
+    "种族": [
+      {
+        "value": "古族",
+        "docId": "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
+        "seq": 1914
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "右眼下的痣",
+        "docId": "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
+        "seq": 1914
+      }
+    ],
+    "性格": [
+      {
+        "value": "柔和、不善拒绝",
+        "docId": "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
         "seq": 1914
       }
     ]
@@ -68,12 +104,31 @@
       "docId": "plot.xianni-ch2005-song-zhi-appears",
       "dated": false,
       "seq": 1914
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
+      "dated": false,
+      "seq": 1914
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
+      "dated": false,
+      "seq": 1914
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
+      "dated": false,
+      "seq": 1914
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch2005-song-zhi-appears"
+    "plot.xianni-ch2005-song-zhi-appears",
+    "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun"
   ],
-  "updatedAt": "2026-08-30T23:49:43.277Z"
+  "updatedAt": "2026-08-30T23:52:14.330Z"
 }

@@ -2,12 +2,14 @@
   "id": "ent.faction.x-7435b37a",
   "type": "faction",
   "name": "始古一脉",
-  "aliases": [],
+  "aliases": [
+    "始古皇室"
+  ],
   "summary": "古族一脉，本章王林明言不去。",
   "attributes": {
     "阵营": "古族",
-    "理念": "皇权至高无上",
-    "据点": "始古之国"
+    "理念": "皇权至高无上、皇权至上",
+    "据点": "始古之国、十二郡"
   },
   "observations": {
     "阵营": [
@@ -22,12 +24,22 @@
         "value": "皇权至高无上",
         "docId": "plot.xianni-ch2005-song-zhi-appears",
         "seq": 1914
+      },
+      {
+        "value": "皇权至上",
+        "docId": "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
+        "seq": 1914
       }
     ],
     "据点": [
       {
         "value": "始古之国",
         "docId": "plot.xianni-ch2005-song-zhi-appears",
+        "seq": 1914
+      },
+      {
+        "value": "十二郡",
+        "docId": "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
         "seq": 1914
       }
     ]
@@ -57,7 +69,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-2002-lu-wanglin-haishang-tiaoxi-fu-guzu",
-    "plot.xianni-ch2005-song-zhi-appears"
+    "plot.xianni-ch2005-song-zhi-appears",
+    "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun"
   ],
-  "updatedAt": "2026-08-30T23:49:43.291Z"
+  "updatedAt": "2026-08-30T23:52:14.346Z"
 }

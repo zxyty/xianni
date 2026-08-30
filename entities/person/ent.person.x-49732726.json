@@ -5,13 +5,18 @@
   "aliases": [
     "计都",
     "皇袍青年",
-    "皇子"
+    "皇子",
+    "始古皇子计都",
+    "皇子殿下"
   ],
   "summary": "道古皇族皇子，与道古使团一同将至黑石城，黑石城为此清空四门、封城三日。",
   "attributes": {
-    "身份": "道古一脉皇子、道古一脉皇子、道古使团随行者",
-    "阵营": "道古、道古一脉",
-    "外貌": "身穿皇袍、长发飘摇，相貌寻常却气质莫测"
+    "身份": "道古一脉皇子、道古一脉皇子、道古使团随行者、始古一脉皇子",
+    "阵营": "道古、道古一脉、始古一脉",
+    "外貌": "身穿皇袍、长发飘摇，相貌寻常却气质莫测",
+    "性别": "男",
+    "种族": "古族",
+    "性格": "机敏、能屈能伸"
   },
   "observations": {
     "身份": [
@@ -23,6 +28,11 @@
       {
         "value": "道古一脉皇子、道古使团随行者",
         "docId": "plot.xianni-ch2004-jidu-huangzi-heishicheng",
+        "seq": 1914
+      },
+      {
+        "value": "始古一脉皇子",
+        "docId": "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
         "seq": 1914
       }
     ],
@@ -36,12 +46,38 @@
         "value": "道古一脉",
         "docId": "plot.xianni-ch2004-jidu-huangzi-heishicheng",
         "seq": 1914
+      },
+      {
+        "value": "始古一脉",
+        "docId": "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
+        "seq": 1914
       }
     ],
     "外貌": [
       {
         "value": "身穿皇袍、长发飘摇，相貌寻常却气质莫测",
         "docId": "plot.xianni-ch2004-jidu-huangzi-heishicheng",
+        "seq": 1914
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
+        "seq": 1914
+      }
+    ],
+    "种族": [
+      {
+        "value": "古族",
+        "docId": "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
+        "seq": 1914
+      }
+    ],
+    "性格": [
+      {
+        "value": "机敏、能屈能伸",
+        "docId": "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
         "seq": 1914
       }
     ]
@@ -65,13 +101,32 @@
       "docId": "plot.xianni-ch2004-jidu-huangzi-heishicheng",
       "dated": false,
       "seq": 1914
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
+      "dated": false,
+      "seq": 1914
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
+      "dated": false,
+      "seq": 1914
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
+      "dated": false,
+      "seq": 1914
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-2003-daogu-mission-black-stone-city",
-    "plot.xianni-ch2004-jidu-huangzi-heishicheng"
+    "plot.xianni-ch2004-jidu-huangzi-heishicheng",
+    "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun"
   ],
-  "updatedAt": "2026-08-30T23:47:29.241Z"
+  "updatedAt": "2026-08-30T23:52:14.327Z"
 }

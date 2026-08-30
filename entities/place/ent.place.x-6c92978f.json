@@ -4,15 +4,17 @@
   "name": "黑石城",
   "aliases": [
     "Black Stone City",
-    "黑石城池"
+    "黑石城池",
+    "黑石城外"
   ],
   "summary": "始古一脉木桑郡边缘、靠近大海的城池，通体黑色巨石构成，粗糙而具霸意；本章为迎道古使团封城三日。",
   "attributes": {
     "所属势力": "始古、道古一脉／吉族、始古一脉",
     "上级区域": "木桑郡",
-    "方位": "木桑郡边缘，靠近大海",
+    "方位": "木桑郡边缘，靠近大海、接近苍茫大海、与仙族相隔",
     "类型": "城池",
-    "守护": "近百名皮甲大汉与七八名五六星守城者、梁云、孔司、孟洛"
+    "守护": "近百名皮甲大汉与七八名五六星守城者、梁云、孔司、孟洛",
+    "特产": "宋家分支望族"
   },
   "observations": {
     "所属势力": [
@@ -44,6 +46,11 @@
         "value": "木桑郡边缘，靠近大海",
         "docId": "plot.xianni-2003-daogu-mission-black-stone-city",
         "seq": 1914
+      },
+      {
+        "value": "接近苍茫大海、与仙族相隔",
+        "docId": "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
+        "seq": 1914
       }
     ],
     "类型": [
@@ -72,6 +79,13 @@
       {
         "value": "孟洛",
         "docId": "plot.xianni-ch2004-jidu-huangzi-heishicheng",
+        "seq": 1914
+      }
+    ],
+    "特产": [
+      {
+        "value": "宋家分支望族",
+        "docId": "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
         "seq": 1914
       }
     ]
@@ -107,6 +121,12 @@
       "docId": "plot.xianni-2003-daogu-mission-black-stone-city",
       "dated": false,
       "seq": 1914
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
+      "dated": false,
+      "seq": 1914
     }
   },
   "contested": false,
@@ -114,7 +134,8 @@
   "docs": [
     "plot.xianni-2003-daogu-mission-black-stone-city",
     "plot.xianni-ch2004-jidu-huangzi-heishicheng",
-    "plot.xianni-ch2005-song-zhi-appears"
+    "plot.xianni-ch2005-song-zhi-appears",
+    "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun"
   ],
-  "updatedAt": "2026-08-30T23:49:43.288Z"
+  "updatedAt": "2026-08-30T23:52:14.342Z"
 }

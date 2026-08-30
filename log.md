@@ -1240,3 +1240,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T23:45:25.472Z** `ingest` plot.xianni-2003-daogu-mission-black-stone-city — 第2003章 道古使团——王林入古族，九星现身称神圣 · kind=plot asOf=2026-08-30 entities=27 relations=40 src=01914-01918.p2.md
 - **2026-08-30T23:47:29.793Z** `ingest` plot.xianni-ch2004-jidu-huangzi-heishicheng — 第2004章 计都皇子：黑石城外初遇道古使团 · kind=plot asOf=2026-08-30 entities=18 relations=31 src=01914-01918.p3.md
 - **2026-08-30T23:49:43.814Z** `ingest` plot.xianni-ch2005-song-zhi-appears — 第2005章 有女，宋致：王林震慑古妖古魔，与宋致目光相遇 · kind=plot asOf=2026-08-30 entities=26 relations=32 src=01914-01918.p4.md
+- **2026-08-30T23:52:14.907Z** `ingest` plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun — 第2006章 一叶遮目：宋致被道古使团带走，计都皇子拜见「白发跃天尊」 · kind=plot asOf=2026-08-30 entities=29 relations=40 src=01914-01918.p5.md
