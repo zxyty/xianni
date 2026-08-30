@@ -6,15 +6,18 @@
     "Xin Shu",
     "Belief Art",
     "大天尊之信术",
-    "大天尊信术"
+    "大天尊信术",
+    "信念之术",
+    "信念之力"
   ],
   "summary": "超越法术与道术的最强神通类别，对应「信念」；无传承亦不可传承，古往今来唯九个大天尊掌握，每一个信术皆为大天尊自创。",
   "attributes": {
     "品阶": "神通三层次之最高（法术<道术<信术）",
     "出处": "大天尊自创，无传承",
-    "效果": "以自身经历与执着所化的信念驱动，可无中生有、使法术实质化、无中生有、凝固成形",
+    "效果": "以自身经历与执着所化的信念驱动，可无中生有、使法术实质化、无中生有、凝固成形、笼罩八方的信念之力、令对手生出错觉与臣服之念、带来死亡印象与剧痛",
     "修炼条件": "意志蜕变为绝不回头的信念",
-    "适用境界": "传言唯大天尊方可施展"
+    "适用境界": "传言唯大天尊方可施展",
+    "外显异象": "黑夜大海中升起骄阳"
   },
   "observations": {
     "品阶": [
@@ -46,6 +49,21 @@
         "value": "凝固成形",
         "docId": "plot.xianni-1906-void-tribulation-destroy-xuan-jie",
         "seq": 1815
+      },
+      {
+        "value": "笼罩八方的信念之力",
+        "docId": "plot.xianni-ch1913-hailong-submits-imperial-edict-arrives",
+        "seq": 1824
+      },
+      {
+        "value": "令对手生出错觉与臣服之念",
+        "docId": "plot.xianni-ch1913-hailong-submits-imperial-edict-arrives",
+        "seq": 1824
+      },
+      {
+        "value": "带来死亡印象与剧痛",
+        "docId": "plot.xianni-ch1913-hailong-submits-imperial-edict-arrives",
+        "seq": 1824
       }
     ],
     "修炼条件": [
@@ -65,6 +83,13 @@
         "value": "传言唯大天尊方可施展",
         "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
         "seq": 1790
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "黑夜大海中升起骄阳",
+        "docId": "plot.xianni-ch1913-hailong-submits-imperial-edict-arrives",
+        "seq": 1824
       }
     ]
   },
@@ -99,6 +124,12 @@
       "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
       "dated": false,
       "seq": 1790
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1913-hailong-submits-imperial-edict-arrives",
+      "dated": false,
+      "seq": 1824
     }
   },
   "contested": false,
@@ -106,7 +137,8 @@
   "docs": [
     "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
     "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
-    "plot.xianni-1906-void-tribulation-destroy-xuan-jie"
+    "plot.xianni-1906-void-tribulation-destroy-xuan-jie",
+    "plot.xianni-ch1913-hailong-submits-imperial-edict-arrives"
   ],
-  "updatedAt": "2026-08-30T15:28:04.630Z"
+  "updatedAt": "2026-08-30T16:41:14.668Z"
 }
