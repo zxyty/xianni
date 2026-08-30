@@ -1055,3 +1055,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T04:10:56.778Z** `ingest` plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin — 第1732章 原来他叫王林！——破五行火阵、五仙水将折戟、玄罗大天尊记住王林之名 · kind=plot asOf=2026-08-30 entities=24 relations=33 src=01641-01645.p2.md
 - **2026-08-30T04:13:43.762Z** `ingest` plot.xianni-ch1733-qiankun-yidi-water-origin — 第1733章 乾坤一滴！——水将全力施展，王林反借水本源悟道 · kind=plot asOf=2026-08-30 entities=23 relations=32 src=01641-01645.p3.md
 - **2026-08-30T04:15:49.324Z** `ingest` plot.xianni-ch1734-water-source-comprehension-repay-grace — 第1734章 如此大恩！！——王林于乾坤一滴中悟透水本源三亿八千万变化 · kind=plot asOf=2026-08-30 entities=20 relations=31 src=01641-01645.p4.md
+- **2026-08-30T04:17:56.935Z** `ingest` plot.xianni-ch1735-shui-jiang-xie-jia-bu-ta-bi-duan — 第1735章 步踏臂断——王林得水本源之种、为水将卸甲、一脚踏断漩涡枯手 · kind=plot asOf=2026-08-30 entities=17 relations=26 src=01641-01645.p5.md

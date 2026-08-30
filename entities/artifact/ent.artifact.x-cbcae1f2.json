@@ -4,14 +4,17 @@
   "name": "先祖战甲",
   "aliases": [
     "水蓝色铠甲",
-    "水属先祖战甲"
+    "水属先祖战甲",
+    "水将卸下之甲"
   ],
   "summary": "藏于高塔第十层的水蓝色铠甲，可应召凝聚于身，散出阵阵水浪波纹。",
   "attributes": {
-    "持有者": "披先祖战甲的中年男子",
+    "持有者": "披先祖战甲的中年男子、王林",
     "五行属性": "水",
-    "外形": "水蓝色铠甲，散出水浪波纹",
-    "来历": "五行星/归一宗先祖遗留"
+    "外形": "水蓝色铠甲，散出水浪波纹、水蓝色光芒、形如端坐之人、遍布细密裂缝",
+    "来历": "五行星/归一宗先祖遗留",
+    "能力": "蕴含第三步土/水本源级战力（激发后反噬持有者）、以持有者为养分成长",
+    "禁制": "与持有者魂、神、身以血色细线融合，虚弱时会吸尽其生机"
   },
   "observations": {
     "持有者": [
@@ -19,6 +22,12 @@
         "value": "披先祖战甲的中年男子",
         "docId": "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array",
         "seq": 1641
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch1735-shui-jiang-xie-jia-bu-ta-bi-duan",
+        "seq": 1641,
+        "note": "第1735章自水将处卸下并收走"
       }
     ],
     "五行属性": [
@@ -33,12 +42,36 @@
         "value": "水蓝色铠甲，散出水浪波纹",
         "docId": "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array",
         "seq": 1641
+      },
+      {
+        "value": "水蓝色光芒、形如端坐之人、遍布细密裂缝",
+        "docId": "plot.xianni-ch1735-shui-jiang-xie-jia-bu-ta-bi-duan",
+        "seq": 1641
       }
     ],
     "来历": [
       {
         "value": "五行星/归一宗先祖遗留",
         "docId": "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array",
+        "seq": 1641
+      }
+    ],
+    "能力": [
+      {
+        "value": "蕴含第三步土/水本源级战力（激发后反噬持有者）",
+        "docId": "plot.xianni-ch1735-shui-jiang-xie-jia-bu-ta-bi-duan",
+        "seq": 1641
+      },
+      {
+        "value": "以持有者为养分成长",
+        "docId": "plot.xianni-ch1735-shui-jiang-xie-jia-bu-ta-bi-duan",
+        "seq": 1641
+      }
+    ],
+    "禁制": [
+      {
+        "value": "与持有者魂、神、身以血色细线融合，虚弱时会吸尽其生机",
+        "docId": "plot.xianni-ch1735-shui-jiang-xie-jia-bu-ta-bi-duan",
         "seq": 1641
       }
     ]
@@ -68,12 +101,25 @@
       "docId": "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array",
       "dated": false,
       "seq": 1641
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1735-shui-jiang-xie-jia-bu-ta-bi-duan",
+      "dated": false,
+      "seq": 1641
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1735-shui-jiang-xie-jia-bu-ta-bi-duan",
+      "dated": false,
+      "seq": 1641
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array"
+    "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array",
+    "plot.xianni-ch1735-shui-jiang-xie-jia-bu-ta-bi-duan"
   ],
-  "updatedAt": "2026-08-30T04:08:31.424Z"
+  "updatedAt": "2026-08-30T04:17:56.487Z"
 }
