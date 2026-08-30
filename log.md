@@ -1045,3 +1045,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T03:46:20.805Z** `ingest` plot.xianni-1722-tianyunzi-true-identity-reincarnation-memories — 第1722章 他的身份！！——天运子九十七次吞噬觉醒的轮回真相 · kind=plot asOf=2026-08-30 entities=21 relations=31 src=01631-01635.p2.md
 - **2026-08-30T03:48:49.799Z** `ingest` plot.xianni-ch1723-tiandao-tianyunzi-first-awakening — 第1723章 天道！——天运子即天道，半个逆罗盘的第一次觉醒 · kind=plot asOf=2026-08-30 entities=23 relations=32 src=01631-01635.p3.md
 - **2026-08-30T03:51:09.666Z** `ingest` plot.xianni-ch1724-tianyunzi-benzun — 第1724章 天运本尊！——王林撕裂星空夺半罗盘，天运子第九十九次觉醒 · kind=plot asOf=2026-08-30 entities=21 relations=31 src=01631-01635.p4.md
+- **2026-08-30T03:52:59.258Z** `ingest` plot.xianni-1725-tianyunzi-destroyed-youmingshou-complete — 第1725章 逐鹿的资格——王林三言灭天运子，幽冥兽吞魂归一 · kind=plot asOf=2026-08-30 entities=14 relations=22 src=01631-01635.p5.md
