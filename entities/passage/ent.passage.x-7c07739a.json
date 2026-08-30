@@ -4,13 +4,18 @@
   "name": "天幕窟窿",
   "aliases": [
     "天幕破洞",
-    "被撞破的天幕"
+    "被撞破的天幕",
+    "天空的巨大窟窿",
+    "禁宫天幕窟窿",
+    "天幕的窟窿"
   ],
   "summary": "赤魂子撞击天幕后崩出的巨大窟窿，成为其冲出此界的通道。",
   "attributes": {
-    "类型": "撞击崩出的破口",
-    "两端": "杀劫之地内 ↔ 天幕之外",
-    "来历": "赤魂子出世后狠撞天幕所致"
+    "类型": "撞击崩出的破口、空间窟窿/通道、破口通道",
+    "两端": "杀劫之地内 ↔ 天幕之外、祖城禁宫 — 血池祭坛所在之地、皇宫地宫 ↔ 禁宫",
+    "来历": "赤魂子出世后狠撞天幕所致",
+    "坐标": "禁宫正上方天幕",
+    "守护": "无"
   },
   "observations": {
     "类型": [
@@ -18,6 +23,16 @@
         "value": "撞击崩出的破口",
         "docId": "plot.xianni-ch1586-jing-zhong-lao-yue-xian-gu-fen",
         "seq": 1496
+      },
+      {
+        "value": "空间窟窿/通道",
+        "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
+        "seq": 1898
+      },
+      {
+        "value": "破口通道",
+        "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
+        "seq": 1898
       }
     ],
     "两端": [
@@ -25,6 +40,16 @@
         "value": "杀劫之地内 ↔ 天幕之外",
         "docId": "plot.xianni-ch1586-jing-zhong-lao-yue-xian-gu-fen",
         "seq": 1496
+      },
+      {
+        "value": "祖城禁宫 — 血池祭坛所在之地",
+        "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
+        "seq": 1898
+      },
+      {
+        "value": "皇宫地宫 ↔ 禁宫",
+        "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
+        "seq": 1898
       }
     ],
     "来历": [
@@ -32,6 +57,20 @@
         "value": "赤魂子出世后狠撞天幕所致",
         "docId": "plot.xianni-ch1586-jing-zhong-lao-yue-xian-gu-fen",
         "seq": 1496
+      }
+    ],
+    "坐标": [
+      {
+        "value": "禁宫正上方天幕",
+        "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
+        "seq": 1898
+      }
+    ],
+    "守护": [
+      {
+        "value": "无",
+        "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
+        "seq": 1898
       }
     ]
   },
@@ -54,12 +93,25 @@
       "docId": "plot.xianni-ch1586-jing-zhong-lao-yue-xian-gu-fen",
       "dated": false,
       "seq": 1496
+    },
+    "坐标": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
+      "dated": false,
+      "seq": 1898
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
+      "dated": false,
+      "seq": 1898
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1586-jing-zhong-lao-yue-xian-gu-fen"
+    "plot.xianni-ch1586-jing-zhong-lao-yue-xian-gu-fen",
+    "plot.xianni-ch1898-1903-immortal-skull-mountain"
   ],
-  "updatedAt": "2026-08-26T05:44:44.331Z"
+  "updatedAt": "2026-08-30T21:20:08.947Z"
 }

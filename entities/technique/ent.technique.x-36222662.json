@@ -4,13 +4,15 @@
   "name": "返祖",
   "aliases": [
     "返祖之术",
-    "返祖血脉之术"
+    "返祖血脉之术",
+    "返祖之身",
+    "返祖之法"
   ],
   "summary": "仙族血脉逆返之术，可令修者拥有仙祖血脉；即便仙祖嫡系的仙皇一脉也从未有人修成，成败取决于心中恨怨是否足够。",
   "attributes": {
-    "出处": "仙皇一脉/中州皇城地底地宫",
+    "出处": "仙族",
     "效果": "获得仙祖血脉",
-    "修炼条件": "于地宫黑池中承受痛苦，心中恨怨足够",
+    "修炼条件": "需以特定‘返祖之身’为主体（道非）",
     "品阶": "从未有人修成"
   },
   "observations": {
@@ -19,6 +21,11 @@
         "value": "仙皇一脉/中州皇城地底地宫",
         "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
         "seq": 1878
+      },
+      {
+        "value": "仙族",
+        "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
+        "seq": 1898
       }
     ],
     "效果": [
@@ -33,6 +40,12 @@
         "value": "于地宫黑池中承受痛苦，心中恨怨足够",
         "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
         "seq": 1878
+      },
+      {
+        "value": "需以特定‘返祖之身’为主体（道非）",
+        "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
+        "seq": 1898,
+        "note": "仙皇自陈"
       }
     ],
     "品阶": [
@@ -48,9 +61,9 @@
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+      "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
       "dated": false,
-      "seq": 1878
+      "seq": 1898
     },
     "效果": {
       "asOf": null,
@@ -60,9 +73,10 @@
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+      "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
       "dated": false,
-      "seq": 1878
+      "seq": 1898,
+      "note": "仙皇自陈"
     },
     "品阶": {
       "asOf": null,
@@ -75,7 +89,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun"
+    "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+    "plot.xianni-ch1898-1903-immortal-skull-mountain"
   ],
-  "updatedAt": "2026-08-30T19:41:43.055Z"
+  "updatedAt": "2026-08-30T21:20:08.943Z"
 }

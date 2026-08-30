@@ -7,16 +7,18 @@
     "血池",
     "Huanyue Pool",
     "血红色水池",
-    "返祖血池"
+    "返祖血池",
+    "水池",
+    "结冰的池水"
   ],
   "summary": "千幻星南部幻家范围内的深潭，潭水被幻家老祖取走仅余深坑，是幻家举行换血仪式之地。",
   "attributes": {
     "所属界面": "仙罡大陆",
     "所属势力": "幻家",
-    "类型": "仪式法池",
+    "类型": "池",
     "方位": "祭坛正前方",
     "规模": "方圆数十里内外一片安静",
-    "上级区域": "祖城皇宫地宫"
+    "上级区域": "地宫"
   },
   "observations": {
     "所属界面": [
@@ -48,6 +50,11 @@
         "value": "仪式法池",
         "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
         "seq": 1893
+      },
+      {
+        "value": "池",
+        "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
+        "seq": 1898
       }
     ],
     "方位": [
@@ -74,6 +81,11 @@
         "value": "祖城皇宫地宫",
         "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
         "seq": 1893
+      },
+      {
+        "value": "地宫",
+        "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
+        "seq": 1898
       }
     ]
   },
@@ -93,9 +105,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+      "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
       "dated": false,
-      "seq": 1893
+      "seq": 1898
     },
     "方位": {
       "asOf": null,
@@ -111,16 +123,17 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+      "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
       "dated": false,
-      "seq": 1893
+      "seq": 1898
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch676-huanmei-blood-change",
-    "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken"
+    "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+    "plot.xianni-ch1898-1903-immortal-skull-mountain"
   ],
-  "updatedAt": "2026-08-30T20:38:14.294Z"
+  "updatedAt": "2026-08-30T21:20:08.768Z"
 }

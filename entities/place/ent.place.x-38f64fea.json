@@ -3,14 +3,16 @@
   "type": "place",
   "name": "祖城皇宫地宫",
   "aliases": [
-    "皇宫地宫"
+    "皇宫地宫",
+    "仙族皇宫地宫"
   ],
   "summary": "仙祖当年请国师之族布置皇宫时开辟的隐秘空间，其内构筑与皇宫建筑一一关联；内有山形祭坛（即皇宫之殿）、血池与九柱九链。",
   "attributes": {
     "所属界面": "仙罡大陆",
-    "类型": "秘境／禁地",
+    "类型": "秘境／禁地、地宫、地下宫殿",
     "上级区域": "祖城皇宫",
-    "方位": "皇宫之下"
+    "方位": "皇宫之下",
+    "所属势力": "仙族"
   },
   "observations": {
     "所属界面": [
@@ -25,6 +27,16 @@
         "value": "秘境／禁地",
         "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
         "seq": 1893
+      },
+      {
+        "value": "地宫",
+        "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
+        "seq": 1898
+      },
+      {
+        "value": "地下宫殿",
+        "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
+        "seq": 1898
       }
     ],
     "上级区域": [
@@ -39,6 +51,13 @@
         "value": "皇宫之下",
         "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
         "seq": 1893
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "仙族",
+        "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
+        "seq": 1898
       }
     ]
   },
@@ -67,12 +86,19 @@
       "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
       "dated": false,
       "seq": 1893
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
+      "dated": false,
+      "seq": 1898
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken"
+    "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+    "plot.xianni-ch1898-1903-immortal-skull-mountain"
   ],
-  "updatedAt": "2026-08-30T20:38:14.292Z"
+  "updatedAt": "2026-08-30T21:20:08.947Z"
 }
