@@ -5,14 +5,16 @@
   "aliases": [
     "半个逆罗盘",
     "半圆碎片",
-    "半个罗盘"
+    "半个罗盘",
+    "古老的罗盘",
+    "半罗盘"
   ],
   "summary": "带古老符文印记的半圆碎片，为天道（天运子）之本尊；气息无人可感，深埋于一颗无生命的修真星最深处。",
   "attributes": {
-    "外形": "半圆碎片，形如半个罗盘，其上有古老符文印记",
-    "持有者": "天运子（天道）",
+    "外形": "半圆碎片，形如半个罗盘，其上有古老符文印记、残缺的半个古老罗盘",
+    "持有者": "天运子（天道）、王林",
     "能力": "气息无人可以感受到",
-    "来历": "巨门崩裂后飞出的雾气分裂出的小团，凝聚其上而成"
+    "来历": "巨门崩裂后飞出的雾气分裂出的小团，凝聚其上而成、万古岁月前的溶洞内、褐色尘土下埋藏"
   },
   "observations": {
     "外形": [
@@ -20,12 +22,22 @@
         "value": "半圆碎片，形如半个罗盘，其上有古老符文印记",
         "docId": "plot.xianni-ch1723-tiandao-tianyunzi-first-awakening",
         "seq": 1631
+      },
+      {
+        "value": "残缺的半个古老罗盘",
+        "docId": "plot.xianni-ch1724-tianyunzi-benzun",
+        "seq": 1631
       }
     ],
     "持有者": [
       {
         "value": "天运子（天道）",
         "docId": "plot.xianni-ch1723-tiandao-tianyunzi-first-awakening",
+        "seq": 1631
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch1724-tianyunzi-benzun",
         "seq": 1631
       }
     ],
@@ -40,6 +52,11 @@
       {
         "value": "巨门崩裂后飞出的雾气分裂出的小团，凝聚其上而成",
         "docId": "plot.xianni-ch1723-tiandao-tianyunzi-first-awakening",
+        "seq": 1631
+      },
+      {
+        "value": "万古岁月前的溶洞内、褐色尘土下埋藏",
+        "docId": "plot.xianni-ch1724-tianyunzi-benzun",
         "seq": 1631
       }
     ]
@@ -74,7 +91,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1723-tiandao-tianyunzi-first-awakening"
+    "plot.xianni-ch1723-tiandao-tianyunzi-first-awakening",
+    "plot.xianni-ch1724-tianyunzi-benzun"
   ],
-  "updatedAt": "2026-08-30T03:48:49.308Z"
+  "updatedAt": "2026-08-30T03:51:09.184Z"
 }

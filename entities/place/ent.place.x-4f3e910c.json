@@ -5,15 +5,17 @@
   "aliases": [
     "月牙状废弃星",
     "王林安置大头雷吉的废弃星",
-    "颠落之地边缘蛮荒星"
+    "颠落之地边缘蛮荒星",
+    "昆虚星域的废弃修真星"
   ],
   "summary": "形如被吞了一口的月牙状废弃星球，无灵力、罡风层脆弱、大地龟裂死气浓郁，每隔一个时辰大片崩溃；大头与雷吉曾在此等待王林召唤。",
   "attributes": {
-    "类型": "废弃荒星",
-    "危险度": "环境恶劣，每隔一个时辰出现大片崩溃",
-    "特产": "无灵力、无植物、死气浓郁",
+    "类型": "废弃修真星/蛮荒星",
+    "危险度": "毒瘴致凡人立死，修士皱眉；无灵气",
+    "特产": "无灵力、无植物、死气浓郁、黑色死海、万古黑色淤泥、海底溶洞",
     "方位": "颠落之地边缘",
-    "上级区域": "颠落之地"
+    "上级区域": "昆虚星域",
+    "所属界面": "洞府界"
   },
   "observations": {
     "类型": [
@@ -26,6 +28,11 @@
         "value": "废弃荒星",
         "docId": "plot.xianni-1395-feng-qi-zhu-que-zhi-xue",
         "seq": 1303
+      },
+      {
+        "value": "废弃修真星/蛮荒星",
+        "docId": "plot.xianni-ch1724-tianyunzi-benzun",
+        "seq": 1631
       }
     ],
     "危险度": [
@@ -33,6 +40,11 @@
         "value": "环境恶劣，每隔一个时辰出现大片崩溃",
         "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
         "seq": 910
+      },
+      {
+        "value": "毒瘴致凡人立死，修士皱眉；无灵气",
+        "docId": "plot.xianni-ch1724-tianyunzi-benzun",
+        "seq": 1631
       }
     ],
     "特产": [
@@ -40,6 +52,21 @@
         "value": "无灵力、无植物、死气浓郁",
         "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
         "seq": 910
+      },
+      {
+        "value": "黑色死海",
+        "docId": "plot.xianni-ch1724-tianyunzi-benzun",
+        "seq": 1631
+      },
+      {
+        "value": "万古黑色淤泥",
+        "docId": "plot.xianni-ch1724-tianyunzi-benzun",
+        "seq": 1631
+      },
+      {
+        "value": "海底溶洞",
+        "docId": "plot.xianni-ch1724-tianyunzi-benzun",
+        "seq": 1631
       }
     ],
     "方位": [
@@ -54,6 +81,18 @@
         "value": "颠落之地",
         "docId": "plot.xianni-1395-feng-qi-zhu-que-zhi-xue",
         "seq": 1303
+      },
+      {
+        "value": "昆虚星域",
+        "docId": "plot.xianni-ch1724-tianyunzi-benzun",
+        "seq": 1631
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "洞府界",
+        "docId": "plot.xianni-ch1724-tianyunzi-benzun",
+        "seq": 1631
       }
     ]
   },
@@ -61,15 +100,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1395-feng-qi-zhu-que-zhi-xue",
+      "docId": "plot.xianni-ch1724-tianyunzi-benzun",
       "dated": false,
-      "seq": 1303
+      "seq": 1631
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
+      "docId": "plot.xianni-ch1724-tianyunzi-benzun",
       "dated": false,
-      "seq": 910
+      "seq": 1631
     },
     "特产": {
       "asOf": null,
@@ -85,16 +124,23 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-1395-feng-qi-zhu-que-zhi-xue",
+      "docId": "plot.xianni-ch1724-tianyunzi-benzun",
       "dated": false,
-      "seq": 1303
+      "seq": 1631
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1724-tianyunzi-benzun",
+      "dated": false,
+      "seq": 1631
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch910-913-lu-zhai-fu-feng-zi",
-    "plot.xianni-1395-feng-qi-zhu-que-zhi-xue"
+    "plot.xianni-1395-feng-qi-zhu-que-zhi-xue",
+    "plot.xianni-ch1724-tianyunzi-benzun"
   ],
-  "updatedAt": "2026-08-25T16:19:45.407Z"
+  "updatedAt": "2026-08-30T03:51:09.191Z"
 }

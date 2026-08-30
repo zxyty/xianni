@@ -6,14 +6,16 @@
     "仙帝识海",
     "黑色海洋",
     "青霖的识海",
-    "识海内"
+    "识海内",
+    "黑海"
   ],
   "summary": "青霖的识海，呈一片波涛汹涌的黑色海洋；王林、王巍、胡娟、周佚被阵法吸入其中，并在此见到暂时复活的青霜。",
   "attributes": {
-    "类型": "识海／内景空间、识海内部空间、识海/元神内空间",
-    "特产": "黑色海洋、汹涌浪涛与海风、黑色海面、魔气",
+    "类型": "识海／内景空间、识海内部空间、识海/元神内空间、死海",
+    "特产": "黑色海洋、汹涌浪涛与海风、黑色海面、魔气、厚厚的黑色淤泥",
     "危险度": "古魔塔珈盘踞、极高（古魔盘踞）",
-    "守护": "青霖"
+    "守护": "青霖",
+    "上级区域": "废弃蛮荒星"
   },
   "observations": {
     "类型": [
@@ -31,6 +33,11 @@
         "value": "识海/元神内空间",
         "docId": "plot.xianni-1119-momo-taja-final-magic-mo-jie",
         "seq": 1034
+      },
+      {
+        "value": "死海",
+        "docId": "plot.xianni-ch1724-tianyunzi-benzun",
+        "seq": 1631
       }
     ],
     "特产": [
@@ -43,6 +50,11 @@
         "value": "黑色海面、魔气",
         "docId": "plot.xianni-ch1117-qinglin-chuandao-wanglin-vs-taja",
         "seq": 1034
+      },
+      {
+        "value": "厚厚的黑色淤泥",
+        "docId": "plot.xianni-ch1724-tianyunzi-benzun",
+        "seq": 1631
       }
     ],
     "危险度": [
@@ -62,6 +74,13 @@
         "value": "青霖",
         "docId": "plot.xianni-1119-momo-taja-final-magic-mo-jie",
         "seq": 1034
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "废弃蛮荒星",
+        "docId": "plot.xianni-ch1724-tianyunzi-benzun",
+        "seq": 1631
       }
     ]
   },
@@ -90,6 +109,12 @@
       "docId": "plot.xianni-1119-momo-taja-final-magic-mo-jie",
       "dated": false,
       "seq": 1034
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1724-tianyunzi-benzun",
+      "dated": false,
+      "seq": 1631
     }
   },
   "contested": false,
@@ -97,7 +122,8 @@
   "docs": [
     "plot.xianni-1116-qinglin-revival-formation-wang-blood",
     "plot.xianni-ch1117-qinglin-chuandao-wanglin-vs-taja",
-    "plot.xianni-1119-momo-taja-final-magic-mo-jie"
+    "plot.xianni-1119-momo-taja-final-magic-mo-jie",
+    "plot.xianni-ch1724-tianyunzi-benzun"
   ],
-  "updatedAt": "2026-08-24T16:09:23.951Z"
+  "updatedAt": "2026-08-30T03:51:09.193Z"
 }
