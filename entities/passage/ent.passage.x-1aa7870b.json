@@ -7,15 +7,17 @@
     "东临大门",
     "金门",
     "巨大的金门",
-    "四道金门"
+    "四道金门",
+    "金色的大门"
   ],
   "summary": "凭空出现于东临星天地间的金色大门，门上刻有「东临」二字，浩荡威压扩散；门内通往一片冰封世界，王林离去后大门始终留驻天地、一动不动。",
   "attributes": {
-    "类型": "家族现世门户/界门",
-    "两端": "东临星天空 ↔ 门内冰封世界",
+    "类型": "家族现世门户/界门、界面通道／大门、界门",
+    "两端": "东临星天空 ↔ 门内冰封世界、洞府界—仙罡大陆、洞府界—外界",
     "稳定性": "始终出现在天地之间，一动不动",
     "来历": "东临家族现世之门，应「东临星毁则东临家现世」而开",
-    "守护": "金甲巨人（幻神之术所化）"
+    "守护": "金甲巨人（幻神之术所化）",
+    "可通行境界": "需具仙罡血脉、需具仙罡血脉方可通行"
   },
   "observations": {
     "类型": [
@@ -23,6 +25,16 @@
         "value": "家族现世门户/界门",
         "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
         "seq": 1395
+      },
+      {
+        "value": "界面通道／大门",
+        "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
+        "seq": 1695
+      },
+      {
+        "value": "界门",
+        "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
+        "seq": 1695
       }
     ],
     "两端": [
@@ -30,6 +42,16 @@
         "value": "东临星天空 ↔ 门内冰封世界",
         "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
         "seq": 1395
+      },
+      {
+        "value": "洞府界—仙罡大陆",
+        "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
+        "seq": 1695
+      },
+      {
+        "value": "洞府界—外界",
+        "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
+        "seq": 1695
       }
     ],
     "稳定性": [
@@ -51,6 +73,20 @@
         "value": "金甲巨人（幻神之术所化）",
         "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
         "seq": 1395
+      }
+    ],
+    "可通行境界": [
+      {
+        "value": "需具仙罡血脉",
+        "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
+        "seq": 1695,
+        "note": "无血脉者出门即被仙罡规则压死"
+      },
+      {
+        "value": "需具仙罡血脉方可通行",
+        "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
+        "seq": 1695,
+        "note": "无血脉者须借转世术"
       }
     ]
   },
@@ -85,13 +121,21 @@
       "docId": "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
       "dated": false,
       "seq": 1395
+    },
+    "可通行境界": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
+      "dated": false,
+      "seq": 1695,
+      "note": "无血脉者出门即被仙罡规则压死"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
-    "plot.xianni-1770-yisi-zhi-kui-tomb-second-last-layer"
+    "plot.xianni-1770-yisi-zhi-kui-tomb-second-last-layer",
+    "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate"
   ],
-  "updatedAt": "2026-08-30T06:59:09.288Z"
+  "updatedAt": "2026-08-30T07:52:43.405Z"
 }

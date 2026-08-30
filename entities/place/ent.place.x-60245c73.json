@@ -6,12 +6,14 @@
     "洞府大门",
     "洞府大门之处",
     "洞府界核心",
-    "七彩仙尊洞府"
+    "七彩仙尊洞府",
+    "洞府界真门",
+    "与天齐高的金门"
   ],
   "summary": "洞府界的核心即洞府大门所在；女子在此可凝聚更多元神，足以杀人，是其方法一的埋伏点。",
   "attributes": {
     "所属界面": "洞府界",
-    "类型": "秘境核心",
+    "类型": "界之核心/门户、洞府/秘境核心、秘境核心、界间大门、核心秘地",
     "方位": "洞府之门内",
     "守护": "废墟上空的红色血丝禁制",
     "危险度": "误入废墟者被血丝笼罩重创"
@@ -39,6 +41,16 @@
         "value": "秘境核心",
         "docId": "plot.xianni-1754-established-rules-forbid-flight",
         "seq": 1665
+      },
+      {
+        "value": "界间大门",
+        "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
+        "seq": 1695
+      },
+      {
+        "value": "核心秘地",
+        "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
+        "seq": 1695
       }
     ],
     "方位": [
@@ -84,9 +96,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1754-established-rules-forbid-flight",
+      "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
       "dated": false,
-      "seq": 1665
+      "seq": 1601
     },
     "方位": {
       "asOf": null,
@@ -112,7 +124,8 @@
   "docs": [
     "lore.xianni-ch1695-qicai-three-souls-seven-po",
     "plot.xianni-1752-hunting-ground-cave-mansion-door-opens",
-    "plot.xianni-1754-established-rules-forbid-flight"
+    "plot.xianni-1754-established-rules-forbid-flight",
+    "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate"
   ],
-  "updatedAt": "2026-08-30T06:20:48.070Z"
+  "updatedAt": "2026-08-30T07:52:43.280Z"
 }

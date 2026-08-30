@@ -4,12 +4,18 @@
   "name": "七彩之魂",
   "aliases": [
     "战老鬼体内的七彩之魂",
-    "披风之魂"
+    "披风之魂",
+    "七彩魂影",
+    "七彩道人的魂",
+    "披风包裹只露双眼者",
+    "七彩仙尊又一魂"
   ],
   "summary": "寄于战老鬼体内的魂，本章呼啸而起操控战老鬼身体，气息属七彩仙尊，忌惮王林的天道并追问第三魂下落。",
   "attributes": {
     "身份": "七彩仙尊之魂",
-    "标志特征": "可操控宿主战老鬼的身体、令其神色扭曲"
+    "标志特征": "可操控宿主战老鬼的身体、令其神色扭曲",
+    "外貌": "全身弥漫七彩的魂影、全身被披风包裹，只露双眼",
+    "结局": "被封印收缩成拳头大小光团，与战老鬼联系断绝、被第二道封印缭绕封住，与战老鬼联系断绝"
   },
   "observations": {
     "身份": [
@@ -24,6 +30,30 @@
         "value": "可操控宿主战老鬼的身体、令其神色扭曲",
         "docId": "plot.xianni-ch1728-xuanluo-enters-mansion",
         "seq": 1636
+      }
+    ],
+    "外貌": [
+      {
+        "value": "全身弥漫七彩的魂影",
+        "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
+        "seq": 1695
+      },
+      {
+        "value": "全身被披风包裹，只露双眼",
+        "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
+        "seq": 1695
+      }
+    ],
+    "结局": [
+      {
+        "value": "被封印收缩成拳头大小光团，与战老鬼联系断绝",
+        "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
+        "seq": 1695
+      },
+      {
+        "value": "被第二道封印缭绕封住，与战老鬼联系断绝",
+        "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
+        "seq": 1695
       }
     ]
   },
@@ -40,13 +70,26 @@
       "docId": "plot.xianni-ch1728-xuanluo-enters-mansion",
       "dated": false,
       "seq": 1636
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
+      "dated": false,
+      "seq": 1695
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
+      "dated": false,
+      "seq": 1695
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1728-xuanluo-enters-mansion",
-    "plot.xianni-1777-xindong-leiyin-wanglin-yinmu"
+    "plot.xianni-1777-xindong-leiyin-wanglin-yinmu",
+    "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate"
   ],
-  "updatedAt": "2026-08-30T07:16:42.270Z"
+  "updatedAt": "2026-08-30T07:52:43.255Z"
 }

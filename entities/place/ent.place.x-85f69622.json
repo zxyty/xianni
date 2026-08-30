@@ -4,11 +4,14 @@
   "name": "第五花",
   "aliases": [
     "第五朵花",
-    "第五花所在"
+    "第五花所在",
+    "七彩第三魂记忆世界",
+    "第三魂记忆所化世界"
   ],
   "summary": "王林下一步目标之地，将于其中寻找真门。",
   "attributes": {
-    "类型": "秘境空间"
+    "类型": "记忆所化虚幻世界",
+    "危险度": "崩溃毁灭中"
   },
   "observations": {
     "类型": [
@@ -16,6 +19,18 @@
         "value": "秘境空间",
         "docId": "plot.xianni-1778-daogu-wuxian",
         "seq": 1685
+      },
+      {
+        "value": "记忆所化虚幻世界",
+        "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
+        "seq": 1695
+      }
+    ],
+    "危险度": [
+      {
+        "value": "崩溃毁灭中",
+        "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
+        "seq": 1695
       }
     ]
   },
@@ -23,16 +38,23 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1778-daogu-wuxian",
+      "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
       "dated": false,
-      "seq": 1685
+      "seq": 1695
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
+      "dated": false,
+      "seq": 1695
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1775-ancient-tomb-heart-inheritance",
-    "plot.xianni-1778-daogu-wuxian"
+    "plot.xianni-1778-daogu-wuxian",
+    "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate"
   ],
-  "updatedAt": "2026-08-30T07:19:12.389Z"
+  "updatedAt": "2026-08-30T07:52:43.221Z"
 }

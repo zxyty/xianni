@@ -6,16 +6,18 @@
     "冰封的东临池",
     "东临池冰",
     "东临宗东临池",
-    "东临宗后山东临池"
+    "东临宗后山东临池",
+    "Dongling Pool"
   ],
   "summary": "东临宗后山的湖泊般巨池，冰封半透明、隐透仙气，池内封着烨寞左臂；池冰与左臂融合故毁而即愈，冰内含似本源之力。",
   "attributes": {
     "所属势力": "东临宗",
-    "类型": "池/湖泊·秘境、修行秘地、修炼秘地",
+    "类型": "池/湖泊·秘境、修行秘地、修炼秘地、秘池/机缘之地",
     "方位": "东临宗后山",
-    "危险度": "有反震之力，外人不可入",
-    "特产": "可供大比优胜者修炼数日的资格奖励",
-    "上级区域": "东临宗"
+    "危险度": "记忆世界内表现为纯机缘",
+    "特产": "蕴含本源气息的池水",
+    "上级区域": "东临宗",
+    "所属界面": "仙罡大陆"
   },
   "observations": {
     "所属势力": [
@@ -40,6 +42,11 @@
         "value": "修炼秘地",
         "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
         "seq": 1690
+      },
+      {
+        "value": "秘池/机缘之地",
+        "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
+        "seq": 1695
       }
     ],
     "方位": [
@@ -54,6 +61,11 @@
         "value": "有反震之力，外人不可入",
         "docId": "plot.xianni-ch1768-yemo-left-arm-donglin-pool",
         "seq": 1675
+      },
+      {
+        "value": "记忆世界内表现为纯机缘",
+        "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
+        "seq": 1695
       }
     ],
     "特产": [
@@ -66,6 +78,11 @@
         "value": "可供大比优胜者修炼数日的资格奖励",
         "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
         "seq": 1690
+      },
+      {
+        "value": "蕴含本源气息的池水",
+        "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
+        "seq": 1695
       }
     ],
     "上级区域": [
@@ -73,6 +90,13 @@
         "value": "东临宗",
         "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
         "seq": 1690
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "仙罡大陆",
+        "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
+        "seq": 1695
       }
     ]
   },
@@ -98,28 +122,35 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch1768-yemo-left-arm-donglin-pool",
+      "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
       "dated": false,
-      "seq": 1675
+      "seq": 1695
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
+      "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
       "dated": false,
-      "seq": 1690
+      "seq": 1695
     },
     "上级区域": {
       "asOf": null,
       "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
       "dated": false,
       "seq": 1690
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
+      "dated": false,
+      "seq": 1695
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1768-yemo-left-arm-donglin-pool",
-    "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang"
+    "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
+    "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate"
   ],
-  "updatedAt": "2026-08-30T07:33:04.228Z"
+  "updatedAt": "2026-08-30T07:52:43.282Z"
 }
