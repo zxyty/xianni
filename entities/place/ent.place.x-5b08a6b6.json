@@ -11,17 +11,19 @@
     "Dong Lin Chi",
     "洞府核心东临池",
     "虚幻的东临池",
-    "东临异水池"
+    "东临异水池",
+    "东临宗池水"
   ],
   "summary": "东临宗后山的湖泊般巨池，冰封半透明、隐透仙气，池内封着烨寞左臂；池冰与左臂融合故毁而即愈，冰内含似本源之力。",
   "attributes": {
     "所属势力": "东临宗",
-    "类型": "池/湖泊·秘境、修行秘地、修炼秘地、秘池/机缘之地、秘境/池、秘境/宝池、虚幻灵池、本源之池、秘池、宗门要地、异水灵池、水池/秘地",
+    "类型": "池/湖泊·秘境、修行秘地、修炼秘地、秘池/机缘之地、秘境/池、秘境/宝池、虚幻灵池、本源之池、秘池、宗门要地、异水灵池、水池/秘地、感悟秘地／池水",
     "方位": "东临宗后山祭坛平台正中",
-    "危险度": "一生只能进入两次，第三次进入立刻暴毙",
+    "危险度": "第三次感悟必定暴毙而亡",
     "特产": "含似本源之力的不化寒冰、可供大比优胜者修炼数日的资格奖励、蕴含本源气息的池水、异水、天外修士本源感悟机缘",
     "上级区域": "洞府核心",
-    "所属界面": "洞府界"
+    "所属界面": "洞府界",
+    "守护": "池水之力会流转体内检查进入次数，超限即化作排斥与心神咆哮"
   },
   "observations": {
     "所属势力": [
@@ -91,6 +93,11 @@
         "value": "水池/秘地",
         "docId": "plot.xianni-1947-dongling-bubble-destruction",
         "seq": 1858
+      },
+      {
+        "value": "感悟秘地／池水",
+        "docId": "plot.xianni-1948-dongling-pool-taichu-source",
+        "seq": 1858
       }
     ],
     "方位": [
@@ -120,6 +127,12 @@
         "value": "一生只能进入两次，第三次进入立刻暴毙",
         "docId": "plot.xianni-ch1946-tianyunzi-aura-stele-donglin-sect",
         "seq": 1853
+      },
+      {
+        "value": "第三次感悟必定暴毙而亡",
+        "docId": "plot.xianni-1948-dongling-pool-taichu-source",
+        "seq": 1858,
+        "note": "东临宗老祖所言；可用骗道规避"
       }
     ],
     "特产": [
@@ -182,6 +195,13 @@
         "docId": "plot.xianni-1809-du-qing-hairan-wang-lin-devours-earthfire-veins",
         "seq": 1720
       }
+    ],
+    "守护": [
+      {
+        "value": "池水之力会流转体内检查进入次数，超限即化作排斥与心神咆哮",
+        "docId": "plot.xianni-1948-dongling-pool-taichu-source",
+        "seq": 1858
+      }
     ]
   },
   "firstSeq": 1675,
@@ -206,9 +226,10 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch1946-tianyunzi-aura-stele-donglin-sect",
+      "docId": "plot.xianni-1948-dongling-pool-taichu-source",
       "dated": false,
-      "seq": 1853
+      "seq": 1858,
+      "note": "东临宗老祖所言；可用骗道规避"
     },
     "特产": {
       "asOf": null,
@@ -227,6 +248,12 @@
       "docId": "plot.xianni-1809-du-qing-hairan-wang-lin-devours-earthfire-veins",
       "dated": false,
       "seq": 1720
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-1948-dongling-pool-taichu-source",
+      "dated": false,
+      "seq": 1858
     }
   },
   "contested": false,
@@ -244,7 +271,8 @@
     "plot.xianni-1938-bu-hui-de-zhizhuo",
     "plot.xianni-1943-yumu-xia-liu-jinbiao-memory-restored",
     "plot.xianni-ch1946-tianyunzi-aura-stele-donglin-sect",
-    "plot.xianni-1947-dongling-bubble-destruction"
+    "plot.xianni-1947-dongling-bubble-destruction",
+    "plot.xianni-1948-dongling-pool-taichu-source"
   ],
-  "updatedAt": "2026-08-30T18:00:04.785Z"
+  "updatedAt": "2026-08-30T18:02:09.281Z"
 }
