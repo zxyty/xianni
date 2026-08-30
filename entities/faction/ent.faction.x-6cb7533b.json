@@ -9,8 +9,9 @@
   "attributes": {
     "所属界面": "南州",
     "据点": "南州",
-    "掌门": "道一大天尊",
-    "理念": "不勉强天尊入麾下、开放讲道"
+    "掌门": "道一",
+    "理念": "不勉强天尊入麾下、开放讲道",
+    "等级": "南州第一宗"
   },
   "observations": {
     "所属界面": [
@@ -37,6 +38,11 @@
         "value": "道一大天尊",
         "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
         "seq": 1834
+      },
+      {
+        "value": "道一",
+        "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+        "seq": 1863
       }
     ],
     "理念": [
@@ -44,6 +50,13 @@
         "value": "不勉强天尊入麾下、开放讲道",
         "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
         "seq": 1834
+      }
+    ],
+    "等级": [
+      {
+        "value": "南州第一宗",
+        "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+        "seq": 1863
       }
     ]
   },
@@ -63,15 +76,21 @@
     },
     "掌门": {
       "asOf": null,
-      "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
+      "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
       "dated": false,
-      "seq": 1834
+      "seq": 1863
     },
     "理念": {
       "asOf": null,
       "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
       "dated": false,
       "seq": 1834
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+      "dated": false,
+      "seq": 1863
     }
   },
   "contested": false,
@@ -79,7 +98,8 @@
   "docs": [
     "plot.xianni-1715-mu-si-ru-ze",
     "lore.xianni-1917-xianzu-five-great-tianzun",
-    "plot.xianni-ch1926-fifty-years-white-haired-tianzun"
+    "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
+    "plot.xianni-1863-1867-tianzun-nie-yiming-jingren"
   ],
-  "updatedAt": "2026-08-30T17:14:14.786Z"
+  "updatedAt": "2026-08-30T18:30:48.362Z"
 }

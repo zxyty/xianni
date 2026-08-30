@@ -3,14 +3,16 @@
   "type": "place",
   "name": "北州",
   "aliases": [
-    "仙族北州"
+    "仙族北州",
+    "北洲"
   ],
   "summary": "武封大天尊所在之州，云空多年前曾前往拜师问仙求道。",
   "attributes": {
-    "类型": "州域",
-    "上级区域": "七十二洲",
-    "方位": "北部",
-    "所属界面": "仙罡大陆"
+    "类型": "极寒州域",
+    "上级区域": "七十二洲、仙族大地、仙族大陆",
+    "方位": "北",
+    "所属界面": "仙罡大陆",
+    "特产": "万年不化冰川"
   },
   "observations": {
     "类型": [
@@ -18,6 +20,11 @@
         "value": "州域",
         "docId": "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
         "seq": 1755
+      },
+      {
+        "value": "极寒州域",
+        "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+        "seq": 1863
       }
     ],
     "上级区域": [
@@ -25,6 +32,16 @@
         "value": "七十二洲",
         "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
         "seq": 1824
+      },
+      {
+        "value": "仙族大地",
+        "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+        "seq": 1863
+      },
+      {
+        "value": "仙族大陆",
+        "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+        "seq": 1863
       }
     ],
     "方位": [
@@ -37,6 +54,11 @@
         "value": "北部",
         "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
         "seq": 1829
+      },
+      {
+        "value": "北",
+        "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+        "seq": 1863
       }
     ],
     "所属界面": [
@@ -45,15 +67,22 @@
         "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
         "seq": 1829
       }
+    ],
+    "特产": [
+      {
+        "value": "万年不化冰川",
+        "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+        "seq": 1863
+      }
     ]
   },
   "firstSeq": 1755,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
+      "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
       "dated": false,
-      "seq": 1755
+      "seq": 1863
     },
     "上级区域": {
       "asOf": null,
@@ -63,15 +92,21 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
+      "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
       "dated": false,
-      "seq": 1829
+      "seq": 1863
     },
     "所属界面": {
       "asOf": null,
       "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
       "dated": false,
       "seq": 1829
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+      "dated": false,
+      "seq": 1863
     }
   },
   "contested": false,
@@ -79,7 +114,8 @@
   "docs": [
     "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
     "lore.xianni-1917-xianzu-five-great-tianzun",
-    "plot.xianni-1921-tianzun-nie-trial-ground"
+    "plot.xianni-1921-tianzun-nie-trial-ground",
+    "plot.xianni-1863-1867-tianzun-nie-yiming-jingren"
   ],
-  "updatedAt": "2026-08-30T17:02:30.569Z"
+  "updatedAt": "2026-08-30T18:30:48.301Z"
 }

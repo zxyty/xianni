@@ -2,10 +2,12 @@
   "id": "ent.place.x-9625af7f",
   "type": "place",
   "name": "仙族大地",
-  "aliases": [],
+  "aliases": [
+    "五州"
+  ],
   "summary": "由七十二洲构成的广阔疆域，最顶层为大天尊与四十八个跃天尊。",
   "attributes": {
-    "类型": "大地/疆域、大地/界域、大地",
+    "类型": "大地/疆域、大地/界域、大地、大陆疆域",
     "规模": "七十二洲",
     "所属势力": "仙族"
   },
@@ -25,6 +27,11 @@
         "value": "大地",
         "docId": "plot.xianni-1941-my-master-gu-ya-tianzun",
         "seq": 1848
+      },
+      {
+        "value": "大陆疆域",
+        "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+        "seq": 1863
       }
     ],
     "规模": [
@@ -69,7 +76,8 @@
     "plot.xianni-1929-haizi-tianzun-shanhai-shuling",
     "plot.xianni-1938-bu-hui-de-zhizhuo",
     "plot.xianni-1941-my-master-gu-ya-tianzun",
-    "plot.xianni-ch1951-tianzun-nie-first-hall"
+    "plot.xianni-ch1951-tianzun-nie-first-hall",
+    "plot.xianni-1863-1867-tianzun-nie-yiming-jingren"
   ],
-  "updatedAt": "2026-08-30T18:12:13.533Z"
+  "updatedAt": "2026-08-30T18:30:48.181Z"
 }

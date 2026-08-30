@@ -5,14 +5,16 @@
   "aliases": [
     "帝山",
     "帝山帝国",
-    "帝山红叶"
+    "帝山红叶",
+    "中州帝山"
   ],
   "summary": "冉云星北部凡人帝国，三大帝国之一，几乎全民皆为天行派教众，其都城为王平所居。",
   "attributes": {
-    "所属界面": "冉云星",
+    "所属界面": "仙罡大陆",
     "方位": "冉云星北部",
-    "类型": "山脉/修行地",
-    "特产": "满山红叶"
+    "类型": "大能居所",
+    "特产": "满山红叶",
+    "上级区域": "中州"
   },
   "observations": {
     "所属界面": [
@@ -20,6 +22,11 @@
         "value": "冉云星",
         "docId": "plot.xianni-ch656-660-separation-and-years",
         "seq": 656
+      },
+      {
+        "value": "仙罡大陆",
+        "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+        "seq": 1863
       }
     ],
     "方位": [
@@ -39,6 +46,11 @@
         "value": "山脉/修行地",
         "docId": "plot.xianni-1935-whose-severed-palm",
         "seq": 1844
+      },
+      {
+        "value": "大能居所",
+        "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+        "seq": 1863
       }
     ],
     "特产": [
@@ -47,15 +59,22 @@
         "docId": "plot.xianni-1935-whose-severed-palm",
         "seq": 1844
       }
+    ],
+    "上级区域": [
+      {
+        "value": "中州",
+        "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+        "seq": 1863
+      }
     ]
   },
   "firstSeq": 656,
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch656-660-separation-and-years",
+      "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
       "dated": false,
-      "seq": 656
+      "seq": 1863
     },
     "方位": {
       "asOf": null,
@@ -65,22 +84,29 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1935-whose-severed-palm",
+      "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
       "dated": false,
-      "seq": 1844
+      "seq": 1863
     },
     "特产": {
       "asOf": null,
       "docId": "plot.xianni-1935-whose-severed-palm",
       "dated": false,
       "seq": 1844
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+      "dated": false,
+      "seq": 1863
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch656-660-separation-and-years",
-    "plot.xianni-1935-whose-severed-palm"
+    "plot.xianni-1935-whose-severed-palm",
+    "plot.xianni-1863-1867-tianzun-nie-yiming-jingren"
   ],
-  "updatedAt": "2026-08-30T17:33:32.299Z"
+  "updatedAt": "2026-08-30T18:30:48.358Z"
 }

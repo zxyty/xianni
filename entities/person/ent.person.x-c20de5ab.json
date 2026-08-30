@@ -7,13 +7,16 @@
     "冥道尊前辈",
     "跃天尊第一人",
     "仙族第六尊",
-    "Ming Dao Zun"
+    "Ming Dao Zun",
+    "冥道尊跃天尊"
   ],
   "summary": "跃天尊中最强者，在天尊涅之地第十六层止步无法闯过。",
   "attributes": {
-    "身份": "仙皇八极大天尊麾下",
-    "称号": "跃天尊中最强、跃天尊中第一人、仙族第六尊",
-    "阵营": "仙族"
+    "身份": "闯过天尊涅第十五层者",
+    "称号": "跃天尊中最强、跃天尊中第一人、仙族第六尊、道尊、跃天尊第一强者、最强跃天尊、冥道尊",
+    "阵营": "仙族",
+    "外貌": "黑衣青年，极为英俊，冷冽弥漫",
+    "标志特征": "闯至天尊涅之地第十三层止步"
   },
   "observations": {
     "身份": [
@@ -26,6 +29,11 @@
         "value": "仙皇八极大天尊麾下",
         "docId": "plot.xianni-ch1951-tianzun-nie-first-hall",
         "seq": 1858
+      },
+      {
+        "value": "闯过天尊涅第十五层者",
+        "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+        "seq": 1863
       }
     ],
     "称号": [
@@ -43,6 +51,26 @@
         "value": "仙族第六尊",
         "docId": "plot.xianni-ch1951-tianzun-nie-first-hall",
         "seq": 1858
+      },
+      {
+        "value": "道尊",
+        "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+        "seq": 1863
+      },
+      {
+        "value": "跃天尊第一强者",
+        "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+        "seq": 1863
+      },
+      {
+        "value": "最强跃天尊",
+        "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+        "seq": 1863
+      },
+      {
+        "value": "冥道尊",
+        "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+        "seq": 1863
       }
     ],
     "阵营": [
@@ -51,15 +79,29 @@
         "docId": "plot.xianni-ch1951-tianzun-nie-first-hall",
         "seq": 1858
       }
+    ],
+    "外貌": [
+      {
+        "value": "黑衣青年，极为英俊，冷冽弥漫",
+        "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+        "seq": 1863
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "闯至天尊涅之地第十三层止步",
+        "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+        "seq": 1863
+      }
     ]
   },
   "firstSeq": 1834,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1951-tianzun-nie-first-hall",
+      "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
       "dated": false,
-      "seq": 1858
+      "seq": 1863
     },
     "称号": {
       "asOf": null,
@@ -72,13 +114,26 @@
       "docId": "plot.xianni-ch1951-tianzun-nie-first-hall",
       "dated": false,
       "seq": 1858
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+      "dated": false,
+      "seq": 1863
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+      "dated": false,
+      "seq": 1863
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1927-tianzun-nie-di-first-palace",
-    "plot.xianni-ch1951-tianzun-nie-first-hall"
+    "plot.xianni-ch1951-tianzun-nie-first-hall",
+    "plot.xianni-1863-1867-tianzun-nie-yiming-jingren"
   ],
-  "updatedAt": "2026-08-30T18:12:13.547Z"
+  "updatedAt": "2026-08-30T18:30:48.367Z"
 }

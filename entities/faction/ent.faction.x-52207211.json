@@ -22,16 +22,17 @@
     "仙族天尊群体",
     "仙族大天尊势力",
     "仙族皇城之行",
-    "仙族大地势力"
+    "仙族大地势力",
+    "仙族大陆势力"
   ],
   "summary": "散灵上人率数百万幸存者踏出七百万天地、进入太古星辰后自命的新族群，立誓世代报答王林之恩。",
   "attributes": {
     "阵营": "仙族",
     "理念": "以五位大天尊为顶端",
     "所属界面": "仙罡大陆",
-    "据点": "仙族大地、仙族皇城",
+    "据点": "仙族大陆",
     "等级": "名义上统治整个仙族",
-    "镇派之宝": "天尊涅之地（仙祖最强法宝所化）"
+    "镇派之宝": "天尊涅之地（仙祖最强法宝所化）、跃尊榜、天尊涅之地"
   },
   "observations": {
     "阵营": [
@@ -96,6 +97,11 @@
         "value": "仙族大地、仙族皇城",
         "docId": "plot.xianni-ch1951-tianzun-nie-first-hall",
         "seq": 1858
+      },
+      {
+        "value": "仙族大陆",
+        "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+        "seq": 1863
       }
     ],
     "等级": [
@@ -111,6 +117,16 @@
         "docId": "plot.xianni-ch1927-tianzun-nie-di-first-palace",
         "seq": 1834,
         "note": "传闻"
+      },
+      {
+        "value": "跃尊榜",
+        "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+        "seq": 1863
+      },
+      {
+        "value": "天尊涅之地",
+        "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+        "seq": 1863
       }
     ]
   },
@@ -137,9 +153,9 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-ch1951-tianzun-nie-first-hall",
+      "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
       "dated": false,
-      "seq": 1858
+      "seq": 1863
     },
     "等级": {
       "asOf": null,
@@ -184,7 +200,8 @@
     "plot.xianni-1928-tianzun-nie-zhi-di-chuang-si-ceng",
     "plot.xianni-1937-let-the-great-heaven-venerate-see",
     "plot.xianni-1950-zailin-tianzunnie",
-    "plot.xianni-ch1951-tianzun-nie-first-hall"
+    "plot.xianni-ch1951-tianzun-nie-first-hall",
+    "plot.xianni-1863-1867-tianzun-nie-yiming-jingren"
   ],
-  "updatedAt": "2026-08-30T18:12:13.556Z"
+  "updatedAt": "2026-08-30T18:30:48.298Z"
 }

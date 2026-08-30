@@ -3,12 +3,13 @@
   "type": "passage",
   "name": "天尊涅古老传送阵",
   "aliases": [
-    "古老的特殊传送阵"
+    "古老的特殊传送阵",
+    "古老的传送阵"
   ],
   "summary": "王林往返天尊涅之地所用的古老传送阵，入阵者化雾消失。",
   "attributes": {
     "类型": "传送阵",
-    "两端": "仙罡大陆（神识出窍）—天尊涅第一层",
+    "两端": "仙族各地—天尊涅之地",
     "可通行境界": "天尊级修士神识"
   },
   "observations": {
@@ -29,6 +30,11 @@
         "value": "仙罡大陆（神识出窍）—天尊涅第一层",
         "docId": "plot.xianni-1950-zailin-tianzunnie",
         "seq": 1858
+      },
+      {
+        "value": "仙族各地—天尊涅之地",
+        "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+        "seq": 1863
       }
     ],
     "可通行境界": [
@@ -49,9 +55,9 @@
     },
     "两端": {
       "asOf": null,
-      "docId": "plot.xianni-1950-zailin-tianzunnie",
+      "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
       "dated": false,
-      "seq": 1858
+      "seq": 1863
     },
     "可通行境界": {
       "asOf": null,
@@ -64,7 +70,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-1929-haizi-tianzun-shanhai-shuling",
-    "plot.xianni-1950-zailin-tianzunnie"
+    "plot.xianni-1950-zailin-tianzunnie",
+    "plot.xianni-1863-1867-tianzun-nie-yiming-jingren"
   ],
-  "updatedAt": "2026-08-30T18:06:31.448Z"
+  "updatedAt": "2026-08-30T18:30:48.257Z"
 }

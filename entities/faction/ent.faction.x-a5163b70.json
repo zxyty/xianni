@@ -9,10 +9,11 @@
   ],
   "summary": "拥有饲兽界这一独立空间的宗门，涵涵与娃娃称该地为「我们紫阳宗的饲兽界」。",
   "attributes": {
-    "等级": "九宗十三门最强一宗",
+    "等级": "东洲第一宗",
     "所属界面": "仙罡大陆",
     "据点": "东州",
-    "阵营": "仙族"
+    "阵营": "仙族",
+    "镇派之宝": "映照天尊涅的巨镜"
   },
   "observations": {
     "等级": [
@@ -35,6 +36,11 @@
         "value": "九宗十三门最强一宗",
         "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
         "seq": 1824
+      },
+      {
+        "value": "东洲第一宗",
+        "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+        "seq": 1863
       }
     ],
     "所属界面": [
@@ -67,15 +73,22 @@
         "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
         "seq": 1829
       }
+    ],
+    "镇派之宝": [
+      {
+        "value": "映照天尊涅的巨镜",
+        "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+        "seq": 1863
+      }
     ]
   },
   "firstSeq": 1611,
   "attrProvenance": {
     "等级": {
       "asOf": null,
-      "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
+      "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
       "dated": false,
-      "seq": 1824
+      "seq": 1863
     },
     "所属界面": {
       "asOf": null,
@@ -94,6 +107,12 @@
       "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
       "dated": false,
       "seq": 1829
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+      "dated": false,
+      "seq": 1863
     }
   },
   "contested": false,
@@ -103,7 +122,8 @@
     "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
     "plot.xianni-1796-stubborn-will-xianguang-continent-overview",
     "lore.xianni-1917-xianzu-five-great-tianzun",
-    "plot.xianni-1921-tianzun-nie-trial-ground"
+    "plot.xianni-1921-tianzun-nie-trial-ground",
+    "plot.xianni-1863-1867-tianzun-nie-yiming-jingren"
   ],
-  "updatedAt": "2026-08-30T17:02:30.561Z"
+  "updatedAt": "2026-08-30T18:30:48.362Z"
 }
