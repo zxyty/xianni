@@ -12,13 +12,14 @@
   "summary": "绿魔洲的圣地，被选出的天资孩童修炼到一定程度后被送入此处侍奉绿魔，历经一次次淘汰死亡，最终获绿魔认可者至今仅九人。",
   "attributes": {
     "所属界面": "绿魔洲",
-    "类型": "庙宇/试炼地、庙宇、庙宇/禁地、庙宇/建筑、庙宇／禁地",
+    "类型": "庙宇/试炼地、庙宇、庙宇/禁地、庙宇/建筑、庙宇／禁地、禁地/古庙",
     "危险度": "极高",
     "所属势力": "绿魔洲、道魔宗、绿魔一族（绿魔蝎庙）、绿魔洲绿魔一系",
     "上级区域": "绿魔洲中心沼泽",
     "方位": "绿魔洲深处、绿魔洲中心、绿魔洲中心沼泽之上",
     "规模": "万丈",
-    "守护": "滔天魔气、绿魔使者（绿魔卫）、绿魔守护使者"
+    "守护": "滔天魔气、绿魔使者（绿魔卫）、绿魔守护使者、绿袍老者一族与绿魔使者",
+    "特产": "绿魔蝎"
   },
   "observations": {
     "所属界面": [
@@ -53,6 +54,11 @@
         "value": "庙宇／禁地",
         "docId": "plot.xianni-ch1893-geyou-tumou-luomo-jisi-shitan",
         "seq": 1800
+      },
+      {
+        "value": "禁地/古庙",
+        "docId": "plot.xianni-ch1895-ninth-source-earth-origin",
+        "seq": 1805
       }
     ],
     "危险度": [
@@ -140,6 +146,18 @@
         "value": "绿魔守护使者",
         "docId": "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao",
         "seq": 1805
+      },
+      {
+        "value": "绿袍老者一族与绿魔使者",
+        "docId": "plot.xianni-ch1895-ninth-source-earth-origin",
+        "seq": 1805
+      }
+    ],
+    "特产": [
+      {
+        "value": "绿魔蝎",
+        "docId": "plot.xianni-ch1895-ninth-source-earth-origin",
+        "seq": 1805
       }
     ]
   },
@@ -192,6 +210,12 @@
       "docId": "plot.xianni-ch1891-jie-lei-mo-shen",
       "dated": false,
       "seq": 1800
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1895-ninth-source-earth-origin",
+      "dated": false,
+      "seq": 1805
     }
   },
   "contested": false,
@@ -202,7 +226,8 @@
     "plot.xianni-1890-daomo-sect-master-captures-wang-lin",
     "plot.xianni-ch1891-jie-lei-mo-shen",
     "plot.xianni-ch1893-geyou-tumou-luomo-jisi-shitan",
-    "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao"
+    "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao",
+    "plot.xianni-ch1895-ninth-source-earth-origin"
   ],
-  "updatedAt": "2026-08-30T15:01:09.570Z"
+  "updatedAt": "2026-08-30T15:03:20.787Z"
 }

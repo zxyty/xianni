@@ -5,15 +5,18 @@
   "aliases": [
     "魔纳星绿袍老者",
     "身穿绿袍的老者",
-    "绿魔蝎庙绿袍老者"
+    "绿魔蝎庙绿袍老者",
+    "历代祭祀之末代",
+    "咳嗽的绿袍老者"
   ],
   "summary": "魔纳星飞出的大神通修士，修为天人第一衰，被一字定身后遭王林化作的红色闪电冲入体内、被黑雾弥漫。",
   "attributes": {
-    "身份": "魔纳星大神通修士、绿魔蝎庙祭祀、其一族每代祭祀",
-    "外貌": "身着绿袍，双眼隐藏在袍内；明显只是凡人身躯",
+    "身份": "魔纳星大神通修士、绿魔蝎庙祭祀、其一族每代祭祀、绿魔蝎庙守护一族祭祀",
+    "外貌": "身穿绿袍，身外绿色光环隐现、身着绿袍，双眼隐藏在袍内；明显只是凡人身躯、绿袍、咳嗽剧烈、右臂长满绿色毛发且干枯腐朽",
     "存殁": "在世",
-    "寿元": "已2800余岁，一族每代祭祀最多三千年",
-    "性格": "极为多疑、极有耐心"
+    "寿元": "已2800余岁，一族每代祭祀最多三千年、不足三十年",
+    "性格": "极为多疑、极有耐心、沧桑疲惫、谨慎多疑",
+    "阵营": "绿魔洲"
   },
   "observations": {
     "身份": [
@@ -31,6 +34,11 @@
         "value": "其一族每代祭祀",
         "docId": "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao",
         "seq": 1805
+      },
+      {
+        "value": "绿魔蝎庙守护一族祭祀",
+        "docId": "plot.xianni-ch1895-ninth-source-earth-origin",
+        "seq": 1805
       }
     ],
     "外貌": [
@@ -42,6 +50,11 @@
       {
         "value": "身着绿袍，双眼隐藏在袍内；明显只是凡人身躯",
         "docId": "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao",
+        "seq": 1805
+      },
+      {
+        "value": "绿袍、咳嗽剧烈、右臂长满绿色毛发且干枯腐朽",
+        "docId": "plot.xianni-ch1895-ninth-source-earth-origin",
         "seq": 1805
       }
     ],
@@ -63,12 +76,29 @@
         "value": "已2800余岁，一族每代祭祀最多三千年",
         "docId": "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao",
         "seq": 1805
+      },
+      {
+        "value": "不足三十年",
+        "docId": "plot.xianni-ch1895-ninth-source-earth-origin",
+        "seq": 1805
       }
     ],
     "性格": [
       {
         "value": "极为多疑、极有耐心",
         "docId": "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao",
+        "seq": 1805
+      },
+      {
+        "value": "沧桑疲惫、谨慎多疑",
+        "docId": "plot.xianni-ch1895-ninth-source-earth-origin",
+        "seq": 1805
+      }
+    ],
+    "阵营": [
+      {
+        "value": "绿魔洲",
+        "docId": "plot.xianni-ch1895-ninth-source-earth-origin",
         "seq": 1805
       }
     ]
@@ -83,9 +113,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao",
+      "docId": "plot.xianni-ch1309-tuosen-pursuit-star-rift-chase",
       "dated": false,
-      "seq": 1805
+      "seq": 1222
     },
     "存殁": {
       "asOf": null,
@@ -104,13 +134,20 @@
       "docId": "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao",
       "dated": false,
       "seq": 1805
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1895-ninth-source-earth-origin",
+      "dated": false,
+      "seq": 1805
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1309-tuosen-pursuit-star-rift-chase",
-    "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao"
+    "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao",
+    "plot.xianni-ch1895-ninth-source-earth-origin"
   ],
-  "updatedAt": "2026-08-30T15:01:09.567Z"
+  "updatedAt": "2026-08-30T15:03:20.775Z"
 }
