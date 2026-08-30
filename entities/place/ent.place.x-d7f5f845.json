@@ -12,10 +12,10 @@
   "summary": "朱雀星上的凡人皇城，距王林与大头童子交战处不远，城中密室供奉王氏一族先祖灵位。",
   "attributes": {
     "所属界面": "朱雀星",
-    "类型": "皇城",
+    "类型": "都城",
     "方位": "都城东处",
     "上级区域": "中州",
-    "所属势力": "仙族"
+    "所属势力": "仙皇"
   },
   "observations": {
     "所属界面": [
@@ -35,6 +35,11 @@
         "value": "皇城",
         "docId": "plot.xianni-ch1362-dunchen-lianlei-zhong-dahong-touji",
         "seq": 1275
+      },
+      {
+        "value": "都城",
+        "docId": "plot.xianni-1922-first-old-acquaintance",
+        "seq": 1829
       }
     ],
     "方位": [
@@ -66,6 +71,11 @@
         "value": "仙族",
         "docId": "plot.xianni-ch1916-wait-for-tianzun",
         "seq": 1824
+      },
+      {
+        "value": "仙皇",
+        "docId": "plot.xianni-1922-first-old-acquaintance",
+        "seq": 1829
       }
     ]
   },
@@ -79,9 +89,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1362-dunchen-lianlei-zhong-dahong-touji",
+      "docId": "plot.xianni-1922-first-old-acquaintance",
       "dated": false,
-      "seq": 1275
+      "seq": 1829
     },
     "方位": {
       "asOf": null,
@@ -97,9 +107,9 @@
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch1916-wait-for-tianzun",
+      "docId": "plot.xianni-1922-first-old-acquaintance",
       "dated": false,
-      "seq": 1824
+      "seq": 1829
     }
   },
   "contested": false,
@@ -107,7 +117,8 @@
   "docs": [
     "plot.xianni-ch890-datou-tongzi-battle",
     "plot.xianni-ch1362-dunchen-lianlei-zhong-dahong-touji",
-    "plot.xianni-ch1916-wait-for-tianzun"
+    "plot.xianni-ch1916-wait-for-tianzun",
+    "plot.xianni-1922-first-old-acquaintance"
   ],
-  "updatedAt": "2026-08-30T16:45:58.835Z"
+  "updatedAt": "2026-08-30T17:05:19.450Z"
 }

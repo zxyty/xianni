@@ -4,14 +4,18 @@
   "name": "天尊涅试炼之地",
   "aliases": [
     "天尊涅",
-    "天尊涅之地"
+    "天尊涅之地",
+    "天尊涅境",
+    "天尊涅试炼之地对应之境",
+    "天尊涅试炼",
+    "试炼之地"
   ],
   "summary": "仙祖模仿太吉神境创造、专为天尊准备的试炼之地，共十九层，可给出准确修为判断；闯过第十九层者日后入太吉神境更易成大天尊。",
   "attributes": {
     "所属势力": "仙族",
     "类型": "试炼秘境",
     "规模": "十九层",
-    "危险度": "极高（道魔宗天尊老祖仅至第三层）",
+    "危险度": "极高（道魔宗天尊老祖仅至第三层）、分层递增",
     "所属界面": "仙罡大陆"
   },
   "observations": {
@@ -40,6 +44,11 @@
       {
         "value": "极高（道魔宗天尊老祖仅至第三层）",
         "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
+        "seq": 1829
+      },
+      {
+        "value": "分层递增",
+        "docId": "plot.xianni-1922-first-old-acquaintance",
         "seq": 1829
       }
     ],
@@ -87,7 +96,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1921-tianzun-nie-trial-ground"
+    "plot.xianni-1921-tianzun-nie-trial-ground",
+    "plot.xianni-1922-first-old-acquaintance"
   ],
-  "updatedAt": "2026-08-30T17:02:30.555Z"
+  "updatedAt": "2026-08-30T17:05:19.452Z"
 }

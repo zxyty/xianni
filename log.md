@@ -1196,3 +1196,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T16:57:35.079Z** `ingest` plot.xianni-1919-chuan-hun-kai-tianzun-three-punches — 第1919章 穿魂铠！——王林硬接道魔宗天尊老祖三拳，借天牛魂力登金尊 · kind=plot asOf=2026-08-30 entities=22 relations=33 src=01829-01833.p2.md
 - **2026-08-30T16:59:58.206Z** `ingest` plot.xianni-ch1920-wo-buxiu-ni-buxiu — 仙逆 第1920章 我不朽，你不朽！——九十八道天牛撞与道一大天尊现身 · kind=plot asOf=2026-08-30 entities=20 relations=31 src=01829-01833.p3.md
 - **2026-08-30T17:02:31.124Z** `ingest` plot.xianni-1921-tianzun-nie-trial-ground — 仙逆第1921章：道一大天尊招揽与天尊涅试炼之地 · kind=plot asOf=2026-08-30 entities=31 relations=49 src=01829-01833.p4.md
+- **2026-08-30T17:05:20.033Z** `ingest` plot.xianni-1922-first-old-acquaintance — 第1922章 第一个故人：三年闭关、九道神通、王林逼宫地门 · kind=plot asOf=2026-08-30 entities=33 relations=41 src=01829-01833.p5.md

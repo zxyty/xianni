@@ -10,13 +10,16 @@
     "炎浆之龙",
     "海龙",
     "子脉火龙",
-    "炎浆火龙"
+    "炎浆火龙",
+    "王林的海龙",
+    "巨大海龙"
   ],
   "summary": "地火子脉之魂所化的巨大火龙，被王林十六条火龙铁链锁住并遭朱雀融合吞噬，身体不断崩溃、体内朱雀虚影渐显。",
   "attributes": {
-    "外形": "浑身高温、外裹黑烟滚滚，形似仙罡妖龙",
-    "能力": "蕴含浓厚火焰本源",
-    "栖息地": "天牛洲山峦下的地火子脉"
+    "外形": "巨大海龙",
+    "能力": "化作长虹急速飞行、无视尘暴狂风",
+    "栖息地": "天牛洲山峦下的地火子脉",
+    "主人": "王林"
   },
   "observations": {
     "外形": [
@@ -29,6 +32,11 @@
         "value": "浑身高温、外裹黑烟滚滚，形似仙罡妖龙",
         "docId": "plot.xianni-ch1816-benyuan-zhenshen-regret",
         "seq": 1725
+      },
+      {
+        "value": "巨大海龙",
+        "docId": "plot.xianni-1922-first-old-acquaintance",
+        "seq": 1829
       }
     ],
     "能力": [
@@ -41,6 +49,11 @@
         "value": "蕴含浓厚火焰本源",
         "docId": "plot.xianni-ch1816-benyuan-zhenshen-regret",
         "seq": 1725
+      },
+      {
+        "value": "化作长虹急速飞行、无视尘暴狂风",
+        "docId": "plot.xianni-1922-first-old-acquaintance",
+        "seq": 1829
       }
     ],
     "栖息地": [
@@ -49,27 +62,40 @@
         "docId": "plot.xianni-ch1816-benyuan-zhenshen-regret",
         "seq": 1725
       }
+    ],
+    "主人": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-1922-first-old-acquaintance",
+        "seq": 1829
+      }
     ]
   },
   "firstSeq": 1720,
   "attrProvenance": {
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch1816-benyuan-zhenshen-regret",
+      "docId": "plot.xianni-1922-first-old-acquaintance",
       "dated": false,
-      "seq": 1725
+      "seq": 1829
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-ch1816-benyuan-zhenshen-regret",
+      "docId": "plot.xianni-1922-first-old-acquaintance",
       "dated": false,
-      "seq": 1725
+      "seq": 1829
     },
     "栖息地": {
       "asOf": null,
       "docId": "plot.xianni-ch1816-benyuan-zhenshen-regret",
       "dated": false,
       "seq": 1725
+    },
+    "主人": {
+      "asOf": null,
+      "docId": "plot.xianni-1922-first-old-acquaintance",
+      "dated": false,
+      "seq": 1829
     }
   },
   "contested": false,
@@ -77,7 +103,8 @@
   "docs": [
     "plot.xianni-ch1811-jingxia-duqing",
     "plot.xianni-ch1815-condense-source-true-body",
-    "plot.xianni-ch1816-benyuan-zhenshen-regret"
+    "plot.xianni-ch1816-benyuan-zhenshen-regret",
+    "plot.xianni-1922-first-old-acquaintance"
   ],
-  "updatedAt": "2026-08-30T09:39:37.027Z"
+  "updatedAt": "2026-08-30T17:05:19.425Z"
 }

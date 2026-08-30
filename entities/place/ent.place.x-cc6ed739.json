@@ -15,10 +15,10 @@
     "类型": "大洲、洲、洲域",
     "方位": "绿魔洲边界山脉之外",
     "所属界面": "仙罡大陆",
-    "规模": "近七成大地为无尽沙漠",
-    "特产": "沙漠",
-    "危险度": "道魔宗弟子不便大举进入",
-    "上级区域": "仙罡大陆"
+    "规模": "洲域，境内宗门无数",
+    "特产": "含磁力的沙尘暴（内蕴风、土本源之力）",
+    "危险度": "极高",
+    "上级区域": "东州"
   },
   "observations": {
     "类型": [
@@ -57,6 +57,11 @@
         "value": "近七成大地为无尽沙漠",
         "docId": "plot.xianni-1888-oath-daomozong",
         "seq": 1795
+      },
+      {
+        "value": "洲域，境内宗门无数",
+        "docId": "plot.xianni-1922-first-old-acquaintance",
+        "seq": 1829
       }
     ],
     "特产": [
@@ -69,6 +74,11 @@
         "value": "沙漠",
         "docId": "plot.xianni-1890-daomo-sect-master-captures-wang-lin",
         "seq": 1800
+      },
+      {
+        "value": "含磁力的沙尘暴（内蕴风、土本源之力）",
+        "docId": "plot.xianni-1922-first-old-acquaintance",
+        "seq": 1829
       }
     ],
     "危险度": [
@@ -83,6 +93,12 @@
         "docId": "plot.xianni-1889-daomo-zongzhu-breakout",
         "seq": 1800,
         "note": "第1889章"
+      },
+      {
+        "value": "极高",
+        "docId": "plot.xianni-1922-first-old-acquaintance",
+        "seq": 1829,
+        "note": "含磁力的强沙尘暴可吸摄修士，元神难逃"
       }
     ],
     "上级区域": [
@@ -90,6 +106,11 @@
         "value": "仙罡大陆",
         "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
         "seq": 1824
+      },
+      {
+        "value": "东州",
+        "docId": "plot.xianni-1922-first-old-acquaintance",
+        "seq": 1829
       }
     ]
   },
@@ -115,28 +136,28 @@
     },
     "规模": {
       "asOf": null,
-      "docId": "plot.xianni-1888-oath-daomozong",
+      "docId": "plot.xianni-1922-first-old-acquaintance",
       "dated": false,
-      "seq": 1795
+      "seq": 1829
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-1890-daomo-sect-master-captures-wang-lin",
+      "docId": "plot.xianni-1922-first-old-acquaintance",
       "dated": false,
-      "seq": 1800
+      "seq": 1829
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-1889-daomo-zongzhu-breakout",
+      "docId": "plot.xianni-1922-first-old-acquaintance",
       "dated": false,
-      "seq": 1800,
-      "note": "第1889章"
+      "seq": 1829,
+      "note": "含磁力的强沙尘暴可吸摄修士，元神难逃"
     },
     "上级区域": {
       "asOf": null,
-      "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
+      "docId": "plot.xianni-1922-first-old-acquaintance",
       "dated": false,
-      "seq": 1824
+      "seq": 1829
     }
   },
   "contested": false,
@@ -150,7 +171,8 @@
     "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
     "plot.xianni-ch1910-dao-mo-zong-jie",
     "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master",
-    "lore.xianni-1917-xianzu-five-great-tianzun"
+    "lore.xianni-1917-xianzu-five-great-tianzun",
+    "plot.xianni-1922-first-old-acquaintance"
   ],
-  "updatedAt": "2026-08-30T16:53:06.927Z"
+  "updatedAt": "2026-08-30T17:05:19.429Z"
 }
