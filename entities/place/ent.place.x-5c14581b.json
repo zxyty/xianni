@@ -3,11 +3,12 @@
   "type": "place",
   "name": "召河星域深处的陨石",
   "aliases": [
-    "陨石"
+    "陨石",
+    "漂浮的陨石"
   ],
   "summary": "召河星域深处漂浮的一颗陨石，天运子于其中盘膝闭关，本章末猛然睁眼与王林目光重叠。",
   "attributes": {
-    "类型": "闭关之所",
+    "类型": "闭关之所、星空陨石",
     "方位": "召河星域深处",
     "上级区域": "召河星域"
   },
@@ -16,6 +17,11 @@
       {
         "value": "闭关之所",
         "docId": "plot.xianni-ch1718-lunhui-yiti-shu",
+        "seq": 1626
+      },
+      {
+        "value": "星空陨石",
+        "docId": "plot.xianni-ch1719-tianyunzi-clone-hunt-guihe-star-region",
         "seq": 1626
       }
     ],
@@ -58,7 +64,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1718-lunhui-yiti-shu"
+    "plot.xianni-ch1718-lunhui-yiti-shu",
+    "plot.xianni-ch1719-tianyunzi-clone-hunt-guihe-star-region"
   ],
-  "updatedAt": "2026-08-30T03:36:46.469Z"
+  "updatedAt": "2026-08-30T03:39:07.806Z"
 }
