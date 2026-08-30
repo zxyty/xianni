@@ -17,8 +17,8 @@
     "方位": "天牛洲与绿魔洲交界、介于绿魔洲与天牛洲之间、近天牛洲边缘",
     "所属势力": "天牛洲与绿魔洲共有、绿魔洲控制、绿魔洲",
     "危险度": "极高、极高（封印+屠杀+凶兽云涌）、极高（全域封锁并投毒）、极高（绿魔洲大规模屠杀中）",
-    "上级区域": "东州",
-    "守护": "笼罩全海域的禁制大阵（中枢为女子罗盘）",
+    "上级区域": "绿魔洲",
+    "守护": "绿衣修士与丹海禁制阵法、笼罩全海域的禁制大阵（中枢为女子罗盘）、七层雾气禁制大阵",
     "特产": "海水中蕴含水本源、万净化污液、可炼化为半粒仙丹",
     "所属界面": "仙罡大陆、天牛洲"
   },
@@ -108,6 +108,11 @@
         "value": "东州",
         "docId": "plot.xianni-ch1841-jitian-grassland-slaughter-danhai-water-origin",
         "seq": 1750
+      },
+      {
+        "value": "绿魔洲",
+        "docId": "plot.xianni-ch1846-first-meeting-yunkong-danhai-seven-layer-array",
+        "seq": 1755
       }
     ],
     "守护": [
@@ -119,6 +124,11 @@
       {
         "value": "笼罩全海域的禁制大阵（中枢为女子罗盘）",
         "docId": "plot.xianni-ch1844-yugu-danhai-tuwei-yu-qidaozong-sanzhanjiang",
+        "seq": 1755
+      },
+      {
+        "value": "七层雾气禁制大阵",
+        "docId": "plot.xianni-ch1846-first-meeting-yunkong-danhai-seven-layer-array",
         "seq": 1755
       }
     ],
@@ -180,15 +190,15 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch1841-jitian-grassland-slaughter-danhai-water-origin",
+      "docId": "plot.xianni-ch1846-first-meeting-yunkong-danhai-seven-layer-array",
       "dated": false,
-      "seq": 1750
+      "seq": 1755
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch1844-yugu-danhai-tuwei-yu-qidaozong-sanzhanjiang",
+      "docId": "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
       "dated": false,
-      "seq": 1755
+      "seq": 1750
     },
     "特产": {
       "asOf": null,
@@ -210,7 +220,8 @@
     "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
     "plot.xianni-ch1843-water-source-breakthrough-danhai",
     "plot.xianni-ch1844-yugu-danhai-tuwei-yu-qidaozong-sanzhanjiang",
-    "plot.xianni-ch1845-dongzhou-tianjiao-yunkong"
+    "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
+    "plot.xianni-ch1846-first-meeting-yunkong-danhai-seven-layer-array"
   ],
-  "updatedAt": "2026-08-30T11:30:27.252Z"
+  "updatedAt": "2026-08-30T11:32:29.655Z"
 }
