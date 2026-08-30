@@ -1036,3 +1036,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T03:25:06.088Z** `ingest` plot.xianni-ch1713-three-lives-art-and-ghost-face-sail — 第1713章 斩鬼帆——三命术大成，王林剖解鬼脸帆求禁制本源 · kind=plot asOf=2026-08-30 entities=37 relations=42 src=01621-01625.p3.md
 - **2026-08-30T03:27:05.603Z** `ingest` plot.xianni-1714-restriction-source-nine-fusions — 第1714章 禁制本源：王林九次融合与血瞳显化 · kind=plot asOf=2026-08-30 entities=15 relations=16 src=01621-01625.p4.md
 - **2026-08-30T03:29:36.364Z** `ingest` plot.xianni-1715-mu-si-ru-ze — 第1715章 目丝如则：王林以双目血丝化规则、成禁制本源，修为破空灵后期 · kind=plot asOf=2026-08-30 entities=22 relations=23 src=01621-01625.p5.md
+- **2026-08-30T03:32:15.123Z** `ingest` plot.xianni-1716-return-to-new-immortal-realm-and-divining-tian-yun-zi — 第1716章 算天运！——王林返回新仙界，加固银河禁制，起意反算天运子 · kind=plot asOf=2026-08-30 entities=37 relations=42 src=01626-01630.p1.md

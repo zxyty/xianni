@@ -4,13 +4,14 @@
   "name": "云海九阶星域裂缝",
   "aliases": [
     "九阶星域裂缝",
-    "云海星域裂缝"
+    "云海星域裂缝",
+    "星域裂缝"
   ],
   "summary": "王林回家的第二条路，可经神秘女子玉简传送抵达，绕开封界大阵。",
   "attributes": {
     "类型": "星域裂缝",
-    "两端": "云海星域 ↔ 界内",
-    "守护": "封界大阵（须绕开）"
+    "两端": "云海星域—裂缝内部",
+    "守护": "禁制风暴"
   },
   "observations": {
     "类型": [
@@ -25,6 +26,11 @@
         "value": "云海星域 ↔ 界内",
         "docId": "plot.xianni-ch1433-is-he-zhangzun",
         "seq": 1341
+      },
+      {
+        "value": "云海星域—裂缝内部",
+        "docId": "plot.xianni-1716-return-to-new-immortal-realm-and-divining-tian-yun-zi",
+        "seq": 1626
       }
     ],
     "守护": [
@@ -32,6 +38,12 @@
         "value": "封界大阵（须绕开）",
         "docId": "plot.xianni-ch1433-is-he-zhangzun",
         "seq": 1341
+      },
+      {
+        "value": "禁制风暴",
+        "docId": "plot.xianni-1716-return-to-new-immortal-realm-and-divining-tian-yun-zi",
+        "seq": 1626,
+        "note": "数月前曾将凶兽驱出"
       }
     ]
   },
@@ -45,21 +57,23 @@
     },
     "两端": {
       "asOf": null,
-      "docId": "plot.xianni-ch1433-is-he-zhangzun",
+      "docId": "plot.xianni-1716-return-to-new-immortal-realm-and-divining-tian-yun-zi",
       "dated": false,
-      "seq": 1341
+      "seq": 1626
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch1433-is-he-zhangzun",
+      "docId": "plot.xianni-1716-return-to-new-immortal-realm-and-divining-tian-yun-zi",
       "dated": false,
-      "seq": 1341
+      "seq": 1626,
+      "note": "数月前曾将凶兽驱出"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1433-is-he-zhangzun"
+    "plot.xianni-ch1433-is-he-zhangzun",
+    "plot.xianni-1716-return-to-new-immortal-realm-and-divining-tian-yun-zi"
   ],
-  "updatedAt": "2026-08-25T18:36:13.125Z"
+  "updatedAt": "2026-08-30T03:32:14.602Z"
 }
