@@ -17,9 +17,10 @@
     "上级区域": "仙罡大陆",
     "方位": "仙罡大陆东部，距仙冥洲无尽遥远、东洲内、仙罡大陆东州、地处偏僻、仙罡大陆仙族范围内东州",
     "所属势力": "大魂门、归一宗、苍龙宗（其一）、苍龙宗",
-    "类型": "洲、内洲、大洲、洲（大地域）、洲域、洲（大陆分区）",
+    "类型": "洲、内洲、大洲、洲（大地域）、洲域、洲（大陆分区）、洲/大区域",
     "规模": "相当于数十倍洞府界、极大，几乎相当于数十个洞府界、几乎相当于数十个洞府界、极大，搜人不亚于大海寻针",
-    "特产": "山脉众多（传为凶煞骨头所化）、巨大地火脉（分支极多）、境内尽是山峰，有连绵数万山峰的大山脉、地火支脉、火焰矿脉、地火支脉（数千条不止）、地火主脉、地火脉（主脉/子脉/支脉）"
+    "特产": "山脉众多（传为凶煞骨头所化）、巨大地火脉（分支极多）、境内尽是山峰，有连绵数万山峰的大山脉、地火支脉、火焰矿脉、地火支脉（数千条不止）、地火主脉、地火脉（主脉/子脉/支脉）、地火脉",
+    "守护": "地火脉意志"
   },
   "observations": {
     "所属界面": [
@@ -120,6 +121,11 @@
         "value": "洲（大陆分区）",
         "docId": "plot.xianni-ch1808-fire-source-suppression-and-daofei-awakening",
         "seq": 1715
+      },
+      {
+        "value": "洲/大区域",
+        "docId": "plot.xianni-1814-xuanluo-induction-du-qing-oath",
+        "seq": 1725
       }
     ],
     "规模": [
@@ -179,6 +185,18 @@
         "value": "地火脉（主脉/子脉/支脉）",
         "docId": "plot.xianni-1810-qunlong-yique-tun-dimai",
         "seq": 1720
+      },
+      {
+        "value": "地火脉",
+        "docId": "plot.xianni-1814-xuanluo-induction-du-qing-oath",
+        "seq": 1725
+      }
+    ],
+    "守护": [
+      {
+        "value": "地火脉意志",
+        "docId": "plot.xianni-1814-xuanluo-induction-du-qing-oath",
+        "seq": 1725
       }
     ]
   },
@@ -225,6 +243,12 @@
       "docId": "plot.xianni-1801-tianniu-zhou-canglongzong-kangren",
       "dated": false,
       "seq": 1710
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-1814-xuanluo-induction-du-qing-oath",
+      "dated": false,
+      "seq": 1725
     }
   },
   "contested": false,
@@ -241,7 +265,8 @@
     "plot.xianni-ch1808-fire-source-suppression-and-daofei-awakening",
     "plot.xianni-1809-du-qing-hairan-wang-lin-devours-earthfire-veins",
     "plot.xianni-1810-qunlong-yique-tun-dimai",
-    "plot.xianni-1813-wang-lin-seven-origins-golden-seal-du-qing-retreat"
+    "plot.xianni-1813-wang-lin-seven-origins-golden-seal-du-qing-retreat",
+    "plot.xianni-1814-xuanluo-induction-du-qing-oath"
   ],
-  "updatedAt": "2026-08-30T09:29:41.859Z"
+  "updatedAt": "2026-08-30T09:35:24.187Z"
 }
