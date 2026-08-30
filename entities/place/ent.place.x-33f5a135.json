@@ -1,34 +1,35 @@
 {
-  "id": "ent.faction.x-52bedddb",
-  "type": "faction",
-  "name": "世界宗",
+  "id": "ent.place.x-33f5a135",
+  "type": "place",
+  "name": "地火子脉之地",
   "aliases": [
-    "魂云洲世界宗"
+    "地火子脉",
+    "干枯死亡的地火脉"
   ],
-  "summary": "魂云洲的宗门，以「世界宗大手印·役灵印」闻名；杜青见王林施展役灵印后疑其为世界宗之人。",
+  "summary": "王林一路吸干地火脉的所在，本章交战之地，地下蕴含地火子脉，战中裂缝丛生、虚幻火山爆发。",
   "attributes": {
-    "据点": "魂云洲",
-    "等级": "东州九宗十三门之一",
-    "所属界面": "仙罡大陆"
+    "所属界面": "仙罡大陆",
+    "类型": "灵脉/地火脉",
+    "特产": "地火本源"
   },
   "observations": {
-    "据点": [
+    "所属界面": [
       {
-        "value": "魂云洲",
-        "docId": "plot.xianni-ch1811-jingxia-duqing",
-        "seq": 1720
-      }
-    ],
-    "等级": [
-      {
-        "value": "东州九宗十三门之一",
+        "value": "仙罡大陆",
         "docId": "plot.xianni-1812-yu-wanglin-bi-benyuan",
         "seq": 1720
       }
     ],
-    "所属界面": [
+    "类型": [
       {
-        "value": "仙罡大陆",
+        "value": "灵脉/地火脉",
+        "docId": "plot.xianni-1812-yu-wanglin-bi-benyuan",
+        "seq": 1720
+      }
+    ],
+    "特产": [
+      {
+        "value": "地火本源",
         "docId": "plot.xianni-1812-yu-wanglin-bi-benyuan",
         "seq": 1720
       }
@@ -36,19 +37,19 @@
   },
   "firstSeq": 1720,
   "attrProvenance": {
-    "据点": {
-      "asOf": null,
-      "docId": "plot.xianni-ch1811-jingxia-duqing",
-      "dated": false,
-      "seq": 1720
-    },
-    "等级": {
+    "所属界面": {
       "asOf": null,
       "docId": "plot.xianni-1812-yu-wanglin-bi-benyuan",
       "dated": false,
       "seq": 1720
     },
-    "所属界面": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-1812-yu-wanglin-bi-benyuan",
+      "dated": false,
+      "seq": 1720
+    },
+    "特产": {
       "asOf": null,
       "docId": "plot.xianni-1812-yu-wanglin-bi-benyuan",
       "dated": false,
@@ -58,8 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1811-jingxia-duqing",
     "plot.xianni-1812-yu-wanglin-bi-benyuan"
   ],
-  "updatedAt": "2026-08-30T09:27:40.202Z"
+  "updatedAt": "2026-08-30T09:27:40.207Z"
 }
