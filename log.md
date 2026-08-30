@@ -1104,3 +1104,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T08:43:35.198Z** `ingest` plot.xianni-1799-xiangang-third-vortex — 第1799章 仙罡震撼：石壳分身与第三个漩涡 · kind=plot asOf=2026-08-30 entities=21 relations=33 src=01710-01714.p1.md
 - **2026-08-30T08:50:51.596Z** `ingest` plot.xianni-1800-xiangang-dalu-third-vortex-and-wanglin-avatar-fate — 第1800章 仙罡大陆，我来了！——第三漩涡现世与王林分身的「命格」 · kind=plot asOf=2026-08-30 entities=44 relations=66 src=01710-01714.p2.md
 - **2026-08-30T08:53:15.694Z** `ingest` plot.xianni-1801-tianniu-zhou-canglongzong-kangren — 第1801章 有古怪——天牛洲风物与康仁发现坠落的白发青年 · kind=plot asOf=2026-08-30 entities=21 relations=27 src=01710-01714.p3.md
+- **2026-08-30T08:55:07.159Z** `ingest` plot.xianni-ch1802-kang-ren-brings-calamity-home — 第1802章 带煞回府：康仁掳走重伤王林欲炼傀儡，蚊王睁眼 · kind=plot asOf=2026-08-30 entities=19 relations=23 src=01710-01714.p4.md
