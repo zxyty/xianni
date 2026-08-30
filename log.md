@@ -1024,3 +1024,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T02:02:03.950Z** `ingest` plot.xianni-1697-fanbu-guilian-hunmozhou-jinzhi — 第1697章 帆布的鬼脸——王林破魂魔舟第一层甲板禁制 · kind=plot asOf=2026-08-30 entities=12 relations=16 src=01606-01610.p2.md
 - **2026-08-30T02:04:00.821Z** `ingest` plot.xianni-ch1698-fake-realm-huanmo-boat — 第1698章 虚假么！——王林反客为主夺魂魔舟禁制，识破幻界与假矾珊梦 · kind=plot asOf=2026-08-30 entities=13 relations=18 src=01606-01610.p3.md
 - **2026-08-30T02:05:48.651Z** `ingest` plot.xianni-ch1699-illusion-within-illusion — 第1699章 幻中幻——王林识破矾珊梦大魂真幻术，夺取魂魔舟帆布 · kind=plot asOf=2026-08-30 entities=13 relations=22 src=01606-01610.p4.md
+- **2026-08-30T02:08:35.207Z** `ingest` plot.xianni-ch1700-juejian-hunmozhou-guifanfan — 第1700章 决断：王林取鬼脸帆与魂魔舟、得道古祭坛地图，遇幻中七彩道人 · kind=plot asOf=2026-08-30 entities=25 relations=31 src=01606-01610.p5.md

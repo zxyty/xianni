@@ -4,12 +4,14 @@
   "name": "吞噬第三魂的神通",
   "aliases": [
     "女子所传吞噬神通",
-    "抹杀第三魂之神通"
+    "抹杀第三魂之神通",
+    "吞噬第三魂之术",
+    "吞噬第三魂法术"
   ],
   "summary": "女子许诺传授给王林的神通：可将第三魂吞噬并彻底抹杀其一切存在，使王林顶替成为第三魂。",
   "attributes": {
-    "出处": "第二妃之姐（其师尊一系）",
-    "效果": "吞噬目标之魂、彻底抹杀其一切存在、使施术者顶替被吞噬者身份"
+    "出处": "矾珊璐所赠玉简",
+    "效果": "吞噬目标之魂、彻底抹杀其一切存在、使施术者顶替被吞噬者身份、吞噬第三魂"
   },
   "observations": {
     "出处": [
@@ -17,6 +19,11 @@
         "value": "第二妃之姐（其师尊一系）",
         "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
         "seq": 1601
+      },
+      {
+        "value": "矾珊璐所赠玉简",
+        "docId": "plot.xianni-ch1700-juejian-hunmozhou-guifanfan",
+        "seq": 1606
       }
     ],
     "效果": [
@@ -34,6 +41,11 @@
         "value": "使施术者顶替被吞噬者身份",
         "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
         "seq": 1601
+      },
+      {
+        "value": "吞噬第三魂",
+        "docId": "plot.xianni-ch1700-juejian-hunmozhou-guifanfan",
+        "seq": 1606
       }
     ]
   },
@@ -41,9 +53,9 @@
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
+      "docId": "plot.xianni-ch1700-juejian-hunmozhou-guifanfan",
       "dated": false,
-      "seq": 1601
+      "seq": 1606
     },
     "效果": {
       "asOf": null,
@@ -55,7 +67,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.xianni-ch1695-qicai-three-souls-seven-po"
+    "lore.xianni-ch1695-qicai-three-souls-seven-po",
+    "plot.xianni-ch1700-juejian-hunmozhou-guifanfan"
   ],
-  "updatedAt": "2026-08-26T12:40:21.132Z"
+  "updatedAt": "2026-08-30T02:08:34.683Z"
 }

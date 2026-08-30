@@ -4,13 +4,19 @@
   "name": "鬼脸大帆",
   "aliases": [
     "鬼脸帆",
-    "船杆上的大帆"
+    "船杆上的大帆",
+    "主魂帆",
+    "魂魔舟主帆",
+    "Ghost Face Sail"
   ],
   "summary": "禁制巨船船杆上的大帆，是全船禁制的中心；帆内鬼脸仿若活物，王林神识扫过时双目一转死死盯住他，令其心神内似闻狰狞咆哮呐喊。",
   "attributes": {
-    "能力": "全船禁制之中心、以目光震慑心神，令人似闻狰狞咆哮与呐喊",
-    "外形": "帆内有一张仿若活物的鬼脸",
-    "器灵": "帆内鬼脸似有灵"
+    "能力": "全船禁制之中心、以目光震慑心神，令人似闻狰狞咆哮与呐喊、承载大魂真幻术（可达二重幻）、内含包罗魂魔舟全部的禁制、炼化后可操控魂魔舟",
+    "外形": "绘有鬼脸的帆布，卷动时鬼脸似活",
+    "器灵": "帆内鬼脸似有灵",
+    "持有者": "王林",
+    "来历": "大魂门法宝、魂魔舟主魂帆",
+    "禁制": "诸多，包罗魂魔舟全部"
   },
   "observations": {
     "能力": [
@@ -23,6 +29,21 @@
         "value": "以目光震慑心神，令人似闻狰狞咆哮与呐喊",
         "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
         "seq": 1601
+      },
+      {
+        "value": "承载大魂真幻术（可达二重幻）",
+        "docId": "plot.xianni-ch1700-juejian-hunmozhou-guifanfan",
+        "seq": 1606
+      },
+      {
+        "value": "内含包罗魂魔舟全部的禁制",
+        "docId": "plot.xianni-ch1700-juejian-hunmozhou-guifanfan",
+        "seq": 1606
+      },
+      {
+        "value": "炼化后可操控魂魔舟",
+        "docId": "plot.xianni-ch1700-juejian-hunmozhou-guifanfan",
+        "seq": 1606
       }
     ],
     "外形": [
@@ -30,6 +51,11 @@
         "value": "帆内有一张仿若活物的鬼脸",
         "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
         "seq": 1601
+      },
+      {
+        "value": "绘有鬼脸的帆布，卷动时鬼脸似活",
+        "docId": "plot.xianni-ch1700-juejian-hunmozhou-guifanfan",
+        "seq": 1606
       }
     ],
     "器灵": [
@@ -38,6 +64,27 @@
         "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
         "seq": 1601,
         "note": "双目会转动并锁定窥探者"
+      }
+    ],
+    "持有者": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch1700-juejian-hunmozhou-guifanfan",
+        "seq": 1606
+      }
+    ],
+    "来历": [
+      {
+        "value": "大魂门法宝、魂魔舟主魂帆",
+        "docId": "plot.xianni-ch1700-juejian-hunmozhou-guifanfan",
+        "seq": 1606
+      }
+    ],
+    "禁制": [
+      {
+        "value": "诸多，包罗魂魔舟全部",
+        "docId": "plot.xianni-ch1700-juejian-hunmozhou-guifanfan",
+        "seq": 1606
       }
     ]
   },
@@ -51,9 +98,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
+      "docId": "plot.xianni-ch1700-juejian-hunmozhou-guifanfan",
       "dated": false,
-      "seq": 1601
+      "seq": 1606
     },
     "器灵": {
       "asOf": null,
@@ -61,12 +108,31 @@
       "dated": false,
       "seq": 1601,
       "note": "双目会转动并锁定窥探者"
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1700-juejian-hunmozhou-guifanfan",
+      "dated": false,
+      "seq": 1606
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1700-juejian-hunmozhou-guifanfan",
+      "dated": false,
+      "seq": 1606
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1700-juejian-hunmozhou-guifanfan",
+      "dated": false,
+      "seq": 1606
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1694-fan-shanlu-dream-forbidden-ship"
+    "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
+    "plot.xianni-ch1700-juejian-hunmozhou-guifanfan"
   ],
-  "updatedAt": "2026-08-26T12:32:37.471Z"
+  "updatedAt": "2026-08-30T02:08:34.678Z"
 }
