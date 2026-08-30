@@ -4,15 +4,16 @@
   "name": "第三颗修真星",
   "aliases": [
     "百万大军厮杀的修真星",
-    "第三修真星"
+    "第三修真星",
+    "残界第三颗修真星"
   ],
   "summary": "白虎既定规则之界内的第三颗修真星，其上巨大平原正进行百万军兵的俗世大战，白虎战将与高塔第七层之人的虚影悬于其半空。",
   "attributes": {
-    "所属界面": "白虎既定规则之界",
+    "所属界面": "残界",
     "类型": "修真星、修真星（棋局战场所在）",
     "方位": "该界九颗修真星中的第三颗",
     "上级区域": "三百残界",
-    "危险度": "高（规则压制修为与血脉）"
+    "危险度": "崩毁"
   },
   "observations": {
     "所属界面": [
@@ -20,6 +21,11 @@
         "value": "白虎既定规则之界",
         "docId": "plot.xianni-ch1756-bai-hu-zhan-jiang-du-yue",
         "seq": 1665
+      },
+      {
+        "value": "残界",
+        "docId": "plot.xianni-ch1759-qicai-arrival-one-realm-blade",
+        "seq": 1670
       }
     ],
     "类型": [
@@ -53,6 +59,12 @@
         "value": "高（规则压制修为与血脉）",
         "docId": "plot.xianni-ch1757-chess-game-broken-realm-battlefield",
         "seq": 1665
+      },
+      {
+        "value": "崩毁",
+        "docId": "plot.xianni-ch1759-qicai-arrival-one-realm-blade",
+        "seq": 1670,
+        "note": "第1759章末彻底崩溃"
       }
     ]
   },
@@ -60,9 +72,9 @@
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch1756-bai-hu-zhan-jiang-du-yue",
+      "docId": "plot.xianni-ch1759-qicai-arrival-one-realm-blade",
       "dated": false,
-      "seq": 1665
+      "seq": 1670
     },
     "类型": {
       "asOf": null,
@@ -84,16 +96,18 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch1757-chess-game-broken-realm-battlefield",
+      "docId": "plot.xianni-ch1759-qicai-arrival-one-realm-blade",
       "dated": false,
-      "seq": 1665
+      "seq": 1670,
+      "note": "第1759章末彻底崩溃"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1756-bai-hu-zhan-jiang-du-yue",
-    "plot.xianni-ch1757-chess-game-broken-realm-battlefield"
+    "plot.xianni-ch1757-chess-game-broken-realm-battlefield",
+    "plot.xianni-ch1759-qicai-arrival-one-realm-blade"
   ],
-  "updatedAt": "2026-08-30T06:27:05.936Z"
+  "updatedAt": "2026-08-30T06:31:01.737Z"
 }
