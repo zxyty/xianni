@@ -3,14 +3,19 @@
   "type": "person",
   "name": "持中枢罗盘的绿魔洲女子",
   "aliases": [
-    "持罗盘女子"
+    "持罗盘女子",
+    "盯着罗盘的女子",
+    "掌罗盘的绿魔洲女修"
   ],
   "summary": "绿魔洲一方看守丹海阵法中枢者，手持罗盘监控全海；察觉罗盘示警后请赵师兄相助逆转罗盘回溯。",
   "attributes": {
     "性别": "女",
-    "身份": "丹海阵法中枢罗盘的执掌者、可派遣绿魔卫",
+    "身份": "丹海禁制大阵罗盘持有者",
     "外貌": "相貌秀美",
-    "阵营": "绿魔洲"
+    "阵营": "绿魔洲",
+    "存殁": "死亡",
+    "死因": "被王林定身后一掌拍在眉心，身躯与元神俱碎化作血雾",
+    "结局": "第1849章身死，罗盘被王林夺走炼化"
   },
   "observations": {
     "性别": [
@@ -25,6 +30,11 @@
         "value": "丹海阵法中枢罗盘的执掌者、可派遣绿魔卫",
         "docId": "plot.xianni-ch1848-qianfu-danhai-luopan",
         "seq": 1755
+      },
+      {
+        "value": "丹海禁制大阵罗盘持有者",
+        "docId": "plot.xianni-1849-danhai-immortal-pill",
+        "seq": 1760
       }
     ],
     "外貌": [
@@ -40,6 +50,27 @@
         "docId": "plot.xianni-ch1848-qianfu-danhai-luopan",
         "seq": 1755
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-1849-danhai-immortal-pill",
+        "seq": 1760
+      }
+    ],
+    "死因": [
+      {
+        "value": "被王林定身后一掌拍在眉心，身躯与元神俱碎化作血雾",
+        "docId": "plot.xianni-1849-danhai-immortal-pill",
+        "seq": 1760
+      }
+    ],
+    "结局": [
+      {
+        "value": "第1849章身死，罗盘被王林夺走炼化",
+        "docId": "plot.xianni-1849-danhai-immortal-pill",
+        "seq": 1760
+      }
     ]
   },
   "firstSeq": 1755,
@@ -52,9 +83,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1848-qianfu-danhai-luopan",
+      "docId": "plot.xianni-1849-danhai-immortal-pill",
       "dated": false,
-      "seq": 1755
+      "seq": 1760
     },
     "外貌": {
       "asOf": null,
@@ -67,12 +98,31 @@
       "docId": "plot.xianni-ch1848-qianfu-danhai-luopan",
       "dated": false,
       "seq": 1755
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1849-danhai-immortal-pill",
+      "dated": false,
+      "seq": 1760
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-1849-danhai-immortal-pill",
+      "dated": false,
+      "seq": 1760
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-1849-danhai-immortal-pill",
+      "dated": false,
+      "seq": 1760
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1848-qianfu-danhai-luopan"
+    "plot.xianni-ch1848-qianfu-danhai-luopan",
+    "plot.xianni-1849-danhai-immortal-pill"
   ],
-  "updatedAt": "2026-08-30T11:37:25.321Z"
+  "updatedAt": "2026-08-30T11:40:22.836Z"
 }

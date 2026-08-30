@@ -3,13 +3,14 @@
   "type": "place",
   "name": "中州",
   "aliases": [
-    "仙族中州"
+    "仙族中州",
+    "仙族皇城中州"
   ],
   "summary": "仙罡大陆仙族所在之州，皇都皇城所在地。",
   "attributes": {
     "所属界面": "仙罡大陆",
     "所属势力": "仙族",
-    "类型": "大区域"
+    "类型": "仙族皇城"
   },
   "observations": {
     "所属界面": [
@@ -31,6 +32,11 @@
         "value": "大区域",
         "docId": "plot.xianni-ch1838-three-gifts-space-stone-mist-jade-water-origin",
         "seq": 1745
+      },
+      {
+        "value": "仙族皇城",
+        "docId": "plot.xianni-1849-danhai-immortal-pill",
+        "seq": 1760
       }
     ]
   },
@@ -50,16 +56,17 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1838-three-gifts-space-stone-mist-jade-water-origin",
+      "docId": "plot.xianni-1849-danhai-immortal-pill",
       "dated": false,
-      "seq": 1745
+      "seq": 1760
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1807-cangzhongzong-hunt-open-storage-space",
-    "plot.xianni-ch1838-three-gifts-space-stone-mist-jade-water-origin"
+    "plot.xianni-ch1838-three-gifts-space-stone-mist-jade-water-origin",
+    "plot.xianni-1849-danhai-immortal-pill"
   ],
-  "updatedAt": "2026-08-30T11:13:52.758Z"
+  "updatedAt": "2026-08-30T11:40:22.853Z"
 }

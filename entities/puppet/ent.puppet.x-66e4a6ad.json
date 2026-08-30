@@ -5,14 +5,15 @@
   "aliases": [
     "己司",
     "己司傀儡",
-    "Ji Si puppet"
+    "Ji Si puppet",
+    "断臂的己司"
   ],
   "summary": "王林获自古之墓地深处的傀儡，修为无限接近空劫初期；干瘦如猴、四肢着地、猩红长舌拖地、煞气滔天，被王林放出护法。",
   "attributes": {
     "操控者": "王林",
     "品阶": "修为无限接近空劫初期",
-    "外形": "干瘦如猴，四肢着地，双眼赤红，猩红长舌拖地扭曲",
-    "能力": "化作浓黑雾气笼罩天地、巨舌横甩卷人并封锁退路",
+    "外形": "狰狞，失去一只手臂",
+    "能力": "化作浓黑雾气笼罩天地、巨舌横甩卷人并封锁退路、以左臂折断大旗、可被王林随时幻化召出与收走",
     "本体来源": "己司"
   },
   "observations": {
@@ -35,6 +36,12 @@
         "value": "干瘦如猴，四肢着地，双眼赤红，猩红长舌拖地扭曲",
         "docId": "plot.xianni-1839-eighth-water-source-cycle",
         "seq": 1750
+      },
+      {
+        "value": "狰狞，失去一只手臂",
+        "docId": "plot.xianni-1849-danhai-immortal-pill",
+        "seq": 1760,
+        "note": "本章描写"
       }
     ],
     "能力": [
@@ -47,6 +54,16 @@
         "value": "巨舌横甩卷人并封锁退路",
         "docId": "plot.xianni-1839-eighth-water-source-cycle",
         "seq": 1750
+      },
+      {
+        "value": "以左臂折断大旗",
+        "docId": "plot.xianni-1849-danhai-immortal-pill",
+        "seq": 1760
+      },
+      {
+        "value": "可被王林随时幻化召出与收走",
+        "docId": "plot.xianni-1849-danhai-immortal-pill",
+        "seq": 1760
       }
     ],
     "本体来源": [
@@ -73,9 +90,10 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-1839-eighth-water-source-cycle",
+      "docId": "plot.xianni-1849-danhai-immortal-pill",
       "dated": false,
-      "seq": 1750
+      "seq": 1760,
+      "note": "本章描写"
     },
     "能力": {
       "asOf": null,
@@ -93,7 +111,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1839-eighth-water-source-cycle"
+    "plot.xianni-1839-eighth-water-source-cycle",
+    "plot.xianni-1849-danhai-immortal-pill"
   ],
-  "updatedAt": "2026-08-30T11:15:52.470Z"
+  "updatedAt": "2026-08-30T11:40:22.842Z"
 }

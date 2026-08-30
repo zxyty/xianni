@@ -15,14 +15,15 @@
   ],
   "summary": "东州内天牛洲与绿魔洲接壤处的巨大内陆海，传闻由天外坠落的一颗丹药炸开所化，两洲共有、势力混乱；本章被只进不出的禁制笼罩。",
   "attributes": {
-    "类型": "内陆海、大海/门户之地、海域、海域秘境、禁地/海域、海域/秘境",
+    "类型": "内陆海、大海/门户之地、海域、海域秘境、禁地/海域、海域/秘境、仙丹所化之海域/秘境",
     "方位": "天牛洲与绿魔洲交界、介于绿魔洲与天牛洲之间、近天牛洲边缘",
     "所属势力": "天牛洲与绿魔洲共有、绿魔洲控制、绿魔洲",
-    "危险度": "极高、极高（封印+屠杀+凶兽云涌）、极高（全域封锁并投毒）、极高（绿魔洲大规模屠杀中）",
+    "危险度": "极高、极高（封印+屠杀+凶兽云涌）、极高（全域封锁并投毒）、极高（绿魔洲大规模屠杀中）、极高（阵法遍布、数万绿魔洲修士云集）",
     "上级区域": "东州、绿魔洲、天牛洲",
-    "守护": "绿衣修士与丹海禁制阵法、笼罩全海域的禁制大阵（中枢为女子罗盘）、七层雾气禁制大阵、无形禁制阵法（至少七层雾气）与中枢罗盘",
-    "特产": "海水中蕴含水本源、万净化污液、可炼化为半粒仙丹、传说中的半粒仙丹",
-    "所属界面": "仙罡大陆、天牛洲"
+    "守护": "绿衣修士与丹海禁制阵法、笼罩全海域的禁制大阵（中枢为女子罗盘）、七层雾气禁制大阵、无形禁制阵法（至少七层雾气）与中枢罗盘、丹海禁制大阵、三杆大旗",
+    "特产": "海水中蕴含水本源、万净化污液、可炼化为半粒仙丹、传说中的半粒仙丹、仙气、海草与珊瑚、海中之兽",
+    "所属界面": "仙罡大陆、天牛洲",
+    "规模": "由无尽收缩至三万丈"
   },
   "observations": {
     "类型": [
@@ -55,6 +56,11 @@
         "value": "海域/秘境",
         "docId": "plot.xianni-ch1848-qianfu-danhai-luopan",
         "seq": 1755
+      },
+      {
+        "value": "仙丹所化之海域/秘境",
+        "docId": "plot.xianni-1849-danhai-immortal-pill",
+        "seq": 1760
       }
     ],
     "方位": [
@@ -113,6 +119,11 @@
         "value": "极高（绿魔洲大规模屠杀中）",
         "docId": "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
         "seq": 1755
+      },
+      {
+        "value": "极高（阵法遍布、数万绿魔洲修士云集）",
+        "docId": "plot.xianni-1849-danhai-immortal-pill",
+        "seq": 1760
       }
     ],
     "上级区域": [
@@ -152,6 +163,16 @@
         "value": "无形禁制阵法（至少七层雾气）与中枢罗盘",
         "docId": "plot.xianni-ch1848-qianfu-danhai-luopan",
         "seq": 1755
+      },
+      {
+        "value": "丹海禁制大阵",
+        "docId": "plot.xianni-1849-danhai-immortal-pill",
+        "seq": 1760
+      },
+      {
+        "value": "三杆大旗",
+        "docId": "plot.xianni-1849-danhai-immortal-pill",
+        "seq": 1760
       }
     ],
     "特产": [
@@ -174,6 +195,21 @@
         "value": "传说中的半粒仙丹",
         "docId": "plot.xianni-ch1848-qianfu-danhai-luopan",
         "seq": 1755
+      },
+      {
+        "value": "仙气",
+        "docId": "plot.xianni-1849-danhai-immortal-pill",
+        "seq": 1760
+      },
+      {
+        "value": "海草与珊瑚",
+        "docId": "plot.xianni-1849-danhai-immortal-pill",
+        "seq": 1760
+      },
+      {
+        "value": "海中之兽",
+        "docId": "plot.xianni-1849-danhai-immortal-pill",
+        "seq": 1760
       }
     ],
     "所属界面": [
@@ -186,6 +222,14 @@
         "value": "天牛洲",
         "docId": "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
         "seq": 1755
+      }
+    ],
+    "规模": [
+      {
+        "value": "由无尽收缩至三万丈",
+        "docId": "plot.xianni-1849-danhai-immortal-pill",
+        "seq": 1760,
+        "note": "本章被云空炼化收缩过程中"
       }
     ]
   },
@@ -238,6 +282,13 @@
       "docId": "plot.xianni-ch1844-yugu-danhai-tuwei-yu-qidaozong-sanzhanjiang",
       "dated": false,
       "seq": 1755
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-1849-danhai-immortal-pill",
+      "dated": false,
+      "seq": 1760,
+      "note": "本章被云空炼化收缩过程中"
     }
   },
   "contested": false,
@@ -250,7 +301,8 @@
     "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
     "plot.xianni-ch1846-first-meeting-yunkong-danhai-seven-layer-array",
     "plot.xianni-ch1847-hui-ma-qiang-danhai-tuwei-yunkong",
-    "plot.xianni-ch1848-qianfu-danhai-luopan"
+    "plot.xianni-ch1848-qianfu-danhai-luopan",
+    "plot.xianni-1849-danhai-immortal-pill"
   ],
-  "updatedAt": "2026-08-30T11:37:25.327Z"
+  "updatedAt": "2026-08-30T11:40:22.851Z"
 }

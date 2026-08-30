@@ -3,12 +3,15 @@
   "type": "formation",
   "name": "丹海禁制大阵",
   "aliases": [
-    "禁制大阵"
+    "禁制大阵",
+    "丹海上的禁制大阵",
+    "丹海阵法禁制"
   ],
   "summary": "笼罩丹海的七层禁制大阵，第七层雾气最浓最难破，王林以本源融阵并借冲击之力方得冲出。",
   "attributes": {
-    "效果": "七层雾气封锁，逐层递增，第七层最难寻缺口",
-    "破解法": "以本源融此禁制大阵、夺取中枢罗盘"
+    "效果": "七层雾气封锁，逐层递增，第七层最难寻缺口、示警与显形入侵者、定位阵内修士、供掌控者融入其中瞬移",
+    "破解法": "以本源融此禁制大阵、夺取中枢罗盘、夺取罗盘并以禁制本源抹去其上神识；折断三杆大旗",
+    "布置者": "绿魔洲一方"
   },
   "observations": {
     "效果": [
@@ -16,6 +19,21 @@
         "value": "七层雾气封锁，逐层递增，第七层最难寻缺口",
         "docId": "plot.xianni-ch1847-hui-ma-qiang-danhai-tuwei-yunkong",
         "seq": 1755
+      },
+      {
+        "value": "示警与显形入侵者",
+        "docId": "plot.xianni-1849-danhai-immortal-pill",
+        "seq": 1760
+      },
+      {
+        "value": "定位阵内修士",
+        "docId": "plot.xianni-1849-danhai-immortal-pill",
+        "seq": 1760
+      },
+      {
+        "value": "供掌控者融入其中瞬移",
+        "docId": "plot.xianni-1849-danhai-immortal-pill",
+        "seq": 1760
       }
     ],
     "破解法": [
@@ -28,6 +46,19 @@
         "value": "夺取中枢罗盘",
         "docId": "plot.xianni-ch1847-hui-ma-qiang-danhai-tuwei-yunkong",
         "seq": 1755
+      },
+      {
+        "value": "夺取罗盘并以禁制本源抹去其上神识；折断三杆大旗",
+        "docId": "plot.xianni-1849-danhai-immortal-pill",
+        "seq": 1760,
+        "note": "王林在第1849章所用"
+      }
+    ],
+    "布置者": [
+      {
+        "value": "绿魔洲一方",
+        "docId": "plot.xianni-1849-danhai-immortal-pill",
+        "seq": 1760
       }
     ]
   },
@@ -44,12 +75,19 @@
       "docId": "plot.xianni-ch1847-hui-ma-qiang-danhai-tuwei-yunkong",
       "dated": false,
       "seq": 1755
+    },
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.xianni-1849-danhai-immortal-pill",
+      "dated": false,
+      "seq": 1760
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1847-hui-ma-qiang-danhai-tuwei-yunkong"
+    "plot.xianni-ch1847-hui-ma-qiang-danhai-tuwei-yunkong",
+    "plot.xianni-1849-danhai-immortal-pill"
   ],
-  "updatedAt": "2026-08-30T11:34:53.855Z"
+  "updatedAt": "2026-08-30T11:40:22.860Z"
 }
