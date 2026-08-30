@@ -4,14 +4,15 @@
   "name": "绿魔炉",
   "aliases": [
     "绿色丹炉",
-    "绿魔之炉"
+    "绿魔之炉",
+    "绿魔炉天地之力之源"
   ],
   "summary": "由绿色空间收缩、无数蝎子崩溃之绿芒与老者余下全部罕见物品凝成的千丈绿色丹炉，用于温养炼化王林肉身。",
   "attributes": {
     "外形": "千丈大小、通体绿色的巨大丹炉、炉状，立于蝎子建筑之上、炉",
-    "能力": "温养炼化肉身，改造成适合绿魔大人夺舍的蝎体、改造肉身、去除元神与神智以供夺舍",
+    "能力": "温养炼化肉身，改造成适合绿魔大人夺舍的蝎体、改造肉身、去除元神与神智以供夺舍、积蓄天地之力供元神吸收以暴增修为",
     "来历": "绿色空间与无数蝎子及全族备物凝成、绿魔洲祭祀一族所用、绿魔蝎庙深处",
-    "持有者": "绿袍老者"
+    "持有者": "王林"
   },
   "observations": {
     "外形": [
@@ -41,6 +42,11 @@
         "value": "改造肉身、去除元神与神智以供夺舍",
         "docId": "plot.xianni-ch1898-green-demon-scorpion-soul-devour-failed-possession",
         "seq": 1805
+      },
+      {
+        "value": "积蓄天地之力供元神吸收以暴增修为",
+        "docId": "plot.xianni-1900-wang-lin-cultivation-surge-kongxuan",
+        "seq": 1810
       }
     ],
     "来历": [
@@ -65,6 +71,11 @@
         "value": "绿袍老者",
         "docId": "plot.xianni-ch1897-green-demon-furnace",
         "seq": 1805
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-1900-wang-lin-cultivation-surge-kongxuan",
+        "seq": 1810
       }
     ]
   },
@@ -90,9 +101,9 @@
     },
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch1897-green-demon-furnace",
+      "docId": "plot.xianni-1900-wang-lin-cultivation-surge-kongxuan",
       "dated": false,
-      "seq": 1805
+      "seq": 1810
     }
   },
   "contested": false,
@@ -100,7 +111,8 @@
   "docs": [
     "plot.xianni-ch1897-green-demon-furnace",
     "plot.xianni-ch1898-green-demon-scorpion-soul-devour-failed-possession",
-    "plot.xianni-1899-green-robed-elder-dies-wang-lin-devours-scorpion-soul"
+    "plot.xianni-1899-green-robed-elder-dies-wang-lin-devours-scorpion-soul",
+    "plot.xianni-1900-wang-lin-cultivation-surge-kongxuan"
   ],
-  "updatedAt": "2026-08-30T15:12:12.554Z"
+  "updatedAt": "2026-08-30T15:14:00.827Z"
 }
