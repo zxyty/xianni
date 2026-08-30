@@ -1050,3 +1050,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T03:58:36.623Z** `ingest` plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou — 第1727章 阻拦！——王林重凝七大本源，四大战将与战老鬼觊觎幽冥兽拦路 · kind=plot asOf=2026-08-30 entities=28 relations=44 src=01636-01640.p2.md
 - **2026-08-30T04:01:13.708Z** `ingest` plot.xianni-ch1728-xuanluo-enters-mansion — 第1728章 玄罗入府！——王林道破第三魂、幽冥兽天道吞噬八十仙人 · kind=plot asOf=2026-08-30 entities=27 relations=39 src=01636-01640.p3.md
 - **2026-08-30T04:03:45.409Z** `ingest` plot.xianni-1729-wuxing-star-guiyi-zong — 第1729章 五行星：王林赴纳多千年之约，硬闯五行归一大阵 · kind=plot asOf=2026-08-30 entities=26 relations=33 src=01636-01640.p4.md
+- **2026-08-30T04:06:08.566Z** `ingest` plot.xianni-ch1730-earth-origin-wuxing-star-formation — 第1730章 大地本源！——王林闯五行星大阵、收走大地土灵 · kind=plot asOf=2026-08-30 entities=22 relations=31 src=01636-01640.p5.md

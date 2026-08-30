@@ -3,14 +3,15 @@
   "type": "person",
   "name": "尹东申",
   "aliases": [
-    "归一宗副宗主尹东申"
+    "归一宗副宗主尹东申",
+    "道袍褐斑老者"
   ],
   "summary": "归一宗副宗主，在宗主与诸位长老闭关期间主持宗务；以纳多闭死关为由劝退王林，并以五行归一阵相威胁，随即被一股霸道神识压过。",
   "attributes": {
     "性别": "男",
-    "身份": "归一宗副宗主",
-    "外貌": "声音沙哑",
-    "性格": "谨慎、忌惮"
+    "身份": "归一宗副宗主、五行星归一宗长老",
+    "外貌": "声音沙哑、穿道袍，脸上有褐色斑点，声音沙哑",
+    "性格": "谨慎、忌惮、谨慎、忌惮王林"
   },
   "observations": {
     "性别": [
@@ -25,6 +26,11 @@
         "value": "归一宗副宗主",
         "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
         "seq": 1636
+      },
+      {
+        "value": "五行星归一宗长老",
+        "docId": "plot.xianni-ch1730-earth-origin-wuxing-star-formation",
+        "seq": 1636
       }
     ],
     "外貌": [
@@ -32,12 +38,22 @@
         "value": "声音沙哑",
         "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
         "seq": 1636
+      },
+      {
+        "value": "穿道袍，脸上有褐色斑点，声音沙哑",
+        "docId": "plot.xianni-ch1730-earth-origin-wuxing-star-formation",
+        "seq": 1636
       }
     ],
     "性格": [
       {
         "value": "谨慎、忌惮",
         "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
+        "seq": 1636
+      },
+      {
+        "value": "谨慎、忌惮王林",
+        "docId": "plot.xianni-ch1730-earth-origin-wuxing-star-formation",
         "seq": 1636
       }
     ]
@@ -72,7 +88,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1729-wuxing-star-guiyi-zong"
+    "plot.xianni-1729-wuxing-star-guiyi-zong",
+    "plot.xianni-ch1730-earth-origin-wuxing-star-formation"
   ],
-  "updatedAt": "2026-08-30T04:03:44.890Z"
+  "updatedAt": "2026-08-30T04:06:08.044Z"
 }

@@ -9,17 +9,19 @@
     "五行之星",
     "五行星辰",
     "Wuxing Star",
-    "五行星修真星"
+    "五行星修真星",
+    "五行星球"
   ],
   "summary": "纳多的母星/所在星球，纳多留约王林日后可去此处找他。",
   "attributes": {
     "类型": "修真星",
-    "守护": "五行光环与五行归一护星大阵",
+    "守护": "纳多、五行光环与五行归一护星大阵、五行大阵",
     "所属界面": "洞府界",
-    "危险度": "藏有最后一股隐藏势力、极高（曾有数百界外修士误入再未出来）",
+    "危险度": "藏有最后一股隐藏势力、极高（曾有数百界外修士误入再未出来）、极高（九位老祖布阵、老祖沉睡其上）",
     "上级区域": "昆虚星域",
     "规模": "凡人十几亿",
-    "特产": "极浓灵气、修仙体质者较多"
+    "特产": "极浓灵气、修仙体质者较多",
+    "所属势力": "五行星归一宗"
   },
   "observations": {
     "类型": [
@@ -44,6 +46,11 @@
         "value": "五行光环与五行归一护星大阵",
         "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
         "seq": 1636
+      },
+      {
+        "value": "五行大阵",
+        "docId": "plot.xianni-ch1730-earth-origin-wuxing-star-formation",
+        "seq": 1636
       }
     ],
     "所属界面": [
@@ -62,6 +69,11 @@
       {
         "value": "极高（曾有数百界外修士误入再未出来）",
         "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
+        "seq": 1636
+      },
+      {
+        "value": "极高（九位老祖布阵、老祖沉睡其上）",
+        "docId": "plot.xianni-ch1730-earth-origin-wuxing-star-formation",
         "seq": 1636
       }
     ],
@@ -85,6 +97,13 @@
         "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
         "seq": 1636
       }
+    ],
+    "所属势力": [
+      {
+        "value": "五行星归一宗",
+        "docId": "plot.xianni-ch1730-earth-origin-wuxing-star-formation",
+        "seq": 1636
+      }
     ]
   },
   "firstSeq": 231,
@@ -97,9 +116,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
+      "docId": "plot.xianni-ch231-234-xieyi-nanzi",
       "dated": false,
-      "seq": 1636
+      "seq": 231
     },
     "所属界面": {
       "asOf": null,
@@ -130,6 +149,12 @@
       "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
       "dated": false,
       "seq": 1636
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1730-earth-origin-wuxing-star-formation",
+      "dated": false,
+      "seq": 1636
     }
   },
   "contested": false,
@@ -140,7 +165,8 @@
     "plot.xianni-ch611-buwang-zhuque-first-act",
     "plot.xianni-ch1682-outsiders-wind-immortal-realm-reassembled",
     "plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou",
-    "plot.xianni-1729-wuxing-star-guiyi-zong"
+    "plot.xianni-1729-wuxing-star-guiyi-zong",
+    "plot.xianni-ch1730-earth-origin-wuxing-star-formation"
   ],
-  "updatedAt": "2026-08-30T04:03:44.900Z"
+  "updatedAt": "2026-08-30T04:06:08.055Z"
 }

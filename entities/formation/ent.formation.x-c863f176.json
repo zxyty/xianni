@@ -5,13 +5,16 @@
   "aliases": [
     "五行大阵",
     "归一宗护星大阵",
-    "五行光环阵"
+    "五行光环阵",
+    "五行阵",
+    "五道交错光环"
   ],
   "summary": "归一宗护星大阵，外显为五行星外五道交错急旋的彩色光环，蕴火、水、金、土、木五行之力，设五关；黑袍老者踏入亦只能撑一炷香、止于火行关。",
   "attributes": {
-    "效果": "阻绝外敌入星、以五行之力轰击闯阵者、分设五关",
-    "出处": "归一宗",
-    "破解法": "全过五关方可踏入五行星"
+    "效果": "阻绝外敌入星、以五行之力轰击闯阵者、分设五关、外围五行幻化（火焰、风沙、怒海、万金、木灵）、五关：土阵在内共五关、五关之后的九转之力",
+    "出处": "归一宗、五行星",
+    "破解法": "全过五关方可踏入五行星",
+    "布置者": "九位老祖"
   },
   "observations": {
     "效果": [
@@ -29,6 +32,21 @@
         "value": "分设五关",
         "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
         "seq": 1636
+      },
+      {
+        "value": "外围五行幻化（火焰、风沙、怒海、万金、木灵）",
+        "docId": "plot.xianni-ch1730-earth-origin-wuxing-star-formation",
+        "seq": 1636
+      },
+      {
+        "value": "五关：土阵在内共五关",
+        "docId": "plot.xianni-ch1730-earth-origin-wuxing-star-formation",
+        "seq": 1636
+      },
+      {
+        "value": "五关之后的九转之力",
+        "docId": "plot.xianni-ch1730-earth-origin-wuxing-star-formation",
+        "seq": 1636
       }
     ],
     "出处": [
@@ -36,12 +54,24 @@
         "value": "归一宗",
         "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
         "seq": 1636
+      },
+      {
+        "value": "五行星",
+        "docId": "plot.xianni-ch1730-earth-origin-wuxing-star-formation",
+        "seq": 1636
       }
     ],
     "破解法": [
       {
         "value": "全过五关方可踏入五行星",
         "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
+        "seq": 1636
+      }
+    ],
+    "布置者": [
+      {
+        "value": "九位老祖",
+        "docId": "plot.xianni-ch1730-earth-origin-wuxing-star-formation",
         "seq": 1636
       }
     ]
@@ -65,12 +95,19 @@
       "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
       "dated": false,
       "seq": 1636
+    },
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1730-earth-origin-wuxing-star-formation",
+      "dated": false,
+      "seq": 1636
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1729-wuxing-star-guiyi-zong"
+    "plot.xianni-1729-wuxing-star-guiyi-zong",
+    "plot.xianni-ch1730-earth-origin-wuxing-star-formation"
   ],
-  "updatedAt": "2026-08-30T04:03:44.917Z"
+  "updatedAt": "2026-08-30T04:06:08.057Z"
 }
