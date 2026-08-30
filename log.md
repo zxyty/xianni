@@ -1118,3 +1118,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T09:29:42.433Z** `ingest` plot.xianni-1813-wang-lin-seven-origins-golden-seal-du-qing-retreat — 第1813章 太坑人了！——王林连出七道本源、亮大天尊金印吓退杜青 · kind=plot asOf=2026-08-30 entities=20 relations=23 src=01720-01724.p5.md
 - **2026-08-30T09:35:24.735Z** `ingest` plot.xianni-1814-xuanluo-induction-du-qing-oath — 第1814章 玄罗的感应：杜青立誓护法，王林收金印吞火焰本源 · kind=plot asOf=2026-08-30 entities=24 relations=41 src=01725-01729.p1.md
 - **2026-08-30T09:37:44.888Z** `ingest` plot.xianni-ch1815-condense-source-true-body — 第1815章 凝本源真身！——王林抽百七十二条支脉与两条子脉，凝火本源真身四肢 · kind=plot asOf=2026-08-30 entities=22 relations=28 src=01725-01729.p2.md
+- **2026-08-30T09:39:37.493Z** `ingest` plot.xianni-ch1816-benyuan-zhenshen-regret — 第1816章 真身憾：三条子脉龙魂凝聚本源真身，唯缺头颅 · kind=plot asOf=2026-08-30 entities=17 relations=21 src=01725-01729.p3.md
