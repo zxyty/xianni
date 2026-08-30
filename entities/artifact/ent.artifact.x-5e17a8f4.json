@@ -8,9 +8,9 @@
   ],
   "summary": "拳头大小、内含无数闪电的珠子，闪电中隐见战车虚影与形如雷之帝王的模糊之人；祭祀自雷帝洲换得两颗，本备献给复活的绿魔蝎吸收。",
   "attributes": {
-    "外形": "拳头大小珠子，内有无数闪电与战车、帝王虚影",
-    "能力": "吞噬后令雷霆本源轰然暴增",
-    "来历": "自雷帝洲换来",
+    "外形": "拳头大小珠子，内有无数闪电与战车、帝王虚影、闪电雷霆所化珠子",
+    "能力": "吞噬后令雷霆本源轰然暴增、吞服后体内雷霆本源轰然暴增、推动意志冲出",
+    "来历": "自雷帝洲换来、雷帝洲；由祭祀老者自蝎子建筑内放出",
     "持有者": "绿魔蝎庙祭祀",
     "五行属性": "雷"
   },
@@ -20,6 +20,11 @@
         "value": "拳头大小珠子，内有无数闪电与战车、帝王虚影",
         "docId": "plot.xianni-ch1891-jie-lei-mo-shen",
         "seq": 1800
+      },
+      {
+        "value": "闪电雷霆所化珠子",
+        "docId": "plot.xianni-ch1892-thunder-source-true-body-born",
+        "seq": 1800
       }
     ],
     "能力": [
@@ -27,12 +32,22 @@
         "value": "吞噬后令雷霆本源轰然暴增",
         "docId": "plot.xianni-ch1891-jie-lei-mo-shen",
         "seq": 1800
+      },
+      {
+        "value": "吞服后体内雷霆本源轰然暴增、推动意志冲出",
+        "docId": "plot.xianni-ch1892-thunder-source-true-body-born",
+        "seq": 1800
       }
     ],
     "来历": [
       {
         "value": "自雷帝洲换来",
         "docId": "plot.xianni-ch1891-jie-lei-mo-shen",
+        "seq": 1800
+      },
+      {
+        "value": "雷帝洲；由祭祀老者自蝎子建筑内放出",
+        "docId": "plot.xianni-ch1892-thunder-source-true-body-born",
         "seq": 1800
       }
     ],
@@ -87,7 +102,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1891-jie-lei-mo-shen"
+    "plot.xianni-ch1891-jie-lei-mo-shen",
+    "plot.xianni-ch1892-thunder-source-true-body-born"
   ],
-  "updatedAt": "2026-08-30T14:54:52.761Z"
+  "updatedAt": "2026-08-30T14:57:00.586Z"
 }
