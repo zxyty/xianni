@@ -21,13 +21,14 @@
     "身份": "绿魔洲三大宗门共同弟子；武封大天尊门下、绿魔洲大师兄、四大天骄之一；丹海仙丹凝聚者、绿魔洲修士、绿魔天骄、施展惊天剑气的阻拦者",
     "元神强度": "修为莫测",
     "性别": "男",
-    "外貌": "青衣青年，朴素青衫无点缀，长发披肩，相貌极为俊美却冷酷、面色略有苍白、青衫、长发披肩、相貌近乎妖异的英俊，面容苍白",
+    "外貌": "青衣青年，朴素青衫无点缀，长发披肩，相貌极为俊美却冷酷、面色略有苍白、青衫、长发披肩、相貌近乎妖异的英俊，面容苍白、青衣男子，神色冰冷",
     "本命法宝": "七尺长剑",
-    "标志特征": "以身融剑的极端剑道、弯月剑影、数万丈掘海剑影、斩天剑影、咬破舌尖喷血化血色剑气、滔天剑气、笼罩八方的剑意、修为古怪、爆发时亦看不出境界、剑意惊天、神识可完全融入丹海、剑气化作古朴剑影，如山尖般悬于空中",
+    "标志特征": "以身融剑的极端剑道、弯月剑影、数万丈掘海剑影、斩天剑影、咬破舌尖喷血化血色剑气、滔天剑气、笼罩八方的剑意、修为古怪、爆发时亦看不出境界、剑意惊天、神识可完全融入丹海、剑气化作古朴剑影，如山尖般悬于空中、咬破舌尖喷出金色鲜血化九道剑影",
     "性格": "冷酷",
-    "存殁": "分身崩溃、本尊存活；分身死亡",
-    "死因": "被仙丹爆炸的毁灭之力卷中，分身生生崩溃",
-    "分身": "丹海中的云空分身"
+    "存殁": "分身崩溃、本尊存活；分身死亡、死亡",
+    "死因": "被王林血剑自眉心穿透头颅",
+    "分身": "丹海中的云空分身",
+    "结局": "被王林击杀于山脉之巅"
   },
   "observations": {
     "称号": [
@@ -128,6 +129,11 @@
         "value": "青衫、长发披肩、相貌近乎妖异的英俊，面容苍白",
         "docId": "plot.xianni-ch1851-hun-yi-ling",
         "seq": 1760
+      },
+      {
+        "value": "青衣男子，神色冰冷",
+        "docId": "plot.xianni-1888-oath-daomozong",
+        "seq": 1795
       }
     ],
     "本命法宝": [
@@ -187,6 +193,11 @@
         "value": "剑气化作古朴剑影，如山尖般悬于空中",
         "docId": "plot.xianni-1887-lvmozhou-border-blockade",
         "seq": 1795
+      },
+      {
+        "value": "咬破舌尖喷出金色鲜血化九道剑影",
+        "docId": "plot.xianni-1888-oath-daomozong",
+        "seq": 1795
       }
     ],
     "性格": [
@@ -213,6 +224,11 @@
         "docId": "plot.xianni-ch1851-hun-yi-ling",
         "seq": 1760,
         "note": "分身死于仙丹炸开的毁灭之力"
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-1888-oath-daomozong",
+        "seq": 1795
       }
     ],
     "死因": [
@@ -221,6 +237,11 @@
         "docId": "plot.xianni-ch1850-immortal-pill-explodes",
         "seq": 1760,
         "note": "仅分身"
+      },
+      {
+        "value": "被王林血剑自眉心穿透头颅",
+        "docId": "plot.xianni-1888-oath-daomozong",
+        "seq": 1795
       }
     ],
     "分身": [
@@ -229,6 +250,14 @@
         "docId": "plot.xianni-ch1851-hun-yi-ling",
         "seq": 1760,
         "note": "本章彻底死亡"
+      }
+    ],
+    "结局": [
+      {
+        "value": "被王林击杀于山脉之巅",
+        "docId": "plot.xianni-1888-oath-daomozong",
+        "seq": 1795,
+        "note": "王林无暇查看其为分身还是本尊"
       }
     ]
   },
@@ -298,10 +327,9 @@
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.xianni-ch1850-immortal-pill-explodes",
+      "docId": "plot.xianni-1888-oath-daomozong",
       "dated": false,
-      "seq": 1760,
-      "note": "仅分身"
+      "seq": 1795
     },
     "分身": {
       "asOf": null,
@@ -309,6 +337,13 @@
       "dated": false,
       "seq": 1760,
       "note": "本章彻底死亡"
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-1888-oath-daomozong",
+      "dated": false,
+      "seq": 1795,
+      "note": "王林无暇查看其为分身还是本尊"
     }
   },
   "contested": false,
@@ -322,7 +357,8 @@
     "plot.xianni-ch1850-immortal-pill-explodes",
     "plot.xianni-ch1851-hun-yi-ling",
     "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
-    "plot.xianni-1887-lvmozhou-border-blockade"
+    "plot.xianni-1887-lvmozhou-border-blockade",
+    "plot.xianni-1888-oath-daomozong"
   ],
-  "updatedAt": "2026-08-30T14:45:43.469Z"
+  "updatedAt": "2026-08-30T14:48:25.777Z"
 }

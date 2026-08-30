@@ -3,18 +3,28 @@
   "type": "place",
   "name": "孟土洲",
   "aliases": [
-    "孟土"
+    "孟土",
+    "Meng Tu Zhou"
   ],
   "summary": "位于绿魔洲边界高山山脉之外的大洲，翻越该山脉即入孟土洲，是王林此行的去向。",
   "attributes": {
-    "类型": "大洲",
-    "方位": "绿魔洲边界山脉之外"
+    "类型": "大洲、洲",
+    "方位": "绿魔洲边界山脉之外",
+    "所属界面": "仙罡大陆",
+    "规模": "近七成大地为无尽沙漠",
+    "特产": "土本源气息",
+    "危险度": "边界外有道魔宗重兵拦截"
   },
   "observations": {
     "类型": [
       {
         "value": "大洲",
         "docId": "plot.xianni-1887-lvmozhou-border-blockade",
+        "seq": 1795
+      },
+      {
+        "value": "洲",
+        "docId": "plot.xianni-1888-oath-daomozong",
         "seq": 1795
       }
     ],
@@ -23,6 +33,35 @@
         "value": "绿魔洲边界山脉之外",
         "docId": "plot.xianni-1887-lvmozhou-border-blockade",
         "seq": 1795
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "仙罡大陆",
+        "docId": "plot.xianni-1888-oath-daomozong",
+        "seq": 1795
+      }
+    ],
+    "规模": [
+      {
+        "value": "近七成大地为无尽沙漠",
+        "docId": "plot.xianni-1888-oath-daomozong",
+        "seq": 1795
+      }
+    ],
+    "特产": [
+      {
+        "value": "土本源气息",
+        "docId": "plot.xianni-1888-oath-daomozong",
+        "seq": 1795
+      }
+    ],
+    "危险度": [
+      {
+        "value": "边界外有道魔宗重兵拦截",
+        "docId": "plot.xianni-1888-oath-daomozong",
+        "seq": 1795,
+        "note": "第1888章"
       }
     ]
   },
@@ -39,12 +78,38 @@
       "docId": "plot.xianni-1887-lvmozhou-border-blockade",
       "dated": false,
       "seq": 1795
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-1888-oath-daomozong",
+      "dated": false,
+      "seq": 1795
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-1888-oath-daomozong",
+      "dated": false,
+      "seq": 1795
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-1888-oath-daomozong",
+      "dated": false,
+      "seq": 1795
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-1888-oath-daomozong",
+      "dated": false,
+      "seq": 1795,
+      "note": "第1888章"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1887-lvmozhou-border-blockade"
+    "plot.xianni-1887-lvmozhou-border-blockade",
+    "plot.xianni-1888-oath-daomozong"
   ],
-  "updatedAt": "2026-08-30T14:45:43.482Z"
+  "updatedAt": "2026-08-30T14:48:25.788Z"
 }
