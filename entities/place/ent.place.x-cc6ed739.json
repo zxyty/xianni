@@ -8,7 +8,8 @@
     "猛土洲",
     "孟土州",
     "孟土洲边缘",
-    "孟土洲边界"
+    "孟土洲边界",
+    "梦土洲"
   ],
   "summary": "位于绿魔洲边界高山山脉之外的大洲，翻越该山脉即入孟土洲，是王林此行的去向。",
   "attributes": {
@@ -18,7 +19,8 @@
     "规模": "洲域，境内宗门无数",
     "特产": "无尽尘暴",
     "危险度": "极高",
-    "上级区域": "东州"
+    "上级区域": "东州",
+    "所属势力": "孟土宗"
   },
   "observations": {
     "类型": [
@@ -122,6 +124,13 @@
         "docId": "plot.xianni-1922-first-old-acquaintance",
         "seq": 1829
       }
+    ],
+    "所属势力": [
+      {
+        "value": "孟土宗",
+        "docId": "plot.xianni-1925-tianmen-tianfeng-qiecuo",
+        "seq": 1834
+      }
     ]
   },
   "firstSeq": 1795,
@@ -168,6 +177,12 @@
       "docId": "plot.xianni-1922-first-old-acquaintance",
       "dated": false,
       "seq": 1829
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-1925-tianmen-tianfeng-qiecuo",
+      "dated": false,
+      "seq": 1834
     }
   },
   "contested": false,
@@ -183,7 +198,8 @@
     "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master",
     "lore.xianni-1917-xianzu-five-great-tianzun",
     "plot.xianni-1922-first-old-acquaintance",
-    "plot.xianni-1923-meng-tu-zhou-di-men-xiangjian"
+    "plot.xianni-1923-meng-tu-zhou-di-men-xiangjian",
+    "plot.xianni-1925-tianmen-tianfeng-qiecuo"
   ],
-  "updatedAt": "2026-08-30T17:07:06.017Z"
+  "updatedAt": "2026-08-30T17:11:24.153Z"
 }

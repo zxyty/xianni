@@ -8,7 +8,9 @@
   "summary": "与孟土洲相连的另一洲，其内有天门，传闻门中有天尊存在；王林原本欲往。",
   "attributes": {
     "类型": "洲",
-    "上级区域": "东州"
+    "上级区域": "东州",
+    "所属势力": "天门",
+    "特产": "低落云雾、常年飘渺云烟"
   },
   "observations": {
     "类型": [
@@ -23,6 +25,20 @@
         "value": "东州",
         "docId": "plot.xianni-1922-first-old-acquaintance",
         "seq": 1829
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "天门",
+        "docId": "plot.xianni-1925-tianmen-tianfeng-qiecuo",
+        "seq": 1834
+      }
+    ],
+    "特产": [
+      {
+        "value": "低落云雾、常年飘渺云烟",
+        "docId": "plot.xianni-1925-tianmen-tianfeng-qiecuo",
+        "seq": 1834
       }
     ]
   },
@@ -39,12 +55,25 @@
       "docId": "plot.xianni-1922-first-old-acquaintance",
       "dated": false,
       "seq": 1829
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-1925-tianmen-tianfeng-qiecuo",
+      "dated": false,
+      "seq": 1834
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-1925-tianmen-tianfeng-qiecuo",
+      "dated": false,
+      "seq": 1834
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1922-first-old-acquaintance"
+    "plot.xianni-1922-first-old-acquaintance",
+    "plot.xianni-1925-tianmen-tianfeng-qiecuo"
   ],
-  "updatedAt": "2026-08-30T17:05:19.437Z"
+  "updatedAt": "2026-08-30T17:11:24.150Z"
 }
