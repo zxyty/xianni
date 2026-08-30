@@ -6,8 +6,9 @@
   "summary": "藏魂阁第七层，据说藏有多重幻术后两重道法与更完整的魂引归之术；需相当于空劫中期的意志方可走过其阶梯，楼梯积灰似久无人至。",
   "attributes": {
     "上级区域": "藏魂阁",
-    "危险度": "需空劫中期意志",
-    "特产": "多重幻术后两重道法"
+    "危险度": "极高",
+    "特产": "多重幻术后两重道法",
+    "所属势力": "大魂门"
   },
   "observations": {
     "上级区域": [
@@ -22,6 +23,11 @@
         "value": "需空劫中期意志",
         "docId": "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
         "seq": 1740
+      },
+      {
+        "value": "极高",
+        "docId": "plot.xianni-ch1834-wang-lin-ascends-cangkong-stairs-cang-hun-ge-seventh-floor",
+        "seq": 1745
       }
     ],
     "特产": [
@@ -29,6 +35,13 @@
         "value": "多重幻术后两重道法",
         "docId": "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
         "seq": 1740
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "大魂门",
+        "docId": "plot.xianni-ch1834-wang-lin-ascends-cangkong-stairs-cang-hun-ge-seventh-floor",
+        "seq": 1745
       }
     ]
   },
@@ -42,21 +55,28 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
+      "docId": "plot.xianni-ch1834-wang-lin-ascends-cangkong-stairs-cang-hun-ge-seventh-floor",
       "dated": false,
-      "seq": 1740
+      "seq": 1745
     },
     "特产": {
       "asOf": null,
       "docId": "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
       "dated": false,
       "seq": 1740
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1834-wang-lin-ascends-cangkong-stairs-cang-hun-ge-seventh-floor",
+      "dated": false,
+      "seq": 1745
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet"
+    "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
+    "plot.xianni-ch1834-wang-lin-ascends-cangkong-stairs-cang-hun-ge-seventh-floor"
   ],
-  "updatedAt": "2026-08-30T10:58:40.346Z"
+  "updatedAt": "2026-08-30T11:00:22.660Z"
 }

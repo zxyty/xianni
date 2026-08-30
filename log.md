@@ -1132,3 +1132,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T10:54:31.146Z** `ingest` plot.xianni-1831-hun-yan-dao-lei — 仙逆 第1831章 魂衍道雷：王林修魂衍道，推衍见雷山镇压己身 · kind=plot asOf=2026-08-30 entities=23 relations=32 src=01740-01744.p3.md
 - **2026-08-30T10:56:43.925Z** `ingest` plot.xianni-1832-cang-hun-ge — 第1832章 藏魂！——王林入大魂门禁地青天峰，进藏魂阁择神通 · kind=plot asOf=2026-08-30 entities=20 relations=25 src=01740-01744.p4.md
 - **2026-08-30T10:58:40.870Z** `ingest` plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet — 第1833章 赌约！——王林闯藏魂阁第六层，与炎栾立下第七层之赌 · kind=plot asOf=2026-08-30 entities=19 relations=27 src=01740-01744.p5.md
+- **2026-08-30T11:00:23.167Z** `ingest` plot.xianni-ch1834-wang-lin-ascends-cangkong-stairs-cang-hun-ge-seventh-floor — 仙逆 第1834章 欲踏青天！——王林踏藏魂阁第七层阶梯，赌炎栾蓝伞 · kind=plot asOf=2026-08-30 entities=13 relations=16 src=01745-01749.p1.md
