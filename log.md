@@ -1236,3 +1236,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T21:20:09.555Z** `ingest` plot.xianni-ch1898-1903-immortal-skull-mountain — 仙逆 第1898-1903章 仙颅化山：血誓调虎离山与仙祖血脉之光 · kind=plot asOf=2026-08-30 entities=58 relations=120 src=01898-01903.md
 - **2026-08-30T22:02:33.089Z** `ingest` plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head — 仙逆 第1904-1908章：五大天尊禁宫混战与国师封印之解 · kind=plot asOf=2026-08-30 entities=61 relations=147 src=01904-01908.md
 - **2026-08-30T23:13:28.517Z** `ingest` plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi — 仙逆 第1909-1913章：黑发王林战道一，强凝大天尊之阳 · kind=plot asOf=2026-08-30 entities=90 relations=162 src=01909-01913.md
+- **2026-08-30T23:42:58.845Z** `ingest` plot.xianni-2002-lu-wanglin-haishang-tiaoxi-fu-guzu — 仙逆 第2002章 路：王林海上调息，破血剑封印，定道古之行 · kind=plot asOf=2026-08-30 entities=44 relations=52 src=01914-01918.p1.md
