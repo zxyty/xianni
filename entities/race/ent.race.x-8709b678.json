@@ -1,55 +1,50 @@
 {
-  "id": "ent.artifact.x-c11234b0",
-  "type": "artifact",
-  "name": "棺材",
+  "id": "ent.race.x-8709b678",
+  "type": "race",
+  "name": "九种奇异之兽",
   "aliases": [
-    "那棺材",
-    "黑衣人所守之棺",
-    "与王林一同漂浮的棺材"
+    "伴随仙祖吉祖的九种奇异之兽"
   ],
-  "summary": "黑衣人被逍遥子送入此地所要守护的对象。",
+  "summary": "伴随仙祖与吉祖的九种奇异之兽，可融入仙罡法则隔膜进入弧形平台；蚊兽先祖疑与之相关。",
   "attributes": {
-    "外形": "棺材",
-    "来历": "与王林一同漂浮于虚无中数十年"
+    "特性": "可融入仙罡法则隔膜",
+    "代表人物": "蚊兽（疑为其一之后裔）"
   },
   "observations": {
-    "外形": [
+    "特性": [
       {
-        "value": "棺材",
+        "value": "可融入仙罡法则隔膜",
         "docId": "plot.xianni-1798-mosquito-beast-blood-drop-platform-strongest-avatar",
         "seq": 1705
       }
     ],
-    "来历": [
+    "代表人物": [
       {
-        "value": "与王林一同漂浮于虚无中数十年",
+        "value": "蚊兽（疑为其一之后裔）",
         "docId": "plot.xianni-1798-mosquito-beast-blood-drop-platform-strongest-avatar",
-        "seq": 1705,
-        "note": "本章未交代出处"
+        "seq": 1705
       }
     ]
   },
-  "firstSeq": 766,
+  "firstSeq": 1705,
   "attrProvenance": {
-    "外形": {
+    "特性": {
       "asOf": null,
       "docId": "plot.xianni-1798-mosquito-beast-blood-drop-platform-strongest-avatar",
       "dated": false,
       "seq": 1705
     },
-    "来历": {
+    "代表人物": {
       "asOf": null,
       "docId": "plot.xianni-1798-mosquito-beast-blood-drop-platform-strongest-avatar",
       "dated": false,
-      "seq": 1705,
-      "note": "本章未交代出处"
+      "seq": 1705
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
     "plot.xianni-1798-mosquito-beast-blood-drop-platform-strongest-avatar"
   ],
-  "updatedAt": "2026-08-30T08:41:13.611Z"
+  "updatedAt": "2026-08-30T08:41:13.609Z"
 }

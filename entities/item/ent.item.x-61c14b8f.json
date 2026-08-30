@@ -1,55 +1,52 @@
 {
-  "id": "ent.artifact.x-c11234b0",
-  "type": "artifact",
-  "name": "棺材",
+  "id": "ent.item.x-61c14b8f",
+  "type": "item",
+  "name": "第十卷",
   "aliases": [
-    "那棺材",
-    "黑衣人所守之棺",
-    "与王林一同漂浮的棺材"
+    "王林右手死扣的卷轴"
   ],
-  "summary": "黑衣人被逍遥子送入此地所要守护的对象。",
+  "summary": "王林沉睡中右手死死扣住的一卷之物，纵然折断手臂也绝不松开。",
   "attributes": {
-    "外形": "棺材",
-    "来历": "与王林一同漂浮于虚无中数十年"
+    "类型": "卷轴",
+    "用途": "不明"
   },
   "observations": {
-    "外形": [
+    "类型": [
       {
-        "value": "棺材",
+        "value": "卷轴",
         "docId": "plot.xianni-1798-mosquito-beast-blood-drop-platform-strongest-avatar",
         "seq": 1705
       }
     ],
-    "来历": [
+    "用途": [
       {
-        "value": "与王林一同漂浮于虚无中数十年",
+        "value": "不明",
         "docId": "plot.xianni-1798-mosquito-beast-blood-drop-platform-strongest-avatar",
         "seq": 1705,
-        "note": "本章未交代出处"
+        "note": "本章仅描写被王林死死握持"
       }
     ]
   },
-  "firstSeq": 766,
+  "firstSeq": 1705,
   "attrProvenance": {
-    "外形": {
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-1798-mosquito-beast-blood-drop-platform-strongest-avatar",
       "dated": false,
       "seq": 1705
     },
-    "来历": {
+    "用途": {
       "asOf": null,
       "docId": "plot.xianni-1798-mosquito-beast-blood-drop-platform-strongest-avatar",
       "dated": false,
       "seq": 1705,
-      "note": "本章未交代出处"
+      "note": "本章仅描写被王林死死握持"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-766-767-bone-black-robed-immortal-avoid-heaven-coffin",
     "plot.xianni-1798-mosquito-beast-blood-drop-platform-strongest-avatar"
   ],
-  "updatedAt": "2026-08-30T08:41:13.611Z"
+  "updatedAt": "2026-08-30T08:41:13.613Z"
 }

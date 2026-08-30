@@ -1100,3 +1100,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T08:24:56.839Z** `ingest` plot.xianni-ch1795-huangzun-yinian-huogen-xian — 第1795章 皇尊一念祸根现——王林乘蚊王入虚无，道古皇尊欲夺李慕婉之魂立后 · kind=plot asOf=2026-08-30 entities=23 relations=37 src=01705-01709.p2.md
 - **2026-08-30T08:32:00.452Z** `ingest` plot.xianni-1796-stubborn-will-xianguang-continent-overview — 第1796章 倔强的意志：仙罡大陆六年概览与玄罗守候七道宗 · kind=plot asOf=2026-08-30 entities=39 relations=64 src=01705-01709.p3.md
 - **2026-08-30T08:39:02.540Z** `ingest` plot.xianni-1797-strange-white-light-in-the-void — 第1797章 奇异的白光：虚无中十年跋涉，王林靠尸体白光续命 · kind=plot asOf=2026-08-30 entities=37 relations=53 src=01705-01709.p4.md
+- **2026-08-30T08:41:14.030Z** `ingest` plot.xianni-1798-mosquito-beast-blood-drop-platform-strongest-avatar — 第1798章 未来最强分身！——蚊王寻主、滴血入弧形平台，王林苏醒并生出新分身 · kind=plot asOf=2026-08-30 entities=15 relations=23 src=01705-01709.p5.md
