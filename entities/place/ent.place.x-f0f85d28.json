@@ -5,15 +5,18 @@
   "aliases": [
     "地宫",
     "天牛洲地宫",
-    "地富（原文误写）"
+    "地富（原文误写）",
+    "地底地宫",
+    "天牛魂铠地宫"
   ],
   "summary": "极天草原地底的宫殿群，四周弥漫无数洞府；空劫修士居宫殿，其余修士居洞府。",
   "attributes": {
     "上级区域": "极天草原",
-    "类型": "地下宫殿群与洞府区、驻地/据点、地下宫殿据点",
+    "类型": "地下宫殿群与洞府区、驻地/据点、地下宫殿据点、地底秘境/地宫",
     "所属势力": "天牛洲",
     "方位": "极天草原一侧",
-    "守护": "吕文冉"
+    "守护": "吕文冉",
+    "规模": "可容一千多修士观战"
   },
   "observations": {
     "上级区域": [
@@ -38,6 +41,11 @@
         "value": "地下宫殿据点",
         "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
         "seq": 1770
+      },
+      {
+        "value": "地底秘境/地宫",
+        "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+        "seq": 1785
       }
     ],
     "所属势力": [
@@ -64,6 +72,13 @@
         "value": "吕文冉",
         "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
         "seq": 1770
+      }
+    ],
+    "规模": [
+      {
+        "value": "可容一千多修士观战",
+        "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+        "seq": 1785
       }
     ]
   },
@@ -98,6 +113,12 @@
       "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
       "dated": false,
       "seq": 1770
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+      "dated": false,
+      "seq": 1785
     }
   },
   "contested": false,
@@ -105,7 +126,8 @@
   "docs": [
     "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
     "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
-    "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field"
+    "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
+    "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran"
   ],
-  "updatedAt": "2026-08-30T13:09:36.249Z"
+  "updatedAt": "2026-08-30T13:42:52.986Z"
 }

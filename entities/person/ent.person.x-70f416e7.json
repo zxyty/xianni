@@ -6,13 +6,18 @@
     "绿魔洲赵姓空劫中期老者",
     "绿魔洲赵姓老者",
     "空劫中期赵姓老者",
-    "赵姓空劫中期老怪"
+    "赵姓空劫中期老怪",
+    "赵姓大尊"
   ],
   "summary": "绿魔洲另一魔门空劫中期老者，欲与张姓老者同战吕文冉一举将其重创，被炎栾、许东德等三人合力阻挡牵制。",
   "attributes": {
-    "身份": "空劫中期老怪",
+    "身份": "绿魔洲魔门空劫中期修士、禁魔宗修士、空劫中期老怪、长老、大尊",
     "外貌": "老者",
-    "阵营": "绿魔洲"
+    "阵营": "绿魔洲、绿魔洲一方、与绿魔使者一方联手镇压王林",
+    "存殁": "在世、存活（受伤喷血）、本尊死亡",
+    "小阶段": "空劫中期",
+    "分身": "绿魔洲的独立分身",
+    "死因": "被王林残夜信术撕碎肉身、元神消散"
   },
   "observations": {
     "身份": [
@@ -30,6 +35,16 @@
         "value": "空劫中期老怪",
         "docId": "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
         "seq": 1775
+      },
+      {
+        "value": "长老",
+        "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+        "seq": 1785
+      },
+      {
+        "value": "大尊",
+        "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+        "seq": 1785
       }
     ],
     "外貌": [
@@ -49,6 +64,54 @@
         "value": "绿魔洲",
         "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
         "seq": 1770
+      },
+      {
+        "value": "绿魔洲一方",
+        "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+        "seq": 1785
+      },
+      {
+        "value": "与绿魔使者一方联手镇压王林",
+        "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+        "seq": 1785
+      }
+    ],
+    "存殁": [
+      {
+        "value": "在世",
+        "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+        "seq": 1785
+      },
+      {
+        "value": "存活（受伤喷血）",
+        "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+        "seq": 1785
+      },
+      {
+        "value": "本尊死亡",
+        "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+        "seq": 1785
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "空劫中期",
+        "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+        "seq": 1785
+      }
+    ],
+    "分身": [
+      {
+        "value": "绿魔洲的独立分身",
+        "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+        "seq": 1785
+      }
+    ],
+    "死因": [
+      {
+        "value": "被王林残夜信术撕碎肉身、元神消散",
+        "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+        "seq": 1785
       }
     ]
   },
@@ -56,9 +119,9 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
+      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
       "dated": false,
-      "seq": 1775
+      "seq": 1765
     },
     "外貌": {
       "asOf": null,
@@ -71,6 +134,30 @@
       "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
       "dated": false,
       "seq": 1770
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+      "dated": false,
+      "seq": 1785
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+      "dated": false,
+      "seq": 1785
+    },
+    "分身": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+      "dated": false,
+      "seq": 1785
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+      "dated": false,
+      "seq": 1785
     }
   },
   "contested": false,
@@ -79,7 +166,8 @@
     "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
     "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
     "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
-    "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace"
+    "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+    "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran"
   ],
-  "updatedAt": "2026-08-30T13:23:54.734Z"
+  "updatedAt": "2026-08-30T13:42:53.192Z"
 }

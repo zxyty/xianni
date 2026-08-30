@@ -3,13 +3,14 @@
   "type": "artifact",
   "name": "灯笼法宝",
   "aliases": [
-    "温养元神灯笼"
+    "温养元神灯笼",
+    "柔和灯火之芒的灯笼"
   ],
   "summary": "纯防护之宝，烛火不灭则元神不灭并可温养元神壮大，炼化入体后烛光弥漫肉身形成额外防护；许德才死后被王林炼化吞入体内。",
   "attributes": {
     "持有者": "王林",
-    "能力": "元神不灭护持、温养元神使其如吞丹般壮大、烛光弥漫肉身形成防护",
-    "外形": "内有烛火的灯笼，可缩小入体",
+    "能力": "元神不灭护持、温养元神使其如吞丹般壮大、烛光弥漫肉身形成防护、笼罩护体、快速愈合肉身",
+    "外形": "散发柔和灯火之芒的灯笼",
     "来历": "许德才所有，被血剑斩断联系后烛火熄灭"
   },
   "observations": {
@@ -36,6 +37,11 @@
         "value": "烛光弥漫肉身形成防护",
         "docId": "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
         "seq": 1775
+      },
+      {
+        "value": "笼罩护体、快速愈合肉身",
+        "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+        "seq": 1785
       }
     ],
     "外形": [
@@ -43,6 +49,11 @@
         "value": "内有烛火的灯笼，可缩小入体",
         "docId": "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
         "seq": 1775
+      },
+      {
+        "value": "散发柔和灯火之芒的灯笼",
+        "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+        "seq": 1785
       }
     ],
     "来历": [
@@ -70,9 +81,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
+      "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
       "dated": false,
-      "seq": 1775
+      "seq": 1785
     },
     "来历": {
       "asOf": null,
@@ -84,7 +95,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field"
+    "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
+    "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran"
   ],
-  "updatedAt": "2026-08-30T13:09:36.327Z"
+  "updatedAt": "2026-08-30T13:42:52.960Z"
 }

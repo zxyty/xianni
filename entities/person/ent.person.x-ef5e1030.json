@@ -5,15 +5,19 @@
   "aliases": [
     "张姓空劫中期老怪",
     "Zhang Daozong",
-    "张道宗老怪"
+    "张道宗老怪",
+    "张道宗长老",
+    "张道宗大尊"
   ],
   "summary": "绿魔洲空劫中期老怪，因王林杀刘之源而等候数日，出手锁定并追杀王林。",
   "attributes": {
-    "阵营": "绿魔洲",
-    "身份": "王林欲在逃遁中反击的目标",
-    "存殁": "存活",
+    "阵营": "绿魔洲、绿魔洲一方、与绿魔使者一方联手镇压王林",
+    "身份": "道魔宗出身修士",
+    "存殁": "存活、在世、存活（重伤喷血）、重伤逃遁",
     "小阶段": "空劫中期",
-    "性格": "阴狠，喜看对手在绝望中受死亡前的折磨"
+    "性格": "阴狠，喜看对手在绝望中受死亡前的折磨",
+    "分身": "无（一生未修炼任何分身，全凭自身一口仙气）",
+    "结局": "肉身崩溃，元神失去意识下化光冲上九霄逃走"
   },
   "observations": {
     "阵营": [
@@ -21,6 +25,16 @@
         "value": "绿魔洲",
         "docId": "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
         "seq": 1775
+      },
+      {
+        "value": "绿魔洲一方",
+        "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+        "seq": 1785
+      },
+      {
+        "value": "与绿魔使者一方联手镇压王林",
+        "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+        "seq": 1785
       }
     ],
     "身份": [
@@ -33,6 +47,11 @@
         "value": "王林欲在逃遁中反击的目标",
         "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
         "seq": 1780
+      },
+      {
+        "value": "道魔宗出身修士",
+        "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+        "seq": 1785
       }
     ],
     "存殁": [
@@ -40,6 +59,21 @@
         "value": "存活",
         "docId": "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
         "seq": 1775
+      },
+      {
+        "value": "在世",
+        "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+        "seq": 1785
+      },
+      {
+        "value": "存活（重伤喷血）",
+        "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+        "seq": 1785
+      },
+      {
+        "value": "重伤逃遁",
+        "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+        "seq": 1785
       }
     ],
     "小阶段": [
@@ -55,6 +89,20 @@
         "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
         "seq": 1780
       }
+    ],
+    "分身": [
+      {
+        "value": "无（一生未修炼任何分身，全凭自身一口仙气）",
+        "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+        "seq": 1785
+      }
+    ],
+    "结局": [
+      {
+        "value": "肉身崩溃，元神失去意识下化光冲上九霄逃走",
+        "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+        "seq": 1785
+      }
     ]
   },
   "firstSeq": 1775,
@@ -67,9 +115,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+      "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
       "dated": false,
-      "seq": 1780
+      "seq": 1785
     },
     "存殁": {
       "asOf": null,
@@ -88,13 +136,26 @@
       "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
       "dated": false,
       "seq": 1780
+    },
+    "分身": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+      "dated": false,
+      "seq": 1785
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+      "dated": false,
+      "seq": 1785
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
-    "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace"
+    "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+    "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran"
   ],
-  "updatedAt": "2026-08-30T13:23:54.847Z"
+  "updatedAt": "2026-08-30T13:42:53.191Z"
 }

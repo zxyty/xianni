@@ -1156,3 +1156,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T12:50:56.465Z** `ingest` plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie — 《仙逆》第1770-1774章 王林斩杀空劫刘之源，绿魔洲锁定「王林」 · kind=plot asOf=2026-08-30 entities=68 relations=130 src=01770-01774.md
 - **2026-08-30T13:09:36.920Z** `ingest` plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field — 仙逆 第1775-1779章 金蝉脱壳与困杀许德才 · kind=plot asOf=2026-08-30 entities=72 relations=115 src=01775-01779.md
 - **2026-08-30T13:23:55.434Z** `ingest` plot.xianni-1780-1784-jitian-grassland-escape-underground-palace — 仙逆 第1780-1784章：极天草原剧变——四绿魔使者围杀，王林自爆葫芦入地宫 · kind=plot asOf=2026-08-30 entities=48 relations=113 src=01780-01784.md
+- **2026-08-30T13:42:53.678Z** `ingest` plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran — 仙逆 第1785-1789章 魂铠认主·王林借天牛魂铠反杀吕文冉 · kind=plot asOf=2026-08-30 entities=65 relations=117 src=01785-01789.md

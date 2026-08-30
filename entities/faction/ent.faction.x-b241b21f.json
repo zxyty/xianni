@@ -3,11 +3,16 @@
   "type": "faction",
   "name": "绿魔使者",
   "aliases": [
-    "绿魔使"
+    "绿魔使",
+    "四个绿魔使者",
+    "九位绿魔使者",
+    "绿魔洲使者"
   ],
   "summary": "由绿魔洲老祖派出的高阶战力，负责击杀丹海内三名空劫中期的天牛洲散修。",
   "attributes": {
-    "阵营": "绿魔洲"
+    "阵营": "绿魔洲",
+    "镇派之宝": "绿色镜子",
+    "理念": "镇压王林至天牛魂铠时效过去再杀之"
   },
   "observations": {
     "阵营": [
@@ -15,6 +20,20 @@
         "value": "绿魔洲",
         "docId": "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
         "seq": 1750
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "绿色镜子",
+        "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+        "seq": 1785
+      }
+    ],
+    "理念": [
+      {
+        "value": "镇压王林至天牛魂铠时效过去再杀之",
+        "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+        "seq": 1785
       }
     ]
   },
@@ -25,13 +44,26 @@
       "docId": "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
       "dated": false,
       "seq": 1750
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+      "dated": false,
+      "seq": 1785
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+      "dated": false,
+      "seq": 1785
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
-    "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace"
+    "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+    "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran"
   ],
-  "updatedAt": "2026-08-30T13:23:54.749Z"
+  "updatedAt": "2026-08-30T13:42:53.194Z"
 }

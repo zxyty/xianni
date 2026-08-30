@@ -4,14 +4,16 @@
   "name": "道魔宗",
   "aliases": [
     "绿魔洲道魔宗",
-    "道魔宗一方"
+    "道魔宗一方",
+    "道魔宗一脉"
   ],
   "summary": "绿魔洲联合三宗之一，面白如玉的青年出自此宗，自言要展示「道魔宗的魔道」。",
   "attributes": {
     "阵营": "绿魔洲",
     "掌门": "道魔宗宗主",
     "据点": "天坑（五个天坑之一，宗门修行地）",
-    "理念": "以重利招揽散修参战"
+    "理念": "道魔大手印只传历代宗主，绝不外传",
+    "镇派之宝": "道魔大手印"
   },
   "observations": {
     "阵营": [
@@ -40,6 +42,18 @@
         "value": "以重利招揽散修参战",
         "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
         "seq": 1770
+      },
+      {
+        "value": "道魔大手印只传历代宗主，绝不外传",
+        "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+        "seq": 1785
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "道魔大手印",
+        "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+        "seq": 1785
       }
     ]
   },
@@ -65,9 +79,15 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+      "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
       "dated": false,
-      "seq": 1770
+      "seq": 1785
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+      "dated": false,
+      "seq": 1785
     }
   },
   "contested": false,
@@ -76,7 +96,8 @@
     "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
     "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
     "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
-    "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace"
+    "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+    "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran"
   ],
-  "updatedAt": "2026-08-30T13:23:54.746Z"
+  "updatedAt": "2026-08-30T13:42:53.127Z"
 }
