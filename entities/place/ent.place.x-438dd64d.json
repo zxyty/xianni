@@ -6,14 +6,17 @@
     "黑雾山峰",
     "插入黑雾的极高山峰",
     "祭坛所在山峰",
-    "被黑气弥漫的山峰"
+    "被黑气弥漫的山峰",
+    "道宗遗址山峰",
+    "被黑雾缭绕的山峰"
   ],
   "summary": "黑雾山脉西处一座极高山峰，插入黑雾只能看到半山腰，峰顶巨大平台上矗立着黑色祭坛，地面多有干枯血痕。",
   "attributes": {
-    "类型": "禁地/封存之地",
+    "类型": "宗派遗址",
     "方位": "黑雾山脉西处",
-    "上级区域": "古墓倒数第二层",
-    "危险度": "极高"
+    "上级区域": "天牛洲",
+    "危险度": "极高",
+    "所属界面": "仙罡大陆"
   },
   "observations": {
     "类型": [
@@ -26,6 +29,11 @@
         "value": "禁地/封存之地",
         "docId": "plot.xianni-1774-zhangzun-hun-jisi-yisi-zhi-kui",
         "seq": 1685
+      },
+      {
+        "value": "宗派遗址",
+        "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
+        "seq": 1730
       }
     ],
     "方位": [
@@ -45,6 +53,11 @@
         "value": "古墓倒数第二层",
         "docId": "plot.xianni-1774-zhangzun-hun-jisi-yisi-zhi-kui",
         "seq": 1685
+      },
+      {
+        "value": "天牛洲",
+        "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
+        "seq": 1730
       }
     ],
     "危险度": [
@@ -53,15 +66,22 @@
         "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
         "seq": 423
       }
+    ],
+    "所属界面": [
+      {
+        "value": "仙罡大陆",
+        "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
+        "seq": 1730
+      }
     ]
   },
   "firstSeq": 423,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1774-zhangzun-hun-jisi-yisi-zhi-kui",
+      "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
       "dated": false,
-      "seq": 1685
+      "seq": 1730
     },
     "方位": {
       "asOf": null,
@@ -71,22 +91,29 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-1774-zhangzun-hun-jisi-yisi-zhi-kui",
+      "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
       "dated": false,
-      "seq": 1685
+      "seq": 1730
     },
     "危险度": {
       "asOf": null,
       "docId": "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
       "dated": false,
       "seq": 423
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
+      "dated": false,
+      "seq": 1730
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch423-427-zhuque-tomb-altar-trap-and-mingunhun-spirits",
-    "plot.xianni-1774-zhangzun-hun-jisi-yisi-zhi-kui"
+    "plot.xianni-1774-zhangzun-hun-jisi-yisi-zhi-kui",
+    "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men"
   ],
-  "updatedAt": "2026-08-30T07:08:20.934Z"
+  "updatedAt": "2026-08-30T09:58:07.997Z"
 }

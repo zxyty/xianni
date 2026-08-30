@@ -1121,3 +1121,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T09:39:37.493Z** `ingest` plot.xianni-ch1816-benyuan-zhenshen-regret — 第1816章 真身憾：三条子脉龙魂凝聚本源真身，唯缺头颅 · kind=plot asOf=2026-08-30 entities=17 relations=21 src=01725-01729.p3.md
 - **2026-08-30T09:42:05.664Z** `ingest` plot.xianni-1817-qingniu-zhenren — 第1817章 青牛真人——杜青献策，天牛洲地火主脉与大魂门 · kind=plot asOf=2026-08-30 entities=29 relations=44 src=01725-01729.p4.md
 - **2026-08-30T09:44:29.973Z** `ingest` plot.xianni-1818-wang-lin-suo-di-cheng-cun-fen-shen-su-xing — 第1818章 自不量力？——王林七月苦参缩地成寸，虚无层分身睁眼 · kind=plot asOf=2026-08-30 entities=32 relations=42 src=01725-01729.p5.md
+- **2026-08-30T09:58:08.719Z** `ingest` plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men — 仙逆 第1730-1734章：天山青雪与缩地成寸，王林兵指大魂门地火主脉 · kind=plot asOf=2026-08-30 entities=51 relations=92 src=01730-01734.md

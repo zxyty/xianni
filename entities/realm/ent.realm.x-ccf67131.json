@@ -3,12 +3,14 @@
   "type": "realm",
   "name": "空劫初期",
   "aliases": [
-    "地仙（相当）"
+    "地仙（相当）",
+    "空劫期初期"
   ],
   "summary": "战老鬼当前修为境界，本章明言相当于地仙。",
   "attributes": {
     "小阶段": "初期",
-    "阶序": "相当于地仙"
+    "阶序": "相当于地仙",
+    "突破关键": "度过九次玄劫"
   },
   "observations": {
     "小阶段": [
@@ -23,6 +25,13 @@
         "value": "相当于地仙",
         "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
         "seq": 1462
+      }
+    ],
+    "突破关键": [
+      {
+        "value": "度过九次玄劫",
+        "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
+        "seq": 1730
       }
     ]
   },
@@ -39,12 +48,19 @@
       "docId": "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
       "dated": false,
       "seq": 1462
+    },
+    "突破关键": {
+      "asOf": null,
+      "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
+      "dated": false,
+      "seq": 1730
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi"
+    "plot.xianni-1552-you-shuo-shen-me-zhan-lao-gui-gan-ying-xian-qi",
+    "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men"
   ],
-  "updatedAt": "2026-08-26T03:49:38.357Z"
+  "updatedAt": "2026-08-30T09:58:08.086Z"
 }

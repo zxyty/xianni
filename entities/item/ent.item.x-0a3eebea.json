@@ -1,53 +1,40 @@
 {
-  "id": "ent.material.x-98f9797e",
-  "type": "material",
-  "name": "地火支脉子脉",
-  "aliases": [],
-  "summary": "仙罡大陆的地火脉络，为王林凝聚火本源真身所需；苍龙宗全宗动员搜寻，四个月后已寻得未枯萎的支脉。",
+  "id": "ent.item.x-0a3eebea",
+  "type": "item",
+  "name": "解魂果",
+  "aliases": [
+    "解魂仙果"
+  ],
+  "summary": "青白色、散发阵阵寒气的仙果，由弟子按时送往赤红山峰各洞府修士（此次送出九枚）。",
   "attributes": {
-    "类型": "地火灵脉分支",
-    "用途": "补充火焰本源",
-    "产地": "天牛洲地底各处"
+    "类型": "仙果",
+    "用途": "供大魂门弟子在火热之地修行所需",
+    "产地": "大魂门"
   },
   "observations": {
     "类型": [
       {
-        "value": "地脉",
-        "docId": "plot.xianni-1818-wang-lin-suo-di-cheng-cun-fen-shen-su-xing",
-        "seq": 1725
-      },
-      {
-        "value": "地火灵脉分支",
+        "value": "仙果",
         "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
         "seq": 1730
       }
     ],
     "用途": [
       {
-        "value": "凝聚火本源真身",
-        "docId": "plot.xianni-1818-wang-lin-suo-di-cheng-cun-fen-shen-su-xing",
-        "seq": 1725
-      },
-      {
-        "value": "补充火焰本源",
+        "value": "供大魂门弟子在火热之地修行所需",
         "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
         "seq": 1730
       }
     ],
     "产地": [
       {
-        "value": "仙罡大陆",
-        "docId": "plot.xianni-1818-wang-lin-suo-di-cheng-cun-fen-shen-su-xing",
-        "seq": 1725
-      },
-      {
-        "value": "天牛洲地底各处",
+        "value": "大魂门",
         "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
         "seq": 1730
       }
     ]
   },
-  "firstSeq": 1725,
+  "firstSeq": 1730,
   "attrProvenance": {
     "类型": {
       "asOf": null,
@@ -71,8 +58,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1818-wang-lin-suo-di-cheng-cun-fen-shen-su-xing",
     "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men"
   ],
-  "updatedAt": "2026-08-30T09:58:08.006Z"
+  "updatedAt": "2026-08-30T09:58:08.079Z"
 }

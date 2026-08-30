@@ -3,15 +3,19 @@
   "type": "place",
   "name": "天山",
   "aliases": [
-    "暗月星天山"
+    "暗月星天山",
+    "天牛洲天山",
+    "Tian Shan"
   ],
   "summary": "暗月星上的一处山，山下有孙泰记忆中的村庄，是其落叶归根之所。",
   "attributes": {
-    "所属界面": "暗月星",
+    "所属界面": "仙罡大陆",
     "类型": "名山",
-    "方位": "暗月星南部",
+    "方位": "天牛洲极西之处",
     "规模": "高不见峰，云雾缭绕",
-    "特产": "山顶钟声、石阶小径、绕山飞鸟"
+    "特产": "山顶钟声、石阶小径、绕山飞鸟、青色的雪（青雪）",
+    "上级区域": "天牛洲",
+    "所属势力": "大魂门笼罩范围"
   },
   "observations": {
     "所属界面": [
@@ -19,6 +23,11 @@
         "value": "暗月星",
         "docId": "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
         "seq": 626
+      },
+      {
+        "value": "仙罡大陆",
+        "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
+        "seq": 1730
       }
     ],
     "类型": [
@@ -38,6 +47,11 @@
         "value": "暗月星南部",
         "docId": "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
         "seq": 876
+      },
+      {
+        "value": "天牛洲极西之处",
+        "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
+        "seq": 1730
       }
     ],
     "规模": [
@@ -62,6 +76,26 @@
         "value": "绕山飞鸟",
         "docId": "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
         "seq": 876
+      },
+      {
+        "value": "青色的雪（青雪）",
+        "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
+        "seq": 1730
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "天牛洲",
+        "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
+        "seq": 1730
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "大魂门笼罩范围",
+        "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
+        "seq": 1730,
+        "note": "第1820章"
       }
     ]
   },
@@ -69,9 +103,9 @@
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
+      "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
       "dated": false,
-      "seq": 626
+      "seq": 1730
     },
     "类型": {
       "asOf": null,
@@ -81,9 +115,9 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
+      "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
       "dated": false,
-      "seq": 876
+      "seq": 1730
     },
     "规模": {
       "asOf": null,
@@ -96,13 +130,27 @@
       "docId": "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
       "dated": false,
       "seq": 876
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
+      "dated": false,
+      "seq": 1730
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
+      "dated": false,
+      "seq": 1730,
+      "note": "第1820章"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch670-sun-tai-reunion-cause-and-effect",
-    "plot.xianni-ch946-muzhi-xinghuacun-anyue-star"
+    "plot.xianni-ch946-muzhi-xinghuacun-anyue-star",
+    "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men"
   ],
-  "updatedAt": "2026-08-23T21:55:16.724Z"
+  "updatedAt": "2026-08-30T09:58:07.988Z"
 }

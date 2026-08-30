@@ -1,67 +1,64 @@
 {
-  "id": "ent.faction.x-0e557969",
-  "type": "faction",
-  "name": "道宗",
+  "id": "ent.person.x-a76e5cac",
+  "type": "person",
+  "name": "宋英",
   "aliases": [
-    "t道宗"
+    "送解魂果的女修"
   ],
-  "summary": "当年玄罗大天尊与太阳道大天尊在其门外争夺太古神境碎片的宗门。",
+  "summary": "大魂门弟子，奉命向赤红山峰各洞府送解魂果；王林先后附身其衣衫并借其玉简与身形混入光幕。",
   "attributes": {
-    "所属界面": "仙罡大陆",
-    "据点": "天牛洲黑雾山峰",
-    "阵营": "已不存"
+    "性别": "女",
+    "外貌": "年纪不大、相貌秀美、身带处子清香",
+    "身份": "大魂门弟子（送果差事）"
   },
   "observations": {
-    "所属界面": [
+    "性别": [
       {
-        "value": "仙罡大陆",
+        "value": "女",
         "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
         "seq": 1730
       }
     ],
-    "据点": [
+    "外貌": [
       {
-        "value": "天牛洲黑雾山峰",
+        "value": "年纪不大、相貌秀美、身带处子清香",
         "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
         "seq": 1730
       }
     ],
-    "阵营": [
+    "身份": [
       {
-        "value": "已不存",
+        "value": "大魂门弟子（送果差事）",
         "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
-        "seq": 1730,
-        "note": "第1820章时只余黑雾山峰"
+        "seq": 1730
       }
     ]
   },
-  "firstSeq": 1616,
+  "firstSeq": 1730,
   "attrProvenance": {
-    "所属界面": {
+    "性别": {
       "asOf": null,
       "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
       "dated": false,
       "seq": 1730
     },
-    "据点": {
+    "外貌": {
       "asOf": null,
       "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
       "dated": false,
       "seq": 1730
     },
-    "阵营": {
+    "身份": {
       "asOf": null,
       "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
       "dated": false,
-      "seq": 1730,
-      "note": "第1820章时只余黑雾山峰"
+      "seq": 1730
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
     "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men"
   ],
-  "updatedAt": "2026-08-30T09:58:07.985Z"
+  "updatedAt": "2026-08-30T09:58:08.070Z"
 }
