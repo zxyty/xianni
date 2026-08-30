@@ -4,12 +4,13 @@
   "name": "丹海封海禁制",
   "aliases": [
     "丹海禁制",
-    "只进不出的禁制"
+    "只进不出的禁制",
+    "丹海封印阵法"
   ],
   "summary": "笼罩整个丹海的无形玄妙禁制，可进入却不允许出去，等同将丹海完全封印；王林入内时毫无察觉。",
   "attributes": {
-    "效果": "可进不可出、封印整个丹海、极难察觉",
-    "布置者": "未明"
+    "效果": "可进不可出、封印整个丹海、极难察觉、封印丹海阻断逃遁、供绿魔洲修士融入阵法挪移",
+    "布置者": "未明、绿魔洲"
   },
   "observations": {
     "效果": [
@@ -27,6 +28,16 @@
         "value": "极难察觉",
         "docId": "plot.xianni-ch1841-jitian-grassland-slaughter-danhai-water-origin",
         "seq": 1750
+      },
+      {
+        "value": "封印丹海阻断逃遁",
+        "docId": "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
+        "seq": 1750
+      },
+      {
+        "value": "供绿魔洲修士融入阵法挪移",
+        "docId": "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
+        "seq": 1750
       }
     ],
     "布置者": [
@@ -35,6 +46,11 @@
         "docId": "plot.xianni-ch1841-jitian-grassland-slaughter-danhai-water-origin",
         "seq": 1750,
         "note": "疑与丹海内的绿袍鬼火修士屠杀有关"
+      },
+      {
+        "value": "绿魔洲",
+        "docId": "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
+        "seq": 1750
       }
     ]
   },
@@ -57,7 +73,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1841-jitian-grassland-slaughter-danhai-water-origin"
+    "plot.xianni-ch1841-jitian-grassland-slaughter-danhai-water-origin",
+    "plot.xianni-ch1842-green-demon-continent-slaughter-danhai"
   ],
-  "updatedAt": "2026-08-30T11:20:25.894Z"
+  "updatedAt": "2026-08-30T11:22:49.875Z"
 }

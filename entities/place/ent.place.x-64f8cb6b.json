@@ -4,21 +4,28 @@
   "name": "丹海",
   "aliases": [
     "Danhai",
-    "Dan Sea"
+    "Dan Sea",
+    "磅礴的丹海"
   ],
   "summary": "东州内天牛洲与绿魔洲接壤处的巨大内陆海，传闻由天外坠落的一颗丹药炸开所化，两洲共有、势力混乱；本章被只进不出的禁制笼罩。",
   "attributes": {
-    "类型": "内陆海",
-    "方位": "天牛洲与绿魔洲交界",
-    "所属势力": "天牛洲与绿魔洲共有",
-    "危险度": "极高",
-    "上级区域": "东州"
+    "类型": "内陆海、大海/门户之地",
+    "方位": "天牛洲与绿魔洲交界、介于绿魔洲与天牛洲之间",
+    "所属势力": "天牛洲与绿魔洲共有、绿魔洲控制",
+    "危险度": "极高、极高（封印+屠杀+凶兽云涌）",
+    "上级区域": "东州",
+    "守护": "绿衣修士与丹海禁制阵法"
   },
   "observations": {
     "类型": [
       {
         "value": "内陆海",
         "docId": "plot.xianni-ch1841-jitian-grassland-slaughter-danhai-water-origin",
+        "seq": 1750
+      },
+      {
+        "value": "大海/门户之地",
+        "docId": "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
         "seq": 1750
       }
     ],
@@ -27,6 +34,11 @@
         "value": "天牛洲与绿魔洲交界",
         "docId": "plot.xianni-ch1841-jitian-grassland-slaughter-danhai-water-origin",
         "seq": 1750
+      },
+      {
+        "value": "介于绿魔洲与天牛洲之间",
+        "docId": "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
+        "seq": 1750
       }
     ],
     "所属势力": [
@@ -34,6 +46,12 @@
         "value": "天牛洲与绿魔洲共有",
         "docId": "plot.xianni-ch1841-jitian-grassland-slaughter-danhai-water-origin",
         "seq": 1750
+      },
+      {
+        "value": "绿魔洲控制",
+        "docId": "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
+        "seq": 1750,
+        "note": "本章被封印屠杀期间"
       }
     ],
     "危险度": [
@@ -41,12 +59,24 @@
         "value": "极高",
         "docId": "plot.xianni-ch1841-jitian-grassland-slaughter-danhai-water-origin",
         "seq": 1750
+      },
+      {
+        "value": "极高（封印+屠杀+凶兽云涌）",
+        "docId": "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
+        "seq": 1750
       }
     ],
     "上级区域": [
       {
         "value": "东州",
         "docId": "plot.xianni-ch1841-jitian-grassland-slaughter-danhai-water-origin",
+        "seq": 1750
+      }
+    ],
+    "守护": [
+      {
+        "value": "绿衣修士与丹海禁制阵法",
+        "docId": "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
         "seq": 1750
       }
     ]
@@ -82,12 +112,19 @@
       "docId": "plot.xianni-ch1841-jitian-grassland-slaughter-danhai-water-origin",
       "dated": false,
       "seq": 1750
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
+      "dated": false,
+      "seq": 1750
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1841-jitian-grassland-slaughter-danhai-water-origin"
+    "plot.xianni-ch1841-jitian-grassland-slaughter-danhai-water-origin",
+    "plot.xianni-ch1842-green-demon-continent-slaughter-danhai"
   ],
-  "updatedAt": "2026-08-30T11:20:25.887Z"
+  "updatedAt": "2026-08-30T11:22:49.863Z"
 }
