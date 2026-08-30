@@ -1128,3 +1128,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T10:45:08.239Z** `ingest` plot.xianni-ch1827-four-characters-guilai-bridge — 第1827章 四个字！——青牛真人本源真身招揽，天牛洲大地显「王林归来」 · kind=plot asOf=2026-08-30 entities=23 relations=24 src=01735-01739.p4.md
 - **2026-08-30T10:47:29.062Z** `ingest` plot.xianni-ch1828-da-hun-men-elder — 第1828章 大魂门长老！——王林受魂衍道功法、返大魂门立威 · kind=plot asOf=2026-08-30 entities=22 relations=34 src=01735-01739.p5.md
 - **2026-08-30T10:49:49.597Z** `ingest` plot.xianni-1829-tianniu-death-soul — 仙逆 第1829章 天牛死魂：王林大魂门斗炎栾，引动天牛之魂 · kind=plot asOf=2026-08-30 entities=22 relations=36 src=01740-01744.p1.md
+- **2026-08-30T10:52:13.152Z** `ingest` plot.xianni-ch1830-qingniu-zhenren-wang-lin-joins-dahunmen — 第1830章 把他克死！——青牛真人本尊现身，王林入主大魂门炎脉峰 · kind=plot asOf=2026-08-30 entities=22 relations=36 src=01740-01744.p2.md

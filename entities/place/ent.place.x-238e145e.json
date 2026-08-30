@@ -11,10 +11,11 @@
   "attributes": {
     "所属势力": "大魂门",
     "所属界面": "仙罡大陆",
-    "类型": "山峰",
-    "特产": "地火主脉、地火闭关石室",
+    "类型": "宗门主峰、主峰、山峰、长老洞府山峰",
+    "特产": "地火主脉（已枯萎，后由王林以火焰补充）",
     "守护": "炎栾",
-    "上级区域": "大魂门"
+    "上级区域": "大魂门",
+    "危险度": "环山永恒火海"
   },
   "observations": {
     "所属势力": [
@@ -46,6 +47,11 @@
         "value": "山峰",
         "docId": "plot.xianni-1829-tianniu-death-soul",
         "seq": 1740
+      },
+      {
+        "value": "长老洞府山峰",
+        "docId": "plot.xianni-ch1830-qingniu-zhenren-wang-lin-joins-dahunmen",
+        "seq": 1740
       }
     ],
     "特产": [
@@ -53,6 +59,11 @@
         "value": "地火主脉、地火闭关石室",
         "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
         "seq": 1730
+      },
+      {
+        "value": "地火主脉（已枯萎，后由王林以火焰补充）",
+        "docId": "plot.xianni-ch1830-qingniu-zhenren-wang-lin-joins-dahunmen",
+        "seq": 1740
       }
     ],
     "守护": [
@@ -73,6 +84,14 @@
         "docId": "plot.xianni-ch1828-da-hun-men-elder",
         "seq": 1735
       }
+    ],
+    "危险度": [
+      {
+        "value": "环山永恒火海",
+        "docId": "plot.xianni-ch1830-qingniu-zhenren-wang-lin-joins-dahunmen",
+        "seq": 1740,
+        "note": "王林重铸后"
+      }
     ]
   },
   "firstSeq": 1730,
@@ -91,15 +110,15 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1829-tianniu-death-soul",
-      "dated": false,
-      "seq": 1740
-    },
-    "特产": {
-      "asOf": null,
       "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
       "dated": false,
       "seq": 1730
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1830-qingniu-zhenren-wang-lin-joins-dahunmen",
+      "dated": false,
+      "seq": 1740
     },
     "守护": {
       "asOf": null,
@@ -112,6 +131,13 @@
       "docId": "plot.xianni-ch1828-da-hun-men-elder",
       "dated": false,
       "seq": 1735
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1830-qingniu-zhenren-wang-lin-joins-dahunmen",
+      "dated": false,
+      "seq": 1740,
+      "note": "王林重铸后"
     }
   },
   "contested": false,
@@ -120,7 +146,8 @@
     "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
     "plot.xianni-ch1827-four-characters-guilai-bridge",
     "plot.xianni-ch1828-da-hun-men-elder",
-    "plot.xianni-1829-tianniu-death-soul"
+    "plot.xianni-1829-tianniu-death-soul",
+    "plot.xianni-ch1830-qingniu-zhenren-wang-lin-joins-dahunmen"
   ],
-  "updatedAt": "2026-08-30T10:49:49.125Z"
+  "updatedAt": "2026-08-30T10:52:12.705Z"
 }
