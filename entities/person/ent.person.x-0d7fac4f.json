@@ -7,13 +7,15 @@
     "冥冥中的古祖",
     "冥冥古祖",
     "道古古祖",
-    "古之祖"
+    "古之祖",
+    "我是古"
   ],
   "summary": "冥冥中存在的古之三族先祖，古脉苍穹血一劫需获其认可并被赐下鲜血，赐血数量按认可程度分级。",
   "attributes": {
-    "身份": "古之三族先祖、古国三脉之祖、古国之修心中的天、古国始祖",
+    "身份": "古之三族先祖、古国三脉之祖、古国之修心中的天、古国始祖、道古一族始祖",
     "标志特征": "赐血1~8滴以示认可程度",
-    "称号": "古祖／吉祖"
+    "称号": "古祖／吉祖、古、古祖",
+    "外貌": "相貌平凡、身体极为庞大，立处如天地在脚下"
   },
   "observations": {
     "身份": [
@@ -31,6 +33,11 @@
         "value": "古国始祖",
         "docId": "plot.xianni-ch1710-yi-lv-hun",
         "seq": 1616
+      },
+      {
+        "value": "道古一族始祖",
+        "docId": "plot.xianni-1711-gudao-ni-jiuzu-hunxue",
+        "seq": 1621
       }
     ],
     "标志特征": [
@@ -45,6 +52,23 @@
         "value": "古祖／吉祖",
         "docId": "plot.xianni-ch1710-yi-lv-hun",
         "seq": 1616
+      },
+      {
+        "value": "古",
+        "docId": "plot.xianni-1711-gudao-ni-jiuzu-hunxue",
+        "seq": 1621
+      },
+      {
+        "value": "古祖",
+        "docId": "plot.xianni-1711-gudao-ni-jiuzu-hunxue",
+        "seq": 1621
+      }
+    ],
+    "外貌": [
+      {
+        "value": "相貌平凡、身体极为庞大，立处如天地在脚下",
+        "docId": "plot.xianni-1711-gudao-ni-jiuzu-hunxue",
+        "seq": 1621
       }
     ]
   },
@@ -67,6 +91,12 @@
       "docId": "plot.xianni-ch1710-yi-lv-hun",
       "dated": false,
       "seq": 1616
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-1711-gudao-ni-jiuzu-hunxue",
+      "dated": false,
+      "seq": 1621
     }
   },
   "contested": false,
@@ -74,7 +104,8 @@
   "docs": [
     "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
     "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
-    "plot.xianni-ch1710-yi-lv-hun"
+    "plot.xianni-ch1710-yi-lv-hun",
+    "plot.xianni-1711-gudao-ni-jiuzu-hunxue"
   ],
-  "updatedAt": "2026-08-30T03:17:58.717Z"
+  "updatedAt": "2026-08-30T03:19:58.609Z"
 }
