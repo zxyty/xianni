@@ -3,12 +3,13 @@
   "type": "item",
   "name": "三千万道魂",
   "aliases": [
-    "三千万道魂魄"
+    "三千万道魂魄",
+    "三千万魂"
   ],
   "summary": "王林原本打算为此行动而放弃的某物；本章他因海水疯狂卷动而转念——「或许，不需要我放弃那三千万道魂」，遂改为潜伏待机。",
   "attributes": {
-    "类型": "魂魄",
-    "用途": "王林行动中的取舍筹码"
+    "类型": "魂类之力",
+    "用途": "卷缚敌人、协同攻杀"
   },
   "observations": {
     "类型": [
@@ -16,6 +17,11 @@
         "value": "魂魄",
         "docId": "plot.xianni-1849-danhai-immortal-pill",
         "seq": 1760
+      },
+      {
+        "value": "魂类之力",
+        "docId": "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
+        "seq": 1775
       }
     ],
     "用途": [
@@ -24,6 +30,11 @@
         "docId": "plot.xianni-1849-danhai-immortal-pill",
         "seq": 1760,
         "note": "本章未展开具体用途"
+      },
+      {
+        "value": "卷缚敌人、协同攻杀",
+        "docId": "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
+        "seq": 1775
       }
     ]
   },
@@ -31,22 +42,22 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1849-danhai-immortal-pill",
+      "docId": "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
       "dated": false,
-      "seq": 1760
+      "seq": 1775
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-1849-danhai-immortal-pill",
+      "docId": "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
       "dated": false,
-      "seq": 1760,
-      "note": "本章未展开具体用途"
+      "seq": 1775
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1849-danhai-immortal-pill"
+    "plot.xianni-1849-danhai-immortal-pill",
+    "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field"
   ],
-  "updatedAt": "2026-08-30T11:40:22.862Z"
+  "updatedAt": "2026-08-30T13:09:36.273Z"
 }

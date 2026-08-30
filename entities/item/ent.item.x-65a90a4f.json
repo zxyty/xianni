@@ -7,13 +7,17 @@
     "第一份礼物",
     "Space Stone",
     "无损打开储物空间之石",
-    "王林的空间石"
+    "王林的空间石",
+    "奇异的石头",
+    "空间之石",
+    "寻常石头",
+    "空间石内部"
   ],
   "summary": "黑色拳头大小的不规则石头，表面无数小孔，内部为无数独立空间群；可代价性开取储物空间之物，亦可饲养不完整的天道。",
   "attributes": {
-    "类型": "空间类奇石",
-    "用途": "以毁一空间为代价从储物空间无损取出一物（仅一次）、饲养不完整的天道使其慢慢完整、内蕴大量空间（用途未明）",
-    "产地": "青牛老祖所赠"
+    "类型": "空间类奇物、空间类奇石、独立空间、空间类物件",
+    "用途": "以毁一空间为代价从储物空间无损取出一物（仅一次）、饲养不完整的天道使其慢慢完整、内蕴大量空间（用途未明）、进入/离开特殊空间",
+    "产地": "极天草原所拾"
   },
   "observations": {
     "类型": [
@@ -26,6 +30,16 @@
         "value": "空间类奇石",
         "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
         "seq": 1770
+      },
+      {
+        "value": "独立空间",
+        "docId": "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
+        "seq": 1775
+      },
+      {
+        "value": "空间类物件",
+        "docId": "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
+        "seq": 1775
       }
     ],
     "用途": [
@@ -43,6 +57,11 @@
         "value": "内蕴大量空间（用途未明）",
         "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
         "seq": 1770
+      },
+      {
+        "value": "进入/离开特殊空间",
+        "docId": "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
+        "seq": 1775
       }
     ],
     "产地": [
@@ -55,6 +74,11 @@
         "value": "青牛老祖所赠",
         "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
         "seq": 1770
+      },
+      {
+        "value": "极天草原所拾",
+        "docId": "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
+        "seq": 1775
       }
     ]
   },
@@ -62,9 +86,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+      "docId": "plot.xianni-ch1838-three-gifts-space-stone-mist-jade-water-origin",
       "dated": false,
-      "seq": 1770
+      "seq": 1745
     },
     "用途": {
       "asOf": null,
@@ -74,9 +98,9 @@
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+      "docId": "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
       "dated": false,
-      "seq": 1770
+      "seq": 1775
     }
   },
   "contested": false,
@@ -84,7 +108,8 @@
   "docs": [
     "plot.xianni-ch1838-three-gifts-space-stone-mist-jade-water-origin",
     "plot.xianni-1839-eighth-water-source-cycle",
-    "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie"
+    "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+    "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field"
   ],
-  "updatedAt": "2026-08-30T12:50:55.859Z"
+  "updatedAt": "2026-08-30T13:09:36.453Z"
 }

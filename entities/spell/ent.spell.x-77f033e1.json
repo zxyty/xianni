@@ -8,7 +8,8 @@
   "summary": "王林并未明悟、仅凭修为模仿而出的白凡神通，火山幻化惊天动地；因融入金色仙力而成为真正的仙术。",
   "attributes": {
     "出处": "白凡三重六道术",
-    "威力": "因融入金色仙力升格为真正的仙术"
+    "威力": "因融入金色仙力升格为真正的仙术",
+    "类型": "攻击"
   },
   "observations": {
     "出处": [
@@ -24,6 +25,13 @@
         "docId": "plot.xianni-1582-yin-yue-you-qing",
         "seq": 1491,
         "note": "王林并未明悟，属模仿施展"
+      }
+    ],
+    "类型": [
+      {
+        "value": "攻击",
+        "docId": "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
+        "seq": 1775
       }
     ]
   },
@@ -41,12 +49,19 @@
       "dated": false,
       "seq": 1491,
       "note": "王林并未明悟，属模仿施展"
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
+      "dated": false,
+      "seq": 1775
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1582-yin-yue-you-qing"
+    "plot.xianni-1582-yin-yue-you-qing",
+    "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field"
   ],
-  "updatedAt": "2026-08-26T05:07:25.666Z"
+  "updatedAt": "2026-08-30T13:09:36.387Z"
 }
