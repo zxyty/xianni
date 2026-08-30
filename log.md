@@ -1113,3 +1113,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T09:18:15.442Z** `ingest` plot.xianni-ch1808-fire-source-suppression-and-daofei-awakening — 第1808章 大补！——九龙皇袍男子唤醒疯子（道非亲王）；王林元神化朱雀吞噬天牛洲地火支脉之魂 · kind=plot asOf=2026-08-30 entities=17 relations=25 src=01715-01719.p5.md
 - **2026-08-30T09:20:40.970Z** `ingest` plot.xianni-1809-du-qing-hairan-wang-lin-devours-earthfire-veins — 第1809章 杜青的骇然——王林吞噬天牛洲地火支脉、火本源逼近本源真身 · kind=plot asOf=2026-08-30 entities=22 relations=28 src=01720-01724.p1.md
 - **2026-08-30T09:23:22.666Z** `ingest` plot.xianni-1810-qunlong-yique-tun-dimai — 第1810章 群龙一雀吞地脉：王林吞十六地火脉魂，杜青追至现木身 · kind=plot asOf=2026-08-30 entities=23 relations=36 src=01720-01724.p2.md
+- **2026-08-30T09:25:24.564Z** `ingest` plot.xianni-ch1811-jingxia-duqing — 第1811章 惊吓杜青——王林借力吞噬地火子脉，三大神通震慑杜青 · kind=plot asOf=2026-08-30 entities=23 relations=26 src=01720-01724.p3.md
