@@ -7,18 +7,23 @@
     "绿衣绝美女子",
     "Haizi Tianzun",
     "章鱼海兽上的绝美女子",
-    "章鱼海兽背上的天尊"
+    "章鱼海兽背上的天尊",
+    "艺婷",
+    "海子艺婷",
+    "Yi Ting"
   ],
   "summary": "南州山海洲最强天尊，可融七十道神通于一指，据传极为接近传说中的跃天尊；三年前在山海一战中击败出动全部分身的王林，并守护着山海之底。",
   "attributes": {
     "称号": "海子天尊",
-    "身份": "天尊",
+    "身份": "山海洲最强天尊、天尊、天尊、山海之主",
     "阵营": "南州·山海洲",
     "性别": "女",
     "外貌": "绿色衣裙、长发束于脑后、明眸绝美、绝美女子",
     "标志特征": "额头五彩海星、手持碧绿色笛子",
     "本命法宝": "碧绿色笛子",
-    "存殁": "存活、在世"
+    "存殁": "存活、在世",
+    "性格": "高傲、身份自矜、恼羞刁难",
+    "出身地": "山海"
   },
   "observations": {
     "称号": [
@@ -37,6 +42,11 @@
       {
         "value": "天尊",
         "docId": "plot.xianni-1929-haizi-tianzun-shanhai-shuling",
+        "seq": 1839
+      },
+      {
+        "value": "天尊、山海之主",
+        "docId": "plot.xianni-ch1932-broken-palm-shanhai-battle",
         "seq": 1839
       }
     ],
@@ -96,6 +106,20 @@
         "docId": "plot.xianni-1931-miankong-fengyin-xianji-jian-suipian",
         "seq": 1839
       }
+    ],
+    "性格": [
+      {
+        "value": "高傲、身份自矜、恼羞刁难",
+        "docId": "plot.xianni-ch1932-broken-palm-shanhai-battle",
+        "seq": 1839
+      }
+    ],
+    "出身地": [
+      {
+        "value": "山海",
+        "docId": "plot.xianni-ch1932-broken-palm-shanhai-battle",
+        "seq": 1839
+      }
     ]
   },
   "firstSeq": 1834,
@@ -108,9 +132,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1929-haizi-tianzun-shanhai-shuling",
+      "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
       "dated": false,
-      "seq": 1839
+      "seq": 1834
     },
     "阵营": {
       "asOf": null,
@@ -147,6 +171,18 @@
       "docId": "plot.xianni-ch1930-fei-xiangang-zhi-ling",
       "dated": false,
       "seq": 1839
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1932-broken-palm-shanhai-battle",
+      "dated": false,
+      "seq": 1839
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1932-broken-palm-shanhai-battle",
+      "dated": false,
+      "seq": 1839
     }
   },
   "contested": false,
@@ -155,7 +191,8 @@
     "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
     "plot.xianni-1929-haizi-tianzun-shanhai-shuling",
     "plot.xianni-ch1930-fei-xiangang-zhi-ling",
-    "plot.xianni-1931-miankong-fengyin-xianji-jian-suipian"
+    "plot.xianni-1931-miankong-fengyin-xianji-jian-suipian",
+    "plot.xianni-ch1932-broken-palm-shanhai-battle"
   ],
-  "updatedAt": "2026-08-30T17:24:46.510Z"
+  "updatedAt": "2026-08-30T17:27:11.506Z"
 }

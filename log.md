@@ -1206,3 +1206,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T17:20:20.717Z** `ingest` plot.xianni-1929-haizi-tianzun-shanhai-shuling — 第1929章 海子：王林弃闯第五宫，重披天牛魂铠强夺山海树灵 · kind=plot asOf=2026-08-30 entities=23 relations=31 src=01839-01843.p2.md
 - **2026-08-30T17:22:52.934Z** `ingest` plot.xianni-ch1930-fei-xiangang-zhi-ling — 第1930章 非仙罡之灵！——王林九十八道定身术定住海子天尊，海底取山海树灵触发仙极剑碎片封印 · kind=plot asOf=2026-08-30 entities=23 relations=32 src=01839-01843.p3.md
 - **2026-08-30T17:24:47.030Z** `ingest` plot.xianni-1931-miankong-fengyin-xianji-jian-suipian — 第1931章 面孔！——王林三身合力拽出仙极剑碎片，斩断封印面孔 · kind=plot asOf=2026-08-30 entities=14 relations=19 src=01839-01843.p4.md
+- **2026-08-30T17:27:12.067Z** `ingest` plot.xianni-ch1932-broken-palm-shanhai-battle — 仙逆·第1932章 断掌！！——王林斩灭面孔、力战海子天尊，海底断掌苏醒 · kind=plot asOf=2026-08-30 entities=27 relations=36 src=01839-01843.p5.md
