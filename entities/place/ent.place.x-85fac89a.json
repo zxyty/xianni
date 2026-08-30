@@ -4,12 +4,14 @@
   "name": "道魔宗废墟",
   "aliases": [
     "道魔宗岛屿废墟",
-    "半瓦解的湖泊与岛屿"
+    "半瓦解的湖泊与岛屿",
+    "道魔宗遗址"
   ],
   "summary": "王林一甩袖化作的废墟，他盘膝坐于其中青石之上清剿余孽、静候天尊老祖。",
   "attributes": {
     "上级区域": "绿魔洲",
-    "类型": "废墟"
+    "类型": "废墟",
+    "所属势力": "道魔宗"
   },
   "observations": {
     "上级区域": [
@@ -24,6 +26,13 @@
         "value": "废墟",
         "docId": "plot.xianni-ch1916-wait-for-tianzun",
         "seq": 1824
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "道魔宗",
+        "docId": "plot.xianni-1918-body-is-dao",
+        "seq": 1829
       }
     ]
   },
@@ -40,12 +49,19 @@
       "docId": "plot.xianni-ch1916-wait-for-tianzun",
       "dated": false,
       "seq": 1824
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-1918-body-is-dao",
+      "dated": false,
+      "seq": 1829
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1916-wait-for-tianzun"
+    "plot.xianni-ch1916-wait-for-tianzun",
+    "plot.xianni-1918-body-is-dao"
   ],
-  "updatedAt": "2026-08-30T16:45:58.842Z"
+  "updatedAt": "2026-08-30T16:55:14.618Z"
 }

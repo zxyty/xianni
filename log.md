@@ -1192,3 +1192,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T16:43:14.042Z** `ingest` plot.xianni-1915-imperial-decree-slaying-daomo-sect-master — 第1915章 眼前一黑：王林圣旨之下击杀并吞噬道魔宗宗主，仙皇旨意反令其入中州 · kind=plot asOf=2026-08-30 entities=22 relations=30 src=01824-01828.p3.md
 - **2026-08-30T16:45:59.329Z** `ingest` plot.xianni-ch1916-wait-for-tianzun — 第1916章 等天尊来！——王林灭道魔宗、皇族使者破财、连道非之谜 · kind=plot asOf=2026-08-30 entities=37 relations=47 src=01824-01828.p4.md
 - **2026-08-30T16:53:07.443Z** `ingest` lore.xianni-1917-xianzu-five-great-tianzun — 第1917章 仙族五大天尊与王林赴仙族皇城之志 · kind=lore asOf=2026-08-30 entities=54 relations=69 src=01824-01828.p5.md
+- **2026-08-30T16:55:15.167Z** `ingest` plot.xianni-1918-body-is-dao — 仙逆 第1918章 身体，就是道！——王林六道神脉与道魔宗天尊三拳之约 · kind=plot asOf=2026-08-30 entities=24 relations=32 src=01829-01833.p1.md

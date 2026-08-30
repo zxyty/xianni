@@ -10,7 +10,8 @@
   "attributes": {
     "所属界面": "仙罡大陆",
     "所属势力": "仙皇一脉",
-    "规模": "七十二洲"
+    "规模": "七十二洲",
+    "类型": "洲域总称"
   },
   "observations": {
     "所属界面": [
@@ -33,6 +34,13 @@
         "docId": "plot.xianni-1796-stubborn-will-xianguang-continent-overview",
         "seq": 1705
       }
+    ],
+    "类型": [
+      {
+        "value": "洲域总称",
+        "docId": "plot.xianni-1918-body-is-dao",
+        "seq": 1829
+      }
     ]
   },
   "firstSeq": 1705,
@@ -54,6 +62,12 @@
       "docId": "plot.xianni-1796-stubborn-will-xianguang-continent-overview",
       "dated": false,
       "seq": 1705
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-1918-body-is-dao",
+      "dated": false,
+      "seq": 1829
     }
   },
   "contested": false,
@@ -61,7 +75,8 @@
   "docs": [
     "plot.xianni-1796-stubborn-will-xianguang-continent-overview",
     "plot.xianni-ch1825-immortal-ancestor-eight-extremes",
-    "lore.xianni-1917-xianzu-five-great-tianzun"
+    "lore.xianni-1917-xianzu-five-great-tianzun",
+    "plot.xianni-1918-body-is-dao"
   ],
-  "updatedAt": "2026-08-30T16:53:06.873Z"
+  "updatedAt": "2026-08-30T16:55:14.619Z"
 }

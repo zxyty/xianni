@@ -13,11 +13,11 @@
   "summary": "修为达天尊层次，不问世事、不尊绿魔蝎庙，一万三千年前被道一大天尊请走成为其麾下；对宗门感情稀薄，但若有人毁其道统必碍于颜面追究。",
   "attributes": {
     "称号": "天尊",
-    "小阶段": "空劫圆满",
+    "小阶段": "天尊",
     "身份": "道一大天尊麾下、道魔宗老祖",
-    "性格": "不问世事、只修自身、对宗门感情稀薄",
-    "阵营": "道一大天尊一系",
-    "外貌": "赤发老者，一脸平静而双目蕴藏怒火"
+    "性格": "平静无波、不轻视亦不动怒",
+    "阵营": "道一大天尊麾下",
+    "外貌": "赤发、紫袍绣金边、右衣角火红太极图案"
   },
   "observations": {
     "称号": [
@@ -32,6 +32,11 @@
         "value": "空劫圆满",
         "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
         "seq": 1819
+      },
+      {
+        "value": "天尊",
+        "docId": "plot.xianni-1918-body-is-dao",
+        "seq": 1829
       }
     ],
     "身份": [
@@ -51,6 +56,11 @@
         "value": "不问世事、只修自身、对宗门感情稀薄",
         "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
         "seq": 1819
+      },
+      {
+        "value": "平静无波、不轻视亦不动怒",
+        "docId": "plot.xianni-1918-body-is-dao",
+        "seq": 1829
       }
     ],
     "阵营": [
@@ -63,6 +73,11 @@
         "value": "道一大天尊一系",
         "docId": "plot.xianni-ch1916-wait-for-tianzun",
         "seq": 1824
+      },
+      {
+        "value": "道一大天尊麾下",
+        "docId": "plot.xianni-1918-body-is-dao",
+        "seq": 1829
       }
     ],
     "外貌": [
@@ -70,6 +85,11 @@
         "value": "赤发老者，一脸平静而双目蕴藏怒火",
         "docId": "plot.xianni-ch1916-wait-for-tianzun",
         "seq": 1824
+      },
+      {
+        "value": "赤发、紫袍绣金边、右衣角火红太极图案",
+        "docId": "plot.xianni-1918-body-is-dao",
+        "seq": 1829
       }
     ]
   },
@@ -83,9 +103,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
+      "docId": "plot.xianni-1918-body-is-dao",
       "dated": false,
-      "seq": 1819
+      "seq": 1829
     },
     "身份": {
       "asOf": null,
@@ -95,21 +115,21 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
+      "docId": "plot.xianni-1918-body-is-dao",
       "dated": false,
-      "seq": 1819
+      "seq": 1829
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch1916-wait-for-tianzun",
+      "docId": "plot.xianni-1918-body-is-dao",
       "dated": false,
-      "seq": 1824
+      "seq": 1829
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch1916-wait-for-tianzun",
+      "docId": "plot.xianni-1918-body-is-dao",
       "dated": false,
-      "seq": 1824
+      "seq": 1829
     }
   },
   "contested": false,
@@ -121,7 +141,8 @@
     "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
     "plot.xianni-ch1913-hailong-submits-imperial-edict-arrives",
     "plot.xianni-ch1916-wait-for-tianzun",
-    "lore.xianni-1917-xianzu-five-great-tianzun"
+    "lore.xianni-1917-xianzu-five-great-tianzun",
+    "plot.xianni-1918-body-is-dao"
   ],
-  "updatedAt": "2026-08-30T16:53:06.909Z"
+  "updatedAt": "2026-08-30T16:55:14.607Z"
 }
