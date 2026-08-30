@@ -9,8 +9,8 @@
   "summary": "仙罡大陆仙族所在之州，皇都皇城所在地。",
   "attributes": {
     "所属界面": "仙罡大陆",
-    "所属势力": "仙族",
-    "类型": "仙族皇城"
+    "所属势力": "绿魔一族相关",
+    "类型": "地域"
   },
   "observations": {
     "所属界面": [
@@ -25,6 +25,12 @@
         "value": "仙族",
         "docId": "plot.xianni-1807-cangzhongzong-hunt-open-storage-space",
         "seq": 1715
+      },
+      {
+        "value": "绿魔一族相关",
+        "docId": "plot.xianni-ch1893-geyou-tumou-luomo-jisi-shitan",
+        "seq": 1800,
+        "note": "祭祀族人复命之处"
       }
     ],
     "类型": [
@@ -37,6 +43,11 @@
         "value": "仙族皇城",
         "docId": "plot.xianni-1849-danhai-immortal-pill",
         "seq": 1760
+      },
+      {
+        "value": "地域",
+        "docId": "plot.xianni-ch1893-geyou-tumou-luomo-jisi-shitan",
+        "seq": 1800
       }
     ]
   },
@@ -50,15 +61,16 @@
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-1807-cangzhongzong-hunt-open-storage-space",
+      "docId": "plot.xianni-ch1893-geyou-tumou-luomo-jisi-shitan",
       "dated": false,
-      "seq": 1715
+      "seq": 1800,
+      "note": "祭祀族人复命之处"
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1849-danhai-immortal-pill",
+      "docId": "plot.xianni-ch1893-geyou-tumou-luomo-jisi-shitan",
       "dated": false,
-      "seq": 1760
+      "seq": 1800
     }
   },
   "contested": false,
@@ -66,7 +78,8 @@
   "docs": [
     "plot.xianni-1807-cangzhongzong-hunt-open-storage-space",
     "plot.xianni-ch1838-three-gifts-space-stone-mist-jade-water-origin",
-    "plot.xianni-1849-danhai-immortal-pill"
+    "plot.xianni-1849-danhai-immortal-pill",
+    "plot.xianni-ch1893-geyou-tumou-luomo-jisi-shitan"
   ],
-  "updatedAt": "2026-08-30T11:40:22.853Z"
+  "updatedAt": "2026-08-30T14:59:31.977Z"
 }
