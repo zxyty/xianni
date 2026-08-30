@@ -7,17 +7,19 @@
     "北州武封大天尊",
     "Wu Feng",
     "光头中年男子",
-    "死光头"
+    "死光头",
+    "光头的武封"
   ],
   "summary": "北州大能，云空多年前赴北州拜入其门下问仙求道。",
   "attributes": {
-    "称号": "武封大天尊",
+    "称号": "武封",
     "出身地": "北州冰川之地",
     "性格": "最为超然、超然、少看重天尊修士、强势直接、刚直不避锋芒、豪爽直言、真诚、豪赌",
-    "标志特征": "七步踏来，天地似崩、死气倒卷，如一尊霸道战仙",
-    "身份": "五大天尊之一",
-    "外貌": "身子高大、没有头发、一身粗布衣衫",
-    "阵营": "亲王林"
+    "标志特征": "曾闯过天尊涅十九层",
+    "身份": "武道修士",
+    "外貌": "高大无发的中年男子，骨骼极大、麻布褂子，相貌粗糙而双目惊天动地、光头、身子极为高大的中年男子、高大身影、身子高大、没有头发、一身粗布衣衫、光头、容颜急速衰老、双目黯淡、身子颤抖",
+    "阵营": "亲王林",
+    "存殁": "重创枯萎"
   },
   "observations": {
     "称号": [
@@ -30,6 +32,11 @@
         "value": "武封大天尊",
         "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
         "seq": 1824
+      },
+      {
+        "value": "武封",
+        "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
+        "seq": 1904
       }
     ],
     "出身地": [
@@ -91,6 +98,11 @@
         "value": "七步踏来，天地似崩、死气倒卷，如一尊霸道战仙",
         "docId": "plot.xianni-1873-1877-tianzun-nie-17th-floor",
         "seq": 1873
+      },
+      {
+        "value": "曾闯过天尊涅十九层",
+        "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
+        "seq": 1904
       }
     ],
     "身份": [
@@ -113,6 +125,11 @@
         "value": "五大天尊之一",
         "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
         "seq": 1868
+      },
+      {
+        "value": "武道修士",
+        "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
+        "seq": 1904
       }
     ],
     "外貌": [
@@ -135,6 +152,17 @@
         "value": "身子高大、没有头发、一身粗布衣衫",
         "docId": "plot.xianni-1873-1877-tianzun-nie-17th-floor",
         "seq": 1873
+      },
+      {
+        "value": "光头",
+        "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
+        "seq": 1904
+      },
+      {
+        "value": "容颜急速衰老、双目黯淡、身子颤抖",
+        "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
+        "seq": 1904,
+        "note": "诅术所致"
       }
     ],
     "阵营": [
@@ -148,15 +176,23 @@
         "docId": "plot.xianni-1873-1877-tianzun-nie-17th-floor",
         "seq": 1873
       }
+    ],
+    "存殁": [
+      {
+        "value": "重创枯萎",
+        "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
+        "seq": 1904,
+        "note": "第1995章触犯仙祖诅术"
+      }
     ]
   },
   "firstSeq": 1755,
   "attrProvenance": {
     "称号": {
       "asOf": null,
-      "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
+      "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
       "dated": false,
-      "seq": 1824
+      "seq": 1904
     },
     "出身地": {
       "asOf": null,
@@ -172,27 +208,34 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-1873-1877-tianzun-nie-17th-floor",
+      "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
       "dated": false,
-      "seq": 1873
+      "seq": 1904
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+      "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
       "dated": false,
-      "seq": 1868
+      "seq": 1904
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-1873-1877-tianzun-nie-17th-floor",
+      "docId": "plot.xianni-1937-let-the-great-heaven-venerate-see",
       "dated": false,
-      "seq": 1873
+      "seq": 1848
     },
     "阵营": {
       "asOf": null,
       "docId": "plot.xianni-1873-1877-tianzun-nie-17th-floor",
       "dated": false,
       "seq": 1873
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
+      "dated": false,
+      "seq": 1904,
+      "note": "第1995章触犯仙祖诅术"
     }
   },
   "contested": false,
@@ -207,7 +250,8 @@
     "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
     "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
     "plot.xianni-1873-1877-tianzun-nie-17th-floor",
-    "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun"
+    "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+    "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head"
   ],
-  "updatedAt": "2026-08-30T19:41:43.014Z"
+  "updatedAt": "2026-08-30T22:02:32.524Z"
 }

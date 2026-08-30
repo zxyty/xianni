@@ -6,12 +6,13 @@
     "禁宫",
     "祖城的禁宫",
     "习禁宫",
-    "皇宫禁宫"
+    "皇宫禁宫",
+    "禁宫地宫"
   ],
   "summary": "仙祖头颅所在之地：天空有巨大窟窿散发微弱光芒，下方八座山峰环绕，中央漂浮十丈仙祖头颅。",
   "attributes": {
-    "类型": "禁地/宫城、禁地/宫殿",
-    "上级区域": "祖城、仙族祖城皇宫",
+    "类型": "禁地/宫城、禁地/宫殿、禁地／宫殿、禁地",
+    "上级区域": "祖城、仙族祖城皇宫、祖城皇宫",
     "方位": "八座山峰环绕之中",
     "特产": "仙祖头颅",
     "危险度": "极高",
@@ -29,6 +30,16 @@
         "value": "禁地/宫殿",
         "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
         "seq": 1898
+      },
+      {
+        "value": "禁地／宫殿",
+        "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
+        "seq": 1904
+      },
+      {
+        "value": "禁地",
+        "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
+        "seq": 1904
       }
     ],
     "上级区域": [
@@ -41,6 +52,11 @@
         "value": "仙族祖城皇宫",
         "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
         "seq": 1898
+      },
+      {
+        "value": "祖城皇宫",
+        "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
+        "seq": 1904
       }
     ],
     "方位": [
@@ -127,7 +143,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1898-1903-immortal-skull-mountain"
+    "plot.xianni-ch1898-1903-immortal-skull-mountain",
+    "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head"
   ],
-  "updatedAt": "2026-08-30T21:20:08.945Z"
+  "updatedAt": "2026-08-30T22:02:32.487Z"
 }

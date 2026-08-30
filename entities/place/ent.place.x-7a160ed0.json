@@ -9,11 +9,12 @@
   ],
   "summary": "世子殿下的避难之地，那名修士有所顾忌不便进入。",
   "attributes": {
-    "类型": "宫殿",
+    "类型": "宫城",
     "危险度": "禁地，需允许方可入",
     "上级区域": "祖城",
     "方位": "祖城最中央",
-    "所属势力": "仙皇一系"
+    "所属势力": "仙皇一系",
+    "守护": "仙祖雕像"
   },
   "observations": {
     "类型": [
@@ -36,6 +37,11 @@
         "value": "宫殿",
         "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
         "seq": 1893
+      },
+      {
+        "value": "宫城",
+        "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
+        "seq": 1904
       }
     ],
     "危险度": [
@@ -75,15 +81,22 @@
         "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
         "seq": 1893
       }
+    ],
+    "守护": [
+      {
+        "value": "仙祖雕像",
+        "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
+        "seq": 1904
+      }
     ]
   },
   "firstSeq": 244,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+      "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
       "dated": false,
-      "seq": 1893
+      "seq": 1904
     },
     "危险度": {
       "asOf": null,
@@ -108,6 +121,12 @@
       "docId": "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
       "dated": false,
       "seq": 1893
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
+      "dated": false,
+      "seq": 1904
     }
   },
   "contested": false,
@@ -116,7 +135,8 @@
     "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
     "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
     "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
-    "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken"
+    "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
+    "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head"
   ],
-  "updatedAt": "2026-08-30T20:38:14.101Z"
+  "updatedAt": "2026-08-30T22:02:32.488Z"
 }

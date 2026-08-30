@@ -15,9 +15,9 @@
   "attributes": {
     "所属界面": "仙罡大陆",
     "所属势力": "仙族皇室",
-    "类型": "雄城、巨城、都城、城池、大城",
+    "类型": "雄城、巨城、都城、城池、大城、都城/禁地",
     "上级区域": "中州",
-    "方位": "中州核心",
+    "方位": "中州",
     "规模": "堪比一洲，无边无际，第一雄城、天地罕有之城，仅东城便无边无际、极大，东城至皇宫路程遥远、庞大（紫色陨石堪比其一半大小）",
     "特产": "仙气浓郁形成仙威，凡人无法生存、浓郁仙威、常年风雪",
     "守护": "两个大天尊、神秘的道门、仙皇",
@@ -68,6 +68,11 @@
         "value": "大城",
         "docId": "plot.xianni-1888-1892-fengxue-changjie-shaju",
         "seq": 1888
+      },
+      {
+        "value": "都城/禁地",
+        "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
+        "seq": 1904
       }
     ],
     "上级区域": [
@@ -82,6 +87,11 @@
         "value": "中州核心",
         "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
         "seq": 1878
+      },
+      {
+        "value": "中州",
+        "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
+        "seq": 1904
       }
     ],
     "规模": [
@@ -177,9 +187,9 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+      "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
       "dated": false,
-      "seq": 1878
+      "seq": 1904
     },
     "规模": {
       "asOf": null,
@@ -213,7 +223,8 @@
     "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
     "plot.xianni-1888-1892-fengxue-changjie-shaju",
     "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
-    "plot.xianni-ch1898-1903-immortal-skull-mountain"
+    "plot.xianni-ch1898-1903-immortal-skull-mountain",
+    "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head"
   ],
-  "updatedAt": "2026-08-30T21:20:08.946Z"
+  "updatedAt": "2026-08-30T22:02:32.490Z"
 }

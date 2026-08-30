@@ -17,27 +17,30 @@
     "老夫（国师自称）",
     "悼亡族国师",
     "占据王林身躯的国师",
-    "疑似国师之人"
+    "疑似国师之人",
+    "真正的国师",
+    "假国师"
   ],
   "summary": "大王朝国师，数月前夜观天象称凶星出自西北，遂促成屠杀西北平民数十万，致西北尸骸遍地、怨气冲天。",
   "attributes": {
-    "身份": "大王朝国师、道古一脉国师、仙族国师、仙皇国师、仙罡大陆国师、其族代表、国师、仙祖传承的施术者、国师；某族谋求自由者",
+    "身份": "大王朝国师、道古一脉国师、仙族国师、仙皇国师、仙罡大陆国师、其族代表、国师、仙祖传承的施术者、国师；某族谋求自由者、自认的国师",
     "标志特征": "本章只闻其声未见其人、掌心幻化白芒小人（魂衍道）、白衣、掐诀发誓符、族人受仙祖代代传承封印所限无法离开祖城、掌心可幻化白色小人／九个白芒身影化作九指",
     "阵营": "表面效忠仙皇，暗中背叛",
     "外貌": "一身白衣、取出命晶后一下子苍老腐朽、面色苍白、气喘吁吁、幽光所化虚幻身影，可环绕九个幽色光圈、王林之身",
     "种族": "悼亡族",
     "寿元": "所剩无几",
-    "性格": "阴毒、擅推衍算计，此时焦急、隐忍、果断、为族人可形神俱灭",
+    "性格": "阴毒、擅推衍算计，此时焦急、隐忍、果断、为族人可形神俱灭、执念极深、为解族人封印付出一切、为族人不惜一切、至死无怨",
     "存殁": "存活、死亡、肉身已死，仅存一缕神识",
-    "死因": "燃尽最后生命施展仙祖传承，身躯自行崩碎化作幽光",
-    "结局": "肉身崩碎后幽光化虚影，指地引爆仙祖头颅之山、夺舍王林身躯成功"
+    "死因": "封印解开一刻被仙皇最后杀招（来自仙祖头颅的仙皇之力）抹去存在、形神俱灭",
+    "结局": "肉身崩碎后幽光化虚影，指地引爆仙祖头颅之山、夺舍王林身躯成功、死前记忆苏醒，得知悼亡族仅余自己与失踪女婴，不知真国师是谁而消散"
   },
   "observations": {
     "身份": [
       {
         "value": "大王朝国师",
         "docId": "plot.xianni-ch894-da-wang-chao-grievance-qi",
-        "seq": 834
+        "seq": 834,
+        "note": "夺舍占据王林身躯"
       },
       {
         "value": "道古一脉国师",
@@ -74,6 +77,12 @@
         "value": "国师；某族谋求自由者",
         "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
         "seq": 1898
+      },
+      {
+        "value": "自认的国师",
+        "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
+        "seq": 1904,
+        "note": "实为被上一代国师当作国师培养，真国师是失踪女婴"
       }
     ],
     "标志特征": [
@@ -185,6 +194,16 @@
         "value": "隐忍、果断、为族人可形神俱灭",
         "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
         "seq": 1898
+      },
+      {
+        "value": "执念极深、为解族人封印付出一切",
+        "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
+        "seq": 1904
+      },
+      {
+        "value": "为族人不惜一切、至死无怨",
+        "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
+        "seq": 1904
       }
     ],
     "存殁": [
@@ -210,6 +229,11 @@
         "value": "燃尽最后生命施展仙祖传承，身躯自行崩碎化作幽光",
         "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
         "seq": 1898
+      },
+      {
+        "value": "封印解开一刻被仙皇最后杀招（来自仙祖头颅的仙皇之力）抹去存在、形神俱灭",
+        "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
+        "seq": 1904
       }
     ],
     "结局": [
@@ -223,6 +247,11 @@
         "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
         "seq": 1898,
         "note": "第1990章，称传承并不完整、此为计划第一步"
+      },
+      {
+        "value": "死前记忆苏醒，得知悼亡族仅余自己与失踪女婴，不知真国师是谁而消散",
+        "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
+        "seq": 1904
       }
     ]
   },
@@ -232,7 +261,8 @@
       "asOf": null,
       "docId": "plot.xianni-ch894-da-wang-chao-grievance-qi",
       "dated": false,
-      "seq": 834
+      "seq": 834,
+      "note": "夺舍占据王林身躯"
     },
     "标志特征": {
       "asOf": null,
@@ -282,9 +312,9 @@
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
+      "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
       "dated": false,
-      "seq": 1898
+      "seq": 1904
     },
     "结局": {
       "asOf": null,
@@ -303,7 +333,8 @@
     "plot.xianni-1873-1877-tianzun-nie-17th-floor",
     "plot.xianni-1888-1892-fengxue-changjie-shaju",
     "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
-    "plot.xianni-ch1898-1903-immortal-skull-mountain"
+    "plot.xianni-ch1898-1903-immortal-skull-mountain",
+    "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head"
   ],
-  "updatedAt": "2026-08-30T21:20:08.924Z"
+  "updatedAt": "2026-08-30T22:02:32.397Z"
 }
