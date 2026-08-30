@@ -1,71 +1,58 @@
 {
-  "id": "ent.place.x-269d17ed",
+  "id": "ent.place.x-7cc72cc1",
   "type": "place",
-  "name": "道吉十二郡",
+  "name": "道古殿之山",
   "aliases": [
-    "十二郡",
-    "道古十二郡"
+    "城中之山",
+    "道古殿所在之山",
+    "天空之城南山"
   ],
-  "summary": "王林此行目的地，需详细地图方能前往；王林打算从道古一脉之人处取得该地图。",
+  "summary": "位于道古皇城最南端的城中之山，云雾缭绕、青灵气息扩散，石阶蜿蜒带扶手，山顶为道古殿。",
   "attributes": {
     "所属势力": "道古一脉",
-    "类型": "郡域",
-    "所属界面": "仙族大陆",
-    "方位": "仙族大陆西南",
-    "规模": "堪比仙族一州，略大"
+    "类型": "城中山峰",
+    "方位": "道古皇城最南端",
+    "特产": "青灵气息（深吸可精神一振）"
   },
   "observations": {
     "所属势力": [
       {
         "value": "道古一脉",
-        "docId": "plot.xianni-ch2004-jidu-huangzi-heishicheng",
-        "seq": 1914
+        "docId": "plot.xianni-2008-daogu-huangcheng-luxiang-yibai",
+        "seq": 1919
       }
     ],
     "类型": [
       {
-        "value": "郡域",
-        "docId": "plot.xianni-ch2004-jidu-huangzi-heishicheng",
-        "seq": 1914
-      }
-    ],
-    "所属界面": [
-      {
-        "value": "仙族大陆",
+        "value": "城中山峰",
         "docId": "plot.xianni-2008-daogu-huangcheng-luxiang-yibai",
         "seq": 1919
       }
     ],
     "方位": [
       {
-        "value": "仙族大陆西南",
+        "value": "道古皇城最南端",
         "docId": "plot.xianni-2008-daogu-huangcheng-luxiang-yibai",
         "seq": 1919
       }
     ],
-    "规模": [
+    "特产": [
       {
-        "value": "堪比仙族一州，略大",
+        "value": "青灵气息（深吸可精神一振）",
         "docId": "plot.xianni-2008-daogu-huangcheng-luxiang-yibai",
         "seq": 1919
       }
     ]
   },
-  "firstSeq": 1914,
+  "firstSeq": 1919,
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch2004-jidu-huangzi-heishicheng",
+      "docId": "plot.xianni-2008-daogu-huangcheng-luxiang-yibai",
       "dated": false,
-      "seq": 1914
+      "seq": 1919
     },
     "类型": {
-      "asOf": null,
-      "docId": "plot.xianni-ch2004-jidu-huangzi-heishicheng",
-      "dated": false,
-      "seq": 1914
-    },
-    "所属界面": {
       "asOf": null,
       "docId": "plot.xianni-2008-daogu-huangcheng-luxiang-yibai",
       "dated": false,
@@ -77,7 +64,7 @@
       "dated": false,
       "seq": 1919
     },
-    "规模": {
+    "特产": {
       "asOf": null,
       "docId": "plot.xianni-2008-daogu-huangcheng-luxiang-yibai",
       "dated": false,
@@ -87,8 +74,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch2004-jidu-huangzi-heishicheng",
     "plot.xianni-2008-daogu-huangcheng-luxiang-yibai"
   ],
-  "updatedAt": "2026-08-30T23:56:59.968Z"
+  "updatedAt": "2026-08-30T23:56:59.967Z"
 }

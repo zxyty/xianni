@@ -1242,3 +1242,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T23:49:43.814Z** `ingest` plot.xianni-ch2005-song-zhi-appears — 第2005章 有女，宋致：王林震慑古妖古魔，与宋致目光相遇 · kind=plot asOf=2026-08-30 entities=26 relations=32 src=01914-01918.p4.md
 - **2026-08-30T23:52:14.907Z** `ingest` plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun — 第2006章 一叶遮目：宋致被道古使团带走，计都皇子拜见「白发跃天尊」 · kind=plot asOf=2026-08-30 entities=29 relations=40 src=01914-01918.p5.md
 - **2026-08-30T23:54:28.725Z** `ingest` plot.xianni-ch2007-jidu-prince-kowtow-godfather-backup-plan — 仙逆 第2007章 后路！——计都皇子跪认王林为义父 · kind=plot asOf=2026-08-30 entities=21 relations=30 src=01919-01923.p1.md
+- **2026-08-30T23:57:00.548Z** `ingest` plot.xianni-2008-daogu-huangcheng-luxiang-yibai — 第2008章 炉香一拜皇尊森：王林抵道古皇城，一拜压弯道古殿香炉青烟 · kind=plot asOf=2026-08-30 entities=25 relations=33 src=01919-01923.p2.md
