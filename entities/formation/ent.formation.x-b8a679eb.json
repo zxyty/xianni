@@ -1,0 +1,76 @@
+{
+  "id": "ent.formation.x-b8a679eb",
+  "type": "formation",
+  "name": "禁止飞行规则",
+  "aliases": [
+    "既定规则",
+    "禁飞法则",
+    "禁止飞行的规则"
+  ],
+  "summary": "王林在残界内凝聚成形的唯一完整规则：踏入者失去飞行之力急速下坠，修为爆发亦无法阻止；不影响法宝，且对肉身的作用时长随修为而异。",
+  "attributes": {
+    "效果": "剥夺飞行之力致坠落、坠速在星空激起类罡风",
+    "布置者": "王林",
+    "破解法": "祭出法宝托身（法宝不受影响）、在此界停留超过时限后不再受影响"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "剥夺飞行之力致坠落",
+        "docId": "plot.xianni-1754-established-rules-forbid-flight",
+        "seq": 1665
+      },
+      {
+        "value": "坠速在星空激起类罡风",
+        "docId": "plot.xianni-1754-established-rules-forbid-flight",
+        "seq": 1665
+      }
+    ],
+    "布置者": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-1754-established-rules-forbid-flight",
+        "seq": 1665
+      }
+    ],
+    "破解法": [
+      {
+        "value": "祭出法宝托身（法宝不受影响）",
+        "docId": "plot.xianni-1754-established-rules-forbid-flight",
+        "seq": 1665
+      },
+      {
+        "value": "在此界停留超过时限后不再受影响",
+        "docId": "plot.xianni-1754-established-rules-forbid-flight",
+        "seq": 1665
+      }
+    ]
+  },
+  "firstSeq": 1665,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.xianni-1754-established-rules-forbid-flight",
+      "dated": false,
+      "seq": 1665
+    },
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.xianni-1754-established-rules-forbid-flight",
+      "dated": false,
+      "seq": 1665
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.xianni-1754-established-rules-forbid-flight",
+      "dated": false,
+      "seq": 1665
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.xianni-1754-established-rules-forbid-flight"
+  ],
+  "updatedAt": "2026-08-30T06:20:48.075Z"
+}

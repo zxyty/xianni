@@ -7,12 +7,13 @@
     "驱蚊兽之香",
     "婴儿手臂粗细的燃香",
     "一整支燃香",
-    "云海燃香"
+    "云海燃香",
+    "一根燃香"
   ],
   "summary": "可令巨蚊兽不由自主跟随的奇异燃香，三青年靠它引走蚊群，压制巨蚊王挣扎时消耗两根。",
   "attributes": {
-    "类型": "香类法器、香、迷惑灵兽的燃香",
-    "用途": "迷惑蚊兽并引其离开原地",
+    "类型": "香类法器、香、迷惑灵兽的燃香、随身法物",
+    "用途": "点燃后似可求援/示警",
     "产地": "紫衣青年储物袋、云海"
   },
   "observations": {
@@ -31,6 +32,11 @@
         "value": "迷惑灵兽的燃香",
         "docId": "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai",
         "seq": 1063
+      },
+      {
+        "value": "随身法物",
+        "docId": "plot.xianni-1754-established-rules-forbid-flight",
+        "seq": 1665
       }
     ],
     "用途": [
@@ -43,6 +49,12 @@
         "value": "迷惑蚊兽并引其离开原地",
         "docId": "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai",
         "seq": 1063
+      },
+      {
+        "value": "点燃后似可求援/示警",
+        "docId": "plot.xianni-1754-established-rules-forbid-flight",
+        "seq": 1665,
+        "note": "未及点燃即被杀，用途未明言"
       }
     ],
     "产地": [
@@ -69,9 +81,10 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai",
+      "docId": "plot.xianni-1754-established-rules-forbid-flight",
       "dated": false,
-      "seq": 1063
+      "seq": 1665,
+      "note": "未及点燃即被杀，用途未明言"
     },
     "产地": {
       "asOf": null,
@@ -85,7 +98,8 @@
   "docs": [
     "plot.xianni-ch1103-yunhai-mosquito-beasts-stolen",
     "plot.xianni-1146-tianni-second-perfection-hope",
-    "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai"
+    "plot.xianni-1147-sunyun-heartache-first-alchemy-yunhai",
+    "plot.xianni-1754-established-rules-forbid-flight"
   ],
-  "updatedAt": "2026-08-24T18:33:46.832Z"
+  "updatedAt": "2026-08-30T06:20:48.086Z"
 }

@@ -1064,3 +1064,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T06:13:17.869Z** `ingest` plot.xianni-ch1751-ren-ju-cave-mansion-gate-gathering — 仙逆·第1751章 人聚：洞府核心大门重凝，各方势力围困王林 · kind=plot asOf=2026-08-30 entities=31 relations=40 src=01660-01664.p3.md
 - **2026-08-30T06:15:34.835Z** `ingest` plot.xianni-1752-hunting-ground-cave-mansion-door-opens — 第1752章 猎场！——王林开启洞府之门，以第三魂为饵设猎场 · kind=plot asOf=2026-08-30 entities=23 relations=30 src=01660-01664.p4.md
 - **2026-08-30T06:18:10.265Z** `ingest` plot.xianni-1753-sanbai-canjie — 第1753章 三百残界：王林踏入七彩洞府核心，谋划猎场 · kind=plot asOf=2026-08-30 entities=21 relations=31 src=01660-01664.p5.md
+- **2026-08-30T06:20:48.506Z** `ingest` plot.xianni-1754-established-rules-forbid-flight — 仙逆 第1754章 既定规则——王林在残界立禁飞法则，守株待兔猎杀七道宗仙人 · kind=plot asOf=2026-08-30 entities=25 relations=35 src=01665-01669.p1.md

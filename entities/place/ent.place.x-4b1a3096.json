@@ -3,13 +3,17 @@
   "type": "place",
   "name": "废墟",
   "aliases": [
-    "上古城市废墟"
+    "上古城市废墟",
+    "大鼎下方废墟",
+    "血丝废墟"
   ],
   "summary": "上古神话时期的城市废墟，阴寒之气浓郁（约黄阴之地沉阴十品），内有塔形建筑与八个石珠、蓝皮肤怪人活动。",
   "attributes": {
-    "类型": "上古神话时期城市废墟",
+    "类型": "禁制区",
     "特产": "浓郁阴寒之气（黄阴之地沉阴十品）",
-    "守护": "蓝皮肤怪人、石珠"
+    "守护": "蓝皮肤怪人、石珠、红色血丝禁制",
+    "方位": "洞府核心大鼎下方",
+    "危险度": "极高"
   },
   "observations": {
     "类型": [
@@ -17,6 +21,11 @@
         "value": "上古神话时期城市废墟",
         "docId": "plot.xianni-ch091-jiyin-lingli",
         "seq": 76
+      },
+      {
+        "value": "禁制区",
+        "docId": "plot.xianni-1754-established-rules-forbid-flight",
+        "seq": 1665
       }
     ],
     "特产": [
@@ -36,6 +45,25 @@
         "value": "石珠",
         "docId": "plot.xianni-ch091-jiyin-lingli",
         "seq": 76
+      },
+      {
+        "value": "红色血丝禁制",
+        "docId": "plot.xianni-1754-established-rules-forbid-flight",
+        "seq": 1665
+      }
+    ],
+    "方位": [
+      {
+        "value": "洞府核心大鼎下方",
+        "docId": "plot.xianni-1754-established-rules-forbid-flight",
+        "seq": 1665
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.xianni-1754-established-rules-forbid-flight",
+        "seq": 1665
       }
     ]
   },
@@ -43,9 +71,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch091-jiyin-lingli",
+      "docId": "plot.xianni-1754-established-rules-forbid-flight",
       "dated": false,
-      "seq": 76
+      "seq": 1665
     },
     "特产": {
       "asOf": null,
@@ -58,12 +86,25 @@
       "docId": "plot.xianni-ch091-jiyin-lingli",
       "dated": false,
       "seq": 76
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-1754-established-rules-forbid-flight",
+      "dated": false,
+      "seq": 1665
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-1754-established-rules-forbid-flight",
+      "dated": false,
+      "seq": 1665
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch091-jiyin-lingli"
+    "plot.xianni-ch091-jiyin-lingli",
+    "plot.xianni-1754-established-rules-forbid-flight"
   ],
-  "updatedAt": "2026-06-22T13:56:11.106Z"
+  "updatedAt": "2026-08-30T06:20:48.071Z"
 }

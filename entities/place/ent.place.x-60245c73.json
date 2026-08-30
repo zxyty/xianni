@@ -11,9 +11,10 @@
   "summary": "洞府界的核心即洞府大门所在；女子在此可凝聚更多元神，足以杀人，是其方法一的埋伏点。",
   "attributes": {
     "所属界面": "洞府界",
-    "类型": "洞府/秘境核心",
+    "类型": "秘境核心",
     "方位": "洞府之门内",
-    "守护": "王林新布的血丝禁制大阵"
+    "守护": "废墟上空的红色血丝禁制",
+    "危险度": "误入废墟者被血丝笼罩重创"
   },
   "observations": {
     "所属界面": [
@@ -33,6 +34,11 @@
         "value": "洞府/秘境核心",
         "docId": "plot.xianni-1752-hunting-ground-cave-mansion-door-opens",
         "seq": 1660
+      },
+      {
+        "value": "秘境核心",
+        "docId": "plot.xianni-1754-established-rules-forbid-flight",
+        "seq": 1665
       }
     ],
     "方位": [
@@ -53,6 +59,18 @@
         "docId": "plot.xianni-1752-hunting-ground-cave-mansion-door-opens",
         "seq": 1660,
         "note": "第1752章入口附近"
+      },
+      {
+        "value": "废墟上空的红色血丝禁制",
+        "docId": "plot.xianni-1754-established-rules-forbid-flight",
+        "seq": 1665
+      }
+    ],
+    "危险度": [
+      {
+        "value": "误入废墟者被血丝笼罩重创",
+        "docId": "plot.xianni-1754-established-rules-forbid-flight",
+        "seq": 1665
       }
     ]
   },
@@ -66,9 +84,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1752-hunting-ground-cave-mansion-door-opens",
+      "docId": "plot.xianni-1754-established-rules-forbid-flight",
       "dated": false,
-      "seq": 1660
+      "seq": 1665
     },
     "方位": {
       "asOf": null,
@@ -78,17 +96,23 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-1752-hunting-ground-cave-mansion-door-opens",
+      "docId": "plot.xianni-1754-established-rules-forbid-flight",
       "dated": false,
-      "seq": 1660,
-      "note": "第1752章入口附近"
+      "seq": 1665
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-1754-established-rules-forbid-flight",
+      "dated": false,
+      "seq": 1665
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "lore.xianni-ch1695-qicai-three-souls-seven-po",
-    "plot.xianni-1752-hunting-ground-cave-mansion-door-opens"
+    "plot.xianni-1752-hunting-ground-cave-mansion-door-opens",
+    "plot.xianni-1754-established-rules-forbid-flight"
   ],
-  "updatedAt": "2026-08-30T06:15:34.393Z"
+  "updatedAt": "2026-08-30T06:20:48.070Z"
 }
