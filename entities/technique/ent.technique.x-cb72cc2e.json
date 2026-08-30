@@ -3,14 +3,16 @@
   "type": "technique",
   "name": "道喃术",
   "aliases": [
-    "道喃"
+    "道喃",
+    "道喃之术",
+    "群修连击之术"
   ],
   "summary": "大魂门神通，被赐予苍龙宗作宗派阵法之术；数万人齐诵「道」「魂」二字，音波融合成奇异之力，可融化道念、分离灵魂。",
   "attributes": {
     "出处": "大魂门",
-    "效果": "融化道念、分离灵魂",
-    "修炼条件": "需大量修士齐诵合力",
-    "外显异象": "数万人齐诵「道」「魂」，音波笼罩天地"
+    "效果": "融化道念、分离灵魂、魂魄欲离体、干扰道念意境、间接影响本源、阻人离去",
+    "修炼条件": "需大量修士齐诵合力、需群修合力，难以单独一人施展",
+    "外显异象": "数万人齐诵「道」「魂」，音波笼罩天地、回旋天地的诡异声音"
   },
   "observations": {
     "出处": [
@@ -30,6 +32,26 @@
         "value": "分离灵魂",
         "docId": "plot.xianni-1804-xiangang-first-battle-canglong-sect",
         "seq": 1715
+      },
+      {
+        "value": "魂魄欲离体",
+        "docId": "plot.xianni-ch1805-old-ancestor-returns-earth-fire-vein-soul",
+        "seq": 1715
+      },
+      {
+        "value": "干扰道念意境",
+        "docId": "plot.xianni-ch1805-old-ancestor-returns-earth-fire-vein-soul",
+        "seq": 1715
+      },
+      {
+        "value": "间接影响本源",
+        "docId": "plot.xianni-ch1805-old-ancestor-returns-earth-fire-vein-soul",
+        "seq": 1715
+      },
+      {
+        "value": "阻人离去",
+        "docId": "plot.xianni-ch1805-old-ancestor-returns-earth-fire-vein-soul",
+        "seq": 1715
       }
     ],
     "修炼条件": [
@@ -37,12 +59,22 @@
         "value": "需大量修士齐诵合力",
         "docId": "plot.xianni-1804-xiangang-first-battle-canglong-sect",
         "seq": 1715
+      },
+      {
+        "value": "需群修合力，难以单独一人施展",
+        "docId": "plot.xianni-ch1805-old-ancestor-returns-earth-fire-vein-soul",
+        "seq": 1715
       }
     ],
     "外显异象": [
       {
         "value": "数万人齐诵「道」「魂」，音波笼罩天地",
         "docId": "plot.xianni-1804-xiangang-first-battle-canglong-sect",
+        "seq": 1715
+      },
+      {
+        "value": "回旋天地的诡异声音",
+        "docId": "plot.xianni-ch1805-old-ancestor-returns-earth-fire-vein-soul",
         "seq": 1715
       }
     ]
@@ -77,7 +109,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1804-xiangang-first-battle-canglong-sect"
+    "plot.xianni-1804-xiangang-first-battle-canglong-sect",
+    "plot.xianni-ch1805-old-ancestor-returns-earth-fire-vein-soul"
   ],
-  "updatedAt": "2026-08-30T08:59:39.721Z"
+  "updatedAt": "2026-08-30T09:01:48.792Z"
 }

@@ -1107,3 +1107,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T08:55:07.159Z** `ingest` plot.xianni-ch1802-kang-ren-brings-calamity-home — 第1802章 带煞回府：康仁掳走重伤王林欲炼傀儡，蚊王睁眼 · kind=plot asOf=2026-08-30 entities=19 relations=23 src=01710-01714.p4.md
 - **2026-08-30T08:57:34.528Z** `ingest` plot.xianni-ch1803-di-huo-bian — 第1803章 地火变！——王林于仙罡大陆苏醒，引爆苍龙宗地火脉 · kind=plot asOf=2026-08-30 entities=20 relations=33 src=01710-01714.p5.md
 - **2026-08-30T08:59:40.254Z** `ingest` plot.xianni-1804-xiangang-first-battle-canglong-sect — 第1804章 仙罡第一战：王林震退苍龙宗赵长老、抽地火脉之魂 · kind=plot asOf=2026-08-30 entities=26 relations=36 src=01715-01719.p1.md
+- **2026-08-30T09:01:49.320Z** `ingest` plot.xianni-ch1805-old-ancestor-returns-earth-fire-vein-soul — 仙逆 第1805章 老祖归来！——王林抽地火支脉之魂破苍龙宗，苍龙宗老祖赶回 · kind=plot asOf=2026-08-30 entities=22 relations=31 src=01715-01719.p2.md
