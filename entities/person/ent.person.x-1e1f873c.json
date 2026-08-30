@@ -5,14 +5,18 @@
   "aliases": [
     "白衣扇子青年",
     "道魔宗青年",
-    "拿着扇子的青年"
+    "拿着扇子的青年",
+    "白玉面青年",
+    "持万马扇的绿魔洲青年"
   ],
   "summary": "绿魔洲白衣主事者之一，持折扇，自言要展示道魔宗的魔道；强调三宗联合不可出意外、不能被天牛洲察觉，并道破炼化丹海还原半粒仙丹以炸开天牛洲壁障的计划。",
   "attributes": {
     "性别": "男",
     "外貌": "面白如玉，年约三旬、面白如玉，手持扇子",
     "本命法宝": "折扇",
-    "阵营": "绿魔洲、追杀三战将一方"
+    "阵营": "绿魔洲、追杀三战将一方",
+    "标志特征": "遮右目、左眼瞳孔诡异旋转，可见冤魂；功法对血腥极敏感",
+    "存殁": "存活"
   },
   "observations": {
     "性别": [
@@ -53,6 +57,20 @@
         "docId": "plot.xianni-ch1843-water-source-breakthrough-danhai",
         "seq": 1750
       }
+    ],
+    "标志特征": [
+      {
+        "value": "遮右目、左眼瞳孔诡异旋转，可见冤魂；功法对血腥极敏感",
+        "docId": "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
+        "seq": 1755
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
+        "seq": 1755
+      }
     ]
   },
   "firstSeq": 1750,
@@ -81,13 +99,26 @@
       "docId": "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
       "dated": false,
       "seq": 1750
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
+      "dated": false,
+      "seq": 1755
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
+      "dated": false,
+      "seq": 1755
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
-    "plot.xianni-ch1843-water-source-breakthrough-danhai"
+    "plot.xianni-ch1843-water-source-breakthrough-danhai",
+    "plot.xianni-ch1845-dongzhou-tianjiao-yunkong"
   ],
-  "updatedAt": "2026-08-30T11:25:11.342Z"
+  "updatedAt": "2026-08-30T11:30:27.245Z"
 }

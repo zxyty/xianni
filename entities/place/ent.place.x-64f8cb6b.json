@@ -8,18 +8,19 @@
     "磅礴的丹海",
     "Dan Hai",
     "穷丹海",
-    "丹海海域"
+    "丹海海域",
+    "天牛洲丹海"
   ],
   "summary": "东州内天牛洲与绿魔洲接壤处的巨大内陆海，传闻由天外坠落的一颗丹药炸开所化，两洲共有、势力混乱；本章被只进不出的禁制笼罩。",
   "attributes": {
-    "类型": "内陆海、大海/门户之地、海域",
-    "方位": "天牛洲与绿魔洲交界、介于绿魔洲与天牛洲之间",
+    "类型": "内陆海、大海/门户之地、海域、海域秘境",
+    "方位": "天牛洲与绿魔洲交界、介于绿魔洲与天牛洲之间、近天牛洲边缘",
     "所属势力": "天牛洲与绿魔洲共有、绿魔洲控制、绿魔洲",
-    "危险度": "极高、极高（封印+屠杀+凶兽云涌）、极高（全域封锁并投毒）",
+    "危险度": "极高、极高（封印+屠杀+凶兽云涌）、极高（全域封锁并投毒）、极高（绿魔洲大规模屠杀中）",
     "上级区域": "东州",
     "守护": "笼罩全海域的禁制大阵（中枢为女子罗盘）",
-    "特产": "万净化污液",
-    "所属界面": "仙罡大陆"
+    "特产": "海水中蕴含水本源、万净化污液、可炼化为半粒仙丹",
+    "所属界面": "仙罡大陆、天牛洲"
   },
   "observations": {
     "类型": [
@@ -37,6 +38,11 @@
         "value": "海域",
         "docId": "plot.xianni-ch1843-water-source-breakthrough-danhai",
         "seq": 1750
+      },
+      {
+        "value": "海域秘境",
+        "docId": "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
+        "seq": 1755
       }
     ],
     "方位": [
@@ -49,6 +55,11 @@
         "value": "介于绿魔洲与天牛洲之间",
         "docId": "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
         "seq": 1750
+      },
+      {
+        "value": "近天牛洲边缘",
+        "docId": "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
+        "seq": 1755
       }
     ],
     "所属势力": [
@@ -85,6 +96,11 @@
         "value": "极高（全域封锁并投毒）",
         "docId": "plot.xianni-ch1843-water-source-breakthrough-danhai",
         "seq": 1750
+      },
+      {
+        "value": "极高（绿魔洲大规模屠杀中）",
+        "docId": "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
+        "seq": 1755
       }
     ],
     "上级区域": [
@@ -116,12 +132,22 @@
         "value": "万净化污液",
         "docId": "plot.xianni-ch1844-yugu-danhai-tuwei-yu-qidaozong-sanzhanjiang",
         "seq": 1755
+      },
+      {
+        "value": "可炼化为半粒仙丹",
+        "docId": "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
+        "seq": 1755
       }
     ],
     "所属界面": [
       {
         "value": "仙罡大陆",
         "docId": "plot.xianni-ch1844-yugu-danhai-tuwei-yu-qidaozong-sanzhanjiang",
+        "seq": 1755
+      },
+      {
+        "value": "天牛洲",
+        "docId": "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
         "seq": 1755
       }
     ]
@@ -166,9 +192,9 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-ch1844-yugu-danhai-tuwei-yu-qidaozong-sanzhanjiang",
+      "docId": "plot.xianni-ch1843-water-source-breakthrough-danhai",
       "dated": false,
-      "seq": 1755
+      "seq": 1750
     },
     "所属界面": {
       "asOf": null,
@@ -183,7 +209,8 @@
     "plot.xianni-ch1841-jitian-grassland-slaughter-danhai-water-origin",
     "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
     "plot.xianni-ch1843-water-source-breakthrough-danhai",
-    "plot.xianni-ch1844-yugu-danhai-tuwei-yu-qidaozong-sanzhanjiang"
+    "plot.xianni-ch1844-yugu-danhai-tuwei-yu-qidaozong-sanzhanjiang",
+    "plot.xianni-ch1845-dongzhou-tianjiao-yunkong"
   ],
-  "updatedAt": "2026-08-30T11:27:59.940Z"
+  "updatedAt": "2026-08-30T11:30:27.252Z"
 }

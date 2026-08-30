@@ -15,7 +15,10 @@
     "性别": "男",
     "性格": "寡言、毒辣、阴毒、凶残",
     "外貌": "相貌平凡，年约三旬",
-    "阵营": "绿魔洲、追杀三战将一方、无极宗"
+    "阵营": "绿魔洲、追杀三战将一方、无极宗",
+    "存殁": "死亡",
+    "死因": "被王林放出的已司之傀吸干全身血液，肉身崩溃",
+    "结局": "元神被王林搜魂后封印收走，未被已司吞噬"
   },
   "observations": {
     "性别": [
@@ -65,6 +68,27 @@
         "docId": "plot.xianni-ch1844-yugu-danhai-tuwei-yu-qidaozong-sanzhanjiang",
         "seq": 1755
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
+        "seq": 1755
+      }
+    ],
+    "死因": [
+      {
+        "value": "被王林放出的已司之傀吸干全身血液，肉身崩溃",
+        "docId": "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
+        "seq": 1755
+      }
+    ],
+    "结局": [
+      {
+        "value": "元神被王林搜魂后封印收走，未被已司吞噬",
+        "docId": "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
+        "seq": 1755
+      }
     ]
   },
   "firstSeq": 1750,
@@ -92,6 +116,24 @@
       "docId": "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
       "dated": false,
       "seq": 1750
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
+      "dated": false,
+      "seq": 1755
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
+      "dated": false,
+      "seq": 1755
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
+      "dated": false,
+      "seq": 1755
     }
   },
   "contested": false,
@@ -99,7 +141,8 @@
   "docs": [
     "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
     "plot.xianni-ch1843-water-source-breakthrough-danhai",
-    "plot.xianni-ch1844-yugu-danhai-tuwei-yu-qidaozong-sanzhanjiang"
+    "plot.xianni-ch1844-yugu-danhai-tuwei-yu-qidaozong-sanzhanjiang",
+    "plot.xianni-ch1845-dongzhou-tianjiao-yunkong"
   ],
-  "updatedAt": "2026-08-30T11:27:59.921Z"
+  "updatedAt": "2026-08-30T11:30:27.243Z"
 }

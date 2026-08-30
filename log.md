@@ -1143,3 +1143,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T11:22:50.313Z** `ingest` plot.xianni-ch1842-green-demon-continent-slaughter-danhai — 第1842章 绿魔之修！——绿魔洲三宗屠戮丹海，王林吞海凝水本源 · kind=plot asOf=2026-08-30 entities=24 relations=32 src=01750-01754.p4.md
 - **2026-08-30T11:25:11.799Z** `ingest` plot.xianni-ch1843-water-source-breakthrough-danhai — 第1843章 突破！——王林凝聚水本源，修为攀至空灵巅峰 · kind=plot asOf=2026-08-30 entities=23 relations=36 src=01750-01754.p5.md
 - **2026-08-30T11:28:00.450Z** `ingest` plot.xianni-ch1844-yugu-danhai-tuwei-yu-qidaozong-sanzhanjiang — 仙逆 第1844章 遇故！——万净化污液屠绿魔卫，丹海重逢七道宗三战将 · kind=plot asOf=2026-08-30 entities=30 relations=43 src=01755-01759.p1.md
+- **2026-08-30T11:30:27.824Z** `ingest` plot.xianni-ch1845-dongzhou-tianjiao-yunkong — 仙逆·第1845章 东州天骄云空！——王林丹海救白虎三人、绿魔洲大军将至 · kind=plot asOf=2026-08-30 entities=24 relations=30 src=01755-01759.p2.md
