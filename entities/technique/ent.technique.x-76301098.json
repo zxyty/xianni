@@ -4,12 +4,14 @@
   "name": "魂衍道",
   "aliases": [
     "魂衍道术",
-    "Hun Yan Dao"
+    "Hun Yan Dao",
+    "魂衍道功法"
   ],
   "summary": "大魂门推衍类神通道术，可推算诸事；其重点不在推衍他人而在改变自身，令他人难以算到自己。",
   "attributes": {
     "出处": "大魂门",
-    "效果": "推衍算出诸多事情、改变自身使人难以推算到自己"
+    "效果": "推衍算出诸多事情、改变自身使人难以推算到自己",
+    "修炼条件": "由青牛真身直接授予"
   },
   "observations": {
     "出处": [
@@ -30,6 +32,14 @@
         "docId": "plot.xianni-ch1827-four-characters-guilai-bridge",
         "seq": 1735
       }
+    ],
+    "修炼条件": [
+      {
+        "value": "由青牛真身直接授予",
+        "docId": "plot.xianni-ch1828-da-hun-men-elder",
+        "seq": 1735,
+        "note": "第1828章不问王林意愿即赠"
+      }
     ]
   },
   "firstSeq": 1735,
@@ -45,12 +55,20 @@
       "docId": "plot.xianni-ch1827-four-characters-guilai-bridge",
       "dated": false,
       "seq": 1735
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1828-da-hun-men-elder",
+      "dated": false,
+      "seq": 1735,
+      "note": "第1828章不问王林意愿即赠"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1827-four-characters-guilai-bridge"
+    "plot.xianni-ch1827-four-characters-guilai-bridge",
+    "plot.xianni-ch1828-da-hun-men-elder"
   ],
-  "updatedAt": "2026-08-30T10:45:07.794Z"
+  "updatedAt": "2026-08-30T10:47:28.603Z"
 }

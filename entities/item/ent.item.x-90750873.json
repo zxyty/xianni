@@ -9,7 +9,8 @@
   "summary": "青牛真人以凝聚的青色雪花所化，无炎而燃、与真香无二，用作给王林思考的一炷香计时。",
   "attributes": {
     "类型": "计时之物",
-    "用途": "限定王林作答的一炷香时限"
+    "用途": "限定王林作答的一炷香时限、以融化速度计时",
+    "产地": "天山"
   },
   "observations": {
     "类型": [
@@ -23,6 +24,18 @@
       {
         "value": "限定王林作答的一炷香时限",
         "docId": "plot.xianni-ch1827-four-characters-guilai-bridge",
+        "seq": 1735
+      },
+      {
+        "value": "以融化速度计时",
+        "docId": "plot.xianni-ch1828-da-hun-men-elder",
+        "seq": 1735
+      }
+    ],
+    "产地": [
+      {
+        "value": "天山",
+        "docId": "plot.xianni-ch1828-da-hun-men-elder",
         "seq": 1735
       }
     ]
@@ -40,12 +53,19 @@
       "docId": "plot.xianni-ch1827-four-characters-guilai-bridge",
       "dated": false,
       "seq": 1735
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1828-da-hun-men-elder",
+      "dated": false,
+      "seq": 1735
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1827-four-characters-guilai-bridge"
+    "plot.xianni-ch1827-four-characters-guilai-bridge",
+    "plot.xianni-ch1828-da-hun-men-elder"
   ],
-  "updatedAt": "2026-08-30T10:45:07.798Z"
+  "updatedAt": "2026-08-30T10:47:28.609Z"
 }

@@ -10,9 +10,10 @@
   "attributes": {
     "所属势力": "大魂门",
     "所属界面": "仙罡大陆",
-    "类型": "宗门主峰",
+    "类型": "主峰",
     "特产": "地火主脉、地火闭关石室",
-    "守护": "炎脉峰少妇（空劫初期）"
+    "守护": "炎栾",
+    "上级区域": "大魂门"
   },
   "observations": {
     "所属势力": [
@@ -34,6 +35,11 @@
         "value": "宗门主峰",
         "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
         "seq": 1730
+      },
+      {
+        "value": "主峰",
+        "docId": "plot.xianni-ch1828-da-hun-men-elder",
+        "seq": 1735
       }
     ],
     "特产": [
@@ -48,6 +54,18 @@
         "value": "炎脉峰少妇（空劫初期）",
         "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
         "seq": 1730
+      },
+      {
+        "value": "炎栾",
+        "docId": "plot.xianni-ch1828-da-hun-men-elder",
+        "seq": 1735
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "大魂门",
+        "docId": "plot.xianni-ch1828-da-hun-men-elder",
+        "seq": 1735
       }
     ]
   },
@@ -67,9 +85,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
+      "docId": "plot.xianni-ch1828-da-hun-men-elder",
       "dated": false,
-      "seq": 1730
+      "seq": 1735
     },
     "特产": {
       "asOf": null,
@@ -79,16 +97,23 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
+      "docId": "plot.xianni-ch1828-da-hun-men-elder",
       "dated": false,
-      "seq": 1730
+      "seq": 1735
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1828-da-hun-men-elder",
+      "dated": false,
+      "seq": 1735
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men",
-    "plot.xianni-ch1827-four-characters-guilai-bridge"
+    "plot.xianni-ch1827-four-characters-guilai-bridge",
+    "plot.xianni-ch1828-da-hun-men-elder"
   ],
-  "updatedAt": "2026-08-30T10:45:07.790Z"
+  "updatedAt": "2026-08-30T10:47:28.598Z"
 }
