@@ -19,12 +19,13 @@
     "我仙族之民",
     "仙皇一族",
     "仙族之地皇城",
-    "仙族天尊群体"
+    "仙族天尊群体",
+    "仙族大天尊势力"
   ],
   "summary": "散灵上人率数百万幸存者踏出七百万天地、进入太古星辰后自命的新族群，立誓世代报答王林之恩。",
   "attributes": {
-    "阵营": "王林盟友",
-    "理念": "天尊稀少，天尊间少有生死交战、多为切磋",
+    "阵营": "仙族",
+    "理念": "以五位大天尊为顶端",
     "所属界面": "仙罡大陆",
     "据点": "中州皇城",
     "等级": "名义上统治整个仙族",
@@ -36,6 +37,11 @@
         "value": "王林盟友",
         "docId": "plot.xianni-ch1359-legend-of-third-step",
         "seq": 1270
+      },
+      {
+        "value": "仙族",
+        "docId": "plot.xianni-1937-let-the-great-heaven-venerate-see",
+        "seq": 1848
       }
     ],
     "理念": [
@@ -53,6 +59,12 @@
         "value": "天尊稀少，天尊间少有生死交战、多为切磋",
         "docId": "plot.xianni-1925-tianmen-tianfeng-qiecuo",
         "seq": 1834
+      },
+      {
+        "value": "以五位大天尊为顶端",
+        "docId": "plot.xianni-1937-let-the-great-heaven-venerate-see",
+        "seq": 1848,
+        "note": "本章提及久帝为五位大天尊中存在岁月最久者"
       }
     ],
     "所属界面": [
@@ -99,15 +111,16 @@
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch1359-legend-of-third-step",
+      "docId": "plot.xianni-1937-let-the-great-heaven-venerate-see",
       "dated": false,
-      "seq": 1270
+      "seq": 1848
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.xianni-1925-tianmen-tianfeng-qiecuo",
+      "docId": "plot.xianni-1937-let-the-great-heaven-venerate-see",
       "dated": false,
-      "seq": 1834
+      "seq": 1848,
+      "note": "本章提及久帝为五位大天尊中存在岁月最久者"
     },
     "所属界面": {
       "asOf": null,
@@ -161,7 +174,8 @@
     "plot.xianni-1921-tianzun-nie-trial-ground",
     "plot.xianni-1925-tianmen-tianfeng-qiecuo",
     "plot.xianni-ch1927-tianzun-nie-di-first-palace",
-    "plot.xianni-1928-tianzun-nie-zhi-di-chuang-si-ceng"
+    "plot.xianni-1928-tianzun-nie-zhi-di-chuang-si-ceng",
+    "plot.xianni-1937-let-the-great-heaven-venerate-see"
   ],
-  "updatedAt": "2026-08-30T17:18:11.322Z"
+  "updatedAt": "2026-08-30T17:37:58.587Z"
 }

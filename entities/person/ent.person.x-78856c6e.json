@@ -4,14 +4,20 @@
   "name": "久帝大天尊",
   "aliases": [
     "久帝",
-    "中州久帝大天尊"
+    "中州久帝大天尊",
+    "九帝",
+    "青衫驼背老者",
+    "Jiu Di"
   ],
   "summary": "中州除仙皇之外的另一位大天尊。",
   "attributes": {
-    "称号": "久帝大天尊、大天尊",
+    "称号": "久帝大天尊、大天尊、久帝",
     "出身地": "中州",
     "性格": "最为霸道",
-    "身份": "海子天尊之师尊"
+    "身份": "仙族大天尊",
+    "外貌": "青袍驼背老者，满脸皱纹、双目无神、病恹恹",
+    "阵营": "仙族",
+    "标志特征": "随意一指即化万丈海指"
   },
   "observations": {
     "称号": [
@@ -24,6 +30,11 @@
         "value": "大天尊",
         "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
         "seq": 1824
+      },
+      {
+        "value": "久帝",
+        "docId": "plot.xianni-1937-let-the-great-heaven-venerate-see",
+        "seq": 1848
       }
     ],
     "出身地": [
@@ -50,6 +61,33 @@
         "value": "海子天尊之师尊",
         "docId": "plot.xianni-1934-yi-nan-yi-nv-duan-zhang-feng-yin",
         "seq": 1844
+      },
+      {
+        "value": "仙族大天尊",
+        "docId": "plot.xianni-1937-let-the-great-heaven-venerate-see",
+        "seq": 1848
+      }
+    ],
+    "外貌": [
+      {
+        "value": "青袍驼背老者，满脸皱纹、双目无神、病恹恹",
+        "docId": "plot.xianni-1937-let-the-great-heaven-venerate-see",
+        "seq": 1848,
+        "note": "本相原为英武不凡，多次转世后成此貌"
+      }
+    ],
+    "阵营": [
+      {
+        "value": "仙族",
+        "docId": "plot.xianni-1937-let-the-great-heaven-venerate-see",
+        "seq": 1848
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "随意一指即化万丈海指",
+        "docId": "plot.xianni-1937-let-the-great-heaven-venerate-see",
+        "seq": 1848
       }
     ]
   },
@@ -75,9 +113,28 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1934-yi-nan-yi-nv-duan-zhang-feng-yin",
+      "docId": "plot.xianni-1937-let-the-great-heaven-venerate-see",
       "dated": false,
-      "seq": 1844
+      "seq": 1848
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-1937-let-the-great-heaven-venerate-see",
+      "dated": false,
+      "seq": 1848,
+      "note": "本相原为英武不凡，多次转世后成此貌"
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1937-let-the-great-heaven-venerate-see",
+      "dated": false,
+      "seq": 1848
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-1937-let-the-great-heaven-venerate-see",
+      "dated": false,
+      "seq": 1848
     }
   },
   "contested": false,
@@ -87,7 +144,8 @@
     "plot.xianni-1921-tianzun-nie-trial-ground",
     "plot.xianni-ch1927-tianzun-nie-di-first-palace",
     "plot.xianni-1934-yi-nan-yi-nv-duan-zhang-feng-yin",
-    "plot.xianni-ch1936-half-zhang-light-curtain"
+    "plot.xianni-ch1936-half-zhang-light-curtain",
+    "plot.xianni-1937-let-the-great-heaven-venerate-see"
   ],
-  "updatedAt": "2026-08-30T17:35:37.360Z"
+  "updatedAt": "2026-08-30T17:37:58.574Z"
 }
