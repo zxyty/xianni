@@ -1123,3 +1123,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T09:44:29.973Z** `ingest` plot.xianni-1818-wang-lin-suo-di-cheng-cun-fen-shen-su-xing — 第1818章 自不量力？——王林七月苦参缩地成寸，虚无层分身睁眼 · kind=plot asOf=2026-08-30 entities=32 relations=42 src=01725-01729.p5.md
 - **2026-08-30T09:58:08.719Z** `ingest` plot.xianni-1730-1734-tianshan-qingxue-suodi-chengcun-da-hun-men — 仙逆 第1730-1734章：天山青雪与缩地成寸，王林兵指大魂门地火主脉 · kind=plot asOf=2026-08-30 entities=51 relations=92 src=01730-01734.md
 - **2026-08-30T10:38:07.522Z** `ingest` plot.xianni-ch1824-candle-flame-will — 第1824章 烛火意志：血煞剑退大魂门少妇，地火主龙魂自压夺舍反噬 · kind=plot asOf=2026-08-30 entities=18 relations=25 src=01735-01739.p1.md
+- **2026-08-30T10:40:17.514Z** `ingest` plot.xianni-ch1825-immortal-ancestor-eight-extremes — 第1825章 仙祖八极！——火本源真身凝聚成功与天牛洲起源 · kind=plot asOf=2026-08-30 entities=18 relations=23 src=01735-01739.p2.md

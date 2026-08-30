@@ -6,15 +6,17 @@
     "Xian Zu",
     "仙罡法则中诞生的仙祖",
     "仙罡仙祖",
-    "仙罡大陆仙祖"
+    "仙罡大陆仙祖",
+    "皇袍之人"
   ],
   "summary": "仙皇一脉所传承之祖。",
   "attributes": {
-    "身份": "仙皇一脉之祖",
-    "外貌": "身着金袍、头顶高冠，仙气缭绕",
+    "身份": "仙族之祖",
+    "外貌": "身穿皇袍、头戴皇冠、看不清容貌",
     "标志特征": "诞生时天地出三相，其一为金天黑地",
     "存殁": "消散于虚无",
-    "出身地": "仙罡大陆初开时的弧形石台"
+    "出身地": "仙罡大陆初开时的弧形石台",
+    "阵营": "仙族"
   },
   "observations": {
     "身份": [
@@ -22,6 +24,11 @@
         "value": "仙皇一脉之祖",
         "docId": "plot.xianni-1796-stubborn-will-xianguang-continent-overview",
         "seq": 1705
+      },
+      {
+        "value": "仙族之祖",
+        "docId": "plot.xianni-ch1825-immortal-ancestor-eight-extremes",
+        "seq": 1735
       }
     ],
     "外貌": [
@@ -30,6 +37,11 @@
         "docId": "plot.xianni-1799-xiangang-third-vortex",
         "seq": 1710,
         "note": "模糊虚影"
+      },
+      {
+        "value": "身穿皇袍、头戴皇冠、看不清容貌",
+        "docId": "plot.xianni-ch1825-immortal-ancestor-eight-extremes",
+        "seq": 1735
       }
     ],
     "标志特征": [
@@ -53,22 +65,28 @@
         "docId": "plot.xianni-1800-xiangang-dalu-third-vortex-and-wanglin-avatar-fate",
         "seq": 1710
       }
+    ],
+    "阵营": [
+      {
+        "value": "仙族",
+        "docId": "plot.xianni-ch1825-immortal-ancestor-eight-extremes",
+        "seq": 1735
+      }
     ]
   },
   "firstSeq": 1705,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1796-stubborn-will-xianguang-continent-overview",
+      "docId": "plot.xianni-ch1825-immortal-ancestor-eight-extremes",
       "dated": false,
-      "seq": 1705
+      "seq": 1735
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-1799-xiangang-third-vortex",
+      "docId": "plot.xianni-ch1825-immortal-ancestor-eight-extremes",
       "dated": false,
-      "seq": 1710,
-      "note": "模糊虚影"
+      "seq": 1735
     },
     "标志特征": {
       "asOf": null,
@@ -88,6 +106,12 @@
       "docId": "plot.xianni-1800-xiangang-dalu-third-vortex-and-wanglin-avatar-fate",
       "dated": false,
       "seq": 1710
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1825-immortal-ancestor-eight-extremes",
+      "dated": false,
+      "seq": 1735
     }
   },
   "contested": false,
@@ -96,7 +120,8 @@
     "plot.xianni-1796-stubborn-will-xianguang-continent-overview",
     "plot.xianni-1798-mosquito-beast-blood-drop-platform-strongest-avatar",
     "plot.xianni-1799-xiangang-third-vortex",
-    "plot.xianni-1800-xiangang-dalu-third-vortex-and-wanglin-avatar-fate"
+    "plot.xianni-1800-xiangang-dalu-third-vortex-and-wanglin-avatar-fate",
+    "plot.xianni-ch1825-immortal-ancestor-eight-extremes"
   ],
-  "updatedAt": "2026-08-30T08:50:50.975Z"
+  "updatedAt": "2026-08-30T10:40:17.067Z"
 }
