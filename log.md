@@ -1137,3 +1137,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T11:04:14.596Z** `ingest` plot.xianni-ch1836-fenshen-zhenya-canghunge-8th-floor — 第1836章 分身镇压！！——王林登藏魂阁第八层，以分身气势镇压炎栾夺葫芦 · kind=plot asOf=2026-08-30 entities=12 relations=21 src=01745-01749.p3.md
 - **2026-08-30T11:11:31.575Z** `ingest` plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice — 第1837章 魂衍道！——王林于藏魂阁第八层选定完整版魂引归之术 · kind=plot asOf=2026-08-30 entities=34 relations=60 src=01745-01749.p4.md
 - **2026-08-30T11:13:53.191Z** `ingest` plot.xianni-ch1838-three-gifts-space-stone-mist-jade-water-origin — 仙逆·第1838章 三份礼物：空间石、魂衍道玉简与水本源之液 · kind=plot asOf=2026-08-30 entities=26 relations=36 src=01745-01749.p5.md
+- **2026-08-30T11:15:52.909Z** `ingest` plot.xianni-1839-eighth-water-source-cycle — 仙逆 第1839章 第八本源：王林闭关炼化水本源，己司之傀护法惊动矾珊璐 · kind=plot asOf=2026-08-30 entities=16 relations=24 src=01750-01754.p1.md

@@ -4,13 +4,17 @@
   "name": "水本源",
   "aliases": [
     "水的本源之力",
-    "水本源大道"
+    "水本源大道",
+    "实之本源·水",
+    "water origin"
   ],
   "summary": "水的本源之力；王林已有七道本源，本章欲借水将展示明悟第八道。其先前指引来自天逆珠早期吸收与天运子所赠的一滴本源水液。",
   "attributes": {
     "五行属性": "水",
-    "效果": "凝练至极可将巨海压成一滴，内含星空亦会崩溃",
-    "出处": "仙罡大陆归一宗之法"
+    "效果": "凝练至极可将巨海压成一滴，内含星空亦会崩溃、大威圆满后修为立刻提升、凝聚时吸尽全身水份血液，身如干尸；散开时皮肤晶莹剔透",
+    "出处": "仙罡大陆的水本源",
+    "修炼条件": "本身水本源境界越低，融合外来水本源时排斥之力越小",
+    "外显异象": "身体在干尸与晶莹剔透之间反复循环"
   },
   "observations": {
     "五行属性": [
@@ -25,6 +29,16 @@
         "value": "凝练至极可将巨海压成一滴，内含星空亦会崩溃",
         "docId": "plot.xianni-ch1733-qiankun-yidi-water-origin",
         "seq": 1641
+      },
+      {
+        "value": "大威圆满后修为立刻提升",
+        "docId": "plot.xianni-1839-eighth-water-source-cycle",
+        "seq": 1750
+      },
+      {
+        "value": "凝聚时吸尽全身水份血液，身如干尸；散开时皮肤晶莹剔透",
+        "docId": "plot.xianni-1839-eighth-water-source-cycle",
+        "seq": 1750
       }
     ],
     "出处": [
@@ -33,6 +47,25 @@
         "docId": "plot.xianni-ch1733-qiankun-yidi-water-origin",
         "seq": 1641,
         "note": "水将所催动者为感悟至巅峰后的明悟所化"
+      },
+      {
+        "value": "仙罡大陆的水本源",
+        "docId": "plot.xianni-1839-eighth-water-source-cycle",
+        "seq": 1750
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "本身水本源境界越低，融合外来水本源时排斥之力越小",
+        "docId": "plot.xianni-1839-eighth-water-source-cycle",
+        "seq": 1750
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "身体在干尸与晶莹剔透之间反复循环",
+        "docId": "plot.xianni-1839-eighth-water-source-cycle",
+        "seq": 1750
       }
     ]
   },
@@ -52,16 +85,28 @@
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch1733-qiankun-yidi-water-origin",
+      "docId": "plot.xianni-1839-eighth-water-source-cycle",
       "dated": false,
-      "seq": 1641,
-      "note": "水将所催动者为感悟至巅峰后的明悟所化"
+      "seq": 1750
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.xianni-1839-eighth-water-source-cycle",
+      "dated": false,
+      "seq": 1750
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.xianni-1839-eighth-water-source-cycle",
+      "dated": false,
+      "seq": 1750
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1733-qiankun-yidi-water-origin"
+    "plot.xianni-ch1733-qiankun-yidi-water-origin",
+    "plot.xianni-1839-eighth-water-source-cycle"
   ],
-  "updatedAt": "2026-08-30T04:13:43.326Z"
+  "updatedAt": "2026-08-30T11:15:52.479Z"
 }
