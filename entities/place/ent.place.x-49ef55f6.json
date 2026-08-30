@@ -13,10 +13,11 @@
     "上级区域": "仙族大地",
     "方位": "东州偏北",
     "所属势力": "东临宗",
-    "类型": "洲、大洲、大陆/洲域",
+    "类型": "洲、大洲、大陆/洲域、洲域",
     "特产": "地灵、农植生长顺利",
     "危险度": "对修士而言偏僻荒凉，比天牛洲更甚",
-    "所属界面": "仙罡大陆"
+    "所属界面": "仙罡大陆",
+    "守护": "封印天外之灵"
   },
   "observations": {
     "上级区域": [
@@ -60,6 +61,11 @@
         "value": "大陆/洲域",
         "docId": "plot.xianni-ch1942-who-are-you-liu-jinbiao-deception-dao",
         "seq": 1853
+      },
+      {
+        "value": "洲域",
+        "docId": "plot.xianni-ch1946-tianyunzi-aura-stele-donglin-sect",
+        "seq": 1853
       }
     ],
     "特产": [
@@ -80,6 +86,13 @@
       {
         "value": "仙罡大陆",
         "docId": "plot.xianni-1943-yumu-xia-liu-jinbiao-memory-restored",
+        "seq": 1853
+      }
+    ],
+    "守护": [
+      {
+        "value": "封印天外之灵",
+        "docId": "plot.xianni-ch1946-tianyunzi-aura-stele-donglin-sect",
         "seq": 1853
       }
     ]
@@ -127,6 +140,12 @@
       "docId": "plot.xianni-1943-yumu-xia-liu-jinbiao-memory-restored",
       "dated": false,
       "seq": 1853
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1946-tianyunzi-aura-stele-donglin-sect",
+      "dated": false,
+      "seq": 1853
     }
   },
   "contested": false,
@@ -138,7 +157,8 @@
     "plot.xianni-ch1940-liu-jinbiao-deceive-heaven-cross-sea",
     "plot.xianni-1941-my-master-gu-ya-tianzun",
     "plot.xianni-ch1942-who-are-you-liu-jinbiao-deception-dao",
-    "plot.xianni-1943-yumu-xia-liu-jinbiao-memory-restored"
+    "plot.xianni-1943-yumu-xia-liu-jinbiao-memory-restored",
+    "plot.xianni-ch1946-tianyunzi-aura-stele-donglin-sect"
   ],
-  "updatedAt": "2026-08-30T17:50:58.803Z"
+  "updatedAt": "2026-08-30T17:57:51.964Z"
 }

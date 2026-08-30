@@ -13,9 +13,10 @@
   ],
   "summary": "封界之尊推断存在的所在，破开天逆珠最终秘密方可寻到，其详情连他也所知不多。",
   "attributes": {
-    "类型": "秘境/神境、神秘秘境、远古境域、至高之境/秘境、秘境、至高秘境",
+    "类型": "秘境/神境、神秘秘境、远古境域、至高之境/秘境、秘境、至高秘境、考验之地",
     "危险度": "莫测、极为艰难",
-    "特产": "成就大天尊的造化"
+    "特产": "成就大天尊的造化",
+    "守护": "大天尊晋升考验"
   },
   "observations": {
     "类型": [
@@ -48,6 +49,11 @@
         "value": "至高秘境",
         "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
         "seq": 1829
+      },
+      {
+        "value": "考验之地",
+        "docId": "plot.xianni-ch1946-tianyunzi-aura-stele-donglin-sect",
+        "seq": 1853
       }
     ],
     "危险度": [
@@ -83,6 +89,13 @@
         "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
         "seq": 1829
       }
+    ],
+    "守护": [
+      {
+        "value": "大天尊晋升考验",
+        "docId": "plot.xianni-ch1946-tianyunzi-aura-stele-donglin-sect",
+        "seq": 1853
+      }
     ]
   },
   "firstSeq": 1200,
@@ -104,6 +117,12 @@
       "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
       "dated": false,
       "seq": 1829
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1946-tianyunzi-aura-stele-donglin-sect",
+      "dated": false,
+      "seq": 1853
     }
   },
   "contested": false,
@@ -115,7 +134,8 @@
     "plot.xianni-1655-1659-search-third-soul-qingshui-seven-po",
     "plot.xianni-1794-baishi-xuanluo-wenshou-jinhua",
     "plot.xianni-1918-body-is-dao",
-    "plot.xianni-1921-tianzun-nie-trial-ground"
+    "plot.xianni-1921-tianzun-nie-trial-ground",
+    "plot.xianni-ch1946-tianyunzi-aura-stele-donglin-sect"
   ],
-  "updatedAt": "2026-08-30T17:02:30.558Z"
+  "updatedAt": "2026-08-30T17:57:51.975Z"
 }

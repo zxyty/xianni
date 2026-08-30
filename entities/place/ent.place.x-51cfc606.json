@@ -3,14 +3,15 @@
   "type": "place",
   "name": "东临殿",
   "aliases": [
-    "东临宗圣地"
+    "东临宗圣地",
+    "东临宗大殿"
   ],
   "summary": "东临宗中心的圣地大殿，内有三座巨大雕像与盘坐其下的东临宗老祖，是全宗梦障的凝聚之源。",
   "attributes": {
     "所属势力": "东临宗",
-    "类型": "宗门圣地大殿",
+    "类型": "宗门圣地大殿、宗门大殿",
     "方位": "东临宗正中心",
-    "守护": "东临宗老祖"
+    "守护": "东临宗老祖、幻象笼罩"
   },
   "observations": {
     "所属势力": [
@@ -25,6 +26,11 @@
         "value": "宗门圣地大殿",
         "docId": "plot.xianni-ch1945-dead-sect-donglin",
         "seq": 1853
+      },
+      {
+        "value": "宗门大殿",
+        "docId": "plot.xianni-ch1946-tianyunzi-aura-stele-donglin-sect",
+        "seq": 1853
       }
     ],
     "方位": [
@@ -38,6 +44,11 @@
       {
         "value": "东临宗老祖",
         "docId": "plot.xianni-ch1945-dead-sect-donglin",
+        "seq": 1853
+      },
+      {
+        "value": "幻象笼罩",
+        "docId": "plot.xianni-ch1946-tianyunzi-aura-stele-donglin-sect",
         "seq": 1853
       }
     ]
@@ -72,7 +83,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1945-dead-sect-donglin"
+    "plot.xianni-ch1945-dead-sect-donglin",
+    "plot.xianni-ch1946-tianyunzi-aura-stele-donglin-sect"
   ],
-  "updatedAt": "2026-08-30T17:54:59.888Z"
+  "updatedAt": "2026-08-30T17:57:51.963Z"
 }
