@@ -10,7 +10,8 @@
   "attributes": {
     "称号": "久帝大天尊、大天尊",
     "出身地": "中州",
-    "性格": "最为霸道"
+    "性格": "最为霸道",
+    "身份": "大天尊"
   },
   "observations": {
     "称号": [
@@ -38,6 +39,13 @@
         "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
         "seq": 1829
       }
+    ],
+    "身份": [
+      {
+        "value": "大天尊",
+        "docId": "plot.xianni-ch1927-tianzun-nie-di-first-palace",
+        "seq": 1834
+      }
     ]
   },
   "firstSeq": 1824,
@@ -59,13 +67,20 @@
       "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
       "dated": false,
       "seq": 1829
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1927-tianzun-nie-di-first-palace",
+      "dated": false,
+      "seq": 1834
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "lore.xianni-1917-xianzu-five-great-tianzun",
-    "plot.xianni-1921-tianzun-nie-trial-ground"
+    "plot.xianni-1921-tianzun-nie-trial-ground",
+    "plot.xianni-ch1927-tianzun-nie-di-first-palace"
   ],
-  "updatedAt": "2026-08-30T17:02:30.548Z"
+  "updatedAt": "2026-08-30T17:16:20.613Z"
 }

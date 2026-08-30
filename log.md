@@ -1201,3 +1201,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T17:09:01.689Z** `ingest` plot.xianni-ch1924-waiting-for-autumn-wind — 第1924章 等到秋风起：王林重逢转世的周佚与青霜 · kind=plot asOf=2026-08-30 entities=16 relations=27 src=01834-01838.p2.md
 - **2026-08-30T17:11:24.851Z** `ingest` plot.xianni-1925-tianmen-tianfeng-qiecuo — 第1925章 天门——王林天峰邀战天门老祖，十日切磋二十三战 · kind=plot asOf=2026-08-30 entities=33 relations=38 src=01834-01838.p3.md
 - **2026-08-30T17:14:15.308Z** `ingest` plot.xianni-ch1926-fifty-years-white-haired-tianzun — 第1926章 五十年！——白发天尊之名与天尊涅九层之邀 · kind=plot asOf=2026-08-30 entities=38 relations=53 src=01834-01838.p4.md
+- **2026-08-30T17:16:21.178Z** `ingest` plot.xianni-ch1927-tianzun-nie-di-first-palace — 第1927章 天尊涅：王林神识入天尊涅之地，初闯第一层宫殿 · kind=plot asOf=2026-08-30 entities=21 relations=28 src=01834-01838.p5.md

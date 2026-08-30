@@ -16,9 +16,10 @@
   "attributes": {
     "所属势力": "仙族",
     "类型": "试炼禁地",
-    "规模": "九层",
-    "危险度": "极高（道魔宗天尊老祖仅至第三层）、分层递增、按层递增、极高",
-    "所属界面": "仙罡大陆"
+    "规模": "十九层、九层、约万里大陆",
+    "危险度": "极高（道魔宗天尊老祖仅至第三层）、分层递增、按层递增、极高、外围黑色丝线触之形神俱灭",
+    "所属界面": "仙罡大陆天幕之上/虚无内",
+    "守护": "守护仙族"
   },
   "observations": {
     "所属势力": [
@@ -50,6 +51,11 @@
         "value": "九层",
         "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
         "seq": 1834
+      },
+      {
+        "value": "约万里大陆",
+        "docId": "plot.xianni-ch1927-tianzun-nie-di-first-palace",
+        "seq": 1834
       }
     ],
     "危险度": [
@@ -72,6 +78,11 @@
         "value": "极高",
         "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
         "seq": 1834
+      },
+      {
+        "value": "外围黑色丝线触之形神俱灭",
+        "docId": "plot.xianni-ch1927-tianzun-nie-di-first-palace",
+        "seq": 1834
       }
     ],
     "所属界面": [
@@ -79,6 +90,18 @@
         "value": "仙罡大陆",
         "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
         "seq": 1829
+      },
+      {
+        "value": "仙罡大陆天幕之上/虚无内",
+        "docId": "plot.xianni-ch1927-tianzun-nie-di-first-palace",
+        "seq": 1834
+      }
+    ],
+    "守护": [
+      {
+        "value": "守护仙族",
+        "docId": "plot.xianni-ch1927-tianzun-nie-di-first-palace",
+        "seq": 1834
       }
     ]
   },
@@ -98,9 +121,9 @@
     },
     "规模": {
       "asOf": null,
-      "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
+      "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
       "dated": false,
-      "seq": 1834
+      "seq": 1829
     },
     "危险度": {
       "asOf": null,
@@ -110,9 +133,15 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
+      "docId": "plot.xianni-ch1927-tianzun-nie-di-first-palace",
       "dated": false,
-      "seq": 1829
+      "seq": 1834
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1927-tianzun-nie-di-first-palace",
+      "dated": false,
+      "seq": 1834
     }
   },
   "contested": false,
@@ -121,7 +150,8 @@
     "plot.xianni-1921-tianzun-nie-trial-ground",
     "plot.xianni-1922-first-old-acquaintance",
     "plot.xianni-1925-tianmen-tianfeng-qiecuo",
-    "plot.xianni-ch1926-fifty-years-white-haired-tianzun"
+    "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
+    "plot.xianni-ch1927-tianzun-nie-di-first-palace"
   ],
-  "updatedAt": "2026-08-30T17:14:14.783Z"
+  "updatedAt": "2026-08-30T17:16:20.620Z"
 }

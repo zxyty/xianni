@@ -3,14 +3,17 @@
   "type": "place",
   "name": "山海洲",
   "aliases": [
-    "山海"
+    "山海",
+    "山海洲大陆",
+    "内陆海山海"
   ],
   "summary": "南州辖下之洲，王林在此败于海子天尊并潜伏三年；其底部封印着山海树，整洲封印皆赖此树。",
   "attributes": {
-    "上级区域": "南州",
-    "类型": "洲",
+    "上级区域": "南州、山海洲",
+    "类型": "洲、内陆海",
     "守护": "海子天尊",
-    "特产": "山海树木本源"
+    "特产": "山海树木本源、海底山海树",
+    "规模": "山海占近七成、陆地三成"
   },
   "observations": {
     "上级区域": [
@@ -18,12 +21,22 @@
         "value": "南州",
         "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
         "seq": 1834
+      },
+      {
+        "value": "山海洲",
+        "docId": "plot.xianni-ch1927-tianzun-nie-di-first-palace",
+        "seq": 1834
       }
     ],
     "类型": [
       {
         "value": "洲",
         "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
+        "seq": 1834
+      },
+      {
+        "value": "内陆海",
+        "docId": "plot.xianni-ch1927-tianzun-nie-di-first-palace",
         "seq": 1834
       }
     ],
@@ -38,6 +51,18 @@
       {
         "value": "山海树木本源",
         "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
+        "seq": 1834
+      },
+      {
+        "value": "海底山海树",
+        "docId": "plot.xianni-ch1927-tianzun-nie-di-first-palace",
+        "seq": 1834
+      }
+    ],
+    "规模": [
+      {
+        "value": "山海占近七成、陆地三成",
+        "docId": "plot.xianni-ch1927-tianzun-nie-di-first-palace",
         "seq": 1834
       }
     ]
@@ -67,12 +92,19 @@
       "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
       "dated": false,
       "seq": 1834
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1927-tianzun-nie-di-first-palace",
+      "dated": false,
+      "seq": 1834
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1926-fifty-years-white-haired-tianzun"
+    "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
+    "plot.xianni-ch1927-tianzun-nie-di-first-palace"
   ],
-  "updatedAt": "2026-08-30T17:14:14.780Z"
+  "updatedAt": "2026-08-30T17:16:20.626Z"
 }
