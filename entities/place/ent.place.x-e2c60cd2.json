@@ -17,11 +17,11 @@
   "attributes": {
     "所属界面": "仙罡大陆、天牛洲、仙罡大陆·天牛洲",
     "上级区域": "天牛洲",
-    "类型": "草原、草原·大阵战场、战场／草原、草原战场、草原/战场、战场/草原、草原区域",
+    "类型": "草原、草原·大阵战场、战场／草原、草原战场、草原/战场、战场/草原、草原区域、草原/天牛穴驻守地",
     "方位": "大魂门十万里外、天牛洲地表最低处、最接近地心",
     "特产": "透出仙气的青草、接近地心的特殊地气、吸收仙力并阻隔神识的雾气、无数青草、常年雾气缭绕",
-    "规模": "方圆极广（一掌印可与之等大，裂缝绵延数万里）",
-    "守护": "万里磅礴气墙禁制、天牛七穴阵法与雾气、天牛雾气阵法、天牛洲大阵（阻绿魔洲修士入地）",
+    "规模": "无尽/一眼难望尽头、第二次厮杀波及不到数百里、方圆极广（一掌印可与之等大，裂缝绵延数万里）、整片大地呈一个巨大手印、地宫内千余修士",
+    "守护": "万里磅礴气墙禁制、天牛七穴阵法与雾气、天牛雾气阵法、天牛洲大阵（阻绿魔洲修士入地）、天牛第三穴、王林与炎栾等空劫修士",
     "所属势力": "绿魔洲修士围杀布控",
     "危险度": "极高（空劫初期群战引动天地轰鸣）、两洲交战前线、高（绿魔洲近百修士合围）、极高（数千修士围猎，多名空劫修士坐镇）、极高、极高，雾气笼罩、死亡无数"
   },
@@ -85,6 +85,11 @@
         "value": "草原区域",
         "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
         "seq": 1780
+      },
+      {
+        "value": "草原/天牛穴驻守地",
+        "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
+        "seq": 1790
       }
     ],
     "方位": [
@@ -141,6 +146,16 @@
         "value": "方圆极广（一掌印可与之等大，裂缝绵延数万里）",
         "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
         "seq": 1785
+      },
+      {
+        "value": "整片大地呈一个巨大手印",
+        "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
+        "seq": 1790
+      },
+      {
+        "value": "地宫内千余修士",
+        "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
+        "seq": 1790
       }
     ],
     "守护": [
@@ -163,6 +178,16 @@
         "value": "天牛洲大阵（阻绿魔洲修士入地）",
         "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
         "seq": 1780
+      },
+      {
+        "value": "天牛第三穴",
+        "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
+        "seq": 1790
+      },
+      {
+        "value": "王林与炎栾等空劫修士",
+        "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
+        "seq": 1790
       }
     ],
     "所属势力": [
@@ -250,9 +275,9 @@
     },
     "规模": {
       "asOf": null,
-      "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+      "docId": "plot.xianni-ch1840-jitian-caoyuan",
       "dated": false,
-      "seq": 1785
+      "seq": 1750
     },
     "守护": {
       "asOf": null,
@@ -282,7 +307,8 @@
     "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
     "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
     "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
-    "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran"
+    "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+    "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath"
   ],
-  "updatedAt": "2026-08-30T13:42:53.221Z"
+  "updatedAt": "2026-08-30T14:26:14.635Z"
 }

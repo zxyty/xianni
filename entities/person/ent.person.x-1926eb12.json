@@ -7,16 +7,21 @@
     "红毛",
     "炼魂宗红发老者",
     "红发老者（献祭主持）",
-    "罗天红发老者"
+    "罗天红发老者",
+    "赤红色大手所化红发老者",
+    "绿魔洲红发老者"
   ],
   "summary": "炼魂宗修士，结丹初期，面部奇异口鼻极大双眼极小；收下王林所献飞剑后破例引其入宗做外围弟子，出山收集上百冤魂欲炼魂幡主魂。",
   "attributes": {
     "小阶段": "结丹初期",
-    "外貌": "红发",
+    "外貌": "红发老者，一脸阴沉",
     "身份": "献祭修真星主事者",
-    "标志特征": "驾紫红之芒破空而行；持令牌可开护山阵",
-    "阵营": "罗天·雷神殿",
-    "性格": "倨傲不屑"
+    "标志特征": "化作赤红色大手出手",
+    "阵营": "绿魔洲",
+    "性格": "倨傲不屑",
+    "性别": "男",
+    "元神强度": "修为滔天",
+    "存殁": "在世"
   },
   "observations": {
     "小阶段": [
@@ -36,6 +41,11 @@
         "value": "红发",
         "docId": "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
         "seq": 855
+      },
+      {
+        "value": "红发老者，一脸阴沉",
+        "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
+        "seq": 1790
       }
     ],
     "身份": [
@@ -55,6 +65,11 @@
         "value": "驾紫红之芒破空而行；持令牌可开护山阵",
         "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
         "seq": 351
+      },
+      {
+        "value": "化作赤红色大手出手",
+        "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
+        "seq": 1790
       }
     ],
     "阵营": [
@@ -67,6 +82,11 @@
         "value": "罗天·雷神殿",
         "docId": "plot.xianni-ch1090-mo-zhi-reappears",
         "seq": 1006
+      },
+      {
+        "value": "绿魔洲",
+        "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
+        "seq": 1790
       }
     ],
     "性格": [
@@ -74,6 +94,28 @@
         "value": "倨傲不屑",
         "docId": "plot.xianni-ch1090-mo-zhi-reappears",
         "seq": 1006
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
+        "seq": 1790
+      }
+    ],
+    "元神强度": [
+      {
+        "value": "修为滔天",
+        "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
+        "seq": 1790,
+        "note": "画面中感受不到气息，凭战果推断"
+      }
+    ],
+    "存殁": [
+      {
+        "value": "在世",
+        "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
+        "seq": 1790
       }
     ]
   },
@@ -87,9 +129,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
+      "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
       "dated": false,
-      "seq": 855
+      "seq": 1790
     },
     "身份": {
       "asOf": null,
@@ -99,21 +141,40 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+      "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
       "dated": false,
-      "seq": 351
+      "seq": 1790
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch1090-mo-zhi-reappears",
+      "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
       "dated": false,
-      "seq": 1006
+      "seq": 1790
     },
     "性格": {
       "asOf": null,
       "docId": "plot.xianni-ch1090-mo-zhi-reappears",
       "dated": false,
       "seq": 1006
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
+      "dated": false,
+      "seq": 1790
+    },
+    "元神强度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
+      "dated": false,
+      "seq": 1790,
+      "note": "画面中感受不到气息，凭战果推断"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
+      "dated": false,
+      "seq": 1790
     }
   },
   "contested": false,
@@ -121,7 +182,8 @@
   "docs": [
     "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
     "plot.xianni-ch925-million-beast-blood-lock-heaven-god",
-    "plot.xianni-ch1090-mo-zhi-reappears"
+    "plot.xianni-ch1090-mo-zhi-reappears",
+    "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath"
   ],
-  "updatedAt": "2026-08-24T13:25:48.785Z"
+  "updatedAt": "2026-08-30T14:26:14.427Z"
 }

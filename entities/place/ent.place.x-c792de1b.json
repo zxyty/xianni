@@ -11,10 +11,10 @@
   "summary": "天牛七穴之一，王林受青牛老祖之命前往镇守，并将与吕文冉同行。",
   "attributes": {
     "所属势力": "天牛洲",
-    "类型": "天牛精穴/阵法禁制要地、驻守要地/地宫、镇守区域、被轰开的通路/穴口、天牛七穴之一",
-    "上级区域": "天牛洲、极天草原",
-    "所属界面": "仙罡大陆",
-    "守护": "天牛七穴大阵"
+    "类型": "天牛精穴/阵法禁制要地、驻守要地/地宫、镇守区域、被轰开的通路/穴口、天牛七穴之一、要害/禁地、天牛穴",
+    "上级区域": "天牛洲、极天草原、极天草原地宫",
+    "所属界面": "天牛洲",
+    "守护": "驻守地宫的一千余名修士"
   },
   "observations": {
     "所属势力": [
@@ -54,6 +54,16 @@
         "value": "天牛七穴之一",
         "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
         "seq": 1780
+      },
+      {
+        "value": "要害/禁地",
+        "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
+        "seq": 1790
+      },
+      {
+        "value": "天牛穴",
+        "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
+        "seq": 1790
       }
     ],
     "上级区域": [
@@ -66,6 +76,11 @@
         "value": "极天草原",
         "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
         "seq": 1765
+      },
+      {
+        "value": "极天草原地宫",
+        "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
+        "seq": 1790
       }
     ],
     "所属界面": [
@@ -73,6 +88,11 @@
         "value": "仙罡大陆",
         "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
         "seq": 1765
+      },
+      {
+        "value": "天牛洲",
+        "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
+        "seq": 1790
       }
     ],
     "守护": [
@@ -90,6 +110,11 @@
         "value": "天牛七穴大阵",
         "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
         "seq": 1780
+      },
+      {
+        "value": "驻守地宫的一千余名修士",
+        "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
+        "seq": 1790
       }
     ]
   },
@@ -115,15 +140,15 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+      "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
       "dated": false,
-      "seq": 1765
+      "seq": 1790
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+      "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
       "dated": false,
-      "seq": 1780
+      "seq": 1790
     }
   },
   "contested": false,
@@ -131,7 +156,8 @@
   "docs": [
     "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
     "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
-    "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace"
+    "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
+    "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath"
   ],
-  "updatedAt": "2026-08-30T13:23:54.795Z"
+  "updatedAt": "2026-08-30T14:26:14.534Z"
 }
