@@ -4,12 +4,14 @@
   "name": "洞府之门",
   "aliases": [
     "洞府门",
-    "此门"
+    "此门",
+    "通往仙罡的洞府之门"
   ],
   "summary": "通往洞府界之门；其开启并非任何人径直打开，而是画轴女子将开启之法告诉了疯子；王林疑此即银衣女子口中『不是她打开』的门。",
   "attributes": {
     "类型": "界门",
-    "来历": "开启方法由画轴女子告知疯子"
+    "来历": "开启方法由画轴女子告知疯子",
+    "两端": "洞府界—仙罡"
   },
   "observations": {
     "类型": [
@@ -24,6 +26,13 @@
         "value": "开启方法由画轴女子告知疯子",
         "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
         "seq": 1601
+      }
+    ],
+    "两端": [
+      {
+        "value": "洞府界—仙罡",
+        "docId": "plot.xianni-1655-1659-search-third-soul-qingshui-seven-po",
+        "seq": 1655
       }
     ]
   },
@@ -40,12 +49,19 @@
       "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
       "dated": false,
       "seq": 1601
+    },
+    "两端": {
+      "asOf": null,
+      "docId": "plot.xianni-1655-1659-search-third-soul-qingshui-seven-po",
+      "dated": false,
+      "seq": 1655
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.xianni-ch1695-qicai-three-souls-seven-po"
+    "lore.xianni-ch1695-qicai-three-souls-seven-po",
+    "plot.xianni-1655-1659-search-third-soul-qingshui-seven-po"
   ],
-  "updatedAt": "2026-08-26T12:40:21.060Z"
+  "updatedAt": "2026-08-30T05:27:26.827Z"
 }

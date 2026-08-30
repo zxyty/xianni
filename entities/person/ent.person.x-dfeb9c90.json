@@ -16,11 +16,13 @@
     "七彩之芒来源",
     "Seven-Colored Immortal Venerable",
     "自爆神识的仙人",
-    "洞府界曾经的主人"
+    "洞府界曾经的主人",
+    "七彩道袍者",
+    "Qi Cai Xian Zun"
   ],
   "summary": "仙罡大陆七道宗宗主之一，与道侣共同开宗立派；双日事件后独自归来、封死洞府，最终在大战中重伤。",
   "attributes": {
-    "身份": "七道宗宗主、远古仙域之主/封印设置者、远古仙尊、洞府之主、洞府主人、天道的掠夺者与饲养者、空劫大尊、七道宗开创者、七道宗之尊、封锁七道宗者、七道宗仙尊、七道宗之主、仙尊、曾操控天运子者、洞府主人、被吞噬时自爆神识的仙人、储物碎片与天道的发现者",
+    "身份": "七道宗宗主、远古仙域之主/封印设置者、远古仙尊、洞府之主、洞府主人、天道的掠夺者与饲养者、空劫大尊、七道宗开创者、七道宗之尊、封锁七道宗者、七道宗仙尊、七道宗之主、仙尊、曾操控天运子者、洞府主人、被吞噬时自爆神识的仙人、储物碎片与天道的发现者、三魂七魄分裂之主体、空劫修为的仙尊、三魂七魄之本源",
     "称号": "七彩仙尊、远古仙皇、七彩道尊、大尊、仙尊、洞府界曾经的主人",
     "出身地": "仙罡大陆",
     "结局": "崩溃化作三魂七魄",
@@ -29,9 +31,10 @@
     "性格": "重情而暴怒疯狂",
     "阵营": "七道宗",
     "标志特征": "三魂七魄分散",
-    "死因": "洞府界之战中引动天道，身体崩溃碎为三份（七彩／意境／记忆）",
+    "死因": "肉身被撕碎、元神魂魄分裂为三魂七魄",
     "分身": "七彩道人（神通魂）、第二魂（本源意境）、第三魂（记忆）、分离的七魄",
-    "外貌": "自崩溃阁楼的七彩光芒中走出，神色愤怒"
+    "外貌": "身穿七彩道袍",
+    "本命法宝": "雾兽（本命雾兽）"
   },
   "observations": {
     "身份": [
@@ -109,6 +112,21 @@
         "value": "储物碎片与天道的发现者",
         "docId": "plot.xianni-ch1726-recondense-origins",
         "seq": 1636
+      },
+      {
+        "value": "三魂七魄分裂之主体",
+        "docId": "plot.xianni-1655-1659-search-third-soul-qingshui-seven-po",
+        "seq": 1655
+      },
+      {
+        "value": "空劫修为的仙尊",
+        "docId": "plot.xianni-1655-1659-search-third-soul-qingshui-seven-po",
+        "seq": 1655
+      },
+      {
+        "value": "三魂七魄之本源",
+        "docId": "plot.xianni-1655-1659-search-third-soul-qingshui-seven-po",
+        "seq": 1655
       }
     ],
     "称号": [
@@ -243,6 +261,11 @@
         "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
         "seq": 1611,
         "note": "幻中幻回放的当年一幕"
+      },
+      {
+        "value": "肉身被撕碎、元神魂魄分裂为三魂七魄",
+        "docId": "plot.xianni-1655-1659-search-third-soul-qingshui-seven-po",
+        "seq": 1655
       }
     ],
     "分身": [
@@ -272,6 +295,18 @@
         "value": "自崩溃阁楼的七彩光芒中走出，神色愤怒",
         "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
         "seq": 1611
+      },
+      {
+        "value": "身穿七彩道袍",
+        "docId": "plot.xianni-1655-1659-search-third-soul-qingshui-seven-po",
+        "seq": 1655
+      }
+    ],
+    "本命法宝": [
+      {
+        "value": "雾兽（本命雾兽）",
+        "docId": "plot.xianni-1655-1659-search-third-soul-qingshui-seven-po",
+        "seq": 1655
       }
     ]
   },
@@ -334,10 +369,9 @@
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+      "docId": "plot.xianni-1655-1659-search-third-soul-qingshui-seven-po",
       "dated": false,
-      "seq": 1611,
-      "note": "幻中幻回放的当年一幕"
+      "seq": 1655
     },
     "分身": {
       "asOf": null,
@@ -347,9 +381,15 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+      "docId": "plot.xianni-1655-1659-search-third-soul-qingshui-seven-po",
       "dated": false,
-      "seq": 1611
+      "seq": 1655
+    },
+    "本命法宝": {
+      "asOf": null,
+      "docId": "plot.xianni-1655-1659-search-third-soul-qingshui-seven-po",
+      "dated": false,
+      "seq": 1655
     }
   },
   "contested": false,
@@ -376,7 +416,8 @@
     "plot.xianni-ch1723-tiandao-tianyunzi-first-awakening",
     "plot.xianni-ch1726-recondense-origins",
     "plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou",
-    "plot.xianni-1729-wuxing-star-guiyi-zong"
+    "plot.xianni-1729-wuxing-star-guiyi-zong",
+    "plot.xianni-1655-1659-search-third-soul-qingshui-seven-po"
   ],
-  "updatedAt": "2026-08-30T04:03:44.893Z"
+  "updatedAt": "2026-08-30T05:27:26.974Z"
 }

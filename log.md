@@ -1058,3 +1058,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T04:17:56.935Z** `ingest` plot.xianni-ch1735-shui-jiang-xie-jia-bu-ta-bi-duan — 第1735章 步踏臂断——王林得水本源之种、为水将卸甲、一脚踏断漩涡枯手 · kind=plot asOf=2026-08-30 entities=17 relations=26 src=01641-01645.p5.md
 - **2026-08-30T04:26:44.942Z** `ingest` plot.xianni-1646-1649-wuxing-star-nine-turn-heart-wheel — 仙逆 第1646-1649章：破五行木阵金阵，九转心轮唯心故动 · kind=plot asOf=2026-08-30 entities=36 relations=57 src=01646-01649.md
 - **2026-08-30T04:45:06.019Z** `ingest` plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel — 第1740章 双行铠——王林战归一宗空玄中期老者 · kind=plot asOf=2026-08-30 entities=63 relations=120 src=01650-01654.md
+- **2026-08-30T05:27:27.479Z** `ingest` plot.xianni-1655-1659-search-third-soul-qingshui-seven-po — 仙逆 第1655-1659章：寻找第三魂，清水一魄的血色往事 · kind=plot asOf=2026-08-30 entities=74 relations=127 src=01655-01659.md
