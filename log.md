@@ -1168,3 +1168,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T14:54:53.238Z** `ingest` plot.xianni-ch1891-jie-lei-mo-shen — 第1891章 借雷抹神：绿魔蝎庙祭祀与道魔宗宗主合谋抹除王林神智 · kind=plot asOf=2026-08-30 entities=17 relations=22 src=01800-01804.p3.md
 - **2026-08-30T14:57:01.109Z** `ingest` plot.xianni-ch1892-thunder-source-true-body-born — 第1892章 昔梦成真：雷霆本源真身诞生，落入道魔宗宗主之手 · kind=plot asOf=2026-08-30 entities=18 relations=28 src=01800-01804.p4.md
 - **2026-08-30T14:59:32.450Z** `ingest` plot.xianni-ch1893-geyou-tumou-luomo-jisi-shitan — 第1893章 各有图谋！——王林借天逆藏心神，绿魔祭祀三重试探 · kind=plot asOf=2026-08-30 entities=19 relations=36 src=01800-01804.p5.md
+- **2026-08-30T15:01:10.130Z** `ingest` plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao — 第1894章 一场岁月年华：王林与绿袍老者的八十年岁月赌局 · kind=plot asOf=2026-08-30 entities=13 relations=17 src=01805-01809.p1.md

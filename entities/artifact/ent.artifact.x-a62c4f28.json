@@ -4,13 +4,14 @@
   "name": "绿色镜子",
   "aliases": [
     "绿魔使者的镜子",
-    "绿镜"
+    "绿镜",
+    "监视绿镜"
   ],
   "summary": "四名绿魔使者头顶的护持法宝，可护其不受役灵印重创；被叩拜请动后落地无限蔓延，笼罩极天草原并降临整个绿魔洲的投影以行镇压。",
   "attributes": {
-    "持有者": "绿魔使者",
-    "能力": "护持绿魔使者、落地蔓延笼罩极天草原、降临绿魔洲大陆投影进行镇压",
-    "外形": "绿色镜子"
+    "持有者": "绿袍老者",
+    "能力": "护持绿魔使者、落地蔓延笼罩极天草原、降临绿魔洲大陆投影进行镇压、折射远处空间内的一切影像，用于监视",
+    "外形": "一面绿色的镜子"
   },
   "observations": {
     "持有者": [
@@ -18,6 +19,11 @@
         "value": "绿魔使者",
         "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
         "seq": 1785
+      },
+      {
+        "value": "绿袍老者",
+        "docId": "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao",
+        "seq": 1805
       }
     ],
     "能力": [
@@ -35,6 +41,11 @@
         "value": "降临绿魔洲大陆投影进行镇压",
         "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
         "seq": 1785
+      },
+      {
+        "value": "折射远处空间内的一切影像，用于监视",
+        "docId": "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao",
+        "seq": 1805
       }
     ],
     "外形": [
@@ -42,6 +53,11 @@
         "value": "绿色镜子",
         "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
         "seq": 1785
+      },
+      {
+        "value": "一面绿色的镜子",
+        "docId": "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao",
+        "seq": 1805
       }
     ]
   },
@@ -49,9 +65,9 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+      "docId": "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao",
       "dated": false,
-      "seq": 1785
+      "seq": 1805
     },
     "能力": {
       "asOf": null,
@@ -61,15 +77,16 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+      "docId": "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao",
       "dated": false,
-      "seq": 1785
+      "seq": 1805
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran"
+    "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+    "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao"
   ],
-  "updatedAt": "2026-08-30T13:42:53.090Z"
+  "updatedAt": "2026-08-30T15:01:09.573Z"
 }

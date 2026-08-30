@@ -3,13 +3,16 @@
   "type": "place",
   "name": "绿色空间",
   "aliases": [
-    "蝎子体内的绿色空间"
+    "蝎子体内的绿色空间",
+    "绿魔蝎庙绿色空间",
+    "蝎子空间"
   ],
   "summary": "位于蝎子建筑体内的空间，绿芒可化作大量绿色蝎子；本章被涌入的闪电几乎取代绿色，化为雷霆空间，是雷霆本源真身诞生之地。",
   "attributes": {
-    "类型": "体内空间/秘境",
-    "上级区域": "中心蝎庙",
-    "特产": "绿色蝎子（绿芒所化）"
+    "类型": "密闭空间/囚室",
+    "上级区域": "绿魔蝎庙",
+    "特产": "绿色蝎子（绿芒所化）",
+    "危险度": "极高"
   },
   "observations": {
     "类型": [
@@ -17,6 +20,11 @@
         "value": "体内空间/秘境",
         "docId": "plot.xianni-ch1892-thunder-source-true-body-born",
         "seq": 1800
+      },
+      {
+        "value": "密闭空间/囚室",
+        "docId": "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao",
+        "seq": 1805
       }
     ],
     "上级区域": [
@@ -24,6 +32,11 @@
         "value": "中心蝎庙",
         "docId": "plot.xianni-ch1892-thunder-source-true-body-born",
         "seq": 1800
+      },
+      {
+        "value": "绿魔蝎庙",
+        "docId": "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao",
+        "seq": 1805
       }
     ],
     "特产": [
@@ -32,33 +45,47 @@
         "docId": "plot.xianni-ch1892-thunder-source-true-body-born",
         "seq": 1800
       }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao",
+        "seq": 1805
+      }
     ]
   },
   "firstSeq": 1800,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1892-thunder-source-true-body-born",
+      "docId": "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao",
       "dated": false,
-      "seq": 1800
+      "seq": 1805
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch1892-thunder-source-true-body-born",
+      "docId": "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao",
       "dated": false,
-      "seq": 1800
+      "seq": 1805
     },
     "特产": {
       "asOf": null,
       "docId": "plot.xianni-ch1892-thunder-source-true-body-born",
       "dated": false,
       "seq": 1800
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao",
+      "dated": false,
+      "seq": 1805
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1892-thunder-source-true-body-born"
+    "plot.xianni-ch1892-thunder-source-true-body-born",
+    "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao"
   ],
-  "updatedAt": "2026-08-30T14:57:00.591Z"
+  "updatedAt": "2026-08-30T15:01:09.571Z"
 }
