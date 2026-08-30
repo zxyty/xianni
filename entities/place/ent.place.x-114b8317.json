@@ -16,11 +16,12 @@
     "五行星高塔所在星",
     "五行星归一宗据点",
     "五行星高塔所在之星",
-    "隐藏的五行星"
+    "隐藏的五行星",
+    "五行星一方"
   ],
   "summary": "纳多的母星/所在星球，纳多留约王林日后可去此处找他。",
   "attributes": {
-    "类型": "隐藏星辰",
+    "类型": "星球、修真星、修真星辰、隐藏星辰、星辰",
     "守护": "纳多、五行光环与五行归一护星大阵、五行大阵、五道光环、五行阵、五行大阵（水阵、大地土阵等）、五行阵、九转心轮阵、九转心轮、三层高塔",
     "所属界面": "洞府界",
     "危险度": "藏有最后一股隐藏势力、极高（曾有数百界外修士误入再未出来）、极高（九位老祖布阵、老祖沉睡其上）、高、极高",
@@ -49,6 +50,11 @@
       {
         "value": "隐藏星辰",
         "docId": "plot.xianni-1750-cave-mansion-core-opens",
+        "seq": 1660
+      },
+      {
+        "value": "星辰",
+        "docId": "plot.xianni-ch1751-ren-ju-cave-mansion-gate-gathering",
         "seq": 1660
       }
     ],
@@ -192,9 +198,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1750-cave-mansion-core-opens",
+      "docId": "plot.xianni-ch231-234-xieyi-nanzi",
       "dated": false,
-      "seq": 1660
+      "seq": 231
     },
     "守护": {
       "asOf": null,
@@ -257,7 +263,8 @@
     "plot.xianni-1646-1649-wuxing-star-nine-turn-heart-wheel",
     "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
     "plot.xianni-1655-1659-search-third-soul-qingshui-seven-po",
-    "plot.xianni-1750-cave-mansion-core-opens"
+    "plot.xianni-1750-cave-mansion-core-opens",
+    "plot.xianni-ch1751-ren-ju-cave-mansion-gate-gathering"
   ],
-  "updatedAt": "2026-08-30T06:10:53.161Z"
+  "updatedAt": "2026-08-30T06:13:17.399Z"
 }

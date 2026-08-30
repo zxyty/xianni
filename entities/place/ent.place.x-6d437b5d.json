@@ -3,12 +3,14 @@
   "type": "place",
   "name": "朱雀星的域外战场",
   "aliases": [
-    "朱雀星域外战场"
+    "朱雀星域外战场",
+    "朱雀星域之外的战场"
   ],
   "summary": "王林早年成为吞魂、吞噬大量寂灭界魔头之处。",
   "attributes": {
-    "类型": "战场/古战场",
-    "上级区域": "朱雀星"
+    "类型": "古战场",
+    "上级区域": "朱雀星",
+    "方位": "朱雀星域之外"
   },
   "observations": {
     "类型": [
@@ -16,6 +18,11 @@
         "value": "战场/古战场",
         "docId": "plot.xianni-ch1293-yaozong-six-star-formation-wang-lin-arrives-rift",
         "seq": 1207
+      },
+      {
+        "value": "古战场",
+        "docId": "plot.xianni-ch1751-ren-ju-cave-mansion-gate-gathering",
+        "seq": 1660
       }
     ],
     "上级区域": [
@@ -24,27 +31,41 @@
         "docId": "plot.xianni-ch1293-yaozong-six-star-formation-wang-lin-arrives-rift",
         "seq": 1207
       }
+    ],
+    "方位": [
+      {
+        "value": "朱雀星域之外",
+        "docId": "plot.xianni-ch1751-ren-ju-cave-mansion-gate-gathering",
+        "seq": 1660
+      }
     ]
   },
   "firstSeq": 1207,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1293-yaozong-six-star-formation-wang-lin-arrives-rift",
+      "docId": "plot.xianni-ch1751-ren-ju-cave-mansion-gate-gathering",
       "dated": false,
-      "seq": 1207
+      "seq": 1660
     },
     "上级区域": {
       "asOf": null,
       "docId": "plot.xianni-ch1293-yaozong-six-star-formation-wang-lin-arrives-rift",
       "dated": false,
       "seq": 1207
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1751-ren-ju-cave-mansion-gate-gathering",
+      "dated": false,
+      "seq": 1660
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1293-yaozong-six-star-formation-wang-lin-arrives-rift"
+    "plot.xianni-ch1293-yaozong-six-star-formation-wang-lin-arrives-rift",
+    "plot.xianni-ch1751-ren-ju-cave-mansion-gate-gathering"
   ],
-  "updatedAt": "2026-08-25T07:38:15.645Z"
+  "updatedAt": "2026-08-30T06:13:17.394Z"
 }

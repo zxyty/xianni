@@ -1061,3 +1061,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T05:27:27.479Z** `ingest` plot.xianni-1655-1659-search-third-soul-qingshui-seven-po — 仙逆 第1655-1659章：寻找第三魂，清水一魄的血色往事 · kind=plot asOf=2026-08-30 entities=74 relations=127 src=01655-01659.md
 - **2026-08-30T06:08:03.529Z** `ingest` plot.xianni-1749-kongmie-first-appearance-xieqing-death — 第1749章 空灭初现！——谢青自绝献第三魂，王林誓要灭天 · kind=plot asOf=2026-08-30 entities=22 relations=33 src=01660-01664.p1.md
 - **2026-08-30T06:10:53.624Z** `ingest` plot.xianni-1750-cave-mansion-core-opens — 第1750章 洞府开启！——第三魂归王林，洞府核心之地开启，群雄齐奔罗天 · kind=plot asOf=2026-08-30 entities=35 relations=49 src=01660-01664.p2.md
+- **2026-08-30T06:13:17.869Z** `ingest` plot.xianni-ch1751-ren-ju-cave-mansion-gate-gathering — 仙逆·第1751章 人聚：洞府核心大门重凝，各方势力围困王林 · kind=plot asOf=2026-08-30 entities=31 relations=40 src=01660-01664.p3.md

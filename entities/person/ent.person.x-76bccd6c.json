@@ -13,14 +13,15 @@
   "summary": "玄道宗集结地的筑基中期老者，出言不逊放飓风攻王林，被王林一剑冻杀。",
   "attributes": {
     "小阶段": "疑经历数次玄劫，未必已达空劫",
-    "身份": "玄道宗弟子、归一宗前辈/开辟通往七道宗洞府通道之人、五行星外来修士首领、五行星一方主事者、五行星隐藏一行数人之首",
+    "身份": "玄道宗弟子、归一宗前辈/开辟通往七道宗洞府通道之人、五行星外来修士首领、五行星一方主事者、五行星隐藏一行数人之首、五行星一方首领",
     "存殁": "去向不明（临走前称会自己回来，尚未归来）",
     "死因": "被王林绿色飞剑一剑冻杀，胸口现碗大伤口气绝",
     "结局": "本章身亡",
     "称号": "马师兄、马师伯",
     "外貌": "皮肤衰老、头发漆黑，全身弥漫五行之力、老者",
     "标志特征": "瞳孔内有九转心轮回旋；样貌若年轻则与纳多相同",
-    "性格": "阴沉、谨慎"
+    "性格": "阴沉、谨慎",
+    "出身地": "五行星"
   },
   "observations": {
     "小阶段": [
@@ -60,6 +61,11 @@
       {
         "value": "五行星隐藏一行数人之首",
         "docId": "plot.xianni-1750-cave-mansion-core-opens",
+        "seq": 1660
+      },
+      {
+        "value": "五行星一方首领",
+        "docId": "plot.xianni-ch1751-ren-ju-cave-mansion-gate-gathering",
         "seq": 1660
       }
     ],
@@ -127,6 +133,13 @@
         "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
         "seq": 1650
       }
+    ],
+    "出身地": [
+      {
+        "value": "五行星",
+        "docId": "plot.xianni-ch1751-ren-ju-cave-mansion-gate-gathering",
+        "seq": 1660
+      }
     ]
   },
   "firstSeq": 90,
@@ -186,6 +199,12 @@
       "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
       "dated": false,
       "seq": 1650
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1751-ren-ju-cave-mansion-gate-gathering",
+      "dated": false,
+      "seq": 1660
     }
   },
   "contested": false,
@@ -194,7 +213,8 @@
     "lore.xianni-ch105-jijing-realm",
     "plot.xianni-1681-blood-sword-tip-pierces-into-xiangang",
     "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
-    "plot.xianni-1750-cave-mansion-core-opens"
+    "plot.xianni-1750-cave-mansion-core-opens",
+    "plot.xianni-ch1751-ren-ju-cave-mansion-gate-gathering"
   ],
-  "updatedAt": "2026-08-30T06:10:53.138Z"
+  "updatedAt": "2026-08-30T06:13:17.385Z"
 }
