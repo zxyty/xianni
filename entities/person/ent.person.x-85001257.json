@@ -3,7 +3,8 @@
   "type": "person",
   "name": "唐姗",
   "aliases": [
-    "Tang Shan"
+    "Tang Shan",
+    "第三妃唐姗"
   ],
   "summary": "自报真名的第三妃，出身仙罡大陆天门道，擅长可施于他人的七面金门防护神通，坚持报答王林当年之恩。",
   "attributes": {
@@ -11,7 +12,9 @@
     "身份": "第三妃",
     "出身地": "仙罡大陆天门道",
     "外貌": "容颜美丽",
-    "性格": "认真执着、知恩图报"
+    "性格": "认真执着、知恩图报",
+    "本命法宝": "手腕金色珠子",
+    "存殁": "存活"
   },
   "observations": {
     "性别": [
@@ -48,6 +51,20 @@
         "docId": "plot.xianni-1771-yun-yifeng-fair-duel",
         "seq": 1680
       }
+    ],
+    "本命法宝": [
+      {
+        "value": "手腕金色珠子",
+        "docId": "plot.xianni-1772-xuanluo-chushou-zhangzun-jinyin-shizhi",
+        "seq": 1680
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-1772-xuanluo-chushou-zhangzun-jinyin-shizhi",
+        "seq": 1680
+      }
     ]
   },
   "firstSeq": 1680,
@@ -81,12 +98,25 @@
       "docId": "plot.xianni-1771-yun-yifeng-fair-duel",
       "dated": false,
       "seq": 1680
+    },
+    "本命法宝": {
+      "asOf": null,
+      "docId": "plot.xianni-1772-xuanluo-chushou-zhangzun-jinyin-shizhi",
+      "dated": false,
+      "seq": 1680
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1772-xuanluo-chushou-zhangzun-jinyin-shizhi",
+      "dated": false,
+      "seq": 1680
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1771-yun-yifeng-fair-duel"
+    "plot.xianni-1771-yun-yifeng-fair-duel",
+    "plot.xianni-1772-xuanluo-chushou-zhangzun-jinyin-shizhi"
   ],
-  "updatedAt": "2026-08-30T07:01:17.158Z"
+  "updatedAt": "2026-08-30T07:03:40.561Z"
 }

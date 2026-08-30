@@ -50,8 +50,9 @@
     "性格": "平静、微笑、深藏算计、神色淡然、算计深远、平静、傲然、神色始终平静，仿若天地间任何事都无法令其动容色变、渐渐有了自己的意志、隐忍、执念极深、被打断后暴怒、阴沉、执念深、暴怒发狂、阴沉、多算计、阴沉、杀机凛冽、惜身、阴沉、多疑、自负、暴怒、贪婪、自负、疯狂、癫狂杀机",
     "性别": "男",
     "分身": "第二魂、第三魂、七魄",
-    "存殁": "在世、重伤未死、重伤逃遁",
-    "神识": "可远距感应王林气息"
+    "存殁": "在世、重伤未死、重伤逃遁、死亡",
+    "神识": "可远距感应王林气息",
+    "死因": "被战老鬼追击吞噬"
   },
   "observations": {
     "外貌": [
@@ -555,6 +556,11 @@
         "docId": "plot.xianni-ch1765-dao-fei-xian",
         "seq": 1675,
         "note": "本章；据世界状态须知其已于第1675章死亡，本章为该线延续叙述"
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-1772-xuanluo-chushou-zhangzun-jinyin-shizhi",
+        "seq": 1680
       }
     ],
     "神识": [
@@ -568,6 +574,13 @@
         "docId": "plot.xianni-ch1757-chess-game-broken-realm-battlefield",
         "seq": 1665,
         "note": "第1757章"
+      }
+    ],
+    "死因": [
+      {
+        "value": "被战老鬼追击吞噬",
+        "docId": "plot.xianni-1772-xuanluo-chushou-zhangzun-jinyin-shizhi",
+        "seq": 1680
       }
     ]
   },
@@ -640,6 +653,12 @@
       "dated": false,
       "seq": 1665,
       "note": "第1757章"
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-1772-xuanluo-chushou-zhangzun-jinyin-shizhi",
+      "dated": false,
+      "seq": 1680
     }
   },
   "contested": false,
@@ -692,7 +711,8 @@
     "plot.xianni-ch1763-seven-ambush-strike",
     "plot.xianni-ch1764-qicai-jie-muyu-liguang-bow",
     "plot.xianni-ch1765-dao-fei-xian",
-    "plot.xianni-ch1766-donglin-zong-second-flower"
+    "plot.xianni-ch1766-donglin-zong-second-flower",
+    "plot.xianni-1772-xuanluo-chushou-zhangzun-jinyin-shizhi"
   ],
-  "updatedAt": "2026-08-30T06:47:07.865Z"
+  "updatedAt": "2026-08-30T07:03:40.564Z"
 }
