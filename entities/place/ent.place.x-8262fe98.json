@@ -11,12 +11,13 @@
     "绿魔蝎建筑",
     "蝎形建筑",
     "蝎子庙宇",
-    "寂静的蝎庙"
+    "寂静的蝎庙",
+    "绿魔洲蝎庙"
   ],
   "summary": "绿魔洲的圣地，被选出的天资孩童修炼到一定程度后被送入此处侍奉绿魔，历经一次次淘汰死亡，最终获绿魔认可者至今仅九人。",
   "attributes": {
-    "所属界面": "绿魔洲",
-    "类型": "庙宇/试炼地、庙宇、庙宇/禁地、庙宇/建筑、庙宇／禁地、禁地/古庙、建筑/禁地、建筑/镇压之地、闭关之地/庙宇",
+    "所属界面": "仙罡大陆",
+    "类型": "庙宇/试炼地、庙宇、庙宇/禁地、庙宇/建筑、庙宇／禁地、禁地/古庙、建筑/禁地、建筑/镇压之地、闭关之地/庙宇、庙宇/秘地",
     "危险度": "深处有绿魔炉与绿魔蝎魂",
     "所属势力": "绿魔洲、道魔宗、绿魔一族（绿魔蝎庙）、绿魔洲绿魔一系、绿魔一族",
     "上级区域": "天牛洲",
@@ -31,6 +32,11 @@
         "value": "绿魔洲",
         "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
         "seq": 1785
+      },
+      {
+        "value": "仙罡大陆",
+        "docId": "plot.xianni-1901-thunder-source-true-body-slaughter-lightning",
+        "seq": 1810
       }
     ],
     "类型": [
@@ -77,6 +83,11 @@
       {
         "value": "闭关之地/庙宇",
         "docId": "plot.xianni-1900-wang-lin-cultivation-surge-kongxuan",
+        "seq": 1810
+      },
+      {
+        "value": "庙宇/秘地",
+        "docId": "plot.xianni-1901-thunder-source-true-body-slaughter-lightning",
         "seq": 1810
       }
     ],
@@ -204,9 +215,9 @@
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+      "docId": "plot.xianni-1901-thunder-source-true-body-slaughter-lightning",
       "dated": false,
-      "seq": 1785
+      "seq": 1810
     },
     "类型": {
       "asOf": null,
@@ -270,7 +281,8 @@
     "plot.xianni-ch1897-green-demon-furnace",
     "plot.xianni-ch1898-green-demon-scorpion-soul-devour-failed-possession",
     "plot.xianni-1899-green-robed-elder-dies-wang-lin-devours-scorpion-soul",
-    "plot.xianni-1900-wang-lin-cultivation-surge-kongxuan"
+    "plot.xianni-1900-wang-lin-cultivation-surge-kongxuan",
+    "plot.xianni-1901-thunder-source-true-body-slaughter-lightning"
   ],
-  "updatedAt": "2026-08-30T15:14:00.826Z"
+  "updatedAt": "2026-08-30T15:16:39.769Z"
 }
