@@ -1179,3 +1179,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T15:19:18.476Z** `ingest` plot.xianni-1902-loutai-guan-xuanjie — 第1902章 楼台观玄劫——三虚本源归一，王林修为攀至空玄巅峰候玄劫 · kind=plot asOf=2026-08-30 entities=31 relations=37 src=01810-01814.p4.md
 - **2026-08-30T15:21:24.763Z** `ingest` plot.xianni-1903-wang-lin-xuan-jie-first-two-trials-weak — 第1903章 弱！——王林于蝎庙度玄劫，雪劫与九飓风皆言「太弱」 · kind=plot asOf=2026-08-30 entities=16 relations=18 src=01810-01814.p5.md
 - **2026-08-30T15:23:27.843Z** `ingest` plot.xianni-ch1904-xuanjie-jifanghua — 第1904章 玄劫几芳华：王林连破雪风雷三劫与内三劫之斩离劫 · kind=plot asOf=2026-08-30 entities=14 relations=17 src=01815-01818.p1.md
+- **2026-08-30T15:25:46.451Z** `ingest` plot.xianni-ch1905-hun-san-jie-first-trial — 第1905章 魂三劫！——王林破血影劫、斩千丈大鼓，遭十息枯神劫 · kind=plot asOf=2026-08-30 entities=20 relations=29 src=01815-01818.p2.md

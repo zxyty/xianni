@@ -4,13 +4,14 @@
   "name": "仙祖发丝",
   "aliases": [
     "红色血丝",
-    "红色细线"
+    "红色细线",
+    "仙祖发丝经脉"
   ],
   "summary": "传闻为仙祖发丝的红色血丝，极难被斩断；融入王林血肉后九曲数弯首尾相连，形成其体内第二条经脉。",
   "attributes": {
-    "类型": "仙祖遗留发丝",
-    "用途": "开辟第二条经脉，使肉身可兼容仙力",
-    "稀有度": "本次改造中最为贵重之物"
+    "类型": "仙祖遗蜕",
+    "用途": "凝为经脉、代替仙族血脉、流转精纯仙力以驱动某件法宝",
+    "稀有度": "极高"
   },
   "observations": {
     "类型": [
@@ -18,6 +19,11 @@
         "value": "仙祖遗留发丝",
         "docId": "plot.xianni-1896-crazy-transformation-of-wang-lin-body",
         "seq": 1805
+      },
+      {
+        "value": "仙祖遗蜕",
+        "docId": "plot.xianni-ch1905-hun-san-jie-first-trial",
+        "seq": 1815
       }
     ],
     "用途": [
@@ -25,6 +31,11 @@
         "value": "开辟第二条经脉，使肉身可兼容仙力",
         "docId": "plot.xianni-1896-crazy-transformation-of-wang-lin-body",
         "seq": 1805
+      },
+      {
+        "value": "凝为经脉、代替仙族血脉、流转精纯仙力以驱动某件法宝",
+        "docId": "plot.xianni-ch1905-hun-san-jie-first-trial",
+        "seq": 1815
       }
     ],
     "稀有度": [
@@ -32,6 +43,11 @@
         "value": "本次改造中最为贵重之物",
         "docId": "plot.xianni-1896-crazy-transformation-of-wang-lin-body",
         "seq": 1805
+      },
+      {
+        "value": "极高",
+        "docId": "plot.xianni-ch1905-hun-san-jie-first-trial",
+        "seq": 1815
       }
     ]
   },
@@ -39,27 +55,28 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1896-crazy-transformation-of-wang-lin-body",
+      "docId": "plot.xianni-ch1905-hun-san-jie-first-trial",
       "dated": false,
-      "seq": 1805
+      "seq": 1815
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-1896-crazy-transformation-of-wang-lin-body",
+      "docId": "plot.xianni-ch1905-hun-san-jie-first-trial",
       "dated": false,
-      "seq": 1805
+      "seq": 1815
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.xianni-1896-crazy-transformation-of-wang-lin-body",
+      "docId": "plot.xianni-ch1905-hun-san-jie-first-trial",
       "dated": false,
-      "seq": 1805
+      "seq": 1815
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1896-crazy-transformation-of-wang-lin-body"
+    "plot.xianni-1896-crazy-transformation-of-wang-lin-body",
+    "plot.xianni-ch1905-hun-san-jie-first-trial"
   ],
-  "updatedAt": "2026-08-30T15:05:12.060Z"
+  "updatedAt": "2026-08-30T15:25:46.012Z"
 }
