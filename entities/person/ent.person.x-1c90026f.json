@@ -1,55 +1,21 @@
 {
-  "id": "ent.person.x-9448f9db",
+  "id": "ent.person.x-1c90026f",
   "type": "person",
-  "name": "玄罗大天尊",
+  "name": "烨素",
   "aliases": [
-    "玄罗",
-    "古国玄罗大天尊",
-    "黑发乌衫青年"
+    "古皇",
+    "皇袍男子",
+    "道古一脉皇尊"
   ],
-  "summary": "出身古国的九阳大天尊，当年与道一大天尊在七道宗附近争夺太古神境储物残片。",
+  "summary": "道古一脉皇尊、古国古皇，相貌与古祖雕像几乎一模一样；在十八个万丈巨人随驾下到场，受近百万古国之修参拜，称玄罗为大天尊、族叔。",
   "attributes": {
-    "称号": "大天尊、仙罡大陆九阳之一、玄罗大天尊",
-    "出身地": "古国",
-    "标志特征": "古脉苍穹血获赐八滴，为古往今来最多",
     "性别": "男",
     "种族": "古族",
-    "身份": "九阳之一、道古一脉长辈",
-    "外貌": "黑发乌衫青年",
+    "称号": "古皇、道古一脉皇尊",
+    "外貌": "身穿皇袍，相貌与古祖雕像几乎一样",
     "阵营": "古国·道古一脉"
   },
   "observations": {
-    "称号": [
-      {
-        "value": "大天尊",
-        "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
-        "seq": 1601
-      },
-      {
-        "value": "仙罡大陆九阳之一",
-        "docId": "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
-        "seq": 1616
-      },
-      {
-        "value": "玄罗大天尊",
-        "docId": "plot.xianni-ch1707-guimai-cangqiong-blood-tribulation-xianggang-expectation",
-        "seq": 1616
-      }
-    ],
-    "出身地": [
-      {
-        "value": "古国",
-        "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
-        "seq": 1601
-      }
-    ],
-    "标志特征": [
-      {
-        "value": "古脉苍穹血获赐八滴，为古往今来最多",
-        "docId": "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
-        "seq": 1616
-      }
-    ],
     "性别": [
       {
         "value": "男",
@@ -64,21 +30,21 @@
         "seq": 1616
       }
     ],
-    "身份": [
+    "称号": [
       {
-        "value": "九阳之一",
+        "value": "古皇",
         "docId": "plot.xianni-ch1707-guimai-cangqiong-blood-tribulation-xianggang-expectation",
         "seq": 1616
       },
       {
-        "value": "道古一脉长辈",
+        "value": "道古一脉皇尊",
         "docId": "plot.xianni-ch1707-guimai-cangqiong-blood-tribulation-xianggang-expectation",
         "seq": 1616
       }
     ],
     "外貌": [
       {
-        "value": "黑发乌衫青年",
+        "value": "身穿皇袍，相貌与古祖雕像几乎一样",
         "docId": "plot.xianni-ch1707-guimai-cangqiong-blood-tribulation-xianggang-expectation",
         "seq": 1616
       }
@@ -91,26 +57,8 @@
       }
     ]
   },
-  "firstSeq": 1601,
+  "firstSeq": 1616,
   "attrProvenance": {
-    "称号": {
-      "asOf": null,
-      "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
-      "dated": false,
-      "seq": 1601
-    },
-    "出身地": {
-      "asOf": null,
-      "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
-      "dated": false,
-      "seq": 1601
-    },
-    "标志特征": {
-      "asOf": null,
-      "docId": "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
-      "dated": false,
-      "seq": 1616
-    },
     "性别": {
       "asOf": null,
       "docId": "plot.xianni-ch1707-guimai-cangqiong-blood-tribulation-xianggang-expectation",
@@ -123,7 +71,7 @@
       "dated": false,
       "seq": 1616
     },
-    "身份": {
+    "称号": {
       "asOf": null,
       "docId": "plot.xianni-ch1707-guimai-cangqiong-blood-tribulation-xianggang-expectation",
       "dated": false,
@@ -145,9 +93,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
-    "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
     "plot.xianni-ch1707-guimai-cangqiong-blood-tribulation-xianggang-expectation"
   ],
-  "updatedAt": "2026-08-30T03:10:37.920Z"
+  "updatedAt": "2026-08-30T03:10:37.921Z"
 }
