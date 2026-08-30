@@ -59640,3 +59640,26 @@
 {"s":"ent.event.x-cc16f10c","p":"causes","o":"ent.event.x-77ea9bf3","evidence":"plot.xianni-ch1907-tianni-great-gate","confidence":0.95,"seq":1815,"note":"吸尽蝎魂后天逆珠再次圆满"}
 {"s":"ent.event.x-77ea9bf3","p":"involves","o":"ent.person.x-73d2856c","evidence":"plot.xianni-ch1907-tianni-great-gate","confidence":0.95,"seq":1815}
 {"s":"ent.event.x-496ee2b8","p":"occursAt","o":"ent.place.x-8262fe98","evidence":"plot.xianni-ch1907-tianni-great-gate","confidence":0.85,"seq":1815}
+{"s":"ent.person.x-73d2856c","p":"owns","o":"ent.artifact.x-f681a4f4","evidence":"plot.xianni-1908-tianni-tower-missing-one","confidence":0.98,"seq":1819,"note":"第1908章：珠子融入其身体、无踪于灵魂中；获得已近三千年"}
+{"s":"ent.person.x-73d2856c","p":"owns","o":"ent.artifact.x-dbe23773","evidence":"plot.xianni-1908-tianni-tower-missing-one","confidence":0.3,"seq":1819,"note":"非持有，仅为天逆大门守护之物；此边仅记其归属天逆体系，宜以 relatedTo 理解"}
+{"s":"ent.person.x-73d2856c","p":"casts","o":"ent.spell.x-4996cbb2","evidence":"plot.xianni-1908-tianni-tower-missing-one","confidence":0.95,"seq":1819,"note":"第1908章定住天逆大门青色手臂"}
+{"s":"ent.place.x-da7f8a6c","p":"partOf","o":"ent.artifact.x-f681a4f4","evidence":"plot.xianni-1908-tianni-tower-missing-one","confidence":0.9,"seq":1819,"note":"天逆圆满时由珠子显现"}
+{"s":"ent.place.x-da7f8a6c","p":"leadsTo","o":"ent.place.x-9ea1eada","evidence":"plot.xianni-1908-tianni-tower-missing-one","confidence":0.95,"seq":1819}
+{"s":"ent.artifact.x-dbe23773","p":"partOf","o":"ent.place.x-da7f8a6c","evidence":"plot.xianni-1908-tianni-tower-missing-one","confidence":0.95,"seq":1819,"note":"门上手臂，阻止一切人踏入"}
+{"s":"ent.place.x-122e4c3b","p":"locatedIn","o":"ent.place.x-9ea1eada","evidence":"plot.xianni-1908-tianni-tower-missing-one","confidence":0.95,"seq":1819,"note":"立于群山之中，王林前行时群山渐虚幻散开"}
+{"s":"ent.person.x-1b557943","p":"guards","o":"ent.place.x-122e4c3b","evidence":"plot.xianni-1908-tianni-tower-missing-one","confidence":0.5,"seq":1819,"note":"仅盘膝坐于塔下四角，是否为守护者未明说"}
+{"s":"ent.person.x-e33459c9","p":"kin","o":"ent.person.x-73d2856c","evidence":"plot.xianni-1908-tianni-tower-missing-one","confidence":0.95,"seq":1819,"note":"王林骨肉之亲；其魂沉睡于天逆内"}
+{"s":"ent.person.x-44fe98a5","p":"kin","o":"ent.person.x-e33459c9","evidence":"plot.xianni-1908-tianni-tower-missing-one","confidence":0.9,"seq":1819,"note":"夫妻，二魂同眠于天逆内"}
+{"s":"ent.person.x-e33459c9","p":"locatedIn","o":"ent.place.x-9ea1eada","evidence":"plot.xianni-1908-tianni-tower-missing-one","confidence":0.85,"seq":1819,"note":"王林凭感应在天逆内寻到其沉睡之魂"}
+{"s":"ent.place.x-8262fe98","p":"locatedIn","o":"ent.world.x-7e7ac7c1","evidence":"plot.xianni-1908-tianni-tower-missing-one","confidence":0.95,"seq":1819,"note":"本章已成旧址，被王林风暴弥漫"}
+{"s":"ent.beast.x-08bfb1e7","p":"relatedTo","o":"ent.place.x-8262fe98","evidence":"plot.xianni-1908-tianni-tower-missing-one","confidence":0.8,"seq":1819}
+{"s":"ent.beast.x-08bfb1e7","p":"relatedTo","o":"ent.artifact.x-f681a4f4","evidence":"plot.xianni-1908-tianni-tower-missing-one","confidence":0.7,"seq":1819,"note":"死前曾言「白珠」，疑指天逆珠子"}
+{"s":"ent.world.x-7e7ac7c1","p":"withinWorld","o":"ent.place.x-19c63ff4","evidence":"plot.xianni-1908-tianni-tower-missing-one","confidence":0.85,"seq":1819}
+{"s":"ent.faction.x-b98bd8d0","p":"withinWorld","o":"ent.place.x-19c63ff4","evidence":"plot.xianni-1908-tianni-tower-missing-one","confidence":0.9,"seq":1819}
+{"s":"ent.person.x-73d2856c","p":"enemy","o":"ent.beast.x-08bfb1e7","evidence":"plot.xianni-1908-tianni-tower-missing-one","confidence":0.4,"seq":1819,"note":"蝎魂已死，本章仅追忆其死前之言"}
+{"s":"ent.person.x-73d2856c","p":"relatedTo","o":"ent.faction.x-b98bd8d0","evidence":"plot.xianni-1908-tianni-tower-missing-one","confidence":0.95,"seq":1819,"note":"宿敌：立誓灭其满门、毁其道统"}
+{"s":"ent.event.x-5cc5600c","p":"involves","o":"ent.person.x-73d2856c","evidence":"plot.xianni-1908-tianni-tower-missing-one","confidence":0.98,"seq":1819}
+{"s":"ent.event.x-5cc5600c","p":"occursAt","o":"ent.place.x-122e4c3b","evidence":"plot.xianni-1908-tianni-tower-missing-one","confidence":0.9,"seq":1819}
+{"s":"ent.event.x-5cc5600c","p":"precedes","o":"ent.event.x-b95b6e1f","evidence":"plot.xianni-1908-tianni-tower-missing-one","confidence":0.95,"seq":1819}
+{"s":"ent.event.x-b95b6e1f","p":"involves","o":"ent.person.x-73d2856c","evidence":"plot.xianni-1908-tianni-tower-missing-one","confidence":0.95,"seq":1819}
+{"s":"ent.event.x-b95b6e1f","p":"occursAt","o":"ent.world.x-7e7ac7c1","evidence":"plot.xianni-1908-tianni-tower-missing-one","confidence":0.7,"seq":1819,"note":"自绿魔洲蝎庙旧址启程，目标为道魔宗"}
