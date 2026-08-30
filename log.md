@@ -1225,3 +1225,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T18:02:09.758Z** `ingest` plot.xianni-1948-dongling-pool-taichu-source — 第1948章 东临池：梦道虚影之谜与太初本源初窥 · kind=plot asOf=2026-08-30 entities=17 relations=22 src=01858-01862.p2.md
 - **2026-08-30T18:03:55.959Z** `ingest` plot.xianni-1949-taichu-momie-benyuan — 第1949章 太初与默灭：王林于东临池悟太初本源、化身初阳 · kind=plot asOf=2026-08-30 entities=17 relations=26 src=01858-01862.p3.md
 - **2026-08-30T18:06:31.941Z** `ingest` plot.xianni-1950-zailin-tianzunnie — 仙逆 第1950章 再临！——五道本源融合、突破空劫中期、重闯天尊涅 · kind=plot asOf=2026-08-30 entities=24 relations=35 src=01858-01862.p4.md
+- **2026-08-30T18:12:14.195Z** `ingest` plot.xianni-ch1951-tianzun-nie-first-hall — 第1951章 一鸣惊人（一）：王林重临天尊涅之地 · kind=plot asOf=2026-08-30 entities=24 relations=34 src=01858-01862.p5.md

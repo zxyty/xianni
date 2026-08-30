@@ -6,7 +6,8 @@
   "summary": "由七十二洲构成的广阔疆域，最顶层为大天尊与四十八个跃天尊。",
   "attributes": {
     "类型": "大地/疆域、大地/界域、大地",
-    "规模": "七十二洲"
+    "规模": "七十二洲",
+    "所属势力": "仙族"
   },
   "observations": {
     "类型": [
@@ -32,6 +33,13 @@
         "docId": "plot.xianni-1929-haizi-tianzun-shanhai-shuling",
         "seq": 1839
       }
+    ],
+    "所属势力": [
+      {
+        "value": "仙族",
+        "docId": "plot.xianni-ch1951-tianzun-nie-first-hall",
+        "seq": 1858
+      }
     ]
   },
   "firstSeq": 1839,
@@ -47,6 +55,12 @@
       "docId": "plot.xianni-1929-haizi-tianzun-shanhai-shuling",
       "dated": false,
       "seq": 1839
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1951-tianzun-nie-first-hall",
+      "dated": false,
+      "seq": 1858
     }
   },
   "contested": false,
@@ -54,7 +68,8 @@
   "docs": [
     "plot.xianni-1929-haizi-tianzun-shanhai-shuling",
     "plot.xianni-1938-bu-hui-de-zhizhuo",
-    "plot.xianni-1941-my-master-gu-ya-tianzun"
+    "plot.xianni-1941-my-master-gu-ya-tianzun",
+    "plot.xianni-ch1951-tianzun-nie-first-hall"
   ],
-  "updatedAt": "2026-08-30T17:46:31.311Z"
+  "updatedAt": "2026-08-30T18:12:13.533Z"
 }
