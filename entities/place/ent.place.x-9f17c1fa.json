@@ -3,13 +3,16 @@
   "type": "place",
   "name": "第三颗修真星",
   "aliases": [
-    "百万大军厮杀的修真星"
+    "百万大军厮杀的修真星",
+    "第三修真星"
   ],
   "summary": "白虎既定规则之界内的第三颗修真星，其上巨大平原正进行百万军兵的俗世大战，白虎战将与高塔第七层之人的虚影悬于其半空。",
   "attributes": {
     "所属界面": "白虎既定规则之界",
-    "类型": "修真星",
-    "方位": "该界九颗修真星中的第三颗"
+    "类型": "修真星、修真星（棋局战场所在）",
+    "方位": "该界九颗修真星中的第三颗",
+    "上级区域": "三百残界",
+    "危险度": "高（规则压制修为与血脉）"
   },
   "observations": {
     "所属界面": [
@@ -24,12 +27,31 @@
         "value": "修真星",
         "docId": "plot.xianni-ch1756-bai-hu-zhan-jiang-du-yue",
         "seq": 1665
+      },
+      {
+        "value": "修真星（棋局战场所在）",
+        "docId": "plot.xianni-ch1757-chess-game-broken-realm-battlefield",
+        "seq": 1665
       }
     ],
     "方位": [
       {
         "value": "该界九颗修真星中的第三颗",
         "docId": "plot.xianni-ch1756-bai-hu-zhan-jiang-du-yue",
+        "seq": 1665
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "三百残界",
+        "docId": "plot.xianni-ch1757-chess-game-broken-realm-battlefield",
+        "seq": 1665
+      }
+    ],
+    "危险度": [
+      {
+        "value": "高（规则压制修为与血脉）",
+        "docId": "plot.xianni-ch1757-chess-game-broken-realm-battlefield",
         "seq": 1665
       }
     ]
@@ -53,12 +75,25 @@
       "docId": "plot.xianni-ch1756-bai-hu-zhan-jiang-du-yue",
       "dated": false,
       "seq": 1665
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1757-chess-game-broken-realm-battlefield",
+      "dated": false,
+      "seq": 1665
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1757-chess-game-broken-realm-battlefield",
+      "dated": false,
+      "seq": 1665
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1756-bai-hu-zhan-jiang-du-yue"
+    "plot.xianni-ch1756-bai-hu-zhan-jiang-du-yue",
+    "plot.xianni-ch1757-chess-game-broken-realm-battlefield"
   ],
-  "updatedAt": "2026-08-30T06:25:09.670Z"
+  "updatedAt": "2026-08-30T06:27:05.936Z"
 }

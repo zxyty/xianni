@@ -1067,3 +1067,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T06:20:48.506Z** `ingest` plot.xianni-1754-established-rules-forbid-flight — 仙逆 第1754章 既定规则——王林在残界立禁飞法则，守株待兔猎杀七道宗仙人 · kind=plot asOf=2026-08-30 entities=25 relations=35 src=01665-01669.p1.md
 - **2026-08-30T06:22:41.499Z** `ingest` plot.xianni-ch1755-zixia-trap-kill — 第1755章 紫霞：王林诱杀七彩仙尊第七妃 · kind=plot asOf=2026-08-30 entities=21 relations=22 src=01665-01669.p2.md
 - **2026-08-30T06:25:10.120Z** `ingest` plot.xianni-ch1756-bai-hu-zhan-jiang-du-yue — 第1756章 打赌：血剑封紫霞、闯白虎残界立赌约 · kind=plot asOf=2026-08-30 entities=23 relations=30 src=01665-01669.p3.md
+- **2026-08-30T06:27:06.428Z** `ingest` plot.xianni-ch1757-chess-game-broken-realm-battlefield — 第1757章 棋局！——王林踏入残界破局，黑甲血战白虎战将 · kind=plot asOf=2026-08-30 entities=12 relations=15 src=01665-01669.p4.md
