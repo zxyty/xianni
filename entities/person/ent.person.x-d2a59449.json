@@ -11,7 +11,9 @@
     "称号": "妖圣",
     "外貌": "青衫、三缕胡须、肤色白皙、手持黑色扇子",
     "标志特征": "双目妖异，左目似有一团雾气回旋",
-    "阵营": "道古一脉／吉族"
+    "阵营": "道古一脉／吉族",
+    "性别": "男",
+    "种族": "古族"
   },
   "observations": {
     "称号": [
@@ -41,6 +43,20 @@
         "docId": "plot.xianni-ch2004-jidu-huangzi-heishicheng",
         "seq": 1914
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch2005-song-zhi-appears",
+        "seq": 1914
+      }
+    ],
+    "种族": [
+      {
+        "value": "古族",
+        "docId": "plot.xianni-ch2005-song-zhi-appears",
+        "seq": 1914
+      }
     ]
   },
   "firstSeq": 1914,
@@ -68,12 +84,25 @@
       "docId": "plot.xianni-ch2004-jidu-huangzi-heishicheng",
       "dated": false,
       "seq": 1914
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2005-song-zhi-appears",
+      "dated": false,
+      "seq": 1914
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2005-song-zhi-appears",
+      "dated": false,
+      "seq": 1914
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch2004-jidu-huangzi-heishicheng"
+    "plot.xianni-ch2004-jidu-huangzi-heishicheng",
+    "plot.xianni-ch2005-song-zhi-appears"
   ],
-  "updatedAt": "2026-08-30T23:47:29.242Z"
+  "updatedAt": "2026-08-30T23:49:43.281Z"
 }

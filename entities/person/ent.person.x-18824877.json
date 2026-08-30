@@ -1,32 +1,34 @@
 {
-  "id": "ent.faction.x-7435b37a",
-  "type": "faction",
-  "name": "始古一脉",
-  "aliases": [],
-  "summary": "古族一脉，本章王林明言不去。",
+  "id": "ent.person.x-18824877",
+  "type": "person",
+  "name": "黑衣青年魔圣",
+  "aliases": [
+    "魔圣"
+  ],
+  "summary": "在场的魔圣，先轻视王林、后起战意，见古妖跪拜后战意瓦解、冷汗涔涔。",
   "attributes": {
-    "阵营": "古族",
-    "理念": "皇权至高无上",
-    "据点": "始古之国"
+    "性别": "男",
+    "称号": "魔圣",
+    "外貌": "黑衣青年"
   },
   "observations": {
-    "阵营": [
+    "性别": [
       {
-        "value": "古族",
-        "docId": "plot.xianni-2002-lu-wanglin-haishang-tiaoxi-fu-guzu",
-        "seq": 1914
-      }
-    ],
-    "理念": [
-      {
-        "value": "皇权至高无上",
+        "value": "男",
         "docId": "plot.xianni-ch2005-song-zhi-appears",
         "seq": 1914
       }
     ],
-    "据点": [
+    "称号": [
       {
-        "value": "始古之国",
+        "value": "魔圣",
+        "docId": "plot.xianni-ch2005-song-zhi-appears",
+        "seq": 1914
+      }
+    ],
+    "外貌": [
+      {
+        "value": "黑衣青年",
         "docId": "plot.xianni-ch2005-song-zhi-appears",
         "seq": 1914
       }
@@ -34,19 +36,19 @@
   },
   "firstSeq": 1914,
   "attrProvenance": {
-    "阵营": {
-      "asOf": null,
-      "docId": "plot.xianni-2002-lu-wanglin-haishang-tiaoxi-fu-guzu",
-      "dated": false,
-      "seq": 1914
-    },
-    "理念": {
+    "性别": {
       "asOf": null,
       "docId": "plot.xianni-ch2005-song-zhi-appears",
       "dated": false,
       "seq": 1914
     },
-    "据点": {
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2005-song-zhi-appears",
+      "dated": false,
+      "seq": 1914
+    },
+    "外貌": {
       "asOf": null,
       "docId": "plot.xianni-ch2005-song-zhi-appears",
       "dated": false,
@@ -56,8 +58,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-2002-lu-wanglin-haishang-tiaoxi-fu-guzu",
     "plot.xianni-ch2005-song-zhi-appears"
   ],
-  "updatedAt": "2026-08-30T23:49:43.291Z"
+  "updatedAt": "2026-08-30T23:49:43.281Z"
 }

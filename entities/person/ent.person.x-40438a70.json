@@ -9,9 +9,11 @@
   "summary": "黑石城城主，被尊称神圣城主；身高一丈余、着金甲、红色皮肤，性情爽朗，向王林致意并解释融妖炼魔之难，后向皇子撇清关系并请命轰杀王林。",
   "attributes": {
     "称号": "神圣城主",
-    "身份": "黑石城城主",
-    "外貌": "身高近一丈多，金色铠甲，红色皮肤，不怒自威",
-    "阵营": "道古一脉／吉族"
+    "身份": "黑石城城主、黑石城金甲守将",
+    "外貌": "身高近一丈多，金色铠甲，红色皮肤，不怒自威、身披金甲的大汉",
+    "阵营": "道古一脉／吉族",
+    "性别": "男",
+    "种族": "古族（始古一脉）"
   },
   "observations": {
     "称号": [
@@ -26,6 +28,11 @@
         "value": "黑石城城主",
         "docId": "plot.xianni-ch2004-jidu-huangzi-heishicheng",
         "seq": 1914
+      },
+      {
+        "value": "黑石城金甲守将",
+        "docId": "plot.xianni-ch2005-song-zhi-appears",
+        "seq": 1914
       }
     ],
     "外貌": [
@@ -33,12 +40,31 @@
         "value": "身高近一丈多，金色铠甲，红色皮肤，不怒自威",
         "docId": "plot.xianni-ch2004-jidu-huangzi-heishicheng",
         "seq": 1914
+      },
+      {
+        "value": "身披金甲的大汉",
+        "docId": "plot.xianni-ch2005-song-zhi-appears",
+        "seq": 1914
       }
     ],
     "阵营": [
       {
         "value": "道古一脉／吉族",
         "docId": "plot.xianni-ch2004-jidu-huangzi-heishicheng",
+        "seq": 1914
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch2005-song-zhi-appears",
+        "seq": 1914
+      }
+    ],
+    "种族": [
+      {
+        "value": "古族（始古一脉）",
+        "docId": "plot.xianni-ch2005-song-zhi-appears",
         "seq": 1914
       }
     ]
@@ -68,12 +94,25 @@
       "docId": "plot.xianni-ch2004-jidu-huangzi-heishicheng",
       "dated": false,
       "seq": 1914
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2005-song-zhi-appears",
+      "dated": false,
+      "seq": 1914
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2005-song-zhi-appears",
+      "dated": false,
+      "seq": 1914
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch2004-jidu-huangzi-heishicheng"
+    "plot.xianni-ch2004-jidu-huangzi-heishicheng",
+    "plot.xianni-ch2005-song-zhi-appears"
   ],
-  "updatedAt": "2026-08-30T23:47:29.242Z"
+  "updatedAt": "2026-08-30T23:49:43.280Z"
 }
