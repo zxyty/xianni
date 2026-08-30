@@ -8,7 +8,8 @@
   "summary": "七彩召唤天道后用以对抗连道非之术，最终使连道非重伤、天道亦濒死。",
   "attributes": {
     "效果": "以天道之力吞噬对手",
-    "出处": "七彩仙尊"
+    "出处": "七彩仙尊",
+    "适用境界": "仙尊级"
   },
   "observations": {
     "效果": [
@@ -23,6 +24,13 @@
         "value": "七彩仙尊",
         "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
         "seq": 1601
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "仙尊级",
+        "docId": "plot.xianni-1753-sanbai-canjie",
+        "seq": 1660
       }
     ]
   },
@@ -39,12 +47,19 @@
       "docId": "lore.xianni-ch1695-qicai-three-souls-seven-po",
       "dated": false,
       "seq": 1601
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.xianni-1753-sanbai-canjie",
+      "dated": false,
+      "seq": 1660
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.xianni-ch1695-qicai-three-souls-seven-po"
+    "lore.xianni-ch1695-qicai-three-souls-seven-po",
+    "plot.xianni-1753-sanbai-canjie"
   ],
-  "updatedAt": "2026-08-26T12:40:21.055Z"
+  "updatedAt": "2026-08-30T06:18:09.877Z"
 }

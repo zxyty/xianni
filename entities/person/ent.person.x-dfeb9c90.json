@@ -25,7 +25,7 @@
   ],
   "summary": "仙罡大陆七道宗宗主之一，与道侣共同开宗立派；双日事件后独自归来、封死洞府，最终在大战中重伤。",
   "attributes": {
-    "身份": "七道宗宗主、远古仙域之主/封印设置者、远古仙尊、洞府之主、洞府主人、天道的掠夺者与饲养者、空劫大尊、七道宗开创者、七道宗之尊、封锁七道宗者、七道宗仙尊、七道宗之主、仙尊、曾操控天运子者、洞府主人、被吞噬时自爆神识的仙人、储物碎片与天道的发现者、三魂七魄分裂之主体、空劫修为的仙尊、三魂七魄之本源、洞府界之主",
+    "身份": "七道宗宗主、远古仙域之主/封印设置者、远古仙尊、洞府之主、洞府主人、天道的掠夺者与饲养者、空劫大尊、七道宗开创者、七道宗之尊、封锁七道宗者、七道宗仙尊、七道宗之主、仙尊、曾操控天运子者、洞府主人、被吞噬时自爆神识的仙人、储物碎片与天道的发现者、三魂七魄分裂之主体、空劫修为的仙尊、三魂七魄之本源、洞府界之主、洞府界创造者",
     "称号": "七彩仙尊、远古仙皇、七彩道尊、大尊、仙尊、洞府界曾经的主人",
     "出身地": "仙罡大陆",
     "结局": "崩溃化作三魂七魄",
@@ -33,7 +33,7 @@
     "小阶段": "空劫中期",
     "性格": "重情而暴怒疯狂",
     "阵营": "七道宗",
-    "标志特征": "三魂七魄分散，三魂归一则王林会死",
+    "标志特征": "不完整、化作三魂七魄、三魂七魄分散、三魂七魄分散，三魂归一则王林会死、神识散入三百界可改变界内既定法则",
     "死因": "肉身被撕碎、元神魂魄分裂为三魂七魄",
     "分身": "七彩道人（神通魂）、第二魂（本源意境）、第三魂（记忆）、分离的七魄",
     "外貌": "身穿七彩道袍",
@@ -134,6 +134,11 @@
       {
         "value": "洞府界之主",
         "docId": "plot.xianni-1752-hunting-ground-cave-mansion-door-opens",
+        "seq": 1660
+      },
+      {
+        "value": "洞府界创造者",
+        "docId": "plot.xianni-1753-sanbai-canjie",
         "seq": 1660
       }
     ],
@@ -261,6 +266,12 @@
         "value": "三魂七魄分散，三魂归一则王林会死",
         "docId": "plot.xianni-1749-kongmie-first-appearance-xieqing-death",
         "seq": 1660
+      },
+      {
+        "value": "神识散入三百界可改变界内既定法则",
+        "docId": "plot.xianni-1753-sanbai-canjie",
+        "seq": 1660,
+        "note": "需坐镇大鼎且未死"
       }
     ],
     "死因": [
@@ -376,9 +387,10 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-1749-kongmie-first-appearance-xieqing-death",
+      "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
       "dated": false,
-      "seq": 1660
+      "seq": 1601,
+      "note": "矾珊梦语：如今的七彩与当年大不一样"
     },
     "死因": {
       "asOf": null,
@@ -433,7 +445,8 @@
     "plot.xianni-1655-1659-search-third-soul-qingshui-seven-po",
     "plot.xianni-1749-kongmie-first-appearance-xieqing-death",
     "plot.xianni-1750-cave-mansion-core-opens",
-    "plot.xianni-1752-hunting-ground-cave-mansion-door-opens"
+    "plot.xianni-1752-hunting-ground-cave-mansion-door-opens",
+    "plot.xianni-1753-sanbai-canjie"
   ],
-  "updatedAt": "2026-08-30T06:15:34.388Z"
+  "updatedAt": "2026-08-30T06:18:09.862Z"
 }
