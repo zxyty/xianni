@@ -11,7 +11,8 @@
     "所属界面": "仙罡大陆",
     "方位": "仙族之地南部",
     "所属势力": "仙族",
-    "上级区域": "七十二洲"
+    "上级区域": "七十二洲",
+    "类型": "洲（大陆分区）"
   },
   "observations": {
     "所属界面": [
@@ -46,6 +47,13 @@
         "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
         "seq": 1824
       }
+    ],
+    "类型": [
+      {
+        "value": "洲（大陆分区）",
+        "docId": "plot.xianni-1923-meng-tu-zhou-di-men-xiangjian",
+        "seq": 1834
+      }
     ]
   },
   "firstSeq": 1705,
@@ -73,13 +81,20 @@
       "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
       "dated": false,
       "seq": 1824
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-1923-meng-tu-zhou-di-men-xiangjian",
+      "dated": false,
+      "seq": 1834
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1797-strange-white-light-in-the-void",
-    "lore.xianni-1917-xianzu-five-great-tianzun"
+    "lore.xianni-1917-xianzu-five-great-tianzun",
+    "plot.xianni-1923-meng-tu-zhou-di-men-xiangjian"
   ],
-  "updatedAt": "2026-08-30T16:53:06.876Z"
+  "updatedAt": "2026-08-30T17:07:06.019Z"
 }

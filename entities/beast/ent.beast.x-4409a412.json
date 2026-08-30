@@ -12,14 +12,17 @@
     "子脉火龙",
     "炎浆火龙",
     "王林的海龙",
-    "巨大海龙"
+    "巨大海龙",
+    "金尊海龙",
+    "王林的海龙坐骑"
   ],
   "summary": "地火子脉之魂所化的巨大火龙，被王林十六条火龙铁链锁住并遭朱雀融合吞噬，身体不断崩溃、体内朱雀虚影渐显。",
   "attributes": {
     "外形": "巨大海龙",
-    "能力": "化作长虹急速飞行、无视尘暴狂风",
+    "能力": "咆哮化狂风疾行，威压令三万弟子如遇天威",
     "栖息地": "天牛洲山峦下的地火子脉",
-    "主人": "王林"
+    "主人": "王林",
+    "等级": "相当于修士金尊层次（较高程度）"
   },
   "observations": {
     "外形": [
@@ -54,6 +57,11 @@
         "value": "化作长虹急速飞行、无视尘暴狂风",
         "docId": "plot.xianni-1922-first-old-acquaintance",
         "seq": 1829
+      },
+      {
+        "value": "咆哮化狂风疾行，威压令三万弟子如遇天威",
+        "docId": "plot.xianni-1923-meng-tu-zhou-di-men-xiangjian",
+        "seq": 1834
       }
     ],
     "栖息地": [
@@ -69,6 +77,13 @@
         "docId": "plot.xianni-1922-first-old-acquaintance",
         "seq": 1829
       }
+    ],
+    "等级": [
+      {
+        "value": "相当于修士金尊层次（较高程度）",
+        "docId": "plot.xianni-1923-meng-tu-zhou-di-men-xiangjian",
+        "seq": 1834
+      }
     ]
   },
   "firstSeq": 1720,
@@ -81,9 +96,9 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-1922-first-old-acquaintance",
+      "docId": "plot.xianni-1923-meng-tu-zhou-di-men-xiangjian",
       "dated": false,
-      "seq": 1829
+      "seq": 1834
     },
     "栖息地": {
       "asOf": null,
@@ -96,6 +111,12 @@
       "docId": "plot.xianni-1922-first-old-acquaintance",
       "dated": false,
       "seq": 1829
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-1923-meng-tu-zhou-di-men-xiangjian",
+      "dated": false,
+      "seq": 1834
     }
   },
   "contested": false,
@@ -104,7 +125,8 @@
     "plot.xianni-ch1811-jingxia-duqing",
     "plot.xianni-ch1815-condense-source-true-body",
     "plot.xianni-ch1816-benyuan-zhenshen-regret",
-    "plot.xianni-1922-first-old-acquaintance"
+    "plot.xianni-1922-first-old-acquaintance",
+    "plot.xianni-1923-meng-tu-zhou-di-men-xiangjian"
   ],
-  "updatedAt": "2026-08-30T17:05:19.425Z"
+  "updatedAt": "2026-08-30T17:07:06.022Z"
 }

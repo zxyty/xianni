@@ -12,11 +12,11 @@
   ],
   "summary": "位于绿魔洲边界高山山脉之外的大洲，翻越该山脉即入孟土洲，是王林此行的去向。",
   "attributes": {
-    "类型": "大洲、洲、洲域",
+    "类型": "大洲、洲、洲域、洲（大陆分区）",
     "方位": "绿魔洲边界山脉之外",
     "所属界面": "仙罡大陆",
     "规模": "洲域，境内宗门无数",
-    "特产": "含磁力的沙尘暴（内蕴风、土本源之力）",
+    "特产": "无尽尘暴",
     "危险度": "极高",
     "上级区域": "东州"
   },
@@ -36,6 +36,11 @@
         "value": "洲域",
         "docId": "plot.xianni-ch1910-dao-mo-zong-jie",
         "seq": 1819
+      },
+      {
+        "value": "洲（大陆分区）",
+        "docId": "plot.xianni-1923-meng-tu-zhou-di-men-xiangjian",
+        "seq": 1834
       }
     ],
     "方位": [
@@ -79,6 +84,11 @@
         "value": "含磁力的沙尘暴（内蕴风、土本源之力）",
         "docId": "plot.xianni-1922-first-old-acquaintance",
         "seq": 1829
+      },
+      {
+        "value": "无尽尘暴",
+        "docId": "plot.xianni-1923-meng-tu-zhou-di-men-xiangjian",
+        "seq": 1834
       }
     ],
     "危险度": [
@@ -142,9 +152,9 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-1922-first-old-acquaintance",
+      "docId": "plot.xianni-1923-meng-tu-zhou-di-men-xiangjian",
       "dated": false,
-      "seq": 1829
+      "seq": 1834
     },
     "危险度": {
       "asOf": null,
@@ -172,7 +182,8 @@
     "plot.xianni-ch1910-dao-mo-zong-jie",
     "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master",
     "lore.xianni-1917-xianzu-five-great-tianzun",
-    "plot.xianni-1922-first-old-acquaintance"
+    "plot.xianni-1922-first-old-acquaintance",
+    "plot.xianni-1923-meng-tu-zhou-di-men-xiangjian"
   ],
-  "updatedAt": "2026-08-30T17:05:19.429Z"
+  "updatedAt": "2026-08-30T17:07:06.017Z"
 }
