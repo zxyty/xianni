@@ -4,12 +4,14 @@
   "name": "大王朝国师",
   "aliases": [
     "国师",
-    "怨灵三弟子之师"
+    "怨灵三弟子之师",
+    "道古国师"
   ],
   "summary": "大王朝国师，数月前夜观天象称凶星出自西北，遂促成屠杀西北平民数十万，致西北尸骸遍地、怨气冲天。",
   "attributes": {
-    "身份": "大王朝国师",
-    "标志特征": "本章只闻其声未见其人"
+    "身份": "道古一脉国师",
+    "标志特征": "本章只闻其声未见其人",
+    "阵营": "道古一脉"
   },
   "observations": {
     "身份": [
@@ -17,6 +19,11 @@
         "value": "大王朝国师",
         "docId": "plot.xianni-ch894-da-wang-chao-grievance-qi",
         "seq": 834
+      },
+      {
+        "value": "道古一脉国师",
+        "docId": "plot.xianni-ch1795-huangzun-yinian-huogen-xian",
+        "seq": 1705
       }
     ],
     "标志特征": [
@@ -26,15 +33,22 @@
         "seq": 834,
         "note": "第895章"
       }
+    ],
+    "阵营": [
+      {
+        "value": "道古一脉",
+        "docId": "plot.xianni-ch1795-huangzun-yinian-huogen-xian",
+        "seq": 1705
+      }
     ]
   },
   "firstSeq": 834,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch894-da-wang-chao-grievance-qi",
+      "docId": "plot.xianni-ch1795-huangzun-yinian-huogen-xian",
       "dated": false,
-      "seq": 834
+      "seq": 1705
     },
     "标志特征": {
       "asOf": null,
@@ -42,13 +56,20 @@
       "dated": false,
       "seq": 834,
       "note": "第895章"
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1795-huangzun-yinian-huogen-xian",
+      "dated": false,
+      "seq": 1705
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch894-da-wang-chao-grievance-qi",
-    "plot.xianni-ch895-wanglin-nu-zhuque-wangchao-yuanling"
+    "plot.xianni-ch895-wanglin-nu-zhuque-wangchao-yuanling",
+    "plot.xianni-ch1795-huangzun-yinian-huogen-xian"
   ],
-  "updatedAt": "2026-08-23T18:08:37.477Z"
+  "updatedAt": "2026-08-30T08:24:56.412Z"
 }

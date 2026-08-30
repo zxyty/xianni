@@ -1,49 +1,23 @@
 {
-  "id": "ent.place.x-a7cf7660",
+  "id": "ent.place.x-7692df73",
   "type": "place",
-  "name": "道古皇宫",
+  "name": "道古浮空城池",
   "aliases": [
-    "道古皇尊皇宫",
-    "道古皇宫最高阁楼"
+    "漂浮在天地间的巨大城池"
   ],
-  "summary": "位于天空之城深处，极大且难见边缘，处处雕栏玉砌；东部行宫被皇尊怒气震塌，最高之塔为皇尊俯瞰之处。",
+  "summary": "道古一脉所在大片区域正中心、漂浮于天地间的巨大城池，内有道古皇宫。",
   "attributes": {
     "所属势力": "道古一脉",
-    "方位": "道古一脉区域正中心的浮空城池内",
-    "上级区域": "天空之城",
     "所属界面": "仙罡大陆",
-    "类型": "皇宫"
+    "类型": "浮空城池",
+    "方位": "道古一脉区域正中心"
   },
   "observations": {
     "所属势力": [
       {
-        "value": "道古皇尊",
-        "docId": "plot.xianni-ch1710-yi-lv-hun",
-        "seq": 1616
-      },
-      {
         "value": "道古一脉",
         "docId": "plot.xianni-ch1795-huangzun-yinian-huogen-xian",
         "seq": 1705
-      }
-    ],
-    "方位": [
-      {
-        "value": "天空之城深处",
-        "docId": "plot.xianni-ch1710-yi-lv-hun",
-        "seq": 1616
-      },
-      {
-        "value": "道古一脉区域正中心的浮空城池内",
-        "docId": "plot.xianni-ch1795-huangzun-yinian-huogen-xian",
-        "seq": 1705
-      }
-    ],
-    "上级区域": [
-      {
-        "value": "天空之城",
-        "docId": "plot.xianni-ch1710-yi-lv-hun",
-        "seq": 1616
       }
     ],
     "所属界面": [
@@ -55,31 +29,26 @@
     ],
     "类型": [
       {
-        "value": "皇宫",
+        "value": "浮空城池",
+        "docId": "plot.xianni-ch1795-huangzun-yinian-huogen-xian",
+        "seq": 1705
+      }
+    ],
+    "方位": [
+      {
+        "value": "道古一脉区域正中心",
         "docId": "plot.xianni-ch1795-huangzun-yinian-huogen-xian",
         "seq": 1705
       }
     ]
   },
-  "firstSeq": 1616,
+  "firstSeq": 1705,
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
       "docId": "plot.xianni-ch1795-huangzun-yinian-huogen-xian",
       "dated": false,
       "seq": 1705
-    },
-    "方位": {
-      "asOf": null,
-      "docId": "plot.xianni-ch1795-huangzun-yinian-huogen-xian",
-      "dated": false,
-      "seq": 1705
-    },
-    "上级区域": {
-      "asOf": null,
-      "docId": "plot.xianni-ch1710-yi-lv-hun",
-      "dated": false,
-      "seq": 1616
     },
     "所属界面": {
       "asOf": null,
@@ -92,13 +61,18 @@
       "docId": "plot.xianni-ch1795-huangzun-yinian-huogen-xian",
       "dated": false,
       "seq": 1705
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1795-huangzun-yinian-huogen-xian",
+      "dated": false,
+      "seq": 1705
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1710-yi-lv-hun",
     "plot.xianni-ch1795-huangzun-yinian-huogen-xian"
   ],
-  "updatedAt": "2026-08-30T08:24:56.426Z"
+  "updatedAt": "2026-08-30T08:24:56.427Z"
 }

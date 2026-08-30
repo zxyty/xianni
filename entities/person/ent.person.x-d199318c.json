@@ -3,13 +3,14 @@
   "type": "person",
   "name": "烨道",
   "aliases": [
-    "卑职烨道"
+    "卑职烨道",
+    "黑雾笼罩的男子"
   ],
   "summary": "道古皇尊麾下黑袍老者，奉命查找红珠中女魂对应之人，查遍吉国无果后派人往仙族，并转述国师闭关前的双画面预言。",
   "attributes": {
-    "身份": "道古皇尊属下",
-    "外貌": "身穿黑袍的老者",
-    "阵营": "道古皇尊一系"
+    "身份": "道古皇尊麾下执命者",
+    "外貌": "被黑雾笼罩的男子",
+    "阵营": "道古一脉"
   },
   "observations": {
     "身份": [
@@ -17,6 +18,11 @@
         "value": "道古皇尊属下",
         "docId": "plot.xianni-ch1710-yi-lv-hun",
         "seq": 1616
+      },
+      {
+        "value": "道古皇尊麾下执命者",
+        "docId": "plot.xianni-ch1795-huangzun-yinian-huogen-xian",
+        "seq": 1705
       }
     ],
     "外貌": [
@@ -24,6 +30,11 @@
         "value": "身穿黑袍的老者",
         "docId": "plot.xianni-ch1710-yi-lv-hun",
         "seq": 1616
+      },
+      {
+        "value": "被黑雾笼罩的男子",
+        "docId": "plot.xianni-ch1795-huangzun-yinian-huogen-xian",
+        "seq": 1705
       }
     ],
     "阵营": [
@@ -31,6 +42,11 @@
         "value": "道古皇尊一系",
         "docId": "plot.xianni-ch1710-yi-lv-hun",
         "seq": 1616
+      },
+      {
+        "value": "道古一脉",
+        "docId": "plot.xianni-ch1795-huangzun-yinian-huogen-xian",
+        "seq": 1705
       }
     ]
   },
@@ -38,27 +54,28 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1710-yi-lv-hun",
+      "docId": "plot.xianni-ch1795-huangzun-yinian-huogen-xian",
       "dated": false,
-      "seq": 1616
+      "seq": 1705
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch1710-yi-lv-hun",
+      "docId": "plot.xianni-ch1795-huangzun-yinian-huogen-xian",
       "dated": false,
-      "seq": 1616
+      "seq": 1705
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch1710-yi-lv-hun",
+      "docId": "plot.xianni-ch1795-huangzun-yinian-huogen-xian",
       "dated": false,
-      "seq": 1616
+      "seq": 1705
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1710-yi-lv-hun"
+    "plot.xianni-ch1710-yi-lv-hun",
+    "plot.xianni-ch1795-huangzun-yinian-huogen-xian"
   ],
-  "updatedAt": "2026-08-30T03:17:58.714Z"
+  "updatedAt": "2026-08-30T08:24:56.411Z"
 }
