@@ -6,15 +6,18 @@
     "山海",
     "山海洲大陆",
     "内陆海山海",
-    "山海之地"
+    "山海之地",
+    "山海海域",
+    "山海洲（七十二洲之一）"
   ],
   "summary": "南州辖下之洲，王林在此败于海子天尊并潜伏三年；其底部封印着山海树，整洲封印皆赖此树。",
   "attributes": {
-    "上级区域": "南州、山海洲",
-    "类型": "洲、内陆海、地域",
-    "守护": "海子天尊",
-    "特产": "山海树木本源、海底山海树、山海树",
-    "规模": "山海占近七成、陆地三成"
+    "上级区域": "南州、山海洲、仙族大地七十二洲",
+    "类型": "洲、内陆海、地域、海域",
+    "守护": "海子天尊及其章鱼海兽",
+    "特产": "山海树木本源、海底山海树、山海树、山海树灵",
+    "规模": "山海占近七成、陆地三成",
+    "所属势力": "海子天尊"
   },
   "observations": {
     "上级区域": [
@@ -27,6 +30,11 @@
         "value": "山海洲",
         "docId": "plot.xianni-ch1927-tianzun-nie-di-first-palace",
         "seq": 1834
+      },
+      {
+        "value": "仙族大地七十二洲",
+        "docId": "plot.xianni-1929-haizi-tianzun-shanhai-shuling",
+        "seq": 1839
       }
     ],
     "类型": [
@@ -44,6 +52,11 @@
         "value": "地域",
         "docId": "plot.xianni-1928-tianzun-nie-zhi-di-chuang-si-ceng",
         "seq": 1839
+      },
+      {
+        "value": "海域",
+        "docId": "plot.xianni-1929-haizi-tianzun-shanhai-shuling",
+        "seq": 1839
       }
     ],
     "守护": [
@@ -51,6 +64,11 @@
         "value": "海子天尊",
         "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
         "seq": 1834
+      },
+      {
+        "value": "海子天尊及其章鱼海兽",
+        "docId": "plot.xianni-1929-haizi-tianzun-shanhai-shuling",
+        "seq": 1839
       }
     ],
     "特产": [
@@ -68,6 +86,11 @@
         "value": "山海树",
         "docId": "plot.xianni-1928-tianzun-nie-zhi-di-chuang-si-ceng",
         "seq": 1839
+      },
+      {
+        "value": "山海树灵",
+        "docId": "plot.xianni-1929-haizi-tianzun-shanhai-shuling",
+        "seq": 1839
       }
     ],
     "规模": [
@@ -75,6 +98,14 @@
         "value": "山海占近七成、陆地三成",
         "docId": "plot.xianni-ch1927-tianzun-nie-di-first-palace",
         "seq": 1834
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "海子天尊",
+        "docId": "plot.xianni-1929-haizi-tianzun-shanhai-shuling",
+        "seq": 1839,
+        "note": "占据为洞府"
       }
     ]
   },
@@ -94,9 +125,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
+      "docId": "plot.xianni-1929-haizi-tianzun-shanhai-shuling",
       "dated": false,
-      "seq": 1834
+      "seq": 1839
     },
     "特产": {
       "asOf": null,
@@ -109,6 +140,13 @@
       "docId": "plot.xianni-ch1927-tianzun-nie-di-first-palace",
       "dated": false,
       "seq": 1834
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-1929-haizi-tianzun-shanhai-shuling",
+      "dated": false,
+      "seq": 1839,
+      "note": "占据为洞府"
     }
   },
   "contested": false,
@@ -116,7 +154,8 @@
   "docs": [
     "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
     "plot.xianni-ch1927-tianzun-nie-di-first-palace",
-    "plot.xianni-1928-tianzun-nie-zhi-di-chuang-si-ceng"
+    "plot.xianni-1928-tianzun-nie-zhi-di-chuang-si-ceng",
+    "plot.xianni-1929-haizi-tianzun-shanhai-shuling"
   ],
-  "updatedAt": "2026-08-30T17:18:11.324Z"
+  "updatedAt": "2026-08-30T17:20:20.180Z"
 }
