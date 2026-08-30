@@ -1,40 +1,41 @@
 {
-  "id": "ent.beast.x-55035e2e",
-  "type": "beast",
-  "name": "火焰巨人",
+  "id": "ent.person.x-6adc2b38",
+  "type": "person",
+  "name": "净涅中期老者",
   "aliases": [
-    "五行火阵火焰巨人"
+    "带头控诉的老者",
+    "归一宗净涅中期老者"
   ],
-  "summary": "助朱雀圣宗六老围攻古魔塔珈的火焰巨人，即便加入仍节节败退。",
+  "summary": "归一宗修士，在塔外带头声讨王林、煽动同门围攻。",
   "attributes": {
-    "栖息地": "五行火阵",
-    "外形": "火焰之躯、头顶为火焰头发"
+    "小阶段": "净涅中期",
+    "身份": "归一宗修士"
   },
   "observations": {
-    "栖息地": [
+    "小阶段": [
       {
-        "value": "五行火阵",
+        "value": "净涅中期",
         "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
         "seq": 1641
       }
     ],
-    "外形": [
+    "身份": [
       {
-        "value": "火焰之躯、头顶为火焰头发",
+        "value": "归一宗修士",
         "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
         "seq": 1641
       }
     ]
   },
-  "firstSeq": 997,
+  "firstSeq": 1641,
   "attrProvenance": {
-    "栖息地": {
+    "小阶段": {
       "asOf": null,
       "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
       "dated": false,
       "seq": 1641
     },
-    "外形": {
+    "身份": {
       "asOf": null,
       "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
       "dated": false,
@@ -44,8 +45,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1077-master-disciple-battle",
     "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin"
   ],
-  "updatedAt": "2026-08-30T04:10:56.339Z"
+  "updatedAt": "2026-08-30T04:10:56.333Z"
 }

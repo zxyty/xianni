@@ -1052,3 +1052,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T04:03:45.409Z** `ingest` plot.xianni-1729-wuxing-star-guiyi-zong — 第1729章 五行星：王林赴纳多千年之约，硬闯五行归一大阵 · kind=plot asOf=2026-08-30 entities=26 relations=33 src=01636-01640.p4.md
 - **2026-08-30T04:06:08.566Z** `ingest` plot.xianni-ch1730-earth-origin-wuxing-star-formation — 第1730章 大地本源！——王林闯五行星大阵、收走大地土灵 · kind=plot asOf=2026-08-30 entities=22 relations=31 src=01636-01640.p5.md
 - **2026-08-30T04:08:31.848Z** `ingest` plot.xianni-ch1731-junhuo-rujia-five-element-fire-array — 《仙逆》第1731章 君火如家！——王林收土灵、五行火灵跪拜 · kind=plot asOf=2026-08-30 entities=26 relations=36 src=01641-01645.p1.md
+- **2026-08-30T04:10:56.778Z** `ingest` plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin — 第1732章 原来他叫王林！——破五行火阵、五仙水将折戟、玄罗大天尊记住王林之名 · kind=plot asOf=2026-08-30 entities=24 relations=33 src=01641-01645.p2.md

@@ -1,45 +1,52 @@
 {
-  "id": "ent.formation.x-44444541",
-  "type": "formation",
-  "name": "五行水阵",
+  "id": "ent.event.x-dfee52b1",
+  "type": "event",
+  "name": "王林破五行火阵",
   "aliases": [
-    "水阵",
-    "归一宗五行水阵"
+    "火阵崩溃"
   ],
-  "summary": "五行大阵中的水属分阵，为王林闯阵的下一阵；披先祖战甲的中年男子先行赴此欲逼其出阵。",
+  "summary": "王林立于火焰巨人头顶一指前方，巨人与九头麒麟咆哮出击，一挥之下五行火阵世界轰然崩溃。",
   "attributes": {
-    "出处": "归一宗",
-    "效果": "凝聚万丈海墙困敌、暴雨凝成雨水长枪、阵灵在则威力倍增",
-    "布置者": "归一宗"
+    "章节": "第1732章",
+    "地点": "五行火阵",
+    "参与方": "王林、火焰巨人、九头麒麟",
+    "结果": "五行火阵崩溃，王林进入五行水阵"
   },
   "observations": {
-    "出处": [
+    "章节": [
       {
-        "value": "归一宗",
+        "value": "第1732章",
         "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
         "seq": 1641
       }
     ],
-    "效果": [
+    "地点": [
       {
-        "value": "凝聚万丈海墙困敌",
-        "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
-        "seq": 1641
-      },
-      {
-        "value": "暴雨凝成雨水长枪",
-        "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
-        "seq": 1641
-      },
-      {
-        "value": "阵灵在则威力倍增",
+        "value": "五行火阵",
         "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
         "seq": 1641
       }
     ],
-    "布置者": [
+    "参与方": [
       {
-        "value": "归一宗",
+        "value": "王林",
+        "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
+        "seq": 1641
+      },
+      {
+        "value": "火焰巨人",
+        "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
+        "seq": 1641
+      },
+      {
+        "value": "九头麒麟",
+        "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
+        "seq": 1641
+      }
+    ],
+    "结果": [
+      {
+        "value": "五行火阵崩溃，王林进入五行水阵",
         "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
         "seq": 1641
       }
@@ -47,19 +54,25 @@
   },
   "firstSeq": 1641,
   "attrProvenance": {
-    "出处": {
+    "章节": {
       "asOf": null,
       "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
       "dated": false,
       "seq": 1641
     },
-    "效果": {
+    "地点": {
       "asOf": null,
       "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
       "dated": false,
       "seq": 1641
     },
-    "布置者": {
+    "参与方": {
+      "asOf": null,
+      "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
+      "dated": false,
+      "seq": 1641
+    },
+    "结果": {
       "asOf": null,
       "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
       "dated": false,
@@ -69,8 +82,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array",
     "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin"
   ],
-  "updatedAt": "2026-08-30T04:10:56.336Z"
+  "updatedAt": "2026-08-30T04:10:56.350Z"
 }

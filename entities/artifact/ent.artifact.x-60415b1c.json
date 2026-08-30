@@ -1,45 +1,35 @@
 {
-  "id": "ent.formation.x-44444541",
-  "type": "formation",
-  "name": "五行水阵",
+  "id": "ent.artifact.x-60415b1c",
+  "type": "artifact",
+  "name": "蓝色长枪",
   "aliases": [
-    "水阵",
-    "归一宗五行水阵"
+    "水蓝色长枪",
+    "水将长枪"
   ],
-  "summary": "五行大阵中的水属分阵，为王林闯阵的下一阵；披先祖战甲的中年男子先行赴此欲逼其出阵。",
+  "summary": "五仙水将所持兵器，出手时身随枪走化作水蓝长虹，并可由暴雨在身后幻化出一把雨水长枪同击。",
   "attributes": {
-    "出处": "归一宗",
-    "效果": "凝聚万丈海墙困敌、暴雨凝成雨水长枪、阵灵在则威力倍增",
-    "布置者": "归一宗"
+    "持有者": "五仙水将",
+    "五行属性": "水",
+    "外形": "水蓝色长枪"
   },
   "observations": {
-    "出处": [
+    "持有者": [
       {
-        "value": "归一宗",
+        "value": "五仙水将",
         "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
         "seq": 1641
       }
     ],
-    "效果": [
+    "五行属性": [
       {
-        "value": "凝聚万丈海墙困敌",
-        "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
-        "seq": 1641
-      },
-      {
-        "value": "暴雨凝成雨水长枪",
-        "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
-        "seq": 1641
-      },
-      {
-        "value": "阵灵在则威力倍增",
+        "value": "水",
         "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
         "seq": 1641
       }
     ],
-    "布置者": [
+    "外形": [
       {
-        "value": "归一宗",
+        "value": "水蓝色长枪",
         "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
         "seq": 1641
       }
@@ -47,19 +37,19 @@
   },
   "firstSeq": 1641,
   "attrProvenance": {
-    "出处": {
+    "持有者": {
       "asOf": null,
       "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
       "dated": false,
       "seq": 1641
     },
-    "效果": {
+    "五行属性": {
       "asOf": null,
       "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
       "dated": false,
       "seq": 1641
     },
-    "布置者": {
+    "外形": {
       "asOf": null,
       "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
       "dated": false,
@@ -69,8 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array",
     "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin"
   ],
-  "updatedAt": "2026-08-30T04:10:56.336Z"
+  "updatedAt": "2026-08-30T04:10:56.338Z"
 }

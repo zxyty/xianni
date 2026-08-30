@@ -1,40 +1,40 @@
 {
-  "id": "ent.beast.x-55035e2e",
-  "type": "beast",
-  "name": "火焰巨人",
+  "id": "ent.item.x-8d2ecaba",
+  "type": "item",
+  "name": "五行二灵",
   "aliases": [
-    "五行火阵火焰巨人"
+    "归一宗五行二灵"
   ],
-  "summary": "助朱雀圣宗六老围攻古魔塔珈的火焰巨人，即便加入仍节节败退。",
+  "summary": "归一宗所有、被王林在闯阵中夺走的两道五行之灵，是归一宗指控他“抢夺”的直接由头。",
   "attributes": {
-    "栖息地": "五行火阵",
-    "外形": "火焰之躯、头顶为火焰头发"
+    "类型": "五行之灵",
+    "产地": "归一宗五行阵"
   },
   "observations": {
-    "栖息地": [
+    "类型": [
       {
-        "value": "五行火阵",
+        "value": "五行之灵",
         "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
         "seq": 1641
       }
     ],
-    "外形": [
+    "产地": [
       {
-        "value": "火焰之躯、头顶为火焰头发",
+        "value": "归一宗五行阵",
         "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
         "seq": 1641
       }
     ]
   },
-  "firstSeq": 997,
+  "firstSeq": 1641,
   "attrProvenance": {
-    "栖息地": {
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
       "dated": false,
       "seq": 1641
     },
-    "外形": {
+    "产地": {
       "asOf": null,
       "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
       "dated": false,
@@ -44,8 +44,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1077-master-disciple-battle",
     "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin"
   ],
-  "updatedAt": "2026-08-30T04:10:56.339Z"
+  "updatedAt": "2026-08-30T04:10:56.350Z"
 }

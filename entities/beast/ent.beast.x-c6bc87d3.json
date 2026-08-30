@@ -1,14 +1,15 @@
 {
-  "id": "ent.beast.x-55035e2e",
+  "id": "ent.beast.x-c6bc87d3",
   "type": "beast",
-  "name": "火焰巨人",
+  "name": "九头麒麟",
   "aliases": [
-    "五行火阵火焰巨人"
+    "九头麒麟群",
+    "火阵麒麟"
   ],
-  "summary": "助朱雀圣宗六老围攻古魔塔珈的火焰巨人，即便加入仍节节败退。",
+  "summary": "五行火阵中匍匐的九头麒麟，随王林所指而咆哮出击，入水阵后迎击水将长枪即被海浪淹没。",
   "attributes": {
     "栖息地": "五行火阵",
-    "外形": "火焰之躯、头顶为火焰头发"
+    "天敌": "水"
   },
   "observations": {
     "栖息地": [
@@ -18,15 +19,16 @@
         "seq": 1641
       }
     ],
-    "外形": [
+    "天敌": [
       {
-        "value": "火焰之躯、头顶为火焰头发",
+        "value": "水",
         "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
-        "seq": 1641
+        "seq": 1641,
+        "note": "五行水火相克"
       }
     ]
   },
-  "firstSeq": 997,
+  "firstSeq": 1641,
   "attrProvenance": {
     "栖息地": {
       "asOf": null,
@@ -34,17 +36,17 @@
       "dated": false,
       "seq": 1641
     },
-    "外形": {
+    "天敌": {
       "asOf": null,
       "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
       "dated": false,
-      "seq": 1641
+      "seq": 1641,
+      "note": "五行水火相克"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1077-master-disciple-battle",
     "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin"
   ],
   "updatedAt": "2026-08-30T04:10:56.339Z"

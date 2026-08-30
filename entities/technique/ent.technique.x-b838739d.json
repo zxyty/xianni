@@ -1,40 +1,40 @@
 {
-  "id": "ent.beast.x-55035e2e",
-  "type": "beast",
-  "name": "火焰巨人",
+  "id": "ent.technique.x-b838739d",
+  "type": "technique",
+  "name": "铠甲之道",
   "aliases": [
-    "五行火阵火焰巨人"
+    "归一宗铠甲之道"
   ],
-  "summary": "助朱雀圣宗六老围攻古魔塔珈的火焰巨人，即便加入仍节节败退。",
+  "summary": "归一宗的传承之道，在仙族亦颇有名气；所炼铠甲可越阶赋力，但会反控穿戴者。",
   "attributes": {
-    "栖息地": "五行火阵",
-    "外形": "火焰之躯、头顶为火焰头发"
+    "出处": "归一宗",
+    "效果": "赋予穿戴者越阶之力，代价为铠甲操控其人"
   },
   "observations": {
-    "栖息地": [
+    "出处": [
       {
-        "value": "五行火阵",
+        "value": "归一宗",
         "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
         "seq": 1641
       }
     ],
-    "外形": [
+    "效果": [
       {
-        "value": "火焰之躯、头顶为火焰头发",
+        "value": "赋予穿戴者越阶之力，代价为铠甲操控其人",
         "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
         "seq": 1641
       }
     ]
   },
-  "firstSeq": 997,
+  "firstSeq": 1641,
   "attrProvenance": {
-    "栖息地": {
+    "出处": {
       "asOf": null,
       "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
       "dated": false,
       "seq": 1641
     },
-    "外形": {
+    "效果": {
       "asOf": null,
       "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
       "dated": false,
@@ -44,8 +44,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1077-master-disciple-battle",
     "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin"
   ],
-  "updatedAt": "2026-08-30T04:10:56.339Z"
+  "updatedAt": "2026-08-30T04:10:56.348Z"
 }

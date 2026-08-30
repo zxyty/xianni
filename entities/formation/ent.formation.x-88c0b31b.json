@@ -3,12 +3,14 @@
   "type": "formation",
   "name": "五行火阵",
   "aliases": [
-    "火阵"
+    "火阵",
+    "归一宗五行火阵"
   ],
   "summary": "五行大阵中的火属分阵，天地皆燃、高温扭曲，火焰足以焚烧修士身躯与元神；本章火灵反向王林跪拜。",
   "attributes": {
-    "效果": "焚烧身躯与元神、幻化九头火焰麒麟、凝聚人形火焰巨人",
-    "破解法": "王林以火之大成本源令火灵臣服"
+    "效果": "焚烧身躯与元神、幻化九头火焰麒麟、凝聚人形火焰巨人、自成一方火焰世界，内有火焰巨人与九头麒麟",
+    "破解法": "王林以火之大成本源令火灵臣服、掌控火焰本源、驱使巨人自毁其界",
+    "出处": "归一宗"
   },
   "observations": {
     "效果": [
@@ -26,12 +28,30 @@
         "value": "凝聚人形火焰巨人",
         "docId": "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array",
         "seq": 1641
+      },
+      {
+        "value": "自成一方火焰世界，内有火焰巨人与九头麒麟",
+        "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
+        "seq": 1641
       }
     ],
     "破解法": [
       {
         "value": "王林以火之大成本源令火灵臣服",
         "docId": "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array",
+        "seq": 1641
+      },
+      {
+        "value": "掌控火焰本源、驱使巨人自毁其界",
+        "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
+        "seq": 1641,
+        "note": "本章王林所为"
+      }
+    ],
+    "出处": [
+      {
+        "value": "归一宗",
+        "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
         "seq": 1641
       }
     ]
@@ -49,12 +69,19 @@
       "docId": "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array",
       "dated": false,
       "seq": 1641
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
+      "dated": false,
+      "seq": 1641
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array"
+    "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array",
+    "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin"
   ],
-  "updatedAt": "2026-08-30T04:08:31.417Z"
+  "updatedAt": "2026-08-30T04:10:56.336Z"
 }
