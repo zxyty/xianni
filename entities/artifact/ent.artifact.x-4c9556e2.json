@@ -4,13 +4,15 @@
   "name": "虚幻罗盘",
   "aliases": [
     "七层之上的罗盘",
-    "阵法罗盘"
+    "阵法罗盘",
+    "绿魔洲虚幻罗盘"
   ],
   "summary": "悬于七层雾气之上、缓慢旋转并散发威压的虚幻罗盘，非真物，其上一缕气息连向丹海深处的阵法中枢。",
   "attributes": {
-    "能力": "与七层雾气融合，散发威压",
-    "外形": "虚幻缓慢旋转的罗盘",
-    "禁制": "为丹海七层禁制大阵的显化部分"
+    "能力": "显示王林禁制罗盘位置并遥遥指引方位",
+    "外形": "虚幻漂浮之罗盘",
+    "禁制": "为丹海七层禁制大阵的显化部分",
+    "持有者": "持虚幻罗盘的空劫初期女修"
   },
   "observations": {
     "能力": [
@@ -18,6 +20,11 @@
         "value": "与七层雾气融合，散发威压",
         "docId": "plot.xianni-ch1846-first-meeting-yunkong-danhai-seven-layer-array",
         "seq": 1755
+      },
+      {
+        "value": "显示王林禁制罗盘位置并遥遥指引方位",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770
       }
     ],
     "外形": [
@@ -25,6 +32,11 @@
         "value": "虚幻缓慢旋转的罗盘",
         "docId": "plot.xianni-ch1846-first-meeting-yunkong-danhai-seven-layer-array",
         "seq": 1755
+      },
+      {
+        "value": "虚幻漂浮之罗盘",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770
       }
     ],
     "禁制": [
@@ -33,33 +45,47 @@
         "docId": "plot.xianni-ch1846-first-meeting-yunkong-danhai-seven-layer-array",
         "seq": 1755
       }
+    ],
+    "持有者": [
+      {
+        "value": "持虚幻罗盘的空劫初期女修",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770
+      }
     ]
   },
   "firstSeq": 1755,
   "attrProvenance": {
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-ch1846-first-meeting-yunkong-danhai-seven-layer-array",
+      "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
       "dated": false,
-      "seq": 1755
+      "seq": 1770
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch1846-first-meeting-yunkong-danhai-seven-layer-array",
+      "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
       "dated": false,
-      "seq": 1755
+      "seq": 1770
     },
     "禁制": {
       "asOf": null,
       "docId": "plot.xianni-ch1846-first-meeting-yunkong-danhai-seven-layer-array",
       "dated": false,
       "seq": 1755
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+      "dated": false,
+      "seq": 1770
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1846-first-meeting-yunkong-danhai-seven-layer-array"
+    "plot.xianni-ch1846-first-meeting-yunkong-danhai-seven-layer-array",
+    "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie"
   ],
-  "updatedAt": "2026-08-30T11:32:29.657Z"
+  "updatedAt": "2026-08-30T12:50:55.807Z"
 }

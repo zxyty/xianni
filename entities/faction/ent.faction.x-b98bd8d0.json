@@ -3,11 +3,15 @@
   "type": "faction",
   "name": "道魔宗",
   "aliases": [
-    "绿魔洲道魔宗"
+    "绿魔洲道魔宗",
+    "道魔宗一方"
   ],
   "summary": "绿魔洲联合三宗之一，面白如玉的青年出自此宗，自言要展示「道魔宗的魔道」。",
   "attributes": {
-    "阵营": "绿魔洲"
+    "阵营": "绿魔洲",
+    "掌门": "道魔宗宗主",
+    "据点": "天坑（五个天坑之一，宗门修行地）",
+    "理念": "以重利招揽散修参战"
   },
   "observations": {
     "阵营": [
@@ -15,6 +19,27 @@
         "value": "绿魔洲",
         "docId": "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
         "seq": 1750
+      }
+    ],
+    "掌门": [
+      {
+        "value": "道魔宗宗主",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770
+      }
+    ],
+    "据点": [
+      {
+        "value": "天坑（五个天坑之一，宗门修行地）",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770
+      }
+    ],
+    "理念": [
+      {
+        "value": "以重利招揽散修参战",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770
       }
     ]
   },
@@ -25,13 +50,32 @@
       "docId": "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
       "dated": false,
       "seq": 1750
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+      "dated": false,
+      "seq": 1770
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+      "dated": false,
+      "seq": 1770
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+      "dated": false,
+      "seq": 1770
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
-    "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave"
+    "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+    "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie"
   ],
-  "updatedAt": "2026-08-30T12:32:04.647Z"
+  "updatedAt": "2026-08-30T12:50:55.871Z"
 }

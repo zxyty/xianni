@@ -1153,3 +1153,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T11:47:13.878Z** `ingest` plot.xianni-ch1852-wang-lin-guess-da-hun-men-war — 仙逆·第1852章 猜测！——王林归山门，索取藏魂阁第九层多重幻术 · kind=plot asOf=2026-08-30 entities=23 relations=28 src=01760-01764.p4.md
 - **2026-08-30T11:49:35.727Z** `ingest` plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan — 仙逆第1853章 闹鬼：王林换取完整多重幻术，悟出幻术源于死魂意志 · kind=plot asOf=2026-08-30 entities=25 relations=34 src=01760-01764.p5.md
 - **2026-08-30T12:32:05.153Z** `ingest` plot.xianni-1765-1769-lv-wenran-tianniu-third-cave — 仙逆 第1765-1769章：吕文冉与天牛第三穴 · kind=plot asOf=2026-08-30 entities=80 relations=155 src=01765-01769.md
+- **2026-08-30T12:50:56.465Z** `ingest` plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie — 《仙逆》第1770-1774章 王林斩杀空劫刘之源，绿魔洲锁定「王林」 · kind=plot asOf=2026-08-30 entities=68 relations=130 src=01770-01774.md

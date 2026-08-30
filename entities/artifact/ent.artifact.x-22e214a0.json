@@ -6,8 +6,8 @@
   "summary": "王林所持的玄妙法宝，可散布禁制于极天草原并在盘面地图上以白绿光点显示战场一切变化，连吕文冉也察觉不到。",
   "attributes": {
     "持有者": "王林",
-    "能力": "散布禁制、显示战场地图与光点动向",
-    "禁制": "散出后修为最高者亦无察觉"
+    "能力": "散布禁制、显示战场地图与光点动向、显示四周修士方位（绿色光点）、融入身体后仍能感知敌踪",
+    "禁制": "其位置可被绿魔洲的虚幻罗盘遥遥锁定"
   },
   "observations": {
     "持有者": [
@@ -27,6 +27,16 @@
         "value": "显示战场地图与光点动向",
         "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
         "seq": 1765
+      },
+      {
+        "value": "显示四周修士方位（绿色光点）",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770
+      },
+      {
+        "value": "融入身体后仍能感知敌踪",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770
       }
     ],
     "禁制": [
@@ -34,6 +44,11 @@
         "value": "散出后修为最高者亦无察觉",
         "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
         "seq": 1765
+      },
+      {
+        "value": "其位置可被绿魔洲的虚幻罗盘遥遥锁定",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770
       }
     ]
   },
@@ -53,15 +68,16 @@
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+      "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
       "dated": false,
-      "seq": 1765
+      "seq": 1770
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave"
+    "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+    "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie"
   ],
-  "updatedAt": "2026-08-30T12:32:04.598Z"
+  "updatedAt": "2026-08-30T12:50:55.806Z"
 }

@@ -3,11 +3,16 @@
   "type": "person",
   "name": "周姓老者",
   "aliases": [
-    "天牛第三穴地宫周姓老者"
+    "天牛第三穴地宫周姓老者",
+    "周姓长老",
+    "地宫三老者之周姓者"
   ],
   "summary": "驻守天牛第三穴地宫的老者，与吕文冉相识千年，修为隐隐是玄劫六七次，与杜青相差不多。",
   "attributes": {
-    "身份": "天牛第三穴地宫驻守修士"
+    "身份": "天牛第三穴地宫驻守修士、地宫巡逻指派负责人（三老者之一）、受王林惩戒者",
+    "性别": "男",
+    "性格": "擅长察言观色、势利轻蔑、怯懦、苦涩无奈",
+    "外貌": "老者"
   },
   "observations": {
     "身份": [
@@ -15,6 +20,42 @@
         "value": "天牛第三穴地宫驻守修士",
         "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
         "seq": 1765
+      },
+      {
+        "value": "地宫巡逻指派负责人（三老者之一）",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770
+      },
+      {
+        "value": "受王林惩戒者",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770
+      }
+    ],
+    "性格": [
+      {
+        "value": "擅长察言观色、势利轻蔑",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770
+      },
+      {
+        "value": "怯懦、苦涩无奈",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770
+      }
+    ],
+    "外貌": [
+      {
+        "value": "老者",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770
       }
     ]
   },
@@ -25,12 +66,31 @@
       "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
       "dated": false,
       "seq": 1765
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+      "dated": false,
+      "seq": 1770
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+      "dated": false,
+      "seq": 1770
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+      "dated": false,
+      "seq": 1770
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave"
+    "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+    "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie"
   ],
-  "updatedAt": "2026-08-30T12:32:04.437Z"
+  "updatedAt": "2026-08-30T12:50:55.786Z"
 }

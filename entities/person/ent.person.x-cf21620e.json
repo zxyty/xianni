@@ -3,13 +3,17 @@
   "type": "person",
   "name": "张姓老者",
   "aliases": [
-    "绿魔洲张姓空劫中期老者"
+    "绿魔洲张姓空劫中期老者",
+    "绿魔洲张姓老者",
+    "张长老",
+    "空劫中期张姓老者"
   ],
   "summary": "绿魔洲某魔门空劫中期老者，来袭万人中最强二人之一，与赵姓老者联手掐诀化出万丈云气巨人，后与吕文冉交战。",
   "attributes": {
     "身份": "绿魔洲魔门空劫中期修士",
-    "性格": "从容含笑，视入侵如游戏",
-    "外貌": "衣着华贵之老者"
+    "性格": "阴沉、震怒中带心悸",
+    "外貌": "老者",
+    "阵营": "绿魔洲"
   },
   "observations": {
     "身份": [
@@ -24,6 +28,11 @@
         "value": "从容含笑，视入侵如游戏",
         "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
         "seq": 1765
+      },
+      {
+        "value": "阴沉、震怒中带心悸",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770
       }
     ],
     "外貌": [
@@ -31,6 +40,18 @@
         "value": "衣着华贵之老者",
         "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
         "seq": 1765
+      },
+      {
+        "value": "老者",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770
+      }
+    ],
+    "阵营": [
+      {
+        "value": "绿魔洲",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770
       }
     ]
   },
@@ -44,21 +65,28 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+      "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
       "dated": false,
-      "seq": 1765
+      "seq": 1770
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+      "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
       "dated": false,
-      "seq": 1765
+      "seq": 1770
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+      "dated": false,
+      "seq": 1770
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave"
+    "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+    "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie"
   ],
-  "updatedAt": "2026-08-30T12:32:04.571Z"
+  "updatedAt": "2026-08-30T12:50:55.792Z"
 }

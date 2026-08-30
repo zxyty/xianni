@@ -3,12 +3,15 @@
   "type": "person",
   "name": "赵姓老者",
   "aliases": [
-    "绿魔洲赵姓空劫中期老者"
+    "绿魔洲赵姓空劫中期老者",
+    "绿魔洲赵姓老者",
+    "空劫中期赵姓老者"
   ],
   "summary": "绿魔洲另一魔门空劫中期老者，欲与张姓老者同战吕文冉一举将其重创，被炎栾、许东德等三人合力阻挡牵制。",
   "attributes": {
-    "身份": "绿魔洲魔门空劫中期修士",
-    "外貌": "衣着华贵之老者"
+    "身份": "禁魔宗修士",
+    "外貌": "老者",
+    "阵营": "绿魔洲"
   },
   "observations": {
     "身份": [
@@ -16,6 +19,11 @@
         "value": "绿魔洲魔门空劫中期修士",
         "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
         "seq": 1765
+      },
+      {
+        "value": "禁魔宗修士",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770
       }
     ],
     "外貌": [
@@ -23,6 +31,18 @@
         "value": "衣着华贵之老者",
         "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
         "seq": 1765
+      },
+      {
+        "value": "老者",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770
+      }
+    ],
+    "阵营": [
+      {
+        "value": "绿魔洲",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770
       }
     ]
   },
@@ -30,21 +50,28 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+      "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
       "dated": false,
-      "seq": 1765
+      "seq": 1770
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+      "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
       "dated": false,
-      "seq": 1765
+      "seq": 1770
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+      "dated": false,
+      "seq": 1770
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave"
+    "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+    "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie"
   ],
-  "updatedAt": "2026-08-30T12:32:04.573Z"
+  "updatedAt": "2026-08-30T12:50:55.794Z"
 }

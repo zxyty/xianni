@@ -7,19 +7,20 @@
     "极夭草原（原文误写）",
     "极天草原禁地",
     "极天草原战场",
-    "极天大草原"
+    "极天大草原",
+    "极天草原大地"
   ],
   "summary": "天牛洲罕见的无尽草原，位于大魂门十万里外；青草弥漫透出仙气，地底深处遍布洞府，聚居大量散修。自此再行六个月路程可达与绿魔洲相连的内陆海。",
   "attributes": {
     "所属界面": "仙罡大陆、天牛洲、仙罡大陆·天牛洲",
     "上级区域": "天牛洲",
-    "类型": "草原、草原·大阵战场、战场／草原",
+    "类型": "草原、草原·大阵战场、战场／草原、草原战场、草原/战场",
     "方位": "大魂门十万里外、天牛洲地表最低处、最接近地心",
-    "特产": "透出仙气的青草、接近地心的特殊地气、吸收仙力并阻隔神识的雾气",
+    "特产": "透出仙气的青草、接近地心的特殊地气、吸收仙力并阻隔神识的雾气、无数青草",
     "规模": "无尽/一眼难望尽头",
-    "守护": "万里磅礴气墙禁制、天牛七穴阵法与雾气",
-    "所属势力": "大魂门",
-    "危险度": "极高（空劫初期群战引动天地轰鸣）"
+    "守护": "万里磅礴气墙禁制、天牛七穴阵法与雾气、天牛雾气阵法",
+    "所属势力": "天牛洲",
+    "危险度": "极高（空劫初期群战引动天地轰鸣）、两洲交战前线、高（绿魔洲近百修士合围）"
   },
   "observations": {
     "所属界面": [
@@ -61,6 +62,16 @@
         "value": "战场／草原",
         "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
         "seq": 1765
+      },
+      {
+        "value": "草原战场",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770
+      },
+      {
+        "value": "草原/战场",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770
       }
     ],
     "方位": [
@@ -90,6 +101,11 @@
         "value": "吸收仙力并阻隔神识的雾气",
         "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
         "seq": 1765
+      },
+      {
+        "value": "无数青草",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770
       }
     ],
     "规模": [
@@ -109,6 +125,11 @@
         "value": "天牛七穴阵法与雾气",
         "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
         "seq": 1765
+      },
+      {
+        "value": "天牛雾气阵法",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770
       }
     ],
     "所属势力": [
@@ -116,6 +137,12 @@
         "value": "大魂门",
         "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
         "seq": 1765
+      },
+      {
+        "value": "天牛洲",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770,
+        "note": "地底地宫由天牛洲镇守，草原边缘为绿魔洲驻地"
       }
     ],
     "危险度": [
@@ -123,6 +150,16 @@
         "value": "极高（空劫初期群战引动天地轰鸣）",
         "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
         "seq": 1765
+      },
+      {
+        "value": "两洲交战前线",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770
+      },
+      {
+        "value": "高（绿魔洲近百修士合围）",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770
       }
     ]
   },
@@ -172,9 +209,10 @@
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+      "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
       "dated": false,
-      "seq": 1765
+      "seq": 1770,
+      "note": "地底地宫由天牛洲镇守，草原边缘为绿魔洲驻地"
     },
     "危险度": {
       "asOf": null,
@@ -188,7 +226,8 @@
   "docs": [
     "plot.xianni-ch1840-jitian-caoyuan",
     "plot.xianni-ch1841-jitian-grassland-slaughter-danhai-water-origin",
-    "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave"
+    "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+    "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie"
   ],
-  "updatedAt": "2026-08-30T12:32:04.649Z"
+  "updatedAt": "2026-08-30T12:50:55.870Z"
 }

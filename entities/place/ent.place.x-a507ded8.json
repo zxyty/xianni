@@ -4,15 +4,17 @@
   "name": "天牛第三穴地宫",
   "aliases": [
     "极天草原地宫",
-    "地底宫殿群"
+    "地底宫殿群",
+    "地底宫殿"
   ],
   "summary": "大魂门在天牛第三穴地底深处挖空布置的巨大宫殿群，外有层层禁制，需长老令牌方可入内，本片段内聚集近万修士。",
   "attributes": {
-    "所属势力": "大魂门",
-    "类型": "地宫/洞府群",
+    "所属势力": "天牛洲",
+    "类型": "地底宫殿据点",
     "上级区域": "天牛第三穴",
     "规模": "近万修士",
-    "守护": "层层禁制、需长老令牌"
+    "守护": "层层禁制、需长老令牌",
+    "方位": "极天草原地底深处"
   },
   "observations": {
     "所属势力": [
@@ -20,6 +22,11 @@
         "value": "大魂门",
         "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
         "seq": 1765
+      },
+      {
+        "value": "天牛洲",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770
       }
     ],
     "类型": [
@@ -27,6 +34,11 @@
         "value": "地宫/洞府群",
         "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
         "seq": 1765
+      },
+      {
+        "value": "地底宫殿据点",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770
       }
     ],
     "上级区域": [
@@ -49,21 +61,28 @@
         "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
         "seq": 1765
       }
+    ],
+    "方位": [
+      {
+        "value": "极天草原地底深处",
+        "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+        "seq": 1770
+      }
     ]
   },
   "firstSeq": 1765,
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+      "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
       "dated": false,
-      "seq": 1765
+      "seq": 1770
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+      "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
       "dated": false,
-      "seq": 1765
+      "seq": 1770
     },
     "上级区域": {
       "asOf": null,
@@ -82,12 +101,19 @@
       "docId": "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
       "dated": false,
       "seq": 1765
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+      "dated": false,
+      "seq": 1770
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave"
+    "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
+    "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie"
   ],
-  "updatedAt": "2026-08-30T12:32:04.457Z"
+  "updatedAt": "2026-08-30T12:50:55.708Z"
 }
