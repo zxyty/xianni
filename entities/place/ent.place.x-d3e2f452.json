@@ -4,13 +4,15 @@
   "name": "古庙",
   "aliases": [
     "古庙顿悟之地",
-    "那座古庙"
+    "那座古庙",
+    "古国古庙"
   ],
   "summary": "王林此前顿悟生死意境之处，本章被反复回指为其下定决心走古神之路的关键契机。",
   "attributes": {
     "所属界面": "朱雀星",
     "上级区域": "赵国",
-    "类型": "庙宇"
+    "类型": "圣地/渡劫之地",
+    "所属势力": "古国"
   },
   "observations": {
     "所属界面": [
@@ -32,6 +34,18 @@
         "value": "庙宇",
         "docId": "plot.xianni-ch1605-liumei-yanmei-de-mei",
         "seq": 1511
+      },
+      {
+        "value": "圣地/渡劫之地",
+        "docId": "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
+        "seq": 1616
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "古国",
+        "docId": "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
+        "seq": 1616
       }
     ]
   },
@@ -51,16 +65,23 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1605-liumei-yanmei-de-mei",
+      "docId": "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
       "dated": false,
-      "seq": 1511
+      "seq": 1616
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
+      "dated": false,
+      "seq": 1616
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch268-272-boji-chuhua-benzun-sangong-gushen-lu",
-    "plot.xianni-ch1605-liumei-yanmei-de-mei"
+    "plot.xianni-ch1605-liumei-yanmei-de-mei",
+    "plot.xianni-ch1706-gu-mai-cang-qiong-xue"
   ],
-  "updatedAt": "2026-08-26T06:24:18.029Z"
+  "updatedAt": "2026-08-30T03:08:08.300Z"
 }

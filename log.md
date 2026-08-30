@@ -1026,3 +1026,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T02:05:48.651Z** `ingest` plot.xianni-ch1699-illusion-within-illusion — 第1699章 幻中幻——王林识破矾珊梦大魂真幻术，夺取魂魔舟帆布 · kind=plot asOf=2026-08-30 entities=13 relations=22 src=01606-01610.p4.md
 - **2026-08-30T02:08:35.207Z** `ingest` plot.xianni-ch1700-juejian-hunmozhou-guifanfan — 第1700章 决断：王林取鬼脸帆与魂魔舟、得道古祭坛地图，遇幻中七彩道人 · kind=plot asOf=2026-08-30 entities=25 relations=31 src=01606-01610.p5.md
 - **2026-08-30T02:28:07.290Z** `ingest` plot.xianni-ch1611-1615-qicai-daoren-illusion-cause — 仙逆 第1611-1615章：道古不灭血破幻·七彩道人沉幻真因（洞府界之战与三魂分离） · kind=plot asOf=2026-08-30 entities=81 relations=139 src=01611-01615.md
+- **2026-08-30T03:08:08.733Z** `ingest` plot.xianni-ch1706-gu-mai-cang-qiong-xue — 第1706章 古脉苍穹血：王林三古齐劫，八星古神成 · kind=plot asOf=2026-08-30 entities=29 relations=39 src=01616-01620.p1.md

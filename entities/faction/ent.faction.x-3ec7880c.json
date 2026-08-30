@@ -6,11 +6,13 @@
     "古国",
     "吉国三大王姓",
     "古国三大姓",
-    "道古所在的吉国"
+    "道古所在的吉国",
+    "仙罡大陆古国"
   ],
   "summary": "拥有三大王姓（道古、极古、始古）的势力/国度，各姓修行根本不同：道古以古神为本古魔为分，极古以妖为本，始古以魔为本。",
   "attributes": {
-    "理念": "道古：以古神为本、古魔为分、极古：以妖为本、始古：以魔为本"
+    "理念": "道古：以古神为本、古魔为分、极古：以妖为本、始古：以魔为本、尊崇古之血脉与古祖",
+    "所属界面": "仙罡大陆"
   },
   "observations": {
     "理念": [
@@ -28,6 +30,18 @@
         "value": "始古：以魔为本",
         "docId": "plot.xianni-ch1539-jiguo-three-royal-surnames",
         "seq": 1448
+      },
+      {
+        "value": "尊崇古之血脉与古祖",
+        "docId": "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
+        "seq": 1616
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "仙罡大陆",
+        "docId": "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
+        "seq": 1616
       }
     ]
   },
@@ -38,13 +52,20 @@
       "docId": "plot.xianni-ch1539-jiguo-three-royal-surnames",
       "dated": false,
       "seq": 1448
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1706-gu-mai-cang-qiong-xue",
+      "dated": false,
+      "seq": 1616
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1539-jiguo-three-royal-surnames",
-    "plot.xianni-ch1672-guzu-zhanyin"
+    "plot.xianni-ch1672-guzu-zhanyin",
+    "plot.xianni-ch1706-gu-mai-cang-qiong-xue"
   ],
-  "updatedAt": "2026-08-26T11:16:18.882Z"
+  "updatedAt": "2026-08-30T03:08:08.302Z"
 }
