@@ -7,9 +7,10 @@
   ],
   "summary": "五行星上的多层高塔，第九层坐镇纳多与紫衣中年男子，更上数层沉睡着老祖，四长老在塔内以镜观战。",
   "attributes": {
-    "所属势力": "五行星归一宗",
-    "类型": "守护高塔",
-    "规模": "至少九层以上"
+    "所属势力": "归一宗",
+    "类型": "宗门高塔",
+    "规模": "至少九层以上",
+    "所属界面": "五行星"
   },
   "observations": {
     "所属势力": [
@@ -17,6 +18,11 @@
         "value": "五行星归一宗",
         "docId": "plot.xianni-ch1730-earth-origin-wuxing-star-formation",
         "seq": 1636
+      },
+      {
+        "value": "归一宗",
+        "docId": "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array",
+        "seq": 1641
       }
     ],
     "类型": [
@@ -24,6 +30,11 @@
         "value": "守护高塔",
         "docId": "plot.xianni-ch1730-earth-origin-wuxing-star-formation",
         "seq": 1636
+      },
+      {
+        "value": "宗门高塔",
+        "docId": "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array",
+        "seq": 1641
       }
     ],
     "规模": [
@@ -32,33 +43,47 @@
         "docId": "plot.xianni-ch1730-earth-origin-wuxing-star-formation",
         "seq": 1636
       }
+    ],
+    "所属界面": [
+      {
+        "value": "五行星",
+        "docId": "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array",
+        "seq": 1641
+      }
     ]
   },
   "firstSeq": 1636,
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch1730-earth-origin-wuxing-star-formation",
+      "docId": "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array",
       "dated": false,
-      "seq": 1636
+      "seq": 1641
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1730-earth-origin-wuxing-star-formation",
+      "docId": "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array",
       "dated": false,
-      "seq": 1636
+      "seq": 1641
     },
     "规模": {
       "asOf": null,
       "docId": "plot.xianni-ch1730-earth-origin-wuxing-star-formation",
       "dated": false,
       "seq": 1636
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array",
+      "dated": false,
+      "seq": 1641
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1730-earth-origin-wuxing-star-formation"
+    "plot.xianni-ch1730-earth-origin-wuxing-star-formation",
+    "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array"
   ],
-  "updatedAt": "2026-08-30T04:06:08.057Z"
+  "updatedAt": "2026-08-30T04:08:31.429Z"
 }

@@ -10,18 +10,19 @@
     "五行星辰",
     "Wuxing Star",
     "五行星修真星",
-    "五行星球"
+    "五行星球",
+    "五行星高塔所在星辰"
   ],
   "summary": "纳多的母星/所在星球，纳多留约王林日后可去此处找他。",
   "attributes": {
-    "类型": "修真星",
+    "类型": "修真星辰",
     "守护": "纳多、五行光环与五行归一护星大阵、五行大阵",
     "所属界面": "洞府界",
-    "危险度": "藏有最后一股隐藏势力、极高（曾有数百界外修士误入再未出来）、极高（九位老祖布阵、老祖沉睡其上）",
+    "危险度": "藏有最后一股隐藏势力、极高（曾有数百界外修士误入再未出来）、极高（九位老祖布阵、老祖沉睡其上）、高",
     "上级区域": "昆虚星域",
     "规模": "凡人十几亿",
     "特产": "极浓灵气、修仙体质者较多",
-    "所属势力": "五行星归一宗"
+    "所属势力": "归一宗"
   },
   "observations": {
     "类型": [
@@ -34,6 +35,11 @@
         "value": "修真星",
         "docId": "plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou",
         "seq": 1636
+      },
+      {
+        "value": "修真星辰",
+        "docId": "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array",
+        "seq": 1641
       }
     ],
     "守护": [
@@ -75,6 +81,11 @@
         "value": "极高（九位老祖布阵、老祖沉睡其上）",
         "docId": "plot.xianni-ch1730-earth-origin-wuxing-star-formation",
         "seq": 1636
+      },
+      {
+        "value": "高",
+        "docId": "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array",
+        "seq": 1641
       }
     ],
     "上级区域": [
@@ -103,6 +114,11 @@
         "value": "五行星归一宗",
         "docId": "plot.xianni-ch1730-earth-origin-wuxing-star-formation",
         "seq": 1636
+      },
+      {
+        "value": "归一宗",
+        "docId": "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array",
+        "seq": 1641
       }
     ]
   },
@@ -110,9 +126,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou",
+      "docId": "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array",
       "dated": false,
-      "seq": 1636
+      "seq": 1641
     },
     "守护": {
       "asOf": null,
@@ -152,9 +168,9 @@
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch1730-earth-origin-wuxing-star-formation",
+      "docId": "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array",
       "dated": false,
-      "seq": 1636
+      "seq": 1641
     }
   },
   "contested": false,
@@ -166,7 +182,8 @@
     "plot.xianni-ch1682-outsiders-wind-immortal-realm-reassembled",
     "plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou",
     "plot.xianni-1729-wuxing-star-guiyi-zong",
-    "plot.xianni-ch1730-earth-origin-wuxing-star-formation"
+    "plot.xianni-ch1730-earth-origin-wuxing-star-formation",
+    "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array"
   ],
-  "updatedAt": "2026-08-30T04:06:08.055Z"
+  "updatedAt": "2026-08-30T04:08:31.428Z"
 }
