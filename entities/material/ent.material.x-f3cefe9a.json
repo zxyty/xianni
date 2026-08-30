@@ -1,50 +1,40 @@
 {
-  "id": "ent.material.x-69e0595d",
+  "id": "ent.material.x-f3cefe9a",
   "type": "material",
-  "name": "元石",
+  "name": "金本源",
   "aliases": [
-    "充满仙气的元石"
+    "金本源之物"
   ],
-  "summary": "充满仙气的修炼资源，皇族使者所赠玉简内大量存有。",
+  "summary": "五行本源之一，王林五十年间搜寻的两种本源之一，尚未着落。",
   "attributes": {
-    "类型": "货币",
-    "用途": "交易结算",
-    "产地": "中州"
+    "类型": "五行本源",
+    "用途": "凝聚本源真身",
+    "稀有度": "极稀有"
   },
   "observations": {
     "类型": [
       {
-        "value": "修炼资源",
-        "docId": "plot.xianni-ch1916-wait-for-tianzun",
-        "seq": 1824
-      },
-      {
-        "value": "货币",
+        "value": "五行本源",
         "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
         "seq": 1834
       }
     ],
     "用途": [
       {
-        "value": "修炼、交易",
-        "docId": "plot.xianni-ch1916-wait-for-tianzun",
-        "seq": 1824
-      },
-      {
-        "value": "交易结算",
+        "value": "凝聚本源真身",
         "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
         "seq": 1834
       }
     ],
-    "产地": [
+    "稀有度": [
       {
-        "value": "中州",
-        "docId": "plot.xianni-ch1916-wait-for-tianzun",
-        "seq": 1824
+        "value": "极稀有",
+        "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
+        "seq": 1834
       }
     ]
   },
-  "firstSeq": 1824,
+  "firstSeq": 1834,
   "attrProvenance": {
     "类型": {
       "asOf": null,
@@ -58,18 +48,17 @@
       "dated": false,
       "seq": 1834
     },
-    "产地": {
+    "稀有度": {
       "asOf": null,
-      "docId": "plot.xianni-ch1916-wait-for-tianzun",
+      "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
       "dated": false,
-      "seq": 1824
+      "seq": 1834
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1916-wait-for-tianzun",
     "plot.xianni-ch1926-fifty-years-white-haired-tianzun"
   ],
-  "updatedAt": "2026-08-30T17:14:14.795Z"
+  "updatedAt": "2026-08-30T17:14:14.793Z"
 }

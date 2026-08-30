@@ -10,9 +10,9 @@
   "attributes": {
     "所属界面": "仙罡大陆",
     "方位": "仙族之地南部",
-    "所属势力": "仙族",
-    "上级区域": "七十二洲",
-    "类型": "洲（大陆分区）"
+    "所属势力": "道一大天尊（影响力）",
+    "上级区域": "仙族大陆",
+    "类型": "洲（大陆分区）、州"
   },
   "observations": {
     "所属界面": [
@@ -39,6 +39,11 @@
         "value": "仙族",
         "docId": "plot.xianni-1797-strange-white-light-in-the-void",
         "seq": 1705
+      },
+      {
+        "value": "道一大天尊（影响力）",
+        "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
+        "seq": 1834
       }
     ],
     "上级区域": [
@@ -46,12 +51,22 @@
         "value": "七十二洲",
         "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
         "seq": 1824
+      },
+      {
+        "value": "仙族大陆",
+        "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
+        "seq": 1834
       }
     ],
     "类型": [
       {
         "value": "洲（大陆分区）",
         "docId": "plot.xianni-1923-meng-tu-zhou-di-men-xiangjian",
+        "seq": 1834
+      },
+      {
+        "value": "州",
+        "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
         "seq": 1834
       }
     ]
@@ -72,15 +87,15 @@
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-1797-strange-white-light-in-the-void",
+      "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
       "dated": false,
-      "seq": 1705
+      "seq": 1834
     },
     "上级区域": {
       "asOf": null,
-      "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
+      "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
       "dated": false,
-      "seq": 1824
+      "seq": 1834
     },
     "类型": {
       "asOf": null,
@@ -94,7 +109,8 @@
   "docs": [
     "plot.xianni-1797-strange-white-light-in-the-void",
     "lore.xianni-1917-xianzu-five-great-tianzun",
-    "plot.xianni-1923-meng-tu-zhou-di-men-xiangjian"
+    "plot.xianni-1923-meng-tu-zhou-di-men-xiangjian",
+    "plot.xianni-ch1926-fifty-years-white-haired-tianzun"
   ],
-  "updatedAt": "2026-08-30T17:07:06.019Z"
+  "updatedAt": "2026-08-30T17:14:14.779Z"
 }

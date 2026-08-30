@@ -1,73 +1,68 @@
 {
-  "id": "ent.faction.x-6cb7533b",
-  "type": "faction",
-  "name": "道一宗",
+  "id": "ent.place.x-e7c13ee8",
+  "type": "place",
+  "name": "山海洲",
   "aliases": [
-    "南州道一宗"
+    "山海"
   ],
-  "summary": "道一所属宗门，位于仙罡大陆仙族之地范围，被玄罗扬言要杀其满门。",
+  "summary": "南州辖下之洲，王林在此败于海子天尊并潜伏三年；其底部封印着山海树，整洲封印皆赖此树。",
   "attributes": {
-    "所属界面": "南州",
-    "据点": "南州",
-    "掌门": "道一大天尊",
-    "理念": "不勉强天尊入麾下、开放讲道"
+    "上级区域": "南州",
+    "类型": "洲",
+    "守护": "海子天尊",
+    "特产": "山海树木本源"
   },
   "observations": {
-    "所属界面": [
-      {
-        "value": "仙罡大陆",
-        "docId": "plot.xianni-1715-mu-si-ru-ze",
-        "seq": 1621
-      },
+    "上级区域": [
       {
         "value": "南州",
         "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
         "seq": 1834
       }
     ],
-    "据点": [
+    "类型": [
       {
-        "value": "南州",
-        "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
-        "seq": 1824
-      }
-    ],
-    "掌门": [
-      {
-        "value": "道一大天尊",
+        "value": "洲",
         "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
         "seq": 1834
       }
     ],
-    "理念": [
+    "守护": [
       {
-        "value": "不勉强天尊入麾下、开放讲道",
+        "value": "海子天尊",
+        "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
+        "seq": 1834
+      }
+    ],
+    "特产": [
+      {
+        "value": "山海树木本源",
         "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
         "seq": 1834
       }
     ]
   },
-  "firstSeq": 1621,
+  "firstSeq": 1834,
   "attrProvenance": {
-    "所属界面": {
+    "上级区域": {
       "asOf": null,
       "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
       "dated": false,
       "seq": 1834
     },
-    "据点": {
-      "asOf": null,
-      "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
-      "dated": false,
-      "seq": 1824
-    },
-    "掌门": {
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
       "dated": false,
       "seq": 1834
     },
-    "理念": {
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
+      "dated": false,
+      "seq": 1834
+    },
+    "特产": {
       "asOf": null,
       "docId": "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
       "dated": false,
@@ -77,9 +72,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1715-mu-si-ru-ze",
-    "lore.xianni-1917-xianzu-five-great-tianzun",
     "plot.xianni-ch1926-fifty-years-white-haired-tianzun"
   ],
-  "updatedAt": "2026-08-30T17:14:14.786Z"
+  "updatedAt": "2026-08-30T17:14:14.780Z"
 }
