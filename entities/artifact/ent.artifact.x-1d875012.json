@@ -5,13 +5,15 @@
   "aliases": [
     "魂魔舟帆布",
     "船杆帆布",
-    "帆布上的鬼脸"
+    "帆布上的鬼脸",
+    "鬼脸幻术之宝"
   ],
   "summary": "魂魔舟第一层船杆上飘动的帆布，其上鬼脸诡异微笑；本章被王林一把撕下并宣称「此宝，我要了」。",
   "attributes": {
     "持有者": "王林",
-    "外形": "绘有诡异微笑鬼脸的帆布",
-    "来历": "被王林斩开，从而引发禁制风暴"
+    "外形": "帆布，展开时鬼脸弥漫",
+    "来历": "被王林斩开，从而引发禁制风暴",
+    "能力": "施展鬼脸幻术、隐去踪迹、使人沉入幻境"
   },
   "observations": {
     "持有者": [
@@ -26,6 +28,11 @@
         "value": "绘有诡异微笑鬼脸的帆布",
         "docId": "plot.xianni-ch1699-illusion-within-illusion",
         "seq": 1606
+      },
+      {
+        "value": "帆布，展开时鬼脸弥漫",
+        "docId": "plot.xianni-ch1760-xinji-three-hundred-broken-realms-chase",
+        "seq": 1670
       }
     ],
     "来历": [
@@ -39,6 +46,23 @@
         "docId": "plot.xianni-1714-restriction-source-nine-fusions",
         "seq": 1621
       }
+    ],
+    "能力": [
+      {
+        "value": "施展鬼脸幻术",
+        "docId": "plot.xianni-ch1760-xinji-three-hundred-broken-realms-chase",
+        "seq": 1670
+      },
+      {
+        "value": "隐去踪迹",
+        "docId": "plot.xianni-ch1760-xinji-three-hundred-broken-realms-chase",
+        "seq": 1670
+      },
+      {
+        "value": "使人沉入幻境",
+        "docId": "plot.xianni-ch1760-xinji-three-hundred-broken-realms-chase",
+        "seq": 1670
+      }
     ]
   },
   "firstSeq": 1606,
@@ -51,22 +75,29 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch1699-illusion-within-illusion",
+      "docId": "plot.xianni-ch1760-xinji-three-hundred-broken-realms-chase",
       "dated": false,
-      "seq": 1606
+      "seq": 1670
     },
     "来历": {
       "asOf": null,
       "docId": "plot.xianni-1714-restriction-source-nine-fusions",
       "dated": false,
       "seq": 1621
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1760-xinji-three-hundred-broken-realms-chase",
+      "dated": false,
+      "seq": 1670
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1699-illusion-within-illusion",
-    "plot.xianni-1714-restriction-source-nine-fusions"
+    "plot.xianni-1714-restriction-source-nine-fusions",
+    "plot.xianni-ch1760-xinji-three-hundred-broken-realms-chase"
   ],
-  "updatedAt": "2026-08-30T03:27:05.219Z"
+  "updatedAt": "2026-08-30T06:33:27.196Z"
 }

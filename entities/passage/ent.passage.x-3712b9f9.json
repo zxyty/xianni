@@ -5,14 +5,16 @@
   "aliases": [
     "北部战场漩涡",
     "星空漩涡",
-    "闪电漩涡"
+    "闪电漩涡",
+    "界间漩涡"
   ],
   "summary": "大战后北部战场中央形成的庞大漩涡，不断旋转吸入尘埃，内里通往虚无之界。",
   "attributes": {
-    "类型": "星空漩涡通道",
-    "两端": "太古星辰星空 ↔ 未知之地",
+    "类型": "界间穿梭通道",
+    "两端": "三百残界中的两界",
     "坐标": "闪雷族圣地正上方星空",
-    "来历": "不灭雷霆遁逃时显现"
+    "来历": "不灭雷霆遁逃时显现",
+    "稳定性": "反复穿透后壁障渐趋崩溃"
   },
   "observations": {
     "类型": [
@@ -25,6 +27,11 @@
         "value": "星空漩涡通道",
         "docId": "plot.xianni-ch1361-shanleizu-shengdi-buminleiting-tug",
         "seq": 1275
+      },
+      {
+        "value": "界间穿梭通道",
+        "docId": "plot.xianni-ch1760-xinji-three-hundred-broken-realms-chase",
+        "seq": 1670
       }
     ],
     "两端": [
@@ -38,6 +45,11 @@
         "docId": "plot.xianni-ch1361-shanleizu-shengdi-buminleiting-tug",
         "seq": 1275,
         "note": "彼端不明，王林对其气息极为陌生"
+      },
+      {
+        "value": "三百残界中的两界",
+        "docId": "plot.xianni-ch1760-xinji-three-hundred-broken-realms-chase",
+        "seq": 1670
       }
     ],
     "坐标": [
@@ -58,22 +70,29 @@
         "docId": "plot.xianni-ch1361-shanleizu-shengdi-buminleiting-tug",
         "seq": 1275
       }
+    ],
+    "稳定性": [
+      {
+        "value": "反复穿透后壁障渐趋崩溃",
+        "docId": "plot.xianni-ch1760-xinji-three-hundred-broken-realms-chase",
+        "seq": 1670,
+        "note": "被七彩以七彩光芒暗中巩固"
+      }
     ]
   },
   "firstSeq": 865,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1361-shanleizu-shengdi-buminleiting-tug",
+      "docId": "plot.xianni-ch1760-xinji-three-hundred-broken-realms-chase",
       "dated": false,
-      "seq": 1275
+      "seq": 1670
     },
     "两端": {
       "asOf": null,
-      "docId": "plot.xianni-ch1361-shanleizu-shengdi-buminleiting-tug",
+      "docId": "plot.xianni-ch1760-xinji-three-hundred-broken-realms-chase",
       "dated": false,
-      "seq": 1275,
-      "note": "彼端不明，王林对其气息极为陌生"
+      "seq": 1670
     },
     "坐标": {
       "asOf": null,
@@ -86,13 +105,21 @@
       "docId": "plot.xianni-ch1361-shanleizu-shengdi-buminleiting-tug",
       "dated": false,
       "seq": 1275
+    },
+    "稳定性": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1760-xinji-three-hundred-broken-realms-chase",
+      "dated": false,
+      "seq": 1670,
+      "note": "被七彩以七彩光芒暗中巩固"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch935-huanglong-siheng-zong-scheme-and-thunder-beast",
-    "plot.xianni-ch1361-shanleizu-shengdi-buminleiting-tug"
+    "plot.xianni-ch1361-shanleizu-shengdi-buminleiting-tug",
+    "plot.xianni-ch1760-xinji-three-hundred-broken-realms-chase"
   ],
-  "updatedAt": "2026-08-25T12:34:09.342Z"
+  "updatedAt": "2026-08-30T06:33:27.192Z"
 }
