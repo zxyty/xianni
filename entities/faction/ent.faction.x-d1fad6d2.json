@@ -13,7 +13,7 @@
     "所属界面": "仙罡大陆、群仙罡大陆、五行星",
     "等级": "与七道宗一样，算不得大宗",
     "据点": "归一宗分宗山门、五行星东部九峰中央的九十九层高塔、五行星、五行星高塔",
-    "镇派之宝": "归一宗至宝、五行归一阵、五行大阵、先祖战甲、五行阵、铠甲之道",
+    "镇派之宝": "归一宗至宝、五行归一阵、五行大阵、先祖战甲、五行阵、铠甲之道、诡异铠甲（炼制极难、非大功或凶险之地不予）",
     "阵营": "洞府界外来者",
     "理念": "五行归一、内部封锁、轻易不外出、护宗排外"
   },
@@ -95,13 +95,19 @@
         "value": "铠甲之道",
         "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
         "seq": 1641
+      },
+      {
+        "value": "诡异铠甲（炼制极难、非大功或凶险之地不予）",
+        "docId": "plot.xianni-ch1733-qiankun-yidi-water-origin",
+        "seq": 1641
       }
     ],
     "阵营": [
       {
         "value": "洞府界外来者",
         "docId": "plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou",
-        "seq": 1636
+        "seq": 1636,
+        "note": "王林视其为强盗与外来者"
       }
     ],
     "理念": [
@@ -155,7 +161,8 @@
       "asOf": null,
       "docId": "plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou",
       "dated": false,
-      "seq": 1636
+      "seq": 1636,
+      "note": "王林视其为强盗与外来者"
     },
     "理念": {
       "asOf": null,
@@ -173,7 +180,8 @@
     "plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou",
     "plot.xianni-1729-wuxing-star-guiyi-zong",
     "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array",
-    "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin"
+    "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
+    "plot.xianni-ch1733-qiankun-yidi-water-origin"
   ],
-  "updatedAt": "2026-08-30T04:10:56.335Z"
+  "updatedAt": "2026-08-30T04:13:43.324Z"
 }

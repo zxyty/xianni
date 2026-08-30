@@ -6,16 +6,19 @@
     "水将大人",
     "水将",
     "归一宗水将",
-    "Water General"
+    "Water General",
+    "五行水阵水将"
   ],
   "summary": "归一宗五行水阵之灵，蓝甲蓝枪的黑发英俊中年男子，完整的五行水灵体，常年闭关；本章被王林一掌打得五脏崩溃，靠铠甲生机复原。",
   "attributes": {
     "性别": "男",
-    "身份": "归一宗水将、五行水阵阵灵",
+    "身份": "归一宗水将、五行水阵阵灵、归一宗修士（五行水阵主持者之一）",
     "称号": "水将大人",
-    "外貌": "黑发飘舞、样子极为英俊的中年男子，身穿蓝色铠甲手持蓝色长枪",
+    "外貌": "黑发飘舞、样子极为英俊的中年男子，身穿蓝色铠甲手持蓝色长枪、英俊、肉身枯萎、丑陋、遍生脓疮",
     "标志特征": "完整的五行水灵体",
-    "存殁": "重伤后被铠甲生机治愈"
+    "存殁": "重伤后被铠甲生机治愈",
+    "小阶段": "天人第四衰（不穿铠甲时的本身修为）、第三步大能",
+    "寿元": "寿元本已不足，全靠铠甲支撑；天人衰劫已在其身爆发四次"
   },
   "observations": {
     "性别": [
@@ -35,6 +38,11 @@
         "value": "五行水阵阵灵",
         "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
         "seq": 1641
+      },
+      {
+        "value": "归一宗修士（五行水阵主持者之一）",
+        "docId": "plot.xianni-ch1733-qiankun-yidi-water-origin",
+        "seq": 1641
       }
     ],
     "称号": [
@@ -49,6 +57,18 @@
         "value": "黑发飘舞、样子极为英俊的中年男子，身穿蓝色铠甲手持蓝色长枪",
         "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
         "seq": 1641
+      },
+      {
+        "value": "英俊",
+        "docId": "plot.xianni-ch1733-qiankun-yidi-water-origin",
+        "seq": 1641,
+        "note": "有铠甲之力护持时"
+      },
+      {
+        "value": "肉身枯萎、丑陋、遍生脓疮",
+        "docId": "plot.xianni-ch1733-qiankun-yidi-water-origin",
+        "seq": 1641,
+        "note": "施展乾坤一滴、铠甲之力耗尽后显露的本相"
       }
     ],
     "标志特征": [
@@ -62,6 +82,26 @@
       {
         "value": "重伤后被铠甲生机治愈",
         "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
+        "seq": 1641
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "天人第四衰（不穿铠甲时的本身修为）",
+        "docId": "plot.xianni-ch1733-qiankun-yidi-water-origin",
+        "seq": 1641
+      },
+      {
+        "value": "第三步大能",
+        "docId": "plot.xianni-ch1733-qiankun-yidi-water-origin",
+        "seq": 1641,
+        "note": "仅在穿上先祖铠甲时可达"
+      }
+    ],
+    "寿元": [
+      {
+        "value": "寿元本已不足，全靠铠甲支撑；天人衰劫已在其身爆发四次",
+        "docId": "plot.xianni-ch1733-qiankun-yidi-water-origin",
         "seq": 1641
       }
     ]
@@ -103,12 +143,25 @@
       "docId": "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
       "dated": false,
       "seq": 1641
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1733-qiankun-yidi-water-origin",
+      "dated": false,
+      "seq": 1641
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1733-qiankun-yidi-water-origin",
+      "dated": false,
+      "seq": 1641
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin"
+    "plot.xianni-1732-wuxing-shuizhen-shuijiang-yuanlai-ta-jiao-wanglin",
+    "plot.xianni-ch1733-qiankun-yidi-water-origin"
   ],
-  "updatedAt": "2026-08-30T04:10:56.332Z"
+  "updatedAt": "2026-08-30T04:13:43.312Z"
 }
