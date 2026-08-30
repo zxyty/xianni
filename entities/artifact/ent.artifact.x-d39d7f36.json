@@ -3,13 +3,17 @@
   "type": "artifact",
   "name": "天牛珠",
   "aliases": [
-    "天牛珠子"
+    "天牛珠子",
+    "褐色珠子",
+    "Tian Niu Zhu"
   ],
   "summary": "大魂门与归一宗当年开辟天牛七穴时所得的七颗宝珠，可作法宝、内部时间可变以供修炼，更能存纳天牛魂使魂铠脱离地域限制；归一宗三、大魂门四。",
   "attributes": {
-    "能力": "可作法宝、改变其内时间的功效，修士可入内修炼、存纳天牛魂，使拥魂铠者远离天牛两州仍可用铠、三珠合一可凝聚门人修炼圣地并凝固山门大阵",
-    "来历": "无数年前大魂门与归一宗开辟天牛七穴时发现，共七颗（归一宗三、大魂门四）",
-    "品阶": "宗门至宝"
+    "能力": "可作法宝、改变其内时间的功效，修士可入内修炼、存纳天牛魂，使拥魂铠者远离天牛两州仍可用铠、三珠合一可凝聚门人修炼圣地并凝固山门大阵、可容纳天牛魂，使其得以被带往任何地方",
+    "来历": "青牛老祖所赠，属天牛洲重宝",
+    "品阶": "宗门至宝",
+    "外形": "褐色珠子，大小与天逆相仿",
+    "持有者": "王林"
   },
   "observations": {
     "能力": [
@@ -32,6 +36,11 @@
         "value": "三珠合一可凝聚门人修炼圣地并凝固山门大阵",
         "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
         "seq": 1790
+      },
+      {
+        "value": "可容纳天牛魂，使其得以被带往任何地方",
+        "docId": "plot.xianni-1886-compensation-rewards-from-tianniu-continent",
+        "seq": 1795
       }
     ],
     "来历": [
@@ -39,6 +48,11 @@
         "value": "无数年前大魂门与归一宗开辟天牛七穴时发现，共七颗（归一宗三、大魂门四）",
         "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
         "seq": 1790
+      },
+      {
+        "value": "青牛老祖所赠，属天牛洲重宝",
+        "docId": "plot.xianni-1886-compensation-rewards-from-tianniu-continent",
+        "seq": 1795
       }
     ],
     "品阶": [
@@ -46,6 +60,20 @@
         "value": "宗门至宝",
         "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
         "seq": 1790
+      }
+    ],
+    "外形": [
+      {
+        "value": "褐色珠子，大小与天逆相仿",
+        "docId": "plot.xianni-1886-compensation-rewards-from-tianniu-continent",
+        "seq": 1795
+      }
+    ],
+    "持有者": [
+      {
+        "value": "王林",
+        "docId": "plot.xianni-1886-compensation-rewards-from-tianniu-continent",
+        "seq": 1795
       }
     ]
   },
@@ -59,21 +87,34 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
+      "docId": "plot.xianni-1886-compensation-rewards-from-tianniu-continent",
       "dated": false,
-      "seq": 1790
+      "seq": 1795
     },
     "品阶": {
       "asOf": null,
       "docId": "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
       "dated": false,
       "seq": 1790
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.xianni-1886-compensation-rewards-from-tianniu-continent",
+      "dated": false,
+      "seq": 1795
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.xianni-1886-compensation-rewards-from-tianniu-continent",
+      "dated": false,
+      "seq": 1795
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath"
+    "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
+    "plot.xianni-1886-compensation-rewards-from-tianniu-continent"
   ],
-  "updatedAt": "2026-08-30T14:26:14.639Z"
+  "updatedAt": "2026-08-30T14:43:12.732Z"
 }

@@ -37,8 +37,9 @@
     "所属势力": "大魂门、归一宗、苍龙宗（其一）、苍龙宗",
     "类型": "洲、内洲、大洲、洲（大地域）、洲域、洲（大陆分区）、洲/大区域、洲域/地火之地、洲（仙族七十二洲之一）、大陆/洲、大陆之洲、大域",
     "规模": "相当于数十倍洞府界、极大，几乎相当于数十个洞府界、几乎相当于数十个洞府界、极大，搜人不亚于大海寻针、极广，王林近一个洞府界大小的神识覆盖不到其一成、极大，王林神识无法覆盖全部、极广、极大、极大（丹海波及仅一小部分）",
-    "特产": "山脉众多（传为凶煞骨头所化）、巨大地火脉（分支极多）、境内尽是山峰，有连绵数万山峰的大山脉、地火支脉、火焰矿脉、地火支脉（数千条不止）、地火主脉、地火脉（主脉/子脉/支脉）、地火脉、地火子脉、地火支脉、地火龙脉/地火子脉、地火主脉与遍布地底的地火支脉、子脉、地火之脉、地火主脉与诸多地火子脉",
-    "守护": "地火脉意志、地底所封天牛、大魂门与归一宗历代老祖联手布置的壁障阵法、天牛洲壁障（壁垒）、壁障"
+    "特产": "山脉众多（传为凶煞骨头所化）、巨大地火脉（分支极多）、境内尽是山峰，有连绵数万山峰的大山脉、地火支脉、火焰矿脉、地火支脉（数千条不止）、地火主脉、地火脉（主脉/子脉/支脉）、地火脉、地火子脉、地火支脉、地火龙脉/地火子脉、地火主脉与遍布地底的地火支脉、子脉、地火之脉、地火主脉与诸多地火子脉、与天牛相关的重宝",
+    "守护": "地火脉意志、地底所封天牛、大魂门与归一宗历代老祖联手布置的壁障阵法、天牛洲壁障（壁垒）、壁障",
+    "危险度": "对王林而言全洲皆敌"
   },
   "observations": {
     "所属界面": [
@@ -303,6 +304,11 @@
         "value": "地火主脉与诸多地火子脉",
         "docId": "plot.xianni-ch1827-four-characters-guilai-bridge",
         "seq": 1735
+      },
+      {
+        "value": "与天牛相关的重宝",
+        "docId": "plot.xianni-1886-compensation-rewards-from-tianniu-continent",
+        "seq": 1795
       }
     ],
     "守护": [
@@ -331,6 +337,13 @@
         "docId": "plot.xianni-ch1851-hun-yi-ling",
         "seq": 1760,
         "note": "本章已被炸开"
+      }
+    ],
+    "危险度": [
+      {
+        "value": "对王林而言全洲皆敌",
+        "docId": "plot.xianni-1886-compensation-rewards-from-tianniu-continent",
+        "seq": 1795
       }
     ]
   },
@@ -383,6 +396,12 @@
       "docId": "plot.xianni-1814-xuanluo-induction-du-qing-oath",
       "dated": false,
       "seq": 1725
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-1886-compensation-rewards-from-tianniu-continent",
+      "dated": false,
+      "seq": 1795
     }
   },
   "contested": false,
@@ -431,7 +450,8 @@
     "plot.xianni-1780-1784-jitian-grassland-escape-underground-palace",
     "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
     "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
-    "plot.xianni-ch1885-that-sentence-shi-you-bian-su-pan"
+    "plot.xianni-ch1885-that-sentence-shi-you-bian-su-pan",
+    "plot.xianni-1886-compensation-rewards-from-tianniu-continent"
   ],
-  "updatedAt": "2026-08-30T14:40:41.959Z"
+  "updatedAt": "2026-08-30T14:43:12.720Z"
 }

@@ -1160,3 +1160,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T14:26:15.174Z** `ingest` plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath — 仙逆 第1790-1794章：魂铠散去与极天草原战后余波 · kind=plot asOf=2026-08-30 entities=79 relations=154 src=01790-01794.md
 - **2026-08-30T14:37:54.623Z** `ingest` plot.xianni-ch1884-tianniu-dingyang — 仙逆 第1884章 天牛顶阳：王林反杀边云，唐佳中途倒戈 · kind=plot asOf=2026-08-30 entities=20 relations=24 src=01795-01799.p1.md
 - **2026-08-30T14:40:42.510Z** `ingest` plot.xianni-ch1885-that-sentence-shi-you-bian-su-pan — 第1885章 那句话！——边云魂铠反噬、重回七道宗、破译青牛老祖「事有变，速叛」 · kind=plot asOf=2026-08-30 entities=27 relations=41 src=01795-01799.p2.md
+- **2026-08-30T14:43:13.190Z** `ingest` plot.xianni-1886-compensation-rewards-from-tianniu-continent — 第1886章 补偿的赏赐：青牛老祖四件重宝相赠，王林借道绿魔洲赴东临宗 · kind=plot asOf=2026-08-30 entities=30 relations=43 src=01795-01799.p3.md
