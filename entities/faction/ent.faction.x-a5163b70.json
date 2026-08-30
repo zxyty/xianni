@@ -3,13 +3,14 @@
   "type": "faction",
   "name": "紫阳宗",
   "aliases": [
-    "Ziyang Zong"
+    "Ziyang Zong",
+    "Zi Yang Zong"
   ],
   "summary": "拥有饲兽界这一独立空间的宗门，涵涵与娃娃称该地为「我们紫阳宗的饲兽界」。",
   "attributes": {
-    "等级": "九宗十三门之列，强于东临宗",
+    "等级": "东洲二十一宗门之首",
     "所属界面": "仙罡大陆",
-    "据点": "仙罡大陆东部"
+    "据点": "东洲"
   },
   "observations": {
     "等级": [
@@ -22,6 +23,11 @@
         "value": "九宗十三门之列，强于东临宗",
         "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
         "seq": 1690
+      },
+      {
+        "value": "东洲二十一宗门之首",
+        "docId": "plot.xianni-1796-stubborn-will-xianguang-continent-overview",
+        "seq": 1705
       }
     ],
     "所属界面": [
@@ -36,6 +42,11 @@
         "value": "仙罡大陆东部",
         "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
         "seq": 1611
+      },
+      {
+        "value": "东洲",
+        "docId": "plot.xianni-1796-stubborn-will-xianguang-continent-overview",
+        "seq": 1705
       }
     ]
   },
@@ -43,9 +54,9 @@
   "attrProvenance": {
     "等级": {
       "asOf": null,
-      "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
+      "docId": "plot.xianni-1796-stubborn-will-xianguang-continent-overview",
       "dated": false,
-      "seq": 1690
+      "seq": 1705
     },
     "所属界面": {
       "asOf": null,
@@ -55,16 +66,17 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+      "docId": "plot.xianni-1796-stubborn-will-xianguang-continent-overview",
       "dated": false,
-      "seq": 1611
+      "seq": 1705
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
-    "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang"
+    "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
+    "plot.xianni-1796-stubborn-will-xianguang-continent-overview"
   ],
-  "updatedAt": "2026-08-30T07:33:04.150Z"
+  "updatedAt": "2026-08-30T08:32:00.008Z"
 }

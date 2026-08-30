@@ -1098,3 +1098,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T08:19:26.358Z** `ingest` plot.xianni-ch1793-chidao-fengyun-xiangang-jian-juanzhong — 第1793章 叱咤风云仙罡见（本卷终）：王林送妙音、虚神投胎，封印太古星辰 · kind=plot asOf=2026-08-30 entities=20 relations=28 src=01700-01704.p5.md
 - **2026-08-30T08:22:06.423Z** `ingest` plot.xianni-1794-baishi-xuanluo-wenshou-jinhua — 第1794章 一声师尊守古脉：王林拜玄罗为师、蚊兽仙罡返祖 · kind=plot asOf=2026-08-30 entities=24 relations=32 src=01705-01709.p1.md
 - **2026-08-30T08:24:56.839Z** `ingest` plot.xianni-ch1795-huangzun-yinian-huogen-xian — 第1795章 皇尊一念祸根现——王林乘蚊王入虚无，道古皇尊欲夺李慕婉之魂立后 · kind=plot asOf=2026-08-30 entities=23 relations=37 src=01705-01709.p2.md
+- **2026-08-30T08:32:00.452Z** `ingest` plot.xianni-1796-stubborn-will-xianguang-continent-overview — 第1796章 倔强的意志：仙罡大陆六年概览与玄罗守候七道宗 · kind=plot asOf=2026-08-30 entities=39 relations=64 src=01705-01709.p3.md
