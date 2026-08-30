@@ -3,13 +3,19 @@
   "type": "artifact",
   "name": "魂魔舟",
   "aliases": [
-    "魂魔船"
+    "魂魔船",
+    "大魂门禁宝魂魔舟",
+    "Hun Mo Zhou",
+    "Soul Demon Boat"
   ],
   "summary": "王林与矾珊梦所乘之舟，禁制强悍；即便只发挥不足三成威力，也可挡如今的七彩三天，全盛期七彩则只能挡数十个时辰。",
   "attributes": {
-    "能力": "防护光幕、禁制阻敌",
-    "禁制": "仅发挥不足三成威力",
-    "外形": "舟船"
+    "能力": "防护光幕、禁制阻敌、层层光幕防护、可操控逃遁周旋",
+    "禁制": "甲板为一个个禁制符文凝聚铺展、有反弹神识的无形之力；整舟禁制包罗万千，甲板仅为外围",
+    "外形": "舟船，甲板可载人盘坐",
+    "品阶": "中品（非上品）",
+    "持有者": "矾珊梦",
+    "来历": "大魂门禁宝"
   },
   "observations": {
     "能力": [
@@ -22,6 +28,16 @@
         "value": "禁制阻敌",
         "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
         "seq": 1601
+      },
+      {
+        "value": "层层光幕防护",
+        "docId": "plot.xianni-ch1696-fan-ke-wei-zhu-hun-mo-zhou-jinzhi",
+        "seq": 1606
+      },
+      {
+        "value": "可操控逃遁周旋",
+        "docId": "plot.xianni-ch1696-fan-ke-wei-zhu-hun-mo-zhou-jinzhi",
+        "seq": 1606
       }
     ],
     "禁制": [
@@ -30,6 +46,11 @@
         "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
         "seq": 1601,
         "note": "本片段状态"
+      },
+      {
+        "value": "甲板为一个个禁制符文凝聚铺展、有反弹神识的无形之力；整舟禁制包罗万千，甲板仅为外围",
+        "docId": "plot.xianni-ch1696-fan-ke-wei-zhu-hun-mo-zhou-jinzhi",
+        "seq": 1606
       }
     ],
     "外形": [
@@ -37,6 +58,32 @@
         "value": "舟船",
         "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
         "seq": 1601
+      },
+      {
+        "value": "舟船，甲板可载人盘坐",
+        "docId": "plot.xianni-ch1696-fan-ke-wei-zhu-hun-mo-zhou-jinzhi",
+        "seq": 1606
+      }
+    ],
+    "品阶": [
+      {
+        "value": "中品（非上品）",
+        "docId": "plot.xianni-ch1696-fan-ke-wei-zhu-hun-mo-zhou-jinzhi",
+        "seq": 1606
+      }
+    ],
+    "持有者": [
+      {
+        "value": "矾珊梦",
+        "docId": "plot.xianni-ch1696-fan-ke-wei-zhu-hun-mo-zhou-jinzhi",
+        "seq": 1606
+      }
+    ],
+    "来历": [
+      {
+        "value": "大魂门禁宝",
+        "docId": "plot.xianni-ch1696-fan-ke-wei-zhu-hun-mo-zhou-jinzhi",
+        "seq": 1606
       }
     ]
   },
@@ -50,22 +97,40 @@
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
+      "docId": "plot.xianni-ch1696-fan-ke-wei-zhu-hun-mo-zhou-jinzhi",
       "dated": false,
-      "seq": 1601,
-      "note": "本片段状态"
+      "seq": 1606
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
+      "docId": "plot.xianni-ch1696-fan-ke-wei-zhu-hun-mo-zhou-jinzhi",
       "dated": false,
-      "seq": 1601
+      "seq": 1606
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1696-fan-ke-wei-zhu-hun-mo-zhou-jinzhi",
+      "dated": false,
+      "seq": 1606
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1696-fan-ke-wei-zhu-hun-mo-zhou-jinzhi",
+      "dated": false,
+      "seq": 1606
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1696-fan-ke-wei-zhu-hun-mo-zhou-jinzhi",
+      "dated": false,
+      "seq": 1606
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1694-fan-shanlu-dream-forbidden-ship"
+    "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
+    "plot.xianni-ch1696-fan-ke-wei-zhu-hun-mo-zhou-jinzhi"
   ],
-  "updatedAt": "2026-08-26T12:32:37.514Z"
+  "updatedAt": "2026-08-30T02:00:19.233Z"
 }

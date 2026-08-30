@@ -8,16 +8,18 @@
     "朱雀国传送祭坛",
     "巨大祭坛",
     "玄阴鼎祭坛",
-    "女子当年所说的祭坛"
+    "女子当年所说的祭坛",
+    "魂魔舟最后一层的祭坛",
+    "道古之力祭坛"
   ],
   "summary": "朱雀国每百年召集所有五级修真国朝议之处，红蝶断臂自漩涡坠落于此。",
   "attributes": {
     "所属势力": "朱雀国",
-    "类型": "祭坛、传送祭坛、祭坛/斗法场、祭坛/传送节点、祭坛/禁地",
+    "类型": "祭坛、传送祭坛、祭坛/斗法场、祭坛/传送节点、祭坛/禁地、祭坛/传承之地",
     "所属界面": "朱雀星",
     "规模": "外围环形光环可坐近百位使者",
-    "上级区域": "朱雀国",
-    "守护": "大门、玄阴鼎之灵、仙选族世世代代守护",
+    "上级区域": "魂魔舟最后一层",
+    "守护": "大门、玄阴鼎之灵、仙选族世世代代守护、道古之力防护",
     "危险度": "随时可能崩溃"
   },
   "observations": {
@@ -53,6 +55,11 @@
         "value": "祭坛/禁地",
         "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
         "seq": 764
+      },
+      {
+        "value": "祭坛/传承之地",
+        "docId": "plot.xianni-ch1696-fan-ke-wei-zhu-hun-mo-zhou-jinzhi",
+        "seq": 1606
       }
     ],
     "所属界面": [
@@ -74,6 +81,11 @@
         "value": "朱雀国",
         "docId": "plot.xianni-ch361-zhuque-guo-arrival",
         "seq": 341
+      },
+      {
+        "value": "魂魔舟最后一层",
+        "docId": "plot.xianni-ch1696-fan-ke-wei-zhu-hun-mo-zhou-jinzhi",
+        "seq": 1606
       }
     ],
     "守护": [
@@ -91,6 +103,11 @@
         "value": "仙选族世世代代守护",
         "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
         "seq": 764
+      },
+      {
+        "value": "道古之力防护",
+        "docId": "plot.xianni-ch1696-fan-ke-wei-zhu-hun-mo-zhou-jinzhi",
+        "seq": 1606
       }
     ],
     "危险度": [
@@ -130,9 +147,9 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+      "docId": "plot.xianni-ch1696-fan-ke-wei-zhu-hun-mo-zhou-jinzhi",
       "dated": false,
-      "seq": 341
+      "seq": 1606
     },
     "守护": {
       "asOf": null,
@@ -155,7 +172,8 @@
     "plot.xianni-ch361-zhuque-guo-arrival",
     "plot.xianni-ch761-763-shen-che-jiefeng-yu-xiaxu-beimin",
     "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
-    "lore.xianni-ch1695-qicai-three-souls-seven-po"
+    "lore.xianni-ch1695-qicai-three-souls-seven-po",
+    "plot.xianni-ch1696-fan-ke-wei-zhu-hun-mo-zhou-jinzhi"
   ],
-  "updatedAt": "2026-08-26T12:40:21.128Z"
+  "updatedAt": "2026-08-30T02:00:19.236Z"
 }

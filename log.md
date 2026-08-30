@@ -1020,3 +1020,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-26T12:25:33.144Z** `ingest` plot.xianni-1693-qicai-arrival — 第1693章 七彩来临——七彩道人索弓，王林与矾珊璐星空逃亡 · kind=plot asOf=2026-08-26 entities=23 relations=29 src=01601-01605.p3.md
 - **2026-08-26T12:32:38.043Z** `ingest` plot.xianni-1694-fan-shanlu-dream-forbidden-ship — 第1694章 矾珊梦！——矾珊璐眉心漩涡异变与禁制之船 · kind=plot asOf=2026-08-26 entities=39 relations=66 src=01601-01605.p4.md
 - **2026-08-26T12:40:21.549Z** `ingest` lore.xianni-ch1695-qicai-three-souls-seven-po — 第1695章 三魂七魄：七彩仙尊崩碎之谜与洞府界隐秘 · kind=lore asOf=2026-08-26 entities=46 relations=77 src=01601-01605.p5.md
+- **2026-08-30T02:00:19.809Z** `ingest` plot.xianni-ch1696-fan-ke-wei-zhu-hun-mo-zhou-jinzhi — 第1696章 反客为主：王林研究魂魔舟禁制破局 · kind=plot asOf=2026-08-30 entities=17 relations=25 src=01606-01610.p1.md
