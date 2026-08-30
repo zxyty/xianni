@@ -4,16 +4,18 @@
   "name": "朱雀一代老祖",
   "aliases": [
     "一代老祖",
-    "大魂门一代老祖"
+    "大魂门一代老祖",
+    "大魂门创立先祖"
   ],
   "summary": "朱雀一族古往今来唯一以燃业障成就虚火之境者，当年在仙尊保护下于早年成功；亦是唯一能阻止业火焚身之人。",
   "attributes": {
     "种族": "朱雀一族",
     "称号": "一代老祖",
     "小阶段": "空劫初期",
-    "身份": "大魂门创派老祖",
+    "身份": "大魂门创派先祖",
     "出身地": "仙罡大陆某隐秘极强门派",
-    "标志特征": "身份极为神秘，历代老祖无人知晓；擅推衍未来"
+    "标志特征": "身份极为神秘，历代老祖无人知晓；擅推衍未来",
+    "存殁": "坐化"
   },
   "observations": {
     "种族": [
@@ -52,6 +54,11 @@
         "value": "大魂门创派老祖",
         "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
         "seq": 1745
+      },
+      {
+        "value": "大魂门创派先祖",
+        "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
+        "seq": 1760
       }
     ],
     "出身地": [
@@ -67,6 +74,14 @@
         "value": "身份极为神秘，历代老祖无人知晓；擅推衍未来",
         "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
         "seq": 1745
+      }
+    ],
+    "存殁": [
+      {
+        "value": "坐化",
+        "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
+        "seq": 1760,
+        "note": "坐化于藏魂阁第十层"
       }
     ]
   },
@@ -92,9 +107,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
+      "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
       "dated": false,
-      "seq": 1745
+      "seq": 1760
     },
     "出身地": {
       "asOf": null,
@@ -108,6 +123,13 @@
       "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
       "dated": false,
       "seq": 1745
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
+      "dated": false,
+      "seq": 1760,
+      "note": "坐化于藏魂阁第十层"
     }
   },
   "contested": false,
@@ -117,7 +139,8 @@
     "plot.xianni-ch1426-jiang-li-liujinbiao-captured-huoquezu",
     "plot.xianni-ch1427-ming-zhi-fen-jie-gu-san",
     "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
-    "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice"
+    "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
+    "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan"
   ],
-  "updatedAt": "2026-08-30T11:11:31.003Z"
+  "updatedAt": "2026-08-30T11:49:35.226Z"
 }

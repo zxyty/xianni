@@ -9,15 +9,17 @@
     "多重幻道",
     "大魂门第九层多重幻术",
     "第九层多重幻术",
-    "藏魂阁第九层多重幻术"
+    "藏魂阁第九层多重幻术",
+    "一至九重多重幻术",
+    "以鬼幻人之法"
   ],
   "summary": "王林此行藏魂阁欲寻的两种神通之一，至第五层仍未寻到。",
   "attributes": {
-    "效果": "幻术叠加、层层幻境叠加之幻术",
+    "效果": "幻术叠加、层层幻境叠加之幻术、以死魂意志为养料层层叠加幻术，令人迷失其中；意志越强幻术越强",
     "出处": "大魂门藏魂阁、大魂门藏魂阁魂体、藏魂阁第三魂体（八重·不完整）；完整版疑在第九层、洞府界、大魂门、大魂门藏魂阁第九层",
     "适用境界": "空劫",
-    "品阶": "第九层",
-    "修炼条件": "需分化残魂沟通天地（王林本章方悟）"
+    "品阶": "以九重为极限、第九层、大魂门内最强之术",
+    "修炼条件": "需炼制鬼帆，鬼帆品阶决定可施展的幻术重数"
   },
   "observations": {
     "效果": [
@@ -30,6 +32,11 @@
         "value": "层层幻境叠加之幻术",
         "docId": "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
         "seq": 1740
+      },
+      {
+        "value": "以死魂意志为养料层层叠加幻术，令人迷失其中；意志越强幻术越强",
+        "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
+        "seq": 1760
       }
     ],
     "出处": [
@@ -82,6 +89,11 @@
         "value": "第九层",
         "docId": "plot.xianni-ch1851-hun-yi-ling",
         "seq": 1760
+      },
+      {
+        "value": "大魂门内最强之术",
+        "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
+        "seq": 1760
       }
     ],
     "修炼条件": [
@@ -89,6 +101,11 @@
         "value": "需分化残魂沟通天地（王林本章方悟）",
         "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
         "seq": 1745
+      },
+      {
+        "value": "需炼制鬼帆，鬼帆品阶决定可施展的幻术重数",
+        "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
+        "seq": 1760
       }
     ]
   },
@@ -114,15 +131,16 @@
     },
     "品阶": {
       "asOf": null,
-      "docId": "plot.xianni-ch1851-hun-yi-ling",
+      "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
       "dated": false,
-      "seq": 1760
+      "seq": 1745,
+      "note": "第八层版本缺第九重"
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
+      "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
       "dated": false,
-      "seq": 1745
+      "seq": 1760
     }
   },
   "contested": false,
@@ -133,7 +151,8 @@
     "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
     "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
     "plot.xianni-ch1851-hun-yi-ling",
-    "plot.xianni-ch1852-wang-lin-guess-da-hun-men-war"
+    "plot.xianni-ch1852-wang-lin-guess-da-hun-men-war",
+    "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan"
   ],
-  "updatedAt": "2026-08-30T11:47:13.418Z"
+  "updatedAt": "2026-08-30T11:49:35.244Z"
 }

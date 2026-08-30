@@ -1151,3 +1151,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T11:42:22.450Z** `ingest` plot.xianni-ch1850-immortal-pill-explodes — 第1850章 仙丹崩！——王林斩破百丈丹海，仙丹提前炸开 · kind=plot asOf=2026-08-30 entities=13 relations=24 src=01760-01764.p2.md
 - **2026-08-30T11:44:54.064Z** `ingest` plot.xianni-ch1851-hun-yi-ling — 仙逆 第1851章 魂一令：丹海化虚无、王林疗伤献功、两洲开战 · kind=plot asOf=2026-08-30 entities=24 relations=33 src=01760-01764.p3.md
 - **2026-08-30T11:47:13.878Z** `ingest` plot.xianni-ch1852-wang-lin-guess-da-hun-men-war — 仙逆·第1852章 猜测！——王林归山门，索取藏魂阁第九层多重幻术 · kind=plot asOf=2026-08-30 entities=23 relations=28 src=01760-01764.p4.md
+- **2026-08-30T11:49:35.727Z** `ingest` plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan — 仙逆第1853章 闹鬼：王林换取完整多重幻术，悟出幻术源于死魂意志 · kind=plot asOf=2026-08-30 entities=25 relations=34 src=01760-01764.p5.md

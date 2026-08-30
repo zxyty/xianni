@@ -8,7 +8,9 @@
   "summary": "万古岁月前开辟出的所在，魂一令下令天牛洲一切可战修士前往集结之地。",
   "attributes": {
     "所属界面": "天牛洲",
-    "类型": "集结要地"
+    "类型": "集结要地、镇守要地",
+    "上级区域": "天牛洲",
+    "规模": "七穴"
   },
   "observations": {
     "所属界面": [
@@ -22,6 +24,25 @@
       {
         "value": "集结要地",
         "docId": "plot.xianni-ch1851-hun-yi-ling",
+        "seq": 1760
+      },
+      {
+        "value": "镇守要地",
+        "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
+        "seq": 1760
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "天牛洲",
+        "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
+        "seq": 1760
+      }
+    ],
+    "规模": [
+      {
+        "value": "七穴",
+        "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
         "seq": 1760
       }
     ]
@@ -39,12 +60,25 @@
       "docId": "plot.xianni-ch1851-hun-yi-ling",
       "dated": false,
       "seq": 1760
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
+      "dated": false,
+      "seq": 1760
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
+      "dated": false,
+      "seq": 1760
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1851-hun-yi-ling"
+    "plot.xianni-ch1851-hun-yi-ling",
+    "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan"
   ],
-  "updatedAt": "2026-08-30T11:44:53.606Z"
+  "updatedAt": "2026-08-30T11:49:35.236Z"
 }

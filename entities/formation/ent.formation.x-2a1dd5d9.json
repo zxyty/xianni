@@ -4,12 +4,14 @@
   "name": "大魂门护门大阵",
   "aliases": [
     "护门阵法",
-    "大魂门护山大阵"
+    "大魂门护山大阵",
+    "绝品鬼帆"
   ],
   "summary": "笼罩大魂门的护门阵法，运转时天地扭曲弥漫杀机；验证时释放威压穿身而过，清除体内多余元神与神识并判断肉身与元神紧密度。",
   "attributes": {
     "效果": "扭曲遮蔽门内景象、散发杀机、清除多余元神神识、验证肉身与元神紧密度",
-    "出处": "大魂门"
+    "出处": "大魂门",
+    "品阶": "绝品"
   },
   "observations": {
     "效果": [
@@ -40,6 +42,13 @@
         "docId": "plot.xianni-ch1852-wang-lin-guess-da-hun-men-war",
         "seq": 1760
       }
+    ],
+    "品阶": [
+      {
+        "value": "绝品",
+        "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
+        "seq": 1760
+      }
     ]
   },
   "firstSeq": 1760,
@@ -55,12 +64,19 @@
       "docId": "plot.xianni-ch1852-wang-lin-guess-da-hun-men-war",
       "dated": false,
       "seq": 1760
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan",
+      "dated": false,
+      "seq": 1760
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1852-wang-lin-guess-da-hun-men-war"
+    "plot.xianni-ch1852-wang-lin-guess-da-hun-men-war",
+    "plot.xianni-1853-nao-gui-duo-chong-huan-shu-gui-fan"
   ],
-  "updatedAt": "2026-08-30T11:47:13.419Z"
+  "updatedAt": "2026-08-30T11:49:35.247Z"
 }
