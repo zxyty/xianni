@@ -4,14 +4,16 @@
   "name": "苍龙宗",
   "aliases": [
     "Cang Long Zong",
-    "苍龙宗宗门"
+    "苍龙宗宗门",
+    "Canglong Sect"
   ],
   "summary": "天牛洲中等宗门，杜青所创，弟子擅机关傀儡术且可与自身转换以求万古不灭；凶名在外，常杀人夺宝、专挑外洲修士下手。",
   "attributes": {
     "据点": "天牛洲、毒瘴山峦中的山谷",
     "所属界面": "仙罡大陆",
     "等级": "天牛洲中等层次宗门",
-    "理念": "有古怪、有问题、有宝贝、机关傀儡术、杀人夺宝、盛行炼制傀儡、以天水大阵应对万年一次地火异变"
+    "理念": "有古怪、有问题、有宝贝、机关傀儡术、杀人夺宝、盛行炼制傀儡、以天水大阵应对万年一次地火异变",
+    "掌门": "苍龙宗宗主（空玄初期）"
   },
   "observations": {
     "据点": [
@@ -66,6 +68,13 @@
         "docId": "plot.xianni-ch1803-di-huo-bian",
         "seq": 1710
       }
+    ],
+    "掌门": [
+      {
+        "value": "苍龙宗宗主（空玄初期）",
+        "docId": "plot.xianni-1804-xiangang-first-battle-canglong-sect",
+        "seq": 1715
+      }
     ]
   },
   "firstSeq": 1710,
@@ -93,6 +102,12 @@
       "docId": "plot.xianni-1801-tianniu-zhou-canglongzong-kangren",
       "dated": false,
       "seq": 1710
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.xianni-1804-xiangang-first-battle-canglong-sect",
+      "dated": false,
+      "seq": 1715
     }
   },
   "contested": false,
@@ -100,7 +115,8 @@
   "docs": [
     "plot.xianni-1801-tianniu-zhou-canglongzong-kangren",
     "plot.xianni-ch1802-kang-ren-brings-calamity-home",
-    "plot.xianni-ch1803-di-huo-bian"
+    "plot.xianni-ch1803-di-huo-bian",
+    "plot.xianni-1804-xiangang-first-battle-canglong-sect"
   ],
-  "updatedAt": "2026-08-30T08:57:33.998Z"
+  "updatedAt": "2026-08-30T08:59:39.716Z"
 }

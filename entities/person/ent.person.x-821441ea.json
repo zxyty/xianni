@@ -4,14 +4,17 @@
   "name": "赵长老",
   "aliases": [
     "苍龙宗赵长老",
-    "中年男子长老"
+    "中年男子长老",
+    "苍龙宗中年男子"
   ],
   "summary": "苍龙宗第三步长老中修为最高者，空灵后期。地火爆发时下令布置天水大阵，随后以水汽气泡护体亲自下探康仁洞府查因。",
   "attributes": {
-    "身份": "苍龙宗第三步长老",
+    "身份": "苍龙宗长老，一人之上万人之下",
     "小阶段": "空灵后期",
     "外貌": "中年男子",
-    "性格": "阴沉、自傲、杀机深重"
+    "性格": "阴沉、自傲、杀机深重",
+    "阵营": "苍龙宗",
+    "性别": "男"
   },
   "observations": {
     "身份": [
@@ -19,6 +22,11 @@
         "value": "苍龙宗第三步长老",
         "docId": "plot.xianni-ch1803-di-huo-bian",
         "seq": 1710
+      },
+      {
+        "value": "苍龙宗长老，一人之上万人之下",
+        "docId": "plot.xianni-1804-xiangang-first-battle-canglong-sect",
+        "seq": 1715
       }
     ],
     "小阶段": [
@@ -41,15 +49,29 @@
         "docId": "plot.xianni-ch1803-di-huo-bian",
         "seq": 1710
       }
+    ],
+    "阵营": [
+      {
+        "value": "苍龙宗",
+        "docId": "plot.xianni-1804-xiangang-first-battle-canglong-sect",
+        "seq": 1715
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-1804-xiangang-first-battle-canglong-sect",
+        "seq": 1715
+      }
     ]
   },
   "firstSeq": 1710,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1803-di-huo-bian",
+      "docId": "plot.xianni-1804-xiangang-first-battle-canglong-sect",
       "dated": false,
-      "seq": 1710
+      "seq": 1715
     },
     "小阶段": {
       "asOf": null,
@@ -68,12 +90,25 @@
       "docId": "plot.xianni-ch1803-di-huo-bian",
       "dated": false,
       "seq": 1710
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1804-xiangang-first-battle-canglong-sect",
+      "dated": false,
+      "seq": 1715
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-1804-xiangang-first-battle-canglong-sect",
+      "dated": false,
+      "seq": 1715
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1803-di-huo-bian"
+    "plot.xianni-ch1803-di-huo-bian",
+    "plot.xianni-1804-xiangang-first-battle-canglong-sect"
   ],
-  "updatedAt": "2026-08-30T08:57:33.993Z"
+  "updatedAt": "2026-08-30T08:59:39.708Z"
 }

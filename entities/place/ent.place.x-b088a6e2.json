@@ -11,7 +11,8 @@
     "类型": "洞府",
     "上级区域": "苍龙宗山门山谷",
     "守护": "禁制封印、九具傀儡、两个漆黑木头人",
-    "危险度": "地火倒灌，化作火海"
+    "危险度": "地火倒灌，化作火海",
+    "所属界面": "仙罡大陆"
   },
   "observations": {
     "所属势力": [
@@ -58,6 +59,13 @@
         "docId": "plot.xianni-ch1803-di-huo-bian",
         "seq": 1710
       }
+    ],
+    "所属界面": [
+      {
+        "value": "仙罡大陆",
+        "docId": "plot.xianni-1804-xiangang-first-battle-canglong-sect",
+        "seq": 1715
+      }
     ]
   },
   "firstSeq": 1710,
@@ -91,13 +99,20 @@
       "docId": "plot.xianni-ch1803-di-huo-bian",
       "dated": false,
       "seq": 1710
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-1804-xiangang-first-battle-canglong-sect",
+      "dated": false,
+      "seq": 1715
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1802-kang-ren-brings-calamity-home",
-    "plot.xianni-ch1803-di-huo-bian"
+    "plot.xianni-ch1803-di-huo-bian",
+    "plot.xianni-1804-xiangang-first-battle-canglong-sect"
   ],
-  "updatedAt": "2026-08-30T08:57:34.006Z"
+  "updatedAt": "2026-08-30T08:59:39.720Z"
 }

@@ -4,13 +4,17 @@
   "name": "杜青",
   "aliases": [
     "太上长老杜青",
-    "Du Qing"
+    "Du Qing",
+    "苍龙宗老祖杜青",
+    "老祖杜青"
   ],
   "summary": "苍龙宗创立者与太上长老，宗内修为第一，达空劫初期；其身实为一具木头人，与大魂门关系极深。",
   "attributes": {
-    "身份": "苍龙宗创立者、苍龙宗太上长老",
+    "身份": "苍龙宗创立者、苍龙宗太上长老、苍龙宗老祖",
     "标志特征": "本身是一具木头人，施展神通时显出木头身体",
-    "外貌": "平时看起来与常人无异"
+    "外貌": "平时看起来与常人无异",
+    "阵营": "苍龙宗",
+    "性格": "残酷（曾将人炼成木头人）"
   },
   "observations": {
     "身份": [
@@ -23,6 +27,11 @@
         "value": "苍龙宗太上长老",
         "docId": "plot.xianni-1801-tianniu-zhou-canglongzong-kangren",
         "seq": 1710
+      },
+      {
+        "value": "苍龙宗老祖",
+        "docId": "plot.xianni-1804-xiangang-first-battle-canglong-sect",
+        "seq": 1715
       }
     ],
     "标志特征": [
@@ -38,6 +47,20 @@
         "docId": "plot.xianni-1801-tianniu-zhou-canglongzong-kangren",
         "seq": 1710,
         "note": "实为木头人"
+      }
+    ],
+    "阵营": [
+      {
+        "value": "苍龙宗",
+        "docId": "plot.xianni-1804-xiangang-first-battle-canglong-sect",
+        "seq": 1715
+      }
+    ],
+    "性格": [
+      {
+        "value": "残酷（曾将人炼成木头人）",
+        "docId": "plot.xianni-1804-xiangang-first-battle-canglong-sect",
+        "seq": 1715
       }
     ]
   },
@@ -61,12 +84,25 @@
       "dated": false,
       "seq": 1710,
       "note": "实为木头人"
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1804-xiangang-first-battle-canglong-sect",
+      "dated": false,
+      "seq": 1715
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-1804-xiangang-first-battle-canglong-sect",
+      "dated": false,
+      "seq": 1715
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1801-tianniu-zhou-canglongzong-kangren"
+    "plot.xianni-1801-tianniu-zhou-canglongzong-kangren",
+    "plot.xianni-1804-xiangang-first-battle-canglong-sect"
   ],
-  "updatedAt": "2026-08-30T08:53:15.161Z"
+  "updatedAt": "2026-08-30T08:59:39.714Z"
 }
