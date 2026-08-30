@@ -1041,3 +1041,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T03:36:46.947Z** `ingest` plot.xianni-ch1718-lunhui-yiti-shu — 第1718章 轮回一体（青霖探本源·蓝梦道尊道破轮回一体术） · kind=plot asOf=2026-08-30 entities=17 relations=22 src=01626-01630.p3.md
 - **2026-08-30T03:39:08.312Z** `ingest` plot.xianni-ch1719-tianyunzi-clone-hunt-guihe-star-region — 第1719章 诡异！——王林追杀天运子分身，禁制本源反被夺，天运子第九十八次觉醒 · kind=plot asOf=2026-08-30 entities=23 relations=32 src=01626-01630.p4.md
 - **2026-08-30T03:41:09.145Z** `ingest` plot.xianni-ch1720-wang-lin-challenges-tian-yun-zi-daogu-bloodline — 第1720章 天运子，你能么？——王林以道古血脉破局，反定游戏规则 · kind=plot asOf=2026-08-30 entities=13 relations=17 src=01626-01630.p5.md
+- **2026-08-30T03:43:34.362Z** `ingest` plot.xianni-1721-tianyunzi-falls-for-trap — 仙逆 第1721章 天运中计！——王林以三千魂息为引，梦回追寻天运子本尊 · kind=plot asOf=2026-08-30 entities=20 relations=30 src=01631-01635.p1.md
