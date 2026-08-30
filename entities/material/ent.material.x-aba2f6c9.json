@@ -3,19 +3,25 @@
   "type": "material",
   "name": "地火",
   "aliases": [
-    "地底地火"
+    "地底地火",
+    "仙罡地火"
   ],
   "summary": "自地底深处抽取的极高温火焰，为炼制傀儡的必需配合之物；温度极高，唯拥有火本源的大能可在其冲击中无碍甚至借此修炼。",
   "attributes": {
-    "类型": "地脉火焰",
-    "用途": "炼制傀儡的必需配合",
-    "产地": "地底深处"
+    "类型": "地脉火焰、天地之火",
+    "用途": "炼制傀儡的必需配合、炼制傀儡、淬炼滋养火之本源",
+    "产地": "地底深处、仙罡大陆地火脉"
   },
   "observations": {
     "类型": [
       {
         "value": "地脉火焰",
         "docId": "plot.xianni-ch1802-kang-ren-brings-calamity-home",
+        "seq": 1710
+      },
+      {
+        "value": "天地之火",
+        "docId": "plot.xianni-ch1803-di-huo-bian",
         "seq": 1710
       }
     ],
@@ -24,12 +30,27 @@
         "value": "炼制傀儡的必需配合",
         "docId": "plot.xianni-ch1802-kang-ren-brings-calamity-home",
         "seq": 1710
+      },
+      {
+        "value": "炼制傀儡",
+        "docId": "plot.xianni-ch1803-di-huo-bian",
+        "seq": 1710
+      },
+      {
+        "value": "淬炼滋养火之本源",
+        "docId": "plot.xianni-ch1803-di-huo-bian",
+        "seq": 1710
       }
     ],
     "产地": [
       {
         "value": "地底深处",
         "docId": "plot.xianni-ch1802-kang-ren-brings-calamity-home",
+        "seq": 1710
+      },
+      {
+        "value": "仙罡大陆地火脉",
+        "docId": "plot.xianni-ch1803-di-huo-bian",
         "seq": 1710
       }
     ]
@@ -58,7 +79,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1802-kang-ren-brings-calamity-home"
+    "plot.xianni-ch1802-kang-ren-brings-calamity-home",
+    "plot.xianni-ch1803-di-huo-bian"
   ],
-  "updatedAt": "2026-08-30T08:55:06.631Z"
+  "updatedAt": "2026-08-30T08:57:34.012Z"
 }

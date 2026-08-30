@@ -10,7 +10,8 @@
     "所属势力": "苍龙宗",
     "类型": "洞府",
     "上级区域": "苍龙宗山门山谷",
-    "守护": "禁制封印、九具傀儡、两个漆黑木头人"
+    "守护": "禁制封印、九具傀儡、两个漆黑木头人",
+    "危险度": "地火倒灌，化作火海"
   },
   "observations": {
     "所属势力": [
@@ -50,6 +51,13 @@
         "docId": "plot.xianni-ch1802-kang-ren-brings-calamity-home",
         "seq": 1710
       }
+    ],
+    "危险度": [
+      {
+        "value": "地火倒灌，化作火海",
+        "docId": "plot.xianni-ch1803-di-huo-bian",
+        "seq": 1710
+      }
     ]
   },
   "firstSeq": 1710,
@@ -77,12 +85,19 @@
       "docId": "plot.xianni-ch1802-kang-ren-brings-calamity-home",
       "dated": false,
       "seq": 1710
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1803-di-huo-bian",
+      "dated": false,
+      "seq": 1710
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1802-kang-ren-brings-calamity-home"
+    "plot.xianni-ch1802-kang-ren-brings-calamity-home",
+    "plot.xianni-ch1803-di-huo-bian"
   ],
-  "updatedAt": "2026-08-30T08:55:06.628Z"
+  "updatedAt": "2026-08-30T08:57:34.006Z"
 }
