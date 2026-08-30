@@ -11,9 +11,10 @@
   "attributes": {
     "等级": "东洲第一宗",
     "所属界面": "仙罡大陆",
-    "据点": "东州",
+    "据点": "石室",
     "阵营": "仙族",
-    "镇派之宝": "映照天尊涅的巨镜"
+    "镇派之宝": "双子大天尊",
+    "理念": "欲招揽王林但自知底蕴不及久帝与仙皇"
   },
   "observations": {
     "等级": [
@@ -65,6 +66,11 @@
         "value": "东州",
         "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
         "seq": 1824
+      },
+      {
+        "value": "石室",
+        "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+        "seq": 1868
       }
     ],
     "阵营": [
@@ -79,6 +85,18 @@
         "value": "映照天尊涅的巨镜",
         "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
         "seq": 1863
+      },
+      {
+        "value": "双子大天尊",
+        "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+        "seq": 1868
+      }
+    ],
+    "理念": [
+      {
+        "value": "欲招揽王林但自知底蕴不及久帝与仙皇",
+        "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+        "seq": 1868
       }
     ]
   },
@@ -98,9 +116,9 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
+      "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
       "dated": false,
-      "seq": 1824
+      "seq": 1868
     },
     "阵营": {
       "asOf": null,
@@ -110,9 +128,15 @@
     },
     "镇派之宝": {
       "asOf": null,
-      "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+      "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
       "dated": false,
-      "seq": 1863
+      "seq": 1868
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+      "dated": false,
+      "seq": 1868
     }
   },
   "contested": false,
@@ -123,7 +147,8 @@
     "plot.xianni-1796-stubborn-will-xianguang-continent-overview",
     "lore.xianni-1917-xianzu-five-great-tianzun",
     "plot.xianni-1921-tianzun-nie-trial-ground",
-    "plot.xianni-1863-1867-tianzun-nie-yiming-jingren"
+    "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+    "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor"
   ],
-  "updatedAt": "2026-08-30T18:30:48.362Z"
+  "updatedAt": "2026-08-30T18:45:27.879Z"
 }

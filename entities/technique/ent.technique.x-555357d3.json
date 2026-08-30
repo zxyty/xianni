@@ -3,11 +3,14 @@
   "type": "technique",
   "name": "八极道",
   "aliases": [
-    "仙祖八极道"
+    "仙祖八极道",
+    "Bajidao"
   ],
   "summary": "仙祖所留传承，中州仙皇承之而号八极大天尊。",
   "attributes": {
-    "出处": "仙祖"
+    "出处": "仙祖、仙祖连云决，源出太古神境、仙祖传承于太古神境",
+    "修炼条件": "闯过天尊涅相应层数",
+    "效果": "仙祖一生神通凝聚所化、共八种极道，王林已掌握两种"
   },
   "observations": {
     "出处": [
@@ -15,6 +18,35 @@
         "value": "仙祖",
         "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
         "seq": 1824
+      },
+      {
+        "value": "仙祖连云决，源出太古神境",
+        "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+        "seq": 1868
+      },
+      {
+        "value": "仙祖传承于太古神境",
+        "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+        "seq": 1868
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "闯过天尊涅相应层数",
+        "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+        "seq": 1868
+      }
+    ],
+    "效果": [
+      {
+        "value": "仙祖一生神通凝聚所化",
+        "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+        "seq": 1868
+      },
+      {
+        "value": "共八种极道，王林已掌握两种",
+        "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+        "seq": 1868
       }
     ]
   },
@@ -25,12 +57,25 @@
       "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
       "dated": false,
       "seq": 1824
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+      "dated": false,
+      "seq": 1868
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+      "dated": false,
+      "seq": 1868
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.xianni-1917-xianzu-five-great-tianzun"
+    "lore.xianni-1917-xianzu-five-great-tianzun",
+    "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor"
   ],
-  "updatedAt": "2026-08-30T16:53:06.890Z"
+  "updatedAt": "2026-08-30T18:45:27.771Z"
 }

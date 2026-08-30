@@ -12,9 +12,10 @@
   "attributes": {
     "所属界面": "仙罡大陆",
     "方位": "冉云星北部",
-    "类型": "大能居所",
+    "类型": "凡人帝国、山脉/修行地、大能居所、山、大天尊道场",
     "特产": "满山红叶",
-    "上级区域": "中州"
+    "上级区域": "中州",
+    "所属势力": "久帝大天尊"
   },
   "observations": {
     "所属界面": [
@@ -51,6 +52,16 @@
         "value": "大能居所",
         "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
         "seq": 1863
+      },
+      {
+        "value": "山",
+        "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+        "seq": 1868
+      },
+      {
+        "value": "大天尊道场",
+        "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+        "seq": 1868
       }
     ],
     "特产": [
@@ -65,6 +76,13 @@
         "value": "中州",
         "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
         "seq": 1863
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "久帝大天尊",
+        "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+        "seq": 1868
       }
     ]
   },
@@ -84,9 +102,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+      "docId": "plot.xianni-ch656-660-separation-and-years",
       "dated": false,
-      "seq": 1863
+      "seq": 656
     },
     "特产": {
       "asOf": null,
@@ -99,6 +117,12 @@
       "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
       "dated": false,
       "seq": 1863
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+      "dated": false,
+      "seq": 1868
     }
   },
   "contested": false,
@@ -106,7 +130,8 @@
   "docs": [
     "plot.xianni-ch656-660-separation-and-years",
     "plot.xianni-1935-whose-severed-palm",
-    "plot.xianni-1863-1867-tianzun-nie-yiming-jingren"
+    "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+    "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor"
   ],
-  "updatedAt": "2026-08-30T18:30:48.358Z"
+  "updatedAt": "2026-08-30T18:45:27.866Z"
 }

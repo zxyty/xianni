@@ -9,13 +9,14 @@
     "中洲",
     "中州都城",
     "仙族大地中州",
-    "中州地界"
+    "中州地界",
+    "中州大地"
   ],
   "summary": "仙罡大陆仙族所在之州，皇都皇城所在地。",
   "attributes": {
     "所属界面": "仙罡大陆",
-    "所属势力": "大天尊/仙皇一系",
-    "类型": "洲",
+    "所属势力": "中州皇族",
+    "类型": "大区域、仙族皇城、地域、洲/域、洲（大陆分区）、洲、大区、州域",
     "特产": "元石、珍贵疗伤丹药、都城房产",
     "危险度": "龙潭虎穴（有大天尊坐镇）",
     "上级区域": "仙族大地",
@@ -50,6 +51,11 @@
         "value": "大天尊/仙皇一系",
         "docId": "plot.xianni-1934-yi-nan-yi-nv-duan-zhang-feng-yin",
         "seq": 1844
+      },
+      {
+        "value": "中州皇族",
+        "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+        "seq": 1868
       }
     ],
     "类型": [
@@ -82,6 +88,16 @@
         "value": "洲",
         "docId": "plot.xianni-ch1936-half-zhang-light-curtain",
         "seq": 1844
+      },
+      {
+        "value": "大区",
+        "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+        "seq": 1868
+      },
+      {
+        "value": "州域",
+        "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+        "seq": 1868
       }
     ],
     "特产": [
@@ -153,15 +169,15 @@
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-1934-yi-nan-yi-nv-duan-zhang-feng-yin",
+      "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
       "dated": false,
-      "seq": 1844
+      "seq": 1868
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1936-half-zhang-light-curtain",
+      "docId": "plot.xianni-ch1838-three-gifts-space-stone-mist-jade-water-origin",
       "dated": false,
-      "seq": 1844
+      "seq": 1745
     },
     "特产": {
       "asOf": null,
@@ -204,7 +220,8 @@
     "plot.xianni-1934-yi-nan-yi-nv-duan-zhang-feng-yin",
     "plot.xianni-ch1936-half-zhang-light-curtain",
     "plot.xianni-1943-yumu-xia-liu-jinbiao-memory-restored",
-    "plot.xianni-1863-1867-tianzun-nie-yiming-jingren"
+    "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+    "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor"
   ],
-  "updatedAt": "2026-08-30T18:30:48.357Z"
+  "updatedAt": "2026-08-30T18:45:27.886Z"
 }

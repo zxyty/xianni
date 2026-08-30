@@ -9,8 +9,9 @@
   "summary": "王林往返天尊涅之地所用的古老传送阵，入阵者化雾消失。",
   "attributes": {
     "类型": "传送阵",
-    "两端": "仙族各地—天尊涅之地",
-    "可通行境界": "天尊级修士神识"
+    "两端": "天尊涅之地 ↔ 王林所来之处、仙罡大陆（神识出窍）—天尊涅第一层、仙族各地—天尊涅之地、仙族大陆各地 ↔ 天尊涅、天尊涅之地 ↔ 外界",
+    "可通行境界": "天尊级修士神识",
+    "守护": "无（受禁制争斗规定保护）"
   },
   "observations": {
     "类型": [
@@ -35,6 +36,17 @@
         "value": "仙族各地—天尊涅之地",
         "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
         "seq": 1863
+      },
+      {
+        "value": "仙族大陆各地 ↔ 天尊涅",
+        "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+        "seq": 1868,
+        "note": "本章仅体现来向"
+      },
+      {
+        "value": "天尊涅之地 ↔ 外界",
+        "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+        "seq": 1868
       }
     ],
     "可通行境界": [
@@ -42,6 +54,13 @@
         "value": "天尊级修士神识",
         "docId": "plot.xianni-1950-zailin-tianzunnie",
         "seq": 1858
+      }
+    ],
+    "守护": [
+      {
+        "value": "无（受禁制争斗规定保护）",
+        "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+        "seq": 1868
       }
     ]
   },
@@ -55,15 +74,21 @@
     },
     "两端": {
       "asOf": null,
-      "docId": "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+      "docId": "plot.xianni-1929-haizi-tianzun-shanhai-shuling",
       "dated": false,
-      "seq": 1863
+      "seq": 1839
     },
     "可通行境界": {
       "asOf": null,
       "docId": "plot.xianni-1950-zailin-tianzunnie",
       "dated": false,
       "seq": 1858
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+      "dated": false,
+      "seq": 1868
     }
   },
   "contested": false,
@@ -71,7 +96,8 @@
   "docs": [
     "plot.xianni-1929-haizi-tianzun-shanhai-shuling",
     "plot.xianni-1950-zailin-tianzunnie",
-    "plot.xianni-1863-1867-tianzun-nie-yiming-jingren"
+    "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+    "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor"
   ],
-  "updatedAt": "2026-08-30T18:30:48.257Z"
+  "updatedAt": "2026-08-30T18:45:27.897Z"
 }

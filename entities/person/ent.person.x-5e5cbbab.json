@@ -14,16 +14,20 @@
     "仙皇八极大天尊",
     "仙皇大天尊",
     "下圣旨的仙皇",
-    "仙皇八极"
+    "仙皇八极",
+    "那位仙皇",
+    "八极"
   ],
   "summary": "远古仙域之主，天地初开便存在；在天逆引发的剧变中被那法宝重伤，闭关不问世事，至今未醒。",
   "attributes": {
-    "身份": "远古仙域之皇、远古至强者、设局者、仙族之主、仙族至高存在、皇族之主、圣旨下达者、中州仙皇、仙皇、大天尊",
+    "身份": "远古仙域之皇、远古至强者、设局者、仙族之主、仙族至高存在、皇族之主、圣旨下达者、中州仙皇、仙皇、大天尊、中州皇族之主",
     "存殁": "闭关未出",
     "称号": "仙皇、远古仙皇、八极大天尊、大天尊、仙皇八极大天尊",
     "标志特征": "本身即九阳之一",
     "阵营": "仙族",
-    "性格": "最为凌傲"
+    "性格": "最为凌傲",
+    "外貌": "穿金袍、戴帝冠，相貌与仙祖极为相似的中年男子、金袍帝冠的虚影",
+    "出身地": "中州燕京皇城、中州皇族"
   },
   "observations": {
     "身份": [
@@ -71,6 +75,11 @@
         "value": "大天尊",
         "docId": "plot.xianni-ch1951-tianzun-nie-first-hall",
         "seq": 1858
+      },
+      {
+        "value": "中州皇族之主",
+        "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+        "seq": 1868
       }
     ],
     "存殁": [
@@ -133,6 +142,31 @@
         "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
         "seq": 1829
       }
+    ],
+    "外貌": [
+      {
+        "value": "穿金袍、戴帝冠，相貌与仙祖极为相似的中年男子",
+        "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+        "seq": 1868
+      },
+      {
+        "value": "金袍帝冠的虚影",
+        "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+        "seq": 1868,
+        "note": "附于一名天尊修士体外的神通虚影"
+      }
+    ],
+    "出身地": [
+      {
+        "value": "中州燕京皇城",
+        "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+        "seq": 1868
+      },
+      {
+        "value": "中州皇族",
+        "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+        "seq": 1868
+      }
     ]
   },
   "firstSeq": 1200,
@@ -173,6 +207,18 @@
       "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
       "dated": false,
       "seq": 1829
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+      "dated": false,
+      "seq": 1868
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
+      "dated": false,
+      "seq": 1868
     }
   },
   "contested": false,
@@ -189,7 +235,8 @@
     "plot.xianni-1921-tianzun-nie-trial-ground",
     "plot.xianni-1922-first-old-acquaintance",
     "plot.xianni-ch1951-tianzun-nie-first-hall",
-    "plot.xianni-1863-1867-tianzun-nie-yiming-jingren"
+    "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
+    "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor"
   ],
-  "updatedAt": "2026-08-30T18:30:48.370Z"
+  "updatedAt": "2026-08-30T18:45:27.812Z"
 }
