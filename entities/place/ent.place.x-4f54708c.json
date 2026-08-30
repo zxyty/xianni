@@ -10,9 +10,10 @@
   "attributes": {
     "所属界面": "仙罡大陆",
     "所属势力": "仙族",
-    "类型": "皇都",
-    "方位": "仙罡大陆仙族中州",
-    "规模": "殿宇数万丈，金光万丈"
+    "类型": "皇城",
+    "方位": "远处无尽之地",
+    "规模": "殿宇数万丈，金光万丈",
+    "上级区域": "中州"
   },
   "observations": {
     "所属界面": [
@@ -34,6 +35,11 @@
         "value": "皇都",
         "docId": "plot.xianni-1807-cangzhongzong-hunt-open-storage-space",
         "seq": 1715
+      },
+      {
+        "value": "皇城",
+        "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
+        "seq": 1745
       }
     ],
     "方位": [
@@ -41,6 +47,11 @@
         "value": "仙罡大陆仙族中州",
         "docId": "plot.xianni-1807-cangzhongzong-hunt-open-storage-space",
         "seq": 1715
+      },
+      {
+        "value": "远处无尽之地",
+        "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
+        "seq": 1745
       }
     ],
     "规模": [
@@ -48,6 +59,13 @@
         "value": "殿宇数万丈，金光万丈",
         "docId": "plot.xianni-1807-cangzhongzong-hunt-open-storage-space",
         "seq": 1715
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "中州",
+        "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
+        "seq": 1745
       }
     ]
   },
@@ -67,27 +85,34 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1807-cangzhongzong-hunt-open-storage-space",
+      "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
       "dated": false,
-      "seq": 1715
+      "seq": 1745
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-1807-cangzhongzong-hunt-open-storage-space",
+      "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
       "dated": false,
-      "seq": 1715
+      "seq": 1745
     },
     "规模": {
       "asOf": null,
       "docId": "plot.xianni-1807-cangzhongzong-hunt-open-storage-space",
       "dated": false,
       "seq": 1715
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
+      "dated": false,
+      "seq": 1745
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1807-cangzhongzong-hunt-open-storage-space"
+    "plot.xianni-1807-cangzhongzong-hunt-open-storage-space",
+    "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice"
   ],
-  "updatedAt": "2026-08-30T09:15:52.707Z"
+  "updatedAt": "2026-08-30T11:11:31.017Z"
 }

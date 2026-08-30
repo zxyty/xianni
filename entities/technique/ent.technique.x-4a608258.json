@@ -5,13 +5,16 @@
   "aliases": [
     "多重幻术神通",
     "大魂门多重幻术",
-    "多重幻术道术"
+    "多重幻术道术",
+    "多重幻道"
   ],
   "summary": "王林此行藏魂阁欲寻的两种神通之一，至第五层仍未寻到。",
   "attributes": {
     "效果": "幻术叠加、层层幻境叠加之幻术",
-    "出处": "大魂门藏魂阁魂体",
-    "适用境界": "空劫"
+    "出处": "大魂门藏魂阁、大魂门藏魂阁魂体、藏魂阁第三魂体（八重·不完整）；完整版疑在第九层、洞府界",
+    "适用境界": "空劫",
+    "品阶": "以九重为极限",
+    "修炼条件": "需分化残魂沟通天地（王林本章方悟）"
   },
   "observations": {
     "效果": [
@@ -36,6 +39,16 @@
         "value": "大魂门藏魂阁魂体",
         "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
         "seq": 1745
+      },
+      {
+        "value": "藏魂阁第三魂体（八重·不完整）；完整版疑在第九层",
+        "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
+        "seq": 1745
+      },
+      {
+        "value": "洞府界",
+        "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
+        "seq": 1745
       }
     ],
     "适用境界": [
@@ -43,6 +56,21 @@
         "value": "空劫",
         "docId": "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
         "seq": 1740
+      }
+    ],
+    "品阶": [
+      {
+        "value": "以九重为极限",
+        "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
+        "seq": 1745,
+        "note": "第八层版本缺第九重"
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "需分化残魂沟通天地（王林本章方悟）",
+        "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
+        "seq": 1745
       }
     ]
   },
@@ -56,15 +84,28 @@
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
+      "docId": "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
       "dated": false,
-      "seq": 1745
+      "seq": 1740
     },
     "适用境界": {
       "asOf": null,
       "docId": "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
       "dated": false,
       "seq": 1740
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
+      "dated": false,
+      "seq": 1745,
+      "note": "第八层版本缺第九重"
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
+      "dated": false,
+      "seq": 1745
     }
   },
   "contested": false,
@@ -72,7 +113,8 @@
   "docs": [
     "plot.xianni-1832-cang-hun-ge",
     "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
-    "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu"
+    "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
+    "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice"
   ],
-  "updatedAt": "2026-08-30T11:02:35.099Z"
+  "updatedAt": "2026-08-30T11:11:30.998Z"
 }

@@ -7,7 +7,9 @@
   "attributes": {
     "上级区域": "藏魂阁",
     "所属势力": "大魂门",
-    "危险度": "空劫后期的意志"
+    "危险度": "空劫后期的意志",
+    "类型": "神通选取层",
+    "特产": "九个七寸魂体"
   },
   "observations": {
     "上级区域": [
@@ -28,6 +30,20 @@
       {
         "value": "空劫后期的意志",
         "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
+        "seq": 1745
+      }
+    ],
+    "类型": [
+      {
+        "value": "神通选取层",
+        "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
+        "seq": 1745
+      }
+    ],
+    "特产": [
+      {
+        "value": "九个七寸魂体",
+        "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
         "seq": 1745
       }
     ]
@@ -51,12 +67,25 @@
       "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
       "dated": false,
       "seq": 1745
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
+      "dated": false,
+      "seq": 1745
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
+      "dated": false,
+      "seq": 1745
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu"
+    "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
+    "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice"
   ],
-  "updatedAt": "2026-08-30T11:02:35.090Z"
+  "updatedAt": "2026-08-30T11:11:30.955Z"
 }

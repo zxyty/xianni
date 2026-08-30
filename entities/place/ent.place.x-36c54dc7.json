@@ -8,8 +8,9 @@
   "summary": "藏魂阁最高层，藏有大魂门完整的多重幻术古老魂体；除青牛真人外无人可入，一代老祖曾推衍王林三百年后方可踏入。",
   "attributes": {
     "上级区域": "藏魂阁",
-    "危险度": "除青牛真人外无人可入",
-    "特产": "完整的多重幻术古老魂体"
+    "危险度": "楼梯威压极强",
+    "特产": "完整版多重幻术（九重幻术）",
+    "所属势力": "大魂门"
   },
   "observations": {
     "上级区域": [
@@ -24,6 +25,12 @@
         "value": "除青牛真人外无人可入",
         "docId": "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
         "seq": 1740
+      },
+      {
+        "value": "楼梯威压极强",
+        "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
+        "seq": 1745,
+        "note": "王林以当时修为强上代价太大"
       }
     ],
     "特产": [
@@ -31,6 +38,19 @@
         "value": "完整的多重幻术古老魂体",
         "docId": "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
         "seq": 1740
+      },
+      {
+        "value": "完整版多重幻术（九重幻术）",
+        "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
+        "seq": 1745,
+        "note": "王林推测"
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "大魂门",
+        "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
+        "seq": 1745
       }
     ]
   },
@@ -44,21 +64,30 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
+      "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
       "dated": false,
-      "seq": 1740
+      "seq": 1745,
+      "note": "王林以当时修为强上代价太大"
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
+      "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
       "dated": false,
-      "seq": 1740
+      "seq": 1745,
+      "note": "王林推测"
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
+      "dated": false,
+      "seq": 1745
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet"
+    "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
+    "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice"
   ],
-  "updatedAt": "2026-08-30T10:58:40.347Z"
+  "updatedAt": "2026-08-30T11:11:30.956Z"
 }
