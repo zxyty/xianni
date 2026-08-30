@@ -4,14 +4,17 @@
   "name": "归一宗九峰",
   "aliases": [
     "九座高耸入云的山峰",
-    "归一宗山门"
+    "归一宗山门",
+    "归一宗山门大阵",
+    "归一宗门外"
   ],
   "summary": "五行星东部排列成环形的九座插天山峰，如九剑指天，萧杀之气环绕方圆百万里，其内无凡人生灵、地面漆黑。",
   "attributes": {
     "所属势力": "归一宗",
-    "类型": "山门",
+    "类型": "宗门山门/护宗大阵",
     "方位": "五行星东部",
-    "规模": "环绕方圆百万里"
+    "规模": "环绕方圆百万里",
+    "守护": "山门大阵"
   },
   "observations": {
     "所属势力": [
@@ -26,6 +29,11 @@
         "value": "山门",
         "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
         "seq": 1636
+      },
+      {
+        "value": "宗门山门/护宗大阵",
+        "docId": "plot.xianni-ch1884-tianniu-dingyang",
+        "seq": 1795
       }
     ],
     "方位": [
@@ -41,6 +49,13 @@
         "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
         "seq": 1636
       }
+    ],
+    "守护": [
+      {
+        "value": "山门大阵",
+        "docId": "plot.xianni-ch1884-tianniu-dingyang",
+        "seq": 1795
+      }
     ]
   },
   "firstSeq": 1636,
@@ -53,9 +68,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
+      "docId": "plot.xianni-ch1884-tianniu-dingyang",
       "dated": false,
-      "seq": 1636
+      "seq": 1795
     },
     "方位": {
       "asOf": null,
@@ -68,12 +83,19 @@
       "docId": "plot.xianni-1729-wuxing-star-guiyi-zong",
       "dated": false,
       "seq": 1636
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1884-tianniu-dingyang",
+      "dated": false,
+      "seq": 1795
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1729-wuxing-star-guiyi-zong"
+    "plot.xianni-1729-wuxing-star-guiyi-zong",
+    "plot.xianni-ch1884-tianniu-dingyang"
   ],
-  "updatedAt": "2026-08-30T04:03:44.903Z"
+  "updatedAt": "2026-08-30T14:37:54.151Z"
 }
