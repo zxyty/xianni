@@ -10,10 +10,10 @@
   "summary": "大魂门藏有诸多神通功法之地，每位长老有一次进入机会；炎栾获准进入三天作为补偿。",
   "attributes": {
     "所属势力": "大魂门",
-    "类型": "功法秘藏禁地、藏经／藏神通之阁、圣地／功法神通储存之地",
+    "类型": "功法秘藏禁地、藏经／藏神通之阁、圣地／功法神通储存之地、宗门圣地/藏功法之阁",
     "守护": "门规限制，长老仅一次机会、两尊凶兽石像、各层楼梯禁制（阻非第三步大能）",
-    "规模": "九层阁楼，每层数千魂体（第五层约五百）",
-    "危险度": "杀机四伏"
+    "规模": "九层阁楼，每层数千魂体（第五层约五百）、九层",
+    "危险度": "杀机四伏、第六层需空劫意志，第七层需空劫中期意志"
   },
   "observations": {
     "所属势力": [
@@ -37,6 +37,11 @@
       {
         "value": "圣地／功法神通储存之地",
         "docId": "plot.xianni-1832-cang-hun-ge",
+        "seq": 1740
+      },
+      {
+        "value": "宗门圣地/藏功法之阁",
+        "docId": "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
         "seq": 1740
       }
     ],
@@ -62,12 +67,22 @@
         "value": "九层阁楼，每层数千魂体（第五层约五百）",
         "docId": "plot.xianni-1832-cang-hun-ge",
         "seq": 1740
+      },
+      {
+        "value": "九层",
+        "docId": "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
+        "seq": 1740
       }
     ],
     "危险度": [
       {
         "value": "杀机四伏",
         "docId": "plot.xianni-1832-cang-hun-ge",
+        "seq": 1740
+      },
+      {
+        "value": "第六层需空劫意志，第七层需空劫中期意志",
+        "docId": "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
         "seq": 1740
       }
     ]
@@ -110,7 +125,8 @@
   "docs": [
     "plot.xianni-ch1830-qingniu-zhenren-wang-lin-joins-dahunmen",
     "plot.xianni-1831-hun-yan-dao-lei",
-    "plot.xianni-1832-cang-hun-ge"
+    "plot.xianni-1832-cang-hun-ge",
+    "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet"
   ],
-  "updatedAt": "2026-08-30T10:56:43.481Z"
+  "updatedAt": "2026-08-30T10:58:40.344Z"
 }

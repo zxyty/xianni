@@ -1,40 +1,34 @@
 {
-  "id": "ent.technique.x-4a608258",
-  "type": "technique",
-  "name": "多重幻术",
+  "id": "ent.place.x-36c54dc7",
+  "type": "place",
+  "name": "藏魂阁第九层",
   "aliases": [
-    "多重幻术神通",
-    "大魂门多重幻术"
+    "藏魂阁最后一层"
   ],
-  "summary": "王林此行藏魂阁欲寻的两种神通之一，至第五层仍未寻到。",
+  "summary": "藏魂阁最高层，藏有大魂门完整的多重幻术古老魂体；除青牛真人外无人可入，一代老祖曾推衍王林三百年后方可踏入。",
   "attributes": {
-    "效果": "幻术叠加、层层幻境叠加之幻术",
-    "出处": "大魂门藏魂阁",
-    "适用境界": "空劫"
+    "上级区域": "藏魂阁",
+    "危险度": "除青牛真人外无人可入",
+    "特产": "完整的多重幻术古老魂体"
   },
   "observations": {
-    "效果": [
+    "上级区域": [
       {
-        "value": "幻术叠加",
-        "docId": "plot.xianni-1832-cang-hun-ge",
-        "seq": 1740
-      },
-      {
-        "value": "层层幻境叠加之幻术",
+        "value": "藏魂阁",
         "docId": "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
         "seq": 1740
       }
     ],
-    "出处": [
+    "危险度": [
       {
-        "value": "大魂门藏魂阁",
+        "value": "除青牛真人外无人可入",
         "docId": "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
         "seq": 1740
       }
     ],
-    "适用境界": [
+    "特产": [
       {
-        "value": "空劫",
+        "value": "完整的多重幻术古老魂体",
         "docId": "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
         "seq": 1740
       }
@@ -42,19 +36,19 @@
   },
   "firstSeq": 1740,
   "attrProvenance": {
-    "效果": {
-      "asOf": null,
-      "docId": "plot.xianni-1832-cang-hun-ge",
-      "dated": false,
-      "seq": 1740
-    },
-    "出处": {
+    "上级区域": {
       "asOf": null,
       "docId": "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
       "dated": false,
       "seq": 1740
     },
-    "适用境界": {
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
+      "dated": false,
+      "seq": 1740
+    },
+    "特产": {
       "asOf": null,
       "docId": "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
       "dated": false,
@@ -64,8 +58,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1832-cang-hun-ge",
     "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet"
   ],
-  "updatedAt": "2026-08-30T10:58:40.348Z"
+  "updatedAt": "2026-08-30T10:58:40.347Z"
 }
