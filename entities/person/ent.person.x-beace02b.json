@@ -4,13 +4,15 @@
   "name": "道一大天尊",
   "aliases": [
     "道一",
-    "九阳尊道一"
+    "九阳尊道一",
+    "Dao Yi"
   ],
   "summary": "仙罡大陆九阳尊之一，修为无上属传说中人，当年与玄罗大天尊争夺太古神境储物残片。",
   "attributes": {
     "称号": "大天尊",
     "身份": "道一宗修士",
-    "阵营": "仙族之地一方"
+    "阵营": "仙族之地一方",
+    "外貌": "立于幻化太阳之内"
   },
   "observations": {
     "称号": [
@@ -38,6 +40,14 @@
         "docId": "plot.xianni-1715-mu-si-ru-ze",
         "seq": 1621
       }
+    ],
+    "外貌": [
+      {
+        "value": "立于幻化太阳之内",
+        "docId": "plot.xianni-1797-strange-white-light-in-the-void",
+        "seq": 1705,
+        "note": "冷目凝望"
+      }
     ]
   },
   "firstSeq": 1601,
@@ -59,13 +69,21 @@
       "docId": "plot.xianni-1715-mu-si-ru-ze",
       "dated": false,
       "seq": 1621
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-1797-strange-white-light-in-the-void",
+      "dated": false,
+      "seq": 1705,
+      "note": "冷目凝望"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
-    "plot.xianni-1715-mu-si-ru-ze"
+    "plot.xianni-1715-mu-si-ru-ze",
+    "plot.xianni-1797-strange-white-light-in-the-void"
   ],
-  "updatedAt": "2026-08-30T03:29:35.952Z"
+  "updatedAt": "2026-08-30T08:39:02.091Z"
 }
