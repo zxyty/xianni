@@ -5,14 +5,17 @@
   "aliases": [
     "界内界外大战",
     "外府入侵",
-    "界外大军入云海"
+    "界外大军入云海",
+    "界内界外之战"
   ],
   "summary": "界外修士大范围入侵界内，界内之力不足以对抗，是王林前来交易的直接起因。",
   "attributes": {
     "章节": "第1704章（追述）",
-    "参与方": "界内之修、界外太吉星辰之修、界外大军",
+    "参与方": "界内之修、界外太吉星辰之修、界外大军、七彩道人、战老鬼、界内界外诸方",
     "地点": "云海星域",
-    "影响": "贪狼借机进入云海裂缝"
+    "影响": "贪狼借机进入云海裂缝",
+    "起因": "寻找第三魂",
+    "结果": "战争已结束，二人或以战争换来的方法继续寻找第三魂"
   },
   "observations": {
     "章节": [
@@ -42,6 +45,21 @@
         "value": "界外大军",
         "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
         "seq": 1611
+      },
+      {
+        "value": "七彩道人",
+        "docId": "plot.xianni-ch1713-three-lives-art-and-ghost-face-sail",
+        "seq": 1621
+      },
+      {
+        "value": "战老鬼",
+        "docId": "plot.xianni-ch1713-three-lives-art-and-ghost-face-sail",
+        "seq": 1621
+      },
+      {
+        "value": "界内界外诸方",
+        "docId": "plot.xianni-ch1713-three-lives-art-and-ghost-face-sail",
+        "seq": 1621
       }
     ],
     "地点": [
@@ -56,6 +74,20 @@
         "value": "贪狼借机进入云海裂缝",
         "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
         "seq": 1611
+      }
+    ],
+    "起因": [
+      {
+        "value": "寻找第三魂",
+        "docId": "plot.xianni-ch1713-three-lives-art-and-ghost-face-sail",
+        "seq": 1621
+      }
+    ],
+    "结果": [
+      {
+        "value": "战争已结束，二人或以战争换来的方法继续寻找第三魂",
+        "docId": "plot.xianni-ch1713-three-lives-art-and-ghost-face-sail",
+        "seq": 1621
       }
     ]
   },
@@ -84,13 +116,26 @@
       "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
       "dated": false,
       "seq": 1611
+    },
+    "起因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1713-three-lives-art-and-ghost-face-sail",
+      "dated": false,
+      "seq": 1621
+    },
+    "结果": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1713-three-lives-art-and-ghost-face-sail",
+      "dated": false,
+      "seq": 1621
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1645-wang-lin-four-war-generals-trade",
-    "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause"
+    "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+    "plot.xianni-ch1713-three-lives-art-and-ghost-face-sail"
   ],
-  "updatedAt": "2026-08-30T02:28:06.787Z"
+  "updatedAt": "2026-08-30T03:25:05.666Z"
 }

@@ -5,13 +5,14 @@
   "aliases": [
     "大门",
     "玄阴鼎入口",
-    "刻印记的大门"
+    "刻印记的大门",
+    "通往仙罡大陆的大门"
   ],
   "summary": "需以血画出与门上印记相同的符文方能开启的大门，开后露出漆黑入口与层层阶梯，通往玄阴鼎密室。",
   "attributes": {
-    "类型": "禁制门户",
-    "两端": "幽冥兽体内祭坛地面 ↔ 玄阴鼎密室",
-    "可通行境界": "需能承受浓郁阴寒之气",
+    "类型": "门户/通道",
+    "两端": "当前界域—仙罡大陆",
+    "可通行境界": "需先找到第三魂方可开启",
     "守护": "仙选族",
     "来历": "以血画符文融入门内即可升起开启"
   },
@@ -21,6 +22,11 @@
         "value": "禁制门户",
         "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
         "seq": 758
+      },
+      {
+        "value": "门户/通道",
+        "docId": "plot.xianni-ch1713-three-lives-art-and-ghost-face-sail",
+        "seq": 1621
       }
     ],
     "两端": [
@@ -28,6 +34,11 @@
         "value": "幽冥兽体内祭坛地面 ↔ 玄阴鼎密室",
         "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
         "seq": 758
+      },
+      {
+        "value": "当前界域—仙罡大陆",
+        "docId": "plot.xianni-ch1713-three-lives-art-and-ghost-face-sail",
+        "seq": 1621
       }
     ],
     "可通行境界": [
@@ -35,6 +46,11 @@
         "value": "需能承受浓郁阴寒之气",
         "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
         "seq": 758
+      },
+      {
+        "value": "需先找到第三魂方可开启",
+        "docId": "plot.xianni-ch1713-three-lives-art-and-ghost-face-sail",
+        "seq": 1621
       }
     ],
     "守护": [
@@ -56,21 +72,21 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+      "docId": "plot.xianni-ch1713-three-lives-art-and-ghost-face-sail",
       "dated": false,
-      "seq": 758
+      "seq": 1621
     },
     "两端": {
       "asOf": null,
-      "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+      "docId": "plot.xianni-ch1713-three-lives-art-and-ghost-face-sail",
       "dated": false,
-      "seq": 758
+      "seq": 1621
     },
     "可通行境界": {
       "asOf": null,
-      "docId": "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+      "docId": "plot.xianni-ch1713-three-lives-art-and-ghost-face-sail",
       "dated": false,
-      "seq": 758
+      "seq": 1621
     },
     "守护": {
       "asOf": null,
@@ -88,7 +104,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid"
+    "plot.xianni-ch806-xuanyin-ding-fog-beast-humanoid",
+    "plot.xianni-ch1713-three-lives-art-and-ghost-face-sail"
   ],
-  "updatedAt": "2026-08-23T10:25:07.244Z"
+  "updatedAt": "2026-08-30T03:25:05.659Z"
 }

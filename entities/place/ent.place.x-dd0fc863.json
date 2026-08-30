@@ -5,13 +5,16 @@
   "aliases": [
     "封灭族祭祖之地",
     "三命祭坛",
-    "封灭族完整祭坛"
+    "封灭族完整祭坛",
+    "三个祭坛"
   ],
   "summary": "封灭族祭祖授印之地，也是夺取三命之术的唯一施行地；很久之前突然失踪，导致封灭族人极为罕见。",
   "attributes": {
-    "类型": "祭坛/禁地",
+    "类型": "祭坛/秘地",
     "所属势力": "封灭族",
-    "危险度": "祭祖死亡率极高"
+    "危险度": "祭祖死亡率极高",
+    "规模": "三座，样式各不相同",
+    "上级区域": "云海裂缝"
   },
   "observations": {
     "类型": [
@@ -19,6 +22,11 @@
         "value": "祭坛/禁地",
         "docId": "plot.xianni-ch1460-si-xi-four-joys",
         "seq": 1370
+      },
+      {
+        "value": "祭坛/秘地",
+        "docId": "plot.xianni-ch1713-three-lives-art-and-ghost-face-sail",
+        "seq": 1621
       }
     ],
     "所属势力": [
@@ -34,15 +42,29 @@
         "docId": "plot.xianni-ch1460-si-xi-four-joys",
         "seq": 1370
       }
+    ],
+    "规模": [
+      {
+        "value": "三座，样式各不相同",
+        "docId": "plot.xianni-ch1713-three-lives-art-and-ghost-face-sail",
+        "seq": 1621
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "云海裂缝",
+        "docId": "plot.xianni-ch1713-three-lives-art-and-ghost-face-sail",
+        "seq": 1621
+      }
     ]
   },
   "firstSeq": 1370,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1460-si-xi-four-joys",
+      "docId": "plot.xianni-ch1713-three-lives-art-and-ghost-face-sail",
       "dated": false,
-      "seq": 1370
+      "seq": 1621
     },
     "所属势力": {
       "asOf": null,
@@ -55,13 +77,26 @@
       "docId": "plot.xianni-ch1460-si-xi-four-joys",
       "dated": false,
       "seq": 1370
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1713-three-lives-art-and-ghost-face-sail",
+      "dated": false,
+      "seq": 1621
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1713-three-lives-art-and-ghost-face-sail",
+      "dated": false,
+      "seq": 1621
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1460-si-xi-four-joys",
-    "plot.xianni-ch1712-san-ming-shu-third-altar"
+    "plot.xianni-ch1712-san-ming-shu-third-altar",
+    "plot.xianni-ch1713-three-lives-art-and-ghost-face-sail"
   ],
-  "updatedAt": "2026-08-30T03:22:10.570Z"
+  "updatedAt": "2026-08-30T03:25:05.624Z"
 }

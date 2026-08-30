@@ -1033,3 +1033,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T03:17:59.193Z** `ingest` plot.xianni-ch1710-yi-lv-hun — 第1710章 一缕魂：第十滴魂血震动道古，皇尊藏女子残魂与白发预言 · kind=plot asOf=2026-08-30 entities=31 relations=49 src=01616-01620.p5.md
 - **2026-08-30T03:19:59.102Z** `ingest` plot.xianni-1711-gudao-ni-jiuzu-hunxue — 仙逆 第1711章 古道逆——九滴古祖血与魂血入体，王林融合烨寞右臂 · kind=plot asOf=2026-08-30 entities=15 relations=23 src=01621-01625.p1.md
 - **2026-08-30T03:22:11.023Z** `ingest` plot.xianni-ch1712-san-ming-shu-third-altar — 第1712章 三命术！——王林破祭坛得封灭族第三祭坛，施三命术斩三魂 · kind=plot asOf=2026-08-30 entities=22 relations=34 src=01621-01625.p2.md
+- **2026-08-30T03:25:06.088Z** `ingest` plot.xianni-ch1713-three-lives-art-and-ghost-face-sail — 第1713章 斩鬼帆——三命术大成，王林剖解鬼脸帆求禁制本源 · kind=plot asOf=2026-08-30 entities=37 relations=42 src=01621-01625.p3.md
