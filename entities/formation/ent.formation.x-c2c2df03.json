@@ -9,8 +9,8 @@
   ],
   "summary": "笼罩整个丹海的无形阵法禁制，分多层雾气（至少七层），可察觉非绿魔洲修士进入并向中枢罗盘示警。",
   "attributes": {
-    "效果": "笼罩丹海、阻隔气息探查、察觉外洲修士入海并向中枢罗盘示警",
-    "布置者": "绿魔洲一方",
+    "效果": "笼罩丹海、阻隔气息探查、察觉外洲修士入海并向中枢罗盘示警、隐藏阵内气息、控制进出与挪移、可切换只进不出/只出不进",
+    "布置者": "未言明",
     "破解法": "以禁制本源模仿阵法气息可短时间融入而不被察觉"
   },
   "observations": {
@@ -24,6 +24,21 @@
         "value": "察觉外洲修士入海并向中枢罗盘示警",
         "docId": "plot.xianni-ch1848-qianfu-danhai-luopan",
         "seq": 1755
+      },
+      {
+        "value": "隐藏阵内气息",
+        "docId": "plot.xianni-ch1850-immortal-pill-explodes",
+        "seq": 1760
+      },
+      {
+        "value": "控制进出与挪移",
+        "docId": "plot.xianni-ch1850-immortal-pill-explodes",
+        "seq": 1760
+      },
+      {
+        "value": "可切换只进不出/只出不进",
+        "docId": "plot.xianni-ch1850-immortal-pill-explodes",
+        "seq": 1760
       }
     ],
     "布置者": [
@@ -31,6 +46,12 @@
         "value": "绿魔洲一方",
         "docId": "plot.xianni-ch1848-qianfu-danhai-luopan",
         "seq": 1755
+      },
+      {
+        "value": "未言明",
+        "docId": "plot.xianni-ch1850-immortal-pill-explodes",
+        "seq": 1760,
+        "note": "本章仅述其归属"
       }
     ],
     "破解法": [
@@ -51,9 +72,10 @@
     },
     "布置者": {
       "asOf": null,
-      "docId": "plot.xianni-ch1848-qianfu-danhai-luopan",
+      "docId": "plot.xianni-ch1850-immortal-pill-explodes",
       "dated": false,
-      "seq": 1755
+      "seq": 1760,
+      "note": "本章仅述其归属"
     },
     "破解法": {
       "asOf": null,
@@ -65,7 +87,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1848-qianfu-danhai-luopan"
+    "plot.xianni-ch1848-qianfu-danhai-luopan",
+    "plot.xianni-ch1850-immortal-pill-explodes"
   ],
-  "updatedAt": "2026-08-30T11:37:25.334Z"
+  "updatedAt": "2026-08-30T11:42:22.002Z"
 }

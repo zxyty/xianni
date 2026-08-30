@@ -8,19 +8,22 @@
     "青衣剑修",
     "绿魔洲剑修云空",
     "云空道友",
-    "东州四大天骄之一"
+    "东州四大天骄之一",
+    "绿魔洲四大天骄之一"
   ],
   "summary": "东州四大天骄之一，无固定宗派，绿魔洲三大宗门皆为其师门，是绿魔洲所有宗门弟子的大师兄；多年前赴北州拜入武封大天尊门下，修为莫测，本章被三位老祖派来炼化丹海。",
   "attributes": {
-    "称号": "东州四大天骄之一、绿魔洲大师兄、大师兄、东州第一人",
+    "称号": "东州四大天骄之一、绿魔洲大师兄、大师兄、东州第一人、四大天骄之一",
     "阵营": "绿魔洲",
-    "身份": "绿魔洲三大宗门共同弟子；武封大天尊门下、绿魔洲大师兄、四大天骄之一；丹海仙丹凝聚者",
+    "身份": "绿魔洲三大宗门共同弟子；武封大天尊门下、绿魔洲大师兄、四大天骄之一；丹海仙丹凝聚者、绿魔洲修士",
     "元神强度": "修为莫测",
     "性别": "男",
     "外貌": "青衣青年，朴素青衫无点缀，长发披肩，相貌极为俊美却冷酷、面色略有苍白",
     "本命法宝": "七尺长剑",
-    "标志特征": "以身融剑的极端剑道、弯月剑影、数万丈掘海剑影、斩天剑影、咬破舌尖喷血化血色剑气、滔天剑气、笼罩八方的剑意、修为古怪、爆发时亦看不出境界",
-    "性格": "阴沉、自负"
+    "标志特征": "以身融剑的极端剑道、弯月剑影、数万丈掘海剑影、斩天剑影、咬破舌尖喷血化血色剑气、滔天剑气、笼罩八方的剑意、修为古怪、爆发时亦看不出境界、剑意惊天、神识可完全融入丹海",
+    "性格": "阴沉、自负",
+    "存殁": "分身崩溃",
+    "死因": "被仙丹爆炸的毁灭之力卷中，分身生生崩溃"
   },
   "observations": {
     "称号": [
@@ -44,6 +47,11 @@
         "docId": "plot.xianni-1849-danhai-immortal-pill",
         "seq": 1760,
         "note": "其师尊为其谋划的目标身份，尚未坐实"
+      },
+      {
+        "value": "四大天骄之一",
+        "docId": "plot.xianni-ch1850-immortal-pill-explodes",
+        "seq": 1760
       }
     ],
     "阵营": [
@@ -67,6 +75,11 @@
       {
         "value": "四大天骄之一；丹海仙丹凝聚者",
         "docId": "plot.xianni-1849-danhai-immortal-pill",
+        "seq": 1760
+      },
+      {
+        "value": "绿魔洲修士",
+        "docId": "plot.xianni-ch1850-immortal-pill-explodes",
         "seq": 1760
       }
     ],
@@ -145,6 +158,11 @@
         "value": "修为古怪、爆发时亦看不出境界",
         "docId": "plot.xianni-1849-danhai-immortal-pill",
         "seq": 1760
+      },
+      {
+        "value": "剑意惊天、神识可完全融入丹海",
+        "docId": "plot.xianni-ch1850-immortal-pill-explodes",
+        "seq": 1760
       }
     ],
     "性格": [
@@ -152,6 +170,22 @@
         "value": "阴沉、自负",
         "docId": "plot.xianni-ch1847-hui-ma-qiang-danhai-tuwei-yunkong",
         "seq": 1755
+      }
+    ],
+    "存殁": [
+      {
+        "value": "分身崩溃",
+        "docId": "plot.xianni-ch1850-immortal-pill-explodes",
+        "seq": 1760,
+        "note": "本章崩溃的是其分身，本尊受难以恢复的重创，未死"
+      }
+    ],
+    "死因": [
+      {
+        "value": "被仙丹爆炸的毁灭之力卷中，分身生生崩溃",
+        "docId": "plot.xianni-ch1850-immortal-pill-explodes",
+        "seq": 1760,
+        "note": "仅分身"
       }
     ]
   },
@@ -211,6 +245,20 @@
       "docId": "plot.xianni-ch1847-hui-ma-qiang-danhai-tuwei-yunkong",
       "dated": false,
       "seq": 1755
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1850-immortal-pill-explodes",
+      "dated": false,
+      "seq": 1760,
+      "note": "本章崩溃的是其分身，本尊受难以恢复的重创，未死"
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1850-immortal-pill-explodes",
+      "dated": false,
+      "seq": 1760,
+      "note": "仅分身"
     }
   },
   "contested": false,
@@ -220,7 +268,8 @@
     "plot.xianni-ch1846-first-meeting-yunkong-danhai-seven-layer-array",
     "plot.xianni-ch1847-hui-ma-qiang-danhai-tuwei-yunkong",
     "plot.xianni-ch1848-qianfu-danhai-luopan",
-    "plot.xianni-1849-danhai-immortal-pill"
+    "plot.xianni-1849-danhai-immortal-pill",
+    "plot.xianni-ch1850-immortal-pill-explodes"
   ],
-  "updatedAt": "2026-08-30T11:40:22.835Z"
+  "updatedAt": "2026-08-30T11:42:21.995Z"
 }

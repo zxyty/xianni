@@ -3,12 +3,16 @@
   "type": "item",
   "name": "金色液体",
   "aliases": [
-    "金色液滴"
+    "金色液滴",
+    "凝丹引子",
+    "玉瓶中的金色液体",
+    "一滴金色液体"
   ],
   "summary": "古神从弹碎的星球中取出的一小滴金色液体，滴于婴儿身上并包裹之，是养成涂司的关键之物。",
   "attributes": {
-    "类型": "养成材料",
-    "用途": "包裹并孕育婴儿（涂司）"
+    "类型": "凝丹引子",
+    "用途": "引动丹海海水突破万丈之限、凝聚出仙丹",
+    "产地": "与丹海仙丹同源"
   },
   "observations": {
     "类型": [
@@ -16,6 +20,11 @@
         "value": "养成材料",
         "docId": "plot.xianni-ch188-gushen-chuancheng-2",
         "seq": 173
+      },
+      {
+        "value": "凝丹引子",
+        "docId": "plot.xianni-ch1850-immortal-pill-explodes",
+        "seq": 1760
       }
     ],
     "用途": [
@@ -23,6 +32,18 @@
         "value": "包裹并孕育婴儿（涂司）",
         "docId": "plot.xianni-ch188-gushen-chuancheng-2",
         "seq": 173
+      },
+      {
+        "value": "引动丹海海水突破万丈之限、凝聚出仙丹",
+        "docId": "plot.xianni-ch1850-immortal-pill-explodes",
+        "seq": 1760
+      }
+    ],
+    "产地": [
+      {
+        "value": "与丹海仙丹同源",
+        "docId": "plot.xianni-ch1850-immortal-pill-explodes",
+        "seq": 1760
       }
     ]
   },
@@ -30,21 +51,28 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+      "docId": "plot.xianni-ch1850-immortal-pill-explodes",
       "dated": false,
-      "seq": 173
+      "seq": 1760
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch188-gushen-chuancheng-2",
+      "docId": "plot.xianni-ch1850-immortal-pill-explodes",
       "dated": false,
-      "seq": 173
+      "seq": 1760
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1850-immortal-pill-explodes",
+      "dated": false,
+      "seq": 1760
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch188-gushen-chuancheng-2"
+    "plot.xianni-ch188-gushen-chuancheng-2",
+    "plot.xianni-ch1850-immortal-pill-explodes"
   ],
-  "updatedAt": "2026-07-08T12:39:00.855Z"
+  "updatedAt": "2026-08-30T11:42:21.998Z"
 }
