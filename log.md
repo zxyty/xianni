@@ -1086,3 +1086,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T07:06:00.075Z** `ingest` plot.xianni-1773-kunshou-zhengzha-zhangzun-siren-weigong — 第1773章 困兽挣扎：王林祭炼金印，四人围攻掌尊 · kind=plot asOf=2026-08-30 entities=26 relations=37 src=01680-01684.p5.md
 - **2026-08-30T07:08:21.342Z** `ingest` plot.xianni-1774-zhangzun-hun-jisi-yisi-zhi-kui — 仙逆 第1774章 掌尊魂！——蓝梦封印三息，王林祭掌尊之魂唤出已司之傀 · kind=plot asOf=2026-08-30 entities=23 relations=28 src=01685-01689.p1.md
 - **2026-08-30T07:10:53.088Z** `ingest` plot.xianni-ch1775-ancient-tomb-heart-inheritance — 第1775章 古墓传承！——王林承烨寞心脏，允诺寻回左眼 · kind=plot asOf=2026-08-30 entities=29 relations=43 src=01685-01689.p2.md
+- **2026-08-30T07:13:53.325Z** `ingest` plot.xianni-1776-qunzhan-lao-gui — 第1776章 群战老鬼！——王林悟心动神通，蓝梦道尊祭出古琴 · kind=plot asOf=2026-08-30 entities=33 relations=50 src=01685-01689.p3.md

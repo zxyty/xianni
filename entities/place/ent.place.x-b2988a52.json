@@ -11,7 +11,8 @@
     "类型": "禁地/传承之地",
     "上级区域": "古之墓地",
     "危险度": "极高（心跳错乱可致心脏崩爆，道古身躯亦难抗）",
-    "方位": "古之墓地最底层"
+    "方位": "古之墓地最底层、古墓最底层",
+    "特产": "烨寞的巨大心脏、道古气息"
   },
   "observations": {
     "类型": [
@@ -39,6 +40,18 @@
       {
         "value": "古之墓地最底层",
         "docId": "plot.xianni-ch1775-ancient-tomb-heart-inheritance",
+        "seq": 1685
+      },
+      {
+        "value": "古墓最底层",
+        "docId": "plot.xianni-1776-qunzhan-lao-gui",
+        "seq": 1685
+      }
+    ],
+    "特产": [
+      {
+        "value": "烨寞的巨大心脏、道古气息",
+        "docId": "plot.xianni-1776-qunzhan-lao-gui",
         "seq": 1685
       }
     ]
@@ -68,12 +81,19 @@
       "docId": "plot.xianni-ch1775-ancient-tomb-heart-inheritance",
       "dated": false,
       "seq": 1685
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-1776-qunzhan-lao-gui",
+      "dated": false,
+      "seq": 1685
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1775-ancient-tomb-heart-inheritance"
+    "plot.xianni-ch1775-ancient-tomb-heart-inheritance",
+    "plot.xianni-1776-qunzhan-lao-gui"
   ],
-  "updatedAt": "2026-08-30T07:10:52.654Z"
+  "updatedAt": "2026-08-30T07:13:52.888Z"
 }
