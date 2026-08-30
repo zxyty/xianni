@@ -3,17 +3,36 @@
   "type": "faction",
   "name": "天门道",
   "aliases": [
-    "天门道（圣女出身）"
+    "天门道（圣女出身）",
+    "仙罡大陆天门道"
   ],
   "summary": "中年文士当年出身的势力，她曾为该势力圣女。",
-  "attributes": {},
-  "observations": {},
+  "attributes": {
+    "所属界面": "仙罡大陆"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "仙罡大陆",
+        "docId": "plot.xianni-1769-return-to-ancient-tomb",
+        "seq": 1680
+      }
+    ]
+  },
   "firstSeq": 1346,
-  "attrProvenance": {},
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-1769-return-to-ancient-tomb",
+      "dated": false,
+      "seq": 1680
+    }
+  },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1346-1349-ancient-tomb-opens"
+    "plot.xianni-ch1346-1349-ancient-tomb-opens",
+    "plot.xianni-1769-return-to-ancient-tomb"
   ],
-  "updatedAt": "2026-08-25T19:09:07.452Z"
+  "updatedAt": "2026-08-30T06:53:58.316Z"
 }

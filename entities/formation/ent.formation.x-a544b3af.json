@@ -3,12 +3,14 @@
   "type": "formation",
   "name": "五花八门",
   "aliases": [
-    "五花八门防护中枢"
+    "五花八门防护中枢",
+    "洞府五花八门",
+    "五花八门防护"
   ],
   "summary": "七彩仙尊洞府核心的防护中枢：五花依次为第一花三百残界、第二花冰封东临宗……第五花即七彩仙尊当年的封门之印；八门藏于最后一花，七假一真，真门通往仙罡大陆。",
   "attributes": {
-    "效果": "层层花界防护、最后一花藏八门，七假一真",
-    "布置者": "七彩道人",
+    "效果": "层层花界防护、最后一花藏八门，七假一真、以多重花之空间层层防护洞府核心",
+    "布置者": "七彩仙尊",
     "破解法": "以第三魂的记忆开启最后一花"
   },
   "observations": {
@@ -22,6 +24,11 @@
         "value": "最后一花藏八门，七假一真",
         "docId": "plot.xianni-ch1766-donglin-zong-second-flower",
         "seq": 1675
+      },
+      {
+        "value": "以多重花之空间层层防护洞府核心",
+        "docId": "plot.xianni-1769-return-to-ancient-tomb",
+        "seq": 1680
       }
     ],
     "布置者": [
@@ -29,6 +36,11 @@
         "value": "七彩道人",
         "docId": "plot.xianni-ch1766-donglin-zong-second-flower",
         "seq": 1675
+      },
+      {
+        "value": "七彩仙尊",
+        "docId": "plot.xianni-1769-return-to-ancient-tomb",
+        "seq": 1680
       }
     ],
     "破解法": [
@@ -49,9 +61,9 @@
     },
     "布置者": {
       "asOf": null,
-      "docId": "plot.xianni-ch1766-donglin-zong-second-flower",
+      "docId": "plot.xianni-1769-return-to-ancient-tomb",
       "dated": false,
-      "seq": 1675
+      "seq": 1680
     },
     "破解法": {
       "asOf": null,
@@ -63,7 +75,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1766-donglin-zong-second-flower"
+    "plot.xianni-ch1766-donglin-zong-second-flower",
+    "plot.xianni-1769-return-to-ancient-tomb"
   ],
-  "updatedAt": "2026-08-30T06:47:07.885Z"
+  "updatedAt": "2026-08-30T06:53:58.314Z"
 }

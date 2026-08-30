@@ -3,12 +3,13 @@
   "type": "artifact",
   "name": "烨寞左臂",
   "aliases": [
-    "左臂"
+    "左臂",
+    "烨寞的左手臂"
   ],
   "summary": "封于冰封东临池中的巨大左手，死灰色，具烨寞的恢复之力并与池冰融合；被王林融入左臂。",
   "attributes": {
-    "来历": "道古强者烨寞遗躯",
-    "能力": "恢复愈合之力、散发数万里幽光、赋予撕天之术",
+    "来历": "烨寞被砍下保留的双臂之一",
+    "能力": "恢复愈合之力、散发数万里幽光、赋予撕天之术、撕开天地；促成古之三族星点剧变、星漩显现",
     "外形": "巨大的左手，皮肤死灰之色",
     "持有者": "王林"
   },
@@ -18,6 +19,11 @@
         "value": "道古强者烨寞遗躯",
         "docId": "plot.xianni-ch1768-yemo-left-arm-donglin-pool",
         "seq": 1675
+      },
+      {
+        "value": "烨寞被砍下保留的双臂之一",
+        "docId": "plot.xianni-1769-return-to-ancient-tomb",
+        "seq": 1680
       }
     ],
     "能力": [
@@ -35,6 +41,11 @@
         "value": "赋予撕天之术",
         "docId": "plot.xianni-ch1768-yemo-left-arm-donglin-pool",
         "seq": 1675
+      },
+      {
+        "value": "撕开天地；促成古之三族星点剧变、星漩显现",
+        "docId": "plot.xianni-1769-return-to-ancient-tomb",
+        "seq": 1680
       }
     ],
     "外形": [
@@ -56,9 +67,9 @@
   "attrProvenance": {
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch1768-yemo-left-arm-donglin-pool",
+      "docId": "plot.xianni-1769-return-to-ancient-tomb",
       "dated": false,
-      "seq": 1675
+      "seq": 1680
     },
     "能力": {
       "asOf": null,
@@ -82,7 +93,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1768-yemo-left-arm-donglin-pool"
+    "plot.xianni-ch1768-yemo-left-arm-donglin-pool",
+    "plot.xianni-1769-return-to-ancient-tomb"
   ],
-  "updatedAt": "2026-08-30T06:51:33.266Z"
+  "updatedAt": "2026-08-30T06:53:58.308Z"
 }
