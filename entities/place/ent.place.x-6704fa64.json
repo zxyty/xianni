@@ -3,14 +3,16 @@
   "type": "place",
   "name": "五行星高塔",
   "aliases": [
-    "五行星塔"
+    "五行星塔",
+    "高塔第九层"
   ],
   "summary": "五行星上的多层高塔，第九层坐镇纳多与紫衣中年男子，更上数层沉睡着老祖，四长老在塔内以镜观战。",
   "attributes": {
     "所属势力": "归一宗",
-    "类型": "守护高塔、宗门高塔、塔楼/观战据点",
+    "类型": "守护高塔、宗门高塔、塔楼/观战据点、宗门重地、闭关坐镇之塔",
     "规模": "至少九层以上",
-    "所属界面": "五行星"
+    "所属界面": "洞府界",
+    "上级区域": "五行星"
   },
   "observations": {
     "所属势力": [
@@ -40,6 +42,16 @@
         "value": "塔楼/观战据点",
         "docId": "plot.xianni-ch1733-qiankun-yidi-water-origin",
         "seq": 1641
+      },
+      {
+        "value": "宗门重地",
+        "docId": "plot.xianni-1646-1649-wuxing-star-nine-turn-heart-wheel",
+        "seq": 1646
+      },
+      {
+        "value": "闭关坐镇之塔",
+        "docId": "plot.xianni-1646-1649-wuxing-star-nine-turn-heart-wheel",
+        "seq": 1646
       }
     ],
     "规模": [
@@ -54,6 +66,18 @@
         "value": "五行星",
         "docId": "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array",
         "seq": 1641
+      },
+      {
+        "value": "洞府界",
+        "docId": "plot.xianni-1646-1649-wuxing-star-nine-turn-heart-wheel",
+        "seq": 1646
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "五行星",
+        "docId": "plot.xianni-1646-1649-wuxing-star-nine-turn-heart-wheel",
+        "seq": 1646
       }
     ]
   },
@@ -79,9 +103,15 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array",
+      "docId": "plot.xianni-1646-1649-wuxing-star-nine-turn-heart-wheel",
       "dated": false,
-      "seq": 1641
+      "seq": 1646
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-1646-1649-wuxing-star-nine-turn-heart-wheel",
+      "dated": false,
+      "seq": 1646
     }
   },
   "contested": false,
@@ -89,7 +119,8 @@
   "docs": [
     "plot.xianni-ch1730-earth-origin-wuxing-star-formation",
     "plot.xianni-ch1731-junhuo-rujia-five-element-fire-array",
-    "plot.xianni-ch1733-qiankun-yidi-water-origin"
+    "plot.xianni-ch1733-qiankun-yidi-water-origin",
+    "plot.xianni-1646-1649-wuxing-star-nine-turn-heart-wheel"
   ],
-  "updatedAt": "2026-08-30T04:13:43.322Z"
+  "updatedAt": "2026-08-30T04:26:44.446Z"
 }
