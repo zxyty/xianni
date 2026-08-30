@@ -10,10 +10,11 @@
   "summary": "大魂门藏有诸多神通功法之地，每位长老有一次进入机会；炎栾获准进入三天作为补偿。",
   "attributes": {
     "所属势力": "大魂门",
-    "类型": "功法秘藏禁地、藏经／藏神通之阁、圣地／功法神通储存之地、宗门圣地/藏功法之阁、禁制楼阁/修炼秘地",
-    "守护": "门规限制，长老仅一次机会、两尊凶兽石像、各层楼梯禁制（阻非第三步大能）、阶梯神识威压「退下」",
+    "类型": "功法秘藏禁地、藏经／藏神通之阁、圣地／功法神通储存之地、宗门圣地/藏功法之阁、禁制楼阁/修炼秘地、禁地/传承之地",
+    "守护": "门规限制，长老仅一次机会、两尊凶兽石像、各层楼梯禁制（阻非第三步大能）、阶梯神识威压「退下」、各层意志",
     "规模": "九层阁楼，每层数千魂体（第五层约五百）、九层",
-    "危险度": "杀机四伏、第六层需空劫意志，第七层需空劫中期意志、极高（第七层禁制可将人弹回）"
+    "危险度": "杀机四伏、第六层需空劫意志，第七层需空劫中期意志、极高（第七层禁制可将人弹回）、第七层含空劫中期意志，第八层含空劫后期意志",
+    "特产": "魂体、魂引归、多重幻术"
   },
   "observations": {
     "所属势力": [
@@ -48,6 +49,11 @@
         "value": "禁制楼阁/修炼秘地",
         "docId": "plot.xianni-ch1834-wang-lin-ascends-cangkong-stairs-cang-hun-ge-seventh-floor",
         "seq": 1745
+      },
+      {
+        "value": "禁地/传承之地",
+        "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
+        "seq": 1745
       }
     ],
     "守护": [
@@ -69,6 +75,11 @@
       {
         "value": "阶梯神识威压「退下」",
         "docId": "plot.xianni-ch1834-wang-lin-ascends-cangkong-stairs-cang-hun-ge-seventh-floor",
+        "seq": 1745
+      },
+      {
+        "value": "各层意志",
+        "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
         "seq": 1745
       }
     ],
@@ -98,6 +109,28 @@
       {
         "value": "极高（第七层禁制可将人弹回）",
         "docId": "plot.xianni-ch1834-wang-lin-ascends-cangkong-stairs-cang-hun-ge-seventh-floor",
+        "seq": 1745
+      },
+      {
+        "value": "第七层含空劫中期意志，第八层含空劫后期意志",
+        "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
+        "seq": 1745
+      }
+    ],
+    "特产": [
+      {
+        "value": "魂体",
+        "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
+        "seq": 1745
+      },
+      {
+        "value": "魂引归",
+        "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
+        "seq": 1745
+      },
+      {
+        "value": "多重幻术",
+        "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
         "seq": 1745
       }
     ]
@@ -133,6 +166,12 @@
       "docId": "plot.xianni-1832-cang-hun-ge",
       "dated": false,
       "seq": 1740
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
+      "dated": false,
+      "seq": 1745
     }
   },
   "contested": false,
@@ -142,7 +181,8 @@
     "plot.xianni-1831-hun-yan-dao-lei",
     "plot.xianni-1832-cang-hun-ge",
     "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
-    "plot.xianni-ch1834-wang-lin-ascends-cangkong-stairs-cang-hun-ge-seventh-floor"
+    "plot.xianni-ch1834-wang-lin-ascends-cangkong-stairs-cang-hun-ge-seventh-floor",
+    "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu"
   ],
-  "updatedAt": "2026-08-30T11:00:22.659Z"
+  "updatedAt": "2026-08-30T11:02:35.089Z"
 }

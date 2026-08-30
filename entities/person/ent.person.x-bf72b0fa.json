@@ -11,7 +11,9 @@
     "称号": "第九先祖",
     "存殁": "死亡",
     "死因": "挑战道一大天尊失败被其灭杀",
-    "外貌": "满身血煞、身外缭绕无尽凄厉冤魂，头颅相貌与身形模糊不清"
+    "外貌": "满身血煞、身外缭绕无尽凄厉冤魂，头颅相貌与身形模糊不清",
+    "身份": "大魂门第九先祖",
+    "阵营": "大魂门"
   },
   "observations": {
     "称号": [
@@ -43,6 +45,20 @@
         "seq": 1740,
         "note": "魂幻归召出之血煞身影"
       }
+    ],
+    "身份": [
+      {
+        "value": "大魂门第九先祖",
+        "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
+        "seq": 1745
+      }
+    ],
+    "阵营": [
+      {
+        "value": "大魂门",
+        "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
+        "seq": 1745
+      }
     ]
   },
   "firstSeq": 1740,
@@ -72,12 +88,25 @@
       "dated": false,
       "seq": 1740,
       "note": "魂幻归召出之血煞身影"
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
+      "dated": false,
+      "seq": 1745
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
+      "dated": false,
+      "seq": 1745
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1829-tianniu-death-soul"
+    "plot.xianni-1829-tianniu-death-soul",
+    "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu"
   ],
-  "updatedAt": "2026-08-30T10:49:49.115Z"
+  "updatedAt": "2026-08-30T11:02:35.085Z"
 }

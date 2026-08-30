@@ -4,12 +4,15 @@
   "name": "魂引归之术",
   "aliases": [
     "魂引归",
-    "魂引归神通"
+    "魂引归神通",
+    "魂引归道术"
   ],
   "summary": "炎栾曾施展、王林此行专程寻找的神通；第六层所存版本并不完整，完整者在第七层以上。",
   "attributes": {
-    "出处": "大魂门藏魂阁",
-    "适用境界": "空劫"
+    "出处": "大魂门藏魂阁魂体",
+    "适用境界": "空劫",
+    "效果": "召唤先祖降临",
+    "修炼条件": "需承载道魂之宝（如紫色小葫芦）方可召唤第九先祖"
   },
   "observations": {
     "出处": [
@@ -17,6 +20,11 @@
         "value": "大魂门藏魂阁",
         "docId": "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
         "seq": 1740
+      },
+      {
+        "value": "大魂门藏魂阁魂体",
+        "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
+        "seq": 1745
       }
     ],
     "适用境界": [
@@ -25,27 +33,54 @@
         "docId": "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
         "seq": 1740
       }
+    ],
+    "效果": [
+      {
+        "value": "召唤先祖降临",
+        "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
+        "seq": 1745
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "需承载道魂之宝（如紫色小葫芦）方可召唤第九先祖",
+        "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
+        "seq": 1745
+      }
     ]
   },
   "firstSeq": 1740,
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
+      "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
       "dated": false,
-      "seq": 1740
+      "seq": 1745
     },
     "适用境界": {
       "asOf": null,
       "docId": "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
       "dated": false,
       "seq": 1740
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
+      "dated": false,
+      "seq": 1745
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
+      "dated": false,
+      "seq": 1745
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet"
+    "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
+    "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu"
   ],
-  "updatedAt": "2026-08-30T10:58:40.349Z"
+  "updatedAt": "2026-08-30T11:02:35.097Z"
 }
