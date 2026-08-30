@@ -1198,3 +1198,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T17:02:31.124Z** `ingest` plot.xianni-1921-tianzun-nie-trial-ground — 仙逆第1921章：道一大天尊招揽与天尊涅试炼之地 · kind=plot asOf=2026-08-30 entities=31 relations=49 src=01829-01833.p4.md
 - **2026-08-30T17:05:20.033Z** `ingest` plot.xianni-1922-first-old-acquaintance — 第1922章 第一个故人：三年闭关、九道神通、王林逼宫地门 · kind=plot asOf=2026-08-30 entities=33 relations=41 src=01829-01833.p5.md
 - **2026-08-30T17:07:06.471Z** `ingest` plot.xianni-1923-meng-tu-zhou-di-men-xiangjian — 第1923章 相见：王林神念震孟土洲地门，寻得转世周大哥 · kind=plot asOf=2026-08-30 entities=20 relations=28 src=01834-01838.p1.md
+- **2026-08-30T17:09:01.689Z** `ingest` plot.xianni-ch1924-waiting-for-autumn-wind — 第1924章 等到秋风起：王林重逢转世的周佚与青霜 · kind=plot asOf=2026-08-30 entities=16 relations=27 src=01834-01838.p2.md

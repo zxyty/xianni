@@ -5,14 +5,17 @@
   "aliases": [
     "地门金尊老祖",
     "地门郑天林",
-    "金尊老者"
+    "金尊老者",
+    "金尊老者郑天林",
+    "Zheng Tianlin"
   ],
   "summary": "孟土洲地门老祖，金尊修为，常年闭关；被王林神念惊出，恭敬献上地图玉简并获赠一丝火本源。",
   "attributes": {
     "性别": "男",
-    "身份": "孟土洲地门老祖",
+    "身份": "孟土洲地门老祖、地门金尊老祖",
     "外貌": "老者",
-    "存殁": "在世"
+    "存殁": "在世",
+    "称号": "金尊老祖"
   },
   "observations": {
     "性别": [
@@ -27,6 +30,11 @@
         "value": "孟土洲地门老祖",
         "docId": "plot.xianni-1923-meng-tu-zhou-di-men-xiangjian",
         "seq": 1834
+      },
+      {
+        "value": "地门金尊老祖",
+        "docId": "plot.xianni-ch1924-waiting-for-autumn-wind",
+        "seq": 1834
       }
     ],
     "外貌": [
@@ -40,6 +48,13 @@
       {
         "value": "在世",
         "docId": "plot.xianni-1923-meng-tu-zhou-di-men-xiangjian",
+        "seq": 1834
+      }
+    ],
+    "称号": [
+      {
+        "value": "金尊老祖",
+        "docId": "plot.xianni-ch1924-waiting-for-autumn-wind",
         "seq": 1834
       }
     ]
@@ -69,12 +84,19 @@
       "docId": "plot.xianni-1923-meng-tu-zhou-di-men-xiangjian",
       "dated": false,
       "seq": 1834
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1924-waiting-for-autumn-wind",
+      "dated": false,
+      "seq": 1834
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1923-meng-tu-zhou-di-men-xiangjian"
+    "plot.xianni-1923-meng-tu-zhou-di-men-xiangjian",
+    "plot.xianni-ch1924-waiting-for-autumn-wind"
   ],
-  "updatedAt": "2026-08-30T17:07:06.013Z"
+  "updatedAt": "2026-08-30T17:09:01.244Z"
 }

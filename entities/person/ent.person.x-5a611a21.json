@@ -3,13 +3,16 @@
   "type": "person",
   "name": "地门宗主",
   "aliases": [
-    "孟土洲地门宗主"
+    "孟土洲地门宗主",
+    "那地门宗主"
   ],
   "summary": "孟土洲地门宗主，空劫后期修士，神念之下弃训弟子急奔出宗拜见王林，全程无说话资格。",
   "attributes": {
     "性别": "男",
-    "身份": "孟土洲地门宗主",
-    "存殁": "在世"
+    "身份": "孟土洲地门宗主、地门宗主",
+    "存殁": "在世",
+    "小阶段": "空劫后期",
+    "结局": "被王林一声「滚」重伤，郑天林表示将废其宗主之位"
   },
   "observations": {
     "性别": [
@@ -24,12 +27,31 @@
         "value": "孟土洲地门宗主",
         "docId": "plot.xianni-1923-meng-tu-zhou-di-men-xiangjian",
         "seq": 1834
+      },
+      {
+        "value": "地门宗主",
+        "docId": "plot.xianni-ch1924-waiting-for-autumn-wind",
+        "seq": 1834
       }
     ],
     "存殁": [
       {
         "value": "在世",
         "docId": "plot.xianni-1923-meng-tu-zhou-di-men-xiangjian",
+        "seq": 1834
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "空劫后期",
+        "docId": "plot.xianni-ch1924-waiting-for-autumn-wind",
+        "seq": 1834
+      }
+    ],
+    "结局": [
+      {
+        "value": "被王林一声「滚」重伤，郑天林表示将废其宗主之位",
+        "docId": "plot.xianni-ch1924-waiting-for-autumn-wind",
         "seq": 1834
       }
     ]
@@ -53,12 +75,25 @@
       "docId": "plot.xianni-1923-meng-tu-zhou-di-men-xiangjian",
       "dated": false,
       "seq": 1834
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1924-waiting-for-autumn-wind",
+      "dated": false,
+      "seq": 1834
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1924-waiting-for-autumn-wind",
+      "dated": false,
+      "seq": 1834
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1923-meng-tu-zhou-di-men-xiangjian"
+    "plot.xianni-1923-meng-tu-zhou-di-men-xiangjian",
+    "plot.xianni-ch1924-waiting-for-autumn-wind"
   ],
-  "updatedAt": "2026-08-30T17:07:06.014Z"
+  "updatedAt": "2026-08-30T17:09:01.245Z"
 }
