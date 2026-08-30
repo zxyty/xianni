@@ -9,10 +9,11 @@
   ],
   "summary": "世子殿下的避难之地，那名修士有所顾忌不便进入。",
   "attributes": {
-    "类型": "禁地",
+    "类型": "皇宫",
     "危险度": "禁地，需允许方可入",
     "上级区域": "祖城",
-    "方位": "祖城最中央"
+    "方位": "祖城最中央",
+    "所属势力": "仙族"
   },
   "observations": {
     "类型": [
@@ -25,6 +26,11 @@
         "value": "禁地",
         "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
         "seq": 1878
+      },
+      {
+        "value": "皇宫",
+        "docId": "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
+        "seq": 1883
       }
     ],
     "危险度": [
@@ -52,15 +58,22 @@
         "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
         "seq": 1878
       }
+    ],
+    "所属势力": [
+      {
+        "value": "仙族",
+        "docId": "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
+        "seq": 1883
+      }
     ]
   },
   "firstSeq": 244,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+      "docId": "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
       "dated": false,
-      "seq": 1878
+      "seq": 1883
     },
     "危险度": {
       "asOf": null,
@@ -79,13 +92,20 @@
       "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
       "dated": false,
       "seq": 1878
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
+      "dated": false,
+      "seq": 1883
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch244-247-zuling-pai-yijing-ganwu",
-    "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun"
+    "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+    "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression"
   ],
-  "updatedAt": "2026-08-30T19:41:43.096Z"
+  "updatedAt": "2026-08-30T20:01:04.071Z"
 }

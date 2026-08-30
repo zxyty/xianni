@@ -4,12 +4,17 @@
   "name": "国师上玄道",
   "aliases": [
     "上玄道",
-    "中州国师上玄道一脉"
+    "中州国师上玄道一脉",
+    "玄道",
+    "粗布长衫青年",
+    "Shang Xuandao"
   ],
   "summary": "中州皇城内的国师，其一脉所学之术传闻名为「道衍魂」，与大魂门魂衍道同源，是大魂门弟子整理出的最骇人传闻。",
   "attributes": {
-    "身份": "中州皇城国师",
-    "称号": "国师"
+    "身份": "仙族国师",
+    "称号": "国师",
+    "外貌": "粗布长衫青年，皮肤白皙、双眼细长，嘴角常带微笑、看似年轻",
+    "标志特征": "手中不断转动两枚紫色珠子；一瞥可令人如沉轮回、见一生画面、抬手掐算般一指即令术法归无"
   },
   "observations": {
     "身份": [
@@ -17,6 +22,11 @@
         "value": "中州皇城国师",
         "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
         "seq": 1745
+      },
+      {
+        "value": "仙族国师",
+        "docId": "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
+        "seq": 1883
       }
     ],
     "称号": [
@@ -25,27 +35,64 @@
         "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
         "seq": 1745
       }
+    ],
+    "外貌": [
+      {
+        "value": "粗布长衫青年，皮肤白皙、双眼细长，嘴角常带微笑",
+        "docId": "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
+        "seq": 1883
+      },
+      {
+        "value": "看似年轻",
+        "docId": "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
+        "seq": 1883
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "手中不断转动两枚紫色珠子；一瞥可令人如沉轮回、见一生画面",
+        "docId": "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
+        "seq": 1883
+      },
+      {
+        "value": "抬手掐算般一指即令术法归无",
+        "docId": "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
+        "seq": 1883
+      }
     ]
   },
   "firstSeq": 1745,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
+      "docId": "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
       "dated": false,
-      "seq": 1745
+      "seq": 1883
     },
     "称号": {
       "asOf": null,
       "docId": "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
       "dated": false,
       "seq": 1745
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
+      "dated": false,
+      "seq": 1883
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression",
+      "dated": false,
+      "seq": 1883
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice"
+    "plot.xianni-ch1837-hun-yan-dao-canghunge-8th-floor-choice",
+    "plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression"
   ],
-  "updatedAt": "2026-08-30T11:11:31.005Z"
+  "updatedAt": "2026-08-30T20:01:04.053Z"
 }

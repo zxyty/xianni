@@ -1230,3 +1230,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T18:45:28.538Z** `ingest` plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor — 仙逆 第1868-1872章 一鸣惊人：王林闯过天尊涅第十一层得极火道，踏入第十二层引大天尊争抢 · kind=plot asOf=2026-08-30 entities=69 relations=136 src=01868-01872.md
 - **2026-08-30T18:59:16.305Z** `ingest` plot.xianni-1873-1877-tianzun-nie-17th-floor — 仙逆 第1873-1877章：王林连破天尊涅十四至十七层，反击仙皇与冥道尊 · kind=plot asOf=2026-08-30 entities=60 relations=110 src=01873-01877.md
 - **2026-08-30T19:41:43.696Z** `ingest` plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun — 仙逆 第1878-1882章：白发跃天尊择主——王林投双子大天尊 · kind=plot asOf=2026-08-30 entities=85 relations=153 src=01878-01882.md
+- **2026-08-30T20:01:04.712Z** `ingest` plot.xianni-1883-1887-li-fu-arrow-array-wang-lin-suppression — 仙逆 第1883-1887章：李府箭阵与王林镇压——白发跃天尊现身 · kind=plot asOf=2026-08-30 entities=75 relations=133 src=01883-01887.md
