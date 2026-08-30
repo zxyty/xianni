@@ -8,15 +8,19 @@
     "红发红眉红袍男子",
     "红袍男子",
     "血星阁楼男子",
-    "道魔宗红袍男子"
+    "道魔宗红袍男子",
+    "道魔宗红袍大能"
   ],
   "summary": "居于血星血阁的红发红眉红袍男子，相貌英俊约四十许，目内血芒，感应天劫后念及「惜雪那孩子」。",
   "attributes": {
-    "外貌": "红袍男子",
+    "外貌": "红发红眉、红袍、相貌英俊、约四十岁、红发红眉，身穿红袍、红袍男子、红袍、披头散发、血肉模糊",
     "标志特征": "全身红雾可化两只巨臂撑天",
-    "身份": "道魔宗空劫大尊",
+    "身份": "血星血阁修士、血星阁楼主人、道魔宗空劫大尊、道魔宗大能",
     "性别": "男",
-    "性格": "冷漠、简短（只说一字『滚』）"
+    "性格": "冷漠、简短（只说一字『滚』）",
+    "存殁": "死亡",
+    "死因": "被王林以道古肉身七成之力一拳轰爆",
+    "结局": "身体化作血肉卷向八方"
   },
   "observations": {
     "外貌": [
@@ -33,6 +37,11 @@
       {
         "value": "红袍男子",
         "docId": "plot.xianni-ch1911-two-continent-final-battle-wang-lin-slays-two-kongjie-dazun",
+        "seq": 1819
+      },
+      {
+        "value": "红袍、披头散发、血肉模糊",
+        "docId": "plot.xianni-ch1912-imperial-edict-arrives",
         "seq": 1819
       }
     ],
@@ -69,6 +78,11 @@
         "value": "道魔宗空劫大尊",
         "docId": "plot.xianni-ch1911-two-continent-final-battle-wang-lin-slays-two-kongjie-dazun",
         "seq": 1819
+      },
+      {
+        "value": "道魔宗大能",
+        "docId": "plot.xianni-ch1912-imperial-edict-arrives",
+        "seq": 1819
       }
     ],
     "性别": [
@@ -84,15 +98,36 @@
         "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
         "seq": 571
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch1912-imperial-edict-arrives",
+        "seq": 1819
+      }
+    ],
+    "死因": [
+      {
+        "value": "被王林以道古肉身七成之力一拳轰爆",
+        "docId": "plot.xianni-ch1912-imperial-edict-arrives",
+        "seq": 1819
+      }
+    ],
+    "结局": [
+      {
+        "value": "身体化作血肉卷向八方",
+        "docId": "plot.xianni-ch1912-imperial-edict-arrives",
+        "seq": 1819
+      }
     ]
   },
   "firstSeq": 556,
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch1911-two-continent-final-battle-wang-lin-slays-two-kongjie-dazun",
+      "docId": "plot.chapter-595-simplest-heavenly-tribulation-no",
       "dated": false,
-      "seq": 1819
+      "seq": 556
     },
     "标志特征": {
       "asOf": null,
@@ -102,9 +137,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1911-two-continent-final-battle-wang-lin-slays-two-kongjie-dazun",
+      "docId": "plot.chapter-595-simplest-heavenly-tribulation-no",
       "dated": false,
-      "seq": 1819
+      "seq": 556
     },
     "性别": {
       "asOf": null,
@@ -117,6 +152,24 @@
       "docId": "plot.xianni-ch611-buwang-zhuque-first-act",
       "dated": false,
       "seq": 571
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1912-imperial-edict-arrives",
+      "dated": false,
+      "seq": 1819
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1912-imperial-edict-arrives",
+      "dated": false,
+      "seq": 1819
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1912-imperial-edict-arrives",
+      "dated": false,
+      "seq": 1819
     }
   },
   "contested": false,
@@ -124,7 +177,8 @@
   "docs": [
     "plot.chapter-595-simplest-heavenly-tribulation-no",
     "plot.xianni-ch611-buwang-zhuque-first-act",
-    "plot.xianni-ch1911-two-continent-final-battle-wang-lin-slays-two-kongjie-dazun"
+    "plot.xianni-ch1911-two-continent-final-battle-wang-lin-slays-two-kongjie-dazun",
+    "plot.xianni-ch1912-imperial-edict-arrives"
   ],
-  "updatedAt": "2026-08-30T15:39:03.637Z"
+  "updatedAt": "2026-08-30T15:41:48.948Z"
 }

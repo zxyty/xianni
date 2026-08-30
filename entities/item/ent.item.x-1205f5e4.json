@@ -3,12 +3,13 @@
   "type": "item",
   "name": "赵国圣旨",
   "aliases": [
-    "圣旨"
+    "圣旨",
+    "仙族圣旨"
   ],
   "summary": "赵国皇帝三年内连下九道，召王林入京做帝师，王林皆未理会。",
   "attributes": {
-    "类型": "诏书",
-    "用途": "征召王林为帝师"
+    "类型": "皇族诏令",
+    "用途": "向天牛洲、绿魔洲仙族之民宣旨"
   },
   "observations": {
     "类型": [
@@ -16,6 +17,11 @@
         "value": "诏书",
         "docId": "plot.xianni-1601-family-letter-su-dao-death",
         "seq": 1511
+      },
+      {
+        "value": "皇族诏令",
+        "docId": "plot.xianni-ch1912-imperial-edict-arrives",
+        "seq": 1819
       }
     ],
     "用途": [
@@ -23,6 +29,11 @@
         "value": "征召王林为帝师",
         "docId": "plot.xianni-1601-family-letter-su-dao-death",
         "seq": 1511
+      },
+      {
+        "value": "向天牛洲、绿魔洲仙族之民宣旨",
+        "docId": "plot.xianni-ch1912-imperial-edict-arrives",
+        "seq": 1819
       }
     ]
   },
@@ -30,21 +41,22 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1601-family-letter-su-dao-death",
+      "docId": "plot.xianni-ch1912-imperial-edict-arrives",
       "dated": false,
-      "seq": 1511
+      "seq": 1819
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-1601-family-letter-su-dao-death",
+      "docId": "plot.xianni-ch1912-imperial-edict-arrives",
       "dated": false,
-      "seq": 1511
+      "seq": 1819
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1601-family-letter-su-dao-death"
+    "plot.xianni-1601-family-letter-su-dao-death",
+    "plot.xianni-ch1912-imperial-edict-arrives"
   ],
-  "updatedAt": "2026-08-26T06:16:42.971Z"
+  "updatedAt": "2026-08-30T15:41:48.973Z"
 }
