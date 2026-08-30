@@ -13,14 +13,16 @@
   "summary": "仙罡大陆九阳尊之一，修为无上属传说中人，当年与玄罗大天尊争夺太古神境储物残片。",
   "attributes": {
     "称号": "道一大天尊",
-    "身份": "道魔宗天尊老祖之主",
+    "身份": "仙罡大陆九阳尊之一、道一宗修士、大天尊、道魔宗天尊老祖之主、仙族五大天尊之一",
     "阵营": "仙族之地一方",
-    "外貌": "二十多岁道袍青年，黑发披肩，剑眉星目，双眼如星空",
+    "外貌": "立于幻化太阳之内、二十多岁道袍青年，黑发披肩，剑眉星目，双眼如星空、黑发青年",
     "出身地": "南州",
     "小阶段": "大天尊",
     "性别": "男",
     "元神强度": "一丝神念即令天地万物不敢动",
-    "存殁": "存活"
+    "存殁": "存活",
+    "性格": "平静无波、极为护短",
+    "神识": "一丝神念之拳即令王林推衍百万次无解"
   },
   "observations": {
     "称号": [
@@ -55,6 +57,11 @@
         "value": "道魔宗天尊老祖之主",
         "docId": "plot.xianni-1918-body-is-dao",
         "seq": 1829
+      },
+      {
+        "value": "仙族五大天尊之一",
+        "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
+        "seq": 1829
       }
     ],
     "阵营": [
@@ -75,6 +82,12 @@
         "value": "二十多岁道袍青年，黑发披肩，剑眉星目，双眼如星空",
         "docId": "plot.xianni-ch1920-wo-buxiu-ni-buxiu",
         "seq": 1829
+      },
+      {
+        "value": "黑发青年",
+        "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
+        "seq": 1829,
+        "note": "神念所化身影"
       }
     ],
     "出身地": [
@@ -112,6 +125,20 @@
         "docId": "plot.xianni-ch1920-wo-buxiu-ni-buxiu",
         "seq": 1829
       }
+    ],
+    "性格": [
+      {
+        "value": "平静无波、极为护短",
+        "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
+        "seq": 1829
+      }
+    ],
+    "神识": [
+      {
+        "value": "一丝神念之拳即令王林推衍百万次无解",
+        "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
+        "seq": 1829
+      }
     ]
   },
   "firstSeq": 1601,
@@ -124,9 +151,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1918-body-is-dao",
+      "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
       "dated": false,
-      "seq": 1829
+      "seq": 1601
     },
     "阵营": {
       "asOf": null,
@@ -136,9 +163,10 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch1920-wo-buxiu-ni-buxiu",
+      "docId": "plot.xianni-1797-strange-white-light-in-the-void",
       "dated": false,
-      "seq": 1829
+      "seq": 1705,
+      "note": "冷目凝望"
     },
     "出身地": {
       "asOf": null,
@@ -170,6 +198,18 @@
       "docId": "plot.xianni-ch1920-wo-buxiu-ni-buxiu",
       "dated": false,
       "seq": 1829
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
+      "dated": false,
+      "seq": 1829
+    },
+    "神识": {
+      "asOf": null,
+      "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
+      "dated": false,
+      "seq": 1829
     }
   },
   "contested": false,
@@ -183,7 +223,8 @@
     "plot.xianni-ch1916-wait-for-tianzun",
     "lore.xianni-1917-xianzu-five-great-tianzun",
     "plot.xianni-1918-body-is-dao",
-    "plot.xianni-ch1920-wo-buxiu-ni-buxiu"
+    "plot.xianni-ch1920-wo-buxiu-ni-buxiu",
+    "plot.xianni-1921-tianzun-nie-trial-ground"
   ],
-  "updatedAt": "2026-08-30T16:59:57.622Z"
+  "updatedAt": "2026-08-30T17:02:30.546Z"
 }

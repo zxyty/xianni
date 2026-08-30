@@ -3,12 +3,15 @@
   "type": "person",
   "name": "武封大天尊",
   "aliases": [
-    "武封"
+    "武封",
+    "北州武封大天尊"
   ],
   "summary": "北州大能，云空多年前赴北州拜入其门下问仙求道。",
   "attributes": {
     "称号": "武封大天尊",
-    "出身地": "北州"
+    "出身地": "北州",
+    "性格": "最为超然",
+    "标志特征": "曾闯过天尊涅第十九层"
   },
   "observations": {
     "称号": [
@@ -29,6 +32,20 @@
         "docId": "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
         "seq": 1755
       }
+    ],
+    "性格": [
+      {
+        "value": "最为超然",
+        "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
+        "seq": 1829
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "曾闯过天尊涅第十九层",
+        "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
+        "seq": 1829
+      }
     ]
   },
   "firstSeq": 1755,
@@ -44,13 +61,26 @@
       "docId": "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
       "dated": false,
       "seq": 1755
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
+      "dated": false,
+      "seq": 1829
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
+      "dated": false,
+      "seq": 1829
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
-    "lore.xianni-1917-xianzu-five-great-tianzun"
+    "lore.xianni-1917-xianzu-five-great-tianzun",
+    "plot.xianni-1921-tianzun-nie-trial-ground"
   ],
-  "updatedAt": "2026-08-30T16:53:06.913Z"
+  "updatedAt": "2026-08-30T17:02:30.549Z"
 }

@@ -18,9 +18,10 @@
   "attributes": {
     "身份": "远古仙域之皇、远古至强者、设局者、仙族之主、仙族至高存在、皇族之主、圣旨下达者、中州仙皇",
     "存殁": "闭关未出",
-    "称号": "仙皇、远古仙皇、八极大天尊、大天尊",
+    "称号": "仙皇、远古仙皇、八极大天尊、大天尊、仙皇八极大天尊",
     "标志特征": "本身即九阳之一",
-    "阵营": "仙族皇城"
+    "阵营": "仙族皇城",
+    "性格": "最为凌傲"
   },
   "observations": {
     "身份": [
@@ -88,6 +89,11 @@
         "value": "大天尊",
         "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
         "seq": 1824
+      },
+      {
+        "value": "仙皇八极大天尊",
+        "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
+        "seq": 1829
       }
     ],
     "标志特征": [
@@ -102,6 +108,13 @@
         "value": "仙族皇城",
         "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
         "seq": 1824
+      }
+    ],
+    "性格": [
+      {
+        "value": "最为凌傲",
+        "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
+        "seq": 1829
       }
     ]
   },
@@ -137,6 +150,12 @@
       "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
       "dated": false,
       "seq": 1824
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
+      "dated": false,
+      "seq": 1829
     }
   },
   "contested": false,
@@ -149,7 +168,8 @@
     "plot.xianni-ch1912-imperial-edict-arrives",
     "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
     "plot.xianni-1915-imperial-decree-slaying-daomo-sect-master",
-    "lore.xianni-1917-xianzu-five-great-tianzun"
+    "lore.xianni-1917-xianzu-five-great-tianzun",
+    "plot.xianni-1921-tianzun-nie-trial-ground"
   ],
-  "updatedAt": "2026-08-30T16:53:06.912Z"
+  "updatedAt": "2026-08-30T17:02:30.547Z"
 }

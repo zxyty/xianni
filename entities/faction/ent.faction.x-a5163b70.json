@@ -11,7 +11,8 @@
   "attributes": {
     "等级": "九宗十三门最强一宗",
     "所属界面": "仙罡大陆",
-    "据点": "东州"
+    "据点": "东州",
+    "阵营": "仙族"
   },
   "observations": {
     "等级": [
@@ -59,6 +60,13 @@
         "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
         "seq": 1824
       }
+    ],
+    "阵营": [
+      {
+        "value": "仙族",
+        "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
+        "seq": 1829
+      }
     ]
   },
   "firstSeq": 1611,
@@ -80,6 +88,12 @@
       "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
       "dated": false,
       "seq": 1824
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
+      "dated": false,
+      "seq": 1829
     }
   },
   "contested": false,
@@ -88,7 +102,8 @@
     "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
     "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
     "plot.xianni-1796-stubborn-will-xianguang-continent-overview",
-    "lore.xianni-1917-xianzu-five-great-tianzun"
+    "lore.xianni-1917-xianzu-five-great-tianzun",
+    "plot.xianni-1921-tianzun-nie-trial-ground"
   ],
-  "updatedAt": "2026-08-30T16:53:06.923Z"
+  "updatedAt": "2026-08-30T17:02:30.561Z"
 }

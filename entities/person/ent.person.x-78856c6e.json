@@ -3,12 +3,14 @@
   "type": "person",
   "name": "久帝大天尊",
   "aliases": [
-    "久帝"
+    "久帝",
+    "中州久帝大天尊"
   ],
   "summary": "中州除仙皇之外的另一位大天尊。",
   "attributes": {
     "称号": "久帝大天尊、大天尊",
-    "出身地": "中州"
+    "出身地": "中州",
+    "性格": "最为霸道"
   },
   "observations": {
     "称号": [
@@ -29,6 +31,13 @@
         "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
         "seq": 1824
       }
+    ],
+    "性格": [
+      {
+        "value": "最为霸道",
+        "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
+        "seq": 1829
+      }
     ]
   },
   "firstSeq": 1824,
@@ -44,12 +53,19 @@
       "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
       "dated": false,
       "seq": 1824
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
+      "dated": false,
+      "seq": 1829
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.xianni-1917-xianzu-five-great-tianzun"
+    "lore.xianni-1917-xianzu-five-great-tianzun",
+    "plot.xianni-1921-tianzun-nie-trial-ground"
   ],
-  "updatedAt": "2026-08-30T16:53:06.914Z"
+  "updatedAt": "2026-08-30T17:02:30.548Z"
 }

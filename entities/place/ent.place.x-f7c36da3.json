@@ -9,7 +9,8 @@
   "attributes": {
     "类型": "州域",
     "上级区域": "七十二洲",
-    "方位": "仙族之地北部"
+    "方位": "北部",
+    "所属界面": "仙罡大陆"
   },
   "observations": {
     "类型": [
@@ -31,6 +32,18 @@
         "value": "仙族之地北部",
         "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
         "seq": 1824
+      },
+      {
+        "value": "北部",
+        "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
+        "seq": 1829
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "仙罡大陆",
+        "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
+        "seq": 1829
       }
     ]
   },
@@ -50,16 +63,23 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "lore.xianni-1917-xianzu-five-great-tianzun",
+      "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
       "dated": false,
-      "seq": 1824
+      "seq": 1829
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
+      "dated": false,
+      "seq": 1829
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
-    "lore.xianni-1917-xianzu-five-great-tianzun"
+    "lore.xianni-1917-xianzu-five-great-tianzun",
+    "plot.xianni-1921-tianzun-nie-trial-ground"
   ],
-  "updatedAt": "2026-08-30T16:53:06.878Z"
+  "updatedAt": "2026-08-30T17:02:30.569Z"
 }

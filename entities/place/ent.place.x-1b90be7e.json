@@ -7,13 +7,15 @@
     "太吉神境",
     "Taigu Shenjing",
     "神境",
-    "太古神境开启"
+    "太古神境开启",
+    "太极神境",
+    "太吉神境开启"
   ],
   "summary": "封界之尊推断存在的所在，破开天逆珠最终秘密方可寻到，其详情连他也所知不多。",
   "attributes": {
-    "类型": "秘境",
+    "类型": "秘境/神境、神秘秘境、远古境域、至高之境/秘境、秘境、至高秘境",
     "危险度": "莫测、极为艰难",
-    "特产": "储物残片、天道"
+    "特产": "成就大天尊的造化"
   },
   "observations": {
     "类型": [
@@ -40,6 +42,11 @@
       {
         "value": "秘境",
         "docId": "plot.xianni-1918-body-is-dao",
+        "seq": 1829
+      },
+      {
+        "value": "至高秘境",
+        "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
         "seq": 1829
       }
     ],
@@ -70,6 +77,11 @@
         "value": "储物残片、天道",
         "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
         "seq": 1601
+      },
+      {
+        "value": "成就大天尊的造化",
+        "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
+        "seq": 1829
       }
     ]
   },
@@ -77,9 +89,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1918-body-is-dao",
+      "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
       "dated": false,
-      "seq": 1829
+      "seq": 1200
     },
     "危险度": {
       "asOf": null,
@@ -89,9 +101,9 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-1694-fan-shanlu-dream-forbidden-ship",
+      "docId": "plot.xianni-1921-tianzun-nie-trial-ground",
       "dated": false,
-      "seq": 1601
+      "seq": 1829
     }
   },
   "contested": false,
@@ -102,7 +114,8 @@
     "plot.xianni-ch1726-recondense-origins",
     "plot.xianni-1655-1659-search-third-soul-qingshui-seven-po",
     "plot.xianni-1794-baishi-xuanluo-wenshou-jinhua",
-    "plot.xianni-1918-body-is-dao"
+    "plot.xianni-1918-body-is-dao",
+    "plot.xianni-1921-tianzun-nie-trial-ground"
   ],
-  "updatedAt": "2026-08-30T16:55:14.621Z"
+  "updatedAt": "2026-08-30T17:02:30.558Z"
 }
