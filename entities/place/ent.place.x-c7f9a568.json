@@ -2,12 +2,15 @@
   "id": "ent.place.x-c7f9a568",
   "type": "place",
   "name": "东州",
-  "aliases": [],
+  "aliases": [
+    "仙罡大陆东州"
+  ],
   "summary": "仙罡大陆的一州，下辖包含天牛洲在内的多个内洲，有'九宗十三门'与'四大天骄'之说。",
   "attributes": {
     "所属界面": "仙罡大陆",
     "类型": "州",
-    "上级区域": "仙罡大陆"
+    "上级区域": "仙罡大陆",
+    "方位": "仙罡大陆东部"
   },
   "observations": {
     "所属界面": [
@@ -30,6 +33,13 @@
         "docId": "plot.xianni-1801-tianniu-zhou-canglongzong-kangren",
         "seq": 1710
       }
+    ],
+    "方位": [
+      {
+        "value": "仙罡大陆东部",
+        "docId": "plot.xianni-1806-storage-space-problem",
+        "seq": 1715
+      }
     ]
   },
   "firstSeq": 1710,
@@ -51,12 +61,19 @@
       "docId": "plot.xianni-1801-tianniu-zhou-canglongzong-kangren",
       "dated": false,
       "seq": 1710
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-1806-storage-space-problem",
+      "dated": false,
+      "seq": 1715
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1801-tianniu-zhou-canglongzong-kangren"
+    "plot.xianni-1801-tianniu-zhou-canglongzong-kangren",
+    "plot.xianni-1806-storage-space-problem"
   ],
-  "updatedAt": "2026-08-30T08:53:15.152Z"
+  "updatedAt": "2026-08-30T09:09:02.195Z"
 }

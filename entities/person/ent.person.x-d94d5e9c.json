@@ -6,15 +6,17 @@
     "太上长老杜青",
     "Du Qing",
     "苍龙宗老祖杜青",
-    "老祖杜青"
+    "老祖杜青",
+    "那少年"
   ],
   "summary": "苍龙宗创立者与太上长老，宗内修为第一，达空劫初期；其身实为一具木头人，与大魂门关系极深。",
   "attributes": {
-    "身份": "苍龙宗创立者、苍龙宗太上长老、苍龙宗老祖",
-    "标志特征": "本身是一具木头人，施展神通时显出木头身体",
-    "外貌": "平时看起来与常人无异",
+    "身份": "苍龙宗创立者、苍龙宗太上长老、苍龙宗老祖、苍龙宗宗主（老祖）",
+    "标志特征": "怒时身体扭曲仿若化作木头人",
+    "外貌": "少年",
     "阵营": "苍龙宗",
-    "性格": "残酷（曾将人炼成木头人）"
+    "性格": "残酷（曾将人炼成木头人）、不在意门人生死，只在意脸面",
+    "神识": "磅礴，可隔空强行搜魂"
   },
   "observations": {
     "身份": [
@@ -32,6 +34,11 @@
         "value": "苍龙宗老祖",
         "docId": "plot.xianni-1804-xiangang-first-battle-canglong-sect",
         "seq": 1715
+      },
+      {
+        "value": "苍龙宗宗主（老祖）",
+        "docId": "plot.xianni-1806-storage-space-problem",
+        "seq": 1715
       }
     ],
     "标志特征": [
@@ -39,6 +46,12 @@
         "value": "本身是一具木头人，施展神通时显出木头身体",
         "docId": "plot.xianni-1801-tianniu-zhou-canglongzong-kangren",
         "seq": 1710
+      },
+      {
+        "value": "怒时身体扭曲仿若化作木头人",
+        "docId": "plot.xianni-1806-storage-space-problem",
+        "seq": 1715,
+        "note": "并能以灰光神通将他人元神化为木头"
       }
     ],
     "外貌": [
@@ -47,6 +60,11 @@
         "docId": "plot.xianni-1801-tianniu-zhou-canglongzong-kangren",
         "seq": 1710,
         "note": "实为木头人"
+      },
+      {
+        "value": "少年",
+        "docId": "plot.xianni-1806-storage-space-problem",
+        "seq": 1715
       }
     ],
     "阵营": [
@@ -61,6 +79,19 @@
         "value": "残酷（曾将人炼成木头人）",
         "docId": "plot.xianni-1804-xiangang-first-battle-canglong-sect",
         "seq": 1715
+      },
+      {
+        "value": "不在意门人生死，只在意脸面",
+        "docId": "plot.xianni-1806-storage-space-problem",
+        "seq": 1715,
+        "note": "失去双臂的中年男子暗中评价"
+      }
+    ],
+    "神识": [
+      {
+        "value": "磅礴，可隔空强行搜魂",
+        "docId": "plot.xianni-1806-storage-space-problem",
+        "seq": 1715
       }
     ]
   },
@@ -74,16 +105,16 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.xianni-1801-tianniu-zhou-canglongzong-kangren",
+      "docId": "plot.xianni-1806-storage-space-problem",
       "dated": false,
-      "seq": 1710
+      "seq": 1715,
+      "note": "并能以灰光神通将他人元神化为木头"
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-1801-tianniu-zhou-canglongzong-kangren",
+      "docId": "plot.xianni-1806-storage-space-problem",
       "dated": false,
-      "seq": 1710,
-      "note": "实为木头人"
+      "seq": 1715
     },
     "阵营": {
       "asOf": null,
@@ -96,13 +127,20 @@
       "docId": "plot.xianni-1804-xiangang-first-battle-canglong-sect",
       "dated": false,
       "seq": 1715
+    },
+    "神识": {
+      "asOf": null,
+      "docId": "plot.xianni-1806-storage-space-problem",
+      "dated": false,
+      "seq": 1715
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1801-tianniu-zhou-canglongzong-kangren",
-    "plot.xianni-1804-xiangang-first-battle-canglong-sect"
+    "plot.xianni-1804-xiangang-first-battle-canglong-sect",
+    "plot.xianni-1806-storage-space-problem"
   ],
-  "updatedAt": "2026-08-30T08:59:39.714Z"
+  "updatedAt": "2026-08-30T09:09:02.150Z"
 }

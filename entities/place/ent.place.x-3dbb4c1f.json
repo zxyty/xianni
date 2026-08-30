@@ -5,13 +5,15 @@
   "aliases": [
     "三十六郡",
     "古道",
-    "古道一方"
+    "古道一方",
+    "吉国三十六郡"
   ],
   "summary": "古道一方在仙罡大陆的疆域，共三十六郡，内有古之三脉；本年平静无大事。",
   "attributes": {
     "所属界面": "仙罡大陆",
     "规模": "三十六郡",
-    "所属势力": "古之三脉"
+    "所属势力": "古之三脉",
+    "上级区域": "吉国"
   },
   "observations": {
     "所属界面": [
@@ -34,6 +36,13 @@
         "docId": "plot.xianni-1796-stubborn-will-xianguang-continent-overview",
         "seq": 1705
       }
+    ],
+    "上级区域": [
+      {
+        "value": "吉国",
+        "docId": "plot.xianni-1806-storage-space-problem",
+        "seq": 1715
+      }
     ]
   },
   "firstSeq": 1705,
@@ -55,12 +64,19 @@
       "docId": "plot.xianni-1796-stubborn-will-xianguang-continent-overview",
       "dated": false,
       "seq": 1705
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-1806-storage-space-problem",
+      "dated": false,
+      "seq": 1715
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1796-stubborn-will-xianguang-continent-overview"
+    "plot.xianni-1796-stubborn-will-xianguang-continent-overview",
+    "plot.xianni-1806-storage-space-problem"
   ],
-  "updatedAt": "2026-08-30T08:32:00.017Z"
+  "updatedAt": "2026-08-30T09:09:02.196Z"
 }

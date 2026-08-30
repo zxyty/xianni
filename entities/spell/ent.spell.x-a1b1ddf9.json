@@ -6,14 +6,15 @@
     "搜魂之术",
     "搜魂",
     "Sou Hun Shu",
-    "搜魂神通"
+    "搜魂神通",
+    "强行搜魂"
   ],
   "summary": "歹毒的搜魂仙术，被搜者多死亡或痴呆；受天地法则限制。",
   "attributes": {
-    "类型": "神魂类探查术",
+    "类型": "神识/元神类神通",
     "适用境界": "对同阶施展需大意不得",
-    "消耗": "以庞大元力压制目标元神",
-    "威力": "十有立即魂飞魄散，最好终生痴呆、读取／搜取元神记忆、可完整掌控目标记忆，施后元神近乎透明、尽取目标所知的一切、强行读取记忆、直接搜取目标记忆、可提取目标一生记忆，施展后目标元神极度虚弱、可致被施术者失去神智"
+    "消耗": "需磅礴神识",
+    "威力": "十有立即魂飞魄散，最好终生痴呆、读取／搜取元神记忆、可完整掌控目标记忆，施后元神近乎透明、尽取目标所知的一切、强行读取记忆、直接搜取目标记忆、可提取目标一生记忆，施展后目标元神极度虚弱、可致被施术者失去神智、被搜者当场身死爆体"
   },
   "observations": {
     "类型": [
@@ -86,6 +87,11 @@
         "value": "神魂类探查术",
         "docId": "plot.xianni-1428-crazy-idea-fire-sparrow-ancestor-master",
         "seq": 1336
+      },
+      {
+        "value": "神识/元神类神通",
+        "docId": "plot.xianni-1806-storage-space-problem",
+        "seq": 1715
       }
     ],
     "适用境界": [
@@ -162,6 +168,11 @@
         "value": "以庞大元力压制目标元神",
         "docId": "plot.xianni-773-shisan-tian-wang-lin-slaughters-yao-family-pursuers",
         "seq": 729
+      },
+      {
+        "value": "需磅礴神识",
+        "docId": "plot.xianni-1806-storage-space-problem",
+        "seq": 1715
       }
     ],
     "威力": [
@@ -204,6 +215,11 @@
         "value": "可致被施术者失去神智",
         "docId": "plot.xianni-ch1388-donot-be-afraid-tanlang-yaolang",
         "seq": 1300
+      },
+      {
+        "value": "被搜者当场身死爆体",
+        "docId": "plot.xianni-1806-storage-space-problem",
+        "seq": 1715
       }
     ]
   },
@@ -211,9 +227,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1428-crazy-idea-fire-sparrow-ancestor-master",
+      "docId": "plot.xianni-1806-storage-space-problem",
       "dated": false,
-      "seq": 1336
+      "seq": 1715
     },
     "适用境界": {
       "asOf": null,
@@ -224,9 +240,9 @@
     },
     "消耗": {
       "asOf": null,
-      "docId": "plot.xianni-773-shisan-tian-wang-lin-slaughters-yao-family-pursuers",
+      "docId": "plot.xianni-1806-storage-space-problem",
       "dated": false,
-      "seq": 729
+      "seq": 1715
     },
     "威力": {
       "asOf": null,
@@ -259,7 +275,8 @@
     "plot.xianni-1428-crazy-idea-fire-sparrow-ancestor-master",
     "plot.xianni-1395-1399-wang-lin-destroys-donglin-star",
     "lore.kongxuan-realm-virtual-origin-xianghuo-world-cultivation",
-    "plot.xianni-ch1686-xiaohong-yanlong-subdued"
+    "plot.xianni-ch1686-xiaohong-yanlong-subdued",
+    "plot.xianni-1806-storage-space-problem"
   ],
-  "updatedAt": "2026-08-26T11:59:58.092Z"
+  "updatedAt": "2026-08-30T09:09:02.164Z"
 }
