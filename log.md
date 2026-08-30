@@ -1075,3 +1075,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T06:38:16.537Z** `ingest` plot.xianni-ch1762-small-decisive-battle-burning-incense-lure — 第1762章 小决战：燃香引众入伏，焚界古伞封天焚敌 · kind=plot asOf=2026-08-30 entities=29 relations=34 src=01670-01674.p4.md
 - **2026-08-30T06:40:35.790Z** `ingest` plot.xianni-ch1763-seven-ambush-strike — 第1763章 伏杀动！——王林七伏连发，重创七彩道人、困住战老鬼 · kind=plot asOf=2026-08-30 entities=25 relations=32 src=01670-01674.p5.md
 - **2026-08-30T06:42:16.732Z** `ingest` plot.xianni-ch1764-qicai-jie-muyu-liguang-bow — 第1764章 七彩劫！——九条目鱼围攻七彩道人，王林连开李广弓 · kind=plot asOf=2026-08-30 entities=12 relations=18 src=01675-01679.p1.md
+- **2026-08-30T06:44:25.464Z** `ingest` plot.xianni-ch1765-dao-fei-xian — 第1765章 道非现！——王林三箭重创七彩道人，连道非现身惊退强敌 · kind=plot asOf=2026-08-30 entities=21 relations=22 src=01675-01679.p2.md
