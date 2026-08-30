@@ -5,9 +5,10 @@
   "aliases": [],
   "summary": "绿魔洲女子手中的监控法宝，以白点表非绿魔洲修士、绿点表绿魔洲一方，实时呈现丹海全域地图与海水污化范围。",
   "attributes": {
-    "持有者": "三杆大旗下的女子",
-    "能力": "实时显示丹海地图、以白点/绿点区分敌我修士方位、呈现海水墨化范围",
-    "外形": "罗盘"
+    "持有者": "王林",
+    "能力": "实时显示丹海地图、以白点/绿点区分敌我修士方位、呈现海水墨化范围、显示所在区域地图与光点、承载一套玄妙禁制",
+    "外形": "颇为古朴的罗盘",
+    "禁制": "可扩散笼罩、逆转后范围缩小而威力更强，只能出不能进"
   },
   "observations": {
     "持有者": [
@@ -15,6 +16,11 @@
         "value": "三杆大旗下的女子",
         "docId": "plot.xianni-ch1843-water-source-breakthrough-danhai",
         "seq": 1750
+      },
+      {
+        "value": "王林",
+        "docId": "plot.xianni-ch1851-hun-yi-ling",
+        "seq": 1760
       }
     ],
     "能力": [
@@ -32,6 +38,16 @@
         "value": "呈现海水墨化范围",
         "docId": "plot.xianni-ch1843-water-source-breakthrough-danhai",
         "seq": 1750
+      },
+      {
+        "value": "显示所在区域地图与光点",
+        "docId": "plot.xianni-ch1851-hun-yi-ling",
+        "seq": 1760
+      },
+      {
+        "value": "承载一套玄妙禁制",
+        "docId": "plot.xianni-ch1851-hun-yi-ling",
+        "seq": 1760
       }
     ],
     "外形": [
@@ -39,6 +55,19 @@
         "value": "罗盘",
         "docId": "plot.xianni-ch1843-water-source-breakthrough-danhai",
         "seq": 1750
+      },
+      {
+        "value": "颇为古朴的罗盘",
+        "docId": "plot.xianni-ch1851-hun-yi-ling",
+        "seq": 1760
+      }
+    ],
+    "禁制": [
+      {
+        "value": "可扩散笼罩、逆转后范围缩小而威力更强，只能出不能进",
+        "docId": "plot.xianni-ch1851-hun-yi-ling",
+        "seq": 1760,
+        "note": "王林疗伤时的护身手段"
       }
     ]
   },
@@ -46,9 +75,9 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.xianni-ch1843-water-source-breakthrough-danhai",
+      "docId": "plot.xianni-ch1851-hun-yi-ling",
       "dated": false,
-      "seq": 1750
+      "seq": 1760
     },
     "能力": {
       "asOf": null,
@@ -58,15 +87,23 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch1843-water-source-breakthrough-danhai",
+      "docId": "plot.xianni-ch1851-hun-yi-ling",
       "dated": false,
-      "seq": 1750
+      "seq": 1760
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1851-hun-yi-ling",
+      "dated": false,
+      "seq": 1760,
+      "note": "王林疗伤时的护身手段"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1843-water-source-breakthrough-danhai"
+    "plot.xianni-ch1843-water-source-breakthrough-danhai",
+    "plot.xianni-ch1851-hun-yi-ling"
   ],
-  "updatedAt": "2026-08-30T11:25:11.353Z"
+  "updatedAt": "2026-08-30T11:44:53.608Z"
 }

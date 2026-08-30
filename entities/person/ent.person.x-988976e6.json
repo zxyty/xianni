@@ -9,7 +9,8 @@
     "绿魔洲剑修云空",
     "云空道友",
     "东州四大天骄之一",
-    "绿魔洲四大天骄之一"
+    "绿魔洲四大天骄之一",
+    "金色古剑上的青年"
   ],
   "summary": "东州四大天骄之一，无固定宗派，绿魔洲三大宗门皆为其师门，是绿魔洲所有宗门弟子的大师兄；多年前赴北州拜入武封大天尊门下，修为莫测，本章被三位老祖派来炼化丹海。",
   "attributes": {
@@ -18,12 +19,13 @@
     "身份": "绿魔洲三大宗门共同弟子；武封大天尊门下、绿魔洲大师兄、四大天骄之一；丹海仙丹凝聚者、绿魔洲修士",
     "元神强度": "修为莫测",
     "性别": "男",
-    "外貌": "青衣青年，朴素青衫无点缀，长发披肩，相貌极为俊美却冷酷、面色略有苍白",
+    "外貌": "青衣青年，朴素青衫无点缀，长发披肩，相貌极为俊美却冷酷、面色略有苍白、青衫、长发披肩、相貌近乎妖异的英俊，面容苍白",
     "本命法宝": "七尺长剑",
     "标志特征": "以身融剑的极端剑道、弯月剑影、数万丈掘海剑影、斩天剑影、咬破舌尖喷血化血色剑气、滔天剑气、笼罩八方的剑意、修为古怪、爆发时亦看不出境界、剑意惊天、神识可完全融入丹海",
-    "性格": "阴沉、自负",
-    "存殁": "分身崩溃",
-    "死因": "被仙丹爆炸的毁灭之力卷中，分身生生崩溃"
+    "性格": "冷酷",
+    "存殁": "分身崩溃、本尊存活；分身死亡",
+    "死因": "被仙丹爆炸的毁灭之力卷中，分身生生崩溃",
+    "分身": "丹海中的云空分身"
   },
   "observations": {
     "称号": [
@@ -109,6 +111,11 @@
         "docId": "plot.xianni-ch1847-hui-ma-qiang-danhai-tuwei-yunkong",
         "seq": 1755,
         "note": "本章受伤后"
+      },
+      {
+        "value": "青衫、长发披肩、相貌近乎妖异的英俊，面容苍白",
+        "docId": "plot.xianni-ch1851-hun-yi-ling",
+        "seq": 1760
       }
     ],
     "本命法宝": [
@@ -170,6 +177,11 @@
         "value": "阴沉、自负",
         "docId": "plot.xianni-ch1847-hui-ma-qiang-danhai-tuwei-yunkong",
         "seq": 1755
+      },
+      {
+        "value": "冷酷",
+        "docId": "plot.xianni-ch1851-hun-yi-ling",
+        "seq": 1760
       }
     ],
     "存殁": [
@@ -178,6 +190,12 @@
         "docId": "plot.xianni-ch1850-immortal-pill-explodes",
         "seq": 1760,
         "note": "本章崩溃的是其分身，本尊受难以恢复的重创，未死"
+      },
+      {
+        "value": "本尊存活；分身死亡",
+        "docId": "plot.xianni-ch1851-hun-yi-ling",
+        "seq": 1760,
+        "note": "分身死于仙丹炸开的毁灭之力"
       }
     ],
     "死因": [
@@ -186,6 +204,14 @@
         "docId": "plot.xianni-ch1850-immortal-pill-explodes",
         "seq": 1760,
         "note": "仅分身"
+      }
+    ],
+    "分身": [
+      {
+        "value": "丹海中的云空分身",
+        "docId": "plot.xianni-ch1851-hun-yi-ling",
+        "seq": 1760,
+        "note": "本章彻底死亡"
       }
     ]
   },
@@ -242,9 +268,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch1847-hui-ma-qiang-danhai-tuwei-yunkong",
+      "docId": "plot.xianni-ch1851-hun-yi-ling",
       "dated": false,
-      "seq": 1755
+      "seq": 1760
     },
     "存殁": {
       "asOf": null,
@@ -259,6 +285,13 @@
       "dated": false,
       "seq": 1760,
       "note": "仅分身"
+    },
+    "分身": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1851-hun-yi-ling",
+      "dated": false,
+      "seq": 1760,
+      "note": "本章彻底死亡"
     }
   },
   "contested": false,
@@ -269,7 +302,8 @@
     "plot.xianni-ch1847-hui-ma-qiang-danhai-tuwei-yunkong",
     "plot.xianni-ch1848-qianfu-danhai-luopan",
     "plot.xianni-1849-danhai-immortal-pill",
-    "plot.xianni-ch1850-immortal-pill-explodes"
+    "plot.xianni-ch1850-immortal-pill-explodes",
+    "plot.xianni-ch1851-hun-yi-ling"
   ],
-  "updatedAt": "2026-08-30T11:42:21.995Z"
+  "updatedAt": "2026-08-30T11:44:53.595Z"
 }
