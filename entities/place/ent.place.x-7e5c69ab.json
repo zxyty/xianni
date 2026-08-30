@@ -12,17 +12,19 @@
     "地火分支之脉",
     "地火脉子脉",
     "火脉",
-    "天牛洲主脉"
+    "天牛洲主脉",
+    "天牛洲地火主脉",
+    "火牛主经脉"
   ],
   "summary": "仙罡大陆地底遍布的火脉网络。苍龙宗所在数万里山峦下为其一条分支，主干深入地底不知通向何处；越向下温度越高，整体形如一个庞大的火阵。",
   "attributes": {
-    "所属界面": "仙罡大陆",
+    "所属界面": "仙罡大陆·天牛洲",
     "类型": "地脉/火脉、地脉/火属性天地之源、地脉、地脉/火本源、地火脉",
     "规模": "分支覆盖方圆数万里，主干深入地底",
     "特产": "地火",
     "危险度": "万年一次地火异变",
     "上级区域": "天牛洲",
-    "守护": "疑为封印某物的巨大阵法"
+    "守护": "大魂门"
   },
   "observations": {
     "所属界面": [
@@ -30,6 +32,11 @@
         "value": "仙罡大陆",
         "docId": "plot.xianni-ch1803-di-huo-bian",
         "seq": 1710
+      },
+      {
+        "value": "仙罡大陆·天牛洲",
+        "docId": "plot.xianni-1817-qingniu-zhenren",
+        "seq": 1725
       }
     ],
     "类型": [
@@ -93,6 +100,11 @@
         "docId": "plot.xianni-ch1805-old-ancestor-returns-earth-fire-vein-soul",
         "seq": 1715,
         "note": "原文称不知为封印何物存在"
+      },
+      {
+        "value": "大魂门",
+        "docId": "plot.xianni-1817-qingniu-zhenren",
+        "seq": 1725
       }
     ]
   },
@@ -100,9 +112,9 @@
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch1803-di-huo-bian",
+      "docId": "plot.xianni-1817-qingniu-zhenren",
       "dated": false,
-      "seq": 1710
+      "seq": 1725
     },
     "类型": {
       "asOf": null,
@@ -136,10 +148,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch1805-old-ancestor-returns-earth-fire-vein-soul",
+      "docId": "plot.xianni-1817-qingniu-zhenren",
       "dated": false,
-      "seq": 1715,
-      "note": "原文称不知为封印何物存在"
+      "seq": 1725
     }
   },
   "contested": false,
@@ -149,7 +160,8 @@
     "plot.xianni-1804-xiangang-first-battle-canglong-sect",
     "plot.xianni-ch1805-old-ancestor-returns-earth-fire-vein-soul",
     "plot.xianni-1814-xuanluo-induction-du-qing-oath",
-    "plot.xianni-ch1815-condense-source-true-body"
+    "plot.xianni-ch1815-condense-source-true-body",
+    "plot.xianni-1817-qingniu-zhenren"
   ],
-  "updatedAt": "2026-08-30T09:37:44.433Z"
+  "updatedAt": "2026-08-30T09:42:05.073Z"
 }

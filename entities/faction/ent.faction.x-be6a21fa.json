@@ -5,7 +5,8 @@
   "aliases": [],
   "summary": "仙罡大陆东州的顶级宗门集合，含世界宗、东临宗、阴月宗等。",
   "attributes": {
-    "所属界面": "仙罡大陆"
+    "所属界面": "仙罡大陆",
+    "等级": "东州顶级势力序列"
   },
   "observations": {
     "所属界面": [
@@ -13,6 +14,13 @@
         "value": "仙罡大陆",
         "docId": "plot.xianni-1812-yu-wanglin-bi-benyuan",
         "seq": 1720
+      }
+    ],
+    "等级": [
+      {
+        "value": "东州顶级势力序列",
+        "docId": "plot.xianni-1817-qingniu-zhenren",
+        "seq": 1725
       }
     ]
   },
@@ -23,12 +31,19 @@
       "docId": "plot.xianni-1812-yu-wanglin-bi-benyuan",
       "dated": false,
       "seq": 1720
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-1817-qingniu-zhenren",
+      "dated": false,
+      "seq": 1725
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1812-yu-wanglin-bi-benyuan"
+    "plot.xianni-1812-yu-wanglin-bi-benyuan",
+    "plot.xianni-1817-qingniu-zhenren"
   ],
-  "updatedAt": "2026-08-30T09:27:40.205Z"
+  "updatedAt": "2026-08-30T09:42:05.069Z"
 }

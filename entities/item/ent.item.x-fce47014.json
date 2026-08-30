@@ -4,12 +4,13 @@
   "name": "夜明珠",
   "aliases": [
     "锦盒夜明珠",
-    "拳头大小的夜明珠"
+    "拳头大小的夜明珠",
+    "头颅大小的夜明珠"
   ],
   "summary": "天威镖局所押镖物，装于锦盒中，拳头大小、散发柔和之光，被火云寨大当家劫走并视为可卖高价的宝物。",
   "attributes": {
-    "类型": "珍宝",
-    "用途": "照明·财货"
+    "类型": "照明宝物",
+    "用途": "照明、化作星空之景助人感悟天地"
   },
   "observations": {
     "类型": [
@@ -17,6 +18,11 @@
         "value": "珍宝",
         "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
         "seq": 351
+      },
+      {
+        "value": "照明宝物",
+        "docId": "plot.xianni-1817-qingniu-zhenren",
+        "seq": 1725
       }
     ],
     "用途": [
@@ -24,6 +30,11 @@
         "value": "照明·财货",
         "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
         "seq": 351
+      },
+      {
+        "value": "照明、化作星空之景助人感悟天地",
+        "docId": "plot.xianni-1817-qingniu-zhenren",
+        "seq": 1725
       }
     ]
   },
@@ -31,21 +42,22 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+      "docId": "plot.xianni-1817-qingniu-zhenren",
       "dated": false,
-      "seq": 351
+      "seq": 1725
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+      "docId": "plot.xianni-1817-qingniu-zhenren",
       "dated": false,
-      "seq": 351
+      "seq": 1725
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north"
+    "plot.xianni-ch371-fanren-caoniu-disappear-liumei-north",
+    "plot.xianni-1817-qingniu-zhenren"
   ],
-  "updatedAt": "2026-08-08T15:56:06.566Z"
+  "updatedAt": "2026-08-30T09:42:05.081Z"
 }
