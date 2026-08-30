@@ -10,11 +10,11 @@
   "summary": "大魂门藏有诸多神通功法之地，每位长老有一次进入机会；炎栾获准进入三天作为补偿。",
   "attributes": {
     "所属势力": "大魂门",
-    "类型": "功法秘藏禁地、藏经／藏神通之阁、圣地／功法神通储存之地、宗门圣地/藏功法之阁、禁制楼阁/修炼秘地、禁地/传承之地",
-    "守护": "门规限制，长老仅一次机会、两尊凶兽石像、各层楼梯禁制（阻非第三步大能）、阶梯神识威压「退下」、各层意志",
+    "类型": "功法秘藏禁地、藏经／藏神通之阁、圣地／功法神通储存之地、宗门圣地/藏功法之阁、禁制楼阁/修炼秘地、禁地/传承之地、宗门传承楼阁",
+    "守护": "门规限制，长老仅一次机会、两尊凶兽石像、各层楼梯禁制（阻非第三步大能）、阶梯神识威压「退下」、各层意志、阁内禁制",
     "规模": "九层阁楼，每层数千魂体（第五层约五百）、九层",
-    "危险度": "杀机四伏、第六层需空劫意志，第七层需空劫中期意志、极高（第七层禁制可将人弹回）、第七层含空劫中期意志，第八层含空劫后期意志",
-    "特产": "魂体、魂引归、多重幻术"
+    "危险度": "杀机四伏、第六层需空劫意志，第七层需空劫中期意志、极高（第七层禁制可将人弹回）、第七层含空劫中期意志，第八层含空劫后期意志、登七八层会引发大魂门天变",
+    "特产": "魂体、魂引归、多重幻术、九个七寸魂体（蕴含大魂门道法神通）"
   },
   "observations": {
     "所属势力": [
@@ -54,6 +54,11 @@
         "value": "禁地/传承之地",
         "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
         "seq": 1745
+      },
+      {
+        "value": "宗门传承楼阁",
+        "docId": "plot.xianni-ch1836-fenshen-zhenya-canghunge-8th-floor",
+        "seq": 1745
       }
     ],
     "守护": [
@@ -80,6 +85,11 @@
       {
         "value": "各层意志",
         "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
+        "seq": 1745
+      },
+      {
+        "value": "阁内禁制",
+        "docId": "plot.xianni-ch1836-fenshen-zhenya-canghunge-8th-floor",
         "seq": 1745
       }
     ],
@@ -115,6 +125,11 @@
         "value": "第七层含空劫中期意志，第八层含空劫后期意志",
         "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
         "seq": 1745
+      },
+      {
+        "value": "登七八层会引发大魂门天变",
+        "docId": "plot.xianni-ch1836-fenshen-zhenya-canghunge-8th-floor",
+        "seq": 1745
       }
     ],
     "特产": [
@@ -131,6 +146,11 @@
       {
         "value": "多重幻术",
         "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
+        "seq": 1745
+      },
+      {
+        "value": "九个七寸魂体（蕴含大魂门道法神通）",
+        "docId": "plot.xianni-ch1836-fenshen-zhenya-canghunge-8th-floor",
         "seq": 1745
       }
     ]
@@ -182,7 +202,8 @@
     "plot.xianni-1832-cang-hun-ge",
     "plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet",
     "plot.xianni-ch1834-wang-lin-ascends-cangkong-stairs-cang-hun-ge-seventh-floor",
-    "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu"
+    "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
+    "plot.xianni-ch1836-fenshen-zhenya-canghunge-8th-floor"
   ],
-  "updatedAt": "2026-08-30T11:02:35.089Z"
+  "updatedAt": "2026-08-30T11:04:14.094Z"
 }

@@ -1134,3 +1134,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T10:58:40.870Z** `ingest` plot.xianni-ch1833-zang-hun-ge-sixth-floor-bet — 第1833章 赌约！——王林闯藏魂阁第六层，与炎栾立下第七层之赌 · kind=plot asOf=2026-08-30 entities=19 relations=27 src=01740-01744.p5.md
 - **2026-08-30T11:00:23.167Z** `ingest` plot.xianni-ch1834-wang-lin-ascends-cangkong-stairs-cang-hun-ge-seventh-floor — 仙逆 第1834章 欲踏青天！——王林踏藏魂阁第七层阶梯，赌炎栾蓝伞 · kind=plot asOf=2026-08-30 entities=13 relations=16 src=01745-01749.p1.md
 - **2026-08-30T11:02:35.568Z** `ingest` plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu — 第1835章 再赌一次！——王林登藏魂阁第七层，与炎栾再赌第八层 · kind=plot asOf=2026-08-30 entities=20 relations=41 src=01745-01749.p2.md
+- **2026-08-30T11:04:14.596Z** `ingest` plot.xianni-ch1836-fenshen-zhenya-canghunge-8th-floor — 第1836章 分身镇压！！——王林登藏魂阁第八层，以分身气势镇压炎栾夺葫芦 · kind=plot asOf=2026-08-30 entities=12 relations=21 src=01745-01749.p3.md
