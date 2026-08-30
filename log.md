@@ -1207,3 +1207,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T17:22:52.934Z** `ingest` plot.xianni-ch1930-fei-xiangang-zhi-ling — 第1930章 非仙罡之灵！——王林九十八道定身术定住海子天尊，海底取山海树灵触发仙极剑碎片封印 · kind=plot asOf=2026-08-30 entities=23 relations=32 src=01839-01843.p3.md
 - **2026-08-30T17:24:47.030Z** `ingest` plot.xianni-1931-miankong-fengyin-xianji-jian-suipian — 第1931章 面孔！——王林三身合力拽出仙极剑碎片，斩断封印面孔 · kind=plot asOf=2026-08-30 entities=14 relations=19 src=01839-01843.p4.md
 - **2026-08-30T17:27:12.067Z** `ingest` plot.xianni-ch1932-broken-palm-shanhai-battle — 仙逆·第1932章 断掌！！——王林斩灭面孔、力战海子天尊，海底断掌苏醒 · kind=plot asOf=2026-08-30 entities=27 relations=36 src=01839-01843.p5.md
+- **2026-08-30T17:29:47.288Z** `ingest` plot.xianni-1933-wang-lin-saves-haizi-tianzun-severed-palm — 第1933章 转变——王林定身海子天尊后回身相救，断掌反噬自斩左手 · kind=plot asOf=2026-08-30 entities=20 relations=23 src=01844-01847.p1.md
