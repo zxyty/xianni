@@ -6,12 +6,15 @@
     "Wu Xing Star",
     "五行星(域外)",
     "五行修真星",
-    "五行之星"
+    "五行之星",
+    "五行星辰"
   ],
   "summary": "纳多的母星/所在星球，纳多留约王林日后可去此处找他。",
   "attributes": {
-    "类型": "星球",
-    "守护": "纳多"
+    "类型": "修真星",
+    "守护": "纳多",
+    "所属界面": "洞府界",
+    "危险度": "藏有最后一股隐藏势力"
   },
   "observations": {
     "类型": [
@@ -19,6 +22,11 @@
         "value": "星球",
         "docId": "plot.xianni-ch231-234-xieyi-nanzi",
         "seq": 231
+      },
+      {
+        "value": "修真星",
+        "docId": "plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou",
+        "seq": 1636
       }
     ],
     "守护": [
@@ -27,21 +35,47 @@
         "docId": "plot.xianni-ch231-234-xieyi-nanzi",
         "seq": 231
       }
+    ],
+    "所属界面": [
+      {
+        "value": "洞府界",
+        "docId": "plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou",
+        "seq": 1636
+      }
+    ],
+    "危险度": [
+      {
+        "value": "藏有最后一股隐藏势力",
+        "docId": "plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou",
+        "seq": 1636
+      }
     ]
   },
   "firstSeq": 231,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch231-234-xieyi-nanzi",
+      "docId": "plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou",
       "dated": false,
-      "seq": 231
+      "seq": 1636
     },
     "守护": {
       "asOf": null,
       "docId": "plot.xianni-ch231-234-xieyi-nanzi",
       "dated": false,
       "seq": 231
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou",
+      "dated": false,
+      "seq": 1636
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou",
+      "dated": false,
+      "seq": 1636
     }
   },
   "contested": false,
@@ -50,7 +84,8 @@
     "plot.xianni-ch231-234-xieyi-nanzi",
     "lore.zunhun-fan-second-zhuque-situ-nan-chapter-419",
     "plot.xianni-ch611-buwang-zhuque-first-act",
-    "plot.xianni-ch1682-outsiders-wind-immortal-realm-reassembled"
+    "plot.xianni-ch1682-outsiders-wind-immortal-realm-reassembled",
+    "plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou"
   ],
-  "updatedAt": "2026-08-26T11:43:58.748Z"
+  "updatedAt": "2026-08-30T03:58:36.193Z"
 }

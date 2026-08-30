@@ -5,14 +5,16 @@
   "aliases": [
     "归一",
     "仙罡大陆归一宗",
-    "Guiyi Zong"
+    "Guiyi Zong",
+    "群仙罡大陆归一宗"
   ],
   "summary": "仙罡大陆宗派，与七道宗一样算不得大宗；其至宝曾被马师兄用以开辟一条通往七道宗（烨寞）洞府的通道。",
   "attributes": {
-    "所属界面": "仙罡大陆",
+    "所属界面": "群仙罡大陆",
     "等级": "与七道宗一样，算不得大宗",
     "据点": "归一宗分宗山门",
-    "镇派之宝": "归一宗至宝"
+    "镇派之宝": "归一宗至宝",
+    "阵营": "洞府界外来者"
   },
   "observations": {
     "所属界面": [
@@ -20,6 +22,11 @@
         "value": "仙罡大陆",
         "docId": "plot.xianni-1681-blood-sword-tip-pierces-into-xiangang",
         "seq": 1591
+      },
+      {
+        "value": "群仙罡大陆",
+        "docId": "plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou",
+        "seq": 1636
       }
     ],
     "等级": [
@@ -43,15 +50,22 @@
         "seq": 1591,
         "note": "被马师兄用以开辟通往七道宗洞府的通道"
       }
+    ],
+    "阵营": [
+      {
+        "value": "洞府界外来者",
+        "docId": "plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou",
+        "seq": 1636
+      }
     ]
   },
   "firstSeq": 1591,
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-1681-blood-sword-tip-pierces-into-xiangang",
+      "docId": "plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou",
       "dated": false,
-      "seq": 1591
+      "seq": 1636
     },
     "等级": {
       "asOf": null,
@@ -71,6 +85,12 @@
       "dated": false,
       "seq": 1591,
       "note": "被马师兄用以开辟通往七道宗洞府的通道"
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou",
+      "dated": false,
+      "seq": 1636
     }
   },
   "contested": false,
@@ -78,7 +98,8 @@
   "docs": [
     "plot.xianni-1681-blood-sword-tip-pierces-into-xiangang",
     "plot.xianni-ch1682-outsiders-wind-immortal-realm-reassembled",
-    "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause"
+    "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+    "plot.xianni-ch1727-si-da-zhan-jiang-zulan-wanglin-youmingshou"
   ],
-  "updatedAt": "2026-08-30T02:28:06.826Z"
+  "updatedAt": "2026-08-30T03:58:36.196Z"
 }
