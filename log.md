@@ -1110,3 +1110,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T09:01:49.320Z** `ingest` plot.xianni-ch1805-old-ancestor-returns-earth-fire-vein-soul — 仙逆 第1805章 老祖归来！——王林抽地火支脉之魂破苍龙宗，苍龙宗老祖赶回 · kind=plot asOf=2026-08-30 entities=22 relations=31 src=01715-01719.p2.md
 - **2026-08-30T09:09:02.644Z** `ingest` plot.xianni-1806-storage-space-problem — 第1806章 储物空间的问题：杜青震怒搜魂追凶，王林察觉仙罡大陆神识受压、缩地成寸失效 · kind=plot asOf=2026-08-30 entities=48 relations=64 src=01715-01719.p3.md
 - **2026-08-30T09:15:53.174Z** `ingest` plot.xianni-1807-cangzhongzong-hunt-open-storage-space — 第1807章 思念贪狼——苍龙宗全洲搜捕，王林决意强开储物空间 · kind=plot asOf=2026-08-30 entities=38 relations=61 src=01715-01719.p4.md
+- **2026-08-30T09:18:15.442Z** `ingest` plot.xianni-ch1808-fire-source-suppression-and-daofei-awakening — 第1808章 大补！——九龙皇袍男子唤醒疯子（道非亲王）；王林元神化朱雀吞噬天牛洲地火支脉之魂 · kind=plot asOf=2026-08-30 entities=17 relations=25 src=01715-01719.p5.md
