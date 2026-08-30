@@ -3,12 +3,15 @@
   "type": "person",
   "name": "计都皇子",
   "aliases": [
-    "计都"
+    "计都",
+    "皇袍青年",
+    "皇子"
   ],
   "summary": "道古皇族皇子，与道古使团一同将至黑石城，黑石城为此清空四门、封城三日。",
   "attributes": {
-    "身份": "道古一脉皇子",
-    "阵营": "道古"
+    "身份": "道古一脉皇子、道古一脉皇子、道古使团随行者",
+    "阵营": "道古、道古一脉",
+    "外貌": "身穿皇袍、长发飘摇，相貌寻常却气质莫测"
   },
   "observations": {
     "身份": [
@@ -16,12 +19,29 @@
         "value": "道古一脉皇子",
         "docId": "plot.xianni-2003-daogu-mission-black-stone-city",
         "seq": 1914
+      },
+      {
+        "value": "道古一脉皇子、道古使团随行者",
+        "docId": "plot.xianni-ch2004-jidu-huangzi-heishicheng",
+        "seq": 1914
       }
     ],
     "阵营": [
       {
         "value": "道古",
         "docId": "plot.xianni-2003-daogu-mission-black-stone-city",
+        "seq": 1914
+      },
+      {
+        "value": "道古一脉",
+        "docId": "plot.xianni-ch2004-jidu-huangzi-heishicheng",
+        "seq": 1914
+      }
+    ],
+    "外貌": [
+      {
+        "value": "身穿皇袍、长发飘摇，相貌寻常却气质莫测",
+        "docId": "plot.xianni-ch2004-jidu-huangzi-heishicheng",
         "seq": 1914
       }
     ]
@@ -39,12 +59,19 @@
       "docId": "plot.xianni-2003-daogu-mission-black-stone-city",
       "dated": false,
       "seq": 1914
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2004-jidu-huangzi-heishicheng",
+      "dated": false,
+      "seq": 1914
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-2003-daogu-mission-black-stone-city"
+    "plot.xianni-2003-daogu-mission-black-stone-city",
+    "plot.xianni-ch2004-jidu-huangzi-heishicheng"
   ],
-  "updatedAt": "2026-08-30T23:45:24.953Z"
+  "updatedAt": "2026-08-30T23:47:29.241Z"
 }

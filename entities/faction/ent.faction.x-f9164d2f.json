@@ -3,11 +3,13 @@
   "type": "faction",
   "name": "道古使团",
   "aliases": [
-    "道古皇族使团"
+    "道古皇族使团",
+    "使团",
+    "选妃使团"
   ],
   "summary": "道古皇族所派使团，数百年间在整个古族内寻找貌美女子，据说供道古之皇选妃；本章将抵黑石城。",
   "attributes": {
-    "阵营": "道古",
+    "阵营": "道古、道古一脉",
     "理念": "为道古之皇遍寻貌美女子选妃"
   },
   "observations": {
@@ -15,6 +17,11 @@
       {
         "value": "道古",
         "docId": "plot.xianni-2003-daogu-mission-black-stone-city",
+        "seq": 1914
+      },
+      {
+        "value": "道古一脉",
+        "docId": "plot.xianni-ch2004-jidu-huangzi-heishicheng",
         "seq": 1914
       }
     ],
@@ -46,7 +53,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-2003-daogu-mission-black-stone-city"
+    "plot.xianni-2003-daogu-mission-black-stone-city",
+    "plot.xianni-ch2004-jidu-huangzi-heishicheng"
   ],
-  "updatedAt": "2026-08-30T23:45:24.965Z"
+  "updatedAt": "2026-08-30T23:47:29.251Z"
 }

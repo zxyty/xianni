@@ -3,21 +3,27 @@
   "type": "place",
   "name": "黑石城",
   "aliases": [
-    "Black Stone City"
+    "Black Stone City",
+    "黑石城池"
   ],
   "summary": "始古一脉木桑郡边缘、靠近大海的城池，通体黑色巨石构成，粗糙而具霸意；本章为迎道古使团封城三日。",
   "attributes": {
-    "所属势力": "始古",
+    "所属势力": "始古、道古一脉／吉族",
     "上级区域": "木桑郡",
     "方位": "木桑郡边缘，靠近大海",
     "类型": "城池",
-    "守护": "近百名皮甲大汉与七八名五六星守城者"
+    "守护": "近百名皮甲大汉与七八名五六星守城者、梁云、孔司、孟洛"
   },
   "observations": {
     "所属势力": [
       {
         "value": "始古",
         "docId": "plot.xianni-2003-daogu-mission-black-stone-city",
+        "seq": 1914
+      },
+      {
+        "value": "道古一脉／吉族",
+        "docId": "plot.xianni-ch2004-jidu-huangzi-heishicheng",
         "seq": 1914
       }
     ],
@@ -46,6 +52,21 @@
       {
         "value": "近百名皮甲大汉与七八名五六星守城者",
         "docId": "plot.xianni-2003-daogu-mission-black-stone-city",
+        "seq": 1914
+      },
+      {
+        "value": "梁云",
+        "docId": "plot.xianni-ch2004-jidu-huangzi-heishicheng",
+        "seq": 1914
+      },
+      {
+        "value": "孔司",
+        "docId": "plot.xianni-ch2004-jidu-huangzi-heishicheng",
+        "seq": 1914
+      },
+      {
+        "value": "孟洛",
+        "docId": "plot.xianni-ch2004-jidu-huangzi-heishicheng",
         "seq": 1914
       }
     ]
@@ -86,7 +107,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-2003-daogu-mission-black-stone-city"
+    "plot.xianni-2003-daogu-mission-black-stone-city",
+    "plot.xianni-ch2004-jidu-huangzi-heishicheng"
   ],
-  "updatedAt": "2026-08-30T23:45:24.967Z"
+  "updatedAt": "2026-08-30T23:47:29.247Z"
 }

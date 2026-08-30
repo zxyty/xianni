@@ -1238,3 +1238,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T23:13:28.517Z** `ingest` plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi — 仙逆 第1909-1913章：黑发王林战道一，强凝大天尊之阳 · kind=plot asOf=2026-08-30 entities=90 relations=162 src=01909-01913.md
 - **2026-08-30T23:42:58.845Z** `ingest` plot.xianni-2002-lu-wanglin-haishang-tiaoxi-fu-guzu — 仙逆 第2002章 路：王林海上调息，破血剑封印，定道古之行 · kind=plot asOf=2026-08-30 entities=44 relations=52 src=01914-01918.p1.md
 - **2026-08-30T23:45:25.472Z** `ingest` plot.xianni-2003-daogu-mission-black-stone-city — 第2003章 道古使团——王林入古族，九星现身称神圣 · kind=plot asOf=2026-08-30 entities=27 relations=40 src=01914-01918.p2.md
+- **2026-08-30T23:47:29.793Z** `ingest` plot.xianni-ch2004-jidu-huangzi-heishicheng — 第2004章 计都皇子：黑石城外初遇道古使团 · kind=plot asOf=2026-08-30 entities=18 relations=31 src=01914-01918.p3.md
