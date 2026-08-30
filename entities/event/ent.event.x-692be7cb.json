@@ -23,15 +23,17 @@
     "玄劫六七次",
     "玄劫第九次",
     "玄劫第八次",
-    "楼台观玄劫"
+    "楼台观玄劫",
+    "Xuan Jie"
   ],
   "summary": "空玄与空劫之间必须面对的生死之劫，分九次，全渡方可踏入空劫；成则生，败则亡，古往今来无例外。",
   "attributes": {
-    "章节": "第1902章",
-    "经过": "分九次，需以「空」之力面对",
-    "结果": "成则生，败则亡",
-    "起因": "王林修为达空玄巅峰圆满欲破境",
-    "地点": "绿魔洲绿魔蝎庙"
+    "章节": "第1663章、第1902章、第1903章",
+    "经过": "九次降临，前三外劫、中三内劫、后三魂劫；可连续度亦可分开度",
+    "结果": "度过则元神暴增（连三倍增一倍、连六倍增两倍、连九增数倍），失败则形神俱灭",
+    "起因": "王林修为达空玄巅峰圆满欲破境、空玄修为圆满后须蜕变入空劫",
+    "地点": "绿魔洲绿魔蝎庙",
+    "影响": "古往今来仅两人连续度过九次，皆成大天尊；死亡率自一成递增至九成"
   },
   "observations": {
     "章节": [
@@ -44,6 +46,11 @@
         "value": "第1902章",
         "docId": "plot.xianni-1902-loutai-guan-xuanjie",
         "seq": 1810
+      },
+      {
+        "value": "第1903章",
+        "docId": "plot.xianni-1903-wang-lin-xuan-jie-first-two-trials-weak",
+        "seq": 1810
       }
     ],
     "经过": [
@@ -51,6 +58,11 @@
         "value": "分九次，需以「空」之力面对",
         "docId": "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
         "seq": 1571
+      },
+      {
+        "value": "九次降临，前三外劫、中三内劫、后三魂劫；可连续度亦可分开度",
+        "docId": "plot.xianni-1903-wang-lin-xuan-jie-first-two-trials-weak",
+        "seq": 1810
       }
     ],
     "结果": [
@@ -58,12 +70,22 @@
         "value": "成则生，败则亡",
         "docId": "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
         "seq": 1571
+      },
+      {
+        "value": "度过则元神暴增（连三倍增一倍、连六倍增两倍、连九增数倍），失败则形神俱灭",
+        "docId": "plot.xianni-1903-wang-lin-xuan-jie-first-two-trials-weak",
+        "seq": 1810
       }
     ],
     "起因": [
       {
         "value": "王林修为达空玄巅峰圆满欲破境",
         "docId": "plot.xianni-1902-loutai-guan-xuanjie",
+        "seq": 1810
+      },
+      {
+        "value": "空玄修为圆满后须蜕变入空劫",
+        "docId": "plot.xianni-1903-wang-lin-xuan-jie-first-two-trials-weak",
         "seq": 1810
       }
     ],
@@ -73,27 +95,34 @@
         "docId": "plot.xianni-1902-loutai-guan-xuanjie",
         "seq": 1810
       }
+    ],
+    "影响": [
+      {
+        "value": "古往今来仅两人连续度过九次，皆成大天尊；死亡率自一成递增至九成",
+        "docId": "plot.xianni-1903-wang-lin-xuan-jie-first-two-trials-weak",
+        "seq": 1810
+      }
     ]
   },
   "firstSeq": 1571,
   "attrProvenance": {
     "章节": {
       "asOf": null,
-      "docId": "plot.xianni-1902-loutai-guan-xuanjie",
+      "docId": "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
       "dated": false,
-      "seq": 1810
+      "seq": 1571
     },
     "经过": {
       "asOf": null,
-      "docId": "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
+      "docId": "plot.xianni-1903-wang-lin-xuan-jie-first-two-trials-weak",
       "dated": false,
-      "seq": 1571
+      "seq": 1810
     },
     "结果": {
       "asOf": null,
-      "docId": "plot.xianni-1571-1575-jiexiu-yu-zixia-baji-shifei",
+      "docId": "plot.xianni-1903-wang-lin-xuan-jie-first-two-trials-weak",
       "dated": false,
-      "seq": 1571
+      "seq": 1810
     },
     "起因": {
       "asOf": null,
@@ -104,6 +133,12 @@
     "地点": {
       "asOf": null,
       "docId": "plot.xianni-1902-loutai-guan-xuanjie",
+      "dated": false,
+      "seq": 1810
+    },
+    "影响": {
+      "asOf": null,
+      "docId": "plot.xianni-1903-wang-lin-xuan-jie-first-two-trials-weak",
       "dated": false,
       "seq": 1810
     }
@@ -132,7 +167,8 @@
     "plot.xianni-ch1775-1779-jinchan-tuoqiao-kill-field",
     "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
     "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
-    "plot.xianni-1902-loutai-guan-xuanjie"
+    "plot.xianni-1902-loutai-guan-xuanjie",
+    "plot.xianni-1903-wang-lin-xuan-jie-first-two-trials-weak"
   ],
-  "updatedAt": "2026-08-30T15:19:17.917Z"
+  "updatedAt": "2026-08-30T15:21:24.198Z"
 }

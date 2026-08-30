@@ -3,17 +3,32 @@
   "type": "person",
   "name": "五行真身",
   "aliases": [
-    "王林五行真身"
+    "王林五行真身",
+    "王林的五行真身",
+    "Wu Xing Zhen Shen"
   ],
   "summary": "王林的真身之一，本章融入其体内，使修为再增数倍。",
   "attributes": {
-    "身份": "王林真身之一"
+    "身份": "王林真身之一、王林的真身/分身",
+    "标志特征": "全身滔天火海，可化九十九条炎龙与万丈火龙"
   },
   "observations": {
     "身份": [
       {
         "value": "王林真身之一",
         "docId": "plot.xianni-1902-loutai-guan-xuanjie",
+        "seq": 1810
+      },
+      {
+        "value": "王林的真身/分身",
+        "docId": "plot.xianni-1903-wang-lin-xuan-jie-first-two-trials-weak",
+        "seq": 1810
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "全身滔天火海，可化九十九条炎龙与万丈火龙",
+        "docId": "plot.xianni-1903-wang-lin-xuan-jie-first-two-trials-weak",
         "seq": 1810
       }
     ]
@@ -25,12 +40,19 @@
       "docId": "plot.xianni-1902-loutai-guan-xuanjie",
       "dated": false,
       "seq": 1810
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-1903-wang-lin-xuan-jie-first-two-trials-weak",
+      "dated": false,
+      "seq": 1810
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1902-loutai-guan-xuanjie"
+    "plot.xianni-1902-loutai-guan-xuanjie",
+    "plot.xianni-1903-wang-lin-xuan-jie-first-two-trials-weak"
   ],
-  "updatedAt": "2026-08-30T15:19:17.914Z"
+  "updatedAt": "2026-08-30T15:21:24.184Z"
 }
