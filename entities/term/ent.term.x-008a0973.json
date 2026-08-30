@@ -2,16 +2,62 @@
   "id": "ent.term.x-008a0973",
   "type": "term",
   "name": "实之本源",
-  "aliases": [],
-  "summary": "",
-  "attributes": {},
-  "observations": {},
+  "aliases": [
+    "实本源"
+  ],
+  "summary": "与虚之本源相对，含雷、火、水（小成）等；在仙罡大陆均与原先有所不同，杀戮、禁制两道改变不多。",
+  "attributes": {
+    "五行属性": "雷、火、水",
+    "效果": "随所处界面而变"
+  },
+  "observations": {
+    "五行属性": [
+      {
+        "value": "雷",
+        "docId": "plot.xianni-1807-cangzhongzong-hunt-open-storage-space",
+        "seq": 1715
+      },
+      {
+        "value": "火",
+        "docId": "plot.xianni-1807-cangzhongzong-hunt-open-storage-space",
+        "seq": 1715
+      },
+      {
+        "value": "水",
+        "docId": "plot.xianni-1807-cangzhongzong-hunt-open-storage-space",
+        "seq": 1715
+      }
+    ],
+    "效果": [
+      {
+        "value": "随所处界面而变",
+        "docId": "plot.xianni-1807-cangzhongzong-hunt-open-storage-space",
+        "seq": 1715,
+        "note": "杀戮、禁制两道改变不多"
+      }
+    ]
+  },
   "firstSeq": 1561,
-  "attrProvenance": {},
+  "attrProvenance": {
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.xianni-1807-cangzhongzong-hunt-open-storage-space",
+      "dated": false,
+      "seq": 1715
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.xianni-1807-cangzhongzong-hunt-open-storage-space",
+      "dated": false,
+      "seq": 1715,
+      "note": "杀戮、禁制两道改变不多"
+    }
+  },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.kongxuan-realm-virtual-origin-xianghuo-world-cultivation"
+    "lore.kongxuan-realm-virtual-origin-xianghuo-world-cultivation",
+    "plot.xianni-1807-cangzhongzong-hunt-open-storage-space"
   ],
-  "updatedAt": "2026-08-26T09:23:37.133Z"
+  "updatedAt": "2026-08-30T09:15:52.668Z"
 }
