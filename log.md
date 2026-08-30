@@ -1093,3 +1093,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T07:52:43.858Z** `ingest` plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate — 仙逆 第1695-1699章：东临池鱼龙变、八本源真身与洞府大门开启 · kind=plot asOf=2026-08-30 entities=69 relations=130 src=01695-01699.md
 - **2026-08-30T08:09:06.251Z** `ingest` plot.xianni-1789-libie-zhi-se — 仙逆 第1789章 离别之涩：洞府界众人抉择去留 · kind=plot asOf=2026-08-30 entities=28 relations=39 src=01700-01704.p1.md
 - **2026-08-30T08:11:39.937Z** `ingest` plot.xianni-1790-longhuang-yixian-xiangang-kai — 仙逆 第1790章 龙皇一现仙罡开：雨中别木冰眉，玄罗祭龙皇天一鞭破仙罡规则 · kind=plot asOf=2026-08-30 entities=25 relations=32 src=01700-01704.p2.md
+- **2026-08-30T08:14:40.607Z** `ingest` plot.xianni-ch1791-siling-pulu-mengdao-zaishi — 第1791章 四灵铺路梦道在：玄罗以四大灵兵开转世之路，王林梦道封记众人记忆 · kind=plot asOf=2026-08-30 entities=25 relations=45 src=01700-01704.p3.md

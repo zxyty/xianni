@@ -9,15 +9,16 @@
     "七彩仙尊洞府",
     "洞府界真门",
     "与天齐高的金门",
-    "已打开的洞府大门"
+    "已打开的洞府大门",
+    "转世之门"
   ],
   "summary": "洞府界的核心即洞府大门所在；女子在此可凝聚更多元神，足以杀人，是其方法一的埋伏点。",
   "attributes": {
     "所属界面": "洞府界",
-    "类型": "界之核心/门户、洞府/秘境核心、秘境核心、界间大门、核心秘地、界间大门／转世通道",
+    "类型": "界之核心/门户、洞府/秘境核心、秘境核心、界间大门、核心秘地、界间大门／转世通道、转世通道入口",
     "方位": "洞府之门内",
     "守护": "玄罗",
-    "危险度": "误入废墟者被血丝笼罩重创"
+    "危险度": "门内雾气有奇异压力，裂缝会急速收缩"
   },
   "observations": {
     "所属界面": [
@@ -57,6 +58,11 @@
         "value": "界间大门／转世通道",
         "docId": "plot.xianni-1790-longhuang-yixian-xiangang-kai",
         "seq": 1700
+      },
+      {
+        "value": "转世通道入口",
+        "docId": "plot.xianni-ch1791-siling-pulu-mengdao-zaishi",
+        "seq": 1700
       }
     ],
     "方位": [
@@ -94,6 +100,11 @@
         "value": "误入废墟者被血丝笼罩重创",
         "docId": "plot.xianni-1754-established-rules-forbid-flight",
         "seq": 1665
+      },
+      {
+        "value": "门内雾气有奇异压力，裂缝会急速收缩",
+        "docId": "plot.xianni-ch1791-siling-pulu-mengdao-zaishi",
+        "seq": 1700
       }
     ]
   },
@@ -125,9 +136,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-1754-established-rules-forbid-flight",
+      "docId": "plot.xianni-ch1791-siling-pulu-mengdao-zaishi",
       "dated": false,
-      "seq": 1665
+      "seq": 1700
     }
   },
   "contested": false,
@@ -138,7 +149,8 @@
     "plot.xianni-1754-established-rules-forbid-flight",
     "plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate",
     "plot.xianni-1789-libie-zhi-se",
-    "plot.xianni-1790-longhuang-yixian-xiangang-kai"
+    "plot.xianni-1790-longhuang-yixian-xiangang-kai",
+    "plot.xianni-ch1791-siling-pulu-mengdao-zaishi"
   ],
-  "updatedAt": "2026-08-30T08:11:39.481Z"
+  "updatedAt": "2026-08-30T08:14:40.143Z"
 }
