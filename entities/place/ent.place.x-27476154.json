@@ -12,17 +12,18 @@
     "魂魔舟最后一层的祭坛",
     "道古之力祭坛",
     "那祭坛",
-    "云海裂缝祭坛"
+    "云海裂缝祭坛",
+    "内府云海裂缝祭坛"
   ],
   "summary": "朱雀国每百年召集所有五级修真国朝议之处，红蝶断臂自漩涡坠落于此。",
   "attributes": {
     "所属势力": "朱雀国",
-    "类型": "祭坛、传送祭坛、祭坛/斗法场、祭坛/传送节点、祭坛/禁地、祭坛/传承之地、祭坛／秘地",
-    "所属界面": "朱雀星",
+    "类型": "祭坛、传送祭坛、祭坛/斗法场、祭坛/传送节点、祭坛/禁地、祭坛/传承之地、祭坛／秘地、承血祭坛",
+    "所属界面": "洞府界",
     "规模": "外围环形光环可坐近百位使者",
-    "上级区域": "云海裂缝",
+    "上级区域": "内府云海裂缝内的奇异空间",
     "守护": "大门、玄阴鼎之灵、仙选族世世代代守护、道古之力防护",
-    "危险度": "随时可能崩溃"
+    "危险度": "威压超越天地威严，非受劫者无法立足"
   },
   "observations": {
     "所属势力": [
@@ -67,6 +68,11 @@
         "value": "祭坛／秘地",
         "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
         "seq": 1611
+      },
+      {
+        "value": "承血祭坛",
+        "docId": "plot.xianni-ch1708-first-one-to-charge-the-vortex",
+        "seq": 1616
       }
     ],
     "所属界面": [
@@ -74,6 +80,11 @@
         "value": "朱雀星",
         "docId": "plot.xianni-ch361-zhuque-guo-arrival",
         "seq": 341
+      },
+      {
+        "value": "洞府界",
+        "docId": "plot.xianni-ch1708-first-one-to-charge-the-vortex",
+        "seq": 1616
       }
     ],
     "规模": [
@@ -98,6 +109,11 @@
         "value": "云海裂缝",
         "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
         "seq": 1611
+      },
+      {
+        "value": "内府云海裂缝内的奇异空间",
+        "docId": "plot.xianni-ch1708-first-one-to-charge-the-vortex",
+        "seq": 1616
       }
     ],
     "守护": [
@@ -128,6 +144,11 @@
         "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
         "seq": 764,
         "note": "玄阴鼎被毁后"
+      },
+      {
+        "value": "威压超越天地威严，非受劫者无法立足",
+        "docId": "plot.xianni-ch1708-first-one-to-charge-the-vortex",
+        "seq": 1616
       }
     ]
   },
@@ -147,9 +168,9 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch361-zhuque-guo-arrival",
+      "docId": "plot.xianni-ch1708-first-one-to-charge-the-vortex",
       "dated": false,
-      "seq": 341
+      "seq": 1616
     },
     "规模": {
       "asOf": null,
@@ -159,9 +180,9 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+      "docId": "plot.xianni-ch1708-first-one-to-charge-the-vortex",
       "dated": false,
-      "seq": 1611
+      "seq": 1616
     },
     "守护": {
       "asOf": null,
@@ -171,10 +192,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
+      "docId": "plot.xianni-ch1708-first-one-to-charge-the-vortex",
       "dated": false,
-      "seq": 764,
-      "note": "玄阴鼎被毁后"
+      "seq": 1616
     }
   },
   "contested": false,
@@ -186,7 +206,8 @@
     "plot.xianni-ch764-765-tashan-xianwei-cangpinge",
     "lore.xianni-ch1695-qicai-three-souls-seven-po",
     "plot.xianni-ch1696-fan-ke-wei-zhu-hun-mo-zhou-jinzhi",
-    "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause"
+    "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
+    "plot.xianni-ch1708-first-one-to-charge-the-vortex"
   ],
-  "updatedAt": "2026-08-30T02:28:06.828Z"
+  "updatedAt": "2026-08-30T03:12:38.533Z"
 }

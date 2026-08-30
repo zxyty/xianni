@@ -5,15 +5,20 @@
   "aliases": [
     "古皇",
     "皇袍男子",
-    "道古一脉皇尊"
+    "道古一脉皇尊",
+    "皇尊",
+    "六滴鲜血者"
   ],
   "summary": "道古一脉皇尊、古国古皇，相貌与古祖雕像几乎一模一样；在十八个万丈巨人随驾下到场，受近百万古国之修参拜，称玄罗为大天尊、族叔。",
   "attributes": {
     "性别": "男",
     "种族": "古族",
-    "称号": "古皇、道古一脉皇尊",
-    "外貌": "身穿皇袍，相貌与古祖雕像几乎一样",
-    "阵营": "古国·道古一脉"
+    "称号": "古皇、道古一脉皇尊、道古一脉除玄罗外最强者",
+    "外貌": "身穿皇袍，相貌与古祖雕像几乎一样、身着皇袍",
+    "阵营": "古国·道古一脉",
+    "身份": "道古一脉皇族",
+    "性格": "城府深、表面惋惜内心不屑与不服",
+    "标志特征": "当年获古祖六滴鲜血；有诸多妃子"
   },
   "observations": {
     "性别": [
@@ -40,6 +45,11 @@
         "value": "道古一脉皇尊",
         "docId": "plot.xianni-ch1707-guimai-cangqiong-blood-tribulation-xianggang-expectation",
         "seq": 1616
+      },
+      {
+        "value": "道古一脉除玄罗外最强者",
+        "docId": "plot.xianni-ch1708-first-one-to-charge-the-vortex",
+        "seq": 1616
       }
     ],
     "外貌": [
@@ -47,12 +57,38 @@
         "value": "身穿皇袍，相貌与古祖雕像几乎一样",
         "docId": "plot.xianni-ch1707-guimai-cangqiong-blood-tribulation-xianggang-expectation",
         "seq": 1616
+      },
+      {
+        "value": "身着皇袍",
+        "docId": "plot.xianni-ch1708-first-one-to-charge-the-vortex",
+        "seq": 1616
       }
     ],
     "阵营": [
       {
         "value": "古国·道古一脉",
         "docId": "plot.xianni-ch1707-guimai-cangqiong-blood-tribulation-xianggang-expectation",
+        "seq": 1616
+      }
+    ],
+    "身份": [
+      {
+        "value": "道古一脉皇族",
+        "docId": "plot.xianni-ch1708-first-one-to-charge-the-vortex",
+        "seq": 1616
+      }
+    ],
+    "性格": [
+      {
+        "value": "城府深、表面惋惜内心不屑与不服",
+        "docId": "plot.xianni-ch1708-first-one-to-charge-the-vortex",
+        "seq": 1616
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "当年获古祖六滴鲜血；有诸多妃子",
+        "docId": "plot.xianni-ch1708-first-one-to-charge-the-vortex",
         "seq": 1616
       }
     ]
@@ -88,12 +124,31 @@
       "docId": "plot.xianni-ch1707-guimai-cangqiong-blood-tribulation-xianggang-expectation",
       "dated": false,
       "seq": 1616
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1708-first-one-to-charge-the-vortex",
+      "dated": false,
+      "seq": 1616
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1708-first-one-to-charge-the-vortex",
+      "dated": false,
+      "seq": 1616
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1708-first-one-to-charge-the-vortex",
+      "dated": false,
+      "seq": 1616
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1707-guimai-cangqiong-blood-tribulation-xianggang-expectation"
+    "plot.xianni-ch1707-guimai-cangqiong-blood-tribulation-xianggang-expectation",
+    "plot.xianni-ch1708-first-one-to-charge-the-vortex"
   ],
-  "updatedAt": "2026-08-30T03:10:37.921Z"
+  "updatedAt": "2026-08-30T03:12:38.523Z"
 }
