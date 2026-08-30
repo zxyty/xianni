@@ -1164,3 +1164,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T14:45:43.937Z** `ingest` plot.xianni-1887-lvmozhou-border-blockade — 第1887章 阻拦：王林别丹海入绿魔洲，边界山脉遭两名绿魔使者自爆阻击 · kind=plot asOf=2026-08-30 entities=21 relations=33 src=01795-01799.p4.md
 - **2026-08-30T14:48:26.295Z** `ingest` plot.xianni-1888-oath-daomozong — 第1888章 誓言！——王林拳碎云空剑、道魔宗数百修士拦路，血誓灭宗 · kind=plot asOf=2026-08-30 entities=25 relations=35 src=01795-01799.p5.md
 - **2026-08-30T14:50:49.847Z** `ingest` plot.xianni-1889-daomo-zongzhu-breakout — 仙逆 第1889章 道魔宗主：残夜破围、王林血战逃入孟土洲 · kind=plot asOf=2026-08-30 entities=28 relations=37 src=01800-01804.p1.md
+- **2026-08-30T14:52:46.976Z** `ingest` plot.xianni-1890-daomo-sect-master-captures-wang-lin — 第1890章 劫？造化？——道魔宗宗主移山截道，仙魔七指印擒下王林 · kind=plot asOf=2026-08-30 entities=16 relations=27 src=01800-01804.p2.md

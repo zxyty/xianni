@@ -3,12 +3,18 @@
   "type": "person",
   "name": "道魔宗宗主",
   "aliases": [
-    "道魔宗主"
+    "道魔宗主",
+    "黑白道袍中年男子",
+    "道魔宗之主"
   ],
   "summary": "绿魔洲道魔宗之主，多年封闭神识始终闭关；与刘之源关系匪浅，绿魔洲众人极度忌惮其得知刘之源死讯后的暴怒。",
   "attributes": {
     "身份": "道魔宗宗主",
-    "阵营": "道魔宗"
+    "阵营": "道魔宗",
+    "性别": "男",
+    "小阶段": "空劫后期巅峰",
+    "性格": "冷酷、刻薄寡恩、平静蔑视",
+    "外貌": "黑白道袍、身影挺拔、相貌英俊、双唇略薄"
   },
   "observations": {
     "身份": [
@@ -29,6 +35,34 @@
         "docId": "plot.xianni-1889-daomo-zongzhu-breakout",
         "seq": 1800
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-1890-daomo-sect-master-captures-wang-lin",
+        "seq": 1800
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "空劫后期巅峰",
+        "docId": "plot.xianni-1890-daomo-sect-master-captures-wang-lin",
+        "seq": 1800
+      }
+    ],
+    "性格": [
+      {
+        "value": "冷酷、刻薄寡恩、平静蔑视",
+        "docId": "plot.xianni-1890-daomo-sect-master-captures-wang-lin",
+        "seq": 1800
+      }
+    ],
+    "外貌": [
+      {
+        "value": "黑白道袍、身影挺拔、相貌英俊、双唇略薄",
+        "docId": "plot.xianni-1890-daomo-sect-master-captures-wang-lin",
+        "seq": 1800
+      }
     ]
   },
   "firstSeq": 1770,
@@ -44,13 +78,38 @@
       "docId": "plot.xianni-1889-daomo-zongzhu-breakout",
       "dated": false,
       "seq": 1800
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-1890-daomo-sect-master-captures-wang-lin",
+      "dated": false,
+      "seq": 1800
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-1890-daomo-sect-master-captures-wang-lin",
+      "dated": false,
+      "seq": 1800
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-1890-daomo-sect-master-captures-wang-lin",
+      "dated": false,
+      "seq": 1800
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-1890-daomo-sect-master-captures-wang-lin",
+      "dated": false,
+      "seq": 1800
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
-    "plot.xianni-1889-daomo-zongzhu-breakout"
+    "plot.xianni-1889-daomo-zongzhu-breakout",
+    "plot.xianni-1890-daomo-sect-master-captures-wang-lin"
   ],
-  "updatedAt": "2026-08-30T14:50:49.294Z"
+  "updatedAt": "2026-08-30T14:52:46.471Z"
 }

@@ -8,11 +8,11 @@
   "summary": "绿魔洲的圣地，被选出的天资孩童修炼到一定程度后被送入此处侍奉绿魔，历经一次次淘汰死亡，最终获绿魔认可者至今仅九人。",
   "attributes": {
     "所属界面": "绿魔洲",
-    "类型": "庙宇",
+    "类型": "庙宇/禁地",
     "危险度": "极高，使者多在此淘汰死亡",
-    "所属势力": "绿魔洲",
+    "所属势力": "道魔宗",
     "上级区域": "绿魔洲",
-    "方位": "绿魔洲深处"
+    "方位": "绿魔洲中心"
   },
   "observations": {
     "所属界面": [
@@ -32,6 +32,11 @@
         "value": "庙宇",
         "docId": "plot.xianni-1887-lvmozhou-border-blockade",
         "seq": 1795
+      },
+      {
+        "value": "庙宇/禁地",
+        "docId": "plot.xianni-1890-daomo-sect-master-captures-wang-lin",
+        "seq": 1800
       }
     ],
     "危险度": [
@@ -46,6 +51,11 @@
         "value": "绿魔洲",
         "docId": "plot.xianni-1887-lvmozhou-border-blockade",
         "seq": 1795
+      },
+      {
+        "value": "道魔宗",
+        "docId": "plot.xianni-1890-daomo-sect-master-captures-wang-lin",
+        "seq": 1800
       }
     ],
     "上级区域": [
@@ -60,6 +70,11 @@
         "value": "绿魔洲深处",
         "docId": "plot.xianni-1887-lvmozhou-border-blockade",
         "seq": 1795
+      },
+      {
+        "value": "绿魔洲中心",
+        "docId": "plot.xianni-1890-daomo-sect-master-captures-wang-lin",
+        "seq": 1800
       }
     ]
   },
@@ -73,9 +88,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1887-lvmozhou-border-blockade",
+      "docId": "plot.xianni-1890-daomo-sect-master-captures-wang-lin",
       "dated": false,
-      "seq": 1795
+      "seq": 1800
     },
     "危险度": {
       "asOf": null,
@@ -85,9 +100,9 @@
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-1887-lvmozhou-border-blockade",
+      "docId": "plot.xianni-1890-daomo-sect-master-captures-wang-lin",
       "dated": false,
-      "seq": 1795
+      "seq": 1800
     },
     "上级区域": {
       "asOf": null,
@@ -97,16 +112,17 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-1887-lvmozhou-border-blockade",
+      "docId": "plot.xianni-1890-daomo-sect-master-captures-wang-lin",
       "dated": false,
-      "seq": 1795
+      "seq": 1800
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
-    "plot.xianni-1887-lvmozhou-border-blockade"
+    "plot.xianni-1887-lvmozhou-border-blockade",
+    "plot.xianni-1890-daomo-sect-master-captures-wang-lin"
   ],
-  "updatedAt": "2026-08-30T14:45:43.477Z"
+  "updatedAt": "2026-08-30T14:52:46.476Z"
 }
