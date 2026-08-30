@@ -7,16 +7,20 @@
     "皇袍青年",
     "皇子",
     "始古皇子计都",
-    "皇子殿下"
+    "皇子殿下",
+    "始古五皇子",
+    "Ji Du"
   ],
   "summary": "道古皇族皇子，与道古使团一同将至黑石城，黑石城为此清空四门、封城三日。",
   "attributes": {
-    "身份": "道古一脉皇子、道古一脉皇子、道古使团随行者、始古一脉皇子",
+    "身份": "道古一脉皇子、道古一脉皇子、道古使团随行者、始古一脉皇子、陪同道古使团选妃者",
     "阵营": "道古、道古一脉、始古一脉",
     "外貌": "身穿皇袍、长发飘摇，相貌寻常却气质莫测",
     "性别": "男",
     "种族": "古族",
-    "性格": "机敏、能屈能伸"
+    "性格": "心机深沉、心志坚定、果断",
+    "称号": "计都皇子",
+    "出身地": "始古一脉"
   },
   "observations": {
     "身份": [
@@ -34,6 +38,11 @@
         "value": "始古一脉皇子",
         "docId": "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
         "seq": 1914
+      },
+      {
+        "value": "陪同道古使团选妃者",
+        "docId": "plot.xianni-ch2007-jidu-prince-kowtow-godfather-backup-plan",
+        "seq": 1919
       }
     ],
     "阵营": [
@@ -79,6 +88,25 @@
         "value": "机敏、能屈能伸",
         "docId": "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
         "seq": 1914
+      },
+      {
+        "value": "心机深沉、心志坚定、果断",
+        "docId": "plot.xianni-ch2007-jidu-prince-kowtow-godfather-backup-plan",
+        "seq": 1919
+      }
+    ],
+    "称号": [
+      {
+        "value": "计都皇子",
+        "docId": "plot.xianni-ch2007-jidu-prince-kowtow-godfather-backup-plan",
+        "seq": 1919
+      }
+    ],
+    "出身地": [
+      {
+        "value": "始古一脉",
+        "docId": "plot.xianni-ch2007-jidu-prince-kowtow-godfather-backup-plan",
+        "seq": 1919
       }
     ]
   },
@@ -116,9 +144,21 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
+      "docId": "plot.xianni-ch2007-jidu-prince-kowtow-godfather-backup-plan",
       "dated": false,
-      "seq": 1914
+      "seq": 1919
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2007-jidu-prince-kowtow-godfather-backup-plan",
+      "dated": false,
+      "seq": 1919
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2007-jidu-prince-kowtow-godfather-backup-plan",
+      "dated": false,
+      "seq": 1919
     }
   },
   "contested": false,
@@ -126,7 +166,8 @@
   "docs": [
     "plot.xianni-2003-daogu-mission-black-stone-city",
     "plot.xianni-ch2004-jidu-huangzi-heishicheng",
-    "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun"
+    "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
+    "plot.xianni-ch2007-jidu-prince-kowtow-godfather-backup-plan"
   ],
-  "updatedAt": "2026-08-30T23:52:14.327Z"
+  "updatedAt": "2026-08-30T23:54:28.208Z"
 }
