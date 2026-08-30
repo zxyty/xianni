@@ -5,12 +5,14 @@
   "aliases": [
     "仙罡东部九宗十三门",
     "仙罡大陆东部九宗十三门",
-    "仙罡大陆九宗十三门"
+    "仙罡大陆九宗十三门",
+    "九宗十三门势力"
   ],
   "summary": "仙罡大陆东部的宗门集合体，大魂门为其中之一。",
   "attributes": {
     "所属界面": "仙罡大陆",
-    "据点": "仙罡大陆东部"
+    "据点": "仙罡大陆东部",
+    "等级": "此地最高级宗门序列"
   },
   "observations": {
     "所属界面": [
@@ -31,6 +33,13 @@
         "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
         "seq": 1611
       }
+    ],
+    "等级": [
+      {
+        "value": "此地最高级宗门序列",
+        "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
+        "seq": 1690
+      }
     ]
   },
   "firstSeq": 1601,
@@ -46,6 +55,12 @@
       "docId": "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
       "dated": false,
       "seq": 1611
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
+      "dated": false,
+      "seq": 1690
     }
   },
   "contested": false,
@@ -53,7 +68,8 @@
   "docs": [
     "plot.xianni-ch1692-the-promise-of-those-years",
     "plot.xianni-ch1611-1615-qicai-daoren-illusion-cause",
-    "plot.xianni-1646-1649-wuxing-star-nine-turn-heart-wheel"
+    "plot.xianni-1646-1649-wuxing-star-nine-turn-heart-wheel",
+    "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang"
   ],
-  "updatedAt": "2026-08-30T04:26:44.449Z"
+  "updatedAt": "2026-08-30T07:33:04.220Z"
 }

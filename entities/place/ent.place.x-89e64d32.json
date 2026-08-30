@@ -4,13 +4,16 @@
   "name": "洞府界核心之地",
   "aliases": [
     "洞府中枢",
-    "洞府中的真正府邸"
+    "洞府中的真正府邸",
+    "黑气巨鼎"
   ],
   "summary": "天地初开混沌中的洞府界中枢，存在通往仙罡的洞府之门；天道吞噬连道非、七彩仙尊崩溃之处。",
   "attributes": {
-    "类型": "界面核心/中枢",
+    "类型": "秘境核心",
     "上级区域": "洞府界",
-    "方位": "洞府界中心"
+    "方位": "洞府界中心",
+    "所属界面": "洞府界",
+    "危险度": "极高（最后关卡）"
   },
   "observations": {
     "类型": [
@@ -18,6 +21,11 @@
         "value": "界面核心/中枢",
         "docId": "plot.xianni-1655-1659-search-third-soul-qingshui-seven-po",
         "seq": 1655
+      },
+      {
+        "value": "秘境核心",
+        "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
+        "seq": 1690
       }
     ],
     "上级区域": [
@@ -33,15 +41,29 @@
         "docId": "plot.xianni-1655-1659-search-third-soul-qingshui-seven-po",
         "seq": 1655
       }
+    ],
+    "所属界面": [
+      {
+        "value": "洞府界",
+        "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
+        "seq": 1690
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高（最后关卡）",
+        "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
+        "seq": 1690
+      }
     ]
   },
   "firstSeq": 1655,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1655-1659-search-third-soul-qingshui-seven-po",
+      "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
       "dated": false,
-      "seq": 1655
+      "seq": 1690
     },
     "上级区域": {
       "asOf": null,
@@ -54,12 +76,25 @@
       "docId": "plot.xianni-1655-1659-search-third-soul-qingshui-seven-po",
       "dated": false,
       "seq": 1655
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
+      "dated": false,
+      "seq": 1690
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
+      "dated": false,
+      "seq": 1690
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1655-1659-search-third-soul-qingshui-seven-po"
+    "plot.xianni-1655-1659-search-third-soul-qingshui-seven-po",
+    "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang"
   ],
-  "updatedAt": "2026-08-30T05:27:26.825Z"
+  "updatedAt": "2026-08-30T07:33:04.107Z"
 }

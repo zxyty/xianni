@@ -4,13 +4,16 @@
   "name": "百丈妖蟒",
   "aliases": [
     "血雾妖蟒",
-    "百丈巨蟒"
+    "百丈巨蟒",
+    "丛林巨蟒",
+    "缠树蟒蛇"
   ],
   "summary": "于非以血雾凝化的百丈妖蟒，张口吞噬王林，被王林一手捏碎；因其有魂而被扔入黄泉。",
   "attributes": {
     "主人": "于非",
-    "外形": "百丈大小蟒身，血盆大口",
-    "能力": "吞噬冲击；有魂"
+    "外形": "约百丈之长，巨大头颅昂起吐芯，双眼阴冷",
+    "能力": "身负八门之一，体内可散发惊天黑芒并显门之虚影",
+    "栖息地": "第五花世界内的无边丛林"
   },
   "observations": {
     "主人": [
@@ -25,6 +28,11 @@
         "value": "百丈大小蟒身，血盆大口",
         "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
         "seq": 845
+      },
+      {
+        "value": "约百丈之长，巨大头颅昂起吐芯，双眼阴冷",
+        "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
+        "seq": 1690
       }
     ],
     "能力": [
@@ -32,6 +40,18 @@
         "value": "吞噬冲击；有魂",
         "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
         "seq": 845
+      },
+      {
+        "value": "身负八门之一，体内可散发惊天黑芒并显门之虚影",
+        "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
+        "seq": 1690
+      }
+    ],
+    "栖息地": [
+      {
+        "value": "第五花世界内的无边丛林",
+        "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
+        "seq": 1690
       }
     ]
   },
@@ -45,21 +65,28 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
+      "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
       "dated": false,
-      "seq": 845
+      "seq": 1690
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
+      "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
       "dated": false,
-      "seq": 845
+      "seq": 1690
+    },
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
+      "dated": false,
+      "seq": 1690
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch911-sha-yu-jie-kill-yu-fei"
+    "plot.xianni-ch911-sha-yu-jie-kill-yu-fei",
+    "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang"
   ],
-  "updatedAt": "2026-08-23T19:35:24.395Z"
+  "updatedAt": "2026-08-30T07:33:04.249Z"
 }

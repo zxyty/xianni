@@ -3,12 +3,14 @@
   "type": "formation",
   "name": "五花八门阵",
   "aliases": [
-    "五花八门大阵"
+    "五花八门大阵",
+    "洞府界核心大阵"
   ],
   "summary": "洞府界内的大阵，王林由核心之地至冰封之地必经此阵；女古神据此推断王林在寻找真门。",
   "attributes": {
     "出处": "洞府界",
-    "效果": "阻隔／迷惑通行者，通往真门的必经关卡"
+    "效果": "阻隔／迷惑通行者，通往真门的必经关卡、五花绽放，第三花枯萎、八门融于第五花，众生众物皆可成门、第五花需以七彩仙尊第三魂为引方可开启",
+    "破解法": "在第五花内寻出八门中的唯一真门"
   },
   "observations": {
     "出处": [
@@ -23,6 +25,28 @@
         "value": "阻隔／迷惑通行者，通往真门的必经关卡",
         "docId": "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
         "seq": 1675
+      },
+      {
+        "value": "五花绽放，第三花枯萎",
+        "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
+        "seq": 1690
+      },
+      {
+        "value": "八门融于第五花，众生众物皆可成门",
+        "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
+        "seq": 1690
+      },
+      {
+        "value": "第五花需以七彩仙尊第三魂为引方可开启",
+        "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
+        "seq": 1690
+      }
+    ],
+    "破解法": [
+      {
+        "value": "在第五花内寻出八门中的唯一真门",
+        "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
+        "seq": 1690
       }
     ]
   },
@@ -39,12 +63,19 @@
       "docId": "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
       "dated": false,
       "seq": 1675
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
+      "dated": false,
+      "seq": 1690
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood"
+    "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
+    "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang"
   ],
-  "updatedAt": "2026-08-30T06:49:41.793Z"
+  "updatedAt": "2026-08-30T07:33:04.098Z"
 }

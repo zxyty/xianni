@@ -4,14 +4,16 @@
   "name": "东临宗",
   "aliases": [
     "Donglin Zong",
-    "Dong Lin Sect"
+    "Dong Lin Sect",
+    "Dong Lin Zong"
   ],
   "summary": "仙罡大陆上的宗门，七彩仙尊早年弟子出身之处、后将其驱除；七彩仙尊在第二花中按记忆一模一样复制出同名之地，由神长老云娜坐镇。",
   "attributes": {
     "所属界面": "仙罡大陆、洞府界",
     "据点": "五花八门第二花冰封世界",
-    "理念": "—、看守主人（烨寞）遗泽",
-    "等级": "衰亡中"
+    "理念": "—、看守主人（烨寞）遗泽、每一系每一代只可一人修习云道大术入门口诀、修士之修，弱肉强食",
+    "等级": "九宗十三门之一",
+    "镇派之宝": "三大最强神通（含云道大术）"
   },
   "observations": {
     "所属界面": [
@@ -44,6 +46,16 @@
         "value": "看守主人（烨寞）遗泽",
         "docId": "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
         "seq": 1675
+      },
+      {
+        "value": "每一系每一代只可一人修习云道大术入门口诀",
+        "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
+        "seq": 1690
+      },
+      {
+        "value": "修士之修，弱肉强食",
+        "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
+        "seq": 1690
       }
     ],
     "等级": [
@@ -51,6 +63,18 @@
         "value": "衰亡中",
         "docId": "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
         "seq": 1675
+      },
+      {
+        "value": "九宗十三门之一",
+        "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
+        "seq": 1690
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "三大最强神通（含云道大术）",
+        "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
+        "seq": 1690
       }
     ]
   },
@@ -77,9 +101,15 @@
     },
     "等级": {
       "asOf": null,
-      "docId": "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
+      "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
       "dated": false,
-      "seq": 1675
+      "seq": 1690
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang",
+      "dated": false,
+      "seq": 1690
     }
   },
   "contested": false,
@@ -87,7 +117,8 @@
   "docs": [
     "plot.xianni-ch1766-donglin-zong-second-flower",
     "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
-    "plot.xianni-ch1768-yemo-left-arm-donglin-pool"
+    "plot.xianni-ch1768-yemo-left-arm-donglin-pool",
+    "plot.xianni-1690-1694-fifth-flower-memory-world-xiangang"
   ],
-  "updatedAt": "2026-08-30T06:51:33.277Z"
+  "updatedAt": "2026-08-30T07:33:04.217Z"
 }
