@@ -1077,3 +1077,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T06:42:16.732Z** `ingest` plot.xianni-ch1764-qicai-jie-muyu-liguang-bow — 第1764章 七彩劫！——九条目鱼围攻七彩道人，王林连开李广弓 · kind=plot asOf=2026-08-30 entities=12 relations=18 src=01675-01679.p1.md
 - **2026-08-30T06:44:25.464Z** `ingest` plot.xianni-ch1765-dao-fei-xian — 第1765章 道非现！——王林三箭重创七彩道人，连道非现身惊退强敌 · kind=plot asOf=2026-08-30 entities=21 relations=22 src=01675-01679.p2.md
 - **2026-08-30T06:47:08.404Z** `ingest` plot.xianni-ch1766-donglin-zong-second-flower — 第1766章 东临宗：王林脱身三百界，入第二花遇女古神云娜 · kind=plot asOf=2026-08-30 entities=25 relations=42 src=01675-01679.p3.md
+- **2026-08-30T06:49:42.301Z** `ingest` plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood — 第1767章 残神欲夺：王林吸收烨寞元神之血，反噬夺舍失败 · kind=plot asOf=2026-08-30 entities=24 relations=41 src=01675-01679.p4.md

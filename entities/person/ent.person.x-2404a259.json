@@ -5,15 +5,19 @@
   "aliases": [
     "Yun Na",
     "东临宗神长老",
-    "女古神"
+    "女古神",
+    "冰封之地的女子",
+    "烨寞之血所化女子"
   ],
   "summary": "第二花冰封世界中的女古神，眉心有七个古神星点，自称「仙尊麾下、东临宗神长老」，由七彩仙尊创造并蕴含烨寞最后的心神之血，向王林说明第二花与东临宗来历，并提出可助其疗伤。",
   "attributes": {
     "性别": "女",
     "种族": "古神",
-    "身份": "东临宗神长老、七彩仙尊麾下",
-    "外貌": "长发女子，眉心七个古神星点缓缓转动",
-    "标志特征": "眉心七个古神星点、体内蕴含烨寞最后的心神之血"
+    "身份": "东临宗神长老、七彩仙尊麾下、东临宗守护者",
+    "外貌": "长发女子，眉心七个古神星点缓缓转动、青丝如瀑的美丽女子",
+    "标志特征": "眉心七个古神星点、体内蕴含烨寞最后的心神之血、眉心可开漩涡凝出烨寞之血；凝血后转虚弱",
+    "称号": "神长老",
+    "本命法宝": "无（本章未提）"
   },
   "observations": {
     "性别": [
@@ -35,12 +39,22 @@
         "value": "东临宗神长老、七彩仙尊麾下",
         "docId": "plot.xianni-ch1766-donglin-zong-second-flower",
         "seq": 1675
+      },
+      {
+        "value": "东临宗守护者",
+        "docId": "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
+        "seq": 1675
       }
     ],
     "外貌": [
       {
         "value": "长发女子，眉心七个古神星点缓缓转动",
         "docId": "plot.xianni-ch1766-donglin-zong-second-flower",
+        "seq": 1675
+      },
+      {
+        "value": "青丝如瀑的美丽女子",
+        "docId": "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
         "seq": 1675
       }
     ],
@@ -53,6 +67,25 @@
       {
         "value": "体内蕴含烨寞最后的心神之血",
         "docId": "plot.xianni-ch1766-donglin-zong-second-flower",
+        "seq": 1675
+      },
+      {
+        "value": "眉心可开漩涡凝出烨寞之血；凝血后转虚弱",
+        "docId": "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
+        "seq": 1675
+      }
+    ],
+    "称号": [
+      {
+        "value": "神长老",
+        "docId": "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
+        "seq": 1675
+      }
+    ],
+    "本命法宝": [
+      {
+        "value": "无（本章未提）",
+        "docId": "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
         "seq": 1675
       }
     ]
@@ -88,12 +121,25 @@
       "docId": "plot.xianni-ch1766-donglin-zong-second-flower",
       "dated": false,
       "seq": 1675
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
+      "dated": false,
+      "seq": 1675
+    },
+    "本命法宝": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
+      "dated": false,
+      "seq": 1675
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1766-donglin-zong-second-flower"
+    "plot.xianni-ch1766-donglin-zong-second-flower",
+    "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood"
   ],
-  "updatedAt": "2026-08-30T06:47:07.863Z"
+  "updatedAt": "2026-08-30T06:49:41.768Z"
 }

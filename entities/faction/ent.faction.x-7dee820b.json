@@ -8,15 +8,21 @@
   ],
   "summary": "仙罡大陆上的宗门，七彩仙尊早年弟子出身之处、后将其驱除；七彩仙尊在第二花中按记忆一模一样复制出同名之地，由神长老云娜坐镇。",
   "attributes": {
-    "所属界面": "仙罡大陆",
+    "所属界面": "仙罡大陆、洞府界",
     "据点": "五花八门第二花冰封世界",
-    "理念": "—"
+    "理念": "—、看守主人（烨寞）遗泽",
+    "等级": "衰亡中"
   },
   "observations": {
     "所属界面": [
       {
         "value": "仙罡大陆",
         "docId": "plot.xianni-ch1766-donglin-zong-second-flower",
+        "seq": 1675
+      },
+      {
+        "value": "洞府界",
+        "docId": "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
         "seq": 1675
       }
     ],
@@ -32,6 +38,18 @@
       {
         "value": "—",
         "docId": "plot.xianni-ch1766-donglin-zong-second-flower",
+        "seq": 1675
+      },
+      {
+        "value": "看守主人（烨寞）遗泽",
+        "docId": "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
+        "seq": 1675
+      }
+    ],
+    "等级": [
+      {
+        "value": "衰亡中",
+        "docId": "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
         "seq": 1675
       }
     ]
@@ -56,12 +74,19 @@
       "docId": "plot.xianni-ch1766-donglin-zong-second-flower",
       "dated": false,
       "seq": 1675
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
+      "dated": false,
+      "seq": 1675
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1766-donglin-zong-second-flower"
+    "plot.xianni-ch1766-donglin-zong-second-flower",
+    "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood"
   ],
-  "updatedAt": "2026-08-30T06:47:07.880Z"
+  "updatedAt": "2026-08-30T06:49:41.794Z"
 }

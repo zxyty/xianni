@@ -3,13 +3,17 @@
   "type": "place",
   "name": "冰封之地",
   "aliases": [
-    "仙罡大陆冰封之地"
+    "仙罡大陆冰封之地",
+    "无尽冰封之地",
+    "女古神所在之界"
   ],
   "summary": "仙罡大陆上一片放眼皆雪白、天降雪花的冰封之域，气候足以冻死一切生灵；其中一座冰山内坐着与矾珊璐同貌的女子。",
   "attributes": {
     "上级区域": "仙罡大陆",
-    "类型": "极寒禁地",
-    "危险度": "极高（可冻死一切生灵）"
+    "类型": "冰封禁地",
+    "危险度": "高（可化禁制阵法阻拦来者）",
+    "所属界面": "洞府界",
+    "守护": "女古神（神长老）"
   },
   "observations": {
     "上级区域": [
@@ -24,6 +28,11 @@
         "value": "极寒禁地",
         "docId": "plot.xianni-1693-qicai-arrival",
         "seq": 1601
+      },
+      {
+        "value": "冰封禁地",
+        "docId": "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
+        "seq": 1675
       }
     ],
     "危险度": [
@@ -31,6 +40,25 @@
         "value": "极高（可冻死一切生灵）",
         "docId": "plot.xianni-1693-qicai-arrival",
         "seq": 1601
+      },
+      {
+        "value": "高（可化禁制阵法阻拦来者）",
+        "docId": "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
+        "seq": 1675
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "洞府界",
+        "docId": "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
+        "seq": 1675
+      }
+    ],
+    "守护": [
+      {
+        "value": "女古神（神长老）",
+        "docId": "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
+        "seq": 1675
       }
     ]
   },
@@ -44,21 +72,34 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1693-qicai-arrival",
+      "docId": "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
       "dated": false,
-      "seq": 1601
+      "seq": 1675
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-1693-qicai-arrival",
+      "docId": "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
       "dated": false,
-      "seq": 1601
+      "seq": 1675
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
+      "dated": false,
+      "seq": 1675
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
+      "dated": false,
+      "seq": 1675
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1693-qicai-arrival"
+    "plot.xianni-1693-qicai-arrival",
+    "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood"
   ],
-  "updatedAt": "2026-08-26T12:25:32.644Z"
+  "updatedAt": "2026-08-30T06:49:41.788Z"
 }
