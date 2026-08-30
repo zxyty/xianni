@@ -5,13 +5,15 @@
   "aliases": [
     "杀戮之雷",
     "灭世杀戮雷",
-    "杀戮灭世之雷"
+    "杀戮灭世之雷",
+    "杀戮闪电"
   ],
   "summary": "雷霆本源真身与杀戮本源融合诞生的、本不该出现、修士根本不可能掌握的一道雷；拥有使命，一旦散开威力惊天灭世。",
   "attributes": {
-    "类型": "特殊本源融合所生之雷",
-    "威力": "惊天灭世，毁灭范围或不止一洲",
-    "出处": "雷霆本源真身 + 杀戮本源融合"
+    "类型": "雷法",
+    "威力": "力量之强连王林也忌惮",
+    "出处": "雷霆本源真身 + 杀戮本源融合",
+    "消耗": "动用过多则雷霆真身承受不住而崩溃"
   },
   "observations": {
     "类型": [
@@ -19,6 +21,11 @@
         "value": "特殊本源融合所生之雷",
         "docId": "plot.xianni-1901-thunder-source-true-body-slaughter-lightning",
         "seq": 1810
+      },
+      {
+        "value": "雷法",
+        "docId": "plot.xianni-1931-miankong-fengyin-xianji-jian-suipian",
+        "seq": 1839
       }
     ],
     "威力": [
@@ -26,6 +33,11 @@
         "value": "惊天灭世，毁灭范围或不止一洲",
         "docId": "plot.xianni-1901-thunder-source-true-body-slaughter-lightning",
         "seq": 1810
+      },
+      {
+        "value": "力量之强连王林也忌惮",
+        "docId": "plot.xianni-1931-miankong-fengyin-xianji-jian-suipian",
+        "seq": 1839
       }
     ],
     "出处": [
@@ -34,33 +46,47 @@
         "docId": "plot.xianni-1901-thunder-source-true-body-slaughter-lightning",
         "seq": 1810
       }
+    ],
+    "消耗": [
+      {
+        "value": "动用过多则雷霆真身承受不住而崩溃",
+        "docId": "plot.xianni-1931-miankong-fengyin-xianji-jian-suipian",
+        "seq": 1839
+      }
     ]
   },
   "firstSeq": 1810,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1901-thunder-source-true-body-slaughter-lightning",
+      "docId": "plot.xianni-1931-miankong-fengyin-xianji-jian-suipian",
       "dated": false,
-      "seq": 1810
+      "seq": 1839
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.xianni-1901-thunder-source-true-body-slaughter-lightning",
+      "docId": "plot.xianni-1931-miankong-fengyin-xianji-jian-suipian",
       "dated": false,
-      "seq": 1810
+      "seq": 1839
     },
     "出处": {
       "asOf": null,
       "docId": "plot.xianni-1901-thunder-source-true-body-slaughter-lightning",
       "dated": false,
       "seq": 1810
+    },
+    "消耗": {
+      "asOf": null,
+      "docId": "plot.xianni-1931-miankong-fengyin-xianji-jian-suipian",
+      "dated": false,
+      "seq": 1839
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1901-thunder-source-true-body-slaughter-lightning"
+    "plot.xianni-1901-thunder-source-true-body-slaughter-lightning",
+    "plot.xianni-1931-miankong-fengyin-xianji-jian-suipian"
   ],
-  "updatedAt": "2026-08-30T15:16:39.759Z"
+  "updatedAt": "2026-08-30T17:24:46.518Z"
 }
