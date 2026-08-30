@@ -4,12 +4,14 @@
   "name": "绿魔卫",
   "aliases": [
     "绿衣修士",
-    "绿魔洲修士"
+    "绿魔洲修士",
+    "绿魔修士队伍"
   ],
   "summary": "绿魔洲屠杀丹海的执行武力，按组调度，可借丹海禁制融入阵法挪移，但无法缩地成寸。",
   "attributes": {
     "阵营": "绿魔洲",
-    "理念": "严格执行命令，剿灭丹海内一切天牛洲之修、清扫丹海内非绿魔洲修士"
+    "理念": "严格执行命令，剿灭丹海内一切天牛洲之修、清扫丹海内非绿魔洲修士",
+    "据点": "丹海阵法中枢三杆大旗一带"
   },
   "observations": {
     "阵营": [
@@ -30,6 +32,13 @@
         "docId": "plot.xianni-ch1843-water-source-breakthrough-danhai",
         "seq": 1750
       }
+    ],
+    "据点": [
+      {
+        "value": "丹海阵法中枢三杆大旗一带",
+        "docId": "plot.xianni-ch1848-qianfu-danhai-luopan",
+        "seq": 1755
+      }
     ]
   },
   "firstSeq": 1750,
@@ -45,13 +54,20 @@
       "docId": "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
       "dated": false,
       "seq": 1750
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1848-qianfu-danhai-luopan",
+      "dated": false,
+      "seq": 1755
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
-    "plot.xianni-ch1843-water-source-breakthrough-danhai"
+    "plot.xianni-ch1843-water-source-breakthrough-danhai",
+    "plot.xianni-ch1848-qianfu-danhai-luopan"
   ],
-  "updatedAt": "2026-08-30T11:25:11.351Z"
+  "updatedAt": "2026-08-30T11:37:25.340Z"
 }

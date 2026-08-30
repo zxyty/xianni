@@ -1146,3 +1146,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T11:30:27.824Z** `ingest` plot.xianni-ch1845-dongzhou-tianjiao-yunkong — 仙逆·第1845章 东州天骄云空！——王林丹海救白虎三人、绿魔洲大军将至 · kind=plot asOf=2026-08-30 entities=24 relations=30 src=01755-01759.p2.md
 - **2026-08-30T11:32:30.184Z** `ingest` plot.xianni-ch1846-first-meeting-yunkong-danhai-seven-layer-array — 第1846章 第一次见面！——王林破丹海七层禁制阵，遭云空剑意分身斩阵拦截 · kind=plot asOf=2026-08-30 entities=16 relations=21 src=01755-01759.p3.md
 - **2026-08-30T11:34:54.407Z** `ingest` plot.xianni-ch1847-hui-ma-qiang-danhai-tuwei-yunkong — 第1847章 回马枪！——王林水火化「气」冲破丹海禁制，暗决回身杀云空 · kind=plot asOf=2026-08-30 entities=22 relations=33 src=01755-01759.p4.md
+- **2026-08-30T11:37:25.947Z** `ingest` plot.xianni-ch1848-qianfu-danhai-luopan — 第1848章 潜伏：王林融入丹海禁制、附身绿魔卫逼近罗盘 · kind=plot asOf=2026-08-30 entities=23 relations=34 src=01755-01759.p5.md

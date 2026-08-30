@@ -5,13 +5,14 @@
   "aliases": [
     "丹海还原之仙丹",
     "丹海所化半粒仙丹",
-    "那半粒仙丹"
+    "那半粒仙丹",
+    "传说中的半粒仙丹"
   ],
   "summary": "丹海炼化还原后可得的半粒仙丹，绿魔洲三宗计划以之炸开天牛洲的无形壁障。",
   "attributes": {
-    "类型": "仙丹",
+    "类型": "仙丹（残缺）、仙丹、仙丹（残粒）",
     "用途": "丹海炼化后的归宿形态",
-    "产地": "由丹海炼化还原"
+    "产地": "丹海"
   },
   "observations": {
     "类型": [
@@ -23,6 +24,11 @@
       {
         "value": "仙丹",
         "docId": "plot.xianni-ch1847-hui-ma-qiang-danhai-tuwei-yunkong",
+        "seq": 1755
+      },
+      {
+        "value": "仙丹（残粒）",
+        "docId": "plot.xianni-ch1848-qianfu-danhai-luopan",
         "seq": 1755
       }
     ],
@@ -43,6 +49,11 @@
         "value": "由丹海炼化还原",
         "docId": "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
         "seq": 1750
+      },
+      {
+        "value": "丹海",
+        "docId": "plot.xianni-ch1848-qianfu-danhai-luopan",
+        "seq": 1755
       }
     ]
   },
@@ -50,9 +61,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1847-hui-ma-qiang-danhai-tuwei-yunkong",
+      "docId": "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
       "dated": false,
-      "seq": 1755
+      "seq": 1750
     },
     "用途": {
       "asOf": null,
@@ -62,9 +73,9 @@
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
+      "docId": "plot.xianni-ch1848-qianfu-danhai-luopan",
       "dated": false,
-      "seq": 1750
+      "seq": 1755
     }
   },
   "contested": false,
@@ -72,7 +83,8 @@
   "docs": [
     "plot.xianni-ch1842-green-demon-continent-slaughter-danhai",
     "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
-    "plot.xianni-ch1847-hui-ma-qiang-danhai-tuwei-yunkong"
+    "plot.xianni-ch1847-hui-ma-qiang-danhai-tuwei-yunkong",
+    "plot.xianni-ch1848-qianfu-danhai-luopan"
   ],
-  "updatedAt": "2026-08-30T11:34:53.860Z"
+  "updatedAt": "2026-08-30T11:37:25.338Z"
 }
