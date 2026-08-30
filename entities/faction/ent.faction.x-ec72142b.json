@@ -8,13 +8,29 @@
   ],
   "summary": "中年文士当年出身的势力，她曾为该势力圣女。",
   "attributes": {
-    "所属界面": "仙罡大陆"
+    "所属界面": "仙罡大陆",
+    "等级": "小宗派（不入九宗十三门）",
+    "理念": "以可施于他人的防护神通闻名"
   },
   "observations": {
     "所属界面": [
       {
         "value": "仙罡大陆",
         "docId": "plot.xianni-1769-return-to-ancient-tomb",
+        "seq": 1680
+      }
+    ],
+    "等级": [
+      {
+        "value": "小宗派（不入九宗十三门）",
+        "docId": "plot.xianni-1771-yun-yifeng-fair-duel",
+        "seq": 1680
+      }
+    ],
+    "理念": [
+      {
+        "value": "以可施于他人的防护神通闻名",
+        "docId": "plot.xianni-1771-yun-yifeng-fair-duel",
         "seq": 1680
       }
     ]
@@ -26,13 +42,26 @@
       "docId": "plot.xianni-1769-return-to-ancient-tomb",
       "dated": false,
       "seq": 1680
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.xianni-1771-yun-yifeng-fair-duel",
+      "dated": false,
+      "seq": 1680
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.xianni-1771-yun-yifeng-fair-duel",
+      "dated": false,
+      "seq": 1680
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1346-1349-ancient-tomb-opens",
-    "plot.xianni-1769-return-to-ancient-tomb"
+    "plot.xianni-1769-return-to-ancient-tomb",
+    "plot.xianni-1771-yun-yifeng-fair-duel"
   ],
-  "updatedAt": "2026-08-30T06:53:58.316Z"
+  "updatedAt": "2026-08-30T07:01:17.172Z"
 }

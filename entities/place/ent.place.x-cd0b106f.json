@@ -5,14 +5,16 @@
   "aliases": [
     "山谷外山峰后的外围",
     "雾气山峰",
-    "通道所在山峰"
+    "通道所在山峰",
+    "雾气缭绕的山峰"
   ],
   "summary": "七彩界外围山脉通道旁的山峰，峰顶浓雾中藏有化作雾气的凶兽，王林在此以肉身硬抗鹰兽逼出七彩钉。",
   "attributes": {
     "上级区域": "七彩界",
     "方位": "山谷之外、山峰之后的外围",
-    "类型": "山峰群/凶兽栖息地",
-    "危险度": "高，遍布十二阶凶兽"
+    "类型": "禁地山峰",
+    "危险度": "高（光头之颅吼声、狂风）",
+    "守护": "光头之颅"
   },
   "observations": {
     "上级区域": [
@@ -34,6 +36,11 @@
         "value": "山峰群/凶兽栖息地",
         "docId": "plot.xianni-ch1195-seven-colored-nail",
         "seq": 1110
+      },
+      {
+        "value": "禁地山峰",
+        "docId": "plot.xianni-1771-yun-yifeng-fair-duel",
+        "seq": 1680
       }
     ],
     "危险度": [
@@ -41,6 +48,18 @@
         "value": "高，遍布十二阶凶兽",
         "docId": "plot.xianni-ch1195-seven-colored-nail",
         "seq": 1110
+      },
+      {
+        "value": "高（光头之颅吼声、狂风）",
+        "docId": "plot.xianni-1771-yun-yifeng-fair-duel",
+        "seq": 1680
+      }
+    ],
+    "守护": [
+      {
+        "value": "光头之颅",
+        "docId": "plot.xianni-1771-yun-yifeng-fair-duel",
+        "seq": 1680
       }
     ]
   },
@@ -60,21 +79,28 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1195-seven-colored-nail",
+      "docId": "plot.xianni-1771-yun-yifeng-fair-duel",
       "dated": false,
-      "seq": 1110
+      "seq": 1680
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch1195-seven-colored-nail",
+      "docId": "plot.xianni-1771-yun-yifeng-fair-duel",
       "dated": false,
-      "seq": 1110
+      "seq": 1680
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-1771-yun-yifeng-fair-duel",
+      "dated": false,
+      "seq": 1680
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1195-seven-colored-nail"
+    "plot.xianni-ch1195-seven-colored-nail",
+    "plot.xianni-1771-yun-yifeng-fair-duel"
   ],
-  "updatedAt": "2026-08-24T23:09:10.607Z"
+  "updatedAt": "2026-08-30T07:01:17.177Z"
 }

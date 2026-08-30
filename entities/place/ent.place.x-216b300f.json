@@ -8,9 +8,10 @@
   "summary": "洞府界核心区域，其中的大门通往仙罡之地；第三魂苏醒后会自行进入并推开大门。",
   "attributes": {
     "所属界面": "洞府界",
-    "类型": "核心秘境、核心禁地",
+    "类型": "核心秘境、核心禁地、洞府核心区域",
     "危险度": "极高",
-    "守护": "需仙罡血脉方可进入"
+    "守护": "需仙罡血脉方可进入",
+    "上级区域": "古之墓地"
   },
   "observations": {
     "所属界面": [
@@ -30,6 +31,11 @@
         "value": "核心禁地",
         "docId": "plot.xianni-ch1751-ren-ju-cave-mansion-gate-gathering",
         "seq": 1660
+      },
+      {
+        "value": "洞府核心区域",
+        "docId": "plot.xianni-1771-yun-yifeng-fair-duel",
+        "seq": 1680
       }
     ],
     "危险度": [
@@ -44,6 +50,13 @@
         "value": "需仙罡血脉方可进入",
         "docId": "plot.xianni-1750-cave-mansion-core-opens",
         "seq": 1660
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "古之墓地",
+        "docId": "plot.xianni-1771-yun-yifeng-fair-duel",
+        "seq": 1680
       }
     ]
   },
@@ -72,6 +85,12 @@
       "docId": "plot.xianni-1750-cave-mansion-core-opens",
       "dated": false,
       "seq": 1660
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-1771-yun-yifeng-fair-duel",
+      "dated": false,
+      "seq": 1680
     }
   },
   "contested": false,
@@ -80,7 +99,8 @@
     "plot.xianni-1749-kongmie-first-appearance-xieqing-death",
     "plot.xianni-1750-cave-mansion-core-opens",
     "plot.xianni-ch1751-ren-ju-cave-mansion-gate-gathering",
-    "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood"
+    "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
+    "plot.xianni-1771-yun-yifeng-fair-duel"
   ],
-  "updatedAt": "2026-08-30T06:49:41.790Z"
+  "updatedAt": "2026-08-30T07:01:17.176Z"
 }

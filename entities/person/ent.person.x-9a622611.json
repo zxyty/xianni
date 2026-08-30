@@ -14,13 +14,15 @@
   ],
   "summary": "仙罡大陆归一宗核心弟子，排行第三，随师伯进入洞府界万古；曾于远古仙域古神雕像上持古镜寻物，也是当年从王林天劫裂缝中走出之人。本章从高塔第四层被逼出，与王林一合势均力敌。",
   "attributes": {
-    "身份": "归一宗骄子",
+    "身份": "王林的誓血听令者",
     "称号": "归一宗核心弟子排行第三",
-    "外貌": "样子平凡的黑衣青年，双目奇异之芒",
-    "性格": "始终从容平静、外在随意、内心狂傲入骨、不屑言辞羞辱他人、狂傲懒散、骄傲、心智极高、外冷内惊、善于掩饰",
+    "外貌": "身穿青衫的青年",
+    "性格": "始终从容平静、外在随意、内心狂傲入骨、不屑言辞羞辱他人、狂傲懒散、骄傲、心智极高、外冷内惊、善于掩饰、好战狂热、守信君子",
     "标志特征": "在玄罗威压下最后跪地；立志成为第十个太阳",
     "阵营": "五行星",
-    "种族": "仙族"
+    "种族": "仙族",
+    "性别": "男",
+    "存殁": "存活"
   },
   "observations": {
     "身份": [
@@ -33,6 +35,12 @@
         "value": "归一宗骄子",
         "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
         "seq": 1650
+      },
+      {
+        "value": "王林的誓血听令者",
+        "docId": "plot.xianni-1771-yun-yifeng-fair-duel",
+        "seq": 1680,
+        "note": "限洞府核心之地内，自本章战败起"
       }
     ],
     "称号": [
@@ -47,6 +55,11 @@
         "value": "样子平凡的黑衣青年，双目奇异之芒",
         "docId": "plot.xianni-1646-1649-wuxing-star-nine-turn-heart-wheel",
         "seq": 1646
+      },
+      {
+        "value": "身穿青衫的青年",
+        "docId": "plot.xianni-1771-yun-yifeng-fair-duel",
+        "seq": 1680
       }
     ],
     "性格": [
@@ -84,6 +97,11 @@
         "value": "外冷内惊、善于掩饰",
         "docId": "plot.xianni-ch1764-qicai-jie-muyu-liguang-bow",
         "seq": 1675
+      },
+      {
+        "value": "好战狂热、守信君子",
+        "docId": "plot.xianni-1771-yun-yifeng-fair-duel",
+        "seq": 1680
       }
     ],
     "标志特征": [
@@ -121,15 +139,30 @@
         "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
         "seq": 1650
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-1771-yun-yifeng-fair-duel",
+        "seq": 1680
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-1771-yun-yifeng-fair-duel",
+        "seq": 1680
+      }
     ]
   },
   "firstSeq": 1646,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
+      "docId": "plot.xianni-1771-yun-yifeng-fair-duel",
       "dated": false,
-      "seq": 1650
+      "seq": 1680,
+      "note": "限洞府核心之地内，自本章战败起"
     },
     "称号": {
       "asOf": null,
@@ -139,9 +172,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-1646-1649-wuxing-star-nine-turn-heart-wheel",
+      "docId": "plot.xianni-1771-yun-yifeng-fair-duel",
       "dated": false,
-      "seq": 1646
+      "seq": 1680
     },
     "性格": {
       "asOf": null,
@@ -166,6 +199,18 @@
       "docId": "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
       "dated": false,
       "seq": 1650
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-1771-yun-yifeng-fair-duel",
+      "dated": false,
+      "seq": 1680
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-1771-yun-yifeng-fair-duel",
+      "dated": false,
+      "seq": 1680
     }
   },
   "contested": false,
@@ -174,7 +219,8 @@
     "plot.xianni-1646-1649-wuxing-star-nine-turn-heart-wheel",
     "plot.xianni-1740-shuangxing-kai-guiyi-zong-whip-duel",
     "plot.xianni-1750-cave-mansion-core-opens",
-    "plot.xianni-ch1764-qicai-jie-muyu-liguang-bow"
+    "plot.xianni-ch1764-qicai-jie-muyu-liguang-bow",
+    "plot.xianni-1771-yun-yifeng-fair-duel"
   ],
-  "updatedAt": "2026-08-30T06:42:16.265Z"
+  "updatedAt": "2026-08-30T07:01:17.159Z"
 }
