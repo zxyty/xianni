@@ -2,12 +2,17 @@
   "id": "ent.person.x-9c297590",
   "type": "person",
   "name": "竹林天尊",
-  "aliases": [],
+  "aliases": [
+    "那远处的竹林天尊"
+  ],
   "summary": "黑衣长发中年男子，本章闯过天尊涅之地第七层，冲第八层两度失败；近千年跟随久帝大天尊。",
   "attributes": {
     "身份": "天尊修士",
     "外貌": "黑衣、一头长发飘动",
-    "性格": "失败后神色阴沉、不理四周"
+    "性格": "失败后神色阴沉、不理四周",
+    "称号": "天尊",
+    "种族": "仙族",
+    "阵营": "仙族天尊"
   },
   "observations": {
     "身份": [
@@ -30,6 +35,27 @@
         "docId": "plot.xianni-ch1927-tianzun-nie-di-first-palace",
         "seq": 1834
       }
+    ],
+    "称号": [
+      {
+        "value": "天尊",
+        "docId": "plot.xianni-1928-tianzun-nie-zhi-di-chuang-si-ceng",
+        "seq": 1839
+      }
+    ],
+    "种族": [
+      {
+        "value": "仙族",
+        "docId": "plot.xianni-1928-tianzun-nie-zhi-di-chuang-si-ceng",
+        "seq": 1839
+      }
+    ],
+    "阵营": [
+      {
+        "value": "仙族天尊",
+        "docId": "plot.xianni-1928-tianzun-nie-zhi-di-chuang-si-ceng",
+        "seq": 1839
+      }
     ]
   },
   "firstSeq": 1834,
@@ -51,12 +77,31 @@
       "docId": "plot.xianni-ch1927-tianzun-nie-di-first-palace",
       "dated": false,
       "seq": 1834
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-1928-tianzun-nie-zhi-di-chuang-si-ceng",
+      "dated": false,
+      "seq": 1839
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.xianni-1928-tianzun-nie-zhi-di-chuang-si-ceng",
+      "dated": false,
+      "seq": 1839
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-1928-tianzun-nie-zhi-di-chuang-si-ceng",
+      "dated": false,
+      "seq": 1839
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1927-tianzun-nie-di-first-palace"
+    "plot.xianni-ch1927-tianzun-nie-di-first-palace",
+    "plot.xianni-1928-tianzun-nie-zhi-di-chuang-si-ceng"
   ],
-  "updatedAt": "2026-08-30T17:16:20.612Z"
+  "updatedAt": "2026-08-30T17:18:11.321Z"
 }

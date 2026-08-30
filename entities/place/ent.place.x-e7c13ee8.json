@@ -5,14 +5,15 @@
   "aliases": [
     "山海",
     "山海洲大陆",
-    "内陆海山海"
+    "内陆海山海",
+    "山海之地"
   ],
   "summary": "南州辖下之洲，王林在此败于海子天尊并潜伏三年；其底部封印着山海树，整洲封印皆赖此树。",
   "attributes": {
     "上级区域": "南州、山海洲",
-    "类型": "洲、内陆海",
+    "类型": "洲、内陆海、地域",
     "守护": "海子天尊",
-    "特产": "山海树木本源、海底山海树",
+    "特产": "山海树木本源、海底山海树、山海树",
     "规模": "山海占近七成、陆地三成"
   },
   "observations": {
@@ -38,6 +39,11 @@
         "value": "内陆海",
         "docId": "plot.xianni-ch1927-tianzun-nie-di-first-palace",
         "seq": 1834
+      },
+      {
+        "value": "地域",
+        "docId": "plot.xianni-1928-tianzun-nie-zhi-di-chuang-si-ceng",
+        "seq": 1839
       }
     ],
     "守护": [
@@ -57,6 +63,11 @@
         "value": "海底山海树",
         "docId": "plot.xianni-ch1927-tianzun-nie-di-first-palace",
         "seq": 1834
+      },
+      {
+        "value": "山海树",
+        "docId": "plot.xianni-1928-tianzun-nie-zhi-di-chuang-si-ceng",
+        "seq": 1839
       }
     ],
     "规模": [
@@ -104,7 +115,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1926-fifty-years-white-haired-tianzun",
-    "plot.xianni-ch1927-tianzun-nie-di-first-palace"
+    "plot.xianni-ch1927-tianzun-nie-di-first-palace",
+    "plot.xianni-1928-tianzun-nie-zhi-di-chuang-si-ceng"
   ],
-  "updatedAt": "2026-08-30T17:16:20.626Z"
+  "updatedAt": "2026-08-30T17:18:11.324Z"
 }
