@@ -1091,3 +1091,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T07:19:12.860Z** `ingest` plot.xianni-1778-daogu-wuxian — 第1778章 道古无仙——王林施展烨寞绝学石化古之墓地，战老鬼遁走 · kind=plot asOf=2026-08-30 entities=30 relations=37 src=01685-01689.p5.md
 - **2026-08-30T07:33:04.725Z** `ingest` plot.xianni-1690-1694-fifth-flower-memory-world-xiangang — 仙逆 第1690-1694章：第五花记忆世界，王林化身少年苏道立威 · kind=plot asOf=2026-08-30 entities=49 relations=96 src=01690-01694.md
 - **2026-08-30T07:52:43.858Z** `ingest` plot.xianni-ch1695-1699-dongling-pool-eight-source-bodies-cave-gate — 仙逆 第1695-1699章：东临池鱼龙变、八本源真身与洞府大门开启 · kind=plot asOf=2026-08-30 entities=69 relations=130 src=01695-01699.md
+- **2026-08-30T08:09:06.251Z** `ingest` plot.xianni-1789-libie-zhi-se — 仙逆 第1789章 离别之涩：洞府界众人抉择去留 · kind=plot asOf=2026-08-30 entities=28 relations=39 src=01700-01704.p1.md
