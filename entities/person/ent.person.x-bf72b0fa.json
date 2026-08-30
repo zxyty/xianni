@@ -5,16 +5,19 @@
   "aliases": [
     "第九先祖",
     "大魂门第九先祖",
-    "第九先祖罗云海"
+    "第九先祖罗云海",
+    "大魂门罗云海"
   ],
   "summary": "大魂门第九先祖，杀戮一生、拘禁十亿道魂的绝代强者，巅峰时挑战道一大天尊失败被灭杀，魂归宗门，本章被炎栾以魂幻归召来化作血煞身影。",
   "attributes": {
-    "称号": "第九先祖",
+    "称号": "跃天尊",
     "存殁": "死亡",
-    "死因": "挑战道一大天尊失败被其灭杀",
+    "死因": "被道一大天尊灭杀（因与道一之间不为外人所知的因果）",
     "外貌": "自血路漩涡走出的血色身影，每步落下天地巨响",
     "身份": "大魂门第九先祖英魂",
-    "阵营": "大魂门"
+    "阵营": "大魂门",
+    "性格": "桀骜不驯",
+    "结局": "魂被留下，归于大魂门"
   },
   "observations": {
     "称号": [
@@ -22,6 +25,11 @@
         "value": "第九先祖",
         "docId": "plot.xianni-1829-tianniu-death-soul",
         "seq": 1740
+      },
+      {
+        "value": "跃天尊",
+        "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
+        "seq": 1819
       }
     ],
     "存殁": [
@@ -37,6 +45,11 @@
         "value": "挑战道一大天尊失败被其灭杀",
         "docId": "plot.xianni-1829-tianniu-death-soul",
         "seq": 1740
+      },
+      {
+        "value": "被道一大天尊灭杀（因与道一之间不为外人所知的因果）",
+        "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
+        "seq": 1819
       }
     ],
     "外貌": [
@@ -70,15 +83,30 @@
         "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
         "seq": 1745
       }
+    ],
+    "性格": [
+      {
+        "value": "桀骜不驯",
+        "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
+        "seq": 1819
+      }
+    ],
+    "结局": [
+      {
+        "value": "魂被留下，归于大魂门",
+        "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
+        "seq": 1819,
+        "note": "道一惜其才"
+      }
     ]
   },
   "firstSeq": 1740,
   "attrProvenance": {
     "称号": {
       "asOf": null,
-      "docId": "plot.xianni-1829-tianniu-death-soul",
+      "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
       "dated": false,
-      "seq": 1740
+      "seq": 1819
     },
     "存殁": {
       "asOf": null,
@@ -89,9 +117,9 @@
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.xianni-1829-tianniu-death-soul",
+      "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
       "dated": false,
-      "seq": 1740
+      "seq": 1819
     },
     "外貌": {
       "asOf": null,
@@ -110,6 +138,19 @@
       "docId": "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
       "dated": false,
       "seq": 1745
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
+      "dated": false,
+      "seq": 1819
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
+      "dated": false,
+      "seq": 1819,
+      "note": "道一惜其才"
     }
   },
   "contested": false,
@@ -118,7 +159,8 @@
     "plot.xianni-1829-tianniu-death-soul",
     "plot.xianni-ch1835-zaidu-yici-cangjunge-diqiceng-yu-di-badu",
     "plot.xianni-1765-1769-lv-wenran-tianniu-third-cave",
-    "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie"
+    "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+    "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege"
   ],
-  "updatedAt": "2026-08-30T12:50:55.658Z"
+  "updatedAt": "2026-08-30T15:34:44.953Z"
 }

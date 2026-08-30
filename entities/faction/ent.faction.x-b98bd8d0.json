@@ -11,16 +11,17 @@
     "道魇宗",
     "道魔宗一宗",
     "道魔宗宗门",
-    "道魔一门"
+    "道魔一门",
+    "Dao Mo Sect"
   ],
   "summary": "绿魔洲联合三宗之一，面白如玉的青年出自此宗，自言要展示「道魔宗的魔道」。",
   "attributes": {
     "阵营": "王林死敌",
     "掌门": "道魔宗宗主",
-    "据点": "绿魔洲",
-    "理念": "以重利招揽散修参战、道魔大手印只传历代宗主，绝不外传、以人头为‘大礼’的阴毒作风、不惜灭门代价必杀王林、道与魔并存、道魔",
-    "镇派之宝": "道魔大手印",
-    "等级": "九宗十三门之一",
+    "据点": "绿魔洲西北部沼泽之中",
+    "理念": "以重利招揽散修参战、道魔大手印只传历代宗主，绝不外传、以人头为‘大礼’的阴毒作风、不惜灭门代价必杀王林、道与魔并存、道魔、绿魔洲内占据最主导位置",
+    "镇派之宝": "道魔迷雾大阵",
+    "等级": "东州九宗十三门之一",
     "所属界面": "仙罡大陆"
   },
   "observations": {
@@ -68,6 +69,11 @@
         "value": "绿魔洲",
         "docId": "plot.xianni-1890-daomo-sect-master-captures-wang-lin",
         "seq": 1800
+      },
+      {
+        "value": "绿魔洲西北部沼泽之中",
+        "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
+        "seq": 1819
       }
     ],
     "理念": [
@@ -102,6 +108,12 @@
         "value": "道魔",
         "docId": "plot.xianni-ch1891-jie-lei-mo-shen",
         "seq": 1800
+      },
+      {
+        "value": "绿魔洲内占据最主导位置",
+        "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
+        "seq": 1819,
+        "note": "因天尊老祖之威名"
       }
     ],
     "镇派之宝": [
@@ -109,6 +121,11 @@
         "value": "道魔大手印",
         "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
         "seq": 1785
+      },
+      {
+        "value": "道魔迷雾大阵",
+        "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
+        "seq": 1819
       }
     ],
     "等级": [
@@ -121,6 +138,11 @@
         "value": "九宗十三门之一",
         "docId": "plot.xianni-1889-daomo-zongzhu-breakout",
         "seq": 1800
+      },
+      {
+        "value": "东州九宗十三门之一",
+        "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
+        "seq": 1819
       }
     ],
     "所属界面": [
@@ -157,9 +179,9 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.xianni-1890-daomo-sect-master-captures-wang-lin",
+      "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
       "dated": false,
-      "seq": 1800
+      "seq": 1819
     },
     "理念": {
       "asOf": null,
@@ -169,15 +191,15 @@
     },
     "镇派之宝": {
       "asOf": null,
-      "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
+      "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
       "dated": false,
-      "seq": 1785
+      "seq": 1819
     },
     "等级": {
       "asOf": null,
-      "docId": "plot.xianni-1889-daomo-zongzhu-breakout",
+      "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
       "dated": false,
-      "seq": 1800
+      "seq": 1819
     },
     "所属界面": {
       "asOf": null,
@@ -202,7 +224,8 @@
     "plot.xianni-1901-thunder-source-true-body-slaughter-lightning",
     "plot.xianni-1902-loutai-guan-xuanjie",
     "plot.xianni-ch1907-tianni-great-gate",
-    "plot.xianni-1908-tianni-tower-missing-one"
+    "plot.xianni-1908-tianni-tower-missing-one",
+    "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege"
   ],
-  "updatedAt": "2026-08-30T15:31:56.498Z"
+  "updatedAt": "2026-08-30T15:34:44.942Z"
 }

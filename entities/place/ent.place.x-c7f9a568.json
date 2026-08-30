@@ -5,7 +5,8 @@
   "aliases": [
     "仙罡大陆东州",
     "East Continent",
-    "东州地域"
+    "东州地域",
+    "东州之地"
   ],
   "summary": "仙罡大陆的一州，下辖包含天牛洲在内的多个内洲，有'九宗十三门'与'四大天骄'之说。",
   "attributes": {
@@ -13,7 +14,8 @@
     "类型": "州、洲、大区域、巨大地域、州域",
     "上级区域": "仙罡大陆",
     "方位": "仙罡大陆东部",
-    "规模": "极大"
+    "规模": "庞大土地",
+    "所属势力": "九宗十三门"
   },
   "observations": {
     "所属界面": [
@@ -69,6 +71,18 @@
         "value": "极大",
         "docId": "plot.xianni-ch1841-jitian-grassland-slaughter-danhai-water-origin",
         "seq": 1750
+      },
+      {
+        "value": "庞大土地",
+        "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
+        "seq": 1819
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "九宗十三门",
+        "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
+        "seq": 1819
       }
     ]
   },
@@ -100,9 +114,15 @@
     },
     "规模": {
       "asOf": null,
-      "docId": "plot.xianni-ch1841-jitian-grassland-slaughter-danhai-water-origin",
+      "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
       "dated": false,
-      "seq": 1750
+      "seq": 1819
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
+      "dated": false,
+      "seq": 1819
     }
   },
   "contested": false,
@@ -116,7 +136,8 @@
     "plot.xianni-ch1845-dongzhou-tianjiao-yunkong",
     "plot.xianni-1849-danhai-immortal-pill",
     "plot.xianni-1886-compensation-rewards-from-tianniu-continent",
-    "plot.xianni-1901-thunder-source-true-body-slaughter-lightning"
+    "plot.xianni-1901-thunder-source-true-body-slaughter-lightning",
+    "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege"
   ],
-  "updatedAt": "2026-08-30T15:16:39.771Z"
+  "updatedAt": "2026-08-30T15:34:45.011Z"
 }

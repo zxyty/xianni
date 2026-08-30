@@ -10,14 +10,15 @@
   ],
   "summary": "绿魔洲道魔宗之主，多年封闭神识始终闭关；与刘之源关系匪浅，绿魔洲众人极度忌惮其得知刘之源死讯后的暴怒。",
   "attributes": {
-    "身份": "道魔宗宗主",
+    "身份": "闭关冲击天尊",
     "阵营": "绿魔洲、道魔宗、绿魔洲·绿魔蝎一方、与祭祀老者/绿魔蝎一方有约",
     "性别": "男",
     "小阶段": "空劫后期巅峰",
     "性格": "冷酷、刻薄寡恩、平静蔑视",
     "外貌": "黑白道袍、身影挺拔、相貌英俊、双唇略薄、双眼略有疲惫",
     "存殁": "存活",
-    "标志特征": "拥有与王林不同的雷本源"
+    "标志特征": "拥有与王林不同的雷本源",
+    "称号": "金尊"
   },
   "observations": {
     "身份": [
@@ -25,6 +26,12 @@
         "value": "道魔宗宗主",
         "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
         "seq": 1770
+      },
+      {
+        "value": "闭关冲击天尊",
+        "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
+        "seq": 1819,
+        "note": "一百多年前起，本章未出现"
       }
     ],
     "阵营": [
@@ -96,15 +103,23 @@
         "docId": "plot.xianni-1901-thunder-source-true-body-slaughter-lightning",
         "seq": 1810
       }
+    ],
+    "称号": [
+      {
+        "value": "金尊",
+        "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
+        "seq": 1819
+      }
     ]
   },
   "firstSeq": 1770,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+      "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
       "dated": false,
-      "seq": 1770
+      "seq": 1819,
+      "note": "一百多年前起，本章未出现"
     },
     "阵营": {
       "asOf": null,
@@ -147,6 +162,12 @@
       "docId": "plot.xianni-1901-thunder-source-true-body-slaughter-lightning",
       "dated": false,
       "seq": 1810
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege",
+      "dated": false,
+      "seq": 1819
     }
   },
   "contested": false,
@@ -161,7 +182,8 @@
     "plot.xianni-1894-yue-yue-shi-tan-lv-mo-xie-miao",
     "plot.xianni-ch1898-green-demon-scorpion-soul-devour-failed-possession",
     "plot.xianni-1901-thunder-source-true-body-slaughter-lightning",
-    "plot.xianni-1902-loutai-guan-xuanjie"
+    "plot.xianni-1902-loutai-guan-xuanjie",
+    "lore.xianni-ch1909-jin-tian-yue-zun-tiers-and-daomo-sect-siege"
   ],
-  "updatedAt": "2026-08-30T15:19:17.893Z"
+  "updatedAt": "2026-08-30T15:34:44.944Z"
 }
