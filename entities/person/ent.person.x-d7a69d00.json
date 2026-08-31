@@ -18,7 +18,8 @@
     "道古皇尊大人",
     "古族皇尊",
     "朕（自称）",
-    "道古皇尊之子"
+    "道古皇尊之子",
+    "道古皇尊陛下"
   ],
   "summary": "道古一脉皇尊，玄罗大天尊之侄辈（称其为族叔），当年获六滴苍穹血而成皇尊；目睹王林连获十滴，嫉妒近乎崩溃，却笑里藏刀地当面道贺。",
   "attributes": {
@@ -31,7 +32,9 @@
     "性别": "男",
     "道号": "烨道",
     "出身地": "古族",
-    "存殁": "存活"
+    "存殁": "死亡",
+    "死因": "被王林借古祖虚影一指射出银线穿心，头颅爆裂、身体瓦解、灵魂被抹去",
+    "结局": "在自家皇宫、族人众目睽睽下彻底身死道消"
   },
   "observations": {
     "身份": [
@@ -315,6 +318,25 @@
         "value": "存活",
         "docId": "plot.xianni-2030-chongguan-yinu-9-daogu-huangzun-refuses-ransom",
         "seq": 1939
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-ch2033-huangzun-zhi-si",
+        "seq": 1944
+      }
+    ],
+    "死因": [
+      {
+        "value": "被王林借古祖虚影一指射出银线穿心，头颅爆裂、身体瓦解、灵魂被抹去",
+        "docId": "plot.xianni-ch2033-huangzun-zhi-si",
+        "seq": 1944
+      }
+    ],
+    "结局": [
+      {
+        "value": "在自家皇宫、族人众目睽睽下彻底身死道消",
+        "docId": "plot.xianni-ch2033-huangzun-zhi-si",
+        "seq": 1944
       }
     ]
   },
@@ -376,9 +398,21 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-2030-chongguan-yinu-9-daogu-huangzun-refuses-ransom",
+      "docId": "plot.xianni-ch2033-huangzun-zhi-si",
       "dated": false,
-      "seq": 1939
+      "seq": 1944
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2033-huangzun-zhi-si",
+      "dated": false,
+      "seq": 1944
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2033-huangzun-zhi-si",
+      "dated": false,
+      "seq": 1944
     }
   },
   "contested": false,
@@ -409,7 +443,8 @@
     "plot.xianni-2029-chongguan-yinu-8-huanhun-fuhuo-yu-zishuo",
     "plot.xianni-2030-chongguan-yinu-9-daogu-huangzun-refuses-ransom",
     "plot.xianni-2031-chongguan-yinu-10-wang-lin-self-destruct-sever-master-bond",
-    "plot.xianni-2032-chongguan-yinu-end-limuwan-awaken"
+    "plot.xianni-2032-chongguan-yinu-end-limuwan-awaken",
+    "plot.xianni-ch2033-huangzun-zhi-si"
   ],
-  "updatedAt": "2026-08-31T00:53:43.950Z"
+  "updatedAt": "2026-08-31T00:57:32.934Z"
 }
