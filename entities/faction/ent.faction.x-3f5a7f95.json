@@ -3,12 +3,15 @@
   "type": "faction",
   "name": "赤魂教",
   "aliases": [
-    "Chihun Sect"
+    "Chihun Sect",
+    "Chi Hun Jiao",
+    "赤魂一教"
   ],
   "summary": "本章围攻新仙界的势力，其血色笼罩仙界之天、内藏无数狰狞冤魂虚影；限期五日逼新仙界修士归顺，否则处死。",
   "attributes": {
-    "阵营": "敌对（围攻新仙界）",
-    "理念": "限期逼降，不从者死"
+    "阵营": "敌对（围攻新仙界）、敌对仙界",
+    "理念": "限期逼降，不从者死、以血光侵蚀、吞噬精血壮大修为",
+    "掌门": "赤魂子"
   },
   "observations": {
     "阵营": [
@@ -16,12 +19,29 @@
         "value": "敌对（围攻新仙界）",
         "docId": "plot.xianni-2073-dongfu-realm-return-and-chihun-sect-crisis",
         "seq": 1982
+      },
+      {
+        "value": "敌对仙界",
+        "docId": "plot.xianni-2074-chi-hun-zi-siege-immortal-realm-wang-lin-returns",
+        "seq": 1982
       }
     ],
     "理念": [
       {
         "value": "限期逼降，不从者死",
         "docId": "plot.xianni-2073-dongfu-realm-return-and-chihun-sect-crisis",
+        "seq": 1982
+      },
+      {
+        "value": "以血光侵蚀、吞噬精血壮大修为",
+        "docId": "plot.xianni-2074-chi-hun-zi-siege-immortal-realm-wang-lin-returns",
+        "seq": 1982
+      }
+    ],
+    "掌门": [
+      {
+        "value": "赤魂子",
+        "docId": "plot.xianni-2074-chi-hun-zi-siege-immortal-realm-wang-lin-returns",
         "seq": 1982
       }
     ]
@@ -39,12 +59,19 @@
       "docId": "plot.xianni-2073-dongfu-realm-return-and-chihun-sect-crisis",
       "dated": false,
       "seq": 1982
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.xianni-2074-chi-hun-zi-siege-immortal-realm-wang-lin-returns",
+      "dated": false,
+      "seq": 1982
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-2073-dongfu-realm-return-and-chihun-sect-crisis"
+    "plot.xianni-2073-dongfu-realm-return-and-chihun-sect-crisis",
+    "plot.xianni-2074-chi-hun-zi-siege-immortal-realm-wang-lin-returns"
   ],
-  "updatedAt": "2026-08-31T02:50:49.359Z"
+  "updatedAt": "2026-08-31T02:53:30.662Z"
 }
