@@ -1264,3 +1264,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-31T00:41:48.700Z** `ingest` plot.xianni-2027-chongguan-yinu-6-daogu-palace-massacre — 仙逆 第2027章 冲冠一怒！（六）——大天尊之阳轰皇宫，玄罗叹息临世 · kind=plot asOf=2026-08-31 entities=28 relations=40 src=01939-01943.p1.md
 - **2026-08-31T00:44:42.724Z** `ingest` plot.xianni-2028-chongguan-yinu-7-xuanluo-arrival-and-seven-color-figure — 第2028章 冲冠一怒（七）：七彩身影的死气大阵与玄罗降临皇宫 · kind=plot asOf=2026-08-31 entities=23 relations=41 src=01939-01943.p2.md
 - **2026-08-31T00:47:09.740Z** `ingest` plot.xianni-2029-chongguan-yinu-8-huanhun-fuhuo-yu-zishuo — 第2029章 冲冠一怒（八）：魂血复活数万道古族人，道古皇尊以紫印祖诀同神锁挟持宋致 · kind=plot asOf=2026-08-31 entities=18 relations=28 src=01939-01943.p3.md
+- **2026-08-31T00:49:19.345Z** `ingest` plot.xianni-2030-chongguan-yinu-9-daogu-huangzun-refuses-ransom — 第2030章 冲冠一怒（九）：王林以仙皇之魂与仙祖头颅赎妻残魂，跪拜玄罗 · kind=plot asOf=2026-08-31 entities=19 relations=31 src=01939-01943.p4.md
