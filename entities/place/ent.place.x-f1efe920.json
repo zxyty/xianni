@@ -9,16 +9,17 @@
     "道古皇城皇宫",
     "道古天空城",
     "道古皇城天空之城",
-    "Dao Gu Imperial City"
+    "Dao Gu Imperial City",
+    "道古一族京都"
   ],
   "summary": "王林此行目的地，道古一脉核心之城，王林拿它与仙族祖城相较。",
   "attributes": {
-    "所属势力": "道古一脉、道古",
-    "类型": "皇城、漂浮天空之城／皇城、城池、都城/天空城、皇城／天空之城",
+    "所属势力": "道古一脉、道古、道古一族",
+    "类型": "皇城、漂浮天空之城／皇城、城池、都城/天空城、皇城／天空之城、皇城/京都",
     "所属界面": "仙族大陆",
-    "方位": "仙族大陆西南·道吉十二郡",
-    "危险度": "极高（禁制防护，唯仙罡九阳可无视）",
-    "守护": "道古皇尊",
+    "方位": "漂浮半空",
+    "危险度": "极高",
+    "守护": "环绕旋转碎石构成的严密禁制、道古皇尊、皇宫侍卫近万、一百零八禁、神识禁制",
     "特产": "吉祖雕像、临时坊市与拍卖之地",
     "规模": "三脉族人极多，灯火通明"
   },
@@ -33,6 +34,11 @@
         "value": "道古",
         "docId": "plot.xianni-2003-daogu-mission-black-stone-city",
         "seq": 1914
+      },
+      {
+        "value": "道古一族",
+        "docId": "plot.xianni-2025-chongguan-yinu-4-wanglin-storms-daogu-palace",
+        "seq": 1934
       }
     ],
     "类型": [
@@ -60,6 +66,11 @@
         "value": "皇城／天空之城",
         "docId": "plot.xianni-2024-chongguan-yinu-3-wanglin-rage-kill-yedao",
         "seq": 1934
+      },
+      {
+        "value": "皇城/京都",
+        "docId": "plot.xianni-2025-chongguan-yinu-4-wanglin-storms-daogu-palace",
+        "seq": 1934
       }
     ],
     "所属界面": [
@@ -74,6 +85,11 @@
         "value": "仙族大陆西南·道吉十二郡",
         "docId": "plot.xianni-2008-daogu-huangcheng-luxiang-yibai",
         "seq": 1919
+      },
+      {
+        "value": "漂浮半空",
+        "docId": "plot.xianni-2025-chongguan-yinu-4-wanglin-storms-daogu-palace",
+        "seq": 1934
       }
     ],
     "危险度": [
@@ -81,6 +97,11 @@
         "value": "极高（禁制防护，唯仙罡九阳可无视）",
         "docId": "plot.xianni-2008-daogu-huangcheng-luxiang-yibai",
         "seq": 1919
+      },
+      {
+        "value": "极高",
+        "docId": "plot.xianni-2025-chongguan-yinu-4-wanglin-storms-daogu-palace",
+        "seq": 1934
       }
     ],
     "守护": [
@@ -92,6 +113,21 @@
       {
         "value": "道古皇尊",
         "docId": "plot.xianni-ch2023-chongguan-yi-nu-2",
+        "seq": 1934
+      },
+      {
+        "value": "皇宫侍卫近万",
+        "docId": "plot.xianni-2025-chongguan-yinu-4-wanglin-storms-daogu-palace",
+        "seq": 1934
+      },
+      {
+        "value": "一百零八禁",
+        "docId": "plot.xianni-2025-chongguan-yinu-4-wanglin-storms-daogu-palace",
+        "seq": 1934
+      },
+      {
+        "value": "神识禁制",
+        "docId": "plot.xianni-2025-chongguan-yinu-4-wanglin-storms-daogu-palace",
         "seq": 1934
       }
     ],
@@ -138,21 +174,21 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-2008-daogu-huangcheng-luxiang-yibai",
+      "docId": "plot.xianni-2025-chongguan-yinu-4-wanglin-storms-daogu-palace",
       "dated": false,
-      "seq": 1919
+      "seq": 1934
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-2008-daogu-huangcheng-luxiang-yibai",
+      "docId": "plot.xianni-2025-chongguan-yinu-4-wanglin-storms-daogu-palace",
       "dated": false,
-      "seq": 1919
+      "seq": 1934
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch2023-chongguan-yi-nu-2",
+      "docId": "plot.xianni-2008-daogu-huangcheng-luxiang-yibai",
       "dated": false,
-      "seq": 1934
+      "seq": 1919
     },
     "特产": {
       "asOf": null,
@@ -183,7 +219,8 @@
     "plot.xianni-ch2018-jizu-yizhi",
     "plot.xianni-ch2019-feng-qi-dao-gu",
     "plot.xianni-ch2023-chongguan-yi-nu-2",
-    "plot.xianni-2024-chongguan-yinu-3-wanglin-rage-kill-yedao"
+    "plot.xianni-2024-chongguan-yinu-3-wanglin-rage-kill-yedao",
+    "plot.xianni-2025-chongguan-yinu-4-wanglin-storms-daogu-palace"
   ],
-  "updatedAt": "2026-08-31T00:35:13.210Z"
+  "updatedAt": "2026-08-31T00:37:17.216Z"
 }

@@ -5,13 +5,17 @@
   "aliases": [
     "一百零八禁",
     "百零八禁",
-    "道古禁"
+    "道古禁",
+    "禁卫",
+    "一百零八禁卫"
   ],
   "summary": "道古一族五等武力中的「禁」，共一百零八人，白色铠甲，传闻人人杀戮滔天、满身煞气，故封为禁。",
   "attributes": {
     "等级": "道古五等之「禁」",
-    "阵营": "道古一脉、道古一族",
-    "理念": "杀戮滔天、满身煞气者方可封禁"
+    "阵营": "道古一脉、道古一族、道古皇尊直属",
+    "理念": "杀戮滔天、满身煞气者方可封禁",
+    "据点": "道古皇宫",
+    "所属界面": "古族大地"
   },
   "observations": {
     "等级": [
@@ -31,6 +35,11 @@
         "value": "道古一族",
         "docId": "plot.xianni-2021-momo-huishou-daogu-huanggong-yeyan",
         "seq": 1929
+      },
+      {
+        "value": "道古皇尊直属",
+        "docId": "plot.xianni-2025-chongguan-yinu-4-wanglin-storms-daogu-palace",
+        "seq": 1934
       }
     ],
     "理念": [
@@ -38,6 +47,20 @@
         "value": "杀戮滔天、满身煞气者方可封禁",
         "docId": "plot.xianni-2020-daogu-tongming-night-banquet",
         "seq": 1929
+      }
+    ],
+    "据点": [
+      {
+        "value": "道古皇宫",
+        "docId": "plot.xianni-2025-chongguan-yinu-4-wanglin-storms-daogu-palace",
+        "seq": 1934
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "古族大地",
+        "docId": "plot.xianni-2025-chongguan-yinu-4-wanglin-storms-daogu-palace",
+        "seq": 1934
       }
     ]
   },
@@ -60,13 +83,26 @@
       "docId": "plot.xianni-2020-daogu-tongming-night-banquet",
       "dated": false,
       "seq": 1929
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.xianni-2025-chongguan-yinu-4-wanglin-storms-daogu-palace",
+      "dated": false,
+      "seq": 1934
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-2025-chongguan-yinu-4-wanglin-storms-daogu-palace",
+      "dated": false,
+      "seq": 1934
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-2020-daogu-tongming-night-banquet",
-    "plot.xianni-2021-momo-huishou-daogu-huanggong-yeyan"
+    "plot.xianni-2021-momo-huishou-daogu-huanggong-yeyan",
+    "plot.xianni-2025-chongguan-yinu-4-wanglin-storms-daogu-palace"
   ],
-  "updatedAt": "2026-08-31T00:28:51.648Z"
+  "updatedAt": "2026-08-31T00:37:17.213Z"
 }
