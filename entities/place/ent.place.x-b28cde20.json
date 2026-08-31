@@ -9,8 +9,9 @@
   "attributes": {
     "所属势力": "道古一脉",
     "规模": "城外另有近千个巨大平台",
-    "守护": "玄罗大天尊",
-    "类型": "浮空城"
+    "守护": "天空之城大阵",
+    "类型": "浮空城",
+    "特产": "数百处传送阵"
   },
   "observations": {
     "所属势力": [
@@ -42,6 +43,11 @@
         "value": "玄罗大天尊",
         "docId": "plot.xianni-ch1710-yi-lv-hun",
         "seq": 1616
+      },
+      {
+        "value": "天空之城大阵",
+        "docId": "plot.xianni-ch2026-chongguan-yinu-5-wanglin-storms-daogu-palace",
+        "seq": 1934
       }
     ],
     "类型": [
@@ -54,6 +60,13 @@
         "value": "浮空城",
         "docId": "plot.xianni-2020-daogu-tongming-night-banquet",
         "seq": 1929
+      }
+    ],
+    "特产": [
+      {
+        "value": "数百处传送阵",
+        "docId": "plot.xianni-ch2026-chongguan-yinu-5-wanglin-storms-daogu-palace",
+        "seq": 1934
       }
     ]
   },
@@ -73,15 +86,21 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch1710-yi-lv-hun",
+      "docId": "plot.xianni-ch2026-chongguan-yinu-5-wanglin-storms-daogu-palace",
       "dated": false,
-      "seq": 1616
+      "seq": 1934
     },
     "类型": {
       "asOf": null,
       "docId": "plot.xianni-2020-daogu-tongming-night-banquet",
       "dated": false,
       "seq": 1929
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2026-chongguan-yinu-5-wanglin-storms-daogu-palace",
+      "dated": false,
+      "seq": 1934
     }
   },
   "contested": false,
@@ -89,7 +108,8 @@
   "docs": [
     "plot.xianni-ch1710-yi-lv-hun",
     "plot.xianni-ch2009-yi-bei-re-cha-nuan-ru-jia",
-    "plot.xianni-2020-daogu-tongming-night-banquet"
+    "plot.xianni-2020-daogu-tongming-night-banquet",
+    "plot.xianni-ch2026-chongguan-yinu-5-wanglin-storms-daogu-palace"
   ],
-  "updatedAt": "2026-08-31T00:26:31.684Z"
+  "updatedAt": "2026-08-31T00:39:02.090Z"
 }

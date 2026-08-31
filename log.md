@@ -1260,3 +1260,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-31T00:33:21.936Z** `ingest` plot.xianni-ch2023-chongguan-yi-nu-2 — 第2023章 冲冠一怒！（二）——王林推衍玉简，惊觉道古皇尊夺李慕婉残魂 · kind=plot asOf=2026-08-31 entities=20 relations=28 src=01934-01938.p2.md
 - **2026-08-31T00:35:13.879Z** `ingest` plot.xianni-2024-chongguan-yinu-3-wanglin-rage-kill-yedao — 第2024章 冲冠一怒（三）：王林嘶吼震道古皇城，破阵杀向皇宫 · kind=plot asOf=2026-08-31 entities=18 relations=22 src=01934-01938.p3.md
 - **2026-08-31T00:37:17.816Z** `ingest` plot.xianni-2025-chongguan-yinu-4-wanglin-storms-daogu-palace — 第2025章 冲冠一怒！（四）——王林血洗道古皇宫，弑皇之声传遍大典 · kind=plot asOf=2026-08-31 entities=15 relations=21 src=01934-01938.p4.md
+- **2026-08-31T00:39:02.650Z** `ingest` plot.xianni-ch2026-chongguan-yinu-5-wanglin-storms-daogu-palace — 第2026章 冲冠一怒（五）：王林血洗道古皇宫，索要皇后宋致 · kind=plot asOf=2026-08-31 entities=15 relations=19 src=01934-01938.p5.md
