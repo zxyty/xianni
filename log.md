@@ -1248,3 +1248,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-31T00:05:01.617Z** `ingest` plot.xianni-ch2011-gudao-mountain-bell — 第2011章 古道山顶铃声彻：一年半本源游历与求见古道大天尊 · kind=plot asOf=2026-08-31 entities=28 relations=40 src=01919-01923.p5.md
 - **2026-08-31T00:07:29.403Z** `ingest` plot.xianni-ch2012-gudao-mountain-three-hundred-steps — 第2012章 山台一步断绝然！——王林抗铃音、踏古道山台阶 · kind=plot asOf=2026-08-31 entities=23 relations=31 src=01924-01928.p1.md
 - **2026-08-31T00:09:47.823Z** `ingest` plot.xianni-2013-she-is-who-song-zhi-fusion-wang-lin-hundred-steps — 第2013章 他，是谁…（宋致融魂记忆错乱／王林登古道山第百阶） · kind=plot asOf=2026-08-31 entities=16 relations=27 src=01924-01928.p2.md
+- **2026-08-31T00:12:20.180Z** `ingest` plot.xianni-ch2014-gudao-mountain-999-steps-trial — 第2014章 千载难逢：王林登古道山石台二百阶，仙古融合契机 · kind=plot asOf=2026-08-31 entities=23 relations=35 src=01924-01928.p3.md

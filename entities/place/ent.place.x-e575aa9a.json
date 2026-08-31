@@ -10,11 +10,11 @@
   ],
   "summary": "古之三族的交界之地，古道大天尊所在，因其之故被称圣山、圣地；山下有通天石阶，山顶设九层高塔。",
   "attributes": {
-    "类型": "圣山/禁地、圣地／考验之地、试炼／登阶之山",
+    "类型": "圣山/禁地、圣地／考验之地、试炼／登阶之山、试炼禁地/大天尊居所",
     "方位": "古之三族（道古、始古、极古）交界处",
-    "所属势力": "吉族（古族）、古族、吉族／古族",
-    "危险度": "极高，百阶即令王林吐血",
-    "守护": "古道大天尊与四柱灰衣人、古道大天尊、古道大天尊之威压",
+    "所属势力": "吉族（古族）、古族、吉族／古族、古族·道古一脉",
+    "危险度": "极高、极高，百阶即令王林吐血、极高，天尊与跃天尊皆不可登",
+    "守护": "古道大天尊与四柱灰衣人、古道大天尊、古道大天尊之威压、古道大天尊意志、四柱灰衣人",
     "规模": "九百九十九阶石阶"
   },
   "observations": {
@@ -32,6 +32,11 @@
       {
         "value": "试炼／登阶之山",
         "docId": "plot.xianni-2013-she-is-who-song-zhi-fusion-wang-lin-hundred-steps",
+        "seq": 1924
+      },
+      {
+        "value": "试炼禁地/大天尊居所",
+        "docId": "plot.xianni-ch2014-gudao-mountain-999-steps-trial",
         "seq": 1924
       }
     ],
@@ -57,6 +62,11 @@
         "value": "吉族／古族",
         "docId": "plot.xianni-2013-she-is-who-song-zhi-fusion-wang-lin-hundred-steps",
         "seq": 1924
+      },
+      {
+        "value": "古族·道古一脉",
+        "docId": "plot.xianni-ch2014-gudao-mountain-999-steps-trial",
+        "seq": 1924
       }
     ],
     "危险度": [
@@ -69,6 +79,11 @@
       {
         "value": "极高，百阶即令王林吐血",
         "docId": "plot.xianni-2013-she-is-who-song-zhi-fusion-wang-lin-hundred-steps",
+        "seq": 1924
+      },
+      {
+        "value": "极高，天尊与跃天尊皆不可登",
+        "docId": "plot.xianni-ch2014-gudao-mountain-999-steps-trial",
         "seq": 1924
       }
     ],
@@ -86,6 +101,16 @@
       {
         "value": "古道大天尊之威压",
         "docId": "plot.xianni-2013-she-is-who-song-zhi-fusion-wang-lin-hundred-steps",
+        "seq": 1924
+      },
+      {
+        "value": "古道大天尊意志",
+        "docId": "plot.xianni-ch2014-gudao-mountain-999-steps-trial",
+        "seq": 1924
+      },
+      {
+        "value": "四柱灰衣人",
+        "docId": "plot.xianni-ch2014-gudao-mountain-999-steps-trial",
         "seq": 1924
       }
     ],
@@ -119,9 +144,10 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-2013-she-is-who-song-zhi-fusion-wang-lin-hundred-steps",
+      "docId": "plot.xianni-ch2011-gudao-mountain-bell",
       "dated": false,
-      "seq": 1924
+      "seq": 1919,
+      "note": "山顶铃声压制非古族之修为与本源"
     },
     "守护": {
       "asOf": null,
@@ -141,7 +167,8 @@
   "docs": [
     "plot.xianni-ch2011-gudao-mountain-bell",
     "plot.xianni-ch2012-gudao-mountain-three-hundred-steps",
-    "plot.xianni-2013-she-is-who-song-zhi-fusion-wang-lin-hundred-steps"
+    "plot.xianni-2013-she-is-who-song-zhi-fusion-wang-lin-hundred-steps",
+    "plot.xianni-ch2014-gudao-mountain-999-steps-trial"
   ],
-  "updatedAt": "2026-08-31T00:09:47.232Z"
+  "updatedAt": "2026-08-31T00:12:19.697Z"
 }
