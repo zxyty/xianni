@@ -9,10 +9,11 @@
   "summary": "王林此行目的地，需详细地图方能前往；王林打算从道古一脉之人处取得该地图。",
   "attributes": {
     "所属势力": "道古一脉",
-    "类型": "郡域",
+    "类型": "疆域郡治",
     "所属界面": "仙族大陆",
-    "方位": "仙族大陆西南",
-    "规模": "堪比仙族一州，略大"
+    "方位": "道古京畿之外",
+    "规模": "堪比仙族一州，略大",
+    "守护": "道古十八王中的十二人"
   },
   "observations": {
     "所属势力": [
@@ -27,6 +28,11 @@
         "value": "郡域",
         "docId": "plot.xianni-ch2004-jidu-huangzi-heishicheng",
         "seq": 1914
+      },
+      {
+        "value": "疆域郡治",
+        "docId": "plot.xianni-2020-daogu-tongming-night-banquet",
+        "seq": 1929
       }
     ],
     "所属界面": [
@@ -41,6 +47,11 @@
         "value": "仙族大陆西南",
         "docId": "plot.xianni-2008-daogu-huangcheng-luxiang-yibai",
         "seq": 1919
+      },
+      {
+        "value": "道古京畿之外",
+        "docId": "plot.xianni-2020-daogu-tongming-night-banquet",
+        "seq": 1929
       }
     ],
     "规模": [
@@ -48,6 +59,13 @@
         "value": "堪比仙族一州，略大",
         "docId": "plot.xianni-2008-daogu-huangcheng-luxiang-yibai",
         "seq": 1919
+      }
+    ],
+    "守护": [
+      {
+        "value": "道古十八王中的十二人",
+        "docId": "plot.xianni-2020-daogu-tongming-night-banquet",
+        "seq": 1929
       }
     ]
   },
@@ -61,9 +79,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch2004-jidu-huangzi-heishicheng",
+      "docId": "plot.xianni-2020-daogu-tongming-night-banquet",
       "dated": false,
-      "seq": 1914
+      "seq": 1929
     },
     "所属界面": {
       "asOf": null,
@@ -73,22 +91,29 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-2008-daogu-huangcheng-luxiang-yibai",
+      "docId": "plot.xianni-2020-daogu-tongming-night-banquet",
       "dated": false,
-      "seq": 1919
+      "seq": 1929
     },
     "规模": {
       "asOf": null,
       "docId": "plot.xianni-2008-daogu-huangcheng-luxiang-yibai",
       "dated": false,
       "seq": 1919
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-2020-daogu-tongming-night-banquet",
+      "dated": false,
+      "seq": 1929
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch2004-jidu-huangzi-heishicheng",
-    "plot.xianni-2008-daogu-huangcheng-luxiang-yibai"
+    "plot.xianni-2008-daogu-huangcheng-luxiang-yibai",
+    "plot.xianni-2020-daogu-tongming-night-banquet"
   ],
-  "updatedAt": "2026-08-30T23:56:59.968Z"
+  "updatedAt": "2026-08-31T00:26:31.685Z"
 }

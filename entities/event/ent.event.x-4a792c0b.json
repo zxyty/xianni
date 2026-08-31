@@ -8,12 +8,13 @@
   ],
   "summary": "道古皇尊册封宋后的九十九日大典，三族使者与古道山尽皆送礼，前一夜另设封后庆历使众人一见皇后。",
   "attributes": {
-    "章节": "第2019章",
-    "地点": "道古皇城/道古皇宫",
+    "章节": "第2019章、第2020章",
+    "地点": "道古皇城/道古皇宫、道古皇宫",
     "时长": "九十九天",
-    "参与方": "道古一脉、始古一脉、极古一脉、古道山使者、宋天大天尊使者、国师",
+    "参与方": "道古一脉、始古一脉、极古一脉、古道山使者、宋天大天尊使者、国师、道古皇尊、道古皇后、夜宴众人",
     "经过": "首日祭祖，皇尊仅参与首日；禁一军至七军守卫",
-    "影响": "吸引古族三脉所有人焦点凝聚于道古皇尊"
+    "影响": "吸引古族三脉所有人焦点凝聚于道古皇尊",
+    "起因": "道古皇尊册封皇后"
   },
   "observations": {
     "章节": [
@@ -21,12 +22,22 @@
         "value": "第2019章",
         "docId": "plot.xianni-ch2019-feng-qi-dao-gu",
         "seq": 1929
+      },
+      {
+        "value": "第2020章",
+        "docId": "plot.xianni-2020-daogu-tongming-night-banquet",
+        "seq": 1929
       }
     ],
     "地点": [
       {
         "value": "道古皇城/道古皇宫",
         "docId": "plot.xianni-ch2019-feng-qi-dao-gu",
+        "seq": 1929
+      },
+      {
+        "value": "道古皇宫",
+        "docId": "plot.xianni-2020-daogu-tongming-night-banquet",
         "seq": 1929
       }
     ],
@@ -67,6 +78,21 @@
         "value": "国师",
         "docId": "plot.xianni-ch2019-feng-qi-dao-gu",
         "seq": 1929
+      },
+      {
+        "value": "道古皇尊",
+        "docId": "plot.xianni-2020-daogu-tongming-night-banquet",
+        "seq": 1929
+      },
+      {
+        "value": "道古皇后",
+        "docId": "plot.xianni-2020-daogu-tongming-night-banquet",
+        "seq": 1929
+      },
+      {
+        "value": "夜宴众人",
+        "docId": "plot.xianni-2020-daogu-tongming-night-banquet",
+        "seq": 1929
       }
     ],
     "经过": [
@@ -80,6 +106,13 @@
       {
         "value": "吸引古族三脉所有人焦点凝聚于道古皇尊",
         "docId": "plot.xianni-ch2019-feng-qi-dao-gu",
+        "seq": 1929
+      }
+    ],
+    "起因": [
+      {
+        "value": "道古皇尊册封皇后",
+        "docId": "plot.xianni-2020-daogu-tongming-night-banquet",
         "seq": 1929
       }
     ]
@@ -121,12 +154,19 @@
       "docId": "plot.xianni-ch2019-feng-qi-dao-gu",
       "dated": false,
       "seq": 1929
+    },
+    "起因": {
+      "asOf": null,
+      "docId": "plot.xianni-2020-daogu-tongming-night-banquet",
+      "dated": false,
+      "seq": 1929
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch2019-feng-qi-dao-gu"
+    "plot.xianni-ch2019-feng-qi-dao-gu",
+    "plot.xianni-2020-daogu-tongming-night-banquet"
   ],
-  "updatedAt": "2026-08-31T00:24:08.336Z"
+  "updatedAt": "2026-08-31T00:26:31.689Z"
 }
