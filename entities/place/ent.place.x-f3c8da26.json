@@ -1,48 +1,49 @@
 {
-  "id": "ent.place.x-2aa91cc6",
+  "id": "ent.place.x-f3c8da26",
   "type": "place",
-  "name": "云涛洲",
+  "name": "阵法所在空间",
   "aliases": [
-    "云涛"
+    "阵内空间",
+    "那个空间"
   ],
-  "summary": "杜青到过的东州三洲之一，境内无雷脉。",
+  "summary": "太古神境开启大阵所在的奇异空间，四周仿若无限大又仿若只有如此大小，隐有无数人喃喃之音却听不清一句。",
   "attributes": {
-    "上级区域": "东州",
-    "类型": "洲",
-    "特产": "海中诸多有修士居住的小岛"
+    "类型": "异空间",
+    "危险度": "高",
+    "特产": "四周传来的无数喃喃之音"
   },
   "observations": {
-    "上级区域": [
-      {
-        "value": "东州",
-        "docId": "plot.xianni-1818-wang-lin-suo-di-cheng-cun-fen-shen-su-xing",
-        "seq": 1725
-      }
-    ],
     "类型": [
       {
-        "value": "洲",
+        "value": "异空间",
+        "docId": "plot.xianni-ch2038-taigu-shenjing-treading-realms",
+        "seq": 1949
+      }
+    ],
+    "危险度": [
+      {
+        "value": "高",
         "docId": "plot.xianni-ch2038-taigu-shenjing-treading-realms",
         "seq": 1949
       }
     ],
     "特产": [
       {
-        "value": "海中诸多有修士居住的小岛",
+        "value": "四周传来的无数喃喃之音",
         "docId": "plot.xianni-ch2038-taigu-shenjing-treading-realms",
         "seq": 1949
       }
     ]
   },
-  "firstSeq": 1725,
+  "firstSeq": 1949,
   "attrProvenance": {
-    "上级区域": {
-      "asOf": null,
-      "docId": "plot.xianni-1818-wang-lin-suo-di-cheng-cun-fen-shen-su-xing",
-      "dated": false,
-      "seq": 1725
-    },
     "类型": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2038-taigu-shenjing-treading-realms",
+      "dated": false,
+      "seq": 1949
+    },
+    "危险度": {
       "asOf": null,
       "docId": "plot.xianni-ch2038-taigu-shenjing-treading-realms",
       "dated": false,
@@ -58,8 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1818-wang-lin-suo-di-cheng-cun-fen-shen-su-xing",
     "plot.xianni-ch2038-taigu-shenjing-treading-realms"
   ],
-  "updatedAt": "2026-08-31T01:13:40.930Z"
+  "updatedAt": "2026-08-31T01:13:40.935Z"
 }
