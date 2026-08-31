@@ -1294,3 +1294,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-31T02:13:10.247Z** `ingest` plot.xianni-2057-gudao-second-fenshen-failure — 《仙逆》第2057章 失败：王林古道二分神受阻，十八光环连破 · kind=plot asOf=2026-08-31 entities=19 relations=30 src=01968-01971.p2.md
 - **2026-08-31T02:15:03.422Z** `ingest` plot.xianni-ch2058-that-figure-wang-lin-second-fenshen-fusion — 第2058章 那个身影……——王林祖庙渡古道分神第二次融合，玄罗白发唤醒 · kind=plot asOf=2026-08-31 entities=12 relations=17 src=01968-01971.p3.md
 - **2026-08-31T02:16:57.198Z** `ingest` plot.xianni-2059-third-fenshen-fusion-jidu-coronation — 第2059章 曾见：王林第三次分神圆满与计都登基之日 · kind=plot asOf=2026-08-31 entities=15 relations=23 src=01968-01971.p4.md
+- **2026-08-31T02:19:15.482Z** `ingest` plot.xianni-2060-jidu-enthronement-wanglin-second-soul-blood — 第2060章 天地……——计都登基九拜、王林古道三分神成功获第二滴魂血 · kind=plot asOf=2026-08-31 entities=25 relations=26 src=01972-01976.p1.md
