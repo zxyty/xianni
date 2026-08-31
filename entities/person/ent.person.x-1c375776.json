@@ -17,9 +17,9 @@
   "attributes": {
     "身份": "与妖尊有当年之约者、尸阴宗修士、封界大阵修复者、修补封界大阵者、界内巅峰大能、封界大阵修复者之一、闭关未出、界内残军首领、界内修士首领、界内修士领袖之一、界内修士、界内前辈修士、仙界大能、界内留守修士",
     "外貌": "声音沙哑",
-    "阵营": "界内、云海星域/界内、云海星域、云海一方（界内）、界内·云海一方、云海星域界内一方、界内（昆虚）、界内昆虚一方、界内新仙界",
+    "阵营": "界内、云海星域/界内、云海星域、云海一方（界内）、界内·云海一方、云海星域界内一方、界内（昆虚）、界内昆虚一方、界内新仙界、新仙界",
     "性格": "神秘、神色阴沉、长叹、寡言、重诺、老成、审慎、沉稳持重、谨慎、谨慎顾全大局",
-    "存殁": "在世"
+    "存殁": "肉身崩溃，仅存元神"
   },
   "observations": {
     "身份": [
@@ -153,6 +153,11 @@
         "value": "界内新仙界",
         "docId": "plot.xianni-ch1687-yuangu-xianyu-return",
         "seq": 1596
+      },
+      {
+        "value": "新仙界",
+        "docId": "plot.xianni-2073-dongfu-realm-return-and-chihun-sect-crisis",
+        "seq": 1982
       }
     ],
     "性格": [
@@ -203,6 +208,12 @@
         "value": "在世",
         "docId": "plot.xianni-ch1526-1530-six-source-void-gate",
         "seq": 1526
+      },
+      {
+        "value": "肉身崩溃，仅存元神",
+        "docId": "plot.xianni-2073-dongfu-realm-return-and-chihun-sect-crisis",
+        "seq": 1982,
+        "note": "第2073章赤魂教来袭"
       }
     ]
   },
@@ -234,9 +245,10 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-ch1526-1530-six-source-void-gate",
+      "docId": "plot.xianni-2073-dongfu-realm-return-and-chihun-sect-crisis",
       "dated": false,
-      "seq": 1526
+      "seq": 1982,
+      "note": "第2073章赤魂教来袭"
     }
   },
   "contested": false,
@@ -275,7 +287,8 @@
     "plot.xianni-ch1719-tianyunzi-clone-hunt-guihe-star-region",
     "plot.xianni-1789-libie-zhi-se",
     "plot.xianni-1790-longhuang-yixian-xiangang-kai",
-    "plot.xianni-ch1793-chidao-fengyun-xiangang-jian-juanzhong"
+    "plot.xianni-ch1793-chidao-fengyun-xiangang-jian-juanzhong",
+    "plot.xianni-2073-dongfu-realm-return-and-chihun-sect-crisis"
   ],
-  "updatedAt": "2026-08-30T08:19:25.889Z"
+  "updatedAt": "2026-08-31T02:50:49.364Z"
 }
