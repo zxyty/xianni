@@ -1262,3 +1262,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-31T00:37:17.816Z** `ingest` plot.xianni-2025-chongguan-yinu-4-wanglin-storms-daogu-palace — 第2025章 冲冠一怒！（四）——王林血洗道古皇宫，弑皇之声传遍大典 · kind=plot asOf=2026-08-31 entities=15 relations=21 src=01934-01938.p4.md
 - **2026-08-31T00:39:02.650Z** `ingest` plot.xianni-ch2026-chongguan-yinu-5-wanglin-storms-daogu-palace — 第2026章 冲冠一怒（五）：王林血洗道古皇宫，索要皇后宋致 · kind=plot asOf=2026-08-31 entities=15 relations=19 src=01934-01938.p5.md
 - **2026-08-31T00:41:48.700Z** `ingest` plot.xianni-2027-chongguan-yinu-6-daogu-palace-massacre — 仙逆 第2027章 冲冠一怒！（六）——大天尊之阳轰皇宫，玄罗叹息临世 · kind=plot asOf=2026-08-31 entities=28 relations=40 src=01939-01943.p1.md
+- **2026-08-31T00:44:42.724Z** `ingest` plot.xianni-2028-chongguan-yinu-7-xuanluo-arrival-and-seven-color-figure — 第2028章 冲冠一怒（七）：七彩身影的死气大阵与玄罗降临皇宫 · kind=plot asOf=2026-08-31 entities=23 relations=41 src=01939-01943.p2.md

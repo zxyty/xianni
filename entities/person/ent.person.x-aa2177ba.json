@@ -3,20 +3,28 @@
   "type": "person",
   "name": "道古皇尊之父",
   "aliases": [
-    "父尊"
+    "父尊",
+    "失去右臂的皇袍老者"
   ],
   "summary": "身穿皇袍、不怒自威的老者，道古皇尊生父；以血脉开「古族大禁」硬接大天尊之阳，右臂成灰重伤，欲赴古道山面见古道大天尊重立新皇。",
   "attributes": {
-    "身份": "道古一脉尊长（近千皇宫强者所恭敬者）",
+    "身份": "道古一脉尊长（近千皇宫强者所恭敬者）、道古皇尊之父",
     "外貌": "身穿皇袍、神色不怒自威",
     "存殁": "存活（重伤）",
-    "标志特征": "右臂成灰而失"
+    "标志特征": "右臂成灰而失、失去右臂",
+    "性格": "较皇尊高明、善避重就轻",
+    "阵营": "道古一脉"
   },
   "observations": {
     "身份": [
       {
         "value": "道古一脉尊长（近千皇宫强者所恭敬者）",
         "docId": "plot.xianni-2027-chongguan-yinu-6-daogu-palace-massacre",
+        "seq": 1939
+      },
+      {
+        "value": "道古皇尊之父",
+        "docId": "plot.xianni-2028-chongguan-yinu-7-xuanluo-arrival-and-seven-color-figure",
         "seq": 1939
       }
     ],
@@ -40,6 +48,25 @@
         "docId": "plot.xianni-2027-chongguan-yinu-6-daogu-palace-massacre",
         "seq": 1939,
         "note": "硬接大天尊之阳所致"
+      },
+      {
+        "value": "失去右臂",
+        "docId": "plot.xianni-2028-chongguan-yinu-7-xuanluo-arrival-and-seven-color-figure",
+        "seq": 1939
+      }
+    ],
+    "性格": [
+      {
+        "value": "较皇尊高明、善避重就轻",
+        "docId": "plot.xianni-2028-chongguan-yinu-7-xuanluo-arrival-and-seven-color-figure",
+        "seq": 1939
+      }
+    ],
+    "阵营": [
+      {
+        "value": "道古一脉",
+        "docId": "plot.xianni-2028-chongguan-yinu-7-xuanluo-arrival-and-seven-color-figure",
+        "seq": 1939
       }
     ]
   },
@@ -69,12 +96,25 @@
       "dated": false,
       "seq": 1939,
       "note": "硬接大天尊之阳所致"
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-2028-chongguan-yinu-7-xuanluo-arrival-and-seven-color-figure",
+      "dated": false,
+      "seq": 1939
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-2028-chongguan-yinu-7-xuanluo-arrival-and-seven-color-figure",
+      "dated": false,
+      "seq": 1939
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-2027-chongguan-yinu-6-daogu-palace-massacre"
+    "plot.xianni-2027-chongguan-yinu-6-daogu-palace-massacre",
+    "plot.xianni-2028-chongguan-yinu-7-xuanluo-arrival-and-seven-color-figure"
   ],
-  "updatedAt": "2026-08-31T00:41:48.113Z"
+  "updatedAt": "2026-08-31T00:44:42.249Z"
 }
