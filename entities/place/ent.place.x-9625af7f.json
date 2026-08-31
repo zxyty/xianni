@@ -3,13 +3,15 @@
   "type": "place",
   "name": "仙族大地",
   "aliases": [
-    "五州"
+    "五州",
+    "仙族范围"
   ],
   "summary": "由七十二洲构成的广阔疆域，最顶层为大天尊与四十八个跃天尊。",
   "attributes": {
     "类型": "大地/疆域、大地/界域、大地、大陆疆域",
     "规模": "七十二洲",
-    "所属势力": "仙族"
+    "所属势力": "仙族",
+    "所属界面": "仙罡大陆"
   },
   "observations": {
     "类型": [
@@ -47,6 +49,13 @@
         "docId": "plot.xianni-ch1951-tianzun-nie-first-hall",
         "seq": 1858
       }
+    ],
+    "所属界面": [
+      {
+        "value": "仙罡大陆",
+        "docId": "plot.xianni-ch2065-jiuqu-sanxiang-complete",
+        "seq": 1977
+      }
     ]
   },
   "firstSeq": 1839,
@@ -68,6 +77,12 @@
       "docId": "plot.xianni-ch1951-tianzun-nie-first-hall",
       "dated": false,
       "seq": 1858
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2065-jiuqu-sanxiang-complete",
+      "dated": false,
+      "seq": 1977
     }
   },
   "contested": false,
@@ -78,7 +93,8 @@
     "plot.xianni-1941-my-master-gu-ya-tianzun",
     "plot.xianni-ch1951-tianzun-nie-first-hall",
     "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
-    "plot.xianni-ch2038-taigu-shenjing-treading-realms"
+    "plot.xianni-ch2038-taigu-shenjing-treading-realms",
+    "plot.xianni-ch2065-jiuqu-sanxiang-complete"
   ],
-  "updatedAt": "2026-08-31T01:13:40.850Z"
+  "updatedAt": "2026-08-31T02:31:32.461Z"
 }

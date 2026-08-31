@@ -3,11 +3,14 @@
   "type": "realm",
   "name": "踏天境",
   "aliases": [
-    "半只脚踏天境"
+    "半只脚踏天境",
+    "完整的踏天境",
+    "Ta Tian Jing"
   ],
   "summary": "本章最高战力层级。古道无数万年前已迈入并止步第六桥；王林与古道同为仅有的两个半只脚迈入者。",
   "attributes": {
-    "突破关键": "走过踏天之桥"
+    "突破关键": "踏天之念，为信念极致的表现",
+    "突破征兆": "一步之下天崩地裂、规则法则灰飞烟灭"
   },
   "observations": {
     "突破关键": [
@@ -15,6 +18,18 @@
         "value": "走过踏天之桥",
         "docId": "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao",
         "seq": 1972
+      },
+      {
+        "value": "踏天之念，为信念极致的表现",
+        "docId": "plot.xianni-ch2065-jiuqu-sanxiang-complete",
+        "seq": 1977
+      }
+    ],
+    "突破征兆": [
+      {
+        "value": "一步之下天崩地裂、规则法则灰飞烟灭",
+        "docId": "plot.xianni-ch2065-jiuqu-sanxiang-complete",
+        "seq": 1977
       }
     ]
   },
@@ -22,15 +37,22 @@
   "attrProvenance": {
     "突破关键": {
       "asOf": null,
-      "docId": "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao",
+      "docId": "plot.xianni-ch2065-jiuqu-sanxiang-complete",
       "dated": false,
-      "seq": 1972
+      "seq": 1977
+    },
+    "突破征兆": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2065-jiuqu-sanxiang-complete",
+      "dated": false,
+      "seq": 1977
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao"
+    "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao",
+    "plot.xianni-ch2065-jiuqu-sanxiang-complete"
   ],
-  "updatedAt": "2026-08-31T02:24:12.200Z"
+  "updatedAt": "2026-08-31T02:31:32.451Z"
 }
