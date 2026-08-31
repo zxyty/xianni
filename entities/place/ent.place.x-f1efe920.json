@@ -7,17 +7,20 @@
     "道吉皇城",
     "道古之国皇城",
     "道古皇城皇宫",
-    "道古天空城"
+    "道古天空城",
+    "道古皇城天空之城",
+    "Dao Gu Imperial City"
   ],
   "summary": "王林此行目的地，道古一脉核心之城，王林拿它与仙族祖城相较。",
   "attributes": {
     "所属势力": "道古一脉、道古",
-    "类型": "皇城、漂浮天空之城／皇城、城池、都城/天空城",
+    "类型": "皇城、漂浮天空之城／皇城、城池、都城/天空城、皇城／天空之城",
     "所属界面": "仙族大陆",
     "方位": "仙族大陆西南·道吉十二郡",
     "危险度": "极高（禁制防护，唯仙罡九阳可无视）",
     "守护": "道古皇尊",
-    "特产": "吉祖雕像、临时坊市与拍卖之地"
+    "特产": "吉祖雕像、临时坊市与拍卖之地",
+    "规模": "三脉族人极多，灯火通明"
   },
   "observations": {
     "所属势力": [
@@ -52,6 +55,11 @@
         "value": "都城/天空城",
         "docId": "plot.xianni-ch2019-feng-qi-dao-gu",
         "seq": 1929
+      },
+      {
+        "value": "皇城／天空之城",
+        "docId": "plot.xianni-2024-chongguan-yinu-3-wanglin-rage-kill-yedao",
+        "seq": 1934
       }
     ],
     "所属界面": [
@@ -99,6 +107,13 @@
         "seq": 1929,
         "note": "大典期间三族族人交易而成"
       }
+    ],
+    "规模": [
+      {
+        "value": "三脉族人极多，灯火通明",
+        "docId": "plot.xianni-2024-chongguan-yinu-3-wanglin-rage-kill-yedao",
+        "seq": 1934
+      }
     ]
   },
   "firstSeq": 1914,
@@ -144,6 +159,12 @@
       "docId": "plot.xianni-ch2018-jizu-yizhi",
       "dated": false,
       "seq": 1929
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-2024-chongguan-yinu-3-wanglin-rage-kill-yedao",
+      "dated": false,
+      "seq": 1934
     }
   },
   "contested": false,
@@ -161,7 +182,8 @@
     "plot.xianni-ch2017-gudao-mountain-departure-and-imperial-invitation",
     "plot.xianni-ch2018-jizu-yizhi",
     "plot.xianni-ch2019-feng-qi-dao-gu",
-    "plot.xianni-ch2023-chongguan-yi-nu-2"
+    "plot.xianni-ch2023-chongguan-yi-nu-2",
+    "plot.xianni-2024-chongguan-yinu-3-wanglin-rage-kill-yedao"
   ],
-  "updatedAt": "2026-08-31T00:33:21.365Z"
+  "updatedAt": "2026-08-31T00:35:13.210Z"
 }
