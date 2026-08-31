@@ -1320,3 +1320,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-31T03:24:17.103Z** `ingest` plot.xianni-2083-taigu-shenjing-entry-qualification — 第2083章 踏入的资格——太古神境开启前的海墙风暴异变 · kind=plot asOf=2026-08-31 entities=22 relations=36 src=01991-01995.p5.md
 - **2026-08-31T03:26:47.085Z** `ingest` plot.xianni-2084-taigu-shenjing-opens-dongmei — 第2084章 太古神境开启与那女子东梅 · kind=plot asOf=2026-08-31 entities=29 relations=40 src=01996-02000.p1.md
 - **2026-08-31T03:28:59.880Z** `ingest` plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan — 第2085章 缺的一个：太古神境即定界罗盘，天运子自称守护者被王林道破 · kind=plot asOf=2026-08-31 entities=15 relations=24 src=01996-02000.p2.md
+- **2026-08-31T03:31:27.902Z** `ingest` plot.xianni-ch2086-samsara-is-right-there — 第2086章 轮回就在那里：王林揭破天运子为定界罗盘器灵，自陈杀戮分身逆转流月之局 · kind=plot asOf=2026-08-31 entities=29 relations=33 src=01996-02000.p3.md

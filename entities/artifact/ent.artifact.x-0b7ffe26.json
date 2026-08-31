@@ -7,16 +7,18 @@
     "定界盘",
     "空灭之宝",
     "Ding Jie Luo Pan",
-    "Tai Gu Shen Jing"
+    "Tai Gu Shen Jing",
+    "此界罗盘"
   ],
   "summary": "逆尘量界之物，现由王林持有。墨智代师尊追问王林何时归还，王林不予回应。",
   "attributes": {
-    "来历": "逆尘界至宝，由『守护者』看守，王林前世从守护者手中借/抢走",
+    "来历": "逆尘量界、逆尘界至宝，由『守护者』看守，王林前世从守护者手中借/抢走、杀戮分身在无数万年前逆转天地借来",
     "持有者": "王林",
     "品阶": "逆尘界至宝",
-    "能力": "可以改变一切、唯一的空灭之宝、在其内可吞噬融合王林",
+    "能力": "可以改变一切、唯一的空灭之宝、在其内可吞噬融合王林、作为此界本源，可用于复活李慕婉",
     "外形": "圆形大地状巨罗盘：笔直裂缝为刻度、交错山脉为符文；无指针，且缺少一半",
-    "禁制": "内部神识受限，无法弥漫整个大陆"
+    "禁制": "内部神识受限，无法弥漫整个大陆、被杀戮分身轰开后不完整",
+    "器灵": "天运子"
   },
   "observations": {
     "来历": [
@@ -28,6 +30,11 @@
       {
         "value": "逆尘界至宝，由『守护者』看守，王林前世从守护者手中借/抢走",
         "docId": "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan",
+        "seq": 1996
+      },
+      {
+        "value": "杀戮分身在无数万年前逆转天地借来",
+        "docId": "plot.xianni-ch2086-samsara-is-right-there",
         "seq": 1996
       }
     ],
@@ -60,6 +67,11 @@
         "value": "在其内可吞噬融合王林",
         "docId": "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan",
         "seq": 1996
+      },
+      {
+        "value": "作为此界本源，可用于复活李慕婉",
+        "docId": "plot.xianni-ch2086-samsara-is-right-there",
+        "seq": 1996
       }
     ],
     "外形": [
@@ -74,6 +86,18 @@
         "value": "内部神识受限，无法弥漫整个大陆",
         "docId": "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan",
         "seq": 1996
+      },
+      {
+        "value": "被杀戮分身轰开后不完整",
+        "docId": "plot.xianni-ch2086-samsara-is-right-there",
+        "seq": 1996
+      }
+    ],
+    "器灵": [
+      {
+        "value": "天运子",
+        "docId": "plot.xianni-ch2086-samsara-is-right-there",
+        "seq": 1996
       }
     ]
   },
@@ -81,9 +105,9 @@
   "attrProvenance": {
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan",
+      "docId": "plot.xianni-2080-what-is-truth",
       "dated": false,
-      "seq": 1996
+      "seq": 1991
     },
     "持有者": {
       "asOf": null,
@@ -114,13 +138,20 @@
       "docId": "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan",
       "dated": false,
       "seq": 1996
+    },
+    "器灵": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2086-samsara-is-right-there",
+      "dated": false,
+      "seq": 1996
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-2080-what-is-truth",
-    "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan"
+    "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan",
+    "plot.xianni-ch2086-samsara-is-right-there"
   ],
-  "updatedAt": "2026-08-31T03:28:59.175Z"
+  "updatedAt": "2026-08-31T03:31:27.199Z"
 }

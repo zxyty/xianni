@@ -3,14 +3,16 @@
   "type": "technique",
   "name": "流月之术",
   "aliases": [
-    "流月之光"
+    "流月之光",
+    "逆转流月"
   ],
   "summary": "逆转时光之术，本章王林耗尽所有元力施展，逆转五千年为自己换来五千年生机以续打后十六拳。",
   "attributes": {
-    "效果": "逆转岁月，本章逆转五千年换取五千年生机、逆转千年岁月变化于瞬息、造出天地运转的轨迹、取代天地运转，反复黑夜与初阳变换，孕育太初/默灭本源真身",
+    "效果": "逆转岁月，本章逆转五千年换取五千年生机、逆转千年岁月变化于瞬息、造出天地运转的轨迹、取代天地运转，反复黑夜与初阳变换，孕育太初/默灭本源真身、逆转岁月、将分身送回过去",
     "外显异象": "自造天地内昼夜数十次急速交替",
     "出处": "王林自行感悟、王林自创（第二式）、王林自创、悼亡族相关传承",
-    "适用境界": "第三步层次战斗"
+    "适用境界": "第三步层次战斗",
+    "修炼条件": "需以自身修为之力驱动，分身须大成"
   },
   "observations": {
     "效果": [
@@ -33,6 +35,11 @@
         "value": "取代天地运转，反复黑夜与初阳变换，孕育太初/默灭本源真身",
         "docId": "plot.xianni-ch2046-xingfa-lumo-five-bodies-fusion",
         "seq": 1954
+      },
+      {
+        "value": "逆转岁月、将分身送回过去",
+        "docId": "plot.xianni-ch2086-samsara-is-right-there",
+        "seq": 1996
       }
     ],
     "外显异象": [
@@ -75,6 +82,13 @@
         "docId": "plot.xianni-1380-four-breaths-wang-lin-vs-simozi",
         "seq": 1292
       }
+    ],
+    "修炼条件": [
+      {
+        "value": "需以自身修为之力驱动，分身须大成",
+        "docId": "plot.xianni-ch2086-samsara-is-right-there",
+        "seq": 1996
+      }
     ]
   },
   "firstSeq": 1191,
@@ -102,6 +116,12 @@
       "docId": "plot.xianni-1380-four-breaths-wang-lin-vs-simozi",
       "dated": false,
       "seq": 1292
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2086-samsara-is-right-there",
+      "dated": false,
+      "seq": 1996
     }
   },
   "contested": false,
@@ -112,7 +132,8 @@
     "plot.xianni-ch1583-immortal-indestructible-body",
     "plot.xianni-1889-daomo-zongzhu-breakout",
     "plot.xianni-ch2044-tiandi-yixiang-benyuan-zhuangda",
-    "plot.xianni-ch2046-xingfa-lumo-five-bodies-fusion"
+    "plot.xianni-ch2046-xingfa-lumo-five-bodies-fusion",
+    "plot.xianni-ch2086-samsara-is-right-there"
   ],
-  "updatedAt": "2026-08-31T01:38:08.323Z"
+  "updatedAt": "2026-08-31T03:31:27.208Z"
 }
