@@ -2,11 +2,16 @@
   "id": "ent.person.x-d5692f70",
   "type": "person",
   "name": "烨寞的后人",
-  "aliases": [],
+  "aliases": [
+    "道古一脉中年男子"
+  ],
   "summary": "道古皇城中已落魄的烨寞皇族后裔，仅余一座府邸，接纳了前来投奔的罗尘。",
   "attributes": {
     "身份": "道古皇族后裔",
-    "标志特征": "皇族却落魄，仅有一座府邸"
+    "标志特征": "皇族却落魄，仅有一座府邸",
+    "性别": "男",
+    "阵营": "道古一脉",
+    "外貌": "与烨寞相似的中年男子"
   },
   "observations": {
     "身份": [
@@ -21,6 +26,27 @@
         "value": "皇族却落魄，仅有一座府邸",
         "docId": "plot.xianni-ch2035-future-huangzun-luochen",
         "seq": 1944
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-2054-three-losses-second-tribulation-ancestral-temple",
+        "seq": 1964
+      }
+    ],
+    "阵营": [
+      {
+        "value": "道古一脉",
+        "docId": "plot.xianni-2054-three-losses-second-tribulation-ancestral-temple",
+        "seq": 1964
+      }
+    ],
+    "外貌": [
+      {
+        "value": "与烨寞相似的中年男子",
+        "docId": "plot.xianni-2054-three-losses-second-tribulation-ancestral-temple",
+        "seq": 1964
       }
     ]
   },
@@ -37,12 +63,31 @@
       "docId": "plot.xianni-ch2035-future-huangzun-luochen",
       "dated": false,
       "seq": 1944
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-2054-three-losses-second-tribulation-ancestral-temple",
+      "dated": false,
+      "seq": 1964
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-2054-three-losses-second-tribulation-ancestral-temple",
+      "dated": false,
+      "seq": 1964
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-2054-three-losses-second-tribulation-ancestral-temple",
+      "dated": false,
+      "seq": 1964
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch2035-future-huangzun-luochen"
+    "plot.xianni-ch2035-future-huangzun-luochen",
+    "plot.xianni-2054-three-losses-second-tribulation-ancestral-temple"
   ],
-  "updatedAt": "2026-08-31T01:02:42.356Z"
+  "updatedAt": "2026-08-31T02:06:56.764Z"
 }

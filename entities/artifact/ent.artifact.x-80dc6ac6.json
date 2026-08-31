@@ -7,13 +7,15 @@
     "古祖雕像",
     "撑天古祖雕像",
     "天空城古祖雕像",
-    "芒祖雕像"
+    "芒祖雕像",
+    "始古皇城古祖雕像"
   ],
   "summary": "囚仙之狱古城正中的巨型雕像，似支撑仙罡大陆天地，眉心可散出苍穹血芒并凝出鲜血。",
   "attributes": {
-    "外形": "双手背负、长发飘摇、抬头望天、神色轻蔑",
-    "能力": "眉心凝聚苍穹血芒并飞出鲜血",
-    "来历": "道古一族祖先古祖之像"
+    "外形": "似撑天而起，背手望天地，神色轻蔑不屑",
+    "能力": "开启祖庙之门时环绕暗色光环",
+    "来历": "古祖消失后古道大天尊寻三座山峰亲自雕刻",
+    "禁制": "由皇宫射出的幽暗之芒方可开启其下之门"
   },
   "observations": {
     "外形": [
@@ -26,6 +28,11 @@
         "value": "双手背负、长发飘摇、抬头望天、神色轻蔑",
         "docId": "plot.xianni-2032-chongguan-yinu-end-limuwan-awaken",
         "seq": 1944
+      },
+      {
+        "value": "似撑天而起，背手望天地，神色轻蔑不屑",
+        "docId": "plot.xianni-2054-three-losses-second-tribulation-ancestral-temple",
+        "seq": 1964
       }
     ],
     "能力": [
@@ -33,6 +40,11 @@
         "value": "眉心凝聚苍穹血芒并飞出鲜血",
         "docId": "plot.xianni-ch1707-guimai-cangqiong-blood-tribulation-xianggang-expectation",
         "seq": 1616
+      },
+      {
+        "value": "开启祖庙之门时环绕暗色光环",
+        "docId": "plot.xianni-2054-three-losses-second-tribulation-ancestral-temple",
+        "seq": 1964
       }
     ],
     "来历": [
@@ -45,6 +57,18 @@
         "value": "道古一族祖先古祖之像",
         "docId": "plot.xianni-2032-chongguan-yinu-end-limuwan-awaken",
         "seq": 1944
+      },
+      {
+        "value": "古祖消失后古道大天尊寻三座山峰亲自雕刻",
+        "docId": "plot.xianni-2054-three-losses-second-tribulation-ancestral-temple",
+        "seq": 1964
+      }
+    ],
+    "禁制": [
+      {
+        "value": "由皇宫射出的幽暗之芒方可开启其下之门",
+        "docId": "plot.xianni-2054-three-losses-second-tribulation-ancestral-temple",
+        "seq": 1964
       }
     ]
   },
@@ -52,21 +76,27 @@
   "attrProvenance": {
     "外形": {
       "asOf": null,
-      "docId": "plot.xianni-2032-chongguan-yinu-end-limuwan-awaken",
+      "docId": "plot.xianni-2054-three-losses-second-tribulation-ancestral-temple",
       "dated": false,
-      "seq": 1944
+      "seq": 1964
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.xianni-ch1707-guimai-cangqiong-blood-tribulation-xianggang-expectation",
+      "docId": "plot.xianni-2054-three-losses-second-tribulation-ancestral-temple",
       "dated": false,
-      "seq": 1616
+      "seq": 1964
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-2032-chongguan-yinu-end-limuwan-awaken",
+      "docId": "plot.xianni-2054-three-losses-second-tribulation-ancestral-temple",
       "dated": false,
-      "seq": 1944
+      "seq": 1964
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-2054-three-losses-second-tribulation-ancestral-temple",
+      "dated": false,
+      "seq": 1964
     }
   },
   "contested": false,
@@ -74,7 +104,8 @@
   "docs": [
     "plot.xianni-ch1707-guimai-cangqiong-blood-tribulation-xianggang-expectation",
     "plot.xianni-ch1709-huangzun-jidu-gu-zu-shixue",
-    "plot.xianni-2032-chongguan-yinu-end-limuwan-awaken"
+    "plot.xianni-2032-chongguan-yinu-end-limuwan-awaken",
+    "plot.xianni-2054-three-losses-second-tribulation-ancestral-temple"
   ],
-  "updatedAt": "2026-08-31T00:53:43.957Z"
+  "updatedAt": "2026-08-31T02:06:56.781Z"
 }

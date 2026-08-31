@@ -3,13 +3,15 @@
   "type": "place",
   "name": "始古皇城",
   "aliases": [
-    "始吉皇城（原文误写）"
+    "始吉皇城（原文误写）",
+    "始古一脉皇城"
   ],
   "summary": "本章提及的皇城，城外即为原始山。",
   "attributes": {
     "类型": "皇城",
     "所属势力": "始古一脉",
-    "守护": "宋天等大天尊"
+    "守护": "宋天等大天尊",
+    "特产": "古祖雕像与祖庙"
   },
   "observations": {
     "类型": [
@@ -30,6 +32,13 @@
       {
         "value": "宋天等大天尊",
         "docId": "plot.xianni-ch2053-song-tian-yuanshi-shan-jidu-yifu",
+        "seq": 1964
+      }
+    ],
+    "特产": [
+      {
+        "value": "古祖雕像与祖庙",
+        "docId": "plot.xianni-2054-three-losses-second-tribulation-ancestral-temple",
         "seq": 1964
       }
     ]
@@ -53,6 +62,12 @@
       "docId": "plot.xianni-ch2053-song-tian-yuanshi-shan-jidu-yifu",
       "dated": false,
       "seq": 1964
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-2054-three-losses-second-tribulation-ancestral-temple",
+      "dated": false,
+      "seq": 1964
     }
   },
   "contested": false,
@@ -60,7 +75,8 @@
   "docs": [
     "plot.xianni-ch2046-xingfa-lumo-five-bodies-fusion",
     "plot.xianni-2047-ta-tian-lu-kong-mie-dao",
-    "plot.xianni-ch2053-song-tian-yuanshi-shan-jidu-yifu"
+    "plot.xianni-ch2053-song-tian-yuanshi-shan-jidu-yifu",
+    "plot.xianni-2054-three-losses-second-tribulation-ancestral-temple"
   ],
-  "updatedAt": "2026-08-31T02:04:23.354Z"
+  "updatedAt": "2026-08-31T02:06:56.772Z"
 }

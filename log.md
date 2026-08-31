@@ -1288,3 +1288,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-31T01:59:29.981Z** `ingest` plot.xianni-ch2051-ten-suns-wang-lin-becomes-da-tianzun — 第2051章 十阳！——王林炼化仙祖头颅，尊阳升空成就大天尊 · kind=plot asOf=2026-08-31 entities=30 relations=38 src=01959-01963.p5.md
 - **2026-08-31T02:01:54.493Z** `ingest` plot.xianni-2052-song-tian-battle — 仙逆 第2052章 宋天战！——王林成大天尊，赴始古一脉战宋天 · kind=plot asOf=2026-08-31 entities=32 relations=40 src=01964-01967.p1.md
 - **2026-08-31T02:04:23.891Z** `ingest` plot.xianni-ch2053-song-tian-yuanshi-shan-jidu-yifu — 第2053章 成全！——王林接下原始山、宋天认输，计都当众拜王林为义父 · kind=plot asOf=2026-08-31 entities=19 relations=34 src=01964-01967.p2.md
+- **2026-08-31T02:06:57.256Z** `ingest` plot.xianni-2054-three-losses-second-tribulation-ancestral-temple — 第2054章 三损，二劫｜王林入始古祖庙渡第三损，计都百年承皇 · kind=plot asOf=2026-08-31 entities=27 relations=43 src=01964-01967.p3.md
