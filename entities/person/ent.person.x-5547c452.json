@@ -6,15 +6,17 @@
     "司南大帅",
     "武轩司南大帅",
     "老将司南",
-    "Si Nan"
+    "Si Nan",
+    "司南老将"
   ],
   "summary": "武轩国边疆大帅，手握近五十万大军的百战常胜老将，非皇室出身；实为司徒南在仙罡大陆的转世，前世记忆未开。",
   "attributes": {
-    "身份": "武轩国边疆大帅",
-    "称号": "大帅",
-    "性格": "不怒自威、刚直、护惜部属",
-    "外貌": "老者",
-    "标志特征": "煞气逼人，目中寒光"
+    "身份": "武轩国边疆大帅、武轩国大帅、凡人",
+    "称号": "南王",
+    "性格": "镇定豪放、霸气，不慌不惧",
+    "外貌": "老将",
+    "标志特征": "煞气逼人，目中寒光",
+    "阵营": "武轩国"
   },
   "observations": {
     "身份": [
@@ -22,6 +24,16 @@
         "value": "武轩国边疆大帅",
         "docId": "plot.xianni-2069-si-nan-marshal-wuxuan",
         "seq": 1977
+      },
+      {
+        "value": "武轩国大帅",
+        "docId": "plot.xianni-2070-you-are-situ-nan",
+        "seq": 1982
+      },
+      {
+        "value": "凡人",
+        "docId": "plot.xianni-2070-you-are-situ-nan",
+        "seq": 1982
       }
     ],
     "称号": [
@@ -29,6 +41,12 @@
         "value": "大帅",
         "docId": "plot.xianni-2069-si-nan-marshal-wuxuan",
         "seq": 1977
+      },
+      {
+        "value": "南王",
+        "docId": "plot.xianni-2070-you-are-situ-nan",
+        "seq": 1982,
+        "note": "本章尚未获得，为其执念与立誓目标"
       }
     ],
     "性格": [
@@ -36,6 +54,11 @@
         "value": "不怒自威、刚直、护惜部属",
         "docId": "plot.xianni-2069-si-nan-marshal-wuxuan",
         "seq": 1977
+      },
+      {
+        "value": "镇定豪放、霸气，不慌不惧",
+        "docId": "plot.xianni-2070-you-are-situ-nan",
+        "seq": 1982
       }
     ],
     "外貌": [
@@ -43,6 +66,11 @@
         "value": "老者",
         "docId": "plot.xianni-2069-si-nan-marshal-wuxuan",
         "seq": 1977
+      },
+      {
+        "value": "老将",
+        "docId": "plot.xianni-2070-you-are-situ-nan",
+        "seq": 1982
       }
     ],
     "标志特征": [
@@ -50,6 +78,13 @@
         "value": "煞气逼人，目中寒光",
         "docId": "plot.xianni-2069-si-nan-marshal-wuxuan",
         "seq": 1977
+      }
+    ],
+    "阵营": [
+      {
+        "value": "武轩国",
+        "docId": "plot.xianni-2070-you-are-situ-nan",
+        "seq": 1982
       }
     ]
   },
@@ -63,33 +98,41 @@
     },
     "称号": {
       "asOf": null,
-      "docId": "plot.xianni-2069-si-nan-marshal-wuxuan",
+      "docId": "plot.xianni-2070-you-are-situ-nan",
       "dated": false,
-      "seq": 1977
+      "seq": 1982,
+      "note": "本章尚未获得，为其执念与立誓目标"
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-2069-si-nan-marshal-wuxuan",
+      "docId": "plot.xianni-2070-you-are-situ-nan",
       "dated": false,
-      "seq": 1977
+      "seq": 1982
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-2069-si-nan-marshal-wuxuan",
+      "docId": "plot.xianni-2070-you-are-situ-nan",
       "dated": false,
-      "seq": 1977
+      "seq": 1982
     },
     "标志特征": {
       "asOf": null,
       "docId": "plot.xianni-2069-si-nan-marshal-wuxuan",
       "dated": false,
       "seq": 1977
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-2070-you-are-situ-nan",
+      "dated": false,
+      "seq": 1982
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-2069-si-nan-marshal-wuxuan"
+    "plot.xianni-2069-si-nan-marshal-wuxuan",
+    "plot.xianni-2070-you-are-situ-nan"
   ],
-  "updatedAt": "2026-08-31T02:40:57.544Z"
+  "updatedAt": "2026-08-31T02:42:41.370Z"
 }

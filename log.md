@@ -1304,3 +1304,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-31T02:36:33.218Z** `ingest` plot.xianni-2067-wang-lin-searches-seventy-two-continents-for-li-qianmei — 第2067章 找不到——王林神识遍扫仙族七十二洲寻故人，唯独找不到李倩梅；唤醒十三（王石） · kind=plot asOf=2026-08-31 entities=28 relations=33 src=01977-01981.p3.md
 - **2026-08-31T02:39:10.954Z** `ingest` plot.xianni-ch2068-happiness-and-responsibility — 仙逆 第2068章 快乐与责任：周茹转世山村、疯子苏醒承仙族之责 · kind=plot asOf=2026-08-31 entities=21 relations=31 src=01977-01981.p4.md
 - **2026-08-31T02:40:58.126Z** `ingest` plot.xianni-2069-si-nan-marshal-wuxuan — 第2069章 司南！——王林于武轩国边疆寻得转世的司徒南 · kind=plot asOf=2026-08-31 entities=19 relations=26 src=01977-01981.p5.md
+- **2026-08-31T02:42:41.914Z** `ingest` plot.xianni-2070-you-are-situ-nan — 第2070章 你是司徒南！——王林帅帐夜饮唤醒司南老将前世 · kind=plot asOf=2026-08-31 entities=18 relations=21 src=01982-01986.p1.md
