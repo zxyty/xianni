@@ -16,10 +16,11 @@
   ],
   "summary": "封界之尊推断存在的所在，破开天逆珠最终秘密方可寻到，其详情连他也所知不多。",
   "attributes": {
-    "类型": "秘境/神境、神秘秘境、远古境域、至高之境/秘境、秘境、至高秘境、考验之地、远古神秘之地、秘境/禁地",
-    "危险度": "莫测、极为艰难",
+    "类型": "秘境/神境、神秘秘境、远古境域、至高之境/秘境、秘境、至高秘境、考验之地、远古神秘之地、秘境/禁地、圣地/禁地",
+    "危险度": "极高，非寻常修士可入",
     "特产": "可炼至宝的材料",
-    "守护": "大天尊晋升考验"
+    "守护": "界律法则（禁止泄露其内隐秘）",
+    "所属界面": "仙罡大陆"
   },
   "observations": {
     "类型": [
@@ -67,6 +68,11 @@
         "value": "秘境/禁地",
         "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
         "seq": 1909
+      },
+      {
+        "value": "圣地/禁地",
+        "docId": "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
+        "seq": 1949
       }
     ],
     "危险度": [
@@ -89,6 +95,11 @@
         "value": "莫测、极为艰难",
         "docId": "plot.xianni-1794-baishi-xuanluo-wenshou-jinhua",
         "seq": 1705
+      },
+      {
+        "value": "极高，非寻常修士可入",
+        "docId": "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
+        "seq": 1949
       }
     ],
     "特产": [
@@ -123,6 +134,18 @@
         "value": "大天尊晋升考验",
         "docId": "plot.xianni-ch1946-tianyunzi-aura-stele-donglin-sect",
         "seq": 1853
+      },
+      {
+        "value": "界律法则（禁止泄露其内隐秘）",
+        "docId": "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
+        "seq": 1949
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "仙罡大陆",
+        "docId": "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
+        "seq": 1949
       }
     ]
   },
@@ -136,9 +159,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-1794-baishi-xuanluo-wenshou-jinhua",
+      "docId": "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
       "dated": false,
-      "seq": 1705
+      "seq": 1949
     },
     "特产": {
       "asOf": null,
@@ -148,9 +171,15 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch1946-tianyunzi-aura-stele-donglin-sect",
+      "docId": "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
       "dated": false,
-      "seq": 1853
+      "seq": 1949
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
+      "dated": false,
+      "seq": 1949
     }
   },
   "contested": false,
@@ -168,7 +197,8 @@
     "plot.xianni-1868-1872-tianzun-nie-eleventh-twelfth-floor",
     "plot.xianni-1873-1877-tianzun-nie-17th-floor",
     "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
-    "plot.xianni-ch2038-taigu-shenjing-treading-realms"
+    "plot.xianni-ch2038-taigu-shenjing-treading-realms",
+    "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening"
   ],
-  "updatedAt": "2026-08-31T01:13:40.925Z"
+  "updatedAt": "2026-08-31T01:15:51.749Z"
 }

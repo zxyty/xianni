@@ -1273,3 +1273,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-31T01:04:32.988Z** `ingest` plot.xianni-ch2036-daoji-guoshi-tianyunzi — 第2036章 道吉国师！！——十色雾玄阵九兽阻路，道古真身现，雾中老者竟是天运子 · kind=plot asOf=2026-08-31 entities=18 relations=20 src=01944-01948.p5.md
 - **2026-08-31T01:06:32.515Z** `ingest` plot.xianni-ch2037-po-jie-transmission-array-tianyunzi-qicai-xianzun — 仙逆 第2037章 破界！——王林力撼传送阵，与「天运子/七彩仙尊」重叠之老者对峙 · kind=plot asOf=2026-08-31 entities=15 relations=20 src=01949-01953.p1.md
 - **2026-08-31T01:13:41.459Z** `ingest` plot.xianni-ch2038-taigu-shenjing-treading-realms — 《仙逆》第2038章 太古神境！——王林燃大天尊之阳踏界，国师引苍穹之魂开四漩涡 · kind=plot asOf=2026-08-31 entities=34 relations=44 src=01949-01953.p2.md
+- **2026-08-31T01:15:52.319Z** `ingest` plot.xianni-ch2039-ding-duo-taigu-shenjing-opening — 第2039章 定夺：道古国师吐露太古神境隐秘，九漩涡启阵 · kind=plot asOf=2026-08-31 entities=18 relations=26 src=01949-01953.p3.md

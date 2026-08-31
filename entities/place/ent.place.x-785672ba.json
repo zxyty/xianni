@@ -2,11 +2,14 @@
   "id": "ent.place.x-785672ba",
   "type": "place",
   "name": "苍茫大海",
-  "aliases": [],
+  "aliases": [
+    "古族与仙族之间的大海"
+  ],
   "summary": "隔开古族与仙族之地，黑石城临近于此。",
   "attributes": {
-    "类型": "大海",
-    "方位": "古族与仙族之间"
+    "类型": "巨海/天堑",
+    "方位": "古族与仙族之间",
+    "所属界面": "仙罡大陆"
   },
   "observations": {
     "类型": [
@@ -14,6 +17,11 @@
         "value": "大海",
         "docId": "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
         "seq": 1914
+      },
+      {
+        "value": "巨海/天堑",
+        "docId": "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
+        "seq": 1949
       }
     ],
     "方位": [
@@ -22,27 +30,41 @@
         "docId": "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
         "seq": 1914
       }
+    ],
+    "所属界面": [
+      {
+        "value": "仙罡大陆",
+        "docId": "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
+        "seq": 1949
+      }
     ]
   },
   "firstSeq": 1914,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
+      "docId": "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
       "dated": false,
-      "seq": 1914
+      "seq": 1949
     },
     "方位": {
       "asOf": null,
       "docId": "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
       "dated": false,
       "seq": 1914
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
+      "dated": false,
+      "seq": 1949
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun"
+    "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
+    "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening"
   ],
-  "updatedAt": "2026-08-30T23:52:14.345Z"
+  "updatedAt": "2026-08-31T01:15:51.752Z"
 }

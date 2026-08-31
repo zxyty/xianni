@@ -4,15 +4,18 @@
   "name": "神识死海",
   "aliases": [
     "死海",
-    "涂司死海"
+    "涂司死海",
+    "极古一脉死海",
+    "极吉一脉死海"
   ],
   "summary": "紫府识海灰黑一半，涂司所凝，藏忆之传承，外有无穷灰雾、雾底雷电层与黑海巨兽，凡力无法闯入。",
   "attributes": {
-    "类型": "禁地、神识/死海、神识所化海洋／秘境、神识死海、阻人进入的识海禁地",
+    "类型": "禁地、神识/死海、神识所化海洋／秘境、神识死海、阻人进入的识海禁地、死海/修炼之地",
     "危险度": "极高",
     "守护": "灰色雾气、紫色雷电层、黑海似龙生物、死海守护生物、藏匿完整忆之传承",
-    "特产": "忆之传承",
-    "所属界面": "古神之地"
+    "特产": "海内压力可令身体数倍承受、激发全部潜力",
+    "所属界面": "仙罡大陆",
+    "所属势力": "极古一脉"
   },
   "observations": {
     "类型": [
@@ -40,6 +43,11 @@
         "value": "阻人进入的识海禁地",
         "docId": "plot.xianni-ch188-gushen-chuancheng-2",
         "seq": 173
+      },
+      {
+        "value": "死海/修炼之地",
+        "docId": "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
+        "seq": 1949
       }
     ],
     "危险度": [
@@ -81,6 +89,11 @@
         "value": "忆之传承",
         "docId": "plot.xianni-ch191-shenshi-sihai",
         "seq": 176
+      },
+      {
+        "value": "海内压力可令身体数倍承受、激发全部潜力",
+        "docId": "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
+        "seq": 1949
       }
     ],
     "所属界面": [
@@ -88,6 +101,18 @@
         "value": "古神之地",
         "docId": "plot.xianni-ch194-blood-sea-seal-opening",
         "seq": 179
+      },
+      {
+        "value": "仙罡大陆",
+        "docId": "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
+        "seq": 1949
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "极古一脉",
+        "docId": "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
+        "seq": 1949
       }
     ]
   },
@@ -113,15 +138,21 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-ch191-shenshi-sihai",
+      "docId": "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
       "dated": false,
-      "seq": 176
+      "seq": 1949
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch194-blood-sea-seal-opening",
+      "docId": "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
       "dated": false,
-      "seq": 179
+      "seq": 1949
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
+      "dated": false,
+      "seq": 1949
     }
   },
   "contested": false,
@@ -129,7 +160,8 @@
   "docs": [
     "plot.xianni-ch191-shenshi-sihai",
     "plot.xianni-ch194-blood-sea-seal-opening",
-    "plot.xianni-ch188-gushen-chuancheng-2"
+    "plot.xianni-ch188-gushen-chuancheng-2",
+    "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening"
   ],
-  "updatedAt": "2026-07-08T12:39:00.863Z"
+  "updatedAt": "2026-08-31T01:15:51.753Z"
 }

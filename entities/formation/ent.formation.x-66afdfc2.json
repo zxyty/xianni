@@ -3,12 +3,14 @@
   "type": "formation",
   "name": "太古神境开启大阵",
   "aliases": [
-    "地面上的阵法"
+    "地面上的阵法",
+    "九漩涡大阵"
   ],
   "summary": "位于另一空间地面的阵法，外覆大网；历代开启太古神境都只是部分打开，而道古国师称以其方法可将太古神境完全打开，亦是使李慕婉复活并超脱轮回的唯一凭依。",
   "attributes": {
-    "效果": "打开太古神境、令死人复活、使亡者不受轮回限制",
-    "布置者": "道古国师"
+    "效果": "打开太古神境、令死人复活、使亡者不受轮回限制、于天幕凝成九个黑色漩涡、每爆发一个漩涡则仙罡大陆九息化夜、海中升起一根通天之柱",
+    "布置者": "道古国师",
+    "破解法": "为王林一念之间可毁"
   },
   "observations": {
     "效果": [
@@ -26,6 +28,16 @@
         "value": "使亡者不受轮回限制",
         "docId": "plot.xianni-ch2038-taigu-shenjing-treading-realms",
         "seq": 1949
+      },
+      {
+        "value": "于天幕凝成九个黑色漩涡",
+        "docId": "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
+        "seq": 1949
+      },
+      {
+        "value": "每爆发一个漩涡则仙罡大陆九息化夜、海中升起一根通天之柱",
+        "docId": "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
+        "seq": 1949
       }
     ],
     "布置者": [
@@ -33,6 +45,14 @@
         "value": "道古国师",
         "docId": "plot.xianni-ch2038-taigu-shenjing-treading-realms",
         "seq": 1949
+      }
+    ],
+    "破解法": [
+      {
+        "value": "为王林一念之间可毁",
+        "docId": "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
+        "seq": 1949,
+        "note": "本章王林选择不毁"
       }
     ]
   },
@@ -49,12 +69,20 @@
       "docId": "plot.xianni-ch2038-taigu-shenjing-treading-realms",
       "dated": false,
       "seq": 1949
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
+      "dated": false,
+      "seq": 1949,
+      "note": "本章王林选择不毁"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch2038-taigu-shenjing-treading-realms"
+    "plot.xianni-ch2038-taigu-shenjing-treading-realms",
+    "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening"
   ],
-  "updatedAt": "2026-08-31T01:13:40.920Z"
+  "updatedAt": "2026-08-31T01:15:51.758Z"
 }
