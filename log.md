@@ -1250,3 +1250,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-31T00:09:47.823Z** `ingest` plot.xianni-2013-she-is-who-song-zhi-fusion-wang-lin-hundred-steps — 第2013章 他，是谁…（宋致融魂记忆错乱／王林登古道山第百阶） · kind=plot asOf=2026-08-31 entities=16 relations=27 src=01924-01928.p2.md
 - **2026-08-31T00:12:20.180Z** `ingest` plot.xianni-ch2014-gudao-mountain-999-steps-trial — 第2014章 千载难逢：王林登古道山石台二百阶，仙古融合契机 · kind=plot asOf=2026-08-31 entities=23 relations=35 src=01924-01928.p3.md
 - **2026-08-31T00:14:47.002Z** `ingest` plot.xianni-ch2015-jiuqu-sanxiang-shang — 第2015章 九曲三相（上）：王林登古道山第201—230阶，仙古融合初成，金天黑地与苍穹风曲、天道雷音现世 · kind=plot asOf=2026-08-31 entities=24 relations=34 src=01924-01928.p4.md
+- **2026-08-31T00:16:29.370Z** `ingest` plot.xianni-ch2016-jiuqu-sanxiang-xia — 第2016章 九曲三相(下)：王林登第三百台阶，引动八曲二相 · kind=plot asOf=2026-08-31 entities=11 relations=18 src=01924-01928.p5.md
