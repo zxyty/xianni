@@ -4,12 +4,16 @@
   "name": "始古皇尊",
   "aliases": [
     "始古老皇尊",
-    "老皇尊"
+    "老皇尊",
+    "计都之父"
   ],
   "summary": "始古一脉现任皇尊，万年之期接近，按古老约定须在百余年内退位传位于后人；始终沉默，无权选择。",
   "attributes": {
     "身份": "始古一脉皇尊",
-    "寿元": "万年之期接近"
+    "寿元": "万年之期接近",
+    "外貌": "身穿皇袍的老者",
+    "阵营": "始古一脉",
+    "性格": "隐忍、审时度势、目露阴沉"
   },
   "observations": {
     "身份": [
@@ -24,6 +28,27 @@
         "value": "万年之期接近",
         "docId": "plot.xianni-ch2044-tiandi-yixiang-benyuan-zhuangda",
         "seq": 1954
+      }
+    ],
+    "外貌": [
+      {
+        "value": "身穿皇袍的老者",
+        "docId": "plot.xianni-ch2053-song-tian-yuanshi-shan-jidu-yifu",
+        "seq": 1964
+      }
+    ],
+    "阵营": [
+      {
+        "value": "始古一脉",
+        "docId": "plot.xianni-ch2053-song-tian-yuanshi-shan-jidu-yifu",
+        "seq": 1964
+      }
+    ],
+    "性格": [
+      {
+        "value": "隐忍、审时度势、目露阴沉",
+        "docId": "plot.xianni-ch2053-song-tian-yuanshi-shan-jidu-yifu",
+        "seq": 1964
       }
     ]
   },
@@ -40,12 +65,31 @@
       "docId": "plot.xianni-ch2044-tiandi-yixiang-benyuan-zhuangda",
       "dated": false,
       "seq": 1954
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2053-song-tian-yuanshi-shan-jidu-yifu",
+      "dated": false,
+      "seq": 1964
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2053-song-tian-yuanshi-shan-jidu-yifu",
+      "dated": false,
+      "seq": 1964
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2053-song-tian-yuanshi-shan-jidu-yifu",
+      "dated": false,
+      "seq": 1964
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch2044-tiandi-yixiang-benyuan-zhuangda"
+    "plot.xianni-ch2044-tiandi-yixiang-benyuan-zhuangda",
+    "plot.xianni-ch2053-song-tian-yuanshi-shan-jidu-yifu"
   ],
-  "updatedAt": "2026-08-31T01:33:28.499Z"
+  "updatedAt": "2026-08-31T02:04:23.341Z"
 }
