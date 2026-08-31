@@ -8,14 +8,16 @@
     "当年的南王",
     "老南王",
     "京都王爷",
-    "孝敬王林的王爷"
+    "孝敬王林的王爷",
+    "武轩国南王"
   ],
   "summary": "南王府之主，俊朗威严的中年王爷，唯一爱好为收藏各类雕刻品，供养两名道袍修士。",
   "attributes": {
-    "身份": "四派联盟境内凡俗王爷",
-    "外貌": "俊朗威严的中年男子",
-    "性格": "爱好雕刻品",
-    "种族": "凡人"
+    "身份": "武轩国王爷",
+    "外貌": "中年男子，眼眶发黑，酒色掏空之相",
+    "性格": "奢靡阴沉、色厉内荏",
+    "种族": "凡人",
+    "称号": "南王"
   },
   "observations": {
     "身份": [
@@ -33,6 +35,11 @@
         "value": "四派联盟境内凡俗王爷",
         "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
         "seq": 253
+      },
+      {
+        "value": "武轩国王爷",
+        "docId": "plot.xianni-2069-si-nan-marshal-wuxuan",
+        "seq": 1977
       }
     ],
     "外貌": [
@@ -40,6 +47,11 @@
         "value": "俊朗威严的中年男子",
         "docId": "plot.xianni-ch235-238-guiyin-fabao",
         "seq": 235
+      },
+      {
+        "value": "中年男子，眼眶发黑，酒色掏空之相",
+        "docId": "plot.xianni-2069-si-nan-marshal-wuxuan",
+        "seq": 1977
       }
     ],
     "性格": [
@@ -47,6 +59,11 @@
         "value": "爱好雕刻品",
         "docId": "plot.xianni-ch235-238-guiyin-fabao",
         "seq": 235
+      },
+      {
+        "value": "奢靡阴沉、色厉内荏",
+        "docId": "plot.xianni-2069-si-nan-marshal-wuxuan",
+        "seq": 1977
       }
     ],
     "种族": [
@@ -55,33 +72,46 @@
         "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
         "seq": 253
       }
+    ],
+    "称号": [
+      {
+        "value": "南王",
+        "docId": "plot.xianni-2069-si-nan-marshal-wuxuan",
+        "seq": 1977
+      }
     ]
   },
   "firstSeq": 235,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+      "docId": "plot.xianni-2069-si-nan-marshal-wuxuan",
       "dated": false,
-      "seq": 253
+      "seq": 1977
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch235-238-guiyin-fabao",
+      "docId": "plot.xianni-2069-si-nan-marshal-wuxuan",
       "dated": false,
-      "seq": 235
+      "seq": 1977
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch235-238-guiyin-fabao",
+      "docId": "plot.xianni-2069-si-nan-marshal-wuxuan",
       "dated": false,
-      "seq": 235
+      "seq": 1977
     },
     "种族": {
       "asOf": null,
       "docId": "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
       "dated": false,
       "seq": 253
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-2069-si-nan-marshal-wuxuan",
+      "dated": false,
+      "seq": 1977
     }
   },
   "contested": false,
@@ -89,7 +119,8 @@
   "docs": [
     "plot.xianni-ch235-238-guiyin-fabao",
     "plot.xianni-ch264-samsara-heavenly-dao-enlightenment",
-    "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing"
+    "plot.xianni-ch269-tiandao-wuqing-woodcarving-snow-clearing",
+    "plot.xianni-2069-si-nan-marshal-wuxuan"
   ],
-  "updatedAt": "2026-08-02T09:59:32.812Z"
+  "updatedAt": "2026-08-31T02:40:57.546Z"
 }
