@@ -17,11 +17,12 @@
   ],
   "summary": "封界之尊推断存在的所在，破开天逆珠最终秘密方可寻到，其详情连他也所知不多。",
   "attributes": {
-    "类型": "秘境/神境、神秘秘境、远古境域、至高之境/秘境、秘境、至高秘境、考验之地、远古神秘之地、秘境/禁地、圣地/禁地",
-    "危险度": "极高，非寻常修士可入",
+    "类型": "秘境/神境、神秘秘境、远古境域、至高之境/秘境、秘境、至高秘境、考验之地、远古神秘之地、秘境/禁地、圣地/禁地、远古秘境·禁地",
+    "危险度": "未知、极高、玄奥莫测、莫测、极为艰难、极高，非寻常修士可入、极高（海水旋转如风暴，久帝亦无法深入）",
     "特产": "可炼至宝的材料",
-    "守护": "界律法则（禁止泄露其内隐秘）",
-    "所属界面": "仙罡大陆"
+    "守护": "大天尊晋升考验、界律法则（禁止泄露其内隐秘）、旋转呼啸的海水风暴",
+    "所属界面": "仙罡大陆",
+    "方位": "古族大地与仙族大地之间的苍茫大海正中"
   },
   "observations": {
     "类型": [
@@ -74,6 +75,11 @@
         "value": "圣地/禁地",
         "docId": "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
         "seq": 1949
+      },
+      {
+        "value": "远古秘境·禁地",
+        "docId": "plot.xianni-2041-tomorrow-song-zhi-heishi-city-farewell",
+        "seq": 1949
       }
     ],
     "危险度": [
@@ -100,6 +106,11 @@
       {
         "value": "极高，非寻常修士可入",
         "docId": "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
+        "seq": 1949
+      },
+      {
+        "value": "极高（海水旋转如风暴，久帝亦无法深入）",
+        "docId": "plot.xianni-2041-tomorrow-song-zhi-heishi-city-farewell",
         "seq": 1949
       }
     ],
@@ -140,12 +151,24 @@
         "value": "界律法则（禁止泄露其内隐秘）",
         "docId": "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
         "seq": 1949
+      },
+      {
+        "value": "旋转呼啸的海水风暴",
+        "docId": "plot.xianni-2041-tomorrow-song-zhi-heishi-city-farewell",
+        "seq": 1949
       }
     ],
     "所属界面": [
       {
         "value": "仙罡大陆",
         "docId": "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
+        "seq": 1949
+      }
+    ],
+    "方位": [
+      {
+        "value": "古族大地与仙族大地之间的苍茫大海正中",
+        "docId": "plot.xianni-2041-tomorrow-song-zhi-heishi-city-farewell",
         "seq": 1949
       }
     ]
@@ -160,9 +183,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
+      "docId": "lore.xianni-1284-tianni-origin-fengjie-zhizun",
       "dated": false,
-      "seq": 1949
+      "seq": 1200
     },
     "特产": {
       "asOf": null,
@@ -172,13 +195,19 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
+      "docId": "plot.xianni-ch1946-tianyunzi-aura-stele-donglin-sect",
       "dated": false,
-      "seq": 1949
+      "seq": 1853
     },
     "所属界面": {
       "asOf": null,
       "docId": "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
+      "dated": false,
+      "seq": 1949
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-2041-tomorrow-song-zhi-heishi-city-farewell",
       "dated": false,
       "seq": 1949
     }
@@ -200,7 +229,8 @@
     "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
     "plot.xianni-ch2038-taigu-shenjing-treading-realms",
     "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
-    "plot.xianni-2040-ninth-pillar-taigu-shenjing-opens"
+    "plot.xianni-2040-ninth-pillar-taigu-shenjing-opens",
+    "plot.xianni-2041-tomorrow-song-zhi-heishi-city-farewell"
   ],
-  "updatedAt": "2026-08-31T01:18:49.837Z"
+  "updatedAt": "2026-08-31T01:21:17.287Z"
 }
