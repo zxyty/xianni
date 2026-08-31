@@ -5,16 +5,21 @@
   "aliases": [],
   "summary": "位于古道山顶的高塔，顶层有迷雾中的身影，四周有四根巨柱，各盘膝一名灰衣人。",
   "attributes": {
-    "类型": "塔楼",
+    "类型": "塔楼、高塔",
     "上级区域": "古道山",
     "方位": "古道山山顶",
-    "守护": "四柱灰衣人"
+    "守护": "四柱灰衣人、四名灰衣人"
   },
   "observations": {
     "类型": [
       {
         "value": "塔楼",
         "docId": "plot.xianni-ch2014-gudao-mountain-999-steps-trial",
+        "seq": 1924
+      },
+      {
+        "value": "高塔",
+        "docId": "plot.xianni-ch2015-jiuqu-sanxiang-shang",
         "seq": 1924
       }
     ],
@@ -36,6 +41,11 @@
       {
         "value": "四柱灰衣人",
         "docId": "plot.xianni-ch2014-gudao-mountain-999-steps-trial",
+        "seq": 1924
+      },
+      {
+        "value": "四名灰衣人",
+        "docId": "plot.xianni-ch2015-jiuqu-sanxiang-shang",
         "seq": 1924
       }
     ]
@@ -70,7 +80,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch2014-gudao-mountain-999-steps-trial"
+    "plot.xianni-ch2014-gudao-mountain-999-steps-trial",
+    "plot.xianni-ch2015-jiuqu-sanxiang-shang"
   ],
-  "updatedAt": "2026-08-31T00:12:19.699Z"
+  "updatedAt": "2026-08-31T00:14:46.448Z"
 }

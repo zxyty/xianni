@@ -4,12 +4,15 @@
   "name": "古道山四柱灰衣人",
   "aliases": [
     "四根柱子上的四人",
-    "闭目灰衣中年人"
+    "闭目灰衣中年人",
+    "四个灰衣人",
+    "高塔四柱盘膝者"
   ],
   "summary": "盘坐于古道山顶四根巨柱上的四名干瘦灰衣中年人，始终闭目，玄罗到来亦不睁眼；在王林看来如同凡人，毫无古族之力。",
   "attributes": {
-    "外貌": "中年模样、身体干瘦、灰色衣衫",
-    "标志特征": "体内不见丝毫吉族之力，如同凡人"
+    "外貌": "灰衣，盘膝而坐",
+    "标志特征": "体内不见丝毫吉族之力，如同凡人",
+    "身份": "古道山高塔守座者"
   },
   "observations": {
     "外貌": [
@@ -17,6 +20,11 @@
         "value": "中年模样、身体干瘦、灰色衣衫",
         "docId": "plot.xianni-ch2011-gudao-mountain-bell",
         "seq": 1919
+      },
+      {
+        "value": "灰衣，盘膝而坐",
+        "docId": "plot.xianni-ch2015-jiuqu-sanxiang-shang",
+        "seq": 1924
       }
     ],
     "标志特征": [
@@ -26,15 +34,22 @@
         "seq": 1919,
         "note": "王林目测所见，实力深不可测"
       }
+    ],
+    "身份": [
+      {
+        "value": "古道山高塔守座者",
+        "docId": "plot.xianni-ch2015-jiuqu-sanxiang-shang",
+        "seq": 1924
+      }
     ]
   },
   "firstSeq": 1919,
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.xianni-ch2011-gudao-mountain-bell",
+      "docId": "plot.xianni-ch2015-jiuqu-sanxiang-shang",
       "dated": false,
-      "seq": 1919
+      "seq": 1924
     },
     "标志特征": {
       "asOf": null,
@@ -42,12 +57,19 @@
       "dated": false,
       "seq": 1919,
       "note": "王林目测所见，实力深不可测"
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2015-jiuqu-sanxiang-shang",
+      "dated": false,
+      "seq": 1924
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch2011-gudao-mountain-bell"
+    "plot.xianni-ch2011-gudao-mountain-bell",
+    "plot.xianni-ch2015-jiuqu-sanxiang-shang"
   ],
-  "updatedAt": "2026-08-31T00:05:01.022Z"
+  "updatedAt": "2026-08-31T00:14:46.421Z"
 }
