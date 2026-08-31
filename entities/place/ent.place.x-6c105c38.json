@@ -4,13 +4,15 @@
   "name": "幻家祖宅密室",
   "aliases": [
     "幻家密室",
-    "闭关密室"
+    "闭关密室",
+    "行宫密室"
   ],
   "summary": "幻家老祖闭关之地，漩涡通道于此崩溃，剑气冲出致密室坍塌炸裂。",
   "attributes": {
     "所属势力": "幻家",
-    "上级区域": "千幻星",
-    "类型": "闭关密室"
+    "上级区域": "计都行宫",
+    "类型": "密室",
+    "守护": "王林亲布的大量禁制"
   },
   "observations": {
     "所属势力": [
@@ -25,6 +27,11 @@
         "value": "千幻星",
         "docId": "plot.xianni-681-wang-ping",
         "seq": 641
+      },
+      {
+        "value": "计都行宫",
+        "docId": "plot.xianni-2042-hun-wanzheng-songzhi-guixiang-jidu-huangzi",
+        "seq": 1954
       }
     ],
     "类型": [
@@ -32,6 +39,18 @@
         "value": "闭关密室",
         "docId": "plot.xianni-681-wang-ping",
         "seq": 641
+      },
+      {
+        "value": "密室",
+        "docId": "plot.xianni-2042-hun-wanzheng-songzhi-guixiang-jidu-huangzi",
+        "seq": 1954
+      }
+    ],
+    "守护": [
+      {
+        "value": "王林亲布的大量禁制",
+        "docId": "plot.xianni-2042-hun-wanzheng-songzhi-guixiang-jidu-huangzi",
+        "seq": 1954
       }
     ]
   },
@@ -45,21 +64,28 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-681-wang-ping",
+      "docId": "plot.xianni-2042-hun-wanzheng-songzhi-guixiang-jidu-huangzi",
       "dated": false,
-      "seq": 641
+      "seq": 1954
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-681-wang-ping",
+      "docId": "plot.xianni-2042-hun-wanzheng-songzhi-guixiang-jidu-huangzi",
       "dated": false,
-      "seq": 641
+      "seq": 1954
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-2042-hun-wanzheng-songzhi-guixiang-jidu-huangzi",
+      "dated": false,
+      "seq": 1954
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-681-wang-ping"
+    "plot.xianni-681-wang-ping",
+    "plot.xianni-2042-hun-wanzheng-songzhi-guixiang-jidu-huangzi"
   ],
-  "updatedAt": "2026-08-22T23:25:41.413Z"
+  "updatedAt": "2026-08-31T01:24:01.854Z"
 }

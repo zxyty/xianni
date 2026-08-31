@@ -4,12 +4,15 @@
   "name": "宋天大天尊",
   "aliases": [
     "宋天",
-    "始古一脉大天尊"
+    "始古一脉大天尊",
+    "宋尊",
+    "始古大天尊宋天"
   ],
   "summary": "与计都父皇一同推断王林身份而未能确定的大天尊；其威压程度被计都用作参照。",
   "attributes": {
-    "称号": "大天尊",
-    "身份": "始古一脉大天尊"
+    "称号": "宋尊",
+    "身份": "始古一脉大天尊",
+    "阵营": "始古一脉"
   },
   "observations": {
     "称号": [
@@ -17,6 +20,11 @@
         "value": "大天尊",
         "docId": "plot.xianni-ch2007-jidu-prince-kowtow-godfather-backup-plan",
         "seq": 1919
+      },
+      {
+        "value": "宋尊",
+        "docId": "plot.xianni-2042-hun-wanzheng-songzhi-guixiang-jidu-huangzi",
+        "seq": 1954
       }
     ],
     "身份": [
@@ -25,28 +33,42 @@
         "docId": "plot.xianni-ch2019-feng-qi-dao-gu",
         "seq": 1929
       }
+    ],
+    "阵营": [
+      {
+        "value": "始古一脉",
+        "docId": "plot.xianni-2042-hun-wanzheng-songzhi-guixiang-jidu-huangzi",
+        "seq": 1954
+      }
     ]
   },
   "firstSeq": 1919,
   "attrProvenance": {
     "称号": {
       "asOf": null,
-      "docId": "plot.xianni-ch2007-jidu-prince-kowtow-godfather-backup-plan",
+      "docId": "plot.xianni-2042-hun-wanzheng-songzhi-guixiang-jidu-huangzi",
       "dated": false,
-      "seq": 1919
+      "seq": 1954
     },
     "身份": {
       "asOf": null,
       "docId": "plot.xianni-ch2019-feng-qi-dao-gu",
       "dated": false,
       "seq": 1929
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-2042-hun-wanzheng-songzhi-guixiang-jidu-huangzi",
+      "dated": false,
+      "seq": 1954
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch2007-jidu-prince-kowtow-godfather-backup-plan",
-    "plot.xianni-ch2019-feng-qi-dao-gu"
+    "plot.xianni-ch2019-feng-qi-dao-gu",
+    "plot.xianni-2042-hun-wanzheng-songzhi-guixiang-jidu-huangzi"
   ],
-  "updatedAt": "2026-08-31T00:24:08.316Z"
+  "updatedAt": "2026-08-31T01:24:01.835Z"
 }
