@@ -3,12 +3,16 @@
   "type": "person",
   "name": "道吉国师",
   "aliases": [
-    "国师大人"
+    "国师大人",
+    "十色雾气中的老夫",
+    "大王朝国师（存疑）"
   ],
   "summary": "道吉一脉国师，推衍道吉未来时心神融入冥冥，从某个从未去过的奇异之地的天道分魂中取来一缕女子之魂赠予皇尊；闭关前留下皇尊统一吉国与皇尊死亡两幅画面、皆有白发身影的预言。",
   "attributes": {
-    "身份": "道吉一脉国师",
-    "阵营": "道吉一脉"
+    "身份": "道吉国师",
+    "阵营": "道吉一脉",
+    "外貌": "盘膝而坐的老者",
+    "称号": "老夫"
   },
   "observations": {
     "身份": [
@@ -16,6 +20,12 @@
         "value": "道吉一脉国师",
         "docId": "plot.xianni-ch1710-yi-lv-hun",
         "seq": 1616
+      },
+      {
+        "value": "道吉国师",
+        "docId": "plot.xianni-ch2036-daoji-guoshi-tianyunzi",
+        "seq": 1944,
+        "note": "本章标题与王林猜测"
       }
     ],
     "阵营": [
@@ -24,27 +34,55 @@
         "docId": "plot.xianni-ch1710-yi-lv-hun",
         "seq": 1616
       }
+    ],
+    "外貌": [
+      {
+        "value": "盘膝而坐的老者",
+        "docId": "plot.xianni-ch2036-daoji-guoshi-tianyunzi",
+        "seq": 1944
+      }
+    ],
+    "称号": [
+      {
+        "value": "老夫",
+        "docId": "plot.xianni-ch2036-daoji-guoshi-tianyunzi",
+        "seq": 1944
+      }
     ]
   },
   "firstSeq": 1616,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch1710-yi-lv-hun",
+      "docId": "plot.xianni-ch2036-daoji-guoshi-tianyunzi",
       "dated": false,
-      "seq": 1616
+      "seq": 1944,
+      "note": "本章标题与王林猜测"
     },
     "阵营": {
       "asOf": null,
       "docId": "plot.xianni-ch1710-yi-lv-hun",
       "dated": false,
       "seq": 1616
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2036-daoji-guoshi-tianyunzi",
+      "dated": false,
+      "seq": 1944
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2036-daoji-guoshi-tianyunzi",
+      "dated": false,
+      "seq": 1944
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch1710-yi-lv-hun"
+    "plot.xianni-ch1710-yi-lv-hun",
+    "plot.xianni-ch2036-daoji-guoshi-tianyunzi"
   ],
-  "updatedAt": "2026-08-30T03:17:58.715Z"
+  "updatedAt": "2026-08-31T01:04:32.476Z"
 }
