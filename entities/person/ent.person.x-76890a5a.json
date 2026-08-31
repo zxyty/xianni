@@ -26,7 +26,7 @@
   "summary": "黑石城女子，被计部皇子选为道古皇选妃的最后一女，青衣清纯，出城时与王林目光相遇。",
   "attributes": {
     "性别": "女",
-    "外貌": "穿青色衣衫，相貌并非绝美，气质清纯、清纯如白莲，右眼下有一痣、相貌不绝伦但耐看；本章面色苍白、脸上被捏出淤痕、凤袍、珠帘遮面，相貌非绝伦之美、身着凤袍，容颜不算绝美，气质宁静、珠帘遮面、面色苍白、双目迷茫、身姿很美、一头青丝、已有岁月痕迹",
+    "外貌": "穿青色衣衫，相貌并非绝美，气质清纯、清纯如白莲，右眼下有一痣、相貌不绝伦但耐看；本章面色苍白、脸上被捏出淤痕、凤袍、珠帘遮面，相貌非绝伦之美、身着凤袍，容颜不算绝美，气质宁静、珠帘遮面、面色苍白、双目迷茫、身姿很美、一头青丝、已有岁月痕迹、满脸皱纹的老妇人，可见年轻时的美丽",
     "身份": "被选中随道古使团而去的选妃之女、大天尊宋家分支远脉子弟、道古一脉皇后、道古皇尊之皇后、道古皇尊册封之皇后、道古皇尊的皇后、道古皇尊所选之妃、道古皇尊之皇后（待婚）、道古皇尊大婚之对象/人质、道古皇尊册立之后（人选）、道古皇尊身侧之人、融入李慕婉残魂之人",
     "出身地": "始古·黑石城",
     "种族": "古族",
@@ -35,8 +35,10 @@
     "元神强度": "本有之魂与一缕残魂交缠",
     "称号": "皇后",
     "阵营": "道古一脉",
-    "存殁": "存活",
-    "结局": "残魂被分离后失忆、佩温暖玉坠独自返回黑石城"
+    "存殁": "临终（本章闭目）",
+    "结局": "残魂被分离后失忆、佩温暖玉坠独自返回黑石城",
+    "寿元": "五百年",
+    "死因": "寿元耗尽"
   },
   "observations": {
     "性别": [
@@ -92,6 +94,11 @@
         "value": "已有岁月痕迹",
         "docId": "plot.xianni-2054-three-losses-second-tribulation-ancestral-temple",
         "seq": 1964
+      },
+      {
+        "value": "满脸皱纹的老妇人，可见年轻时的美丽",
+        "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
+        "seq": 1996
       }
     ],
     "身份": [
@@ -288,6 +295,11 @@
         "value": "存活",
         "docId": "plot.xianni-2041-tomorrow-song-zhi-heishi-city-farewell",
         "seq": 1949
+      },
+      {
+        "value": "临终（本章闭目）",
+        "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
+        "seq": 1996
       }
     ],
     "结局": [
@@ -296,6 +308,20 @@
         "docId": "plot.xianni-2041-tomorrow-song-zhi-heishi-city-farewell",
         "seq": 1949,
         "note": "第2041章"
+      }
+    ],
+    "寿元": [
+      {
+        "value": "五百年",
+        "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
+        "seq": 1996
+      }
+    ],
+    "死因": [
+      {
+        "value": "寿元耗尽",
+        "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
+        "seq": 1996
       }
     ]
   },
@@ -364,9 +390,9 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.xianni-2041-tomorrow-song-zhi-heishi-city-farewell",
+      "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
       "dated": false,
-      "seq": 1949
+      "seq": 1996
     },
     "结局": {
       "asOf": null,
@@ -374,6 +400,18 @@
       "dated": false,
       "seq": 1949,
       "note": "第2041章"
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
+      "dated": false,
+      "seq": 1996
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
+      "dated": false,
+      "seq": 1996
     }
   },
   "contested": false,
@@ -397,7 +435,8 @@
     "plot.xianni-ch2035-future-huangzun-luochen",
     "plot.xianni-2041-tomorrow-song-zhi-heishi-city-farewell",
     "plot.xianni-2042-hun-wanzheng-songzhi-guixiang-jidu-huangzi",
-    "plot.xianni-2054-three-losses-second-tribulation-ancestral-temple"
+    "plot.xianni-2054-three-losses-second-tribulation-ancestral-temple",
+    "plot.xianni-2084-taigu-shenjing-opens-dongmei"
   ],
-  "updatedAt": "2026-08-31T02:06:56.761Z"
+  "updatedAt": "2026-08-31T03:26:46.517Z"
 }

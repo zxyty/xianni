@@ -1,97 +1,85 @@
 {
-  "id": "ent.person.x-23180d17",
-  "type": "person",
-  "name": "东梅",
+  "id": "ent.passage.x-24a84cff",
+  "type": "passage",
+  "name": "太古神境大门",
   "aliases": [
-    "丫鬟东梅",
-    "Dong Mei"
+    "太吉神境大门",
+    "九色光芒通道"
   ],
-  "summary": "宋致住所中年纪不大的丫鬟。",
+  "summary": "由九根巨大通天柱组成、散发九色光芒的通道，海水吸尽时开启，波纹可静止踏天境下万物，王林入内后柱散门消。",
   "attributes": {
-    "身份": "宋致的丫鬟",
-    "性别": "女",
-    "种族": "古族",
-    "外貌": "白衣、秀发垂落、背影很美带悲哀",
-    "标志特征": "具备古脉，可以修行",
-    "出身地": "黑石城"
+    "类型": "秘境入口通道",
+    "两端": "苍茫盆地 — 太古神境",
+    "稳定性": "极短暂，开启后不久即涣散消失",
+    "可通行境界": "踏天境以上方不被静止",
+    "守护": "海墙风暴与虚无漩涡"
   },
   "observations": {
-    "身份": [
+    "类型": [
       {
-        "value": "宋致的丫鬟",
-        "docId": "plot.xianni-2042-hun-wanzheng-songzhi-guixiang-jidu-huangzi",
-        "seq": 1954
-      }
-    ],
-    "性别": [
-      {
-        "value": "女",
+        "value": "秘境入口通道",
         "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
         "seq": 1996
       }
     ],
-    "种族": [
+    "两端": [
       {
-        "value": "古族",
+        "value": "苍茫盆地 — 太古神境",
         "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
         "seq": 1996
       }
     ],
-    "外貌": [
+    "稳定性": [
       {
-        "value": "白衣、秀发垂落、背影很美带悲哀",
+        "value": "极短暂，开启后不久即涣散消失",
         "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
         "seq": 1996
       }
     ],
-    "标志特征": [
+    "可通行境界": [
       {
-        "value": "具备古脉，可以修行",
+        "value": "踏天境以上方不被静止",
         "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
-        "seq": 1996
+        "seq": 1996,
+        "note": "波纹可静止踏天境下一切存在"
       }
     ],
-    "出身地": [
+    "守护": [
       {
-        "value": "黑石城",
+        "value": "海墙风暴与虚无漩涡",
         "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
         "seq": 1996
       }
     ]
   },
-  "firstSeq": 1954,
+  "firstSeq": 1996,
   "attrProvenance": {
-    "身份": {
-      "asOf": null,
-      "docId": "plot.xianni-2042-hun-wanzheng-songzhi-guixiang-jidu-huangzi",
-      "dated": false,
-      "seq": 1954
-    },
-    "性别": {
+    "类型": {
       "asOf": null,
       "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
       "dated": false,
       "seq": 1996
     },
-    "种族": {
+    "两端": {
       "asOf": null,
       "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
       "dated": false,
       "seq": 1996
     },
-    "外貌": {
+    "稳定性": {
       "asOf": null,
       "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
       "dated": false,
       "seq": 1996
     },
-    "标志特征": {
+    "可通行境界": {
       "asOf": null,
       "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
       "dated": false,
-      "seq": 1996
+      "seq": 1996,
+      "note": "波纹可静止踏天境下一切存在"
     },
-    "出身地": {
+    "守护": {
       "asOf": null,
       "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
       "dated": false,
@@ -101,8 +89,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-2042-hun-wanzheng-songzhi-guixiang-jidu-huangzi",
     "plot.xianni-2084-taigu-shenjing-opens-dongmei"
   ],
-  "updatedAt": "2026-08-31T03:26:46.520Z"
+  "updatedAt": "2026-08-31T03:26:46.531Z"
 }

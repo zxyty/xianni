@@ -1318,3 +1318,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-31T03:19:50.515Z** `ingest` plot.xianni-2081-wang-lin-leaves-dongfu-realm-farewell-gifts — 第2081章 临海王林离去了——离界前的三封赠礼 · kind=plot asOf=2026-08-31 entities=43 relations=61 src=01991-01995.p3.md
 - **2026-08-31T03:22:12.425Z** `ingest` plot.xianni-ch2082-taigu-shenjing-opening-anomaly — 第2082章 惊变——太古神境开启前的异变与六位大天尊齐聚 · kind=plot asOf=2026-08-31 entities=31 relations=41 src=01991-01995.p4.md
 - **2026-08-31T03:24:17.103Z** `ingest` plot.xianni-2083-taigu-shenjing-entry-qualification — 第2083章 踏入的资格——太古神境开启前的海墙风暴异变 · kind=plot asOf=2026-08-31 entities=22 relations=36 src=01991-01995.p5.md
+- **2026-08-31T03:26:47.085Z** `ingest` plot.xianni-2084-taigu-shenjing-opens-dongmei — 第2084章 太古神境开启与那女子东梅 · kind=plot asOf=2026-08-31 entities=29 relations=40 src=01996-02000.p1.md

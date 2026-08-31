@@ -21,12 +21,12 @@
   ],
   "summary": "隔开古族与仙族之地，黑石城临近于此。",
   "attributes": {
-    "类型": "大海、巨海/天堑、海洋→竖起的海水风暴巨墙、海域（现为巨大深坑）、海洋、大海/盆地、盆地/战场、战场/盆地、海域/分界、盆地、盆地／秘境开启地",
+    "类型": "大海、巨海/天堑、海洋→竖起的海水风暴巨墙、海域（现为巨大深坑）、海洋、大海/盆地、盆地/战场、战场/盆地、海域/分界、盆地、盆地／秘境开启地、盆地/大海",
     "方位": "古族与仙族之间、仙族与古族（古祖）之间、古族大地与仙族大地之间、仙罡大陆中间苍茫盆地、古族与仙族两端之间、苍茫大海中心",
     "所属界面": "仙罡大陆",
     "规模": "无边无际，难以测量",
     "特产": "海墙风暴",
-    "守护": "海墙风暴",
+    "守护": "海墙风暴与虚无漩涡",
     "危险度": "极高（风暴暴增百倍时天地崩溃化为虚无）"
   },
   "observations": {
@@ -85,6 +85,11 @@
         "value": "盆地／秘境开启地",
         "docId": "plot.xianni-2083-taigu-shenjing-entry-qualification",
         "seq": 1991
+      },
+      {
+        "value": "盆地/大海",
+        "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
+        "seq": 1996
       }
     ],
     "方位": [
@@ -155,6 +160,11 @@
         "value": "海墙风暴",
         "docId": "plot.xianni-ch2063-drive-fog-wang-lin-vs-gudao",
         "seq": 1972
+      },
+      {
+        "value": "海墙风暴与虚无漩涡",
+        "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
+        "seq": 1996
       }
     ],
     "危险度": [
@@ -210,9 +220,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch2063-drive-fog-wang-lin-vs-gudao",
+      "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
       "dated": false,
-      "seq": 1972
+      "seq": 1996
     },
     "危险度": {
       "asOf": null,
@@ -237,7 +247,8 @@
     "plot.xianni-2067-wang-lin-searches-seventy-two-continents-for-li-qianmei",
     "plot.xianni-ch2077-recognize-daoyi",
     "plot.xianni-ch2082-taigu-shenjing-opening-anomaly",
-    "plot.xianni-2083-taigu-shenjing-entry-qualification"
+    "plot.xianni-2083-taigu-shenjing-entry-qualification",
+    "plot.xianni-2084-taigu-shenjing-opens-dongmei"
   ],
-  "updatedAt": "2026-08-31T03:24:16.546Z"
+  "updatedAt": "2026-08-31T03:26:46.529Z"
 }

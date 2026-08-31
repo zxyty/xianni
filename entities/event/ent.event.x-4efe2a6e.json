@@ -1,97 +1,87 @@
 {
-  "id": "ent.person.x-23180d17",
-  "type": "person",
-  "name": "东梅",
+  "id": "ent.event.x-4efe2a6e",
+  "type": "event",
+  "name": "宋致临终托付东梅",
   "aliases": [
-    "丫鬟东梅",
-    "Dong Mei"
+    "黑石城临终一幕"
   ],
-  "summary": "宋致住所中年纪不大的丫鬟。",
+  "summary": "黑石城庭院内，寿元将尽的宋致与东梅告别，回忆五百年前王林讲述李慕婉与李倩梅往事时东梅的惆怅，临终心生「东梅是否即李倩梅转世」之问。",
   "attributes": {
-    "身份": "宋致的丫鬟",
-    "性别": "女",
-    "种族": "古族",
-    "外貌": "白衣、秀发垂落、背影很美带悲哀",
-    "标志特征": "具备古脉，可以修行",
-    "出身地": "黑石城"
+    "章节": "第2084章",
+    "地点": "黑石城（始古一脉）",
+    "参与方": "宋致、东梅",
+    "起因": "宋致五百年寿元将尽",
+    "结果": "宋致闭目，留下东梅与李倩梅是否为一人的悬念"
   },
   "observations": {
-    "身份": [
+    "章节": [
       {
-        "value": "宋致的丫鬟",
-        "docId": "plot.xianni-2042-hun-wanzheng-songzhi-guixiang-jidu-huangzi",
-        "seq": 1954
-      }
-    ],
-    "性别": [
-      {
-        "value": "女",
+        "value": "第2084章",
         "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
         "seq": 1996
       }
     ],
-    "种族": [
+    "地点": [
       {
-        "value": "古族",
+        "value": "黑石城（始古一脉）",
         "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
         "seq": 1996
       }
     ],
-    "外貌": [
+    "参与方": [
       {
-        "value": "白衣、秀发垂落、背影很美带悲哀",
+        "value": "宋致",
+        "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
+        "seq": 1996
+      },
+      {
+        "value": "东梅",
         "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
         "seq": 1996
       }
     ],
-    "标志特征": [
+    "起因": [
       {
-        "value": "具备古脉，可以修行",
+        "value": "宋致五百年寿元将尽",
         "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
         "seq": 1996
       }
     ],
-    "出身地": [
+    "结果": [
       {
-        "value": "黑石城",
+        "value": "宋致闭目，留下东梅与李倩梅是否为一人的悬念",
         "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
         "seq": 1996
       }
     ]
   },
-  "firstSeq": 1954,
+  "firstSeq": 1996,
   "attrProvenance": {
-    "身份": {
-      "asOf": null,
-      "docId": "plot.xianni-2042-hun-wanzheng-songzhi-guixiang-jidu-huangzi",
-      "dated": false,
-      "seq": 1954
-    },
-    "性别": {
+    "章节": {
       "asOf": null,
       "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
       "dated": false,
       "seq": 1996
     },
-    "种族": {
+    "地点": {
       "asOf": null,
       "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
       "dated": false,
       "seq": 1996
     },
-    "外貌": {
+    "参与方": {
       "asOf": null,
       "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
       "dated": false,
       "seq": 1996
     },
-    "标志特征": {
+    "起因": {
       "asOf": null,
       "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
       "dated": false,
       "seq": 1996
     },
-    "出身地": {
+    "结果": {
       "asOf": null,
       "docId": "plot.xianni-2084-taigu-shenjing-opens-dongmei",
       "dated": false,
@@ -101,8 +91,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-2042-hun-wanzheng-songzhi-guixiang-jidu-huangzi",
     "plot.xianni-2084-taigu-shenjing-opens-dongmei"
   ],
-  "updatedAt": "2026-08-31T03:26:46.520Z"
+  "updatedAt": "2026-08-31T03:26:46.529Z"
 }
