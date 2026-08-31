@@ -3,13 +3,15 @@
   "type": "place",
   "name": "云涛洲",
   "aliases": [
-    "云涛"
+    "云涛",
+    "西州云涛洲"
   ],
   "summary": "杜青到过的东州三洲之一，境内无雷脉。",
   "attributes": {
-    "上级区域": "东州",
+    "上级区域": "仙族大地七十二洲",
     "类型": "洲",
-    "特产": "海中诸多有修士居住的小岛"
+    "特产": "海中诸多有修士居住的小岛",
+    "方位": "仙族大陆西州"
   },
   "observations": {
     "上级区域": [
@@ -17,6 +19,11 @@
         "value": "东州",
         "docId": "plot.xianni-1818-wang-lin-suo-di-cheng-cun-fen-shen-su-xing",
         "seq": 1725
+      },
+      {
+        "value": "仙族大地七十二洲",
+        "docId": "plot.xianni-2067-wang-lin-searches-seventy-two-continents-for-li-qianmei",
+        "seq": 1977
       }
     ],
     "类型": [
@@ -32,15 +39,22 @@
         "docId": "plot.xianni-ch2038-taigu-shenjing-treading-realms",
         "seq": 1949
       }
+    ],
+    "方位": [
+      {
+        "value": "仙族大陆西州",
+        "docId": "plot.xianni-2067-wang-lin-searches-seventy-two-continents-for-li-qianmei",
+        "seq": 1977
+      }
     ]
   },
   "firstSeq": 1725,
   "attrProvenance": {
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-1818-wang-lin-suo-di-cheng-cun-fen-shen-su-xing",
+      "docId": "plot.xianni-2067-wang-lin-searches-seventy-two-continents-for-li-qianmei",
       "dated": false,
-      "seq": 1725
+      "seq": 1977
     },
     "类型": {
       "asOf": null,
@@ -53,13 +67,20 @@
       "docId": "plot.xianni-ch2038-taigu-shenjing-treading-realms",
       "dated": false,
       "seq": 1949
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-2067-wang-lin-searches-seventy-two-continents-for-li-qianmei",
+      "dated": false,
+      "seq": 1977
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1818-wang-lin-suo-di-cheng-cun-fen-shen-su-xing",
-    "plot.xianni-ch2038-taigu-shenjing-treading-realms"
+    "plot.xianni-ch2038-taigu-shenjing-treading-realms",
+    "plot.xianni-2067-wang-lin-searches-seventy-two-continents-for-li-qianmei"
   ],
-  "updatedAt": "2026-08-31T01:13:40.930Z"
+  "updatedAt": "2026-08-31T02:36:32.582Z"
 }

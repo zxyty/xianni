@@ -1301,3 +1301,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-31T02:29:00.438Z** `ingest` plot.xianni-ch2064-ta-tian-yi-bu — 仙逆 第2064章 踏天一步！——古道现真容自认古祖，古化天地对踏天一步 · kind=plot asOf=2026-08-31 entities=18 relations=31 src=01972-01976.p5.md
 - **2026-08-31T02:31:32.983Z** `ingest` plot.xianni-ch2065-jiuqu-sanxiang-complete — 第2065章 九曲三相全！——王林完整踏天境、悟出轮回本源、虚无分身融合 · kind=plot asOf=2026-08-31 entities=26 relations=34 src=01977-01981.p1.md
 - **2026-08-31T02:34:08.520Z** `ingest` plot.xianni-ch2066-agreement-wang-lin-defeats-gu-dao — 第2066章 约定——王林九曲三相合虚无分身，一指破古道神通，成仙罡第一强者 · kind=plot asOf=2026-08-31 entities=31 relations=45 src=01977-01981.p2.md
+- **2026-08-31T02:36:33.218Z** `ingest` plot.xianni-2067-wang-lin-searches-seventy-two-continents-for-li-qianmei — 第2067章 找不到——王林神识遍扫仙族七十二洲寻故人，唯独找不到李倩梅；唤醒十三（王石） · kind=plot asOf=2026-08-31 entities=28 relations=33 src=01977-01981.p3.md
