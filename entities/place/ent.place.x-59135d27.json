@@ -3,11 +3,12 @@
   "type": "place",
   "name": "古道山三百台阶",
   "aliases": [
-    "三百台阶"
+    "三百台阶",
+    "第三百零一处台阶"
   ],
   "summary": "古道大天尊所设的三百级台阶，每阶威压递增，本章王林行至第二百三十阶。",
   "attributes": {
-    "类型": "试炼阶梯",
+    "类型": "台阶/试炼",
     "上级区域": "古道山",
     "危险度": "极高"
   },
@@ -17,6 +18,11 @@
         "value": "试炼阶梯",
         "docId": "plot.xianni-ch2015-jiuqu-sanxiang-shang",
         "seq": 1924
+      },
+      {
+        "value": "台阶/试炼",
+        "docId": "plot.xianni-ch2017-gudao-mountain-departure-and-imperial-invitation",
+        "seq": 1929
       }
     ],
     "上级区域": [
@@ -38,9 +44,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch2015-jiuqu-sanxiang-shang",
+      "docId": "plot.xianni-ch2017-gudao-mountain-departure-and-imperial-invitation",
       "dated": false,
-      "seq": 1924
+      "seq": 1929
     },
     "上级区域": {
       "asOf": null,
@@ -58,7 +64,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch2015-jiuqu-sanxiang-shang"
+    "plot.xianni-ch2015-jiuqu-sanxiang-shang",
+    "plot.xianni-ch2017-gudao-mountain-departure-and-imperial-invitation"
   ],
-  "updatedAt": "2026-08-31T00:14:46.447Z"
+  "updatedAt": "2026-08-31T00:18:51.747Z"
 }

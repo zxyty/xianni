@@ -2,10 +2,12 @@
   "id": "ent.place.x-70775296",
   "type": "place",
   "name": "古道山高塔",
-  "aliases": [],
+  "aliases": [
+    "古道山顶高塔"
+  ],
   "summary": "位于古道山顶的高塔，四周铁链系有铃铛，铃音可压制修为与本源、抹去记忆；最顶层盘坐着迷雾遮身的古道大天尊。",
   "attributes": {
-    "类型": "高塔／禁地",
+    "类型": "塔/居所",
     "方位": "古道山山顶",
     "守护": "古道大天尊、四名灰衣人",
     "上级区域": "古道山"
@@ -16,6 +18,11 @@
         "value": "高塔／禁地",
         "docId": "plot.xianni-ch2012-gudao-mountain-three-hundred-steps",
         "seq": 1924
+      },
+      {
+        "value": "塔/居所",
+        "docId": "plot.xianni-ch2017-gudao-mountain-departure-and-imperial-invitation",
+        "seq": 1929
       }
     ],
     "方位": [
@@ -49,9 +56,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch2012-gudao-mountain-three-hundred-steps",
+      "docId": "plot.xianni-ch2017-gudao-mountain-departure-and-imperial-invitation",
       "dated": false,
-      "seq": 1924
+      "seq": 1929
     },
     "方位": {
       "asOf": null,
@@ -76,7 +83,8 @@
   "contradictions": {},
   "docs": [
     "plot.xianni-ch2012-gudao-mountain-three-hundred-steps",
-    "plot.xianni-ch2016-jiuqu-sanxiang-xia"
+    "plot.xianni-ch2016-jiuqu-sanxiang-xia",
+    "plot.xianni-ch2017-gudao-mountain-departure-and-imperial-invitation"
   ],
-  "updatedAt": "2026-08-31T00:16:28.808Z"
+  "updatedAt": "2026-08-31T00:18:51.746Z"
 }
