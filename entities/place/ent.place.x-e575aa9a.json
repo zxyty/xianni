@@ -4,15 +4,17 @@
   "name": "古道山",
   "aliases": [
     "吉道山",
-    "Gudao Mountain"
+    "Gudao Mountain",
+    "Gu Dao Mountain"
   ],
   "summary": "古之三族的交界之地，古道大天尊所在，因其之故被称圣山、圣地；山下有通天石阶，山顶设九层高塔。",
   "attributes": {
-    "类型": "圣山/禁地",
+    "类型": "圣地／考验之地",
     "方位": "古之三族（道古、始古、极古）交界处",
-    "所属势力": "吉族（古族）",
+    "所属势力": "古族",
     "危险度": "极高",
-    "守护": "古道大天尊与四柱灰衣人"
+    "守护": "古道大天尊",
+    "规模": "九百九十九阶石阶"
   },
   "observations": {
     "类型": [
@@ -20,6 +22,11 @@
         "value": "圣山/禁地",
         "docId": "plot.xianni-ch2011-gudao-mountain-bell",
         "seq": 1919
+      },
+      {
+        "value": "圣地／考验之地",
+        "docId": "plot.xianni-ch2012-gudao-mountain-three-hundred-steps",
+        "seq": 1924
       }
     ],
     "方位": [
@@ -34,6 +41,11 @@
         "value": "吉族（古族）",
         "docId": "plot.xianni-ch2011-gudao-mountain-bell",
         "seq": 1919
+      },
+      {
+        "value": "古族",
+        "docId": "plot.xianni-ch2012-gudao-mountain-three-hundred-steps",
+        "seq": 1924
       }
     ],
     "危险度": [
@@ -49,6 +61,18 @@
         "value": "古道大天尊与四柱灰衣人",
         "docId": "plot.xianni-ch2011-gudao-mountain-bell",
         "seq": 1919
+      },
+      {
+        "value": "古道大天尊",
+        "docId": "plot.xianni-ch2012-gudao-mountain-three-hundred-steps",
+        "seq": 1924
+      }
+    ],
+    "规模": [
+      {
+        "value": "九百九十九阶石阶",
+        "docId": "plot.xianni-ch2012-gudao-mountain-three-hundred-steps",
+        "seq": 1924
       }
     ]
   },
@@ -56,9 +80,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch2011-gudao-mountain-bell",
+      "docId": "plot.xianni-ch2012-gudao-mountain-three-hundred-steps",
       "dated": false,
-      "seq": 1919
+      "seq": 1924
     },
     "方位": {
       "asOf": null,
@@ -68,9 +92,9 @@
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch2011-gudao-mountain-bell",
+      "docId": "plot.xianni-ch2012-gudao-mountain-three-hundred-steps",
       "dated": false,
-      "seq": 1919
+      "seq": 1924
     },
     "危险度": {
       "asOf": null,
@@ -81,15 +105,22 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch2011-gudao-mountain-bell",
+      "docId": "plot.xianni-ch2012-gudao-mountain-three-hundred-steps",
       "dated": false,
-      "seq": 1919
+      "seq": 1924
+    },
+    "规模": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2012-gudao-mountain-three-hundred-steps",
+      "dated": false,
+      "seq": 1924
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch2011-gudao-mountain-bell"
+    "plot.xianni-ch2011-gudao-mountain-bell",
+    "plot.xianni-ch2012-gudao-mountain-three-hundred-steps"
   ],
-  "updatedAt": "2026-08-31T00:05:01.029Z"
+  "updatedAt": "2026-08-31T00:07:28.875Z"
 }

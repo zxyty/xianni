@@ -1246,3 +1246,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T23:59:44.317Z** `ingest` plot.xianni-ch2009-yi-bei-re-cha-nuan-ru-jia — 仙逆·第2009章 一杯热茶暖如家：玄罗授家、九人归麾与道古皇尊烨道降临 · kind=plot asOf=2026-08-30 entities=26 relations=45 src=01919-01923.p3.md
 - **2026-08-31T00:02:27.349Z** `ingest` plot.xianni-2010-shizun-rufu-daogu-huangzun-yujue — 第2010章 师尊如父！——道古皇尊亲临赐紫玉佩，玄罗许诺送本源之地 · kind=plot asOf=2026-08-31 entities=20 relations=38 src=01919-01923.p4.md
 - **2026-08-31T00:05:01.617Z** `ingest` plot.xianni-ch2011-gudao-mountain-bell — 第2011章 古道山顶铃声彻：一年半本源游历与求见古道大天尊 · kind=plot asOf=2026-08-31 entities=28 relations=40 src=01919-01923.p5.md
+- **2026-08-31T00:07:29.403Z** `ingest` plot.xianni-ch2012-gudao-mountain-three-hundred-steps — 第2012章 山台一步断绝然！——王林抗铃音、踏古道山台阶 · kind=plot asOf=2026-08-31 entities=23 relations=31 src=01924-01928.p1.md
