@@ -3,12 +3,13 @@
   "type": "item",
   "name": "封后大典邀请玉简",
   "aliases": [
-    "传弃玉简"
+    "传弃玉简",
+    "道古皇尊封后大典邀请玉简"
   ],
   "summary": "道古皇宫送至木屋的传弃玉简，内容不多，邀请王林参加十日后的道古皇尊封后大典；其能送达显然经玄罗认可。",
   "attributes": {
-    "类型": "传讯玉简",
-    "用途": "传达封后大典邀请",
+    "类型": "传讯玉简、邀请玉简",
+    "用途": "传达封后大典邀请、邀请赴道古皇尊封后大典",
     "产地": "道古皇宫"
   },
   "observations": {
@@ -17,12 +18,22 @@
         "value": "传讯玉简",
         "docId": "plot.xianni-ch2017-gudao-mountain-departure-and-imperial-invitation",
         "seq": 1929
+      },
+      {
+        "value": "邀请玉简",
+        "docId": "plot.xianni-ch2018-jizu-yizhi",
+        "seq": 1929
       }
     ],
     "用途": [
       {
         "value": "传达封后大典邀请",
         "docId": "plot.xianni-ch2017-gudao-mountain-departure-and-imperial-invitation",
+        "seq": 1929
+      },
+      {
+        "value": "邀请赴道古皇尊封后大典",
+        "docId": "plot.xianni-ch2018-jizu-yizhi",
         "seq": 1929
       }
     ],
@@ -58,7 +69,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch2017-gudao-mountain-departure-and-imperial-invitation"
+    "plot.xianni-ch2017-gudao-mountain-departure-and-imperial-invitation",
+    "plot.xianni-ch2018-jizu-yizhi"
   ],
-  "updatedAt": "2026-08-31T00:18:51.765Z"
+  "updatedAt": "2026-08-31T00:21:23.852Z"
 }
