@@ -1310,3 +1310,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-31T02:50:49.918Z** `ingest` plot.xianni-2073-dongfu-realm-return-and-chihun-sect-crisis — 第2073章 洞府界——王林辞别仙罡大陆、重逢清水，归界后新仙界遭赤魂教逼降 · kind=plot asOf=2026-08-31 entities=28 relations=41 src=01982-01986.p4.md
 - **2026-08-31T02:53:31.206Z** `ingest` plot.xianni-2074-chi-hun-zi-siege-immortal-realm-wang-lin-returns — 第2074章 赤魂子！——赤魂教围困仙界，王林自罗天归来 · kind=plot asOf=2026-08-31 entities=26 relations=37 src=01982-01986.p5.md
 - **2026-08-31T02:55:33.422Z** `ingest` plot.xianni-2075-yuedin-wang-lin-mu-bingmei-mengdao-lunhui — 第2075章 约定：王林重返新仙界，与木冰眉以梦道百年轮回作了断 · kind=plot asOf=2026-08-31 entities=19 relations=21 src=01987-01990.p1.md
+- **2026-08-31T02:57:50.711Z** `ingest` plot.xianni-ch2076-wang-lin-returns-to-immortal-realm-chi-hun-zi — 第2076章 做梦｜王林现身仙界、十三斩红袍青年、金尊海龙现身惊退赤魂子 · kind=plot asOf=2026-08-31 entities=22 relations=29 src=01987-01990.p2.md
