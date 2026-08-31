@@ -12,10 +12,11 @@
   "attributes": {
     "性别": "女",
     "种族": "道古族",
-    "身份": "道古一脉历代皇尊之一（唯一女皇尊）",
+    "身份": "道古一脉历代皇尊之一（唯一女皇尊）、圣皇祖",
     "称号": "圣皇、圣皇祖",
     "外貌": "骷髅般老妪，发仅数根，着褪色皇袍，身躯漆黑，眉心/胸口/丹田各插一匕首",
-    "存殁": "半生半死"
+    "存殁": "半生半死",
+    "标志特征": "沉睡于紫光棺木中，棺木沉于地底"
   },
   "observations": {
     "性别": [
@@ -36,6 +37,11 @@
       {
         "value": "道古一脉历代皇尊之一（唯一女皇尊）",
         "docId": "plot.xianni-2034-shengghuang-zu-yewei-chumian",
+        "seq": 1944
+      },
+      {
+        "value": "圣皇祖",
+        "docId": "plot.xianni-ch2035-future-huangzun-luochen",
         "seq": 1944
       }
     ],
@@ -64,6 +70,13 @@
         "docId": "plot.xianni-2034-shengghuang-zu-yewei-chumian",
         "seq": 1944,
         "note": "与皇宫大阵融合，在皇宫内为不死之身"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "沉睡于紫光棺木中，棺木沉于地底",
+        "docId": "plot.xianni-ch2035-future-huangzun-luochen",
+        "seq": 1944
       }
     ]
   },
@@ -105,12 +118,19 @@
       "dated": false,
       "seq": 1944,
       "note": "与皇宫大阵融合，在皇宫内为不死之身"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2035-future-huangzun-luochen",
+      "dated": false,
+      "seq": 1944
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-2034-shengghuang-zu-yewei-chumian"
+    "plot.xianni-2034-shengghuang-zu-yewei-chumian",
+    "plot.xianni-ch2035-future-huangzun-luochen"
   ],
-  "updatedAt": "2026-08-31T01:00:10.145Z"
+  "updatedAt": "2026-08-31T01:02:42.347Z"
 }
