@@ -8,15 +8,18 @@
     "Ye Dao",
     "烨道大人",
     "道古皇尊烨道",
-    "当代道古皇尊"
+    "当代道古皇尊",
+    "古祖的后人烨道"
   ],
   "summary": "道古皇尊麾下黑袍老者，奉命查找红珠中女魂对应之人，查遍吉国无果后派人往仙族，并转述国师闭关前的双画面预言。",
   "attributes": {
-    "身份": "道古一脉中人（受玄罗贺礼者）",
+    "身份": "古祖的后人",
     "外貌": "身穿皇袍、头戴帝冠，不怒自威",
     "阵营": "道古一脉",
     "称号": "道古之皇、古皇",
-    "性格": "跋扈，眼中容不下旁人"
+    "性格": "跋扈，眼中容不下旁人",
+    "存殁": "死亡",
+    "死因": "被王林于道古皇城所杀"
   },
   "observations": {
     "身份": [
@@ -39,6 +42,11 @@
         "value": "道古一脉中人（受玄罗贺礼者）",
         "docId": "plot.xianni-ch2019-feng-qi-dao-gu",
         "seq": 1929
+      },
+      {
+        "value": "古祖的后人",
+        "docId": "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao",
+        "seq": 1972
       }
     ],
     "外貌": [
@@ -93,15 +101,29 @@
         "docId": "plot.xianni-2034-shengghuang-zu-yewei-chumian",
         "seq": 1944
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao",
+        "seq": 1972
+      }
+    ],
+    "死因": [
+      {
+        "value": "被王林于道古皇城所杀",
+        "docId": "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao",
+        "seq": 1972
+      }
     ]
   },
   "firstSeq": 1616,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch2019-feng-qi-dao-gu",
+      "docId": "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao",
       "dated": false,
-      "seq": 1929
+      "seq": 1972
     },
     "外貌": {
       "asOf": null,
@@ -126,6 +148,18 @@
       "docId": "plot.xianni-2034-shengghuang-zu-yewei-chumian",
       "dated": false,
       "seq": 1944
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao",
+      "dated": false,
+      "seq": 1972
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao",
+      "dated": false,
+      "seq": 1972
     }
   },
   "contested": false,
@@ -136,7 +170,8 @@
     "plot.xianni-ch2009-yi-bei-re-cha-nuan-ru-jia",
     "plot.xianni-ch2011-gudao-mountain-bell",
     "plot.xianni-ch2019-feng-qi-dao-gu",
-    "plot.xianni-2034-shengghuang-zu-yewei-chumian"
+    "plot.xianni-2034-shengghuang-zu-yewei-chumian",
+    "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao"
   ],
-  "updatedAt": "2026-08-31T01:00:10.147Z"
+  "updatedAt": "2026-08-31T02:24:12.170Z"
 }
