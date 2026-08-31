@@ -20,14 +20,15 @@
   "attributes": {
     "称号": "宋尊",
     "身份": "始古一脉大天尊、始古新皇人选的决定者、始古一脉大天尊、始古一脉守护者、原始山上的旁观者、古族大天尊、始古一脉守护者、宋家老祖、始古一脉强者、王林分神渡劫的护法者、王林护法者之一、原始山之人、大天尊",
-    "阵营": "始古一脉、古族·始古一脉、古族·始吉一脉、古族一方、古族",
+    "阵营": "始古一脉、古族·始古一脉、古族·始吉一脉、古族一方、古族、古族（三脉）",
     "外貌": "青袍中年男子，头发及腰、一脸震惊、面色隐隐苍白、一身青衣",
     "性格": "阴沉、倨傲而谨慎、刚烈，不肯不战而屈、恩怨分明、沉稳、善分析",
     "分身": "神念所附古魔",
     "本命法宝": "古道大天尊赐予的战斧、原始山",
     "存殁": "存活",
     "结局": "认输并邀王林留下见证百年后计都继位",
-    "出身地": "原始山"
+    "出身地": "原始山",
+    "标志特征": "大袖一甩，身后现出一轮巨大的太阳"
   },
   "observations": {
     "称号": [
@@ -129,6 +130,11 @@
         "value": "古族",
         "docId": "plot.xianni-ch2066-agreement-wang-lin-defeats-gu-dao",
         "seq": 1977
+      },
+      {
+        "value": "古族（三脉）",
+        "docId": "plot.xianni-2083-taigu-shenjing-entry-qualification",
+        "seq": 1991
       }
     ],
     "外貌": [
@@ -222,6 +228,13 @@
         "docId": "plot.xianni-2057-gudao-second-fenshen-failure",
         "seq": 1968
       }
+    ],
+    "标志特征": [
+      {
+        "value": "大袖一甩，身后现出一轮巨大的太阳",
+        "docId": "plot.xianni-2083-taigu-shenjing-entry-qualification",
+        "seq": 1991
+      }
     ]
   },
   "firstSeq": 1919,
@@ -287,6 +300,12 @@
       "docId": "plot.xianni-2057-gudao-second-fenshen-failure",
       "dated": false,
       "seq": 1968
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-2083-taigu-shenjing-entry-qualification",
+      "dated": false,
+      "seq": 1991
     }
   },
   "contested": false,
@@ -311,7 +330,8 @@
     "plot.xianni-2060-jidu-enthronement-wanglin-second-soul-blood",
     "plot.xianni-ch2064-ta-tian-yi-bu",
     "plot.xianni-ch2066-agreement-wang-lin-defeats-gu-dao",
-    "plot.xianni-ch2082-taigu-shenjing-opening-anomaly"
+    "plot.xianni-ch2082-taigu-shenjing-opening-anomaly",
+    "plot.xianni-2083-taigu-shenjing-entry-qualification"
   ],
-  "updatedAt": "2026-08-31T03:22:11.859Z"
+  "updatedAt": "2026-08-31T03:24:16.540Z"
 }

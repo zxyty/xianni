@@ -1317,3 +1317,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-31T03:12:56.729Z** `ingest` plot.xianni-2080-what-is-truth — 第2080章 什么是真相——木冰眉离去、山谷守婉、墨智问罗盘 · kind=plot asOf=2026-08-31 entities=32 relations=45 src=01991-01995.p2.md
 - **2026-08-31T03:19:50.515Z** `ingest` plot.xianni-2081-wang-lin-leaves-dongfu-realm-farewell-gifts — 第2081章 临海王林离去了——离界前的三封赠礼 · kind=plot asOf=2026-08-31 entities=43 relations=61 src=01991-01995.p3.md
 - **2026-08-31T03:22:12.425Z** `ingest` plot.xianni-ch2082-taigu-shenjing-opening-anomaly — 第2082章 惊变——太古神境开启前的异变与六位大天尊齐聚 · kind=plot asOf=2026-08-31 entities=31 relations=41 src=01991-01995.p4.md
+- **2026-08-31T03:24:17.103Z** `ingest` plot.xianni-2083-taigu-shenjing-entry-qualification — 第2083章 踏入的资格——太古神境开启前的海墙风暴异变 · kind=plot asOf=2026-08-31 entities=22 relations=36 src=01991-01995.p5.md

@@ -6,16 +6,17 @@
     "无边无尽的海墙风暴",
     "海墙",
     "苍茫盆地海墙风暴",
-    "海墙风暴屏障"
+    "海墙风暴屏障",
+    "海墙风暴中心"
   ],
   "summary": "苍茫大海中心海水竖起形成的无边海墙，转动二百余年，内有空间碎裂痕迹与外扩威压，深处藏九根巨柱之门。",
   "attributes": {
     "所属界面": "仙罡大陆",
     "方位": "苍茫大海中心",
-    "类型": "风暴禁地、自然屏障、风暴屏障/界限、风暴屏障",
+    "类型": "风暴禁地、自然屏障、风暴屏障/界限、风暴屏障、风暴屏障／秘境门户",
     "危险度": "轰鸣可横扫空劫以下修士",
-    "上级区域": "苍茫大海",
-    "守护": "九色凌厉之气"
+    "上级区域": "苍茫盆地",
+    "守护": "九色凌厉之气、轰鸣声浪与天地之力"
   },
   "observations": {
     "所属界面": [
@@ -52,6 +53,11 @@
         "value": "风暴屏障",
         "docId": "plot.xianni-ch2082-taigu-shenjing-opening-anomaly",
         "seq": 1991
+      },
+      {
+        "value": "风暴屏障／秘境门户",
+        "docId": "plot.xianni-2083-taigu-shenjing-entry-qualification",
+        "seq": 1991
       }
     ],
     "危险度": [
@@ -71,12 +77,22 @@
         "value": "苍茫大海",
         "docId": "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao",
         "seq": 1972
+      },
+      {
+        "value": "苍茫盆地",
+        "docId": "plot.xianni-2083-taigu-shenjing-entry-qualification",
+        "seq": 1991
       }
     ],
     "守护": [
       {
         "value": "九色凌厉之气",
         "docId": "plot.xianni-ch2082-taigu-shenjing-opening-anomaly",
+        "seq": 1991
+      },
+      {
+        "value": "轰鸣声浪与天地之力",
+        "docId": "plot.xianni-2083-taigu-shenjing-entry-qualification",
         "seq": 1991
       }
     ]
@@ -109,9 +125,9 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao",
+      "docId": "plot.xianni-2083-taigu-shenjing-entry-qualification",
       "dated": false,
-      "seq": 1972
+      "seq": 1991
     },
     "守护": {
       "asOf": null,
@@ -127,7 +143,8 @@
     "plot.xianni-ch2063-drive-fog-wang-lin-vs-gudao",
     "plot.xianni-ch2065-jiuqu-sanxiang-complete",
     "plot.xianni-ch2066-agreement-wang-lin-defeats-gu-dao",
-    "plot.xianni-ch2082-taigu-shenjing-opening-anomaly"
+    "plot.xianni-ch2082-taigu-shenjing-opening-anomaly",
+    "plot.xianni-2083-taigu-shenjing-entry-qualification"
   ],
-  "updatedAt": "2026-08-31T03:22:11.882Z"
+  "updatedAt": "2026-08-31T03:24:16.547Z"
 }
