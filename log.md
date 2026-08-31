@@ -1286,3 +1286,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-31T01:50:25.306Z** `ingest` plot.xianni-ch2049-tatian-fourth-bridge-halt — 第2049章 止步——王林踏天九桥止步于第四桥 · kind=plot asOf=2026-08-31 entities=32 relations=38 src=01959-01963.p3.md
 - **2026-08-31T01:57:19.158Z** `ingest` plot.xianni-ch2050-black-white-gold — 《仙逆》第2050章 黑、白、金！——王林出关，踏入半步踏天境 · kind=plot asOf=2026-08-31 entities=42 relations=65 src=01959-01963.p4.md
 - **2026-08-31T01:59:29.981Z** `ingest` plot.xianni-ch2051-ten-suns-wang-lin-becomes-da-tianzun — 第2051章 十阳！——王林炼化仙祖头颅，尊阳升空成就大天尊 · kind=plot asOf=2026-08-31 entities=30 relations=38 src=01959-01963.p5.md
+- **2026-08-31T02:01:54.493Z** `ingest` plot.xianni-2052-song-tian-battle — 仙逆 第2052章 宋天战！——王林成大天尊，赴始古一脉战宋天 · kind=plot asOf=2026-08-31 entities=32 relations=40 src=01964-01967.p1.md

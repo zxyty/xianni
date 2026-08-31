@@ -3,13 +3,15 @@
   "type": "passage",
   "name": "宋天撕开的天幕裂缝",
   "aliases": [
-    "天幕裂缝"
+    "天幕裂缝",
+    "古魔撕开的裂缝"
   ],
   "summary": "宋天一指虚空、卷动八方天地之力所撕开的巨大裂缝，古魔自其中钻出，事后又并拢消失。",
   "attributes": {
     "类型": "空间裂缝",
-    "来历": "宋天以八方天地之力撕开",
-    "稳定性": "由宋天开合"
+    "来历": "古魔双手撕开",
+    "稳定性": "临时，穿行后收拢",
+    "两端": "罗喉郡行宫上空 — 原始山上空"
   },
   "observations": {
     "类型": [
@@ -24,6 +26,11 @@
         "value": "宋天以八方天地之力撕开",
         "docId": "plot.xianni-ch2050-black-white-gold",
         "seq": 1959
+      },
+      {
+        "value": "古魔双手撕开",
+        "docId": "plot.xianni-2052-song-tian-battle",
+        "seq": 1964
       }
     ],
     "稳定性": [
@@ -32,6 +39,18 @@
         "docId": "plot.xianni-ch2050-black-white-gold",
         "seq": 1959,
         "note": "古魔返回后即并拢消失"
+      },
+      {
+        "value": "临时，穿行后收拢",
+        "docId": "plot.xianni-2052-song-tian-battle",
+        "seq": 1964
+      }
+    ],
+    "两端": [
+      {
+        "value": "罗喉郡行宫上空 — 原始山上空",
+        "docId": "plot.xianni-2052-song-tian-battle",
+        "seq": 1964
       }
     ]
   },
@@ -45,22 +64,28 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-ch2050-black-white-gold",
+      "docId": "plot.xianni-2052-song-tian-battle",
       "dated": false,
-      "seq": 1959
+      "seq": 1964
     },
     "稳定性": {
       "asOf": null,
-      "docId": "plot.xianni-ch2050-black-white-gold",
+      "docId": "plot.xianni-2052-song-tian-battle",
       "dated": false,
-      "seq": 1959,
-      "note": "古魔返回后即并拢消失"
+      "seq": 1964
+    },
+    "两端": {
+      "asOf": null,
+      "docId": "plot.xianni-2052-song-tian-battle",
+      "dated": false,
+      "seq": 1964
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch2050-black-white-gold"
+    "plot.xianni-ch2050-black-white-gold",
+    "plot.xianni-2052-song-tian-battle"
   ],
-  "updatedAt": "2026-08-31T01:57:18.590Z"
+  "updatedAt": "2026-08-31T02:01:53.941Z"
 }

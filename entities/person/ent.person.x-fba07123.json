@@ -18,8 +18,10 @@
     "身份": "始古一脉大天尊、始古新皇人选的决定者、始古一脉大天尊、始古一脉守护者、原始山上的旁观者、古族大天尊",
     "阵营": "始古一脉、古族·始古一脉、古族·始吉一脉",
     "外貌": "青袍中年男子，头发及腰、一脸震惊、面色隐隐苍白",
-    "性格": "阴沉、倨傲而谨慎",
-    "分身": "神念所附古魔"
+    "性格": "刚烈，不肯不战而屈",
+    "分身": "神念所附古魔",
+    "本命法宝": "古道大天尊赐予的战斧",
+    "存殁": "存活"
   },
   "observations": {
     "称号": [
@@ -100,6 +102,11 @@
         "value": "阴沉、倨傲而谨慎",
         "docId": "plot.xianni-ch2045-true-body-fusion",
         "seq": 1954
+      },
+      {
+        "value": "刚烈，不肯不战而屈",
+        "docId": "plot.xianni-2052-song-tian-battle",
+        "seq": 1964
       }
     ],
     "分身": [
@@ -108,6 +115,20 @@
         "docId": "plot.xianni-ch2051-ten-suns-wang-lin-becomes-da-tianzun",
         "seq": 1959,
         "note": "一丝神念融入庞大古魔"
+      }
+    ],
+    "本命法宝": [
+      {
+        "value": "古道大天尊赐予的战斧",
+        "docId": "plot.xianni-2052-song-tian-battle",
+        "seq": 1964
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.xianni-2052-song-tian-battle",
+        "seq": 1964
       }
     ]
   },
@@ -139,9 +160,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.xianni-ch2045-true-body-fusion",
+      "docId": "plot.xianni-2052-song-tian-battle",
       "dated": false,
-      "seq": 1954
+      "seq": 1964
     },
     "分身": {
       "asOf": null,
@@ -149,6 +170,18 @@
       "dated": false,
       "seq": 1959,
       "note": "一丝神念融入庞大古魔"
+    },
+    "本命法宝": {
+      "asOf": null,
+      "docId": "plot.xianni-2052-song-tian-battle",
+      "dated": false,
+      "seq": 1964
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-2052-song-tian-battle",
+      "dated": false,
+      "seq": 1964
     }
   },
   "contested": false,
@@ -163,7 +196,8 @@
     "plot.xianni-ch2046-xingfa-lumo-five-bodies-fusion",
     "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze",
     "plot.xianni-ch2050-black-white-gold",
-    "plot.xianni-ch2051-ten-suns-wang-lin-becomes-da-tianzun"
+    "plot.xianni-ch2051-ten-suns-wang-lin-becomes-da-tianzun",
+    "plot.xianni-2052-song-tian-battle"
   ],
-  "updatedAt": "2026-08-31T01:59:29.399Z"
+  "updatedAt": "2026-08-31T02:01:53.915Z"
 }

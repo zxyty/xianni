@@ -9,7 +9,8 @@
   "attributes": {
     "类型": "郡",
     "上级区域": "始吉一脉区域十二郡、古族三十六郡",
-    "所属界面": "仙罡大陆"
+    "所属界面": "仙罡大陆",
+    "所属势力": "计都一系"
   },
   "observations": {
     "类型": [
@@ -37,6 +38,13 @@
         "docId": "plot.xianni-ch2049-tatian-fourth-bridge-halt",
         "seq": 1959
       }
+    ],
+    "所属势力": [
+      {
+        "value": "计都一系",
+        "docId": "plot.xianni-2052-song-tian-battle",
+        "seq": 1964
+      }
     ]
   },
   "firstSeq": 1959,
@@ -58,6 +66,12 @@
       "docId": "plot.xianni-ch2049-tatian-fourth-bridge-halt",
       "dated": false,
       "seq": 1959
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-2052-song-tian-battle",
+      "dated": false,
+      "seq": 1964
     }
   },
   "contested": false,
@@ -66,7 +80,8 @@
     "plot.xianni-2047-ta-tian-lu-kong-mie-dao",
     "plot.xianni-ch2049-tatian-fourth-bridge-halt",
     "plot.xianni-ch2050-black-white-gold",
-    "plot.xianni-ch2051-ten-suns-wang-lin-becomes-da-tianzun"
+    "plot.xianni-ch2051-ten-suns-wang-lin-becomes-da-tianzun",
+    "plot.xianni-2052-song-tian-battle"
   ],
-  "updatedAt": "2026-08-31T01:59:29.426Z"
+  "updatedAt": "2026-08-31T02:01:53.935Z"
 }
