@@ -6,7 +6,8 @@
   "summary": "始古一脉重地，蚩蛮如今住于其上，传闻将被宋天收为弟子。",
   "attributes": {
     "所属势力": "始古一脉",
-    "类型": "山脉重地"
+    "类型": "山脉重地、大天尊居所",
+    "守护": "阻挡外来拜访者的禁制/守卫"
   },
   "observations": {
     "所属势力": [
@@ -20,6 +21,18 @@
       {
         "value": "山脉重地",
         "docId": "plot.xianni-2042-hun-wanzheng-songzhi-guixiang-jidu-huangzi",
+        "seq": 1954
+      },
+      {
+        "value": "大天尊居所",
+        "docId": "plot.xianni-ch2044-tiandi-yixiang-benyuan-zhuangda",
+        "seq": 1954
+      }
+    ],
+    "守护": [
+      {
+        "value": "阻挡外来拜访者的禁制/守卫",
+        "docId": "plot.xianni-ch2044-tiandi-yixiang-benyuan-zhuangda",
         "seq": 1954
       }
     ]
@@ -37,12 +50,19 @@
       "docId": "plot.xianni-2042-hun-wanzheng-songzhi-guixiang-jidu-huangzi",
       "dated": false,
       "seq": 1954
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2044-tiandi-yixiang-benyuan-zhuangda",
+      "dated": false,
+      "seq": 1954
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-2042-hun-wanzheng-songzhi-guixiang-jidu-huangzi"
+    "plot.xianni-2042-hun-wanzheng-songzhi-guixiang-jidu-huangzi",
+    "plot.xianni-ch2044-tiandi-yixiang-benyuan-zhuangda"
   ],
-  "updatedAt": "2026-08-31T01:24:01.856Z"
+  "updatedAt": "2026-08-31T01:33:28.518Z"
 }

@@ -1278,3 +1278,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-31T01:21:17.847Z** `ingest` plot.xianni-2041-tomorrow-song-zhi-heishi-city-farewell — 第2041章 明天：太古神境定期五百年开启，王林送宋致归黑石城并分离李慕婉残魂 · kind=plot asOf=2026-08-31 entities=26 relations=38 src=01949-01953.p5.md
 - **2026-08-31T01:24:02.350Z** `ingest` plot.xianni-2042-hun-wanzheng-songzhi-guixiang-jidu-huangzi — 第2042章 魂完整！——送宋致归黑石城、闭关合魂与助计都争始古皇尊 · kind=plot asOf=2026-08-31 entities=30 relations=44 src=01954-01958.p1.md
 - **2026-08-31T01:26:41.323Z** `ingest` plot.xianni-2043-nine-year-seclusion-three-true-bodies — 第2043章 岁月：王林九年闭关，三具本源之身齐出 · kind=plot asOf=2026-08-31 entities=40 relations=48 src=01954-01958.p2.md
+- **2026-08-31T01:33:29.087Z** `ingest` plot.xianni-ch2044-tiandi-yixiang-benyuan-zhuangda — 第2044章 天地异象！——王林于密室壮大四大本源、二炼戮默 · kind=plot asOf=2026-08-31 entities=43 relations=64 src=01954-01958.p3.md
