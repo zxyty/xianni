@@ -4,14 +4,16 @@
   "name": "原始山",
   "aliases": [
     "冲霄山峰原始山",
-    "原始山牛角"
+    "原始山牛角",
+    "始古皇城原始山"
   ],
   "summary": "始古一脉重地，蚩蛮如今住于其上，传闻将被宋天收为弟子。",
   "attributes": {
     "所属势力": "始古一脉",
-    "类型": "山脉重地、大天尊居所、圣山",
+    "类型": "山脉重地、大天尊居所、圣山、山",
     "守护": "阻挡外来拜访者的禁制/守卫、宋天",
-    "方位": "始古一脉皇城外、始古皇城外"
+    "方位": "始古一脉皇城外、始古皇城外",
+    "上级区域": "始古皇城"
   },
   "observations": {
     "所属势力": [
@@ -36,6 +38,11 @@
         "value": "圣山",
         "docId": "plot.xianni-ch2045-true-body-fusion",
         "seq": 1954
+      },
+      {
+        "value": "山",
+        "docId": "plot.xianni-2047-ta-tian-lu-kong-mie-dao",
+        "seq": 1959
       }
     ],
     "守护": [
@@ -60,6 +67,13 @@
         "value": "始古皇城外",
         "docId": "plot.xianni-ch2046-xingfa-lumo-five-bodies-fusion",
         "seq": 1954
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "始古皇城",
+        "docId": "plot.xianni-2047-ta-tian-lu-kong-mie-dao",
+        "seq": 1959
       }
     ]
   },
@@ -88,6 +102,12 @@
       "docId": "plot.xianni-ch2045-true-body-fusion",
       "dated": false,
       "seq": 1954
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-2047-ta-tian-lu-kong-mie-dao",
+      "dated": false,
+      "seq": 1959
     }
   },
   "contested": false,
@@ -96,7 +116,8 @@
     "plot.xianni-2042-hun-wanzheng-songzhi-guixiang-jidu-huangzi",
     "plot.xianni-ch2044-tiandi-yixiang-benyuan-zhuangda",
     "plot.xianni-ch2045-true-body-fusion",
-    "plot.xianni-ch2046-xingfa-lumo-five-bodies-fusion"
+    "plot.xianni-ch2046-xingfa-lumo-five-bodies-fusion",
+    "plot.xianni-2047-ta-tian-lu-kong-mie-dao"
   ],
-  "updatedAt": "2026-08-31T01:38:08.327Z"
+  "updatedAt": "2026-08-31T01:40:16.204Z"
 }

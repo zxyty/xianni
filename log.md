@@ -1281,3 +1281,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-31T01:33:29.087Z** `ingest` plot.xianni-ch2044-tiandi-yixiang-benyuan-zhuangda — 第2044章 天地异象！——王林于密室壮大四大本源、二炼戮默 · kind=plot asOf=2026-08-31 entities=43 relations=64 src=01954-01958.p3.md
 - **2026-08-31T01:35:50.259Z** `ingest` plot.xianni-ch2045-true-body-fusion — 第2045章 真身融合：王林出关融合五行真身，宋天解封凶兽罗眠 · kind=plot asOf=2026-08-31 entities=22 relations=33 src=01954-01958.p4.md
 - **2026-08-31T01:38:08.964Z** `ingest` plot.xianni-ch2046-xingfa-lumo-five-bodies-fusion — 第2046章 刑罚戮默——王林五真身合一，赐名戮默、道号刑罚 · kind=plot asOf=2026-08-31 entities=21 relations=22 src=01954-01958.p5.md
+- **2026-08-31T01:40:16.825Z** `ingest` plot.xianni-2047-ta-tian-lu-kong-mie-dao — 第2047章 踏天路，空灭道！——杀戮真身归位与踏天九桥 · kind=plot asOf=2026-08-31 entities=22 relations=26 src=01959-01963.p1.md
