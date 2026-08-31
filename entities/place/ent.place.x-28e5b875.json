@@ -10,7 +10,9 @@
   "attributes": {
     "类型": "行宫",
     "所属势力": "始古一脉",
-    "危险度": "禁区，擅闯立杀"
+    "危险度": "禁区，擅闯立杀",
+    "所属界面": "仙罡大陆",
+    "上级区域": "罗喉郡"
   },
   "observations": {
     "类型": [
@@ -34,6 +36,20 @@
         "seq": 1954,
         "note": "王林闭关期间"
       }
+    ],
+    "所属界面": [
+      {
+        "value": "仙罡大陆",
+        "docId": "plot.xianni-ch2051-ten-suns-wang-lin-becomes-da-tianzun",
+        "seq": 1959
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "罗喉郡",
+        "docId": "plot.xianni-ch2051-ten-suns-wang-lin-becomes-da-tianzun",
+        "seq": 1959
+      }
     ]
   },
   "firstSeq": 1954,
@@ -56,12 +72,25 @@
       "dated": false,
       "seq": 1954,
       "note": "王林闭关期间"
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2051-ten-suns-wang-lin-becomes-da-tianzun",
+      "dated": false,
+      "seq": 1959
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2051-ten-suns-wang-lin-becomes-da-tianzun",
+      "dated": false,
+      "seq": 1959
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-2042-hun-wanzheng-songzhi-guixiang-jidu-huangzi"
+    "plot.xianni-2042-hun-wanzheng-songzhi-guixiang-jidu-huangzi",
+    "plot.xianni-ch2051-ten-suns-wang-lin-becomes-da-tianzun"
   ],
-  "updatedAt": "2026-08-31T01:24:01.853Z"
+  "updatedAt": "2026-08-31T01:59:29.424Z"
 }
