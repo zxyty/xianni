@@ -9,7 +9,8 @@
   "summary": "古道山所在的黑色大地，金天黑地异象中化作无尽深黑。",
   "attributes": {
     "类型": "大地/疆域",
-    "特产": "大地本为黑色"
+    "特产": "大地本为黑色",
+    "所属界面": "仙罡大陆"
   },
   "observations": {
     "类型": [
@@ -25,6 +26,13 @@
         "docId": "plot.xianni-ch2015-jiuqu-sanxiang-shang",
         "seq": 1924,
         "note": "异象中黑色深邃无数倍"
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "仙罡大陆",
+        "docId": "plot.xianni-2022-chongguan-yinu-1-daogu-empress-song-zhi",
+        "seq": 1934
       }
     ]
   },
@@ -42,12 +50,19 @@
       "dated": false,
       "seq": 1924,
       "note": "异象中黑色深邃无数倍"
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-2022-chongguan-yinu-1-daogu-empress-song-zhi",
+      "dated": false,
+      "seq": 1934
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch2015-jiuqu-sanxiang-shang"
+    "plot.xianni-ch2015-jiuqu-sanxiang-shang",
+    "plot.xianni-2022-chongguan-yinu-1-daogu-empress-song-zhi"
   ],
-  "updatedAt": "2026-08-31T00:14:46.449Z"
+  "updatedAt": "2026-08-31T00:31:02.401Z"
 }
