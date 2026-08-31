@@ -1257,3 +1257,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-31T00:26:32.144Z** `ingest` plot.xianni-2020-daogu-tongming-night-banquet — 仙逆·第2020章 夜宴——道古皇宫封后前夜的通明夜宴 · kind=plot asOf=2026-08-31 entities=18 relations=23 src=01929-01933.p4.md
 - **2026-08-31T00:28:52.115Z** `ingest` plot.xianni-2021-momo-huishou-daogu-huanggong-yeyan — 第2021章 暮然回首——王林赴道古皇宫夜宴，回首见凤袍皇后 · kind=plot asOf=2026-08-31 entities=20 relations=34 src=01929-01933.p5.md
 - **2026-08-31T00:31:02.884Z** `ingest` plot.xianni-2022-chongguan-yinu-1-daogu-empress-song-zhi — 第2022章 冲冠一怒！（一）：道古皇后宋致现身，王林见其气质酷似李慕婉而泪落 · kind=plot asOf=2026-08-31 entities=20 relations=26 src=01934-01938.p1.md
+- **2026-08-31T00:33:21.936Z** `ingest` plot.xianni-ch2023-chongguan-yi-nu-2 — 第2023章 冲冠一怒！（二）——王林推衍玉简，惊觉道古皇尊夺李慕婉残魂 · kind=plot asOf=2026-08-31 entities=20 relations=28 src=01934-01938.p2.md
