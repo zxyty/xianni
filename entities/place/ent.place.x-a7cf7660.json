@@ -7,17 +7,19 @@
     "道古皇宫最高阁楼",
     "道吉皇宫",
     "道古皇宫正殿",
-    "皇宫正殿"
+    "皇宫正殿",
+    "道古皇宫广场",
+    "道古正殿"
   ],
   "summary": "位于天空之城深处，极大且难见边缘，处处雕栏玉砌；东部行宫被皇尊怒气震塌，最高之塔为皇尊俯瞰之处。",
   "attributes": {
-    "所属势力": "道古一脉",
+    "所属势力": "道古一族",
     "方位": "道古一脉区域正中心的浮空城池内",
     "上级区域": "道古皇城",
     "所属界面": "仙罡大陆",
-    "类型": "皇族宫殿",
+    "类型": "皇宫、皇族宫殿、皇宫/宴会广场",
     "守护": "禁一军至七军、道古一百零八禁、七十二圣脉、三十六杖、道古十八王、九大不灭将",
-    "规模": "正殿外广场可摆数千案几，天空另有数百漂浮平台"
+    "规模": "正殿外广场可摆数千案几，天空另有数百漂浮平台、广场近万人，天空数百平台数不清案几"
   },
   "observations": {
     "所属势力": [
@@ -30,6 +32,11 @@
         "value": "道古一脉",
         "docId": "plot.xianni-ch1795-huangzun-yinian-huogen-xian",
         "seq": 1705
+      },
+      {
+        "value": "道古一族",
+        "docId": "plot.xianni-2021-momo-huishou-daogu-huanggong-yeyan",
+        "seq": 1929
       }
     ],
     "方位": [
@@ -73,6 +80,11 @@
         "value": "皇族宫殿",
         "docId": "plot.xianni-2020-daogu-tongming-night-banquet",
         "seq": 1929
+      },
+      {
+        "value": "皇宫/宴会广场",
+        "docId": "plot.xianni-2021-momo-huishou-daogu-huanggong-yeyan",
+        "seq": 1929
       }
     ],
     "守护": [
@@ -112,6 +124,11 @@
         "value": "正殿外广场可摆数千案几，天空另有数百漂浮平台",
         "docId": "plot.xianni-2020-daogu-tongming-night-banquet",
         "seq": 1929
+      },
+      {
+        "value": "广场近万人，天空数百平台数不清案几",
+        "docId": "plot.xianni-2021-momo-huishou-daogu-huanggong-yeyan",
+        "seq": 1929
       }
     ]
   },
@@ -119,9 +136,9 @@
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-ch1795-huangzun-yinian-huogen-xian",
+      "docId": "plot.xianni-2021-momo-huishou-daogu-huanggong-yeyan",
       "dated": false,
-      "seq": 1705
+      "seq": 1929
     },
     "方位": {
       "asOf": null,
@@ -143,9 +160,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-2020-daogu-tongming-night-banquet",
+      "docId": "plot.xianni-ch1795-huangzun-yinian-huogen-xian",
       "dated": false,
-      "seq": 1929
+      "seq": 1705
     },
     "守护": {
       "asOf": null,
@@ -168,7 +185,8 @@
     "plot.xianni-2008-daogu-huangcheng-luxiang-yibai",
     "plot.xianni-ch2017-gudao-mountain-departure-and-imperial-invitation",
     "plot.xianni-ch2019-feng-qi-dao-gu",
-    "plot.xianni-2020-daogu-tongming-night-banquet"
+    "plot.xianni-2020-daogu-tongming-night-banquet",
+    "plot.xianni-2021-momo-huishou-daogu-huanggong-yeyan"
   ],
-  "updatedAt": "2026-08-31T00:26:31.683Z"
+  "updatedAt": "2026-08-31T00:28:51.644Z"
 }

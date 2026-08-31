@@ -1255,3 +1255,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-31T00:21:24.346Z** `ingest` plot.xianni-ch2018-jizu-yizhi — 仙逆 第2018章 吉祖一指 · kind=plot asOf=2026-08-31 entities=26 relations=35 src=01929-01933.p2.md
 - **2026-08-31T00:24:08.791Z** `ingest` plot.xianni-ch2019-feng-qi-dao-gu — 第2019章 风起道古！——封后大典前夕，王林开辟第六神脉、代师赴宴 · kind=plot asOf=2026-08-31 entities=28 relations=38 src=01929-01933.p3.md
 - **2026-08-31T00:26:32.144Z** `ingest` plot.xianni-2020-daogu-tongming-night-banquet — 仙逆·第2020章 夜宴——道古皇宫封后前夜的通明夜宴 · kind=plot asOf=2026-08-31 entities=18 relations=23 src=01929-01933.p4.md
+- **2026-08-31T00:28:52.115Z** `ingest` plot.xianni-2021-momo-huishou-daogu-huanggong-yeyan — 第2021章 暮然回首——王林赴道古皇宫夜宴，回首见凤袍皇后 · kind=plot asOf=2026-08-31 entities=20 relations=34 src=01929-01933.p5.md
