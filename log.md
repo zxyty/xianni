@@ -1306,3 +1306,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-31T02:40:58.126Z** `ingest` plot.xianni-2069-si-nan-marshal-wuxuan — 第2069章 司南！——王林于武轩国边疆寻得转世的司徒南 · kind=plot asOf=2026-08-31 entities=19 relations=26 src=01977-01981.p5.md
 - **2026-08-31T02:42:41.914Z** `ingest` plot.xianni-2070-you-are-situ-nan — 第2070章 你是司徒南！——王林帅帐夜饮唤醒司南老将前世 · kind=plot asOf=2026-08-31 entities=18 relations=21 src=01982-01986.p1.md
 - **2026-08-31T02:45:31.930Z** `ingest` plot.xianni-2071-rain-qinghong — 第2071章 雨中青虹：王林悟轮回如镜，遍访洞府界故人转世 · kind=plot asOf=2026-08-31 entities=32 relations=41 src=01982-01986.p2.md
+- **2026-08-31T02:47:50.433Z** `ingest` plot.xianni-2072-xin-wang-ze-wang — 第2072章 心亡，则忘：青虹忆前尘红蝶，青霖轮回为凡人铁匠 · kind=plot asOf=2026-08-31 entities=26 relations=32 src=01982-01986.p3.md
