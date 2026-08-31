@@ -4,12 +4,14 @@
   "name": "贪狼的洞府",
   "aliases": [
     "贪狼洞府",
-    "山峰洞府"
+    "山峰洞府",
+    "王林与木冰眉所入洞府"
   ],
   "summary": "贪狼藏于某修真星山峰缝隙内的洞府，内部恶臭弥漫；他返回此处欲取走留存之物后离开颠落之地。",
   "attributes": {
     "类型": "洞府",
-    "所属势力": "贪狼"
+    "所属势力": "贪狼",
+    "所属界面": "朱雀星"
   },
   "observations": {
     "类型": [
@@ -24,6 +26,13 @@
         "value": "贪狼",
         "docId": "plot.xianni-1389-tanlang-tale-diedluo-forest-statue-and-release",
         "seq": 1300
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "朱雀星",
+        "docId": "plot.xianni-ch2078-two-points-chihunzi-madness-wanglin-farewell-tour",
+        "seq": 1987
       }
     ]
   },
@@ -40,12 +49,19 @@
       "docId": "plot.xianni-1389-tanlang-tale-diedluo-forest-statue-and-release",
       "dated": false,
       "seq": 1300
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2078-two-points-chihunzi-madness-wanglin-farewell-tour",
+      "dated": false,
+      "seq": 1987
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1389-tanlang-tale-diedluo-forest-statue-and-release"
+    "plot.xianni-1389-tanlang-tale-diedluo-forest-statue-and-release",
+    "plot.xianni-ch2078-two-points-chihunzi-madness-wanglin-farewell-tour"
   ],
-  "updatedAt": "2026-08-25T15:56:39.922Z"
+  "updatedAt": "2026-08-31T03:08:17.074Z"
 }

@@ -3,13 +3,15 @@
   "type": "place",
   "name": "仙帝青霖洞府",
   "aliases": [
-    "仙帝青霖的洞府"
+    "仙帝青霖的洞府",
+    "妖灵之地青霖洞府"
   ],
   "summary": "本片段王林所处的仙帝级洞府，危机四伏，内含黑沙荒漠等绝地。",
   "attributes": {
     "类型": "洞府/秘境",
     "危险度": "极高",
-    "所属势力": "仙帝青霖"
+    "所属势力": "青霖",
+    "上级区域": "东海妖灵之门"
   },
   "observations": {
     "类型": [
@@ -36,6 +38,18 @@
         "value": "仙帝青霖",
         "docId": "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
         "seq": 941
+      },
+      {
+        "value": "青霖",
+        "docId": "plot.xianni-ch2078-two-points-chihunzi-madness-wanglin-farewell-tour",
+        "seq": 1987
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "东海妖灵之门",
+        "docId": "plot.xianni-ch2078-two-points-chihunzi-madness-wanglin-farewell-tour",
+        "seq": 1987
       }
     ]
   },
@@ -55,16 +69,23 @@
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
+      "docId": "plot.xianni-ch2078-two-points-chihunzi-madness-wanglin-farewell-tour",
       "dated": false,
-      "seq": 941
+      "seq": 1987
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2078-two-points-chihunzi-madness-wanglin-farewell-tour",
+      "dated": false,
+      "seq": 1987
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1013-mo-ying-qinglin-fifth-cave-black-sand-gray-qi",
-    "plot.xianni-1016-desert-black-tower-sanmo-pagoda"
+    "plot.xianni-1016-desert-black-tower-sanmo-pagoda",
+    "plot.xianni-ch2078-two-points-chihunzi-madness-wanglin-farewell-tour"
   ],
-  "updatedAt": "2026-08-24T06:28:02.482Z"
+  "updatedAt": "2026-08-31T03:08:16.969Z"
 }
