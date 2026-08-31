@@ -1244,3 +1244,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-30T23:54:28.725Z** `ingest` plot.xianni-ch2007-jidu-prince-kowtow-godfather-backup-plan — 仙逆 第2007章 后路！——计都皇子跪认王林为义父 · kind=plot asOf=2026-08-30 entities=21 relations=30 src=01919-01923.p1.md
 - **2026-08-30T23:57:00.548Z** `ingest` plot.xianni-2008-daogu-huangcheng-luxiang-yibai — 第2008章 炉香一拜皇尊森：王林抵道古皇城，一拜压弯道古殿香炉青烟 · kind=plot asOf=2026-08-30 entities=25 relations=33 src=01919-01923.p2.md
 - **2026-08-30T23:59:44.317Z** `ingest` plot.xianni-ch2009-yi-bei-re-cha-nuan-ru-jia — 仙逆·第2009章 一杯热茶暖如家：玄罗授家、九人归麾与道古皇尊烨道降临 · kind=plot asOf=2026-08-30 entities=26 relations=45 src=01919-01923.p3.md
+- **2026-08-31T00:02:27.349Z** `ingest` plot.xianni-2010-shizun-rufu-daogu-huangzun-yujue — 第2010章 师尊如父！——道古皇尊亲临赐紫玉佩，玄罗许诺送本源之地 · kind=plot asOf=2026-08-31 entities=20 relations=38 src=01919-01923.p4.md
