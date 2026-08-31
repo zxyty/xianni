@@ -1271,3 +1271,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-31T01:00:10.684Z** `ingest` plot.xianni-2034-shengghuang-zu-yewei-chumian — 第2034章 故……｜圣皇祖烨微出棺，玄罗一言退大阵 · kind=plot asOf=2026-08-31 entities=23 relations=30 src=01944-01948.p3.md
 - **2026-08-31T01:02:42.888Z** `ingest` plot.xianni-ch2035-future-huangzun-luochen — 第2035章 未来皇尊——王林赠罗尘皇族血脉，玄罗选定新皇尊，荒山十色雾中对峙国师 · kind=plot asOf=2026-08-31 entities=31 relations=41 src=01944-01948.p4.md
 - **2026-08-31T01:04:32.988Z** `ingest` plot.xianni-ch2036-daoji-guoshi-tianyunzi — 第2036章 道吉国师！！——十色雾玄阵九兽阻路，道古真身现，雾中老者竟是天运子 · kind=plot asOf=2026-08-31 entities=18 relations=20 src=01944-01948.p5.md
+- **2026-08-31T01:06:32.515Z** `ingest` plot.xianni-ch2037-po-jie-transmission-array-tianyunzi-qicai-xianzun — 仙逆 第2037章 破界！——王林力撼传送阵，与「天运子/七彩仙尊」重叠之老者对峙 · kind=plot asOf=2026-08-31 entities=15 relations=20 src=01949-01953.p1.md
