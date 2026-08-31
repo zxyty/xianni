@@ -1311,3 +1311,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-31T02:53:31.206Z** `ingest` plot.xianni-2074-chi-hun-zi-siege-immortal-realm-wang-lin-returns — 第2074章 赤魂子！——赤魂教围困仙界，王林自罗天归来 · kind=plot asOf=2026-08-31 entities=26 relations=37 src=01982-01986.p5.md
 - **2026-08-31T02:55:33.422Z** `ingest` plot.xianni-2075-yuedin-wang-lin-mu-bingmei-mengdao-lunhui — 第2075章 约定：王林重返新仙界，与木冰眉以梦道百年轮回作了断 · kind=plot asOf=2026-08-31 entities=19 relations=21 src=01987-01990.p1.md
 - **2026-08-31T02:57:50.711Z** `ingest` plot.xianni-ch2076-wang-lin-returns-to-immortal-realm-chi-hun-zi — 第2076章 做梦｜王林现身仙界、十三斩红袍青年、金尊海龙现身惊退赤魂子 · kind=plot asOf=2026-08-31 entities=22 relations=29 src=01987-01990.p2.md
+- **2026-08-31T02:59:51.490Z** `ingest` plot.xianni-ch2077-recognize-daoyi — 第2077章 认识道一！——赤魂子搬出道一大天尊，王林隔空提审 · kind=plot asOf=2026-08-31 entities=22 relations=31 src=01987-01990.p3.md
