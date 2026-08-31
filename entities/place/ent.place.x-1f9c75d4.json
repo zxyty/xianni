@@ -4,16 +4,18 @@
   "name": "祖庙",
   "aliases": [
     "中州祖庙",
-    "皇宫祖庙"
+    "皇宫祖庙",
+    "古祖雕像底部祖庙"
   ],
   "summary": "位于仙族皇城中州的圣地，进入其中需要资格；云空炼丹海即为博取此资格。",
   "attributes": {
     "上级区域": "始古皇城",
-    "类型": "祭祖闭关之所",
+    "类型": "祖庙/闭关禁地",
     "危险度": "需资格方可进入",
     "所属界面": "古族三脉之地",
-    "所属势力": "古族",
-    "守护": "古祖魂血之力"
+    "所属势力": "始古一脉",
+    "守护": "古祖魂血之力",
+    "方位": "古祖雕像底部"
   },
   "observations": {
     "上级区域": [
@@ -43,6 +45,11 @@
         "value": "祭祖闭关之所",
         "docId": "plot.xianni-2057-gudao-second-fenshen-failure",
         "seq": 1968
+      },
+      {
+        "value": "祖庙/闭关禁地",
+        "docId": "plot.xianni-ch2061-liyi-guzu-hunxue-jibie",
+        "seq": 1972
       }
     ],
     "危险度": [
@@ -74,6 +81,11 @@
         "value": "古族",
         "docId": "plot.xianni-2043-nine-year-seclusion-three-true-bodies",
         "seq": 1954
+      },
+      {
+        "value": "始古一脉",
+        "docId": "plot.xianni-ch2061-liyi-guzu-hunxue-jibie",
+        "seq": 1972
       }
     ],
     "守护": [
@@ -81,6 +93,13 @@
         "value": "古祖魂血之力",
         "docId": "plot.xianni-2057-gudao-second-fenshen-failure",
         "seq": 1968
+      }
+    ],
+    "方位": [
+      {
+        "value": "古祖雕像底部",
+        "docId": "plot.xianni-ch2061-liyi-guzu-hunxue-jibie",
+        "seq": 1972
       }
     ]
   },
@@ -94,9 +113,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-2057-gudao-second-fenshen-failure",
+      "docId": "plot.xianni-ch2061-liyi-guzu-hunxue-jibie",
       "dated": false,
-      "seq": 1968
+      "seq": 1972
     },
     "危险度": {
       "asOf": null,
@@ -112,15 +131,21 @@
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.xianni-2043-nine-year-seclusion-three-true-bodies",
+      "docId": "plot.xianni-ch2061-liyi-guzu-hunxue-jibie",
       "dated": false,
-      "seq": 1954
+      "seq": 1972
     },
     "守护": {
       "asOf": null,
       "docId": "plot.xianni-2057-gudao-second-fenshen-failure",
       "dated": false,
       "seq": 1968
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2061-liyi-guzu-hunxue-jibie",
+      "dated": false,
+      "seq": 1972
     }
   },
   "contested": false,
@@ -129,7 +154,8 @@
     "plot.xianni-1849-danhai-immortal-pill",
     "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
     "plot.xianni-2043-nine-year-seclusion-three-true-bodies",
-    "plot.xianni-2057-gudao-second-fenshen-failure"
+    "plot.xianni-2057-gudao-second-fenshen-failure",
+    "plot.xianni-ch2061-liyi-guzu-hunxue-jibie"
   ],
-  "updatedAt": "2026-08-31T02:13:09.764Z"
+  "updatedAt": "2026-08-31T02:21:38.598Z"
 }
