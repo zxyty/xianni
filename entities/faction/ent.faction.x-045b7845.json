@@ -10,7 +10,8 @@
   "attributes": {
     "等级": "道古五等之「圣」",
     "阵营": "道古一脉、道古一族",
-    "理念": "代代七十二人不多不少，世代传承守护道古"
+    "理念": "代代七十二人不多不少，世代传承守护道古",
+    "据点": "道古皇宫大殿前"
   },
   "observations": {
     "等级": [
@@ -38,6 +39,13 @@
         "docId": "plot.xianni-2020-daogu-tongming-night-banquet",
         "seq": 1929
       }
+    ],
+    "据点": [
+      {
+        "value": "道古皇宫大殿前",
+        "docId": "plot.xianni-2027-chongguan-yinu-6-daogu-palace-massacre",
+        "seq": 1939
+      }
     ]
   },
   "firstSeq": 1929,
@@ -59,13 +67,20 @@
       "docId": "plot.xianni-2020-daogu-tongming-night-banquet",
       "dated": false,
       "seq": 1929
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.xianni-2027-chongguan-yinu-6-daogu-palace-massacre",
+      "dated": false,
+      "seq": 1939
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-2020-daogu-tongming-night-banquet",
-    "plot.xianni-2021-momo-huishou-daogu-huanggong-yeyan"
+    "plot.xianni-2021-momo-huishou-daogu-huanggong-yeyan",
+    "plot.xianni-2027-chongguan-yinu-6-daogu-palace-massacre"
   ],
-  "updatedAt": "2026-08-31T00:28:51.649Z"
+  "updatedAt": "2026-08-31T00:41:48.119Z"
 }
