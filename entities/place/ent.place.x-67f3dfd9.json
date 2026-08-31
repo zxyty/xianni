@@ -12,9 +12,10 @@
   "attributes": {
     "所属界面": "仙罡大陆",
     "方位": "苍茫大海中心",
-    "类型": "风暴禁地、自然屏障、风暴屏障/界限",
-    "危险度": "极高（空间碎裂、无形威压）",
-    "上级区域": "苍茫大海"
+    "类型": "风暴禁地、自然屏障、风暴屏障/界限、风暴屏障",
+    "危险度": "轰鸣可横扫空劫以下修士",
+    "上级区域": "苍茫大海",
+    "守护": "九色凌厉之气"
   },
   "observations": {
     "所属界面": [
@@ -46,6 +47,11 @@
         "value": "风暴屏障/界限",
         "docId": "plot.xianni-ch2066-agreement-wang-lin-defeats-gu-dao",
         "seq": 1977
+      },
+      {
+        "value": "风暴屏障",
+        "docId": "plot.xianni-ch2082-taigu-shenjing-opening-anomaly",
+        "seq": 1991
       }
     ],
     "危险度": [
@@ -53,6 +59,11 @@
         "value": "极高（空间碎裂、无形威压）",
         "docId": "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao",
         "seq": 1972
+      },
+      {
+        "value": "轰鸣可横扫空劫以下修士",
+        "docId": "plot.xianni-ch2082-taigu-shenjing-opening-anomaly",
+        "seq": 1991
       }
     ],
     "上级区域": [
@@ -60,6 +71,13 @@
         "value": "苍茫大海",
         "docId": "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao",
         "seq": 1972
+      }
+    ],
+    "守护": [
+      {
+        "value": "九色凌厉之气",
+        "docId": "plot.xianni-ch2082-taigu-shenjing-opening-anomaly",
+        "seq": 1991
       }
     ]
   },
@@ -85,15 +103,21 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao",
+      "docId": "plot.xianni-ch2082-taigu-shenjing-opening-anomaly",
       "dated": false,
-      "seq": 1972
+      "seq": 1991
     },
     "上级区域": {
       "asOf": null,
       "docId": "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao",
       "dated": false,
       "seq": 1972
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2082-taigu-shenjing-opening-anomaly",
+      "dated": false,
+      "seq": 1991
     }
   },
   "contested": false,
@@ -102,7 +126,8 @@
     "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao",
     "plot.xianni-ch2063-drive-fog-wang-lin-vs-gudao",
     "plot.xianni-ch2065-jiuqu-sanxiang-complete",
-    "plot.xianni-ch2066-agreement-wang-lin-defeats-gu-dao"
+    "plot.xianni-ch2066-agreement-wang-lin-defeats-gu-dao",
+    "plot.xianni-ch2082-taigu-shenjing-opening-anomaly"
   ],
-  "updatedAt": "2026-08-31T02:34:08.040Z"
+  "updatedAt": "2026-08-31T03:22:11.882Z"
 }

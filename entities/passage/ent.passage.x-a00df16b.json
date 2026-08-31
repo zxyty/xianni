@@ -4,13 +4,17 @@
   "name": "九根柱子形成的门",
   "aliases": [
     "海墙深处之门",
-    "太古神境之门"
+    "太古神境之门",
+    "九根通天柱子组成的大门",
+    "通天柱大门"
   ],
   "summary": "海墙风暴深处由九根巨大柱子构成的门，三百年后开启；王林计划届时带李慕婉踏入，以轮回之力令其复活并超越轮回，并在其中寻找一个真相。",
   "attributes": {
-    "类型": "界门/通道",
+    "类型": "秘境之门",
     "坐标": "海墙风暴深处",
-    "稳定性": "封闭"
+    "稳定性": "松动",
+    "两端": "仙罡大陆—太古神境",
+    "可通行境界": "第三步/空劫以上"
   },
   "observations": {
     "类型": [
@@ -18,6 +22,11 @@
         "value": "界门/通道",
         "docId": "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao",
         "seq": 1972
+      },
+      {
+        "value": "秘境之门",
+        "docId": "plot.xianni-ch2082-taigu-shenjing-opening-anomaly",
+        "seq": 1991
       }
     ],
     "坐标": [
@@ -33,6 +42,26 @@
         "docId": "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao",
         "seq": 1972,
         "note": "三百年后开启"
+      },
+      {
+        "value": "松动",
+        "docId": "plot.xianni-ch2082-taigu-shenjing-opening-anomaly",
+        "seq": 1991,
+        "note": "开启前十五天起"
+      }
+    ],
+    "两端": [
+      {
+        "value": "仙罡大陆—太古神境",
+        "docId": "plot.xianni-ch2082-taigu-shenjing-opening-anomaly",
+        "seq": 1991
+      }
+    ],
+    "可通行境界": [
+      {
+        "value": "第三步/空劫以上",
+        "docId": "plot.xianni-ch2082-taigu-shenjing-opening-anomaly",
+        "seq": 1991
       }
     ]
   },
@@ -40,9 +69,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao",
+      "docId": "plot.xianni-ch2082-taigu-shenjing-opening-anomaly",
       "dated": false,
-      "seq": 1972
+      "seq": 1991
     },
     "坐标": {
       "asOf": null,
@@ -52,16 +81,29 @@
     },
     "稳定性": {
       "asOf": null,
-      "docId": "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao",
+      "docId": "plot.xianni-ch2082-taigu-shenjing-opening-anomaly",
       "dated": false,
-      "seq": 1972,
-      "note": "三百年后开启"
+      "seq": 1991,
+      "note": "开启前十五天起"
+    },
+    "两端": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2082-taigu-shenjing-opening-anomaly",
+      "dated": false,
+      "seq": 1991
+    },
+    "可通行境界": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2082-taigu-shenjing-opening-anomaly",
+      "dated": false,
+      "seq": 1991
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao"
+    "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao",
+    "plot.xianni-ch2082-taigu-shenjing-opening-anomaly"
   ],
-  "updatedAt": "2026-08-31T02:24:12.192Z"
+  "updatedAt": "2026-08-31T03:22:11.883Z"
 }

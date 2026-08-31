@@ -3,12 +3,14 @@
   "type": "person",
   "name": "极古大天尊",
   "aliases": [
-    "神秘的极古大天尊"
+    "神秘的极古大天尊",
+    "极吉大天尊"
   ],
   "summary": "极古一脉皇城内的神秘大天尊，其尊阳受牵引幻化升空。",
   "attributes": {
-    "阵营": "极古一脉",
-    "身份": "大天尊"
+    "阵营": "古族",
+    "身份": "古族大天尊",
+    "性格": "沉默"
   },
   "observations": {
     "阵营": [
@@ -16,6 +18,11 @@
         "value": "极古一脉",
         "docId": "plot.xianni-ch2051-ten-suns-wang-lin-becomes-da-tianzun",
         "seq": 1959
+      },
+      {
+        "value": "古族",
+        "docId": "plot.xianni-ch2082-taigu-shenjing-opening-anomaly",
+        "seq": 1991
       }
     ],
     "身份": [
@@ -23,6 +30,18 @@
         "value": "大天尊",
         "docId": "plot.xianni-ch2051-ten-suns-wang-lin-becomes-da-tianzun",
         "seq": 1959
+      },
+      {
+        "value": "古族大天尊",
+        "docId": "plot.xianni-ch2082-taigu-shenjing-opening-anomaly",
+        "seq": 1991
+      }
+    ],
+    "性格": [
+      {
+        "value": "沉默",
+        "docId": "plot.xianni-ch2082-taigu-shenjing-opening-anomaly",
+        "seq": 1991
       }
     ]
   },
@@ -30,21 +49,28 @@
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch2051-ten-suns-wang-lin-becomes-da-tianzun",
+      "docId": "plot.xianni-ch2082-taigu-shenjing-opening-anomaly",
       "dated": false,
-      "seq": 1959
+      "seq": 1991
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.xianni-ch2051-ten-suns-wang-lin-becomes-da-tianzun",
+      "docId": "plot.xianni-ch2082-taigu-shenjing-opening-anomaly",
       "dated": false,
-      "seq": 1959
+      "seq": 1991
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2082-taigu-shenjing-opening-anomaly",
+      "dated": false,
+      "seq": 1991
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch2051-ten-suns-wang-lin-becomes-da-tianzun"
+    "plot.xianni-ch2051-ten-suns-wang-lin-becomes-da-tianzun",
+    "plot.xianni-ch2082-taigu-shenjing-opening-anomaly"
   ],
-  "updatedAt": "2026-08-31T01:59:29.409Z"
+  "updatedAt": "2026-08-31T03:22:11.861Z"
 }
