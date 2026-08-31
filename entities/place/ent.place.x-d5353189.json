@@ -7,13 +7,15 @@
     "赵国山村",
     "王林家乡山村",
     "恒岳山山村",
-    "王家山村"
+    "王家山村",
+    "赵国偏远山村",
+    "山脉脚下的小山村"
   ],
   "summary": "王林（铁柱）出生长大的平静山村，炊烟渺渺、犬吠孩童声；村外有翠林小路，远处可见云雾缭绕的宗派山峰。",
   "attributes": {
-    "类型": "村落",
+    "类型": "凡人山村",
     "上级区域": "恒岳山",
-    "方位": "苏城数十里外官道尽处"
+    "方位": "赵国偏远之地、山脉脚下"
   },
   "observations": {
     "类型": [
@@ -26,6 +28,12 @@
         "value": "村落",
         "docId": "plot.xianni-ch1590-meng-ru-ren-sheng",
         "seq": 1496
+      },
+      {
+        "value": "凡人山村",
+        "docId": "plot.xianni-2079-zai-zhengkai-shi-mumeibing-mengdao-yisheng",
+        "seq": 1991,
+        "note": "幻境中的地点"
       }
     ],
     "上级区域": [
@@ -45,6 +53,11 @@
         "value": "苏城数十里外官道尽处",
         "docId": "plot.xianni-ch1604-father-passes-in-wang-lin-arms",
         "seq": 1511
+      },
+      {
+        "value": "赵国偏远之地、山脉脚下",
+        "docId": "plot.xianni-2079-zai-zhengkai-shi-mumeibing-mengdao-yisheng",
+        "seq": 1991
       }
     ]
   },
@@ -52,9 +65,10 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch1590-meng-ru-ren-sheng",
+      "docId": "plot.xianni-2079-zai-zhengkai-shi-mumeibing-mengdao-yisheng",
       "dated": false,
-      "seq": 1496
+      "seq": 1991,
+      "note": "幻境中的地点"
     },
     "上级区域": {
       "asOf": null,
@@ -64,9 +78,9 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch1604-father-passes-in-wang-lin-arms",
+      "docId": "plot.xianni-2079-zai-zhengkai-shi-mumeibing-mengdao-yisheng",
       "dated": false,
-      "seq": 1511
+      "seq": 1991
     }
   },
   "contested": false,
@@ -74,7 +88,8 @@
   "docs": [
     "plot.xianni-1214-tiezhu-dao-shu-memory-illusion",
     "plot.xianni-ch1590-meng-ru-ren-sheng",
-    "plot.xianni-ch1604-father-passes-in-wang-lin-arms"
+    "plot.xianni-ch1604-father-passes-in-wang-lin-arms",
+    "plot.xianni-2079-zai-zhengkai-shi-mumeibing-mengdao-yisheng"
   ],
-  "updatedAt": "2026-08-26T06:22:25.489Z"
+  "updatedAt": "2026-08-31T03:10:01.922Z"
 }
