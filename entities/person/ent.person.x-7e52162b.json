@@ -4,14 +4,18 @@
   "name": "极古一脉大天尊",
   "aliases": [
     "极古一脉神秘大天尊",
-    "神秘的极古一脉大天尊"
+    "神秘的极古一脉大天尊",
+    "戴面具的男子",
+    "面具大天尊"
   ],
   "summary": "极古一脉中甚为神秘的大天尊，在闭关处阴沉地感受古族异象。",
   "attributes": {
     "称号": "大天尊",
-    "阵营": "古族",
+    "阵营": "古族（极古一脉）",
     "性格": "神秘",
-    "身份": "大天尊"
+    "身份": "大天尊",
+    "标志特征": "戴面具，看不到样子",
+    "性别": "男"
   },
   "observations": {
     "称号": [
@@ -31,6 +35,11 @@
         "value": "古族",
         "docId": "plot.xianni-ch2063-drive-fog-wang-lin-vs-gudao",
         "seq": 1972
+      },
+      {
+        "value": "古族（极古一脉）",
+        "docId": "plot.xianni-ch2066-agreement-wang-lin-defeats-gu-dao",
+        "seq": 1977
       }
     ],
     "性格": [
@@ -52,6 +61,20 @@
         "docId": "plot.xianni-ch2063-drive-fog-wang-lin-vs-gudao",
         "seq": 1972
       }
+    ],
+    "标志特征": [
+      {
+        "value": "戴面具，看不到样子",
+        "docId": "plot.xianni-ch2066-agreement-wang-lin-defeats-gu-dao",
+        "seq": 1977
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.xianni-ch2066-agreement-wang-lin-defeats-gu-dao",
+        "seq": 1977
+      }
     ]
   },
   "firstSeq": 1959,
@@ -64,9 +87,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.xianni-ch2063-drive-fog-wang-lin-vs-gudao",
+      "docId": "plot.xianni-ch2066-agreement-wang-lin-defeats-gu-dao",
       "dated": false,
-      "seq": 1972
+      "seq": 1977
     },
     "性格": {
       "asOf": null,
@@ -79,13 +102,26 @@
       "docId": "plot.xianni-ch2063-drive-fog-wang-lin-vs-gudao",
       "dated": false,
       "seq": 1972
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2066-agreement-wang-lin-defeats-gu-dao",
+      "dated": false,
+      "seq": 1977
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2066-agreement-wang-lin-defeats-gu-dao",
+      "dated": false,
+      "seq": 1977
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze",
-    "plot.xianni-ch2063-drive-fog-wang-lin-vs-gudao"
+    "plot.xianni-ch2063-drive-fog-wang-lin-vs-gudao",
+    "plot.xianni-ch2066-agreement-wang-lin-defeats-gu-dao"
   ],
-  "updatedAt": "2026-08-31T02:26:22.732Z"
+  "updatedAt": "2026-08-31T02:34:08.029Z"
 }
