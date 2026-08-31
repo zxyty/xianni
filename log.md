@@ -1291,3 +1291,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-31T02:06:57.256Z** `ingest` plot.xianni-2054-three-losses-second-tribulation-ancestral-temple — 第2054章 三损，二劫｜王林入始古祖庙渡第三损，计都百年承皇 · kind=plot asOf=2026-08-31 entities=27 relations=43 src=01964-01967.p3.md
 - **2026-08-31T02:09:27.332Z** `ingest` plot.xianni-ch2055-gudao-sanfenshen — 第2055章 古道三分神：王林祖庙渡三损第二劫，宋天与玄罗护法 · kind=plot asOf=2026-08-31 entities=21 relations=37 src=01964-01967.p4.md
 - **2026-08-31T02:11:06.438Z** `ingest` plot.xianni-ch2056-wang-lin-first-soul-split-perfect-fusion — 第2056章 完美！——王林三损第二劫「第一次分神」坚持三十六个月彻底粉碎、完美融合 · kind=plot asOf=2026-08-31 entities=13 relations=20 src=01968-01971.p1.md
+- **2026-08-31T02:13:10.247Z** `ingest` plot.xianni-2057-gudao-second-fenshen-failure — 《仙逆》第2057章 失败：王林古道二分神受阻，十八光环连破 · kind=plot asOf=2026-08-31 entities=19 relations=30 src=01968-01971.p2.md

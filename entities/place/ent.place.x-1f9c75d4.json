@@ -8,11 +8,12 @@
   ],
   "summary": "位于仙族皇城中州的圣地，进入其中需要资格；云空炼丹海即为博取此资格。",
   "attributes": {
-    "上级区域": "中州",
-    "类型": "试炼禁地",
+    "上级区域": "始古皇城",
+    "类型": "祭祖闭关之所",
     "危险度": "需资格方可进入",
-    "所属界面": "仙罡大陆",
-    "所属势力": "古族"
+    "所属界面": "古族三脉之地",
+    "所属势力": "古族",
+    "守护": "古祖魂血之力"
   },
   "observations": {
     "上级区域": [
@@ -20,6 +21,11 @@
         "value": "中州",
         "docId": "plot.xianni-1849-danhai-immortal-pill",
         "seq": 1760
+      },
+      {
+        "value": "始古皇城",
+        "docId": "plot.xianni-2057-gudao-second-fenshen-failure",
+        "seq": 1968
       }
     ],
     "类型": [
@@ -32,6 +38,11 @@
         "value": "试炼禁地",
         "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
         "seq": 1824
+      },
+      {
+        "value": "祭祖闭关之所",
+        "docId": "plot.xianni-2057-gudao-second-fenshen-failure",
+        "seq": 1968
       }
     ],
     "危险度": [
@@ -46,6 +57,11 @@
         "value": "仙罡大陆",
         "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
         "seq": 1824
+      },
+      {
+        "value": "古族三脉之地",
+        "docId": "plot.xianni-2057-gudao-second-fenshen-failure",
+        "seq": 1968
       }
     ],
     "所属势力": [
@@ -59,21 +75,28 @@
         "docId": "plot.xianni-2043-nine-year-seclusion-three-true-bodies",
         "seq": 1954
       }
+    ],
+    "守护": [
+      {
+        "value": "古祖魂血之力",
+        "docId": "plot.xianni-2057-gudao-second-fenshen-failure",
+        "seq": 1968
+      }
     ]
   },
   "firstSeq": 1760,
   "attrProvenance": {
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-1849-danhai-immortal-pill",
+      "docId": "plot.xianni-2057-gudao-second-fenshen-failure",
       "dated": false,
-      "seq": 1760
+      "seq": 1968
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
+      "docId": "plot.xianni-2057-gudao-second-fenshen-failure",
       "dated": false,
-      "seq": 1824
+      "seq": 1968
     },
     "危险度": {
       "asOf": null,
@@ -83,15 +106,21 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
+      "docId": "plot.xianni-2057-gudao-second-fenshen-failure",
       "dated": false,
-      "seq": 1824
+      "seq": 1968
     },
     "所属势力": {
       "asOf": null,
       "docId": "plot.xianni-2043-nine-year-seclusion-three-true-bodies",
       "dated": false,
       "seq": 1954
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-2057-gudao-second-fenshen-failure",
+      "dated": false,
+      "seq": 1968
     }
   },
   "contested": false,
@@ -99,7 +128,8 @@
   "docs": [
     "plot.xianni-1849-danhai-immortal-pill",
     "plot.xianni-1913-xianhuang-shengzhi-yu-laozu-hailong",
-    "plot.xianni-2043-nine-year-seclusion-three-true-bodies"
+    "plot.xianni-2043-nine-year-seclusion-three-true-bodies",
+    "plot.xianni-2057-gudao-second-fenshen-failure"
   ],
-  "updatedAt": "2026-08-31T01:26:40.771Z"
+  "updatedAt": "2026-08-31T02:13:09.764Z"
 }
