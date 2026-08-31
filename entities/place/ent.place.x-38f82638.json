@@ -9,16 +9,17 @@
     "祖城城池",
     "仙族祖城",
     "祖城东城门",
-    "仙罡大陆祖城"
+    "仙罡大陆祖城",
+    "仙族中州祖城"
   ],
   "summary": "仙罡大陆第一雄城，大小堪比一洲，城内无凡人；分东南西北四大分城，中央为皇宫禁地。",
   "attributes": {
     "所属界面": "仙罡大陆",
     "所属势力": "仙族皇室",
     "类型": "雄城、巨城、都城、城池、大城、都城/禁地、祖城、城",
-    "上级区域": "仙族大地",
+    "上级区域": "中州、仙族大地、仙族中州",
     "方位": "中州",
-    "规模": "堪比一洲，无边无际，第一雄城、天地罕有之城，仅东城便无边无际、极大，东城至皇宫路程遥远、庞大（紫色陨石堪比其一半大小）",
+    "规模": "堪比一洲，无边无际，第一雄城、天地罕有之城，仅东城便无边无际、极大，东城至皇宫路程遥远、庞大（紫色陨石堪比其一半大小）、范围太大，城中时刻可见日月交替同时出现",
     "特产": "仙气浓郁形成仙威，凡人无法生存、浓郁仙威、常年风雪",
     "守护": "两个大天尊、神秘的道门、仙皇",
     "危险度": "极高（王林自认此地对己危险）"
@@ -95,6 +96,11 @@
         "value": "仙族大地",
         "docId": "plot.xianni-ch2065-jiuqu-sanxiang-complete",
         "seq": 1977
+      },
+      {
+        "value": "仙族中州",
+        "docId": "plot.xianni-ch2068-happiness-and-responsibility",
+        "seq": 1977
       }
     ],
     "方位": [
@@ -129,6 +135,11 @@
         "value": "庞大（紫色陨石堪比其一半大小）",
         "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
         "seq": 1898
+      },
+      {
+        "value": "范围太大，城中时刻可见日月交替同时出现",
+        "docId": "plot.xianni-ch2068-happiness-and-responsibility",
+        "seq": 1977
       }
     ],
     "特产": [
@@ -196,9 +207,9 @@
     },
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-ch2065-jiuqu-sanxiang-complete",
+      "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
       "dated": false,
-      "seq": 1977
+      "seq": 1878
     },
     "方位": {
       "asOf": null,
@@ -246,7 +257,8 @@
     "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze",
     "plot.xianni-2052-song-tian-battle",
     "plot.xianni-ch2065-jiuqu-sanxiang-complete",
-    "plot.xianni-ch2066-agreement-wang-lin-defeats-gu-dao"
+    "plot.xianni-ch2066-agreement-wang-lin-defeats-gu-dao",
+    "plot.xianni-ch2068-happiness-and-responsibility"
   ],
-  "updatedAt": "2026-08-31T02:34:08.041Z"
+  "updatedAt": "2026-08-31T02:39:10.471Z"
 }

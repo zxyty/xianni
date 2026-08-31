@@ -10,15 +10,16 @@
     "天牛魂铠地宫",
     "祖城地宫",
     "祭坛地宫",
-    "祖城皇宫下的地宫"
+    "祖城皇宫下的地宫",
+    "重叠空间地宫"
   ],
   "summary": "极天草原地底的宫殿群，四周弥漫无数洞府；空劫修士居宫殿，其余修士居洞府。",
   "attributes": {
     "上级区域": "祖城",
-    "类型": "地下宫殿群与洞府区、驻地/据点、地下宫殿据点、地底秘境/地宫、禁地、地下宫殿、秘境/异空间、地宫",
+    "类型": "地下宫殿群与洞府区、驻地/据点、地下宫殿据点、地底秘境/地宫、禁地、地下宫殿、秘境/异空间、地宫、地宫/禁地",
     "所属势力": "仙族",
     "方位": "祖城皇宫之下",
-    "守护": "连道非",
+    "守护": "无数禁制与封印，大天尊修为亦需很久方能破开",
     "规模": "可容一千多修士观战",
     "所属界面": "仙罡大陆"
   },
@@ -80,6 +81,11 @@
         "value": "地宫",
         "docId": "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze",
         "seq": 1959
+      },
+      {
+        "value": "地宫/禁地",
+        "docId": "plot.xianni-ch2068-happiness-and-responsibility",
+        "seq": 1977
       }
     ],
     "所属势力": [
@@ -126,6 +132,11 @@
         "value": "连道非",
         "docId": "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze",
         "seq": 1959
+      },
+      {
+        "value": "无数禁制与封印，大天尊修为亦需很久方能破开",
+        "docId": "plot.xianni-ch2068-happiness-and-responsibility",
+        "seq": 1977
       }
     ],
     "规模": [
@@ -171,9 +182,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze",
+      "docId": "plot.xianni-ch2068-happiness-and-responsibility",
       "dated": false,
-      "seq": 1959
+      "seq": 1977
     },
     "规模": {
       "asOf": null,
@@ -198,7 +209,8 @@
     "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
     "plot.xianni-ch1898-1903-immortal-skull-mountain",
     "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
-    "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze"
+    "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze",
+    "plot.xianni-ch2068-happiness-and-responsibility"
   ],
-  "updatedAt": "2026-08-31T01:47:47.091Z"
+  "updatedAt": "2026-08-31T02:39:10.476Z"
 }
