@@ -3,12 +3,14 @@
   "type": "event",
   "name": "仙古大战",
   "aliases": [
-    "仙族与古族之战"
+    "仙族与古族之战",
+    "未来的仙古大战"
   ],
   "summary": "仙族与古族的大战，仙族一度杀入古族一半境内，因古道大天尊一战而以仙族退兵告终。",
   "attributes": {
-    "参与方": "仙族、古族",
-    "结果": "仙族退兵，战争结束"
+    "参与方": "仙族、古族、仙族与古族（未明言）",
+    "结果": "仙族退兵，战争结束",
+    "世内时序": "本章之后数百年"
   },
   "observations": {
     "参与方": [
@@ -21,6 +23,11 @@
         "value": "古族",
         "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
         "seq": 1878
+      },
+      {
+        "value": "仙族与古族（未明言）",
+        "docId": "plot.xianni-2071-rain-qinghong",
+        "seq": 1982
       }
     ],
     "结果": [
@@ -28,6 +35,13 @@
         "value": "仙族退兵，战争结束",
         "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
         "seq": 1878
+      }
+    ],
+    "世内时序": [
+      {
+        "value": "本章之后数百年",
+        "docId": "plot.xianni-2071-rain-qinghong",
+        "seq": 1982
       }
     ]
   },
@@ -44,12 +58,19 @@
       "docId": "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
       "dated": false,
       "seq": 1878
+    },
+    "世内时序": {
+      "asOf": null,
+      "docId": "plot.xianni-2071-rain-qinghong",
+      "dated": false,
+      "seq": 1982
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun"
+    "plot.xianni-1878-1882-wang-lin-joins-shuangzi-datianzun",
+    "plot.xianni-2071-rain-qinghong"
   ],
-  "updatedAt": "2026-08-30T19:41:43.063Z"
+  "updatedAt": "2026-08-31T02:45:31.214Z"
 }

@@ -6,7 +6,8 @@
   "summary": "仙罡大陆东州的顶级宗门集合，含世界宗、东临宗、阴月宗等。",
   "attributes": {
     "所属界面": "天牛洲",
-    "等级": "东州顶级势力序列"
+    "等级": "东州顶级势力序列",
+    "据点": "东州"
   },
   "observations": {
     "所属界面": [
@@ -27,6 +28,13 @@
         "docId": "plot.xianni-1817-qingniu-zhenren",
         "seq": 1725
       }
+    ],
+    "据点": [
+      {
+        "value": "东州",
+        "docId": "plot.xianni-2071-rain-qinghong",
+        "seq": 1982
+      }
     ]
   },
   "firstSeq": 1720,
@@ -42,6 +50,12 @@
       "docId": "plot.xianni-1817-qingniu-zhenren",
       "dated": false,
       "seq": 1725
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.xianni-2071-rain-qinghong",
+      "dated": false,
+      "seq": 1982
     }
   },
   "contested": false,
@@ -50,7 +64,8 @@
     "plot.xianni-1812-yu-wanglin-bi-benyuan",
     "plot.xianni-1817-qingniu-zhenren",
     "plot.xianni-ch1790-1794-soul-armor-dispersal-jitian-grassland-aftermath",
-    "plot.xianni-1922-first-old-acquaintance"
+    "plot.xianni-1922-first-old-acquaintance",
+    "plot.xianni-2071-rain-qinghong"
   ],
-  "updatedAt": "2026-08-30T17:05:19.435Z"
+  "updatedAt": "2026-08-31T02:45:31.185Z"
 }
