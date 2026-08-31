@@ -9,16 +9,18 @@
     "地底地宫",
     "天牛魂铠地宫",
     "祖城地宫",
-    "祭坛地宫"
+    "祭坛地宫",
+    "祖城皇宫下的地宫"
   ],
   "summary": "极天草原地底的宫殿群，四周弥漫无数洞府；空劫修士居宫殿，其余修士居洞府。",
   "attributes": {
-    "上级区域": "祖城皇宫",
-    "类型": "地下宫殿群与洞府区、驻地/据点、地下宫殿据点、地底秘境/地宫、禁地、地下宫殿、秘境/异空间",
+    "上级区域": "祖城",
+    "类型": "地下宫殿群与洞府区、驻地/据点、地下宫殿据点、地底秘境/地宫、禁地、地下宫殿、秘境/异空间、地宫",
     "所属势力": "仙族",
-    "方位": "皇宫之下",
-    "守护": "吕文冉",
-    "规模": "可容一千多修士观战"
+    "方位": "祖城皇宫之下",
+    "守护": "连道非",
+    "规模": "可容一千多修士观战",
+    "所属界面": "仙罡大陆"
   },
   "observations": {
     "上级区域": [
@@ -31,6 +33,11 @@
         "value": "祖城皇宫",
         "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
         "seq": 1904
+      },
+      {
+        "value": "祖城",
+        "docId": "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze",
+        "seq": 1959
       }
     ],
     "类型": [
@@ -68,6 +75,11 @@
         "value": "秘境/异空间",
         "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
         "seq": 1904
+      },
+      {
+        "value": "地宫",
+        "docId": "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze",
+        "seq": 1959
       }
     ],
     "所属势力": [
@@ -97,6 +109,11 @@
         "value": "皇宫之下",
         "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
         "seq": 1898
+      },
+      {
+        "value": "祖城皇宫之下",
+        "docId": "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze",
+        "seq": 1959
       }
     ],
     "守护": [
@@ -104,6 +121,11 @@
         "value": "吕文冉",
         "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
         "seq": 1770
+      },
+      {
+        "value": "连道非",
+        "docId": "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze",
+        "seq": 1959
       }
     ],
     "规模": [
@@ -112,15 +134,22 @@
         "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
         "seq": 1785
       }
+    ],
+    "所属界面": [
+      {
+        "value": "仙罡大陆",
+        "docId": "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze",
+        "seq": 1959
+      }
     ]
   },
   "firstSeq": 1765,
   "attrProvenance": {
     "上级区域": {
       "asOf": null,
-      "docId": "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
+      "docId": "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze",
       "dated": false,
-      "seq": 1904
+      "seq": 1959
     },
     "类型": {
       "asOf": null,
@@ -136,21 +165,27 @@
     },
     "方位": {
       "asOf": null,
-      "docId": "plot.xianni-ch1898-1903-immortal-skull-mountain",
+      "docId": "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze",
       "dated": false,
-      "seq": 1898
+      "seq": 1959
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.xianni-1770-1774-wang-lin-kills-liu-zhi-yuan-kong-jie",
+      "docId": "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze",
       "dated": false,
-      "seq": 1770
+      "seq": 1959
     },
     "规模": {
       "asOf": null,
       "docId": "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
       "dated": false,
       "seq": 1785
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze",
+      "dated": false,
+      "seq": 1959
     }
   },
   "contested": false,
@@ -162,7 +197,8 @@
     "plot.xianni-ch1785-1789-tianniu-hunkai-renzhu-sha-lv-wenran",
     "plot.xianni-ch1893-1897-haizi-silence-jiudi-jianpian-xuliguo-awaken",
     "plot.xianni-ch1898-1903-immortal-skull-mountain",
-    "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head"
+    "plot.xianni-1904-1908-five-great-tianzun-immortal-ancestor-head",
+    "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze"
   ],
-  "updatedAt": "2026-08-30T22:02:32.490Z"
+  "updatedAt": "2026-08-31T01:47:47.091Z"
 }

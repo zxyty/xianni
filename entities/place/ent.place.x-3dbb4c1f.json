@@ -13,7 +13,8 @@
     "所属界面": "仙罡大陆",
     "规模": "三十六郡",
     "所属势力": "古之三脉",
-    "上级区域": "吉国"
+    "上级区域": "吉国",
+    "方位": "仙罡大陆右侧"
   },
   "observations": {
     "所属界面": [
@@ -43,6 +44,13 @@
         "docId": "plot.xianni-1806-storage-space-problem",
         "seq": 1715
       }
+    ],
+    "方位": [
+      {
+        "value": "仙罡大陆右侧",
+        "docId": "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze",
+        "seq": 1959
+      }
     ]
   },
   "firstSeq": 1705,
@@ -70,13 +78,20 @@
       "docId": "plot.xianni-1806-storage-space-problem",
       "dated": false,
       "seq": 1715
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze",
+      "dated": false,
+      "seq": 1959
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1796-stubborn-will-xianguang-continent-overview",
-    "plot.xianni-1806-storage-space-problem"
+    "plot.xianni-1806-storage-space-problem",
+    "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze"
   ],
-  "updatedAt": "2026-08-30T09:09:02.196Z"
+  "updatedAt": "2026-08-31T01:47:46.996Z"
 }

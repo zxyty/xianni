@@ -5,14 +5,16 @@
   "aliases": [
     "古族与仙族之间的大海",
     "仙古连接的苍茫大海",
-    "竖起的海洋"
+    "竖起的海洋",
+    "旋转的海洋"
   ],
   "summary": "隔开古族与仙族之地，黑石城临近于此。",
   "attributes": {
-    "类型": "大海、巨海/天堑、海洋→竖起的海水风暴巨墙、海域（现为巨大深坑）",
-    "方位": "古族与仙族之间、仙族与古族（古祖）之间、古族大地与仙族大地之间",
+    "类型": "大海、巨海/天堑、海洋→竖起的海水风暴巨墙、海域（现为巨大深坑）、海洋",
+    "方位": "古族与仙族之间、仙族与古族（古祖）之间、古族大地与仙族大地之间、仙罡大陆中间苍茫盆地",
     "所属界面": "仙罡大陆",
-    "规模": "无边无际，难以测量"
+    "规模": "无边无际，难以测量",
+    "特产": "深处九柱之门"
   },
   "observations": {
     "类型": [
@@ -35,6 +37,11 @@
         "value": "海域（现为巨大深坑）",
         "docId": "plot.xianni-2041-tomorrow-song-zhi-heishi-city-farewell",
         "seq": 1949
+      },
+      {
+        "value": "海洋",
+        "docId": "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze",
+        "seq": 1959
       }
     ],
     "方位": [
@@ -52,6 +59,11 @@
         "value": "古族大地与仙族大地之间",
         "docId": "plot.xianni-2041-tomorrow-song-zhi-heishi-city-farewell",
         "seq": 1949
+      },
+      {
+        "value": "仙罡大陆中间苍茫盆地",
+        "docId": "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze",
+        "seq": 1959
       }
     ],
     "所属界面": [
@@ -66,6 +78,13 @@
         "value": "无边无际，难以测量",
         "docId": "plot.xianni-2040-ninth-pillar-taigu-shenjing-opens",
         "seq": 1949
+      }
+    ],
+    "特产": [
+      {
+        "value": "深处九柱之门",
+        "docId": "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze",
+        "seq": 1959
       }
     ]
   },
@@ -94,6 +113,12 @@
       "docId": "plot.xianni-2040-ninth-pillar-taigu-shenjing-opens",
       "dated": false,
       "seq": 1949
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze",
+      "dated": false,
+      "seq": 1959
     }
   },
   "contested": false,
@@ -102,7 +127,8 @@
     "plot.xianni-ch2006-yiye-zhemu-jidu-huangzi-baifa-yue-tianzun",
     "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
     "plot.xianni-2040-ninth-pillar-taigu-shenjing-opens",
-    "plot.xianni-2041-tomorrow-song-zhi-heishi-city-farewell"
+    "plot.xianni-2041-tomorrow-song-zhi-heishi-city-farewell",
+    "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze"
   ],
-  "updatedAt": "2026-08-31T01:21:17.288Z"
+  "updatedAt": "2026-08-31T01:47:46.999Z"
 }

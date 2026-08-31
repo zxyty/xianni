@@ -35,7 +35,9 @@
     "出身地": "仙罡大陆初开时的弧形石台",
     "存殁": "远古存在",
     "性格": "轻蔑不屑、孤傲至极",
-    "性别": "女"
+    "性别": "女",
+    "小阶段": "踏天之桥·第八桥（止步第九桥）",
+    "阵营": "古族"
   },
   "observations": {
     "身份": [
@@ -219,6 +221,21 @@
         "docId": "plot.xianni-2032-chongguan-yinu-end-limuwan-awaken",
         "seq": 1944
       }
+    ],
+    "小阶段": [
+      {
+        "value": "踏天之桥·第八桥（止步第九桥）",
+        "docId": "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze",
+        "seq": 1959,
+        "note": "古道大天尊转述"
+      }
+    ],
+    "阵营": [
+      {
+        "value": "古族",
+        "docId": "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze",
+        "seq": 1959
+      }
     ]
   },
   "firstSeq": 1616,
@@ -270,6 +287,19 @@
       "docId": "plot.xianni-2032-chongguan-yinu-end-limuwan-awaken",
       "dated": false,
       "seq": 1944
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze",
+      "dated": false,
+      "seq": 1959,
+      "note": "古道大天尊转述"
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze",
+      "dated": false,
+      "seq": 1959
     }
   },
   "contested": false,
@@ -296,7 +326,8 @@
     "plot.xianni-ch2019-feng-qi-dao-gu",
     "plot.xianni-2032-chongguan-yinu-end-limuwan-awaken",
     "plot.xianni-ch2033-huangzun-zhi-si",
-    "plot.xianni-ch2035-future-huangzun-luochen"
+    "plot.xianni-ch2035-future-huangzun-luochen",
+    "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze"
   ],
-  "updatedAt": "2026-08-31T01:02:42.363Z"
+  "updatedAt": "2026-08-31T01:47:47.075Z"
 }
