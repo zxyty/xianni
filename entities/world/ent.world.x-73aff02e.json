@@ -9,7 +9,8 @@
   "summary": "宇宙苍穹四大界之一，仙罡大陆实为其一部分之虚无；其至宝为定界罗盘。",
   "attributes": {
     "层次": "宇宙苍穹四大界之一",
-    "特点": "拥有至宝定界罗盘（唯一空灭之宝）、众生修为达一定程度可感受到踏天之桥"
+    "特点": "拥有至宝定界罗盘（唯一空灭之宝）、众生修为达一定程度可感受到踏天之桥",
+    "通道": "定界罗盘（可让人离开此界）"
   },
   "observations": {
     "层次": [
@@ -30,6 +31,13 @@
         "docId": "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan",
         "seq": 1996
       }
+    ],
+    "通道": [
+      {
+        "value": "定界罗盘（可让人离开此界）",
+        "docId": "plot.xianni-2087-waner-awaken-tianyunzi-destroyed",
+        "seq": 1996
+      }
     ]
   },
   "firstSeq": 1996,
@@ -45,12 +53,19 @@
       "docId": "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan",
       "dated": false,
       "seq": 1996
+    },
+    "通道": {
+      "asOf": null,
+      "docId": "plot.xianni-2087-waner-awaken-tianyunzi-destroyed",
+      "dated": false,
+      "seq": 1996
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan"
+    "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan",
+    "plot.xianni-2087-waner-awaken-tianyunzi-destroyed"
   ],
-  "updatedAt": "2026-08-31T03:28:59.176Z"
+  "updatedAt": "2026-08-31T03:33:39.691Z"
 }
