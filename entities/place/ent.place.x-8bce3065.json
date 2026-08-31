@@ -8,9 +8,11 @@
   ],
   "summary": "古道山所在的黑色大地，金天黑地异象中化作无尽深黑。",
   "attributes": {
-    "类型": "大地／界域",
+    "类型": "族地/疆域",
     "特产": "大地本为黑色",
-    "所属界面": "仙罡大陆"
+    "所属界面": "仙罡大陆",
+    "所属势力": "古族",
+    "守护": "古道大天尊"
   },
   "observations": {
     "类型": [
@@ -28,6 +30,11 @@
         "value": "大地／界域",
         "docId": "plot.xianni-ch2056-wang-lin-first-soul-split-perfect-fusion",
         "seq": 1968
+      },
+      {
+        "value": "族地/疆域",
+        "docId": "plot.xianni-ch2064-ta-tian-yi-bu",
+        "seq": 1972
       }
     ],
     "特产": [
@@ -44,15 +51,29 @@
         "docId": "plot.xianni-2022-chongguan-yinu-1-daogu-empress-song-zhi",
         "seq": 1934
       }
+    ],
+    "所属势力": [
+      {
+        "value": "古族",
+        "docId": "plot.xianni-ch2064-ta-tian-yi-bu",
+        "seq": 1972
+      }
+    ],
+    "守护": [
+      {
+        "value": "古道大天尊",
+        "docId": "plot.xianni-ch2064-ta-tian-yi-bu",
+        "seq": 1972
+      }
     ]
   },
   "firstSeq": 1924,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch2056-wang-lin-first-soul-split-perfect-fusion",
+      "docId": "plot.xianni-ch2064-ta-tian-yi-bu",
       "dated": false,
-      "seq": 1968
+      "seq": 1972
     },
     "特产": {
       "asOf": null,
@@ -66,6 +87,18 @@
       "docId": "plot.xianni-2022-chongguan-yinu-1-daogu-empress-song-zhi",
       "dated": false,
       "seq": 1934
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2064-ta-tian-yi-bu",
+      "dated": false,
+      "seq": 1972
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2064-ta-tian-yi-bu",
+      "dated": false,
+      "seq": 1972
     }
   },
   "contested": false,
@@ -75,7 +108,8 @@
     "plot.xianni-2022-chongguan-yinu-1-daogu-empress-song-zhi",
     "plot.xianni-ch2039-ding-duo-taigu-shenjing-opening",
     "plot.xianni-ch2050-black-white-gold",
-    "plot.xianni-ch2056-wang-lin-first-soul-split-perfect-fusion"
+    "plot.xianni-ch2056-wang-lin-first-soul-split-perfect-fusion",
+    "plot.xianni-ch2064-ta-tian-yi-bu"
   ],
-  "updatedAt": "2026-08-31T02:11:05.967Z"
+  "updatedAt": "2026-08-31T02:28:59.745Z"
 }

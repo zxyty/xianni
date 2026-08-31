@@ -2,14 +2,17 @@
   "id": "ent.place.x-cc4154ac",
   "type": "place",
   "name": "始古皇城祖庙",
-  "aliases": [],
+  "aliases": [
+    "始古皇城的祖庙"
+  ],
   "summary": "始古皇城内供奉古祖雕像之庙，古族第三损最后两劫必须于此渡过；渡劫时古祖雕像外浮现光环波纹。",
   "attributes": {
     "所属势力": "始古一脉",
-    "类型": "祖庙/渡劫圣地",
+    "类型": "祖庙/圣地",
     "上级区域": "始古皇城",
     "守护": "宋天",
-    "特产": "古祖雕像"
+    "特产": "古祖雕像",
+    "所属界面": "仙罡大陆"
   },
   "observations": {
     "所属势力": [
@@ -24,6 +27,11 @@
         "value": "祖庙/渡劫圣地",
         "docId": "plot.xianni-ch2055-gudao-sanfenshen",
         "seq": 1964
+      },
+      {
+        "value": "祖庙/圣地",
+        "docId": "plot.xianni-ch2064-ta-tian-yi-bu",
+        "seq": 1972
       }
     ],
     "上级区域": [
@@ -47,6 +55,13 @@
         "docId": "plot.xianni-ch2055-gudao-sanfenshen",
         "seq": 1964
       }
+    ],
+    "所属界面": [
+      {
+        "value": "仙罡大陆",
+        "docId": "plot.xianni-ch2064-ta-tian-yi-bu",
+        "seq": 1972
+      }
     ]
   },
   "firstSeq": 1964,
@@ -59,9 +74,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch2055-gudao-sanfenshen",
+      "docId": "plot.xianni-ch2064-ta-tian-yi-bu",
       "dated": false,
-      "seq": 1964
+      "seq": 1972
     },
     "上级区域": {
       "asOf": null,
@@ -81,12 +96,19 @@
       "docId": "plot.xianni-ch2055-gudao-sanfenshen",
       "dated": false,
       "seq": 1964
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2064-ta-tian-yi-bu",
+      "dated": false,
+      "seq": 1972
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch2055-gudao-sanfenshen"
+    "plot.xianni-ch2055-gudao-sanfenshen",
+    "plot.xianni-ch2064-ta-tian-yi-bu"
   ],
-  "updatedAt": "2026-08-31T02:09:26.843Z"
+  "updatedAt": "2026-08-31T02:28:59.748Z"
 }
