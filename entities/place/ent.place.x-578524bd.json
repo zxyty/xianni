@@ -1,34 +1,35 @@
 {
-  "id": "ent.place.x-655b54cb",
+  "id": "ent.place.x-578524bd",
   "type": "place",
-  "name": "罗喉郡",
+  "name": "踏天第三桥",
   "aliases": [
-    "罗睺郡"
+    "第三座踏天之桥",
+    "踏天之桥·三"
   ],
-  "summary": "计都所在之地，郡内大殿与行宫密室为本章事发地；罗喉大凶之魂于此被王林吞噬融合。",
+  "summary": "踏天九桥之三，考验为心魔——一生故人如画面闪过；常规解法闭目不视，王林反以睁眼容纳一切通过。",
   "attributes": {
-    "类型": "郡",
-    "上级区域": "始吉一脉区域十二郡",
-    "所属界面": "仙罡大陆"
+    "类型": "试炼桥梁",
+    "上级区域": "踏天九桥",
+    "危险度": "心魔幻境，睁眼直面则通过把握无限减少"
   },
   "observations": {
     "类型": [
       {
-        "value": "郡",
-        "docId": "plot.xianni-2047-ta-tian-lu-kong-mie-dao",
+        "value": "试炼桥梁",
+        "docId": "plot.xianni-ch2049-tatian-fourth-bridge-halt",
         "seq": 1959
       }
     ],
     "上级区域": [
       {
-        "value": "始吉一脉区域十二郡",
+        "value": "踏天九桥",
         "docId": "plot.xianni-ch2049-tatian-fourth-bridge-halt",
         "seq": 1959
       }
     ],
-    "所属界面": [
+    "危险度": [
       {
-        "value": "仙罡大陆",
+        "value": "心魔幻境，睁眼直面则通过把握无限减少",
         "docId": "plot.xianni-ch2049-tatian-fourth-bridge-halt",
         "seq": 1959
       }
@@ -38,7 +39,7 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-2047-ta-tian-lu-kong-mie-dao",
+      "docId": "plot.xianni-ch2049-tatian-fourth-bridge-halt",
       "dated": false,
       "seq": 1959
     },
@@ -48,7 +49,7 @@
       "dated": false,
       "seq": 1959
     },
-    "所属界面": {
+    "危险度": {
       "asOf": null,
       "docId": "plot.xianni-ch2049-tatian-fourth-bridge-halt",
       "dated": false,
@@ -58,8 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-2047-ta-tian-lu-kong-mie-dao",
     "plot.xianni-ch2049-tatian-fourth-bridge-halt"
   ],
-  "updatedAt": "2026-08-31T01:50:24.797Z"
+  "updatedAt": "2026-08-31T01:50:24.792Z"
 }

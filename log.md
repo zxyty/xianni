@@ -1283,3 +1283,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-31T01:38:08.964Z** `ingest` plot.xianni-ch2046-xingfa-lumo-five-bodies-fusion — 第2046章 刑罚戮默——王林五真身合一，赐名戮默、道号刑罚 · kind=plot asOf=2026-08-31 entities=21 relations=22 src=01954-01958.p5.md
 - **2026-08-31T01:40:16.825Z** `ingest` plot.xianni-2047-ta-tian-lu-kong-mie-dao — 第2047章 踏天路，空灭道！——杀戮真身归位与踏天九桥 · kind=plot asOf=2026-08-31 entities=22 relations=26 src=01959-01963.p1.md
 - **2026-08-31T01:47:47.654Z** `ingest` plot.xianni-ch1959-1963-spirits-plea-tashan-gaze — 第2048章 一百零八灵的哀求——王林踏第二桥，仙罡大陆七十二洲天外之灵齐嘶哀求 · kind=plot asOf=2026-08-31 entities=49 relations=79 src=01959-01963.p2.md
+- **2026-08-31T01:50:25.306Z** `ingest` plot.xianni-ch2049-tatian-fourth-bridge-halt — 第2049章 止步——王林踏天九桥止步于第四桥 · kind=plot asOf=2026-08-31 entities=32 relations=38 src=01959-01963.p3.md
