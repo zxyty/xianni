@@ -8,15 +8,18 @@
     "竖起的海洋",
     "旋转的海洋",
     "苍茫大海所化的盆地",
-    "苍茫盆地"
+    "苍茫盆地",
+    "苍茫盆世（原文误排）",
+    "海水竖起所成的巨大盆地"
   ],
   "summary": "隔开古族与仙族之地，黑石城临近于此。",
   "attributes": {
-    "类型": "大海、巨海/天堑、海洋→竖起的海水风暴巨墙、海域（现为巨大深坑）、海洋、大海/盆地",
+    "类型": "大海、巨海/天堑、海洋→竖起的海水风暴巨墙、海域（现为巨大深坑）、海洋、大海/盆地、盆地/战场",
     "方位": "古族与仙族之间、仙族与古族（古祖）之间、古族大地与仙族大地之间、仙罡大陆中间苍茫盆地、古族与仙族两端之间",
     "所属界面": "仙罡大陆",
     "规模": "无边无际，难以测量",
-    "特产": "深处九柱之门"
+    "特产": "含死亡阴气的地气",
+    "守护": "海墙风暴"
   },
   "observations": {
     "类型": [
@@ -48,6 +51,11 @@
       {
         "value": "大海/盆地",
         "docId": "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao",
+        "seq": 1972
+      },
+      {
+        "value": "盆地/战场",
+        "docId": "plot.xianni-ch2063-drive-fog-wang-lin-vs-gudao",
         "seq": 1972
       }
     ],
@@ -97,6 +105,18 @@
         "value": "深处九柱之门",
         "docId": "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze",
         "seq": 1959
+      },
+      {
+        "value": "含死亡阴气的地气",
+        "docId": "plot.xianni-ch2063-drive-fog-wang-lin-vs-gudao",
+        "seq": 1972
+      }
+    ],
+    "守护": [
+      {
+        "value": "海墙风暴",
+        "docId": "plot.xianni-ch2063-drive-fog-wang-lin-vs-gudao",
+        "seq": 1972
       }
     ]
   },
@@ -128,9 +148,15 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze",
+      "docId": "plot.xianni-ch2063-drive-fog-wang-lin-vs-gudao",
       "dated": false,
-      "seq": 1959
+      "seq": 1972
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2063-drive-fog-wang-lin-vs-gudao",
+      "dated": false,
+      "seq": 1972
     }
   },
   "contested": false,
@@ -141,7 +167,8 @@
     "plot.xianni-2040-ninth-pillar-taigu-shenjing-opens",
     "plot.xianni-2041-tomorrow-song-zhi-heishi-city-farewell",
     "plot.xianni-ch1959-1963-spirits-plea-tashan-gaze",
-    "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao"
+    "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao",
+    "plot.xianni-ch2063-drive-fog-wang-lin-vs-gudao"
   ],
-  "updatedAt": "2026-08-31T02:24:12.188Z"
+  "updatedAt": "2026-08-31T02:26:22.740Z"
 }

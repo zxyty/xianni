@@ -4,13 +4,14 @@
   "name": "海墙风暴",
   "aliases": [
     "无边无尽的海墙风暴",
-    "海墙"
+    "海墙",
+    "苍茫盆地海墙风暴"
   ],
   "summary": "苍茫大海中心海水竖起形成的无边海墙，转动二百余年，内有空间碎裂痕迹与外扩威压，深处藏九根巨柱之门。",
   "attributes": {
     "所属界面": "仙罡大陆",
     "方位": "苍茫大海中心",
-    "类型": "风暴禁地",
+    "类型": "风暴禁地、自然屏障",
     "危险度": "极高（空间碎裂、无形威压）",
     "上级区域": "苍茫大海"
   },
@@ -33,6 +34,11 @@
       {
         "value": "风暴禁地",
         "docId": "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao",
+        "seq": 1972
+      },
+      {
+        "value": "自然屏障",
+        "docId": "plot.xianni-ch2063-drive-fog-wang-lin-vs-gudao",
         "seq": 1972
       }
     ],
@@ -87,7 +93,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao"
+    "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao",
+    "plot.xianni-ch2063-drive-fog-wang-lin-vs-gudao"
   ],
-  "updatedAt": "2026-08-31T02:24:12.191Z"
+  "updatedAt": "2026-08-31T02:26:22.741Z"
 }

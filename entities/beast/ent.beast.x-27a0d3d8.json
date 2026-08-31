@@ -4,19 +4,25 @@
   "name": "九头雾兽",
   "aliases": [
     "狰狞雾兽",
-    "九头嘶吼雾兽"
+    "九头嘶吼雾兽",
+    "九头雾兽护身"
   ],
   "summary": "古道身外雾气所化的九头巨兽，古老沧桑似有灵，与王林当年在古神之地所见异兽吉穷颇为相似。",
   "attributes": {
-    "外形": "九个头颅、狰狞",
+    "外形": "九个头颅、狰狞、浓雾所化九头巨兽",
     "主人": "古道大天尊",
-    "能力": "散发古老沧桑之威、嘶吼震天"
+    "能力": "散发古老沧桑之威、嘶吼震天、九色彩虹防御、九头光芒嘶吼波纹"
   },
   "observations": {
     "外形": [
       {
         "value": "九个头颅、狰狞",
         "docId": "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao",
+        "seq": 1972
+      },
+      {
+        "value": "浓雾所化九头巨兽",
+        "docId": "plot.xianni-ch2063-drive-fog-wang-lin-vs-gudao",
         "seq": 1972
       }
     ],
@@ -31,6 +37,16 @@
       {
         "value": "散发古老沧桑之威、嘶吼震天",
         "docId": "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao",
+        "seq": 1972
+      },
+      {
+        "value": "九色彩虹防御",
+        "docId": "plot.xianni-ch2063-drive-fog-wang-lin-vs-gudao",
+        "seq": 1972
+      },
+      {
+        "value": "九头光芒嘶吼波纹",
+        "docId": "plot.xianni-ch2063-drive-fog-wang-lin-vs-gudao",
         "seq": 1972
       }
     ]
@@ -59,7 +75,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao"
+    "plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao",
+    "plot.xianni-ch2063-drive-fog-wang-lin-vs-gudao"
   ],
-  "updatedAt": "2026-08-31T02:24:12.206Z"
+  "updatedAt": "2026-08-31T02:26:22.738Z"
 }

@@ -10,7 +10,8 @@
     "所属界面": "仙罡大陆",
     "类型": "冰川",
     "方位": "北州",
-    "特产": "万载不化的寒气"
+    "特产": "万载不化的寒气",
+    "所属势力": "仙族"
   },
   "observations": {
     "所属界面": [
@@ -50,6 +51,13 @@
         "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
         "seq": 1909
       }
+    ],
+    "所属势力": [
+      {
+        "value": "仙族",
+        "docId": "plot.xianni-ch2063-drive-fog-wang-lin-vs-gudao",
+        "seq": 1972
+      }
     ]
   },
   "firstSeq": 1863,
@@ -77,13 +85,20 @@
       "docId": "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
       "dated": false,
       "seq": 1909
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2063-drive-fog-wang-lin-vs-gudao",
+      "dated": false,
+      "seq": 1972
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-1863-1867-tianzun-nie-yiming-jingren",
-    "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi"
+    "plot.xianni-ch1909-1913-datianzun-sun-wang-lin-vs-dao-yi",
+    "plot.xianni-ch2063-drive-fog-wang-lin-vs-gudao"
   ],
-  "updatedAt": "2026-08-30T23:13:27.913Z"
+  "updatedAt": "2026-08-31T02:26:22.744Z"
 }

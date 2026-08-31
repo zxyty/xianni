@@ -1297,3 +1297,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-31T02:19:15.482Z** `ingest` plot.xianni-2060-jidu-enthronement-wanglin-second-soul-blood — 第2060章 天地……——计都登基九拜、王林古道三分神成功获第二滴魂血 · kind=plot asOf=2026-08-31 entities=25 relations=26 src=01972-01976.p1.md
 - **2026-08-31T02:21:39.239Z** `ingest` plot.xianni-ch2061-liyi-guzu-hunxue-jibie — 第2061章 离意：三滴古祖魂血入体，王林授冠计都、辞别玄罗，重登踏天第四桥 · kind=plot asOf=2026-08-31 entities=24 relations=36 src=01972-01976.p2.md
 - **2026-08-31T02:24:12.790Z** `ingest` plot.xianni-2062-xiangang-first-battle-wang-lin-vs-gu-dao — 第2062章 仙罡第一战：王林出关与古道大天尊迷雾对决 · kind=plot asOf=2026-08-31 entities=34 relations=41 src=01972-01976.p3.md
+- **2026-08-31T02:26:23.254Z** `ingest` plot.xianni-ch2063-drive-fog-wang-lin-vs-gudao — 第2063章 驱雾！——王林与古道大天尊苍茫盆地对决，八极道尽出 · kind=plot asOf=2026-08-31 entities=28 relations=43 src=01972-01976.p4.md
