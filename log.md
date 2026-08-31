@@ -1268,3 +1268,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-31T00:51:19.328Z** `ingest` plot.xianni-2031-chongguan-yinu-10-wang-lin-self-destruct-sever-master-bond — 第2031章 冲冠一怒（十）：王林自毁一次断师徒之情，血洗道古皇宫 · kind=plot asOf=2026-08-31 entities=16 relations=24 src=01939-01943.p5.md
 - **2026-08-31T00:53:44.453Z** `ingest` plot.xianni-2032-chongguan-yinu-end-limuwan-awaken — 第2032章 冲冠一怒（结）：王林唤醒李慕婉残魂、斩紫印锁、显化古祖虚影 · kind=plot asOf=2026-08-31 entities=18 relations=31 src=01944-01948.p1.md
 - **2026-08-31T00:57:33.451Z** `ingest` plot.xianni-ch2033-huangzun-zhi-si — 第2033章 皇尊之死！——王林借古祖之影诛道古皇尊、一指劈开国师荒山 · kind=plot asOf=2026-08-31 entities=27 relations=40 src=01944-01948.p2.md
+- **2026-08-31T01:00:10.684Z** `ingest` plot.xianni-2034-shengghuang-zu-yewei-chumian — 第2034章 故……｜圣皇祖烨微出棺，玄罗一言退大阵 · kind=plot asOf=2026-08-31 entities=23 relations=30 src=01944-01948.p3.md
