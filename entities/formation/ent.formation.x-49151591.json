@@ -3,12 +3,14 @@
   "type": "formation",
   "name": "仙界阵法",
   "aliases": [
-    "新仙界护界阵法"
+    "新仙界护界阵法",
+    "仙界外的阵法",
+    "护界大阵"
   ],
   "summary": "护持新仙界的阵法；赤魂教红袍青年称两天后阵法将被破。",
   "attributes": {
-    "效果": "护持新仙界",
-    "破解法": "赤魂教称两天后即可攻破"
+    "效果": "护住新仙界",
+    "破解法": "血光腐蚀，约两日消散"
   },
   "observations": {
     "效果": [
@@ -16,6 +18,11 @@
         "value": "护持新仙界",
         "docId": "plot.xianni-2073-dongfu-realm-return-and-chihun-sect-crisis",
         "seq": 1982
+      },
+      {
+        "value": "护住新仙界",
+        "docId": "plot.xianni-2075-yuedin-wang-lin-mu-bingmei-mengdao-lunhui",
+        "seq": 1987
       }
     ],
     "破解法": [
@@ -24,6 +31,12 @@
         "docId": "plot.xianni-2073-dongfu-realm-return-and-chihun-sect-crisis",
         "seq": 1982,
         "note": "第2073章尚未破"
+      },
+      {
+        "value": "血光腐蚀，约两日消散",
+        "docId": "plot.xianni-2075-yuedin-wang-lin-mu-bingmei-mengdao-lunhui",
+        "seq": 1987,
+        "note": "第2075章赤魂子所为"
       }
     ]
   },
@@ -31,22 +44,23 @@
   "attrProvenance": {
     "效果": {
       "asOf": null,
-      "docId": "plot.xianni-2073-dongfu-realm-return-and-chihun-sect-crisis",
+      "docId": "plot.xianni-2075-yuedin-wang-lin-mu-bingmei-mengdao-lunhui",
       "dated": false,
-      "seq": 1982
+      "seq": 1987
     },
     "破解法": {
       "asOf": null,
-      "docId": "plot.xianni-2073-dongfu-realm-return-and-chihun-sect-crisis",
+      "docId": "plot.xianni-2075-yuedin-wang-lin-mu-bingmei-mengdao-lunhui",
       "dated": false,
-      "seq": 1982,
-      "note": "第2073章尚未破"
+      "seq": 1987,
+      "note": "第2075章赤魂子所为"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-2073-dongfu-realm-return-and-chihun-sect-crisis"
+    "plot.xianni-2073-dongfu-realm-return-and-chihun-sect-crisis",
+    "plot.xianni-2075-yuedin-wang-lin-mu-bingmei-mengdao-lunhui"
   ],
-  "updatedAt": "2026-08-31T02:50:49.382Z"
+  "updatedAt": "2026-08-31T02:55:32.893Z"
 }
