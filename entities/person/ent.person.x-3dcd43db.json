@@ -6,17 +6,19 @@
     "圣皇祖",
     "圣皇祖烨微",
     "Ye Wei",
-    "紫棺老妪"
+    "紫棺老妪",
+    "沉入道古皇宫地下的圣皇祖"
   ],
   "summary": "道古一脉数万年前唯一以女子之身继位的皇尊，在位时道古一脉为三族最强，被尊为圣皇祖；本章自地底紫棺中现身，半生半死、与皇宫十万大阵融为一体。",
   "attributes": {
     "性别": "女",
     "种族": "道古族",
-    "身份": "道古一脉历代皇尊之一（唯一女皇尊）、圣皇祖",
+    "身份": "道古一脉历代皇尊之一（唯一女皇尊）、圣皇祖、道古皇宫地下沉睡者",
     "称号": "圣皇、圣皇祖",
     "外貌": "骷髅般老妪，发仅数根，着褪色皇袍，身躯漆黑，眉心/胸口/丹田各插一匕首",
     "存殁": "半生半死",
-    "标志特征": "沉睡于紫光棺木中，棺木沉于地底"
+    "标志特征": "沉睡于紫光棺木中，棺木沉于地底",
+    "阵营": "古族"
   },
   "observations": {
     "性别": [
@@ -43,6 +45,11 @@
         "value": "圣皇祖",
         "docId": "plot.xianni-ch2035-future-huangzun-luochen",
         "seq": 1944
+      },
+      {
+        "value": "道古皇宫地下沉睡者",
+        "docId": "plot.xianni-2040-ninth-pillar-taigu-shenjing-opens",
+        "seq": 1949
       }
     ],
     "称号": [
@@ -77,6 +84,13 @@
         "value": "沉睡于紫光棺木中，棺木沉于地底",
         "docId": "plot.xianni-ch2035-future-huangzun-luochen",
         "seq": 1944
+      }
+    ],
+    "阵营": [
+      {
+        "value": "古族",
+        "docId": "plot.xianni-2040-ninth-pillar-taigu-shenjing-opens",
+        "seq": 1949
       }
     ]
   },
@@ -124,13 +138,20 @@
       "docId": "plot.xianni-ch2035-future-huangzun-luochen",
       "dated": false,
       "seq": 1944
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.xianni-2040-ninth-pillar-taigu-shenjing-opens",
+      "dated": false,
+      "seq": 1949
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.xianni-2034-shengghuang-zu-yewei-chumian",
-    "plot.xianni-ch2035-future-huangzun-luochen"
+    "plot.xianni-ch2035-future-huangzun-luochen",
+    "plot.xianni-2040-ninth-pillar-taigu-shenjing-opens"
   ],
-  "updatedAt": "2026-08-31T01:02:42.347Z"
+  "updatedAt": "2026-08-31T01:18:49.805Z"
 }

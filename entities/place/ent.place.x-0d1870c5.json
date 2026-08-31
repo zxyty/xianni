@@ -12,11 +12,12 @@
   "summary": "仙罡大陆上一片放眼皆雪白、天降雪花的冰封之域，气候足以冻死一切生灵；其中一座冰山内坐着与矾珊璐同貌的女子。",
   "attributes": {
     "上级区域": "仙罡大陆",
-    "类型": "闭关秘地",
+    "类型": "极寒禁地、冰封禁地、闭关秘地、极寒之地",
     "危险度": "高（可化禁制阵法阻拦来者）",
-    "所属界面": "洞府界",
+    "所属界面": "仙罡大陆",
     "守护": "武封大天尊",
-    "特产": "冰层与下方寒冷深海"
+    "特产": "冰层与下方寒冷深海",
+    "所属势力": "仙族"
   },
   "observations": {
     "上级区域": [
@@ -41,6 +42,11 @@
         "value": "闭关秘地",
         "docId": "plot.xianni-ch2038-taigu-shenjing-treading-realms",
         "seq": 1949
+      },
+      {
+        "value": "极寒之地",
+        "docId": "plot.xianni-2040-ninth-pillar-taigu-shenjing-opens",
+        "seq": 1949
       }
     ],
     "危险度": [
@@ -60,6 +66,11 @@
         "value": "洞府界",
         "docId": "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
         "seq": 1675
+      },
+      {
+        "value": "仙罡大陆",
+        "docId": "plot.xianni-2040-ninth-pillar-taigu-shenjing-opens",
+        "seq": 1949
       }
     ],
     "守护": [
@@ -80,6 +91,13 @@
         "docId": "plot.xianni-ch2038-taigu-shenjing-treading-realms",
         "seq": 1949
       }
+    ],
+    "所属势力": [
+      {
+        "value": "仙族",
+        "docId": "plot.xianni-2040-ninth-pillar-taigu-shenjing-opens",
+        "seq": 1949
+      }
     ]
   },
   "firstSeq": 1601,
@@ -92,9 +110,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.xianni-ch2038-taigu-shenjing-treading-realms",
+      "docId": "plot.xianni-1693-qicai-arrival",
       "dated": false,
-      "seq": 1949
+      "seq": 1601
     },
     "危险度": {
       "asOf": null,
@@ -104,9 +122,9 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
+      "docId": "plot.xianni-2040-ninth-pillar-taigu-shenjing-opens",
       "dated": false,
-      "seq": 1675
+      "seq": 1949
     },
     "守护": {
       "asOf": null,
@@ -119,6 +137,12 @@
       "docId": "plot.xianni-ch2038-taigu-shenjing-treading-realms",
       "dated": false,
       "seq": 1949
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.xianni-2040-ninth-pillar-taigu-shenjing-opens",
+      "dated": false,
+      "seq": 1949
     }
   },
   "contested": false,
@@ -126,7 +150,8 @@
   "docs": [
     "plot.xianni-1693-qicai-arrival",
     "plot.xianni-ch1767-canshen-yuduo-yemo-yuanshen-blood",
-    "plot.xianni-ch2038-taigu-shenjing-treading-realms"
+    "plot.xianni-ch2038-taigu-shenjing-treading-realms",
+    "plot.xianni-2040-ninth-pillar-taigu-shenjing-opens"
   ],
-  "updatedAt": "2026-08-31T01:13:40.932Z"
+  "updatedAt": "2026-08-31T01:18:49.833Z"
 }
