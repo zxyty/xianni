@@ -1314,3 +1314,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-08-31T02:59:51.490Z** `ingest` plot.xianni-ch2077-recognize-daoyi — 第2077章 认识道一！——赤魂子搬出道一大天尊，王林隔空提审 · kind=plot asOf=2026-08-31 entities=22 relations=31 src=01987-01990.p3.md
 - **2026-08-31T03:08:17.575Z** `ingest` plot.xianni-ch2078-two-points-chihunzi-madness-wanglin-farewell-tour — 第2078章 两个点……——赤魂子疯灭、王林布阵留道统辞别仙界并遍访故地 · kind=plot asOf=2026-08-31 entities=63 relations=97 src=01987-01990.p4.md
 - **2026-08-31T03:10:02.613Z** `ingest` plot.xianni-2079-zai-zhengkai-shi-mumeibing-mengdao-yisheng — 第2079章 再睁开时：木冰眉梦中一世（赵国山村王林与柳眉） · kind=plot asOf=2026-08-31 entities=12 relations=19 src=01991-01995.p1.md
+- **2026-08-31T03:12:56.729Z** `ingest` plot.xianni-2080-what-is-truth — 第2080章 什么是真相——木冰眉离去、山谷守婉、墨智问罗盘 · kind=plot asOf=2026-08-31 entities=32 relations=45 src=01991-01995.p2.md
