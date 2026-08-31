@@ -5,12 +5,16 @@
   "aliases": [
     "飘落七彩雪花的山",
     "模糊天地",
-    "曾见过的世界"
+    "曾见过的世界",
+    "太古神境中心之山"
   ],
   "summary": "王林第二次分神时误入的模糊天地，山上飘落七彩雪花，有一道抱着尸体的身影；王林执意重返以听其完整话语，章末终于再度依稀窥见。",
   "attributes": {
     "类型": "模糊天地/异象之地",
-    "危险度": "未知，进入方式不明"
+    "危险度": "未知，进入方式不明",
+    "所属界面": "逆尘界",
+    "方位": "太古神境（定界罗盘）大地正中心",
+    "上级区域": "太古神境"
   },
   "observations": {
     "类型": [
@@ -25,6 +29,27 @@
         "value": "未知，进入方式不明",
         "docId": "plot.xianni-2059-third-fenshen-fusion-jidu-coronation",
         "seq": 1968
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "逆尘界",
+        "docId": "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan",
+        "seq": 1996
+      }
+    ],
+    "方位": [
+      {
+        "value": "太古神境（定界罗盘）大地正中心",
+        "docId": "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan",
+        "seq": 1996
+      }
+    ],
+    "上级区域": [
+      {
+        "value": "太古神境",
+        "docId": "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan",
+        "seq": 1996
       }
     ]
   },
@@ -41,12 +66,31 @@
       "docId": "plot.xianni-2059-third-fenshen-fusion-jidu-coronation",
       "dated": false,
       "seq": 1968
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan",
+      "dated": false,
+      "seq": 1996
+    },
+    "方位": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan",
+      "dated": false,
+      "seq": 1996
+    },
+    "上级区域": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan",
+      "dated": false,
+      "seq": 1996
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-2059-third-fenshen-fusion-jidu-coronation"
+    "plot.xianni-2059-third-fenshen-fusion-jidu-coronation",
+    "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan"
   ],
-  "updatedAt": "2026-08-31T02:16:56.711Z"
+  "updatedAt": "2026-08-31T03:28:59.178Z"
 }

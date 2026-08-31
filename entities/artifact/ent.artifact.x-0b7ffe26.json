@@ -3,12 +3,20 @@
   "type": "artifact",
   "name": "定界罗盘",
   "aliases": [
-    "逆尘量界的定界罗盘"
+    "逆尘量界的定界罗盘",
+    "定界盘",
+    "空灭之宝",
+    "Ding Jie Luo Pan",
+    "Tai Gu Shen Jing"
   ],
   "summary": "逆尘量界之物，现由王林持有。墨智代师尊追问王林何时归还，王林不予回应。",
   "attributes": {
-    "来历": "逆尘量界",
-    "持有者": "王林"
+    "来历": "逆尘界至宝，由『守护者』看守，王林前世从守护者手中借/抢走",
+    "持有者": "王林",
+    "品阶": "逆尘界至宝",
+    "能力": "可以改变一切、唯一的空灭之宝、在其内可吞噬融合王林",
+    "外形": "圆形大地状巨罗盘：笔直裂缝为刻度、交错山脉为符文；无指针，且缺少一半",
+    "禁制": "内部神识受限，无法弥漫整个大陆"
   },
   "observations": {
     "来历": [
@@ -16,6 +24,11 @@
         "value": "逆尘量界",
         "docId": "plot.xianni-2080-what-is-truth",
         "seq": 1991
+      },
+      {
+        "value": "逆尘界至宝，由『守护者』看守，王林前世从守护者手中借/抢走",
+        "docId": "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan",
+        "seq": 1996
       }
     ],
     "持有者": [
@@ -24,27 +37,90 @@
         "docId": "plot.xianni-2080-what-is-truth",
         "seq": 1991
       }
+    ],
+    "品阶": [
+      {
+        "value": "逆尘界至宝",
+        "docId": "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan",
+        "seq": 1996
+      }
+    ],
+    "能力": [
+      {
+        "value": "可以改变一切",
+        "docId": "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan",
+        "seq": 1996
+      },
+      {
+        "value": "唯一的空灭之宝",
+        "docId": "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan",
+        "seq": 1996
+      },
+      {
+        "value": "在其内可吞噬融合王林",
+        "docId": "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan",
+        "seq": 1996
+      }
+    ],
+    "外形": [
+      {
+        "value": "圆形大地状巨罗盘：笔直裂缝为刻度、交错山脉为符文；无指针，且缺少一半",
+        "docId": "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan",
+        "seq": 1996
+      }
+    ],
+    "禁制": [
+      {
+        "value": "内部神识受限，无法弥漫整个大陆",
+        "docId": "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan",
+        "seq": 1996
+      }
     ]
   },
   "firstSeq": 1991,
   "attrProvenance": {
     "来历": {
       "asOf": null,
-      "docId": "plot.xianni-2080-what-is-truth",
+      "docId": "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan",
       "dated": false,
-      "seq": 1991
+      "seq": 1996
     },
     "持有者": {
       "asOf": null,
       "docId": "plot.xianni-2080-what-is-truth",
       "dated": false,
       "seq": 1991
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan",
+      "dated": false,
+      "seq": 1996
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan",
+      "dated": false,
+      "seq": 1996
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan",
+      "dated": false,
+      "seq": 1996
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan",
+      "dated": false,
+      "seq": 1996
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-2080-what-is-truth"
+    "plot.xianni-2080-what-is-truth",
+    "plot.xianni-ch2085-que-de-yi-ge-dingjie-luopan"
   ],
-  "updatedAt": "2026-08-31T03:12:56.202Z"
+  "updatedAt": "2026-08-31T03:28:59.175Z"
 }
