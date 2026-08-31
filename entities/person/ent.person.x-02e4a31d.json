@@ -3,13 +3,17 @@
   "type": "person",
   "name": "杀戮分身",
   "aliases": [
-    "王林的杀戮分身"
+    "王林的杀戮分身",
+    "王林杀戮分身"
   ],
   "summary": "王林的分身，大成后被王林以流月之术逆转岁月送回无数万年前，在过去展开属于自己的梦道、推衍今生诸事；曾逆转天地借来定界罗盘置于仙罡大陆，最后一次抵达太古神境时轰开罗盘、释放器灵后消散，并在吉穷头骨上留下杀戮神识。",
   "attributes": {
     "身份": "王林所遣、拥有自主意识与完全自由的分身",
-    "结局": "在太古神境轰开定界罗盘、释放器灵后消散",
-    "元神强度": "大成"
+    "结局": "在太古神境轰开定界罗盘、释放器灵后消散、自愿抹去灵智与王林重新合一",
+    "元神强度": "大成",
+    "外貌": "黑衣长黑发，与王林一模一样",
+    "标志特征": "周身充满杀戮与毁灭之气",
+    "存殁": "散去灵智，融入本尊"
   },
   "observations": {
     "身份": [
@@ -24,12 +28,38 @@
         "value": "在太古神境轰开定界罗盘、释放器灵后消散",
         "docId": "plot.xianni-ch2086-samsara-is-right-there",
         "seq": 1996
+      },
+      {
+        "value": "自愿抹去灵智与王林重新合一",
+        "docId": "plot.xianni-ch2088-momentary-look-back-finale",
+        "seq": 1996
       }
     ],
     "元神强度": [
       {
         "value": "大成",
         "docId": "plot.xianni-ch2086-samsara-is-right-there",
+        "seq": 1996
+      }
+    ],
+    "外貌": [
+      {
+        "value": "黑衣长黑发，与王林一模一样",
+        "docId": "plot.xianni-ch2088-momentary-look-back-finale",
+        "seq": 1996
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "周身充满杀戮与毁灭之气",
+        "docId": "plot.xianni-ch2088-momentary-look-back-finale",
+        "seq": 1996
+      }
+    ],
+    "存殁": [
+      {
+        "value": "散去灵智，融入本尊",
+        "docId": "plot.xianni-ch2088-momentary-look-back-finale",
         "seq": 1996
       }
     ]
@@ -53,12 +83,31 @@
       "docId": "plot.xianni-ch2086-samsara-is-right-there",
       "dated": false,
       "seq": 1996
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2088-momentary-look-back-finale",
+      "dated": false,
+      "seq": 1996
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2088-momentary-look-back-finale",
+      "dated": false,
+      "seq": 1996
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.xianni-ch2088-momentary-look-back-finale",
+      "dated": false,
+      "seq": 1996
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.xianni-ch2086-samsara-is-right-there"
+    "plot.xianni-ch2086-samsara-is-right-there",
+    "plot.xianni-ch2088-momentary-look-back-finale"
   ],
-  "updatedAt": "2026-08-31T03:31:27.178Z"
+  "updatedAt": "2026-08-31T03:36:08.306Z"
 }
